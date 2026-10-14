@@ -137,7 +137,7 @@ But if I find out that they assemble things like this at Fort Huachuca, things a
 
 [20:00]
 
-But because I think of our public pressure following the release of the doctored footage of Charlie Kirk appointing her to the position of CEO, her story that she sat down, planned, and told Megan Kelly, um you could see, as we showed you in that absurd Daily Mail article, that the story was beginning to shift, right? Suddenly, it was the footage never really mattered. Everyone knew that was Charlie's plan for her to assume the position, even though he never put it in his will. We all knew that that was the master plan. Well, Erika's no longer speaking about the Aspen event. I think they'd like very much to move on from the Aspen event because liars lie all the time, and she's now talking about the plan.
+But because I think of our public pressure following the release of the doctored footage of Charlie Kirk appointing her to the position of CEO, her story that she sat down, planned, and told Megyn Kelly, um you could see, as we showed you in that absurd Daily Mail article, that the story was beginning to shift, right? Suddenly, it was the footage never really mattered. Everyone knew that was Charlie's plan for her to assume the position, even though he never put it in his will. We all knew that that was the master plan. Well, Erika's no longer speaking about the Aspen event. I think they'd like very much to move on from the Aspen event because liars lie all the time, and she's now talking about the plan.
 
 [20:39]
 

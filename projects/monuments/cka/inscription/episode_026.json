@@ -236,13 +236,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1339",
       "family_ref": "A-1339",
-      "bundle_name": "Blake Nef Interview Bundle",
+      "bundle_name": "Blake Neff Interview Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1339.1",
           "ref": "A-1339.1",
-          "description": "Blake Nef audio interview recounting events immediately after the UVU shooting",
+          "description": "Blake Neff audio interview recounting events immediately after the UVU shooting",
           "related_claims": [
             "C-1609",
             "C-1610"
@@ -821,7 +821,7 @@
       "ref": "N-17",
       "name": "Rob McCoy",
       "type": "person",
-      "description": "Referenced in Blake Nef interview as call recipient; subject of host commentary re: Charlie Kirk succession narrative.",
+      "description": "Referenced in Blake Neff interview as call recipient; subject of host commentary re: Charlie Kirk succession narrative.",
       "related_artifacts": [
         "A-1339.1"
       ],
@@ -1062,7 +1062,7 @@
       "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
-      "description": "Frank Turek (host says \"Frank Turk\"); named as a witness at the hospital.",
+      "description": "Frank Turek (host says \"Frank Turek\"); named as a witness at the hospital.",
       "related_artifacts": [],
       "related_claims": [
         "C-9561"
@@ -1135,7 +1135,7 @@
       "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
-      "description": "Bill Ackman (transcribed \"Bill Aman\"); named for his reported $1.75 million against Mamdani.",
+      "description": "Bill Ackman (transcribed \"Bill Ackman\"); named for his reported $1.75 million against Mamdani.",
       "related_artifacts": [],
       "related_claims": [
         "C-9525"
@@ -1152,7 +1152,7 @@
       "ref": "N-50",
       "name": "Sigmund Freud",
       "type": "person",
-      "description": "Sigmund Freud (host says \"Sigman Freud\"); subject of the host's gaslighting claim.",
+      "description": "Sigmund Freud (host says \"Sigmund Freud\"); subject of the host's gaslighting claim.",
       "related_artifacts": [],
       "related_claims": [
         "C-9575",
@@ -1237,9 +1237,9 @@
       "@type": "Person",
       "@id": "N-98",
       "ref": "N-98",
-      "name": "Bob Shulman",
+      "name": "Robert Shillman",
       "type": "person",
-      "description": "Bob Shulman (host says \"Bob Showman\"); the donor the host says took $2 million from Kirk.",
+      "description": "Bob Shillman (host says \"Bob Shillman\"); the donor the host says took $2 million from Kirk.",
       "related_artifacts": [],
       "related_claims": [
         "C-9540"
@@ -1344,7 +1344,7 @@
       "ref": "N-215",
       "name": "Jesse Watters",
       "type": "person",
-      "description": "Jesse Watters (transcribed \"Jesse Waters\"); interviewer of Erika Kirk.",
+      "description": "Jesse Watters (transcribed \"Jesse Watters\"); interviewer of Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
         "C-9567"
@@ -2119,15 +2119,15 @@
       "@type": "Claim",
       "@id": "C-1609",
       "ref": "C-1609",
-      "label": "Blake Nef Recounts Mikey McCoy's Actions",
-      "claim": "Blake Nef stated on-record that he was next to Mikey McCoy when the shot occurred, that Mikey ran in a specific direction, that his lip was quivering, and that Mikey placed calls to Erica Kirk and to Robin McCoy within approximately one minute.",
+      "label": "Blake Neff Recounts Mikey McCoy's Actions",
+      "claim": "Blake Neff stated on-record that he was next to Mikey McCoy when the shot occurred, that Mikey ran in a specific direction, that his lip was quivering, and that Mikey placed calls to Erica Kirk and to Robin McCoy within approximately one minute.",
       "anchored_artifacts": [
         "A-1339.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:36:07–00:39:39",
-      "investigative_direction": "Confirm publication date and outlet of the Blake Nef interview; cross-reference with available video footage of Mikey McCoy's post-shooting movements.",
+      "investigative_direction": "Confirm publication date and outlet of the Blake Neff interview; cross-reference with available video footage of Mikey McCoy's post-shooting movements.",
       "mentions_person_refs": [
         "N-1",
         "N-17",
@@ -2141,7 +2141,7 @@
       "@id": "C-1610",
       "ref": "C-1610",
       "label": "Host Disputes Mikey McCoy Phone Call Account",
-      "claim": "The host asserts that Blake Nef's account is internally inconsistent with observed video footage of Mikey McCoy's movement and phone posture, and contends that the described calls could not have occurred as described.",
+      "claim": "The host asserts that Blake Neff's account is internally inconsistent with observed video footage of Mikey McCoy's movement and phone posture, and contends that the described calls could not have occurred as described.",
       "anchored_artifacts": [
         "A-1339.1",
         "A-1344.1"
@@ -2856,7 +2856,7 @@
       "@id": "C-9540",
       "ref": "C-9540",
       "label": "Host Says Showman Took $2 Million From Kirk Over Tucker Carlson Stage Appearance",
-      "claim": "The host says that after Charlie Kirk was called an anti-semite for sitting down with Gen Z, financial threats were made and carried out, citing Bob Showman taking $2 million away from him because he let Tucker Carlson on stage.",
+      "claim": "The host says that after Charlie Kirk was called an anti-semite for sitting down with Gen Z, financial threats were made and carried out, citing Bob Shillman taking $2 million away from him because he let Tucker Carlson on stage.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2864,7 +2864,7 @@
       ],
       "claim_timestamp": "00:20:14",
       "investigative_direction": "Obtain donor records or statements confirming a $2 million withdrawal and its stated reason.",
-      "transcript_snippet": "People like Bob Showman took $2 million away from him because he let Tucker Carlson hit the stage.",
+      "transcript_snippet": "People like Bob Shillman took $2 million away from him because he let Tucker Carlson hit the stage.",
       "mentions_person_refs": [
         "N-98",
         "N-1",
@@ -3232,7 +3232,7 @@
       ],
       "claim_timestamp": "00:40:23",
       "investigative_direction": "Obtain wide footage tracking both men's movements from the shot to the vehicles.",
-      "transcript_snippet": "And he is on the phone already. And Blake Nef is nowhere to be seen.",
+      "transcript_snippet": "And he is on the phone already. And Blake Neff is nowhere to be seen.",
       "mentions_person_refs": [
         "N-194",
         "N-162"
@@ -3318,7 +3318,7 @@
       ],
       "claim_timestamp": "00:43:22",
       "investigative_direction": "Locate Neff's statement on arrival time and compare with transport and hospital records.",
-      "transcript_snippet": "Blake Nef says elsewhere they got into the hospital within 25 minutes.",
+      "transcript_snippet": "Blake Neff says elsewhere they got into the hospital within 25 minutes.",
       "mentions_person_refs": [
         "N-162"
       ]
@@ -3472,7 +3472,7 @@
       ],
       "claim_timestamp": "00:46:08",
       "investigative_direction": "Locate the Fox News airing date and transcript of the Watters interview with Erika Kirk.",
-      "transcript_snippet": "when the very anticipated interview drops between Jesse Waters and Erika Kirk, I will be watching.",
+      "transcript_snippet": "when the very anticipated interview drops between Jesse Watters and Erika Kirk, I will be watching.",
       "mentions_person_refs": [
         "N-215",
         "N-2",
@@ -3643,7 +3643,7 @@
       ],
       "claim_timestamp": "00:56:15",
       "investigative_direction": "None: reading recommendation recorded as said on air.",
-      "transcript_snippet": "I would start with the assault on truth from by Jeffrey Mason and then move on to this most critical book uh which is Sigman Freud in the Jewish Mystical Tradition.",
+      "transcript_snippet": "I would start with the assault on truth from by Jeffrey Mason and then move on to this most critical book uh which is Sigmund Freud in the Jewish Mystical Tradition.",
       "mentions_person_refs": [
         "N-853",
         "N-50",
@@ -3664,7 +3664,7 @@
       ],
       "claim_timestamp": "00:56:15",
       "investigative_direction": "Check Masson's published work on Freud and his role at the Freud Archives.",
-      "transcript_snippet": "That is why they celebrate Sigman Freud is because he mainstreamed gaslighting people that they harmed.",
+      "transcript_snippet": "That is why they celebrate Sigmund Freud is because he mainstreamed gaslighting people that they harmed.",
       "mentions_person_refs": [
         "N-50",
         "N-853"

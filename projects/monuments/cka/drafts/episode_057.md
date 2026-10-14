@@ -15,8 +15,8 @@
   - Hole-minted Nodes (reintro-ep057): N-527, N-538
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5420–C-5484
-  - New Nodes Introduced: N-460, N-461, N-462, N-463, N-464, N-10413, N-10414, N-10415
-  - Reused Nodes Appearing: N-5, N-22, N-30, N-82, N-205, N-10000, N-10063, N-10270, N-10385, N-10388, N-10404, N-10416, N-10422, N-11034, N-10424, N-10454
+  - New Nodes Introduced: N-460, N-461, N-462, N-463, N-464, N-10414, N-10415
+  - Reused Nodes Appearing: N-5, N-22, N-30, N-82, N-205, N-10000, N-10063, N-10270, N-10385, N-10388, N-10404, N-10416, N-10422, N-11034, N-10424, N-10454, N-10413
   - (see registers)
 
 ## 2. Executive Summary
@@ -552,7 +552,7 @@ Subject of a commenter's report and the host's statement that he is a federal in
 
 **N-527** Peter Thiel
 
-Named by the host (as 'Peter Teal') as giving interviews about the Antichrist.
+Named by the host (as 'Peter Thiel') as giving interviews about the Antichrist.
 
 *Related: C-5445*
 
@@ -1225,7 +1225,7 @@ Claim Timestamp: 00:25:12
 
 Claim: The host says Peter Thiel is going around giving interviews asking about the Antichrist, and that elites are obsessed with the Antichrist.
 
-Transcript Snippet: Maybe like people like Peter Teal, he's like going around giving interviews asking about the Antichrist.
+Transcript Snippet: Maybe like people like Peter Thiel, he's like going around giving interviews asking about the Antichrist.
 
 Anchored Artifacts: 
 Mentions: N-527

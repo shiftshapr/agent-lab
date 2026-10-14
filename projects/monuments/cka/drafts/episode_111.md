@@ -12,8 +12,8 @@
 - **Model Version**: claude-manual-extract-seq111
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (skeleton): N-655, N-657, N-658, N-659, N-660, N-661, N-662, N-663, N-664, N-665, N-666, N-10948, N-10949, N-10950, N-10951, N-10952
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-22, N-27, N-30, N-46, N-60, N-82, N-97, N-99, N-162, N-248, N-345, N-456, N-457, N-557, N-587, N-632, N-10000, N-10008, N-10026, N-10056, N-10070, N-10194, N-10350, N-10376, N-10401, N-10411, N-10437, N-10451, N-10538, N-10583, N-10584, N-10637, N-10664, N-10700, N-10888, N-10923, N-10954, N-10953, N-656
+  - Tip-minted Nodes (skeleton): N-657, N-658, N-659, N-660, N-661, N-662, N-663, N-664, N-665, N-666, N-10948, N-10949, N-10950, N-10951, N-10952
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-22, N-27, N-30, N-46, N-60, N-82, N-97, N-99, N-162, N-248, N-345, N-456, N-457, N-557, N-587, N-632, N-10000, N-10008, N-10026, N-10056, N-10070, N-10194, N-10350, N-10376, N-10401, N-10411, N-10437, N-10451, N-10538, N-10583, N-10584, N-10637, N-10664, N-10700, N-10888, N-10923, N-10954, N-10953, N-656, N-655
   - Claim Range: C-4322–C-4384
   - (see registers)
 
@@ -341,7 +341,7 @@ Named by the host as the person Charlie repeatedly called out in his Aspen prese
 
 **N-14** Andrew Kolvet
 
-Transcript spellings "Andrew Kolb" and "Andrew Kolburt". Messaged by the host about the video; earlier said an intern runs the TPUSA X account; Aubrey is described as having worked for him.
+Transcript spellings "Andrew Kolvet" and "Andrew Kolvet". Messaged by the host about the video; earlier said an intern runs the TPUSA X account; Aubrey is described as having worked for him.
 
 *Related: C-4360, C-4376, C-4377, C-4379*
 
@@ -370,7 +370,7 @@ Named George Farmer in the Loomer post; alleged by Loomer's source to have met D
 
 **N-46** Megyn Kelly
 
-Transcript spelling "Megan Kelly". Cited for saying Mark Levin would hurt her and as the November 2025 interviewer to whom Erika Kirk first described the appointment video.
+Transcript spelling "Megyn Kelly". Cited for saying Mark Levin would hurt her and as the November 2025 interviewer to whom Erika Kirk first described the appointment video.
 
 *Related: C-4344, C-4363*
 
@@ -424,7 +424,7 @@ Pastor of Harvest church, with which Erika Kirk toured; the church faces a Roman
 
 **N-457** Paul Havsgaard
 
-Transcript spelling "Paul Habsgard". Per the host, Greg Laurie's defense is that Havsgaard acted alone in Romania.
+Transcript spelling "Paul Havsgaard". Per the host, Greg Laurie's defense is that Havsgaard acted alone in Romania.
 
 *Related: C-4348*
 
@@ -1302,7 +1302,7 @@ Claim Timestamp: 00:55:43
 
 Claim: The host says Erika Kirk first raised the video in a November 2025 interview with Megyn Kelly. According to the host, Erika said there that Charlie named her CEO at a private event three weeks before his death.
 
-Transcript Snippet: Erika introduced this video to the public conscience herself back in November of 2025 in an interview with Megan Kelly, claiming that Charlie named her as a CEO at a private event just 3 weeks before his death.
+Transcript Snippet: Erika introduced this video to the public conscience herself back in November of 2025 in an interview with Megyn Kelly, claiming that Charlie named her as a CEO at a private event just 3 weeks before his death.
 
 Anchored Artifacts:
 Mentions: N-2, N-46, N-1
@@ -1861,7 +1861,7 @@ Confidence: high
 - **Duration mismatch**: the skeleton's Video Timestamp Range said 00:56:29, but the transcript front matter gives 1:22:06. The range is set to 01:22:06 per the spec. The skeleton's M-56 occurrence timestamp (00:07:43) and its truncated quote are kept verbatim, although the "Clown World" line sits in the [06:42] paragraph.
 - **DIA scan**: no real DIA beat. The only hits are "candaceowens. com" at 01:20:38 and 01:21:32, both merch plugs, not tip requests. The host's mention that "someone emailed me" about Victor Marx and Greg Laurie (00:40:20, C-4349) is a received tip but uses none of the scan phrases. She also says she reached out to the Aspen donors (C-4382). No M-12 or M-14 occurrences are added.
 - **Artifacts verbally referenced but not clearly shown**: A-2619.1 (the "Congress discreetly moves to merge US military" headline; the host says "you guys saw the headlines") and A-2627.1 (the White House FOIA response, a verbal reference only). The Daily Mail article on the video, the Megyn Kelly interview, Erika Kirk's fundraising email with Charlie's letter, and Trump's posts about the host are mentioned but not shown, so they are not inscribed as artifacts.
-- **Name matching**: "Dana Lash" (41:37) is minted as N-665 Dana Loesch. The context is the Turning Point summit speaker who attacked the host over Russia, and the host's earlier asides to "Dana" (27:36, 29:21) are taken to be her; nodes.tsv has no row for her. "Dugan" (41:37) is Alexander Dugin. "Paul Habsgard" is mapped to N-457 Paul Havsgaard through its alias. "Aubrey" (51:07) is mapped to N-557 Aubrey Lech with medium confidence. The transcript says "Aubrey, Aubrey's husband. Um the one who used to work uh for Andrew Kolb at", so it is ambiguous whether Aubrey or her husband worked for Kolvet. "Andrew Kolb"/"Andrew Kolburt" are mapped to N-14. "Justin Streiff" is mapped to N-15. "Megan Kelly" is mapped to N-46. "Vladimir Putin" reuses the node title minted as N-655 in staging episode 105. "Vance Voetberg" spelling is unverified and kept as transcribed. "Secretary Rubio" is minted as N-656 Marco Rubio from the host's reading of Loomer's tags.
+- **Name matching**: "Dana Lash" (41:37) is minted as N-665 Dana Loesch. The context is the Turning Point summit speaker who attacked the host over Russia, and the host's earlier asides to "Dana" (27:36, 29:21) are taken to be her; nodes.tsv has no row for her. "Dugan" (41:37) is Alexander Dugin. "Paul Havsgaard" is mapped to N-457 Paul Havsgaard through its alias. "Aubrey" (51:07) is mapped to N-557 Aubrey Lech with medium confidence. The transcript says "Aubrey, Aubrey's husband. Um the one who used to work uh for Andrew Kolvet at", so it is ambiguous whether Aubrey or her husband worked for Kolvet. "Andrew Kolvet"/"Andrew Kolvet" are mapped to N-14. "Justin Streiff" is mapped to N-15. "Megyn Kelly" is mapped to N-46. "Vladimir Putin" reuses the node title minted as N-655 in staging episode 105. "Vance Voetberg" spelling is unverified and kept as transcribed. "Secretary Rubio" is minted as N-656 Marco Rubio from the host's reading of Loomer's tags.
 - **Topic reuse**: N-10923 reuses the exact title "White House Military Office Erika Kirk Amplification Email" from staging episode 105. M-95 reuses the title "Emotional Response Asset" from staging episode 105, although here the host says only "emotional asset."
 - **Transcription ambiguities**: "Dangerously Asens" and "Zarist Russia" in the Hertz article title are kept as transcribed. "Candace Tovia Moscowins" is a joke name. "WLS" in the email is the Women's Leadership Summit. "Conrad" in the TPUSA reply is likely "comrade." "Maxwell class" (01:11:42) probably means "Maxwell clan."
 - **Possible cross-episode links considered**: C-4373 Supports C-2889 (ep 102) and could also link C-2685 (ep 90, same audio line). C-4369 Supports C-2694 and C-2888. C-4363 Supports C-2657. C-4348 Supports C-2087. The host's mention of the clip as Erika's "walk out music" could link C-2656 (ep 88), but the summit setting differs from AmFest, so it is left out. C-4365 might relate to C-2661 (ep 88, Blake Neff refused to release the video) but is not the same proposition.

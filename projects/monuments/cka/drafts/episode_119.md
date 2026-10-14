@@ -325,7 +325,7 @@ Named in Blake Neff's tweet and in the host's remarks about TPUSA staff doubts a
 
 **N-46** Megyn Kelly
 
-Transcript spelling "Megan Kelly". Erika Kirk told her the original succession story.
+Transcript spelling "Megyn Kelly". Erika Kirk told her the original succession story.
 
 *Related: C-4804*
 

@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-758, N-11070, N-11071, N-11073
+  - Tip-minted Nodes (supplement_2026-10): N-758, N-11070, N-11073
   - Claim Range (supplement_2026-10): C-6091–C-6170
-  - Reused Nodes Appearing: N-10810, N-10812, N-10813, N-3, N-4, N-27, N-30, N-31, N-40, N-54, N-97, N-102, N-194, N-10003, N-10043, N-10051, N-10100, N-10110, N-10162, N-10250, N-10337, N-10340, N-10346, N-10381, N-10386, N-10456, N-10774, N-757, N-11072
+  - Reused Nodes Appearing: N-10810, N-10812, N-10813, N-3, N-4, N-27, N-30, N-31, N-40, N-54, N-97, N-102, N-194, N-10003, N-10043, N-10051, N-10100, N-10110, N-10162, N-10250, N-10337, N-10340, N-10346, N-10381, N-10386, N-10456, N-10774, N-757, N-11072, N-11071
  - New Nodes Introduced: N-10810, N-10811, N-10812, N-10813
  - Hole-minted Nodes (wave3): N-586
  - Reused Nodes Appearing: N-11, N-18, N-575
@@ -865,11 +865,11 @@ Investigative Direction: Obtain the full unedited segment; note any surrounding 
 
 ---
 
-**C-3324** Andrew Kolvet briefed Candace on Bill Aman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood
+**C-3324** Andrew Kolvet briefed Candace on Bill Ackman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood
 
 Claim Timestamp: 00:51:00–00:54:00
 
-Claim: Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Aman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.
+Claim: Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Ackman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.
 
 Anchored Artifacts: A-2308.1, A-2308.2
 Mentions: N-14, N-1, N-36, N-274, N-37
@@ -880,13 +880,13 @@ Investigative Direction: Preserve the original text-message exports with metadat
 
 ---
 
-**C-3774** Bill Ackman is the 'Bill Aman' of the summit named in C-3324 (revises C-3324)
+**C-3774** Bill Ackman is the 'Bill Ackman' of the summit named in C-3324 (revises C-3324)
 
 Claim Timestamp: 00:50:09
 
-Claim: C-3324 spells the summit host 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-37): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.
+Claim: C-3324 spells the summit host 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37): the host says Andrew Kolvet was the one telling her about the Bill Ackman summit on September 12, 2025.
 
-Transcript Snippet: on the 12th, you were the one that was telling me about the Bill Aman summit.
+Transcript Snippet: on the 12th, you were the one that was telling me about the Bill Ackman summit.
 
 Anchored Artifacts: A-2308.1, A-2308.2
 Mentions: N-37, N-14
@@ -946,7 +946,7 @@ Claim Timestamp: 00:03:22
 
 Claim: The host says Andrew Kolvet told the audience that Terrell Farnsworth removed the camera card because he was worried about people stealing hats, which she says does not fit the footage.
 
-Transcript Snippet: we were told by Andrew Kovette that he was worried about people stealing hats.
+Transcript Snippet: we were told by Andrew Kolvet that he was worried about people stealing hats.
 
 Anchored Artifacts: 
 Mentions: N-14, N-265, N-3
@@ -1796,7 +1796,7 @@ Claim Timestamp: 00:50:09
 
 Claim: The host says she spoke to Andrew Kolvet on the phone every day and that they discussed a potential foreign angle in Charlie Kirk's assassination.
 
-Transcript Snippet: I was speaking to Andrew Kovette on the phone every single day and it was Andrew Kovette who was telling me and we were speaking about a potential foreign angle in Charlie's assassination.
+Transcript Snippet: I was speaking to Andrew Kolvet on the phone every single day and it was Andrew Kolvet who was telling me and we were speaking about a potential foreign angle in Charlie's assassination.
 
 Anchored Artifacts: A-2308.1
 Mentions: N-14, N-3, N-1
@@ -2337,14 +2337,14 @@ Confidence: high
 
 ## VII. Optional Flags
 
-- **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kovette" and "Kulvette"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Nolles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
+- **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Nolles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
 - **Wave 1 reconciliation:** Terrell Farnsworth is N-265, Andrew Kolvet is N-14, Blake Neff is N-162, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
 - **Likely-existing investigation targets flagged:** N-10810 (SD card chain of custody), N-10811 (aspect ratio modification), N-10812 (Terrell handling), N-10813 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.
 - **Transcript ambiguity:** The "Beavis and Butt-Head" podcast name is used by the host as a pejorative descriptor for the Kolvet/Neff show; it is unclear whether this is also the show's actual title or solely a rhetorical label.
 - **Host inference flagged:** Candace's reading of A-2301.1 and A-2301.2 (that Terrell "inserts an SD card" and "zoomed in") is a host interpretation of footage, not a transcription of on-screen text. Inscribed as a host interpretation claim anchored to the footage artifacts rather than as an established fact.
 - **Speculative commentary excluded:** The host's broader rhetorical claims about "assassination," "military operation," and full narrative reconstructions are not inscribed as claims under the Framing Premise failure label.
-- **No artifact recorded for:** The host's statements about Tyler's innocence, the Dairy Queen photo, the Lance Twigs / "dump clothes in cemetery" story, and the steakhouse-receipt narrative are referenced as prior-episode material but receive no new artifacts in this episode and are not inscribed as new claims.
+- **No artifact recorded for:** The host's statements about Tyler's innocence, the Dairy Queen photo, the Lance Twiggs / "dump clothes in cemetery" story, and the steakhouse-receipt narrative are referenced as prior-episode material but receive no new artifacts in this episode and are not inscribed as new claims.
 
 ---
 

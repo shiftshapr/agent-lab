@@ -917,7 +917,7 @@ Named in the host timeline for the July 7 to 9 Washington visit, the August call
 
 **N-37** Bill Ackman
 
-Named as the Hamptons retreat sponsor and as the person Tucker Carlson questioned on stage (transcript spelling Bill Aman).
+Named as the Hamptons retreat sponsor and as the person Tucker Carlson questioned on stage (transcript spelling Bill Ackman).
 
 *Related: C-6241, C-6254*
 
@@ -1455,7 +1455,7 @@ Investigative Direction: Obtain the review’s outreach log appendices; confirm 
 
 Claim Timestamp: 00:04:22
 
-Claim: Host asserts Erika Kirk / TPUSA public messaging about wanting answers is contradicted by the organization’s documented non-response to the UVU third-party review, while communicators such as Andrew Kovette and Blake Neff continued transparency rhetoric.
+Claim: Host asserts Erika Kirk / TPUSA public messaging about wanting answers is contradicted by the organization’s documented non-response to the UVU third-party review, while communicators such as Andrew Kolvet and Blake Neff continued transparency rhetoric.
 
 Anchored Artifacts: A-2451.1, A-2452.1
 Mentions: N-2, N-14, N-162
@@ -2683,7 +2683,7 @@ Claim Timestamp: 00:57:42
 
 Claim: The host says that at the July SAS event Tucker Carlson mused about where Bill Ackman's wealth comes from.
 
-Transcript Snippet: he muses about where Bill Aman's wealth comes from.
+Transcript Snippet: he muses about where Bill Ackman's wealth comes from.
 
 Anchored Artifacts: A-2456.1
 Mentions: N-22, N-37
@@ -2698,7 +2698,7 @@ Claim Timestamp: 00:58:55
 
 Claim: The host says Frank Turek deleted his website on July 11 and that the Wayback Machine shows remnants of an expedition looking for Noah's ark.
 
-Transcript Snippet: On July 11th, Frank Turk deletes his website, frank turk. com.
+Transcript Snippet: On July 11th, Frank Turek deletes his website, frank turk. com.
 
 Anchored Artifacts: A-2804.1
 Mentions: N-7, N-3
@@ -2758,7 +2758,7 @@ Claim Timestamp: 01:00:27
 
 Claim: The host says that thanks to Tucker Carlson and Megyn Kelly the audience learned later that Kirk intended to hit hard on Epstein at SAS and wanted that out there.
 
-Transcript Snippet: we learned later uh thanks to Tucker and Megan Kelly that that was his intention.
+Transcript Snippet: we learned later uh thanks to Tucker and Megyn Kelly that that was his intention.
 
 Anchored Artifacts: A-2803.1
 Mentions: N-1, N-22, N-46
@@ -2878,7 +2878,7 @@ Claim Timestamp: 01:04:12
 
 Claim: The host says the August Hamptons influencer retreat, which Charlie Kirk later described as an intervention, was sponsored by Bill Ackman, the person Tucker Carlson called out on stage.
 
-Transcript Snippet: the influencers trip, is sponsored by Bill Aman, the very person that Tucker Carlson called out on stage.
+Transcript Snippet: the influencers trip, is sponsored by Bill Ackman, the very person that Tucker Carlson called out on stage.
 
 Anchored Artifacts: A-2456.1
 Mentions: N-37, N-1, N-22
@@ -2894,7 +2894,7 @@ Claim Timestamp: 01:05:11
 
 Claim: The host says she was told directly by Andrew Kolvet that Netanyahu called Charlie Kirk and made an offer to take Turning Point USA to the next level.
 
-Transcript Snippet: I was told directly by Andrew Kovette to take Turning Point USA to the next level.
+Transcript Snippet: I was told directly by Andrew Kolvet to take Turning Point USA to the next level.
 
 Anchored Artifacts: A-2456.1
 Mentions: N-14, N-36, N-1, N-3

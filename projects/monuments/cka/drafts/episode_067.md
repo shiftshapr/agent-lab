@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: d5118abb6ad6ec2bcd690c539ec2d59272e03045bac365ac901d9017dac21a9a
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-525, N-526, N-528, N-529, N-530, N-531, N-533, N-534, N-536, N-537, N-539, N-540, N-541, N-10470, N-10471, N-10473, N-10474, N-10475, N-10476
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-527, N-538, N-535, N-10472
+  - New Nodes Introduced: N-525, N-528, N-529, N-530, N-531, N-533, N-534, N-536, N-537, N-539, N-540, N-541, N-10470, N-10471, N-10473, N-10474, N-10475, N-10476
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-527, N-538, N-535, N-10472, N-526
   - (see registers)
 
 ## I. Meta-Data
@@ -479,8 +479,7 @@ Investigative Pressure: High
 
 *Related: A-1726.1, C-2273, C-2274, N-2, N-14, N-10470, N-10473*
 
-**N-98** Bob Shulman
-
+**N-98** Robert Shillman
 Jewish donor; per host, withdrew financial support from Charlie Kirk on Sept 9 amid the pro-Israel text exchange.
 
 Evidence Count: 0
@@ -580,7 +579,7 @@ Investigative Pressure: Low
 
 **N-540** Alan Dershowitz
 
-Attorney and Epstein associate; cited as having recounted a massage from a woman named "Olga" at Epstein's place; defended by Mark Levin and Barry Weiss.
+Attorney and Epstein associate; cited as having recounted a massage from a woman named "Olga" at Epstein's place; defended by Mark Levin and Bari Weiss.
 
 Evidence Count: 1
 Claim Count: 0

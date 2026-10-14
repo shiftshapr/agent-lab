@@ -229,7 +229,7 @@ Bradley Hansell's travel schedule uh from September 7th to 10th. We actually I t
 
 [45:23]
 
-Um we are also asking the Secret Service and the DHS for Andrew Kolbenschlag's White House meeting that we told you about, that strange coincidence of the day before the Epstein files were released. Andrew Kolbenschlag appeared to be live in studio on the Charlie Kirk show hosting of all people Kash Patel. How odd. But he wasn't. He wasn't live. This was pre-recorded. And actually, Andrew Kolbenschlag was 5 hours via a flight away in Washington, D. C. It in the Executive Office Building. And we didn't know. We just tweeted it because I was like this might mean something. I don't know, but people are telling me that he's here and yet he's appearing as though he's actually in Arizona. And then sure enough the next day the Epstein files get dropped.
+Um we are also asking the Secret Service and the DHS for Andrew Kolvet's White House meeting that we told you about, that strange coincidence of the day before the Epstein files were released. Andrew Kolvet appeared to be live in studio on the Charlie Kirk show hosting of all people Kash Patel. How odd. But he wasn't. He wasn't live. This was pre-recorded. And actually, Andrew Kolvet was 5 hours via a flight away in Washington, D. C. It in the Executive Office Building. And we didn't know. We just tweeted it because I was like this might mean something. I don't know, but people are telling me that he's here and yet he's appearing as though he's actually in Arizona. And then sure enough the next day the Epstein files get dropped.
 
 [46:13]
 

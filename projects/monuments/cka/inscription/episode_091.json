@@ -238,6 +238,162 @@
           "discovery_timestamp": "00:00:00–00:00:01"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3227",
+      "family_ref": "A-3227",
+      "bundle_name": "Erika Kirk Speech Quotes Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3227.1",
+          "ref": "A-3227.1",
+          "description": "Host reads aloud a line she attributes to Erika Kirk's September 12 address to the nation",
+          "related_claims": [
+            "C-12820"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-11346"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:01:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3227.2",
+          "ref": "A-3227.2",
+          "description": "Host reads aloud a line she attributes to Erika Kirk's remarks at the memorial",
+          "related_claims": [
+            "C-12821"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-2",
+            "N-11346"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:01:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3228",
+      "family_ref": "A-3228",
+      "bundle_name": "Host Verbal Reference to Hall's Call With the Texas Deputy Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3228.1",
+          "ref": "A-3228.1",
+          "description": "Host verbal reference to Corby Hall's phone call with the Texas deputy after the ATF email (relayed by the host, not shown)",
+          "related_claims": [
+            "C-12877",
+            "C-12878"
+          ],
+          "related_nodes": [
+            "N-10599",
+            "N-10603",
+            "N-346"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:39:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3229",
+      "family_ref": "A-3229",
+      "bundle_name": "Host Verbal Reference to Hall's Forwarded Evidence Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3229.1",
+          "ref": "A-3229.1",
+          "description": "Host verbal reference to the evidence and conversations Corby Hall forwarded to the host (not shown)",
+          "related_claims": [
+            "C-12879"
+          ],
+          "related_nodes": [
+            "N-10599",
+            "N-3",
+            "N-346"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:39:25",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3230",
+      "family_ref": "A-3230",
+      "bundle_name": "Host Verbal Reference to Hall's First Contact Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3230.1",
+          "ref": "A-3230.1",
+          "description": "Host verbal reference to the email and phone call in which Corby Hall first contacted her team (not shown)",
+          "related_claims": [
+            "C-12831"
+          ],
+          "related_nodes": [
+            "N-1",
+            "N-10613",
+            "N-346"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:05:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3231",
+      "family_ref": "A-3231",
+      "bundle_name": "Corey Kennedy Research Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3231.1",
+          "ref": "A-3231.1",
+          "description": "Host verbal reference to Corey Kennedy's deep dive on Victor Marx posted on X and Facebook (not shown)",
+          "related_claims": [
+            "C-12892",
+            "C-12893"
+          ],
+          "related_nodes": [
+            "N-10604",
+            "N-345",
+            "N-923"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:56:23",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -424,7 +580,20 @@
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12818",
+        "C-12820",
+        "C-12821",
+        "C-12827",
+        "C-12828",
+        "C-12831",
+        "C-12832",
+        "C-12834",
+        "C-12835",
+        "C-12836",
+        "C-12837",
+        "C-12884"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -440,7 +609,18 @@
       "type": "person",
       "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12818",
+        "C-12819",
+        "C-12820",
+        "C-12821",
+        "C-12822",
+        "C-12829",
+        "C-12830",
+        "C-12834",
+        "C-12836",
+        "C-12837"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -456,7 +636,9 @@
       "type": "person",
       "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12882"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -498,6 +680,786 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself throughout.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12818",
+        "C-12824",
+        "C-12825",
+        "C-12826",
+        "C-12879",
+        "C-12880",
+        "C-12881",
+        "C-12884",
+        "C-12885",
+        "C-12886",
+        "C-12889",
+        "C-12890",
+        "C-12894",
+        "C-12895"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 14,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein; the host ties the 2018 timeline to his arrest and speculates about his network re-emerging.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12885",
+        "C-12886"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-15",
+      "ref": "N-15",
+      "name": "Justin Streiff",
+      "type": "person",
+      "description": "TPUSA COO; the host says he did not write his own memorial speech.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12823"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-36",
+      "ref": "N-36",
+      "name": "Benjamin Netanyahu",
+      "type": "person",
+      "description": "Benjamin Netanyahu; named in the host's remark about pastors serving Israel's leader.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12891"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Defendant in the Kirk case; the host says the ATF trace on his gun came back inconclusive.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12874"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-162",
+      "ref": "N-162",
+      "name": "Blake Neff",
+      "type": "person",
+      "description": "TPUSA staffer; the host says he wrote Erika's September 12 address and heavily assisted her memorial speech.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12819",
+        "C-12822"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "TPUSA chief of staff from January 2024 per the host; the transcript spells him Mikey McCoy.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12827",
+        "C-12828"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-213",
+      "ref": "N-213",
+      "name": "Joe Kent",
+      "type": "person",
+      "description": "Named in a hypothetical about whom Erika should have called about the planes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12830"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-225",
+      "ref": "N-225",
+      "name": "Brett Cooper",
+      "type": "person",
+      "description": "Former Daily Wire host; the host cites what Daily Wire tried to do to her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12889"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-345",
+      "ref": "N-345",
+      "name": "Victor Marx",
+      "type": "person",
+      "description": "Pastor and Colorado gubernatorial candidate; the host and Corby Hall's statement describe his background, Fold AR dealings and Haiti activity.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12832",
+        "C-12833",
+        "C-12834",
+        "C-12835",
+        "C-12836",
+        "C-12838",
+        "C-12839",
+        "C-12840",
+        "C-12841",
+        "C-12844",
+        "C-12845",
+        "C-12846",
+        "C-12847",
+        "C-12848",
+        "C-12849",
+        "C-12850",
+        "C-12851",
+        "C-12853",
+        "C-12854",
+        "C-12856",
+        "C-12857",
+        "C-12858",
+        "C-12859",
+        "C-12860",
+        "C-12861",
+        "C-12862",
+        "C-12863",
+        "C-12864",
+        "C-12867",
+        "C-12868",
+        "C-12869",
+        "C-12870",
+        "C-12871",
+        "C-12872",
+        "C-12873",
+        "C-12883",
+        "C-12887",
+        "C-12892",
+        "C-12893"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 39,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-346",
+      "ref": "N-346",
+      "name": "Corby Hall",
+      "type": "person",
+      "description": "Fold AR maker whose written statement the host reads and whom she says she believes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12831",
+        "C-12838",
+        "C-12855",
+        "C-12856",
+        "C-12857",
+        "C-12858",
+        "C-12859",
+        "C-12861",
+        "C-12862",
+        "C-12863",
+        "C-12864",
+        "C-12865",
+        "C-12866",
+        "C-12867",
+        "C-12868",
+        "C-12869",
+        "C-12870",
+        "C-12871",
+        "C-12872",
+        "C-12873",
+        "C-12875",
+        "C-12876",
+        "C-12877",
+        "C-12878",
+        "C-12879",
+        "C-12894"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 26,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-347",
+      "ref": "N-347",
+      "name": "Eileen Marx",
+      "type": "person",
+      "description": "Victor Marx's wife; appears in the hug video and in Hall's account of the dream and vision.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12836",
+        "C-12848",
+        "C-12851",
+        "C-12852",
+        "C-12857",
+        "C-12858",
+        "C-12861"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-348",
+      "ref": "N-348",
+      "name": "Melody Hall",
+      "type": "person",
+      "description": "Hall's then girlfriend and later wife, described in his statement as COO of Fold AR.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12855",
+        "C-12862"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-353",
+      "ref": "N-353",
+      "name": "Gloyce Dean Kennedy",
+      "type": "person",
+      "description": "Victor Marx's stepfather per the host; subject of the army, smuggling and conviction claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12841",
+        "C-12842",
+        "C-12843"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-456",
+      "ref": "N-456",
+      "name": "Greg Laurie",
+      "type": "person",
+      "description": "Pastor the host names as accused of trafficking.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12888"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-648",
+      "ref": "N-648",
+      "name": "Sebastian Gorka",
+      "type": "person",
+      "description": "Host of the America First show on which Marx and Melody appeared per Hall's statement.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12862"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-732",
+      "ref": "N-732",
+      "name": "Mike Kennedy",
+      "type": "person",
+      "description": "Victor Marx's brother per the host; attorney who took a plea deal in the same smuggling case and co-founded the ministry.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12843",
+        "C-12849"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-733",
+      "ref": "N-733",
+      "name": "Karl Marx (Victor Marx's father)",
+      "type": "person",
+      "description": "Marx's biological father per the host; the transcript spells the first name Carl.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12844"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-734",
+      "ref": "N-734",
+      "name": "Kenneth Brining",
+      "type": "person",
+      "description": "Eileen Marx's brother per the host; subject of the shooting attempt and trial claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12851",
+        "C-12852"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-922",
+      "ref": "N-922",
+      "name": "Chaz Yandle",
+      "type": "person",
+      "description": "First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met Hall at the hotel and goes with Marx to Haiti. Spelling as transcribed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12867"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-923",
+      "ref": "N-923",
+      "name": "Corey Kennedy",
+      "type": "person",
+      "description": "First named by the host at 00:56:23 in episode 91 as a researcher who has done a deep dive on Victor Marx on X and Facebook. The host is unsure of the surname and spells the first name C O R I.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12892",
+        "C-12893"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization; the host's pastors, speeches and planes claims concern it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12818",
+        "C-12827",
+        "C-12884"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Place; existing node reused for the host's Iran, IDF and Zionism remarks.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12882",
+        "C-12890",
+        "C-12891"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10246",
+      "ref": "N-10246",
+      "name": "Calvary Chapel Institutional Abuse Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's remarks on Calvary Chapel as a source of troubled pastors.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12847",
+        "C-12850"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's Egyptian plane timeline and Erika's reaction to it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12824",
+        "C-12825",
+        "C-12826",
+        "C-12827",
+        "C-12828",
+        "C-12829",
+        "C-12830"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10276",
+      "ref": "N-10276",
+      "name": "Nebraska–Egypt Trade Mission / BTT Plane Overlap",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Nebraska overlap with Charlie's schedule.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12828"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10299",
+      "ref": "N-10299",
+      "name": "TPUSA Egyptian Plane Story Suppression Attempt",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's claim that Erika does not want the public looking at the planes.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12829",
+        "C-12830"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10325",
+      "ref": "N-10325",
+      "name": "Global Trafficking Angle in Kirk Assassination",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's trafficking hypothesis and arms trafficking claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12825",
+        "C-12838",
+        "C-12881",
+        "C-12883"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10398",
+      "ref": "N-10398",
+      "name": "Turning Point USA Faith Structure",
+      "type": "investigation_target",
+      "description": "Existing topic reused for Turning Point Faith as the host's alleged infiltration vector.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12818",
+        "C-12827",
+        "C-12833"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10401",
+      "ref": "N-10401",
+      "name": "Romania / Eastern Europe Trafficking Cluster",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Harvest church Romania accusation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12888"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10411",
+      "ref": "N-10411",
+      "name": "Harvest Christian Fellowship Romanian Abuse Lawsuit Cluster",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Harvest church accusation.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12888"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10572",
+      "ref": "N-10572",
+      "name": "ATF Bullet-to-Gun Inconclusive Finding",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's reference to the inconclusive Tyler Robinson trace.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12874"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10613",
+      "ref": "N-10613",
+      "name": "Victor Marx / Corby Hall On-Air Interview Proposal",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's plan to have Hall on the show.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12831",
+        "C-12894"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10975",
+      "ref": "N-10975",
+      "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+      "type": "investigation_target",
+      "description": "Federal agency; the host describes its trace practice and plans to contact it.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12874",
+        "C-12875",
+        "C-12876",
+        "C-12894"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11186",
+      "ref": "N-11186",
+      "name": "Angolagate",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's arms trafficking context claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12881"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11244",
+      "ref": "N-11244",
+      "name": "Brett Cooper Departure Dispute with Daily Wire",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the host's remark on how Daily Wire treated those who leave.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12889"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11346",
+      "ref": "N-11346",
+      "name": "Erika Kirk Speechwriting Attribution",
+      "type": "topic",
+      "description": "The host's claim, relayed from sources, that Erika Kirk's September 12 address and memorial remarks, and Justin Streiff's memorial speech, were written or heavily assisted by others, chiefly Blake Neff.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12819",
+        "C-12820",
+        "C-12821",
+        "C-12822",
+        "C-12823"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11347",
+      "ref": "N-11347",
+      "name": "Victor Marx Colorado Governor Candidacy",
+      "type": "topic",
+      "description": "Victor Marx's announced run for governor of Colorado, which the host says he announced at a Charlie Kirk memorial event in Denver on September 14.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12832"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11348",
+      "ref": "N-11348",
+      "name": "Epstein Network Re-Emergence in Churches Thesis",
+      "type": "topic",
+      "description": "The host's stated suspicion that the 2018 timeline matches Jeffrey Epstein's arrest and that his network re-emerged in churches and non-profits with a new head.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12885",
+        "C-12886"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -913,7 +1875,1850 @@
       "claim_timestamp": "00:39:25",
       "investigative_direction": "Independently verify the host's confirmation of the email and the underlying timeline.",
       "mentions_person_refs": []
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12818",
+      "ref": "C-12818",
+      "label": "Host Says Turning Point Faith Was the Infiltration",
+      "claim": "The host says Turning Point Faith was the infiltration of Turning Point USA, that after Charlie met Erika the organization shifted from free markets and capitalism to being all about the church, and that she has said so repeatedly.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10398",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:16",
+      "investigative_direction": "Trace when Turning Point Faith was launched, who funded and staffed it, and how TPUSA's stated programming changed after 2023.",
+      "transcript_snippet": "Turning Point Faith was the infiltration. How many times have you heard me say that? Over and over again.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12819",
+      "ref": "C-12819",
+      "label": "Host Says Erika's September 12 Address Was Written by Blake Neff",
+      "claim": "The host says Erika Kirk's first public address on September 12 was not written by Erika and that she was told it was written by Blake Neff.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11346"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:16",
+      "investigative_direction": "Obtain drafts, document metadata or staff testimony on who wrote the September 12 address; ask Neff and TPUSA to confirm or deny.",
+      "transcript_snippet": "which was not written by her, I was told it was written by Blake Neff",
+      "mentions_person_refs": [
+        "N-2",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12820",
+      "ref": "C-12820",
+      "label": "Host Quotes Erika Saying Charlie Witnessed for His Lord and Savior Jesus Christ",
+      "claim": "The host quotes Erika Kirk's September 12 address as saying Charlie \"witnessed for his Lord and savior Jesus Christ,\" offered as evidence that Erika rarely uses the name Jesus Christ otherwise.",
+      "anchored_artifacts": [
+        "A-3227.1"
+      ],
+      "related_nodes": [
+        "N-11346"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:16",
+      "investigative_direction": "Compare against the video and official transcript of the September 12 address.",
+      "transcript_snippet": "Charlie witnesses for his Lord uh witnessed for his Lord and savior Jesus Christ.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12821",
+      "ref": "C-12821",
+      "label": "Host Quotes Erika at the Memorial Saying Charlie Saw His Savior in Heaven",
+      "claim": "The host quotes Erika Kirk at the memorial as saying that one moment Charlie was doing what he loved, he blinked and he saw his savior in heaven.",
+      "anchored_artifacts": [
+        "A-3227.2"
+      ],
+      "related_nodes": [
+        "N-11346"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:16",
+      "investigative_direction": "Check the quoted words against the official memorial video and transcript.",
+      "transcript_snippet": "One moment Charlie was doing what he loved. He blinked and he saw his savior in heaven.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12822",
+      "ref": "C-12822",
+      "label": "Host Says Erika Did Not Eulogize Her Own Husband and Blake Neff Gave a Heavy Assist",
+      "claim": "The host says that, as she is told, Erika did not write her own memorial remarks and that Blake Neff came in with a heavy assist.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11346"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:37",
+      "investigative_direction": "Identify the host's sources and obtain drafts or staff accounts of who wrote the memorial remarks.",
+      "transcript_snippet": "Uh Blake Neff came in with a heavy assist.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-162"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12823",
+      "ref": "C-12823",
+      "label": "Host Says Justin Streiff Did Not Write His Own Memorial Speech",
+      "claim": "The host says she is told that Justin Streiff did not write his own speech for the memorial.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11346"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:37",
+      "investigative_direction": "Obtain the speech drafts or ask the speechwriting staff who wrote Streiff's remarks.",
+      "transcript_snippet": "Justin Streiff did not write his own speech for the memorial, I'm told.",
+      "mentions_person_refs": [
+        "N-15"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12824",
+      "ref": "C-12824",
+      "label": "Host Says She Spent Months on an Egyptian Plane Timeline",
+      "claim": "The host says she has spent months quietly working on an Egyptian plane timeline that grew from one plane to four.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:23",
+      "investigative_direction": "Compare the host's published spreadsheet of tail numbers and dates against ADS-B and FAA records.",
+      "transcript_snippet": "for months I have just been quietly working on my Egyptian plane timeline. Started with one plane, then I realized there was two planes, three planes, four planes.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12825",
+      "ref": "C-12825",
+      "label": "Host Says the Plane Pattern Looked Like Drug or Weapons Trafficking",
+      "claim": "The host says the pattern in the plane timeline struck her as possible trafficking, whether drugs or weapons, and she asks whether product is moving into or out of the United States.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10325"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:23",
+      "investigative_direction": "Check customs and cargo records for the flights in question; the host states this only as an instinct.",
+      "transcript_snippet": "Why do I feel like I'm I'm looking at trafficking of some description? I don't know if it's drugs, I don't know if it's weapons",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12826",
+      "ref": "C-12826",
+      "label": "Host Says the Planes Stopped Over States and Cities With Military Bases",
+      "claim": "The host says the Egyptian planes were foremost stopping over in states and cities with military bases.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:10",
+      "investigative_direction": "Map each landing airport against nearby military installations using the flight logs.",
+      "transcript_snippet": "how the planes foremost were stopping over in states and cities with military bases.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12827",
+      "ref": "C-12827",
+      "label": "Host Says Planes Tracked Turning Point Faith Events From 2023 and Charlie's Schedule Mirrored Them From January 2024",
+      "claim": "The host says that after Mikey McCoy became chief of staff in January 2024, Charlie's schedule began to mirror the Egyptian planes, and that before that the planes seemed to track Turning Point Faith events from 2023.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10000",
+        "N-10398"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:10",
+      "investigative_direction": "Overlay Charlie Kirk's 2023 and 2024 event calendar on the Egyptian plane landing dates and cities.",
+      "transcript_snippet": "after Mikey McCoy becomes the chief of staff in January of 2024, uh Ch- Charlie suddenly his schedule is beginning to mirror these Egyptian planes.",
+      "supports_claim_refs": [
+        "C-1545"
+      ],
+      "mentions_person_refs": [
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12828",
+      "ref": "C-12828",
+      "label": "Host Says Charlie Was Often in Kansas, Nebraska and Missouri Crossing With the Planes",
+      "claim": "The host says that once McCoy was announced as chief of staff, Charlie was doing a lot of events in Kansas, Nebraska and Missouri that crossed with the planes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10276"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:10",
+      "investigative_direction": "List Charlie's Kansas, Nebraska and Missouri appearances in 2024 and match them to plane arrival dates.",
+      "transcript_snippet": "Charlie is just doing a lot in Kansas and in Nebraska and in Missouri crossing with these planes.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12829",
+      "ref": "C-12829",
+      "label": "Host Says Erika Showed No Concern About Two Foreign Planes Around the Assassination",
+      "claim": "The host says Erika had no reaction, concern or even mild interest in two foreign planes that departed just before and just after her husband's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10299"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:10",
+      "investigative_direction": "Collect Erika's public statements and any on-air remarks about the planes; this rests on the host's reading of her reaction.",
+      "transcript_snippet": "Erika had the complete wrong reaction, or rather no reaction or concern or even mild interest in a foreign plane, two foreign planes that departed just before and just after her husband's assassination.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12830",
+      "ref": "C-12830",
+      "label": "Host Says Erika Joked About the Egyptian Planes and Does Not Want Them Examined",
+      "claim": "The host says Erika, instead of calling Joe Kent to ask who was on the planes, made jokes about the Egyptian planes and does not want the public looking at them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253",
+        "N-10299"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:35",
+      "investigative_direction": "Locate the specific Erika remarks the host calls jokes and check them for context.",
+      "transcript_snippet": "She wanted to make jokes about the Egyptian planes. She doesn't want the public looking at the Egyptian planes.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-213"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12831",
+      "ref": "C-12831",
+      "label": "Host Says Corby Hall Contacted Her Team Afraid for His Life",
+      "claim": "The host says her team was contacted by a man who said he was afraid for his life but felt he had to tell the truth for Charlie, and that after a phone call she is certain he was not being dramatic.",
+      "anchored_artifacts": [
+        "A-3230.1"
+      ],
+      "related_nodes": [
+        "N-10613"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:35",
+      "investigative_direction": "Obtain the original email and call record from the host's team, and Hall's own account of what he fears.",
+      "transcript_snippet": "we were contacted by someone who said that he was afraid for his life, but that he felt that he had to speak out and tell the truth um for Charlie.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12832",
+      "ref": "C-12832",
+      "label": "Host Says Victor Marx Announced His Run for Colorado Governor at a Charlie Kirk Memorial Event",
+      "claim": "The host says Victor Marx, a Marine veteran, announced his run for governor of Colorado at a Charlie Kirk memorial event in Denver on September 14, saying the weight of the assassination showed God was calling him to run.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11347"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:29",
+      "investigative_direction": "Check Colorado candidate filings and the event's video for the date and wording of the announcement.",
+      "transcript_snippet": "he chose to make to announce his intention to run for governor of Colorado at a Charlie Kirk memorial event in Denver on September 14th, just a couple of days after Charlie was assassinated.",
+      "mentions_person_refs": [
+        "N-345",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12833",
+      "ref": "C-12833",
+      "label": "Host Says Marx Teaches a Turning Point Faith Course Called Freedom from Pornography",
+      "claim": "The host says Victor Marx teaches an online educational course for Turning Point Faith entitled Freedom from Pornography.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10398"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:27",
+      "investigative_direction": "Check the Turning Point Faith course catalog and instructor list for the course and its dates.",
+      "transcript_snippet": "he teaches an online educational course for Turning Point Faith entitled Freedom from Pornography.",
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12834",
+      "ref": "C-12834",
+      "label": "Host Says Marx Claims His 20-Year-Old Son Was Charlie's Assistant",
+      "claim": "The host says Victor Marx claims his 20-year-old son was at one point Charlie Kirk's assistant who spent much time with Erika and her first baby girl.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:27",
+      "investigative_direction": "Locate Marx's original statement and ask TPUSA whether any such assistant was employed.",
+      "transcript_snippet": "He also claims his 20-year-old son was at one point Charlie Kirk's assistant",
+      "mentions_person_refs": [
+        "N-345",
+        "N-1",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12835",
+      "ref": "C-12835",
+      "label": "Host Says She Could Not Confirm Marx's Son Was Charlie's Assistant",
+      "claim": "The host says her team has been unable to confirm that Marx's son was Charlie's assistant and that she does not remember him in that role.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:27",
+      "investigative_direction": "Check TPUSA staff rosters and Charlie's travel party lists for the person in question.",
+      "transcript_snippet": "we've been able unable to confirm that he was Charlie's assistant. I certainly don't remember him being Charlie's assistant",
+      "supports_claim_refs": [
+        "C-12834"
+      ],
+      "mentions_person_refs": [
+        "N-345",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12836",
+      "ref": "C-12836",
+      "label": "Host Says Victor and Eileen Marx Were Among the First to Greet Erika With Cameras Rolling",
+      "claim": "The host says Victor Marx and his wife Eileen were among the very first people to see and greet Erika in the days after the assassination, comforting her with cameras rolling, and that this was less than 48 hours afterward (the host later puts one photo at about 72 hours).",
+      "anchored_artifacts": [
+        "A-1959.1"
+      ],
+      "related_nodes": [
+        "N-10605"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:27",
+      "investigative_direction": "Establish the date and location of the first Marx visit from the Instagram post metadata and the people who accompanied them.",
+      "transcript_snippet": "Pastor Victor Marx and his wife Eileen Marx were one of the very first people to go see and greet Erika in the days following Charlie's assassination.",
+      "mentions_person_refs": [
+        "N-345",
+        "N-347",
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12837",
+      "ref": "C-12837",
+      "label": "Host Notes Erika Holds a Phone in the Hug Video Though She Said Her Phone Stayed Off for Weeks",
+      "claim": "The host says that in the hug video Erika has her phone in her hand, the one she allegedly did not turn on for weeks after Charlie died.",
+      "anchored_artifacts": [
+        "A-1959.1"
+      ],
+      "related_nodes": [
+        "N-10605"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:06",
+      "investigative_direction": "Compare the video date with Erika's statement about her phone and check whether the object in her hand is a phone.",
+      "transcript_snippet": "you may have also noted that Erika has her phone in her hand, the one that she allegedly did not turn on for weeks after Charlie died.",
+      "supports_claim_refs": [
+        "C-9600"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12838",
+      "ref": "C-12838",
+      "label": "Host Says Marx Was Allegedly Interested in Trafficking Arms to Haiti and Contacted Corby Hall",
+      "claim": "The host says Victor Marx, like his stepfather, was allegedly interested in trafficking, particularly arms to Haiti, and contacted Corby Hall to get this done.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10602",
+        "N-10325"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Seek export-control filings or communications; Marx has denied this in a later episode, which this note does not rely on.",
+      "transcript_snippet": "Victor, like his stepdaddy, was allegedly interested in trafficking, particularly arms over to Haiti, and he contacted a man named Corby Hall to get this done.",
+      "supports_claim_refs": [
+        "C-2703"
+      ],
+      "mentions_person_refs": [
+        "N-345",
+        "N-346"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12839",
+      "ref": "C-12839",
+      "label": "Host Says Marx's Real Name Is Vaughn Victor Kennedy",
+      "claim": "The host says Victor Marx's real name is Vaughn Victor Kennedy, that he says Vaughn while his military record says Vo with no N.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:03",
+      "investigative_direction": "Obtain Marx's military service record (DD-214) and any name-change filing.",
+      "transcript_snippet": "his real name is Vaughn Victor Kennedy. Well, he says it's Vaughn.",
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12840",
+      "ref": "C-12840",
+      "label": "Host Says Marx Had Lived in 17 Homes and Attended 14 Schools by Age 17",
+      "claim": "The host says that by age 17 Marx had lived in 17 homes and attended 14 schools and was involved with drugs, fights and theft in high school.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:48",
+      "investigative_direction": "Check Marx's own published memoir or interviews for these figures.",
+      "transcript_snippet": "by the time he was 17, he had lived in 17 homes and attended 14 schools.",
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12841",
+      "ref": "C-12841",
+      "label": "Host Says Marx's Stepfather Gloyce Kennedy Was Army Counterintelligence Then Ran a Jamaica Drug Ring",
+      "claim": "The host says Marx's stepfather, Gloyce Dean Kennedy, whom Marx calls Mr. K, served in the army doing counterintelligence and afterwards ran an international drug smuggling ring out of Jamaica.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:48",
+      "investigative_direction": "Obtain the army service record and the federal case file for Gloyce Dean Kennedy.",
+      "transcript_snippet": "his stepfather served in the army and did counterintelligence. And thereafter, he ran an international drug smuggling ring out of Jamaica",
+      "mentions_person_refs": [
+        "N-353",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12842",
+      "ref": "C-12842",
+      "label": "Host Says Gloyce Kennedy Was Convicted in 1987 and Sentenced to 14 Years",
+      "claim": "The host says Gloyce Dean Kennedy pled guilty and was convicted of conspiracy in 1987 for attempting to import 1,400 lb of marijuana from Jamaica, with money laundering and aiding and abetting charges, and was sentenced to 14 years in prison.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:48",
+      "investigative_direction": "Pull the 1987 federal docket and sentencing record by name.",
+      "transcript_snippet": "convicted of conspiracy in 1987 for attempting to import 1,400 lb of marijuana from Jamaica.",
+      "mentions_person_refs": [
+        "N-353"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12843",
+      "ref": "C-12843",
+      "label": "Host Says Marx's Brother Mike Kennedy Took a Plea Deal and Testified Against Their Stepfather",
+      "claim": "The host says Marx's brother Mike Kennedy, later an attorney, pled guilty as co-conspirator in the smuggling ring and served only a year and a day in exchange for testifying against his stepfather Gloyce.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:10:48",
+      "investigative_direction": "Check the same federal docket for Mike Kennedy's plea agreement and sentence.",
+      "transcript_snippet": "He took a plea deal, so he only served a year and a day in exchange for testifying against his stepfather Gloyce.",
+      "mentions_person_refs": [
+        "N-732",
+        "N-353"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12844",
+      "ref": "C-12844",
+      "label": "Host Says Marx's Biological Father Carl Marx Was a Pimp, Drug Dealer and Martial Arts Expert",
+      "claim": "The host says Marx's biological father, Carl Marx, was apparently a pimp, drug dealer and world-famous martial arts expert who spent time in a mental hospital for homicidal tendencies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:11:59",
+      "investigative_direction": "Ask for the host's sources; check Marx's own books and interviews about his father.",
+      "transcript_snippet": "His name was Carl Marx. Okay? And he was a pimp, a drug dealer, and also a world-famous martial arts expert who spent time in a mental hospital for his homicidal tendencies.",
+      "mentions_person_refs": [
+        "N-733",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12845",
+      "ref": "C-12845",
+      "label": "Host Says Marx's Paternal Grandfather Killed His Grandmother and Then Himself",
+      "claim": "The host says Marx's grandfather on his dad's side killed his grandmother and then committed suicide in public.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:11:59",
+      "investigative_direction": "Look for contemporaneous newspaper reports or death records matching the host's account.",
+      "transcript_snippet": "his grandfather, on his dad's side, killed his grandmother before he turned the gun on himself and committed suicide in public.",
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12846",
+      "ref": "C-12846",
+      "label": "Host Says Marx Served Only Two Peacetime Years in the Marines Without Deployment",
+      "claim": "The host says Marx joined the Marine Corps at 18 and served only 2 years during peacetime, stateside, with no deployments, before being discharged.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:12",
+      "investigative_direction": "Obtain Marx's service record (DD-214) for enlistment term, deployments and discharge character.",
+      "transcript_snippet": "he only served for 2 years during peacetime, stateside, no deployments, before he was discharged.",
+      "supports_claim_refs": [
+        "C-2720"
+      ],
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12847",
+      "ref": "C-12847",
+      "label": "Host Says Marx Was Stationed at Camp Pendleton and Began Attending Calvary Chapel in 1986",
+      "claim": "The host says Marx was stationed at Camp Pendleton in California, began attending a nearby Calvary Chapel and says he found Jesus Christ there in 1986.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604",
+        "N-10246"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:15:12",
+      "investigative_direction": "Check Marx's testimony and the Calvary Chapel congregation near Pendleton for dates.",
+      "transcript_snippet": "he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel.",
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12848",
+      "ref": "C-12848",
+      "label": "Host Says Marx Married Eileen Brining in 1988 and They Have Five Kids",
+      "claim": "The host says Marx married Eileen (Brining) Marx in 1988 and that they went on to have five kids and grandkids.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:15:12",
+      "investigative_direction": "Check marriage records for the 1988 date.",
+      "transcript_snippet": "2 years later, in 1988, he married his wife, Eileen",
+      "mentions_person_refs": [
+        "N-345",
+        "N-347"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12849",
+      "ref": "C-12849",
+      "label": "Host Says Marx and His Brother Began All Things Possible Ministries in 2003",
+      "claim": "The host says that in 2003 Marx and his brother, who had received a light sentence, began All Things Possible Ministries.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:01",
+      "investigative_direction": "Check nonprofit registration and IRS filings for All Things Possible Ministries and its founders.",
+      "transcript_snippet": "In 2003, he and his brother, who got that light sentence, um who was out of prison now, began All Things Possible Ministries.",
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12850",
+      "ref": "C-12850",
+      "label": "Host Says Calvary Chapel Has a Long History of Such Characters Becoming Pastors",
+      "claim": "The host says Calvary Chapel, as she has shown in the past, has a long history of characters like Marx going on to become pastors and getting involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10246"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:01",
+      "investigative_direction": "Collect cited cases from the earlier Calvary Chapel episodes and test them against court records.",
+      "transcript_snippet": "Calvary Chapel, as we have shown you in the past, has a long history of these sorts of characters going on to become pastors, getting involved.",
+      "supports_claim_refs": [
+        "C-6619"
+      ],
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12851",
+      "ref": "C-12851",
+      "label": "Host Says Eileen Marx's Brother Kenneth Tried to Shoot Marx on His Property",
+      "claim": "The host says Eileen Marx's brother Kenneth tried to shoot Marx on his own property (the host says 2003 after first saying 2023) and that Marx made it out okay.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:16:01",
+      "investigative_direction": "Search local police and court records for the incident and its date.",
+      "transcript_snippet": "Eileen, his wife's brother, Kenneth, um for some reason, his his brother-in-law tried to shoot him on his own property.",
+      "mentions_person_refs": [
+        "N-734",
+        "N-347",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12852",
+      "ref": "C-12852",
+      "label": "Host Says Kenneth Later Killed His Girlfriend and Is Awaiting Trial",
+      "claim": "The host says Eileen's brother would go on to kill his own girlfriend and that she believes he is currently awaiting trial.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:16:01",
+      "investigative_direction": "Check court dockets for any pending case against the named individual; the host states it as a belief.",
+      "transcript_snippet": "Eileen's brother would go on to kill his own girlfriend, for which I believe he is currently awaiting trial.",
+      "mentions_person_refs": [
+        "N-734",
+        "N-347"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12853",
+      "ref": "C-12853",
+      "label": "Host Says Marx Punches Holes in His Walls About Once a Year and Tells His Family Not to Cover Them",
+      "claim": "The host says Marx openly admits he punches holes in the walls of his house about once a year and tells his wife and kids not to cover it up.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Find the interview or talk in which Marx says this.",
+      "transcript_snippet": "he openly admits that he punches holes in the walls of his house about uh once a year",
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12854",
+      "ref": "C-12854",
+      "label": "Host Says Marx Openly States He Struggles With Suicidal and Homicidal Tendencies",
+      "claim": "The host says Marx openly states that he himself struggles with suicidal and homicidal tendencies.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:55",
+      "investigative_direction": "Find the primary Marx interview or book passage and check its wording.",
+      "transcript_snippet": "He also openly states that he himself struggles with suicidal and homicidal tendencies.",
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12855",
+      "ref": "C-12855",
+      "label": "Hall Statement: Melody, His Then Girlfriend, Was COO of Fold AR",
+      "claim": "In the statement the host reads, Corby Hall says Melody, his then girlfriend, earned her place as COO of Fold AR and drove with him to Colorado Springs for the demo.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10603"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:21",
+      "investigative_direction": "Check Fold AR corporate filings for Melody's title.",
+      "transcript_snippet": "Melody, my then girlfriend, who earned her place as COO of Fold AR",
+      "mentions_person_refs": [
+        "N-346",
+        "N-348"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12856",
+      "ref": "C-12856",
+      "label": "Hall Statement: Marx Said Larger Manufacturers Were Also Being Considered",
+      "claim": "In the statement the host reads, Hall says Marx told him he was exploring a signature rifle with other much larger manufacturers but that the Fold AR was the only one that made sense.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10600"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:21:21",
+      "investigative_direction": "Ask other manufacturers whether Marx approached them about a signature series.",
+      "transcript_snippet": "he was exploring this as well with other much larger manufacturers",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12857",
+      "ref": "C-12857",
+      "label": "Hall Statement: He Was Falsely Identified as a Columbine Person of Interest at 16",
+      "claim": "In the statement the host reads, Hall says that at 16 he was briefly falsely identified as a person of interest in the 1999 Columbine massacre by certain investigative agents and told the Marxes this story.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10600"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:22:29",
+      "investigative_direction": "Ask Hall for documentation of any 1999 contact; no record is cited on air.",
+      "transcript_snippet": "at 16 years old I was briefly falsely identified as a person of interest in the Columbine massacre in 1999 by certain investigative agents.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345",
+        "N-347"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12858",
+      "ref": "C-12858",
+      "label": "Hall Statement: Marx Said His Wife Had a Dream About a Mission to Protect Children",
+      "claim": "In the statement the host reads, Hall says that after he told the Columbine story, Victor Marx said and Eileen Marx affirmed that she had a dream and a vision the night before that they would be part of a greater mission to protect children.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10600"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:23:12",
+      "investigative_direction": "Ask Hall for dated messages that describe the vision.",
+      "transcript_snippet": "Mr. Marx stated and Mrs. Marx affirmed that she had had a dream and a vision the night before that they would be a part of a greater mission to protect children.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345",
+        "N-347"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12859",
+      "ref": "C-12859",
+      "label": "Hall Statement: The Mission Became Putting Fold AR on School Resource Officers",
+      "claim": "In the statement the host reads, Hall says the mission that followed was to help get the Fold AR on the backs of school resource officers around the country.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10600"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:23:12",
+      "investigative_direction": "Check Fold AR and ministry marketing materials for the school resource officer program.",
+      "transcript_snippet": "the mission would be to help us to get the Fold AR on the backs of school resource officers around the country.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12860",
+      "ref": "C-12860",
+      "label": "Host Says Marx Pretends to Summon Demons and Extract Information in Retooling Prayer",
+      "claim": "The host says Victor Marx's retooling prayer involves summoning demons inside a person and extracting information from them, with the person kneeling in a circle, and that she says it parallels practices in occult ritual frameworks.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:23:12",
+      "investigative_direction": "Review Marx's published teaching materials and videos on retooling prayer and have a qualified third party characterize the practice.",
+      "transcript_snippet": "Victor Marx is effectively what he does is he pretends that he is going to summon and then extract information from demons that are inside of you.",
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12861",
+      "ref": "C-12861",
+      "label": "Hall Statement: Marxes Attended the 2024 SHOT Show Release of the Signature Rifle",
+      "claim": "In the statement the host reads, Hall says the Victor Marx signature series rifle was released at the SHOT Show in 2024 and that the Marxes attended the booth for several hours each of the four days.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10600"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:43",
+      "investigative_direction": "Find SHOT Show 2024 exhibitor materials, photos or press releases for the Fold AR booth.",
+      "transcript_snippet": "we released the Victor Marx signature series rifle at the SHOT Show in 2024. The Marxes participated in the release, attending our show booth for several hours each of the four days of the show.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345",
+        "N-347"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12862",
+      "ref": "C-12862",
+      "label": "Hall Statement: Marx and Melody Appeared on Sebastian Gorka's Show",
+      "claim": "In the statement the host reads, Hall says Marx went on Sebastian Gorka's America First show with Melody to discuss the Fold AR and a mission to put one on the back of every school resource officer.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10600"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:43",
+      "investigative_direction": "Find the America First episode and check its date and what was said about Fold AR.",
+      "transcript_snippet": "Mr. Marx went on Sebastian Gorka's America First show with Melody to discuss the Fold AR",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345",
+        "N-348",
+        "N-648"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12863",
+      "ref": "C-12863",
+      "label": "Hall Statement: He Left the Long-Range Rifle With Marx After Objecting to Its Use",
+      "claim": "In the statement the host reads, Hall says he told Marx he would not leave the rifle if it was used to kill a random person, suggested a watermelon instead, and then left the long-range configured Fold AR rifle with him.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10602"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:14",
+      "investigative_direction": "Seek the sales or transfer paperwork for that rifle, including its serial number and recipient.",
+      "transcript_snippet": "I then departed and left the long-range configured Fold AR rifle with him.",
+      "supports_claim_refs": [
+        "C-2704"
+      ],
+      "mentions_person_refs": [
+        "N-346",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12864",
+      "ref": "C-12864",
+      "label": "Hall Statement: Marx Offered in Early 2025 to Help Find an Investor",
+      "claim": "In the statement the host reads, Hall says that in the first quarter of 2025 Marx offered to help find an investor for Fold AR because he knew Hall was barely getting by financially.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10600"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:14",
+      "investigative_direction": "Ask Hall for dated messages and for names of any investors Marx proposed.",
+      "transcript_snippet": "in the first quarter of 2025, Mr. Marx had offered to help find an investor for Fold AR.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12865",
+      "ref": "C-12865",
+      "label": "Hall Statement: He and His Wife Wanted School Security to Be the Permanent Mission",
+      "claim": "The host says Hall and his wife would sell on two conditions, the first being that the guns be used for school resource officers with school security as the primary and permanent mission.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10600"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:14",
+      "investigative_direction": "Check any term sheet or messages that record the conditions.",
+      "transcript_snippet": "The first is that the guns are going to be used for school resource officers. They wanted school security to be the primary and permanent mission.",
+      "mentions_person_refs": [
+        "N-346"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12866",
+      "ref": "C-12866",
+      "label": "Hall Statement: The Second Condition Was Enough Money That They Would Not Need to Work",
+      "claim": "The host says the second condition was that any sale be enough money that Hall and his wife would no longer have to work.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10600"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:30:14",
+      "investigative_direction": "Compare with the $2 million valuation Marx reportedly offered (C-2707).",
+      "transcript_snippet": "The second um is that they wanted to have enough money, if they agreed to sell the company, that it would be enough money that they would no longer have to work.",
+      "mentions_person_refs": [
+        "N-346"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12867",
+      "ref": "C-12867",
+      "label": "Hall Statement: Marx and Bulletproof-Vested Associates Met Him at the Hotel",
+      "claim": "In the statement the host reads, Hall says Marx and his COO Chaz Yandle, who the host says goes with Marx to Haiti, met him at the hotel late at night wearing bulletproof vests.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10602"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:39",
+      "investigative_direction": "Identify Marx's COO and ask him about the hotel meeting and the trip to Haiti.",
+      "transcript_snippet": "Mr. Marx and his COO, Chaz Yandle, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345",
+        "N-922"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12868",
+      "ref": "C-12868",
+      "label": "Hall Statement: Marx Had a Bodyguard and All Wore Vests, Which Marx Said Were Being Broken In",
+      "claim": "In the statement the host reads, Hall says Marx had a bodyguard near him, everyone wore bulletproof vests at all times, and Marx said they were just breaking in the vests.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10602"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:24",
+      "investigative_direction": "Ask Hall for photos or messages from the three-day visit.",
+      "transcript_snippet": "Mr. Marx had a bodyguard near me, and all were wearing bulletproof vests at all times.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12869",
+      "ref": "C-12869",
+      "label": "Hall Statement: He Trained Marx's Bodyguard to Deploy the Fold AR",
+      "claim": "In the statement the host reads, Hall says he trained Marx's bodyguard on how to deploy the Fold AR and spent three days with Marx discussing prophecy, underground bunkers, marriage, salvation and finding an investor.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10600"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:24",
+      "investigative_direction": "Ask Hall to identify the bodyguard and any training records.",
+      "transcript_snippet": "I proceeded to train his bodyguard on how to deploy uh the Fold AR.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12870",
+      "ref": "C-12870",
+      "label": "Hall Statement: Marx Told Him He Could Whoop His Ass and Nothing Could Be Done",
+      "claim": "In the statement the host reads, Hall says that after Marx said the IDF needed 50,000 guns he told his bodyguard to step back and then said \"Do you know that I could whoop your ass right here, and there's nothing that you could do about it?\"",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10601"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:10",
+      "investigative_direction": "Ask Hall for any witness, including the bodyguard, and for any contemporaneous note of the exchange.",
+      "transcript_snippet": "Do you know that I could whoop your ass right here, and there's nothing that you could do about it?",
+      "supports_claim_refs": [
+        "C-2708"
+      ],
+      "mentions_person_refs": [
+        "N-346",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12871",
+      "ref": "C-12871",
+      "label": "Hall Statement: Marx Said He Would Never Engage in Scripture With Hall",
+      "claim": "In the statement the host reads, Hall says that after about 15 seconds of silence Marx started walking again and said that is why he would never engage in scripture with Hall.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10601"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:23",
+      "investigative_direction": "Ask Hall for a contemporaneous note of the walk and exchange.",
+      "transcript_snippet": "That's why I'm never going to engage in scripture with you.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12872",
+      "ref": "C-12872",
+      "label": "Hall Statement: The Bunker Complex Would Be Funded Exclusively by Donors",
+      "claim": "In the statement the host reads, Hall says the planned complex for spiritual retooling of traumatized officers, run with local, state and federal agencies, was going to be exclusively funded by donors.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:15",
+      "investigative_direction": "Check permits, donor appeals and nonprofit filings for the complex.",
+      "transcript_snippet": "And it was going to be exclusively funded by donors.",
+      "supports_claim_refs": [
+        "C-2709"
+      ],
+      "mentions_person_refs": [
+        "N-346",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12873",
+      "ref": "C-12873",
+      "label": "Hall Statement: Marx Later Said There Was No Longer a Need for Fold AR in Schools",
+      "claim": "In the statement the host reads, Hall says that in the days after his visit Marx told him there was no longer a need for Fold AR in schools, citing school shooting statistics Hall says were wrong.",
+      "anchored_artifacts": [
+        "A-1958.1"
+      ],
+      "related_nodes": [
+        "N-10600"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:15",
+      "investigative_direction": "Ask Hall for the messages in which Marx made this argument.",
+      "transcript_snippet": "He continued on telling me that there is no longer a need for Fold AR in schools.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12874",
+      "ref": "C-12874",
+      "label": "Host Says the ATF Previously Reported an Inconclusive Trace on the Tyler Robinson Gun",
+      "claim": "The host says the ATF got involved in the Kirk case quickly and came back with an inconclusive trace on the Tyler Robinson gun.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10975",
+        "N-10572"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:37:42",
+      "investigative_direction": "Compare with ATF's public statements on the bullet and firearm comparison, which may differ from a trace.",
+      "transcript_snippet": "They are involved got involved in this case quickly, as we know, came back with the inconclusive trace on the Tyler Robinson gun.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12875",
+      "ref": "C-12875",
+      "label": "Host Explains That an ATF Trace Seeks the First Retail Purchaser of a Firearm Determined to Be Involved in a Crime",
+      "claim": "The host says that when the ATF emails to say it is conducting a trace it is seeking to identify the first retail purchase of a firearm it has determined is involved in a crime, so the September 10 email meant ATF considered Hall's gun involved in a crime.",
+      "anchored_artifacts": [
+        "A-1963.1"
+      ],
+      "related_nodes": [
+        "N-10975",
+        "N-10599"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:36",
+      "investigative_direction": "Obtain ATF's published description of the trace process and whether a trace request is issued only after a crime link is established.",
+      "transcript_snippet": "what it means is that they are seeking to identify the first retail purchase of a firearm that they have determined is involved in a crime.",
+      "mentions_person_refs": [
+        "N-346"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12876",
+      "ref": "C-12876",
+      "label": "Host Says Hall Answered the ATF Within 24 Hours and Heard Nothing Back",
+      "claim": "The host says the ATF email gave a manufacturer or seller 24 hours to respond, that Hall did respond, and that he mysteriously heard nothing back and there was no follow-up.",
+      "anchored_artifacts": [
+        "A-1963.1"
+      ],
+      "related_nodes": [
+        "N-10599",
+        "N-10975"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:36",
+      "investigative_direction": "Obtain Hall's reply email and the ATF trace case number; file a FOIA request for the trace record.",
+      "transcript_snippet": "Corby did, and mysteriously he heard nothing back. There was no follow-up.",
+      "mentions_person_refs": [
+        "N-346"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12877",
+      "ref": "C-12877",
+      "label": "Host Says Hall's Buyer, the Deputy, Told Him ATF Never Contacted Him",
+      "claim": "The host says Hall called the Texas deputy he sold the gun to and the deputy said ATF never contacted him.",
+      "anchored_artifacts": [
+        "A-3228.1"
+      ],
+      "related_nodes": [
+        "N-10599",
+        "N-10603"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:25",
+      "investigative_direction": "Identify the deputy and agency; ask the ATF whether it contacted the registered purchaser.",
+      "transcript_snippet": "And he picked up the phone, and he said, \"No, no, ATF never never contacted me.\"",
+      "mentions_person_refs": [
+        "N-346"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12878",
+      "ref": "C-12878",
+      "label": "Host Says the Deputy Found the Gun Is Not Even Reported Missing in a System He Can Access",
+      "claim": "The host says the deputy told Hall he had checked a system he has access to and the gun is somehow not even reported as missing, and that there has been no follow-up.",
+      "anchored_artifacts": [
+        "A-3228.1"
+      ],
+      "related_nodes": [
+        "N-10603",
+        "N-10599"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:25",
+      "investigative_direction": "Check NCIC and Midland police records for a stolen-firearm report on the serial number, via the deputy's agency or a records request.",
+      "transcript_snippet": "he had checked some system that he has available and he has access to and that gun is is somehow not even reported as missing.",
+      "mentions_person_refs": [
+        "N-346"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12879",
+      "ref": "C-12879",
+      "label": "Host Says Hall Forwarded Her All the Evidence for His Account",
+      "claim": "The host says Hall forwarded her the ATF email and all of the evidence and conversations for everything he says, and that she believes his testimony.",
+      "anchored_artifacts": [
+        "A-3229.1"
+      ],
+      "related_nodes": [
+        "N-10599"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:25",
+      "investigative_direction": "Ask the host to publish redacted copies of the forwarded email and conversations so a third party can verify them.",
+      "transcript_snippet": "He forwarded me all of the evidence for everything that he is saying.",
+      "supports_claim_refs": [
+        "C-2721"
+      ],
+      "mentions_person_refs": [
+        "N-346",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12880",
+      "ref": "C-12880",
+      "label": "Host Says She Is Looking Into Where Hall Sold the Gun and It Is Already Interesting",
+      "claim": "The host says she is looking into where the gun was sold and that it is already quite interesting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10603"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:40:23",
+      "investigative_direction": "Ask the host what she has found about the buyer and agency; follow up in later episodes.",
+      "transcript_snippet": "I'm looking into uh just some things about where he sold the gun and it's already quite interesting.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12881",
+      "ref": "C-12881",
+      "label": "Host Says Governments Have Been Implicated in Arms Trafficking and Angolagate Was Real",
+      "claim": "The host says the US government has been implicated many times in trafficking arms and arms deals overseas, including to the Taliban, ISIS and Al-Qaeda and to rebels in the Middle East, and that Angolagate, which she says people tried to call crazy, was real.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11186",
+        "N-10325"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:41:15",
+      "investigative_direction": "Test each example against official inquiries, such as Iran-Contra records and the Angolagate court rulings.",
+      "transcript_snippet": "our government, in case you didn't know this, has been implicated many times over in trafficking arms, doing arms deals overseas, the Taliban, ISIS, Al-Qaeda",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12882",
+      "ref": "C-12882",
+      "label": "Host Says the Iranian Government Called the Protesters Israeli-Directed",
+      "claim": "The host says the Iranian government said the protesters were not real and were working on behalf of Israel in a color revolution, and that Trump's remark showed arms had in fact been sent to them.",
+      "anchored_artifacts": [
+        "A-1961.1"
+      ],
+      "related_nodes": [
+        "N-10606",
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:42:09",
+      "investigative_direction": "Find the Iranian government statements and compare them with the full Trump remarks.",
+      "transcript_snippet": "The Iranian government was saying, \"These protesters are not real. They are working on behalf of Israel",
+      "supports_claim_refs": [
+        "C-2717"
+      ],
+      "mentions_person_refs": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12883",
+      "ref": "C-12883",
+      "label": "Host Says Marx Says He Dealt With the Taliban and ISIS",
+      "claim": "The host says Victor Marx says he dealt with the Taliban and with ISIS.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604",
+        "N-10325"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:36",
+      "investigative_direction": "Find Marx's own statements about these contacts and the context of his hostage-rescue work.",
+      "transcript_snippet": "Victor Marx says he dealt with the Taliban. He dealt with ISIS.",
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12884",
+      "ref": "C-12884",
+      "label": "Host Reiterates That Charlie Was Betrayed and She Has Looked at It for Seven Months",
+      "claim": "The host says she has said from the beginning that her sense is Charlie was betrayed and that after seven months of looking it is very obvious to her that pastors and TPUSA staff were involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:45:36",
+      "investigative_direction": "This is the host's stated theory; assess it against the evidence assembled in the series.",
+      "transcript_snippet": "I have said from the beginning, my sense is that Charlie was betrayed.",
+      "supports_claim_refs": [
+        "C-10722"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12885",
+      "ref": "C-12885",
+      "label": "Host Says the 2018 Timeline Lines Up With Epstein's Arrest and a Non-Profit Implosion",
+      "claim": "The host says the 2018 timeline lines up perfectly with when Epstein went down and that there was an implosion all across the not-for-profit world, after which people suddenly got into churches.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11348"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:23",
+      "investigative_direction": "Establish what happened in 2018 (the host says Epstein went down then) and which non-profits changed course; the host calls it a suspicion.",
+      "transcript_snippet": "my deep down suspicion, when I think of the timeline, 2018, is it just way It's way too perfectly just perfectly lines up with when Epstein went down",
+      "mentions_person_refs": [
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12886",
+      "ref": "C-12886",
+      "label": "Host Suspects the Epstein World Re-Emerged Somewhere Else With a New Head",
+      "claim": "The host says she suspects Epstein did not really go down, that the Epstein world may be re-emerging somewhere else, and that something that big gets a new head rather than ending with one man.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11348"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:23",
+      "investigative_direction": "Treat as the host's stated speculation; seek evidence of organizational continuity between Epstein-linked entities and the churches she names.",
+      "transcript_snippet": "Maybe Epstein just sort of re-emerging, the Epstein world just re-emerging somewhere else",
+      "mentions_person_refs": [
+        "N-9",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12887",
+      "ref": "C-12887",
+      "label": "Host Says Marx Admits Being Brain-Damaged and Has Been Caught Lying Extensively",
+      "claim": "The host says Marx has a very checkered background, admits to being brain-damaged and has been caught lying extensively.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:00",
+      "investigative_direction": "Find Marx's brain-damage statement and the instances of alleged lying the host relies on.",
+      "transcript_snippet": "He's got a very checkered background and admits to being brain-damaged and has been caught lying extensively.",
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12888",
+      "ref": "C-12888",
+      "label": "Host Says Greg Laurie Is Accused of Trafficking and Harvest Church of Trafficking People From Romania",
+      "claim": "The host says Greg Laurie is accused of trafficking and that Harvest Church is accused of trafficking people from Romania.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10411",
+        "N-10401"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:00",
+      "investigative_direction": "Check the lawsuits and filings against Harvest Christian Fellowship; the host's wording is brief and the entity should be confirmed.",
+      "transcript_snippet": "Oh, Greg Laurie, yes, accused of trafficking. Church Harvest Church is being accused of trafficking people from Romania.",
+      "mentions_person_refs": [
+        "N-456"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12889",
+      "ref": "C-12889",
+      "label": "Host Says Daily Wire Will Destroy Anyone Who Tries to Leave, Citing Brett Cooper",
+      "claim": "The host says people are not allowed to leave the Daily Wire with their lives intact, citing what they tried to do to Brett Cooper and her own attempt to leave.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11244"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:49",
+      "investigative_direction": "Review Cooper's public account of her departure and any legal filings or statements from either side.",
+      "transcript_snippet": "even what they tried to do to Brett Cooper. Like you just can't You're not allowed to leave. You just can't leave with your life intact. They're going to have to destroy you.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-225"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12890",
+      "ref": "C-12890",
+      "label": "Host Says Israelis Compelled to Serve in the IDF Are Reporting Suicides After Being Sent to Kill Children",
+      "claim": "The host says Israelis who are compelled to serve in the IDF are suffering, some committing suicide after they come out because they were sent to mass murder children.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:53:50",
+      "investigative_direction": "Check published veteran-suicide data and soldier testimonies; no source is named on air.",
+      "transcript_snippet": "Compulsory to serve in the IDF. And people that are committing suicide when they come out because they are being sent to just mass murder children.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12891",
+      "ref": "C-12891",
+      "label": "Host Says Pastors Hate Catholics Because the Church Stands in the Way of Serving Israel's Leader",
+      "claim": "The host says born-again pastors hate Catholics because they are supposed to serve whoever leads Israel, which she says would be Benjamin Netanyahu, and the Catholic Church has always stood in the way of a Zionist belief that the world belongs to the chosen.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:54:34",
+      "investigative_direction": "This is a sweeping characterization; ask for named pastors and quotes that show the pattern.",
+      "transcript_snippet": "And the Catholic Church has historically always stood in the way of this fringe Zionist belief that the world belongs to them and that they're chosen.",
+      "mentions_person_refs": [
+        "N-36"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12892",
+      "ref": "C-12892",
+      "label": "Host Says Corey Kennedy Has Studied Marx for Months and Posted a Deep Dive on X and Facebook",
+      "claim": "The host says a person she names as Corey Kennedy has been looking into Victor Marx for months and has done a deep dive on X and Facebook, and she does not know his background.",
+      "anchored_artifacts": [
+        "A-3231.1"
+      ],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:56:23",
+      "investigative_direction": "Identify the account and read the posts; confirm the researcher's name and background.",
+      "transcript_snippet": "has done a very good job on both X and on Facebook. Corey Kennedy has done a deep dive into Victor Marx.",
+      "mentions_person_refs": [
+        "N-923",
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12893",
+      "ref": "C-12893",
+      "label": "Host Says Interviews Suggest Marx Is a Compulsive Liar",
+      "claim": "The host says there have been interviews in which people have heavily suggested that Victor Marx is a compulsive liar about his life and former life.",
+      "anchored_artifacts": [
+        "A-3231.1"
+      ],
+      "related_nodes": [
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:56:23",
+      "investigative_direction": "Identify the interviews and test the specific factual contradictions against records.",
+      "transcript_snippet": "there have been interviews where people have very heavily suggested that Victor Marx is just in fact a compulsive liar.",
+      "mentions_person_refs": [
+        "N-345",
+        "N-923"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12894",
+      "ref": "C-12894",
+      "label": "Host Plans to Interview Corby Hall and Contact the ATF",
+      "claim": "The host says she is planning to have Corby Hall on the show to discuss the gun that mysteriously disappeared and will try to get something to the ATF, though she doubts a response.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10613",
+        "N-10975"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:26",
+      "investigative_direction": "Watch for a later Hall interview and any ATF reply to the host's inquiry.",
+      "transcript_snippet": "I am planning on having Corby Hall on the show to further discuss the gun that mysteriously disappeared.",
+      "mentions_person_refs": [
+        "N-346",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12895",
+      "ref": "C-12895",
+      "label": "Host Says It Is Not Known Whether the Missing Gun Is Connected to the Assassination",
+      "claim": "The host says she does not know whether the Fold AR that disappeared has anything to do with the assassination, but that it is an interesting time for a gun to disappear and for the manufacturer to hear nothing.",
+      "anchored_artifacts": [
+        "A-1963.1"
+      ],
+      "related_nodes": [
+        "N-10599",
+        "N-10603"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:26",
+      "investigative_direction": "Establish which crime, if any, the trace was tied to by FOIA to the ATF for the trace request.",
+      "transcript_snippet": "Again, we don't know if that gun has anything to do with it, but it sure is an interesting time for a gun to disappear",
+      "confidence": "high",
+      "qualifies_claim_refs": [
+        "C-2721"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-44",
+      "ref": "M-44",
+      "canonical_term": "It's Giving",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 91,
+          "video_timestamp": "00:26:32",
+          "speaker_node_ref": "N-3",
+          "quote": "om God, godly visions. This is what God wants you to do in your life. It's giving Erika Kirk. I got to say it. Giving Erika Kirk. And the angels, o...",
+          "context": "Later reuse of It's Giving in CKA seq 91.",
+          "confidence": "high",
+          "tags": [
+            "gen_z",
+            "chat_elevate",
+            "residual",
+            "reuse"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-23",
+      "ref": "M-23",
+      "canonical_term": "Battle Bun",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 91,
+          "video_timestamp": "00:00:57",
+          "speaker_node_ref": "N-3",
+          "quote": "It's uh a battle bond kind of Tuesday, so welcome back to Candace.",
+          "context": "Host opens the show with her battle bun greeting; the transcript renders it as battle bond.",
+          "confidence": "high",
+          "tags": [
+            "battle bun",
+            "opener"
+          ]
+        },
+        {
+          "episode": 91,
+          "video_timestamp": "00:55:49",
+          "speaker_node_ref": "N-3",
+          "quote": "I just caught myself calling her to tell her the battle bun is engaged.",
+          "context": "Host reads viewer Neem's comment using the battle bun phrase.",
+          "confidence": "high",
+          "tags": [
+            "battle bun",
+            "viewer comment"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-217",
+      "ref": "M-217",
+      "canonical_term": "Egyptian Planes Joke",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 91,
+          "video_timestamp": "00:05:35",
+          "speaker_node_ref": "N-3",
+          "quote": "She wanted to make jokes about the Egyptian planes.",
+          "context": "Host says Erika made jokes about the Egyptian planes rather than showing concern.",
+          "confidence": "high",
+          "tags": [
+            "egyptian planes",
+            "erika"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-28",
+      "ref": "M-28",
+      "canonical_term": "Christ is King",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 91,
+          "video_timestamp": "00:55:49",
+          "speaker_node_ref": "N-3",
+          "quote": "Christ is king. Love, Jimmy Dore.",
+          "context": "Host reads a viewer comment that ends with the phrase.",
+          "confidence": "high",
+          "tags": [
+            "christ is king",
+            "viewer comment"
+          ]
+        }
+      ]
+    }
+  ]
 }

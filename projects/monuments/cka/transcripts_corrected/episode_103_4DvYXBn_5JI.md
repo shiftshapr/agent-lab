@@ -82,7 +82,7 @@ There just be one person in security at a college event. And he had no idea, did
 
 [09:26]
 
-Woodland Park event honors his legacy. Uh now I should mention by the way in case you're wondering regarding Charis Bible College, uh the founder of it is this guy Andrew Wommack and you're thinking is he former military? Of course. Don't be silly. Grow up. There's military ties everywhere, okay? Now, after Charis Bible, Charlie was due to meet up as we learned with Erika at Colorado State University, which is situated at Fort Collins. Um Erika confirmed that in her sit-down with Jesse Waters. But he never made it obviously to either one of those events. Something else about Colorado that's interesting is that one of the planes that Turning Point USA uses, and I want to be clear here, uh more specifically the plane that Charlie himself used for basically all of 2023.
+Woodland Park event honors his legacy. Uh now I should mention by the way in case you're wondering regarding Charis Bible College, uh the founder of it is this guy Andrew Wommack and you're thinking is he former military? Of course. Don't be silly. Grow up. There's military ties everywhere, okay? Now, after Charis Bible, Charlie was due to meet up as we learned with Erika at Colorado State University, which is situated at Fort Collins. Um Erika confirmed that in her sit-down with Jesse Watters. But he never made it obviously to either one of those events. Something else about Colorado that's interesting is that one of the planes that Turning Point USA uses, and I want to be clear here, uh more specifically the plane that Charlie himself used for basically all of 2023.
 
 [10:19]
 
@@ -146,7 +146,7 @@ Everywhere I've ever lived, that's that is uh the circumstance and certainly the
 
 [22:50]
 
-Though that was the interest of Victor Marks, he wanted to put a full day RO into the hands of every school resource officer. Well, Evergreen High School uh did have a full-time school resource officer position, but the deputy that was assigned to that role happened to be on medical leave at the time of the shooting. So, a different dep- deputy, uh whose primary assignment was actually another high school that was 9 mi away, Conifer High School, was filling in part-time. So, he was working as the uh school officer for both Conifer High School and Evergreen. He was the only one that was on duty on the day of the shooting, and initially the reporting came out and said that the SRO deputy left Evergreen campus around 10:30 a. m. because he was responding to a nearby traffic crash.
+Though that was the interest of Victor Marx, he wanted to put a full day RO into the hands of every school resource officer. Well, Evergreen High School uh did have a full-time school resource officer position, but the deputy that was assigned to that role happened to be on medical leave at the time of the shooting. So, a different dep- deputy, uh whose primary assignment was actually another high school that was 9 mi away, Conifer High School, was filling in part-time. So, he was working as the uh school officer for both Conifer High School and Evergreen. He was the only one that was on duty on the day of the shooting, and initially the reporting came out and said that the SRO deputy left Evergreen campus around 10:30 a. m. because he was responding to a nearby traffic crash.
 
 [23:39]
 
@@ -178,7 +178,7 @@ And then I'll show you an up-close picture with the metadata that we have on the
 
 [30:57]
 
-Case Case closed. Case closed. He's doing his best. He's doing his best. He's It was on specific time Pacific time specific time. Arizona was on specific time. It was a very specific time in the Pacific. But so we get we get to this moment and you're going, "Wait a second. A lot of things happening here that are weird." But you could see Andrew's very clear. This is her alibi for the 9th. He also says, which was very strange and I ended up texting both him and Justin Streiff after this, that Erika was at the office all day with Charlie. She wasn't on the 9th. She has never made that claim publicly. Actually, the exact opposite thing is what she tells Jesse Waters, that Charlie was in the office all day. So she was not with him on the 9th. We were not The 9th was not ever in question for Erika Kirk. I wasn't really even really questioning what She may have had some business at Fort Huachuca. Like I said, her parents are in the military. She may have just gone to a hotel for a reason. Who knows?
+Case Case closed. Case closed. He's doing his best. He's doing his best. He's It was on specific time Pacific time specific time. Arizona was on specific time. It was a very specific time in the Pacific. But so we get we get to this moment and you're going, "Wait a second. A lot of things happening here that are weird." But you could see Andrew's very clear. This is her alibi for the 9th. He also says, which was very strange and I ended up texting both him and Justin Streiff after this, that Erika was at the office all day with Charlie. She wasn't on the 9th. She has never made that claim publicly. Actually, the exact opposite thing is what she tells Jesse Watters, that Charlie was in the office all day. So she was not with him on the 9th. We were not The 9th was not ever in question for Erika Kirk. I wasn't really even really questioning what She may have had some business at Fort Huachuca. Like I said, her parents are in the military. She may have just gone to a hotel for a reason. Who knows?
 
 [31:51]
 
@@ -240,7 +240,7 @@ I'll ask the question. I'll be the bad guy. What's Turning Point doing meeting w
 
 [42:46]
 
-If you're going to have a meeting like that, no? Well, I'd like to know. Like did they work with them? Did they do anything with this company? Was it just a meeting? I mean, Andrew Kolb did say they met with people that said they could do all these deep fakes of Charlie and they declined. Did they decline them all? Did they give them an example of one they could do? And Ericka says she watched the video of Charlie um saying that he chose her and the donors say that didn't happen. Then is it plausible that they showed her a deep fake? Did she know it was deep fake? Why why would the donors again, what is the upside of wealthy donors who went to Aspen to support Charlie saying that this definitively did not happen and that that moment is AI?
+If you're going to have a meeting like that, no? Well, I'd like to know. Like did they work with them? Did they do anything with this company? Was it just a meeting? I mean, Andrew Kolvet did say they met with people that said they could do all these deep fakes of Charlie and they declined. Did they decline them all? Did they give them an example of one they could do? And Ericka says she watched the video of Charlie um saying that he chose her and the donors say that didn't happen. Then is it plausible that they showed her a deep fake? Did she know it was deep fake? Why why would the donors again, what is the upside of wealthy donors who went to Aspen to support Charlie saying that this definitively did not happen and that that moment is AI?
 
 [43:30]
 

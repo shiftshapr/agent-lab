@@ -11,13 +11,11 @@
 - **Transcript SHA-256**: 513786cea1d5039b5eb51ed6d5c02f0d15ecee4cdc48adb287369585a1185a6a
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-11300
   - Hole-minted Nodes (reintro-ep129): N-10745, N-10765, N-10771, N-10820
-  - Tip-minted Nodes (reintro-ep129): N-11208
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11561–C-11634
   - New Nodes Introduced: N-10742, N-10743
-  - Reused Nodes Appearing: N-1, N-2, N-372, N-493, N-510, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-166, N-215, N-250, N-270, N-282, N-443, N-551, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218
+  - Reused Nodes Appearing: N-1, N-2, N-372, N-493, N-510, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-166, N-215, N-250, N-270, N-282, N-443, N-551, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218, N-11208, N-11300
   - (see registers)
 
 ## 2. Executive Summary
@@ -1749,7 +1747,7 @@ Claim Timestamp: 00:23:37
 
 Claim: The host says Erika Kirk watches everything and has been directing the attacks against the host since the beginning, alongside Andrew Kolvet, whom she says has now gone mask down.
 
-Transcript Snippet: She watches me and she has been directing the attacks against me since the beginning. Alongside Andrew Kolb, who's now gone mask down.
+Transcript Snippet: She watches me and she has been directing the attacks against me since the beginning. Alongside Andrew Kolvet, who's now gone mask down.
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
@@ -1974,7 +1972,7 @@ Claim Timestamp: 00:33:38
 
 Claim: The host says Charlie once told her that Andrew Kolvet owned a piece of that company, the Charlie Kirk Show LLC.
 
-Transcript Snippet: Once upon a time Charlie told me Andrew Kolburt owned a piece of that company, too.
+Transcript Snippet: Once upon a time Charlie told me Andrew Kolvet owned a piece of that company, too.
 
 Anchored Artifacts: 
 Mentions: N-1, N-14, N-3

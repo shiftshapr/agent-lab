@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-This episode centers on a cease-and-desist letter sent to Candace Owens by Turning Point USA, dated approximately January 19–20, 2026, which she reads aloud on air. The letter asserts that Owens remains bound by a 12-month non-disparagement clause following termination of her speaking agreement on December 2, 2025, and demands she cease stating or implying TPUSA or its personnel played any part in, knew about, or covered up the Kirk assassination. The letter also cites her allegations of "financial impropriety," claims that TPUSA Faith was "infiltrated by military operatives," and a request to retract "disparaging" statements. Owens frames the letter as confirmation of a money motive, citing a prior on-air remark by Tim Dylan read into the record.
+This episode centers on a cease-and-desist letter sent to Candace Owens by Turning Point USA, dated approximately January 19–20, 2026, which she reads aloud on air. The letter asserts that Owens remains bound by a 12-month non-disparagement clause following termination of her speaking agreement on December 2, 2025, and demands she cease stating or implying TPUSA or its personnel played any part in, knew about, or covered up the Kirk assassination. The letter also cites her allegations of "financial impropriety," claims that TPUSA Faith was "infiltrated by military operatives," and a request to retract "disparaging" statements. Owens frames the letter as confirmation of a money motive, citing a prior on-air remark by Tim Dillon read into the record.
 
 Two non-TPUSA pop-culture segments introduce additional evidentiary bundles: Brooklyn Beckham's Instagram Stories (read aloud) blasting his family over Nicola Peltz's wedding dress and brand-rights dispute, paired with excerpts from a Vogue wedding article read aloud to contest Beckham's "hijacked first dance" claim; and Taylor Swift's December 2024 text messages to Blake Lively concerning Justin Baldoni, read aloud in the context of the Lively–Baldoni litigation. A brief Aspen donor-recall update is also presented.
 
@@ -109,9 +109,9 @@ Confidence Level: High
 
 ---
 
-**A-1662** Tim Dylan Audio Clip Bundle
+**A-1662** Tim Dillon Audio Clip Bundle
 
-**A-1662.1** Tim Dylan on-air clip asserting TPUSA is primarily motivated by money/revenue from Candace's audience
+**A-1662.1** Tim Dillon on-air clip asserting TPUSA is primarily motivated by money/revenue from Candace's audience
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -354,7 +354,7 @@ Investigative Pressure: Low
 
 **N-14** Andrew Kolvet
 
-Spokesperson-adjacent TPUSA figure referenced by host as a candidate for a future on-air appearance and as a recipient of allegedly self-incriminating messages. Name spelling uncertain – transcript shows "Kovat," "Kovette," and "Kovat" variants.
+Spokesperson-adjacent TPUSA figure referenced by host as a candidate for a future on-air appearance and as a recipient of allegedly self-incriminating messages. Name spelling uncertain – transcript shows "Kovat," "Kolvet," and "Kovat" variants.
 
 Evidence Count: 0
 Claim Count: 0
@@ -852,22 +852,22 @@ Investigative Direction: Obtain the December 15, 2025 communication and any prio
 
 ---
 
-**C-2166** Tim Dylan assessed TPUSA as primarily motivated by money
+**C-2166** Tim Dillon assessed TPUSA as primarily motivated by money
 
 Claim Timestamp: 00:04:39
 
-Claim: Tim Dylan stated on-air that TPUSA is primarily motivated by money – specifically, that they are "mad" because Owens told her audience not to give TPUSA money.
+Claim: Tim Dillon stated on-air that TPUSA is primarily motivated by money – specifically, that they are "mad" because Owens told her audience not to give TPUSA money.
 
 Anchored Artifacts: A-1662.1
 Mentions: N-281
 
 Related Nodes: N-10432, N-10433
 
-Investigative Direction: Identify the original Tim Dylan episode and timestamp for the quoted clip.
+Investigative Direction: Identify the original Tim Dillon episode and timestamp for the quoted clip.
 
 ---
 
-**C-2167** Candace Owens concurs with Tim Dylan's money-motive assessment
+**C-2167** Candace Owens concurs with Tim Dillon's money-motive assessment
 
 Claim Timestamp: 00:04:39–00:06:17
 
@@ -1264,7 +1264,7 @@ Claim Timestamp: 00:11:31
 
 Claim: The host says Brian Harpole, Andrew Kolvet and TPUSA's lawyer each gave different answers about the drones.
 
-Transcript Snippet: They have conflicting answers about the drones. Brian Harpole says this, Andrew Kovette says this, their lawyer says that.
+Transcript Snippet: They have conflicting answers about the drones. Brian Harpole says this, Andrew Kolvet says this, their lawyer says that.
 
 Anchored Artifacts: A-1661.1
 Mentions: N-3, N-270, N-14
@@ -2049,7 +2049,7 @@ Claim Timestamp: 01:01:13
 
 Claim: The host says any TPUSA person is welcome on her platform, naming Blake Neff and Andrew Kolvet, and that she is open to being wrong.
 
-Transcript Snippet: I have said Blake Nef, if you would like to come, you can.
+Transcript Snippet: I have said Blake Neff, if you would like to come, you can.
 
 Anchored Artifacts: A-1667.1
 Mentions: N-3, N-162, N-14

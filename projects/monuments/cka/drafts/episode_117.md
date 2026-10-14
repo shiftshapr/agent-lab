@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep117): N-10680, N-10688, N-10707, N-10737
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-691, N-692, N-693, N-694, N-10987, N-10991
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-11, N-14, N-17, N-40, N-55, N-99, N-162, N-185, N-194, N-265, N-270, N-335, N-345, N-347, N-446, N-456, N-466, N-526, N-10000, N-10100, N-10107, N-10110, N-10186, N-10307, N-10325, N-10346, N-10383, N-10387, N-10395, N-10401, N-10411, N-10421, N-10507, N-10537, N-10605, N-10614, N-10678, N-10768, N-10888, N-10913, N-10923, N-10797, N-10832, N-10840, N-10989, N-695, N-696, N-697, N-10729, N-10816, N-10988, N-10687, N-10698, N-10990
+  - Tip-minted Nodes (skeleton): N-691, N-692, N-693, N-694, N-10991
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-9, N-11, N-14, N-17, N-40, N-55, N-99, N-162, N-185, N-194, N-265, N-270, N-335, N-345, N-347, N-446, N-456, N-466, N-526, N-10000, N-10100, N-10107, N-10110, N-10186, N-10307, N-10325, N-10346, N-10383, N-10387, N-10395, N-10401, N-10411, N-10421, N-10507, N-10537, N-10605, N-10614, N-10678, N-10768, N-10888, N-10913, N-10923, N-10797, N-10832, N-10840, N-10989, N-695, N-696, N-697, N-10729, N-10816, N-10988, N-10687, N-10698, N-10990, N-10987
   - Claim Range: C-4653–C-4721
   - (see registers)
 
@@ -460,7 +460,7 @@ Named as on the plane with Charlie Kirk and given the necklace for Erika Kirk; s
 
 **N-265** Terrell Farnsworth
 
-Transcript spellings "Tara Farnsworth", "Taro Farnsworth", "Carol Farnsworth", "Turrell Farnsworth" and "Terrel". CEO of Visual Impulse and head of the AV team; the host relays his phone statements on the live stream and the mic redundancy.
+Transcript spellings "Terrell Farnsworth", "Taro Farnsworth", "Carol Farnsworth", "Turrell Farnsworth" and "Terrel". CEO of Visual Impulse and head of the AV team; the host relays his phone statements on the live stream and the mic redundancy.
 
 *Related: C-4653, C-4664, C-4669, C-4672, C-4674, C-4675, C-4698, C-4699, C-4700, A-2681.1, A-2683.1*
 
@@ -970,7 +970,7 @@ Claim Timestamp: 00:08:29
 
 Claim: The host says Terrell Farnsworth violated the crime scene immediately after the shooting to remove the SD card from the back camera.
 
-Transcript Snippet: it would also explain why Tara Farnsworth violated the crime scene immediately, quite boldly, to remove the SD card from that back footage
+Transcript Snippet: it would also explain why Terrell Farnsworth violated the crime scene immediately, quite boldly, to remove the SD card from that back footage
 
 Anchored Artifacts: A-2678.1
 Mentions: N-265

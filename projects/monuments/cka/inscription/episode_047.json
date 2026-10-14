@@ -1725,7 +1725,7 @@
       "ref": "N-10131",
       "name": "PragerU",
       "type": "organization",
-      "description": "Media platform on which Xaviaer DuRousseau's Hamptons response video was published; employs Marissa Strait.",
+      "description": "Media platform on which Xaviaer DuRousseau's Hamptons response video was published; employs Marissa Streit.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -2021,8 +2021,8 @@
       "@type": "Claim",
       "@id": "C-1938",
       "ref": "C-1938",
-      "label": "Andrew Kolb told Candace Bibi offered to take TPUSA to next level",
-      "claim": "Andrew Kolb (as named in transcript) told Candace verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and Charlie turned the money down.",
+      "label": "Andrew Kolvet told Candace Bibi offered to take TPUSA to next level",
+      "claim": "Andrew Kolvet (as named in transcript) told Candace verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and Charlie turned the money down.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -2031,7 +2031,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:32:14",
-      "investigative_direction": "Verify Andrew Kolb's specific statement; clarify whether this is the same person as Andrew Kolvet.",
+      "investigative_direction": "Verify Andrew Kolvet's specific statement; clarify whether this is the same person as Andrew Kolvet.",
       "mentions_person_refs": [
         "N-14",
         "N-36"

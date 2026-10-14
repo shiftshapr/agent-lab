@@ -288,6 +288,36 @@
         "claim": "C-11753",
         "node": "N-40",
         "reason": "claim text: \"Tyler killed him\" (Robinson)"
+      },
+      {
+        "claim": "C-12174",
+        "node": "N-30",
+        "reason": "role reference: \"her husband\""
+      },
+      {
+        "claim": "C-12569",
+        "node": "N-17",
+        "reason": "role reference: \"the McCoys\""
+      },
+      {
+        "claim": "C-12723",
+        "node": "N-495",
+        "reason": "role reference: \"Erika's mother\""
+      },
+      {
+        "claim": "C-12731",
+        "node": "N-4",
+        "reason": "claim text: \"JD\" (Vance) in the speaker list"
+      },
+      {
+        "claim": "C-8682",
+        "node": "N-46",
+        "reason": "claim text: \"the other three named critics\" (the four horsemen, incl. Megyn Kelly)"
+      },
+      {
+        "claim": "C-13151",
+        "node": "N-97",
+        "reason": "claim text: \"who Ben was with\" (Shapiro)"
       }
     ],
     "first_name_ok": [
@@ -584,13 +614,6 @@
         "reason": "Justin Bieber: named in passing in existing claims C-7884 (ep14) and C-1706 (ep32); node minted in supplement batch 4 (ep152). Incidental; accepted rather than rewriting immutable claims."
       },
       {
-        "id": "N-733",
-        "episodes": [
-          26
-        ],
-        "reason": "Karl Marx: named in passing in supplement claim C-9573 (ep26, a reading-list remark); node introduced in ep107. Incidental mention; accepted."
-      },
-      {
         "id": "N-909",
         "episodes": [
           124
@@ -603,6 +626,27 @@
           149
         ],
         "reason": "Blake Hariff: named in existing ep149 claims (C-3550..C-3552); node minted in supplement batch 5 (ep151). Accepted rather than rewriting immutable claims."
+      },
+      {
+        "id": "N-733",
+        "episodes": [
+          26
+        ],
+        "reason": "False positive by name: C-9573 (ep26) names the philosopher Karl Marx in a reading-list remark; N-733 is Victor Marx's father, introduced in ep91."
+      },
+      {
+        "id": "N-885",
+        "episodes": [
+          20
+        ],
+        "reason": "Jean-Michel Trogneux: named in passing in supplement claim C-12247 (ep20); node introduced in ep38. Incidental mention."
+      },
+      {
+        "id": "N-928",
+        "episodes": [
+          88
+        ],
+        "reason": "Judge Liman: named in existing ep88 claim C-8634 text; node minted in supplement batch 6 (ep99). Accepted rather than rewriting the claim."
       }
     ]
   },

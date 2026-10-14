@@ -444,7 +444,7 @@ Host; speaks for herself throughout.
 
 **N-14** Andrew Kolvet
 
-TPUSA spokesperson; the host says he was caught with the Paramount Tactical tweet and questions whether he told Erika about Charlie's night-before messages. Transcript spellings: Kovette, Kovat.
+TPUSA spokesperson; the host says he was caught with the Paramount Tactical tweet and questions whether he told Erika about Charlie's night-before messages. Transcript spellings: Kolvet, Kovat.
 
 *Related: C-7045, C-7051*
 
@@ -1872,7 +1872,7 @@ Claim Timestamp: 00:48:20
 
 Claim: The host says that her team caught Andrew Kolvet with the Paramount Tactical tweet, and that this is when it became obvious to her that Erika is orchestrating a lot behind the scenes.
 
-Transcript Snippet: since we caught Andrew Kovette with the parent tact parent paramount tactical tweet
+Transcript Snippet: since we caught Andrew Kolvet with the parent tact parent paramount tactical tweet
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-2
@@ -1967,7 +1967,7 @@ Claim Timestamp: 00:53:45
 
 Claim: The host says she is less inclined to believe that Andrew Kolvet and Dan Flood did not tell Erika afterward that she had to rely on Charlie's text messages, since the feds would have asked whether Charlie had fears and informed the next of kin, and since Erika as chairman and CEO could presumably read the texts herself.
 
-Transcript Snippet: I'm less inclined to believe that Andrew Kovat and Dan Flood didn't tell her afterward that she had to rely on his text messages.
+Transcript Snippet: I'm less inclined to believe that Andrew Kolvet and Dan Flood didn't tell her afterward that she had to rely on his text messages.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-274, N-2, N-1
@@ -2183,7 +2183,7 @@ Confidence: high
 - **Artifact referenced from previous episode:** A-1680.1 (Christian Zionist threat message) was displayed in an earlier episode and is referenced here only via audio match. Its original artifact ID from that earlier episode should be cross-referenced.
 - **Possible transcription error:** "20our days" in A-1676.1 captioning; interpreted as "20-hour days" by host and consistent with audio context.
 - **Possible transcription error:** "Benedict Dy University" / "Benedictton University" appears in the transcript; standard spelling is Benedictine University, located in Lisle, Illinois. Transcript shows "Lyall, Illinois" which is the auto-caption's rendering of "Lisle."
-- **Name uncertainty:** "Andrew Kovat" vs "Andrew Kovette" – host uses both renderings ("caught Andrew Kovette" then "Andrew Kovat didn't tell her"); spelling should be verified.
+- **Name uncertainty:** "Andrew Kolvet" vs "Andrew Kolvet" – host uses both renderings ("caught Andrew Kolvet" then "Andrew Kolvet didn't tell her"); spelling should be verified.
 - **Name uncertainty:** Host introduces "Robert Flood who is in Dan Flood's family" – the familial relationship and exact identity of each should be verified.
 - **Host research claims without displayed artifact:** Host asserts as fact that (a) Creative Children's Academy was founded 1982 and renamed Quest Academy in 1999, (b) Helen Barts founded the academy, (c) Helen Barts ran the Shaklee Center in Arlington Heights, (d) the Shaklee Corporation held a 25-year NASA contract, (e) Edith Walker Montgomery was a psychiatric nurse, (f) Edith Walker immigrated from Germany after WWII, and (g) the academy is near Northrop Grumman. None of these assertions are anchored by a displayed artifact in this episode; they are flagged as Requires Human Verification and may be inscribe-worthy in a future episode where the supporting source is shown.
 - **Claim failed admission test (not inscribed):** Host's interpretive characterization that Erika Kirk is "orchestrating a lot behind the scenes and keeping her hands clean" (at 48:20) is host opinion and was not inscribed as a claim.

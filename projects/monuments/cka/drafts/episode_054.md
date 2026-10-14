@@ -178,7 +178,7 @@ Structurally, the episode aggregates four recurring themes – Liberty Universit
 
 **A-1596** Herpolsheimer Interview Clip Bundle
 
-**A-1596.1** Sean Ryan interview segment with Brian Herpolsheimer discussing pre-planning and intelligence-gathering timelines (the 24th of month prior, decentralized command model)
+**A-1596.1** Shawn Ryan interview segment with Brian Herpolsheimer discussing pre-planning and intelligence-gathering timelines (the 24th of month prior, decentralized command model)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -709,7 +709,7 @@ Said by the host to own the 888 plane and run Saprea.
 
 ---
 
-**N-118** Marissa Strait
+**N-118** Marissa Streit
 
 PragerU CEO who introduced the host to Operation Underground.
 
@@ -775,7 +775,7 @@ Pastor whose father's military background the host notes.
 
 **N-228** Shawn Ryan
 
-Podcast host who interviewed Brian Herpolsheimer; the clip is replayed (spelled Sean Ryan in the transcript).
+Podcast host who interviewed Brian Herpolsheimer; the clip is replayed (spelled Shawn Ryan in the transcript).
 
 *Related: C-8126, C-8127*
 
@@ -1077,7 +1077,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10681** Sean Ryan Show Interview Clip Bundle
+**N-10681** Shawn Ryan Show Interview Clip Bundle
 
 Existing topic reused for new claims in this episode.
 
@@ -1269,7 +1269,7 @@ The host's best guess that Kirk was killed after refusing an offer to expand TPU
 
 **N-270** Brian Harpole
 
-Security contractor interviewed by Sean Ryan about pre-planning for Charlie Kirk events. Name appears inconsistently in the episode as both "Harpole" and "Herpolsheimer."
+Security contractor interviewed by Shawn Ryan about pre-planning for Charlie Kirk events. Name appears inconsistently in the episode as both "Harpole" and "Herpolsheimer."
 
 Evidence Count: 1
 Claim Count: 1
@@ -1557,7 +1557,7 @@ Investigative Pressure: Medium
 
 **N-10401** Romania / Eastern Europe Trafficking Cluster
 
-Persistent investigation target aggregating Tyler Bowyer's 2011 Romania trip, Romanian Angels project (Lori Frandsen charity), Colonel Otto Buscher brothel allegations, Greg Laurie's Harvest Church, and Andrew Piscatello's Ukrainian trafficking warnings.
+Persistent investigation target aggregating Tyler Bowyer's 2011 Romania trip, Romanian Angels project (Lori Frantzve charity), Colonel Otto Buscher brothel allegations, Greg Laurie's Harvest Church, and Andrew Piscatello's Ukrainian trafficking warnings.
 
 Evidence Count: 1
 Claim Count: 1
@@ -1585,7 +1585,7 @@ Claim Timestamp: 00:02:30
 Claim: Brian Herpolsheimer stated that the first hard-conversations/intelligence-sharing for Charlie Kirk events begins on the 24th of the month prior to the event.
 Anchored Artifacts: A-1596.1
 Mentions: N-270, N-1
-Investigative Direction: Obtain the full Sean Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.
+Investigative Direction: Obtain the full Shawn Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.
 
 ---
 
@@ -3844,7 +3844,7 @@ Investigative Direction: Find Kirk's own public statements about visions or prem
 - **Email tip – requires verification**: A-1601.1 and A-1602.1 are third-party email tips read aloud by the host; underlying book passages and historical claims have not been independently verified within the episode. Flag A-1601.1, A-1602.1.
 - **Cited but not read in full**: A-1605.1 (Rolling Stone) and A-1606.1 (Forbes) are referenced by the host but the underlying article text is not displayed or read aloud. Flag A-1605.1, A-1606.1.
 - **Transcript ambiguity – care of "Wilkes brothers"**: Host refers to "the Wilkes brothers" funding PragerU and Daily Wire; spelling preserved as transcript renders it. Flag for verification.
-- **Transcript ambiguity – "Lori Francev" / "Lori Frandsen"**: Erika Kirk's mother is referred to with both spellings in the transcript. Preserved both; node uses "Lori Frandsen." Flag.
+- **Transcript ambiguity – "Lori Francev" / "Lori Frantzve"**: Erika Kirk's mother is referred to with both spellings in the transcript. Preserved both; node uses "Lori Frantzve." Flag.
 - **Host speculation (claim-admission test failure)**: Host's "best guess" framing that Charlie Kirk was offered to become "the next Moon" and declined is recorded as host speculation and is not inscribed as an evidence-backed claim. Flagged for transparency.
 - **Host speculation (claim-admission test failure)**: Host's framing that Charlie Kirk was assassinated due to his refusal to scale TPUSA into a Moon Inc.-style operation is host interpretive commentary, not artifact-backed in this episode. Flagged.
 - **Hosts dream about "Wilkes brothers"**: Host references a personal dream as investigatively meaningful; this is host personal testimony and is not inscribed as a claim per rhetoric-removal test.

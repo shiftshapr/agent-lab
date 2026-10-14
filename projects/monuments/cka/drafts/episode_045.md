@@ -41,7 +41,7 @@
 - Claim Range: C-1897–C-1911
   - New Nodes Introduced: N-10332, N-10333
   - Reused Nodes Appearing: N-2, N-16, N-67, N-17, N-46, N-55, N-162, N-194, N-224, N-270, N-271, N-282, N-10000, N-10006, N-10014, N-10025, N-10026, N-10197, N-10201, N-10253, N-10290, N-10326, N-11097, N-10334
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Nef, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Neff, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
 ---
 
@@ -306,7 +306,7 @@ Investigative Pressure: Medium
 
 **N-323** Captain Adam Nef
 
-Positively identified in this episode as the U.S. Army captain of the 10th Mountain Division who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025. Distinct from Blake Nef (Fox News personality mentioned in same episode).
+Positively identified in this episode as the U.S. Army captain of the 10th Mountain Division who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025. Distinct from Blake Neff (Fox News personality mentioned in same episode).
 
 Evidence Count: 2
 Claim Count: 1
@@ -911,7 +911,7 @@ Claim Timestamp: 00:09:11
 
 Claim: The host says Erika Kirk has appeared on Hannity, The Five, Fox and Friends, Outnumbered and Megyn Kelly Live and sat down with the New York Times, and uses this to argue she has time to respond.
 
-Transcript Snippet: she's done Hannity. She's done The Five. She's done Fox and Friends. She's done Outnumbered. She's done Megan Kelly Live. She sat down with the New York Times.
+Transcript Snippet: she's done Hannity. She's done The Five. She's done Fox and Friends. She's done Outnumbered. She's done Megyn Kelly Live. She sat down with the New York Times.
 
 Anchored Artifacts: 
 Mentions: N-2, N-46
@@ -927,7 +927,7 @@ Claim Timestamp: 00:11:40
 
 Claim: The host says Erika Kirk's upcoming CBS News town hall with Bari Weiss was filmed on the day of this episode.
 
-Transcript Snippet: She has also made time for an upcoming CBS News town hall sit down with Barry Weiss which was filmed today.
+Transcript Snippet: She has also made time for an upcoming CBS News town hall sit down with Bari Weiss which was filmed today.
 
 Anchored Artifacts: 
 Mentions: N-2, N-282
@@ -1502,7 +1502,7 @@ Claim Timestamp: 00:44:18
 
 Claim: The host says El Paso, Texas is where all the weird flights were coming from on the day of Charlie Kirk's assassination, so the plane's stop there is compelling.
 
-Transcript Snippet: El Paso, Texas is where all those weird flights were coming from on the day of Charlie Cook's assassination.
+Transcript Snippet: El Paso, Texas is where all those weird flights were coming from on the day of Charlie Kirk's assassination.
 
 Anchored Artifacts: A-1529.1
 Mentions: N-1, N-3
@@ -1684,7 +1684,7 @@ Claim Timestamp: 00:55:36
 
 Claim: The host says she did not look into why Blake Neff left Fox News, because she is more interested in his military connections.
 
-Transcript Snippet: I didn't look into the Blake Nef thing or why he left uh Fox News. Uh because I'm just more interested in his military connections
+Transcript Snippet: I didn't look into the Blake Neff thing or why he left uh Fox News. Uh because I'm just more interested in his military connections
 
 Anchored Artifacts: 
 Mentions: N-162

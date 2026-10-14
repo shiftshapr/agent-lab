@@ -996,7 +996,7 @@
       "ref": "N-50",
       "name": "Sigmund Freud",
       "type": "person",
-      "description": "Sigmund Freud; subject of the book the host's book club is finishing (rendered 'Sigman Freud').",
+      "description": "Sigmund Freud; subject of the book the host's book club is finishing (rendered 'Sigmund Freud').",
       "related_artifacts": [],
       "related_claims": [
         "C-6900"
@@ -2952,7 +2952,7 @@
       ],
       "claim_timestamp": "00:15:25",
       "investigative_direction": "Ask Kolvet and Dr. Trotter's representatives for the source of the quotation.",
-      "transcript_snippet": "We broke the story that Andrew Kovette lied about the Superman neck. That quotation never came from Dr. Lee Trotter at all.",
+      "transcript_snippet": "We broke the story that Andrew Kolvet lied about the Superman neck. That quotation never came from Dr. Lee Trotter at all.",
       "supports_claim_refs": [
         "C-5187"
       ],
@@ -2978,7 +2978,7 @@
       ],
       "claim_timestamp": "00:15:35",
       "investigative_direction": "Obtain the text thread from Kolvet, Flood or Erika Kirk and compare it to the host's description.",
-      "transcript_snippet": "We broke the story that Charlie texted Dan Flood and Andrew Kovette the night before saying that he was afraid that they were going to kill him.",
+      "transcript_snippet": "We broke the story that Charlie texted Dan Flood and Andrew Kolvet the night before saying that he was afraid that they were going to kill him.",
       "supports_claim_refs": [
         "C-5086"
       ],
@@ -3056,7 +3056,7 @@
       ],
       "claim_timestamp": "00:16:10",
       "investigative_direction": "Identify the independent source, directly or through the host, and the nature of their knowledge.",
-      "transcript_snippet": "I confirmed that separately from Andrew Kovette with someone that did not have communication with Andrew Kovette.",
+      "transcript_snippet": "I confirmed that separately from Andrew Kolvet with someone that did not have communication with Andrew Kolvet.",
       "supports_claim_refs": [
         "C-1562"
       ],
@@ -4613,7 +4613,7 @@
       ],
       "claim_timestamp": "00:55:00",
       "investigative_direction": "Obtain the French court judgment for the damages order and amount.",
-      "transcript_snippet": "And they have to collectively pay Rajit Mcronone what's known as moral damages around $12,000.",
+      "transcript_snippet": "And they have to collectively pay Rajit Macron what's known as moral damages around $12,000.",
       "mentions_person_refs": [
         "N-3",
         "N-82"
@@ -4709,7 +4709,7 @@
       "@id": "C-6900",
       "ref": "C-6900",
       "label": "Host Says Friday's Book Club Will Run Two Hours to Finish the Freud Book",
-      "claim": "The host says that instead of an episode on Friday she will hold a two-hour book club finishing the book Sigman Freud and the Jewish mystical tradition.",
+      "claim": "The host says that instead of an episode on Friday she will hold a two-hour book club finishing the book Sigmund Freud and the Jewish mystical tradition.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -4717,7 +4717,7 @@
       ],
       "claim_timestamp": "01:01:30",
       "investigative_direction": "Confirm the Friday book club date and its length from the host's channel.",
-      "transcript_snippet": "So instead, we will be doing our book club on Friday for 2 hours as we finish the book Sigman Freud and the Jewish mystical tradition.",
+      "transcript_snippet": "So instead, we will be doing our book club on Friday for 2 hours as we finish the book Sigmund Freud and the Jewish mystical tradition.",
       "mentions_person_refs": [
         "N-3",
         "N-50"

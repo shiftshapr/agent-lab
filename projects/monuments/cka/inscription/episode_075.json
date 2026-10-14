@@ -1533,7 +1533,7 @@
       "ref": "N-215",
       "name": "Jesse Watters",
       "type": "person",
-      "description": "First named by the host at 00:23:52 in episode 75 (spelled Jesse Waters). Fox News host to whom the host says Erika Kirk said she had zero fear.",
+      "description": "First named by the host at 00:23:52 in episode 75 (spelled Jesse Watters). Fox News host to whom the host says Erika Kirk said she had zero fear.",
       "related_artifacts": [],
       "related_claims": [
         "C-7094"
@@ -2909,7 +2909,7 @@
       "@type": "Claim",
       "@id": "C-7094",
       "ref": "C-7094",
-      "label": "Host Says Erika Told Jesse Waters She Had Zero Fear",
+      "label": "Host Says Erika Told Jesse Watters She Had Zero Fear",
       "claim": "The host says Erika Kirk told Jesse Watters that she had zero fear and was not scared to walk out the door the next day with her kids in tow.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2920,7 +2920,7 @@
       ],
       "claim_timestamp": "00:23:52",
       "investigative_direction": "Pull the Fox News interview and check the exact words and date.",
-      "transcript_snippet": "she told Jesse Waters that she had zero fear. None at all.",
+      "transcript_snippet": "she told Jesse Watters that she had zero fear. None at all.",
       "mentions_person_refs": [
         "N-2",
         "N-215",

@@ -181,7 +181,7 @@ Moving on here, imagine if you would for a second you guys. A second. A widow wh
 
 [28:31]
 
-Well guess what? His widow Helen still has questions and she spoke out and has made it very clear that she is unsatisfied with the investigation. She wasn't ready to go on Barry Weiss two weeks later and say she trusts everything 100% despite seeing nothing. She's fully convinced of what happened to her husband. That's not what Helen did. Helen didn't wear sparkly pantsuit. Helen didn't uh hire a bunch of influencers uh to target people that were questioning the narrative. Helen didn't become the firefighter that her husband was and take on his job and say she was qualified cuz she knew how much he loved to fight fires. She's just a whole different breed of a widow, one that we're familiar with.
+Well guess what? His widow Helen still has questions and she spoke out and has made it very clear that she is unsatisfied with the investigation. She wasn't ready to go on Bari Weiss two weeks later and say she trusts everything 100% despite seeing nothing. She's fully convinced of what happened to her husband. That's not what Helen did. Helen didn't wear sparkly pantsuit. Helen didn't uh hire a bunch of influencers uh to target people that were questioning the narrative. Helen didn't become the firefighter that her husband was and take on his job and say she was qualified cuz she knew how much he loved to fight fires. She's just a whole different breed of a widow, one that we're familiar with.
 
 [29:15]
 

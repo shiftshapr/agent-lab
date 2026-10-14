@@ -1794,7 +1794,7 @@
       "tags": [],
       "claim_timestamp": "00:02:09",
       "investigative_direction": "Obtain TPUSA sponsorship and advertising records for AmFest 2024; ask Kolvet to confirm or deny the conversation.",
-      "transcript_snippet": "this is what was divulged to me from Andrew Kolb at the time, willing to spend an offensive amount of money to be a part of AmFest.",
+      "transcript_snippet": "this is what was divulged to me from Andrew Kolvet at the time, willing to spend an offensive amount of money to be a part of AmFest.",
       "mentions_person_refs": [
         "N-14",
         "N-97",
@@ -1805,8 +1805,8 @@
       "@type": "Claim",
       "@id": "C-5354",
       "ref": "C-5354",
-      "label": "Host says Shapiro worked with Barry Weiss on an article that donors want her gone",
-      "claim": "The host says she knew Ben Shapiro was working with Barry Weiss to put out an article saying the donors and board of TPUSA wanted Candace gone.",
+      "label": "Host says Shapiro worked with Bari Weiss on an article that donors want her gone",
+      "claim": "The host says she knew Ben Shapiro was working with Bari Weiss to put out an article saying the donors and board of TPUSA wanted Candace gone.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -1814,7 +1814,7 @@
       "tags": [],
       "claim_timestamp": "00:02:09",
       "investigative_direction": "Identify the Free Press or other article the host refers to and any TPUSA board or donor statement quoted in it.",
-      "transcript_snippet": "he was working with Barry Weiss to call and put an article out saying that the donors, the people on the board of TPUSA want Candace gone.",
+      "transcript_snippet": "he was working with Bari Weiss to call and put an article out saying that the donors, the people on the board of TPUSA want Candace gone.",
       "mentions_person_refs": [
         "N-97",
         "N-282",
@@ -2304,7 +2304,7 @@
       "tags": [],
       "claim_timestamp": "00:19:58",
       "investigative_direction": "Obtain the full speech video to confirm wording and the passages naming Carlson and Kelly.",
-      "transcript_snippet": "The same holds true of Megan Kelly, a person I consider a friend, characterizing Candace as a young mother and thus shying away from condemning her actions",
+      "transcript_snippet": "The same holds true of Megyn Kelly, a person I consider a friend, characterizing Candace as a young mother and thus shying away from condemning her actions",
       "supports_claim_refs": [
         "C-1980"
       ],

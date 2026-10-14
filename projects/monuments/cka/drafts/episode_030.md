@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-Episode 30 centers on three documentary threads tied to artifact presentations. First, the host plays Megyn Kelly's tour Q&A clip in which Megyn publicly corrects Ben Shapiro's claim that Candace had accused Erica Kirk of murder, and presents Megyn's backstage video in which Charlie Kirk is heard saying "Go Max" to Tucker Carlson prior to his Student Action Summit speech. Second, the host plays a Frank Turk interview segment identifying the previously anonymous "old man talking to a bush" pre-event as Butch Hibbs, brother of Pastor Jack Hibbs, and presents a photograph of Hibbs with Kirk taken approximately twenty minutes before the shooting. Third, the host reads directly from the Alexis Wilkins lawsuit against Elijah Schaefer, citing a September 14, 2025 Hen Mazig X post and a Schaefer response photograph as the underlying basis of the $5 million action.
+Episode 30 centers on three documentary threads tied to artifact presentations. First, the host plays Megyn Kelly's tour Q&A clip in which Megyn publicly corrects Ben Shapiro's claim that Candace had accused Erica Kirk of murder, and presents Megyn's backstage video in which Charlie Kirk is heard saying "Go Max" to Tucker Carlson prior to his Student Action Summit speech. Second, the host plays a Frank Turek interview segment identifying the previously anonymous "old man talking to a bush" pre-event as Butch Hibbs, brother of Pastor Jack Hibbs, and presents a photograph of Hibbs with Kirk taken approximately twenty minutes before the shooting. Third, the host reads directly from the Alexis Wilkins lawsuit against Elijah Schaefer, citing a September 14, 2025 Hen Mazig X post and a Schaefer response photograph as the underlying basis of the $5 million action.
 
 The episode also introduces several unanchored investigative threads (UVU outdoor venue selection timeline, Mikey McCoy first name, TPUSA Faith / Calvary Chapel military pipeline pattern, Timpanogos vs. Utah Valley Hospital record-sharing systems, TPUSA email-tracking software claim) which are recorded as investigation target nodes rather than claims because no in-episode artifact anchors them. A Kanye West "Defcon 3" tweet is read aloud and is recorded as a standalone artifact per the read/display rule.
 
@@ -86,9 +86,9 @@ Confidence Level: High
 
 ---
 
-**A-1383** Frank Turk Identification Bundle
+**A-1383** Frank Turek Identification Bundle
 
-**A-1383.1** Frank Turk audio/video clip identifying the previously anonymous older man seen talking to a bush at the UVU venue before Charlie Kirk arrived as Butch Hibbs, brother of Pastor Jack Hibbs.
+**A-1383.1** Frank Turek audio/video clip identifying the previously anonymous older man seen talking to a bush at the UVU venue before Charlie Kirk arrived as Butch Hibbs, brother of Pastor Jack Hibbs.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -98,7 +98,7 @@ Confidence Level: High
 
 *Related: C-1672, C-1673, N-7, N-212, N-250*
 
-**A-1383.2** Photograph of Charlie Kirk, Frank Turk, and Butch Hibbs, stated to have been taken approximately 20 minutes before the shooting.
+**A-1383.2** Photograph of Charlie Kirk, Frank Turek, and Butch Hibbs, stated to have been taken approximately 20 minutes before the shooting.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -341,7 +341,7 @@ Investigative Pressure: Medium
 
 **N-212** Jack Hibbs
 
-Pastor of a Calvary Chapel in California; identified as Butch Hibbs' brother by Frank Turk.
+Pastor of a Calvary Chapel in California; identified as Butch Hibbs' brother by Frank Turek.
 
 Evidence Count: 1
 Claim Count: 1
@@ -445,7 +445,7 @@ Investigative Pressure: High
 
 **N-10244** Pre-Event Old Man Near Bush Anomaly
 
-Persistent investigative target concerning an unidentified-to-the-public older man seen alone near a bush at the UVU venue during setup, identified in this episode as Butch Hibbs via Frank Turk.
+Persistent investigative target concerning an unidentified-to-the-public older man seen alone near a bush at the UVU venue during setup, identified in this episode as Butch Hibbs via Frank Turek.
 
 Evidence Count: 2
 Claim Count: 1
@@ -732,7 +732,7 @@ Reused for lie nine.
 
 ---
 
-**N-118** Marissa Strait
+**N-118** Marissa Streit
 
 Transcribed Strait; linked by the host to introductions and to Wilkins.
 
@@ -838,7 +838,7 @@ Former head of Operation Underground, introduced to the host via Streit.
 
 **N-38** Seth Dillon
 
-Transcribed Seth Dylan; named in the Hamptons retreat items.
+Transcribed Seth Dillon; named in the Hamptons retreat items.
 
 *Related: C-9730, C-9731*
 
@@ -977,26 +977,26 @@ Investigative Direction: Obtain the full Dave Rubin segment to verify precise wo
 
 ---
 
-**C-1672** Frank Turk identified the older man seen near a bush pre-event as Butch Hibbs
+**C-1672** Frank Turek identified the older man seen near a bush pre-event as Butch Hibbs
 
 Claim Timestamp: 00:32:57
 
-Claim: Frank Turk identified the previously anonymous older man seen near a bush at the UVU amphitheater before Charlie Kirk arrived as Butch Hibbs.
+Claim: Frank Turek identified the previously anonymous older man seen near a bush at the UVU amphitheater before Charlie Kirk arrived as Butch Hibbs.
 
 Anchored Artifacts: A-1383.1, A-1384.1
 Mentions: N-7, N-250, N-1
 
 Related Nodes: N-10244
 
-Investigative Direction: Obtain the full Frank Turk interview, including any prior segments establishing his presence at the event.
+Investigative Direction: Obtain the full Frank Turek interview, including any prior segments establishing his presence at the event.
 
 ---
 
-**C-1673** Frank Turk stated Butch Hibbs is the brother of Pastor Jack Hibbs
+**C-1673** Frank Turek stated Butch Hibbs is the brother of Pastor Jack Hibbs
 
 Claim Timestamp: 00:33:00
 
-Claim: Frank Turk stated that Butch Hibbs is the brother of Pastor Jack Hibbs.
+Claim: Frank Turek stated that Butch Hibbs is the brother of Pastor Jack Hibbs.
 
 Anchored Artifacts: A-1383.1
 Mentions: N-212, N-250, N-7
@@ -1010,7 +1010,7 @@ Investigative Direction: Obtain independent genealogical or institutional record
 
 Claim Timestamp: 00:32:57
 
-Claim: A photograph of Butch Hibbs, Charlie Kirk, and Frank Turk was taken approximately 20 minutes before the shooting of Charlie Kirk.
+Claim: A photograph of Butch Hibbs, Charlie Kirk, and Frank Turek was taken approximately 20 minutes before the shooting of Charlie Kirk.
 
 Anchored Artifacts: A-1383.2
 Mentions: N-1, N-7, N-250
@@ -1417,7 +1417,7 @@ Claim Timestamp: 00:16:32
 
 Claim: The host says Andrew Kolvet's explanation that Terrell moved the SD cards because people were stealing hats does not make sense, because expensive cameras rather than cheap SD cards would be the theft target.
 
-Transcript Snippet: Terrell moved the SD cards because people were stealing hats. Andrew Kovette, what if you were scared about people stealing?
+Transcript Snippet: Terrell moved the SD cards because people were stealing hats. Andrew Kolvet, what if you were scared about people stealing?
 
 Anchored Artifacts: 
 Mentions: N-265, N-14
@@ -1662,7 +1662,7 @@ Claim Timestamp: 00:23:35
 
 Claim: The host alleges Dylan and Austin Erickson were involved in creating an alibi lie about the Hamptons retreat with Seth Dillon and says they lied.
 
-Transcript Snippet: the lie, the alibi lie for the Hampton's retreat with Seth Dylan. Um, you lied.
+Transcript Snippet: the lie, the alibi lie for the Hampton's retreat with Seth Dillon. Um, you lied.
 
 Anchored Artifacts: 
 Mentions: N-20, N-858, N-38, N-3
@@ -1679,7 +1679,7 @@ Claim Timestamp: 00:23:35
 
 Claim: The host says Seth Dillon did press Charlie Kirk and that Kirk himself described the Hamptons event as an intervention.
 
-Transcript Snippet: Seth Dylan did press Charlie. Charlie himself described the Hampton's um event as an intervention
+Transcript Snippet: Seth Dillon did press Charlie. Charlie himself described the Hampton's um event as an intervention
 
 Anchored Artifacts: 
 Mentions: N-38, N-1, N-3
@@ -2003,7 +2003,7 @@ Claim Timestamp: 00:40:30
 
 Claim: The host says the only support for the honeypot idea is people saying Alexis Wilkins works for Marissa Streit at PragerU, who the host says is formerly of an IDF intelligence unit; the pronoun reference in the transcript is ambiguous.
 
-Transcript Snippet: people saying she works for Marissa Strait Prageru who uh you know she's formerly of the IDF intelligence unit.
+Transcript Snippet: people saying she works for Marissa Streit Prageru who uh you know she's formerly of the IDF intelligence unit.
 
 Anchored Artifacts: 
 Mentions: N-216, N-118

@@ -13,10 +13,9 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (skeleton-gary): N-622
-  - Hole-minted Nodes (reintro-ep100): N-10768
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Tip-minted Nodes (skeleton): N-608, N-609, N-612, N-613, N-10909
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-15, N-22, N-30, N-60, N-97, N-162, N-166, N-215, N-225, N-228, N-233, N-270, N-274, N-334, N-366, N-371, N-131, N-10000, N-10126, N-10238, N-10367, N-10373, N-10375, N-10378, N-10385, N-10416, N-10417, N-10437, N-10449, N-10450, N-10472, N-10631, N-10643, N-10651, N-10898, N-10899, N-10900, N-11001, N-611, N-10912, N-610, N-10681, N-10911, N-10689, N-10910
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-15, N-22, N-30, N-60, N-97, N-162, N-166, N-215, N-225, N-228, N-233, N-270, N-274, N-334, N-366, N-371, N-131, N-10000, N-10126, N-10238, N-10367, N-10373, N-10375, N-10378, N-10385, N-10416, N-10417, N-10437, N-10449, N-10450, N-10472, N-10631, N-10643, N-10651, N-10898, N-10899, N-10900, N-11001, N-611, N-10912, N-610, N-10681, N-10911, N-10689, N-10910, N-10768
   - Claim Range: C-3884â€“C-3948
   - (see registers)
 
@@ -205,7 +204,7 @@ Confidence Level: High
 
 **A-2552.1** Shane Cashman's X post on Jeremy Boreing (read aloud)
 
-Quoted text: "Jeremy Boring is Ted Bundy doing a Mr. Rogers impression."
+Quoted text: "Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:43:02
@@ -345,7 +344,7 @@ His documentaries' success is credited by the host for the Daily Wire's peak yea
 
 **N-215** Jesse Watters
 
-Transcript spelling "Jesse Waters". Erika Kirk's account to him of September 9 is contrasted with Kolvet's message.
+Transcript spelling "Jesse Watters". Erika Kirk's account to him of September 9 is contrasted with Kolvet's message.
 
 *Related: C-3910*
 
@@ -357,7 +356,7 @@ The host alleges Boreing targeted her for wanting to marry and wrote a Lady Ball
 
 **N-228** Shawn Ryan
 
-Transcript spelling "Sean Ryan". Harpole's interview with him preceded Bednarz's theories.
+Transcript spelling "Shawn Ryan". Harpole's interview with him preceded Bednarz's theories.
 
 *Related: C-3893*
 
@@ -393,7 +392,7 @@ Fort Huachuca eyewitness; the military YouTubers' attacks on him and his sightin
 
 **N-371** Jeremy Boreing
 
-Transcript spelling "Jeremy Boring". Former Daily Wire CEO whose video amplifies the George Farmer allegations; his X reply, Pendragon, his podcast and his conduct toward the host and Brett Cooper are discussed.
+Transcript spelling "Jeremy Boreing". Former Daily Wire CEO whose video amplifies the George Farmer allegations; his X reply, Pendragon, his podcast and his conduct toward the host and Brett Cooper are discussed.
 
 *Related: C-3915, C-3916, C-3917, C-3918, C-3919, C-3920, C-3921, C-3922, C-3923, C-3924, C-3927, C-3933, C-3934, C-3935, C-3938, C-3941, C-3942, C-3943, C-3944, C-3945, A-2551.1, A-2552.1, A-2553.1, A-2553.2, A-2553.3, A-2553.4*
 
@@ -541,7 +540,7 @@ Preservation orders, the TPUSA-source message about a planned suit, shared couns
 
 *Related: C-3884, C-3885, C-3890, C-3892, C-3895, C-3900, C-3903, C-3913, C-3914, C-3917, A-2544.1, A-2549.3*
 
-**N-10681** Sean Ryan Show Interview Clip Bundle
+**N-10681** Shawn Ryan Show Interview Clip Bundle
 
 Harpole's Shawn Ryan interview, after which Bednarz began his theories.
 
@@ -604,7 +603,7 @@ Investigation target: why the Harpole plaintiffs served Douglas Blake Bednarz â€
 **N-10910** Dhillon Law Group
 
 Node Type: Organization
-Law firm (transcript spelling "Dylan Law Group") that the host says served the preservation order on Blake Bednarz. She says Harpole's lawyer is the same one the Daily Wire used against her.
+Law firm (transcript spelling "Dhillon Law Group") that the host says served the preservation order on Blake Bednarz. She says Harpole's lawyer is the same one the Daily Wire used against her.
 
 *Related: C-3895, C-3917, A-2544.2*
 
@@ -765,7 +764,7 @@ Claim Timestamp: 00:08:09
 
 Claim: The host identifies the person Coleman refers to as Douglas Blake Bednarz. She says he began positing theories about Harpole after Harpole's interview with Shawn Ryan, which she calls disastrous.
 
-Transcript Snippet: The person he's referring to, a full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian's disastrous interview with Sean Ryan.
+Transcript Snippet: The person he's referring to, a full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian's disastrous interview with Shawn Ryan.
 
 Anchored Artifacts: A-2546.1
 Mentions: N-608, N-270, N-228
@@ -795,7 +794,7 @@ Claim Timestamp: 00:09:54
 
 Claim: The host says Blake Bednarz contacted her and told her that Dhillon Law Group had served him a preservation order rather than a lawsuit, because the firm believes he may hold material that could help its defamation case against her.
 
-Transcript Snippet: I learned that Blake Bendaris had been served by Dylan Law Group. But not with the lawsuit, but with a simple preservation order because they think he might have something that might help to prosecute me in a defamation suit.
+Transcript Snippet: I learned that Blake Bendaris had been served by Dhillon Law Group. But not with the lawsuit, but with a simple preservation order because they think he might have something that might help to prosecute me in a defamation suit.
 
 Anchored Artifacts: A-2544.2
 Mentions: N-608, N-3
@@ -1023,7 +1022,7 @@ Claim Timestamp: 00:20:58
 
 Claim: The host says that in her Jesse Watters interview Erika Kirk said Charlie was at the office all day on September 9 and that they had dinner together, but never said she was with him at the office.
 
-Transcript Snippet: But Erika herself told Jesse Waters that Charlie was at the office all day and never said that she was with him.
+Transcript Snippet: But Erika herself told Jesse Watters that Charlie was at the office all day and never said that she was with him.
 
 Anchored Artifacts:
 Mentions: N-2, N-215, N-1
@@ -1127,7 +1126,7 @@ Claim Timestamp: 00:28:52
 
 Claim: The host says the lawyer who filed the Harpole suit is the same lawyer Jeremy Boreing, Ben Shapiro and the Daily Wire used to pursue her in court for two years.
 
-Transcript Snippet: This is the lawyer that Jeremy Boring and Ben and The Daily Wire worked with to pursue me for 2 years in court, uh just with the explicit goal of bankrupting me.
+Transcript Snippet: This is the lawyer that Jeremy Boreing and Ben and The Daily Wire worked with to pursue me for 2 years in court, uh just with the explicit goal of bankrupting me.
 
 Anchored Artifacts:
 Mentions: N-371, N-97, N-270, N-3
@@ -1277,7 +1276,7 @@ Claim Timestamp: 00:38:34
 
 Claim: The host says it was the Daily Wire, Boreing and their affiliates who found an incident report involving George Farmer in late summer 2024. She says her PR team was told they were trying to get the New York Post to publish it.
 
-Transcript Snippet: It is The Daily Wire and Jeremy Boring and their affiliates that stumbled upon an instant report an instant report with George Farmer in the late summer of 2024.
+Transcript Snippet: It is The Daily Wire and Jeremy Boreing and their affiliates that stumbled upon an instant report an instant report with George Farmer in the late summer of 2024.
 
 Anchored Artifacts:
 Mentions: N-371, N-30
@@ -1365,9 +1364,9 @@ Investigative Direction: Archive Laura Loomer's X posts tagging DHS officials ab
 
 Claim Timestamp: 00:43:02
 
-Claim: The host reads a post by Shane Cashman on X that says "Jeremy Boring is Ted Bundy doing a Mr. Rogers impression."
+Claim: The host reads a post by Shane Cashman on X that says "Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression."
 
-Transcript Snippet: Shane Cashman said it best on X when he wrote this. He wrote, "Jeremy Boring is Ted Bundy doing a Mr. Rogers impression."
+Transcript Snippet: Shane Cashman said it best on X when he wrote this. He wrote, "Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression."
 
 Anchored Artifacts: A-2552.1
 Mentions: N-612, N-371
@@ -1396,7 +1395,7 @@ Claim Timestamp: 00:44:57
 
 Claim: The host says that since launching his new podcast Jeremy Boreing has made 19 episodes, 17 of them about her and Tucker Carlson.
 
-Transcript Snippet: Since launching his new podcast, Jeremy Boring has done 19 shows that nobody has watched. You should know that 17 of them have been about me and Tucker Carlson.
+Transcript Snippet: Since launching his new podcast, Jeremy Boreing has done 19 shows that nobody has watched. You should know that 17 of them have been about me and Tucker Carlson.
 
 Anchored Artifacts:
 Mentions: N-371, N-3, N-22
@@ -1667,7 +1666,7 @@ Confidence: high
 
 Video Timestamp: 00:43:02
 Speaker: N-3
-Quote: Shane Cashman said it best on X when he wrote this. He wrote, "Jeremy Boring is Ted Bundy doing a Mr. Rogers impression."
+Quote: Shane Cashman said it best on X when he wrote this. He wrote, "Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression."
 Context: Host reads Shane Cashman's line about Jeremy Boreing, which her team found the most accurate description.
 Tags: roast, comedy, daily_wire
 Confidence: high
@@ -1787,7 +1786,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2544.1 (preservation orders and the lawyers' email requesting Ian Carroll's address), A-2544.2 (the preservation order served on Bednarz), A-2547.1 (the earlier tips-email request) and A-2554.1 (the Zachary Lewis case details the host says she posted on X). The Harpole complaint itself is described but not shown in this episode.
 - **DIA beat**: the only keyword hit is the recalled request "please send it to us tips@kcsun. com" (00:11:02). It was treated as a DIA beat (C-3896, A-2547.1, M-12), although it is a retrospective account of an earlier call for footage rather than a new request. The address is kept as transcribed and is likely a caption error for the show's tips address. The "interesting lead today about Blake Bednarz" (01:06:06) is a tip received but matched no keyword; it is recorded as C-3948 without an M-12 occurrence. M-14 does not air.
-- **Name matching**: Harpole is transcribed as "Bryan Harsin" (00:00:01, 00:01:19), "Brian Hopple", "Bryant Harpole", "Brett Harrelson", "Brian Hurlbut", "Brian Harpool" and "Brian Harp"; all are mapped to N-270 from context. "Barron"/"Baron Cohen" is mapped to N-334 Baron Coleman, and "Andrew Colvin" (comments) to N-14. "Blake Bendaris" and "Blake Bednarz" are treated as the same new person, N-608 Douglas Blake Bednarz. "Dylan Law Group" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic "Dhillon Law Group / Show Faith by Works Connection".
+- **Name matching**: Harpole is transcribed as "Bryan Harsin" (00:00:01, 00:01:19), "Brian Hopple", "Bryant Harpole", "Brett Harrelson", "Brian Hurlbut", "Brian Harpool" and "Brian Harp"; all are mapped to N-270 from context. "Barron"/"Baron Cohen" is mapped to N-334 Baron Coleman, and "Andrew Colvin" (comments) to N-14. "Blake Bendaris" and "Blake Bednarz" are treated as the same new person, N-608 Douglas Blake Bednarz. "Dhillon Law Group" is minted as N-10910 Dhillon Law Group; the integrator should reconcile it with the existing topic "Dhillon Law Group / Show Faith by Works Connection".
 - **Uncertain identities**: "Caleb Robinson" (N-611), the Daily Wire interim CEO, is kept in the transcript spelling and is likely Caleb Robinson; the integrator should verify. "Father Klein" (N-609) could not be matched to any existing node. "Gary" of Paramount Tactical is folded into N-10899 rather than minted, because only his first name is given (the existing Gary Ham node is a different person, a pastor). "Mark Meadows, the Secretary of Homeland Security" (C-3932) is kept as transcribed; the name is likely wrong and no person node was minted. "Matt Saracens" (00:52:31, named as someone who could speak to Loomer for Boreing) is unmatched; it may be Matt Slauson, who appears in prior claim C-2850. It is not inscribed.
 - **Internal inconsistency**: Coleman's clip says Bednarz "is not listed in this lawsuit" (00:07:17), but at 00:11:02 the host says "They're listing him in the lawsuit." This may mean the complaint shows his material without naming him as a defendant; it is preserved as spoken.
 - **Defamation safety**: Bednarz's accusations against Harpole (C-3891, C-3894), the YouTuber's allegations about Mitch Snow's past (C-3901), the George Farmer arrest allegations (C-3920, C-3921, C-3930) and the Zachary Lewis charges (C-3936 to C-3940; not convicted) are all attributed and none is stated as fact.

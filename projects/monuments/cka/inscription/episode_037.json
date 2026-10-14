@@ -13,7 +13,7 @@
     "transcript_sha256": "616bc05edfb6359bc187e34800c41d1e0a9578d7522596cd46dc4c4fe2472367",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode develops the \"Operation Valhalla\" thread of the investigation. The host presents four artifact-anchored components: (1) the Minot Air Force Base website article describing Operation Valhalla Strike, a week-long training exercise conducted August 24–29, 2025 at Camp Ripley by the 891st Missile Security Forces Squadron; (2) an email from a self-identified military member tying BTT's September 4 stopover at Minot, ND to that same exercise; (3) an audio clip of Kash Patel's press conference closing statement invoking \"Valhalla\" in tribute to Charlie Kirk; and (4) a Prager News Network interview clip in which Charlie Kirk identifies Julius Caesar as his favorite pre-1850 historical figure, with the host drawing a parallel between Caesar's assassination and Kirk's.\n\nThe episode also presents side threads with their own artifact anchors: a news clip of Nebraska Secretary of State Bob Evan announcing an October–November Egypt trade mission (alleged to overlap with BTT's movements), a video of Mike Huckabee and David Friedman performing at a Jerusalem event, an article/headline documenting Huckabee's meeting with convicted Israeli spy Jonathan Pollard, a quoted White House briefing statement from press secretary Karoline Leavitt, an email from Free Press writer Ashley Rinzberg requesting comment on several shows, and a Tim Dylan audio clip characterizing Bari Weiss's installation at CBS News as state propaganda delivery.\n\nStructurally, the episode is a connector episode – it does not introduce a new central evidentiary claim, but it does add the Operation Valhalla timeline anchor that places a named military unit's training exercise at T-minus 12 days from the assassination.\n\n---",
+  "executive_summary": "This episode develops the \"Operation Valhalla\" thread of the investigation. The host presents four artifact-anchored components: (1) the Minot Air Force Base website article describing Operation Valhalla Strike, a week-long training exercise conducted August 24–29, 2025 at Camp Ripley by the 891st Missile Security Forces Squadron; (2) an email from a self-identified military member tying BTT's September 4 stopover at Minot, ND to that same exercise; (3) an audio clip of Kash Patel's press conference closing statement invoking \"Valhalla\" in tribute to Charlie Kirk; and (4) a Prager News Network interview clip in which Charlie Kirk identifies Julius Caesar as his favorite pre-1850 historical figure, with the host drawing a parallel between Caesar's assassination and Kirk's.\n\nThe episode also presents side threads with their own artifact anchors: a news clip of Nebraska Secretary of State Bob Evan announcing an October–November Egypt trade mission (alleged to overlap with BTT's movements), a video of Mike Huckabee and David Friedman performing at a Jerusalem event, an article/headline documenting Huckabee's meeting with convicted Israeli spy Jonathan Pollard, a quoted White House briefing statement from press secretary Karoline Leavitt, an email from Free Press writer Ashley Rinzberg requesting comment on several shows, and a Tim Dillon audio clip characterizing Bari Weiss's installation at CBS News as state propaganda delivery.\n\nStructurally, the episode is a connector episode – it does not introduce a new central evidentiary claim, but it does add the Operation Valhalla timeline anchor that places a named military unit's training exercise at T-minus 12 days from the assassination.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -276,13 +276,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1460",
       "family_ref": "A-1460",
-      "bundle_name": "Tim Dylan Bari Weiss Commentary Bundle",
+      "bundle_name": "Tim Dillon Bari Weiss Commentary Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1460.1",
           "ref": "A-1460.1",
-          "description": "Audio Clip – Tim Dylan on Bari Weiss at CBS News",
+          "description": "Audio Clip – Tim Dillon on Bari Weiss at CBS News",
           "related_claims": [],
           "related_nodes": [
             "N-3",
@@ -649,7 +649,7 @@
       "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
-      "description": "Editor-in-chief / CBS News installation (per host and Tim Dylan clip); co-owner of The Free Press.",
+      "description": "Editor-in-chief / CBS News installation (per host and Tim Dillon clip); co-owner of The Free Press.",
       "related_artifacts": [
         "A-1460.1"
       ],
@@ -923,7 +923,7 @@
       "ref": "N-10282",
       "name": "CBS News",
       "type": "investigation_target",
-      "description": "Network where Bari Weiss was installed per Tim Dylan clip.",
+      "description": "Network where Bari Weiss was installed per Tim Dillon clip.",
       "related_artifacts": [
         "A-1460.1"
       ],
@@ -1005,7 +1005,7 @@
       "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
-      "description": "Named by the host (transcribed Kulvette) among military-connected figures; brother and cousin said to be captains.",
+      "description": "Named by the host (transcribed Kolvet) among military-connected figures; brother and cousin said to be captains.",
       "related_artifacts": [],
       "related_claims": [
         "C-9786"
@@ -2517,7 +2517,7 @@
       ],
       "claim_timestamp": "00:15:30",
       "investigative_direction": "Verify the rank and service of Kolvet's brother and cousin via military records or statements.",
-      "transcript_snippet": "Andrew Kulvette, obviously his brother and his cousin are captains in the military. That's a fact.",
+      "transcript_snippet": "Andrew Kolvet, obviously his brother and his cousin are captains in the military. That's a fact.",
       "mentions_person_refs": [
         "N-14"
       ]
@@ -2537,7 +2537,7 @@
       ],
       "claim_timestamp": "00:15:40",
       "investigative_direction": "Verify Turek's Navy service and his sons' service records.",
-      "transcript_snippet": "Frank Turk, who was there for the assassination, is a naval flight officer. His sons are in the Air Force. That's a fact.",
+      "transcript_snippet": "Frank Turek, who was there for the assassination, is a naval flight officer. His sons are in the Air Force. That's a fact.",
       "mentions_person_refs": [
         "N-7"
       ]
@@ -3023,7 +3023,7 @@
       ],
       "claim_timestamp": "00:28:47",
       "investigative_direction": "Check corporate records of The Free Press ownership and the date of its acquisition or change.",
-      "transcript_snippet": "Barry Weiss started and is a part owner at least of the free press before before she went on to CBS News.",
+      "transcript_snippet": "Bari Weiss started and is a part owner at least of the free press before before she went on to CBS News.",
       "mentions_person_refs": [
         "N-282"
       ]
@@ -3063,7 +3063,7 @@
       ],
       "claim_timestamp": "00:31:50",
       "investigative_direction": "Locate the host's remark, Wilkins's response and the YouTube strike notice.",
-      "transcript_snippet": "I make one slight mention joke about Alexis Wilkins, referring to Tim Dylan's content and us getting a strike, and she goes on a rant against me, not against Tim Dylan.",
+      "transcript_snippet": "I make one slight mention joke about Alexis Wilkins, referring to Tim Dillon's content and us getting a strike, and she goes on a rant against me, not against Tim Dillon.",
       "mentions_person_refs": [
         "N-216",
         "N-281",
@@ -3085,7 +3085,7 @@
       ],
       "claim_timestamp": "00:32:20",
       "investigative_direction": "Read the Delaware complaint for references to Dillon and the named defendants.",
-      "transcript_snippet": "Breashit sues me, not Tim Dylan, who she mentions in the lawsuit.",
+      "transcript_snippet": "Breashit sues me, not Tim Dillon, who she mentions in the lawsuit.",
       "supports_claim_refs": [
         "C-6665"
       ],

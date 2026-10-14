@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: 8fa969dba43042db5893cc29c3f2e01cf24703d976572f4015d20142f83e6dab
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-835, N-836, N-837, N-838, N-839, N-840, N-841, N-11211, N-11212
+  - Tip-minted Nodes (supplement_2026-10c): N-835, N-837, N-838, N-839, N-840, N-841, N-11212
   - Claim Range (supplement_2026-10c): C-9154–C-9210
   - New Nodes Introduced: N-10798, N-10800, N-10802, N-10803, N-10807
-  - Reused Nodes Appearing: N-10162, N-18, N-14, N-22, N-265, N-10797, N-10799, N-10801, N-10804, N-10805, N-1, N-30, N-69, N-131, N-162, N-213, N-228, N-241, N-263, N-270, N-334, N-708, N-10000, N-10012, N-10014, N-10100, N-10202, N-10340, N-10346, N-10355, N-10611, N-10625, N-10651, N-10795, N-10796, N-10808, N-10810, N-10991, N-10998, N-11066, N-10806
+  - Reused Nodes Appearing: N-10162, N-18, N-14, N-22, N-265, N-10797, N-10799, N-10801, N-10804, N-10805, N-1, N-30, N-69, N-131, N-162, N-213, N-228, N-241, N-263, N-270, N-334, N-708, N-10000, N-10012, N-10014, N-10100, N-10202, N-10340, N-10346, N-10355, N-10611, N-10625, N-10651, N-10795, N-10796, N-10808, N-10810, N-10991, N-10998, N-11066, N-10806, N-11211, N-836
   - Hole-minted Nodes (wave3): N-575
   - (see registers)
 
@@ -168,7 +168,7 @@ Confidence: high
 
 ## 2. Executive Summary
 
-This episode centers on the September 10, 2025 evidence-handling behavior of Terrell Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kulvette's Tucker Carlson appearance explaining the SD-card removal as protection against "evil people." The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.
+This episode centers on the September 10, 2025 evidence-handling behavior of Terrell Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kolvet's Tucker Carlson appearance explaining the SD-card removal as protection against "evil people." The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.
 
 The episode advances several investigative questions: (1) whether Farnsworth's claimed Google-hacking fear was a lie, given his same-day Google Drive transmission; (2) whether footage from behind Charlie Kirk's head was specifically clipped and zoomed in; (3) whether FBI involvement in a state-level Utah homicide is procedurally anomalous, supported by a clip of former CIA officer John Kirraou. The episode also presents a Joe Rogan Experience clip in which panelists discuss apparent perspective distortion in a published Tyler Robinson identification photo, and a WearForbidden parody video.
 
@@ -230,9 +230,9 @@ Confidence Level: High (audio clip played by host)
 
 ---
 
-**A-2287** Andrew Kulvette Tucker Carlson Interview Bundle
+**A-2287** Andrew Kolvet Tucker Carlson Interview Bundle
 
-**A-2287.1** Kulvette Audio Clip – "Because I know people can be evil" Explanation
+**A-2287.1** Kolvet Audio Clip – "Because I know people can be evil" Explanation
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -556,7 +556,7 @@ Investigative Pressure: Medium
 
 **N-10804** TPUSA Debate PR Strategy
 
-Investigation target: Turning Point USA's choice to deploy Andrew Kulvette in a public debate format.
+Investigation target: Turning Point USA's choice to deploy Andrew Kolvet in a public debate format.
 
 Evidence Count: 3
 Claim Count: 0
@@ -569,7 +569,7 @@ Investigative Pressure: Low
 
 **N-10805** Debate Israel Focus
 
-Investigation target: observation that Andrew Kulvette's debate opening statement pivoted to Israel focus.
+Investigation target: observation that Andrew Kolvet's debate opening statement pivoted to Israel focus.
 
 Evidence Count: 1
 Claim Count: 0
@@ -1056,11 +1056,11 @@ Investigative Direction: Obtain original uncropped September 10 back-camera foot
 
 ---
 
-**C-3294** Andrew Kulvette Publicly Defended SD-Card Removal as Protection Against "Evil People"
+**C-3294** Andrew Kolvet Publicly Defended SD-Card Removal as Protection Against "Evil People"
 
 Claim Timestamp: 00:14:25
 
-Claim: Kulvette stated on Tucker Carlson that Farnsworth removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
+Claim: Kolvet stated on Tucker Carlson that Farnsworth removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
 
 Anchored Artifacts: A-2287.1
 Mentions: N-22
@@ -1069,11 +1069,11 @@ Related Nodes: N-10162
 
 Investigative Direction: Obtain full Tucker Carlson interview segment; identify whether the SD cards referenced match the singular SD card observed being removed.
 
-**C-3743** Andrew Kolvet is the 'Kulvette' of C-3294 (revises C-3294)
+**C-3743** Andrew Kolvet is the 'Kolvet' of C-3294 (revises C-3294)
 
 Claim Timestamp: 00:14:25
 
-Claim: C-3294 spells the speaker 'Andrew Kulvette' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-265) removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
+Claim: C-3294 spells the speaker 'Andrew Kolvet' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-265) removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
 
 Transcript Snippet: He said, "Because I know people can be evil."
 

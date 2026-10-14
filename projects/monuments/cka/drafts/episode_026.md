@@ -12,11 +12,11 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-850, N-851, N-852, N-853, N-854, N-11226, N-11227
-  - Hole-minted Nodes (reintro-ep026): N-601, N-10338, N-10482, N-10587, N-10628, N-10630, N-10715
+  - Hole-minted Nodes (reintro-ep026): N-601, N-10338, N-10482, N-10587, N-10630, N-10715
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9513–C-9583
   - New Nodes Introduced: N-225, N-227, N-228, N-10224, N-10225, N-10226, N-10227
-  - Reused Nodes Appearing: N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-102, N-120, N-132, N-184, N-205, N-215, N-221, N-10002, N-10012, N-10064, N-10073, N-10124, N-10149, N-10193, N-10194, N-10198, N-10199, N-10202, N-10217, N-10218, N-10222, N-10324, N-10917, N-11100, N-226
+  - Reused Nodes Appearing: N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-102, N-120, N-132, N-184, N-205, N-215, N-221, N-10002, N-10012, N-10064, N-10073, N-10124, N-10149, N-10193, N-10194, N-10198, N-10199, N-10202, N-10217, N-10218, N-10222, N-10324, N-10917, N-11100, N-226, N-10628
   - (see registers)
 
 # Episode Analysis Record
@@ -46,7 +46,7 @@
 
 ## II. Executive Summary
 
-This episode is structured around two parallel tracks: an update on the Charlie Kirk investigation and commentary on the Zohran Mamdani NYC mayoral victory. On the Kirk side, the host presents documentary artifacts she has recovered from her own TPUSA-era email records, including a Turning Point planning email from October 2023 showing multi-month advance scheduling for an April 2024 tour. She uses this as a comparison baseline against the UVU event (mid-July 2025 request, early September 2025 approval), advancing an inside-job framing. She also plays a Blake Nef interview recounting Mikey McCoy's behavior immediately after the shooting and presents a YouTube scheduling screenshot showing Mikey McCoy's memorial speech queued before Erika Kirk's. On the Mamdani side, the host plays a NYC mayoral debate clip about a first-foreign-trip question, a CNN exit-poll image showing Jewish-vote breakdown, and a Josh Hammer commentary clip. Additional artifacts include a CNN segment on Candace Owens, Brett Cooper audio clips, multiple X posts targeting Brett Cooper, a Shawn Ryan Show clip, and a news headline about Laura Loomer's Pentagon press pass. The episode functions as a continuation of the host's investigative pressure on TPUSA while expanding the series' ongoing anti-Zionist political commentary.
+This episode is structured around two parallel tracks: an update on the Charlie Kirk investigation and commentary on the Zohran Mamdani NYC mayoral victory. On the Kirk side, the host presents documentary artifacts she has recovered from her own TPUSA-era email records, including a Turning Point planning email from October 2023 showing multi-month advance scheduling for an April 2024 tour. She uses this as a comparison baseline against the UVU event (mid-July 2025 request, early September 2025 approval), advancing an inside-job framing. She also plays a Blake Neff interview recounting Mikey McCoy's behavior immediately after the shooting and presents a YouTube scheduling screenshot showing Mikey McCoy's memorial speech queued before Erika Kirk's. On the Mamdani side, the host plays a NYC mayoral debate clip about a first-foreign-trip question, a CNN exit-poll image showing Jewish-vote breakdown, and a Josh Hammer commentary clip. Additional artifacts include a CNN segment on Candace Owens, Brett Cooper audio clips, multiple X posts targeting Brett Cooper, a Shawn Ryan Show clip, and a news headline about Laura Loomer's Pentagon press pass. The episode functions as a continuation of the host's investigative pressure on TPUSA while expanding the series' ongoing anti-Zionist political commentary.
 
 ---
 
@@ -167,9 +167,9 @@ Confidence Level: High
 
 ---
 
-**A-1339** Blake Nef Interview Bundle
+**A-1339** Blake Neff Interview Bundle
 
-**A-1339.1** Blake Nef audio interview recounting events immediately after the UVU shooting
+**A-1339.1** Blake Neff audio interview recounting events immediately after the UVU shooting
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -468,7 +468,7 @@ Investigative Pressure: Low
 
 **N-17** Rob McCoy
 
-Referenced in Blake Nef interview as call recipient; subject of host commentary re: Charlie Kirk succession narrative.
+Referenced in Blake Neff interview as call recipient; subject of host commentary re: Charlie Kirk succession narrative.
 
 Evidence Count: 1
 Claim Count: 1
@@ -566,7 +566,7 @@ Donald Trump; subject of host claims on posts and the Epstein remark.
 
 **N-7** Frank Turek
 
-Frank Turek (host says "Frank Turk"); named as a witness at the hospital.
+Frank Turek (host says "Frank Turek"); named as a witness at the hospital.
 
 *Related: C-9561*
 
@@ -598,7 +598,7 @@ Benjamin Netanyahu; named in Cooper's Randy Fine remark.
 
 **N-37** Bill Ackman
 
-Bill Ackman (transcribed "Bill Aman"); named for his reported $1.75 million against Mamdani.
+Bill Ackman (transcribed "Bill Ackman"); named for his reported $1.75 million against Mamdani.
 
 *Related: C-9525*
 
@@ -606,7 +606,7 @@ Bill Ackman (transcribed "Bill Aman"); named for his reported $1.75 million agai
 
 **N-50** Sigmund Freud
 
-Sigmund Freud (host says "Sigman Freud"); subject of the host's gaslighting claim.
+Sigmund Freud (host says "Sigmund Freud"); subject of the host's gaslighting claim.
 
 *Related: C-9575, C-9576*
 
@@ -644,9 +644,8 @@ Ben Shapiro; named in the YouTube channel list.
 
 ---
 
-**N-98** Bob Shulman
-
-Bob Shulman (host says "Bob Showman"); the donor the host says took $2 million from Kirk.
+**N-98** Robert Shillman
+Bob Shillman (host says "Bob Shillman"); the donor the host says took $2 million from Kirk.
 
 *Related: C-9540*
 
@@ -694,7 +693,7 @@ Nick Fuentes; named in the Ted Cruz tweets and the host's MAGA comment.
 
 **N-215** Jesse Watters
 
-Jesse Watters (transcribed "Jesse Waters"); interviewer of Erika Kirk.
+Jesse Watters (transcribed "Jesse Watters"); interviewer of Erika Kirk.
 
 *Related: C-9567*
 
@@ -1126,18 +1125,18 @@ Investigative Direction: Locate the full Shawn Ryan Show episode for complete co
 
 ---
 
-**C-1609** Blake Nef Recounts Mikey McCoy's Actions
+**C-1609** Blake Neff Recounts Mikey McCoy's Actions
 
 Claim Timestamp: 00:36:07–00:39:39
 
-Claim: Blake Nef stated on-record that he was next to Mikey McCoy when the shot occurred, that Mikey ran in a specific direction, that his lip was quivering, and that Mikey placed calls to Erica Kirk and to Robin McCoy within approximately one minute.
+Claim: Blake Neff stated on-record that he was next to Mikey McCoy when the shot occurred, that Mikey ran in a specific direction, that his lip was quivering, and that Mikey placed calls to Erica Kirk and to Robin McCoy within approximately one minute.
 
 Anchored Artifacts: A-1339.1
 Mentions: N-1, N-17, N-162, N-194, N-2
 
 Related Nodes:
 
-Investigative Direction: Confirm publication date and outlet of the Blake Nef interview; cross-reference with available video footage of Mikey McCoy's post-shooting movements.
+Investigative Direction: Confirm publication date and outlet of the Blake Neff interview; cross-reference with available video footage of Mikey McCoy's post-shooting movements.
 
 ---
 
@@ -1145,7 +1144,7 @@ Investigative Direction: Confirm publication date and outlet of the Blake Nef in
 
 Claim Timestamp: 00:39:39–00:43:20
 
-Claim: The host asserts that Blake Nef's account is internally inconsistent with observed video footage of Mikey McCoy's movement and phone posture, and contends that the described calls could not have occurred as described.
+Claim: The host asserts that Blake Neff's account is internally inconsistent with observed video footage of Mikey McCoy's movement and phone posture, and contends that the described calls could not have occurred as described.
 
 Anchored Artifacts: A-1339.1, A-1344.1
 Mentions: N-17, N-162, N-194, N-2
@@ -1680,9 +1679,9 @@ Investigative Direction: Locate both Ted Cruz tweets and their dates on X.
 
 Claim Timestamp: 00:20:14
 
-Claim: The host says that after Charlie Kirk was called an anti-semite for sitting down with Gen Z, financial threats were made and carried out, citing Bob Showman taking $2 million away from him because he let Tucker Carlson on stage.
+Claim: The host says that after Charlie Kirk was called an anti-semite for sitting down with Gen Z, financial threats were made and carried out, citing Bob Shillman taking $2 million away from him because he let Tucker Carlson on stage.
 
-Transcript Snippet: People like Bob Showman took $2 million away from him because he let Tucker Carlson hit the stage.
+Transcript Snippet: People like Bob Shillman took $2 million away from him because he let Tucker Carlson hit the stage.
 
 Anchored Artifacts: 
 Mentions: N-98, N-1, N-22
@@ -1941,7 +1940,7 @@ Claim Timestamp: 00:40:23
 
 Claim: The host says tracking footage shows Mikey McCoy going straight and then left toward the parking lot, already on the phone, with Blake Neff nowhere to be seen, and that Mikey moves as if he knows where he is going.
 
-Transcript Snippet: And he is on the phone already. And Blake Nef is nowhere to be seen.
+Transcript Snippet: And he is on the phone already. And Blake Neff is nowhere to be seen.
 
 Anchored Artifacts: A-1344.1
 Mentions: N-194, N-162
@@ -2005,7 +2004,7 @@ Claim Timestamp: 00:43:22
 
 Claim: The host says Blake Neff has said elsewhere that they got into the hospital within 25 minutes, which she says means they knew instantly which hospital and direction to go.
 
-Transcript Snippet: Blake Nef says elsewhere they got into the hospital within 25 minutes.
+Transcript Snippet: Blake Neff says elsewhere they got into the hospital within 25 minutes.
 
 Anchored Artifacts: 
 Mentions: N-162
@@ -2118,7 +2117,7 @@ Claim Timestamp: 00:46:08
 
 Claim: The host says a much anticipated interview between Jesse Watters and Erika Kirk was due to drop that night and that she would be watching.
 
-Transcript Snippet: when the very anticipated interview drops between Jesse Waters and Erika Kirk, I will be watching.
+Transcript Snippet: when the very anticipated interview drops between Jesse Watters and Erika Kirk, I will be watching.
 
 Anchored Artifacts: 
 Mentions: N-215, N-2, N-3
@@ -2246,7 +2245,7 @@ Claim Timestamp: 00:56:15
 
 Claim: The host recommends starting with Jeffrey Masson's The Assault on Truth and a book titled Sigmund Freud in the Jewish Mystical Tradition to understand the Zionist narrative, and says to also study the early Zionist movement and Theodor Herzl's connection to Freud.
 
-Transcript Snippet: I would start with the assault on truth from by Jeffrey Mason and then move on to this most critical book uh which is Sigman Freud in the Jewish Mystical Tradition.
+Transcript Snippet: I would start with the assault on truth from by Jeffrey Mason and then move on to this most critical book uh which is Sigmund Freud in the Jewish Mystical Tradition.
 
 Anchored Artifacts: 
 Mentions: N-853, N-50, N-854, N-3
@@ -2262,7 +2261,7 @@ Claim Timestamp: 00:56:15
 
 Claim: The host says Sigmund Freud mainstreamed gaslighting people he harmed, which she calls an inescapable fact as pointed out by Jeffrey Masson, who she says was in control of the Freud archives.
 
-Transcript Snippet: That is why they celebrate Sigman Freud is because he mainstreamed gaslighting people that they harmed.
+Transcript Snippet: That is why they celebrate Sigmund Freud is because he mainstreamed gaslighting people that they harmed.
 
 Anchored Artifacts: 
 Mentions: N-50, N-853

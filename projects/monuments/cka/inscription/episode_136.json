@@ -91,13 +91,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2225",
       "family_ref": "A-2225",
-      "bundle_name": "Frank Turk Interview Clip Bundle",
+      "bundle_name": "Frank Turek Interview Clip Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2225.1",
           "ref": "A-2225.1",
-          "description": "Clip in which Frank Turk uses the phrase \"yanking and banking\" to describe arrival at hospital parking lot",
+          "description": "Clip in which Frank Turek uses the phrase \"yanking and banking\" to describe arrival at hospital parking lot",
           "related_claims": [
             "C-3210"
           ],
@@ -445,13 +445,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-3154",
       "family_ref": "A-3154",
-      "bundle_name": "Harpole Sean Ryan Interview Bundle",
+      "bundle_name": "Harpole Shawn Ryan Interview Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-3154.1",
           "ref": "A-3154.1",
-          "description": "Host verbal reference to Harpole's Sean Ryan interview, from which she cites the phrase 'We're doing the medical' (not played)",
+          "description": "Host verbal reference to Harpole's Shawn Ryan interview, from which she cites the phrase 'We're doing the medical' (not played)",
           "related_claims": [
             "C-11711"
           ],
@@ -1249,9 +1249,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10681",
       "ref": "N-10681",
-      "name": "Sean Ryan Show Interview Clip Bundle",
+      "name": "Shawn Ryan Show Interview Clip Bundle",
       "type": "investigation_target",
-      "description": "Existing topic reused for the Sean Ryan interview claim.",
+      "description": "Existing topic reused for the Shawn Ryan interview claim.",
       "related_artifacts": [],
       "related_claims": [
         "C-11711"
@@ -1761,15 +1761,15 @@
       "@type": "Claim",
       "@id": "C-3209",
       "ref": "C-3209",
-      "label": "Frank Turk claims he \"yanked and banked\" while the group arrived at the hospital parking lot",
-      "claim": "In a Frank Turk interview clip, Turk uses the phrase \"yanking and banking\" to describe what the group was doing as they pulled into the hospital parking lot with Kirk.",
+      "label": "Frank Turek claims he \"yanked and banked\" while the group arrived at the hospital parking lot",
+      "claim": "In a Frank Turek interview clip, Turk uses the phrase \"yanking and banking\" to describe what the group was doing as they pulled into the hospital parking lot with Kirk.",
       "anchored_artifacts": [
         "A-2225.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:18",
-      "investigative_direction": "Obtain the full Frank Turk interview and clarify what \"yanking and banking\" refers to in context (procedure vs. colloquial expression).",
+      "investigative_direction": "Obtain the full Frank Turek interview and clarify what \"yanking and banking\" refers to in context (procedure vs. colloquial expression).",
       "mentions_person_refs": [
         "N-7"
       ]
@@ -2006,8 +2006,8 @@
       "@type": "Claim",
       "@id": "C-11711",
       "ref": "C-11711",
-      "label": "Host Says Harpole Said He Was Doing the Medical in Sean Ryan Interview",
-      "claim": "The host says that in the Sean Ryan interview Harpole said 'We're doing the medical', and argues from that interview that Harpole was not the one in charge.",
+      "label": "Host Says Harpole Said He Was Doing the Medical in Shawn Ryan Interview",
+      "claim": "The host says that in the Shawn Ryan interview Harpole said 'We're doing the medical', and argues from that interview that Harpole was not the one in charge.",
       "anchored_artifacts": [
         "A-3154.1"
       ],
@@ -2019,8 +2019,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:08:10",
-      "investigative_direction": "Pull the Sean Ryan interview and transcribe Harpole's exact words about the medical response.",
-      "transcript_snippet": "Even when he describes things in that Sean Ryan interview, he's like, \"We're doing the medical.",
+      "investigative_direction": "Pull the Shawn Ryan interview and transcribe Harpole's exact words about the medical response.",
+      "transcript_snippet": "Even when he describes things in that Shawn Ryan interview, he's like, \"We're doing the medical.",
       "mentions_person_refs": [
         "N-270",
         "N-3"
@@ -2030,8 +2030,8 @@
       "@type": "Claim",
       "@id": "C-11712",
       "ref": "C-11712",
-      "label": "Host Says Screwdriver Carries Lance Twigs's DNA Alongside Tyler Robinson's",
-      "claim": "The host says the screwdriver found on the rooftop has Lance Twigs's DNA alongside Tyler Robinson's DNA.",
+      "label": "Host Says Screwdriver Carries Lance Twiggs's DNA Alongside Tyler Robinson's",
+      "claim": "The host says the screwdriver found on the rooftop has Lance Twiggs's DNA alongside Tyler Robinson's DNA.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10679"
@@ -2041,7 +2041,7 @@
       ],
       "claim_timestamp": "00:09:23",
       "investigative_direction": "Review the FBI DNA report on the screwdriver (listed in sealed exhibits) for the contributor profiles.",
-      "transcript_snippet": "We do know it has Lance Twigs's DNA alongside Tyler Robinson's DNA.",
+      "transcript_snippet": "We do know it has Lance Twiggs's DNA alongside Tyler Robinson's DNA.",
       "mentions_person_refs": [
         "N-54",
         "N-40",
@@ -3027,7 +3027,7 @@
       ],
       "claim_timestamp": "00:49:13",
       "investigative_direction": "Use the hotel registration and booking records the host says she has; test them against Neff's statements.",
-      "transcript_snippet": "we did find out what hotel um TPUSA staff stayed into at Andrew Kovat and everybody else.",
+      "transcript_snippet": "we did find out what hotel um TPUSA staff stayed into at Andrew Kolvet and everybody else.",
       "confidence": "high",
       "mentions_person_refs": [
         "N-14",
@@ -3102,7 +3102,7 @@
           "episode": 136,
           "video_timestamp": "00:00:49",
           "speaker_node_ref": "N-3",
-          "quote": "Blake Nef, he's got pregnancy brain. Officer Baggley, he's got pregnancy brain.",
+          "quote": "Blake Neff, he's got pregnancy brain. Officer Baggley, he's got pregnancy brain.",
           "context": "Host applies pregnancy brain to forgetful figures in the case.",
           "confidence": "high",
           "tags": [

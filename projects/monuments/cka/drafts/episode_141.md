@@ -458,7 +458,7 @@ Named in the host's pledge to look after people who supported her.
 
 **N-162** Blake Neff
 
-Named (transcript spelling Blake Nef) as retweeting Wilson.
+Named (transcript spelling Blake Neff) as retweeting Wilson.
 
 *Related: C-6078*
 
@@ -1880,7 +1880,7 @@ Claim Timestamp: 01:11:21
 
 Claim: The host says Blake Neff and Andrew Kolvet retweeted Wilson as he went after her and offered more and more money.
 
-Transcript Snippet: Blake Nef and Andrew Kvette were retweeting him as he was going after me and offering more and more money.
+Transcript Snippet: Blake Neff and Andrew Kvette were retweeting him as he was going after me and offering more and more money.
 
 Anchored Artifacts: 
 Mentions: N-3, N-162, N-14, N-18
@@ -2290,10 +2290,10 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kulvette" / "Andrew Kovette" / "Andrew Kolvet" – same individual spelled three different ways in the transcript. Preserve as appears in each instance.
-- **Name uncertainty:** "Blake Nef" / "Blake Neff" – single individual with spelling variation in transcript.
+- **Name uncertainty:** "Andrew Kolvet" / "Andrew Kolvet" / "Andrew Kolvet" – same individual spelled three different ways in the transcript. Preserve as appears in each instance.
+- **Name uncertainty:** "Blake Neff" / "Blake Neff" – single individual with spelling variation in transcript.
 - **Name uncertainty:** "Michael Nolles" / "Michael Noles" – single individual with spelling variation in transcript.
-- **Possible transcription error:** "Breijit Mcronone" appears at 05:54 in the context of a "prosecution team"; likely a transcription error for a real named individual. Flag for human verification.
+- **Possible transcription error:** "Brigitte Macron" appears at 05:54 in the context of a "prosecution team"; likely a transcription error for a real named individual. Flag for human verification.
 - **Transcript ambiguity:** "Tyler Robinson dispense defense" at 00:42:35 – likely intended as "defense" or "dispensability"; flag for human verification.
 - **Narrative claims not artifact-backed:** The pre-debate negotiation narrative (Andrew Wilson demanding public X negotiation; Joe Rogan hosting offer; "Crucible team" anonymous emails; 90-minute deposition demand; contract signed Thursday; Steven Crowder-affiliated team members arriving without prior identification) is narrated in detail by the host but no email screenshots, contract pages, or other documentary artifacts are displayed in this episode. These claims fail the Artifact Anchor Test and were not inscribed in the Claim Register.
 - **Artifact verbally referenced but not shown:** The "Tyler Robinson dismissal filing" referenced at 00:42:35 is described as containing compelling arguments but the filing itself is not displayed in this episode.

@@ -1168,7 +1168,7 @@
       "ref": "N-457",
       "name": "Paul Havsgaard",
       "type": "person",
-      "description": "Named as a former megachurch pastor accused of trafficking children from Romania (transcribed Paul Havsgard).",
+      "description": "Named as a former megachurch pastor accused of trafficking children from Romania (transcribed Paul Havsgaard).",
       "related_artifacts": [],
       "related_claims": [
         "C-7944"
@@ -2813,8 +2813,8 @@
       "@type": "Claim",
       "@id": "C-7944",
       "ref": "C-7944",
-      "label": "Host Names Paul Havsgard as a Former Megachurch Pastor Accused of Trafficking Children from Romania",
-      "claim": "The host says a former California megachurch pastor, Paul Havsgard, was accused of trafficking children from Romania, and calls his missionary background an element worth noting.",
+      "label": "Host Names Paul Havsgaard as a Former Megachurch Pastor Accused of Trafficking Children from Romania",
+      "claim": "The host says a former California megachurch pastor, Paul Havsgaard, was accused of trafficking children from Romania, and calls his missionary background an element worth noting.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10401"
@@ -2823,7 +2823,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:27:04",
-      "investigative_direction": "Retrieve court filings or press reporting on the allegations against Havsgard and check the host's account.",
+      "investigative_direction": "Retrieve court filings or press reporting on the allegations against Havsgaard and check the host's account.",
       "transcript_snippet": "there's been another megachurch pastor that was accused of trafficking children. Okay, of trafficking children from Romania.",
       "supports_claim_refs": [
         "C-7943"

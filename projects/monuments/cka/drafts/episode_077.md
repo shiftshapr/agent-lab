@@ -85,7 +85,7 @@ Confidence Level: High
 
 **A-1824** Erika Kirk Real Estate Bio Bundle
 
-**A-1824.1** Real Estate Agent Bio: Erika Fronsve / Frantzve (displayed full text)
+**A-1824.1** Real Estate Agent Bio: Erika Frantzve / Frantzve (displayed full text)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -1941,7 +1941,7 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty:** Episode uses "Erika Kirk" consistently; existing series node is "Erica Kirk" (N-2). Preserved as N-2 with episode spelling noted.
-- **Name uncertainty:** Real-estate bio and various references use "Erika Fronsve" / "Erika Franve" / "Erika Franceway"; standard spelling appears to be "Erika Frantzve." Preserved exactly as transcribed in A-1824.1 and A-1825.1.
+- **Name uncertainty:** Real-estate bio and various references use "Erika Frantzve" / "Erika Franve" / "Erika Franceway"; standard spelling appears to be "Erika Frantzve." Preserved exactly as transcribed in A-1824.1 and A-1825.1.
 - **Name uncertainty:** Transcript shows "Fran Rothschild" and "Francis Rothschild" referring to Wilhelmina Models co-founder; preserved as appearing.
 - **Possible transcription error:** "Ty Bowyer," "Tyler Borier," "Tyler Bowyer" – standard spelling used in node references.
 - **Artifact verbally referenced but not shown:** A-1822.1, A-1831.1, A-1833.1, A-1834.1 – host references or quotes content without visible on-screen display in the cleaned transcript; treated as artifacts because host reads or directly describes their content.

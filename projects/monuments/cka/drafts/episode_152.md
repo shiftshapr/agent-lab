@@ -257,7 +257,7 @@ Confidence Level: Medium
 
 ---
 
-**A-3086.3** Viewer comment read aloud about Erika's media tour with Fox, Barry Weiss and Glenn Beck
+**A-3086.3** Viewer comment read aloud about Erika's media tour with Fox, Bari Weiss and Glenn Beck
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:57:30
@@ -584,7 +584,7 @@ Friend of the host in the Iceland call account (transcribed Mappen).
 
 **N-162** Blake Neff
 
-TPUSA staffer riding in the Denali (transcribed Blake Nef).
+TPUSA staffer riding in the Denali (transcribed Blake Neff).
 
 *Related: C-10535*
 
@@ -656,7 +656,7 @@ Cited as an example of lobby pressure and touring.
 
 **N-282** Bari Weiss
 
-Interviewer on Erika's media tour (transcribed Barry Weiss).
+Interviewer on Erika's media tour (transcribed Bari Weiss).
 
 *Related: C-10583*
 
@@ -704,7 +704,7 @@ Evangelist whose charity the host links to trafficking work.
 
 **N-37** Bill Ackman
 
-Financier whose money's origin Carlson asked about (transcribed Bill Aman).
+Financier whose money's origin Carlson asked about (transcribed Bill Ackman).
 
 *Related: C-10544*
 
@@ -760,7 +760,7 @@ Temple of Set founder named by the host (transcribed Michael Aino).
 
 **N-456** Greg Laurie
 
-Pastor the host says headlined the first post-Charlie tour paperwork (transcribed Greg Lori).
+Pastor the host says headlined the first post-Charlie tour paperwork (transcribed Greg Laurie).
 
 *Related: C-10503, C-10504*
 
@@ -1357,9 +1357,9 @@ Investigative Direction: Identify the person under the correct spelling and pull
 
 Claim Timestamp: 00:03:34
 
-Claim: The host says that immediately after Charlie died, Erika had Pastor Greg Laurie (transcribed Greg Lori) on the headlining paperwork for the first tour, the Make Heaven Crowded tour.
+Claim: The host says that immediately after Charlie died, Erika had Pastor Greg Laurie (transcribed Greg Laurie) on the headlining paperwork for the first tour, the Make Heaven Crowded tour.
 
-Transcript Snippet: Pastor Greg Lori immediately after Charlie passed, the first tour that they did, Make Heaven Crowded tour kind of sounds like a threat, but Erika had him on on the headlining paperwork, right?
+Transcript Snippet: Pastor Greg Laurie immediately after Charlie passed, the first tour that they did, Make Heaven Crowded tour kind of sounds like a threat, but Erika had him on on the headlining paperwork, right?
 
 Anchored Artifacts: A-2382.1
 Mentions: N-456, N-2
@@ -1862,7 +1862,7 @@ Claim Timestamp: 00:19:29
 
 Claim: The host says McCoy and the ICAC officer stood behind the SUV that Blake Neff was being driven in by Danny Phillip, which she says makes her think someone else was in the front seat before.
 
-Transcript Snippet: they're standing behind the SUV that uh Blake Nef and being Uber driven by Danny Phillip.
+Transcript Snippet: they're standing behind the SUV that uh Blake Neff and being Uber driven by Danny Phillip.
 
 Anchored Artifacts: A-2377.1
 Mentions: N-194, N-162, N-372
@@ -2010,7 +2010,7 @@ Claim Timestamp: 00:24:09
 
 Claim: The host says Tucker Carlson was speaking on stage about Jeffrey Epstein and asking where Bill Ackman's money came from.
 
-Transcript Snippet: Um he was speaking about Jeffrey Epste. He was asking where Bill Aman's money came from.
+Transcript Snippet: Um he was speaking about Jeffrey Epste. He was asking where Bill Ackman's money came from.
 
 Anchored Artifacts: 
 Mentions: N-22, N-9, N-37
@@ -2608,7 +2608,7 @@ Investigative Direction: Find the Stephen A. Smith episode and its release date.
 
 Claim Timestamp: 00:57:30
 
-Claim: The host agrees with a comment that Erika went on a media tour with Fox, Barry Weiss and Glenn Beck to paint her as a liar, saying the tour was about debunking her and directly responded to things she had said on the podcast, not things she said about Erika.
+Claim: The host agrees with a comment that Erika went on a media tour with Fox, Bari Weiss and Glenn Beck to paint her as a liar, saying the tour was about debunking her and directly responded to things she had said on the podcast, not things she said about Erika.
 
 Transcript Snippet: The entire tour was about debunking Candace. She had first sent out the troops, the Alex Clark types
 

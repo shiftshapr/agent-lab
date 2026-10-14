@@ -82,7 +82,7 @@ Same reason, explosive residue. Why there appears to be shattered black plastic 
 
 [08:29]
 
-Um it would also explain why Tara Farnsworth violated the crime scene immediately, quite boldly, to remove the SD card from that back footage, because it would have captured that.30-ought-six, which would have decapitated Charlie, did not go through. Um also, it would explain why there was unusually no ambulance on standby. I always had an ambulance on standby at my Turning Point USA events when I toured. This is an anomaly. It would answer to that would be because, well, the paramedics would have seen the shattered road mic pieces and all of the other evidence which did not support a gunshot wound. Um that would be the reason why you would just have his security team transport him under this theory. Again, we're thinking while it's still legal to do so.
+Um it would also explain why Terrell Farnsworth violated the crime scene immediately, quite boldly, to remove the SD card from that back footage, because it would have captured that.30-ought-six, which would have decapitated Charlie, did not go through. Um also, it would explain why there was unusually no ambulance on standby. I always had an ambulance on standby at my Turning Point USA events when I toured. This is an anomaly. It would answer to that would be because, well, the paramedics would have seen the shattered road mic pieces and all of the other evidence which did not support a gunshot wound. Um that would be the reason why you would just have his security team transport him under this theory. Again, we're thinking while it's still legal to do so.
 
 [09:19]
 

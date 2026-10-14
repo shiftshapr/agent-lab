@@ -1,0 +1,10 @@
+# Coverage notes, episode 145
+
+- Existing draft claims: 19 (C-3326 to C-3344). Beats judged already covered: 17 (Mappin article, Baldoni encounter and layover, NCRI report content, Kairos link, first-day timing, Pounds thread, Kolvet post, Ackman promotion, SGE post, press credentials, Neff post, Rogers confirmation, Rogers leak, tour lineup, CCRD filing and birthing video, coordinated-operation thesis). New claims added: 66.
+- Missed beat 1: 00:36:39 host says Charlie texted multiple people on September 9 that he wanted her back and "I know for a fact it's true" (the earlier pass logged it only as a failed-admission flag).
+- Missed beat 2: 00:36:39 host promises explosive reveals all week showing TPUSA has explaining to do and says everybody's alibis are in and cannot be changed.
+- Missed beat 3: 00:33:25 host concludes TPUSA is working with the State Department, with the Rogers-Neff friendship and the Pounds paranoia about being set up (00:32:35).
+- Missed beat 4: 00:08:27 host places Erika's first sighting of Charlie and Charlie's dreams about his death in the same May 2018 weeks as the London event.
+- Missed beat 5: 00:46:15 host says Charlie came to see "those people" differently after October 7, and 00:44:50 / 00:45:12 tip and State Department whistleblower solicitations (DIA beats).
+- Rejected as not checkable or purely rhetorical: 00:00:45 insinuation that the administration "killed" Charlie (sarcasm); 00:29:21 mock assertion that Pounds resembles the UVU figure; 00:35:45 the question where Pounds was on September 10; 00:39:06 remarks on Erika Kirk's EQ and "dementor"; 00:43:43 Erika has "already lost"; 00:51:08 quip that Pete Hegseth's office is "anti-Candacist"; Matt Nuclear chatbot remarks; viewer comments and the Dam Yujin and True Detective comments.
+- DIA scan: hits at 00:44:50 and 00:45:12 (claims plus M-12 occurrences). "candaceowens. com" at 00:50:19 is merch, not a DIA beat. Sponsor URLs (preborn. com/candace, tnusa. com/candace, firsthour. com) are not DIA beats.

@@ -381,7 +381,7 @@ Tyler Robinson, the accused; the host's Pangitch restaurant and Dairy Queen time
 
 **N-50** Sigmund Freud
 
-Sigmund Freud; subject of the book the host's book club is finishing (rendered 'Sigman Freud').
+Sigmund Freud; subject of the book the host's book club is finishing (rendered 'Sigmund Freud').
 
 *Related: C-6900*
 
@@ -1483,7 +1483,7 @@ Claim Timestamp: 00:15:25
 
 Claim: The host says Andrew Kolvet lied about the 'Superman neck' and that the quotation never came from Dr. Lee Trotter but allegedly came from Erika Kirk in a moment of upset.
 
-Transcript Snippet: We broke the story that Andrew Kovette lied about the Superman neck. That quotation never came from Dr. Lee Trotter at all.
+Transcript Snippet: We broke the story that Andrew Kolvet lied about the Superman neck. That quotation never came from Dr. Lee Trotter at all.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-199, N-2
@@ -1500,7 +1500,7 @@ Claim Timestamp: 00:15:35
 
 Claim: The host says she broke the story that Charlie Kirk texted Dan Flood and Andrew Kolvet the night before saying he was afraid they were going to kill him.
 
-Transcript Snippet: We broke the story that Charlie texted Dan Flood and Andrew Kovette the night before saying that he was afraid that they were going to kill him.
+Transcript Snippet: We broke the story that Charlie texted Dan Flood and Andrew Kolvet the night before saying that he was afraid that they were going to kill him.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-274, N-14
@@ -1551,7 +1551,7 @@ Claim Timestamp: 00:16:10
 
 Claim: The host says she confirmed the Netanyahu offer separately from Andrew Kolvet, with someone who had no communication with Kolvet, and so tends to believe the offer came through.
 
-Transcript Snippet: I confirmed that separately from Andrew Kovette with someone that did not have communication with Andrew Kovette.
+Transcript Snippet: I confirmed that separately from Andrew Kolvet with someone that did not have communication with Andrew Kolvet.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-36
@@ -2641,7 +2641,7 @@ Claim Timestamp: 00:55:00
 
 Claim: The host says the defendants have to collectively pay Brigitte Macron what she calls moral damages of around $12,000.
 
-Transcript Snippet: And they have to collectively pay Rajit Mcronone what's known as moral damages around $12,000.
+Transcript Snippet: And they have to collectively pay Rajit Macron what's known as moral damages around $12,000.
 
 Anchored Artifacts: A-2841.1
 Mentions: N-3, N-82
@@ -2719,9 +2719,9 @@ Investigative Direction: Check whether a Coleman conversation is later published
 
 Claim Timestamp: 01:01:30
 
-Claim: The host says that instead of an episode on Friday she will hold a two-hour book club finishing the book Sigman Freud and the Jewish mystical tradition.
+Claim: The host says that instead of an episode on Friday she will hold a two-hour book club finishing the book Sigmund Freud and the Jewish mystical tradition.
 
-Transcript Snippet: So instead, we will be doing our book club on Friday for 2 hours as we finish the book Sigman Freud and the Jewish mystical tradition.
+Transcript Snippet: So instead, we will be doing our book club on Friday for 2 hours as we finish the book Sigmund Freud and the Jewish mystical tradition.
 
 Anchored Artifacts: 
 Mentions: N-3, N-50

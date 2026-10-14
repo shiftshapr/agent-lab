@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: f464e8e712994efb56bee93a7c7a23da86a3df5028517114a2bdb3d80e5688a8
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-804, N-805, N-806, N-11158
-  - Hole-minted Nodes (reintro-ep029): N-229, N-457, N-10251, N-10401, N-10434, N-10436, N-10447, N-10573, N-10576, N-10887
+  - Tip-minted Nodes (supplement_2026-10c): N-804, N-805, N-806
+  - Hole-minted Nodes (reintro-ep029): N-229, N-457, N-10251, N-10401, N-10434, N-10573, N-10576, N-10887
   - Tip-minted Nodes (reintro-ep029): N-11064, N-11147
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-7911–C-7977
-  - New Nodes Introduced: N-240, N-241, N-242, N-243, N-244, N-245, N-246, N-247, N-248, N-249, N-10239, N-10240, N-10241, N-10242
-  - Reused Nodes Appearing: N-5, N-17, N-40, N-46, N-66, N-82, N-97, N-99, N-209, N-233, N-238, N-10000, N-10024, N-10063, N-10078, N-10110, N-10132, N-10149, N-10196, N-10209, N-10210, N-10224, N-10231, N-10237, N-10253, N-10319, N-10398, N-10406, N-10840, N-11099, N-11159, N-11171
+  - New Nodes Introduced: N-240, N-242, N-243, N-244, N-245, N-246, N-247, N-248, N-249, N-10239, N-10240, N-10241
+  - Reused Nodes Appearing: N-5, N-17, N-40, N-46, N-66, N-82, N-97, N-99, N-209, N-233, N-238, N-10000, N-10024, N-10063, N-10078, N-10110, N-10132, N-10149, N-10196, N-10209, N-10210, N-10224, N-10231, N-10237, N-10253, N-10319, N-10398, N-10406, N-10840, N-11099, N-11159, N-11171, N-241, N-10242, N-10436, N-10447, N-11158
   - (see registers)
 
 # Episode 29 Analysis – Bride of Charlie / Monument Ep 29
@@ -400,7 +400,7 @@ CNN interviewer, transcribed L Reeves.
 
 **N-457** Paul Havsgaard
 
-Named as a former megachurch pastor accused of trafficking children from Romania (transcribed Paul Havsgard).
+Named as a former megachurch pastor accused of trafficking children from Romania (transcribed Paul Havsgaard).
 
 *Related: C-7944*
 
@@ -1612,11 +1612,11 @@ Investigative Direction: Locate the host's X post from the weekend of November 8
 
 ---
 
-**C-7944** Host Names Paul Havsgard as a Former Megachurch Pastor Accused of Trafficking Children from Romania
+**C-7944** Host Names Paul Havsgaard as a Former Megachurch Pastor Accused of Trafficking Children from Romania
 
 Claim Timestamp: 00:27:04
 
-Claim: The host says a former California megachurch pastor, Paul Havsgard, was accused of trafficking children from Romania, and calls his missionary background an element worth noting.
+Claim: The host says a former California megachurch pastor, Paul Havsgaard, was accused of trafficking children from Romania, and calls his missionary background an element worth noting.
 
 Transcript Snippet: there's been another megachurch pastor that was accused of trafficking children. Okay, of trafficking children from Romania.
 
@@ -1625,7 +1625,7 @@ Mentions: N-457
 Related Nodes: N-10401
 Supports: C-7943
 Tags: relevance:context
-Investigative Direction: Retrieve court filings or press reporting on the allegations against Havsgard and check the host's account.
+Investigative Direction: Retrieve court filings or press reporting on the allegations against Havsgaard and check the host's account.
 
 ---
 

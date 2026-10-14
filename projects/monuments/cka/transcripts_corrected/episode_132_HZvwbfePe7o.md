@@ -228,7 +228,7 @@ If you're caught lying about it, then we all wonder, "Well, why is why is it sec
 
 [39:33]
 
-Regarding the text messages that I released, which were asked of me by Andrew Kolb to release, uh the top comment from our episode last Thursday was from Gumptown. He wrote, "Hearing Candace read these text messages today hit different. Not only did it reaffirm everything we had suspected since day one, but it made me realize Candace and Charlie were and how much it must suck to be the only one searching for truth and being chastised every step of the way. I can't imagine." Yeah, it's been a difficult journey, but I'm I'm Now I'm good. Like I I really meant it when I said to you last week, "I feel like Charlie's fighting with me." And before, I was just trying to survive because it was so much to contend with, and it was designed that way. It was meant to be a psychological attack on me. It that's what they do.
+Regarding the text messages that I released, which were asked of me by Andrew Kolvet to release, uh the top comment from our episode last Thursday was from Gumptown. He wrote, "Hearing Candace read these text messages today hit different. Not only did it reaffirm everything we had suspected since day one, but it made me realize Candace and Charlie were and how much it must suck to be the only one searching for truth and being chastised every step of the way. I can't imagine." Yeah, it's been a difficult journey, but I'm I'm Now I'm good. Like I I really meant it when I said to you last week, "I feel like Charlie's fighting with me." And before, I was just trying to survive because it was so much to contend with, and it was designed that way. It was meant to be a psychological attack on me. It that's what they do.
 
 [40:16]
 

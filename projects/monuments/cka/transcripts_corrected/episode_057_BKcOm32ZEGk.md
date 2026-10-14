@@ -116,7 +116,7 @@ And for the first time in his life, Charlie peaks his head up and starts to push
 
 [23:30]
 
-So it seems to me that right now we're in the midst of this. They keep doing these things that only catalyze what they're trying to stop, what they're trying to prevent. For example, even uh unrelatedly, but the Breijit Daniel Mcronone, they filed a lawsuit. We have so much power. What are we going to do to stop this thing she's getting into the story is getting to the heart of evil [clears throat] and how the world is run to figure out that Breijit is born a man. What are we going to do? We're going to file a lawsuit. The lawsuit filing was a mistake. Obviously, it was globally consequential, right? They wanted to stop it and yet they spread it. Catastrophic to their aims. The more pressure they exert toward control, the more they spin out of it.
+So it seems to me that right now we're in the midst of this. They keep doing these things that only catalyze what they're trying to stop, what they're trying to prevent. For example, even uh unrelatedly, but the Brigitte Daniel Macron, they filed a lawsuit. We have so much power. What are we going to do to stop this thing she's getting into the story is getting to the heart of evil [clears throat] and how the world is run to figure out that Brigitte is born a man. What are we going to do? We're going to file a lawsuit. The lawsuit filing was a mistake. Obviously, it was globally consequential, right? They wanted to stop it and yet they spread it. Catastrophic to their aims. The more pressure they exert toward control, the more they spin out of it.
 
 [24:10]
 
@@ -124,7 +124,7 @@ Another example, lock them down at home. Make them wear a mask, right? Create CO
 
 [25:12]
 
-It's like they know we're barreling toward some foregone conclusion and they have spent decades uh trying to stop that, trying to prevent that. And when I think about what it is, right, I just consider their general obsessions and their general triggers. They are positively obsessed with the antichrist. Maybe like people like Peter Teal, he's like going around giving interviews asking about the Antichrist. That's kind of the entire drift, by the way, of the AI world. When I say, "Look at these people. I don't like their eyes. Something disturbs me. They mock that. Take me out of clip. Oh my gosh. I don't care. I have spiritual discernment. Something about the entire AI movement feels wrong." Uh, and come on, what am I wrong? Am I wrong?
+It's like they know we're barreling toward some foregone conclusion and they have spent decades uh trying to stop that, trying to prevent that. And when I think about what it is, right, I just consider their general obsessions and their general triggers. They are positively obsessed with the antichrist. Maybe like people like Peter Thiel, he's like going around giving interviews asking about the Antichrist. That's kind of the entire drift, by the way, of the AI world. When I say, "Look at these people. I don't like their eyes. Something disturbs me. They mock that. Take me out of clip. Oh my gosh. I don't care. I have spiritual discernment. Something about the entire AI movement feels wrong." Uh, and come on, what am I wrong? Am I wrong?
 
 [26:01]
 
@@ -140,7 +140,7 @@ But why? Why this push? Well, I think the obvious answer is because they are cer
 
 [28:28]
 
-Huh? What that should signal to you is that their power relies on us being distracted on us focused being focused on carnal desires, right? Entirely living of the flesh. Uh, like Tim Dylan said, the amenities, the amenities, the pool, the new restaurant. Oh, look, there's a new celebrity over here. Yeah. So, the the threat is us being aware that spiritual evil exists. That's that's what they're afraid of. It's why they insist on this constant stream of pornography, filthy music, all of it. Because if if it is true, as it's been reported by various whistleblowers, that the that our thoughts could impact future events, then what would happen if we we all started focusing on goodness, eternal goodness, God? Yeah, I think that's the very reason that all of these demons seem to be thrashing right now.
+Huh? What that should signal to you is that their power relies on us being distracted on us focused being focused on carnal desires, right? Entirely living of the flesh. Uh, like Tim Dillon said, the amenities, the amenities, the pool, the new restaurant. Oh, look, there's a new celebrity over here. Yeah. So, the the threat is us being aware that spiritual evil exists. That's that's what they're afraid of. It's why they insist on this constant stream of pornography, filthy music, all of it. Because if if it is true, as it's been reported by various whistleblowers, that the that our thoughts could impact future events, then what would happen if we we all started focusing on goodness, eternal goodness, God? Yeah, I think that's the very reason that all of these demons seem to be thrashing right now.
 
 [29:21]
 

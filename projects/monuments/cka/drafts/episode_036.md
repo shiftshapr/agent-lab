@@ -27,7 +27,7 @@
 
 Video Timestamp: 00:23:51
 Speaker: N-3
-Quote: hat nobody was pursuing uh was running and that was us discussing the MK Ultra program and Breijit Mcronone strangely and Emanuel mentioning MK Ult...
+Quote: hat nobody was pursuing uh was running and that was us discussing the MK Ultra program and Brigitte Macron strangely and Emanuel mentioning MK Ult...
 Context: Later reuse of MK Ultra in CKA seq 36.
 Tags: psyop, history, analogy, reuse
 Confidence: high
@@ -111,7 +111,7 @@ Confidence: high
 
 ## 2. Executive Summary
 
-Episode 36 combines (a) host's reconstruction of a multi-month timeline linking the Macron investigation to events surrounding the Charlie Kirk assassination, much of which is host narration referencing prior-episode material, with (b) four distinct artifact-anchored evidentiary segments presented in this episode. The artifact-anchored material consists of: (1) a displayed text exchange between host and Charlie Kirk from February 24–25, 2025 documenting White House and POTUS-side contact regarding the Macron topic; (2) a displayed internal legal-team communication from July 27, 2025 analyzing Delaware jurisdictional defects in the Macron lawsuit; (3) an audio/video clip from Brian Harpole's appearance on the Shawn Ryan show in which he read aloud text messages between Dan Flood and UVU Police Chief Jeff Long about student roof access, presented in a manner the host asserts was misrepresentative; and (4) a KUTV investigative report documenting that Washington County Sheriff's office states Tyler Robinson surveillance footage is no longer available, citing a 30-day retention period. A Tucker Carlson speech clip from the July 18 Turning Point event is also played. The episode does not present new primary artifacts supporting the bulk of the host's broader timeline claims about the Satis hanger, the Egyptian plane schedule, the foreign-dignitary transfer, the MK Ultra / Stanford line of investigation, or the phone calls with Andrew Kovette and the unnamed CIA-contractor spouse; these are preserved as host assertions and excluded from the Claim Register per the admission test.
+Episode 36 combines (a) host's reconstruction of a multi-month timeline linking the Macron investigation to events surrounding the Charlie Kirk assassination, much of which is host narration referencing prior-episode material, with (b) four distinct artifact-anchored evidentiary segments presented in this episode. The artifact-anchored material consists of: (1) a displayed text exchange between host and Charlie Kirk from February 24–25, 2025 documenting White House and POTUS-side contact regarding the Macron topic; (2) a displayed internal legal-team communication from July 27, 2025 analyzing Delaware jurisdictional defects in the Macron lawsuit; (3) an audio/video clip from Brian Harpole's appearance on the Shawn Ryan show in which he read aloud text messages between Dan Flood and UVU Police Chief Jeff Long about student roof access, presented in a manner the host asserts was misrepresentative; and (4) a KUTV investigative report documenting that Washington County Sheriff's office states Tyler Robinson surveillance footage is no longer available, citing a 30-day retention period. A Tucker Carlson speech clip from the July 18 Turning Point event is also played. The episode does not present new primary artifacts supporting the bulk of the host's broader timeline claims about the Satis hanger, the Egyptian plane schedule, the foreign-dignitary transfer, the MK Ultra / Stanford line of investigation, or the phone calls with Andrew Kolvet and the unnamed CIA-contractor spouse; these are preserved as host assertions and excluded from the Claim Register per the admission test.
 
 ---
 
@@ -218,7 +218,7 @@ Confidence Level: Medium
 
 **A-2724.1** On-screen December 3 cease and desist email text sent to the Club Candace info inbox on behalf of the Macrons
 
-Quoted text: "please see attached the time-sensitive legal correspondence sent on behalf of our clients President Emanuel Mcronone and Bjit Mcronone."
+Quoted text: "please see attached the time-sensitive legal correspondence sent on behalf of our clients President Emmanuel Macron and Bjit Macron."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:08:14
@@ -1039,7 +1039,7 @@ Claim Timestamp: 00:00:50
 
 Claim: The host says it was Charlie Kirk who called her and told her that 'they' wanted her to stop speaking about the Brigitte Macron story, and that the open question is who 'they' is.
 
-Transcript Snippet: it was Charlie Kirk that called me and told me that they wanted me to stop speaking about Breijgit.
+Transcript Snippet: it was Charlie Kirk that called me and told me that they wanted me to stop speaking about Brigitte.
 
 Anchored Artifacts: 
 Mentions: N-1, N-3, N-82
@@ -1146,7 +1146,7 @@ Claim Timestamp: 00:06:40
 
 Claim: The host says she aired her first episode on Brigitte Macron on March 13, 2024, and that she was fired within days.
 
-Transcript Snippet: It was on March 13th, 2024 that I did the very first ever episode on Breijit Mcronone, right? And then wham, I am fired within 10 days.
+Transcript Snippet: It was on March 13th, 2024 that I did the very first ever episode on Brigitte Macron, right? And then wham, I am fired within 10 days.
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
@@ -1161,7 +1161,7 @@ Claim Timestamp: 00:06:40
 
 Claim: The host says her life took a different turn because she began prodding the narrative on Israel at the same time, in March 2024, that she began looking into the Brigitte Macron story.
 
-Transcript Snippet: I began proddding the narrative on Israel at the exact same time that I began looking into the Breijit Mcron story. That was in March of 2024.
+Transcript Snippet: I began proddding the narrative on Israel at the exact same time that I began looking into the Brigitte Mcron story. That was in March of 2024.
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
@@ -1222,7 +1222,7 @@ Claim Timestamp: 00:08:14
 
 Claim: The host says she received the first cease and desist letter from Brigitte Macron's lawyers on December 3, 2024, sent to a random Club Candace info inbox that was not monitored, so she did not see it at the time.
 
-Transcript Snippet: Suddenly on December 3rd before I interview him, I receive the first ever cease and desist letter from Breijit Mcronone and her lawyers.
+Transcript Snippet: Suddenly on December 3rd before I interview him, I receive the first ever cease and desist letter from Brigitte Macron and her lawyers.
 
 Anchored Artifacts: A-2724.1
 Mentions: N-3, N-82, N-383, N-287
@@ -1237,7 +1237,7 @@ Claim Timestamp: 00:08:14
 
 Claim: The host says Xavier Poussard wrote the Becoming Brigitte book, has never been sued for defamation, and had never been on camera before she planned to interview him.
 
-Transcript Snippet: Xavier Bousard is a person who wrote the becoming Breijit book. Uh he has never been sued for defamation
+Transcript Snippet: Xavier Bousard is a person who wrote the becoming Brigitte book. Uh he has never been sued for defamation
 
 Anchored Artifacts: 
 Mentions: N-287, N-3
@@ -1268,7 +1268,7 @@ Claim Timestamp: 00:09:25
 
 Claim: The host says she has confirmed that the CEO of the French company knows Emmanuel Macron and decided to sign a two-year lease on an airport hangar to paint planes.
 
-Transcript Snippet: the CEO who knows Emanuel Mcronone, we've confirmed that, decides they're going to sign a two-year lease for an airport hanger to do what?
+Transcript Snippet: the CEO who knows Emmanuel Macron, we've confirmed that, decides they're going to sign a two-year lease for an airport hanger to do what?
 
 Anchored Artifacts: 
 Mentions: N-383
@@ -1358,7 +1358,7 @@ Claim Timestamp: 00:11:24
 
 Claim: The host says Charlie Kirk told her that the White House request that she stop speaking about Brigitte Macron was related to the peace deal in Ukraine, and that this was ostensibly the reason.
 
-Transcript Snippet: Charlie Kirk reaches out and he tells me that the White House is asking me to stop speaking about Breijit. And he tells me that it is related to the peace deal in Ukraine.
+Transcript Snippet: Charlie Kirk reaches out and he tells me that the White House is asking me to stop speaking about Brigitte. And he tells me that it is related to the peace deal in Ukraine.
 
 Anchored Artifacts: A-1445.1
 Mentions: N-1, N-3
@@ -1374,7 +1374,7 @@ Claim Timestamp: 00:11:24
 
 Claim: The host says February 24, 2025, the day Charlie Kirk relayed the White House request, was the day Donald Trump met with Emmanuel Macron.
 
-Transcript Snippet: This is the day that Donald Trump meets with Emanuel Mcronone.
+Transcript Snippet: This is the day that Donald Trump meets with Emmanuel Macron.
 
 Anchored Artifacts: A-1445.1
 Mentions: N-5, N-383, N-1
@@ -1404,7 +1404,7 @@ Claim Timestamp: 00:12:20
 
 Claim: The host says that on February 26, 2025, President Trump called her and asked her to stop speaking about Brigitte Macron, and that Charlie Kirk was in the middle of the communications.
 
-Transcript Snippet: February 26th, President Trump calls me and asks me to stop speaking about Breijit. Now, Charlie's in the middle of this.
+Transcript Snippet: February 26th, President Trump calls me and asks me to stop speaking about Brigitte. Now, Charlie's in the middle of this.
 
 Anchored Artifacts: A-1445.1
 Mentions: N-5, N-1, N-3
@@ -1435,7 +1435,7 @@ Claim Timestamp: 00:13:25
 
 Claim: The host says the Macron side sent another legal threat on July 1, 2025.
 
-Transcript Snippet: on July 1st, Mcronone sends another legal threat
+Transcript Snippet: on July 1st, Macron sends another legal threat
 
 Anchored Artifacts: 
 Mentions: N-383, N-3
@@ -1510,7 +1510,7 @@ Claim Timestamp: 00:17:47
 
 Claim: The host says the period of the plane's stay is when Emmanuel and Brigitte Macron told the Financial Times they were suing her in a Delaware court, and says she is not claiming the Macrons were on the plane.
 
-Transcript Snippet: the period that Bregie and Emanuel Mcronone released to the Financial Times that they are suing me in a Delaware court.
+Transcript Snippet: the period that Bregie and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court.
 
 Anchored Artifacts: 
 Mentions: N-383, N-82, N-3
@@ -1540,7 +1540,7 @@ Claim Timestamp: 00:19:46
 
 Claim: The host says Tucker Carlson has watched the series and believes Brigitte Macron was born male, and that this part of the episode went viral.
 
-Transcript Snippet: He believes that Bel Breijgit McRone was born a man or born a male rather.
+Transcript Snippet: He believes that Bel Brigitte McRone was born a man or born a male rather.
 
 Anchored Artifacts: 
 Mentions: N-22, N-82
@@ -1570,7 +1570,7 @@ Claim Timestamp: 00:19:46
 
 Claim: The host says the Hamptons retreat took place August 5 to 6, that Charlie Kirk himself described it as an intervention, and that Bill Ackman and Seth Dillon dispute that account.
 
-Transcript Snippet: That's the notorious Hampton's retreat uh that took place. Charlie himself described it as an intervention and Bill Aman disputes that narrative.
+Transcript Snippet: That's the notorious Hampton's retreat uh that took place. Charlie himself described it as an intervention and Bill Ackman disputes that narrative.
 
 Anchored Artifacts: 
 Mentions: N-1, N-37, N-38
@@ -1632,7 +1632,7 @@ Claim Timestamp: 00:20:40
 
 Claim: The host says Brigitte Macron greeted President Zelensky (spelled Zilinski in the transcript) in Paris on September 3, 2025, the day 35 state leaders met to discuss Ukraine's security.
 
-Transcript Snippet: Breijit Mcronone welcomes President Zalinski into Paris on September 3rd because there is this remarkable and I would assume rare, I don't know, but 35 state leaders meet to discuss Ukraine
+Transcript Snippet: Brigitte Macron welcomes President Zalinski into Paris on September 3rd because there is this remarkable and I would assume rare, I don't know, but 35 state leaders meet to discuss Ukraine
 
 Anchored Artifacts: 
 Mentions: N-82, N-717
@@ -1708,7 +1708,7 @@ Claim Timestamp: 00:22:16
 
 Claim: The host says her team was trying to determine whether Brigitte Macron could have been involved in the Stanford experiment, and that a prisoner 2093 was being protected for reasons they did not know.
 
-Transcript Snippet: whether or not it could have been Breijit Mcronone that was involved in that Stanford experiment. This prisoner 2093 that was being protected.
+Transcript Snippet: whether or not it could have been Brigitte Macron that was involved in that Stanford experiment. This prisoner 2093 that was being protected.
 
 Anchored Artifacts: 
 Mentions: N-82
@@ -1753,7 +1753,7 @@ Claim Timestamp: 00:24:39
 
 Claim: The host says she and Poussard thought they had perhaps identified Brigitte Macron at Stanford University, a possibility she puts at maybe 50-50, before the assassination threw them off the investigation.
 
-Transcript Snippet: we thought that we had perhaps identified Breijgit Mcronone at Stanford University. A possibility is what I would say. We were maybe at a 50-50%
+Transcript Snippet: we thought that we had perhaps identified Brigitte Macron at Stanford University. A possibility is what I would say. We were maybe at a 50-50%
 
 Anchored Artifacts: 
 Mentions: N-82, N-287, N-3

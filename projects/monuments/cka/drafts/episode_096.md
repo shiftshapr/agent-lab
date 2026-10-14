@@ -15,7 +15,7 @@
   - Hole-minted Nodes (reintro-ep096): N-10647
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8755–C-8820
-  - Reused Nodes Appearing: N-10641, N-22, N-30, N-46, N-69, N-82, N-162, N-199, N-224, N-345, N-346, N-383, N-426, N-602, N-10000, N-10194, N-10202, N-10270, N-10349, N-10358, N-10406, N-10447, N-10552, N-10587, N-10590, N-10601, N-10607, N-10613, N-10616, N-10664
+  - Reused Nodes Appearing: N-10641, N-22, N-30, N-46, N-69, N-82, N-162, N-199, N-224, N-345, N-346, N-383, N-426, N-602, N-10000, N-10194, N-10202, N-10270, N-10349, N-10358, N-10406, N-10447, N-10552, N-10587, N-10590, N-10601, N-10607, N-10613, N-10616, N-10664, N-10640
   - (see registers)
 
 # Meta-Data
@@ -33,7 +33,7 @@
 ## Episode 96 Ledger Summary
 - Artifact Families Introduced: A-2007, A-2008, A-2009, A-2010, A-2011, A-2012, A-2013, A-2014
 - Claim Range: C-2790–C-2809, C-3745, C-3752
-  - New Nodes Introduced: N-10637, N-10638, N-10639, N-10640, N-10641, N-10642
+  - New Nodes Introduced: N-10637, N-10638, N-10639, N-10641, N-10642
   - Reused Nodes Appearing: 
   - Hole-minted Nodes (wave2): N-373, N-375, N-376, N-378
 - Existing Nodes Reused: N-1, N-2, N-3, N-14, N-60, N-5, N-282, N-97, N-334, N-265, N-87, N-132, N-205, N-557
@@ -1830,7 +1830,7 @@ Claim Timestamp: 00:52:52
 
 Claim: The host says the text was sent during the week Erika Kirk was going viral for her interview with Bari Weiss.
 
-Transcript Snippet: this was during the week where Erika was going viral for her interview with Barry Weiss for a number of very funny reasons
+Transcript Snippet: this was during the week where Erika was going viral for her interview with Bari Weiss for a number of very funny reasons
 
 Anchored Artifacts: A-2011.1
 Mentions: N-2, N-282, N-3
@@ -1962,7 +1962,7 @@ Claim Timestamp: 00:56:41
 
 Claim: The host says Erika Kirk told her the surgeon went rogue and Andrew Kolvet went rogue and that she was not part of the conversation, and calls that a big lie.
 
-Transcript Snippet: The surgeon went rogue. Andrew Kolb went rogue. I wasn't a part of the conversation. You lied about that, Erika.
+Transcript Snippet: The surgeon went rogue. Andrew Kolvet went rogue. I wasn't a part of the conversation. You lied about that, Erika.
 
 Anchored Artifacts:
 Mentions: N-2, N-14, N-3

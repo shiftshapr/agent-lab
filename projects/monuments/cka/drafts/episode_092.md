@@ -15,10 +15,9 @@
   - Hole-minted Nodes (reintro-ep092): N-10751
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11375–C-11435
-  - New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10612, N-10613, N-10614, N-10615
-  - Reused Nodes Appearing: N-2, N-14, N-4, N-329, N-17, N-33, N-40, N-42, N-82, N-94, N-204, N-213, N-241, N-284, N-426, N-808, N-455, N-456, N-466, N-606, N-695, N-809, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611
+  - New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10612, N-10614, N-10615
+  - Reused Nodes Appearing: N-2, N-14, N-4, N-329, N-17, N-33, N-40, N-42, N-82, N-94, N-204, N-213, N-241, N-284, N-426, N-808, N-455, N-456, N-466, N-606, N-695, N-809, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611, N-345, N-346, N-10613
   - Hole-minted Nodes (wave3): N-430
-  - Hole-minted Nodes (wave1): N-345, N-346
   - (see registers)
 
 ## 6. Meme Register
@@ -494,7 +493,7 @@ Investigative Pressure: Low
 
 **N-14** Andrew Kolvet
 
-TPUSA official; on-stage announcer (A-1966.1); Fox News interviewee (A-1967.1); Charlie Kirk show interviewee (A-1968.1); referenced as close associate of Marcus Wada (A-1980.1). Name spelling varies across source ("Kovette," "Kovat," "Kolvet"); preserved as "Andrew Kolvet."
+TPUSA official; on-stage announcer (A-1966.1); Fox News interviewee (A-1967.1); Charlie Kirk show interviewee (A-1968.1); referenced as close associate of Marcus Wada (A-1980.1). Name spelling varies across source ("Kolvet," "Kovat," "Kolvet"); preserved as "Andrew Kolvet."
 
 Evidence Count: 0
 Claim Count: 0
@@ -1597,7 +1596,7 @@ Claim Timestamp: 00:16:03
 
 Claim: The host says Erika Kirk knew she was not coming long before Andrew Kolvet's on-stage announcement, yet made no statement herself until after the event began.
 
-Transcript Snippet: Erika knew that she was not coming long before Andrew Kovette made the announcement on stage. Yet she did not make a statement herself until after the event began.
+Transcript Snippet: Erika knew that she was not coming long before Andrew Kolvet made the announcement on stage. Yet she did not make a statement herself until after the event began.
 
 Anchored Artifacts: A-1970.1
 Mentions: N-2, N-14, N-3
@@ -1742,7 +1741,7 @@ Claim Timestamp: 00:26:19
 
 Claim: The host says that Trump attacked a pope for calling for peace and said that Brigitte Macron is hot.
 
-Transcript Snippet: How about Trump just generally attacking a pope because he's calling for peace? How about Trump saying that Breijit Mcronone is hot?
+Transcript Snippet: How about Trump just generally attacking a pope because he's calling for peace? How about Trump saying that Brigitte Macron is hot?
 
 Anchored Artifacts: 
 Mentions: N-5, N-426, N-82
@@ -1933,7 +1932,7 @@ Claim Timestamp: 00:38:07
 
 Claim: The host says Victor Marx allegedly was the first person to announce that Charlie Kirk had died and then deleted the post.
 
-Transcript Snippet: Victor Marks allegedly was the first person who announced that Charlie Kirk had died and then he deleted that post.
+Transcript Snippet: Victor Marx allegedly was the first person who announced that Charlie Kirk had died and then he deleted that post.
 
 Anchored Artifacts: 
 Mentions: N-345, N-1, N-3
@@ -2080,7 +2079,7 @@ Claim Timestamp: 00:46:09
 
 Claim: The host says Greg Laurie, with whom Erika Kirk went on tour, leads Harvest Church, which she says is currently accused of trafficking children from Romania.
 
-Transcript Snippet: Greg Lorie uh whose church Erika went right on tour with him Harvest Church is currently being accused of trafficking ch children from Romania.
+Transcript Snippet: Greg Laurie uh whose church Erika went right on tour with him Harvest Church is currently being accused of trafficking ch children from Romania.
 
 Anchored Artifacts: A-3132.1
 Mentions: N-456, N-2, N-3
@@ -2214,7 +2213,7 @@ Claim Timestamp: 00:48:11
 
 Claim: The host says Victor Marx runs a charity for child sex abuse, and that she wants to add his supplements to her spreadsheet.
 
-Transcript Snippet: Victor Marks, as we learned, runs a charity for child sex abuse.
+Transcript Snippet: Victor Marx, as we learned, runs a charity for child sex abuse.
 
 Anchored Artifacts: A-3132.1
 Mentions: N-345, N-3
@@ -2371,8 +2370,8 @@ Investigative Direction: Find any public statement by Erika Kirk about Joe Kent 
 
 # VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kolvet" – host uses "Kovette," "Kovat," "Kovet," and "Kolvet" inconsistently. Preserved as "Andrew Kolvet" pending ledger confirmation.
-- **Name uncertainty:** "Victor Marx" vs. "Victor Marks" – host uses both; preserved as "Victor Marx."
+- **Name uncertainty:** "Andrew Kolvet" – host uses "Kolvet," "Kovat," "Kovet," and "Kolvet" inconsistently. Preserved as "Andrew Kolvet" pending ledger confirmation.
+- **Name uncertainty:** "Victor Marx" vs. "Victor Marx" – host uses both; preserved as "Victor Marx."
 - **Name uncertainty:** "Derek Kirk" – host congratulates "Derek Kirk" at the opening; relationship to Erica Kirk unclear from this episode.
 - **Name uncertainty / transcription error:** "Sapria Colonel Otto Busher" – appears in connecting-themes list; likely transcription artifact (possibly "Sephora" or unrelated name).
 - **Transcript ambiguity:** "September 14th" referenced in the UGA high school cancellation email (A-1972.1) is inconsistent with the April 2026 event timeline; either OCR/transcription artifact or genuine content error in the original email.

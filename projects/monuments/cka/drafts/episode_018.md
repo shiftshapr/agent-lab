@@ -12,8 +12,8 @@
 - **Transcript SHA-256**: 981eded19a8e9c778e179bd351be0fdb2fc90685371d2c9f8d34c238ce5cc8ce
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-177, N-178, N-179, N-181, N-182, N-10181, N-10182, N-10183, N-10184, N-10185, N-10186, N-10187, N-10188, N-10189, N-10190
-  - Reused Nodes Appearing: N-10180
+  - New Nodes Introduced: N-177, N-178, N-179, N-181, N-182, N-10181, N-10182, N-10183, N-10185, N-10186, N-10188, N-10189, N-10190
+  - Reused Nodes Appearing: N-10180, N-10184, N-10187
 
 This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolbatz tweet purporting to convey a surgeon's account of the bullet path, then asserts – as a fact-checked finding – that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate., N-11
 

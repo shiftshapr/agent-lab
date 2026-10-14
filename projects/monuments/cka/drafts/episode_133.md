@@ -254,7 +254,7 @@ Comments read aloud from previous episode's comment section.
 - Video Timestamp: ~47:04
 - *Related: C-3160*
 
-**A-2204.5** Comment from Britney Bicks: "The fact that the same people who asked Charlie to ask you to stop talking about Breijit are calling you nuts for talking about his murder is nothing short of hysterical. Frenchie T ain't got nothing on the passion that you have for this."
+**A-2204.5** Comment from Britney Bicks: "The fact that the same people who asked Charlie to ask you to stop talking about Brigitte are calling you nuts for talking about his murder is nothing short of hysterical. Frenchie T ain't got nothing on the passion that you have for this."
 - Video Timestamp: ~47:38
 - *Related: N/A*
 
@@ -888,7 +888,7 @@ Claim Timestamp: 00:00:01
 
 Claim: The host says a White House employee confirmed to her that a White House meeting was on the books for Andrew Kolvet, the TPUSA chief marketing officer, the chief operating officer Justin Streiff and in-house counsel Frank, and that it fell on or near the day Benjamin Netanyahu was in town.
 
-Transcript Snippet: I was also able to confirm with a White House employee that there certainly was a White House meeting on the books for Andrew Kovette
+Transcript Snippet: I was also able to confirm with a White House employee that there certainly was a White House meeting on the books for Andrew Kolvet
 
 Anchored Artifacts: A-2873.1
 Mentions: N-3, N-14, N-499, N-15, N-500, N-36
@@ -904,7 +904,7 @@ Claim Timestamp: 00:01:01
 
 Claim: The host says a White House source corroborated the meeting, then told her the meeting was suddenly cancelled, after which Andrew Kolvet publicly said he had no White House meeting.
 
-Transcript Snippet: Then today they told me the meeting was suddenly cancelled. And suddenly Andrew Kovett emerges from his 20 25 hour silence and says I have no meeting at the White House.
+Transcript Snippet: Then today they told me the meeting was suddenly cancelled. And suddenly Andrew Kolvet emerges from his 20 25 hour silence and says I have no meeting at the White House.
 
 Anchored Artifacts: A-2873.1
 Mentions: N-3, N-14
@@ -1500,9 +1500,9 @@ Investigative Direction: Locate Kolvet's public statement and any dated messages
 
 Claim Timestamp: 00:45:12
 
-Claim: The host says that Charlie Kirk 'would not have revealed the private conversation with Trump asking me to stop speaking about Breijit', calling it a fact; the transcript wording is ambiguous but she presents it as evidence in the dispute over their friendship.
+Claim: The host says that Charlie Kirk 'would not have revealed the private conversation with Trump asking me to stop speaking about Brigitte', calling it a fact; the transcript wording is ambiguous but she presents it as evidence in the dispute over their friendship.
 
-Transcript Snippet: Charlie would not have revealed the private conversation with Trump asking me to stop speaking about Breijit. That's a fact, actually.
+Transcript Snippet: Charlie would not have revealed the private conversation with Trump asking me to stop speaking about Brigitte. That's a fact, actually.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-5, N-82
@@ -1775,7 +1775,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** Transcript spells Andrew Kovette as "Kovette" / "Kovett" / "Coette." Preserved as host used.
+- **Name uncertainty:** Transcript spells Andrew Kolvet as "Kolvet" / "Kolvet" / "Coette." Preserved as host used.
 - **Name uncertainty:** Transcript spells Secretary of Navy's name as "Failen" / "Balin" / "felon failen." Public-record name is John C. Phelan. Flag retained.
 - **Name uncertainty:** Transcript spells "Jean Luke Brunell" / "John Luke Bernell." Public-record name is Jean-Luc Brunel. Flag retained.
 - **Name spelling variance:** Host consistently uses "Erika Kirk"; existing ledger node is "Erica Kirk." Preserved as host used; cross-reference to existing node retained.

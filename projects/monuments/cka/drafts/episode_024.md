@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-845, N-846, N-847, N-848, N-849, N-11223, N-11224, N-11225
-  - Hole-minted Nodes (reintro-ep024): N-224, N-226, N-272, N-383, N-10236, N-10336, N-10337, N-10543
-  - Tip-minted Nodes (reintro-ep024): N-712, N-717, N-10917, N-11092, N-11107
+  - Hole-minted Nodes (reintro-ep024): N-224, N-226, N-272, N-10236, N-10336, N-10337
+  - Tip-minted Nodes (reintro-ep024): N-712, N-10917, N-11092, N-11107
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9447–C-9512
   - New Nodes Introduced: N-214, N-215, N-216, N-218, N-219, N-220, N-10216, N-10217
-  - Reused Nodes Appearing: N-15, N-17, N-46, N-50, N-82, N-99, N-157, N-158, N-194, N-10006, N-10025, N-10033, N-10047, N-10077, N-10083, N-10104, N-10139, N-10148, N-10164, N-10167, N-10202, N-10206, N-10406, N-11099
+  - Reused Nodes Appearing: N-15, N-17, N-46, N-50, N-82, N-99, N-157, N-158, N-194, N-10006, N-10025, N-10033, N-10047, N-10077, N-10083, N-10104, N-10139, N-10148, N-10164, N-10167, N-10202, N-10206, N-10406, N-11099, N-383, N-717, N-10543
   - Tip-minted Nodes (wave2): N-10894, N-10895
   - (see registers), N-11
 
@@ -41,9 +41,9 @@
 
 # Executive Summary
 
-This episode focuses on three artifact-anchored clusters. First, audio artifacts from the Republican Jewish Coalition stage (Lindsey Graham, Randy Fine, and a poster reading "Tucker Carlson is not Maga") are read into the record. Second, two Ben Shapiro audio/video clips are played, the first quoting Candace Owens' prior statements on Tucker Carlson, the second asserting that Charlie Kirk labeled Nick Fuentes "vermin." Candace counters with a 2018 Joe Rogan clip and a photo from Ben Shapiro's Sherman Oaks studio. Third, the Jerusalem Post / Israeli War Room reporting that Erika Kirk would accept a posthumous "Pillars of Jerusalem Award" is read aloud along with Andrew Kolbenschlag's denial and Michael Starr's follow-up tweet acknowledging that the Israeli government press office "wavered" on the claim.
+This episode focuses on three artifact-anchored clusters. First, audio artifacts from the Republican Jewish Coalition stage (Lindsey Graham, Randy Fine, and a poster reading "Tucker Carlson is not Maga") are read into the record. Second, two Ben Shapiro audio/video clips are played, the first quoting Candace Owens' prior statements on Tucker Carlson, the second asserting that Charlie Kirk labeled Nick Fuentes "vermin." Candace counters with a 2018 Joe Rogan clip and a photo from Ben Shapiro's Sherman Oaks studio. Third, the Jerusalem Post / Israeli War Room reporting that Erika Kirk would accept a posthumous "Pillars of Jerusalem Award" is read aloud along with Andrew Kolvet's denial and Michael Starr's follow-up tweet acknowledging that the Israeli government press office "wavered" on the claim.
 
-Erika Kirk speaks via a preview clip from her upcoming Jesse Waters interview opposing a defense camera ban. Finally, Kash Patel's lengthy X defense of his girlfriend Alexis Wilkins is read in full, followed by viewer comments including Tom Paul's allegation that Tyler Robinson's ACT score (34, 99th percentile) and Thomas Matthew Crooks' SAT score follow a similar pattern to Adam Lanza.
+Erika Kirk speaks via a preview clip from her upcoming Jesse Watters interview opposing a defense camera ban. Finally, Kash Patel's lengthy X defense of his girlfriend Alexis Wilkins is read in full, followed by viewer comments including Tom Paul's allegation that Tyler Robinson's ACT score (34, 99th percentile) and Thomas Matthew Crooks' SAT score follow a similar pattern to Adam Lanza.
 
 Structurally, this episode advances the Jerusalem Post / TPUSA award reporting discrepancy as a new investigative target and adds artifact-backed corroboration to the Erika Kirk leadership / transparency pressure node.
 
@@ -139,7 +139,7 @@ Confidence Level: High
 
 *Related: C-1575, N-10895, N-10894, N-214, N-2, N-10216*
 
-**A-1317.2** Andrew Kolbenschlag X Reply Denying Knowledge of Award
+**A-1317.2** Andrew Kolvet X Reply Denying Knowledge of Award
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -147,7 +147,7 @@ Video Timestamp: 00:22:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1576, N-14 Andrew Kolbenschlag, N-2 Erica Kirk, N-10216*
+*Related: C-1576, N-14 Andrew Kolvet, N-2 Erica Kirk, N-10216*
 
 **A-1317.3** Michael Starr X Follow-Up on Israeli Government Press Office "Wavering"
 
@@ -159,9 +159,9 @@ Confidence Level: High
 
 *Related: C-1577, N-214, N-10895, N-10216*
 
-**A-1318** Erika Kirk Jesse Waters Interview Preview Bundle
+**A-1318** Erika Kirk Jesse Watters Interview Preview Bundle
 
-**A-1318.1** Erika Kirk on Courtroom Camera Ban (Jesse Waters interview preview clip)
+**A-1318.1** Erika Kirk on Courtroom Camera Ban (Jesse Watters interview preview clip)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -169,7 +169,7 @@ Video Timestamp: 00:30:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1578, N-2 Erica Kirk, N-215 Jesse Waters, N-10217*
+*Related: C-1578, N-2 Erica Kirk, N-215 Jesse Watters, N-10217*
 
 **A-1319** Kash Patel X Defense Tweet Bundle
 
@@ -452,7 +452,7 @@ Investigative Pressure: Medium
 
 **N-10216** TPUSA Posthumous Israel Award Reporting Discrepancy
 
-Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erica Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolbenschlag's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.
+Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erica Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolvet's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.
 
 Evidence Count: 3
 Claim Count: 3
@@ -1007,11 +1007,11 @@ Investigative Direction: Verify by independently locating the original Jerusalem
 
 ---
 
-**C-1576** Andrew Kolbenschlag Denies Knowledge of Award
+**C-1576** Andrew Kolvet Denies Knowledge of Award
 
 Claim Timestamp: 00:22:13
 
-Claim: TPUSA spokesperson Andrew Kolbenschlag posted on X that "this is the first we're hearing of this" regarding the reported Pillars of Jerusalem Award, and stated TPUSA had reached out to Michael Starr for a correction.
+Claim: TPUSA spokesperson Andrew Kolvet posted on X that "this is the first we're hearing of this" regarding the reported Pillars of Jerusalem Award, and stated TPUSA had reached out to Michael Starr for a correction.
 
 Anchored Artifacts: A-1317.2
 Mentions: N-2, N-14, N-214
@@ -1041,14 +1041,14 @@ Investigative Direction: Verify the original Michael Starr X post and corroborat
 
 Claim Timestamp: 00:30:31
 
-Claim: In a preview clip of her Jesse Waters interview, Erika Kirk opposed the defense motion to ban cameras in the courtroom, stating "We deserve to have cameras in there … Let everyone see what true evil is."
+Claim: In a preview clip of her Jesse Watters interview, Erika Kirk opposed the defense motion to ban cameras in the courtroom, stating "We deserve to have cameras in there … Let everyone see what true evil is."
 
 Anchored Artifacts: A-1318.1
 Mentions: N-2, N-215
 
 Related Nodes: N-10217
 
-Investigative Direction: Verify by reviewing the full Jesse Waters interview once aired and any subsequent court filings on the camera question.
+Investigative Direction: Verify by reviewing the full Jesse Watters interview once aired and any subsequent court filings on the camera question.
 
 ---
 
@@ -1272,7 +1272,7 @@ Claim Timestamp: 00:08:13
 
 Claim: The host says she separately told both Charlie and Andrew Kolvet that Charlie should host Nick Fuentes and debate him, that she tried to make it happen, and that Kolvet can confirm this.
 
-Transcript Snippet: I also had a long discussion with Andrew Kolb that separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen.
+Transcript Snippet: I also had a long discussion with Andrew Kolvet that separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-1, N-205
@@ -1654,7 +1654,7 @@ Claim Timestamp: 00:27:07
 
 Claim: The host says she has reserved her investigation for people blatantly lying, citing Alex Clark for lying about the Catholic thing, then Andrew Kolvet, Mikey McColgan and Rob McCoy.
 
-Transcript Snippet: That was my reason for going after Alex Clark. She lied about the Catholic thing. That was my reason for going after Andrew Kolbenschlag, Mikey McColgan.
+Transcript Snippet: That was my reason for going after Alex Clark. She lied about the Catholic thing. That was my reason for going after Andrew Kolvet, Mikey McColgan.
 
 Anchored Artifacts: 
 Mentions: N-3, N-99, N-14, N-194, N-17
@@ -1686,7 +1686,7 @@ Claim Timestamp: 00:28:02
 
 Claim: The host says Charlie loved Jesse Watters, that Watters gave them the most play time on Fox News in the beginning, and that Erika's Watters sit-down is dropping this week.
 
-Transcript Snippet: Jesse Waters gave us the most play time on Fox News back in the beginning.
+Transcript Snippet: Jesse Watters gave us the most play time on Fox News back in the beginning.
 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-2, N-215
@@ -1702,7 +1702,7 @@ Claim Timestamp: 00:28:02
 
 Claim: The host says, hedging that listeners should not quote her, that she is pretty sure she saw it teased that Erika Kirk is slated to join Megyn Kelly on tour.
 
-Transcript Snippet: Erika also I think slated to join Megan Kelly on tour. Don't quote me but I'm I'm pretty sure I saw that being teased.
+Transcript Snippet: Erika also I think slated to join Megyn Kelly on tour. Don't quote me but I'm I'm pretty sure I saw that being teased.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-46
@@ -1908,7 +1908,7 @@ Claim Timestamp: 00:35:20
 
 Claim: The host says the Erika Kirk interview with Jesse Watters is going to premiere in two days on Fox News.
 
-Transcript Snippet: Look forward to obviously watching the interview that is going to premiere in two days on Fox News with Jesse Waters.
+Transcript Snippet: Look forward to obviously watching the interview that is going to premiere in two days on Fox News with Jesse Watters.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-215
@@ -2159,8 +2159,8 @@ Investigative Direction: Identify the donor or organization that printed the sig
 
 # Optional Flags
 
-- Name uncertainty: "Jesse Waters" appears verbatim in the transcript; the Fox News host's standard spelling is "Jesse Watters." Preserved as transcript renders.
-- Name uncertainty: "Andrew Kolb" mentioned in the body of the podcast and "Andrew Kolbenschlag" mentioned as TPUSA spokesperson – unclear whether the same person. Inscribed node uses Kolbenschlag form to match the X handle cited.
+- Name uncertainty: "Jesse Watters" appears verbatim in the transcript; the Fox News host's standard spelling is "Jesse Watters." Preserved as transcript renders.
+- Name uncertainty: "Andrew Kolvet" mentioned in the body of the podcast and "Andrew Kolvet" mentioned as TPUSA spokesperson – unclear whether the same person. Inscribed node uses Kolbenschlag form to match the X handle cited.
 - Name uncertainty: "Jürgen Bühler" – preserved verbatim from the Israeli War Room / Jerusalem Post citation; commonly appears as "Juergen Bühler."
 - Artifact verbally referenced but not confirmed visually shown: A-1313.3 (RJC stage poster); host describes the sign but the transcript does not show it as a displayed image. Confidence Level: Medium.
 - Transcript ambiguity: Candace's recount of Charlie Kirk's "Milo" remark, the photo at Ben Shapiro's set, and the alleged behind-the-scenes text messages from Charlie are NOT presented as artifacts in this episode; the host refers to messages she has but does not display them. Related claims (about Charlie-Ben relations, Ben's alleged "Milo" remark, Candace's 80–150 text messages) are therefore NOT inscribed as claims.

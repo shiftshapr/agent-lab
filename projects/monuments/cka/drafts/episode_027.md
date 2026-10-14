@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-855, N-856, N-11228, N-11229, N-11230
-  - Hole-minted Nodes (reintro-ep027): N-371, N-10432, N-10687
-  - Tip-minted Nodes (reintro-ep027): N-610, N-11014, N-11171
+  - Hole-minted Nodes (reintro-ep027): N-371, N-10432
+  - Tip-minted Nodes (reintro-ep027): N-610, N-11014
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9584–C-9646
-  - New Nodes Introduced: N-231, N-232, N-233, N-234, N-235, N-236, N-237, N-10228, N-10229, N-10231, N-10232, N-10233, N-10234, N-10235
-  - Reused Nodes Appearing: N-3, N-99, N-10230, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-102, N-119, N-166, N-185, N-131, N-10006, N-10012, N-10013, N-10014, N-10055, N-10104, N-10132, N-10164, N-10175, N-10209, N-10224, N-10253, N-10319, N-10337, N-11098, N-11104
+  - New Nodes Introduced: N-231, N-233, N-234, N-235, N-236, N-237, N-10228, N-10229, N-10231, N-10232, N-10233, N-10234, N-10235
+  - Reused Nodes Appearing: N-3, N-99, N-10230, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-102, N-119, N-166, N-185, N-131, N-10006, N-10012, N-10013, N-10014, N-10055, N-10104, N-10132, N-10164, N-10175, N-10209, N-10224, N-10253, N-10319, N-10337, N-11098, N-11104, N-232, N-10687, N-11171
   - (see registers)
 
 # Episode 27 Analysis Record
@@ -1324,7 +1324,7 @@ Claim Timestamp: 00:02:10
 
 Claim: The host says Ben Shapiro and Jeremy Boreing fired her, thanking them sarcastically for the firing and its publicity.
 
-Transcript Snippet: I thank Ben Shapiro. I thank Jeremy Boring. I thank the direction of travel, and they realizing it before I did, um that I should be fired.
+Transcript Snippet: I thank Ben Shapiro. I thank Jeremy Boreing. I thank the direction of travel, and they realizing it before I did, um that I should be fired.
 
 Anchored Artifacts: 
 Mentions: N-3, N-97, N-371

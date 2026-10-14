@@ -1,0 +1,7 @@
+# Coverage notes, episode 139
+
+- Existing draft claims: 24 (C-3236 to C-3259). Beats judged covered: about 22 (French tip, the three Rogan clip statements, Kolvet and Nef posts, debate clip, snowboard/gas/piano, Benny 1-2%, phone footage, grocery and trailer posts, Rabbi video, Luna email, pentagram, Wikipedia).
+- New claims added: 87. New artifacts: 3 families. New nodes: 3 persons, 2 topics. Memes: 16 occurrences across 15 memes (2 new).
+- DIA scan: one real beat ("tip line", 00:00:02) given a claim, a verbal-reference artifact and an M-12 occurrence. "canowens. com" at 01:02:23 is a merch plug, not a tip call, so no DIA beat and no M-14. No bounty or "send us an email" hits; the 300K/500K debate money is an offer, not a bounty.
+- Ad reads (PDS Debt, Nimi, Paleo Valley, American Financing), a birthday shout-out and a few viewer comments were skipped as not checkable case material.
+- Five most important things the earlier pass missed: (1) the Wilson debate offer history and the host's counter-terms (00:02:12 to 00:13:00), (2) the host's physical-evidence case for no lone gunman: shirt, necklace, 2,000 pounds, wound, SUV shards, purged 911 call (00:14:30 to 00:16:06), (3) the maroon-shirt-is-not-Tyler and two-person claims plus no cameras outside the garage (00:18:45 to 00:20:13), (4) Lance Twigs DNA, Dremel, alibi, burned note, safe house and federal-asset suspicion (00:20:13 to 00:31:34), (5) the 92-influencer chat with Paramount Tactical and the chat posting her address (00:58:22, 01:02:23).

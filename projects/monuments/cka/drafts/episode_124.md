@@ -16,9 +16,8 @@
   - Tip-minted Nodes (reintro-ep124): N-11065
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7203–C-7279
-  - New Nodes Introduced: N-10709, N-10712, N-10713
-  - Reused Nodes Appearing: N-493, N-3, N-271, N-371, N-97, N-1, N-40, N-7, N-14, N-36, N-126, N-162, N-166, N-270, N-274, N-282, N-370, N-614, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10051, N-10077, N-10381, N-10386, N-10389, N-10495, N-10572, N-10598, N-10679, N-10692, N-10703, N-10729, N-10900, N-10975, N-11017, N-10710, N-10711, N-11135, N-784, N-11137, N-58
-  - Hole-minted Nodes (wave3): N-498
+  - New Nodes Introduced: N-10709, N-10712
+  - Reused Nodes Appearing: N-493, N-3, N-271, N-371, N-97, N-1, N-40, N-7, N-14, N-36, N-126, N-162, N-166, N-270, N-274, N-282, N-370, N-614, N-10000, N-10012, N-10018, N-10022, N-10027, N-10028, N-10051, N-10077, N-10381, N-10386, N-10389, N-10495, N-10572, N-10598, N-10679, N-10692, N-10703, N-10729, N-10900, N-10975, N-11017, N-10710, N-10711, N-11135, N-784, N-11137, N-58, N-498, N-10713
   - (see registers)
 
 # Meta-Data
@@ -37,7 +36,7 @@ Episode 124 Ledger Summary
 Artifact Families Introduced: A-2115, A-2116, A-2117, A-2118, A-2119, A-2120, A-2121, A-2122, A-2123, A-2124, A-2125, A-2126, A-2127, A-2128
 Claim Range: C-3000 – C-3016, C-3761, C-3764, C-3770
 New Nodes Introduced: N-10709, N-10710, N-10711, N-10712, N-10713
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twigs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Barry Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boring, Tim Pool, Blake Nef, Baron Coleman, Frank Turk, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kovat/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Preene Bowler)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and prior-episode figures referenced by name (Tyler Robinson, Lance Twiggs, Ben Shapiro, Mike Mitchell, Matt Robinson, Bill Ackman, Bari Weiss, Benny Johnson, Josh Hammer, Caitlyn Oliver, Samantha Carner, Miss Noble, Jeremy Boreing, Tim Pool, Blake Neff, Baron Coleman, Frank Turek, Brian Harpole, Rick Cutler, Justin Davis, Dan Flood, Andrew Kolvet/Kulvat, Brandon Tatum, Graham Allen, Mike Lee, Clay Travis, Carrie Preene Bowler)
 
 ## 6. Meme Register
 
@@ -261,9 +260,9 @@ Confidence: high
 
 # II. Executive Summary
 
-This episode is dedicated to the host's analysis of the Tyler Robinson preliminary hearing in Utah, with extensive evidentiary material drawn directly from courtroom audio, video exhibits, and post-court influencer commentary. The host anchors her critique in seven distinct artifact families: Lance Twigs's courtroom testimony identifying Robinson only by generic clothing items and stating Robinson was not political; ATF forensic biologist Caitlyn Oliver's testimony that "Robinson's DNA is on the gun" would be "scientifically indefensible" and that Robinson's DNA was the most degraded contributor; the visual discrepancy between the dual-exhaust car shown in court footage and Tyler Robinson's known single-exhaust Dodge Challenger; ballistics expert Samantha Carner's measurement of the 6A bullet jacket fragment diameter (286–301 thousandths of an inch); the host's framing of Exhibits 12.4 and 12.1 as showing only blurred/unidentifiable figures; Benny Johnson's post-court video claim of having seen "4K HD" footage of the shooting; and Ben Shapiro's on-air admission that his security received live updates from someone in Charlie Kirk's vehicle during the seven-minute transport to the hospital.
+This episode is dedicated to the host's analysis of the Tyler Robinson preliminary hearing in Utah, with extensive evidentiary material drawn directly from courtroom audio, video exhibits, and post-court influencer commentary. The host anchors her critique in seven distinct artifact families: Lance Twiggs's courtroom testimony identifying Robinson only by generic clothing items and stating Robinson was not political; ATF forensic biologist Caitlyn Oliver's testimony that "Robinson's DNA is on the gun" would be "scientifically indefensible" and that Robinson's DNA was the most degraded contributor; the visual discrepancy between the dual-exhaust car shown in court footage and Tyler Robinson's known single-exhaust Dodge Challenger; ballistics expert Samantha Carner's measurement of the 6A bullet jacket fragment diameter (286–301 thousandths of an inch); the host's framing of Exhibits 12.4 and 12.1 as showing only blurred/unidentifiable figures; Benny Johnson's post-court video claim of having seen "4K HD" footage of the shooting; and Ben Shapiro's on-air admission that his security received live updates from someone in Charlie Kirk's vehicle during the seven-minute transport to the hospital.
 
-The episode structurally advances the show's pre-hearing thesis that Lance Twigs is a federal asset whose testimony is structurally indispensable to the prosecution, and introduces five new investigative discrepancies warranting continued tracking: the car exhaust pipe discrepancy, the bullet jacket diameter measurement, the most-degraded DNA claim, the Ben Shapiro security live-update admission, and the Tel Aviv text message extraction source. The episode also documents the absence of testimony at the hearing regarding the pre-hearing "Fed narrative" claim that Robinson's parents turned him in via confession.
+The episode structurally advances the show's pre-hearing thesis that Lance Twiggs is a federal asset whose testimony is structurally indispensable to the prosecution, and introduces five new investigative discrepancies warranting continued tracking: the car exhaust pipe discrepancy, the bullet jacket diameter measurement, the most-degraded DNA claim, the Ben Shapiro security live-update admission, and the Tel Aviv text message extraction source. The episode also documents the absence of testimony at the hearing regarding the pre-hearing "Fed narrative" claim that Robinson's parents turned him in via confession.
 
 ---
 
@@ -271,7 +270,7 @@ The episode structurally advances the show's pre-hearing thesis that Lance Twigs
 
 **A-2115** Influencer Overwhelming Screenshot Collage
 
-**A-2115.1** Composite screenshot displayed on-screen of social media posts (Graham, Steve D, "Paramount not so tactical," Gunther Eagleman, Jack quoting Don Trump Jr., Ali Beth Stucky, Mike Lee, Andrew Kovat, "Brent," "Susie," Clay Travis) all using the word "overwhelming" to describe evidence against Tyler Robinson.
+**A-2115.1** Composite screenshot displayed on-screen of social media posts (Graham, Steve D, "Paramount not so tactical," Gunther Eagleman, Jack quoting Don Trump Jr., Ali Beth Stucky, Mike Lee, Andrew Kolvet, "Brent," "Susie," Clay Travis) all using the word "overwhelming" to describe evidence against Tyler Robinson.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -329,7 +328,7 @@ Confidence Level: High
 
 *Related: C-3002*
 
-**A-2117.4** Host's on-air account that Bill Ackman ("Bill Aman" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for turning in his son (verbal reference; no displayed artifact)
+**A-2117.4** Host's on-air account that Bill Ackman ("Bill Ackman" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for turning in his son (verbal reference; no displayed artifact)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -341,9 +340,9 @@ Confidence Level: Medium (host account; pledge not shown)
 
 ---
 
-**A-2118** Lance Twigs Courtroom Testimony Audio Bundle
+**A-2118** Lance Twiggs Courtroom Testimony Audio Bundle
 
-**A-2118.1** Audio of Lance Twigs on witness stand identifying Robinson by generic clothing features (shoes, sunglasses, hat, jeans), stating he could not be 100% certain from camera quality alone but that "the bottom, the last two definitely do look like him."
+**A-2118.1** Audio of Lance Twiggs on witness stand identifying Robinson by generic clothing features (shoes, sunglasses, hat, jeans), stating he could not be 100% certain from camera quality alone but that "the bottom, the last two definitely do look like him."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -353,7 +352,7 @@ Confidence Level: High
 
 *Related: C-3003, Tyler Robinson (existing)*
 
-**A-2118.2** Audio of Lance Twigs stating Tyler Robinson was not political, did not discuss Charlie Kirk, and engaged with politics primarily via radio during carpool.
+**A-2118.2** Audio of Lance Twiggs stating Tyler Robinson was not political, did not discuss Charlie Kirk, and engaged with politics primarily via radio during carpool.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -443,7 +442,7 @@ Confidence Level: High
 
 **A-2123** Tyler-Lance Text Messages Display
 
-**A-2123.1** On-screen display of text messages between Tyler Robinson and Lance Twigs, including lines about "drop everything and look under your keyboard," "I am stuck in Orem for a little while longer yet," "if I'm able to grab my rifle unseen," and "Some hate just can't be negotiated out."
+**A-2123.1** On-screen display of text messages between Tyler Robinson and Lance Twiggs, including lines about "drop everything and look under your keyboard," "I am stuck in Orem for a little while longer yet," "if I'm able to grab my rifle unseen," and "Some hate just can't be negotiated out."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -553,7 +552,7 @@ Confidence Level: Medium
 
 *Related: A-2123.1*
 
-**A-2128.2** Read-aloud viewer comment by "Truth Prevail" characterizing Lance Twigs as "MK Ultra OP" and referencing limp-switching observation.
+**A-2128.2** Read-aloud viewer comment by "Truth Prevail" characterizing Lance Twiggs as "MK Ultra OP" and referencing limp-switching observation.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -881,7 +880,7 @@ Former undercover detective, family friend and scout leader whom the host says b
 
 **N-14** Andrew Kolvet
 
-TPUSA spokesperson; the host cites his statement that it was supposed to be her and his reported revival of the Lance Twigs angle.
+TPUSA spokesperson; the host cites his statement that it was supposed to be her and his reported revival of the Lance Twiggs angle.
 
 *Related: C-7250, C-7265, C-7270*
 
@@ -937,7 +936,7 @@ Dan Flood; one of the two remaining candidates in the host's elimination of who 
 
 **N-282** Bari Weiss
 
-Bari Weiss (captioned Barry Weiss); interviewed Erika Kirk.
+Bari Weiss (captioned Bari Weiss); interviewed Erika Kirk.
 
 *Related: C-7208*
 
@@ -961,7 +960,7 @@ Benjamin Netanyahu; the host discusses the phone call in the Hamptons.
 
 **N-37** Bill Ackman
 
-Bill Ackman (captioned Bill Aman); the host says he put Netanyahu on the phone with Charlie.
+Bill Ackman (captioned Bill Ackman); the host says he put Netanyahu on the phone with Charlie.
 
 *Related: C-7230, C-7267*
 
@@ -993,7 +992,7 @@ Rick Cutler; in the transport car, said by the host to have been holding Charlie
 
 **N-54** Lance Twiggs
 
-Lance Twigs, Robinson's roommate and hearing witness, whom the host calls a federal asset.
+Lance Twiggs, Robinson's roommate and hearing witness, whom the host calls a federal asset.
 
 *Related: C-7206, C-7215, C-7216, C-7224, C-7225, C-7226, C-7231, C-7232, C-7235, C-7238, C-7249, C-7270, C-7277*
 
@@ -1128,11 +1127,11 @@ Investigative Direction: Compare pre-hearing narrative claims against actual pre
 
 ---
 
-**C-3003** Lance Twigs identified Tyler Robinson only by generic clothing items
+**C-3003** Lance Twiggs identified Tyler Robinson only by generic clothing items
 
 Claim Timestamp: 00:17:15
 
-Claim: Lance Twigs testified that he could recognize Robinson only by generic clothing features (jeans, similar shoes, sunglasses, hat), stating he could not be 100% certain from camera quality alone.
+Claim: Lance Twiggs testified that he could recognize Robinson only by generic clothing features (jeans, similar shoes, sunglasses, hat), stating he could not be 100% certain from camera quality alone.
 
 Anchored Artifacts: A-2118.1
 Mentions: N-40, N-54
@@ -1143,11 +1142,11 @@ Investigative Direction: Cross-reference Lance's testimony with other witness id
 
 ---
 
-**C-3004** Lance Twigs testified Tyler Robinson was not political
+**C-3004** Lance Twiggs testified Tyler Robinson was not political
 
 Claim Timestamp: 00:27:55
 
-Claim: Lance Twigs testified that Tyler Robinson was not political, had not discussed Charlie Kirk with him, and engaged with politics primarily via radio during carpool.
+Claim: Lance Twiggs testified that Tyler Robinson was not political, had not discussed Charlie Kirk with him, and engaged with politics primarily via radio during carpool.
 
 Anchored Artifacts: A-2118.2
 Mentions: N-40, N-1, N-54
@@ -1314,7 +1313,7 @@ Mentions: N-1, N-97, N-493, N-498
 
 Related Nodes: N-10712
 
-Investigative Direction: Identify the person in Charlie's vehicle who provided the updates; verify against witness accounts of Brian Harpole, Rick Cutler, Frank Turk, Dan Flood, and Justin Davis.
+Investigative Direction: Identify the person in Charlie's vehicle who provided the updates; verify against witness accounts of Brian Harpole, Rick Cutler, Frank Turek, Dan Flood, and Justin Davis.
 
 ---
 
@@ -1322,7 +1321,7 @@ Investigative Direction: Identify the person in Charlie's vehicle who provided t
 
 Claim Timestamp: 00:24:20
 
-Claim: Text messages displayed on-screen between Tyler Robinson and Lance Twigs included lines such as "I am stuck in Orem for a little while longer yet," "if I'm able to grab my rifle unseen," and "Some hate just can't be negotiated out."
+Claim: Text messages displayed on-screen between Tyler Robinson and Lance Twiggs included lines such as "I am stuck in Orem for a little while longer yet," "if I'm able to grab my rifle unseen," and "Some hate just can't be negotiated out."
 
 Anchored Artifacts: A-2123.1
 Mentions: N-40, N-54
@@ -1367,9 +1366,9 @@ Investigative Direction: Collect tip-line submissions on the lunch; corroborate 
 
 Claim Timestamp: 00:06:50
 
-Claim: Recapping the pre-hearing narrative that Tyler Robinson's parents turned him in, the host says Bill Ackman ("Bill Aman" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for "the brave act" of turning in his son, and says someone should check on that $1 million.
+Claim: Recapping the pre-hearing narrative that Tyler Robinson's parents turned him in, the host says Bill Ackman ("Bill Ackman" in the captions) immediately pledged $1 million to Tyler Robinson's father, Matt Robinson, for "the brave act" of turning in his son, and says someone should check on that $1 million.
 
-Transcript Snippet: In fact, Bill Aman, King of the Hamptons, immediately pledged $1 million to Tyler Robinson's father, Matt Robinson.
+Transcript Snippet: In fact, Bill Ackman, King of the Hamptons, immediately pledged $1 million to Tyler Robinson's father, Matt Robinson.
 
 Anchored Artifacts: A-2117.4
 Mentions: N-3, N-37, N-40
@@ -1432,15 +1431,15 @@ Investigative Direction: Identify the commentator and compare each claimed confe
 
 Claim Timestamp: 00:09:27
 
-Claim: The host recaps the pre-hearing narrative that Tyler Robinson killed Charlie Kirk in broad daylight in a burning rage over LGBTQ and trans rights, because he has a trans furry boyfriend named Lance Twigs.
+Claim: The host recaps the pre-hearing narrative that Tyler Robinson killed Charlie Kirk in broad daylight in a burning rage over LGBTQ and trans rights, because he has a trans furry boyfriend named Lance Twiggs.
 
-Transcript Snippet: in a burning rage over LGBTQ rights, particularly trans rights because he has a trans furry boyfriend named Lance Twigs.
+Transcript Snippet: in a burning rage over LGBTQ rights, particularly trans rights because he has a trans furry boyfriend named Lance Twiggs.
 
 Anchored Artifacts: 
 Mentions: N-3, N-40, N-54, N-1
 Related Nodes: 
 Tags: relevance:core
-Investigative Direction: Compare the motive narrative against the indictment, the charging documents and Lance Twigs's hearing testimony on politics.
+Investigative Direction: Compare the motive narrative against the indictment, the charging documents and Lance Twiggs's hearing testimony on politics.
 
 ---
 
@@ -1464,7 +1463,7 @@ Investigative Direction: Collect the official statements promising footage of th
 
 Claim Timestamp: 00:09:27
 
-Claim: The host says Erika Kirk told viewers back in November or December that she had seen the evidence and was convinced it was Tyler Robinson, and that by her interview with Barry Weiss her mind was made up.
+Claim: The host says Erika Kirk told viewers back in November or December that she had seen the evidence and was convinced it was Tyler Robinson, and that by her interview with Bari Weiss her mind was made up.
 
 Transcript Snippet: Erika herself told us back in November or December that she had seen the evidence and she was convinced it was Tyler Robinson.
 
@@ -1538,7 +1537,7 @@ Mentions: N-3, N-40
 Related Nodes: 
 Supports: C-3004
 Tags: relevance:core
-Investigative Direction: Pull voter registration and donation records for the Robinson household and compare with Lance Twigs's testimony.
+Investigative Direction: Pull voter registration and donation records for the Robinson household and compare with Lance Twiggs's testimony.
 
 ---
 
@@ -1574,27 +1573,27 @@ Investigative Direction: Seek licensing records or family testimony on who in th
 
 ---
 
-**C-7215** Host Says Lance Twigs Is a Federal Asset Who Gathered Tyler's Belongings and Is Blackmailed
+**C-7215** Host Says Lance Twiggs Is a Federal Asset Who Gathered Tyler's Belongings and Is Blackmailed
 
 Claim Timestamp: 00:11:24
 
-Claim: The host says she has suggested from the beginning that Lance Twigs is a federal asset who gathered Tyler's belongings to pin the crime on him, and that she suspects Lance is heavily blackmailed because he was into some dark web stuff.
+Claim: The host says she has suggested from the beginning that Lance Twiggs is a federal asset who gathered Tyler's belongings to pin the crime on him, and that she suspects Lance is heavily blackmailed because he was into some dark web stuff.
 
-Transcript Snippet: I also have suggested heavily from the beginning that Lance Twigs is a federal asset who gathered Tyler's belongings to pin the crime on him.
+Transcript Snippet: I also have suggested heavily from the beginning that Lance Twiggs is a federal asset who gathered Tyler's belongings to pin the crime on him.
 
 Anchored Artifacts: 
 Mentions: N-3, N-54, N-40
 Related Nodes: N-10598, N-10703
 Tags: relevance:core
-Investigative Direction: Look for court filings or records on any agreement with Lance Twigs and on the alleged dark web activity; no document has been shown on air.
+Investigative Direction: Look for court filings or records on any agreement with Lance Twiggs and on the alleged dark web activity; no document has been shown on air.
 
 ---
 
-**C-7216** Host Says Lance Twigs Got Immunity and Was Not Cross-Examined Despite Hearsay Objections
+**C-7216** Host Says Lance Twiggs Got Immunity and Was Not Cross-Examined Despite Hearsay Objections
 
 Claim Timestamp: 00:11:24
 
-Claim: The host says every piece of evidence the influencers push relies on Lance Twigs, who she says was immediately granted immunity by the feds and was not allowed to be cross-examined at this hearing even though arguments were made that his testimony amounted to hearsay.
+Claim: The host says every piece of evidence the influencers push relies on Lance Twiggs, who she says was immediately granted immunity by the feds and was not allowed to be cross-examined at this hearing even though arguments were made that his testimony amounted to hearsay.
 
 Transcript Snippet: who for some reason was immediately granted immunity by the feds and was not allowed to even be cross-examined at this stage for this hearing.
 
@@ -1602,7 +1601,7 @@ Anchored Artifacts:
 Mentions: N-3, N-54
 Related Nodes: N-10679, N-10598
 Tags: relevance:core
-Investigative Direction: Obtain the immunity or cooperation agreement and the hearing transcript rulings on hearsay and cross-examination of Lance Twigs.
+Investigative Direction: Obtain the immunity or cooperation agreement and the hearing transcript rulings on hearsay and cross-examination of Lance Twiggs.
 
 ---
 
@@ -1740,7 +1739,7 @@ Investigative Direction: Obtain the full carrier and device records for both pho
 
 Claim Timestamp: 00:22:55
 
-Claim: The host says the Tyler Robinson and Lance Twigs messages presented at the hearing are not timestamped, which is why they are problematic.
+Claim: The host says the Tyler Robinson and Lance Twiggs messages presented at the hearing are not timestamped, which is why they are problematic.
 
 Transcript Snippet: The messages are problematic, and that's why they're not timestamped.
 
@@ -1834,19 +1833,19 @@ Investigative Direction: Review the hearing witness list and transcripts for any
 
 ---
 
-**C-7231** Host Says Testimony Showed Lance Twigs's Prints on the Towel, the Gun and the Dremel
+**C-7231** Host Says Testimony Showed Lance Twiggs's Prints on the Towel, the Gun and the Dremel
 
 Claim Timestamp: 00:27:09
 
-Claim: The host says there was plenty of testimony that Lance Twigs's prints were on everything, including the towel, the gun and the Dremel used to carve out the messages on the cartridges.
+Claim: The host says there was plenty of testimony that Lance Twiggs's prints were on everything, including the towel, the gun and the Dremel used to carve out the messages on the cartridges.
 
-Transcript Snippet: there was plenty of testimony regarding how Lance Twigs's prints were on everything. The towel, the gun, the Dremel that was used to carve out the messages on the cartridges.
+Transcript Snippet: there was plenty of testimony regarding how Lance Twiggs's prints were on everything. The towel, the gun, the Dremel that was used to carve out the messages on the cartridges.
 
 Anchored Artifacts: 
 Mentions: N-3, N-54
 Related Nodes: N-10598
 Tags: relevance:core
-Investigative Direction: Obtain the latent print and DNA reports itemizing the items on which Lance Twigs's prints or DNA were found.
+Investigative Direction: Obtain the latent print and DNA reports itemizing the items on which Lance Twiggs's prints or DNA were found.
 
 ---
 
@@ -1854,7 +1853,7 @@ Investigative Direction: Obtain the latent print and DNA reports itemizing the i
 
 Claim Timestamp: 00:27:09
 
-Claim: The host says Lance Twigs claims he slept in until 1 p.m. on September 10, 37 minutes after Charlie Kirk was hit at 12:23.
+Claim: The host says Lance Twiggs claims he slept in until 1 p.m. on September 10, 37 minutes after Charlie Kirk was hit at 12:23.
 
 Transcript Snippet: Lance claims that he slept in until 100 p. m.
 
@@ -1898,13 +1897,13 @@ Investigative Direction: Read the cross-examination transcript and the ATF DNA r
 
 ---
 
-**C-7235** Host Says Oliver Confirmed a Minimum of Five Sets of DNA With Lance Twigs and Matt Robinson Among the Prints
+**C-7235** Host Says Oliver Confirmed a Minimum of Five Sets of DNA With Lance Twiggs and Matt Robinson Among the Prints
 
 Claim Timestamp: 00:34:22
 
-Claim: The host says Oliver confirmed there was a minimum of five sets of DNA on some of the mixed samples, and that prints on the gun included Lance Twigs and Tyler's father Matt Robinson.
+Claim: The host says Oliver confirmed there was a minimum of five sets of DNA on some of the mixed samples, and that prints on the gun included Lance Twiggs and Tyler's father Matt Robinson.
 
-Transcript Snippet: which of course included Lance Twigs. Uh it also included Matt Robinson, Tyler's father.
+Transcript Snippet: which of course included Lance Twiggs. Uh it also included Matt Robinson, Tyler's father.
 
 Anchored Artifacts: A-2124.2
 Mentions: N-3, N-782, N-54, N-784, N-40
@@ -1950,7 +1949,7 @@ Investigative Direction: Collect the original media and official statements abou
 
 Claim Timestamp: 00:37:36
 
-Claim: The host argues that DNA can stay on an object for decades and degrades with humidity or dust, that it would not seem to degrade immediately after a shooting and disposal of the gun, and that this registers to her as evidence that Lance Twigs took the family heirloom gun and helped the feds set Robinson up.
+Claim: The host argues that DNA can stay on an object for decades and degrades with humidity or dust, that it would not seem to degrade immediately after a shooting and disposal of the gun, and that this registers to her as evidence that Lance Twiggs took the family heirloom gun and helped the feds set Robinson up.
 
 Transcript Snippet: It does not seem to me that DNA would suddenly degrade immediately after someone shoots a person, jumps off a rooftop, and tosses the gun into a nearby bush.
 
@@ -2128,19 +2127,19 @@ Investigative Direction: Search FARA registrations and payment records for the i
 
 ---
 
-**C-7249** Host Says Lance Twigs Has More DNA on the Gun Than Tyler and Is Not Treated as a Suspect
+**C-7249** Host Says Lance Twiggs Has More DNA on the Gun Than Tyler and Is Not Treated as a Suspect
 
 Claim Timestamp: 00:54:18
 
-Claim: The host says someone must explain why Lance Twigs is not considered a suspect when his DNA is on everything, with more of his DNA than Tyler's on the gun.
+Claim: The host says someone must explain why Lance Twiggs is not considered a suspect when his DNA is on everything, with more of his DNA than Tyler's on the gun.
 
-Transcript Snippet: Somebody's going to have to explain why Lance Twigs is not being considered a suspect when his DNA is on everything more of his DNA than Tyler's on the gun.
+Transcript Snippet: Somebody's going to have to explain why Lance Twiggs is not being considered a suspect when his DNA is on everything more of his DNA than Tyler's on the gun.
 
 Anchored Artifacts: 
 Mentions: N-3, N-54, N-40
 Related Nodes: N-10598, N-10679
 Tags: relevance:core
-Investigative Direction: Obtain the DNA report quantifying each contributor's share and any statement of the prosecution on Lance Twigs's status.
+Investigative Direction: Obtain the DNA report quantifying each contributor's share and any statement of the prosecution on Lance Twiggs's status.
 
 ---
 
@@ -2428,7 +2427,7 @@ Claim Timestamp: 01:08:31
 
 Claim: The host says Bill Ackman put Netanyahu on the phone with Charlie when Charlie was in the Hamptons.
 
-Transcript Snippet: Really, Bill Aman? put BB9 and Yahoo on the phone and he's just like, "Hey, I got your letter.
+Transcript Snippet: Really, Bill Ackman? put BB9 and Yahoo on the phone and he's just like, "Hey, I got your letter.
 
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-36, N-1
@@ -2470,19 +2469,19 @@ Investigative Direction: Establish timing of the tip and the first attacks on th
 
 ---
 
-**C-7270** Host Echoes a Comment That Kolvet Is Reviving the Lance Twigs Angle
+**C-7270** Host Echoes a Comment That Kolvet Is Reviving the Lance Twiggs Angle
 
 Claim Timestamp: 01:16:57
 
-Claim: Reading a viewer comment and saying she saw it too, the host says Andrew Kolvet is reviving the Lance angle, throwing Lance Twigs to the wolves because support for Tyler Robinson is growing.
+Claim: Reading a viewer comment and saying she saw it too, the host says Andrew Kolvet is reviving the Lance angle, throwing Lance Twiggs to the wolves because support for Tyler Robinson is growing.
 
-Transcript Snippet: Now, Andrew Kulat is reviving it, likely due to growing support for Tyler Robinson throwing Lance Twigs to the wolves. Yeah, I saw that, too.
+Transcript Snippet: Now, Andrew Kulat is reviving it, likely due to growing support for Tyler Robinson throwing Lance Twiggs to the wolves. Yeah, I saw that, too.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-54, N-40
 Related Nodes: N-10598
 Tags: relevance:core
-Investigative Direction: Find the Kolvet statements about Lance Twigs the commenter refers to.
+Investigative Direction: Find the Kolvet statements about Lance Twiggs the commenter refers to.
 
 ---
 
@@ -2636,10 +2635,10 @@ Investigative Direction: This is host speculation; no document or source is cite
 
 - **Tel Aviv extraction source:** Host reference only; not visually confirmed in the displayed text messages. See N-10713.
 - **Penguitch steak receipt:** Referenced by host as documentary proof Tyler was at 9:47 PM in Penguitch (3 hours from UVU); receipt not displayed in this episode.
-- **Bill Aman $1 million pledge:** Referenced as fact; no artifact (clip, screenshot, press release) displayed in this episode.
-- **Erika Kirk / Barry Weiss interview:** Referenced as showing Erika "made up her mind" pre-hearing; no clip displayed in this episode.
+- **Bill Ackman $1 million pledge:** Referenced as fact; no artifact (clip, screenshot, press release) displayed in this episode.
+- **Erika Kirk / Bari Weiss interview:** Referenced as showing Erika "made up her mind" pre-hearing; no clip displayed in this episode.
 - **Benny Johnson "Erika asked me to be here" statement:** Recounted by host; no specific clip of this utterance displayed.
-- **Name uncertainty (Andrew Kovat / Kulvat):** Transcript preserves the rendered form "Andrew Kovat" (also referenced as "Andrew Kovette" / "Andrew Kulat" elsewhere in the transcript); preservation consistent with display.
+- **Name uncertainty (Andrew Kolvet / Kulvat):** Transcript preserves the rendered form "Andrew Kolvet" (also referenced as "Andrew Kolvet" / "Andrew Kulat" elsewhere in the transcript); preservation consistent with display.
 - **Name uncertainty (Andrew Colbeat / Kolat):** Transcript preserves the rendered form "Andrew Colbeat" with later reference to "Andrew Kulat"; flagged.
 - **Erika Kirk inviting influencers:** Host asserts Erika Kirk invited Benny Johnson, Graham Allen, Brandon Tatum; no Erika-side artifact displayed.
 - **Receipt chain-of-custody / text extraction company:** Referenced by host as Tel Aviv-based but no specific company named.

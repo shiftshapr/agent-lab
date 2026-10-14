@@ -16,8 +16,8 @@
   - Tip-minted Nodes (reintro-ep035): N-10911, N-11061
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-7978–C-8065
-  - New Nodes Introduced: N-269, N-10265, N-10266, N-10269
-  - Reused Nodes Appearing: N-2, N-270, N-271, N-10267, N-10268, N-9, N-11, N-14, N-46, N-50, N-69, N-82, N-190, N-194, N-221, N-281, N-10000, N-10001, N-10002, N-10014, N-10047, N-10074, N-10085, N-10113, N-10116, N-10132, N-10155, N-10180, N-10202, N-10229, N-10248, N-10253, N-10263, N-10270, N-10324, N-10338, N-10427, N-10434, N-11011, N-272, N-10341
+  - New Nodes Introduced: N-269, N-10265, N-10269
+  - Reused Nodes Appearing: N-2, N-270, N-271, N-10267, N-10268, N-9, N-11, N-14, N-46, N-50, N-69, N-82, N-190, N-194, N-221, N-281, N-10000, N-10001, N-10002, N-10014, N-10047, N-10074, N-10085, N-10113, N-10116, N-10132, N-10155, N-10180, N-10202, N-10229, N-10248, N-10253, N-10263, N-10270, N-10324, N-10338, N-10427, N-10434, N-11011, N-272, N-10341, N-10266
   - (see registers)
 
 # Episode Analysis: Monument Ep 35 / Candace Ep 268
@@ -27,7 +27,7 @@
 
 Episode 35 centers on a read-aloud anonymous insider email that alleges the Egyptian military aircraft tail number SUBTT made repeated, multi-day stops in Wilmington, Delaware because of federal activity at 920 North King Street, a building the email identifies as housing the FBI, DEA, and Secret Service. The host anchors the email's premises to a series of displayed/linked artifacts: the host's compiled flight-pattern chart for SUBTT, a 1997 DOJ directory reference, a December 2024 SATIDS (French aircraft finishing company) announcement regarding the Wilmington hangar, a DRBA January 2024 resolution, and an FBI December 5, 2024 press release. She claims to have vetted the tip with contacts at federal agencies and the State Department.
 
-The second evidentiary strand introduces a documentary contradiction within TPUSA's own post-event statements: Frank Turk's Megan Kelly interview (A-1441) describing Charlie's team operating drones is presented against Brian Harpole's Shawn Ryan interview (A-1442) stating no drones were used. The episode also documents Harpole's repetition of the "3,000 lbs of energy" bullet-trajectory claim and includes read/played clips of Joe Rogan / Theo Von discussing conspiracies and Tim Pool regarding his exclusion from AmFest.
+The second evidentiary strand introduces a documentary contradiction within TPUSA's own post-event statements: Frank Turek's Megyn Kelly interview (A-1441) describing Charlie's team operating drones is presented against Brian Harpole's Shawn Ryan interview (A-1442) stating no drones were used. The episode also documents Harpole's repetition of the "3,000 lbs of energy" bullet-trajectory claim and includes read/played clips of Joe Rogan / Theo Von discussing conspiracies and Tim Pool regarding his exclusion from AmFest.
 
 Structurally, the episode introduces Wilmington, Delaware as a new investigative geography and elevates the insider-email-vetting process as a methodological development in the series.
 
@@ -207,9 +207,9 @@ Confidence Level: Medium
 
 *Related: C-1751, N-269, N-10265*
 
-**A-1441** Frank Turk Interview Bundle
+**A-1441** Frank Turek Interview Bundle
 
-**A-1441.1** Frank Turk on the Megan Kelly Show stating that on the day of the event, Charlie's team had drones up looking at the crowd from above and texted him video footage
+**A-1441.1** Frank Turek on the Megyn Kelly Show stating that on the day of the event, Charlie's team had drones up looking at the crowd from above and texted him video footage
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -335,7 +335,7 @@ Confidence Level: Low
 
 **A-2917.1** Viewer comment from Laughing cats music worldwide read aloud, saying they stopped being a TPUSA donor after Kolvet's miracle vertebra remark
 
-Quoted text: "Up until Andrew Kovette told us that we had to believe in Miracle Vertebra. I was a devoted TPUA donor and a show member."
+Quoted text: "Up until Andrew Kolvet told us that we had to believe in Miracle Vertebra. I was a devoted TPUA donor and a show member."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:48:56
@@ -423,7 +423,7 @@ Investigative Pressure: Medium
 
 **N-7** Frank Turek
 
-TPUSA-affiliated individual who accompanied Charlie; Megan Kelly interview (A-1441.1) describing drones.
+TPUSA-affiliated individual who accompanied Charlie; Megyn Kelly interview (A-1441.1) describing drones.
 
 Evidence Count: 1
 Claim Count: 1
@@ -489,7 +489,7 @@ Investigative Pressure: High
 
 **N-10267** TPUSA Drone Disclosure Discrepancy
 
-Contradiction between Frank Turk (drones up, A-1441.1) and Brian Harpole (no drones allowed, A-1442.1) on whether drones were operating on the day of the event.
+Contradiction between Frank Turek (drones up, A-1441.1) and Brian Harpole (no drones allowed, A-1442.1) on whether drones were operating on the day of the event.
 
 Evidence Count: 2
 Claim Count: 2
@@ -1023,18 +1023,18 @@ Investigative Direction: Locate and review the FBI press release directly; verif
 
 ---
 
-**C-1753** Frank Turk Stated Charlie's Team Had Drones Operating at the Event
+**C-1753** Frank Turek Stated Charlie's Team Had Drones Operating at the Event
 
 Claim Timestamp: 00:31:42–00:32:39
 
-Claim: Frank Turk, on the Megan Kelly Show, stated that on the day of the event, Charlie's team had drones up looking at the crowd from above and texted him video footage during the drive-in.
+Claim: Frank Turek, on the Megyn Kelly Show, stated that on the day of the event, Charlie's team had drones up looking at the crowd from above and texted him video footage during the drive-in.
 
 Anchored Artifacts: A-1441.1
 Mentions: N-7
 
 Related Nodes: N-10267
 
-Investigative Direction: Obtain the full Megan Kelly / Frank Turk interview clip and timestamp; confirm exact wording.
+Investigative Direction: Obtain the full Megyn Kelly / Frank Turek interview clip and timestamp; confirm exact wording.
 
 ---
 
@@ -1900,7 +1900,7 @@ Claim Timestamp: 00:30:52
 
 Claim: The host says Frank Turek was with Charlie the day he died, was with him in the hospital and carried him into the waiting SUV.
 
-Transcript Snippet: Frank Turk, who was with Charlie on the day that he died with Charlie in the hospital and carried Charlie into the waiting SUV
+Transcript Snippet: Frank Turek, who was with Charlie on the day that he died with Charlie in the hospital and carried Charlie into the waiting SUV
 
 Anchored Artifacts: A-1441.1
 Mentions: N-7, N-1, N-3
@@ -2130,7 +2130,7 @@ Claim Timestamp: 00:38:28
 
 Claim: The host says anyone who watched the Brigitte Macron story knows it was a story about pedophiles in power and the lengths they go to to maintain a lie.
 
-Transcript Snippet: any person who actually watched the Breijit Mcronone story knows that that was a story about pedophiles in power.
+Transcript Snippet: any person who actually watched the Brigitte Macron story knows that that was a story about pedophiles in power.
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
@@ -2178,7 +2178,7 @@ Claim Timestamp: 00:39:57
 
 Claim: The host says she told the truth about the Brigitte Macron story, and that the response of suing her shows the nature of the psychopathology of those involved.
 
-Transcript Snippet: I told the truth about the Bridget Mcronone story, right?
+Transcript Snippet: I told the truth about the Brigitte Macron story, right?
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
@@ -2354,7 +2354,7 @@ Claim Timestamp: 00:48:56
 
 Claim: A viewer comment read by the host says that up until Andrew Kolvet told people they had to believe in a miracle vertebra, the commenter was a devoted TPUSA donor and show member.
 
-Transcript Snippet: Up until Andrew Kovette told us that we had to believe in Miracle Vertebra. I was a devoted TPUA donor and a show member.
+Transcript Snippet: Up until Andrew Kolvet told us that we had to believe in Miracle Vertebra. I was a devoted TPUA donor and a show member.
 
 Anchored Artifacts: A-2917.1
 Mentions: N-14, N-3
@@ -2448,7 +2448,7 @@ Claim Timestamp: 00:52:47
 
 Claim: The host says YouTube gave her team a copyright claim, not a strike, over a song by Kash Patel's girlfriend, so the team may trim that song from the Tim Dillon clip they showed.
 
-Transcript Snippet: A copyright claim for her sensational music. And so, we might have to trim out that sensational song from the Tim Dylan clip that we showed of him listening to it.
+Transcript Snippet: A copyright claim for her sensational music. And so, we might have to trim out that sensational song from the Tim Dillon clip that we showed of him listening to it.
 
 Anchored Artifacts: A-2916.1
 Mentions: N-3, N-281
@@ -2464,7 +2464,7 @@ Claim Timestamp: 00:52:47
 
 Claim: The host says many viewers wrote that the killing was done intentionally because she was on the track of the Brigitte Macron story, and says she has no concrete evidence of that.
 
-Transcript Snippet: a lot of people wrote that instantly that they did this intentionally because you were on the track of Breijit Mcronone.
+Transcript Snippet: a lot of people wrote that instantly that they did this intentionally because you were on the track of Brigitte Macron.
 
 Anchored Artifacts: A-2917.3
 Mentions: N-3, N-82

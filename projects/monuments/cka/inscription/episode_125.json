@@ -793,7 +793,7 @@
       "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
-      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
       "related_claims": [
         "C-5856",
@@ -1412,7 +1412,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10681",
       "ref": "N-10681",
-      "name": "Sean Ryan Show Interview Clip Bundle",
+      "name": "Shawn Ryan Show Interview Clip Bundle",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -2770,7 +2770,7 @@
       "tags": [],
       "claim_timestamp": "00:32:32",
       "investigative_direction": "NCRI board listings from the report date and Moore's business history with Kolvet (the Kairos Company).",
-      "transcript_snippet": "Charlie didn't care that the NCRI had Johnny Moore on their board, Andrew Kolb's old partner Johnny Moore on the board of NCRI when the Crisis King report was published.",
+      "transcript_snippet": "Charlie didn't care that the NCRI had Johnny Moore on their board, Andrew Kolvet's old partner Johnny Moore on the board of NCRI when the Crisis King report was published.",
       "mentions_person_refs": [
         "N-443",
         "N-14",
@@ -2816,7 +2816,7 @@
       "tags": [],
       "claim_timestamp": "00:32:32",
       "investigative_direction": "Kolvet's posts and broadcasts sharing the NCRI report, with timestamps.",
-      "transcript_snippet": "I'm sure, even though Andrew Kolb was pushing this report, that he had no idea it was coming up.",
+      "transcript_snippet": "I'm sure, even though Andrew Kolvet was pushing this report, that he had no idea it was coming up.",
       "supports_claim_refs": [
         "C-3026"
       ],
@@ -2829,7 +2829,7 @@
       "@id": "C-5897",
       "ref": "C-5897",
       "label": "Host Says Many Media Groups, Including Politico, Asked Her to Comment on the NCRI Report",
-      "claim": "The host says many media groups reached out for comment on the NCRI report while she was away, including Politico, which asked about the report's point that her calling Erika Kirk a psychopath on the Sean Ryan show leads people to want to kill Erika.",
+      "claim": "The host says many media groups reached out for comment on the NCRI report while she was away, including Politico, which asked about the report's point that her calling Erika Kirk a psychopath on the Shawn Ryan show leads people to want to kill Erika.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10815",
@@ -2837,7 +2837,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:25",
-      "investigative_direction": "The press inquiries received by the host's team and the NCRI report passage on the Sean Ryan interview.",
+      "investigative_direction": "The press inquiries received by the host's team and the NCRI report passage on the Shawn Ryan interview.",
       "transcript_snippet": "I got all of these emails, it wasn't just them, but tons of organizations while I was on I mean tons of media groups were reaching out asking me to comment on this.",
       "mentions_person_refs": [
         "N-3",
@@ -2924,7 +2924,7 @@
       "tags": [],
       "claim_timestamp": "00:39:37",
       "investigative_direction": "The host's earlier on-air statements naming Kolvet as source, compared with this account.",
-      "transcript_snippet": "I have maintained, I think since September, it might be October. I haven't changed my story once. That Andrew Kolb called me and he told me about the happenings.",
+      "transcript_snippet": "I have maintained, I think since September, it might be October. I haven't changed my story once. That Andrew Kolvet called me and he told me about the happenings.",
       "supports_claim_refs": [
         "C-1562"
       ],
@@ -2969,7 +2969,7 @@
       "tags": [],
       "claim_timestamp": "00:39:37",
       "investigative_direction": "Direct confirmation or denial from Kolvet, Erika Kirk and others present at the Hamptons gathering.",
-      "transcript_snippet": "that's not what Andrew Kolb told me. He He me that BB offered to take Turning Point to the next level.",
+      "transcript_snippet": "that's not what Andrew Kolvet told me. He He me that BB offered to take Turning Point to the next level.",
       "supports_claim_refs": [
         "C-1562",
         "C-1819",
@@ -3403,7 +3403,7 @@
           "episode": 125,
           "video_timestamp": "00:39:37",
           "speaker_node_ref": "N-3",
-          "quote": "Andrew Kolb during his crash out",
+          "quote": "Andrew Kolvet during his crash out",
           "context": "Host says Kolvet's tweet during his crash out conceded the Netanyahu call.",
           "confidence": "high",
           "tags": [

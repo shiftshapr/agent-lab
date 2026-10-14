@@ -12,10 +12,9 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-778, N-780, N-781, N-11128, N-11131, N-11132, N-11133
-  - Hole-minted Nodes (reintro-ep075): N-10539
   - Tip-minted Nodes (reintro-ep075): N-11072
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-119, N-203, N-215, N-274, N-302, N-560, N-680, N-10000, N-10063, N-10113, N-10209, N-10324, N-10403, N-10406, N-10414, N-10415, N-10436, N-10447, N-10451, N-10505, N-10694, N-10905, N-10962, N-10968, N-11130, N-779, N-11129
+  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-119, N-203, N-215, N-274, N-302, N-560, N-680, N-10000, N-10063, N-10113, N-10209, N-10324, N-10403, N-10406, N-10414, N-10415, N-10436, N-10447, N-10451, N-10505, N-10694, N-10905, N-10962, N-10968, N-11130, N-779, N-11129, N-10539
   - Claim Range (supplement_2026-10b): C-7053–C-7142
   - Hole-minted Nodes (wave1): N-328
   - Hole-minted Nodes (w2_1-ep75): N-10856, N-10857, N-10858
@@ -734,7 +733,7 @@ First named by the host at 00:13:52 in episode 75. Occultist the host says wrote
 
 **N-215** Jesse Watters
 
-First named by the host at 00:23:52 in episode 75 (spelled Jesse Waters). Fox News host to whom the host says Erika Kirk said she had zero fear.
+First named by the host at 00:23:52 in episode 75 (spelled Jesse Watters). Fox News host to whom the host says Erika Kirk said she had zero fear.
 
 *Related: C-7094*
 
@@ -1710,13 +1709,13 @@ Investigative Direction: Ask TPUSA staff and check dated posts or reports of Eri
 
 ---
 
-**C-7094** Host Says Erika Told Jesse Waters She Had Zero Fear
+**C-7094** Host Says Erika Told Jesse Watters She Had Zero Fear
 
 Claim Timestamp: 00:23:52
 
 Claim: The host says Erika Kirk told Jesse Watters that she had zero fear and was not scared to walk out the door the next day with her kids in tow.
 
-Transcript Snippet: she told Jesse Waters that she had zero fear. None at all.
+Transcript Snippet: she told Jesse Watters that she had zero fear. None at all.
 
 Anchored Artifacts: 
 

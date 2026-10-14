@@ -236,7 +236,7 @@
           "@type": "Artifact",
           "@id": "A-1649.1",
           "ref": "A-1649.1",
-          "description": "Andrew Kovat interview clip played on air (with Gary), explaining the drone situation, stating Frank Turk saw a wide-angle shot from a second-floor walkway taken by the events team, not drone footage",
+          "description": "Andrew Kolvet interview clip played on air (with Gary), explaining the drone situation, stating Frank Turek saw a wide-angle shot from a second-floor walkway taken by the events team, not drone footage",
           "related_claims": [
             "C-2141"
           ],
@@ -255,7 +255,7 @@
           "@type": "Artifact",
           "@id": "A-1649.2",
           "ref": "A-1649.2",
-          "description": "Wide-angle shot image displayed on screen, presented by Andrew Kovat as the photo Frank Turk mistook for drone footage (described as \"a walkway or a bridge elevated\" second-floor view)",
+          "description": "Wide-angle shot image displayed on screen, presented by Andrew Kolvet as the photo Frank Turek mistook for drone footage (described as \"a walkway or a bridge elevated\" second-floor view)",
           "related_claims": [
             "C-2141"
           ],
@@ -918,7 +918,7 @@
       "ref": "N-10427",
       "name": "TPUSA Drone Story Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent target reconciling the conflicting TPUSA-affiliated statements about drone activity on September 10: Frank Turk (drone footage with Charlie), Andrew Kovat (wide-angle shot, not drone), and the cease-and-desist letter (media production drone for B-roll, but no security drones).",
+      "description": "Persistent target reconciling the conflicting TPUSA-affiliated statements about drone activity on September 10: Frank Turek (drone footage with Charlie), Andrew Kolvet (wide-angle shot, not drone), and the cease-and-desist letter (media production drone for B-roll, but no security drones).",
       "related_artifacts": [
         "A-1648.1",
         "A-1649.1",
@@ -1408,7 +1408,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:28:10",
-      "investigative_direction": "Reconcile this letter content with Andrew Kovat's earlier statement (A-1649.1) and Frank Turk's earlier statement regarding drone footage viewed with Charlie Kirk."
+      "investigative_direction": "Reconcile this letter content with Andrew Kolvet's earlier statement (A-1649.1) and Frank Turek's earlier statement regarding drone footage viewed with Charlie Kirk."
     },
     {
       "@type": "Claim",

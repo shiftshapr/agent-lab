@@ -83,7 +83,7 @@ And they made the studio bet bigger. Pendragon cycle, an Arthurian fantasy serie
 
 [11:30]
 
-Daily Wire converted its biggest distribution asset into its largest competitor. Early 2025, co-founder Jeremy Boring stepped down as co-CEO and launched a solo podcast outside of the company that he co-founded. Bentkey was shuttered the same year, entire team cut. Then the audience math hit Shapiro himself, 170 million monthly YouTube views in late 2023 to roughly 22 million in early 2026. An 85% collapse in 18 months. Another 60,000 subscribers gone in the last 90 days alone. Layoff Hedge. com estimates cumulative workforce reduction above 60% over the past year. Tucker Carlson left Fox in 2023. He kept his audience. He runs his shop with a fraction of the headcount. Megyn Kelly's network drew 138 million YouTube views in February alone. The personalities figured out that they don't need the platform. The platform discovered the opposite.
+Daily Wire converted its biggest distribution asset into its largest competitor. Early 2025, co-founder Jeremy Boreing stepped down as co-CEO and launched a solo podcast outside of the company that he co-founded. Bentkey was shuttered the same year, entire team cut. Then the audience math hit Shapiro himself, 170 million monthly YouTube views in late 2023 to roughly 22 million in early 2026. An 85% collapse in 18 months. Another 60,000 subscribers gone in the last 90 days alone. Layoff Hedge. com estimates cumulative workforce reduction above 60% over the past year. Tucker Carlson left Fox in 2023. He kept his audience. He runs his shop with a fraction of the headcount. Megyn Kelly's network drew 138 million YouTube views in February alone. The personalities figured out that they don't need the platform. The platform discovered the opposite.
 
 [12:25]
 
@@ -131,7 +131,7 @@ But Peter was not Judas. We are naturally as human human beings averse to the sp
 
 [21:19]
 
-But on his Friday show, when most were expecting him to deliver maybe an impassioned an impassioned message, um one laced with humility regarding the layoffs, perhaps thanking the many people who moved their entire families in Asheville to support his company and now find themselves without a job, you think like that oh I mean hey I wanted to let you guys know this personally from me, like this is what's going on. We thank people so much. No, of course he does not have the courage to do that. Right? Calls Megan Kelly a coward. But what did Megan what did what did Ben do instead of addressing his employees? Instead, he made his show about me. Signaling that he wants his tribe to now begin targeting my money, of course.
+But on his Friday show, when most were expecting him to deliver maybe an impassioned an impassioned message, um one laced with humility regarding the layoffs, perhaps thanking the many people who moved their entire families in Asheville to support his company and now find themselves without a job, you think like that oh I mean hey I wanted to let you guys know this personally from me, like this is what's going on. We thank people so much. No, of course he does not have the courage to do that. Right? Calls Megyn Kelly a coward. But what did Megan what did what did Ben do instead of addressing his employees? Instead, he made his show about me. Signaling that he wants his tribe to now begin targeting my money, of course.
 
 [22:03]
 
@@ -251,7 +251,7 @@ We make mistakes. We make We do our best to correct those mistakes. And so the n
 
 [48:19]
 
-Uh Rigobert writes, "I'm going to petition my congressman to propose legislation to condemn anti-Candace Candace-semitism." Thank you. Candace-semitism is the worst. Anti- anti-Candace-semitism makes me sick. Um and yeah, that was wild. Like even that But that was all on my birthday. It was so weird, and it just it it was very Daily Wire coded cuz last time when they like sent it was like on Jeremy Boring's birthday. And by the way, he cannot be removed from the disaster that it is. Like the reason they got into debt, he was just like maniacal. He stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into the talent. It was we couldn't get answers. It was like Jeremy's filming.
+Uh Rigobert writes, "I'm going to petition my congressman to propose legislation to condemn anti-Candace Candace-semitism." Thank you. Candace-semitism is the worst. Anti- anti-Candace-semitism makes me sick. Um and yeah, that was wild. Like even that But that was all on my birthday. It was so weird, and it just it it was very Daily Wire coded cuz last time when they like sent it was like on Jeremy Boreing's birthday. And by the way, he cannot be removed from the disaster that it is. Like the reason they got into debt, he was just like maniacal. He stopped focusing on the talent and just started focusing on himself and thinking that he was the product and um very little investment actually went into the talent. It was we couldn't get answers. It was like Jeremy's filming.
 
 [49:01]
 
@@ -283,7 +283,7 @@ Congratulations. I know that settlement means like the case is over. And yes, th
 
 [55:14]
 
-What was the lawyer who was who savaged? I loved that. I loved that he just dropped the receipts. Brian Friedman, congratulations to you. Also to Melissa Nathan and the people that were the PR team that were a part of that as well who they tried to destroy for just representing their client. It was We needed that win. It was a couple of years long and you guys no doubt made out on top. And even if you had actually lost because of some corrupt judge which I didn't think was going to happen because the whole world is paying attention. And that is the importance of the whole world's paying attention when corruption is happening. It's why I'm saying all eyes on the Charlie Kirk situation because when this many of us are looking things change. All eyes on whatever the hell is going on at the Dhillon Law Group.
+What was the lawyer who was who savaged? I loved that. I loved that he just dropped the receipts. Bryan Freedman, congratulations to you. Also to Melissa Nathan and the people that were the PR team that were a part of that as well who they tried to destroy for just representing their client. It was We needed that win. It was a couple of years long and you guys no doubt made out on top. And even if you had actually lost because of some corrupt judge which I didn't think was going to happen because the whole world is paying attention. And that is the importance of the whole world's paying attention when corruption is happening. It's why I'm saying all eyes on the Charlie Kirk situation because when this many of us are looking things change. All eyes on whatever the hell is going on at the Dhillon Law Group.
 
 [56:03]
 

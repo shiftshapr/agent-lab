@@ -179,7 +179,7 @@ Confidence Level: High (read aloud)
 
 *Related: N-10782, N-2*
 
-**A-2253.2** Comment: "Blake Nef's anger single-handedly makes the entire TPUSA look completely guilty."
+**A-2253.2** Comment: "Blake Neff's anger single-handedly makes the entire TPUSA look completely guilty."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -553,7 +553,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10091** Dr. Frank Turk Suspicion
+**N-10091** Dr. Frank Turek Suspicion
 
 Existing node reused for new claims in this episode.
 
@@ -1459,13 +1459,13 @@ Investigative Direction: Compare the charging documents and the surrender timeli
 
 ---
 
-**C-9094** Host Says Kolvet Admitted Bill Aman Did Not Pay $1 Million and the Father Did Not Turn Tyler In
+**C-9094** Host Says Kolvet Admitted Bill Ackman Did Not Pay $1 Million and the Father Did Not Turn Tyler In
 
 Claim Timestamp: 00:05:40
 
-Claim: The host says Bill Aman tweeted he would award the father $1 million, and says she believes Andrew Kolvet admitted that Aman did not give $1 million and that Matt Robinson did not turn his son in.
+Claim: The host says Bill Ackman tweeted he would award the father $1 million, and says she believes Andrew Kolvet admitted that Aman did not give $1 million and that Matt Robinson did not turn his son in.
 
-Transcript Snippet: I believe Andrew Kovette admitted that Bill Aman did not give him $1 million and Matt Robinson, his father did not turn him in.
+Transcript Snippet: I believe Andrew Kolvet admitted that Bill Ackman did not give him $1 million and Matt Robinson, his father did not turn him in.
 
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-14, N-784
@@ -2206,7 +2206,7 @@ Claim Timestamp: 00:43:47
 
 Claim: The host says Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career.
 
-Transcript Snippet: Piers Morgan interviewed Victor Marks and tweeted that it was one of the most bizarre interviews of his career.
+Transcript Snippet: Piers Morgan interviewed Victor Marx and tweeted that it was one of the most bizarre interviews of his career.
 
 Anchored Artifacts: A-2990.1
 Mentions: N-3, N-208, N-345
@@ -2271,7 +2271,7 @@ Claim Timestamp: 00:48:07
 
 Claim: The host says Frank Turek signaled that she should be struck down, using the Bible to do it.
 
-Transcript Snippet: You got Frank Turk hoping you saying signaling that I should be struck down.
+Transcript Snippet: You got Frank Turek hoping you saying signaling that I should be struck down.
 
 Anchored Artifacts: 
 Mentions: N-3, N-7

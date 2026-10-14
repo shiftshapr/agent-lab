@@ -623,7 +623,7 @@ Host notes Theo Von episode released / >1M views; kids call him Uncle Theo.
 
 **N-162** Blake Neff
 
-Commenter analogy "Blake Nef thing" for high-place gaslighting; host agrees pattern.
+Commenter analogy "Blake Neff thing" for high-place gaslighting; host agrees pattern.
 
 *Related: prose comments*
 
@@ -855,7 +855,7 @@ Existing topic reused for the "go home" exit video.
 **C-3680** Jennica Pounds posted anti-Candace DoD-week thread without disclosing hire
 
 Claim Timestamp: 00:01:42
-Claim: The host says Jennica Pounds (data republican), hired by the Department of War as a special government employee around the Tyler Robinson preliminary-hearing week in July, posted a long X thread attacking Candace and her audience's treatment of Erika, reinforcing the NCRI report and a 30-06 deer analogy, without disclosing she was working for DoD; the thread was boosted by Andrew Kolvet and Bill Aman as if organic.
+Claim: The host says Jennica Pounds (data republican), hired by the Department of War as a special government employee around the Tyler Robinson preliminary-hearing week in July, posted a long X thread attacking Candace and her audience's treatment of Erika, reinforcing the NCRI report and a 30-06 deer analogy, without disclosing she was working for DoD; the thread was boosted by Andrew Kolvet and Bill Ackman as if organic.
 Anchored Artifacts: A-2497.1
 Mentions: N-285, N-3, N-2, N-14, N-37, N-40
 Related Nodes: N-10885, N-10888, N-10815
@@ -863,13 +863,13 @@ Investigative Direction: Archive the thread + employment paperwork dates; compar
 
 ---
 
-**C-3775** Bill Ackman is the 'Bill Aman' who boosted the thread in C-3680 (revises C-3680)
+**C-3775** Bill Ackman is the 'Bill Ackman' who boosted the thread in C-3680 (revises C-3680)
 
 Claim Timestamp: 00:01:42
 
-Claim: C-3680 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-37): the host says Jennica Pounds' thread was instantly boosted by Andrew Kolvet and Bill Ackman as if they had casually come across it.
+Claim: C-3680 spells the name 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37): the host says Jennica Pounds' thread was instantly boosted by Andrew Kolvet and Bill Ackman as if they had casually come across it.
 
-Transcript Snippet: her thread was instantly boosted by the likes of Andrew Kovette and Bill Aman pretending to have casually stumbled upon it.
+Transcript Snippet: her thread was instantly boosted by the likes of Andrew Kolvet and Bill Ackman pretending to have casually stumbled upon it.
 
 Anchored Artifacts: A-2497.1
 Mentions: N-37, N-14, N-285
@@ -1053,7 +1053,7 @@ Notes: Conspiracy Girly is existing M-21 (first_episode 55); this episode is an 
 **C-3696** Host restates Las Vegas Hughes-Adelson-Wynn-Patel money syndicate framing
 
 Claim Timestamp: 00:45:09
-Claim: Overlaying prior Mormon Mafia / Howard Hughes coverage, the host ties Blake Wynn's Erika Google Drive, Bill Aman's Hughes Inc board seat, Kash Patel's Las Vegas roots, and Miriam Adelson ("Medson") presidency-purchase jab into a Vegas syndicate with money for million-dollar anti-Candace / pro-Erika campaigns.
+Claim: Overlaying prior Mormon Mafia / Howard Hughes coverage, the host ties Blake Wynn's Erika Google Drive, Bill Ackman's Hughes Inc board seat, Kash Patel's Las Vegas roots, and Miriam Adelson ("Medson") presidency-purchase jab into a Vegas syndicate with money for million-dollar anti-Candace / pro-Erika campaigns.
 Anchored Artifacts: A-2500.1
 Mentions: N-356, N-37, N-69, N-302, N-357
 Related Nodes: N-10887, N-10249, N-10744, N-10882
@@ -1061,13 +1061,13 @@ Investigative Direction: Map corporate ownership links among Enclave, Hughes rem
 
 ---
 
-**C-3776** Bill Ackman is the 'Bill Aman' on the Howard Hughes board in C-3696 (revises C-3696)
+**C-3776** Bill Ackman is the 'Bill Ackman' on the Howard Hughes board in C-3696 (revises C-3696)
 
 Claim Timestamp: 00:46:30
 
-Claim: C-3696 spells the name 'Bill Aman' (auto-caption form). The person is Bill Ackman (N-37): the host ties Bill Ackman's seat on the board of Howard Hughes Inc. into her Las Vegas money-syndicate framing.
+Claim: C-3696 spells the name 'Bill Ackman' (auto-caption form). The person is Bill Ackman (N-37): the host ties Bill Ackman's seat on the board of Howard Hughes Inc. into her Las Vegas money-syndicate framing.
 
-Transcript Snippet: You had I told you Bill Aman who was on the board of Howard Hughes Inc. today.
+Transcript Snippet: You had I told you Bill Ackman who was on the board of Howard Hughes Inc. today.
 
 Anchored Artifacts: A-2500.1
 Mentions: N-37, N-69
@@ -1678,9 +1678,9 @@ Investigative Direction: Check whether Trump and Vance appear in the Atlantic ar
 
 Claim Timestamp: 00:46:00
 
-Claim: The host says that after Howard Hughes' company was chopped up, an Adelson (transcribed Adlesen) got a piece and the Wynn family took over the hotel he lived in.
+Claim: The host says that after Howard Hughes' company was chopped up, an Adelson (transcribed Adelson) got a piece and the Wynn family took over the hotel he lived in.
 
-Transcript Snippet: after his company got chopped up. Adlesen got a piece. The Wind family got a piece.
+Transcript Snippet: after his company got chopped up. Adelson got a piece. The Wind family got a piece.
 
 Anchored Artifacts:
 Mentions: N-750

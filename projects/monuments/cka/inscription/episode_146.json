@@ -275,7 +275,7 @@
           "@type": "Artifact",
           "@id": "A-2326.3",
           "ref": "A-2326.3",
-          "description": "Footage of Andrew Kovat walking into the courthouse",
+          "description": "Footage of Andrew Kolvet walking into the courthouse",
           "related_claims": [
             "C-3356"
           ],
@@ -971,9 +971,9 @@
       "@type": "Person",
       "@id": "N-118",
       "ref": "N-118",
-      "name": "Marissa Strait",
+      "name": "Marissa Streit",
       "type": "person",
-      "description": "Marissa Strait; PragerU CEO the host says introduced her to Jack Hibbs.",
+      "description": "Marissa Streit; PragerU CEO the host says introduced her to Jack Hibbs.",
       "related_artifacts": [],
       "related_claims": [
         "C-7611",
@@ -1998,8 +1998,8 @@
       "@type": "Claim",
       "@id": "C-3356",
       "ref": "C-3356",
-      "label": "Erika Kirk, Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kovat, and Pastor James Cadis were present at the courthouse on the decision day",
-      "claim": "Courthouse footage captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kovat, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision; Erika Kirk was present but not captured on camera.",
+      "label": "Erika Kirk, Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis were present at the courthouse on the decision day",
+      "claim": "Courthouse footage captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis arriving at the courthouse for Judge Graph's decision; Erika Kirk was present but not captured on camera.",
       "anchored_artifacts": [
         "A-2326.1",
         "A-2326.2",
@@ -2300,8 +2300,8 @@
       "@type": "Claim",
       "@id": "C-7611",
       "ref": "C-7611",
-      "label": "Host Says She First Heard of Jack Hibbs From Marissa Strait, Who Suggested Him as a Guest",
-      "claim": "The host says she first heard of Pastor Jack Hibbs from Marissa Strait, whom she calls the MSAD agent turned PragerU CEO, who suggested she have him on her podcast; the host does not think it ever happened.",
+      "label": "Host Says She First Heard of Jack Hibbs From Marissa Streit, Who Suggested Him as a Guest",
+      "claim": "The host says she first heard of Pastor Jack Hibbs from Marissa Streit, whom she calls the MSAD agent turned PragerU CEO, who suggested she have him on her podcast; the host does not think it ever happened.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10131",
@@ -2323,8 +2323,8 @@
       "@type": "Claim",
       "@id": "C-7612",
       "ref": "C-7612",
-      "label": "Host Says Marissa Strait Was in Unit 8200 and Has Not Hidden It",
-      "claim": "The host says Marissa Strait served in Unit 8200 and has never hidden that fact, and calls her an MSAD agent (the transcript's spelling of Mossad).",
+      "label": "Host Says Marissa Streit Was in Unit 8200 and Has Not Hidden It",
+      "claim": "The host says Marissa Streit served in Unit 8200 and has never hidden that fact, and calls her an MSAD agent (the transcript's spelling of Mossad).",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10131",
@@ -2724,7 +2724,7 @@
       ],
       "claim_timestamp": "00:13:30",
       "investigative_direction": "Reconcile Jack Hibbs' phone log against the two accounts to fix the order of the Butch and Turek calls.",
-      "transcript_snippet": "it remains somewhat unclear to me whether Jack spoke to his brother Butch before or after he has a FaceTime session with Frank Turk from the hospital.",
+      "transcript_snippet": "it remains somewhat unclear to me whether Jack spoke to his brother Butch before or after he has a FaceTime session with Frank Turek from the hospital.",
       "mentions_person_refs": [
         "N-212",
         "N-250",
@@ -2748,7 +2748,7 @@
       ],
       "claim_timestamp": "00:13:30",
       "investigative_direction": "Match the FaceTime log with hospital arrival timing and hospital visitor and phone-use policies.",
-      "transcript_snippet": "Yes, Frank Turk manages to FaceTime Jack from Tempanogus.",
+      "transcript_snippet": "Yes, Frank Turek manages to FaceTime Jack from Tempanogus.",
       "supports_claim_refs": [
         "C-4628"
       ],
@@ -3384,8 +3384,8 @@
       "@type": "Claim",
       "@id": "C-7657",
       "ref": "C-7657",
-      "label": "Host Says Lance Twigs Could Submit Video Testimony Without Cross-Examination by the Defense",
-      "claim": "The host says it is permitted for Lance Twigs to submit video testimony and that the defense is not able to cross-examine him.",
+      "label": "Host Says Lance Twiggs Could Submit Video Testimony Without Cross-Examination by the Defense",
+      "claim": "The host says it is permitted for Lance Twiggs to submit video testimony and that the defense is not able to cross-examine him.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10679",
@@ -3396,7 +3396,7 @@
       ],
       "claim_timestamp": "00:31:24",
       "investigative_direction": "Review the hearing record on Lance Twiggs' video testimony and any defense cross-exam rulings.",
-      "transcript_snippet": "perfectly acceptable under Utah's constitution for Lance Twigs to submit a video testimony. The prosecution uh sorry, the defense is not able to cross-examine him",
+      "transcript_snippet": "perfectly acceptable under Utah's constitution for Lance Twiggs to submit a video testimony. The prosecution uh sorry, the defense is not able to cross-examine him",
       "mentions_person_refs": [
         "N-54",
         "N-40"

@@ -381,7 +381,7 @@
           "@type": "Artifact",
           "@id": "A-3086.3",
           "ref": "A-3086.3",
-          "description": "Viewer comment read aloud about Erika's media tour with Fox, Barry Weiss and Glenn Beck",
+          "description": "Viewer comment read aloud about Erika's media tour with Fox, Bari Weiss and Glenn Beck",
           "related_claims": [
             "C-10583"
           ],
@@ -1215,7 +1215,7 @@
       "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
-      "description": "TPUSA staffer riding in the Denali (transcribed Blake Nef).",
+      "description": "TPUSA staffer riding in the Denali (transcribed Blake Neff).",
       "related_artifacts": [],
       "related_claims": [
         "C-10535"
@@ -1340,7 +1340,7 @@
       "ref": "N-282",
       "name": "Bari Weiss",
       "type": "person",
-      "description": "Interviewer on Erika's media tour (transcribed Barry Weiss).",
+      "description": "Interviewer on Erika's media tour (transcribed Bari Weiss).",
       "related_artifacts": [],
       "related_claims": [
         "C-10583"
@@ -1461,7 +1461,7 @@
       "ref": "N-37",
       "name": "Bill Ackman",
       "type": "person",
-      "description": "Financier whose money's origin Carlson asked about (transcribed Bill Aman).",
+      "description": "Financier whose money's origin Carlson asked about (transcribed Bill Ackman).",
       "related_artifacts": [],
       "related_claims": [
         "C-10544"
@@ -1548,7 +1548,7 @@
       "ref": "N-456",
       "name": "Greg Laurie",
       "type": "person",
-      "description": "Pastor the host says headlined the first post-Charlie tour paperwork (transcribed Greg Lori).",
+      "description": "Pastor the host says headlined the first post-Charlie tour paperwork (transcribed Greg Laurie).",
       "related_artifacts": [],
       "related_claims": [
         "C-10503",
@@ -2425,7 +2425,7 @@
       "@id": "C-10503",
       "ref": "C-10503",
       "label": "Host Says Erika Put Pastor Greg Laurie on the Headlining Paperwork of the First Post-Charlie Tour",
-      "claim": "The host says that immediately after Charlie died, Erika had Pastor Greg Laurie (transcribed Greg Lori) on the headlining paperwork for the first tour, the Make Heaven Crowded tour.",
+      "claim": "The host says that immediately after Charlie died, Erika had Pastor Greg Laurie (transcribed Greg Laurie) on the headlining paperwork for the first tour, the Make Heaven Crowded tour.",
       "anchored_artifacts": [
         "A-2382.1"
       ],
@@ -2437,7 +2437,7 @@
       ],
       "claim_timestamp": "00:03:34",
       "investigative_direction": "Obtain the Make Heaven Crowded tour lineup and event paperwork and confirm Laurie's billing.",
-      "transcript_snippet": "Pastor Greg Lori immediately after Charlie passed, the first tour that they did, Make Heaven Crowded tour kind of sounds like a threat, but Erika had him on on the headlining paperwork, right?",
+      "transcript_snippet": "Pastor Greg Laurie immediately after Charlie passed, the first tour that they did, Make Heaven Crowded tour kind of sounds like a threat, but Erika had him on on the headlining paperwork, right?",
       "mentions_person_refs": [
         "N-456",
         "N-2"
@@ -3132,7 +3132,7 @@
       ],
       "claim_timestamp": "00:19:29",
       "investigative_direction": "Identify vehicle occupants and seating via the footage, driver records and the transport timeline.",
-      "transcript_snippet": "they're standing behind the SUV that uh Blake Nef and being Uber driven by Danny Phillip.",
+      "transcript_snippet": "they're standing behind the SUV that uh Blake Neff and being Uber driven by Danny Phillip.",
       "supports_claim_refs": [
         "C-3452"
       ],
@@ -3338,7 +3338,7 @@
       ],
       "claim_timestamp": "00:24:09",
       "investigative_direction": "Obtain the July 11 conference video and transcript of Carlson's remarks.",
-      "transcript_snippet": "Um he was speaking about Jeffrey Epste. He was asking where Bill Aman's money came from.",
+      "transcript_snippet": "Um he was speaking about Jeffrey Epste. He was asking where Bill Ackman's money came from.",
       "supports_claim_refs": [
         "C-1559"
       ],
@@ -4104,7 +4104,7 @@
       "@id": "C-10583",
       "ref": "C-10583",
       "label": "Host Says Erika's Media Tour Was Entirely About Debunking Her and Responded to Things She Said",
-      "claim": "The host agrees with a comment that Erika went on a media tour with Fox, Barry Weiss and Glenn Beck to paint her as a liar, saying the tour was about debunking her and directly responded to things she had said on the podcast, not things she said about Erika.",
+      "claim": "The host agrees with a comment that Erika went on a media tour with Fox, Bari Weiss and Glenn Beck to paint her as a liar, saying the tour was about debunking her and directly responded to things she had said on the podcast, not things she said about Erika.",
       "anchored_artifacts": [
         "A-3086.3"
       ],

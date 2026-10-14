@@ -12,17 +12,17 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-765, N-766, N-767, N-768, N-769, N-770, N-771, N-772, N-11106
-  - Hole-minted Nodes (reintro-ep031): N-281, N-302, N-587, N-10252, N-10264, N-10465, N-10818
+  - Hole-minted Nodes (reintro-ep031): N-281, N-587, N-10252, N-10264, N-10465, N-10818
   - Tip-minted Nodes (reintro-ep031): N-621, N-721, N-10916, N-10989
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6597–C-6676
   - New Nodes Introduced: N-253, N-10246, N-10247
-  - Reused Nodes Appearing: N-5, N-9, N-27, N-36, N-40, N-46, N-82, N-85, N-98, N-194, N-209, N-212, N-231, N-250, N-251, N-10000, N-10004, N-10107, N-10139, N-10166, N-10193, N-10209, N-10245, N-10253, N-10324, N-10398, N-10251, N-10270, N-10406, N-10434, N-383, N-10268, N-10817
+  - Reused Nodes Appearing: N-5, N-9, N-27, N-36, N-40, N-46, N-82, N-85, N-98, N-194, N-209, N-212, N-231, N-250, N-251, N-10000, N-10004, N-10107, N-10139, N-10166, N-10193, N-10209, N-10245, N-10253, N-10324, N-10398, N-10251, N-10270, N-10406, N-10434, N-383, N-10268, N-10817, N-302
   - (see registers)
 
 ## 2. Executive Summary
 
-Episode 31 advances two principal evidentiary threads: (1) a documentary case linking Rob McCoy and the Calvary Chapel network to the post-conviction rehabilitation and child-access placement of Thomas Michael Camino (a 1995 California sex-offense convict), and (2) public-comment follow-up from the prior episode. The Camino thread is anchored by a 1995 LA Times article read on air, an email from a victim, and audio clips from a podcast appearance on the "Bryce Eddie show" where McCoy introduces Camino and Camino asserts his innocence. The Frank Turk interview on CBN News is read on air, producing two artifact-backed claims regarding prosecution-process objections and a reference to Detective Jay Warner Wallace.
+Episode 31 advances two principal evidentiary threads: (1) a documentary case linking Rob McCoy and the Calvary Chapel network to the post-conviction rehabilitation and child-access placement of Thomas Michael Camino (a 1995 California sex-offense convict), and (2) public-comment follow-up from the prior episode. The Camino thread is anchored by a 1995 LA Times article read on air, an email from a victim, and audio clips from a podcast appearance on the "Bryce Eddie show" where McCoy introduces Camino and Camino asserts his innocence. The Frank Turek interview on CBN News is read on air, producing two artifact-backed claims regarding prosecution-process objections and a reference to Detective Jay Warner Wallace.
 
 The second half of the episode pivots to rhetorical display of two external media clips: Tucker Carlson refusing to denounce Owens during a foreign-press interview, and Tim Dillon's comedy commentary on Kash Patel's girlfriend. A lengthy YouTube-comment reading segment produces several artifact-backed claims, most notably a commenter alleging security-guard coordination at the Charlie Kirk event and another describing a Calvary Chapel pastor calling for the burning of Bibles depicting Palestine. The episode does not introduce new documentary evidence on the Charlie Kirk assassination timeline itself; instead it advances character-network allegations against the TPUSA Faith organizational sphere.
 
@@ -261,7 +261,7 @@ Confidence Level: High
 
 **A-1391** CBN News Interview Bundle
 
-**A-1391.1** CBN News Interview: Frank Turk on Candace Owens' Investigation
+**A-1391.1** CBN News Interview: Frank Turek on Candace Owens' Investigation
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -355,7 +355,7 @@ Confidence Level: High
 
 **A-1397** Episode 30 Top Comments Bundle (Yesterday's Top 3)
 
-**A-1397.1** Top Comment #1 (Yesterday): "Terra Observer" – Question on Jewish Donor Funding of Christian Organizations; Names "Bob Showman"
+**A-1397.1** Top Comment #1 (Yesterday): "Terra Observer" – Question on Jewish Donor Funding of Christian Organizations; Names "Bob Shillman"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -429,13 +429,13 @@ Confidence Level: High
 
 *Related: C-1692*
 
-**A-1398.5** Today's Comment: "Mint Julip" – Inquiry About Lady Donor Who Yelled at Charlie; Names "Miriam Adlesen"
+**A-1398.5** Today's Comment: "Mint Julip" – Inquiry About Lady Donor Who Yelled at Charlie; Names "Miriam Adelson"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:57:01
 Discovery Timestamp: 00:00:00–00:00:01
-Confidence Level: Medium (Miriam Adlesen spelling preserved; "Adelson" spelling not used by commenter)
+Confidence Level: Medium (Miriam Adelson spelling preserved; "Adelson" spelling not used by commenter)
 
 *Related: N-1*
 
@@ -777,9 +777,8 @@ The host says Bondi called the Epstein matter a Democrat hoax.
 
 ---
 
-**N-98** Bob Shulman
-
-Donor the host names (spelled Bob Showman) when she asks why millions came from one person.
+**N-98** Robert Shillman
+Donor the host names (spelled Bob Shillman) when she asks why millions came from one person.
 
 *Related: C-6666*
 
@@ -1163,11 +1162,11 @@ Dispute between Thomas Camino's podcast account of a false conviction and the 19
 
 ## 5. Claim Register
 
-**C-1682** Frank Turk Stated Candace Is Launching Accusations Without Evidence
+**C-1682** Frank Turek Stated Candace Is Launching Accusations Without Evidence
 
 Claim Timestamp: 00:02:06
 
-Claim: In a CBN News interview aired in the episode, Frank Turk stated that Candace Owens is making suggestions "without evidence" and that "as soon as you start launching accusations" the situation becomes painful for people.
+Claim: In a CBN News interview aired in the episode, Frank Turek stated that Candace Owens is making suggestions "without evidence" and that "as soon as you start launching accusations" the situation becomes painful for people.
 
 Anchored Artifacts: A-1391.1
 Mentions: N-1, N-7, N-3
@@ -1175,15 +1174,15 @@ Investigative Direction: Obtain full CBN News clip and verify exact wording; cro
 
 ---
 
-**C-1683** Frank Turk Invited Jay Warner Wallace onto His Podcast Two Weeks After Kirk's Death
+**C-1683** Frank Turek Invited Jay Warner Wallace onto His Podcast Two Weeks After Kirk's Death
 
 Claim Timestamp: 00:02:06
 
-Claim: In the same CBN News interview, Frank Turk stated he had invited "Detective Jay Warner Wallace" onto his podcast two weeks after "Charlie's martyrdom" to explain how murder prosecutions work.
+Claim: In the same CBN News interview, Frank Turek stated he had invited "Detective Jay Warner Wallace" onto his podcast two weeks after "Charlie's martyrdom" to explain how murder prosecutions work.
 
 Anchored Artifacts: A-1391.1
 Mentions: N-7
-Investigative Direction: Locate and verify Frank Turk's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case.
+Investigative Direction: Locate and verify Frank Turek's podcast and the Wallace episode; cross-reference Wallace's stated expertise against any public statements on the Kirk case.
 
 ---
 
@@ -1422,7 +1421,7 @@ Claim Timestamp: 00:03:56
 
 Claim: The host says she personally invited Frank Turek onto her show because she wants answers, and that she wants to hear from his friends rather than the prosecution.
 
-Transcript Snippet: So, here's what I did. I personally invited Frank Turk onto the show because we legitimately want answers.
+Transcript Snippet: So, here's what I did. I personally invited Frank Turek onto the show because we legitimately want answers.
 
 Anchored Artifacts: 
 Mentions: N-7, N-3
@@ -1485,7 +1484,7 @@ Claim Timestamp: 00:05:19
 
 Claim: The host says she does not think she has ever covered Frank Turek, that he has not really come up in the investigation, and that he has not been caught in any lies.
 
-Transcript Snippet: I don't think we've ever covered Frank Turk. He hasn't really come up in this investigation. He hasn't been caught in any lies certainly.
+Transcript Snippet: I don't think we've ever covered Frank Turek. He hasn't really come up in this investigation. He hasn't been caught in any lies certainly.
 
 Anchored Artifacts: 
 Mentions: N-7, N-3
@@ -2282,7 +2281,7 @@ Claim Timestamp: 00:39:45
 
 Claim: The host presents Megyn Kelly as someone told it was her career or Tucker Carlson, with a so-called friend urging her to distance herself from Carlson, and says Kelly said no.
 
-Transcript Snippet: Uh Megan Kelly, it's your career or it's Tucker Carlson. You decide, right?
+Transcript Snippet: Uh Megyn Kelly, it's your career or it's Tucker Carlson. You decide, right?
 
 Anchored Artifacts: 
 Mentions: N-46, N-22, N-3
@@ -2409,7 +2408,7 @@ Claim Timestamp: 00:49:22
 
 Claim: The host says Tim Dillon is already included in her lawsuit with Brigitte Macron because he and she discussed the Brigitte case and apparently the president of France watches Dillon, so he is drafted in there.
 
-Transcript Snippet: Apparently the president of France watches um Tim Dylan and we talked about the Breij case and so he's drafted in there.
+Transcript Snippet: Apparently the president of France watches um Tim Dillon and we talked about the Breij case and so he's drafted in there.
 
 Anchored Artifacts: 
 Mentions: N-281, N-82, N-3
@@ -2419,13 +2418,13 @@ Investigative Direction: Check the Macron complaint's list of defendants and quo
 
 ---
 
-**C-6666** Host Asks Why Millions of Dollars Came from One Person, Bob Showman
+**C-6666** Host Asks Why Millions of Dollars Came from One Person, Bob Shillman
 
 Claim Timestamp: 00:52:57
 
-Claim: Reading the top comment, the host says it is a good question why millions of dollars came from just one person, whom she names Bob Showman, to fund a Christian organization.
+Claim: Reading the top comment, the host says it is a good question why millions of dollars came from just one person, whom she names Bob Shillman, to fund a Christian organization.
 
-Transcript Snippet: Why millions of dollars from just one person, Bob Showman?
+Transcript Snippet: Why millions of dollars from just one person, Bob Shillman?
 
 Anchored Artifacts: A-1397.1
 Mentions: N-98, N-3

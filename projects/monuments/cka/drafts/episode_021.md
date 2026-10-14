@@ -95,8 +95,8 @@ Confidence: high
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
   - Claim Range: C-1514–C-1526
-  - New Nodes Introduced: N-203, N-10200, N-10202
-  - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-182, N-194, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350
+  - New Nodes Introduced: N-203, N-10200
+  - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-182, N-194, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350, N-10202
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-132
 
 ---
@@ -563,9 +563,8 @@ Named in the host's remarks about Don Jr., Trump and the Maxwell textbook commen
 
 ---
 
-**N-98** Bob Shulman
-
-Donor the host says withdrew 2 million dollars from TPUSA (transcript: Bob Showman).
+**N-98** Robert Shillman
+Donor the host says withdrew 2 million dollars from TPUSA (transcript: Bob Shillman).
 
 *Related: C-6533*
 
@@ -1086,7 +1085,7 @@ Claim Timestamp: 00:29:08
 
 Claim: The host says Alex Clark released an interview with Andrew Kolvet and Erika Kirk days after the memorial in which they said Charlie and Erika were committed evangelicals who liked the smells and bells but not the substance of Catholicism.
 
-Transcript Snippet: Alex Clark released that interview with her and Andrew Kovette and they struggle sessioned through that.
+Transcript Snippet: Alex Clark released that interview with her and Andrew Kolvet and they struggle sessioned through that.
 
 Anchored Artifacts: A-2821.1
 Mentions: N-99, N-14, N-2, N-1
@@ -1130,13 +1129,13 @@ Investigative Direction: Check parish and cemetery records, the funeral program 
 
 ---
 
-**C-6533** Host Says Bob Showman Took $2 Million Away and TPUSA Brought In 70 Million Last Year
+**C-6533** Host Says Bob Shillman Took $2 Million Away and TPUSA Brought In 70 Million Last Year
 
 Claim Timestamp: 00:30:22
 
-Claim: The host says donor Bob Showman took 2 million dollars away from Turning Point USA and that, by her account, the organization brought in 70 million dollars last year, questioning whether the donors Kolvet called a small portion cut the bigger checks.
+Claim: The host says donor Bob Shillman took 2 million dollars away from Turning Point USA and that, by her account, the organization brought in 70 million dollars last year, questioning whether the donors Kolvet called a small portion cut the bigger checks.
 
-Transcript Snippet: Like Bob Showman took $2 million away. That's got to mean something.
+Transcript Snippet: Like Bob Shillman took $2 million away. That's got to mean something.
 
 Anchored Artifacts: 
 Mentions: N-98, N-14
@@ -1431,7 +1430,7 @@ Investigative Direction: Historical assertion recorded as said; see the sources 
 
 - **Artifact verbally referenced but not displayed in full** – **A-1284.1** (the November 24, 2024 Wikipedia citation source article) is described by the host as having been clicked and read, but its text is not displayed or read aloud in the episode. C-1517 depends on the host's characterization of its content.
 
-- **Name uncertainty** – The transcript spells "Susie Wiles" (likely Susie Wiles, Trump's chief of staff), "Kovette" (likely Andrew Kolvet, TPUSA spokesperson), and "Kash Matiel" / "Cash Matiel" (likely Kash Patel). Spellings preserved exactly as transcript presents them.
+- **Name uncertainty** – The transcript spells "Susie Wiles" (likely Susie Wiles, Trump's chief of staff), "Kolvet" (likely Andrew Kolvet, TPUSA spokesperson), and "Kash Matiel" / "Cash Matiel" (likely Kash Patel). Spellings preserved exactly as transcript presents them.
 
 - **Possible transcription error** – "Norman Finkelestein" / "Finkelstein" appears twice with inconsistent spelling; preserved as in source.
 

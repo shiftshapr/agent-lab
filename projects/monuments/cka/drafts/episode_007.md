@@ -15,14 +15,14 @@
 - **Transcript SHA-256**: 05c80b0f23bab3431b8d277251cd2231ddfdd801d28cb34d1e440687aa0c59f5
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (reintro-ep007): N-99, N-10094, N-10110, N-10134, N-10297, N-10341
+  - Hole-minted Nodes (reintro-ep007): N-99, N-10094, N-10110, N-10297, N-10341
   - Tip-minted Nodes (reintro-ep007): N-10900, N-11116
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-10717–C-10770
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
   - Claim Range: C-1228-C-1244, C-3717
-  - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10082, N-10083, N-10084, N-10085, N-10086, N-10087, N-10088, N-10089, N-10090, N-10091
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004, N-72
+  - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10082, N-10083, N-10084, N-10085, N-10086, N-10087, N-10088, N-10090, N-10091
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004, N-72, N-10089, N-10134
 ## 2. Executive Summary
 
 Episode opens with reflection on Erika Kirk's memorial forgiveness speech, then pivots to alleged discrepancies in the official Charlie Kirk shooting narrative. Andrew Kolvet's TPUSA miracle statement, Kash Patel's FBI tweet, and Derek Maxfield's plane-transponder Instagram rebuttal are presented as artifact-anchored contradictions. Host introduces underground-tunnel/pipeline hypothesis beneath UVU and shows footage of rapid repaving. Later segment defends Candace from Laura Loomer's CIA-merch complaint and addresses leaked 2023 Charlie Kirk text messages and the alleged Candace–Charlie falling-out narrative.
@@ -174,10 +174,10 @@ Video Timestamp: 00:54:26–00:54:57
 *Related: C-1243, N-40*
 Transcript Snippet: They said they found it on the roof, even though you don't use a screwdriver to take that rifle apart.
 
-**A-1145.2** Comment expressing suspicion re Dr. Frank Turk
+**A-1145.2** Comment expressing suspicion re Dr. Frank Turek
 Video Timestamp: 00:54:58–00:55:55
 *Related: C-1244, N-7*
-Transcript Snippet: Something about Dr. Frank Turk isn't sitting right with me.
+Transcript Snippet: Something about Dr. Frank Turek isn't sitting right with me.
 
 **A-1145.3** Comment asking whether Jack Posobiec is trustworthy given his Navy intelligence background, read on air and answered by the host
 Video Timestamp: 00:48:31–00:49:57
@@ -426,8 +426,7 @@ Referenced as part of Hamptons group also with Awesome Jew.
 
 ---
 
-**N-98** Bob Shulman
-
+**N-98** Robert Shillman
 Node Type: Person
 Donor alleged to have withdrawn millions from TPUSA.
 
@@ -560,11 +559,11 @@ Viewer claim that screwdriver reportedly found on roof doesn't fit the rifle.
 
 ---
 
-**N-10091** Dr. Frank Turk Suspicion
+**N-10091** Dr. Frank Turek Suspicion
 
 Node Type: Topic
 Topic Kind: verification_thread
-Viewer-raised suspicion about Dr. Frank Turk's memorial speech and possible guilt.
+Viewer-raised suspicion about Dr. Frank Turek's memorial speech and possible guilt.
 
 *Related: A-1145.2, C-1244*
 
@@ -1038,15 +1037,15 @@ Investigative Direction: Identify the rifle model and required disassembly tools
 
 ---
 
-**C-1244** Dr. Frank Turk raised viewer suspicion after memorial speech
+**C-1244** Dr. Frank Turek raised viewer suspicion after memorial speech
 
 Claim Timestamp: 00:54:58
-Claim: A viewer reports persistent unease about Dr. Frank Turk following his memorial speech, citing possible guilt over inaction.
-Transcript Snippet: Something about Dr. Frank Turk isn't sitting right with me.
+Claim: A viewer reports persistent unease about Dr. Frank Turek following his memorial speech, citing possible guilt over inaction.
+Transcript Snippet: Something about Dr. Frank Turek isn't sitting right with me.
 Anchored Artifacts: A-1145.2
 Mentions: N-7
 Related Nodes: N-10091
-Investigative Direction: Obtain the full Frank Turk memorial speech and biographical background.
+Investigative Direction: Obtain the full Frank Turek memorial speech and biographical background.
 
 ---
 
@@ -1941,7 +1940,7 @@ Claim Timestamp: 00:55:31
 
 Claim: The host says Turek gave the speech he wanted to give and that nothing in her research so far has come up about Frank Turek, though many viewers had that feeling after his speech.
 
-Transcript Snippet: He gave the speech that he wanted to give and nothing in my research has come up about thus far has come up about Frank Turk.
+Transcript Snippet: He gave the speech that he wanted to give and nothing in my research has come up about thus far has come up about Frank Turek.
 
 Anchored Artifacts: A-1145.2
 
@@ -2151,13 +2150,13 @@ Investigative Direction: Check Erika Kirk's biography and church affiliation.
 
 ---
 
-**C-10770** Host says Bob Shulman took millions from TPUSA, wanted his name off the building, then reversed
+**C-10770** Host says Bob Shillman took millions from TPUSA, wanted his name off the building, then reversed
 
 Claim Timestamp: 00:59:11
 
-Claim: The host says she was told the donor who took away millions of dollars from Turning Point, wanted his name taken off the building and then did a 180 when Charlie died was Bob Shulman, as she said the week before.
+Claim: The host says she was told the donor who took away millions of dollars from Turning Point, wanted his name taken off the building and then did a 180 when Charlie died was Bob Shillman, as she said the week before.
 
-Transcript Snippet: whether he lost money, which he did. Um I was told that individual was Bob Schman.
+Transcript Snippet: whether he lost money, which he did. Um I was told that individual was Bob Shillman.
 
 Anchored Artifacts:
 

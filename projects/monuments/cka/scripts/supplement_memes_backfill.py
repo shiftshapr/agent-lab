@@ -43,6 +43,8 @@ def main() -> int:
     for k, v in json.loads((CKA / "canonical" / "nodes.json").read_text(encoding="utf-8"))["nodes"].items():
         for nm in [v["canonical_name"], *v.get("aliases", [])]:
             node_by_name.setdefault(si.norm(nm), k)
+    corrections = [(re.compile(r[0]), r[1], set(r[2]) if len(r) > 2 else None) for r in json.loads(
+        (CKA / "config" / "transcript_name_corrections.json").read_text(encoding="utf-8"))["corrections"]]
     total, defs = 0, 0
     for path in sorted(args.supplements.glob("episode_*.md")):
         ep = int(re.search(r"episode_(\d{3})", path.name).group(1))
@@ -74,6 +76,10 @@ def main() -> int:
             return mp[m.group(0)]
 
         msec = re.sub(r"\b(?:C-L\d+|A-L\d+(?:\.\d+)?|N-[PT]\d+|M-N\d+)\b", sub, msec)
+        # Staged text predates apply_name_corrections; correct it too, or a corrected draft's occurrences look new.
+        for rx, rep, eps in corrections:
+            if eps is None or ep in eps:
+                msec = rx.sub(rep, msec)
         before = len(re.findall(r"^### Occurrence \d+", si.section(draft, "meme"), re.M))
         text = si.insert_memes(draft, msec, memes.get)
         added = len(re.findall(r"^### Occurrence \d+", si.section(text, "meme"), re.M)) - before

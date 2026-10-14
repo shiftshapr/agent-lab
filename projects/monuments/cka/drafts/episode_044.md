@@ -11,14 +11,13 @@
 - **Transcript SHA-256**: 4b44fcbfa9593db0051351dbb92918f4843655b202e7f32c7919dca51311b3f6
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-887, N-888, N-11282, N-11283, N-11284, N-11285, N-11286, N-11287, N-11288
+  - Tip-minted Nodes (supplement_2026-10e): N-887, N-888, N-11282, N-11283, N-11284, N-11285, N-11286, N-11288
   - Hole-minted Nodes (reintro-ep044): N-544
-  - Tip-minted Nodes (reintro-ep044): N-11186
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11031–C-11113
   - New Nodes Introduced: N-322, N-323, N-324, N-325, N-326, N-327, N-10326, N-10327, N-10328, N-10329, N-10330, N-10331
   - Tip-minted Nodes (w3-root-brands): N-10902
-  - Reused Nodes Appearing: N-9, N-66, N-69, N-224, N-274, N-316, N-333, N-131, N-10000, N-10026, N-10202, N-10317, N-10325, N-10340, N-10355, N-10397, N-10398, N-10401, N-10436, N-10567, N-11191
+  - Reused Nodes Appearing: N-9, N-66, N-69, N-224, N-274, N-316, N-333, N-131, N-10000, N-10026, N-10202, N-10317, N-10325, N-10340, N-10355, N-10397, N-10398, N-10401, N-10436, N-10567, N-11191, N-11186, N-11287
   - (see registers)
 
 ## 2. Executive Summary
@@ -282,7 +281,7 @@ Investigative Pressure: High
 
 **N-162** Blake Neff
 
-Referenced by host as a potential relative (brother/cousin) of "Captain Nef" (N-323). Host speculates Blake Nef may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.
+Referenced by host as a potential relative (brother/cousin) of "Captain Nef" (N-323). Host speculates Blake Neff may have a military background despite public role as a producer of the Charlie Kirk show. Relationship unverified.
 
 Evidence Count: 0
 Claim Count: 0
@@ -1597,13 +1596,13 @@ Investigative Direction: Compare this host framing with her later 'a lot of coin
 
 ---
 
-**C-11068** Host Wonders Whether Blake Nef Has Military Connections Like Captain Nef
+**C-11068** Host Wonders Whether Blake Neff Has Military Connections Like Captain Nef
 
 Claim Timestamp: 00:25:02
 
-Claim: The host says she had not questioned it until now but it seems possible that Blake Nef has military connections too, as a brother or cousin of the Captain Nef who interrogated Harry, though she had thought of him only as the producer of the Charlie Kirk show.
+Claim: The host says she had not questioned it until now but it seems possible that Blake Neff has military connections too, as a brother or cousin of the Captain Nef who interrogated Harry, though she had thought of him only as the producer of the Charlie Kirk show.
 
-Transcript Snippet: whether or not it's potential that Blake Nef has military connections as well.
+Transcript Snippet: whether or not it's potential that Blake Neff has military connections as well.
 
 Anchored Artifacts: 
 Mentions: N-3, N-162, N-323

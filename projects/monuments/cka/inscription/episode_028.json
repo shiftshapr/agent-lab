@@ -169,7 +169,7 @@
           "@type": "Artifact",
           "@id": "A-1359.1",
           "ref": "A-1359.1",
-          "description": "Audio clip: Jeremy Boring speaking with Nick Fuentes on X Space, hosted by Lauren Chen",
+          "description": "Audio clip: Jeremy Boreing speaking with Nick Fuentes on X Space, hosted by Lauren Chen",
           "related_claims": [
             "C-1640",
             "C-1641"
@@ -452,7 +452,7 @@
       "ref": "N-10237",
       "name": "Shapiro Statement Accuracy Re: Owens' Accusations",
       "type": "investigation_target",
-      "description": "Verification target: whether Ben Shapiro's stage characterization that Candace Owens accused Erika Kirk and Seth Dylan of involvement in Charlie Kirk's murder is accurate. Owens denies the characterization in the same episode.",
+      "description": "Verification target: whether Ben Shapiro's stage characterization that Candace Owens accused Erika Kirk and Seth Dillon of involvement in Charlie Kirk's murder is accurate. Owens denies the characterization in the same episode.",
       "related_artifacts": [
         "A-1356.1",
         "A-1360.1"
@@ -1271,8 +1271,8 @@
       "@type": "Claim",
       "@id": "C-1639",
       "ref": "C-1639",
-      "label": "Shapiro Claims Owens Accused Seth Dylan of Murder Involvement",
-      "claim": "On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing TPUSA insiders, including Seth Dylan, of being involved in Charlie Kirk's murder.",
+      "label": "Shapiro Claims Owens Accused Seth Dillon of Murder Involvement",
+      "claim": "On the Megyn Kelly tour stage, Ben Shapiro stated that Candace Owens is accusing TPUSA insiders, including Seth Dillon, of being involved in Charlie Kirk's murder.",
       "anchored_artifacts": [
         "A-1356.1"
       ],
@@ -1281,7 +1281,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:56–00:10:33",
-      "investigative_direction": "Identify the specific Owens episodes in which she discusses Seth Dylan and assess whether she characterizes him as involved in the killing versus as having lied or pressured Charlie.",
+      "investigative_direction": "Identify the specific Owens episodes in which she discusses Seth Dillon and assess whether she characterizes him as involved in the killing versus as having lied or pressured Charlie.",
       "mentions_person_refs": [
         "N-3",
         "N-1",
@@ -1295,7 +1295,7 @@
       "@id": "C-1640",
       "ref": "C-1640",
       "label": "HuffPost Report: Boring Praised Fuentes on X Space",
-      "claim": "According to the read-aloud HuffPost article, on March 25, 2025, then-Daily Wire CEO Jeremy Boring joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as \"very funny\" and \"one of the most talented political influencers,\" and offered only mild criticism.",
+      "claim": "According to the read-aloud HuffPost article, on March 25, 2025, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as \"very funny\" and \"one of the most talented political influencers,\" and offered only mild criticism.",
       "anchored_artifacts": [
         "A-1358.1",
         "A-1359.1"
@@ -1313,7 +1313,7 @@
       "@id": "C-1641",
       "ref": "C-1641",
       "label": "Boring Invited Fuentes Onto Daily Wire Shows",
-      "claim": "According to the read-aloud HuffPost article and corresponding audio, Jeremy Boring stated on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.",
+      "claim": "According to the read-aloud HuffPost article and corresponding audio, Jeremy Boreing stated on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.",
       "anchored_artifacts": [
         "A-1358.1",
         "A-1359.1"
@@ -1525,7 +1525,7 @@
       ],
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Obtain full video of the Kelly tour stop and compare Shapiro's questions to Kelly with what the host and Carlson actually said.",
-      "transcript_snippet": "I'm going to peer pressure Megan Kelly myself. I'm going to make her disavow me. Make her disavow Candace Owens.",
+      "transcript_snippet": "I'm going to peer pressure Megyn Kelly myself. I'm going to make her disavow me. Make her disavow Candace Owens.",
       "mentions_person_refs": [
         "N-97",
         "N-46",
@@ -1702,7 +1702,7 @@
       "@id": "C-9655",
       "ref": "C-9655",
       "label": "Host Denies Ever Accusing Seth Dillon of Murdering Charlie",
-      "claim": "The host says she never once accused Seth Dylan of murdering Charlie Kirk.",
+      "claim": "The host says she never once accused Seth Dillon of murdering Charlie Kirk.",
       "anchored_artifacts": [
         "A-1356.1"
       ],
@@ -1714,7 +1714,7 @@
       ],
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Search the host's episode transcripts for any statement tying Seth Dillon to the killing, as opposed to the Hamptons pressure claims.",
-      "transcript_snippet": "I never once accused Seth Dylan of murdering Charlie Kirk.",
+      "transcript_snippet": "I never once accused Seth Dillon of murdering Charlie Kirk.",
       "contradicts_claim_refs": [
         "C-1639"
       ],
@@ -1729,7 +1729,7 @@
       "@id": "C-9656",
       "ref": "C-9656",
       "label": "Host Says Dillon Lied About the Hamptons Meeting and Pressured Charlie on Israel",
-      "claim": "The host says that what she actually said about Seth Dylan is that he lied about the Hamptons meeting and was pressuring Charlie Kirk about the topic of Israel.",
+      "claim": "The host says that what she actually said about Seth Dillon is that he lied about the Hamptons meeting and was pressuring Charlie Kirk about the topic of Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10345",
@@ -1740,7 +1740,7 @@
       ],
       "claim_timestamp": "00:10:33",
       "investigative_direction": "Compare Dillon's public statements about the Hamptons meeting with attendee accounts, emails and calendar records of the August 2025 retreat.",
-      "transcript_snippet": "Seth Dylan, I told the truth that Seth Dylan lied about the Hampton's meeting and that he was pushing uh he was pressuring Charlie about the topic of Israel.",
+      "transcript_snippet": "Seth Dillon, I told the truth that Seth Dillon lied about the Hampton's meeting and that he was pushing uh he was pressuring Charlie about the topic of Israel.",
       "supports_claim_refs": [
         "C-1173"
       ],
@@ -1776,7 +1776,7 @@
       "@id": "C-9658",
       "ref": "C-9658",
       "label": "Host Says Boring's X Space Happened the Week She Was Fired",
-      "claim": "The host says Jeremy Boring, then CEO of the Daily Wire, joined an X Space hosted by Lauren Chen during the week she was fired from the Daily Wire.",
+      "claim": "The host says Jeremy Boreing, then CEO of the Daily Wire, joined an X Space hosted by Lauren Chen during the week she was fired from the Daily Wire.",
       "anchored_artifacts": [
         "A-1359.1"
       ],
@@ -1788,7 +1788,7 @@
       ],
       "claim_timestamp": "00:12:33",
       "investigative_direction": "Check the date of the X Space (HuffPost cites March 25) against the date of the host's Daily Wire exit.",
-      "transcript_snippet": "I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boring, jumped onto an Xspace hosted by Lauren Chen",
+      "transcript_snippet": "I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an Xspace hosted by Lauren Chen",
       "supports_claim_refs": [
         "C-1640"
       ],
@@ -2032,7 +2032,7 @@
       "@id": "C-9669",
       "ref": "C-9669",
       "label": "Host Says Fuentes Was Pushed Out of the Market at 18 for Asking About Israel",
-      "claim": "The host says Nick Fuentes was an 18-year-old who started asking questions about Israel and was artificially pushed out of the market, and that she heard the backstory in Jeremy Boring's conversation with Fuentes.",
+      "claim": "The host says Nick Fuentes was an 18-year-old who started asking questions about Israel and was artificially pushed out of the market, and that she heard the backstory in Jeremy Boreing's conversation with Fuentes.",
       "anchored_artifacts": [
         "A-1359.1"
       ],
@@ -2766,7 +2766,7 @@
           "episode": 28,
           "video_timestamp": "00:14:04",
           "speaker_node_ref": "N-3",
-          "quote": "he's now trying to struggle session Megan Kelly",
+          "quote": "he's now trying to struggle session Megyn Kelly",
           "context": "Host's verb for coordinated pressure to make someone disavow or recant.",
           "confidence": "high",
           "tags": [

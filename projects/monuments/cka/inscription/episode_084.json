@@ -633,7 +633,7 @@
       "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
-      "description": "Transcript spelling \"Andrew Kolb\" / \"Andrew Kolvets\". The host theorizes he flew Santa Barbara to Scottsdale and hugged Erika Kirk there; his texts, recorded call, skit comment and Fort Huachuca messaging are cited.",
+      "description": "Transcript spelling \"Andrew Kolvet\" / \"Andrew Kolvets\". The host theorizes he flew Santa Barbara to Scottsdale and hugged Erika Kirk there; his texts, recorded call, skit comment and Fort Huachuca messaging are cited.",
       "related_artifacts": [
         "A-2526.1",
         "A-2526.2",
@@ -835,7 +835,7 @@
       "ref": "N-215",
       "name": "Jesse Watters",
       "type": "person",
-      "description": "Transcript spelling \"Jesse Waters\". His interview with Erika Kirk is contrasted with the New York Times account.",
+      "description": "Transcript spelling \"Jesse Watters\". His interview with Erika Kirk is contrasted with the New York Times account.",
       "related_artifacts": [],
       "related_claims": [
         "C-3808"
@@ -1012,7 +1012,7 @@
       "ref": "N-602",
       "name": "Druski",
       "type": "person",
-      "description": "First named by the host at 00:00:46 in episode 084. Comedian whose viral skit mocking conservative women is played. Aliases: Drewski; Drew Ski; Jurski.",
+      "description": "First named by the host at 00:00:46 in episode 084. Comedian whose viral skit mocking conservative women is played. Aliases: Drewski; Druski; Jurski.",
       "related_artifacts": [
         "A-2533.1",
         "A-2533.3"
@@ -1853,7 +1853,7 @@
       "tags": [],
       "claim_timestamp": "00:05:12",
       "investigative_direction": "Obtain the departure record and passenger manifest for the September 10, 2025 Santa Barbara-to-Scottsdale private flight.",
-      "transcript_snippet": "Andrew Kolb was aboard this flight. I feel very confident stating that.",
+      "transcript_snippet": "Andrew Kolvet was aboard this flight. I feel very confident stating that.",
       "mentions_person_refs": [
         "N-14",
         "N-1"
@@ -1874,7 +1874,7 @@
       "tags": [],
       "claim_timestamp": "00:05:12",
       "investigative_direction": "Produce the original message thread with device timestamps.",
-      "transcript_snippet": "I messaged him at 12:40 Mountain Time, so a little under 20 minutes after Charlie got shot, and I said, \"Please say he's okay.\" And Andrew Kolb replied and said, \"I don't know. Shot for sure.\"",
+      "transcript_snippet": "I messaged him at 12:40 Mountain Time, so a little under 20 minutes after Charlie got shot, and I said, \"Please say he's okay.\" And Andrew Kolvet replied and said, \"I don't know. Shot for sure.\"",
       "mentions_person_refs": [
         "N-3",
         "N-14",
@@ -2379,7 +2379,7 @@
       "tags": [],
       "claim_timestamp": "00:27:22",
       "investigative_direction": "Archive the original skit post with its date and view counts.",
-      "transcript_snippet": "Here is Drew Ski Drew Ski uh mocking conservative women, namely Erika Kirk.",
+      "transcript_snippet": "Here is Druski Druski uh mocking conservative women, namely Erika Kirk.",
       "mentions_person_refs": [
         "N-602",
         "N-2"
@@ -2436,7 +2436,7 @@
       "tags": [],
       "claim_timestamp": "00:30:29",
       "investigative_direction": "Archive Kolvet's comment with its timestamp and the post it replied to.",
-      "transcript_snippet": "the pettiest person who came in, person who was most upset by this, is Andrew Kolb. Look what Andrew Kolb commented. \"Now do conservative black women.\"",
+      "transcript_snippet": "the pettiest person who came in, person who was most upset by this, is Andrew Kolvet. Look what Andrew Kolvet commented. \"Now do conservative black women.\"",
       "mentions_person_refs": [
         "N-14",
         "N-3"
@@ -2764,7 +2764,7 @@
           "episode": 84,
           "video_timestamp": "00:45:40",
           "speaker_node_ref": "N-3",
-          "quote": "Uh UFO writes, \"Andrew Kolb at hahaha.\" Yeah, he's big mad. Go after black conservatives.",
+          "quote": "Uh UFO writes, \"Andrew Kolvet at hahaha.\" Yeah, he's big mad. Go after black conservatives.",
           "context": "Host reprises Big Mad about Andrew Kolvet while reading viewer comments.",
           "confidence": "high",
           "tags": [

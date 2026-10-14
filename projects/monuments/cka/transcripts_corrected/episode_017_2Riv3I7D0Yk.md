@@ -146,7 +146,7 @@ No, of of course not. I mean, it defies common sense. It defies reality. That's 
 
 [25:22]
 
-Uh Michael Knowles, Megan Kelly, they're listing them. That's coming next. Okay? Inevitably, it comes inward. I just want to be clear in case um what he's saying is not registering to you correctly. So, white men, to the extent that you are willing to get out there and work to serve um really his book, sell his book, to serve his interests which are very clearly Israel you're cool. You know, no one's going to call you an anti-Semite. Everything can be cool. Um to the extent that you I don't know, maybe don't want to do that you will be ruined. Matt Gaetz, what was he thinking? It's crazy. Like what on earth was Matt Gaetz thinking? It was great when he was out there pitching Josh Hammer's book and now he can't be saved.
+Uh Michael Knowles, Megyn Kelly, they're listing them. That's coming next. Okay? Inevitably, it comes inward. I just want to be clear in case um what he's saying is not registering to you correctly. So, white men, to the extent that you are willing to get out there and work to serve um really his book, sell his book, to serve his interests which are very clearly Israel you're cool. You know, no one's going to call you an anti-Semite. Everything can be cool. Um to the extent that you I don't know, maybe don't want to do that you will be ruined. Matt Gaetz, what was he thinking? It's crazy. Like what on earth was Matt Gaetz thinking? It was great when he was out there pitching Josh Hammer's book and now he can't be saved.
 
 [26:09]
 

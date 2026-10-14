@@ -16,8 +16,8 @@
   - Tip-minted Nodes (reintro-ep037): N-11191
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9765–C-9829
-  - New Nodes Introduced: N-277, N-278, N-279, N-280, N-282, N-283, N-284, N-10273, N-10275, N-10276, N-10278, N-10279, N-10280, N-10281, N-10282
-  - Reused Nodes Appearing: N-1, N-281, N-7, N-14, N-17, N-22, N-36, N-82, N-126, N-143, N-179, N-199, N-212, N-216, N-250, N-272, N-131, N-10012, N-10031, N-10074, N-10094, N-10098, N-10137, N-10141, N-10151, N-10183, N-10197, N-10244, N-10253, N-10260, N-10265, N-10266, N-10270, N-10284, N-10817, N-11008, N-10274, N-10277, N-10311
+  - New Nodes Introduced: N-277, N-278, N-279, N-280, N-283, N-284, N-10273, N-10275, N-10276, N-10278, N-10279, N-10280, N-10281, N-10282
+  - Reused Nodes Appearing: N-1, N-281, N-7, N-14, N-17, N-22, N-36, N-82, N-126, N-143, N-179, N-199, N-212, N-216, N-250, N-272, N-131, N-10012, N-10031, N-10074, N-10094, N-10098, N-10137, N-10141, N-10151, N-10183, N-10197, N-10244, N-10253, N-10260, N-10265, N-10266, N-10270, N-10284, N-10817, N-11008, N-10274, N-10277, N-10311, N-282
   - (see registers)
 
 # Episode 37 Analysis Record
@@ -27,7 +27,7 @@
 
 This episode develops the "Operation Valhalla" thread of the investigation. The host presents four artifact-anchored components: (1) the Minot Air Force Base website article describing Operation Valhalla Strike, a week-long training exercise conducted August 24–29, 2025 at Camp Ripley by the 891st Missile Security Forces Squadron; (2) an email from a self-identified military member tying BTT's September 4 stopover at Minot, ND to that same exercise; (3) an audio clip of Kash Patel's press conference closing statement invoking "Valhalla" in tribute to Charlie Kirk; and (4) a Prager News Network interview clip in which Charlie Kirk identifies Julius Caesar as his favorite pre-1850 historical figure, with the host drawing a parallel between Caesar's assassination and Kirk's.
 
-The episode also presents side threads with their own artifact anchors: a news clip of Nebraska Secretary of State Bob Evan announcing an October–November Egypt trade mission (alleged to overlap with BTT's movements), a video of Mike Huckabee and David Friedman performing at a Jerusalem event, an article/headline documenting Huckabee's meeting with convicted Israeli spy Jonathan Pollard, a quoted White House briefing statement from press secretary Karoline Leavitt, an email from Free Press writer Ashley Rinzberg requesting comment on several shows, and a Tim Dylan audio clip characterizing Bari Weiss's installation at CBS News as state propaganda delivery.
+The episode also presents side threads with their own artifact anchors: a news clip of Nebraska Secretary of State Bob Evan announcing an October–November Egypt trade mission (alleged to overlap with BTT's movements), a video of Mike Huckabee and David Friedman performing at a Jerusalem event, an article/headline documenting Huckabee's meeting with convicted Israeli spy Jonathan Pollard, a quoted White House briefing statement from press secretary Karoline Leavitt, an email from Free Press writer Ashley Rinzberg requesting comment on several shows, and a Tim Dillon audio clip characterizing Bari Weiss's installation at CBS News as state propaganda delivery.
 
 Structurally, the episode is a connector episode – it does not introduce a new central evidentiary claim, but it does add the Operation Valhalla timeline anchor that places a named military unit's training exercise at T-minus 12 days from the assassination.
 
@@ -278,9 +278,9 @@ Confidence Level: High (email content read verbatim)
 
 ---
 
-**A-1460** Tim Dylan Bari Weiss Commentary Bundle
+**A-1460** Tim Dillon Bari Weiss Commentary Bundle
 
-**A-1460.1** Audio Clip – Tim Dylan on Bari Weiss at CBS News
+**A-1460.1** Audio Clip – Tim Dillon on Bari Weiss at CBS News
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -481,7 +481,7 @@ Investigative Pressure: Low
 
 **N-282** Bari Weiss
 
-Editor-in-chief / CBS News installation (per host and Tim Dylan clip); co-owner of The Free Press.
+Editor-in-chief / CBS News installation (per host and Tim Dillon clip); co-owner of The Free Press.
 
 Evidence Count: 1
 Claim Count: 0
@@ -637,7 +637,7 @@ Investigative Pressure: Low
 
 **N-10282** CBS News
 
-Network where Bari Weiss was installed per Tim Dylan clip.
+Network where Bari Weiss was installed per Tim Dillon clip.
 
 Evidence Count: 1
 Claim Count: 0
@@ -666,7 +666,7 @@ Named by the host among military-connected figures present at the assassination.
 
 **N-14** Andrew Kolvet
 
-Named by the host (transcribed Kulvette) among military-connected figures; brother and cousin said to be captains.
+Named by the host (transcribed Kolvet) among military-connected figures; brother and cousin said to be captains.
 
 *Related: C-9786*
 
@@ -1569,7 +1569,7 @@ Claim Timestamp: 00:15:30
 
 Claim: The host says Andrew Kolvet's brother and his cousin are captains in the military.
 
-Transcript Snippet: Andrew Kulvette, obviously his brother and his cousin are captains in the military. That's a fact.
+Transcript Snippet: Andrew Kolvet, obviously his brother and his cousin are captains in the military. That's a fact.
 
 Anchored Artifacts: 
 Mentions: N-14
@@ -1585,7 +1585,7 @@ Claim Timestamp: 00:15:40
 
 Claim: The host says Frank Turek, who was there for the assassination, is a naval flight officer and that his sons are in the Air Force.
 
-Transcript Snippet: Frank Turk, who was there for the assassination, is a naval flight officer. His sons are in the Air Force. That's a fact.
+Transcript Snippet: Frank Turek, who was there for the assassination, is a naval flight officer. His sons are in the Air Force. That's a fact.
 
 Anchored Artifacts: 
 Mentions: N-7
@@ -1961,7 +1961,7 @@ Claim Timestamp: 00:28:47
 
 Claim: The host says Bari Weiss started and is at least a part owner of The Free Press before going to CBS News, after leaving the New York Times saying it was biased.
 
-Transcript Snippet: Barry Weiss started and is a part owner at least of the free press before before she went on to CBS News.
+Transcript Snippet: Bari Weiss started and is a part owner at least of the free press before before she went on to CBS News.
 
 Anchored Artifacts: 
 Mentions: N-282
@@ -1993,7 +1993,7 @@ Claim Timestamp: 00:31:50
 
 Claim: The host says she made one slight joke mentioning Alexis Wilkins, referring to Tim Dillon's content and a YouTube strike, and that Wilkins went on a rant against her rather than against Dillon.
 
-Transcript Snippet: I make one slight mention joke about Alexis Wilkins, referring to Tim Dylan's content and us getting a strike, and she goes on a rant against me, not against Tim Dylan.
+Transcript Snippet: I make one slight mention joke about Alexis Wilkins, referring to Tim Dillon's content and us getting a strike, and she goes on a rant against me, not against Tim Dillon.
 
 Anchored Artifacts: 
 Mentions: N-216, N-281, N-3
@@ -2008,7 +2008,7 @@ Claim Timestamp: 00:32:20
 
 Claim: The host says that Brigitte Macron's lawsuit mentions Tim Dillon but sues the host rather than him.
 
-Transcript Snippet: Breashit sues me, not Tim Dylan, who she mentions in the lawsuit.
+Transcript Snippet: Breashit sues me, not Tim Dillon, who she mentions in the lawsuit.
 
 Anchored Artifacts: 
 Mentions: N-82, N-281, N-3

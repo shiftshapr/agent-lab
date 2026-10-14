@@ -1,0 +1,27 @@
+# Coverage notes, episode 20
+
+- Existing draft held 24 claims (C-1490 to C-1513), 13 artifact families and 22 node rows. This supplement adds 116 new claims (C-12146 to C-12261), 9 new artifact families, 11 new nodes (4 persons, 7 organizations) and 7 occurrences of existing memes (no new memes).
+- About 20 beats were judged covered: the April 2018 text exchanges, the Cernovich thread, the Kanye tweet and Scott Adams clip, the UK Q and A audio, the Kolvet, Marlow and Turek audio clips, the UVU memo and its 20:08 timing, the Webb clip with Roy Edgar McCoy, the Macron tax form and hacker rebuttal, and the Livingstone copyright strike. C-1510 to C-1513 are placeholder register anchors with no proposition; the supplement states the underlying beats as C-12157, C-12173, C-12201 to C-12206.
+- The five most important beats the earlier pass missed: (1) 00:32:55-00:35:30 the Timpanogos versus Utah Valley routing questions, the missing ambulance, no drive footage, two tipsters, and the alleged system entry with a medical record number, plus the DIA tip request; (2) 00:28:12-00:28:26 the host says the public was lied to about the 306, that she knows for a fact Charlie's neck was not destroyed, and the Kolvet surgeon 'moose' tweet; (3) 00:43:05-00:45:00 the host's point-by-point rebuttal of Kolvet's account of Mikey McCoy (behind not beside Charlie, phone never lowered, ears held too long, account not from Mikey himself); (4) 00:17:12-00:20:26 the host's account of the BuzzFeed-cut Q and A clip, the Wiesenthal statement and the alleged donor pressure campaign; (5) 01:03:39 the comment replies: no hope from the Trump administration, Trump inviting Kash Patel to the Charlie holiday event, Don Jr. and the official narrative, and Miriam Adelson's $100 million and annexation.
+- DIA hits: one real hit at 00:35:30 (more tips email for the medical community), logged as C-12219, A-3195.1 and an M-12 occurrence. Judged not DIA beats: the sponsor reads (PDS Debt at 00:39:39, Comet at 00:59:00) and the 'make a sandwich' and 'Canowwomen' plugs at 01:03:39.
+- Timestamps: the transcript has few [MM:SS] marks (paragraphs of up to 14 minutes), so claim timestamps are interpolated by character position within each paragraph; all comment-section claims sit at the last marker 01:03:39. Treat them as estimates of plus or minus about one minute.
+- Doubts, MISTRANSCRIPTION (snippets and quotes keep the transcript text; correct at source):
+  - MISTRANSCRIPTION: "Kovette" / "Kovet" / "Kovett" / "Kovvet" -> "Kolvet" (Andrew Kolvet N-14; 00:12:34, 00:23:45, 00:28:26, 00:40:20)
+  - MISTRANSCRIPTION: "Frank Turk" -> "Frank Turek" (N-7; 00:23:20, 00:50:32)
+  - MISTRANSCRIPTION: "Alex Marlo" -> "Alex Marlow" (N-195, whose registered name carries the misspelling; 00:46:22)
+  - MISTRANSCRIPTION: "Laya Rose" / "Llaya Rose" -> "Lila Rose" (N-232; 00:26:26)
+  - MISTRANSCRIPTION: "Simon Whisinthal" / "Whisinthaw" / "Weisenthal" -> "Simon Wiesenthal" (00:19:58, 00:21:35)
+  - MISTRANSCRIPTION: "Rathon" -> "Raytheon" (probable; 00:27:52)
+  - MISTRANSCRIPTION: "Andre and Harowitz" -> "Andreessen Horowitz" / Horowitz's son (probable, unverified; 00:11:22)
+  - MISTRANSCRIPTION: "Breijit Mcronone" / "Bridget Mcronone" -> "Brigitte Macron" and "Emanuel Mcronone" -> "Emmanuel Macron" (00:48:00, 00:56:08)
+  - MISTRANSCRIPTION: "Jean Michichelle Trogau" -> "Jean-Michel Trogneux" (probable; 00:57:51)
+  - MISTRANSCRIPTION: "Leaf Ericson" -> "Leif Erikson" (00:29:57)
+  - MISTRANSCRIPTION: "Tempenogos" / "Temponogos" -> "Timpanogos" (00:32:55, 00:33:11)
+  - MISTRANSCRIPTION: "Adlesen" -> "Adelson" (01:03:39; already an alias on N-302, which should be removed from Aliases under the ruling)
+  - MISTRANSCRIPTION: "Justin Baldon" -> "Justin Baldoni" (00:45:28; already an alias on N-491)
+  - MISTRANSCRIPTION: "Kenneth Owens" -> "Candace Owens" (00:08:00); "Ian Carol" -> "Ian Carroll"; "Sigman Freud" -> "Sigmund Freud"
+  - MISTRANSCRIPTION: "tips@candowens. com" -> "moretips@candaceowens.com" (00:35:30)
+  - MISTRANSCRIPTION: "Marissa Strait" -> "Marissa Streit" (N-118 is registered as Strait with Streit as alias; 00:21:04)
+  - MISTRANSCRIPTION: "Andrew Kovette's uh of part the party to that lawsuit" is garbled at 00:26:50 and probably means Andrew Tate; no claim relies on it.
+- Other doubts: "Sarah Schmackenberger" (00:42:56) kept as transcribed, spelling unverified, no node minted; "John Lewis" as Daily Wire president (00:25:25) is the host's statement, identity unverified; "militaryra actors" (00:31:09) and "limited surgeons" (00:35:07) are garbled; the Kurt and Robert Kolvet relatives (C-12189) have no node, and the existing Curtis Kolvet node may be unrelated; C-12202 to C-12203 concern a named doctor and are hedged by the host; C-12248 is a serious allegation recorded as the host's, flagged tangential; the existing C-1498 label ("Hitler was not a nationalist") and A-1275.1 spelling "Kovett" are in the immutable draft.
+- Rejected under the admission test: Nigerian princess joke (00:00:00), 'Zionists infiltrated our book club' framing (00:52:42), the hokey-pokey and 'George Zin' sarcasm (00:49:30), the 'I am a conspiracy theorist' style asides, genealogy jokes about Ian Carroll, homeschooling advice (minors), sponsor reads, 'Sarah' and other greetings in the comments, and viewer comments read aloud without a host assertion.

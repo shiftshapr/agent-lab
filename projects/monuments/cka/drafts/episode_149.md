@@ -304,7 +304,7 @@ Video Timestamp: 00:48:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low
 
-**A-2435.6** YouTube comment by "Legally Blonde" referencing Megan Kelly, Frank Turk, and Charlie's family in Chicago
+**A-2435.6** YouTube comment by "Legally Blonde" referencing Megyn Kelly, Frank Turek, and Charlie's family in Chicago
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01

@@ -228,7 +228,7 @@
           "@type": "Artifact",
           "@id": "A-1613.2",
           "ref": "A-1613.2",
-          "description": "Comment from user \"Natty Nicole\": expressing being heartbroken and asking how Andrew Kovette sleeps at night",
+          "description": "Comment from user \"Natty Nicole\": expressing being heartbroken and asking how Andrew Kolvet sleeps at night",
           "related_claims": [
             "C-2062"
           ],
@@ -1190,7 +1190,7 @@
       "@id": "C-2062",
       "ref": "C-2062",
       "label": "Top comment from \"Natty Nicole\" expresses being heartbroken and questions Andrew Kolbett's conscience",
-      "claim": "A commenter expressed being \"heartbroken and filled with rage\" and asked \"How does Andrew Kovette sleep at night?\"",
+      "claim": "A commenter expressed being \"heartbroken and filled with rage\" and asked \"How does Andrew Kolvet sleep at night?\"",
       "anchored_artifacts": [
         "A-1613.2"
       ],

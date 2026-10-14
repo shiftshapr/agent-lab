@@ -12,19 +12,19 @@
 - **Model Version**: grok-manual-extract-seq159
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-11093, N-11094, N-11095
+  - Tip-minted Nodes (supplement_2026-10): N-11093, N-11095
   - Claim Range (supplement_2026-10): C-6351–C-6448
-  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-194, N-275, N-221, N-443, N-270, N-7, N-502, N-274, N-541, N-383, N-162, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-132, N-153, N-163, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-287, N-369, N-384, N-425, N-439, N-499, N-535, N-576, N-673, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-155, N-10872, N-10873
+  - Reused Nodes Appearing: N-1, N-2, N-9, N-22, N-36, N-37, N-40, N-46, N-5, N-69, N-82, N-85, N-98, N-14, N-194, N-275, N-221, N-443, N-270, N-7, N-502, N-274, N-541, N-383, N-162, N-10033, N-10056, N-10324, N-10388, N-10839, N-10859, N-10860, N-10863, N-10864, N-10866, N-10868, N-10, N-13, N-18, N-8, N-19, N-20, N-21, N-23, N-24, N-25, N-26, N-28, N-29, N-132, N-153, N-163, N-10870, N-10871, N-16, N-47, N-48, N-89, N-95, N-99, N-287, N-369, N-384, N-425, N-439, N-499, N-535, N-576, N-673, N-10002, N-10012, N-10016, N-10018, N-10036, N-10070, N-10075, N-10132, N-10134, N-10194, N-10211, N-10253, N-10276, N-10347, N-10366, N-10412, N-10434, N-10443, N-10446, N-10519, N-10524, N-10539, N-10571, N-10664, N-10668, N-10670, N-10674, N-10795, N-10865, N-10867, N-10900, N-10925, N-10927, N-11076, N-10869, N-11092, N-155, N-10872, N-10873, N-11094
   - Hole-minted Nodes (remap-ep159): N-128, N-154, N-161
   - (see registers)
-  - Person band: persons minted in this quality pass use N-8+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dylan stays N-281 and N-281. Karoline Leavitt stays N-284. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
+  - Person band: persons minted in this quality pass use N-8+ (see node register). Taylor Scornovako was not minted. Leah Thomas was not minted (phantom on the ep 158 true-new line only). Tim Dillon stays N-281 and N-281. Karoline Leavitt stays N-284. Pam Bondi, Todd Blanche, and Baron Coleman stay on their existing ids.
 
 # Episode 159 Analysis
 
 
 ## 2. Executive Summary
 
-Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Why Refi (Y Refi) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)–timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Why Refi, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnny Moore–Kovette Chyros links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam–plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.
+Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Why Refi (Y Refi) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)–timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Why Refi, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnny Moore–Kolvet Chyros links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam–plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.
 
 ## 6. Meme Register
 
@@ -669,9 +669,8 @@ Episode Count: (series-level)
 
 ---
 
-**N-98** Bob Shulman
-
-Named among donors pulling millions after SAS/Tucker Epstein remarks (host “Bob Showman” pronunciation).
+**N-98** Robert Shillman
+Named among donors pulling millions after SAS/Tucker Epstein remarks (host “Bob Shillman” pronunciation).
 
 Evidence Count: (series-level)
 Claim Count: (series-level)
@@ -743,7 +742,7 @@ Episode Count: (series-level)
 
 **N-443** Johnny Moore
 
-Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kovette/Chyros partnership.
+Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kolvet/Chyros partnership.
 
 Evidence Count: (series-level)
 Claim Count: (series-level)
@@ -1753,7 +1752,7 @@ Investigative Direction: Continue pairing Vanity Fair private-criticism quotes w
 **C-3616** Erika’s Telegram American-flag contact may be the shared/“fake Charlie” account
 
 Claim Timestamp: 01:03:21
-Claim: Viewer note + host source claim that Charlie had two Telegram accounts–one American-flag shared account and one personal–and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kovette/friendly media.
+Claim: Viewer note + host source claim that Charlie had two Telegram accounts–one American-flag shared account and one personal–and that Erika’s Dominate traffic used the flag icon; host questions why sensitive texts went to Andrew Wilson rather than Kolvet/friendly media.
 Anchored Artifacts: A-2473.1, A-2466.1
 Mentions: N-1, N-2, N-14, N-18
 Related Nodes: N-10869
@@ -1942,13 +1941,13 @@ Investigative Direction: Obtain TPUSA fall 2025 revenue plans or sponsor communi
 
 ---
 
-**C-6363** Host says Zionist donors pulled out in July over Charlie's shifting Israel stance, including Bob Shulman for millions
+**C-6363** Host says Zionist donors pulled out in July over Charlie's shifting Israel stance, including Bob Shillman for millions
 
 Claim Timestamp: 00:07:32
 
-Claim: The host says Zionist donors pulled out in July because of Charlie's shifting stance on Israel, that Bob Shulman pulled millions, that others also pulled millions, and that Charlie wanted to make up the money elsewhere.
+Claim: The host says Zionist donors pulled out in July because of Charlie's shifting stance on Israel, that Bob Shillman pulled millions, that others also pulled millions, and that Charlie wanted to make up the money elsewhere.
 
-Transcript Snippet: when Bob Showman pulled millions, and he wasn't the only one who pulled millions, others did as well, Charlie was wanting to make up that money elsewhere.
+Transcript Snippet: when Bob Shillman pulled millions, and he wasn't the only one who pulled millions, others did as well, Charlie was wanting to make up that money elsewhere.
 
 Anchored Artifacts: 
 Mentions: N-98, N-1
@@ -1985,7 +1984,7 @@ Anchored Artifacts: A-2809.2, A-2468.1
 Mentions: N-98
 Related Nodes: N-10870
 Supports: C-6363
-Investigative Direction: Compare the timing of Bob Shulman's withdrawal with the July 25, 2025 addendum payment schedule and wire records.
+Investigative Direction: Compare the timing of Bob Shillman's withdrawal with the July 25, 2025 addendum payment schedule and wire records.
 
 ---
 
@@ -2296,7 +2295,7 @@ Claim Timestamp: 00:23:22
 
 Claim: In her timeline the host says TPUSA reopened its shuttered chapter at the University of Nebraska-Lincoln on February 11, 2025 and Frank Turek spoke there on February 12.
 
-Transcript Snippet: February 11th, we have that TPUSA reopens their shuttered chapter at the University of Nebraska. Lincoln. February 12th, Frank Turk speaks at the University of Nebraska Lincoln.
+Transcript Snippet: February 11th, we have that TPUSA reopens their shuttered chapter at the University of Nebraska. Lincoln. February 12th, Frank Turek speaks at the University of Nebraska Lincoln.
 
 Anchored Artifacts: A-2469.1
 Mentions: N-7
@@ -2311,7 +2310,7 @@ Claim Timestamp: 00:23:22
 
 Claim: The host says that on February 24, 2025 Charlie Kirk contacted her and said Emmanuel Macron had asked the White House for her to stop discussing Brigitte, and that Macron was at the White House that day.
 
-Transcript Snippet: February 24th, Charlie Kirk contacts Canace and says Emanuel Mcronone has asked the White House for her to stop discussing Breijgit.
+Transcript Snippet: February 24th, Charlie Kirk contacts Canace and says Emmanuel Macron has asked the White House for her to stop discussing Brigitte.
 
 Anchored Artifacts: A-2469.1
 Mentions: N-1, N-3, N-383, N-82
@@ -2326,7 +2325,7 @@ Claim Timestamp: 00:23:22
 
 Claim: The host says that on February 25, 2025 Sergio Gor, whom she notes Erika later saw off to India, called her and asked her to stop discussing Brigitte Macron as a favor to President Trump.
 
-Transcript Snippet: February 25th, Sergio Gor, one that Erika is going to see off to India following Charlie's assassination, calls Candace and asks her to stop discussing Breijgit Mcronone as a favor to President Trump.
+Transcript Snippet: February 25th, Sergio Gor, one that Erika is going to see off to India following Charlie's assassination, calls Candace and asks her to stop discussing Brigitte Macron as a favor to President Trump.
 
 Anchored Artifacts: A-2469.1
 Mentions: N-16, N-3, N-5, N-2, N-82
@@ -2341,7 +2340,7 @@ Claim Timestamp: 00:23:22
 
 Claim: The host says that on February 26, 2025 Donald Trump called her and asked her to stop speaking about Brigitte Macron.
 
-Transcript Snippet: February 26th, the Trump calls Candace and asks her to stop speaking about Breijgit Mcronone.
+Transcript Snippet: February 26th, the Trump calls Candace and asks her to stop speaking about Brigitte Macron.
 
 Anchored Artifacts: A-2469.1
 Mentions: N-5, N-3, N-82
@@ -2475,7 +2474,7 @@ Investigative Direction: Check the Senate confirmation record and the DoD sweari
 
 Claim Timestamp: 00:27:34
 
-Claim: The host says that at the July 11 Student Action Summit Charlie told Tucker Carlson to go max on Epstein and the Zionist owners freaked out, with Bob Shulman and others pulling millions.
+Claim: The host says that at the July 11 Student Action Summit Charlie told Tucker Carlson to go max on Epstein and the Zionist owners freaked out, with Bob Shillman and others pulling millions.
 
 Transcript Snippet: Charlie tells him to go max on the Epstein stuff and the Zionist owners freak out.
 
@@ -2493,7 +2492,7 @@ Claim Timestamp: 00:27:34
 
 Claim: The host says Tucker Carlson at the Student Action Summit named Jeffrey Epstein, said people who serve in foreign armies should be stripped of their citizenship, and mused about where Bill Ackman's wealth comes from.
 
-Transcript Snippet: He says that people who serve in foreign armies should be stripped of their citizenship. He muses about where Bill Aman's wealth comes from.
+Transcript Snippet: He says that people who serve in foreign armies should be stripped of their citizenship. He muses about where Bill Ackman's wealth comes from.
 
 Anchored Artifacts: A-2469.1
 Mentions: N-22, N-37, N-9
@@ -2509,7 +2508,7 @@ Claim Timestamp: 00:28:21
 
 Claim: The host says that on July 11 Frank Turek deleted his website.
 
-Transcript Snippet: July 11th, we've noted that Frank Turk deletes his website, frank. com.
+Transcript Snippet: July 11th, we've noted that Frank Turek deletes his website, frank. com.
 
 Anchored Artifacts: A-2469.1
 Mentions: N-7
@@ -2796,7 +2795,7 @@ Claim Timestamp: 00:34:39
 
 Claim: The host says that on August 6 Charlie went on Megyn Kelly's show, alluded to what happened in the Hamptons, said people were calling him an anti-semite, and held up his phone, visibly frustrated.
 
-Transcript Snippet: August 6th, obviously Charlie goes on Megan Kelly show where he explains what happened or alludes to what happened in the Hamptons and says that people are calling him an anti-semite.
+Transcript Snippet: August 6th, obviously Charlie goes on Megyn Kelly show where he explains what happened or alludes to what happened in the Hamptons and says that people are calling him an anti-semite.
 
 Anchored Artifacts: A-2469.1
 Mentions: N-1, N-46

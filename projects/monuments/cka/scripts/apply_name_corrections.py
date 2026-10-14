@@ -7,6 +7,10 @@ transcripts_corrected/, the same corrections are applied to the transcripts, the
 inscriptions (every string), so snippets stay verbatim. Node aliases that a correction rewrites are dropped from
 canonical/nodes.json. Run it on every new transcript before extraction. A rerun is a no-op.
 
+A rule is [pattern, replacement] (archive-wide) or [pattern, replacement, [seq, ...]] (only those episodes'
+transcript, draft and inscription). Scope a rule whenever the wrong rendering is itself a real name or an ordinary
+word elsewhere ("Frank Church", "Andrew Klavan", "scientists"). Node names and aliases use archive-wide rules only.
+
 Usage (from agent-lab root):
   python3 projects/monuments/cka/scripts/apply_name_corrections.py [--dry-run]
 """
@@ -25,19 +29,24 @@ def main() -> int:
     ap = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     ap.add_argument("--dry-run", action="store_true")
     args = ap.parse_args()
-    rules = [(re.compile(a), b) for a, b in
+    rules = [(re.compile(r[0]), r[1], set(r[2]) if len(r) > 2 else None) for r in
              json.loads((CKA / "config" / "transcript_name_corrections.json").read_text(encoding="utf-8"))["corrections"]]
 
-    def fix(s: str) -> str:
-        for rx, b in rules:
-            s = rx.sub(b, s)
+    def fix(s: str, ep: int | None = None) -> str:
+        for rx, b, eps in rules:
+            if eps is None or (ep is not None and ep in eps):
+                s = rx.sub(b, s)
         return s
+
+    def ep_of(p: Path) -> int | None:
+        m = re.match(r"episode_(\d{3})", p.name)
+        return int(m.group(1)) if m else None
 
     changed = {"transcripts": 0, "drafts": 0, "inscriptions": 0, "aliases": 0}
     for key, pattern in (("transcripts", "transcripts_corrected/episode_*"), ("drafts", "drafts/episode_*.md")):
         for p in sorted(CKA.glob(pattern)):
             t = p.read_bytes().decode("utf-8")
-            t2 = fix(t)
+            t2 = fix(t, ep_of(p))
             if t2 != t:
                 changed[key] += 1
                 if not args.dry_run:
@@ -45,13 +54,14 @@ def main() -> int:
     for p in sorted((CKA / "inscription").glob("*.json")):
         raw = p.read_text(encoding="utf-8")
         data = json.loads(raw)
+        ep = ep_of(p)
 
         def walk(x):
             if isinstance(x, dict):
                 return {k: walk(v) for k, v in x.items()}
             if isinstance(x, list):
                 return [walk(i) for i in x]
-            return fix(x) if isinstance(x, str) else x
+            return fix(x, ep) if isinstance(x, str) else x
         new = walk(data)
         if new != data:
             changed["inscriptions"] += 1

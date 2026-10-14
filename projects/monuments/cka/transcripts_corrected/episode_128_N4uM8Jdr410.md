@@ -224,7 +224,7 @@ We have We definitely know what hotel the feds were staying at. We don't know wh
 
 [39:40]
 
-That. Lastly, I I can't even explain to you if you're not following Andrew Kolb who he is like He's in peak form right now on X. The mask has just fully slipped. I mean, we already knew who he was. We knew I told you he was directing all this behind the scenes, the lies, the the attacks. And it we got a gift in the form of him firing the person who worked under him, so I was able to confirm even more lies that Andrew Kolb was telling to the public. Uh but, I guess that's his job. He thinks it's his job to lie, but he's crashing out in a way that it's difficult He's He's almost like in a phase of delusion. He's He's telling me that his show's doing great, my show's crashing. My metrics are down. I'm on my way down.
+That. Lastly, I I can't even explain to you if you're not following Andrew Kolvet who he is like He's in peak form right now on X. The mask has just fully slipped. I mean, we already knew who he was. We knew I told you he was directing all this behind the scenes, the lies, the the attacks. And it we got a gift in the form of him firing the person who worked under him, so I was able to confirm even more lies that Andrew Kolvet was telling to the public. Uh but, I guess that's his job. He thinks it's his job to lie, but he's crashing out in a way that it's difficult He's He's almost like in a phase of delusion. He's He's telling me that his show's doing great, my show's crashing. My metrics are down. I'm on my way down.
 
 [40:21]
 

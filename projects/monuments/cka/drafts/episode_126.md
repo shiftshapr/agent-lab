@@ -15,8 +15,8 @@
   - Hole-minted Nodes (reintro-ep126): N-10755
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8932–C-9006
-  - Reused Nodes Appearing: N-10724, N-10719, N-10723, N-10717, N-3, N-5, N-14, N-40, N-42, N-97, N-105, N-106, N-162, N-270, N-274, N-282, N-458, N-528, N-10000, N-10026, N-10032, N-10051, N-10053, N-10098, N-10099, N-10121, N-10314, N-10334, N-10343, N-10358, N-10381, N-10447, N-10588, N-10625, N-10657, N-10662, N-10712, N-10715, N-10716, N-10730, N-10850, N-10975, N-10987, N-11017, N-11065, N-10754
- - New Nodes Introduced: N-10718, N-10720, N-10721, N-10722, N-10724
+  - Reused Nodes Appearing: N-10724, N-10719, N-10723, N-10717, N-3, N-5, N-14, N-40, N-42, N-97, N-105, N-106, N-162, N-270, N-274, N-282, N-458, N-528, N-10000, N-10026, N-10032, N-10051, N-10053, N-10098, N-10099, N-10121, N-10314, N-10334, N-10343, N-10358, N-10381, N-10447, N-10588, N-10625, N-10657, N-10662, N-10712, N-10715, N-10716, N-10730, N-10850, N-10975, N-10987, N-11017, N-11065, N-10754, N-10722
+ - New Nodes Introduced: N-10718, N-10720, N-10721, N-10724
  - Reused Nodes Appearing: N-11, N-436
  - Hole-minted Nodes (wave3): N-510, N-511
  - (see registers)
@@ -1637,13 +1637,13 @@ Investigative Direction: Obtain Helen Comperatore's own statements and the NewsN
 
 ---
 
-**C-8967** Host Contrasts Helen With Erika by Saying Erika Went on Barry Weiss and Trusted Everything 100% Despite Seeing Nothing
+**C-8967** Host Contrasts Helen With Erika by Saying Erika Went on Bari Weiss and Trusted Everything 100% Despite Seeing Nothing
 
 Claim Timestamp: 00:28:31
 
-Claim: The host contrasts Helen with Erika Kirk, saying Helen was not ready to go on Barry Weiss two weeks later and say she trusts everything 100 percent despite seeing nothing, which the host frames as Erika's conduct.
+Claim: The host contrasts Helen with Erika Kirk, saying Helen was not ready to go on Bari Weiss two weeks later and say she trusts everything 100 percent despite seeing nothing, which the host frames as Erika's conduct.
 
-Transcript Snippet: She wasn't ready to go on Barry Weiss two weeks later and say she trusts everything 100% despite seeing nothing.
+Transcript Snippet: She wasn't ready to go on Bari Weiss two weeks later and say she trusts everything 100% despite seeing nothing.
 
 Anchored Artifacts: 
 Mentions: N-3, N-2, N-282

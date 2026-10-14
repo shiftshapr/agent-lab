@@ -661,6 +661,137 @@
           "confidence": "medium"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3197",
+      "family_ref": "A-3197",
+      "bundle_name": "Host Working Notes Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3197.1",
+          "ref": "A-3197.1",
+          "description": "Host working notes pulled up on screen by Skyler (Skyler 'pull up' request), listing 'two jets that landed from Arizona into Provo' for the day of the shooting (host asks that an agent's name be deleted before display)",
+          "related_claims": [
+            "C-12322"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:40:48",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3198",
+      "family_ref": "A-3198",
+      "bundle_name": "Host Color-Coded Flight Timeline Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3198.1",
+          "ref": "A-3198.1",
+          "description": "Host's color-coordinated timeline of SUBTT and SUBND U.S. visits annotated with Charlie Kirk, TPUSA and TPUSA Faith events (shown on screen and scrolled through)",
+          "related_claims": [
+            "C-12269",
+            "C-12271",
+            "C-12272",
+            "C-12273",
+            "C-12274",
+            "C-12276",
+            "C-12277",
+            "C-12281",
+            "C-12283",
+            "C-12284",
+            "C-12289",
+            "C-12293",
+            "C-12299"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:05:35",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3199",
+      "family_ref": "A-3199",
+      "bundle_name": "Sean Feucht Biography Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3199.1",
+          "ref": "A-3199.1",
+          "description": "Host reads Sean Feucht's biography and Wikipedia entry on air (Montana birth, dermatologist father, NAR upbringing, Che Ahn prayer rallies)",
+          "related_claims": [
+            "C-12279",
+            "C-12280"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:10:36",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3200",
+      "family_ref": "A-3200",
+      "bundle_name": "Thousand Oaks Tip Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3200.1",
+          "ref": "A-3200.1",
+          "description": "Host verbal reference to an emailed tip saying Rob McCoy was close to the mother of the 2018 Borderline Bar shooter and later to a victim's family (email not shown)",
+          "related_claims": [
+            "C-12285",
+            "C-12286",
+            "C-12288"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:14:58",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3201",
+      "family_ref": "A-3201",
+      "bundle_name": "Bowyer Tip Email Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3201.1",
+          "ref": "A-3201.1",
+          "description": "Host verbal reference to an email from a person describing Tyler Bowyer's Maricopa County politics, embezzlement concerns and conduct toward young staff (email not shown)",
+          "related_claims": [
+            "C-12328",
+            "C-12329"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:47:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -696,6 +827,37 @@
         "A-1312.1"
       ],
       "related_claims": [
+        "C-12262",
+        "C-12263",
+        "C-12264",
+        "C-12265",
+        "C-12268",
+        "C-12272",
+        "C-12275",
+        "C-12276",
+        "C-12295",
+        "C-12298",
+        "C-12299",
+        "C-12300",
+        "C-12301",
+        "C-12306",
+        "C-12309",
+        "C-12312",
+        "C-12314",
+        "C-12315",
+        "C-12316",
+        "C-12317",
+        "C-12321",
+        "C-12322",
+        "C-12323",
+        "C-12326",
+        "C-12327",
+        "C-12333",
+        "C-12337",
+        "C-12338",
+        "C-12340",
+        "C-12341",
+        "C-12342",
         "C-1545",
         "C-1546",
         "C-1548",
@@ -1221,7 +1383,9 @@
       "type": "person",
       "description": "Person Tyler Bowyer (N-11).",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-1567"
+      ],
       "tags": [],
       "evidence_count": 1,
       "claim_count": 1,
@@ -1285,13 +1449,949 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-12262",
+        "C-12263",
+        "C-12264",
+        "C-12265",
+        "C-12266",
+        "C-12267",
+        "C-12268",
+        "C-12269",
+        "C-12270",
+        "C-12271",
+        "C-12272",
+        "C-12274",
+        "C-12275",
+        "C-12276",
+        "C-12277",
+        "C-12278",
+        "C-12285",
+        "C-12286",
+        "C-12287",
+        "C-12293",
+        "C-12294",
+        "C-12295",
+        "C-12296",
+        "C-12304",
+        "C-12309",
+        "C-12310",
+        "C-12317",
+        "C-12318",
+        "C-12319",
+        "C-12328",
+        "C-12329",
+        "C-12330",
+        "C-12335",
+        "C-12336",
+        "C-12341",
+        "C-12342",
+        "C-12343",
+        "C-12345",
+        "C-12347",
+        "C-12348",
+        "C-12349"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": []
+    },
+    {
+      "@type": "Person",
+      "@id": "N-2",
+      "ref": "N-2",
+      "name": "Erika Kirk",
+      "type": "person",
+      "description": "Widow and TPUSA CEO; the host floats that a Scottsdale plane may have picked her up.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12324"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-38",
+      "ref": "N-38",
+      "name": "Seth Dillon",
+      "type": "person",
+      "description": "Named by the host as angry after Carlson's speech and as rowdy at the Hamptons meeting.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12311",
+        "C-12315"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-39",
+      "ref": "N-39",
+      "name": "Dave Smith",
+      "type": "person",
+      "description": "Comedian the host says spoke at the July 11, 2025 TPUSA event criticizing Israel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12305"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-40",
+      "ref": "N-40",
+      "name": "Tyler Robinson",
+      "type": "person",
+      "description": "Accused shooter; the host says he was not on campus and mocks the 33 numerology.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12263",
+        "C-12334"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-55",
+      "ref": "N-55",
+      "name": "Josh Hammer",
+      "type": "person",
+      "description": "Named by the host as angry after Carlson's July 11 speech.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12311"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "FBI director the host says blocks Gabbard and Kent and whom Kirk championed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12302",
+        "C-12333",
+        "C-12334"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-98",
+      "ref": "N-98",
+      "name": "Robert Shillman",
+      "type": "person",
+      "description": "Donor named by the host as Bob Shillman, angry after Carlson's speech.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12312"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-170",
+      "ref": "N-170",
+      "name": "James O'Keefe",
+      "type": "person",
+      "description": "Project Veritas founder the host says was ousted in a takeover Kirk backed.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12274",
+        "C-12275",
+        "C-12276"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-197",
+      "ref": "N-197",
+      "name": "David Horowitz",
+      "type": "person",
+      "description": "Founder of the Freedom Center where the host, Kirk and O'Keefe met.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12275"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-203",
+      "ref": "N-203",
+      "name": "Norman Finkelstein",
+      "type": "person",
+      "description": "Interview guest announced for release after this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12348",
+        "C-12349"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-205",
+      "ref": "N-205",
+      "name": "Nick Fuentes",
+      "type": "person",
+      "description": "Named in the host's 2024 backstage exchange with Bowyer about a debate.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12309"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-232",
+      "ref": "N-232",
+      "name": "Lila Rose",
+      "type": "person",
+      "description": "One of the guests the host says PragerU wanted her to platform.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12345"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-329",
+      "ref": "N-329",
+      "name": "Tim Ballard",
+      "type": "person",
+      "description": "One of the guests the host says PragerU wanted her to platform.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12345"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-333",
+      "ref": "N-333",
+      "name": "Tulsi Gabbard",
+      "type": "person",
+      "description": "Named by the host as able to pull the plane manifests.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12302"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-717",
+      "ref": "N-717",
+      "name": "Volodymyr Zelensky",
+      "type": "person",
+      "description": "Subject of Kirk's 2023 corruption accusations per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12272"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10000",
+      "ref": "N-10000",
+      "name": "Turning Point USA",
+      "type": "investigation_target",
+      "description": "Organization whose events, staff and money the host ties to the plane visits.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12263",
+        "C-12264",
+        "C-12269",
+        "C-12272",
+        "C-12274",
+        "C-12294",
+        "C-12295",
+        "C-12303",
+        "C-12307",
+        "C-12308",
+        "C-12309",
+        "C-12310",
+        "C-12318",
+        "C-12326",
+        "C-12327",
+        "C-12328",
+        "C-12329",
+        "C-12338"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 18,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10012",
+      "ref": "N-10012",
+      "name": "Utah Valley University",
+      "type": "investigation_target",
+      "description": "Site of the shooting; the host says its president majored in Soviet studies.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12330"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10018",
+      "ref": "N-10018",
+      "name": "Netanyahu Israel Invitation Phone Call",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12316"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10026",
+      "ref": "N-10026",
+      "name": "Israel",
+      "type": "investigation_target",
+      "description": "Place; subject of Bowyer's pro-Israel statement and the host's sweeping claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12273",
+        "C-12310",
+        "C-12335",
+        "C-12336"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10031",
+      "ref": "N-10031",
+      "name": "33-Hour Surrender Timeline Signal",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the 33 numerology claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12334"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10033",
+      "ref": "N-10033",
+      "name": "Hamptons Donor Pressure Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Carlson speech and donor anger claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12306",
+        "C-12311",
+        "C-12312"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10056",
+      "ref": "N-10056",
+      "name": "Kirk-Israel Narrative Dispute",
+      "type": "investigation_target",
+      "description": "Existing topic reused for claims on Kirk's Israel position.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12306",
+        "C-12310",
+        "C-12340"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10063",
+      "ref": "N-10063",
+      "name": "Gaza",
+      "type": "investigation_target",
+      "description": "Place named in the host's closing claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12349"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10074",
+      "ref": "N-10074",
+      "name": "Provo, Utah",
+      "type": "investigation_target",
+      "description": "Place where both Egyptian planes met in April 2024 and September 2025.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12268",
+        "C-12300",
+        "C-12320"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10094",
+      "ref": "N-10094",
+      "name": "LDS Church",
+      "type": "investigation_target",
+      "description": "Organization the host characterizes as a real estate empire and as TPUSA's real character.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12304",
+        "C-12308"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10115",
+      "ref": "N-10115",
+      "name": "Soviet Education Infiltration",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Soviet studies claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12330",
+        "C-12331"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10125",
+      "ref": "N-10125",
+      "name": "Utah",
+      "type": "investigation_target",
+      "description": "Place of Kirk's University of Utah event.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12301"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10131",
+      "ref": "N-10131",
+      "name": "PragerU",
+      "type": "investigation_target",
+      "description": "Organization the host says pushed guests to her.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12343",
+        "C-12345"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10202",
+      "ref": "N-10202",
+      "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Patel claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12333"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10218",
+      "ref": "N-10218",
+      "name": "McCoy Succession Plan",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Mikey McCoy succession claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12326"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10242",
+      "ref": "N-10242",
+      "name": "Seven Mountain Mandate / NAR Influence on TPUSA Faith",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Che Ahn claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12280"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10253",
+      "ref": "N-10253",
+      "name": "Egyptian Military Plane Tracking Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the plane claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12262",
+        "C-12265",
+        "C-12266",
+        "C-12267",
+        "C-12302"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10266",
+      "ref": "N-10266",
+      "name": "SUBTT Wilmington Visit Pattern",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Delaware routing claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12291",
+        "C-12297"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10342",
+      "ref": "N-10342",
+      "name": "Bibi Netanyahu TPUSA Funding Offer",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Netanyahu claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12316"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10345",
+      "ref": "N-10345",
+      "name": "Hampton Retreat Seth Dillon Confrontation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Dillon claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12311",
+        "C-12315"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10355",
+      "ref": "N-10355",
+      "name": "Kash Patel / Tulsi Gabbard / Joe Kent Internal Dispute",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the manifest claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12302"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10398",
+      "ref": "N-10398",
+      "name": "Turning Point USA Faith Structure",
+      "type": "investigation_target",
+      "description": "Existing topic reused for TPUSA Faith events and personnel.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12273",
+        "C-12277",
+        "C-12281",
+        "C-12283",
+        "C-12299",
+        "C-12344",
+        "C-12346"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10436",
+      "ref": "N-10436",
+      "name": "TPUSA Faith Military Infiltration Claim",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the military shooting musing.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12287"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10673",
+      "ref": "N-10673",
+      "name": "Hamptons August 5–7 Intervention Event",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the intervention claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12314",
+        "C-12315"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11059",
+      "ref": "N-11059",
+      "name": "Russian-Speaking Turning Point Network",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the Russian speaker claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12331",
+        "C-12332"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11094",
+      "ref": "N-11094",
+      "name": "Kash Patel August 17 Omaha Trip FOIA Response",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the August 17 plane claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12319"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11129",
+      "ref": "N-11129",
+      "name": "Freemasonry",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the 33 lodge claim.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12334"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11171",
+      "ref": "N-11171",
+      "name": "Kirk \"Internet DOGE\" Money-Tracing Effort",
+      "type": "investigation_target",
+      "description": "Existing topic reused for the funding opacity claims.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12317",
+        "C-12318"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-916",
+      "ref": "N-916",
+      "name": "Che Ahn",
+      "type": "person",
+      "description": "First named by the host at 00:11:43 in episode 23. NAR apostle whose prayer rallies the host reads that Sean Feucht took part in.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12280"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-917",
+      "ref": "N-917",
+      "name": "Dan Gertler",
+      "type": "person",
+      "description": "First named by the host at 00:52:25 in episode 23. Named by the host as the Israeli link in Congo and the diamond trade.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12336"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11327",
+      "ref": "N-11327",
+      "name": "Project Veritas",
+      "type": "organization",
+      "description": "Organization founded by James O'Keefe; the host says he was ousted in a January takeover that Kirk publicly supported and that people involved were tied to TPUSA.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12274",
+        "C-12276"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11328",
+      "ref": "N-11328",
+      "name": "Covenant School Nashville Shooting",
+      "type": "topic",
+      "description": "The March 2023 shooting at Covenant Elementary School in Nashville that the host places during the first TPUSA Faith Pastor Summit and says the feds covered up.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12283",
+        "C-12284",
+        "C-12289"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11329",
+      "ref": "N-11329",
+      "name": "Scottsdale Jets to Salt Lake City on September 10 Question",
+      "type": "topic",
+      "description": "The two planes the host says flew out of Scottsdale on the day of the shooting, including N102DZ to Salt Lake City, and the open question of who was aboard.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12322",
+        "C-12323",
+        "C-12324",
+        "C-12325"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11330",
+      "ref": "N-11330",
+      "name": "Kingdom to the Capital Tour Plane Overlap Pattern",
+      "type": "topic",
+      "description": "The host's claim that each Egyptian plane visit in 2023 coincided with a TPUSA Faith Kingdom to the Capital event headed by Sean Feucht.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-12281",
+        "C-12282",
+        "C-12290",
+        "C-12292",
+        "C-12293"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
     }
   ],
   "claims": [
@@ -1636,8 +2736,8 @@
       "@type": "Claim",
       "@id": "C-1562",
       "ref": "C-1562",
-      "label": "Host Asserts Netanyahu Offered to Fund TPUSA and Andrew Kolb Can Confirm",
-      "claim": "The host states that Netanyahu offered to \"fund Turning Point to the next level,\" that Charlie declined, and that Andrew Kolb should be able to confirm the offer.",
+      "label": "Host Asserts Netanyahu Offered to Fund TPUSA and Andrew Kolvet Can Confirm",
+      "claim": "The host states that Netanyahu offered to \"fund Turning Point to the next level,\" that Charlie declined, and that Andrew Kolvet should be able to confirm the offer.",
       "anchored_artifacts": [
         "A-1311.1"
       ],
@@ -1646,7 +2746,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:15",
-      "investigative_direction": "Obtain direct confirmation from Andrew Kolb (public statement, interview, or testimony) corroborating the funding-offer claim.",
+      "investigative_direction": "Obtain direct confirmation from Andrew Kolvet (public statement, interview, or testimony) corroborating the funding-offer claim.",
       "mentions_person_refs": [
         "N-1",
         "N-14",
@@ -1788,6 +2888,2011 @@
       "mentions_person_refs": [
         "N-3"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12262",
+      "ref": "C-12262",
+      "label": "Host Says Irrefutable Proof of Foreign Actors Is Coming in This Episode",
+      "claim": "The host says that after this episode viewers will recognize there is irrefutable proof that foreign actors were involved in the assassination, which she says implies the government knows.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:00",
+      "investigative_direction": "Compare the proof the host presents later in the episode (flight data, tips) against independent records; the claim is only testable through what she later shows.",
+      "transcript_snippet": "Think after this episode you were going to recognize that there is just irrefutable proof that there were, in fact, foreign actors involved.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12263",
+      "ref": "C-12263",
+      "label": "Host Says Kirk Was Taken Out by Something Bigger Than TPUSA and Robinson Never Set Foot on Campus",
+      "claim": "The host says she is confident Charlie Kirk was taken out by something much bigger than Turning Point USA and much bigger than Tyler Robinson, who she says she does not think even set foot on the campus that day.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:49",
+      "investigative_direction": "Review UVU campus access logs, camera footage and the charging documents on how and when Robinson reached the campus.",
+      "transcript_snippet": "certainly much bigger than Tyler Robinson on the Loews rooftop, who I don't even think was even even set foot on the campus that day.",
+      "supports_claim_refs": [
+        "C-9403"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12264",
+      "ref": "C-12264",
+      "label": "Host Says Emails Claiming Kirk Is Alive Reflect TPUSA's Lack of Drive to Find the Killer",
+      "claim": "The host says she has received many emails from people convinced Charlie Kirk is still alive and attributes this to the lack of emotion and drive coming out of Turning Point USA to figure out who killed him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:01:44",
+      "investigative_direction": "Compare TPUSA's public statements and funded actions on the investigation against the host's characterization.",
+      "transcript_snippet": "They're actually reacting to the lack of emotion and the lack of drive that is coming out of Turning Point USA to figure out who killed him.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12265",
+      "ref": "C-12265",
+      "label": "Host Recaps That the Egyptian Military Plane Departed the Morning of the Assassination",
+      "claim": "The host says she tweeted that it was not normal that an Egyptian military plane departed on the morning of Charlie Kirk's assassination.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10207",
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:30",
+      "investigative_direction": "Obtain the ADS-B departure record for SUBTT from Provo on September 10, 2025 and its local departure time.",
+      "transcript_snippet": "obviously recognizing that it was not normal that this military Egyptian military plane had departed on the morning of Charlie's assassination.",
+      "supports_claim_refs": [
+        "C-1532"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12266",
+      "ref": "C-12266",
+      "label": "Host Admits She First Mistook the Plane's Departure for the Afternoon and Says the Debunk Was Wrong",
+      "claim": "The host says she made the mistake of thinking the Egyptian plane departed in the afternoon, that a critic's correction then trended as 'Egyptian plane debunked', and that it was not debunked.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10207",
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:22",
+      "investigative_direction": "Compare the host's original tweet, the correcting post and the Flightradar time-zone display for SUBTT on September 10, 2025.",
+      "transcript_snippet": "Now, I made the mistake of thinking it had departed in the afternoon",
+      "supports_claim_refs": [
+        "C-9411"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12267",
+      "ref": "C-12267",
+      "label": "Host's Foreign Source Says About 18 Arrived on the Plane and Far Fewer Left",
+      "claim": "The host says a foreigner told her the people who came in on the plane were not the people who went out, estimating roughly 18 people on the arriving flight and far fewer on the return.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10207",
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:22",
+      "investigative_direction": "Obtain passenger and crew declarations for the SUBTT arrival and departure at Provo, and identify the overseas source through the host.",
+      "transcript_snippet": "They were estimating like approximately 18 people were on the plane that came over and far less were on the way back.",
+      "supports_claim_refs": [
+        "C-9413",
+        "C-1551"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12268",
+      "ref": "C-12268",
+      "label": "Host Says a Live Commenter and Her Check Show SUBTT Was in Utah a Year Earlier With Kirk",
+      "claim": "The host says a live commenter told her SUBTT had been in Utah a year earlier at the same time as Charlie Kirk, and that when she checked it was true.",
+      "anchored_artifacts": [
+        "A-1301.6"
+      ],
+      "related_nodes": [
+        "N-10207",
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:07",
+      "investigative_direction": "Pull the Flightradar archive for SUBTT in April 2024 and Kirk's April 2024 Utah schedule to confirm the overlap.",
+      "transcript_snippet": "that plane was in Utah at the same time as Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12269",
+      "ref": "C-12269",
+      "label": "Host Says SUBTT Was Near a TPUSA Event in the Same City Nearly Every Time It Came to America",
+      "claim": "The host says that when she checked each arrival of the plane, TPUSA or a TPUSA event was happening in the same or a neighboring city about every single time, and that the review is not finished.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-10207",
+        "N-10208",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:51",
+      "investigative_direction": "Build a dated list of all U.S. arrivals of SUBTT and SUBND and test each against TPUSA's event calendar to measure the actual overlap rate versus chance.",
+      "transcript_snippet": "There was something happening at Turning Point USA that was neighboring, okay? In the in the same city.",
+      "supports_claim_refs": [
+        "C-1545"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12270",
+      "ref": "C-12270",
+      "label": "Host Gives SUBND as a Gulfstream 4 and SUBTT as a Falcon 7X, Each Holding 12 to 16",
+      "claim": "The host says tail number SUBND is a Gulfstream 4 and SUBTT is a Falcon 7X, each holding about 12 to 16 passengers.",
+      "anchored_artifacts": [
+        "A-1301.1",
+        "A-1302.1"
+      ],
+      "related_nodes": [
+        "N-10207",
+        "N-10208"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:06:29",
+      "investigative_direction": "Check the Egyptian civil and military registry and manufacturer data for SU-BTT and SU-BND airframe types and seating.",
+      "transcript_snippet": "Tail number SUBND, that's a Gulfstream 4. It's about 12 to 16 And tail number SUBTT, that's going to be our main one. That's our Falcon 7X.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12271",
+      "ref": "C-12271",
+      "label": "Host Says Flightradar Only Goes Back to 2022 and Shows Four SUBTT Visits That Year",
+      "claim": "The host says Flightradar's history only goes back to 2022 and shows four SUBTT visits to the U.S. that year.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-10207"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:17",
+      "investigative_direction": "Obtain FAA and customs overflight and landing records for SU-BTT for 2022 to extend the history beyond Flightradar's window.",
+      "transcript_snippet": "these are the four times that BTT, so if they're both SU, that BTT was here in 2022. That's the furthest that we can go back on Flightradar.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12272",
+      "ref": "C-12272",
+      "label": "Host Says Kirk's 2023 X Feed Accused Ukraine and Zelensky of Corruption and Money Laundering",
+      "claim": "The host says that in 2023 Charlie Kirk's X feed hit hard on Ukraine, demanded the U.S. pull out of the war, and accused Ukraine and Zelensky of corruption, financial fraud and money laundering.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:07:17",
+      "investigative_direction": "Retrieve Kirk's 2023 X posts about Ukraine and Zelensky and check wording and dates against the host's description.",
+      "transcript_snippet": "He's accusing Ukraine and Zelenskyy of corruption, of financial fraud, of money laundering.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-717",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12273",
+      "ref": "C-12273",
+      "label": "Host Says Rob McCoy Hosted the First TPUSA Faith Pastors Tour of Israel in January",
+      "claim": "The host says that on January 10 to 19 of the year of the first plane visits (2023 in her timeline) Rob McCoy hosted the first ever Turning Point USA Faith Pastors Tour of Israel in Jerusalem.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-10398",
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:42",
+      "investigative_direction": "Find TPUSA Faith announcements, itinerary and attendee lists for the first Pastors Tour of Israel and confirm dates.",
+      "transcript_snippet": "Rob McCoy hosts the first ever Turning Point USA Faith Pastors Tour of Israel.",
+      "mentions_person_refs": [
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12274",
+      "ref": "C-12274",
+      "label": "Host Says the Same People Who Took Over Project Veritas Were Involved With TPUSA",
+      "claim": "The host says the same people who infiltrated or hostilely took over James O'Keefe's Project Veritas were involved with Turning Point USA.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-11327",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:42",
+      "investigative_direction": "Compare Project Veritas board and donor changes in early 2023 with TPUSA donor and board records to test for overlapping individuals.",
+      "transcript_snippet": "because the same people that infiltrated or hostilely took over James O'Keefe were involved with Turning Point USA.",
+      "mentions_person_refs": [
+        "N-170",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12275",
+      "ref": "C-12275",
+      "label": "Host Says She, Kirk and O'Keefe Met at the Same David Horowitz Freedom Center Event",
+      "claim": "The host says that she, Charlie Kirk and James O'Keefe all met at the same time in November at a David Horowitz Freedom Center event.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:08:42",
+      "investigative_direction": "Locate the Horowitz Freedom Center event and its date through event programs or the host's earlier episode on it.",
+      "transcript_snippet": "he and Charlie and myself all met at the same time in November, that David Horowitz Freedom Center event that I was telling you about.",
+      "mentions_person_refs": [
+        "N-170",
+        "N-1",
+        "N-3",
+        "N-197"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12276",
+      "ref": "C-12276",
+      "label": "Host Says O'Keefe Was Ousted and Kirk Publicly Backed What Looked Like a Hostile Takeover",
+      "claim": "The host says James O'Keefe was ousted from the board of his own company and Charlie Kirk publicly announced support for what the world saw as a hostile takeover of Project Veritas.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-11327"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:09:38",
+      "investigative_direction": "Find Kirk's public statement on the Project Veritas leadership change and its date.",
+      "transcript_snippet": "James O'Keefe gets pushed out. He's ousted from the board of his own company and Charlie publicly announces his support",
+      "mentions_person_refs": [
+        "N-170",
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12277",
+      "ref": "C-12277",
+      "label": "Host Says Sean Feucht Was Announced as the TPUSA Faith Contributor on February 27",
+      "claim": "The host says that on February 27, a person she had not heard of before, Sean Feucht, was announced as the Turning Point USA Faith Contributor.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-10398"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:09:38",
+      "investigative_direction": "Retrieve the TPUSA Faith announcement of Feucht's role and its date.",
+      "transcript_snippet": "named Sean Feucht, I believe I'm saying that correctly, Sean Feucht, is announced as the Turning Point USA Faith Contributor.",
+      "mentions_person_refs": [
+        "N-209",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12278",
+      "ref": "C-12278",
+      "label": "Host Says Viewers Emailed That Feucht Was the Man Cheering After the Shooting and He Denied It",
+      "claim": "The host says many people emailed after the assassination believing Sean Feucht was the man standing and cheering 'USA USA', and she thinks he posted a video denying it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10209"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:36",
+      "investigative_direction": "Find Feucht's denial video and compare the cheering man in crowd footage against Feucht's whereabouts on September 10, 2025.",
+      "transcript_snippet": "many people emailed us after Charlie's um assassination and they thought Sean Feucht was the guy that was standing and cheering",
+      "mentions_person_refs": [
+        "N-209",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12279",
+      "ref": "C-12279",
+      "label": "Host Reads Feucht's Biography as Born in Montana and Son of a Dermatologist",
+      "claim": "The host reads from Sean Feucht's biography that he was born in Montana and is the son of an unnamed dermatologist.",
+      "anchored_artifacts": [
+        "A-3199.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:10:36",
+      "investigative_direction": "Check Feucht's Wikipedia entry and published biographies for the birthplace and parent details.",
+      "transcript_snippet": "So, look him up on his biography and it tells us that he was born in Montana. He's a son of a dermatologist.",
+      "mentions_person_refs": [
+        "N-209"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12280",
+      "ref": "C-12280",
+      "label": "Host Reads That Feucht Took Part in NAR Apostle Che Ahn's Prayer Rallies",
+      "claim": "The host reads that Sean Feucht grew up playing music in a New Apostolic Reformation church and took part in NAR Apostle Che Ahn's prayer rallies.",
+      "anchored_artifacts": [
+        "A-3199.1"
+      ],
+      "related_nodes": [
+        "N-10210",
+        "N-10242"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:11:43",
+      "investigative_direction": "Check Feucht's biography and Harvest Rock Church or Che Ahn materials for his participation in the rallies.",
+      "transcript_snippet": "He was a part of the NAR Apostle Che Ahn's prayer rallies, it tells us, okay?",
+      "supports_claim_refs": [
+        "C-1566"
+      ],
+      "mentions_person_refs": [
+        "N-209",
+        "N-916"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12281",
+      "ref": "C-12281",
+      "label": "Host Says Feucht Was Announced February 28 to Head the Kingdom to the Capital Tour",
+      "claim": "The host says that on February 28 it was announced Sean Feucht would head up the 'Kingdom of the Capital Tour', making him the face of the TPUSA Faith tour.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-11330",
+        "N-10398"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:13:18",
+      "investigative_direction": "Retrieve the tour announcement and event calendar; the tour is commonly styled 'Kingdom to the Capitol'.",
+      "transcript_snippet": "February 28th, Sean Feucht announce it's announced that he's going to be heading up the Kingdom of the Capital Tour.",
+      "mentions_person_refs": [
+        "N-209",
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12282",
+      "ref": "C-12282",
+      "label": "Host Says the Plane Reached St. Louis and Feucht and TPUSA Faith Held the First Tour Event at the Capitol",
+      "claim": "The host says that when the plane reached St. Louis, Missouri, the first event on the tour was happening, with Sean Feucht and TPUSA Faith at the Capitol.",
+      "anchored_artifacts": [
+        "A-1301.1",
+        "A-1302.1"
+      ],
+      "related_nodes": [
+        "N-11330",
+        "N-10207",
+        "N-10208"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:13:18",
+      "investigative_direction": "Confirm the date, city and venue of the first Kingdom tour stop and compare with the SUBND and SUBTT St. Louis arrivals.",
+      "transcript_snippet": "that plane gets to St. Louis Missouri and sure enough, Sean Feucht is there. TPUSA Faith is there.",
+      "mentions_person_refs": [
+        "N-209"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12283",
+      "ref": "C-12283",
+      "label": "Host Says the First TPUSA Faith Pastor Summit Was in Nashville Headed by McCoy",
+      "claim": "The host says Turning Point USA held its first ever Faith Pastor Summit in Nashville in March, headed by Rob McCoy.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-10398",
+        "N-11328"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:15",
+      "investigative_direction": "Find summit announcements and program for the Nashville Faith Pastor Summit and confirm its date.",
+      "transcript_snippet": "Turning Point USA has their first ever Faith Pastor Summit. I spelled that wrong there. The Faith Pastor Summit and it's in Nashville and it's headed by Rob McCoy.",
+      "mentions_person_refs": [
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12284",
+      "ref": "C-12284",
+      "label": "Host Says a Trans Shooting Happened While the Pastors Were in Nashville and Feds Covered It Up",
+      "claim": "The host says that while the Faith Pastor Summit was in Nashville there was a shooting by a trans person at a Christian elementary school in which, she says, the feds engaged in a cover-up.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-11328"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:15",
+      "investigative_direction": "Compare the summit dates with the Covenant School shooting date and review the status of the shooter's writings and FBI or police disclosures.",
+      "transcript_snippet": "And lo and behold, while they're here, there is a trans shooting. A traumatizing trans shooting in which the feds engage in a cover-up regarding, okay?",
+      "mentions_person_refs": [
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12285",
+      "ref": "C-12285",
+      "label": "Host Relays a Tip That Rob McCoy Was the Nearby Pastor of the 2018 Thousand Oaks Shooting",
+      "claim": "The host says she received a tip that Rob McCoy, from Thousand Oaks, was involved in the 2018 Thousand Oaks bar shooting in the sense that he was the nearby pastor, and that she does not mean he shot anyone.",
+      "anchored_artifacts": [
+        "A-3200.1",
+        "A-1310.1"
+      ],
+      "related_nodes": [
+        "N-10213"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:58",
+      "investigative_direction": "Ask the tipster for corroboration and check local reporting for McCoy's role after the Borderline Bar shooting.",
+      "transcript_snippet": "What I mean is that he was the nearby pastor of a Thousand Oaks shooting that happened at some bar where a veteran shot up a bar",
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12286",
+      "ref": "C-12286",
+      "label": "Host's Tipster Says McCoy Was Very Close With the Shooter's Mother",
+      "claim": "The host says an emailer told her Rob McCoy was very close with the mother of the Thousand Oaks shooter.",
+      "anchored_artifacts": [
+        "A-3200.1"
+      ],
+      "related_nodes": [
+        "N-10213"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:14:58",
+      "investigative_direction": "Seek independent confirmation (church records, local reporting, the shooter's family) of McCoy's relationship with the shooter's mother.",
+      "transcript_snippet": "We received an email and they were like, \"He was very close with the the shooter's mom.\"",
+      "mentions_person_refs": [
+        "N-17",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12287",
+      "ref": "C-12287",
+      "label": "Host Muses That Seemingly Random Shootings Involving Army Veterans May Involve the Military",
+      "claim": "The host says she is starting to feel that random shootings that are instantly covered up but always involve an army veteran are not that random and that the military may be involved in them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10436"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:15:52",
+      "investigative_direction": "Test the pattern against a defined list of mass shootings and shooter military service records; the host labels this a musing.",
+      "transcript_snippet": "maybe these kind of random shootings that instantly get covered up, but always involve like an army veteran, aren't actually that random and maybe the military is involved in them.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12288",
+      "ref": "C-12288",
+      "label": "Host's Tipster Says the Victims' Family Got Upset With McCoy",
+      "claim": "The host says the tipster also told her McCoy got close to the victim's family and that the family became upset with him.",
+      "anchored_artifacts": [
+        "A-3200.1"
+      ],
+      "related_nodes": [
+        "N-10213"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:04",
+      "investigative_direction": "Verify with the victims' families or contemporaneous Thousand Oaks coverage; the host says she is happy to correct the details.",
+      "transcript_snippet": "But then also, got close to the victim's family and the victim's family got upset with him.",
+      "mentions_person_refs": [
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12289",
+      "ref": "C-12289",
+      "label": "Host Dates the Covenant Elementary School Shooting in Nashville to March 27",
+      "claim": "The host says the trans shooting at Covenant Elementary School in Nashville occurred on March 27.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-11328"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:17:04",
+      "investigative_direction": "Confirm date against Metro Nashville Police records for the Covenant School shooting.",
+      "transcript_snippet": "March 27th, like I said, is when we have that trans shooting at Covenant Elementary School in Nashville."
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12290",
+      "ref": "C-12290",
+      "label": "Host Says TPUSA Faith Co-Chaired by McCoy Kicked Off Its Tour With a Feucht Event in Jefferson City on April 2",
+      "claim": "The host says that on April 2, the day after the yellow plane landed in Missouri, TPUSA Faith, co-chaired by Rob McCoy, kicked off its tour with an event headed by Sean Feucht in Jefferson City.",
+      "anchored_artifacts": [
+        "A-1301.2"
+      ],
+      "related_nodes": [
+        "N-11330",
+        "N-10207"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:04",
+      "investigative_direction": "Confirm the Jefferson City event date and venue and compare with SUBTT's April 1 St. Louis arrival.",
+      "transcript_snippet": "April 2nd, TPUSA Faith, co-chaired by Rob McCoy, kicks off their tour with an event headed by Sean Feucht in Jefferson City, Missouri.",
+      "mentions_person_refs": [
+        "N-17",
+        "N-209"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12291",
+      "ref": "C-12291",
+      "label": "Host Says SUBTT Left on April 6 Through Delaware Back to Cairo",
+      "claim": "The host says the yellow plane left on April 6 and, as it always does when leaving, went through Delaware before returning to Cairo.",
+      "anchored_artifacts": [
+        "A-1301.2"
+      ],
+      "related_nodes": [
+        "N-10266",
+        "N-10207"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:56",
+      "investigative_direction": "Check Flightradar and FAA records for SUBTT departures routed via Wilmington, Delaware.",
+      "transcript_snippet": "April 6th, it leaves and it always goes through Delaware when it leaves and goes back to Cairo, okay?",
+      "supports_claim_refs": [
+        "C-1533"
+      ],
+      "mentions_person_refs": [
+        "N-10207"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12292",
+      "ref": "C-12292",
+      "label": "Host Says Feucht Led a TPUSA Faith Kingdom to the Capital Event in Topeka on April 23 Near the Plane's Kansas Stay",
+      "claim": "The host says the yellow plane flew Cairo to Kansas, and on April 23 Sean Feucht headed up the TPUSA Faith Kingdom to the Capital Tour event in Topeka, Kansas.",
+      "anchored_artifacts": [
+        "A-1301.3"
+      ],
+      "related_nodes": [
+        "N-11330",
+        "N-10207"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:56",
+      "investigative_direction": "Confirm the Topeka event date and compare with SUBTT's Kansas landing and stay.",
+      "transcript_snippet": "And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capital Tour event, which happens to be in Topeka, Kansas.",
+      "mentions_person_refs": [
+        "N-209"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12293",
+      "ref": "C-12293",
+      "label": "Host Says Every Time the Plane Was Here She Can Pin a TPUSA Faith Event",
+      "claim": "The host says that for 2023, every time the plane is in the U.S. she can pin a TPUSA Faith event that is happening.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-11330",
+        "N-10207",
+        "N-10208"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:39",
+      "investigative_direction": "Compare the plane visit dates with a complete TPUSA Faith event calendar to see whether the overlaps exceed chance.",
+      "transcript_snippet": "Literally, every time this plane is here, I can pin a TPUSA Faith event that's happening, which is like some luck, right?",
+      "supports_claim_refs": [
+        "C-1545"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12294",
+      "ref": "C-12294",
+      "label": "Host Says Her Last Speech for TPUSA Was in June 2024",
+      "claim": "The host says that she is going to give her last speech for Turning Point USA in June of 2024, the year she says the McCoys became much more involved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:39",
+      "investigative_direction": "Check TPUSA event programs for the host's June 2024 appearance.",
+      "transcript_snippet": "I did not know that, so this has to be the year that they got super involved because I'm going to do my last speech for them in June of 2024.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12295",
+      "ref": "C-12295",
+      "label": "Host Says Kirk's Campus Tour Was Announced February 8, 2024 and She Was Doing It With Him",
+      "claim": "The host says Charlie Kirk's campus tour was publicly announced on February 8, 2024, and that she was doing it with him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:19:39",
+      "investigative_direction": "Retrieve the tour announcement and compare with the plane's February 9 arrival.",
+      "transcript_snippet": "and then on February 8th, Charlie's campus tour is publicly announced. I'm doing it with him.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12296",
+      "ref": "C-12296",
+      "label": "Host Says SUBTT Stayed in Lincoln, Nebraska for a Mysterious Five Days",
+      "claim": "The host says that after landing in Omaha the plane flew straight to Lincoln, Nebraska and stayed for five days, for which she could find no TPUSA event.",
+      "anchored_artifacts": [
+        "A-1301.4"
+      ],
+      "related_nodes": [
+        "N-10211",
+        "N-10207"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:27",
+      "investigative_direction": "Obtain Lincoln Airport FBO and ramp records for SUBTT from February 9 to 14, 2024.",
+      "transcript_snippet": "and it stays in Lincoln for a mysterious 5 days.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12297",
+      "ref": "C-12297",
+      "label": "Host Says SUBTT Stayed in Wilmington for Two Days Before Returning to Cairo on the 16th",
+      "claim": "The host says that after departing Lincoln on February 14 the plane stayed in Wilmington, Delaware for two days and headed back to Cairo on the 16th.",
+      "anchored_artifacts": [
+        "A-1301.4"
+      ],
+      "related_nodes": [
+        "N-10266",
+        "N-10207"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:39",
+      "investigative_direction": "Check Flightradar and Wilmington airport records for SUBTT between February 14 and 16, 2024.",
+      "transcript_snippet": "stays in Wilmington for 2 days and then heads back to Cairo Cairo on the 16th.",
+      "supports_claim_refs": [
+        "C-1533"
+      ],
+      "mentions_person_refs": [
+        "N-10207"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12298",
+      "ref": "C-12298",
+      "label": "Host Says Kirk Spoke at the University of Kansas on April 3 the Week the Plane Was in Wichita",
+      "claim": "The host says Charlie Kirk was speaking at the University of Kansas on April 3, the same week the plane landed in Wichita, Kansas.",
+      "anchored_artifacts": [
+        "A-1301.5"
+      ],
+      "related_nodes": [
+        "N-10207"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:39",
+      "investigative_direction": "Confirm Kirk's University of Kansas event date and SUBTT's Wichita arrival date.",
+      "transcript_snippet": "Charlie Kirk was speaking at the University of Kansas, okay? On April 3rd.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12299",
+      "ref": "C-12299",
+      "label": "Host Says Kirk Was in Omaha on April 9 Speaking at the Lord of Hosts Church",
+      "claim": "The host says that on April 9 Charlie Kirk was in Omaha, Nebraska speaking at the Lord of Hosts Church doing TPUSA Faith stuff.",
+      "anchored_artifacts": [
+        "A-3198.1"
+      ],
+      "related_nodes": [
+        "N-10398"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:23:41",
+      "investigative_direction": "Find Lord of Hosts Church event listings for April 9, 2024.",
+      "transcript_snippet": "that Charlie is in Omaha, Nebraska speaking at the Lord of Hosts Church.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12300",
+      "ref": "C-12300",
+      "label": "Host Says Both Egyptian Planes Were in Provo Together in April 2024",
+      "claim": "The host says the blue plane arrived in Provo on April 19 via Paris and Salt Lake City, and the yellow plane then arrived via North Dakota, so the two planes were together in Provo.",
+      "anchored_artifacts": [
+        "A-1301.6",
+        "A-1302.2"
+      ],
+      "related_nodes": [
+        "N-10207",
+        "N-10208",
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:41",
+      "investigative_direction": "Verify both tails at Provo in April 2024 from Flightradar and airport records and identify who met them.",
+      "transcript_snippet": "The planes are together again, you know, they're meeting up, they're kind of tracking each other and who's in the area?",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12301",
+      "ref": "C-12301",
+      "label": "Host Says Kirk Held a Prove Me Wrong Event at the University of Utah While the Planes Were There",
+      "claim": "The host says Charlie Kirk held a Prove Me Wrong event at the University of Utah in Salt Lake City while the planes were in Utah in April 2024.",
+      "anchored_artifacts": [
+        "A-1301.6"
+      ],
+      "related_nodes": [
+        "N-10125"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:24:52",
+      "investigative_direction": "Confirm the University of Utah event date and compare with the April 2024 arrivals at Provo.",
+      "transcript_snippet": "So, he is doing an event at Salt Lake at the University of Utah. It's a prove me wrong event.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12302",
+      "ref": "C-12302",
+      "label": "Host Says Gabbard and Kent Are Reportedly Blocked by Patel and Could Pull the Manifests",
+      "claim": "The host says that Tulsi Gabbard or Joe Kent, who she says have been blocked by Kash Patel, should be able to look into these flights and see who is on the manifests.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10355",
+        "N-10253"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:24:52",
+      "investigative_direction": "Ask ODNI and the FBI whether manifest requests for SU-BTT and SU-BND were made and what was provided.",
+      "transcript_snippet": "as the public figured out being blocked from Kash Patel, you should be able to look into these flights and see who is on these manifests",
+      "mentions_person_refs": [
+        "N-333",
+        "N-213",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12303",
+      "ref": "C-12303",
+      "label": "Host Says Even Former TPUSA Workers Say Something Is Not Right With Feucht",
+      "claim": "The host says that even people who formerly worked at Turning Point USA say there is something not right about Sean Feucht, in addition to the organizations accusing him.",
+      "anchored_artifacts": [
+        "A-1305.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:26:47",
+      "investigative_direction": "Identify the former TPUSA staff and obtain their statements on Feucht.",
+      "transcript_snippet": "by the way, even people who formally worked at Turning Point USA say the same thing.",
+      "supports_claim_refs": [
+        "C-1549"
+      ],
+      "mentions_person_refs": [
+        "N-209"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12304",
+      "ref": "C-12304",
+      "label": "Host Says Cash Property Purchases Above Value in the Mormon Church Struck Her as Money Laundering",
+      "claim": "The host says that when she looked into the Mormon Church she saw people paying cash for property, paying more than it was worth, and that she knows a thing or two about money laundering.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10094",
+        "N-10214"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:27:49",
+      "investigative_direction": "Examine Utah property records and Church real estate filings for cash purchases above assessed value.",
+      "transcript_snippet": "People that were paying in cash, paying cash more than what the property was worth",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12305",
+      "ref": "C-12305",
+      "label": "Host Says Dave Smith Spoke on Stage and the Crowd Cheered Criticism of Israel",
+      "claim": "The host says that at the July 11, 2025 TPUSA event Dave Smith spoke, they discussed Israel being a problem, and the audience cheered.",
+      "anchored_artifacts": [
+        "A-1312.1"
+      ],
+      "related_nodes": [
+        "N-10209"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:31:21",
+      "investigative_direction": "Obtain the video of the July 11, 2025 TPUSA session with Smith and Carlson to check the Israel remarks and crowd response.",
+      "transcript_snippet": "Dave Smith is speaking. They're talking about Israel being a problem.",
+      "mentions_person_refs": [
+        "N-39",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12306",
+      "ref": "C-12306",
+      "label": "Host Says Kirk Told Tucker Backstage to Go Hard at Israel",
+      "claim": "The host says Charlie Kirk was the one who told Tucker Carlson backstage to go hard at Israel before the July 11, 2025 speech.",
+      "anchored_artifacts": [
+        "A-1312.1"
+      ],
+      "related_nodes": [
+        "N-10056",
+        "N-10033"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:31:21",
+      "investigative_direction": "Seek confirmation from Carlson or backstage staff and any messages between Kirk and Carlson from July 2025.",
+      "transcript_snippet": "And yeah, it's just a speech, which by the way, Charlie was the one who told him backstage, go hard at Israel, right?",
+      "mentions_person_refs": [
+        "N-1",
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12307",
+      "ref": "C-12307",
+      "label": "Host Says Tyler Bowyer Hired Every Person Around Charlie",
+      "claim": "The host says Tyler Bowyer is the king of shady at Turning Point USA and the one who hired every person around Charlie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:39",
+      "investigative_direction": "Compare TPUSA staff hiring and org records with the host's claim about who hired Kirk's close circle.",
+      "transcript_snippet": "He is the one, like I said, that has he has hired every person around Charlie.",
+      "mentions_person_refs": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12308",
+      "ref": "C-12308",
+      "label": "Host Says TPUSA Is a Mormon Organization, Not a Christian One",
+      "claim": "The host says that anyone who thinks Turning Point USA is a Christian organization is mistaken because it is a Mormon one.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10094",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:32:39",
+      "investigative_direction": "Compare TPUSA leadership and donor religious affiliations; the host gives no data for the sweeping characterization.",
+      "transcript_snippet": "Joke's on you if you think Turning Point USA is a Christian organization, it's a Mormon one, okay?",
+      "mentions_person_refs": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12309",
+      "ref": "C-12309",
+      "label": "Host Says She Asked Bowyer Backstage in 2024 Why Kirk Did Not Just Debate Nick Fuentes",
+      "claim": "The host says that at TPUSA's 2024 conference she asked Tyler Bowyer backstage why Charlie Kirk did not simply debate Nick Fuentes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:32:39",
+      "investigative_direction": "Identify others present at the 2024 backstage exchange and any Kirk or TPUSA statements on a Fuentes debate.",
+      "transcript_snippet": "And I said to him, why don't you just have Charlie debate Nick?",
+      "mentions_person_refs": [
+        "N-11",
+        "N-3",
+        "N-205",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12310",
+      "ref": "C-12310",
+      "label": "Host Says Bowyer Told Her TPUSA Will Always Be Pro-Israel",
+      "claim": "The host says Tyler Bowyer told her at the 2024 conference that Turning Point USA will always be pro-Israel and is never not going to be pro-Israel, which she now finds a weird thing to say.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026",
+        "N-10056",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:42",
+      "investigative_direction": "Ask Bowyer or witnesses about the exchange and look for TPUSA statements on its Israel position.",
+      "transcript_snippet": "And Tyler said to me, uh Turning Point USA USA will never will just always be pro-Israel.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12311",
+      "ref": "C-12311",
+      "label": "Host Says Josh Hammer and Seth Dillon Were Angry After Carlson's Speech",
+      "claim": "The host says that after Tucker Carlson's July 11 speech Josh Hammer and Seth Dillon were very angry.",
+      "anchored_artifacts": [
+        "A-1312.1"
+      ],
+      "related_nodes": [
+        "N-10033",
+        "N-10345"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:42",
+      "investigative_direction": "Collect Hammer's and Dillon's public posts and statements from July 11 to 13, 2025.",
+      "transcript_snippet": "Josh Hammer is is is angry. Seth Dillon is angry.",
+      "mentions_person_refs": [
+        "N-55",
+        "N-38"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12312",
+      "ref": "C-12312",
+      "label": "Host Says Bob Shillman Was Angry and Donors Told Kirk It Could Never Happen Again",
+      "claim": "The host says Bob Shillman was angry after the speech and that donors were basically telling Charlie it could never happen again and that he has to be pro-Israel.",
+      "anchored_artifacts": [
+        "A-1312.1"
+      ],
+      "related_nodes": [
+        "N-10033"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:42",
+      "investigative_direction": "Identify the donors and obtain any messages to Kirk from July 11 to 13, 2025.",
+      "transcript_snippet": "Bob Shillman is angry. And they're basically saying, Charlie, this can never happen again and you have to be pro-Israel.",
+      "supports_claim_refs": [
+        "C-1560"
+      ],
+      "mentions_person_refs": [
+        "N-98",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12313",
+      "ref": "C-12313",
+      "label": "Host Says the Plane Returned Nine Days After the Speech and Stayed in Lincoln Six Days",
+      "claim": "The host says the plane came back from Egypt just nine days after the July 11 Carlson speech, landed in Omaha at 11:37 a.m., went to Lincoln, and stayed six days.",
+      "anchored_artifacts": [
+        "A-1301.7"
+      ],
+      "related_nodes": [
+        "N-10211",
+        "N-10207"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:34:42",
+      "investigative_direction": "Obtain Omaha and Lincoln airport records for SUBTT for July 20 to 26, 2025.",
+      "transcript_snippet": "That happens July 11th and now our plane is coming back from Egypt, just 9 days later. It goes through Omaha, Nebraska at 11:37 a. m. It departs and it heads over to Lincoln, Nebraska and it stays there for 6 days.",
+      "mentions_person_refs": [
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12314",
+      "ref": "C-12314",
+      "label": "Host Says Kirk Described the Hamptons Meeting as an Intervention Over His Views on Israel",
+      "claim": "The host says Charlie Kirk himself described the Hamptons gathering as an intervention staged over his viewpoints on Israel.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10673"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:32",
+      "investigative_direction": "Obtain the messages in which Kirk used the word intervention and identify the recipients.",
+      "transcript_snippet": "Charlie himself described it as an intervention that was staged over his viewpoints on Israel, okay?",
+      "supports_claim_refs": [
+        "C-1128"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12315",
+      "ref": "C-12315",
+      "label": "Host Says Attendees Said Seth Dillon Was Rowdy and Pushing Kirk on Israel and Accuses Him of Lying",
+      "claim": "The host says people who were there said Seth Dillon was rowdy and pushing Charlie on his views on Israel, and that Dillon is lying about it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10345",
+        "N-10673"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:35:32",
+      "investigative_direction": "Interview attendees and compare with Dillon's published account of the Hamptons meeting.",
+      "transcript_snippet": "People that were there said Seth Dillon was rowdy and pushing Charlie on his views on Israel.",
+      "supports_claim_refs": [
+        "C-9425"
+      ],
+      "mentions_person_refs": [
+        "N-38",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12316",
+      "ref": "C-12316",
+      "label": "Host Says Netanyahu Left Out That Kirk Declined His Invitation",
+      "claim": "The host says Netanyahu said he called Kirk two weeks earlier and invited him to Israel, and that the part he left out was that Charlie declined.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10018",
+        "N-10342"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:19",
+      "investigative_direction": "Obtain Netanyahu's public statement on the call and any record from Kirk's side of his answer.",
+      "transcript_snippet": "and he invited him to Israel and the part that he left out was Charlie declined.",
+      "supports_claim_refs": [
+        "C-1130"
+      ],
+      "mentions_person_refs": [
+        "N-36",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12317",
+      "ref": "C-12317",
+      "label": "Host Says a Money Laundering Operation Could Have Been Happening Under Kirk's Nose",
+      "claim": "The host says that Kirk not knowing where TPUSA's money came from sounds to her like a very sophisticated money laundering operation could have been happening under his nose, and asks forensic accountants to look.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11171",
+        "N-10212"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:37:15",
+      "investigative_direction": "Review TPUSA, TPUSA Action and affiliate filings, donor flows and any audit work done under the internal DOGE effort.",
+      "transcript_snippet": "That sounds to me like a very sophisticated money laundering operation could have been happening under his nose.",
+      "supports_claim_refs": [
+        "C-1563"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12318",
+      "ref": "C-12318",
+      "label": "Host Says TPUSA Insiders Told Her the Money Looked Funny, Coming In and Going Out Fast",
+      "claim": "The host says her Turning Point insiders told her the money was indeed looking funny, a lot coming in really fast and going out really fast, though she says she has no facts, only a sense.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000",
+        "N-10212",
+        "N-11171"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:00",
+      "investigative_direction": "Obtain TPUSA financial statements and banking flow data; test the insiders' description.",
+      "transcript_snippet": "And then my Turning Point insiders tell me the money was indeed looking funny, okay? It was just a lot of money coming in really fast and going out really fast.",
+      "supports_claim_refs": [
+        "C-1563"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12319",
+      "ref": "C-12319",
+      "label": "Host Says After the Hamptons Retreat the Plane Again Went Straight to Lincoln, Nebraska",
+      "claim": "The host says that after the Hamptons retreat the yellow plane came into Nebraska, stayed six days, and again immediately went to Lincoln, and she asks what was going on in Nebraska.",
+      "anchored_artifacts": [
+        "A-1301.8"
+      ],
+      "related_nodes": [
+        "N-10211",
+        "N-11094",
+        "N-10207"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:38:48",
+      "investigative_direction": "Obtain Omaha and Lincoln airport records for SUBTT from August 17, 2025 and compare with any official visits to Nebraska that week.",
+      "transcript_snippet": "Um comes into Nebraska and again does that trip into Lincoln immediately.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12320",
+      "ref": "C-12320",
+      "label": "Host Says SUBTT Came Through Minot, North Dakota Before Provo on September 4",
+      "claim": "The host says SUBTT came in on September 4, went to Minot, North Dakota and then directly to Provo, landing at 12:46.",
+      "anchored_artifacts": [
+        "A-1301.9"
+      ],
+      "related_nodes": [
+        "N-10207",
+        "N-10074"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:39",
+      "investigative_direction": "Verify the Minot stop and Provo landing time from Flightradar and customs records.",
+      "transcript_snippet": "It comes in on September 4th, it heads to Minot, North Dakota. Uh and then it heads directly there to Provo.",
+      "supports_claim_refs": [
+        "C-9416"
+      ],
+      "mentions_person_refs": [
+        "N-10074"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12321",
+      "ref": "C-12321",
+      "label": "Host Says the Plane Was Not Full When It Departed the Morning of the Assassination",
+      "claim": "The host says that although the plane was full on arrival, it was not a full plane when it departed on the morning Charlie Kirk was assassinated.",
+      "anchored_artifacts": [
+        "A-1301.9"
+      ],
+      "related_nodes": [
+        "N-10207"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:39:39",
+      "investigative_direction": "Obtain crew and passenger declarations for the SUBTT departure on September 10, 2025.",
+      "transcript_snippet": "And it was not a full plane when it departs the morning that Charlie is assassinated.",
+      "supports_claim_refs": [
+        "C-1551"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12322",
+      "ref": "C-12322",
+      "label": "Host Says Two Planes From Scottsdale Scrambled Right After Kirk Was Shot",
+      "claim": "The host says her team found two planes that, right after Charlie Kirk was shot, scrambled from Scottsdale, Arizona, and were trying to find out who came in.",
+      "anchored_artifacts": [
+        "A-3197.1"
+      ],
+      "related_nodes": [
+        "N-11329"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:41:35",
+      "investigative_direction": "Pull FAA and Flightradar histories for the Scottsdale aircraft that flew into Utah on September 10, 2025 and identify their operators.",
+      "transcript_snippet": "There were two planes that we could find that right after Charlie gets shot scrambled uh and from Scottsdale, Arizona.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12323",
+      "ref": "C-12323",
+      "label": "Host Says Kirk Was Shot at 12:23",
+      "claim": "The host says Charlie Kirk was shot at 12:23 and that the Salt Lake City plane left shortly afterward.",
+      "anchored_artifacts": [
+        "A-1309.1"
+      ],
+      "related_nodes": [
+        "N-11329"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:20",
+      "investigative_direction": "Compare against the official time of the shooting from UVU police and 911 records.",
+      "transcript_snippet": "And then Charlie gets shot at 12:23 and this plane scrambles.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12324",
+      "ref": "C-12324",
+      "label": "Host Floats That the Scottsdale Plane May Have Picked Up Erika Kirk",
+      "claim": "The host says it is possible the Scottsdale G5 picked up Erika Kirk, and that she does not know who was on it.",
+      "anchored_artifacts": [
+        "A-1309.1"
+      ],
+      "related_nodes": [
+        "N-11329"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:20",
+      "investigative_direction": "Obtain the N102DZ operator, passenger list and Erika Kirk's September 10 travel itinerary.",
+      "transcript_snippet": "It's possible this plane picked up Erika.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12325",
+      "ref": "C-12325",
+      "label": "Host Says Mikey McCoy and His Wife Were Reportedly at the Event",
+      "claim": "The host says Mikey McCoy was there and that she thinks his wife said she was there too, and that she does not know who was on the plane.",
+      "anchored_artifacts": [
+        "A-1309.1"
+      ],
+      "related_nodes": [
+        "N-11329"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:43:20",
+      "investigative_direction": "Compare with Mikey McCoy's own accounts of where he and his wife were on September 10.",
+      "transcript_snippet": "I don't know what Mikey McCoy's wife's name I think she said she was there. Mikey McCoy was there.",
+      "mentions_person_refs": [
+        "N-194"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12326",
+      "ref": "C-12326",
+      "label": "Host Says TPUSA Staff Felt Mikey McCoy Was Being Positioned to Take Over From Kirk",
+      "claim": "The host says many of the people who work for TPUSA and are not at the top felt Mikey McCoy was being positioned to take over for Charlie Kirk, which she says she never covered because feelings are not facts.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10218",
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:47:01",
+      "investigative_direction": "Find TPUSA staff willing to describe succession planning for Mikey McCoy and compare with internal org charts.",
+      "transcript_snippet": "and they felt that Mikey McCoy was kind of being positioned to take over for Charlie Kirk.",
+      "mentions_person_refs": [
+        "N-194",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12327",
+      "ref": "C-12327",
+      "label": "Host Says Kirk Was Veering From a Predetermined Course for TPUSA",
+      "claim": "The host says that, given what she now knows about the McCoys, Charlie Kirk was veering from what she thinks was a predetermined course for Turning Point USA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:47:01",
+      "investigative_direction": "Compare Kirk's late-2025 stated positions and plans with TPUSA's documented strategy.",
+      "transcript_snippet": "the fact that Charlie was kind of veering from what I think was a predetermined course for Turning Point USA",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12328",
+      "ref": "C-12328",
+      "label": "Host Says a Tipster Raised Embezzlement With Bowyer and Described His Maricopa County Politics",
+      "claim": "The host says someone who wrote to her described Tyler Bowyer's involvement in Maricopa County politics and said he approached Bowyer several times about embezzlement.",
+      "anchored_artifacts": [
+        "A-3201.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:47:01",
+      "investigative_direction": "Ask the tipster for documentation and check Arizona records on Bowyer's earlier organizations.",
+      "transcript_snippet": "And yeah, it's just the kind of stories he said he approached him several times about embezzlement.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12329",
+      "ref": "C-12329",
+      "label": "Host Says the Tipster Alleged Bowyer Was Hooking Up With Young Male Interns and Staff",
+      "claim": "The host says the same tipster alleged Tyler Bowyer was hooking up with young male interns or young male workers, that he did not care, and that the tipster says he has proof.",
+      "anchored_artifacts": [
+        "A-3201.1"
+      ],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:47:01",
+      "investigative_direction": "Request the proof the tipster says he has and any HR complaints; treat as an unverified allegation.",
+      "transcript_snippet": "Tyler was hooking up with young interns, young male interns or young male workers, and he didn't even care.",
+      "mentions_person_refs": [
+        "N-11",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12330",
+      "ref": "C-12330",
+      "label": "Host Says the UVU President Majored in Soviet Studies",
+      "claim": "The host says the president of Utah Valley University majored in Soviet studies and that there are many Russian speakers and Soviet studies people around UVU and TPUSA.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10012",
+        "N-10115"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:48:15",
+      "investigative_direction": "Check the UVU president's published biography and degree history.",
+      "transcript_snippet": "Uh even the president of UVU majored majored in Soviet studies.",
+      "supports_claim_refs": [
+        "C-10790"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12331",
+      "ref": "C-12331",
+      "label": "Host Says Tyler Bowyer Majored in Soviet Studies and Is a Fluent Russian Speaker",
+      "claim": "The host says Tyler Bowyer majored in Soviet studies, is a fluent Russian speaker, and spent years in that world.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11059",
+        "N-10115"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:48:15",
+      "investigative_direction": "Check Bowyer's education and language background through his biography and earlier public statements.",
+      "transcript_snippet": "Tyler Bowyer majored in Soviet studies. He's a fluent Russian speaker.",
+      "mentions_person_refs": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12332",
+      "ref": "C-12332",
+      "label": "Host Says Bowyer Was Involved With Ukrainian Orphanages and Posted About Helping Russian-Speaking Orphans Years Ago",
+      "claim": "The host says Tyler Bowyer was involved with orphanages in Ukraine and posted years ago, around ten years ago, about helping Russian-speaking orphans.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11059"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:48:15",
+      "investigative_direction": "Find Bowyer's old posts and the organizations involved, and compare with earlier Romania claims.",
+      "transcript_snippet": "it's very interesting that he was involved uh with orphanages in the Ukraine uh posted about helping Russian-speaking orphans or whatever it is years ago.",
+      "mentions_person_refs": [
+        "N-11"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12333",
+      "ref": "C-12333",
+      "label": "Host Says Kirk Had Patel on His Show and Fought for Him as FBI Director",
+      "claim": "The host says Charlie Kirk had Kash Patel on his show and fought for Patel to become FBI director.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10202"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:17",
+      "investigative_direction": "Find Kirk Show episodes with Patel and Kirk's public advocacy for his appointment.",
+      "transcript_snippet": "Kash Patel, Charlie had him on his show. Kash Patel should be the FBI director. He fought for that.",
+      "mentions_person_refs": [
+        "N-69",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12334",
+      "ref": "C-12334",
+      "label": "Host Mocks the 33 Numerology Claims and Says Those Behind the Killing Communicate With Numerology",
+      "claim": "The host recounts claims that Tyler Robinson's file adds up to 33 and the Utah Freemason Lodge is number 33, and says this was an assassination at a very high level and they do communicate with numerology.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10031",
+        "N-11129"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:50:17",
+      "investigative_direction": "Check the factual basis of the 33 pairings (file number, lodge number); the numerology inference is not testable.",
+      "transcript_snippet": "Oh, Tyler Robinson's file adds up to 33. Oh, the Freemason Lodge in St. George or in Utah is number 33. It's like we get it, okay?",
+      "mentions_person_refs": [
+        "N-40",
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12335",
+      "ref": "C-12335",
+      "label": "Host Says Israel Is Probably Involved in the Border and Definitely Involved in All the Wars",
+      "claim": "The host says she thinks the state of Israel is probably involved in what is happening at the border and overseas and is definitely involved in all the wars.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:51:43",
+      "investigative_direction": "No specific records are cited; it would require documentation tying Israel to named border and war events.",
+      "transcript_snippet": "because I think the state of Israel is probably involved in what is happening at the border, in what is happening overseas. It is definitely involved in all these wars.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12336",
+      "ref": "C-12336",
+      "label": "Host Cites Dan Gertler as an Example of Israel's Role in Congo and the Diamond Trade",
+      "claim": "The host says that when people point to Christians being slaughtered in Congo, Dan Gertler is the Israeli connection, and asks how Israel is number one in the diamond trade.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10026"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:52:25",
+      "investigative_direction": "Check public sanctions and Congo mining records on Gertler and Israel's position in the diamond trade.",
+      "transcript_snippet": "They'll be like, \"Well, look at what the Christians are being slaughtered in Congo.\" Oopsies, Dan Gertler.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-917"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12337",
+      "ref": "C-12337",
+      "label": "Host Says Evangelical Influencers and Megachurch Leaders Are Mum and Want It Known as Just a Trans Shooter",
+      "claim": "The host says evangelical and megachurch influencers are mum on Charlie Kirk, want to move on, and want it known that it was just a trans shooter.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10209"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:52:25",
+      "investigative_direction": "Survey statements by the major evangelical influencers and pastors on the investigation since September 10.",
+      "transcript_snippet": "you are probably noticing about now that they are mum on the topic of Charlie Kirk. They want to move on. They want to let it be known that it's just a trans shooter.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12338",
+      "ref": "C-12338",
+      "label": "Host Says People Around Kirk Acted Weird in the Hours After the Assassination",
+      "claim": "The host says the people around Charlie Kirk acted real weird in the hours after the assassination, doing way too much to say they had nothing to do with it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10000"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:14",
+      "investigative_direction": "Compile the timeline of TPUSA public statements and posts from the hours after the shooting.",
+      "transcript_snippet": "they're acting real weird in the hours after Charlie's assassination, doing way too much.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12339",
+      "ref": "C-12339",
+      "label": "Host Says the Attacks on Tucker Carlson Are Because He Attacks Christian Zionism",
+      "claim": "The host says TPUSA-aligned figures are attacking Tucker Carlson because he is attacking Christian Zionism.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10209"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:54:03",
+      "investigative_direction": "Review the attacks on Carlson and the stated reasons.",
+      "transcript_snippet": "They're attacking Tucker Carlson because he's attacking Christian Zionism.",
+      "mentions_person_refs": [
+        "N-22"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12340",
+      "ref": "C-12340",
+      "label": "Host Says They Are Angry at Kirk Because He Might Get Off the Christian Zionist Reservation",
+      "claim": "The host says the people around him are angry at Charlie because it looks like he might get off the Christian Zionist reservation.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10209",
+        "N-10056"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:54:03",
+      "investigative_direction": "Compare with the messages in which the host says Kirk wanted to leave the pro-Israel cause.",
+      "transcript_snippet": "They're angry at at at Charlie because it's looking like he might get off the Christian Zionist reservation because that's what it is, okay?",
+      "supports_claim_refs": [
+        "C-9428"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12341",
+      "ref": "C-12341",
+      "label": "Host Says She Has Messages With Charlie She Has Not Revealed",
+      "claim": "The host says she has read her messages with Charlie over and over, including ones she has not revealed.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:54:48",
+      "investigative_direction": "Ask the host to publish the unreleased messages with metadata so they can be authenticated.",
+      "transcript_snippet": "I have read my messages over and over again with Charlie, ones I have not even revealed",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12342",
+      "ref": "C-12342",
+      "label": "Host Says Kirk Knew He Would Die Young and That She Would Be the One to Fight for Him",
+      "claim": "The host says Charlie Kirk knew he was going to die, said from the time he started Turning Point USA that his life would be short, and knew she would be the one to fight for him.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:55:42",
+      "investigative_direction": "Compare with dated messages or witnesses who heard Kirk say his life would be short.",
+      "transcript_snippet": "He knew he was going to die. He knew he said from the time he started Turning Point USA that his life was going to be short and he knew that I would be the one to fight for him.",
+      "supports_claim_refs": [
+        "C-6546"
+      ],
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12343",
+      "ref": "C-12343",
+      "label": "Host Says PragerU Was Pushing Her to Interview Pastor Jack Hibbs",
+      "claim": "The host says Pastor Jack Hibbs was another person PragerU was pushing to her, wanting her to interview him.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10131"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:59:59",
+      "investigative_direction": "Find PragerU's outreach to the host and any interview of Hibbs.",
+      "transcript_snippet": "He was another person that PragerU was pushing to me. Uh wanted me to interview him.",
+      "mentions_person_refs": [
+        "N-212",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12344",
+      "ref": "C-12344",
+      "label": "Host Says Hibbs Was Also Part of TPUSA Faith Events",
+      "claim": "The host says Jack Hibbs was also part of Turning Point USA Faith events and that she is now looking at TPUSA Faith sideways.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10398"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:59:59",
+      "investigative_direction": "Check TPUSA Faith event rosters for Hibbs appearances.",
+      "transcript_snippet": "So, Jack Hibbs was also a part of like a Turning Point USA Faith events, and I am looking at Turning Point USA Faith sideways.",
+      "mentions_person_refs": [
+        "N-212"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12345",
+      "ref": "C-12345",
+      "label": "Host Says She Now Believes She Had Handlers Directing Her Toward Hibbs, Rose and Ballard",
+      "claim": "The host says that PragerU wanted her to platform Lila Rose, Jack Hibbs and Tim Ballard, that she now thinks it was part of an operation, and that she had handlers directing her and never questioned them until today.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10131"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:59:59",
+      "investigative_direction": "Ask the host to identify the handlers and show the communications through which guests were pushed to her.",
+      "transcript_snippet": "I look back on that stuff, and I'm reflecting, and I realize that, like I said, I had handlers, and they were directing me to do things",
+      "mentions_person_refs": [
+        "N-3",
+        "N-232",
+        "N-212",
+        "N-329"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12346",
+      "ref": "C-12346",
+      "label": "Host Says TPUSA Keeps Working With Feucht Despite the Allegations",
+      "claim": "The host says TPUSA Faith does not appear to care about the allegations against Sean Feucht and is just going to keep working with him and Rob McCoy.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10398"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:00:49",
+      "investigative_direction": "Check TPUSA Faith event schedules after June 2025 for continued Feucht involvement.",
+      "transcript_snippet": "It doesn't matter. We're just going to keep on continuing working with him. Rob McCoy.",
+      "supports_claim_refs": [
+        "C-1549"
+      ],
+      "mentions_person_refs": [
+        "N-209",
+        "N-17"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12347",
+      "ref": "C-12347",
+      "label": "Host Says There Has Definitely Been an Infiltration With Christian Zionists at the Helm",
+      "claim": "The host says there has definitely been an infiltration of TPUSA and that Christian Zionists are at the helm of it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10209"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:01:33",
+      "investigative_direction": "Evaluate against the documented donor, staff and event links the host has presented; the claim depends on those.",
+      "transcript_snippet": "to consider what I am telling you that there has definitely been an infiltration, and Christian Zionists are at the helm of it",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12348",
+      "ref": "C-12348",
+      "label": "Host Says the Finkelstein Interview Releases at 7 p.m. Eastern in About 30 Minutes",
+      "claim": "The host says her interview with Norman Finkelstein was bumped for this episode and will release at 7:00 p.m. Eastern, in about 30 minutes.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "01:02:13",
+      "investigative_direction": "Check the interview's upload time on October 31, 2025.",
+      "transcript_snippet": "That interview is going to release at 7:00 p. m. Eastern, so in about 30 minutes if you stick around.",
+      "supports_claim_refs": [
+        "C-9446"
+      ],
+      "mentions_person_refs": [
+        "N-203",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-12349",
+      "ref": "C-12349",
+      "label": "Host Says Gaza Has Been an Effective Holocaust Since 1948 by the Legal Definition",
+      "claim": "The host says what has happened in Gaza has been going on since 1948 and is an effective holocaust by the legal definition, which Norman Finkelstein will explain.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10063"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "01:02:13",
+      "investigative_direction": "Not testable from this episode; it is the host's characterization of Gaza.",
+      "transcript_snippet": "It has been an effective holocaust since 1948 uh by the legal definition of a holocaust, which Norman Finkelstein will explain better than I do.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-203",
+        "N-3"
+      ]
     }
   ],
   "memes": [
@@ -1828,6 +4933,214 @@
           "confidence": "high",
           "tags": [
             "wave3"
+          ]
+        },
+        {
+          "episode": 23,
+          "video_timestamp": "00:20:27",
+          "speaker_node_ref": "N-3",
+          "quote": "And lo and behold, Turning Point USA on February 11th",
+          "context": "Host reveals the Lincoln chapter start as the plane sits in Lincoln.",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "plane timeline"
+          ]
+        },
+        {
+          "episode": 23,
+          "video_timestamp": "00:23:41",
+          "speaker_node_ref": "N-3",
+          "quote": "Lo and behold, BTT is then going to come in from Cairo",
+          "context": "Host reveals the second plane arriving beside the first.",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "plane timeline"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-47",
+      "ref": "M-47",
+      "canonical_term": "Megachurches Look Funny",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 23,
+          "video_timestamp": "00:28:46",
+          "speaker_node_ref": "N-3",
+          "quote": "these mega churches are looking a little funny. Okay? They're looking a little funny.",
+          "context": "Host side-eyes megachurch business model mid-investigation talk.",
+          "confidence": "high",
+          "tags": [
+            "church",
+            "sarcasm",
+            "money"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-30",
+      "ref": "M-30",
+      "canonical_term": "Nothing to See Here",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 23,
+          "video_timestamp": "00:14:15",
+          "speaker_node_ref": "N-3",
+          "quote": "Nothing else to see here. Goodbye.",
+          "context": "Host mimics the official line on the Nashville school shooting.",
+          "confidence": "high",
+          "tags": [
+            "sarcasm",
+            "covenant"
+          ]
+        },
+        {
+          "episode": 23,
+          "video_timestamp": "00:52:25",
+          "speaker_node_ref": "N-3",
+          "quote": "these people are trying to tell you that there's nothing to see here",
+          "context": "Host says influencers are telling viewers there is nothing to see.",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "evangelicals"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-45",
+      "ref": "M-45",
+      "canonical_term": "Spiritual Warfare",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 23,
+          "video_timestamp": "00:52:25",
+          "speaker_node_ref": "N-3",
+          "quote": "I spiritually feel that something is wrong.",
+          "context": "Host frames the post-assassination silence as spiritual.",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "faith"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 23,
+          "video_timestamp": "00:26:47",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm going to say this is allegedly reading this from the article",
+          "context": "Host hedges while reading the Feucht allegations.",
+          "confidence": "high",
+          "tags": [
+            "hedge",
+            "allegedly"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-46",
+      "ref": "M-46",
+      "canonical_term": "Handler",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 23,
+          "video_timestamp": "00:59:59",
+          "speaker_node_ref": "N-3",
+          "quote": "I had handlers, and they were directing me to do things",
+          "context": "Host says she now thinks PragerU-linked handlers steered her guests.",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "handlers"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-300",
+      "ref": "M-300",
+      "canonical_term": "Rehab Phone Call From Bibi",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 23,
+          "video_timestamp": "00:35:32",
+          "speaker_node_ref": "N-3",
+          "quote": "You know how every episode of Intervention ends, they ask you if you want to go to rehab cuz they love you, okay?",
+          "context": "Host compares the Hamptons meeting to a reality-show intervention.",
+          "confidence": "high",
+          "tags": [
+            "running bit",
+            "intervention"
+          ]
+        },
+        {
+          "episode": 23,
+          "video_timestamp": "00:36:19",
+          "speaker_node_ref": "N-3",
+          "quote": "So, when he got the phone call to go to figurative rehab, Charlie said, no, I'm good, actually.",
+          "context": "Host casts Netanyahu's call as the offer of rehab Kirk refused.",
+          "confidence": "high",
+          "tags": [
+            "running bit",
+            "netanyahu"
+          ]
+        },
+        {
+          "episode": 23,
+          "video_timestamp": "00:38:00",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm not going to go to rehab in Israel and I'm not going to take your money.",
+          "context": "Host voices Kirk refusing Netanyahu's rehab and money.",
+          "confidence": "high",
+          "tags": [
+            "running bit",
+            "netanyahu"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 23,
+          "video_timestamp": "00:02:30",
+          "speaker_node_ref": "N-3",
+          "quote": "nswer to the centralized intelligence agency, as we have said, is the decentralized intelligence agency. We must decentralize ourselves to plug out...",
+          "context": "DIA tip-network refrain. (CKA seq 23)",
+          "confidence": "high",
+          "tags": [
+            "reuse",
+            "pass2"
           ]
         }
       ]

@@ -11,8 +11,13 @@
 - **Transcript SHA-256**: a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10f): N-919, N-11336, N-11337
+  - Hole-minted Nodes (reintro-ep043): N-395
+  - Tip-minted Nodes (reintro-ep043): N-11186, N-11287
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10f): C-12477–C-12523
   - New Nodes Introduced: N-316, N-317, N-318, N-319, N-320, N-321, N-10317, N-10318, N-10320, N-10321, N-10322, N-10325
-  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10316, N-10324, N-10319, N-10323
+  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10316, N-10324, N-10319, N-10323, N-7, N-9, N-22, N-40, N-162, N-194, N-224, N-271, N-10000, N-10015, N-10193, N-10202, N-10340
   - (see registers)
 
 ---
@@ -192,6 +197,82 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (as referenced comment)
 
 *Related: C-1875, C-1876, N-10321*
+
+---
+
+**A-3208** Overseas Falcone Tip Bundle
+
+**A-3208.1** Host verbal reference to a tip received from overseas that TPUSA-linked people took a meeting with Pierre Falcone (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:10:04
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-12486, C-12487, C-12488, N-3, N-316, N-10317*
+
+---
+
+**A-3209** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3209.1** Host verbal call for more tips at candaceowens.com
+
+Quoted text: "please email us more tips at candaceowens. com"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:10:04
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12485, N-3*
+
+---
+
+**A-3210** Tim Pool Show Milo Yiannopoulos Segment Bundle
+
+**A-3210.1** Clip played of Milo Yiannopoulos, George Santos and Tim Pool discussing Epstein files, Trumpism and the Turning Point account
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:25:22
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12505, C-12506, C-12507, C-12508, N-224, N-271, N-919, N-395*
+
+**A-3210.2** Host verbal description of what Tim Pool said on the same show about her viewers and his lost subscribers (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:24:03
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-12503, C-12504, N-271, N-224*
+
+---
+
+**A-3211** TPUSA Insider Night-Before Tip Bundle
+
+**A-3211.1** Host verbal reference to a tip from someone within TPUSA about Charlie's messages the night before the assassination (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:19:58
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-12499, C-12500, C-12501, N-1, N-274, N-10320*
+
+---
+
+**A-3212** Qatar Hamas Interview Bundle
+
+**A-3212.1** Host verbal reference to a Qatari interview about its relationship with Hamas (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:39:37
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-12520, N-11336, N-11337*
 
 ---
 
@@ -512,6 +593,168 @@ Investigative Pressure: Medium
 
 ---
 
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-12480, C-12481, C-12482, C-12483, C-12485, C-12486, C-12487, C-12503, C-12504*
+
+---
+
+**N-7** Frank Turek
+
+Pastor the host says called cover-up questions crazy because Charlie would not have hired people who betrayed him.
+
+*Related: C-12479*
+
+---
+
+**N-10015** Mossad
+
+Israeli intelligence service; Kirk's May 2025 JFK remarks discuss its mention in the JFK files.
+
+*Related: C-12477*
+
+---
+
+**N-10000** Turning Point USA
+
+Organization at the center of the tips, the Falcone lead and the promised response.
+
+*Related: C-12479, C-12486, C-12488, C-12497, C-12499, C-12500, C-12508, C-12516, C-12518, C-12521*
+
+---
+
+**N-40** Tyler Robinson
+
+Accused in the Kirk shooting; the host says Patel called him the only person involved.
+
+*Related: C-12484*
+
+---
+
+**N-22** Tucker Carlson
+
+The host recalls his on-stage question about how people become billionaires.
+
+*Related: C-12498*
+
+---
+
+**N-224** Milo Yiannopoulos
+
+Commentator in the Tim Pool clip, speaking on Epstein files and TPUSA's account.
+
+*Related: C-12503, C-12505, C-12506, C-12507, C-12508*
+
+---
+
+**N-271** Tim Pool
+
+Host of the show where Milo and George Santos appear; the host says he called her viewers stupid.
+
+*Related: C-12503, C-12504, C-12505, C-12508*
+
+---
+
+**N-395** Steve Bannon
+
+Cited by Milo as saying Epstein was the key that picks the lock.
+
+*Related: C-12505*
+
+---
+
+**N-9** Jeffrey Epstein
+
+Subject of the Epstein files discussion in the Tim Pool clip.
+
+*Related: C-12505, C-12506, C-12507*
+
+---
+
+**N-162** Blake Neff
+
+TPUSA figure whose prior-episode diatribe the host references.
+
+*Related: C-12516*
+
+---
+
+**N-194** Mikey McCoy
+
+Person whose call logs a viewer comment asks to see.
+
+*Related: C-12517*
+
+---
+
+**N-10193** Mikey McCoy Call Log Verification
+
+Existing topic reused for the viewer request about call logs and metadata around 12:23 p.m.
+
+*Related: C-12517*
+
+---
+
+**N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
+
+Existing topic reused for Patel's interview statements and the host's FBI-contact claim.
+
+*Related: C-12482, C-12484*
+
+---
+
+**N-10340** Night-Before Text Messages to Andrew Kolvet and Dan Flood
+
+Existing topic reused for the insider tip about Charlie's messages the night before.
+
+*Related: C-12499, C-12500*
+
+---
+
+**N-11186** Angolagate
+
+Existing topic for the Angolan arms-for-oil scandal described by the host and the CorpWatch text.
+
+*Related: C-12489, C-12490, C-12491, C-12493, C-12494, C-12495, C-12496*
+
+---
+
+**N-11287** Tim Pool Dispute With Candace Owens
+
+Existing topic reused for the host's account of Tim Pool's remarks.
+
+*Related: C-12503, C-12504*
+
+---
+
+**N-919** George Santos
+
+First named by the host at 00:25:22 in episode 43. Former congressman who appears in the Tim Pool clip.
+
+*Related: C-12505, C-12506, C-12507, A-3210.1*
+
+---
+
+**N-11336** Qatar
+
+Node Type: Place
+Country the host says gave an interview about its relationship with Hamas.
+
+*Related: C-12520, A-3212.1*
+
+---
+
+**N-11337** Hamas
+
+Node Type: Organization
+Organization the host says Qatar was asked by the US government to establish a relationship with.
+
+*Related: C-12520, A-3212.1*
+
+---
+
 ## V. Claim Register
 
 **C-1862** Charlie Kirk asserted that more than one person was involved in the JFK assassination
@@ -759,6 +1002,754 @@ Investigative Direction: Cross-reference against depositions, congressional test
 
 ---
 
+**C-12477** Kirk said Mossad's mention in the JFK files does not show involvement
+
+Claim Timestamp: 00:01:07
+
+Claim: In the May 2025 clip, Charlie Kirk says Mossad is mentioned in the JFK files largely because it is a very good intelligence operation, and that the mentions do not show it was tied to or involved in the assassination.
+
+Transcript Snippet: It was not mentioned as if they were tied or that they knew about it or that they were involved.
+
+Anchored Artifacts: A-1513.1
+Mentions: N-1
+Related Nodes: N-10015
+Tags: relevance:context
+Investigative Direction: Obtain the full unedited clip of the May 2025 event to confirm Kirk's wording, the venue and the questioner.
+
+---
+
+**C-12478** Kirk listed 15 or 20 inexcusable events on the day of the JFK assassination
+
+Claim Timestamp: 00:02:03
+
+Claim: In the May 2025 clip, Charlie Kirk says there were 15 or 20 inexcusable things that day, naming the changed parade route, the open-air convertible, LBJ not riding alongside JFK and the vehicle slowing near the Texas School Book Depository.
+
+Transcript Snippet: There were like 15 or 20 things that happened that day that were inexcusable. They changed the parade route. He rode in an open-air convertible.
+
+Anchored Artifacts: A-1513.1
+Mentions: N-1
+Supports: C-1862
+Tags: relevance:tangential
+Investigative Direction: Compare Kirk's list with the Warren Commission record and the Dallas motorcade route documents; obtain the full clip.
+
+---
+
+**C-12479** Host says Frank Turek called cover-up questions crazy because Charlie would not have hired traitors
+
+Claim Timestamp: 00:03:44
+
+Claim: The host says Pastor Frank Turek argues that suggesting TPUSA employees could be covering something up is crazy because it would mean Charlie Kirk hired people who ultimately betrayed him.
+
+Transcript Snippet: Well, Frank Turek, Pastor Frank Turek, says that's so crazy because that would mean that Charlie Kirk hired people that ultimately betrayed him.
+
+Anchored Artifacts: 
+Mentions: N-7, N-1
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Locate Turek's original statement (show, interview or post) and confirm the wording and date.
+
+---
+
+**C-12480** Host says a viable threat came from the Macron couple who apparently paid for her assassination
+
+Claim Timestamp: 00:06:28
+
+Claim: The host says there was a viable threat to her life that came from the Macron couple, who she says apparently paid for her assassination, and that people laughed when she said so.
+
+Transcript Snippet: People also laughed when I said um that there was thereafter a viable threat, which came from the Macron couple who apparently paid for my assassination.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10316
+Tags: relevance:core
+Investigative Direction: Ask the host for the source and date of the alleged threat; check for any law-enforcement or court record of it.
+
+---
+
+**C-12481** Host says no government body or the Elysee disputes the Macron threat narrative
+
+Claim Timestamp: 00:06:28
+
+Claim: The host says the Pentagon, the White House, US intelligence agencies and the Elysee Palace are not disputing her narrative about the Macron couple, and that the FBI can now be added to that list.
+
+Transcript Snippet: neither the Pentagon nor the White House or our intel agencies or the Elysée Palace are disputing that narrative.
+
+Anchored Artifacts: A-1514.1
+Mentions: N-3, N-69, N-46
+Related Nodes: N-10316
+Tags: relevance:core
+Investigative Direction: Check for any public denial by the Elysee, the White House or the FBI of the alleged threat; obtain the full Kelly/Patel segment.
+
+---
+
+**C-12482** Host says the FBI has not communicated with her about the alleged French threat
+
+Claim Timestamp: 00:08:21
+
+Claim: Addressing Kash Patel, the host says there has been no communication from the FBI to her about the allegation, saying he left her on red.
+
+Transcript Snippet: Because actually you kind of left me on red. There has been no communication with uh the FBI.
+
+Anchored Artifacts: A-1514.1
+Mentions: N-3, N-69
+Related Nodes: N-10316, N-10202
+Tags: relevance:core
+Investigative Direction: Ask the host whether she sent the FBI any submission and when; request any FBI correspondence log.
+
+---
+
+**C-12483** Host says she told that she had proof the French government was on the ground that day
+
+Claim Timestamp: 00:08:21
+
+Claim: The host says she asserted that she had proof that the government of France was involved in Charlie Kirk's assassination and was on the ground on the day of the shooting.
+
+Transcript Snippet: I said that I had proof that French is that that the the government of France was involved in Charlie Kirk's assassination, that they were on the ground that day.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Related Nodes: N-10316
+Tags: relevance:core
+Investigative Direction: Identify the proof the host refers to; compare with her earlier episodes making the France claim.
+
+---
+
+**C-12484** Host says Patel asserted in the interview that Tyler Robinson is the only person involved
+
+Claim Timestamp: 00:09:26
+
+Claim: The host says that in the same Megyn Kelly interview Kash Patel asserted that he is certain Tyler Robinson is the only person involved in the assassination.
+
+Transcript Snippet: In this very interview that you are asserting that you are certain that Tyler Robinson is the only person involved.
+
+Anchored Artifacts: A-1514.1
+Mentions: N-69, N-40, N-46
+Related Nodes: N-10202
+Tags: relevance:core
+Investigative Direction: Check the full interview transcript for Patel's exact words on whether Robinson acted alone.
+
+---
+
+**C-12485** Host asks viewers to email more tips to candaceowens.com
+
+Claim Timestamp: 00:10:04
+
+Claim: The host invites viewers who know more about the Pierre Falcone lead to email more tips to candaceowens.com. DIA beat.
+
+Transcript Snippet: please email us more tips at candaceowens. com
+
+Anchored Artifacts: A-3209.1
+Mentions: N-3
+Tags: relevance:context
+Investigative Direction: Review the tips mailbox for Falcone-related submissions.
+
+---
+
+**C-12486** Host says an overseas tip says TPUSA-linked people met Pierre Falcone
+
+Claim Timestamp: 00:10:04
+
+Claim: The host says that after the previous episode she received a tip from overseas that Turning Point, people who work with it or one of its action organizations, took a meeting with Pierre Falcone, and says this cannot yet be verified.
+
+Transcript Snippet: Turning Point, people that work with Turning Point or one of their, you know, action organizations, who knows which organization, they have a few, um took a meeting with this particular Pierre.
+
+Anchored Artifacts: A-3208.1
+Mentions: N-3, N-316
+Related Nodes: N-10317, N-10000
+Tags: relevance:core
+Investigative Direction: Identify the tipster and any meeting record (calendar, travel, photos) linking Falcone to TPUSA or Turning Point Action.
+
+---
+
+**C-12487** Host floats that Charlie was being asked to join a global trafficking network
+
+Claim Timestamp: 00:10:04
+
+Claim: The host says she had an intuition that global trafficking could be involved and that Charlie may have been asked to be brought in, because the organization he built has a presence in all 50 states.
+
+Transcript Snippet: Like that this could be maybe somehow Charlie was being asked to be brought in.
+
+Anchored Artifacts: A-3208.1
+Mentions: N-3, N-1
+Related Nodes: N-10325
+Tags: relevance:core
+Investigative Direction: Ask the host for any documentary basis; none is offered in this episode.
+
+---
+
+**C-12488** Host says Falcone lives in Scottsdale, Arizona and is a billionaire
+
+Claim Timestamp: 00:10:04
+
+Claim: The host says the person named in the tip, Pierre Falcone, lives in Scottsdale, Arizona, where TPUSA is based, and is a billionaire.
+
+Transcript Snippet: this person who lives in Scottsdale, Arizona and is a billionaire and that is where Turning Point USA is based
+
+Anchored Artifacts: A-3208.1
+Mentions: N-316
+Related Nodes: N-10317, N-10000
+Supports: C-1867
+Tags: relevance:core
+Investigative Direction: Check Arizona property records, corporate filings and Forbes-type wealth listings for Falcone.
+
+---
+
+**C-12489** Host says Falcone's scandal almost brought down the French government
+
+Claim Timestamp: 00:10:04
+
+Claim: The host says Pierre Falcone was involved in a scandal that almost brought down the French government, involving Africa, Angola, Israel, France and the United States.
+
+Transcript Snippet: He was involved in a scandal that almost brought down the French government and it involved, here we go, Africa, Angola in particular, Israel, uh France and the United States.
+
+Anchored Artifacts: 
+Mentions: N-316
+Related Nodes: N-11186
+Supports: C-1869
+Tags: relevance:context
+Investigative Direction: Review contemporaneous French political reporting on Angolagate (1999-2000) for any threat to the government.
+
+---
+
+**C-12490** Host says the arms trafficking to Angola was discovered in 1999 during French elections
+
+Claim Timestamp: 00:13:31
+
+Claim: The host says it was discovered during French elections, dating to 1999, that the French government was involved in trafficking military-grade weapons to Angola to facilitate the civil war.
+
+Transcript Snippet: it gets discovered during the course of French elections and this is dating back to 1999 that the French government is actually involved in trafficking weapons, military grade weapons, to Angola to facilitate this war
+
+Anchored Artifacts: 
+Mentions: N-316
+Related Nodes: N-11186
+Tags: relevance:context
+Investigative Direction: Compare with French judicial chronology of the Angolagate investigation (investigation opened 2000).
+
+---
+
+**C-12491** Host says Brenco International was run by Arcadi Gaydamak with Pierre Falcone as partner
+
+Claim Timestamp: 00:13:31
+
+Claim: The host says Brenco International sold the arms to the Angolan president and was run by Arcadi Gaydamak, whose partner was Pierre Falcone. The CorpWatch text she reads later describes Falcone as head of the firm.
+
+Transcript Snippet: Now, Brenco International is run by this guy, his name is Arcadi Gaydamak.
+
+Anchored Artifacts: 
+Mentions: N-317, N-316
+Related Nodes: N-11186
+Tags: relevance:context
+Investigative Direction: Check French court findings on who headed Brenco International versus the related Falcone company.
+
+---
+
+**C-12492** Host says Pierre Falcone was born in Algeria and moved to France
+
+Claim Timestamp: 00:13:31
+
+Claim: The host says Pierre Falcone was born in Algeria and moved to France after the Algerian civil war.
+
+Transcript Snippet: Pierre Falcone is born in Algeria. He moves to France after the Algerian civil war.
+
+Anchored Artifacts: 
+Mentions: N-316
+Tags: relevance:tangential
+Investigative Direction: Check biographical sources and court records for Falcone's birthplace and arrival in France.
+
+---
+
+**C-12493** Host says the French interior minister was implicated in Angolagate
+
+Claim Timestamp: 00:14:36
+
+Claim: Reading from a website called Corruption Tracker, the host says the French interior minister was implicated in the Angolagate scandal.
+
+Transcript Snippet: You have the French interior minister that was implicated.
+
+Anchored Artifacts: A-1515.1
+Related Nodes: N-11186
+Tags: relevance:context
+Investigative Direction: Identify which interior minister is meant and confirm the court outcome against that person.
+
+---
+
+**C-12494** Host says 41 politicians were involved in Angolagate
+
+Claim Timestamp: 00:15:38
+
+Claim: The host says that, according to her reading, the Angolagate scandal ended up involving 41 politicians across multiple states.
+
+Transcript Snippet: It ends up being 41 politicians involved, multiple states and of course uh multiple nations that are involved including Angola.
+
+Anchored Artifacts: A-1515.1
+Related Nodes: N-11186
+Tags: relevance:context
+Investigative Direction: Verify the number against French trial records or the source site.
+
+---
+
+**C-12495** Host says human rights groups demanded Congress probe the Bush administration over Angolagate
+
+Claim Timestamp: 00:15:38
+
+Claim: The host says human rights groups demanded that Congress probe the Bush administration's involvement in Angolagate because they claim it struck a deal for oil.
+
+Transcript Snippet: Human rights groups demanded that Congress also probe the Bush administration's involvement because they claim they did a deal and got involved for oil.
+
+Anchored Artifacts: A-1515.2
+Related Nodes: N-11186
+Tags: relevance:context
+Investigative Direction: Locate the human-rights-group statements and any congressional response cited in the CorpWatch article.
+
+---
+
+**C-12496** CorpWatch text says Gaydamak funneled billions in arms and oil-backed loans to Angola
+
+Claim Timestamp: 00:15:38
+
+Claim: Reading a CorpWatch passage that cites a Global Witness report, the host says Arcadi Gaydamak funneled billions of dollars in arms and oil-backed loans to Angola's government in return for oil contracts with Western oil companies.
+
+Transcript Snippet: Gaydamak funneled billions, billions of dollars in arms and oil-backed loans to Angola's government in return for lucrative oil contracts with with western oil companies.
+
+Anchored Artifacts: A-1515.2
+Mentions: N-317
+Related Nodes: N-11186
+Tags: relevance:context
+Investigative Direction: Pull the Global Witness 'All the President's Men' report and confirm the figures and wording.
+
+---
+
+**C-12497** Host says sources in France report outrage and that Falcone vanished from France after his appeal
+
+Claim Timestamp: 00:17:26
+
+Claim: The host says, according to her sources in France, the French found the appeal outcome naked corruption, and that Pierre Falcone then disappeared from France and reappeared in Scottsdale.
+
+Transcript Snippet: Uh they found this to be naked corruption when he won his appeal and then afterwards Pierre Falcone just disappeared into thin air, disappeared from France because as it turns out he actually reappeared in Scottsdale
+
+Anchored Artifacts: A-1515.2
+Mentions: N-316
+Related Nodes: N-10317
+Supports: C-1867
+Tags: relevance:core
+Investigative Direction: Identify the French sources; check French press on Falcone's departure and any Interpol or residency records.
+
+---
+
+**C-12498** Host says Tucker Carlson asked on stage how people become billionaires
+
+Claim Timestamp: 00:19:07
+
+Claim: The host says Tucker Carlson, on stage, asked how certain people become billionaires, and that she believes he was right.
+
+Transcript Snippet: I believe Tucker Carlson was right when he called that out on stage and started asking about how these people become billionaires.
+
+Anchored Artifacts: 
+Mentions: N-22
+Tags: relevance:context
+Investigative Direction: Locate the Tucker Carlson stage remarks the host refers to (event and date).
+
+---
+
+**C-12499** Host says a TPUSA insider tip says Charlie messaged a donor and a TPUSA staffer the night before
+
+Claim Timestamp: 00:19:58
+
+Claim: The host says she received a tip from someone within Turning Point USA that the night before he died Charlie Kirk messaged a donor and a TPUSA person, which she says she knows for a fact.
+
+Transcript Snippet: we also received a tip from somebody within Turning Point USA that that the night before he died, I know for a fact he messaged a donor and he messaged um somebody at Turning Point USA.
+
+Anchored Artifacts: A-3211.1
+Mentions: N-3, N-1
+Related Nodes: N-10320, N-10340, N-10000
+Tags: relevance:core
+Investigative Direction: Obtain the messages or phone records for the night of September 9, 2025; identify the donor and the staffer.
+
+---
+
+**C-12500** Host says she was told Charlie also messaged Dan Flood that they were going to kill him tomorrow
+
+Claim Timestamp: 00:19:58
+
+Claim: The host says she was told that Charlie also messaged Dan Flood, the security man to his right, and allegedly said explicitly that they are going to kill him tomorrow.
+
+Transcript Snippet: he also messaged Dan Flood, the security that's to his right, and allegedly explicitly said uh that they are going to kill me tomorrow.
+
+Anchored Artifacts: A-3211.1
+Mentions: N-1, N-274
+Related Nodes: N-10320, N-10340
+Tags: relevance:core
+Investigative Direction: Obtain the message thread between Kirk and Flood and the device records, subject to legal process.
+
+---
+
+**C-12501** Host says it is an absolute fact that many people know Charlie sensed he would die the next day
+
+Claim Timestamp: 00:19:58
+
+Claim: The host says that many people know Charlie sensed he was going to die the next day is an absolute fact, and that it is a massive question why these individuals are all quiet.
+
+Transcript Snippet: So, again, that many people know that Charlie sensed that he was going to die tomorrow is an absolute fact.
+
+Anchored Artifacts: A-3211.1
+Mentions: N-1
+Related Nodes: N-10320
+Supports: C-12500
+Tags: relevance:core
+Investigative Direction: Identify who knew; seek on-record statements from the people the host says are silent.
+
+---
+
+**C-12502** Host says the CIA has been engaged in trafficking weapons and drugs
+
+Claim Timestamp: 00:23:20
+
+Claim: The host says that the CIA has obviously been engaged in trafficking weapons and drugs, and that one could argue the deep state was put together to do that.
+
+Transcript Snippet: which obviously our CIA has been engaged engaged in trafficking.
+
+Anchored Artifacts: 
+Tags: relevance:tangential
+Investigative Direction: Review public records (Church Committee, congressional reports) for substantiation of the host's general assertion.
+
+---
+
+**C-12503** Host says Tim Pool hosted Milo and called her viewers stupid for refusing fed slop
+
+Claim Timestamp: 00:24:03
+
+Claim: The host says Tim Pool hosted Milo Yiannopoulos and first called her viewers stupid, saying they will not eat the fed slop being given to them.
+
+Transcript Snippet: he hosted Milo Yiannopoulos on his show and first and foremost he called all of you stupid.
+
+Anchored Artifacts: A-3210.2
+Mentions: N-271, N-224, N-3
+Related Nodes: N-11287
+Tags: relevance:context
+Investigative Direction: Watch the Tim Pool episode in question and confirm the exact remarks and date.
+
+---
+
+**C-12504** Host says Tim Pool lamented losing subscribers after attacking her
+
+Claim Timestamp: 00:24:03
+
+Claim: The host says Tim Pool later in the same show lamented losing a bunch of subscribers because he attacked her.
+
+Transcript Snippet: later on in the show he kind of lamented the fact that he lost a bunch of subscribers to his show because he attacked me
+
+Anchored Artifacts: A-3210.2
+Mentions: N-271, N-3
+Related Nodes: N-11287
+Tags: relevance:context
+Investigative Direction: Check the Tim Pool episode and public subscriber statistics for the period.
+
+---
+
+**C-12505** Milo says Bannon called Epstein the key that picks the lock
+
+Claim Timestamp: 00:26:05
+
+Claim: In the Tim Pool clip, Milo Yiannopoulos says Steve Bannon said Jeffrey Epstein was the key that picks the lock for the questions people ask about how the world works. Another speaker interjects that Bannon consulted for Epstein.
+
+Transcript Snippet: said who would know better as it turns out. He said that uh Epstein was the key that uh picks the lock, right?
+
+Anchored Artifacts: A-3210.1
+Mentions: N-224, N-395, N-9, N-919, N-271
+Related Nodes: N-10324
+Tags: relevance:context
+Investigative Direction: Locate the Bannon remark Milo cites and the Tim Pool episode; verify the 'consulted for Epstein' interjection separately.
+
+---
+
+**C-12506** Milo says every Trump voter expected the Epstein files to be released immediately
+
+Claim Timestamp: 00:26:44
+
+Claim: In the Tim Pool clip, Milo says there is not one person who voted for Donald Trump who did not want and expect the Epstein files to be released immediately; another speaker objects that he voted for other reasons.
+
+Transcript Snippet: there isn't one person who voted for Donald Trump who did not want and did not expect the Epstein files to be released immediately.
+
+Anchored Artifacts: A-3210.1
+Mentions: N-224, N-9, N-919
+Related Nodes: N-10324
+Tags: relevance:context
+Investigative Direction: Compare with polling on Trump voters' expectations about the Epstein files.
+
+---
+
+**C-12507** Panelist says Trump's 'no Epstein files' line was the moment Trumpism died
+
+Claim Timestamp: 00:27:41
+
+Claim: In the Tim Pool clip, after a speaker describes Trump saying there are no Epstein files and telling people to stop asking, a speaker says that is the moment Trumpism died.
+
+Transcript Snippet: That is the moment Trumpism died. I agree. >> And don't we need a reckoning?
+
+Anchored Artifacts: A-3210.1
+Mentions: N-224, N-9, N-919
+Related Nodes: N-10324
+Tags: relevance:context
+Investigative Direction: Identify which panelist says this on the Tim Pool episode and the Trump remark being referenced.
+
+---
+
+**C-12508** Milo calls the Feds' and TPUSA's account obviously inadequate and says TPUSA is losing to the host
+
+Claim Timestamp: 00:27:41
+
+Claim: In the Tim Pool clip, Milo Yiannopoulos calls the account from the Feds and Turning Point about the events around Charlie Kirk's death obviously inadequate, says the host has exposed inconsistencies, and says Turning Point is losing to her.
+
+Transcript Snippet: the obviously inadequate account from the Feds and Turning Point about what happened around, before, and after Charlie Kirk's death
+
+Anchored Artifacts: A-3210.1
+Mentions: N-224, N-1, N-3, N-271
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Confirm Milo's statement in the full Tim Pool episode; this is an opinion attributed to Milo, not a verified finding.
+
+---
+
+**C-12509** Jesse Kege says the ammunition used in the shooting is unknown
+
+Claim Timestamp: 00:30:18
+
+Claim: In the One Shot TV video, Jesse Kege says there are about a thousand .30-06 loads and nobody knows what kind of ammunition was used, so he tests two common rounds.
+
+Transcript Snippet: we don't even know what kind of ammo was used. It could literally be anything.
+
+Anchored Artifacts: A-1516.1
+Mentions: N-320
+Related Nodes: N-10319
+Tags: relevance:context
+Investigative Direction: Compare with any official statement or charging document on the cartridge type recovered.
+
+---
+
+**C-12510** Jesse Kege bought a 150gr Hornady ballistic tip round to maximize the chance of stopping in the target
+
+Claim Timestamp: 00:30:18
+
+Claim: In the One Shot TV video, Jesse Kege says he bought the 150gr Hornady ballistic tip round specifically for the test to give the highest chance of a round stopping in the target, and that the 180gr FMJ ball is among the most common loads.
+
+Transcript Snippet: I actually bought this one specifically for this test just to give us the highest chance of something stopping in the target.
+
+Anchored Artifacts: A-1516.1
+Mentions: N-320
+Related Nodes: N-10319
+Tags: relevance:context
+Investigative Direction: Obtain the full video and the result for the second round, which the episode does not show.
+
+---
+
+**C-12511** Kege set up a dummy bust with three water jugs and a downward angle from a truck roof
+
+Claim Timestamp: 00:31:47
+
+Claim: In the One Shot TV video, Jesse Kege describes a ballistic dummy bust on a table with three five-gallon water jugs behind it, and a shot from a truck roof to mimic the downward angle of the real shot; he says he cannot shoot from 140 yards for this video.
+
+Transcript Snippet: I'm not going to be able to take the shot at 140 yards.
+
+Anchored Artifacts: A-1516.1
+Mentions: N-320
+Related Nodes: N-10319
+Tags: relevance:context
+Investigative Direction: Compare the setup geometry with the official shot angle and distance; obtain the earlier 140 yard video he links.
+
+---
+
+**C-12512** Kege says shooting from 30 or 40 versus 140 makes almost no difference
+
+Claim Timestamp: 00:32:23
+
+Claim: In the One Shot TV video, Jesse Kege says there will be almost no difference between a shot at 30 or 40 (units not stated in the transcript) and one at 140, because it is a thousand yard gun.
+
+Transcript Snippet: There's going to be almost no difference between 30 or 40 and 140. It's a thousand yard gun.
+
+Anchored Artifacts: A-1516.1
+Mentions: N-320
+Related Nodes: N-10319
+Tags: relevance:context
+Investigative Direction: Have a ballistics expert assess terminal energy at the stated ranges for the tested loads.
+
+---
+
+**C-12513** Kege says the result shows why people are skeptical of the official story
+
+Claim Timestamp: 00:33:21
+
+Claim: In the One Shot TV video, after the shot Jesse Kege says the result is why people are skeptical of the official story and that the .30-06 is a very hard round to stop.
+
+Transcript Snippet: that right there is why people are skeptical on the official story. The 30-06 is a very hard round to stop.
+
+Anchored Artifacts: A-1516.1
+Mentions: N-320
+Related Nodes: N-10319
+Tags: relevance:context
+Investigative Direction: Have independent firearms experts review the video; compare with the official ballistics findings.
+
+---
+
+**C-12514** Host says the .30-06 bullet would have decapitated Charlie
+
+Claim Timestamp: 00:33:21
+
+Claim: The host says that is what she means when she says that bullet would have decapitated Charlie, and that the idea it ricocheted and went inward is beyond ridiculous.
+
+Transcript Snippet: That's what we mean when we say that particular bullet would have decapitated Charlie.
+
+Anchored Artifacts: A-1516.1
+Mentions: N-1
+Related Nodes: N-10319
+Supports: C-1873
+Tags: relevance:core
+Investigative Direction: Obtain the autopsy findings and official wound description to compare against the host's assertion.
+
+---
+
+**C-12515** Host says people close to Charlie are not honest about his anxiety the night before he died
+
+Claim Timestamp: 00:34:33
+
+Claim: The host says people close to Charlie are aware of things and are not honest about the anxiety Charlie had the night before he died.
+
+Transcript Snippet: they're not honest about the anxiety that Charlie had the night before he died
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10320
+Supports: C-12501
+Tags: relevance:core
+Investigative Direction: Identify who spoke with Kirk the night of September 9, 2025 and seek their accounts.
+
+---
+
+**C-12516** Host says Blake Neff gave a diatribe in the prior episode about why TPUSA took a while to respond
+
+Claim Timestamp: 00:37:36
+
+Claim: The host says the prior episode concerned Blake Neff's diatribe about why Turning Point took a while to respond.
+
+Transcript Snippet: last episode was regarding Blake Neff and his diatribe of, you know, why Turning Point took a while to respond.
+
+Anchored Artifacts: 
+Mentions: N-162
+Related Nodes: N-10000
+Tags: relevance:context
+Investigative Direction: Review the prior episode and Neff's original statement for the exact content.
+
+---
+
+**C-12517** Viewer comment asks to see Mikey's call logs and metadata around 12:23 p.m.
+
+Claim Timestamp: 00:37:36
+
+Claim: The host reads a viewer comment asking whether the public can see Mikey's call logs and the metadata before and after 12:23 p.m.
+
+Transcript Snippet: Can we see Mikey's call logs and the metadata before and after 12:23 p. m.? Much more.
+
+Anchored Artifacts: A-1518.6
+Mentions: N-194
+Related Nodes: N-10193
+Tags: relevance:context
+Investigative Direction: Cross-reference with host-shown Mikey McCoy call logs in other episodes and request the carrier records.
+
+---
+
+**C-12518** Host says TPUSA has said it will soon do something to answer questions
+
+Claim Timestamp: 00:38:23
+
+Claim: The host says TPUSA has said it is going to be doing something in the near future to answer questions.
+
+Transcript Snippet: they have said they are going to be doing something in the near future to answer questions
+
+Anchored Artifacts: 
+Related Nodes: N-10000
+Tags: relevance:core
+Investigative Direction: Track the TPUSA announcement and the planned response event cited by the AZ Master Baker comment.
+
+---
+
+**C-12519** Host recommends John Mappin's essay The Perfumed Pervert
+
+Claim Timestamp: 00:38:23
+
+Claim: The host tells viewers to follow John Mappin and read his essay The Perfumed Pervert.
+
+Transcript Snippet: follow John Mappin and read his essay The Perfumed Pervert.
+
+Anchored Artifacts: 
+Mentions: N-157
+Tags: relevance:context
+Investigative Direction: Locate the essay and review its content before any claim is drawn from it.
+
+---
+
+**C-12520** Host says Qatar said it has a relationship with Hamas because the US government asked it to
+
+Claim Timestamp: 00:39:37
+
+Claim: The host, asking if she is correct, says Qatar gave an interview saying the reason it has a relationship with Hamas is that the US government asked it to establish one.
+
+Transcript Snippet: they said the reason why we have a relationship with Hamas is because the US government asked us to establish one.
+
+Anchored Artifacts: A-3212.1
+Related Nodes: N-11336, N-11337
+Tags: relevance:tangential
+Investigative Direction: Locate the Qatari interview and confirm who said it and when.
+
+---
+
+**C-12521** Host says many leaks she has received came from TPUSA employees
+
+Claim Timestamp: 00:39:37
+
+Claim: The host says a lot of the leaks she has received have come from TPUSA employees, and that this shows there are good people in the organization.
+
+Transcript Snippet: obviously a lot of leaks that we've received have come from TPUSA employees.
+
+Anchored Artifacts: 
+Related Nodes: N-10000
+Supports: C-4915
+Tags: relevance:core
+Investigative Direction: Corroborate through on-record statements or documents from current or former TPUSA staff.
+
+---
+
+**C-12522** Host says holding a life insurance policy on a spouse is normal, whether corporate implications exist is separate
+
+Claim Timestamp: 00:41:02
+
+Claim: The host says it is normal to have a life insurance policy if married, that corporate implications are a separate question that could also be normal, and that she has asked questions about it.
+
+Transcript Snippet: some of that obviously is normal to have a life insurance policy if you are married to somebody.
+
+Anchored Artifacts: A-1518.5
+Mentions: N-1
+Related Nodes: N-10322
+Tags: relevance:context
+Investigative Direction: Obtain the policy details reported by the Daily Mail and any corporate key-person policy filings.
+
+---
+
+**C-12523** Host says viral posts claim Charlie is not yet buried and she told that he had a Catholic funeral mass
+
+Claim Timestamp: 00:41:57
+
+Claim: The host says people are saying Charlie Kirk has not yet been buried, that she told viewers he had a Catholic funeral mass, and that she will address the burial rumor the next day.
+
+Transcript Snippet: people that are saying that Charlie Kirk has not yet been buried yet. I told you that he had a Catholic funeral mass.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10323
+Supports: C-6532
+Tags: relevance:context
+Investigative Direction: Check cemetery or funeral-home records and the host's follow-up the next episode.
+
+---
+
 ## 6. Meme Register
 
 **M-54** (meme) Psyop
@@ -770,6 +1761,138 @@ Speaker: N-3
 Quote: Remember the first government psyop on the people, MK Ultra?
 Context: Host links modern narrative pressure to classic government psyop.
 Tags: intel, residual, mk_ultra
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:10:04
+Speaker: N-3
+Quote: please email us more tips at candaceowens. com
+Context: Host asks for tips on the Falcone lead.
+Tags: dia, tips
+Confidence: high
+
+---
+
+**M-38** (meme) MK Ultra
+
+### Occurrence 1
+
+Video Timestamp: 00:02:43
+Speaker: N-3
+Quote: Especially in the midst of well, MK Ultra 2.0.
+Context: Host frames the current narrative as MK Ultra 2.0 after the Kirk JFK clip.
+Tags: mk ultra, psyop
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:24:03
+Speaker: N-3
+Quote: they will not just eat the fed slop that we are trying to give them
+Context: Host relays Tim Pool's remark about her viewers refusing fed slop.
+Tags: fed slop
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:28:23
+Speaker: N-3
+Quote: We are voting in terms of when we say I don't want to listen to this podcaster because they're trying to get me to eat this fed slop.
+Context: Host says the public is voting with its eyes against influencer narratives.
+Tags: fed slop, influencers
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:30:18
+Speaker: N-3
+Quote: speaking of the ridiculous fed slop narrative
+Context: Host introduces the Jesse Kege .30-06 test.
+Tags: fed slop, ballistics
+Confidence: high
+
+---
+
+**M-75** (meme) I'll Say Allegedly
+
+### Occurrence 1
+
+Video Timestamp: 00:10:04
+Speaker: N-3
+Quote: I'm going to say allegedly again regarding the Turning Point USA connection
+Context: Host hedges the unverified Falcone tip.
+Tags: allegedly, hedge
+Confidence: high
+
+---
+
+**M-303** (meme) Operation Mockingbird 2.0
+
+### Occurrence 1
+
+Video Timestamp: 00:03:44
+Speaker: N-3
+Quote: And now it's being deployed again, Mockingbird Operation Mockingbird 2.0, to convince people that questions about the Charlie Kirk narrative are just crazy.
+Context: Host says the media posture mirrors Mockingbird after JFK.
+Tags: mockingbird, psyop
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:09:26
+Speaker: N-3
+Quote: despite the many millions of dollars that is being spent on this Operation Mockingbird 2.0 campaign
+Context: Host says Patel knows she is telling the truth.
+Tags: mockingbird
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:24:03
+Speaker: N-3
+Quote: what's happening on the Operation Mockingbird 2.0 side is now they are all blaming me for the upcoming midterms
+Context: Host says critics will blame her for midterm losses.
+Tags: mockingbird, midterms
+Confidence: high
+
+---
+
+**M-304** (meme) No Gangs
+
+### Occurrence 1
+
+Video Timestamp: 00:19:07
+Speaker: N-3
+Quote: Whether you're going to join the gang of global governance
+Context: Host frames refusing elites as the choice Charlie allegedly faced.
+Tags: gang, global governance
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:41:57
+Speaker: N-3
+Quote: we don't want to pledge no gangs, man.
+Context: Host closes the show on independence.
+Tags: gang, independence
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:42:53
+Speaker: N-3
+Quote: I'm not here for gang culture and I'm sorry.
+Context: Host closes the show on independence.
+Tags: gang, independence
 Confidence: high
 
 ---

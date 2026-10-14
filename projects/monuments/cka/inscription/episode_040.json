@@ -19,13 +19,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1489",
       "family_ref": "A-1489",
-      "bundle_name": "Blake Nef Video Statement Bundle",
+      "bundle_name": "Blake Neff Video Statement Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1489.1",
           "ref": "A-1489.1",
-          "description": "Blake Nef pre-recorded TPUSA video statement, played in full on air",
+          "description": "Blake Neff pre-recorded TPUSA video statement, played in full on air",
           "related_claims": [
             "C-1820",
             "C-1821",
@@ -1501,7 +1501,7 @@
       "@id": "C-1820",
       "ref": "C-1820",
       "label": "TPUSA publicly invited Candace to participate in a Phoenix livestream to address allegations",
-      "claim": "TPUSA, via Blake Nef's video statement, announced a planned Phoenix livestream and extended a public invitation to the host to participate.",
+      "claim": "TPUSA, via Blake Neff's video statement, announced a planned Phoenix livestream and extended a public invitation to the host to participate.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -1737,7 +1737,7 @@
       "@id": "C-5064",
       "ref": "C-5064",
       "label": "Neff Is Producer of the Charlie Kirk Show, Kolvet Is Spokesperson",
-      "claim": "The host says Blake Nef is the producer and a rotating on-air talent of the Charlie Kirk Show, and that she expected TPUSA spokesperson Andrew Kolvet to deliver the response.",
+      "claim": "The host says Blake Neff is the producer and a rotating on-air talent of the Charlie Kirk Show, and that she expected TPUSA spokesperson Andrew Kolvet to deliver the response.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -1745,7 +1745,7 @@
       "tags": [],
       "claim_timestamp": "00:02:31",
       "investigative_direction": "Check Blake Neff's and Andrew Kolvet's published TPUSA titles and roles on the Charlie Kirk Show.",
-      "transcript_snippet": "Blake Nef, by the way, is the producer of the Charlie Kirk show.",
+      "transcript_snippet": "Blake Neff, by the way, is the producer of the Charlie Kirk show.",
       "mentions_person_refs": [
         "N-162",
         "N-14",
@@ -1757,7 +1757,7 @@
       "@id": "C-5065",
       "ref": "C-5065",
       "label": "Host Says Neff Has Defended Mikey McCoy's Actions",
-      "claim": "The host says Blake Nef has been defending the actions of Mikey McCoy on September 10, and that she senses he believes he is telling the truth.",
+      "claim": "The host says Blake Neff has been defending the actions of Mikey McCoy on September 10, and that she senses he believes he is telling the truth.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10198"
@@ -1777,7 +1777,7 @@
       "@id": "C-5066",
       "ref": "C-5066",
       "label": "Neff Says He Has Seen Mikey McCoy's Birth Certificate",
-      "claim": "In the statement the host plays, Blake Nef says that Candace Owens suggested Michael is not Mikey McCoy's real name and that he has seen McCoy's birth certificate himself.",
+      "claim": "In the statement the host plays, Blake Neff says that Candace Owens suggested Michael is not Mikey McCoy's real name and that he has seen McCoy's birth certificate himself.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -1797,7 +1797,7 @@
       "@id": "C-5067",
       "ref": "C-5067",
       "label": "Neff Says McCoy's Wife Does Not Work on Campus Events",
-      "claim": "In the statement the host plays, Blake Nef says Mikey McCoy's wife works at TPUSA but does not work on campus events, and so did not plan the Utah event.",
+      "claim": "In the statement the host plays, Blake Neff says Mikey McCoy's wife works at TPUSA but does not work on campus events, and so did not plan the Utah event.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -2042,7 +2042,7 @@
       "tags": [],
       "claim_timestamp": "00:09:19",
       "investigative_direction": "Find the Kolvet statement on SD card removal and compare it with the other accounts of who took the card and why.",
-      "transcript_snippet": "Andrew Kovette sat next to you and said it was because people were stealing.",
+      "transcript_snippet": "Andrew Kolvet sat next to you and said it was because people were stealing.",
       "supports_claim_refs": [
         "C-1369"
       ],
@@ -2136,7 +2136,7 @@
       "@id": "C-5084",
       "ref": "C-5084",
       "label": "Neff Statement Says Host Called Turek and McCoy Part of a Military Infiltration",
-      "claim": "In the statement the host plays, Blake Nef says Candace Owens suggested TPUSA Faith pastors including Frank Turek and Rob McCoy are part of a military infiltration of Turning Point.",
+      "claim": "In the statement the host plays, Blake Neff says Candace Owens suggested TPUSA Faith pastors including Frank Turek and Rob McCoy are part of a military infiltration of Turning Point.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -2146,7 +2146,7 @@
       "tags": [],
       "claim_timestamp": "00:10:06",
       "investigative_direction": "Compare against the host's earlier statements about military ties of Turek and McCoy.",
-      "transcript_snippet": "She has suggested that TPUSA faith affiliated pastors like theologian Frank Turk, who we'll have on in a moment, and pastor Rob McCoy, are part of a military quote infiltration of Turning Point",
+      "transcript_snippet": "She has suggested that TPUSA faith affiliated pastors like theologian Frank Turek, who we'll have on in a moment, and pastor Rob McCoy, are part of a military quote infiltration of Turning Point",
       "mentions_person_refs": [
         "N-162",
         "N-7",
@@ -2256,7 +2256,7 @@
       "@id": "C-5090",
       "ref": "C-5090",
       "label": "Neff Says Charlie Had TPUSA Audited by a Third Party Every Year",
-      "claim": "In the statement the host plays, Blake Nef says Charlie made sure TPUSA was audited by a third party every year.",
+      "claim": "In the statement the host plays, Blake Neff says Charlie made sure TPUSA was audited by a third party every year.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -2340,7 +2340,7 @@
       "@id": "C-5094",
       "ref": "C-5094",
       "label": "Neff Says Host Alleged French Paratroopers, Egyptian Planes, Tunnels and Soccer-Team Hoodies",
-      "claim": "In the statement the host plays, Blake Nef lists allegations he says the host made, including French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, underground tunnels and suspicion of UVU soccer players in hoodies.",
+      "claim": "In the statement the host plays, Blake Neff lists allegations he says the host made, including French paratroopers in maroon shirts, Egyptian Air Force planes flying out of Provo, underground tunnels and suspicion of UVU soccer players in hoodies.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -2453,7 +2453,7 @@
       "@id": "C-5100",
       "ref": "C-5100",
       "label": "Neff Says TPUSA Friends Suffered More Harassment From the Host's Audience Than From Antifa",
-      "claim": "In the statement the host plays, Blake Nef says his friends have suffered more harassment from people stirred up by Candace Owens than from Antifa supporters who celebrate Charlie's murder.",
+      "claim": "In the statement the host plays, Blake Neff says his friends have suffered more harassment from people stirred up by Candace Owens than from Antifa supporters who celebrate Charlie's murder.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -2474,7 +2474,7 @@
       "@id": "C-5101",
       "ref": "C-5101",
       "label": "Neff Says TPUSA Received Hundreds or Thousands of Emails and Calls",
-      "claim": "In the statement the host plays, Blake Nef says that for months TPUSA received hundreds, perhaps thousands, of emails and calls asking it to respond.",
+      "claim": "In the statement the host plays, Blake Neff says that for months TPUSA received hundreds, perhaps thousands, of emails and calls asking it to respond.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -2494,7 +2494,7 @@
       "@id": "C-5102",
       "ref": "C-5102",
       "label": "Neff Says TPUSA Should Not Answer Questions About Tunnels or Egyptian Planes",
-      "claim": "In the statement the host plays, Blake Nef says TPUSA thought the host's allegations were so absurd that nobody would believe them and that it should not have to answer questions about secret tunnels or Egyptian Air Force planes.",
+      "claim": "In the statement the host plays, Blake Neff says TPUSA thought the host's allegations were so absurd that nobody would believe them and that it should not have to answer questions about secret tunnels or Egyptian Air Force planes.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -2516,7 +2516,7 @@
       "@id": "C-5103",
       "ref": "C-5103",
       "label": "Neff Says Charlie Viewed Candace as a Friend and TPUSA Hoped She Would Stop",
-      "claim": "In the statement the host plays, Blake Nef says TPUSA also did not respond because Charlie always viewed Candace as a friend and TPUSA hoped she would return that friendship and stop.",
+      "claim": "In the statement the host plays, Blake Neff says TPUSA also did not respond because Charlie always viewed Candace as a friend and TPUSA hoped she would return that friendship and stop.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -2536,7 +2536,7 @@
       "@id": "C-5104",
       "ref": "C-5104",
       "label": "Neff Says Host Uses Falsehoods to Enrich Herself",
-      "claim": "In the statement the host plays, Blake Nef says the host is using falsehoods to enrich herself while dividing the conservative movement.",
+      "claim": "In the statement the host plays, Blake Neff says the host is using falsehoods to enrich herself while dividing the conservative movement.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -2640,7 +2640,7 @@
       "tags": [],
       "claim_timestamp": "00:26:31",
       "investigative_direction": "Review the public records and the Macron defamation filings; this is a disputed and litigated claim.",
-      "transcript_snippet": "Sometimes it's Breijgit and why we are colluding uh with nations to cover the obvious fact that Breijgit was born a male.",
+      "transcript_snippet": "Sometimes it's Brigitte and why we are colluding uh with nations to cover the obvious fact that Brigitte was born a male.",
       "mentions_person_refs": [
         "N-3",
         "N-82"
@@ -2651,7 +2651,7 @@
       "@id": "C-5110",
       "ref": "C-5110",
       "label": "Neff Says TPUSA's Silence Was Never Complacency or Approval",
-      "claim": "In the statement the host plays, Blake Nef says TPUSA's silence has never been, and will never be, equal to complacency or approval.",
+      "claim": "In the statement the host plays, Blake Neff says TPUSA's silence has never been, and will never be, equal to complacency or approval.",
       "anchored_artifacts": [
         "A-1489.1"
       ],
@@ -3056,7 +3056,7 @@
       "tags": [],
       "claim_timestamp": "00:47:25",
       "investigative_direction": "Review the Delaware docket and the host's disclosures on legal costs.",
-      "transcript_snippet": "Thus far in the Breijit Mcronone lawsuit, we have paid over a quarter of a million dollars and we haven't even had our first day in court.",
+      "transcript_snippet": "Thus far in the Brigitte Macron lawsuit, we have paid over a quarter of a million dollars and we haven't even had our first day in court.",
       "mentions_person_refs": [
         "N-3",
         "N-82",
@@ -3077,7 +3077,7 @@
       "tags": [],
       "claim_timestamp": "00:47:25",
       "investigative_direction": "Reconstruct Brigitte Macron's public schedule for September 4 to 10, 2025.",
-      "transcript_snippet": "we can't find the answer as to where Rajit Mcronone was on the dates of the Egyptian plane was flying around America just like a six-day gap in Braz",
+      "transcript_snippet": "we can't find the answer as to where Rajit Macron was on the dates of the Egyptian plane was flying around America just like a six-day gap in Braz",
       "mentions_person_refs": [
         "N-3",
         "N-82"
@@ -3098,7 +3098,7 @@
       "tags": [],
       "claim_timestamp": "00:47:25",
       "investigative_direction": "Locate Macron's released calendar entry for September 10 and compare against the time of the shooting.",
-      "transcript_snippet": "an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emanuel Mcronone had a phone call that has been recorded in Emanuel Mcronone's public calendar which has been released.",
+      "transcript_snippet": "an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar which has been released.",
       "supports_claim_refs": [
         "C-1830"
       ],
@@ -3124,7 +3124,7 @@
       "tags": [],
       "claim_timestamp": "00:49:59",
       "investigative_direction": "Ask the Elysee and the White House for the call readout.",
-      "transcript_snippet": "we also know that there's been a lot of discussion about Ukraine, and there's a million reasons that Emanuel Mcronone and him could have had that poorly timed phone call.",
+      "transcript_snippet": "we also know that there's been a lot of discussion about Ukraine, and there's a million reasons that Emmanuel Macron and him could have had that poorly timed phone call.",
       "qualifies_claim_refs": [
         "C-1830"
       ],

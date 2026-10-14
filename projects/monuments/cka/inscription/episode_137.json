@@ -160,13 +160,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2241",
       "family_ref": "A-2241",
-      "bundle_name": "Andrew Kovat Hotel Screenshot Bundle",
+      "bundle_name": "Andrew Kolvet Hotel Screenshot Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2241.1",
           "ref": "A-2241.1",
-          "description": "Still image from Benny Johnson show (Sept 11) showing Andrew Kovat at Asher Adams Hotel",
+          "description": "Still image from Benny Johnson show (Sept 11) showing Andrew Kolvet at Asher Adams Hotel",
           "related_claims": [
             "C-3215"
           ],
@@ -628,7 +628,7 @@
       "ref": "N-162",
       "name": "Blake Neff",
       "type": "person",
-      "description": "Commenter analogy \"Blake Nef thing\" for high-place gaslighting; host agrees pattern.",
+      "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
       "related_artifacts": [],
       "related_claims": [
         "C-7475",
@@ -1519,8 +1519,8 @@
       "@type": "Claim",
       "@id": "C-3215",
       "ref": "C-3215",
-      "label": "Andrew Kovat appeared on Benny Johnson's show from a room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025",
-      "claim": "A screenshot displayed from Benny Johnson's show on September 11, 2025 shows Andrew Kovat broadcasting from a room at the Asher Adams (Autograph Collection) Hotel in Salt Lake City.",
+      "label": "Andrew Kolvet appeared on Benny Johnson's show from a room at the Asher Adams Hotel in Salt Lake City on Sept 11, 2025",
+      "claim": "A screenshot displayed from Benny Johnson's show on September 11, 2025 shows Andrew Kolvet broadcasting from a room at the Asher Adams (Autograph Collection) Hotel in Salt Lake City.",
       "anchored_artifacts": [
         "A-2241.1"
       ],
@@ -1680,7 +1680,7 @@
       ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Capture the Turek post or podcast clip and X trending data for 2026-08-03 to 2026-08-04 to confirm the trend and the wording.",
-      "transcript_snippet": "Frank Turk is actually going viral right now, trending on X for seemingly using the Bible to message that I should be struck down.",
+      "transcript_snippet": "Frank Turek is actually going viral right now, trending on X for seemingly using the Bible to message that I should be struck down.",
       "mentions_person_refs": [
         "N-7",
         "N-3"

@@ -191,7 +191,7 @@ Like I said, I have and I have recorded and documented every piece of this case.
 
 [33:15]
 
-Okay, I'm speaking to people with first-hand intimate knowledge and they all believe that the feds set this up. So how are there people out there saying otherwise? Why wouldn't I testify for the defense? I want to find Charlie's real killer. I don't want to find some random kid that they're sticking this on. It's not Tyler Robinson. Tyler Robinson did not do this alone. I feel the opposite of how Erika Kirk felt sitting next to Barry Weiss. With everything I have collected, I feel the exact opposite as Charlie Kirk's wife. I feel almost certain that Tyler Robinson did not shoot Not I would say I would say I I feel 99.9% certain that Tyler Robinson did not shoot Charlie Kirk from a rooftop by himself. How about that?
+Okay, I'm speaking to people with first-hand intimate knowledge and they all believe that the feds set this up. So how are there people out there saying otherwise? Why wouldn't I testify for the defense? I want to find Charlie's real killer. I don't want to find some random kid that they're sticking this on. It's not Tyler Robinson. Tyler Robinson did not do this alone. I feel the opposite of how Erika Kirk felt sitting next to Bari Weiss. With everything I have collected, I feel the exact opposite as Charlie Kirk's wife. I feel almost certain that Tyler Robinson did not shoot Not I would say I would say I I feel 99.9% certain that Tyler Robinson did not shoot Charlie Kirk from a rooftop by himself. How about that?
 
 [33:54]
 
@@ -307,7 +307,7 @@ You're actually all just a bunch of prostitutes as far as I'm concerned. You're 
 
 [55:11]
 
-Okay? It's like in the newspaper. It's not something you can just like deny. But yeah, she was attacking me like with this whole Catholic conspiracy to Russia. I had House in needs to be in rehab coming after me uh with all sorts She was using AI images of my husband with Milo. Like it was just it was insane. And then I was like, "Who is behind all this? Who is behind all of And then I find out House in Habit dealing with Andrew Kolb and I was like, "Okay. Turning Point is upset again." They send the lowest IQ people like just like people that you have to lower yourself and have nothing left in the PR uh realm. You have no tricks left. When you when you go to Laura Loomer and say, "Can you attack someone?" You are you are just scraping the bottom of the barrel. Laura Loomer and House in Habit, you're just you've just you've hit the bottom.
+Okay? It's like in the newspaper. It's not something you can just like deny. But yeah, she was attacking me like with this whole Catholic conspiracy to Russia. I had House in needs to be in rehab coming after me uh with all sorts She was using AI images of my husband with Milo. Like it was just it was insane. And then I was like, "Who is behind all this? Who is behind all of And then I find out House in Habit dealing with Andrew Kolvet and I was like, "Okay. Turning Point is upset again." They send the lowest IQ people like just like people that you have to lower yourself and have nothing left in the PR uh realm. You have no tricks left. When you when you go to Laura Loomer and say, "Can you attack someone?" You are you are just scraping the bottom of the barrel. Laura Loomer and House in Habit, you're just you've just you've hit the bottom.
 
 [55:59]
 
@@ -315,7 +315,7 @@ You've hit the You there's no way. You can't go lower than that. They're attacki
 
 [56:39]
 
-"Where were you?" Uh sitting at my table working on my show. Savannah came downstairs and said Charlie had been shot. "What did you get from that?" I went into uh the office my husband's office and I prayed and then I cried for the rest of the day. I called Tucker Carlson. Uh called Andrew Kolb. Texted with all both of them. Figured out what was going on. Found out he was dead. Cried for the rest of the day. Got into bed. Like What's so hard about that? Why is this so hard for you guys? Why are you paying money to go after Joe Kent and Candace Owens and what are you guys doing? I don't know what you're being guilty of. You're being extraordinarily guilty of something. Jen Travis writes, "Candace really out here casually flexing her We know Stand With Candace cup like it's not so This is sold out." I really didn't know.
+"Where were you?" Uh sitting at my table working on my show. Savannah came downstairs and said Charlie had been shot. "What did you get from that?" I went into uh the office my husband's office and I prayed and then I cried for the rest of the day. I called Tucker Carlson. Uh called Andrew Kolvet. Texted with all both of them. Figured out what was going on. Found out he was dead. Cried for the rest of the day. Got into bed. Like What's so hard about that? Why is this so hard for you guys? Why are you paying money to go after Joe Kent and Candace Owens and what are you guys doing? I don't know what you're being guilty of. You're being extraordinarily guilty of something. Jen Travis writes, "Candace really out here casually flexing her We know Stand With Candace cup like it's not so This is sold out." I really didn't know.
 
 [57:26]
 

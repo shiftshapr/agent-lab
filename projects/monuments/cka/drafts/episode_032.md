@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-880, N-881, N-882, N-883, N-884, N-11275, N-11276
   - Hole-minted Nodes (reintro-ep032): N-230, N-10311
-  - Tip-minted Nodes (reintro-ep032): N-745, N-760, N-876, N-11117
+  - Tip-minted Nodes (reintro-ep032): N-745, N-760, N-876
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-10837–C-10890
   - (see registers)
@@ -35,8 +35,7 @@
   - Artifact Families Introduced: A-1399, A-1400, A-1401, A-1402, A-1403, A-1404, A-1405, A-1406, A-1407, A-1408, A-1409, A-1410, A-1411, A-1412, A-1413, A-1414
   - Claim Range: C-1695–C-1715
   - New Nodes Introduced: N-254, N-255, N-256, N-257, N-258, N-259, N-260, N-261, N-262, N-10249, N-10250
-  - Reused Nodes Appearing: N-10251, N-10252, N-10248, N-9, N-27, N-47, N-82, N-251, N-383, N-10000, N-10001, N-10094, N-10116, N-10137, N-10164, N-10180, N-10246, N-10247, N-10465, N-11223
-  - Hole-minted Nodes (wave1b): N-363
+  - Reused Nodes Appearing: N-10251, N-10252, N-10248, N-9, N-27, N-47, N-82, N-251, N-383, N-10000, N-10001, N-10094, N-10116, N-10137, N-10164, N-10180, N-10246, N-10247, N-10465, N-11223, N-363, N-11117
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -2031,7 +2030,7 @@ Investigative Direction: Watch the next episode for the named donor and compare 
 
 Video Timestamp: 00:02:23
 Speaker: N-3
-Quote: did we leave off on the brit mccron? I was speaking to you guys about MK Ultra. How odd it was that of everything I said in my series, Breijgit Mcr...
+Quote: did we leave off on the brit mccron? I was speaking to you guys about MK Ultra. How odd it was that of everything I said in my series, Brigitte Mcr...
 Context: Later reuse of MK Ultra in CKA seq 32.
 Tags: psyop, history, analogy, reuse
 Confidence: high

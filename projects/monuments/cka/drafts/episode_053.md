@@ -12,8 +12,8 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11118, N-11119, N-11120
-  - Hole-minted Nodes (reintro-ep053): N-491, N-10422, N-10661
-  - Tip-minted Nodes (reintro-ep053): N-10925, N-11034
+  - Hole-minted Nodes (reintro-ep053): N-10422
+  - Tip-minted Nodes (reintro-ep053): N-11034
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6903–C-6982
   - (see registers)
@@ -34,9 +34,9 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1587, A-1588, A-1589, A-1590, A-1591, A-1592, A-1593, A-1594, A-1595
   - Claim Range: C-2016–C-2025
-  - New Nodes Introduced: N-394, N-395, N-396, N-397, N-398, N-399, N-400, N-401, N-402, N-10386, N-10388, N-10389, N-10390, N-10391
-  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-270, N-274, N-371, N-381, N-490, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121, N-745, N-11116, N-11117
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megan Kelly presumed to exist), N-11
+  - New Nodes Introduced: N-394, N-396, N-397, N-398, N-399, N-400, N-401, N-402, N-10386, N-10388, N-10390, N-10391
+  - Reused Nodes Appearing: N-10387, N-2, N-27, N-82, N-270, N-274, N-371, N-381, N-490, N-10000, N-10004, N-10113, N-10268, N-10270, N-10316, N-10406, N-10416, N-10900, N-10385, N-11121, N-745, N-11116, N-11117, N-395, N-491, N-10389, N-10661, N-10925
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), and other pre-existing nodes (referenced where contextually applicable – Ben Shapiro, Tyler Bowyer, Tucker Carlson, Megyn Kelly presumed to exist), N-11
 
 ---
 
@@ -1071,7 +1071,7 @@ Claim Timestamp: 00:04:43
 
 Claim: The host says that at the end of last year Shapiro stepped onto Megyn Kelly's tour stage and demanded her allegiance against the host and Tucker Carlson, and that Kelly did not submit.
 
-Transcript Snippet: Ben stepped onto Megan Kelly stage while she was on tour and he demanded her allegiance against me and Tucker.
+Transcript Snippet: Ben stepped onto Megyn Kelly stage while she was on tour and he demanded her allegiance against me and Tucker.
 
 Anchored Artifacts: 
 Mentions: N-97, N-46, N-22, N-3
@@ -1248,7 +1248,7 @@ Claim Timestamp: 00:13:59
 
 Claim: The host says Jeremy Boreing, in the company town hall, named her public position that genocide is always wrong as a reason she was fired from the Daily Wire.
 
-Transcript Snippet: the clearly immoral and impractical stance that I publicly expressed that genocide is always wrong was revealed by Jeremy Boring in that town hall as a reason why I was fired.
+Transcript Snippet: the clearly immoral and impractical stance that I publicly expressed that genocide is always wrong was revealed by Jeremy Boreing in that town hall as a reason why I was fired.
 
 Anchored Artifacts: 
 Mentions: N-371, N-3
@@ -2187,7 +2187,7 @@ Claim Timestamp: 00:57:41
 
 Claim: The host says Macron is suing people for knowing the truth about crimes that she committed when she was a man, and calls it dystopian.
 
-Transcript Snippet: Like Mcronone is suing people for knowing the truth about crimes that she committed when she was a man.
+Transcript Snippet: Like Macron is suing people for knowing the truth about crimes that she committed when she was a man.
 
 Anchored Artifacts: 
 Mentions: N-82, N-3

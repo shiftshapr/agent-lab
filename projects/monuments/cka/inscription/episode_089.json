@@ -13,7 +13,7 @@
     "transcript_sha256": "f014080d358c9ccfe42ed712aeffc49e3166ec2829366ab1f4e0556561329eb5",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 89 is structured as Candace Owens's open-letter response to a Truth Social post published by President Donald Trump attacking Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones. The principal evidentiary artifacts presented on air are: the full text of Trump's Truth Social post (read aloud), a CNN-compiled montage of past Trump statements praising the same individuals, an audio clip of Megyn Kelly on Piers Morgan discussing the Iran situation-room meeting, a Tucker Carlson newsletter excerpt alleging Israeli blackmail of U.S. presidents, and an audio clip of Laura Loomer claiming credit for Trump's post.\n\nThe episode advances several persistent Bride of Charlie investigative threads. Most significant is Candace's on-air recounting of a pre-July-2024 conversation in which Charlie Kirk allegedly told her he and Andrew Kolb were present when Miriam Adelson offered Trump $100 million in exchange for West Bank annexation, and that Trump stated he intended to take the money and betray the Adelsons. Candace links this account to Trump's subsequent disinterest in the Butler, Pennsylvania investigation. The \"Charlie would be on this list if they hadn't killed him\" social-media response is highlighted as a recurring reaction to Trump's Truth Social post.\n\nStructurally, the episode functions as a sustained on-air rebuttal whose evidentiary weight depends almost entirely on read-aloud or played-on-air artifacts (per the read/display rule), with the testimonial recount of the Adelson meeting standing as the single most consequential investigative claim advanced this episode.\n\n---",
+  "executive_summary": "Episode 89 is structured as Candace Owens's open-letter response to a Truth Social post published by President Donald Trump attacking Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones. The principal evidentiary artifacts presented on air are: the full text of Trump's Truth Social post (read aloud), a CNN-compiled montage of past Trump statements praising the same individuals, an audio clip of Megyn Kelly on Piers Morgan discussing the Iran situation-room meeting, a Tucker Carlson newsletter excerpt alleging Israeli blackmail of U.S. presidents, and an audio clip of Laura Loomer claiming credit for Trump's post.\n\nThe episode advances several persistent Bride of Charlie investigative threads. Most significant is Candace's on-air recounting of a pre-July-2024 conversation in which Charlie Kirk allegedly told her he and Andrew Kolvet were present when Miriam Adelson offered Trump $100 million in exchange for West Bank annexation, and that Trump stated he intended to take the money and betray the Adelsons. Candace links this account to Trump's subsequent disinterest in the Butler, Pennsylvania investigation. The \"Charlie would be on this list if they hadn't killed him\" social-media response is highlighted as a recurring reaction to Trump's Truth Social post.\n\nStructurally, the episode functions as a sustained on-air rebuttal whose evidentiary weight depends almost entirely on read-aloud or played-on-air artifacts (per the read/display rule), with the testimonial recount of the Adelson meeting standing as the single most consequential investigative claim advanced this episode.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -151,13 +151,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1944",
       "family_ref": "A-1944",
-      "bundle_name": "Charlie Kirk / Andrew Kolb Testimony Bundle",
+      "bundle_name": "Charlie Kirk / Andrew Kolvet Testimony Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1944.1",
           "ref": "A-1944.1",
-          "description": "Candace Owens's on-air recounting of Charlie Kirk's alleged firsthand account (corroborated by Andrew Kolb) of a meeting at which Miriam Adelson offered Trump $100 million in exchange for West Bank annexation, and at which Trump allegedly stated he would take the money and \"f her over\"",
+          "description": "Candace Owens's on-air recounting of Charlie Kirk's alleged firsthand account (corroborated by Andrew Kolvet) of a meeting at which Miriam Adelson offered Trump $100 million in exchange for West Bank annexation, and at which Trump allegedly stated he would take the money and \"f her over\"",
           "related_claims": [
             "C-2675",
             "C-2676"
@@ -1415,8 +1415,8 @@
       "@type": "Claim",
       "@id": "C-2675",
       "ref": "C-2675",
-      "label": "Charlie Kirk Told Candace Owens He and Andrew Kolb Were Present at a Meeting in Which Miriam Adelson Offered Trump $100M for West Bank Annexation",
-      "claim": "Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolb named as in-room corroborator) that he and Kolb were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, prior to the public announcement of the donation in approximately July 2024.",
+      "label": "Charlie Kirk Told Candace Owens He and Andrew Kolvet Were Present at a Meeting in Which Miriam Adelson Offered Trump $100M for West Bank Annexation",
+      "claim": "Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolvet named as in-room corroborator) that he and Kolb were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, prior to the public announcement of the donation in approximately July 2024.",
       "anchored_artifacts": [
         "A-1944.1"
       ],
@@ -1425,7 +1425,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:29:16–00:31:16",
-      "investigative_direction": "Identify and interview Andrew Kolb directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.",
+      "investigative_direction": "Identify and interview Andrew Kolvet directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.",
       "mentions_person_refs": [
         "N-3",
         "N-1",
@@ -1447,7 +1447,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:06–00:31:16",
-      "investigative_direction": "Obtain corroborating testimony from Andrew Kolb; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions.",
+      "investigative_direction": "Obtain corroborating testimony from Andrew Kolvet; review any contemporaneous notes, messages, or secondary witnesses; assess downstream policy decisions vis-à-vis West Bank actions.",
       "mentions_person_refs": [
         "N-3",
         "N-1",
@@ -2193,7 +2193,7 @@
       ],
       "claim_timestamp": "00:29:16",
       "investigative_direction": "Ask Kolvet to confirm or deny that he told the host this account.",
-      "transcript_snippet": "obviously things are not the same between me and Andrew Kolb at because I I don't believe him.",
+      "transcript_snippet": "obviously things are not the same between me and Andrew Kolvet at because I I don't believe him.",
       "mentions_person_refs": [
         "N-14",
         "N-1",

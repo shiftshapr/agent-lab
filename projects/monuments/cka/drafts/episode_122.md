@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-823, N-824, N-825, N-826, N-11193, N-11195, N-11196, N-11197
   - Claim Range (supplement_2026-10c): C-8821–C-8931
-  - Reused Nodes Appearing: N-10698, N-10700, N-10701, N-10704, N-10699, N-10703, N-4, N-5, N-9, N-47, N-48, N-68, N-82, N-132, N-270, N-526, N-535, N-563, N-576, N-589, N-614, N-693, N-694, N-696, N-698, N-737, N-10000, N-10012, N-10015, N-10032, N-10048, N-10061, N-10107, N-10110, N-10168, N-10230, N-10239, N-10275, N-10276, N-10290, N-10311, N-10324, N-10395, N-10401, N-10501, N-10502, N-10520, N-10523, N-10526, N-10532, N-10598, N-10663, N-10677, N-10687, N-10691, N-10737, N-10740, N-10768, N-10871, N-10888, N-10897, N-10899, N-10923, N-10929, N-10937, N-10971, N-10978, N-10979, N-10982, N-10988, N-11011, N-11053, N-11194
+  - Reused Nodes Appearing: N-10698, N-10700, N-10701, N-10704, N-10699, N-10703, N-4, N-5, N-9, N-47, N-48, N-68, N-82, N-132, N-270, N-526, N-535, N-563, N-576, N-589, N-614, N-693, N-694, N-696, N-698, N-737, N-10000, N-10012, N-10015, N-10032, N-10048, N-10061, N-10107, N-10110, N-10168, N-10230, N-10239, N-10275, N-10276, N-10290, N-10311, N-10324, N-10395, N-10401, N-10501, N-10502, N-10520, N-10523, N-10526, N-10532, N-10598, N-10663, N-10677, N-10687, N-10691, N-10737, N-10740, N-10768, N-10871, N-10888, N-10897, N-10899, N-10923, N-10929, N-10937, N-10971, N-10978, N-10979, N-10982, N-10988, N-11011, N-11053, N-11194, N-10702
   - (see registers)
 
 # I. Meta-Data
@@ -31,7 +31,7 @@
 **Episode Ledger Summary**
 - Artifact Families Introduced: A-2104, A-2105, A-2106, A-2107, A-2108, A-2109
 - Claim Range: C-2969–C-2985
-  - New Nodes Introduced: N-10696, N-10697, N-10698, N-10700, N-10701, N-10702, N-10704
+  - New Nodes Introduced: N-10696, N-10697, N-10698, N-10700, N-10701, N-10704
   - Reused Nodes Appearing: N-11, N-439
 - Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erica Kirk, N-3 Candace Owens
 
@@ -1009,7 +1009,7 @@ Investigative Pressure: Medium
 
 *Related: C-2982*
 
-**N-10701** Andrew Kolbenschlag EEOB Presence / Kash Patel Connection
+**N-10701** Andrew Kolvet EEOB Presence / Kash Patel Connection
 
 Investigative target: verification of Kolbenschlag's location (EEOB vs Arizona) and meeting attendees on day of pre-recorded Kirk Show appearance.
 
@@ -1270,11 +1270,11 @@ Investigative Direction: Examine public charging documents, defense filings, Rob
 
 ---
 
-**C-2985** Andrew Kolbenschlag was physically in the Executive Office Building in Washington D.C. while appearing "live" in Arizona on the Charlie Kirk Show
+**C-2985** Andrew Kolvet was physically in the Executive Office Building in Washington D.C. while appearing "live" in Arizona on the Charlie Kirk Show
 
 Claim Timestamp: 00:44:23–00:46:13
 
-Claim: The host states Andrew Kolbenschlag appeared to be live in studio on the Charlie Kirk Show hosting Kash Patel, but was actually pre-recorded and physically located 5 hours away in the Executive Office Building in Washington D.C.
+Claim: The host states Andrew Kolvet appeared to be live in studio on the Charlie Kirk Show hosting Kash Patel, but was actually pre-recorded and physically located 5 hours away in the Executive Office Building in Washington D.C.
 
 Anchored Artifacts: None displayed
 Mentions: N-14, N-69
@@ -2709,7 +2709,7 @@ Claim Timestamp: 00:45:23
 
 Claim: The host says her team is asking the Secret Service and DHS for Andrew Kolvet's (spelled Kolbenschlag in the transcript) White House meeting, the day before the Epstein files were released.
 
-Transcript Snippet: Um we are also asking the Secret Service and the DHS for Andrew Kolbenschlag's White House meeting that we told you about
+Transcript Snippet: Um we are also asking the Secret Service and the DHS for Andrew Kolvet's White House meeting that we told you about
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
@@ -3263,7 +3263,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown:** Class action lawsuit against Next Model Management / MC2 / Jean-Luc Brunel – referenced and host mentions intent to display, but document not shown in the transcribed segment.
 - **Possible transcription error:** "[ __ ]" placeholder appears in the transcript under the "Holly" comment block; final name redacted.
 - **Name uncertainty:** "James Rawlinson" vs "James Norman Rawlinson Jr." vs "David L. Rawlinson" – host uses inconsistent constructions; original birth name stated as "James Norman Rawlinson Jr."
-- **Name uncertainty:** "Andrew Kolbenschlag" vs "Andrew Kolvet" – both spellings appear; "Kolbenschlag" used in reference to the EEOB appearance, "Kolvet" used in reference to Curtis Colvett's brother. Treat as the same person pending confirmation.
+- **Name uncertainty:** "Andrew Kolvet" vs "Andrew Kolvet" – both spellings appear; "Kolbenschlag" used in reference to the EEOB appearance, "Kolvet" used in reference to Curtis Colvett's brother. Treat as the same person pending confirmation.
 - **Timestamp uncertainty:** Several artifact video timestamps estimated from chapter markers; precise frame times not confirmed.
 - **Claim failed admission test:** C-2981, C-2982, C-2983, C-2984, C-2985 – host assertions, beliefs, or interpretive claims without artifact anchors displayed in this episode.
 

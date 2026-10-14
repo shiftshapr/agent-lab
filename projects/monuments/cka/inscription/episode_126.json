@@ -2798,8 +2798,8 @@
       "@type": "Claim",
       "@id": "C-8967",
       "ref": "C-8967",
-      "label": "Host Contrasts Helen With Erika by Saying Erika Went on Barry Weiss and Trusted Everything 100% Despite Seeing Nothing",
-      "claim": "The host contrasts Helen with Erika Kirk, saying Helen was not ready to go on Barry Weiss two weeks later and say she trusts everything 100 percent despite seeing nothing, which the host frames as Erika's conduct.",
+      "label": "Host Contrasts Helen With Erika by Saying Erika Went on Bari Weiss and Trusted Everything 100% Despite Seeing Nothing",
+      "claim": "The host contrasts Helen with Erika Kirk, saying Helen was not ready to go on Bari Weiss two weeks later and say she trusts everything 100 percent despite seeing nothing, which the host frames as Erika's conduct.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10334"
@@ -2809,7 +2809,7 @@
       ],
       "claim_timestamp": "00:28:31",
       "investigative_direction": "Retrieve the CBS town hall transcript and date and check what Erika Kirk said about trusting the investigation.",
-      "transcript_snippet": "She wasn't ready to go on Barry Weiss two weeks later and say she trusts everything 100% despite seeing nothing.",
+      "transcript_snippet": "She wasn't ready to go on Bari Weiss two weeks later and say she trusts everything 100% despite seeing nothing.",
       "mentions_person_refs": [
         "N-3",
         "N-2",

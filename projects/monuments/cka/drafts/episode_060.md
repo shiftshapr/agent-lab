@@ -689,9 +689,9 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-118** Marissa Strait
+**N-118** Marissa Streit
 
-Marissa Strait, PragerU CEO, said by the host to be working on a documentary.
+Marissa Streit, PragerU CEO, said by the host to be working on a documentary.
 
 *Related: C-5519*
 
@@ -699,7 +699,7 @@ Marissa Strait, PragerU CEO, said by the host to be working on a documentary.
 
 **N-726** Shabbos Kestenbaum
 
-First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Strait.
+First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Streit.
 
 *Related: C-5519*
 
@@ -1572,7 +1572,7 @@ Investigative Direction: Identify the person in Kolvet's orbit and obtain a stat
 
 Claim Timestamp: 00:29:52
 
-Claim: The host says Marissa Strait, the Prager University CEO, is working on a documentary with a man she names as Shabazz Kestenbaum, who is telling people it will be a takedown of Candace Owens.
+Claim: The host says Marissa Streit, the Prager University CEO, is working on a documentary with a man she names as Shabazz Kestenbaum, who is telling people it will be a takedown of Candace Owens.
 
 Transcript Snippet: And uh he's going around telling everybody it's going to be a takedown of Candace Owens and that's what her new focus is at Prager University
 

@@ -1175,18 +1175,18 @@ Investigative Direction: Identify the three sources and obtain documentary evide
 
 ---
 
-**C-1938** Andrew Kolb told Candace Bibi offered to take TPUSA to next level
+**C-1938** Andrew Kolvet told Candace Bibi offered to take TPUSA to next level
 
 Claim Timestamp: 00:32:14
 
-Claim: Andrew Kolb (as named in transcript) told Candace verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and Charlie turned the money down.
+Claim: Andrew Kolvet (as named in transcript) told Candace verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and Charlie turned the money down.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-14, N-36
 
 Related Nodes: N-10342
 
-Investigative Direction: Verify Andrew Kolb's specific statement; clarify whether this is the same person as Andrew Kolvet.
+Investigative Direction: Verify Andrew Kolvet's specific statement; clarify whether this is the same person as Andrew Kolvet.
 
 ---
 
@@ -1540,7 +1540,7 @@ Investigative Direction: Verify the quotation against the cited Charlie Kirk sou
 
 - **Name uncertainty:** "Erika Kolfage" appears twice in transcript; this may be a transcript error for "Erica Kirk" or a distinct reference to a maiden/different name. Preserved as written.
 - **Name inconsistency:** "Rob McCoy" and "Robin McCoy" both appear; presumed same individual.
-- **Name inconsistency:** "Andrew Kolvet" and "Andrew Kolb" both appear in transcript; unclear whether same individual. Preserved both as written.
+- **Name inconsistency:** "Andrew Kolvet" and "Andrew Kolvet" both appear in transcript; unclear whether same individual. Preserved both as written.
 - **Name inconsistency:** "Brian Harpole" and "Brian Harpool" both appear; presumed same individual.
 - **Name inconsistency:** "Justin Streiff" and "Justin Streiff" both appear; presumed same individual.
 - **Name inconsistency:** "Wachuka" and "Wa Chuka" both appear; presumed same location.

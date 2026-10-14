@@ -92,9 +92,9 @@ Confidence Level: High
 
 ---
 
-**A-2225** Frank Turk Interview Clip Bundle
+**A-2225** Frank Turek Interview Clip Bundle
 
-**A-2225.1** Clip in which Frank Turk uses the phrase "yanking and banking" to describe arrival at hospital parking lot
+**A-2225.1** Clip in which Frank Turek uses the phrase "yanking and banking" to describe arrival at hospital parking lot
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -282,9 +282,9 @@ Confidence Level: Medium
 
 ---
 
-**A-3154** Harpole Sean Ryan Interview Bundle
+**A-3154** Harpole Shawn Ryan Interview Bundle
 
-**A-3154.1** Host verbal reference to Harpole's Sean Ryan interview, from which she cites the phrase 'We're doing the medical' (not played)
+**A-3154.1** Host verbal reference to Harpole's Shawn Ryan interview, from which she cites the phrase 'We're doing the medical' (not played)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:08:10
@@ -632,9 +632,9 @@ Existing topic reused for the Twiggs DNA claim.
 
 ---
 
-**N-10681** Sean Ryan Show Interview Clip Bundle
+**N-10681** Shawn Ryan Show Interview Clip Bundle
 
-Existing topic reused for the Sean Ryan interview claim.
+Existing topic reused for the Shawn Ryan interview claim.
 
 *Related: C-11711*
 
@@ -950,17 +950,17 @@ Investigative Direction: Source the original archived segment to verify date, ve
 
 ---
 
-**C-3209** Frank Turk claims he "yanked and banked" while the group arrived at the hospital parking lot
+**C-3209** Frank Turek claims he "yanked and banked" while the group arrived at the hospital parking lot
 
 Claim Timestamp: 00:06:18
 
-Claim: In a Frank Turk interview clip, Turk uses the phrase "yanking and banking" to describe what the group was doing as they pulled into the hospital parking lot with Kirk.
+Claim: In a Frank Turek interview clip, Turk uses the phrase "yanking and banking" to describe what the group was doing as they pulled into the hospital parking lot with Kirk.
 
 Anchored Artifacts: A-2225.1
 Mentions: N-7
 Related Nodes:
 
-Investigative Direction: Obtain the full Frank Turk interview and clarify what "yanking and banking" refers to in context (procedure vs. colloquial expression).
+Investigative Direction: Obtain the full Frank Turek interview and clarify what "yanking and banking" refers to in context (procedure vs. colloquial expression).
 
 ---
 
@@ -1126,29 +1126,29 @@ Investigative Direction: Obtain ER staff statements and the hospital's trauma-ba
 
 ---
 
-**C-11711** Host Says Harpole Said He Was Doing the Medical in Sean Ryan Interview
+**C-11711** Host Says Harpole Said He Was Doing the Medical in Shawn Ryan Interview
 
 Claim Timestamp: 00:08:10
 
-Claim: The host says that in the Sean Ryan interview Harpole said 'We're doing the medical', and argues from that interview that Harpole was not the one in charge.
+Claim: The host says that in the Shawn Ryan interview Harpole said 'We're doing the medical', and argues from that interview that Harpole was not the one in charge.
 
-Transcript Snippet: Even when he describes things in that Sean Ryan interview, he's like, "We're doing the medical.
+Transcript Snippet: Even when he describes things in that Shawn Ryan interview, he's like, "We're doing the medical.
 
 Anchored Artifacts: A-3154.1
 Mentions: N-270, N-3
 Related Nodes: N-10681, N-10737
 Tags: relevance:core
-Investigative Direction: Pull the Sean Ryan interview and transcribe Harpole's exact words about the medical response.
+Investigative Direction: Pull the Shawn Ryan interview and transcribe Harpole's exact words about the medical response.
 
 ---
 
-**C-11712** Host Says Screwdriver Carries Lance Twigs's DNA Alongside Tyler Robinson's
+**C-11712** Host Says Screwdriver Carries Lance Twiggs's DNA Alongside Tyler Robinson's
 
 Claim Timestamp: 00:09:23
 
-Claim: The host says the screwdriver found on the rooftop has Lance Twigs's DNA alongside Tyler Robinson's DNA.
+Claim: The host says the screwdriver found on the rooftop has Lance Twiggs's DNA alongside Tyler Robinson's DNA.
 
-Transcript Snippet: We do know it has Lance Twigs's DNA alongside Tyler Robinson's DNA.
+Transcript Snippet: We do know it has Lance Twiggs's DNA alongside Tyler Robinson's DNA.
 
 Anchored Artifacts: 
 Mentions: N-54, N-40, N-3
@@ -1861,7 +1861,7 @@ Claim Timestamp: 00:49:13
 
 Claim: The host says her team found out what hotel TPUSA staff including Andrew Kolvet stayed in, says she will share it the next day, and wonders whether Blake Neff stayed at the same hotel.
 
-Transcript Snippet: we did find out what hotel um TPUSA staff stayed into at Andrew Kovat and everybody else.
+Transcript Snippet: we did find out what hotel um TPUSA staff stayed into at Andrew Kolvet and everybody else.
 
 Anchored Artifacts: 
 Mentions: N-14, N-162, N-3
@@ -1914,7 +1914,7 @@ Confidence: high
 
 Video Timestamp: 00:00:49
 Speaker: N-3
-Quote: Blake Nef, he's got pregnancy brain. Officer Baggley, he's got pregnancy brain.
+Quote: Blake Neff, he's got pregnancy brain. Officer Baggley, he's got pregnancy brain.
 Context: Host applies pregnancy brain to forgetful figures in the case.
 Tags: pregnancy brain, running_gag
 Confidence: high
@@ -2038,7 +2038,7 @@ Confidence: high
 - **Name inconsistency**: Host alternates between "Allan Robertson" and "Alan Robertson"; preserved as "Allan Robertson" per the more frequent transcript usage.
 - **Name inconsistency**: Host uses both "Brian Harpole" and "Brian Harpool"; preserved as "Harpole."
 - **Requires human verification**: Several testimony audio clips (A-2224.1, A-2224.2) require human re-listening to confirm exact wording.
-- **Possible transcription error**: "Lance Twigs's DNA" – name unusual; possibly "Lance Twiggs" or similar. Flagged.
+- **Possible transcription error**: "Lance Twiggs's DNA" – name unusual; possibly "Lance Twiggs" or similar. Flagged.
 - **Claim failed admission test – not inscribed**: Host's assertion that "whoever he was with had to have had some rank" and that "this guy is maybe more important than Officer Bagley is letting on" – interpretive commentary, not artifact-anchored as a freestanding claim.
 - **Claim failed admission test – not inscribed**: Host's assertion that "the public isn't really buying some elements of the story" regarding Brian Harpole's gurney account – narrative framing, no artifact in this episode.
 - **Claim failed admission test – not inscribed**: Host's broader political commentary regarding Trump, Israel, Iran, Christian Zionism, and the "Epstein class" – framing / worldview statements without artifact anchors.

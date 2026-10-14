@@ -11,7 +11,6 @@
 - **Transcript SHA-256**: d6f25b223ac060e3fb4bd1a3b2ff9ed6020bdf9ce5285c402437d5a9666ec240
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-11183
   - Hole-minted Nodes (reintro-ep066): N-10653
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8317–C-8375
@@ -38,7 +37,7 @@
 - Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713
 - Claim Range: C-2239–C-2252
   - New Nodes Introduced: N-518, N-519, N-520, N-521, N-522, N-523, N-524, N-10466, N-10468, N-10469
-  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-729, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182
+  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-729, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182, N-11183
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -1396,7 +1395,7 @@ Claim Timestamp: 00:33:02
 
 Claim: The host says that, according to the donor, Dr. Frank Turek was on stage at the Mar-a-Lago TPUSA event, and that the host says he softened the message because the room was Jewish.
 
-Transcript Snippet: you got Dr. Frank Turk and apparently, according to her, he's on stage and he's hitting he's hitting at the Judeo Judeo Judeo.
+Transcript Snippet: you got Dr. Frank Turek and apparently, according to her, he's on stage and he's hitting he's hitting at the Judeo Judeo Judeo.
 
 Anchored Artifacts: 
 Mentions: N-7
@@ -1605,7 +1604,7 @@ Claim Timestamp: 00:54:09
 
 Claim: The host says that Erika Kirk told her TPUSA was getting rid of Andrew Kolvet and replacing him, after which she saw the two colluding.
 
-Transcript Snippet: when I saw her and Andrew Kovat colluding after she told me they were getting rid of Andrew Kovette and replacing him
+Transcript Snippet: when I saw her and Andrew Kolvet colluding after she told me they were getting rid of Andrew Kolvet and replacing him
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-3
@@ -1638,7 +1637,7 @@ Claim Timestamp: 00:54:09
 
 Claim: The host says she has now confirmed with people who were fired for no reason that it was Andrew Kolvet the whole time.
 
-Transcript Snippet: which I've now confirmed with uh people that they fired for no reason that it was Andrew. It was Andrew Kovat the whole time.
+Transcript Snippet: which I've now confirmed with uh people that they fired for no reason that it was Andrew. It was Andrew Kolvet the whole time.
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
@@ -1702,7 +1701,7 @@ Claim Timestamp: 00:54:09
 
 Claim: The host says Erika Kirk told her to her face that Kolvet went rogue in the Alex Clark interview and that this was not true.
 
-Transcript Snippet: Andrew Kovette again went rogue in that interview with Alex Clark. Uh-uh. Not true. Try again.
+Transcript Snippet: Andrew Kolvet again went rogue in that interview with Alex Clark. Uh-uh. Not true. Try again.
 
 Anchored Artifacts: 
 Mentions: N-2, N-14, N-99, N-3
@@ -1718,7 +1717,7 @@ Claim Timestamp: 00:56:16
 
 Claim: The host says Kolvet was texting Erika during the Alex Clark interview, according to a person who worked in his office and no longer does.
 
-Transcript Snippet: he was in communication with her during that interview, according to the person that worked in Andrew Kovett's office that no longer does.
+Transcript Snippet: he was in communication with her during that interview, according to the person that worked in Andrew Kolvet's office that no longer does.
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-99
@@ -1899,7 +1898,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** "Andrew Kovat" / "Kouvet" / "Covette" / "Coven" – transcript shows multiple spellings for the same TPUSA figure (N-14). Requires human verification against correct spelling.
+- **Name uncertainty:** "Andrew Kolvet" / "Kouvet" / "Covette" / "Coven" – transcript shows multiple spellings for the same TPUSA figure (N-14). Requires human verification against correct spelling.
 - **Artifact verbally referenced but not shown:** A-1712.1 (Wayback Machine screenshots for Cardinal Stadium RV show) – referenced verbally but not displayed on-screen. Marked Low confidence.
 - **Artifact verbally referenced but not shown:** Vanessa Bryant's Kobe memorial speech is recommended for viewing by the host but never played, quoted, or displayed in the episode. Comparison claim C-2242 should be re-anchored if/when the speech artifact is produced.
 - **Name redaction in source:** "Father Blank" and "TPUSA Blank" are host-applied redactions of the email author's original names; the actual names were blanked out before air and are not recoverable from this artifact alone.

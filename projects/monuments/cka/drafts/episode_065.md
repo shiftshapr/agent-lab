@@ -617,7 +617,7 @@ Investigative Pressure: Medium
 
 **N-10455** Andrew Kolvet Charlie Kirk Twitter Control Claim
 
-Youssef states "Charlie didn't run his Twitter feed. Andrew Kovette did." (A-1690 transcript)
+Youssef states "Charlie didn't run his Twitter feed. Andrew Kolvet did." (A-1690 transcript)
 
 Evidence Count: 0
 Claim Count: 1
@@ -792,7 +792,7 @@ Subject of Youssef's statements on his 2008 indictment and alleged Mossad ties.
 
 **N-14** Andrew Kolvet
 
-Named by Youssef as the person who ran Charlie Kirk's Twitter feed. Transcript spelling: Andrew Kovette.
+Named by Youssef as the person who ran Charlie Kirk's Twitter feed. Transcript spelling: Andrew Kolvet.
 
 *Related: C-5603*
 
@@ -830,7 +830,7 @@ Subject of Youssef's three stories on Shapiro's rhetoric and of the host's Daily
 
 ---
 
-**N-118** Marissa Strait
+**N-118** Marissa Streit
 
 Named by the host as 'Marissa at Prageru', her former employer. Transcript spelling: Marissa.
 
@@ -864,7 +864,7 @@ Interview guest the host cites for his parents' account and his review of the Ne
 
 **N-215** Jesse Watters
 
-Interviewer to whom the host says Erika Kirk said she slept fine. Transcript spelling: Jesse Waters.
+Interviewer to whom the host says Erika Kirk said she slept fine. Transcript spelling: Jesse Watters.
 
 *Related: C-5608*
 
@@ -872,7 +872,7 @@ Interviewer to whom the host says Erika Kirk said she slept fine. Transcript spe
 
 **N-282** Bari Weiss
 
-Named by Youssef as now in control of Paramount Plus. Transcript spelling: Barry Weiss.
+Named by Youssef as now in control of Paramount Plus. Transcript spelling: Bari Weiss.
 
 *Related: C-5664*
 
@@ -888,7 +888,7 @@ Named by the host and by Youssef; transcript spellings: Miriam Mson, Miam Idlen.
 
 **N-371** Jeremy Boreing
 
-Daily Wire head the host says sent her the lawsuit on his birthday. Transcript spelling: Jeremy Boring.
+Daily Wire head the host says sent her the lawsuit on his birthday. Transcript spelling: Jeremy Boreing.
 
 *Related: C-5585*
 
@@ -912,7 +912,7 @@ Named by a speaker for a remark about how October 7th will be remembered.
 
 **N-527** Peter Thiel
 
-Named by Youssef among billionaires he says donate to the IDF. Transcript spelling: Peter Teal.
+Named by Youssef among billionaires he says donate to the IDF. Transcript spelling: Peter Thiel.
 
 *Related: C-5621*
 
@@ -1816,7 +1816,7 @@ Claim Timestamp: 00:28:19
 
 Claim: Youssef says Charlie Kirk did not run his Twitter feed and that Andrew Kolvet did.
 
-Transcript Snippet: Charlie didn't run his Twitter feed. Andrew Kovette did.
+Transcript Snippet: Charlie didn't run his Twitter feed. Andrew Kolvet did.
 
 Anchored Artifacts: A-2766.2
 Mentions: N-503, N-14, N-1
@@ -1893,7 +1893,7 @@ Claim Timestamp: 00:32:52
 
 Claim: The host says Erika Kirk told Jesse Watters she did not need to take a sleeping pill or have a glass of wine and that she slept fine.
 
-Transcript Snippet: even when she said to Jesse Waters that she didn't even need to take a sleeping pill she didn't need to have a glass of wine that she slept she said she slept fine
+Transcript Snippet: even when she said to Jesse Watters that she didn't even need to take a sleeping pill she didn't need to have a glass of wine that she slept she said she slept fine
 
 Anchored Artifacts: 
 Mentions: N-2, N-215, N-3
@@ -2937,7 +2937,7 @@ Confidence: high
 - **Name uncertainty**: "Bass Music" / "Bassem Youssef" – name clearly identified throughout but host occasionally uses informal/phonetic spelling in passing. Preserved as written.
 - **Name uncertainty**: "Charman the God" – appears to be a YouTube show/personality name; spelling preserved as appears in transcript.
 - **Name uncertainty**: "Phil Tourney" vs. "Phil Turny" – both spellings appear; "Phil Tourney" used consistently in main references.
-- **Name uncertainty**: "Andrew Kovette" / "Andrew Kolvet" – both spellings used by host; preserved as spoken.
+- **Name uncertainty**: "Andrew Kolvet" / "Andrew Kolvet" – both spellings used by host; preserved as spoken.
 - **Name uncertainty**: "Arson Arstrovski" – spelled phonetically; possible alternate spellings may exist. Flag: requires human verification.
 - **Name uncertainty**: "Aishlime" – Iraqi Jewish author referenced by Youssef; unclear if this is correct spelling. Flag: requires human verification.
 - **Artifact verbally referenced but not shown**: A-1696.1, A-1697.1, A-1698.1, A-1699.1, A-1700.1, A-1701.1, A-1702.1, A-1703.1

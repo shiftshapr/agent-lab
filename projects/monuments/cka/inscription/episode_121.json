@@ -13,7 +13,7 @@
     "transcript_sha256": "3d4ae642f2e941bfd1fa196ba14e9aaeb18407acfcfbcad82179e0cc50d07169",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode focuses on three evidentiary threads. First, viewer-sourced analysis of broken glass shards recovered from the SUV backseat floor is presented: a viewer email identifies a USB icon on a shard, aligning it with the Rode Road Mic used by Charlie Kirk. The host treats this as supporting the \"rigged microphone\" theory. Second, Brian Harpole's account of the hospital transport and ER events is dissected for internal contradictions: the open car door at high speed, 36 ft of dressing on a six-minute ride, his claim to have jumped on the gurney to cut Charlie's shirt, and his description of Frank Turek praying in the backseat. Third, the Daily Wire's reported $100M strategic investment and IPO push is summarized from a Semafor article, paired with audio from Dave Rubin's appearance on Jubilee showing him unable to defend Trump economic metrics and asserting the Gaza war is over.\n\nThe episode also includes discussion of Frank Turek's stated change into scrubs, blood-mustle in the backseat photos, a viewer email from a source described as high-ranking in a police department regarding DA authorization for releasing evidence to Erika Kirk, and additional commentary on the dissociative identity disorder (DID) theory applied to Erika Kirk, citing NHS website text. The episode advances the investigative questions of whether Charlie's shirt was cut in the car rather than in the ER, whether explosive residue evidence was destroyed through the disposal of clothing, and how various attendees ended up in scrubs.\n\nStructurally, this is an evidentiary accumulation episode: it cross-examines Brian Harpole's story using viewer-sourced medical expert comments, car interior photos, and Tara Farnsworth footage. It also serves as a venue for discussing the Daily Wire's financial decline as a secondary topic with no direct connection to the Kirk case.\n\n---",
+  "executive_summary": "This episode focuses on three evidentiary threads. First, viewer-sourced analysis of broken glass shards recovered from the SUV backseat floor is presented: a viewer email identifies a USB icon on a shard, aligning it with the Rode Rode mic used by Charlie Kirk. The host treats this as supporting the \"rigged microphone\" theory. Second, Brian Harpole's account of the hospital transport and ER events is dissected for internal contradictions: the open car door at high speed, 36 ft of dressing on a six-minute ride, his claim to have jumped on the gurney to cut Charlie's shirt, and his description of Frank Turek praying in the backseat. Third, the Daily Wire's reported $100M strategic investment and IPO push is summarized from a Semafor article, paired with audio from Dave Rubin's appearance on Jubilee showing him unable to defend Trump economic metrics and asserting the Gaza war is over.\n\nThe episode also includes discussion of Frank Turek's stated change into scrubs, blood-mustle in the backseat photos, a viewer email from a source described as high-ranking in a police department regarding DA authorization for releasing evidence to Erika Kirk, and additional commentary on the dissociative identity disorder (DID) theory applied to Erika Kirk, citing NHS website text. The episode advances the investigative questions of whether Charlie's shirt was cut in the car rather than in the ER, whether explosive residue evidence was destroyed through the disposal of clothing, and how various attendees ended up in scrubs.\n\nStructurally, this is an evidentiary accumulation episode: it cross-examines Brian Harpole's story using viewer-sourced medical expert comments, car interior photos, and Terrell Farnsworth footage. It also serves as a venue for discussing the Daily Wire's financial decline as a secondary topic with no direct connection to the Kirk case.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -562,13 +562,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2103",
       "family_ref": "A-2103",
-      "bundle_name": "Tara Farnsworth Video Bundle",
+      "bundle_name": "Terrell Farnsworth Video Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2103.1",
           "ref": "A-2103.1",
-          "description": "Tara Farnsworth video showing Frank Turek entering SUV through trunk",
+          "description": "Terrell Farnsworth video showing Frank Turek entering SUV through trunk",
           "related_claims": [
             "C-2954"
           ],
@@ -583,6 +583,113 @@
           "confidence": "high"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3243",
+      "family_ref": "A-3243",
+      "bundle_name": "Host SUV Diagram Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3243.1",
+          "ref": "A-3243.1",
+          "description": "Host graphic of how the occupants piled into the GMC SUV (seating positions, Charlie's legs out of the door)",
+          "related_claims": [
+            "C-13064"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:08:49",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        },
+        {
+          "@type": "Artifact",
+          "@id": "A-3243.2",
+          "ref": "A-3243.2",
+          "description": "Host's self-described very bad AI diagram of the positions Brian Harpole describes in the car",
+          "related_claims": [
+            "C-13072"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:17:52",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3244",
+      "family_ref": "A-3244",
+      "bundle_name": "Campus Exchange Clip Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3244.1",
+          "ref": "A-3244.1",
+          "description": "Clip of a speaker answering a question about trans students on campus with Life's tough, get a helmet",
+          "related_claims": [
+            "C-13111"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:55:16",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3245",
+      "family_ref": "A-3245",
+      "bundle_name": "Decentralized Intelligence Agency Tip Line Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3245.1",
+          "ref": "A-3245.1",
+          "description": "Host verbal reference to the tip email address (verbal call for tips)",
+          "related_claims": [
+            "C-13118"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:59:03",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "high"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3246",
+      "family_ref": "A-3246",
+      "bundle_name": "SUV Departure Footage Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3246.1",
+          "ref": "A-3246.1",
+          "description": "Host verbal reference to footage of the SUV pulling out with the rear door ajar (not shown)",
+          "related_claims": [
+            "C-13066"
+          ],
+          "related_nodes": [],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:10:43",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -592,7 +699,7 @@
       "ref": "N-10682",
       "name": "USB Logo on Glass Shard Identification",
       "type": "investigation_target",
-      "description": "Persistent question of whether the white on shattered glass shards in the SUV matches the Rode Road Mic USB icon.",
+      "description": "Persistent question of whether the white on shattered glass shards in the SUV matches the Rode Rode mic USB icon.",
       "related_artifacts": [
         "A-2093.1",
         "A-2096.4"
@@ -769,10 +876,10 @@
       "description": "Persistent question of whether Erika Kirk displays symptoms consistent with DID.",
       "related_artifacts": [
         "A-2101.1",
+        "A-2102.10",
         "A-2102.5",
         "A-2102.6",
-        "A-2102.8",
-        "A-2102.10"
+        "A-2102.8"
       ],
       "related_claims": [
         "C-2966"
@@ -885,7 +992,17 @@
       "type": "person",
       "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13085",
+        "C-13086",
+        "C-13088",
+        "C-13091",
+        "C-13109",
+        "C-13110",
+        "C-13116",
+        "C-13117",
+        "C-13119"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -901,7 +1018,19 @@
       "type": "person",
       "description": "Comments revisit CPR narratives vs unnamed fire captain.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13057",
+        "C-13064",
+        "C-13067",
+        "C-13071",
+        "C-13073",
+        "C-13074",
+        "C-13075",
+        "C-13076",
+        "C-13077",
+        "C-13084",
+        "C-13085"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -917,7 +1046,10 @@
       "type": "person",
       "description": "Commentator and former associate of Candace Owens. Subject of an X post dispute in this episode and host of an alleged prior incident involving a former PragerU employee.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13092",
+        "C-13093"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -933,7 +1065,29 @@
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13056",
+        "C-13057",
+        "C-13060",
+        "C-13061",
+        "C-13062",
+        "C-13064",
+        "C-13065",
+        "C-13066",
+        "C-13067",
+        "C-13068",
+        "C-13069",
+        "C-13070",
+        "C-13071",
+        "C-13072",
+        "C-13073",
+        "C-13076",
+        "C-13077",
+        "C-13079",
+        "C-13107",
+        "C-13113",
+        "C-13114"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -950,6 +1104,8 @@
       "description": "AV / camera operator (Terrell / Tara / Taro / Teo Farnsworth ASR variants). Credited for Frank Turek trunk-entry video in this episode; first ledger intro ep33.",
       "related_artifacts": [],
       "related_claims": [
+        "C-13074",
+        "C-13086",
         "C-2954"
       ],
       "tags": [],
@@ -975,6 +1131,761 @@
       "claim_count": 2,
       "episode_count": 1,
       "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-929",
+      "ref": "N-929",
+      "name": "Elizabeth Holmes",
+      "type": "person",
+      "description": "First named by the host at 00:56:01 in episode 121. Former biotech entrepreneur convicted of fraud, discussed in a commenter's comparison to Erika Kirk.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13112"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11357",
+      "ref": "N-11357",
+      "name": "Jubilee",
+      "type": "organization",
+      "description": "Jubilee, the debate show on which Dave Rubin appeared and on which the host says she, Charlie Kirk and Ben Shapiro have also appeared.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13092"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11358",
+      "ref": "N-11358",
+      "name": "High Mount Capital",
+      "type": "organization",
+      "description": "Capital firm the host says the Daily Wire is turning to in order to raise money.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13094"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-1",
+      "ref": "N-1",
+      "name": "Charlie Kirk",
+      "type": "person",
+      "description": "Charlie Kirk; subject of the shirt, mic and ride accounts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13059",
+        "C-13060",
+        "C-13061",
+        "C-13062",
+        "C-13064",
+        "C-13071",
+        "C-13074",
+        "C-13077",
+        "C-13078",
+        "C-13079",
+        "C-13080",
+        "C-13081",
+        "C-13084",
+        "C-13088",
+        "C-13092",
+        "C-13107",
+        "C-13111"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 17,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-3",
+      "ref": "N-3",
+      "name": "Candace Owens",
+      "type": "person",
+      "description": "Host; speaks for herself.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13056",
+        "C-13058",
+        "C-13059",
+        "C-13063",
+        "C-13086",
+        "C-13087",
+        "C-13092",
+        "C-13095",
+        "C-13097",
+        "C-13099",
+        "C-13102",
+        "C-13108",
+        "C-13118",
+        "C-13119"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 14,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-9",
+      "ref": "N-9",
+      "name": "Jeffrey Epstein",
+      "type": "person",
+      "description": "Jeffrey Epstein; named in the Next Model Management thread.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13119"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Kash Patel; his FBI team seized hospital cameras per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13081"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-97",
+      "ref": "N-97",
+      "name": "Ben Shapiro",
+      "type": "person",
+      "description": "Ben Shapiro; named as a past Jubilee guest.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13092"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-194",
+      "ref": "N-194",
+      "name": "Mikey McCoy",
+      "type": "person",
+      "description": "Mikey McCoy; per Turek sent a plane for Erika.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13085"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-225",
+      "ref": "N-225",
+      "name": "Brett Cooper",
+      "type": "person",
+      "description": "Brett Cooper; former Daily Wire host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13100"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-274",
+      "ref": "N-274",
+      "name": "Dan Flood",
+      "type": "person",
+      "description": "Dan Flood; front passenger, possible 911 caller, declined a promotion.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13064",
+        "C-13115",
+        "C-13116"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-371",
+      "ref": "N-371",
+      "name": "Jeremy Boreing",
+      "type": "person",
+      "description": "Jeremy Boreing; Daily Wire co-founder, Pendragon.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13096",
+        "C-13097",
+        "C-13098",
+        "C-13099",
+        "C-13100"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-498",
+      "ref": "N-498",
+      "name": "Justin Davis",
+      "type": "person",
+      "description": "Justin Davis; driver per the host's seating graphic.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13064"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-601",
+      "ref": "N-601",
+      "name": "Jordan Peterson",
+      "type": "person",
+      "description": "Jordan Peterson; named in the Daily Wire firing story.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13099"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-673",
+      "ref": "N-673",
+      "name": "James Kaddis",
+      "type": "person",
+      "description": "James Kaddis; pastor the host asks about as Erika's pastor.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13117"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-737",
+      "ref": "N-737",
+      "name": "Sarah Tool",
+      "type": "person",
+      "description": "Sarah Tool; witness who changed her story per the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13105",
+        "C-13106"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10001",
+      "ref": "N-10001",
+      "name": "MK Ultra",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13089",
+        "C-13090"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10006",
+      "ref": "N-10006",
+      "name": "Fox News",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13110"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10116",
+      "ref": "N-10116",
+      "name": "MK Ultra Continuity Theory",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13089"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10239",
+      "ref": "N-10239",
+      "name": "Timpanogos Hospital Footage Seizure Verification",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13081"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10346",
+      "ref": "N-10346",
+      "name": "Terrell Farnsworth Camera Removal Justification",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13086"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10451",
+      "ref": "N-10451",
+      "name": "USS Liberty Incident Cover-up Investigation",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13103"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10519",
+      "ref": "N-10519",
+      "name": "Erika Kirk Next Model Management Involvement",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13119"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10532",
+      "ref": "N-10532",
+      "name": "Next Model Management / Erica Kirk Connection",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13119"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10676",
+      "ref": "N-10676",
+      "name": "Charlie Kirk Shirt Disposal Verification",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13061"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10677",
+      "ref": "N-10677",
+      "name": "Sarah Tool Witness Statement Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13105",
+        "C-13106"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10678",
+      "ref": "N-10678",
+      "name": "SUV Floorboard Shard Mic Identification",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13058"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10681",
+      "ref": "N-10681",
+      "name": "Shawn Ryan Show Interview Clip Bundle",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13114"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10699",
+      "ref": "N-10699",
+      "name": "Brian Harpole vs Frank Turek CPR Contradiction",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13057",
+        "C-13071",
+        "C-13072",
+        "C-13073",
+        "C-13075"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 5,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10705",
+      "ref": "N-10705",
+      "name": "Charlie's Road Microphone Glass Origin Investigation Target",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13058",
+        "C-13059",
+        "C-13078"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10729",
+      "ref": "N-10729",
+      "name": "911 Call Identification Gap",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13115"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10737",
+      "ref": "N-10737",
+      "name": "CPR Narrative Contradiction (Turek / Harpole)",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13071",
+        "C-13072"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10768",
+      "ref": "N-10768",
+      "name": "Shaped Charge / Exploding Microphone Hypothesis",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13059",
+        "C-13061",
+        "C-13082"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10899",
+      "ref": "N-10899",
+      "name": "Paramount Tactical",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13068",
+        "C-13069"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10900",
+      "ref": "N-10900",
+      "name": "Daily Wire",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13094",
+        "C-13095",
+        "C-13096",
+        "C-13097",
+        "C-13098",
+        "C-13099",
+        "C-13100",
+        "C-13101",
+        "C-13103",
+        "C-13104"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 10,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10977",
+      "ref": "N-10977",
+      "name": "September 2024 Lebanon Pager Attack",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13110"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10983",
+      "ref": "N-10983",
+      "name": "Erika Kirk Anti-Israel Stance at Tucker Carlson Dinner",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13091"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11033",
+      "ref": "N-11033",
+      "name": "Project Monarch",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13089",
+        "C-13090"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11054",
+      "ref": "N-11054",
+      "name": "Bomb Dog Deployment at the Crime Scene",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13083"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11099",
+      "ref": "N-11099",
+      "name": "Candace Owens Australia Visa Review",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13108"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11244",
+      "ref": "N-11244",
+      "name": "Brett Cooper Departure Dispute with Daily Wire",
+      "type": "investigation_target",
+      "description": "Existing node reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13100"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -983,7 +1894,7 @@
       "@id": "C-2945",
       "ref": "C-2945",
       "label": "USB Logo Identified on Car Glass Shard",
-      "claim": "A viewer email identifies a USB logo on one of the glass shards recovered from the SUV backseat floor, rotated to align with the Rode Road Mic USB icon shown in a promotional image.",
+      "claim": "A viewer email identifies a USB logo on one of the glass shards recovered from the SUV backseat floor, rotated to align with the Rode Rode mic USB icon shown in a promotional image.",
       "anchored_artifacts": [
         "A-2093.1",
         "A-2096.4"
@@ -993,7 +1904,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:31–00:03:48",
-      "investigative_direction": "Independent forensic examination of shard images for matching geometry to a Rode mic USB icon; obtain original Rode Road Mic reference images for side-by-side comparison.",
+      "investigative_direction": "Independent forensic examination of shard images for matching geometry to a Rode mic USB icon; obtain original Rode Rode mic reference images for side-by-side comparison.",
       "mentions_person_refs": []
     },
     {
@@ -1158,8 +2069,8 @@
       "@type": "Claim",
       "@id": "C-2954",
       "ref": "C-2954",
-      "label": "Tara Farnsworth Video Shows Frank Turek Entering SUV Through Trunk",
-      "claim": "A video credited to Tara Farnsworth shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.",
+      "label": "Terrell Farnsworth Video Shows Frank Turek Entering SUV Through Trunk",
+      "claim": "A video credited to Terrell Farnsworth shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.",
       "anchored_artifacts": [
         "A-2103.1"
       ],
@@ -1168,7 +2079,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:19:32–00:20:25",
-      "investigative_direction": "Obtain the original unedited Tara Farnsworth video; preserve metadata for chain-of-custody purposes.",
+      "investigative_direction": "Obtain the original unedited Terrell Farnsworth video; preserve metadata for chain-of-custody purposes.",
       "mentions_person_refs": [
         "N-7",
         "N-265"
@@ -1322,7 +2233,7 @@
       "@id": "C-2963",
       "ref": "C-2963",
       "label": "Semafor Article States Daily Wire Spent ~$50M on Pendragon Cycle",
-      "claim": "The Semafor article acknowledges the Daily Wire spent approximately $50 million on the Pendragon Cycle (Jeremy Boring's project), characterized as a significant contributor to the company's financial distress.",
+      "claim": "The Semafor article acknowledges the Daily Wire spent approximately $50 million on the Pendragon Cycle (Jeremy Boreing's project), characterized as a significant contributor to the company's financial distress.",
       "anchored_artifacts": [
         "A-2100.1"
       ],
@@ -1426,7 +2337,1664 @@
       "mentions_person_refs": [
         "N-270"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13056",
+      "ref": "C-13056",
+      "label": "Host Refers to Harpole's Lawsuit Against Her",
+      "claim": "The host refers to a lawsuit that Brian Harpole has brought against her, inviting him to add her statement that he is lying to it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Pull the docket for Harpole's complaint and any amendment to see whether it was extended to cover this statement.",
+      "transcript_snippet": "And feel free, Brian, to add that statement to your lawsuit against me.",
+      "supports_claim_refs": [
+        "C-2810"
+      ],
+      "mentions_person_refs": [
+        "N-270",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13057",
+      "ref": "C-13057",
+      "label": "Host Says Harpole and Turek Tell Conflicting Stories of the Ride",
+      "claim": "The host says Brian Harpole and Frank Turek have conflicting stories about what happened on the way to the hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10686",
+        "N-10699"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:33",
+      "investigative_direction": "Compare each man's recorded account of the ride side by side (CPR, door, positions, duration).",
+      "transcript_snippet": "since they have conflicting stories, him and Frank Turek.",
+      "mentions_person_refs": [
+        "N-270",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13058",
+      "ref": "C-13058",
+      "label": "Opticians Reportedly Say Shards Cannot Be Sunglasses",
+      "claim": "The host says opticians emailed her that the shards on the SUV floor could not be sunglasses, because eyewear lenses are made not to shatter into glass.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10678",
+        "N-10705"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:03:48",
+      "investigative_direction": "Ask independent opticians or lens manufacturers what lens types shatter, and compare with the shard images.",
+      "transcript_snippet": "I even had opticians emailing me to inform me that it was not possible for it to be sunglasses on the ground.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13059",
+      "ref": "C-13059",
+      "label": "Host Believes the Floor Shards Are Charlie's Rode Mic Pieces",
+      "claim": "The host says she firmly believes the shards scattered over the SUV floor were pieces of Charlie Kirk's Rode microphone.",
+      "anchored_artifacts": [
+        "A-2096.4"
+      ],
+      "related_nodes": [
+        "N-10705",
+        "N-10768"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:48",
+      "investigative_direction": "Obtain the Rode Rode mic product teardown and compare shard material, thickness and markings with the SUV photos.",
+      "transcript_snippet": "I do believe firmly that it was Charlie's Rode mic bits that were shattered all over the car floor.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13060",
+      "ref": "C-13060",
+      "label": "Host Reads Harpole's ER Story as Admitting He Removed the Shirt",
+      "claim": "The host says the only reason for Brian Harpole to insert himself into the shirt-cutting story is that he was the person responsible for removing Charlie Kirk's shirt.",
+      "anchored_artifacts": [
+        "A-2094.1"
+      ],
+      "related_nodes": [
+        "N-10683",
+        "N-10684"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:24",
+      "investigative_direction": "Obtain the ER and EMS records for who handled the shirt and where it went.",
+      "transcript_snippet": "So, what Brian is, I think, rather truthfully admitting here, is that he was the person responsible for the removal of Charlie Kirk's shirt, right?",
+      "mentions_person_refs": [
+        "N-270",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13061",
+      "ref": "C-13061",
+      "label": "Host Says Shirt Was the Biggest Explosive Residue Evidence",
+      "claim": "The host says that under her rigged-microphone theory, the shirt was the biggest piece of explosive residue evidence, and Brian Harpole's account has him removing it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10684",
+        "N-10768",
+        "N-10676"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:03",
+      "investigative_direction": "Establish the shirt's chain of custody and whether it was tested for explosive residue.",
+      "transcript_snippet": "is an admission that Brian Harpole would be the person responsible for removing the biggest piece of explosive residue evidence, Charlie's shirt.",
+      "mentions_person_refs": [
+        "N-270",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13062",
+      "ref": "C-13062",
+      "label": "Host Concludes the Shirt Came Off in the Car",
+      "claim": "The host says that, since she rejects the ER story, she concludes Brian Harpole removed the shirt in the car on the way to the hospital.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10684"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:49",
+      "investigative_direction": "Compare ER intake photos and records with the car-interior photos for the shirt's location.",
+      "transcript_snippet": "I have to then logically consider that Brian removed Charlie's shirt somewhere else, right? And the only other option would be in the car on the way over to the hospital.",
+      "mentions_person_refs": [
+        "N-270",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13063",
+      "ref": "C-13063",
+      "label": "Host Says the SUV Interior Photos Were Never Meant to Be Public",
+      "claim": "The host says the photos of the SUV interior were never supposed to see the light of day or be in her possession.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10685"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:49",
+      "investigative_direction": "Determine who took and released the SUV interior photos and when.",
+      "transcript_snippet": "These photos were never supposed to see the light of day.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13064",
+      "ref": "C-13064",
+      "label": "Host Lays Out SUV Seating Per Harpole's Account",
+      "claim": "The host says the SUV carried Dan Flood in the front passenger seat, Justin Davis driving, Brian Harpole and Rick Cutler in the middle row with Charlie across them and his legs out the door, and Frank Turek alone in the back seat.",
+      "anchored_artifacts": [
+        "A-3243.1"
+      ],
+      "related_nodes": [
+        "N-10686"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:49",
+      "investigative_direction": "Confirm seating with each occupant's first-hand account and the SUV photos.",
+      "transcript_snippet": "You've got Dan Flood there in the passenger seat. You've got Justin Davis driving.",
+      "mentions_person_refs": [
+        "N-274",
+        "N-498",
+        "N-270",
+        "N-493",
+        "N-1",
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13065",
+      "ref": "C-13065",
+      "label": "Host Estimates a Six-Minute Ride Against Eight by Google Maps",
+      "claim": "The host says Google Maps puts the hospital about 8 minutes away at the speed limit and, because Harpole says they travelled 60 to 100 mph, she estimates the ride took about 6 minutes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10686"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:49",
+      "investigative_direction": "Use traffic-camera, dispatch and phone-location times to fix departure and arrival to the minute.",
+      "transcript_snippet": "the hospital was about 8 minutes away if you look that up just on Google Maps.",
+      "mentions_person_refs": [
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13066",
+      "ref": "C-13066",
+      "label": "Host Says Departure Footage Shows the Door Ajar",
+      "claim": "The host says that in footage of the SUV pulling out, the rear door can be seen ajar, which fits Harpole's statement that the door was not closed.",
+      "anchored_artifacts": [
+        "A-3246.1"
+      ],
+      "related_nodes": [
+        "N-10686"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:43",
+      "investigative_direction": "Locate and preserve the departure footage and view the door at full resolution.",
+      "transcript_snippet": "If you go back and watch footage of them pulling out, you can indeed see that the door is ajar.",
+      "supports_claim_refs": [
+        "C-2947"
+      ],
+      "mentions_person_refs": [
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13067",
+      "ref": "C-13067",
+      "label": "Harpole Says Rick Cutler Was Also Praying Out Loud",
+      "claim": "In the audio, Brian Harpole says both Frank Turek and Rick Cutler were praying out loud in the car while he worked on Charlie.",
+      "anchored_artifacts": [
+        "A-2094.2"
+      ],
+      "related_nodes": [
+        "N-10686"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:31",
+      "investigative_direction": "Ask Cutler and Turek independently what each did and said during the ride.",
+      "transcript_snippet": "And Frank's praying out loud. Uh Rick's praying out loud.",
+      "mentions_person_refs": [
+        "N-270",
+        "N-7",
+        "N-493"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13068",
+      "ref": "C-13068",
+      "label": "Harpole Repeated the 36 ft Story to Paramount Tactical",
+      "claim": "The host says Brian Harpole repeated his account of 36 ft of dressing in a separate interview with Paramount Tactical.",
+      "anchored_artifacts": [
+        "A-2094.4"
+      ],
+      "related_nodes": [
+        "N-10899",
+        "N-10695"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:33",
+      "investigative_direction": "Obtain the full Paramount Tactical interview and compare the dressing quantities in both accounts.",
+      "transcript_snippet": "36 ft of dressing. And he repeats that story to Paramount Not So Tactical in a separate interview.",
+      "supports_claim_refs": [
+        "C-2949"
+      ],
+      "mentions_person_refs": [
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13069",
+      "ref": "C-13069",
+      "label": "Harpole Says He Opened Hemostatic Packs With His Mouth",
+      "claim": "In the Paramount Tactical audio, Brian Harpole says he opened the hemostatic gauze packs with his mouth, spread the gauze and packed it into the wound.",
+      "anchored_artifacts": [
+        "A-2094.4"
+      ],
+      "related_nodes": [
+        "N-10695",
+        "N-10899"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:21",
+      "investigative_direction": "Check the car-interior photos for torn hemostatic packaging and any bag or wrapper debris.",
+      "transcript_snippet": "And so I'm opening those with my mouth and and then put them down and then spreading it out a little bit",
+      "mentions_person_refs": [
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13070",
+      "ref": "C-13070",
+      "label": "Host Says Dressing Rolls Sell at 4 Yards, Questions Six Rolls",
+      "claim": "The host says 4x4 packs are about 10 cm square and rolls of dressing are sold at 4 yards each, and asks why Harpole had six rolls in a small medical bag.",
+      "anchored_artifacts": [
+        "A-2097.1"
+      ],
+      "related_nodes": [
+        "N-10695"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:18",
+      "investigative_direction": "Check roll length by product and arithmetic: 36 ft is 12 yd, which is three 4-yard rolls, not six.",
+      "transcript_snippet": "But those are sold at just 4 yd a roll. So why on earth did Brian have handy six rolls of dressing in his small medical bag",
+      "mentions_person_refs": [
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13071",
+      "ref": "C-13071",
+      "label": "Host Says CPR Is Impossible Across Two Captain Chairs",
+      "claim": "The host says Frank Turek's claim of attempting CPR is probably false, because Charlie lay across two captain chairs with his midsection unsupported and CPR requires a flat surface.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10699",
+        "N-10737"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:08",
+      "investigative_direction": "Ask a trauma or EMS instructor whether CPR is feasible in that seating position and obtain Turek's full statement.",
+      "transcript_snippet": "You cannot conduct emergency CPR on a person that is laying across two captain chairs with their midsection in the air.",
+      "contradicts_claim_refs": [
+        "C-4708"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-1",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13072",
+      "ref": "C-13072",
+      "label": "Host Says Harpole Is Truthful That CPR Was Not Done",
+      "claim": "The host says CPR could not have been conducted in the car and that Brian Harpole is telling the truth when he says he focused on the bleeding rather than CPR.",
+      "anchored_artifacts": [
+        "A-3243.2"
+      ],
+      "related_nodes": [
+        "N-10699",
+        "N-10737"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:31",
+      "investigative_direction": "Compare Harpole's and Turek's accounts with hospital intake notes on what resuscitation, if any, was reported.",
+      "transcript_snippet": "I cannot stress enough that CPR could not have been conducted in that car. Brian is telling the truth twice when he says that.",
+      "supports_claim_refs": [
+        "C-4709"
+      ],
+      "mentions_person_refs": [
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13073",
+      "ref": "C-13073",
+      "label": "Host Theorizes CPR Story Covers for Turek Changing Into Scrubs",
+      "claim": "The host offers as her opinion that the CPR story was invented because Frank Turek needed an excuse for changing into hospital scrubs.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10688",
+        "N-10699"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:31",
+      "investigative_direction": "Establish who supplied the scrubs and when, and whether Turek's clothing was retained.",
+      "transcript_snippet": "I suspect that the CPR story, which cannot be true, and which Brian Harpole says is not true, uh was necessary because Frank needed an excuse for why he changed into hospital scrubs when he got to the hospital.",
+      "supports_claim_refs": [
+        "C-5790"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13074",
+      "ref": "C-13074",
+      "label": "Host Says Turek Entered the SUV Clean and Did Not Carry Charlie",
+      "claim": "The host says Frank Turek did not help carry Charlie into the SUV, did not run to him when he was hit, and entered the SUV through the trunk in a clean white polo shirt, so he did not touch Charlie after the shot.",
+      "anchored_artifacts": [
+        "A-2103.1"
+      ],
+      "related_nodes": [
+        "N-10685"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:19:32",
+      "investigative_direction": "Review all footage of the loading of Charlie into the SUV for who carried him and when Turek boarded.",
+      "transcript_snippet": "Clean. Fresh, white polo shirt. So, Frank did not touch Charlie after Charlie got hit.",
+      "revises_claim_refs": [
+        "C-8026"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-1",
+        "N-265"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13075",
+      "ref": "C-13075",
+      "label": "Host Says CPR Compressions Are Done by One Person",
+      "claim": "The host says there is no team element to chest compressions, as one person delivers them, while others may count or give breaths.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10699"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:25",
+      "investigative_direction": "Cite AHA CPR guidance on rotating rescuers and compression delivery.",
+      "transcript_snippet": "there's no such thing as we when it comes to the physical touch of CPR. One person conducts the CPR.",
+      "mentions_person_refs": [
+        "N-7"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13076",
+      "ref": "C-13076",
+      "label": "Host Says Turek Should Not Have Had Enough Blood to Need Scrubs",
+      "claim": "The host says that on Harpole's account Turek should not have had a significant amount of blood on him, which makes his change into surgical scrubs unexplained.",
+      "anchored_artifacts": [
+        "A-2103.1"
+      ],
+      "related_nodes": [
+        "N-10688"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:20:25",
+      "investigative_direction": "Ask Turek and hospital staff who supplied scrubs and why.",
+      "transcript_snippet": "He certainly should not have had a significant amount of blood, which required him to change his clothes into surgical scrubs at the hospital.",
+      "supports_claim_refs": [
+        "C-5790"
+      ],
+      "mentions_person_refs": [
+        "N-7",
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13077",
+      "ref": "C-13077",
+      "label": "Host Theorizes the Shirt Was Cut in the Car With Turek Pulling",
+      "claim": "The host theorizes that Brian Harpole cut the shirt off in the car with about 5 to 6 minutes left, while Rick Cutler held him and Frank Turek leaned over to pull the fabric taut.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10684"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:23:55",
+      "investigative_direction": "Look for cut-fabric fragments or scissors in the car photos and compare with the shirt's cut pattern.",
+      "transcript_snippet": "And he began cutting Charlie's shirt off of him in the car with about 5 to 6 minutes on the clock.",
+      "mentions_person_refs": [
+        "N-270",
+        "N-7",
+        "N-493",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13078",
+      "ref": "C-13078",
+      "label": "Host Theorizes Lifting the Shirt Wiped Mic Glass to the Floor",
+      "claim": "The host theorizes that when Charlie was lifted to pull the cut shirt from under him, the shattered Rode microphone glass on him was wiped onto the floor.",
+      "anchored_artifacts": [
+        "A-2096.1"
+      ],
+      "related_nodes": [
+        "N-10705",
+        "N-10685"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:24:43",
+      "investigative_direction": "Test whether shard distribution on the floor is consistent with debris brushed off a body.",
+      "transcript_snippet": "All of the shattered road glass pieces that were on Charlie under him got wiped off of his body, brushed onto the floored the floor, right?",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13079",
+      "ref": "C-13079",
+      "label": "Host Theorizes Quick Clot Was Added to Show Care Was Given",
+      "claim": "The host theorizes that Harpole grabbed a pack or two of quick clot near the hospital because otherwise there would be no evidence anybody had worked on Charlie.",
+      "anchored_artifacts": [
+        "A-2096.1"
+      ],
+      "related_nodes": [
+        "N-10695"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:24:43",
+      "investigative_direction": "Compare the quantity of dressing on the body at hospital intake with what was found in the car.",
+      "transcript_snippet": "because otherwise there wouldn't have been any evidence that anybody was working on him on that very short ride",
+      "mentions_person_refs": [
+        "N-270",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13080",
+      "ref": "C-13080",
+      "label": "Host Theorizes No Ambulance Was Used Because the Shirt Had to Come Off",
+      "claim": "The host suggests that Charlie was not put in an ambulance because the shirt needed to be removed and they did not want questions about microphone bits on his body.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10685"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:24:43",
+      "investigative_direction": "Establish whether an ambulance was requested or staged and who decided against it.",
+      "transcript_snippet": "very same reason that they didn't put him into an ambulance, potentially, um is because they needed to remove Charlie's shirt",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13081",
+      "ref": "C-13081",
+      "label": "Host Links Seizure of Hospital Cameras to a Shirtless Arrival",
+      "claim": "The host says Kash Patel's FBI team moved to seize the hospital's cameras expeditiously and suggests this may be because Charlie arrived shirtless.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10239"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:25:52",
+      "investigative_direction": "Obtain the FBI evidence log for hospital camera seizures and its date and time.",
+      "transcript_snippet": "would require well, Kash Patel's FBI team to swoop in and to seize the cameras expeditiously, which they did.",
+      "supports_claim_refs": [
+        "C-5197"
+      ],
+      "mentions_person_refs": [
+        "N-69",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13082",
+      "ref": "C-13082",
+      "label": "Host Says Explosive Residue Transfers by Casual Contact",
+      "claim": "The host says explosive residue is extremely contagious, passing by even casual contact, so anyone touching a victim killed by an explosive would have to discard their clothing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10768"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:26:48",
+      "investigative_direction": "Ask an explosives-trace expert how readily residue transfers by contact and how long it persists.",
+      "transcript_snippet": "residue is extremely contagious, so to speak. The microscopic particles are passed through even the most casual contact between two people"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13083",
+      "ref": "C-13083",
+      "label": "Host Says a Bomb Dog Would Detect Residue in Seconds",
+      "claim": "The host says a bomb dog would have smelled explosive residue on the clothing within about three seconds.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11054"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:32",
+      "investigative_direction": "Ask canine explosive-detection trainers for detection times.",
+      "transcript_snippet": "A bomb dog would have smelled that in 3 seconds, okay?"
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13084",
+      "ref": "C-13084",
+      "label": "Turek Says the Ride Took 10 to 15 Minutes With No Lights",
+      "claim": "In the audio, Frank Turek says they reached the hospital around 12:30, that Charlie was shot around 12:20, and that the ride took 10 to 15 minutes in an SUV with no lights.",
+      "anchored_artifacts": [
+        "A-2095.1"
+      ],
+      "related_nodes": [
+        "N-10686"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:14",
+      "investigative_direction": "Compare Turek's 10 to 15 minutes with Harpole's 60-80-100 mph account and with timestamps for shot and arrival.",
+      "transcript_snippet": "It took us like 10 minutes to get there, maybe 15. We had no Just an SUV. We had no lights.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13085",
+      "ref": "C-13085",
+      "label": "Turek Says Mikey Had Already Sent a Plane for Erika",
+      "claim": "In the audio, Frank Turek says Mikey McCoy had already sent a plane to get Erika, that she reached the hospital around 3:00, spoke to the doctor and had private time with Charlie's body.",
+      "anchored_artifacts": [
+        "A-2095.1"
+      ],
+      "related_nodes": [
+        "N-10686"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:28:14",
+      "investigative_direction": "Compare with flight logs for the plane sent to Erika and her recorded arrival at the hospital.",
+      "transcript_snippet": "Mikey had already sent a plane to get Erika.",
+      "mentions_person_refs": [
+        "N-7",
+        "N-194",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13086",
+      "ref": "C-13086",
+      "label": "Host Says Farnsworth Told Her He Removed Cameras So Erika Would Not Relive It",
+      "claim": "The host says Terrell Farnsworth told her he took the cameras out because he did not want Erika to relive Charlie dying, and that she asked why specifically the back cameras given the footage is online.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10346"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:18",
+      "investigative_direction": "Obtain Farnsworth's own on-record account and any message to or from Erika about the cameras.",
+      "transcript_snippet": "\"I didn't want Erika to relive Charlie dying.\" I said, \"Terrell, Terrell, what do you mean? It's all over the internet.\"",
+      "supports_claim_refs": [
+        "C-10304",
+        "C-4606"
+      ],
+      "mentions_person_refs": [
+        "N-265",
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13087",
+      "ref": "C-13087",
+      "label": "Host Says Many People With DID Wrote In Describing the Same Pattern",
+      "claim": "The host says many people who have or had dissociative identity disorder wrote after her signature segment, describing childhood trauma and an ability to dissociate.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10690"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:33:21",
+      "investigative_direction": "These are self-reported emails; seek a licensed clinician's view on signature change and DID.",
+      "transcript_snippet": "So many people reached out to me who have dissociative identity disorder or who had it, and all of them with the same stories.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13088",
+      "ref": "C-13088",
+      "label": "Host Says Viewers Find Erika's Presentations Fit DID",
+      "claim": "The host says a viewer told her that what she says fits Erika perfectly, citing the holier-than-thou presentation as Charlie's wife versus the anger seen elsewhere.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10690"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:33:21",
+      "investigative_direction": "A DID diagnosis cannot be made at a distance; obtain licensed clinical commentary.",
+      "transcript_snippet": "the holier-than-thou presentation of when she's married with Charlie, the anger that we see",
+      "mentions_person_refs": [
+        "N-2",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13089",
+      "ref": "C-13089",
+      "label": "Host Says DID Research History Goes Back to Project Monarch",
+      "claim": "The host says the history of dissociation research goes back to Project Monarch, which she says the government and CIA used to train people to dissociate intentionally.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11033",
+        "N-10001",
+        "N-10116"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:35:29",
+      "investigative_direction": "Compare against declassified MKUltra records and historians; Project Monarch has no documented official program.",
+      "transcript_snippet": "the history of that does go back to Project Monarch. This was intentional. Our government did a lot of experiments with that.",
+      "mentions_person_refs": [
+        "N-10001",
+        "N-10116"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13090",
+      "ref": "C-13090",
+      "label": "Host Says CIA-Created Dissociated People Have a Handler With a Key",
+      "claim": "The host says that when the CIA creates abused people who switch personalities, a handler holds the key to switch them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11033",
+        "N-10001"
+      ],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:36:10",
+      "investigative_direction": "Cite declassified MKUltra documents or scholarship; this is recorded as said.",
+      "transcript_snippet": "there is a handler, so to speak, who has the key to get them to switch into different personalities.",
+      "mentions_person_refs": [
+        "N-10001"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13091",
+      "ref": "C-13091",
+      "label": "Host Says Erika Shows Memory Gaps and Reversals",
+      "claim": "The host says people with the disorder describe memory gaps, which she says she sees in Erika, who she says says something totally opposite and becomes a different person.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10690",
+        "N-10983"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:36:10",
+      "investigative_direction": "List the specific reversals (such as Israel positions) with dated sources and compare.",
+      "transcript_snippet": "which we're seeing with her, where she just totally says something totally opposite and becomes different person.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13092",
+      "ref": "C-13092",
+      "label": "Host Says She, Kirk and Shapiro Have Done Jubilee",
+      "claim": "The host says she, Charlie Kirk and Ben Shapiro have each appeared on the debate show Jubilee, where one debates about 20 progressive participants.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11357"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:37:15",
+      "investigative_direction": "Check Jubilee's channel for the listed episodes.",
+      "transcript_snippet": "I've done it in the past, Charlie Kirk has done it in the past, Ben Shapiro was on it in the past.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1",
+        "N-97",
+        "N-32"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13093",
+      "ref": "C-13093",
+      "label": "Host Says Rubin's Book Called Ukraine a NATO Member",
+      "claim": "The host says that in Dave Rubin's book Don't Burn This Book, published around 2020, a chapter says Ukraine was a member of NATO.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:17",
+      "investigative_direction": "Locate the passage in the book's text and the edition; Ukraine is not a NATO member.",
+      "transcript_snippet": "there's a chapter where he actually published, I think this was back in 2020 when he published his book, that Ukraine was a member of NATO.",
+      "mentions_person_refs": [
+        "N-32"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13094",
+      "ref": "C-13094",
+      "label": "Host Says Daily Wire Is Turning to High Mount Capital After a Failed Private Equity Deal",
+      "claim": "The host says that, after the last private equity firm failed to rescue the Daily Wire, it is turning to High Mount Capital to raise money at a valuation she calls absurd.",
+      "anchored_artifacts": [
+        "A-2100.1"
+      ],
+      "related_nodes": [
+        "N-10900",
+        "N-10689",
+        "N-11358"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:41:49",
+      "investigative_direction": "Read the Semafor article for what it says about High Mount, the earlier firm and the valuation.",
+      "transcript_snippet": "they are now turning to High Mount Capital to try to help them raise money at a valuation that is so absurd",
+      "mentions_person_refs": [
+        "N-10689",
+        "N-11358"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13095",
+      "ref": "C-13095",
+      "label": "Host Says Daily Wire Spent Two Years Trying to Bankrupt Her Family",
+      "claim": "The host says the Daily Wire spent two years trying to bankrupt her family over her view that genocide is wrong.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:41:49",
+      "investigative_direction": "Review the lawsuits, notices and letters between the host and the Daily Wire.",
+      "transcript_snippet": "an organization that spent 2 years trying to bankrupt my family because I think genocide is always wrong.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13096",
+      "ref": "C-13096",
+      "label": "Host Says the Pendragon Cycle Cost $50M for Seven Episodes",
+      "claim": "The host says the Daily Wire now admits it spent $50 million on just seven episodes of the Pendragon Cycle, Jeremy Boreing's project.",
+      "anchored_artifacts": [
+        "A-2100.1"
+      ],
+      "related_nodes": [
+        "N-10900",
+        "N-10689"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:42:51",
+      "investigative_direction": "Check the Semafor article for the cost and the episode count.",
+      "transcript_snippet": "they spent $50 million on on just seven episodes.",
+      "mentions_person_refs": [
+        "N-371"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13097",
+      "ref": "C-13097",
+      "label": "Host Says Her Own Figure Was Closer to $60M, Not $10M or $7M",
+      "claim": "The host says she has long said the cost was more than $50 million, closer to 60, and that earlier reports of $10 million or $7 million were wrong.",
+      "anchored_artifacts": [
+        "A-2100.1"
+      ],
+      "related_nodes": [
+        "N-10900",
+        "N-10689"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:42:51",
+      "investigative_direction": "Locate the earlier reports with $10 million and $7 million and compare to the Semafor figure.",
+      "transcript_snippet": "more than $50 million, closer to 60, but at least they're finally admitting that it wasn't $10 million or $7 million as it had been reported in the past.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-371"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13098",
+      "ref": "C-13098",
+      "label": "Host Says Pendragon Cost More Per Episode Than Game of Thrones Season One",
+      "claim": "The host says Pendragon cost more per episode than HBO spent on season one of Game of Thrones and was the single greatest contributor to the Daily Wire's fall.",
+      "anchored_artifacts": [
+        "A-2100.1"
+      ],
+      "related_nodes": [
+        "N-10900",
+        "N-10689"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:43:33",
+      "investigative_direction": "Compare $50M over seven episodes with published budget figures for Game of Thrones season one.",
+      "transcript_snippet": "That means they spent more per an episode than HBO spent on the first season of Game of Thrones.",
+      "supports_claim_refs": [
+        "C-3923"
+      ],
+      "mentions_person_refs": [
+        "N-371"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13099",
+      "ref": "C-13099",
+      "label": "Host Says the Daily Wire Fired Her to Cut Costs and It Backfired",
+      "claim": "The host says the Daily Wire was under financial pressure and needed to remove people it paid, so it fired her publicly; she says Jordan Peterson was not removed and that the move backfired.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900",
+        "N-10689"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:43:33",
+      "investigative_direction": "Review contracts, payroll and subscriber figures around the 2024 split.",
+      "transcript_snippet": "They were under financial pressure. They needed to remove people that they were paying.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-371",
+        "N-601"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13100",
+      "ref": "C-13100",
+      "label": "Host Says Brett Cooper's Exit Followed Because of Boreing",
+      "claim": "The host says Brett Cooper left the Daily Wire later the same year, also because of Jeremy Boreing and his mania.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11244",
+        "N-10900"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:43:33",
+      "investigative_direction": "Compare Cooper's own statements about her exit.",
+      "transcript_snippet": "That was then followed by Brett Cooper's exit later that same year also because of Jeremy Boreing and his mania.",
+      "mentions_person_refs": [
+        "N-225",
+        "N-371"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13101",
+      "ref": "C-13101",
+      "label": "Host Alleges Daily Wire Inflated Subscriber Numbers With Giveaways",
+      "claim": "The host alleges that at the end of 2024 the Daily Wire fake-pumped subscriber numbers by giving memberships away, including buy one get one free and lifetime plans with payment deferred to 2029.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900",
+        "N-10689"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:44:27",
+      "investigative_direction": "Look for dated Daily Wire promotions and any subscriber numbers announced afterward.",
+      "transcript_snippet": "they were sort of like fake pumping their subscription numbers.",
+      "mentions_person_refs": [
+        "N-10689"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13102",
+      "ref": "C-13102",
+      "label": "Host Says She Previously Worked in Private Equity on Distressed Debt",
+      "claim": "The host says she used to work in private equity at a New York City firm specializing in distressed debt.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:45:16",
+      "investigative_direction": "Verify against the host's professional history.",
+      "transcript_snippet": "I used to work in private equity which and that particular firm that I worked at in New York City specialized in distressed debt.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13103",
+      "ref": "C-13103",
+      "label": "Host Says the Daily Wire Editor-in-Chief Insults Teenagers Over USS Liberty",
+      "claim": "The host says the Daily Wire's editor-in-chief, whose name she cannot recall, spends time on Twitter calling 19-year-olds Hitler and anti-Semites for discussing the USS Liberty.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10900",
+        "N-10451"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:09",
+      "investigative_direction": "Identify the editor-in-chief and locate the posts she describes.",
+      "transcript_snippet": "He spends his time just throwing insults on Twitter aimed at 19-year-olds calling them Hitler and anti-Semites if they discuss something like the USS Liberty.",
+      "mentions_person_refs": [
+        "N-10451"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13104",
+      "ref": "C-13104",
+      "label": "Host Says Daily Wire Touts 48 Million in Adjusted EBITDA",
+      "claim": "The host says the Daily Wire is touting 48 million dollars in adjusted EBITDA, which she disputes without seeing its books.",
+      "anchored_artifacts": [
+        "A-2100.1"
+      ],
+      "related_nodes": [
+        "N-10900",
+        "N-10689"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:51",
+      "investigative_direction": "Check the Semafor article for the figure and the company's stated add-backs.",
+      "transcript_snippet": "We had 48 million in adjusted EBITDA.",
+      "mentions_person_refs": [
+        "N-10689"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13105",
+      "ref": "C-13105",
+      "label": "Host Says Sarah Tool Changed Her Story Three Times",
+      "claim": "The host says Sarah Tool, a witness, changed her story three times and that she will cover it next episode.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10677"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:51:57",
+      "investigative_direction": "Compare Tool's three interviews.",
+      "transcript_snippet": "regarding the Tool witness, Sarah Tool, who changed her story three times.",
+      "supports_claim_refs": [
+        "C-2936",
+        "C-2937",
+        "C-2938"
+      ],
+      "mentions_person_refs": [
+        "N-737"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13106",
+      "ref": "C-13106",
+      "label": "Host Says Sarah Tool Smiled Throughout Her Interviews",
+      "claim": "The host says Sarah Tool was smiling the whole time while describing the shooting.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10677"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:52:51",
+      "investigative_direction": "Review the three interviews for demeanor; this is the host's characterization.",
+      "transcript_snippet": "You guys know that she was smiling, of course, the whole time",
+      "mentions_person_refs": [
+        "N-737"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13107",
+      "ref": "C-13107",
+      "label": "Host Suggests Defibrillator Remark Pre-Explains Autopsy Marks",
+      "claim": "The host suggests Harpole's defibrillator mention may be a pre-emptive explanation for chest marks in the autopsy report.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10683"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:53:40",
+      "investigative_direction": "Compare the autopsy report with hospital records on whether a defibrillator was used.",
+      "transcript_snippet": "there might be some marks that they know is a part of the autopsy report that they're going to explain as well that was from Charlie got defibrillated.",
+      "mentions_person_refs": [
+        "N-270",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13108",
+      "ref": "C-13108",
+      "label": "Host Says She Was Banned From Australia After a Zionist Lobby Pushed",
+      "claim": "The host says she was banned from Australia because the Zionist lobby of Australia banded together and called her a danger, in the middle of a tour about motherhood and feminism.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11099"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:53:40",
+      "investigative_direction": "Review the Australian visa decision and the lobbying letters.",
+      "transcript_snippet": "I got banned from Australia because the Zionist lobby of Australia banned together and said that I was a danger.",
+      "supports_claim_refs": [
+        "C-9505"
+      ],
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13109",
+      "ref": "C-13109",
+      "label": "Host Says Cousin Mia Was Not Impressed by Erika",
+      "claim": "The host says her cousin Mia, who left a meeting with Erika months ago with her, was not feeling it and that Erika did not pass the vibe check.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:54:25",
+      "investigative_direction": "Personal impression of a private individual; tangential.",
+      "transcript_snippet": "She just Mia wasn't feeling it. Didn't pass the vibe check.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13110",
+      "ref": "C-13110",
+      "label": "Host Calls Erika's Shabbat Shalom Line an Accidental Rhyme",
+      "claim": "The host says she does not think Erika's Fox News line Shabbat Shalom, daddy's home, refers to the Mossad pager attack and that she accidentally rhymed.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10977",
+        "N-10006"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:54:25",
+      "investigative_direction": "Locate the Fox interview and the exact words.",
+      "transcript_snippet": "she just kind of accidentally rhymed there when she said that",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13111",
+      "ref": "C-13111",
+      "label": "Clip Played of a Reply About Trans Students",
+      "claim": "A clip is played in which a speaker is asked what they would say to trans students who feel victimized and answers, Life's tough, get a helmet.",
+      "anchored_artifacts": [
+        "A-3244.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:55:16",
+      "investigative_direction": "Identify the speaker and event of the clip.",
+      "transcript_snippet": "Life's tough, get a helmet, man. I'm too pregnant for this.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13112",
+      "ref": "C-13112",
+      "label": "Host Relays Comment That Elizabeth Holmes Is in a Fake Prison",
+      "claim": "The host reads and echoes a comment that Elizabeth Holmes was convicted of fraud and went to a fake prison that she probably is not in, and that her family is old money.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:56:01",
+      "investigative_direction": "Fringe; Holmes is held in a federal facility per the Bureau of Prisons.",
+      "transcript_snippet": "She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.",
+      "mentions_person_refs": [
+        "N-929"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13113",
+      "ref": "C-13113",
+      "label": "Host Relays a Report of a Police Caller Seeing Someone Try to Jump Out",
+      "claim": "The host relays a commenter's claim that a police car following Charlie's SUV called in that it looked like someone was trying to jump out.",
+      "anchored_artifacts": [
+        "A-2102.9"
+      ],
+      "related_nodes": [
+        "N-10686"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:02",
+      "investigative_direction": "Obtain police radio and CAD logs.",
+      "transcript_snippet": "there is a call from one of the police cars following Charlie's car, and they said it looked like someone was trying to jump out of the car.",
+      "mentions_person_refs": [
+        "N-493"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13114",
+      "ref": "C-13114",
+      "label": "Host Says Harpole Mentioned a Police Tail on the Shawn Ryan Show",
+      "claim": "The host says Brian Harpole briefly discussed in the Shawn Ryan interview that a police car tailed them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10681",
+        "N-10686"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:02",
+      "investigative_direction": "Locate the passage in the interview and note the timestamp.",
+      "transcript_snippet": "Brian briefly discussed in that Shawn Ryan interview how they caught a police tail.",
+      "mentions_person_refs": [
+        "N-270"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13115",
+      "ref": "C-13115",
+      "label": "Host Says Nobody Has Admitted Calling 911 and Assumes It Was Flood",
+      "claim": "The host says she has not found the 911 call, that no one in the car has said they made it, and that she assumes it was Dan Flood.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10692",
+        "N-10729"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:02",
+      "investigative_direction": "Request the 911 and CAD records for calls from the convoy.",
+      "transcript_snippet": "No one has taken raised their hand and said it was me. I would assume it would be Dan Flood.",
+      "mentions_person_refs": [
+        "N-274"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13116",
+      "ref": "C-13116",
+      "label": "Host Says Dan Flood Declined a Promotion From Erika",
+      "claim": "The host says Dan Flood declined Erika's offer of a promotion.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10694"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:48",
+      "investigative_direction": "Seek TPUSA personnel records or a Flood statement.",
+      "transcript_snippet": "He declined Erika offering him a promotion.",
+      "revises_claim_refs": [
+        "C-5494"
+      ],
+      "mentions_person_refs": [
+        "N-274",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13117",
+      "ref": "C-13117",
+      "label": "Host Says Erika Spent Two Years Seen Only by a Pastor and His Wife",
+      "claim": "The host says Erika said she took two years off to study the Bible and that nobody saw her except her pastor and his wife, and asks whether the pastor was James Kaddis.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10693"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:59:03",
+      "investigative_direction": "Find Erika's own statement of the two years and identify the pastor.",
+      "transcript_snippet": "She took 2 years off to study the Bible and said no one saw her except for her pastor and her pastor's wife.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-673"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13118",
+      "ref": "C-13118",
+      "label": "Host Asks Viewers to Email moretips Address",
+      "claim": "The host asks viewers with information to email the tips address.",
+      "anchored_artifacts": [
+        "A-3245.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:59:03",
+      "investigative_direction": "Confirm the tip address and handling.",
+      "transcript_snippet": "Uh, email us at moretips@canesowns. com.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13119",
+      "ref": "C-13119",
+      "label": "Host Says Her Next Model Management Leads Are Promising",
+      "claim": "The host says she is particularly interested in the Epstein thread about Erika and Next Model Management, wants former models who recall Erika running the Eastern European department, and has promising leads and calls to make.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10519",
+        "N-10532"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:59:41",
+      "investigative_direction": "Obtain Next Model staff records.",
+      "transcript_snippet": "We are particularly interested in the Epstein thread that we have been pulling about Erika and Next Model Management.",
+      "confidence": "high",
+      "supports_claim_refs": [
+        "C-4393"
+      ],
+      "mentions_person_refs": [
+        "N-2",
+        "N-9",
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-16",
+      "ref": "M-16",
+      "canonical_term": "Mommy Sleuth",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 121,
+          "video_timestamp": "00:02:31",
+          "speaker_node_ref": "N-3",
+          "quote": "Boy, oh, boy, do I love you sleuths back home.",
+          "context": "Host praises viewer sleuths for the USB logo find.",
+          "confidence": "high",
+          "tags": [
+            "sleuths",
+            "crowdsourcing"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-35",
+      "ref": "M-35",
+      "canonical_term": "Rabbit Hole",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 121,
+          "video_timestamp": "00:51:57",
+          "speaker_node_ref": "N-3",
+          "quote": "It's a rabbit hole regarding the Tool witness, Sarah Tool, who changed her story three times.",
+          "context": "Host frames the Sarah Tool inconsistencies as a rabbit hole for tomorrow.",
+          "confidence": "high",
+          "tags": [
+            "rabbit hole"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-38",
+      "ref": "M-38",
+      "canonical_term": "MK Ultra",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 121,
+          "video_timestamp": "00:36:10",
+          "speaker_node_ref": "N-3",
+          "quote": "Again, MK-Ultra program of the stuff that our military got involved with",
+          "context": "Host points viewers to MK-Ultra and Project Monarch for DID background.",
+          "confidence": "high",
+          "tags": [
+            "mk ultra",
+            "monarch"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-46",
+      "ref": "M-46",
+      "canonical_term": "Handler",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 121,
+          "video_timestamp": "00:36:10",
+          "speaker_node_ref": "N-3",
+          "quote": "there is a handler, so to speak, who has the key to get them to switch into different personalities.",
+          "context": "Host describes a handler holding the key to a dissociated person's personalities.",
+          "confidence": "high",
+          "tags": [
+            "handler"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-75",
+      "ref": "M-75",
+      "canonical_term": "I'll Say Allegedly",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 121,
+          "video_timestamp": "00:18:31",
+          "speaker_node_ref": "N-3",
+          "quote": "This is the allegedly, if O. J. Simpson did it. Okay? Not fact, my opinion, allegedly, allegedly.",
+          "context": "Host hedges her scrubs theory as opinion.",
+          "confidence": "high",
+          "tags": [
+            "allegedly",
+            "hedge"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-76",
+      "ref": "M-76",
+      "canonical_term": "Genocide Is Always Wrong",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 121,
+          "video_timestamp": "00:41:49",
+          "speaker_node_ref": "N-3",
+          "quote": "because I think genocide is always wrong.",
+          "context": "Host ties the Daily Wire's attacks on her to her genocide statement.",
+          "confidence": "high",
+          "tags": [
+            "genocide",
+            "daily wire"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-92",
+      "ref": "M-92",
+      "canonical_term": "Paramount Not So Tactical",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 121,
+          "video_timestamp": "00:14:33",
+          "speaker_node_ref": "N-3",
+          "quote": "he repeats that story to Paramount Not So Tactical in a separate interview.",
+          "context": "Host uses the label for Paramount Tactical when citing its Harpole interview.",
+          "confidence": "high",
+          "tags": [
+            "paramount tactical"
+          ]
+        },
+        {
+          "episode": 121,
+          "video_timestamp": "00:48:33",
+          "speaker_node_ref": "N-3",
+          "quote": "I think Paramount Not So Tactical go for him.",
+          "context": "Host uses the label again when inviting the audience to invest in the Daily Wire.",
+          "confidence": "high",
+          "tags": [
+            "paramount tactical"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-144",
+      "ref": "M-144",
+      "canonical_term": "The Preggo",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 121,
+          "video_timestamp": "00:55:16",
+          "speaker_node_ref": "N-3",
+          "quote": "and they also have no chance now that I'm pregnant.",
+          "context": "Host invokes her pregnancy as a running bit.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy"
+          ]
+        },
+        {
+          "episode": 121,
+          "video_timestamp": "00:56:01",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm pregnant and I'm just not dealing with the nonsense anymore.",
+          "context": "Host repeats the pregnancy bit after the clip.",
+          "confidence": "high",
+          "tags": [
+            "pregnancy"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-12",
+      "ref": "M-12",
+      "canonical_term": "Decentralized Intelligence Agency",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 121,
+          "video_timestamp": "00:59:03",
+          "speaker_node_ref": "N-3",
+          "quote": "Uh, email us at moretips@canesowns. com.",
+          "context": "Host asks viewers with information, especially on Erika's pastor and Next Model, to email tips.",
+          "confidence": "high",
+          "tags": [
+            "tips",
+            "dia"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-287",
+      "ref": "M-287",
+      "canonical_term": "If I Did Do It by Erika Kirk",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 121,
+          "video_timestamp": "00:23:11",
+          "speaker_node_ref": "N-3",
+          "quote": "I'm going to tell you a story. Just a tale. And if I did it.",
+          "context": "Host again frames her theory in If I Did It style.",
+          "confidence": "high",
+          "tags": [
+            "if i did it"
+          ]
+        }
+      ]
+    }
+  ]
 }

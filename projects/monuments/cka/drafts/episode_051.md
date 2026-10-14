@@ -29,7 +29,7 @@
 
 Episode 51, the 2026 season opener of the Bride of Charlie series (Candace Ep 284, uploaded 2026-01-05), functions as a status update and escalation. The host recaps three off-air developments: (1) the public reaction to AmFest including a tent recreation of the site where Charlie Kirk was killed; (2) the Daily Wire's re-release of her old 2021 joining trailer on her social channels; and (3) the Fort Huachuca/Mitch Snow saga, where coordinated efforts to discredit the witness are alleged.
 
-The evidentiary material consists of nine distinct clip families: three Tim Dillon comedy segments, a CBS reporter description of the AmFest tent recreation, the Barry Weiss / Hunter Cosgrove CBS moment, an October 2024 Charlie Kirk interview with Justice Smith on MK Ultra, an Alex Jones InfoWars declaration of war against Candace, a Paramount Tactical Valhalla livestream that accidentally exposes instructions from Andrew Kolbet, an interview with Mitch Snow's son that inadvertently confirms Fort Huachuca access protocols, and a 2021 Daily Wire trailer re-released on Candace's social channels. Two top fan comments from the prior episode are read aloud as supporting artifacts.
+The evidentiary material consists of nine distinct clip families: three Tim Dillon comedy segments, a CBS reporter description of the AmFest tent recreation, the Bari Weiss / Hunter Cosgrove CBS moment, an October 2024 Charlie Kirk interview with Justice Smith on MK Ultra, an Alex Jones InfoWars declaration of war against Candace, a Paramount Tactical Valhalla livestream that accidentally exposes instructions from Andrew Kolbet, an interview with Mitch Snow's son that inadvertently confirms Fort Huachuca access protocols, and a 2021 Daily Wire trailer re-released on Candace's social channels. Two top fan comments from the prior episode are read aloud as supporting artifacts.
 
 Structurally, the episode advances several investigative threads: the approval chain for the AmFest tent recreation; the alleged coordination by Andrew Kolbet with attackers of Mitch Snow; Erica Kirk's alleged presence at Fort Huachuca on September 8; and the host's declaration that she will "sentence" Andrew Kolbet "to truth." Future episodes are teased to address Cabot Phillips, Mark Amaday, and Brian Harpole.
 
@@ -81,9 +81,9 @@ Confidence Level: High
 
 *Related: C-1991, N-10376*
 
-**A-1570** Barry Weiss CBS Hunter Cosgrove Clip
+**A-1570** Bari Weiss CBS Hunter Cosgrove Clip
 
-**A-1570.1** Barry Weiss introduces Hunter Cosgrove to ask Erica Kirk a question on the CBS stage, noting he was "the last person that Charlie ever spoke to"
+**A-1570.1** Bari Weiss introduces Hunter Cosgrove to ask Erica Kirk a question on the CBS stage, noting he was "the last person that Charlie ever spoke to"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -283,7 +283,7 @@ Investigative Pressure: Medium
 
 **N-374** Hunter Cosgrove (UVU student)
 
-Utah Valley University student identified by Barry Weiss as the last person Charlie Kirk spoke to before being shot; name also rendered "Hunter Kozak" in host narration.
+Utah Valley University student identified by Bari Weiss as the last person Charlie Kirk spoke to before being shot; name also rendered "Hunter Kozak" in host narration.
 
 Evidence Count: 1
 Claim Count: 1
@@ -397,7 +397,7 @@ Investigative Pressure: High
 
 **N-10377** Hunter Cosgrove / Kozak Identity Discrepancy
 
-Persistent target verifying the correct spelling and identity of the UVU student introduced by Barry Weiss.
+Persistent target verifying the correct spelling and identity of the UVU student introduced by Bari Weiss.
 
 Evidence Count: 1
 Claim Count: 1
@@ -865,11 +865,11 @@ Mentions: N-281
 
 Investigative Direction: Verify the segment against the source recording; assess whether the host's framing of this clip as investigative commentary is supported by the artifact.
 
-**C-1994** Barry Weiss clip introduces Hunter Cosgrove as the last person Charlie Kirk spoke to before his death, brought on stage to ask Erica Kirk a question
+**C-1994** Bari Weiss clip introduces Hunter Cosgrove as the last person Charlie Kirk spoke to before his death, brought on stage to ask Erica Kirk a question
 
 Claim Timestamp: 00:17:33
 
-Claim: A Barry Weiss CBS segment played on air introduces Hunter Cosgrove as the last person Charlie Kirk ever spoke to and brings him on stage to ask Erica Kirk a question.
+Claim: A Bari Weiss CBS segment played on air introduces Hunter Cosgrove as the last person Charlie Kirk ever spoke to and brings him on stage to ask Erica Kirk a question.
 
 Anchored Artifacts: A-1570.1
 Mentions: N-2, N-282, N-374, N-1
@@ -1066,7 +1066,7 @@ Investigative Direction: Ask TPUSA what Erika Kirk knew about the tent display a
 
 Claim Timestamp: 00:15:22
 
-Claim: The host says the worst part of the Barry Weiss interview was CBS's decision to bring Hunter Kozak (Cosgrove) on stage to ask Erika Kirk a question, and says she wants to know who approved the idea.
+Claim: The host says the worst part of the Bari Weiss interview was CBS's decision to bring Hunter Kozak (Cosgrove) on stage to ask Erika Kirk a question, and says she wants to know who approved the idea.
 
 Transcript Snippet: the most effed up part about that interview was CBS's decision to bring Hunter Kozak to ask Erika a question.
 
@@ -1561,7 +1561,7 @@ Claim Timestamp: 00:50:03
 
 Claim: The host says that after her meeting with Erika Kirk she was left with the impression that Kolvet had gone rogue, as TPUSA's excuse was that she told the truth but Kolvet went rogue.
 
-Transcript Snippet: I was left under the impression after my meeting with Erika that Andrew Kolb had gone rogue, right?
+Transcript Snippet: I was left under the impression after my meeting with Erika that Andrew Kolvet had gone rogue, right?
 
 Anchored Artifacts: 
 Mentions: N-14, N-2, N-3
@@ -1577,7 +1577,7 @@ Claim Timestamp: 00:50:58
 
 Claim: The host says TPUSA conceded that Kolvet did receive Charlie's text the night before, in which Charlie was worried about being killed, and that Erika did not know because she was looking in his iMessages.
 
-Transcript Snippet: Andrew Kolb had did receive that text from Charlie the night before, and Charlie was worried that he was going to be killed. But, you know, Erika didn't know this information
+Transcript Snippet: Andrew Kolvet had did receive that text from Charlie the night before, and Charlie was worried that he was going to be killed. But, you know, Erika didn't know this information
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-2
@@ -1610,7 +1610,7 @@ Claim Timestamp: 00:51:52
 
 Claim: The host says her source says the surgeon did not violate HIPAA and never said the quote, but answered Kolvet's questions because Erika was on the phone in a three-way call, and that the Superman quotation came from Erika.
 
-Transcript Snippet: But he answered Andrew Kolbe's questions because Erika was on the phone and that the Superman quotation came from her.
+Transcript Snippet: But he answered Andrew Kolvet's questions because Erika was on the phone and that the Superman quotation came from her.
 
 Anchored Artifacts: 
 Mentions: N-2, N-14
@@ -1694,7 +1694,7 @@ Claim Timestamp: 00:54:59
 
 Claim: The host says her previously undisclosed source for the claim that Netanyahu offered to take Turning Point to the next level, and that Charlie Kirk said no, was Andrew Kolvet.
 
-Transcript Snippet: It was Andrew Kolb it who told me that Bibi Netanyahu offered to take Turning Point to the next level and that Charlie Kirk said, "No."
+Transcript Snippet: It was Andrew Kolvet it who told me that Bibi Netanyahu offered to take Turning Point to the next level and that Charlie Kirk said, "No."
 
 Anchored Artifacts: 
 Mentions: N-14, N-36, N-1, N-3
@@ -1711,7 +1711,7 @@ Claim Timestamp: 00:54:59
 
 Claim: The host says another person, whose identity she will not reveal, confirmed the same thing and that Kolvet could not have known anything about that source.
 
-Transcript Snippet: a source that was not related to Andrew Kolb it who confirmed that very same thing and there's no way Andrew would have known anything about that source.
+Transcript Snippet: a source that was not related to Andrew Kolvet it who confirmed that very same thing and there's no way Andrew would have known anything about that source.
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
@@ -2050,7 +2050,7 @@ Confidence: high
 
 Video Timestamp: 00:53:00
 Speaker: N-3
-Quote: So, we have to sentence Andrew Kolbe to more truth.
+Quote: So, we have to sentence Andrew Kolvet to more truth.
 Context: Host repeats the sentencing after the alibi recap.
 Tags: sentence, truth, kolvet
 Confidence: high

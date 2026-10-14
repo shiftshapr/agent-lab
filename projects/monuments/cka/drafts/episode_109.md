@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep109): N-10815
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-646, N-647, N-648, N-649, N-650, N-651, N-652, N-653, N-654, N-10945, N-10946, N-10947
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-22, N-27, N-30, N-36, N-69, N-82, N-102, N-162, N-163, N-166, N-205, N-213, N-217, N-228, N-270, N-321, N-345, N-366, N-131, N-443, N-587, N-599, N-601, N-639, N-10000, N-10068, N-10070, N-10075, N-10083, N-10270, N-10367, N-10373, N-10538, N-10546, N-10551, N-10605, N-10637, N-10643, N-10664, N-10666, N-10700, N-10916, N-10923, N-10671, N-10887
+  - Tip-minted Nodes (skeleton): N-646, N-647, N-649, N-650, N-651, N-652, N-653, N-654, N-10945, N-10946, N-10947
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-14, N-22, N-27, N-30, N-36, N-69, N-82, N-102, N-162, N-163, N-166, N-205, N-213, N-217, N-228, N-270, N-321, N-345, N-366, N-131, N-443, N-587, N-599, N-601, N-639, N-10000, N-10068, N-10070, N-10075, N-10083, N-10270, N-10367, N-10373, N-10538, N-10546, N-10551, N-10605, N-10637, N-10643, N-10664, N-10666, N-10700, N-10916, N-10923, N-10671, N-10887, N-648
   - Claim Range: C-4267–C-4321
   - (see registers)
 
@@ -194,7 +194,7 @@ Confidence Level: High
 
 **A-2615.1** Viewer comment (James The Least) on Erika Kirk and Victor Marx (read aloud)
 
-Quoted text: "The fact that Erika Kirk and Victor Marks are close is the least surprising thing ever."
+Quoted text: "The fact that Erika Kirk and Victor Marx are close is the least surprising thing ever."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:45:41
@@ -374,7 +374,7 @@ Named among the accounts profiled in the VFT reports.
 
 **N-345** Victor Marx
 
-Transcript spelling "Victor Marks". A viewer comment says he and Erika Kirk are close.
+Transcript spelling "Victor Marx". A viewer comment says he and Erika Kirk are close.
 
 *Related: C-4317, A-2615.1*
 
@@ -1390,7 +1390,7 @@ Claim Timestamp: 00:45:41
 
 Claim: A viewer comment read by the host says Erika Kirk and Victor Marx are close; the host says Erika Kirk's character can be judged by the people around her.
 
-Transcript Snippet: James The Least writes, "The fact that Erika Kirk and Victor Marks are close is the least surprising thing ever."
+Transcript Snippet: James The Least writes, "The fact that Erika Kirk and Victor Marx are close is the least surprising thing ever."
 
 Anchored Artifacts: A-2615.1
 Mentions: N-2, N-345
@@ -1640,7 +1640,7 @@ Confidence: high
 - **Duration**: the skeleton's Video Timestamp Range (00:56:29) has been corrected to the transcript front-matter duration of 52:19.
 - **Artifacts verbally referenced but not shown**: A-2610.2 (the White House denial and the host's follow-up email), A-2611.2 (Hegseth's September 9 schedule), A-2616.1 (Brigitte Macron's lawsuit filing) and A-2616.2 (Brian Harpole's lawsuit). A-2611.1 is the host's recap of flight data; it is unclear whether a flight map was shown.
 - **DIA scan**: no tip request, bounty or tip-line beat airs. The only hit is "Go to Candace Owens. com" (50:58), which is a merch plug, so M-12 and M-14 are not used.
-- **Name matching**: "Ryan Ruth" is minted as N-646 Ryan Routh. "Victor Marks" is N-345 Victor Marx. "BB" is N-36 Benjamin Netanyahu. "Joel Finkelstein" is minted as N-652 and is not matched to the existing Norman Finkelstein node. "Shawn Chenoweth", "Raphael Schreiber" and "Kuchta" are kept as spelled in the transcript; real spellings are unverified. "Sean Kadkhoui" and "James The Least" are viewer handles and are not minted.
+- **Name matching**: "Ryan Ruth" is minted as N-646 Ryan Routh. "Victor Marx" is N-345 Victor Marx. "BB" is N-36 Benjamin Netanyahu. "Joel Finkelstein" is minted as N-652 and is not matched to the existing Norman Finkelstein node. "Shawn Chenoweth", "Raphael Schreiber" and "Kuchta" are kept as spelled in the transcript; real spellings are unverified. "Sean Kadkhoui" and "James The Least" are viewer handles and are not minted.
 - **Cross-staging reuse**: N-10923 uses the exact title from staging episode 104 ("White House Military Office "I Want to Go Home" Amplification Email"). Staging episode 105 names the same email "White House Military Office Erika Kirk Amplification Email", so the integrator should merge the two. N-10916 reuses the title "Thomas Massie Kentucky Primary Outside Spending" from staging. M-95 reuses the title "Emotional Response Asset" from another staging episode.
 - **New meme M-104**: the host's Brigitte Macron doll ("Brigitte Bardot") also appears in episode 107's transcript, which suggests a running bit. The integrator should check whether 107 mints it under a different title.
 - **Possible cross-episode link left out**: C-4281 (Harpole's alibi flight from Texas at "2:30 in the afternoon") differs from C-2904 (ep 102: "1:49 PM Dallas to Salt Lake City"). Because the host does not present it as a correction, no edge was added.

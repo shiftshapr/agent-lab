@@ -776,7 +776,7 @@ Existing topic reused.
 
 ---
 
-**N-10681** Sean Ryan Show Interview Clip Bundle
+**N-10681** Shawn Ryan Show Interview Clip Bundle
 
 Existing topic reused.
 
@@ -2189,7 +2189,7 @@ Claim Timestamp: 01:00:53
 
 Claim: The host says she saw people pinging her that Megyn Kelly is hosting the influencers who described the hearing, and that she herself had not watched because she was on vacation.
 
-Transcript Snippet: I did see people pinging me about Megan Kelly and saying she's hosting these people.
+Transcript Snippet: I did see people pinging me about Megyn Kelly and saying she's hosting these people.
 
 Anchored Artifacts: 
 Mentions: N-46, N-3

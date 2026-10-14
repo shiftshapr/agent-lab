@@ -1330,7 +1330,7 @@
       "ref": "N-495",
       "name": "Lori Frantzve",
       "type": "person",
-      "description": "Transcribed Lori France Faye; the host says Charlie met her at a clinic appointment on September 8.",
+      "description": "Transcribed Lori Frantzve; the host says Charlie met her at a clinic appointment on September 8.",
       "related_artifacts": [],
       "related_claims": [
         "C-10287"
@@ -2563,7 +2563,7 @@
       ],
       "claim_timestamp": "00:12:14",
       "investigative_direction": "Request White House visitor logs and the identity of the host's correspondents.",
-      "transcript_snippet": "Andrew Kolb Mikey McVoy and a couple of women uh look like Mikey McVoy's wife. They were in the West Wing.",
+      "transcript_snippet": "Andrew Kolvet Mikey McVoy and a couple of women uh look like Mikey McVoy's wife. They were in the West Wing.",
       "supports_claim_refs": [
         "C-2420"
       ],
@@ -3561,7 +3561,7 @@
       ],
       "claim_timestamp": "00:34:25",
       "investigative_direction": "Ask Turek who was at the Monday dinner.",
-      "transcript_snippet": "Frank Turick does make the claim that Charlie had dinner with his family, but he doesn't mention Erika. He doesn't say his wife",
+      "transcript_snippet": "Frank Turek does make the claim that Charlie had dinner with his family, but he doesn't mention Erika. He doesn't say his wife",
       "supports_claim_refs": [
         "C-2431"
       ],
@@ -3645,7 +3645,7 @@
       "@id": "C-10287",
       "ref": "C-10287",
       "label": "Host Says Charlie Met Lori Frantzve at a Clinic Appointment at 10:45 a.m.",
-      "claim": "The host says that at 10:45 a.m. Lori France Faye had a clinic appointment that Charlie allegedly accompanied, and appointments run about an hour.",
+      "claim": "The host says that at 10:45 a.m. Lori Frantzve had a clinic appointment that Charlie allegedly accompanied, and appointments run about an hour.",
       "anchored_artifacts": [
         "A-3071.1"
       ],
@@ -3658,7 +3658,7 @@
       ],
       "claim_timestamp": "00:38:58",
       "investigative_direction": "Identify the clinic and source for the alleged meeting.",
-      "transcript_snippet": "At 10:45 a. m. Lori France Faye has an appointment at the clinic and Charlie allegedly meets up with her, accompanies her.",
+      "transcript_snippet": "At 10:45 a. m. Lori Frantzve has an appointment at the clinic and Charlie allegedly meets up with her, accompanies her.",
       "mentions_person_refs": [
         "N-495",
         "N-1"

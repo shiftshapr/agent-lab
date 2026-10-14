@@ -11,8 +11,13 @@
 - **Transcript SHA-256**: 087c555f00ceb818cad608ff21e33df7adf9a91188c74d073eebdf7ac801be48
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10f): N-11342, N-11343
+  - Hole-minted Nodes (reintro-ep078): N-598, N-10705, N-10768, N-10812
+  - Tip-minted Nodes (reintro-ep078): N-10986, N-10987, N-11211
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10f): C-12671–C-12749
   - New Nodes Introduced: N-588, N-589, N-590, N-591, N-592, N-593, N-594, N-596, N-10531, N-10533, N-10534, N-10535, N-10536, N-10537, N-10538
-  - Reused Nodes Appearing: N-587, N-10532
+  - Reused Nodes Appearing: N-587, N-10532, N-4, N-5, N-7, N-11, N-14, N-22, N-33, N-50, N-69, N-97, N-166, N-190, N-248, N-265, N-284, N-371, N-383, N-466, N-495, N-526, N-667, N-689, N-10270, N-10290, N-10316, N-10324, N-10346, N-10383, N-10385, N-10421, N-10519, N-10522, N-10523, N-10897, N-10916, N-10922, N-11165, N-11192
   - (see registers)
 
 # Meta-Data
@@ -291,6 +296,127 @@ Confidence Level: High
 
 ---
 
+**A-3220** Erika Kirk Black Sea Base Clip Bundle
+
+**A-3220.1** Clip of Erika Kirk describing the Black Sea Rotational Force base move and contact at Constanța (played on air)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:16:04
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12693, C-12694*
+
+---
+
+**A-3221** Viewer Comments Read On Air Bundle
+
+**A-3221.1** Host reads a top comment suggesting she run independent if Erika runs for president
+
+Quoted text: "if Erika runs for president, Candace should run independent so they can debate."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:48:00
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12727*
+
+---
+
+**A-3221.2** Host reads a Project Constitution comment about student protests against Turning Point
+
+Quoted text: "students all over the country are revolting in protest of Turning Point and Erika Kirk. They don't want them speaking at their schools, churches, or mandating high school chapters."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:48:44
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12728, C-12729*
+
+---
+
+**A-3221.3** Host reads a donor's comment about frequent TPUSA fundraising letters
+
+Quoted text: "I have been donating to Turning Point USA since before Charlie's death, ever since I received letters at least once every couple of weeks asking for more money to help continue Charlie's vision."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:50:07
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12730*
+
+---
+
+**A-3221.4** Host reads a comment listing speakers at upcoming TPUSA events
+
+Quoted text: "The speakers are Erika, JD, Donald Jr., Karoline Leavitt, Lauren Jones, Matt Walsh, etc., etc."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:51:02
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12731*
+
+---
+
+**A-3221.5** Host reads a comment reporting four drones stolen from Fort Campbell
+
+Quoted text: "four drones were stolen from Fort Campbell, first reported 20 hours ago."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:52:08
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12732, C-12733*
+
+---
+
+**A-3221.6** Host reads a comment about Tucker Carlson's interview with Bret Weinstein
+
+Quoted text: "His latest with Bret Weinstein was one for the books. Bret pushed and made his views clear that the Charlie story does not add up."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:54:30
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12736, C-12737*
+
+---
+
+**A-3222** Decentralized Intelligence Agency Tip Line Bundle
+
+**A-3222.1** Host verbal call for more tips at candaceowens.com
+
+Quoted text: "please email us more tips at candaceowens. com."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:58:44
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12744*
+
+---
+
+**A-3222.2** Host verbal call for tips from Next Model Management models and employees
+
+Quoted text: "More tips at candaceowens. com, directly from the employees at Next Model Management."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:58:44
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12745*
+
+---
+
 # Node Register
 
 
@@ -551,6 +677,440 @@ Episode Count: 1
 Investigative Pressure: High
 
 *Related: A-1843.1, A-1844.1, A-1844.2, A-1845.1, C-2466, C-2467, C-2468, C-2469, C-2474, N-1, N-587, N-41*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the assassination; the host reports his statements and the footage of him.
+
+*Related: C-12671, C-12690, C-12703, C-12704, C-12705, C-12712, C-12713, C-12714, C-12715, C-12716, C-12717, C-12720, C-12721, C-12726, C-12738, C-12748*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; subject of the Next Model Management, Romanian Angels and necklace claims.
+
+*Related: C-12672, C-12692, C-12693, C-12694, C-12699, C-12702, C-12703, C-12716, C-12724, C-12727, C-12728, C-12731, C-12741, C-12745*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself, including the tip solicitations.
+
+*Related: C-12671, C-12727, C-12735, C-12744, C-12745, C-12747, C-12748*
+
+---
+
+**N-4** JD Vance
+
+Named in a viewer comment as a speaker at upcoming TPUSA events.
+
+*Related: C-12731*
+
+---
+
+**N-5** Donald Trump
+
+President; the host discusses his stance on Massie, the Epstein files and Kushner.
+
+*Related: C-12682, C-12686, C-12687*
+
+---
+
+**N-7** Frank Turek
+
+Frank Turek; the host recounts his story of the necklace on the backpack.
+
+*Related: C-12714, C-12715*
+
+---
+
+**N-9** Jeffrey Epstein
+
+Jeffrey Epstein; subject of the NY Post article on his Manhattan condo building.
+
+*Related: C-12673, C-12674, C-12675, C-12676, C-12677*
+
+---
+
+**N-11** Tyler Bowyer
+
+TPUSA figure the host says runs Turning Point Action.
+
+*Related: C-12723*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson; the host ties him to the West Wing meeting and the fake-live episode.
+
+*Related: C-12689, C-12690, C-12691*
+
+---
+
+**N-22** Tucker Carlson
+
+Tucker Carlson; the host and a commenter discuss his interview with Bret Weinstein.
+
+*Related: C-12736, C-12737*
+
+---
+
+**N-33** Donald Trump Jr.
+
+Named in a viewer comment as a speaker at upcoming TPUSA events.
+
+*Related: C-12731*
+
+---
+
+**N-46** Megyn Kelly
+
+Interviewer in the Christina Babin clip.
+
+*Related: C-12698*
+
+---
+
+**N-50** Sigmund Freud
+
+Sigmund Freud; named in the host's remark about Vienna.
+
+*Related: C-12746*
+
+---
+
+**N-69** Kash Patel
+
+FBI director; the host cites his statement on trafficking evidence and alleged role in the fake-live show.
+
+*Related: C-12679, C-12689, C-12690*
+
+---
+
+**N-97** Ben Shapiro
+
+Ben Shapiro; subject of the AmFest, Levin and Boreing remarks.
+
+*Related: C-12724, C-12726, C-12734*
+
+---
+
+**N-166** Matt Walsh
+
+Named in a viewer comment as a speaker at upcoming TPUSA events.
+
+*Related: C-12731*
+
+---
+
+**N-190** Stacy Sheridan
+
+Stacy Sheridan; the host refers to her as Stacy the chief fundraiser (match inferred).
+
+*Related: C-12702*
+
+---
+
+**N-215** Jesse Watters
+
+Jesse Watters; interviewer in the clip of Erika Kirk.
+
+*Related: C-12703*
+
+---
+
+**N-248** Mark Levin
+
+Mark Levin; named by the host among people Charlie disliked.
+
+*Related: C-12726*
+
+---
+
+**N-265** Terrell Farnsworth
+
+Terrell Farnsworth; AV company owner the host says showed her the footage and made excuses about sending a file.
+
+*Related: C-12709, C-12710, C-12711*
+
+---
+
+**N-284** Karoline Leavitt
+
+Named in a viewer comment as a speaker at upcoming TPUSA events.
+
+*Related: C-12731*
+
+---
+
+**N-334** Baron Coleman
+
+Baron Coleman; credited by the host among YouTubers working on the case.
+
+*Related: C-12740*
+
+---
+
+**N-371** Jeremy Boreing
+
+Jeremy Boreing; the host discusses his interviews and his relationship with Shapiro.
+
+*Related: C-12734, C-12735*
+
+---
+
+**N-383** Emmanuel Macron
+
+Emmanuel Macron; the host says he is suing her.
+
+*Related: C-12747*
+
+---
+
+**N-466** Nelda Buckman
+
+Nelda Buckman; donor the host discusses.
+
+*Related: C-12741, C-12742, C-12743*
+
+---
+
+**N-495** Lori Frantzve
+
+Lori Frantzve; Erika's mother, linked to Superfeed and the Farnsworth family.
+
+*Related: C-12710, C-12723*
+
+---
+
+**N-526** Rothschild Family
+
+Rothschild family; named in the Corcoran presidency claim.
+
+*Related: C-12677*
+
+---
+
+**N-598** Bret Weinstein
+
+Bret Weinstein; named in a viewer comment on his interview with Tucker Carlson.
+
+*Related: C-12736*
+
+---
+
+**N-667** Ivanka Trump
+
+Ivanka Trump; named in the Miami mansion claim.
+
+*Related: C-12678*
+
+---
+
+**N-689** Jon Bray
+
+John Bray; investigator on the microphone theory and the Tennessee explosion.
+
+*Related: C-12718, C-12719, C-12740, C-12741*
+
+---
+
+**N-10270** Macron Defamation Lawsuit Delaware Venue Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12747*
+
+---
+
+**N-10290** French Foreign Legion US Training August 2025
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12748*
+
+---
+
+**N-10316** France / Macron Couple Involvement in Kirk Assassination
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12748*
+
+---
+
+**N-10324** Epstein Files Release Status
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12679, C-12681, C-12689*
+
+---
+
+**N-10346** Terrell Farnsworth Camera Removal Justification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12709*
+
+---
+
+**N-10383** Farnsworth Family Political-Military Network
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12710*
+
+---
+
+**N-10385** Daily Wire Show Targeting Candace Owens / Tucker Carlson
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12734, C-12735*
+
+---
+
+**N-10421** Buckman–TPUSA Donor Relationship Investigation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12741, C-12742*
+
+---
+
+**N-10519** Erika Kirk Next Model Management Involvement
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12672, C-12745*
+
+---
+
+**N-10522** January 29 West Wing Meeting Subject
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12689, C-12690, C-12691*
+
+---
+
+**N-10523** Linda Rothschild Corcoran Group Presidency Verification
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12677*
+
+---
+
+**N-10705** Charlie's Road Microphone Glass Origin Investigation Target
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12719*
+
+---
+
+**N-10768** Shaped Charge / Exploding Microphone Hypothesis
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12740*
+
+---
+
+**N-10812** Terrell Farnsworth Evidence-Handling Question
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12709, C-12711*
+
+---
+
+**N-10897** Project Constitution
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12728*
+
+---
+
+**N-10916** Thomas Massie Kentucky Primary Outside Spending
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12682*
+
+---
+
+**N-10922** Superfeed
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12723*
+
+---
+
+**N-10986** Accurate Energetic Systems Explosion (Hickman County, Tennessee)
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12740, C-12743*
+
+---
+
+**N-10987** Charlie Kirk Inside-Shirt Rode Mic Placement
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12718, C-12719*
+
+---
+
+**N-11165** Romanian Angels Project
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12693, C-12694, C-12699, C-12700*
+
+---
+
+**N-11192** Sabbatian-Frankist Cult Allegation
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12722*
+
+---
+
+**N-11211** Farnsworth Told Host He Discussed the Footage With Erika
+
+Existing topic reused for new claims in this episode.
+
+*Related: C-12711*
+
+---
+
+**N-11342** Fort Campbell Drone Theft Report
+
+Node Type: Topic
+A commenter's report that four drones were stolen from Fort Campbell and the host's guess that they went to Israel.
+
+*Related: C-12732, C-12733*
+
+---
+
+**N-11343** Alexander Brothers Epstein File Redaction Question
+
+Node Type: Topic
+Whether the Alexander brothers' names were redacted from the Epstein files and why, set against their federal sex trafficking convictions and ties to Kushner.
+
+*Related: C-12678, C-12679, C-12680, C-12681, C-12683, C-12684, C-12685, C-12688*
 
 ---
 
@@ -852,12 +1412,1263 @@ Investigative Direction: Cross-reference with documented post-1970s directives f
 
 ---
 
+**C-12671** Host Says Charlie Said He Would Die to Awaken Humanity
+
+Claim Timestamp: 00:01:54
+
+Claim: The host says Charlie Kirk said he was going to die to help awaken humanity.
+
+Transcript Snippet: He said that he was going to die to help awaken humanity. Let's see. Welcome back to Candace.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Tags: relevance:context
+Investigative Direction: Locate the recorded or written statement in which Charlie Kirk said he would die to awaken humanity and its date.
+
+---
+
+**C-12672** Host Says Source Says Erika Was Next Model Management Point Person for Housing Models
+
+Claim Timestamp: 00:02:15
+
+Claim: The host says she was told that Erika was the point person for Next Model Management when it came to housing young models, dealing with apartments in a white building the sources placed near 68th Street between Second and Third Avenue.
+
+Transcript Snippet: Erika Frantzve was, as we were told, the point person to the firm when it came to housing young models.
+
+Anchored Artifacts: 
+Mentions: N-2, N-576
+Related Nodes: N-10532, N-10519
+Supports: C-10268, C-10270
+Tags: relevance:core
+Investigative Direction: Identify the sources and obtain their statements; match the white building to property-management records for Next Model Management apartments.
+
+---
+
+**C-12673** Host Says Viewers Sent a Building Owned by Mark Epstein Matching the White Building
+
+Claim Timestamp: 00:03:07
+
+Claim: The host says viewers sent her a building that could match the white building description and that it was owned by Mark Epstein, Jeffrey Epstein's brother, who inherited all of his wealth.
+
+Transcript Snippet: A building that was owned by Mark Epstein, Jeffrey Epstein's brother who inherited all of his wealth.
+
+Anchored Artifacts: 
+Mentions: N-589, N-9
+Related Nodes: N-10531, N-10532
+Tags: relevance:core
+Investigative Direction: Pull New York City property records (ACRIS) for the building viewers identified and its ownership chain; confirm the street address and whether it is 301 East 66th Street.
+
+---
+
+**C-12674** NY Post Article Says Trafficked Girls Cycled Between Wealthy Guests and Foreign Dignitaries
+
+Claim Timestamp: 00:03:07
+
+Claim: The host reads from the New York Post article that, per civil complaints and sworn testimony, more than a dozen underage girls Epstein trafficked also cycled between wealthy guests, notable foreign dignitaries and Epstein staffers.
+
+Transcript Snippet: the underage girls that he trafficked more than a dozen also cycled between wealthy guests, notable foreign dignitaries, and Epstein staffers.
+
+Anchored Artifacts: A-1835.1
+Mentions: N-9
+Related Nodes: N-10531
+Tags: relevance:context
+Investigative Direction: Obtain the cited civil complaints and sworn testimony and check which guests and dignitaries are actually named.
+
+---
+
+**C-12675** NY Post Article Quotes Victim on a Stocked Apartment Before Taken to the Townhouse
+
+Claim Timestamp: 00:04:09
+
+Claim: The host reads from the article that one victim said in a 2022 account that the apartment was small, stocked with Danone yogurt, fruit and cookies, before she was taken about nine blocks to Epstein's townhouse at 9 East 71st Street for a massage.
+
+Transcript Snippet: It was relatively small and there was Danone yogurt in the fridge and a basket of fruit and cookies on the counter.
+
+Anchored Artifacts: A-1835.1
+Mentions: N-9
+Related Nodes: N-10531
+Tags: relevance:context
+Investigative Direction: Locate the 2022 account quoted in the article and confirm the building and the distances described.
+
+---
+
+**C-12676** NY Post Article Says Civil Filings Allege Condos Housed Women Brought From Overseas
+
+Claim Timestamp: 00:04:48
+
+Claim: The host reads from the article that civil filings allege the condos were used to house young women brought from overseas and provided with living quarters, transportation and other benefits to secure compliance.
+
+Transcript Snippet: And civil filings allege the condos were used to house young women brought from overseas and provided with living quarters, uh transportation, and other benefits to secure compliance.
+
+Anchored Artifacts: A-1835.1
+Mentions: N-9
+Related Nodes: N-10531
+Tags: relevance:context
+Investigative Direction: Identify the civil filings the article cites and read the allegations about the condos.
+
+---
+
+**C-12677** Host Says Epstein Files Show the Corcoran President Was a Rothschild
+
+Claim Timestamp: 00:04:48
+
+Claim: The host says that according to Jeffrey Epstein's files the Corcoran president was a Rothschild.
+
+Transcript Snippet: remember the Corcoran president, according to Jeffrey Epstein's files, was a Rothschild.
+
+Anchored Artifacts: A-1835.1
+Mentions: N-9, N-526
+Related Nodes: N-10523
+Supports: C-2352
+Tags: relevance:context
+Investigative Direction: Check the Epstein document cited and compare with Corcoran Group's published leadership records.
+
+---
+
+**C-12678** Host Says Alexander Brothers Are Kushner Friends Who Sold Ivanka and Jared a Miami Mansion
+
+Claim Timestamp: 00:06:40
+
+Claim: The host says Tal, Oren and Alon Alexander are Jared Kushner's Israeli business friends who sold Ivanka and Jared their Miami mansion.
+
+Transcript Snippet: Jared Kushner's Israeli business friends who sold Ivanka and Jared their Miami mansion and they were just found guilty of sex trafficking.
+
+Anchored Artifacts: 
+Mentions: N-182, N-667, N-592, N-593, N-594
+Related Nodes: N-11343
+Tags: relevance:context
+Investigative Direction: Check Miami-Dade property records for the Kushner purchase and any Alexander brothers role as broker or seller.
+
+---
+
+**C-12679** Host Says Patel Said No Trafficking Evidence in the Files Yet the Alexanders Were in Them
+
+Claim Timestamp: 00:06:40
+
+Claim: The host says Kash Patel said there was no evidence of trafficking in the Epstein files, yet the Alexander brothers were in the files.
+
+Transcript Snippet: Remember, Kash Patel said there was no evidence of trafficking in the files, none. Yet, these Israeli-American brothers, Tal, Oren, and Alon Alexander, were indeed in the files.
+
+Anchored Artifacts: 
+Mentions: N-69, N-592, N-593, N-594
+Related Nodes: N-10324, N-11343
+Tags: relevance:context
+Investigative Direction: Find Patel's statement on trafficking evidence and check the released files for any Alexander entries.
+
+---
+
+**C-12680** Host Says Alexander Brothers Visited the White House and Attended the Hanukkah Party
+
+Claim Timestamp: 00:06:40
+
+Claim: The host says the Alexander brothers visited the White House multiple times and were invited to the annual Hanukkah party.
+
+Transcript Snippet: They certainly visited the White House multiple times. They even were invited to the annual uh Hanukkah party.
+
+Anchored Artifacts: 
+Mentions: N-592, N-593, N-594
+Related Nodes: N-11343
+Tags: relevance:context
+Investigative Direction: Request White House visitor logs and Hanukkah reception guest lists covering the Alexander brothers.
+
+---
+
+**C-12681** Host Says the Alexanders' Last Names Were Redacted From the Epstein Files
+
+Claim Timestamp: 00:06:40
+
+Claim: The host says the Alexander brothers' last names were redacted from the Epstein files, and notes the public was told redactions were limited to protecting against child pornography.
+
+Transcript Snippet: I'm wondering if it's because of that that they had their last names redacted from the Epstein files. We were told that the redactions were limited to protecting us from child pornography.
+
+Anchored Artifacts: 
+Mentions: N-592, N-593, N-594
+Related Nodes: N-10324, N-11343
+Tags: relevance:context
+Investigative Direction: Compare the redacted and unredacted Epstein file releases for Alexander entries and the stated redaction rationale.
+
+---
+
+**C-12682** Host Says Trump Wants Massie Primaried in Kentucky Because Israel Wants Him Out
+
+Claim Timestamp: 00:07:37
+
+Claim: The host says Congressman Thomas Massie played a leading role in exposing the Epstein redactions and that Trump now wants him primaried in Kentucky because, she says, Israel wants him out.
+
+Transcript Snippet: the redactions didn't matter in the end thanks to the crusade of Congressman Thomas Massie, among others, who Trump now wants primary'd down in Kentucky
+
+Anchored Artifacts: 
+Mentions: N-587, N-5
+Related Nodes: N-10916, N-10538
+Tags: relevance:context
+Investigative Direction: Document Trump's public statements on a Massie primary challenger and the outside spending recorded against him.
+
+---
+
+**C-12683** Host Says the Alexander Brothers Were Revealed Because of Massie
+
+Claim Timestamp: 00:07:37
+
+Claim: The host says the Alexander brothers were revealed because of Massie, and had just been found guilty in a major sex trafficking case.
+
+Transcript Snippet: Uh the brothers were revealed because of him and they were, like I told you, just found guilty in a major sex trafficking case.
+
+Anchored Artifacts: 
+Mentions: N-587, N-592, N-593, N-594
+Related Nodes: N-11343
+Tags: relevance:context
+Investigative Direction: Trace how the Alexander names entered the public record after the Epstein file release and Massie's role in it.
+
+---
+
+**C-12684** Clip Says Alexander Brothers Were Arrested December 2024 and 11 Women Testified
+
+Claim Timestamp: 00:09:11
+
+Claim: The news clip says all three Alexander brothers were arrested in December 2024 and that the jury heard from 11 women who accused them of rape or sexual assault.
+
+Transcript Snippet: All three brothers were arrested in December of 2024. During the trial, the jury heard from 11 women who accused the brothers of rape or sexual assault
+
+Anchored Artifacts: A-1836.1
+Mentions: N-592, N-593, N-594
+Related Nodes: N-11343
+Tags: relevance:context
+Investigative Direction: Pull the Southern District of New York docket and trial coverage for arrest dates and witness count.
+
+---
+
+**C-12685** Clip Says Alon and Oren Alexander Face Rape Charges in Florida and Pleaded Not Guilty
+
+Claim Timestamp: 00:10:01
+
+Claim: The news clip says Alon and Oren Alexander still face state rape charges in Florida and have pleaded not guilty.
+
+Transcript Snippet: including in Florida, where Alon and Oren are charged with rape in state court. They have pleaded not guilty.
+
+Anchored Artifacts: A-1836.1
+Mentions: N-592, N-594
+Related Nodes: N-11343
+Tags: relevance:context
+Investigative Direction: Check the Florida state court docket for the pending charges and pleas.
+
+---
+
+**C-12686** Host Says Trump Admitted Jared Kushner Told Him They Might Preemptively Strike
+
+Claim Timestamp: 00:10:01
+
+Claim: The host says Trump has already admitted that Jared Kushner told him that they might preemptively strike.
+
+Transcript Snippet: Trump has already admitted that Jared told me to Bob Barr. He told me that they might preemptively strike.
+
+Anchored Artifacts: 
+Mentions: N-5, N-182
+Tags: relevance:context
+Investigative Direction: Find the Trump remark the host paraphrases and identify who he said Kushner spoke to; the transcript renders a name as 'Bob Barr'.
+
+---
+
+**C-12687** Host Says Kushner Told Trump to Lock Everything Down During COVID
+
+Claim Timestamp: 00:11:00
+
+Claim: The host says Jared Kushner was the one who told Trump to lock everything down during COVID.
+
+Transcript Snippet: He was the one that also told him to lock everything down during COVID.
+
+Anchored Artifacts: 
+Mentions: N-5, N-182
+Tags: relevance:tangential
+Investigative Direction: Check contemporaneous reporting on White House COVID lockdown decisions and Kushner's role.
+
+---
+
+**C-12688** Host Alleges Redactions Protected Alexander Brothers Because They Donate to the IDF
+
+Claim Timestamp: 00:11:00
+
+Claim: The host alleges the administration used redactions to protect rapists and sex traffickers, which she says is because they donate to the IDF.
+
+Transcript Snippet: protect rapists, Israeli rapists, and sex traffickers because they donate to the IDF.
+
+Anchored Artifacts: 
+Mentions: N-592, N-593, N-594
+Related Nodes: N-11343
+Tags: relevance:context
+Investigative Direction: Request any donation records tying the Alexander brothers to IDF-linked charities and the redaction decision records.
+
+---
+
+**C-12689** Host Says Kolvet and Other TPUSA Affiliates Met West Wing Brass the Day Before the Epstein Files Dropped
+
+Claim Timestamp: 00:11:00
+
+Claim: The host says Andrew Kolvet and other Turning Point USA affiliates had a meeting with top brass in the West Wing the day before the Epstein files dropped.
+
+Transcript Snippet: that mysterious meeting that Andrew Kolvet and other Turning Point USA affiliates had with top brass in the West Wing the literal day before the Epstein files dropped.
+
+Anchored Artifacts: 
+Mentions: N-14, N-69
+Related Nodes: N-10522, N-10324
+Supports: C-2422, C-2420
+Tags: relevance:core
+Investigative Direction: Obtain White House visitor logs for the day before the Epstein file release showing Kolvet and other TPUSA attendees.
+
+---
+
+**C-12690** Host Says Patel Wanted to Help Kolvet Camouflage the Meeting by Faking a Live Kirk Episode
+
+Claim Timestamp: 00:12:12
+
+Claim: The host says Kash Patel wanted to help Andrew Kolvet camouflage the West Wing meeting by way of faking a Charlie Kirk live episode.
+
+Transcript Snippet: Little hush-hush meeting that Mr. 33 Patel wanted to help Andrew Kolvet camouflage by way of faking a Charlie Kirk live episode.
+
+Anchored Artifacts: 
+Mentions: N-69, N-14, N-1
+Related Nodes: N-10522
+Supports: C-2420
+Tags: relevance:core
+Investigative Direction: Obtain the episode's air time and metadata and communications between Patel's office and TPUSA about the show.
+
+---
+
+**C-12691** Host Says Kolvet Said He Was Calling In While Actually Together in DC
+
+Claim Timestamp: 00:12:12
+
+Claim: The host says that on the episode Kolvet said he was calling in and never does this, while, she says, the team was together in DC.
+
+Transcript Snippet: I'm calling in. I never do this. Haha. Meanwhile, you're together in DC.
+
+Anchored Artifacts: 
+Mentions: N-14
+Related Nodes: N-10522
+Supports: C-2420
+Tags: relevance:core
+Investigative Direction: Compare the live show audio and call-in metadata with the participants' physical locations that day.
+
+---
+
+**C-12692** Host Says Turning Point Is Pushing Into High Schools Nationally and Trying to Establish Something in Ireland
+
+Claim Timestamp: 00:12:50
+
+Claim: The host says Erika's Turning Point is being pushed into high schools across America and that the group is also trying to establish something in Ireland.
+
+Transcript Snippet: And now it seems they're taking it a step further trying to get Erika's Turning Point into high schools all across America. That's been the push. They're even trying to establish something in Ireland.
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10533
+Tags: relevance:context
+Investigative Direction: Look for TPUSA announcements, filings or press about an Irish chapter and the national Club America rollout.
+
+---
+
+**C-12693** Clip Has Erika Saying the Black Sea Rotational Force Base Moved to Norway in 2018
+
+Claim Timestamp: 00:16:04
+
+Claim: In the played clip Erika Kirk says the Black Sea Rotational Force base got moved to Norway in 2018 and describes the woman who is the boots on the ground in Romania for United Hands Romania Association.
+
+Transcript Snippet: The Black Sea rotational force base got moved to Norway in 2018. Mhm. And for the past, I want to say eight to nine months, maybe even 10, um the woman that is the boots on the ground in Romania
+
+Anchored Artifacts: A-3220.1
+Mentions: N-2
+Related Nodes: N-11165
+Supports: C-10260
+Tags: relevance:core
+Investigative Direction: Identify the source and date of the interview and check the Black Sea Rotational Force relocation date.
+
+---
+
+**C-12694** Clip Has Erika Saying the People at the Base Do Not Trust the United Hands Head
+
+Claim Timestamp: 00:16:04
+
+Claim: In the played clip Erika Kirk says her contact at the base in Constanța is no longer there and that the people who are there do not trust the United Hands head because they have no connection to her; the clip speaks of people at the base, not of the children.
+
+Transcript Snippet: our contact who was at the base in Constanța is no longer there, and the people who are there don't trust her because they don't have a connection to her.
+
+Anchored Artifacts: A-3220.1
+Mentions: N-2, N-590
+Related Nodes: N-11165, N-10534
+Qualifies: C-2459
+Tags: relevance:core
+Investigative Direction: Obtain the full interview audio and transcript to settle who 'the people who are there' refers to and whether children are discussed.
+
+---
+
+**C-12695** Host Says Crossman Has Been Involved With the Orphanage for Over a Decade
+
+Claim Timestamp: 00:17:02
+
+Claim: The host says Renee Crossman has been involved with the Romanian orphanage and organization for over a decade.
+
+Transcript Snippet: She's been involved with this orphanage for over a decade. That signals to me that the kids know something about her.
+
+Anchored Artifacts: 
+Mentions: N-590
+Related Nodes: N-10534
+Tags: relevance:context
+Investigative Direction: Check United Hands Romania registration, annual reports and press for Crossman's start date and role.
+
+---
+
+**C-12696** Article Says Berg Was Born in California in 1919 and Founded the Children of God
+
+Claim Timestamp: 00:19:11
+
+Claim: The host reads from the Romanian article that the Children of God, now called The Family, was founded by evangelist David Berg, born in California in 1919, who around 1970 began aggressively proselytizing young hippies.
+
+Transcript Snippet: It was founded by evangelist David Berg, born in California in 1919.
+
+Anchored Artifacts: A-1839.1
+Mentions: N-591
+Related Nodes: N-10534
+Tags: relevance:context
+Investigative Direction: Compare against standard histories of Children of God and Berg's biography.
+
+---
+
+**C-12697** Article Says Berg Claimed Relationships With a Pantheon of Pagan Goddesses
+
+Claim Timestamp: 00:20:01
+
+Claim: The host reads from the Romanian article that Berg mixed sexual immorality with occultism and claimed relationships with the entire pantheon of pagan goddesses including Aphrodite and Diana.
+
+Transcript Snippet: Berg claimed that he maintained relationships with the entire pantheon of pagan goddesses, including Aphrodite, Diana, the goddesses of Atlantis
+
+Anchored Artifacts: A-1839.1
+Mentions: N-591
+Related Nodes: N-10534
+Tags: relevance:tangential
+Investigative Direction: Locate the original Romanian article and Berg's own writings on the claimed relationships.
+
+---
+
+**C-12698** Clip Says Berg Introduced Flirty Fishing in 1976
+
+Claim Timestamp: 00:21:19
+
+Claim: The Megyn Kelly clip narration says that in 1976 David Berg introduced flirty fishing, which encouraged female members to show God's love through sexual relationships with potential converts.
+
+Transcript Snippet: In 1976, David Berg introduced flirty fishing, which encouraged female members to show God's love through sexual relationships with potential converts.
+
+Anchored Artifacts: A-1840.1
+Mentions: N-591, N-596, N-46
+Related Nodes: N-10534
+Tags: relevance:context
+Investigative Direction: Locate the 2018 Megyn Kelly segment and check the flirty fishing date against historical sources.
+
+---
+
+**C-12699** Host Says Crossman Is a Self-Admitted Cult Member and Has Not Been Accused of Wrongdoing
+
+Claim Timestamp: 00:22:23
+
+Claim: The host says Renee Crossman, Erika's partner on the Romanian Angels project, is a self-admitted member of the Children of God cult and has not been accused of any wrongdoing.
+
+Transcript Snippet: Renee Crossman, Erika's partner on Romanian Angels, who the children, according to Erika, do not trust, is a self-admitted member of this cult. She has not been accused of any wrongdoing.
+
+Anchored Artifacts: 
+Mentions: N-590, N-2
+Related Nodes: N-10534, N-11165
+Tags: relevance:context
+Investigative Direction: Find Crossman's own statements about cult membership and confirm no public accusation of misconduct exists.
+
+---
+
+**C-12700** Host Says the Marines Crossman Partnered With Were Later Accused of Prostituting Children
+
+Claim Timestamp: 00:22:23
+
+Claim: The host says the US Marines Crossman partnered with were later accused of wrongdoing, namely prostituting children.
+
+Transcript Snippet: No, the US Marines that she partnered with were going to be accused of wrongdoing. They're going to be accused of prostituting uh children.
+
+Anchored Artifacts: 
+Mentions: N-590
+Related Nodes: N-11165
+Supports: C-10255
+Tags: relevance:core
+Investigative Direction: Identify the accusation, the unit and the base involved, and any charging or investigative record.
+
+---
+
+**C-12701** Host Says Crossman Defends the Cult
+
+Claim Timestamp: 00:23:04
+
+Claim: The host says Renee Crossman defends the cult, which the article says was subsequently instructed to disperse into the world of nonprofits.
+
+Transcript Snippet: she says you she defends the cult, cult which was subsequently instructed to disperse and hide themselves in the world of nonprofit, according to the investigative piece.
+
+Anchored Artifacts: A-1839.1
+Mentions: N-590
+Related Nodes: N-10534
+Tags: relevance:context
+Investigative Direction: Find public statements by Crossman defending the group and the article passage on dispersal into nonprofits.
+
+---
+
+**C-12702** Host Says Erika Chose Stacy, the Chief Fundraiser, at Her Side Over Biological Family
+
+Claim Timestamp: 00:23:49
+
+Claim: The host says Erika chose to have Stacy, the chief fundraiser at Turning Point, at her side rather than her biological family members after her husband was assassinated.
+
+Transcript Snippet: Her choosing to have Stacy, the chief fundraiser over there on her at her side, rather than her biological family members after her husband was assassinated
+
+Anchored Artifacts: 
+Mentions: N-190, N-2
+Tags: relevance:context
+Investigative Direction: Review event photos and coverage of Erika's public appearances after September 10 to identify who stood with her.
+
+---
+
+**C-12703** Clip Has Erika Telling Watters Charlie Would Say No to Returning to Earth
+
+Claim Timestamp: 00:24:35
+
+Claim: In the clip from her Jesse Watters interview, Erika Kirk says she believes that if the Lord gave Charlie the option to return and exchange his death for what it will catalyze, he would say no.
+
+Transcript Snippet: the Lord gave him an option to return back to Earth, and if the Lord said, "This is what your death is going to be the catalyst for, do you want to go back and exchange it?" He'd say no.
+
+Anchored Artifacts: A-2523.1
+Mentions: N-2, N-215, N-1
+Tags: relevance:core
+Investigative Direction: Obtain the full Fox News interview and confirm the quoted passage and date.
+
+---
+
+**C-12704** Host Says Zionists Are Inside Turning Point, Did Not Kill Charlie, and Will Install People He Disliked
+
+Claim Timestamp: 00:29:14
+
+Claim: The host says Zionists are inside Turning Point, that they did not kill Charlie Kirk, but that they will now force people Charlie did not like to the helm of the organization.
+
+Transcript Snippet: Zionists are in there. They didn't kill him. But they are going to now force people that Charlie didn't like at the helm of this company, right?
+
+Anchored Artifacts: 
+Mentions: N-1
+Tags: relevance:core
+Investigative Direction: Ask the host to name the individuals she means and compare with TPUSA leadership appointments since September 10.
+
+---
+
+**C-12705** Host Says She Believes Charlie's Death Was Planned Down to the Last Detail and He Was Sacrificed
+
+Claim Timestamp: 00:29:57
+
+Claim: The host says she believes Charlie Kirk's death and its setting were planned down to the last detail and that he was sacrificed in what she calls an occult ceremony.
+
+Transcript Snippet: I believe Charlie's death, the setting of it, everything, was planned down to the T. I believe he was sacrificed. Okay?
+
+Anchored Artifacts: 
+Mentions: N-1
+Tags: relevance:core
+Investigative Direction: Ask the host for the evidence underlying the occult-ceremony claim; no document is cited in the episode.
+
+---
+
+**C-12706** Host Says TPUSA Told a Story About Having So Much Gauze
+
+Claim Timestamp: 00:31:14
+
+Claim: The host says the Turning Point side told a story about how they had so much gauze in the vehicle.
+
+Transcript Snippet: they had told us the story about how they had so much gauze, and so much and all this stuff.
+
+Anchored Artifacts: A-1841.2
+Related Nodes: N-10536
+Tags: relevance:core
+Investigative Direction: Find the TPUSA or witness account of the gauze and supplies used in the transport vehicle.
+
+---
+
+**C-12707** Host Says the Object in a Van Photo Is an Instaclot Package
+
+Claim Timestamp: 00:31:36
+
+Claim: The host says an object in a van photo that looks like a UPS ticket is actually an Instaclot instant-gauze package.
+
+Transcript Snippet: that kind of looks like a UPS ticket. Um like a UPS, yeah, I guess you could say a UPS package ticket. What that is is actually Instaclot.
+
+Anchored Artifacts: A-1841.3
+Related Nodes: N-10536
+Tags: relevance:core
+Investigative Direction: Have the photo compared against Instaclot packaging and obtain the original image with metadata.
+
+---
+
+**C-12708** Host Says Only One Instaclot Package Is on the Van Floor
+
+Claim Timestamp: 00:32:03
+
+Claim: The host says there is only one Instaclot package visible on the floor, which she says would be unusual unless he opened one and put the rest of the packaging in his bag.
+
+Transcript Snippet: So, unless he opened one, and then put the rest of the packaging in his bag, which would be unusual, there's only one on the floor there that we could see.
+
+Anchored Artifacts: A-1841.3
+Related Nodes: N-10536
+Tags: relevance:core
+Investigative Direction: Obtain all vehicle interior photos and the inventory of medical supplies used on September 10.
+
+---
+
+**C-12709** Host Says Farnsworth Lied on the Phone About Not Knowing How to Send a File
+
+Claim Timestamp: 00:33:10
+
+Claim: The host says that on a phone call Terrell Farnsworth, who runs an audio-visual company, made excuse after excuse and claimed he did not know how to send a file, which she took to be a lie.
+
+Transcript Snippet: just excuse after excuse, and I didn't understand why there would be any reason he was lying uh saying he didn't know how to send a file, but you run a audio-visual company, Terrell Farnsworth.
+
+Anchored Artifacts: 
+Mentions: N-265
+Related Nodes: N-10346, N-10812
+Supports: C-6845
+Tags: relevance:core
+Investigative Direction: Obtain the call record or the host's notes of the call and Farnsworth's own account of file handling.
+
+---
+
+**C-12710** Host Says Farnsworth's Family Has Had a Relationship With Lori Frantzve Dating to 2013
+
+Claim Timestamp: 00:33:10
+
+Claim: The host says she has learned about Farnsworth's father, uncles and cousins and their relationship with Lori Frantzve dating back to 2013.
+
+Transcript Snippet: Now, I've learned about his dad, and uh his his uncles, and his cousins, and their relationship with Lori Frantzve, dating back to 2013, and it's all not looking good.
+
+Anchored Artifacts: 
+Mentions: N-265, N-495
+Related Nodes: N-10383
+Tags: relevance:core
+Investigative Direction: Identify the relationship and any business records linking the Farnsworth family and Lori Frantzve from 2013.
+
+---
+
+**C-12711** Host Says TPUSA Said It Did Not Have the Footage but Farnsworth Showed It to Her at His Office
+
+Claim Timestamp: 00:34:11
+
+Claim: The host says that at some point Turning Point said it did not have the footage, but that it does have it, and that Terrell Farnsworth showed her the footage at his office.
+
+Transcript Snippet: And by the way, I think at some point they said they didn't have the footage. They have the footage, okay? This is Terrell was at his office when he showed me this.
+
+Anchored Artifacts: 
+Mentions: N-265
+Related Nodes: N-10812, N-11211
+Tags: relevance:core
+Investigative Direction: Find the TPUSA statement that it lacked the footage and compare with Farnsworth's account of what he held and shared.
+
+---
+
+**C-12712** Host Says Charlie's White T-Shirt Stayed White Until He Hit the Ground
+
+Claim Timestamp: 00:35:07
+
+Claim: The host says the footage shows no gore and that Charlie Kirk's white T-shirt stayed white until the moment he hit the ground.
+
+Transcript Snippet: didn't even cause any sort of a mess. His perfectly white T-shirt was white uh until the moment that he hit the ground.
+
+Anchored Artifacts: A-1842.4
+Mentions: N-1
+Related Nodes: N-10535
+Tags: relevance:core
+Investigative Direction: Obtain the unedited footage and have a forensic video analyst examine the shirt frame by frame.
+
+---
+
+**C-12713** Host Says the Bullet Did Not Go Through
+
+Claim Timestamp: 00:35:07
+
+Claim: The host says that, as the footage shows, the bullet did not go through and did not cause any sort of mess.
+
+Transcript Snippet: the bullet didn't go through. Not only did not go through, didn't even cause any sort of a mess.
+
+Anchored Artifacts: A-1842.4
+Mentions: N-1
+Related Nodes: N-10535
+Tags: relevance:core
+Investigative Direction: Compare with the autopsy report and any official statement on entry and exit wounds.
+
+---
+
+**C-12714** Host Says Frank Told of Seeing Charlie's Necklace on His Backpack as Feds Searched the Car
+
+Claim Timestamp: 00:35:07
+
+Claim: The host says Frank tells the story of going out to get his backpack from the car while the feds searched it at the hospital and seeing Charlie's necklace on his backpack.
+
+Transcript Snippet: Frank tells the story about how he came out to get his backpack from the car as the feds were searching it at the hospital, and he saw Charlie's necklace on Char on his backpack, which was in the car.
+
+Anchored Artifacts: 
+Mentions: N-7, N-1
+Related Nodes: N-10537
+Supports: C-1962
+Tags: relevance:core
+Investigative Direction: Locate Frank Turek's original telling and compare it with the earlier necklace account.
+
+---
+
+**C-12715** Host Says Feds Told Frank They Were Looking for the Necklace
+
+Claim Timestamp: 00:35:07
+
+Claim: The host says the feds told Frank that they were looking for that necklace, and asks how they knew he had one.
+
+Transcript Snippet: And the feds said, "We were looking for that necklace." Really?
+
+Anchored Artifacts: 
+Mentions: N-7, N-1
+Related Nodes: N-10537
+Tags: relevance:core
+Investigative Direction: Request FBI evidence logs for the vehicle search and any item list that includes the necklace.
+
+---
+
+**C-12716** Host Says Erika Told Several Stories About the Necklace and Her Gratitude at Getting It Back
+
+Claim Timestamp: 00:36:14
+
+Claim: The host says Erika has told several stories about the necklace, how precious it was to Charlie and how grateful she was to get it back.
+
+Transcript Snippet: Erika, of course, has told several stories about the necklace, um and how precious the necklace was to him, and um how grateful she was that she got the necklace back.
+
+Anchored Artifacts: 
+Mentions: N-2, N-1
+Related Nodes: N-10537
+Supports: C-5551
+Tags: relevance:core
+Investigative Direction: Collect each public Erika account of the necklace and its return and compare them.
+
+---
+
+**C-12717** Host Says the Visible Blood Came From an Artery Hit and Went Forward
+
+Claim Timestamp: 00:36:56
+
+Claim: The host says that everything visible was blood from a hit artery that went forward, and that zero blood heading backward feels wrong for what she is told was a .30-06.
+
+Transcript Snippet: everything you saw was blood that came because an artery got hit, and that went forward.
+
+Anchored Artifacts: A-1842.2
+Mentions: N-1
+Related Nodes: N-10535
+Supports: C-2464
+Tags: relevance:core
+Investigative Direction: Ask a forensic pathologist to review the footage and the autopsy for the direction of blood travel.
+
+---
+
+**C-12718** Host Says John Bray Explained the Magnet Clasp Would Have Stayed On While What Was Behind It Fell Off
+
+Claim Timestamp: 00:37:38
+
+Claim: The host says John Bray explained to her that the magnet clasp would have stayed on while what was behind it would have fallen off.
+
+Transcript Snippet: John Bray explained to me that uh the magnet clasp would have stayed on, but what was behind it would have fallen off because he has a theory
+
+Anchored Artifacts: A-1842.4
+Mentions: N-689
+Related Nodes: N-10987, N-10537
+Tags: relevance:core
+Investigative Direction: Obtain Bray's written analysis of the clasp and what was attached behind it.
+
+---
+
+**C-12719** Host Says the Rode Microphone Is What Shattered in the Back Seat
+
+Claim Timestamp: 00:37:38
+
+Claim: The host says that in Bray's theory, which she calls well adopted, the Rode microphone is what was shattered in the back seat of the car.
+
+Transcript Snippet: the Rode microphone is what was shattered in the back seat of the car.
+
+Anchored Artifacts: A-1841.1
+Mentions: N-689
+Related Nodes: N-10705, N-10987
+Tags: relevance:core
+Investigative Direction: Compare the van interior photos with the Rode microphone model and identify the glass fragments.
+
+---
+
+**C-12720** Host Says Blood Drops Are Visible Only on Charlie's Hand
+
+Claim Timestamp: 00:38:21
+
+Claim: The host says that, because blood went forward, the only place any blood drops are visible in the footage is on his hand.
+
+Transcript Snippet: Only, as you can see, on his hand, because blood went forward, is only place that you see any blood drops here.
+
+Anchored Artifacts: A-1842.2
+Mentions: N-1
+Related Nodes: N-10535
+Tags: relevance:core
+Investigative Direction: Have analysts enhance the footage for any blood on the table, clothing or microphone.
+
+---
+
+**C-12721** Host Says a Book or Notebook Is Visible on the Table
+
+Claim Timestamp: 00:39:06
+
+Claim: The host says that on the table there is a book and it looks like Charlie may have had a notebook.
+
+Transcript Snippet: There's a book. It looks like maybe Charlie had a notebook.
+
+Anchored Artifacts: A-1842.3
+Mentions: N-1
+Related Nodes: N-10535
+Tags: relevance:context
+Investigative Direction: Examine the table contents in the footage against event photos of Charlie's table.
+
+---
+
+**C-12722** Host Says Occult Worship Appears Under Different Names Including Frankism and Sabbatianism
+
+Claim Timestamp: 00:40:22
+
+Claim: The host says occult worship comes up under different names, including Frankism, Sabbatianism and child of God, but is the same ideology redressed, and that children are inevitably harmed.
+
+Transcript Snippet: It's Frankism. It's a Sabbatianism. It's child of God. Uh but really, what is manifesting is the same ideology sort of redressing itself as something else.
+
+Anchored Artifacts: 
+Related Nodes: N-11192
+Tags: relevance:tangential
+Investigative Direction: Ask for scholarly sources equating these movements and for any case link to the Kirk investigation.
+
+---
+
+**C-12723** Host Says Turning Point Action Is Run by Bowyer and Kicks Money to Erika's Mother via Superfeed
+
+Claim Timestamp: 00:42:41
+
+Claim: The host says Turning Point Action is run by Tyler Bowyer and kicks money back to Erika's mother via Superfeed.
+
+Transcript Snippet: Turning Point Action which is run by Tyler Bowyer and which kicks money back to Erika's mother via Superfeed tweeted out that Thomas Massie was a rhino who needed to be replaced.
+
+Anchored Artifacts: 
+Mentions: N-11, N-495, N-587
+Related Nodes: N-10922
+Tags: relevance:core
+Investigative Direction: Pull Turning Point Action FEC disbursements to Superfeed and Superfeed's ownership records.
+
+---
+
+**C-12724** Host Says Turning Point Had Ben Shapiro Open AmFest Behind Erika
+
+Claim Timestamp: 00:42:41
+
+Claim: The host says Turning Point USA had Ben Shapiro open AmFest behind Erika.
+
+Transcript Snippet: This is Turning Point USA that had Ben Shapiro open for AmFest behind Erika.
+
+Anchored Artifacts: 
+Mentions: N-97, N-2
+Tags: relevance:context
+Investigative Direction: Check the AmFest program and video for the speaking order.
+
+---
+
+**C-12725** Host Says Turning Point Calls Massie a Rhino Because He Will Not Fund Ukraine and Israel
+
+Claim Timestamp: 00:42:41
+
+Claim: The host says Turning Point shouts out Thomas Massie as a rhino because he will not vote for more funding to go to Ukraine and Israel.
+
+Transcript Snippet: And they're shouting out Thomas Massie as being a rhino because he won't vote for more funding to go to Ukraine and Israel.
+
+Anchored Artifacts: A-1844.1
+Mentions: N-587
+Related Nodes: N-10538
+Tags: relevance:context
+Investigative Direction: Compare Massie's votes on Ukraine and Israel funding with Turning Point Action's stated reasons.
+
+---
+
+**C-12726** Host Says Turning Point Quickly Brought Out People Charlie Disliked and Gave New York Times Interviews
+
+Claim Timestamp: 00:45:24
+
+Claim: The host says Turning Point felt under pressure and instantly brought out people Charlie did not like, such as Mark Levin and Ben Shapiro, and gave interviews to the New York Times.
+
+Transcript Snippet: They had instantly bring it all out and bring out the people that Charlie didn't like. Doing interviews with the New York Times, everyone who gave him grief while he was alive.
+
+Anchored Artifacts: 
+Mentions: N-248, N-97, N-1
+Tags: relevance:context
+Investigative Direction: List post-September 10 TPUSA events and media appearances featuring these figures and the New York Times interviews.
+
+---
+
+**C-12727** Host Says She Has No Interest in Running for President but Would Debate or Converse With Erika
+
+Claim Timestamp: 00:48:00
+
+Claim: The host says she has zero interest in running for president but would be interested in debating or conversing publicly with Erika Kirk.
+
+Transcript Snippet: I have zero interest in running for president. I am so done with politics, but I would be interested in debating or even just conversing publicly with Erika Kirk.
+
+Anchored Artifacts: A-3221.1
+Mentions: N-3, N-2
+Tags: relevance:context
+Investigative Direction: Track any public invitation or response between the host and Erika Kirk about a debate or conversation.
+
+---
+
+**C-12728** Project Constitution Comment Says Students Nationwide Are Protesting Turning Point
+
+Claim Timestamp: 00:48:44
+
+Claim: A comment from Project Constitution, read by the host, says students all over the country are revolting in protest of Turning Point and Erika Kirk and do not want them speaking at their schools or mandating high school chapters.
+
+Transcript Snippet: students all over the country are revolting in protest of Turning Point and Erika Kirk. They don't want them speaking at their schools, churches, or mandating high school chapters.
+
+Anchored Artifacts: A-3221.2
+Mentions: N-2
+Related Nodes: N-10897, N-10533
+Tags: relevance:context
+Investigative Direction: Collect news reports of student protests against Turning Point chapters or visits.
+
+---
+
+**C-12729** Host Says She Saw Students Protesting the Turning Point Push in Arkansas
+
+Claim Timestamp: 00:48:44
+
+Claim: The host says she did see students protesting the Turning Point chapter push in Arkansas, and that students do not need a proclamation from a Huckabee to decide whether to open a club.
+
+Transcript Snippet: I did see they were protesting that in Arkansas. Good. Okay, they don't need a proclamation from a Huckabee to decide if they want to open a student club.
+
+Anchored Artifacts: A-3221.2
+Related Nodes: N-10533
+Tags: relevance:context
+Investigative Direction: Find local Arkansas coverage or social posts of the protests and the proclamation text.
+
+---
+
+**C-12730** Donor Comment Says TPUSA Sent Fundraising Letters Every Couple of Weeks
+
+Claim Timestamp: 00:50:07
+
+Claim: A viewer comment read by the host says the donor received letters at least once every couple of weeks asking for more money to continue Charlie's vision.
+
+Transcript Snippet: I have been donating to Turning Point USA since before Charlie's death, ever since I received letters at least once every couple of weeks asking for more money to help continue Charlie's vision.
+
+Anchored Artifacts: A-3221.3
+Tags: relevance:context
+Investigative Direction: Collect examples of TPUSA donor mailings after September 10 and their solicitation frequency.
+
+---
+
+**C-12731** Comment Lists Speakers at Upcoming TPUSA Events
+
+Claim Timestamp: 00:51:02
+
+Claim: A comment read by the host says upcoming Turning Point USA events will feature Erika, JD, Donald Jr., Karoline Leavitt, Lauren Jones, Matt Walsh and others; the host says she has not seen the schedule.
+
+Transcript Snippet: The speakers are Erika, JD, Donald Jr., Karoline Leavitt, Lauren Jones, Matt Walsh, etc., etc.
+
+Anchored Artifacts: A-3221.4
+Mentions: N-2, N-4, N-33, N-284, N-166
+Tags: relevance:context
+Investigative Direction: Check the official TPUSA events calendar for the speaker lineup.
+
+---
+
+**C-12732** Comment Reports Four Drones Stolen From Fort Campbell
+
+Claim Timestamp: 00:52:08
+
+Claim: A comment read by the host reports that four drones were stolen from Fort Campbell, first reported 20 hours earlier.
+
+Transcript Snippet: four drones were stolen from Fort Campbell, first reported 20 hours ago.
+
+Anchored Artifacts: A-3221.5
+Related Nodes: N-11342
+Tags: relevance:context
+Investigative Direction: Search Army and local news for the Fort Campbell drone theft report and its date.
+
+---
+
+**C-12733** Host Guesses the Fort Campbell Drones Were Given to Someone, Probably Israel
+
+Claim Timestamp: 00:52:08
+
+Claim: The host says the four drones were not stolen from a military base but were given to someone from somebody on the base, and says it is probably Israel, labelling it her guess.
+
+Transcript Snippet: The four drones were not stolen from a military base. They were given um, to someone from somebody on the military base and it's probably Israel.
+
+Anchored Artifacts: A-3221.5
+Related Nodes: N-11342
+Tags: relevance:tangential
+Investigative Direction: Wait for any Army CID or base statement on the theft and recovery; no evidence is offered for the host's guess.
+
+---
+
+**C-12734** Host Says Shapiro and Boreing Do Not Speak Because of Boreing's Behavior
+
+Claim Timestamp: 00:53:07
+
+Claim: The host says she is on Ben Shapiro's side regarding Jeremy Boreing and that the two do not speak because of how erratic she says Boreing is.
+
+Transcript Snippet: I am on Ben's side when it comes to Jeremy Boreing. They don't speak because that's how insane Jeremy is.
+
+Anchored Artifacts: 
+Mentions: N-371, N-97
+Related Nodes: N-10385
+Tags: relevance:context
+Investigative Direction: Look for reporting or statements on a rift between Shapiro and Boreing.
+
+---
+
+**C-12735** Host Says Boreing Gave Five Interviews About Her and Called Her Reply a Meltdown
+
+Claim Timestamp: 00:53:07
+
+Claim: The host says Jeremy Boreing recently gave about five interviews about her and, when she replied on X, said she was having a meltdown responding to his interviews.
+
+Transcript Snippet: I mean just the other day he did like five interviews about me and then when I replied on X, he's like, "Typical Candace having a meltdown responding to my five interviews that I've given making things up."
+
+Anchored Artifacts: 
+Mentions: N-371, N-3
+Related Nodes: N-10385
+Tags: relevance:context
+Investigative Direction: Collect Boreing's recent interviews and his X reply for dates and wording.
+
+---
+
+**C-12736** Comment Says Bret Weinstein Told Tucker the Charlie Story Does Not Add Up
+
+Claim Timestamp: 00:54:30
+
+Claim: A comment read by the host says Tucker Carlson's latest interview with Bret Weinstein was notable because Weinstein made clear that the Charlie story does not add up.
+
+Transcript Snippet: His latest with Bret Weinstein was one for the books. Bret pushed and made his views clear that the Charlie story does not add up.
+
+Anchored Artifacts: A-3221.6
+Mentions: N-22, N-598
+Tags: relevance:context
+Investigative Direction: Watch the Carlson and Weinstein interview and quote Weinstein's remarks on the Kirk case.
+
+---
+
+**C-12737** Host Says Tucker Has Spoken Up That Some Things in the Kirk Case Make No Sense
+
+Claim Timestamp: 00:54:30
+
+Claim: The host says Tucker Carlson has spoken up and said that some of the things in the Charlie Kirk case make entirely no sense, though she does not know how closely he follows the investigation.
+
+Transcript Snippet: I know that he has spoken up and said that some of the things make entirely no sense.
+
+Anchored Artifacts: A-3221.6
+Mentions: N-22
+Tags: relevance:context
+Investigative Direction: Find Carlson's on-air or posted statements about problems in the Kirk case.
+
+---
+
+**C-12738** Host Says the Reasonable Position Is That Officials Lie About Everything, Implying a Deep State Assassination
+
+Claim Timestamp: 00:55:43
+
+Claim: The host says the reasonable position since early in the case is that officials are lying about everything, which she says implies a deep state assassination.
+
+Transcript Snippet: the reasonable position to have is that they are lying to us about everything, uh, which implies that this was a deep state assassination
+
+Anchored Artifacts: 
+Mentions: N-1
+Tags: relevance:core
+Investigative Direction: Ask the host to specify which official statements she holds to be false and which agencies she means.
+
+---
+
+**C-12739** Host Says the JFK Assassination Also Involved Israel
+
+Claim Timestamp: 00:55:43
+
+Claim: The host says the Charlie Kirk assassination is the likes of which has not been seen since the assassination of JFK, which she says also involved Israel.
+
+Transcript Snippet: the likes of which have not been seen since the assassination of JFK, which also involved Israel.
+
+Anchored Artifacts: 
+Tags: relevance:tangential
+Investigative Direction: No source is cited; compare with published JFK assassination records and historians' findings.
+
+---
+
+**C-12740** Host Says John Bray Is Looking Into the Microphone Theory and the Tennessee Explosion
+
+Claim Timestamp: 00:56:21
+
+Claim: The host says John Bray is looking into the microphone theory and why there was an explosion in Tennessee.
+
+Transcript Snippet: John Bray who's looking into the microphone theory and why there was that explosion that happened here in Tennessee.
+
+Anchored Artifacts: 
+Mentions: N-689, N-334
+Related Nodes: N-10986, N-10768
+Tags: relevance:core
+Investigative Direction: Obtain Bray's published work on the explosion and the microphone theory.
+
+---
+
+**C-12741** Host Says Nelda Buckman Gave a Ton of Money to Erika Kirk and Is Involved in Trafficking Charities
+
+Claim Timestamp: 00:56:21
+
+Claim: The host says Nelda Buckman gave a ton of money to Erika Kirk and is involved in sex trafficking charities, and suggests John Bray look into the Buckman family.
+
+Transcript Snippet: you should probably look into uh, Nelda Buckman's family. I'm only saying that because, you know, that she gave a ton of money into uh, to Erika Kirk. She's involved in sex trafficking charities
+
+Anchored Artifacts: 
+Mentions: N-466, N-689, N-2
+Related Nodes: N-10421
+Supports: C-2114, C-2115
+Tags: relevance:context
+Investigative Direction: Check the Buckman family's donations to TPUSA and to Erika Kirk and the charities Buckman chairs or funds.
+
+---
+
+**C-12742** Host Recounts Buckman Interview Tying Her Charity Work to Her First Husband's Infidelity
+
+Claim Timestamp: 00:56:21
+
+Claim: The host says she saw Nelda Buckman give an interview in which she said her interest in trafficking charities began because her first husband cheated with sex workers, which made her want to understand them.
+
+Transcript Snippet: I saw her give an interview where she said that it was because her first husband cheated on her a lot with like sex workers and that made her want to understand the sex workers.
+
+Anchored Artifacts: 
+Mentions: N-466
+Related Nodes: N-10421
+Tags: relevance:tangential
+Investigative Direction: Locate the interview in which Buckman describes her motivation.
+
+---
+
+**C-12743** Host Says the Buckman Family Has Factories in Tennessee
+
+Claim Timestamp: 00:56:21
+
+Claim: The host says the Buckman family has factories in Tennessee, though not the specific one that blew up.
+
+Transcript Snippet: the Buckman family with factories, not that specific one that blew up, but factories in Tennessee for sure
+
+Anchored Artifacts: 
+Mentions: N-466
+Related Nodes: N-10986
+Tags: relevance:context
+Investigative Direction: Check Tennessee business records for Buckman family industrial sites and their locations relative to the explosion site.
+
+---
+
+**C-12744** Host Asks Viewers to Email More Tips at candaceowens.com
+
+Claim Timestamp: 00:58:44
+
+Claim: The host asks viewers to email tips to the show's tips address at candaceowens.com.
+
+Transcript Snippet: please email us more tips at candaceowens. com.
+
+Anchored Artifacts: A-3222.1
+Mentions: N-3
+Tags: relevance:core, dia
+Investigative Direction: Check the tips inbox intake and any tips published or acted on in later episodes.
+
+---
+
+**C-12745** Host Asks Next Model Management Models and Employees to Send Tips Directly
+
+Claim Timestamp: 00:58:44
+
+Claim: The host asks anyone who worked in modeling and stayed in an apartment that Erika property managed or opened the keys for, and employees of Next Model Management, to send tips directly to the show.
+
+Transcript Snippet: we want to hear directly from the models. Um, more tips at candaceowens. com, directly from the employees at Next Model Management. More tips at candaceowens. com.
+
+Anchored Artifacts: A-3222.2
+Mentions: N-3, N-2
+Related Nodes: N-10532, N-10519
+Tags: relevance:core, dia
+Investigative Direction: Check whether any model or employee responses are aired in later episodes and whether they corroborate the property-management claim.
+
+---
+
+**C-12746** Host Says Freud's Vienna Circle Preceded World War as Cover for Harm to Children
+
+Claim Timestamp: 00:58:44
+
+Claim: The host says to look up old Vienna, Sigmund Freud and his associates and what they were doing to kids, and that a world war arrived just in time.
+
+Transcript Snippet: Look up old Vienna, uh, Sigmund Freud and his boys and what they were doing to kids there and then just in time, world war.
+
+Anchored Artifacts: 
+Mentions: N-50
+Tags: relevance:tangential
+Investigative Direction: No source is cited; the claim is historical and sweeping and would need named historical sources.
+
+---
+
+**C-12747** Host Says a Sitting President Is Suing Her for Speaking About What Happened
+
+Claim Timestamp: 00:59:45
+
+Claim: The host says another sitting president, Emmanuel Macron, is suing a podcaster, meaning her, for speaking about the reality of what happened.
+
+Transcript Snippet: Another sitting president is suing a podcaster for speaking about the reality of what happened.
+
+Anchored Artifacts: 
+Mentions: N-383, N-3
+Related Nodes: N-10270
+Supports: C-9814
+Tags: relevance:context
+Investigative Direction: Check the Delaware Macron v. Owens docket for the plaintiffs and the claims pleaded.
+
+---
+
+**C-12748** Host Says France Was There on the Day of the Assassination and the White House Has Not Disputed It
+
+Claim Timestamp: 01:00:29
+
+Claim: The host says she has repeatedly stated that France was there on the day of Charlie's assassination and that the White House has not disputed it.
+
+Transcript Snippet: France, by the way, I have told you guys this repeatedly, was there on the day of Charles's assassination. I have made that statement, and the White House has not disputed it.
+
+Anchored Artifacts: 
+Mentions: N-1, N-3
+Related Nodes: N-10316, N-10290
+Supports: C-5263
+Tags: relevance:core
+Investigative Direction: Request any White House or State Department statement on French personnel in the United States on September 10, 2025.
+
+---
+
+**C-12749** Host Says Trump Pardoned Jared Kushner's Father and Then Made Him Ambassador to France
+
+Claim Timestamp: 01:01:32
+
+Claim: The host says Trump pardoned Jared Kushner's father and then gave him power by making him ambassador to France.
+
+Transcript Snippet: it's one thing like give someone a pardon, but it's another thing then like give them power. You know, have the ambassador to France.
+
+Anchored Artifacts: 
+Mentions: N-182
+Tags: relevance:context
+Investigative Direction: Check the pardon record and ambassadorial appointment for the Kushner family member the host means.
+
+---
+
 # Optional Flags
 
 - **Artifact verbally referenced but not shown (video clip fully displayed):** A-1840.1 (Megyn Kelly/Babin) and A-1838.2 (Erica interview about orphans) – both played on air; transcript reflects captions.
-- **Name uncertainty:** "Taral" (A/V operative referenced by host) – spelling may be "Talal"; preserved as transcribed.
+- **Name uncertainty:** "Terrell" (A/V operative referenced by host) – spelling may be "Talal"; preserved as transcribed.
 - **Name uncertainty:** "Frank" (Erica's father referenced as necklace-witness) – not otherwise identified in transcript.
-- **Name uncertainty:** "Erika Fronsve" – host uses this spelling for a person described as related to real-estate dealings; may be alternative spelling of Erica's maiden name. Preserved exactly as spoken.
+- **Name uncertainty:** "Erika Frantzve" – host uses this spelling for a person described as related to real-estate dealings; may be alternative spelling of Erica's maiden name. Preserved exactly as spoken.
 - **Name uncertainty:** "Dan" (individual shown pushing Charlie in video) – host identifies verbally; identity not independently confirmed.
 - **Transcript ambiguity:** Whether the NY Post article text quoted was read in full or partial – bracketed selection read on air.
 - **Requires human verification:** Identification of building viewer-suggested as matching "white building" description should be cross-checked against 301 East 66th Street ownership records.
@@ -887,6 +2698,72 @@ Speaker: N-3
 Quote: k's favorite congressman. Just a little note here. Stop stop you just can't make this up. You cannot make up that they are now being fact-checked o...
 Context: Later reuse of You Can't Make This Up in CKA seq 78.
 Tags: incredulity, headline, sarcasm, reuse
+Confidence: high
+
+---
+
+**M-12** (meme) Decentralized Intelligence Agency
+
+### Occurrence 1
+
+Video Timestamp: 00:58:44
+Speaker: N-3
+Quote: please email us more tips at candaceowens. com.
+Context: Host asks viewers to email tips; tip-line call for the Decentralized Intelligence Agency.
+Tags: tips, dia
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:58:44
+Speaker: N-3
+Quote: more tips at candaceowens. com, directly from the employees at Next Model Management.
+Context: Host asks Next Model Management models and employees to send tips directly.
+Tags: tips, dia
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:25:27
+Speaker: N-3
+Quote: And now we have to go max for Charlie.
+Context: Host uses go max as a rallying call after describing Erika's background.
+Tags: rallying_cry
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:26:15
+Speaker: N-3
+Quote: We need to go max for Charlie because when I look at all the players on the board
+Context: Host repeats the go max call before the break.
+Tags: rallying_cry
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:48:44
+Speaker: N-3
+Quote: We are winning. Go, Max.
+Context: Host reads a Project Constitution comment ending with Go, Max.
+Tags: rallying_cry, viewer_comment
+Confidence: high
+
+---
+
+**M-306** (meme) LBJ USA
+
+### Occurrence 1
+
+Video Timestamp: 00:44:27
+Speaker: N-3
+Quote: That's what I would call LBJ USA.
+Context: Host's nickname for Turning Point USA after what she calls its takeover and reversal of Charlie's positions.
+Tags: nickname, tpusa
 Confidence: high
 
 ---

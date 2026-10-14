@@ -13,11 +13,10 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11296
   - Hole-minted Nodes (reintro-ep081): N-10611
-  - Tip-minted Nodes (reintro-ep081): N-11079
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11295–C-11374
   - New Nodes Introduced: N-10547, N-10550, N-10551, N-10552
-  - Reused Nodes Appearing: N-10548, N-10549, N-11, N-15, N-17, N-46, N-55, N-69, N-167, N-190, N-194, N-221, N-264, N-384, N-557, N-598, N-10056, N-10082, N-10093, N-10148, N-10163, N-10193, N-10195, N-10202, N-10206, N-10253, N-10340, N-10355, N-10403, N-10539, N-10546, N-10554, N-10560, N-10956, N-11114
+  - Reused Nodes Appearing: N-10548, N-10549, N-11, N-15, N-17, N-46, N-55, N-69, N-167, N-190, N-194, N-221, N-264, N-384, N-557, N-598, N-10056, N-10082, N-10093, N-10148, N-10163, N-10193, N-10195, N-10202, N-10206, N-10253, N-10340, N-10355, N-10403, N-10539, N-10546, N-10554, N-10560, N-10956, N-11114, N-11079
   - (see registers)
 
 # Episode 81 Analysis
@@ -2191,7 +2190,7 @@ Claim Timestamp: 00:48:17
 
 Claim: The host says that Andrew Kolvet said Erika did not ever want the limelight, which she disputes, saying she cannot find a moment when Erika was not seeking it.
 
-Transcript Snippet: in response to Andrew Kolb who said, "Erika didn't want ever want the limelight."
+Transcript Snippet: in response to Andrew Kolvet who said, "Erika didn't want ever want the limelight."
 
 Anchored Artifacts: A-1885.1
 Mentions: N-14, N-2, N-3

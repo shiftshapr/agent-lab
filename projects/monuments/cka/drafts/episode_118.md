@@ -196,7 +196,7 @@ Named by the host as someone whose life she did not know about while working at 
 
 **N-14** Andrew Kolvet
 
-Transcript spellings "Andrew Kolbe", "Andrew Kolb" and "Andrew Kobach". Said to have been at the White House executive office building while airing a pre-recorded show, and named in the alibi dispute.
+Transcript spellings "Andrew Kolvet", "Andrew Kolvet" and "Andrew Kobach". Said to have been at the White House executive office building while airing a pre-recorded show, and named in the alibi dispute.
 
 *Related: C-4723, C-4724, C-4739*
 
@@ -398,7 +398,7 @@ The host's FOIA requests to the Department of War and FBI.
 
 *Related: C-4740, C-4757, C-4765, A-2692.1, A-2692.2*
 
-**N-10701** Andrew Kolbenschlag EEOB Presence / Kash Patel Connection
+**N-10701** Andrew Kolvet EEOB Presence / Kash Patel Connection
 
 Kolvet's executive office building visit and the pre-recorded Kash Patel show.
 
@@ -529,7 +529,7 @@ Claim Timestamp: 00:00:49
 
 Claim: The host repeats her earlier report that, the day before the administration released the Epstein files, Andrew Kolvet was seen at the White House executive office building.
 
-Transcript Snippet: But the day before Andrew Kolbe was mysteriously seen at the White House, particularly in the executive office building.
+Transcript Snippet: But the day before Andrew Kolvet was mysteriously seen at the White House, particularly in the executive office building.
 
 Anchored Artifacts: 
 Mentions: N-14, N-9
@@ -1395,7 +1395,7 @@ Confidence: high
 - **No DIA beats**: The keyword scan found only "tip" at 00:45:31 ("that's a very um kind tip"), which refers to a viewer's monetary tip, not a request for information; the other hits are substrings of "multiple". The host's thanks at 00:49:17 to viewers "that sent me these stories" has none of the DIA keywords and is not treated as a tip-line beat. No M-12 or M-14 occurrence.
 - **Self-corrections without a linkable prior claim**: C-4725 corrects the host's previous-episode statement that Erika entered Charlie's life in the same month as Epstein's death. C-4741 corrects her earlier statement that Hansel reports directly to Hegseth. Neither prior statement is in claims_index.tsv (episode 117 has no indexed claims), so no Revises link was added. The integrator may link them once episode 117 claims are minted.
 - **Cross-episode links**: C-4723 Supports C-2422, C-4724 Supports C-2421, C-4735 Supports C-2909, C-4736 Supports C-2913 and C-2930, and C-4739 Supports C-2906. Possible links left out: C-4723 vs C-2420 (that claim puts Kolvet and McCoy in the West Wing; here it is the executive office building and McCoy is not named), and C-4728/C-4729 vs C-2427 (ep 76, a different proposition about non-response). C-2981 and C-2985 (ep 122) restate C-4729 and C-4723 but are later episodes, so they are not linked.
-- **Name matching**: "Andrew Kolbe" (00:49, 01:42), "Andrew Kolb" (01:42) and "Andrew Kobach" (10:20) are mapped to N-14 Andrew Kolvet from context (the alibi dispute, see C-2907). "Mikey McCormick's wife, Elizabeth Kravchuk" is mapped to N-194 Mikey McCoy and N-221 Eliza McCoy; skeleton episode 083 refers to "Elizabeth Kravchuk McCoy". "Bradley Hantel / Hansel / Hansell" are mapped to N-439. "Catherine Bolkovac" is the transcript spelling of whistleblower Kathryn Bolkovac (N-702). "Steven Feinberg" (12:59) is the same person as Stephen Feinberg (N-699). "Virginia" at 02:29 is taken as Virginia Giuffre, named in full at 06:38.
+- **Name matching**: "Andrew Kolvet" (00:49, 01:42), "Andrew Kolvet" (01:42) and "Andrew Kobach" (10:20) are mapped to N-14 Andrew Kolvet from context (the alibi dispute, see C-2907). "Mikey McCormick's wife, Elizabeth Kravchuk" is mapped to N-194 Mikey McCoy and N-221 Eliza McCoy; skeleton episode 083 refers to "Elizabeth Kravchuk McCoy". "Bradley Hantel / Hansel / Hansell" are mapped to N-439. "Catherine Bolkovac" is the transcript spelling of whistleblower Kathryn Bolkovac (N-702). "Steven Feinberg" (12:59) is the same person as Stephen Feinberg (N-699). "Virginia" at 02:29 is taken as Virginia Giuffre, named in full at 06:38.
 - **Transcription ambiguities**: "Turning Points USA Club of America" (likely TPUSA Club America) kept as spoken. "our F U SUVs" (26:20) is unclear and kept verbatim. "lorettopubs. org" (43:08) is an ad fragment. The host gives two different Iraq casualty figures (17 killed, then corrected to 14 killed and 20 injured); C-4745 uses the corrected figure. The host says Blackwater contracts ran "between 1997 and 2010" as spoken.
 - **Unminted names**: Nat Rothschild (12:59, joke about his boat), Bill Clinton (20:09), Gaddafi, Robin Thicke and Ben Johnston's employer locations are named in passing with no claim, so no nodes were added. Viewer handles (Gnome 2024, Israel Texas, Little bird, Naby, Sarah Bryant, James the least, Tony Hill, Anna, RN Explorer, El Sassinator) are not person nodes.
 - **Not inscribed as claims (admission test)**: Several statements are opinion, rhetoric or speculation:

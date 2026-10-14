@@ -113,7 +113,7 @@ Confidence Level: High
 
 *Related: C-2815, N-10644*
 
-**A-2015.6** Point 28 – citation of Harpole's November 17 Sean Ryan appearance as defensive response to "Owens and other conspiracy theorists"
+**A-2015.6** Point 28 – citation of Harpole's November 17 Shawn Ryan appearance as defensive response to "Owens and other conspiracy theorists"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -225,7 +225,7 @@ Confidence Level: High
 
 ### **A-2019** UVU Police Chief Long Text Chain Bundle
 
-Text exchange originally presented by Harpole on Sean Ryan as his own; later admitted in the lawsuit to be Dan Flood's exchange with Chief Long.
+Text exchange originally presented by Harpole on Shawn Ryan as his own; later admitted in the lawsuit to be Dan Flood's exchange with Chief Long.
 
 **A-2019.1** Initial text regarding Sorensen Center rooftop access
 
@@ -492,7 +492,7 @@ Investigative Pressure: High
 
 **N-10644** Harpole Limited-Purpose Public Figure Status
 
-Whether Harpole qualifies as a limited-purpose public figure for defamation actual-malice standard, hinging on his November 17, 2025 Sean Ryan appearance.
+Whether Harpole qualifies as a limited-purpose public figure for defamation actual-malice standard, hinging on his November 17, 2025 Shawn Ryan appearance.
 
 Evidence Count: 2
 Claim Count: 3
@@ -514,7 +514,7 @@ Investigative Pressure: Medium
 
 **N-10646** TPUSA Rooftop Security Decision-Making Discrepancy
 
-Whether security was responsible for securing Sorensen Center rooftop access and whether Chief Long's "I got you covered" reply addressed that access; conflict between Harpole's Sean Ryan presentation and the lawsuit's later admission.
+Whether security was responsible for securing Sorensen Center rooftop access and whether Chief Long's "I got you covered" reply addressed that access; conflict between Harpole's Shawn Ryan presentation and the lawsuit's later admission.
 
 Evidence Count: 2
 Claim Count: 1
@@ -889,7 +889,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10681** Sean Ryan Show Interview Clip Bundle
+**N-10681** Shawn Ryan Show Interview Clip Bundle
 
 Existing topic reused for new claims in this episode.
 
@@ -1074,25 +1074,25 @@ Investigative Direction: Review defamation caselaw on limited-purpose public fig
 
 ---
 
-**C-2816** Lawsuit Cites November 17 Sean Ryan Appearance as Defensive Response
+**C-2816** Lawsuit Cites November 17 Shawn Ryan Appearance as Defensive Response
 
 Claim Timestamp: 00:16:29
 
-Claim: Point 28 of the lawsuit asserts Harpole appeared on Sean Ryan "solely to respond to and to rebut the defamatory statements" by Candace and other conspiracy theorists.
+Claim: Point 28 of the lawsuit asserts Harpole appeared on Shawn Ryan "solely to respond to and to rebut the defamatory statements" by Candace and other conspiracy theorists.
 
 Anchored Artifacts: A-2015.6
 
 Related Nodes: N-10644
 
-Investigative Direction: Confirm the air date of Harpole's Sean Ryan appearance and the prior existence (or absence) of Candace's commentary naming Harpole.
+Investigative Direction: Confirm the air date of Harpole's Shawn Ryan appearance and the prior existence (or absence) of Candace's commentary naming Harpole.
 
 ---
 
-**C-2817** Candace First Mentioned Harpole by Name on November 19, Two Days After His Sean Ryan Appearance
+**C-2817** Candace First Mentioned Harpole by Name on November 19, Two Days After His Shawn Ryan Appearance
 
 Claim Timestamp: 00:17:25
 
-Claim: Candace states she never once mentioned Harpole on her podcast prior to his November 17 Sean Ryan appearance; her first mention was November 19.
+Claim: Candace states she never once mentioned Harpole on her podcast prior to his November 17 Shawn Ryan appearance; her first mention was November 19.
 
 Anchored Artifacts: A-2015.6, A-2018.1
 Mentions: N-3
@@ -1151,14 +1151,14 @@ Investigative Direction: Locate the September 2025 episode in which Candace defe
 
 Claim Timestamp: 00:28:30
 
-Claim: Although Harpole presented the Sorensen Center rooftop text chain on Sean Ryan as his own, the lawsuit admits the messages were between Dan Flood and UVU Police Chief Long.
+Claim: Although Harpole presented the Sorensen Center rooftop text chain on Shawn Ryan as his own, the lawsuit admits the messages were between Dan Flood and UVU Police Chief Long.
 
 Anchored Artifacts: A-2015.* (admission), A-2019.1, A-2019.2
 Mentions: N-274
 
 Related Nodes: N-10646
 
-Investigative Direction: Compare the original Sean Ryan audio against the lawsuit's admission to identify the precise point of misrepresentation.
+Investigative Direction: Compare the original Shawn Ryan audio against the lawsuit's admission to identify the precise point of misrepresentation.
 
 ---
 
@@ -1381,7 +1381,7 @@ Claim Timestamp: 00:02:22
 
 Claim: The host says Harpole is using the same lawyer the Daily Wire used to sue her in arbitration for two years, and that the lawyer is publicly tweeting and has a YouTube channel.
 
-Transcript Snippet: Brian Harpold is using the same lawyer the Daily Wire used to sue me in arbitration for 2 years straight.
+Transcript Snippet: Brian Harpole is using the same lawyer the Daily Wire used to sue me in arbitration for 2 years straight.
 
 Anchored Artifacts: 
 Mentions: N-3, N-270
@@ -1397,7 +1397,7 @@ Claim Timestamp: 00:04:44
 
 Claim: The host says that at each of her many Turning Point USA events during the time Harpole was on the security team, an ambulance was on standby.
 
-Transcript Snippet: at each and every one of my many events that I have done with Turning Point USA during a time period when Brian Harpold was always a member of the security team, we had an ambulance on standby.
+Transcript Snippet: at each and every one of my many events that I have done with Turning Point USA during a time period when Brian Harpole was always a member of the security team, we had an ambulance on standby.
 
 Anchored Artifacts: A-2015.2
 Mentions: N-3, N-270
@@ -1446,7 +1446,7 @@ Claim Timestamp: 00:07:04
 
 Claim: The host says that in the 'Charlie's Angels or Demons' episode she never mentioned Harpole even once, and that it concerned Charlie's chief of staff and Terrell Farnsworth, the head of the AV team.
 
-Transcript Snippet: In that particular episode, we never mentioned Brian Harpold or referred to him even once.
+Transcript Snippet: In that particular episode, we never mentioned Brian Harpole or referred to him even once.
 
 Anchored Artifacts: A-2015.3
 Mentions: N-3, N-270, N-265
@@ -1637,13 +1637,13 @@ Investigative Direction: Identify the original posts that circulated the hand-si
 
 ---
 
-**C-10372** Host Says Harpole's Sean Ryan Interview Made Her Look Again
+**C-10372** Host Says Harpole's Shawn Ryan Interview Made Her Look Again
 
 Claim Timestamp: 00:19:10
 
 Claim: The host says it was Harpole's behavior and what he said on the Shawn Ryan show, which she found unconvincing, that made her take a second look, and that she did not come in guns blazing against TPUSA.
 
-Transcript Snippet: it was because of his behavior and what he said on Sean Ryan's show, which I found to be unconvincing
+Transcript Snippet: it was because of his behavior and what he said on Shawn Ryan's show, which I found to be unconvincing
 
 Anchored Artifacts: 
 Mentions: N-3, N-270, N-228
@@ -2035,7 +2035,7 @@ Claim Timestamp: 00:46:23
 
 Claim: The host says Kolvet is pretending that a private correspondence in which they mocked Bari Weiss's insinuations counted as the host making a statement.
 
-Transcript Snippet: pretending that that little private correspondence where we we mocked Barry Weiss's insinuations that that that somehow counted to me making a statement.
+Transcript Snippet: pretending that that little private correspondence where we we mocked Bari Weiss's insinuations that that that somehow counted to me making a statement.
 
 Anchored Artifacts: 
 Mentions: N-3, N-14, N-282
@@ -2583,7 +2583,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty – Harpole/Harpold:** Transcript uses both "Brian Harpole" and "Brian Harpold" interchangeably throughout the episode (title uses "Harpole"). Preserved as "Harpole" matching the lawsuit title; both spellings preserved in cross-references.
+- **Name uncertainty – Harpole/Harpold:** Transcript uses both "Brian Harpole" and "Brian Harpole" interchangeably throughout the episode (title uses "Harpole"). Preserved as "Harpole" matching the lawsuit title; both spellings preserved in cross-references.
 - **Name uncertainty – Mikey McCoy/McCoey/McCormick:** Transcript renders the same person as "Mikey McCoey," "Mikey McCoy," and "Mikey McCormick." Used "Mikey McCoy" as most common rendering; identity confirmed by context.
 - **Name uncertainty – Matt Slauson vs. Matt Christiansen:** Candace names Harpole's attorney as "Matt Slauson" (~01:08:34) but later says sarcastically "Good luck with Matt Christiansen as a lawyer" (~01:13:25). Treated as separate nodes, pending verification of whether they refer to the same individual.
 - **Private conversation unreviewed:** Candace's account of her December 15 meeting with Erika Kirk – including the McCoy-to-Kolvet recommendation – is not supported by a primary document or recording artifact. Anchors only the existence of the disclosure as a claim-of-record (N-10649).

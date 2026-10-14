@@ -720,7 +720,7 @@ Appears in a clip declining to dance like a puppet for the podcast wars.
 
 ---
 
-**N-118** Marissa Strait
+**N-118** Marissa Streit
 
 PragerU CEO the host says she stayed close to after leaving PragerU.
 
@@ -770,7 +770,7 @@ The host says she did not believe he was involved and hopes for access to his ph
 
 **N-371** Jeremy Boreing
 
-Daily Wire co-founder (transcribed Jeremy Boring); stepped down as co-CEO per Gupta's post, and the host blames him for the debt.
+Daily Wire co-founder (transcribed Jeremy Boreing); stepped down as co-CEO per Gupta's post, and the host blames him for the debt.
 
 *Related: C-11503, C-11547, C-11548*
 
@@ -970,8 +970,8 @@ Existing topic reused for the Klavan claim.
 
 **N-901** Bryan Freedman
 
-First named by the host at 00:55:14 in episode 98 (transcribed Brian Friedman). Lawyer the host congratulates for the Baldoni result.
-Aliases: Brian Friedman
+First named by the host at 00:55:14 in episode 98 (transcribed Bryan Freedman). Lawyer the host congratulates for the Baldoni result.
+Aliases: Bryan Freedman
 
 *Related: C-11555*
 
@@ -1482,13 +1482,13 @@ Investigative Direction: Compare the DC staff list before and after the layoffs 
 
 ---
 
-**C-11503** Gupta post says Jeremy Boring stepped down as co-CEO in early 2025
+**C-11503** Gupta post says Jeremy Boreing stepped down as co-CEO in early 2025
 
 Claim Timestamp: 00:11:30
 
-Claim: In the Akash Gupta post the host reads, co-founder Jeremy Boring stepped down as co-CEO in early 2025 and launched a solo podcast outside the company, and Bentkey was shuttered that year with its whole team cut.
+Claim: In the Akash Gupta post the host reads, co-founder Jeremy Boreing stepped down as co-CEO in early 2025 and launched a solo podcast outside the company, and Bentkey was shuttered that year with its whole team cut.
 
-Transcript Snippet: Early 2025, co-founder Jeremy Boring stepped down as co-CEO and launched a solo podcast outside of the company that he co-founded.
+Transcript Snippet: Early 2025, co-founder Jeremy Boreing stepped down as co-CEO and launched a solo podcast outside of the company that he co-founded.
 
 Anchored Artifacts: A-2031.1
 Mentions: N-371
@@ -2179,13 +2179,13 @@ Investigative Direction: Review incoming tips on the geofencing vendor.
 
 ---
 
-**C-11547** Host says Daily Wire's last action against her was sent on Jeremy Boring's birthday
+**C-11547** Host says Daily Wire's last action against her was sent on Jeremy Boreing's birthday
 
 Claim Timestamp: 00:48:19
 
-Claim: The host says the recent events were on her birthday and that the Daily Wire's earlier action against her was sent on Jeremy Boring's birthday, which she calls Daily Wire coded.
+Claim: The host says the recent events were on her birthday and that the Daily Wire's earlier action against her was sent on Jeremy Boreing's birthday, which she calls Daily Wire coded.
 
-Transcript Snippet: it was very Daily Wire coded cuz last time when they like sent it was like on Jeremy Boring's birthday.
+Transcript Snippet: it was very Daily Wire coded cuz last time when they like sent it was like on Jeremy Boreing's birthday.
 
 Anchored Artifacts: 
 Mentions: N-3, N-371
@@ -2198,7 +2198,7 @@ Investigative Direction: Compare dates of the earlier filing with Boreing's birt
 
 Claim Timestamp: 00:48:19
 
-Claim: The host says the reason the Daily Wire got into debt was Jeremy Boring, who she says stopped focusing on talent, thought he was the product and invested little in talent.
+Claim: The host says the reason the Daily Wire got into debt was Jeremy Boreing, who she says stopped focusing on talent, thought he was the product and invested little in talent.
 
 Transcript Snippet: the reason they got into debt, he was just like maniacal.
 
@@ -2305,13 +2305,13 @@ Investigative Direction: Court docket entry of dismissal or settlement.
 
 ---
 
-**C-11555** Host congratulates Brian Friedman and PR professional Melissa Nathan
+**C-11555** Host congratulates Bryan Freedman and PR professional Melissa Nathan
 
 Claim Timestamp: 00:55:14
 
-Claim: The host congratulates Brian Friedman (she was unsure of the lawyer's name, transcribed 'Friedman'; real name likely Bryan Freedman) and PR professional Melissa Nathan on the Baldoni side's result.
+Claim: The host congratulates Bryan Freedman (she was unsure of the lawyer's name, transcribed 'Friedman'; real name likely Bryan Freedman) and PR professional Melissa Nathan on the Baldoni side's result.
 
-Transcript Snippet: Brian Friedman, congratulations to you. Also to Melissa Nathan and the people that were the PR team
+Transcript Snippet: Bryan Freedman, congratulations to you. Also to Melissa Nathan and the people that were the PR team
 
 Anchored Artifacts: 
 Mentions: N-491, N-901, N-902

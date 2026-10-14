@@ -587,6 +587,59 @@
           "confidence": "low"
         }
       ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3262",
+      "family_ref": "A-3262",
+      "bundle_name": "Erika Kirk Dream City Church Trump Event Opening Clip",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3262.1",
+          "ref": "A-3262.1",
+          "description": "Clip of Erika Kirk walking out at the Dream City Church Trump event, saying 'Welcome. Look at this crowd.' (played on air)",
+          "related_claims": [
+            "C-13383",
+            "C-13386",
+            "C-13387"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "00:24:01",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "medium"
+        }
+      ]
+    },
+    {
+      "@type": "ArtifactFamily",
+      "@id": "A-3263",
+      "family_ref": "A-3263",
+      "bundle_name": "Producer Finding on Edited Text Messages Bundle",
+      "sub_items": [
+        {
+          "@type": "Artifact",
+          "@id": "A-3263.1",
+          "ref": "A-3263.1",
+          "description": "Host verbal reference to her producer's finding that the released text messages are being slightly edited and that new ones are being dropped (not shown)",
+          "related_claims": [
+            "C-13444",
+            "C-13445"
+          ],
+          "related_nodes": [
+            "N-3"
+          ],
+          "tags": [],
+          "event_timestamp": "00:00:00-00:00:01",
+          "video_timestamp": "01:01:45",
+          "discovery_timestamp": "00:00:00-00:00:01",
+          "confidence": "low"
+        }
+      ]
     }
   ],
   "nodes": [
@@ -881,7 +934,15 @@
       "type": "person",
       "description": "Assassination and TPUSA succession remain the backdrop; host ties elephant-clipping start and Erika drive seed to September 2025.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13347",
+        "C-13358",
+        "C-13359",
+        "C-13360",
+        "C-13432",
+        "C-13436",
+        "C-13437"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -897,7 +958,27 @@
       "type": "person",
       "description": "Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13362",
+        "C-13363",
+        "C-13364",
+        "C-13375",
+        "C-13378",
+        "C-13379",
+        "C-13380",
+        "C-13383",
+        "C-13384",
+        "C-13385",
+        "C-13386",
+        "C-13387",
+        "C-13388",
+        "C-13389",
+        "C-13390",
+        "C-13391",
+        "C-13392",
+        "C-13393",
+        "C-13395"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -913,7 +994,28 @@
       "type": "person",
       "description": "Host; target of paid clipping and DoD-adjacent smear; satirizes Candyland nanny comments; organizes tip intake.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13346",
+        "C-13349",
+        "C-13359",
+        "C-13363",
+        "C-13376",
+        "C-13391",
+        "C-13393",
+        "C-13402",
+        "C-13403",
+        "C-13404",
+        "C-13423",
+        "C-13424",
+        "C-13425",
+        "C-13426",
+        "C-13427",
+        "C-13428",
+        "C-13430",
+        "C-13438",
+        "C-13444",
+        "C-13445"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -929,7 +1031,19 @@
       "type": "person",
       "description": "Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13346",
+        "C-13383",
+        "C-13396",
+        "C-13397",
+        "C-13398",
+        "C-13399",
+        "C-13400",
+        "C-13401",
+        "C-13411",
+        "C-13422",
+        "C-13431"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -961,7 +1075,33 @@
       "type": "person",
       "description": "Prelim-hearing week timing for DoD/thread and paid anti-Candace surge; Discord confession framing recalled.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13347",
+        "C-13348",
+        "C-13350",
+        "C-13351",
+        "C-13352",
+        "C-13353",
+        "C-13354",
+        "C-13355",
+        "C-13356",
+        "C-13357",
+        "C-13361",
+        "C-13362",
+        "C-13364",
+        "C-13365",
+        "C-13369",
+        "C-13370",
+        "C-13371",
+        "C-13377",
+        "C-13381",
+        "C-13382",
+        "C-13433",
+        "C-13434",
+        "C-13435",
+        "C-13440",
+        "C-13443"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -977,7 +1117,9 @@
       "type": "person",
       "description": "Banned subject on Elephant Clipping instructions per Atlantic.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13400"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -993,7 +1135,37 @@
       "type": "person",
       "description": "Independent journalist/activist who publicly called on Erika Kirk to sue Candace Owens on X following the previous episode.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13401",
+        "C-13402",
+        "C-13403",
+        "C-13404",
+        "C-13405",
+        "C-13406",
+        "C-13407",
+        "C-13408",
+        "C-13409",
+        "C-13410",
+        "C-13411",
+        "C-13412",
+        "C-13413",
+        "C-13414",
+        "C-13415",
+        "C-13416",
+        "C-13417",
+        "C-13418",
+        "C-13419",
+        "C-13420",
+        "C-13421",
+        "C-13422",
+        "C-13423",
+        "C-13424",
+        "C-13425",
+        "C-13426",
+        "C-13427",
+        "C-13429",
+        "C-13431"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1025,7 +1197,13 @@
       "type": "person",
       "description": "Author of text messages disclosed in A-1848.1 regarding Ben Shapiro and TPUSA.",
       "related_artifacts": [],
-      "related_claims": [],
+      "related_claims": [
+        "C-13410",
+        "C-13416",
+        "C-13417",
+        "C-13418",
+        "C-13419"
+      ],
       "tags": [],
       "evidence_count": 0,
       "claim_count": 0,
@@ -1066,6 +1244,962 @@
       "claim_count": 1,
       "episode_count": 1,
       "investigative_pressure": "low"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-4",
+      "ref": "N-4",
+      "name": "JD Vance",
+      "type": "person",
+      "description": "Vice president; the host says Erika canceled on him.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-6",
+      "ref": "N-6",
+      "name": "Elizabeth Lane",
+      "type": "person",
+      "description": "Reporter who spoke with the grandfather and is cited by the host.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13348",
+        "C-13349",
+        "C-13394"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-30",
+      "ref": "N-30",
+      "name": "George (Candace's husband)",
+      "type": "person",
+      "description": "Host's husband George Farmer, subject of Loomer's claims and the host's account of the $6,987 payment.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13423",
+        "C-13424",
+        "C-13425",
+        "C-13428",
+        "C-13429",
+        "C-13430"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-54",
+      "ref": "N-54",
+      "name": "Lance Twiggs",
+      "type": "person",
+      "description": "Lance Twiggs, whose family the host says she spoke with.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13441",
+        "C-13442",
+        "C-13443"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-69",
+      "ref": "N-69",
+      "name": "Kash Patel",
+      "type": "person",
+      "description": "Kash Patel; the FBI's role in discovery.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13365",
+        "C-13372",
+        "C-13373"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-197",
+      "ref": "N-197",
+      "name": "David Horowitz",
+      "type": "person",
+      "description": "David Horowitz, whose center the host says she was traveling to speak at.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13402"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-272",
+      "ref": "N-272",
+      "name": "Joe Rogan",
+      "type": "person",
+      "description": "Joe Rogan, who the host says finds Erika weird.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13392"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-276",
+      "ref": "N-276",
+      "name": "Nate Brooksby",
+      "type": "person",
+      "description": "Sheriff Nate Brooksby, whom the host says admitted Robinson was coerced.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13353"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-282",
+      "ref": "N-282",
+      "name": "Bari Weiss",
+      "type": "person",
+      "description": "Bari Weiss, to whom the host says Erika said she was 100 percent sure.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13362"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-345",
+      "ref": "N-345",
+      "name": "Victor Marx",
+      "type": "person",
+      "description": "Victor Marx, the subject of the viewer comment the host endorses.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13439"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-539",
+      "ref": "N-539",
+      "name": "Hillary Clinton",
+      "type": "person",
+      "description": "Hillary Clinton, subject of the host's aside.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13394"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-607",
+      "ref": "N-607",
+      "name": "Melania Trump",
+      "type": "person",
+      "description": "Melania Trump, whose circle the host says fears Loomer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13411"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-836",
+      "ref": "N-836",
+      "name": "Kathy Nester",
+      "type": "person",
+      "description": "Kathy Nester, defense attorney quoted on the phone, the gun and the physical evidence.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13371",
+        "C-13374"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10013",
+      "ref": "N-10013",
+      "name": "Discord",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13370"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10014",
+      "ref": "N-10014",
+      "name": "Federal Bureau of Investigation",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13365",
+        "C-13366",
+        "C-13367",
+        "C-13372",
+        "C-13373",
+        "C-13409"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10021",
+      "ref": "N-10021",
+      "name": "Robinson Confession and Arrest Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13353",
+        "C-13354"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10022",
+      "ref": "N-10022",
+      "name": "Robinson Father Turn-In Narrative",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13350",
+        "C-13351",
+        "C-13352",
+        "C-13354"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10034",
+      "ref": "N-10034",
+      "name": "Lance Twiggs Family Allegations",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13441",
+        "C-13442"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10077",
+      "ref": "N-10077",
+      "name": "Robinson-Lance Text Chain Authenticity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13370",
+        "C-13443",
+        "C-13444",
+        "C-13445"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 4,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10110",
+      "ref": "N-10110",
+      "name": "Tyler Robinson Evidence Gaps",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13361",
+        "C-13362",
+        "C-13363",
+        "C-13364",
+        "C-13367",
+        "C-13368",
+        "C-13369",
+        "C-13374",
+        "C-13433"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 9,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10142",
+      "ref": "N-10142",
+      "name": "Brooksby Suicide Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13353"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10168",
+      "ref": "N-10168",
+      "name": "Maroon Shirt Person Identification (Lance Twiggs Hypothesis)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13434",
+        "C-13440"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10202",
+      "ref": "N-10202",
+      "name": "FBI Charlie Kirk Investigation Handling (Kash Patel)",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13365",
+        "C-13372"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10239",
+      "ref": "N-10239",
+      "name": "Timpanogos Hospital Footage Seizure Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13436"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10271",
+      "ref": "N-10271",
+      "name": "Tyler Robinson Washington County Surveillance Footage Gap",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13435"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10319",
+      "ref": "N-10319",
+      "name": ".30-06 Forensic Narrative Validity",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13358",
+        "C-13359",
+        "C-13360"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10360",
+      "ref": "N-10360",
+      "name": "Gun Discovery Procedure Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13347"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10487",
+      "ref": "N-10487",
+      "name": "Dream City Church Connection Investigation",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13383"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10570",
+      "ref": "N-10570",
+      "name": "Defense Discovery Dumping Strategy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13364",
+        "C-13365",
+        "C-13366",
+        "C-13368",
+        "C-13369",
+        "C-13373",
+        "C-13377",
+        "C-13380"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 8,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10587",
+      "ref": "N-10587",
+      "name": "Trump Truth Social Post Pattern Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13346",
+        "C-13396",
+        "C-13397",
+        "C-13398",
+        "C-13399",
+        "C-13400"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 6,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10590",
+      "ref": "N-10590",
+      "name": "Laura Loomer Influence on Trump Policy Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13401",
+        "C-13411",
+        "C-13422"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10598",
+      "ref": "N-10598",
+      "name": "Lance Twiggs Federal Asset Question",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13442"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10604",
+      "ref": "N-10604",
+      "name": "Victor Marx Background Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13439"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10607",
+      "ref": "N-10607",
+      "name": "UGA No-Show Security Threat Explanation Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13384",
+        "C-13385",
+        "C-13388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10608",
+      "ref": "N-10608",
+      "name": "TPUSA UGA Event Crowd-Size Failure",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13385",
+        "C-13387"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10610",
+      "ref": "N-10610",
+      "name": "Pinnacle High School Parent Boycott",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13389",
+        "C-13390",
+        "C-13391"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10616",
+      "ref": "N-10616",
+      "name": "UGA Rally Cancellation Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13384",
+        "C-13388"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10617",
+      "ref": "N-10617",
+      "name": "Secret Service Statement Verification",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13384"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10640",
+      "ref": "N-10640",
+      "name": "Trump Truth Social Tweet Authorship/Origin",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13399"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10660",
+      "ref": "N-10660",
+      "name": "Hospital \"No Neck Left\" Narrative Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13359",
+        "C-13360"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10665",
+      "ref": "N-10665",
+      "name": "Erika Kirk Educational Credentials Discrepancy",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13395"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10713",
+      "ref": "N-10713",
+      "name": "Tyler-Lance Text Message Extraction Source",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13443",
+        "C-13444",
+        "C-13445"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10770",
+      "ref": "N-10770",
+      "name": "Utah Valley Hospital File Anomaly",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13437"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-10975",
+      "ref": "N-10975",
+      "name": "Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF)",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13366",
+        "C-13367"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11149",
+      "ref": "N-11149",
+      "name": "Tyler Robinson Preliminary Hearing and Motion to Dismiss",
+      "type": "investigation_target",
+      "description": "Existing topic reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13361",
+        "C-13371",
+        "C-13375",
+        "C-13379",
+        "C-13380",
+        "C-13381",
+        "C-13433"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 7,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "InvestigationTarget",
+      "@id": "N-11218",
+      "ref": "N-11218",
+      "name": "Timpanogos Regional Hospital",
+      "type": "investigation_target",
+      "description": "Existing organization reused for new claims in this episode.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13436",
+        "C-13437"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Organization",
+      "@id": "N-11349",
+      "ref": "N-11349",
+      "name": "State Bureau of Investigations (SBI)",
+      "type": "organization",
+      "description": "Organization the host and Kathy Nester call the SBI, which holds some physical evidence the defense reviewed and which the defense says is waiting for FBI discovery.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13373",
+        "C-13374"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-924",
+      "ref": "N-924",
+      "name": "Casey DeSantis",
+      "type": "person",
+      "description": "First named by the host at 00:47:42 in episode 94. Named by the host as the subject of a Loomer claim that she was making up cancer.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13422"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Topic",
+      "@id": "N-11350",
+      "ref": "N-11350",
+      "name": "Erika Kirk Dream City Church Trump Event Appearance",
+      "type": "topic",
+      "description": "Erika Kirk's Friday appearance opening for Trump at the Dream City Church in Phoenix, set against the canceled Georgia and Pinnacle High School events.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13383",
+        "C-13386",
+        "C-13387"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 3,
+      "episode_count": 1,
+      "investigative_pressure": "high"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-925",
+      "ref": "N-925",
+      "name": "Roger Stone",
+      "type": "person",
+      "description": "First named by the host at 00:51:13 in episode 94. Named by the host as a Trump friend who she says knows about Loomer's suicidal attempts and accounts.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13431"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-926",
+      "ref": "N-926",
+      "name": "Jessica Tarlov",
+      "type": "person",
+      "description": "First named by the host at 00:34:38 in episode 94. Named in the Truth Social post the host reads as the person Trump says he was watching.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13397",
+        "C-13398"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 2,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
+      "@id": "N-927",
+      "ref": "N-927",
+      "name": "Jack Dorsey",
+      "type": "person",
+      "description": "First named by the host at 00:36:39 in episode 94. Named by the host as the head of Twitter when Loomer lost her checkmark.",
+      "related_artifacts": [],
+      "related_claims": [
+        "C-13402"
+      ],
+      "tags": [],
+      "evidence_count": 0,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
     }
   ],
   "claims": [
@@ -1551,7 +2685,2508 @@
       "mentions_person_refs": [
         "N-2"
       ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13346",
+      "ref": "C-13346",
+      "label": "Host Says Trump Tweeted About Her From Air Force One After the Show Went Off Air Friday",
+      "claim": "The host says that after the show went off air on Friday, Trump tweeted about her from Air Force One, with two tweets calling her a nobody and four tweets about her in total.",
+      "anchored_artifacts": [
+        "A-1995.1"
+      ],
+      "related_nodes": [
+        "N-10587"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Pull the Truth Social timeline for Friday and the preceding days and count the posts that name or clearly target the host.",
+      "transcript_snippet": "Two tweets from the leader of the free world about how I am a nobody. I think that's four tweets in total.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13347",
+      "ref": "C-13347",
+      "label": "Host Says Feds Led Rookie Officers to the Rifle After the Bomb Dogs Had Searched the Area",
+      "claim": "The host says the rifle was found after federal agents led rookie police officers to it once the bomb dogs had already searched that area, and that the bomb dogs had failed to detect it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10360"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:00:01",
+      "investigative_direction": "Obtain the incident log, K-9 deployment records and bodycam for the rifle discovery to establish who located it, when, and whether the area had been searched by dogs first.",
+      "transcript_snippet": "The one that the feds led the police officers to, the rookie police officers to, after the dogs had already searched that particular area.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13348",
+      "ref": "C-13348",
+      "label": "Host Says a Courthouse Sleuth Recorded Tyler Robinson's Grandfather Talking With Elizabeth Lane",
+      "claim": "The host says a sleuth at the courthouse for a Tyler Robinson hearing recorded the grandfather in conversation with the reporter Elizabeth Lane, and sent her the recording.",
+      "anchored_artifacts": [
+        "A-1993.1"
+      ],
+      "related_nodes": [
+        "N-10632"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:01:20",
+      "investigative_direction": "Ask Lane to confirm the conversation took place and its date; identify the hearing break from the court schedule.",
+      "transcript_snippet": "a sleuth contacted me from the courthouse of a Tyler Robinson hearing. They had recorded.",
+      "mentions_person_refs": [
+        "N-40",
+        "N-6"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13349",
+      "ref": "C-13349",
+      "label": "Host Says Lane Told Her She Had Already Spoken Publicly About Her Conversation With the Grandfather",
+      "claim": "The host says she alerted Elizabeth Lane that she had the recording and intended to use it, and that Lane replied she had already spoken about her conversation with the grandfather.",
+      "anchored_artifacts": [
+        "A-1993.1"
+      ],
+      "related_nodes": [
+        "N-10632"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:02:02",
+      "investigative_direction": "Find Lane's own account of the exchange and compare it with the recording.",
+      "transcript_snippet": "Uh she said that she had already sort of spoken about her conversation with him.",
+      "mentions_person_refs": [
+        "N-6",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13350",
+      "ref": "C-13350",
+      "label": "Host Says Online Lawyers Claimed the Robinson Family Turned Him In After Recognizing Grandpa's Gun",
+      "claim": "The host recounts that many lawyers on the internet have said Tyler Robinson's family does not support him and instead turned him in, and says the parent recognized grandpa's gun on the news.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:02",
+      "investigative_direction": "Identify the lawyers who made the claim and the original source (sheriff statement, court filing or press report) for the turn-in account.",
+      "transcript_snippet": "we have been told by many lawyers on the internet that Tyler Robinson's family does not support to the contrary they turned him in, remember?",
+      "supports_claim_refs": [
+        "C-10698"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13351",
+      "ref": "C-13351",
+      "label": "Host Says the News Did Not Release a Photo of Grandpa's Gun, Only One That Looked Similar",
+      "claim": "The host says the news did not actually release a photo of the grandfather's gun and instead released a photo of something similar, which she says undercuts the story that the family recognized it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:02",
+      "investigative_direction": "Compare the rifle photos released publicly before the surrender with the rifle in evidence and establish which image the family was shown.",
+      "transcript_snippet": "the news did not actually release a photo of grandpa's gun. They just release a photo of something similar.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13352",
+      "ref": "C-13352",
+      "label": "Host Says Robinson's Father and Grandmother Do Not Believe He Did It",
+      "claim": "The host says she has told viewers from the start that Tyler Robinson's father does not believe he did it, and that his grandmother has told journalists she does not believe he did it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10022"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:47",
+      "investigative_direction": "Locate the journalists' interviews with the grandmother and any on-record statement by the father.",
+      "transcript_snippet": "That his father does not believe that he did it. His grandmother has uh spoken to journalists and she said that she does not believe that he did it.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13353",
+      "ref": "C-13353",
+      "label": "Host Says Sheriff Brooksby Admitted Robinson Was Essentially Coerced to Go In",
+      "claim": "The host says Sheriff Brooksby admitted that Tyler Robinson was essentially coerced into turning himself in.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10142",
+        "N-10021"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:47",
+      "investigative_direction": "Check Brooksby's press statements and recorded remarks for the wording the host paraphrases as coercion.",
+      "transcript_snippet": "Sheriff Brooksby did admit that rather the the truth is that Tyler Robinson was essentially coerced to go in.",
+      "mentions_person_refs": [
+        "N-276",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13354",
+      "ref": "C-13354",
+      "label": "Host Says the Family Was Told an Arrest Would Happen Either Way, With SWAT if Robinson Resisted",
+      "claim": "The host says Robinson and his family were told police would make an arrest either way, and that if he did not want a SWAT entry he should do things the easy way.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10021",
+        "N-10022"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:02:47",
+      "investigative_direction": "Obtain the sheriff's office account of the calls with the family and any warrant or planning records for an arrest team.",
+      "transcript_snippet": "He and his family were told that they were going to make an arrest either way.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13355",
+      "ref": "C-13355",
+      "label": "Host Says the Rifle Is a Family Heirloom Passed From the Grandfather to Tyler Robinson",
+      "claim": "The host says the rifle is a family heirloom that belonged to Tyler Robinson's grandfather before it was passed down to Tyler.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10632"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:03:41",
+      "investigative_direction": "Check the ATF trace and any transfer or inheritance records for the rifle.",
+      "transcript_snippet": "It's his gun, right? It's a family heirloom. It is his gun or was his gun before it was passed down to Tyler Robinson.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13356",
+      "ref": "C-13356",
+      "label": "Host Says the Grandfather Describes Himself as a Hunter",
+      "claim": "The host says that in the recording the grandfather asserts he is a hunter himself.",
+      "anchored_artifacts": [
+        "A-1993.1"
+      ],
+      "related_nodes": [
+        "N-10632"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:04:45",
+      "investigative_direction": "Listen to the unprocessed recording to confirm the grandfather's words about hunting.",
+      "transcript_snippet": "for clarity grandpa asserts that he himself is a hunter.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13357",
+      "ref": "C-13357",
+      "label": "Host Says the Grandfather Appears to Share the Grandmother's View That Tyler Was Not Capable",
+      "claim": "The host says it sounds like the grandfather shares the grandmother's opinion that Tyler Robinson did not do this and was not capable of it.",
+      "anchored_artifacts": [
+        "A-1993.1"
+      ],
+      "related_nodes": [
+        "N-10632"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:04:45",
+      "investigative_direction": "Obtain a clean copy of the recording and a direct statement from the grandfather rather than relying on a garbled hallway audio.",
+      "transcript_snippet": "It sounds like he is of the same opinion as Tyler Robinson's grandmother that he did not do this, that he was not capable of doing this.",
+      "supports_claim_refs": [
+        "C-2764"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13358",
+      "ref": "C-13358",
+      "label": "Host Says the .30-06 Also Did Not Cause Any Significant Damage",
+      "claim": "The host says that beyond the point that the .30-06 did not go through, it also did not cause any significant damage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10319"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:39",
+      "investigative_direction": "Obtain the autopsy and death certificate wound description and compare it with documented .30-06 terminal ballistics.",
+      "transcript_snippet": "But the part that you're missing is it also did not cause any significant damage.",
+      "supports_claim_refs": [
+        "C-6680"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13359",
+      "ref": "C-13359",
+      "label": "Host Says Early Hospital Calls Told People Charlie Had Almost No Neck Left, Which She Calls a Lie",
+      "claim": "The host says that people in the hospital made early phone calls saying Charlie had almost no neck left, that she and others received such calls, and that this was a huge lie.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10660",
+        "N-10319"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:39",
+      "investigative_direction": "The host declines to name the callers; ask for call logs or sworn recollections from the recipients and compare with the medical record.",
+      "transcript_snippet": "Initially, they were telling people that Charlie basically had no neck left. That was a huge lie.",
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13360",
+      "ref": "C-13360",
+      "label": "Host Says Outside the Wound Charlie Was in Very Good Shape",
+      "claim": "The host says that outside of the wound Charlie was in very good shape, which she says is not what a .30-06 would do.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10660",
+        "N-10319"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:05:39",
+      "investigative_direction": "Compare hospital and medical examiner descriptions of the neck and surrounding tissue.",
+      "transcript_snippet": "Outside of the wound Charlie was in very good shape.",
+      "supports_claim_refs": [
+        "C-6680"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13361",
+      "ref": "C-13361",
+      "label": "Host Says the Defense Told the Court Friday It Is Not Ready for the May Probable Cause Hearing",
+      "claim": "The host says that at Friday's hearing the defense told the court it is not ready to meet in May because it is not being given what it asked for.",
+      "anchored_artifacts": [
+        "A-1994.1"
+      ],
+      "related_nodes": [
+        "N-11149",
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:28",
+      "investigative_direction": "Read the continuance motion, the hearing transcript and the resulting order on the hearing date.",
+      "transcript_snippet": "No, we we we're not ready to meet in May because we're not being given what we're asking for.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13362",
+      "ref": "C-13362",
+      "label": "Host Says Erika Told Bari Weiss She Was 100 Percent Sure Tyler Robinson Was the Shooter",
+      "claim": "The host says Erika Kirk publicly represented that she was confident Tyler Robinson was the shooter and told Bari Weiss yes, 100 percent.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:06:28",
+      "investigative_direction": "Pull the CBS interview with Bari Weiss and locate the exact exchange.",
+      "transcript_snippet": "She was telling Bari Weiss, \"Yes, 100%.\"",
+      "mentions_person_refs": [
+        "N-2",
+        "N-282",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13363",
+      "ref": "C-13363",
+      "label": "Host Says Erika's Lawyer Told Her They Had Nothing More Than the Public Had",
+      "claim": "The host says that when she asked Erika for the evidence behind her certainty, Erika phoned her lawyer, who explained that they had nothing more than the public had.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:07:24",
+      "investigative_direction": "Compare with the host's earlier account of the sit-down with Erika; ask the lawyer or Erika's team whether they dispute the characterization.",
+      "transcript_snippet": "she phoned her lawyer, as I told you, and he explained that actually they had nothing nothing more than the public had.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13364",
+      "ref": "C-13364",
+      "label": "Host Says Erika's Lawyer Told Her on December 15 the State Would Find the Evidence and Then Give It to the Defense",
+      "claim": "The host says that on December 15 Erika's lawyer told her the state was in the period of going out to find evidence and would then hand it over to Tyler Robinson's team so they could prepare before the probable cause hearing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10110",
+        "N-10570"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:08:23",
+      "investigative_direction": "Establish the date and participants of the December 15 meeting and compare the described sequence with the actual discovery schedule.",
+      "transcript_snippet": "And then once they find that evidence, he told me they're going to hand it over to the defense.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13365",
+      "ref": "C-13365",
+      "label": "Host Says the FBI Is Refusing to Hand Over the Evidence the Defense Requested and Gives Only Summary Reports",
+      "claim": "The host says the defense cannot make arguments because the FBI is refusing to hand over the evidence it has requested for the probable cause hearing, and is giving only summary reports.",
+      "anchored_artifacts": [
+        "A-1994.1"
+      ],
+      "related_nodes": [
+        "N-10014",
+        "N-10202",
+        "N-10570"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:09:10",
+      "investigative_direction": "Read the defense filings and any prosecution response to the discovery demands, and check which items are summary reports versus underlying data.",
+      "transcript_snippet": "the FBI is refusing to hand over the evidence that they have been requesting for this supposed to be probable cause evidentiary hearing, okay?",
+      "mentions_person_refs": [
+        "N-69",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13366",
+      "ref": "C-13366",
+      "label": "Novak Says the Defense Does Not Know Why the ATF Took Until the Last Three Weeks and the FBI Still Has Not Produced Its Data",
+      "claim": "Richard Novak says he is aware of no reason why the ATF provided its data only within the last three weeks and why the FBI still has not provided its data.",
+      "anchored_artifacts": [
+        "A-1994.1"
+      ],
+      "related_nodes": [
+        "N-10975",
+        "N-10014",
+        "N-10570"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:02",
+      "investigative_direction": "Check the docket for the dates of the ATF and FBI productions. The caption is garbled here, so confirm the sentence against the hearing audio.",
+      "transcript_snippet": "why they provided it in the last 3 weeks, and why the FBI still hasn't.",
+      "mentions_person_refs": [
+        "N-431"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13367",
+      "ref": "C-13367",
+      "label": "Novak Quotes Mr. McBride That Two Analyses Each Reach the Same Conclusion Though They Test Different Objects in Different Labs",
+      "claim": "Novak says Mr. McBride's position is that two separate forensic comparisons are both right because each independently reaches the same conclusion, while Novak notes they test different objects in different labs with different protocols.",
+      "anchored_artifacts": [
+        "A-1994.1"
+      ],
+      "related_nodes": [
+        "N-10975",
+        "N-10014",
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:10:02",
+      "investigative_direction": "Identify Mr. McBride's role and the two examinations (ATF and FBI laboratory work) from the hearing record and the lab reports.",
+      "transcript_snippet": "Mr. McBride says, \"Oh, there's two different things, and so they're both right because they each independently reach the same conclusion, but they're testing different objects in different labs with different protocols.",
+      "mentions_person_refs": [
+        "N-431"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13368",
+      "ref": "C-13368",
+      "label": "Novak Says the Discovery Should Have Been Produced, Some of It Six Months Ago",
+      "claim": "Novak says the discovery should all have been produced, some of it six months ago, because there were DNA reports from September 2025 that Mr. Gray relied upon.",
+      "anchored_artifacts": [
+        "A-1994.1"
+      ],
+      "related_nodes": [
+        "N-10570",
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:37",
+      "investigative_direction": "Compare the date of the DNA reports with the date they were first produced to the defense on the docket.",
+      "transcript_snippet": "It should have all been produced some of it 6 months ago because we have DNA reports from September of 2025",
+      "mentions_person_refs": [
+        "N-431"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13369",
+      "ref": "C-13369",
+      "label": "Host Says Officials Announced They Had Their Man Within 33 Hours Based on Evidence the Defense Never Received",
+      "claim": "The host says officials instantly announced within 33 hours that they had their man, said they were basing it on evidence, and have for some reason been unable to get that evidence to the defense.",
+      "anchored_artifacts": [
+        "A-1994.1"
+      ],
+      "related_nodes": [
+        "N-10110",
+        "N-10570"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:11:37",
+      "investigative_direction": "Build a timeline of official statements from the shooting to the arrest and compare each with the evidence later produced.",
+      "transcript_snippet": "They instantly came out and said this is our guy, 33 hours, and they were basing it on evidence, and for some reason they were unable to get that evidence over to the defense.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13370",
+      "ref": "C-13370",
+      "label": "Host Says the Early Messages Were First Described as Discord Messages but Are Now Called Text Messages",
+      "claim": "The host says the messages released early on were first described as Discord messages but are now being described as text messages.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10013",
+        "N-10077"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:21",
+      "investigative_direction": "Collect the successive official descriptions (press conference, charging documents, search warrant) of the message platform and compare them.",
+      "transcript_snippet": "Well, of course, we were first told that those were Discord messages, but now they are text messages",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13371",
+      "ref": "C-13371",
+      "label": "Nester Says the State May Call Witnesses Uniquely Connected to Her Client and Has Given Some Names",
+      "claim": "Kathy Nester says the state has indicated it may call individuals uniquely connected to her client and has given the defense the names of some witnesses, which makes the contents of the client's phone important.",
+      "anchored_artifacts": [
+        "A-1994.2"
+      ],
+      "related_nodes": [
+        "N-10623",
+        "N-11149"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:12:21",
+      "investigative_direction": "Check the state's witness list for the probable cause hearing once filed.",
+      "transcript_snippet": "the state's indicated they may call individuals you um uniquely connected to my client.",
+      "mentions_person_refs": [
+        "N-836",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13372",
+      "ref": "C-13372",
+      "label": "Host Says the FBI Took Over Everything on September 10 and Handled All of the Interviews",
+      "claim": "The host says the FBI immediately interjected, took over everything on September 10, and handled all of the interviews.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10014",
+        "N-10202"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:07",
+      "investigative_direction": "Compare agency statements, press conferences and interview records on who conducted the witness and suspect interviews.",
+      "transcript_snippet": "the FBI immediately interjected. They took over everything on September 10th. They handled all of the interviews.",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13373",
+      "ref": "C-13373",
+      "label": "Host Says the State Bureau of Investigations Is Waiting on the FBI for Its Discovery Requests",
+      "claim": "The host says the defense explained that the SBI is waiting for the FBI, Kash Patel's agency, to send over its many discovery requests from everything gathered that day, and that the FBI is not doing so in a timely fashion.",
+      "anchored_artifacts": [
+        "A-1994.2"
+      ],
+      "related_nodes": [
+        "N-11349",
+        "N-10014",
+        "N-10570"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:14:07",
+      "investigative_direction": "Confirm the SBI's role and its requests to the FBI from the discovery correspondence and hearing record.",
+      "transcript_snippet": "the SBI is waiting for the FBI, Kash Patel's agency, to send them over their many discovery requests from everything they gathered on that day",
+      "mentions_person_refs": [
+        "N-69"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13374",
+      "ref": "C-13374",
+      "label": "Nester Says the Defense Spent Six Hours Examining the Physical Evidence the SBI Holds",
+      "claim": "Kathy Nester says the defense went to examine physical evidence this week, that it took six hours, and that they finished what the SBI has.",
+      "anchored_artifacts": [
+        "A-1994.2"
+      ],
+      "related_nodes": [
+        "N-11349",
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:15:13",
+      "investigative_direction": "Check the docket or any inspection log for the date and scope of the defense's physical evidence review.",
+      "transcript_snippet": "We went to examine physical evidence this past week um this week. We it took us 6 hours. We did finish the what the SBI has.",
+      "mentions_person_refs": [
+        "N-836"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13375",
+      "ref": "C-13375",
+      "label": "Host Says Erika's Team, Listed as the Victim, Is Arguing Against a Continuance",
+      "claim": "The host says the prosecution, which she identifies with Erika's team because Erika is listed as the victim, is arguing against a continuance.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10626",
+        "N-11149"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:08",
+      "investigative_direction": "Read the prosecution's opposition to the continuance and identify whether the victim's counsel filed separately.",
+      "transcript_snippet": "the prosecution, [clears throat] Erika's team, cuz she's listed as the victim, is arguing against a continuance.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13376",
+      "ref": "C-13376",
+      "label": "Host Says Continuances Are a Common Courtesy at This Stage and She Has Never Seen One Opposed",
+      "claim": "The host says continuances are common courtesies early in a lawsuit and that in all of her own litigation experience, even between hostile lawyers, she has never seen the date not simply moved.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10626"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:16:08",
+      "investigative_direction": "Compare with how continuances were handled in comparable Utah capital cases and the prosecution's stated grounds here.",
+      "transcript_snippet": "Continuances are basically like common courtesies when you're this early on in a lawsuit, right?",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13377",
+      "ref": "C-13377",
+      "label": "Host Says the Prosecution Agreed Early On to Adjust the Date if the Discovery Was Not Met",
+      "claim": "The host says the parties all agreed early on that they were happy to adjust the hearing date if the discovery was not met.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10626",
+        "N-10570"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:16:48",
+      "investigative_direction": "Find the scheduling order or hearing transcript where the parties agreed to flexibility on the date.",
+      "transcript_snippet": "especially since they all agreed early on that they were happy to adjust the date if they did not get the discovery met, okay?",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13378",
+      "ref": "C-13378",
+      "label": "Host Says It Was Atypical for the Prosecution Side to File to Invoke Speedy Trial Rights",
+      "claim": "The host says that the January filing was unusual because defendants, not prosecutors, usually want a speedy trial.",
+      "anchored_artifacts": [
+        "A-2006.1"
+      ],
+      "related_nodes": [
+        "N-10626"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:17:23",
+      "investigative_direction": "Retrieve the January 16 filing and find precedent for victim-initiated speedy trial invocations under Utah's victim rights provisions.",
+      "transcript_snippet": "Rarely do you hear the prosecution say, \"I'm going to file a thing that I want this to be speedy.\"",
+      "supports_claim_refs": [
+        "C-2789"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13379",
+      "ref": "C-13379",
+      "label": "Host Says Erika's Team Wants Cameras Inside the Courtroom for a Show Hearing",
+      "claim": "The host says the prosecution side wants to demand cameras inside the courtroom and deliver a show hearing while the defense cannot counter what is presented.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149",
+        "N-10626"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:39",
+      "investigative_direction": "Read any motions on courtroom cameras and media access and note which party requested them.",
+      "transcript_snippet": "They want to demand cameras inside of the courtroom, and then deliver the show trial, the show hearing of the century, right?",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13380",
+      "ref": "C-13380",
+      "label": "Host Says She Is in Contact With Many People in Utah and Believes Erika's Team Wants a Show Trial",
+      "claim": "The host says she is in contact with many people throughout Utah and believes the prosecution, meaning Erika's team, wants a show trial without having handed over critical evidence before the probable cause hearing.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149",
+        "N-10570"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:18:39",
+      "investigative_direction": "The host's sources are unnamed; compare the claim with the actual evidence produced to the defense by the hearing date.",
+      "transcript_snippet": "I am in contact with many people all throughout the state of Utah, okay? I think they want a show trial. I think Erika's team wants a show trial.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13381",
+      "ref": "C-13381",
+      "label": "Host Says Robinson, 22, Is Facing the Death Sentence",
+      "claim": "The host says Tyler Robinson is a 22-year-old facing the death sentence.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:34",
+      "investigative_direction": "Check the notice of intent to seek the death penalty in the charging documents.",
+      "transcript_snippet": "an increasingly plausibly innocent young man, 22-year-old, to his death. Okay? He is facing the death sentence.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13382",
+      "ref": "C-13382",
+      "label": "Host Alleges Journalists and Influencers Are Being Paid to Say the Evidence Is Overwhelming",
+      "claim": "The host alleges, without naming anyone, that journalists and influencers are being paid, with checks of 5K or 7K, to insist the evidence is overwhelming that Robinson did it.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:20:34",
+      "investigative_direction": "No payee is named; ask for any documented sponsorship or payment, and check disclosure statements of the commentators the host has in mind.",
+      "transcript_snippet": "they're getting paid to influence people that way. Clearing a 5K check, 7K check, I'll take it.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13383",
+      "ref": "C-13383",
+      "label": "Host Says Erika Opened for Trump at Dream City Church in Phoenix on Friday",
+      "claim": "The host says that after canceling the Georgia event Erika Kirk opened for Trump at the Dream City Church in Phoenix on Friday.",
+      "anchored_artifacts": [
+        "A-3262.1"
+      ],
+      "related_nodes": [
+        "N-11350",
+        "N-10487"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:37",
+      "investigative_direction": "Pull the event listing, the livestream and press coverage of the Dream City Church appearance and the Secret Service posture for it.",
+      "transcript_snippet": "And so she opened for Trump at the Dream City Church in Phoenix.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13384",
+      "ref": "C-13384",
+      "label": "Host Says Secret Service Told Erika She Was Perfectly Safe in Georgia and She Left Anyway",
+      "claim": "The host says Erika did not feel safe despite the Secret Service telling her she was perfectly safe in Georgia and got back on her plane even though she was already there.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10607",
+        "N-10616",
+        "N-10617"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:37",
+      "investigative_direction": "Compare the Secret Service and campus police statements with Erika's team's account and the flight records for her plane.",
+      "transcript_snippet": "she did not feel safe despite them telling her that she was perfectly safe in Georgia. She got back on her plane despite already being there.",
+      "supports_claim_refs": [
+        "C-2744"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13385",
+      "ref": "C-13385",
+      "label": "Host Says the Real Reason Erika Canceled the University of Georgia Event Was the Crowd Size",
+      "claim": "The host says that everyone knows the real reason Erika canceled the University of Georgia event was the crowd size.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10608",
+        "N-10607"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:22:37",
+      "investigative_direction": "Compare ticketing and RSVP numbers for the event with TPUSA's stated reason for canceling.",
+      "transcript_snippet": "since we all know that the real reason that she canceled the event at the University of Georgia was because of the crowd size, this makes perfect sense.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13386",
+      "ref": "C-13386",
+      "label": "Host Says Erika Walked Out to Her Preferred WWE Music",
+      "claim": "The host says Erika came onto the stage with her preferred WWE music and that the first thing she said was played on air.",
+      "anchored_artifacts": [
+        "A-3262.1"
+      ],
+      "related_nodes": [
+        "N-11350"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:23:28",
+      "investigative_direction": "Obtain the event video to identify the walk-on music and Erika's opening words.",
+      "transcript_snippet": "the very first thing that she said when she came out onto the stage with her preferred WWE music was this.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13387",
+      "ref": "C-13387",
+      "label": "Clip Has Erika Opening Her Appearance by Saying Look at This Crowd",
+      "claim": "In the clip played, the speaker says welcome and look at this crowd; the host takes this to show the appearance was about the crowd.",
+      "anchored_artifacts": [
+        "A-3262.1"
+      ],
+      "related_nodes": [
+        "N-11350",
+        "N-10608"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:24:01",
+      "investigative_direction": "Identify the full source video, confirm the speaker is Erika Kirk and place the line in sequence with the rest of her remarks.",
+      "transcript_snippet": ">> >> Welcome. Look at this crowd. >> >> That's what it's about. That is what it's about. It's about the crowd.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13388",
+      "ref": "C-13388",
+      "label": "Host Says Erika Canceled on JD Vance and Made Him Look Like a Fool",
+      "claim": "The host says Erika canceled on JD Vance, and that this made him look like a fool.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10607",
+        "N-10616"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:24:01",
+      "investigative_direction": "Check the planned Georgia event with Vance, and any public statement by Vance's office on the cancellation.",
+      "transcript_snippet": "That's why she canceled on JD and made him look like a fool.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-4"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13389",
+      "ref": "C-13389",
+      "label": "Host Says Turning Point Canceled the Pinnacle High School Appearance on Friday, the Same Day as the Trump Event",
+      "claim": "The host says Erika's Turning Point team canceled her appearance at Pinnacle High School, which had been slated for this week, on the Friday she was preparing to appear with Trump.",
+      "anchored_artifacts": [
+        "A-1996.1"
+      ],
+      "related_nodes": [
+        "N-10627",
+        "N-10610"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:24:01",
+      "investigative_direction": "Establish the email timestamp and the date of the Trump event and compare the two.",
+      "transcript_snippet": "her Turning Point team canceled her appearance at Pinnacle High School which was slated to appear was slated to occur this week. But they canceled on Friday.",
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13390",
+      "ref": "C-13390",
+      "label": "Host Says Media Reported the Pinnacle Cancellation Came From a Boycott Led by Parents, Teachers and Students",
+      "claim": "The host says the media reported that Erika canceled because of a boycott led by parents, teachers and students who do not want her at their school, rather than because of death threats.",
+      "anchored_artifacts": [
+        "A-1997.1",
+        "A-1997.2",
+        "A-1997.3"
+      ],
+      "related_nodes": [
+        "N-10610",
+        "N-10627"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:25:48",
+      "investigative_direction": "Read the three cited articles in full and check whether any attributes the cancellation to a boycott as opposed to parent and student objections.",
+      "transcript_snippet": "She canceled because there was a boycott which was led by the parents and the teachers and the students who do not want Erika Kirk at their school.",
+      "supports_claim_refs": [
+        "C-2731"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13391",
+      "ref": "C-13391",
+      "label": "Host Says She Showed Parents Organizing on Facebook and Never Asked Anyone to Boycott Erika Kirk",
+      "claim": "The host says she showed viewers last week that parents were organizing on Facebook, and that she has never asked anybody to boycott or do anything with Erika Kirk.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10610"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:26:35",
+      "investigative_direction": "Review the host's prior episode and the Facebook group posts shown, and search for any host call for a boycott.",
+      "transcript_snippet": "I showed you last week they were organizing on Facebook. I've never by the way asked anybody to boycott do anything with Erika Kirk.",
+      "supports_claim_refs": [
+        "C-2731"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13392",
+      "ref": "C-13392",
+      "label": "Host Says Joe Rogan Thinks Erika Is Weird",
+      "claim": "The host says Joe Rogan thinks Erika Kirk is weird.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:27:22",
+      "investigative_direction": "Find any Rogan remarks about Erika Kirk, on or off air.",
+      "transcript_snippet": "Maybe she'll do three hours with Joe Rogan. He thinks she's weird too",
+      "mentions_person_refs": [
+        "N-272",
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13393",
+      "ref": "C-13393",
+      "label": "Host, Voicing a Hypothetical Erika, Alleges Erika Quietly Led Early Attacks on Her and Told People Not to Attend a Catholic Event",
+      "claim": "In a hypothetical confession the host voices for Erika, the host implies Erika quietly led the early attacks against her and told people not to go to the Catholic event where the host was speaking.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:27:22",
+      "investigative_direction": "The passage is the host's sarcastic hypothetical; look for the messages or witnesses she has elsewhere cited for the early attacks and the Catholic event.",
+      "transcript_snippet": "I did actually lead all those early attacks against Candace quietly that she found out about. Yeah, I did call people fake crying and telling them not to go to the Catholic event she was speaking at.",
+      "mentions_person_refs": [
+        "N-2",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13394",
+      "ref": "C-13394",
+      "label": "Host Says Elizabeth Lane Observed That Nobody Has Accused the Clintons of Being in Love",
+      "claim": "The host says Elizabeth Lane observed that nobody has ever accused Hillary and Bill Clinton of being in love.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:29:09",
+      "investigative_direction": "Find Lane's original remark; this is a historical aside with no direct bearing on the case.",
+      "transcript_snippet": "their relationship as Elizabeth Lane said, nobody's ever accused them of being in love.",
+      "mentions_person_refs": [
+        "N-6",
+        "N-539"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13395",
+      "ref": "C-13395",
+      "label": "Host Says Erika Gives Differing Accounts of Her Graduation Honors and Nothing Has Been Proven",
+      "claim": "The host says Erika says at times that she graduated summa cum laude and at other times that she graduated with other honors, and that nothing has been proven.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10665"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:29:49",
+      "investigative_direction": "Request the registrar's confirmation of Erika's degree and honors and compare the versions in her bios and interviews.",
+      "transcript_snippet": "she says she's graduated summa laude and sometimes she says she's graduated with other honors and nothing has been proven",
+      "supports_claim_refs": [
+        "C-10278"
+      ],
+      "mentions_person_refs": [
+        "N-2"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13396",
+      "ref": "C-13396",
+      "label": "Trump Post Says He Is on Air Force One Heading to Las Vegas and Arizona on No Tax on Tips",
+      "claim": "The host reads a Truth Social post attributed to Trump saying he is on Air Force One heading to Las Vegas and Arizona for greetings and speeches on no tax on tips.",
+      "anchored_artifacts": [
+        "A-1995.1"
+      ],
+      "related_nodes": [
+        "N-10587"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:38",
+      "investigative_direction": "Verify the post on Truth Social and match its time to Trump's schedule that day.",
+      "transcript_snippet": "I'm on Air Force One heading to Las Vegas and Arizona for greetings and speeches on no tax on tips, a windfall for our great American citizens.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13397",
+      "ref": "C-13397",
+      "label": "Trump Post Calls Jessica Tarlov One of the Least Attractive and Talented People on Television",
+      "claim": "The Truth Social post the host reads says Trump is watching one of the least attractive and talented people on television, Jessica Tarlov, and that he turned her off.",
+      "anchored_artifacts": [
+        "A-1995.1"
+      ],
+      "related_nodes": [
+        "N-10587"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:34:38",
+      "investigative_direction": "Verify the post text on Truth Social.",
+      "transcript_snippet": "I'm watching one of the least attractive and talented people on all of television, Jessica Tarlov.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-926"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13398",
+      "ref": "C-13398",
+      "label": "Trump Post Says CNN Had Him at 100 Percent and Calls for Tarlov to Be Taken Off Air",
+      "claim": "The post the host reads says CNN had Trump at 100 percent saying they never saw that before, and calls for Jessica Tarlov to be taken off air.",
+      "anchored_artifacts": [
+        "A-1995.1"
+      ],
+      "related_nodes": [
+        "N-10587"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:29",
+      "investigative_direction": "Check the CNN poll Trump refers to.",
+      "transcript_snippet": "CNN had me at 100% saying they never saw that before. Get her off air, she is bad for our country.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-926"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13399",
+      "ref": "C-13399",
+      "label": "Host Says Trump Is Not Writing These Posts and It Is Not How He Speaks",
+      "claim": "The host says Trump is definitely not writing these posts, that it is not how he speaks, and that someone else has access to the feed.",
+      "anchored_artifacts": [
+        "A-1995.1"
+      ],
+      "related_nodes": [
+        "N-10640",
+        "N-10587"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:29",
+      "investigative_direction": "Compare the post style with verified Trump speech and with any reporting on who drafts and posts to his Truth Social account.",
+      "transcript_snippet": "He's definitely not writing these. Just so you guys, this isn't even how he speaks.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13400",
+      "ref": "C-13400",
+      "label": "Host Says the Follow-up Post Mentioned Megyn Kelly Again Without Naming Her",
+      "claim": "The host says Trump's follow-up post mentioned Megyn Kelly again, but she was not named that time.",
+      "anchored_artifacts": [
+        "A-1995.2"
+      ],
+      "related_nodes": [
+        "N-10587"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:35:29",
+      "investigative_direction": "Read the second post in full and check how Kelly is referred to.",
+      "transcript_snippet": "He mentioned Megyn Kelly again. She didn't get a name that time.",
+      "mentions_person_refs": [
+        "N-5",
+        "N-46"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13401",
+      "ref": "C-13401",
+      "label": "Host Says Laura Loomer Claims to Be Trump's Number One Adviser and Speaks to Him Almost Daily",
+      "claim": "The host says Laura Loomer claims she is Trump's number one adviser and speaks to him almost daily.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10590"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:39",
+      "investigative_direction": "Find Loomer's own statements of the claim and independent reporting on her access to Trump.",
+      "transcript_snippet": "Laura Loomer claims she is his number one adviser and she speaks to him almost daily.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13402",
+      "ref": "C-13402",
+      "label": "Host Says She Met Loomer Years Ago on a Plane to a David Horowitz Center Event While Loomer Was Crying Over Her Twitter Checkmark",
+      "claim": "The host says she met Laura Loomer years ago on the same plane on the way to one of her first events at the David Horowitz Center, and Loomer was crying because Twitter had removed her checkmark in the Jack Dorsey era.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:36:39",
+      "investigative_direction": "Check the date of the event and of Loomer's loss of verification to place the encounter.",
+      "transcript_snippet": "I was on the way to do one of my first events, the David Horowitz Center, and we happened to be on the same plane. She was crying because Twitter had removed her checkmark. This was back when Jack Dorsey had it.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-60",
+        "N-197",
+        "N-927"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13403",
+      "ref": "C-13403",
+      "label": "Host Says She Once Gave Loomer a Ride Home After a Procedure and Never Shared the Story Before",
+      "claim": "The host says she once picked up Laura Loomer after a procedure because Loomer had no friends to help, living in a rented basement in Westchester, and that she never shared the story before.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:37:54",
+      "investigative_direction": "Personal anecdote about a public figure's private life; no document exists to check.",
+      "transcript_snippet": "she didn't have any friends that could take her to go get her wisdom teeth out and she asked me if I could pick her up, right?",
+      "mentions_person_refs": [
+        "N-3",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13404",
+      "ref": "C-13404",
+      "label": "Host Says Loomer's Jewish Identity Was Made Up Around 2019 and She Told the Host She Is Not Jewish",
+      "claim": "The host says Loomer's identity as a feisty Jew is something she made up around 2019 and that Loomer told the host she was not Jewish.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10630"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:35",
+      "investigative_direction": "Compare against Loomer's earlier public statements; note the host elsewhere dates her chaining to Twitter headquarters in a Star of David to 2018.",
+      "transcript_snippet": "Her entire identity as being a feisty Jewess is something that she made up around 2019. She told me that she was not Jewish.",
+      "supports_claim_refs": [
+        "C-8673"
+      ],
+      "mentions_person_refs": [
+        "N-60",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13405",
+      "ref": "C-13405",
+      "label": "Host Says Loomer Was Not Raised in Temple or Bat Mitzvahed and That Judaism Is Matrilineal",
+      "claim": "The host says Loomer was not raised in a temple and was not bat mitzvahed, and that because Judaism is matrilineal and Loomer's mother is not Jewish she does not qualify.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10630"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:35",
+      "investigative_direction": "Seek Loomer's own account of her upbringing and any records of religious observance.",
+      "transcript_snippet": "Judaism is matrilineal. She did not She was not raised in temple. She was not bat mitzvah.",
+      "supports_claim_refs": [
+        "C-9571"
+      ],
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13406",
+      "ref": "C-13406",
+      "label": "Host Says Loomer Only Learned to Draw a Star of David a Couple of Years Ago While Running for Congress",
+      "claim": "The host says Loomer only learned how to draw a Star of David a couple of years ago when she was running for Congress, and plays a clip.",
+      "anchored_artifacts": [
+        "A-1999.1"
+      ],
+      "related_nodes": [
+        "N-10630"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:38:35",
+      "investigative_direction": "Establish the clip's date and source and see whether the drawing shows what the host says it does.",
+      "transcript_snippet": "She only learned how to draw a Star of David a couple of years ago when she was running for Congress.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13407",
+      "ref": "C-13407",
+      "label": "Host Says Loomer Was Placed on Two Involuntary Psychiatric Holds by Her Own Father and Is Barred From Owning Weapons",
+      "claim": "The host says Loomer cannot buy or own weapons because she was placed on two involuntary psychiatric holds by her own father, who allegedly is very fearful of her.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10628"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:25",
+      "investigative_direction": "The host presents this as an allegation; seek court or agency records, which are normally sealed, or a statement from Loomer.",
+      "transcript_snippet": "she was placed on two involuntary psychiatric holds by her own father, who allegedly is very fearful of her.",
+      "supports_claim_refs": [
+        "C-8671",
+        "C-5121"
+      ],
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13408",
+      "ref": "C-13408",
+      "label": "Host Says Loomer Has Had Multiple Suicide Attempts",
+      "claim": "The host says Loomer has had multiple suicide attempts.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10628"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:25",
+      "investigative_direction": "Health information is not independently verifiable from public records; treat as an unverified allegation unless Loomer or a documented source confirms it.",
+      "transcript_snippet": "Uh because she has had multiple suicide attempts.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13409",
+      "ref": "C-13409",
+      "label": "Host Says Loomer Appealed to the FBI to Reverse the Weapons Ban and Was Declined",
+      "claim": "The host says Loomer recently tried to file an appeal with the FBI to reverse the ban on her owning weapons, and the FBI declined to remove it.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10628",
+        "N-10014"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:25",
+      "investigative_direction": "The host gives no document; ask for the FBI NICS appeal denial letter if it exists.",
+      "transcript_snippet": "She attempted uh recently to file an appeal with the FBI uh to reverse the banning on her owning weapons, and they declined to remove it",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13410",
+      "ref": "C-13410",
+      "label": "Host Says Milo Yiannopoulos Was Loomer's Former Campaign Manager",
+      "claim": "The host says Milo Yiannopoulos is Loomer's former campaign manager and wrote and published a piece about her that she says everybody should read.",
+      "anchored_artifacts": [
+        "A-2000.1"
+      ],
+      "related_nodes": [
+        "N-10628"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:39:25",
+      "investigative_direction": "Confirm Yiannopoulos's actual role in Loomer's campaigns from campaign filings; he describes himself in the audio as helping run the 2020 campaign.",
+      "transcript_snippet": "according to her former campaign manager, Milo Yiannopoulos, who she has never sued and simply blocks, he wrote and published a piece which should be read by everybody.",
+      "mentions_person_refs": [
+        "N-224",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13411",
+      "ref": "C-13411",
+      "label": "Host Says People in Melania's Circle Believe Loomer Is the Person Most Likely to Harm Trump",
+      "claim": "The host says she is told by people in Melania Trump's circle that they believe the person most likely to harm Donald Trump would be Laura Loomer.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10590"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:54",
+      "investigative_direction": "The sources are unnamed; the host would need to identify or corroborate the people in Melania's circle.",
+      "transcript_snippet": "I am told by people in Melania's circle that they believe, like, yeah, actually the most likely person to harm Donald Trump would be Laura Loomer",
+      "mentions_person_refs": [
+        "N-607",
+        "N-60",
+        "N-5"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13412",
+      "ref": "C-13412",
+      "label": "Host Says Loomer Often Threatens Suicide When She Does Not Get What She Wants",
+      "claim": "The host says Loomer often says she is going to commit suicide as a threat when she does not get what she wants.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10628"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:54",
+      "investigative_direction": "No document is cited; treat as an unverified allegation absent a named source.",
+      "transcript_snippet": "uh she often says that she's going to commit suicide as a threat when she doesn't get what she wants.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13413",
+      "ref": "C-13413",
+      "label": "Host Says Loomer Has Been Repeatedly Accused Since the Start of Her Career of Sexually Assaulting Men",
+      "claim": "The host says Loomer has been repeatedly accused since the beginning of her career of raping and sexually assaulting men.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10629"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:40:54",
+      "investigative_direction": "List the named accusers and the dates and venues of each public accusation, and any responses by Loomer.",
+      "transcript_snippet": "has been repeatedly accused since the beginning of her career of raping and sexually assaulting men.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13414",
+      "ref": "C-13414",
+      "label": "Host Identifies Alan Jacoby as the Founder of Patriot Cigar Who Tweeted About Loomer 10 Days Earlier",
+      "claim": "The host says Alan Jacoby is the founder of Patriot Cigar and tweeted about Laura Loomer 10 days before the episode.",
+      "anchored_artifacts": [
+        "A-1998.1"
+      ],
+      "related_nodes": [
+        "N-10629"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:41:44",
+      "investigative_direction": "Retrieve the tweet with its date and confirm Jacoby's identity as Patriot Cigar's founder.",
+      "transcript_snippet": "he is the founder of Patriot Cigar, and he just tweeted this 10 days ago.",
+      "mentions_person_refs": [
+        "N-432",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13415",
+      "ref": "C-13415",
+      "label": "Jacoby's Tweet Says Loomer Grabbed His Crotch and Demanded He Come to Her New York Hotel Room",
+      "claim": "In the tweet the host reads, Alan Jacoby says Loomer groped him in the parking lot, grabbing his crotch, and demanded he come back to her New York City hotel room for sexual activities.",
+      "anchored_artifacts": [
+        "A-1998.1"
+      ],
+      "related_nodes": [
+        "N-10629"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:41:44",
+      "investigative_direction": "Verify the tweet text and any response or legal filing by Loomer.",
+      "transcript_snippet": "grabbing my crotch very aggressively, and demanding that I come back to her New York City hotel room to engage in some vile, descriptive sexual activities.",
+      "supports_claim_refs": [
+        "C-2779"
+      ],
+      "mentions_person_refs": [
+        "N-432",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13416",
+      "ref": "C-13416",
+      "label": "Host Says Milo Claims He Can Prove the Brazilian Volunteer Account Through Many Messages",
+      "claim": "The host says Milo Yiannopoulos is not merely alleging the assault on a young Brazilian man who worked on the campaign, but claims it is a fact he can prove through many messages.",
+      "anchored_artifacts": [
+        "A-2000.2"
+      ],
+      "related_nodes": [
+        "N-10629"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:44:06",
+      "investigative_direction": "Ask Yiannopoulos to produce the messages or have them authenticated, with the volunteer's consent.",
+      "transcript_snippet": "And he's not alleging here, okay? He claims that it is a fact that he can prove through many messages.",
+      "supports_claim_refs": [
+        "C-2782"
+      ],
+      "mentions_person_refs": [
+        "N-224",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13417",
+      "ref": "C-13417",
+      "label": "Milo Says Loomer Used to Force Herself on Young Male Volunteers, Going to Their Beds at Night",
+      "claim": "In the audio, Milo Yiannopoulos says Loomer used to force herself on young male volunteers aged 20 or 21, going to them in the middle of the night.",
+      "anchored_artifacts": [
+        "A-2000.2"
+      ],
+      "related_nodes": [
+        "N-10629"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:44:53",
+      "investigative_direction": "Locate the original podcast or interview the audio comes from and its date.",
+      "transcript_snippet": "she she used to force herself on um young male volunteers, uh 20 21-year-olds. And she would go in the middle of the night.",
+      "supports_claim_refs": [
+        "C-2782"
+      ],
+      "mentions_person_refs": [
+        "N-224",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13418",
+      "ref": "C-13418",
+      "label": "Milo Says He Lived in the Pool House With the Volunteer in 2020 and the Volunteer Did Not Know How to Make It Stop",
+      "claim": "In the audio, Milo Yiannopoulos says he lived in the pool house with the volunteer in 2020, who did not know how to make it stop, and who came to him every day asking how to make it stop.",
+      "anchored_artifacts": [
+        "A-2000.2"
+      ],
+      "related_nodes": [
+        "N-10629"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:45:37",
+      "investigative_direction": "Check Milo's residence and role during the 2020 campaign against campaign records and local reporting.",
+      "transcript_snippet": "I lived in the pool house with with her um victim in 2020, who didn't know how to make it stop.",
+      "supports_claim_refs": [
+        "C-2782"
+      ],
+      "mentions_person_refs": [
+        "N-224",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13419",
+      "ref": "C-13419",
+      "label": "Milo Says He Helped Run Loomer's 2020 Congressional Campaign",
+      "claim": "In the audio, Milo Yiannopoulos says the young Brazilian volunteer was on Loomer's 2020 congressional campaign and that he knows because he helped run that campaign.",
+      "anchored_artifacts": [
+        "A-2000.2"
+      ],
+      "related_nodes": [
+        "N-10629"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:45:37",
+      "investigative_direction": "Compare with campaign filings and with Milo's other statements about being only loosely allied with Loomer.",
+      "transcript_snippet": "He was a young uh Brazilian volunteer on her 2020 congressional campaign. I know because I helped to run that campaign, okay?",
+      "mentions_person_refs": [
+        "N-224",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13420",
+      "ref": "C-13420",
+      "label": "Host Says Women Have Also Spoken Out That Loomer Assaulted Many Men",
+      "claim": "The host says there are women who have spoken out and said that it is real and that Loomer has assaulted many men.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10629"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:52",
+      "investigative_direction": "The host names none of the women; identify them and the statements.",
+      "transcript_snippet": "There are women who have spoken out and said that they that this is real, that she has assaulted many men.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13421",
+      "ref": "C-13421",
+      "label": "Host Says Loomer Has Never Sued the People Who Published These Allegations and Just Blocks Them",
+      "claim": "The host says Loomer has never sued any of the people who put this information out and instead just blocks them.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10629"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:46:52",
+      "investigative_direction": "Search federal and state dockets for suits by Loomer against Yiannopoulos, Jacoby or others who made these accusations.",
+      "transcript_snippet": "she has never sued any of these people for putting this information out there. Instead, she just blocks them.",
+      "mentions_person_refs": [
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13422",
+      "ref": "C-13422",
+      "label": "Host Says Loomer Said Casey DeSantis Was Making Up Cancer and Trump's Campaign Found That Useful",
+      "claim": "The host says Loomer, when DeSantis was running, said things like Casey DeSantis is making up cancer, and that Trump and his campaign found that quite useful.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10590"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:47:42",
+      "investigative_direction": "Find Loomer's posts about Casey DeSantis's illness during the 2023-24 primary and any evidence on the Trump campaign's use of them.",
+      "transcript_snippet": "Like she did when DeSantis was running, and Trump and his campaign found it to be quite useful when she said things like Casey DeSantis is making up cancer.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-5",
+        "N-924"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13423",
+      "ref": "C-13423",
+      "label": "Host Says Loomer Released AI-Generated Photos of the Host's Husband to Claim He Is Gay",
+      "claim": "The host says Loomer made up and released AI photos of the host's husband and tried to pass them off as authentic to claim he is gay.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:47:42",
+      "investigative_direction": "Archive Loomer's posts with the images and run provenance and AI-detection analysis.",
+      "transcript_snippet": "Making up AI photos and releasing them of my husband, literal AI photos, and trying to pass them off as authentic so she can make a claim that he's gay.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-60",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13424",
+      "ref": "C-13424",
+      "label": "Host Says Loomer Accused the Host and Her Husband of Being Separated That Weekend",
+      "claim": "The host says Loomer accused the host and her husband of being separated over the past weekend.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:47:42",
+      "investigative_direction": "Archive Loomer's weekend posts making the separation claim.",
+      "transcript_snippet": "Accusing us of being separated, like she did this weekend.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-60",
+        "N-30"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13425",
+      "ref": "C-13425",
+      "label": "Loomer's Post Describes George Farmer as a Green Card Holder in Nashville",
+      "claim": "In the post the host reads, Loomer calls the host's husband, George Farmer, a green card holder in Nashville, Tennessee, where the host lives.",
+      "anchored_artifacts": [
+        "A-2002.1"
+      ],
+      "related_nodes": [
+        "N-10631"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:48:26",
+      "investigative_direction": "Immigration status is not public record; look for any statement by Farmer or his representatives.",
+      "transcript_snippet": "while he was allegedly driving drunk with an alleged firearm in his possession as a green card holder in Nashville, Tennessee, where you live?",
+      "mentions_person_refs": [
+        "N-30",
+        "N-3",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13426",
+      "ref": "C-13426",
+      "label": "Host Says She Has Never Met Tracy Robinson and Learned His Name When Loomer Dug Up the Payment",
+      "claim": "The host says she has never met or known Tracy Robinson and learned the name when Loomer dug up the fact that her insurance paid a Tracy Robinson.",
+      "anchored_artifacts": [
+        "A-2003.1"
+      ],
+      "related_nodes": [
+        "N-10631"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:49:11",
+      "investigative_direction": "Pull the court or insurance record that shows the payee and compare with the host's account.",
+      "transcript_snippet": "I've never met Tracy Robinson. I don't know Tracy Robinson.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13427",
+      "ref": "C-13427",
+      "label": "Host Says Her Insurance Did Pay Tracy Robinson $6,987",
+      "claim": "The host acknowledges that her insurance paid a Tracy Robinson $6,987 and that this can be found in Nashville courts.",
+      "anchored_artifacts": [
+        "A-2003.1"
+      ],
+      "related_nodes": [
+        "N-10631"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:49:11",
+      "investigative_direction": "Retrieve the underlying Davidson County filing and the insurer's payment record.",
+      "transcript_snippet": "when Laura dug up the fact that my insurance did pay a Tracy Robinson $6,987.",
+      "supports_claim_refs": [
+        "C-2785"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13428",
+      "ref": "C-13428",
+      "label": "Host Says the Incident Was a Parking Lot Fender Bender on a Rainy Day Around Noon",
+      "claim": "The host says her husband got into a fender bender pulling out of a parking lot on a rainy day in broad daylight at about noon.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10631"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:08",
+      "investigative_direction": "Obtain the accident report if one exists, or the court filings describing the date, location and circumstances.",
+      "transcript_snippet": "my husband got into a fender bender pulling out of a parking lot on a rainy day in broad daylight about noon, I think it was.",
+      "mentions_person_refs": [
+        "N-30",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13429",
+      "ref": "C-13429",
+      "label": "Host Says There Was No Drinking, No DUI and No Police Called",
+      "claim": "The host says there was no drinking involved, no DUI involved and no police called to the fender bender.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10631"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:08",
+      "investigative_direction": "Check for any police report, citation or charge in Davidson County records for the date in question.",
+      "transcript_snippet": "There was no drinking involved, there was no DUI involved, there were no police called.",
+      "mentions_person_refs": [
+        "N-30",
+        "N-60"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13430",
+      "ref": "C-13430",
+      "label": "Host Says the Other Driver Later Claimed Whiplash and the Insurer Paid $6,987",
+      "claim": "The host says the other driver, Tracy, decided a couple of days later that he had post-whiplash disorder, went to a doctor, and that they paid a total of $6,987.",
+      "anchored_artifacts": [
+        "A-2003.1"
+      ],
+      "related_nodes": [
+        "N-10631"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:50:08",
+      "investigative_direction": "Review the claim file and any court record for the injury claim and settlement.",
+      "transcript_snippet": "a couple of days later Tracy decided he had post-whiplash disorder, went to the doctor, and we had to pay a grand total of $6,987.",
+      "supports_claim_refs": [
+        "C-2785"
+      ],
+      "mentions_person_refs": [
+        "N-30",
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13431",
+      "ref": "C-13431",
+      "label": "Host Tells Trump to Ask Roger Stone About Loomer's Suicide Attempts and the Accounts She Operates",
+      "claim": "The host says Trump should speak to his friend Roger Stone about Loomer's suicidal attempts, what she says and does, and the accounts she operates behind the scenes.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10628"
+      ],
+      "tags": [
+        "relevance:context"
+      ],
+      "claim_timestamp": "00:51:13",
+      "investigative_direction": "Ask Stone directly; the host gives no evidence for the accounts allegedly operated behind the scenes.",
+      "transcript_snippet": "You should speak to your friend Roger Stone about uh, her suicidal attempts and the things that she says and the things that she does and the accounts that she operates behind the scenes.",
+      "mentions_person_refs": [
+        "N-60",
+        "N-5",
+        "N-925"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13432",
+      "ref": "C-13432",
+      "label": "Host Says Charlie Was Putting Pieces Together in His Last Week but Still Trusted People He Should Not Have",
+      "claim": "The host says that in the last week of his life Charlie Kirk was starting to put together a lot of pieces, but still trusted some people he obviously should not have.",
+      "anchored_artifacts": [
+        "A-2005.1"
+      ],
+      "related_nodes": [],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:54:44",
+      "investigative_direction": "Ask the host which people and pieces she means and what documents or messages from that week support it.",
+      "transcript_snippet": "I think he uh, in the last week of his life, he was starting to put together a lot of pieces. Uh, but still some trusted some people that he obviously shouldn't have.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13433",
+      "ref": "C-13433",
+      "label": "Host Says the Hearings Have Not Yet Presented What Tyler Robinson Actually Did",
+      "claim": "The host says that what Tyler Robinson actually did has certainly not yet been presented throughout the hearings.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-11149",
+        "N-10110"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:54:44",
+      "investigative_direction": "Review what was presented at each public hearing and compare it with the charging document.",
+      "transcript_snippet": "What did Tyler Robinson do actually? We're trying to find out and it certainly has not yet been presented throughout these hearings.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13434",
+      "ref": "C-13434",
+      "label": "Host Says Multiple Tyler Robinson Look-Alikes in Maroon Shirts Explain the Grainy Footage",
+      "claim": "The host offers as her conspiracy theory that there were multiple Tyler Robinson look-alikes wearing maroon shirts and hats that day, and that authorities will never show a clear picture of the real Robinson.",
+      "anchored_artifacts": [
+        "A-2005.5"
+      ],
+      "related_nodes": [
+        "N-10633",
+        "N-10168"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:56:40",
+      "investigative_direction": "Request all UVU campus video and compare the maroon-shirt individuals frame by frame; the host calls this her own theory.",
+      "transcript_snippet": "I think there were multiple Tyler Robinson look-alikes and um, they were wearing maroon shirts and wearing hats and wearing what they were supposed to wear",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13435",
+      "ref": "C-13435",
+      "label": "Host Says She Is Told the Footage From the Run-Up to September 10 Does Not Exist",
+      "claim": "The host says she heard a rumor that footage from the days and weeks leading up to September 10, which police wanted to check for reconnaissance on the roof, apparently does not exist.",
+      "anchored_artifacts": [
+        "A-2005.5"
+      ],
+      "related_nodes": [
+        "N-10635",
+        "N-10271"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:24",
+      "investigative_direction": "File records requests for UVU and city camera retention policies and any investigative request for pre-September 10 footage.",
+      "transcript_snippet": "And that footage apparently doesn't exist either because they had speculated that someone would have had to do some recon, maybe be on this roof.",
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13436",
+      "ref": "C-13436",
+      "label": "Host Wonders Whether the Feds Took the Inside Footage of Timpanogos Hospital",
+      "claim": "The host says she is trying to understand whether the missing footage was taken by the feds as they took the inside of Timpanogos Hospital's footage.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10239",
+        "N-11218"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:24",
+      "investigative_direction": "Obtain hospital records of any federal seizure of camera footage and a chain-of-custody log.",
+      "transcript_snippet": "I'm trying to understand if that means that it was taken by the feds as they took the inside of Timpanogos Hospital's footage for some reason.",
+      "supports_claim_refs": [
+        "C-1666"
+      ],
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13437",
+      "ref": "C-13437",
+      "label": "Host Says There Is Evidence Charlie Went to Utah Valley Hospital First",
+      "claim": "The host says there is evidence that Charlie Kirk actually went to Utah Valley Hospital first, which she suggests may explain why the Timpanogos footage was taken.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10770",
+        "N-11218"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "00:57:24",
+      "investigative_direction": "Compare ambulance and dispatch records with hospital arrival logs for both hospitals.",
+      "transcript_snippet": "Maybe because he didn't go there first, maybe because there's evidence that Charlie actually went to Utah Valley Hospital first.",
+      "mentions_person_refs": [
+        "N-1"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13438",
+      "ref": "C-13438",
+      "label": "Host Says She Believes We Are in the Truth Era and Liars Face a Collapse of Support",
+      "claim": "The host says she thinks we are in the truth era and that people who are lying will face a collapse of support.",
+      "anchored_artifacts": [],
+      "related_nodes": [],
+      "tags": [
+        "relevance:tangential"
+      ],
+      "claim_timestamp": "00:57:24",
+      "investigative_direction": "Opinion about public sentiment rather than a checkable fact; recorded as said.",
+      "transcript_snippet": "I think that we are we are in the truth era and people that are lying are going to face a collapse of support.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13439",
+      "ref": "C-13439",
+      "label": "Host Endorses a Viewer's Claim That the First Person to Leak Kirk's Death Is a Licensed Gun Dealer With a Shady Past",
+      "claim": "Responding to a viewer comment, the host says she has not let up on Victor Marx and tells the commenter that it is correct that his background is shady.",
+      "anchored_artifacts": [
+        "A-2005.9"
+      ],
+      "related_nodes": [
+        "N-10636",
+        "N-10604"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:00:40",
+      "investigative_direction": "Pull the primary evidence on the timing of Marx's first announcement and his federal firearms license from ATF records.",
+      "transcript_snippet": "We have not let up on Victor Marx more on that. You are correct it is shady",
+      "supports_claim_refs": [
+        "C-2748",
+        "C-2749"
+      ],
+      "mentions_person_refs": [
+        "N-345"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13440",
+      "ref": "C-13440",
+      "label": "Host Says She Believes Robinson's Roommate Is One of the People Walking That Day and Will Appear as a Blurred Image",
+      "claim": "Responding to a viewer comment about Tyler Robinson's roommate, the host says she believes the roommate is one of the people walking that day, in an image that will be blurred.",
+      "anchored_artifacts": [
+        "A-2005.10"
+      ],
+      "related_nodes": [
+        "N-10634",
+        "N-10168"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:00:40",
+      "investigative_direction": "Compare the roommate's whereabouts that day against the campus video and any statements he made to investigators.",
+      "transcript_snippet": "I believe he's one of the people that's walking that day. That is going to be a blurred image.",
+      "supports_claim_refs": [
+        "C-2788"
+      ],
+      "mentions_person_refs": [
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13441",
+      "ref": "C-13441",
+      "label": "Host Says She Spoke With Lance Twiggs's Family",
+      "claim": "The host says she has spoken with Lance Twiggs's family.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10034"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:00:40",
+      "investigative_direction": "Identify the family members and the earlier episodes where the host described these conversations.",
+      "transcript_snippet": "Yep and don't forget I spoke with Lance Twiggs family.",
+      "mentions_person_refs": [
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13442",
+      "ref": "C-13442",
+      "label": "Host Says Lance's Family Thinks It Was Wrong That He Was Not Questioned and Was Let Go Immediately",
+      "claim": "The host says Lance Twiggs's family thinks there was something wrong with the fact that he was not questioned and was immediately let go.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10034",
+        "N-10598"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:01:45",
+      "investigative_direction": "Find the interview records of Lance Twiggs and the dates he was questioned, released or not detained.",
+      "transcript_snippet": "They think that there was something wrong with the fact that he was not questioned that he was a question of an immediate let go",
+      "supports_claim_refs": [
+        "C-4880"
+      ],
+      "mentions_person_refs": [
+        "N-54"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13443",
+      "ref": "C-13443",
+      "label": "Host Asks Why the State Never Sends the Timestamps for the Text Messages",
+      "claim": "The host, asking why the state never wants to send the timestamps, implies that the text messages have been released without timestamps and says getting the phone data is important to see what time the messages went out.",
+      "anchored_artifacts": [],
+      "related_nodes": [
+        "N-10077",
+        "N-10713"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:01:45",
+      "investigative_direction": "Check the charging documents and exhibits for message timestamps and the metadata from the phone extractions.",
+      "transcript_snippet": "Why do they never want to send the timestamps?",
+      "supports_claim_refs": [
+        "C-6696"
+      ],
+      "mentions_person_refs": [
+        "N-54",
+        "N-40"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13444",
+      "ref": "C-13444",
+      "label": "Host Says Her Producer Discovered That the Text Messages Are Being Slightly Edited",
+      "claim": "The host says her producer discovered that the authorities are making slight edits to the text messages, with details promised for the next day's episode.",
+      "anchored_artifacts": [
+        "A-3263.1"
+      ],
+      "related_nodes": [
+        "N-10077",
+        "N-10713"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:01:45",
+      "investigative_direction": "Watch the next episode for the producer's comparison of the original and the later versions, and collect each version of the messages as released.",
+      "transcript_snippet": "Also tomorrow we will have for you that my producer discovered that they're making slight edits to the text messages.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
+    },
+    {
+      "@type": "Claim",
+      "@id": "C-13445",
+      "ref": "C-13445",
+      "label": "Host Says the State Is Dropping New Text Messages and Making Slight Edits to Old Ones",
+      "claim": "The host says the authorities are dropping new text messages while making slight edits to the old ones.",
+      "anchored_artifacts": [
+        "A-3263.1"
+      ],
+      "related_nodes": [
+        "N-10077",
+        "N-10713"
+      ],
+      "tags": [
+        "relevance:core"
+      ],
+      "claim_timestamp": "01:01:45",
+      "investigative_direction": "Collect each released version of the messages and diff them, noting dates of release.",
+      "transcript_snippet": "they're dropping new text messages making some slight edits to the old ones.",
+      "confidence": "high",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     }
   ],
-  "memes": []
+  "memes": [
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-116",
+      "ref": "M-116",
+      "canonical_term": "Broken Bomb Dog Noses",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 94,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "The one that the bomb dogs couldn't detect because their noses, remember, their noses malfunctioned that day.",
+          "context": "Host recalls the bomb dogs failing to detect the rifle.",
+          "confidence": "high",
+          "tags": [
+            "bomb dogs",
+            "noses"
+          ]
+        },
+        {
+          "episode": 94,
+          "video_timestamp": "00:19:44",
+          "speaker_node_ref": "N-3",
+          "quote": "Bomb dog, their noses were malfunctioning.",
+          "context": "Host lists what the prosecution cannot prove at a hearing.",
+          "confidence": "high",
+          "tags": [
+            "bomb dogs",
+            "noses"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-132",
+      "ref": "M-132",
+      "canonical_term": "Lucky Feds",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 94,
+          "video_timestamp": "00:00:01",
+          "speaker_node_ref": "N-3",
+          "quote": "The one that the feds led the police officers to, the rookie police officers to, after the dogs had already searched that particular area.",
+          "context": "Host notes the feds led rookie officers to the rifle.",
+          "confidence": "high",
+          "tags": [
+            "feds",
+            "rifle"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-93",
+      "ref": "M-93",
+      "canonical_term": "Trust Me Bro",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 94,
+          "video_timestamp": "00:09:10",
+          "speaker_node_ref": "N-3",
+          "quote": "I, Kash Patel, say that this is the gun. Trust me, bro.",
+          "context": "Host mocks the FBI's summary reports in Patel's voice.",
+          "confidence": "high",
+          "tags": [
+            "trust me bro",
+            "kash patel"
+          ]
+        },
+        {
+          "episode": 94,
+          "video_timestamp": "00:15:13",
+          "speaker_node_ref": "N-3",
+          "quote": "Here's a picture, man. Just trust Kash Patel.",
+          "context": "Host mocks being shown only a picture of the gun.",
+          "confidence": "high",
+          "tags": [
+            "trust me bro",
+            "kash patel"
+          ]
+        },
+        {
+          "episode": 94,
+          "video_timestamp": "00:56:40",
+          "speaker_node_ref": "N-3",
+          "quote": "Obviously, trust me, bro, ain't cutting up.",
+          "context": "Host mocks the lone-gunman account when answering a viewer comment.",
+          "confidence": "high",
+          "tags": [
+            "trust me bro",
+            "lone gunman"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-145",
+      "ref": "M-145",
+      "canonical_term": "Show Trial",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 94,
+          "video_timestamp": "00:18:39",
+          "speaker_node_ref": "N-3",
+          "quote": "I think Erika's team wants a show trial.",
+          "context": "Host says the prosecution side wants a show trial.",
+          "confidence": "high",
+          "tags": [
+            "show trial",
+            "erika"
+          ]
+        },
+        {
+          "episode": 94,
+          "video_timestamp": "00:19:44",
+          "speaker_node_ref": "N-3",
+          "quote": "The prosecution wants to rush the public into a show trial",
+          "context": "Host repeats the show trial charge.",
+          "confidence": "high",
+          "tags": [
+            "show trial"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-23",
+      "ref": "M-23",
+      "canonical_term": "Battle Bun",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 94,
+          "video_timestamp": "01:02:25",
+          "speaker_node_ref": "N-3",
+          "quote": "battle bun activated t-shirts that you asked for.",
+          "context": "Host promotes Battle Bun merch.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "battle bun"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-229",
+      "ref": "M-229",
+      "canonical_term": "Four Horsemen of MAGA",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 94,
+          "video_timestamp": "01:02:25",
+          "speaker_node_ref": "N-3",
+          "quote": "the four horsemen of MAGA the nut jobs and the troublemakers who just want peace right?",
+          "context": "Host promotes the Four Horsemen shirt.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "four horsemen"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-230",
+      "ref": "M-230",
+      "canonical_term": "Third Rate Podcaster",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 94,
+          "video_timestamp": "01:02:25",
+          "speaker_node_ref": "N-3",
+          "quote": "Third rate podcast tour.",
+          "context": "Host promotes the Third Rate Podcast tour merch.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "third rate"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-228",
+      "ref": "M-228",
+      "canonical_term": "Make America Christian Again (MACA)",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 94,
+          "video_timestamp": "01:02:25",
+          "speaker_node_ref": "N-3",
+          "quote": "looks like it says MAGA but it's actually make America Christian again.",
+          "context": "Host promotes the MACA hat.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "maca"
+          ]
+        },
+        {
+          "episode": 94,
+          "video_timestamp": "01:03:07",
+          "speaker_node_ref": "N-3",
+          "quote": "it really says MACA so we have to change that little description.",
+          "context": "Host corrects the hat's product description.",
+          "confidence": "high",
+          "tags": [
+            "merch",
+            "maca"
+          ]
+        }
+      ]
+    },
+    {
+      "@type": "MemeAnalysis",
+      "@id": "M-313",
+      "ref": "M-313",
+      "canonical_term": "Lying a Lot Era",
+      "type": "meme",
+      "occurrences": [
+        {
+          "episode": 94,
+          "video_timestamp": "00:22:22",
+          "speaker_node_ref": "N-3",
+          "quote": "And right now they are definitely in their lying a lot era.",
+          "context": "Host riffs on the Eras Tour while describing Turning Point's conduct.",
+          "confidence": "high",
+          "tags": [
+            "era",
+            "lying",
+            "turning point"
+          ]
+        },
+        {
+          "episode": 94,
+          "video_timestamp": "00:57:24",
+          "speaker_node_ref": "N-3",
+          "quote": "I think that we are we are in the truth era and people that are lying are going to face a collapse of support.",
+          "context": "Host contrasts the lying era with the truth era.",
+          "confidence": "high",
+          "tags": [
+            "era",
+            "truth"
+          ]
+        }
+      ]
+    }
+  ]
 }

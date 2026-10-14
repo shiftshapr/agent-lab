@@ -17,7 +17,7 @@
     "candace_ep_number": 237,
     "kind": "numbered_show"
   },
-  "executive_summary": "CKA seq 4 dissects the alleged text messages between Tyler Robinson and Lance Twigs released with the indictment. Candace Owens argues the language ('retrieve', 'vehicle'), the absence of timestamps, and the timing relative to press conferences expose a federal-level fabrication. She pivots to claims that the maroon-shirt person on TMZ footage may differ from the stairs person, that Lance was suspiciously released, and that Governor Cox lied about a 33-hour same-outfit timeline. The second half features Tucker Carlson and Megan Kelly clips alleging donor intimidation over Charlie's pro-Candace stance, plus a clash with Charlie's pastor Rob McCoy.",
+  "executive_summary": "CKA seq 4 dissects the alleged text messages between Tyler Robinson and Lance Twiggs released with the indictment. Candace Owens argues the language ('retrieve', 'vehicle'), the absence of timestamps, and the timing relative to press conferences expose a federal-level fabrication. She pivots to claims that the maroon-shirt person on TMZ footage may differ from the stairs person, that Lance was suspiciously released, and that Governor Cox lied about a 33-hour same-outfit timeline. The second half features Tucker Carlson and Megyn Kelly clips alleging donor intimidation over Charlie's pro-Candace stance, plus a clash with Charlie's pastor Rob McCoy.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -347,7 +347,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1107",
       "family_ref": "A-1107",
-      "bundle_name": "Tucker Carlson and Megan Kelly Clip Bundle",
+      "bundle_name": "Tucker Carlson and Megyn Kelly Clip Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -392,7 +392,7 @@
           "@type": "Artifact",
           "@id": "A-1107.3",
           "ref": "A-1107.3",
-          "description": "Megan Kelly clip corroborating donor pressure tactics against pro-Candace voices.",
+          "description": "Megyn Kelly clip corroborating donor pressure tactics against pro-Candace voices.",
           "related_claims": [
             "C-1185"
           ],
@@ -775,7 +775,7 @@
       "@type": "Person",
       "@id": "N-54",
       "ref": "N-54",
-      "name": "Lance Twigs",
+      "name": "Lance Twiggs",
       "type": "person",
       "description": "22-year-old boyfriend/roommate of Tyler Robinson; received the keyboard note; central to host's 'Lance being protected' thesis.",
       "related_artifacts": [
@@ -1017,7 +1017,7 @@
       "@type": "Person",
       "@id": "N-70",
       "ref": "N-70",
-      "name": "Lance Twigs's Mother",
+      "name": "Lance Twiggs's Mother",
       "type": "person",
       "description": "Allegedly holds Bachelor of Science from Stanford University in psychology; flagged by host as 'running theme'.",
       "related_artifacts": [],
@@ -1247,7 +1247,7 @@
       "@type": "Topic",
       "@id": "N-10044",
       "ref": "N-10044",
-      "name": "Lance Twigs Protection Allegation",
+      "name": "Lance Twiggs Protection Allegation",
       "type": "topic",
       "description": "Allegation that Lance was quickly released despite apartment raid and seizure of electronics; family claims feds were dishonest.",
       "related_artifacts": [
@@ -1531,7 +1531,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10034",
       "ref": "N-10034",
-      "name": "Lance Twigs Family Allegations",
+      "name": "Lance Twiggs Family Allegations",
       "type": "investigation_target",
       "description": "Existing topic on what Lance's family says; reused here.",
       "related_artifacts": [],
@@ -1825,7 +1825,7 @@
       "@id": "C-1177",
       "ref": "C-1177",
       "label": "Keyboard Note Destroyed After Photographing",
-      "claim": "The note Lance Twigs found under Tyler's keyboard was destroyed after he photographed it; the photo was shown to the feds but not the public.",
+      "claim": "The note Lance Twiggs found under Tyler's keyboard was destroyed after he photographed it; the photo was shown to the feds but not the public.",
       "anchored_artifacts": [
         "A-1104.1"
       ],
@@ -1922,8 +1922,8 @@
       "@type": "Claim",
       "@id": "C-1181",
       "ref": "C-1181",
-      "label": "Lance Twigs Released Suspiciously Fast After Apartment Raid",
-      "claim": "Lance Twigs was released back to his parents the same night his apartment was raided and electronics seized, which Candace argues is procedurally anomalous.",
+      "label": "Lance Twiggs Released Suspiciously Fast After Apartment Raid",
+      "claim": "Lance Twiggs was released back to his parents the same night his apartment was raided and electronics seized, which Candace argues is procedurally anomalous.",
       "anchored_artifacts": [
         "A-1104.9",
         "A-1104.10",
@@ -1934,7 +1934,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:12",
-      "investigative_direction": "Obtain the arrest/release log for Lance Twigs and the inventory of seized devices; compare with standard 24-hour detention practice.",
+      "investigative_direction": "Obtain the arrest/release log for Lance Twiggs and the inventory of seized devices; compare with standard 24-hour detention practice.",
       "transcript_snippet": "Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?",
       "confidence": "medium",
       "mentions_person_refs": [
@@ -1995,8 +1995,8 @@
       "@type": "Claim",
       "@id": "C-1184",
       "ref": "C-1184",
-      "label": "Lance Twigs's Mother Holds Stanford BS in Psychology",
-      "claim": "Lance Twigs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.",
+      "label": "Lance Twiggs's Mother Holds Stanford BS in Psychology",
+      "claim": "Lance Twiggs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10045"
@@ -2722,7 +2722,7 @@
       "@id": "C-4868",
       "ref": "C-4868",
       "label": "Host Says Lance Was Brought In About 11 PM and the Apartment Raided Overnight",
-      "claim": "The host says Lance Twigs was brought in for questioning at around 11:00 p.m. and that the apartment was raided overnight into the early hours of the morning.",
+      "claim": "The host says Lance Twiggs was brought in for questioning at around 11:00 p.m. and that the apartment was raided overnight into the early hours of the morning.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10044"
@@ -2730,7 +2730,7 @@
       "tags": [],
       "claim_timestamp": "00:25:21",
       "investigative_direction": "Obtain the search warrant return time and the log of when Lance was brought in and released.",
-      "transcript_snippet": "m. ish, we'll tell you around 11:00 p. m. Lance Twigs is brought in for questioning.",
+      "transcript_snippet": "m. ish, we'll tell you around 11:00 p. m. Lance Twiggs is brought in for questioning.",
       "mentions_person_refs": [
         "N-54",
         "N-40"
@@ -3009,7 +3009,7 @@
       "@id": "C-4882",
       "ref": "C-4882",
       "label": "Host Says She Now Believes a Federal-Level Corruption and Conspiracy Is Involved",
-      "claim": "The host says she now believes there is a federal level of corruption and conspiracy involved in the murder, citing unanswered questions from George Zinn to Lance Twigs.",
+      "claim": "The host says she now believes there is a federal level of corruption and conspiracy involved in the murder, citing unanswered questions from George Zinn to Lance Twiggs.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10046"
@@ -3062,7 +3062,7 @@
       "tags": [],
       "claim_timestamp": "00:42:51",
       "investigative_direction": "Ask Carlson for the date and location of his last meeting with Charlie.",
-      "transcript_snippet": "He also brought in Megan Kelly and other people and he spoke about what Charlie was going through because he saw him uh very shortly before his assassination.",
+      "transcript_snippet": "He also brought in Megyn Kelly and other people and he spoke about what Charlie was going through because he saw him uh very shortly before his assassination.",
       "mentions_person_refs": [
         "N-22",
         "N-1",

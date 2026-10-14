@@ -1079,9 +1079,9 @@
       "@type": "Person",
       "@id": "N-118",
       "ref": "N-118",
-      "name": "Marissa Strait",
+      "name": "Marissa Streit",
       "type": "person",
-      "description": "Marissa Strait, PragerU CEO, said by the host to be working on a documentary.",
+      "description": "Marissa Streit, PragerU CEO, said by the host to be working on a documentary.",
       "related_artifacts": [],
       "related_claims": [
         "C-5519"
@@ -1098,7 +1098,7 @@
       "ref": "N-726",
       "name": "Shabbos Kestenbaum",
       "type": "person",
-      "description": "First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Strait.",
+      "description": "First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Streit.",
       "related_artifacts": [],
       "related_claims": [
         "C-5519"
@@ -2416,7 +2416,7 @@
       "@id": "C-5519",
       "ref": "C-5519",
       "label": "Host Says PragerU CEO Is Working on a Documentary Billed as a Takedown of Her",
-      "claim": "The host says Marissa Strait, the Prager University CEO, is working on a documentary with a man she names as Shabazz Kestenbaum, who is telling people it will be a takedown of Candace Owens.",
+      "claim": "The host says Marissa Streit, the Prager University CEO, is working on a documentary with a man she names as Shabazz Kestenbaum, who is telling people it will be a takedown of Candace Owens.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10131"

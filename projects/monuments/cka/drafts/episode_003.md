@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-CKA seq 3 walks through the newly released probable cause indictment against Tyler James Robinson, with Candace Owens flagging missing timestamps in the Tyler-to-Lance text chain, omitted pre-scout footage referenced by Governor Cox, and the absence of a disassembled rifle. The episode also covers the George Zinn 'decoy' arrest, child abuse image charge, and exclusive Lance Twigs family allegations (kicked out junior year, Christmas vodka overdose, Easter drug episode, deep-web usage). Second half confronts Bill Ackman's 955-word tweet response to the Hamptons retreat allegations, plays Charlie Kirk's Megyn Kelly appearance from August 6, and discusses donor pressure and a building donor retraction in the 48 hours before Charlie's death.
+CKA seq 3 walks through the newly released probable cause indictment against Tyler James Robinson, with Candace Owens flagging missing timestamps in the Tyler-to-Lance text chain, omitted pre-scout footage referenced by Governor Cox, and the absence of a disassembled rifle. The episode also covers the George Zinn 'decoy' arrest, child abuse image charge, and exclusive Lance Twiggs family allegations (kicked out junior year, Christmas vodka overdose, Easter drug episode, deep-web usage). Second half confronts Bill Ackman's 955-word tweet response to the Hamptons retreat allegations, plays Charlie Kirk's Megyn Kelly appearance from August 6, and discusses donor pressure and a building donor retraction in the 48 hours before Charlie's death.
 
 ## 3. Artifact Register
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:16:00–00:16:37
 Transcript Snippet: convince Robinson to speak with a family friend who happens to be a retired deputy sheriff
 Confidence: high
 
-**A-1095.8** Tyler Robinson to Lance Twigs text chain: 'Drop what you are doing and look under my keyboard', 'I had the opportunity to take out Charlie Kirk', 'they grabbed some crazy old dude'
+**A-1095.8** Tyler Robinson to Lance Twiggs text chain: 'Drop what you are doing and look under my keyboard', 'I had the opportunity to take out Charlie Kirk', 'they grabbed some crazy old dude'
 Event Timestamp: 2025-09-10
 Video Timestamp: 00:20:02–00:26:59
 *Related: C-1154, C-1155, N-40, N-54, N-10030, N-67*
@@ -259,7 +259,7 @@ Indicted shooter.
 
 ---
 
-**N-54** Lance Twigs
+**N-54** Lance Twiggs
 
 Node Type: Person
 Robinson's romantic partner and roommate; provided text messages to police.
@@ -596,11 +596,11 @@ Pressure on Charlie regarding Israel and conference guests at August 4-5 Hampton
 
 ---
 
-**N-10034** Lance Twigs Family Allegations
+**N-10034** Lance Twiggs Family Allegations
 
 Node Type: Topic
 Topic Kind: verification_thread
-Family-sourced allegations re: Lance Twigs behavioral history, drug use, deep-web activity.
+Family-sourced allegations re: Lance Twiggs behavioral history, drug use, deep-web activity.
 
 *Related: C-1166, C-1167, C-1168*
 
@@ -764,7 +764,7 @@ Investigative Direction: Compare against Robinson's social media history and fam
 **C-1154** Robinson texted Lance from keyboard note confession
 
 Claim Timestamp: 00:20:02
-Claim: Robinson texted his roommate Lance Twigs 'Drop what you are doing and look under my keyboard'; Lance found a note stating 'I had the opportunity to take out Charlie Kirk and I'm going to take it'.
+Claim: Robinson texted his roommate Lance Twiggs 'Drop what you are doing and look under my keyboard'; Lance found a note stating 'I had the opportunity to take out Charlie Kirk and I'm going to take it'.
 Transcript Snippet: Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk
 Anchored Artifacts: A-1095.8, A-1095.9
 Mentions: N-2, N-40, N-54, N-1
@@ -918,10 +918,10 @@ Investigative Direction: Retrieve the tweet thread and verify dates.
 
 ---
 
-**C-1166** Lance Twigs kicked out by parents junior year of high school
+**C-1166** Lance Twiggs kicked out by parents junior year of high school
 
 Claim Timestamp: 00:30:35
-Claim: Per Lance Twigs family members, Lance was kicked out of his parents' home in junior year of high school for being problematic.
+Claim: Per Lance Twiggs family members, Lance was kicked out of his parents' home in junior year of high school for being problematic.
 Transcript Snippet: his parents kicked him out junior year of high school because he was problematic
 Anchored Artifacts: 
 Mentions: N-54
@@ -932,10 +932,10 @@ Investigative Direction: Corroborate with other family members or contemporaneou
 
 ---
 
-**C-1167** Lance Twigs Christmas vodka overdose ~three years ago
+**C-1167** Lance Twiggs Christmas vodka overdose ~three years ago
 
 Claim Timestamp: 00:31:02
-Claim: Per family, Lance Twigs nearly overdosed by drinking a bottle of vodka approximately three years ago at Christmas; family feared they could not care for him.
+Claim: Per family, Lance Twiggs nearly overdosed by drinking a bottle of vodka approximately three years ago at Christmas; family feared they could not care for him.
 Transcript Snippet: He almost overdosed. He drank a bottle of vodka
 Anchored Artifacts: 
 Mentions: N-54
@@ -945,10 +945,10 @@ Investigative Direction: Request medical/ER records and corroborating family tes
 
 ---
 
-**C-1168** Lance Twigs showed up on drugs at Easter family gathering
+**C-1168** Lance Twiggs showed up on drugs at Easter family gathering
 
 Claim Timestamp: 00:31:31
-Claim: Per family, Lance Twigs showed up on drugs at a family Easter Sunday gathering and was spouting political statements; family determined he could not be around children.
+Claim: Per family, Lance Twiggs showed up on drugs at a family Easter Sunday gathering and was spouting political statements; family determined he could not be around children.
 Transcript Snippet: he showed up on drugs and he was spouting out of his mouth about political stuff
 Anchored Artifacts: 
 Mentions: N-54
@@ -958,10 +958,10 @@ Investigative Direction: Corroborate with multiple family members.
 
 ---
 
-**C-1169** Lance Twigs turned 22 in August 2025
+**C-1169** Lance Twiggs turned 22 in August 2025
 
 Claim Timestamp: 00:32:39
-Claim: Lance Twigs turned 22 in August 2025 according to his family.
+Claim: Lance Twiggs turned 22 in August 2025 according to his family.
 Transcript Snippet: He turned 22, they told me back in August
 Anchored Artifacts: 
 Mentions: N-54
@@ -970,10 +970,10 @@ Investigative Direction: Verify against state ID or DOB records.
 
 ---
 
-**C-1170** Lance Twigs lived in townhome owned by his family; Tyler paid rent
+**C-1170** Lance Twiggs lived in townhome owned by his family; Tyler paid rent
 
 Claim Timestamp: 00:29:52
-Claim: Tyler Robinson lived with Lance Twigs in a townhome owned by Lance's family and paid rent to them via Lance.
+Claim: Tyler Robinson lived with Lance Twiggs in a townhome owned by Lance's family and paid rent to them via Lance.
 Transcript Snippet: the house that Tyler Robinson was living in with Lance is owned by them. Tyler Robinson is paying rent
 Anchored Artifacts: 
 Mentions: N-40, N-54
@@ -1007,11 +1007,11 @@ Investigative Direction: Compare Cox's earlier press statements to indictment ti
 
 ---
 
-**C-1173** Seth Dylan and Josh Hammer pressured Charlie at retreat
+**C-1173** Seth Dillon and Josh Hammer pressured Charlie at retreat
 
 Claim Timestamp: 00:42:46
-Claim: Attendees report Seth Dylan and Josh Hammer pressured Charlie at the Hamptons retreat regarding Israel views and conference guests.
-Transcript Snippet: Seth Dylan...Josh Hammer was upset. Josh Hammer...was a part of the beehive that was swarming him
+Claim: Attendees report Seth Dillon and Josh Hammer pressured Charlie at the Hamptons retreat regarding Israel views and conference guests.
+Transcript Snippet: Seth Dillon...Josh Hammer was upset. Josh Hammer...was a part of the beehive that was swarming him
 Anchored Artifacts: 
 Mentions: N-38, N-55
 Related Nodes: N-10033
@@ -1158,7 +1158,7 @@ Confidence: high
 Video Timestamp: 00:29:16
 Speaker: N-3
 Quote: Obviously, I was in a very agrieved state and I was not prepared to even accept that Charlie Kirk was not on this earth
-Context: Candace explains why she was not initially available to Lance Twigs family.
+Context: Candace explains why she was not initially available to Lance Twiggs family.
 Tags: self_described
 Confidence: high
 

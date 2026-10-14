@@ -236,7 +236,7 @@ Named in the host's allegation about Erika Kirk and Next Model Management.
 
 **N-14** Andrew Kolvet
 
-Transcript spellings "Andrew Kovette" and "Andrew Kovett". Addressed in the host's emails as TPUSA spokesperson; the host alleges that he followed Erika Kirk's direction on Catholic messaging and that he hosted Graham Allen to call the WHCD email fake. She also criticizes his association with Paramount Tactical.
+Transcript spellings "Andrew Kolvet" and "Andrew Kolvet". Addressed in the host's emails as TPUSA spokesperson; the host alleges that he followed Erika Kirk's direction on Catholic messaging and that he hosted Graham Allen to call the WHCD email fake. She also criticizes his association with Paramount Tactical.
 
 *Related: C-4395, C-4396, C-4399, C-4400, C-4405, C-4433, A-2630.1, A-2630.2*
 
@@ -253,7 +253,7 @@ The host says Andrew Kolvet was live-texting Erika Kirk during an interview with
 
 **N-162** Blake Neff
 
-Transcript spelling "Blake Nef". The host says he does not work for Turning Point USA.
+Transcript spelling "Blake Neff". The host says he does not work for Turning Point USA.
 
 *Related: C-4401*
 
@@ -271,13 +271,13 @@ The host says Erika Kirk directed attacks on him for wanting to examine a foreig
 
 **N-281** Tim Dillon
 
-Transcript spelling "Tim Dylan". Comedian whose clip on the Trump family is played.
+Transcript spelling "Tim Dillon". Comedian whose clip on the Trump family is played.
 
 *Related: C-4425, A-2634.1*
 
 **N-282** Bari Weiss
 
-Transcript spelling "Barry Weiss". Named by the host as being installed to control mainstream media.
+Transcript spelling "Bari Weiss". Named by the host as being installed to control mainstream media.
 
 *Related: C-4412*
 
@@ -289,7 +289,7 @@ Transcript spelling "Bradley Hansel". Named in the host's narrowed FOIA request 
 
 **N-456** Greg Laurie
 
-Transcript spelling "Greg Lori". The host says he is accused in court of trafficking people from Romania.
+Transcript spelling "Greg Laurie". The host says he is accused in court of trafficking people from Romania.
 
 *Related: C-4392*
 
@@ -648,7 +648,7 @@ Claim Timestamp: 00:08:44
 
 Claim: The host says Erika Kirk partners on faith work with people credibly accused in court, as she says Greg Laurie is, of trafficking people from Romania.
 
-Transcript Snippet: who are credibly accused one way or the other in the court of law as Greg Lori is of trafficking people from Romania.
+Transcript Snippet: who are credibly accused one way or the other in the court of law as Greg Laurie is of trafficking people from Romania.
 
 Anchored Artifacts:
 Mentions: N-456, N-2
@@ -693,7 +693,7 @@ Claim Timestamp: 00:13:20
 
 Claim: The host alleges Erika Kirk directed Andrew Kolvet to misstate Charlie Kirk's attendance at the Catholic Church by saying he "just likes the architecture."
 
-Transcript Snippet: it was her who directed Andrew Kovette to lie about Charlie's attendance at the Catholic Church. He just likes the architecture.
+Transcript Snippet: it was her who directed Andrew Kolvet to lie about Charlie's attendance at the Catholic Church. He just likes the architecture.
 
 Anchored Artifacts:
 Mentions: N-2, N-14, N-1
@@ -708,7 +708,7 @@ Claim Timestamp: 00:13:20
 
 Claim: The host says Andrew Kolvet was live-texting with Erika Kirk during his interview with Alex Clark to get her permission, in order to protect TPUSA's evangelical Zionist donor base.
 
-Transcript Snippet: Andrew Kovette was live texting with Erika during that interview with Alex Clark to make sure that he had permission
+Transcript Snippet: Andrew Kolvet was live texting with Erika during that interview with Alex Clark to make sure that he had permission
 
 Anchored Artifacts:
 Mentions: N-14, N-2, N-99
@@ -753,7 +753,7 @@ Claim Timestamp: 00:14:20
 
 Claim: The host says she addressed her email asking whether the video was doctored to COO Justin Streiff, spokesperson Andrew Kolvet and TPUSA's lawyer. She says they declined to respond officially and that the TPUSA X account shared the email instead.
 
-Transcript Snippet: So, I intentionally addressed my email where I asked, "Was this doctorred to Justin Streiff, who is the COO, to Andrew Kovette, who is the official spokesperson of Turning Point USA, and to their lawyer?"
+Transcript Snippet: So, I intentionally addressed my email where I asked, "Was this doctorred to Justin Streiff, who is the COO, to Andrew Kolvet, who is the official spokesperson of Turning Point USA, and to their lawyer?"
 
 Anchored Artifacts: A-2630.3
 Mentions: N-15, N-14, N-3
@@ -783,7 +783,7 @@ Claim Timestamp: 00:16:45
 
 Claim: The host says Blake Neff and Graham Allen, who have spoken on the video, do not work for Turning Point USA.
 
-Transcript Snippet: And to be clear, Blake Nef does not work for Turning Point USA. Graham Allen does not work for Turning Point USA.
+Transcript Snippet: And to be clear, Blake Neff does not work for Turning Point USA. Graham Allen does not work for Turning Point USA.
 
 Anchored Artifacts:
 Mentions: N-162, N-614
@@ -1493,7 +1493,7 @@ Confidence: high
 - **A-2629.1**: the heckling clip at 07:05 is untranscribed apart from "Hey, come over here." Its content is inferred from the host's lead-in, so confidence is Low.
 - **Duration**: the skeleton gave 00:56:29; the transcript front matter gives 58:30, which is used here.
 - **Existing meme occurrence**: the skeleton's M-41 occurrence (stamped 00:46:24) is kept verbatim. The quoted words appear in the [44:57] paragraph.
-- **Name matching**: "Dana Lash" is taken to be Dana Loesch (N-665; no node in nodes.tsv). "Andrew Kovette/Kovett" is matched to N-14, "Greg Lori" to N-456 Greg Laurie, "Blake Nef" to N-162, "Bradley Hansel" to N-439, "Pete Hegsath" to N-599, "Tim Dylan" to N-281 and "Barry Weiss" to N-282. "Richard Smallley" and "Michaela Mott Marzuka" use the staging titles Richard Smaly and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
+- **Name matching**: "Dana Lash" is taken to be Dana Loesch (N-665; no node in nodes.tsv). "Andrew Kolvet/Kolvet" is matched to N-14, "Greg Laurie" to N-456 Greg Laurie, "Blake Neff" to N-162, "Bradley Hansel" to N-439, "Pete Hegsath" to N-599, "Tim Dillon" to N-281 and "Bari Weiss" to N-282. "Richard Smallley" and "Michaela Mott Marzuka" use the staging titles Richard Smaly and Michaela Mott from episode 105, and Gustav Anderly and Graham Allen also reuse staging titles. "Saison Island" is taken to be Sazan Island, "Nathan Rothschild" Nat Rothschild and "Ed Rama" Edi Rama. "James Kaddis" is kept as spelled, since the TPUSA faith-department figure could not be confidently matched. "Paul Leva" is the alleged fake byline and gets no node. "Ed Gowin not even running in Kentucky" (22:34) is unclear (possibly Ed Gallrein) and gets no node.
 - **Topic reuse**: two staging titles exist for the WHCD email (episode 104 "White House Military Office 'I Want to Go Home' Amplification Email" and episode 105 "White House Military Office Erika Kirk Amplification Email"). N-10923 uses the episode 105 title, and the integrator should merge the two. M-95 reuses the staging meme title "Emotional Response Asset", and M-92 reuses "Paramount Not So Tactical".
 - **Cross-episode link**: C-4403 Supports C-2888 (episode 102, donors assert the "I appoint my wife" clip was faked). Episode 102 places the donors at Aspen, while this episode refers to "your WLS event" and a later donor dinner, so the venue mapping is uncertain. C-2982 (episode 122, pending FOIA requests including NSA) is later and is not linked. The JD Vance "empty crowd" claim (C-4390) may relate to the existing topic "TPUSA UGA Event Crowd-Size Failure", but the event is not named, so it is not linked.
 - **Not inscribed as claims (admission test)**:

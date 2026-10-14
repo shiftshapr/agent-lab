@@ -100,7 +100,7 @@ Confidence Level: High (video played; audio presented)
 
 ---
 
-**A-1929** Megan Kelly Interview Excerpt Bundle
+**A-1929** Megyn Kelly Interview Excerpt Bundle
 
 **A-1929.1** Erika Kirk's account of Aspen donor event and Charlie's statement about her running TPUSA
 
@@ -975,12 +975,12 @@ Investigative Direction: Obtain and review the AmFest event footage to confirm t
 
 Claim Timestamp: 00:08:58–00:10:21
 
-Claim: On Megan Kelly (Nov 24, 2025), Erika Kirk described a donor question at the Aspen event and stated Charlie Kirk said Erika would do a great job running TPUSA.
+Claim: On Megyn Kelly (Nov 24, 2025), Erika Kirk described a donor question at the Aspen event and stated Charlie Kirk said Erika would do a great job running TPUSA.
 
 Anchored Artifacts: A-1929.1
 Mentions: N-2, N-1, N-46
 Related Nodes: N-10583, N-10584
-Investigative Direction: Cross-reference Erika's Megan Kelly account against other contemporaneous donor accounts of the same Aspen event and against the audio artifact.
+Investigative Direction: Cross-reference Erika's Megyn Kelly account against other contemporaneous donor accounts of the same Aspen event and against the audio artifact.
 
 **C-2658** New York Times reported Erika Kirk was in a "hospital room" at 11:23 a.m. on Sept 10
 
@@ -2247,9 +2247,9 @@ Investigative Direction: Track what arrives through the tip line.
 
 Claim Timestamp: 00:59:25
 
-Claim: The host says she heard Judge Leeman threw out an entire portion of Blake Lively's case against Justin Baldoni for sexual harassment.
+Claim: The host says she heard Judge Liman threw out an entire portion of Blake Lively's case against Justin Baldoni for sexual harassment.
 
-Transcript Snippet: I heard about Judge Leeman throwing out an entire portion of a Justin Baldoni's case
+Transcript Snippet: I heard about Judge Liman throwing out an entire portion of a Justin Baldoni's case
 
 Anchored Artifacts: 
 Mentions: N-3, N-491, N-490

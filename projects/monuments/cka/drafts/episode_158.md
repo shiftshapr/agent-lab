@@ -17,14 +17,14 @@
   - New Nodes Introduced: N-10867, N-10868
   - Reused Nodes Appearing: N-1, N-2, N-3, N-22, N-30, N-36, N-37, N-14, N-194, N-241, N-282, N-221, N-270, N-7, N-502, N-162, N-10056, N-10198, N-10218, N-10839, N-10859, N-10860, N-10863, N-10, N-8, N-13, N-16, N-18, N-10865, N-215, N-228, N-334, N-528, N-10027, N-10063, N-10070, N-10103, N-10342, N-10862, N-10888, N-11091, N-10866, N-11084, N-11086, N-10864
   - (see registers)
-  - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dylan not minted. Leah Thomas not minted.
+  - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Clara Molot, Sergio Gor, Caleb Chilcutt, Andrew Wilson. Tim Dillon not minted. Leah Thomas not minted.
 
 # Episode 158 Analysis
 
 
 ## 2. Executive Summary
 
-This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kovette not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.
+This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kolvet not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroot), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.
 
 ---
 
@@ -95,7 +95,7 @@ Confidence Level: High (DeGroot quote as read); Low–Medium (McCoy gatekeeping 
 
 **A-2463** Tucker Carlson Vanity Fair Quotes Bundle
 
-**A-2463.1** Carlson quotes in the profile: TPUSA leadership “wholly focused on Candace Owens”; advice to Andrew Kovette not to focus on her; and that Erika was privately more critical of Israel / interventionism than Charlie.
+**A-2463.1** Carlson quotes in the profile: TPUSA leadership “wholly focused on Candace Owens”; advice to Andrew Kolvet not to focus on her; and that Erika was privately more critical of Israel / interventionism than Charlie.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:24:52
@@ -839,11 +839,11 @@ Investigative Direction: Seek calendar/email primary for the appointment; separa
 
 ---
 
-**C-3602** Tucker Carlson told Andrew Kovette not to focus on Candace; leadership is “wholly focused” on her
+**C-3602** Tucker Carlson told Andrew Kolvet not to focus on Candace; leadership is “wholly focused” on her
 
 Claim Timestamp: 00:24:52
 
-Claim: Vanity Fair quotes Carlson that TPUSA leadership is wholly focused on Candace Owens and that he advised Kovette not to focus on her if they dislike her.
+Claim: Vanity Fair quotes Carlson that TPUSA leadership is wholly focused on Candace Owens and that he advised Kolvet not to focus on her if they dislike her.
 
 Anchored Artifacts: A-2463.1
 Mentions: N-3, N-14, N-22
@@ -1147,7 +1147,7 @@ Claim Timestamp: 00:22:21
 
 Claim: The host says Erika wore a white blazer when she addressed the nation on September 12, a white pantsuit at Charlie's memorial on the 21st, a dress at the Presidential Medal of Freedom ceremony and a green suit on the Jesse Watters interview on November 5.
 
-Transcript Snippet: Jesse Waters interview on November 5th. She was wearing a green suit.
+Transcript Snippet: Jesse Watters interview on November 5th. She was wearing a green suit.
 
 Anchored Artifacts: A-2461.1
 Mentions: N-2, N-215
@@ -1333,7 +1333,7 @@ Claim Timestamp: 00:28:36
 
 Claim: The host says Andrew Kolvet told her within the first 48 hours that Erika would be CEO, although she says he now denies some of this.
 
-Transcript Snippet: And I knew because Andrew Kovette told me, even though he denies some of this stuff
+Transcript Snippet: And I knew because Andrew Kolvet told me, even though he denies some of this stuff
 
 Anchored Artifacts: 
 Mentions: N-14, N-3, N-2
@@ -1425,7 +1425,7 @@ Claim Timestamp: 00:36:47
 
 Claim: The host says the independent review dedicates pages to debunking Brian Harpole's narrative on the Shawn Ryan podcast, where she says he presented a message as though it were his.
 
-Transcript Snippet: they dedicate pages to debunking Brian Harpull's narrative on uh Sean Ryan's podcast where he pretends that he the fake message meaning it was not his message.
+Transcript Snippet: they dedicate pages to debunking Brian Harpull's narrative on uh Shawn Ryan's podcast where he pretends that he the fake message meaning it was not his message.
 
 Anchored Artifacts: 
 Mentions: N-270, N-228, N-3
@@ -1487,7 +1487,7 @@ Claim Timestamp: 00:39:21
 
 Claim: The host says Andrew Kolvet said that the reason Charlie started pulling back from her was that she was getting too crazy on the Jewish stuff, meaning Israel.
 
-Transcript Snippet: this was Andrew Kovette, was because I just was getting too crazy on the Jewish stuff, right?
+Transcript Snippet: this was Andrew Kolvet, was because I just was getting too crazy on the Jewish stuff, right?
 
 Anchored Artifacts: 
 Mentions: N-14, N-1, N-3
@@ -1775,7 +1775,7 @@ Claim Timestamp: 00:50:25
 
 Claim: The host says the college project page happened to be archived when Charlie was with Bill Ackman, and asks why Ackman is interested in it.
 
-Transcript Snippet: Why is Bill Aman in particular interested in this thing that happened to be archived when Charlie was with Bill Aman?
+Transcript Snippet: Why is Bill Ackman in particular interested in this thing that happened to be archived when Charlie was with Bill Ackman?
 
 Anchored Artifacts: 
 Mentions: N-37, N-1

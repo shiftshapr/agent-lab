@@ -11,9 +11,13 @@
 - **Transcript SHA-256**: 96bdf8580abb4cedfb15c84e3fc6f2b56488e802cc03c0adb8c91e6d3d6c96f2
 
 - **Episode Ledger Summary**:
+  - Tip-minted Nodes (supplement_2026-10f): N-11356
+  - Tip-minted Nodes (reintro-ep102): N-10963, N-11312
+  - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
+  - Claim Range (supplement_2026-10f): C-12970–C-13055
   - New Nodes Introduced: N-10666, N-10667
   - Hole-minted Nodes (wave3): N-437
-  - Reused Nodes Appearing: N-11, N-10373, N-430, N-10664, N-438, N-10665
+  - Reused Nodes Appearing: N-11, N-10373, N-430, N-10664, N-438, N-10665, N-4, N-15, N-46, N-131, N-160, N-217, N-228, N-271, N-282, N-366, N-490, N-491, N-587, N-602, N-807, N-901, N-10000, N-10059, N-10349, N-10367, N-10417, N-10538, N-10609, N-10649, N-10862, N-10897, N-10899, N-10936, N-11001, N-11104, N-11109, N-11182, N-11248, N-11255, N-11287
   - (see registers)
 
 # Episode Analysis: Monument Episode 102 – "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
@@ -327,6 +331,103 @@ Confidence Level: Medium
 
 ---
 
+**A-3236** Blake Neff Reply to Project Constitution Bundle
+
+**A-3236.1** Host reads Blake Neff's X reply to Project Constitution
+
+Quoted text: "you are not very smart, are you?"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:02:41
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-12972, N-10667, N-10897, N-162*
+
+---
+
+**A-3237** Great American Race Audition Video Bundle
+
+**A-3237.1** Host verbal reference to the Great American Race audition video Erika Kirk submitted (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:17:23
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-12985, C-12986, N-10665, N-11248, N-2*
+
+---
+
+**A-3238** Cuba Headline Bundle
+
+**A-3238.1** Host reads a headline from the previous day asking whether the US will invade Cuba (not clearly shown)
+
+Quoted text: "Will the US invade Cuba?"
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:37:14
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Medium
+
+*Related: C-13005, N-10963*
+
+---
+
+**A-3239** Moderator Marzi Comment Bundle
+
+**A-3239.1** Viewer comment from Moderator Marzi read aloud about The Quartering facing a potential lawsuit
+
+Quoted text: "the Quartering has messed with you on X and is now facing a potential lawsuit involving false flagging and deplatforming other YouTube channels, as well as for doxing and harassment."
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:45:18
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: High
+
+*Related: C-13014, N-160, N-3*
+
+---
+
+**A-3240** Mitch Snow Verification Evidence Bundle
+
+**A-3240.1** Host verbal reference to Mitch's videos, hotel reservation and military ID tags (not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:53:10
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-13045, C-13046, N-10367, N-366*
+
+---
+
+**A-3241** Harpole Lawsuit Filing Bundle
+
+**A-3241.1** Host verbal reference to the Brian Harpole lawsuit filing and its statements about her (document not shown)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:54:26
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-13048, C-13049, C-13050, N-10373, N-10862, N-228, N-270, N-3*
+
+---
+
+**A-3242** Planned Document Website Bundle
+
+**A-3242.1** Host verbal reference to a planned website with the documents, messages and her timeline (not yet published)
+
+Event Timestamp: 00:00:00-00:00:01
+Video Timestamp: 00:59:04
+Discovery Timestamp: 00:00:00-00:00:01
+Confidence Level: Low
+
+*Related: C-13055, N-10649, N-3*
+
+---
+
 ## IV. Node Register
 
 **N-437** John Amanchukwu
@@ -406,6 +507,383 @@ Node Type: Person
 TPUSA figure the host questions over X posts, security-adjacent roles, and timeline overlaps with Erika Kirk.
 
 *Related: C-2886*
+
+---
+
+**N-1** Charlie Kirk
+
+Subject of the appointment audio and the host's account of his stance on women working.
+
+*Related: C-12974, C-12978, C-12980, C-12981, C-12982, C-12984, C-12992, C-12995, C-12996, C-13003, C-13007, C-13012, C-13013, C-13054*
+
+---
+
+**N-2** Erika Kirk
+
+Widow and TPUSA CEO; subject of the credentials, Hillsdale and Fort Huachuca claims.
+
+*Related: C-12970, C-12971, C-12977, C-12978, C-12982, C-12984, C-12985, C-12986, C-12987, C-12988, C-12989, C-12990, C-13003, C-13007, C-13008, C-13011, C-13012, C-13017, C-13019, C-13020, C-13021, C-13022, C-13023, C-13024, C-13032, C-13033, C-13039, C-13040, C-13041, C-13042, C-13043, C-13044, C-13053, C-13054*
+
+---
+
+**N-3** Candace Owens
+
+Host; speaks for herself throughout.
+
+*Related: C-12970, C-12973, C-12976, C-12990, C-12992, C-12995, C-12996, C-13002, C-13014, C-13015, C-13016, C-13021, C-13022, C-13023, C-13024, C-13025, C-13026, C-13027, C-13028, C-13029, C-13030, C-13031, C-13033, C-13034, C-13035, C-13036, C-13038, C-13039, C-13040, C-13041, C-13042, C-13043, C-13044, C-13047, C-13049, C-13050, C-13051, C-13053, C-13055*
+
+---
+
+**N-4** JD Vance
+
+Vice President; the host says he lectured the audience when Erika did not attend.
+
+*Related: C-13011*
+
+---
+
+**N-14** Andrew Kolvet
+
+TPUSA spokesperson; subject of the alibi coordination, PR role and divorce rumor claims.
+
+*Related: C-12973, C-13008, C-13042, C-13043, C-13044*
+
+---
+
+**N-15** Justin Streiff
+
+TPUSA COO; the host says he emailed her team and asked when her show goes off air.
+
+*Related: C-13025, C-13034*
+
+---
+
+**N-46** Megyn Kelly
+
+Megyn Kelly; Erika told her an emotional story about the video.
+
+*Related: C-12977*
+
+---
+
+**N-57** Patrick Bet-David
+
+Patrick Bet-David; hosted Nick Shirley and a guest on Charlie.
+
+*Related: C-12995, C-12997, C-12999, C-13000*
+
+---
+
+**N-131** Ian Carroll
+
+Ian Carroll; the host says he called her as Valhalla threatened her.
+
+*Related: C-13026*
+
+---
+
+**N-157** John Mappin
+
+John Mappin; said to have introduced Charlie to his biggest donor.
+
+*Related: C-12980*
+
+---
+
+**N-160** The Quartering
+
+The Quartering; subject of a viewer comment about a potential lawsuit.
+
+*Related: C-13014*
+
+---
+
+**N-162** Blake Neff
+
+Blake Neff; his AI concern and subway scenario are the stated reasons for withholding the video.
+
+*Related: C-12972, C-12975, C-12983*
+
+---
+
+**N-217** Nick Shirley
+
+Nick Shirley; subject of the host's favela video skepticism.
+
+*Related: C-12991, C-12992, C-12993, C-12994, C-12997, C-12998, C-12999, C-13000, C-13001, C-13004*
+
+---
+
+**N-228** Shawn Ryan
+
+Shawn Ryan; host of the interview in which Harpole appeared.
+
+*Related: C-13032, C-13050*
+
+---
+
+**N-270** Brian Harpole
+
+Brian Harpole; subject of the alibi and lawsuit claims.
+
+*Related: C-13017, C-13018, C-13019, C-13021, C-13028, C-13029, C-13032, C-13048, C-13049, C-13050, C-13051, C-13052*
+
+---
+
+**N-271** Tim Pool
+
+Tim Pool; named among those backing Shirley.
+
+*Related: C-12994*
+
+---
+
+**N-282** Bari Weiss
+
+Bari Weiss; interviewed Erika with the cut clip about the host.
+
+*Related: C-13023, C-13024*
+
+---
+
+**N-366** Mitch Snow
+
+Mitch Snow; the Fort Huachuca eyewitness.
+
+*Related: C-13016, C-13017, C-13018, C-13019, C-13026, C-13027, C-13028, C-13034, C-13035, C-13036, C-13037, C-13038, C-13045, C-13046, C-13047*
+
+---
+
+**N-430** Marcus Wada
+
+Marcus Wada; TPUSA employee the host calls a former arms dealer.
+
+*Related: C-12979*
+
+---
+
+**N-490** Blake Lively
+
+Blake Lively; party in the dispute the host cites.
+
+*Related: C-13015*
+
+---
+
+**N-491** Justin Baldoni
+
+Justin Baldoni; party in the dispute the host cites.
+
+*Related: C-13015*
+
+---
+
+**N-587** Thomas Massie
+
+Thomas Massie; named in a viewer comment.
+
+*Related: C-13054*
+
+---
+
+**N-602** Druski
+
+Druski (spelled Druski and Drewski in the transcript); comedian whose skit mocked Erika.
+
+*Related: C-13007, C-13008, C-13009, C-13010*
+
+---
+
+**N-807** Harris Faulkner
+
+Harris Faulkner; Fox host who interviewed Erika.
+
+*Related: C-13022*
+
+---
+
+**N-901** Bryan Freedman
+
+Bryan Freedman; lawyer whose publish-it-all approach the host cites.
+
+*Related: C-13015*
+
+---
+
+**N-10000** Turning Point USA
+
+Turning Point USA; withholds the video.
+
+*Related: C-12974, C-12976, C-13003*
+
+---
+
+**N-10059** PBD Podcast
+
+PBD Podcast; platform for the Shirley interview.
+
+*Related: C-12995*
+
+---
+
+**N-10349** Bari Weiss CBS Interview Question Selection
+
+Existing topic reused for the Bari Weiss question.
+
+*Related: C-13023, C-13024*
+
+---
+
+**N-10367** Fort Huachuca September 8–9, 2025 Eyewitness Encounter
+
+Existing topic reused for the Mitch eyewitness encounter.
+
+*Related: C-13016, C-13017, C-13019, C-13021, C-13022, C-13035, C-13045, C-13046, C-13047*
+
+---
+
+**N-10417** Fort Huachuca Erika Presence Investigation
+
+Existing topic reused for Erika's Fort Huachuca ties.
+
+*Related: C-13020*
+
+---
+
+**N-10538** Turning Point Action / Thomas Massie Disavowal Incident
+
+Existing topic reused for the Massie disavowal.
+
+*Related: C-13054*
+
+---
+
+**N-10609** Marcus Wada Arms Trafficking and Biography Cluster
+
+Existing topic reused for Wada's background.
+
+*Related: C-12979*
+
+---
+
+**N-10649** Candace-Erika December 15 Private Meeting Revelations
+
+Existing topic reused for the December 15 meeting.
+
+*Related: C-13015, C-13030, C-13033, C-13034, C-13055*
+
+---
+
+**N-10862** Harpole Shawn Ryan Statements vs Independent Review Findings
+
+Existing topic reused for Harpole's statements.
+
+*Related: C-13032, C-13048, C-13049, C-13050, C-13052*
+
+---
+
+**N-10897** Project Constitution
+
+Project Constitution; the X account Neff replied to.
+
+*Related: C-12972*
+
+---
+
+**N-10899** Paramount Tactical
+
+Paramount Tactical; livestream account that read the alibi.
+
+*Related: C-13026, C-13027, C-13031, C-13036, C-13037, C-13038, C-13039, C-13040, C-13041*
+
+---
+
+**N-10936** Aspen CEO-Appointment Video Non-Release
+
+Existing topic reused for non-release of the video.
+
+*Related: C-12974, C-12975, C-12983*
+
+---
+
+**N-10963** Cuba
+
+Cuba; subject of Shirley's trip and the headline.
+
+*Related: C-13004, C-13005, C-13006*
+
+---
+
+**N-11001** Valhalla VFT
+
+Valhalla VFT; account the host says threatened her.
+
+*Related: C-13026, C-13027, C-13036, C-13037, C-13038*
+
+---
+
+**N-11104** Liberty University
+
+Liberty University; Erika's master's.
+
+*Related: C-12989*
+
+---
+
+**N-11109** Andrew Kolvet Rogue-Actor Explanation
+
+Existing topic reused for the rogue explanation.
+
+*Related: C-13044*
+
+---
+
+**N-11182** TPUSA Crisis PR Team
+
+TPUSA Crisis PR Team; the PR firm Erika mentioned.
+
+*Related: C-13042, C-13043*
+
+---
+
+**N-11248** Arizona State University
+
+Arizona State University; Erika's claimed degree.
+
+*Related: C-12986, C-12987*
+
+---
+
+**N-11255** Hillsdale College
+
+Hillsdale College; commencement and honorary doctorate.
+
+*Related: C-12970, C-12984, C-13053*
+
+---
+
+**N-11287** Tim Pool Dispute With Candace Owens
+
+Existing topic reused for the Tim Pool dispute.
+
+*Related: C-12994*
+
+---
+
+**N-11312** Kolvet PR Role for Erika Kirk August 2025 Question
+
+Existing topic reused for Kolvet PR role.
+
+*Related: C-13043*
+
+---
+
+**N-11356** Druski Skit Mocking Erika Kirk Controversy
+
+Node Type: Topic
+The dispute over a Drewski comedy skit that mocked Erika Kirk, including whether it was racial and whether she took it too seriously.
+
+*Related: C-13007, C-13008, C-13009, C-13010*
 
 ---
 
@@ -772,6 +1250,1399 @@ Investigative Direction: Obtain Candace's documented record of the interview; ve
 
 ---
 
+**C-12970** Host Says Erika Said She Needed to Go Home Before Appearing at Hillsdale
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says Erika Kirk had said she wanted to go home and the audience endured a lecture about her needing to be home with her family, yet she then went to Michigan to give the Hillsdale College commencement speech.
+
+Transcript Snippet: after saying she wanted to go home, us enduring a lecture about how she needed to go home to her family, she bounced over to to Michigan
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-11255
+Tags: relevance:core
+Investigative Direction: Locate Erika Kirk's earlier public statements about going home to her family and compare them with the Hillsdale College commencement schedule.
+
+---
+
+**C-12971** Host Says Erika Cited Fear of Flying and Secret Service Gaps but Now Has No Secret Service
+
+Claim Timestamp: 00:00:01
+
+Claim: The host says Erika Kirk has been described as too scared to get on a plane by herself and as unprotectable by the Secret Service, and that she now has no Secret Service while appearing on stage at a school.
+
+Transcript Snippet: She's too scared to get on a plane by herself. Secret Service can't protect her. Oh, now she doesn't have Secret Service, and she's back on stage at a school, nonetheless.
+
+Anchored Artifacts: 
+Mentions: N-2
+Supports: C-8783
+Tags: relevance:core
+Investigative Direction: Obtain Erika Kirk's own statements on her protection status and any Secret Service or private security arrangements for the Hillsdale event.
+
+---
+
+**C-12972** Neff Replied to Project Constitution That It Was Not Very Smart
+
+Claim Timestamp: 00:02:41
+
+Claim: The host reads a post in which Blake Neff replied to Project Constitution, writing that it is not very smart.
+
+Transcript Snippet: Blake Neff jumped in. He wrote back to Project Constitution, you are not very smart, are you?
+
+Anchored Artifacts: A-3236.1
+Mentions: N-162
+Related Nodes: N-10897, N-10667
+Tags: relevance:context
+Investigative Direction: Pull Blake Neff's X reply to Project Constitution and confirm its wording, time and the post it answered.
+
+---
+
+**C-12973** Host Says She Never Heard Kolvet Was Divorcing
+
+Claim Timestamp: 00:03:41
+
+Claim: The host says she has never heard that Andrew Kolvet is divorcing his wife and that rumors like this surface about public figures about once a week.
+
+Transcript Snippet: by the way have never heard that Andrew Kolvet is divorcing his wife.
+
+Anchored Artifacts: 
+Mentions: N-14, N-3
+Related Nodes: N-10667
+Tags: relevance:tangential
+Investigative Direction: Check Arizona court records for any divorce filing and the original Project Constitution post; this is a personal matter and the host only reports her own awareness.
+
+---
+
+**C-12974** Host Says TPUSA Refuses to Release the Video of the Appointment Moment
+
+Claim Timestamp: 00:05:04
+
+Claim: The host says Turning Point USA is refusing to release video of the moment in which Charlie Kirk says he appoints his wife, and has not authoritatively responded that the donors are lying.
+
+Transcript Snippet: Turning Point for some reason is refusing to drop the video of that moment saying this of Charlie saying this.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10936, N-10664, N-10000
+Tags: relevance:core
+Investigative Direction: Ask TPUSA for the original camera footage and metadata of the Aspen presentation and whether any video of the statement exists.
+
+---
+
+**C-12975** Host Says Neff Worried People Would Call the Video AI
+
+Claim Timestamp: 00:05:04
+
+Claim: The host says Blake Neff specifically expressed concern that if TPUSA released the video people would say it is AI.
+
+Transcript Snippet: Blake has specifically expressed concern, you will recall, that if they do drop it, people will say it's AI.
+
+Anchored Artifacts: 
+Mentions: N-162
+Related Nodes: N-10936, N-10664
+Tags: relevance:core
+Investigative Direction: Find Blake Neff's own public or private statement expressing this concern, including its date and audience.
+
+---
+
+**C-12976** Host Says TPUSA Itself Pointed Her Team to the Video
+
+Claim Timestamp: 00:06:34
+
+Claim: The host says Turning Point USA itself mentioned the appointment video to her team.
+
+Transcript Snippet: the video, which I would like to point out, Turning Point USA mentioned this video to us.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10000, N-10664
+Tags: relevance:core
+Investigative Direction: Identify who at TPUSA mentioned the video to the host's team, when, and in what message or call.
+
+---
+
+**C-12977** Host Says Erika Told Megyn Kelly an Emotional Story About First Watching the Video
+
+Claim Timestamp: 00:06:34
+
+Claim: The host says Erika Kirk told Megyn Kelly an emotional story about what it felt like to watch the video of Charlie choosing her for the first time.
+
+Transcript Snippet: Erika herself told Megyn Kelly an emotional story about what she felt like watching that video for the first time
+
+Anchored Artifacts: 
+Mentions: N-2, N-46
+Related Nodes: N-10664
+Tags: relevance:core
+Investigative Direction: Review the Megyn Kelly interview with Erika Kirk for her account of watching the video and compare it with any released footage.
+
+---
+
+**C-12978** Host Says the Appointment Contradicts Charlie's Public Statements About Women Working
+
+Claim Timestamp: 00:06:34
+
+Claim: The host says that Charlie choosing his wife violates every public statement he had made about women working and is a complete reversal of his prior positions.
+
+Transcript Snippet: violating suddenly his every public statement and sentiment that he had ever expressed in the past about women working, complete 180 from his prior positions.
+
+Anchored Artifacts: 
+Mentions: N-1, N-2
+Related Nodes: N-10664
+Tags: relevance:core
+Investigative Direction: Compile Charlie Kirk's recorded statements on women and work and compare them with the appointment statement.
+
+---
+
+**C-12979** Host Calls Marcus Wada a Former Arms Dealer Now at TPUSA
+
+Claim Timestamp: 00:07:32
+
+Claim: The host describes Marcus Wada as a Turning Point employee who is a former arms dealer.
+
+Transcript Snippet: the Turning Point employee that's a rehabilitated former arms dealer.
+
+Anchored Artifacts: 
+Mentions: N-430
+Related Nodes: N-10609
+Supports: C-11428
+Tags: relevance:context
+Investigative Direction: Review Wada's own TPUSA biography, his LinkedIn and any reporting on his past arms-related work to confirm the description.
+
+---
+
+**C-12980** Host Says John Mappin Introduced Charlie to His Biggest Donor
+
+Claim Timestamp: 00:08:50
+
+Claim: The host says John Mappin is the person who introduced Charlie Kirk to his biggest donor.
+
+Transcript Snippet: John Mappin, who is the person who introduced Charlie to actually his biggest donor.
+
+Anchored Artifacts: 
+Mentions: N-157, N-1
+Tags: relevance:context
+Investigative Direction: Ask John Mappin or TPUSA donor records who the largest donor is and who made the introduction.
+
+---
+
+**C-12981** Host Says the Biggest Donor Was First on the List Called From the Hospital
+
+Claim Timestamp: 00:08:50
+
+Claim: The host says Charlie Kirk's biggest donor was first in line on a list of donors who received personal phone calls from the hospital on the day Charlie died.
+
+Transcript Snippet: A donor so big that that donor was first in line on a list of donors who received personal phone calls from the hospital the day that Charlie died.
+
+Anchored Artifacts: 
+Mentions: N-1
+Tags: relevance:core
+Investigative Direction: Obtain the donor call list and call records from the hospital day and identify who placed each call.
+
+---
+
+**C-12982** Host Describes Erika Walking Out at AmFest to Charlie's Voice in a Glittering Pantsuit
+
+Claim Timestamp: 00:11:17
+
+Claim: Describing a hypothetical in which the audio was AI, the host recounts that at AmFest Charlie's recorded voice passed the company to Erika while she wore a glittering pantsuit with fireworks behind her.
+
+Transcript Snippet: "The company is mine at Amfest while she wore glittering pants, glittering pant plant pantsuit and had fireworks going on behind her.
+
+Anchored Artifacts: 
+Mentions: N-2, N-1
+Related Nodes: N-10664
+Tags: relevance:core
+Investigative Direction: Review the AmFest 2025 stream and program for the audio cue, who cleared it, and its source file.
+
+---
+
+**C-12983** Host Says Neff's Subway Killer Scenario Is TPUSA's Reason for Not Releasing the Video
+
+Claim Timestamp: 00:13:53
+
+Claim: The host says Blake Neff's subway killer scenario is the stated reason Turning Point USA will not release the video.
+
+Transcript Snippet: you guys can take your bets on whether you believe Blake Neff and his uh Subway killer scenario as the reason they won't release the video.
+
+Anchored Artifacts: 
+Mentions: N-162
+Related Nodes: N-10936
+Tags: relevance:core
+Investigative Direction: Locate Blake Neff's original subway comparison and any TPUSA statement tying it to the non-release of the video.
+
+---
+
+**C-12984** Host Says Erika Accepted a Posthumous Honorary Doctorate for Charlie
+
+Claim Timestamp: 00:14:43
+
+Claim: The host says Erika Kirk accepted a posthumous honorary doctorate on behalf of Charlie Kirk, in addition to one for herself.
+
+Transcript Snippet: she accepted a posthumous doctorate degree for Charlie uh honorary doctorate and also an honorary doctorate for herself.
+
+Anchored Artifacts: A-2070.1
+Mentions: N-2, N-1
+Related Nodes: N-11255
+Supports: C-2894
+Tags: relevance:context
+Investigative Direction: Check Hillsdale College's commencement announcement for the list of honorary degrees conferred.
+
+---
+
+**C-12985** Host Says Erika Auditioned for the Great American Race With an Ex-Boyfriend
+
+Claim Timestamp: 00:17:23
+
+Claim: The host says Erika Kirk tried out for The Great American Race with an ex-boyfriend despite having said she had no boyfriend in the five years before Charlie.
+
+Transcript Snippet: when she was trying out for the American race with her ex-boyfriend, she never said, you know, she never had a boyfriend before Charlie in the five years before Charlie, but she did.
+
+Anchored Artifacts: A-3237.1
+Mentions: N-2
+Related Nodes: N-10665
+Tags: relevance:context
+Investigative Direction: Obtain the audition video and any Erika Kirk interviews on her dating history to compare the statements.
+
+---
+
+**C-12986** Host Says Erika Claimed ASU Magna Cum Laude in Her Audition Video
+
+Claim Timestamp: 00:17:23
+
+Claim: The host says that in the video Erika Kirk submitted for The Great American Race she said she graduated from ASU magna cum laude.
+
+Transcript Snippet: when they were trying out for the Great American Race in the video that she submitted, she said that she graduated from ASU magna laude.
+
+Anchored Artifacts: A-3237.1
+Mentions: N-2
+Related Nodes: N-10665, N-11248
+Tags: relevance:core
+Investigative Direction: Obtain the audition video and ASU's records of degree and honors conferred on Erika Kirk.
+
+---
+
+**C-12987** Host Says Erika Graduated With No Honors and No Double Degree
+
+Claim Timestamp: 00:18:10
+
+Claim: The host says Erika Kirk did not graduate magna cum laude or summa cum laude, graduated with no honors and did not earn a double degree.
+
+Transcript Snippet: she didn't graduate magna laude and she also didn't graduate summa laude. She didn't graduate with any honors and she did not graduate with a double degree.
+
+Anchored Artifacts: A-2071.2
+Mentions: N-2
+Related Nodes: N-10665, N-11248
+Tags: relevance:core
+Investigative Direction: Request ASU's degree verification (National Student Clearinghouse) and the commencement program for Erika Kirk's class.
+
+---
+
+**C-12988** Host Says the Inflated Credentials Were Put in Official Bios
+
+Claim Timestamp: 00:18:10
+
+Claim: The host says Erika Kirk's inflated credentials were put in bios and were not a single mistake by an intern.
+
+Transcript Snippet: she's put it on bios, so this is not like, oh, this was one mistake and I had an intern that typed a button wrong.
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10665
+Tags: relevance:core
+Investigative Direction: Collect archived TPUSA and third-party bios of Erika Kirk and date each claimed credential.
+
+---
+
+**C-12989** Host Says Erika Did Receive a Master's From Liberty University Online
+
+Claim Timestamp: 00:20:00
+
+Claim: The host says Erika Kirk did receive a master's degree from Liberty University online.
+
+Transcript Snippet: she did receive her master's um from Liberty University online
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-11104, N-10665
+Tags: relevance:context
+Investigative Direction: Verify the master's degree and field with Liberty University's registrar or degree verification service.
+
+---
+
+**C-12990** Host Says Bride of Charlie Left Out Erika's Educational Background
+
+Claim Timestamp: 00:20:00
+
+Claim: The host says the Bride of Charlie series did not cover that Erika Kirk's whole educational background was made up, because there were too many lies to include.
+
+Transcript Snippet: We never even covered that the whole educational background is made up
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10665
+Tags: relevance:context
+Investigative Direction: Compare the Bride of Charlie episodes with the later credential claims to confirm the topic was not covered.
+
+---
+
+**C-12991** Host Says Critics Call Nick Shirley Fed Jacketed
+
+Claim Timestamp: 00:24:42
+
+Claim: The host says people online call Nick Shirley fed jacketed, meaning he is being created by the media, and that she stumbled into the beef by accident.
+
+Transcript Snippet: like he's this the term that they use here is fed jacketed. Like essentially, he's being created by the media.
+
+Anchored Artifacts: 
+Mentions: N-217
+Related Nodes: N-10666
+Tags: relevance:context
+Investigative Direction: Identify who is using the term and what they cite for the claim that Shirley is media-created.
+
+---
+
+**C-12992** Host Says She Covered Shirley on Her September 10 Show and Owned a Mistake
+
+Claim Timestamp: 00:25:20
+
+Claim: The host says she covered the person on her September 10 show while working through timelines, made a mistake that she owned, and spoke with him right after the assassination.
+
+Transcript Snippet: That's the reason I covered him on the show on September 10th when I was trying to work through timelines and I made a mistake.
+
+Anchored Artifacts: 
+Mentions: N-217, N-3, N-1
+Related Nodes: N-10666
+Tags: relevance:context
+Investigative Direction: Review the host's September 10 show and her follow-up conversation with the person for what was said and corrected.
+
+---
+
+**C-12993** Host Says Shirley Is Known for Uncovering Somali Daycare Welfare Fraud
+
+Claim Timestamp: 00:25:20
+
+Claim: The host says the person is credited with uncovering massive welfare fraud in the Somali community in Minnesota, including daycare fraud, which she did not follow.
+
+Transcript Snippet: they say, Nick Fuentes has uncovered massive welfare fraud in the Somalian community in Minnesota.
+
+Anchored Artifacts: 
+Mentions: N-217
+Related Nodes: N-10666
+Supports: C-8531
+Tags: relevance:context
+Investigative Direction: Review the Minnesota daycare fraud reporting and the charging records that followed.
+
+---
+
+**C-12994** Host Says Her Remark Trended and Figures Like Tim Pool Backed Shirley
+
+Claim Timestamp: 00:26:59
+
+Claim: The host says that after she questioned the video it trended the next day and people she trusts least, including Tim Pool, wrote statements in support of Nick Shirley.
+
+Transcript Snippet: it was like trending and all of these people, the people I trust the least, by the way. I mean, like Tim Pool, everyone's like writing these statements
+
+Anchored Artifacts: 
+Mentions: N-217, N-271
+Related Nodes: N-10666, N-11287
+Tags: relevance:context
+Investigative Direction: Collect the posts defending Shirley and their timing relative to the host's remark.
+
+---
+
+**C-12995** Host Says a PBD Guest Said She Had Not Spoken to Charlie Since 2019
+
+Claim Timestamp: 00:26:59
+
+Claim: The host says Patrick Bet-David hosted a person who said she had not spoken to Charlie since 2019, and acknowledges that she and Charlie had not spoken.
+
+Transcript Snippet: he notoriously hosted the person who said I didn't speak to Charlie since, you know, 2019. We hadn't spoken.
+
+Anchored Artifacts: 
+Mentions: N-57, N-1, N-3
+Related Nodes: N-10059
+Tags: relevance:core
+Investigative Direction: Identify the guest and episode, and compare with the host's records of contact with Charlie Kirk after 2019.
+
+---
+
+**C-12996** Host Says She and Charlie Were at War With Each Other
+
+Claim Timestamp: 00:28:05
+
+Claim: The host says she and Charlie Kirk were at war with each other during the period they did not speak.
+
+Transcript Snippet: We were at war with each other. Whatever. I don't care.
+
+Anchored Artifacts: 
+Mentions: N-3, N-1
+Tags: relevance:core
+Investigative Direction: Compare with the host's other accounts of her relationship with Charlie Kirk and any messages from that period.
+
+---
+
+**C-12997** Host Says PBD Feigned Ignorance of Her Remark About Shirley
+
+Claim Timestamp: 00:28:05
+
+Claim: The host says Patrick Bet-David pretended to have no idea about her remark and already knew she had said it, and calls the exchange contrived.
+
+Transcript Snippet: PBD's pretending he had no idea. He completely already knew I said this.
+
+Anchored Artifacts: A-2073.2
+Mentions: N-57, N-217
+Related Nodes: N-10666
+Tags: relevance:context
+Investigative Direction: Review the full PBD interview and PBD's earlier statements about Shirley to see whether he had addressed the host's remark before.
+
+---
+
+**C-12998** Host Says Shirley Made Videos Infiltrating Antifa and El Salvador at 23
+
+Claim Timestamp: 00:29:35
+
+Claim: The host says Nick Shirley has presented infiltrating antifa and infiltrating El Salvador at the age of 23, which she suggests implies a contact behind him.
+
+Transcript Snippet: whoever is your contact that has you infiltrating antifa and infiltrating El Salvador at the age of 23 years old
+
+Anchored Artifacts: 
+Mentions: N-217
+Related Nodes: N-10666
+Tags: relevance:context
+Investigative Direction: Review Shirley's antifa and El Salvador videos for sourcing and the access he claims.
+
+---
+
+**C-12999** PBD Asks Whether Shirley Is Being Called a Handler's Asset
+
+Claim Timestamp: 00:30:15
+
+Claim: In the clip, Patrick Bet-David asks whether the host was suggesting Shirley has a handler or is representing somebody.
+
+Transcript Snippet: Meaning your your handler or you're representing somebody?
+
+Anchored Artifacts: A-2073.2
+Mentions: N-57, N-217
+Tags: relevance:tangential
+Investigative Direction: Watch the PBD interview segment and transcribe the full exchange.
+
+---
+
+**C-13000** Shirley Says Podcasters Should Leave Their Studios and Do Journalism
+
+Claim Timestamp: 00:30:15
+
+Claim: In the PBD clip, Nick Shirley says podcasters should leave their studios and do journalism so they would see that things sometimes just happen.
+
+Transcript Snippet: maybe if these podcasters would actually leave their podcast studios, no offense, Pat, uh they leave their podcast studios and go and like do journalism, like they'd actually see like stuff just sometimes just happens.
+
+Anchored Artifacts: A-2073.2
+Mentions: N-217, N-57
+Related Nodes: N-10666
+Tags: relevance:context
+Investigative Direction: Obtain the PBD episode and confirm the quote and context.
+
+---
+
+**C-13001** Host Calls Shirley a Mormon Kid From Utah
+
+Claim Timestamp: 00:31:38
+
+Claim: The host refers to Nick Shirley as a Mormon kid from Utah.
+
+Transcript Snippet: A Mormon kid from Utah with the camera
+
+Anchored Artifacts: 
+Mentions: N-217
+Related Nodes: N-10666
+Supports: C-8533
+Tags: relevance:tangential
+Investigative Direction: Check Shirley's own statements about his religion and home state.
+
+---
+
+**C-13002** Host Says She Lived in South America for Two Months to Learn Spanish
+
+Claim Timestamp: 00:31:38
+
+Claim: The host says she moved to South America for two months to learn Spanish and was told not to wear jewelry or makeup or look American.
+
+Transcript Snippet: I moved down to South America for 2 months to learn Spanish with very strict instructions.
+
+Anchored Artifacts: 
+Mentions: N-3
+Tags: relevance:tangential
+Investigative Direction: This is the host's own biography and could only be checked against her travel records.
+
+---
+
+**C-13003** Host Says Erika Laughed About Emojis on a Zoom Call Six Days After the Assassination
+
+Claim Timestamp: 00:35:48
+
+Claim: The host says Erika Kirk was on a Zoom call laughing about emojis six days after her husband was assassinated.
+
+Transcript Snippet: it is not normal for a woman whose husband was assassinated in broad daylight to 6 days later be on a Zoom call laughing about emojis.
+
+Anchored Artifacts: 
+Mentions: N-2, N-1
+Related Nodes: N-10000
+Supports: C-2206
+Tags: relevance:core
+Investigative Direction: Obtain the recording or leaked audio of the TPUSA staff Zoom call and locate the emoji exchange.
+
+---
+
+**C-13004** Host Says Shirley Claims He Went to Cuba and Was Almost Taken Hostage
+
+Claim Timestamp: 00:36:34
+
+Claim: The host says Nick Shirley claims he went to Cuba and was almost taken hostage.
+
+Transcript Snippet: He claims he he went to Cuba. He was almost taken hostage.
+
+Anchored Artifacts: 
+Mentions: N-217
+Related Nodes: N-10963, N-10666
+Tags: relevance:context
+Investigative Direction: Review Shirley's Cuba video and posts for what he says happened and when.
+
+---
+
+**C-13005** Headline Says US Spy Flights Over Cuba Are Surging and New Sanctions Are in Place
+
+Claim Timestamp: 00:37:14
+
+Claim: The host reads a headline from the previous day asking whether the US will invade Cuba, reporting that spy flights there are surging and there are new sanctions.
+
+Transcript Snippet: And of course, this headline from yesterday, "Will the US invade Cuba?" It tells us that spy flights there are surging. There are new sanctions.
+
+Anchored Artifacts: A-3238.1
+Mentions: 
+Related Nodes: N-10963
+Tags: relevance:tangential
+Investigative Direction: Find the headline and underlying article and the flight-tracking and sanctions data it cites.
+
+---
+
+**C-13006** Host Says the CIA Is Involved in Cuba at This Moment
+
+Claim Timestamp: 00:37:14
+
+Claim: The host asserts that the CIA is involved in Cuba at this moment.
+
+Transcript Snippet: And we all know the CIA is involved in Cuba at this moment.
+
+Anchored Artifacts: 
+Mentions: 
+Related Nodes: N-10963
+Tags: relevance:tangential
+Investigative Direction: No source is given on air; any reporting on current CIA activity in Cuba would be needed.
+
+---
+
+**C-13007** Host Says Charlie Would Have Laughed at the Drewski Skit but Erika Took It Seriously
+
+Claim Timestamp: 00:40:55
+
+Claim: The host says Charlie would have laughed at the Drewski skit mocking Erika, but Erika took it deadly seriously.
+
+Transcript Snippet: Charlie would have laughed at that stuff, but we see that Erika has taken the Druski skit deadly serious for some reason.
+
+Anchored Artifacts: 
+Mentions: N-1, N-2, N-602
+Related Nodes: N-11356
+Tags: relevance:context
+Investigative Direction: Locate the Druski skit and Erika Kirk's or TPUSA's public response to it.
+
+---
+
+**C-13008** Host Says Kolvet and Others Tried to Make the Skit Racial
+
+Claim Timestamp: 00:41:46
+
+Claim: The host says people including Andrew Kolvet tried to turn the Drewski skit about Erika into a racial issue.
+
+Transcript Snippet: the people that were trying to turn that into something racial, like Andrew Kolvet, now do like black conservatives.
+
+Anchored Artifacts: 
+Mentions: N-14, N-602, N-2
+Related Nodes: N-11356
+Tags: relevance:context
+Investigative Direction: Find Kolvet's and other TPUSA figures' posts characterizing the skit as racial.
+
+---
+
+**C-13009** Host Says Drewski Also Mocks Vietnamese People in a Nail Salon Skit
+
+Claim Timestamp: 00:41:46
+
+Claim: The host says Drewski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.
+
+Transcript Snippet: He dressed up like he was Vietnamese person, did this whole nail salon thing.
+
+Anchored Artifacts: 
+Mentions: N-602
+Related Nodes: N-11356
+Tags: relevance:tangential
+Investigative Direction: Locate the nail salon skit and its date.
+
+---
+
+**C-13010** Host Says Drewski Posted a Video Last Week Targeting Black British Actors
+
+Claim Timestamp: 00:41:46
+
+Claim: The host says Drewski posted a massive video the previous week that targeted black British actors.
+
+Transcript Snippet: just last week he dropped a massive video where he was targeting black British actors and it was hilarious and we just laughed at it.
+
+Anchored Artifacts: 
+Mentions: N-602
+Related Nodes: N-11356
+Tags: relevance:tangential
+Investigative Direction: Locate the video and its date.
+
+---
+
+**C-13011** Host Says JD Vance Lectured the Audience When Erika Did Not Show Up
+
+Claim Timestamp: 00:43:01
+
+Claim: The host says that when Erika Kirk did not show up to an event, JD Vance lectured the audience.
+
+Transcript Snippet: she doesn't show up to an event and you have JD Vance lecture us.
+
+Anchored Artifacts: 
+Mentions: N-4, N-2
+Supports: C-11446
+Tags: relevance:core
+Investigative Direction: Identify the event and review Vance's remarks and Erika Kirk's stated reason for not attending.
+
+---
+
+**C-13012** Host Alleges Erika Made an AI Video of Charlie Saying He Wanted Her
+
+Claim Timestamp: 00:43:01
+
+Claim: The host alleges that Erika Kirk made a whole AI video saying her husband wanted her to lead, which she says everyone knows spiritually is untrue.
+
+Transcript Snippet: you wanted to be Charlie Kirk so bad that you allegedly made a whole AI video saying your husband wanted you
+
+Anchored Artifacts: 
+Mentions: N-2, N-1
+Related Nodes: N-10664
+Supports: C-2888
+Tags: relevance:core
+Investigative Direction: Forensic audio analysis of the released clip and the original Aspen recording, and testimony from event staff and the donors present.
+
+---
+
+**C-13013** Host Says Charlie Did Not Change His Mind Two Weeks Before He Died
+
+Claim Timestamp: 00:43:51
+
+Claim: The host says Charlie did not change his mind about women two weeks before he died and that there are hours of footage of him saying women should stay home.
+
+Transcript Snippet: Charlie didn't change his mind 2 weeks before he died. We know what he thought. We have hours and hours and hours and hours of footage of Charlie Kirk saying women should stay home.
+
+Anchored Artifacts: 
+Mentions: N-1
+Related Nodes: N-10664
+Tags: relevance:core
+Investigative Direction: Compile dated Charlie Kirk clips on women and work to test whether his stated position changed.
+
+---
+
+**C-13014** Comment Says The Quartering Faces a Potential Lawsuit Over False Flagging and Doxing
+
+Claim Timestamp: 00:45:18
+
+Claim: A comment read by the host says The Quartering is facing a potential lawsuit involving false flagging, deplatforming other YouTube channels, doxing and harassment; the host says she did not know about it.
+
+Transcript Snippet: the Quartering has messed with you on X and is now facing a potential lawsuit involving false flagging and deplatforming other YouTube channels, as well as for doxing and harassment.
+
+Anchored Artifacts: A-3239.1
+Mentions: N-160, N-3
+Tags: relevance:context
+Investigative Direction: Search court dockets for any complaint against The Quartering and who is suing.
+
+---
+
+**C-13015** Host Says She Is Considering Publishing Everything Online Like Bryan Freedman
+
+Claim Timestamp: 00:45:18
+
+Claim: The host says she is thinking of putting the whole record online, as Bryan Freedman did in the Lively and Baldoni dispute, because she has nothing to hide.
+
+Transcript Snippet: I'm thinking about doing the Bryan Freedman thing, which was obviously a lawyer Blake Lively Justin Baldoni, where he just put it all online cuz I have nothing to hide.
+
+Anchored Artifacts: 
+Mentions: N-901, N-490, N-491, N-3
+Related Nodes: N-10649
+Tags: relevance:context
+Investigative Direction: Watch for the host's publication of the Fort Huachuca timeline, messages and documents.
+
+---
+
+**C-13016** Host Says Mitch's Friend Emailed Her and She Called Mitch
+
+Claim Timestamp: 00:45:18
+
+Claim: The host says Mitch's friend emailed her, she called him, and he told his story.
+
+Transcript Snippet: it was Mitch's friend that emailed me, and I called him, and he said his story.
+
+Anchored Artifacts: 
+Mentions: N-366, N-3
+Related Nodes: N-10367
+Tags: relevance:core
+Investigative Direction: The host's original email and call log would show who made first contact.
+
+---
+
+**C-13017** Host Says Mitch Saw Erika on the 8th Not Leaving a Meeting
+
+Claim Timestamp: 00:45:18
+
+Claim: The host says Mitch was clear that he saw both Brian Harpole and Erika, and that he saw Erika on the 8th and she was not leaving a meeting.
+
+Transcript Snippet: He was clear that he saw Brian Harpole and he saw Erika. But, he said he saw Erika Kirk on the 8th, and she wasn't leaving a meeting.
+
+Anchored Artifacts: 
+Mentions: N-366, N-270, N-2
+Related Nodes: N-10367
+Supports: C-1973, C-6761
+Tags: relevance:core
+Investigative Direction: Obtain Mitch's account with hotel and base records for September 8 and 9, 2025.
+
+---
+
+**C-13018** Host Says Mitch Saw Harpole Leaving the Meeting on the 9th When the Cops Were Called
+
+Claim Timestamp: 00:46:33
+
+Claim: The host says Mitch saw Brian Harpole on the 9th as he was leaving the meeting on the Fort Huachuca base, which was when the cops were called.
+
+Transcript Snippet: Brian Harpole he saw on the 9th, and he was leaving the meeting on Fort Huachuca base, and that was when the cops were called, all of that.
+
+Anchored Artifacts: 
+Mentions: N-366, N-270
+Related Nodes: N-10373
+Supports: C-6758
+Tags: relevance:core
+Investigative Direction: Request Fort Huachuca police call logs for September 9, 2025.
+
+---
+
+**C-13019** Host Says Mitch Saw Erika at a Hotel Not Tied to the Meeting and Not With Harpole
+
+Claim Timestamp: 00:46:33
+
+Claim: The host says Mitch saw Erika at a hotel, that sighting was not related to the meeting, and he did not see her with Brian Harpole.
+
+Transcript Snippet: he saw her at a hotel. It wasn't related to the meeting. He didn't see her with Brian
+
+Anchored Artifacts: 
+Mentions: N-366, N-2, N-270
+Related Nodes: N-10367
+Tags: relevance:core
+Investigative Direction: Candlewood hotel records and security footage for September 8, 2025.
+
+---
+
+**C-13020** Host Says Erika's Mother and Stepfather Have Government Contracts
+
+Claim Timestamp: 00:46:33
+
+Claim: The host says she knew Erika Kirk's mother and stepfather have contracts with the government, giving many other reasons Erika could have been at the Fort Huachuca airbase.
+
+Transcript Snippet: I knew that her mom and her stepdad have contracts with the government.
+
+Anchored Artifacts: 
+Mentions: N-2
+Related Nodes: N-10417
+Supports: C-6901
+Tags: relevance:context
+Investigative Direction: Federal contract databases (SAM.gov, USAspending) for the mother's and stepfather's companies.
+
+---
+
+**C-13021** Host Says Her First Presentation Left Erika Out Entirely
+
+Claim Timestamp: 00:46:33
+
+Claim: The host says that when she first presented the story she told Mitch's background and said only that he saw Brian Harpole on the 9th, removing Erika from it entirely.
+
+Transcript Snippet: I said he saw Brian Harpole on the 9th, right? Removed Erika from it entirely.
+
+Anchored Artifacts: 
+Mentions: N-3, N-270, N-2
+Related Nodes: N-10367
+Tags: relevance:core
+Investigative Direction: Rewatch the host's first Mitch segment to confirm Erika was not named.
+
+---
+
+**C-13022** Host Says Erika Went on Harris Faulkner the Next Day Fired Up About Conspiracy Theories
+
+Claim Timestamp: 00:47:28
+
+Claim: The host says that the day after her first presentation, Erika went on Harris Faulkner's Fox show and for the first time was fired up, telling people to stop conspiracy theories.
+
+Transcript Snippet: Harris Faulkner, she went on that show and then she was all fired up for the first time and like stop conspiracy theories you need to stop. That was the very next day.
+
+Anchored Artifacts: 
+Mentions: N-2, N-807, N-3
+Related Nodes: N-10367
+Supports: C-8066
+Tags: relevance:core
+Investigative Direction: Pull the Fox News broadcast and match its date to the host's first Mitch segment.
+
+---
+
+**C-13023** Host Says the Bari Weiss Interview Clip Cut Erika Addressing the Podcaster Candace Owens
+
+Claim Timestamp: 00:47:28
+
+Claim: The host says that the day after the Faulkner interview Erika did Bari Weiss and they cut a clip of her answering what she has to say to the podcaster Candace Owens.
+
+Transcript Snippet: Then the day after that she did Bari Weiss and they cut the clip of her saying, "What do you have to say to the podcaster Candace Owens?"
+
+Anchored Artifacts: 
+Mentions: N-2, N-282, N-3
+Related Nodes: N-10349
+Tags: relevance:core
+Investigative Direction: Obtain the full CBS interview and the cut clip.
+
+---
+
+**C-13024** Host Says She Later Learned the Question Segment Was Planned
+
+Claim Timestamp: 00:47:28
+
+Claim: The host says she later found out that Erika's side had planned the question-and-answer segment about her.
+
+Transcript Snippet: I then would later find out that they had planned that the question answer segment
+
+Anchored Artifacts: 
+Mentions: N-2, N-282, N-3
+Related Nodes: N-10349
+Tags: relevance:core
+Investigative Direction: Identify the source of the host's later information and any CBS or TPUSA communications about the question.
+
+---
+
+**C-13025** Host Says Justin Streiff Emailed Her Team While the Show Was Off for the Weekend
+
+Claim Timestamp: 00:47:28
+
+Claim: The host says Justin Streiff emailed her team while the show was off for the weekend, after the Bari Weiss segment.
+
+Transcript Snippet: Justin Streiff emails us and we're off for the weekend
+
+Anchored Artifacts: 
+Mentions: N-15, N-3
+Tags: relevance:core
+Investigative Direction: Obtain the Streiff email, its date and content.
+
+---
+
+**C-13026** Host Says Ian Carroll Called as Valhalla Already Threatened Her Not to Interview Mitch
+
+Claim Timestamp: 00:47:28
+
+Claim: The host says Ian Carroll called her while the Valhalla YouTuber was already threatening her not to interview Mitch, and that she was threatened with a lawsuit before she even interviewed him.
+
+Transcript Snippet: I get Ian Carroll calling me and he's got Paramount Tactical I mean uh Valhalla the YouTuber Green Beret basically already threatening me like don't don't interview Mitch.
+
+Anchored Artifacts: 
+Mentions: N-131, N-366, N-3
+Related Nodes: N-11001, N-10899
+Tags: relevance:core
+Investigative Direction: Obtain the threatening messages, the call record with Ian Carroll and the date of each.
+
+---
+
+**C-13027** Host Says She Was Threatened With a Lawsuit Before Interviewing Mitch
+
+Claim Timestamp: 00:47:28
+
+Claim: The host says she was threatened with a lawsuit before she had even interviewed Mitch.
+
+Transcript Snippet: So I'm getting threatened with a lawsuit before I even interview Mitch and I'm like dude, what's up?
+
+Anchored Artifacts: 
+Mentions: N-366, N-3
+Related Nodes: N-11001, N-10899
+Tags: relevance:core
+Investigative Direction: Obtain the written threat and identify its sender.
+
+---
+
+**C-13028** Host Says She Messaged Harpole Offering a Chance to Debunk Mitch
+
+Claim Timestamp: 00:48:53
+
+Claim: The host says she messaged Brian Harpole offering him the chance to debunk Mitch's account before the interview.
+
+Transcript Snippet: So I message Brian Harpole and I'm like, "Hey, like I'm going to have this guy Mitch on but like we could I could also like if you want to debunk it I'm happy to do.
+
+Anchored Artifacts: 
+Mentions: N-270, N-366, N-3
+Related Nodes: N-10373
+Supports: C-5398
+Tags: relevance:core
+Investigative Direction: Produce the host's message to Harpole and its timestamp.
+
+---
+
+**C-13029** Host Says Harpole Did Not Answer Her Message
+
+Claim Timestamp: 00:48:53
+
+Claim: The host says Brian Harpole did not answer her message.
+
+Transcript Snippet: I haven't yet had Mitch on. He doesn't answer.
+
+Anchored Artifacts: 
+Mentions: N-270, N-3
+Related Nodes: N-10373
+Supports: C-6837
+Tags: relevance:core
+Investigative Direction: The message thread would show delivery and any reply.
+
+---
+
+**C-13030** Host Says the Erika Meeting Was Scheduled in Her Show Block With a Ceasefire
+
+Claim Timestamp: 00:48:53
+
+Claim: The host says Erika's side scheduled the meeting during the block when she would normally record her show and proposed a ceasefire in which no one would talk.
+
+Transcript Snippet: They scheduled it during the block where I would normally have my show. They said let's have a ceasefire. No one's going to talk
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10649
+Tags: relevance:core
+Investigative Direction: Obtain the scheduling messages for the December 15 meeting.
+
+---
+
+**C-13031** Host Says TPUSA Boosted Paramount Tactical During Her Four-Hour Meeting
+
+Claim Timestamp: 00:48:53
+
+Claim: The host says that during the ceasefire TPUSA boosted Paramount Tactical to try to debunk her on the show while she was in a hotel for four hours.
+
+Transcript Snippet: and then they boosted Paramount Tactical basically trying to debunk me on the show while I was in a hotel for 4 hours.
+
+Anchored Artifacts: 
+Mentions: N-3
+Related Nodes: N-10899
+Supports: C-9930
+Tags: relevance:core
+Investigative Direction: Review the broadcast and TPUSA's channels for the date and time Paramount Tactical was featured.
+
+---
+
+**C-13032** Host Says Erika Claimed a Communication Breakdown With Harpole and No Authorization for Shawn Ryan
+
+Claim Timestamp: 00:49:33
+
+Claim: The host says Erika told her TPUSA was very upset with Brian Harpole, had a communication breakdown with him and never authorized him to go on the Shawn Ryan show.
+
+Transcript Snippet: she said to me that they were very upset with Brian Harpole that they were not they had a communication breakdown with him. They never authorized him to go on the Shawn Ryan show
+
+Anchored Artifacts: 
+Mentions: N-2, N-270, N-228
+Related Nodes: N-10862
+Supports: C-3997
+Tags: relevance:core
+Investigative Direction: Compare with Harpole's statements about whether TPUSA approved his Shawn Ryan appearance.
+
+---
+
+**C-13033** Host Says She Clocked Erika in a Couple of Lies During the Meeting
+
+Claim Timestamp: 00:50:10
+
+Claim: The host says Erika had already told her a couple of lies by that point and that she noted them but chose to go easy so Erika would keep talking.
+
+Transcript Snippet: At that point, she had already told me a couple of lies, so I was on the like, "Okay, let's go easy." Clocked her on a couple of lies, but I didn't want her to stop talking.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10649
+Tags: relevance:core
+Investigative Direction: The host's notes or recording of the meeting would identify the statements.
+
+---
+
+**C-13034** Host Says Justin Asked When Her Show Goes Off Air Before Christmas
+
+Claim Timestamp: 00:50:10
+
+Claim: The host says Justin Streiff asked when her show goes off air as Christmas approached, and she felt it was an attempt to get her not to interview Mitch.
+
+Transcript Snippet: "When is your show off air?" cuz we were coming up on Christmas, and I was like, "Well, in a couple of days, actually."
+
+Anchored Artifacts: 
+Mentions: N-15, N-3, N-366
+Related Nodes: N-10649
+Tags: relevance:core
+Investigative Direction: The host's notes and any witnesses to the question.
+
+---
+
+**C-13035** Host Says She Interviewed Mitch on the 18th
+
+Claim Timestamp: 00:50:57
+
+Claim: The host says she interviewed Mitch on the 18th, after Harpole did not respond and Erika's alibi did not cover him, and Mitch said he saw Erika on the 8th.
+
+Transcript Snippet: And then I interviewed him. I did it on the 18th.
+
+Anchored Artifacts: 
+Mentions: N-366, N-3
+Related Nodes: N-10367
+Tags: relevance:core
+Investigative Direction: The episode's air date and the host's publication log.
+
+---
+
+**C-13036** Host Says Valhalla Messages Threatened to Ruin Her Unless She Revoked Her Fort Huachuca Commentary
+
+Claim Timestamp: 00:50:57
+
+Claim: The host says messages from Valhalla explicitly threatened to bury her in everything Mitch has done in his past unless she revoked her Fort Huachuca commentary, saying he was talking to Mitch's ex-wife.
+
+Transcript Snippet: if she does not like basically revoke her commentary about Fort Huachuca, we're going to basically bury her in everything Mitch has done in his past.
+
+Anchored Artifacts: 
+Mentions: N-366, N-3
+Related Nodes: N-11001, N-10899
+Supports: C-9929
+Tags: relevance:core
+Investigative Direction: Obtain the Valhalla messages and their metadata.
+
+---
+
+**C-13037** Host Says Paramount Tactical and Valhalla Called Mitch and Played Good Cop
+
+Claim Timestamp: 00:51:41
+
+Claim: The host says Paramount Tactical and Valhalla called Mitch and played good cop, inviting him on as a fellow Green Beret.
+
+Transcript Snippet: They were like, "Yeah, brother. Like uh we'd love to have have on the show, fellow green green beret."
+
+Anchored Artifacts: 
+Mentions: N-366
+Related Nodes: N-10899, N-11001
+Supports: C-6763
+Tags: relevance:core
+Investigative Direction: Obtain Mitch's account and any recording of the calls.
+
+---
+
+**C-13038** Host Says They Told Her It Was a Case of Stolen Valor
+
+Claim Timestamp: 00:51:41
+
+Claim: The host says Paramount Tactical and Valhalla told her the opposite of what they told Mitch, that it was a case of stolen valor.
+
+Transcript Snippet: they were telling me the opposite or trying to tell me the opposite that this is a a case of stolen valor.
+
+Anchored Artifacts: 
+Mentions: N-366, N-3
+Related Nodes: N-10899, N-11001
+Tags: relevance:core
+Investigative Direction: Compare their messages to the host with their calls to Mitch.
+
+---
+
+**C-13039** Host Says Paramount Tactical Accidentally Read Erika's Alibi Live
+
+Claim Timestamp: 00:51:41
+
+Claim: The host says Paramount Tactical accidentally read Erika's alibi live on his show even though it said please don't share.
+
+Transcript Snippet: accidentally Paramount Tactical read Erika's alibi um live on his show when it said please don't share.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10899
+Supports: C-3904
+Tags: relevance:core
+Investigative Direction: Review the Paramount Tactical stream for the moment the message was read.
+
+---
+
+**C-13040** Host Says She Had Known the Photo's Children Were Not Erika's
+
+Claim Timestamp: 00:51:41
+
+Claim: The host says she knew the children in the alibi photo were not Erika's and did not share that she knew.
+
+Transcript Snippet: I didn't even share the fact that I knew that that was not her kids.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10899
+Tags: relevance:core
+Investigative Direction: Identify the host's source for the knowledge; do not identify the children.
+
+---
+
+**C-13041** Host Says They Could Have Texted Her Instead of Going Through YouTubers
+
+Claim Timestamp: 00:53:10
+
+Claim: The host says that because Erika and she had just sat down, they could have texted her the alibi, but instead went behind the scenes.
+
+Transcript Snippet: Erika and I had just sat down. So they could have just texted me and said hey just so you know
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-10899
+Supports: C-9928
+Tags: relevance:core
+Investigative Direction: The host's phone and message records would show whether any text was sent.
+
+---
+
+**C-13042** Host Says Erika Told Her TPUSA Hired Crisis PR
+
+Claim Timestamp: 00:53:10
+
+Claim: The host says Erika Kirk told her TPUSA had hired crisis PR and were moving Andrew Kolvet out of PR.
+
+Transcript Snippet: after she told me that they had hired crisis PR, and they were moving Andrew out of out of PR.
+
+Anchored Artifacts: 
+Mentions: N-2, N-14, N-3
+Related Nodes: N-11182
+Tags: relevance:core
+Investigative Direction: Identify the crisis PR firm and its contract date.
+
+---
+
+**C-13043** Host Says Erika Said Kolvet Was Moved Completely Off PR as an Unmitigated Disaster
+
+Claim Timestamp: 00:53:10
+
+Claim: The host says Erika told her TPUSA was moving Kolvet completely off PR because he had been an unmitigated disaster, though she cannot recall whether Erika said he would be fired.
+
+Transcript Snippet: she said they were moving him completely off of PR, full stop, and they had stopped using him because he had been an unmitigated disaster.
+
+Anchored Artifacts: 
+Mentions: N-2, N-14, N-3
+Related Nodes: N-11312, N-11182
+Supports: C-9931
+Tags: relevance:core
+Investigative Direction: Compare with Kolvet's public roles on TPUSA broadcasts after the meeting.
+
+---
+
+**C-13044** Host Says Erika Lied About Andrew Going Rogue
+
+Claim Timestamp: 00:53:10
+
+Claim: The host says Erika was lying when she said Andrew went rogue, because Kolvet was coordinating the Paramount Tactical and Valhalla response.
+
+Transcript Snippet: That was when she was lying about Andrew went rogue, Andrew went rogue.
+
+Anchored Artifacts: 
+Mentions: N-2, N-14, N-3
+Related Nodes: N-11109
+Supports: C-5562
+Tags: relevance:core
+Investigative Direction: Compare Erika's rogue account with the Kolvet to Paramount Tactical messages.
+
+---
+
+**C-13045** Host Says Mitch Had Videos Proving He Was There
+
+Claim Timestamp: 00:53:10
+
+Claim: The host says she fact-checked enough to know Mitch was there and that he had videos.
+
+Transcript Snippet: I obviously fact-checked enough to know that Mitch was there. He had the videos.
+
+Anchored Artifacts: A-3240.1
+Mentions: N-366
+Related Nodes: N-10367
+Supports: C-1987
+Tags: relevance:core
+Investigative Direction: Obtain and authenticate Mitch's videos and metadata.
+
+---
+
+**C-13046** Host Says She Obtained Mitch's Hotel Reservation and Confirmed His ID Tags Were Real
+
+Claim Timestamp: 00:54:26
+
+Claim: The host says she had Mitch's hotel reservation and confirmed with a source that his military ID tags were real.
+
+Transcript Snippet: I had his hotel reservation. I had um I had confirmed with a source that his ID tags were real, the military ID tags.
+
+Anchored Artifacts: A-3240.1
+Mentions: N-366
+Related Nodes: N-10367
+Supports: C-1987, C-8102
+Tags: relevance:core
+Investigative Direction: Candlewood reservation records and military ID tag verification.
+
+---
+
+**C-13047** Host Says the Reaction Moved Her From 40/60 or 30/70 Toward Believing Mitch
+
+Claim Timestamp: 00:54:26
+
+Claim: The host says the reaction she received moved her from 40/60, maybe 30/70, toward believing the Fort Huachuca account.
+
+Transcript Snippet: So, they took me from being 40/60, maybe even 30/70.
+
+Anchored Artifacts: 
+Mentions: N-3, N-366
+Related Nodes: N-10367
+Tags: relevance:context
+Investigative Direction: The host's own earlier statements on her confidence levels.
+
+---
+
+**C-13048** Host Says Harpole's Lawsuit Contains Lies but Does Not Show He Was Not at Fort Huachuca
+
+Claim Timestamp: 00:54:26
+
+Claim: The host says the number of times Bryan Harpole lies in the lawsuit does not make her think he was not at Fort Huachuca.
+
+Transcript Snippet: And the amount of times that Bryan Harpole lies in this lawsuit on its face, to me, does not make me think he was not at Fort Huachuca.
+
+Anchored Artifacts: A-3241.1
+Mentions: N-270
+Related Nodes: N-10862, N-10373
+Tags: relevance:core
+Investigative Direction: Compare the filing's factual statements with the record.
+
+---
+
+**C-13049** Host Says Harpole's Filing Claims She Had His Alibi, Which She Says Is Untrue
+
+Claim Timestamp: 00:54:26
+
+Claim: The host says Brian Harpole's filing claims she had his alibi and that the filers know that is objectively untrue.
+
+Transcript Snippet: Him saying Candace had his alibi, they know that is objectively not true.
+
+Anchored Artifacts: A-3241.1
+Mentions: N-270, N-3
+Related Nodes: N-10862
+Tags: relevance:core
+Investigative Direction: Read the complaint paragraph on the alibi and compare with the host's account.
+
+---
+
+**C-13050** Host Says Harpole's Filing Blames Her for His Shawn Ryan Appearance Though She Had Not Mentioned Him
+
+Claim Timestamp: 00:55:19
+
+Claim: The host says the filing says Harpole went on Shawn Ryan because of the grief she put him through, although she never mentioned him on her show until after the Ryan appearance.
+
+Transcript Snippet: Why are you saying he went on Shawn Ryan because of the grief that I put him through, knowing fully well that I never mentioned him on my show until post-Shawn Ryan?
+
+Anchored Artifacts: A-3241.1
+Mentions: N-270, N-228, N-3
+Related Nodes: N-10862
+Supports: C-2817, C-2816
+Tags: relevance:core
+Investigative Direction: Compare the airing dates of the host's first Harpole mention and the Shawn Ryan interview.
+
+---
+
+**C-13051** Host Says She Messaged Harpole Four Times
+
+Claim Timestamp: 00:55:19
+
+Claim: The host says she messaged Brian Harpole four times.
+
+Transcript Snippet: I messaged him four times
+
+Anchored Artifacts: 
+Mentions: N-270, N-3
+Related Nodes: N-10373
+Tags: relevance:core
+Investigative Direction: The message thread would show the count; earlier episodes gave smaller numbers.
+
+---
+
+**C-13052** Host Says Harpole Has Not Provided Receipts for the Morning of the 9th
+
+Claim Timestamp: 00:55:19
+
+Claim: The host says Harpole's side has still not provided receipts for his whereabouts on the morning of the 9th.
+
+Transcript Snippet: They still have not provided any receipts as to his whereabouts on the morning of the 9th and I look forward to getting them.
+
+Anchored Artifacts: 
+Mentions: N-270
+Related Nodes: N-10373, N-10862
+Tags: relevance:core
+Investigative Direction: Check the court docket for any submitted alibi evidence.
+
+---
+
+**C-13053** Host Says Hillsdale Students Messaged Her Upset About Erika Speaking
+
+Claim Timestamp: 00:56:04
+
+Claim: The host says she knew Erika would speak at Hillsdale and many students messaged her that they were upset about it.
+
+Transcript Snippet: I had so many students messaging me that were upset about it.
+
+Anchored Artifacts: 
+Mentions: N-2, N-3
+Related Nodes: N-11255
+Supports: C-10279
+Tags: relevance:context
+Investigative Direction: Collect the student messages and any Hillsdale student newspaper coverage.
+
+---
+
+**C-13054** Host Says Erika Is Teaming Up With People Who Bullied Charlie
+
+Claim Timestamp: 00:56:48
+
+Claim: The host says people should hate those who bullied Charlie, and that Erika instead teams up with them.
+
+Transcript Snippet: You shouldn't be teaming up with them. But that's not how Erika lives.
+
+Anchored Artifacts: 
+Mentions: N-2, N-1, N-587
+Related Nodes: N-10538
+Tags: relevance:context
+Investigative Direction: Define who is meant by the bullies and list the joint appearances.
+
+---
+
+**C-13055** Host Says She Plans a Website With Documents, Messages and Her Timeline
+
+Claim Timestamp: 00:59:04
+
+Claim: The host says she plans to make a website where viewers can read the documents, the messages and the timeline she created of how everything went down.
+
+Transcript Snippet: I do think we are going to do a website, so you guys can read the documents yourselves and read all the messages and the timeline that I created of how everything went down.
+
+Anchored Artifacts: A-3242.1
+Mentions: N-3
+Related Nodes: N-10649
+Tags: relevance:core
+Investigative Direction: Watch for the launch of the site and its contents.
+
+---
+
 ## 6. Meme Register
 
 **M-53** (meme) False Flag
@@ -787,12 +2658,235 @@ Confidence: high
 
 ---
 
+**M-226** (meme) Subway Knife Psycho
+
+### Occurrence 1
+
+Video Timestamp: 00:04:13
+Speaker: N-3
+Quote: which means that they do not view him as a psychopathic knife-wielding subway killer.
+Context: Host sarcastically refers to the subway knife comparison.
+Tags: subway, neff
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:13:53
+Speaker: N-3
+Quote: Blake Neff and his uh Subway killer scenario
+Context: Host returns to Neff's subway scenario.
+Tags: subway, neff
+Confidence: high
+
+---
+
+**M-79** (meme) Pass the Sniff Test
+
+### Occurrence 1
+
+Video Timestamp: 00:35:48
+Speaker: N-3
+Quote: Doesn't pass the sniff test
+Context: Host applies it to Shirley and the Zoom call.
+Tags: sniff test
+Confidence: high
+
+---
+
+**M-91** (meme) World of Make-Believe
+
+### Occurrence 1
+
+Video Timestamp: 00:22:45
+Speaker: N-3
+Quote: we are kind of barreling toward a society of make-believe
+Context: Host opens the Shirley segment.
+Tags: make-believe
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:56:48
+Speaker: N-3
+Quote: We're living in make-believe.
+Context: Host answers a commenter.
+Tags: make-believe
+Confidence: high
+
+---
+
+**M-66** (meme) Fed Slop
+
+### Occurrence 1
+
+Video Timestamp: 00:26:59
+Speaker: N-3
+Quote: we're beneath the level of fed slop with this, right?
+Context: Host on the favela video.
+Tags: fed slop
+Confidence: high
+
+---
+
+**M-54** (meme) Psyop
+
+### Occurrence 1
+
+Video Timestamp: 00:33:00
+Speaker: N-3
+Quote: They're not even giving us good psyops anymore.
+Context: Host on the Shirley video.
+Tags: psyop
+Confidence: high
+
+---
+
+**M-28** (meme) Christ is King
+
+### Occurrence 1
+
+Video Timestamp: 00:57:26
+Speaker: N-3
+Quote: Christ is king and genocide is always wrong.
+Context: Host reads viewer Jane's comment.
+Tags: christ is king
+Confidence: high
+
+---
+
+**M-76** (meme) Genocide Is Always Wrong
+
+### Occurrence 1
+
+Video Timestamp: 00:57:26
+Speaker: N-3
+Quote: Christ is king and genocide is always wrong.
+Context: Host reads viewer Jane's comment and affirms.
+Tags: genocide
+Confidence: high
+
+---
+
+**M-19** (meme) Go Max
+
+### Occurrence 1
+
+Video Timestamp: 00:57:26
+Speaker: N-3
+Quote: Go max.
+Context: Host reads viewer Jane's comment.
+Tags: go max
+Confidence: high
+
+---
+
+**M-75** (meme) I'll Say Allegedly
+
+### Occurrence 1
+
+Video Timestamp: 00:43:01
+Speaker: N-3
+Quote: you allegedly made a whole AI video saying your husband wanted you
+Context: Host hedges the AI video accusation.
+Tags: allegedly
+Confidence: high
+
+---
+
+**M-1** (meme) Grieving Widow
+
+### Occurrence 1
+
+Video Timestamp: 00:44:35
+Speaker: N-3
+Quote: go away, and pretend to be a grieving widow.
+Context: Host mocks the framing.
+Tags: grieving widow
+Confidence: high
+
+---
+
+**M-307** (meme) Dr. Erika Kirk
+
+### Occurrence 1
+
+Video Timestamp: 00:14:43
+Speaker: N-3
+Quote: Erika Kirk is maybe she's now Dr. Erika Kirk.
+Context: Host starts the Dr. Kirk bit.
+Tags: dr kirk
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:20:00
+Speaker: N-3
+Quote: I think we should call her Dr. Erika Kirk.
+Context: Host leans into the bit.
+Tags: dr kirk
+Confidence: high
+
+### Occurrence 3
+
+Video Timestamp: 00:57:26
+Speaker: N-3
+Quote: not the magnificent Dr. Kirk.
+Context: Host repeats the bit.
+Tags: dr kirk
+Confidence: high
+
+---
+
+**M-308** (meme) Life's Tough, Get a Helmet
+
+### Occurrence 1
+
+Video Timestamp: 00:43:51
+Speaker: N-3
+Quote: Life's tough, get a helmet, okay?
+Context: Host to Erika about criticism.
+Tags: merch, helmet
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:57:26
+Speaker: N-3
+Quote: Life's tough, get a helmet.
+Context: Viewer requests merch; host says it may exist.
+Tags: merch, helmet
+Confidence: high
+
+---
+
+**M-309** (meme) I Dub Thee
+
+### Occurrence 1
+
+Video Timestamp: 00:43:51
+Speaker: N-3
+Quote: I dub thee Erika Kirk, the CEO of Turning Point USA.
+Context: Host mocks the appointment as a royal decree.
+Tags: dub thee, ceo
+Confidence: high
+
+### Occurrence 2
+
+Video Timestamp: 00:44:35
+Speaker: N-3
+Quote: we don't do the king and queen I dub thee stuff here.
+Context: Host repeats.
+Tags: dub thee
+Confidence: high
+
+---
+
 ## VI. Optional Flags
 
 - **Artifact verbally referenced but not shown** – A-2070.1 (Hillsdale College honorary doctorate announcement): Cited as fact by host but no press release, news article, or Hillsdale College source was displayed in the episode.
 - **Source-based testimony without on-record statement** – A-2068.1, A-2068.2: Marcus Wada AI voice services claim is attributed to "a source which came forward" with no named on-record source displayed.
 - **Transcript ambiguity** – Reference to "a friend ban" writing a comment at [40:55] appears to be a transcription artifact for "Friend Ban" (likely a username).
-- **Possible transcription error** – Several host colloquialisms ("Drewski," "Drew Ski") refer to the same personality but are spelled inconsistently in the transcript; preserved as they appear.
+- **Possible transcription error** – Several host colloquialisms ("Drewski," "Druski") refer to the same personality but are spelled inconsistently in the transcript; preserved as they appear.
 - **Claim failed admission test** – Several host assertions in this episode are framing premises rather than evidence-backed claims, including:
   - "Erika would be a confirmed ruthless psychopath"
   - "She is capable of real harm"
@@ -814,7 +2908,7 @@ Confidence: high
 - [x] People nodes use the global people ledger (N-10141+ range per continuation)
 - [x] Non-person investigation targets use the 2061+ range per continuation
 - [x] No speculative/framing claims were inscribed as evidence-backed claims
-- [x] Names are preserved exactly as they appear (with flag for Andrew Kolvet/Andrew Kolbe/Andrew Kolb spelling variations)
+- [x] Names are preserved exactly as they appear (with flag for Andrew Kolvet/Andrew Kolvet/Andrew Kolvet spelling variations)
 - [x] Formatting is consistent across all registers
 
 ---

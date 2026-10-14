@@ -149,7 +149,7 @@ Like, oh, Charlie was going to be the president, but you know what? It was Vance
 
 [23:52]
 
-The New York Times, a publication who her husband hated. Who her husband hated. And would then tell that journalist that the least traumatizing part was the idea of raising her children without a father. Okay? A psychopath is the best answer that I can come up with for why she felt compelled to go into the office the same week and to bring her kids every day rather than tending to their every emotional need at home as they come to the realization that they will never see their father ever again. A psychopath is my best explanation. My best explanation for why she told Jesse Waters that she had zero fear. None at all. No, she wasn't scared to walk out the door the very next day with her kids in tow.
+The New York Times, a publication who her husband hated. Who her husband hated. And would then tell that journalist that the least traumatizing part was the idea of raising her children without a father. Okay? A psychopath is the best answer that I can come up with for why she felt compelled to go into the office the same week and to bring her kids every day rather than tending to their every emotional need at home as they come to the realization that they will never see their father ever again. A psychopath is my best explanation. My best explanation for why she told Jesse Watters that she had zero fear. None at all. No, she wasn't scared to walk out the door the very next day with her kids in tow.
 
 [24:46]
 

@@ -192,7 +192,7 @@
           "@type": "Artifact",
           "@id": "A-1317.2",
           "ref": "A-1317.2",
-          "description": "Andrew Kolbenschlag X Reply Denying Knowledge of Award",
+          "description": "Andrew Kolvet X Reply Denying Knowledge of Award",
           "related_claims": [
             "C-1576"
           ],
@@ -232,13 +232,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1318",
       "family_ref": "A-1318",
-      "bundle_name": "Erika Kirk Jesse Waters Interview Preview Bundle",
+      "bundle_name": "Erika Kirk Jesse Watters Interview Preview Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1318.1",
           "ref": "A-1318.1",
-          "description": "Erika Kirk on Courtroom Camera Ban (Jesse Waters interview preview clip)",
+          "description": "Erika Kirk on Courtroom Camera Ban (Jesse Watters interview preview clip)",
           "related_claims": [
             "C-1578"
           ],
@@ -726,7 +726,7 @@
       "ref": "N-10216",
       "name": "TPUSA Posthumous Israel Award Reporting Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erica Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolbenschlag's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.",
+      "description": "Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erica Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolvet's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.",
       "related_artifacts": [
         "A-1317.1",
         "A-1317.2",
@@ -2043,8 +2043,8 @@
       "@type": "Claim",
       "@id": "C-1576",
       "ref": "C-1576",
-      "label": "Andrew Kolbenschlag Denies Knowledge of Award",
-      "claim": "TPUSA spokesperson Andrew Kolbenschlag posted on X that \"this is the first we're hearing of this\" regarding the reported Pillars of Jerusalem Award, and stated TPUSA had reached out to Michael Starr for a correction.",
+      "label": "Andrew Kolvet Denies Knowledge of Award",
+      "claim": "TPUSA spokesperson Andrew Kolvet posted on X that \"this is the first we're hearing of this\" regarding the reported Pillars of Jerusalem Award, and stated TPUSA had reached out to Michael Starr for a correction.",
       "anchored_artifacts": [
         "A-1317.2"
       ],
@@ -2086,7 +2086,7 @@
       "@id": "C-1578",
       "ref": "C-1578",
       "label": "Erika Kirk Opposes Courtroom Camera Ban",
-      "claim": "In a preview clip of her Jesse Waters interview, Erika Kirk opposed the defense motion to ban cameras in the courtroom, stating \"We deserve to have cameras in there … Let everyone see what true evil is.\"",
+      "claim": "In a preview clip of her Jesse Watters interview, Erika Kirk opposed the defense motion to ban cameras in the courtroom, stating \"We deserve to have cameras in there … Let everyone see what true evil is.\"",
       "anchored_artifacts": [
         "A-1318.1"
       ],
@@ -2095,7 +2095,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:30:31",
-      "investigative_direction": "Verify by reviewing the full Jesse Waters interview once aired and any subsequent court filings on the camera question.",
+      "investigative_direction": "Verify by reviewing the full Jesse Watters interview once aired and any subsequent court filings on the camera question.",
       "mentions_person_refs": [
         "N-2",
         "N-215"
@@ -2401,7 +2401,7 @@
       ],
       "claim_timestamp": "00:08:13",
       "investigative_direction": "Ask Kolvet to confirm the conversation and look for related messages or scheduling attempts.",
-      "transcript_snippet": "I also had a long discussion with Andrew Kolb that separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen.",
+      "transcript_snippet": "I also had a long discussion with Andrew Kolvet that separately, telling them both that Charlie should host Nick Fuentes on his show and debate him. I tried to make that happen.",
       "supports_claim_refs": [
         "C-9455"
       ],
@@ -2936,7 +2936,7 @@
       ],
       "claim_timestamp": "00:27:07",
       "investigative_direction": "Collect the host's prior episodes on each named person and the specific statements she calls lies.",
-      "transcript_snippet": "That was my reason for going after Alex Clark. She lied about the Catholic thing. That was my reason for going after Andrew Kolbenschlag, Mikey McColgan.",
+      "transcript_snippet": "That was my reason for going after Alex Clark. She lied about the Catholic thing. That was my reason for going after Andrew Kolvet, Mikey McColgan.",
       "mentions_person_refs": [
         "N-3",
         "N-99",
@@ -2983,7 +2983,7 @@
       ],
       "claim_timestamp": "00:28:02",
       "investigative_direction": "Fox News appearance history of Charlie Kirk and Turning Point USA.",
-      "transcript_snippet": "Jesse Waters gave us the most play time on Fox News back in the beginning.",
+      "transcript_snippet": "Jesse Watters gave us the most play time on Fox News back in the beginning.",
       "mentions_person_refs": [
         "N-3",
         "N-1",
@@ -3006,7 +3006,7 @@
       ],
       "claim_timestamp": "00:28:02",
       "investigative_direction": "Check Megyn Kelly's tour announcements for an Erika Kirk appearance.",
-      "transcript_snippet": "Erika also I think slated to join Megan Kelly on tour. Don't quote me but I'm I'm pretty sure I saw that being teased.",
+      "transcript_snippet": "Erika also I think slated to join Megyn Kelly on tour. Don't quote me but I'm I'm pretty sure I saw that being teased.",
       "mentions_person_refs": [
         "N-3",
         "N-2",
@@ -3287,7 +3287,7 @@
       ],
       "claim_timestamp": "00:35:20",
       "investigative_direction": "Fox News airing schedule for the interview.",
-      "transcript_snippet": "Look forward to obviously watching the interview that is going to premiere in two days on Fox News with Jesse Waters.",
+      "transcript_snippet": "Look forward to obviously watching the interview that is going to premiere in two days on Fox News with Jesse Watters.",
       "mentions_person_refs": [
         "N-3",
         "N-2",

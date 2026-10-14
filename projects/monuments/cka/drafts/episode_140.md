@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 56d0f23b17a0cf753736039d602659d87c37358b53687d087f88f5fff2bdc3c5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-870, N-871, N-872, N-873, N-11259, N-11260, N-11261, N-11262
+  - Tip-minted Nodes (supplement_2026-10d): N-870, N-871, N-872, N-11259, N-11260, N-11261
   - Tip-minted Nodes (reintro-ep140): N-11066, N-11067
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10423–C-10499
-  - New Nodes Introduced: N-10791, N-10792, N-10793
-  - Reused Nodes Appearing: N-2, N-18, N-9, N-14, N-60, N-102, N-162, N-272, N-371, N-372, N-10000, N-10011, N-10012, N-10051, N-10052, N-10062, N-10077, N-10097, N-10139, N-10198, N-10338, N-10381, N-10416, N-10780, N-10787, N-10899, N-10900, N-11182
+  - New Nodes Introduced: N-10792
+  - Reused Nodes Appearing: N-2, N-18, N-9, N-14, N-60, N-102, N-162, N-272, N-371, N-372, N-10000, N-10011, N-10012, N-10051, N-10052, N-10062, N-10077, N-10097, N-10139, N-10198, N-10338, N-10381, N-10416, N-10780, N-10787, N-10899, N-10900, N-11182, N-873, N-10791, N-10793, N-11262
   - Hole-minted Nodes (wave3): N-567
   - (see registers)
 
@@ -39,7 +39,7 @@
   - Artifact Families Introduced: A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
   - Claim Range: C-3260–C-3274
   - New People Nodes Introduced: none (Wave 2: local ids removed)
-  - Existing Nodes Reused: N-2, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
+  - Existing Nodes Reused: N-2, N-3 (Candace), Tyler Robinson node, Lance Twiggs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
   - New Investigation Target Nodes: N-10791, N-10792, N-10793
 
 ---
@@ -120,15 +120,15 @@ Confidence Level: Medium (host displays)
 
 ---
 
-**A-2269** Lance Twigs Left-Hand Photo Bundle
+**A-2269** Lance Twiggs Left-Hand Photo Bundle
 
-**A-2269.1** Photo of Lance Twigs eating with left hand
+**A-2269.1** Photo of Lance Twiggs eating with left hand
 
 Video Timestamp: 00:11:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed)
 
-*Related: C-3265, Lance Twigs node*
+*Related: C-3265, Lance Twiggs node*
 
 ---
 
@@ -224,7 +224,7 @@ Confidence Level: High (read aloud)
 
 *Related: C-3273, Mikey McQuaid node, N-1*
 
-**A-2275.2** Ellie comment: contrasting Candace's framing of "let them live and face consequences" vs. Frank Turick's "she should be killed"
+**A-2275.2** Ellie comment: contrasting Candace's framing of "let them live and face consequences" vs. Frank Turek's "she should be killed"
 
 Video Timestamp: 00:47:55
 Discovery Timestamp: 00:00:00–00:00:01
@@ -453,14 +453,14 @@ Investigative Pressure: Medium
 
 **N-10793** Tyler Robinson Handedness Verification
 
-Open investigative target: verify Tyler Robinson's handedness against the left-hand-dominant behavior observed in parking-garage footage and against Lance Twigs's apparent handedness.
+Open investigative target: verify Tyler Robinson's handedness against the left-hand-dominant behavior observed in parking-garage footage and against Lance Twiggs's apparent handedness.
 
 Evidence Count: 3
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2267.2, A-2267.4 (right-pocket outline per Impala), A-2269.1, A-2275.5, C-3260, C-3265, C-3275, Tyler Robinson node, Lance Twigs node*
+*Related: A-2267.2, A-2267.4 (right-pocket outline per Impala), A-2269.1, A-2275.5, C-3260, C-3265, C-3275, Tyler Robinson node, Lance Twiggs node*
 
 ---
 
@@ -571,7 +571,7 @@ Podcaster on whose show the host says she first learned of Andrew Wilson.
 
 **N-371** Jeremy Boreing
 
-Daily Wire co-founder (transcribed Jeremy Boring); the host says he worked through Britta Widener.
+Daily Wire co-founder (transcribed Jeremy Boreing); the host says he worked through Britta Widener.
 
 *Related: C-10462*
 
@@ -697,7 +697,7 @@ Existing topic reused for the 92-member group-chat claims.
 
 ---
 
-**N-10787** Lance Twigs Handedness Verification
+**N-10787** Lance Twiggs Handedness Verification
 
 Existing topic reused for the Lance fingerprint claim.
 
@@ -827,7 +827,7 @@ Anchored Artifacts: A-2267.2
 
 Related Nodes: N-10791, N-10793
 
-Investigative Direction: Obtain the full uncompressed footage and verify the motion-direction sequence; cross-reference against court-documented handedness records for Tyler Robinson and Lance Twigs.
+Investigative Direction: Obtain the full uncompressed footage and verify the motion-direction sequence; cross-reference against court-documented handedness records for Tyler Robinson and Lance Twiggs.
 
 ---
 
@@ -889,18 +889,18 @@ Investigative Direction: Obtain or verify the screen-recorded archive; cross-ref
 
 ---
 
-**C-3265** Lance Twigs appears to be left-hand dominant
+**C-3265** Lance Twiggs appears to be left-hand dominant
 
 Claim Timestamp: 00:11:14
 
-Claim: The host presents a photo of Lance Twigs eating with his left hand and references prior observations (gas pumping, snowboarding, watch-wearing on piano) as consistent with left-handedness.
+Claim: The host presents a photo of Lance Twiggs eating with his left hand and references prior observations (gas pumping, snowboarding, watch-wearing on piano) as consistent with left-handedness.
 
 Anchored Artifacts: A-2269.1
 Mentions: N-54
 
 Related Nodes: N-10793
 
-Investigative Direction: Obtain court records or biographical sources documenting Lance Twigs's stated handedness.
+Investigative Direction: Obtain court records or biographical sources documenting Lance Twiggs's stated handedness.
 
 ---
 
@@ -1020,17 +1020,17 @@ Investigative Direction: Review body-cam footage, phone-records evidence, and co
 
 ---
 
-**C-3274** Ellie (viewer) frames Candace's "let them live and face consequences" stance as distinct from Frank Turick's "she should be killed" framing
+**C-3274** Ellie (viewer) frames Candace's "let them live and face consequences" stance as distinct from Frank Turek's "she should be killed" framing
 
 Claim Timestamp: 00:47:55
 
-Claim: A viewer comment contrasts Candace's stated position with Frank Turick's framing of Erica Kirk as deserving death; host concurs that the latter framing is dark.
+Claim: A viewer comment contrasts Candace's stated position with Frank Turek's framing of Erica Kirk as deserving death; host concurs that the latter framing is dark.
 
 Anchored Artifacts: A-2275.2
 Mentions: N-2
 
 
-Investigative Direction: Verify the quoted Frank Turick statement against its original source.
+Investigative Direction: Verify the quoted Frank Turek statement against its original source.
 
 ---
 
@@ -1698,7 +1698,7 @@ Claim Timestamp: 00:31:45
 
 Claim: The host says Britta, a Daily Wire super fan, attacked her with the Crisis King material, and says she knew the Daily Wire's PR agent and Jeremy Boreing were working through her, because Boreing likes to find people who will do whatever for him.
 
-Transcript Snippet: obviously I knew that their PR agent and Jeremy Boring were working through her
+Transcript Snippet: obviously I knew that their PR agent and Jeremy Boreing were working through her
 
 Anchored Artifacts: 
 Mentions: N-873, N-371, N-3
@@ -2304,7 +2304,7 @@ Investigative Direction: Identify the week and review Kolvet's posts for the cha
 - People nodes use the global people ledger (N-2, N-3, N-10141, plus reused existing character nodes).
 - Non-person investigation targets use the 1000+ range (N-10791, N-10792, N-10793).
 - No speculative claims inscribed as evidence-backed claims; rhetorical framing (e.g., the Dane Cook analogy) is captured as a claim with explicit "analog" wording rather than as evidentiary fact.
-- Names preserved exactly as appearing in transcript (e.g., "No Soup For Noels," "Lance Twigs," "Britta Widener").
+- Names preserved exactly as appearing in transcript (e.g., "No Soup For Noels," "Lance Twiggs," "Britta Widener").
 
 ---
 
@@ -2479,4 +2479,4 @@ A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
 
 **New Investigation Target Nodes:** N-10791, N-10792, N-10793
 
-**Existing Nodes Reused:** N-2, N-3 (Candace), Tyler Robinson node, Lance Twigs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
+**Existing Nodes Reused:** N-2, N-3 (Candace), Tyler Robinson node, Lance Twiggs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node

@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: ec70297e4ea4475efe0ea007480a67fe4d47488724c965ac8c0dee4be928d6a0
 
 - **Episode Ledger Summary**:
-  - New Nodes Introduced: N-476, N-477, N-478, N-479, N-480, N-481, N-10425, N-10426, N-10429
-  - Reused Nodes Appearing: N-10427, N-10428
+  - New Nodes Introduced: N-476, N-477, N-479, N-480, N-481, N-10425, N-10426, N-10429
+  - Reused Nodes Appearing: N-10427, N-10428, N-478
   - (see registers)
 
 ---
@@ -166,7 +166,7 @@ Confidence Level: High
 
 **A-1649** TPUSA Drone Statement Bundle
 
-**A-1649.1** Andrew Kovat interview clip played on air (with Gary), explaining the drone situation, stating Frank Turk saw a wide-angle shot from a second-floor walkway taken by the events team, not drone footage
+**A-1649.1** Andrew Kolvet interview clip played on air (with Gary), explaining the drone situation, stating Frank Turek saw a wide-angle shot from a second-floor walkway taken by the events team, not drone footage
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -176,7 +176,7 @@ Confidence Level: High
 
 *Related: C-2141, N-14, N-10427*
 
-**A-1649.2** Wide-angle shot image displayed on screen, presented by Andrew Kovat as the photo Frank Turk mistook for drone footage (described as "a walkway or a bridge elevated" second-floor view)
+**A-1649.2** Wide-angle shot image displayed on screen, presented by Andrew Kolvet as the photo Frank Turek mistook for drone footage (described as "a walkway or a bridge elevated" second-floor view)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -527,7 +527,7 @@ Investigative Pressure: Medium
 
 **N-10427** TPUSA Drone Story Discrepancy
 
-Persistent target reconciling the conflicting TPUSA-affiliated statements about drone activity on September 10: Frank Turk (drone footage with Charlie), Andrew Kovat (wide-angle shot, not drone), and the cease-and-desist letter (media production drone for B-roll, but no security drones).
+Persistent target reconciling the conflicting TPUSA-affiliated statements about drone activity on September 10: Frank Turek (drone footage with Charlie), Andrew Kolvet (wide-angle shot, not drone), and the cease-and-desist letter (media production drone for B-roll, but no security drones).
 
 Evidence Count: 3
 Claim Count: 2
@@ -826,9 +826,9 @@ Anchored Artifacts: A-1648.1
 
 Related Nodes: N-10427
 
-Investigative Direction: Reconcile this letter content with Andrew Kovat's earlier statement (A-1649.1) and Frank Turk's earlier statement regarding drone footage viewed with Charlie Kirk.
+Investigative Direction: Reconcile this letter content with Andrew Kolvet's earlier statement (A-1649.1) and Frank Turek's earlier statement regarding drone footage viewed with Charlie Kirk.
 
-NOTE: This claim artifact-anchored by A-1648.1 directly contradicts A-1649.1 (Andrew Kovat's framing of the wide-angle shot as not a drone), which is itself artifact-anchored. Both cannot comfortably coexist without clarification.
+NOTE: This claim artifact-anchored by A-1648.1 directly contradicts A-1649.1 (Andrew Kolvet's framing of the wide-angle shot as not a drone), which is itself artifact-anchored. Both cannot comfortably coexist without clarification.
 
 ---
 
@@ -981,12 +981,12 @@ Confidence: high
 
 - **Name uncertainty**: "NDA Buckman" preserved as spoken (first name not provided); "Elizabeth McCoy" mentioned in passing but no artifact backing (omitted from nodes).
 - **Artifact verbally referenced but not shown**: TPUSA's official email response about China (A-1650.2) is paraphrased only; the real-estate profile tying "Everyday Heroes Like You" to the China work is mentioned but not displayed; the unverified emailer's narrative about the Cattleman's Ball money-laundering scheme is host narrative only (Cattleman's Ball website artifact A-1646.1 supports the organization's existence and scope, not the corruption allegations).
-- **Transcript ambiguity**: The exact date of the cease-and-desist letter and Andrew Kovat interview clip are not specified.
+- **Transcript ambiguity**: The exact date of the cease-and-desist letter and Andrew Kolvet interview clip are not specified.
 - **Claim failed admission test**: Host's framing premises that "the feds are doing nothing," "you're all lying," "the TPUSA drone story is a cover-up," and "Elizabeth McCoy is sabotaging Erica Kirk" do not pass the artifact anchor test in this episode and are not inscribed as claims. The unverified emailer's allegations about JFK, Golda Meir, and the Cattleman's Ball money-laundering operation are explicitly noted by the host as unconfirmed and are not inscribed.
 - **Contradictions (artifact-anchored both sides)**:
-  1. TPUSA drone story: A-1648.1 (cease-and-desist letter admits media drone) vs. A-1649.1 (Andrew Kovat frames the image as wide-angle walkway shot, not a drone).
+  1. TPUSA drone story: A-1648.1 (cease-and-desist letter admits media drone) vs. A-1649.1 (Andrew Kolvet frames the image as wide-angle walkway shot, not a drone).
   2. Erica Kirk China timeline: A-1650.1 (Erica: "living in China") and A-1650.3 (Charlie: "6 months") vs. A-1650.2 (TPUSA: "2 weeks visit only").
-- **Requires human verification**: All Bobby Harpole and Robert Flood employment claims require verification against official records. The Dan Flood New Braunfels residency claim requires address-record verification. The Frank Turk original drone statement is referenced but the underlying artifact was not replayed this episode.
+- **Requires human verification**: All Bobby Harpole and Robert Flood employment claims require verification against official records. The Dan Flood New Braunfels residency claim requires address-record verification. The Frank Turek original drone statement is referenced but the underlying artifact was not replayed this episode.
 
 ---
 
