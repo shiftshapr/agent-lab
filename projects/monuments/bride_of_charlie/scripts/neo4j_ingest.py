@@ -97,6 +97,8 @@ CONNECTED_PATTERN = re.compile(r"^Connected:\s*(.+)$", re.MULTILINE | re.IGNOREC
 CAPTURED_AT_PATTERN = re.compile(r"^CapturedAt:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
 SENSITIVE_TAGS_PATTERN = re.compile(r"^Sensitive Tags:\s*(.+)$", re.MULTILINE | re.IGNORECASE)
 CLAIM_TEXT_PATTERN = re.compile(r"^Claim:\s*(.+)$", re.MULTILINE)
+CLAIM_TAGS_PATTERN = re.compile(r"^Tags:\s*(.+)$", re.MULTILINE)
+SECTION_HEADING_PATTERN = re.compile(r"^#{1,3} ", re.MULTILINE)
 # Use horizontal whitespace only after the colon: \s* would swallow newlines and
 # merge the next field line into this capture (e.g. empty Anchored + Related Nodes).
 ANCHORED_ARTIFACTS_PATTERN = re.compile(
@@ -340,9 +342,11 @@ def extract_claims(text: str, episode_num: int) -> list[dict[str, Any]]:
         start_pos = match.end()
         next_match = CLAIM_PATTERN.search(text, start_pos)
         next_node = NODE_PATTERN.search(text, start_pos)
+        # The last claim ends at the next section heading, so it cannot pick up a later section's fields.
+        next_heading = SECTION_HEADING_PATTERN.search(text, start_pos)
         
         end_pos = len(text)
-        for m in [next_match, next_node]:
+        for m in [next_match, next_node, next_heading]:
             if m and m.start() < end_pos:
                 end_pos = m.start()
         
@@ -427,6 +431,11 @@ def extract_claims(text: str, episode_num: int) -> list[dict[str, Any]]:
         if tsp:
             transcript_snippet = tsp.group(1).strip()
         
+        tags: list[str] = []
+        tg = CLAIM_TAGS_PATTERN.search(section)
+        if tg:
+            tags = [t.strip() for t in tg.group(1).split(",") if t.strip()]
+
         claims.append({
             "id": claim_id,
             "label": label,
@@ -445,6 +454,7 @@ def extract_claims(text: str, episode_num: int) -> list[dict[str, Any]]:
             "confidence": confidence,
             "uncertainty_note": uncertainty_note,
             "transcript_snippet": transcript_snippet,
+            "tags": tags,
         })
     
     return claims

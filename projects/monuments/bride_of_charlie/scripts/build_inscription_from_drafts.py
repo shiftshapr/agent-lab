@@ -319,7 +319,8 @@ def _build_claims(parsed: dict[str, Any]) -> list[dict[str, Any]]:
             "claim": c.get("claim_text") or "",
             "anchored_artifacts": c.get("anchored_artifacts") or [],
             "related_nodes": c.get("related_nodes") or [],
-            "tags": c.get("sensitive_topic_tags") or [],
+            # Sensitive-topic tags first, then the draft's `Tags:` line (e.g. relevance:core).
+            "tags": list(dict.fromkeys((c.get("sensitive_topic_tags") or []) + (c.get("tags") or []))),
         }
         if c.get("claim_ts"):
             row["claim_timestamp"] = c["claim_ts"]
@@ -345,23 +346,6 @@ def _build_claims(parsed: dict[str, Any]) -> list[dict[str, Any]]:
     return claims
 
 
-_CLAIM_BLOCK = re.compile(r"^\*\*(C-\d+)\*\*.*?(?=^\*\*C-|^#{1,3} |\Z)", re.M | re.S)
-_CLAIM_TAGS = re.compile(r"^Tags:\s*(.+)$", re.M)
-
-
-def _add_claim_tags(text: str, claims: list[dict[str, Any]]) -> None:
-    """Append each claim's draft `Tags:` line (e.g. relevance:core) to its tags, after any sensitive-topic tags."""
-    tags = {}
-    for m in _CLAIM_BLOCK.finditer(text):
-        tm = _CLAIM_TAGS.search(m.group(0))
-        if tm:
-            tags[m.group(1)] = [t.strip() for t in tm.group(1).split(",") if t.strip()]
-    for c in claims:
-        extra = [t for t in tags.get(c["ref"], []) if t not in c["tags"]]
-        if extra:
-            c["tags"] = c["tags"] + extra
-
-
 def build_episode_json(
     draft_path: Path,
     *,
@@ -380,7 +364,6 @@ def build_episode_json(
         "claims": _build_claims(parsed),
         "memes": _parse_meme_register(text, ep),
     }
-    _add_claim_tags(text, data["claims"])
     if node_registry is not None:
         stubs = _inject_cross_episode_stubs(data, node_registry)
         if stubs:

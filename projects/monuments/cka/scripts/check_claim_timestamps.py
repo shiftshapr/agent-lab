@@ -17,12 +17,14 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import sys
 from pathlib import Path
 
 CKA = Path(__file__).resolve().parents[1]
+sys.path.insert(0, str(CKA.parent / "bride_of_charlie" / "scripts"))
+from neo4j_ingest import extract_claims  # noqa: E402  (the one draft parser, ROADMAP 0.7)
 BASELINE = CKA / "config" / "claim_timestamp_baseline.json"
 MARK = re.compile(r"\[(\d{1,2}):(\d{2})(?::(\d{2}))?\]")
-BLOCK = re.compile(r"^\*\*(C-\d+)\*\*.*?(?=^\*\*C-|^#{1,3} |\Z)", re.M | re.S)
 SLACK = 60
 
 
@@ -56,13 +58,11 @@ def check() -> tuple[list[tuple[str, int, int, int, int]], int, int]:
                 pos0 = m.end()
         if not marks:
             continue
-        for m in BLOCK.finditer(dp.read_text(encoding="utf-8")):
-            blk = m.group(0)
-            ts = re.search(r"^Claim Timestamp:\s*(\d{1,2}):(\d{2}):(\d{2})\s*$", blk, re.M)
-            sn = re.search(r"^Transcript Snippet:\s*(.+)$", blk, re.M)
-            if not ts or not sn:
+        for c in extract_claims(dp.read_text(encoding="utf-8"), ep):
+            ts = re.fullmatch(r"(\d{1,2}):(\d{2}):(\d{2})", (c["claim_ts"] or "").strip())
+            if not ts or not c["transcript_snippet"]:
                 continue
-            snippet = norm(sn.group(1))
+            snippet = norm(c["transcript_snippet"])
             if snippet not in text and ("…" in snippet or "..." in snippet):
                 snippet = norm(re.split(r"…|\.\.\.", snippet)[0])
             hits = [i.start() for i in re.finditer(re.escape(snippet), text)] if snippet else []
@@ -81,7 +81,7 @@ def check() -> tuple[list[tuple[str, int, int, int, int]], int, int]:
             # The same words can occur more than once; judge the occurrence nearest the claim time.
             lo, hi = min((block(h) for h in hits), key=lambda b: 0 if b[0] <= claim_s <= b[1] else min(abs(claim_s - b[0]), abs(claim_s - b[1])))
             if not (lo - SLACK <= claim_s <= hi + SLACK):
-                bad.append((m.group(1), ep, claim_s, lo, hi))
+                bad.append((c["id"], ep, claim_s, lo, hi))
     return bad, checked, unfound
 
 
