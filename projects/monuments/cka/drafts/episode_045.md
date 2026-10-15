@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 33f8430dc8f4892645295e48cc30c6fac74bf7345b2f004f77e9048a964d135e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-807, N-11162
-  - Hole-minted Nodes (reintro-ep045): N-365, N-10367, N-10373, N-10540
+  - Tip-minted Nodes (supplement_2026-10c): N-805, N-11162
+  - Hole-minted Nodes (reintro-ep045): N-363, N-10367, N-10373, N-10540
   - Tip-minted Nodes (reintro-ep045): N-10968
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8066–C-8125
@@ -40,7 +40,7 @@
 - Artifact Families Introduced: A-1525, A-1526, A-1527, A-1528, A-1529, A-1530, A-1531, A-1532
 - Claim Range: C-1897–C-1911
   - New Nodes Introduced: N-10332, N-10333
-  - Reused Nodes Appearing: N-2, N-16, N-67, N-17, N-46, N-55, N-162, N-194, N-224, N-270, N-271, N-282, N-10000, N-10006, N-10014, N-10025, N-10026, N-10197, N-10201, N-10253, N-10290, N-10326, N-11097, N-10334
+  - Reused Nodes Appearing: N-2, N-16, N-67, N-17, N-46, N-55, N-161, N-192, N-222, N-268, N-269, N-280, N-10000, N-10006, N-10014, N-10025, N-10026, N-10197, N-10201, N-10253, N-10290, N-10326, N-11097, N-10334
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), and references to other recurring figures by name (Tucker Carlson, Theo Von, Harris Faulkner, Sergio Gor, Bari Weiss, Milo Yiannopoulos, Blake Neff, Harry, Brian Harpole, Rob McCoy, Mikey, Josh Hammer, Pam Bondi, Tim Pool, Jordan Peterson, Bethany Frankel, Mark, Tara Cross)
 
 ---
@@ -216,7 +216,7 @@ Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:40:00
 Confidence Level: High
 
-*Related: C-1907, N-323*
+*Related: C-1907, N-321*
 
 ---
 
@@ -244,7 +244,7 @@ Video Timestamp: 00:23:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8083, N-22, N-149*
+*Related: C-8083, N-22, N-148*
 
 **A-2919.2** Audio Clip: Tucker Carlson questions that the suspect acted alone
 
@@ -304,7 +304,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-323** Captain Adam Nef
+**N-321** Captain Adam Nef
 
 Positively identified in this episode as the U.S. Army captain of the 10th Mountain Division who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025. Distinct from Blake Neff (Fox News personality mentioned in same episode).
 
@@ -368,7 +368,7 @@ Widow and TPUSA CEO whose Fox interview, town hall remarks and public appearance
 
 ---
 
-**N-807** Harris Faulkner
+**N-805** Harris Faulkner
 
 First named by the host at 00:00:00 in episode 45 (transcript spells it Harris Falner and Harris Faulner). Fox News anchor who interviewed Erika Kirk.
 
@@ -376,7 +376,7 @@ First named by the host at 00:00:00 in episode 45 (transcript spells it Harris F
 
 ---
 
-**N-224** Milo Yiannopoulos
+**N-222** Milo Yiannopoulos
 
 Named as asserting Charlie Kirk has not been buried.
 
@@ -392,7 +392,7 @@ One of the shows Erika Kirk appeared on.
 
 ---
 
-**N-282** Bari Weiss
+**N-280** Bari Weiss
 
 CBS interviewer for Erika Kirk's town hall.
 
@@ -408,7 +408,7 @@ Pastor named in the host's remarks on a clip and Charlie Kirk's favorite pastor.
 
 ---
 
-**N-271** Tim Pool
+**N-269** Tim Pool
 
 Host says he told critics they are evil.
 
@@ -424,7 +424,7 @@ His Theo Von remarks on the FBI and the Egyptian planes.
 
 ---
 
-**N-149** Theo Von
+**N-148** Theo Von
 
 Interviewer in the Tucker Carlson podcast clips.
 
@@ -432,7 +432,7 @@ Interviewer in the Tucker Carlson podcast clips.
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Named in the host's account of Charlie Kirk's last messages.
 
@@ -448,7 +448,7 @@ His book is cited in the host's account of Charlie Kirk's last messages.
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Host says she is interested in his military connections.
 
@@ -456,7 +456,7 @@ Host says she is interested in his military connections.
 
 ---
 
-**N-365** Harry
+**N-363** Harry
 
 The Fort Huachuca witness whose account, documentation and identification of Captain Nef are discussed.
 
@@ -464,7 +464,7 @@ The Fort Huachuca witness whose account, documentation and identification of Cap
 
 ---
 
-**N-270** Brian Harpole
+**N-268** Brian Harpole
 
 The person Harry says he saw at the Fort Huachuca meeting.
 
@@ -670,7 +670,7 @@ Claim Timestamp: 00:24:32
 Claim: Tucker Carlson, on the Theo Von podcast, stated that Egyptian-registered aircraft had been following Erika Kirk in multiple places around the world for years, and characterized the claim as "factually true."
 
 Anchored Artifacts: A-1528.1
-Mentions: N-2, N-22, N-149
+Mentions: N-2, N-22, N-148
 
 Investigative Direction: Cross-reference with ADS-B historical data, FAA aircraft registration records, and any NSA/CIA-sourced confirmation previously cited in the series.
 
@@ -683,7 +683,7 @@ Claim Timestamp: 00:24:45
 Claim: Tucker Carlson stated on the Theo Von podcast that the claim of a disproportionately large number of foreign-registered cell phones at the Charlie Kirk event was "true."
 
 Anchored Artifacts: A-1528.2
-Mentions: N-2, N-22, N-1, N-149
+Mentions: N-2, N-22, N-1, N-148
 
 Investigative Direction: Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue.
 
@@ -750,7 +750,7 @@ Claim Timestamp: 00:40:00
 Claim: The host says her team has a positive ID that the captain who interrogated the Fort Huachuca witness ("Harry") on September 9, 2025 is Adam Nef of the U.S. Army's 10th Mountain Division, which she says Harry confirmed from pictures she sent.
 
 Anchored Artifacts: A-1532.2
-Mentions: N-323
+Mentions: N-321
 
 Investigative Direction: Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.
 
@@ -818,7 +818,7 @@ Claim: The host says Erika Kirk gave a live interview with Harris Faulkner on Fo
 Transcript Snippet: she just gave an interview live with Harris Falner on Fox News where she finally addressed the quote unquote conspiracy theories.
 
 Anchored Artifacts: 
-Mentions: N-807, N-2, N-3
+Mentions: N-805, N-2, N-3
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News broadcast date, transcript and video of the Faulkner interview.
@@ -850,7 +850,7 @@ Claim: The host says Milo Yiannopoulos and a few others have asserted with absol
 Transcript Snippet: Milo Yiannopoulos and a few others have asserted with absolute certainty that Charlie has not yet been buried.
 
 Anchored Artifacts: 
-Mentions: N-224, N-1, N-807
+Mentions: N-222, N-1, N-805
 Related Nodes: N-10201
 Tags: relevance:context
 Investigative Direction: Obtain Yiannopoulos's posts and any claimed proof, and compare with cemetery or funeral records.
@@ -930,7 +930,7 @@ Claim: The host says Erika Kirk's upcoming CBS News town hall with Bari Weiss wa
 Transcript Snippet: She has also made time for an upcoming CBS News town hall sit down with Bari Weiss which was filmed today.
 
 Anchored Artifacts: 
-Mentions: N-2, N-282
+Mentions: N-2, N-280
 Related Nodes: N-10334
 Tags: relevance:core
 Investigative Direction: Check CBS for the taping date and air date of the town hall.
@@ -1060,7 +1060,7 @@ Claim: The host says Tim Pool went on the airwaves telling the host and her audi
 Transcript Snippet: Tim Pool jumping on the airwaves with big estrogen energy telling us we're evil
 
 Anchored Artifacts: 
-Mentions: N-271, N-3
+Mentions: N-269, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the Tim Pool broadcast and check what he said about the host's coverage.
@@ -1092,7 +1092,7 @@ Claim: In the Theo Von clip Tucker Carlson says he does not understand the offic
 Transcript Snippet: I don't understand the official story at all. Uh, I assure that there is a like a truly rigorous and honest federal investigation of it.
 
 Anchored Artifacts: A-2919.1
-Mentions: N-22, N-149
+Mentions: N-22, N-148
 Related Nodes: N-10014
 Tags: relevance:core
 Investigative Direction: Review the Theo Von episode for the full exchange and its release date.
@@ -1174,7 +1174,7 @@ Claim: In the Theo Von clip Tucker Carlson says he does not accept as a default 
 Transcript Snippet: One, he acted alone. Tell me how that worked.
 
 Anchored Artifacts: A-2919.2
-Mentions: N-22, N-149
+Mentions: N-22, N-148
 Related Nodes: N-10014
 Tags: relevance:core
 Investigative Direction: Compare with the charging documents on whether any accomplice is alleged.
@@ -1222,7 +1222,7 @@ Claim: The host says Erika Kirk said at the Bari Weiss town hall that she was pr
 Transcript Snippet: One, Erika said she was pregnant when the Egyptian planes were flying and following her, so she wasn't on them. She said she has photo proof.
 
 Anchored Artifacts: 
-Mentions: N-2, N-282
+Mentions: N-2, N-280
 Related Nodes: N-11162, N-10253, N-10334
 Tags: relevance:core
 Investigative Direction: Obtain the CBS town hall footage and the photos Erika Kirk says prove she was pregnant and elsewhere.
@@ -1255,7 +1255,7 @@ Claim: The host says that when Bari Weiss asked about the conspiracies and what 
 Transcript Snippet: Erika said, "Stop." No.
 
 Anchored Artifacts: 
-Mentions: N-2, N-282
+Mentions: N-2, N-280
 Related Nodes: N-10334
 Tags: relevance:core
 Investigative Direction: Obtain the town hall footage and exact wording of Weiss's question and Erika's answer.
@@ -1271,7 +1271,7 @@ Claim: The host says Erika Kirk, not speaking about the host, talked about Israe
 Transcript Snippet: she talked about Israel and said good things about Jews and how TPUSA is having Shabbat dinner.
 
 Anchored Artifacts: 
-Mentions: N-2, N-282
+Mentions: N-2, N-280
 Related Nodes: N-10026, N-10334
 Tags: relevance:context
 Investigative Direction: Obtain the town hall footage and the passage about Israel, Jews and Shabbat dinner.
@@ -1287,7 +1287,7 @@ Claim: The host says, sarcastically, that in his last days Charlie Kirk wanted p
 Transcript Snippet: that Rob McCoy was his favorite pastor. Um, and that you should buy Josh Hammer's book. He also wants you to know to just be a Jew.
 
 Anchored Artifacts: 
-Mentions: N-1, N-194, N-17, N-55
+Mentions: N-1, N-192, N-17, N-55
 Related Nodes: 
 Supports: C-1412
 Tags: relevance:core
@@ -1304,7 +1304,7 @@ Claim: The host says she misspoke the day before when she said E4 and E3, that h
 Transcript Snippet: I think I made the mistake when I transferred my notes because he said uh colonels or captains.
 
 Anchored Artifacts: 
-Mentions: N-3, N-365
+Mentions: N-3, N-363
 Related Nodes: N-10326
 Qualifies: C-1886
 Tags: relevance:core
@@ -1321,7 +1321,7 @@ Claim: The host says her phone conversation with the Fort Huachuca witness laste
 Transcript Snippet: it was over a 1-hour phone call
 
 Anchored Artifacts: 
-Mentions: N-3, N-365
+Mentions: N-3, N-363
 Related Nodes: N-10326
 Tags: relevance:context
 Investigative Direction: Request the call log or recording metadata from the host's team.
@@ -1337,7 +1337,7 @@ Claim: The host says her team confirmed everything the witness said was real and
 Transcript Snippet: we were able to confirm everything he said was real. He gave us his card that he swiped on to the base
 
 Anchored Artifacts: 
-Mentions: N-3, N-365
+Mentions: N-3, N-363
 Related Nodes: N-10367
 Supports: C-1885
 Tags: relevance:core
@@ -1354,7 +1354,7 @@ Claim: The host says the witness did not know Captain Nef's first name; as viewe
 Transcript Snippet: I sent picture options to him as your emails were coming in
 
 Anchored Artifacts: 
-Mentions: N-323, N-365, N-3
+Mentions: N-321, N-363, N-3
 Related Nodes: N-10326
 Qualifies: C-1907
 Tags: relevance:core
@@ -1371,7 +1371,7 @@ Claim: The host says Adam Nef led the interrogation and that the identification 
 Transcript Snippet: it checks out because that is the division from New York.
 
 Anchored Artifacts: 
-Mentions: N-323
+Mentions: N-321
 Related Nodes: N-10326
 Supports: C-1907
 Tags: relevance:core
@@ -1405,7 +1405,7 @@ Claim: The host says the witness sent her extensive documentation, including his
 Transcript Snippet: his old passport, his new passport, his military ID card, hotels, books, times, text messages, phone call logs with his wife
 
 Anchored Artifacts: 
-Mentions: N-3, N-365
+Mentions: N-3, N-363
 Related Nodes: N-10367
 Tags: relevance:core
 Investigative Direction: Have an independent party review the documentation and verify the hotel and time records.
@@ -1421,7 +1421,7 @@ Claim: The host says the witness found a cartel tunnel when he was 20 and is now
 Transcript Snippet: First, he finds this this cartel tunnel when he's 20. Now, we fast forward, he's 56
 
 Anchored Artifacts: 
-Mentions: N-365
+Mentions: N-363
 Related Nodes: N-10367
 Supports: C-1880
 Tags: relevance:context
@@ -1438,7 +1438,7 @@ Claim: The host says the group panicked when the witness walked in, because he s
 Transcript Snippet: It also, by the way, does provide an explanation for why they panicked when he just walked in there
 
 Anchored Artifacts: 
-Mentions: N-365
+Mentions: N-363
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Obtain the military police incident report and ask Captain Nef about the stated reason for detaining him.
@@ -1454,7 +1454,7 @@ Claim: The host says that about seven hours later the witness was allowed to lea
 Transcript Snippet: It's, you know, 7 hours later, they allowed him to leave or or Captain Nef allowed him to leave.
 
 Anchored Artifacts: 
-Mentions: N-365, N-323
+Mentions: N-363, N-321
 Related Nodes: N-10326
 Supports: C-1888
 Tags: relevance:core
@@ -1471,7 +1471,7 @@ Claim: The host says the witness told her seeing that many senior officers is no
 Transcript Snippet: he specifically said there were some high ranking congressional member or someone close to like you the president like a via the vice president
 
 Anchored Artifacts: 
-Mentions: N-365, N-3
+Mentions: N-363, N-3
 Related Nodes: N-10326
 Supports: C-1886
 Tags: relevance:core
@@ -1521,7 +1521,7 @@ Claim: The host says the plane's movements mean the timeline the witness gave is
 Transcript Snippet: the timeline that he gave us is exactly right.
 
 Anchored Artifacts: A-1529.1
-Mentions: N-365, N-3
+Mentions: N-363, N-3
 Related Nodes: N-10326, N-10332
 Supports: C-1885
 Tags: relevance:core
@@ -1538,7 +1538,7 @@ Claim: The host says the witness is planning to come out on podcasts and that sh
 Transcript Snippet: having spoken to this individual who is planning to come out and do podcasts and speak about that.
 
 Anchored Artifacts: 
-Mentions: N-365, N-3
+Mentions: N-363, N-3
 Related Nodes: N-10326
 Tags: relevance:context
 Investigative Direction: Follow later episodes and podcasts for the witness's public appearances.
@@ -1554,7 +1554,7 @@ Claim: The host says the witness first put the chance a name was the interrogato
 Transcript Snippet: I would put that at about maybe 65 60 to 65% that it could be this person until I gave him the correct nef and he was like 100% that's the guy um that questioned me.
 
 Anchored Artifacts: 
-Mentions: N-323, N-365, N-3
+Mentions: N-321, N-363, N-3
 Related Nodes: N-10326
 Qualifies: C-1907
 Tags: relevance:core
@@ -1604,7 +1604,7 @@ Claim: The host says the witness described the meeting as one in which the opera
 Transcript Snippet: he described it uh as a meeting that when the operation is being finalized a finalization meeting
 
 Anchored Artifacts: 
-Mentions: N-365, N-3
+Mentions: N-363, N-3
 Related Nodes: N-10326
 Tags: relevance:core
 Investigative Direction: Ask the witness what words and documents led him to call it a finalization meeting.
@@ -1687,7 +1687,7 @@ Claim: The host says she did not look into why Blake Neff left Fox News, because
 Transcript Snippet: I didn't look into the Blake Neff thing or why he left uh Fox News. Uh because I'm just more interested in his military connections
 
 Anchored Artifacts: 
-Mentions: N-162
+Mentions: N-161
 Related Nodes: N-10006, N-10197
 Tags: relevance:context
 Investigative Direction: Review Neff's career history and any publicly stated military ties.
@@ -1753,7 +1753,7 @@ Claim: The host says she can confirm the witness was factually there and that th
 Transcript Snippet: I cannot confirm his own eyes. I can't confirm his memory of who he believes he saw.
 
 Anchored Artifacts: 
-Mentions: N-365, N-270, N-3
+Mentions: N-363, N-268, N-3
 Related Nodes: N-10373
 Qualifies: C-1887
 Tags: relevance:core
@@ -1770,7 +1770,7 @@ Claim: Responding to a viewer asking who the woman in the pickup was, the host s
 Transcript Snippet: Harry thinks he has an idea and he should come out and he should share his story.
 
 Anchored Artifacts: A-1531.5
-Mentions: N-365
+Mentions: N-363
 Related Nodes: N-10333
 Tags: relevance:core
 Investigative Direction: Ask the witness whom he believes he saw in the truck.
@@ -1986,7 +1986,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
-- [x] People nodes use global people ledger (N-2, N-67, N-323)
+- [x] People nodes use global people ledger (N-2, N-67, N-321)
 - [x] Non-person investigation targets use 1000 series (N-10332, N-10333)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty noted (Nef, Huachuca/Huachuca, Erika/Erica)

@@ -1,0 +1,801 @@
+[
+ {
+  "claim": "C-1176",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host says 'no timestamps. Right away, major red flag' and that it is easy to say when the first message was sent; she then reconstructs an approximate timeline. 'Cannot be independently verified' is added.",
+  "fix": {
+   "claim": "The host says the text messages released in the Robinson indictment have no timestamps, which she calls a major red flag, and that it would be very easy to say when the first message was sent."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-1177",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1178",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names only Robinson and Cox, but Mentions adds N-42 and N-69. Host says 'I think it's unlikely because I think again this is all made up'; hedge dropped.",
+  "fix": {
+   "claim": "The host says that because Robinson's text references 'similar clothing' to a second suspect, the text could not have been sent before Governor Cox's 5:30 PM press conference mentioning dark clothing, and she says she thinks the messages are made up.",
+   "mentions": [
+    "N-40",
+    "N-41"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-1179",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1180",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1181",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host says 'allegedly' twice about Lance being dropped at his parents' home and says Lance was released while the apartment was being raided; claim states it as fact without attribution.",
+  "fix": {
+   "claim": "The host says Lance Twiggs was allegedly released to his parents while his apartment was being raided and his electronics seized, which she argues is odd because he would be detained at least 24 hours."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-1182",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names Robinson but Mentions omits N-40. Source's account is the host's report ('My source says he's lying'), not established fact.",
+  "fix": {
+   "claim": "The host says Governor Cox's statement that Robinson kept the same maroon outfit on for 33 hours is false according to her source, who says Robinson was not wearing that outfit when picked up.",
+   "mentions": [
+    "N-40",
+    "N-41"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-1183",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Window does not show '8:07 AM' or 'FBI static images' wording; host says 'It's a gut thing'. Accepted as earlier context.",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1184",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host: 'running theme in these fed ops that there's always psychology somewhere in the family' and 'I'm not saying his mom has anything to do with anything.' Claim drops the disclaimer and moves the theme to the degree.",
+  "fix": {
+   "claim": "The host says Lance Twiggs's mother received a bachelor of science in psychology from Stanford University, says it seems a running theme in 'fed ops' that there is psychology somewhere in the family, and says she is not saying the mother has anything to do with anything."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-1185",
+  "episode": 4,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Speaker in the clip is Tucker Carlson ('publicly pledged to bring me to the next Turning Point conference'), not Candace Owens; 'financially threatened' not said (donors 'tormented' him). Contradicted by C-3736.",
+  "fix": {
+   "claim": "In a clip the host plays, Tucker Carlson says that a small, very intense group of donors tormented Charlie Kirk until the day he died and that two days before he died Charlie lost a $2 million donation because he had publicly pledged to bring Carlson to the next Turning Point conference in December.",
+   "label": "Donors Pressured Charlie Over Tucker Speaking Slot",
+   "mentions": [
+    "N-1",
+    "N-22"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-3736",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Correction claim; host at 37:14 names Tucker; clip speaker pledge 'bring me' matches.",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-3765",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4838",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names 'Robinson-Twigs' texts (Lance Twiggs) but Mentions omits N-54; surname spelled Twigs.",
+  "fix": {
+   "claim": "The host says the Robinson-Twiggs texts are written in very proper English with commas and correct punctuation, which she calls a striking contrast with the meme-style text inscribed on the cartridge casings.",
+   "mentions": [
+    "N-3",
+    "N-40",
+    "N-54"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4839",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4840",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names only Robinson; Lance is not named or referred to, yet N-54 is in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4841",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4842",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names Charlie Kirk ('after Charlie Kirk was shot') but Mentions omits N-1.",
+  "fix": {
+   "mentions": [
+    "N-42",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4843",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4844",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim refers only to 'the press conference' and Robinson; Cox is not named or referred to, but N-41 is in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-3"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4845",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names Kash Patel only; George Zinn is not named or referred to, but N-42 is in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-69"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4846",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4847",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Text says 'it wouldn't trace to me'; host sarcastically adds 'because you just told us in writing that it's your grandpa's'. Claim makes 'because it was his grandfather's' the text's reasoning.",
+  "fix": {
+   "claim": "The host says a Robinson text wonders whether the rifle had a serial number and says it would not trace to him, which she finds strange from someone who had planned for a week, noting he had just said in writing that it was his grandfather's."
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4848",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4849",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4850",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4851",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4852",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host says delete request comes on day two (20:33), consistent.",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4853",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4854",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4855",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4856",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4857",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4858",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4859",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4860",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4861",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4862",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4863",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names only Robinson and a deputy neighbor; Lance is not named, but N-54 is in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4864",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4865",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4866",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names no person (feds' 33-hour statement); N-40 is in Mentions but Robinson is not named or referred to.",
+  "fix": {
+   "mentions": []
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4867",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4868",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names Lance Twiggs and an unnamed apartment; Robinson is not named, but N-40 is in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-54"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4869",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4870",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4871",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4872",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4873",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4874",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim concerns the host and police station insiders; Robinson is not named or referred to, but N-40 is in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4875",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4876",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4877",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4878",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4879",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4880",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4881",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4882",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-4883",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names 'Charlie's death' but Mentions omits N-1.",
+  "fix": {
+   "mentions": [
+    "N-36",
+    "N-22",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4884",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim names Tucker Carlson and Charlie only; Megyn Kelly is not named or referred to, but N-46 is in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-1"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-4885",
+  "episode": 4,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ }
+]

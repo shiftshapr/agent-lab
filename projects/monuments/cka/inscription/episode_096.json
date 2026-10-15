@@ -60,7 +60,7 @@
           "related_nodes": [
             "N-2",
             "N-10637",
-            "N-375"
+            "N-373"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -79,8 +79,8 @@
           ],
           "related_nodes": [
             "N-10637",
-            "N-373",
-            "N-375"
+            "N-371",
+            "N-373"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -100,7 +100,7 @@
           "related_nodes": [
             "N-2",
             "N-10638",
-            "N-376"
+            "N-374"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -119,7 +119,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-334",
+            "N-332",
             "N-10637"
           ],
           "tags": [],
@@ -139,7 +139,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-376",
+            "N-374",
             "N-10638"
           ],
           "tags": [],
@@ -255,7 +255,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-265"
+            "N-263"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -352,9 +352,9 @@
           "related_nodes": [
             "N-3",
             "N-60",
-            "N-205",
-            "N-378",
-            "N-557"
+            "N-203",
+            "N-376",
+            "N-555"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -374,7 +374,7 @@
           "related_nodes": [
             "N-3",
             "N-60",
-            "N-557"
+            "N-555"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -493,8 +493,8 @@
           "related_nodes": [
             "N-2",
             "N-14",
-            "N-162",
-            "N-334",
+            "N-161",
+            "N-332",
             "N-10000"
           ],
           "tags": [],
@@ -524,7 +524,7 @@
             "N-3",
             "N-60",
             "N-82",
-            "N-383",
+            "N-381",
             "N-10270"
           ],
           "tags": [],
@@ -578,7 +578,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-284",
+            "N-282",
             "N-10000"
           ],
           "tags": [],
@@ -610,7 +610,7 @@
             "N-2",
             "N-3",
             "N-14",
-            "N-162",
+            "N-161",
             "N-10647"
           ],
           "tags": [],
@@ -667,7 +667,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-376"
+        "N-374"
       ]
     },
     {
@@ -979,8 +979,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-282",
-      "ref": "N-282",
+      "@id": "N-280",
+      "ref": "N-280",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Publication of Erika Kirk op-ed (A-2348); subject of Charlie Kirk commentary clip (A-2345).",
@@ -1013,8 +1013,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-334",
-      "ref": "N-334",
+      "@id": "N-332",
+      "ref": "N-332",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Referenced by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office.",
@@ -1034,8 +1034,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-265",
-      "ref": "N-265",
+      "@id": "N-263",
+      "ref": "N-263",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Referenced as the office to which the Zoom-call conversation was delivered.",
@@ -1066,11 +1066,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-132",
-      "ref": "N-132",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Susie Wiles",
       "type": "person",
-      "description": "Person Susie Wiles (N-132).",
+      "description": "Person Susie Wiles (N-131).",
       "related_artifacts": [],
       "related_claims": [
         "C-2809"
@@ -1083,8 +1083,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-373",
-      "ref": "N-373",
+      "@id": "N-371",
+      "ref": "N-371",
       "name": "Evan Hill",
       "type": "person",
       "description": "Washington Post investigative reporter; per the host (28:18), wrote on X that a Secret Service officer fired four times at Cole Allen and that the surveillance footage showed no indication Allen fired his weapon.",
@@ -1102,8 +1102,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-375",
-      "ref": "N-375",
+      "@id": "N-373",
+      "ref": "N-373",
       "name": "Cole Allen",
       "type": "person",
       "description": "Suspect in the White House Correspondents Dinner incident; per Evan Hill's X post read at 28:18, a Secret Service officer fired four times at him as he charged a security checkpoint.",
@@ -1123,8 +1123,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-376",
-      "ref": "N-376",
+      "@id": "N-374",
+      "ref": "N-374",
       "name": "Sarah Sidner",
       "type": "person",
       "description": "CNN reporter; per the host (31:35), first shared the clip of Erika Kirk saying \"I just want to go home.\" The host could not confirm she recorded it herself.",
@@ -1145,8 +1145,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-378",
-      "ref": "N-378",
+      "@id": "N-376",
+      "ref": "N-376",
       "name": "David Axelrod",
       "type": "person",
       "description": "Former top advisor to Barack Obama; named (01:04:56) in Laura Loomer's tweet alleging a secret anti-Trump summit in Rome with Candace Owens, Nick Fuentes and Aubrey Leitch. The host says she did not see him in Rome (01:07:45).",
@@ -1164,8 +1164,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-203",
+      "ref": "N-203",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
@@ -1182,8 +1182,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-557",
-      "ref": "N-557",
+      "@id": "N-555",
+      "ref": "N-555",
       "name": "Aubrey Lech",
       "type": "person",
       "description": "Former Turning Point USA employee; subject of recorded private investigator visit to her home.",
@@ -1519,8 +1519,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Blake Neff; the host says he wrote Erika's statement and gave an excuse for it.",
@@ -1542,8 +1542,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-199",
-      "ref": "N-199",
+      "@id": "N-197",
+      "ref": "N-197",
       "name": "Lee Trotter",
       "type": "person",
       "description": "Dr. Lee Trotter; the host says Erika put blame on him over the surgeon call.",
@@ -1576,8 +1576,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-222",
+      "ref": "N-222",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Milo Yiannopoulos; named in Loomer's claim about the host's husband.",
@@ -1594,8 +1594,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Karoline Leavitt",
       "type": "person",
       "description": "Karoline Leavitt; the host cites her stage conversation with Erika Kirk.",
@@ -1636,8 +1636,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-345",
-      "ref": "N-345",
+      "@id": "N-343",
+      "ref": "N-343",
       "name": "Victor Marx",
       "type": "person",
       "description": "Victor Marx; the host says he has not replied to her message.",
@@ -1654,8 +1654,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-346",
-      "ref": "N-346",
+      "@id": "N-344",
+      "ref": "N-344",
       "name": "Corby Hall",
       "type": "person",
       "description": "Corby Hall; subject of a recently pre-recorded episode and a viewer comment.",
@@ -1672,8 +1672,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-383",
-      "ref": "N-383",
+      "@id": "N-381",
+      "ref": "N-381",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Emmanuel Macron; named in a Loomer tweet the host reads.",
@@ -1691,8 +1691,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-426",
-      "ref": "N-426",
+      "@id": "N-424",
+      "ref": "N-424",
       "name": "Pope Leo XIV",
       "type": "person",
       "description": "Pope Leo XIV; the host says she did not meet him.",
@@ -1752,8 +1752,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-602",
-      "ref": "N-602",
+      "@id": "N-600",
+      "ref": "N-600",
       "name": "Druski",
       "type": "person",
       "description": "Druski; named by Erika Kirk in her statement.",
@@ -1806,8 +1806,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-821",
-      "ref": "N-821",
+      "@id": "N-819",
+      "ref": "N-819",
       "name": "Dan Scavino",
       "type": "person",
       "description": "First named by the host at 00:23:21 in episode 096, as the person who sent Trump's tweets during his first term.",
@@ -1823,8 +1823,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-822",
-      "ref": "N-822",
+      "@id": "N-820",
+      "ref": "N-820",
       "name": "Natalie Harp",
       "type": "person",
       "description": "First named by the host at 00:23:21 in episode 096, as the person widely reported to send Trump's Truth Social posts.",
@@ -1876,7 +1876,7 @@
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements.",
       "mentions_person_refs": [
-        "N-375"
+        "N-373"
       ]
     },
     {
@@ -1895,8 +1895,8 @@
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements.",
       "mentions_person_refs": [
-        "N-373",
-        "N-375"
+        "N-371",
+        "N-373"
       ]
     },
     {
@@ -1916,7 +1916,7 @@
       "investigative_direction": "Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip.",
       "mentions_person_refs": [
         "N-2",
-        "N-376"
+        "N-374"
       ]
     },
     {
@@ -1938,7 +1938,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-376"
+        "N-374"
       ]
     },
     {
@@ -1958,7 +1958,7 @@
       "investigative_direction": "Pull Baron Coleman's clip or post directly for full context.",
       "mentions_person_refs": [
         "N-2",
-        "N-334"
+        "N-332"
       ]
     },
     {
@@ -2078,7 +2078,7 @@
       "claim_timestamp": "00:43:54",
       "investigative_direction": "Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage.",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-1"
       ]
     },
@@ -2143,7 +2143,7 @@
         "N-2",
         "N-3",
         "N-14",
-        "N-282",
+        "N-280",
         "N-97"
       ]
     },
@@ -2200,9 +2200,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-60",
-        "N-205",
-        "N-378",
-        "N-557"
+        "N-203",
+        "N-376",
+        "N-555"
       ]
     },
     {
@@ -2600,7 +2600,7 @@
       "investigative_direction": "Identify the host's source and seek confirmation from White House staff.",
       "transcript_snippet": "I am told specifically that Susie Wiles was staunchly opposed to credit to Susie Wiles.",
       "mentions_person_refs": [
-        "N-132",
+        "N-131",
         "N-3",
         "N-60"
       ]
@@ -2690,8 +2690,8 @@
       "transcript_snippet": "Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term.",
       "mentions_person_refs": [
         "N-5",
-        "N-821",
-        "N-822"
+        "N-819",
+        "N-820"
       ]
     },
     {
@@ -2717,7 +2717,7 @@
         "C-2792"
       ],
       "mentions_person_refs": [
-        "N-375"
+        "N-373"
       ]
     },
     {
@@ -2784,7 +2784,7 @@
         "C-2794"
       ],
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-2"
       ]
     },
@@ -2946,7 +2946,7 @@
       "transcript_snippet": "when she sat down with Karoline Leavitt on stage at Turning Point event, she says that she doesn't like she didn't read the headlines, she doesn't care",
       "mentions_person_refs": [
         "N-2",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -2990,7 +2990,7 @@
       "transcript_snippet": "she name-dropped Drewski and she name-dropped me",
       "mentions_person_refs": [
         "N-2",
-        "N-602",
+        "N-600",
         "N-3"
       ]
     },
@@ -3013,7 +3013,7 @@
       "investigative_direction": "Identify who drafted the statement through script files, metadata or staff accounts.",
       "transcript_snippet": "this is why she's got to stop working with Blake Neff. It's giving Blakey Neff wrote it.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-2",
         "N-3"
       ]
@@ -3089,7 +3089,7 @@
       "investigative_direction": "Locate Blake Neff's post making this argument.",
       "transcript_snippet": "Blake Neff came out and said, \"Well, Candace didn't say it, but she implied it.\"",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3",
         "N-2"
       ]
@@ -3169,7 +3169,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-282",
+        "N-280",
         "N-3"
       ]
     },
@@ -3216,7 +3216,7 @@
       "investigative_direction": "Aubrey Lech's own account, and a comparison of the host's reporting against what Lech could have known.",
       "transcript_snippet": "I've had many conversations with her, but nothing was leaked to me about their that I presented on this show about anything that was going on internal.",
       "mentions_person_refs": [
-        "N-557",
+        "N-555",
         "N-3",
         "N-14"
       ]
@@ -3408,10 +3408,10 @@
       "investigative_direction": "Obtain the Coleman clip and the list of falsehoods he regards as documented.",
       "transcript_snippet": "There's no requirement I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods.",
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-2",
         "N-14",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -3436,7 +3436,7 @@
         "C-8791"
       ],
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-14",
         "N-3"
       ]
@@ -3463,7 +3463,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-199",
+        "N-197",
         "N-3"
       ]
     },
@@ -3504,7 +3504,7 @@
       "mentions_person_refs": [
         "N-60",
         "N-30",
-        "N-224",
+        "N-222",
         "N-3"
       ]
     },
@@ -3524,7 +3524,7 @@
       "transcript_snippet": "George had never even met Milo at all, not once in London, until the day that I interviewed him here in this house.",
       "mentions_person_refs": [
         "N-30",
-        "N-224",
+        "N-222",
         "N-3"
       ]
     },
@@ -3550,7 +3550,7 @@
         "N-60",
         "N-3",
         "N-82",
-        "N-383"
+        "N-381"
       ]
     },
     {
@@ -3593,7 +3593,7 @@
       "investigative_direction": "Aubrey Lech's original post.",
       "transcript_snippet": "An obvious AI photo joke from Aubrey saying, \"Happy birthday, Candace.\"",
       "mentions_person_refs": [
-        "N-557",
+        "N-555",
         "N-3"
       ]
     },
@@ -3641,9 +3641,9 @@
         "C-2806"
       ],
       "mentions_person_refs": [
-        "N-557",
-        "N-205",
-        "N-378",
+        "N-555",
+        "N-203",
+        "N-376",
         "N-3"
       ]
     },
@@ -3683,7 +3683,7 @@
       "investigative_direction": "Compare the recording date of the Corby Hall episode with the host's travel dates.",
       "transcript_snippet": "we recorded the Corby Hall episode because we were trying to cover for Thursday",
       "mentions_person_refs": [
-        "N-346",
+        "N-344",
         "N-3"
       ]
     },
@@ -3706,8 +3706,8 @@
       "investigative_direction": "The Corby Hall episode and any correspondence about the 50,000-gun offer.",
       "transcript_snippet": "he gets an offer to sell 50,000 guns and he turns it down on principle.",
       "mentions_person_refs": [
-        "N-346",
-        "N-345"
+        "N-344",
+        "N-343"
       ]
     },
     {
@@ -3727,7 +3727,7 @@
       "investigative_direction": "The host's Instagram messages and Marx's response, if any.",
       "transcript_snippet": "He never replied uh to my Instagram at all and I followed up",
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-3"
       ]
     },
@@ -3770,7 +3770,7 @@
       "transcript_snippet": "I did not meet the Pope.",
       "mentions_person_refs": [
         "N-3",
-        "N-426"
+        "N-424"
       ]
     }
   ],

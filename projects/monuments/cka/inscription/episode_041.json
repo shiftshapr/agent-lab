@@ -30,7 +30,7 @@
             "C-1831"
           ],
           "related_nodes": [
-            "N-306"
+            "N-304"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -201,7 +201,7 @@
             "C-1835"
           ],
           "related_nodes": [
-            "N-310",
+            "N-308",
             "N-10897"
           ],
           "tags": [],
@@ -267,7 +267,7 @@
           ],
           "related_nodes": [
             "N-10804",
-            "N-162",
+            "N-161",
             "N-3"
           ],
           "tags": [],
@@ -320,7 +320,7 @@
           ],
           "related_nodes": [
             "N-10897",
-            "N-271",
+            "N-269",
             "N-3"
           ],
           "tags": [],
@@ -362,8 +362,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-306",
-      "ref": "N-306",
+      "@id": "N-304",
+      "ref": "N-304",
       "name": "Cam Higby",
       "type": "person",
       "description": "Pentagon correspondent whose question to the Pentagon press secretary regarding a \"French military plot to assassinate Candace Owens\" is presented in the episode. Host asserts he has been on TPUSA payroll since August 2025.",
@@ -381,8 +381,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-309",
-      "ref": "N-309",
+      "@id": "N-307",
+      "ref": "N-307",
       "name": "Wed Mahmoud",
       "type": "person",
       "description": "Person using this name on board the \"yellow plane\" SU-BND on September 10, 2025 (one of four passengers). Host asserts same individual flew on SU-BTU (\"purple plane\") into Provo on May 27, 2025. Identity verification target.",
@@ -400,8 +400,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-310",
-      "ref": "N-310",
+      "@id": "N-308",
+      "ref": "N-308",
       "name": "Sara Zaafarani",
       "type": "person",
       "description": "Tunisian Prime Minister. Photographed with President El-Sisi in Egypt on September 10, 2025, per host assertion; used as alibi for El-Sisi.",
@@ -457,7 +457,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-309",
+        "N-307",
         "N-10310"
       ]
     },
@@ -476,7 +476,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-309",
+        "N-307",
         "N-10309"
       ]
     },
@@ -598,8 +598,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -619,8 +619,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Tim Pool",
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
@@ -754,8 +754,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-264",
-      "ref": "N-264",
+      "@id": "N-262",
+      "ref": "N-262",
       "name": "Duncan Aviation",
       "type": "person",
       "description": "FBO where the host says SU-BND was transponding on September 10.",
@@ -941,8 +941,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-722",
-      "ref": "N-722",
+      "@id": "N-720",
+      "ref": "N-720",
       "name": "Abdel Fattah el-Sisi",
       "type": "person",
       "description": "First named by the host as the Egyptian president (transcript spelling Elsis, Elsisi) at 00:17:13 in episode 41.",
@@ -1007,7 +1007,7 @@
       "claim_timestamp": "00:02:11",
       "investigative_direction": "Verify the original Pentagon press briefing transcript and date; confirm Higby's professional affiliations at the time.",
       "mentions_person_refs": [
-        "N-306",
+        "N-304",
         "N-3"
       ]
     },
@@ -1026,7 +1026,7 @@
       "investigative_direction": "Confirm original tweet via X/Twitter archive; verify timestamp and wording.",
       "mentions_person_refs": [
         "N-1",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1045,7 +1045,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1083,7 +1083,7 @@
       "claim_timestamp": "00:17:13",
       "investigative_direction": "Locate the original photograph; verify date, location, and participants.",
       "mentions_person_refs": [
-        "N-310"
+        "N-308"
       ]
     },
     {
@@ -1119,7 +1119,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-7",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1137,7 +1137,7 @@
       "investigative_direction": "Verify clip against original Tim Pool broadcast; capture full context.",
       "mentions_person_refs": [
         "N-3",
-        "N-271"
+        "N-269"
       ]
     },
     {
@@ -1156,7 +1156,7 @@
       "transcript_snippet": "Okay, I maintain that turning point is engaged in a cover up.",
       "mentions_person_refs": [
         "N-3",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1201,7 +1201,7 @@
         "C-1825"
       ],
       "mentions_person_refs": [
-        "N-306"
+        "N-304"
       ]
     },
     {
@@ -1240,7 +1240,7 @@
       "investigative_direction": "Obtain employment, contractor or payment records, or a TPUSA staff announcement, showing whether and when Higby was engaged by TPUSA.",
       "transcript_snippet": "Well, Cam Higgby is on the payroll of Turning Point USA beginning in August of this year.",
       "mentions_person_refs": [
-        "N-306",
+        "N-304",
         "N-3"
       ]
     },
@@ -1286,7 +1286,7 @@
         "C-1832"
       ],
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-1",
         "N-3"
       ]
@@ -1309,7 +1309,7 @@
       "transcript_snippet": "and 2 p. m. happens to also be the literal time that I do my podcast live every day, which you knew, but we will happily cancel the daily podcast",
       "mentions_person_refs": [
         "N-3",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1366,7 +1366,7 @@
       "investigative_direction": "Identify the pastors and the broadcasts or posts in which they used that language about the host.",
       "transcript_snippet": "All Blake Neff did was name call yesterday. All the pastors have been doing it's demonic. It's possessed.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -1397,7 +1397,7 @@
       "claim": "The host says the plane she labels blue, SU-BND, was transponding on the ground at Duncan Aviation on the day of Charlie's assassination but did not go anywhere.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-264",
+        "N-262",
         "N-10208",
         "N-10074"
       ],
@@ -1452,7 +1452,7 @@
       "transcript_snippet": "But the name that one of those individuals was using is Wedi Machmood. Okay. Wid Makmood.",
       "mentions_person_refs": [
         "N-3",
-        "N-309"
+        "N-307"
       ]
     },
     {
@@ -1472,7 +1472,7 @@
       "transcript_snippet": "Wed Mahmoud came in and uh we can also confirm that if you look up the plane that he was on, there is no transponder data which reflects that trip.",
       "mentions_person_refs": [
         "N-3",
-        "N-309"
+        "N-307"
       ]
     },
     {
@@ -1492,7 +1492,7 @@
       "transcript_snippet": "Purple plane was not there on day Charlie's assassination, but we now have a person that was on that purple plane uh at the end of May.",
       "mentions_person_refs": [
         "N-3",
-        "N-309"
+        "N-307"
       ]
     },
     {
@@ -1512,7 +1512,7 @@
       "transcript_snippet": "May 27th, SUBTU flies into Provo with Wii Makmoud aboard. Maybe it's a pilot. I don't know. Uh then we've got it departs on June 2nd and it is not transponding.",
       "mentions_person_refs": [
         "N-3",
-        "N-309"
+        "N-307"
       ]
     },
     {
@@ -1582,7 +1582,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-722"
+        "N-720"
       ]
     },
     {
@@ -1601,8 +1601,8 @@
       "transcript_snippet": "But he is almost certainly well acquainted with the president of Egypt because planes that fly presidents around uh military planes are not going to",
       "mentions_person_refs": [
         "N-3",
-        "N-309",
-        "N-722"
+        "N-307",
+        "N-720"
       ]
     },
     {
@@ -1678,7 +1678,7 @@
       "transcript_snippet": "he said, \"Hey, you're going to dinner with Blake and and Danny.\"",
       "mentions_person_refs": [
         "N-7",
-        "N-162",
+        "N-161",
         "N-1"
       ]
     },
@@ -1755,7 +1755,7 @@
       "investigative_direction": "Review the full Tim Pool broadcast for exact wording and what host statements he refers to.",
       "transcript_snippet": "She continually crosses the line every day insinuating that Turning Point literally killed the guy who made them all rich.",
       "mentions_person_refs": [
-        "N-271",
+        "N-269",
         "N-3",
         "N-1"
       ]
@@ -1874,7 +1874,7 @@
       "investigative_direction": "Watch for Project Constitution's promised release and verify the bot evidence.",
       "transcript_snippet": "I have proof now that Tim P uses bots. Stay tuned. Receipts dropping in the next few weeks.",
       "mentions_person_refs": [
-        "N-271"
+        "N-269"
       ]
     },
     {

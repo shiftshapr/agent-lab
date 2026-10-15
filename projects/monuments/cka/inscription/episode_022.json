@@ -60,7 +60,7 @@
           ],
           "related_nodes": [
             "N-94",
-            "N-204",
+            "N-202",
             "N-10205"
           ],
           "tags": [],
@@ -136,7 +136,7 @@
           "related_nodes": [
             "N-14",
             "N-22",
-            "N-205"
+            "N-203"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -192,8 +192,8 @@
             "N-38",
             "N-39",
             "N-22",
-            "N-205",
-            "N-208"
+            "N-203",
+            "N-206"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -233,7 +233,7 @@
           ],
           "related_nodes": [
             "N-38",
-            "N-205",
+            "N-203",
             "N-4"
           ],
           "tags": [],
@@ -498,7 +498,7 @@
             "C-9446"
           ],
           "related_nodes": [
-            "N-203"
+            "N-201"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -581,8 +581,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-204",
-      "ref": "N-204",
+      "@id": "N-202",
+      "ref": "N-202",
       "name": "Shirlene Maxfield",
       "type": "person",
       "description": "Co-owner (with husband Derek Maxfield) of plane N888KG; co-signatory of the September 11 public statement.",
@@ -632,8 +632,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-203",
+      "ref": "N-203",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Guest on Tucker Carlson's show; described by Seth Dillon as having animosity toward Jews, women, and minorities, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and having glorified Hitler.",
@@ -695,8 +695,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-207",
-      "ref": "N-207",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Ana Kasparian",
       "type": "person",
       "description": "Subject of Stop Anti-Semitism X post (A-1294.1) referencing her CNN platforming as parallel evidence of \"Holocaust normalization.\"",
@@ -714,8 +714,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-208",
-      "ref": "N-208",
+      "@id": "N-206",
+      "ref": "N-206",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Host of interview program from which Seth Dillon/Dave Smith clips (A-1295) are sourced.",
@@ -750,7 +750,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -824,7 +824,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-94",
-        "N-204"
+        "N-202"
       ]
     },
     {
@@ -1104,8 +1104,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-203",
-      "ref": "N-203",
+      "@id": "N-201",
+      "ref": "N-201",
       "name": "Norman Finkelstein",
       "type": "person",
       "description": "Guest of the host's interview aired the day after this episode.",
@@ -1717,8 +1717,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-844",
-      "ref": "N-844",
+      "@id": "N-842",
+      "ref": "N-842",
       "name": "Casey Baugh",
       "type": "person",
       "description": "First named by the host at 00:03:53 in episode 22 as a co-owner of the Maxfield plane and as having his name on the Baugh Entrepreneurship Institute at UVU.",
@@ -1801,10 +1801,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:17",
-      "investigative_direction": "Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025.",
-      "mentions_person_refs": [
-        "N-67"
-      ]
+      "investigative_direction": "Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025."
     },
     {
       "@type": "Claim",
@@ -1861,7 +1858,7 @@
       "investigative_direction": "Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding.",
       "mentions_person_refs": [
         "N-94",
-        "N-204"
+        "N-202"
       ]
     },
     {
@@ -1905,7 +1902,7 @@
       "@id": "C-1533",
       "ref": "C-1533",
       "label": "Host Says SU-BTT's Three-Year Routing Pattern Runs Through Paris to Air Force Base Cities",
-      "claim": "The host says the FlightRadar three-year history for SU-BTT shows the aircraft routinely routes through Paris and lands in U.S. cities with Air Force bases, and that Provo has no Air Force base.",
+      "claim": "The host says the FlightRadar three-year history for SU-BTT shows the aircraft routinely flies through Paris, and that she noticed the trend that it always flies to an Air Force base.",
       "anchored_artifacts": [
         "A-1292.2"
       ],
@@ -1921,7 +1918,7 @@
       "@id": "C-1534",
       "ref": "C-1534",
       "label": "Email tipster claim: SU-BTT carried subcontractors dropped in Provo",
-      "claim": "An unnamed email tipster claims the SU-BTT flight was carrying Egyptian military subcontractors who were dropped off in Provo, Utah and did not return to Cairo when the plane departed.",
+      "claim": "The host says, citing an unnamed email tipster, that she can report as a fact that the SU-BTT flight carried Egyptian military subcontractors who were dropped off in Provo, Utah and did not make it back to Cairo when the plane departed.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10204"
@@ -1978,7 +1975,7 @@
       "mentions_person_refs": [
         "N-55",
         "N-22",
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -1996,7 +1993,7 @@
       "investigative_direction": "Obtain original X post URL; preserve deletion history and engagement metrics.",
       "mentions_person_refs": [
         "N-22",
-        "N-207"
+        "N-205"
       ]
     },
     {
@@ -2015,9 +2012,8 @@
       "mentions_person_refs": [
         "N-22",
         "N-38",
-        "N-39",
-        "N-205",
-        "N-208"
+        "N-203",
+        "N-206"
       ]
     },
     {
@@ -2038,7 +2034,7 @@
         "N-22",
         "N-38",
         "N-39",
-        "N-208"
+        "N-206"
       ]
     },
     {
@@ -2046,7 +2042,7 @@
       "@id": "C-1541",
       "ref": "C-1541",
       "label": "Seth Dillon on Nick Fuentes' alleged statements regarding J.D. Vance",
-      "claim": "In a clip the host plays, Seth Dillon, on Piers Morgan, characterizes Nick Fuentes as having animosity toward Jews, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and as having engaged in \"glorification of Hitler.\"",
+      "claim": "In a clip the host plays, which she indicates was from a separate show rather than Piers Morgan, Seth Dillon characterizes Nick Fuentes as having animosity toward Jews, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and as having engaged in \"glorification of Hitler.\"",
       "anchored_artifacts": [
         "A-1295.3"
       ],
@@ -2057,8 +2053,8 @@
       "mentions_person_refs": [
         "N-4",
         "N-38",
-        "N-205",
-        "N-208"
+        "N-203",
+        "N-206"
       ]
     },
     {
@@ -2066,7 +2062,7 @@
       "@id": "C-1542",
       "ref": "C-1542",
       "label": "TPUSA text chain: Jewish donor loss and Candace invitation",
-      "claim": "A TPUSA internal text-chain screenshot shows Charlie Kirk writing that TPUSA \"just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker\" and that he is \"thinking of inviting Candace.\"",
+      "claim": "In a clip the host plays, a speaker describing screenshots of an internal chat Charlie Kirk was doing with TPUSA says it reads \"Just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker. And I'm thinking of inviting Candace.\"",
       "anchored_artifacts": [
         "A-1296.1"
       ],
@@ -2078,7 +2074,8 @@
       "investigative_direction": "Independently verify the screenshot provenance, timestamp, and participants; confirm via TPUSA records or corroborating witnesses.",
       "mentions_person_refs": [
         "N-1",
-        "N-22"
+        "N-22",
+        "N-3"
       ]
     },
     {
@@ -2120,7 +2117,7 @@
       "@id": "C-3646",
       "ref": "C-3646",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host says she was going through the DCIA tips box, which she calls \"our decentralized intelligence agency tips box,\" when she found an email about the Egyptian flight.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2198,8 +2195,8 @@
       "transcript_snippet": "Someone who didn't hit internet radar who also co-owns that plane with them is a person named Casey Baugh, B A U G H.",
       "mentions_person_refs": [
         "N-94",
-        "N-204",
-        "N-844",
+        "N-202",
+        "N-842",
         "N-3"
       ]
     },
@@ -2221,7 +2218,7 @@
       "investigative_direction": "UVU website and records for the Baugh Entrepreneurship Institute and its location.",
       "transcript_snippet": "the Baugh Entrepreneurship Institute, which operates out of the Woodbury Business Building, okay?",
       "mentions_person_refs": [
-        "N-844",
+        "N-842",
         "N-3"
       ]
     },
@@ -2244,7 +2241,7 @@
       "transcript_snippet": "of course, now we know that Tyler Robinson was not on the Woodbury building or on campus at all, for that matter.",
       "mentions_person_refs": [
         "N-40",
-        "N-844",
+        "N-842",
         "N-3"
       ]
     },
@@ -2270,7 +2267,7 @@
       ],
       "mentions_person_refs": [
         "N-94",
-        "N-204",
+        "N-202",
         "N-3"
       ]
     },
@@ -2297,7 +2294,7 @@
       ],
       "mentions_person_refs": [
         "N-94",
-        "N-204",
+        "N-202",
         "N-3"
       ]
     },
@@ -2321,7 +2318,7 @@
       "transcript_snippet": "To our knowledge, no one associated with yesterday's flight by N888KG has been contacted by law enforcement for any reason.",
       "mentions_person_refs": [
         "N-94",
-        "N-204"
+        "N-202"
       ]
     },
     {
@@ -2344,7 +2341,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-94",
-        "N-204"
+        "N-202"
       ]
     },
     {
@@ -2437,8 +2434,7 @@
         "C-1532"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-67"
+        "N-3"
       ]
     },
     {
@@ -2492,7 +2488,7 @@
       "@id": "C-9414",
       "ref": "C-9414",
       "label": "Host states as fact that the 9/4 stop was not routine servicing",
-      "claim": "The host says she can report as a fact that the Egyptian plane's September 4 stop in Utah was not for routine servicing, as officials implied, and that it carried military subcontractors who were dropped off in Provo.",
+      "claim": "The host says she is telling viewers as a fact that the Egyptian plane's September 4 stop in Utah was not routine servicing, as \"they\" claimed, and that it carried military subcontractors who were dropped off in Provo.",
       "anchored_artifacts": [
         "A-3007.1"
       ],
@@ -2510,8 +2506,7 @@
         "C-1534"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-69"
+        "N-3"
       ]
     },
     {
@@ -2661,7 +2656,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-22",
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -2757,7 +2752,7 @@
         "N-10452"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:33:30",
       "investigative_direction": "The Stop Antisemitism account's 2024 list and any award announcement.",
@@ -2815,7 +2810,7 @@
       "mentions_person_refs": [
         "N-39",
         "N-3",
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -2864,8 +2859,7 @@
       "transcript_snippet": "2 days before Charlie Kirk was killed, he was explicit in saying he was left with no choice but to leave the pro-Israel cause",
       "mentions_person_refs": [
         "N-3",
-        "N-1",
-        "N-38"
+        "N-1"
       ]
     },
     {
@@ -3039,7 +3033,7 @@
         "N-3",
         "N-38",
         "N-68",
-        "N-208"
+        "N-206"
       ]
     },
     {
@@ -3175,7 +3169,7 @@
       "@id": "C-9442",
       "ref": "C-9442",
       "label": "Mark says N1098L was in Idaho when Charlie was shot, about 20 minutes out",
-      "claim": "Mark says a screenshot shows N1098L was over Idaho at the moment Charlie was shot, about 20 minutes out, and did not reach Provo until about 20 minutes after the shooting.",
+      "claim": "Mark says a screenshot shows N1098L was in Idaho at the moment Charlie was shot; the host adds that it was about 20 minutes out and did not get over Provo until about 20 minutes after he was shot.",
       "anchored_artifacts": [
         "A-3008.1"
       ],
@@ -3283,7 +3277,7 @@
       "transcript_snippet": "tomorrow is a Norm Finkelstein interview.",
       "mentions_person_refs": [
         "N-3",
-        "N-203"
+        "N-201"
       ]
     }
   ],

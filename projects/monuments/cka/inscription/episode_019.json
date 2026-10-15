@@ -111,7 +111,7 @@
             "C-1465"
           ],
           "related_nodes": [
-            "N-184"
+            "N-182"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -129,7 +129,7 @@
             "C-1466"
           ],
           "related_nodes": [
-            "N-184"
+            "N-182"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -254,7 +254,7 @@
             "C-1475"
           ],
           "related_nodes": [
-            "N-188"
+            "N-186"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -302,7 +302,7 @@
             "C-1482"
           ],
           "related_nodes": [
-            "N-131"
+            "N-130"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -346,7 +346,7 @@
             "C-1483"
           ],
           "related_nodes": [
-            "N-189"
+            "N-187"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -388,7 +388,7 @@
             "C-1484"
           ],
           "related_nodes": [
-            "N-184"
+            "N-182"
           ],
           "tags": [],
           "video_timestamp": "00:56:09"
@@ -424,8 +424,8 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-194",
-            "N-183"
+            "N-192",
+            "N-181"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -461,7 +461,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-184",
+            "N-182",
             "N-10192"
           ],
           "tags": [],
@@ -488,7 +488,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-184",
+            "N-182",
             "N-1",
             "N-10799"
           ],
@@ -516,7 +516,7 @@
           ],
           "related_nodes": [
             "N-11",
-            "N-184",
+            "N-182",
             "N-10346"
           ],
           "tags": [],
@@ -531,8 +531,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-183",
-      "ref": "N-183",
+      "@id": "N-181",
+      "ref": "N-181",
       "name": "Justin McCoy",
       "type": "person",
       "description": "Son of Pastor Rob McCoy. Identified in episode as TPUSA Chief Financial Officer (\"chief CFO, chief financial officer\"). Referenced in Pastor McCoy's A-1260.1 sermon regarding succession.",
@@ -548,8 +548,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-184",
-      "ref": "N-184",
+      "@id": "N-182",
+      "ref": "N-182",
       "name": "Camera Operator (UVU Event, 2025-09-10)",
       "type": "person",
       "description": "Unnamed AV company operator at the UVU Charlie Kirk event. Operated TPUSA event cameras; recorded selfie video immediately post-shooting; sent a video to Candace Owens covering four minutes of activity before camera takedown. Identified by host as having been brought into TPUSA by Tyler Bowyer.",
@@ -589,8 +589,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-131",
-      "ref": "N-131",
+      "@id": "N-130",
+      "ref": "N-130",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Internet investigator whose video work is cited by host regarding Frank Turek's reaction and whose viewer comment is read aloud (A-1269.1). Described as among those \"not letting this go.\"",
@@ -612,8 +612,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-185",
-      "ref": "N-185",
+      "@id": "N-183",
+      "ref": "N-183",
       "name": "Sam Parker",
       "type": "person",
       "description": "Internet investigator cited by host as among those who helped circulate the Mikey McCoy September 10 footage.",
@@ -631,8 +631,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-186",
-      "ref": "N-186",
+      "@id": "N-184",
+      "ref": "N-184",
       "name": "James Lee",
       "type": "person",
       "description": "Internet investigator cited by host as among those helping circulate post-event footage.",
@@ -650,9 +650,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-187",
-      "ref": "N-187",
-      "name": "Zeb Boyin",
+      "@id": "N-185",
+      "ref": "N-185",
+      "name": "Zeb Boykin",
       "type": "person",
       "description": "Internet investigator cited by host as conducting ballistics work on the case.",
       "related_artifacts": [],
@@ -668,8 +668,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-188",
-      "ref": "N-188",
+      "@id": "N-186",
+      "ref": "N-186",
       "name": "John Miller",
       "type": "person",
       "description": "X (Twitter) user whose post about Josh Hammer is read aloud (A-1267.1).",
@@ -687,8 +687,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-189",
-      "ref": "N-189",
+      "@id": "N-187",
+      "ref": "N-187",
       "name": "Joshua Steves",
       "type": "person",
       "description": "Viewer-comment author referencing Tyler Robinson's Zoom court appearance.",
@@ -706,8 +706,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-190",
-      "ref": "N-190",
+      "@id": "N-188",
+      "ref": "N-188",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "Identified by host as TPUSA's \"chief money person,\" holding camera during casket escort off Air Force 2. Brought into TPUSA by Tyler Bowyer per host.",
@@ -740,8 +740,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-189",
+      "ref": "N-189",
       "name": "Scott Adams",
       "type": "person",
       "description": "Referenced by host as having produced a video characterizing Kanye West's tweet about Candace Owens as having \"ripped a hole through the universe.\"",
@@ -755,8 +755,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Ryan Matta",
       "type": "person",
       "description": "Internet investigator cited by host among those pursuing the case \"day in and day out\" despite not having previously known Charlie Kirk.",
@@ -815,7 +815,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -860,7 +860,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-183"
+        "N-181"
       ]
     },
     {
@@ -883,7 +883,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-188"
+        "N-186"
       ]
     },
     {
@@ -1482,8 +1482,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Rob McCoy's son and TPUSA chief of staff; the host analyzes his phone use at the shooting.",
@@ -1530,8 +1530,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Podcaster; the host recalls flying to Wyoming after doing his show.",
@@ -1547,8 +1547,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-941",
-      "ref": "N-941",
+      "@id": "N-939",
+      "ref": "N-939",
       "name": "Foster Friess",
       "type": "person",
       "description": "First named by the host at 00:01:39 in episode 19. Described by the host as a big-time donor to Turning Point USA whose funeral in Wyoming was the last trip she took with Charlie Kirk.",
@@ -1588,7 +1588,7 @@
       "@id": "C-1461",
       "ref": "C-1461",
       "label": "Mikey McCoy Phone-to-Ear Timing Measured at 834 Milliseconds",
-      "claim": "Host's frame-by-frame analysis of event-day footage shows Mikey McCoy raising his phone to his ear approximately 834 milliseconds after the gunshot audio is heard.",
+      "claim": "The host says that in a slowed-down clip it is exactly 834 milliseconds from when the shot is heard until Mikey McCoy puts his phone to his ear.",
       "anchored_artifacts": [
         "A-1261.1"
       ],
@@ -1600,8 +1600,7 @@
       "claim_timestamp": "00:10:34–00:11:27",
       "investigative_direction": "Obtain raw event-day footage with synchronized audio timestamps for independent verification of the 834ms figure; obtain Mikey McCoy's call log for 12:23 p.m. on 2025-09-10.",
       "mentions_person_refs": [
-        "N-185",
-        "N-186"
+        "N-192"
       ]
     },
     {
@@ -1609,7 +1608,7 @@
       "@id": "C-1462",
       "ref": "C-1462",
       "label": "Host Says Footage Shows Mikey McCoy on Phone About 1 Minute 45 Seconds Before Shot",
-      "claim": "The host says event-day footage shows Mikey McCoy on his phone approximately 1 minute 45 seconds before the gunshot.",
+      "claim": "The host says she and her team found what they think could be the moment, approximately 1 minute 45 seconds before the gunshot, when Mikey McCoy is on his phone.",
       "anchored_artifacts": [
         "A-1261.3"
       ],
@@ -1618,8 +1617,11 @@
         "N-10193"
       ],
       "tags": [],
-      "claim_timestamp": "00:13:33",
-      "investigative_direction": "Cross-reference call log timestamps with footage timestamps to determine call duration and recipient."
+      "claim_timestamp": "00:13:17",
+      "investigative_direction": "Cross-reference call log timestamps with footage timestamps to determine call duration and recipient.",
+      "mentions_person_refs": [
+        "N-192"
+      ]
     },
     {
       "@type": "Claim",
@@ -1638,7 +1640,8 @@
       "claim_timestamp": "00:12:22",
       "investigative_direction": "Verify timing continuity and identify any change in phone-use posture during the post-shot interval.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-192"
       ]
     },
     {
@@ -1657,7 +1660,7 @@
       "claim_timestamp": "00:24:44–00:25:51",
       "investigative_direction": "Obtain original selfie video metadata (timestamp, device, file hash) and authenticate chain of custody.",
       "mentions_person_refs": [
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -1676,7 +1679,7 @@
       "claim_timestamp": "00:24:44–00:25:51",
       "investigative_direction": "Obtain video and assess whether any medical assessment could have supported such a declaration at that moment.",
       "mentions_person_refs": [
-        "N-184",
+        "N-182",
         "N-1"
       ]
     },
@@ -1696,7 +1699,7 @@
       "claim_timestamp": "00:23:05",
       "investigative_direction": "Obtain the original sent video and metadata to authenticate the four-minute pre-takedown window.",
       "mentions_person_refs": [
-        "N-184",
+        "N-182",
         "N-3"
       ]
     },
@@ -1716,9 +1719,8 @@
       "claim_timestamp": "00:07:11",
       "investigative_direction": "Identify the source of Pastor McCoy's information regarding the succession plan and the timeline of its formulation.",
       "mentions_person_refs": [
-        "N-183",
-        "N-1",
-        "N-17"
+        "N-17",
+        "N-1"
       ]
     },
     {
@@ -1768,7 +1770,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:38:21",
+      "claim_timestamp": "00:37:36",
       "investigative_direction": "Identify any direct verbatim text within A-1266.1 that matches the precise phrasing \"Turning Point was going to be the death of him.\"",
       "mentions_person_refs": [
         "N-1"
@@ -1832,7 +1834,7 @@
       "@id": "C-1474",
       "ref": "C-1474",
       "label": "Candace Owens Traveled to College Campuses with Charlie Kirk for Six Years",
-      "claim": "Host states she hit college campuses alongside Charlie Kirk for six years and that no other living person has spoken at more college campuses alongside him than she has.",
+      "claim": "Host states she hit college campuses alongside Charlie Kirk for six years and that she does not believe any other living person has spoken at more college campuses alongside him than she has.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -1857,7 +1859,7 @@
       "claim_timestamp": "00:35:33",
       "investigative_direction": "Locate original post URL and timestamp on X.",
       "mentions_person_refs": [
-        "N-188",
+        "N-186",
         "N-55"
       ]
     },
@@ -1893,22 +1895,24 @@
       "investigative_direction": "Obtain TPUSA hiring/contract records for the unnamed AV company operator.",
       "mentions_person_refs": [
         "N-11",
-        "N-184"
+        "N-182"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-1478",
       "ref": "C-1478",
-      "label": "Mikey McCoy Brought into TPUSA by Tyler Bowyer",
-      "claim": "Host states Mikey McCoy was brought into TPUSA by Tyler Bowyer.",
+      "label": "Host Says Kolvet and Sheridan Were Brought In by Tyler Bowyer",
+      "claim": "Host states that the people she listed for the group chat, including Andrew Kolvet and Stacy Sheridan, were brought into TPUSA by Tyler Bowyer.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:04:39",
       "investigative_direction": "Verify via TPUSA organizational records.",
       "mentions_person_refs": [
-        "N-11"
+        "N-11",
+        "N-14",
+        "N-188"
       ]
     },
     {
@@ -1924,7 +1928,7 @@
       "investigative_direction": "Verify via TPUSA organizational records.",
       "mentions_person_refs": [
         "N-11",
-        "N-190"
+        "N-188"
       ]
     },
     {
@@ -1948,7 +1952,7 @@
       "@id": "C-1481",
       "ref": "C-1481",
       "label": "Frank Turek's Reaction Described as Normal Post-Shot Behavior",
-      "claim": "Host and Ian Carroll characterize Frank Turek as the only person at the event who reacted normally – dropping to ground and crawling toward Kirk to assist.",
+      "claim": "Host says that, as Ian Carroll pointed out in one of his videos, Frank Turek was the only person acting right; she says the normal first reaction is to drop to the ground and get low, and that Turek then crawls back toward Charlie Kirk and tries to see him to the car.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -1956,7 +1960,8 @@
       "investigative_direction": "Locate video evidence corroborating Turk's specific movements.",
       "mentions_person_refs": [
         "N-7",
-        "N-131"
+        "N-130",
+        "N-1"
       ]
     },
     {
@@ -1973,7 +1978,7 @@
       "claim_timestamp": "00:51:43",
       "investigative_direction": "Locate original comment thread.",
       "mentions_person_refs": [
-        "N-131"
+        "N-130"
       ]
     },
     {
@@ -1990,7 +1995,7 @@
       "claim_timestamp": "00:53:26",
       "investigative_direction": "Obtain court appearance records and any media coverage of the Zoom appearance.",
       "mentions_person_refs": [
-        "N-189",
+        "N-187",
         "N-40"
       ]
     },
@@ -2010,7 +2015,7 @@
       "claim_timestamp": "00:56:09",
       "investigative_direction": "Corroborate viewer characterization against any independent frame-by-frame review of A-1262.1.",
       "mentions_person_refs": [
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -2025,38 +2030,45 @@
       "claim_timestamp": "00:13:46–00:14:46",
       "investigative_direction": "Obtain any written correspondence or call records from the outreach attempts.",
       "mentions_person_refs": [
-        "N-14"
+        "N-14",
+        "N-192"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-1486",
       "ref": "C-1486",
-      "label": "Host Press Played Devil's Advocate for Mikey McCoy",
-      "claim": "Host states she instructed her team to play devil's advocate for Mikey McCoy and to propose any scenario explaining the 834ms timing; \"no one could win this game.\"",
+      "label": "Host Asked for Devil's Advocate on Mikey McCoy",
+      "claim": "Host states she told someone to play devil's advocate for Mikey McCoy and explain how he did it so quickly; \"no one could win this game.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10193"
       ],
       "tags": [],
       "claim_timestamp": "00:12:22",
-      "investigative_direction": "Document the scenarios considered and rejected."
+      "investigative_direction": "Document the scenarios considered and rejected.",
+      "mentions_person_refs": [
+        "N-192"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-1487",
       "ref": "C-1487",
-      "label": "Host discussed Zeb Boyin in witness / outreach context",
-      "claim": "Host discusses Zeb Boyin in connection with witness outreach (register anchor).",
+      "label": "Host discussed Zeb Boykin in witness / outreach context",
+      "claim": "The host says it is thanks to people on the internet like Sam Parker, James Lee, Ian Carroll and Zeb Boykin, among others, that a video from September 10th has gone pretty viral.",
       "anchored_artifacts": [
         "A-1261.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:45:00–00:46:00",
+      "claim_timestamp": "00:07:45",
       "investigative_direction": "Cross-reference name spelling against prior episodes and public records.",
       "mentions_person_refs": [
-        "N-187"
+        "N-183",
+        "N-184",
+        "N-130",
+        "N-185"
       ]
     },
     {
@@ -2070,10 +2082,10 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:50:00–00:51:00",
+      "claim_timestamp": "00:52:47",
       "investigative_direction": "Locate the referenced Scott Adams video and timestamp the host mention.",
       "mentions_person_refs": [
-        "N-191",
+        "N-189",
         "N-27"
       ]
     },
@@ -2091,7 +2103,7 @@
       "claim_timestamp": "00:52:00–00:53:00",
       "investigative_direction": "Identify primary artifact anchor if a dedicated clip exists in a later pass.",
       "mentions_person_refs": [
-        "N-192"
+        "N-190"
       ]
     },
     {
@@ -2120,7 +2132,7 @@
       "@id": "C-13937",
       "ref": "C-13937",
       "label": "Host Says Kirk Knew She Alone Would Step Up to Defend Him",
-      "claim": "The host says Charlie Kirk knew she was the only person who would step up to defend him after he was gone, and says she has proof.",
+      "claim": "The host says Charlie Kirk knew she was the only person who was going to step up to defend him after he was gone, and says \"that sounds crazy, but it's the truth.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10003"
@@ -2155,7 +2167,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2196,7 +2208,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-941"
+        "N-939"
       ]
     },
     {
@@ -2214,7 +2226,7 @@
       "investigative_direction": "Check TPUSA donor disclosures and press coverage for Friess family giving to Turning Point.",
       "transcript_snippet": "Foster Friess funeral who was a big- time donor to Turning Point USA still is I believe",
       "mentions_person_refs": [
-        "N-941"
+        "N-939"
       ]
     },
     {
@@ -2233,7 +2245,7 @@
       "transcript_snippet": "where he held that album release party would be where years later Foster Friess would have his funeral.",
       "mentions_person_refs": [
         "N-27",
-        "N-941"
+        "N-939"
       ]
     },
     {
@@ -2274,7 +2286,7 @@
         "N-3",
         "N-11",
         "N-14",
-        "N-190"
+        "N-188"
       ]
     },
     {
@@ -2294,7 +2306,7 @@
       "investigative_direction": "Identify the casket-arrival footage and confirm who was holding the camera; check Sheridan's own account.",
       "transcript_snippet": "she's the one who's holding the camera when Charlie's casket is being escorted off of Air Force 2.",
       "mentions_person_refs": [
-        "N-190",
+        "N-188",
         "N-1"
       ]
     },
@@ -2313,7 +2325,7 @@
       "investigative_direction": "Check Sheridan's TPUSA title and hire date in TPUSA staff pages and filings.",
       "transcript_snippet": "She's like the chief money person essentially at Turning Point USA.",
       "mentions_person_refs": [
-        "N-190"
+        "N-188"
       ]
     },
     {
@@ -2336,7 +2348,7 @@
         "N-3",
         "N-11",
         "N-14",
-        "N-190"
+        "N-188"
       ]
     },
     {
@@ -2377,7 +2389,7 @@
       "transcript_snippet": "And I thought, I I got a plan for you, son. He said, \"Dad, that's not Charlie's plan.\"",
       "mentions_person_refs": [
         "N-17",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2385,7 +2397,7 @@
       "@id": "C-13950",
       "ref": "C-13950",
       "label": "Pastor McCoy Names His Sons' TPUSA Roles in the Sermon",
-      "claim": "In the sermon clip, Rob McCoy says his son Justin is the chief CFO and his son Mikey is the chief of staff, and calls Mikey 24 years old.",
+      "claim": "In the sermon clip, Rob McCoy says he is looking at his son who is 24 years old, that Justin is the chief CFO, and that Mikey is the chief of staff.",
       "anchored_artifacts": [
         "A-3287.1"
       ],
@@ -2400,8 +2412,8 @@
       "transcript_snippet": "Justin's the chief CFO, chief financial officer, and Mikey's the chief of staff.",
       "mentions_person_refs": [
         "N-17",
-        "N-183",
-        "N-194"
+        "N-181",
+        "N-192"
       ]
     },
     {
@@ -2425,7 +2437,7 @@
       "transcript_snippet": "the minute Charlie was shot, he called me, says, \"Dad, Charlie's been shot in the neck. Please call every pastor and pray.",
       "mentions_person_refs": [
         "N-17",
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -2449,7 +2461,7 @@
       "transcript_snippet": "But the bigger thing is that he says Mikey had blood all over him. Except Mikey did not have blood anywhere near him.",
       "mentions_person_refs": [
         "N-17",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2469,7 +2481,7 @@
       "investigative_direction": "Map Mikey McCoy's position from stage and crowd footage and the UVU site plan.",
       "transcript_snippet": "Because Mikey was behind the tent when Charlie got shot",
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -2493,7 +2505,7 @@
       "transcript_snippet": "But he stops himself. He says, \"I was watching.\" Watching what exactly. What were you watching?",
       "mentions_person_refs": [
         "N-17",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2519,7 +2531,7 @@
         "C-1461"
       ],
       "mentions_person_refs": [
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2542,7 +2554,7 @@
       "investigative_direction": "Locate the camera angle showing both positions and confirm the elapsed time between the two sightings.",
       "transcript_snippet": "The next time that you're going to see Mikey McCoy, as we just showed you, is in just under two and a half seconds on the other side of the tent. He's on a phone call.",
       "mentions_person_refs": [
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2565,7 +2577,7 @@
       "investigative_direction": "Request the host's angle folder and verify the claim against independent footage compilations.",
       "transcript_snippet": "maybe we missed it because that seems that seems automatic, right? 0834. That seems pretty quick. And no, no, he doesn't do that.",
       "mentions_person_refs": [
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2590,7 +2602,7 @@
         "C-1462"
       ],
       "mentions_person_refs": [
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2610,7 +2622,7 @@
       "investigative_direction": "Search McCoy's and TPUSA's channels for any statement on the call; ask them directly.",
       "transcript_snippet": "I would have issued a statement um to dispel any rumors, but they have not.",
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-14"
       ]
     },
@@ -2675,7 +2687,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -2702,7 +2714,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -2725,7 +2737,7 @@
       "transcript_snippet": "because obviously I recorded the phone call.",
       "mentions_person_refs": [
         "N-3",
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -2748,7 +2760,7 @@
       "investigative_direction": "Compare with Erika Kirk's and the FBI's statements about who took custody of the camera footage.",
       "transcript_snippet": "he told me that a he had spoken only to uh Erika and the feds that he had regarding the footage.",
       "mentions_person_refs": [
-        "N-184",
+        "N-182",
         "N-2"
       ]
     },
@@ -2772,7 +2784,7 @@
       "investigative_direction": "Ask the camera man and Erika Kirk's office whether the footage was withheld for that reason.",
       "transcript_snippet": "he had secured that foot footage because he wanted to prevent Erika as I told you from having to relive that moment",
       "mentions_person_refs": [
-        "N-184",
+        "N-182",
         "N-2"
       ]
     },
@@ -2798,7 +2810,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -2821,7 +2833,7 @@
       "investigative_direction": "Ask TPUSA's counsel and the camera man whether lawyers advised on release.",
       "transcript_snippet": "He then told me that he needed to speak with Turning Point lawyers first to see about releasing the footage.",
       "mentions_person_refs": [
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -2844,7 +2856,7 @@
       "investigative_direction": "Check the camera man's contract with TPUSA on footage ownership and who he coordinated with.",
       "transcript_snippet": "He then said, \"Okay, yeah, I do own the footage. I just wanted, you know, just coordinate, check, whatever.\"",
       "mentions_person_refs": [
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -2867,7 +2879,7 @@
       "investigative_direction": "Play the recording and ask the camera man to explain the file-size reason.",
       "transcript_snippet": "He said, \"I don't know how to send the footage.\" Like the file was too large.",
       "mentions_person_refs": [
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -2890,7 +2902,7 @@
       "investigative_direction": "Play the recording and confirm the exact wording.",
       "transcript_snippet": "I don't want to just send the footage over the internet uh that's behind Charlie's head because I'm worried that Google might hack me.",
       "mentions_person_refs": [
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -2916,7 +2928,7 @@
         "C-9302"
       ],
       "mentions_person_refs": [
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -2942,7 +2954,7 @@
         "C-9302"
       ],
       "mentions_person_refs": [
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -2964,7 +2976,7 @@
       "investigative_direction": "Ask TPUSA social staff whether a live-clip desk operated from Arizona on 2025-09-10.",
       "transcript_snippet": "wanted people to live cut the clips so that they could be the first people to get it on the internet.",
       "mentions_person_refs": [
-        "N-184",
+        "N-182",
         "N-1"
       ]
     },
@@ -2993,7 +3005,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-11",
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -3016,8 +3028,8 @@
       "investigative_direction": "Cross-check both men's positions across angles of the tent area.",
       "transcript_snippet": "So, he's next to and he is in front of Mikey McCoy when Charlie gets shot.",
       "mentions_person_refs": [
-        "N-184",
-        "N-194",
+        "N-182",
+        "N-192",
         "N-1"
       ]
     },
@@ -3040,7 +3052,7 @@
       "investigative_direction": "Review the rear-camera and selfie footage for his path and distance.",
       "transcript_snippet": "he saw in like a split second sees Charlie bleeding and runs and doesn't run very far. He just runs a couple of yards away.",
       "mentions_person_refs": [
-        "N-184",
+        "N-182",
         "N-1"
       ]
     },
@@ -3063,7 +3075,7 @@
       "investigative_direction": "Locate the spot on the UVU site plan and compare with the selfie background.",
       "transcript_snippet": "chose to run just a few yards away up to a grassy knoll to take out his phone.",
       "mentions_person_refs": [
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -3085,7 +3097,7 @@
       "investigative_direction": "Compare the selfie timestamp with the first public or medical declarations of death.",
       "transcript_snippet": "That's the first time it was announced actually that Charlie Kirk was dead.",
       "mentions_person_refs": [
-        "N-184",
+        "N-182",
         "N-1"
       ]
     },
@@ -3109,7 +3121,7 @@
       "investigative_direction": "Time the selfie file's end against footage of the camera takedown.",
       "transcript_snippet": "A minute after this ends is when he goes and gets the cameras.",
       "mentions_person_refs": [
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -3117,7 +3129,7 @@
       "@id": "C-13981",
       "ref": "C-13981",
       "label": "Host Says Pastor McCoy's Speech Claimed Private Words from Charlie",
-      "claim": "The host says that, in a speech she attributes to Pastor McCoy, Charlie had told him things such as wanting her to lead the next movement and calling himself America's pastor, and she answers that she is sure he did.",
+      "claim": "The host, apparently mocking a speech she attributes to Pastor McCoy, says Charlie \"wanted me to lead the next movement\" and said \"I'm America's pastor,\" then adds sarcastically \"I'm sure he did. I'm sure he called you America's pastor.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10218"
@@ -3277,7 +3289,7 @@
       "investigative_direction": "Ask McCoy and TPUSA whether they hold Kirk's phone data and will confirm the thread.",
       "transcript_snippet": "Mikey McCoy has access to all of Charlie Kirk's messages. They can tell you that these ones are real.",
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -3591,8 +3603,7 @@
       "investigative_direction": "Review stage-side footage of the crowd, Mikey McCoy and Frank Turek in the seconds after the shot.",
       "transcript_snippet": "How was Mikey McCoy confident enough to stay standing and walking? Nobody knows.",
       "mentions_person_refs": [
-        "N-194",
-        "N-7"
+        "N-192"
       ]
     }
   ],

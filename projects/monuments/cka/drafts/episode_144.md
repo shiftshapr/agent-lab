@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: adca755f11f97530ce6adde89de991d04818ffab651baee8be2f4e7f2c5d59fc
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-758, N-11070, N-11073
+  - Tip-minted Nodes (supplement_2026-10): N-756, N-11070, N-11073
   - Claim Range (supplement_2026-10): C-6091–C-6170
-  - Reused Nodes Appearing: N-10810, N-10812, N-10813, N-3, N-4, N-27, N-30, N-31, N-40, N-54, N-97, N-102, N-194, N-10003, N-10043, N-10051, N-10100, N-10110, N-10162, N-10250, N-10337, N-10340, N-10346, N-10381, N-10386, N-10456, N-10774, N-757, N-11072, N-11071
+  - Reused Nodes Appearing: N-10810, N-10812, N-10813, N-3, N-4, N-27, N-30, N-31, N-40, N-54, N-97, N-101, N-192, N-10003, N-10043, N-10051, N-10100, N-10110, N-10162, N-10250, N-10337, N-10340, N-10346, N-10381, N-10386, N-10456, N-10774, N-755, N-11072, N-11071
  - New Nodes Introduced: N-10810, N-10811, N-10812, N-10813
- - Hole-minted Nodes (wave3): N-586
- - Reused Nodes Appearing: N-11, N-18, N-575
+ - Hole-minted Nodes (wave3): N-584
+ - Reused Nodes Appearing: N-11, N-18, N-573
  - (see registers)
 
 # Episode 144 Analysis
@@ -151,7 +151,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:30–00:28:00
 Confidence Level: High
 
-*Related: C-3321, N-162*
+*Related: C-3321, N-161*
 
 **A-2306.2** Audio: Andrew Wilson defending Candace on the Hitler-clip interpretation, stating she was making a comparison to nationalism
 
@@ -160,7 +160,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:00–00:35:40
 Confidence Level: High
 
-*Related: C-3322, N-162, N-18*
+*Related: C-3322, N-161, N-18*
 
 **A-2306.3** Audio: Blake Neff claiming Candace and Charlie Kirk were not friends after 2018/2019
 
@@ -169,7 +169,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:40–00:38:50
 Confidence Level: High
 
-*Related: C-3323, N-162*
+*Related: C-3323, N-161*
 
 **A-2306.4** Audio: Andrew Kolvet recounting Candace saying she would "burn down that organization" if the wrong people took over TPUSA
 
@@ -306,7 +306,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-586** Mark Bricker
+**N-584** Mark Bricker
 
 First named by the host at 00:18:29 in episode 144.
 
@@ -480,7 +480,7 @@ Named in the burn-down exchange and the host's rejection of a Shapiro takeover t
 
 ---
 
-**N-102** Michael Knowles
+**N-101** Michael Knowles
 
 Whom the host says she asked to sub for her at the cancelled event.
 
@@ -488,7 +488,7 @@ Whom the host says she asked to sub for her at the cancelled event.
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Co-host of the Kolvet/Neff show; says he never met the host.
 
@@ -496,7 +496,7 @@ Co-host of the Kolvet/Neff show; says he never met the host.
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Named by the host as the person Kolvet said had Netanyahu's letter on Charlie's laptop.
 
@@ -504,7 +504,7 @@ Named by the host as the person Kolvet said had Netanyahu's letter on Charlie's 
 
 ---
 
-**N-207** Ana Kasparian
+**N-205** Ana Kasparian
 
 Interviewer who asked the host about the SD card.
 
@@ -512,7 +512,7 @@ Interviewer who asked the host about the SD card.
 
 ---
 
-**N-265** Terrell Farnsworth
+**N-263** Terrell Farnsworth
 
 AV contractor whose handling of the camera and SD card is the episode's main thread.
 
@@ -520,7 +520,7 @@ AV contractor whose handling of the camera and SD card is the episode's main thr
 
 ---
 
-**N-274** Dan Flood
+**N-272** Dan Flood
 
 Recipient of Charlie's night-before text messages, per the host.
 
@@ -528,7 +528,7 @@ Recipient of Charlie's night-before text messages, per the host.
 
 ---
 
-**N-575** David Hull
+**N-573** David Hull
 
 Lead investigator whose preliminary hearing testimony the host cites.
 
@@ -648,7 +648,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-757** Allan Robertson
+**N-755** Allan Robertson
 
 First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terrell Farnsworth to get the footage.
 
@@ -656,7 +656,7 @@ First named by the host at 00:09:47 in episode 144. Person the host says was vis
 
 ---
 
-**N-758** Andrea Birkhart
+**N-756** Andrea Birkhart
 
 First named by a speaker on the Kolvet/Neff show at 00:29:09 in episode 144. Described as an apolitical person asked whether a defense would present exculpatory evidence at a preliminary hearing; spelled Birkhart in the transcript.
 
@@ -709,7 +709,7 @@ Claim Timestamp: 00:02:00–00:04:10
 Claim: The host says the episode footage shows Terrell Farnsworth inserting an SD card into his laptop and working on it within approximately 10 minutes of Charlie Kirk being shot.
 
 Anchored Artifacts: A-2301.1, A-2301.2
-Mentions: N-265, N-1, N-575
+Mentions: N-263, N-1, N-573
 
 Related Nodes: N-10810, N-10812
 
@@ -724,7 +724,7 @@ Claim Timestamp: 00:02:00–00:04:10
 Claim: The host says the episode footage shows Terrell Farnsworth displaying content on his laptop screen to Philip Goldsbury approximately 10 minutes after Charlie Kirk was hit.
 
 Anchored Artifacts: A-2301.2
-Mentions: N-265, N-1
+Mentions: N-263, N-1
 
 Related Nodes: N-10812
 
@@ -739,7 +739,7 @@ Claim Timestamp: 00:04:20–00:04:50
 Claim: In a clip the host plays, Ana Kasparian says, based on David Hull's preliminary-hearing testimony, that Terrell Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.
 
 Anchored Artifacts: A-2302.1, A-2304.1
-Mentions: N-265, N-207, N-575
+Mentions: N-263, N-205, N-573
 
 Related Nodes: N-10810
 
@@ -754,7 +754,7 @@ Claim Timestamp: 00:18:30–00:19:30
 Claim: Lead investigator David Hull testified at the preliminary hearing that he did not receive the physical SD cards taken from the scene.
 
 Anchored Artifacts: A-2304.1
-Mentions: N-575
+Mentions: N-573
 
 Related Nodes: N-10810
 
@@ -769,7 +769,7 @@ Claim Timestamp: 00:18:30–00:19:30
 Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office – not the court – created the 20-minute sizzle reel shown in court.
 
 Anchored Artifacts: A-2304.2
-Mentions: N-586
+Mentions: N-584
 
 Related Nodes: N-10810, N-10811
 
@@ -812,7 +812,7 @@ Claim Timestamp: 00:19:30–00:20:30
 Claim: The host asserts that the entity which decreased the aspect ratio was the prosecution (Utah County Attorney's Office), the FBI, or another party – but not the court itself.
 
 Anchored Artifacts: A-2304.2, A-2305.1
-Mentions: N-586
+Mentions: N-584
 
 Related Nodes: N-10811
 
@@ -827,7 +827,7 @@ Claim Timestamp: 00:25:30–00:28:00
 Claim: On the Kolvet/Neff podcast, Andrew Kolvet stated that Candace conceded the debate early and repeatedly and predicted the loss would "age well" for him.
 
 Anchored Artifacts: A-2306.1
-Mentions: N-162, N-14
+Mentions: N-161, N-14
 
 Related Nodes:
 
@@ -842,7 +842,7 @@ Claim Timestamp: 00:33:00–00:35:40
 Claim: On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the clip he concluded Candace was making a nationalism comparison rather than apologizing for Hitler, and pushed back on Blake Neff's framing.
 
 Anchored Artifacts: A-2306.2
-Mentions: N-18, N-162
+Mentions: N-18, N-161
 
 Related Nodes:
 
@@ -872,7 +872,7 @@ Claim Timestamp: 00:51:00–00:54:00
 Claim: Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Ackman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.
 
 Anchored Artifacts: A-2308.1, A-2308.2
-Mentions: N-14, N-1, N-36, N-274, N-37
+Mentions: N-14, N-1, N-36, N-272, N-37
 
 Related Nodes: N-10813
 
@@ -921,7 +921,7 @@ Claim: The host says she debated Andrew Wilson last Friday and that Andrew Kolve
 Transcript Snippet: He brought on Andrew Wilson, who I debated last Friday, onto their Beus and Butudad platform.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-14, N-162
+Mentions: N-3, N-18, N-14, N-161
 Investigative Direction: Confirm the debate date and the Kolvet/Neff episode air date from the platforms' upload records.
 
 ---
@@ -949,7 +949,7 @@ Claim: The host says Andrew Kolvet told the audience that Terrell Farnsworth rem
 Transcript Snippet: we were told by Andrew Kolvet that he was worried about people stealing hats.
 
 Anchored Artifacts: 
-Mentions: N-14, N-265, N-3
+Mentions: N-14, N-263, N-3
 Related Nodes: N-10346
 Supports: C-3294
 Investigative Direction: Obtain Kolvet's original on-air statement about hats and compare it with Farnsworth's own explanation to the host.
@@ -965,7 +965,7 @@ Claim: The host says she joined Ana Kasparian's program for an interview the day
 Transcript Snippet: yesterday I joined Ana Kasparian on her program uh for an interview
 
 Anchored Artifacts: A-2302.1
-Mentions: N-3, N-207
+Mentions: N-3, N-205
 Related Nodes: N-10810
 Investigative Direction: Locate the Kasparian interview upload and confirm its date and the question asked.
 
@@ -980,7 +980,7 @@ Claim: The host says the Utah code defines tampering with evidence as altering, 
 Transcript Snippet: altering, destroying, concealing, or removing a thing or item with the purpose of impairing its veracity or availability of the thing or item in the proceeding or investigation.
 
 Anchored Artifacts: 
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: N-10810
 Investigative Direction: Check the quoted wording against the current Utah evidence-tampering statute and its felony grading.
 
@@ -1010,7 +1010,7 @@ Claim: The host says it is not in dispute that Terrell Farnsworth removed a phys
 Transcript Snippet: What is not in dispute is that Terrell did in fact remove a physical object from the crime scene.
 
 Anchored Artifacts: 
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: N-10100
 Investigative Direction: Confirm against the host's earlier footage and any statement by Farnsworth or investigators.
 
@@ -1025,7 +1025,7 @@ Claim: The host says the footage Terrell Farnsworth presented to her nine days a
 Transcript Snippet: What we can say for certain is that he had zoomed in by the time he presented it to me nine nine days later.
 
 Anchored Artifacts: 
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: N-10810
 Supports: C-3293
 Investigative Direction: Obtain the original back-camera file with metadata and compare it with the version the host received.
@@ -1041,7 +1041,7 @@ Claim: The host says David Hull testified that the lead investigators arrived on
 Transcript Snippet: who were on the scene, who arrived on the scene around 1:30, I believe he said.
 
 Anchored Artifacts: A-2304.1
-Mentions: N-575, N-3
+Mentions: N-573, N-3
 Related Nodes: N-10810
 Investigative Direction: Check the preliminary hearing transcript for Hull's stated arrival time.
 
@@ -1056,7 +1056,7 @@ Claim: The host says Terrell Farnsworth declared in a selfie video that Charlie 
 Transcript Snippet: he declared, you'll recall in a selfie video, that Charlie was dead.
 
 Anchored Artifacts: 
-Mentions: N-265, N-1, N-3
+Mentions: N-263, N-1, N-3
 Related Nodes: N-10346
 Supports: C-4653
 Investigative Direction: Review the selfie video and its metadata for the time and wording of the declaration.
@@ -1072,7 +1072,7 @@ Claim: The host says metadata on Terrell Farnsworth's self-recorded video shows 
 Transcript Snippet: Terl was filming himself until just after 12:26. So Charlie gets hit at 12 23 and Terl is filming himself until 12:26 and 16 milliseconds.
 
 Anchored Artifacts: A-2797.1
-Mentions: N-265, N-1, N-3
+Mentions: N-263, N-1, N-3
 Related Nodes: N-11070
 Investigative Direction: Obtain the original file Farnsworth sent the host and verify embedded creation and end times.
 
@@ -1087,7 +1087,7 @@ Claim: The host says it was almost precisely 12:28 when Terrell Farnsworth began
 Transcript Snippet: It's around almost precisely 12:28 that he begins taking the camera down.
 
 Anchored Artifacts: A-2797.1
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: N-11070
 Investigative Direction: Frame-date the footage of the camera removal against the corroborated shooting time.
 
@@ -1102,7 +1102,7 @@ Claim: The host says it is hardly possible that law enforcement officers on the 
 Transcript Snippet: it's hardly possible that law enforcement officers on the scene told him to secure the footage
 
 Anchored Artifacts: A-2797.1
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: N-11070, N-10162
 Contradicts: C-1366
 Investigative Direction: Ask investigators whether any officer instructed Farnsworth, and obtain body-camera logs from the first minutes.
@@ -1118,7 +1118,7 @@ Claim: The host says Allan Robertson can be ruled out as the one who told Terrel
 Transcript Snippet: Allan Robertson, we determined, was just visiting from Utah State University. He was undercover because he was there to check out the protesters ahead of the event.
 
 Anchored Artifacts: 
-Mentions: N-757, N-265, N-3
+Mentions: N-755, N-263, N-3
 Related Nodes: N-10774
 Supports: C-3199
 Investigative Direction: Confirm Robertson's role and location from USU police records and the host's earlier reporting.
@@ -1134,7 +1134,7 @@ Claim: The host says she was told, allegedly, that Terrell Farnsworth was told t
 Transcript Snippet: And I was told, and I will say allegedly here, that actually Terrell was told to do the exact opposite.
 
 Anchored Artifacts: 
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: N-10162
 Contradicts: C-4611
 Investigative Direction: Identify the host's source and any witness who gave Farnsworth that instruction.
@@ -1150,7 +1150,7 @@ Claim: The host says Terrell Farnsworth never claimed police told him to take th
 Transcript Snippet: this narrative uh of the police told him to do that. Terrell himself never made that claim.
 
 Anchored Artifacts: 
-Mentions: N-265, N-11, N-3
+Mentions: N-263, N-11, N-3
 Related Nodes: N-10162
 Supports: C-4606
 Investigative Direction: Compare Bowyer's public statements with Farnsworth's account to the host.
@@ -1166,7 +1166,7 @@ Claim: The host says the only person Terrell Farnsworth mentioned speaking to wa
 Transcript Snippet: I'm just asserting that factually the only person that he mentioned to me that he spoke to was Erika.
 
 Anchored Artifacts: 
-Mentions: N-265, N-2, N-3
+Mentions: N-263, N-2, N-3
 Related Nodes: N-10346
 Supports: C-4606
 Investigative Direction: Ask Farnsworth and Erika Kirk about the timing and content of that conversation.
@@ -1182,7 +1182,7 @@ Claim: The host says her understanding was that Terrell Farnsworth acted on his 
 Transcript Snippet: he did not want Erika to have to see Charlie die in 4K.
 
 Anchored Artifacts: 
-Mentions: N-265, N-2, N-1, N-3
+Mentions: N-263, N-2, N-1, N-3
 Related Nodes: N-10346
 Investigative Direction: Obtain Farnsworth's own statement of motive and compare it with the police-instruction and hat explanations.
 
@@ -1197,7 +1197,7 @@ Claim: The host says Tyler Bowyer said police told Terrell, Terrell said he acte
 Transcript Snippet: You had Tyler saying the police said it. You had Terrell saying that he did it out of his own valition to protect Erika.
 
 Anchored Artifacts: 
-Mentions: N-11, N-265, N-2, N-14, N-3
+Mentions: N-11, N-263, N-2, N-14, N-3
 Related Nodes: N-10162, N-10346
 Investigative Direction: Collect each explanation with date and venue and ask TPUSA to reconcile them.
 
@@ -1273,7 +1273,7 @@ Claim: The host says David Hull testified that on September 10 Sergeant Mark Bri
 Transcript Snippet: Sergeant Mark Bricker of the SBI was put in charge of gathering all of the surveillance on campus at UVU.
 
 Anchored Artifacts: A-2304.1
-Mentions: N-575, N-586, N-3
+Mentions: N-573, N-584, N-3
 Related Nodes: N-10810, N-10811
 Investigative Direction: Obtain the preliminary hearing transcript for Hull's chain-of-custody testimony on surveillance collection.
 
@@ -1288,7 +1288,7 @@ Claim: Andrew Wilson says on the Kolvet/Neff show that he received hundreds of D
 Transcript Snippet: I got hundreds of DMs, for instance, from people who didn't know that the steakhouse receipt was a complete phony fraud
 
 Anchored Artifacts: A-2799.1
-Mentions: N-18, N-14, N-162
+Mentions: N-18, N-14, N-161
 Related Nodes: N-10381
 Contradicts: C-2004
 Investigative Direction: Establish what evidence Wilson relies on for calling the receipt fraudulent.
@@ -1304,7 +1304,7 @@ Claim: A speaker on the Kolvet/Neff show, apparently Kolvet, says Andrea Birkhar
 Transcript Snippet: If they had exculpatory evidence, whether it's the parents that actually, you know, think he's innocent or they have some steakhouse receipt, would they not present that at the preliminary hearing?
 
 Anchored Artifacts: A-2799.1
-Mentions: N-758, N-14
+Mentions: N-756, N-14
 Related Nodes: N-10381
 Investigative Direction: Ask Birkhart on record and compare with the defense's stated reasons for not presenting evidence at the hearing.
 
@@ -1484,7 +1484,7 @@ Claim: Blake Neff says on the Kolvet/Neff show that he has never met Candace Owe
 Transcript Snippet: I have never met Candace Owens and don't know her.
 
 Anchored Artifacts: A-2306.3
-Mentions: N-162, N-3
+Mentions: N-161, N-3
 Related Nodes: N-10003
 Investigative Direction: Ask Neff and TPUSA for any prior contact; the claim is self-report.
 
@@ -1499,7 +1499,7 @@ Claim: Blake Neff says that in close to three years with Charlie Kirk he met don
 Transcript Snippet: I met donors. I met his family members. I met his team. I met a lot. And I don't know Candace.
 
 Anchored Artifacts: A-2306.3
-Mentions: N-162, N-1, N-3
+Mentions: N-161, N-1, N-3
 Related Nodes: N-10003
 Investigative Direction: Compare Neff's employment dates and travel with Charlie's public schedule.
 
@@ -1514,7 +1514,7 @@ Claim: Blake Neff says he tweeted that her central foundational lie is that she 
 Transcript Snippet: Candace, your central foundational lie is that you and Charlie were friends. You were not friends, right?
 
 Anchored Artifacts: A-2306.3
-Mentions: N-162, N-1, N-3
+Mentions: N-161, N-1, N-3
 Related Nodes: N-10003
 Investigative Direction: Retrieve Neff's tweet, the community note and the item the host posted.
 
@@ -1529,7 +1529,7 @@ Claim: Blake Neff says Charlie Kirk and Candace Owens were friends in 2018 and p
 Transcript Snippet: I think Charlie and Candace were friends back in 2018, part of 2019. That did not end well.
 
 Anchored Artifacts: A-2306.3
-Mentions: N-162, N-1, N-3
+Mentions: N-161, N-1, N-3
 Related Nodes: N-10003
 Investigative Direction: Test against dated messages and appearances after 2019.
 
@@ -1560,7 +1560,7 @@ Claim: The host says the clip Neff refers to is Charlie Kirk discussing their fr
 Transcript Snippet: that clip that he's referring to is Charlie discussing our friendship in November of 2023.
 
 Anchored Artifacts: A-2307.1
-Mentions: N-1, N-162, N-3
+Mentions: N-1, N-161, N-3
 Related Nodes: N-10003
 Supports: C-3323
 Investigative Direction: Date the Charlie Kirk clip from its original broadcast.
@@ -1722,10 +1722,10 @@ Claim Timestamp: 00:47:33
 
 Claim: The host says she called Michael Knowles and asked him to substitute for her at the cancelled TPUSA event.
 
-Transcript Snippet: I then called Michael Nolles and asked him if he would sub for me
+Transcript Snippet: I then called Michael Knowles and asked him if he would sub for me
 
 Anchored Artifacts: 
-Mentions: N-102, N-3
+Mentions: N-101, N-3
 Related Nodes: N-11072
 Investigative Direction: Confirm Knowles spoke at the event in her place.
 
@@ -1769,7 +1769,7 @@ Claim: Andrew Kolvet says he assumed the burn-it-down remark meant if the Jews t
 Transcript Snippet: And I just thought she meant if the Jews take over or something.
 
 Anchored Artifacts: A-2306.4
-Mentions: N-14, N-162, N-97, N-3
+Mentions: N-14, N-161, N-97, N-3
 Related Nodes: N-11073
 Investigative Direction: Ask Kolvet to specify whom he meant and what she said.
 
@@ -1829,7 +1829,7 @@ Claim: The host says Kolvet told her Mikey McCoy had the Netanyahu letter on Cha
 Transcript Snippet: telling me that Mikey McCoy had this letter on Charlie's laptop and you told me basically that Charlie in this letter said to that he was kind of pulling away from the Israel cause.
 
 Anchored Artifacts: A-2308.1
-Mentions: N-194, N-14, N-1, N-36, N-3
+Mentions: N-192, N-14, N-1, N-36, N-3
 Related Nodes: N-10813
 Supports: C-4240, C-4315
 Investigative Direction: Authenticate the September 2025 messages and ask Kolvet and McCoy about the letter.
@@ -1845,7 +1845,7 @@ Claim: The host says Kolvet told her about text messages, plural, to Dan Flood a
 Transcript Snippet: You were the one that told me about the text messages. Notice I'm saying plural text messages to Dan Flood and to yourself the night before that Charlie thought that he was going to be killed.
 
 Anchored Artifacts: A-2308.1
-Mentions: N-14, N-274, N-1, N-3
+Mentions: N-14, N-272, N-1, N-3
 Related Nodes: N-10340
 Supports: C-4237
 Investigative Direction: Preserve the Kolvet and Flood message threads from September 9-10, 2025.
@@ -2337,8 +2337,8 @@ Confidence: high
 
 ## VII. Optional Flags
 
-- **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Nolles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
-- **Wave 1 reconciliation:** Terrell Farnsworth is N-265, Andrew Kolvet is N-14, Blake Neff is N-162, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
+- **Name uncertainty:** "Terrell Farnsworth" appears in transcript also as "Terald" and "Terl"; "Philip Goldsbury" appears also as "Goldsberry"; "Andrew Kolvet" appears also as "Kolvet" and "Kolvet"; "Blake Neff" appears as "Nef"; "Allan Robertson" appears also as "Alan Robertson"; "BB Netanyahu" appears as "B.B. Netanyahu"; "Michael Knowles" may also be rendered "Michael Knowles" in prior ledger – requires human verification.
+- **Wave 1 reconciliation:** Terrell Farnsworth is N-263, Andrew Kolvet is N-14, Blake Neff is N-161, Charlie Kirk is N-1 and Erika Kirk is N-2; Philip Goldsbury and David Hull have no CKA person node. The topic ids N-10141.. never denoted these people and claim references were retargeted.
 - **Likely-existing investigation targets flagged:** N-10810 (SD card chain of custody), N-10811 (aspect ratio modification), N-10812 (Terrell handling), N-10813 (foreign/Israeli angle) are thematically continuous with prior episodes; existing N-IDs should be substituted if lower-numbered equivalents exist.
 - **Anonymous source:** A-2303.1 (federal-court employee email) is anonymous; the host explicitly preserves the sender's anonymity. Treat C-3319 as a single-source claim until corroborated.
 - **Transcript ambiguity:** The "Beavis and Butt-Head" podcast name is used by the host as a pejorative descriptor for the Kolvet/Neff show; it is unclear whether this is also the show's actual title or solely a rhetorical label.

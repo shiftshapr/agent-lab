@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-150",
+            "N-149",
             "N-10158"
           ],
           "tags": [],
@@ -85,7 +85,7 @@
             "C-1358"
           ],
           "related_nodes": [
-            "N-146",
+            "N-145",
             "N-10158",
             "N-10159"
           ],
@@ -115,8 +115,8 @@
           ],
           "related_nodes": [
             "N-6",
+            "N-150",
             "N-151",
-            "N-152",
             "N-10160"
           ],
           "tags": [],
@@ -143,7 +143,7 @@
             "C-1361"
           ],
           "related_nodes": [
-            "N-147"
+            "N-146"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -221,7 +221,7 @@
             "C-1364"
           ],
           "related_nodes": [
-            "N-148",
+            "N-147",
             "N-10161"
           ],
           "tags": [],
@@ -248,7 +248,7 @@
             "C-1365"
           ],
           "related_nodes": [
-            "N-149",
+            "N-148",
             "N-10161"
           ],
           "tags": [],
@@ -558,8 +558,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-146",
-      "ref": "N-146",
+      "@id": "N-145",
+      "ref": "N-145",
       "name": "Kyle Undercover",
       "type": "person",
       "description": "Investigator whose 2023 X thread on ADL property records is cited (A-1211.1) as the prior source for ADL/FBI Connecticut office sharing.",
@@ -582,8 +582,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-147",
-      "ref": "N-147",
+      "@id": "N-146",
+      "ref": "N-146",
       "name": "Olivia Robertson Cobb Bishop",
       "type": "person",
       "description": "Eyewitness interviewed in news segment (A-1213.1); described by host as a records specialist at the Orem Police Department (host assertion only – no displayed source for employment claim).",
@@ -601,8 +601,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-148",
-      "ref": "N-148",
+      "@id": "N-147",
+      "ref": "N-147",
       "name": "Marjorie Taylor Greene",
       "type": "person",
       "description": "U.S. Representative; subject of artifact A-1216.1 (public statement denying suicidal ideation and warning of potential foreign-state action).",
@@ -623,8 +623,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-149",
-      "ref": "N-149",
+      "@id": "N-148",
+      "ref": "N-148",
       "name": "Theo Von",
       "type": "person",
       "description": "Podcaster; subject of artifact A-1217.1 (public statement denying suicidal intent, addressed to \"Israel\").",
@@ -645,8 +645,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-150",
-      "ref": "N-150",
+      "@id": "N-149",
+      "ref": "N-149",
       "name": "James Comey",
       "type": "person",
       "description": "Former FBI Director referenced in Patel X post (A-1209.1) as having \"written love letters to the ADL and embedded FBI agents with them.\"",
@@ -665,8 +665,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-151",
-      "ref": "N-151",
+      "@id": "N-150",
+      "ref": "N-150",
       "name": "Skordas",
       "type": "person",
       "description": "Utah state prosecutor named in Elizabeth Lane's Redacted podcast account (A-1212.1) as the official asserting exclusive authority to identify defense counsel for Tyler Robinson.",
@@ -687,8 +687,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-152",
-      "ref": "N-152",
+      "@id": "N-151",
+      "ref": "N-151",
       "name": "Clayton",
       "type": "person",
       "description": "Host of Redacted podcast; introduces Elizabeth Lane segment (A-1212.1).",
@@ -722,7 +722,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-151",
+        "N-150",
         "N-10160"
       ]
     },
@@ -750,8 +750,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-69",
-        "N-146",
-        "N-150"
+        "N-145",
+        "N-149"
       ]
     },
     {
@@ -775,7 +775,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-146"
+        "N-145"
       ]
     },
     {
@@ -799,7 +799,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-6",
-        "N-151"
+        "N-150"
       ]
     },
     {
@@ -829,9 +829,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-146",
         "N-147",
-        "N-148",
-        "N-149"
+        "N-148"
       ]
     },
     {
@@ -1081,8 +1081,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-119",
-      "ref": "N-119",
+      "@id": "N-118",
+      "ref": "N-118",
       "name": "Elon Musk",
       "type": "person",
       "description": "The host says he tweeted about Kirk and TPUSA being on the ADL list.",
@@ -1098,9 +1098,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-133",
-      "ref": "N-133",
-      "name": "Shainer Broderick",
+      "@id": "N-132",
+      "ref": "N-132",
+      "name": "Shaner Broderick",
       "type": "person",
       "description": "Person whose Instagram the host says featured Gauer.",
       "related_artifacts": [],
@@ -1115,8 +1115,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-134",
-      "ref": "N-134",
+      "@id": "N-133",
+      "ref": "N-133",
       "name": "Gernot Omer",
       "type": "person",
       "description": "Likely the witness the host calls Gauer, an Austrian software engineer (uncertain match).",
@@ -1132,8 +1132,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-314",
-      "ref": "N-314",
+      "@id": "N-312",
+      "ref": "N-312",
       "name": "Emmanuel Beerer",
       "type": "person",
       "description": "Likely the witness the host calls Emmanuel who works at Domo (uncertain match).",
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-131",
-      "ref": "N-131",
+      "@id": "N-130",
+      "ref": "N-130",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Host says he discussed arbitration courts on her show.",
@@ -1166,8 +1166,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-715",
-      "ref": "N-715",
+      "@id": "N-713",
+      "ref": "N-713",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "JFK; the host compares his assassination to the Kirk case.",
@@ -1585,8 +1585,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-800",
-      "ref": "N-800",
+      "@id": "N-798",
+      "ref": "N-798",
       "name": "Leo Frank",
       "type": "person",
       "description": "First named by the host at 00:03:10 in episode 14. Atlanta factory owner convicted in 1913 whom the host says the ADL was formed to defend.",
@@ -1605,8 +1605,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-801",
-      "ref": "N-801",
+      "@id": "N-799",
+      "ref": "N-799",
       "name": "Mary Phagan",
       "type": "person",
       "description": "First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical record). Victim the host says was a 13-year-old pencil factory worker.",
@@ -1624,8 +1624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-802",
-      "ref": "N-802",
+      "@id": "N-800",
+      "ref": "N-800",
       "name": "Scott Robbins",
       "type": "person",
       "description": "First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip whom the host says ran for Utah governor in 2024.",
@@ -1641,8 +1641,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-803",
-      "ref": "N-803",
+      "@id": "N-801",
+      "ref": "N-801",
       "name": "Greta Thunberg",
       "type": "person",
       "description": "First named by the host at 00:46:04 in episode 14, via a viewer comment. Activist the host says Israel's influence made out to be Hamas.",
@@ -1779,7 +1779,7 @@
       "investigative_direction": "Verify whether subsequent FBI conduct (training, intelligence sharing, embedded personnel) actually ceased; identify the operational scope of the prior FBI-ADL relationship.",
       "mentions_person_refs": [
         "N-69",
-        "N-150"
+        "N-149"
       ]
     },
     {
@@ -1801,7 +1801,7 @@
       "@id": "C-1356",
       "ref": "C-1356",
       "label": "Host Says Connecticut FBI Field Office Was Deployed to Investigate Kirk Assassination",
-      "claim": "The host says she received a tip, which she says she has corroborated, that the FBI's Connecticut field office – rather than a closer regional bureau – was dispatched to UVU to assist in the Charlie Kirk assassination investigation.",
+      "claim": "The host says she received a tip, which she says she has corroborated, that out of all the FBI bureaus the FBI sent the Connecticut field office to UVU to help investigate the Charlie Kirk assassination.",
       "anchored_artifacts": [
         "A-1218.1"
       ],
@@ -1831,7 +1831,7 @@
       "claim_timestamp": "00:11:32–00:13:03",
       "investigative_direction": "Verify directly via Connecticut property records and FBI facility listings; obtain original Kyle Undercover thread and supporting documentation.",
       "mentions_person_refs": [
-        "N-146"
+        "N-145"
       ]
     },
     {
@@ -1848,7 +1848,7 @@
       "claim_timestamp": "00:11:32–00:13:03",
       "investigative_direction": "Verify statistics against original property records and confirm category definitions (banking institution, law firm, Jewish institution).",
       "mentions_person_refs": [
-        "N-146"
+        "N-145"
       ]
     },
     {
@@ -1856,7 +1856,7 @@
       "@id": "C-1359",
       "ref": "C-1359",
       "label": "Elizabeth Lane Attempted Pro Bono Defense Representation for Tyler Robinson",
-      "claim": "Investigative journalist Elizabeth Lane approached multiple Utah law firms seeking pro bono counsel for Tyler Robinson and reported willingness from at least one reputable firm prior to certification-barrier issues.",
+      "claim": "In a clip of the Redacted podcast the host plays, Elizabeth Lane says she approached firms in Utah to get Tyler Robinson a pro bono lawyer, that one of the most reputable firms said it would represent him, and that they then found its lawyers lacked death-penalty certification.",
       "anchored_artifacts": [
         "A-1212.1"
       ],
@@ -1876,7 +1876,7 @@
       "@id": "C-1360",
       "ref": "C-1360",
       "label": "Elizabeth Lane Says Utah State Prosecutor Asserted Authority Over Robinson Defense Selection",
-      "claim": "In a clip of the Redacted podcast the host plays, Elizabeth Lane says that Utah state prosecutor Skordas asserted that he, not the defense, controls identification of defense counsel for Tyler Robinson.",
+      "claim": "In a clip of the Redacted podcast the host plays, Elizabeth Lane says a large Utah law firm she called told her rudely that only Skordas is allowed to find representation for Tyler Robinson, and that Skordas is running as a state prosecutor.",
       "anchored_artifacts": [
         "A-1212.1"
       ],
@@ -1888,7 +1888,7 @@
       "investigative_direction": "Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records.",
       "mentions_person_refs": [
         "N-6",
-        "N-151",
+        "N-150",
         "N-40"
       ]
     },
@@ -1897,7 +1897,7 @@
       "@id": "C-1361",
       "ref": "C-1361",
       "label": "Olivia Bishop Eyewitness Account of Limping Shooter",
-      "claim": "Olivia Robertson cub Bishop gave public eyewitness testimony describing a close encounter with the alleged shooter in which she observed him limping, wearing a long-sleeve black shirt on a hot day, and exhibiting an expressionless demeanor.",
+      "claim": "In a news clip the host plays, Olivia Robertson Cobb Bishop describes a close encounter with the alleged shooter in which she saw him limping and wearing a long black shirt on a hot day, and says his face was not smiling; the reporter calls his demeanor expressionless.",
       "anchored_artifacts": [
         "A-1213.1"
       ],
@@ -1908,7 +1908,7 @@
       "claim_timestamp": "00:17:21–00:18:53",
       "investigative_direction": "Verify Bishop's sighting against charging-document timelines and UVU surveillance; cross-reference her statements with any forensic timeline evidence.",
       "mentions_person_refs": [
-        "N-147"
+        "N-146"
       ]
     },
     {
@@ -1955,7 +1955,7 @@
       "claim_timestamp": "00:36:30–00:37:30",
       "investigative_direction": "Verify original post and any associated official statements or security reports.",
       "mentions_person_refs": [
-        "N-148"
+        "N-147"
       ]
     },
     {
@@ -1972,7 +1972,7 @@
       "claim_timestamp": "00:46:40–00:47:20",
       "investigative_direction": "Verify original source (clip origin, show, date) and check for any associated public commentary.",
       "mentions_person_refs": [
-        "N-149"
+        "N-148"
       ]
     },
     {
@@ -1980,7 +1980,7 @@
       "@id": "C-3643",
       "ref": "C-3643",
       "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
-      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "claim": "The host says there is new merch on the website and that many people bought the show's CIA merch, adding 'We don't know, but we know.'",
       "anchored_artifacts": [
         "A-2487.1"
       ],
@@ -2123,7 +2123,7 @@
       "investigative_direction": "Compare ADL and B'nai B'rith founding records (1913) with the Frank case history; note the host's characterization is hers alone.",
       "transcript_snippet": "Well, because they put the organization together to defend a pedophile and a murderer. His name is Leo Frank.",
       "mentions_person_refs": [
-        "N-800",
+        "N-798",
         "N-3"
       ]
     },
@@ -2144,8 +2144,8 @@
       "investigative_direction": "Check 1913 Georgia court and newspaper records of the Phagan case.",
       "transcript_snippet": "And Mary Fagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.",
       "mentions_person_refs": [
-        "N-801",
-        "N-800"
+        "N-799",
+        "N-798"
       ]
     },
     {
@@ -2165,8 +2165,7 @@
       "investigative_direction": "Review the 1913 trial record and appeals to the US Supreme Court.",
       "transcript_snippet": "he was so guilty of what happened that despite the fact that he tried to pin it on a poor black janitor.",
       "mentions_person_refs": [
-        "N-800",
-        "N-801"
+        "N-798"
       ]
     },
     {
@@ -2191,7 +2190,7 @@
         "C-7841"
       ],
       "mentions_person_refs": [
-        "N-800",
+        "N-798",
         "N-3"
       ]
     },
@@ -2214,7 +2213,7 @@
       "investigative_direction": "Confirm the book, its author and relationship to the victim.",
       "transcript_snippet": "there's a book called The Murder of Little Mary Fagan, and it is written by a relative of hers.",
       "mentions_person_refs": [
-        "N-801",
+        "N-799",
         "N-3"
       ]
     },
@@ -2319,7 +2318,7 @@
       "investigative_direction": "Find Musk's post and its date relative to Patel's announcement.",
       "transcript_snippet": "I think Elon Musk tweeted about Charlie Kirk and TPUSA being on the list and then it kind of caught fire",
       "mentions_person_refs": [
-        "N-119",
+        "N-118",
         "N-1"
       ]
     },
@@ -2336,7 +2335,7 @@
         "N-10014"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:08:45",
       "investigative_direction": "Obtain FBI-ADL training agreements, course rosters and information-sharing records.",
@@ -2473,7 +2472,7 @@
       "investigative_direction": "Confirm the tip's origin and whether other eyewitnesses reported seeing the limp.",
       "transcript_snippet": "Anyways, the name uh that we had received was it turned out somebody that actually provided the only eyewitness testimony of having seen the shooter up close limping.",
       "mentions_person_refs": [
-        "N-147",
+        "N-146",
         "N-3"
       ]
     },
@@ -2497,7 +2496,7 @@
         "C-7857"
       ],
       "mentions_person_refs": [
-        "N-147",
+        "N-146",
         "N-3"
       ]
     },
@@ -2519,7 +2518,7 @@
       "investigative_direction": "Confirm Bishop's employment with the Orem Police Department through department staffing records.",
       "transcript_snippet": "It turns out that she works for the Oram Police Department. She's a record specialist.",
       "mentions_person_refs": [
-        "N-147",
+        "N-146",
         "N-3"
       ]
     },
@@ -2543,7 +2542,7 @@
       "investigative_direction": "Locate the department's Facebook post and its staffing change roster for August 2025.",
       "transcript_snippet": "in August, you're going to believe this, they kind of lost a lot of people that were working at the department.",
       "mentions_person_refs": [
-        "N-147"
+        "N-146"
       ]
     },
     {
@@ -2571,7 +2570,7 @@
       "@id": "C-7862",
       "ref": "C-7862",
       "label": "Host Says Bishop Met Friends and Her Husband at the Event",
-      "claim": "The host says Bishop said she was meeting up with friends and with her husband at the event, and the host questions how an Orem Police employee could attend mid-day on a Wednesday.",
+      "claim": "The host says Bishop said she was meeting up with friends and that her team learned she met up with her husband, and the host questions how an Orem Police employee could attend mid-day on a Wednesday.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10129",
@@ -2584,7 +2583,7 @@
       "investigative_direction": "Check Bishop's work schedule and leave records for September 10, 2025.",
       "transcript_snippet": "Another thing that we were able to learn is that she met up with her husband.",
       "mentions_person_refs": [
-        "N-147",
+        "N-146",
         "N-3"
       ]
     },
@@ -2606,7 +2605,7 @@
       "investigative_direction": "Obtain the text exchange and any statement Bishop gave to investigators.",
       "transcript_snippet": "She says that was it. She just wanted to speak right there. Give her testimony and that she gave the appropriate information to the appropriate authorities.",
       "mentions_person_refs": [
-        "N-147",
+        "N-146",
         "N-3"
       ]
     },
@@ -2736,15 +2735,15 @@
       "investigative_direction": "Confirm the witness's identity and employment at Domo through LinkedIn and company records.",
       "transcript_snippet": "he works for Domo Incorporated. History is that he is a software engineer, a technic advis technical adviser.",
       "mentions_person_refs": [
-        "N-314"
+        "N-312"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-7870",
       "ref": "C-7870",
-      "label": "Host Says Gauer Is an Austrian Software Engineer Tied to Lyman's Relative and Shainer's Instagram",
-      "claim": "The host says Gauer was with Phil Lyman's nephew or cousin, is a software engineer from Austria, and was featured in Shainer's Instagram.",
+      "label": "Host Says Gauer Is an Austrian Software Engineer Tied to Lyman's Relative and Shaner's Instagram",
+      "claim": "The host says Gauer was with a relative of Phil Lyman's (she says uncle, cousin, nephew), is a software engineer from Austria, and was featured in Shaner's Instagram.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10161"
@@ -2753,11 +2752,11 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:24:01",
-      "investigative_direction": "Match the Gauer name to the previously identified Gernot Omer and review the Shainer Instagram posts.",
+      "investigative_direction": "Match the Gauer name to the previously identified Gernot Omer and review the Shaner Instagram posts.",
       "transcript_snippet": "He we learned was a software engineer from Austria. So, Austria, Germany.",
       "mentions_person_refs": [
-        "N-134",
         "N-133",
+        "N-132",
         "N-61"
       ]
     },
@@ -2780,7 +2779,7 @@
       "investigative_direction": "Check Utah 2024 gubernatorial filings for Scott Robbins.",
       "transcript_snippet": "well, he was also a gubernatorial candidate. He ran for governor of Utah in 2024.",
       "mentions_person_refs": [
-        "N-802"
+        "N-800"
       ]
     },
     {
@@ -2788,7 +2787,7 @@
       "@id": "C-7872",
       "ref": "C-7872",
       "label": "Host Says Nobody Asked the Witnesses Who They Were or If They Were Students",
-      "claim": "The host says USA Today and AP did not ask the witnesses who they were or whether they were college students.",
+      "claim": "The host says she guesses USA Today or AP did not ask the witnesses who they were or whether they were college students.",
       "anchored_artifacts": [
         "A-1215.1"
       ],
@@ -2851,7 +2850,7 @@
       "@id": "C-7875",
       "ref": "C-7875",
       "label": "Host Says JFK Was Infiltrated and Removed for Wrong Ideas",
-      "claim": "The host says she thinks JFK was surrounded and infiltrated by his own people and removed for the wrong ideas, such as every foreign nation registering under FARA, and that the Warren Commission was a farce.",
+      "claim": "The host says she thinks JFK was surrounded and infiltrated by his own people and removed for wrong ideas, perhaps that every foreign nation should register under FARA, and that the Warren Commission was a farce.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10662"
@@ -2863,7 +2862,7 @@
       "investigative_direction": "Compare with documented JFK-era records; note the FARA link is the host's characterization.",
       "transcript_snippet": "I think he was surrounded. I think he was infiltrated and then they got rid of him because of wrong think.",
       "mentions_person_refs": [
-        "N-715",
+        "N-713",
         "N-3"
       ]
     },
@@ -3026,7 +3025,7 @@
       ],
       "mentions_person_refs": [
         "N-6",
-        "N-151"
+        "N-150"
       ]
     },
     {
@@ -3054,7 +3053,7 @@
       "@id": "C-7884",
       "ref": "C-7884",
       "label": "Host Says Arbitration Courts Are Private and Judges Need Not Follow the Law",
-      "claim": "The host says Ian Carroll discussed on her show, in connection with Justin Bieber, that arbitration courts are private courts where the judge does not have to follow the law.",
+      "claim": "The host says Ian Carroll spoke on her show, in connection with Justin Bieber, about courts where judges need not follow the law, and she states as fact that arbitration courts are private courts where the judge does not have to follow the law.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3064,7 +3063,7 @@
       "investigative_direction": "Review the Carroll episode and the arbitration clause discussed.",
       "transcript_snippet": "Arbitration courts, so they get you to sign a contract and you agree.",
       "mentions_person_refs": [
-        "N-131",
+        "N-130",
         "N-3"
       ]
     },
@@ -3080,7 +3079,7 @@
         "N-11011"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:33:54",
       "investigative_direction": "Check for earlier suits by sitting heads of state against foreign journalists.",
@@ -3102,7 +3101,7 @@
         "N-11011"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:34:45",
       "investigative_direction": "Review the court docket for the Macron counsel appearances.",
@@ -3173,7 +3172,7 @@
         "C-1364"
       ],
       "mentions_person_refs": [
-        "N-148",
+        "N-147",
         "N-9"
       ]
     },
@@ -3383,7 +3382,7 @@
       "investigative_direction": "Find the Time cover and the octopus image controversy.",
       "transcript_snippet": "they like put her on the cover of Time and then suddenly they were like she had an octopus in a picture and they basically said she's Hamas",
       "mentions_person_refs": [
-        "N-803"
+        "N-801"
       ]
     },
     {
@@ -3409,7 +3408,6 @@
         "C-1365"
       ],
       "mentions_person_refs": [
-        "N-149",
         "N-3"
       ]
     },
@@ -3525,7 +3523,7 @@
       "@id": "C-7906",
       "ref": "C-7906",
       "label": "Host Says Kirk Saw the Danger Only Too Late",
-      "claim": "The host says she does not think Charlie believed or saw that donor money came from gangsters until it was too late.",
+      "claim": "The host says she can recognize a gangster and does not think Charlie believed or saw that until, she thinks, too late.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11157"
@@ -3591,7 +3589,7 @@
         "N-10270"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:52:35",
       "investigative_direction": "Track costs and filings in the Macron suit.",

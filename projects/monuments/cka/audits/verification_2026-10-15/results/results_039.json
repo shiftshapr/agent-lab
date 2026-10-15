@@ -1,0 +1,771 @@
+[
+ {
+  "claim": "C-1612",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Presented as Hammer's own on-record statement; it is a clip the host plays, and he frames a Muslim mayor as alarming, not merely 'significant'.",
+  "fix": {
+   "claim": "In a clip the host plays, Josh Hammer says that, less than a quarter century after September 11, 2001, New York City is going to have a Muslim mayor who has refused to condemn things such as 'globalize the intifada', referring to Mamdani."
+  }
+ },
+ {
+  "claim": "C-1613",
+  "episode": 26,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "After Hammer clip no host handoff; speaker says 'I've always been against never Trumpers', 'I will not support it' (likely another clip speaker, unverified). Hammer made no call to arms; speaker refers to Zionists seeking war with Iran.",
+  "fix": {
+   "claim": "In a clip the host plays, a speaker asks 'Who are you more afraid of as an American, Muslims or Zionists?', says Zionists, and urges refusing to fight in a war the speaker thinks is being foreshadowed."
+  }
+ },
+ {
+  "claim": "C-1614",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1615",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stated as fact without attribution; host says 'the first post they scheduled was Mikey McCoy's speech... before they put Erika's speech'. Charlie Kirk also referred to (his channel).",
+  "fix": {
+   "claim": "The host says that when scheduled posts resumed on Charlie Kirk's YouTube channel after the memorial event, the first post scheduled was Mikey McCoy's speech (a picture of him and his wife), with Erika Kirk's speech second.",
+   "mentions": [
+    "N-194",
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1616",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim stamped 00:00:00 but intro at 0:00 says nothing of this; box, no first aid and phone posture are discussed 31:27-35:30.",
+  "fix": {
+   "timestamp": "00:31:22"
+  }
+ },
+ {
+  "claim": "C-9513",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9514",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9515",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9516",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9517",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Drops 'That is how I feel' but wording is her own.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9518",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9519",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Susie Wiles (N-132) is not named in the claim; Mentions should list only people named.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9520",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host adds 'it looks that way to me'; claim states it flatly.",
+  "fix": {
+   "claim": "The host says Susie Wiles made it onto the stage to eulogize Charlie Kirk at the memorial and that, as it looks to her, the event was turned into an effective Trump rally."
+  }
+ },
+ {
+  "claim": "C-9521",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9522",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9523",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9524",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9525",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9526",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9527",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9528",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Mr. Tilson = Whitney Tilson, confirmed: JNS/Mediaite report of NYC primary debate.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9529",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9530",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Drops hedge: 'I think there was only Vik Ramoswami was not wearing the Israeli pin.'",
+  "fix": {
+   "claim": "The host says that during the presidential debates most of the candidates wore an Israeli flag pin and that, she thinks, only Vivek Ramaswamy did not."
+  }
+ },
+ {
+  "claim": "C-9531",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9532",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9533",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Speaker in this unmarked stretch could be host or Mark; treated as host.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9534",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9535",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9536",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9537",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9538",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9539",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Trump ('Trump's bombing'); N-5 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-107",
+    "N-225",
+    "N-205",
+    "N-22",
+    "N-5"
+   ]
+  }
+ },
+ {
+  "claim": "C-9540",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Title misspells Shillman as 'Showman'; transcript 'Bob Shillman'.",
+  "fix": {
+   "label": "Host Says Shillman Took $2 Million From Kirk Over Tucker Carlson Stage Appearance"
+  }
+ },
+ {
+  "claim": "C-9541",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Garbled: the host (not the tweet) objects that Cruz tried to 'big time' a 23-year-old.",
+  "fix": {
+   "claim": "The host reads a Ted Cruz tweet saying he does not know 'this angry lady', that Fuentes calls himself a Nazi, and that anyone who explicitly sides with Hitler is an actual Nazi; she objects that Cruz is trying to big-time a 23-year-old."
+  }
+ },
+ {
+  "claim": "C-9542",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9543",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9544",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'how it led to divorce', not whose; 'parents'' is added.",
+  "fix": {
+   "claim": "The host says Brett Cooper told on the Shawn Ryan Show that one of her twin brothers died suddenly of a heart attack, that the surviving twin is in a mental hospital and cared for by her, and that the loss led to divorce."
+  }
+ },
+ {
+  "claim": "C-9545",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9546",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9547",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9548",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9549",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9550",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9551",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'he never stops this move', 'he never once puts this down'; 'ear position' and 'new footage shows' are the claim's gloss.",
+  "fix": {
+   "claim": "The host says that in more footage she just saw, Mikey McCoy never stops 'this move' with his hand, even as he goes left toward a parking lot until out of view, so she says they are lying that he was covering his ears."
+  }
+ },
+ {
+  "claim": "C-9552",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9553",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9554",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9555",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9556",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9557",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9558",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9559",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9560",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9561",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'It's what we were told... Maybe that's true. It sounds like it is true'; claim drops that hedge.",
+  "fix": {
+   "claim": "The host says that, as they were told, the hospital was put on lockdown when Charlie Kirk came in but let Mikey McCoy and the Turning Point staff in ('Maybe that's true'), and that Blake Neff and Frank Turek say they were there when it was announced Kirk had died."
+  }
+ },
+ {
+  "claim": "C-9562",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9563",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9564",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9565",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9566",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host lists five entries (Charlie and Ben, Charlie, Charlie and Jack, Charlie, Charlie); claim lists four. 'Jack Bobic' is Posobiec.",
+  "fix": {
+   "claim": "The host says the channel's list, read bottom to top, shows videos with Charlie and Ben, Charlie, Charlie and Jack Posobiec, Charlie, and Charlie, and then stops until the channel returns with Mikey McCoy and his wife.",
+   "names": [
+    {
+     "wrong": "Jack Bobic",
+     "right": "Jack Posobiec",
+     "source": "https://en.wikipedia.org/wiki/Jack_Posobiec"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-9567",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

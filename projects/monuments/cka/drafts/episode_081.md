@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11295–C-11374
   - New Nodes Introduced: N-10547, N-10550, N-10551, N-10552
-  - Reused Nodes Appearing: N-10548, N-10549, N-11, N-15, N-17, N-46, N-55, N-69, N-167, N-190, N-194, N-221, N-264, N-384, N-557, N-598, N-10056, N-10082, N-10093, N-10148, N-10163, N-10193, N-10195, N-10202, N-10206, N-10253, N-10340, N-10355, N-10403, N-10539, N-10546, N-10554, N-10560, N-10956, N-11114, N-11079
+  - Reused Nodes Appearing: N-10548, N-10549, N-11, N-15, N-17, N-46, N-55, N-69, N-166, N-188, N-192, N-219, N-262, N-382, N-555, N-596, N-10056, N-10082, N-10093, N-10148, N-10163, N-10193, N-10195, N-10202, N-10206, N-10253, N-10340, N-10355, N-10403, N-10539, N-10546, N-10554, N-10560, N-10956, N-11114, N-11079
   - (see registers)
 
 # Episode 81 Analysis
@@ -389,7 +389,7 @@ TPUSA COO; booked the planes and appears in the PR chat.
 
 **N-17** Rob McCoy
 
-Transcribed 'Robin McCoy'; Neff says Mikey called him.
+Transcribed 'Rob McCoy'; Neff says Mikey called him.
 
 *Related: C-11355*
 
@@ -443,7 +443,7 @@ Posted the accusation that Kent degraded Erika; recalled by the host for the boo
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Speaker in the clip about calling his mother after the shooting.
 
@@ -451,7 +451,7 @@ Speaker in the clip about calling his mother after the shooting.
 
 ---
 
-**N-167** Rabbi Pesach Wolicki
+**N-166** Rabbi Pesach Wolicki
 
 Rabbi the host says had a September 5 call with Streiff and Kolvet.
 
@@ -459,7 +459,7 @@ Rabbi the host says had a September 5 call with Streiff and Kolvet.
 
 ---
 
-**N-190** Stacy Sheridan
+**N-188** Stacy Sheridan
 
 Transcribed 'CeCe Sheridan'; named among reported passengers (identification is a doubt).
 
@@ -467,7 +467,7 @@ Transcribed 'CeCe Sheridan'; named among reported passengers (identification is 
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Subject of Blake Neff's clip describing calls after the shot.
 
@@ -475,7 +475,7 @@ Subject of Blake Neff's clip describing calls after the shot.
 
 ---
 
-**N-213** Joe Kent
+**N-211** Joe Kent
 
 Former counterterrorism director whose Carlson interview and alleged leak drive the episode.
 
@@ -483,7 +483,7 @@ Former counterterrorism director whose Carlson interview and alleged leak drive 
 
 ---
 
-**N-221** Eliza McCoy
+**N-219** Eliza McCoy
 
 Transcribed Elizabeth McCoy; named among reported passengers.
 
@@ -491,7 +491,7 @@ Transcribed Elizabeth McCoy; named among reported passengers.
 
 ---
 
-**N-264** Duncan Aviation
+**N-262** Duncan Aviation
 
 FBO the host calls unusual and military-leaning.
 
@@ -499,7 +499,7 @@ FBO the host calls unusual and military-leaning.
 
 ---
 
-**N-272** Joe Rogan
+**N-270** Joe Rogan
 
 Podcast host whose segment on Erika is played.
 
@@ -507,7 +507,7 @@ Podcast host whose segment on Erika is played.
 
 ---
 
-**N-384** Dan Bongino
+**N-382** Dan Bongino
 
 Named in a viewer comment as trying to link the host and Kent.
 
@@ -515,7 +515,7 @@ Named in a viewer comment as trying to link the host and Kent.
 
 ---
 
-**N-499** Marina (TPUSA CMO)
+**N-497** Marina (TPUSA CMO)
 
 TPUSA chief marketing officer (transcribed Marina Minnez, Mina's); handled the statement drafting.
 
@@ -523,7 +523,7 @@ TPUSA chief marketing officer (transcribed Marina Minnez, Mina's); handled the s
 
 ---
 
-**N-557** Aubrey Lech
+**N-555** Aubrey Lech
 
 Staffer who drafted the death statement and was later fired (host says over an Uber driver conversation).
 
@@ -531,7 +531,7 @@ Staffer who drafted the death statement and was later fired (host says over an U
 
 ---
 
-**N-598** Bret Weinstein
+**N-596** Bret Weinstein
 
 The host says he released messages about Iran.
 
@@ -725,7 +725,7 @@ Claim Timestamp: 00:02:10
 Claim: Joe Kent told Tucker Carlson that the National Counterterrorism Center was stopped by the FBI from investigating the Charlie Kirk assassination.
 
 Anchored Artifacts: A-1877.1
-Mentions: N-22, N-1, N-213
+Mentions: N-22, N-1, N-211
 
 Related Nodes: N-10547
 
@@ -740,7 +740,7 @@ Claim Timestamp: 00:02:10
 Claim: Joe Kent recounted that, in June in the West Wing stairway, Charlie Kirk said loudly that he had "stopped us from getting into a war with Iran."
 
 Anchored Artifacts: A-1877.2
-Mentions: N-1, N-213
+Mentions: N-1, N-211
 
 Related Nodes:
 
@@ -755,7 +755,7 @@ Claim Timestamp: 00:00:42
 Claim: Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested for leaking classified documents.
 
 Anchored Artifacts: A-1879.1 (related context); direct retweet not separately captured as artifact.
-Mentions: N-14, N-213
+Mentions: N-14, N-211
 
 Related Nodes: N-10551
 
@@ -772,7 +772,7 @@ Claim Timestamp: 00:05:36
 Claim: Alex Clark posted on X that Joe Kent actively participated in or encouraged behind-the-scenes degradation of Erika Kirk.
 
 Anchored Artifacts: A-1879.1
-Mentions: N-2, N-99, N-213
+Mentions: N-2, N-99, N-211
 
 Related Nodes: N-10551
 
@@ -787,7 +787,7 @@ Claim Timestamp: 00:06:26
 Claim: Jack Posobiec posted on X that Joe Kent has six bronze star medals with five oak leaf clusters across 11 combat deployments as a Green Beret.
 
 Anchored Artifacts: A-1880.1
-Mentions: N-95, N-213
+Mentions: N-95, N-211
 
 Related Nodes:
 
@@ -802,7 +802,7 @@ Claim Timestamp: 00:07:00
 Claim: Laura Loomer replied to Posobiec accusing Joe Kent of leaking information to Candace Owens for the purpose of attacking Erika Kirk.
 
 Anchored Artifacts: A-1880.2
-Mentions: N-3, N-60, N-2, N-213
+Mentions: N-3, N-60, N-2, N-211
 
 Related Nodes: N-10551
 
@@ -817,7 +817,7 @@ Claim Timestamp: 00:09:30
 Claim: Andrew Kolvet stated on Charlie Kirk's radio show that he had provided the group-chat screengrabs to Joe Kent in the immediate aftermath of Charlie's death.
 
 Anchored Artifacts: A-1878.1
-Mentions: N-14, N-1, N-213
+Mentions: N-14, N-1, N-211
 
 Related Nodes: N-10551
 
@@ -832,7 +832,7 @@ Claim Timestamp: 00:11:16
 Claim: Andrew Kolvet stated Joe Kent messaged him suggesting the texts be made public; Kolvet declined because of concern for innocent group-chat members.
 
 Anchored Artifacts: A-1878.2
-Mentions: N-14, N-213
+Mentions: N-14, N-211
 
 Related Nodes: N-10551
 
@@ -877,7 +877,7 @@ Claim Timestamp: 00:24:14
 Claim: At approximately 2:05 p.m. Utah time on Sept 10, Marina Medvin called Aubrey and asked her to draft the staff death statement because Andrew was on a plane.
 
 Anchored Artifacts: A-1881.1
-Mentions: N-499
+Mentions: N-497
 
 Related Nodes: N-10547, N-10552
 
@@ -892,7 +892,7 @@ Claim Timestamp: 00:25:31
 Claim: The host says Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Medvin reportedly overheard.
 
 Anchored Artifacts: A-1881.1 (contextual); primary artifact not displayed.
-Mentions: N-499
+Mentions: N-497
 
 Related Nodes: N-10552
 
@@ -937,7 +937,7 @@ Claim Timestamp: 00:33:30
 Claim: Blake Neff, describing his call to his mother after the shooting, used the phrasing "I put that phone away," which host interprets as implying possession of two phones.
 
 Anchored Artifacts: A-1882.1
-Mentions: N-162
+Mentions: N-161
 
 Related Nodes: N-10550
 
@@ -954,7 +954,7 @@ Claim Timestamp: 00:40:59
 Claim: In a clip of his podcast that the host plays, Joe Rogan discusses Erika Kirk's appearance in what he characterizes as a CIA documentary, her pageant background, and speculation she was "Charlie's handler."
 
 Anchored Artifacts: A-1883.1
-Mentions: N-2, N-272
+Mentions: N-2, N-270
 
 Related Nodes:
 
@@ -969,7 +969,7 @@ Claim Timestamp: 00:43:46
 Claim: Mark Levin tweeted asking whether Erika's video was "some AI production" and, if not, called it "a total disgrace."
 
 Anchored Artifacts: A-1884.1
-Mentions: N-248
+Mentions: N-246
 
 Related Nodes:
 
@@ -984,7 +984,7 @@ Claim Timestamp: 00:43:46
 Claim: Eton Fishberger tweeted that Joe Rogan's segment was "some sick stuff" given what Erika "hasn't been through already."
 
 Anchored Artifacts: A-1884.2
-Mentions: N-272
+Mentions: N-270
 
 Related Nodes:
 
@@ -999,7 +999,7 @@ Claim Timestamp: 00:45:46
 Claim: Candace Owens states she had never had a single communication with Joe Kent until after Charlie Kirk's assassination.
 
 Anchored Artifacts: None (host testimony only)
-Mentions: N-3, N-1, N-213
+Mentions: N-3, N-1, N-211
 
 Related Nodes: N-10551
 
@@ -1018,7 +1018,7 @@ Claim: The host says it would certainly appear that Turning Point USA wants to e
 Transcript Snippet: it would certainly appear that Turning Point wants to exact revenge because you guessed it, Joe Kent told the truth about something and that something made Erika Kirk, Charlie's wife, look very foolish.
 
 Anchored Artifacts: 
-Mentions: N-3, N-213, N-2
+Mentions: N-3, N-211, N-2
 Related Nodes: N-10546, N-10551
 Tags: relevance:core
 Investigative Direction: Identify which Kent statement the host means and whether any TPUSA officer has tied the attacks on Kent to it.
@@ -1034,7 +1034,7 @@ Claim: Joe Kent says the FBI will say it stopped the National Counterterrorism C
 Transcript Snippet: the FBI will say that that they stopped that because they wanted to have tr- every turn everything over to the Utah state authorities and everything's going to trial
 
 Anchored Artifacts: A-1877.1
-Mentions: N-213, N-1
+Mentions: N-211, N-1
 Related Nodes: N-10202
 Tags: relevance:core
 Investigative Direction: Obtain FBI statements or inter-agency correspondence on the transfer of the investigation to Utah authorities and the NCTC's stand-down.
@@ -1050,7 +1050,7 @@ Claim: Joe Kent says that, despite the FBI's stated reason, there was still a lo
 Transcript Snippet: but there was still linkage for us to investigate that we needed to run down.
 
 Anchored Artifacts: A-1877.1
-Mentions: N-213
+Mentions: N-211
 Related Nodes: N-10202, N-10546
 Tags: relevance:core
 Investigative Direction: Ask Kent, or review any NCTC tasking records he is free to release, for what leads were left open when the stand-down occurred.
@@ -1066,7 +1066,7 @@ Claim: Joe Kent says the text messages that have been made public show Charlie K
 Transcript Snippet: We know the pressure because of the text messages and text messages that have been made public that Charlie was under a lot of pressure from a lot of pro-Israel donors.
 
 Anchored Artifacts: A-1877.1
-Mentions: N-213, N-1
+Mentions: N-211, N-1
 Related Nodes: N-10056, N-10163
 Tags: relevance:core
 Investigative Direction: Compare Kent's characterization with the full authenticated text of the leaked group-chat messages and the donors involved.
@@ -1082,7 +1082,7 @@ Claim: Joe Kent says that at the end of the 12-day war and Operation Midnight Ha
 Transcript Snippet: we knew at the end of the 12-day war, at the end of Midnight Hammer, that the Israelis were going to come back and ask us to go back to war again.
 
 Anchored Artifacts: A-1877.1
-Mentions: N-213, N-1
+Mentions: N-211, N-1
 Related Nodes: N-11079, N-10539
 Tags: relevance:context
 Investigative Direction: Check public reporting and administration records on Israeli requests for further US military action after June 2025, and Kirk's documented lobbying against it.
@@ -1098,7 +1098,7 @@ Claim: The host relays Joe Kent as saying he does not know for sure but that the
 Transcript Snippet: we had things that we would have investigated had it not been for Kash Patel.
 
 Anchored Artifacts: A-1877.1
-Mentions: N-213, N-69, N-3
+Mentions: N-211, N-69, N-3
 Related Nodes: N-10202, N-10355
 Tags: relevance:core
 Investigative Direction: Obtain the full Carlson interview transcript and any FBI or Patel response specifying which leads were not pursued.
@@ -1114,7 +1114,7 @@ Claim: The host says it was already known that something was brewing between Joe
 Transcript Snippet: that something was brewing between him and Kash Patel, right? That made it into the Daily Mail at some point.
 
 Anchored Artifacts: 
-Mentions: N-213, N-69, N-3
+Mentions: N-211, N-69, N-3
 Related Nodes: N-10355
 Tags: relevance:context
 Investigative Direction: Locate the Daily Mail article on the Kent-Patel dispute and the earlier episode where the host covered it.
@@ -1130,7 +1130,7 @@ Claim: The host says the Israel-first crowd immediately began demanding that Joe
 Transcript Snippet: The Israel first crowd, like I said, immediately began demanding that he spend time in prison for leaking what they claimed are classified documents.
 
 Anchored Artifacts: 
-Mentions: N-213
+Mentions: N-211
 Related Nodes: N-10551, N-10546
 Tags: relevance:context
 Investigative Direction: Collect the posts from Kolvet, Clark, Loomer and others calling for Kent's arrest or prosecution and note whether any cites specific documents.
@@ -1163,7 +1163,7 @@ Claim: The host says she has never heard Joe Kent utter a bad word about Erika K
 Transcript Snippet: Joe Kent, I have never heard uh utter a bad word about Erika Kirk.
 
 Anchored Artifacts: A-1879.1
-Mentions: N-213, N-2, N-99, N-3
+Mentions: N-211, N-2, N-99, N-3
 Related Nodes: N-10551
 Tags: relevance:core
 Investigative Direction: Ask Clark or TPUSA for the specific statements or messages by Kent that they say degraded Erika; search Kent's public record for any such remark.
@@ -1195,7 +1195,7 @@ Claim: The host says it is completely untrue that Joe Kent leaked her anything f
 Transcript Snippet: Joe Kent did not leak me anything for the purpose of attacking Erika Kirk.
 
 Anchored Artifacts: A-1880.2
-Mentions: N-213, N-2, N-3, N-60
+Mentions: N-211, N-2, N-3, N-60
 Related Nodes: N-10551
 Tags: relevance:core
 Investigative Direction: The host's source records and Kent's own account are the only checks; ask Kent and Loomer for any evidence of the alleged leak.
@@ -1243,7 +1243,7 @@ Claim: In the played clip, the speaker says TPUSA kind of verified that the mess
 Transcript Snippet: We kind of verified that the messages had been given by Andrew to Joe Kent and that Joe Kent had been the one to pass them on to Candace.
 
 Anchored Artifacts: A-3129.1
-Mentions: N-14, N-213, N-3
+Mentions: N-14, N-211, N-3
 Related Nodes: N-10551
 Tags: relevance:core
 Investigative Direction: Ask TPUSA what verification was done; the host denies the chain, so compare with her account of how she obtained the chat.
@@ -1259,7 +1259,7 @@ Claim: Andrew Kolvet says he was told he could trust Joe Kent, that he provided 
 Transcript Snippet: I was told I could trust Joe Kent. I provided the screen grabs to Joe Kent. And that I don't know what happened to them at that point.
 
 Anchored Artifacts: A-1878.1
-Mentions: N-14, N-213
+Mentions: N-14, N-211
 Related Nodes: N-10551
 Tags: relevance:core
 Investigative Direction: Ask Kolvet who told him Kent could be trusted and what messages he exchanged with Kent about the screen grabs.
@@ -1307,7 +1307,7 @@ Claim: Andrew Kolvet says that after he declined Kent's suggestion to make the s
 Transcript Snippet: But then, fast forward another week or two, and they were made public.
 
 Anchored Artifacts: A-1878.2
-Mentions: N-14, N-213
+Mentions: N-14, N-211
 Related Nodes: N-10551
 Tags: relevance:core
 Investigative Direction: Date Kolvet's exchange with Kent and the first public appearance of the screen grabs to establish the gap.
@@ -1323,7 +1323,7 @@ Claim: Andrew Kolvet says he cannot 100 percent categorically say Joe Kent leake
 Transcript Snippet: Can I 100% categorically say that he leaked them? No. But those are the facts. Maybe somebody on his team, maybe they got passed around, maybe somebody else leaked them.
 
 Anchored Artifacts: A-1878.2
-Mentions: N-14, N-213
+Mentions: N-14, N-211
 Related Nodes: N-10551
 Tags: relevance:core
 Investigative Direction: Compare with the claim in the earlier clip that TPUSA verified Kent as the source; ask TPUSA to reconcile the two statements.
@@ -1387,7 +1387,7 @@ Claim: The host says Bret Weinstein has released his messages about Iran.
 Transcript Snippet: Bret Weinstein has released his messages about Iran.
 
 Anchored Artifacts: 
-Mentions: N-598
+Mentions: N-596
 Related Nodes: N-10539
 Tags: relevance:context
 Investigative Direction: Locate Weinstein's release of messages and check what they say about Charlie Kirk and Iran.
@@ -1452,7 +1452,7 @@ Claim: The host says the rabbi lied and said that Charlie never blinked on Israe
 Transcript Snippet: The rabbi is not ashamed that he lied and said, "Charlie never blinked on Israel."
 
 Anchored Artifacts: 
-Mentions: N-167, N-1
+Mentions: N-166, N-1
 Related Nodes: N-10056, N-10148
 Tags: relevance:core
 Investigative Direction: Identify the rabbi (the host names Rabbi Wolicki a minute later in the show), find the original statement and compare it with the pre-assassination texts.
@@ -1468,7 +1468,7 @@ Claim: The host says that on September 5, while Charlie was away in Asia, Rabbi 
 Transcript Snippet: On September 5th, while Charlie was away in Asia, that Rabbi Wolicki um and with Rabbi Pesach Wolicki, who was the one who Charlie to be out, he had a a call with Justin Streiff and Andrew Kolvet.
 
 Anchored Artifacts: 
-Mentions: N-167, N-15, N-14, N-1
+Mentions: N-166, N-15, N-14, N-1
 Related Nodes: N-10056
 Tags: relevance:core
 Investigative Direction: Obtain call logs or calendar entries for September 5 and ask Wolicki, Streiff and Kolvet what the call covered.
@@ -1484,7 +1484,7 @@ Claim: The host says Rabbi Wolicki does not have any role within Turning Point U
 Transcript Snippet: Rabbi Wolicki does not have any role within Turning Point USA. He claims to be one of Charlie's personal advisers.
 
 Anchored Artifacts: 
-Mentions: N-167, N-1
+Mentions: N-166, N-1
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check TPUSA's staff, board and advisory lists for Wolicki and collect his own descriptions of his relationship with Charlie.
@@ -1725,7 +1725,7 @@ Claim: The host says the PR group chat consisted of Justin Streiff, Andrew Kolve
 Transcript Snippet: In this group we have Justin Streiff, we have Andrew Kolvet, we have Marina Minnez, and we have Aubrey, who is later going to be fired over an Uber ride that Marina overhears.
 
 Anchored Artifacts: A-1881.1
-Mentions: N-15, N-14, N-499, N-557
+Mentions: N-15, N-14, N-497, N-555
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Verify the member list from the chat export.
@@ -1805,7 +1805,7 @@ Claim: The host says Charlie's plane was to leave Scottsdale at 2:31 p.m. and la
 Transcript Snippet: that plane is going to leave at 2:31 p. m. from Scottsdale and land into Provo at 3:31 p. m. and we're going to be told that Erika and Tyler and Elizabeth McCoy and CeCe Sheridan are on this plane.
 
 Anchored Artifacts: A-1881.2
-Mentions: N-2, N-11, N-221, N-190
+Mentions: N-2, N-11, N-219, N-188
 Related Nodes: N-10554, N-10547
 Tags: relevance:core
 Investigative Direction: Obtain the passenger manifest and FAA track for the Scottsdale to Provo flight.
@@ -1821,7 +1821,7 @@ Claim: The host says Marina told Aubrey that Andrew was on a plane and that she 
 Transcript Snippet: because Andrew's currently on a plane and I don't have it within me to draft the statement.
 
 Anchored Artifacts: A-1881.1
-Mentions: N-499, N-557, N-14
+Mentions: N-497, N-555, N-14
 Related Nodes: N-10552, N-10547
 Tags: relevance:core
 Investigative Direction: Ask Aubrey or Marina for the call content; the wording is the host's paraphrase.
@@ -1837,7 +1837,7 @@ Claim: The host says Aubrey, a 26-year-old, was made responsible for drafting th
 Transcript Snippet: Essentially, Aubrey, the what 26-year-old, is now responsible for the unbelievably emotionally heavy statement
 
 Anchored Artifacts: A-1881.1
-Mentions: N-557
+Mentions: N-555
 Related Nodes: N-10552
 Tags: relevance:context
 Investigative Direction: Confirm Aubrey's age and role with her or with employment records.
@@ -1853,7 +1853,7 @@ Claim: The host says TPUSA made Aubrey work insane hours through weekends and th
 Transcript Snippet: make her work insane hours and then fire her. Through weekends, everything, and then fire her and her fiance because they had a conversation with an Uber driver. And she wasn't loyal to Erika.
 
 Anchored Artifacts: 
-Mentions: N-557, N-2
+Mentions: N-555, N-2
 Related Nodes: N-10552
 Supports: C-9967
 Tags: relevance:core
@@ -1870,7 +1870,7 @@ Claim: The host says TPUSA fired Aubrey and her fiance without even giving them 
 Transcript Snippet: only to then fire them and not even give them a bonus after they took in that much money.
 
 Anchored Artifacts: 
-Mentions: N-557
+Mentions: N-555
 Related Nodes: N-10552
 Tags: relevance:context
 Investigative Direction: Request payroll or severance records through Aubrey and compare with TPUSA's reported post-assassination revenue.
@@ -1902,7 +1902,7 @@ Claim: The host says that at 3:49 p.m. Utah time Aubrey asked her unavailable bo
 Transcript Snippet: At 3:49 Utah time, she's going to ask her boss, who's been unavailable, "Should I confirm or deny?"
 
 Anchored Artifacts: A-3127.1
-Mentions: N-557, N-14
+Mentions: N-555, N-14
 Related Nodes: N-10547, N-10552
 Tags: relevance:core
 Investigative Direction: Check the full chat export for the 3:49 message and its recipient.
@@ -1983,7 +1983,7 @@ Claim: In the clip, Blake Neff says that around the time he called his mother, "
 Transcript Snippet: I remember he calls Erika. I around the same time, I pull out my phone and I call my mom just to say, "Hey, Mom, there's been a shooting.
 
 Anchored Artifacts: A-1882.1
-Mentions: N-162, N-194, N-2, N-17
+Mentions: N-161, N-192, N-2, N-17
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Obtain Mikey McCoy's call log for the minutes after the shot and the full Neff interview.
@@ -2032,7 +2032,7 @@ Transcript Snippet: Duncan Aviation is not where you fly into. Usually you you f
 
 Anchored Artifacts: 
 Mentions: 
-Related Nodes: N-264, N-10549
+Related Nodes: N-262, N-10549
 Tags: relevance:context
 Investigative Direction: Check Duncan Aviation's Provo services and who arrived there on September 10.
 
@@ -2079,7 +2079,7 @@ Claim: The host says Aubrey had to write all of this, work seven-hour days witho
 Transcript Snippet: then work like 7-hour days, not sleep, only to then not get a raise and to be fired because Marina Mina's spoke to an Uber driver.
 
 Anchored Artifacts: 
-Mentions: N-557, N-499
+Mentions: N-555, N-497
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Obtain Aubrey's pay and schedule records and the account of what Marina said to the driver.
@@ -2095,7 +2095,7 @@ Claim: The host says Aubrey said she never vented to the Uber driver, whereas th
 Transcript Snippet: and she said she never did vent to the Uber driver. Uber driver says they vent.
 
 Anchored Artifacts: 
-Mentions: N-557
+Mentions: N-555
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Locate the Uber driver and any statement from him; ask Aubrey for her account.
@@ -2111,7 +2111,7 @@ Claim: In the played Joe Rogan clip, one speaker says Erika Kirk was on a realit
 Transcript Snippet: She seems she's having a good time. Well, she was on a reality show.
 
 Anchored Artifacts: A-1883.1
-Mentions: N-2, N-272
+Mentions: N-2, N-270
 Related Nodes: 
 Supports: C-10116
 Tags: relevance:context
@@ -2128,7 +2128,7 @@ Claim: In the Rogan clip, a speaker says there is a video of Erika making demon 
 Transcript Snippet: There's a video of her making demon eyes, and every time she makes the eyes, the music
 
 Anchored Artifacts: A-1883.1
-Mentions: N-2, N-272
+Mentions: N-2, N-270
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Find the compilation video and its source; this is recorded as said, not as a verified fact.
@@ -2144,7 +2144,7 @@ Claim: The host says that although the CIA denied producing the documentary, the
 Transcript Snippet: Okay, yes, but the head of the CIA is in it. Okay, you got to get approval from the CIA to be in a CIA documentary.
 
 Anchored Artifacts: A-1883.1
-Mentions: N-2, N-272
+Mentions: N-2, N-270
 Related Nodes: N-10082, N-10403
 Tags: relevance:core
 Investigative Direction: Identify the documentary, its producer, who appears in it and any CIA statement on its production.
@@ -2177,7 +2177,7 @@ Claim: The host says she told the truth about Charlie's headspace on Israel base
 Transcript Snippet: I told you the truth based off of my discussions with Charlie about where his head space was at when it came to Israel.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-213
+Mentions: N-3, N-1, N-211
 Related Nodes: N-10148, N-10056
 Tags: relevance:core
 Investigative Direction: Seek independent corroboration of the host's conversations with Charlie, such as messages or witnesses.
@@ -2258,7 +2258,7 @@ Claim: The host says she never got classified information from Joe Kent and that
 Transcript Snippet: I never got classified information from Joe Kent. Like I said, the person who told me about the text chain originally was Andrew Kolvet.
 
 Anchored Artifacts: 
-Mentions: N-3, N-213, N-14
+Mentions: N-3, N-211, N-14
 Related Nodes: N-10551, N-10206
 Tags: relevance:core
 Investigative Direction: The host's own communications records would be the check; ask Kent and Kolvet to confirm the sequence.
@@ -2274,7 +2274,7 @@ Claim: A viewer comment read by the host says it is sad to see Dan Bongino becom
 Transcript Snippet: It is sad to see Bongino become a little man trying to link Candace and Joe.
 
 Anchored Artifacts: 
-Mentions: N-384, N-3, N-213
+Mentions: N-382, N-3, N-211
 Related Nodes: N-10551
 Tags: relevance:context
 Investigative Direction: Find Bongino's on-air or posted remarks tying the host to Kent.

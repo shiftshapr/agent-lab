@@ -1933,8 +1933,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-3",
-        "N-5"
+        "N-3"
       ]
     },
     {
@@ -2028,8 +2027,6 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-1",
-        "N-22",
-        "N-39",
         "N-46"
       ]
     },
@@ -2038,7 +2035,7 @@
       "@id": "C-1128",
       "ref": "C-1128",
       "label": "Bill Ackman Staged Intervention Against Kirk in Hamptons",
-      "claim": "Host asserts Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.",
+      "claim": "The host says she is told that Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.",
       "anchored_artifacts": [
         "A-1092.1"
       ],
@@ -2056,9 +2053,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-37",
-        "N-38",
-        "N-49"
+        "N-37"
       ]
     },
     {
@@ -2083,9 +2078,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-1",
-        "N-36",
-        "N-37",
-        "N-38"
+        "N-36"
       ]
     },
     {
@@ -2140,7 +2133,7 @@
       "@id": "C-1132",
       "ref": "C-1132",
       "label": "Kirk Stated Epstein Was Israeli Intelligence Blackmail Asset",
-      "claim": "Charlie Kirk publicly stated that Jeffrey Epstein and Ghislaine/Robert Maxwell were Israeli intelligence assets running a blackmail operation.",
+      "claim": "In a clip the host plays, Charlie Kirk refers to Epstein's friend Ghislaine and her father Robert Maxwell, whom he calls \"obviously a spy of the Israeli intelligence agencies\", says intel agencies want blackmail on powerful people, and says Epstein was a creation of either Mossad, Israeli, American or Saudi intelligence, or maybe just a hired gun.",
       "anchored_artifacts": [
         "A-1086.1"
       ],
@@ -2256,7 +2249,7 @@
       "@id": "C-1137",
       "ref": "C-1137",
       "label": "Seth Dillon and Bill Ackman Have Not Publicly Disputed Hamptons Narrative",
-      "claim": "Seth Dillon and Bill Ackman have not publicly disputed host's framing of the Hamptons meeting; Seth Dillon did not respond to direct text outreach.",
+      "claim": "The host says she is waiting for Bill Ackman or anyone at the Hamptons meeting to go on record disputing her account, and that Seth Dillon, whom she says is normally quick to respond, had not yet responded to her text messages.",
       "anchored_artifacts": [
         "A-1091.1",
         "A-1092.1"
@@ -2315,11 +2308,7 @@
       "claim_timestamp": "00:45:42",
       "investigative_direction": "Obtain FBI evidence photos and chain of custody for recovered rifle.",
       "transcript_snippet": "The weapon, they say, was found in the woods and it was wrapped by a dark towel.",
-      "confidence": "high",
-      "mentions_person_refs": [
-        "N-40",
-        "N-43"
-      ]
+      "confidence": "high"
     },
     {
       "@type": "Claim",
@@ -2383,8 +2372,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-40",
-        "N-41",
-        "N-45"
+        "N-41"
       ]
     },
     {
@@ -2413,7 +2401,7 @@
       "@id": "C-3633",
       "ref": "C-3633",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host invites viewers who have information to send tips and says those who want to join \"our movement of the decentralized intelligence agency\" can support the show.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2712,7 +2700,7 @@
       "@type": "Claim",
       "@id": "C-10655",
       "ref": "C-10655",
-      "label": "Host Says Donors Told Kirk He Could Not Invite Certain People",
+      "label": "Host Says Kirk Was Told He Could Not Invite Certain People",
       "claim": "The host says Charlie Kirk was under increasing pressure, including people flat out telling him he was not allowed to invite certain people to his events.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2765,7 +2753,7 @@
       "@id": "C-10657",
       "ref": "C-10657",
       "label": "Host Says Dave Smith Is Jewish and Was Targeted for Debating Israel at AmFest",
-      "claim": "The host says Dave Smith, whom she notes is Jewish, was one of the speakers donors objected to because debates about Israel were allowed on Turning Point's America Fest stage.",
+      "claim": "The host says Charlie Kirk was pressed over how he could allow debates about Israel on the America Fest stage and how he could allow Dave Smith, whom she notes is Jewish, to take it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10268",
@@ -2778,10 +2766,9 @@
       "investigative_direction": "Check the AmFest 2025 programming and any donor complaints about Smith's appearance.",
       "transcript_snippet": "How could he allow Dave Smith, who by the way is Jewish,",
       "mentions_person_refs": [
-        "N-3",
-        "N-39",
         "N-1",
-        "N-22"
+        "N-3",
+        "N-39"
       ]
     },
     {
@@ -2971,10 +2958,9 @@
       "investigative_direction": "Archive the Ackman tweet with its timestamp and compare with the host's account of the meeting.",
       "transcript_snippet": "I feel incredibly privileged to have spent a day and shared a meal with Charlie Kirk this summer.",
       "mentions_person_refs": [
-        "N-3",
-        "N-37",
         "N-1",
-        "N-38"
+        "N-3",
+        "N-37"
       ]
     },
     {
@@ -3399,7 +3385,7 @@
       "@id": "C-10684",
       "ref": "C-10684",
       "label": "Host Says She Knows Who Exerted Pressure on Kirk and Sees Messages From Would-Be Replacements",
-      "claim": "The host says she is seeing messages from people trying to replace Charlie Kirk at Turning Point USA, and that she knows exactly who they are and who exerted pressure on Kirk.",
+      "claim": "The host says she is seeing messages from people trying to replace Charlie Kirk at Turning Point USA, and that she knows exactly who they are and who were exerting pressure.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -3739,7 +3725,7 @@
       "@id": "C-10699",
       "ref": "C-10699",
       "label": "Host Says Ackman's Money Is Now Going to Robinson's Father",
-      "claim": "The host says that Bill Ackman, who she guesses offered about a million dollars, will see that money go to the father of the suspect who, after prayer and speaking to a pastor, turned his son in.",
+      "claim": "The host says, sarcastically, that Bill Ackman, who she guesses offered probably a million dollars, is thanked because that money is now going to the father of the suspect who, after prayer and speaking to a pastor, turned his son in.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10022",
@@ -3928,7 +3914,7 @@
       "@id": "C-10707",
       "ref": "C-10707",
       "label": "Viewer Says She Met Erika Kirk at AmFest 2023 Without Knowing Who She Was",
-      "claim": "The host reads a viewer comment from Anna saying that at AmFest 2023 she talked with a woman through the PBD podcast for an hour and at the end the woman told her she was Charlie's wife, Erika, who made her feel welcome.",
+      "claim": "The host reads a viewer comment from Anna saying that at AmFest 2023 she went alone to the PBD live podcast and stood talking to a woman for the whole hour of the show, and at the end the woman told her she was Charlie's wife, Erika, who made her feel welcome.",
       "anchored_artifacts": [
         "A-3095.1"
       ],
@@ -4072,7 +4058,7 @@
       "@id": "C-10714",
       "ref": "C-10714",
       "label": "Host Says Ashkenazi Jewish Authors Wrote That They Were Khazars and She Has Covered It Extensively",
-      "claim": "Responding to a viewer's recommendation of The 13th Tribe, the host says that Ashkenazi Jews' own books said they were Khazars, and that she has covered the topic extensively on her show.",
+      "claim": "Responding to a viewer's recommendation of The 13th Tribe, the host says that Ashkenazi Jews' own books said they were Khazars, that she has covered the topic extensively on her show, and tells viewers to look up Abraham Poliak, who she says won awards for saying they were the Khazars.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

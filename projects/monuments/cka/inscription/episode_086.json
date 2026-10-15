@@ -698,8 +698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-603",
+      "ref": "N-603",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "Katherine Locastro (transcribed Katherine Low Castro); named as a passenger on Erika's July 14 flight.",
@@ -752,8 +752,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-424",
-      "ref": "N-424",
+      "@id": "N-422",
+      "ref": "N-422",
       "name": "Derek Niekerk",
       "type": "person",
       "description": "Derek Niekerk; named as a passenger on Erika's July 14 flight.",
@@ -769,8 +769,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-334",
-      "ref": "N-334",
+      "@id": "N-332",
+      "ref": "N-332",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Baron Coleman; cited for his explanation that the people involved are tied to each other.",
@@ -803,8 +803,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-265",
-      "ref": "N-265",
+      "@id": "N-263",
+      "ref": "N-263",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Terrell Farnsworth (transcribed Tarro); AV contractor who removed the SD card and later showed the host the back footage.",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole; cited for his later account of where the bullet fragmented.",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-682",
-      "ref": "N-682",
+      "@id": "N-680",
+      "ref": "N-680",
       "name": "Jonathan Barcelo",
       "type": "person",
       "description": "Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14 flight.",
@@ -863,8 +863,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-784",
-      "ref": "N-784",
+      "@id": "N-782",
+      "ref": "N-782",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Matt Robinson; Tyler Robinson's father, expected to testify about the gun.",
@@ -880,8 +880,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-199",
-      "ref": "N-199",
+      "@id": "N-197",
+      "ref": "N-197",
       "name": "Lee Trotter",
       "type": "person",
       "description": "Dr. Lee Trotter; the surgeon whose call with Erika and Kolvet is disputed.",
@@ -1279,8 +1279,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-868",
-      "ref": "N-868",
+      "@id": "N-866",
+      "ref": "N-866",
       "name": "Frank Carney",
       "type": "person",
       "description": "First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.",
@@ -1678,7 +1678,7 @@
         "C-6475"
       ],
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-1"
       ]
     },
@@ -1699,7 +1699,7 @@
       "investigative_direction": "Obtain TPUSA vendor contracts and prior event staffing records for the AV company.",
       "transcript_snippet": "the man who runs the audio-visual company that Turning Point employs, maybe you've used them for over a decade for their big events, and he's never goes to these college events",
       "mentions_person_refs": [
-        "N-265"
+        "N-263"
       ]
     },
     {
@@ -1724,7 +1724,7 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-265"
+        "N-263"
       ]
     },
     {
@@ -1742,7 +1742,7 @@
       "investigative_direction": "Obtain the host's call log and any recording or notes of the September 17 call.",
       "transcript_snippet": "I decided on September 17th, exactly 1 week after Charlie's assassination, to reach to reach out to him. I called him.",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-3"
       ]
     },
@@ -1763,7 +1763,7 @@
       "investigative_direction": "Ask Farnsworth to state under oath why he chose that camera and what instruction he acted on.",
       "transcript_snippet": "I wanted to secure the footage for Erika so that uh she wouldn't have to see the footage of Charlie being shot in 4K",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-2",
         "N-1"
       ]
@@ -1786,7 +1786,7 @@
       "transcript_snippet": "once I actually saw the footage, it had no blood.",
       "mentions_person_refs": [
         "N-1",
-        "N-265"
+        "N-263"
       ]
     },
     {
@@ -1808,7 +1808,7 @@
       "transcript_snippet": "they were hiding was the fact that the bullet did not go through. Did not pierce through Charlie.",
       "mentions_person_refs": [
         "N-1",
-        "N-265"
+        "N-263"
       ]
     },
     {
@@ -1830,7 +1830,7 @@
       "investigative_direction": "Obtain the host's screen recording of the September 19 FaceTime and any call metadata.",
       "transcript_snippet": "Tarro showed me the back footage 2 days later on September 19th cuz I kept pressing him.",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-3"
       ]
     },
@@ -1853,7 +1853,7 @@
       "investigative_direction": "Compare the host's September 19 episode with the recorded FaceTime.",
       "transcript_snippet": "On September 19th, he did that and gratefully I moved to record that FaceTime call because his energy made me uncomfortable.",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-3"
       ]
     },
@@ -1879,7 +1879,7 @@
       "mentions_person_refs": [
         "N-15",
         "N-30",
-        "N-265"
+        "N-263"
       ]
     },
     {
@@ -1923,7 +1923,7 @@
       "transcript_snippet": "The FBI was on the phone with Justin Streiff, Frank Carney, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.",
       "mentions_person_refs": [
         "N-15",
-        "N-868"
+        "N-866"
       ]
     },
     {
@@ -1966,7 +1966,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-199"
+        "N-197"
       ]
     },
     {
@@ -1988,7 +1988,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-199"
+        "N-197"
       ]
     },
     {
@@ -2008,7 +2008,7 @@
       "investigative_direction": "Ask Dr. Trotter or his counsel whether he authorized the call and whether any HIPAA complaint was filed.",
       "transcript_snippet": "Dr. Lee Trotter did not violate HIPAA. In fact, he could sue her for defamation, in my personal opinion.",
       "mentions_person_refs": [
-        "N-199",
+        "N-197",
         "N-2"
       ]
     },
@@ -2031,7 +2031,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-199",
+        "N-197",
         "N-1"
       ]
     },
@@ -2076,7 +2076,7 @@
       "investigative_direction": "Compare Kolvet's September 20 post, his September 23 account and Harpole's statement against the autopsy report.",
       "transcript_snippet": "first they found the bullet uh beneath his skin. Now, suddenly, the bullet is fragmented in his thorax.",
       "mentions_person_refs": [
-        "N-270",
+        "N-268",
         "N-14"
       ]
     },
@@ -2271,7 +2271,7 @@
       "investigative_direction": "Check the witness list and any proffer on what Matt Robinson is expected to testify to.",
       "transcript_snippet": "They are naming him as a witness and he is going to be forced to answer questions under oath, likely, I would assume about the gun.",
       "mentions_person_refs": [
-        "N-784",
+        "N-782",
         "N-40"
       ]
     },
@@ -2694,9 +2694,9 @@
       "transcript_snippet": "And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcelo.",
       "mentions_person_refs": [
         "N-2",
-        "N-605",
-        "N-424",
-        "N-682"
+        "N-603",
+        "N-422",
+        "N-680"
       ]
     },
     {
@@ -2828,7 +2828,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-199",
+        "N-197",
         "N-3"
       ]
     },
@@ -2850,7 +2850,7 @@
       "transcript_snippet": "Make him Andrew the dunce and say, \"Oh, he doesn't know what he was doing.\"",
       "mentions_person_refs": [
         "N-14",
-        "N-334"
+        "N-332"
       ]
     }
   ],

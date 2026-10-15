@@ -45,13 +45,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2375",
       "family_ref": "A-2375",
-      "bundle_name": "Judge Graph Interview Clip",
+      "bundle_name": "Judge Graf Interview Clip",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2375.1",
           "ref": "A-2375.1",
-          "description": "Self-description clip of Judge Graph discussing 95% specialization in sex crimes prosecution",
+          "description": "Self-description clip of Judge Graf discussing 95% specialization in sex crimes prosecution",
           "related_claims": [
             "C-3446"
           ],
@@ -578,8 +578,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-126",
-      "ref": "N-126",
+      "@id": "N-125",
+      "ref": "N-125",
       "name": "Mike Mitchell",
       "type": "person",
       "description": "Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.",
@@ -596,8 +596,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -620,8 +620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-265",
-      "ref": "N-265",
+      "@id": "N-263",
+      "ref": "N-263",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -636,8 +636,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Matt Tardio",
       "type": "person",
       "description": "First named by the host at 00:35:04 in episode 152.",
@@ -656,8 +656,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-512",
-      "ref": "N-512",
+      "@id": "N-510",
+      "ref": "N-510",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
@@ -1174,8 +1174,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-138",
-      "ref": "N-138",
+      "@id": "N-137",
+      "ref": "N-137",
       "name": "Judge Tony F. Graf Jr.",
       "type": "person",
       "description": "Judge in the Tyler Robinson case (transcribed Graph); the host reviews his career in sex crimes prosecution.",
@@ -1193,8 +1193,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-157",
-      "ref": "N-157",
+      "@id": "N-156",
+      "ref": "N-156",
       "name": "John Mappin",
       "type": "person",
       "description": "Friend of the host in the Iceland call account (transcribed Mappen).",
@@ -1211,8 +1211,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "TPUSA staffer riding in the Denali (transcribed Blake Neff).",
@@ -1228,8 +1228,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-198",
-      "ref": "N-198",
+      "@id": "N-196",
+      "ref": "N-196",
       "name": "Robert Kraft",
       "type": "person",
       "description": "Patriots owner the host accuses of lobbying (transcribed Robert Craft).",
@@ -1245,8 +1245,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-208",
-      "ref": "N-208",
+      "@id": "N-206",
+      "ref": "N-206",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Host of the show where Mappin and Tatum appeared per a commenter (transcribed Pierce).",
@@ -1298,8 +1298,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-241",
-      "ref": "N-241",
+      "@id": "N-239",
+      "ref": "N-239",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Funder of Operation Underground and media figure present on September 10.",
@@ -1336,8 +1336,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-282",
-      "ref": "N-282",
+      "@id": "N-280",
+      "ref": "N-280",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Interviewer on Erika's media tour (transcribed Bari Weiss).",
@@ -1406,8 +1406,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-329",
-      "ref": "N-329",
+      "@id": "N-327",
+      "ref": "N-327",
       "name": "Tim Ballard",
       "type": "person",
       "description": "Operation Underground founder.",
@@ -1423,8 +1423,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-334",
-      "ref": "N-334",
+      "@id": "N-332",
+      "ref": "N-332",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Source of the clip and warrant findings.",
@@ -1440,8 +1440,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-345",
-      "ref": "N-345",
+      "@id": "N-343",
+      "ref": "N-343",
       "name": "Victor Marx",
       "type": "person",
       "description": "Evangelist whose charity the host links to trafficking work.",
@@ -1474,8 +1474,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-372",
-      "ref": "N-372",
+      "@id": "N-370",
+      "ref": "N-370",
       "name": "Danny Philip",
       "type": "person",
       "description": "Driver on September 10 (transcribed Danny Phillip).",
@@ -1509,8 +1509,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-430",
-      "ref": "N-430",
+      "@id": "N-428",
+      "ref": "N-428",
       "name": "Marcus Wada",
       "type": "person",
       "description": "Named by the host as running trafficking-related work in Poland.",
@@ -1526,8 +1526,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-455",
-      "ref": "N-455",
+      "@id": "N-453",
+      "ref": "N-453",
       "name": "Michael Aquino",
       "type": "person",
       "description": "Temple of Set founder named by the host (transcribed Michael Aino).",
@@ -1544,8 +1544,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-456",
-      "ref": "N-456",
+      "@id": "N-454",
+      "ref": "N-454",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Pastor the host says headlined the first post-Charlie tour paperwork (transcribed Greg Laurie).",
@@ -1562,8 +1562,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-466",
-      "ref": "N-466",
+      "@id": "N-464",
+      "ref": "N-464",
       "name": "Nelda Buckman",
       "type": "person",
       "description": "TPUSA donor the host says is involved in child rescue.",
@@ -1579,8 +1579,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Said to have rescued kids from trafficking in South America via Operation Underground.",
@@ -1596,8 +1596,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-494",
-      "ref": "N-494",
+      "@id": "N-492",
+      "ref": "N-492",
       "name": "Jaco Booyens",
       "type": "person",
       "description": "Runs a charity for abuse victims per the host (transcribed Yako Buyans).",
@@ -1647,8 +1647,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-535",
-      "ref": "N-535",
+      "@id": "N-533",
+      "ref": "N-533",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Modeling agency founder named by the host (transcribed John Luke Brunell).",
@@ -1664,8 +1664,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-576",
-      "ref": "N-576",
+      "@id": "N-574",
+      "ref": "N-574",
       "name": "Faith Kates",
       "type": "person",
       "description": "Modeling agency head named by the host.",
@@ -1681,8 +1681,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-693",
-      "ref": "N-693",
+      "@id": "N-691",
+      "ref": "N-691",
       "name": "Philip Goldsberry Jr.",
       "type": "person",
       "description": "Co-founder of Sofer Global Ministries per the host (transcribed Phil Goldsbury).",
@@ -1698,8 +1698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-694",
-      "ref": "N-694",
+      "@id": "N-692",
+      "ref": "N-692",
       "name": "Dr. Philip Goldsberry",
       "type": "person",
       "description": "Philip Goldsberry Sr. in the same family.",
@@ -1715,8 +1715,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-695",
-      "ref": "N-695",
+      "@id": "N-693",
+      "ref": "N-693",
       "name": "Otto Busher",
       "type": "person",
       "description": "Colonel the host says was accused of running a brothel with Romanian children (transcribed Otto B O Busher).",
@@ -1732,8 +1732,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-784",
-      "ref": "N-784",
+      "@id": "N-782",
+      "ref": "N-782",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Tyler Robinson's father.",
@@ -1750,8 +1750,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-806",
+      "ref": "N-806",
       "name": "Paul Vallely",
       "type": "person",
       "description": "TPUSA adviser and retired army general named by the host (transcribed Paul Valle).",
@@ -1767,8 +1767,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-842",
-      "ref": "N-842",
+      "@id": "N-840",
+      "ref": "N-840",
       "name": "Macklemore",
       "type": "person",
       "description": "Rapper dropped from the tour (transcribed McLemore).",
@@ -1788,8 +1788,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-843",
-      "ref": "N-843",
+      "@id": "N-841",
+      "ref": "N-841",
       "name": "Ed Sheeran",
       "type": "person",
       "description": "Headliner whose tour dropped Macklemore.",
@@ -1848,8 +1848,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-390",
-      "ref": "N-390",
+      "@id": "N-388",
+      "ref": "N-388",
       "name": "David Frodsham",
       "type": "person",
       "description": "First named by the host at 00:03:34 in episode 152. Civilian commander at Fort Huachuca the host says was charged with running a child sex abuse ring. Real spelling unconfirmed.",
@@ -1865,8 +1865,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-809",
-      "ref": "N-809",
+      "@id": "N-807",
+      "ref": "N-807",
       "name": "Andrew Piscatello",
       "type": "person",
       "description": "First named by the host at 00:03:34 in episode 152. Man the host says the feds questioned on September 10 who warns about Ukrainian military sex trafficking. Real spelling unconfirmed.",
@@ -1882,8 +1882,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-874",
-      "ref": "N-874",
+      "@id": "N-872",
+      "ref": "N-872",
       "name": "Michael George Carl",
       "type": "person",
       "description": "First named by the host at 00:12:41 in episode 152. Police officer with a child-exploitation background who signed the first warrants.",
@@ -1903,8 +1903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-875",
-      "ref": "N-875",
+      "@id": "N-873",
+      "ref": "N-873",
       "name": "David Leavitt",
       "type": "person",
       "description": "First named by the host at 00:24:49 in episode 152 (transcribed David O. Levit). Utah official the host links to 2017 tribal outreach and a 2022 ritual abuse investigation.",
@@ -1922,8 +1922,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-876",
-      "ref": "N-876",
+      "@id": "N-874",
+      "ref": "N-874",
       "name": "Justin Bieber",
       "type": "person",
       "description": "First named by the host at 00:51:02 in episode 152. Singer the host cites as sued after cancelling a tour.",
@@ -1939,8 +1939,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-877",
-      "ref": "N-877",
+      "@id": "N-875",
+      "ref": "N-875",
       "name": "Stephen A. Smith",
       "type": "person",
       "description": "First named by the host at 00:56:43 in episode 152. Podcaster on whose show the host appeared.",
@@ -2043,15 +2043,15 @@
       "claim_timestamp": "00:02:33–00:03:11",
       "investigative_direction": "Compare the aired audio against any independently circulating version; confirm timestamp of original cartoon source.*",
       "mentions_person_refs": [
-        "N-265"
+        "N-263"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-3446",
       "ref": "C-3446",
-      "label": "Clip Has Judge Graph Saying 95% of His Work Is Sex Crimes Prosecution",
-      "claim": "In a clip the host plays, Judge Graph says approximately 95% of his prosecutorial work has involved sex crimes against children and adults.",
+      "label": "Clip Has Judge Graf Saying 95% of His Work Is Sex Crimes Prosecution",
+      "claim": "In a clip the host plays, Judge Graf says approximately 95% of his prosecutorial work has involved sex crimes against children and adults.",
       "anchored_artifacts": [
         "A-2375.1"
       ],
@@ -2075,7 +2075,7 @@
       "investigative_direction": "Obtain Mike Mitchell's personnel records / Utah County Sheriff's Office assignment history.*",
       "mentions_person_refs": [
         "N-40",
-        "N-126"
+        "N-125"
       ]
     },
     {
@@ -2092,7 +2092,7 @@
       "claim_timestamp": "00:11:56",
       "investigative_direction": "Verify Bagley's personnel record with UVU police / Utah County Sheriff's Office.*",
       "mentions_person_refs": [
-        "N-512"
+        "N-510"
       ]
     },
     {
@@ -2166,7 +2166,7 @@
       "claim_timestamp": "00:18:24–00:20:34",
       "investigative_direction": "Identify the specific officer via Utah ICAC roster; obtain the recorded statement through FOIA / public records request.*",
       "mentions_person_refs": [
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2237,7 +2237,7 @@
       "investigative_direction": "Pull Portland court records for Matt Tardio's October 2025 plea and related news reports.*",
       "mentions_person_refs": [
         "N-2",
-        "N-595"
+        "N-593"
       ]
     },
     {
@@ -2298,7 +2298,7 @@
       "investigative_direction": "Verify Mitchell's role via investigative reporting and Robinson family statements.*",
       "mentions_person_refs": [
         "N-40",
-        "N-126"
+        "N-125"
       ]
     },
     {
@@ -2313,7 +2313,7 @@
       "claim_timestamp": "00:11:56",
       "investigative_direction": "Verify via Bagley's body cam records disclosed in preliminary hearing exhibits.*",
       "mentions_person_refs": [
-        "N-512"
+        "N-510"
       ]
     },
     {
@@ -2394,7 +2394,7 @@
       "investigative_direction": "Find the primary accusation records or reporting on Busher and any Romanian Angels documents naming him.",
       "transcript_snippet": "Colonel Otto B O Busher of course was accused of running a brothel with Romanian children from 2011 2015 at the Romanian military base. He worked with Erika's Romanian angels during this time.",
       "mentions_person_refs": [
-        "N-695",
+        "N-693",
         "N-2"
       ]
     },
@@ -2417,7 +2417,7 @@
       "investigative_direction": "Identify the person under the correct spelling and pull the Fort Huachuca charging documents or reporting.",
       "transcript_snippet": "David Frodsham. He was the civilian commander that was stationed at Fort Huachuca who was charged with running a child sex abuse ring.",
       "mentions_person_refs": [
-        "N-390"
+        "N-388"
       ]
     },
     {
@@ -2439,7 +2439,7 @@
       "investigative_direction": "Obtain the Make Heaven Crowded tour lineup and event paperwork and confirm Laurie's billing.",
       "transcript_snippet": "Pastor Greg Laurie immediately after Charlie passed, the first tour that they did, Make Heaven Crowded tour kind of sounds like a threat, but Erika had him on on the headlining paperwork, right?",
       "mentions_person_refs": [
-        "N-456",
+        "N-454",
         "N-2"
       ]
     },
@@ -2462,7 +2462,7 @@
       "investigative_direction": "Pull the docket and complaints in the Harvest Christian Fellowship Romanian abuse lawsuits and the church's response.",
       "transcript_snippet": "they were they are currently going through the court system being accused of trafficking children from Romania.",
       "mentions_person_refs": [
-        "N-456"
+        "N-454"
       ]
     },
     {
@@ -2482,7 +2482,7 @@
       "investigative_direction": "Identify Pascado under his correct spelling and find the record or earlier episode that places him among those questioned on September 10.",
       "transcript_snippet": "Andrew Pascado, you'll remember, he was one of the uh people that the feds questioned on September 10th. He also in his own capacity works to ring the alarm on military Ukrainian sex trafficking into the United States.",
       "mentions_person_refs": [
-        "N-809"
+        "N-807"
       ]
     },
     {
@@ -2521,7 +2521,7 @@
       "investigative_direction": "Confirm from event footage, attendance records or Beck's own statements who from his family attended and what his September 10 media activity was.",
       "transcript_snippet": "Glenn Beck, his daughters were there. Um he was very much involved in the media on September 10th.",
       "mentions_person_refs": [
-        "N-241"
+        "N-239"
       ]
     },
     {
@@ -2543,8 +2543,8 @@
       "investigative_direction": "Check Operation Underground's founding history and funding disclosures.",
       "transcript_snippet": "Him and Tim Ballard started Operation Underground. It was Glenn Beck that funded it. Tim Ballard had the idea and uh yeah",
       "mentions_person_refs": [
-        "N-241",
-        "N-329"
+        "N-239",
+        "N-327"
       ]
     },
     {
@@ -2587,8 +2587,8 @@
       "investigative_direction": "Verify Vallely's TPUSA advisory role and the co-authored book (Aquino and Vallely, Psychological Operations material).",
       "transcript_snippet": "TPUSA adviser Paul Valle is the retired army general who ran psychological operations and co-wrote a book with Michael Aino who was a Satanist and a founder of the Temple of Set",
       "mentions_person_refs": [
-        "N-808",
-        "N-455"
+        "N-806",
+        "N-453"
       ]
     },
     {
@@ -2608,7 +2608,7 @@
       "investigative_direction": "Check the 1980s Presidio Child Development Center allegations and the outcome of the investigation.",
       "transcript_snippet": "Uh accused of abusing children at the Army Child Development Center.",
       "mentions_person_refs": [
-        "N-455"
+        "N-453"
       ]
     },
     {
@@ -2630,7 +2630,7 @@
       "investigative_direction": "Review All Things Possible's filings for revenue sources and any supplement company contributions.",
       "transcript_snippet": "Victor Markx, obviously, you know, he says that he helps with human trafficking. Um profits from his supplement comp company go to his child trafficking charity, All Things Possible.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2650,7 +2650,7 @@
       "investigative_direction": "Identify Booyens's charity and its registration.",
       "transcript_snippet": "Yako Buyans also runs a charity for child sex abuse. I don't know if his is called All Things Possible.",
       "mentions_person_refs": [
-        "N-494"
+        "N-492"
       ]
     },
     {
@@ -2672,7 +2672,7 @@
       "investigative_direction": "Find TPUSA's announcement of the Buckman gift and the Buckman family's child rescue charity filings.",
       "transcript_snippet": "Nela Buckman, who they announced as the biggest donor to Turning Point USA ever, uh is extensively involved in the rescue of children who are sexually abused and trafficked.",
       "mentions_person_refs": [
-        "N-466"
+        "N-464"
       ]
     },
     {
@@ -2695,9 +2695,9 @@
       "investigative_direction": "Check Wada's Polish organizations and Cutler's Operation Underground role.",
       "transcript_snippet": "Marcus Wada, that's more trafficking arms in Poland. Rick Cutler rescued kids from sex trafficking in South America.",
       "mentions_person_refs": [
-        "N-430",
-        "N-493",
-        "N-241"
+        "N-428",
+        "N-491",
+        "N-239"
       ]
     },
     {
@@ -2719,8 +2719,8 @@
       "investigative_direction": "Pull the IRS filing for Sofer Global Ministries and its officers.",
       "transcript_snippet": "co-founding Sofur Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.",
       "mentions_person_refs": [
-        "N-693",
-        "N-694"
+        "N-691",
+        "N-692"
       ]
     },
     {
@@ -2736,9 +2736,9 @@
       ],
       "claim_timestamp": "00:08:18",
       "investigative_direction": "Check the governor's appointment announcement date and Graf's judicial biography.",
-      "transcript_snippet": "So Judge Graph, right, newly appointed by Governor Cox um in August of 2025, just before Charlie's assassination, uh spent seven years with Salt Lake City District Attorney's Office.",
+      "transcript_snippet": "So Judge Graf, right, newly appointed by Governor Cox um in August of 2025, just before Charlie's assassination, uh spent seven years with Salt Lake City District Attorney's Office.",
       "mentions_person_refs": [
-        "N-138",
+        "N-137",
         "N-41"
       ]
     },
@@ -2757,7 +2757,7 @@
       "investigative_direction": "Obtain Graf's judicial nomination questionnaire or bio listing his prior offices and dates.",
       "transcript_snippet": "Before then, he was leading the special victim's unit at the Utah County's attorney attorney's office, who we're also going to discuss, before moving to Davis County Attorney's Office, where he continued handling physical and sexual abuse cases.",
       "mentions_person_refs": [
-        "N-138"
+        "N-137"
       ]
     },
     {
@@ -2775,13 +2775,13 @@
       ],
       "claim_timestamp": "00:08:18",
       "investigative_direction": "Ask Coleman's team for the original clip URL and recording date.",
-      "transcript_snippet": "credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022ish of Judge Graph discussing what percentage of the work that he does that is related to that topic.",
+      "transcript_snippet": "credit to Baron Coleman's team for sourcing this clip. I think it's from around 2022ish of Judge Graf discussing what percentage of the work that he does that is related to that topic.",
       "supports_claim_refs": [
         "C-3446"
       ],
       "mentions_person_refs": [
-        "N-334",
-        "N-138"
+        "N-332",
+        "N-137"
       ]
     },
     {
@@ -2804,9 +2804,9 @@
         "C-3461"
       ],
       "mentions_person_refs": [
-        "N-126",
+        "N-125",
         "N-40",
-        "N-784"
+        "N-782"
       ]
     },
     {
@@ -2824,7 +2824,7 @@
       "investigative_direction": "Review preliminary hearing testimony and exhibits for what physical evidence ties the screwdriver to Robinson.",
       "transcript_snippet": "But that was their only link to Tyler Robinson. The screwdriver on the rooftop. He finds it. Didn't capture the moment.",
       "mentions_person_refs": [
-        "N-512",
+        "N-510",
         "N-40"
       ]
     },
@@ -2848,7 +2848,7 @@
         "C-3462"
       ],
       "mentions_person_refs": [
-        "N-512"
+        "N-510"
       ]
     },
     {
@@ -2951,7 +2951,7 @@
         "C-3450"
       ],
       "mentions_person_refs": [
-        "N-874"
+        "N-872"
       ]
     },
     {
@@ -2976,7 +2976,7 @@
         "C-3450"
       ],
       "mentions_person_refs": [
-        "N-874",
+        "N-872",
         "N-40"
       ]
     },
@@ -3000,7 +3000,7 @@
         "C-3450"
       ],
       "mentions_person_refs": [
-        "N-874",
+        "N-872",
         "N-42",
         "N-1"
       ]
@@ -3024,7 +3024,7 @@
       "investigative_direction": "Obtain the hospital footage warrant and affidavit rationale.",
       "transcript_snippet": "we learned that the surveillance footage was also seized from Inter Mountain Health Utah Valley because they said that the perpetrator was driving around.",
       "mentions_person_refs": [
-        "N-874"
+        "N-872"
       ]
     },
     {
@@ -3044,8 +3044,8 @@
       "investigative_direction": "Obtain the residence search warrant and inventory.",
       "transcript_snippet": "and also the warrants to search Ma Ma and Amber Robinson's house as well.",
       "mentions_person_refs": [
-        "N-874",
-        "N-784"
+        "N-872",
+        "N-782"
       ]
     },
     {
@@ -3088,7 +3088,7 @@
         "C-3452"
       ],
       "mentions_person_refs": [
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -3110,8 +3110,8 @@
       "investigative_direction": "Compare the supplied call logs with phone-company records for the minutes around 12:23 pm.",
       "transcript_snippet": "Mikey is going to end his phone call with Danny Phillip. We know that that is Danny Phillip he's on the phone with because we have we were given by Erika his call logs, right?",
       "mentions_person_refs": [
-        "N-194",
-        "N-372",
+        "N-192",
+        "N-370",
         "N-2"
       ]
     },
@@ -3137,9 +3137,9 @@
         "C-3452"
       ],
       "mentions_person_refs": [
-        "N-194",
-        "N-162",
-        "N-372"
+        "N-192",
+        "N-161",
+        "N-370"
       ]
     },
     {
@@ -3164,7 +3164,7 @@
         "C-3452"
       ],
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -3187,7 +3187,7 @@
       "investigative_direction": "Reconstruct vehicle positions and movements from footage, Uber logs and departure times.",
       "transcript_snippet": "Obviously, if they wanted to race to go be with Charlie or to follow him, they had that option. They had their car.",
       "mentions_person_refs": [
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -3211,7 +3211,7 @@
         "C-3452"
       ],
       "mentions_person_refs": [
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -3237,7 +3237,7 @@
         "C-3452"
       ],
       "mentions_person_refs": [
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -3443,7 +3443,7 @@
       "investigative_direction": "Verify Leavitt's office (the host says attorney general; public records list Utah County Attorney) and the status of every scandal.",
       "transcript_snippet": "the attorney general um of Utah was a man named David O. Levit. And there was a massive scandal.",
       "mentions_person_refs": [
-        "N-875"
+        "N-873"
       ]
     },
     {
@@ -3461,7 +3461,7 @@
       "investigative_direction": "Check Northern Cheyenne tribal council records and Leavitt's 2017 correspondence.",
       "transcript_snippet": "He was seeking support connected to adopting a northern Native American child, a Cheyenne child, and he met with the tribal president and proposed a relationship between the tribe and Ukraine.",
       "mentions_person_refs": [
-        "N-875"
+        "N-873"
       ]
     },
     {
@@ -3574,8 +3574,8 @@
       "investigative_direction": "Verify the agency's founding history, Kates's role and Brunel's connection to the New York agency.",
       "transcript_snippet": "Faith Kates running that modeling agency and or a modeling agency that started started by John Luke Brunell uh of France who uh was found suicided as they say in France",
       "mentions_person_refs": [
-        "N-576",
-        "N-535",
+        "N-574",
+        "N-533",
         "N-9"
       ]
     },
@@ -3629,7 +3629,7 @@
       "investigative_direction": "Establish when Tardio first appeared on TPUSA platforms and what his credentials are.",
       "transcript_snippet": "Matt Tardio is one of these individuals. Popped up out of nowhere.",
       "mentions_person_refs": [
-        "N-595",
+        "N-593",
         "N-40"
       ]
     },
@@ -3652,7 +3652,7 @@
       "investigative_direction": "Date the original post and compare with Tardio's travel records and TPUSA's coordination.",
       "transcript_snippet": "I went for a run this morning over inside Tel Aviv along the beach against Gro's better judgment. And I want you guys to see something for all of you that think Israel thought it'd be a good idea to kill Charlie Kirk",
       "mentions_person_refs": [
-        "N-595",
+        "N-593",
         "N-1"
       ]
     },
@@ -3695,7 +3695,7 @@
         "C-3457"
       ],
       "mentions_person_refs": [
-        "N-595",
+        "N-593",
         "N-3"
       ]
     },
@@ -3716,7 +3716,7 @@
       "investigative_direction": "Check Tardio's service record, noting the host calls him a former Green Beret.",
       "transcript_snippet": "He is a former Army Ranger sniper and explosives expert, and he's the host of Speak the Truth uh podcast.",
       "mentions_person_refs": [
-        "N-595"
+        "N-593"
       ]
     },
     {
@@ -3753,7 +3753,7 @@
       "investigative_direction": "Have independent video forensics experts assess the file's encoding history and the term lateral crawl.",
       "transcript_snippet": "there's very clear signs the video was compressed or it was a screen recording or a combination of both before it ended up getting sent to her.",
       "mentions_person_refs": [
-        "N-595",
+        "N-593",
         "N-3"
       ]
     },
@@ -3779,7 +3779,7 @@
         "C-3457"
       ],
       "mentions_person_refs": [
-        "N-595"
+        "N-593"
       ]
     },
     {
@@ -3801,7 +3801,7 @@
       "investigative_direction": "Review the detective's interview transcript if released.",
       "transcript_snippet": "Tardio's explanation was that the left-wing Antifa activists had plotted to get him stoned.",
       "mentions_person_refs": [
-        "N-595"
+        "N-593"
       ]
     },
     {
@@ -3839,8 +3839,8 @@
         "C-3459"
       ],
       "mentions_person_refs": [
-        "N-198",
-        "N-842"
+        "N-196",
+        "N-840"
       ]
     },
     {
@@ -3863,7 +3863,7 @@
         "C-3458"
       ],
       "mentions_person_refs": [
-        "N-842"
+        "N-840"
       ]
     },
     {
@@ -3886,7 +3886,7 @@
         "C-3458"
       ],
       "mentions_person_refs": [
-        "N-842"
+        "N-840"
       ]
     },
     {
@@ -3904,8 +3904,8 @@
       "investigative_direction": "Obtain Ed Sheeran's public statement on the decision.",
       "transcript_snippet": "I had no control over it. It was the stadiums that did this.",
       "mentions_person_refs": [
-        "N-843",
-        "N-842"
+        "N-841",
+        "N-840"
       ]
     },
     {
@@ -3923,8 +3923,8 @@
       "investigative_direction": "Identify the three openers and the dates and wording of their withdrawal.",
       "transcript_snippet": "thus far, three other people associated with this tour have now dropped out.",
       "mentions_person_refs": [
-        "N-843",
-        "N-842"
+        "N-841",
+        "N-840"
       ]
     },
     {
@@ -3942,7 +3942,7 @@
       "investigative_direction": "Check the official tour schedule.",
       "transcript_snippet": "I think there's only three um tour stops left.",
       "mentions_person_refs": [
-        "N-843"
+        "N-841"
       ]
     },
     {
@@ -4018,7 +4018,7 @@
       "investigative_direction": "Check the lawsuit record over the cancelled Bieber tour dates.",
       "transcript_snippet": "Justin Bieber is finally free and happy and he doesn't even care after he got sued for cancing the rest of his tour?",
       "mentions_person_refs": [
-        "N-876"
+        "N-874"
       ]
     },
     {
@@ -4095,7 +4095,7 @@
       "investigative_direction": "Find the Stephen A. Smith episode and its release date.",
       "transcript_snippet": "I got a lot of your comments about the Stephen A. Smith podcast.",
       "mentions_person_refs": [
-        "N-877",
+        "N-875",
         "N-3"
       ]
     },
@@ -4120,8 +4120,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-282",
-        "N-241",
+        "N-280",
+        "N-239",
         "N-99"
       ]
     },
@@ -4160,9 +4160,9 @@
       "investigative_direction": "Locate the Piers Morgan Uncensored episode and its air date.",
       "transcript_snippet": "that was trending over the weekend, that interview with John Mappen and Brandon Tatum.",
       "mentions_person_refs": [
-        "N-157",
+        "N-156",
         "N-58",
-        "N-208"
+        "N-206"
       ]
     },
     {
@@ -4180,7 +4180,7 @@
       "investigative_direction": "A private recollection; confirm via the interview itself.",
       "transcript_snippet": "John Mappen was with me when I uh spoke to Brandon Tatum when I was in Iceland just because of the time difference. So I was literally fishing in Iceland with John Mappen and my husband.",
       "mentions_person_refs": [
-        "N-157",
+        "N-156",
         "N-58",
         "N-3",
         "N-30"

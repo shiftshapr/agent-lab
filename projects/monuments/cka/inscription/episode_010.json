@@ -62,7 +62,7 @@
             "C-1287"
           ],
           "related_nodes": [
-            "N-122"
+            "N-121"
           ],
           "tags": [],
           "event_timestamp": "2025-09-10",
@@ -79,7 +79,7 @@
             "C-1288"
           ],
           "related_nodes": [
-            "N-122",
+            "N-121",
             "N-1"
           ],
           "tags": [],
@@ -96,7 +96,7 @@
             "C-1289"
           ],
           "related_nodes": [
-            "N-122"
+            "N-121"
           ],
           "tags": [],
           "video_timestamp": "00:29:43–00:30:31",
@@ -179,7 +179,7 @@
             "C-3737"
           ],
           "related_nodes": [
-            "N-116",
+            "N-115",
             "N-1",
             "N-10130"
           ],
@@ -198,7 +198,7 @@
             "C-3738"
           ],
           "related_nodes": [
-            "N-116",
+            "N-115",
             "N-10130"
           ],
           "tags": [],
@@ -223,7 +223,7 @@
             "C-1287"
           ],
           "related_nodes": [
-            "N-122"
+            "N-121"
           ],
           "tags": [],
           "video_timestamp": "00:28:49–00:29:53",
@@ -272,7 +272,7 @@
           "description": "Riverbend Ranch tribute video message honoring Charlie Kirk, aired in episode as a sponsor/content segment",
           "related_claims": [],
           "related_nodes": [
-            "N-124",
+            "N-123",
             "N-1"
           ],
           "tags": [],
@@ -298,8 +298,8 @@
             "C-3738"
           ],
           "related_nodes": [
-            "N-123",
-            "N-116",
+            "N-122",
+            "N-115",
             "N-10130"
           ],
           "tags": [],
@@ -379,8 +379,8 @@
             "N-1",
             "N-38",
             "N-55",
+            "N-115",
             "N-116",
-            "N-117",
             "N-10000"
           ],
           "tags": [],
@@ -397,7 +397,7 @@
             "C-3732"
           ],
           "related_nodes": [
-            "N-118"
+            "N-117"
           ],
           "tags": [],
           "video_timestamp": "00:08:02–00:08:25",
@@ -414,7 +414,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-121"
+            "N-120"
           ],
           "tags": [],
           "video_timestamp": "00:39:29–00:39:42",
@@ -430,7 +430,7 @@
             "C-3734"
           ],
           "related_nodes": [
-            "N-125"
+            "N-124"
           ],
           "tags": [],
           "video_timestamp": "00:41:46–00:42:03",
@@ -490,7 +490,7 @@
             "C-13811"
           ],
           "related_nodes": [
-            "N-121",
+            "N-120",
             "N-3",
             "N-1"
           ],
@@ -827,8 +827,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-116",
-      "ref": "N-116",
+      "@id": "N-115",
+      "ref": "N-115",
       "name": "Xaviaer DuRousseau",
       "type": "person",
       "description": "Influencer who attended Hamptons weekend, released video addressing the event and using phrase 'moral blackmail' to describe Charlie's framing.",
@@ -852,8 +852,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-117",
-      "ref": "N-117",
+      "@id": "N-116",
+      "ref": "N-116",
       "name": "Natasha Hausdorff",
       "type": "person",
       "description": "Named as attendee of Hamptons weekend retreat.",
@@ -891,8 +891,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-118",
-      "ref": "N-118",
+      "@id": "N-117",
+      "ref": "N-117",
       "name": "Marissa Streit",
       "type": "person",
       "description": "PragerU host noted in episode; mentioned as having worked for IDF intelligence and platform used by Xaviaer DuRousseau for Hamptons response video.",
@@ -947,8 +947,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-119",
-      "ref": "N-119",
+      "@id": "N-118",
+      "ref": "N-118",
       "name": "Elon Musk",
       "type": "person",
       "description": "Referenced as co-architect of the original federal Department of Government Efficiency alongside Vivek Ramaswamy.",
@@ -966,8 +966,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-120",
-      "ref": "N-120",
+      "@id": "N-119",
+      "ref": "N-119",
       "name": "Vivek Ramaswamy",
       "type": "person",
       "description": "Referenced as co-architect of the original federal Department of Government Efficiency alongside Elon Musk.",
@@ -1021,8 +1021,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-121",
-      "ref": "N-121",
+      "@id": "N-120",
+      "ref": "N-120",
       "name": "Taylor Lorenz",
       "type": "person",
       "description": "Commenter quoted by host for X post asserting Candace Owens appears to be the only right-wing figure genuinely grieving Charlie Kirk.",
@@ -1041,8 +1041,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-122",
-      "ref": "N-122",
+      "@id": "N-121",
+      "ref": "N-121",
       "name": "Range Day Bro",
       "type": "person",
       "description": "YouTuber whose viral video analysis (6M views) presents muzzle flash, blood-splatter entry-wound, and suspicious-bush theories. Host engages and partially debunks.",
@@ -1064,8 +1064,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-123",
-      "ref": "N-123",
+      "@id": "N-122",
+      "ref": "N-122",
       "name": "Emily (Saves America)",
       "type": "person",
       "description": "Influencer whose August 6 Instagram post revealing she was in the Hamptons is cited as contradicting Xaviaer DuRousseau's safety-based secrecy claim.",
@@ -1083,8 +1083,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-124",
-      "ref": "N-124",
+      "@id": "N-123",
+      "ref": "N-123",
       "name": "Riverbend Ranch CEO",
       "type": "person",
       "description": "Unnamed CEO of Riverbend Ranch met by host with Charlie years prior; produced tribute segment aired in this episode.",
@@ -1120,8 +1120,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-125",
-      "ref": "N-125",
+      "@id": "N-124",
+      "ref": "N-124",
       "name": "Nikki Haley",
       "type": "person",
       "description": "Referenced in comment about representatives signing bombs; host notes 'Nikki Haley signing bombs'.",
@@ -1475,8 +1475,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-173",
-      "ref": "N-173",
+      "@id": "N-172",
+      "ref": "N-172",
       "name": "Tate Brothers (Andrew and Tristan)",
       "type": "person",
       "description": "Andrew Tate is named by the host among claimed funders; no claim is made about his actual conduct.",
@@ -1767,10 +1767,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
-        "N-15",
-        "N-119",
-        "N-124"
+        "N-15"
       ]
     },
     {
@@ -1801,7 +1798,7 @@
       "@id": "C-1287",
       "ref": "C-1287",
       "label": "Windows in the flag hall do not open, complicating the inside-source muzzle flash theory",
-      "claim": "Host argues that if the alleged muzzle flash originated inside the flag hall area, the relevant window does not open and broken glass should be visible.",
+      "claim": "The host says that, from everything she could see in the photos, the window in the flag hall does not open, so if the muzzle flash Range Day Bro describes came from inside, broken glass should be visible; she says she may be wrong and asks to be corrected.",
       "anchored_artifacts": [
         "A-1163.1",
         "A-1166.1"
@@ -1816,7 +1813,7 @@
       "confidence": "medium",
       "uncertainty_note": "Window-doesn't-open claim made by host based on photos; not independently verified.",
       "mentions_person_refs": [
-        "N-122"
+        "N-121"
       ]
     },
     {
@@ -1837,7 +1834,7 @@
       "transcript_snippet": "that's actually not blood splatter. And I was very surprised by this. It's his necklace.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-122",
+        "N-121",
         "N-1"
       ]
     },
@@ -1845,8 +1842,8 @@
       "@type": "Claim",
       "@id": "C-1289",
       "ref": "C-1289",
-      "label": "Suspicious-bush rooftop theory partially corroborated by ground photographs",
-      "claim": "Host states that she sent someone to photograph the suspicious bush from Range Day Bro's analysis, and the resulting images show the bush is translucent, consistent with a figure possibly hidden behind it.",
+      "label": "Host Says Ground Photos Show the Bush Is See-Through Unlike Range Day Bro's Image",
+      "claim": "The host says she sent someone to photograph the bush from Range Day Bro's analysis; in the photos she is looking at, the bush can be seen through, while in his grainy image it does not seem to be, and she says she is interested and will keep pursuing it.",
       "anchored_artifacts": [
         "A-1163.3"
       ],
@@ -1859,15 +1856,15 @@
       "transcript_snippet": "I sent somebody there on the ground to get me pictures of that bush today… you can kind of see through it.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-122"
+        "N-121"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-1290",
       "ref": "C-1290",
-      "label": "Rooftop runner footage filmer was not contacted by federal authorities until September 15",
-      "claim": "The individual who filmed the shooter running across the rooftop told the host that neither the feds nor local police ever contacted him before September 15, despite the footage having gone viral on day one.",
+      "label": "Rooftop Runner Footage Filmer Was Never Contacted by Federal or Local Authorities",
+      "claim": "The host says the individual who filmed the shooter running across the rooftop told her that neither the feds nor the local police had ever reached out to him.",
       "anchored_artifacts": [
         "A-1164.2"
       ],
@@ -1930,7 +1927,7 @@
       "transcript_snippet": "Charlie spoke about feeling morally blackmailed.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-116",
+        "N-115",
         "N-1"
       ]
     },
@@ -1956,7 +1953,7 @@
         "C-1292"
       ],
       "mentions_person_refs": [
-        "N-116",
+        "N-115",
         "N-1"
       ]
     },
@@ -1980,8 +1977,8 @@
       "transcript_snippet": "one of the influencers did post on August 6th that she was in the Hamptons.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-116",
-        "N-123"
+        "N-115",
+        "N-122"
       ]
     },
     {
@@ -1989,7 +1986,7 @@
       "@id": "C-3738",
       "ref": "C-3738",
       "label": "Emily's August 6 Hamptons Instagram post contradicts Xaviaer DuRousseau's safety-based secrecy claim (revises C-1293)",
-      "claim": "C-1293's title spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-116). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.",
+      "claim": "C-1293's title spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-115). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.",
       "anchored_artifacts": [
         "A-1165.2",
         "A-1169.1"
@@ -2007,8 +2004,8 @@
         "C-1293"
       ],
       "mentions_person_refs": [
-        "N-116",
-        "N-123"
+        "N-115",
+        "N-122"
       ]
     },
     {
@@ -2089,7 +2086,7 @@
       "@id": "C-1296",
       "ref": "C-1296",
       "label": "Netanyahu tweeted about Charlie Kirk's death before the US President",
-      "claim": "Host asserts that Benjamin Netanyahu tweeted about Charlie Kirk's death before the President of the United States and subsequently misrepresented the contents of a May letter from Charlie Kirk on Fox News and Greta Van Susteren's show.",
+      "claim": "The host says Benjamin Netanyahu tweeted about Charlie Kirk's death before the President of the United States, and that, on Fox News and Greta Van Susteren's show, 'he' lied about the contents of a letter Charlie Kirk had written him in May.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2109,8 +2106,8 @@
       "@type": "Claim",
       "@id": "C-3642",
       "ref": "C-3642",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
-      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "label": "Host Plugs CIA Merch With Joke About Laura Loomer",
+      "claim": "The host invites viewers to buy 'CIA merch' so that, she jokes, she can be arrested by Laura Loomer and her tweets reported by Laura Loomer.",
       "anchored_artifacts": [
         "A-2486.1"
       ],
@@ -2121,7 +2118,8 @@
       "transcript_snippet": "...vaccines if you're a parent, or buy yourself some CIA merch so that we can be arrested by Laura Loomer and her tweets reported by Laura Loomer. Um, bey...",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-60"
       ]
     },
     {
@@ -2145,8 +2143,8 @@
         "N-1",
         "N-38",
         "N-55",
-        "N-116",
-        "N-117"
+        "N-115",
+        "N-116"
       ]
     },
     {
@@ -2154,7 +2152,7 @@
       "@id": "C-3739",
       "ref": "C-3739",
       "label": "Host names Hamptons attendees in response to Xaviaer DuRousseau's account (revises C-3731)",
-      "claim": "C-3731 spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-116). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Hausdorff\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
+      "claim": "C-3731 spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-115). Responding to DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff (transcript: \"Natasha Hausdorff\") and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend.",
       "anchored_artifacts": [
         "A-2520.1"
       ],
@@ -2173,8 +2171,8 @@
         "N-1",
         "N-38",
         "N-55",
-        "N-116",
-        "N-117"
+        "N-115",
+        "N-116"
       ]
     },
     {
@@ -2193,7 +2191,7 @@
       "transcript_snippet": "I know Marissa Streit. This is I am looking at Marissa Streit right there.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-118"
+        "N-117"
       ]
     },
     {
@@ -2201,7 +2199,7 @@
       "@id": "C-3733",
       "ref": "C-3733",
       "label": "Host credits Taylor Lorenz for noting her isolation",
-      "claim": "The host gives a shout out to Taylor Lorenz (transcript: \"Taylor Lorenz\", also \"Taylor Lorenz\"), who she says asked on X why Candace seemed to be the only one speaking out.",
+      "claim": "The host gives a shout out to Taylor Lorenz, who she says wrote on X asking why she felt Candace was the only one who actually cared about Charlie.",
       "anchored_artifacts": [
         "A-2520.3"
       ],
@@ -2213,7 +2211,7 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3",
-        "N-121"
+        "N-120"
       ]
     },
     {
@@ -2232,7 +2230,7 @@
       "transcript_snippet": "Like Nikki Haley signing bombs.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-125"
+        "N-124"
       ]
     },
     {
@@ -2247,7 +2245,7 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:02:19",
       "investigative_direction": "Obtain Hammer's and Dillon's own public statements about the Hamptons weekend and compare them with the accounts of other attendees.",
@@ -2274,7 +2272,7 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:02:55",
       "investigative_direction": "Obtain Netanyahu's own account of the call (he told interviewers he phoned Kirk weeks before the shooting) and any contemporaneous message logs.",
@@ -2299,7 +2297,7 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:03:04",
       "investigative_direction": "Find a first-hand source (message, recording or attendee) in which Charlie uses the word intervention about the weekend.",
@@ -2325,7 +2323,7 @@
         "N-10000"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:03:04",
       "investigative_direction": "Identify who relayed the offer to the host and obtain any written record of what was proposed and to whom.",
@@ -2340,7 +2338,7 @@
       "@id": "C-13735",
       "ref": "C-13735",
       "label": "Host Says People Thought Charlie's Ideas Were Trending in the Wrong Direction",
-      "claim": "The host says that people around Charlie thought his ideas were trending in the wrong direction, and that no one wants to address her points because she was being honest.",
+      "claim": "The host says that people thought Charlie's ideas were trending in the wrong direction, and that no one wants to address her points because she was being honest.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10134"
@@ -2389,13 +2387,13 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:03:52",
       "investigative_direction": "Obtain the message exchange and the date of DuRousseau's video.",
       "transcript_snippet": "rather than answering messaged me to say I am speaking out about that weekend,",
       "mentions_person_refs": [
-        "N-116",
+        "N-115",
         "N-3"
       ]
     },
@@ -2413,13 +2411,13 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:04:09",
       "investigative_direction": "Compare DuRousseau's workshop description with accounts from other attendees and with the agenda of the weekend.",
       "transcript_snippet": "but this was done in more of a workshop setting essentially like like it was a debate club",
       "mentions_person_refs": [
-        "N-116",
+        "N-115",
         "N-1"
       ]
     },
@@ -2436,13 +2434,13 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:04:28",
       "investigative_direction": "Locate the article DuRousseau calls the hit piece and any draft or deleted post matching the description.",
       "transcript_snippet": "it talks about how Charlie raised up his phone and had written on Twitter and he said something like BB needs to resign or something like that.",
       "mentions_person_refs": [
-        "N-116",
+        "N-115",
         "N-1",
         "N-36"
       ]
@@ -2461,13 +2459,13 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:04:44",
       "investigative_direction": "Identify the woman and corroborate the exchange with other attendees.",
       "transcript_snippet": "If you do that, you're indirectly going to empower Hamas.",
       "mentions_person_refs": [
-        "N-116",
+        "N-115",
         "N-1"
       ]
     },
@@ -2485,13 +2483,13 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:04:52",
       "investigative_direction": "Compare with Charlie's own words to Megyn Kelly the next day and with other attendees' recollections.",
       "transcript_snippet": "you need to stop doing it emotionally. You need to do it logically and factually,",
       "mentions_person_refs": [
-        "N-116",
+        "N-115",
         "N-1"
       ]
     },
@@ -2507,7 +2505,7 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:05:25",
       "investigative_direction": "Corroborate the tone of the exchange with other attendees and with Dillon's and Hammer's own accounts.",
@@ -2533,7 +2531,7 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:05:48",
       "investigative_direction": "Locate the Megyn Kelly recording the host says she has played several times and confirm its date.",
@@ -2558,7 +2556,7 @@
         "N-10000"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:06:02",
       "investigative_direction": "Compare TPUSA's usual promotion of influencer events with the lack of coverage of this weekend.",
@@ -2579,13 +2577,13 @@
         "N-10000"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:06:15",
       "investigative_direction": "Collect the first public posts from each attendee and compare them with the date the weekend first surfaced.",
       "transcript_snippet": "Xavier offered this explanation for why they didn't post about the weekend until they were rumbled about the weekend.",
       "mentions_person_refs": [
-        "N-116",
+        "N-115",
         "N-3"
       ]
     },
@@ -2602,13 +2600,13 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:06:34",
       "investigative_direction": "Check the dates of DuRousseau's Instagram photos and of other attendees' posts.",
       "transcript_snippet": "The reason we didn't post that in the real time was because of safety.",
       "mentions_person_refs": [
-        "N-116"
+        "N-115"
       ]
     },
     {
@@ -2626,13 +2624,13 @@
         "N-10027"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:06:51",
       "investigative_direction": "Review the captions and tags on the attendees' posts for any mention of TPUSA.",
       "transcript_snippet": "you guys never connected to Turning Point USA publicly.",
       "mentions_person_refs": [
-        "N-116",
+        "N-115",
         "N-3"
       ]
     },
@@ -2655,7 +2653,7 @@
       "investigative_direction": "Check Streit's public biography and interviews for her IDF intelligence service.",
       "transcript_snippet": "Marissa has never always been open about the fact that she worked for the IDF intelligence.",
       "mentions_person_refs": [
-        "N-118",
+        "N-117",
         "N-3"
       ]
     },
@@ -2671,7 +2669,7 @@
         "N-10033"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:08:33",
       "investigative_direction": "Identify which donors or groups made the threats, when, and in what form.",
@@ -2796,7 +2794,7 @@
       "@id": "C-13755",
       "ref": "C-13755",
       "label": "Host Says Kolvet Was a Close Friend of Charlie's Who Still Has to Deal With the Same Donors",
-      "claim": "The host says Kolvet is a TPUSA spokesperson who is grieving someone he knew well, one of his best friends whom he saw every day on the Charlie Kirk show, and who still has to deal with the same donors that Charlie dealt with.",
+      "claim": "The host says Kolvet is a TPUSA spokesperson who is grieving somebody he knows, who was a very close if not one of his best friends, whom he saw every day doing the Charlie Kirk show, and that he still has to deal with the same donors that Charlie was dealing with.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2923,7 +2921,7 @@
       "@id": "C-13761",
       "ref": "C-13761",
       "label": "Host Says Something Trails Behind the Runner and Wonders If It Is the Towel",
-      "claim": "Watching the rooftop clip, the host says it looks as if the runner has something trailing behind him and suggests it may be the towel that officials have described.",
+      "claim": "Watching the rooftop clip, the host says it looks as if the runner has something trailing behind him and suggests it may be the towel that 'we've been told about'.",
       "anchored_artifacts": [
         "A-1164.1"
       ],
@@ -3305,9 +3303,7 @@
         "C-3632"
       ],
       "mentions_person_refs": [
-        "N-1",
-        "N-119",
-        "N-120"
+        "N-1"
       ]
     },
     {
@@ -3516,7 +3512,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-124"
+        "N-123"
       ]
     },
     {
@@ -3538,7 +3534,7 @@
       "investigative_direction": "Frame-by-frame review of the original video, with the audio waveform, to test the alignment.",
       "transcript_snippet": "you can see the same what appears to be the bullet coming down and it does line up with the actual gunshot itself.",
       "mentions_person_refs": [
-        "N-122",
+        "N-121",
         "N-3"
       ]
     },
@@ -3561,7 +3557,7 @@
       "investigative_direction": "Obtain the Marine friend's video and the autopsy or wound-description records.",
       "transcript_snippet": "So you'll see him circle the highlighted area right there and you'll see the exit wound corresponding after split second after as it would from an entry and exit wound.",
       "mentions_person_refs": [
-        "N-122",
+        "N-121",
         "N-1"
       ]
     },
@@ -3584,7 +3580,7 @@
       "investigative_direction": "Compare against the autopsy or medical findings on entry and exit wounds and against multiple-angle footage.",
       "transcript_snippet": "So in this footage you can clearly see that Charlie is shot from his back right and there is blood splatter coming out of the entry wound.",
       "mentions_person_refs": [
-        "N-122",
+        "N-121",
         "N-1"
       ]
     },
@@ -3610,7 +3606,7 @@
         "C-1288"
       ],
       "mentions_person_refs": [
-        "N-122",
+        "N-121",
         "N-1",
         "N-3"
       ]
@@ -3637,7 +3633,7 @@
         "C-1287"
       ],
       "mentions_person_refs": [
-        "N-122",
+        "N-121",
         "N-3"
       ]
     },
@@ -3660,7 +3656,7 @@
       "investigative_direction": "Obtain the host's on-site photographs and compare them with the original footage.",
       "transcript_snippet": "this part I have not been able to debunk, but I am sending someone there to get me similar footage,",
       "mentions_person_refs": [
-        "N-122",
+        "N-121",
         "N-3"
       ]
     },
@@ -3683,7 +3679,7 @@
       "investigative_direction": "Compare the original unblurred photo with on-site photography from the same angle and lighting.",
       "transcript_snippet": "this correlates with a human head and hair and a rifle in the exact kind of crucifix shape of an AR-15 with an optic on it mounted up.",
       "mentions_person_refs": [
-        "N-122"
+        "N-121"
       ]
     },
     {
@@ -3717,7 +3713,7 @@
       "@id": "C-13795",
       "ref": "C-13795",
       "label": "Host Says She Has Established Contact With the Doorbell Tipster and Calls It a Solid Lead",
-      "claim": "The host says she has established a connection with the doorbell-footage tipster and calls it a solid lead that will become more interesting as to who is involved in a cover-up.",
+      "claim": "The host says she has established a connection with \"that individual\", following her description of the tip about the unidentified woman, and calls it a solid lead that will become more interesting as to who is involved locally in a cover-up.",
       "anchored_artifacts": [
         "A-1167.1"
       ],
@@ -3739,7 +3735,7 @@
       "@id": "C-13796",
       "ref": "C-13796",
       "label": "Host Says a Utah Person Was Involved in the Local Cover-Up",
-      "claim": "The host says the lead points to who was involved locally in the cover-up, a Utah person, which she calls another fascinating piece of the puzzle.",
+      "claim": "The host says the lead will get more interesting as to who is involved in the cover-up locally, \"like a Utah person involved in that cover up\", which she calls another fascinating piece of the puzzle.",
       "anchored_artifacts": [
         "A-1167.1"
       ],
@@ -3808,7 +3804,7 @@
       "@id": "C-13799",
       "ref": "C-13799",
       "label": "Host Says the Fundraising Emails Were Not Written by Erika Kirk",
-      "claim": "The host says the fundraising emails people saw were not written by Erika Kirk and were produced by an entire department.",
+      "claim": "The host says the fundraising emails people saw were not written by Erika Kirk, and that fundraising emails would be handled by an entire department.",
       "anchored_artifacts": [
         "A-3279.1"
       ],
@@ -4008,7 +4004,7 @@
       "transcript_snippet": "I'm funded by Andrew Tate because Andrew Tate is also from the UK and my husband knew him before he met me,",
       "mentions_person_refs": [
         "N-3",
-        "N-173"
+        "N-172"
       ]
     },
     {
@@ -4070,7 +4066,7 @@
       "investigative_direction": "Locate the Taylor Lorenz post on X and confirm its text and date.",
       "transcript_snippet": "It's wild that Candace is the only right-wing wing figure that I've seen posting in a way where she seems genuinely devastated to lose Charlie as a friend.",
       "mentions_person_refs": [
-        "N-121",
+        "N-120",
         "N-3",
         "N-1"
       ]

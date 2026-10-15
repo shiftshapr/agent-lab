@@ -15,9 +15,9 @@
 - **Transcript SHA-256**: cbb9e2999e01f3fb5d31c3a20cfcda260ac22c9115d386f6ca88119e0d45131e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-940, N-11367, N-11368
+  - Tip-minted Nodes (supplement_2026-10g): N-938, N-11367, N-11368
   - Hole-minted Nodes (reintro-ep006): N-10083, N-10085, N-10119, N-10385
-  - Tip-minted Nodes (reintro-ep006): N-746, N-11084, N-11096, N-11103, N-11256
+  - Tip-minted Nodes (reintro-ep006): N-744, N-11084, N-11096, N-11103, N-11256
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-13600–C-13658
   - Artifact Families Introduced: A-1120, A-1121, A-1122, A-1123, A-1124, A-1125, A-1126, A-1127, A-1128, A-1129, A-1130, A-1131, A-1132, A-1133
@@ -459,7 +459,7 @@ President; subject of Kimmel's grief jokes; accused by host of being occupied by
 
 ---
 
-**N-80** Harley Pastnic
+**N-80** Harley Pasternak
 
 Node Type: Person
 Referenced as prior investigation target whose family had valve/pipe industry background
@@ -674,7 +674,7 @@ Host's recurring thesis that Israeli actors direct US media and speech-law effor
 
 ---
 
-**N-940** Kyrie Irving
+**N-938** Kyrie Irving
 
 First named by the host at 00:42:58 in episode 6. Basketball player the host says was shaken down to donate after he said something she did not like.
 
@@ -900,7 +900,7 @@ Topic reused: the cemetery clothing report.
 
 ---
 
-**N-746** Harley Pasternak
+**N-744** Harley Pasternak
 
 Person reused: named by the host as one of three investigated people with valve and piping backgrounds.
 
@@ -912,11 +912,11 @@ Person reused: named by the host as one of three investigated people with valve 
 
 **C-1205** Host Says Two Men Moved Charlie's Chair and Removed Camera Post-Shooting
 
-Claim Timestamp: 00:03:50
+Claim Timestamp: 00:03:26
 Claim: The host says footage she shows has two men appearing in the immediate aftermath of the shooting, one of whom moves Charlie Kirk's chair and takes down the camera above his head.
 Transcript Snippet: that same individual appears alongside another individual and he moves Charlie's chair
 Anchored Artifacts: A-1120.2
-Mentions: N-68, N-83, N-1
+Mentions: N-83, N-1
 Related Nodes: N-10076
 Confidence: high
 Investigative Direction: Identify both individuals via facial recognition, witness statements, and cross-reference against footage metadata.
@@ -941,7 +941,7 @@ Tags: open_source_investigation
 **C-1207** Host Says Camera Individual Appeared to Remove SD/SIM Card
 
 Claim Timestamp: 00:05:55
-Claim: The host says the footage she shows has the individual handling the camera appearing to remove the SD or SIM card before setting the camera on the desk.
+Claim: The host says the footage she shows has the individual handling the camera appearing to remove the SD or SIM card after setting the camera on the desk.
 Transcript Snippet: it looks like he removes the SIM card from it or the SD card if you will
 Anchored Artifacts: A-1120.3
 Mentions: N-83
@@ -951,10 +951,10 @@ Investigative Direction: Forensically examine the recovered camera for evidence 
 
 ---
 
-**C-1208** Camera individual claims long TPUSA association
+**C-1208** Host Says Camera Individual Has Been Around TPUSA for Years
 
 Claim Timestamp: 00:06:44
-Claim: The individual who handled the camera told the host he had been around Turning Point USA for years, dating to the host's early tenure.
+Claim: The host says the individual who handled the camera has been around Turning Point USA for years, going back to her own early days working there.
 Transcript Snippet: This person's been around Turning Point for quite some time, for years
 Anchored Artifacts: A-1122.1
 Mentions: N-3, N-83
@@ -970,7 +970,7 @@ Claim Timestamp: 00:11:36
 Claim: The footage shown to the host via FaceTime from the rear angle showed no blood or gore.
 Transcript Snippet: there's no blood... there's no blood from the back
 Anchored Artifacts: A-1122.2
-Mentions: N-1, N-2, N-83
+Mentions: N-1, N-83
 Related Nodes: N-10076
 Sensitive Tags: crime_scene_evidence
 Confidence: medium
@@ -1005,10 +1005,10 @@ Investigative Direction: Verify headline and byline on the Daily Mail site and c
 
 ---
 
-**C-1212** Bill Ackman stated Candace's credibility is failing
+**C-1212** PBD Guest Said Candace's Credibility Is Going Down the Tubes
 
 Claim Timestamp: 00:25:42
-Claim: On the PBD podcast, Bill Ackman stated that Candace Owens' credibility is going 'down the tubes' because she has not brought receipts.
+Claim: In a PBD podcast clip the host plays, a guest says Candace Owens' credibility is going to go "down the tubes" because she needs to bring receipts, and a speaker in the clip adds that Bill Ackman brought receipts.
 Transcript Snippet: her credibility, I mean, is going to go down the tubes because she needs to bring receipts
 Anchored Artifacts: A-1125.1
 Mentions: N-3, N-37, N-57
@@ -1034,13 +1034,13 @@ Investigative Direction: Read with C-1212; identify the PBD guest from the full 
 
 ---
 
-**C-1213** Andrew Kolvet claims last saw Candace at TPUSA in 2015/2016
+**C-1213** PBD Guest Said He Last Saw Candace at TPUSA in 2015 or 2016
 
 Claim Timestamp: 00:25:57
-Claim: On the PBD podcast, Andrew Kolvet, identifying himself as a TPUSA board member, said he last saw Candace Owens in person in 2015 or 2016 and that she has not attended a TPUSA event in many years.
+Claim: In a PBD podcast clip the host plays, a guest, asked whether he is on the board of Turning Point, says yes, that he last saw Candace Owens in person in 2015 or 2016, and that she was last at a Turning Point event not in many years.
 Transcript Snippet: When's the last time you saw Candace Owens in person? 2015, 2016
 Anchored Artifacts: A-1125.1
-Mentions: N-3, N-14, N-57
+Mentions: N-3, N-57
 Related Nodes: N-10000
 Contradicts: C-1223
 Confidence: high
@@ -1090,7 +1090,7 @@ Investigative Direction: Locate original Instagram post and verify date/time.
 **C-1217** Intelligence agencies monitor valve networks per viewer email
 
 Claim Timestamp: 00:17:47
-Claim: Per a viewer email, intelligence and regulatory agencies including CISA, NSA, and FERC monitor valve networks and maintain trusted relationships with manufacturers.
+Claim: Per a viewer email, intelligence and regulatory agencies including CISA, NSA, and FERC monitor valve networks and may maintain trusted relationships with manufacturers.
 Transcript Snippet: intelligence and regulatory agencies, the uh CISA, NSA, FERC monitor valve networks
 Anchored Artifacts: A-1123.1
 Related Nodes: N-10065, N-10067, N-10068, N-10069, N-10080
@@ -1113,8 +1113,8 @@ Investigative Direction: Verify company registration, address, and project portf
 
 **C-1219** Host Says Victoria Churchill Has APAC Connection
 
-Claim Timestamp: 00:35:46
-Claim: The host says Victoria Churchill of the Daily Mail has a connection to APAC, and shows photos of her at APAC events including a 2018 DC conference.
+Claim Timestamp: 00:29:40
+Claim: The host says Victoria Churchill of the Daily Mail has a connection to AIPAC, and shows a picture of her sitting in the audience at AIPAC, starting off 2018 in DC.
 Anchored Artifacts: 
 Mentions: N-84
 Related Nodes: N-10073, N-10081
@@ -1131,17 +1131,17 @@ Claim Timestamp: 00:42:01
 Claim: The host says FCC Chairman Brendan Carr threatened federal action against ABC affiliates that carried Jimmy Kimmel's show.
 Transcript Snippet: Brendan Carr... threatened federal action against ABC affiliates who carried the show
 Anchored Artifacts: A-1128.1
-Mentions: N-89, N-92, N-87
+Mentions: N-92, N-87
 Related Nodes: N-10071, N-10072, N-10079
 Confidence: high
 Investigative Direction: Locate full Carr interview on Benny Johnson show and verify against FCC official statements.
 
 ---
 
-**C-1221** Charlie Kirk tweet defended Milgram and Lachinsky
+**C-1221** Host Says Kirk Tweet Called Milgram and Lischinsky Beautiful People
 
 Claim Timestamp: 00:32:52
-Claim: Charlie Kirk authored a tweet in May about the assassinations of Sarah Milgram and Yaron Lischinsky, calling them beautiful people and pushing back against speech restrictions.
+Claim: The host says Charlie Kirk, in a long tweet he sent her in a message from May, called Sarah Milgram and Yaron Lischinsky beautiful people and pushed back against using their killings to justify restricting free speech.
 Transcript Snippet: these were beautiful people. They had their lives ahead of them
 Anchored Artifacts: A-1129.1
 Mentions: N-90, N-91, N-1
@@ -1153,7 +1153,7 @@ Investigative Direction: Locate original Charlie Kirk tweet and verify date and 
 **C-1222** Charlie texted Candace on May 22 about speech censorship
 
 Claim Timestamp: 00:32:59
-Claim: Charlie Kirk texted host on May 22 saying 'speech censorship is coming to America.'
+Claim: The host says that on May 22 she wrote to Charlie Kirk that speech censorship is coming to America, after he sent her his tweet, and that he wrote back.
 Transcript Snippet: speech censorship is coming to America... the date here is May 22nd of this year
 Anchored Artifacts: A-1129.2
 Mentions: N-1, N-3
@@ -1219,7 +1219,7 @@ Investigative Direction: Verify DQ marketing rollout date for the maple cookie s
 
 **C-1227** Netanyahu stated he would work with US to prosecute Israel critics
 
-Claim Timestamp: 00:43:09
+Claim Timestamp: 00:35:42
 Claim: Host claims Netanyahu said on record that he was working with the U.S. government to put critics of Israel on the wrong side of the law.
 Anchored Artifacts: 
 Mentions: N-36
@@ -1233,7 +1233,7 @@ Investigative Direction: Locate the specific Netanyahu clip and verify exact wor
 **C-3637** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:52:48
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: The host says her CIA merchandise stands for the Candace Intelligence Agency and that some people think it stands for the Decentralized Intelligent Agency, which she loves.
 Transcript Snippet: ...people think that it actually says like CIA, the Decentralized Intelligent Agency. I love it. Our products are great. Uh, and that's way that you can just show support and s...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1422,7 +1422,7 @@ Investigative Direction: Request TPUSA's written position on release of the back
 
 Claim Timestamp: 00:10:09
 
-Claim: The host says the man told her he does not want to give more footage to the internet out of loyalty to Erika Kirk, who has already seen so many people watch the last seconds of Charlie's life.
+Claim: The host says the man, out of loyalty to Erika Kirk, also does not want to give more footage to the internet, and that it is traumatizing for people to watch the last second of Charlie's life.
 
 Transcript Snippet: And so out of a a loyalty to Erika, he also doesn't want to give more footage to the internet.
 
@@ -1459,7 +1459,7 @@ Claim: The host says she thought the feds had said at some point that they were 
 Transcript Snippet: but like I thought the feds were saying they were looking for a bullet at some point,
 
 Anchored Artifacts: A-1122.2
-Mentions: N-3, N-68
+Mentions: N-3
 Related Nodes: N-10085, N-10014
 Tags: relevance:core
 Investigative Direction: Search FBI and Utah press briefings from September 10 to 12, 2025 for statements that investigators were searching for a bullet.
@@ -1536,7 +1536,7 @@ Investigative Direction: Pull property and employment records for residents of t
 
 Claim Timestamp: 00:15:20
 
-Claim: The host says she showed one or two of the employees, that the husband and wife she had mentioned work for Caldera Engineering, and that the company purports to manufacture valves.
+Claim: The host says she thinks she showed one or two of the employees, that the husband and wife she had mentioned work for Caldera Engineering, and that the company purports to manufacture valves.
 
 Transcript Snippet: The husband and wife I had mentioned worked for Caldera Engineering and it is a country that purports to manufacture valves.
 
@@ -1558,7 +1558,7 @@ Claim: The host says that, including Harley Pasternak, three people she has inve
 Transcript Snippet: thus far three people who I've investigated who oddly either them or their families had backgrounds working in this very niche valve and piping industry,
 
 Anchored Artifacts: 
-Mentions: N-3, N-746
+Mentions: N-3, N-744
 Related Nodes: N-10054, N-10080
 Supports: C-3726
 Tags: relevance:context
@@ -1704,7 +1704,7 @@ Investigative Direction: Obtain the memorial speaker roster and invitation list 
 
 Claim Timestamp: 00:26:41
 
-Claim: In the replayed PBD clip, a speaker says Candace no longer speaks at Turning Point events, which the host disputes by pointing to her appearances on the stage and tour the year before.
+Claim: In the replayed PBD clip, a speaker says Candace no longer speaks at Turning Point events, which the host disputes by saying she spoke at two Turning Point conferences the year before and playing a clip of her on the stage.
 
 Transcript Snippet: No, no, no. She doesn't speak at the events anymore. Okay. So, first and foremost,
 
@@ -1754,7 +1754,7 @@ Investigative Direction: Compare the dates of her Daily Wire departure and the T
 
 Claim Timestamp: 00:29:01
 
-Claim: The host says that after she said 'Israel, you're not special' on the stage, Charlie got in trouble for what she said and the donors then came inward.
+Claim: The host says that after she said 'Israel, you're not special' on the stage, Charlie got in trouble for what she said and then 'they came inward'.
 
 Transcript Snippet: Like, Israel, you're not special. And yeah, Charlie got in trouble for the stuff that I said on stage and then they came inward.
 
@@ -1982,16 +1982,16 @@ Investigative Direction: Find recorded Kirk statements and the debate on speech 
 
 ---
 
-**C-13644** A Speaker Says the Feds Were Involved in Charlie's Death to Push Through Speech Laws
+**C-13644** Host Says the Feds Were Involved in Charlie's Death to Push Through Speech Laws
 
 Claim Timestamp: 00:37:23
 
-Claim: A speaker answering the host's question whether she is cynical says the feds are obviously lying and, at some level in a very big way, were involved in the death of Charlie because they wanted a radical way to push through laws.
+Claim: The host says the feds are obviously lying and, at some level in a very big way, were involved in the death of Charlie because they wanted a radical way to push through laws.
 
 Transcript Snippet: Yeah. The feds are obviously lying and I would say at some level in a very big way were involved in the death of Charlie because they wanted this sort of radical way to push through laws.
 
 Anchored Artifacts: 
-Mentions: N-1
+Mentions: N-1, N-3
 Related Nodes: N-10079, N-10014
 Tags: relevance:core
 Investigative Direction: The transcript does not mark speaker turns; replay the audio to attribute the line, then request any evidence of federal involvement.
@@ -2055,7 +2055,7 @@ Claim: The host says the donation demand is a shakedown like what was done to Ky
 Transcript Snippet: What? That's that's that's a shakedown. That's what they did to Kyrie Irving. I don't like what you said.
 
 Anchored Artifacts: 
-Mentions: N-3, N-87, N-940
+Mentions: N-3, N-87, N-938
 Related Nodes: N-10119
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on the 2022 Kyrie Irving suspension and the donation he was asked to make.
@@ -2073,7 +2073,7 @@ Transcript Snippet: Tik Tok, by the way, did you guys see this? Um, Israel's pre
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11103, N-11096
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Read the TikTok US joint venture announcement and investor list from September 2025 and check each investor's ties.
 
 ---
@@ -2089,7 +2089,7 @@ Transcript Snippet: No, Tik Tok was going pro Palestine and a bunch of hedge fun
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11103, N-11096
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review reporting on TikTok content moderation changes and the investor group in 2025.
 
 ---
@@ -2131,7 +2131,7 @@ Investigative Direction: Get the Dairy Queen franchise's promotion calendar and 
 
 Claim Timestamp: 00:49:12
 
-Claim: The host says there is not a place in the world with the bandwidth to keep 24-hour footage inside a restaurant dating back months, and that her home cameras overwrite every 48 or 72 hours, up to a week at most.
+Claim: The host says there is not a place in the world with the bandwidth to keep 24-hour footage inside a restaurant dating back months, and that she thinks her home cameras overwrite every 48 or 72 hours, with one week the most you might see.
 
 Transcript Snippet: uh July, just so you guys understand, there is not a place in the world that would have the bandwidth to keep 24-hour footage inside of their restaurant dating back months.
 
@@ -2147,7 +2147,7 @@ Investigative Direction: Ask the Dairy Queen franchise or its camera vendor abou
 
 Claim Timestamp: 00:49:53
 
-Claim: The host says her source was very specific, including saying that the suspect threw away clothes in the nearby cemetery, and that the person was very confident when sharing it.
+Claim: The host says her source was very specific, including saying that they threw away clothes in the nearby cemetery, and that the person was very confident when sharing it.
 
 Transcript Snippet: It was very specific. And also saying that they threw away clothes in the nearby cemetery was very specific.
 
@@ -2212,7 +2212,7 @@ Investigative Direction: Record tip volume and what follow-up the host reports i
 
 Claim Timestamp: 00:52:10
 
-Claim: The host says the PBD guest said Andrew Kolvet was there in the Hamptons and responds that he was not, saying Kolvet was definitely not there.
+Claim: The host says that in the PBD segment 'he' says Andrew Kolvet was there in the Hamptons, and responds that he was not, saying Kolvet was definitely not there.
 
 Transcript Snippet: "Andrew Kolvet was there in the Hamptons." No, he wasn't. Andrew Kolvet was definitely not there in the Hamptons.
 

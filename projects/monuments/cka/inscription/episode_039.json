@@ -35,13 +35,13 @@
             "C-1808"
           ],
           "related_nodes": [
+            "N-294",
+            "N-295",
             "N-296",
             "N-297",
             "N-298",
-            "N-299",
-            "N-300",
-            "N-303",
-            "N-304",
+            "N-301",
+            "N-302",
             "N-10306"
           ],
           "tags": [],
@@ -146,7 +146,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-190"
+            "N-188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -196,8 +196,8 @@
             "C-1814"
           ],
           "related_nodes": [
-            "N-190",
-            "N-301",
+            "N-188",
+            "N-299",
             "N-10298",
             "N-10300"
           ],
@@ -217,7 +217,7 @@
             "C-1815"
           ],
           "related_nodes": [
-            "N-190",
+            "N-188",
             "N-10298"
           ],
           "tags": [],
@@ -236,8 +236,8 @@
             "C-1816"
           ],
           "related_nodes": [
-            "N-190",
-            "N-301",
+            "N-188",
+            "N-299",
             "N-10298"
           ],
           "tags": [],
@@ -256,7 +256,7 @@
             "C-1817"
           ],
           "related_nodes": [
-            "N-190",
+            "N-188",
             "N-41",
             "N-10301"
           ],
@@ -337,7 +337,7 @@
             "C-3718"
           ],
           "related_nodes": [
-            "N-295",
+            "N-293",
             "N-10014"
           ],
           "tags": [],
@@ -367,7 +367,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-190",
+            "N-188",
             "N-10289",
             "N-10288"
           ],
@@ -459,8 +459,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-295",
-      "ref": "N-295",
+      "@id": "N-293",
+      "ref": "N-293",
       "name": "Charles Joseph Bonaparte",
       "type": "person",
       "description": "Reported by host as founder of the FBI; tied in host's narrative to the broader French-American institutional framework. Mentioned without artifact anchor.",
@@ -479,8 +479,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-297",
-      "ref": "N-297",
+      "@id": "N-295",
+      "ref": "N-295",
       "name": "Robert H. Richards III",
       "type": "person",
       "description": "Father of Robert Richards IV; retired partner at Richards Layton & Finger law firm per Vanity Fair article.",
@@ -496,15 +496,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-296",
+        "N-294",
         "N-10303",
         "N-10306"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-296",
-      "ref": "N-296",
+      "@id": "N-294",
+      "ref": "N-294",
       "name": "Robert Richards IV",
       "type": "person",
       "description": "DuPont chemical heir; convicted in 2009 of raping three-year-old daughter; admitted to assaulting infant son; received treatment in lieu of prison per Judge Jan Jordan ruling.",
@@ -523,15 +523,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-297",
-        "N-304",
+        "N-295",
+        "N-302",
         "N-10306"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-304",
-      "ref": "N-304",
+      "@id": "N-302",
+      "ref": "N-302",
       "name": "Judge Jan Jordan",
       "type": "person",
       "description": "Sentenced Robert Richards IV to treatment in lieu of prison for 2009 rape conviction.",
@@ -547,13 +547,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-296"
+        "N-294"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-298",
-      "ref": "N-298",
+      "@id": "N-296",
+      "ref": "N-296",
       "name": "John DuPont",
       "type": "person",
       "description": "Shot Olympic wrestler David Schultz dead in driveway of family mansion in 1996; died in prison.",
@@ -569,14 +569,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-303",
+        "N-301",
         "N-10306"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-303",
-      "ref": "N-303",
+      "@id": "N-301",
+      "ref": "N-301",
       "name": "David Schultz",
       "type": "person",
       "description": "Olympic wrestler murdered by John DuPont in 1996.",
@@ -592,13 +592,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-298"
+        "N-296"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-299",
-      "ref": "N-299",
+      "@id": "N-297",
+      "ref": "N-297",
       "name": "Lisa Dean DuPont",
       "type": "person",
       "description": "DuPont family member; per Vanity Fair, allegedly ordered killing of Las Vegas prostitute who was dating her drug-addicted son.",
@@ -614,14 +614,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-300",
+        "N-298",
         "N-10306"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-300",
-      "ref": "N-300",
+      "@id": "N-298",
+      "ref": "N-298",
       "name": "Christopher Mosley",
       "type": "person",
       "description": "Per Vanity Fair, killed Las Vegas prostitute at Lisa Dean DuPont's direction; died in prison.",
@@ -637,14 +637,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-299",
+        "N-297",
         "N-10306"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-190",
-      "ref": "N-190",
+      "@id": "N-188",
+      "ref": "N-188",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "TPUSA Senior Advancement Director; brought in by Tyler Bowyer; host describes her registered agent as located at 919 North Market Street, Wilmington; relevant LLC identified by host as Cloverstone Ventures.",
@@ -668,8 +668,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-301",
-      "ref": "N-301",
+      "@id": "N-299",
+      "ref": "N-299",
       "name": "Tyler Bowyer's brother (unnamed)",
       "type": "person",
       "description": "Per host assertion (not artifact-anchored), worked ten years in dental sales until Charlie's death, then took role in TPUSA real-estate program.",
@@ -687,8 +687,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Friend who joined Charlie Kirk on Maine family vacation with wife Eliza; captured final videos of Charlie per host.",
@@ -700,14 +700,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-221",
+        "N-219",
         "N-1"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-219",
+      "ref": "N-219",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Wife of Mikey McCoy; joined Charlie Kirk family vacation in Maine.",
@@ -719,7 +719,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -745,7 +745,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-190"
+        "N-188"
       ]
     },
     {
@@ -808,8 +808,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-190",
-        "N-301",
+        "N-188",
+        "N-299",
         "N-41"
       ]
     },
@@ -850,7 +850,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-297"
+        "N-295"
       ]
     },
     {
@@ -868,7 +868,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-190"
+        "N-188"
       ]
     },
     {
@@ -916,9 +916,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-294",
         "N-296",
-        "N-298",
-        "N-299"
+        "N-297"
       ]
     },
     {
@@ -943,8 +943,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-194",
-        "N-221"
+        "N-192",
+        "N-219"
       ]
     },
     {
@@ -1257,8 +1257,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-231",
-      "ref": "N-231",
+      "@id": "N-229",
+      "ref": "N-229",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Allie Beth Stuckey (transcribed Ally Stucky); said to have disputed the host's tour-planning account.",
@@ -1274,11 +1274,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-232",
-      "ref": "N-232",
+      "@id": "N-230",
+      "ref": "N-230",
       "name": "Lila Rose",
       "type": "person",
-      "description": "Lila Rose (transcribed Llaya Rose); said to have disputed the host's tour-planning account.",
+      "description": "Lila Rose (transcribed Lila Rose); said to have disputed the host's tour-planning account.",
       "related_artifacts": [],
       "related_claims": [
         "C-10983"
@@ -1291,8 +1291,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-283",
-      "ref": "N-283",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "Bob Evan",
       "type": "person",
       "description": "Bob Evan (Nebraska Secretary of State, Bob Evnen); met international professionals off the record per the host.",
@@ -1806,8 +1806,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-886",
-      "ref": "N-886",
+      "@id": "N-884",
+      "ref": "N-884",
       "name": "Eric Dupond-Moretti",
       "type": "person",
       "description": "First named by the host at 00:05:25 in episode 39. Transcribed Eric Dupond Moretti and Eric Dupon Moretti; the host says he made an argument for happy incest.",
@@ -1892,7 +1892,7 @@
       "claim_timestamp": "00:06:34",
       "investigative_direction": "Obtain certified court records of the 2009 Delaware conviction and compare to Vanity Fair account.",
       "mentions_person_refs": [
-        "N-296"
+        "N-294"
       ]
     },
     {
@@ -1911,8 +1911,8 @@
       "claim_timestamp": "00:07:45",
       "investigative_direction": "Obtain the sentencing order or contemporaneous news coverage of the Jordan ruling.",
       "mentions_person_refs": [
-        "N-296",
-        "N-304"
+        "N-294",
+        "N-302"
       ]
     },
     {
@@ -1931,8 +1931,8 @@
       "claim_timestamp": "00:08:36",
       "investigative_direction": "Cross-reference firm partnership records and Richards family genealogy.",
       "mentions_person_refs": [
-        "N-296",
-        "N-297"
+        "N-294",
+        "N-295"
       ]
     },
     {
@@ -1951,7 +1951,7 @@
       "claim_timestamp": "00:09:20",
       "investigative_direction": "Obtain the plea agreement and original charging documents.",
       "mentions_person_refs": [
-        "N-296"
+        "N-294"
       ]
     },
     {
@@ -1970,8 +1970,8 @@
       "claim_timestamp": "00:09:20",
       "investigative_direction": "Confirm against public court records of the John DuPont criminal case.",
       "mentions_person_refs": [
-        "N-298",
-        "N-303"
+        "N-296",
+        "N-301"
       ]
     },
     {
@@ -1990,8 +1990,8 @@
       "claim_timestamp": "00:10:39",
       "investigative_direction": "Locate contemporaneous court filings or the original Dominic Dunn Vanity Fair piece.",
       "mentions_person_refs": [
-        "N-299",
-        "N-300"
+        "N-297",
+        "N-298"
       ]
     },
     {
@@ -2150,7 +2150,7 @@
       "investigative_direction": "Obtain the supporting proof documentation and any internal TPUSA planning materials.",
       "mentions_person_refs": [
         "N-11",
-        "N-301"
+        "N-299"
       ]
     },
     {
@@ -2224,7 +2224,7 @@
       "transcript_snippet": "did you know that our FBI was founded by Charles Joseph Bonapart?",
       "mentions_person_refs": [
         "N-3",
-        "N-295"
+        "N-293"
       ]
     },
     {
@@ -2325,7 +2325,7 @@
       "investigative_direction": "Check the Becoming Brigitte season 2 episode where Dupond-Moretti was discussed and the source of the happy-incest characterization.",
       "transcript_snippet": "we were speaking about how he was kind of known a name for himself making an argument for happy incest.",
       "mentions_person_refs": [
-        "N-886",
+        "N-884",
         "N-3"
       ]
     },
@@ -2348,8 +2348,8 @@
       "investigative_direction": "Obtain the Vanity Fair article and the Delaware sentencing record to see who the critics were and whether the characterization holds.",
       "transcript_snippet": "Critics have since noted that such treatment is usually offered only to drug addicts or those in possession of child pornography, not convicted rapists.",
       "mentions_person_refs": [
-        "N-296",
-        "N-304"
+        "N-294",
+        "N-302"
       ]
     },
     {
@@ -2371,7 +2371,7 @@
       "investigative_direction": "Pull the New Castle County deed for the Greenville property and the civil docket for the ex-wife's damages suit.",
       "transcript_snippet": "Richards, who is unemployed and supported by a trust fund, owns a 5800 ft mansion in Greenville that he bought for $1.8 million in 2005.",
       "mentions_person_refs": [
-        "N-296"
+        "N-294"
       ]
     },
     {
@@ -2393,8 +2393,8 @@
       "investigative_direction": "Verify the genealogy against Richards family and DuPont family records and the cited registry entry.",
       "transcript_snippet": "his great-grandfather is the DuPont family patriarch Dupont and his father is Robert H.",
       "mentions_person_refs": [
-        "N-296",
-        "N-297"
+        "N-294",
+        "N-295"
       ]
     },
     {
@@ -2416,7 +2416,7 @@
       "transcript_snippet": "Hey Candace, is that the law firm that's filing the paperwork for you? And the answer to that is yes.",
       "mentions_person_refs": [
         "N-3",
-        "N-297"
+        "N-295"
       ]
     },
     {
@@ -2440,7 +2440,7 @@
       "transcript_snippet": "the founding partner of that firm who's since retired is DuPont. It's the DuPont family.",
       "mentions_person_refs": [
         "N-3",
-        "N-297"
+        "N-295"
       ]
     },
     {
@@ -2482,7 +2482,7 @@
       "investigative_direction": "Obtain the Delaware bail order and plea agreement in the Richards case.",
       "transcript_snippet": "was instead released on a $60,000 bail and eventually cpped a plea deal that involved him admitting that he had abused his children",
       "mentions_person_refs": [
-        "N-296"
+        "N-294"
       ]
     },
     {
@@ -2574,7 +2574,7 @@
       "transcript_snippet": "Also in that building happens to be um Stacy Sheridan's registered agent.",
       "mentions_person_refs": [
         "N-82",
-        "N-190"
+        "N-188"
       ]
     },
     {
@@ -2617,7 +2617,7 @@
       "investigative_direction": "Search Delaware corporate records for Cloverstone Ventures, its registered agent and members, and match payments against TPUSA filings.",
       "transcript_snippet": "which she was getting paid through. It could all be above board. I don't really know. But the one I'm speaking about is Cloverstone Ventures.",
       "mentions_person_refs": [
-        "N-190",
+        "N-188",
         "N-3"
       ]
     },
@@ -2639,7 +2639,7 @@
         "C-1479"
       ],
       "mentions_person_refs": [
-        "N-190",
+        "N-188",
         "N-11"
       ]
     },
@@ -2679,7 +2679,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-190"
+        "N-188"
       ]
     },
     {
@@ -2699,7 +2699,7 @@
       "investigative_direction": "Identify the photographer of the widely shared casket footage and the account that first posted it.",
       "transcript_snippet": "Stacy Sheridan is the one that was filming.",
       "mentions_person_refs": [
-        "N-190",
+        "N-188",
         "N-1"
       ]
     },
@@ -2720,7 +2720,7 @@
       "investigative_direction": "Confirm Sheridan's role in the memorial program and the White House observance from event programs and video.",
       "transcript_snippet": "She's eulogizing Charlie Kirk on stage. She is capturing intimate photos of his casket.",
       "mentions_person_refs": [
-        "N-190",
+        "N-188",
         "N-1"
       ]
     },
@@ -2892,7 +2892,7 @@
         "C-1776"
       ],
       "mentions_person_refs": [
-        "N-283"
+        "N-281"
       ]
     },
     {
@@ -2942,8 +2942,8 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-194",
-        "N-221"
+        "N-192",
+        "N-219"
       ]
     },
     {
@@ -3003,10 +3003,10 @@
       ],
       "claim_timestamp": "00:18:49",
       "investigative_direction": "Find the posts by Rose and Stuckey disputing the host and compare with their tour histories.",
-      "transcript_snippet": "I got like Llaya Rose and Ally Stucky who have never headlined their tour suddenly saying that's not true.",
+      "transcript_snippet": "I got like Lila Rose and Ally Stucky who have never headlined their tour suddenly saying that's not true.",
       "mentions_person_refs": [
-        "N-232",
-        "N-231",
+        "N-230",
+        "N-229",
         "N-3"
       ]
     },
@@ -3813,7 +3813,7 @@
       "transcript_snippet": "Tyler Bowyer has a younger brother who for 10 years has worked in dental sales until Charlie died because a unique opportunity presented itself at Turning Point USA",
       "mentions_person_refs": [
         "N-11",
-        "N-301",
+        "N-299",
         "N-1"
       ]
     },

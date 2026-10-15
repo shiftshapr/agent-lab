@@ -12,14 +12,14 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11397
-  - Hole-minted Nodes (reintro-ep085): N-424, N-10571, N-10572, N-10722
-  - Tip-minted Nodes (reintro-ep085): N-618, N-682, N-784, N-10919
+  - Hole-minted Nodes (reintro-ep085): N-422, N-10571, N-10572, N-10722
+  - Tip-minted Nodes (reintro-ep085): N-616, N-680, N-782, N-10919
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14450–C-14549
-  - Reused Nodes Appearing: N-10567, N-10566, N-5, N-9, N-14, N-15, N-17, N-22, N-30, N-36, N-37, N-39, N-55, N-69, N-82, N-99, N-126, N-182, N-194, N-213, N-216, N-224, N-458, N-605, N-606, N-10000, N-10011, N-10012, N-10015, N-10021, N-10022, N-10024, N-10027, N-10029, N-10048, N-10063, N-10110, N-10117, N-10129, N-10141, N-10142, N-10151, N-10153, N-10202, N-10229, N-10271, N-10300, N-10311, N-10316, N-10338, N-10349, N-10355, N-10360, N-10436, N-10443, N-10446, N-10505, N-10539, N-10541, N-10546, N-10563, N-10621, N-11011, N-11054, N-11080, N-11128, N-11129, N-11131
+  - Reused Nodes Appearing: N-10567, N-10566, N-5, N-9, N-14, N-15, N-17, N-22, N-30, N-36, N-37, N-39, N-55, N-69, N-82, N-99, N-125, N-180, N-192, N-211, N-214, N-222, N-456, N-603, N-604, N-10000, N-10011, N-10012, N-10015, N-10021, N-10022, N-10024, N-10027, N-10029, N-10048, N-10063, N-10110, N-10117, N-10129, N-10141, N-10142, N-10151, N-10153, N-10202, N-10229, N-10271, N-10300, N-10311, N-10316, N-10338, N-10349, N-10355, N-10360, N-10436, N-10443, N-10446, N-10505, N-10539, N-10541, N-10546, N-10563, N-10621, N-11011, N-11054, N-11080, N-11128, N-11129, N-11131
  - New Nodes Introduced: N-10568
- - Hole-minted Nodes (wave3): N-403, N-414, N-415
- - Reused Nodes Appearing: N-1, N-2, N-276
+ - Hole-minted Nodes (wave3): N-401, N-412, N-413
+ - Reused Nodes Appearing: N-1, N-2, N-274
  - (see registers)
 
 ## 6. Meme Register
@@ -322,19 +322,19 @@ Confidence Level: Medium
 
 # Node Register
 
-**N-415** Daniel Balou
+**N-413** Daniel Balou
 
 First named by the host at 00:10:32 in episode 85.
 
 *Related: C-2587, C-2588*
 
-**N-414** Frederick Vaglio
+**N-412** Frederick Vaglio
 
 First named by the host at 00:10:32 in episode 85.
 
 *Related: C-2587, C-2588*
 
-**N-403** Jean-Luc Baguer
+**N-401** Jean-Luc Baguer
 
 First named by the host at 00:10:32 in episode 85.
 
@@ -550,7 +550,7 @@ Alex Clark; the host relays her plane remark.
 
 ---
 
-**N-126** Mike Mitchell
+**N-125** Mike Mitchell
 
 Mike Mitchell; the family friend in the surrender account.
 
@@ -558,7 +558,7 @@ Mike Mitchell; the family friend in the surrender account.
 
 ---
 
-**N-182** Jared Kushner
+**N-180** Jared Kushner
 
 Jared Kushner; named in the Gaza real estate claim.
 
@@ -566,7 +566,7 @@ Jared Kushner; named in the Gaza real estate claim.
 
 ---
 
-**N-190** Stacy Sheridan
+**N-188** Stacy Sheridan
 
 Stacy Sheridan; with Erika when she learned of Charlie's death.
 
@@ -574,7 +574,7 @@ Stacy Sheridan; with Erika when she learned of Charlie's death.
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Mikey McCoy (transcribed 'Mikey' and 'Mikey McCoy'); the plane and assistant claims.
 
@@ -582,7 +582,7 @@ Mikey McCoy (transcribed 'Mikey' and 'Mikey McCoy'); the plane and assistant cla
 
 ---
 
-**N-213** Joe Kent
+**N-211** Joe Kent
 
 Joe Kent; named in the Patel investigation and resignation claims.
 
@@ -590,7 +590,7 @@ Joe Kent; named in the Patel investigation and resignation claims.
 
 ---
 
-**N-216** Alexis Wilkins
+**N-214** Alexis Wilkins
 
 Alexis Wilkins; named in the Russian-agent and Freemason-family claims.
 
@@ -598,7 +598,7 @@ Alexis Wilkins; named in the Russian-agent and Freemason-family claims.
 
 ---
 
-**N-224** Milo Yiannopoulos
+**N-222** Milo Yiannopoulos
 
 Milo Yiannopoulos; named in the AI-image claim.
 
@@ -606,7 +606,7 @@ Milo Yiannopoulos; named in the AI-image claim.
 
 ---
 
-**N-276** Nate Brooksby
+**N-274** Nate Brooksby
 
 Nate Brooksby; Washington County Sheriff who resigned.
 
@@ -614,7 +614,7 @@ Nate Brooksby; Washington County Sheriff who resigned.
 
 ---
 
-**N-282** Bari Weiss
+**N-280** Bari Weiss
 
 Bari Weiss; interviewed Erika Kirk.
 
@@ -622,7 +622,7 @@ Bari Weiss; interviewed Erika Kirk.
 
 ---
 
-**N-424** Derek Niekerk
+**N-422** Derek Niekerk
 
 Derek Niekerk; the host calls him Erika's personal security guard.
 
@@ -630,7 +630,7 @@ Derek Niekerk; the host calls him Erika's personal security guard.
 
 ---
 
-**N-458** Lindsey Graham
+**N-456** Lindsey Graham
 
 Lindsey Graham; the Disney World claims.
 
@@ -638,7 +638,7 @@ Lindsey Graham; the Disney World claims.
 
 ---
 
-**N-605** Katherine Locastro
+**N-603** Katherine Locastro
 
 Katherine LoCastro (transcribed LaCastro); with Erika on July 14 and when she learned of the death.
 
@@ -646,7 +646,7 @@ Katherine LoCastro (transcribed LaCastro); with Erika on July 14 and when she le
 
 ---
 
-**N-606** Scott Bessent
+**N-604** Scott Bessent
 
 Scott Bessent; named in the host's letters remark.
 
@@ -654,7 +654,7 @@ Scott Bessent; named in the host's letters remark.
 
 ---
 
-**N-618** Jessica Reed Kraus
+**N-616** Jessica Reed Kraus
 
 Jessica Reed Kraus (House Inhabit); named in the Kolvet and AI-image claims.
 
@@ -662,7 +662,7 @@ Jessica Reed Kraus (House Inhabit); named in the Kolvet and AI-image claims.
 
 ---
 
-**N-682** Jonathan Barcelo
+**N-680** Jonathan Barcelo
 
 Jonathan Barcelo (node spelled Barcelo); the Long Beach trip and background claims.
 
@@ -670,7 +670,7 @@ Jonathan Barcelo (node spelled Barcelo); the Long Beach trip and background clai
 
 ---
 
-**N-784** Matt Robinson
+**N-782** Matt Robinson
 
 Matt Robinson, Tyler Robinson's father.
 
@@ -1144,7 +1144,7 @@ Claim Timestamp: 00:10:32
 Claim: Jean-Luc Baguer is identified as a ringleader of the alleged conspiracy, alongside co-conspirators Frederick Vaglio and Daniel Balou.
 
 Anchored Artifacts: A-1903.1
-Mentions: N-415, N-414, N-403
+Mentions: N-413, N-412, N-401
 Related Nodes: N-10568
 Investigative Direction: Verify role assignments via French court documents.
 
@@ -1157,7 +1157,7 @@ Claim Timestamp: 00:11:16
 Claim: Daniel Balou, a retired intelligence officer, attempted suicide while in prison, impairing his ability to testify.
 
 Anchored Artifacts: A-1903.1
-Mentions: N-415, N-414, N-403
+Mentions: N-413, N-412, N-401
 Related Nodes: N-10568
 Investigative Direction: Verify incident via French press reporting or court records.
 
@@ -1170,7 +1170,7 @@ Claim Timestamp: 00:17:32
 Claim: In an interview with Bari Weiss, Erika Kirk stated "Yes, I do" in response to the question of whether she believes Tyler Robinson murdered her husband.
 
 Anchored Artifacts: A-1904.1
-Mentions: N-1, N-2, N-40, N-282
+Mentions: N-1, N-2, N-40, N-280
 Investigative Direction: Cross-check with the published version of the Bari Weiss interview.
 
 ---
@@ -1206,7 +1206,7 @@ Claim Timestamp: 00:20:50
 Claim: Frank Turek stated that Stacy Sheridan and Katherine Locastro were with Erika Kirk when she was informed of Charlie Kirk's death.
 
 Anchored Artifacts: A-1905.1
-Mentions: N-2, N-190, N-1, N-7
+Mentions: N-2, N-188, N-1, N-7
 Investigative Direction: Verify against other contemporaneous accounts.
 
 ---
@@ -1370,7 +1370,7 @@ Claim Timestamp: 00:28:15
 Claim: The host says Sheriff Nate Brooksby resigned from the Washington County Sheriff's Office.
 
 Anchored Artifacts: A-1910.1
-Mentions: N-276
+Mentions: N-274
 Related Nodes:
 Investigative Direction: Obtain official Washington County Commission statement and any press release explaining the resignation.
 
@@ -1395,7 +1395,7 @@ Claim Timestamp: 00:29:07
 Claim: The host says a statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.
 
 Anchored Artifacts: A-1910.1
-Mentions: N-276
+Mentions: N-274
 Related Nodes:
 Investigative Direction: Obtain the full Commission statement.
 
@@ -1633,7 +1633,7 @@ Claim: The host says the hitmen say that Daniel Balou, a retired intelligence of
 Transcript Snippet: the hitmen say that Daniel is the one that told them that they were doing this on behalf of the government.
 
 Anchored Artifacts: A-1903.1
-Mentions: N-415, N-3
+Mentions: N-413, N-3
 Related Nodes: N-10568
 Tags: relevance:context
 Investigative Direction: Check French court reporting for the hitmen's statements naming Balou as the source of the government claim.
@@ -1665,7 +1665,7 @@ Claim: The host says Jared Kushner and the Trumps are planning to turn Gaza into
 Transcript Snippet: say you're going to turn it into a real estate emperor uh empire uh like Jared Kushner and the Trumps are planning for Gaza.
 
 Anchored Artifacts: 
-Mentions: N-182, N-5, N-3
+Mentions: N-180, N-5, N-3
 Related Nodes: N-10063
 Tags: relevance:context
 Investigative Direction: Review public Gaza reconstruction plans attributed to Kushner or the administration, and Kushner's 2024 Harvard remarks.
@@ -1697,7 +1697,7 @@ Claim: The host says everyone involved on September 10 has a military connection
 Transcript Snippet: it is not a coincidence that everyone involved on September 10th happens to have a military connection, former military, military intelligence, uh Frank Turek, the McCoys, naval intelligence.
 
 Anchored Artifacts: 
-Mentions: N-7, N-194, N-17, N-3
+Mentions: N-7, N-192, N-17, N-3
 Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Compile verifiable military service and intelligence-career records for Turek, the McCoys and others named; separate documented service from the host's inference.
@@ -1826,7 +1826,7 @@ Claim: The host says Erika Kirk's sit-down with Bari Weiss took place literally 
 Transcript Snippet: it was her sit-down with Bari Weiss literally 72 hours before her and I sat down
 
 Anchored Artifacts: 
-Mentions: N-2, N-282, N-3
+Mentions: N-2, N-280, N-3
 Related Nodes: N-10349
 Tags: relevance:core
 Investigative Direction: Establish the recording date of the Weiss interview and the date of the host's meeting with Erika to confirm the 72-hour interval.
@@ -1842,7 +1842,7 @@ Claim: The host says that when she sat down with Erika Kirk 72 hours later, Erik
 Transcript Snippet: And then I sit down with her 72 hours later, and she tells me, and her lawyer confirms to me that they have nothing more than what the public has seen.
 
 Anchored Artifacts: 
-Mentions: N-2, N-3, N-282
+Mentions: N-2, N-3, N-280
 Related Nodes: N-10229
 Supports: C-8551
 Contradicts: C-2590
@@ -1908,7 +1908,7 @@ Claim: In the Turek clip, Turek says Mikey pulled himself together, called who n
 Transcript Snippet: Somehow Mikey pulled himself together. Called who needed to be called, asked the doctors all the hard questions.
 
 Anchored Artifacts: A-1905.1
-Mentions: N-7, N-194
+Mentions: N-7, N-192
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Match with call logs for Mikey McCoy at the hospital and with hospital staff accounts of who questioned the doctors.
@@ -1924,7 +1924,7 @@ Claim: The host says Justin Streiff told her he arranged all the planes that day
 Transcript Snippet: because Justin told me he arranged all the planes that day.
 
 Anchored Artifacts: 
-Mentions: N-15, N-194, N-3
+Mentions: N-15, N-192, N-3
 Related Nodes: N-10300
 Contradicts: C-2593
 Tags: relevance:core
@@ -1941,7 +1941,7 @@ Claim: The host says Erika Kirk's husband's death was met with no call to family
 Transcript Snippet: Again, no family call to come rush to be her by her side, but almost like this TPUSA cult of people, which is unnatural.
 
 Anchored Artifacts: 
-Mentions: N-2, N-190, N-605, N-3
+Mentions: N-2, N-188, N-603, N-3
 Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Ask Erika's family whether they were called that day and when; check phone records or statements.
@@ -2022,7 +2022,7 @@ Claim: The host says that on the evening of July 14 Erika Kirk, who did not atte
 Transcript Snippet: Erika, who did not attend SAS in Florida, uh, boarded a private plane with Katherine Locastro.
 
 Anchored Artifacts: 
-Mentions: N-2, N-605, N-682, N-3
+Mentions: N-2, N-603, N-680, N-3
 Related Nodes: N-10571, N-11080
 Tags: relevance:core
 Investigative Direction: Request the flight record for the July 14, 2025 trip (tail number, manifest, destination) and any Long Beach event or meeting.
@@ -2038,7 +2038,7 @@ Claim: The host says Katherine Locastro is Mikey McCoy's assistant (transcribed 
 Transcript Snippet: Again, that's Mikey McCoy's assistant, and she headed to Long Beach
 
 Anchored Artifacts: 
-Mentions: N-605, N-194, N-3
+Mentions: N-603, N-192, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff listings or LinkedIn for LoCastro's title and reporting line.
@@ -2054,7 +2054,7 @@ Claim: The host says Jonathan Barcelo was in the Marine Corps from 2013 until at
 Transcript Snippet: He's a Marine in the Marine Corps from 2013 at least until up in 2017.
 
 Anchored Artifacts: 
-Mentions: N-682, N-3
+Mentions: N-680, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Request his DD-214-equivalent public record or Marine Security Guard unit history; verify through public military records.
@@ -2070,7 +2070,7 @@ Claim: The host says the only posting she can find for Jonathan Barcelo is Chile
 Transcript Snippet: He also worked as a helicopter technician for an attack squadron.
 
 Anchored Artifacts: 
-Mentions: N-682, N-3
+Mentions: N-680, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Check public Marine and LinkedIn records for the Chile posting and the helicopter attack squadron assignment.
@@ -2086,7 +2086,7 @@ Claim: The host says Barcello worked as a private investigator and ran an invest
 Transcript Snippet: Then, uh, from 2017 to 2022, he worked as a private investigator, ran a private investigat- investigative firm.
 
 Anchored Artifacts: 
-Mentions: N-682, N-3
+Mentions: N-680, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Check Arizona PI licensing and business records for the firm, and ASU graduation records.
@@ -2102,7 +2102,7 @@ Claim: The host says Barcello got a job at Turning Point USA as a development op
 Transcript Snippet: suddenly he gets a job working in donations as development opera- operations administrator at Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-682, N-3
+Mentions: N-680, N-3
 Related Nodes: N-10000, N-10436
 Tags: relevance:core
 Investigative Direction: Check his LinkedIn or TPUSA job postings for these roles and dates.
@@ -2118,7 +2118,7 @@ Claim: The host says Erika's party on July 14 included Jonathan Barcelo, Mikey M
 Transcript Snippet: and Erika's personal security guard, Derek Niekerk.
 
 Anchored Artifacts: 
-Mentions: N-2, N-682, N-424, N-605, N-194, N-3
+Mentions: N-2, N-680, N-422, N-603, N-192, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Verify the manifest of the July 14 flight and Niekerk's role as Erika's security.
@@ -2134,7 +2134,7 @@ Claim: The host says the four stayed in Long Beach only a couple of hours and re
 Transcript Snippet: They only stayed for a couple of hours, and then they returned to Scottsdale, so it was clearly a meeting of some description.
 
 Anchored Artifacts: 
-Mentions: N-2, N-682, N-424, N-3
+Mentions: N-2, N-680, N-422, N-3
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Check FAA flight data for the same-day round trip, and ask who met them in Long Beach.
@@ -2182,7 +2182,7 @@ Claim: The host says Sheriff Nate Brooksby initially came out, and that it was t
 Transcript Snippet: Nate Brooksby was the guy that initially came out.
 
 Anchored Artifacts: 
-Mentions: N-276, N-40
+Mentions: N-274, N-40
 Related Nodes: N-10029
 Tags: relevance:core
 Investigative Direction: Check Brooksby's September 2025 press conferences and statements for his role and timing.
@@ -2198,7 +2198,7 @@ Claim: The host says that after Brooksby's resignation there is an interim sheri
 Transcript Snippet: He resigned, now there's an interim sheriff in place, and there is like I said, they're in the middle of an election, so now they're down to a single candidate.
 
 Anchored Artifacts: 
-Mentions: N-276, N-3
+Mentions: N-274, N-3
 Related Nodes: N-10029, N-11397
 Tags: relevance:core
 Investigative Direction: Check the Washington County Commission's appointment of an interim sheriff and the 2026 candidate filings.
@@ -2214,7 +2214,7 @@ Claim: The host says there was a lot of speculation and that some people said mo
 Transcript Snippet: and there was a lot of speculation, and I saw that some people said that there was going to be more information that was coming out.
 
 Anchored Artifacts: 
-Mentions: N-276, N-3
+Mentions: N-274, N-3
 Related Nodes: N-11397
 Tags: relevance:context
 Investigative Direction: Monitor Washington County Commission releases and local press for any explanation; identify who said more would come out.
@@ -2265,7 +2265,7 @@ Claim: The host says a source very close to Tyler Robinson's family told her tha
 Transcript Snippet: Tyler Robinson repeatedly said that he was not guilty, that he was surprised when he was confronted by the family friend who we know as Mike Mitchell
 
 Anchored Artifacts: 
-Mentions: N-40, N-126, N-3
+Mentions: N-40, N-125, N-3
 Related Nodes: N-10021, N-10141
 Contradicts: C-2597
 Tags: relevance:core
@@ -2282,7 +2282,7 @@ Claim: The host says Mike Mitchell used to work for the Sheriff's Department and
 Transcript Snippet: who used to work for the Sheriff's Department, but Tyler Robinson knows him because he is uh was his Boy Scouts coach or whatever.
 
 Anchored Artifacts: 
-Mentions: N-126, N-40, N-3
+Mentions: N-125, N-40, N-3
 Related Nodes: N-10141
 Supports: C-9283
 Tags: relevance:core
@@ -2299,7 +2299,7 @@ Claim: The host says her source told her that Mitchell went to Robinson's house 
 Transcript Snippet: They're going to burst through the door, you're going to get the SWAT team, you're going to have guns to the faces of you, your mother, your father
 
 Anchored Artifacts: 
-Mentions: N-126, N-40, N-3
+Mentions: N-125, N-40, N-3
 Related Nodes: N-10021
 Supports: C-1302
 Tags: relevance:core
@@ -2415,7 +2415,7 @@ Claim: The host says Erika Kirk has a police force, '33' and the White House beh
 Transcript Snippet: She's got the White House, Scott Bessent that'll publish letters saying that they they're so upstanding and so moral, right?
 
 Anchored Artifacts: 
-Mentions: N-2, N-606, N-3
+Mentions: N-2, N-604, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify any Bessent letter or public statement of support for TPUSA or Erika Kirk; none is shown here.
@@ -2431,7 +2431,7 @@ Claim: The host says Sheriff Brooksby's clip says what she has said: Mike Mitche
 Transcript Snippet: Basically, that this Mike Mitchell guy came in, there was pressure and Tyler Robinson then agreed to go into the police station because he didn't want to be shot and murdered by SWAT teams.
 
 Anchored Artifacts: 
-Mentions: N-276, N-126, N-40, N-3
+Mentions: N-274, N-125, N-40, N-3
 Related Nodes: N-10021, N-10566
 Supports: C-1302
 Tags: relevance:core
@@ -2448,7 +2448,7 @@ Claim: In the Brooksby clip, Brooksby says his friend told him he knew who Charl
 Transcript Snippet: um I know who I know who Charlie Kirk's shooter is. Um I I know the family through religious association
 
 Anchored Artifacts: A-1908.1
-Mentions: N-276
+Mentions: N-274
 Related Nodes: N-10566, N-10029
 Tags: relevance:core
 Investigative Direction: Identify the friend and the religious association; compare with the court documents describing him as a retired Washington County deputy.
@@ -2464,7 +2464,7 @@ Claim: The host says Brooksby's account of suicidal ideation flies in the face o
 Transcript Snippet: by the way, flies in the face of the fact he later on says he went in because he didn't want to get shot and have the SWAT team at his house.
 
 Anchored Artifacts: A-1908.1
-Mentions: N-276, N-40, N-126, N-3
+Mentions: N-274, N-40, N-125, N-3
 Related Nodes: N-10142, N-10566
 Tags: relevance:core
 Investigative Direction: Reconcile the two statements in the full transcript of Brooksby's remarks and ask why the friend would relay the suicide concern.
@@ -2480,7 +2480,7 @@ Claim: The host says the best she can tell Mike Mitchell worked undercover on ch
 Transcript Snippet: The best I could tell, it seems like he was working undercover like child porn type crimes on the internet, which is kind of a theme in this story.
 
 Anchored Artifacts: 
-Mentions: N-126, N-3
+Mentions: N-125, N-3
 Related Nodes: N-10151
 Supports: C-1330
 Tags: relevance:core
@@ -2497,7 +2497,7 @@ Claim: The host speculates, saying she has no proof, that Mike Mitchell was work
 Transcript Snippet: I think he was working with the feds on trying to to get Tyler and and putting this on Tyler.
 
 Anchored Artifacts: 
-Mentions: N-126, N-40, N-3
+Mentions: N-125, N-40, N-3
 Related Nodes: N-10141
 Tags: relevance:core
 Investigative Direction: No evidence is offered; seek records of any federal contact with Mitchell before the surrender.
@@ -2513,7 +2513,7 @@ Claim: The host says Robinson's father never said his son did this and that she 
 Transcript Snippet: His father, by the way, never ever ever said his son did this.
 
 Anchored Artifacts: 
-Mentions: N-784, N-40, N-3
+Mentions: N-782, N-40, N-3
 Related Nodes: N-10022
 Supports: C-12123
 Tags: relevance:core
@@ -2530,7 +2530,7 @@ Claim: The host says her sources tell her Robinson's father does not believe the
 Transcript Snippet: He does not believe that the person looks like his son that is coming up to coming up the staircase.
 
 Anchored Artifacts: 
-Mentions: N-784, N-40, N-3
+Mentions: N-782, N-40, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Identify the sources; compare the staircase photos with known photos of Robinson; check affidavit language on recognition.
@@ -2594,7 +2594,7 @@ Claim: The host says Joe Kent is now telling the public that Kash Patel stopped 
 Transcript Snippet: You have now Joe Kent telling you that he stopped him from investigating things internationally.
 
 Anchored Artifacts: 
-Mentions: N-213, N-69, N-3
+Mentions: N-211, N-69, N-3
 Related Nodes: N-10355
 Supports: C-2525
 Tags: relevance:core
@@ -2611,7 +2611,7 @@ Claim: The host says Turning Point USA is upset with Joe Kent, not Kash Patel, a
 Transcript Snippet: Why are they hosting Kash Patel on the Charlie Kirk show and angry at Joe Kent?
 
 Anchored Artifacts: 
-Mentions: N-213, N-69, N-3
+Mentions: N-211, N-69, N-3
 Related Nodes: N-10355, N-10000
 Tags: relevance:core
 Investigative Direction: List Patel's appearances on the Charlie Kirk Show since September 2025 and TPUSA's public statements about Kent.
@@ -2676,7 +2676,7 @@ Claim: The host says that in his later account of the surrender Brooksby never s
 Transcript Snippet: never says that he signed a statement, never says that he said he was guilty, never said that his dad said he was guilty.
 
 Anchored Artifacts: 
-Mentions: N-276, N-40, N-784, N-3
+Mentions: N-274, N-40, N-782, N-3
 Related Nodes: N-10021, N-10566
 Contradicts: C-2597
 Tags: relevance:core
@@ -2693,7 +2693,7 @@ Claim: The host says Brooksby said that Mike Mitchell told him Robinson's dad re
 Transcript Snippet: He said that Mike Mitchell told him his dad recognized him.
 
 Anchored Artifacts: 
-Mentions: N-276, N-126, N-784, N-3
+Mentions: N-274, N-125, N-782, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Find where Brooksby said this; it does not appear in the two clips played in this episode.
@@ -2709,7 +2709,7 @@ Claim: The host says Mike Mitchell is now speaking on behalf of Matt Robinson an
 Transcript Snippet: Mike Mitchell is now speaking on behalf of Matt Robinson.
 
 Anchored Artifacts: 
-Mentions: N-126, N-784, N-3
+Mentions: N-125, N-782, N-3
 Related Nodes: N-10141, N-10022
 Tags: relevance:core
 Investigative Direction: Find any public statement by Mitchell for the Robinson family and any police-station statement signed by him.
@@ -2725,7 +2725,7 @@ Claim: In the Brooksby clip, Brooksby says Tyler knew it was inevitable he would
 Transcript Snippet: Tyler knew it was just inevitable with all the law enforcement pressure that he his you know, his picture on the news, the gun on the gun on the news.
 
 Anchored Artifacts: A-1908.2
-Mentions: N-276, N-40
+Mentions: N-274, N-40
 Related Nodes: N-10566
 Tags: relevance:core
 Investigative Direction: Review the full press conference for context and compare with C-2602.
@@ -2757,7 +2757,7 @@ Claim: The host says Lindsey Graham had breakfast at Chef Mickey's and spent thr
 Transcript Snippet: Um he had breakfast at Chef Mickey's. He was there for 3 days.
 
 Anchored Artifacts: 
-Mentions: N-458, N-3
+Mentions: N-456, N-3
 Related Nodes: N-10011
 Tags: relevance:tangential
 Investigative Direction: Check TMZ's report and Graham's own statements about the trip.
@@ -2773,7 +2773,7 @@ Claim: The host says Graham lied about where he was, saying he only stopped by, 
 Transcript Snippet: He said he only went and stopped by and then he was there for 3 days.
 
 Anchored Artifacts: 
-Mentions: N-458, N-3
+Mentions: N-456, N-3
 Related Nodes: N-10011
 Tags: relevance:tangential
 Investigative Direction: Find the TMZ report and Graham's statement for the discrepancy.
@@ -2837,7 +2837,7 @@ Claim: The host reads a viewer comment saying that people at the top are resigni
 Transcript Snippet: Joe Kent, the police at Orem resigned.
 
 Anchored Artifacts: A-1911.1
-Mentions: N-213, N-3
+Mentions: N-211, N-3
 Related Nodes: N-10129, N-10546
 Supports: C-7860
 Tags: relevance:core
@@ -2887,7 +2887,7 @@ Claim: The host says she was called a Russian agent by Alexis Wilkins.
 Transcript Snippet: I was being called a Russian agent by Alexis Wilkins.
 
 Anchored Artifacts: 
-Mentions: N-216, N-3
+Mentions: N-214, N-3
 Related Nodes: N-10563
 Tags: relevance:context
 Investigative Direction: Locate the Wilkins posts calling the host a Russian agent and their dates.
@@ -2903,7 +2903,7 @@ Claim: The host says Alexis Wilkins's granddad was a Freemason and her dad and a
 Transcript Snippet: That's her granddad was a Freemason. Her dad was in the DeMolay club. Her aunt was in the DeMolay DeMolay club.
 
 Anchored Artifacts: 
-Mentions: N-216, N-3
+Mentions: N-214, N-3
 Related Nodes: N-11129
 Supports: C-6661
 Tags: relevance:context
@@ -2920,7 +2920,7 @@ Claim: The host says she found out that House Inhabit was dealing with Andrew Ko
 Transcript Snippet: And then I find out House Inhabit dealing with Andrew Kolvet
 
 Anchored Artifacts: 
-Mentions: N-618, N-14, N-3
+Mentions: N-616, N-14, N-3
 Related Nodes: N-10919
 Tags: relevance:core
 Investigative Direction: Find direct communications or reporting linking Reed Kraus and Kolvet; compare with the host's earlier claims.
@@ -2936,7 +2936,7 @@ Claim: The host says AI images of her husband with Milo were used against her in
 Transcript Snippet: She was using AI images of my husband with Milo.
 
 Anchored Artifacts: 
-Mentions: N-30, N-224, N-618, N-3
+Mentions: N-30, N-222, N-616, N-3
 Related Nodes: N-10919
 Tags: relevance:context
 Investigative Direction: Locate the AI images and the account that posted them; confirm who the host means by 'she' (transcript likely House Inhabit).
@@ -3054,7 +3054,7 @@ These two artifact-anchored accounts cannot comfortably coexist. Cox's framing p
 - **Possible transcription error:** Transcript uses both "Frank Turek" and "Frank Turek"; chapter title uses "Frank Turek." Treating as transcription error; canonical name is Frank Turek.
 - **Name variation:** Transcript uses "Erika Kirk" while the existing ledger node is "Erica Kirk" (N-2). Preserving transcript spelling in this episode's text but flagging the variation for cross-referencing.
 - **Name canonicalization:** Transcript uses "Governor Cox" without first name; canonical name is Spencer Cox.
-- **Possible existing nodes not in ledger view:** Tyler Robinson, Joe Kent, Kash Patel, Spencer Cox, Nate Brooksby, and Andrew Kolvet are referenced in this episode and likely have existing node IDs from prior episodes. Wave 1 reconciliation: Nate Brooksby is N-276 and Spencer Cox is N-41; the draft placeholders and never denoted these people and were retargeted.
+- **Possible existing nodes not in ledger view:** Tyler Robinson, Joe Kent, Kash Patel, Spencer Cox, Nate Brooksby, and Andrew Kolvet are referenced in this episode and likely have existing node IDs from prior episodes. Wave 1 reconciliation: Nate Brooksby is N-274 and Spencer Cox is N-41; the draft placeholders and never denoted these people and were retargeted.
 - **Artifact verbally referenced but not shown:** The host references several items without showing or reading them in this episode, including: Joe Kent's statements about Kash Patel blocking international investigation; Kash Patel's press conference using "33"; the "witch article" from the Philippines; the DeMolay club historical background; the "tunnels at Disney" stories; the "spell" website. None are inscribed as claims because they are not artifact-presented in this episode.
 - **Host assertion lacking artifact:** The host asserts that Erika Kirk's lawyer admitted they had no more evidence than the public has seen. This claim is not anchored to any artifact in this episode and is therefore not inscribed as a Claim. Flagging as Host Assertion Without Artifact.
 - **Host assertion lacking artifact:** The host asserts that "the feds planted the gun" and that the bomb dogs could not locate it. This claim is sourced only to anonymous "people with first-hand intimate knowledge"; no artifact supports it in this episode. Flagging as Host Assertion Without Artifact.

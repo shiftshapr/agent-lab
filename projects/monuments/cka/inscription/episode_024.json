@@ -177,7 +177,7 @@
           "related_nodes": [
             "N-10895",
             "N-10894",
-            "N-214",
+            "N-212",
             "N-2",
             "N-10216"
           ],
@@ -215,7 +215,7 @@
             "C-1577"
           ],
           "related_nodes": [
-            "N-214",
+            "N-212",
             "N-10895",
             "N-10216"
           ],
@@ -456,7 +456,7 @@
           "@type": "Artifact",
           "@id": "A-3014.1",
           "ref": "A-3014.1",
-          "description": "Host verbal reference to Tyler Bowyer's late-night weekend tweets at donors John and Arena Mappin (not shown)",
+          "description": "Host verbal reference to Tyler Bowyer's late-night weekend tweets at donors John and Irina Mappin (not shown)",
           "related_claims": [
             "C-9493"
           ],
@@ -525,8 +525,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-214",
-      "ref": "N-214",
+      "@id": "N-212",
+      "ref": "N-212",
       "name": "Michael Starr",
       "type": "person",
       "description": "Journalist for the Jerusalem Post named as the writer of the article claiming Erika Kirk would accept a posthumous Pillars of Jerusalem Award on Charlie Kirk's behalf; later acknowledged on X that the Israeli government press office \"wavered\" on the claim.",
@@ -575,8 +575,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-215",
-      "ref": "N-215",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Host of the Fox News interview with Erica Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)",
@@ -597,8 +597,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-216",
-      "ref": "N-216",
+      "@id": "N-214",
+      "ref": "N-214",
       "name": "Alexis Wilkins",
       "type": "person",
       "description": "Country music artist; the girlfriend whom Kash Patel publicly defended on X in the tweet read in this episode.",
@@ -636,13 +636,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-216"
+        "N-214"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.",
@@ -656,8 +656,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-218",
-      "ref": "N-218",
+      "@id": "N-216",
+      "ref": "N-216",
       "name": "Douglas Murray",
       "type": "person",
       "description": "Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award.",
@@ -678,8 +678,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-219",
-      "ref": "N-219",
+      "@id": "N-217",
+      "ref": "N-217",
       "name": "Yael Eckstein",
       "type": "person",
       "description": "Listed by Jerusalem Post / Israeli War Room as a presenter of the reported Pillars of Jerusalem Award.",
@@ -700,8 +700,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-220",
-      "ref": "N-220",
+      "@id": "N-218",
+      "ref": "N-218",
       "name": "Jürgen Bühler",
       "type": "person",
       "description": "Listed as a presenter of the reported Pillars of Jerusalem Award (spelled \"Jürgen Bühler\" in Jerusalem Post reporting cited in episode).",
@@ -743,7 +743,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-214",
+        "N-212",
         "N-14",
         "N-10894",
         "N-10895",
@@ -848,7 +848,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-214",
+        "N-212",
         "N-10216"
       ],
       "organization_kind": "media_outlet"
@@ -951,8 +951,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-105",
-      "ref": "N-105",
+      "@id": "N-104",
+      "ref": "N-104",
       "name": "Thomas Matthew Crooks",
       "type": "person",
       "description": "July 13, 2024 Trump-rally rooftop shooter; subject of scraped online-history doc.",
@@ -967,8 +967,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-203",
+      "ref": "N-203",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
@@ -1210,8 +1210,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-157",
-      "ref": "N-157",
+      "@id": "N-156",
+      "ref": "N-156",
       "name": "John Mappin",
       "type": "person",
       "description": "John Mappin; donor the host says Bowyer targeted.",
@@ -1227,11 +1227,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-158",
-      "ref": "N-158",
-      "name": "Arena Mappin",
+      "@id": "N-157",
+      "ref": "N-157",
+      "name": "Irina Mappin",
       "type": "person",
-      "description": "Arena Mappin; donor the host says Bowyer targeted.",
+      "description": "Irina Mappin; donor the host says Bowyer targeted.",
       "related_artifacts": [],
       "related_claims": [
         "C-9493"
@@ -1244,8 +1244,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Mikey McCoy; transcribed as McColgan and McCoy.",
@@ -1262,8 +1262,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-222",
+      "ref": "N-222",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Milo Yiannopoulos; his name is used as a verb for ending a career.",
@@ -1279,8 +1279,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Randy Fine",
       "type": "person",
       "description": "Randy Fine; congressman the host criticizes for RJC remarks.",
@@ -1299,8 +1299,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Joe Rogan; host of the 2018 appearance Shapiro objected to.",
@@ -1316,8 +1316,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-383",
-      "ref": "N-383",
+      "@id": "N-381",
+      "ref": "N-381",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Emmanuel Macron; subject of a claim in the aired clip.",
@@ -1333,8 +1333,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-712",
-      "ref": "N-712",
+      "@id": "N-710",
+      "ref": "N-710",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "Sheldon Adelson; founder of the gambling empire the host cites.",
@@ -1350,8 +1350,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-717",
-      "ref": "N-717",
+      "@id": "N-715",
+      "ref": "N-715",
       "name": "Volodymyr Zelensky",
       "type": "person",
       "description": "Volodymyr Zelensky; listed in the aired clip.",
@@ -1757,8 +1757,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-845",
-      "ref": "N-845",
+      "@id": "N-843",
+      "ref": "N-843",
       "name": "Emma Goldman",
       "type": "person",
       "description": "First named by the host at 00:11:28 in episode 24. Historical anarchist the host credits with bringing feminism to America.",
@@ -1774,8 +1774,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-846",
-      "ref": "N-846",
+      "@id": "N-844",
+      "ref": "N-844",
       "name": "Al Goldstein",
       "type": "person",
       "description": "First named by the host at 00:12:45 in episode 24. Pornography publisher the host quotes on why Jews are in pornography.",
@@ -1791,8 +1791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-847",
-      "ref": "N-847",
+      "@id": "N-845",
+      "ref": "N-845",
       "name": "Samuel Roth",
       "type": "person",
       "description": "First named by the host at 00:12:45 in episode 24. Publisher the host says fought in court for the decision making pornography free speech.",
@@ -1808,8 +1808,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-848",
-      "ref": "N-848",
+      "@id": "N-846",
+      "ref": "N-846",
       "name": "Magnus Hirschfeld",
       "type": "person",
       "description": "First named by the host at 00:13:28 in episode 24. Sexologist the host credits as the origin of transgenderism.",
@@ -1825,8 +1825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-849",
-      "ref": "N-849",
+      "@id": "N-847",
+      "ref": "N-847",
       "name": "Adam Lanza",
       "type": "person",
       "description": "First named by the host at 00:45:55 in episode 24. Sandy Hook shooter the host cites in a pattern theory about standardized testing and government contact.",
@@ -1923,6 +1923,7 @@
       "claim_timestamp": "00:04:07",
       "investigative_direction": "Verify the full RJC recording for the complete quote and any surrounding context.",
       "mentions_person_refs": [
+        "N-224",
         "N-22"
       ]
     },
@@ -1974,7 +1975,7 @@
       "investigative_direction": "Locate the underlying Charlie Kirk statement Ben Shapiro cites to verify the attribution and original context.",
       "mentions_person_refs": [
         "N-1",
-        "N-205",
+        "N-203",
         "N-97"
       ]
     },
@@ -1983,7 +1984,7 @@
       "@id": "C-1573",
       "ref": "C-1573",
       "label": "Candace Owens \"Hall Monitor\" Joke on Joe Rogan (2018)",
-      "claim": "In a 2018 Joe Rogan appearance, Candace Owens referred to him as \"the hall monitor\" and joked that he \"writes you a pink slip\" and sends people to \"Saturday school.\"",
+      "claim": "In a clip from her 2018 Joe Rogan appearance that the host plays, Candace Owens says Ben Shapiro \"gets a little like hall monitor,\" compares him to someone \"writing you a pink slip,\" and calls him \"a gateway to Saturday school.\"",
       "anchored_artifacts": [
         "A-1315.1"
       ],
@@ -1992,7 +1993,9 @@
       "claim_timestamp": "00:16:02",
       "investigative_direction": "Verify by locating the full original Joe Rogan episode to confirm wording and date.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-97",
+        "N-270"
       ]
     },
     {
@@ -2033,10 +2036,10 @@
       "investigative_direction": "Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed.",
       "mentions_person_refs": [
         "N-2",
-        "N-214",
-        "N-218",
-        "N-219",
-        "N-220"
+        "N-212",
+        "N-216",
+        "N-217",
+        "N-218"
       ]
     },
     {
@@ -2057,7 +2060,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-214"
+        "N-212"
       ]
     },
     {
@@ -2077,7 +2080,7 @@
       "claim_timestamp": "00:23:04",
       "investigative_direction": "Verify the original Michael Starr X post and corroborate with any subsequent Jerusalem Post correction or retraction.",
       "mentions_person_refs": [
-        "N-214",
+        "N-212",
         "N-2"
       ]
     },
@@ -2098,7 +2101,7 @@
       "investigative_direction": "Verify by reviewing the full Jesse Watters interview once aired and any subsequent court filings on the camera question.",
       "mentions_person_refs": [
         "N-2",
-        "N-215"
+        "N-213"
       ]
     },
     {
@@ -2116,7 +2119,7 @@
       "investigative_direction": "Verify by locating Patel's original X post, and corroborate against any reporting or inspector general review of his use of FBI aircraft for personal travel.",
       "mentions_person_refs": [
         "N-69",
-        "N-216"
+        "N-214"
       ]
     },
     {
@@ -2124,7 +2127,7 @@
       "@id": "C-1580",
       "ref": "C-1580",
       "label": "Tom Paul Alleges Tyler Robinson and Crooks Test Score Pattern",
-      "claim": "A viewer (Tom Paul) alleged in a YouTube comment that Tyler Robinson's ACT score was 34 (99th percentile), Thomas Matthew Crooks' SAT score was in the 99th percentile, and that this pattern resembles Adam Lanza, suggesting a common playbook.",
+      "claim": "A viewer comment the host reads, from Tom Paul, says Tyler Robinson's ACT score was 34, in the 99th percentile, and Thomas Matthew Crooks' SAT score was in the 99th percentile, and that this is not a coincidence, as if out of the same playbook.",
       "anchored_artifacts": [
         "A-1320.5"
       ],
@@ -2133,7 +2136,7 @@
       "claim_timestamp": "00:45:55",
       "investigative_direction": "Independently confirm the test scores from public records; assess whether any reporting substantiates a \"playbook\" pattern.",
       "mentions_person_refs": [
-        "N-105",
+        "N-104",
         "N-40"
       ]
     },
@@ -2201,13 +2204,13 @@
         "N-10083"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:01:57",
       "investigative_direction": "Locate Fine's original statements and any AIPAC statement ending its support to confirm both parts.",
       "transcript_snippet": "Randy Fine, just to be clear, he has been so disgusting in his rhetoric towards Palestinians, saying essentially that they're just not even truly humans. That even AIPAC had to drop him.",
       "mentions_person_refs": [
-        "N-226",
+        "N-224",
         "N-3"
       ]
     },
@@ -2256,7 +2259,7 @@
         "C-9448"
       ],
       "mentions_person_refs": [
-        "N-226",
+        "N-224",
         "N-22",
         "N-3"
       ]
@@ -2291,13 +2294,13 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:05:30",
       "investigative_direction": "Locate Fine's posts or remarks calling Palestinians subhuman and any video of him laughing at a body.",
       "transcript_snippet": "like Randy Fine just come right out with genocidal language against the Palestinians, uh referring to them as subhuman, laughing when he sees a dead body of a Palestinian.",
       "mentions_person_refs": [
-        "N-226",
+        "N-224",
         "N-3"
       ]
     },
@@ -2312,7 +2315,7 @@
         "N-10006"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:06:29",
       "investigative_direction": "Fox News termination statements, court filings from the Dominion matter and reporting on the stated reason for Carlson's exit.",
@@ -2363,7 +2366,7 @@
       "transcript_snippet": "they've now decided to besmirch Charlie's name by asserting that Tucker interviewing Nick Fuentes is a betrayal to Charlie.",
       "mentions_person_refs": [
         "N-22",
-        "N-205",
+        "N-203",
         "N-1",
         "N-3"
       ]
@@ -2377,7 +2380,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:08:13",
       "investigative_direction": "Obtain the Owens–Kirk messages about the Fuentes interview and the interview date; the transcript's \"died in July\" appears garbled.",
@@ -2385,7 +2388,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -2397,7 +2400,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:08:13",
       "investigative_direction": "Ask Kolvet to confirm the conversation and look for related messages or scheduling attempts.",
@@ -2409,7 +2412,7 @@
         "N-3",
         "N-14",
         "N-1",
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -2431,7 +2434,7 @@
       "mentions_person_refs": [
         "N-97",
         "N-22",
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -2516,8 +2519,8 @@
       "transcript_snippet": "Emmanuel Macron, gay and married to a trans man who molested him when he was a child.",
       "mentions_person_refs": [
         "N-3",
-        "N-383",
-        "N-717",
+        "N-381",
+        "N-715",
         "N-82"
       ]
     },
@@ -2558,7 +2561,7 @@
       "transcript_snippet": "people like Emma Goldman on feminism. Sigmund Freud, the father of modern psychology.",
       "mentions_person_refs": [
         "N-3",
-        "N-845",
+        "N-843",
         "N-50"
       ]
     },
@@ -2580,7 +2583,7 @@
       "transcript_snippet": "The gambling empire uh is where the Adelson empire wealth comes from. Uh as are many pharmaceuticals like the Sackler family.",
       "mentions_person_refs": [
         "N-3",
-        "N-712"
+        "N-710"
       ]
     },
     {
@@ -2619,7 +2622,7 @@
       "transcript_snippet": "He's the one who notoriously said, \"The only reason that Jews are in pornography is that we think Christ sucks. Catholicism sucks.",
       "mentions_person_refs": [
         "N-3",
-        "N-846"
+        "N-844"
       ]
     },
     {
@@ -2638,7 +2641,7 @@
       "transcript_snippet": "That's because Jewish individuals in America fought for that. Samuel Roth, actually.",
       "mentions_person_refs": [
         "N-3",
-        "N-847"
+        "N-845"
       ]
     },
     {
@@ -2657,7 +2660,7 @@
       "transcript_snippet": "Transgenderism, go back and and try to figure out where that came from. Magnus Hirschfeld was the doctor and the sexologist.",
       "mentions_person_refs": [
         "N-3",
-        "N-848"
+        "N-846"
       ]
     },
     {
@@ -2700,7 +2703,7 @@
       "mentions_person_refs": [
         "N-97",
         "N-1",
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -2765,8 +2768,8 @@
         "N-3",
         "N-1",
         "N-97",
-        "N-224",
-        "N-272"
+        "N-222",
+        "N-270"
       ]
     },
     {
@@ -2830,7 +2833,7 @@
       "transcript_snippet": "So the team reached out to host Matt Walsh to ask Matt Walsh rather to host Charlie Kirk's show because they wanted to keep it going.",
       "mentions_person_refs": [
         "N-3",
-        "N-166",
+        "N-165",
         "N-1"
       ]
     },
@@ -2850,7 +2853,7 @@
       "transcript_snippet": "And they were told that that was not allowed to happen unless Ben Shapiro was also invited.",
       "mentions_person_refs": [
         "N-3",
-        "N-166",
+        "N-165",
         "N-97",
         "N-1"
       ]
@@ -2924,8 +2927,8 @@
       "@type": "Claim",
       "@id": "C-9481",
       "ref": "C-9481",
-      "label": "Host Lists Those She Targeted for Lying: Clark, Kolvet, McColgan, McCoy",
-      "claim": "The host says she has reserved her investigation for people blatantly lying, citing Alex Clark for lying about the Catholic thing, then Andrew Kolvet, Mikey McColgan and Rob McCoy.",
+      "label": "Host Lists Those She Targeted for Lying: Clark, Kolvet, Mikey McCoy, Rob McCoy",
+      "claim": "The host says she has reserved her investigation for people blatantly lying, citing Alex Clark for lying about the Catholic thing, then Andrew Kolvet, Mikey McCoy and Rob McCoy.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10104",
@@ -2936,12 +2939,12 @@
       ],
       "claim_timestamp": "00:27:07",
       "investigative_direction": "Collect the host's prior episodes on each named person and the specific statements she calls lies.",
-      "transcript_snippet": "That was my reason for going after Alex Clark. She lied about the Catholic thing. That was my reason for going after Andrew Kolvet, Mikey McColgan.",
+      "transcript_snippet": "That was my reason for going after Alex Clark. She lied about the Catholic thing. That was my reason for going after Andrew Kolvet, Mikey McCoy.",
       "mentions_person_refs": [
         "N-3",
         "N-99",
         "N-14",
-        "N-194",
+        "N-192",
         "N-17"
       ]
     },
@@ -2988,7 +2991,7 @@
         "N-3",
         "N-1",
         "N-2",
-        "N-215"
+        "N-213"
       ]
     },
     {
@@ -3114,7 +3117,8 @@
       "investigative_direction": "Utah court docket entries on the defendant's remote appearances and camera orders.",
       "transcript_snippet": "how ridiculous it is to allow him to to appear uh virtually, not even on camera uh for some pre-hearing matters.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-40"
       ]
     },
     {
@@ -3157,7 +3161,7 @@
       "transcript_snippet": "People don't like the stuff that they've seen about Mikey McCoy. They don't like what they've seen about Rob McCoy.",
       "mentions_person_refs": [
         "N-3",
-        "N-194",
+        "N-192",
         "N-17"
       ]
     },
@@ -3188,7 +3192,7 @@
       "@id": "C-9493",
       "ref": "C-9493",
       "label": "Host Says Bowyer Late-Night Tweeted at Donors Including the Mappins",
-      "claim": "The host says Tyler Bowyer was late-night tweeting at donors over the weekend, directing his fire at John Mappin and Arena Mappin, and that someone called John Mappin a loser (the subject is unclear in the transcript).",
+      "claim": "The host says Tyler Bowyer was late-night tweeting at donors over the weekend, directing his fire at John Mappin and Irina Mappin, and that someone called John Mappin a loser (the subject is unclear in the transcript).",
       "anchored_artifacts": [
         "A-3014.1"
       ],
@@ -3200,12 +3204,12 @@
       ],
       "claim_timestamp": "00:33:19",
       "investigative_direction": "Locate Bowyer's posts from the weekend of 2025-11-01 and confirm who called John Mappin a loser.",
-      "transcript_snippet": "Tyler Bowyer late-night tweeting at donors as he did over the weekend. I think he directed his fire at like John Mappin and Arena Mappin called John Mappin a loser.",
+      "transcript_snippet": "Tyler Bowyer late-night tweeting at donors as he did over the weekend. I think he directed his fire at like John Mappin and Irina Mappin called John Mappin a loser.",
       "mentions_person_refs": [
         "N-3",
         "N-11",
-        "N-157",
-        "N-158"
+        "N-156",
+        "N-157"
       ]
     },
     {
@@ -3291,7 +3295,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-215"
+        "N-213"
       ]
     },
     {
@@ -3355,7 +3359,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-69",
-        "N-216"
+        "N-214"
       ]
     },
     {
@@ -3418,7 +3422,7 @@
       "transcript_snippet": "People are not attacking Kash Patel's significant other, but rather reacting to his firing of people who point out his usage of government funds to travel to her shows.",
       "mentions_person_refs": [
         "N-69",
-        "N-216",
+        "N-214",
         "N-3"
       ]
     },
@@ -3439,7 +3443,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-69",
-        "N-216"
+        "N-214"
       ]
     },
     {
@@ -3532,7 +3536,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-849"
+        "N-847"
       ]
     },
     {
@@ -3601,7 +3605,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -3609,7 +3613,7 @@
       "@id": "C-9512",
       "ref": "C-9512",
       "label": "Host Says the Tucker Is Not MAGA Signs Were Donor-Printed",
-      "claim": "The host says the signs held up and danced with in front of Randy Fine reading \"Tucker is not MAGA\" were donor-printed signs.",
+      "claim": "The host says it is not cool to hold up what she calls 'like some donor-printed signs' reading 'Tucker is not MAGA' and do a dance in front of Randy Fine.",
       "anchored_artifacts": [
         "A-1313.3"
       ],
@@ -3627,7 +3631,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-226",
+        "N-224",
         "N-22"
       ]
     }

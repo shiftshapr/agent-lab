@@ -11,10 +11,10 @@
 - **Transcript SHA-256**: aad9b594be730478a8051e834c8dd3ae3c76a0895b472f75831b8b225046f268
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-885, N-11277, N-11278, N-11279, N-11280
+  - Tip-minted Nodes (supplement_2026-10e): N-883, N-11277, N-11278, N-11279, N-11280
   - Claim Range (supplement_2026-10e): C-10891–C-10948
-  - New Nodes Introduced: N-286, N-288, N-289, N-290, N-291, N-292, N-293, N-294, N-10283, N-10285, N-10286, N-10287, N-10288, N-10291, N-10292, N-10293, N-10295, N-10296
-  - Reused Nodes Appearing: none, N-287, N-383, N-10284, N-10294, N-10289, N-10290, N-5, N-14, N-22, N-10001, N-10003, N-10012, N-10014, N-10015, N-10059, N-10074, N-10075, N-10088, N-10116, N-10145, N-10150, N-10204, N-10222, N-10265, N-10266, N-10269, N-10270, N-10273, N-10277, N-10279, N-10316, N-10900, N-11008, N-11010, N-11011, N-72, N-10297
+  - New Nodes Introduced: N-284, N-286, N-287, N-288, N-289, N-290, N-291, N-292, N-10283, N-10285, N-10286, N-10287, N-10288, N-10291, N-10292, N-10293, N-10295, N-10296
+  - Reused Nodes Appearing: none, N-285, N-381, N-10284, N-10294, N-10289, N-10290, N-5, N-14, N-22, N-10001, N-10003, N-10012, N-10014, N-10015, N-10059, N-10074, N-10075, N-10088, N-10116, N-10145, N-10150, N-10204, N-10222, N-10265, N-10266, N-10269, N-10270, N-10273, N-10277, N-10279, N-10316, N-10900, N-11008, N-11010, N-11011, N-72, N-10297
   - (see registers)
 
 ## 2. Executive Summary
@@ -93,7 +93,7 @@ Video Timestamp: 00:02:49–00:04:49
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text reproduced verbatim)
 
-*Related: C-1781, C-1784, C-1786, N-3, N-383, N-82, N-40, N-287*
+*Related: C-1781, C-1784, C-1786, N-3, N-381, N-82, N-40, N-285*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:10:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (quoted on air)
 
-*Related: C-1782, N-383, N-3, N-1*
+*Related: C-1782, N-381, N-3, N-1*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (article title and one paragraph read on air; full URL not displayed)
 
-*Related: C-1783, N-288, N-10293, N-3*
+*Related: C-1783, N-286, N-10293, N-3*
 
 ---
 
@@ -191,7 +191,7 @@ Video Timestamp: 00:20:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (paraphrased on air)
 
-*Related: C-1785, N-289, N-10297*
+*Related: C-1785, N-287, N-10297*
 
 ---
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:28:30–00:31:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (partially corroborated by A-1471)
 
-*Related: C-1791, C-1792, C-1793, N-10285, N-10287, N-292, N-293*
+*Related: C-1791, C-1792, C-1793, N-10285, N-10287, N-290, N-291*
 
 **A-1469.4** Section: Incyte Corporation – claim that the long-time CEO of Incyte was Hervé Hopineau (host self-corrects: "Hervé Hope No, Hopineau"), a French national who recently transitioned from CEO to advisor; Incyte owns the construction site across from 920 North King Street and is plugged into federal medical supply chains including VA/military health care interfaces.
 
@@ -235,7 +235,7 @@ Video Timestamp: 00:33:11–00:34:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source; spelling uncertain)
 
-*Related: C-1794, N-290, N-10286*
+*Related: C-1794, N-288, N-10286*
 
 **A-1469.5** Section: Wilmington Savings Fund Society / Wilmington Trust – claim that in 1990 most lower Delaware WSFS branches were sold to Wilmington Trust, founded by T. Coleman du Pont (French-American du Pont family); Wilmington Trust located at 1100 North Market Street, on Rodney Square, next to 1100 North King Street.
 
@@ -245,7 +245,7 @@ Video Timestamp: 00:30:58–00:32:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (single source email)
 
-*Related: C-1795, N-294, N-10287, N-10288*
+*Related: C-1795, N-292, N-10287, N-10288*
 
 **A-1469.6** Section: 500 North Delaware Avenue – claim that the FBI has a presence in this building (which the source calls "another bank center"); also references MGM Delaware Avenue law firm (Suite 200) sitting directly below the FBI suite (Suite 300) per the source.
 
@@ -313,7 +313,7 @@ Video Timestamp: 00:30:13
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (quoted on air)
 
-*Related: C-1791, N-291, N-10285*
+*Related: C-1791, N-289, N-10285*
 
 ---
 
@@ -341,7 +341,7 @@ Video Timestamp: 00:47:39–00:48:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1800, N-286, N-57*
+*Related: C-1800, N-284, N-57*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:56:17–00:56:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (displayed on screen)
 
-*Related: C-1801, N-72, N-286*
+*Related: C-1801, N-72, N-284*
 
 ---
 
@@ -484,7 +484,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-286** Adam Sosnick
+**N-284** Adam Sosnick
 
 PBD Podcast personality; on-air subject of clip claiming host has no famous friends and is the figure blamed by Eric Bolling in A-1474 ("that Alex guy").
 
@@ -523,7 +523,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-287** Xavier Poussard
+**N-285** Xavier Poussard
 
 French journalist; named in Candace Owens's November 25 tweet (A-1461.1) as also at risk.
 
@@ -536,7 +536,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-288** Freddy Ponton
+**N-286** Freddy Ponton
 
 Article author of "Past as Prologue, Safari Club Illuminates Candace Owens' allegations" (A-1463.1); provides contextual framing linking the host's allegations to historical covert-operation patterns.
 
@@ -549,7 +549,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-289** Andy Parrish
+**N-287** Andy Parrish
 
 X poster identifying as former chief of staff to a Republican state representative (state not specified on air); source of the Camp Riley / Camp Ripley correction.
 
@@ -562,7 +562,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-290** Hervé Hopineau
+**N-288** Hervé Hopineau
 
 Identified in source email A-1469.4 as long-time CEO of Incyte and a French national, recently transitioned to advisor role. Spelling uncertainty: host false-starts with "Hervé Hope" before correcting to "Hopineau."
 
@@ -575,7 +575,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-291** Miriam Deed
+**N-289** Miriam Deed
 
 Public commenter quoted in local coverage (A-1471.2) expressing concern about lack of accountability regarding the Bracebridge Complex.
 
@@ -588,7 +588,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-292** Pierre S. du Pont
+**N-290** Pierre S. du Pont
 
 Founder of Longwood Foundation (per source email A-1469.3); member of French-American du Pont family descended from Pierre Samuel du Pont de Nemours.
 
@@ -597,11 +597,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.3, C-1792, C-1793, N-10285, N-10287, N-294*
+*Related: A-1469.3, C-1792, C-1793, N-10285, N-10287, N-292*
 
 ---
 
-**N-293** T. Coleman du Pont
+**N-291** T. Coleman du Pont
 
 French-American then-president of du Pont; per source email A-1469.5, founder of Wilmington Trust, which acquired most lower-Delaware WSFS branches in 1990.
 
@@ -610,11 +610,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.5, C-1795, N-292, N-10287, N-10288*
+*Related: A-1469.5, C-1795, N-290, N-10287, N-10288*
 
 ---
 
-**N-294** Pavel Durov
+**N-292** Pavel Durov
 
 Founder of Telegram; X poster whose on-air quote (A-1462.1) endorses plausibility of French involvement claims.
 
@@ -627,7 +627,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-383** Emmanuel Macron
+**N-381** Emmanuel Macron
 
 French President; the host relays a source claim that the Macrons paid for her assassination and discusses the Macron defamation suit (transcript 02:49 to 04:49).
 
@@ -675,7 +675,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1469.3, A-1470.2, A-1471.1, A-1471.2, C-1791, C-1793, N-291, N-292*
+*Related: A-1469.3, A-1470.2, A-1471.1, A-1471.2, C-1791, C-1793, N-289, N-290*
 
 ---
 
@@ -688,7 +688,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.4, C-1794, N-290*
+*Related: A-1469.4, C-1794, N-288*
 
 ---
 
@@ -701,7 +701,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.3, C-1792, N-292*
+*Related: A-1469.3, C-1792, N-290*
 
 ---
 
@@ -714,7 +714,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1469.5, C-1795, N-293, N-10289*
+*Related: A-1469.5, C-1795, N-291, N-10289*
 
 ---
 
@@ -779,7 +779,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1463.1, A-1464.1, C-1783, N-288*
+*Related: A-1463.1, A-1464.1, C-1783, N-286*
 
 ---
 
@@ -818,7 +818,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low (typographical, not factual conflict)
 
-*Related: A-1467.1, A-1468.1, A-1477.1, C-1785, N-289, N-10290*
+*Related: A-1467.1, A-1468.1, A-1477.1, C-1785, N-287, N-10290*
 
 ---
 
@@ -831,11 +831,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1474.1, C-1801, N-72, N-286*
+*Related: A-1474.1, C-1801, N-72, N-284*
 
 ---
 
-**N-885** Jean-Michel Trogneux
+**N-883** Jean-Michel Trogneux
 
 First named by the host at 00:00:01 in episode 38. The name the host uses for Brigitte Macron's alleged earlier male identity; the host asserts, without a document shown, that this person was born male. All claims here are the host's allegations.
 
@@ -935,7 +935,7 @@ Subject of the host's claims about birth, military file, whereabouts and the law
 
 ---
 
-**N-263** Steven Crowder
+**N-261** Steven Crowder
 
 The host denies ever being friends with him.
 
@@ -1160,7 +1160,7 @@ Claim Timestamp: 00:02:49
 Claim: On November 25, 2025, Candace Owens publicly stated via X that a high-ranking French government employee claimed the Macrons had executed upon and paid for her assassination, with the green light given to a GIGN team including one Israeli operative, and that Charlie Kirk's assassin trained with the French Foreign Legion's 13th Brigade.
 
 Anchored Artifacts: A-1461.1
-Mentions: N-3, N-383, N-82, N-287, N-1
+Mentions: N-3, N-381, N-82, N-285, N-1
 Investigative Direction: Obtain the underlying source communication; verify the identity and position of the French government contact; cross-check with FBI/Counterterrorism response records (FOIA where possible).
 
 ---
@@ -1172,7 +1172,7 @@ Claim Timestamp: 00:10:41
 Claim: Telegram founder Pavel Durov publicly stated that after reviewing Charlie Kirk's prior comments about Macron's France, he finds Candace Owens's information about French involvement in Kirk's death entirely plausible.
 
 Anchored Artifacts: A-1462.1
-Mentions: N-1, N-3, N-294
+Mentions: N-1, N-3, N-292
 Investigative Direction: Locate original Durov X post (date, full context) and verify any prior Durov statements about the 300% tariff framing.
 
 ---
@@ -1184,7 +1184,7 @@ Claim Timestamp: 00:11:57
 Claim: Article author Freddy Ponton argued that the hesitation in dismissing Owens's allegations comes not from trust in her but from documented precedent of multi-state covert operations, citing the 1976 Safari Club intelligence alliance.
 
 Anchored Artifacts: A-1463.1, A-1464.1
-Mentions: N-288
+Mentions: N-286
 Related Nodes: N-10293
 Investigative Direction: Verify Ponton's article URL; corroborate the Safari Club member list against declassified records; assess whether the Safari Club precedent materially maps onto the present allegations.
 
@@ -1209,7 +1209,7 @@ Claim Timestamp: 00:20:28
 Claim: Per a France 24 article the host reads, which quotes Andy Parrish on X, a Camp Riley does not exist in Minnesota and Camp Ripley is the correct name; the host says her own X post contained the typo.
 
 Anchored Artifacts: A-1467.1, A-1468.1
-Mentions: N-289
+Mentions: N-287
 Related Nodes: N-10296
 Investigative Direction: Confirm Camp Ripley as the relevant installation; identify whether Minot AFB personnel participated in a Camp Ripley exercise in late August 2025 via official press releases.
 
@@ -1295,7 +1295,7 @@ Claim Timestamp: 00:30:13
 Claim: Per the source email, the Longwood Foundation was founded by Pierre S. du Pont, a member of the French-American du Pont family descended from Pierre Samuel du Pont de Nemours.
 
 Anchored Artifacts: A-1469.3
-Mentions: N-292
+Mentions: N-290
 Related Nodes: N-10287
 Investigative Direction: Verify Longwood Foundation founding date and founder via IRS Form 990 filings and du Pont family genealogical records.
 
@@ -1308,7 +1308,7 @@ Claim Timestamp: 00:29:23
 Claim: Per the source email, 2024 legislation was passed to provide financial support to the Longwood Foundation to function as an educational center at the Bracebridge Complex.
 
 Anchored Artifacts: A-1469.3
-Mentions: N-292
+Mentions: N-290
 Related Nodes: N-10285, N-10287
 Investigative Direction: Identify the specific Delaware legislation; obtain bill text and legislative history.
 
@@ -1321,7 +1321,7 @@ Claim Timestamp: 00:33:11
 Claim: Per the source email, Hervé Hopineau (a French national) served as the long-time CEO of Incyte Corporation before recently transitioning to an advisor role.
 
 Anchored Artifacts: A-1469.4
-Mentions: N-290
+Mentions: N-288
 Related Nodes: N-10286
 Investigative Direction: Verify Incyte CEO succession records via SEC filings; confirm Hopineau's nationality and dates of service.
 
@@ -1334,7 +1334,7 @@ Claim Timestamp: 00:30:58
 Claim: Per the source email, T. Coleman du Pont founded the Wilmington Trust, which in 1990 acquired most lower-Delaware branches of Wilmington Savings Fund Society (WSFS).
 
 Anchored Artifacts: A-1469.5
-Mentions: N-293
+Mentions: N-291
 Related Nodes: N-10288
 Investigative Direction: Verify Wilmington Trust founding date and founder via corporate filings and historical records; cross-check the 1990 WSFS branch transfer.
 
@@ -1397,7 +1397,7 @@ Claim Timestamp: 00:47:39
 Claim: On Patrick Bet-David's podcast, Adam Sosnick stated that Candace Owens has burned bridges with Turning Point USA, the Daily Wire, PragerU, Charlie Kirk, and Steven Crowder, and cannot be defended by named public figures.
 
 Anchored Artifacts: A-1473.1
-Mentions: N-57, N-286, N-263, N-3, N-1
+Mentions: N-57, N-284, N-261, N-3, N-1
 Investigative Direction: Obtain the full podcast segment; assess whether Sosnick's bridge-burning claims are factually substantiated; verify named relationships with past colleagues.
 
 ---
@@ -1409,7 +1409,7 @@ Claim Timestamp: 00:56:17
 Claim: Eric Bolling sent an apology email to Candace Owens's PR in which he blamed "that Alex guy" (identified in the episode as Adam Sosnick) for the on-air conflict and said Bolling did not even know Sosnick's name at the time of recording.
 
 Anchored Artifacts: A-1474.1
-Mentions: N-286, N-72, N-3
+Mentions: N-284, N-72, N-3
 Related Nodes: N-10297
 Investigative Direction: Verify authenticity of the email; corroborate Bolling's claim that he initially called Sosnick "Sam"; obtain the full original PBD segment context.
 
@@ -1437,7 +1437,7 @@ Claim: The host asserts that Brigitte Macron, whom she calls Jean-Michel Trogneu
 Transcript Snippet: Imagine being so protected that you force multiple nation-states to collude to hide the obvious fact that you were born with a penis, right?
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-885
+Mentions: N-3, N-82, N-883
 Supports: C-1507
 Tags: relevance:context
 Investigative Direction: Obtain Brigitte Macron's birth and civil records and the Trogneux family registry entries; the host presents no document in this episode.
@@ -1485,7 +1485,7 @@ Claim: The host reads her November 25 post saying journalist Xavier Poussard's l
 Transcript Snippet: Journalist Xavier Poussard's life is also at risk.
 
 Anchored Artifacts: A-1461.1
-Mentions: N-3, N-287
+Mentions: N-3, N-285
 Related Nodes: N-10316
 Tags: relevance:context
 Investigative Direction: Ask Poussard whether he received threats or any warning in November 2025 and whether he reported them to French or US authorities.
@@ -1501,7 +1501,7 @@ Claim: The host says she told the public there was a paper trail showing Macron 
 Transcript Snippet: I said there was a paper trail that Macron allegedly paid $1.5 million
 
 Anchored Artifacts: A-1461.1
-Mentions: N-3, N-383, N-82
+Mentions: N-3, N-381, N-82
 Related Nodes: N-10316
 Supports: C-1781
 Tags: relevance:core
@@ -1566,7 +1566,7 @@ Claim: The host says the Macrons hired a private investigator to see whether she
 Transcript Snippet: they even hired a private investigator to try to see if I was colluding with other state actors.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-383
+Mentions: N-3, N-82, N-381
 Tags: relevance:context
 Investigative Direction: Look for the investigator's engagement in the Delaware litigation record or discovery filings; ask the host's lawyers for the basis of the claim.
 
@@ -1581,7 +1581,7 @@ Claim: The host says that a full week after her announcement the Elysee Palace h
 Transcript Snippet: It's now been a full week since I made that announcement. And here is the official response issued by the Élysée Palace.
 
 Anchored Artifacts: A-3110.1
-Mentions: N-3, N-383
+Mentions: N-3, N-381
 Related Nodes: N-11280
 Tags: relevance:core
 Investigative Direction: Search Elysee communique archives and French press for any reaction between November 25 and December 1, 2025.
@@ -1629,7 +1629,7 @@ Claim: In the Pavel Durov post the host reads, Durov says Charlie Kirk called fo
 Transcript Snippet: Charlie even called for 300% tariffs on France until the charges against me were dropped.
 
 Anchored Artifacts: A-1462.1
-Mentions: N-294, N-1
+Mentions: N-292, N-1
 Supports: C-1782
 Tags: relevance:context
 Investigative Direction: Find Charlie Kirk's original statement or post about tariffs on France over Durov's arrest and confirm the 300% figure and date.
@@ -1709,7 +1709,7 @@ Claim: The host says the military will not release the military file of Jean-Mic
 Transcript Snippet: the military won't release your file, and we don't know what you were doing in the military as Jean-Michel Trogneux.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-885
+Mentions: N-3, N-82, N-883
 Tags: relevance:context
 Investigative Direction: Obtain any French military records request and denial concerning Jean-Michel Trogneux; the host cites no specific request here.
 
@@ -1904,7 +1904,7 @@ Claim: The host reads a source email saying the du Pont family has extreme ties 
 Transcript Snippet: they are the original manufacturers of Kevlar
 
 Anchored Artifacts: A-1469.3
-Mentions: N-292
+Mentions: N-290
 Related Nodes: N-10287
 Tags: relevance:tangential
 Investigative Direction: Check DuPont corporate history for Kevlar's development; the military-tie assertion is general and would need specific contracts.
@@ -1984,7 +1984,7 @@ Claim: The host says Hopineau is directly responsible for the Bracebridge constr
 Transcript Snippet: He is directly responsible for this construction at Bracebridge, and he was the one that finalized the deal.
 
 Anchored Artifacts: A-1469.4
-Mentions: N-290, N-1, N-3
+Mentions: N-288, N-1, N-3
 Related Nodes: N-10286
 Supports: C-1794
 Tags: relevance:context
@@ -2049,7 +2049,7 @@ Claim: The host says she feels she was set up by the federal government in the l
 Transcript Snippet: I feel like I was set up by the federal government in terms of this lawsuit.
 
 Anchored Artifacts: A-1476.1
-Mentions: N-3, N-82, N-885
+Mentions: N-3, N-82, N-883
 Related Nodes: N-11277, N-10270
 Tags: relevance:context
 Investigative Direction: Review the Delaware docket for the timing of filing and any federal involvement; the host offers no direct evidence of agency coordination.
@@ -2065,7 +2065,7 @@ Claim: The host says Brigitte Macron says Jean-Michel Trogneux was in America in
 Transcript Snippet: because Brigitte says he was in America, we know Brigitte was in America in the '60s at least for the moon landing.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-885
+Mentions: N-3, N-82, N-883
 Tags: relevance:tangential
 Investigative Direction: Find the original statement by Brigitte Macron about being in America and the moon landing and check its wording.
 
@@ -2178,7 +2178,7 @@ Claim: The host says she has never been friends with Steven Crowder, rejecting A
 Transcript Snippet: I have never been friends with Steven Crowder.
 
 Anchored Artifacts: A-1473.1
-Mentions: N-3, N-263, N-286
+Mentions: N-3, N-261, N-284
 Tags: relevance:context
 Investigative Direction: Compare public statements by the host and Crowder about their relationship over time.
 
@@ -2209,7 +2209,7 @@ Claim: The host says Eric Bolling sat across from Adam Sosnick when they attacke
 Transcript Snippet: it was notoriously Eric Bolling that sat across from Adam when they attacked me over Charlie and lied and said I hadn't been friends with Charlie Kirk since 2017.
 
 Anchored Artifacts: A-1474.1
-Mentions: N-3, N-72, N-286, N-1
+Mentions: N-3, N-72, N-284, N-1
 Related Nodes: N-10003, N-10297, N-10059
 Tags: relevance:core
 Investigative Direction: Review the PBD episode for Bolling's exact words about 2017 and compare with Kirk and Owens messages and appearances after 2017.
@@ -2336,7 +2336,7 @@ Claim: The host says the Trogneux family claim of running a chocolatier factory 
 Transcript Snippet: They just ran this this chocolatier factory from like the 1880s all the way through to now. Not possible. Nazis uh did an aerial bombardment. They occupied the city of Amiens.
 
 Anchored Artifacts: 
-Mentions: N-3, N-885
+Mentions: N-3, N-883
 Tags: relevance:context
 Investigative Direction: Check Amiens municipal and Trogneux company records for wartime operations and dates.
 
@@ -2351,7 +2351,7 @@ Claim: The host says she thinks the Trogneux identity was created for the family
 Transcript Snippet: This seems to me to be an identity that was just created and materialized for this family, and that the true family is a very powerful family
 
 Anchored Artifacts: 
-Mentions: N-3, N-885, N-82
+Mentions: N-3, N-883, N-82
 Tags: relevance:tangential
 Investigative Direction: Speculation with no document; genealogical and civil records are the only test.
 

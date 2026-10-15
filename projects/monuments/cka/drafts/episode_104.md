@@ -12,10 +12,10 @@
 - **Model Version**: claude-manual-extract-seq104
 
 - **Episode Ledger Summary**:
-  - Hole-minted Nodes (remap-ep104): N-163
+  - Hole-minted Nodes (remap-ep104): N-162
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-628, N-629, N-630, N-631, N-10923, N-10924, N-10926, N-10927, N-10928
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-16, N-33, N-82, N-119, N-132, N-162, N-323, N-366, N-376, N-383, N-495, N-618, N-10000, N-10075, N-10132, N-10194, N-10300, N-10388, N-10493, N-10530, N-10637, N-10638, N-10666, N-10899, N-10900, N-10925, N-217, N-10888
+  - Tip-minted Nodes (skeleton): N-626, N-627, N-628, N-629, N-10923, N-10924, N-10926, N-10927, N-10928
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-11, N-14, N-15, N-16, N-33, N-82, N-118, N-131, N-161, N-321, N-364, N-374, N-381, N-493, N-616, N-10000, N-10075, N-10132, N-10194, N-10300, N-10388, N-10493, N-10530, N-10637, N-10638, N-10666, N-10899, N-10900, N-10925, N-215, N-10888
   - Claim Range: C-4062–C-4107
   - (see registers)
 
@@ -40,7 +40,7 @@ Video Timestamp: 00:06:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4062, C-4066, C-4067, C-4069, C-4070, C-4071, C-4072, C-4076, N-10923, N-2, N-163, N-628, N-629*
+*Related: C-4062, C-4066, C-4067, C-4069, C-4070, C-4071, C-4072, C-4076, N-10923, N-2, N-162, N-626, N-627*
 
 **A-2574.2** Host verbal reference to the follow-up emails ordering recipients to delete the original (not shown)
 
@@ -62,7 +62,7 @@ Video Timestamp: 00:02:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4065, N-376, N-2, N-10638*
+*Related: C-4065, N-374, N-2, N-10638*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:30:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4097, N-618, N-217, N-3*
+*Related: C-4097, N-616, N-215, N-3*
 
 **A-2578.2** Nick Shirley reply to Jessica Reed Kraus (shown and read)
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:30:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4098, N-217*
+*Related: C-4098, N-215*
 
 **A-2578.3** Jessica Reed Kraus follow-up post on DMs from Nick Shirley's former teachers (shown and read)
 
@@ -127,7 +127,7 @@ Video Timestamp: 00:30:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4099, N-618, N-217, N-3, N-1*
+*Related: C-4099, N-616, N-215, N-3, N-1*
 
 ---
 
@@ -140,7 +140,7 @@ Video Timestamp: 00:34:34
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4101, N-82, N-383, N-10928*
+*Related: C-4101, N-82, N-381, N-10928*
 
 **A-2579.2** Times headline on Brigitte Macron slapping her husband over text messages to an actress (shown)
 
@@ -151,7 +151,7 @@ Video Timestamp: 00:35:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4100, C-4101, N-82, N-383, N-631, N-10928*
+*Related: C-4100, C-4101, N-82, N-381, N-629, N-10928*
 
 ---
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:40:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4102, C-4103, N-162, N-323*
+*Related: C-4102, C-4103, N-161, N-321*
 
 ---
 
@@ -230,56 +230,56 @@ Transcript spellings "Brigitte Macron" / "Brigitte Macron". Subject of the Hanoi
 
 *Related: C-4100, C-4101, A-2579.1, A-2579.2*
 
-**N-119** Elon Musk
+**N-118** Elon Musk
 
 The host relays a rumor that Sergio Gor had it out for him and blocked his pick, Jared Isaacman.
 
 *Related: C-4093*
 
-**N-132** Susie Wiles
+**N-131** Susie Wiles
 
 Named as White House chief of staff, with Sergio Gor as her second in command.
 
 *Related: C-4092*
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Transcript spelling "Blakey Nef" / "Blake". Asked on X about "Commander Nef" and said Adam Nef was harassed by the host's followers.
 
 *Related: C-4103, A-2580.1*
 
-**N-163** Steven Cheung
+**N-162** Steven Cheung
 
 Node Type: Person
 White House communications aide. Named on the WHMO email CC list and in the Epstein situation-room attendee read (ASR Chung/Chong).
 
 *Related: C-4069, A-2574.1*
 
-**N-217** Nick Shirley
+**N-215** Nick Shirley
 
 Subject of Jessica Reed Kraus's teacher-praise posts; his reply on keeping in touch with teachers is shown.
 
 *Related: C-4097, C-4098, C-4099, A-2578.1, A-2578.2, A-2578.3*
 
-**N-323** Captain Adam Nef
+**N-321** Captain Adam Nef
 
 Host says the team found him and confirmed he questioned Mitch Snow as Snow described.
 
 *Related: C-4102, C-4103, A-2580.1*
 
-**N-366** Mitch Snow
+**N-364** Mitch Snow
 
 His Fort Huachuca account is said to have checked out through Captain Adam Nef.
 
 *Related: C-4102*
 
-**N-376** Sarah Sidner
+**N-374** Sarah Sidner
 
 Transcript spellings "Sarah Sidner" / "Sarah Seidner". CNN anchor the host says first posted the "I want to go home" clip, at 9:25 p.m. Eastern.
 
 *Related: C-4065, C-4073, A-2575.1*
 
-**N-495** Lori Frantzve
+**N-493** Lori Frantzve
 
 Erika Kirk's mother; the host says the Turning Point Action "super feed" back door pays her.
 
@@ -369,31 +369,31 @@ The host says she had agreed to a private court process with the Daily Wire.
 
 *Related: C-4104*
 
-**N-628** Ryan Rippeon
+**N-626** Ryan Rippeon
 
 First named by the host at 00:04:55 in episode 104. Named as copied on the White House Military Office email.
 
 *Related: C-4069, A-2574.1*
 
-**N-629** Gustav Anderly
+**N-627** Gustav Anderly
 
 First named by the host at 00:04:55 in episode 104. Copied on the email; described as information systems manager at the White House Communications Agency in Arlington, Virginia.
 
 *Related: C-4069, C-4070, A-2574.1*
 
-**N-630** Jared Isaacman
+**N-628** Jared Isaacman
 
 First named by the host at 00:22:23 in episode 104. Described as Elon Musk's pick whose appointment Sergio Gor allegedly blocked.
 
 *Related: C-4093*
 
-**N-618** Jessica Reed Kraus
+**N-616** Jessica Reed Kraus
 
 First named by the host at 00:29:22 in episode 104. Writer whose posts relayed praise from Nick Shirley's teachers. Aliases: Jessica Reed Krauss; House and Drinking Habit.
 
 *Related: C-4097, C-4099, A-2578.1, A-2578.3*
 
-**N-631** Golshifteh Farahani
+**N-629** Golshifteh Farahani
 
 First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named in the Times account of the Macron slap. Aliases: Gosh Farani; Gosh Fani; Farhani; Verahani; Verhani.
 
@@ -404,7 +404,7 @@ First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named
 Node Type: Topic
 Investigation target: a White House Military Office communications email sent at about 9:49 p.m. Eastern on the night of the WHCD shooting. The host says it described an "Amendment to the Erika Kirk video clip" and recommended that all channels, digital partners and "approved surrogates" amplify the clip overnight. She says it was copied to Steven Cheung, Ryan Rippeon and Gustav Anderly (White House Communications Agency), carried canary watermarks, and that the White House tried to recall it and then ordered recipients to delete it.
 
-*Related: C-4062, C-4066, C-4067, C-4069, C-4070, C-4071, C-4072, C-4074, C-4075, C-4076, A-2574.1, A-2574.2, N-163, N-628, N-629*
+*Related: C-4062, C-4066, C-4067, C-4069, C-4070, C-4071, C-4072, C-4074, C-4075, C-4076, A-2574.1, A-2574.2, N-162, N-626, N-627*
 
 **N-10924** Justin Streiff September 10 Book-Printer Call
 
@@ -439,9 +439,9 @@ Investigation target: the host's rumor that Sergio Gor, then White House deputy 
 Node Type: Topic
 Investigation target: the shifting explanations of Brigitte Macron's May 2025 Hanoi airport slap. The latest is a Times report that she was angry over text messages to Emmanuel Macron from an exiled Iranian actress, who denied any affair.
 
-*Related: C-4100, C-4101, A-2579.1, A-2579.2, N-82, N-383, N-631*
+*Related: C-4100, C-4101, A-2579.1, A-2579.2, N-82, N-381, N-629*
 
-**N-383** Emmanuel Macron
+**N-381** Emmanuel Macron
 
 Transcript spelling "Emmanuel Macron". Recipient of the slap; said to have received texts from the actress.
 
@@ -503,7 +503,7 @@ Claim: The host says CNN's Sarah Sidner was the first person on social media to 
 Transcript Snippet: Sarah Sidner, you will recall, of CNN, uh she became the first person on social media to upload the now infamous I I want to go home video, Erika Kirk.
 
 Anchored Artifacts: A-2575.1
-Mentions: N-376, N-2
+Mentions: N-374, N-2
 Related Nodes: N-10638, N-10637
 Supports: C-2793
 Investigative Direction: Pull the Instagram post's server timestamp and check for any earlier upload of the clip on other platforms.
@@ -564,7 +564,7 @@ Claim: The host says Steven Cheung, Ryan Rippeon and Gustav Anderly were among t
 Transcript Snippet: Uh Steven Cheung was copied on the email. Um, Ryan Ripian was copied on the email and gentleman named Gustav Anderly was copied on the email.
 
 Anchored Artifacts: A-2574.1
-Mentions: N-163, N-628, N-629, N-3
+Mentions: N-162, N-626, N-627, N-3
 Related Nodes: N-10923
 Investigative Direction: Ask the named recipients or their press offices to confirm receipt of the 9:49 p.m. email.
 
@@ -579,7 +579,7 @@ Claim: The host says Gustav Anderly is listed as information systems manager at 
 Transcript Snippet: it just says he's the information systems manager um at the White House communications agency in Arlington, Virginia.
 
 Anchored Artifacts: A-2574.1
-Mentions: N-629
+Mentions: N-627
 Related Nodes: N-10923
 Investigative Direction: Verify Gustav Anderly's title through White House Communications Agency staff directories or public profiles.
 
@@ -624,7 +624,7 @@ Claim: The host says she is told the "I want to go home" video was not recorded 
 Transcript Snippet: I am told um that this was not a video recorded by Sarah Seidner and that instead it was distributed to Sarah Seidner and that they had operatives record that moment.
 
 Anchored Artifacts:
-Mentions: N-376, N-2
+Mentions: N-374, N-2
 Related Nodes: N-10638
 Investigative Direction: Ask CNN and Sidner for the original file's metadata and its source, and identify the device that recorded the clip.
 
@@ -772,7 +772,7 @@ Claim: The host says Turning Point Action is headed by Tyler Bowyer and that the
 Transcript Snippet: Turning Point Action is headed up by Tyler Bowyer and we have already explained to you that they have built that super feed back door which pays Lori Frantzve, Erika Kirk's mom.
 
 Anchored Artifacts:
-Mentions: N-11, N-495
+Mentions: N-11, N-493
 Related Nodes: N-10925, N-10530, N-10388
 Investigative Direction: Obtain Super Feed Inc. ownership and payment records and Turning Point Action vendor disbursements.
 
@@ -908,7 +908,7 @@ Claim: The host says Sergio Gor was second in command to Susie Wiles and was "un
 Transcript Snippet: Sergio Gor was second in command to Susie Wiles. But he was sort of unceremoniously kicked out, right?
 
 Anchored Artifacts:
-Mentions: N-16, N-132
+Mentions: N-16, N-131
 Related Nodes: N-10927
 Investigative Direction: Review White House organizational charts and reporting on Gor's departure.
 
@@ -923,7 +923,7 @@ Claim: The host relays a rumor that Sergio Gor had it out for Elon Musk, was see
 Transcript Snippet: Sergio Gor personally put a stop to Elon Musk's guy uh Jared Isaacman being appointed.
 
 Anchored Artifacts:
-Mentions: N-16, N-119, N-630, N-5
+Mentions: N-16, N-118, N-628, N-5
 Related Nodes: N-10927
 Investigative Direction: Review reporting on the withdrawal of Jared Isaacman's NASA nomination and White House personnel office involvement.
 
@@ -984,7 +984,7 @@ Claim: The host shows a post by Jessica Reed Kraus saying two of Nick Shirley's 
 Transcript Snippet: Two of Nick Shirley's elementary school teachers reached out to me recently to praise Nick, recounting what a smart, sweet, kind kid he was throughout his early years.
 
 Anchored Artifacts: A-2578.1
-Mentions: N-618, N-217
+Mentions: N-616, N-215
 Related Nodes: N-10666
 Investigative Direction: Archive the post with its date and URL.
 
@@ -999,7 +999,7 @@ Claim: The host shows Nick Shirley's reply saying he still keeps in touch with a
 Transcript Snippet: To this day, I still keep in touch with a few of my teachers on a regular basis.
 
 Anchored Artifacts: A-2578.2
-Mentions: N-217
+Mentions: N-215
 Related Nodes: N-10666
 Investigative Direction: Archive the reply with its date.
 
@@ -1014,7 +1014,7 @@ Claim: The host shows a follow-up post by Jessica Reed Kraus sharing teacher DMs
 Transcript Snippet: It's why Candace Owens is targeting him now. Nick is wildly respected. wildly widely respected, pardon me, among conservative media, carrying forward what Charlie Kirk led
 
 Anchored Artifacts: A-2578.3
-Mentions: N-618, N-217, N-3, N-1
+Mentions: N-616, N-215, N-3, N-1
 Related Nodes: N-10666
 Investigative Direction: Archive the post and any screenshots of the DMs it includes.
 
@@ -1029,7 +1029,7 @@ Claim: The host shows a Times headline saying Brigitte Macron slapped her husban
 Transcript Snippet: there's a new Times headline here that we can show you. Brigitte Macron slapped husband over text messages to an actress.
 
 Anchored Artifacts: A-2579.2
-Mentions: N-82, N-383
+Mentions: N-82, N-381
 Related Nodes: N-10928
 Investigative Direction: Archive the Times article, its date and its sourcing.
 
@@ -1044,7 +1044,7 @@ Claim: The host says the new account attributes the May 2025 Hanoi airport incid
 Transcript Snippet: what you guys actually saw at the Hanoi airport in May of 2025, um, is actually the fact that the first lady was angry.
 
 Anchored Artifacts: A-2579.1, A-2579.2
-Mentions: N-82, N-383, N-631
+Mentions: N-82, N-381, N-629
 Related Nodes: N-10928
 Investigative Direction: Locate the actress's published denial and compare the earlier Élysée explanations.
 
@@ -1059,7 +1059,7 @@ Claim: The host says her team found Captain Adam Nef and determined that he did 
 Transcript Snippet: Yeah, we did find him and we determined that he was did actually uh question Mitch as he said as the story checked out
 
 Anchored Artifacts: A-2580.1
-Mentions: N-323, N-366, N-162, N-3
+Mentions: N-321, N-364, N-161, N-3
 Related Nodes: N-10899
 Supports: C-1907
 Investigative Direction: Obtain Fort Huachuca records of the encounter or a statement from Captain Adam Nef.
@@ -1075,7 +1075,7 @@ Claim: The host says Blake Neff posted on X asking whether she ever found "Comma
 Transcript Snippet: then he said that C Adam Nef was harassed by my cultists and I but he doesn't know he doesn't know Adam Nef, but he was harassed.
 
 Anchored Artifacts: A-2580.1
-Mentions: N-162, N-323
+Mentions: N-161, N-321
 Investigative Direction: Archive Blake Neff's X posts with timestamps.
 
 ---
@@ -1389,9 +1389,9 @@ Confidence: high
 ## 7. Optional Flags
 
 - **Artifacts verbally referenced but not shown**: A-2574.1 (the White House Military Office email is read aloud but deliberately not shown, which the host attributes to canary watermarking), A-2574.2 (deletion-order emails), A-2576.1 (tips-line receipts) and A-2580.1 (Blake Neff's X posts).
-- **Skeleton handling**: The existing N-16 and N-163 rows and the M-42 occurrence are kept with their ids and text; only their placeholder *Related:* lines were filled in. The N-163 description mentions an "Epstein situation-room attendee read", which does not appear in this transcript; it is kept verbatim from the skeleton. The skeleton's ledger line "Hole-minted Nodes (remap-ep104): N-163" was replaced by "(see registers)" per the spec. Its Video Timestamp Range (00:56:29) was corrected to the transcript duration, 49:46.
-- **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Nef" is N-162 Blake Neff. "Captain Adam Nef" / "Commander Nef" is N-323. "Sarah Seidner" is N-376 Sarah Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
-- **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-618 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-631, the host says she is "definitely not saying this name right" ("Gosh Farani", "Gosh Fani", "Farhani", "Verahani", "Verhani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
+- **Skeleton handling**: The existing N-16 and N-162 rows and the M-42 occurrence are kept with their ids and text; only their placeholder *Related:* lines were filled in. The N-162 description mentions an "Epstein situation-room attendee read", which does not appear in this transcript; it is kept verbatim from the skeleton. The skeleton's ledger line "Hole-minted Nodes (remap-ep104): N-162" was replaced by "(see registers)" per the spec. Its Video Timestamp Range (00:56:29) was corrected to the transcript duration, 49:46.
+- **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Nef" is N-161 Blake Neff. "Captain Adam Nef" / "Commander Nef" is N-321. "Sarah Seidner" is N-374 Sarah Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
+- **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-616 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-629, the host says she is "definitely not saying this name right" ("Gosh Farani", "Gosh Fani", "Farhani", "Verahani", "Verhani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
 - **Transcription ambiguities**: "rescend" / "resend" for rescind, and "plat platforms", are kept as written. "Brigitte / Brigitte / Brigitte Macron" (Brigitte Macron), "Emmanuel Macron", "capta" (CAPTCHA) and "Vavlla" (favela) are kept as written. The host says Streiff "he's not just the CEO" (20:14) but elsewhere calls him COO; COO is used.
 - **Possible cross-episode links left out**: C-4064 was not linked to C-2791 (Washington Post: Secret Service fired at the WHCD suspect), because the host says the agents fired "at one another", a different proposition. C-4097–C-4099 were not linked to C-2901/C-2552 (Nick Shirley's own infiltration claims), because they concern teacher praise, not the infiltration. C-4081–C-4083 were not linked to C-2114 (Buckmans' $10 million gift), which is a different proposition.
 - **Not inscribed as claims (admission test)**: Several statements were not inscribed:

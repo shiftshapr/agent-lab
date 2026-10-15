@@ -32,8 +32,8 @@
             "C-3832"
           ],
           "related_nodes": [
-            "N-570",
-            "N-265",
+            "N-568",
+            "N-263",
             "N-1",
             "N-10799",
             "N-10908"
@@ -62,7 +62,7 @@
             "C-3838"
           ],
           "related_nodes": [
-            "N-265",
+            "N-263",
             "N-3",
             "N-10808",
             "N-10810"
@@ -91,7 +91,7 @@
             "C-3844"
           ],
           "related_nodes": [
-            "N-570",
+            "N-568",
             "N-1",
             "N-10908"
           ],
@@ -142,8 +142,8 @@
             "C-3854"
           ],
           "related_nodes": [
-            "N-495",
-            "N-393",
+            "N-493",
+            "N-391",
             "N-2",
             "N-10907"
           ],
@@ -170,7 +170,7 @@
             "C-3858"
           ],
           "related_nodes": [
-            "N-162",
+            "N-161",
             "N-3",
             "N-40",
             "N-10022"
@@ -682,8 +682,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Transcript spellings \"Blake enough\" and \"Blakey Neff\". Called the host dishonest on X about the Robinson charging document; she presses him on the Aspen video.",
@@ -704,8 +704,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Named among TPUSA employees who did not call 911.",
@@ -722,8 +722,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-265",
-      "ref": "N-265",
+      "@id": "N-263",
+      "ref": "N-263",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Transcript spellings \"Terrell\" and \"Tarrio\". Camera operator who took down the back camera, showed the host the footage over FaceTime and, she suspects, kept the SD card.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-287",
-      "ref": "N-287",
+      "@id": "N-285",
+      "ref": "N-285",
       "name": "Xavier Poussard",
       "type": "person",
       "description": "Transcript spelling \"Xavier Boussard\". Credited by the host for journalism on Epstein's Iran-Contra link.",
@@ -770,8 +770,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-345",
-      "ref": "N-345",
+      "@id": "N-343",
+      "ref": "N-343",
       "name": "Victor Marx",
       "type": "person",
       "description": "The host says he wanted the Fold AR patent for Israel, was later sued by the patent holder in the tip, and declined to appear with Corby Hall.",
@@ -789,8 +789,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-346",
-      "ref": "N-346",
+      "@id": "N-344",
+      "ref": "N-344",
       "name": "Corby Hall",
       "type": "person",
       "description": "Fold AR patent holder whom Victor Marx sought to push out; scheduled for an interview the next day.",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-367",
+      "ref": "N-367",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "The host says Erika Frantzve was dating him in late 2016.",
@@ -824,8 +824,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-393",
-      "ref": "N-393",
+      "@id": "N-391",
+      "ref": "N-391",
       "name": "Larry Guinta",
       "type": "person",
       "description": "Transcript spelling \"Larry Ginta\". Erika Kirk's stepfather; at the 2016 gun-patent dinner per the tip.",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
+      "@id": "N-493",
+      "ref": "N-493",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Transcript spelling \"Lori Frantzbe\". Erika Kirk's mother; per the tip she pursued a pending gun patent in 2016 while promoting G-Tech Industries.",
@@ -870,8 +870,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-570",
-      "ref": "N-570",
+      "@id": "N-568",
+      "ref": "N-568",
       "name": "Nicey (YouTuber)",
       "type": "person",
       "description": "Transcript spellings \"Nicci\" and \"Niecy\". Her analysis argues the back-camera footage was zoomed or cropped and documents the platform setup.",
@@ -892,8 +892,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-607",
-      "ref": "N-607",
+      "@id": "N-605",
+      "ref": "N-605",
       "name": "Melania Trump",
       "type": "person",
       "description": "First named by the host at 00:36:45 in episode 095. Referred to as \"Melania\"; people in her circle are said to have called Laura Loomer the person most likely to harm Donald Trump.",
@@ -1450,8 +1450,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-495",
-        "N-393",
+        "N-493",
+        "N-391",
         "N-2"
       ]
     },
@@ -1481,7 +1481,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-570"
+        "N-568"
       ]
     }
   ],
@@ -1501,7 +1501,7 @@
       "investigative_direction": "Time-sync the viral video of the camera takedown against the shot time on September 10, 2025.",
       "transcript_snippet": "the one that Terrell raced the footage that he raced to take down just minutes after Charlie was struck. Literally I I think we estimated about 4 minutes after Charlie was struck.",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-1"
       ]
     },
@@ -1520,9 +1520,9 @@
       "investigative_direction": "Obtain Utah County and UVU 911 call logs for September 10, 2025 and match caller numbers against TPUSA staff.",
       "transcript_snippet": "none of the Turning Point employees called 911. Not Mikey, not Blake, not Terrell.",
       "mentions_person_refs": [
-        "N-194",
-        "N-162",
-        "N-265"
+        "N-192",
+        "N-161",
+        "N-263"
       ]
     },
     {
@@ -1541,8 +1541,8 @@
         "C-1464"
       ],
       "mentions_person_refs": [
-        "N-265",
-        "N-194"
+        "N-263",
+        "N-192"
       ]
     },
     {
@@ -1562,8 +1562,8 @@
       "investigative_direction": "Obtain the original, unedited SD-card file and compare its frame dimensions and metadata with the version shown on FaceTime.",
       "transcript_snippet": "Nicci discovered that the camera footage which was shown to me on FaceTime was likely edited.",
       "mentions_person_refs": [
-        "N-570",
-        "N-265",
+        "N-568",
+        "N-263",
         "N-3",
         "N-1"
       ]
@@ -1586,7 +1586,7 @@
       "investigative_direction": "Collect TPUSA livestream archives for each 2025 tour stop and compare back-camera framing.",
       "transcript_snippet": "On February 28th, 2025, the American Comeback Tour did a stop at Florida State University and here is the back camera shot.",
       "mentions_person_refs": [
-        "N-570"
+        "N-568"
       ]
     },
     {
@@ -1607,7 +1607,7 @@
       "investigative_direction": "Obtain the camera's recorded settings and the native file from September 10, 2025 to determine whether the zoom was optical at capture or applied in editing.",
       "transcript_snippet": "The camera is a wide-angle camera and was always used as such. However, in the footage that Terrell has selectively shared with Candace, you cannot see the ground.",
       "mentions_person_refs": [
-        "N-265"
+        "N-263"
       ]
     },
     {
@@ -1625,7 +1625,7 @@
       "investigative_direction": "Produce the host's call logs with Terrell Farnsworth for September 17–19, 2025.",
       "transcript_snippet": "I phoned him on September the 17th because the footage started going viral of him taking down the camera.",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-3"
       ]
     },
@@ -1644,7 +1644,7 @@
       "investigative_direction": "Obtain Terrell's messages with the host and with Erika Kirk between September 17 and 19, 2025.",
       "transcript_snippet": "And then on the 19th, he sort of broke and said, \"Okay, no, let's just get on the call. I'm happy to show you the footage.\"",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-2"
       ]
     },
@@ -1666,7 +1666,7 @@
       "investigative_direction": "Have a forensic examiner review the FaceTime recording, and obtain the SD card's volume label and chain-of-custody records.",
       "transcript_snippet": "It is my suspicion that that YOLO drive that you're seeing on the left-hand side is likely what he named his SD card.",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-3"
       ]
     },
@@ -1687,7 +1687,7 @@
       "investigative_direction": "Request FBI evidence logs showing whether and when the back-camera SD card was collected.",
       "transcript_snippet": "Terrell and I are speaking on the 17th and on the 19th and at no point in our conversations does he say to me, \"I don't have the footage or I don't have the SD card.\"",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-3"
       ]
     },
@@ -1706,7 +1706,7 @@
       "investigative_direction": "Obtain Terrell's communications with Erika Kirk on September 10–11, 2025.",
       "transcript_snippet": "And his answer was because he wanted to protect Erika. He didn't want Erika to see the footage.",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-2"
       ]
     },
@@ -1750,7 +1750,7 @@
       "investigative_direction": "Establish Terrell's travel from Utah to Arizona and the file-creation timestamps on his computer.",
       "transcript_snippet": "Terrell was able to take that footage back to Arizona. He's opening that on his desktop in Arizona back in Scottsdale.",
       "mentions_person_refs": [
-        "N-265"
+        "N-263"
       ]
     },
     {
@@ -1790,8 +1790,8 @@
       "investigative_direction": "Subpoena the native back-camera file and compare its field of view with the FaceTime version.",
       "transcript_snippet": "So yes, Niecy, I I agree with you um that it is very likely that he zoomed in on that footage and I believe the reason he did that was to obscure our view of the ground",
       "mentions_person_refs": [
-        "N-570",
-        "N-265"
+        "N-568",
+        "N-263"
       ]
     },
     {
@@ -1909,8 +1909,8 @@
       "investigative_direction": "Search USPTO records for interchangeable-caliber revolver patents filed around 2016 and their inventors.",
       "transcript_snippet": "Similarly, Lori Frantzve and Larry were interested in a gun pending patent and this was going to be a gun that was and is today the only now patent approved weapon that features interchangeable calibers, okay?",
       "mentions_person_refs": [
-        "N-495",
-        "N-393"
+        "N-493",
+        "N-391"
       ]
     },
     {
@@ -1929,8 +1929,8 @@
       "investigative_direction": "Obtain Marx–Hall correspondence on the proposed acquisition and any named Israeli buyer.",
       "transcript_snippet": "Victor Marx wants the patent for Israel. Let me remind you, Victor Marx wanted the patent for Israel.",
       "mentions_person_refs": [
-        "N-345",
-        "N-346"
+        "N-343",
+        "N-344"
       ]
     },
     {
@@ -1950,8 +1950,8 @@
       "investigative_direction": "Identify the 2016 Salt Lake City expo's exhibitor list and G-Tech Industries' corporate filings and investors.",
       "transcript_snippet": "Allegedly, at this time she and Larry um meet some the guys that have this patent pending and they offer to introduce these guys to their angel investor for G-Tech Industries.",
       "mentions_person_refs": [
-        "N-495",
-        "N-393"
+        "N-493",
+        "N-391"
       ]
     },
     {
@@ -1971,8 +1971,8 @@
       "investigative_direction": "Interview the patent holders and identify the restaurant and date of the dinner.",
       "transcript_snippet": "So they set up a dinner back in Scottsdale, Arizona. Again, this is going to be late 2016. At this dinner you have Lori, you have Larry Ginta, and the two would-be company owners.",
       "mentions_person_refs": [
-        "N-495",
-        "N-393"
+        "N-493",
+        "N-391"
       ]
     },
     {
@@ -1992,8 +1992,8 @@
       "investigative_direction": "Search federal contracting databases for awards to Lori Frantzve-linked entities.",
       "transcript_snippet": "So they were there to discuss only the patent, a potential deal for it, um and what they could offer in exchange for it. The answer being, we have access to government contracts.",
       "mentions_person_refs": [
-        "N-495",
-        "N-393"
+        "N-493",
+        "N-391"
       ]
     },
     {
@@ -2014,7 +2014,7 @@
       "transcript_snippet": "My favorite part of the story is who strolls in unannounced at this dinner to sweeten up the potential deal. None other than Erika Frantzve.",
       "mentions_person_refs": [
         "N-2",
-        "N-495"
+        "N-493"
       ]
     },
     {
@@ -2034,7 +2034,7 @@
       "investigative_direction": "Interview the tipster about the exact words used and the dinner date.",
       "transcript_snippet": "Her mother says, \"Oh, well, she's It's not known yet, but she's just now dating a guy that has some very big political connections.",
       "mentions_person_refs": [
-        "N-495",
+        "N-493",
         "N-2"
       ]
     },
@@ -2056,7 +2056,7 @@
       "transcript_snippet": "the person in retrospect thought that she was talking about Charlie Kirk, but she actually wasn't at this time, according to our timeline, Erika was dating Cabot Phillips.",
       "mentions_person_refs": [
         "N-2",
-        "N-369",
+        "N-367",
         "N-1"
       ]
     },
@@ -2075,7 +2075,7 @@
       "investigative_direction": "Search state and federal court dockets for litigation between Victor Marx and the patent holder.",
       "transcript_snippet": "the person that was involved with this patent, eventually got into a little uh lawsuit with Victor Marx.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2113,7 +2113,7 @@
       "mentions_person_refs": [
         "N-9",
         "N-48",
-        "N-287"
+        "N-285"
       ]
     },
     {
@@ -2133,7 +2133,7 @@
       "investigative_direction": "Compare the charging document's account with the FBI's public releases on September 11–12, 2025.",
       "transcript_snippet": "They recognized photos of the suspect, which were released by the FBI as looking like their son.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3",
         "N-40"
       ]
@@ -2200,7 +2200,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2222,7 +2222,7 @@
         "C-2661"
       ],
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-2",
         "N-46",
         "N-3",
@@ -2322,7 +2322,7 @@
       "investigative_direction": "Identify any on-record source from Melania Trump's staff or associates.",
       "transcript_snippet": "as I understand it, Melania is in her circle, have said this, that she would be the most likely person to harm Donald Trump.",
       "mentions_person_refs": [
-        "N-607",
+        "N-605",
         "N-60",
         "N-5"
       ]
@@ -2631,8 +2631,8 @@
       "investigative_direction": "Obtain the host's correspondence with Victor Marx on interview terms.",
       "transcript_snippet": "Obviously, you know, Victor Marx uh did not want to join with Corby Hall. So we kept our appointment with Corby Hall.",
       "mentions_person_refs": [
-        "N-345",
-        "N-346"
+        "N-343",
+        "N-344"
       ]
     }
   ],

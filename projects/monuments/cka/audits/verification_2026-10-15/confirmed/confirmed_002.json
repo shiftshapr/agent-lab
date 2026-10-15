@@ -1,0 +1,483 @@
+[
+ {
+  "claim": "C-1196",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says some artist from Utah posted a song called something like 'Charlie Kirk Dead at 31', and that right when people started saying this guy looks like the person in the photo, the feds said they had Tyler Robinson."
+  },
+  "note": "56:17-56:33 supports; pre-knowledge framing was not said."
+ },
+ {
+  "claim": "C-1200",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "Candace Owens states that she went on tour with Turning Point USA on college campuses the previous year, contradicting Bolling's claim that she has not spoken at TPUSA events.",
+   "mentions": [
+    "N-3",
+    "N-72"
+   ]
+  },
+  "note": "40:26 host names Eric Bolling directly."
+ },
+ {
+  "claim": "C-1201",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says, sarcastically, that she was not invited to speak alongside President Trump and JD Vance on the stage with Tucker Carlson at a memorial event, and that this has to do with nothing.",
+   "mentions": [
+    "N-3",
+    "N-5",
+    "N-22"
+   ]
+  },
+  "note": "44:52-45:03 matches; Arizona/open memorial not said; Erika not in claim."
+ },
+ {
+  "claim": "C-1204",
+  "episode": 5,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-72"
+   ],
+   "label": "Bolling Described 'Quiet Breakup' Between Kirk and Owens"
+  },
+  "note": "Kolvet/Carlson correctly dropped, but claim refers to Kirk ('him', TPUSA throne) and label names Kirk; keep N-1."
+ },
+ {
+  "claim": "C-3726",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Harley Pastnic",
+     "right": "Harley Pasternak",
+     "source": "https://www.primetimer.com/news/who-is-harley-pasternak-candace-owens-revisits-kanye-wests-trainers-text-threatening-to-re-institutionalize-over-his-anti-jewish-rants"
+    }
+   ]
+  },
+  "note": "Checked: Pasternak is Canadian and Owens ran an investigation of him (Ep. 177); valve detail itself unverified."
+ },
+ {
+  "claim": "C-11931",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person; Irwin Steel not referred to."
+ },
+ {
+  "claim": "C-11948",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Netanyahu not in claim."
+ },
+ {
+  "claim": "C-11949",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Netanyahu not in claim."
+ },
+ {
+  "claim": "C-11966",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Ackman not in claim."
+ },
+ {
+  "claim": "C-1205",
+  "episode": 6,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-83",
+    "N-1"
+   ],
+   "timestamp": "00:03:26"
+  },
+  "note": "Skyler not in claim; content starts 03:31 ('that same individual appears'), so 00:03:50 is late."
+ },
+ {
+  "claim": "C-1208",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the individual who handled the camera has been around Turning Point USA for years, going back to her own early days working there.",
+   "label": "Host Says Camera Individual Has Been Around TPUSA for Years"
+  },
+  "note": "06:44-06:48 is host's own statement."
+ },
+ {
+  "claim": "C-1209",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-83"
+   ]
+  },
+  "note": "Erika not referred to."
+ },
+ {
+  "claim": "C-1212",
+  "episode": 6,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a PBD podcast clip the host plays, a guest says Candace Owens' credibility is going to go \"down the tubes\" because she needs to bring receipts, and a speaker in the clip adds that Bill Ackman brought receipts.",
+   "label": "PBD Guest Said Candace's Credibility Is Going Down the Tubes"
+  },
+  "note": "Ep5 transcript marks a speaker change (>>) before 'Bill Ackman brought receipts'; not clearly the same guest."
+ },
+ {
+  "claim": "C-1213",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a PBD podcast clip the host plays, a guest, asked whether he is on the board of Turning Point, says yes, that he last saw Candace Owens in person in 2015 or 2016, and that she was last at a Turning Point event not in many years.",
+   "mentions": [
+    "N-3",
+    "N-57"
+   ],
+   "label": "PBD Guest Said He Last Saw Candace at TPUSA in 2015 or 2016"
+  },
+  "note": "Kolvet is referred to in third person by the guest; not the speaker."
+ },
+ {
+  "claim": "C-1219",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:29:40",
+   "claim": "The host says Victoria Churchill of the Daily Mail has a connection to AIPAC, and shows a picture of her sitting in the audience at AIPAC, starting off 2018 in DC."
+  },
+  "note": "Verified at 29:44-30:08 in ep6 transcript."
+ },
+ {
+  "claim": "C-1220",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-92",
+    "N-87"
+   ]
+  },
+  "note": "Benny Johnson not in claim."
+ },
+ {
+  "claim": "C-1222",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that on May 22 she wrote to Charlie Kirk that speech censorship is coming to America, after he sent her his tweet, and that he wrote back."
+  },
+  "note": "32:43-33:32: the quote is hers; his reply not read."
+ },
+ {
+  "claim": "C-1227",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:35:42"
+  },
+  "note": "Netanyahu remark at 35:40-35:59."
+ },
+ {
+  "claim": "C-3637",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her CIA merchandise stands for the Candace Intelligence Agency and that some people think it stands for the Decentralized Intelligent Agency, which she loves."
+  },
+  "note": "52:42-52:48 supports."
+ },
+ {
+  "claim": "C-13612",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Skyler only addressed, not in claim."
+ },
+ {
+  "claim": "C-13644",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says the Feds Were Involved in Charlie's Death to Push Through Speech Laws",
+   "claim": "The host says the feds are obviously lying and, at some level in a very big way, were involved in the death of Charlie because they wanted a radical way to push through laws.",
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Self-answered rhetorical question in host monologue."
+ },
+ {
+  "claim": "C-1228",
+  "episode": 7,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "George Zinn not referred to."
+ },
+ {
+  "claim": "C-1230",
+  "episode": 7,
+  "decision": "amend",
+  "fix": {
+   "label": "Kolvet Says the Surgeon Told Him the Bullet Should Have Gone Through",
+   "claim": "In a tweet the host reads, Andrew Kolvet says the surgeon who worked on Charlie told him the bullet 'absolutely should have gone through', which is very normal for a high-powered, high-velocity round.",
+   "mentions": [
+    "N-14",
+    "N-1"
+   ]
+  },
+  "note": "Fix right; claim names Charlie so add N-1."
+ },
+ {
+  "claim": "C-1235",
+  "episode": 7,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says the Feds Repaved the Area Within About 48 Hours of the Shooting",
+   "claim": "The host says that within approximately 48 hours of the shooting 'they', the feds she had just referred to, decided to pave the area where Charlie Kirk was shot, asking producer Skyler to confirm the timing.",
+   "mentions": [
+    "N-1",
+    "N-68"
+   ]
+  },
+  "note": "Host at 20:16 says 'the feds scrambled to repave that area'; Skyler named."
+ },
+ {
+  "claim": "C-1241",
+  "episode": 7,
+  "decision": "amend",
+  "fix": {
+   "label": "Clip Has Audience Member Telling Kirk He Has a Huge Problem With AIPAC",
+   "claim": "In a clip the host plays of an audience Q&A, after Charlie Kirk invites him to chime in, an audience member says he has a huge problem with allowing a group that does not represent American interests to influence the people who are supposed to represent Americans.",
+   "timestamp": "00:39:20"
+  },
+  "note": "Attribution fix right, but the FARA/president-shot line (40:31) is host commentary after clip ('he is in his own words'), not Kirk."
+ },
+ {
+  "claim": "C-1242",
+  "episode": 7,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays from the night before, Tucker Carlson says Charlie Kirk was bringing the gospel to the country and was a political person, but that politics is not the final answer, that the gospel message begins with repentance and that the only real solution is Jesus.",
+   "timestamp": "00:43:29"
+  },
+  "note": "Claim fix right; clip begins 43:34, so move timestamp back from 44:13."
+ },
+ {
+  "claim": "C-10739",
+  "episode": 7,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-38",
+    "N-55"
+   ]
+  },
+  "note": "Awesome Jew not referred to; Kirk named."
+ },
+ {
+  "claim": "C-10742",
+  "episode": 7,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the friend in the thread was reacting to her conversation with Zionist guest Ami Kozak and that Charlie probably told him to watch it to see she is not antisemitic.",
+   "names": [
+    {
+     "wrong": "Ammy Kak",
+     "right": "Ami Kozak",
+     "source": "https://jewishjournal.com/culture/arts/comedy/365132/why-a-jewish-comedians-interview-with-candace-owens-is-a-must-watch/"
+    }
+   ]
+  },
+  "note": "Checked: Kozak debated Owens on her show and corrected her Muslim-quarter claim, matching the text."
+ },
+ {
+  "claim": "C-10745",
+  "episode": 7,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-46",
+    "N-3"
+   ]
+  },
+  "note": "Kirk not in claim."
+ },
+ {
+  "claim": "C-10750",
+  "episode": 7,
+  "decision": "reject",
+  "fix": {},
+  "note": "Line at 40:31-40:53 is host commentary after the clip ends ('It is incredible that he is in his own words'); original host attribution is right."
+ },
+ {
+  "claim": "C-10752",
+  "episode": 7,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Erika not in claim."
+ },
+ {
+  "claim": "C-10754",
+  "episode": 7,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says the children who spoke \"yesterday\" sounded highly rehearsed on their experience; the host says the comment refers to the children who witnessed the assassination and spoke on the news and the next morning on Good Morning America.",
+   "label": "Viewer says the children who spoke after the assassination sounded rehearsed"
+  },
+  "note": "48:17-48:55: Friday comment about assassination witnesses."
+ },
+ {
+  "claim": "C-10755",
+  "episode": 7,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host tells viewers to watch the series Becoming Brigitte, says a lot of people are hooked, and says of the subject \"she's a dude\".",
+   "names": [
+    {
+     "wrong": "Becoming Breit",
+     "right": "Becoming Brigitte",
+     "source": "https://spotlight.ebu.ch/p/false-claims-that-brigitte-macron"
+    }
+   ]
+  },
+  "note": "Checked: Becoming Brigitte is Owens's 2025 series (IMDb, Media Matters)."
+ },
+ {
+  "claim": "C-10765",
+  "episode": 7,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-99",
+    "N-36",
+    "N-1"
+   ]
+  },
+  "note": "Loomer not named in claim; Charlie is."
+ },
+ {
+  "claim": "C-10770",
+  "episode": 7,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-98",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Alex Clark not in claim; Charlie is."
+ },
+ {
+  "claim": "C-1245",
+  "episode": 8,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Tiffany Barker intimated that Good Morning America's outreach was a political connection: her sister ran as lieutenant governor alongside Phil Lyman, and GMA reached out to Phil Lyman and somehow ended up with her sister's children and her.",
+   "mentions": [
+    "N-3",
+    "N-61",
+    "N-75"
+   ]
+  },
+  "note": "08:25-08:44 supports."
+ },
+ {
+  "claim": "C-1246",
+  "episode": 8,
+  "decision": "amend",
+  "fix": {
+   "claim": "In the Good Morning America clip the host plays, L Steel says she saw blood everywhere and that it hit his artery, and Mia Grant says they were about 15 feet away and she thought the shot was a firecracker.",
+   "timestamp": "00:04:35",
+   "mentions": [
+    "N-76",
+    "N-77",
+    "N-1"
+   ]
+  },
+  "note": "Fix right; 'his artery' clearly refers to Charlie Kirk, add N-1."
+ },
+ {
+  "claim": "C-1255",
+  "episode": 8,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Andrew Kolvet tells Alex Clark that Charlie was not becoming Catholic but really loved Catholic mass.",
+   "mentions": [
+    "N-1",
+    "N-14",
+    "N-99"
+   ]
+  },
+  "note": "32:47 supports; 'remained Protestant' not said."
+ },
+ {
+  "claim": "C-1256",
+  "episode": 8,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-14"
+   ]
+  },
+  "note": "Ackman/Shillman not in claim."
+ },
+ {
+  "claim": "C-1265",
+  "episode": 8,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim is about Charlie."
+ }
+]

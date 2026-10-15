@@ -16,7 +16,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-11002, N-11003, N-11004, N-11005
-  - Hole-minted Nodes (reintro-ep004): N-184, N-10062, N-10076, N-10139, N-10201
+  - Hole-minted Nodes (reintro-ep004): N-182, N-10062, N-10076, N-10139, N-10201
   - Tip-minted Nodes (reintro-ep004): N-10898, N-10934
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-4838–C-4915
@@ -662,7 +662,7 @@ Billionaire investor; the host says his cronies asked her for comment.
 
 ---
 
-**N-184** Camera Operator (UVU Event, 2025-09-10)
+**N-182** Camera Operator (UVU Event, 2025-09-10)
 
 The man the host says took the camera down minutes after the shooting; she says she identified him.
 
@@ -847,10 +847,10 @@ Host's report that people were offering donations to secure speaking roles at Ch
 **C-1175** Host Says Text Message Language Is Too Formal for 22-Year-Olds
 
 Claim Timestamp: 00:00:41
-Claim: The host says the Robinson-Twigs text messages use words like 'retrieve' and 'vehicle' in ways that are inconsistent with casual 22-year-old texting, and suggests they are not authentic.
+Claim: The host says the alleged Robinson-Twiggs text messages use words like 'retrieve' and 'vehicle' in ways that are inconsistent with casual 22-year-old texting, and suggests they are not authentic.
 Transcript Snippet: I played this game with with my entire staff and um I was able to find since dating back for the last three years two messages where someone used that term. The first person was somebody that was former military and the second person was a cop.
 Anchored Artifacts: A-1104.1, A-1104.2
-Mentions: N-2, N-40, N-54, N-68
+Mentions: N-40, N-54
 Related Nodes: N-10038
 Confidence: medium
 Investigative Direction: Pull the raw message files from Discord/phones for linguistic analysis against age cohort texting baselines.
@@ -860,7 +860,7 @@ Investigative Direction: Pull the raw message files from Discord/phones for ling
 **C-1176** Host Says Indictment Text Messages Lack Timestamps
 
 Claim Timestamp: 00:03:08
-Claim: The host says the text messages released in the Robinson indictment have no timestamps, which she calls a major red flag, and that without them the chronology cannot be independently verified.
+Claim: The host says the text messages released in the Robinson indictment have no timestamps, which she calls a major red flag, and that it would be very easy to say when the first message was sent.
 Transcript Snippet: the obvious thing, there's no timestamps. Right away, major red flag.
 Anchored Artifacts: A-1104.1, A-1104.2, A-1104.7, A-1104.8, A-1104.9, A-1104.10, A-1106.3
 Mentions: N-40
@@ -887,10 +887,10 @@ Investigative Direction: Obtain the photograph through discovery or leak; verify
 **C-1178** Host Says Texts Could Not Have Been Sent Before 5:30 PM Sept 10
 
 Claim Timestamp: 00:08:15
-Claim: The host says that because Robinson's text references 'similar clothing' to a second suspect, the text could not have been sent before Governor Cox's 5:30 PM press conference mentioning dark clothing, and she calls the messages made up.
+Claim: The host says that because Robinson's text references 'similar clothing' to a second suspect, the text could not have been sent before Governor Cox's 5:30 PM press conference mentioning dark clothing, and she says she thinks the messages are made up.
 Transcript Snippet: the earliest that that message could have been sent out is after 5:30 p.m.
 Anchored Artifacts: A-1104.2, A-1105.2, A-1110.1
-Mentions: N-40, N-42, N-69, N-41
+Mentions: N-40, N-41
 Related Nodes: N-10040
 Confidence: medium
 Investigative Direction: Recover device timestamps and confirm Cox press transcript.
@@ -940,10 +940,10 @@ Investigative Direction: Obtain the arrest/release log for Lance Twiggs and the 
 **C-1182** Same-Outfit-For-33-Hours Claim Disputed
 
 Claim Timestamp: 00:29:45
-Claim: Governor Cox's statement that Robinson wore the same maroon outfit for 33 hours is contradicted by host's source, who alleges a different outfit at pickup.
+Claim: The host says Governor Cox's statement that Robinson kept the same maroon outfit on for 33 hours is false according to her source, who says Robinson was not wearing that outfit when picked up.
 Transcript Snippet: for 33 hours he decided that he was going to keep the outfit on… always sounded dumb to us.
 Anchored Artifacts: A-1105.2, A-1106.2, A-1110.1
-Mentions: N-41
+Mentions: N-40, N-41
 Related Nodes: N-10042, N-10046
 Confidence: low
 Uncertainty: Source-based claim; no independent corroboration presented in episode.
@@ -968,7 +968,7 @@ Investigative Direction: Release full unedited video from both camera angles; fo
 **C-1184** Lance Twiggs's Mother Holds Stanford BS in Psychology
 
 Claim Timestamp: 00:36:23
-Claim: Lance Twiggs's mother holds a Bachelor of Science from Stanford University in psychology, which the host describes as a 'running theme' in federal operations.
+Claim: The host says Lance Twiggs's mother received a bachelor of science in psychology from Stanford University, says it seems a running theme in 'fed ops' that there is psychology somewhere in the family, and says she is not saying the mother has anything to do with anything.
 Transcript Snippet: I already don't like that mom… received a bachelor of science from Stanford University in psychology.
 Anchored Artifacts: 
 Mentions: N-70, N-54
@@ -979,13 +979,13 @@ Investigative Direction: Verify the mother's Stanford degree via alumni records 
 
 ---
 
-**C-1185** Donors Financially Pressured Charlie Over Candace Speaking Slot
+**C-1185** Donors Pressured Charlie Over Tucker Speaking Slot
 
 Claim Timestamp: 00:45:45
-Claim: Donors financially threatened Charlie Kirk over inviting Candace Owens to a Turning Point conference, costing him a $2M donation two days before his death.
+Claim: In a clip the host plays, Tucker Carlson says that a small, very intense group of donors tormented Charlie Kirk until the day he died and that two days before he died Charlie lost a $2 million donation because he had publicly pledged to bring Carlson to the next Turning Point conference in December.
 Transcript Snippet: two days before he died, he lost a $2 million donation… people are really mad.
 Anchored Artifacts: A-1107.1, A-1107.2, A-1107.3, A-1109.1
-Mentions: N-1, N-3, N-22, N-36, N-46, N-71, N-38, N-55
+Mentions: N-1, N-22
 Related Nodes: N-10047
 Confidence: medium
 Investigative Direction: Verify $2M donation withdrawal via Turning Point USA financial records; obtain donor correspondence threads.
@@ -1025,12 +1025,12 @@ Investigative Direction: Compare the Zinn decoy account and release timeline aga
 
 Claim Timestamp: 00:04:15
 
-Claim: The host says the Robinson-Twigs texts are written in very proper English with commas and correct punctuation, which she calls a striking contrast with the meme-style text inscribed on the cartridge casings.
+Claim: The host says the Robinson-Twiggs texts are written in very proper English with commas and correct punctuation, which she calls a striking contrast with the meme-style text inscribed on the cartridge casings.
 
 Transcript Snippet: He's got commas in there. It's like perfect English. And that's actually a striking contrast compared to what's inscribed on the casings,
 
 Anchored Artifacts: 
-Mentions: N-3, N-40
+Mentions: N-3, N-40, N-54
 Related Nodes: N-10038
 Supports: C-1175
 Investigative Direction: Compare grammar and punctuation in the released texts against authenticated Robinson writing and the casing inscriptions, using the raw message files.
@@ -1092,7 +1092,7 @@ Claim: The host says her timeline shows that about 30 minutes after Charlie Kirk
 Transcript Snippet: we learn about about 30 minutes after that George Zinn, the decoy boy, that's when it's announced that he that there he's a suspect in custody by the Utah police.
 
 Anchored Artifacts: A-2711.1
-Mentions: N-42, N-3
+Mentions: N-42, N-3, N-1
 Related Nodes: N-10097
 Investigative Direction: Pull Utah police and UVU statements and press logs to fix the exact time Zinn was announced as a suspect in custody.
 
@@ -1123,7 +1123,7 @@ Claim: The host says nobody in the press conference said a man was picked up bec
 Transcript Snippet: Okay. Nobody in the press conference says uh we picked him up because he was wearing something similar to the shooter.
 
 Anchored Artifacts: A-1104.2
-Mentions: N-40, N-41, N-3
+Mentions: N-40, N-3
 Related Nodes: N-10040
 Supports: C-1178
 Investigative Direction: Search all Utah and FBI press statements of September 10 for any 'similar clothing' description before the 5:30 p.m. conference.
@@ -1139,7 +1139,7 @@ Claim: The host says that on her timeline Kash Patel tweets that the subject in 
 Transcript Snippet: And we then know Kash Patel tweets that the subject in custody has been released.
 
 Anchored Artifacts: A-2711.2
-Mentions: N-69, N-42
+Mentions: N-69
 Related Nodes: N-10097
 Investigative Direction: Retrieve the Kash Patel X post and its timestamp and match it to the release of the first detained man.
 
@@ -1164,7 +1164,7 @@ Investigative Direction: Compare the planning timeline in the texts with the 'we
 
 Claim Timestamp: 00:11:46
 
-Claim: The host says a Robinson text wonders whether the rifle had a serial number and says it would not trace to him because it was his grandfather's, which she finds strange from someone who had planned for a week.
+Claim: The host says a Robinson text wonders whether the rifle had a serial number and says it would not trace to him, which she finds strange from someone who had planned for a week, noting he had just said in writing that it was his grandfather's.
 
 Transcript Snippet: I don't even know if that's if it had a serial number. Weird. Because he's been playing this for a week.
 
@@ -1458,7 +1458,7 @@ Claim: The host says that if the source is right that everyone knew at 7:00 p.m.
 Transcript Snippet: then we don't know why the feds say that it was the 33rd hour after the shooting,
 
 Anchored Artifacts: 
-Mentions: N-40
+Mentions: 
 Related Nodes: N-10021
 Contradicts: C-1144
 Investigative Direction: Obtain the official timeline of the surrender from the sheriff's office and compare with the 7 p.m. local-text account.
@@ -1489,7 +1489,7 @@ Claim: The host says Lance Twiggs was brought in for questioning at around 11:00
 Transcript Snippet: m. ish, we'll tell you around 11:00 p. m. Lance Twiggs is brought in for questioning.
 
 Anchored Artifacts: 
-Mentions: N-54, N-40
+Mentions: N-54
 Related Nodes: N-10044
 Investigative Direction: Obtain the search warrant return time and the log of when Lance was brought in and released.
 
@@ -1579,7 +1579,7 @@ Claim: The host says that anyone at the police station who knows more should rea
 Transcript Snippet: tips. com because I am I'm struck by this. this is what we should be hyperfocusing on.
 
 Anchored Artifacts: A-2713.1
-Mentions: N-3, N-40
+Mentions: N-3
 Related Nodes: N-10042
 Investigative Direction: Confirm the tip address spoken and any follow-up tips received about Robinson's clothing at pickup.
 
@@ -1716,7 +1716,7 @@ Claim: The host says Netanyahu tried to spin Charlie's death into "he's my good 
 Transcript Snippet: BB Netanyahu trying to spin this into he's my good friend.
 
 Anchored Artifacts: 
-Mentions: N-36, N-22, N-3
+Mentions: N-36, N-22, N-3, N-1
 Related Nodes: N-10018
 Supports: C-1129
 Investigative Direction: Retrieve Netanyahu's statements after Charlie's death and compare with Kirk's recorded dealings with him.
@@ -1732,7 +1732,7 @@ Claim: The host says Tucker Carlson spoke about what Charlie was going through b
 Transcript Snippet: He also brought in Megyn Kelly and other people and he spoke about what Charlie was going through because he saw him uh very shortly before his assassination.
 
 Anchored Artifacts: A-1107.1
-Mentions: N-22, N-1, N-46
+Mentions: N-22, N-1
 Related Nodes: N-10047
 Investigative Direction: Ask Carlson for the date and location of his last meeting with Charlie.
 
@@ -1954,7 +1954,7 @@ Investigative Direction: List the public tributes to Charlie by the people named
 
 Claim Timestamp: 00:51:17
 
-Claim: The host reads a tweet from Matt Gaetz saying he has personal knowledge of many of the claims Tucker is making and that they are 100 percent true, including that donors behaved like demons.
+Claim: The host reads a tweet from Matt Gaetz saying he has personal knowledge of many of the claims Tucker is making and that they are 100 percent true, adding 'they were behaving like demons'.
 
 Transcript Snippet: I have personal knowledge as to many of the claims Tucker is making here.
 
@@ -2003,7 +2003,7 @@ Claim: The host says that, because she recognized one of the individuals, she wa
 Transcript Snippet: I was able to figure out who that person was because I recognized one of the individuals and I reached out to that individual and I said,
 
 Anchored Artifacts: 
-Mentions: N-3, N-184
+Mentions: N-3, N-182
 Related Nodes: N-10076
 Investigative Direction: Ask the host to name the person or other witnesses; compare with footage of the camera removal.
 
@@ -2147,7 +2147,7 @@ Investigative Direction: Ask TPUSA and funeral organizers for the speaker select
 
 Claim Timestamp: 01:04:29
 
-Claim: The host says donors were making threats against Charlie up until the last minute and that these were financial threats, and says some people are lying that she said a donor tried to kill him.
+Claim: The host says some donors were making threats against Charlie up until the very last minute and that these were financial threats, and says some people are lying that she said a donor tried to kill him.
 
 Transcript Snippet: Financial threats I'm referring to obviously some people are lying and saying that I said this donor tried to kill him or it was so ridiculous.
 

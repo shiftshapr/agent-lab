@@ -1822,8 +1822,7 @@
       "transcript_snippet": "She arrived at forgiveness and she did it in front of the entire world.",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
-        "N-42"
+        "N-2"
       ]
     },
     {
@@ -1851,8 +1850,8 @@
       "@type": "Claim",
       "@id": "C-1230",
       "ref": "C-1230",
-      "label": "Surgeon said bullet should have gone through",
-      "claim": "The hospital surgeon told Kolvet the bullet should have passed through Charlie's neck given its caliber and velocity.",
+      "label": "Kolvet Says the Surgeon Told Him the Bullet Should Have Gone Through",
+      "claim": "In a tweet the host reads, Andrew Kolvet says the surgeon who worked on Charlie told him the bullet 'absolutely should have gone through', which is very normal for a high-powered, high-velocity round.",
       "anchored_artifacts": [
         "A-1135.1"
       ],
@@ -1864,7 +1863,8 @@
       "investigative_direction": "Identify the surgeon and request confirmation; review any hospital records.",
       "transcript_snippet": "He said the bullet quote absolutely should have gone through.",
       "mentions_person_refs": [
-        "N-14"
+        "N-14",
+        "N-1"
       ]
     },
     {
@@ -1962,8 +1962,8 @@
       "@type": "Claim",
       "@id": "C-1235",
       "ref": "C-1235",
-      "label": "Host Says UVU Repaved the Area Within About 48 Hours of the Shooting",
-      "claim": "The host says UVU repaved the area where Charlie Kirk was shot within approximately 48 hours of the shooting, asking producer Skyler to confirm the timing.",
+      "label": "Host Says the Feds Repaved the Area Within About 48 Hours of the Shooting",
+      "claim": "The host says that within approximately 48 hours of the shooting 'they', the feds she had just referred to, decided to pave the area where Charlie Kirk was shot, asking producer Skyler to confirm the timing.",
       "anchored_artifacts": [
         "A-1139.3"
       ],
@@ -1975,7 +1975,8 @@
       "investigative_direction": "Obtain UVU maintenance logs and contractor records for the repaving.",
       "transcript_snippet": "They decided to instead pave that area, repave it.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-68"
       ]
     },
     {
@@ -1983,7 +1984,7 @@
       "@id": "C-1236",
       "ref": "C-1236",
       "label": "Laura Loomer reported Candace to CIA over CIA-themed merch",
-      "claim": "Laura Loomer publicly reported Candace Owens to the CIA via X, alleging the Candace Intelligence Agency merch violated federal law.",
+      "claim": "In a tweet the host reads, Laura Loomer tags the director of the CIA and says Candace Owens is 'likely breaking the law' with her 'Candace Intelligence Agency' merch, adding that it is a federal felony to use the CIA seal without license.",
       "anchored_artifacts": [
         "A-1140.1"
       ],
@@ -2004,7 +2005,7 @@
       "@type": "Claim",
       "@id": "C-1237",
       "ref": "C-1237",
-      "label": "Awesome Jew released 2023 Charlie Kirk text messages",
+      "label": "Awesome Jew Released Charlie Kirk Text Messages the Host Dates to 2023",
       "claim": "An X account called Awesome Jew released text messages between Charlie Kirk and an unnamed friend pressuring Candace to disavow her Israel statements.",
       "anchored_artifacts": [
         "A-1141.1",
@@ -2054,7 +2055,7 @@
       "@type": "Claim",
       "@id": "C-1239",
       "ref": "C-1239",
-      "label": "Candace faced coordinated pressure to retract genocide tweet",
+      "label": "Candace Says She Was Pressured to Retract Genocide Tweet",
       "claim": "After Candace tweeted 'genocide is always wrong' she was inundated with demands to retract/apologize, including from Dave Rubin, while at the Daily Wire.",
       "anchored_artifacts": [
         "A-1142.1",
@@ -2075,7 +2076,7 @@
       "@id": "C-1240",
       "ref": "C-1240",
       "label": "Charlie Kirk said calling all critics antisemitic was destructive",
-      "claim": "Charlie Kirk publicly stated that labeling everyone who didn't take a puritanical view of Netanyahu an antisemite was destructive.",
+      "claim": "In a clip the host plays, Charlie Kirk says that calling everyone an antisemite if they do not take a puritanical view of the Netanyahu government is bad for everybody.",
       "anchored_artifacts": [
         "A-1143.1"
       ],
@@ -2095,8 +2096,8 @@
       "@type": "Claim",
       "@id": "C-1241",
       "ref": "C-1241",
-      "label": "Clip Has Kirk Criticizing AIPAC and Foreign Lobbying",
-      "claim": "In a clip the host plays of an audience Q&A, Charlie Kirk says he has a huge problem with AIPAC representing a group that does not represent American interests while influencing those meant to represent Americans, and references the JFK precedent.",
+      "label": "Clip Has Audience Member Telling Kirk He Has a Huge Problem With AIPAC",
+      "claim": "In a clip the host plays of an audience Q&A, after Charlie Kirk invites him to chime in, an audience member says he has a huge problem with allowing a group that does not represent American interests to influence the people who are supposed to represent Americans.",
       "anchored_artifacts": [
         "A-1143.2"
       ],
@@ -2104,7 +2105,7 @@
         "N-10083"
       ],
       "tags": [],
-      "claim_timestamp": "00:39:25",
+      "claim_timestamp": "00:39:20",
       "investigative_direction": "Verify the full town hall recording and Charlie's subsequent statements on the topic.",
       "transcript_snippet": "The entirety of the idea of AIPAC is to represent a group...I have a huge problem with.",
       "mentions_person_refs": [
@@ -2116,13 +2117,13 @@
       "@id": "C-1242",
       "ref": "C-1242",
       "label": "Tucker Carlson framed Charlie's mission as gospel repentance",
-      "claim": "Tucker Carlson publicly stated at the memorial that Charlie Kirk's core mission was gospel repentance, not politics.",
+      "claim": "In a clip the host plays from the night before, Tucker Carlson says Charlie Kirk was bringing the gospel to the country and was a political person, but that politics is not the final answer, that the gospel message begins with repentance and that the only real solution is Jesus.",
       "anchored_artifacts": [
         "A-1144.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:44:13",
+      "claim_timestamp": "00:43:29",
       "investigative_direction": "Obtain the full Carlson memorial speech transcript.",
       "transcript_snippet": "Christianity calls upon you to change. Our core prayer...forgive us our sins.",
       "mentions_person_refs": [
@@ -2219,7 +2220,7 @@
       "tags": [],
       "claim_timestamp": "00:49:00",
       "investigative_direction": "Verify Posobiec's naval intelligence service record and any public statement on his current status.",
-      "transcript_snippet": "I can tell you that I know Jack Bobic. He has always been very solid with with me.",
+      "transcript_snippet": "I can tell you that I know Jack Posobiec. He has always been very solid with with me.",
       "mentions_person_refs": [
         "N-3",
         "N-95"
@@ -2312,7 +2313,7 @@
       "@id": "C-10721",
       "ref": "C-10721",
       "label": "Host located George Zinn in the crowd and finds his path suspicious",
-      "claim": "The host says she located George Zinn in the crowd, finds it suspicious how far from the stage he was and that he was then taken through a pathway to the same area where Charlie was taken to the car, and credits a viewer for the photo.",
+      "claim": "The host says she located George Zinn in the crowd, finds it suspicious how far he was and that he was then taken through a pathway to the same area where Charlie was taken to the car, and credits a viewer for the photo.",
       "anchored_artifacts": [
         "A-3096.1"
       ],
@@ -2432,8 +2433,8 @@
       "@type": "Claim",
       "@id": "C-10726",
       "ref": "C-10726",
-      "label": "Host says Robinson's letter has disappeared and only his partner photographed it",
-      "claim": "The host says the letter Tyler Robinson allegedly left has since been disappeared, and that only a photograph taken by his partner exists.",
+      "label": "Host says Robinson's letter has disappeared and his partner photographed it",
+      "claim": "The host says, sarcastically listing what she would have to accept as a federal miracle, that Tyler Robinson happened to leave a letter that has since been disappeared, and that his lover took a picture of it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10110"
@@ -2478,7 +2479,7 @@
       "@id": "C-10728",
       "ref": "C-10728",
       "label": "Host says the house next door is vacant and owned by UVU",
-      "claim": "The host says the house next door to the event site has been vacant and is owned by Utah Valley University, which led her to look into the witnesses.",
+      "claim": "The host says that she and viewers learned the house next door to the event site has been vacant and is owned by Utah Valley University, and that they then began looking into the witnesses.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10053",
@@ -2529,7 +2530,7 @@
         "N-10080"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:19:42",
       "investigative_direction": "Identify the sources who told the host and any documentation of government valve-supply contracts.",
@@ -2674,7 +2675,7 @@
         "N-10089"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:29:15",
       "investigative_direction": "Compare the host's and Kirk's public appearances and messages across 2023 to 2025.",
@@ -2752,7 +2753,7 @@
       "transcript_snippet": "I'm going to guess it's either Seth Dillon or Josh Hammer.",
       "mentions_person_refs": [
         "N-3",
-        "N-96",
+        "N-1",
         "N-38",
         "N-55"
       ]
@@ -2810,7 +2811,7 @@
       "@id": "C-10742",
       "ref": "C-10742",
       "label": "Host says Charlie's friend was reacting to her interview with a Zionist guest",
-      "claim": "The host says the friend in the thread was reacting to her conversation with a Zionist guest (transcribed Ammy Kak) and that Charlie probably told him to watch it to see she is not antisemitic.",
+      "claim": "The host says the friend in the thread was reacting to her conversation with Zionist guest Ami Kozak and that Charlie probably told him to watch it to see she is not antisemitic.",
       "anchored_artifacts": [
         "A-1141.2"
       ],
@@ -2822,7 +2823,7 @@
       ],
       "claim_timestamp": "00:32:43",
       "investigative_direction": "Identify the guest and episode and date it against the messages.",
-      "transcript_snippet": "And that's what he's referring to. The conversation that I had uh with Ammy Kak.",
+      "transcript_snippet": "And that's what he's referring to. The conversation that I had uh with Ami Kozak.",
       "mentions_person_refs": [
         "N-3",
         "N-1"
@@ -2840,7 +2841,7 @@
         "N-10089"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:33:00",
       "investigative_direction": "Check TPUSA event schedules and recordings for the 2024 tour and conference.",
@@ -2865,7 +2866,7 @@
         "N-10268"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:33:25",
       "investigative_direction": "Obtain messages or witnesses about AmFest speaker lineup changes in 2024.",
@@ -2891,8 +2892,7 @@
       "transcript_snippet": "she you can't find anybody beneath the age of 30 that supports Israel. That's a fact.",
       "mentions_person_refs": [
         "N-46",
-        "N-3",
-        "N-1"
+        "N-3"
       ]
     },
     {
@@ -3046,8 +3046,7 @@
       "investigative_direction": "Track which individuals or claims the host later names as involved.",
       "transcript_snippet": "But it is also my belief that there are more people involved that are in need of forgiveness.",
       "mentions_person_refs": [
-        "N-3",
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -3078,8 +3077,8 @@
       "@type": "Claim",
       "@id": "C-10754",
       "ref": "C-10754",
-      "label": "Viewer says the children who spoke after the memorial sounded rehearsed",
-      "claim": "The host reads a viewer comment saying the children who spoke on the morning after the memorial sounded highly rehearsed about their experience; the host says the comment refers to children who witnessed the assassination and appeared on Good Morning America.",
+      "label": "Viewer says the children who spoke after the assassination sounded rehearsed",
+      "claim": "A viewer comment the host reads says the children who spoke \"yesterday\" sounded highly rehearsed on their experience; the host says the comment refers to the children who witnessed the assassination and spoke on the news and the next morning on Good Morning America.",
       "anchored_artifacts": [
         "A-1145.3"
       ],
@@ -3101,7 +3100,7 @@
       "@id": "C-10755",
       "ref": "C-10755",
       "label": "Host plugs Becoming Brigitte series and says she is a dude",
-      "claim": "The host tells viewers to watch the series she calls Becoming Breit (as transcribed), says a lot of people are hooked, and says of the subject 'she's a dude'.",
+      "claim": "The host tells viewers to watch the series Becoming Brigitte, says a lot of people are hooked, and says of the subject \"she's a dude\".",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3231,7 +3230,7 @@
       "@id": "C-10761",
       "ref": "C-10761",
       "label": "Host says intelligence agencies recruit from the LDS church and apparently from UVU's campus",
-      "claim": "The host says it is a fact that intelligence recruits heavily from the LDS church and that apparently they recruit from that campus, which she says she found out.",
+      "claim": "Reading a viewer comment's point that intel recruits heavily from the LDS, the host says that is a fact and that apparently they recruit from that campus, which she says she found out.",
       "anchored_artifacts": [
         "A-3099.1"
       ],
@@ -3253,7 +3252,7 @@
       "@type": "Claim",
       "@id": "C-10762",
       "ref": "C-10762",
-      "label": "Host says investigators are looking for a different weapon",
+      "label": "Host thinks a totally different weapon is the one to look for",
       "claim": "The host says she thinks the search is for a totally different weapon than the one presented.",
       "anchored_artifacts": [
         "A-3099.1"
@@ -3333,7 +3332,7 @@
         "N-2",
         "N-99",
         "N-36",
-        "N-60"
+        "N-1"
       ]
     },
     {
@@ -3448,8 +3447,8 @@
       ],
       "mentions_person_refs": [
         "N-98",
-        "N-99",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     }
   ],

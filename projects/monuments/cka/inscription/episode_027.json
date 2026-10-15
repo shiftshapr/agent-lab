@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-215"
+            "N-213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -78,7 +78,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-215"
+            "N-213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -97,7 +97,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-215"
+            "N-213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -116,7 +116,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-215"
+            "N-213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -142,7 +142,7 @@
             "C-1625"
           ],
           "related_nodes": [
-            "N-231",
+            "N-229",
             "N-10228"
           ],
           "tags": [],
@@ -162,7 +162,7 @@
             "C-3740"
           ],
           "related_nodes": [
-            "N-231",
+            "N-229",
             "N-10228"
           ],
           "tags": [],
@@ -190,7 +190,7 @@
             "C-1628"
           ],
           "related_nodes": [
-            "N-232",
+            "N-230",
             "N-10228"
           ],
           "tags": [],
@@ -218,7 +218,7 @@
           ],
           "related_nodes": [
             "N-99",
-            "N-194"
+            "N-192"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -262,7 +262,7 @@
             "C-1631"
           ],
           "related_nodes": [
-            "N-233",
+            "N-231",
             "N-10231"
           ],
           "tags": [],
@@ -289,7 +289,7 @@
             "C-1632"
           ],
           "related_nodes": [
-            "N-171"
+            "N-170"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -315,7 +315,7 @@
             "C-1633"
           ],
           "related_nodes": [
-            "N-234",
+            "N-232",
             "N-10232"
           ],
           "tags": [],
@@ -343,7 +343,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-215",
+            "N-213",
             "N-10233"
           ],
           "tags": [],
@@ -372,7 +372,7 @@
           "related_nodes": [
             "N-2",
             "N-99",
-            "N-235",
+            "N-233",
             "N-10234",
             "N-10235"
           ],
@@ -392,7 +392,7 @@
             "C-1635"
           ],
           "related_nodes": [
-            "N-237"
+            "N-235"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -507,8 +507,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-215",
-      "ref": "N-215",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Interviewer in the Fox News sit-down; visible in Ole Miss backstage video with Erika.",
@@ -530,8 +530,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-231",
-      "ref": "N-231",
+      "@id": "N-229",
+      "ref": "N-229",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Author of two artifact-anchored tweets disputing host's UVU event-approval claim.",
@@ -554,8 +554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-232",
-      "ref": "N-232",
+      "@id": "N-230",
+      "ref": "N-230",
       "name": "Lila Rose",
       "type": "person",
       "description": "Author of one artifact-anchored tweet pair referencing Stanford/Yale speaking events; relevance is to the UVU event-approval dispute.",
@@ -598,14 +598,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-194",
+        "N-192",
         "N-10234"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Subject of Alex Clark's defense tweet (Korea/Japan trip) and host's standing concerns about his post-assassination public posture; named as having taken over Charlie's Liberty University speaking slot (per host commentary, not artifact-anchored in this episode).",
@@ -626,8 +626,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-233",
-      "ref": "N-233",
+      "@id": "N-231",
+      "ref": "N-231",
       "name": "Alyssa Cordova",
       "type": "person",
       "description": "Author of one artifact-anchored tweet referencing TPUSA/Blexit NDA speculation.",
@@ -648,8 +648,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-171",
-      "ref": "N-171",
+      "@id": "N-170",
+      "ref": "N-170",
       "name": "Dinesh D'Souza",
       "type": "person",
       "description": "Author of one artifact-anchored X post.",
@@ -667,8 +667,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-234",
-      "ref": "N-234",
+      "@id": "N-232",
+      "ref": "N-232",
       "name": "Colby Sessions",
       "type": "person",
       "description": "UVU student who self-identified as the \"green hoodie\" figure at the event; artifact resolves N-10232.",
@@ -689,8 +689,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-235",
-      "ref": "N-235",
+      "@id": "N-233",
+      "ref": "N-233",
       "name": "Andrew Klavan",
       "type": "person",
       "description": "Referenced in Tom Paul viewer comment as having discussed Charlie's heartbeat on the Alex Clark show.",
@@ -729,8 +729,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-236",
-      "ref": "N-236",
+      "@id": "N-234",
+      "ref": "N-234",
       "name": "Tom Paul",
       "type": "person",
       "description": "Author of substantive viewer comment (A-1354.1) referencing external commentary; tracked as source node.",
@@ -748,8 +748,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-237",
-      "ref": "N-237",
+      "@id": "N-235",
+      "ref": "N-235",
       "name": "Arm Hanna",
       "type": "person",
       "description": "Author of viewer comment (A-1354.2) reinforcing host's framing on forgiveness; tracked as source node.",
@@ -789,8 +789,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-231",
-        "N-232"
+        "N-229",
+        "N-230"
       ]
     },
     {
@@ -858,7 +858,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-233"
+        "N-231"
       ]
     },
     {
@@ -880,7 +880,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-234"
+        "N-232"
       ]
     },
     {
@@ -903,7 +903,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-215",
+        "N-213",
         "N-10230"
       ]
     },
@@ -926,7 +926,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-235",
+        "N-233",
         "N-99",
         "N-2",
         "N-7"
@@ -1135,8 +1135,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-371",
-      "ref": "N-371",
+      "@id": "N-369",
+      "ref": "N-369",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Jeremy Boreing; named in the host's thanks for her Daily Wire firing.",
@@ -1169,8 +1169,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-855",
-      "ref": "N-855",
+      "@id": "N-853",
+      "ref": "N-853",
       "name": "Tony Burke",
       "type": "person",
       "description": "First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.",
@@ -1481,8 +1481,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-185",
-      "ref": "N-185",
+      "@id": "N-183",
+      "ref": "N-183",
       "name": "Sam Parker",
       "type": "person",
       "description": "Sam Parker; asked who the green-hoodie figure was.",
@@ -1498,8 +1498,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Matt Walsh; cited on disloyalty of public sniping.",
@@ -1569,8 +1569,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-101",
+      "ref": "N-101",
       "name": "Michael Knowles",
       "type": "person",
       "description": "Michael Knowles; effigy burned at a TPUSA event, per host.",
@@ -1620,8 +1620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-610",
-      "ref": "N-610",
+      "@id": "N-608",
+      "ref": "N-608",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-119",
-      "ref": "N-119",
+      "@id": "N-118",
+      "ref": "N-118",
       "name": "Elon Musk",
       "type": "person",
       "description": "Elon Musk; DOGE did not exist before him, per host.",
@@ -1809,8 +1809,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-131",
-      "ref": "N-131",
+      "@id": "N-130",
+      "ref": "N-130",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Ian Carroll; named as a regular text contact.",
@@ -1843,8 +1843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-856",
-      "ref": "N-856",
+      "@id": "N-854",
+      "ref": "N-854",
       "name": "Jimmy Dore",
       "type": "person",
       "description": "First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.",
@@ -1988,7 +1988,7 @@
       "@id": "C-1623",
       "ref": "C-1623",
       "label": "Priest Visible in Backstage Video at Ole Miss Event Behind Jesse Watters and Erika Kirk",
-      "claim": "A figure in clerical attire appears in the background of backstage video at the University of Mississippi event featuring Jesse Watters and Erika Kirk; host identifies this as the same priest who accompanied Erika to the hospital after the shooting.",
+      "claim": "The host says that behind Jesse Watters and Erika Kirk as they walk backstage at the University of Mississippi event, there was a priest looking in the corner, whom she identifies as the same priest Erika took with her to the hospital when Charlie was shot.",
       "anchored_artifacts": [
         "A-1353.1"
       ],
@@ -2001,7 +2001,7 @@
       "investigative_direction": "Obtain original footage to identify the priest and any associated institution.",
       "mentions_person_refs": [
         "N-2",
-        "N-215"
+        "N-213"
       ]
     },
     {
@@ -2037,14 +2037,14 @@
       "claim_timestamp": "00:35:13",
       "investigative_direction": "Obtain Allie's underlying text message exchange with Charlie to verify the quoted framing; cross-reference against host's previously displayed email.",
       "mentions_person_refs": [
-        "N-231"
+        "N-229"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-1626",
       "ref": "C-1626",
-      "label": "Allie Beth Stuckey Follows Up That Venue Was Confirmed Two Months Out",
+      "label": "Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out",
       "claim": "In a tweet the host reads, Allie Beth Stuckey follows up that \"no venue yet, 2 months out\" was the status of the event at the time of her texts.",
       "anchored_artifacts": [
         "A-1347.2"
@@ -2056,7 +2056,7 @@
       "claim_timestamp": "00:36:03",
       "investigative_direction": "Obtain the underlying text thread to verify Allie's characterization of venue status.",
       "mentions_person_refs": [
-        "N-231"
+        "N-229"
       ]
     },
     {
@@ -2078,7 +2078,7 @@
         "C-1626"
       ],
       "mentions_person_refs": [
-        "N-231"
+        "N-229"
       ],
       "transcript_snippet": "She says, \"Since some of you guys are struggling, no venue yet, 2 months out.\"",
       "confidence": "high"
@@ -2088,7 +2088,7 @@
       "@id": "C-1627",
       "ref": "C-1627",
       "label": "Lila Rose Reports Stanford Event Was to Be Set Up in Three Weeks",
-      "claim": "Lila Rose tweets that she was asked to speak at Stanford with the event to be set up within 3 weeks; she notes the event did not materialize.",
+      "claim": "Lila Rose tweets that she was just asked to speak at Stanford and that the event was going to be set up within 3 weeks; the host responds that this means the event did not happen or materialize.",
       "anchored_artifacts": [
         "A-1348.1"
       ],
@@ -2099,7 +2099,7 @@
       "claim_timestamp": "00:37:49",
       "investigative_direction": "Verify Lila Rose's Stanford invitation claim against the host's stated Stanford event-planning baseline.",
       "mentions_person_refs": [
-        "N-232"
+        "N-230"
       ]
     },
     {
@@ -2118,7 +2118,7 @@
       "claim_timestamp": "00:37:49",
       "investigative_direction": "Identify the Yale debate date and verify against Yale Political Union scheduling records.",
       "mentions_person_refs": [
-        "N-232"
+        "N-230"
       ]
     },
     {
@@ -2136,7 +2136,7 @@
       "investigative_direction": "Identify the named production director and verify travel scheduling records.",
       "mentions_person_refs": [
         "N-99",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2172,7 +2172,7 @@
       "claim_timestamp": "00:55:21",
       "investigative_direction": "Confirm or refute the existence of any such NDA through document disclosure or direct party confirmation.",
       "mentions_person_refs": [
-        "N-233",
+        "N-231",
         "N-3"
       ]
     },
@@ -2190,7 +2190,7 @@
       "claim_timestamp": "00:57:25",
       "investigative_direction": "Capture original post timestamp and any subsequent D'Souza commentary on the investigation.",
       "mentions_person_refs": [
-        "N-171"
+        "N-170"
       ]
     },
     {
@@ -2209,7 +2209,7 @@
       "claim_timestamp": "00:25:41",
       "investigative_direction": "Verify Colby Sessions's UVU student status and the existence of the underlying social media post.",
       "mentions_person_refs": [
-        "N-234"
+        "N-232"
       ]
     },
     {
@@ -2228,10 +2228,10 @@
       "claim_timestamp": "00:59:56",
       "investigative_direction": "Locate the specific Alex Clark show episode and Andrew Klavan segment to verify the exact framing and any offered explanation.",
       "mentions_person_refs": [
-        "N-2",
+        "N-1",
         "N-99",
-        "N-235",
-        "N-236"
+        "N-233",
+        "N-234"
       ]
     },
     {
@@ -2248,7 +2248,7 @@
       "claim_timestamp": "1:03:27",
       "investigative_direction": "None – viewer opinion, not an investigative target.",
       "mentions_person_refs": [
-        "N-237"
+        "N-235"
       ]
     },
     {
@@ -2310,7 +2310,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-371"
+        "N-369"
       ]
     },
     {
@@ -2318,7 +2318,7 @@
       "@id": "C-9586",
       "ref": "C-9586",
       "label": "Host Says She Stopped Doing the Pro-Israel Thing",
-      "claim": "The host says there came a point when she no longer wanted to do the pro-Israel thing and did not follow the crowd, comparing herself to the Kanye West song Power.",
+      "claim": "The host says the Kanye West song Power taught her to stop listening to haters and to have the courage to say 'I know the crowd is doing this, but I'm not doing it,' and that this was her when she no longer wanted to do the pro-Israel thing.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2348,7 +2348,7 @@
       "transcript_snippet": "Tony Burke, thank you for banning us from an entire country, even though I didn't do nothing.",
       "mentions_person_refs": [
         "N-3",
-        "N-855"
+        "N-853"
       ]
     },
     {
@@ -2368,9 +2368,7 @@
       "investigative_direction": "Compare with the staff the host later describes or lists in company filings.",
       "transcript_snippet": "There's just four of us, uh that work on the actual podcast every day.",
       "mentions_person_refs": [
-        "N-3",
-        "N-67",
-        "N-68"
+        "N-3"
       ]
     },
     {
@@ -2392,7 +2390,7 @@
       "transcript_snippet": "also trailed her at the event that she did with J. D. Vance at the University of Mississippi.",
       "mentions_person_refs": [
         "N-3",
-        "N-215",
+        "N-213",
         "N-2",
         "N-4"
       ]
@@ -2420,8 +2418,8 @@
       "@type": "Claim",
       "@id": "C-9591",
       "ref": "C-9591",
-      "label": "Host Says Memorial Event Was on the 21st, Nine Days After the Assassination",
-      "claim": "The host says, after a correction from her director, that the memorial event was on the 21st, nine days after the assassination.",
+      "label": "Host Says Memorial Event Was on the 21st After Correction",
+      "claim": "The host says the memorial event was 10 or 11 days after the assassination, then says nine days, and after a correction from her director says it was on the 21st.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2441,7 +2439,7 @@
       "@id": "C-9592",
       "ref": "C-9592",
       "label": "Host Says She Does Not Believe Robinson Was the Lone Person Involved",
-      "claim": "The host says she does not believe Tyler Robinson was the lone person involved and does not think he is the person who killed Charlie Kirk.",
+      "claim": "The host says she does not believe Tyler Robinson was the lone person involved, and says 'I don't even think this person that killed Charlie Kirk' before trailing off.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10337"
@@ -2669,7 +2667,7 @@
       "transcript_snippet": "Mikey's going to take over for Charlie at his Liberty convocate or Liberty event that he has which is is going to be sold out",
       "mentions_person_refs": [
         "N-3",
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -2738,7 +2736,7 @@
       "@id": "C-9606",
       "ref": "C-9606",
       "label": "Host Says She Posted a Clear Image of the Green Hoodie Figure",
-      "claim": "The host says that after Sam Parker asked who the guys in the video were, she replied with a clear image of the person in the green hoodie and he quickly answered that it was him.",
+      "claim": "The host says that after Sam Parker asked who the guys in the video were, she replied with a clear image of the person in the green hoodie and that person quickly answered that it was him.",
       "anchored_artifacts": [
         "A-3021.1"
       ],
@@ -2753,8 +2751,8 @@
       "transcript_snippet": "I then respond and I'm like, \"Here's a clear image of this person, the actual person wearing the green hoodie.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-185",
-        "N-234"
+        "N-183",
+        "N-232"
       ]
     },
     {
@@ -2775,7 +2773,7 @@
       "transcript_snippet": "I think he's on the soccer team at UVU.",
       "mentions_person_refs": [
         "N-3",
-        "N-234"
+        "N-232"
       ]
     },
     {
@@ -2820,7 +2818,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-231",
+        "N-229",
         "N-1"
       ]
     },
@@ -2840,8 +2838,8 @@
       "transcript_snippet": "This is one of the things that Matt Walsh recently said that he views it as such a form of disloyalty",
       "mentions_person_refs": [
         "N-3",
-        "N-166",
-        "N-231"
+        "N-165",
+        "N-229"
       ]
     },
     {
@@ -2956,7 +2954,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-231",
+        "N-229",
         "N-1"
       ]
     },
@@ -2978,7 +2976,7 @@
       "transcript_snippet": "They did not start planning that event when Charlie texted you. I can guarantee you that, okay?",
       "mentions_person_refs": [
         "N-3",
-        "N-231",
+        "N-229",
         "N-1"
       ]
     },
@@ -3021,7 +3019,7 @@
       "transcript_snippet": "So, that Yale event that Lila Rose spoke at was with the Yale Political Union. So, it is It's existed since 1934.",
       "mentions_person_refs": [
         "N-3",
-        "N-232"
+        "N-230"
       ]
     },
     {
@@ -3044,7 +3042,7 @@
       "transcript_snippet": "she's comparing this 70 people that attended this debate to Turning Point USA hosting a debate with thousands of people",
       "mentions_person_refs": [
         "N-3",
-        "N-232"
+        "N-230"
       ]
     },
     {
@@ -3107,7 +3105,7 @@
       "transcript_snippet": "They will burn you an effigy as they did uh to Michael Knowles at a Turning Point USA event.",
       "mentions_person_refs": [
         "N-3",
-        "N-102"
+        "N-101"
       ]
     },
     {
@@ -3129,7 +3127,7 @@
       "transcript_snippet": "Well, even if these are written by the Feds, I still think he was murdered by Tyler Robinson.",
       "mentions_person_refs": [
         "N-3",
-        "N-231",
+        "N-229",
         "N-40"
       ]
     },
@@ -3149,8 +3147,8 @@
       "transcript_snippet": "Alyssa Cordova was formerly the PR person, head PR person at Daily Wire.",
       "mentions_person_refs": [
         "N-3",
-        "N-231",
-        "N-233"
+        "N-229",
+        "N-231"
       ]
     },
     {
@@ -3169,8 +3167,8 @@
       "transcript_snippet": "she intentionally has out of context clips, which she then sends to people um a whole little orbit of bees online like Ian Miles Chong",
       "mentions_person_refs": [
         "N-3",
-        "N-233",
-        "N-610"
+        "N-231",
+        "N-608"
       ]
     },
     {
@@ -3212,7 +3210,7 @@
       "transcript_snippet": "And we heard these things from his father. We heard these things from people at Turning Point USA.",
       "mentions_person_refs": [
         "N-3",
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -3234,7 +3232,7 @@
       "transcript_snippet": "he took over for Charlie who was slated to speak at Liberty University. Okay, that's just a fact.",
       "mentions_person_refs": [
         "N-3",
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -3366,7 +3364,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-99",
-        "N-119",
+        "N-118",
         "N-1"
       ]
     },
@@ -3391,7 +3389,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -3485,7 +3483,7 @@
       "transcript_snippet": "She can treat you really evil, but there's an NDA preventing you, so she got to allow her to abuse you.",
       "mentions_person_refs": [
         "N-3",
-        "N-233"
+        "N-231"
       ]
     },
     {
@@ -3616,9 +3614,9 @@
       "transcript_snippet": "Ian Carroll we text regularly. Dave Smith we text regularly when we're sharing information.",
       "mentions_person_refs": [
         "N-3",
-        "N-131",
+        "N-130",
         "N-39",
-        "N-856"
+        "N-854"
       ]
     },
     {

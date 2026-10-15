@@ -1,0 +1,779 @@
+[
+ {
+  "claim": "C-13616",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13617",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: \"We showed you I think one or two of those employees\"; claim drops \"I think\".",
+  "fix": {
+   "claim": "The host says she thinks she showed one or two of the employees, that the husband and wife she had mentioned work for Caldera Engineering, and that the company purports to manufacture valves."
+  }
+ },
+ {
+  "claim": "C-13618",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13619",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13620",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13621",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13622",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Churchill (N-84) is not named in the claim but is the journalist referenced just before; left as is.",
+  "fix": {}
+ },
+ {
+  "claim": "C-13623",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13624",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript never identifies the guest or who says \"Kolvet was there in the room\"; the Eric Bolling identification comes from other claims, not this transcript.",
+  "fix": {
+   "claim": "In the replayed PBD clip, the exchange 'You're on the board of Turning Point. Yeah.' follows a third-person remark that Kolvet 'was there in the room', so the board membership and the 2015 or 2016 last-sighting answer appear to belong to the guest being addressed, and not to Andrew Kolvet."
+  }
+ },
+ {
+  "claim": "C-13625",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13626",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13627",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"I spoke at Turning Point's conference, two conferences last year\" and plays a stage clip; \"tour\" is not said in this window (tour comes at 29:14).",
+  "fix": {
+   "claim": "In the replayed PBD clip, a speaker says Candace no longer speaks at Turning Point events, which the host disputes by saying she spoke at two Turning Point conferences the year before and playing a clip of her on the stage."
+  }
+ },
+ {
+  "claim": "C-13628",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13629",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13630",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"Charlie got in trouble for the stuff that I said on stage and then they came inward.\" \"They\" is not \"donors\"; donor threats come in the next sentence about AmFest.",
+  "fix": {
+   "claim": "The host says that after she said 'Israel, you're not special' on the stage, Charlie got in trouble for what she said and then 'they came inward'."
+  }
+ },
+ {
+  "claim": "C-13631",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13632",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13633",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13634",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13635",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13636",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13637",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13638",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13639",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13640",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13641",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13642",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13643",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13644",
+  "episode": 6,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Self-answered continuation of the host's monologue (\"Am I cynical...? Yeah. The feds are obviously lying...\", then \"No, Pam Bondi, no thank you\"); it is the host speaking, not a separate speaker.",
+  "fix": {
+   "label": "Host Says the Feds Were Involved in Charlie's Death to Push Through Speech Laws",
+   "claim": "The host says the feds are obviously lying and, at some level in a very big way, were involved in the death of Charlie because they wanted a radical way to push through laws.",
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-13645",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13646",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13647",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13648",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13649",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "TikTok ownership deal is not about the assassination or its investigation.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13650",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "TikTok ownership is not about the assassination or its investigation.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13651",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13652",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13653",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host hedges: \"I think the footage at my house... I think it's like every 48 hours, every 72 hours. I think the highest you might see is one week.\" Claim drops hedges.",
+  "fix": {
+   "claim": "The host says there is not a place in the world with the bandwidth to keep 24-hour footage inside a restaurant dating back months, and that she thinks her home cameras overwrite every 48 or 72 hours, with one week the most you might see."
+  }
+ },
+ {
+  "claim": "C-13654",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"saying that they threw away clothes in the nearby cemetery\"; \"the suspect\" is not said.",
+  "fix": {
+   "claim": "The host says her source was very specific, including saying that they threw away clothes in the nearby cemetery, and that the person was very confident when sharing it."
+  }
+ },
+ {
+  "claim": "C-13655",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13656",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13657",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13658",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"Even when he says, 'Andrew Kolvet was there in the Hamptons'\"; \"he\" follows remarks about PBD and could be PBD or the guest. The clip said \"in the room\".",
+  "fix": {
+   "claim": "The host says that in the PBD segment 'he' says Andrew Kolvet was there in the Hamptons, and responds that he was not, saying Kolvet was definitely not there."
+  }
+ },
+ {
+  "claim": "C-1228",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no George Zinn; \"Charlie's killer\" is unnamed. N-42 appears nowhere in the window.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-1229",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1230",
+  "episode": 7,
+  "attribution": "error",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "This is Kolvet's tweet read by the host: \"I just spoke with the surgeon... He said the bullet quote absolutely should have gone through.\" \"Neck\" not said in window. Claim presents it as fact.",
+  "fix": {
+   "label": "Kolvet Says the Surgeon Told Him the Bullet Should Have Gone Through",
+   "claim": "In a tweet the host reads, Andrew Kolvet says the surgeon who worked on Charlie told him the bullet 'absolutely should have gone through', which is very normal for a high-powered, high-velocity round."
+  }
+ },
+ {
+  "claim": "C-1231",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1232",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1233",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1234",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1235",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"the feds scrambled to repave that area\" then \"within 48 hours, I mean was it 48 hours, Skyler, they decided to... pave that area\". \"They\" = feds, not UVU. Skyler (N-68) is named.",
+  "fix": {
+   "label": "Host Says the Feds Repaved the Area Within About 48 Hours of the Shooting",
+   "claim": "The host says that within approximately 48 hours of the shooting 'they', the feds she had just referred to, decided to pave the area where Charlie Kirk was shot, asking producer Skyler to confirm the timing.",
+   "mentions": [
+    "N-1",
+    "N-68"
+   ]
+  }
+ },
+ {
+  "claim": "C-1236",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Loomer tweet as read: \"You are likely breaking the law with your CIA merch\"; \"It is a federal felony to use the CIA seal without license\"; she tags the CIA director. Claim drops \"likely\".",
+  "fix": {
+   "claim": "In a tweet the host reads, Laura Loomer tags the director of the CIA and says Candace Owens is 'likely breaking the law' with her 'Candace Intelligence Agency' merch, adding that it is a federal felony to use the CIA seal without license."
+  }
+ },
+ {
+  "claim": "C-1237",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: friend writes \"Candace needs to say two things\"; Charlie replies \"This is right. I'm really trying to help her.\" \"Pressuring\" and 2023 are the host's framing/assertion.",
+  "fix": {
+   "label": "Awesome Jew Released Charlie Kirk Text Messages the Host Dates to 2023",
+   "claim": "The host says an account called Awesome Jew released a Charlie Kirk text exchange with an unknown individual, in which the individual says Candace needs to say two things and Charlie replies 'This is right. I'm really trying to help her.'"
+  }
+ },
+ {
+  "claim": "C-1238",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "AmFest is not mentioned in the window; host ties the messages to her genocide tweet answering Brian Mast and says the date was stripped because it is from 2023.",
+  "fix": {
+   "claim": "The host says the released text messages are from 2023, which she says is why the date was stripped, and links them to her tweet that genocide is always wrong, which responded to Brian Mast's remark in Congress."
+  }
+ },
+ {
+  "claim": "C-1239",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"peer pressured to correct the tweets, to apologize\"; \"Dave Rubin instantly replied and said something about Israel\". \"Coordinated\" is not said.",
+  "fix": {
+   "label": "Candace Says She Was Pressured to Retract Genocide Tweet",
+   "claim": "The host says that after she tweeted that genocide is always wrong she was peer pressured to correct the tweet and apologize while at the Daily Wire, and that Dave Rubin instantly replied and said something about Israel even though she had not mentioned Israel."
+  }
+ },
+ {
+  "claim": "C-1240",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: \"if you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government, then I think that's bad for everybody\"; \"destructive\" was said of the hater binary.",
+  "fix": {
+   "claim": "In a clip the host plays, Charlie Kirk says that calling everyone an antisemite if they do not take a puritanical view of the Netanyahu government is bad for everybody."
+  }
+ },
+ {
+  "claim": "C-1241",
+  "episode": 7,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "After Kirk says \"you look like you want to chime in\", the \"I have a huge problem with\" line is the audience member's. Kirk then says \"20 representatives\" and the president \"getting shot\" line.",
+  "fix": {
+   "label": "Clip Has Audience Member and Kirk Discussing AIPAC and Foreign Lobbying",
+   "claim": "In a clip the host plays of an audience Q&A, an audience member says he has a huge problem with a group that does not represent American interests influencing those meant to represent Americans, and Charlie Kirk later says a past president who suggested the precursor to AIPAC register under FARA ended up getting shot in a moving vehicle in broad daylight."
+  }
+ },
+ {
+  "claim": "C-1242",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip: Tucker says \"Charlie was a political person who was deeply interested in coalition building... politics is not the final answer.\" Claim's \"not politics\" misstates it.",
+  "fix": {
+   "claim": "In a clip the host plays from the night before, Tucker Carlson says Charlie Kirk was bringing the gospel to the country and was a political person, but that politics is not the final answer, that the gospel message begins with repentance and that the only real solution is Jesus."
+  }
+ },
+ {
+  "claim": "C-1243",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1244",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

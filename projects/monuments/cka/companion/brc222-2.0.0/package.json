@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T00:56:33Z",
+  "generated_at": "2026-10-15T01:37:45Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -5754,7 +5754,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10655",
-      "label": "Host Says Donors Told Kirk He Could Not Invite Certain People",
+      "label": "Host Says Kirk Was Told He Could Not Invite Certain People",
       "node_kind": "claim",
       "episode": 2
     },
@@ -6251,7 +6251,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10726",
-      "label": "Host says Robinson's letter has disappeared and only his partner photographed it",
+      "label": "Host says Robinson's letter has disappeared and his partner photographed it",
       "node_kind": "claim",
       "episode": 7
     },
@@ -6447,7 +6447,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10754",
-      "label": "Viewer says the children who spoke after the memorial sounded rehearsed",
+      "label": "Viewer says the children who spoke after the assassination sounded rehearsed",
       "node_kind": "claim",
       "episode": 7
     },
@@ -6503,7 +6503,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10762",
-      "label": "Host says investigators are looking for a different weapon",
+      "label": "Host thinks a totally different weapon is the one to look for",
       "node_kind": "claim",
       "episode": 7
     },
@@ -6594,7 +6594,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10775",
-      "label": "Host says Shainer Broderick deleted his social accounts after she asked him a question",
+      "label": "Host says Shaner Broderick deleted his social accounts after she asked him a question",
       "node_kind": "claim",
       "episode": 13
     },
@@ -6678,7 +6678,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10787",
-      "label": "Host says one person next to Shainer was found to be from Austria",
+      "label": "Host says one person next to Shaner was found to be from Austria",
       "node_kind": "claim",
       "episode": 13
     },
@@ -6839,7 +6839,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10810",
-      "label": "Host says Kissen's argument is nearly verbatim a text from Marissa Streit",
+      "label": "Host Says Kisin's Argument Is Nearly Verbatim a Text from Marissa Streit",
       "node_kind": "claim",
       "episode": 13
     },
@@ -6860,7 +6860,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10813",
-      "label": "Host reads Kissen asking why lies on the right should not be challenged",
+      "label": "Host Reads Kisin Asking Why Lies on the Right Should Not Be Challenged",
       "node_kind": "claim",
       "episode": 13
     },
@@ -14609,7 +14609,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1185",
-      "label": "Donors Financially Pressured Charlie Over Candace Speaking Slot",
+      "label": "Donors Pressured Charlie Over Tucker Speaking Slot",
       "node_kind": "claim",
       "episode": 4
     },
@@ -15225,7 +15225,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1193",
-      "label": "Bowling said Owens no longer speaks at TPUSA events",
+      "label": "Bolling Said Owens No Longer Speaks at TPUSA Events",
       "node_kind": "claim",
       "episode": 5
     },
@@ -16037,7 +16037,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12035",
-      "label": "Host Says Foreign Agents for Israel Gave Money to TPUSA and Names Ackman and Shulman as Possible Donors",
+      "label": "Host Says Foreign Agents for Israel Gave Money to TPUSA and Names Ackman and Shillman as Possible Donors",
       "node_kind": "claim",
       "episode": 8
     },
@@ -16072,7 +16072,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1204",
-      "label": "Bowling described 'quiet breakup' between Kirk and Owens",
+      "label": "Bolling Described 'Quiet Breakup' Between Kirk and Owens",
       "node_kind": "claim",
       "episode": 5
     },
@@ -16380,7 +16380,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1208",
-      "label": "Camera individual claims long TPUSA association",
+      "label": "Host Says Camera Individual Has Been Around TPUSA for Years",
       "node_kind": "claim",
       "episode": 6
     },
@@ -16394,7 +16394,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12081",
-      "label": "Host Says Fuentes Is Paid to Shill",
+      "label": "Host Says She Did Not Take Fuentes's Eulogy of Kirk Seriously",
       "node_kind": "claim",
       "episode": 16
     },
@@ -16688,7 +16688,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1212",
-      "label": "Bill Ackman stated Candace's credibility is failing",
+      "label": "PBD Guest Said Candace's Credibility Is Going Down the Tubes",
       "node_kind": "claim",
       "episode": 6
     },
@@ -16765,7 +16765,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1213",
-      "label": "Andrew Kolvet claims last saw Candace at TPUSA in 2015/2016",
+      "label": "PBD Guest Said He Last Saw Candace at TPUSA in 2015 or 2016",
       "node_kind": "claim",
       "episode": 6
     },
@@ -16877,7 +16877,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12144",
-      "label": "Host Urges Viewers to Join the CIA, the Decentralized Network, Which She Calls More of a Threat",
+      "label": "Host Thanks Viewers Who Joined 'Our CIA, the Decentralized,' Which She Calls More of a Threat",
       "node_kind": "claim",
       "episode": 16
     },
@@ -16989,7 +16989,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12159",
-      "label": "Host Says Horowitz's Son Is Wanted in the TikTok Buyer Group Because of Psychological Warfare",
+      "label": "Host Says Horowitz's Son or Stepson Is Wanted in the TikTok Buyer Group",
       "node_kind": "claim",
       "episode": 20
     },
@@ -17101,7 +17101,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12173",
-      "label": "Host Says Charlie Asked John and Arena Mappin to Arrange a UK Venue for Her",
+      "label": "Host Says Charlie Asked John and Irina Mappin to Arrange a UK Venue for Her",
       "node_kind": "claim",
       "episode": 20
     },
@@ -17381,7 +17381,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1221",
-      "label": "Charlie Kirk tweet defended Milgram and Lachinsky",
+      "label": "Host Says Kirk Tweet Called Milgram and Lischinsky Beautiful People",
       "node_kind": "claim",
       "episode": 6
     },
@@ -18074,7 +18074,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1230",
-      "label": "Surgeon said bullet should have gone through",
+      "label": "Kolvet Says the Surgeon Told Him the Bullet Should Have Gone Through",
       "node_kind": "claim",
       "episode": 7
     },
@@ -18172,7 +18172,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12312",
-      "label": "Host Says Bob Shillman Was Angry and Donors Told Kirk It Could Never Happen Again",
+      "label": "Host Says Bob Shillman Was Angry and the Angry Men Told Kirk It Could Never Happen Again",
       "node_kind": "claim",
       "episode": 23
     },
@@ -18368,7 +18368,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12338",
-      "label": "Host Says People Around Kirk Acted Weird in the Hours After the Assassination",
+      "label": "Host Says Israel Acted Weird in the Hours After the Assassination",
       "node_kind": "claim",
       "episode": 23
     },
@@ -18459,7 +18459,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1235",
-      "label": "Host Says UVU Repaved the Area Within About 48 Hours of the Shooting",
+      "label": "Host Says the Feds Repaved the Area Within About 48 Hours of the Shooting",
       "node_kind": "claim",
       "episode": 7
     },
@@ -18613,7 +18613,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1237",
-      "label": "Awesome Jew released 2023 Charlie Kirk text messages",
+      "label": "Awesome Jew Released Charlie Kirk Text Messages the Host Dates to 2023",
       "node_kind": "claim",
       "episode": 7
     },
@@ -18767,7 +18767,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1239",
-      "label": "Candace faced coordinated pressure to retract genocide tweet",
+      "label": "Candace Says She Was Pressured to Retract Genocide Tweet",
       "node_kind": "claim",
       "episode": 7
     },
@@ -18921,7 +18921,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1241",
-      "label": "Clip Has Kirk Criticizing AIPAC and Foreign Lobbying",
+      "label": "Clip Has Audience Member Telling Kirk He Has a Huge Problem With AIPAC",
       "node_kind": "claim",
       "episode": 7
     },
@@ -19460,7 +19460,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1248",
-      "label": "George Zinn arrested ~1:48 after Charlie's SUV departs, same location",
+      "label": "George Zinn Arrested ~1:48 After Shot Near Where Charlie's SUV Departed",
       "node_kind": "claim",
       "episode": 8
     },
@@ -20461,7 +20461,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1261",
-      "label": "Erika's father is the Lt. Gov. candidate alongside Phil Lyman",
+      "label": "Tiffany Barker's Sister Ran for Lt. Gov. With Phil Lyman",
       "node_kind": "claim",
       "episode": 8
     },
@@ -20615,7 +20615,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1263",
-      "label": "Crime scene paver installation was paid for by an unknown party",
+      "label": "Commenter Asks Who Paid for Crime Scene Pavers",
       "node_kind": "claim",
       "episode": 8
     },
@@ -22617,7 +22617,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1289",
-      "label": "Suspicious-bush rooftop theory partially corroborated by ground photographs",
+      "label": "Host Says Ground Photos Show the Bush Is See-Through Unlike Range Day Bro's Image",
       "node_kind": "claim",
       "episode": 10
     },
@@ -22694,7 +22694,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1290",
-      "label": "Rooftop runner footage filmer was not contacted by federal authorities until September 15",
+      "label": "Rooftop Runner Footage Filmer Was Never Contacted by Federal or Local Authorities",
       "node_kind": "claim",
       "episode": 10
     },
@@ -24003,7 +24003,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1307",
-      "label": "Phil Lyman's vehicle was in the driveway of the TMZ footage location 10–19 minutes before the shooter walked by",
+      "label": "Phil Lyman Says He Parked in the TMZ Footage Driveway About 10 Minutes Before the Shooter Walked By",
       "node_kind": "claim",
       "episode": 11
     },
@@ -25004,7 +25004,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1320",
-      "label": "Host concurs with Phil Lyman proximity pattern and shared prayer requests",
+      "label": "Host Agrees With Viewer Comments on a Staged World and Prayer for Investigators",
       "node_kind": "claim",
       "episode": 11
     },
@@ -25389,7 +25389,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1325",
-      "label": "Host Says One of Two Companions in Photo With Shainer Broderick Is Gernot Omer, via Face-Match to BearingPoint Graz Video",
+      "label": "Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Omer, via Face-Match to BearingPoint Graz Video",
       "node_kind": "claim",
       "episode": 12
     },
@@ -25620,7 +25620,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1328",
-      "label": "Shainer Broderick previously identified Phil Lyman as his uncle on both Instagram and LinkedIn.",
+      "label": "Shaner Broderick previously identified Phil Lyman as his uncle on both Instagram and LinkedIn.",
       "node_kind": "claim",
       "episode": 12
     },
@@ -25697,7 +25697,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1329",
-      "label": "The Daily Mail reports Kash Patel fired the Utah FBI Bureau chief and additional personnel before Charlie Kirk's assassination and replaced the chief with Robert Bowles.",
+      "label": "The Daily Mail reports Kash Patel fired the Utah FBI Bureau chief and additional personnel before Charlie Kirk's assassination and replaced the chief with Robert Bohls.",
       "node_kind": "claim",
       "episode": 12
     },
@@ -26082,7 +26082,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1334",
-      "label": "Host Cites Daily Mail Saying Robert Bowles Was in First Week Leading Utah FBI Field Office at Time of Kirk Shooting",
+      "label": "Host Thinks Robert Bohls Was in First Week at Utah FBI Office When Kirk Was Shot",
       "node_kind": "claim",
       "episode": 12
     },
@@ -26159,7 +26159,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1335",
-      "label": "Host calls Robert Bowles's move from decades in Washington to the Utah FBI post an unusual placement",
+      "label": "Host calls Robert Bohls's move from decades in Washington to the Utah FBI post an unusual placement",
       "node_kind": "claim",
       "episode": 12
     },
@@ -26768,7 +26768,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1343",
-      "label": "Utah statute treats autopsy reports as private absent family-initiated release",
+      "label": "Host Says Utah Autopsy Reports Are Kept Private Unless Family Wishes Release",
       "node_kind": "claim",
       "episode": 13
     },
@@ -26985,7 +26985,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13458",
-      "label": "Host Says Charlie Cancelled the Event Rather Than Drop Her",
+      "label": "Host Says Charlie Chose to Do the Event Without the Headliner Rather Than Drop Her",
       "node_kind": "claim",
       "episode": 1
     },
@@ -28420,7 +28420,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13644",
-      "label": "A Speaker Says the Feds Were Involved in Charlie's Death to Push Through Speech Laws",
+      "label": "Host Says the Feds Were Involved in Charlie's Death to Push Through Speech Laws",
       "node_kind": "claim",
       "episode": 6
     },
@@ -31927,7 +31927,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1410",
-      "label": "Hammer's Sole Prior Public Reference to \"Public Execution\" Was a 2022 Post About the Uvalde Shooter",
+      "label": "Host Says Hammer's First Tweet About Public Execution Was in 2022 About the Uvalde Shooter",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32928,7 +32928,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1423",
-      "label": "UVU Had a Specific Suspect Profile Sought by Host – Older Males with Long Hair Tied in Ponytail or Bun",
+      "label": "Host Requests UVU Footage of Older Men With Long Hair in a Ponytail or Bun",
       "node_kind": "claim",
       "episode": 17
     },
@@ -33313,7 +33313,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1428",
-      "label": "Kolbatz Tweet Substance",
+      "label": "Kolvet Tweet Substance",
       "node_kind": "claim",
       "episode": 18
     },
@@ -34237,7 +34237,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1440",
-      "label": "Host Says Dr. Deidra Weiss Amaro Was Announced as New Utah State Medical Examiner in May 2024",
+      "label": "Host Says Dr. Deirdre Amaro Was Announced as New Utah State Medical Examiner in May 2024",
       "node_kind": "claim",
       "episode": 18
     },
@@ -34853,7 +34853,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1448",
-      "label": "Plane 888 – Maxwell Affiliation",
+      "label": "Plane 888 – Maxfield Affiliation",
       "node_kind": "claim",
       "episode": 18
     },
@@ -35161,7 +35161,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1452",
-      "label": "Derek Maxwell – ATC Approval to Stop Transponding",
+      "label": "Derek Maxfield – ATC Approval to Stop Transponding",
       "node_kind": "claim",
       "episode": 18
     },
@@ -37163,7 +37163,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1478",
-      "label": "Mikey McCoy Brought into TPUSA by Tyler Bowyer",
+      "label": "Host Says Kolvet and Sheridan Were Brought In by Tyler Bowyer",
       "node_kind": "claim",
       "episode": 19
     },
@@ -37779,7 +37779,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1486",
-      "label": "Host Press Played Devil's Advocate for Mikey McCoy",
+      "label": "Host Asked for Devil's Advocate on Mikey McCoy",
       "node_kind": "claim",
       "episode": 19
     },
@@ -37856,7 +37856,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1487",
-      "label": "Host discussed Zeb Boyin in witness / outreach context",
+      "label": "Host discussed Zeb Boykin in witness / outreach context",
       "node_kind": "claim",
       "episode": 19
     },
@@ -38934,7 +38934,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1501",
-      "label": "Alex Marlow characterizes online conspiracy allegations against Mikey McCoy as akin to drug/pornography addiction",
+      "label": "Alex Marlow Compares Online Conspiracy Mindset to Addiction",
       "node_kind": "claim",
       "episode": 20
     },
@@ -39235,7 +39235,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-15049",
-      "label": "Host Says John and Arena Mappin Have Been Fantastic Friends",
+      "label": "Host Says John and Irina Mappin Have Been Fantastic Friends",
       "node_kind": "claim",
       "episode": 153
     },
@@ -39368,28 +39368,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1510",
-      "label": "Host discussed David Horowitz in Book Club / network context",
+      "label": "Host Says David Horowitz Contacted Her After Kanye's Tweet",
       "node_kind": "claim",
       "episode": 20
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1511",
-      "label": "Host discussed John Mappen / Arena Mappen in Macron thread",
+      "label": "Host Says John and Irina Mappin Arranged Her UK Event",
       "node_kind": "claim",
       "episode": 20
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1512",
-      "label": "Dr. Lee Trotter cited in medical / hospital thread",
+      "label": "Host Says Dr. Lee Trotter Did Residency at an Air Force Medical Center",
       "node_kind": "claim",
       "episode": 20
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1513",
-      "label": "Dr. Deidra Weiss Amaro cited in UVU hospital message thread",
+      "label": "Host Says Medical Examiner Deirdre Amaro Is an Army Major From the Ericson Family",
       "node_kind": "claim",
       "episode": 20
     },
@@ -40166,7 +40166,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1626",
-      "label": "Allie Beth Stuckey Follows Up That Venue Was Confirmed Two Months Out",
+      "label": "Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out",
       "node_kind": "claim",
       "episode": 27
     },
@@ -51478,14 +51478,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3269",
-      "label": "Host Says Britta Widener (No Soup For You Account) Is Approximately 45 Years Old",
+      "label": "Host Says Britta Weidner (No Soup For You Account) Is Approximately 45 Years Old",
       "node_kind": "claim",
       "episode": 140
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3270",
-      "label": "Britta Widener sent 4,040 tweets about Candace Owens in 11 months",
+      "label": "Britta Weidner sent 4,040 tweets about Candace Owens in 11 months",
       "node_kind": "claim",
       "episode": 140
     },
@@ -52073,7 +52073,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3354",
-      "label": "Host Says Judge Graph Was to Rule on Tyler Robinson Preliminary Hearing Decision on the Broadcast Date",
+      "label": "Host Says Judge Graf Was to Rule on Tyler Robinson Preliminary Hearing Decision on the Broadcast Date",
       "node_kind": "claim",
       "episode": 146
     },
@@ -52717,7 +52717,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3446",
-      "label": "Clip Has Judge Graph Saying 95% of His Work Is Sex Crimes Prosecution",
+      "label": "Clip Has Judge Graf Saying 95% of His Work Is Sex Crimes Prosecution",
       "node_kind": "claim",
       "episode": 152
     },
@@ -54019,7 +54019,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3634",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host Thanks Viewers for Buying CIA Hats",
       "node_kind": "claim",
       "episode": 3
     },
@@ -54033,7 +54033,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3636",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "CIA Merch Framed as Candace / Decentralized Intelligence Agency Brand",
       "node_kind": "claim",
       "episode": 5
     },
@@ -54075,7 +54075,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3642",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host Plugs CIA Merch With Joke About Laura Loomer",
       "node_kind": "claim",
       "episode": 10
     },
@@ -54663,7 +54663,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3726",
-      "label": "Host notes Harley Pastnic family was in piping and valves",
+      "label": "Host notes Harley Pasternak family was in piping and valves",
       "node_kind": "claim",
       "episode": 5
     },
@@ -70700,7 +70700,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6017",
-      "label": "Host says Michael Nolles declined to moderate, so Wilson asked PBD",
+      "label": "Host says Michael Knowles declined to moderate, so Wilson asked PBD",
       "node_kind": "claim",
       "episode": 141
     },
@@ -73801,7 +73801,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6460",
-      "label": "Host Says TPUSA Staff Knew Charlie's Catholic Turn Was Real",
+      "label": "Host Says TPUSA Staff Knew Kirk's Catholic Practice Was Real",
       "node_kind": "claim",
       "episode": 15
     },
@@ -73815,7 +73815,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6462",
-      "label": "Clip Has Alex Clark Say Erika Replied They Just Like Attending Sometimes",
+      "label": "Clip Speaker Says Erika Replied They Just Like Attending Sometimes",
       "node_kind": "claim",
       "episode": 15
     },
@@ -74074,7 +74074,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6499",
-      "label": "Host Says a 501c3 Lawyer Told Her and Charlie to Get an Independent Auditor",
+      "label": "Host Says a 501c3 Lawyer Advised an Independent Auditor in a Meeting With Charlie",
       "node_kind": "claim",
       "episode": 15
     },
@@ -74158,7 +74158,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6511",
-      "label": "Host Says Israel Spends Money on Influencers and Has Pushed FARA Registration with Assassinations",
+      "label": "Host Says Israel Spends Money on Influencers and on Pressing People to Register Under FARA",
       "node_kind": "claim",
       "episode": 15
     },
@@ -83671,7 +83671,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7870",
-      "label": "Host Says Gauer Is an Austrian Software Engineer Tied to Lyman's Relative and Shainer's Instagram",
+      "label": "Host Says Gauer Is an Austrian Software Engineer Tied to Lyman's Relative and Shaner's Instagram",
       "node_kind": "claim",
       "episode": 14
     },
@@ -93415,7 +93415,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9262",
-      "label": "Host Says Shainer Broderick's Map of the Killer's Path Was Used by the Media",
+      "label": "Host Says Shaner Broderick's Map of the Killer's Path Was Used by the Media",
       "node_kind": "claim",
       "episode": 12
     },
@@ -93450,7 +93450,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9267",
-      "label": "Host Says Phil Lyman Now Says Shainer Is His Cousin and May Be Confused",
+      "label": "Host Says Phil Lyman Now Says Shaner Is His Cousin and May Be Confused",
       "node_kind": "claim",
       "episode": 12
     },
@@ -93611,7 +93611,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9290",
-      "label": "Host Says the Assassination May Be a Regicide Carried Out by People Around Kirk",
+      "label": "Host Says the Assassination May Be Akin to a Regicide, Possibly Involving Betrayal by People Around Kirk",
       "node_kind": "claim",
       "episode": 12
     },
@@ -94304,7 +94304,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9389",
-      "label": "Host Says John and Arena Mappin Wrote a Letter the Day Before",
+      "label": "Host Says John and Irina Mappin Wrote a Letter the Day Before",
       "node_kind": "claim",
       "episode": 17
     },
@@ -94948,7 +94948,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9481",
-      "label": "Host Lists Those She Targeted for Lying: Clark, Kolvet, McColgan, McCoy",
+      "label": "Host Lists Those She Targeted for Lying: Clark, Kolvet, Mikey McCoy, Rob McCoy",
       "node_kind": "claim",
       "episode": 24
     },
@@ -95361,7 +95361,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9540",
-      "label": "Host Says Showman Took $2 Million From Kirk Over Tucker Carlson Stage Appearance",
+      "label": "Host Says Shillman Took $2 Million From Kirk Over Tucker Carlson Stage Appearance",
       "node_kind": "claim",
       "episode": 26
     },
@@ -95718,7 +95718,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9591",
-      "label": "Host Says Memorial Event Was on the 21st, Nine Days After the Assassination",
+      "label": "Host Says Memorial Event Was on the 21st After Correction",
       "node_kind": "claim",
       "episode": 27
     },
@@ -100723,21 +100723,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1192",
-      "label": "Shainer Broderick social media posts",
+      "label": "Shaner Broderick social media posts",
       "node_kind": "artifact",
       "episode": 12
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1192.1",
-      "label": "Instagram post by Shainer Broderick identifying Phil Lyman as \"my uncle Phil Lyman\" (described on air; post itself not displayed in this episode).",
+      "label": "Instagram post by Shaner Broderick identifying Phil Lyman as \"my uncle Phil Lyman\" (described on air; post itself not displayed in this episode).",
       "node_kind": "artifact",
       "episode": 12
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1192.2",
-      "label": "Shainer Broderick LinkedIn profile connection listing Phil Lyman as uncle, referenced as a factor in his securing an internship with Senator Mike Lee of Utah.",
+      "label": "Shaner Broderick LinkedIn profile connection listing Phil Lyman as uncle, referenced as a factor in his securing an internship with Senator Mike Lee of Utah.",
       "node_kind": "artifact",
       "episode": 12
     },
@@ -100793,7 +100793,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1196.1",
-      "label": "Video clip: Shainer Broadick and Lyman-family aunt review/tracing the shooter's route on camera; aunt states \"I wondered if the girl had given him stuff…if there is an accomplice.\"",
+      "label": "Video clip: Shaner Broadick and Lyman-family aunt review/tracing the shooter's route on camera; aunt states \"I wondered if the girl had given him stuff…if there is an accomplice.\"",
       "node_kind": "artifact",
       "episode": 13
     },
@@ -100842,21 +100842,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1199.1",
-      "label": "Host-source reporting: new FBI SAC in Utah (\"Robert BS\"), installed by Kash Patel, recently moved from a long DC tenure",
+      "label": "Host-source reporting: new FBI SAC in Utah (\"Robert Bohls\"), installed by Kash Patel, recently moved from a long DC tenure",
       "node_kind": "artifact",
       "episode": 13
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1199.2",
-      "label": "Host-source reporting: Andrew Zanger named as new CEO and lead surgeon at the regional hospital receiving Charlie Kirk",
+      "label": "Host-source reporting: Andrew Zenger named as new CEO and lead surgeon at the regional hospital receiving Charlie Kirk",
       "node_kind": "artifact",
       "episode": 13
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1199.3",
-      "label": "Host-source reporting: Judge Tony F. Graph Jr. appointed May 2025 by Governor Spencer Cox to the fourth district court; presides over Tyler Robinson case",
+      "label": "Host-source reporting: Judge Tony F. Graf Jr. appointed May 2025 by Governor Spencer Cox to the fourth district court; presides over Tyler Robinson case",
       "node_kind": "artifact",
       "episode": 13
     },
@@ -100968,7 +100968,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1206.1",
-      "label": "Comment read on air (from \"The Menagerie by Drea Lee\"): one of Tyler Robinson's lawyers, Michael Bert, previously represented Richard Ramirez (\"the Nightstalker\")",
+      "label": "Comment read on air (from \"The Menagerie by Drea Lee\"): one of Tyler Robinson's lawyers, Michael Burt, previously represented Richard Ramirez (\"the Nightstalker\")",
       "node_kind": "artifact",
       "episode": 13
     },
@@ -101479,7 +101479,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1231",
-      "label": "John and Arena Mappin Public Letter (read on air)",
+      "label": "John and Irina Mappin Public Letter (read on air)",
       "node_kind": "artifact",
       "episode": 16
     },
@@ -106904,7 +106904,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1542.1",
-      "label": "Blake Neff interview clip describing Mikey McCoy's post-shooting reaction (quivering lip, call to Erika, call to his mother, call to father \"Robin McCoy\")",
+      "label": "Blake Neff interview clip describing Mikey McCoy's post-shooting reaction (quivering lip, call to Erika, call to his mother, call to father \"Rob McCoy\")",
       "node_kind": "artifact",
       "episode": 47
     },
@@ -119651,7 +119651,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2273",
-      "label": "\"No Soup For You\" / Britta Widener Identification Bundle",
+      "label": "\"No Soup For You\" / Britta Weidner Identification Bundle",
       "node_kind": "artifact",
       "episode": 140
     },
@@ -119665,7 +119665,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2273.2",
-      "label": "DUI photograph of Britta Widener from prior year",
+      "label": "DUI photograph of Britta Weidner from prior year",
       "node_kind": "artifact",
       "episode": 140
     },
@@ -121415,14 +121415,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2375",
-      "label": "Judge Graph Interview Clip",
+      "label": "Judge Graf Interview Clip",
       "node_kind": "artifact",
       "episode": 152
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2375.1",
-      "label": "Self-description clip of Judge Graph discussing 95% specialization in sex crimes prosecution",
+      "label": "Self-description clip of Judge Graf discussing 95% specialization in sex crimes prosecution",
       "node_kind": "artifact",
       "episode": 152
     },
@@ -123711,14 +123711,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2517",
-      "label": "Harley Pastnic Genealogy Reference Bundle",
+      "label": "Harley Pasternak Genealogy Reference Bundle",
       "node_kind": "artifact",
       "episode": 5
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2517.1",
-      "label": "Host genealogy reference to Harley Pastnic's family business in piping and valves (verbal reference; no displayed artifact)",
+      "label": "Host genealogy reference to Harley Pasternak's family business in piping and valves (verbal reference; no displayed artifact)",
       "node_kind": "artifact",
       "episode": 5
     },
@@ -132342,7 +132342,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2999.1",
-      "label": "Host verbal reference to her text messages with Phil Lyman about Nick, the white vehicle, his relation to Shainer Broderick and the two unidentified companions (messages not shown)",
+      "label": "Host verbal reference to her text messages with Phil Lyman about Nick, the white vehicle, his relation to Shaner Broderick and the two unidentified companions (messages not shown)",
       "node_kind": "artifact",
       "episode": 12
     },
@@ -132412,7 +132412,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3004.1",
-      "label": "Host verbal reference to a letter written by John and Arena Mappin (transcribed Mapel) the previous day (not shown)",
+      "label": "Host verbal reference to a letter written by John and Irina Mappin (transcribed Mappin) the previous day (not shown)",
       "node_kind": "artifact",
       "episode": 17
     },
@@ -132552,7 +132552,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3014.1",
-      "label": "Host verbal reference to Tyler Bowyer's late-night weekend tweets at donors John and Arena Mappin (not shown)",
+      "label": "Host verbal reference to Tyler Bowyer's late-night weekend tweets at donors John and Irina Mappin (not shown)",
       "node_kind": "artifact",
       "episode": 24
     },

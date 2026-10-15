@@ -1029,8 +1029,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -1049,8 +1049,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.",
@@ -1067,8 +1067,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
@@ -1158,8 +1158,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-206",
-      "ref": "N-206",
+      "@id": "N-204",
+      "ref": "N-204",
       "name": "Lindsay Clancy",
       "type": "person",
       "description": "Lindsay Clancy; subject of a viewer question the host answers.",
@@ -1176,8 +1176,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-245",
-      "ref": "N-245",
+      "@id": "N-243",
+      "ref": "N-243",
       "name": "Joel Berry",
       "type": "person",
       "description": "Joel Barry (listed as Joel Berry in the node list); his burrito posts are read.",
@@ -1193,8 +1193,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; the host says he pushed Kirk over to the side.",
@@ -1210,8 +1210,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-784",
-      "ref": "N-784",
+      "@id": "N-782",
+      "ref": "N-782",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Matt Robinson; the host recounts the dog bed discovery and disputes that he believed his son guilty.",
@@ -1911,8 +1911,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-934",
-      "ref": "N-934",
+      "@id": "N-932",
+      "ref": "N-932",
       "name": "Brian Atlas",
       "type": "person",
       "description": "First named by the host at 00:02:12 in episode 139.",
@@ -1928,8 +1928,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-935",
-      "ref": "N-935",
+      "@id": "N-933",
+      "ref": "N-933",
       "name": "Dan Crenshaw",
       "type": "person",
       "description": "First named by the host at 00:41:20 in episode 139.",
@@ -1945,8 +1945,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-936",
-      "ref": "N-936",
+      "@id": "N-934",
+      "ref": "N-934",
       "name": "Rabbi Shmuley Boteach",
       "type": "person",
       "description": "First named by the host at 00:48:31 in episode 139.",
@@ -2062,7 +2062,7 @@
         "N-18",
         "N-3",
         "N-1",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2081,7 +2081,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-18",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2102,7 +2102,7 @@
         "N-2",
         "N-18",
         "N-3",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2137,8 +2137,8 @@
       "investigative_direction": "Cross-reference Nef's TPUSA affiliation and prior amplification patterns.",
       "mentions_person_refs": [
         "N-18",
-        "N-162",
-        "N-272"
+        "N-161",
+        "N-270"
       ]
     },
     {
@@ -2270,7 +2270,7 @@
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Cross-reference BLS food-at-home CPI data for verification.",
       "mentions_person_refs": [
-        "N-166"
+        "N-165"
       ]
     },
     {
@@ -2321,7 +2321,7 @@
       "claim_timestamp": "00:38:00–00:39:30",
       "investigative_direction": "Compile post history of named Republicans regarding affordability claims during 2021–2024 vs. 2025–2026.",
       "mentions_person_refs": [
-        "N-166"
+        "N-165"
       ]
     },
     {
@@ -2356,7 +2356,7 @@
       "claim_timestamp": "00:42:30–00:43:30",
       "investigative_direction": "Community note referenced (cited pre-2020 data); obtain updated USDA ERS data for current expenditure share comparison.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2549,7 +2549,7 @@
       "investigative_direction": "Obtain the offer messages between Atlas and the host's PR representative and ask Atlas who proposed and who funded the amounts.",
       "transcript_snippet": "a guy named Brian Atlas, reached out to my PR guy, Mitchell, with an offer of 50K for me to debate this person. And then he upped the amount, I think, to 150K initially.",
       "mentions_person_refs": [
-        "N-934",
+        "N-932",
         "N-18",
         "N-3"
       ]
@@ -2592,7 +2592,7 @@
       "investigative_direction": "Collect the host's earlier public invitations to TPUSA figures and any replies.",
       "transcript_snippet": "We have not been asking for money, just a public discussion with Turning Point USA, one of their affiliates regarding the case",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-14",
         "N-2",
         "N-7",
@@ -2658,7 +2658,7 @@
       "investigative_direction": "Locate the Rogan episode and confirm the exchange, and identify the sparkler event Rogan means.",
       "transcript_snippet": "I think it probably would have been better for her to like lay low for a little while.",
       "mentions_person_refs": [
-        "N-272",
+        "N-270",
         "N-2",
         "N-18"
       ]
@@ -2723,7 +2723,7 @@
       "transcript_snippet": "Andrew Wilson currently trending on X, by the way, uh for having lied to Joe Rogan throughout this entire interview.",
       "mentions_person_refs": [
         "N-18",
-        "N-272",
+        "N-270",
         "N-3"
       ]
     },
@@ -2745,7 +2745,7 @@
       "transcript_snippet": "I've never so much as spoken to them, but then he also lied about them.",
       "mentions_person_refs": [
         "N-18",
-        "N-272",
+        "N-270",
         "N-3"
       ]
     },
@@ -2767,7 +2767,7 @@
       "transcript_snippet": "He's accusing them of like laundering money and doing this on Joe Rogan's platform absent any fact check.",
       "mentions_person_refs": [
         "N-18",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2918,7 +2918,7 @@
       "investigative_direction": "Watch for public statements from Neff, Kolvet or Erika Kirk claiming or disavowing Wilson.",
       "transcript_snippet": "Either Blake Neff or Andrew Kolvet or Erika Kirk must publicly claim you first.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-14",
         "N-2",
         "N-18",
@@ -3073,7 +3073,7 @@
       "investigative_direction": "Review the footage of Flood's movements at the moment of impact and ask Flood or TPUSA security for an account.",
       "transcript_snippet": "And then Dan Flood continues him, pushes him over to the side in that same motion.",
       "mentions_person_refs": [
-        "N-274",
+        "N-272",
         "N-1",
         "N-3"
       ]
@@ -3528,7 +3528,7 @@
       "investigative_direction": "Identify the source of the dog bed account and check search-warrant photographs of Tyler's room.",
       "transcript_snippet": "Matt Robinson uh when he went back to the apartment that Tyler Robinson shared with Lance discovered that a bed that was not in his son's room, a dog bed was put into his son's room.",
       "mentions_person_refs": [
-        "N-784",
+        "N-782",
         "N-40",
         "N-54",
         "N-3"
@@ -3553,7 +3553,7 @@
       "transcript_snippet": "it would make more sense that this would be Lance's bed, Lance's big dog bed, that Lance was embodying this persona.",
       "mentions_person_refs": [
         "N-54",
-        "N-784",
+        "N-782",
         "N-3"
       ]
     },
@@ -3574,7 +3574,7 @@
       "investigative_direction": "Compare the host's source with public accounts of what Matt Robinson told investigators.",
       "transcript_snippet": "this whole lie that Matt Robinson believed his son was guilty.",
       "mentions_person_refs": [
-        "N-784",
+        "N-782",
         "N-40",
         "N-3"
       ]
@@ -3980,7 +3980,7 @@
       "investigative_direction": "Verify the post text and date on X.",
       "transcript_snippet": "end the stupid foreign wars and focus on this issue. It's one of the main reasons socialists are gaining power.",
       "mentions_person_refs": [
-        "N-166"
+        "N-165"
       ]
     },
     {
@@ -4002,7 +4002,7 @@
       "investigative_direction": "Verify the post text and date on X.",
       "transcript_snippet": "I'm beginning to think the affordability crisis is really an I don't know how to cook crisis.",
       "mentions_person_refs": [
-        "N-245"
+        "N-243"
       ]
     },
     {
@@ -4024,7 +4024,7 @@
       "investigative_direction": "Verify the post text and date on X.",
       "transcript_snippet": "The market doesn't care what you think. Something should cost. Only communists care.",
       "mentions_person_refs": [
-        "N-935"
+        "N-933"
       ]
     },
     {
@@ -4046,7 +4046,7 @@
       "investigative_direction": "Capture the community note and the chart's underlying data and date.",
       "transcript_snippet": "A linked article uses pre20 data showing the US the lowest food expenditure shares.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -4109,7 +4109,7 @@
       "investigative_direction": "Identify the lawsuit threats the host refers to, if any, from court dockets or press reports.",
       "transcript_snippet": "Constantly harassing people, threatening lawsuits.",
       "mentions_person_refs": [
-        "N-936",
+        "N-934",
         "N-3"
       ]
     },
@@ -4192,7 +4192,7 @@
       "investigative_direction": "Review the court record, expert testimony and medication history in the Clancy case.",
       "transcript_snippet": "Lindsay Clancy is obviously not guilty. There are a fleet of doctors who should be imprisoned for what they put her on.",
       "mentions_person_refs": [
-        "N-206",
+        "N-204",
         "N-3"
       ]
     },
@@ -4211,7 +4211,7 @@
       "investigative_direction": "Obtain the medication list from trial or medical records.",
       "transcript_snippet": "And the cocktail of 10 pharmaceuticals that she was on is absolute madness.",
       "mentions_person_refs": [
-        "N-206",
+        "N-204",
         "N-3"
       ]
     },

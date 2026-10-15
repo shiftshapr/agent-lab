@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 56d0f23b17a0cf753736039d602659d87c37358b53687d087f88f5fff2bdc3c5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-870, N-871, N-872, N-11259, N-11260, N-11261
+  - Tip-minted Nodes (supplement_2026-10d): N-868, N-869, N-870, N-11259, N-11260, N-11261
   - Tip-minted Nodes (reintro-ep140): N-11066, N-11067
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10423–C-10499
   - New Nodes Introduced: N-10792
-  - Reused Nodes Appearing: N-2, N-18, N-9, N-14, N-60, N-102, N-162, N-272, N-371, N-372, N-10000, N-10011, N-10012, N-10051, N-10052, N-10062, N-10077, N-10097, N-10139, N-10198, N-10338, N-10381, N-10416, N-10780, N-10787, N-10899, N-10900, N-11182, N-873, N-10791, N-10793, N-11262
-  - Hole-minted Nodes (wave3): N-567
+  - Reused Nodes Appearing: N-2, N-18, N-9, N-14, N-60, N-101, N-161, N-270, N-369, N-370, N-10000, N-10011, N-10012, N-10051, N-10052, N-10062, N-10077, N-10097, N-10139, N-10198, N-10338, N-10381, N-10416, N-10780, N-10787, N-10899, N-10900, N-11182, N-871, N-10791, N-10793, N-11262
+  - Hole-minted Nodes (wave3): N-565
   - (see registers)
 
 # Episode 140 – Analysis Record
@@ -46,7 +46,7 @@
 
 ## II. Executive Summary
 
-This episode centers on the presenter's review of newly obtained "4K HD" stills said to be derived from the same parking-garage surveillance footage previously shown to influencers in court. The host argues that the subject of the footage presents physical discrepancies with Tyler Robinson – apparent left-hand dominance, high white socks possibly masking tattoos or scars, and a hat worn above the head as if accommodating a ponytail. The host argues that media outlets deliberately seeded a "Tyler loves maroon" framing by selectively releasing photos from the mother's Facebook while suppressing other-colored shirt photos. Additional segments cover an unidentified device visible during George Zinn's arrest, an update on the 92-member "Protect Erika Kirk" X group chat (with one member identified as Britta Widener a.k.a. "No Soup For You"), and debate-prep conflicts with Andrew Wilson and his wife Rachel Wilson. The episode's structural importance is the consolidation of the "patsy" hypothesis around physical-trait evidence from the parking-garage footage and the introduction of comparative tweet-count data.
+This episode centers on the presenter's review of newly obtained "4K HD" stills said to be derived from the same parking-garage surveillance footage previously shown to influencers in court. The host argues that the subject of the footage presents physical discrepancies with Tyler Robinson – apparent left-hand dominance, high white socks possibly masking tattoos or scars, and a hat worn above the head as if accommodating a ponytail. The host argues that media outlets deliberately seeded a "Tyler loves maroon" framing by selectively releasing photos from the mother's Facebook while suppressing other-colored shirt photos. Additional segments cover an unidentified device visible during George Zinn's arrest, an update on the 92-member "Protect Erika Kirk" X group chat (with one member identified as Britta Weidner a.k.a. "No Soup For You"), and debate-prep conflicts with Andrew Wilson and his wife Rachel Wilson. The episode's structural importance is the consolidation of the "patsy" hypothesis around physical-trait evidence from the parking-garage footage and the introduction of comparative tweet-count data.
 
 ---
 
@@ -172,7 +172,7 @@ Confidence Level: High (displayed)
 
 ---
 
-**A-2273** "No Soup For You" / Britta Widener Identification Bundle
+**A-2273** "No Soup For You" / Britta Weidner Identification Bundle
 
 **A-2273.1** Public records / identification linking the "No Soup For You" / "No Soup For Noels" X account to a 40–45-year-old woman
 
@@ -182,7 +182,7 @@ Confidence Level: Medium (host describes; underlying records not displayed)
 
 *Related: C-3269*
 
-**A-2273.2** DUI photograph of Britta Widener from prior year
+**A-2273.2** DUI photograph of Britta Weidner from prior year
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:32:22
@@ -210,7 +210,7 @@ Video Timestamp: 00:39:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-3272, Andrew Wilson node, N-567, N-18*
+*Related: C-3272, Andrew Wilson node, N-565, N-18*
 
 ---
 
@@ -262,7 +262,7 @@ Video Timestamp: 00:54:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: Andrew Wilson node, N-567*
+*Related: Andrew Wilson node, N-565*
 
 **A-2275.7** Strada comment: TPUSA figures "look 10 years older"
 
@@ -352,7 +352,7 @@ Video Timestamp: 00:36:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10472, N-567*
+*Related: C-10472, N-565*
 
 **A-3081.2** Host reads a message from Rachel Wilson about who clutches their pearls over smoking
 
@@ -362,7 +362,7 @@ Video Timestamp: 00:37:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10473, N-567*
+*Related: C-10473, N-565*
 
 **A-3081.3** Host verbal reference to photos of her pregnant backstage at the Daily Wire shown by Rachel Wilson (not displayed)
 
@@ -370,7 +370,7 @@ Video Timestamp: 00:37:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10474, N-567*
+*Related: C-10474, N-565*
 
 ---
 
@@ -400,13 +400,13 @@ Video Timestamp: 00:50:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10493, N-162*
+*Related: C-10493, N-161*
 
 ---
 
 ## IV. Node Register
 
-**N-567** Rachel Wilson
+**N-565** Rachel Wilson
 
 First named by the host at 00:39:29 in episode 140.
 
@@ -537,7 +537,7 @@ Commentator whose tweet count about the host the host cites for comparison.
 
 ---
 
-**N-102** Michael Knowles
+**N-101** Michael Knowles
 
 Commentator the host says declined to moderate the Wilson debate.
 
@@ -545,7 +545,7 @@ Commentator the host says declined to moderate the Wilson debate.
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 TPUSA-linked commentator (transcribed Blakely Neff); the host cites his NBC quote and his offer to fund the debate.
 
@@ -553,7 +553,7 @@ TPUSA-linked commentator (transcribed Blakely Neff); the host cites his NBC quot
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Charlie Kirk's security aide (transcribed McQuaid in the viewer comment); the host recounts his call sequence.
 
@@ -561,7 +561,7 @@ Charlie Kirk's security aide (transcribed McQuaid in the viewer comment); the ho
 
 ---
 
-**N-272** Joe Rogan
+**N-270** Joe Rogan
 
 Podcaster on whose show the host says she first learned of Andrew Wilson.
 
@@ -569,15 +569,15 @@ Podcaster on whose show the host says she first learned of Andrew Wilson.
 
 ---
 
-**N-371** Jeremy Boreing
+**N-369** Jeremy Boreing
 
-Daily Wire co-founder (transcribed Jeremy Boreing); the host says he worked through Britta Widener.
+Daily Wire co-founder (transcribed Jeremy Boreing); the host says he worked through Britta Weidner.
 
 *Related: C-10462*
 
 ---
 
-**N-372** Danny Philip
+**N-370** Danny Philip
 
 Danny Phillip in the transcript; the host says McCoy was on a 10-minute call with him.
 
@@ -745,7 +745,7 @@ Existing topic reused for the PR agent claim.
 
 ---
 
-**N-870** Agent Hoole
+**N-868** Agent Hoole
 
 First named by the host at 00:17:43 in episode 140. Investigator whose court testimony about a vehicle is played and analysed.
 
@@ -753,7 +753,7 @@ First named by the host at 00:17:43 in episode 140. Investigator whose court tes
 
 ---
 
-**N-871** Officer Goforth
+**N-869** Officer Goforth
 
 First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hoole's testimony as the officer a vehicle made contact with.
 
@@ -761,7 +761,7 @@ First named by the host at 00:18:42 in episode 140. Security-detail officer iden
 
 ---
 
-**N-872** Haim Braverman
+**N-870** Haim Braverman
 
 First named by the host at 00:29:36 in episode 140. Man the host says was arrested and pled guilty after plotting against her from a group chat.
 
@@ -769,7 +769,7 @@ First named by the host at 00:29:36 in episode 140. Man the host says was arrest
 
 ---
 
-**N-873** Britta Widener
+**N-871** Britta Weidner
 
 First named by the host at 00:31:45 in episode 140 (spelled Britta Whitener and Brita in the transcript). Owner of the No Soup For You / No Soup for Noels X account.
 
@@ -950,11 +950,11 @@ Investigative Direction: Obtain independent verification of membership size, gro
 
 ---
 
-**C-3269** Host Says Britta Widener (No Soup For You Account) Is Approximately 45 Years Old
+**C-3269** Host Says Britta Weidner (No Soup For You Account) Is Approximately 45 Years Old
 
 Claim Timestamp: 00:32:22
 
-Claim: The host says the account "No Soup For You" / "No Soup For Noels," which she had assumed belonged to a teenager, has been revealed to belong to Britta Widener, whom she describes as almost 45 years old, and she references a DUI photo from last year.
+Claim: The host says the account "No Soup For You" / "No Soup For Noels," which she had assumed belonged to a teenager, has been revealed to belong to Britta Weidner, whom she describes as almost 45 years old, and she references a DUI photo from last year.
 
 Anchored Artifacts: A-2273.1, A-2273.2
 
@@ -964,7 +964,7 @@ Investigative Direction: Confirm identity through public records and account-his
 
 ---
 
-**C-3270** Britta Widener sent 4,040 tweets about Candace Owens in 11 months
+**C-3270** Britta Weidner sent 4,040 tweets about Candace Owens in 11 months
 
 Claim Timestamp: 00:33:27
 
@@ -982,7 +982,7 @@ Investigative Direction: Obtain the underlying tweet-counter screenshot and veri
 
 Claim Timestamp: 00:34:13
 
-Claim: The host states she sent 104 tweets about Erica Kirk in the same 11-month window – presented as a comparison baseline against the 4,040 tweets by Britta Widener.
+Claim: The host states she sent 104 tweets about Erica Kirk in the same 11-month window – presented as a comparison baseline against the 4,040 tweets by Britta Weidner.
 
 Anchored Artifacts: A-2273.3
 Mentions: N-2, N-3
@@ -999,7 +999,7 @@ Claim Timestamp: 00:39:29
 Claim: In a prior debate clip, Andrew Wilson exited to smoke and his wife Rachel Wilson called in to debate on his behalf; the host characterizes this as a recurring pattern.
 
 Anchored Artifacts: A-2274.1
-Mentions: N-18, N-567
+Mentions: N-18, N-565
 
 
 Investigative Direction: Obtain the full debate recording and date; verify whether this was a sanctioned call-in.
@@ -1013,7 +1013,7 @@ Claim Timestamp: 00:46:41
 Claim: Viewer Manny Petty asserts that Mikey McQuaid was on the phone within two seconds of Charlie Kirk being shot, did not appear visibly shocked, and walked away; host concurs that the official explanations have been inconsistent.
 
 Anchored Artifacts: A-2275.1
-Mentions: N-1, N-194
+Mentions: N-1, N-192
 
 
 Investigative Direction: Review body-cam footage, phone-records evidence, and contemporaneous witness statements regarding McQuaid's actions immediately post-shooting.
@@ -1394,7 +1394,7 @@ Claim: The host says she wrongly assumed Robinson had been pulled over, but afte
 Transcript Snippet: I wrongly assumed that he had been pulled over.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-40, N-870
+Mentions: N-40, N-868
 Related Nodes: N-11261
 Supports: C-3266
 Tags: relevance:core
@@ -1411,7 +1411,7 @@ Claim: In the testimony audio the host plays, Agent Hoole says the vehicle is no
 Transcript Snippet: that vehicle is now pulling away and heading east on 800 South.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-870, N-871
+Mentions: N-868, N-869
 Related Nodes: N-11261
 Tags: relevance:core
 Investigative Direction: Obtain the exhibit map and video Hoole was describing and the full transcript of this testimony.
@@ -1427,7 +1427,7 @@ Claim: The host says no footage has been shown of the vehicle's contact with the
 Transcript Snippet: We've not seen any footage from that.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-871
+Mentions: N-869
 Related Nodes: N-11261
 Tags: relevance:core
 Investigative Direction: Request the security officer's body-camera footage and report for the contact.
@@ -1638,7 +1638,7 @@ Claim: The host says that after the FBI became involved the group member, whom s
 Transcript Snippet: he got arrested, he pled guilty, his name is Haim Braverman, and he is in prison, you can look that up.
 
 Anchored Artifacts: 
-Mentions: N-872, N-3
+Mentions: N-870, N-3
 Tags: relevance:context
 Investigative Direction: Search federal court dockets and DOJ press releases for a plea by Haim Braverman and the sentence.
 
@@ -1701,7 +1701,7 @@ Claim: The host says Britta, a Daily Wire super fan, attacked her with the Crisi
 Transcript Snippet: obviously I knew that their PR agent and Jeremy Boreing were working through her
 
 Anchored Artifacts: 
-Mentions: N-873, N-371, N-3
+Mentions: N-871, N-369, N-3
 Related Nodes: N-10900, N-11182
 Tags: relevance:context
 Investigative Direction: Look for coordination evidence between the account and Daily Wire staff or PR, such as shared posts, direct messages or timings.
@@ -1712,12 +1712,12 @@ Investigative Direction: Look for coordination evidence between the account and 
 
 Claim Timestamp: 00:31:45
 
-Claim: The host says Britta Widener went after her family and husband and was part of the people perpetuating the lies about her husband back in April, and is also in the group of 92.
+Claim: The host says Britta Weidner went after her family and husband and was part of the people perpetuating the lies about her husband back in April, and is also in the group of 92.
 
 Transcript Snippet: she's been going after my family, my husband. She was part of people perpetuating the lies about my husband
 
 Anchored Artifacts: 
-Mentions: N-873, N-3
+Mentions: N-871, N-3
 Related Nodes: N-10780, N-10416
 Tags: relevance:context
 Investigative Direction: Compile the April posts about the host's husband and identify which accounts amplified them.
@@ -1733,7 +1733,7 @@ Claim: The host says that a couple of weeks earlier she showed that Laura Loomer
 Transcript Snippet: I think I showed you a couple of weeks ago that like Laura Loomer sent like 1,800 tweets about me
 
 Anchored Artifacts: 
-Mentions: N-60, N-873, N-3
+Mentions: N-60, N-871, N-3
 Tags: relevance:context
 Investigative Direction: Obtain the tweet-counter output shown in the earlier episode and re-run the count on Loomer's account.
 
@@ -1813,7 +1813,7 @@ Claim: The host says the person who has stepped up to moderate was Andrew Wilson
 Transcript Snippet: It was Andrew's pick, a second pick. Michael Knowles declined to do it respectfully, as I knew he would.
 
 Anchored Artifacts: 
-Mentions: N-18, N-102
+Mentions: N-18, N-101
 Related Nodes: N-11259
 Tags: relevance:context
 Investigative Direction: Ask Wilson's team and Knowles's representatives to confirm the request and decline.
@@ -1845,7 +1845,7 @@ Claim: The host says the dispute with Wilson's side came down to her telling the
 Transcript Snippet: you can't smoke cigarettes in my home
 
 Anchored Artifacts: 
-Mentions: N-18, N-567, N-3
+Mentions: N-18, N-565, N-3
 Related Nodes: N-11067
 Tags: relevance:context
 Investigative Direction: Review the debate terms for the studio smoking rule and the messages about it.
@@ -1861,7 +1861,7 @@ Claim: The host says that after being told there was no smoking Rachel Wilson wr
 Transcript Snippet: typical woman nonsense. I'm surprised she hasn't me too'd anyone.
 
 Anchored Artifacts: A-3081.1
-Mentions: N-567, N-3
+Mentions: N-565, N-3
 Related Nodes: N-11067
 Tags: relevance:tangential
 Investigative Direction: Obtain the original post or message from Rachel Wilson.
@@ -1877,7 +1877,7 @@ Claim: The host says Rachel Wilson wrote that those who clutch their pearls abou
 Transcript Snippet: Yeah, who clutches their pearls about smoking? Zoomer soy boys maybe or the type of woman who reports everything to HR.
 
 Anchored Artifacts: A-3081.2
-Mentions: N-567, N-3
+Mentions: N-565, N-3
 Related Nodes: N-11067
 Tags: relevance:tangential
 Investigative Direction: Obtain the original post from Rachel Wilson.
@@ -1893,7 +1893,7 @@ Claim: The host says Rachel Wilson kept going and showed photos of the host whil
 Transcript Snippet: She just kept going and going. Then she was like showing photos of me pregnant while I was doing backstage with the Daily Wire.
 
 Anchored Artifacts: A-3081.3
-Mentions: N-567, N-3
+Mentions: N-565, N-3
 Related Nodes: N-10900
 Tags: relevance:tangential
 Investigative Direction: Locate the photos Rachel Wilson posted and their dates.
@@ -1909,7 +1909,7 @@ Claim: In the clip, a woman identified by the host as Rachel Wilson says she has
 Transcript Snippet: I've spent my entire adult life only in three long-term committed relationships
 
 Anchored Artifacts: A-2274.1
-Mentions: N-567, N-18
+Mentions: N-565, N-18
 Supports: C-3272
 Tags: relevance:tangential
 Investigative Direction: Verify the marriage and relationship timeline through public records and the full debate clip.
@@ -1925,7 +1925,7 @@ Claim: In the clip, Rachel Wilson says her earlier four-year marriage ended beca
 Transcript Snippet: because he uh beat the crap out of me and was being pursued by the law and left the state
 
 Anchored Artifacts: A-2274.1
-Mentions: N-567
+Mentions: N-565
 Tags: relevance:tangential
 Investigative Direction: Search public court records for the earlier marriage and any case referenced; treat as the speaker's own account.
 
@@ -1940,7 +1940,7 @@ Claim: In the clip, Rachel Wilson says her first relationship was with her high 
 Transcript Snippet: The first one was my high school boyfriend who I knew my whole life, who I was with for 5 years. We had two children.
 
 Anchored Artifacts: A-2274.1
-Mentions: N-567
+Mentions: N-565
 Tags: relevance:tangential
 Investigative Direction: Treat as the speaker's own account; no external verification is needed for the case.
 
@@ -1955,7 +1955,7 @@ Claim: In the clip, a male voice asks whether Rachel Wilson would still be promi
 Transcript Snippet: If she had slept with three men, but had aborted all of the children, would she still be promiscuous?
 
 Anchored Artifacts: A-2274.1
-Mentions: N-567
+Mentions: N-565
 Tags: relevance:tangential
 Investigative Direction: Identify the speaker and the show from the full debate clip.
 
@@ -1970,7 +1970,7 @@ Claim: The host says that in the clip Rachel Wilson jumps in and speaks on behal
 Transcript Snippet: And she jumps right in and she speaks on behalf of her husband. He tells her to shut up.
 
 Anchored Artifacts: A-2274.1
-Mentions: N-567, N-18
+Mentions: N-565, N-18
 Supports: C-3272
 Tags: relevance:tangential
 Investigative Direction: Review the full clip to attribute the shut-up lines to a specific speaker.
@@ -1986,7 +1986,7 @@ Claim: The host says she herself suggested that Andrew Wilson's wife should shut
 Transcript Snippet: To be fair, I did tell his wife to I suggested she should shut up.
 
 Anchored Artifacts: 
-Mentions: N-567, N-3
+Mentions: N-565, N-3
 Related Nodes: N-11067
 Tags: relevance:tangential
 Investigative Direction: Obtain the exchange in which the host made the remark.
@@ -2002,7 +2002,7 @@ Claim: The host says Rachel Wilson has authored 37,000 tweets and has been findi
 Transcript Snippet: why are you online authoring 37,000 tweets and finding photos of me trying to pretend that I'm a hypocrite.
 
 Anchored Artifacts: 
-Mentions: N-567, N-3
+Mentions: N-565, N-3
 Tags: relevance:tangential
 Investigative Direction: Run a tweet count on Rachel Wilson's account.
 
@@ -2017,7 +2017,7 @@ Claim: The host says Andrew Wilson himself did not try to negotiate being able t
 Transcript Snippet: And uh he did not try to negotiate being able to smoke cigarettes
 
 Anchored Artifacts: 
-Mentions: N-18, N-567
+Mentions: N-18, N-565
 Related Nodes: N-11067
 Tags: relevance:tangential
 Investigative Direction: Compare the negotiation messages for any smoking request by Andrew Wilson.
@@ -2033,7 +2033,7 @@ Claim: The host says she knew nothing about Andrew Wilson until he went on Joe R
 Transcript Snippet: I knew nothing about this guy until he went on Joe Rogan
 
 Anchored Artifacts: 
-Mentions: N-18, N-272
+Mentions: N-18, N-270
 Tags: relevance:context
 Investigative Direction: Identify the Rogan appearance date and the host's earliest mention of Wilson.
 
@@ -2079,7 +2079,7 @@ Claim: The host says TPUSA initially told the public that Mikey McCoy instantly 
 Transcript Snippet: initially, like I said, they told us that he instantly called Erika. Then we learned that he didn't call Erika, he actually called his wife.
 
 Anchored Artifacts: 
-Mentions: N-194, N-2
+Mentions: N-192, N-2
 Related Nodes: N-10338
 Supports: C-3273
 Tags: relevance:core
@@ -2096,7 +2096,7 @@ Claim: The host says there were three-way calls and that in her opinion the call
 Transcript Snippet: Then there was like all of these three-way calls, and the call with Erika, in my opinion, was way too short.
 
 Anchored Artifacts: 
-Mentions: N-194, N-2
+Mentions: N-192, N-2
 Related Nodes: N-10338
 Supports: C-3273
 Tags: relevance:core
@@ -2113,7 +2113,7 @@ Claim: The host says McCoy was on the phone with Danny Phillip for 10 minutes ev
 Transcript Snippet: And then he's like on the phone with Danny Phillip for 10 minutes, but they should be together, but now we're thinking actually they went into two different cars to the hospital.
 
 Anchored Artifacts: 
-Mentions: N-194, N-372
+Mentions: N-192, N-370
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Obtain call logs and hospital-arrival records for McCoy and Phillip and the vehicle manifests for the convoy.
@@ -2129,7 +2129,7 @@ Claim: The host says that TPUSA figures are on record lying about what happened 
 Transcript Snippet: they are on record lying about what happened there.
 
 Anchored Artifacts: 
-Mentions: N-194
+Mentions: N-192
 Related Nodes: N-10198
 Supports: C-3273
 Tags: relevance:core
@@ -2162,7 +2162,7 @@ Claim: The host says an NBC article, in which Blake Neff shares what they are sa
 Transcript Snippet: Blakely Neff is sharing what they're saying cuz they're effectively saying like the current conservatives would have been united after being fractured over Epstein.
 
 Anchored Artifacts: 
-Mentions: N-162, N-3, N-9, N-1
+Mentions: N-161, N-3, N-9, N-1
 Tags: relevance:context
 Investigative Direction: Read the NBC article and compare its wording with the host's paraphrase.
 
@@ -2192,7 +2192,7 @@ Claim: The host says Blake Neff instantly said he would love to throw money towa
 Transcript Snippet: Blake Neff instantly said, "If you want to I would love to throw money towards you debating Candace."
 
 Anchored Artifacts: A-3083.1
-Mentions: N-162, N-18, N-3
+Mentions: N-161, N-18, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Find Neff's original post or message offering money and the date.
@@ -2272,7 +2272,7 @@ Claim: The host says she is not going to put up any boundaries at all about Rach
 Transcript Snippet: I am not going to be putting up any boundaries at all.
 
 Anchored Artifacts: 
-Mentions: N-567, N-3
+Mentions: N-565, N-3
 Related Nodes: N-11067
 Tags: relevance:context
 Investigative Direction: Check the final debate terms for any limits on who attends.
@@ -2304,7 +2304,7 @@ Investigative Direction: Identify the week and review Kolvet's posts for the cha
 - People nodes use the global people ledger (N-2, N-3, N-10141, plus reused existing character nodes).
 - Non-person investigation targets use the 1000+ range (N-10791, N-10792, N-10793).
 - No speculative claims inscribed as evidence-backed claims; rhetorical framing (e.g., the Dane Cook analogy) is captured as a claim with explicit "analog" wording rather than as evidentiary fact.
-- Names preserved exactly as appearing in transcript (e.g., "No Soup For Noels," "Lance Twiggs," "Britta Widener").
+- Names preserved exactly as appearing in transcript (e.g., "No Soup For Noels," "Lance Twiggs," "Britta Weidner").
 
 ---
 
@@ -2475,7 +2475,7 @@ A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
 
 **Claim Range:** C-3260–C-3276
 
-**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10141 is a topic id; Britta Widener has no CKA person node.
+**New People Nodes Introduced:** none. Wave 1 reconciliation: N-10141 is a topic id; Britta Weidner has no CKA person node.
 
 **New Investigation Target Nodes:** N-10791, N-10792, N-10793
 

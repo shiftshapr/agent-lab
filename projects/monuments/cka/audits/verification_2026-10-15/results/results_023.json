@@ -1,0 +1,815 @@
+[
+ {
+  "claim": "C-6482",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6483",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6484",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6485",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6486",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no person besides the host; N-11 and N-40 are not named in it.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-6487",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6488",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6489",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript \"DoJ\" is an ASR error for DOGE (Musk/Ramaswamy); claim repeats it.",
+  "fix": {
+   "claim": "The host says that when Alex Clark made it seem like the host lied about the new DOGE department, the host had literally shared the email from Charlie."
+  }
+ },
+ {
+  "claim": "C-6490",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6491",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6492",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6493",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6494",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6495",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6496",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript \"DoJ\" is an ASR error for DOGE; claim repeats it.",
+  "fix": {
+   "claim": "The host says that when she showed Charlie's internal email she read everything related to the DOGE department but not the paragraph where he announced that Justin Streiff would be COO."
+  }
+ },
+ {
+  "claim": "C-6497",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6498",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only the host; Bowyer (N-11) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-6499",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I shared a 501c3 lawyer with them. So, I met her in her offices with Charlie\"; not that she introduced Charlie to the lawyer. Title misattributes advice.",
+  "fix": {
+   "claim": "The host says she shared a 501c3 lawyer with them, met her in her offices with Charlie, and the lawyer explained the need for an independent auditor.",
+   "label": "Host Says a 501c3 Lawyer Advised an Independent Auditor in a Meeting With Charlie"
+  }
+ },
+ {
+  "claim": "C-6500",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6501",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Netanyahu (N-36) is not named in the claim; \"Bibi Netanyahu\" appears only later in the passage.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-6502",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6503",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6504",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host presents it as \"this headline ... came out that like their TikTok moderation team, like IDF soldiers and Netanyahu saying...\"; the claim drops the headline sourcing.",
+  "fix": {
+   "claim": "The host, citing a headline, says TikTok's moderation team is like IDF soldiers and that Benjamin Netanyahu said they are taking over TikTok."
+  }
+ },
+ {
+  "claim": "C-6505",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6506",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6507",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6508",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6509",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6510",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6511",
+  "episode": 15,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says the \"tapestry of deception\" is falling apart because people speak truth, not the money; label overstates.",
+  "fix": {
+   "claim": "The host says that Israel has all the money in the world and spends it on influencers, on trying to get people (including some who were assassinated) to register under FARA, and on presidents, and that every piece of that tapestry of deception is falling apart because people are speaking truth.",
+   "label": "Host Says Israel Spends Money on Influencers and on Pressing People to Register Under FARA"
+  }
+ },
+ {
+  "claim": "C-1380",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1381",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Kolvet said \"some people in government\" and separately \"a few people\"; the quoted phrase is spliced.",
+  "fix": {
+   "claim": "Andrew Kolvet stated he shared the text-message screen grab with \"some people in government\" in the first moments, when it took 33 hours for authorities to get their suspect."
+  }
+ },
+ {
+  "claim": "C-1382",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1383",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1384",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1385",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "O'Neill asks \"Why was the shirt moving from right to left?\" and says his shot targets' shirts did not move like that; no \"stated rooftop location\" in this passage.",
+  "fix": {
+   "claim": "Robert J. O'Neill questioned why Kirk's shirt moved the way it did and why it moved right to left, saying the shirts of people he had shot did not move like that."
+  }
+ },
+ {
+  "claim": "C-1386",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "O'Neill only asks \"did they tear the crime scene down immediately?\"; later \"the whole crime scene's gone. They paved over it.\" Claim turns the question into assertion.",
+  "fix": {
+   "claim": "Robert J. O'Neill asked whether the crime scene was torn down immediately, and said the whole crime scene is now gone, that they \"paved over it,\" with nothing to see."
+  }
+ },
+ {
+  "claim": "C-1387",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Britta wrote \"Is Candace posting fake group chat screenshots...? I'm just asking questions\" (a question); Britta is N-873 but missing from Mentions. Spelling: Owens writes \"Britta Weidner\".",
+  "fix": {
+   "claim": "A user identified as Britta publicly asked whether Candace Owens is posting fake group-chat screenshots to conveniently back up her narrative.",
+   "mentions": [
+    "N-3",
+    "N-873"
+   ],
+   "names": [
+    {
+     "wrong": "Britta Widener",
+     "right": "Britta Weidner",
+     "source": "https://x.com/RealCandaceO/status/2086210350601404476"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1388",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Loomer: \"Even if those texts are real, it still does not mean that Israel killed Charlie Kirk\"; \"implicate\" is broader.",
+  "fix": {
+   "claim": "Laura Loomer publicly dismissed Candace Owens's text-messages reporting as \"postpartum psychotic rants\" and stated that even if the texts are real, it does not mean Israel killed Charlie Kirk."
+  }
+ },
+ {
+  "claim": "C-1389",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Nick Fuentes is named in the claim but N-205 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-205",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-1390",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1391",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1392",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Letter is introduced ~44:45 (\"that donor issued a public statement\"), ~90s after 43:14; \"Arena\" is Irina Mappin (John & Irina Mappin, chapter title; X post).",
+  "fix": {
+   "timestamp": "00:44:40",
+   "names": [
+    {
+     "wrong": "Arena Mappin",
+     "right": "Irina Mappin",
+     "source": "https://x.com/JohnMappin/status/1975380093171093617"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1393",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Arena\" is Irina Mappin (John and Irina Mappin, per their own X post).",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Arena Mappin",
+     "right": "Irina Mappin",
+     "source": "https://x.com/JohnMappin/status/1975380093171093617"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1394",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Quote is read at 49:54 (\"Few people following the matter believe...\"), ~85s after 48:30. \"Arena\" is Irina Mappin.",
+  "fix": {
+   "timestamp": "00:49:50",
+   "names": [
+    {
+     "wrong": "Arena Mappin",
+     "right": "Irina Mappin",
+     "source": "https://x.com/JohnMappin/status/1975380093171093617"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1395",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"first laid eyes on George\" is Candace's husband George (N-30), not George Zinn; Charlie said he knew someone who could set up an event. Candace (N-3) missing from Mentions; Arena=Irina.",
+  "fix": {
+   "claim": "Candace says the donor, John Mappin (with his wife), made introductions that unlocked more donations for Kirk, and is the donor Kirk turned to when she said they needed to be in the UK; he could have an event set up to start Turning Point UK, which was where she first laid eyes on George (her husband).",
+   "mentions": [
+    "N-3",
+    "N-30",
+    "N-157",
+    "N-158"
+   ],
+   "names": [
+    {
+     "wrong": "Arena Mappin",
+     "right": "Irina Mappin",
+     "source": "https://x.com/JohnMappin/status/1975380093171093617"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1396",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1397",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1398",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1399",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1400",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1401",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1402",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript block 41:24-42:20 is empty, so nurses/doctors detail cannot be checked; 42:20 remarks about Zinn \"payment\" are consistent.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1403",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12061",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I think Elon Musk clearly gave it away to the military\"; claim drops \"I think\".",
+  "fix": {
+   "claim": "The host says she thinks Elon Musk clearly gave X away to the military, and that users now have to suffer military bot farms calling for war with Iran."
+  }
+ },
+ {
+  "claim": "C-12062",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12063",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12064",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12065",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12066",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

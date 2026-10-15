@@ -1365,6 +1365,143 @@
     [
       "\\b(?:Harif|Hariff|Heriff|Herriff|Harriff|Hareff)\\b",
       "Harreff"
+    ],
+    [
+      "\\bAmmy Kak\\b",
+      "Ami Kozak"
+    ],
+    [
+      "\\bAndre and Harowitz\\b",
+      "Andreessen Horowitz"
+    ],
+    [
+      "\\bAndrew Zanger\\b",
+      "Andrew Zenger"
+    ],
+    [
+      "\\bZanger\\b",
+      "Zenger",
+      [
+        12,
+        13
+      ]
+    ],
+    [
+      "\\bArena Map(?:pin|pen|el)\\b",
+      "Irina Mappin"
+    ],
+    [
+      "\\bMapel\\b",
+      "Mappin",
+      [
+        17
+      ]
+    ],
+    [
+      "\\bBecoming Breit\\b",
+      "Becoming Brigitte"
+    ],
+    [
+      "\\bBlackman\\b",
+      "Ackman",
+      [
+        5
+      ]
+    ],
+    [
+      "\\bBritta Widener\\b",
+      "Britta Weidner"
+    ],
+    [
+      "\\bBurme\\b",
+      "Bromet",
+      [
+        20
+      ]
+    ],
+    [
+      "\\bDeidra Weiss Amaro\\b",
+      "Deirdre Amaro"
+    ],
+    [
+      "\\bDerek Maxwell\\b",
+      "Derek Maxfield",
+      [
+        18
+      ]
+    ],
+    [
+      "\\bJudge Graph\\b",
+      "Judge Graf"
+    ],
+    [
+      "\\bHarley Pastnic\\b",
+      "Harley Pasternak"
+    ],
+    [
+      "\\bJack Bobic\\b",
+      "Jack Posobiec"
+    ],
+    [
+      "\\bLlaya Rose\\b",
+      "Lila Rose"
+    ],
+    [
+      "\\bMichael Bert\\b",
+      "Michael Burt"
+    ],
+    [
+      "\\bMichael Nolles\\b",
+      "Michael Knowles"
+    ],
+    [
+      "\\bMikey McColgan\\b",
+      "Mikey McCoy"
+    ],
+    [
+      "\\bRobert BS\\b",
+      "Robert Bohls"
+    ],
+    [
+      "\\bRobert Bowles\\b",
+      "Robert Bohls",
+      [
+        12
+      ]
+    ],
+    [
+      "\\bRobin McCoy\\b",
+      "Rob McCoy"
+    ],
+    [
+      "\\bShainer Broderick\\b",
+      "Shaner Broderick"
+    ],
+    [
+      "\\bShainer\\b",
+      "Shaner"
+    ],
+    [
+      "\\bZeb Boyin\\b",
+      "Zeb Boykin"
+    ],
+    [
+      "\\bhis wife Ghislaine Maxwell\\b",
+      "his wife Shirlene Maxfield",
+      [
+        18
+      ]
+    ],
+    [
+      "\\bDerek/Ghislaine Maxwell\\b",
+      "Derek/Shirlene Maxfield",
+      [
+        18
+      ]
+    ],
+    [
+      "\\bTony F\\. Graph\\b",
+      "Tony F. Graf"
     ]
   ]
 }

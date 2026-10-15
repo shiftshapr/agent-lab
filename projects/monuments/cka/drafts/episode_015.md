@@ -13,12 +13,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11098
-  - Hole-minted Nodes (reintro-ep015): N-156, N-205, N-208, N-10230, N-10398, N-10810
+  - Hole-minted Nodes (reintro-ep015): N-155, N-203, N-206, N-10230, N-10398, N-10810
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6449–C-6511
   - New Nodes Introduced: N-10162, N-10163, N-10164, N-10166, N-10167
-  - Reused Nodes Appearing: N-1, N-2, N-11, N-10165, N-5, N-15, N-36, N-40, N-46, N-50, N-51, N-102, N-10000, N-10016, N-10025, N-10026, N-10100, N-10104, N-10117, N-10132, N-10139, N-10662, N-10350, N-11096, N-11099, N-11097
-  - Hole-minted Nodes (wave3): N-384
+  - Reused Nodes Appearing: N-1, N-2, N-11, N-10165, N-5, N-15, N-36, N-40, N-46, N-50, N-51, N-101, N-10000, N-10016, N-10025, N-10026, N-10100, N-10104, N-10117, N-10132, N-10139, N-10662, N-10350, N-11096, N-11099, N-11097
+  - Hole-minted Nodes (wave3): N-382
 
 ## 2. Executive Summary
 
@@ -379,7 +379,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-384** Dan Bongino
+**N-382** Dan Bongino
 
 First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.
 
@@ -582,7 +582,7 @@ Author of the next book club selection.
 
 ---
 
-**N-102** Michael Knowles
+**N-101** Michael Knowles
 
 Named in the clip as Kirk's debate partner on Protestant versus Catholic theology.
 
@@ -590,7 +590,7 @@ Named in the clip as Kirk's debate partner on Protestant versus Catholic theolog
 
 ---
 
-**N-156** Robert J. O'Neill
+**N-155** Robert J. O'Neill
 
 Named in a moderator comment as questioning the Kirk story.
 
@@ -598,7 +598,7 @@ Named in a moderator comment as questioning the Kirk story.
 
 ---
 
-**N-205** Nick Fuentes
+**N-203** Nick Fuentes
 
 Named with the host in the sermon.
 
@@ -606,7 +606,7 @@ Named with the host in the sermon.
 
 ---
 
-**N-208** Piers Morgan
+**N-206** Piers Morgan
 
 Host of the show named in a moderator comment.
 
@@ -782,7 +782,7 @@ Investigative Direction: Obtain Bowyer's original tweet via X/Twitter archive; c
 
 Claim Timestamp: 00:26:20
 
-Claim: Tyler Bowyer publicly stated that camera footage exists across the Utah Valley University campus but will not be released until trial.
+Claim: Tyler Bowyer publicly stated that camera footage exists across the Utah Valley University campus but will likely not be released until trial.
 
 Anchored Artifacts: A-1220.3
 Mentions: N-11
@@ -834,9 +834,10 @@ Investigative Direction: Subpoena or FOIA records of communication between TPUSA
 
 Claim Timestamp: 00:25:39
 
-Claim: The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he stated his motivation was to spare Erika from re-viewing the footage – not police instruction or theft concerns.
+Claim: The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he told her his instinct was to secure the footage so Erika would not have to see it again, and that he never mentioned police officers.
 
 Anchored Artifacts: None displayed
+Mentions: N-3, N-2
 Contradicts: C-1366, C-1369
 
 Related Nodes: N-10162
@@ -863,7 +864,7 @@ Claim Timestamp: 00:38:03
 Claim: The same WSJ article quotes Alex Clark as praising FBI director Kash Patel and deputy Dan Bongino for their leadership in the suspect hunt, stating "we have them in office because of Charlie."
 
 Anchored Artifacts: A-1222.1
-Mentions: N-99, N-69, N-384
+Mentions: N-99, N-69, N-382
 
 Related Nodes: N-10166
 
@@ -925,10 +926,10 @@ Investigative Direction: Direct forensic confirmation of Hammer's presence in th
 
 Claim Timestamp: 00:45:52
 
-Claim: An unnamed "Judeo-Christian" pastor delivered a sermon on September 21, 2025, using 2 Corinthians 7:1 to characterize Candace Owens and Nick Fuentes as "defiled" by the issue of the modern state of Israel.
+Claim: In a sermon clip the host plays, an unnamed 'Judeo-Christian' pastor, in a sermon given September 21, 2025 titled 'what has defiled you' that cites 2 Corinthians 7:1, calls Candace Owens and Nick Fuentes 'foolish people that are so deceived' and says young people are 'eating that up'.
 
 Anchored Artifacts: A-1226.1
-Mentions: N-3
+Mentions: N-3, N-203
 
 Related Nodes:
 
@@ -967,7 +968,7 @@ Investigative Direction: Compile the specific federal statements the host consid
 
 Claim Timestamp: 00:03:42
 
-Claim: The host relays an X user's remark that TPUSA wants people to forgive Tyler Robinson while attacking those trying to solve Charlie Kirk's murder, and the host adds that TPUSA executives are not publicly challenging the official narrative.
+Claim: The host relays an X user's remark that TPUSA wants people to forgive Tyler Robinson while attacking those trying to solve Charlie Kirk's murder, and the host adds that it seems TPUSA executives are not interested in publicly challenging the official narrative.
 
 Transcript Snippet: So, they want us to forgive Tyler Robinson, but to attack the people that are trying to solve the murder of Charlie Kirk?
 
@@ -1022,7 +1023,7 @@ Transcript Snippet: I never said he converted because he didn't. That would have
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10104, N-10350
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Review the host's earlier statements on Kirk and Catholicism and the videos that disputed them.
 
 ---
@@ -1054,7 +1055,7 @@ Transcript Snippet: Charlie was attending mass weekly. He was sometimes even att
 Anchored Artifacts: 
 Mentions: N-1
 Related Nodes: N-10164, N-10350
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Seek parish records, priests or attendees who saw Kirk at weekly or daily mass.
 
 ---
@@ -1070,7 +1071,7 @@ Transcript Snippet: He was not attending Pastor Rob McCoy's church.
 Anchored Artifacts: 
 Mentions: N-1, N-17
 Related Nodes: N-10164
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Ask McCoy's church and Kirk's associates whether Kirk was a current congregant.
 
 ---
@@ -1079,7 +1080,7 @@ Investigative Direction: Ask McCoy's church and Kirk's associates whether Kirk w
 
 Claim Timestamp: 00:08:42
 
-Claim: The host says Charlie Kirk was wearing a Saint Michael pendant when he died and calls this an indisputable, already publicized fact.
+Claim: The host says Charlie Kirk was wearing a Saint Michael pendant when he died and says this and related points are indisputable facts.
 
 Transcript Snippet: Charlie, in fact, was wearing the Saint Michael pendant when he died, okay?
 
@@ -1123,7 +1124,7 @@ Investigative Direction: Review Megyn Kelly's broadcast for the priest account a
 
 ---
 
-**C-6460** Host Says TPUSA Staff Knew Charlie's Catholic Turn Was Real
+**C-6460** Host Says TPUSA Staff Knew Kirk's Catholic Practice Was Real
 
 Claim Timestamp: 00:09:29
 
@@ -1151,12 +1152,12 @@ Anchored Artifacts: A-2814.1
 Mentions: N-14, N-1, N-2
 Related Nodes: N-10104
 Supports: C-1255
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Locate the original Kolvet interview and date; compare with mass-attendance accounts.
 
 ---
 
-**C-6462** Clip Has Alex Clark Say Erika Replied They Just Like Attending Sometimes
+**C-6462** Clip Speaker Says Erika Replied They Just Like Attending Sometimes
 
 Claim Timestamp: 00:10:36
 
@@ -1181,7 +1182,7 @@ Claim: In the played clip a speaker says Kirk disliked worshipping in a gym or b
 Transcript Snippet: You can go check the videos out him debating with uh Michael Knowles.
 
 Anchored Artifacts: A-2814.1
-Mentions: N-1, N-102
+Mentions: N-1, N-101
 Related Nodes: N-10350
 Supports: C-3727
 Tags: relevance:context
@@ -1198,7 +1199,7 @@ Claim: The host says that, given the facts she shared, the Kolvet/Clark account 
 Transcript Snippet: Like that's not That's not fully honest and it registered to me like a cover-up of sorts
 
 Anchored Artifacts: A-2814.1
-Mentions: N-14, N-3
+Mentions: N-14, N-99, N-3
 Related Nodes: N-10104
 Tags: relevance:context
 Investigative Direction: Test the account against witnesses to Kirk's mass attendance.
@@ -1216,7 +1217,7 @@ Transcript Snippet: Catholicism is sounding better and better.
 Anchored Artifacts: A-2815.1
 Mentions: N-1, N-3
 Related Nodes: N-10350
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the message thread with metadata to confirm the date (February 2024 versus 2025) and exact wording.
 
 ---
@@ -1257,7 +1258,7 @@ Investigative Direction: Compare McCoy's full Instagram text with the host's int
 
 Claim Timestamp: 00:14:40
 
-Claim: The host says most people know that Rob McCoy's son and daughter-in-law both work for Turning Point USA, giving them a financial stake, and that McCoy heads up the faith division.
+Claim: The host says she thinks most people know that Rob McCoy's son and daughter-in-law both work for Turning Point USA, giving them a financial stake, and that McCoy heads up the faith division.
 
 Transcript Snippet: both his son and his daughter-in-law work for Turning Point USA
 
@@ -1454,7 +1455,7 @@ Claim: The host says that if the worry was theft, taking the SD card and not the
 Transcript Snippet: but also you took the SD card out and not the very expensive camera, which is if you were worried about stealing and theft, maybe you would take the camera.
 
 Anchored Artifacts: A-1221.1
-Mentions: N-14, N-3
+Mentions: N-3
 Related Nodes: N-10162, N-10100
 Supports: C-1257
 Tags: relevance:context
@@ -1552,7 +1553,7 @@ Claim: The host says that if all-over-campus footage existed, it should have bee
 Transcript Snippet: why only release a blurry image when there is, as he mentioned, footage everywhere, all over that campus, every inch?
 
 Anchored Artifacts: A-1220.3
-Mentions: N-11, N-40
+Mentions: N-3
 Related Nodes: N-10165
 Supports: C-4881
 Tags: relevance:core
@@ -1746,7 +1747,7 @@ Claim: The host says she thinks organizations of a certain size are required by 
 Transcript Snippet: I actually think that for organizations of a certain size, you're required by law to do an annual audit if you're 501c3.
 
 Anchored Artifacts: A-1220.2
-Mentions: N-11, N-3
+Mentions: N-3
 Related Nodes: N-10132
 Supports: C-1368
 Tags: relevance:context
@@ -1754,11 +1755,11 @@ Investigative Direction: Check state audit thresholds and TPUSA's audited financ
 
 ---
 
-**C-6499** Host Says a 501c3 Lawyer Told Her and Charlie to Get an Independent Auditor
+**C-6499** Host Says a 501c3 Lawyer Advised an Independent Auditor in a Meeting With Charlie
 
 Claim Timestamp: 00:41:21
 
-Claim: The host says she introduced Charlie to a 501c3 lawyer, met her in her offices with Charlie, and the lawyer explained the need for an independent auditor.
+Claim: The host says she shared a 501c3 lawyer with them, met her in her offices with Charlie, and the lawyer explained the need for an independent auditor.
 
 Transcript Snippet: I shared a 501c3 lawyer with them. So, I met her in her offices with Charlie
 
@@ -1795,7 +1796,7 @@ Claim: The host says Judeo-Christian influencers quoting scripture for political
 Transcript Snippet: People quoting scripture to actually fulfill what became quite obvious to me was just their political ends. And yeah, people taking money to do that.
 
 Anchored Artifacts: 
-Mentions: N-3, N-36
+Mentions: N-3
 Related Nodes: N-10026
 Tags: relevance:tangential
 Investigative Direction: Identify who the host means and any documented trips or payments.
@@ -1827,7 +1828,7 @@ Claim: In the played sermon, the pastor hopes that congregants defiled by an ech
 Transcript Snippet: you're going to block them because they're anti what scripture says.
 
 Anchored Artifacts: A-1226.1
-Mentions: N-205, N-3
+Mentions: N-203, N-3
 Related Nodes: N-10139
 Tags: relevance:context
 Investigative Direction: Obtain the full sermon recording and identify the church.
@@ -1838,7 +1839,7 @@ Investigative Direction: Obtain the full sermon recording and identify the churc
 
 Claim Timestamp: 00:50:49
 
-Claim: The host says TikTok's moderation team is like IDF soldiers and that Benjamin Netanyahu said they are taking over TikTok.
+Claim: The host, citing a headline, says TikTok's moderation team is like IDF soldiers and that Benjamin Netanyahu said they are taking over TikTok.
 
 Transcript Snippet: their moderation team, like IDF soldiers uh and Benjamin Netanyahu saying like we're taking over TikTok.
 
@@ -1906,7 +1907,7 @@ Claim: A moderator's comment read by the host says Rob O'Neill, who shot Bin Lad
 Transcript Snippet: Rob O'Neill, the guy who shot Bin Laden, questions the story of Charlie on Piers Morgan's show.
 
 Anchored Artifacts: A-2817.2
-Mentions: N-156, N-208
+Mentions: N-155, N-206
 Tags: relevance:context
 Investigative Direction: Retrieve the Piers Morgan episode with O'Neill and his exact remarks.
 
@@ -1943,11 +1944,11 @@ Investigative Direction: Check Australian court and Department of Home Affairs r
 
 ---
 
-**C-6511** Host Says Israel Spends Money on Influencers and Has Pushed FARA Registration with Assassinations
+**C-6511** Host Says Israel Spends Money on Influencers and on Pressing People to Register Under FARA
 
 Claim Timestamp: 01:02:37
 
-Claim: The host says Israel's money, spent on influencers and on trying to get people to register under FARA, including people who were assassinated, and on presidents, is falling apart because people speak the truth.
+Claim: The host says that Israel has all the money in the world and spends it on influencers, on trying to get people (including some who were assassinated) to register under FARA, and on presidents, and that every piece of that tapestry of deception is falling apart because people are speaking truth.
 
 Transcript Snippet: All of the money in the world that Israel has, the money they spend on influencers, people that have been assassinated by trying to get them to register under FARA
 

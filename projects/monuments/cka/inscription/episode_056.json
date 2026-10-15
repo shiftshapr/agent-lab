@@ -32,7 +32,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-458"
+            "N-456"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-22",
-            "N-458"
+            "N-456"
           ],
           "tags": [],
           "video_timestamp": "00:07:08",
@@ -84,9 +84,9 @@
             "C-2080"
           ],
           "related_nodes": [
+            "N-449",
+            "N-450",
             "N-451",
-            "N-452",
-            "N-453",
             "N-41",
             "N-10409"
           ],
@@ -114,7 +114,7 @@
             "C-2081"
           ],
           "related_nodes": [
-            "N-808",
+            "N-806",
             "N-10410"
           ],
           "tags": [],
@@ -138,8 +138,8 @@
             "C-2082"
           ],
           "related_nodes": [
-            "N-808",
-            "N-455",
+            "N-806",
+            "N-453",
             "N-10410"
           ],
           "tags": [],
@@ -163,7 +163,7 @@
             "C-2084"
           ],
           "related_nodes": [
-            "N-455"
+            "N-453"
           ],
           "tags": [],
           "video_timestamp": "00:22:54",
@@ -179,7 +179,7 @@
             "C-2084"
           ],
           "related_nodes": [
-            "N-455"
+            "N-453"
           ],
           "tags": [],
           "video_timestamp": "00:22:47",
@@ -202,7 +202,7 @@
             "C-2085"
           ],
           "related_nodes": [
-            "N-455"
+            "N-453"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -219,7 +219,7 @@
             "C-2086"
           ],
           "related_nodes": [
-            "N-455"
+            "N-453"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -244,8 +244,8 @@
             "C-2087"
           ],
           "related_nodes": [
-            "N-456",
-            "N-457",
+            "N-454",
+            "N-455",
             "N-10411"
           ],
           "tags": [],
@@ -261,7 +261,7 @@
             "C-2088"
           ],
           "related_nodes": [
-            "N-457",
+            "N-455",
             "N-10411"
           ],
           "tags": [],
@@ -277,7 +277,7 @@
             "C-2089"
           ],
           "related_nodes": [
-            "N-457",
+            "N-455",
             "N-10411"
           ],
           "tags": [],
@@ -301,7 +301,7 @@
             "C-2090"
           ],
           "related_nodes": [
-            "N-191"
+            "N-189"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -352,7 +352,7 @@
             "C-2093"
           ],
           "related_nodes": [
-            "N-459"
+            "N-457"
           ],
           "tags": [],
           "video_timestamp": "00:44:19",
@@ -376,7 +376,7 @@
           ],
           "related_nodes": [
             "N-10962",
-            "N-458",
+            "N-456",
             "N-5"
           ],
           "tags": [],
@@ -414,7 +414,7 @@
             "N-10539",
             "N-11079",
             "N-3",
-            "N-309"
+            "N-307"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -444,7 +444,7 @@
             "N-11203",
             "N-14",
             "N-2",
-            "N-456",
+            "N-454",
             "N-11340"
           ],
           "tags": [],
@@ -531,8 +531,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-451",
-      "ref": "N-451",
+      "@id": "N-449",
+      "ref": "N-449",
       "name": "Alton C. Jennings",
       "type": "person",
       "description": "Decedent, age 95, whose $25M estate is the subject of a December 2024 will challenge naming TPUSA and YAF as recipients.",
@@ -554,8 +554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-452",
-      "ref": "N-452",
+      "@id": "N-450",
+      "ref": "N-450",
       "name": "Mitch Manley Sr.",
       "type": "person",
       "description": "Caretaker hired by Alton C. Jennings in 2021; named in will-challenge petition as having isolated decedent from family.",
@@ -576,8 +576,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-453",
-      "ref": "N-453",
+      "@id": "N-451",
+      "ref": "N-451",
       "name": "Mitch Manley Jr.",
       "type": "person",
       "description": "Son of Mitch Manley Sr.; described as working for Turning Point USA on Charlie Kirk's show during the period the Jennings estate was redirected.",
@@ -593,14 +593,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-452",
+        "N-450",
         "N-10409"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-808",
-      "ref": "N-808",
+      "@id": "N-806",
+      "ref": "N-806",
       "name": "Paul Vallely",
       "type": "person",
       "description": "Turning Point USA board member; former military commander of the 7th Psychological Operations Group; co-author of *Mind War* (1980) with Michael Aquino.",
@@ -618,14 +618,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-455",
+        "N-453",
         "N-10410"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-455",
-      "ref": "N-455",
+      "@id": "N-453",
+      "ref": "N-453",
       "name": "Michael Aquino",
       "type": "person",
       "description": "Former US Army Major; intelligence officer; co-author of *Mind War* (1980); member of Church of Satan from 1969; founder of Temple of Set (1975); subject of 1986–1987 San Francisco child-abuse investigation (insufficient evidence).",
@@ -649,14 +649,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-808",
+        "N-806",
         "N-10410"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-456",
-      "ref": "N-456",
+      "@id": "N-454",
+      "ref": "N-454",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Founder of Harvest Christian Fellowship; named defendant in twelve lawsuits alleging abuse at affiliated Romanian children's home.",
@@ -672,14 +672,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-457",
+        "N-455",
         "N-10411"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-457",
-      "ref": "N-457",
+      "@id": "N-455",
+      "ref": "N-455",
       "name": "Paul Havsgaard",
       "type": "person",
       "description": "Former Harvest Christian Fellowship pastor/missionary; named defendant in original September lawsuit alleging abuse of children at Romanian shelter.",
@@ -697,14 +697,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-456",
+        "N-454",
         "N-10411"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-189",
+      "ref": "N-189",
       "name": "Scott Adams",
       "type": "person",
       "description": "Creator of *Dilbert*; died at age 68 of prostate cancer (referenced in this episode).",
@@ -741,8 +741,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-458",
-      "ref": "N-458",
+      "@id": "N-456",
+      "ref": "N-456",
       "name": "Lindsey Graham",
       "type": "person",
       "description": "US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.",
@@ -762,8 +762,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-309",
-      "ref": "N-309",
+      "@id": "N-307",
+      "ref": "N-307",
       "name": "Wed Mahmoud",
       "type": "person",
       "description": "Referenced by host as a name appearing both on the SUBTU plane into Provo and on the \"yellow plane\" on the day of Charlie Kirk's assassination (timeline build).",
@@ -780,8 +780,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-459",
-      "ref": "N-459",
+      "@id": "N-457",
+      "ref": "N-457",
       "name": "Andrew Aguilar",
       "type": "person",
       "description": "Self-identified former Green Beret; claims arrest at US Capitol for calling out AIPAC.",
@@ -818,9 +818,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-449",
+        "N-450",
         "N-451",
-        "N-452",
-        "N-453",
         "N-41"
       ]
     },
@@ -853,8 +853,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-808",
-        "N-455"
+        "N-806",
+        "N-453"
       ]
     },
     {
@@ -880,8 +880,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-456",
-        "N-457"
+        "N-454",
+        "N-455"
       ]
     },
     {
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-173",
-      "ref": "N-173",
+      "@id": "N-172",
+      "ref": "N-172",
       "name": "Tate Brothers (Andrew and Tristan)",
       "type": "person",
       "description": "Discussed in a viewer comment and the host's reply about their treatment by media and government.",
@@ -1168,8 +1168,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Subject of Mitch Snow's reported Fort Huachuca sighting as recounted by the host.",
@@ -1185,8 +1185,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Eyewitness whose Fort Huachuca account the host now describes as a psychological operation.",
@@ -1202,8 +1202,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
+      "@id": "N-441",
+      "ref": "N-441",
       "name": "Johnny Moore",
       "type": "person",
       "description": "Named by the host as discussed by Anthony Aguilar in relation to Gaza humanitarian aid.",
@@ -1219,8 +1219,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-450",
-      "ref": "N-450",
+      "@id": "N-448",
+      "ref": "N-448",
       "name": "Shinzō Abe",
       "type": "person",
       "description": "Former Japanese prime minister; the host recounts his assassin's stated motive.",
@@ -1674,7 +1674,7 @@
       "investigative_direction": "Obtain primary recording; verify exact phrasing.",
       "mentions_person_refs": [
         "N-1",
-        "N-458"
+        "N-456"
       ]
     },
     {
@@ -1693,8 +1693,8 @@
       "claim_timestamp": "00:13:58",
       "investigative_direction": "Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.",
       "mentions_person_refs": [
-        "N-451",
-        "N-452"
+        "N-449",
+        "N-450"
       ]
     },
     {
@@ -1713,7 +1713,7 @@
       "claim_timestamp": "00:16:20",
       "investigative_direction": "Obtain probate court filings; verify valuation and date of will execution.",
       "mentions_person_refs": [
-        "N-451"
+        "N-449"
       ]
     },
     {
@@ -1732,8 +1732,8 @@
       "claim_timestamp": "00:16:20",
       "investigative_direction": "Verify employment records; cross-check TPUSA staff listings; obtain dates of employment.",
       "mentions_person_refs": [
-        "N-452",
-        "N-453",
+        "N-450",
+        "N-451",
         "N-1"
       ]
     },
@@ -1772,7 +1772,7 @@
       "claim_timestamp": "00:18:40",
       "investigative_direction": "Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.",
       "mentions_person_refs": [
-        "N-808"
+        "N-806"
       ]
     },
     {
@@ -1791,8 +1791,8 @@
       "claim_timestamp": "00:21:42",
       "investigative_direction": "Obtain bibliographic record (publisher, ISBN); verify authorship.",
       "mentions_person_refs": [
-        "N-808",
-        "N-455"
+        "N-806",
+        "N-453"
       ]
     },
     {
@@ -1811,7 +1811,7 @@
       "claim_timestamp": "00:22:15",
       "investigative_direction": "Cross-check Aquino's published biographical statements; consult Church of Satan archives.",
       "mentions_person_refs": [
-        "N-455"
+        "N-453"
       ]
     },
     {
@@ -1831,7 +1831,7 @@
       "claim_timestamp": "00:22:47",
       "investigative_direction": "Verify founding documents; cross-check Temple of Set records.",
       "mentions_person_refs": [
-        "N-455"
+        "N-453"
       ]
     },
     {
@@ -1850,7 +1850,7 @@
       "claim_timestamp": "00:27:54",
       "investigative_direction": "Obtain SFPD case records (case number); verify closure status and stated reason.",
       "mentions_person_refs": [
-        "N-455"
+        "N-453"
       ]
     },
     {
@@ -1869,7 +1869,7 @@
       "claim_timestamp": "00:27:54",
       "investigative_direction": "Obtain SFPD records; review any subsequent civil filings; cross-check victim statements if available.",
       "mentions_person_refs": [
-        "N-455"
+        "N-453"
       ]
     },
     {
@@ -1888,7 +1888,7 @@
       "claim_timestamp": "00:32:12",
       "investigative_direction": "Obtain court filings (case numbers, jurisdiction); verify plaintiff count.",
       "mentions_person_refs": [
-        "N-456"
+        "N-454"
       ]
     },
     {
@@ -1907,7 +1907,7 @@
       "claim_timestamp": "00:34:03",
       "investigative_direction": "Obtain original complaint; verify specificity of allegations; confirm Havsgaard's status (former pastor/missionary).",
       "mentions_person_refs": [
-        "N-457"
+        "N-455"
       ]
     },
     {
@@ -1926,7 +1926,7 @@
       "claim_timestamp": "00:35:00",
       "investigative_direction": "Obtain law firm press release; track complaint filings in docket.",
       "mentions_person_refs": [
-        "N-457"
+        "N-455"
       ]
     },
     {
@@ -1943,7 +1943,7 @@
       "claim_timestamp": "00:38:11",
       "investigative_direction": "Cross-check obituary; verify cause of death and date.",
       "mentions_person_refs": [
-        "N-191"
+        "N-189"
       ]
     },
     {
@@ -1980,7 +1980,7 @@
       "investigative_direction": "Locate original clip; verify date and outlet.",
       "mentions_person_refs": [
         "N-22",
-        "N-458"
+        "N-456"
       ]
     },
     {
@@ -1997,7 +1997,7 @@
       "claim_timestamp": "00:44:19",
       "investigative_direction": "Verify arrest record (US Capitol Police, court records); verify date; obtain any charging documents or dismissals.",
       "mentions_person_refs": [
-        "N-459"
+        "N-457"
       ]
     },
     {
@@ -2012,7 +2012,7 @@
       "claim_timestamp": "00:09:14",
       "investigative_direction": "Obtain flight records (FAA, Flightradar24 archives); cross-check tail number; verify passenger manifest if available. **[Optional Flag: Artifact verbally referenced but not shown in this episode]**",
       "mentions_person_refs": [
-        "N-309"
+        "N-307"
       ]
     },
     {
@@ -2027,7 +2027,7 @@
       "claim_timestamp": "00:10:59",
       "investigative_direction": "Verify conflict onset date via public news records; cross-check host's timeline against flight records.",
       "mentions_person_refs": [
-        "N-309"
+        "N-307"
       ]
     },
     {
@@ -2156,7 +2156,7 @@
       "investigative_direction": "Locate the original Graham remarks and their date to confirm the wording and the context in which Kirk replayed them.",
       "transcript_snippet": "It's time for us to close the chapter on the Iranian Ayatollah and his henchmen and start a new chapter in the Middle East.",
       "mentions_person_refs": [
-        "N-458"
+        "N-456"
       ]
     },
     {
@@ -2177,7 +2177,7 @@
       "transcript_snippet": "What you don't want are flighty, emotionally incontinent, silly people on the payroll of foreign nations making the decisions in an empire cuz that's how you get in trouble.",
       "mentions_person_refs": [
         "N-22",
-        "N-458"
+        "N-456"
       ]
     },
     {
@@ -2196,7 +2196,7 @@
       "transcript_snippet": "I think personally he's got the largest blackmail file. Whatever Israel has on him, it is terrifying.",
       "mentions_person_refs": [
         "N-3",
-        "N-458"
+        "N-456"
       ]
     },
     {
@@ -2215,7 +2215,7 @@
       "transcript_snippet": "We've had some male hookers come out come out and make some allegations, but they were running a pretty sophisticated blackmail ring in DC.",
       "mentions_person_refs": [
         "N-3",
-        "N-458"
+        "N-456"
       ]
     },
     {
@@ -2237,7 +2237,7 @@
       "investigative_direction": "Locate the original Graham post or broadcast and its date to confirm the wording and that it followed the Venezuela operation.",
       "transcript_snippet": "you need to understand if you keep killing your people who are demanding a better life, Donald J. Trump is going to kill you.",
       "mentions_person_refs": [
-        "N-458",
+        "N-456",
         "N-5"
       ]
     },
@@ -2314,7 +2314,7 @@
         "C-5161"
       ],
       "mentions_person_refs": [
-        "N-309",
+        "N-307",
         "N-1"
       ]
     },
@@ -2604,7 +2604,7 @@
       "transcript_snippet": "We don't even have enough money to eat because my mother gave all of her money to this church, the unification church.",
       "mentions_person_refs": [
         "N-3",
-        "N-450"
+        "N-448"
       ]
     },
     {
@@ -2629,8 +2629,8 @@
         "C-2077"
       ],
       "mentions_person_refs": [
-        "N-451",
-        "N-452"
+        "N-449",
+        "N-450"
       ]
     },
     {
@@ -2655,8 +2655,8 @@
         "C-2077"
       ],
       "mentions_person_refs": [
-        "N-451",
-        "N-452"
+        "N-449",
+        "N-450"
       ]
     },
     {
@@ -2681,7 +2681,7 @@
         "C-2078"
       ],
       "mentions_person_refs": [
-        "N-451"
+        "N-449"
       ]
     },
     {
@@ -2721,8 +2721,8 @@
       "investigative_direction": "Check Army records and the foreword or biography in Mind War for Aquino's and Vallely's units and roles.",
       "transcript_snippet": "he collaborated with a major that was working under him.",
       "mentions_person_refs": [
-        "N-808",
-        "N-455"
+        "N-806",
+        "N-453"
       ]
     },
     {
@@ -2744,8 +2744,8 @@
       "investigative_direction": "Cross-check Aquino's published biography and Army service record.",
       "transcript_snippet": "Aside from being an intelligence officer and an expert of psychological warfare, just like Paul Vallely, uh, doing this on behalf of our military, he's also an open Satanist.",
       "mentions_person_refs": [
-        "N-455",
-        "N-808"
+        "N-453",
+        "N-806"
       ]
     },
     {
@@ -2770,7 +2770,7 @@
         "C-2083"
       ],
       "mentions_person_refs": [
-        "N-455"
+        "N-453"
       ]
     },
     {
@@ -2811,7 +2811,7 @@
       "investigative_direction": "Identify the original interview, its date and interviewer, and compare with Temple of Set published doctrine.",
       "transcript_snippet": "So the temple of set exists to uh explore the self the personality and we do this through the media of ancient Egyptian religion which we found to be the most sophisticated.",
       "mentions_person_refs": [
-        "N-455"
+        "N-453"
       ]
     },
     {
@@ -2832,7 +2832,7 @@
       "transcript_snippet": "So, part of their ritual is to harm the innocent because that's unnatural.",
       "mentions_person_refs": [
         "N-3",
-        "N-455"
+        "N-453"
       ]
     },
     {
@@ -2877,7 +2877,7 @@
         "C-2086"
       ],
       "mentions_person_refs": [
-        "N-455"
+        "N-453"
       ]
     },
     {
@@ -2898,7 +2898,7 @@
       "investigative_direction": "Check Aquino's Army training history and assignment records for Fort Huachuca.",
       "transcript_snippet": "Now, it's worth noting that Michael Aquino was trained at Fort Huachuca.",
       "mentions_person_refs": [
-        "N-455",
+        "N-453",
         "N-3"
       ]
     },
@@ -2948,8 +2948,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-366",
-        "N-270",
+        "N-364",
+        "N-268",
         "N-2"
       ]
     },
@@ -3000,7 +3000,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-456",
+        "N-454",
         "N-14"
       ]
     },
@@ -3049,8 +3049,8 @@
         "C-7944"
       ],
       "mentions_person_refs": [
-        "N-457",
-        "N-456"
+        "N-455",
+        "N-454"
       ]
     },
     {
@@ -3095,8 +3095,8 @@
       "investigative_direction": "Obtain the complaints and any Harvest response; confirm the funding transfers and the alleged prior reports.",
       "transcript_snippet": "The court documents claim that Greg Laurie and the Harvest Christian Fellowship uh sent funding to Havsgaard, which they obviously did send funding to him while he was there, and they were negligent in supervising him while he was there, despite reports of abuse.",
       "mentions_person_refs": [
-        "N-456",
-        "N-457"
+        "N-454",
+        "N-455"
       ]
     },
     {
@@ -3119,8 +3119,8 @@
       "investigative_direction": "Obtain Harvest's public statement or court response to confirm it says this.",
       "transcript_snippet": "It's not the entire church. You know, it's not fair to come after the whole church for what Paul Havsgaard is being alleged to have done.",
       "mentions_person_refs": [
-        "N-456",
-        "N-457",
+        "N-454",
+        "N-455",
         "N-3"
       ]
     },
@@ -3249,7 +3249,7 @@
       "investigative_direction": "Obtain Laurie's and Harvest's public statements and court responses to compare with the host's characterization.",
       "transcript_snippet": "because it's interesting that he's not saying it didn't happen. He's saying well it's not the whole church just this pastor.",
       "mentions_person_refs": [
-        "N-456",
+        "N-454",
         "N-3"
       ]
     },
@@ -3295,9 +3295,9 @@
       "transcript_snippet": "He went on Tucker Carlson's show and then he was attacked and he spoke about Johnny Moore and the fake Gazin humanitarian aid that was really just kind of letting Palestinian children and uh women be murdered",
       "mentions_person_refs": [
         "N-3",
-        "N-459",
+        "N-457",
         "N-22",
-        "N-443"
+        "N-441"
       ]
     },
     {
@@ -3334,7 +3334,7 @@
       "transcript_snippet": "as soon as they landed on American soil, these ionists wanted to put him in prison by having no charges in America.",
       "mentions_person_refs": [
         "N-3",
-        "N-173"
+        "N-172"
       ]
     },
     {
@@ -3353,7 +3353,7 @@
       "transcript_snippet": "The people that are attacked are being attacked by the media apparatus because they're not with the media apparatus.",
       "mentions_person_refs": [
         "N-3",
-        "N-173",
+        "N-172",
         "N-9"
       ]
     },
@@ -3373,7 +3373,7 @@
       "transcript_snippet": "they've talked about this extensively of webcam stuff.",
       "mentions_person_refs": [
         "N-3",
-        "N-173"
+        "N-172"
       ]
     },
     {

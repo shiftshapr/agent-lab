@@ -30,7 +30,7 @@
             "C-2326"
           ],
           "related_nodes": [
-            "N-561"
+            "N-559"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -58,7 +58,7 @@
             "C-2329"
           ],
           "related_nodes": [
-            "N-561"
+            "N-559"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,7 +215,7 @@
             "C-2336"
           ],
           "related_nodes": [
-            "N-558",
+            "N-556",
             "N-10497"
           ],
           "tags": [],
@@ -234,7 +234,7 @@
             "C-2337"
           ],
           "related_nodes": [
-            "N-558",
+            "N-556",
             "N-10497"
           ],
           "tags": [],
@@ -262,7 +262,7 @@
             "C-2339"
           ],
           "related_nodes": [
-            "N-558",
+            "N-556",
             "N-10497"
           ],
           "tags": [],
@@ -290,8 +290,8 @@
             "C-2341"
           ],
           "related_nodes": [
-            "N-551",
-            "N-559",
+            "N-549",
+            "N-557",
             "N-10498"
           ],
           "tags": [],
@@ -321,7 +321,7 @@
             "C-2345"
           ],
           "related_nodes": [
-            "N-560",
+            "N-558",
             "N-10500"
           ],
           "tags": [],
@@ -340,7 +340,7 @@
             "C-2346"
           ],
           "related_nodes": [
-            "N-560"
+            "N-558"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -452,8 +452,8 @@
             "N-10435",
             "N-11283",
             "N-2",
-            "N-366",
-            "N-369"
+            "N-364",
+            "N-367"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -479,8 +479,8 @@
           ],
           "related_nodes": [
             "N-10497",
-            "N-551",
-            "N-558"
+            "N-549",
+            "N-556"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -506,7 +506,7 @@
           ],
           "related_nodes": [
             "N-10497",
-            "N-558"
+            "N-556"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -534,8 +534,8 @@
             "N-10498",
             "N-10503",
             "N-2",
-            "N-551",
-            "N-559"
+            "N-549",
+            "N-557"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -685,8 +685,8 @@
           ],
           "related_nodes": [
             "N-10497",
-            "N-558",
-            "N-948"
+            "N-556",
+            "N-946"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -700,8 +700,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-551",
-      "ref": "N-551",
+      "@id": "N-549",
+      "ref": "N-549",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
@@ -718,16 +718,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-558",
-        "N-559",
+        "N-556",
+        "N-557",
         "N-10497",
         "N-10498"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-558",
-      "ref": "N-558",
+      "@id": "N-556",
+      "ref": "N-556",
       "name": "Thomas Martin (Tucson Border Patrol Director)",
       "type": "person",
       "description": "Director / Deputy Chief Patrol Agent with US Border Patrol / DHS in Tucson since at least 1985; potentially same person as Tracy Martin's husband.",
@@ -748,14 +748,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-551",
+        "N-549",
         "N-10497"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-559",
-      "ref": "N-559",
+      "@id": "N-557",
+      "ref": "N-557",
       "name": "Tracy Martin's Daughter (Unnamed)",
       "type": "person",
       "description": "Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
@@ -772,15 +772,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-551",
+        "N-549",
         "N-2",
         "N-10498"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-560",
-      "ref": "N-560",
+      "@id": "N-558",
+      "ref": "N-558",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Questioner of Seth Dillon at the Religious Liberty Commission hearing on antisemitism; Catholic activist.",
@@ -798,8 +798,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-561",
-      "ref": "N-561",
+      "@id": "N-559",
+      "ref": "N-559",
       "name": "Brian Kilmeade",
       "type": "person",
       "description": "Interviewer of Andrew Kolvet on TPUSA halftime viewership.",
@@ -842,8 +842,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-551",
-        "N-558"
+        "N-549",
+        "N-556"
       ]
     },
     {
@@ -866,8 +866,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-551",
-        "N-559",
+        "N-549",
+        "N-557",
         "N-2"
       ]
     },
@@ -920,7 +920,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-560"
+        "N-558"
       ]
     },
     {
@@ -1244,8 +1244,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-117",
-      "ref": "N-117",
+      "@id": "N-116",
+      "ref": "N-116",
       "name": "Natasha Hausdorff",
       "type": "person",
       "description": "Named by the host as one of the chiefs of pressing Kirk in the Hamptons.",
@@ -1261,8 +1261,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Eyewitness whose Fort Huachuca account the host says remains unchanged.",
@@ -1281,8 +1281,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-367",
+      "ref": "N-367",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "The person Snow said he saw a lookalike of at Fort Huachuca.",
@@ -1298,8 +1298,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-529",
-      "ref": "N-529",
+      "@id": "N-527",
+      "ref": "N-527",
       "name": "Jay-Z",
       "type": "person",
       "description": "Named by the host as controlling halftime booking with the NFL.",
@@ -1315,8 +1315,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-812",
-      "ref": "N-812",
+      "@id": "N-810",
+      "ref": "N-810",
       "name": "Kid Rock",
       "type": "person",
       "description": "Performer in the TPUSA halftime show.",
@@ -1332,8 +1332,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-813",
-      "ref": "N-813",
+      "@id": "N-811",
+      "ref": "N-811",
       "name": "Bad Bunny",
       "type": "person",
       "description": "Headliner of the NFL halftime show.",
@@ -1888,8 +1888,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-947",
-      "ref": "N-947",
+      "@id": "N-945",
+      "ref": "N-945",
       "name": "Lee Brice",
       "type": "person",
       "description": "First named by the host at 00:07:13 in episode 71 as a performer in the TPUSA halftime show.",
@@ -1905,8 +1905,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-948",
-      "ref": "N-948",
+      "@id": "N-946",
+      "ref": "N-946",
       "name": "Thomas G. Martin",
       "type": "person",
       "description": "First named by the host at 00:24:12 in episode 71 as a Border Patrol employee in Buffalo, New York whom she says is not the Tucson Thomas Martin.",
@@ -2203,7 +2203,7 @@
       "claim_timestamp": "00:20:59",
       "investigative_direction": "Attempt to retrieve LinkedIn snapshot via archive; cross-check against federal personnel directories.",
       "mentions_person_refs": [
-        "N-558"
+        "N-556"
       ]
     },
     {
@@ -2222,7 +2222,7 @@
       "claim_timestamp": "00:22:02",
       "investigative_direction": "Retrieve ZoomInfo archive; cross-check federal personnel records.",
       "mentions_person_refs": [
-        "N-558"
+        "N-556"
       ]
     },
     {
@@ -2241,7 +2241,7 @@
       "claim_timestamp": "00:22:02–00:24:12",
       "investigative_direction": "Obtain full text of the 1985 Times Union article and verify Thomas Martin's role and tenure.",
       "mentions_person_refs": [
-        "N-558"
+        "N-556"
       ]
     },
     {
@@ -2260,7 +2260,7 @@
       "claim_timestamp": "00:22:02–00:24:12",
       "investigative_direction": "Obtain full text and verify direct quote attribution.",
       "mentions_person_refs": [
-        "N-558"
+        "N-556"
       ]
     },
     {
@@ -2280,8 +2280,8 @@
       "investigative_direction": "Authenticate text messages; verify daughter's attendance plans through UVU records or eyewitnesses.",
       "mentions_person_refs": [
         "N-2",
-        "N-551",
-        "N-559"
+        "N-549",
+        "N-557"
       ]
     },
     {
@@ -2300,8 +2300,8 @@
       "claim_timestamp": "00:24:52",
       "investigative_direction": "Authenticate text messages; cross-reference with daughter's subsequent statements or activities.",
       "mentions_person_refs": [
-        "N-551",
-        "N-559"
+        "N-549",
+        "N-557"
       ]
     },
     {
@@ -2320,7 +2320,7 @@
       "claim_timestamp": "00:30:34–00:40:02",
       "investigative_direction": "Obtain official hearing transcript or recording.",
       "mentions_person_refs": [
-        "N-560",
+        "N-558",
         "N-38"
       ]
     },
@@ -2398,7 +2398,7 @@
       "claim_timestamp": "00:31:24–00:32:50",
       "investigative_direction": "Obtain full hearing transcript.",
       "mentions_person_refs": [
-        "N-560",
+        "N-558",
         "N-38"
       ]
     },
@@ -2494,8 +2494,8 @@
       "investigative_direction": "NFL or Roc Nation announcements and reporting on who selected the 2026 halftime performer.",
       "transcript_snippet": "Actually, I looked into it. The person that controls who gets to perform at the halftime is Jay-Z. For some reason, Jay-Z in partnership with the NFL, Jay-Z doesn't speak Spanish, but Jay-Z booked him.",
       "mentions_person_refs": [
-        "N-529",
-        "N-813"
+        "N-527",
+        "N-811"
       ]
     },
     {
@@ -2537,7 +2537,7 @@
       "investigative_direction": "Broadcast footage of the halftime performance.",
       "transcript_snippet": "Now, Bad Bunny did not in fact wear a dress at the Super Bowl. He didn't, which like I said, I'm very against that.",
       "mentions_person_refs": [
-        "N-813"
+        "N-811"
       ]
     },
     {
@@ -2582,7 +2582,7 @@
       "investigative_direction": "TPUSA production schedule and the show's recording date.",
       "transcript_snippet": "Now, we should be clear, it was a pre-record, okay? So, Bad Bunny was performing live. Turning point USA pre-recorded, I think a couple of weeks ago.",
       "mentions_person_refs": [
-        "N-813"
+        "N-811"
       ]
     },
     {
@@ -2602,8 +2602,8 @@
       "investigative_direction": "Official TPUSA show lineup.",
       "transcript_snippet": "I'm going to park aside the artists who actually performed. Uh, Kid Rock, Lee Brice.",
       "mentions_person_refs": [
-        "N-812",
-        "N-947"
+        "N-810",
+        "N-945"
       ]
     },
     {
@@ -2735,7 +2735,7 @@
       "investigative_direction": "Public statements by TPUSA or Kolvet about Snow's credibility and any coordinated posts.",
       "transcript_snippet": "You will recall that Mitch Snow, the man who had to deal with the full brunt of Andrew and Erika's PR machine. Um, they were digging up his past, claiming that he was a habitual liar.",
       "mentions_person_refs": [
-        "N-366",
+        "N-364",
         "N-14",
         "N-2"
       ]
@@ -2761,9 +2761,9 @@
       "investigative_direction": "Hotel and base access records for September 8, 2025 and Snow's original account.",
       "transcript_snippet": "He was certain, and I want to be clear, he also hasn't moved his story since, not one inch. He was certain that he saw Erika Kirk on the evening of the 8th at Fort Huachuca leaving a hotel with a Cabot Phillips lookalike.",
       "mentions_person_refs": [
-        "N-366",
+        "N-364",
         "N-2",
-        "N-369"
+        "N-367"
       ]
     },
     {
@@ -2787,7 +2787,7 @@
       "investigative_direction": "Fort Huachuca building-use records and JTF Southern Border schedules for September 8-9, 2025.",
       "transcript_snippet": "he claims that he stumbled upon what appeared to him to be the conclusion of a military briefing right before a mission taking place in a borrowed building site for the joint task force, the Southern Border Unit.",
       "mentions_person_refs": [
-        "N-366"
+        "N-364"
       ]
     },
     {
@@ -2810,7 +2810,7 @@
       "investigative_direction": "Snow's detailed account and the unit's official status and location.",
       "transcript_snippet": "He saw a guy wearing the JTF thing. I think he said it was JTF 10, the 10th Mount Mountain Brigade.",
       "mentions_person_refs": [
-        "N-366"
+        "N-364"
       ]
     },
     {
@@ -2847,7 +2847,7 @@
       "investigative_direction": "Public photos, posts and statements showing the friendship and its length.",
       "transcript_snippet": "Remember, Tracy Martin is Erika's best friend for over 15 years.",
       "mentions_person_refs": [
-        "N-551",
+        "N-549",
         "N-2"
       ]
     },
@@ -2869,7 +2869,7 @@
       "investigative_direction": "Tracy Martin's brand pages and Romanian Angels materials showing Erika's involvement.",
       "transcript_snippet": "They've done everything together. Tracy says Romanian Angels. Uh Erika modeled for her clothing brands.",
       "mentions_person_refs": [
-        "N-551",
+        "N-549",
         "N-2"
       ]
     },
@@ -2891,7 +2891,7 @@
       "investigative_direction": "Business registrations for the Martins' gyms.",
       "transcript_snippet": "He's got quite a build. He looks kind of military-esque to me, but they are also involved in fitness. They ran gyms.",
       "mentions_person_refs": [
-        "N-551"
+        "N-549"
       ]
     },
     {
@@ -2913,8 +2913,8 @@
       "investigative_direction": "Federal personnel directories or CBP press releases naming a Thomas Martin in that role; any link to Tracy Martin's husband.",
       "transcript_snippet": "There is a director of US Border Patrol, also chief of staff uh of the Southern Command in Tucson named Thomas Martin.",
       "mentions_person_refs": [
-        "N-558",
-        "N-551"
+        "N-556",
+        "N-549"
       ]
     },
     {
@@ -2936,7 +2936,7 @@
       "investigative_direction": "Web archive snapshots of the LinkedIn profile and other listings, with dates.",
       "transcript_snippet": "this particular Thomas Martin has gone through great lengths to completely wipe his public presence.",
       "mentions_person_refs": [
-        "N-558"
+        "N-556"
       ]
     },
     {
@@ -2973,7 +2973,7 @@
       ],
       "related_nodes": [
         "N-11393",
-        "N-558"
+        "N-556"
       ],
       "tags": [
         "relevance:tangential"
@@ -2999,8 +2999,8 @@
       "investigative_direction": "Border Patrol assignment records distinguishing the two men.",
       "transcript_snippet": "Martin. That is not the same Thomas Martin that has been in Tucson. We've obviously already investigated the obvious lead there.",
       "mentions_person_refs": [
-        "N-558",
-        "N-948"
+        "N-556",
+        "N-946"
       ]
     },
     {
@@ -3022,7 +3022,7 @@
       "investigative_direction": "Submitted tips on Thomas Martin's career and colleagues.",
       "transcript_snippet": "Please do send us tips to uh tips uh more tips, pardon, canowens. com because we'd like to know maybe somebody worked with this Thomas Martin.",
       "mentions_person_refs": [
-        "N-558"
+        "N-556"
       ]
     },
     {
@@ -3042,7 +3042,7 @@
       "investigative_direction": "The 2011 record the host cites and any later Southern Command roster entries.",
       "transcript_snippet": "we know that he's been living in the Tucson area for decades, decades, at least up until 2011. I can find a record of him um working with the Southern Command and that is interesting.",
       "mentions_person_refs": [
-        "N-558"
+        "N-556"
       ]
     },
     {
@@ -3065,8 +3065,8 @@
       "investigative_direction": "TPUSA or Erika Kirk staff listings, event credentials or employment records for the daughter.",
       "transcript_snippet": "This is shocking that Tracy's daughter is actually Erika's assistant. I'll put in allegedly there because we've got to confirm that information, but um the source knows these people.",
       "mentions_person_refs": [
-        "N-551",
-        "N-559",
+        "N-549",
+        "N-557",
         "N-2"
       ]
     },
@@ -3270,7 +3270,7 @@
       ],
       "mentions_person_refs": [
         "N-38",
-        "N-117",
+        "N-116",
         "N-1"
       ]
     },
@@ -3294,7 +3294,7 @@
       "transcript_snippet": "since he's under oath. When you testify, you're actually under oath to ask him about a variety of topics.",
       "mentions_person_refs": [
         "N-38",
-        "N-560"
+        "N-558"
       ]
     },
     {
@@ -3316,7 +3316,7 @@
       "investigative_direction": "Dillon's public statements on the phrase 'Christ is King'.",
       "transcript_snippet": "First and foremost, she presses him because he was also one of the chiefs of Christ as King is anti-Semitic.",
       "mentions_person_refs": [
-        "N-560",
+        "N-558",
         "N-38"
       ]
     },
@@ -3340,7 +3340,7 @@
       "transcript_snippet": "if they just say it Christ is king? Like >> it could be. You have to look at the context.",
       "mentions_person_refs": [
         "N-38",
-        "N-560"
+        "N-558"
       ]
     },
     {
@@ -3362,7 +3362,7 @@
       "investigative_direction": "Hearing video and the circumstances of Owens' departure from the Daily Wire.",
       "transcript_snippet": "your friend Ben fired her because she said Christ is king. >> And I never said that what she said was anti-semitic.",
       "mentions_person_refs": [
-        "N-560",
+        "N-558",
         "N-97",
         "N-3",
         "N-38"
@@ -4182,8 +4182,8 @@
       "investigative_direction": "Submitted tips on Thomas Martin.",
       "transcript_snippet": "Again, if you know anything about this particular Thomas Martin, not the Thomas G. Martin who works up in Buffalo in New York, but the Thomas Martin that has been working with the Southern Command, please send us an email more tips at candacewowens. com.",
       "mentions_person_refs": [
-        "N-558",
-        "N-948"
+        "N-556",
+        "N-946"
       ]
     }
   ],

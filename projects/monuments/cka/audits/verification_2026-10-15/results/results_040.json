@@ -1,0 +1,764 @@
+[
+ {
+  "claim": "C-9568",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9569",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host on Loomer's psychiatric holds; private health matter, not bearing on the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9570",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Loomer's 2018 Twitter protest is not about the assassination or its investigation.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9571",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host: 'She became Jewish in essence, I suppose, for political reasons'; hedge 'I suppose' dropped. Also tangential.",
+  "fix": {
+   "claim": "The host says Laura Loomer is factually not Jewish, cannot produce any bat mitzvah pictures because it never happened, and became Jewish in essence, she supposes, for political reasons.",
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9572",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9573",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Clip about NYC mayoral race/Mamdani; not about the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9574",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9575",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9576",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9577",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9578",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9579",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'I believe that Charlie's murder was because evil became very desperate'; 'I believe' dropped.",
+  "fix": {
+   "claim": "The host says that because those behind the killing planned it perfectly, the phone call and walking away in the right direction is not what a natural person would do, and that she believes Charlie Kirk's murder happened because evil became very desperate."
+  }
+ },
+ {
+  "claim": "C-9580",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9581",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9582",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9583",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1617",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1618",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1619",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1620",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Question was 'Do you think they've caught your husband's killer?'; 'not a straight yes or no' is the host's gloss, not Erika's words.",
+  "fix": {
+   "claim": "Asked 'Do you think they've caught your husband's killer?', Erika Kirk says she is grateful for the team on the case, has seen the autopsy report and evidence portions, and trusts the team; the host notes it is not a straight yes or no."
+  }
+ },
+ {
+  "claim": "C-1621",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1622",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1623",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'there was a priest looking in the corner... I know a priest collar when I see one. Yep, that is the same priest'; claim states it as fact, not host's identification.",
+  "fix": {
+   "claim": "The host says that behind Jesse Watters and Erika Kirk as they walk backstage at the University of Mississippi event, there was a priest looking in the corner, whom she identifies as the same priest Erika took with her to the hospital when Charlie was shot."
+  }
+ },
+ {
+  "claim": "C-1624",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1625",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1626",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Title says venue was 'Confirmed'; transcript quotes Stuckey 'no venue yet, 2 months out'. Body is correct.",
+  "fix": {
+   "label": "Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out"
+  }
+ },
+ {
+  "claim": "C-3740",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Revision item for C-1626 title; quoted text matches transcript.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1627",
+  "episode": 27,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Oh, so it didn't happen. It didn't materialize.' is the host's reaction, not Lila Rose's.",
+  "fix": {
+   "claim": "Lila Rose tweets that she was just asked to speak at Stanford and that the event was going to be set up within 3 weeks; the host responds that this means the event did not happen or materialize."
+  }
+ },
+ {
+  "claim": "C-1628",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1629",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1630",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1631",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Alyssa Cordova (host also says 'Alyssa Harer' later)",
+  "fix": {}
+ },
+ {
+  "claim": "C-1632",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1633",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1634",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Erika Kirk (N-2); only the later part of the comment does.",
+  "fix": {
+   "mentions": [
+    "N-99",
+    "N-235",
+    "N-236"
+   ]
+  }
+ },
+ {
+  "claim": "C-1635",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Arm Hanna (viewer commenter)",
+  "fix": {}
+ },
+ {
+  "claim": "C-3755",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9584",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9585",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9586",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host credits the song Power with teaching her to ignore haters and say 'I know the crowd is doing this, but I'm not doing it'; she does not compare herself to the song.",
+  "fix": {
+   "claim": "The host says the Kanye West song Power taught her to stop listening to haters and to have the courage to say 'I know the crowd is doing this, but I'm not doing it,' and that this was her when she no longer wanted to do the pro-Israel thing."
+  }
+ },
+ {
+  "claim": "C-9587",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9588",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names neither Mark nor Skyler; Mentions N-67/N-68 not named in the claim text.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9589",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9590",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9591",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'Nine days after he was assassinated. Oh, sorry, the 21st. Mansplained in my ear'; nine days was the figure she corrected, and she earlier said 10 or 11.",
+  "fix": {
+   "claim": "The host says the memorial event was 10 or 11 days after the assassination, then says nine days, and after a correction from her director says it was on the 21st.",
+   "label": "Host Says Memorial Event Was on the 21st After Correction"
+  }
+ },
+ {
+  "claim": "C-9592",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Sentence trails off: 'I don't even think this person that killed Charlie Kirk. But even if you believe all of those things'; claim completes it.",
+  "fix": {
+   "claim": "The host says she does not believe Tyler Robinson was the lone person involved, and says 'I don't even think this person that killed Charlie Kirk' before trailing off."
+  }
+ },
+ {
+  "claim": "C-9593",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9594",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9595",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'Tyler Bowyer said, we have footage in 4K all of the stuff when he was tweeting'; 'he' unclear, claim says Charlie.",
+  "fix": {
+   "claim": "The host says Tyler Bowyer said 'we have footage in 4K all of the stuff' when he was tweeting."
+  }
+ },
+ {
+  "claim": "C-9596",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9597",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9598",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9599",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9600",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9601",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9602",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host voices a mock quote of TPUSA messaging ('It can't be, \"Okay, everybody... Mikey's going to take over...\"'), not a quoted TPUSA statement.",
+  "fix": {
+   "claim": "The host says, in a mock quote of Turning Point USA's messaging, that Mikey McCoy is going to take over for Charlie at his Liberty event, which is going to be sold out, and that TPUSA directors of faith are telling people Mikey has what it takes."
+  }
+ },
+ {
+  "claim": "C-9603",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9604",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9605",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9606",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'he quickly answered that it was him' reads as Sam Parker; it was the green-hoodie person who replied 'That's me'.",
+  "fix": {
+   "claim": "The host says that after Sam Parker asked who the guys in the video were, she replied with a clear image of the person in the green hoodie and that person quickly answered that it was him."
+  }
+ }
+]

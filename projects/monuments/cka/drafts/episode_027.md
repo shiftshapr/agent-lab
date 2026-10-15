@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 56c2be67383dd50f4d4f1df7be825f986b64cc63e651edf0162bdadcfd5d297b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-855, N-856, N-11228, N-11229, N-11230
-  - Hole-minted Nodes (reintro-ep027): N-371, N-10432
-  - Tip-minted Nodes (reintro-ep027): N-610, N-11014
+  - Tip-minted Nodes (supplement_2026-10d): N-853, N-854, N-11228, N-11229, N-11230
+  - Hole-minted Nodes (reintro-ep027): N-369, N-10432
+  - Tip-minted Nodes (reintro-ep027): N-608, N-11014
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9584–C-9646
-  - New Nodes Introduced: N-231, N-233, N-234, N-235, N-236, N-237, N-10228, N-10229, N-10231, N-10232, N-10233, N-10234, N-10235
-  - Reused Nodes Appearing: N-3, N-99, N-10230, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-102, N-119, N-166, N-185, N-131, N-10006, N-10012, N-10013, N-10014, N-10055, N-10104, N-10132, N-10164, N-10175, N-10209, N-10224, N-10253, N-10319, N-10337, N-11098, N-11104, N-232, N-10687, N-11171
+  - New Nodes Introduced: N-229, N-231, N-232, N-233, N-234, N-235, N-10228, N-10229, N-10231, N-10232, N-10233, N-10234, N-10235
+  - Reused Nodes Appearing: N-3, N-99, N-10230, N-1, N-4, N-11, N-27, N-30, N-33, N-39, N-40, N-68, N-82, N-97, N-101, N-118, N-165, N-183, N-130, N-10006, N-10012, N-10013, N-10014, N-10055, N-10104, N-10132, N-10164, N-10175, N-10209, N-10224, N-10253, N-10319, N-10337, N-11098, N-11104, N-230, N-10687, N-11171
   - (see registers)
 
 # Episode 27 Analysis Record
@@ -36,7 +36,7 @@
 - **Ledger Continuation Summary:**
   - Artifact Families Introduced: A-1345, A-1346, A-1347, A-1348, A-1349, A-1350, A-1351, A-1352, A-1353, A-1354
   - Claim Range: C-1617–C-1634, C-3740, C-3755
-  - New Nodes Introduced (people):  N-2, N-231, N-232, N-233, N-234, N-235, N-236, N-237
+  - New Nodes Introduced (people):  N-2, N-229, N-230, N-231, N-232, N-233, N-234, N-235
   - New Nodes Introduced (investigation targets): N-10228, N-10229, N-10230, N-10231, N-10232, N-10233, N-10234, N-10235
   - Existing Nodes Reused: Not confirmed (no prior ledger context provided beyond next-ID markers; known entities likely exist at lower IDs but cannot be cited)
 
@@ -82,7 +82,7 @@ Confidence Level: High
 
 Verbatim excerpt: "It's so easy to be in a position of feeling regret when you lose someone you love. And I tried to read a book by C. S. Lewis… It's called A Grief Observed. It was a very hard book to read. Not because it was about grief, but because in the opening pages, he talked about how angry he was with God. And I've never felt that. I'm not angry with God. Never have been."
 
-*Related: C-1619, N-2, N-215*
+*Related: C-1619, N-2, N-213*
 
 **A-1346.2** Erika Kirk audio excerpt responding to whether the caught individual pulled the trigger
 
@@ -94,7 +94,7 @@ Confidence Level: High
 
 Verbatim excerpt: "Do you think they've caught your husband's killer? So, something I'm so grateful for is that we have one of the most incredible teams for this case. I would never wish it upon anybody to have to go through what we are going through. To have seen the autopsy report, to have seen the different evidence portions that have been collected. I trust our team."
 
-*Related: C-1620, C-1621, N-2, N-215*
+*Related: C-1620, C-1621, N-2, N-213*
 
 **A-1346.3** Erika Kirk audio excerpt on Charlie's Saint Michael pendant
 
@@ -106,7 +106,7 @@ Confidence Level: High
 
 Verbatim excerpt: "When we first started dating, I um I asked him, I was like, why don't you wear a cross?… So, for his first birthday present I got him this bronze. And then throughout time I would always add different metals to it. And so he always he loved Saint Michael. And so yeah, every time he'd put this on, he just felt like it was his it was his armor."
 
-*Related: C-1622, N-2, N-215*
+*Related: C-1622, N-2, N-213*
 
 **A-1346.4** Erika Kirk audio excerpt on circulating conspiracy theories and request for grace
 
@@ -118,7 +118,7 @@ Confidence Level: High
 
 Verbatim excerpt: "Everyone grieves differently. Everyone is trying to figure out and I don't blame them. How does this happen?… And what I've realized through all of this is that everyone grieves differently… And again, my my only request is that just please pray and consider and think about whatever you put online because it's going to impact his kids in the future."
 
-*Related: C-1624, N-2, N-215*
+*Related: C-1624, N-2, N-213*
 
 ---
 
@@ -134,7 +134,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "The latest claim is that TPUSA must have been in on Charlie's murder because the UVU campus stop was approved in July. It was not approved in July. It was requested in July. And that's too short of a timeline for an event in September. That is not true. Charlie texted me at the end of August for a campus event in early November. That's about 2 months out."
 
-*Related: C-1625, N-231, N-10228*
+*Related: C-1625, N-229, N-10228*
 
 **A-1347.2** Allie Beth Stuckey follow-up tweet clarifying venue status
 
@@ -146,7 +146,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "Since some of you guys are struggling, no venue yet, 2 months out." (Host notes: "There's clearly a venue because Charlie is saying in this chat, 'November 3rd at 6:30 p.m. Either Auburn, which has 5,000 seats, or the University of Southern Alabama.'")
 
-*Related: C-1626, C-3740, N-231, N-10228*
+*Related: C-1626, C-3740, N-229, N-10228*
 
 ---
 
@@ -162,7 +162,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "I speak regularly on college campuses as well. As one example, I was just asked to speak at Stanford, and they were going to set the event up within 3 weeks. Oh, so it didn't happen. It didn't materialize… When I debated a few weeks ago at Yale, the event was also planned within 2 months."
 
-*Related: C-1627, C-1628, N-232, N-10228*
+*Related: C-1627, C-1628, N-230, N-10228*
 
 ---
 
@@ -178,7 +178,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "I'm one of the longest-tenured employees now at the organization, and Mikey has a servant's heart if ever I've seen one. Do you know why he went to Korea and Japan? Because my boss, our direct our production's director, who is the father of six children, asked him to. He is always traveling with me a good portion of it, and he missed his kids, and he asked Mikey to please go and film instead."
 
-*Related: C-1629, N-99, N-194*
+*Related: C-1629, N-99, N-192*
 
 **A-1349.2** Alex Clark tweet on not running ads on tribute episodes
 
@@ -206,7 +206,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "I don't have direct knowledge, but I assume there are non-disparagement agreements in place between Turning Point and Candace Owens because of TPUSA's business arrangement with Blexit."
 
-*Related: C-1631, N-233, N-10231*
+*Related: C-1631, N-231, N-10231*
 
 ---
 
@@ -222,7 +222,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "At this point, anyone who follows this freak show is doing it for the entertainment. This is not political commentary. It's bowling."
 
-*Related: C-1632, N-171*
+*Related: C-1632, N-170*
 
 ---
 
@@ -238,7 +238,7 @@ Confidence Level: High
 
 Verbatim excerpt: "Hey guys, this is me. My teammate and I were just on campus to get food and stop by the event. We always wear silly stuff like that. Sorry, guys."
 
-*Related: C-1633, N-234, N-10232*
+*Related: C-1633, N-232, N-10232*
 
 ---
 
@@ -254,7 +254,7 @@ Confidence Level: Medium (host observation of visual frame; no on-screen caption
 
 Host characterization: "behind Jesse and Erika as they're walking backstage at the University of Mississippi event that they headlined, there was a priest looking in the corner there. I know a priest collar when I see one."
 
-*Related: C-1623, N-2, N-215, N-10233*
+*Related: C-1623, N-2, N-213, N-10233*
 
 ---
 
@@ -270,7 +270,7 @@ Confidence Level: Medium (viewer-mediated second-hand reference)
 
 Verbatim excerpt: "Andrew Klavan on Alex Clark show discussed how Charlie's heart was still beating. How did Charlie instantly go to heaven if he had a pulse? Erika first saw Charlie at an airport in Israel in May of 2018 with her mom."
 
-*Related: C-1634, N-2, N-99, N-235, N-10234, N-10235*
+*Related: C-1634, N-2, N-99, N-233, N-10234, N-10235*
 
 **A-1354.2** Arm Hanna viewer comment on forgiveness requiring knowledge of what is being forgiven
 
@@ -282,7 +282,7 @@ Confidence Level: Medium
 
 Verbatim excerpt: "Candace, that was such a wise statement. I cannot forgive until I know what I am forgiving. Thank you for saying it."
 
-*Related: C-1635, N-237*
+*Related: C-1635, N-235*
 
 *(Note: see Claim Register for C-1635 – this claim is included to maintain artifact linkage for A-1354.2)*
 
@@ -348,7 +348,7 @@ Confidence Level: High
 
 ### People
 
-**N-215** Jesse Watters
+**N-213** Jesse Watters
 
 Interviewer in the Fox News sit-down; visible in Ole Miss backstage video with Erika.
 
@@ -361,7 +361,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-231** Allie Beth Stuckey
+**N-229** Allie Beth Stuckey
 
 Author of two artifact-anchored tweets disputing host's UVU event-approval claim.
 
@@ -374,7 +374,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-232** Lila Rose
+**N-230** Lila Rose
 
 Author of one artifact-anchored tweet pair referencing Stanford/Yale speaking events; relevance is to the UVU event-approval dispute.
 
@@ -396,11 +396,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1349.1, A-1349.2, A-1354.1, C-1629, C-1630, C-1634, N-194, N-10234*
+*Related: A-1349.1, A-1349.2, A-1354.1, C-1629, C-1630, C-1634, N-192, N-10234*
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Subject of Alex Clark's defense tweet (Korea/Japan trip) and host's standing concerns about his post-assassination public posture; named as having taken over Charlie's Liberty University speaking slot (per host commentary, not artifact-anchored in this episode).
 
@@ -413,7 +413,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-233** Alyssa Cordova
+**N-231** Alyssa Cordova
 
 Author of one artifact-anchored tweet referencing TPUSA/Blexit NDA speculation.
 
@@ -426,7 +426,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-171** Dinesh D'Souza
+**N-170** Dinesh D'Souza
 
 Author of one artifact-anchored X post.
 
@@ -439,7 +439,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-234** Colby Sessions
+**N-232** Colby Sessions
 
 UVU student who self-identified as the "green hoodie" figure at the event; artifact resolves N-10232.
 
@@ -452,7 +452,7 @@ Investigative Pressure: Low (apparently resolved)
 
 ---
 
-**N-235** Andrew Klavan
+**N-233** Andrew Klavan
 
 Referenced in Tom Paul viewer comment as having discussed Charlie's heartbeat on the Alex Clark show.
 
@@ -478,7 +478,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-236** Tom Paul
+**N-234** Tom Paul
 
 Author of substantive viewer comment (A-1354.1) referencing external commentary; tracked as source node.
 
@@ -491,7 +491,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-237** Arm Hanna
+**N-235** Arm Hanna
 
 Author of viewer comment (A-1354.2) reinforcing host's framing on forgiveness; tracked as source node.
 
@@ -528,7 +528,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1347.1, A-1347.2, A-1348.1, C-1625, C-1626, C-1627, C-1628, N-231, N-232*
+*Related: A-1347.1, A-1347.2, A-1348.1, C-1625, C-1626, C-1627, C-1628, N-229, N-230*
 
 ---
 
@@ -567,7 +567,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1350.1, C-1631, N-233*
+*Related: A-1350.1, C-1631, N-231*
 
 ---
 
@@ -580,7 +580,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Closed
 
-*Related: A-1352.1, C-1633, N-234*
+*Related: A-1352.1, C-1633, N-232*
 
 ---
 
@@ -593,7 +593,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1353.1, C-1623, N-2, N-215, N-10230*
+*Related: A-1353.1, C-1623, N-2, N-213, N-10230*
 
 ---
 
@@ -606,7 +606,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1354.1, C-1634, N-235, N-99, N-2, N-7*
+*Related: A-1354.1, C-1634, N-233, N-99, N-2, N-7*
 
 ---
 
@@ -648,7 +648,7 @@ Ben Shapiro; named in the host's thanks for her Daily Wire firing.
 
 ---
 
-**N-371** Jeremy Boreing
+**N-369** Jeremy Boreing
 
 Jeremy Boreing; named in the host's thanks for her Daily Wire firing.
 
@@ -664,7 +664,7 @@ Kanye West; his song Power is cited by the host.
 
 ---
 
-**N-855** Tony Burke
+**N-853** Tony Burke
 
 First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.
 
@@ -808,7 +808,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-185** Sam Parker
+**N-183** Sam Parker
 
 Sam Parker; asked who the green-hoodie figure was.
 
@@ -816,7 +816,7 @@ Sam Parker; asked who the green-hoodie figure was.
 
 ---
 
-**N-166** Matt Walsh
+**N-165** Matt Walsh
 
 Matt Walsh; cited on disloyalty of public sniping.
 
@@ -849,7 +849,7 @@ Yale student debating society, which the host says has existed since 1934 and ho
 
 ---
 
-**N-102** Michael Knowles
+**N-101** Michael Knowles
 
 Michael Knowles; effigy burned at a TPUSA event, per host.
 
@@ -873,7 +873,7 @@ FBI; the Feds in the Discord remark.
 
 ---
 
-**N-610** Ian Miles Cheong
+**N-608** Ian Miles Cheong
 
 Ian Miles Cheong; named as a recipient of Cordova's clips, per host allegation.
 
@@ -898,7 +898,7 @@ Dispute over whether Alex Clark skipped ads on Charlie tribute episodes and whet
 
 ---
 
-**N-119** Elon Musk
+**N-118** Elon Musk
 
 Elon Musk; DOGE did not exist before him, per host.
 
@@ -962,7 +962,7 @@ Frank Turek CPR Claim Verification; stage remarks.
 
 ---
 
-**N-131** Ian Carroll
+**N-130** Ian Carroll
 
 Ian Carroll; named as a regular text contact.
 
@@ -978,7 +978,7 @@ Dave Smith; named as a regular text contact.
 
 ---
 
-**N-856** Jimmy Dore
+**N-854** Jimmy Dore
 
 First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.
 
@@ -1086,10 +1086,10 @@ Investigative Direction: Obtain photographs of the pendant from TPUSA or family 
 
 Claim Timestamp: 00:15:23
 
-Claim: A figure in clerical attire appears in the background of backstage video at the University of Mississippi event featuring Jesse Watters and Erika Kirk; host identifies this as the same priest who accompanied Erika to the hospital after the shooting.
+Claim: The host says that behind Jesse Watters and Erika Kirk as they walk backstage at the University of Mississippi event, there was a priest looking in the corner, whom she identifies as the same priest Erika took with her to the hospital when Charlie was shot.
 
 Anchored Artifacts: A-1353.1
-Mentions: N-2, N-215
+Mentions: N-2, N-213
 
 Related Nodes: N-10230, N-10233
 
@@ -1118,7 +1118,7 @@ Claim Timestamp: 00:35:13
 Claim: Allie Beth Stuckey tweets that the UVU campus stop was "requested in July" rather than "approved in July," and that Charlie texted her at the end of August about a November campus event approximately 2 months out.
 
 Anchored Artifacts: A-1347.1
-Mentions: N-231
+Mentions: N-229
 
 Related Nodes: N-10228
 
@@ -1126,14 +1126,14 @@ Investigative Direction: Obtain Allie's underlying text message exchange with Ch
 
 ---
 
-**C-1626** Allie Beth Stuckey Follows Up That Venue Was Confirmed Two Months Out
+**C-1626** Allie Beth Stuckey Follows Up That There Was No Venue Yet, Two Months Out
 
 Claim Timestamp: 00:36:03
 
 Claim: In a tweet the host reads, Allie Beth Stuckey follows up that "no venue yet, 2 months out" was the status of the event at the time of her texts.
 
 Anchored Artifacts: A-1347.2
-Mentions: N-231
+Mentions: N-229
 
 Related Nodes: N-10228
 
@@ -1147,7 +1147,7 @@ Claim Timestamp: 00:36:03
 Claim: C-1626's title says the venue was confirmed two months out, which inverts its own body. Allie Beth Stuckey follows up that "no venue yet, 2 months out" was the status of the event at the time of her texts.
 Transcript Snippet: She says, "Since some of you guys are struggling, no venue yet, 2 months out."
 Anchored Artifacts: A-1347.2
-Mentions: N-231
+Mentions: N-229
 Related Nodes: N-10228
 Revises: C-1626
 Confidence: high
@@ -1159,10 +1159,10 @@ Investigative Direction: Read with C-1626; obtain the underlying text thread to 
 
 Claim Timestamp: 00:37:49
 
-Claim: Lila Rose tweets that she was asked to speak at Stanford with the event to be set up within 3 weeks; she notes the event did not materialize.
+Claim: Lila Rose tweets that she was just asked to speak at Stanford and that the event was going to be set up within 3 weeks; the host responds that this means the event did not happen or materialize.
 
 Anchored Artifacts: A-1348.1
-Mentions: N-232
+Mentions: N-230
 
 Related Nodes: N-10228
 
@@ -1177,7 +1177,7 @@ Claim Timestamp: 00:37:49
 Claim: Lila Rose tweets that a recent Yale debate she participated in was planned within 2 months.
 
 Anchored Artifacts: A-1348.1
-Mentions: N-232
+Mentions: N-230
 
 Related Nodes: N-10228
 
@@ -1192,7 +1192,7 @@ Claim Timestamp: 00:46:46
 Claim: Alex Clark tweets that Mikey McCoy went to Korea and Japan at the request of TPUSA's production director, who had six children and missed his kids while traveling.
 
 Anchored Artifacts: A-1349.1
-Mentions: N-99, N-194
+Mentions: N-99, N-192
 
 
 Investigative Direction: Identify the named production director and verify travel scheduling records.
@@ -1220,7 +1220,7 @@ Claim Timestamp: 00:55:21
 Claim: Alyssa Cordova tweets speculation that non-disparagement agreements may be in place between Turning Point USA and Candace Owens due to TPUSA's business arrangement with Blexit.
 
 Anchored Artifacts: A-1350.1
-Mentions: N-233, N-3
+Mentions: N-231, N-3
 
 Related Nodes: N-10231
 
@@ -1235,7 +1235,7 @@ Claim Timestamp: 00:57:25
 Claim: Dinesh D'Souza posts on X that "anyone who follows this freak show is doing it for the entertainment. This is not political commentary. It's bowling."
 
 Anchored Artifacts: A-1351.1
-Mentions: N-171
+Mentions: N-170
 
 
 Investigative Direction: Capture original post timestamp and any subsequent D'Souza commentary on the investigation.
@@ -1249,7 +1249,7 @@ Claim Timestamp: 00:25:41
 Claim: Colby Sessions posts a social media message identifying himself as the person seen wearing the green hoodie at the UVU event, explaining he and a teammate were on campus to get food and stop by.
 
 Anchored Artifacts: A-1352.1
-Mentions: N-234
+Mentions: N-232
 
 Related Nodes: N-10232
 
@@ -1264,7 +1264,7 @@ Claim Timestamp: 00:59:56
 Claim: A viewer (Tom Paul) reports that Andrew Klavan, on the Alex Clark show, discussed how Charlie's heart was still beating, posing a question about how Charlie could have "instantly gone to heaven" if he had a pulse.
 
 Anchored Artifacts: A-1354.1
-Mentions: N-2, N-99, N-235, N-236
+Mentions: N-1, N-99, N-233, N-234
 
 Related Nodes: N-10234
 
@@ -1279,7 +1279,7 @@ Claim Timestamp: 1:03:27
 Claim: A viewer (Arm Hanna) endorses the host's earlier statement that one cannot forgive until one knows what one is forgiving.
 
 Anchored Artifacts: A-1354.2
-Mentions: N-237
+Mentions: N-235
 
 
 Investigative Direction: None – viewer opinion, not an investigative target.
@@ -1327,7 +1327,7 @@ Claim: The host says Ben Shapiro and Jeremy Boreing fired her, thanking them sar
 Transcript Snippet: I thank Ben Shapiro. I thank Jeremy Boreing. I thank the direction of travel, and they realizing it before I did, um that I should be fired.
 
 Anchored Artifacts: 
-Mentions: N-3, N-97, N-371
+Mentions: N-3, N-97, N-369
 Tags: relevance:tangential
 Investigative Direction: Review the 2024 separation announcements from the host and Daily Wire for the stated reason and date.
 
@@ -1337,7 +1337,7 @@ Investigative Direction: Review the 2024 separation announcements from the host 
 
 Claim Timestamp: 00:02:10
 
-Claim: The host says there came a point when she no longer wanted to do the pro-Israel thing and did not follow the crowd, comparing herself to the Kanye West song Power.
+Claim: The host says the Kanye West song Power taught her to stop listening to haters and to have the courage to say 'I know the crowd is doing this, but I'm not doing it,' and that this was her when she no longer wanted to do the pro-Israel thing.
 
 Transcript Snippet: I know the crowd is doing this, but I'm not doing it." And that was me when I no longer wanted to do the pro-Israel thing.
 
@@ -1357,7 +1357,7 @@ Claim: The host says Australian minister Tony Burke banned her from the entire c
 Transcript Snippet: Tony Burke, thank you for banning us from an entire country, even though I didn't do nothing.
 
 Anchored Artifacts: 
-Mentions: N-3, N-855
+Mentions: N-3, N-853
 Tags: relevance:tangential
 Investigative Direction: Check the Australian Home Affairs visa decision and the stated reason and reapplication period.
 
@@ -1372,7 +1372,7 @@ Claim: The host says only four people work on the actual podcast every day and t
 Transcript Snippet: There's just four of us, uh that work on the actual podcast every day.
 
 Anchored Artifacts: 
-Mentions: N-3, N-67, N-68
+Mentions: N-3
 Related Nodes: N-11228
 Tags: relevance:tangential
 Investigative Direction: Compare with the staff the host later describes or lists in company filings.
@@ -1388,7 +1388,7 @@ Claim: The host says Jesse Watters, who hosted the Fox News interview with Erika
 Transcript Snippet: also trailed her at the event that she did with J. D. Vance at the University of Mississippi.
 
 Anchored Artifacts: 
-Mentions: N-3, N-215, N-2, N-4
+Mentions: N-3, N-213, N-2, N-4
 Related Nodes: N-10006, N-10233
 Tags: relevance:context
 Investigative Direction: Obtain the Ole Miss event date, the Fox News Primetime broadcast date and any pooled footage.
@@ -1410,11 +1410,11 @@ Investigative Direction: Pull the memorial-service video and transcript for the 
 
 ---
 
-**C-9591** Host Says Memorial Event Was on the 21st, Nine Days After the Assassination
+**C-9591** Host Says Memorial Event Was on the 21st After Correction
 
 Claim Timestamp: 00:07:26
 
-Claim: The host says, after a correction from her director, that the memorial event was on the 21st, nine days after the assassination.
+Claim: The host says the memorial event was 10 or 11 days after the assassination, then says nine days, and after a correction from her director says it was on the 21st.
 
 Transcript Snippet: Nine days after he was assassinated. Oh, sorry, the 21st. Mansplained in my ear.
 
@@ -1429,7 +1429,7 @@ Investigative Direction: Confirm the memorial service date; the host's arithmeti
 
 Claim Timestamp: 00:09:23
 
-Claim: The host says she does not believe Tyler Robinson was the lone person involved and does not think he is the person who killed Charlie Kirk.
+Claim: The host says she does not believe Tyler Robinson was the lone person involved, and says 'I don't even think this person that killed Charlie Kirk' before trailing off.
 
 Transcript Snippet: I don't believe that he was the lone person involved. I don't even think this person that killed Charlie Kirk.
 
@@ -1594,7 +1594,7 @@ Claim: The host says TPUSA has said Mikey McCoy will take over Charlie's Liberty
 Transcript Snippet: Mikey's going to take over for Charlie at his Liberty convocate or Liberty event that he has which is is going to be sold out
 
 Anchored Artifacts: 
-Mentions: N-3, N-194, N-1
+Mentions: N-3, N-192, N-1
 Related Nodes: N-11104, N-10000
 Tags: relevance:core
 Investigative Direction: Find the Liberty University convocation schedule and any TPUSA announcement of McCoy as replacement.
@@ -1652,12 +1652,12 @@ Investigative Direction: Identify the WSJ piece and Clark's statements about Cat
 
 Claim Timestamp: 00:25:01
 
-Claim: The host says that after Sam Parker asked who the guys in the video were, she replied with a clear image of the person in the green hoodie and he quickly answered that it was him.
+Claim: The host says that after Sam Parker asked who the guys in the video were, she replied with a clear image of the person in the green hoodie and that person quickly answered that it was him.
 
 Transcript Snippet: I then respond and I'm like, "Here's a clear image of this person, the actual person wearing the green hoodie."
 
 Anchored Artifacts: A-3021.1
-Mentions: N-3, N-185, N-234
+Mentions: N-3, N-183, N-232
 Related Nodes: N-10232
 Tags: relevance:context
 Investigative Direction: Retrieve the original post thread with timestamps.
@@ -1673,7 +1673,7 @@ Claim: The host says she thinks Colby Sessions is on the soccer team at UVU.
 Transcript Snippet: I think he's on the soccer team at UVU.
 
 Anchored Artifacts: 
-Mentions: N-3, N-234
+Mentions: N-3, N-232
 Related Nodes: N-10012
 Tags: relevance:context
 Investigative Direction: Check the UVU athletics roster for Sessions.
@@ -1705,7 +1705,7 @@ Claim: The host says she would have told Allie Beth Stuckey privately that Charl
 Transcript Snippet: he was going to mass sometimes daily. He was going on Sundays. Uh he died with the pendant.
 
 Anchored Artifacts: 
-Mentions: N-3, N-231, N-1
+Mentions: N-3, N-229, N-1
 Related Nodes: N-10230, N-10164
 Supports: C-1622
 Tags: relevance:core
@@ -1722,7 +1722,7 @@ Claim: The host says Matt Walsh recently said he views it as a form of disloyalt
 Transcript Snippet: This is one of the things that Matt Walsh recently said that he views it as such a form of disloyalty
 
 Anchored Artifacts: 
-Mentions: N-3, N-166, N-231
+Mentions: N-3, N-165, N-229
 Tags: relevance:tangential
 Investigative Direction: Find Walsh's statement.
 
@@ -1801,7 +1801,7 @@ Claim: The host reads from the private chat Allie Beth Stuckey shared, in which 
 Transcript Snippet: November 3rd at 6:30 p. m. Either Auburn, which has 5,000 seats, or the University of Southern Alabama.
 
 Anchored Artifacts: A-3022.1
-Mentions: N-3, N-231, N-1
+Mentions: N-3, N-229, N-1
 Related Nodes: N-10228
 Supports: C-1625
 Tags: relevance:core
@@ -1818,7 +1818,7 @@ Claim: The host says that students are often told to hold two possible dates and
 Transcript Snippet: They did not start planning that event when Charlie texted you. I can guarantee you that, okay?
 
 Anchored Artifacts: 
-Mentions: N-3, N-231, N-1
+Mentions: N-3, N-229, N-1
 Related Nodes: N-10228
 Tags: relevance:context
 Investigative Direction: Ask the Auburn and South Alabama TPUSA chapters when they submitted requests.
@@ -1850,7 +1850,7 @@ Claim: The host says the Yale debate Lila Rose cited was with the Yale Political
 Transcript Snippet: So, that Yale event that Lila Rose spoke at was with the Yale Political Union. So, it is It's existed since 1934.
 
 Anchored Artifacts: 
-Mentions: N-3, N-232
+Mentions: N-3, N-230
 Related Nodes: N-11229
 Tags: relevance:context
 Investigative Direction: Confirm the Yale Political Union's founding date and Rose's debate date.
@@ -1866,7 +1866,7 @@ Claim: The host, showing a picture, says about 70 people attended the Yale debat
 Transcript Snippet: she's comparing this 70 people that attended this debate to Turning Point USA hosting a debate with thousands of people
 
 Anchored Artifacts: A-3023.1
-Mentions: N-3, N-232
+Mentions: N-3, N-230
 Related Nodes: N-11229
 Tags: relevance:context
 Investigative Direction: Obtain attendance from the Yale Political Union.
@@ -1914,7 +1914,7 @@ Claim: The host says protesters burned an effigy of Michael Knowles at a Turning
 Transcript Snippet: They will burn you an effigy as they did uh to Michael Knowles at a Turning Point USA event.
 
 Anchored Artifacts: 
-Mentions: N-3, N-102
+Mentions: N-3, N-101
 Related Nodes: N-10000
 Tags: relevance:tangential
 Investigative Direction: Find news coverage of the Knowles effigy incident.
@@ -1930,7 +1930,7 @@ Claim: The host says Allie Beth Stuckey, regarding the Fed Discord messages, sai
 Transcript Snippet: Well, even if these are written by the Feds, I still think he was murdered by Tyler Robinson.
 
 Anchored Artifacts: 
-Mentions: N-3, N-231, N-40
+Mentions: N-3, N-229, N-40
 Related Nodes: N-10013, N-10014
 Tags: relevance:core
 Investigative Direction: Find the Stuckey clip and confirm her wording.
@@ -1946,7 +1946,7 @@ Claim: The host says Allie Beth Stuckey has hired Alyssa Cordova, who was former
 Transcript Snippet: Alyssa Cordova was formerly the PR person, head PR person at Daily Wire.
 
 Anchored Artifacts: 
-Mentions: N-3, N-231, N-233
+Mentions: N-3, N-229, N-231
 Tags: relevance:context
 Investigative Direction: Confirm Cordova's current role with Stuckey and her Daily Wire title.
 
@@ -1961,7 +1961,7 @@ Claim: The host alleges Alyssa Cordova keeps out-of-context clips and sends them
 Transcript Snippet: she intentionally has out of context clips, which she then sends to people um a whole little orbit of bees online like Ian Miles Chong
 
 Anchored Artifacts: 
-Mentions: N-3, N-233, N-610
+Mentions: N-3, N-231, N-608
 Tags: relevance:context
 Investigative Direction: Allegation only; ask the host for the messages or sources behind it.
 
@@ -1992,7 +1992,7 @@ Claim: The host says that things said about Mikey McCoy after the assassination 
 Transcript Snippet: And we heard these things from his father. We heard these things from people at Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-3, N-194, N-1
+Mentions: N-3, N-192, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the father's and TPUSA people's statements, with dates.
@@ -2008,7 +2008,7 @@ Claim: The host says it is a fact that Mikey McCoy took over for Charlie, who wa
 Transcript Snippet: he took over for Charlie who was slated to speak at Liberty University. Okay, that's just a fact.
 
 Anchored Artifacts: 
-Mentions: N-3, N-194, N-1
+Mentions: N-3, N-192, N-1
 Related Nodes: N-11104
 Tags: relevance:core
 Investigative Direction: Confirm via Liberty University's convocation schedule and event coverage.
@@ -2105,7 +2105,7 @@ Claim: The host says Alex Clark's account that Charlie wanted a DOGE every year 
 Transcript Snippet: No, you don't do a Dodge every year. You want to know how I know that? Because Dodge didn't exist before Elon Musk.
 
 Anchored Artifacts: 
-Mentions: N-3, N-99, N-119, N-1
+Mentions: N-3, N-99, N-118, N-1
 Related Nodes: N-10132, N-11171
 Tags: relevance:core
 Investigative Direction: Find Clark's original statement and any pre-2025 TPUSA financial-audit unit.
@@ -2121,7 +2121,7 @@ Claim: The host says she said TPUSA is engaged in a cover-up but did not say Mik
 Transcript Snippet: Yes, I did say that. I didn't say that Mikey murdered Charlie Kirk.
 
 Anchored Artifacts: 
-Mentions: N-3, N-194, N-1
+Mentions: N-3, N-192, N-1
 Related Nodes: N-10000
 Supports: C-3755
 Tags: relevance:core
@@ -2187,7 +2187,7 @@ Claim: The host alleges Alyssa Cordova treats people badly while an NDA prevents
 Transcript Snippet: She can treat you really evil, but there's an NDA preventing you, so she got to allow her to abuse you.
 
 Anchored Artifacts: 
-Mentions: N-3, N-233
+Mentions: N-3, N-231
 Related Nodes: N-10432
 Tags: relevance:context
 Investigative Direction: Allegation only; ask the host for the sources behind it.
@@ -2283,7 +2283,7 @@ Claim: The host says she texts Ian Carroll and Dave Smith regularly to share inf
 Transcript Snippet: Ian Carroll we text regularly. Dave Smith we text regularly when we're sharing information.
 
 Anchored Artifacts: 
-Mentions: N-3, N-131, N-39, N-856
+Mentions: N-3, N-130, N-39, N-854
 Tags: relevance:tangential
 Investigative Direction: Context on the host's network; no confirmation needed.
 
@@ -2409,7 +2409,7 @@ Confidence: low
 - **Artifact verbally referenced but not shown in this episode:** Host references a previously displayed email regarding UVU event approval (from the prior day's show); Allie's tweets respond to that prior display.
 - **Claim C-1635 failed full admission test** in strict evidentiary terms (viewer opinion, not investigable falsifiable proposition); inscribed only because A-1354.2 must have a linked claim for ledger completeness; flagged here for transparency.
 - **Requires human verification:** The Colby Sessions self-ID post's account handle and date stamp are not provided in the transcript; A-1352.1 metadata is reconstructed from host read-aloud.
-- **Name uncertainty:** "Mikey's" Liberty University speaking replacement (host commentary only; not artifact-anchored in this episode; tracked under N-194 but not inscribed as claim).
+- **Name uncertainty:** "Mikey's" Liberty University speaking replacement (host commentary only; not artifact-anchored in this episode; tracked under N-192 but not inscribed as claim).
 
 ---
 

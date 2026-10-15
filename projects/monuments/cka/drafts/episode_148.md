@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a2dc76d34975c9abe510df358ab1de54f418f9e78f0eceb43fa1e5c1aa410541
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-798
+  - Tip-minted Nodes (supplement_2026-10b): N-796
   - Claim Range (supplement_2026-10b): C-7693–C-7775
   - (see registers)
 
@@ -49,9 +49,9 @@ Confidence: high
 - Artifact Families Introduced: A-2341, A-2342, A-2343, A-2344, A-2345, A-2346, A-2347, A-2348, A-2349, A-2350
 - Claim Range: C-3393–C-3405
   - New Nodes Introduced: none
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-162, N-333, N-10000, N-363, N-36, N-55, N-97, N-167, N-215, N-241, N-247, N-372, N-436, N-492, N-715, N-10011, N-10012, N-10024, N-10058, N-10061, N-10062, N-10169, N-10201, N-10342, N-10657, N-10662, N-10715, N-10805, N-10888, N-10900, N-10905, N-10914, N-10968, N-11061
-  - Hole-minted Nodes (wave1): N-354
-- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-162 Blake Neff, N-27 Kanye West (Ye), N-10000 Turning Point USA (TPUSA), N-7 Frank Turek, N-14 Andrew Kolvet (aired as Andrew Kolvet), N-333 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-7, N-14, N-27, N-161, N-331, N-10000, N-361, N-36, N-55, N-97, N-166, N-213, N-239, N-245, N-370, N-434, N-490, N-713, N-10011, N-10012, N-10024, N-10058, N-10061, N-10062, N-10169, N-10201, N-10342, N-10657, N-10662, N-10715, N-10805, N-10888, N-10900, N-10905, N-10914, N-10968, N-11061
+  - Hole-minted Nodes (wave1): N-352
+- Existing Nodes Reused: N-1 Charlie Kirk, N-2 Erika Kirk, N-3 Candace Owens, N-161 Blake Neff, N-27 Kanye West (Ye), N-10000 Turning Point USA (TPUSA), N-7 Frank Turek, N-14 Andrew Kolvet (aired as Andrew Kolvet), N-331 Tulsi Gabbard, N-4 JD Vance. Wave 1: the draft first used local placeholder ids here; Kim Kardashian, New York Times, Deseret News, Andrew Cooper, Salem Media, Brad Parscale, Ebro Darden and Danny Philip have no cited CKA person node in this episode.
 
 ---
 
@@ -338,7 +338,7 @@ Video Timestamp: 00:33:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3397, N-162, N-3*
+*Related: C-3397, N-161, N-3*
 
 ---
 
@@ -354,7 +354,7 @@ Video Timestamp: 00:36:34
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3393, C-3394, C-3395, C-3396, N-162, N-3, N-10000*
+*Related: C-3393, C-3394, C-3395, C-3396, N-161, N-3, N-10000*
 
 ---
 
@@ -370,7 +370,7 @@ Video Timestamp: 00:40:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3398, C-3399, C-3400, C-3401, C-3402, N-2, N-354, N-10000*
+*Related: C-3398, C-3399, C-3400, C-3401, C-3402, N-2, N-352, N-10000*
 
 ---
 
@@ -412,7 +412,7 @@ Video Timestamp: 00:52:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-7, N-14, N-333*
+*Related: N-7, N-14, N-331*
 
 **A-2350.3** Ali Comment on Andrew Kolvet and Fireworks / Sparkling Pantsuit
 
@@ -464,7 +464,7 @@ Video Timestamp: 00:52:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: N-162*
+*Related: N-161*
 
 **A-2350.8** Jessica Coach Comment: Checked Out of Hospital to Watch Show
 
@@ -513,7 +513,7 @@ Video Timestamp: 00:56:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7771, C-7772, C-7773, N-436, N-10657*
+*Related: C-7771, C-7772, C-7773, N-434, N-10657*
 
 ---
 
@@ -541,7 +541,7 @@ Investigative Pressure: High
 
 *Related: A-2348.1, A-2350.1, A-2350.3, C-3398, C-3399, C-3400, C-3401, C-3402*
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Author of X post (A-2346); subject of Deseret News profile (A-2347).
 
@@ -563,7 +563,7 @@ Investigative Pressure: Low
 
 *Related: A-2341.1, A-2341.2, A-2341.3, A-2342.1, A-2343.1, A-2344.1, A-2349.1*
 
-**N-363** Kim Kardashian
+**N-361** Kim Kardashian
 
 The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert.
 
@@ -576,7 +576,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-354** Usha Vance
+**N-352** Usha Vance
 
 Referenced in Erika Kirk op-ed (A-2348) as "second lady" and as source of "15 minutes" analogy.
 
@@ -643,7 +643,7 @@ Ben Shapiro; named in the host's account of the Daily Wire statement pressure.
 
 ---
 
-**N-167** Rabbi Pesach Wolicki
+**N-166** Rabbi Pesach Wolicki
 
 Rabbi Pesach Wolicki; the host places him on the Zoom call.
 
@@ -651,7 +651,7 @@ Rabbi Pesach Wolicki; the host places him on the Zoom call.
 
 ---
 
-**N-215** Jesse Watters
+**N-213** Jesse Watters
 
 Jesse Watters (aired as Jesse Watters); the host says Erika's op-ed repeats her interview remarks to him.
 
@@ -659,7 +659,7 @@ Jesse Watters (aired as Jesse Watters); the host says Erika's op-ed repeats her 
 
 ---
 
-**N-241** Glenn Beck
+**N-239** Glenn Beck
 
 Glenn Beck; the host guesses he may speak at the UVU anniversary event.
 
@@ -667,7 +667,7 @@ Glenn Beck; the host guesses he may speak at the UVU anniversary event.
 
 ---
 
-**N-247** Grok
+**N-245** Grok
 
 Grok; the host cites a critic's Grok exchange about the concert.
 
@@ -675,7 +675,7 @@ Grok; the host cites a critic's Grok exchange about the concert.
 
 ---
 
-**N-333** Tulsi Gabbard
+**N-331** Tulsi Gabbard
 
 Tulsi Gabbard; the host says her office was given the Zoom call conversation.
 
@@ -683,7 +683,7 @@ Tulsi Gabbard; the host says her office was given the Zoom call conversation.
 
 ---
 
-**N-372** Danny Philip
+**N-370** Danny Philip
 
 Danny Philip; the host says he drove the second Denali with Neff and that Neff will not name him.
 
@@ -691,7 +691,7 @@ Danny Philip; the host says he drove the second Denali with Neff and that Neff w
 
 ---
 
-**N-436** Brad Parscale
+**N-434** Brad Parscale
 
 Brad Parscale; the host says he was a Salem Media executive who brought the filings forward.
 
@@ -699,7 +699,7 @@ Brad Parscale; the host says he was a Salem Media executive who brought the fili
 
 ---
 
-**N-492** Taylor Swift
+**N-490** Taylor Swift
 
 Taylor Swift; the host compares Ye's tour to her Eras Tour.
 
@@ -707,7 +707,7 @@ Taylor Swift; the host compares Ye's tour to her Eras Tour.
 
 ---
 
-**N-715** John F. Kennedy
+**N-713** John F. Kennedy
 
 John F. Kennedy; named in the host's Operation Mockingbird aside.
 
@@ -875,7 +875,7 @@ Existing topic reused for the Restaurantology attendance claim.
 
 ---
 
-**N-798** Ebro Darden
+**N-796** Ebro Darden
 
 First named by the host (as Ebro) at 00:28:04 in episode 148. Radio host named in Ye's TMZ clip, who Ye says declined to have the host on his show. Aliases: Ebro.
 
@@ -892,7 +892,7 @@ Claim Timestamp: 00:36:34
 Claim: According to a Deseret News profile piece, Blake Neff stated he was with members sitting in the waiting room at the Orem, Utah hospital where Kirk was taken on September 10 and was discussing how podcaster Candace Owens would react to Charlie's death.
 
 Anchored Artifacts: A-2347.1
-Mentions: N-1, N-162, N-3
+Mentions: N-1, N-161, N-3
 
 
 Investigative Direction: Obtain the original Deseret News article text directly and confirm the quoted material matches the host's reading; verify whether Neff names the other "members" present.
@@ -906,7 +906,7 @@ Claim Timestamp: 00:36:34
 Claim: According to the Deseret News profile, Blake Neff stated Charlie Kirk was aware of Candace Owens's theories about France's first lady being transgender.
 
 Anchored Artifacts: A-2347.1
-Mentions: N-162, N-3, N-1
+Mentions: N-161, N-3, N-1
 
 
 Investigative Direction: Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization.
@@ -920,7 +920,7 @@ Claim Timestamp: 00:36:34
 Claim: According to the Deseret News profile, Blake Neff described some of Candace Owens's views as "weird stuff about Jewish cults."
 
 Anchored Artifacts: A-2347.1
-Mentions: N-162, N-3
+Mentions: N-161, N-3
 
 
 Investigative Direction: Verify the exact phrasing in the original Deseret News article; identify which specific views Neff was referencing.
@@ -934,7 +934,7 @@ Claim Timestamp: 00:36:34
 Claim: According to the Deseret News profile, Blake Neff stated that some of Candace Owens's views were part of the reason Turning Point USA had become less involved with Owens around 2024.
 
 Anchored Artifacts: A-2347.1
-Mentions: N-162, N-3
+Mentions: N-161, N-3
 
 Related Nodes: N-10000
 
@@ -949,7 +949,7 @@ Claim Timestamp: 00:33:48
 Claim: Blake Neff, in an X post read aloud on the episode, called Candace Owens "seven vacations a year Owens" and stated she cannot imagine someone liking work.
 
 Anchored Artifacts: A-2346.1
-Mentions: N-162, N-3
+Mentions: N-161, N-3
 
 
 Investigative Direction: Obtain the original X post URL and confirm text; cross-check the host's counter-travel record against verifiable travel logs.
@@ -977,7 +977,7 @@ Claim Timestamp: 00:43:25
 Claim: Per the New York Times op-ed by Erika Kirk that the host reads, Erika Kirk recounts telling Second Lady Usha Vance "I don't know how I'm going to do this" on the day after Charlie Kirk was shot.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-4, N-354, N-1
+Mentions: N-2, N-4, N-352, N-1
 
 
 Investigative Direction: Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements.
@@ -991,7 +991,7 @@ Claim Timestamp: 00:43:25
 Claim: Per the New York Times op-ed by Erika Kirk that the host reads, Erika Kirk cites Usha Vance's "15 minutes" airplane analogy about grief, in which the worst stretch is like a plane about to land with screaming children.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-4, N-354
+Mentions: N-2, N-4, N-352
 
 
 Investigative Direction: Confirm the quoted analogy in the op-ed directly.
@@ -1033,7 +1033,7 @@ Claim Timestamp: 00:08:28
 Claim: The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert and exchanging a half-smile across the lobby.
 
 Anchored Artifacts: A-2349.1
-Mentions: N-27, N-3, N-363
+Mentions: N-27, N-3, N-361
 
 
 Investigative Direction: Verify the footage timestamp and attendees independently; confirm the date and venue.
@@ -1077,7 +1077,7 @@ Claim: The host says Ye has been touring and selling out stadiums of 70,000 to 1
 Transcript Snippet: he has been touring and he has been selling out stadiums that are between 70,000-100,000 seats all over the world
 
 Anchored Artifacts: 
-Mentions: N-27, N-492, N-3
+Mentions: N-27, N-490, N-3
 Tags: relevance:tangential
 Investigative Direction: Check announced attendance and ticketing figures for Ye's 2026 stadium dates against the host's range.
 
@@ -1092,7 +1092,7 @@ Claim: The host says one critic posted a conversation with Grok about whether it
 Transcript Snippet: I saw one person posted their conversation with Grok about whether it's safe for me to go to a concert at 8 months pregnant.
 
 Anchored Artifacts: 
-Mentions: N-247, N-3
+Mentions: N-245, N-3
 Tags: relevance:tangential
 Investigative Direction: Locate the posted Grok exchange to confirm the wording and that it was generated as described.
 
@@ -1169,7 +1169,7 @@ Claim: The host says Kim Kardashian, whom she saw in the hotel lobby, turned out
 Transcript Snippet: Turns out she was actually in town for a show that Northwest had the following night.
 
 Anchored Artifacts: A-2349.1
-Mentions: N-363, N-3
+Mentions: N-361, N-3
 Tags: relevance:tangential
 Investigative Direction: Check coverage of North West's Chicago show date to confirm it fell the night after the Ye concert.
 
@@ -1497,7 +1497,7 @@ Claim: In the TMZ clip played by the host, Ye says he FaceTimed Ebro with Candac
 Transcript Snippet: I said, "Yo, you going to have Candace on your show?" He's like, "Nah, I'm not. She's mean."
 
 Anchored Artifacts: A-2344.1
-Mentions: N-27, N-3, N-798
+Mentions: N-27, N-3, N-796
 Related Nodes: N-10011
 Tags: relevance:tangential
 Investigative Direction: Identify the date of the TMZ interview and Ebro Darden's account, if any, of the exchange.
@@ -1528,7 +1528,7 @@ Claim: The host says that although Neff flew into Salt Lake City with Charlie ab
 Transcript Snippet: we know that Blake got into the second rental, a Denali, with Danny Philip and perhaps some other people
 
 Anchored Artifacts: 
-Mentions: N-162, N-372, N-1
+Mentions: N-161, N-370, N-1
 Related Nodes: N-10715
 Supports: C-3095, C-3020
 Tags: relevance:core
@@ -1545,7 +1545,7 @@ Claim: The host says neither Danny Philip nor Blake Neff attended the Restaurant
 Transcript Snippet: We know that neither Danny or Blake attend the restaurantology event that morning where Charlie gave an interview.
 
 Anchored Artifacts: 
-Mentions: N-372, N-162, N-1
+Mentions: N-370, N-161, N-1
 Related Nodes: N-11061, N-10715
 Tags: relevance:core
 Investigative Direction: Event attendee list, green-room footage and the restaurant's own video of the morning.
@@ -1561,7 +1561,7 @@ Claim: The host says Neff cannot account for where he was, says he was keeping t
 Transcript Snippet: He didn't even remember who he was with. He had to be reminded that he was with Danny who was driving the vehicle.
 
 Anchored Artifacts: 
-Mentions: N-162, N-372
+Mentions: N-161, N-370
 Related Nodes: N-10715
 Supports: C-3019, C-3020, C-5865
 Tags: relevance:core
@@ -1578,7 +1578,7 @@ Claim: The host says Neff tweeted over the last couple of days that she finds it
 Transcript Snippet: Candace finds it implausible and ridiculous that Charlie would be excited about his largest campus tour ever because it was also his job.
 
 Anchored Artifacts: A-2346.1
-Mentions: N-162, N-3, N-1
+Mentions: N-161, N-3, N-1
 Tags: relevance:core
 Investigative Direction: Locate the original Neff post and its timestamp.
 
@@ -1593,7 +1593,7 @@ Claim: The host says she has taken three vacations this year, a family holiday t
 Transcript Snippet: Thus far this year, we've taken a total of three vacations, our family holiday to Spain, our partial family trip to Russia
 
 Anchored Artifacts: A-2346.1
-Mentions: N-3, N-162
+Mentions: N-3, N-161
 Contradicts: C-3397
 Tags: relevance:context
 Investigative Direction: Travel records for the host's 2026 trips would confirm or refute the count.
@@ -1641,7 +1641,7 @@ Claim: In the passage the host reads from the Deseret News profile, Neff is quot
 Transcript Snippet: Someone said, "Candace is going to have an extreme reaction to this." And instantly I was like, "Yeah, yeah, she will."
 
 Anchored Artifacts: A-2347.1
-Mentions: N-162, N-3
+Mentions: N-161, N-3
 Related Nodes: N-10062
 Supports: C-3393
 Tags: relevance:core
@@ -1658,7 +1658,7 @@ Claim: The host says she does not know Blake Neff and has never met him.
 Transcript Snippet: I don't know this creature. I've never met Blake Neff.
 
 Anchored Artifacts: 
-Mentions: N-3, N-162
+Mentions: N-3, N-161
 Supports: C-6128
 Tags: relevance:context
 Investigative Direction: Neff has said the same; confirm no meeting at TPUSA or Daily Wire events.
@@ -1674,7 +1674,7 @@ Claim: The host says Neff himself says he did not join Charlie's team until what
 Transcript Snippet: He himself says that he didn't join Charlie's team until what was it, in mid-2023?
 
 Anchored Artifacts: 
-Mentions: N-162, N-1
+Mentions: N-161, N-1
 Contradicts: C-5857
 Tags: relevance:context
 Investigative Direction: Neff's own statement of his hire date versus the 2022 hire date reported earlier; check Fox News departure and TPUSA records.
@@ -1690,7 +1690,7 @@ Claim: The host says the waiting-room conversation about how she would react too
 Transcript Snippet: This is in the middle of the manhunt. Nobody knew anything.
 
 Anchored Artifacts: A-2347.1
-Mentions: N-162, N-3, N-1
+Mentions: N-161, N-3, N-1
 Related Nodes: N-10062
 Tags: relevance:core
 Investigative Direction: Establish the timing of the waiting-room conversation against the hospital pronouncement and the manhunt timeline.
@@ -1706,7 +1706,7 @@ Claim: The host says Neff will not name the person he was talking to in the wait
 Transcript Snippet: He won't name the person which makes me think usually when he develops this amnesia it's usually about Danny Philip for some reason.
 
 Anchored Artifacts: A-2347.1
-Mentions: N-162, N-372
+Mentions: N-161, N-370
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Ask Neff or the Deseret News who was in the waiting room.
@@ -1722,7 +1722,7 @@ Claim: Posing what Neff might have said in the waiting room, the host says he co
 Transcript Snippet: Blake, why didn't you say, oh, well, Andrew says that Charlie was worried someone was going to kill him.
 
 Anchored Artifacts: 
-Mentions: N-162, N-14, N-1
+Mentions: N-161, N-14, N-1
 Supports: C-5912
 Tags: relevance:core
 Investigative Direction: Establish what Kolvet told colleagues on September 9 and 10 about Kirk's fears; the host's 'Andrew' is read here as Kolvet.
@@ -1754,7 +1754,7 @@ Claim: The host infers from Neff's admission that he and others were worried abo
 Transcript Snippet: It it it it's starting to feel like Blake for some reason had confidence and knew that I would not trust the science on Charlie's assassination.
 
 Anchored Artifacts: A-2347.1
-Mentions: N-162, N-3, N-1
+Mentions: N-161, N-3, N-1
 Tags: relevance:core
 Investigative Direction: Inference only; the unnamed waiting-room speaker would need to be identified to test it.
 
@@ -1882,7 +1882,7 @@ Claim: The host says the Usha Vance 15 minutes advice is already seared into the
 Transcript Snippet: They're seared into the first speech that you gave. They're seared into the conference call that you said at Turning Point USA.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-354
+Mentions: N-2, N-352
 Related Nodes: N-10000
 Supports: C-3400
 Tags: relevance:core
@@ -1929,7 +1929,7 @@ Claim: The host says Erika's op-ed line that she is not angry at God repeats wha
 Transcript Snippet: She wants you to know she's not angry at God. Yes, we got all of this from the Jesse Watters interview.
 
 Anchored Artifacts: A-2348.1
-Mentions: N-2, N-215
+Mentions: N-2, N-213
 Supports: C-3401
 Tags: relevance:core
 Investigative Direction: Compare the op-ed text with the Watters interview transcript.
@@ -1961,7 +1961,7 @@ Claim: The host says that within six days of the shooting Erika was laughing at 
 Transcript Snippet: You were living within 6 days laughing at emojis. You're laughing at emojis on a Zoom call.
 
 Anchored Artifacts: 
-Mentions: N-2, N-215
+Mentions: N-2, N-213
 Tags: relevance:core
 Investigative Direction: Identify the Zoom call and obtain the recording or attendee accounts.
 
@@ -1976,7 +1976,7 @@ Claim: The host says Erika told the Jesse Watters interview that she did not eve
 Transcript Snippet: you didn't even need a sleeping pill. You didn't even need to take melatonin.
 
 Anchored Artifacts: 
-Mentions: N-2, N-215
+Mentions: N-2, N-213
 Supports: C-5608
 Tags: relevance:core
 Investigative Direction: Check the Watters interview transcript for the sleep remarks.
@@ -1992,7 +1992,7 @@ Claim: The host says that the New York Times was involved in Operation Mockingbi
 Transcript Snippet: Operation Mockingbird. The New York Times was involved in that. After they committed another a different state assassination. Assassination of JFK.
 
 Anchored Artifacts: 
-Mentions: N-715, N-2
+Mentions: N-713, N-2
 Related Nodes: N-10061, N-10968
 Tags: relevance:tangential
 Investigative Direction: Cite the Church Committee findings on press relationships; the host gives no source on air.
@@ -2024,7 +2024,7 @@ Claim: The host says TPUSA has an event planned at UVU on Thursday, that she doe
 Transcript Snippet: I guess that I don't know who's been listed as speaking at that event. I think Glenn Beck. Is Erika speaking there?
 
 Anchored Artifacts: 
-Mentions: N-241, N-2
+Mentions: N-239, N-2
 Related Nodes: N-10012, N-10000
 Tags: relevance:core
 Investigative Direction: Check the official anniversary event program for speakers and date.
@@ -2073,7 +2073,7 @@ Claim: The host says Rabbi Wolicki was on the call, correcting herself that it w
 Transcript Snippet: Rabbi Wolicki was on FaceTime call. Uh sorry, I'm saying FaceTime. I meant Zoom call because he was in Arizona at the time. Uh we've got Josh Hammer
 
 Anchored Artifacts: 
-Mentions: N-167, N-55
+Mentions: N-166, N-55
 Related Nodes: N-10169
 Supports: C-1397
 Tags: relevance:core
@@ -2138,7 +2138,7 @@ Claim: The host says that it was not tongue in cheek because Andrew Cooper gave 
 Transcript Snippet: We know it wasn't tongue-in-cheek because Andrew Cooper gave that conversation to Tulsi Gabbard's office.
 
 Anchored Artifacts: 
-Mentions: N-333
+Mentions: N-331
 Tags: relevance:core
 Investigative Direction: Identify Andrew Cooper, whom the host names only by this spelling, and confirm what he provided to the DNI's office.
 
@@ -2343,7 +2343,7 @@ Claim: The host says she believes Brad Parscale was on the board of Salem Media 
 Transcript Snippet: Brad Parscale, I believe, was on the of Salem Media, or he was at least um an executive at Salem Media, who brought this forward.
 
 Anchored Artifacts: A-2900.1
-Mentions: N-436
+Mentions: N-434
 Related Nodes: N-10657
 Supports: C-2866
 Tags: relevance:core

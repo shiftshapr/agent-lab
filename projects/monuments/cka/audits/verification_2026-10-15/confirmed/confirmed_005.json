@@ -1,0 +1,528 @@
+[
+ {
+  "claim": "C-6486",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names no one but the host; Bowyer only implicit via 'as he mentioned' in transcript, Robinson absent."
+ },
+ {
+  "claim": "C-6498",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names only the host."
+ },
+ {
+  "claim": "C-6501",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Netanyahu is not in the claim."
+ },
+ {
+  "claim": "C-1387",
+  "episode": 16,
+  "decision": "accept",
+  "fix": {
+   "claim": "A user identified as Britta publicly asked whether Candace Owens is posting fake group-chat screenshots to conveniently back up her narrative.",
+   "mentions": [
+    "N-3",
+    "N-873"
+   ],
+   "names": [
+    {
+     "wrong": "Britta Widener",
+     "right": "Britta Weidner",
+     "source": "https://x.com/RealCandaceO/status/2086210350601404476"
+    }
+   ]
+  },
+  "note": "Transcript is a question ('I'm just asking questions'). Weidner (@nosoup4knowles) confirmed via Owens X post and Primetimer."
+ },
+ {
+  "claim": "C-1389",
+  "episode": 16,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-205",
+    "N-3"
+   ]
+  },
+  "note": "Fuentes is named in the claim."
+ },
+ {
+  "claim": "C-1392",
+  "episode": 16,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:44:40",
+   "names": [
+    {
+     "wrong": "Arena Mappin",
+     "right": "Irina Mappin",
+     "source": "https://x.com/JohnMappin/status/1975380093171093617"
+    }
+   ]
+  },
+  "note": "Letter introduced just after 44:38; Irina Mappin confirmed by John Mappin X post and Substack."
+ },
+ {
+  "claim": "C-1393",
+  "episode": 16,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Arena Mappin",
+     "right": "Irina Mappin",
+     "source": "https://x.com/JohnMappin/status/1975380093171093617"
+    }
+   ]
+  },
+  "note": "Irina Mappin confirmed (John and Irina Mappin, X post / Substack)."
+ },
+ {
+  "claim": "C-1394",
+  "episode": 16,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:49:50",
+   "names": [
+    {
+     "wrong": "Arena Mappin",
+     "right": "Irina Mappin",
+     "source": "https://x.com/JohnMappin/status/1975380093171093617"
+    }
+   ]
+  },
+  "note": "Quote read at 49:54; Irina Mappin confirmed."
+ },
+ {
+  "claim": "C-1395",
+  "episode": 16,
+  "decision": "amend",
+  "fix": {
+   "claim": "Candace says the donor, John Mappin (with his wife), made introductions that unlocked more donations for Kirk, and is the donor Kirk turned to when she said they needed to be in the UK; he could have an event set up to start Turning Point UK, which was where she first laid eyes on George (her husband).",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-30",
+    "N-157",
+    "N-158"
+   ],
+   "names": [
+    {
+     "wrong": "Arena Mappin",
+     "right": "Irina Mappin",
+     "source": "https://x.com/JohnMappin/status/1975380093171093617"
+    }
+   ]
+  },
+  "note": "Fix is right but the claim names Kirk, so N-1 must stay in Mentions."
+ },
+ {
+  "claim": "C-12083",
+  "episode": 16,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Josh Hammer appears only in a hypothetical, not in the claim."
+ },
+ {
+  "claim": "C-12086",
+  "episode": 16,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14"
+   ]
+  },
+  "note": "Claim names only Kolvet; Blake Neff is not referred to."
+ },
+ {
+  "claim": "C-12095",
+  "episode": 16,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or refer to Fuentes."
+ },
+ {
+  "claim": "C-12131",
+  "episode": 16,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-157",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to John Mappin only, not his wife."
+ },
+ {
+  "claim": "C-12140",
+  "episode": 16,
+  "decision": "accept",
+  "fix": {
+   "claim": "In answer to a viewer asking about Kirk's security team, the host says she has everybody's names, including the people that 'we' couldn't identify."
+  },
+  "note": "Host says 'the people that we couldn't identify', not the investigation."
+ },
+ {
+  "claim": "C-1406",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-165"
+   ]
+  },
+  "note": "Matt Walsh is not in the claim."
+ },
+ {
+  "claim": "C-1410",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Hammer's First Tweet About Public Execution Was in 2022 About the Uvalde Shooter",
+   "claim": "The host says the first time Josh Hammer tweeted about a public execution was in 2022, about the Uvalde shooter (just as with the Buffalo shooter), and that it is not something he regularly tweets about or discusses."
+  },
+  "note": "Host says 'first time', not 'only'."
+ },
+ {
+  "claim": "C-1414",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-167",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie."
+ },
+ {
+  "claim": "C-1415",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Dinesh D'Souza sent out a tweet that morning to convince people they should not watch her, reading it as: 'I can't comment on Candace because it's quite obviously a freak show. It's like driving on the highway and seeing a farmer having sex with a sheep.'",
+   "mentions": [
+    "N-171",
+    "N-3"
+   ]
+  },
+  "note": "Intent is the host's gloss; Yishai not in claim. Matches transcript."
+ },
+ {
+  "claim": "C-1416",
+  "episode": 17,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Alex Jones says Candace Owens sent out a 'dead man switch' to the Tate brothers, Dave Smith, Max Blumenthal, Tucker Carlson and others.",
+   "timestamp": "00:54:31",
+   "mentions": [
+    "N-93",
+    "N-3",
+    "N-49",
+    "N-22",
+    "N-173",
+    "N-39"
+   ]
+  },
+  "note": "Fix right; 'dead man switch' begins at 54:36, so 5s earlier is 54:31."
+ },
+ {
+  "claim": "C-1417",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Alex Jones says Candace Owens sent out a dead man switch just like James O'Keefe did to him and a few others right before releasing the Prince Andrew material, which Jones calls dangerous.",
+   "mentions": [
+    "N-93",
+    "N-170",
+    "N-3"
+   ]
+  },
+  "note": "Jones says 'dangerous'; 'effectiveness' unsupported. Candace is named."
+ },
+ {
+  "claim": "C-1418",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a Josh Hammer post the host reads aloud, Hammer says he was given access to a letter a few months earlier and that 'Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel.'",
+   "mentions": [
+    "N-55",
+    "N-22",
+    "N-3",
+    "N-1"
+   ],
+   "timestamp": "00:02:50"
+  },
+  "note": "Part of the Hammer tweet collage read at ~02:55."
+ },
+ {
+  "claim": "C-1421",
+  "episode": 17,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says what Tyler Bowyer did on X was very sloppy: he was accusatory and called people names.",
+   "timestamp": "01:07:43"
+  },
+  "note": "Not at 07:54; host says this at ~01:07:48-01:07:56 ('very sloppy what Tyler Bowyer did on X. He was accusatory. He called people names')."
+ },
+ {
+  "claim": "C-1424",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says, while plugging merchandise, 'Join us in prison when Laura Loomer sends us for writing CIA in parody.'",
+   "timestamp": "01:14:58"
+  },
+  "note": "Loomer mention is at ~01:15:03, not 58:00-59:00."
+ },
+ {
+  "claim": "C-3644",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host plugs her merchandise and says people can join her in prison when Laura Loomer sends them for writing CIA in parody, because they do not want to be in the CIA; she asks someone to get her the green CIA hat people are tagging her in.",
+   "mentions": [
+    "N-3",
+    "N-60"
+   ]
+  },
+  "note": "No 'Candace/Decentralized Intelligence Agency' gloss in transcript."
+ },
+ {
+  "claim": "C-9342",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a JTV clip the host plays, Hammer says that, as the interviewer Ali mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'"
+  },
+  "note": "Hijack accusation is aimed at Candace ('she's chosen'), not Carroll."
+ },
+ {
+  "claim": "C-9343",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-55",
+    "N-46",
+    "N-102"
+   ]
+  },
+  "note": "Claim does not name Ali."
+ },
+ {
+  "claim": "C-9361",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-22",
+    "N-1"
+   ]
+  },
+  "note": "Megyn Kelly is not in the claim."
+ },
+ {
+  "claim": "C-9366",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name Kirk."
+ },
+ {
+  "claim": "C-9389",
+  "episode": 17,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says John and Irina Mappin wrote a letter the day before the episode saying that continuing Charlie's legacy means continuing to fight for truth. The letter is not shown.",
+   "names": [
+    {
+     "wrong": "Arena Mapel",
+     "right": "Irina Mappin",
+     "source": "https://johnmappin.substack.com/p/candace-owens-charlie-kirk-and-the"
+    },
+    {
+     "wrong": "Mapel",
+     "right": "Mappin",
+     "source": "https://x.com/JohnMappin/status/1975380093171093617"
+    }
+   ]
+  },
+  "note": "Irina Mappin confirmed (Substack/X); alias removed from claim."
+ },
+ {
+  "claim": "C-1425",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she is telling viewers 100% that Charlie Kirk was shot from the front and the bullet did not exit, and that she has fact-checked this from multiple sources.",
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Host's assertion; Kolvet not in claim."
+ },
+ {
+  "claim": "C-1426",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Kolvet not in claim."
+ },
+ {
+  "claim": "C-1427",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Kolvet not in claim."
+ },
+ {
+  "claim": "C-1430",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Witness is unnamed; Cooper Brown is not identified as the witness."
+ },
+ {
+  "claim": "C-1437",
+  "episode": 18,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that at the small New Hampshire college she found someone with Cooper Brown's name, but it was a girl who graduated in the year his resume gives; separately, the Phoenix-based number she was given links to somebody else, aged 32, with the same last name, and she says she does not know who he is."
+  },
+  "note": "Number came from the self-described cousin, not the girl; proposed fix ties it to 'her'."
+ },
+ {
+  "claim": "C-1448",
+  "episode": 18,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says a second plane, which she remembers as having '888' in its identification, is the plane of Derek Maxfield and his wife Shelaine Maxfield, who she says sold a beauty company.",
+   "mentions": [
+    "N-181"
+   ],
+   "names": [
+    {
+     "wrong": "Derek Maxwell",
+     "right": "Derek Maxfield",
+     "source": "https://www.latintimes.com/private-jet-that-took-off-utah-after-charlie-kirk-assassination-disappears-mid-flight-sparking-589463"
+    },
+    {
+     "wrong": "Derek Maxwell, his wife Ghislaine Maxwell",
+     "right": "Derek Maxfield, his wife Shelaine Maxfield",
+     "source": "https://saprea.org/leadership/"
+    }
+   ]
+  },
+  "note": "Maxfield (N888KG, Younique) and wife Shelaine confirmed; drop alias from claim, scope wife fix so real Ghislaine Maxwell refs are untouched."
+ },
+ {
+  "claim": "C-1452",
+  "episode": 18,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Derek Maxfield stated on Instagram that the air traffic control center had agreed they could stop transponding.",
+   "names": [
+    {
+     "wrong": "Derek Maxwell",
+     "right": "Derek Maxfield",
+     "source": "https://www.latintimes.com/private-jet-that-took-off-utah-after-charlie-kirk-assassination-disappears-mid-flight-sparking-589463"
+    }
+   ]
+  },
+  "note": "Maxfield confirmed (N888KG owner); no mis-transcription alias in claim text."
+ },
+ {
+  "claim": "C-1460",
+  "episode": 18,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14"
+   ]
+  },
+  "note": "Cooper Brown not referred to in claim."
+ },
+ {
+  "claim": "C-1461",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that in a slowed-down clip it is exactly 834 milliseconds from when the shot is heard until Mikey McCoy puts his phone to his ear.",
+   "mentions": [
+    "N-194"
+   ]
+  },
+  "note": "Slowed-down clip, not frame-by-frame; only McCoy named."
+ },
+ {
+  "claim": "C-1462",
+  "episode": 19,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says she and her team found what they think could be the moment, approximately 1 minute 45 seconds before the gunshot, when Mikey McCoy is on his phone.",
+   "mentions": [
+    "N-194"
+   ],
+   "timestamp": "00:13:17"
+  },
+  "note": "Fix right; the 1:45 statement is spoken ~13:22, before the 13:33 clip."
+ },
+ {
+  "claim": "C-1463",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-194"
+   ]
+  },
+  "note": "McCoy is named in the claim."
+ }
+]

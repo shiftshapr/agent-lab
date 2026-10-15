@@ -1,0 +1,783 @@
+[
+ {
+  "claim": "C-1248",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'Charlie's brought to the SUV' at 40s; handcuffs at 1:48 mark (shot-relative). Label says 1:48 after SUV departs.",
+  "fix": {
+   "label": "George Zinn Arrested ~1:48 After Shot Near Where Charlie's SUV Departed",
+   "claim": "Per the host's timeline, Charlie is brought to the SUV about 40 seconds after the shot and George Zinn is in handcuffs at the 1:48 mark, near where the SUV had just departed."
+  }
+ },
+ {
+  "claim": "C-1249",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1250",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'Who actually shared that photo... somebody who lived in Utah who advertises with TPUSA'; not 'first circulated'.",
+  "fix": {
+   "claim": "Host says the person who shared the viral handcuffs photo lived in Utah and advertises with Turning Point USA."
+  }
+ },
+ {
+  "claim": "C-1251",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Spoken 17:18-17:38. Spelling Wirefy/Wirefi unresolved: no web source found for company.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1252",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1253",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'within hours' not said; host says he 'told them a description'; public description came <24h later. Dropped 'assuming his story checks out'.",
+  "fix": {
+   "claim": "Per the rooftop videographer as relayed by the host, he told authorities the shooter was in tactical gear and a face mask, not the jeans in the description the public received less than 24 hours later."
+  }
+ },
+ {
+  "claim": "C-1254",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Text says 'may have used a 10 or 20 round magazine'; 'I would guess'. Claim says 'likely used'.",
+  "fix": {
+   "claim": "The eyewitness texted the host that the sharp crack and shorter rifle platform suggested a smaller rifle, not a big hunting rifle, and that the assassin may have used a 10 or 20-round magazine."
+  }
+ },
+ {
+  "claim": "C-1255",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika (N-2) not named in claim. Kolvet says 'No' to converting; 'remained Protestant' not said.",
+  "fix": {
+   "claim": "In a clip the host plays, Andrew Kolvet tells Alex Clark that Charlie was not becoming Catholic but really loved Catholic mass.",
+   "mentions": [
+    "N-1",
+    "N-14",
+    "N-99"
+   ]
+  }
+ },
+ {
+  "claim": "C-1256",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names neither Bill Ackman nor Robert Shillman; they appear only later in host's remarks.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-1257",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Kolvet: 'I think massive shock... they wanted to make sure they didn't get stolen'; 'not to suppress footage' added; hedge dropped.",
+  "fix": {
+   "claim": "In a clip the host plays, Kolvet says he thinks the team took the SD cards because, even in the shock, they understood the cameras would be evidence and wanted to keep them from being stolen, so law enforcement could get them."
+  }
+ },
+ {
+  "claim": "C-1258",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip speaker saying 'I remember saying...' is not diarized (host introduces 'Alex and Andrew'); Kolvet unconfirmed. 'by donors' in label is host framing.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1259",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1260",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1261",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label wrong (Erika's father). Host relays what Tiffany told her: 'her sister ran as lieutenant governor alongside Phil Lyman'.",
+  "fix": {
+   "label": "Tiffany Barker's Sister Ran for Lt. Gov. With Phil Lyman",
+   "claim": "Host says Tiffany Barker told her that her sister ran as lieutenant governor alongside Phil Lyman."
+  }
+ },
+ {
+  "claim": "C-1262",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1263",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label states payer is an unknown party as fact; Chris's comment only asks who paid. Commenter name uncertain (host: 'Michelle... maybe Chris').",
+  "fix": {
+   "label": "Commenter Asks Who Paid for Crime Scene Pavers"
+  }
+ },
+ {
+  "claim": "C-1264",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1265",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim's subject is Charlie Kirk but Mentions empty.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1266",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim's subject is Charlie Kirk but Mentions empty.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3641",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'a passing reference to the show's CIA hat rather than a merch plug' is editorial, not said.",
+  "fix": {
+   "claim": "Reacting to Trump calling vaccine ingredients poison, the host jokes that Trump may have signed up to candace.com and is \"wearing um a CIA hat and watching.\""
+  }
+ },
+ {
+  "claim": "C-3727",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Speaker within clip not diarized. 'Michael Nolles' is a transcription error for Knowles (confirmed); claim already uses Knowles.",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Michael Nolles",
+     "right": "Michael Knowles",
+     "source": "https://660amtheanswer.com/podcasts/the-charlie-kirk-show/charlie-and-michael-knowles-debate-religion-at-amf"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-12001",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12002",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12003",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12004",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12005",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12006",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12007",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12008",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12009",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12010",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12011",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12012",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12013",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12014",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12015",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12016",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12017",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12018",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12019",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12020",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12021",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12022",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'she never said the first two' misattributes: host says SHE didn't say them ('I have no idea who said'). SD cards: host says 'they're going to address', not Alex's tease. Erika not in claim.",
+  "fix": {
+   "claim": "The host says Alex Clark teased unfiltered answers to burning questions such as whether Charlie was converting to Catholicism and whether he took $150 million from Israel, says she has no idea who said the first and that the second is not something said on her show, and adds that they are also going to address the SD cards.",
+   "mentions": [
+    "N-3",
+    "N-99"
+   ]
+  }
+ },
+ {
+  "claim": "C-12023",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Erika's/Charlie's Mass attendance is not about the assassination; context at most.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12024",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12025",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12026",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12027",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12028",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12029",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12030",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host disclaiming who said '150 million' is background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12031",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Netanyahu spending on a campaign is background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12032",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12033",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12034",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12035",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim has nonsensical '(transcribed Bob Shillman)'; label says 'Shulman'. Host: 'Do I know for a fact...? Yes, they do.'",
+  "fix": {
+   "label": "Host Says Foreign Agents for Israel Gave Money to TPUSA and Names Ackman and Shillman as Possible Donors",
+   "claim": "The host says she knows for a fact that foreign agents working on behalf of Israel gave money to Turning Point and raises whether it was Bill Ackman, Bob Shillman or other big donors."
+  }
+ },
+ {
+  "claim": "C-12036",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12037",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12038",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12039",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

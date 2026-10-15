@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a0bc3eb2ea2af5020423c10e7e02d4d3bb05ac5892b4c56a9ad9bdc3ed449838
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-919, N-11336
-  - Hole-minted Nodes (reintro-ep043): N-395
+  - Tip-minted Nodes (supplement_2026-10f): N-917, N-11336
+  - Hole-minted Nodes (reintro-ep043): N-393
   - Tip-minted Nodes (reintro-ep043): N-11186, N-11287
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12477–C-12523
-  - New Nodes Introduced: N-316, N-317, N-318, N-319, N-320, N-321, N-10317, N-10318, N-10320, N-10321, N-10322, N-10325
-  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10316, N-10324, N-10319, N-10323, N-7, N-9, N-22, N-40, N-162, N-194, N-224, N-271, N-10000, N-10015, N-10193, N-10202, N-10340, N-11337
+  - New Nodes Introduced: N-314, N-315, N-316, N-317, N-318, N-319, N-10317, N-10318, N-10320, N-10321, N-10322, N-10325
+  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-10316, N-10324, N-10319, N-10323, N-7, N-9, N-22, N-40, N-161, N-192, N-222, N-269, N-10000, N-10015, N-10193, N-10202, N-10340, N-11337
   - (see registers)
 
 ---
@@ -94,7 +94,7 @@ Video Timestamp: 00:14:36–00:15:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1865, C-1866, N-316, N-10317*
+*Related: C-1865, C-1866, N-314, N-10317*
 
 **A-1515.2** Read-aloud quote from a website identified as "CorpWatch" describing the Angolagate scandal, citing a March 25 Global Witness report ("All the President's Men")
 
@@ -104,7 +104,7 @@ Video Timestamp: 00:15:38–00:17:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1867, C-1868, C-1869, C-1870, C-1871, N-316, N-317, N-318, N-319*
+*Related: C-1867, C-1868, C-1869, C-1870, C-1871, N-314, N-315, N-316, N-317*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:30:18–00:33:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (video exists; result of test as shown)
 
-*Related: C-1872, C-1873, N-320, N-10319, N-66, N-192*
+*Related: C-1872, C-1873, N-318, N-10319, N-66, N-190*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:29:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1874, N-321*
+*Related: C-1874, N-319*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:40:18–00:41:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (dates as stated by commenter)
 
-*Related: C-1877, N-282*
+*Related: C-1877, N-280*
 
 **A-1518.5** Viewer comment from "CCXX": references life insurance taken out on Charlie Kirk and $1.5 million routing; mentions Daily Mail story on life insurance
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:10:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12486, C-12487, C-12488, N-3, N-316, N-10317*
+*Related: C-12486, C-12487, C-12488, N-3, N-314, N-10317*
 
 ---
 
@@ -237,7 +237,7 @@ Video Timestamp: 00:25:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-12505, C-12506, C-12507, C-12508, N-224, N-271, N-919, N-395*
+*Related: C-12505, C-12506, C-12507, C-12508, N-222, N-269, N-917, N-393*
 
 **A-3210.2** Host verbal description of what Tim Pool said on the same show about her viewers and his lost subscribers (not shown)
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:24:03
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12503, C-12504, N-271, N-224*
+*Related: C-12503, C-12504, N-269, N-222*
 
 ---
 
@@ -259,7 +259,7 @@ Video Timestamp: 00:19:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12499, C-12500, C-12501, N-1, N-274, N-10320*
+*Related: C-12499, C-12500, C-12501, N-1, N-272, N-10320*
 
 ---
 
@@ -318,7 +318,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-316** Pierre Falcone
+**N-314** Pierre Falcone
 
 French-born arms dealer convicted in Angolagate scandal; reportedly currently residing in Scottsdale, Arizona; introduced in this episode as a potential link between France, Israel, Angola, and the United States.
 
@@ -327,11 +327,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, C-1870, N-317, N-318, N-319, N-10317*
+*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, C-1870, N-315, N-316, N-317, N-10317*
 
 ---
 
-**N-317** Arcadi Gaydamak
+**N-315** Arcadi Gaydamak
 
 Israeli-Russian-Israeli businessman; co-conspirator in Angolagate via Brenco International; convicted in absentia in France.
 
@@ -340,11 +340,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.2, C-1868, C-1870, N-316*
+*Related: A-1515.2, C-1868, C-1870, N-314*
 
 ---
 
-**N-318** Jean-Christophe Mitterrand
+**N-316** Jean-Christophe Mitterrand
 
 Son of former French president François Mitterrand; implicated in Angolagate as having "special access" to Angolan government.
 
@@ -353,11 +353,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.2, C-1871, N-316, N-319*
+*Related: A-1515.2, C-1871, N-314, N-317*
 
 ---
 
-**N-319** François Mitterrand
+**N-317** François Mitterrand
 
 Former President of France (term during Angolagate exposure); implicated via his son.
 
@@ -366,11 +366,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1515.2, C-1871, N-318*
+*Related: A-1515.2, C-1871, N-316*
 
 ---
 
-**N-320** Jesse Kege
+**N-318** Jesse Kege
 
 YouTuber ("One Shot TV") who produced the .30-06 ballistic dummy demonstration; no prior horse in the Charlie Kirk case per host's description.
 
@@ -383,7 +383,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-274** Dan Flood
+**N-272** Dan Flood
 
 Security professional positioned to Charlie Kirk's right; per host's tip, received a message from Charlie the night before the assassination.
 
@@ -396,7 +396,7 @@ Investigative Pressure: High
 
 ---
 
-**N-157** John Mappin
+**N-156** John Mappin
 
 Referenced by viewer comment "fam"; author of "The Perfumed Pervert" essay.
 
@@ -409,7 +409,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-282** Bari Weiss
+**N-280** Bari Weiss
 
 Journalist; referenced by viewer comment as having Erika Kirk on her show on the 13th.
 
@@ -422,7 +422,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-321** Hodge Twins
+**N-319** Hodge Twins
 
 Commentator duo; tweet regarding Republican midterm losses read aloud by host.
 
@@ -444,11 +444,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1516.1, N-320*
+*Related: A-1516.1, N-318*
 
 ---
 
-**N-192** Ryan Matta
+**N-190** Ryan Matta
 
 Social media user who brought the Jesse Kege video to the host's attention.
 
@@ -457,7 +457,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1516.1, N-320*
+*Related: A-1516.1, N-318*
 
 ---
 
@@ -485,7 +485,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, N-316*
+*Related: A-1515.1, A-1515.2, C-1865, C-1866, C-1867, N-314*
 
 ---
 
@@ -511,7 +511,7 @@ Claim Count: 2
 Episode Count: (existing)
 Investigative Pressure: High
 
-*Related: A-1516.1, C-1872, C-1873, N-320*
+*Related: A-1516.1, C-1872, C-1873, N-318*
 
 ---
 
@@ -524,7 +524,7 @@ Claim Count: 1
 Episode Count: (existing)
 Investigative Pressure: High
 
-*Related: N-1, N-274*
+*Related: N-1, N-272*
 
 ---
 
@@ -589,7 +589,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1515.1, A-1515.2, N-316, N-10317*
+*Related: A-1515.1, A-1515.2, N-314, N-10317*
 
 ---
 
@@ -641,7 +641,7 @@ The host recalls his on-stage question about how people become billionaires.
 
 ---
 
-**N-224** Milo Yiannopoulos
+**N-222** Milo Yiannopoulos
 
 Commentator in the Tim Pool clip, speaking on Epstein files and TPUSA's account.
 
@@ -649,7 +649,7 @@ Commentator in the Tim Pool clip, speaking on Epstein files and TPUSA's account.
 
 ---
 
-**N-271** Tim Pool
+**N-269** Tim Pool
 
 Host of the show where Milo and George Santos appear; the host says he called her viewers stupid.
 
@@ -657,7 +657,7 @@ Host of the show where Milo and George Santos appear; the host says he called he
 
 ---
 
-**N-395** Steve Bannon
+**N-393** Steve Bannon
 
 Cited by Milo as saying Epstein was the key that picks the lock.
 
@@ -673,7 +673,7 @@ Subject of the Epstein files discussion in the Tim Pool clip.
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 TPUSA figure whose prior-episode diatribe the host references.
 
@@ -681,7 +681,7 @@ TPUSA figure whose prior-episode diatribe the host references.
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Person whose call logs a viewer comment asks to see.
 
@@ -729,7 +729,7 @@ Existing topic reused for the host's account of Tim Pool's remarks.
 
 ---
 
-**N-919** George Santos
+**N-917** George Santos
 
 First named by the host at 00:25:22 in episode 43. Former congressman who appears in the Tim Pool clip.
 
@@ -804,7 +804,7 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud by the host and attributed to "Corruption Tracker," Pierre Falcone was convicted of arms trafficking, breach of trust, misuse of corporate assets, and bribery.
 
 Anchored Artifacts: A-1515.1
-Mentions: N-316
+Mentions: N-314
 Related Nodes: N-10317
 
 Investigative Direction: Obtain primary French court records or a contemporaneous news report of the conviction to confirm charges and dates.
@@ -818,7 +818,7 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud, Pierre Falcone's original six-year sentence was overturned on appeal and replaced with a 2.5-year sentence.
 
 Anchored Artifacts: A-1515.1
-Mentions: N-316
+Mentions: N-314
 Related Nodes: N-10317
 
 Investigative Direction: Locate the appellate decision and confirm the precise revised sentence and the date it was imposed.
@@ -832,7 +832,7 @@ Claim Timestamp: 00:17:26
 Claim: The host states that Pierre Falcone reappeared in Scottsdale, Arizona, the same location as Turning Point USA.
 
 Anchored Artifacts: A-1515.2 (host read-aloud of source)
-Mentions: N-316
+Mentions: N-314
 
 *Note: This claim is sourced from the host's framing rather than from the read-aloud source text. Capture as host claim tied to read-aloud artifact; requires verification.*
 Related Nodes: N-10317
@@ -848,7 +848,7 @@ Claim Timestamp: 00:14:36–00:15:38
 Claim: According to source material read aloud, Arcadi Gaydamak was convicted (without appearing in France) of arms trafficking, tax fraud, bribery, and money laundering.
 
 Anchored Artifacts: A-1515.1
-Mentions: N-316, N-317
+Mentions: N-314, N-315
 
 Investigative Direction: Locate the French court judgment against Gaydamak and confirm the conviction and date.
 
@@ -861,7 +861,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch source read aloud by the host, the Angolagate scandal involved France, Israel, Angola, Russia, Slovakia, and the United States.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-316, N-317, N-318, N-319
+Mentions: N-314, N-315, N-316, N-317
 
 Investigative Direction: Cross-reference the March 25 Global Witness report "All the President's Men" with CorpWatch and the original French judicial findings.
 
@@ -874,7 +874,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch article citing a March 25 Global Witness report, Brenco International and the Mitterrand access channel transferred approximately $463 million in arms to Angola.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-316, N-317, N-318
+Mentions: N-314, N-315, N-316
 
 Investigative Direction: Locate the original Global Witness report figures and the French prosecutor's findings on arms volumes.
 
@@ -887,7 +887,7 @@ Claim Timestamp: 00:15:38–00:17:26
 Claim: According to a CorpWatch source, Jean-Christophe Mitterrand (son of former French president François Mitterrand) was implicated in Angolagate as having provided access to the Angolan government.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-316, N-318, N-319
+Mentions: N-314, N-316, N-317
 
 Investigative Direction: Verify Jean-Christophe Mitterrand's role via French court records.
 
@@ -900,7 +900,7 @@ Claim Timestamp: 00:32:46–00:33:21
 Claim: In a video the host plays, YouTuber Jesse Kege of One Shot TV demonstrates a 180gr FMJ .30-06 round penetrating a ballistic dummy, separating its head, and continuing through three 5-gallon water jugs placed behind; the host cites this as showing what the round would have done to Charlie Kirk.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-320
+Mentions: N-318
 Related Nodes: N-10319
 
 Investigative Direction: Obtain the full One Shot TV video, including any second-round test (150gr Hornady ballistic tip), and verify the exact penetration result shown.
@@ -914,7 +914,7 @@ Claim Timestamp: 00:33:21
 Claim: The host characterizes the One Shot TV result – that the dummy's head was severed and the round continued through water jugs – as evidence that the official story's depiction of a .30-06 ricochet is implausible.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-320
+Mentions: N-318
 Related Nodes: N-10319
 
 Investigative Direction: Cross-reference the One Shot TV demonstration with official forensic findings released by authorities.
@@ -928,7 +928,7 @@ Claim Timestamp: 00:29:16
 Claim: According to a tweet from the Hodge Twins read aloud by the host, Republicans will lose midterms because no deep state criminals have been held accountable, money is sent to corrupt foreign countries, and establishment figures are being promoted.
 
 Anchored Artifacts: A-1517.1
-Mentions: N-321
+Mentions: N-319
 
 Investigative Direction: Obtain the original tweet and confirm the exact text.
 
@@ -967,7 +967,7 @@ Claim Timestamp: 00:40:18–00:41:02
 Claim: A viewer comment provides dates for upcoming Erika Kirk media appearances (Bari Weiss on the 13th, TPUSA podcast on the 15th, AmFest on the 18th).
 
 Anchored Artifacts: A-1518.4
-Mentions: N-282, N-2
+Mentions: N-280, N-2
 Related Nodes:
 
 Investigative Direction: Verify against publicly available event listings and episode announcements.
@@ -1154,7 +1154,7 @@ Claim: The host says that after the previous episode she received a tip from ove
 Transcript Snippet: Turning Point, people that work with Turning Point or one of their, you know, action organizations, who knows which organization, they have a few, um took a meeting with this particular Pierre.
 
 Anchored Artifacts: A-3208.1
-Mentions: N-3, N-316
+Mentions: N-3, N-314
 Related Nodes: N-10317, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the tipster and any meeting record (calendar, travel, photos) linking Falcone to TPUSA or Turning Point Action.
@@ -1186,7 +1186,7 @@ Claim: The host says the person named in the tip, Pierre Falcone, lives in Scott
 Transcript Snippet: this person who lives in Scottsdale, Arizona and is a billionaire and that is where Turning Point USA is based
 
 Anchored Artifacts: A-3208.1
-Mentions: N-316
+Mentions: N-314
 Related Nodes: N-10317, N-10000
 Supports: C-1867
 Tags: relevance:core
@@ -1203,7 +1203,7 @@ Claim: The host says Pierre Falcone was involved in a scandal that almost brough
 Transcript Snippet: He was involved in a scandal that almost brought down the French government and it involved, here we go, Africa, Angola in particular, Israel, uh France and the United States.
 
 Anchored Artifacts: 
-Mentions: N-316
+Mentions: N-314
 Related Nodes: N-11186
 Supports: C-1869
 Tags: relevance:context
@@ -1220,7 +1220,7 @@ Claim: The host says it was discovered during French elections, dating to 1999, 
 Transcript Snippet: it gets discovered during the course of French elections and this is dating back to 1999 that the French government is actually involved in trafficking weapons, military grade weapons, to Angola to facilitate this war
 
 Anchored Artifacts: 
-Mentions: N-316
+Mentions: N-314
 Related Nodes: N-11186
 Tags: relevance:context
 Investigative Direction: Compare with French judicial chronology of the Angolagate investigation (investigation opened 2000).
@@ -1236,7 +1236,7 @@ Claim: The host says Brenco International sold the arms to the Angolan president
 Transcript Snippet: Now, Brenco International is run by this guy, his name is Arcadi Gaydamak.
 
 Anchored Artifacts: 
-Mentions: N-317, N-316
+Mentions: N-315, N-314
 Related Nodes: N-11186
 Tags: relevance:context
 Investigative Direction: Check French court findings on who headed Brenco International versus the related Falcone company.
@@ -1252,7 +1252,7 @@ Claim: The host says Pierre Falcone was born in Algeria and moved to France afte
 Transcript Snippet: Pierre Falcone is born in Algeria. He moves to France after the Algerian civil war.
 
 Anchored Artifacts: 
-Mentions: N-316
+Mentions: N-314
 Tags: relevance:tangential
 Investigative Direction: Check biographical sources and court records for Falcone's birthplace and arrival in France.
 
@@ -1312,7 +1312,7 @@ Claim: Reading a CorpWatch passage that cites a Global Witness report, the host 
 Transcript Snippet: Gaydamak funneled billions, billions of dollars in arms and oil-backed loans to Angola's government in return for lucrative oil contracts with with western oil companies.
 
 Anchored Artifacts: A-1515.2
-Mentions: N-317
+Mentions: N-315
 Related Nodes: N-11186
 Tags: relevance:context
 Investigative Direction: Pull the Global Witness 'All the President's Men' report and confirm the figures and wording.
@@ -1328,7 +1328,7 @@ Claim: The host says, according to her sources in France, the French found the a
 Transcript Snippet: Uh they found this to be naked corruption when he won his appeal and then afterwards Pierre Falcone just disappeared into thin air, disappeared from France because as it turns out he actually reappeared in Scottsdale
 
 Anchored Artifacts: A-1515.2
-Mentions: N-316
+Mentions: N-314
 Related Nodes: N-10317
 Supports: C-1867
 Tags: relevance:core
@@ -1376,7 +1376,7 @@ Claim: The host says she was told that Charlie also messaged Dan Flood, the secu
 Transcript Snippet: he also messaged Dan Flood, the security that's to his right, and allegedly explicitly said uh that they are going to kill me tomorrow.
 
 Anchored Artifacts: A-3211.1
-Mentions: N-1, N-274
+Mentions: N-1, N-272
 Related Nodes: N-10320, N-10340
 Tags: relevance:core
 Investigative Direction: Obtain the message thread between Kirk and Flood and the device records, subject to legal process.
@@ -1423,7 +1423,7 @@ Claim: The host says Tim Pool hosted Milo Yiannopoulos and first called her view
 Transcript Snippet: he hosted Milo Yiannopoulos on his show and first and foremost he called all of you stupid.
 
 Anchored Artifacts: A-3210.2
-Mentions: N-271, N-224, N-3
+Mentions: N-269, N-222, N-3
 Related Nodes: N-11287
 Tags: relevance:context
 Investigative Direction: Watch the Tim Pool episode in question and confirm the exact remarks and date.
@@ -1439,7 +1439,7 @@ Claim: The host says Tim Pool later in the same show lamented losing a bunch of 
 Transcript Snippet: later on in the show he kind of lamented the fact that he lost a bunch of subscribers to his show because he attacked me
 
 Anchored Artifacts: A-3210.2
-Mentions: N-271, N-3
+Mentions: N-269, N-3
 Related Nodes: N-11287
 Tags: relevance:context
 Investigative Direction: Check the Tim Pool episode and public subscriber statistics for the period.
@@ -1455,7 +1455,7 @@ Claim: In the Tim Pool clip, Milo Yiannopoulos says Steve Bannon said Jeffrey Ep
 Transcript Snippet: said who would know better as it turns out. He said that uh Epstein was the key that uh picks the lock, right?
 
 Anchored Artifacts: A-3210.1
-Mentions: N-224, N-395, N-9, N-919, N-271
+Mentions: N-222, N-393, N-9, N-917, N-269
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Locate the Bannon remark Milo cites and the Tim Pool episode; verify the 'consulted for Epstein' interjection separately.
@@ -1471,7 +1471,7 @@ Claim: In the Tim Pool clip, Milo says there is not one person who voted for Don
 Transcript Snippet: there isn't one person who voted for Donald Trump who did not want and did not expect the Epstein files to be released immediately.
 
 Anchored Artifacts: A-3210.1
-Mentions: N-224, N-9, N-919
+Mentions: N-222, N-9, N-917
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Compare with polling on Trump voters' expectations about the Epstein files.
@@ -1487,7 +1487,7 @@ Claim: In the Tim Pool clip, after a speaker describes Trump saying there are no
 Transcript Snippet: That is the moment Trumpism died. I agree. >> And don't we need a reckoning?
 
 Anchored Artifacts: A-3210.1
-Mentions: N-224, N-9, N-919
+Mentions: N-222, N-9, N-917
 Related Nodes: N-10324
 Tags: relevance:context
 Investigative Direction: Identify which panelist says this on the Tim Pool episode and the Trump remark being referenced.
@@ -1503,7 +1503,7 @@ Claim: In the Tim Pool clip, Milo Yiannopoulos calls the account from the Feds a
 Transcript Snippet: the obviously inadequate account from the Feds and Turning Point about what happened around, before, and after Charlie Kirk's death
 
 Anchored Artifacts: A-3210.1
-Mentions: N-224, N-1, N-3, N-271
+Mentions: N-222, N-1, N-3, N-269
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Confirm Milo's statement in the full Tim Pool episode; this is an opinion attributed to Milo, not a verified finding.
@@ -1519,7 +1519,7 @@ Claim: In the One Shot TV video, Jesse Kege says there are about a thousand .30-
 Transcript Snippet: we don't even know what kind of ammo was used. It could literally be anything.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-320
+Mentions: N-318
 Related Nodes: N-10319
 Tags: relevance:context
 Investigative Direction: Compare with any official statement or charging document on the cartridge type recovered.
@@ -1535,7 +1535,7 @@ Claim: In the One Shot TV video, Jesse Kege says he bought the 150gr Hornady bal
 Transcript Snippet: I actually bought this one specifically for this test just to give us the highest chance of something stopping in the target.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-320
+Mentions: N-318
 Related Nodes: N-10319
 Tags: relevance:context
 Investigative Direction: Obtain the full video and the result for the second round, which the episode does not show.
@@ -1551,7 +1551,7 @@ Claim: In the One Shot TV video, Jesse Kege describes a ballistic dummy bust on 
 Transcript Snippet: I'm not going to be able to take the shot at 140 yards.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-320
+Mentions: N-318
 Related Nodes: N-10319
 Tags: relevance:context
 Investigative Direction: Compare the setup geometry with the official shot angle and distance; obtain the earlier 140 yard video he links.
@@ -1567,7 +1567,7 @@ Claim: In the One Shot TV video, Jesse Kege says there will be almost no differe
 Transcript Snippet: There's going to be almost no difference between 30 or 40 and 140. It's a thousand yard gun.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-320
+Mentions: N-318
 Related Nodes: N-10319
 Tags: relevance:context
 Investigative Direction: Have a ballistics expert assess terminal energy at the stated ranges for the tested loads.
@@ -1583,7 +1583,7 @@ Claim: In the One Shot TV video, after the shot Jesse Kege says the result is wh
 Transcript Snippet: that right there is why people are skeptical on the official story. The 30-06 is a very hard round to stop.
 
 Anchored Artifacts: A-1516.1
-Mentions: N-320
+Mentions: N-318
 Related Nodes: N-10319
 Tags: relevance:context
 Investigative Direction: Have independent firearms experts review the video; compare with the official ballistics findings.
@@ -1633,7 +1633,7 @@ Claim: The host says the prior episode concerned Blake Neff's diatribe about why
 Transcript Snippet: last episode was regarding Blake Neff and his diatribe of, you know, why Turning Point took a while to respond.
 
 Anchored Artifacts: 
-Mentions: N-162
+Mentions: N-161
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Review the prior episode and Neff's original statement for the exact content.
@@ -1649,7 +1649,7 @@ Claim: The host reads a viewer comment asking whether the public can see Mikey's
 Transcript Snippet: Can we see Mikey's call logs and the metadata before and after 12:23 p. m.? Much more.
 
 Anchored Artifacts: A-1518.6
-Mentions: N-194
+Mentions: N-192
 Related Nodes: N-10193
 Tags: relevance:context
 Investigative Direction: Cross-reference with host-shown Mikey McCoy call logs in other episodes and request the carrier records.
@@ -1680,7 +1680,7 @@ Claim: The host tells viewers to follow John Mappin and read his essay The Perfu
 Transcript Snippet: follow John Mappin and read his essay The Perfumed Pervert.
 
 Anchored Artifacts: 
-Mentions: N-157
+Mentions: N-156
 Tags: relevance:context
 Investigative Direction: Locate the essay and review its content before any claim is drawn from it.
 
@@ -1920,7 +1920,7 @@ A-1513, A-1514, A-1515, A-1516, A-1517, A-1518
 **Claim Range:** C-1862–C-1879
 
 **New Nodes Introduced (people):**
-N-69 (Kash Patel), N-46 (Megyn Kelly), N-316 (Pierre Falcone), N-317 (Arcadi Gaydamak), N-318 (Jean-Christophe Mitterrand), N-319 (François Mitterrand), N-320 (Jesse Kege),  (Milo Yiannopoulos),  (Tim Pool),  (George Santos), N-274 (Dan Flood),  (Frank Turek),  (Nick Fuentes), N-157 (John Mappin), N-282 (Bari Weiss), N-321 (Hodge Twins),  (Tucker Carlson), N-66 (Mel / Village Crazy Lady), N-192 (Ryan Matta)
+N-69 (Kash Patel), N-46 (Megyn Kelly), N-314 (Pierre Falcone), N-315 (Arcadi Gaydamak), N-316 (Jean-Christophe Mitterrand), N-317 (François Mitterrand), N-318 (Jesse Kege),  (Milo Yiannopoulos),  (Tim Pool),  (George Santos), N-272 (Dan Flood),  (Frank Turek),  (Nick Fuentes), N-156 (John Mappin), N-280 (Bari Weiss), N-319 (Hodge Twins),  (Tucker Carlson), N-66 (Mel / Village Crazy Lady), N-190 (Ryan Matta)
 
 **New Nodes Introduced (investigation targets):**
 N-10316, N-10317, N-10319, N-10320, N-10321, N-10322, N-10323, N-10324, N-10325

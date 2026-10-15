@@ -950,7 +950,7 @@ Investigative Direction: Request close-up images and chain of custody for the ca
 **C-1150** Robinson mother recognized shooter from news photo
 
 Claim Timestamp: 00:13:50
-Claim: Robinson's mother saw the news photo of the shooter on September 11 and stated it looked like her son; she called her husband to confirm.
+Claim: Per the probable cause statement the host reads, Robinson's mother told police she saw the news photo of the shooter on September 11 and thought it looked like her son; she called her son, then expressed concern to her husband.
 Transcript Snippet: she saw the photo of the shooter in the news and thought that the shooter looked like her son
 Anchored Artifacts: A-1095.5
 Mentions: N-40
@@ -962,7 +962,7 @@ Investigative Direction: Verify timing of news publication vs. mother's call via
 **C-1151** Robinson father matched rifle to gifted weapon
 
 Claim Timestamp: 00:15:07
-Claim: Robinson's father agreed the shooter photo looked like his son and believed the rifle matched a rifle gifted to his son; he asked for a photo and Robinson did not respond.
+Claim: Per the probable cause statement the host reads, Robinson's father reported that he agreed the shooter photo looked like his son and believed the rifle matched a rifle gifted to his son; he asked for a photo of that rifle and Robinson did not respond.
 Transcript Snippet: the rifle that was given to his son as a gift
 Anchored Artifacts: A-1095.6
 Mentions: N-40
@@ -1001,7 +1001,7 @@ Claim Timestamp: 00:20:02
 Claim: Per the probable cause statement the host reads, Robinson texted his roommate Lance Twiggs 'Drop what you are doing and look under my keyboard', and Lance found a note stating 'I had the opportunity to take out Charlie Kirk and I'm going to take it'.
 Transcript Snippet: Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk
 Anchored Artifacts: A-1095.8, A-1095.9
-Mentions: N-2, N-40, N-54, N-1
+Mentions: N-40, N-54, N-1
 Related Nodes: N-10030
 Confidence: high
 Investigative Direction: Verify text and note timestamps and original device screenshots.
@@ -1079,7 +1079,7 @@ Claim Timestamp: 00:50:24
 Claim: Bill Ackman's tweet confirmed he hosted a meeting with Charlie Kirk on August 4th and 5th at the Hamptons.
 Transcript Snippet: Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
 Anchored Artifacts: A-1098.1, A-1101.1, A-1102.1
-Mentions: N-37, N-66, N-56, N-1
+Mentions: N-37, N-1
 Related Nodes: N-10033
 Confidence: high
 Investigative Direction: Cross-reference attendee statements with published itinerary.
@@ -1104,7 +1104,7 @@ Investigative Direction: Identify and corroborate attendees; request presentatio
 **C-1162** Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6
 
 Claim Timestamp: 00:51:10
-Claim: The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and the host adds that he was receiving texts calling him an antisemite and had raised Mossad/Epstein speculation.
+Claim: The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and says he and Kelly speculated about Jeffrey Epstein possibly being a Mossad agent or asset, which has been turned around on him as anti-semitism.
 Transcript Snippet: some in the pro-Israel camp are so kneejerk about calling you anti-semitic
 Anchored Artifacts: A-1099.1
 Mentions: N-1, N-9, N-46
@@ -1130,10 +1130,10 @@ Investigative Direction: Obtain the cited text messages and verify attribution.
 **C-1164** Charlie Kirk wrote letter to Netanyahu in May
 
 Claim Timestamp: 00:49:19
-Claim: Bill Ackman referenced a May letter from Charlie Kirk to Netanyahu as 'glowing'.
+Claim: The host says the letter Charlie Kirk wrote Benjamin Netanyahu in May was glowing, that he was overcome with passion and said he loved Israel, and that she finds it weird no one addresses the substance of the claims.
 Transcript Snippet: the letter Charlie wrote him in May was just like a glowing
 Anchored Artifacts: A-1100.1
-Mentions: N-1, N-36, N-37
+Mentions: N-1, N-36
 Confidence: medium
 Uncertainty: Letter not shown; only paraphrased by Ackman.
 Investigative Direction: Locate published or archived version of the May letter.
@@ -1143,7 +1143,7 @@ Investigative Direction: Locate published or archived version of the May letter.
 **C-1165** Laura Loomer pressured Charlie to distance from Tucker Carlson
 
 Claim Timestamp: 01:01:54
-Claim: Laura Loomer posted a tweet thread the week before Charlie Kirk's death pressuring him to distance himself from Tucker Carlson and warning it would ruin his company.
+Claim: The host says Laura Loomer tweeted a thread a week before Charlie Kirk died about how Kirk had to distance himself from Tucker Carlson, calls her one of the people creating online pressure, and paraphrases the thread as saying Kirk was going to ruin his company.
 Transcript Snippet: Charlie Kirk had to distance himself from Tucker Carlson
 Anchored Artifacts: A-1103.1
 Mentions: N-1, N-22, N-60
@@ -1269,10 +1269,10 @@ Investigative Direction: Identify donors; obtain internal TPUSA communications; 
 Tags: calls_for_tips
 ---
 
-**C-3634** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-3634** Host Thanks Viewers for Buying CIA Hats
 
 Claim Timestamp: 01:11:27
-Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Claim: The host thanks viewers who went to her website and bought a hat, "one of our CIA hats", and a t-shirt to support the show.
 Transcript Snippet: ...y website and bought a hat, one of our CIA hats, bought a t-shirt, um, and supported us, uh, because they're going to sue us all. We're...
 Anchored Artifacts: A-2481.1
 Mentions: N-3
@@ -1990,7 +1990,7 @@ Investigative Direction: Compare the message time with the surrender timeline an
 
 Claim Timestamp: 00:26:41
 
-Claim: Reading the indictment, the host says Robinson texted that one of his neighbors was there and was a deputy for the sheriff, which differs from the earlier account of a family friend who is a retired deputy sheriff.
+Claim: Reading the indictment, the host says Robinson texted that one of his neighbors was there and was a deputy for the sheriff.
 
 Transcript Snippet: One of my neighbors is here. He is a deputy for the sheriff."
 
@@ -2038,7 +2038,7 @@ Investigative Direction: Compare the indictment's excerpts to the full message l
 
 Claim Timestamp: 00:27:38
 
-Claim: The host says that, in her view, the published messages are clearly doctored, and that authorities may be doing so to protect Tyler or be forthcoming only in part, which she finds unacceptable.
+Claim: The host says the messages are, in her view, clearly doctored, that they could decide why they are doing that, for example to present Tyler as forthcoming and protect him in some capacity, and that she finds this unacceptable.
 
 Transcript Snippet: Yeah, these messages are clearly doctorred is what I would say.
 
@@ -2247,7 +2247,7 @@ Investigative Direction: Identify the donors and callers named by the host's sou
 
 Claim Timestamp: 00:40:32
 
-Claim: The host says there have been frantic calls from Seth Dillon.
+Claim: The host, continuing her remark about donors making frantic calls, says "Frantic calls from Seth Dillon. Oh my god," without citing any specific call.
 
 Transcript Snippet: Okay. Frantic calls from Seth Dillon. Oh my god. The truth is that Charlie was under immense pressure
 
@@ -2702,7 +2702,7 @@ Investigative Direction: Locate the tweet and its date.
 
 Claim Timestamp: 00:55:49
 
-Claim: The host says that after the genocide tweet she was suddenly flooded with messages from people, naming Dave Rubin, asking what she meant and saying they could help her.
+Claim: The host says that after the genocide tweet she was suddenly flooded with messages from people, naming Dave Rubin, and that when she asked what they meant by that, they texted her that they could help her.
 
 Transcript Snippet: And I was suddenly being flooded with messages from people all Dave Dave Rubin I remember this.
 
@@ -2783,7 +2783,7 @@ Investigative Direction: Match Netanyahu's own words in the podcast interviews w
 
 Claim Timestamp: 00:59:09
 
-Claim: The host says that, using a corporate term, it feels to her a bit like a hostile takeover: Charlie built the company organically on his honest ideas, the company got a lot of money, and then his ideas were pressed to change.
+Claim: The host says that, using a corporate term, it feels to her a bit like a hostile takeover: Charlie built the company organically on his honest ideas, the company got a lot of money, and his ideas were starting to change or maybe add more color while he was getting financial threats.
 
 Transcript Snippet: a bit like a hostile takeover. Okay? Charlie builds the company organically on the basis of Charlie and Charlie's honest ideas.
 
@@ -2832,7 +2832,7 @@ Investigative Direction: Collect post-assassination statements by Hamptons atten
 
 Claim Timestamp: 01:00:19
 
-Claim: The host relays a tip from someone who says they worked for Turning Point for two years: that Turning Point has never done a weekend summit without publicizing it, as the Hamptons weekend was not publicized until Bill Ackman posted the itinerary.
+Claim: The host relays a tip from someone who says they worked for Turning Point for two years, asking whether Turning Point has ever held a weekend summit without publicizing it, and noting that the Hamptons attendees never mentioned it being a Turning Point weekend until Bill Ackman spoke openly about it.
 
 Transcript Snippet: Have you ever heard of Turning Point doing a a weekend summit and not publicizing it?
 
@@ -3008,7 +3008,7 @@ Investigative Direction: Not a record that can be independently tested; the fami
 
 Claim Timestamp: 01:13:29
 
-Claim: The host reads a viewer comment from Chips saying the text chain from Tyler to his boyfriend cannot be real because no 22-year-old uses perfect grammar with commas and periods, and the host agrees she wants more on the chain.
+Claim: The host reads a viewer comment from Chips about the text chain from Tyler to his boyfriend saying no 22-year-old uses perfect grammar in a text chain, with commas and periods, and the host says something about the text chain tells her she needs a little more about it.
 
 Transcript Snippet: Chips writes the text chain from Tyler to his boyfriend. No 22-year-old no 22-year-old uses perfect grammar in a text chain commas and periods.
 
@@ -3024,7 +3024,7 @@ Investigative Direction: Compare the quoted messages' grammar and punctuation wi
 
 Claim Timestamp: 01:13:47
 
-Claim: The host reads a viewer comment from Bible with Bell saying not to believe the texts for a second because he was worried about leaving evidence but then conveniently texted every detail, and the host adds that she does not want to leave evidence except an elaborate text chain that explains motive and that he acted alone.
+Claim: The host reads a viewer comment from Bible with Bell saying not to believe the texts for a second because he was worried about leaving evidence but then conveniently texted every detail, and the host sarcastically voices him saying he does not want to leave any evidence other than a very elaborate text chain that gives his motive and says he acted alone.
 
 Transcript Snippet: Bible with Bell writes, "Don't believe these texts for a second." He was worried about leaving evidence,
 
@@ -3040,7 +3040,7 @@ Investigative Direction: Obtain the complete text log and device extractions and
 
 Claim Timestamp: 01:14:10
 
-Claim: The host says it feels a little fake and gay to her, and that there will be no fakeness in this investigation, referring to the elaborate text chain.
+Claim: The host says it feels a little fake and gay to her, and that there will be no fakeness and no gayness in this investigation, referring to the elaborate text chain.
 
 Transcript Snippet: It feels a little fake and gay. Got to tell you guys, it feels a little fake and gay.
 

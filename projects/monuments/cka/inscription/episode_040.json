@@ -33,7 +33,7 @@
             "C-1823"
           ],
           "related_nodes": [
-            "N-162",
+            "N-161",
             "N-10307"
           ],
           "tags": [],
@@ -61,8 +61,8 @@
             "C-1825"
           ],
           "related_nodes": [
-            "N-306",
-            "N-307"
+            "N-304",
+            "N-305"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -89,7 +89,7 @@
             "C-1827"
           ],
           "related_nodes": [
-            "N-308"
+            "N-306"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -252,8 +252,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "TPUSA-affiliated producer of the Charlie Kirk Show; delivered TPUSA's formal public response in this episode by video statement.",
@@ -277,8 +277,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-306",
-      "ref": "N-306",
+      "@id": "N-304",
+      "ref": "N-304",
       "name": "Cam Higby",
       "type": "person",
       "description": "Pentagon-credentialed journalist who asked the press secretary about a French military plot to assassinate Candace Owens at the December 3 briefing.",
@@ -296,8 +296,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-307",
-      "ref": "N-307",
+      "@id": "N-305",
+      "ref": "N-305",
       "name": "Kingsley Wilson",
       "type": "person",
       "description": "Pentagon press secretary who answered Cam Higby's question at the December 3 briefing.",
@@ -315,8 +315,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-308",
-      "ref": "N-308",
+      "@id": "N-306",
+      "ref": "N-306",
       "name": "The Game",
       "type": "person",
       "description": "Rapper with an upcoming mixtape containing \"The Assassination of Candace Owens\" track.",
@@ -352,7 +352,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1102,8 +1102,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-170",
-      "ref": "N-170",
+      "@id": "N-169",
+      "ref": "N-169",
       "name": "James O'Keefe",
       "type": "person",
       "description": "James O'Keefe, named by the host among trusted Pentagon press corps additions.",
@@ -1119,8 +1119,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Mikey McCoy, subject of Neff's and the host's exchange about birth certificate, wife, and phone call.",
@@ -1141,8 +1141,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-226",
+      "ref": "N-226",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Shawn Ryan, host of the interview in which Harpole discussed first aid.",
@@ -1175,8 +1175,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole, security figure whose Shawn Ryan statement is cited.",
@@ -1192,8 +1192,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Ryan Reynolds",
       "type": "person",
       "description": "Ryan Reynolds, named by the host with Blake Lively.",
@@ -1209,8 +1209,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-383",
-      "ref": "N-383",
+      "@id": "N-381",
+      "ref": "N-381",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Emmanuel Macron, party to the September 10 call with Trump.",
@@ -1246,8 +1246,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-490",
-      "ref": "N-490",
+      "@id": "N-488",
+      "ref": "N-488",
       "name": "Blake Lively",
       "type": "person",
       "description": "Blake Lively, named by the host among her prior investigations.",
@@ -1263,8 +1263,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-504",
-      "ref": "N-504",
+      "@id": "N-502",
+      "ref": "N-502",
       "name": "Phil Tourney",
       "type": "person",
       "description": "Phil Tourney, USS Liberty interview guest the host praises.",
@@ -1391,8 +1391,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-719",
-      "ref": "N-719",
+      "@id": "N-717",
+      "ref": "N-717",
       "name": "Kamala Harris",
       "type": "person",
       "description": "First named by the host (as 'Camala') at 00:26:31 in episode 40.",
@@ -1408,8 +1408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-720",
-      "ref": "N-720",
+      "@id": "N-718",
+      "ref": "N-718",
       "name": "Russell Brand",
       "type": "person",
       "description": "First named by the host (as 'Russell Brandon') at 00:57:05 in episode 40.",
@@ -1425,8 +1425,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-721",
-      "ref": "N-721",
+      "@id": "N-719",
+      "ref": "N-719",
       "name": "Chuck Smith",
       "type": "person",
       "description": "First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder whose history she cites.",
@@ -1512,7 +1512,7 @@
       "claim_timestamp": "00:28:38–00:29:32",
       "investigative_direction": "Confirm whether the livestream occurred, who attended, and which questions were answered; obtain recording or transcript.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1529,7 +1529,7 @@
       "claim_timestamp": "00:14:49",
       "investigative_direction": "Cross-check against internal expense approval records and witness testimony; investigate Charlie's DOGE-related audit request as a separate counter-signal.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1546,7 +1546,7 @@
       "claim_timestamp": "00:14:49",
       "investigative_direction": "Verify filing history against IRS Form 990 public records.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1563,7 +1563,7 @@
       "claim_timestamp": "00:21:20–00:22:24",
       "investigative_direction": "Obtain Charlie's documented communications on troll-handling policy; assess whether the rule was invoked consistently across other allegations.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1580,8 +1580,8 @@
       "claim_timestamp": "00:41:49",
       "investigative_direction": "Confirm the briefing date and credentialing record; obtain full transcript of the briefing exchange.",
       "mentions_person_refs": [
-        "N-306",
-        "N-307",
+        "N-304",
+        "N-305",
         "N-3"
       ]
     },
@@ -1599,7 +1599,7 @@
       "claim_timestamp": "00:43:00",
       "investigative_direction": "Track any follow-up statement from DoD or law enforcement regarding the underlying allegation.",
       "mentions_person_refs": [
-        "N-307",
+        "N-305",
         "N-3"
       ]
     },
@@ -1617,7 +1617,7 @@
       "claim_timestamp": "00:50:53–00:51:42",
       "investigative_direction": "Verify the track listing against the released mixtape; obtain the song lyrics and release date.",
       "mentions_person_refs": [
-        "N-308",
+        "N-306",
         "N-3"
       ]
     },
@@ -1635,7 +1635,7 @@
       "claim_timestamp": "00:51:42–00:52:23",
       "investigative_direction": "Confirm the artist's stated intent against the released song lyrics.",
       "mentions_person_refs": [
-        "N-308"
+        "N-306"
       ]
     },
     {
@@ -1747,7 +1747,7 @@
       "investigative_direction": "Check Blake Neff's and Andrew Kolvet's published TPUSA titles and roles on the Charlie Kirk Show.",
       "transcript_snippet": "Blake Neff, by the way, is the producer of the Charlie Kirk show.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-14",
         "N-3"
       ]
@@ -1767,8 +1767,8 @@
       "investigative_direction": "Collect Neff's prior public statements about McCoy's conduct on September 10 and compare them with this statement.",
       "transcript_snippet": "He's been the only person that has been responding in a way that feels even remotely authentic when he defends the actions of Mikey McCoy on that day.",
       "mentions_person_refs": [
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-3"
       ]
     },
@@ -1787,8 +1787,8 @@
       "investigative_direction": "Ask TPUSA whether the birth certificate can be shown; trace where the name allegation first aired.",
       "transcript_snippet": "She has suggested Michael is not his real name. It is I have seen his birth certificate myself.",
       "mentions_person_refs": [
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-3"
       ]
     },
@@ -1809,8 +1809,8 @@
       "investigative_direction": "Obtain TPUSA's staff role description for McCoy's wife and the event-planning roster for the UVU event.",
       "transcript_snippet": "She doesn't work on campus events.",
       "mentions_person_refs": [
-        "N-162",
-        "N-194"
+        "N-161",
+        "N-192"
       ]
     },
     {
@@ -1829,7 +1829,7 @@
       "transcript_snippet": "I said it was suspicious that Mikey McCoy's wife um that we never found out who did plan the event.",
       "mentions_person_refs": [
         "N-3",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -1848,7 +1848,7 @@
       "transcript_snippet": "I do believe that Mikey McCoy should have to answer for who he had on the phone right when the shot went off.",
       "mentions_person_refs": [
         "N-3",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -1865,7 +1865,7 @@
       "transcript_snippet": "his own father is the one that spoke about Charlie's notebooks and spoke about how Mikey McCoy was talented.",
       "mentions_person_refs": [
         "N-17",
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -2025,8 +2025,8 @@
       "investigative_direction": "Check the Shawn Ryan interview for the exact Harpole statement on first aid.",
       "transcript_snippet": "In a sitdown with Shawn Ryan, Brian Harpole said it was because of the severity of the injury.",
       "mentions_person_refs": [
-        "N-270",
-        "N-228"
+        "N-268",
+        "N-226"
       ]
     },
     {
@@ -2148,7 +2148,7 @@
       "investigative_direction": "Compare against the host's earlier statements about military ties of Turek and McCoy.",
       "transcript_snippet": "She has suggested that TPUSA faith affiliated pastors like theologian Frank Turek, who we'll have on in a moment, and pastor Rob McCoy, are part of a military quote infiltration of Turning Point",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-7",
         "N-17",
         "N-3"
@@ -2171,7 +2171,7 @@
       "transcript_snippet": "I do believe the Calvary Chapel uh their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Christian faith",
       "mentions_person_refs": [
         "N-3",
-        "N-721"
+        "N-719"
       ]
     },
     {
@@ -2247,7 +2247,7 @@
       "transcript_snippet": "I never said that obviously in the context that he put it in uh that Charlie's friends quote had to know he was going to be murdered.",
       "mentions_person_refs": [
         "N-3",
-        "N-162",
+        "N-161",
         "N-1"
       ]
     },
@@ -2268,7 +2268,7 @@
       "investigative_direction": "Obtain TPUSA's annual audited financial statements and auditor name.",
       "transcript_snippet": "Charlie made sure the organization was audited by a third party every year.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-1"
       ]
     },
@@ -2354,7 +2354,7 @@
       "investigative_direction": "Compare each listed item with the host's original statements.",
       "transcript_snippet": "Candace has made other stranger allegations involving French paratroopers in maroon shirts.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -2465,7 +2465,7 @@
       "investigative_direction": "Request examples and counts of the harassment TPUSA staff say they received.",
       "transcript_snippet": "we have suffered more harassment from these people than we have from Antifa supporters who overtly celebrate Charlie's murder.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -2486,7 +2486,7 @@
       "investigative_direction": "Not independently verifiable; ask TPUSA for volume or examples.",
       "transcript_snippet": "For months, we have received hundreds, thousands, I suspect, emails and calls asking us to respond.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2507,7 +2507,7 @@
       "investigative_direction": "Check whether TPUSA ever answered the Egyptian-plane questions in later statements.",
       "transcript_snippet": "we shouldn't have to answer questions about secret tunnels or Egyptian Air Force planes.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -2526,7 +2526,7 @@
       "investigative_direction": "Compare with Charlie's own public remarks about Candace.",
       "transcript_snippet": "Lastly, we didn't respond because Charlie always viewed Candace as a friend and we were holding out hope that she would return that friendship and stop what she was doing.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-1",
         "N-3"
       ]
@@ -2546,7 +2546,7 @@
       "investigative_direction": "Review the host's revenue sources and any figures tied to this investigation.",
       "transcript_snippet": "She's using these falsehoods to enrich herself while dividing the conservative movement at an absolutely critical time for this country.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -2621,9 +2621,9 @@
       "transcript_snippet": "Sometimes it's Blake Lively and Ryan Reynolds when they try to destroy a man's life who's not even on my quote unquote political team.",
       "mentions_person_refs": [
         "N-3",
-        "N-490",
-        "N-381",
-        "N-719",
+        "N-488",
+        "N-379",
+        "N-717",
         "N-82"
       ]
     },
@@ -2663,7 +2663,7 @@
       "investigative_direction": "Compare TPUSA's actual public statements on the allegations across the prior months.",
       "transcript_snippet": "Our silence has never been and it will never be equal to complacency or approval.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2820,7 +2820,7 @@
       "transcript_snippet": "they decided to undergo a quote unquote press corps makeover ostensibly to let in new independent, more trusted journalists.",
       "mentions_person_refs": [
         "N-3",
-        "N-170",
+        "N-169",
         "N-71"
       ]
     },
@@ -2946,7 +2946,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-60",
-        "N-306"
+        "N-304"
       ]
     },
     {
@@ -2983,8 +2983,8 @@
       "investigative_direction": "Track whether the Pentagon later sent a follow-up answer.",
       "transcript_snippet": "I can try to find out and maybe let you know.",
       "mentions_person_refs": [
-        "N-307",
-        "N-306"
+        "N-305",
+        "N-304"
       ]
     },
     {
@@ -3022,7 +3022,7 @@
       "transcript_snippet": "because the president played of France allegedly paid $1.5 million for my assassination.",
       "mentions_person_refs": [
         "N-3",
-        "N-383"
+        "N-381"
       ]
     },
     {
@@ -3060,7 +3060,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-383"
+        "N-381"
       ]
     },
     {
@@ -3105,7 +3105,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-383",
+        "N-381",
         "N-1"
       ]
     },
@@ -3131,7 +3131,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-383"
+        "N-381"
       ]
     },
     {
@@ -3151,7 +3151,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-308"
+        "N-306"
       ]
     },
     {
@@ -3172,7 +3172,7 @@
         "C-1827"
       ],
       "mentions_person_refs": [
-        "N-308",
+        "N-306",
         "N-3"
       ]
     },
@@ -3223,7 +3223,7 @@
       "transcript_snippet": "I spoke about it more at length with Russell Brandon uh on his show. So that should be coming out soon.",
       "mentions_person_refs": [
         "N-3",
-        "N-720"
+        "N-718"
       ]
     },
     {
@@ -3295,7 +3295,7 @@
       "transcript_snippet": "the thing that felt genuine was at the very end when he said, \"I owe everything to I owe everything to Charlie.\" That's when he went off script.",
       "mentions_person_refs": [
         "N-3",
-        "N-162",
+        "N-161",
         "N-1"
       ]
     },
@@ -3333,7 +3333,7 @@
       "transcript_snippet": "you could feel a spiritual movement in this room when we interviewed Phil Tourney of the USS Liberty.",
       "mentions_person_refs": [
         "N-3",
-        "N-504"
+        "N-502"
       ]
     },
     {

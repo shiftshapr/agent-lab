@@ -12,13 +12,13 @@
 - **Transcript SHA-256**: a67d2c57c7c81de9731b935fd270a362febe1186dc3ae158635d449cb863c772
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-911, N-11321
+  - Tip-minted Nodes (supplement_2026-10f): N-909, N-11321
   - Hole-minted Nodes (reintro-ep016): N-10176, N-10187, N-10206, N-10389, N-10424, N-10554, N-10598, N-10628, N-10641, N-10702, N-10735, N-10769
-  - Tip-minted Nodes (reintro-ep016): N-873, N-11013, N-11158
+  - Tip-minted Nodes (reintro-ep016): N-871, N-11013, N-11158
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12061–C-12145
-  - New Nodes Introduced: N-157, N-158, N-159, N-160, N-162, N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
-  - Reused Nodes Appearing: N-156, N-4, N-5, N-11, N-27, N-30, N-38, N-46, N-49, N-50, N-82, N-99, N-119, N-126, N-205, N-208, N-10013, N-10018, N-10019, N-10032, N-10034, N-10041, N-10043, N-10044, N-10051, N-10056, N-10077, N-10085, N-10107, N-10118, N-10126, N-10133, N-10139, N-10143, N-10148, N-10151, N-10167, N-10270, N-10406, N-173
+  - New Nodes Introduced: N-156, N-157, N-158, N-159, N-161, N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
+  - Reused Nodes Appearing: N-155, N-4, N-5, N-11, N-27, N-30, N-38, N-46, N-49, N-50, N-82, N-99, N-118, N-125, N-203, N-206, N-10013, N-10018, N-10019, N-10032, N-10034, N-10041, N-10043, N-10044, N-10051, N-10056, N-10077, N-10085, N-10107, N-10118, N-10126, N-10133, N-10139, N-10143, N-10148, N-10151, N-10167, N-10270, N-10406, N-172
 - **Episode Number:** Monument Episode 16 (Batch 6, Candace Ep 249)
 - **Channel / Creator:** @RealCandaceO (Candace Owens)
 - **Episode Date:** 2025-10-07
@@ -31,7 +31,7 @@
 
 - Artifact Families Introduced: A-1227, A-1228, A-1229, A-1230, A-1231, A-1232, A-1233, A-1234, A-1235
 - Claim Range: C-1380–C-1403
-- New Person Nodes Introduced: N-14, N-156, N-157, N-158, N-7, N-159, N-160, N-60, N-41, N-162
+- New Person Nodes Introduced: N-14, N-155, N-156, N-157, N-7, N-158, N-159, N-60, N-41, N-161
 - New Investigation Target Nodes Introduced: N-10168, N-10169, N-10170, N-10171, N-10172, N-10173
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens); presumed-existing nodes for Tyler Robinson, Lance Twiggs, George Zinn (referred to by descriptive name; IDs not confirmed in ledger header)
 
@@ -43,7 +43,7 @@ The episode is anchored by a major confirmation event: Turning Point USA spokesp
 
 A second evidentiary track is introduced through a **Piers Morgan interview with former Navy SEAL Robert J. O'Neill**, who questions the visible wound (exit vs. entry), the right-to-left shirt movement, and the rapid teardown/paving of the crime scene – three independent forensic-flag claims audio-anchored in the episode.
 
-A third track is the **John and Arena Mappin public letter** (TPUSA donors who helped launch Turning Point UK), read in full on air. The letter functions both as documentary evidence of donor-level dissent from TPUSA's public posture and as an artifact-anchored claim that senior Republicans and TPUSA donors privately agree with Candace but are afraid to speak publicly.
+A third track is the **John and Irina Mappin public letter** (TPUSA donors who helped launch Turning Point UK), read in full on air. The letter functions both as documentary evidence of donor-level dissent from TPUSA's public posture and as an artifact-anchored claim that senior Republicans and TPUSA donors privately agree with Candace but are afraid to speak publicly.
 
 Candace also delivers a series of **verbal testimonial reports** about: Lance Twiggs' raid/release timeline, illegal lock-change on the Tyler/Lance apartment, George Zinn's medical-staff payment statements, and Charlie's pre-death prediction of being killed (three unnamed witnesses + Frank Turek's podcast, the latter surfaced via a fan comment). These are inscribed as testimonial artifacts but flagged for follow-up verification.
 
@@ -101,7 +101,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:11:11
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1389, N-162 (existing or new)*
+*Related: C-1389, N-161 (existing or new)*
 
 **A-1227.7** The Quartering tweet asking what the texts actually prove, if real
 
@@ -109,7 +109,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:12:01
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1390, N-160*
+*Related: C-1390, N-159*
 
 **A-1227.8** Misfit Patriot tweet offering "every shekele" if texts are fake, with Community Notes update citing Andrew Kolvet's confirmation of the screen grab
 
@@ -145,7 +145,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:16:13
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1383, N-162*
+*Related: C-1383, N-161*
 
 **A-1228.4** Kolvet describes Charlie's feelings about Israel as "complicated," "nuanced," and a "wrestle that was going on for months," located between the BB Netanyahu letter and the text chain
 
@@ -165,7 +165,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:28:21
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1384, N-156*
+*Related: C-1384, N-155*
 
 **A-1229.2** O'Neill questions the right-to-left shirt movement as inconsistent with his experience shooting people
 
@@ -173,7 +173,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:29:02
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1385, N-156*
+*Related: C-1385, N-155*
 
 **A-1229.3** O'Neill states the crime scene was torn down and "paved over"
 
@@ -181,7 +181,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:29:51
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1386, N-156*
+*Related: C-1386, N-155*
 
 ---
 
@@ -193,11 +193,11 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:04:56
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1396, N-159, N-60*
+*Related: C-1396, N-158, N-60*
 
 ---
 
-**A-1231** John and Arena Mappin Public Letter (read on air)
+**A-1231** John and Irina Mappin Public Letter (read on air)
 
 **A-1231.1** Mappin letter supporting Candace's investigation, asserting Charlie would have done the same for Candace, calling for authorities to share evidence with Candace's team, and stating few believe the official version
 
@@ -205,7 +205,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:43:14
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1392, C-1394, C-1395, N-157, N-158*
+*Related: C-1392, C-1394, C-1395, N-156, N-157*
 
 **A-1231.2** Mappin letter section stating "we have been receiving calls from senior Republicans and from Turning Point donors who agree with her…they are terrified to voice their views publicly"
 
@@ -213,7 +213,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:49:54
 Discovery Timestamp: 00:00:00–00:00:01
-*Related: C-1393, N-157, N-158*
+*Related: C-1393, N-156, N-157*
 
 ---
 
@@ -328,7 +328,7 @@ Video Timestamp: 00:07:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12068, C-12069, C-12070, N-1, N-3, N-40, N-911, N-119, N-10206, N-11158*
+*Related: C-12068, C-12069, C-12070, N-1, N-3, N-40, N-909, N-118, N-10206, N-11158*
 
 ---
 
@@ -341,7 +341,7 @@ Video Timestamp: 00:12:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12080, N-1, N-205, N-10206*
+*Related: C-12080, N-1, N-203, N-10206*
 
 ---
 
@@ -367,7 +367,7 @@ Video Timestamp: 00:26:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12100, C-12101, C-12103, C-12104, C-12105, N-3, N-49, N-173, N-10176*
+*Related: C-12100, C-12101, C-12103, C-12104, C-12105, N-3, N-49, N-172, N-10176*
 
 ---
 
@@ -425,7 +425,7 @@ Investigative Pressure: High
 
 ---
 
-**N-156** Robert J. O'Neill
+**N-155** Robert J. O'Neill
 
 Former Navy SEAL; Piers Morgan Show guest; questioned the visible wound type, shirt movement direction, and crime-scene teardown.
 
@@ -438,7 +438,7 @@ Investigative Pressure: High
 
 ---
 
-**N-157** John Mappin
+**N-156** John Mappin
 
 TPUSA donor; co-author of the public letter supporting Candace's investigation; identified by Candace as the donor who helped launch Turning Point UK.
 
@@ -451,7 +451,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-158** Arena Mappin
+**N-157** Irina Mappin
 
 TPUSA donor; co-author of the public letter supporting Candace's investigation. Name appears in the transcript under multiple spellings: "Arena," "Reena," "Aarina."
 
@@ -477,7 +477,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-159** Conrad Flynn
+**N-158** Conrad Flynn
 
 Writer/producer; appeared on Tucker Carlson's show discussing Pontius Pilate's wife as prophetic dreamer.
 
@@ -490,7 +490,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-160** The Quartering
+**N-159** The Quartering
 
 YouTuber/commentator; publicly questioned what the released texts actually prove.
 
@@ -516,7 +516,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Co-host of the Charlie Kirk Show; stated on air he is an eyewitness to events and has been advised not to comment publicly.
 
@@ -759,7 +759,7 @@ Alex Clark; named with Bowyer in the host's call for the free-speech memo.
 
 ---
 
-**N-119** Elon Musk
+**N-118** Elon Musk
 
 Elon Musk; named by the host and by Forbes.
 
@@ -767,7 +767,7 @@ Elon Musk; named by the host and by Forbes.
 
 ---
 
-**N-126** Mike Mitchell
+**N-125** Mike Mitchell
 
 Mike Mitchell; the detective whose tip the host says drove the raid.
 
@@ -775,7 +775,7 @@ Mike Mitchell; the detective whose tip the host says drove the raid.
 
 ---
 
-**N-173** Tate Brothers (Andrew and Tristan)
+**N-172** Tate Brothers (Andrew and Tristan)
 
 Tate Brothers; Andrew Tate named as a recipient of the host's package.
 
@@ -783,7 +783,7 @@ Tate Brothers; Andrew Tate named as a recipient of the host's package.
 
 ---
 
-**N-205** Nick Fuentes
+**N-203** Nick Fuentes
 
 Nick Fuentes; author of posts the host reads.
 
@@ -791,7 +791,7 @@ Nick Fuentes; author of posts the host reads.
 
 ---
 
-**N-208** Piers Morgan
+**N-206** Piers Morgan
 
 Piers Morgan; host of the show on which O'Neill appeared.
 
@@ -799,9 +799,9 @@ Piers Morgan; host of the show on which O'Neill appeared.
 
 ---
 
-**N-873** Britta Widener
+**N-871** Britta Weidner
 
-Britta Widener; author of posts the host reads.
+Britta Weidner; author of posts the host reads.
 
 *Related: C-12071, C-12075*
 
@@ -1103,7 +1103,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-911** Ashton Forbes
+**N-909** Ashton Forbes
 
 First named by the host at 00:07:45 in episode 16. Online commentator whose X post the host reads, saying she has no credibility, that Telegram group chat scams exist, and that she is building a cult.
 
@@ -1165,7 +1165,7 @@ Claim Timestamp: 00:16:13
 Claim: Blake, co-host of the Charlie Kirk Show, publicly identified himself as an eyewitness to events and stated he had been advised not to comment publicly to avoid compromising any trial.
 
 Anchored Artifacts: A-1228.3
-Mentions: N-162
+Mentions: N-161
 Investigative Direction: Identify the events Blake claims to have witnessed; determine the source of the legal advice restraining his commentary.
 
 ---
@@ -1177,7 +1177,7 @@ Claim Timestamp: 00:28:21
 Claim: Former Navy SEAL Robert J. O'Neill, on the Piers Morgan Show, stated the wound visible in the Charlie Kirk video appeared to be an exit wound rather than an entry wound.
 
 Anchored Artifacts: A-1229.1
-Mentions: N-1, N-156
+Mentions: N-1, N-155
 Investigative Direction: Obtain the full unedited Kirk video and a forensic pathologist review to determine wound entry/exit characteristics independently of O'Neill's lay assessment.
 
 ---
@@ -1186,10 +1186,10 @@ Investigative Direction: Obtain the full unedited Kirk video and a forensic path
 
 Claim Timestamp: 00:29:02
 
-Claim: Robert J. O'Neill questioned why Kirk's shirt moved right to left if shot from a stated rooftop location, citing his own experience with people he had shot.
+Claim: Robert J. O'Neill questioned why Kirk's shirt moved the way it did and why it moved right to left, saying the shirts of people he had shot did not move like that.
 
 Anchored Artifacts: A-1229.2
-Mentions: N-1, N-156
+Mentions: N-1, N-155
 Investigative Direction: Obtain the full unedited video and forensic-physics reconstruction of the shirt movement to test whether the directionality is consistent with the stated shooter location.
 
 ---
@@ -1198,10 +1198,10 @@ Investigative Direction: Obtain the full unedited video and forensic-physics rec
 
 Claim Timestamp: 00:29:51
 
-Claim: Robert J. O'Neill stated the crime scene was torn down and "paved over" rapidly, with nothing remaining to see.
+Claim: Robert J. O'Neill asked whether the crime scene was torn down immediately, and said the whole crime scene is now gone, that they "paved over it," with nothing to see.
 
 Anchored Artifacts: A-1229.3
-Mentions: N-156
+Mentions: N-155
 Investigative Direction: Confirm with Utah court / Utah State Records the timeline of any paving work at the UVU Losee Center site and the responsible party.
 
 ---
@@ -1210,10 +1210,10 @@ Investigative Direction: Confirm with Utah court / Utah State Records the timeli
 
 Claim Timestamp: 00:08:09
 
-Claim: A user identified as Britta publicly accused Candace Owens of posting fake group-chat screenshots to back her narrative.
+Claim: A user identified as Britta publicly asked whether Candace Owens is posting fake group-chat screenshots to conveniently back up her narrative.
 
 Anchored Artifacts: A-1227.1, A-1227.2
-Mentions: N-3
+Mentions: N-3, N-871
 Investigative Direction: Cross-reference the Britta accusation against the Kolvet confirmation (C-1380) to determine whether Britta publicly retracted or updated her position.
 
 ---
@@ -1222,7 +1222,7 @@ Investigative Direction: Cross-reference the Britta accusation against the Kolve
 
 Claim Timestamp: 00:09:26
 
-Claim: Laura Loomer publicly dismissed Candace Owens's text-messages reporting as "postpartum psychotic rants" and stated that even real texts would not implicate Israel.
+Claim: Laura Loomer publicly dismissed Candace Owens's text-messages reporting as "postpartum psychotic rants" and stated that even if the texts are real, it does not mean Israel killed Charlie Kirk.
 
 Anchored Artifacts: A-1227.4
 Mentions: N-3, N-60
@@ -1237,7 +1237,7 @@ Claim Timestamp: 00:11:11
 Claim: Nick Fuentes publicly questioned why Candace Owens sat on the text messages for four weeks before releasing them.
 
 Anchored Artifacts: A-1227.6
-Mentions: N-3
+Mentions: N-203, N-3
 Investigative Direction: Determine the actual interval between Candace's receipt and release of the text chain.
 
 ---
@@ -1249,7 +1249,7 @@ Claim Timestamp: 00:12:01
 Claim: Per a post by The Quartering that the host reads, he publicly asked, assuming the released texts are real, what they actually prove beyond the fact that someone close to Kirk leaked them.
 
 Anchored Artifacts: A-1227.7
-Mentions: N-1, N-160
+Mentions: N-1, N-159
 Investigative Direction: Evaluate the substance of the "what does it prove" critique against the substantive content of the text chain (C-1382, N-14).
 
 ---
@@ -1268,12 +1268,12 @@ Investigative Direction: Pull the Community Notes entry directly for the source 
 
 **C-1392** Mappins published public letter supporting Candace's investigation
 
-Claim Timestamp: 00:43:14
+Claim Timestamp: 00:44:40
 
-Claim: TPUSA donors John and Arena Mappin published a public letter supporting Candace Owens's investigation into Kirk's death and stating Candace's actions are what Charlie himself would have taken.
+Claim: TPUSA donors John and Irina Mappin published a public letter supporting Candace Owens's investigation into Kirk's death and stating Candace's actions are what Charlie himself would have taken.
 
 Anchored Artifacts: A-1231.1
-Mentions: N-1, N-3, N-157, N-158
+Mentions: N-1, N-3, N-156, N-157
 Investigative Direction: Obtain the original Mappin letter publication (URL / date) and any subsequent public reaction from TPUSA leadership.
 
 ---
@@ -1285,19 +1285,19 @@ Claim Timestamp: 00:49:54
 Claim: The Mappin letter states the Mappins have been receiving calls from senior Republicans and Turning Point donors who agree with Candace but are "terrified to voice their views publicly."
 
 Anchored Artifacts: A-1231.2
-Mentions: N-157, N-158
+Mentions: N-156, N-157
 Investigative Direction: Identify (with Mappin cooperation) any of the named senior Republican or TPUSA donor callers willing to go on record.
 
 ---
 
 **C-1394** Mappin letter: few believe official version
 
-Claim Timestamp: 00:48:30
+Claim Timestamp: 00:49:50
 
 Claim: The Mappin letter states "few people following the matter believe the official version" and that a "low minority believe that the current suspect is guilty."
 
 Anchored Artifacts: A-1231.1
-Mentions: N-157, N-158
+Mentions: N-156, N-157
 Investigative Direction: Cross-reference polling or independent survey data on public belief about the official Kirk investigation narrative.
 
 ---
@@ -1306,10 +1306,10 @@ Investigative Direction: Cross-reference polling or independent survey data on p
 
 Claim Timestamp: 00:44:38
 
-Claim: Candace identifies John Mappin as the TPUSA donor who helped her and Kirk set up Turning Point UK, identifying him as the donor who made the introductions that enabled the UK launch event where Candace first saw George (Zinn).
+Claim: Candace says the donor, John Mappin (with his wife), made introductions that unlocked more donations for Kirk, and is the donor Kirk turned to when she said they needed to be in the UK; he could have an event set up to start Turning Point UK, which was where she first laid eyes on George (her husband).
 
 Anchored Artifacts: A-1231.1 (context); Candace verbal statement at 00:44:38
-Mentions: N-157, N-158
+Mentions: N-1, N-3, N-30, N-156, N-157
 Investigative Direction: Verify through TPUSA / Turning Point UK records John Mappin's role in the UK launch.
 
 ---
@@ -1321,7 +1321,7 @@ Claim Timestamp: 00:04:56
 Claim: In a clip the host plays, writer/producer Conrad Flynn appears on Tucker Carlson's show and discusses the figure of Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting his own wife's intuition about guests.
 
 Anchored Artifacts: A-1230.1
-Mentions: N-159, N-22
+Mentions: N-158, N-22
 Investigative Direction: Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case.
 
 ---
@@ -1417,12 +1417,12 @@ Investigative Direction: Identify which federal department is implicated; obtain
 
 Claim Timestamp: 00:00:10
 
-Claim: The host says Elon Musk has clearly given X away to the military, and that users must now suffer military bot farms calling for war with Iran.
+Claim: The host says she thinks Elon Musk clearly gave X away to the military, and that users now have to suffer military bot farms calling for war with Iran.
 
 Transcript Snippet: I think Elon Musk clearly gave it away to the military and we now have to suffer these military bot farms calling for war with Iran.
 
 Anchored Artifacts: 
-Mentions: N-119, N-3
+Mentions: N-118, N-3
 Tags: relevance:tangential
 Investigative Direction: Look for X ownership or moderation disclosures and bot-network analyses showing military-linked accounts; the host offers no evidence on air.
 
@@ -1529,7 +1529,7 @@ Claim: The host reads a post by Ashton Forbes saying Candace Owens has no credib
 Transcript Snippet: First off, Candace has no credibility. Second, there's a bunch of Telegram group chat scams that claim to be real people.
 
 Anchored Artifacts: A-3182.1
-Mentions: N-911, N-3, N-119
+Mentions: N-909, N-3, N-118
 Related Nodes: N-10206
 Tags: relevance:context
 Investigative Direction: Pull the original Forbes post and its timestamp; check whether he later acknowledged the texts were authenticated by Andrew Kolvet.
@@ -1545,7 +1545,7 @@ Claim: The host reads Ashton Forbes writing that, even if the text messages were
 Transcript Snippet: Lastly, even if the text messages were real, they mean literally nothing related to Charlie's death.
 
 Anchored Artifacts: A-3182.1
-Mentions: N-911, N-1, N-40
+Mentions: N-909, N-1, N-40
 Related Nodes: N-10206
 Tags: relevance:context
 Investigative Direction: Pull the original post; compare with Andrew Kolvet's statement (C-1380 and C-1382) that the chain fits Kirk's known frustrations about Israel.
@@ -1561,7 +1561,7 @@ Claim: The host reads Ashton Forbes writing that he finds it scary how Candace O
 Transcript Snippet: I find it scary how Candace is building a literal cult. Soon they'll be drinking Kool-Aid in sync
 
 Anchored Artifacts: A-3182.1
-Mentions: N-911, N-3
+Mentions: N-909, N-3
 Related Nodes: N-11158
 Tags: relevance:context
 Investigative Direction: Pull the original post and any replies; this is an opinion attributed to Forbes and is recorded only as said.
@@ -1572,12 +1572,12 @@ Investigative Direction: Pull the original post and any replies; this is an opin
 
 Claim Timestamp: 00:08:55
 
-Claim: The host says that Britta, who she says posted that Candace was using fake group chat screenshots, used to work for Seth Dillon.
+Claim: The host says that Britta, who she says posted asking whether Candace was posting fake group chat screenshots, used to work for Seth Dillon.
 
 Transcript Snippet: She wrote and by the way she used to work for Seth Dillon.
 
 Anchored Artifacts: 
-Mentions: N-873, N-38
+Mentions: N-871, N-38
 Tags: relevance:context
 Investigative Direction: Check Britta's public employment history with Seth Dillon's company; the host says it only as context for her posts.
 
@@ -1594,7 +1594,7 @@ Transcript Snippet: who is legally just, you know, not allowed to own a gun beca
 Anchored Artifacts: 
 Mentions: N-60
 Related Nodes: N-10628
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Look for court records of any firearm prohibition or involuntary hold concerning Loomer; the host cites none on air.
 
 ---
@@ -1639,7 +1639,7 @@ Claim: The host reads a Britta post saying Candace thinks it is cute to use Nazi
 Transcript Snippet: Candace thinks it's cute to use Nazi terminology and make a turning point pun while she incites further harassment of TPUSA employees by implicating them in Charlie's death.
 
 Anchored Artifacts: A-1227.5
-Mentions: N-873, N-3
+Mentions: N-871, N-3
 Tags: relevance:context
 Investigative Direction: Pull the original post; the host denies the characterization and says the word simply means a bombardment.
 
@@ -1685,7 +1685,7 @@ Claim: The host calls Nick Fuentes 'our routine federal informant' while introdu
 Transcript Snippet: Nick Fuentes, our uh uh routine federal informant wrote writes this
 
 Anchored Artifacts: A-1227.6
-Mentions: N-205
+Mentions: N-203
 Related Nodes: N-10424
 Tags: relevance:context
 Investigative Direction: The host gives no evidence; look for any court or FOIA record or named source on the allegation, and treat it as unproven.
@@ -1701,7 +1701,7 @@ Claim: The host reads Nick Fuentes asking why she sat on the texts for four week
 Transcript Snippet: why did she sit on this for four weeks and then censor the other names?
 
 Anchored Artifacts: A-1227.6
-Mentions: N-205, N-3
+Mentions: N-203, N-3
 Related Nodes: N-10206
 Tags: relevance:context
 Investigative Direction: Obtain the uncensored chain from the host or from Kolvet's shared screen grab to see who was in it; compare with C-1377 (Josh Hammer named).
@@ -1717,7 +1717,7 @@ Claim: The host reads a Nick Fuentes post saying Charlie Kirk said he had no cho
 Transcript Snippet: Charlie Kirk said he had no choice to lead the pro-Israel cause because a Jewish donor stopped giving him millions of dollars.
 
 Anchored Artifacts: A-3183.1
-Mentions: N-205, N-1
+Mentions: N-203, N-1
 Related Nodes: N-10206
 Supports: C-1375
 Tags: relevance:context
@@ -1725,16 +1725,16 @@ Investigative Direction: Pull the original Fuentes post and compare with the tex
 
 ---
 
-**C-12081** Host Says Fuentes Is Paid to Shill
+**C-12081** Host Says She Did Not Take Fuentes's Eulogy of Kirk Seriously
 
 Claim Timestamp: 00:12:30
 
-Claim: The host says she took none of Fuentes's attempt to eulogize Kirk seriously because, she alleges, he is paid to shill.
+Claim: The host says that, speaking of paying people to shill, she took none of Fuentes's attempt to eulogize Kirk seriously because that is "the real Nick Fuentes".
 
 Transcript Snippet: Speaking of paying people to shill, it's why I didn't take one minute or one sentence rather of him uh trying to uligize Charlie Kirk seriously
 
 Anchored Artifacts: 
-Mentions: N-205, N-1, N-3
+Mentions: N-203, N-1, N-3
 Tags: relevance:tangential
 Investigative Direction: The host offers no evidence of payment; find any named funder or disclosure, otherwise treat as characterization.
 
@@ -1764,7 +1764,7 @@ Claim: The host says she would have to be the dumbest person ever to try to manu
 Transcript Snippet: First off, I'm not even inclined towards tech, but also would have to be an absolute a to try to figure out how to manufacture text messages
 
 Anchored Artifacts: A-1232.1
-Mentions: N-3, N-55
+Mentions: N-3
 Related Nodes: N-10206
 Supports: C-1380
 Tags: relevance:core
@@ -1813,7 +1813,7 @@ Claim: Andrew Kolvet says he was not an eyewitness, was not there, and flew to U
 Transcript Snippet: I wasn't an eyewitness. I was not there. I flew to Utah immediately uh to be with the family and the team, but I was not an eyewitness.
 
 Anchored Artifacts: A-1228.3
-Mentions: N-14, N-162
+Mentions: N-14
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Compare with flight and itinerary records for Kolvet on September 10 and 11, 2025 and with his later tarmac account.
@@ -1860,7 +1860,7 @@ Claim: Andrew Kolvet says he and Blake Neff were in the trenches workshopping ho
 Transcript Snippet: Blake, you were in the trenches on a lot of this stuff because we were workshopping how we were going to do the tour
 
 Anchored Artifacts: A-1228.4
-Mentions: N-14, N-162, N-1
+Mentions: N-14, N-161, N-1
 Related Nodes: N-10148
 Tags: relevance:core
 Investigative Direction: Ask Kolvet and Neff for the tour prep notes or messages about the Israel question.
@@ -1956,7 +1956,7 @@ Claim: The host says she waited to reveal the text messages because she is not a
 Transcript Snippet: the reason that I waited to reveal the text messages is because I'm not a child. Okay? Like I said, I have a lot more.
 
 Anchored Artifacts: A-1227.6
-Mentions: N-3, N-205
+Mentions: N-3
 Related Nodes: N-10206
 Tags: relevance:core
 Investigative Direction: Establish the date the host received the chain; the host has not published it on air. Compare with Fuentes's four-week question (C-1389).
@@ -2114,7 +2114,7 @@ Claim: The host says she sent text messages and screenshots to journalists and o
 Transcript Snippet: I sent it to journalists, text messages, and screenshots to people ranging from Max Blumenthal to Andrew Tate.
 
 Anchored Artifacts: A-3185.1
-Mentions: N-3, N-49, N-173
+Mentions: N-3, N-49, N-172
 Related Nodes: N-10176
 Tags: relevance:context
 Investigative Direction: Ask Blumenthal and Tate or their staff whether they received the material; the host does not say what was sent to whom.
@@ -2130,7 +2130,7 @@ Claim: Former Navy SEAL Robert J. O'Neill says on the Piers Morgan show that whe
 Transcript Snippet: he was obviously dead before he hit the ground.
 
 Anchored Artifacts: A-1229.1
-Mentions: N-156, N-1, N-208
+Mentions: N-155, N-1, N-206
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy or surgeon account of the time of death and the hospital records; O'Neill's remark is a lay reading of the video.
 
@@ -2145,7 +2145,7 @@ Claim: Robert J. O'Neill says Kirk was not wearing body armor and that a shot wo
 Transcript Snippet: he wasn't wearing body armor. And two, it doesn't deflect like that off of body armor.
 
 Anchored Artifacts: A-1229.2
-Mentions: N-156, N-1
+Mentions: N-155, N-1
 Related Nodes: N-10085
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA and Kolvet accounts of whether Kirk wore a vest; compare with the host's claim that he did not (C-9291).
@@ -2161,7 +2161,7 @@ Claim: Robert J. O'Neill asks why people interviewed who said the shot came from
 Transcript Snippet: people being interviewed saying, "Yeah, they came from my left to right, from his right to left, immediately shut down."
 
 Anchored Artifacts: A-1229.2
-Mentions: N-156, N-1
+Mentions: N-155, N-1
 Related Nodes: N-10085
 Tags: relevance:core
 Investigative Direction: Identify the interviewed witnesses and the outlets that dropped their accounts; compare with the shirt-movement claim (C-1385).
@@ -2172,12 +2172,12 @@ Investigative Direction: Identify the interviewed witnesses and the outlets that
 
 Claim Timestamp: 00:29:40
 
-Claim: In a clip the host plays of Piers Morgan's show, former Navy SEAL Robert J. O'Neill refers to the soliloquy of text messages that 22-year-olds do not send their transgender lover as another reason the official story needs investigating.
+Claim: In a clip the host plays of Piers Morgan's show, former Navy SEAL Robert J. O'Neill says he is "not even getting into" the soliloquy of text messages that 22-year-olds do not send their transgender lover.
 
 Transcript Snippet: saliloquy of text messages that 22-year-olds don't send their translover
 
 Anchored Artifacts: A-1229.2
-Mentions: N-156, N-40
+Mentions: N-155, N-40
 Related Nodes: N-10077
 Supports: C-1175
 Tags: relevance:core
@@ -2404,7 +2404,7 @@ Claim: The host says authorities were going off the tip from the mysterious dete
 Transcript Snippet: They were going off of Mike, the mysterious detective Mike Mitchell's tip. They had no confession.
 
 Anchored Artifacts: 
-Mentions: N-126, N-40
+Mentions: N-125, N-40
 Related Nodes: N-10151
 Tags: relevance:core
 Investigative Direction: Compare with episode 11 accounts of a retired detective's call and with the warrant affidavit and its timeline.
@@ -2431,7 +2431,7 @@ Investigative Direction: Obtain the search warrant inventory and any chain of cu
 
 Claim Timestamp: 00:40:45
 
-Claim: The host says Lance Twiggs has been in an unknown location since the raid, that she would imagine he was in witness protection for a bit, and that he has not contacted his family.
+Claim: The host says it seems Lance Twiggs has been in an unknown location since the raid, that she would imagine he was in witness protection for a bit, and that he does not seem to be speaking to his family.
 
 Transcript Snippet: Lance has similarly been in an unknown known location since the raid.
 
@@ -2534,7 +2534,7 @@ Claim: The host says the donor behind the public letter, John Mappin, unlocked a
 Transcript Snippet: a donor that actually then unlocked a whole another level of donations for Charlie Kirk through introductions that he made for Charlie
 
 Anchored Artifacts: 
-Mentions: N-157, N-158, N-1
+Mentions: N-156, N-1
 Tags: relevance:context
 Investigative Direction: Identify the donors introduced by Mappin and any TPUSA donor records; ask Mappin through the host.
 
@@ -2549,7 +2549,7 @@ Claim: The host says that the Turning Point UK event arranged through the donor 
 Transcript Snippet: And that event was when I first laid eyes on George. Not when I spoke to him, but when I actually first laid eyes on him.
 
 Anchored Artifacts: 
-Mentions: N-30, N-157, N-3
+Mentions: N-30, N-156, N-3
 Related Nodes: N-10118, N-10126
 Tags: relevance:context
 Investigative Direction: Compare with episode 9 claims on the UK trip and husband meeting (C-1267, C-1268). Note that draft claim C-1395 reads George here as Zinn, which the context does not support.
@@ -2565,7 +2565,7 @@ Claim: The host says she thinks the donor who issued the statement will be the f
 Transcript Snippet: I think he will be the first of many donors that might make a public statement.
 
 Anchored Artifacts: 
-Mentions: N-157, N-3
+Mentions: N-156, N-3
 Tags: relevance:context
 Investigative Direction: Track later statements by named TPUSA donors; the host offers no names.
 
@@ -2580,7 +2580,7 @@ Claim: The Mappin letter says Charlie Kirk did not sleep for several days and ni
 Transcript Snippet: Charlie did not sleep for several days and several nights just to ensure that JD Vance became the vice presidential nominee.
 
 Anchored Artifacts: A-1231.1
-Mentions: N-1, N-4, N-157, N-158
+Mentions: N-1, N-4, N-156, N-157
 Tags: relevance:context
 Investigative Direction: Compare with reporting on Kirk's role in the 2024 Vance selection.
 
@@ -2595,7 +2595,7 @@ Claim: The Mappin letter says the crime scene appears to have been completely de
 Transcript Snippet: a crime scene apparently completely destroyed in days and plenty of evidence that simply does not add up.
 
 Anchored Artifacts: A-1231.1
-Mentions: N-157, N-158
+Mentions: N-156, N-157
 Related Nodes: N-10107
 Supports: C-1386
 Tags: relevance:core
@@ -2612,7 +2612,7 @@ Claim: The Mappin letter says the official investigation should be immediately o
 Transcript Snippet: the official investigation should be immediately ordered by the appropriate legal authority to proactively share everything they know with Candace and her selected team.
 
 Anchored Artifacts: A-1231.1
-Mentions: N-157, N-158, N-3
+Mentions: N-156, N-157, N-3
 Tags: relevance:context
 Investigative Direction: Check whether any authority responded to or acknowledged the letter.
 
@@ -2627,7 +2627,7 @@ Claim: The Mappin letter says Candace's point that hers has been one of the only
 Transcript Snippet: hers has so far been one of the only public voices from Charlie's closest friends questioning the absurdity of some of the communications
 
 Anchored Artifacts: A-1231.2
-Mentions: N-157, N-158, N-3, N-1
+Mentions: N-156, N-157, N-3, N-1
 Tags: relevance:context
 Investigative Direction: Compare with statements by other Kirk friends, such as those reported in episodes 12 to 15.
 
@@ -2658,7 +2658,7 @@ Transcript Snippet: when they even tried to wipe away my friendship, like she ha
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify who made the 2015 claim; compare with the host's dated texts with Kirk (C-1222) and the Mappin letter's description of their friendship.
 
 ---
@@ -2667,7 +2667,7 @@ Investigative Direction: Identify who made the 2015 claim; compare with the host
 
 Claim Timestamp: 00:58:00
 
-Claim: In answer to a viewer asking about Kirk's security team, the host says she has everybody's names, including the people the investigation could not identify.
+Claim: In answer to a viewer asking about Kirk's security team, the host says she has everybody's names, including the people that 'we' couldn't identify.
 
 Transcript Snippet: I do. I have everybody's names, the people that we couldn't identify.
 
@@ -2728,7 +2728,7 @@ Investigative Direction: Obtain the Turek podcast clip and the three sources' wr
 
 ---
 
-**C-12144** Host Urges Viewers to Join the CIA, the Decentralized Network, Which She Calls More of a Threat
+**C-12144** Host Thanks Viewers Who Joined 'Our CIA, the Decentralized,' Which She Calls More of a Threat
 
 Claim Timestamp: 01:03:45
 
@@ -2854,7 +2854,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:08:55
-Speaker: N-873
+Speaker: N-871
 Quote: I'm just asking questions.
 Context: Host reads Britta's post and mocks the phrase; the quoted phrase is Britta's.
 Tags: britta, x
@@ -2903,7 +2903,7 @@ Confidence: medium
 
 ## VI. Optional Flags
 
-- **Name uncertainty – N-158 (Arena Mappin):** The transcript renders the Mappin wife's name under multiple spellings/pronunciations – "Arena" (introduction and letter attribution),"Reena" (Candace post-reading),"Aarina" (one letter-attribution variant). Most likely transcription ambiguity for a single individual; preserved as "Arena Mappin" pending verification. The surname "Mappin" is given only by Candace, not in the letter itself, which signs off as "John and Arena."
+- **Name uncertainty – N-157 (Irina Mappin):** The transcript renders the Mappin wife's name under multiple spellings/pronunciations – "Arena" (introduction and letter attribution),"Reena" (Candace post-reading),"Aarina" (one letter-attribution variant). Most likely transcription ambiguity for a single individual; preserved as "Irina Mappin" pending verification. The surname "Mappin" is given only by Candace, not in the letter itself, which signs off as "John and Arena."
 - **Artifact verbally referenced but not shown – A-1233.1 / N-7 (Frank Turek podcast):** The Frank Turek podcast containing Charlie Kirk's "they want him dead" statement is referenced via a YouTube comment (Luna) and not directly played or displayed. Verification requires locating the original podcast episode.
 - **Artifact read-aloud but audio playback unverified – A-1234.1 (Josh Hammer show appearance):** The Josh Hammer Zoom-call statement is rendered by Candace in quotes but no audio playback markers (>>) appear; cannot confirm whether the original show audio was played.
 - **Claim failed admission test – none formally:** All inscribed claims passed the artifact-anchor, falsifiability, and rhetoric-removal tests. Several host framing statements (e.g., "this is a military hit that involved foreign actors," "they are protecting themselves and their bosses") were excluded as failing the rhetoric-removal test.

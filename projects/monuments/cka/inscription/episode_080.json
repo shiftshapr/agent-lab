@@ -190,7 +190,7 @@
             "C-2505"
           ],
           "related_nodes": [
-            "N-153"
+            "N-152"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -644,8 +644,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-153",
-      "ref": "N-153",
+      "@id": "N-152",
+      "ref": "N-152",
       "name": "Taylor Budowich",
       "type": "person",
       "description": "Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.",
@@ -725,8 +725,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-107",
-      "ref": "N-107",
+      "@id": "N-106",
+      "ref": "N-106",
       "name": "Ted Cruz",
       "type": "person",
       "description": "Subject of Brett Cooper criticism and host commentary.",
@@ -741,8 +741,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-149",
-      "ref": "N-149",
+      "@id": "N-148",
+      "ref": "N-148",
       "name": "Theo Von",
       "type": "person",
       "description": "Host notes Theo Von episode released / >1M views; kids call him Uncle Theo.",
@@ -761,8 +761,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Joe Kent",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -789,8 +789,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-248",
-      "ref": "N-248",
+      "@id": "N-246",
+      "ref": "N-246",
       "name": "Mark Levin",
       "type": "person",
       "description": "Conservative commentator; named as defender of Alan Dershowitz.",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-277",
-      "ref": "N-277",
+      "@id": "N-275",
+      "ref": "N-275",
       "name": "Mike Huckabee",
       "type": "person",
       "description": "Father of Sarah Huckabee Sanders; named by host as contextually relevant to Israel theme.",
@@ -827,8 +827,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-458",
-      "ref": "N-458",
+      "@id": "N-456",
+      "ref": "N-456",
       "name": "Lindsey Graham",
       "type": "person",
       "description": "US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.",
@@ -843,8 +843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-540",
-      "ref": "N-540",
+      "@id": "N-538",
+      "ref": "N-538",
       "name": "Alan Dershowitz",
       "type": "person",
       "description": "Attorney and Epstein associate; cited as having recounted a massage from a woman named \"Olga\" at Epstein's place; defended by Mark Levin and Bari Weiss.",
@@ -859,8 +859,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-588",
-      "ref": "N-588",
+      "@id": "N-586",
+      "ref": "N-586",
       "name": "Sarah Huckabee Sanders",
       "type": "person",
       "description": "Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.",
@@ -1036,8 +1036,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Named by the host among those TPUSA presents as authorities.",
@@ -1053,8 +1053,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Named by the host among those TPUSA presents as authorities.",
@@ -1070,8 +1070,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Named in the host's chart-position comparison.",
@@ -1087,8 +1087,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-278",
-      "ref": "N-278",
+      "@id": "N-276",
+      "ref": "N-276",
       "name": "Jonathan Pollard",
       "type": "person",
       "description": "Named by the host in her remark on Huckabee's support.",
@@ -1104,8 +1104,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-333",
-      "ref": "N-333",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Director of National Intelligence; the host says Kent worked in her office.",
@@ -1121,8 +1121,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-560",
-      "ref": "N-560",
+      "@id": "N-558",
+      "ref": "N-558",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Speaker at the Catholics for Catholics event.",
@@ -1138,8 +1138,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-590",
-      "ref": "N-590",
+      "@id": "N-588",
+      "ref": "N-588",
       "name": "Renee Crossman",
       "type": "person",
       "description": "Erika Kirk's Romanian partner whose religious background the host is researching.",
@@ -1156,8 +1156,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-598",
-      "ref": "N-598",
+      "@id": "N-596",
+      "ref": "N-596",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Named as Kirk's correspondent in the host's account of his messages.",
@@ -1173,8 +1173,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-606",
-      "ref": "N-606",
+      "@id": "N-604",
+      "ref": "N-604",
       "name": "Scott Bessent",
       "type": "person",
       "description": "Treasury Secretary pulled to the Situation Room.",
@@ -1489,8 +1489,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-949",
-      "ref": "N-949",
+      "@id": "N-947",
+      "ref": "N-947",
       "name": "Dino Fonte Grassi",
       "type": "person",
       "description": "First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrassi). President of the Turning Point USA University of Arkansas chapter who wrote the disaffiliation letter.",
@@ -1510,8 +1510,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-950",
-      "ref": "N-950",
+      "@id": "N-948",
+      "ref": "N-948",
       "name": "Shannon Kent",
       "type": "person",
       "description": "First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom the host says was killed by a suicide bomber in Syria in January 2019.",
@@ -1528,8 +1528,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-951",
-      "ref": "N-951",
+      "@id": "N-949",
+      "ref": "N-949",
       "name": "Johnny Yep",
       "type": "person",
       "description": "First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and Johnny Yep). Organizer of Catholics for Catholics, per the host's description of the event organizer and a web check of the event.",
@@ -1582,7 +1582,7 @@
       "claim_timestamp": "00:04:57",
       "investigative_direction": "Cross-reference the date of the letter against public Federal Register / White House personnel announcement records to confirm effective date and replacement timeline.",
       "mentions_person_refs": [
-        "N-213"
+        "N-211"
       ]
     },
     {
@@ -1649,7 +1649,7 @@
       "claim_timestamp": "00:07:42",
       "investigative_direction": "Confirm exact wording against the full White House transcript or press pool video of the same appearance.",
       "mentions_person_refs": [
-        "N-213"
+        "N-211"
       ]
     },
     {
@@ -1684,7 +1684,7 @@
       "claim_timestamp": "00:14:29",
       "investigative_direction": "Verify the exact X post text against Graham's verified account at the timestamp indicated.",
       "mentions_person_refs": [
-        "N-458"
+        "N-456"
       ]
     },
     {
@@ -1703,7 +1703,7 @@
       "claim_timestamp": "00:15:07",
       "investigative_direction": "Confirm against Levin's verified X account and compare with any subsequent official statements about Kent's separation.",
       "mentions_person_refs": [
-        "N-248"
+        "N-246"
       ]
     },
     {
@@ -1722,7 +1722,7 @@
       "claim_timestamp": "00:16:55",
       "investigative_direction": "Confirm against Levin's verified X account and monitor for any DOJ response.",
       "mentions_person_refs": [
-        "N-248"
+        "N-246"
       ]
     },
     {
@@ -1761,7 +1761,7 @@
       "claim_timestamp": "00:15:58",
       "investigative_direction": "Confirm exact text against Dershowitz's verified X account.",
       "mentions_person_refs": [
-        "N-540"
+        "N-538"
       ]
     },
     {
@@ -1780,7 +1780,7 @@
       "claim_timestamp": "00:16:55",
       "investigative_direction": "Confirm exact text against Budowich's verified X account.",
       "mentions_person_refs": [
-        "N-153"
+        "N-152"
       ]
     },
     {
@@ -1797,7 +1797,7 @@
       "claim_timestamp": "00:20:55",
       "investigative_direction": "Confirm against the original Theo Von podcast episode and timestamp.",
       "mentions_person_refs": [
-        "N-149"
+        "N-148"
       ]
     },
     {
@@ -2022,7 +2022,7 @@
       "investigative_direction": "Confirm posting timestamp against official channels; subject video to production analysis.",
       "mentions_person_refs": [
         "N-36",
-        "N-277"
+        "N-275"
       ]
     },
     {
@@ -2058,7 +2058,7 @@
       "investigative_direction": "Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.",
       "mentions_person_refs": [
         "N-2",
-        "N-588"
+        "N-586"
       ]
     },
     {
@@ -2078,7 +2078,7 @@
       "investigative_direction": "Obtain the actual proclamation text from the Arkansas Secretary of State's office.",
       "mentions_person_refs": [
         "N-2",
-        "N-588"
+        "N-586"
       ]
     },
     {
@@ -2117,7 +2117,7 @@
       "investigative_direction": "Verify exact quotation against the full original recording and identify any contemporaneous response from Cruz.",
       "mentions_person_refs": [
         "N-1",
-        "N-107"
+        "N-106"
       ]
     },
     {
@@ -2158,8 +2158,8 @@
       "investigative_direction": "Check the Department of Defense casualty release and contemporaneous news reports on the January 2019 Manbij bombing for the date, cause and the 'first female' description.",
       "transcript_snippet": "Shannon was the first female combat combat death in Syria uh since combat operations began against ISIS.",
       "mentions_person_refs": [
-        "N-213",
-        "N-950"
+        "N-211",
+        "N-948"
       ]
     },
     {
@@ -2179,8 +2179,8 @@
       "investigative_direction": "Compare against DoD casualty lists of female service members killed by hostile fire from 2015 to 2019.",
       "transcript_snippet": "she was also the first female US service member that was killed by enemy fire in more than 3 years up until that point.",
       "mentions_person_refs": [
-        "N-213",
-        "N-950"
+        "N-211",
+        "N-948"
       ]
     },
     {
@@ -2205,7 +2205,7 @@
         "C-2496"
       ],
       "mentions_person_refs": [
-        "N-213",
+        "N-211",
         "N-5"
       ]
     },
@@ -2229,7 +2229,7 @@
       "investigative_direction": "Compare the letter's June 2025 turning point with the June 2025 strikes on Iran and Charlie Kirk's June 2025 opposition to the war.",
       "transcript_snippet": "Until June of 2025, you understood that the wars in the Middle East were a trap that robbed America of the precious lives of our patriots and depleted the wealth and prosperity of our nation.",
       "mentions_person_refs": [
-        "N-213",
+        "N-211",
         "N-5"
       ]
     },
@@ -2256,7 +2256,7 @@
         "C-2496"
       ],
       "mentions_person_refs": [
-        "N-213"
+        "N-211"
       ]
     },
     {
@@ -2282,7 +2282,7 @@
       ],
       "mentions_person_refs": [
         "N-5",
-        "N-213"
+        "N-211"
       ]
     },
     {
@@ -2323,7 +2323,7 @@
       "transcript_snippet": "Exactly what Charlie had intimated in those messages with Bret Weinstein.",
       "mentions_person_refs": [
         "N-1",
-        "N-598",
+        "N-596",
         "N-5"
       ]
     },
@@ -2388,8 +2388,8 @@
         "C-2501"
       ],
       "mentions_person_refs": [
-        "N-248",
-        "N-213"
+        "N-246",
+        "N-211"
       ]
     },
     {
@@ -2415,7 +2415,7 @@
       ],
       "mentions_person_refs": [
         "N-60",
-        "N-213"
+        "N-211"
       ]
     },
     {
@@ -2436,7 +2436,7 @@
       "transcript_snippet": "Joe Kent I'm going to be interviewing him this Thursday at the Catholics for Catholics event in DC.",
       "mentions_person_refs": [
         "N-3",
-        "N-213"
+        "N-211"
       ]
     },
     {
@@ -2456,7 +2456,7 @@
       "investigative_direction": "Ask the organizers for the cancellation emails and calls received, and check the published event agenda.",
       "transcript_snippet": "They have just been emailing everyone calling everybody asking for cancellations",
       "mentions_person_refs": [
-        "N-560",
+        "N-558",
         "N-3"
       ]
     },
@@ -2496,7 +2496,7 @@
       "investigative_direction": "Verify wording against the original Theo Von podcast episode.",
       "transcript_snippet": "I believe that that will come here one day. I don't believe that uh that the Israeli leaders that they have any intention to to stop that.",
       "mentions_person_refs": [
-        "N-149"
+        "N-148"
       ]
     },
     {
@@ -2516,7 +2516,7 @@
       "investigative_direction": "Verify wording against the original Theo Von podcast episode.",
       "transcript_snippet": "I believe that if we don't speak up now that our children won't have the chance to speak up. Either by law or by worse.",
       "mentions_person_refs": [
-        "N-149"
+        "N-148"
       ]
     },
     {
@@ -2536,7 +2536,7 @@
       "investigative_direction": "Verify wording against the original Theo Von podcast episode.",
       "transcript_snippet": "why we are so beholden to these to this government this Israeli government that that just seems to be obsessed with uh control.",
       "mentions_person_refs": [
-        "N-149",
+        "N-148",
         "N-5"
       ]
     },
@@ -2558,7 +2558,7 @@
       "investigative_direction": "Ask Catholics for Catholics for the harassment communications it received and compare with the host's description.",
       "transcript_snippet": "the pain that they have put him through, the harassment that they have gone through because you're not allowed to have an event if it's with somebody that doesn't support mass murder in Gaza.",
       "mentions_person_refs": [
-        "N-951",
+        "N-949",
         "N-3"
       ]
     },
@@ -2626,7 +2626,7 @@
         "C-1952"
       ],
       "mentions_person_refs": [
-        "N-213",
+        "N-211",
         "N-69",
         "N-1"
       ]
@@ -2673,8 +2673,8 @@
       "investigative_direction": "Check ODNI and NCTC organizational reporting lines and whether either office was tasked on the Kirk case.",
       "transcript_snippet": "Because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.",
       "mentions_person_refs": [
-        "N-333",
-        "N-213",
+        "N-331",
+        "N-211",
         "N-69"
       ]
     },
@@ -2699,7 +2699,7 @@
         "C-2522"
       ],
       "mentions_person_refs": [
-        "N-588",
+        "N-586",
         "N-2"
       ]
     },
@@ -2720,7 +2720,7 @@
       "investigative_direction": "Check chapter records and Fonte Grassi's public history with TPUSA.",
       "transcript_snippet": "he's been with Turning Point USA for more than 5 years.",
       "mentions_person_refs": [
-        "N-949"
+        "N-947"
       ]
     },
     {
@@ -2764,7 +2764,7 @@
       "investigative_direction": "Verify the text against Fonte Grassi's Instagram post and ask TPUSA whether it received the private grievances.",
       "transcript_snippet": "we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one.",
       "mentions_person_refs": [
-        "N-949"
+        "N-947"
       ]
     },
     {
@@ -2789,7 +2789,7 @@
         "C-2510"
       ],
       "mentions_person_refs": [
-        "N-949",
+        "N-947",
         "N-1"
       ]
     },
@@ -2813,7 +2813,7 @@
       "transcript_snippet": "He sort of just sat up with a bunch of students and tried to get their opinion to show donors like you can't treat these kids like this.",
       "mentions_person_refs": [
         "N-1",
-        "N-949"
+        "N-947"
       ]
     },
     {
@@ -2859,7 +2859,7 @@
       "investigative_direction": "Check Charlie Kirk Show episode listings for Fonte Grassi after September 10, 2025.",
       "transcript_snippet": "He was also on the Charlie Kirk show. I believe he was on it actually after Charlie Kirk assassinated.",
       "mentions_person_refs": [
-        "N-949",
+        "N-947",
         "N-1"
       ]
     },
@@ -2878,8 +2878,8 @@
       "investigative_direction": "List the specific questions put to TPUSA and its responses.",
       "transcript_snippet": "so much so that we won't even help the public investigate what happened on that day. Things that in no way would transform the ongoing investigation.",
       "mentions_person_refs": [
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-3"
       ]
     },
@@ -2943,7 +2943,7 @@
         "C-2470"
       ],
       "mentions_person_refs": [
-        "N-590",
+        "N-588",
         "N-2",
         "N-3"
       ]
@@ -2969,7 +2969,7 @@
         "C-2470"
       ],
       "mentions_person_refs": [
-        "N-590"
+        "N-588"
       ]
     },
     {
@@ -3210,7 +3210,7 @@
         "C-2512"
       ],
       "mentions_person_refs": [
-        "N-606"
+        "N-604"
       ]
     },
     {
@@ -3302,7 +3302,7 @@
       "transcript_snippet": "Today I erased two names on the punch cards and you see how many more to go on this batch.",
       "mentions_person_refs": [
         "N-36",
-        "N-277"
+        "N-275"
       ]
     },
     {
@@ -3324,7 +3324,7 @@
       "investigative_direction": "Verify wording against the original video.",
       "transcript_snippet": "getting rid of these lunatics who would like to develop nuclear weapons and the means to deliver them to every American city after wiping out Israel.",
       "mentions_person_refs": [
-        "N-277",
+        "N-275",
         "N-36"
       ]
     },
@@ -3464,7 +3464,7 @@
       "transcript_snippet": "I think I'm in a a three-way tie actually with uh, Joe Rogan and the Kill Tony podcast. 3.2 million uh, audio downloads daily.",
       "mentions_person_refs": [
         "N-3",
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -3482,8 +3482,8 @@
       "investigative_direction": "Check Huckabee's public statements on Pollard; the blackmail remark is speculation recorded as said.",
       "transcript_snippet": "he notoriously supported Jonathan Pollard who was a literal American spy.",
       "mentions_person_refs": [
-        "N-277",
-        "N-278",
+        "N-275",
+        "N-276",
         "N-3"
       ]
     },

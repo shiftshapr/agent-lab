@@ -923,8 +923,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-498",
-      "ref": "N-498",
+      "@id": "N-496",
+      "ref": "N-496",
       "name": "Justin Davis",
       "type": "person",
       "description": "First named by the host at 01:03:20 in episode 124.",
@@ -940,8 +940,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-493",
-      "ref": "N-493",
+      "@id": "N-491",
+      "ref": "N-491",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
@@ -1044,8 +1044,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Tim Pool",
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
@@ -1060,8 +1060,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-371",
-      "ref": "N-371",
+      "@id": "N-369",
+      "ref": "N-369",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Mentioned in a viewer comment the host answers dismissively.",
@@ -1531,8 +1531,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-126",
-      "ref": "N-126",
+      "@id": "N-125",
+      "ref": "N-125",
       "name": "Mike Mitchell",
       "type": "person",
       "description": "Former undercover detective, family friend and scout leader whom the host says brought Robinson in.",
@@ -1567,8 +1567,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Blake Neff; the host says his memory of the evening is fuzzy.",
@@ -1584,8 +1584,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Matt Walsh; the host recalls a December phone call with him.",
@@ -1618,8 +1618,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole; in the transport car and plaintiff against the host.",
@@ -1640,8 +1640,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; one of the two remaining candidates in the host's elimination of who updated Shapiro's security.",
@@ -1657,8 +1657,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-282",
-      "ref": "N-282",
+      "@id": "N-280",
+      "ref": "N-280",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Bari Weiss (captioned Bari Weiss); interviewed Erika Kirk.",
@@ -1692,8 +1692,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-370",
-      "ref": "N-370",
+      "@id": "N-368",
+      "ref": "N-368",
       "name": "Diligent Dennison",
       "type": "person",
       "description": "Researcher the host credits with speaking to the waiter in Penguitch.",
@@ -1709,8 +1709,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-614",
-      "ref": "N-614",
+      "@id": "N-612",
+      "ref": "N-612",
       "name": "Graham Allen",
       "type": "person",
       "description": "Graham Allen; an influencer the host says was invited to the courthouse.",
@@ -1744,8 +1744,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-782",
-      "ref": "N-782",
+      "@id": "N-780",
+      "ref": "N-780",
       "name": "Caitlyn Oliver",
       "type": "person",
       "description": "First named by the host at 00:30:07 in episode 124. ATF forensic biologist who testified on DNA at the preliminary hearing.",
@@ -1765,8 +1765,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-783",
-      "ref": "N-783",
+      "@id": "N-781",
+      "ref": "N-781",
       "name": "Samantha Carner",
       "type": "person",
       "description": "First named by the host at 00:37:36 in episode 124. ATF ballistics expert who testified on day four about bullet fragment 6A.",
@@ -1783,8 +1783,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-784",
-      "ref": "N-784",
+      "@id": "N-782",
+      "ref": "N-782",
       "name": "Matt Robinson",
       "type": "person",
       "description": "First named by the host at 00:06:50 in episode 124. Tyler Robinson's father, whose prints the host says were on the gun. Aliases: Matt Robinson.",
@@ -2132,8 +2132,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-97",
-        "N-493",
-        "N-498"
+        "N-491",
+        "N-496"
       ]
     },
     {
@@ -2170,8 +2170,8 @@
       "transcript_snippet": "Tim Pool is lying through his teeth. He did not receive updates from somebody in that car about Charlie's status.",
       "mentions_person_refs": [
         "N-3",
-        "N-271",
-        "N-371",
+        "N-269",
+        "N-369",
         "N-97",
         "N-1"
       ]
@@ -2239,7 +2239,7 @@
         "N-3",
         "N-2",
         "N-89",
-        "N-614",
+        "N-612",
         "N-58",
         "N-1"
       ]
@@ -2345,7 +2345,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-282",
+        "N-280",
         "N-40"
       ]
     },
@@ -2412,7 +2412,7 @@
       "transcript_snippet": "I said rather he was peer pressured to come in by Mike Mitchell, the former undercover detective with the police force and also a family friend of the Robinsons",
       "mentions_person_refs": [
         "N-3",
-        "N-126",
+        "N-125",
         "N-40"
       ]
     },
@@ -2655,7 +2655,7 @@
       "transcript_snippet": "Apparently, a few of the people at Turning Point USA, despite Charlie dying, went out later that night and don't necessarily recall what they were doing.",
       "mentions_person_refs": [
         "N-3",
-        "N-162",
+        "N-161",
         "N-1"
       ]
     },
@@ -2919,7 +2919,7 @@
       "transcript_snippet": "I believe that the reason they did it, the reason why they went insane was to overcome the testimony of Caitlyn Oliver.",
       "mentions_person_refs": [
         "N-3",
-        "N-782",
+        "N-780",
         "N-40"
       ]
     },
@@ -2944,7 +2944,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-40",
-        "N-782"
+        "N-780"
       ]
     },
     {
@@ -2967,9 +2967,9 @@
       "transcript_snippet": "which of course included Lance Twiggs. Uh it also included Matt Robinson, Tyler's father.",
       "mentions_person_refs": [
         "N-3",
-        "N-782",
+        "N-780",
         "N-54",
-        "N-784",
+        "N-782",
         "N-40"
       ]
     },
@@ -2993,7 +2993,7 @@
       "investigative_direction": "Obtain the evidence photographs, collection notes and the identity of who performed the swabs.",
       "transcript_snippet": "So, they were swabbed together. So, I wouldn't be able to say um where the DNA came from.",
       "mentions_person_refs": [
-        "N-782",
+        "N-780",
         "N-40"
       ]
     },
@@ -3017,7 +3017,7 @@
       "transcript_snippet": "because they kept saying that his DNA was on the trigger. And she's admitting it could be the trigger guard.",
       "mentions_person_refs": [
         "N-3",
-        "N-782",
+        "N-780",
         "N-40"
       ]
     },
@@ -3071,7 +3071,7 @@
       "transcript_snippet": "it was weird off the bat that they said they took seven bullet uh seven fragments from Charlie's body. She testifies that she only received four of them in an envelope",
       "mentions_person_refs": [
         "N-3",
-        "N-783",
+        "N-781",
         "N-1"
       ]
     },
@@ -3099,7 +3099,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-783",
+        "N-781",
         "N-40"
       ]
     },
@@ -3400,7 +3400,7 @@
       "transcript_snippet": "Then there was this really strange phone call that I had with Matt Walsh and I did not know that Ben Shapiro was in town on this date when I had the phone call.",
       "mentions_person_refs": [
         "N-3",
-        "N-166",
+        "N-165",
         "N-97"
       ]
     },
@@ -3426,7 +3426,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-270",
+        "N-268",
         "N-97"
       ]
     },
@@ -3496,7 +3496,7 @@
       "transcript_snippet": "Brian Harpole stipulates that it couldn't have been him that was providing those updates because he was just packing like 40 feet of gauze into Charlie's neck.",
       "mentions_person_refs": [
         "N-3",
-        "N-270",
+        "N-268",
         "N-1"
       ]
     },
@@ -3518,7 +3518,7 @@
       "transcript_snippet": "And it couldn't have been Rick Cutler because Rick Cutler had him.",
       "mentions_person_refs": [
         "N-3",
-        "N-493",
+        "N-491",
         "N-1"
       ]
     },
@@ -3541,7 +3541,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-7",
-        "N-270",
+        "N-268",
         "N-1"
       ]
     },
@@ -3563,7 +3563,7 @@
       "transcript_snippet": "Justin Davis was driving upwards to 100 miles per hour.",
       "mentions_person_refs": [
         "N-3",
-        "N-498"
+        "N-496"
       ]
     },
     {
@@ -3610,8 +3610,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-274",
-        "N-498"
+        "N-272",
+        "N-496"
       ]
     },
     {
@@ -3828,7 +3828,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-370"
+        "N-368"
       ]
     },
     {
@@ -3891,7 +3891,7 @@
       "transcript_snippet": "I think somebody emailed me and said they dug up Brian's and it was from like 1996 and that he should have had one in the state of Utah.",
       "mentions_person_refs": [
         "N-3",
-        "N-270"
+        "N-268"
       ]
     },
     {
@@ -3915,7 +3915,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-270",
+        "N-268",
         "N-97"
       ]
     },

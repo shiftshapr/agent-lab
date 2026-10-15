@@ -1,0 +1,509 @@
+[
+ {
+  "claim": "C-1467",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-17",
+    "N-1"
+   ]
+  },
+  "note": "Justin McCoy is not referred to in the claim."
+ },
+ {
+  "claim": "C-1470",
+  "episode": 19,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:37:36"
+  },
+  "note": "Line falls ~37:41 by word position in the 37:09 block; 37:36 is ~5s before."
+ },
+ {
+  "claim": "C-1478",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {
+   "claim": "Host states that the people she listed for the group chat, including Andrew Kolvet and Stacy Sheridan, were brought into TPUSA by Tyler Bowyer.",
+   "mentions": [
+    "N-11",
+    "N-14",
+    "N-190"
+   ],
+   "label": "Host Says Kolvet and Sheridan Were Brought In by Tyler Bowyer"
+  },
+  "note": "Mikey McCoy is never named; transcript supports fix."
+ },
+ {
+  "claim": "C-1481",
+  "episode": 19,
+  "decision": "amend",
+  "fix": {
+   "claim": "Host says that, as Ian Carroll pointed out in one of his videos, Frank Turek was the only person acting right; she says the normal first reaction is to drop to the ground and get low, and that Turek then crawls back toward Charlie Kirk and tries to see him to the car.",
+   "mentions": [
+    "N-7",
+    "N-131",
+    "N-1"
+   ]
+  },
+  "note": "Host never says Turek got low; she says he crawls back. Removed 'as Turek did'."
+ },
+ {
+  "claim": "C-1485",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-194"
+   ]
+  },
+  "note": "Mikey McCoy is named in the claim."
+ },
+ {
+  "claim": "C-1486",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-194"
+   ],
+   "claim": "Host states she told someone to play devil's advocate for Mikey McCoy and explain how he did it so quickly; \"no one could win this game.\"",
+   "label": "Host Asked for Devil's Advocate on Mikey McCoy"
+  },
+  "note": "No 'team' or '834ms' in the devil's advocate passage."
+ },
+ {
+  "claim": "C-1487",
+  "episode": 19,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says it is thanks to people on the internet like Sam Parker, James Lee, Ian Carroll and Zeb Boyin, among others, that a video from September 10th has gone pretty viral.",
+   "timestamp": "00:07:45",
+   "mentions": [
+    "N-185",
+    "N-186",
+    "N-131",
+    "N-187"
+   ],
+   "names": [
+    {
+     "wrong": "Zeb Boyin",
+     "right": "Zeb Boykin",
+     "source": "https://rumble.com/v6z3bzi-marine-sniper-zeb-boykin-breaks-down-charlie-kirk-assassination-cover-up.html"
+    }
+   ]
+  },
+  "note": "Boykin confirmed (Marine sniper analyzing Kirk shooting). Names ~07:50 by word position, after the McCoy clip; 07:25 too early."
+ },
+ {
+  "claim": "C-1488",
+  "episode": 19,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:52:47"
+  },
+  "note": "Scott Adams line ~52:52 by word position in 52:17 block; 52:47 is ~5s before."
+ },
+ {
+  "claim": "C-1489",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {},
+  "note": "Ryan Mata/Matta appears nowhere in the ep19 transcript; claim unsupported, should be removed."
+ },
+ {
+  "claim": "C-13981",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host, apparently mocking a speech she attributes to Pastor McCoy, says Charlie \"wanted me to lead the next movement\" and said \"I'm America's pastor,\" then adds sarcastically \"I'm sure he did. I'm sure he called you America's pastor.\""
+  },
+  "note": "'Me' is McCoy in the mocked speech; sarcasm restored."
+ },
+ {
+  "claim": "C-14002",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-194"
+   ]
+  },
+  "note": "Claim names only Mikey McCoy."
+ },
+ {
+  "claim": "C-1492",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:07:00"
+  },
+  "note": "Run/Kanye text read ~07:08 by word position."
+ },
+ {
+  "claim": "C-1498",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Erika Kirk not referred to; claim is about Candace's own remarks."
+ },
+ {
+  "claim": "C-1500",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-194"
+   ]
+  },
+  "note": "Charlie not named in the claim."
+ },
+ {
+  "claim": "C-1502",
+  "episode": 20,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:49:10",
+   "claim": "In a clip the host plays, Frank Turek states there is a 'difference between a possibility and evidence for a possibility,' tells people who have no evidence to 'shut up,' and calls Mikey McCoy, who he says was 23 at the time, a hero that day."
+  },
+  "note": "Fix wording named Charlie without listing him; reworded to keep mentions accurate. Timestamp ok (~49:18)."
+ },
+ {
+  "claim": "C-1507",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Brigitte Macron is listed on French tax forms as Jean Michelle and as male, and cites a government official, Mr. Bromet, who recounted that she was stunned to learn her legal name had been changed when she logged into her personal tax account.",
+   "names": [
+    {
+     "wrong": "Burme",
+     "right": "Bromet",
+     "source": "https://www.breitbart.com/politics/2025/10/28/french-govt-claims-hackers-changed-brigitte-macrons-name-and-gender-on-tax-database/"
+    }
+   ]
+  },
+  "note": "Breitbart source checked: Tristan Bromet, Brigitte Macron's chief of staff."
+ },
+ {
+  "claim": "C-1509",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:53:15",
+   "claim": "The host says Nathan Livingstone (Milk Bar TV) shared Book Club clips watermarked with his own branding, that she hit him with a copyright strike, and that he tweeted that she had hit his account, which she mocks as him asking why she is trying to silence him."
+  },
+  "note": "Watermark/strike starts ~53:20; 'why silence me' is host sarcasm."
+ },
+ {
+  "claim": "C-1510",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:10:55",
+   "label": "Host Says David Horowitz Contacted Her After Kanye's Tweet",
+   "claim": "The host says that after she asked Kanye to take a meeting, David Horowitz of the Freedom Center, who first invited her to speak at his conference, messaged her offering to facilitate a meeting through his son who knows Kanye."
+  },
+  "note": "Horowitz passage at ~11:00; fix matches transcript."
+ },
+ {
+  "claim": "C-1511",
+  "episode": 20,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:16:10",
+   "label": "Host Says John and Irina Mappin Arranged Her UK Event",
+   "claim": "The host says John and Irina Mappin, the lone donors who wrote a letter saying that what Turning Point USA is doing is wrong, were the people Charlie asked to arrange a place for her to speak in the UK, and that they made the event happen.",
+   "mentions": [
+    "N-157",
+    "N-158",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "Arena Mappen",
+     "right": "Irina Mappin",
+     "source": "https://x.com/JohnMappin/status/1975380093171093617"
+    }
+   ]
+  },
+  "note": "Irina confirmed (John & Irina Mappin letter). 'John Nina made the event happen' = both; Charlie named so N-1 added; ts ~16:15."
+ },
+ {
+  "claim": "C-1512",
+  "episode": 20,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:29:00",
+   "label": "Host Says Dr. Lee Trotter Did Residency at an Air Force Medical Center",
+   "claim": "The host says the doctor who worked on Charlie was Dr. Lee Trotter, who did his residency at Keesler Air Force Base's medical center in Mississippi, and that she thinks he might be in the Air Force and is a pilot, though she cannot confirm it.",
+   "mentions": [
+    "N-199",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie, add N-1; Trotter named ~29:05."
+ },
+ {
+  "claim": "C-1513",
+  "episode": 20,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:29:35",
+   "label": "Host Says Medical Examiner Deirdre Amaro Is an Army Major From the Ericson Family",
+   "claim": "The host says the medical examiner, Dr. Deirdre Amaro, is a major in the army from the Ericson family, and that in a dream Charlie told her to look into her.",
+   "mentions": [
+    "N-179",
+    "N-1"
+   ],
+   "names": [
+    {
+     "wrong": "Deidra Weiss Amaro",
+     "right": "Deirdre Amaro",
+     "source": "https://dhhs.utah.gov/featured-news/utah-department-of-health-and-human-services-dhhs-welcomes-new-medical-examiner/"
+    }
+   ]
+  },
+  "note": "Utah DHHS confirms Dr. Deirdre Amaro; Charlie referred to (dream) so N-1 added; ts ~29:40."
+ },
+ {
+  "claim": "C-12159",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says David Horowitz is the father, or stepfather, of the Andreessen Horowitz figure whom she says Benjamin Netanyahu is insisting be part of the group that buys TikTok, because they think it important for psychological warfare in the future.",
+   "label": "Host Says Horowitz's Son or Stepson Is Wanted in the TikTok Buyer Group",
+   "names": [
+    {
+     "wrong": "Andre and Harowitz",
+     "right": "Andreessen Horowitz",
+     "source": "https://www.forbesafrica.com/current-affairs/2025/09/17/oracle-andreessen-horowitz-more-will-hold-controlling-stake-in-tiktok-deal-report-says"
+    }
+   ]
+  },
+  "note": "Checked: Ben Horowitz (a16z co-founder) is David Horowitz's son; a16z in Oracle-led TikTok bid."
+ },
+ {
+  "claim": "C-12192",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she met Lila Rose through Marissa Streit and that it was kind of the same people funding both.",
+   "names": [
+    {
+     "wrong": "Llaya Rose",
+     "right": "Lila Rose",
+     "source": "https://en.wikipedia.org/wiki/Lila_Rose"
+    }
+   ]
+  },
+  "note": "Checked: Catholic convert pro-life activist; appeared on PragerU's Candace Owens Show 2019."
+ },
+ {
+  "claim": "C-12229",
+  "episode": 20,
+  "decision": "amend",
+  "fix": {
+   "claim": "Discussing Mikey McCoy putting his hands to his ears after the shot, the host says it would be unlikely that you would keep holding your ears until you get all the way out and not duck down.",
+   "mentions": [
+    "N-3",
+    "N-194"
+   ]
+  },
+  "note": "Remark is about Mikey McCoy ('regarding him putting his hands up to his ear'); keep N-194 and make the reference explicit."
+ },
+ {
+  "claim": "C-12230",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "Mikey McCoy not named in the claim."
+ },
+ {
+  "claim": "C-12236",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says it seems to her that there has been a military infiltration into the churches, which she has termed Operation Mocking Pastor, where they just try to find some scripture and justify it.",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Hedge restored; Turek not in claim."
+ },
+ {
+  "claim": "C-12245",
+  "episode": 20,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says officials claim the change to Brigitte Macron's name on her tax record was done by a team of hackers who have not been arrested.",
+   "mentions": [
+    "N-3",
+    "N-82"
+   ],
+   "relevance": "tangential"
+  },
+  "note": "'The name change' is Brigitte Macron's; name her rather than drop her. Tangential ok."
+ },
+ {
+  "claim": "C-12251",
+  "episode": 20,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Brigitte Macron's lawsuit against her has not got to any stage, with the back and forth of changing filings all very preliminary.",
+   "mentions": [
+    "N-3",
+    "N-82"
+   ],
+   "relevance": "tangential"
+  },
+  "note": "'The case' is Macron's suit against the host (addressed to Brigitte); name her. Tangential ok."
+ },
+ {
+  "claim": "C-1518",
+  "episode": 21,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her team searched Truth Social for Trump posts calling for further investigation into Charlie Kirk's murder and found only one, which she says is not a call for an investigation into the murder but asks why Turning Point was under investigation by Jack Smith and the Biden administration."
+  },
+  "note": "Hedge and search restored; matches transcript."
+ },
+ {
+  "claim": "C-1519",
+  "episode": 21,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a New York Times headline the day before concerned how upset Kash Patel was when he received an inquiry from Joe Kent, of Tulsi Gabbard's office, about details of the Charlie Kirk investigation, which apparently alarmed Patel; she suggests they were asking whether people overseas were involved.",
+   "mentions": [
+    "N-1",
+    "N-69",
+    "N-213",
+    "N-333"
+   ]
+  },
+  "note": "Matches transcript; Kent and Gabbard named."
+ },
+ {
+  "claim": "C-1520",
+  "episode": 21,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, after the inquiry, Kash Patel apparently held a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard and Trump officials, that she thinks it said JD Vance was also in the meeting, and that nothing was accomplished.",
+   "mentions": [
+    "N-132",
+    "N-69",
+    "N-4",
+    "N-213",
+    "N-333"
+   ]
+  },
+  "note": "Matches transcript."
+ },
+ {
+  "claim": "C-1522",
+  "episode": 21,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:34:10"
+  },
+  "note": "Kelly re-asks ~34:07, Don Jr 'I I do' ~34:12."
+ },
+ {
+  "claim": "C-1523",
+  "episode": 21,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-33",
+    "N-46",
+    "N-1"
+   ]
+  },
+  "note": "Don Jr. and Kirk referred to in the claim."
+ },
+ {
+  "claim": "C-1524",
+  "episode": 21,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host asserts that Rob McCoy was not the founder or co-founder of TPUSA Faith but one of the advisers put on its advisory board; she says the idea for TPUSA Faith came from conversations with pastors back at Liberty University, which she was there for.",
+   "timestamp": "00:04:25"
+  },
+  "note": "Claim text ok, but the rejection and Liberty remark begin at 04:30; adviser line at ~09:35 is later. Use 04:25."
+ },
+ {
+  "claim": "C-1525",
+  "episode": 21,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host asks Don Trump Jr., as a hunter, to make a video saying he believes Charlie was shot in the neck with a .30-06 that his neck stopped while remaining intact, and says he will not say that because it is untrue.",
+   "mentions": [
+    "N-33",
+    "N-1"
+   ],
+   "timestamp": "00:37:35"
+  },
+  "note": "Matches the 37:36 block."
+ },
+ {
+  "claim": "C-1526",
+  "episode": 21,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a trailer for an upcoming interview with the host, Norman Finkelstein is shown saying The Economist described Gaza as 'a human rubbish heap' and the leading UN official on Gaza described it as 'a toxic dump for the people of Israel', and asserting that a billionaire class of Jewish supremacists is flagrantly using money as a blackmail weapon to silence not just criticism of Jews but criticism of an ongoing genocide.",
+   "timestamp": "00:40:50"
+  },
+  "note": "Trailer starts ~40:58."
+ },
+ {
+  "claim": "C-6528",
+  "episode": 21,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1"
+   ]
+  },
+  "note": "Claim does not refer to Mikey McCoy."
+ },
+ {
+  "claim": "C-6540",
+  "episode": 21,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host tells Don Jr. that if he cannot say anything she understands the ties that bind, says \"they understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet,\" and says hunters know he does not believe the official account."
+  },
+  "note": "Matches 38:46 block."
+ },
+ {
+  "claim": "C-6541",
+  "episode": 21,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she sat down with Norman Finkelstein for a conversation that will be released on Friday."
+  },
+  "note": "'Two hours' not in transcript."
+ },
+ {
+  "claim": "C-1527",
+  "episode": 22,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Mark Herman not referred to in the claim."
+ }
+]

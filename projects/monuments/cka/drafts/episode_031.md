@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-765, N-766, N-767, N-768, N-769, N-770, N-771, N-772, N-11106
-  - Hole-minted Nodes (reintro-ep031): N-281, N-587, N-10252, N-10264, N-10465, N-10818
-  - Tip-minted Nodes (reintro-ep031): N-621, N-721, N-10916, N-10989
+  - Tip-minted Nodes (supplement_2026-10b): N-763, N-764, N-765, N-766, N-767, N-768, N-769, N-770, N-11106
+  - Hole-minted Nodes (reintro-ep031): N-279, N-585, N-10252, N-10264, N-10465, N-10818
+  - Tip-minted Nodes (reintro-ep031): N-619, N-719, N-10916, N-10989
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6597–C-6676
-  - New Nodes Introduced: N-253, N-10246, N-10247
-  - Reused Nodes Appearing: N-5, N-9, N-27, N-36, N-40, N-46, N-82, N-85, N-98, N-194, N-209, N-212, N-231, N-250, N-251, N-10000, N-10004, N-10107, N-10139, N-10166, N-10193, N-10209, N-10245, N-10253, N-10324, N-10398, N-10251, N-10270, N-10406, N-10434, N-383, N-10268, N-10817, N-302
+  - New Nodes Introduced: N-251, N-10246, N-10247
+  - Reused Nodes Appearing: N-5, N-9, N-27, N-36, N-40, N-46, N-82, N-85, N-98, N-192, N-207, N-210, N-229, N-248, N-249, N-10000, N-10004, N-10107, N-10139, N-10166, N-10193, N-10209, N-10245, N-10253, N-10324, N-10398, N-10251, N-10270, N-10406, N-10434, N-381, N-10268, N-10817, N-300
   - (see registers)
 
 ## 2. Executive Summary
@@ -283,7 +283,7 @@ Video Timestamp: 00:06:39–00:08:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1685, N-253, N-10247*
+*Related: C-1685, N-251, N-10247*
 
 ---
 
@@ -297,7 +297,7 @@ Video Timestamp: 00:09:22–00:10:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1684, N-253*
+*Related: C-1684, N-251*
 
 ---
 
@@ -311,7 +311,7 @@ Video Timestamp: 00:12:54–00:13:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1686, C-1687, C-1689, N-253, Rob McCoy (likely-existing node), N-10247*
+*Related: C-1686, C-1687, C-1689, N-251, Rob McCoy (likely-existing node), N-10247*
 
 **A-1394.2** Thomas Camino Narrative on Bryce Eddie Show – Claims of False Conviction
 
@@ -321,7 +321,7 @@ Video Timestamp: 00:13:55–00:17:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1688, N-253*
+*Related: C-1688, N-251*
 
 ---
 
@@ -349,7 +349,7 @@ Video Timestamp: 00:46:40–00:49:21
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1691, N-216, Tim Dillon (likely-existing node), Kash Patel (likely-existing node)*
+*Related: C-1691, N-214, Tim Dillon (likely-existing node), Kash Patel (likely-existing node)*
 
 ---
 
@@ -520,7 +520,7 @@ Video Timestamp: 00:08:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6608, N-253, N-3*
+*Related: C-6608, N-251, N-3*
 
 ---
 
@@ -561,7 +561,7 @@ Video Timestamp: 00:31:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6647, N-209, N-3*
+*Related: C-6647, N-207, N-3*
 
 ---
 
@@ -574,7 +574,7 @@ Video Timestamp: 00:45:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6664, N-251, N-216, N-3*
+*Related: C-6664, N-249, N-214, N-3*
 
 ---
 
@@ -608,7 +608,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-253** Thomas Michael Camino
+**N-251** Thomas Michael Camino
 
 California sex offender convicted in 1995 of child molestation and sentenced to 8 years; subsequently befriended by Rob McCoy and placed in Calvary Chapel home-fellowship program with access to children.
 
@@ -621,7 +621,7 @@ Investigative Pressure: High
 
 ---
 
-**N-216** Alexis Wilkins
+**N-214** Alexis Wilkins
 
 Country-music artist referenced as Kash Patel's girlfriend and as a member of Calvary Chapel Church in Chino Hills, California. Subject of Tim Dillon comedy segment.
 
@@ -656,7 +656,7 @@ Claim Count: 0 (no per-incident displayed sources; host statement only)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1394.1, A-1398.11, N-253, N-216, Rob McCoy (likely-existing node), Jack Hibbs (likely-existing node), Chuck Smith (likely-existing node)*
+*Related: A-1394.1, A-1398.11, N-251, N-214, Rob McCoy (likely-existing node), Jack Hibbs (likely-existing node), Chuck Smith (likely-existing node)*
 
 ---
 
@@ -669,7 +669,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1392.1 (Camino victim email indirectly linked via Rob McCoy financial stewardship), Rob McCoy (likely-existing node), N-253*
+*Related: A-1392.1 (Camino victim email indirectly linked via Rob McCoy financial stewardship), Rob McCoy (likely-existing node), N-251*
 
 ---
 
@@ -784,7 +784,7 @@ Donor the host names (spelled Bob Shillman) when she asks why millions came from
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 The host says releasing his call logs would not endanger the case.
 
@@ -792,7 +792,7 @@ The host says releasing his call logs would not endanger the case.
 
 ---
 
-**N-209** Sean Feucht
+**N-207** Sean Feucht
 
 Transcript renders him as Sean Fo; the host cites a September 30 article on mismanagement of funds.
 
@@ -800,7 +800,7 @@ Transcript renders him as Sean Fo; the host cites a September 30 article on mism
 
 ---
 
-**N-212** Jack Hibbs
+**N-210** Jack Hibbs
 
 Calvary Chapel pastor the host says hosts 5 a.m. calls against her and Tucker Carlson.
 
@@ -808,7 +808,7 @@ Calvary Chapel pastor the host says hosts 5 a.m. calls against her and Tucker Ca
 
 ---
 
-**N-231** Allie Beth Stuckey
+**N-229** Allie Beth Stuckey
 
 The host says she posted a video about not having dreams and called the host a liar in her own way.
 
@@ -816,7 +816,7 @@ The host says she posted a video about not having dreams and called the host a l
 
 ---
 
-**N-250** Butch Hibbs
+**N-248** Butch Hibbs
 
 Jack Hibbs' brother, whom the host says was everywhere before and after the assassination.
 
@@ -824,7 +824,7 @@ Jack Hibbs' brother, whom the host says was everywhere before and after the assa
 
 ---
 
-**N-251** Elijah Schaefer
+**N-249** Elijah Schaefer
 
 Defendant in the lawsuit the host says concerns a joke.
 
@@ -832,7 +832,7 @@ Defendant in the lawsuit the host says concerns a joke.
 
 ---
 
-**N-281** Tim Dillon
+**N-279** Tim Dillon
 
 Comedian whose clip is played; the host says he is included in her Macron lawsuit.
 
@@ -840,7 +840,7 @@ Comedian whose clip is played; the host says he is included in her Macron lawsui
 
 ---
 
-**N-302** Miriam Adelson
+**N-300** Miriam Adelson
 
 A commenter asks if she was the donor who yelled at Charlie; the host says no and that she is trying to remove Massie.
 
@@ -848,7 +848,7 @@ A commenter asks if she was the donor who yelled at Charlie; the host says no an
 
 ---
 
-**N-383** Emmanuel Macron
+**N-381** Emmanuel Macron
 
 Named by the host in the Macron investigation passage.
 
@@ -856,7 +856,7 @@ Named by the host in the Macron investigation passage.
 
 ---
 
-**N-587** Thomas Massie
+**N-585** Thomas Massie
 
 The host says Miriam Adelson is trying to remove him.
 
@@ -864,7 +864,7 @@ The host says Miriam Adelson is trying to remove him.
 
 ---
 
-**N-621** Cardi B
+**N-619** Cardi B
 
 The host says her book starts and ends with Cardi B.
 
@@ -872,7 +872,7 @@ The host says her book starts and ends with Cardi B.
 
 ---
 
-**N-721** Chuck Smith
+**N-719** Chuck Smith
 
 The host names him as the founder of Calvary Chapel.
 
@@ -1087,7 +1087,7 @@ Existing organization reused for the orphanage remark.
 
 ---
 
-**N-765** Bob Coy
+**N-763** Bob Coy
 
 First named by the host at 00:19:19 in episode 31. Pompo Beach, Florida Calvary Chapel founder accused of molesting a 4-year-old; the host stresses he is not Rob McCoy.
 
@@ -1095,7 +1095,7 @@ First named by the host at 00:19:19 in episode 31. Pompo Beach, Florida Calvary 
 
 ---
 
-**N-766** Jason James Taylor
+**N-764** Jason James Taylor
 
 First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel Solid Rock in Minnesota, named by the host as one of six arrested in a sting.
 
@@ -1103,7 +1103,7 @@ First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel
 
 ---
 
-**N-767** Anthony Eglacius
+**N-765** Anthony Eglacius
 
 First named by the host at 00:19:19 in episode 31. Named by the host (spelled Anthony Eglacius) as a predator the Post Falls church allegedly concealed; she says he is serving time in Idaho.
 
@@ -1111,7 +1111,7 @@ First named by the host at 00:19:19 in episode 31. Named by the host (spelled An
 
 ---
 
-**N-768** Robert Davis
+**N-766** Robert Davis
 
 First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of North County Chapel in Post Falls, Idaho, whom the lawsuit alleges made the Thailand remark.
 
@@ -1119,7 +1119,7 @@ First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of N
 
 ---
 
-**N-769** Doug Deandria
+**N-767** Doug Deandria
 
 First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor in Virginia the host says pleaded guilty to child sex abuse.
 
@@ -1127,7 +1127,7 @@ First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor 
 
 ---
 
-**N-770** Jeffrey Keon Ziz
+**N-768** Jeffrey Keon Ziz
 
 First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor the host says confessed to misconduct with his daughters and later committed a murder (name as rendered in the transcript).
 
@@ -1135,7 +1135,7 @@ First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor 
 
 ---
 
-**N-771** Diddy
+**N-769** Diddy
 
 First named by the host at 00:22:47 in episode 31. Referred to by the host as Diddy in the passage on the man who said the feds run a cartel operation.
 
@@ -1143,7 +1143,7 @@ First named by the host at 00:22:47 in episode 31. Referred to by the host as Di
 
 ---
 
-**N-772** Kenny
+**N-770** Kenny
 
 First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kenny and Kenny in the transcript).
 
@@ -1193,7 +1193,7 @@ Claim Timestamp: 00:09:22
 Claim: The episode presents a 1995 LA Times article headlined "Child molester draws an 8-year term in prison," reporting that Thomas Michael Camino, 31, of San Juan Capistrano, was sentenced to the maximum 8-year term after conviction on molestation, indecent exposure, and 10 counts of child annoyance, for using a lost-cat story to lure girls in Orange County.
 
 Anchored Artifacts: A-1393.1
-Mentions: N-253
+Mentions: N-251
 Investigative Direction: Retrieve original LA Times 1995 article and California court records for People v. Camino to confirm conviction counts, sentence, and dates; cross-check against prior 1990 Manhattan Beach probation.
 
 ---
@@ -1205,7 +1205,7 @@ Claim Timestamp: 00:06:39
 Claim: Owens reads aloud an email from a woman who states she was 8 years old in Dana Point, California, in 1995, when Thomas Camino approached her and a friend to help find his cat, took them to a park behind her house, and attempted to molest her before she ran away; she identifies as a key witness at his trial.
 
 Anchored Artifacts: A-1392.1
-Mentions: N-253
+Mentions: N-251
 Related Nodes: N-10247
 Investigative Direction: Verify sender identity, confirm testimony record in People v. Camino, and authenticate email provenance.
 
@@ -1218,7 +1218,7 @@ Claim Timestamp: 00:12:54
 Claim: On the Bryce Eddie Show podcast clip played in the episode, Rob McCoy states he has been friends with Thomas Camino for over 20 years since Camino's introduction at "Skyline," and that Camino has "followed the procedures" required of him and "served this community."
 
 Anchored Artifacts: A-1394.1
-Mentions: N-253, N-17
+Mentions: N-251, N-17
 Investigative Direction: Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events.
 
 ---
@@ -1230,7 +1230,7 @@ Claim Timestamp: 00:12:54
 Claim: Owens states, and the Rob McCoy podcast clip corroborates, that McCoy personally approved Thomas Camino's inclusion in the Calvary Chapel "home fellowship" program, which placed him "inside the homes of children," and that McCoy framed resulting criticism as "gossip and slander."
 
 Anchored Artifacts: A-1394.1
-Mentions: N-253, N-17
+Mentions: N-251, N-17
 Related Nodes: N-10246
 Investigative Direction: Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.
 
@@ -1243,7 +1243,7 @@ Claim Timestamp: 00:13:55
 Claim: In the Bryce Eddie Show clip, Thomas Camino states he was "falsely accused," describes a "sham" trial, claims he served 1,536 days for a crime he did not commit, and alleges his ex-wife was dating his public defender.
 
 Anchored Artifacts: A-1394.2
-Mentions: N-253
+Mentions: N-251
 Investigative Direction: Cross-check appellate court findings against Camino's narrative; verify the appeal court ruling referenced in his account; identify the public defender named.
 
 ---
@@ -1255,7 +1255,7 @@ Claim Timestamp: 00:12:54
 Claim: In the podcast clip, Rob McCoy explicitly characterizes the criticism of placing Camino with children as driven by "gossip and slander" and states he made a personal call to "protect" Camino's family.
 
 Anchored Artifacts: A-1394.1
-Mentions: N-253, N-17
+Mentions: N-251, N-17
 Related Nodes: N-10246
 Investigative Direction: Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure.
 
@@ -1280,7 +1280,7 @@ Claim Timestamp: 00:46:40
 Claim: In the played clip, Tim Dillon performs a comedy bit involving imagined lyrics from Alexis Wilkins, references Tel Aviv, "Kash Mattel," and "Jeff" files, and jokes about a country-music release.
 
 Anchored Artifacts: A-1396.1
-Mentions: N-216, N-69
+Mentions: N-214, N-69
 Related Nodes: N-10247
 Investigative Direction: Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.
 
@@ -1409,7 +1409,7 @@ Claim: The host says Allie Beth Stuckey just did a video in which she said she d
 Transcript Snippet: By Stucky just did this, too. She did a video and was like, I don't I don't have these dreams.
 
 Anchored Artifacts: 
-Mentions: N-231, N-3
+Mentions: N-229, N-3
 Tags: relevance:context
 Investigative Direction: Locate Stuckey's video from the days before 2025-11-13 and confirm the wording about dreams.
 
@@ -1439,7 +1439,7 @@ Claim: The host says the case would not be put at risk if Mikey McCoy shared his
 Transcript Snippet: We should not pretend like somehow the case would be put at risk if Mikey McCoy shared his call logs.
 
 Anchored Artifacts: 
-Mentions: N-194, N-1, N-3
+Mentions: N-192, N-1, N-3
 Related Nodes: N-10193, N-10434
 Supports: C-1563
 Tags: relevance:core
@@ -1502,7 +1502,7 @@ Claim: The host says that in 1990 Thomas Camino was placed on probation after pl
 Transcript Snippet: In 1990, uh, Camino was placed on probation for pleading no contest to lewd conduct involving children in Manhattan Beach.
 
 Anchored Artifacts: A-2825.1
-Mentions: N-253, N-3
+Mentions: N-251, N-3
 Related Nodes: N-11106
 Tags: relevance:core
 Investigative Direction: Pull the 1990 California court record for Camino; note that Manhattan Beach is in Los Angeles County, not Orange County, and confirm the plea and probation terms.
@@ -1518,7 +1518,7 @@ Claim: The host reads from the 1995 LA Times article that Camino's lawyer said h
 Transcript Snippet: Kamino's lawyer said his client, who had previously maintained his innocence, was now admitting his guilt.
 
 Anchored Artifacts: A-1393.1
-Mentions: N-253
+Mentions: N-251
 Related Nodes: N-11106
 Contradicts: C-1688
 Tags: relevance:core
@@ -1535,7 +1535,7 @@ Claim: The host reads from the article that Camino terrorized a Dana Point neigh
 Transcript Snippet: Prosecutors said he approached young girls, lured them into secluded spots such as a riverbed and the basement of a house by asking them to find his cat.
 
 Anchored Artifacts: A-1393.1
-Mentions: N-253
+Mentions: N-251
 Related Nodes: N-11106
 Supports: C-1684
 Tags: relevance:core
@@ -1552,7 +1552,7 @@ Claim: The host says Rob McCoy placed Camino in the home fellowship program, whi
 Transcript Snippet: until some mothers went online remembered exactly what had happened and raised hell about it in 2022.
 
 Anchored Artifacts: 
-Mentions: N-17, N-253, N-3
+Mentions: N-17, N-251, N-3
 Related Nodes: N-10246
 Supports: C-1687
 Tags: relevance:core
@@ -1584,7 +1584,7 @@ Claim: In the played clip, Rob McCoy says he personally made the call to protect
 Transcript Snippet: So I pulled that um I guess I guess it was a advertisement for the home fellowship which we do for all the home fellowships.
 
 Anchored Artifacts: A-1394.1
-Mentions: N-17, N-253
+Mentions: N-17, N-251
 Related Nodes: N-10246
 Supports: C-1689
 Tags: relevance:core
@@ -1601,7 +1601,7 @@ Claim: In the played clip, Thomas Camino says a girl was filmed in an interview 
 Transcript Snippet: And then they just keep asking her leading question after leading question and the kid's not giving them what they want.
 
 Anchored Artifacts: A-1394.2
-Mentions: N-253
+Mentions: N-251
 Related Nodes: N-11106
 Tags: relevance:core
 Investigative Direction: Obtain the trial transcript and the recorded interview to check Camino's description of how the child's statement was elicited.
@@ -1617,7 +1617,7 @@ Claim: In the played clip, Camino says police lined up about 16 men of a certain
 Transcript Snippet: They get 11 of them, which kind sounds kind of bad until you read what it is.
 
 Anchored Artifacts: A-1394.2
-Mentions: N-253
+Mentions: N-251
 Related Nodes: N-11106
 Tags: relevance:core
 Investigative Direction: Obtain the search warrant return from the Orange County court file and the list of items seized.
@@ -1633,7 +1633,7 @@ Claim: In the played clip, Camino says his lawyer told him police had footprints
 Transcript Snippet: they say they have footprints, forensic evidence, footprints and a palm print of yours that they lifted from a scene
 
 Anchored Artifacts: A-1394.2
-Mentions: N-253
+Mentions: N-251
 Related Nodes: N-11106
 Tags: relevance:core
 Investigative Direction: Obtain the trial exhibits and forensic reports to check the footprint and palm print evidence and any plea offer.
@@ -1649,7 +1649,7 @@ Claim: In the played clip, Camino says he did not have a record before the eight
 Transcript Snippet: didn't have a record.
 
 Anchored Artifacts: A-1394.2
-Mentions: N-253
+Mentions: N-251
 Related Nodes: N-11106
 Contradicts: C-6608
 Tags: relevance:core
@@ -1666,7 +1666,7 @@ Claim: In the played clip, Camino says the appellate court agreed that the law w
 Transcript Snippet: Yes, we agree. They broke the law twice out of out of the three points and they violated your rights.
 
 Anchored Artifacts: A-1394.2
-Mentions: N-253
+Mentions: N-251
 Related Nodes: N-11106
 Tags: relevance:core
 Investigative Direction: Retrieve the California Court of Appeal opinion in People v. Camino and read its harmless-error holding.
@@ -1698,7 +1698,7 @@ Claim: The host says the founder of Calvary Chapel in Pompo Beach, Florida was a
 Transcript Snippet: Then he got accused of molesting a 4-year-old girl.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-765, N-17, N-3
+Mentions: N-763, N-17, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Search Florida court and news records for the accusation against Bob Coy and its outcome.
@@ -1762,7 +1762,7 @@ Claim: The host says Jason James Taylor, lead pastor of Calvary Chapel Solid Roc
 Transcript Snippet: He was among six people who were arrested following a solicitation of minors.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-766, N-3
+Mentions: N-764, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Locate Minnesota task force press releases and court records naming Jason James Taylor and the case outcome.
@@ -1778,7 +1778,7 @@ Claim: The host says the North County Chapel in Post Falls, Idaho is being sued 
 Transcript Snippet: Yeah, we knew that's why we pulled him out of Thailand.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-767, N-768, N-3
+Mentions: N-765, N-766, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Retrieve the Idaho civil complaint and the criminal judgment against Eglacius and check the quoted allegation.
@@ -1810,7 +1810,7 @@ Claim: The host says a former Calvary Chapel pastor in Virginia named Doug Deand
 Transcript Snippet: The former Calvary uh pastor's name was Doug Deandria. He is currently serving time in jail in Virginia on multiple charges related to child sex abuse.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-769, N-3
+Mentions: N-767, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Locate the Virginia court records for the pastor (the transcript spells the name Deandria) and the sentence.
@@ -1842,7 +1842,7 @@ Claim: The host says the lead pastor of a Calvary Chapel in North Thirsten, Oreg
 Transcript Snippet: He went to prison for 11 months. And then when he got out, he murdered an 80year-old and poured concrete.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-770, N-3
+Mentions: N-768, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Identify the pastor (the transcript spells the name Jeffrey Keon Ziz) and the Oregon conviction and homicide case records.
@@ -1858,7 +1858,7 @@ Claim: The host says a man who shot up the Trump Miami Doral, killing no one, sa
 Transcript Snippet: Cassie then verified on the stand that she knew who this man was um and that he had been invited to these parties.
 
 Anchored Artifacts: 
-Mentions: N-771, N-3
+Mentions: N-769, N-3
 Tags: relevance:tangential
 Investigative Direction: Identify the man and the shooting incident the host means and check the Combs trial testimony for any reference to him.
 
@@ -1873,7 +1873,7 @@ Claim: The host says Kanye West said, in an episode now hard to find online, tha
 Transcript Snippet: that Diddy had been blackmailed by the feds and that part of his deal was that he had to keep certain other people in line like Kanye.
 
 Anchored Artifacts: 
-Mentions: N-27, N-771, N-3
+Mentions: N-27, N-769, N-3
 Tags: relevance:tangential
 Investigative Direction: Locate the Kanye West interview or episode the host describes and confirm his words about Diddy and the feds.
 
@@ -1920,7 +1920,7 @@ Claim: The host reads quotes attributed to a former Ignite student named Kenny, 
 Transcript Snippet: I would say maybe like 500. And that would be between all five countries," Kenny said.
 
 Anchored Artifacts: A-2827.1
-Mentions: N-772, N-3
+Mentions: N-770, N-3
 Related Nodes: N-10247
 Tags: relevance:context
 Investigative Direction: Locate the original news report quoting Kenny and the ministry's response, and check the donor mailings.
@@ -2000,7 +2000,7 @@ Claim: The host says Jack Hibbs' brother Butch Hibbs was everywhere before and a
 Transcript Snippet: his brother Butch Hibbs, who was just everywhere um uh before and after Charlie's assassination.
 
 Anchored Artifacts: 
-Mentions: N-212, N-250, N-1, N-3
+Mentions: N-210, N-248, N-1, N-3
 Related Nodes: N-10817
 Supports: C-1674
 Tags: relevance:core
@@ -2017,7 +2017,7 @@ Claim: The host says she received emails saying Pastor Jack Hibbs has gone maske
 Transcript Snippet: He's hosting 500 a. m. calls against me and Tucker Carlson
 
 Anchored Artifacts: 
-Mentions: N-212, N-22, N-3
+Mentions: N-210, N-22, N-3
 Related Nodes: N-10818
 Tags: relevance:context
 Investigative Direction: Obtain the 5 a.m. call invitations or recordings and the emailers' accounts.
@@ -2033,7 +2033,7 @@ Claim: The host says there are CIA implications in who started Calvary Chapel, w
 Transcript Snippet: the CIA implications of who exactly started the Calvary Chapel
 
 Anchored Artifacts: 
-Mentions: N-721, N-3
+Mentions: N-719, N-3
 Related Nodes: N-10465
 Tags: relevance:tangential
 Investigative Direction: Review documented histories of Chuck Smith and the Jesus Movement for any intelligence-agency link; none is shown on air.
@@ -2079,7 +2079,7 @@ Claim: The host says her investigation into Brigitte Macron and her relationship
 Transcript Snippet: the Fed level coverup, uh, which includes a never-before-seen lawsuit, which is just meant to be propagandists to make people think of there's nothing here
 
 Anchored Artifacts: 
-Mentions: N-82, N-383, N-3
+Mentions: N-82, N-381, N-3
 Related Nodes: N-10270
 Tags: relevance:context
 Investigative Direction: Obtain the Delaware complaint and compare its filing, venue and claims with the host's description of a coverup.
@@ -2126,7 +2126,7 @@ Claim: The host says that among Turning Point Faith figures with shady backgroun
 Transcript Snippet: including Sean Fo, there's like an article from September 30th talking about the mismanagement of funds, accusing him of the mismanagement of funds.
 
 Anchored Artifacts: A-2828.1
-Mentions: N-209, N-3
+Mentions: N-207, N-3
 Tags: relevance:core
 Investigative Direction: Identify the September 30 article, confirm the person is Sean Feucht and review the funds allegations and any response.
 
@@ -2331,7 +2331,7 @@ Claim: The host says Allie Beth Stuckey fundamentally called her a liar in her o
 Transcript Snippet: trying to tell it's not biblical for you to pry into what's happened to the Charlie Kirk assassination place.
 
 Anchored Artifacts: 
-Mentions: N-231, N-1, N-3
+Mentions: N-229, N-1, N-3
 Tags: relevance:context
 Investigative Direction: Locate Stuckey's video and the host's earlier response and compare with the host's characterization.
 
@@ -2346,7 +2346,7 @@ Claim: The host says she does not believe Alexis Wilkins, who she says comes fro
 Transcript Snippet: who comes from a family of Freemasons and who's got a spotty background.
 
 Anchored Artifacts: 
-Mentions: N-216, N-69, N-3
+Mentions: N-214, N-69, N-3
 Related Nodes: N-10245
 Tags: relevance:context
 Investigative Direction: Locate biographical sources on Wilkins' family and any time in Switzerland; the host cites none.
@@ -2362,7 +2362,7 @@ Claim: The host says Alexis Wilkins is also a member of the Calvary Chapel Churc
 Transcript Snippet: She's also a member of the Calvary Chapel Church in California, Chino Hills.
 
 Anchored Artifacts: 
-Mentions: N-216, N-3
+Mentions: N-214, N-3
 Related Nodes: N-10246
 Supports: C-1691
 Tags: relevance:core
@@ -2395,7 +2395,7 @@ Claim: The host says Elijah Schaefer's lawsuit, which she says Kash Patel is bac
 Transcript Snippet: that's what Elijah Schaefer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric.
 
 Anchored Artifacts: A-2829.1
-Mentions: N-251, N-216, N-69, N-3
+Mentions: N-249, N-214, N-69, N-3
 Related Nodes: N-10245
 Tags: relevance:context
 Investigative Direction: Retrieve the complaint against Schaefer and check what statements it quotes and whether it cites his views on Israel.
@@ -2411,7 +2411,7 @@ Claim: The host says Tim Dillon is already included in her lawsuit with Brigitte
 Transcript Snippet: Apparently the president of France watches um Tim Dillon and we talked about the Breij case and so he's drafted in there.
 
 Anchored Artifacts: 
-Mentions: N-281, N-82, N-3
+Mentions: N-279, N-82, N-3
 Related Nodes: N-10270
 Tags: relevance:context
 Investigative Direction: Check the Macron complaint's list of defendants and quoted statements to see whether Dillon is named or cited.
@@ -2473,7 +2473,7 @@ Claim: The host says her book Make Him a Sandwich starts with Cardi B and ends w
 Transcript Snippet: It starts with Cardi B and it ends with Cardi B.
 
 Anchored Artifacts: A-1398.1
-Mentions: N-3, N-621
+Mentions: N-3, N-619
 Tags: relevance:tangential
 Investigative Direction: Check the book's table of contents and shipping status.
 
@@ -2536,7 +2536,7 @@ Claim: Responding to a comment, the host says the lady donor who yelled at Charl
 Transcript Snippet: No, it was not her.
 
 Anchored Artifacts: A-1398.5
-Mentions: N-302, N-1, N-3
+Mentions: N-300, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Identify the donor who confronted Kirk; the host says the name is saved in her phone, so ask her to disclose it.
 
@@ -2551,7 +2551,7 @@ Claim: The host says Miriam Adelson is trying to remove Thomas Massie, whom she 
 Transcript Snippet: Uh, she's trying to remove Senator Massie.
 
 Anchored Artifacts: A-1398.5
-Mentions: N-302, N-587, N-3
+Mentions: N-300, N-585, N-3
 Related Nodes: N-10916
 Tags: relevance:context
 Investigative Direction: Check federal election filings for Adelson-linked spending against Massie; note that Massie is a US Representative, not a Senator.

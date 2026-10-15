@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-484"
+            "N-482"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -85,8 +85,8 @@
             "C-2153"
           ],
           "related_nodes": [
-            "N-482",
-            "N-483"
+            "N-480",
+            "N-481"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -139,7 +139,7 @@
             "C-2157"
           ],
           "related_nodes": [
-            "N-334"
+            "N-332"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -165,7 +165,7 @@
             "C-2157"
           ],
           "related_nodes": [
-            "N-334"
+            "N-332"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -192,7 +192,7 @@
             "C-2156"
           ],
           "related_nodes": [
-            "N-485"
+            "N-483"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -222,7 +222,7 @@
           "related_nodes": [
             "N-3",
             "N-32",
-            "N-527",
+            "N-525",
             "N-27",
             "N-10004"
           ],
@@ -347,8 +347,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-334",
-      "ref": "N-334",
+      "@id": "N-332",
+      "ref": "N-332",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Independent investigator and YouTuber now working full-time on the Charlie Kirk assassination case. Co-host for this episode and recurring collaborator.",
@@ -387,8 +387,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-482",
-      "ref": "N-482",
+      "@id": "N-480",
+      "ref": "N-480",
       "name": "Katherine Pollard Griggs",
       "type": "person",
       "description": "Wife of Colonel George Griggs. Subject of interview clip played in this episode describing U.S. military as a mind control operation.",
@@ -405,13 +405,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-483"
+        "N-481"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-483",
-      "ref": "N-483",
+      "@id": "N-481",
+      "ref": "N-481",
       "name": "Colonel George Griggs",
       "type": "person",
       "description": "U.S. Marine Corps officer; head of special operations under Admiral Kelso/NATO; intelligence career spanning Vietnam and continuing under General Wilhelm; husband of Katherine Pollard Griggs. Described in the clip as the source for Katherine Griggs's military claims.",
@@ -427,13 +427,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-482"
+        "N-480"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-484",
-      "ref": "N-484",
+      "@id": "N-482",
+      "ref": "N-482",
       "name": "Jessica Ghawi",
       "type": "person",
       "description": "Victim of the 2012 Aurora theater shooting; previously survived the Toronto Eaton Centre food court shooting weeks earlier; previously lived in New Braunfels, Texas.",
@@ -451,8 +451,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-485",
-      "ref": "N-485",
+      "@id": "N-483",
+      "ref": "N-483",
       "name": "Ronald Lauder",
       "type": "person",
       "description": "President of the World Jewish Congress; named in Jerusalem Post headline as allegedly involved in Trump's push for Greenland.",
@@ -660,8 +660,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-219",
+      "ref": "N-219",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Joined Maine vacation; final-footage context.",
@@ -676,8 +676,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.",
@@ -861,8 +861,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; the host and Coleman discuss his role, promotion and the night-before text.",
@@ -989,8 +989,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-725",
-      "ref": "N-725",
+      "@id": "N-723",
+      "ref": "N-723",
       "name": "Bill Cooper",
       "type": "person",
       "description": "First named by the host at 00:14:50 in episode 60. Author the host calls the original conspiracy theorist who predicted military-linked mass shootings.",
@@ -1077,8 +1077,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-118",
-      "ref": "N-118",
+      "@id": "N-117",
+      "ref": "N-117",
       "name": "Marissa Streit",
       "type": "person",
       "description": "Marissa Streit, PragerU CEO, said by the host to be working on a documentary.",
@@ -1094,8 +1094,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-726",
-      "ref": "N-726",
+      "@id": "N-724",
+      "ref": "N-724",
       "name": "Shabbos Kestenbaum",
       "type": "person",
       "description": "First named by the host at 00:29:52 in episode 60 (spelled Shabazz, Shabos and Kestenbaum in the transcript). Filmmaker the host says is making a documentary with Marissa Streit.",
@@ -1129,8 +1129,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-527",
-      "ref": "N-527",
+      "@id": "N-525",
+      "ref": "N-525",
       "name": "Peter Thiel",
       "type": "person",
       "description": "Peter Thiel; subject of Rubin's photo post and the alleged bridge loan.",
@@ -1350,8 +1350,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Mikey McCoy; Coleman says Kirk ran emergency drills with him.",
@@ -1617,7 +1617,7 @@
       "investigative_direction": "Identify the named friend; cross-reference with the published Aurora victim list; verify any prior connection between Erika Kirk and the Aurora theater victim cohort or New Braunfels, Texas.",
       "mentions_person_refs": [
         "N-2",
-        "N-484"
+        "N-482"
       ]
     },
     {
@@ -1634,8 +1634,8 @@
       "claim_timestamp": "00:19:31",
       "investigative_direction": "Locate the full unedited interview; verify the date and original broadcast; trace Colonel George Griggs's service record against cited commands (Admiral Kelso, General Wilhelm, NATO Defense College Rome, Princeton Class of 1959).",
       "mentions_person_refs": [
-        "N-482",
-        "N-483"
+        "N-480",
+        "N-481"
       ]
     },
     {
@@ -1652,8 +1652,8 @@
       "claim_timestamp": "00:22:03",
       "investigative_direction": "This is a host stance claim, not independently verifiable; document only as recorded concurrence against A-1656.1.",
       "mentions_person_refs": [
-        "N-482",
-        "N-483"
+        "N-480",
+        "N-481"
       ]
     },
     {
@@ -1674,7 +1674,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-11",
-        "N-221",
+        "N-219",
         "N-14"
       ]
     },
@@ -1692,7 +1692,7 @@
       "claim_timestamp": "00:40:58",
       "investigative_direction": "Retrieve the full Jerusalem Post article; identify the specific role attributed to Lauder; check for corroborating or contradictory reporting from other outlets.",
       "mentions_person_refs": [
-        "N-485"
+        "N-483"
       ]
     },
     {
@@ -1709,7 +1709,7 @@
       "claim_timestamp": "00:41:54",
       "investigative_direction": "Document host stance claim against A-1660.1; investigate reported financial interests of Lauder or associated parties in Greenland.",
       "mentions_person_refs": [
-        "N-485"
+        "N-483"
       ]
     },
     {
@@ -1727,8 +1727,8 @@
       "claim_timestamp": "01:16:11",
       "investigative_direction": "Locate the full Coleman confrontation clip and the referenced \"Operation Debunk Mitch\" series; document context as part of Coleman's investigative output.",
       "mentions_person_refs": [
-        "N-334",
-        "N-366"
+        "N-332",
+        "N-364"
       ]
     },
     {
@@ -1764,7 +1764,7 @@
       "investigative_direction": "Obtain TPUSA headcount and separation records or named former employees to confirm the size and timing of the reported purge.",
       "transcript_snippet": "I heard there were 30 to 40 people purged, that they were looking for the leak.",
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-3"
       ]
     },
@@ -1822,7 +1822,7 @@
       "investigative_direction": "Check TPUSA's Form 990 and public headcount statements against the 600 to 700 figure.",
       "transcript_snippet": "if you can get rid of 40 people in an organization of only 6 or 700",
       "mentions_person_refs": [
-        "N-334"
+        "N-332"
       ]
     },
     {
@@ -1840,7 +1840,7 @@
       "investigative_direction": "Identify the YouTuber and obtain the cease and desist letter and its date.",
       "transcript_snippet": "Last YouTuber that said that got a cease and desist letter. That's right.",
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-3"
       ]
     },
@@ -1863,7 +1863,7 @@
         "C-2141"
       ],
       "mentions_person_refs": [
-        "N-334"
+        "N-332"
       ]
     },
     {
@@ -1881,7 +1881,7 @@
       "investigative_direction": "Identify the film and its cast and crew and check each person's documented Sierra Vista or Fort Huachuca connection.",
       "transcript_snippet": "Then we sort of learned that everybody in this movie that never premiered or it never was released is related to Fort Huachuca and the Sierra Vista area",
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-2"
       ]
     },
@@ -1900,7 +1900,7 @@
       "investigative_direction": "Find Erika Kirk's own public statements about her mother's DOD work and federal contract records for the mother's employer.",
       "transcript_snippet": "Erika has been very open about the fact that her mother DOD contracts",
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-2"
       ]
     },
@@ -1920,8 +1920,8 @@
       "investigative_direction": "Check obituaries, military and law-enforcement records for Dan Flood's father and any Fort Huachuca assignment; compare with the Robert Flood biography in episode 59.",
       "transcript_snippet": "Dan Flood's father ran Intel at Fort Huachuca.",
       "mentions_person_refs": [
-        "N-334",
-        "N-274"
+        "N-332",
+        "N-272"
       ]
     },
     {
@@ -1941,7 +1941,7 @@
       "transcript_snippet": "we received a solid tip yesterday that Dan Flood, not only has he not been fired, he's been promoted at Turning Point USA.",
       "mentions_person_refs": [
         "N-3",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -1960,8 +1960,8 @@
       "investigative_direction": "Obtain the night-before text messages and any security briefings showing what Charlie Kirk told Flood and when.",
       "transcript_snippet": "you had a protectee of yours tell you within a few days that that someone was probably going to kill him. And then he died.",
       "mentions_person_refs": [
-        "N-334",
-        "N-274",
+        "N-332",
+        "N-272",
         "N-1"
       ]
     },
@@ -1983,7 +1983,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -2005,7 +2005,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-274",
+        "N-272",
         "N-2"
       ]
     },
@@ -2041,7 +2041,7 @@
       "investigative_direction": "Confirm with the Miss Arizona USA organization how the account is handled each year and capture the archived timeline.",
       "transcript_snippet": "Miss Arizona USA has the same thing. That the Miss Arizona USA, whoever's the reigning Miss Arizona USA, gets control of that account.",
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-2"
       ]
     },
@@ -2117,7 +2117,7 @@
       "transcript_snippet": "I said to you what if there are just targets and the military is just going in and killing people and then blaming it on on some like at all times a transgender person",
       "mentions_person_refs": [
         "N-3",
-        "N-334"
+        "N-332"
       ]
     },
     {
@@ -2135,8 +2135,8 @@
       "investigative_direction": "Compare with Ghawi's own blog post about leaving the Eaton Centre food court and the Toronto police timeline.",
       "transcript_snippet": "Jessica Ghawi was in that food court. She paid her bill at like I don't remember 6:20 or something like that and 3 minutes later the shooting started",
       "mentions_person_refs": [
-        "N-334",
-        "N-484"
+        "N-332",
+        "N-482"
       ]
     },
     {
@@ -2155,9 +2155,9 @@
       "investigative_direction": "Check Ghawi's residence history and any link between her New Braunfels period and people named in the Kirk case.",
       "transcript_snippet": "she used to live in New Braunfels Texas of all places. Bam that's another thing",
       "mentions_person_refs": [
-        "N-334",
-        "N-484",
-        "N-274"
+        "N-332",
+        "N-482",
+        "N-272"
       ]
     },
     {
@@ -2176,8 +2176,8 @@
       "investigative_direction": "Identify the companion from the victim list and confirm his hometown and travel from public reporting.",
       "transcript_snippet": "And he had flown in from New Braunfels Texas to see her to go to this movie in Aurora Colorado.",
       "mentions_person_refs": [
-        "N-334",
-        "N-484"
+        "N-332",
+        "N-482"
       ]
     },
     {
@@ -2195,8 +2195,8 @@
       "investigative_direction": "Compare with the Aurora police report, 911 logs and the coroner's findings on Ghawi's death.",
       "transcript_snippet": "rather than leaving her where she is two police officers go into the theater and they pull her into a police car and personally say that they take her to a hospital.",
       "mentions_person_refs": [
-        "N-334",
-        "N-484"
+        "N-332",
+        "N-482"
       ]
     },
     {
@@ -2214,7 +2214,7 @@
       "investigative_direction": "Check Buckley's service history and the date it was redesignated a Space Force base.",
       "transcript_snippet": "It was the Buckley Air Force Base from the year 2000 to 2021.",
       "mentions_person_refs": [
-        "N-334"
+        "N-332"
       ]
     },
     {
@@ -2232,7 +2232,7 @@
       "investigative_direction": "Tabulate the military service of the 12 killed and 70 wounded from the court victim list.",
       "transcript_snippet": "in that theater alone there were a ton of military guys that were victims of the shooting",
       "mentions_person_refs": [
-        "N-334"
+        "N-332"
       ]
     },
     {
@@ -2250,8 +2250,8 @@
       "investigative_direction": "Retrieve the father's obituary and Ghawi's obituary and any adoption record.",
       "transcript_snippet": "His daughter who was tragically murdered not terribly long before he died was not mentioned in his obituary.",
       "mentions_person_refs": [
-        "N-334",
-        "N-484"
+        "N-332",
+        "N-482"
       ]
     },
     {
@@ -2285,7 +2285,7 @@
       "transcript_snippet": "Bill Cooper had made a lot of predictions who was supposed to be the original conspiracy theorist who before there were any mass shootings was speaking about the military",
       "mentions_person_refs": [
         "N-3",
-        "N-725"
+        "N-723"
       ]
     },
     {
@@ -2321,8 +2321,8 @@
       "investigative_direction": "Locate the full interview and test the claim against the Long Commission report on the 1983 Beirut barracks bombing.",
       "transcript_snippet": "And in fact he told you that they knew the bombing was coming down in Beirut before it occurred.",
       "mentions_person_refs": [
-        "N-482",
-        "N-483"
+        "N-480",
+        "N-481"
       ]
     },
     {
@@ -2427,8 +2427,8 @@
       "transcript_snippet": "And uh he's going around telling everybody it's going to be a takedown of Candace Owens and that's what her new focus is at Prager University",
       "mentions_person_refs": [
         "N-3",
-        "N-118",
-        "N-726"
+        "N-117",
+        "N-724"
       ]
     },
     {
@@ -2465,7 +2465,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-32",
-        "N-527"
+        "N-525"
       ]
     },
     {
@@ -2506,7 +2506,7 @@
       "transcript_snippet": "I don't know Peter Thiel. I literally don't know Peter Thiel. So I met him at his LA he was having a party or whatever.",
       "mentions_person_refs": [
         "N-3",
-        "N-527",
+        "N-525",
         "N-27"
       ]
     },
@@ -2585,7 +2585,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-32",
-        "N-527"
+        "N-525"
       ]
     },
     {
@@ -2621,7 +2621,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-32",
-        "N-527"
+        "N-525"
       ]
     },
     {
@@ -2677,7 +2677,7 @@
       "investigative_direction": "Compare with Pew, Gallup and denominational membership data for 2025.",
       "transcript_snippet": "the Protestant churches the Evangelical churches are definitely uh experi- experiencing a mass exodus.",
       "mentions_person_refs": [
-        "N-334"
+        "N-332"
       ]
     },
     {
@@ -2982,7 +2982,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-334"
+        "N-332"
       ]
     },
     {
@@ -3020,9 +3020,9 @@
         "C-1499"
       ],
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-1",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -3046,7 +3046,7 @@
         "N-3",
         "N-1",
         "N-14",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -3385,7 +3385,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-274"
+        "N-272"
       ]
     },
     {
@@ -3409,8 +3409,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-334",
-        "N-366"
+        "N-332",
+        "N-364"
       ]
     },
     {
@@ -3433,8 +3433,8 @@
         "C-2157"
       ],
       "mentions_person_refs": [
-        "N-334",
-        "N-366"
+        "N-332",
+        "N-364"
       ]
     },
     {
@@ -3458,8 +3458,8 @@
         "C-2157"
       ],
       "mentions_person_refs": [
-        "N-334",
-        "N-366"
+        "N-332",
+        "N-364"
       ]
     },
     {
@@ -3475,7 +3475,7 @@
       "investigative_direction": "Confirm via Coleman's own channel announcements; this is self-reported.",
       "transcript_snippet": "as Candace mentioned, I I've retired from my other job and I'm doing this full-time now.",
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-3"
       ]
     },
@@ -3630,7 +3630,7 @@
         {
           "episode": 60,
           "video_timestamp": "00:46:48",
-          "speaker_node_ref": "N-334",
+          "speaker_node_ref": "N-332",
           "quote": "this sort of operation mocking pastor",
           "context": "Coleman uses the host's coinage for pastors repeating the same messaging.",
           "confidence": "high",

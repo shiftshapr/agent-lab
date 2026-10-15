@@ -767,8 +767,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -796,8 +796,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Tim Pool",
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-219",
+      "ref": "N-219",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Elizabeth McCoy; the host says she allegedly recorded Erika at the open casket in Utah.",
@@ -903,8 +903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-190",
-      "ref": "N-190",
+      "@id": "N-188",
+      "ref": "N-188",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "Previously named by the host as the person who recorded the casket footage; the host now says it was allegedly Elizabeth McCoy.",
@@ -920,8 +920,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-372",
-      "ref": "N-372",
+      "@id": "N-370",
+      "ref": "N-370",
       "name": "Danny Philip",
       "type": "person",
       "description": "Person the host says Blake Neff excludes from his account of Sept 10 driving.",
@@ -937,8 +937,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-512",
-      "ref": "N-512",
+      "@id": "N-510",
+      "ref": "N-510",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "Officer Bagley; the host sarcastically references his body-cam footage and the screwdriver.",
@@ -1370,7 +1370,7 @@
       "claim_timestamp": "00:09:40",
       "investigative_direction": "Verify the claim via courtroom exhibit records; determine whether any second rooftop footage was formally entered as evidence in the preliminary hearing.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1478,7 +1478,7 @@
       "investigative_direction": "Verify original tweet content and timing.",
       "mentions_person_refs": [
         "N-93",
-        "N-271"
+        "N-269"
       ]
     },
     {
@@ -1696,7 +1696,7 @@
       "transcript_snippet": "Effectively, we were saying this person was a decoy and never fired a shot.",
       "mentions_person_refs": [
         "N-3",
-        "N-271",
+        "N-269",
         "N-93"
       ]
     },
@@ -1759,7 +1759,7 @@
       "investigative_direction": "Check the docket for the defense motion seeking to limit public release of the rooftop exhibit.",
       "transcript_snippet": "it is the defense that demanded that it be kept from the public on the grounds that it would prejudice Tyler.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-93",
         "N-40"
       ]
@@ -1786,7 +1786,7 @@
         "C-3164"
       ],
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -1809,7 +1809,7 @@
       "investigative_direction": "Measure resolvable detail in the rooftop clip at the camera-to-subject distance.",
       "transcript_snippet": "The individual does not look like Tyler Robinson because they literally don't look like anyone at that distance.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-40"
       ]
     },
@@ -1832,7 +1832,7 @@
       "investigative_direction": "Obtain the campus footage exhibits and any statement from Tyler Robinson's parents about identification.",
       "transcript_snippet": "We have close-up footage of the person who looks enough like Tyler that his own parents identified him as such.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-40"
       ]
     },
@@ -1857,7 +1857,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-162",
+        "N-161",
         "N-40"
       ]
     },
@@ -1881,7 +1881,7 @@
       "transcript_snippet": "the footage that also captured a match of Tyler's car arriving on campus, those plates were blurry. The car was blurry.",
       "mentions_person_refs": [
         "N-3",
-        "N-162",
+        "N-161",
         "N-40"
       ]
     },
@@ -1904,7 +1904,7 @@
       "investigative_direction": "Compare the autopsy's wound trajectory description with the rooftop and Charlie's seat positions.",
       "transcript_snippet": "we know a gun was fired from the spot because a bullet coming from that direction was what killed Charlie, as confirmed in the medical examiner's report.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-1"
       ]
     },
@@ -1927,7 +1927,7 @@
       "investigative_direction": "Consult a firearms expert on visible recoil of a rifle fired prone from a rooftop.",
       "transcript_snippet": "Recoil from a prone firing position can easily be minimal",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2014,8 +2014,8 @@
       "investigative_direction": "Ask Elizabeth McCoy or Erika's team who filmed the casket video, and check the metadata of the posted clip.",
       "transcript_snippet": "I've actually been told that it was allegedly Elizabeth McCoy that was recording Erika in Charlie's open casket in Utah.",
       "mentions_person_refs": [
-        "N-221",
-        "N-190",
+        "N-219",
+        "N-188",
         "N-2",
         "N-1"
       ]
@@ -2064,7 +2064,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-221"
+        "N-219"
       ]
     },
     {
@@ -2632,7 +2632,7 @@
       "transcript_snippet": "With a screwdriver, what are you talking about? Where is that in the evidence? Doesn't exist.",
       "mentions_person_refs": [
         "N-3",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2653,8 +2653,8 @@
       "investigative_direction": "Obtain Bagley's body-cam records and activation logs for that day.",
       "transcript_snippet": "Officer Bagley, oh just it just it went off. I don't know. I don't know what happened to my body cam footage",
       "mentions_person_refs": [
-        "N-512",
-        "N-162"
+        "N-510",
+        "N-161"
       ]
     },
     {
@@ -2988,8 +2988,8 @@
       "investigative_direction": "Review Neff's accounts of Sept 10 against vehicle and driver records.",
       "transcript_snippet": "why Blake seems to have this convenient amnesia about certain events that day and why he continues to exclude Danny Philip from the equation.",
       "mentions_person_refs": [
-        "N-162",
-        "N-372",
+        "N-161",
+        "N-370",
         "N-3"
       ]
     },
@@ -3108,7 +3108,7 @@
       "investigative_direction": "Locate Neff's original statements calling for conviction.",
       "transcript_snippet": "When you see Blake Neff who is an evil man saying convict Tyler Robinson",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3",
         "N-40"
       ]

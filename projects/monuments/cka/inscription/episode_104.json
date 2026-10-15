@@ -39,9 +39,9 @@
           "related_nodes": [
             "N-10923",
             "N-2",
-            "N-163",
-            "N-628",
-            "N-629"
+            "N-162",
+            "N-626",
+            "N-627"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -84,7 +84,7 @@
             "C-4065"
           ],
           "related_nodes": [
-            "N-376",
+            "N-374",
             "N-2",
             "N-10638"
           ],
@@ -169,8 +169,8 @@
             "C-4097"
           ],
           "related_nodes": [
-            "N-618",
-            "N-217",
+            "N-616",
+            "N-215",
             "N-3"
           ],
           "tags": [],
@@ -188,7 +188,7 @@
             "C-4098"
           ],
           "related_nodes": [
-            "N-217"
+            "N-215"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -205,8 +205,8 @@
             "C-4099"
           ],
           "related_nodes": [
-            "N-618",
-            "N-217",
+            "N-616",
+            "N-215",
             "N-3",
             "N-1"
           ],
@@ -234,7 +234,7 @@
           ],
           "related_nodes": [
             "N-82",
-            "N-383",
+            "N-381",
             "N-10928"
           ],
           "tags": [],
@@ -254,8 +254,8 @@
           ],
           "related_nodes": [
             "N-82",
-            "N-383",
-            "N-631",
+            "N-381",
+            "N-629",
             "N-10928"
           ],
           "tags": [],
@@ -282,8 +282,8 @@
             "C-4103"
           ],
           "related_nodes": [
-            "N-162",
-            "N-323"
+            "N-161",
+            "N-321"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -535,8 +535,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-119",
-      "ref": "N-119",
+      "@id": "N-118",
+      "ref": "N-118",
       "name": "Elon Musk",
       "type": "person",
       "description": "The host relays a rumor that Sergio Gor had it out for him and blocked his pick, Jared Isaacman.",
@@ -552,8 +552,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-132",
-      "ref": "N-132",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Susie Wiles",
       "type": "person",
       "description": "Named as White House chief of staff, with Sergio Gor as her second in command.",
@@ -569,8 +569,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Transcript spelling \"Blakey Nef\" / \"Blake\". Asked on X about \"Commander Nef\" and said Adam Nef was harassed by the host's followers.",
@@ -588,8 +588,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-163",
-      "ref": "N-163",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Steven Cheung",
       "type": "person",
       "description": "White House communications aide. Named on the WHMO email CC list and in the Epstein situation-room attendee read (ASR Chung/Chong).",
@@ -607,8 +607,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-217",
-      "ref": "N-217",
+      "@id": "N-215",
+      "ref": "N-215",
       "name": "Nick Shirley",
       "type": "person",
       "description": "Subject of Jessica Reed Kraus's teacher-praise posts; his reply on keeping in touch with teachers is shown.",
@@ -630,8 +630,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-323",
-      "ref": "N-323",
+      "@id": "N-321",
+      "ref": "N-321",
       "name": "Captain Adam Nef",
       "type": "person",
       "description": "Host says the team found him and confirmed he questioned Mitch Snow as Snow described.",
@@ -650,8 +650,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Mitch Snow",
       "type": "person",
       "description": "His Fort Huachuca account is said to have checked out through Captain Adam Nef.",
@@ -667,8 +667,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-376",
-      "ref": "N-376",
+      "@id": "N-374",
+      "ref": "N-374",
       "name": "Sarah Sidner",
       "type": "person",
       "description": "Transcript spellings \"Sarah Sidner\" / \"Sarah Seidner\". CNN anchor the host says first posted the \"I want to go home\" clip, at 9:25 p.m. Eastern.",
@@ -687,8 +687,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
+      "@id": "N-493",
+      "ref": "N-493",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erika Kirk's mother; the host says the Turning Point Action \"super feed\" back door pays her.",
@@ -962,8 +962,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-628",
-      "ref": "N-628",
+      "@id": "N-626",
+      "ref": "N-626",
       "name": "Ryan Rippeon",
       "type": "person",
       "description": "First named by the host at 00:04:55 in episode 104. Named as copied on the White House Military Office email.",
@@ -981,8 +981,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-629",
-      "ref": "N-629",
+      "@id": "N-627",
+      "ref": "N-627",
       "name": "Gustav Anderly",
       "type": "person",
       "description": "First named by the host at 00:04:55 in episode 104. Copied on the email; described as information systems manager at the White House Communications Agency in Arlington, Virginia.",
@@ -1001,8 +1001,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-630",
-      "ref": "N-630",
+      "@id": "N-628",
+      "ref": "N-628",
       "name": "Jared Isaacman",
       "type": "person",
       "description": "First named by the host at 00:22:23 in episode 104. Described as Elon Musk's pick whose appointment Sergio Gor allegedly blocked.",
@@ -1018,8 +1018,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-618",
-      "ref": "N-618",
+      "@id": "N-616",
+      "ref": "N-616",
       "name": "Jessica Reed Kraus",
       "type": "person",
       "description": "First named by the host at 00:29:22 in episode 104. Writer whose posts relayed praise from Nick Shirley's teachers. Aliases: Jessica Reed Krauss; House and Drinking Habit.",
@@ -1039,8 +1039,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-631",
-      "ref": "N-631",
+      "@id": "N-629",
+      "ref": "N-629",
       "name": "Golshifteh Farahani",
       "type": "person",
       "description": "First named by the host at 00:35:22 in episode 104. Exiled Iranian actress named in the Times account of the Macron slap. Aliases: Gosh Farani; Gosh Fani; Farhani; Verahani; Verhani.",
@@ -1085,9 +1085,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-163",
-        "N-628",
-        "N-629"
+        "N-162",
+        "N-626",
+        "N-627"
       ]
     },
     {
@@ -1210,14 +1210,14 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-82",
-        "N-383",
-        "N-631"
+        "N-381",
+        "N-629"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-383",
-      "ref": "N-383",
+      "@id": "N-381",
+      "ref": "N-381",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Transcript spelling \"Emmanuel Macron\". Recipient of the slap; said to have received texts from the actress.",
@@ -1318,7 +1318,7 @@
         "C-2793"
       ],
       "mentions_person_refs": [
-        "N-376",
+        "N-374",
         "N-2"
       ]
     },
@@ -1399,9 +1399,9 @@
       "investigative_direction": "Ask the named recipients or their press offices to confirm receipt of the 9:49 p.m. email.",
       "transcript_snippet": "Uh Steven Cheung was copied on the email. Um, Ryan Ripian was copied on the email and gentleman named Gustav Anderly was copied on the email.",
       "mentions_person_refs": [
-        "N-163",
-        "N-628",
-        "N-629",
+        "N-162",
+        "N-626",
+        "N-627",
         "N-3"
       ]
     },
@@ -1422,7 +1422,7 @@
       "investigative_direction": "Verify Gustav Anderly's title through White House Communications Agency staff directories or public profiles.",
       "transcript_snippet": "it just says he's the information systems manager um at the White House communications agency in Arlington, Virginia.",
       "mentions_person_refs": [
-        "N-629"
+        "N-627"
       ]
     },
     {
@@ -1480,7 +1480,7 @@
       "investigative_direction": "Ask CNN and Sidner for the original file's metadata and its source, and identify the device that recorded the clip.",
       "transcript_snippet": "I am told um that this was not a video recorded by Sarah Seidner and that instead it was distributed to Sarah Seidner and that they had operatives record that moment.",
       "mentions_person_refs": [
-        "N-376",
+        "N-374",
         "N-2"
       ]
     },
@@ -1680,7 +1680,7 @@
       "transcript_snippet": "Turning Point Action is headed up by Tyler Bowyer and we have already explained to you that they have built that super feed back door which pays Lori Frantzve, Erika Kirk's mom.",
       "mentions_person_refs": [
         "N-11",
-        "N-495"
+        "N-493"
       ]
     },
     {
@@ -1865,7 +1865,7 @@
       "transcript_snippet": "Sergio Gor was second in command to Susie Wiles. But he was sort of unceremoniously kicked out, right?",
       "mentions_person_refs": [
         "N-16",
-        "N-132"
+        "N-131"
       ]
     },
     {
@@ -1884,8 +1884,8 @@
       "transcript_snippet": "Sergio Gor personally put a stop to Elon Musk's guy uh Jared Isaacman being appointed.",
       "mentions_person_refs": [
         "N-16",
-        "N-119",
-        "N-630",
+        "N-118",
+        "N-628",
         "N-5"
       ]
     },
@@ -1972,8 +1972,8 @@
       "investigative_direction": "Archive the post with its date and URL.",
       "transcript_snippet": "Two of Nick Shirley's elementary school teachers reached out to me recently to praise Nick, recounting what a smart, sweet, kind kid he was throughout his early years.",
       "mentions_person_refs": [
-        "N-618",
-        "N-217"
+        "N-616",
+        "N-215"
       ]
     },
     {
@@ -1993,7 +1993,7 @@
       "investigative_direction": "Archive the reply with its date.",
       "transcript_snippet": "To this day, I still keep in touch with a few of my teachers on a regular basis.",
       "mentions_person_refs": [
-        "N-217"
+        "N-215"
       ]
     },
     {
@@ -2013,8 +2013,8 @@
       "investigative_direction": "Archive the post and any screenshots of the DMs it includes.",
       "transcript_snippet": "It's why Candace Owens is targeting him now. Nick is wildly respected. wildly widely respected, pardon me, among conservative media, carrying forward what Charlie Kirk led",
       "mentions_person_refs": [
-        "N-618",
-        "N-217",
+        "N-616",
+        "N-215",
         "N-3",
         "N-1"
       ]
@@ -2037,7 +2037,7 @@
       "transcript_snippet": "there's a new Times headline here that we can show you. Brigitte Macron slapped husband over text messages to an actress.",
       "mentions_person_refs": [
         "N-82",
-        "N-383"
+        "N-381"
       ]
     },
     {
@@ -2059,8 +2059,8 @@
       "transcript_snippet": "what you guys actually saw at the Hanoi airport in May of 2025, um, is actually the fact that the first lady was angry.",
       "mentions_person_refs": [
         "N-82",
-        "N-383",
-        "N-631"
+        "N-381",
+        "N-629"
       ]
     },
     {
@@ -2083,9 +2083,9 @@
         "C-1907"
       ],
       "mentions_person_refs": [
-        "N-323",
-        "N-366",
-        "N-162",
+        "N-321",
+        "N-364",
+        "N-161",
         "N-3"
       ]
     },
@@ -2104,8 +2104,8 @@
       "investigative_direction": "Archive Blake Neff's X posts with timestamps.",
       "transcript_snippet": "then he said that C Adam Nef was harassed by my cultists and I but he doesn't know he doesn't know Adam Nef, but he was harassed.",
       "mentions_person_refs": [
-        "N-162",
-        "N-323"
+        "N-161",
+        "N-321"
       ]
     },
     {

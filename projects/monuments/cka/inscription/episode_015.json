@@ -853,8 +853,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-382",
+      "ref": "N-382",
       "name": "Dan Bongino",
       "type": "person",
       "description": "First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.",
@@ -997,8 +997,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-101",
+      "ref": "N-101",
       "name": "Michael Knowles",
       "type": "person",
       "description": "Named in the clip as Kirk's debate partner on Protestant versus Catholic theology.",
@@ -1014,8 +1014,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-156",
-      "ref": "N-156",
+      "@id": "N-155",
+      "ref": "N-155",
       "name": "Robert J. O'Neill",
       "type": "person",
       "description": "Named in a moderator comment as questioning the Kirk story.",
@@ -1031,8 +1031,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-203",
+      "ref": "N-203",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Named with the host in the sermon.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-208",
-      "ref": "N-208",
+      "@id": "N-206",
+      "ref": "N-206",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Host of the show named in a moderator comment.",
@@ -1451,7 +1451,7 @@
       "@id": "C-1367",
       "ref": "C-1367",
       "label": "Bowyer campus footage release stance",
-      "claim": "Tyler Bowyer publicly stated that camera footage exists across the Utah Valley University campus but will not be released until trial.",
+      "claim": "Tyler Bowyer publicly stated that camera footage exists across the Utah Valley University campus but will likely not be released until trial.",
       "anchored_artifacts": [
         "A-1220.3"
       ],
@@ -1531,7 +1531,7 @@
       "@id": "C-1371",
       "ref": "C-1371",
       "label": "Unflagged host assertion – phone call with TPUSA SD card individual",
-      "claim": "The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he stated his motivation was to spare Erika from re-viewing the footage – not police instruction or theft concerns.",
+      "claim": "The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he told her his instinct was to secure the footage so Erika would not have to see it again, and that he never mentioned police officers.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10162"
@@ -1542,6 +1542,10 @@
       "contradicts_claim_refs": [
         "C-1366",
         "C-1369"
+      ],
+      "mentions_person_refs": [
+        "N-3",
+        "N-2"
       ]
     },
     {
@@ -1582,7 +1586,7 @@
       "mentions_person_refs": [
         "N-99",
         "N-69",
-        "N-384"
+        "N-382"
       ]
     },
     {
@@ -1670,7 +1674,7 @@
       "@id": "C-1378",
       "ref": "C-1378",
       "label": "Pastor sermon clip – Candace / Fuentes defiled framing",
-      "claim": "An unnamed \"Judeo-Christian\" pastor delivered a sermon on September 21, 2025, using 2 Corinthians 7:1 to characterize Candace Owens and Nick Fuentes as \"defiled\" by the issue of the modern state of Israel.",
+      "claim": "In a sermon clip the host plays, an unnamed 'Judeo-Christian' pastor, in a sermon given September 21, 2025 titled 'what has defiled you' that cites 2 Corinthians 7:1, calls Candace Owens and Nick Fuentes 'foolish people that are so deceived' and says young people are 'eating that up'.",
       "anchored_artifacts": [
         "A-1226.1"
       ],
@@ -1679,7 +1683,8 @@
       "claim_timestamp": "00:45:52",
       "investigative_direction": "Obtain full sermon recording; identify delivering church for archival purposes.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-203"
       ]
     },
     {
@@ -1725,7 +1730,7 @@
       "@id": "C-6450",
       "ref": "C-6450",
       "label": "Host Relays X User Asking Why TPUSA Wants Forgiveness for Robinson but Attacks Investigators",
-      "claim": "The host relays an X user's remark that TPUSA wants people to forgive Tyler Robinson while attacking those trying to solve Charlie Kirk's murder, and the host adds that TPUSA executives are not publicly challenging the official narrative.",
+      "claim": "The host relays an X user's remark that TPUSA wants people to forgive Tyler Robinson while attacking those trying to solve Charlie Kirk's murder, and the host adds that it seems TPUSA executives are not interested in publicly challenging the official narrative.",
       "anchored_artifacts": [
         "A-2813.1"
       ],
@@ -1797,7 +1802,7 @@
         "N-10350"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:08:02",
       "investigative_direction": "Review the host's earlier statements on Kirk and Catholicism and the videos that disputed them.",
@@ -1841,7 +1846,7 @@
         "N-10350"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:08:02",
       "investigative_direction": "Seek parish records, priests or attendees who saw Kirk at weekly or daily mass.",
@@ -1861,7 +1866,7 @@
         "N-10164"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:08:42",
       "investigative_direction": "Ask McCoy's church and Kirk's associates whether Kirk was a current congregant.",
@@ -1876,7 +1881,7 @@
       "@id": "C-6457",
       "ref": "C-6457",
       "label": "Host Says Kirk Wore Saint Michael Pendant When He Died",
-      "claim": "The host says Charlie Kirk was wearing a Saint Michael pendant when he died and calls this an indisputable, already publicized fact.",
+      "claim": "The host says Charlie Kirk was wearing a Saint Michael pendant when he died and says this and related points are indisputable facts.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10230"
@@ -1938,7 +1943,7 @@
       "@type": "Claim",
       "@id": "C-6460",
       "ref": "C-6460",
-      "label": "Host Says TPUSA Staff Knew Charlie's Catholic Turn Was Real",
+      "label": "Host Says TPUSA Staff Knew Kirk's Catholic Practice Was Real",
       "claim": "The host says people at Turning Point USA knew for a fact the facts she had just listed about Kirk's Catholic practice, and that Andrew Kolvet and Alex Clark nonetheless jumped in to dissuade the idea that he was softening on Catholicism.",
       "anchored_artifacts": [
         "A-2814.1"
@@ -1973,7 +1978,7 @@
         "N-10104"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:09:29",
       "investigative_direction": "Locate the original Kolvet interview and date; compare with mass-attendance accounts.",
@@ -1991,7 +1996,7 @@
       "@type": "Claim",
       "@id": "C-6462",
       "ref": "C-6462",
-      "label": "Clip Has Alex Clark Say Erika Replied They Just Like Attending Sometimes",
+      "label": "Clip Speaker Says Erika Replied They Just Like Attending Sometimes",
       "claim": "In a played clip, a speaker (presented in the host's segment alongside Alex Clark and Kolvet) says Erika Kirk posted a photo of the family at mass and answered a commenter who asked if they were converting with 'No, we just like attending sometimes'.",
       "anchored_artifacts": [
         "A-2814.1"
@@ -2034,7 +2039,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-102"
+        "N-101"
       ]
     },
     {
@@ -2057,6 +2062,7 @@
       "transcript_snippet": "Like that's not That's not fully honest and it registered to me like a cover-up of sorts",
       "mentions_person_refs": [
         "N-14",
+        "N-99",
         "N-3"
       ]
     },
@@ -2073,7 +2079,7 @@
         "N-10350"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:12:12",
       "investigative_direction": "Obtain the message thread with metadata to confirm the date (February 2024 versus 2025) and exact wording.",
@@ -2134,7 +2140,7 @@
       "@id": "C-6468",
       "ref": "C-6468",
       "label": "Host Says McCoy's Son and Daughter-in-Law Work for TPUSA",
-      "claim": "The host says most people know that Rob McCoy's son and daughter-in-law both work for Turning Point USA, giving them a financial stake, and that McCoy heads up the faith division.",
+      "claim": "The host says she thinks most people know that Rob McCoy's son and daughter-in-law both work for Turning Point USA, giving them a financial stake, and that McCoy heads up the faith division.",
       "anchored_artifacts": [
         "A-1224.1"
       ],
@@ -2434,7 +2440,6 @@
         "C-1257"
       ],
       "mentions_person_refs": [
-        "N-14",
         "N-3"
       ]
     },
@@ -2577,8 +2582,7 @@
         "C-4881"
       ],
       "mentions_person_refs": [
-        "N-11",
-        "N-40"
+        "N-3"
       ]
     },
     {
@@ -2851,7 +2855,6 @@
         "C-1368"
       ],
       "mentions_person_refs": [
-        "N-11",
         "N-3"
       ]
     },
@@ -2859,8 +2862,8 @@
       "@type": "Claim",
       "@id": "C-6499",
       "ref": "C-6499",
-      "label": "Host Says a 501c3 Lawyer Told Her and Charlie to Get an Independent Auditor",
-      "claim": "The host says she introduced Charlie to a 501c3 lawyer, met her in her offices with Charlie, and the lawyer explained the need for an independent auditor.",
+      "label": "Host Says a 501c3 Lawyer Advised an Independent Auditor in a Meeting With Charlie",
+      "claim": "The host says she shared a 501c3 lawyer with them, met her in her offices with Charlie, and the lawyer explained the need for an independent auditor.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10132"
@@ -2914,8 +2917,7 @@
       "investigative_direction": "Identify who the host means and any documented trips or payments.",
       "transcript_snippet": "People quoting scripture to actually fulfill what became quite obvious to me was just their political ends. And yeah, people taking money to do that.",
       "mentions_person_refs": [
-        "N-3",
-        "N-36"
+        "N-3"
       ]
     },
     {
@@ -2960,7 +2962,7 @@
       "investigative_direction": "Obtain the full sermon recording and identify the church.",
       "transcript_snippet": "you're going to block them because they're anti what scripture says.",
       "mentions_person_refs": [
-        "N-205",
+        "N-203",
         "N-3"
       ]
     },
@@ -2969,7 +2971,7 @@
       "@id": "C-6504",
       "ref": "C-6504",
       "label": "Host Says TikTok's Moderation Team Includes IDF Soldiers and Netanyahu Said They Are Taking Over TikTok",
-      "claim": "The host says TikTok's moderation team is like IDF soldiers and that Benjamin Netanyahu said they are taking over TikTok.",
+      "claim": "The host, citing a headline, says TikTok's moderation team is like IDF soldiers and that Benjamin Netanyahu said they are taking over TikTok.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11096"
@@ -3065,8 +3067,8 @@
       "investigative_direction": "Retrieve the Piers Morgan episode with O'Neill and his exact remarks.",
       "transcript_snippet": "Rob O'Neill, the guy who shot Bin Laden, questions the story of Charlie on Piers Morgan's show.",
       "mentions_person_refs": [
-        "N-156",
-        "N-208"
+        "N-155",
+        "N-206"
       ]
     },
     {
@@ -3113,8 +3115,8 @@
       "@type": "Claim",
       "@id": "C-6511",
       "ref": "C-6511",
-      "label": "Host Says Israel Spends Money on Influencers and Has Pushed FARA Registration with Assassinations",
-      "claim": "The host says Israel's money, spent on influencers and on trying to get people to register under FARA, including people who were assassinated, and on presidents, is falling apart because people speak the truth.",
+      "label": "Host Says Israel Spends Money on Influencers and on Pressing People to Register Under FARA",
+      "claim": "The host says that Israel has all the money in the world and spends it on influencers, on trying to get people (including some who were assassinated) to register under FARA, and on presidents, and that every piece of that tapestry of deception is falling apart because people are speaking truth.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026",

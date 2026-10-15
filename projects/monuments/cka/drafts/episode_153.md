@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 255df2ef72af812fba530a694f3369c63ecb1dc93d6c3d5d64b7ca555bbad9c1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-955, N-956, N-957, N-11410, N-11411
+  - Tip-minted Nodes (supplement_2026-10g): N-953, N-954, N-955, N-11410, N-11411
   - Hole-minted Nodes (reintro-ep153): N-10873
   - Tip-minted Nodes (reintro-ep153): N-11313
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-18, N-22, N-49, N-60, N-126, N-157, N-158, N-207, N-265, N-334, N-426, N-466, N-512, N-760, N-842, N-843, N-10000, N-10012, N-10272, N-10311, N-10340, N-10344, N-10356, N-10421, N-10646, N-10840, N-10983, N-11009, N-11170, N-11264
+  - Reused Nodes Appearing: N-18, N-22, N-49, N-60, N-125, N-156, N-157, N-205, N-263, N-332, N-424, N-464, N-510, N-758, N-840, N-841, N-10000, N-10012, N-10272, N-10311, N-10340, N-10344, N-10356, N-10421, N-10646, N-10840, N-10983, N-11009, N-11170, N-11264
   - Claim Range (supplement_2026-10g): C-14979–C-15062
  - New Nodes Introduced: N-10833, N-10834, N-10835, N-10836, N-10837, N-10838, N-10839
  - Reused Nodes Appearing: N-2, N-8
@@ -478,7 +478,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-126** Mike Mitchell
+**N-125** Mike Mitchell
 
 Mike Mitchell; the host asks whether he mentored Robinson.
 
@@ -486,7 +486,7 @@ Mike Mitchell; the host asks whether he mentored Robinson.
 
 ---
 
-**N-157** John Mappin
+**N-156** John Mappin
 
 John Mappin; praised by the host as a loyal friend.
 
@@ -494,9 +494,9 @@ John Mappin; praised by the host as a loyal friend.
 
 ---
 
-**N-158** Arena Mappin
+**N-157** Irina Mappin
 
-Arena Mappin; named with John Mappin as a loyal friend.
+Irina Mappin; named with John Mappin as a loyal friend.
 
 *Related: C-15049, C-15050*
 
@@ -518,7 +518,7 @@ Widow and TPUSA CEO; the host discusses her role in the wrongful death notice an
 
 ---
 
-**N-207** Ana Kasparian
+**N-205** Ana Kasparian
 
 Ana Kasparian; the host says she appeared on her show.
 
@@ -534,7 +534,7 @@ Tucker Carlson; the host recalls Erika at his house in May 2025.
 
 ---
 
-**N-228** Shawn Ryan
+**N-226** Shawn Ryan
 
 Shawn Ryan; hosted Harpole's interview.
 
@@ -542,7 +542,7 @@ Shawn Ryan; hosted Harpole's interview.
 
 ---
 
-**N-265** Terrell Farnsworth
+**N-263** Terrell Farnsworth
 
 Terrell Farnsworth; the host's 'Tricky Terrell'.
 
@@ -550,7 +550,7 @@ Terrell Farnsworth; the host's 'Tricky Terrell'.
 
 ---
 
-**N-270** Brian Harpole
+**N-268** Brian Harpole
 
 Brian Harpole; the host says he misrepresented the Flood-Long thread.
 
@@ -558,7 +558,7 @@ Brian Harpole; the host says he misrepresented the Flood-Long thread.
 
 ---
 
-**N-274** Dan Flood
+**N-272** Dan Flood
 
 Dan Flood; sender of the roof access request and Erika's post-shooting security.
 
@@ -566,7 +566,7 @@ Dan Flood; sender of the roof access request and Erika's post-shooting security.
 
 ---
 
-**N-275** Jeff Long
+**N-273** Jeff Long
 
 Chief Jeff Long of UVU PD; recipient of the roof access text.
 
@@ -582,7 +582,7 @@ Host; speaks for herself.
 
 ---
 
-**N-334** Baron Coleman
+**N-332** Baron Coleman
 
 Baron Coleman; will substitute-host the host's show.
 
@@ -598,7 +598,7 @@ Tyler Robinson; subject of the 2022 bodycam footage discussion.
 
 ---
 
-**N-426** Pope Leo XIV
+**N-424** Pope Leo XIV
 
 Pope Leo XIV; named in the Vatican-China ad read.
 
@@ -606,7 +606,7 @@ Pope Leo XIV; named in the Vatican-China ad read.
 
 ---
 
-**N-466** Nelda Buckman
+**N-464** Nelda Buckman
 
 Nelda Buckman; TPUSA's top donor, UT Austin donor.
 
@@ -622,7 +622,7 @@ Max Blumenthal; the host says he revealed the fellowship contract.
 
 ---
 
-**N-512** Christopher Bagley
+**N-510** Christopher Bagley
 
 Officer Christopher Bagley; sent to monitor the rooftop.
 
@@ -638,7 +638,7 @@ Laura Loomer; named in a personal anecdote about footage.
 
 ---
 
-**N-760** Astrid Tuminez
+**N-758** Astrid Tuminez
 
 Astrid Tuminez; former UVU president who allegedly denied extra officers.
 
@@ -646,7 +646,7 @@ Astrid Tuminez; former UVU president who allegedly denied extra officers.
 
 ---
 
-**N-842** Macklemore
+**N-840** Macklemore
 
 Macklemore; mentioned in the Sheeran comment reply.
 
@@ -654,7 +654,7 @@ Macklemore; mentioned in the Sheeran comment reply.
 
 ---
 
-**N-843** Ed Sheeran
+**N-841** Ed Sheeran
 
 Ed Sheeran; mentioned in the comment reply.
 
@@ -662,7 +662,7 @@ Ed Sheeran; mentioned in the comment reply.
 
 ---
 
-**N-955** Zack Costello
+**N-953** Zack Costello
 
 First named by the host at 00:40:52 in episode 153 as the YouTuber who compared Robinson's finger posture across the two clips. The transcript spells him Costello, Castello, Cassell and Zack Costello.
 
@@ -670,7 +670,7 @@ First named by the host at 00:40:52 in episode 153 as the YouTuber who compared 
 
 ---
 
-**N-956** Jim Spencer
+**N-954** Jim Spencer
 
 First named by the host at 00:48:11 in episode 153 as the founder of Scripps News who teaches digital media at UT Austin.
 
@@ -678,7 +678,7 @@ First named by the host at 00:48:11 in episode 153 as the founder of Scripps New
 
 ---
 
-**N-957** Rodney Stark
+**N-955** Rodney Stark
 
 First named by the host at 01:04:14 in episode 153 as the author of Bearing False Witness, introduced to her by Charlie Kirk.
 
@@ -743,7 +743,7 @@ Investigative Direction: Retrieve Tuminez's original emailed statement to confir
 Claim Timestamp: 00:08:00
 Claim: In a clip from the Shawn Ryan show that the host plays, Shawn Ryan reads statements from Brian Harpole's team describing the security team as including a combat-proven Marine, SEALs, 22 years on SWAT, a 30-year cop and SWAT commander and world-renowned jiu-jitsu practitioners; the host says Harpole submitted these credentials to Ryan.
 Anchored Artifacts: A-2386.1
-Mentions: N-1, N-270, N-228
+Mentions: N-1, N-268, N-226
 Investigative Direction: Retrieve full unedited Shawn Ryan episode and verify Harpole's on-air list against TPUSA security contractor records.
 
 ---
@@ -763,7 +763,7 @@ Investigative Direction: Compare against TPUSA's security manifest and the event
 Claim Timestamp: 00:27:11
 Claim: The displayed text message exchange between Dan Flood and Chief Jeffrey Long specifically referenced the Sorenson Student Center staircases providing access to walkways on the roof above where CK would be set up.
 Anchored Artifacts: A-2387.1, A-2388.1
-Mentions: N-274
+Mentions: N-272
 Related Nodes: N-10835
 Investigative Direction: Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list.
 
@@ -774,7 +774,7 @@ Investigative Direction: Verify the original text thread metadata (timestamps, s
 Claim Timestamp: 00:30:35
 Claim: Chief Jeffrey Long responded to Dan Flood's rooftop-access request with the message "I got you covered."
 Anchored Artifacts: A-2387.1
-Mentions: N-274
+Mentions: N-272
 Related Nodes: N-10835
 Investigative Direction: Verify against UVU PD records and text-message metadata.
 
@@ -785,7 +785,7 @@ Investigative Direction: Verify against UVU PD records and text-message metadata
 Claim Timestamp: 00:29:56
 Claim: The notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the original line "I was told students have access above us," which materially narrows the rooftop reference to the specific walkway above Charlie's head.
 Anchored Artifacts: A-2384.1, A-2387.1
-Mentions: N-274
+Mentions: N-272
 Related Nodes: N-10835
 Investigative Direction: Obtain the filed notice of claim text and the underlying original text records to formally document the omission and contextual difference.
 
@@ -816,7 +816,7 @@ Investigative Direction: Compare against UVU venue capacity records, ticketing d
 Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges that UVU Chief Jeff Long requested approval from then-UVU president Astrid Tuminez to allocate more than six officers.
 Anchored Artifacts: A-2384.1
-Mentions: N-275
+Mentions: N-273
 Related Nodes: N-10836
 Investigative Direction: Obtain UVU PD internal communications and presidential approval logs from September 2025.
 
@@ -1288,7 +1288,7 @@ Claim: The host reads the first negligence point: UVU police did not conduct a m
 Transcript Snippet: UVU police did not conduct a meaningful risk assessment and UVU parties did not have a security briefing
 
 Anchored Artifacts: A-2384.1
-Mentions: N-3, N-275
+Mentions: N-3, N-273
 Related Nodes: N-10646, N-10012
 Tags: relevance:context
 Investigative Direction: Ask UVU PD for any written risk assessment or briefing record for September 10, 2025.
@@ -1405,7 +1405,7 @@ Claim: The host reads that the notice says Chief Long asked then-president Tumin
 Transcript Snippet: which represented only 25% of the UVU police force. But this request was denied.
 
 Anchored Artifacts: A-2384.1
-Mentions: N-3, N-275, N-760
+Mentions: N-3, N-273, N-758
 Related Nodes: N-10836
 Supports: C-3477
 Tags: relevance:context
@@ -1422,7 +1422,7 @@ Claim: The host says that on 24 officers and 50,000 students, six officers would
 Transcript Snippet: So worked out as an equation, six police officers would have covered 12,500 students based on their availability
 
 Anchored Artifacts: A-2384.1
-Mentions: N-3, N-760
+Mentions: N-3, N-758
 Related Nodes: N-10836
 Supports: C-3485, C-3486
 Tags: relevance:context
@@ -1521,7 +1521,7 @@ Claim: The host says Brian Harpole misrepresented on the Shawn Ryan show the tex
 Transcript Snippet: This is the same message that Brian Harpole misrepresented as his own on Shawn Ryan
 
 Anchored Artifacts: A-2386.1
-Mentions: N-3, N-270, N-228, N-274, N-275
+Mentions: N-3, N-268, N-226, N-272, N-273
 Related Nodes: N-10356, N-10272
 Supports: C-1762, C-2821
 Tags: relevance:core
@@ -1538,7 +1538,7 @@ Claim: The host says the thread asks for either controlled access to the roof wa
 Transcript Snippet: it would be nice to either have it controlled access or allow one of my guys to be there as well if possible.
 
 Anchored Artifacts: A-2387.1
-Mentions: N-3, N-274, N-275
+Mentions: N-3, N-272, N-273
 Related Nodes: N-10646, N-11009
 Supports: C-1763
 Tags: relevance:core
@@ -1555,7 +1555,7 @@ Claim: The host says her outlet reported in November, after Harpole's Shawn Ryan
 Transcript Snippet: So, we broke a story back in November following Brian Harpole's appearance in Shawn Ryan that this message thread is specifically referring to, as it sounds, the walkway above Charlie's head.
 
 Anchored Artifacts: A-2388.1
-Mentions: N-3, N-270, N-228
+Mentions: N-3, N-268, N-226
 Related Nodes: N-10646, N-11009
 Supports: C-6695
 Tags: relevance:core
@@ -1589,7 +1589,7 @@ Claim: The host says that with the omitted line restored the text clearly concer
 Transcript Snippet: has nothing to do with the Losee Center or any other rooftop, but rather an area right above you guys
 
 Anchored Artifacts: A-2387.1
-Mentions: N-3, N-270
+Mentions: N-3, N-268
 Related Nodes: N-10835, N-10646
 Supports: C-3473
 Tags: relevance:core
@@ -1606,7 +1606,7 @@ Claim: The host says Officer Bagley was sent to monitor the rooftop traffic cont
 Transcript Snippet: Officer Bagley was sent to monitor the rooftop traffic control.
 
 Anchored Artifacts: 
-Mentions: N-3, N-512, N-275
+Mentions: N-3, N-510, N-273
 Related Nodes: N-10646
 Supports: C-3472, C-10521
 Contradicts: C-15019
@@ -1624,7 +1624,7 @@ Claim: The host says members of Charlie's own security team were allowed on the 
 Transcript Snippet: And additionally, members of Charlie's security team were allowed up there as well.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-274
+Mentions: N-3, N-1, N-272
 Related Nodes: N-10646
 Contradicts: C-15019
 Tags: relevance:core
@@ -1657,7 +1657,7 @@ Claim: The host reads the notice as saying Chief Long's 'got you covered' led TP
 Transcript Snippet: led TPUSA to reasonably conclude that UVU had a plan to address the identified risk and other similar risks
 
 Anchored Artifacts: A-2384.1
-Mentions: N-3, N-275
+Mentions: N-3, N-273
 Related Nodes: N-10646, N-10835
 Supports: C-3472
 Tags: relevance:context
@@ -1674,7 +1674,7 @@ Claim: The host reads the notice as saying Chief Long's text did not invite or e
 Transcript Snippet: Chief Long's text message did not invite or even allow Turning Point USA to take any steps to secure the risk of unsecured rooftops.
 
 Anchored Artifacts: A-2384.1
-Mentions: N-3, N-275
+Mentions: N-3, N-273
 Related Nodes: N-10646, N-10835
 Tags: relevance:context
 Investigative Direction: Read page six of the filed notice and compare with the roof access actually given to TPUSA security.
@@ -1723,7 +1723,7 @@ Claim: In a sponsor read, the host says the Vatican entered a secretive deal wit
 Transcript Snippet: In 2018, the Vatican entered a secretive deal with the Chinese Communist Party.
 
 Anchored Artifacts: 
-Mentions: N-3, N-426
+Mentions: N-3, N-424
 Tags: relevance:tangential
 Investigative Direction: Check the 2018 Holy See-China provisional agreement and its renewals.
 
@@ -1738,7 +1738,7 @@ Claim: The host says Dan Flood was providing security to Erika in the immediate 
 Transcript Snippet: Dan Flood was actually providing security to her in the immediate aftermath.
 
 Anchored Artifacts: 
-Mentions: N-3, N-274, N-2
+Mentions: N-3, N-272, N-2
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor records and TPUSA security payroll records.
@@ -1754,7 +1754,7 @@ Claim: The host credits YouTuber Zack Costello with noticing that Tyler Robinson
 Transcript Snippet: he was looking at the footage of um the footage that we released of Tyler Robinson the version in the American shirt uh walking to onto UVU campus and he was addressing how he had his fingers in his pockets.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-955
+Mentions: N-3, N-40, N-953
 Related Nodes: N-10873
 Tags: relevance:context
 Investigative Direction: Watch Costello's video and compare the two clips.
@@ -1770,7 +1770,7 @@ Claim: The host says Costello thought it reminiscent of the 2022 footage of Robi
 Transcript Snippet: that makes me think of that 2022 arrest of Tyler Robinson and he also had his fingers in the pocket that way.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-955
+Mentions: N-3, N-40, N-953
 Related Nodes: N-10873, N-10834
 Tags: relevance:context
 Investigative Direction: Compare the frames; the host later says no arrest occurred in 2022.
@@ -1963,7 +1963,7 @@ Claim: The host says Turning Point USA has a strong tie to UT Austin through its
 Transcript Snippet: Turning Point USA has a very strong tie to UT Austin in the form of their number one donor uh Nelda Buckman.
 
 Anchored Artifacts: A-2392.1
-Mentions: N-3, N-466
+Mentions: N-3, N-464
 Related Nodes: N-10421, N-10000
 Supports: C-10514
 Tags: relevance:context
@@ -1980,7 +1980,7 @@ Claim: The host says she vaguely believes TPUSA was sharing a plane with the don
 Transcript Snippet: That was who they I believe they were sharing a plane with as well.
 
 Anchored Artifacts: 
-Mentions: N-3, N-466
+Mentions: N-3, N-464
 Related Nodes: N-10421
 Tags: relevance:context
 Investigative Direction: Check flight records for a shared flight with Buckman.
@@ -1996,7 +1996,7 @@ Claim: The host says the donor gave a 2,300 square foot building to UT Austin in
 Transcript Snippet: she donated in 2022 a 2300 square foot building to UT Austin for mixed media and artists.
 
 Anchored Artifacts: A-2392.1
-Mentions: N-3, N-466
+Mentions: N-3, N-464
 Related Nodes: N-10421
 Tags: relevance:context
 Investigative Direction: Check UT Austin's announcement of the Buckman Center.
@@ -2012,7 +2012,7 @@ Claim: The host suggests the UT Austin link, through Scripps founder Jim Spencer
 Transcript Snippet: Help us all figure out how they got a hold of this obscure video.
 
 Anchored Artifacts: A-2391.1, A-2392.1
-Mentions: N-3, N-956, N-466
+Mentions: N-3, N-954, N-464
 Related Nodes: N-10834, N-10873
 Supports: C-3482
 Tags: relevance:context
@@ -2109,7 +2109,7 @@ Claim: The host asks whether Mike Mitchell was Robinson's mentor and whether Rob
 Transcript Snippet: But didn't Mike Mitchell, wasn't he his mentor?
 
 Anchored Artifacts: 
-Mentions: N-3, N-126, N-40
+Mentions: N-3, N-125, N-40
 Related Nodes: N-10834
 Tags: relevance:context
 Investigative Direction: Establish the Mitchell-Robinson relationship from public records.
@@ -2125,7 +2125,7 @@ Claim: In reply to comments on the Macklemore and Ed Sheeran dispute, the host s
 Transcript Snippet: The Perisio lobby, they just operate like termites.
 
 Anchored Artifacts: 
-Mentions: N-3, N-842, N-843
+Mentions: N-3, N-840, N-841
 Tags: relevance:tangential
 Investigative Direction: Sweeping group claim; no direct bearing on the case.
 
@@ -2146,7 +2146,7 @@ Investigative Direction: Sweeping group claim; no direct bearing on the case.
 
 ---
 
-**C-15049** Host Says John and Arena Mappin Have Been Fantastic Friends
+**C-15049** Host Says John and Irina Mappin Have Been Fantastic Friends
 
 Claim Timestamp: 00:56:05
 
@@ -2155,7 +2155,7 @@ Claim: The host says John Mappin is a quintessential Englishman and that he and 
 Transcript Snippet: him and Arena have just been fantastic friends to us especially throughout this time.
 
 Anchored Artifacts: 
-Mentions: N-3, N-157, N-158
+Mentions: N-3, N-156, N-157
 Supports: C-1392
 Tags: relevance:context
 Investigative Direction: Context only.
@@ -2171,7 +2171,7 @@ Claim: The host says the Mappins have been extremely loyal to Charlie and to mak
 Transcript Snippet: They have been extremely loyal to Charlie and making sure that um his he does not die in vain
 
 Anchored Artifacts: 
-Mentions: N-3, N-157, N-158, N-1
+Mentions: N-3, N-156, N-157, N-1
 Supports: C-1392
 Tags: relevance:context
 Investigative Direction: Context only.
@@ -2204,7 +2204,7 @@ Claim: The host says Baron Coleman will take over her principal show while she i
 Transcript Snippet: But Baron Coleman, yes, will be taking over the principal show while I'm on maternity leave.
 
 Anchored Artifacts: 
-Mentions: N-3, N-334
+Mentions: N-3, N-332
 Related Nodes: N-11313
 Tags: relevance:context
 Investigative Direction: Check the show schedule for Coleman's episodes.
@@ -2220,7 +2220,7 @@ Claim: The host says the show will run Monday through Wednesday while she is off
 Transcript Snippet: It will run while I am off air um from Monday through Wednesday.
 
 Anchored Artifacts: 
-Mentions: N-3, N-334
+Mentions: N-3, N-332
 Related Nodes: N-11313
 Tags: relevance:context
 Investigative Direction: Check the show schedule.
@@ -2236,7 +2236,7 @@ Claim: The host says before leaving she and Coleman will do a joint episode goin
 Transcript Snippet: Before I leave, we will do a joint episode.
 
 Anchored Artifacts: 
-Mentions: N-3, N-334, N-18
+Mentions: N-3, N-332, N-18
 Related Nodes: N-11313
 Tags: relevance:context
 Investigative Direction: Watch for the joint episode.
@@ -2268,7 +2268,7 @@ Claim: The host says she went on Ana Kasparian's show and explained many things 
 Transcript Snippet: I went on her show and explained a lot of the things that are wrong with the case, which I was really grateful for because she has a different audience from mine.
 
 Anchored Artifacts: 
-Mentions: N-3, N-207
+Mentions: N-3, N-205
 Tags: relevance:context
 Investigative Direction: Find the Kasparian interview.
 
@@ -2283,7 +2283,7 @@ Claim: The host says Coleman will keep track of 'Tricky Terrell', whom she says 
 Transcript Snippet: he will he will keep track of Tricky Terrell because Tricky Terrell bothers us all.
 
 Anchored Artifacts: 
-Mentions: N-3, N-334, N-265
+Mentions: N-3, N-332, N-263
 Tags: relevance:context
 Investigative Direction: Confirm 'Tricky Terrell' means Terrell Farnsworth.
 
@@ -2362,7 +2362,7 @@ Claim: The host says the book club is reading Bearing False Witness by Rodney St
 Transcript Snippet: we are reading bearing false witness and that is by Rodney Stark and uh actually this author was introduced to me by Charlie Kirk.
 
 Anchored Artifacts: 
-Mentions: N-3, N-957, N-1
+Mentions: N-3, N-955, N-1
 Tags: relevance:context
 Investigative Direction: Context only.
 
@@ -2525,7 +2525,7 @@ Confidence: high
 - **Name uncertainty – Erika vs Erica:** Transcript uses "Erika" throughout. Protocol example ledger uses "Erica." Preserve transcript spelling; flag inconsistency.
 - **Name uncertainty – Scripps News:** Transcript uses "Scripps Media," "Scripps News," and "Scripps News." Treat as same entity; preserve spelling per artifact.
 - **Transcription error – "August 25th, 20125":** Clear error for 2025.
-- **Name uncertainty – Nelda Buckman:** Possibly existing node; verification recommended. Not created as new since this name may already exist in N-1 to N-226 range.
+- **Name uncertainty – Nelda Buckman:** Possibly existing node; verification recommended. Not created as new since this name may already exist in N-1 to N-224 range.
 - **Artifact verbally referenced but not shown – Nelda Buckman / Buckman Center donation:** A-2392.1 was referenced verbally; primary donation record not displayed on screen.
 - **Possible transcription error – 60–90 day Utah bodycam retention figure:** Host states this as Utah law; the cited law should be verified against Utah Code.
 - **Timestamp uncertainty:** Filing date of the notice of claim not explicitly given on air (described only as occurring "a year on" and "this morning"); extraction date 2026-09-16 is inferred.

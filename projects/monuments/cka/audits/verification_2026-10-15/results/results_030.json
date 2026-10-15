@@ -1,0 +1,805 @@
+[
+ {
+  "claim": "C-13989",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13990",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13991",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13992",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13993",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13994",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13995",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13996",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13997",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13998",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13999",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14000",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14001",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14002",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Mikey McCoy only; Frank Turek (N-7) is mentioned in the preceding sentence, not in the claim.",
+  "fix": {
+   "mentions": [
+    "N-194"
+   ]
+  }
+ },
+ {
+  "claim": "C-1490",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1491",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1492",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Text 'I'm on a run and I'm blasting Kanye West...' is read at ~07:07; timestamp 05:35 is ~90s early.",
+  "fix": {
+   "timestamp": "00:07:00"
+  }
+ },
+ {
+  "claim": "C-1493",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1494",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1495",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1496",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1497",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Range 07:00-09:05 overlaps the Scott Adams clip (08:44-10:10).",
+  "fix": {}
+ },
+ {
+  "claim": "C-1498",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names the host (Candace) and Hitler; Erika Kirk (N-2) is not named or referred to.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-1499",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1500",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Kolvet and Mikey; Charlie (N-1) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-194"
+   ]
+  }
+ },
+ {
+  "claim": "C-1501",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Marlow says addictive 'like social media stuff... or pornography'; he does not say drugs (host does). Clip is from the Charlie Kirk Show where Marlow was guest, not 'Breitbart audio'.",
+  "fix": {
+   "claim": "In a clip from TPUSA's show the host plays, Alex Marlow calls the suggestion that Mikey McCoy was part of a conspiracy to murder Charlie 'vile' and says the mindset behind it fuels itself and is addictive, in the way social media or pornography is addictive.",
+   "label": "Alex Marlow Compares Online Conspiracy Mindset to Addiction"
+  }
+ },
+ {
+  "claim": "C-1502",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Turek's 'possibility... shut up... hero' is at ~49:13-50:30; ts 50:30 is ~75s late. He calls Mikey 'brilliant' and 'a hero that day' and says age 23 in passing, not 'given his age'.",
+  "fix": {
+   "timestamp": "00:49:10",
+   "claim": "In a clip the host plays, Frank Turek states there is a 'difference between a possibility and evidence for a possibility,' tells people who have no evidence to 'shut up,' and calls Mikey McCoy, who was 23 when Charlie was shot, a hero that day."
+  }
+ },
+ {
+  "claim": "C-1503",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host corrects herself at ~39:46: 'I meant to say Utah Valley Hospital'; message was shared with her by a medical-staff tipster; it says only Deborah and the sender ('myself', Jacob Blank).",
+  "fix": {
+   "claim": "The host reads an internal message, shared with her by a tipster she says is hospital medical staff and received at 8:08 p.m. on September 10, 2025, at Utah Valley Hospital saying only Deborah and the sender, Jacob Blank, may open the chart of a trauma patient from the media event."
+  }
+ },
+ {
+  "claim": "C-1504",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: tipsters say he was at the hospital; 'I want some information'; 'why he also has a file at UVU'; asks for a definitive answer. Claim says confirmed/corroborates.",
+  "fix": {
+   "claim": "The host says she received tips and an email from someone she describes as hospital medical staff saying Charlie was at Utah Valley Hospital and that a file for him existed in its system, shows a message and entry she was sent, and says she wants a definitive explanation, adding it could have a logical answer."
+  }
+ },
+ {
+  "claim": "C-1505",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: none; Webb says 'guiding the hand' for the NAR revival (loosely 'guiding Charlie').",
+  "fix": {}
+ },
+ {
+  "claim": "C-1506",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Webb says Rob McCoy is 'a NAR person' and Charlie was meeting with NAR, whose $25M+ donors were Ziklag; he does not say McCoy was connected to Ziklag.",
+  "fix": {
+   "claim": "George Webb says in a clip the host plays that Rob McCoy is a NAR person and that Charlie was meeting with NAR, whose donors he describes as '$25 million and above' Christian-right donors in an organization named Ziklag."
+  }
+ },
+ {
+  "claim": "C-1507",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Name 'Mr. Burme' is Tristan Bromet, chief of staff to Brigitte Macron. Host says tax forms list 'Jean Michelle' and male; official recounted her legal name was changed on her tax account.",
+  "fix": {
+   "claim": "The host says Brigitte Macron is listed on French tax forms as Jean Michelle and as male, and cites a government official, Mr. Bromet, who recounted that she was stunned to learn her legal name had been changed when she logged into her personal tax account.",
+   "names": [
+    {
+     "wrong": "Burme",
+     "right": "Bromet",
+     "source": "https://www.breitbart.com/politics/2025/10/28/french-govt-claims-hackers-changed-brigitte-macrons-name-and-gender-on-tax-database/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1508",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1509",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Watermark/strike at ~53:18-54:30, his tweet at ~54:49-55:07; ts 55:30 is after. Only 'Candace Owens hit my account' is his tweet; 'Why is she trying to silence me?' is the host's sarcasm.",
+  "fix": {
+   "timestamp": "00:53:15",
+   "claim": "The host says Nathan Livingstone (Milk Bar TV) shared Book Club clips watermarked with his own branding, that she hit him with a copyright strike, and that he tweeted that she had hit his account, which she mocks as him asking why she is trying to silence him."
+  }
+ },
+ {
+  "claim": "C-1510",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Horowitz is discussed at ~11:00 (Freedom Center, offer to facilitate a Kanye meeting), not at 57:00 where the host is on Brigitte Macron.",
+  "fix": {
+   "timestamp": "00:10:55",
+   "label": "Host Says David Horowitz Contacted Her After Kanye's Tweet",
+   "claim": "The host says that after she asked Kanye to take a meeting, David Horowitz of the Freedom Center, who first invited her to speak at his conference, messaged her offering to facilitate a meeting through his son who knows Kanye."
+  }
+ },
+ {
+  "claim": "C-1511",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mappin discussed at ~16:23 (UK event, letter), not in Macron segment at 58:00. 'Arena/Nina' is Irina Mappin (John and Irina Mappin).",
+  "fix": {
+   "timestamp": "00:16:20",
+   "label": "Host Says John and Irina Mappin Arranged Her UK Event",
+   "claim": "The host says John and Irina Mappin, the lone donors who wrote a letter saying that what Turning Point USA is doing is wrong, were the people Charlie asked to arrange a place for her to speak in the UK, and that John made the event happen.",
+   "mentions": [
+    "N-157",
+    "N-158"
+   ],
+   "names": [
+    {
+     "wrong": "Arena Mappen",
+     "right": "Irina Mappin",
+     "source": "https://x.com/JohnMappin/status/1975380093171093617"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1512",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Trotter discussed at ~28:56-29:37 and ~35:00, not at 59:00 (Comet ad).",
+  "fix": {
+   "timestamp": "00:28:50",
+   "label": "Host Says Dr. Lee Trotter Did Residency at an Air Force Medical Center",
+   "claim": "The host says the doctor who worked on Charlie was Dr. Lee Trotter, who did his residency at Keesler Air Force Base's medical center in Mississippi, and that she thinks he might be in the Air Force and is a pilot, though she cannot confirm it."
+  }
+ },
+ {
+  "claim": "C-1513",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Amaro discussed at ~29:37 (medical examiner, army major, Ericson family), not at 1:00:00 (Comet ad). Utah chief ME is Dr. Deirdre Amaro.",
+  "fix": {
+   "timestamp": "00:29:30",
+   "label": "Host Says Medical Examiner Deidra Weiss Amaro Is an Army Major From the Ericson Family",
+   "claim": "The host says the medical examiner, Dr. Deidra Weiss Amaro, is a major in the army from the Ericson family, and that in a dream Charlie told her to look into her.",
+   "names": [
+    {
+     "wrong": "Deidra Weiss Amaro",
+     "right": "Deirdre Amaro",
+     "source": "https://dhhs.utah.gov/featured-news/utah-department-of-health-and-human-services-dhhs-welcomes-new-medical-examiner/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-12146",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12147",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12148",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12149",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12150",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12151",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12152",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12153",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12154",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12155",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12156",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12157",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12158",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12159",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'father to Andre and Harowitz... or the stepfather to'; hedge dropped. 'Andre and Harowitz' is Andreessen Horowitz, in the TikTok investor group.",
+  "fix": {
+   "claim": "The host says David Horowitz is the father, or stepfather, of the Andreessen Horowitz figure whom she says Benjamin Netanyahu is insisting be part of the group that buys TikTok, because they think it important for psychological warfare in the future.",
+   "label": "Host Says Horowitz's Son or Stepson Is Wanted in the TikTok Buyer Group",
+   "names": [
+    {
+     "wrong": "Andre and Harowitz",
+     "right": "Andreessen Horowitz",
+     "source": "https://www.forbesafrica.com/current-affairs/2025/09/17/oracle-andreessen-horowitz-more-will-hold-controlling-stake-in-tiktok-deal-report-says"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-12160",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12161",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12162",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12163",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12164",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12165",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12166",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12167",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

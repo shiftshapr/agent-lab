@@ -242,7 +242,7 @@ Anyway, a couple of things that I did want to respond to from yesterday's episod
 
 [45:08]
 
-Also, we It's a fact Mikey did have two phones when him and Charlie walked into the event. The reason why I have not commented on that and and also Blake Neff oddly saying I put that phone away. That implies there's another phone. Everyone would just say I put my phone away and Blake Neff does say I put that phone away and I can show you that clip. Take a listen. >> I remember he calls Erika. I around the same time I pull out my phone and I call my mom just to say Mom, there's been a a shooting. You're going to see it on the news. I'm okay. You know, pray for me. I've got to go. And I remember that call. And around the time I I put that phone away and then he immediately calls his dad. He calls Robin McCoy.
+Also, we It's a fact Mikey did have two phones when him and Charlie walked into the event. The reason why I have not commented on that and and also Blake Neff oddly saying I put that phone away. That implies there's another phone. Everyone would just say I put my phone away and Blake Neff does say I put that phone away and I can show you that clip. Take a listen. >> I remember he calls Erika. I around the same time I pull out my phone and I call my mom just to say Mom, there's been a a shooting. You're going to see it on the news. I'm okay. You know, pray for me. I've got to go. And I remember that call. And around the time I I put that phone away and then he immediately calls his dad. He calls Rob McCoy.
 
 [45:49]
 

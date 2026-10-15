@@ -77,7 +77,7 @@
             "C-1600"
           ],
           "related_nodes": [
-            "N-227"
+            "N-225"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -128,8 +128,8 @@
             "C-1603"
           ],
           "related_nodes": [
-            "N-225",
-            "N-226"
+            "N-223",
+            "N-224"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -148,8 +148,8 @@
             "C-1605"
           ],
           "related_nodes": [
-            "N-225",
-            "N-107"
+            "N-223",
+            "N-106"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -175,7 +175,7 @@
             "C-1606"
           ],
           "related_nodes": [
-            "N-225",
+            "N-223",
             "N-56"
           ],
           "tags": [],
@@ -194,7 +194,7 @@
             "C-1607"
           ],
           "related_nodes": [
-            "N-225"
+            "N-223"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -220,8 +220,8 @@
             "C-1608"
           ],
           "related_nodes": [
-            "N-225",
-            "N-228"
+            "N-223",
+            "N-226"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -248,8 +248,8 @@
             "C-1610"
           ],
           "related_nodes": [
-            "N-194",
-            "N-162",
+            "N-192",
+            "N-161",
             "N-17",
             "N-2",
             "N-1"
@@ -306,7 +306,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-227"
+            "N-225"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -332,7 +332,7 @@
             "C-1614"
           ],
           "related_nodes": [
-            "N-227"
+            "N-225"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -358,7 +358,7 @@
             "C-1615"
           ],
           "related_nodes": [
-            "N-194",
+            "N-192",
             "N-2",
             "N-1"
           ],
@@ -386,7 +386,7 @@
             "C-1616"
           ],
           "related_nodes": [
-            "N-194",
+            "N-192",
             "N-10225",
             "N-10226"
           ],
@@ -595,8 +595,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-223",
+      "ref": "N-223",
       "name": "Brett Cooper",
       "type": "person",
       "description": "Subject of multiple on-air artifact-backed claims (commentary clips, online posts, Shawn Ryan appearance).",
@@ -622,16 +622,16 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-107",
-        "N-226",
+        "N-106",
+        "N-224",
         "N-56",
-        "N-228"
+        "N-226"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Subject of artifact-backed claims regarding post-shooting phone calls, behavior, and YouTube channel positioning.",
@@ -661,8 +661,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Eyewitness source providing on-record recounting of post-shooting events.",
@@ -679,15 +679,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-194",
+        "N-192",
         "N-17",
         "N-2"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-107",
-      "ref": "N-107",
+      "@id": "N-106",
+      "ref": "N-106",
       "name": "Ted Cruz",
       "type": "person",
       "description": "Subject of Brett Cooper criticism and host commentary.",
@@ -704,13 +704,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-225"
+        "N-223"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Randy Fine",
       "type": "person",
       "description": "Florida state representative referenced in Brett Cooper commentary.",
@@ -726,13 +726,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-225"
+        "N-223"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-227",
-      "ref": "N-227",
+      "@id": "N-225",
+      "ref": "N-225",
       "name": "Zohran Mamdani",
       "type": "person",
       "description": "NYC mayoral election winner; subject of debate clip, exit poll, and commentary.",
@@ -790,13 +790,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-225"
+        "N-223"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-226",
+      "ref": "N-226",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Host of the Shawn Ryan Show, on which Brett Cooper appeared.",
@@ -812,7 +812,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-225"
+        "N-223"
       ]
     },
     {
@@ -835,8 +835,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-194",
-        "N-162"
+        "N-192",
+        "N-161"
       ]
     },
     {
@@ -884,7 +884,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-1",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -907,8 +907,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-194",
-        "N-162",
+        "N-192",
+        "N-161",
         "N-17",
         "N-2"
       ]
@@ -932,7 +932,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-194",
+        "N-192",
         "N-2"
       ]
     },
@@ -1205,7 +1205,7 @@
       "ref": "N-95",
       "name": "Jack Posobiec",
       "type": "person",
-      "description": "Jack Posobiec (transcribed \"Jack Bobic\"); named in the YouTube channel list.",
+      "description": "Jack Posobiec (transcribed \"Jack Posobiec\"); named in the YouTube channel list.",
       "related_artifacts": [],
       "related_claims": [
         "C-9566"
@@ -1252,11 +1252,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-101",
+      "ref": "N-101",
       "name": "Michael Knowles",
       "type": "person",
-      "description": "Michael Knowles (host says \"Michael Nolles\"); named as a friend of Ted Cruz.",
+      "description": "Michael Knowles (host says \"Michael Knowles\"); named as a friend of Ted Cruz.",
       "related_artifacts": [],
       "related_claims": [
         "C-9542"
@@ -1269,8 +1269,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-120",
-      "ref": "N-120",
+      "@id": "N-119",
+      "ref": "N-119",
       "name": "Vivek Ramaswamy",
       "type": "person",
       "description": "Vivek Ramaswamy (transcribed \"Vik Ramoswami\"); said not to have worn an Israeli pin.",
@@ -1286,8 +1286,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-132",
-      "ref": "N-132",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Susie Wiles",
       "type": "person",
       "description": "Susie Wiles; the host says she eulogized Kirk.",
@@ -1304,8 +1304,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-184",
-      "ref": "N-184",
+      "@id": "N-182",
+      "ref": "N-182",
       "name": "Camera Operator (UVU Event, 2025-09-10)",
       "type": "person",
       "description": "Camera Operator (UVU Event, 2025-09-10); the host's \"camera boy\" who removed cameras.",
@@ -1321,8 +1321,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-203",
+      "ref": "N-203",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Nick Fuentes; named in the Ted Cruz tweets and the host's MAGA comment.",
@@ -1340,8 +1340,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-215",
-      "ref": "N-215",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Jesse Watters (transcribed \"Jesse Watters\"); interviewer of Erika Kirk.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-219",
+      "ref": "N-219",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Eliza McCoy (host says \"Elizabeth McCoy\"); Mikey McCoy's wife in the host's three-calls claim.",
@@ -1374,8 +1374,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-601",
-      "ref": "N-601",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Jordan Peterson; subject of a viewer comment.",
@@ -1797,8 +1797,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-850",
-      "ref": "N-850",
+      "@id": "N-848",
+      "ref": "N-848",
       "name": "Andrew Cuomo",
       "type": "person",
       "description": "First named by the host at 00:09:05 in episode 26. Former New York governor who ran against Zohran Mamdani in the 2025 NYC mayoral race; the host says Republicans earlier called him corrupt.",
@@ -1815,8 +1815,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-851",
-      "ref": "N-851",
+      "@id": "N-849",
+      "ref": "N-849",
       "name": "Michael Bloomberg",
       "type": "person",
       "description": "First named by the host at 00:10:00 in episode 26. Billionaire the host says gave $8.3 million to a Cuomo-affiliated super PAC opposing Mamdani.",
@@ -1832,8 +1832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-852",
-      "ref": "N-852",
+      "@id": "N-850",
+      "ref": "N-850",
       "name": "Joe Gebbia",
       "type": "person",
       "description": "First named by the host at 00:10:00 in episode 26 as the Airbnb co-founder \"Joseph Gbia\", whom she says gave $3.1 million against Mamdani.",
@@ -1849,8 +1849,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-853",
-      "ref": "N-853",
+      "@id": "N-851",
+      "ref": "N-851",
       "name": "Jeffrey Moussaieff Masson",
       "type": "person",
       "description": "First named by the host at 00:56:15 in episode 26 (transcribed \"Jeffrey Mason\" and \"Jeffrey Mone\"). Author of The Assault on Truth, whom the host cites on Freud and the Freud archives.",
@@ -1867,8 +1867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-854",
-      "ref": "N-854",
+      "@id": "N-852",
+      "ref": "N-852",
       "name": "Theodor Herzl",
       "type": "person",
       "description": "First named by the host at 00:54:27 in episode 26 (transcribed \"Theodore Herzel\"). Founder of political Zionism whom the host links to Freud.",
@@ -1942,7 +1942,7 @@
       "@id": "C-1599",
       "ref": "C-1599",
       "label": "Host Says UVU Request Timing Deviated From Standard TPUSA Planning",
-      "claim": "The host says a UVU request for Charlie Kirk to speak on campus was received in mid-July 2025 and approved approximately six weeks later for a September 2025 event date, deviating from the standard TPUSA multi-month planning window.",
+      "claim": "The host says a UVU request for Charlie Kirk to speak on campus was received in mid-July 2025 and immediately approved, with the event scheduled as his first stop some six weeks later for September 2025, deviating from the standard TPUSA multi-month planning window.",
       "anchored_artifacts": [
         "A-1333.2"
       ],
@@ -1970,7 +1970,7 @@
       "claim_timestamp": "00:11:41–00:12:31",
       "investigative_direction": "Locate the full unedited debate transcript or video to verify the exact wording and any follow-up exchanges.",
       "mentions_person_refs": [
-        "N-227"
+        "N-225"
       ]
     },
     {
@@ -1995,7 +1995,7 @@
       "@id": "C-1602",
       "ref": "C-1602",
       "label": "Brett Cooper Commentary on Randy Fine",
-      "claim": "Brett Cooper stated on-record that Randy Fine cares more about Israel than free-speech principles, cited his anti-Netanyahu-handshake behavior and his bill introductions, and advised him to move to Israel.",
+      "claim": "In a clip the host plays, Brett Cooper says Randy Fine bragged about not washing his hands after a handshake with Netanyahu, has repeatedly introduced bills to criminalize anti-semitism, obviously cares more about Israel than principles like free speech, and should move to Israel.",
       "anchored_artifacts": [
         "A-1336.1"
       ],
@@ -2004,8 +2004,9 @@
       "claim_timestamp": "00:18:25–00:18:57",
       "investigative_direction": "Locate the original Brett Cooper video for full context and identify any subsequent Fine response.",
       "mentions_person_refs": [
-        "N-225",
-        "N-226"
+        "N-223",
+        "N-224",
+        "N-36"
       ]
     },
     {
@@ -2013,7 +2014,7 @@
       "@id": "C-1603",
       "ref": "C-1603",
       "label": "Host Concurs with Brett Cooper on Randy Fine",
-      "claim": "The host explicitly endorses Brett Cooper's characterization of Randy Fine, calling her commentary \"pretty sound advice.\"",
+      "claim": "The host calls Brett Cooper's advice to Randy Fine to move to Israel \"pretty sound advice\" and adds, \"Rather than trying to make this country Israel, why don't you just go live in Israel?\"",
       "anchored_artifacts": [
         "A-1336.1"
       ],
@@ -2022,8 +2023,8 @@
       "claim_timestamp": "00:18:57–00:19:30",
       "investigative_direction": "N/A – host-stance claim linked to source artifact.",
       "mentions_person_refs": [
-        "N-225",
-        "N-226"
+        "N-223",
+        "N-224"
       ]
     },
     {
@@ -2040,8 +2041,8 @@
       "claim_timestamp": "00:19:39–00:20:14",
       "investigative_direction": "Verify the cited Ted Cruz tweets in their original form and timestamp.",
       "mentions_person_refs": [
-        "N-107",
-        "N-225"
+        "N-106",
+        "N-223"
       ]
     },
     {
@@ -2058,8 +2059,8 @@
       "claim_timestamp": "00:20:14–00:20:30",
       "investigative_direction": "N/A – host-stance claim linked to source artifact.",
       "mentions_person_refs": [
-        "N-107",
-        "N-225"
+        "N-106",
+        "N-223"
       ]
     },
     {
@@ -2067,7 +2068,7 @@
       "@id": "C-1606",
       "ref": "C-1606",
       "label": "Wexler \"White Candace\" Post",
-      "claim": "An X post attributed to Aaron Wexler referred to Brett Cooper as \"white Candace\" and questioned the use of the term \"Nazi.\"",
+      "claim": "The host shows a post she attributes to Aaron Wexler that reads \"Okay, white Candace. What is a Nazi then?\" about Brett Cooper; the host asks why Cooper is being called the white Candace.",
       "anchored_artifacts": [
         "A-1337.1"
       ],
@@ -2077,7 +2078,7 @@
       "investigative_direction": "Verify the original Wexler post, account status (active/deleted), and any subsequent responses.",
       "mentions_person_refs": [
         "N-56",
-        "N-225"
+        "N-223"
       ]
     },
     {
@@ -2094,7 +2095,7 @@
       "claim_timestamp": "00:23:37–00:24:10",
       "investigative_direction": "Identify the original poster accounts and verify the original posts.",
       "mentions_person_refs": [
-        "N-225"
+        "N-223"
       ]
     },
     {
@@ -2111,8 +2112,8 @@
       "claim_timestamp": "00:24:28–00:25:20",
       "investigative_direction": "Locate the full Shawn Ryan Show episode for complete context and date verification.",
       "mentions_person_refs": [
-        "N-225",
-        "N-228"
+        "N-223",
+        "N-226"
       ]
     },
     {
@@ -2120,7 +2121,7 @@
       "@id": "C-1609",
       "ref": "C-1609",
       "label": "Blake Neff Recounts Mikey McCoy's Actions",
-      "claim": "Blake Neff stated on-record that he was next to Mikey McCoy when the shot occurred, that Mikey ran in a specific direction, that his lip was quivering, and that Mikey placed calls to Erica Kirk and to Robin McCoy within approximately one minute.",
+      "claim": "In a clip the host plays, Blake Neff says he was next to Mikey McCoy when the shot occurred, that Mikey's lip was quivering, that Mikey called Erika Kirk within about a minute, and that he then immediately called his dad, Rob McCoy.",
       "anchored_artifacts": [
         "A-1339.1"
       ],
@@ -2131,8 +2132,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-17",
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-2"
       ]
     },
@@ -2141,7 +2142,7 @@
       "@id": "C-1610",
       "ref": "C-1610",
       "label": "Host Disputes Mikey McCoy Phone Call Account",
-      "claim": "The host asserts that Blake Neff's account is internally inconsistent with observed video footage of Mikey McCoy's movement and phone posture, and contends that the described calls could not have occurred as described.",
+      "claim": "The host says Blake Neff's account conflicts with footage of Mikey McCoy's movement and phone posture, says Neff might think he is telling the truth, and questions how the described calls to Erika and Rob McCoy could be so brief.",
       "anchored_artifacts": [
         "A-1339.1",
         "A-1344.1"
@@ -2154,8 +2155,8 @@
       "investigative_direction": "Obtain and analyze the post-shooting footage showing Mikey McCoy's movements and phone usage against Nef's timeline.",
       "mentions_person_refs": [
         "N-17",
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-2"
       ]
     },
@@ -2164,7 +2165,7 @@
       "@id": "C-1611",
       "ref": "C-1611",
       "label": "Laura Loomer Pentagon Press Pass Headline",
-      "claim": "A news headline reports that Laura Loomer, described as a Trump ally, has been issued a new Pentagon press pass.",
+      "claim": "A news headline the host reads says Laura Loomer, described as a Trump ally, says she has a new Pentagon press pass.",
       "anchored_artifacts": [
         "A-1340.1"
       ],
@@ -2181,7 +2182,7 @@
       "@id": "C-1612",
       "ref": "C-1612",
       "label": "Josh Hammer 9/11 Anniversary Commentary",
-      "claim": "Josh Hammer stated on-record that the election of a Muslim mayor in New York City less than a quarter century after September 11, 2001 is significant, framing Mamdani's candidacy in those terms.",
+      "claim": "In a clip the host plays, Josh Hammer says that, less than a quarter century after September 11, 2001, New York City is going to have a Muslim mayor who has refused to condemn things such as 'globalize the intifada', referring to Mamdani.",
       "anchored_artifacts": [
         "A-1341.1"
       ],
@@ -2191,7 +2192,7 @@
       "investigative_direction": "Verify the original Josh Hammer segment and identify the outlet.",
       "mentions_person_refs": [
         "N-55",
-        "N-227"
+        "N-225"
       ]
     },
     {
@@ -2199,7 +2200,7 @@
       "@id": "C-1613",
       "ref": "C-1613",
       "label": "Host Rejects Josh Hammer Framing",
-      "claim": "The host publicly rejects Josh Hammer's framing, identifies herself as more fearful of Zionists than Muslims, and refuses the implied call to armed conflict.",
+      "claim": "After playing a Josh Hammer clip, the host asks \"Who are you more afraid of as an American, Muslims or Zionists?\", says Zionists for her personally, and urges listeners to refuse to fight in a war she thinks they are foreshadowing.",
       "anchored_artifacts": [
         "A-1341.1"
       ],
@@ -2226,7 +2227,7 @@
       "investigative_direction": "Obtain the full CNN exit poll crosstabs and methodology to verify exact figures and sample composition.",
       "mentions_person_refs": [
         "N-67",
-        "N-227"
+        "N-225"
       ]
     },
     {
@@ -2234,7 +2235,7 @@
       "@id": "C-1615",
       "ref": "C-1615",
       "label": "YouTube Channel First-Scheduled Post Selection",
-      "claim": "Upon resumption of scheduled uploads to his YouTube page following the memorial event, the first scheduled post featured Mikey McCoy (and his wife), with Erika Kirk's speech scheduled second.",
+      "claim": "The host says that when scheduled posts resumed on Charlie Kirk's YouTube channel after the memorial event, the first post scheduled was Mikey McCoy's speech (a picture of him and his wife), with Erika Kirk's speech second.",
       "anchored_artifacts": [
         "A-1343.1"
       ],
@@ -2245,8 +2246,9 @@
       "claim_timestamp": "00:45:19–00:46:08",
       "investigative_direction": "Independently verify YouTube scheduling metadata for the relevant timeframe.",
       "mentions_person_refs": [
-        "N-194",
-        "N-2"
+        "N-192",
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -2264,11 +2266,11 @@
         "N-10226"
       ],
       "tags": [],
-      "claim_timestamp": "00:00:00–00:00:01",
+      "claim_timestamp": "00:31:22",
       "investigative_direction": "Obtain and analyze the full UVU scene footage from multiple angles; locate any official first-aid or security-team accounts; verify equipment-box presence in pre-event setup imagery.",
       "mentions_person_refs": [
         "N-1",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2423,7 +2425,6 @@
       "transcript_snippet": "it's looking to me like the apparent plan was to assassinate Charlie Kirk, who had at long last faltered on the pro-Israel cause.",
       "mentions_person_refs": [
         "N-1",
-        "N-132",
         "N-3"
       ]
     },
@@ -2432,7 +2433,7 @@
       "@id": "C-9520",
       "ref": "C-9520",
       "label": "Susie Wiles Eulogized Kirk; Host Calls Memorial an Effective Trump Rally",
-      "claim": "The host says Susie Wiles made it onto the stage to eulogize Charlie Kirk at the memorial and that the event was turned into an effective Trump rally.",
+      "claim": "The host says Susie Wiles made it onto the stage to eulogize Charlie Kirk at the memorial and that, as it looks to her, the event was turned into an effective Trump rally.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10002",
@@ -2445,7 +2446,7 @@
       "investigative_direction": "Obtain the memorial speaker list and transcript of the speeches.",
       "transcript_snippet": "we've turned uh this event into an effective Trump rally.",
       "mentions_person_refs": [
-        "N-132",
+        "N-131",
         "N-1",
         "N-5"
       ]
@@ -2473,7 +2474,7 @@
       "mentions_person_refs": [
         "N-17",
         "N-1",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2536,8 +2537,8 @@
       "investigative_direction": "Check certified NYC mayoral results and the dated Republican statements about Cuomo.",
       "transcript_snippet": "He won pretty handily against Andrew Cuomo, which like 5 minutes ago, the Republican party was telling us he was unbelievably corrupt and that he should be in prison.",
       "mentions_person_refs": [
-        "N-227",
-        "N-850",
+        "N-225",
+        "N-848",
         "N-3"
       ]
     },
@@ -2559,7 +2560,7 @@
       "transcript_snippet": "Bill gave 1.75 million and Mom Donnie won irrespective of the money that was donated against him.",
       "mentions_person_refs": [
         "N-37",
-        "N-227"
+        "N-225"
       ]
     },
     {
@@ -2579,9 +2580,9 @@
       "investigative_direction": "Check NYC Campaign Finance Board and super PAC filings for each donor's contribution.",
       "transcript_snippet": "He gave $8.3 million to Stop Mand Donnie and it didn't matter.",
       "mentions_person_refs": [
-        "N-851",
-        "N-852",
-        "N-227"
+        "N-849",
+        "N-850",
+        "N-225"
       ]
     },
     {
@@ -2601,7 +2602,7 @@
       "investigative_direction": "Locate the unedited mayoral debate video and confirm which candidate gave each answer.",
       "transcript_snippet": "given the hostility and the anti-semitism that has been uh shown in New York, I would go to Israel.",
       "mentions_person_refs": [
-        "N-850"
+        "N-848"
       ]
     },
     {
@@ -2638,7 +2639,7 @@
       "investigative_direction": "Locate the unedited debate video and compare the exact exchange with the host's characterization.",
       "transcript_snippet": "Do you believe in a Jewish state of Israel? >> I believe Israel has the right to exist",
       "mentions_person_refs": [
-        "N-227"
+        "N-225"
       ]
     },
     {
@@ -2656,7 +2657,7 @@
       "investigative_direction": "Review debate footage and photographs for which candidates wore Israeli pins.",
       "transcript_snippet": "there was only only Vik Ramoswami was not wearing the Israeli pin.",
       "mentions_person_refs": [
-        "N-120",
+        "N-119",
         "N-3"
       ]
     },
@@ -2677,7 +2678,7 @@
       "investigative_direction": "Check city Jewish population estimates and the exit-poll breakdown by religion.",
       "transcript_snippet": "New York has the largest population of Jewish people of any city in the world next to Israel.",
       "mentions_person_refs": [
-        "N-227",
+        "N-225",
         "N-3"
       ]
     },
@@ -2719,7 +2720,7 @@
       "transcript_snippet": "President Trump dedicated 900% more truth social uh posts to ensuring that Mandani would lose than to ensuring that Charlie Kirk's murderer was found.",
       "mentions_person_refs": [
         "N-5",
-        "N-227",
+        "N-225",
         "N-1"
       ]
     },
@@ -2761,7 +2762,7 @@
       "mentions_person_refs": [
         "N-5",
         "N-22",
-        "N-205",
+        "N-203",
         "N-9",
         "N-3"
       ]
@@ -2781,8 +2782,8 @@
       "investigative_direction": "Locate Cooper's pre-election video urging New Yorkers to vote.",
       "transcript_snippet": "Zionist wanted her do her part and encourage New Yorkers to get out and vote against Mam Donnie.",
       "mentions_person_refs": [
-        "N-225",
-        "N-227"
+        "N-223",
+        "N-225"
       ]
     },
     {
@@ -2802,7 +2803,7 @@
       "investigative_direction": "Locate the Republican Jewish Coalition event recording and Cooper's reaction video.",
       "transcript_snippet": "she watched the totally deranged Tucker is not MAGA Republican Jewish coalition event",
       "mentions_person_refs": [
-        "N-225",
+        "N-223",
         "N-22"
       ]
     },
@@ -2823,8 +2824,8 @@
       "investigative_direction": "Verify Fine's handshake remark and anger-management reporting in primary sources.",
       "transcript_snippet": "considering you had to go through anger management classes a few years ago, I genuinely think you would probably be happier if you just moved to Israel.",
       "mentions_person_refs": [
-        "N-225",
-        "N-226",
+        "N-223",
+        "N-224",
         "N-36"
       ]
     },
@@ -2845,17 +2846,18 @@
       "investigative_direction": "Locate both Ted Cruz tweets and their dates on X.",
       "transcript_snippet": "Trump's bombing of the Ayatollah's nuclear facilities made the little Nazi mad.",
       "mentions_person_refs": [
-        "N-107",
-        "N-225",
-        "N-205",
-        "N-22"
+        "N-106",
+        "N-223",
+        "N-203",
+        "N-22",
+        "N-5"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-9540",
       "ref": "C-9540",
-      "label": "Host Says Showman Took $2 Million From Kirk Over Tucker Carlson Stage Appearance",
+      "label": "Host Says Shillman Took $2 Million From Kirk Over Tucker Carlson Stage Appearance",
       "claim": "The host says that after Charlie Kirk was called an anti-semite for sitting down with Gen Z, financial threats were made and carried out, citing Bob Shillman taking $2 million away from him because he let Tucker Carlson on stage.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2876,7 +2878,7 @@
       "@id": "C-9541",
       "ref": "C-9541",
       "label": "Ted Cruz Reply Tweet Says He Does Not Know \"This Angry Lady\"",
-      "claim": "The host reads a Ted Cruz tweet saying he does not know \"this angry lady\", that Fuentes calls himself a Nazi, and that anyone who sides with Hitler is an actual Nazi, and objects that it tries to big-time a 23-year-old.",
+      "claim": "The host reads a Ted Cruz tweet saying he does not know 'this angry lady', that Fuentes calls himself a Nazi, and that anyone who explicitly sides with Hitler is an actual Nazi; she objects that Cruz is trying to big-time a 23-year-old.",
       "anchored_artifacts": [
         "A-3018.1"
       ],
@@ -2888,9 +2890,9 @@
       "investigative_direction": "Locate the Ted Cruz tweet on X and confirm its wording and date.",
       "transcript_snippet": "I don't know who this angry lady is, but she's missing a key distinction.",
       "mentions_person_refs": [
-        "N-107",
-        "N-225",
-        "N-205"
+        "N-106",
+        "N-223",
+        "N-203"
       ]
     },
     {
@@ -2910,9 +2912,9 @@
       "investigative_direction": "Check Lady Ballers cast credits for Cruz and Cooper.",
       "transcript_snippet": "you were featured in a movie that Brett Cooper starred in at the Daily Wire, Lady Ballers.",
       "mentions_person_refs": [
-        "N-107",
-        "N-225",
-        "N-102"
+        "N-106",
+        "N-223",
+        "N-101"
       ]
     },
     {
@@ -2932,8 +2934,8 @@
       "investigative_direction": "Locate the full Shawn Ryan episode featuring Cooper.",
       "transcript_snippet": "she was able to speak to Don, her first husband, to hear from him.",
       "mentions_person_refs": [
-        "N-225",
-        "N-228"
+        "N-223",
+        "N-226"
       ]
     },
     {
@@ -2941,7 +2943,7 @@
       "@id": "C-9544",
       "ref": "C-9544",
       "label": "Host Says Cooper's Twin Brother Died of a Heart Attack and Surviving Brother Is Hospitalized",
-      "claim": "The host says Brett Cooper told on the Shawn Ryan Show that one of her twin brothers died suddenly of a heart attack, that the surviving twin is in a mental hospital and cared for by her, and that the loss led to her parents' divorce.",
+      "claim": "The host says Brett Cooper told on the Shawn Ryan Show that one of her twin brothers died suddenly of a heart attack, that the surviving twin is in a mental hospital and cared for by her, and that the loss led to divorce.",
       "anchored_artifacts": [
         "A-1338.1"
       ],
@@ -2953,8 +2955,8 @@
       "investigative_direction": "Locate the full Shawn Ryan episode and confirm what Cooper said about her brothers.",
       "transcript_snippet": "one of her twin brothers dropped dead from a heart attack unexpectedly.",
       "mentions_person_refs": [
-        "N-225",
-        "N-228"
+        "N-223",
+        "N-226"
       ]
     },
     {
@@ -2972,7 +2974,7 @@
       "investigative_direction": "None: sweeping assertion about a group; record only as said on air.",
       "transcript_snippet": "Because these are the descendants of Boleviks.",
       "mentions_person_refs": [
-        "N-225"
+        "N-223"
       ]
     },
     {
@@ -3066,7 +3068,7 @@
       "transcript_snippet": "They're on either side of him, which is very strange.",
       "mentions_person_refs": [
         "N-1",
-        "N-184"
+        "N-182"
       ]
     },
     {
@@ -3100,7 +3102,7 @@
       "@id": "C-9551",
       "ref": "C-9551",
       "label": "Host Says Mikey McCoy Never Lowered His Hand Until Out of View",
-      "claim": "The host says new footage shows Mikey McCoy never stops holding his hand in the ear position, even when going left toward a parking lot until out of view, so she says he was not covering his ears.",
+      "claim": "The host says that in more footage she just saw, Mikey McCoy never stops 'this move' with his hand, even as he goes left toward a parking lot until out of view, so she says they are lying that he was covering his ears.",
       "anchored_artifacts": [
         "A-1344.1"
       ],
@@ -3117,7 +3119,7 @@
         "C-1463"
       ],
       "mentions_person_refs": [
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -3139,8 +3141,8 @@
       "investigative_direction": "Obtain Neff's full interview and the video of his and McCoy's movements.",
       "transcript_snippet": "I and him both had the reaction of let's get out of here before we were both shot.",
       "mentions_person_refs": [
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-1"
       ]
     },
@@ -3163,8 +3165,8 @@
       "investigative_direction": "Compare Neff's account with footage tracking both men's positions.",
       "transcript_snippet": "I think I was ahead of him as we left.",
       "mentions_person_refs": [
-        "N-162",
-        "N-194"
+        "N-161",
+        "N-192"
       ]
     },
     {
@@ -3186,8 +3188,8 @@
       "investigative_direction": "Obtain Neff's full interview and statements from others at the scene.",
       "transcript_snippet": "he was like a general directing a battle where he was you know grabbing people and saying okay we need to get to the hospital",
       "mentions_person_refs": [
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-2"
       ]
     },
@@ -3210,8 +3212,8 @@
       "investigative_direction": "Obtain Neff's full interview and ask other staff present whether the instruction was given.",
       "transcript_snippet": "none of you can say anything that you've heard because it is Erika is not going to hear about this from anyone except me.",
       "mentions_person_refs": [
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-2"
       ]
     },
@@ -3234,8 +3236,8 @@
       "investigative_direction": "Obtain wide footage tracking both men's movements from the shot to the vehicles.",
       "transcript_snippet": "And he is on the phone already. And Blake Neff is nowhere to be seen.",
       "mentions_person_refs": [
-        "N-194",
-        "N-162"
+        "N-192",
+        "N-161"
       ]
     },
     {
@@ -3256,9 +3258,9 @@
       "investigative_direction": "Obtain call logs for Mikey McCoy and Erika Kirk covering the minutes after the shot.",
       "transcript_snippet": "I'm supposed to believe what this was a 15-second phone call.",
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-2",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -3278,8 +3280,8 @@
       "investigative_direction": "Identify the host's source and obtain call logs for the three reported calls.",
       "transcript_snippet": "He made three cuz he also called Elizabeth McCoy, his wife, who screamed at the office.",
       "mentions_person_refs": [
-        "N-194",
-        "N-221"
+        "N-192",
+        "N-219"
       ]
     },
     {
@@ -3320,7 +3322,7 @@
       "investigative_direction": "Locate Neff's statement on arrival time and compare with transport and hospital records.",
       "transcript_snippet": "Blake Neff says elsewhere they got into the hospital within 25 minutes.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -3328,7 +3330,7 @@
       "@id": "C-9561",
       "ref": "C-9561",
       "label": "Host Says Hospital Was Locked Down but Admitted Mikey and TPUSA Staff",
-      "claim": "The host says the hospital was put on lockdown when Charlie Kirk arrived but let Mikey McCoy and the Turning Point staff in, and that Blake Neff and Frank Turek say they were there when it was announced Kirk had died.",
+      "claim": "The host says that, as they were told, the hospital was put on lockdown when Charlie Kirk came in but let Mikey McCoy and the Turning Point staff in ('Maybe that's true'), and that Blake Neff and Frank Turek say they were there when it was announced Kirk had died.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10149"
@@ -3340,8 +3342,8 @@
       "investigative_direction": "Obtain hospital access logs and security records for who was admitted and when.",
       "transcript_snippet": "the hospital was put on lockdown when Charlie came in.",
       "mentions_person_refs": [
-        "N-194",
-        "N-162",
+        "N-192",
+        "N-161",
         "N-7"
       ]
     },
@@ -3407,7 +3409,7 @@
         "C-6553"
       ],
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-3"
       ]
     },
@@ -3439,7 +3441,7 @@
       "@id": "C-9566",
       "ref": "C-9566",
       "label": "Host Describes Prior Channel Order Before the Gap: Ben, Jack Posobiec, Then It Stops",
-      "claim": "The host says the channel's list, read bottom to top, shows videos with Charlie and Ben, Charlie, Charlie and Jack Posobiec, and Charlie, and then stops until the channel returns with Mikey McCoy and his wife.",
+      "claim": "The host says the channel's list, read bottom to top, shows videos with Charlie and Ben, Charlie, Charlie and Jack Posobiec, Charlie, and Charlie, and then stops until the channel returns with Mikey McCoy and his wife.",
       "anchored_artifacts": [
         "A-1343.1"
       ],
@@ -3451,12 +3453,12 @@
       ],
       "claim_timestamp": "00:45:19",
       "investigative_direction": "Capture the channel's upload list as of the date the screenshot was taken.",
-      "transcript_snippet": "So you see you've got Charlie and Ben, you've got Charlie, Charlie and Jack Bobic, you've got Charlie, you got Charlie, and then it stops.",
+      "transcript_snippet": "So you see you've got Charlie and Ben, you've got Charlie, Charlie and Jack Posobiec, you've got Charlie, you got Charlie, and then it stops.",
       "mentions_person_refs": [
         "N-1",
         "N-97",
         "N-95",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -3474,7 +3476,7 @@
       "investigative_direction": "Locate the Fox News airing date and transcript of the Watters interview with Erika Kirk.",
       "transcript_snippet": "when the very anticipated interview drops between Jesse Watters and Erika Kirk, I will be watching.",
       "mentions_person_refs": [
-        "N-215",
+        "N-213",
         "N-2",
         "N-3"
       ]
@@ -3512,7 +3514,7 @@
         "N-10628"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:47:44",
       "investigative_direction": "Check court or police records or Loomer's own statements regarding involuntary psychiatric holds.",
@@ -3534,7 +3536,7 @@
         "N-10630"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:47:44",
       "investigative_direction": "Check contemporaneous news coverage of the 2018 Twitter headquarters protest.",
@@ -3548,7 +3550,7 @@
       "@id": "C-9571",
       "ref": "C-9571",
       "label": "Host Says Loomer Is Not Jewish and Has No Bat Mitzvah Pictures",
-      "claim": "The host says Laura Loomer is factually not Jewish, cannot produce any bat mitzvah pictures because it never happened, and adopted the identity for political reasons.",
+      "claim": "The host says Laura Loomer is factually not Jewish, cannot produce any bat mitzvah pictures because it never happened, and became Jewish in essence, she supposes, for political reasons.",
       "anchored_artifacts": [
         "A-1340.1"
       ],
@@ -3556,7 +3558,7 @@
         "N-10630"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:48:25",
       "investigative_direction": "Check Loomer's public statements on her background; no documentary record has been produced on air.",
@@ -3596,14 +3598,14 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:49:15",
       "investigative_direction": "Locate the original Hammer segment and confirm his wording and the outlet.",
       "transcript_snippet": "you are literally going to have a Karl Marx quoting Hamasloving Red Green Alliance sicko.",
       "mentions_person_refs": [
         "N-55",
-        "N-227"
+        "N-225"
       ]
     },
     {
@@ -3645,9 +3647,9 @@
       "investigative_direction": "None: reading recommendation recorded as said on air.",
       "transcript_snippet": "I would start with the assault on truth from by Jeffrey Mason and then move on to this most critical book uh which is Sigmund Freud in the Jewish Mystical Tradition.",
       "mentions_person_refs": [
-        "N-853",
+        "N-851",
         "N-50",
-        "N-854",
+        "N-852",
         "N-3"
       ]
     },
@@ -3667,7 +3669,7 @@
       "transcript_snippet": "That is why they celebrate Sigmund Freud is because he mainstreamed gaslighting people that they harmed.",
       "mentions_person_refs": [
         "N-50",
-        "N-853"
+        "N-851"
       ]
     },
     {
@@ -3687,7 +3689,7 @@
       "investigative_direction": "None: host states no knowledge; a viewer comment prompted it.",
       "transcript_snippet": "I did not know that he got sick while he was in Israel.",
       "mentions_person_refs": [
-        "N-601",
+        "N-599",
         "N-3"
       ]
     },
@@ -3720,7 +3722,7 @@
       "@id": "C-9579",
       "ref": "C-9579",
       "label": "Host Says the Plotters Planned It Perfectly, So the Phone Call and Walk-Away Look Unnatural",
-      "claim": "The host says that because those behind the killing planned it perfectly, the phone call and walking away in the right direction is not what a natural person would do, and that Charlie Kirk's murder happened because evil became very desperate.",
+      "claim": "The host says that because those behind the killing planned it perfectly, the phone call and walking away in the right direction is not what a natural person would do, and that she believes Charlie Kirk's murder happened because evil became very desperate.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10226",

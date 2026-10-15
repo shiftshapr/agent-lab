@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: efd9d1189c9e94d15188046d5b61410818dcf70df332d7e474fb3cf762180098
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-928, N-11352, N-11353, N-11354, N-11355
+  - Tip-minted Nodes (supplement_2026-10f): N-926, N-11352, N-11353, N-11354, N-11355
   - Tip-minted Nodes (reintro-ep099): N-11300, N-11304
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12896–C-12969
@@ -34,8 +34,8 @@
   - Artifact Families Introduced: A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, A-2055, A-2056, A-2057, A-2058, A-2059, A-2060, A-2061
   - Claim Range: C-2856–C-2883
   - New Nodes Introduced: N-10657, N-10658, N-10659
-  - Reused Nodes Appearing: N-381, N-10662, N-131, N-10661, N-380, N-379, N-436, N-5, N-15, N-22, N-31, N-40, N-46, N-162, N-230, N-257, N-265, N-270, N-274, N-492, N-715, N-901, N-10027, N-10110, N-10148, N-10169, N-10187, N-10198, N-10300, N-10305, N-10340, N-10342, N-10406, N-10415, N-10416, N-10456, N-10495, N-10651, N-10653, N-10900, N-10910, N-10914, N-11121, N-11221, N-11258, N-10660, N-10663, N-10722, N-11351
-  - Hole-minted Nodes (wave2): N-382
+  - Reused Nodes Appearing: N-379, N-10662, N-130, N-10661, N-378, N-377, N-434, N-5, N-15, N-22, N-31, N-40, N-46, N-161, N-228, N-255, N-263, N-268, N-272, N-490, N-713, N-899, N-10027, N-10110, N-10148, N-10169, N-10187, N-10198, N-10300, N-10305, N-10340, N-10342, N-10406, N-10415, N-10416, N-10456, N-10495, N-10651, N-10653, N-10900, N-10910, N-10914, N-11121, N-11221, N-11258, N-10660, N-10663, N-10722, N-11351
+  - Hole-minted Nodes (wave2): N-380
   - Tip-minted Nodes (wave2): N-10901
   - Existing Nodes Reused (referenced by name only): Charlie Kirk, Erika Kirk, Candace Owens, Tucker Carlson, Megyn Kelly, Andrew Kolvet, Mikey McCoy, Ben Shapiro, Bari Weiss, Nick Fuentes, Tyler Robinson, Donald Trump
 
@@ -75,7 +75,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:41
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2858, N-334 (Baron Coleman)*
+*Related: C-2858, N-332 (Baron Coleman)*
 
 ---
 
@@ -158,7 +158,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:31:21
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2868, C-2869, N-33 (Donald Trump Jr.), N-380*
+*Related: C-2868, C-2869, N-33 (Donald Trump Jr.), N-378*
 
 ---
 
@@ -171,7 +171,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:34:17
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2870, C-2871, N-85 (Pam Bondi), N-131*
+*Related: C-2870, C-2871, N-85 (Pam Bondi), N-130*
 
 ---
 
@@ -197,7 +197,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:36:54
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2875, N-85 (Pam Bondi), N-379*
+*Related: C-2861, C-2863, C-2866, C-2870, C-2872, C-2873, C-2875, N-85 (Pam Bondi), N-377*
 
 ---
 
@@ -223,7 +223,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:47:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2877, C-2878, N-490 (Blake Lively), N-491 (Justin Baldoni)*
+*Related: C-2877, C-2878, N-488 (Blake Lively), N-489 (Justin Baldoni)*
 
 ---
 
@@ -236,7 +236,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:48:28
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2879, N-490 (Blake Lively)*
+*Related: C-2879, N-488 (Blake Lively)*
 
 ---
 
@@ -249,7 +249,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:50:04
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2880, N-491 (Justin Baldoni), N-490 (Blake Lively)*
+*Related: C-2880, N-489 (Justin Baldoni), N-488 (Blake Lively)*
 
 **A-2058.2** Deadpool & Wolverine deleted scenes with continued Baldoni mockery (podcast-hosting character)
 
@@ -258,7 +258,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:50:30
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2881, N-491 (Justin Baldoni)*
+*Related: C-2881, N-489 (Justin Baldoni)*
 
 ---
 
@@ -271,7 +271,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:51:57
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: C-2882, N-491 (Justin Baldoni), N-490 (Blake Lively)*
+*Related: C-2882, N-489 (Justin Baldoni), N-488 (Blake Lively)*
 
 ---
 
@@ -310,7 +310,7 @@ Video Timestamp: 00:04:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12899, C-12900, N-1, N-14, N-274*
+*Related: C-12899, C-12900, N-1, N-14, N-272*
 
 ---
 
@@ -349,13 +349,13 @@ Video Timestamp: 00:50:04
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12943, N-491, N-10661*
+*Related: C-12943, N-489, N-10661*
 
 ---
 
 ## IV. Node Register
 
-**N-436** Brad Parscale
+**N-434** Brad Parscale
 
 First named by the host at 00:16:06 in episode 99.
 
@@ -363,7 +363,7 @@ First named by the host at 00:16:06 in episode 99.
 
 ### People (New)
 
-**N-379** Harmeet Dhillon
+**N-377** Harmeet Dhillon
 
 Node Type: Person
 
@@ -378,7 +378,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-380** Lara Trump
+**N-378** Lara Trump
 
 Node Type: Person
 
@@ -393,7 +393,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-131** Ian Carroll
+**N-130** Ian Carroll
 
 Node Type: Person
 
@@ -408,7 +408,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-381** Ryan Reynolds
+**N-379** Ryan Reynolds
 
 Node Type: Person
 
@@ -423,7 +423,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-382** Hugh Jackman
+**N-380** Hugh Jackman
 
 Node Type: Person
 
@@ -519,7 +519,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2056.1, A-2057.1, C-2877, C-2878, C-2879, N-490 (Blake Lively), N-491 (Justin Baldoni)*
+*Related: A-2056.1, A-2057.1, C-2877, C-2878, C-2879, N-488 (Blake Lively), N-489 (Justin Baldoni)*
 
 ---
 
@@ -557,7 +557,7 @@ Host; speaks for herself throughout.
 
 ---
 
-**N-334** Baron Coleman
+**N-332** Baron Coleman
 
 Baron Coleman; the host plays his audio clip and cites his Spotify rank.
 
@@ -597,7 +597,7 @@ Andrew Kolvet; the host cites his night-before text, his alleged stake in the Ki
 
 ---
 
-**N-274** Dan Flood
+**N-272** Dan Flood
 
 Dan Flood; recipient of Kirk's night-before text.
 
@@ -613,7 +613,7 @@ Existing topic reused for the night-before texts to Kolvet and Flood.
 
 ---
 
-**N-270** Brian Harpole
+**N-268** Brian Harpole
 
 Brian Harpole; the host hopes his lawsuit will show who Kirk meant by the night-before text.
 
@@ -718,7 +718,7 @@ Existing topic reused for the geofencing link.
 
 ---
 
-**N-715** John F. Kennedy
+**N-713** John F. Kennedy
 
 John F. Kennedy; the host's LBJ remark.
 
@@ -784,7 +784,7 @@ The host's account, from Kirk and a Kolvet family source, that Kirk and Andrew K
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Blake Neff; the host says he is paid at least in part by the Charlie Kirk Show.
 
@@ -880,7 +880,7 @@ Dhillon Law Group; organization reused.
 
 ---
 
-**N-490** Blake Lively
+**N-488** Blake Lively
 
 Blake Lively; party in the lawsuit the host discusses.
 
@@ -888,7 +888,7 @@ Blake Lively; party in the lawsuit the host discusses.
 
 ---
 
-**N-257** Courtney Love
+**N-255** Courtney Love
 
 Courtney Love; the host cites her claim of a Hollywood gang taking publishing rights.
 
@@ -904,7 +904,7 @@ Existing topic reused for the Hollywood gang claim.
 
 ---
 
-**N-230** Harvey Weinstein
+**N-228** Harvey Weinstein
 
 Harvey Weinstein; the host mentions his sale of his company.
 
@@ -912,7 +912,7 @@ Harvey Weinstein; the host mentions his sale of his company.
 
 ---
 
-**N-491** Justin Baldoni
+**N-489** Justin Baldoni
 
 Justin Baldoni; party in the lawsuit the host discusses.
 
@@ -920,7 +920,7 @@ Justin Baldoni; party in the lawsuit the host discusses.
 
 ---
 
-**N-901** Bryan Freedman
+**N-899** Bryan Freedman
 
 Bryan Freedman; Baldoni's lawyer who published his response on a website.
 
@@ -928,7 +928,7 @@ Bryan Freedman; Baldoni's lawyer who published his response on a website.
 
 ---
 
-**N-928** Judge Liman
+**N-926** Judge Liman
 
 First named by the host at 00:48:28 in episode 99 (spelled Lyman and Leeman in the transcript). Judge who dismissed 10 of 13 Lively claims; described in the Community Notes text the host reads.
 
@@ -936,7 +936,7 @@ First named by the host at 00:48:28 in episode 99 (spelled Lyman and Leeman in t
 
 ---
 
-**N-492** Taylor Swift
+**N-490** Taylor Swift
 
 Taylor Swift; the host says Lively lost her friendship.
 
@@ -976,7 +976,7 @@ Existing topic reused for Justin Streiff's post-assassination phone call.
 
 ---
 
-**N-265** Terrell Farnsworth
+**N-263** Terrell Farnsworth
 
 Terrell Farnsworth; the host credits him, as 'Terrell Farnsworth', with exposing the no-neck story.
 
@@ -984,7 +984,7 @@ Terrell Farnsworth; the host credits him, as 'Terrell Farnsworth', with exposing
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Mikey McCoy; the host says he was a mess at the hospital and that TPUSA's flew-into-action story is false.
 
@@ -1071,7 +1071,7 @@ Claim Timestamp: 00:06:41
 Claim: In an audio clip played on the episode, Baron Coleman stated that those co-opting Christian language do not answer to a human and that the events around Charlie Kirk's death constitute a "spiritual war" with demonic authorship.
 
 Anchored Artifacts: A-2046.1
-Mentions: N-334, N-1
+Mentions: N-332, N-1
 
 Related Nodes:
 
@@ -1158,7 +1158,7 @@ Claim Timestamp: 00:16:57
 Claim: According to the FARA filing and the host, Clock Tower X LLC is run by Brad Parscale.
 
 Anchored Artifacts: A-2049.1
-Mentions: N-436
+Mentions: N-434
 
 Related Nodes: N-10657
 
@@ -1187,7 +1187,7 @@ Claim Timestamp: 00:16:57
 Claim: The host says Brad Parscale became Chief Strategy Officer of Salem Media Network in January 2025, placing him simultaneously at Clock Tower X and Salem.
 
 Anchored Artifacts: A-2049.1, A-2054.1
-Mentions: N-436
+Mentions: N-434
 
 Related Nodes: N-10657
 
@@ -1217,7 +1217,7 @@ Claim Timestamp: 00:31:21
 Claim: Per a Salem announcement article the host reads, in April 2025 Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in M-News and long-term strategic services agreements.
 
 Anchored Artifacts: A-2051.1
-Mentions: N-33, N-380
+Mentions: N-33, N-378
 
 Related Nodes: N-10657
 
@@ -1247,7 +1247,7 @@ Claim Timestamp: 00:34:17
 Claim: The host says Pam Bondi, on her first day as Attorney General, signed an order disbanding the DOJ Foreign Influence Task Force; in a clip she plays, Ian Carroll reads the order and says the same.
 
 Anchored Artifacts: A-2052.1, A-2053.1, A-2054.1
-Mentions: N-85, N-131
+Mentions: N-85, N-130
 
 Related Nodes: N-10659, N-10662
 
@@ -1277,7 +1277,7 @@ Claim Timestamp: 00:36:54
 Claim: Per a timeline the host shows, Harmeet Dhillon was sworn in on April 7, 2025 as Assistant Attorney General for Civil Rights at the U.S. Department of Justice.
 
 Anchored Artifacts: A-2054.1
-Mentions: N-379
+Mentions: N-377
 
 Related Nodes: N-10662
 
@@ -1349,7 +1349,7 @@ Claim Timestamp: 00:47:29
 Claim: On April 2, a judge dismissed 10 of 13 claims Blake Lively had asserted against Justin Baldoni, leaving only breach of contract, retaliation, and aiding-and-abetting retaliation.
 
 Anchored Artifacts: A-2056.1
-Mentions: N-490, N-491
+Mentions: N-488, N-489
 
 Related Nodes: N-10661
 
@@ -1364,7 +1364,7 @@ Claim Timestamp: 00:47:29
 Claim: Per a statement from Blake Lively that the host reads, issued after the April 2 ruling, the ruling "allows the heart of my case to be presented to a jury next month."
 
 Anchored Artifacts: A-2056.1
-Mentions: N-490
+Mentions: N-488
 
 Related Nodes: N-10661
 
@@ -1379,7 +1379,7 @@ Claim Timestamp: 00:48:28
 Claim: The host says Community Notes appended to Blake Lively's statement said she is "misleading the public and lying by omission with this truncated cherry-picked snippets."
 
 Anchored Artifacts: A-2057.1
-Mentions: N-490
+Mentions: N-488
 
 Related Nodes: N-10661
 
@@ -1394,7 +1394,7 @@ Claim Timestamp: 00:50:04
 Claim: The host says Deadpool & Wolverine included a "Nice Pool" character and scene mocking Justin Baldoni, with Blake Lively playing "Mrs. Pool"; she plays a clip.
 
 Anchored Artifacts: A-2058.1
-Mentions: N-490, N-491, N-381, N-382
+Mentions: N-488, N-489, N-379, N-380
 
 Related Nodes:
 
@@ -1409,7 +1409,7 @@ Claim Timestamp: 00:50:30
 Claim: The host says deleted scenes from Deadpool & Wolverine contained additional content mocking Justin Baldoni, including a "podcast that monetizes the women's movement" line.
 
 Anchored Artifacts: A-2058.2
-Mentions: N-491
+Mentions: N-489
 
 Related Nodes:
 
@@ -1424,7 +1424,7 @@ Claim Timestamp: 00:51:57
 Claim: The host says the footage she shows shows that, at the It Ends With Us premiere, Justin Baldoni was seated in the basement of the theater while A-list attendees were upstairs.
 
 Anchored Artifacts: A-2059.1
-Mentions: N-490, N-491, N-382
+Mentions: N-488, N-489, N-380
 
 Related Nodes:
 
@@ -1439,7 +1439,7 @@ Claim Timestamp: 00:57:03
 Claim: According to the host, Mikey McCoy sent her a message pointing to Andrew Kolvet as a subject of investigation.
 
 Anchored Artifacts: A-2061.1
-Mentions: N-14, N-194
+Mentions: N-14, N-192
 
 Related Nodes: N-10663
 
@@ -1456,7 +1456,7 @@ Claim: The host says she is hearing that Baron Coleman is number 33 on a Spotify
 Transcript Snippet: I'm also hearing that Baron Coleman is number 33 on a Spotify chart.
 
 Anchored Artifacts: 
-Mentions: N-3, N-334
+Mentions: N-3, N-332
 Tags: relevance:tangential
 Investigative Direction: Check the Spotify podcast chart for the date of the episode (2026-05-05) to confirm Coleman's rank.
 
@@ -1503,7 +1503,7 @@ Claim: The host says that the night before his death Charlie Kirk texted Andrew 
 Transcript Snippet: He texted Andrew Kolvet, he texted Dan Flood, and he said, "They are going to kill me."
 
 Anchored Artifacts: A-3232.1
-Mentions: N-1, N-14, N-274, N-3
+Mentions: N-1, N-14, N-272, N-3
 Related Nodes: N-10340
 Supports: C-11109
 Tags: relevance:core
@@ -1520,7 +1520,7 @@ Claim: The host says TPUSA wants the public to believe that Kirk's 'they are goi
 Transcript Snippet: they want us to believe that he meant a trans person. Okay. We'll see. Hopefully we'll be able to see in this lawsuit with Brian Harpole if he meant a trans person.
 
 Anchored Artifacts: A-3232.1
-Mentions: N-270, N-1, N-3
+Mentions: N-268, N-1, N-3
 Related Nodes: N-10340, N-10651, N-11258
 Tags: relevance:core
 Investigative Direction: Review TPUSA's public explanation of the text and the Harpole case docket for any production of the thread.
@@ -1536,7 +1536,7 @@ Claim: In the Baron Coleman audio clip, Coleman says he believes Charlie Kirk re
 Transcript Snippet: He recognized the side he had been supporting was demonic and dark and evil and he was trying to distance himself from it and they killed him.
 
 Anchored Artifacts: A-2046.1
-Mentions: N-334, N-1
+Mentions: N-332, N-1
 Related Nodes: N-10148
 Tags: relevance:context
 Investigative Direction: Compare with Kirk's own written statements about leaving the pro-Israel cause; Coleman did not know Kirk and states a belief, not evidence.
@@ -1552,7 +1552,7 @@ Claim: In the Coleman audio clip, Coleman says the 'why' behind Kirk's killing i
 Transcript Snippet: Charlie was turning his back on the prince of darkness. And he was removed for it. He was killed. By supporters of the prince of darkness, by the people doing his bidding.
 
 Anchored Artifacts: A-2046.1
-Mentions: N-334, N-1
+Mentions: N-332, N-1
 Tags: relevance:tangential
 Investigative Direction: None available beyond Coleman's stated belief; record as the clip's claim only.
 
@@ -1646,7 +1646,7 @@ Claim: The host says that after presidents who pressed Israel on FARA registrati
 Transcript Snippet: LBJ assumed office and reversed course on every policy that JFK was pursuing against Israel.
 
 Anchored Artifacts: 
-Mentions: N-715, N-3
+Mentions: N-713, N-3
 Tags: relevance:tangential
 Investigative Direction: Historical question outside the case; compare with standard histories of the Kennedy and Johnson administrations and the 1963 FARA dispute over the American Zionist Council.
 
@@ -1661,7 +1661,7 @@ Claim: The host says she first met Brad Parscale over lunch with Charlie Kirk at
 Transcript Snippet: I actually met him for the first time with Charlie, over lunch.
 
 Anchored Artifacts: 
-Mentions: N-436, N-1, N-3
+Mentions: N-434, N-1, N-3
 Related Nodes: N-10722
 Tags: relevance:context
 Investigative Direction: No document needed; host recollection of a private lunch.
@@ -1889,7 +1889,7 @@ Claim: The host says that Blake Neff and Andrew Kolvet do not technically work f
 Transcript Snippet: Blake Neff, Andrew Kolvet, they are paid, at least in part, by the Charlie Kirk show.
 
 Anchored Artifacts: 
-Mentions: N-162, N-14, N-3
+Mentions: N-161, N-14, N-3
 Related Nodes: N-11300, N-11353
 Tags: relevance:core
 Investigative Direction: Find Neff's statement about who pays him and payroll or contractor records for the show.
@@ -1985,7 +1985,7 @@ Claim: In the Ian Carroll segment the host plays, Carroll says the Foreign Influ
 Transcript Snippet: ensuring that the Knesset's 2018 plan to skirt FARA could proceed with min- minimal risk of prosecution.
 
 Anchored Artifacts: A-2052.1
-Mentions: N-131
+Mentions: N-130
 Related Nodes: N-10659
 Tags: relevance:context
 Investigative Direction: Identify the Knesset 2018 plan Carroll refers to (and any published source) and compare with FARA enforcement data after February 2025.
@@ -2099,7 +2099,7 @@ Claim: The host says that in the Lively case a PR crisis firm was brought in tha
 Transcript Snippet: she even brought in a PR crisis firm that had a former CIA agent then like left the CIA and opened a PR crisis firm.
 
 Anchored Artifacts: 
-Mentions: N-490, N-3
+Mentions: N-488, N-3
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Identify which firm and which person the host means (the sentence is ambiguous about who hired the firm) and check public court filings and press reports.
@@ -2115,7 +2115,7 @@ Claim: The host says she subscribes to what Courtney Love told her, that there i
 Transcript Snippet: what Courtney Love told me that there is like a gang operating in Hollywood and they just take publishing rights.
 
 Anchored Artifacts: 
-Mentions: N-257, N-3
+Mentions: N-255, N-3
 Related Nodes: N-11121
 Tags: relevance:tangential
 Investigative Direction: Compare with Love's public statements and the host's earlier episode with her.
@@ -2131,7 +2131,7 @@ Claim: The host says she covered the Harvey Weinstein case, that it could have h
 Transcript Snippet: I think could have had something to do with publishing rights, for sure. He had to end up selling his entire company.
 
 Anchored Artifacts: 
-Mentions: N-230, N-3
+Mentions: N-228, N-3
 Related Nodes: N-11121
 Tags: relevance:tangential
 Investigative Direction: Check the 2018 sale of the Weinstein Company and the host's earlier coverage; the publishing-rights motive is the host's inference.
@@ -2147,7 +2147,7 @@ Claim: The host says Blake Lively's initial filing was a civil-rights, employee-
 Transcript Snippet: this like civil rights employee type filing that she initially did in California.
 
 Anchored Artifacts: 
-Mentions: N-490, N-491, N-3
+Mentions: N-488, N-489, N-3
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Obtain the California Civil Rights Department complaint and its filing date.
@@ -2163,7 +2163,7 @@ Claim: The host says Bryan Freedman, Justin Baldoni's lawyer, filed his response
 Transcript Snippet: Bryan Freedman, the lawyer did the greatest thing you could possibly do when he filed his response, he created an entire website and allowed us to read it
 
 Anchored Artifacts: 
-Mentions: N-901, N-491, N-3
+Mentions: N-899, N-489, N-3
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Locate Freedman's response filing and the associated website.
@@ -2179,7 +2179,7 @@ Claim: The Community Notes text the host reads says Judge Liman did not state th
 Transcript Snippet: Although Judge Liman did not state Miss Lively was an independent independent contractor and uh therefore she's not entitled under Title VII to bring claims.
 
 Anchored Artifacts: A-2057.1
-Mentions: N-490, N-928
+Mentions: N-488, N-926
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Read Judge Liman's April 2 opinion on the Title VII and independent-contractor questions.
@@ -2195,7 +2195,7 @@ Claim: The Community Notes text the host reads says the judge stated the conduct
 Transcript Snippet: he continues to state that the conduct was not so far beyond what might reasonably be expected to take place between two characters.
 
 Anchored Artifacts: A-2057.1
-Mentions: N-490, N-928
+Mentions: N-488, N-926
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Read the relevant passage of the April 2 order and compare it with the note's paraphrase.
@@ -2211,7 +2211,7 @@ Claim: The host says the featured artwork for the book created to go with the De
 Transcript Snippet: Even in the featured artwork for the book that they created to go along with the movie, they included this passive-aggressive passage and a description regarding nice pool.
 
 Anchored Artifacts: A-3235.1
-Mentions: N-491
+Mentions: N-489
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Obtain the artwork and the passage text from the film's tie-in book.
@@ -2227,7 +2227,7 @@ Claim: The host says Ryan Reynolds joined the It Ends With Us promotion that was
 Transcript Snippet: Ryan then jumped into Blake Lively and Justin Baldoni's movie uh appearing to do a movie promo of It Ends With Us, but it wasn't actually a movie promo.
 
 Anchored Artifacts: 
-Mentions: N-381, N-382, N-491, N-490
+Mentions: N-379, N-380, N-489, N-488
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Find the promotional video and review its content.
@@ -2243,7 +2243,7 @@ Claim: The host says that at the It Ends With Us premiere Blake Lively was sayin
 Transcript Snippet: Blake Lively at that moment was saying she couldn't even be in the same room as him.
 
 Anchored Artifacts: A-2059.1
-Mentions: N-490, N-491
+Mentions: N-488, N-489
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Check premiere reporting and the lawsuit record for seating arrangements and who requested separation.
@@ -2259,7 +2259,7 @@ Claim: The host says she thinks Justin Baldoni did end up in the hospital from a
 Transcript Snippet: I think he did it he did actually end up in the hospital from all the stress of it.
 
 Anchored Artifacts: 
-Mentions: N-491
+Mentions: N-489
 Related Nodes: N-10661
 Supports: C-11146
 Tags: relevance:tangential
@@ -2276,7 +2276,7 @@ Claim: The host says the Lively and Baldoni dispute was settled just two weeks b
 Transcript Snippet: Just two weeks before the scheduled trial dates, they legal dispute.
 
 Anchored Artifacts: 
-Mentions: N-490, N-491, N-492
+Mentions: N-488, N-489, N-490
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Check the docket for the settlement notice date against the scheduled trial date.
@@ -2390,7 +2390,7 @@ Claim: The host says nobody would have known the no-neck account was false had i
 Transcript Snippet: nobody would have known any different had it not been for for Terrell Farnsworth.
 
 Anchored Artifacts: 
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: N-10660
 Tags: relevance:core
 Investigative Direction: Review Farnsworth's statements and camera footage disclosures; the host does not say which lie she means.
@@ -2406,7 +2406,7 @@ Claim: The host says TPUSA never said Mikey McCoy's name without an adjective, s
 Transcript Snippet: Mikey was amazing. Erika said that in her first speech.
 
 Anchored Artifacts: 
-Mentions: N-194, N-2, N-3
+Mentions: N-192, N-2, N-3
 Related Nodes: N-10663
 Tags: relevance:context
 Investigative Direction: Find the transcript of Erika Kirk's first public speech and the exact words about McCoy.
@@ -2422,7 +2422,7 @@ Claim: The host says TPUSA lied when it said Mikey McCoy flew into action and di
 Transcript Snippet: They lied when they said Mikey flew into action and did all That's not true.
 
 Anchored Artifacts: 
-Mentions: N-194, N-3
+Mentions: N-192, N-3
 Related Nodes: N-10198, N-10663
 Contradicts: C-9554
 Tags: relevance:core
@@ -2439,7 +2439,7 @@ Claim: The host says that according to her sources Mikey McCoy was an absolute m
 Transcript Snippet: According to my sources, Mikey was a mess at the hospital.
 
 Anchored Artifacts: 
-Mentions: N-194, N-3
+Mentions: N-192, N-3
 Related Nodes: N-10198, N-10663
 Tags: relevance:core
 Investigative Direction: Identify hospital witnesses and compare with other accounts of McCoy's condition.
@@ -2455,7 +2455,7 @@ Claim: The host says Justin Streiff told her to her face that he was the one who
 Transcript Snippet: Justin Streiff told me to my face, he was the one that organized all the planes.
 
 Anchored Artifacts: 
-Mentions: N-15, N-194, N-3
+Mentions: N-15, N-192, N-3
 Supports: C-11330
 Tags: relevance:core
 Investigative Direction: Obtain flight manifests and booking records for the planes used on September 10, 2025 and ask Streiff.
@@ -2471,7 +2471,7 @@ Claim: The host says she has it on good notice that Mikey McCoy is talking about
 Transcript Snippet: I have, you know, it on good notice that you're talking about real estate deals and they're telling you money, money, money, money, money.
 
 Anchored Artifacts: 
-Mentions: N-194, N-3
+Mentions: N-192, N-3
 Related Nodes: N-10663
 Tags: relevance:core
 Investigative Direction: Identify the source; check property transactions involving McCoy.
@@ -2657,7 +2657,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:08:20
-Speaker: N-334
+Speaker: N-332
 Quote: This is a spiritual war.
 Context: In the clip the host plays, Coleman frames Kirk's death as a casualty of a spiritual war.
 Tags: spiritual war, Coleman clip
@@ -2747,7 +2747,7 @@ A-2045, A-2046, A-2047, A-2048, A-2049, A-2050, A-2051, A-2052, A-2053, A-2054, 
 
 Claim Range: C-2856–C-2883
 
-New Nodes Introduced (People): N-379, N-380, N-131, N-381, N-382
+New Nodes Introduced (People): N-377, N-378, N-130, N-379, N-380
 
 New Nodes Introduced (Investigation Targets): N-10657, N-10658, N-10659, N-10660, N-10661, N-10662, N-10663
 

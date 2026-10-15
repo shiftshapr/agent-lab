@@ -21,7 +21,7 @@
   - Claim Range (supplement_2026-10g): C-13659–C-13730
   - Artifact Families Introduced: A-1155, A-1156, A-1157, A-1158, A-1159, A-1160, A-1161, A-2519
   - Claim Range: C-1267-C-1285, C-3728-C-3730
-  - New Nodes Introduced: N-105, N-106, N-107, N-108, N-109, N-110, N-111, N-112, N-113, N-114, N-115, N-10111, N-10112, N-10113, N-10114, N-10115, N-10116, N-10117, N-10118, N-10120, N-10121, N-10122, N-10123, N-10125, N-10126, N-10127, N-10128
+  - New Nodes Introduced: N-104, N-105, N-106, N-107, N-108, N-109, N-110, N-111, N-112, N-113, N-114, N-10111, N-10112, N-10113, N-10114, N-10115, N-10116, N-10117, N-10118, N-10120, N-10121, N-10122, N-10123, N-10125, N-10126, N-10127, N-10128
   - Reused Nodes Appearing: N-1, N-2, N-3, N-40, N-46, N-5, N-50, N-68, N-30, N-87, N-97, N-10012, N-10014, N-10001, N-10110, N-10109, N-10124, N-37, N-10000, N-10021, N-10022, N-10065, N-10106, N-10119
 
 ## 2. Executive Summary
@@ -40,7 +40,7 @@ Confidence: high
 
 **A-1155.2** Texts to sister/husband Aug 30–Sep 2 re: 'imminent danger', 'communist underground' at schools, bees as code
 Video Timestamp: 00:13:36–00:14:46
-*Related: C-1269, N-3, N-30, N-114, N-10113*
+*Related: C-1269, N-3, N-30, N-113, N-10113*
 Transcript Snippet: I sense like imminent danger is coming and for some reason I feel like there is an underground…related to bees.
 Confidence: high
 
@@ -50,25 +50,25 @@ Confidence: high
 
 **A-1156.1** 80-page scraped online-history document (referenced; partial on-screen)
 Video Timestamp: 00:22:24–00:26:26
-*Related: C-1270, N-105, N-10120, N-10111*
+*Related: C-1270, N-104, N-10120, N-10111*
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Confidence: medium
 
 **A-1156.2** Video of Crooks practicing firing weapon in bedroom (no bullets, blurred)
 Video Timestamp: 00:22:45–00:23:18
-*Related: C-1271, N-105*
+*Related: C-1271, N-104*
 Transcript Snippet: Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.
 Confidence: high
 
 **A-1156.3** YouTube comments by Crooks: violent rhetoric about socialists, Democrats
 Video Timestamp: 00:23:37–00:24:29
-*Related: C-1272, N-105, N-10120*
+*Related: C-1272, N-104, N-10120*
 Transcript Snippet: Lining up a bunch of socialist Jews…blasting their useless brains out with an AR.
 Confidence: high
 
 **A-1156.4** Crooks Google search history: mass shooting research, molotov cocktails, fertilizer bomb
 Video Timestamp: 00:24:53–00:25:45
-*Related: C-1273, N-105, N-10111*
+*Related: C-1273, N-104, N-10111*
 Transcript Snippet: he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam
 Confidence: high
 
@@ -88,7 +88,7 @@ Confidence: high
 
 **A-1158.1** Jimmy Kimmel monologue thanking right-wing free-speech defenders including Candace Owens
 Video Timestamp: 00:31:04–00:32:56
-*Related: C-1275, N-3, N-87, N-107, N-97, N-108, N-109, N-110, N-10119*
+*Related: C-1275, N-3, N-87, N-106, N-97, N-107, N-108, N-109, N-10119*
 Transcript Snippet: People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…
 Confidence: high
 
@@ -118,7 +118,7 @@ Confidence: high
 
 **A-1161.1** Natalie comment read on-air: neighbor's daughter has Tyler Robinson video showing a woman with him
 Video Timestamp: 00:43:41–00:44:23
-*Related: C-1278, N-40, N-115, N-10110*
+*Related: C-1278, N-40, N-114, N-10110*
 Transcript Snippet: It also shows him changing clothes and he is not alone. There is a woman with him.
 Confidence: low
 
@@ -128,13 +128,13 @@ Confidence: low
 
 **A-2519.1** Host reference to Corey Comperatore's death at the Butler rally (verbal reference; no displayed artifact)
 Video Timestamp: 00:20:33–00:20:55
-*Related: C-3728, N-5, N-106*
+*Related: C-3728, N-5, N-105*
 Transcript Snippet: A 50-year-old firefighter named Corey Comperatore lost his life um trying to save his children.
 Confidence: medium
 
 **A-2519.2** Host reference to C.S. Lewis on scientism (verbal reference; no displayed artifact)
 Video Timestamp: 00:37:04–00:37:13
-*Related: C-3729, N-113*
+*Related: C-3729, N-112*
 Transcript Snippet: Like we are now in this culture of what CS Lewis refers to as scientism.
 Confidence: medium
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:43:54
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13726, N-3, N-115*
+*Related: C-13726, N-3, N-114*
 
 ---
 
@@ -262,7 +262,7 @@ Host; presenter of investigative claims.
 
 ---
 
-**N-105** Thomas Matthew Crooks
+**N-104** Thomas Matthew Crooks
 
 Node Type: Person
 July 13, 2024 Trump-rally rooftop shooter; subject of scraped online-history doc.
@@ -300,7 +300,7 @@ Target of July 13, 2024 Crooks attempt; referenced re Iran narrative.
 
 ---
 
-**N-106** Corey Comperatore
+**N-105** Corey Comperatore
 
 Node Type: Person
 Firefighter killed shielding family at July 13, 2024 Trump rally.
@@ -329,7 +329,7 @@ Late-night host; monologue thanking right-wing free-speech defenders.
 
 ---
 
-**N-107** Ted Cruz
+**N-106** Ted Cruz
 
 Node Type: Person
 Cited by Kimmel for free-speech defense.
@@ -347,7 +347,7 @@ Cited by Kimmel.
 
 ---
 
-**N-108** Clay Travis
+**N-107** Clay Travis
 
 Node Type: Person
 Cited by Kimmel.
@@ -356,7 +356,7 @@ Cited by Kimmel.
 
 ---
 
-**N-109** Mitch McConnell
+**N-108** Mitch McConnell
 
 Node Type: Person
 Cited by Kimmel.
@@ -365,7 +365,7 @@ Cited by Kimmel.
 
 ---
 
-**N-110** Rand Paul
+**N-109** Rand Paul
 
 Node Type: Person
 Cited by Kimmel.
@@ -374,7 +374,7 @@ Cited by Kimmel.
 
 ---
 
-**N-111** Thomas Sowell
+**N-110** Thomas Sowell
 
 Node Type: Person
 Author of 'Inside the American Education System' recommended by host.
@@ -385,7 +385,7 @@ Author of 'Inside the American Education System' recommended by host.
 
 ---
 
-**N-112** Margarethe Schurz
+**N-111** Margarethe Schurz
 
 Node Type: Person
 Credited by host with establishing kindergarten in US (1848 communists).
@@ -407,7 +407,7 @@ Referenced in book-club discussion of psychoanalytic community origins.
 
 ---
 
-**N-113** C.S. Lewis
+**N-112** C.S. Lewis
 
 Node Type: Person
 Referenced for concept of 'scientism'.
@@ -427,7 +427,7 @@ Unnamed spouse; met via UK trip 18 days before engagement.
 
 ---
 
-**N-114** Candace Owens' Sister
+**N-113** Candace Owens' Sister
 
 Node Type: Person
 First in family to homeschool; recipient of bee-warning text.
@@ -447,7 +447,7 @@ Producer who corrects promo code on-air (Blackout15).
 
 ---
 
-**N-115** Natalie
+**N-114** Natalie
 
 Node Type: Person
 Listener who tipped unverified video of Tyler Robinson with a woman.
@@ -774,7 +774,7 @@ Claim Timestamp: 00:10:23
 Claim: Candace and Charlie exchanged text messages about booking UK flights ($450 coach, $1,200 first class).
 Transcript Snippet: Reme $450 in coach or 1,200 in first class.
 Anchored Artifacts: A-1155.1
-Mentions: N-1, N-3, N-30, N-68
+Mentions: N-1, N-3
 Confidence: high
 Investigative Direction: Verify text chain authenticity and timestamp; cross-check flight records.
 
@@ -799,7 +799,7 @@ Claim Timestamp: 00:14:15
 Claim: Candace exchanged text messages Aug 30–Sep 2 with her husband and sister describing 'imminent danger' and a 'communist underground' at schools using 'bees' as coded language.
 Transcript Snippet: Imminent danger is coming…communist underground…has something to do with bees.
 Anchored Artifacts: A-1155.2
-Mentions: N-3, N-30, N-114
+Mentions: N-3, N-30, N-113
 Related Nodes: N-10113
 Confidence: high
 Investigative Direction: Verify timestamps against phone records; preserve screenshots for chain-of-custody.
@@ -809,10 +809,10 @@ Investigative Direction: Verify timestamps against phone records; preserve scree
 **C-1285** Host asserts MK Ultra program never discontinued
 
 Claim Timestamp: 00:26:59
-Claim: Host argues the historical MK Ultra program was never discontinued and that federal 'lone shooter' narratives resemble 1960s-era manipulation, feeding school-age candidates into violence plots.
+Claim: The host says she suspects the lone-shooter cases are a program giving her the same 'ick' as MK Ultra, that she has no reason to believe that program was ever discontinued, and that she believes they find these candidates in schools.
 Transcript Snippet: …learning the reality of what happened throughout the 1960s when MK Ultra when that program was running. And I have no reason to believe that that program was ever discontinued.
 Anchored Artifacts: 
-Mentions: N-105
+Mentions: 
 Related Nodes: N-10001, N-10112, N-10116
 Confidence: low
 Investigative Direction: Treat as host hypothesis; separate documented MK Ultra history from contemporaneous Kirk/Crooks case evidence.
@@ -826,7 +826,7 @@ Claim Timestamp: 00:22:24
 Claim: Host possesses an 80-page document containing scraped Crooks online accounts, statements, and activity predating July 13, 2024.
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Anchored Artifacts: A-1156.1
-Mentions: N-105
+Mentions: N-104
 Related Nodes: N-10001, N-10111, N-10116, N-10120
 Confidence: medium
 Investigative Direction: Obtain full document; forensically authenticate scrape and timestamps.
@@ -839,7 +839,7 @@ Claim Timestamp: 00:22:45
 Claim: Thomas Matthew Crooks posted multiple videos of himself practicing firing a weapon in his bedroom.
 Transcript Snippet: Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.
 Anchored Artifacts: A-1156.2
-Mentions: N-105
+Mentions: N-104
 Confidence: high
 Investigative Direction: Confirm via original-platform uploads and metadata.
 
@@ -852,7 +852,7 @@ Claim Timestamp: 00:23:37
 Claim: Crooks posted YouTube comments calling for violence against 'socialist Jews' and for Democrats to be beheaded.
 Transcript Snippet: Blasting their useless brains out with an AR…heads chopped off and put on stakes.
 Anchored Artifacts: A-1156.3
-Mentions: N-105
+Mentions: N-104
 Related Nodes: N-10120
 Confidence: high
 Investigative Direction: Recover original YouTube comments and timestamps via scrape or platform archives.
@@ -865,7 +865,7 @@ Claim Timestamp: 00:24:53
 Claim: Per a search-history document the host shows, Crooks' Google search history included 'best places for a mass shooting', molotov cocktails, fertilizer bombs, and prior shooting references.
 Transcript Snippet: he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam
 Anchored Artifacts: A-1156.4
-Mentions: N-105
+Mentions: N-104
 Related Nodes: N-10111
 Confidence: medium
 Investigative Direction: Obtain original search-history logs or corroborating scrape; verify timeline.
@@ -891,7 +891,7 @@ Claim Timestamp: 00:31:04
 Claim: Jimmy Kimmel's monologue thanked conservatives including Candace Owens, Ted Cruz, Ben Shapiro, Rand Paul, Mitch McConnell, and Clay Travis for defending free speech.
 Transcript Snippet: People who I never would have imagined like Ben Shapiro, Clay Travis, Candace Owens…
 Anchored Artifacts: A-1158.1
-Mentions: N-3, N-87, N-97, N-107, N-108, N-109, N-110
+Mentions: N-3, N-87, N-97, N-106, N-107, N-108, N-109
 Related Nodes: N-10119
 Confidence: high
 Investigative Direction: Verify exact quote against full Kimmel monologue transcript.
@@ -917,7 +917,7 @@ Claim Timestamp: 00:15:00
 Claim: At a Sept 9 book club meeting, Candace publicly described her decision to homeschool and remove her children from school.
 Transcript Snippet: I'm homeschooling my kids. I'm so excited.
 Anchored Artifacts: A-1160.1
-Mentions: N-3, N-111, N-112
+Mentions: N-3
 Related Nodes: N-10113, N-10115, N-10127, N-10128
 Confidence: high
 Investigative Direction: Verify date and obtain full recording.
@@ -930,7 +930,7 @@ Claim Timestamp: 00:43:41
 Claim: Listener Natalie reported that a video of Tyler Robinson walking in a neighborhood also shows him changing clothes and accompanied by a woman.
 Transcript Snippet: It also shows him changing clothes and he is not alone. There is a woman with him.
 Anchored Artifacts: A-1161.1
-Mentions: N-40, N-115
+Mentions: N-40, N-114
 Related Nodes: N-10110
 Confidence: low
 Investigative Direction: Obtain original video from Natalie; verify identity of woman and chain of custody.
@@ -953,7 +953,7 @@ Investigative Direction: Identify and corroborate the source; FOIA communication
 
 **C-1280** No video shows Tyler Robinson firing weapon
 
-Claim Timestamp: 00:03:40
+Claim Timestamp: 00:03:01
 Claim: Host asserts there is no video of Tyler Robinson firing the weapon or taking aim at Charlie Kirk.
 Transcript Snippet: There is absolutely no video which shows Tyler Robinson firing the weapon.
 Anchored Artifacts: 
@@ -966,7 +966,7 @@ Investigative Direction: Confirm via court filings, prosecution discovery, and p
 
 **C-1281** Bullet too fragmented to match Tyler's rifle
 
-Claim Timestamp: 00:06:11
+Claim Timestamp: 00:05:30
 Claim: Host's source says the bullet was too fragmented to match Tyler Robinson's rifle.
 Transcript Snippet: The bullet…was too fragmented to match Tyler's rifle.
 Anchored Artifacts: 
@@ -979,7 +979,7 @@ Investigative Direction: Obtain forensic ballistics report from court filings.
 
 **C-1282** FBI lacks footage of rifle reaching the roof
 
-Claim Timestamp: 00:05:13
+Claim Timestamp: 00:04:40
 Claim: Host's source says the FBI does not have footage showing how the rifle was placed on the UVU roof.
 Transcript Snippet: The feds don't even have any footage that explains how exactly the rifle…got onto the roof.
 Anchored Artifacts: 
@@ -1022,7 +1022,7 @@ Claim Timestamp: 00:20:44
 Claim: Recounting the July 2024 Butler rally shooting, the host says firefighter Corey Comperatore (transcript: "Corey Comperatore") lost his life trying to save his children and that the public was told virtually nothing afterward.
 Transcript Snippet: A 50-year-old firefighter named Corey Comperatore lost his life um trying to save his children.
 Anchored Artifacts: A-2519.1
-Mentions: N-5, N-106
+Mentions: N-5, N-105
 Confidence: medium
 Investigative Direction: Compare official Butler investigation disclosures with the host's characterization.
 
@@ -1034,7 +1034,7 @@ Claim Timestamp: 00:37:04
 Claim: The host says the culture is in what C.S. Lewis called scientism, where anything labeled science is not questioned, and argues spiritual forces are at work.
 Transcript Snippet: Like we are now in this culture of what CS Lewis refers to as scientism.
 Anchored Artifacts: A-2519.2
-Mentions: N-113
+Mentions: N-112
 Confidence: medium
 Investigative Direction: None; rhetorical framing.
 
@@ -1072,7 +1072,7 @@ Investigative Direction: Compare against the host's dated text messages (A-1155.
 
 Claim Timestamp: 00:02:39
 
-Claim: The host says her source reports the FBI is telling Utah authorities that if the case is not closed as a lone gunman it might mess up the prosecution of Tyler Robinson, and she calls that moral blackmail.
+Claim: The host says her source reports the FBI is essentially telling Utah authorities that if the case is not closed as a lone gunman it might mess up the prosecution of Tyler Robinson, and says that feels a little bit to her like moral blackmail.
 
 Transcript Snippet: then it might mess up our prosecution against Tyler Robinson. That feels a little bit to me like moral blackmail.
 
@@ -1171,7 +1171,7 @@ Investigative Direction: Obtain the reward announcement, the sheriff's and Gover
 
 Claim Timestamp: 00:06:40
 
-Claim: The host says she believes the feds know exactly what happened and that it is not a stretch, given history, to assume they may even have had foreign knowledge beforehand.
+Claim: The host says she believes the feds know exactly what happened and that she does not think it is a stretch of imagination, when examining history, to assume they maybe even had some 'foreign knowledge' (as transcribed).
 
 Transcript Snippet: And I believe the feds know exactly what happened. In fact, I don't think it's a stretch of imagination when we examine history to assume that they maybe even had some foreign knowledge.
 
@@ -1499,7 +1499,7 @@ Claim: The host recommends a book by Thomas Sowell (transcribed as Thomas Sowell
 Transcript Snippet: I tell people a must-read book is inside the American education system by Thomas Sowell.
 
 Anchored Artifacts: 
-Mentions: N-3, N-111
+Mentions: N-3, N-110
 Related Nodes: N-10115
 Supports: C-1277
 Tags: relevance:tangential
@@ -1511,12 +1511,12 @@ Investigative Direction: Confirm the title and author (Inside American Education
 
 Claim Timestamp: 00:18:51
 
-Claim: The host says kindergarten was established by communists who tried to overthrow Germany and failed in 1848, and that Margarethe Schurz's family brought it here.
+Claim: The host says kindergarten was established by communists who tried to overthrow Germany and failed in 1848, and that Margarethe Schurz's family came here and those same communists wanted to make sure kindergarten access was established for children.
 
 Transcript Snippet: it was it was established by the communists that tried to overthrow Germany and failed in 1848.
 
 Anchored Artifacts: 
-Mentions: N-3, N-112
+Mentions: N-3, N-111
 Related Nodes: N-10115, N-10128
 Tags: relevance:tangential
 Investigative Direction: Check histories of the kindergarten movement (Froebel and the Schurz family) and the 1848 German revolutions.
@@ -1532,7 +1532,7 @@ Claim: The host says the same people fought to federalize the education system a
 Transcript Snippet: They then fought to make sure that we federalized the education system. These are the same people that pushed to make it so that homeschooling is not a thing,
 
 Anchored Artifacts: 
-Mentions: N-3, N-112
+Mentions: N-3
 Related Nodes: N-10115
 Tags: relevance:tangential
 Investigative Direction: Review the history of compulsory-schooling laws and the federal role in education.
@@ -1565,7 +1565,7 @@ Claim: The host says the public is told these shooters always work alone and tha
 Transcript Snippet: And that guy, they're always working alone. There's no online history that we can reflect on.
 
 Anchored Artifacts: 
-Mentions: N-3, N-105
+Mentions: N-3
 Related Nodes: N-10112
 Tags: relevance:context
 Investigative Direction: Compare official FBI statements on Crooks's digital footprint with the scraped material the host describes.
@@ -1576,12 +1576,12 @@ Investigative Direction: Compare official FBI statements on Crooks's digital foo
 
 Claim Timestamp: 00:20:55
 
-Claim: The host says that after the July 2024 attempt the public was told Iran did it, because officials were itching for war with Iran.
+Claim: The host says that after the July 2024 attempt on Trump the public was told Iran did it, because, she says, they were all itching for war with Iran.
 
 Transcript Snippet: We were told Iran did this. What? Because they were all itching for war with Iran.
 
 Anchored Artifacts: 
-Mentions: N-3, N-5, N-105
+Mentions: N-3, N-5, N-104
 Related Nodes: N-10588
 Tags: relevance:context
 Investigative Direction: Check what US officials actually said in July 2024 about Iranian threats against Trump versus the Crooks investigation findings.
@@ -1614,7 +1614,7 @@ Claim: The host says someone contacted her saying they had been able to scrape e
 Transcript Snippet: they said look actually I had been able to scrape everything about Thomas Crooks before uh the feds uh got rid of everything.
 
 Anchored Artifacts: A-1156.1
-Mentions: N-3, N-105
+Mentions: N-3, N-104
 Related Nodes: N-10111
 Supports: C-1270
 Tags: relevance:context
@@ -1631,7 +1631,7 @@ Claim: The host says it is shocking and that there is no way Crooks was not on t
 Transcript Snippet: And it's shocking what you look there is no way this person was not on the federal radar.
 
 Anchored Artifacts: A-1156.1
-Mentions: N-3, N-105
+Mentions: N-3, N-104
 Related Nodes: N-10111
 Tags: relevance:context
 Investigative Direction: FBI or Secret Service referral records and platform reports on Crooks's accounts would show whether he came to federal attention before July 13, 2024.
@@ -1647,7 +1647,7 @@ Claim: The host says Crooks was at times on the left and on the right and actual
 Transcript Snippet: He was at both both on the left and on the right. He actually traded sides.
 
 Anchored Artifacts: A-1156.1
-Mentions: N-3, N-105
+Mentions: N-3, N-104
 Related Nodes: N-10120
 Tags: relevance:context
 Investigative Direction: The account histories in the host's 80-page document would show the progression and dates.
@@ -1663,7 +1663,7 @@ Claim: The host says that after being a Trump supporter Crooks went through a ra
 Transcript Snippet: Then he does a radical transformation around 2020.
 
 Anchored Artifacts: A-1156.3
-Mentions: N-3, N-105, N-5
+Mentions: N-3, N-104, N-5
 Related Nodes: N-10120
 Supports: C-13695
 Tags: relevance:context
@@ -1680,7 +1680,7 @@ Claim: The host says Crooks's change had something to do with Covid, that he got
 Transcript Snippet: Um, and this had something to do with co he got very angry at Trump and he was outwardly um saying things where people were reporting them on YouTube
 
 Anchored Artifacts: A-1156.3
-Mentions: N-3, N-105, N-5
+Mentions: N-3, N-104, N-5
 Related Nodes: N-10120
 Supports: C-13696
 Tags: relevance:context
@@ -1697,7 +1697,7 @@ Claim: The host says the public is never going to be told what therapists Crooks
 Transcript Snippet: And again, the other element of this is we're never going to be told what therapists he was seeing.
 
 Anchored Artifacts: 
-Mentions: N-3, N-105
+Mentions: N-3, N-104
 Related Nodes: N-10111
 Tags: relevance:context
 Investigative Direction: Medical-record privacy applies; congressional or FBI summaries may state whether treatment records were reviewed.
@@ -1713,7 +1713,7 @@ Claim: The host says Crooks documented for years that he wanted to harm politici
 Transcript Snippet: Even though for years he was documenting wanting to harm politicians and people that were on the left and people that were on the right.
 
 Anchored Artifacts: A-1156.3
-Mentions: N-3, N-105
+Mentions: N-3, N-104
 Related Nodes: N-10111, N-10120
 Supports: C-1272
 Tags: relevance:context
@@ -1828,7 +1828,7 @@ Claim: In the clip within Kimmel's monologue, Ted Cruz is quoted saying that if 
 Transcript Snippet: "We're going to ban you from the airwaves if you don't say what we like." That will end up bad for conservatives.
 
 Anchored Artifacts: A-1158.1
-Mentions: N-87, N-107
+Mentions: N-87, N-106
 Related Nodes: N-10119
 Tags: relevance:context
 Investigative Direction: Compare against Cruz's actual remarks on his podcast; the speaker boundary in the clip is not marked on air.
@@ -1938,7 +1938,7 @@ Investigative Direction: Retrieve the Jezebel article text to verify the quoted 
 
 Claim Timestamp: 00:37:40
 
-Claim: The host says that although the person behind it is unknown, we know it was more than one person.
+Claim: The host says that even though we do not know who exactly was behind Charlie's assassination, we know it was more than one person.
 
 Transcript Snippet: even though we don't know who exactly was behind this. We know it was more than one person.
 
@@ -2131,7 +2131,7 @@ Claim: Viewer Natalie writes that her sister's neighbor is the daughter of a wom
 Transcript Snippet: my sister's neighbor is the daughter of a lady who sent the video to police of Tyler Robinson walking down a neighborhood street.
 
 Anchored Artifacts: A-1161.1
-Mentions: N-40, N-115
+Mentions: N-40, N-114
 Related Nodes: N-10110
 Supports: C-1278
 Tags: relevance:core
@@ -2143,12 +2143,12 @@ Investigative Direction: Ask Natalie for the video; identify the filer and obtai
 
 Claim Timestamp: 00:43:54
 
-Claim: The host asks viewer Natalie to write to the tips inbox and send the video to the show's tips email address, begging her to send it because the footage would show Robinson with a woman.
+Claim: The host asks viewer Natalie to write to the tips inbox and send the video to the show's tips email address, begging her to send it because, per Natalie's comment, the footage shows Robinson with a woman.
 
 Transcript Snippet: Please send that to tips@cannis. com. Natalie, please. I am begging you. He was with a woman.
 
 Anchored Artifacts: A-3273.1
-Mentions: N-3, N-40, N-115
+Mentions: N-3, N-40, N-114
 Related Nodes: N-10110
 Supports: C-1278
 Tags: relevance:core, calls_for_tips
@@ -2181,7 +2181,7 @@ Claim: The host says the psychoanalytic community was started by gaslighting peo
 Transcript Snippet: you know how the psychoanalytic community was started. they were gaslighting people that were actually being raped.
 
 Anchored Artifacts: 
-Mentions: N-3, N-50
+Mentions: N-3
 Tags: relevance:tangential
 Investigative Direction: Historical claim on Freud's abandonment of the seduction theory; the host does not name the book here.
 

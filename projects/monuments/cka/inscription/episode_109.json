@@ -30,7 +30,7 @@
             "C-4267"
           ],
           "related_nodes": [
-            "N-639",
+            "N-637",
             "N-82",
             "N-10945"
           ],
@@ -61,7 +61,7 @@
             "N-10068",
             "N-10700",
             "N-10923",
-            "N-599"
+            "N-597"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -80,7 +80,7 @@
             "C-4273"
           ],
           "related_nodes": [
-            "N-163",
+            "N-162",
             "N-10923"
           ],
           "tags": [],
@@ -127,7 +127,7 @@
             "C-4283"
           ],
           "related_nodes": [
-            "N-599"
+            "N-597"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -152,8 +152,8 @@
             "C-4286"
           ],
           "related_nodes": [
-            "N-647",
-            "N-599"
+            "N-645",
+            "N-597"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -184,9 +184,9 @@
             "C-4302"
           ],
           "related_nodes": [
+            "N-645",
+            "N-646",
             "N-647",
-            "N-648",
-            "N-649",
             "N-10946",
             "N-10947"
           ],
@@ -206,7 +206,7 @@
             "C-4301"
           ],
           "related_nodes": [
-            "N-647",
+            "N-645",
             "N-10946"
           ],
           "tags": [],
@@ -250,7 +250,7 @@
             "C-4304"
           ],
           "related_nodes": [
-            "N-653"
+            "N-651"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -268,7 +268,7 @@
             "C-4306"
           ],
           "related_nodes": [
-            "N-653"
+            "N-651"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -294,8 +294,8 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-162",
-            "N-587",
+            "N-161",
+            "N-585",
             "N-1"
           ],
           "tags": [],
@@ -314,9 +314,9 @@
             "C-4314"
           ],
           "related_nodes": [
-            "N-654",
+            "N-652",
             "N-14",
-            "N-587",
+            "N-585",
             "N-10538"
           ],
           "tags": [],
@@ -343,7 +343,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-345"
+            "N-343"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -404,8 +404,8 @@
             "C-4277"
           ],
           "related_nodes": [
-            "N-270",
-            "N-228"
+            "N-268",
+            "N-226"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -666,8 +666,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-101",
+      "ref": "N-101",
       "name": "Michael Knowles",
       "type": "person",
       "description": "VFT internal comments reportedly contemplate getting him to publish on behalf of VFT.",
@@ -683,8 +683,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Called \"Blakey\" in the host's countdown. On The Charlie Kirk Show he says Charlie Kirk would have grown more frustrated with Massie, including over Epstein.",
@@ -703,8 +703,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-163",
-      "ref": "N-163",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Steven Cheung",
       "type": "person",
       "description": "The host says she copied him on her follow-up to the White House and that he was copied on the original email.",
@@ -722,8 +722,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Matt Walsh",
       "type": "person",
       "description": "VFT internal comments reportedly contemplate getting him to publish on behalf of VFT.",
@@ -739,8 +739,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-203",
+      "ref": "N-203",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Profiled in the VFT reports; internal comments reportedly suggest undermining his Christian identity.",
@@ -757,8 +757,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Joe Kent",
       "type": "person",
       "description": "VFT collected polling on his resignation; the host says TPUSA joined in smearing him as a leaker.",
@@ -775,8 +775,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-217",
-      "ref": "N-217",
+      "@id": "N-215",
+      "ref": "N-215",
       "name": "Nick Shirley",
       "type": "person",
       "description": "Named in the Cuccia thread; the host suggests he may be intentionally platformed.",
@@ -792,8 +792,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-226",
+      "ref": "N-226",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Brian Harpole's interview on his podcast is cited in Harpole's lawsuit.",
@@ -811,8 +811,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Brian Harpole",
       "type": "person",
       "description": "His lawsuit, alibi flight and the Fort Huachuca sighting by Mitch Snow are revisited.",
@@ -833,8 +833,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-321",
-      "ref": "N-321",
+      "@id": "N-319",
+      "ref": "N-319",
       "name": "Hodge Twins",
       "type": "person",
       "description": "Named among the accounts profiled in the VFT reports.",
@@ -850,8 +850,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-345",
-      "ref": "N-345",
+      "@id": "N-343",
+      "ref": "N-343",
       "name": "Victor Marx",
       "type": "person",
       "description": "Transcript spelling \"Victor Marx\". A viewer comment says he and Erika Kirk are close.",
@@ -869,8 +869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Mitch Snow",
       "type": "person",
       "description": "His account of seeing Brian Harpole at Fort Huachuca is restated; the host says she confirmed his presence but not his identification.",
@@ -887,8 +887,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-131",
-      "ref": "N-131",
+      "@id": "N-130",
+      "ref": "N-130",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Named among the accounts profiled in the VFT reports.",
@@ -904,8 +904,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
+      "@id": "N-441",
+      "ref": "N-441",
       "name": "Johnny Moore",
       "type": "person",
       "description": "Named by the host as on the NCRI \"Christ is King\" report.",
@@ -921,8 +921,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-587",
-      "ref": "N-587",
+      "@id": "N-585",
+      "ref": "N-585",
       "name": "Thomas Massie",
       "type": "person",
       "description": "Kentucky congressman whom the host says Charlie Kirk called a favorite. He is the subject of the Kolvet/Neff segment, the Schriber tweet and the AIPAC spending allegation.",
@@ -946,8 +946,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "The host says the NSA redirected her FOIA to his office. She rules him out of the SAM 702 flight because of his Singapore meeting, and Cuccia criticized his Pentagon press rules.",
@@ -971,8 +971,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-601",
-      "ref": "N-601",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Named by the host as on the NCRI \"Christ is King\" report.",
@@ -1356,8 +1356,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-639",
-      "ref": "N-639",
+      "@id": "N-637",
+      "ref": "N-637",
       "name": "Hunter Biden",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 109. Guest on the host's previous episode; the subject of the Hollywood Reporter headline.",
@@ -1375,8 +1375,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-646",
-      "ref": "N-646",
+      "@id": "N-644",
+      "ref": "N-644",
       "name": "Ryan Routh",
       "type": "person",
       "description": "First named by the host at 00:02:27 in episode 109. The would-be assassin in the golf-course attempt on Donald Trump. Aliases: Ryan Ruth (transcript spelling).",
@@ -1392,8 +1392,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-647",
-      "ref": "N-647",
+      "@id": "N-645",
+      "ref": "N-645",
       "name": "Gabrielle Cuccia",
       "type": "person",
       "description": "First named by the host at 00:13:30 in episode 109. Former Pentagon chief correspondent (\"Gabby\") who published the X thread on Vine & Fig Tree. Aliases: Gabrielle Cuccia.",
@@ -1419,8 +1419,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-648",
-      "ref": "N-648",
+      "@id": "N-646",
+      "ref": "N-646",
       "name": "Sebastian Gorka",
       "type": "person",
       "description": "First named by the host at 00:15:42 in episode 109. White House official who, per the Cuccia thread, met VFT at the White House and for whom the AI video was to be made.",
@@ -1442,8 +1442,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-649",
-      "ref": "N-649",
+      "@id": "N-647",
+      "ref": "N-647",
       "name": "Shawn Chenoweth",
       "type": "person",
       "description": "First named by the host at 00:15:42 in episode 109. Described by the host as director of cognitive advantage at the National Security Council and identified by Cuccia, per the host, as the third party who contacted her.",
@@ -1461,8 +1461,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-650",
-      "ref": "N-650",
+      "@id": "N-648",
+      "ref": "N-648",
       "name": "Jackson Hinkle",
       "type": "person",
       "description": "First named by the host at 00:17:38 in episode 109. Named among the accounts profiled in the VFT reports.",
@@ -1478,8 +1478,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-651",
-      "ref": "N-651",
+      "@id": "N-649",
+      "ref": "N-649",
       "name": "Mario Nawfal",
       "type": "person",
       "description": "First named by the host at 00:17:38 in episode 109. Named among the accounts profiled in the VFT reports.",
@@ -1495,8 +1495,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-652",
-      "ref": "N-652",
+      "@id": "N-650",
+      "ref": "N-650",
       "name": "Joel Finkelstein",
       "type": "person",
       "description": "First named by the host at 00:21:20 in episode 109. Named in the Cuccia thread as founder of NCRI.",
@@ -1512,8 +1512,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-653",
-      "ref": "N-653",
+      "@id": "N-651",
+      "ref": "N-651",
       "name": "Natalie Jean Beisner",
       "type": "person",
       "description": "First named by the host at 00:30:23 in episode 109. Posted the tweet about the host's 3-year-old daughter; the host describes her as an actress. Aliases: Natalie Beisner.",
@@ -1534,8 +1534,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-654",
-      "ref": "N-654",
+      "@id": "N-652",
+      "ref": "N-652",
       "name": "Raphael Schreiber",
       "type": "person",
       "description": "First named by the host at 00:39:16 in episode 109. Described as legislative director for Thomas Massie; tweeted at Andrew Kolvet about the March 12, 2026 apology call.",
@@ -1571,7 +1571,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-639"
+        "N-637"
       ]
     },
     {
@@ -1599,7 +1599,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-163",
+        "N-162",
         "N-2"
       ]
     },
@@ -1634,8 +1634,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-647",
-        "N-648"
+        "N-645",
+        "N-646"
       ]
     },
     {
@@ -1658,7 +1658,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-649"
+        "N-647"
       ]
     },
     {
@@ -1678,7 +1678,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-587",
+        "N-585",
         "N-10083"
       ]
     }
@@ -1701,7 +1701,7 @@
       "investigative_direction": "Locate the Hollywood Reporter article by its headline and publication date.",
       "transcript_snippet": "They published this, \"How Hunter Biden ended up in Candace Owens' home studio next to her Brigitte Macron doll.\"",
       "mentions_person_refs": [
-        "N-639",
+        "N-637",
         "N-82"
       ]
     },
@@ -1719,7 +1719,7 @@
       "transcript_snippet": "Second one, okay, happened on a golf course. We were there. We covered it, diligently reporting on Ryan Ruth, the uh would-be assassin.",
       "mentions_person_refs": [
         "N-5",
-        "N-646"
+        "N-644"
       ]
     },
     {
@@ -1817,7 +1817,7 @@
       "investigative_direction": "The host's sent follow-up and any White House reply; the original email's CC line.",
       "transcript_snippet": "Did you get this email, Steve? Cuz I see you were CC'd on the original one.\" And poof.",
       "mentions_person_refs": [
-        "N-163"
+        "N-162"
       ]
     },
     {
@@ -1860,7 +1860,7 @@
       "investigative_direction": "The Office of the Secretary of War's eventual FOIA response and any search records for the email.",
       "transcript_snippet": "You know, rather than denying the existence of the email, they redirected it to Pete Hegseth's office.",
       "mentions_person_refs": [
-        "N-599"
+        "N-597"
       ]
     },
     {
@@ -1902,8 +1902,8 @@
         "C-2817"
       ],
       "mentions_person_refs": [
-        "N-270",
-        "N-228",
+        "N-268",
+        "N-226",
         "N-3"
       ]
     },
@@ -1923,8 +1923,8 @@
       "investigative_direction": "Fort Huachuca visitor and meeting attendance logs for September 9, 2025.",
       "transcript_snippet": "the night after he claims to who seen Erika at some hotel, He claims that he saw Brian Harpole walking out of some meeting.",
       "mentions_person_refs": [
-        "N-366",
-        "N-270",
+        "N-364",
+        "N-268",
         "N-2"
       ]
     },
@@ -1944,7 +1944,7 @@
       "investigative_direction": "Fort Huachuca military police call logs and the attendee list for the meeting Snow describes.",
       "transcript_snippet": "confirmed he was there, confirmed the police were called, everything he said uh was accurate. Could not confirm, still cannot confirm his memory of who he saw.",
       "mentions_person_refs": [
-        "N-366",
+        "N-364",
         "N-3"
       ]
     },
@@ -1982,7 +1982,7 @@
       "investigative_direction": "Airline manifest and boarding records for Harpole's September 9, 2025 Texas–Salt Lake City flight.",
       "transcript_snippet": "he attempted to drop some alibi of I flew out at 2:30 in the afternoon from Texas uh up to Utah, Salt Lake City.",
       "mentions_person_refs": [
-        "N-270"
+        "N-268"
       ]
     },
     {
@@ -2019,7 +2019,7 @@
       "investigative_direction": "The Department of War public schedule and photos of the September 9, 2025 meeting with Singapore's defense minister, and past SAM 702 manifests.",
       "transcript_snippet": "I checked Pete Hegseth's schedule on September 9th. He was in Washington, D. C. at 3:00 p. m. uh greeting Singapore's Minister of Defense.",
       "mentions_person_refs": [
-        "N-599"
+        "N-597"
       ]
     },
     {
@@ -2077,8 +2077,8 @@
       "investigative_direction": "Cuccia's employer's statement on her departure and the Pentagon press-access policy announcement.",
       "transcript_snippet": "she was fired as the Pentagon's chief correspondent. Uh she claims she was fired after she criticized uh Pete Hegseth for having established new rules that actually limited the press's access to the Pentagon.",
       "mentions_person_refs": [
-        "N-647",
-        "N-599"
+        "N-645",
+        "N-597"
       ]
     },
     {
@@ -2099,8 +2099,8 @@
       "investigative_direction": "White House visitor logs for VFT representatives and Gorka's meeting calendar.",
       "transcript_snippet": "VFT is a pro-Israel organization with ties to the administration. Earlier this year, VFT was at the White House meeting with Sebastian Gorka.",
       "mentions_person_refs": [
-        "N-647",
-        "N-648"
+        "N-645",
+        "N-646"
       ]
     },
     {
@@ -2121,9 +2121,9 @@
       "investigative_direction": "NSC staff directory for a director of cognitive advantage and Cuccia's later posts naming the contact.",
       "transcript_snippet": "she later identifies this person to be Shawn Chenowith, who is the director of cognitive advantage at the US uh at the National Security Council.",
       "mentions_person_refs": [
+        "N-645",
         "N-647",
-        "N-649",
-        "N-648"
+        "N-646"
       ]
     },
     {
@@ -2144,8 +2144,8 @@
       "investigative_direction": "Cuccia's correspondence with the third party and any published AI video matching the brief.",
       "transcript_snippet": "I was told the script would be used to create an AI-generated video on behalf of the White House, specifically for the NSC and Sebastian Gorka.",
       "mentions_person_refs": [
-        "N-647",
-        "N-648"
+        "N-645",
+        "N-646"
       ]
     },
     {
@@ -2165,7 +2165,7 @@
       "investigative_direction": "The full Cuccia thread text and any VFT documents referencing Nick Shirley.",
       "transcript_snippet": "I mean, it worked out for them and Nick Shirley Pause. Nick Shirley, the guy who infiltrated the favela in 48 hours flat.",
       "mentions_person_refs": [
-        "N-217"
+        "N-215"
       ]
     },
     {
@@ -2186,7 +2186,7 @@
       "investigative_direction": "Authenticate the Dropbox contents and metadata (authorship, creation dates) shown in Cuccia's screenshots.",
       "transcript_snippet": "I was then given a Dropbox link containing research, polling data, internal comments, and strategy material compiled by the FT and the third party involved. Inside the Dropbox were seven folders.",
       "mentions_person_refs": [
-        "N-647"
+        "N-645"
       ]
     },
     {
@@ -2206,13 +2206,13 @@
       "investigative_direction": "The VFT reports in the Dropbox folders and their stated methodology.",
       "transcript_snippet": "The reports include information regarding Nick Fuentes, the Hodge Twins, Candace Owens, Tucker Carlson, Jackson Hinkle, Ian Carroll, and Mario Nawfal, just to name a few.",
       "mentions_person_refs": [
-        "N-205",
-        "N-321",
+        "N-203",
+        "N-319",
         "N-3",
         "N-22",
-        "N-650",
-        "N-131",
-        "N-651"
+        "N-648",
+        "N-130",
+        "N-649"
       ]
     },
     {
@@ -2233,7 +2233,7 @@
       "investigative_direction": "The Joe Kent polling file in the VFT Dropbox and the polling vendor.",
       "transcript_snippet": "They also collected polling and response data surrounding Joe Kent's resignation from the administration.",
       "mentions_person_refs": [
-        "N-213"
+        "N-211"
       ]
     },
     {
@@ -2293,9 +2293,9 @@
       "investigative_direction": "The internal comment threads in the Dropbox and any outreach records to Walsh or Knowles.",
       "transcript_snippet": "They talk about going after Fuentes stating that undermining his Christian identity is probably a good idea. They contemplate getting Matt Walsh or Michael Knowles to publish on behalf of VFT.",
       "mentions_person_refs": [
-        "N-205",
-        "N-166",
-        "N-102"
+        "N-203",
+        "N-165",
+        "N-101"
       ]
     },
     {
@@ -2316,7 +2316,7 @@
       "investigative_direction": "NCRI's corporate records and any partnership or contact with VFT.",
       "transcript_snippet": "They suggest collaborating with NCRI funded with NCRI which was founded by Joel Finkelstein, a multi-million dollar organization that tracks hate speech on social media.",
       "mentions_person_refs": [
-        "N-652"
+        "N-650"
       ]
     },
     {
@@ -2335,8 +2335,8 @@
       "transcript_snippet": "They were also the ones that came with the report with my face on it uh claiming that Christ is King was suddenly anti-Semitic.",
       "mentions_person_refs": [
         "N-3",
-        "N-443",
-        "N-601"
+        "N-441",
+        "N-599"
       ]
     },
     {
@@ -2355,7 +2355,7 @@
       "investigative_direction": "TPUSA and Charlie Kirk Show posts and segments about Joe Kent after his resignation.",
       "transcript_snippet": "The way you're treating Joe Kent for trying to investigate whether or not his assassination could have been a foreign influence operation. Calling him weak, referring to him as a leak a leaker.",
       "mentions_person_refs": [
-        "N-213",
+        "N-211",
         "N-2"
       ]
     },
@@ -2397,7 +2397,7 @@
       "investigative_direction": "Platform takedown records for burner accounts and ad accounts linked to VFT.",
       "transcript_snippet": "The documents uh also discuss burner profiles, burner ad accounts, AI-generated interview-style videos, audience personas, troll content briefs, engagement testing, and ideological audience segmentation.",
       "mentions_person_refs": [
-        "N-647"
+        "N-645"
       ]
     },
     {
@@ -2415,8 +2415,8 @@
       "investigative_direction": "Compare the text of the White House counterterrorism strategy with the language of the VFT reports.",
       "transcript_snippet": "it's worth reviewing the White House's latest 16-page counterterrorism strategy touted by Gorka.",
       "mentions_person_refs": [
-        "N-647",
-        "N-648"
+        "N-645",
+        "N-646"
       ]
     },
     {
@@ -2432,7 +2432,7 @@
       "investigative_direction": "Reporting and records on Gorka's security clearance status in 2017.",
       "transcript_snippet": "he didn't even get cleared in the first administration because of his past and to to British intelligence, his ties to British intelligence.",
       "mentions_person_refs": [
-        "N-648"
+        "N-646"
       ]
     },
     {
@@ -2451,7 +2451,7 @@
       "investigative_direction": "Archive of Beisner's X post and its timestamp.",
       "transcript_snippet": "So, Natalie Jean Beisner tweeted this. Candace's daughter is going to grow up to be a mega Or in prison or both.",
       "mentions_person_refs": [
-        "N-653",
+        "N-651",
         "N-3"
       ]
     },
@@ -2470,7 +2470,7 @@
       "investigative_direction": "An archived capture of Beisner's Instagram grid on the date of the episode.",
       "transcript_snippet": "there's more posts about me on her profile than there are uh on my profile.",
       "mentions_person_refs": [
-        "N-653"
+        "N-651"
       ]
     },
     {
@@ -2488,7 +2488,7 @@
       "investigative_direction": "IMDb and SAG-AFTRA listings and any public name-change records for Natalie Jean Beisner.",
       "transcript_snippet": "It looks like there There could be a name change somewhere. We started just prodding, but what we can confirm is that she's just another washed-up D-list actress looking for her next gig.",
       "mentions_person_refs": [
-        "N-653"
+        "N-651"
       ]
     },
     {
@@ -2504,7 +2504,7 @@
       "investigative_direction": "A follow-up segment presenting the findings.",
       "transcript_snippet": "I'll let you know what I discover because we did already interesting things about Natalie Jean Beisner.",
       "mentions_person_refs": [
-        "N-653"
+        "N-651"
       ]
     },
     {
@@ -2523,7 +2523,7 @@
       "investigative_direction": "TPUSA's release, or refusal to release, of the full video and its original file metadata.",
       "transcript_snippet": "54 long days and long nights of no response to the AI alleged AI video of Charlie Kirk appointing Erika as CEO.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-1",
         "N-2"
       ]
@@ -2587,9 +2587,9 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-587",
+        "N-585",
         "N-14",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2608,9 +2608,9 @@
       "transcript_snippet": "But he was pretty frustrated that Massie didn't vote on in the affirmative on the big beautiful bill because it was essentially the totality of President Trump's first year agenda wrapped into one bill.",
       "mentions_person_refs": [
         "N-14",
-        "N-162",
+        "N-161",
         "N-1",
-        "N-587"
+        "N-585"
       ]
     },
     {
@@ -2631,9 +2631,9 @@
       "investigative_direction": "Massie office phone logs for March 12, 2026 and the TPUSA video post.",
       "transcript_snippet": "Andrew Kolvet, didn't you call our office a few months ago on March 12th, 2026 to be exact, profusely apologizing for TPUSA posting a video of Thomas Massie labeling him a rhino",
       "mentions_person_refs": [
-        "N-654",
+        "N-652",
         "N-14",
-        "N-587"
+        "N-585"
       ]
     },
     {
@@ -2654,9 +2654,9 @@
       "investigative_direction": "Kolvet's response to Schriber and any TPUSA spending in the Kentucky race.",
       "transcript_snippet": "Didn't you ask us to express your sincere apologies to Massie and that TPUSA was not going to get involved with the race, but that you personally wanted Massie to win?",
       "mentions_person_refs": [
-        "N-654",
+        "N-652",
         "N-14",
-        "N-587"
+        "N-585"
       ]
     },
     {
@@ -2715,7 +2715,7 @@
       "transcript_snippet": "James The Least writes, \"The fact that Erika Kirk and Victor Marx are close is the least surprising thing ever.\"",
       "mentions_person_refs": [
         "N-2",
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2753,7 +2753,7 @@
       "investigative_direction": "FEC independent-expenditure filings by AIPAC-affiliated PACs in Kentucky's 4th district primary.",
       "transcript_snippet": "he would not have appreciated money being spent by AIPAC to remove him.",
       "mentions_person_refs": [
-        "N-587",
+        "N-585",
         "N-1"
       ]
     },

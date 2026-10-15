@@ -14,7 +14,7 @@
 - **Transcript SHA-256**: 4e6d0208251c90a7fbd3a8be5f2caaf0ebe78bfeb35177af48f4b0ff29ff2356
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-939, N-11364, N-11365
+  - Tip-minted Nodes (supplement_2026-10g): N-937, N-11364, N-11365
   - Hole-minted Nodes (reintro-ep001): N-82, N-10026
   - Tip-minted Nodes (reintro-ep001): N-11322
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -415,7 +415,7 @@ The movement the host says she started with Charlie by her side.
 
 ---
 
-**N-939** Brett Kavanaugh
+**N-937** Brett Kavanaugh
 
 Named on a T-shirt slogan the host recalls; first named by the host at 00:13:32 in episode 001.
 
@@ -449,7 +449,7 @@ Claim Timestamp: 00:10:29
 Claim: Following Kanye West's tweet praising Candace Owens, Charlie and Candace celebrated backstage doing a 'Charlie dance,' as documented in a shown video clip.
 Transcript Snippet: I found a clip of us backstage on that day when that tweet happened…
 Anchored Artifacts: A-1077.1, A-1078.1, A-1080.1
-Mentions: N-1, N-3, N-14, N-27, N-32, N-35
+Mentions: N-1, N-3, N-27
 Related Nodes: N-10004, N-10008
 Confidence: high
 Investigative Direction: Verify the exact date of the Kanye tweet and cross-reference with the shown backstage clip timestamp.
@@ -474,7 +474,7 @@ Investigative Direction: Verify the Yeezys gift claim against Kanye West's publi
 **C-1117** Charlie and Candace drove 8 hours from NC/SC to DC during a hurricane
 
 Claim Timestamp: 00:12:40
-Claim: When flights were cancelled during a hurricane, Charlie and Candace rented a car and drove 8 hours to reach DC by morning, per a road-trip audio clip shown.
+Claim: The host says that when flights were cancelled during a hurricane, she and Charlie Kirk rented a car and drove 8 hours to reach DC by morning, and that she thinks it was in North or South Carolina.
 Transcript Snippet: We got to rent a car. We got to drive eight hours. ... And one of the most fun uh road trips I've had in my life.
 Anchored Artifacts: A-1077.2
 Mentions: N-1, N-3
@@ -487,10 +487,10 @@ Tags: open_source_investigation
 **C-1123** YWLS conference reporters pressed Candace during 'him too' controversy
 
 Claim Timestamp: 00:14:20
-Claim: While the YWLS conference ran concurrently with the viral 'him too' / #MeToo backlash, hostile reporters converged on Candace and Charlie's team; Charlie Kirk and Andrew Kolvet held the line backing Candace's due-process stance.
+Claim: The host says that while the YWLS conference ran at the same time as the 'him too' backlash, reporters who already hated them swooped in asking whether Charlie supported her statements, and that, with her standing behind Charlie and Andrew Kolvet, Charlie held the line.
 Transcript Snippet: And then we had at the same time the YWLS conference. So the reporters who already hated us just completely they just swooped in there…
 Anchored Artifacts: A-1080.2
-Mentions: N-1, N-3, N-14, N-32, N-35
+Mentions: N-1, N-3, N-14
 Related Nodes: N-10008
 Confidence: high
 Investigative Direction: Identify YWLS conference date/location and contemporaneous press coverage of the 'him too' shirt incident.
@@ -514,8 +514,8 @@ Tags: open_source_investigation
 
 **C-1118** Charlie was egged by Antifa at a Philadelphia restaurant
 
-Claim Timestamp: 00:16:07
-Claim: Charlie Kirk and Candace Owens were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, per a video clip shown.
+Claim Timestamp: 00:15:20
+Claim: The host says she and Charlie Kirk were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, and she then plays a video clip of the moment.
 Transcript Snippet: We got chased out of a Philadelphia restaurant by Antifa and they threw water and they threw an egg on Charlie.
 Anchored Artifacts: A-1077.3
 Mentions: N-1, N-3
@@ -767,7 +767,7 @@ Investigative Direction: Campus event calendars for UCLA, Stanford and Berkeley 
 
 Claim Timestamp: 00:06:07
 
-Claim: The host says she saw messages light up the phone of a better-known headliner, who is not named, saying he did not want to do the event with the new girl Charlie had hired.
+Claim: The host says she saw messages light up the phone of a better-known headliner, who is not named, saying they did not want to do the event with the new girl Charlie had hired.
 
 Transcript Snippet: "I I don't want to do this event with that new girl you hired." Like,
 
@@ -778,11 +778,11 @@ Investigative Direction: The headliner is unnamed; the host or the original tick
 
 ---
 
-**C-13458** Host Says Charlie Cancelled the Event Rather Than Drop Her
+**C-13458** Host Says Charlie Chose to Do the Event Without the Headliner Rather Than Drop Her
 
 Claim Timestamp: 00:07:00
 
-Claim: The host says Charlie decided against the easy choice and told the headliner that if he would not do the event with Candace they would not do the event, and that he and Candace would do it alone.
+Claim: The host says Charlie decided against the easy choice and said that if the headliner did not want to do the event with Candace, they would not do the event with them and that he and Candace would do it alone.
 
 Transcript Snippet: Candace, then we're not going to do the event." And Candace and I will do it alone.
 
@@ -827,7 +827,7 @@ Investigative Direction: Airline itineraries or TPUSA travel expense records for
 
 Claim Timestamp: 00:08:15
 
-Claim: The host says Don Jr. and Eric Trump told Charlie they knew he was very frugal and aware that his salary came from donors, and that Charlie wanted to be a good steward of their capital.
+Claim: The host says Don Jr., and she thinks Eric Trump, told Charlie they knew he was very frugal and aware that his salary came from donors, and that Charlie wanted to be a good steward of the donors' capital.
 
 Transcript Snippet: they're like, you know, Charlie, I know you're very frugal. We know that you're very aware that your salary comes from donors.
 
@@ -943,7 +943,7 @@ Claim: The host says they were always printing new T-shirts and names a Justice 
 Transcript Snippet: we were there. And there was always a new t-shirt to print out. Justice for Brett Kavanaugh.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-939
+Mentions: N-3, N-1, N-937
 Tags: relevance:tangential
 Investigative Direction: Contemporary TPUSA merchandise listings or photos would confirm the shirt.
 
@@ -1166,7 +1166,7 @@ Transcript Snippet: Never for a single minute ever did Charlie and I stop being 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10003
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Later episodes' texts and accounts of the 2023 to 2025 relationship would test the claim of continuity.
 
 ---
@@ -1182,7 +1182,7 @@ Transcript Snippet: Of course, people guessed it correctly when they said, "Oh, 
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-5, N-82
 Related Nodes: N-11365
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: The host's phone logs and messages with Charlie around the Trump call would date it; Trump-side accounts would confirm or refute the call.
 
 ---
@@ -1230,7 +1230,7 @@ Transcript Snippet: I said, "Charlie, this is this is where I'm at, and there's 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10026
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Who asked Charlie to relay her position, and when, is the line to pursue; the texts or calls would carry it.
 
 ---
@@ -1246,7 +1246,7 @@ Transcript Snippet: I think um I think in the end Charlie Charlie was going thro
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10005
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: The host does not say what the transformation was; her texts with Charlie from 2025 and his public remarks on faith would test it.
 
 ---
@@ -1262,7 +1262,7 @@ Transcript Snippet: There was a lot of pressure and it's hard for me to watch th
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10005
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: The host does not name those pressuring him here; later episodes naming them and any messages Charlie sent about pressure would test the claim.
 
 ---
@@ -1278,7 +1278,7 @@ Transcript Snippet: And um they would have allowed him to lose and wanted him to
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10005
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify which opinion and which donors or allies are meant, via the host's later episodes and Charlie's donors' statements.
 
 ---

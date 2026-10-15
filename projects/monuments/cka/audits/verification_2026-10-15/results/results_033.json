@@ -1,0 +1,776 @@
+[
+ {
+  "claim": "C-6525",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6526",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"very close, I think, to what actually happened\"; \"I think\" dropped; \"we\" not \"her team\".",
+  "fix": {
+   "claim": "The host says that she thinks they are getting very close to what actually happened on that day, that she is getting the suspicion that there were some foreign entities involved, and asks Joe Kent and Tulsi Gabbard to keep going."
+  }
+ },
+ {
+  "claim": "C-6527",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6528",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "N-194 Mikey McCoy not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-6529",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6530",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I think it was right after memorial service\"; hedge dropped; the smells-and-bells remark is about Charlie.",
+  "fix": {
+   "claim": "The host says she thinks, a couple of days after the memorial, Alex Clark released an interview with Erika Kirk and Andrew Kolvet in which they said Charlie and Erika were both committed evangelicals and that Charlie liked the smells and the bells and the architecture but there was no more substance for him."
+  }
+ },
+ {
+  "claim": "C-6531",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: \"Operation Mocking Pastor\" (possibly ASR of Mockingbird); not confirmed.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6532",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6533",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"If you brought in 70 million last year\" is conditional, not her account.",
+  "fix": {
+   "claim": "The host says donor Bob Shillman took 2 million dollars away and, if TPUSA brought in 70 million dollars last year, asks whether the donors Kolvet called a small portion are cutting the bigger checks."
+  }
+ },
+ {
+  "claim": "C-6534",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6535",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"probably without question actually the most committed Trump family member\"; hedge dropped.",
+  "fix": {
+   "claim": "The host says Donald Trump Jr. was one of the people who very much helped to build Turning Point USA, did a ton of college campus events with her and Charlie, and was probably without question the most committed Trump family member to TPUSA's early story."
+  }
+ },
+ {
+  "claim": "C-6536",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6537",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6538",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6539",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6540",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"They understand Jared, Ivanka... pressure from Zionists to simply be quiet\" is said of those in the movement understanding his silence, not that the Trump family does; she says \"you don't believe that\".",
+  "fix": {
+   "claim": "The host tells Don Jr. that if he cannot say anything she understands the ties that bind, says \"they understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet,\" and says hunters know he does not believe the official account."
+  }
+ },
+ {
+  "claim": "C-6541",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"just over two hours long\" is not in the transcript.",
+  "fix": {
+   "claim": "The host says she sat down with Norman Finkelstein for a conversation that will be released on Friday."
+  }
+ },
+ {
+  "claim": "C-6542",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6543",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6544",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6545",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6546",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Prefaced by \"I think what I take from it and what I understood\"; her inference.",
+  "fix": {
+   "claim": "The host says she takes from Charlie's dreams that he knew his life was going to be short and that, for whatever reason, she would be the only one to defend him publicly and go to war with everyone."
+  }
+ },
+ {
+  "claim": "C-6547",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6548",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Hedge dropped: \"I think it was McMillan, don't quote me\".",
+  "fix": {
+   "claim": "Reading a viewer comment about Maxwell-published textbooks, the host says Ghislaine Maxwell's father began alongside, she thinks, Macmillan (\"don't quote me\"), publishing school textbooks, which she calls coming from the Jeffrey Epstein empire."
+  }
+ },
+ {
+  "claim": "C-6549",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6550",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6551",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1527",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mark Herman (N-67) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1528",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1529",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1530",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Statement read by host; Shirlene co-issuer per host. ok.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1531",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1532",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1533",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Provo has no Air Force base\" is not said; host says it \"always flies to an Air Force base\".",
+  "fix": {
+   "claim": "The host says the FlightRadar three-year history for SU-BTT shows the aircraft routinely flies through Paris, and that she noticed the trend that it always flies to an Air Force base."
+  }
+ },
+ {
+  "claim": "C-1534",
+  "episode": 22,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says \"I can now report to you as a fact\" and \"I am telling you that for a fact\" the plane carried subcontractors dropped in Provo; she asserts it, citing the tipster.",
+  "fix": {
+   "claim": "The host says, citing an unnamed email tipster, that she can report as a fact that the SU-BTT flight carried Egyptian military subcontractors who were dropped off in Provo, Utah and did not make it back to Cairo when the plane departed."
+  }
+ },
+ {
+  "claim": "C-1535",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1536",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1537",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1538",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1539",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Dave Smith (N-39) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-38",
+    "N-205",
+    "N-208"
+   ]
+  }
+ },
+ {
+  "claim": "C-1540",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1541",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"it wasn't on Piers Morgan, right, Skyler?\" - a separate show; claim says on Piers Morgan and mentions N-208.",
+  "fix": {
+   "claim": "In a clip the host plays that she says was from a separate show and not Piers Morgan, Seth Dillon characterizes Nick Fuentes as having animosity toward Jews, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and as having engaged in \"glorification of Hitler.\"",
+   "mentions": [
+    "N-4",
+    "N-38",
+    "N-205"
+   ]
+  }
+ },
+ {
+  "claim": "C-1542",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names \"Candace\" but N-3 not in Mentions; also text is from a clip where a speaker describes the screenshots.",
+  "fix": {
+   "claim": "In a clip the host plays, a speaker describing screenshots of an internal chat Charlie Kirk was doing with TPUSA says it reads \"Just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker. And I'm thinking of inviting Candace.\"",
+   "mentions": [
+    "N-1",
+    "N-22",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-1543",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip speaker not named in window; Hammer attribution unresolved.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1544",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3646",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host only mentions \"our decentralized intelligence agency tips box\"; \"operates as the DIA... opposing centralized intel\" is added.",
+  "fix": {
+   "claim": "The host says she was going through the DCIA tips box, which she calls \"our decentralized intelligence agency tips box,\" when she found an email about the Egyptian flight."
+  }
+ },
+ {
+  "claim": "C-9399",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9400",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9401",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9402",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9403",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9404",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9405",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9406",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9407",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9408",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9409",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9410",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9411",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mark Herman (N-67) not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9412",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

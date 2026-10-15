@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11804–C-11858
   - New Nodes Introduced: N-10841, N-10842, N-10843, N-10844, N-10846
-  - Reused Nodes Appearing: N-2, N-14, N-22, N-162, N-25, N-10840, N-18, N-69, N-275, N-334, N-595, N-599, N-739, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246, N-11312, N-10845, N-10873, N-11313
+  - Reused Nodes Appearing: N-2, N-14, N-22, N-161, N-25, N-10840, N-18, N-69, N-273, N-332, N-593, N-597, N-737, N-10000, N-10003, N-10012, N-10028, N-10071, N-10075, N-10533, N-11057, N-11147, N-11221, N-11246, N-11312, N-10845, N-10873, N-11313
 
 ---
 
@@ -36,7 +36,7 @@
 - **Artifact Families Introduced:** A-2393, A-2394, A-2395, A-2396, A-2397, A-2398, A-2399, A-2400, A-2401, A-2402, A-2403, A-2404
 - **Claim Range:** C-3494–C-3512
 - **New Nodes Introduced:** N-10840, N-10841, N-10842, N-10843, N-10844, N-10845, N-10846
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-14 (Andrew Kolvet (variant spellings: Kolvet/Kovat/Kovatte)), N-22 (Tucker Carlson), N-162 (Blake Neff (variant: Nef) – actual ledger IDs to be verified against global ledger)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens), N-14 (Andrew Kolvet (variant spellings: Kolvet/Kovat/Kovatte)), N-22 (Tucker Carlson), N-161 (Blake Neff (variant: Nef) – actual ledger IDs to be verified against global ledger)
 
 ---
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3504, C-3507, N-1, N-162*
+*Related: C-3504, C-3507, N-1, N-161*
 
 **A-2400.2** Politico excerpt (Ian Ward): "maximalist position on free speech" framing.
 
@@ -170,7 +170,7 @@ Video Timestamp: 00:47:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3505, N-162*
+*Related: C-3505, N-161*
 
 ---
 
@@ -184,7 +184,7 @@ Video Timestamp: 00:45:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3506, N-1, N-22, N-162, N-10845*
+*Related: C-3506, N-1, N-22, N-161, N-10845*
 
 ---
 
@@ -380,7 +380,7 @@ Video Timestamp: 00:55:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11851, N-334, N-3, N-11313*
+*Related: C-11851, N-332, N-3, N-11313*
 
 ---
 
@@ -418,7 +418,7 @@ Existing; called out Blake Neff via audio artifact (A-2401.1).
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Existing; subject of Politico profile and Tucker Carlson criticism.
 
@@ -500,7 +500,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2400.1, A-2401.1, C-3506, C-3507, N-1, N-22, N-162*
+*Related: A-2400.1, A-2401.1, C-3506, C-3507, N-1, N-22, N-161*
 
 ---
 
@@ -542,7 +542,7 @@ Host; speaks for herself throughout.
 
 ---
 
-**N-334** Baron Coleman
+**N-332** Baron Coleman
 
 Baron Coleman; the host says he will take over her show while she is on leave.
 
@@ -550,7 +550,7 @@ Baron Coleman; the host says he will take over her show while she is on leave.
 
 ---
 
-**N-275** Jeff Long
+**N-273** Jeff Long
 
 Utah Valley University police chief; quoted in the ABC article on attendance and officer numbers.
 
@@ -574,7 +574,7 @@ Kash Patel; named in the host's sarcastic list of TPUSA 2.0 connections.
 
 ---
 
-**N-599** Pete Hegseth
+**N-597** Pete Hegseth
 
 Pete Hegseth; named in the host's sarcastic list of TPUSA 2.0 connections (transcribed "Hegsmith").
 
@@ -590,7 +590,7 @@ Ghislaine Maxwell; subject of an Empress Films documentary the host says critics
 
 ---
 
-**N-739** Stu Peters
+**N-737** Stu Peters
 
 Stu Peters; the host says Blake Neff worked for him before the Charlie Kirk show job.
 
@@ -606,7 +606,7 @@ Charged suspect in the Kirk shooting; named in the host's remark about footage r
 
 ---
 
-**N-595** Matt Tardio
+**N-593** Matt Tardio
 
 Matt Tardio; the host says TPUSA welcomes him despite his conduct near ICE facilities.
 
@@ -907,7 +907,7 @@ Claim Timestamp: 00:46:28
 Claim: Per a Politico profile of Blake Neff by Ian Ward that the host shows, the article is titled "Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed."
 
 Anchored Artifacts: A-2400.1
-Mentions: N-1, N-162, N-22
+Mentions: N-1, N-161, N-22
 
 Related Nodes:
 
@@ -922,7 +922,7 @@ Claim Timestamp: 00:47:48
 Claim: The Politico profile (author Ian Ward) framed Blake Neff's position as a "maximalist position on free speech" – host notes this is the author's framing, not Neff's verbatim.
 
 Anchored Artifacts: A-2400.2
-Mentions: N-162
+Mentions: N-161
 
 Related Nodes:
 
@@ -937,7 +937,7 @@ Claim Timestamp: 00:45:02
 Claim: In a clip the host plays, Tucker Carlson criticizes Blake Neff's framing that "we may have to make our peace with censorship," reading from and rejecting the premise of the Politico profile.
 
 Anchored Artifacts: A-2401.1
-Mentions: N-1, N-22, N-162
+Mentions: N-1, N-22, N-161
 
 Related Nodes: N-10845
 
@@ -952,7 +952,7 @@ Claim Timestamp: 00:50:04
 Claim: Blake Neff stated verbatim per Politico: "Either we have to make our peace with censorship and explain how we're going to do that or we have to explain how we're going to combat this without censorship. Period. But we've got to confront it."
 
 Anchored Artifacts: A-2400.1
-Mentions: N-162
+Mentions: N-161
 
 Related Nodes: N-10845
 
@@ -1152,7 +1152,7 @@ Claim: The host reads that Chief Jeff Long told reporters over 3,000 people atte
 Transcript Snippet: noting that they had six officers working at the event and Kirk had his own security team.
 
 Anchored Artifacts: A-2393.1
-Mentions: N-275, N-1, N-3
+Mentions: N-273, N-1, N-3
 Related Nodes: N-10012, N-10840
 Tags: relevance:core
 Investigative Direction: Obtain the UVU police staffing plan and the press conference recording.
@@ -1493,7 +1493,7 @@ Claim: The host says, in describing the new TPUSA 2.0 leadership, that they know
 Transcript Snippet: We know Kash Patel. We know Pete Hegsmith. We got We got the Exec office on speed dial.
 
 Anchored Artifacts: 
-Mentions: N-69, N-599, N-3
+Mentions: N-69, N-597, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify documented TPUSA contacts with the Patel FBI, Hegseth Pentagon and White House.
@@ -1655,7 +1655,7 @@ Claim: The host says Tucker Carlson is the only reason Blake Neff got the job wi
 Transcript Snippet: Tucker Carlson had a heart and makes a phone call to help Blake Neff get this job
 
 Anchored Artifacts: 
-Mentions: N-22, N-162, N-1, N-3
+Mentions: N-22, N-161, N-1, N-3
 Related Nodes: N-11057
 Tags: relevance:context
 Investigative Direction: Ask Carlson, Neff and TPUSA how Neff was hired and who recommended him.
@@ -1671,7 +1671,7 @@ Claim: The host says Blake Neff was working for Stu Peters before he got the Cha
 Transcript Snippet: He was actually working for Stu Peters and he calls in effectively a favor to get him this job with Charlie Kirk.
 
 Anchored Artifacts: 
-Mentions: N-162, N-739, N-22, N-1
+Mentions: N-161, N-737, N-22, N-1
 Related Nodes: N-11057
 Tags: relevance:context
 Investigative Direction: Check Neff's employment history between leaving Fox and joining TPUSA.
@@ -1687,7 +1687,7 @@ Claim: The host says Blake Neff was involved in a racism scandal for being a tot
 Transcript Snippet: Blake Knap was involved in this racism scandal for being a total creep online
 
 Anchored Artifacts: 
-Mentions: N-162, N-22
+Mentions: N-161, N-22
 Related Nodes: N-11057
 Tags: relevance:context
 Investigative Direction: Check contemporaneous reporting on the Neff scandal.
@@ -1703,7 +1703,7 @@ Claim: The host says Politico called Blake Neff "Charlie Kirk's lieutenant" in a
 Transcript Snippet: Charlie Kirk's lieutenant has second thoughts.
 
 Anchored Artifacts: A-2400.1
-Mentions: N-162, N-1
+Mentions: N-161, N-1
 Related Nodes: N-10845
 Tags: relevance:context
 Investigative Direction: Obtain the Politico article and compare its headline and subtitle with the host's quotation.
@@ -1719,7 +1719,7 @@ Claim: In the aired Tucker Carlson clip, Carlson says the "maximalist position o
 Transcript Snippet: that's not a Blake Neff quote.
 
 Anchored Artifacts: A-2400.2, A-2401.1
-Mentions: N-22, N-162
+Mentions: N-22, N-161
 Related Nodes: N-10845
 Tags: relevance:context
 Investigative Direction: Check the full Carlson segment and the Politico text to see where Ward wrote the phrase.
@@ -1767,7 +1767,7 @@ Claim: In the clip, Carlson reads what he calls a verbatim Blake Neff quote that
 Transcript Snippet: We got what we wanted on speech and that means we also have to endure a lot of things that were tamped down on before.
 
 Anchored Artifacts: A-2400.1, A-2401.1
-Mentions: N-22, N-162
+Mentions: N-22, N-161
 Related Nodes: N-10845
 Supports: C-3507
 Tags: relevance:context
@@ -1784,7 +1784,7 @@ Claim: The host says Neff and Kolvet are sending out legal letters because they 
 Transcript Snippet: They are either sending out legal letters like they believe now that speech needs to be fought
 
 Anchored Artifacts: 
-Mentions: N-162, N-14, N-1, N-3
+Mentions: N-161, N-14, N-1, N-3
 Related Nodes: N-10000
 Supports: C-8426
 Tags: relevance:context
@@ -1833,7 +1833,7 @@ Claim: The host says, joking about how TPUSA would react to her leave, that she 
 Transcript Snippet: They were probably so excited. Like she's gone for like eight weeks.
 
 Anchored Artifacts: A-3169.1
-Mentions: N-334, N-3
+Mentions: N-332, N-3
 Related Nodes: N-11313
 Tags: relevance:context
 Investigative Direction: Host's own announcement; confirm leave dates and fill-in schedule from the show.
@@ -1914,7 +1914,7 @@ Claim: The host says TPUSA has Matt Tardio on its show and lets him on as long a
 Transcript Snippet: while you are chasing young women down alleys in front of ICE facilities.
 
 Anchored Artifacts: 
-Mentions: N-595, N-2, N-3
+Mentions: N-593, N-2, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify the incident involving Tardio and ICE facilities and the TPUSA appearances referred to.
@@ -1962,7 +1962,7 @@ Investigative Direction: Compare Kolvet's 2019 groyper explanation with his 2025
 - **Artifact verbally referenced but not shown:** Empress Films Instagram employee-shirt image ("slay the patriarchy") is described but not clearly displayed; Empress Films production catalog is verbally summarized rather than shown title-by-title.
 - **Requires human verification:** C-3510 (Aug 28, 2025 Empress Films call) – anchor is host testimonial only.
 - **Possible transcription error:** Caption source is "yt-dlp-auto-android"; minor captioning inaccuracies possible. Verbatim quotes (esp. Tucker Carlson audio A-2401.1, Charlie Kirk audio A-2397.1, Blake Neff quote C-3507) should be cross-checked against raw audio before downstream use.
-- **Ledger ID assumption:** Existing-node IDs for N-1 through N-6 are inferred from protocol example and may not match actual global ledger values. Cross-reference required before downstream episode composition. Wave 1 resolved them: N-4 to N-14 (Andrew Kolvet), N-5 to N-22 (Tucker Carlson), N-6 to N-162 (Blake Neff).
+- **Ledger ID assumption:** Existing-node IDs for N-1 through N-6 are inferred from protocol example and may not match actual global ledger values. Cross-reference required before downstream episode composition. Wave 1 resolved them: N-4 to N-14 (Andrew Kolvet), N-5 to N-22 (Tucker Carlson), N-6 to N-161 (Blake Neff).
 - **Timestamp note:** Video timestamps are approximate, anchored to inline transcript markers; chapter timestamps from the source metadata also provided in the transcript header.
 
 ## 6. Meme Register

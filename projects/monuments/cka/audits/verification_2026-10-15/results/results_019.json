@@ -1,0 +1,808 @@
+[
+ {
+  "claim": "C-9303",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9304",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9305",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9306",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names neither Netanyahu nor the letter addressee.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9307",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9308",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9309",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9310",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9311",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9312",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"no way you are letting these lies fly unless, as I am hearing, unless it is true that there was a big payday\"; conditional dropped.",
+  "fix": {
+   "claim": "The host says there is no way TPUSA leaders are letting these lies stand unless, as she is hearing, it is true that a big payday was on the line."
+  }
+ },
+ {
+  "claim": "C-9313",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9314",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9315",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9316",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"I've also got contracts\", not that she has seen them.",
+  "fix": {
+   "claim": "The host says the people making videos against her at the same time are accepting money through an agent of Israel somehow, and that she has contracts."
+  }
+ },
+ {
+  "claim": "C-9317",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9318",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9319",
+  "episode": 12,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Viewer Marzi only said she confused keyholing and bouncing bullets; the definitions are the host's own explanation.",
+  "fix": {
+   "claim": "The host responds to a viewer comment confusing keyholing and internal bullet bouncing by saying keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage."
+  }
+ },
+ {
+  "claim": "C-9320",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9321",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9322",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9323",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1337",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Woman with the shooter is not N-145 (the aunt); no person named.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1338",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Tyler Robinson not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-42",
+    "N-61"
+   ]
+  }
+ },
+ {
+  "claim": "C-1339",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Kirk.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1340",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim spells \"Broadick\" (as transcript); node is Broderick.",
+  "fix": {
+   "claim": "In footage recorded by Shainer Broderick, his aunt (identified as a Lyman family member) states on camera that she wondered if \"the girl\" had given the shooter items and that there might have been an accomplice."
+  }
+ },
+ {
+  "claim": "C-1341",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Judge name \"Graph\" is transcription of Graf (confirmed Judge Tony Graf Jr., 4th District); unresolved name: Zanger, \"Robert BS\".",
+  "fix": {
+   "claim": "The host says multiple senior officials involved in the case were recent appointments at the time of the event: FBI SAC \"Robert BS\" (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zanger, Judge Tony F. Graf Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner.",
+   "names": [
+    {
+     "wrong": "Graph",
+     "right": "Graf",
+     "source": "https://www.nbcnews.com/news/us-news/judge-decide-whether-tyler-robinson-will-stand-trial-charlie-kirks-ass-rcna595489"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1342",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1343",
+  "episode": 13,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"reports are actually kept private... That's at least what I've learned\"; claim states Utah law as fact, adds \"compel\".",
+  "fix": {
+   "label": "Host Says Utah Autopsy Reports Are Kept Private Unless Family Wishes Release",
+   "claim": "The host says that, as she has learned, autopsy reports in Utah are kept private, and the only way the report would be released is if the immediate family wished it."
+  }
+ },
+ {
+  "claim": "C-1344",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Lee asked about Kirk assassination and loss of evangelical support; meeting itself was about shaping US opinion.",
+  "fix": {
+   "claim": "The host says Benjamin Netanyahu conducted an on-camera meeting with US influencers including Deborah Lee to discuss shaping US opinion, and plays a clip in which Lee asks him about Charlie Kirk's assassination and the potential loss of evangelical support for Israel."
+  }
+ },
+ {
+  "claim": "C-1345",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Elon Musk is not N-143 Larry Ellison; Netanyahu (N-36) is named. TikTok/X/Elon spoken ~29:50-30:10.",
+  "fix": {
+   "mentions": [
+    "N-36"
+   ],
+   "timestamp": "00:29:45"
+  }
+ },
+ {
+  "claim": "C-1346",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Netanyahu named, Deborah Lee not.",
+  "fix": {
+   "mentions": [
+    "N-36"
+   ]
+  }
+ },
+ {
+  "claim": "C-1347",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1348",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Kelly replied only to Florida Dab; no reply to Kisin (\"then they bring... Konstantin Kisin jumps in\").",
+  "fix": {
+   "claim": "Megyn Kelly publicly replied to Florida Dab that she has no obligation to separate herself from anyone and that if he needs her to condemn Candace Owens or Tucker Carlson, she may not be for him.",
+   "mentions": [
+    "N-140",
+    "N-46",
+    "N-22",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-1349",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1350",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Erika/Erikica Mindle",
+  "fix": {}
+ },
+ {
+  "claim": "C-1351",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1352",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Lawyer is Michael Burt (confirmed: Tyler Robinson defense attorney who represented Richard Ramirez); transcript \"Bert\".",
+  "fix": {
+   "claim": "A viewer comment the host reads says that one of Tyler Robinson's defense lawyers, Michael Burt, previously represented Richard Ramirez (\"the Nightstalker\").",
+   "names": [
+    {
+     "wrong": "Michael Bert",
+     "right": "Michael Burt",
+     "source": "https://www.courttv.com/news/lyle-menendezs-trial-attorney-added-to-tyler-robinsons-defense-team/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1353",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Kirk not named in claim.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-3754",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10771",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I guess they're surrounding Megyn Kelly\"; hedge dropped.",
+  "fix": {
+   "claim": "The host says that, for no apparent reason, \"agents\" she compares to Mr. Smith in the Matrix are, she guesses, surrounding Megyn Kelly and demanding that Kelly make a statement against the host and Tucker Carlson."
+  }
+ },
+ {
+  "claim": "C-10772",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10773",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Zanger not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-10774",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10775",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Phil Lyman not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-133"
+   ]
+  }
+ },
+ {
+  "claim": "C-10776",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10777",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10778",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10779",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10780",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"twice confirmed\" is said later (~16:10).",
+  "fix": {}
+ },
+ {
+  "claim": "C-10781",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10782",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10783",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"cousin had already given footage to TMZ\" is the host's inference; name is Kayleigh McEnany.",
+  "fix": {
+   "claim": "The host says Phil Lyman said on a Fox News segment with Kayleigh McEnany that he was at a cousin's house watching live and seeing the footage for the first time, and says that implies the cousin gave footage to TMZ before he could see it."
+  }
+ },
+ {
+  "claim": "C-10784",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10785",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10786",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10787",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"We discover that one person was from Austria\"; not viewers.",
+  "fix": {
+   "claim": "The host says they discovered that one of the people pictured next to Shainer was from Austria."
+  }
+ },
+ {
+  "claim": "C-10788",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10789",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Broderick and Lyman not named in claim. unresolved name: Robbie Hild/Hill.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-10790",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10791",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Tyler Robinson not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ }
+]
