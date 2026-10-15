@@ -114,7 +114,7 @@
             "C-2081"
           ],
           "related_nodes": [
-            "N-804",
+            "N-803",
             "N-10410"
           ],
           "tags": [],
@@ -138,7 +138,7 @@
             "C-2082"
           ],
           "related_nodes": [
-            "N-804",
+            "N-803",
             "N-451",
             "N-10410"
           ],
@@ -341,7 +341,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1627",
       "family_ref": "A-1627",
-      "bundle_name": "Andrew Aguilar Comment Bundle",
+      "bundle_name": "Anthony Aguilar Comment Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -599,8 +599,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-804",
-      "ref": "N-804",
+      "@id": "N-803",
+      "ref": "N-803",
       "name": "Paul Vallely",
       "type": "person",
       "description": "Turning Point USA board member; former military commander of the 7th Psychological Operations Group; co-author of *Mind War* (1980) with Michael Aquino.",
@@ -649,7 +649,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-804",
+        "N-803",
         "N-10410"
       ]
     },
@@ -782,7 +782,7 @@
       "@type": "Person",
       "@id": "N-455",
       "ref": "N-455",
-      "name": "Andrew Aguilar",
+      "name": "Anthony Aguilar",
       "type": "person",
       "description": "Self-identified former Green Beret; claims arrest at US Capitol for calling out AIPAC.",
       "related_artifacts": [
@@ -853,7 +853,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-804",
+        "N-803",
         "N-451"
       ]
     },
@@ -1682,7 +1682,7 @@
       "@id": "C-2077",
       "ref": "C-2077",
       "label": "Host Says Court Petition Filed December 2024 Challenges Alton C. Jennings Will Against TPUSA and YAF",
-      "claim": "The host says, per the lawsuit (which she notes contains only allegations), that a court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging the last will and trust on the grounds of cognitive decline and undue influence by caretaker Mitch Manley Sr.",
+      "claim": "The host says, per the lawsuit (which she notes contains only allegations), that a court petition was filed in December 2024 by Alton C. Jennings's grandson, challenging his last will and trust and alleging cognitive decline and that caretaker Mitch Manley Sr. isolated him and seized control of his finances.",
       "anchored_artifacts": [
         "A-1619.1"
       ],
@@ -1690,7 +1690,7 @@
         "N-10409"
       ],
       "tags": [],
-      "claim_timestamp": "00:13:58",
+      "claim_timestamp": "00:15:40",
       "investigative_direction": "Obtain docket records (case number, court, jurisdiction); verify filing date and parties; confirm allegations are pleaded in the petition.",
       "mentions_person_refs": [
         "N-447",
@@ -1772,7 +1772,7 @@
       "claim_timestamp": "00:18:40",
       "investigative_direction": "Verify TPUSA board membership via official TPUSA disclosures; cross-check military service record.",
       "mentions_person_refs": [
-        "N-804"
+        "N-803"
       ]
     },
     {
@@ -1791,7 +1791,7 @@
       "claim_timestamp": "00:21:42",
       "investigative_direction": "Obtain bibliographic record (publisher, ISBN); verify authorship.",
       "mentions_person_refs": [
-        "N-804",
+        "N-803",
         "N-451"
       ]
     },
@@ -1915,7 +1915,7 @@
       "@id": "C-2089",
       "ref": "C-2089",
       "label": "Twenty-Three Former Residents Expected to File Complaints",
-      "claim": "The law firm representing survivors has stated that twenty-three former residents of the home are expected to bring complaints; most recent complaints were filed in November.",
+      "claim": "The host says the law firm representing the survivors said in a news release that it expects 23 former residents of the Romanian children's home to bring complaints, and that the most recent complaints were filed in November.",
       "anchored_artifacts": [
         "A-1624.3"
       ],
@@ -1924,17 +1924,14 @@
       ],
       "tags": [],
       "claim_timestamp": "00:35:00",
-      "investigative_direction": "Obtain law firm press release; track complaint filings in docket.",
-      "mentions_person_refs": [
-        "N-453"
-      ]
+      "investigative_direction": "Obtain law firm press release; track complaint filings in docket."
     },
     {
       "@type": "Claim",
       "@id": "C-2090",
       "ref": "C-2090",
-      "label": "Scott Adams Died at 68 from Prostate Cancer",
-      "claim": "Scott Adams, creator of *Dilbert*, died at age 68 from prostate cancer; host states he had said he was \"coming to the Lord\" before passing.",
+      "label": "Host Says Scott Adams Died at 68 From Prostate Cancer",
+      "claim": "The host says Scott Adams, creator of Dilbert, died at 68 after losing his battle with prostate cancer, and that he said he was coming to the Lord before he passed.",
       "anchored_artifacts": [
         "A-1625.1"
       ],
@@ -1950,7 +1947,7 @@
       "@type": "Claim",
       "@id": "C-2091",
       "ref": "C-2091",
-      "label": "Social Blade Records Erica Kirk Deleting 126 Instagram Posts on June 19",
+      "label": "Host Says Social Blade Shows Erika Kirk Deleting 126 Instagram Posts on June 19",
       "claim": "Social Blade data records Erica Kirk deleting 126 Instagram posts on June 19.",
       "anchored_artifacts": [
         "A-1626.1"
@@ -1987,8 +1984,8 @@
       "@type": "Claim",
       "@id": "C-2093",
       "ref": "C-2093",
-      "label": "Andrew Aguilar Claims Arrest at US Capitol on September 3 for Calling Out AIPAC",
-      "claim": "Andrew (Anthony) Aguilar, self-identified as a Gaza-whistleblower Green Beret, states he was arrested on September 3 at Congress for calling out AIPAC.",
+      "label": "Comment From Anthony Aguilar Says He Was Arrested in Congress on September 3 for Calling Out AIPAC",
+      "claim": "A comment the host reads, attributed to Anthony Aguilar, the Gaza whistleblower Green Beret, says he was arrested on the 3rd of September in Congress for calling out AIPAC.",
       "anchored_artifacts": [
         "A-1627.1"
       ],
@@ -2005,7 +2002,7 @@
       "@id": "C-2094",
       "ref": "C-2094",
       "label": "Plane SUBTU Traveled to Provo May 23 with Follow-Up May 27, Hosting Wed Mahmoud",
-      "claim": "Host states, per her master timeline, that plane SUBTU arrived in Provo on May 23 (anchor plane) with a follow-up arrival May 27 carrying Wed Mahmoud, and departed June 2; transponders reportedly manipulated to obscure actual flight path.",
+      "claim": "The host says, per her master timeline, that an anchor plane landed in Provo on May 23 and a follow-up plane, tail number SUBTU, came in on May 27 with Wed Mahmoud aboard, and that she has confirmed these planes can trick their transponders so the flights do not show on flight radar; she says it departed Provo on June 2.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2025,10 +2022,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:59",
-      "investigative_direction": "Verify conflict onset date via public news records; cross-check host's timeline against flight records.",
-      "mentions_person_refs": [
-        "N-307"
-      ]
+      "investigative_direction": "Verify conflict onset date via public news records; cross-check host's timeline against flight records."
     },
     {
       "@type": "Claim",
@@ -2039,7 +2033,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:01:19",
       "investigative_direction": "Identify the retreat and the influencers present; obtain a recording, slides or an Ackman statement confirming the presentation.",
@@ -2163,7 +2157,7 @@
       "@type": "Claim",
       "@id": "C-12530",
       "ref": "C-12530",
-      "label": "Tucker Says Voters Should Not Want Emotionally Incontinent People on Foreign Payrolls Deciding for an Empire",
+      "label": "Tucker Says Flighty, Emotionally Incontinent People on Foreign Payrolls Should Not Make an Empire's Decisions",
       "claim": "In the clip the host plays, Tucker Carlson says an empire should not have flighty, emotionally incontinent, silly people on the payroll of foreign nations making its decisions, and gives Lindsey Graham as an example.",
       "anchored_artifacts": [
         "A-1618.1"
@@ -2464,7 +2458,7 @@
       "@id": "C-12543",
       "ref": "C-12543",
       "label": "Host Says the U.S. Carried Out a Limited Bombing and Commentators Declared the Iran War Over",
-      "claim": "The host says the U.S. decided to bomb in a limited military exercise, after which everyone said the war with Iran was over and the people predicting a wider war were wrong.",
+      "claim": "The host says the U.S. decided to bomb in a limited military exercise, after which everyone said the war with Iran was over and the people warning of a wider war were wrong, but she and her side insisted they were not wrong.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11079"
@@ -2721,7 +2715,7 @@
       "investigative_direction": "Check Army records and the foreword or biography in Mind War for Aquino's and Vallely's units and roles.",
       "transcript_snippet": "he collaborated with a major that was working under him.",
       "mentions_person_refs": [
-        "N-804",
+        "N-803",
         "N-451"
       ]
     },
@@ -2745,7 +2739,7 @@
       "transcript_snippet": "Aside from being an intelligence officer and an expert of psychological warfare, just like Paul Vallely, uh, doing this on behalf of our military, he's also an open Satanist.",
       "mentions_person_refs": [
         "N-451",
-        "N-804"
+        "N-803"
       ]
     },
     {
@@ -3000,8 +2994,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-452",
-        "N-14"
+        "N-452"
       ]
     },
     {
@@ -3049,8 +3042,7 @@
         "C-7944"
       ],
       "mentions_person_refs": [
-        "N-453",
-        "N-452"
+        "N-453"
       ]
     },
     {
@@ -3149,7 +3141,7 @@
       "@id": "C-12573",
       "ref": "C-12573",
       "label": "Host Says Her Military Sources Describe a Deal That Leaves People on Bases Immune to Prosecution",
-      "claim": "The host says people on foreign military bases are quite immune to prosecution because of a deal struck between governments allowing them to do what they want on base; she attributes this to people she reached out to.",
+      "claim": "The host says military people, and people adjacent to the military, who go abroad are quite immune to prosecution because of a deal struck between governments allowing them to do whatever they want on their base; she says she reached out to people about it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11339",

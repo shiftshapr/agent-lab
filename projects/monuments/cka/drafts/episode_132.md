@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 0c6891ad36263abc11507dbd0ee8c311c57724a7637f1dad75f8f5da6bc40c1e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-825, N-826, N-11205, N-11206
+  - Tip-minted Nodes (supplement_2026-10c): N-824, N-825, N-11205, N-11206
   - Claim Range (supplement_2026-10c): C-9007–C-9086
-  - Reused Nodes Appearing: N-10751, N-5, N-7, N-27, N-36, N-40, N-82, N-178, N-192, N-268, N-454, N-495, N-496, N-639, N-713, N-741, N-803, N-10000, N-10003, N-10004, N-10006, N-10012, N-10021, N-10022, N-10070, N-10075, N-10094, N-10139, N-10369, N-10385, N-10398, N-10483, N-10537, N-10641, N-10692, N-10705, N-10729, N-10740, N-10743, N-10944, N-11053, N-11149, N-11202, N-11203, N-11204
+  - Reused Nodes Appearing: N-10751, N-5, N-7, N-27, N-36, N-40, N-82, N-178, N-192, N-268, N-454, N-495, N-496, N-639, N-713, N-741, N-802, N-10000, N-10003, N-10004, N-10006, N-10012, N-10021, N-10022, N-10070, N-10075, N-10094, N-10139, N-10369, N-10385, N-10398, N-10483, N-10537, N-10641, N-10692, N-10705, N-10729, N-10740, N-10743, N-10944, N-11053, N-11149, N-11202, N-11203, N-11204
  - New Nodes Introduced: N-10749, N-10750, N-10751, N-10752, N-10753
  - Hole-minted Nodes (wave3): N-528
  - Reused Nodes Appearing: none (Wave 2: local ids removed), N-489, N-494
@@ -866,7 +866,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-803** Harris Faulkner
+**N-802** Harris Faulkner
 
 Fox News host who interviewed Erika Kirk about the burial location; first named by the host at 00:12:01 in episode 132.
 
@@ -874,7 +874,7 @@ Fox News host who interviewed Erika Kirk about the burial location; first named 
 
 ---
 
-**N-825** Vivian Kubrick
+**N-824** Vivian Kubrick
 
 Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowded event on X; first named by the host at 00:26:09 in episode 132.
 
@@ -882,7 +882,7 @@ Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowde
 
 ---
 
-**N-826** Devante West
+**N-825** Devante West
 
 Instagram account holder whose clip mocking Christian speak the host plays; first named by the host at 00:30:12 in episode 132 (spelled Devonte West once).
 
@@ -1517,7 +1517,7 @@ Claim: The host says that on her book tour Erika Kirk was set up by Harris Faulk
 Transcript Snippet: a book tour where Harris Faulkner on Fox News set her up with a question about how dark it would be.
 
 Anchored Artifacts: A-2191.1
-Mentions: N-803, N-2, N-1
+Mentions: N-802, N-2, N-1
 Related Nodes: N-10006, N-10751
 Tags: relevance:core
 Investigative Direction: Obtain the full Fox News segment and any pre-interview arrangements.
@@ -1875,7 +1875,7 @@ Claim: The host says Vivian Kubrick, Stanley Kubrick's daughter, posted on X tha
 Transcript Snippet: I was very happy to see Stanley Kubrick's daughter Vivian Kubrick actually. She's been amazing on X and she just took this event and was like no one knows what these people are saying.
 
 Anchored Artifacts: 
-Mentions: N-825, N-3
+Mentions: N-824, N-3
 Related Nodes: N-11203
 Tags: relevance:tangential
 Investigative Direction: Retrieve Vivian Kubrick's X post.
@@ -1907,7 +1907,7 @@ Claim: The host says the Instagram account holder Devante West mocks the new cul
 Transcript Snippet: The account holder on Instagram is Devante West and he just mocks broadly speaking. So this is not about Erika.
 
 Anchored Artifacts: A-2195.1
-Mentions: N-826, N-2
+Mentions: N-825, N-2
 Tags: relevance:tangential
 Investigative Direction: Retrieve the Instagram post and confirm the account holder's name.
 

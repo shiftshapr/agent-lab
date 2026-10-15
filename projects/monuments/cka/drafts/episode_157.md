@@ -12,11 +12,11 @@
 - **Model Version**: grok-manual-extract-seq157
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-755, N-757, N-11074, N-11075, N-11076, N-11077, N-11078, N-11081
+  - Tip-minted Nodes (supplement_2026-10): N-754, N-756, N-11074, N-11075, N-11076, N-11077, N-11078, N-11081
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-6171–C-6285
   - New Nodes Introduced: N-10859, N-10861
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-273, N-226, N-268, N-7, N-272, N-161, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12, N-10862, N-10863, N-5, N-9, N-19, N-22, N-36, N-37, N-40, N-46, N-59, N-69, N-85, N-192, N-219, N-229, N-333, N-363, N-380, N-491, N-508, N-537, N-669, N-10012, N-10018, N-10027, N-10074, N-10117, N-10122, N-10129, N-10219, N-10253, N-10264, N-10276, N-10324, N-10342, N-10347, N-10356, N-10366, N-10388, N-10412, N-10446, N-10456, N-10539, N-10651, N-10673, N-10674, N-10687, N-10699, N-10700, N-10725, N-10784, N-10841, N-10870, N-10871, N-10888, N-10925, N-756, N-10860, N-11080, N-228, N-11079, N-758
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-273, N-226, N-268, N-7, N-272, N-161, N-10221, N-10243, N-10645, N-10373, N-10675, N-10694, N-10839, N-10840, N-8, N-10, N-11, N-12, N-10862, N-10863, N-5, N-9, N-19, N-22, N-36, N-37, N-40, N-46, N-59, N-69, N-85, N-192, N-219, N-229, N-333, N-363, N-380, N-491, N-508, N-537, N-669, N-10012, N-10018, N-10027, N-10074, N-10117, N-10122, N-10129, N-10219, N-10253, N-10264, N-10276, N-10324, N-10342, N-10347, N-10356, N-10366, N-10388, N-10412, N-10446, N-10456, N-10539, N-10651, N-10673, N-10674, N-10687, N-10699, N-10700, N-10725, N-10784, N-10841, N-10870, N-10871, N-10888, N-10925, N-755, N-10860, N-11080, N-228, N-11079, N-757
   - (see registers)
   - Person band: persons minted in this quality pass use N-8+ (see node register). Minted here or reused: Maycee Crofts, Caleb Chilcutt, Tyler Bowyer, Kip Crofts. Baron Coleman spelling corrected, no new person.
 
@@ -369,7 +369,7 @@ Video Timestamp: 00:35:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-6174, C-6190, C-6191, C-6192, C-6193, C-6213, C-6214, C-6215, N-8, N-273, N-755*
+*Related: C-6174, C-6190, C-6191, C-6192, C-6193, C-6213, C-6214, C-6215, N-8, N-273, N-754*
 
 ---
 
@@ -1323,7 +1323,7 @@ Organization whose finances are the subject of the missing money rumors.
 
 ---
 
-**N-755** Robin Emer
+**N-754** Robin Emer
 
 Node Type: Person
 First named by the host at 00:36:24 in episode 157 as UVU's director of emergency management and safety who expressed reservations at the August 25 MEAC meeting.
@@ -1333,7 +1333,7 @@ Aliases (transcript spelling): Robin Emer.
 
 ---
 
-**N-756** Astrid Tuminez
+**N-755** Astrid Tuminez
 
 Node Type: Person
 First named by the host at 00:23:46 in episode 157 as UVU President, in the transcript spelling Tumz.
@@ -1343,7 +1343,7 @@ Aliases (transcript spelling): Tumz. The full name is not stated in this transcr
 
 ---
 
-**N-757** Alana Minton
+**N-756** Alana Minton
 
 Node Type: Person
 First named by the host at 01:11:03 in episode 157 as the Canyon County prosecuting attorney who told the judge the classroom door may have been locked.
@@ -1352,7 +1352,7 @@ First named by the host at 01:11:03 in episode 157 as the Canyon County prosecut
 
 ---
 
-**N-758** Claire Ginan
+**N-757** Claire Ginan
 
 Node Type: Person
 First named by the host at 01:27:40 in episode 157 as the writer of a June 26 Jezebel article with no prior writing profile.
@@ -2001,7 +2001,7 @@ Claim: The host reads that UVU President Tumz requested updates regarding event 
 Transcript Snippet: UVU President Tumz requested updates regarding event planning on the 31st.
 
 Anchored Artifacts: A-2802.4
-Mentions: N-756
+Mentions: N-755
 Related Nodes: N-10012
 Investigative Direction: Obtain the president's office request and the response it received.
 
@@ -2276,7 +2276,7 @@ Claim: The host reads that Crofts said she preferred that TPUSA manage online ti
 Transcript Snippet: She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix.
 
 Anchored Artifacts: A-2802.6
-Mentions: N-8, N-755
+Mentions: N-8, N-754
 Related Nodes: N-11077
 Investigative Direction: Obtain Emer's statements to the review team on her reservations and the committee's decision rationale.
 
@@ -3096,7 +3096,7 @@ Claim: The host says Canyon County prosecuting attorney Alana Minton told the ju
 Transcript Snippet: the Canyon County prosecuting attorney Alana Minton told the judge that a new piece of information came to light
 
 Anchored Artifacts: A-2457.1, A-2804.4
-Mentions: N-757, N-12
+Mentions: N-756, N-12
 Related Nodes: 
 Investigative Direction: Obtain the hearing transcript and dismissal order from the Canyon County court.
 
@@ -3353,7 +3353,7 @@ Claim: The host says that on June 26 Claire Ginan wrote her first article for Je
 Transcript Snippet: on June 26th is when suddenly Claire Ginan writes her first article for Jezebel.
 
 Anchored Artifacts: A-2456.1
-Mentions: N-758
+Mentions: N-757
 Related Nodes: N-10122, N-10117
 Investigative Direction: Check Ginan's byline history and the publication date of the Jezebel article.
 

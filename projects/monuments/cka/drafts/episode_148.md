@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a2dc76d34975c9abe510df358ab1de54f418f9e78f0eceb43fa1e5c1aa410541
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-794
+  - Tip-minted Nodes (supplement_2026-10b): N-793
   - Claim Range (supplement_2026-10b): C-7693–C-7775
   - (see registers)
 
@@ -875,7 +875,7 @@ Existing topic reused for the Restaurantology attendance claim.
 
 ---
 
-**N-794** Ebro Darden
+**N-793** Ebro Darden
 
 First named by the host (as Ebro) at 00:28:04 in episode 148. Radio host named in Ye's TMZ clip, who Ye says declined to have the host on his show. Aliases: Ebro.
 
@@ -1497,7 +1497,7 @@ Claim: In the TMZ clip played by the host, Ye says he FaceTimed Ebro with Candac
 Transcript Snippet: I said, "Yo, you going to have Candace on your show?" He's like, "Nah, I'm not. She's mean."
 
 Anchored Artifacts: A-2344.1
-Mentions: N-27, N-3, N-794
+Mentions: N-27, N-3, N-793
 Related Nodes: N-10011
 Tags: relevance:tangential
 Investigative Direction: Identify the date of the TMZ interview and Ebro Darden's account, if any, of the exchange.

@@ -1591,7 +1591,7 @@ Confidence: high
 - **Transcription ambiguities**: "an aspirin three weeks before" (17:28) is likely "an aspiration"; kept as transcribed. "Eric Richens" vs "Kouri Richins" and "Kouri D. Richins" kept as spoken. "in combat minutes" (06:34) is unclear. The 28:40–30:40 and 46:20–47:58 gaps are breaks with no transcript.
 - **Duration**: the skeleton meta gave 00:56:29; the range was reset to the transcript front-matter duration 57:23.
 - **Not inscribed as claims (admission test)**:
-  - The host's speculation that the board member was "maybe like a Doug DeGroot, like Miller" (31:39), which she calls "a shot in the dark". "Miller" is unidentifiable.
+  - The host's speculation that the board member was "maybe like a Doug DeGroote, like Miller" (31:39), which she calls "a shot in the dark". "Miller" is unidentifiable.
   - "you're protecting someone" and the inference that Marx was informed by someone at the hospital (kept only within C-4264)
   - Characterizations of Marx as arrogant, "soft", "emotionally unstable", and the viewer allegation of emotional abuse
   - The "three-year-old beheading a cat" comparison

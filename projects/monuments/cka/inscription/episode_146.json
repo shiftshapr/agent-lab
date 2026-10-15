@@ -1686,8 +1686,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-793",
-      "ref": "N-793",
+      "@id": "N-792",
+      "ref": "N-792",
       "name": "Todd Starns",
       "type": "person",
       "description": "First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Starnes). Fox News figure who interviewed Jack Hibbs on audio.",
@@ -2702,7 +2702,7 @@
       "mentions_person_refs": [
         "N-210",
         "N-248",
-        "N-793",
+        "N-792",
         "N-1"
       ]
     },

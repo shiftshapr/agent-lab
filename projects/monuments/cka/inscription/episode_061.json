@@ -127,7 +127,7 @@
           "@type": "Artifact",
           "@id": "A-1664.1",
           "ref": "A-1664.1",
-          "description": "Vogue article on the Beckham–Peltz wedding read on-air, describing the ceremony, dinner, three-dance sequence, and Mark Anthony's late-night DJ set beginning at 11 p.m.",
+          "description": "Vogue article on the Beckham–Peltz wedding read on-air, describing the ceremony, dinner, three-dance sequence, and Marc Anthony's late-night DJ set beginning at 11 p.m.",
           "related_claims": [
             "C-2176",
             "C-2177"
@@ -273,7 +273,7 @@
           "related_nodes": [
             "N-3",
             "N-483",
-            "N-887"
+            "N-886"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1260,8 +1260,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-885",
-      "ref": "N-885",
+      "@id": "N-884",
+      "ref": "N-884",
       "name": "Tree Paine",
       "type": "person",
       "description": "First named by the host at 00:24:22 in episode 61 (as 'Tree', Taylor Swift's publicist/agent). Surname inferred; the transcript gives only the first name.",
@@ -1277,11 +1277,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-886",
-      "ref": "N-886",
+      "@id": "N-885",
+      "ref": "N-885",
       "name": "Marc Anthony",
       "type": "person",
-      "description": "First named by the host at 00:43:16 in episode 61 (transcribed 'Mark Anthony'). Singer the host says performed the late-night set at the Beckham wedding.",
+      "description": "First named by the host at 00:43:16 in episode 61 (transcribed 'Marc Anthony'). Singer the host says performed the late-night set at the Beckham wedding.",
       "related_artifacts": [],
       "related_claims": [
         "C-11159"
@@ -1294,8 +1294,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-887",
-      "ref": "N-887",
+      "@id": "N-886",
+      "ref": "N-886",
       "name": "Marty Singer",
       "type": "person",
       "description": "First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola Peltz hired to sue a dog-grooming company.",
@@ -1311,8 +1311,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-888",
-      "ref": "N-888",
+      "@id": "N-887",
+      "ref": "N-887",
       "name": "Nelson Peltz",
       "type": "person",
       "description": "First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Pelts'). Father of Nicola Peltz; the host says he sued over a wedding contract.",
@@ -1328,8 +1328,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-889",
-      "ref": "N-889",
+      "@id": "N-888",
+      "ref": "N-888",
       "name": "Justin Anderson",
       "type": "person",
       "description": "First named by the host at 00:50:27 in episode 61. Hair stylist the host says called Nicola Peltz awful.",
@@ -1345,8 +1345,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-890",
-      "ref": "N-890",
+      "@id": "N-889",
+      "ref": "N-889",
       "name": "Selena Gomez",
       "type": "person",
       "description": "First named by the host at 00:51:35 in episode 61. The host says her friendship with Nicola Peltz fell apart.",
@@ -1362,11 +1362,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-891",
-      "ref": "N-891",
+      "@id": "N-890",
+      "ref": "N-890",
       "name": "Anwar Hadid",
       "type": "person",
-      "description": "First named by the host at 00:51:35 in episode 61 (transcribed 'Anoir Hadid'). The host says he dated Nicola Peltz.",
+      "description": "First named by the host at 00:51:35 in episode 61 (transcribed 'Anwar Hadid'). The host says he dated Nicola Peltz.",
       "related_artifacts": [],
       "related_claims": [
         "C-11169"
@@ -1448,8 +1448,6 @@
       "claim_timestamp": "00:01:13",
       "investigative_direction": "Obtain a certified copy of the letter with counsel's signature block and service date to verify the precise transmission date.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2",
         "N-3"
       ]
     },
@@ -1470,7 +1468,7 @@
       "investigative_direction": "Compare the prohibited scope articulated in the letter with Owens's prior on-air statements to identify specific statements TPUSA considers actionable.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -1489,7 +1487,8 @@
       "claim_timestamp": "00:13:00–00:14:10",
       "investigative_direction": "Identify the unnamed TPUSA employee, obtain the underlying correspondence, and verify whether any Fort Huachuca meeting is independently documented.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-3"
       ]
     },
     {
@@ -1508,7 +1507,7 @@
       "claim_timestamp": "00:12:24–00:13:19",
       "investigative_direction": "Identify the specific personnel Owens considers \"military operatives\" and determine whether any verifiable affiliation exists.",
       "mentions_person_refs": [
-        "N-17"
+        "N-3"
       ]
     },
     {
@@ -1525,7 +1524,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:50–00:11:31",
-      "investigative_direction": "Compare the TPUSA letter's characterization with Owens's actual on-air wording to assess whether the paraphrase is fair."
+      "investigative_direction": "Compare the TPUSA letter's characterization with Owens's actual on-air wording to assess whether the paraphrase is fair.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1561,7 +1563,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:53–00:10:50",
-      "investigative_direction": "Obtain the executed speaking agreement to verify the existence, scope, and duration of the non-disparagement clause."
+      "investigative_direction": "Obtain the executed speaking agreement to verify the existence, scope, and duration of the non-disparagement clause.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1577,14 +1582,17 @@
       ],
       "tags": [],
       "claim_timestamp": "00:08:25–00:09:12",
-      "investigative_direction": "Obtain the December 15, 2025 communication and any prior December 2 and December 4 letters referenced in the cease and desist."
+      "investigative_direction": "Obtain the December 15, 2025 communication and any prior December 2 and December 4 letters referenced in the cease and desist.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-2166",
       "ref": "C-2166",
       "label": "Tim Dillon assessed TPUSA as primarily motivated by money",
-      "claim": "Tim Dillon stated on-air that TPUSA is primarily motivated by money – specifically, that they are \"mad\" because Owens told her audience not to give TPUSA money.",
+      "claim": "In a clip the host plays, Tim Dillon says TPUSA wants people's money and wants to be celebrities, and that they are mad because Owens told her audience not to give TPUSA money.",
       "anchored_artifacts": [
         "A-1662.1"
       ],
@@ -1596,7 +1604,8 @@
       "claim_timestamp": "00:04:39",
       "investigative_direction": "Identify the original Tim Dillon episode and timestamp for the quoted clip.",
       "mentions_person_refs": [
-        "N-279"
+        "N-279",
+        "N-3"
       ]
     },
     {
@@ -1626,7 +1635,7 @@
       "@id": "C-2168",
       "ref": "C-2168",
       "label": "Owens states speaking arrangement with TPUSA began ~2019–2020",
-      "claim": "Owens states she has had a speaking contract with Turning Point USA \"going back to like 2019, 2020.\"",
+      "claim": "Owens states she has had a speaking contract with Turning Point USA \"going back to like what 2019 2020.\"",
       "anchored_artifacts": [
         "A-1661.1"
       ],
@@ -1635,14 +1644,17 @@
       ],
       "tags": [],
       "claim_timestamp": "00:06:17–00:07:37",
-      "investigative_direction": "Obtain the original contract and any amendments to verify the start date."
+      "investigative_direction": "Obtain the original contract and any amendments to verify the start date.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-2169",
       "ref": "C-2169",
       "label": "Owens states her TPUSA speaking contract was terminated December 2, 2025",
-      "claim": "Owens states her speaking arrangement with TPUSA was terminated effective December 2, 2025.",
+      "claim": "The host reads the TPUSA letter, which states that Owens's agreements with TPUSA were terminated on December 2, 2025.",
       "anchored_artifacts": [
         "A-1661.1"
       ],
@@ -1650,8 +1662,11 @@
         "N-10432"
       ],
       "tags": [],
-      "claim_timestamp": "00:06:17–00:07:37",
-      "investigative_direction": "Cross-reference with the cease and desist letter's stated termination date and obtain a termination confirmation document."
+      "claim_timestamp": "00:10:35",
+      "investigative_direction": "Cross-reference with the cease and desist letter's stated termination date and obtain a termination confirmation document.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -1669,7 +1684,8 @@
       "claim_timestamp": "00:12:24–00:13:19",
       "investigative_direction": "Identify the specific individual and case to which Owens refers.",
       "mentions_person_refs": [
-        "N-17"
+        "N-17",
+        "N-3"
       ]
     },
     {
@@ -1686,8 +1702,7 @@
       "claim_timestamp": "00:34:18",
       "investigative_direction": "Obtain the original Stories frames before deletion if preservation has not yet occurred.",
       "mentions_person_refs": [
-        "N-482",
-        "N-484"
+        "N-482"
       ]
     },
     {
@@ -1733,16 +1748,17 @@
       "@id": "C-2174",
       "ref": "C-2174",
       "label": "Brooklyn claims mother called him \"evil\" at the wedding over seating",
-      "claim": "Brooklyn Beckham alleges his mother called him \"evil\" because he and Nicola chose to seat their nannies' widowed grandparents at the head table.",
+      "claim": "Brooklyn Beckham alleges his mother called him \"evil\" because he and Nicola chose to include his nanny and Nicola's nanny, two grandparents whose husbands were not there, at their table.",
       "anchored_artifacts": [
         "A-1663.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:38:22",
+      "claim_timestamp": "00:38:04",
       "investigative_direction": "Identify any wedding guests who can corroborate or rebut the alleged remark.",
       "mentions_person_refs": [
         "N-482",
+        "N-483",
         "N-484"
       ]
     },
@@ -1751,7 +1767,7 @@
       "@id": "C-2175",
       "ref": "C-2175",
       "label": "Brooklyn claims mother hijacked his first dance with his wife",
-      "claim": "Brooklyn Beckham alleges that his mother, called to the stage by Marc Anthony, hijacked what had been planned as his romantic first dance with Nicola.",
+      "claim": "Brooklyn Beckham alleges that his mother hijacked what had been planned as his romantic first dance with Nicola: Marc Anthony called him to the stage, and his mother danced inappropriately with him in front of the guests.",
       "anchored_artifacts": [
         "A-1663.1",
         "A-1664.1"
@@ -1762,15 +1778,17 @@
       "investigative_direction": "Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to \"Only Fools Rush In\" preceding the alleged late-night incident.",
       "mentions_person_refs": [
         "N-482",
-        "N-484"
+        "N-483",
+        "N-484",
+        "N-885"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2176",
       "ref": "C-2176",
-      "label": "Vogue reports first dance was to \"Only Fools Rush In\" performed by Lizo",
-      "claim": "The Vogue wedding article reports that the first dance between Brooklyn and Nicola was to \"Only Fools Rush In,\" performed by South African artist Lizo.",
+      "label": "Vogue reports first dance was to \"Only Fools Rush In\" performed by Lloyiso",
+      "claim": "The Vogue wedding article reports that the first dance between Brooklyn and Nicola was to \"Only Fools Rush In,\" performed by South African artist Lloyiso.",
       "anchored_artifacts": [
         "A-1664.1"
       ],
@@ -1780,9 +1798,7 @@
       "investigative_direction": "Cross-reference with the original Vogue article text and any available wedding video.",
       "mentions_person_refs": [
         "N-482",
-        "N-483",
-        "N-484",
-        "N-485"
+        "N-483"
       ]
     },
     {
@@ -1790,7 +1806,7 @@
       "@id": "C-2177",
       "ref": "C-2177",
       "label": "Vogue reports Marc Anthony performed at late-night portion of wedding (11 p.m.)",
-      "claim": "The Vogue wedding article reports that Marc Anthony took over the DJ decks at 11 p.m. to close out the wedding celebrations.",
+      "claim": "The host reads from the Vogue wedding article that Marc Anthony took over the DJ decks to close out the celebrations; she says his late-night set started at 11 p.m.",
       "anchored_artifacts": [
         "A-1664.1"
       ],
@@ -1799,8 +1815,7 @@
       "claim_timestamp": "00:42:09–00:43:16",
       "investigative_direction": "Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.",
       "mentions_person_refs": [
-        "N-482",
-        "N-483"
+        "N-885"
       ]
     },
     {
@@ -1856,15 +1871,14 @@
       "claim_timestamp": "00:58:55",
       "investigative_direction": "Verify the firings count through internal TPUSA communications or reporting; identify which positions were terminated.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2181",
       "ref": "C-2181",
-      "label": "Aspen donor recalls Charlie Kirk referencing Erica Kirk as someone who would \"know what to do\"",
+      "label": "Aspen Donor Recalls Charlie Kirk Referencing Erika Kirk as Someone Who Would \"Know What to Do\"",
       "claim": "An unnamed donor present at the Aspen event reportedly recalls Kirk referencing Erica Kirk by saying that if something happened, she would know what to do.",
       "anchored_artifacts": [
         "A-1668.1"
@@ -2023,7 +2037,10 @@
       ],
       "claim_timestamp": "00:09:12",
       "investigative_direction": "Obtain any damages calculation or demand TPUSA later serves, and compare with the letter's claim of substantial and continuing injury.",
-      "transcript_snippet": "We are currently working to calculate the full extent to date of the still acrewing damages."
+      "transcript_snippet": "We are currently working to calculate the full extent to date of the still acrewing damages.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -2044,7 +2061,10 @@
       ],
       "claim_timestamp": "00:09:53",
       "investigative_direction": "Compare the letter's description with the actual non-disparagement clause text in the executed agreement.",
-      "transcript_snippet": "not to make any disparaging, false, misleading, or otherwise defamatory comments about Turning Point USA and/or its employees, agents, directors, officers, affiliate programs, or services."
+      "transcript_snippet": "not to make any disparaging, false, misleading, or otherwise defamatory comments about Turning Point USA and/or its employees, agents, directors, officers, affiliate programs, or services.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -2065,7 +2085,10 @@
       ],
       "claim_timestamp": "00:09:53",
       "investigative_direction": "Obtain call, text and meeting logs between Owens and TPUSA executives for December 2025 to January 2026.",
-      "transcript_snippet": "Turning Point USA's executives have repeatedly made themselves available via phone, text, and in-person meetings to provide information and documentation."
+      "transcript_snippet": "Turning Point USA's executives have repeatedly made themselves available via phone, text, and in-person meetings to provide information and documentation.",
+      "mentions_person_refs": [
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -2196,7 +2219,7 @@
       "@id": "C-11127",
       "ref": "C-11127",
       "label": "Host says TPUSA then conceded Charlie had texted in a special app and also messaged Dan Flood",
-      "claim": "The host says that after Erika Kirk's statement, TPUSA told her that Charlie did send such a message in a 'special' app, and that he also messaged Dan Flood, which she had not known because she was not talking to Flood.",
+      "claim": "The host says that after Erika Kirk's statement, TPUSA responded, in her paraphrase, that Charlie did send such a message but they had not known because it was in a 'special' app, and that he also messaged Dan Flood, which they had not known because they were not talking to Flood.",
       "anchored_artifacts": [
         "A-1661.1"
       ],
@@ -2208,7 +2231,7 @@
       ],
       "claim_timestamp": "00:12:24",
       "investigative_direction": "Obtain the night-before messages themselves, the app used and TPUSA's written explanation of why it was not disclosed earlier.",
-      "transcript_snippet": "Yeah. No, he did. I didn't know cuz it was in a special, you know, app. Yeah. He also messaged Dan Fly.",
+      "transcript_snippet": "Yeah. No, he did. I didn't know cuz it was in a special, you know, app. Yeah. He also messaged Dan Flood.",
       "contradicts_claim_refs": [
         "C-11126"
       ],
@@ -2315,8 +2338,7 @@
       "investigative_direction": "Obtain the exact request wording and what TPUSA sent instead.",
       "transcript_snippet": "But to date, they haven't sent me what I asked for. So I told the truth.",
       "mentions_person_refs": [
-        "N-3",
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -2368,7 +2390,7 @@
       "@id": "C-11134",
       "ref": "C-11134",
       "label": "Host says she has barely covered TPUSA's finances",
-      "claim": "The host says she is not asserting that TPUSA's charitable spending is improper, that 'we've barely covered their finances,' and that what TPUSA wants is money.",
+      "claim": "The host says she is not saying TPUSA's charitable spending is improper, that 'we've barely covered their finances,' and that she thinks what TPUSA wants is people's money.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10433",
@@ -2409,8 +2431,8 @@
       "@type": "Claim",
       "@id": "C-11136",
       "ref": "C-11136",
-      "label": "Host says Kirk's assassination was an unforeseeable circumstance under her contract and the clause unconscionable",
-      "claim": "The host says she told her lawyer the non-disparagement clause is open to challenge, arguing that Charlie Kirk's public assassination was an unforeseeable circumstance when she signed and that the clause is unconscionable.",
+      "label": "Host Says Kirk's Assassination Was an Unforeseeable Circumstance Under Her Contract",
+      "claim": "The host says she asked her lawyer how TPUSA could use the non-disparagement clause, and that she thinks it would be fair to argue Charlie Kirk's public assassination was an unforeseeable circumstance when she signed, adding that there are strong arguments about unconscionable clauses and that it would be unconscionable for her to choose silence.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11180",
@@ -2512,7 +2534,7 @@
         "N-3",
         "N-488",
         "N-486",
-        "N-885"
+        "N-884"
       ]
     },
     {
@@ -2963,13 +2985,13 @@
       ],
       "claim_timestamp": "00:43:16",
       "investigative_direction": "Review wedding video of Marc Anthony's late-night set.",
-      "transcript_snippet": "Mark Anthony said, \"Now inviting the most beautiful woman to the floor.\" And then he said, \"Victoria Beckham.\"",
+      "transcript_snippet": "Marc Anthony said, \"Now inviting the most beautiful woman to the floor.\" And then he said, \"Victoria Beckham.\"",
       "supports_claim_refs": [
         "C-2175"
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-886",
+        "N-885",
         "N-484"
       ]
     },
@@ -3091,7 +3113,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-483",
-        "N-887"
+        "N-886"
       ]
     },
     {
@@ -3136,7 +3158,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-483",
-        "N-888"
+        "N-887"
       ]
     },
     {
@@ -3156,14 +3178,14 @@
       "mentions_person_refs": [
         "N-3",
         "N-483",
-        "N-889"
+        "N-888"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-11168",
       "ref": "C-11168",
-      "label": "Host says Nicola Peltz's friendship with Selena Gomez has fallen apart",
+      "label": "Host Says Nicola Peltz's Relationship with Selena Gomez Has Fallen Apart",
       "claim": "The host says Nicola Peltz's relationship with Selena Gomez has fallen apart.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -3176,7 +3198,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-483",
-        "N-890"
+        "N-889"
       ]
     },
     {
@@ -3184,7 +3206,7 @@
       "@id": "C-11169",
       "ref": "C-11169",
       "label": "Host says Nicola Peltz dated Anwar Hadid and his family was relieved when it ended",
-      "claim": "The host says Nicola Peltz was dating Anwar Hadid, that he stopped talking to his family, and that they were relieved when the couple broke up.",
+      "claim": "The host says Nicola Peltz was dating Anwar Hadid, Bella Hadid's brother, that he stopped talking to his whole family, and that they were very relieved when the couple broke up, adding 'allegedly' about the family's view of her.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3192,11 +3214,11 @@
       ],
       "claim_timestamp": "00:51:35",
       "investigative_direction": "Check reporting on the relationship and the Hadid family's reaction.",
-      "transcript_snippet": "She was dating Anoir Hadid, Bella Hadid's brother",
+      "transcript_snippet": "She was dating Anwar Hadid, Bella Hadid's brother",
       "mentions_person_refs": [
         "N-3",
         "N-483",
-        "N-891",
+        "N-890",
         "N-544"
       ]
     },
@@ -3249,7 +3271,7 @@
       "@id": "C-11172",
       "ref": "C-11172",
       "label": "Host says more people are speaking and she is researching new information",
-      "claim": "The host calls the TPUSA firings 'weird loyalty tests' that will not serve them, and says more people are now speaking and she is getting and researching a lot.",
+      "claim": "The host calls the TPUSA firings 'weird loyalty tests' that she does not think are going to serve them, and says more people are now speaking and she is getting and researching a lot.",
       "anchored_artifacts": [
         "A-1667.1"
       ],
@@ -3407,7 +3429,7 @@
       "@id": "C-11179",
       "ref": "C-11179",
       "label": "Host says a lawsuit would give her depositions, discovery and access to text messages for a timeline",
-      "claim": "The host says that a lawsuit means depositions and discovery, giving her access to text messages for a timeline.",
+      "claim": "A viewer comment the host reads says a lawsuit means loads of depositions and discovery; the host says she would then have access to all the text messages and could put together a timeline.",
       "anchored_artifacts": [
         "A-1667.1"
       ],

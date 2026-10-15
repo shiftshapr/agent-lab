@@ -12,10 +12,10 @@
 - **Model Version**: grok-manual-extract-seq161
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-874, N-11266, N-11267, N-11268
+  - Tip-minted Nodes (supplement_2026-10d): N-873, N-11266, N-11267, N-11268
   - Claim Range (supplement_2026-10d): C-10590–C-10642
   - New Nodes Introduced: N-10880, N-10881, N-10882, N-10884, N-10886, N-10889, N-10890, N-10891, N-10892
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-102, N-118, N-119, N-148, N-161, N-172, N-192, N-203, N-261, N-268, N-279, N-37, N-331, N-556, N-595, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-300, N-10887, N-10888, N-354, N-355, N-283, N-10885, N-746, N-10566, N-10728, N-10923, N-875, N-10883
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-102, N-118, N-119, N-148, N-161, N-172, N-192, N-203, N-261, N-268, N-279, N-37, N-331, N-556, N-595, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-300, N-10887, N-10888, N-354, N-355, N-283, N-10885, N-745, N-10566, N-10728, N-10923, N-874, N-10883
   - Hole-minted Nodes (seq161): N-303
   - Hole-minted Nodes (wave1): N-353, N-356, N-357, N-358, N-359, N-360
   - (see registers)
@@ -773,7 +773,7 @@ Opening satire of commenters volunteering as nannies after yesterday's Candyland
 
 ---
 
-**N-874** Dana White
+**N-873** Dana White
 
 First named by the host at 00:30:50 in episode 161 (reading the Atlantic article). UFC CEO listed among those Blake Wynn says sat near Trump at Mar-a-Lago on election night 2024.
 
@@ -781,7 +781,7 @@ First named by the host at 00:30:50 in episode 161 (reading the Atlantic article
 
 ---
 
-**N-875** Steve Witkoff
+**N-874** Steve Witkoff
 
 First named by the host at 00:30:50 in episode 161 (transcribed "Steve Witco"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.
 
@@ -818,7 +818,7 @@ The host's statement that the domain vancekirk.com was purchased on September 12
 
 ---
 
-**N-746** Howard Hughes
+**N-745** Howard Hughes
 
 Las Vegas billionaire whose company the host says was chopped up.
 
@@ -1473,7 +1473,7 @@ Claim: The host reads that Blake Wynn recounted sitting next to Trump at Mar-a-L
 Transcript Snippet: recounted sitting next to Trump at Mara Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witco, Trump's friend and special envoy.
 
 Anchored Artifacts: A-2500.1
-Mentions: N-354, N-5, N-118, N-874, N-875
+Mentions: N-354, N-5, N-118, N-873, N-874
 Related Nodes: N-10882
 Tags: relevance:context
 Investigative Direction: Verify seating accounts in the Bring the Juice interview.
@@ -1683,7 +1683,7 @@ Claim: The host says that after Howard Hughes' company was chopped up, an Adelso
 Transcript Snippet: after his company got chopped up. Adelson got a piece. The Wind family got a piece.
 
 Anchored Artifacts:
-Mentions: N-746
+Mentions: N-745
 Related Nodes: N-10249
 Tags: relevance:tangential
 Investigative Direction: Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.

@@ -1547,8 +1547,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-937",
-      "ref": "N-937",
+      "@id": "N-936",
+      "ref": "N-936",
       "name": "Foster Friess",
       "type": "person",
       "description": "First named by the host at 00:01:39 in episode 19. Described by the host as a big-time donor to Turning Point USA whose funeral in Wyoming was the last trip she took with Charlie Kirk.",
@@ -2191,7 +2191,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-937"
+        "N-936"
       ]
     },
     {
@@ -2209,7 +2209,7 @@
       "investigative_direction": "Check TPUSA donor disclosures and press coverage for Friess family giving to Turning Point.",
       "transcript_snippet": "Foster Friess funeral who was a big- time donor to Turning Point USA still is I believe",
       "mentions_person_refs": [
-        "N-937"
+        "N-936"
       ]
     },
     {
@@ -2228,7 +2228,7 @@
       "transcript_snippet": "where he held that album release party would be where years later Foster Friess would have his funeral.",
       "mentions_person_refs": [
         "N-27",
-        "N-937"
+        "N-936"
       ]
     },
     {

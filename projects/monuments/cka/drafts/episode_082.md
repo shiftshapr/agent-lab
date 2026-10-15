@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 11b9571e5a76ba6e7d757602ee3753595b7175b02db0aab97660730731ff688c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-810, N-811, N-812, N-11189, N-11190
+  - Tip-minted Nodes (supplement_2026-10c): N-809, N-810, N-811, N-11189, N-11190
   - Hole-minted Nodes (reintro-ep082): N-215, N-10621, N-10649, N-10866
   - Tip-minted Nodes (reintro-ep082): N-11149
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -556,7 +556,7 @@ Co-investigator and podcaster whose clip the host plays.
 
 ---
 
-**N-498** Doug DeGroot
+**N-498** Doug DeGroote
 
 TPUSA board member the host guesses was the donor (transcribed Doug De Root).
 
@@ -716,7 +716,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-810** Ross Douthat
+**N-809** Ross Douthat
 
 First named by the host at 00:30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.
 
@@ -724,7 +724,7 @@ First named by the host at 00:30:36 in episode 82. New York Times reporter who i
 
 ---
 
-**N-811** Michael Shellenberger
+**N-810** Michael Shellenberger
 
 First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.
 
@@ -732,7 +732,7 @@ First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.
 
 ---
 
-**N-812** Pat Buchanan
+**N-811** Pat Buchanan
 
 First named by the host at 00:58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.
 
@@ -1362,7 +1362,7 @@ Claim: The host says Andrew Kolvet's clip effectively admits that Charlie Kirk c
 Transcript Snippet: He's going to effectively admit that Charlie couldn't stand Ben Shapiro uh and was annoyed that he had to interview him the day before because Andrew's the one that booked him
 
 Anchored Artifacts: A-1890.1
-Mentions: N-3, N-1, N-14, N-97, N-810
+Mentions: N-3, N-1, N-14, N-97, N-809
 Related Nodes: N-10556
 Supports: C-2556
 Tags: relevance:core
@@ -1379,7 +1379,7 @@ Claim: In the clip, Andrew Kolvet says the show had a pre-record for hour two an
 Transcript Snippet: we had a pre-record for hour two, actually. So, it it's probably too in the weeds, but he's texting me on his way and he's going over talking points about polygamy
 
 Anchored Artifacts: A-1890.1
-Mentions: N-14, N-1, N-810
+Mentions: N-14, N-1, N-809
 Related Nodes: N-10556
 Tags: relevance:core
 Investigative Direction: Obtain Kolvet's text thread with Charlie Kirk for the morning of September 10, 2025 and the hour-two pre-record.
@@ -1587,7 +1587,7 @@ Claim: The host says Joe Kent, asked by Michael Shellenberger whether his statem
 Transcript Snippet: And of course Joe Kent says, "That wasn't my goal. My goal was just to tell the truth."
 
 Anchored Artifacts: A-1892.1
-Mentions: N-3, N-211, N-811, N-40
+Mentions: N-3, N-211, N-810, N-40
 Related Nodes: N-10546
 Tags: relevance:context
 Investigative Direction: Obtain the full Shellenberger interview and compare Kent's wording.
@@ -1865,7 +1865,7 @@ Claim: The host says Pat Buchanan coined the phrase Israel's amen corner in the 
 Transcript Snippet: He coined the phrase Israel's amen corner in the early 90s.
 
 Anchored Artifacts: A-2944.2
-Mentions: N-3, N-812, N-39
+Mentions: N-3, N-811, N-39
 Tags: relevance:tangential
 Investigative Direction: Check the first appearance of the phrase in print.
 
@@ -1886,11 +1886,11 @@ Investigative Direction: Find the original statement by a TPUSA spokesperson in 
 
 ---
 
-**C-8560** Host guesses the donor was Doug DeGroot
+**C-8560** Host guesses the donor was Doug DeGroote
 
 Claim Timestamp: 00:59:32
 
-Claim: The host guesses the donor was Doug DeGroot, whom she says sits on the TPUSA board and is a donor, while saying she does not know.
+Claim: The host guesses the donor was Doug DeGroote, whom she says sits on the TPUSA board and is a donor, while saying she does not know.
 
 Transcript Snippet: My guess would be off the bat Doug De Root on the um he's on the board and I think he's a donor.
 

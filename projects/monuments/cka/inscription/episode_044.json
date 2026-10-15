@@ -1308,8 +1308,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-883",
-      "ref": "N-883",
+      "@id": "N-882",
+      "ref": "N-882",
       "name": "George H.W. Bush",
       "type": "person",
       "description": "First named by the host at 00:05:09 in episode 44. President who created JTF-6 and ran on a war on drugs; heard in a clip.",
@@ -1328,8 +1328,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-884",
-      "ref": "N-884",
+      "@id": "N-883",
+      "ref": "N-883",
       "name": "Ronald Reagan",
       "type": "person",
       "description": "First named by the host at 00:05:09 in episode 44. President during Iran-Contra, mentioned for historical context.",
@@ -1947,7 +1947,7 @@
       "investigative_direction": "Check Department of Defense and Army histories of JTF-6 (established 1989) for its creation order, mandate and the role attributed to Colin Powell.",
       "transcript_snippet": "And this new command was being created down at the border uh by President George HW Bush. And it was presented to the American public as uh look a war on drugs with the help of Colin Powell.",
       "mentions_person_refs": [
-        "N-883",
+        "N-882",
         "N-540",
         "N-320"
       ]
@@ -1969,8 +1969,8 @@
       "investigative_direction": "Compare with the Tower Commission and Walsh Final Report on what Iran-Contra established regarding drugs versus weapons.",
       "transcript_snippet": "for those of you who are not read into massive CIA scandals, this was the scandal when the American public uh got to learn that our CIA was actually trafficking drugs and weapons throughout South America.",
       "mentions_person_refs": [
-        "N-884",
-        "N-883"
+        "N-883",
+        "N-882"
       ]
     },
     {
@@ -2010,7 +2010,7 @@
       "investigative_direction": "Review Bush campaign and September 1989 national drug-control speech records for border-focused commitments.",
       "transcript_snippet": "He had to really hit hard on drugs, drugs at the border, and declare that this White House was was going to do all that it could to stop these drugs from flooding into America.",
       "mentions_person_refs": [
-        "N-883"
+        "N-882"
       ]
     },
     {
@@ -2030,7 +2030,7 @@
       "investigative_direction": "Locate the original September 5, 1989 address and the DEA arrest record for the Lafayette Park purchase.",
       "transcript_snippet": "This is crack cocaine seized a few days ago by drug enforcement agents in a park just across the street from the White House.",
       "mentions_person_refs": [
-        "N-883"
+        "N-882"
       ]
     },
     {

@@ -1806,8 +1806,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-882",
-      "ref": "N-882",
+      "@id": "N-881",
+      "ref": "N-881",
       "name": "Eric Dupond-Moretti",
       "type": "person",
       "description": "First named by the host at 00:05:25 in episode 39. Transcribed Eric Dupond Moretti and Eric Dupon Moretti; the host says he made an argument for happy incest.",
@@ -2323,7 +2323,7 @@
       "investigative_direction": "Check the Becoming Brigitte season 2 episode where Dupond-Moretti was discussed and the source of the happy-incest characterization.",
       "transcript_snippet": "we were speaking about how he was kind of known a name for himself making an argument for happy incest.",
       "mentions_person_refs": [
-        "N-882",
+        "N-881",
         "N-3"
       ]
     },

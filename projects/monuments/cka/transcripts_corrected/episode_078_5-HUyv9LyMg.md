@@ -114,7 +114,7 @@ It's just so performative, and it gives me the ick because somehow, as we have.
 
 [15:11]
 
-Demonstrated, child sex abuse allegations that seems to follow that sheepish sheepish girl that you just saw on the screen. She's just unlucky that way. It's never her. It's the the US Marines, Colonel Otto Buscher, you know, it's everyone around her that seems adjacent to these sorts of scandals. Uh take for example, United Hands Romania. That's the organization that Erika partnered with on her Romanian Angels project, okay? She partnered with an organization known as United Hands Romania. And something that immediately flagged me as weird is that when giving an interview about United Hands, Erika mentioned that the Romanian orphans did not trust the woman that was running it. I want you to take a listen to what Erika says about this woman who's running United Hands. Take a listen.
+Demonstrated, child sex abuse allegations that seems to follow that sheepish sheepish girl that you just saw on the screen. She's just unlucky that way. It's never her. It's the the US Marines, Colonel Otto Busher, you know, it's everyone around her that seems adjacent to these sorts of scandals. Uh take for example, United Hands Romania. That's the organization that Erika partnered with on her Romanian Angels project, okay? She partnered with an organization known as United Hands Romania. And something that immediately flagged me as weird is that when giving an interview about United Hands, Erika mentioned that the Romanian orphans did not trust the woman that was running it. I want you to take a listen to what Erika says about this woman who's running United Hands. Take a listen.
 
 [16:04]
 

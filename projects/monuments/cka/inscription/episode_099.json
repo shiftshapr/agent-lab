@@ -1869,8 +1869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-897",
-      "ref": "N-897",
+      "@id": "N-896",
+      "ref": "N-896",
       "name": "Bryan Freedman",
       "type": "person",
       "description": "Bryan Freedman; Baldoni's lawyer who published his response on a website.",
@@ -1886,8 +1886,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-924",
-      "ref": "N-924",
+      "@id": "N-923",
+      "ref": "N-923",
       "name": "Judge Liman",
       "type": "person",
       "description": "First named by the host at 00:48:28 in episode 99 (spelled Lyman and Leeman in the transcript). Judge who dismissed 10 of 13 Lively claims; described in the Community Notes text the host reads.",
@@ -3636,7 +3636,7 @@
       "investigative_direction": "Locate Freedman's response filing and the associated website.",
       "transcript_snippet": "Bryan Freedman, the lawyer did the greatest thing you could possibly do when he filed his response, he created an entire website and allowed us to read it",
       "mentions_person_refs": [
-        "N-897",
+        "N-896",
         "N-487",
         "N-3"
       ]
@@ -3661,7 +3661,7 @@
       "transcript_snippet": "Although Judge Liman did not state Miss Lively was an independent independent contractor and uh therefore she's not entitled under Title VII to bring claims.",
       "mentions_person_refs": [
         "N-486",
-        "N-924"
+        "N-923"
       ]
     },
     {
@@ -3684,7 +3684,7 @@
       "transcript_snippet": "he continues to state that the conduct was not so far beyond what might reasonably be expected to take place between two characters.",
       "mentions_person_refs": [
         "N-486",
-        "N-924"
+        "N-923"
       ]
     },
     {

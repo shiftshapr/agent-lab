@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 736008f55f0ceabc1d5654cd9436f3367fc919e2bfaca0ad6647aa8c3f74d006
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-885, N-886, N-887, N-888, N-889, N-890, N-891, N-11289, N-11290
+  - Tip-minted Nodes (supplement_2026-10e): N-884, N-885, N-886, N-887, N-888, N-889, N-890, N-11289, N-11290
   - Hole-minted Nodes (reintro-ep061): N-544
   - Tip-minted Nodes (reintro-ep061): N-11180
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -139,7 +139,7 @@ Confidence Level: High
 
 **A-1664** Vogue Beckham–Peltz Wedding Article Bundle
 
-**A-1664.1** Vogue article on the Beckham–Peltz wedding read on-air, describing the ceremony, dinner, three-dance sequence, and Mark Anthony's late-night DJ set beginning at 11 p.m.
+**A-1664.1** Vogue article on the Beckham–Peltz wedding read on-air, describing the ceremony, dinner, three-dance sequence, and Marc Anthony's late-night DJ set beginning at 11 p.m.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -216,7 +216,7 @@ Video Timestamp: 00:49:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11164, C-11165, N-3, N-483, N-887*
+*Related: C-11164, C-11165, N-3, N-483, N-886*
 
 ---
 
@@ -651,7 +651,7 @@ Existing topic reused for claims about the cease and desist letter and the host'
 
 ---
 
-**N-885** Tree Paine
+**N-884** Tree Paine
 
 First named by the host at 00:24:22 in episode 61 (as 'Tree', Taylor Swift's publicist/agent). Surname inferred; the transcript gives only the first name.
 
@@ -661,17 +661,17 @@ Aliases: Tree
 
 ---
 
-**N-886** Marc Anthony
+**N-885** Marc Anthony
 
-First named by the host at 00:43:16 in episode 61 (transcribed 'Mark Anthony'). Singer the host says performed the late-night set at the Beckham wedding.
+First named by the host at 00:43:16 in episode 61 (transcribed 'Marc Anthony'). Singer the host says performed the late-night set at the Beckham wedding.
 
-Aliases: Mark Anthony
+Aliases: Marc Anthony
 
 *Related: C-11159*
 
 ---
 
-**N-887** Marty Singer
+**N-886** Marty Singer
 
 First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola Peltz hired to sue a dog-grooming company.
 
@@ -679,7 +679,7 @@ First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola P
 
 ---
 
-**N-888** Nelson Peltz
+**N-887** Nelson Peltz
 
 First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Pelts'). Father of Nicola Peltz; the host says he sued over a wedding contract.
 
@@ -689,7 +689,7 @@ Aliases: Nelson Pelts
 
 ---
 
-**N-889** Justin Anderson
+**N-888** Justin Anderson
 
 First named by the host at 00:50:27 in episode 61. Hair stylist the host says called Nicola Peltz awful.
 
@@ -697,7 +697,7 @@ First named by the host at 00:50:27 in episode 61. Hair stylist the host says ca
 
 ---
 
-**N-890** Selena Gomez
+**N-889** Selena Gomez
 
 First named by the host at 00:51:35 in episode 61. The host says her friendship with Nicola Peltz fell apart.
 
@@ -705,11 +705,11 @@ First named by the host at 00:51:35 in episode 61. The host says her friendship 
 
 ---
 
-**N-891** Anwar Hadid
+**N-890** Anwar Hadid
 
-First named by the host at 00:51:35 in episode 61 (transcribed 'Anoir Hadid'). The host says he dated Nicola Peltz.
+First named by the host at 00:51:35 in episode 61 (transcribed 'Anwar Hadid'). The host says he dated Nicola Peltz.
 
-Aliases: Anoir Hadid
+Aliases: Anwar Hadid
 
 *Related: C-11169*
 
@@ -742,7 +742,7 @@ Claim Timestamp: 00:01:13
 Claim: Turning Point USA, through counsel, sent a cease and desist letter to Candace Owens approximately January 19–20, 2026.
 
 Anchored Artifacts: A-1661.1
-Mentions: N-1, N-2, N-3
+Mentions: N-3
 
 Related Nodes: N-10432
 
@@ -757,7 +757,7 @@ Claim Timestamp: 00:14:10–00:15:10
 Claim: The TPUSA letter demands that Owens cease stating or implying that TPUSA or its personnel played any part in, knew about beforehand, participated in the day of, or covered up the truth about the Kirk assassination.
 
 Anchored Artifacts: A-1661.1
-Mentions: N-1, N-2
+Mentions: N-1, N-3
 
 Related Nodes: N-10432
 
@@ -772,7 +772,7 @@ Claim Timestamp: 00:13:00–00:14:10
 Claim: The TPUSA letter alleges that Owens accused a TPUSA employee of being "intentionally evasive" about whether Erica Kirk was at "Fort Huachuca" in or around an alleged secret meeting Owens has linked to the assassination.
 
 Anchored Artifacts: A-1661.1
-Mentions: N-2
+Mentions: N-2, N-3
 
 Related Nodes: N-10435
 
@@ -787,7 +787,7 @@ Claim Timestamp: 00:12:24–00:13:19
 Claim: The TPUSA letter alleges that Owens claimed there are "not good people" at TPUSA and suggested that TPUSA and TPUSA Faith have been infiltrated by military operatives.
 
 Anchored Artifacts: A-1661.1
-Mentions: N-17
+Mentions: N-3
 
 Related Nodes: N-10436
 
@@ -802,6 +802,7 @@ Claim Timestamp: 00:10:50–00:11:31
 Claim: The TPUSA letter alleges that Owens "has stated that there is definitely financial impropriety at the company."
 
 Anchored Artifacts: A-1661.1
+Mentions: N-3
 
 Related Nodes: N-10433
 
@@ -831,6 +832,7 @@ Claim Timestamp: 00:09:53–00:10:50
 Claim: The TPUSA letter states that Owens's non-disparagement obligation remains in effect for 12 months following the term of her agreements, which were terminated on December 2, 2025.
 
 Anchored Artifacts: A-1661.1
+Mentions: N-3
 
 Related Nodes: N-10432
 
@@ -845,6 +847,7 @@ Claim Timestamp: 00:08:25–00:09:12
 Claim: The TPUSA letter states that Owens was requested on December 15, 2025, to retract her disparaging statements and declined to do so.
 
 Anchored Artifacts: A-1661.1
+Mentions: N-3
 
 Related Nodes: N-10432
 
@@ -856,10 +859,10 @@ Investigative Direction: Obtain the December 15, 2025 communication and any prio
 
 Claim Timestamp: 00:04:39
 
-Claim: Tim Dillon stated on-air that TPUSA is primarily motivated by money – specifically, that they are "mad" because Owens told her audience not to give TPUSA money.
+Claim: In a clip the host plays, Tim Dillon says TPUSA wants people's money and wants to be celebrities, and that they are mad because Owens told her audience not to give TPUSA money.
 
 Anchored Artifacts: A-1662.1
-Mentions: N-279
+Mentions: N-279, N-3
 
 Related Nodes: N-10432, N-10433
 
@@ -886,9 +889,10 @@ Investigative Direction: Track whether TPUSA's subsequent filings cite financial
 
 Claim Timestamp: 00:06:17–00:07:37
 
-Claim: Owens states she has had a speaking contract with Turning Point USA "going back to like 2019, 2020."
+Claim: Owens states she has had a speaking contract with Turning Point USA "going back to like what 2019 2020."
 
 Anchored Artifacts: A-1661.1
+Mentions: N-3
 
 Related Nodes: N-10432
 
@@ -898,11 +902,12 @@ Investigative Direction: Obtain the original contract and any amendments to veri
 
 **C-2169** Owens states her TPUSA speaking contract was terminated December 2, 2025
 
-Claim Timestamp: 00:06:17–00:07:37
+Claim Timestamp: 00:10:35
 
-Claim: Owens states her speaking arrangement with TPUSA was terminated effective December 2, 2025.
+Claim: The host reads the TPUSA letter, which states that Owens's agreements with TPUSA were terminated on December 2, 2025.
 
 Anchored Artifacts: A-1661.1
+Mentions: N-3
 
 Related Nodes: N-10432
 
@@ -917,7 +922,7 @@ Claim Timestamp: 00:12:24–00:13:19
 Claim: Owens states that Rob McCoy is "defending somebody who went to prison for molesting kids."
 
 Anchored Artifacts: A-1661.1
-Mentions: N-17
+Mentions: N-17, N-3
 
 Related Nodes: N-10436
 
@@ -932,7 +937,7 @@ Claim Timestamp: 00:34:18
 Claim: Brooklyn Beckham, via Instagram Stories, states "I do not want to reconcile with my family."
 
 Anchored Artifacts: A-1663.1
-Mentions: N-482, N-484
+Mentions: N-482
 
 
 Investigative Direction: Obtain the original Stories frames before deletion if preservation has not yet occurred.
@@ -969,12 +974,12 @@ Investigative Direction: Identify and obtain any proposed trademark or brand-rig
 
 **C-2174** Brooklyn claims mother called him "evil" at the wedding over seating
 
-Claim Timestamp: 00:38:22
+Claim Timestamp: 00:38:04
 
-Claim: Brooklyn Beckham alleges his mother called him "evil" because he and Nicola chose to seat their nannies' widowed grandparents at the head table.
+Claim: Brooklyn Beckham alleges his mother called him "evil" because he and Nicola chose to include his nanny and Nicola's nanny, two grandparents whose husbands were not there, at their table.
 
 Anchored Artifacts: A-1663.1
-Mentions: N-482, N-484
+Mentions: N-482, N-483, N-484
 
 
 Investigative Direction: Identify any wedding guests who can corroborate or rebut the alleged remark.
@@ -985,24 +990,24 @@ Investigative Direction: Identify any wedding guests who can corroborate or rebu
 
 Claim Timestamp: 00:40:27–00:41:23
 
-Claim: Brooklyn Beckham alleges that his mother, called to the stage by Marc Anthony, hijacked what had been planned as his romantic first dance with Nicola.
+Claim: Brooklyn Beckham alleges that his mother hijacked what had been planned as his romantic first dance with Nicola: Marc Anthony called him to the stage, and his mother danced inappropriately with him in front of the guests.
 
 Anchored Artifacts: A-1663.1, A-1664.1
-Mentions: N-482, N-484
+Mentions: N-482, N-483, N-484, N-885
 
 
 Investigative Direction: Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to "Only Fools Rush In" preceding the alleged late-night incident.
 
 ---
 
-**C-2176** Vogue reports first dance was to "Only Fools Rush In" performed by Lizo
+**C-2176** Vogue reports first dance was to "Only Fools Rush In" performed by Lloyiso
 
 Claim Timestamp: 00:42:09–00:43:16
 
-Claim: The Vogue wedding article reports that the first dance between Brooklyn and Nicola was to "Only Fools Rush In," performed by South African artist Lizo.
+Claim: The Vogue wedding article reports that the first dance between Brooklyn and Nicola was to "Only Fools Rush In," performed by South African artist Lloyiso.
 
 Anchored Artifacts: A-1664.1
-Mentions: N-482, N-483, N-484, N-485
+Mentions: N-482, N-483
 
 
 Investigative Direction: Cross-reference with the original Vogue article text and any available wedding video.
@@ -1013,10 +1018,10 @@ Investigative Direction: Cross-reference with the original Vogue article text an
 
 Claim Timestamp: 00:42:09–00:43:16
 
-Claim: The Vogue wedding article reports that Marc Anthony took over the DJ decks at 11 p.m. to close out the wedding celebrations.
+Claim: The host reads from the Vogue wedding article that Marc Anthony took over the DJ decks to close out the celebrations; she says his late-night set started at 11 p.m.
 
 Anchored Artifacts: A-1664.1
-Mentions: N-482, N-483
+Mentions: N-885
 
 
 Investigative Direction: Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.
@@ -1058,7 +1063,7 @@ Claim Timestamp: 00:58:55
 Claim: The top viewer comment from the prior episode states TPUSA "fired 40 people for leaking info but kept the head of security after the biggest possible failure"; Owens partially corroborates and revises the figure to approximately 15.
 
 Anchored Artifacts: A-1667.1
-Mentions: N-1, N-2
+Mentions: N-1
 
 Related Nodes: N-10432
 
@@ -1066,7 +1071,7 @@ Investigative Direction: Verify the firings count through internal TPUSA communi
 
 ---
 
-**C-2181** Aspen donor recalls Charlie Kirk referencing Erica Kirk as someone who would "know what to do"
+**C-2181** Aspen Donor Recalls Charlie Kirk Referencing Erika Kirk as Someone Who Would "Know What to Do"
 
 Claim Timestamp: 00:58:55
 
@@ -1172,6 +1177,7 @@ Claim: According to the letter as read, TPUSA says Owens's statements continue t
 Transcript Snippet: We are currently working to calculate the full extent to date of the still acrewing damages.
 
 Anchored Artifacts: A-1661.1
+Mentions: N-3
 Related Nodes: N-11180, N-10432, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain any damages calculation or demand TPUSA later serves, and compare with the letter's claim of substantial and continuing injury.
@@ -1187,6 +1193,7 @@ Claim: According to the letter as read, Owens's obligation covers any disparagin
 Transcript Snippet: not to make any disparaging, false, misleading, or otherwise defamatory comments about Turning Point USA and/or its employees, agents, directors, officers, affiliate programs, or services.
 
 Anchored Artifacts: A-1661.1
+Mentions: N-3
 Related Nodes: N-11180, N-10432, N-10000
 Tags: relevance:core
 Investigative Direction: Compare the letter's description with the actual non-disparagement clause text in the executed agreement.
@@ -1202,6 +1209,7 @@ Claim: According to the letter as read, TPUSA executives have repeatedly made th
 Transcript Snippet: Turning Point USA's executives have repeatedly made themselves available via phone, text, and in-person meetings to provide information and documentation.
 
 Anchored Artifacts: A-1661.1
+Mentions: N-3
 Related Nodes: N-11180, N-10432, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain call, text and meeting logs between Owens and TPUSA executives for December 2025 to January 2026.
@@ -1294,9 +1302,9 @@ Investigative Direction: Obtain the Erika Kirk interview with Glenn Beck and the
 
 Claim Timestamp: 00:12:24
 
-Claim: The host says that after Erika Kirk's statement, TPUSA told her that Charlie did send such a message in a 'special' app, and that he also messaged Dan Flood, which she had not known because she was not talking to Flood.
+Claim: The host says that after Erika Kirk's statement, TPUSA responded, in her paraphrase, that Charlie did send such a message but they had not known because it was in a 'special' app, and that he also messaged Dan Flood, which they had not known because they were not talking to Flood.
 
-Transcript Snippet: Yeah. No, he did. I didn't know cuz it was in a special, you know, app. Yeah. He also messaged Dan Fly.
+Transcript Snippet: Yeah. No, he did. I didn't know cuz it was in a special, you know, app. Yeah. He also messaged Dan Flood.
 
 Anchored Artifacts: A-1661.1
 Mentions: N-1, N-2, N-272, N-3
@@ -1366,7 +1374,7 @@ Claim: The host says that to date TPUSA has not sent what she asked for and says
 Transcript Snippet: But to date, they haven't sent me what I asked for. So I told the truth.
 
 Anchored Artifacts: A-1661.1
-Mentions: N-3, N-2
+Mentions: N-3
 Related Nodes: N-10417, N-10435
 Tags: relevance:core
 Investigative Direction: Obtain the exact request wording and what TPUSA sent instead.
@@ -1409,7 +1417,7 @@ Investigative Direction: Compile the specific statements the host classes as lie
 
 Claim Timestamp: 00:16:11
 
-Claim: The host says she is not asserting that TPUSA's charitable spending is improper, that 'we've barely covered their finances,' and that what TPUSA wants is money.
+Claim: The host says she is not saying TPUSA's charitable spending is improper, that 'we've barely covered their finances,' and that she thinks what TPUSA wants is people's money.
 
 Transcript Snippet: I'm not saying that's case turning point USA. We've barely covered their finances actually
 
@@ -1437,11 +1445,11 @@ Investigative Direction: Identify which individuals she regards as taking over T
 
 ---
 
-**C-11136** Host says Kirk's assassination was an unforeseeable circumstance under her contract and the clause unconscionable
+**C-11136** Host Says Kirk's Assassination Was an Unforeseeable Circumstance Under Her Contract
 
 Claim Timestamp: 00:18:21
 
-Claim: The host says she told her lawyer the non-disparagement clause is open to challenge, arguing that Charlie Kirk's public assassination was an unforeseeable circumstance when she signed and that the clause is unconscionable.
+Claim: The host says she asked her lawyer how TPUSA could use the non-disparagement clause, and that she thinks it would be fair to argue Charlie Kirk's public assassination was an unforeseeable circumstance when she signed, adding that there are strong arguments about unconscionable clauses and that it would be unconscionable for her to choose silence.
 
 Transcript Snippet: when I signed an agreement to go on tour with Charlie Kirk, I think it it would be fair to argue that his assassination, his public assassination was an unforeseeable circumstance.
 
@@ -1510,7 +1518,7 @@ Claim: The host says Swift's publicist, 'Tree,' told her to cut that friend off 
 Transcript Snippet: Tree, her agent, is like, "Nope, cut that friend off. We're going to save you."
 
 Anchored Artifacts: A-1665.1
-Mentions: N-3, N-488, N-486, N-885
+Mentions: N-3, N-488, N-486, N-884
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Look for reporting or court exhibits showing Swift's team's communications with Lively's team.
@@ -1811,10 +1819,10 @@ Claim Timestamp: 00:43:16
 
 Claim: The host says she does not doubt that Marc Anthony announced 'the most beautiful woman to the floor' and then named Victoria Beckham.
 
-Transcript Snippet: Mark Anthony said, "Now inviting the most beautiful woman to the floor." And then he said, "Victoria Beckham."
+Transcript Snippet: Marc Anthony said, "Now inviting the most beautiful woman to the floor." And then he said, "Victoria Beckham."
 
 Anchored Artifacts: A-1664.1
-Mentions: N-3, N-886, N-484
+Mentions: N-3, N-885, N-484
 Related Nodes: N-11289
 Supports: C-2175
 Tags: relevance:tangential
@@ -1895,7 +1903,7 @@ Claim: The host says Nicola Peltz hired Marty Singer to sue a small mobile dog-g
 Transcript Snippet: she hired Marty Singer to sue this little company because her Chihuahua died.
 
 Anchored Artifacts: A-3119.1
-Mentions: N-3, N-483, N-887
+Mentions: N-3, N-483, N-886
 Related Nodes: N-11290
 Tags: relevance:tangential
 Investigative Direction: Obtain the complaint and docket in the grooming company lawsuit.
@@ -1927,7 +1935,7 @@ Claim: The host says Nicola Peltz went through three different wedding contracts
 Transcript Snippet: She went through three different wedding contracts. One of which her father sued and they sued back
 
 Anchored Artifacts: 
-Mentions: N-3, N-483, N-888
+Mentions: N-3, N-483, N-887
 Related Nodes: N-11289
 Tags: relevance:tangential
 Investigative Direction: Search court dockets for the wedding contract suits involving Nelson Peltz.
@@ -1943,13 +1951,13 @@ Claim: The host says Nicola Peltz's hair stylist from the Transformers movie, Ju
 Transcript Snippet: Her hair stylist from when her dad put her in the Transformers movie, Justin Anderson, said she's awful.
 
 Anchored Artifacts: 
-Mentions: N-3, N-483, N-889
+Mentions: N-3, N-483, N-888
 Tags: relevance:tangential
 Investigative Direction: Locate Anderson's original statement and its context.
 
 ---
 
-**C-11168** Host says Nicola Peltz's friendship with Selena Gomez has fallen apart
+**C-11168** Host Says Nicola Peltz's Relationship with Selena Gomez Has Fallen Apart
 
 Claim Timestamp: 00:51:35
 
@@ -1958,7 +1966,7 @@ Claim: The host says Nicola Peltz's relationship with Selena Gomez has fallen ap
 Transcript Snippet: Her relationship with Selena Gomez has fallen apart.
 
 Anchored Artifacts: 
-Mentions: N-3, N-483, N-890
+Mentions: N-3, N-483, N-889
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on the Peltz and Gomez friendship.
 
@@ -1968,12 +1976,12 @@ Investigative Direction: Check public reporting on the Peltz and Gomez friendshi
 
 Claim Timestamp: 00:51:35
 
-Claim: The host says Nicola Peltz was dating Anwar Hadid, that he stopped talking to his family, and that they were relieved when the couple broke up.
+Claim: The host says Nicola Peltz was dating Anwar Hadid, Bella Hadid's brother, that he stopped talking to his whole family, and that they were very relieved when the couple broke up, adding 'allegedly' about the family's view of her.
 
-Transcript Snippet: She was dating Anoir Hadid, Bella Hadid's brother
+Transcript Snippet: She was dating Anwar Hadid, Bella Hadid's brother
 
 Anchored Artifacts: 
-Mentions: N-3, N-483, N-891, N-544
+Mentions: N-3, N-483, N-890, N-544
 Tags: relevance:tangential
 Investigative Direction: Check reporting on the relationship and the Hadid family's reaction.
 
@@ -2015,7 +2023,7 @@ Investigative Direction: Capture the X trending topic page for that date.
 
 Claim Timestamp: 00:58:55
 
-Claim: The host calls the TPUSA firings 'weird loyalty tests' that will not serve them, and says more people are now speaking and she is getting and researching a lot.
+Claim: The host calls the TPUSA firings 'weird loyalty tests' that she does not think are going to serve them, and says more people are now speaking and she is getting and researching a lot.
 
 Transcript Snippet: And we have a lot that we are getting and researching uh because more people are now speaking because that's not the best solution.
 
@@ -2126,7 +2134,7 @@ Investigative Direction: Review the prior episode's Dave Rubin segment.
 
 Claim Timestamp: 01:05:14
 
-Claim: The host says that a lawsuit means depositions and discovery, giving her access to text messages for a timeline.
+Claim: A viewer comment the host reads says a lawsuit means loads of depositions and discovery; the host says she would then have access to all the text messages and could put together a timeline.
 
 Transcript Snippet: Could you imagine all of the text messages I would have access to, the timeline that I could put together?
 

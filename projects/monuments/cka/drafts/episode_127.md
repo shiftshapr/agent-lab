@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: a00c93c3de8fb9fe25ca93a10cae28c73ff062257c969ca7726819b14b4093e7
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-781, N-782, N-783, N-11138
+  - Tip-minted Nodes (supplement_2026-10b): N-780, N-781, N-782, N-11138
   - Hole-minted Nodes (reintro-ep127): N-10736, N-10772, N-10773, N-10778
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7280–C-7351
   - New Nodes Introduced: N-10725, N-10726, N-10727, N-10728, N-10731
-  - Reused Nodes Appearing: N-380, N-507, N-10729, N-10730, N-11, N-14, N-22, N-27, N-40, N-50, N-69, N-97, N-161, N-210, N-226, N-233, N-327, N-332, N-368, N-432, N-686, N-741, N-10000, N-10012, N-10014, N-10021, N-10024, N-10026, N-10064, N-10090, N-10131, N-10177, N-10209, N-10447, N-10566, N-10681, N-10692, N-10712, N-10717, N-10818, N-10888, N-11017, N-11065, N-10754, N-742
+  - Reused Nodes Appearing: N-380, N-507, N-10729, N-10730, N-11, N-14, N-22, N-27, N-40, N-50, N-69, N-97, N-161, N-210, N-226, N-233, N-327, N-332, N-368, N-432, N-686, N-741, N-10000, N-10012, N-10014, N-10021, N-10024, N-10026, N-10064, N-10090, N-10131, N-10177, N-10209, N-10447, N-10566, N-10681, N-10692, N-10712, N-10717, N-10818, N-10888, N-11017, N-11065, N-10754, N-80
   - Hole-minted Nodes (wave3): N-508
   - (see registers)
 
@@ -663,7 +663,7 @@ Cited in the host's account of her Daily Wire firing.
 
 ---
 
-**N-742** Harley Pasternak
+**N-80** Harley Pasternak
 
 Named by the host as the trainer in the Kanye 5150 account.
 
@@ -879,7 +879,7 @@ Existing topic reused for influencers at the hearing.
 
 ---
 
-**N-781** Amanda Baker
+**N-780** Amanda Baker
 
 First named by the host at 00:19:25 in episode 127. FBI agent who testified about exhibit nine, the backpack.
 
@@ -887,7 +887,7 @@ First named by the host at 00:19:25 in episode 127. FBI agent who testified abou
 
 ---
 
-**N-782** Zach Turek
+**N-781** Zach Turek
 
 First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Frank Zachary Turek, Pentagon Zack.
 
@@ -895,7 +895,7 @@ First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Fran
 
 ---
 
-**N-783** Mark Meckler
+**N-782** Mark Meckler
 
 First named by the host at 00:47:56 in episode 127. Convention of States figure, called the snake-ler by the host.
 
@@ -1457,7 +1457,7 @@ Claim: FBI agent Amanda Baker testified that initially there was no information 
 Transcript Snippet: Not having any information from the investigators, we processed them for DNA.
 
 Anchored Artifacts: A-2149.1
-Mentions: N-781
+Mentions: N-780
 Related Nodes: N-10727, N-10014
 Supports: C-3049
 Tags: relevance:core
@@ -1474,7 +1474,7 @@ Claim: The host says Baker asserted that they initially thought the items were a
 Transcript Snippet: similarly that they initially thought that it was abandoned by the rooftop shooter, which means that they found this along the route that the alleged rooftop shooter took, right?
 
 Anchored Artifacts: A-2149.1
-Mentions: N-781, N-3
+Mentions: N-780, N-3
 Related Nodes: N-10727
 Supports: C-3046
 Tags: relevance:core
@@ -1755,7 +1755,7 @@ Claim: The host says Frank Turek's son Zach (Frank Zachary Turek) was working at
 Transcript Snippet: Zach was working at the Pentagon. He is today employed in Washington, D. C. at the Pentagon serving as the deputy division chief of the Joint Staff.
 
 Anchored Artifacts: A-2150.1
-Mentions: N-782, N-7
+Mentions: N-781, N-7
 Related Nodes: N-10064, N-11138
 Tags: relevance:core
 Investigative Direction: Verify Zachary Turek's Joint Staff title and dates from Department of Defense directories or biographies.
@@ -1787,7 +1787,7 @@ Claim: The host says Turek did not call 911 and did not think to phone his son w
 Transcript Snippet: Frank didn't call 911, nor did he think to phone his son who works for the most powerful, most funded, and most corrupt division of our government, the Department of Defense?
 
 Anchored Artifacts: 
-Mentions: N-7, N-782, N-3
+Mentions: N-7, N-781, N-3
 Related Nodes: N-10729, N-10888
 Supports: C-7304
 Tags: relevance:core
@@ -1836,7 +1836,7 @@ Claim: The host says Frank Turek and his son Zach wrote a book together titled H
 Transcript Snippet: Frank and his son Zack, Pentagon Zack, actually wrote a book together entitled Hollywood Heroes.
 
 Anchored Artifacts: 
-Mentions: N-7, N-782, N-3
+Mentions: N-7, N-781, N-3
 Related Nodes: N-11138
 Tags: relevance:context
 Investigative Direction: Check the book's publication record for authorship and date.
@@ -1934,7 +1934,7 @@ Claim: The host says Jeremy Boreing hosted Mark Meckler, who told an obscure sto
 Transcript Snippet: he's particularly hosted this guy Mark Meckler and I had such a giggle about Mark Meckler telling this obscure story um that I was like mean to him.
 
 Anchored Artifacts: 
-Mentions: N-368, N-783, N-3
+Mentions: N-368, N-782, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the Boreing and Meckler appearance and compare Meckler's story with the host's message archive.
@@ -1950,7 +1950,7 @@ Claim: The host says Mark Meckler was working on getting donors to force Charlie
 Transcript Snippet: telling donors to like force Charlie to uh just attach Convention of the States to Turning Point USA.
 
 Anchored Artifacts: A-2870.1, A-2870.1
-Mentions: N-783, N-1, N-3
+Mentions: N-782, N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Review the host's messages with Charlie, TPUSA donor communications and Convention of the States records for the proposed attachment.
@@ -1966,7 +1966,7 @@ Claim: The host says all of her messages with Charlie, which she still has, refe
 Transcript Snippet: Charlie and me literally all of our messages which I still have of course were just just referred to him as the snake-ler instead of Meckler
 
 Anchored Artifacts: A-2870.1, A-2870.1
-Mentions: N-1, N-783, N-3
+Mentions: N-1, N-782, N-3
 Related Nodes: N-10177
 Tags: relevance:context
 Investigative Direction: Obtain the message thread for forensic confirmation of the nickname, dates and contents.
@@ -1998,7 +1998,7 @@ Claim: The host says Tyler Bowyer is also in the chats because they would also c
 Transcript Snippet: by the way Tyler Bowyer is even that the chats cuz we would also chat about Mark Meckler
 
 Anchored Artifacts: A-2870.1, A-2870.1
-Mentions: N-11, N-783, N-3
+Mentions: N-11, N-782, N-3
 Related Nodes: N-10177
 Tags: relevance:context
 Investigative Direction: Review the group chats with Bowyer for the dates and content of the Meckler discussions.
@@ -2095,7 +2095,7 @@ Claim: The host says Kanye West was put on a 5150 hold after his trainer Harley 
 Transcript Snippet: Harley Pasternak, your gym trainer says so and they do a cocktail that can cause you to then have mental issues for life.
 
 Anchored Artifacts: 
-Mentions: N-27, N-742, N-3
+Mentions: N-27, N-80, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check Los Angeles reporting and hospital records, if public, on the 2016 hospitalization of Kanye West.

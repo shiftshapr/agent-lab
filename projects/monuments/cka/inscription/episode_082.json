@@ -1155,7 +1155,7 @@
       "@type": "Person",
       "@id": "N-498",
       "ref": "N-498",
-      "name": "Doug DeGroot",
+      "name": "Doug DeGroote",
       "type": "person",
       "description": "TPUSA board member the host guesses was the donor (transcribed Doug De Root).",
       "related_artifacts": [],
@@ -1503,8 +1503,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-810",
-      "ref": "N-810",
+      "@id": "N-809",
+      "ref": "N-809",
       "name": "Ross Douthat",
       "type": "person",
       "description": "First named by the host at 00:30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.",
@@ -1521,8 +1521,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-811",
-      "ref": "N-811",
+      "@id": "N-810",
+      "ref": "N-810",
       "name": "Michael Shellenberger",
       "type": "person",
       "description": "First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.",
@@ -1538,8 +1538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-812",
-      "ref": "N-812",
+      "@id": "N-811",
+      "ref": "N-811",
       "name": "Pat Buchanan",
       "type": "person",
       "description": "First named by the host at 00:58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.",
@@ -2408,7 +2408,7 @@
         "N-1",
         "N-14",
         "N-97",
-        "N-810"
+        "N-809"
       ]
     },
     {
@@ -2432,7 +2432,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-810"
+        "N-809"
       ]
     },
     {
@@ -2739,7 +2739,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-211",
-        "N-811",
+        "N-810",
         "N-40"
       ]
     },
@@ -3147,7 +3147,7 @@
       "transcript_snippet": "He coined the phrase Israel's amen corner in the early 90s.",
       "mentions_person_refs": [
         "N-3",
-        "N-812",
+        "N-811",
         "N-39"
       ]
     },
@@ -3178,8 +3178,8 @@
       "@type": "Claim",
       "@id": "C-8560",
       "ref": "C-8560",
-      "label": "Host guesses the donor was Doug DeGroot",
-      "claim": "The host guesses the donor was Doug DeGroot, whom she says sits on the TPUSA board and is a donor, while saying she does not know.",
+      "label": "Host guesses the donor was Doug DeGroote",
+      "claim": "The host guesses the donor was Doug DeGroote, whom she says sits on the TPUSA board and is a donor, while saying she does not know.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

@@ -1226,8 +1226,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-780",
-      "ref": "N-780",
+      "@id": "N-779",
+      "ref": "N-779",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Matt Robinson, Tyler Robinson's father.",
@@ -4168,7 +4168,7 @@
         "C-12123"
       ],
       "mentions_person_refs": [
-        "N-780",
+        "N-779",
         "N-40",
         "N-3"
       ]
@@ -4190,7 +4190,7 @@
       "investigative_direction": "Identify the sources; compare the staircase photos with known photos of Robinson; check affidavit language on recognition.",
       "transcript_snippet": "He does not believe that the person looks like his son that is coming up to coming up the staircase.",
       "mentions_person_refs": [
-        "N-780",
+        "N-779",
         "N-40",
         "N-3"
       ]
@@ -4401,7 +4401,7 @@
       "mentions_person_refs": [
         "N-274",
         "N-40",
-        "N-780",
+        "N-779",
         "N-3"
       ]
     },
@@ -4424,7 +4424,7 @@
       "mentions_person_refs": [
         "N-274",
         "N-125",
-        "N-780",
+        "N-779",
         "N-3"
       ]
     },
@@ -4447,7 +4447,7 @@
       "transcript_snippet": "Mike Mitchell is now speaking on behalf of Matt Robinson.",
       "mentions_person_refs": [
         "N-125",
-        "N-780",
+        "N-779",
         "N-3"
       ]
     },

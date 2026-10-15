@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T05:27:25Z",
+  "generated_at": "2026-10-15T06:00:28Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -9121,7 +9121,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11136",
-      "label": "Host says Kirk's assassination was an unforeseeable circumstance under her contract and the clause unconscionable",
+      "label": "Host Says Kirk's Assassination Was an Unforeseeable Circumstance Under Her Contract",
       "node_kind": "claim",
       "episode": 61
     },
@@ -9359,7 +9359,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11168",
-      "label": "Host says Nicola Peltz's friendship with Selena Gomez has fallen apart",
+      "label": "Host Says Nicola Peltz's Relationship with Selena Gomez Has Fallen Apart",
       "node_kind": "claim",
       "episode": 61
     },
@@ -19852,7 +19852,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12530",
-      "label": "Tucker Says Voters Should Not Want Emotionally Incontinent People on Foreign Payrolls Deciding for an Empire",
+      "label": "Tucker Says Flighty, Emotionally Incontinent People on Foreign Payrolls Should Not Make an Empire's Decisions",
       "node_kind": "claim",
       "episode": 56
     },
@@ -32424,14 +32424,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14164",
-      "label": "Host Says Pearl Harbor and Lyndon Johnson Warrant a False-Flag Style Review",
+      "label": "Host Teases Pearl Harbor and Lyndon Johnson Topics, Says Vibes Are Off",
       "node_kind": "claim",
       "episode": 55
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14165",
-      "label": "Host Says Argentina's President Looks Like Netanyahu and Reportedly Has a Jewish-Sounding Full Surname",
+      "label": "Host Says Argentina's President Looks a Little Like Netanyahu and Cites a Rumor About His Full Last Name",
       "node_kind": "claim",
       "episode": 55
     },
@@ -32606,7 +32606,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14188",
-      "label": "Host Says the Kirk Family Was Told to Drug Him for Being Brilliant and His Mother Refused",
+      "label": "Host Says Kirk Went to the X-Men School After They Wanted to Drug Him and His Mother Refused",
       "node_kind": "claim",
       "episode": 59
     },
@@ -32634,7 +32634,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14191",
-      "label": "Host Says Montgomery Hired Schaefer Security With Dan Flood and Brian Harpole Working Under Greg Shaffer",
+      "label": "Host Says Montgomery Hired Shaffer Security With Dan Flood and Brian Harpole Working Under Greg Shaffer",
       "node_kind": "claim",
       "episode": 59
     },
@@ -43085,7 +43085,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2044",
-      "label": "Carey Hezekiah was a bootlegger/smuggler who shot his brother Garland dead (per Rolling Stone)",
+      "label": "Carey Hezekiah Was a Bootlegger/Smuggler Who Shot His Brother Garland Dead (Per Washington Post)",
       "node_kind": "claim",
       "episode": 54
     },
@@ -43106,14 +43106,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2047",
-      "label": "Text message from Candace Owens to Andrew Kolbett described Charlie Kirk dream stating he was betrayed and Andrew knew more than publicly stated",
+      "label": "Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Andrew Knew More Than Publicly Stated",
       "node_kind": "claim",
       "episode": 55
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2048",
-      "label": "Andrew Kolbett never replied to the dream text from Candace Owens",
+      "label": "Andrew Kolvet Never Replied to the Dream Text From Candace Owens",
       "node_kind": "claim",
       "episode": 55
     },
@@ -43204,14 +43204,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2061",
-      "label": "Top comment claims Erika Kirk was brought in as Charlie Kirk's handler at the Falwell Center",
+      "label": "Top Comment Claims Erika Kirk Was Brought in as Charlie Kirk's Handler at the Falkirk Center",
       "node_kind": "claim",
       "episode": 55
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2062",
-      "label": "Top comment from \"Natty Nicole\" expresses being heartbroken and questions Andrew Kolbett's conscience",
+      "label": "Top Comment From Natty Nicole Expresses Being Heartbroken and Questions Andrew Kolvet's Conscience",
       "node_kind": "claim",
       "episode": 55
     },
@@ -43400,14 +43400,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2090",
-      "label": "Scott Adams Died at 68 from Prostate Cancer",
+      "label": "Host Says Scott Adams Died at 68 From Prostate Cancer",
       "node_kind": "claim",
       "episode": 56
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2091",
-      "label": "Social Blade Records Erica Kirk Deleting 126 Instagram Posts on June 19",
+      "label": "Host Says Social Blade Shows Erika Kirk Deleting 126 Instagram Posts on June 19",
       "node_kind": "claim",
       "episode": 56
     },
@@ -43421,7 +43421,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2093",
-      "label": "Andrew Aguilar Claims Arrest at US Capitol on September 3 for Calling Out AIPAC",
+      "label": "Comment From Anthony Aguilar Says He Was Arrested in Congress on September 3 for Calling Out AIPAC",
       "node_kind": "claim",
       "episode": 56
     },
@@ -43617,7 +43617,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2122",
-      "label": "Host Says a Reporter's Documents Show Nick Fuentes Pitched Selling His Followers' Data to Defend Texas Liberty and Ferris Wilks' Partner",
+      "label": "Host Says a Reporter's Documents Show Nick Fuentes Pitched Selling His Followers' Data to Defend Texas Liberty and Farris Wilks' Partner",
       "node_kind": "claim",
       "episode": 58
     },
@@ -43757,7 +43757,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2142",
-      "label": "TPUSA official response states Erica Kirk only visited China for 2 weeks and never lived there",
+      "label": "TPUSA Response Says Erika Kirk Only Visited China for 2 Weeks and Never Lived There",
       "node_kind": "claim",
       "episode": 59
     },
@@ -43771,14 +43771,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2144",
-      "label": "Erica Kirk publicly stated she was living in China working with victims of sex trafficking through her Everyday Heroes Like You charity",
+      "label": "Erika Kirk Publicly Stated She Was Living in China Working with Victims of Sex Trafficking Through Her Everyday Heroes Like You Charity",
       "node_kind": "claim",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2145",
-      "label": "Cornerstone Chapel announced a January 21 event on antisemitism featuring Rob McCoy and Samuel Smaja",
+      "label": "Cornerstone Chapel announced a January 21 event on antisemitism featuring Rob McCoy and Samuel Smadja",
       "node_kind": "claim",
       "episode": 59
     },
@@ -43995,7 +43995,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2176",
-      "label": "Vogue reports first dance was to \"Only Fools Rush In\" performed by Lizo",
+      "label": "Vogue reports first dance was to \"Only Fools Rush In\" performed by Lloyiso",
       "node_kind": "claim",
       "episode": 61
     },
@@ -44030,7 +44030,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2181",
-      "label": "Aspen donor recalls Charlie Kirk referencing Erica Kirk as someone who would \"know what to do\"",
+      "label": "Aspen Donor Recalls Charlie Kirk Referencing Erika Kirk as Someone Who Would \"Know What to Do\"",
       "node_kind": "claim",
       "episode": 61
     },
@@ -44184,14 +44184,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2203",
-      "label": "Christian Zionist threat message identified as authored by Lorie Cardardoza Moore via audio matching",
+      "label": "Christian Zionist threat message identified as authored by Laurie Cardoza-Moore via audio matching",
       "node_kind": "claim",
       "episode": 63
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2204",
-      "label": "Host Says Voice Matching Identifies Lorie Cardardoza Moore on a 1-900 Romance Hotline Recording",
+      "label": "Host Says Voice Matching Identifies Laurie Cardoza-Moore on a 1-900 Romance Hotline Recording",
       "node_kind": "claim",
       "episode": 63
     },
@@ -44254,7 +44254,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2213",
-      "label": "TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroot",
+      "label": "TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroote",
       "node_kind": "claim",
       "episode": 64
     },
@@ -44345,7 +44345,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2226",
-      "label": "Candace Owens Nominated Anti-Semite of Year 2024",
+      "label": "Youssef Says He Was Nominated for Anti-Semite of the Year 2024 and Candace Owens Won",
       "node_kind": "claim",
       "episode": 65
     },
@@ -44380,7 +44380,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2231",
-      "label": "Arstrovski Bandaged October 7th Photo Shows No Blood on Bandages Despite Bloody Face",
+      "label": "Ostrovsky Bandaged October 7th Photo Shows No Blood on Bandages Despite Bloody Face",
       "node_kind": "claim",
       "episode": 65
     },
@@ -44436,7 +44436,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2240",
-      "label": "Daily Mail article quotes Dr. Allen Wolft and Bidwell Smith defending Kirk's hyperfunctioning",
+      "label": "Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk's Hyperfunctioning",
       "node_kind": "claim",
       "episode": 66
     },
@@ -67396,7 +67396,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5546",
-      "label": "Host Says She Is Told There Was Audio and Video of the Event in the Hamptons",
+      "label": "Coleman Says He Is Told There Was Audio and Video of the Event in the Hamptons",
       "node_kind": "claim",
       "episode": 60
     },
@@ -67431,14 +67431,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5551",
-      "label": "Host Says Erika Held the Necklace Charlie Never Took Off and Tried to Find It",
+      "label": "Coleman Says Erika Held the Necklace Charlie Never Took Off and Tried to Find It",
       "node_kind": "claim",
       "episode": 60
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5552",
-      "label": "Host Says She Believes Erika Knew Charlie Would Die the Next Day",
+      "label": "Coleman Says He Believes Erika Knew Charlie Would Die the Next Day",
       "node_kind": "claim",
       "episode": 60
     },
@@ -67634,7 +67634,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5580",
-      "label": "Youssef says Shapiro gave a rapid non-answer on whether Israel committed genocide on the Charman the God morning show",
+      "label": "Youssef says Shapiro gave a rapid non-answer on whether Israel committed genocide on the Charlamagne tha God morning show",
       "node_kind": "claim",
       "episode": 65
     },
@@ -67732,7 +67732,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5594",
-      "label": "Youssef says friend Matt Leeb turned anti-Zionist after Netanyahu and Miriam Adelson spoke at his Birthright event",
+      "label": "Youssef says friend Matt Lieb turned anti-Zionist after Netanyahu and Miriam Adelson spoke at his Birthright event",
       "node_kind": "claim",
       "episode": 65
     },
@@ -67858,7 +67858,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5612",
-      "label": "Youssef says the Auschwitz Museum said much of what was said about Mengele was made up",
+      "label": "Host Says Auschwitz Museum Said Much of What Was Said About Mengele Was Made Up",
       "node_kind": "claim",
       "episode": 65
     },
@@ -67998,7 +67998,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5632",
-      "label": "Youssef says Joseph Cornis, an ex-IDF spokesman, said on Piers Morgan that there was no famine in Gaza",
+      "label": "Youssef Says Jonathan Conricus, an Ex-IDF Spokesman, Said on Piers Morgan That There Was No Famine in Gaza",
       "node_kind": "claim",
       "episode": 65
     },
@@ -68061,7 +68061,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5641",
-      "label": "Host says the decline in testosterone is intentional and due to what is put in the water and food",
+      "label": "Host Says a Testosterone Crisis Is Due to What Is Put in the Water and Food",
       "node_kind": "claim",
       "episode": 65
     },
@@ -68138,42 +68138,42 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5652",
-      "label": "Youssef says Hollywood Babylon also had a gag order and that publishing rights let owners change books",
+      "label": "Host Says Hollywood Babylon Was Also Changed and Publishing Rights Let Owners Alter Books",
       "node_kind": "claim",
       "episode": 65
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5653",
-      "label": "Youssef says Victor Ostrovsky said on camera that Epstein worked for Mossad",
+      "label": "Host Says Victor Ostrovsky Said on Camera That Epstein Worked for Mossad",
       "node_kind": "claim",
       "episode": 65
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5654",
-      "label": "Host says her last or second-to-last Daily Wire episode was the interview with Rabbi Barlay",
+      "label": "Host Says Her Last or Second-to-Last Daily Wire Episode Was the Interview With Rabbi Barclay",
       "node_kind": "claim",
       "episode": 65
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5655",
-      "label": "Host says Rabbi Barlay answered a request for a definition of antisemitism with whatever we want",
+      "label": "Host Says Rabbi Barclay Answered a Request for a Definition of Antisemitism With Whatever We Want",
       "node_kind": "claim",
       "episode": 65
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5656",
-      "label": "Host says Rabbi Barlay offered her a private screening of October 7th footage",
+      "label": "Host Says Rabbi Barclay Offered Her a Private Screening of October 7th Footage",
       "node_kind": "claim",
       "episode": 65
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5657",
-      "label": "Youssef says Rabbi Ysef MRI calls Jesus JC Penney in lectures",
+      "label": "Youssef Says Rabbi Yosef Mizrachi Calls Jesus JC Penney in Lectures",
       "node_kind": "claim",
       "episode": 65
     },
@@ -73045,7 +73045,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6353",
-      "label": "Doug DeGroot says journalists' pressure forced TPUSA to name a successor quickly",
+      "label": "Doug DeGroote says journalists' pressure forced TPUSA to name a successor quickly",
       "node_kind": "claim",
       "episode": 159
     },
@@ -77798,7 +77798,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7032",
-      "label": "Host Credits the Brave Report With Identifying Lorie Cardardoza Moore as an Evangelical Zionist Who Learned She Is Jewish",
+      "label": "Host Credits the Brave Report With Identifying Laurie Cardoza-Moore as an Evangelical Zionist Who Learned She Is Jewish",
       "node_kind": "claim",
       "episode": 63
     },
@@ -85603,21 +85603,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8147",
-      "label": "Host Says Romanian Angels Worked With Colonel Otto Buscher",
+      "label": "Host Says Romanian Angels Worked With Colonel Otto Busher",
       "node_kind": "claim",
       "episode": 54
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8148",
-      "label": "Host Says Colonel Buscher Was Accused of Running a Brothel With Young Children",
+      "label": "Host Says Colonel Busher Was Accused of Running a Brothel With Young Children",
       "node_kind": "claim",
       "episode": 54
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8149",
-      "label": "Host Says No Article Names Erika or Lori in the Buscher Allegation",
+      "label": "Host Says No Article Names Erika or Lori in the Busher Allegation",
       "node_kind": "claim",
       "episode": 54
     },
@@ -85939,7 +85939,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8195",
-      "label": "Abby Johnson Says Her Parents Sent Her to the Home With a Liberty Scholarship Promise",
+      "label": "ABC Report Says Abby Johnson's Parents Sent Her to the Home With a Liberty Scholarship Promise",
       "node_kind": "claim",
       "episode": 54
     },
@@ -86807,7 +86807,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8319",
-      "label": "Daily Mail Article Has Dr. Wolft Calling Erika's Getting Dressed and Making Up a Survival Tactic",
+      "label": "Daily Mail Article Has Dr. Wolfelt Calling Erika's Getting Dressed and Making Up a Survival Tactic",
       "node_kind": "claim",
       "episode": 66
     },
@@ -88494,7 +88494,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8560",
-      "label": "Host guesses the donor was Doug DeGroot",
+      "label": "Host guesses the donor was Doug DeGroote",
       "node_kind": "claim",
       "episode": 82
     },
@@ -97608,7 +97608,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9862",
-      "label": "Host Says Erika Created Everyday Heroes Like You to Fund Grassroots Groups",
+      "label": "Clip Shows Erika Saying She Created Everyday Heroes Like You to Fund Grassroots Groups",
       "node_kind": "claim",
       "episode": 58
     },
@@ -97846,7 +97846,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9896",
-      "label": "Host Says Jack Parsons Established the Apollo Program and Did Occult Sexual Rituals",
+      "label": "Host Asks Whether Jack Parsons, Who Established the Apollo Program, Did Occult Sexual Rituals",
       "node_kind": "claim",
       "episode": 58
     },
@@ -107996,14 +107996,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1607",
-      "label": "Candace Owens → Andrew Kolbett Text Exchange Bundle",
+      "label": "Candace Owens → Andrew Kolvet Text Exchange Bundle",
       "node_kind": "artifact",
       "episode": 55
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1607.1",
-      "label": "Text message from Candace Owens to Andrew Kolbett describing dream of Charlie Kirk saying \"they betrayed me\" and \"you know much more than you've said publicly or privately\"",
+      "label": "Text message from Candace Owens to Andrew Kolvet describing dream of Charlie Kirk saying \"they betrayed me\" and \"you know much more than you've said publicly or privately\"",
       "node_kind": "artifact",
       "episode": 55
     },
@@ -108360,7 +108360,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1627",
-      "label": "Andrew Aguilar Comment Bundle",
+      "label": "Anthony Aguilar Comment Bundle",
       "node_kind": "artifact",
       "episode": 56
     },
@@ -108801,7 +108801,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1650.3",
-      "label": "Charlie Kirk debate clip with Ben Corollo played on air, in which Charlie states \"Unlike you, my wife lived in China for 6 months\"",
+      "label": "Charlie Kirk debate clip with Ben Carollo played on air, in which Charlie states \"Unlike you, my wife lived in China for 6 months\"",
       "node_kind": "artifact",
       "episode": 59
     },
@@ -109046,7 +109046,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1664.1",
-      "label": "Vogue article on the Beckham–Peltz wedding read on-air, describing the ceremony, dinner, three-dance sequence, and Mark Anthony's late-night DJ set beginning at 11 p.m.",
+      "label": "Vogue article on the Beckham–Peltz wedding read on-air, describing the ceremony, dinner, three-dance sequence, and Marc Anthony's late-night DJ set beginning at 11 p.m.",
       "node_kind": "artifact",
       "episode": 61
     },
@@ -109305,21 +109305,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1680.1",
-      "label": "Phone threat message targeting TPUSA, previously displayed in an earlier episode; now identified by host and attributed via audio match to Lorie Cardardoza Moore.",
+      "label": "Phone threat message targeting TPUSA, previously displayed in an earlier episode; now identified by host and attributed via audio match to Laurie Cardoza-Moore.",
       "node_kind": "artifact",
       "episode": 63
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1681",
-      "label": "Lorie Cardardoza Moore Audio Rant Bundle",
+      "label": "Laurie Cardoza-Moore Audio Rant Bundle",
       "node_kind": "artifact",
       "episode": 63
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1681.1",
-      "label": "Audio recording of Lorie Cardardoza Moore ranting in her car about Tucker Carlson's speech at a TPUSA Tampa conference, Michelle Bachmann's five-minute pro-Israel segment, audience booing and 10% walk",
+      "label": "Audio recording of Laurie Cardoza-Moore ranting in her car about Tucker Carlson's speech at a TPUSA Tampa conference, Michele Bachmann's five-minute pro-Israel segment, audience booing and 10% walkout",
       "node_kind": "artifact",
       "episode": 63
     },
@@ -109333,7 +109333,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1682.1",
-      "label": "Vintage 1-900 romance hotline advertisement audio (\"Are you over 30 and single? … Romance Hotline 1-900-980-…\") played on air for voice matching to Lorie Cardardoza Moore.",
+      "label": "Vintage 1-900 romance hotline advertisement audio (\"Are you over 30 and single? … Romance Hotline 1-900-980-…\") played on air for voice matching to Laurie Cardoza-Moore.",
       "node_kind": "artifact",
       "episode": 63
     },
@@ -109487,7 +109487,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1687.1",
-      "label": "Doug DeGroot Board Letter Announcing Erika Kirk as CEO and Chair (Published 2025-09-17)",
+      "label": "Doug DeGroote Board Letter Announcing Erika Kirk as CEO and Chair (Published 2025-09-17)",
       "node_kind": "artifact",
       "episode": 64
     },
@@ -109585,7 +109585,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1693",
-      "label": "Arstrovski October 7th Photo Set",
+      "label": "Ostrovsky October 7th Photo Set",
       "node_kind": "artifact",
       "episode": 65
     },
@@ -109599,7 +109599,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1693.2",
-      "label": "Arstrovski Bandaged Photo",
+      "label": "Ostrovsky Bandaged Photo",
       "node_kind": "artifact",
       "episode": 65
     },
@@ -109739,7 +109739,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1702",
-      "label": "Ben Shapiro on Charman the God Morning Show",
+      "label": "Ben Shapiro on Charlamagne tha God Morning Show",
       "node_kind": "artifact",
       "episode": 65
     },
@@ -110215,14 +110215,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1731.1",
-      "label": "BBC report that Gorg Fastbinder had made the discovery of Gilgamesh's tomb (reported a couple of weeks after the 2003 invasion)",
+      "label": "BBC report that Jörg Fassbinder had made the discovery of Gilgamesh's tomb (reported a couple of weeks after the 2003 invasion)",
       "node_kind": "artifact",
       "episode": 68
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1731.2",
-      "label": "Headline(s) describing German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 –",
+      "label": "Headline(s) describing German geophysicists Jörg Fassbinder and Helmut Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 –",
       "node_kind": "artifact",
       "episode": 68
     },
@@ -122899,7 +122899,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2462.1",
-      "label": "Doug DeGroot on-record that Charlie and Erika planned to sign will paperwork the Monday after the murder; host overlays alleged Mikey McCoy gatekeeping and prior cancellations.",
+      "label": "Doug DeGroote on-record that Charlie and Erika planned to sign will paperwork the Monday after the murder; host overlays alleged Mikey McCoy gatekeeping and prior cancellations.",
       "node_kind": "artifact",
       "episode": 158
     },
@@ -128429,14 +128429,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2769",
-      "label": "Rabbi Barlay Daily Wire Interview Bundle",
+      "label": "Rabbi Barclay Daily Wire Interview Bundle",
       "node_kind": "artifact",
       "episode": 65
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2769.1",
-      "label": "Host verbal reference to her interview with Rabbi Barlay near the end of her Daily Wire tenure, and to his offer of a private screening of October 7th footage (not shown)",
+      "label": "Host verbal reference to her interview with Rabbi Barclay near the end of her Daily Wire tenure, and to his offer of a private screening of October 7th footage (not shown)",
       "node_kind": "artifact",
       "episode": 65
     },
@@ -129248,7 +129248,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2809.1",
-      "label": "Host verbal reference to the unnamed person who fielded TPUSA's PR requests and wrote the death statement, whom the host says she fact-checked against Doug DeGroot's account (not shown)",
+      "label": "Host verbal reference to the unnamed person who fielded TPUSA's PR requests and wrote the death statement, whom the host says she fact-checked against Doug DeGroote's account (not shown)",
       "node_kind": "artifact",
       "episode": 159
     },
@@ -129885,7 +129885,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2849.1",
-      "label": "Host verbal reference to posts by the Brave Report account identifying the author of the threat message as Lorie Cardardoza Moore (posts not shown)",
+      "label": "Host verbal reference to posts by the Brave Report account identifying the author of the threat message as Laurie Cardoza-Moore (posts not shown)",
       "node_kind": "artifact",
       "episode": 63
     },

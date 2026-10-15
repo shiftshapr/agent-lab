@@ -1134,8 +1134,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-925",
-      "ref": "N-925",
+      "@id": "N-924",
+      "ref": "N-924",
       "name": "Elizabeth Holmes",
       "type": "person",
       "description": "First named by the host at 00:56:01 in episode 121. Former biotech entrepreneur convicted of fraud, discussed in a commenter's comparison to Erika Kirk.",
@@ -3608,7 +3608,7 @@
       "investigative_direction": "Fringe; Holmes is held in a federal facility per the Bureau of Prisons.",
       "transcript_snippet": "She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.",
       "mentions_person_refs": [
-        "N-925"
+        "N-924"
       ]
     },
     {

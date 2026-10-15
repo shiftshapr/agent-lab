@@ -115,7 +115,7 @@ Confidence: high
 
 ## II. Executive Summary
 
-Episode 68 advances two parallel evidentiary threads. The first is a Babylon/Iraq-War thread in which the host cites viewer correspondence, German geophysicists' tomb-finding coverage, a 2005 British Museum report, a 2009 United Nations article, an NBC News piece, and a BBC report concerning Gorg Fastbinder's discovery of the Gilgamesh/Nimrod tomb site, framing these as documentary anchors for her claim that the 2003 invasion of Iraq was functionally tied to an archaeological extraction operation at Babylon.
+Episode 68 advances two parallel evidentiary threads. The first is a Babylon/Iraq-War thread in which the host cites viewer correspondence, German geophysicists' tomb-finding coverage, a 2005 British Museum report, a 2009 United Nations article, an NBC News piece, and a BBC report concerning Jörg Fassbinder's discovery of the Gilgamesh/Nimrod tomb site, framing these as documentary anchors for her claim that the 2003 invasion of Iraq was functionally tied to an archaeological extraction operation at Babylon.
 
 The second thread is a direct attack on Erika Kirk's reported alibi for September 8 and September 10, 2025. The host anchors her skepticism to a specific Sept 7, 2025 Erika Kirk Instagram post (which the host reads aloud in detail), a New York Times article reporting Erika was at a hospital when Mikey McCoy called, described text messages from Justin Streiff, and the New York Times's wording about the timing of the McCoy call. The host explicitly states she cannot confirm the hospital alibi and that Erika's mother was reportedly at a "holistic clinic" rather than a hospital.
 
@@ -201,7 +201,7 @@ Confidence Level: High
 
 **A-1731** Gilgamesh Tomb Discovery Coverage Bundle
 
-**A-1731.1** BBC report that Gorg Fastbinder had made the discovery of Gilgamesh's tomb (reported a couple of weeks after the 2003 invasion)
+**A-1731.1** BBC report that Jörg Fassbinder had made the discovery of Gilgamesh's tomb (reported a couple of weeks after the 2003 invasion)
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:09:00
@@ -209,7 +209,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 *Related: C-2290, N-538, N-10484*
 
-**A-1731.2** Headline(s) describing German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 – early 2003
+**A-1731.2** Headline(s) describing German geophysicists Jörg Fassbinder and Helmut Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 – early 2003
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:07:30
@@ -381,7 +381,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-538** Gorg Fastbinder
+**N-538** Jörg Fassbinder
 German geophysicist (Bavarian State Conservation Office, Munich) credited in the episode with discovering Gilgamesh's tomb via magnetic mapping between May 2002 and early 2003; subject of BBC follow-up coverage.
 Evidence Count: 1
 Claim Count: 2
@@ -390,7 +390,7 @@ Investigative Pressure: Medium
 *Related: A-1731.1, A-1731.2, C-2290, C-2291*
 
 **N-539** Helmut Becker
-German geophysicist working alongside Gorg Fastbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.
+German geophysicist working alongside Jörg Fassbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
@@ -865,7 +865,7 @@ Investigative Direction: Locate the specific BBC report and confirm date.
 
 **C-2291** Host Says German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003
 Claim Timestamp: 00:07:30
-Claim: The host says, citing a headline she shows, that German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.
+Claim: The host says, citing a headline she shows, that German geophysicists Jörg Fassbinder and Helmut Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.
 Anchored Artifacts: A-1731.2
 Mentions: N-538, N-539
 Investigative Direction: Locate primary publications or institutional releases confirming the timeline.
@@ -1692,7 +1692,7 @@ Investigative Direction: Ask Finkelstein or find his published account of any co
 
 ## VII. Optional Flags
 
-- **Name uncertainty:** "Gorg Fastbinder" likely transcription of "Georg Fastbinder"; "Helmet Becker" likely transcription of "Helmut Becker."
+- **Name uncertainty:** "Jörg Fassbinder" likely transcription of "Georg Fastbinder"; "Helmut Becker" likely transcription of "Helmut Becker."
 - **Name uncertainty:** "Justin Streiff" appears in the transcript; may be a phonetic capture of "Justin Stiefel" or similar.
 - **Artifact verbally referenced but not shown:** A-1727.1 (April 2022 post), A-1728.1 (NYT article – name only, no image), A-1731.2 (German geophysicists headline – host says "I'm going to show you this headline" but no image present in source), A-1735.1 (text messages described, not displayed), A-1737.1 (Kevin Sorbo tweet referenced, not displayed).
 - **Transcript ambiguity:** Several instances of "Frank Turek" – context suggests it may be "Frank Turek" but preserved as "Frank Turek" per transcript.

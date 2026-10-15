@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 56d0f23b17a0cf753736039d602659d87c37358b53687d087f88f5fff2bdc3c5
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-866, N-867, N-868, N-11259, N-11260, N-11261
+  - Tip-minted Nodes (supplement_2026-10d): N-865, N-866, N-867, N-11259, N-11260, N-11261
   - Tip-minted Nodes (reintro-ep140): N-11066, N-11067
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10423–C-10499
   - New Nodes Introduced: N-10792
-  - Reused Nodes Appearing: N-2, N-18, N-9, N-14, N-60, N-101, N-161, N-270, N-368, N-369, N-10000, N-10011, N-10012, N-10051, N-10052, N-10062, N-10077, N-10097, N-10139, N-10198, N-10338, N-10381, N-10416, N-10780, N-10787, N-10899, N-10900, N-11182, N-869, N-10791, N-10793, N-11262
+  - Reused Nodes Appearing: N-2, N-18, N-9, N-14, N-60, N-101, N-161, N-270, N-368, N-369, N-10000, N-10011, N-10012, N-10051, N-10052, N-10062, N-10077, N-10097, N-10139, N-10198, N-10338, N-10381, N-10416, N-10780, N-10787, N-10899, N-10900, N-11182, N-868, N-10791, N-10793, N-11262
   - Hole-minted Nodes (wave3): N-563
   - (see registers)
 
@@ -745,7 +745,7 @@ Existing topic reused for the PR agent claim.
 
 ---
 
-**N-866** Agent Hoole
+**N-865** Agent Hoole
 
 First named by the host at 00:17:43 in episode 140. Investigator whose court testimony about a vehicle is played and analysed.
 
@@ -753,7 +753,7 @@ First named by the host at 00:17:43 in episode 140. Investigator whose court tes
 
 ---
 
-**N-867** Officer Goforth
+**N-866** Officer Goforth
 
 First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hoole's testimony as the officer a vehicle made contact with.
 
@@ -761,7 +761,7 @@ First named by the host at 00:18:42 in episode 140. Security-detail officer iden
 
 ---
 
-**N-868** Haim Braverman
+**N-867** Haim Braverman
 
 First named by the host at 00:29:36 in episode 140. Man the host says was arrested and pled guilty after plotting against her from a group chat.
 
@@ -769,7 +769,7 @@ First named by the host at 00:29:36 in episode 140. Man the host says was arrest
 
 ---
 
-**N-869** Britta Weidner
+**N-868** Britta Weidner
 
 First named by the host at 00:31:45 in episode 140 (spelled Britta Whitener and Brita in the transcript). Owner of the No Soup For You / No Soup for Noels X account.
 
@@ -1394,7 +1394,7 @@ Claim: The host says she wrongly assumed Robinson had been pulled over, but afte
 Transcript Snippet: I wrongly assumed that he had been pulled over.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-40, N-866
+Mentions: N-40, N-865
 Related Nodes: N-11261
 Supports: C-3266
 Tags: relevance:core
@@ -1411,7 +1411,7 @@ Claim: In the testimony audio the host plays, Agent Hoole says the vehicle is no
 Transcript Snippet: that vehicle is now pulling away and heading east on 800 South.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-866, N-867
+Mentions: N-865, N-866
 Related Nodes: N-11261
 Tags: relevance:core
 Investigative Direction: Obtain the exhibit map and video Hoole was describing and the full transcript of this testimony.
@@ -1427,7 +1427,7 @@ Claim: The host says no footage has been shown of the vehicle's contact with the
 Transcript Snippet: We've not seen any footage from that.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-867
+Mentions: N-866
 Related Nodes: N-11261
 Tags: relevance:core
 Investigative Direction: Request the security officer's body-camera footage and report for the contact.
@@ -1638,7 +1638,7 @@ Claim: The host says that after the FBI became involved the group member, whom s
 Transcript Snippet: he got arrested, he pled guilty, his name is Haim Braverman, and he is in prison, you can look that up.
 
 Anchored Artifacts: 
-Mentions: N-868, N-3
+Mentions: N-867, N-3
 Tags: relevance:context
 Investigative Direction: Search federal court dockets and DOJ press releases for a plea by Haim Braverman and the sentence.
 
@@ -1701,7 +1701,7 @@ Claim: The host says Britta, a Daily Wire super fan, attacked her with the Crisi
 Transcript Snippet: obviously I knew that their PR agent and Jeremy Boreing were working through her
 
 Anchored Artifacts: 
-Mentions: N-869, N-368, N-3
+Mentions: N-868, N-368, N-3
 Related Nodes: N-10900, N-11182
 Tags: relevance:context
 Investigative Direction: Look for coordination evidence between the account and Daily Wire staff or PR, such as shared posts, direct messages or timings.
@@ -1717,7 +1717,7 @@ Claim: The host says Britta Weidner went after her family and husband and was pa
 Transcript Snippet: she's been going after my family, my husband. She was part of people perpetuating the lies about my husband
 
 Anchored Artifacts: 
-Mentions: N-869, N-3
+Mentions: N-868, N-3
 Related Nodes: N-10780, N-10416
 Tags: relevance:context
 Investigative Direction: Compile the April posts about the host's husband and identify which accounts amplified them.
@@ -1733,7 +1733,7 @@ Claim: The host says that a couple of weeks earlier she showed that Laura Loomer
 Transcript Snippet: I think I showed you a couple of weeks ago that like Laura Loomer sent like 1,800 tweets about me
 
 Anchored Artifacts: 
-Mentions: N-60, N-869, N-3
+Mentions: N-60, N-868, N-3
 Tags: relevance:context
 Investigative Direction: Obtain the tweet-counter output shown in the earlier episode and re-run the count on Loomer's account.
 

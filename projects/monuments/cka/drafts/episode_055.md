@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: a5bff101f5406cc545238101be4cd19cc555a0c068fccc2dca23c05ae7f6ae04
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-938, N-11383, N-11384, N-11385, N-11386
+  - Tip-minted Nodes (supplement_2026-10g): N-937, N-11383, N-11384, N-11385, N-11386
   - Hole-minted Nodes (reintro-ep055): N-10883
   - Tip-minted Nodes (reintro-ep055): N-615
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -48,17 +48,17 @@
 
 ## II. Executive Summary
 
-This episode advances the series' investigation of the post-assassination public relations apparatus surrounding Turning Point USA, the Falwell Center, and the formation of Turning Point Faith. The host presents several artifact-anchored evidentiary items: a text message exchange with Andrew Kolbett concerning a dream involving Charlie Kirk; a Christianity Today article read aloud on Johnny Moore's origins at Liberty University; a New York Times article on Japanese LDP–Unification Church ties in connection with the assassination of Shinzō Abe; an audio clip of Johnny Moore describing his ADL and Aspen Institute involvement; a Likud Knesset speech declaring Tucker Carlson and the host as enemies of Israel; and an interview clip of Megyn Kelly discussing pressure to denounce the host.
+This episode advances the series' investigation of the post-assassination public relations apparatus surrounding Turning Point USA, the Falwell Center, and the formation of Turning Point Faith. The host presents several artifact-anchored evidentiary items: a text message exchange with Andrew Kolvet concerning a dream involving Charlie Kirk; a Christianity Today article read aloud on Johnny Moore's origins at Liberty University; a New York Times article on Japanese LDP–Unification Church ties in connection with the assassination of Shinzō Abe; an audio clip of Johnny Moore describing his ADL and Aspen Institute involvement; a Likud Knesset speech declaring Tucker Carlson and the host as enemies of Israel; and an interview clip of Megyn Kelly discussing pressure to denounce the host.
 
-The episode's structural importance lies in the formal articulation of a "Mooney 2.0" thesis: a claimed lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolbett, anchored to a Sun Myung Moon audio quotation about three disciples and to Christianity Today reporting on Moore's early years at Liberty University. Several previously unexplored entities (Ron Godwin, Johnny Moore, the Chyros Company, Mark Burnett) are introduced as candidate members of the investigative graph. Read-aloud fan comments advance an unverified thesis that Erica Kirk acted as Charlie Kirk's handler in establishing the Falwell Center.
+The episode's structural importance lies in the formal articulation of a "Mooney 2.0" thesis: a claimed lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolvet, anchored to a Sun Myung Moon audio quotation about three disciples and to Christianity Today reporting on Moore's early years at Liberty University. Several previously unexplored entities (Ron Godwin, Johnny Moore, the Chyros Company, Mark Burnett) are introduced as candidate members of the investigative graph. Read-aloud fan comments advance an unverified thesis that Erica Kirk acted as Charlie Kirk's handler in establishing the Falwell Center.
 
 ---
 
 ## III. Artifact Register
 
-**A-1607** Candace Owens → Andrew Kolbett Text Exchange Bundle
+**A-1607** Candace Owens → Andrew Kolvet Text Exchange Bundle
 
-**A-1607.1** Text message from Candace Owens to Andrew Kolbett describing dream of Charlie Kirk saying "they betrayed me" and "you know much more than you've said publicly or privately"
+**A-1607.1** Text message from Candace Owens to Andrew Kolvet describing dream of Charlie Kirk saying "they betrayed me" and "you know much more than you've said publicly or privately"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -463,7 +463,7 @@ Investigative Pressure: Low
 
 **N-10402** Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)
 
-Persistent investigative target tracking the alleged lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolbett as it relates to Turning Point Faith / Falwell Center.
+Persistent investigative target tracking the alleged lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolvet as it relates to Turning Point Faith / Falwell Center.
 
 Evidence Count: 3
 Claim Count: 4
@@ -487,9 +487,9 @@ Investigative Pressure: Low
 
 ---
 
-**N-10404** Candace Owens Dream Vision of Andrew Kolbett
+**N-10404** Candace Owens Dream Vision of Andrew Kolvet
 
-Persistent investigative target tracking the host's reported recurring dream in which Charlie Kirk appeared and revealed Andrew Kolbett's face; framed by host as prophetic of Kolbett's role in PR operations.
+Persistent investigative target tracking the host's reported recurring dream in which Charlie Kirk appeared and revealed Andrew Kolvet's face; framed by host as prophetic of Kolvet's role in PR operations.
 
 Evidence Count: 1
 Claim Count: 2
@@ -816,7 +816,7 @@ Existing organization reused for new claims in this episode.
 
 ---
 
-**N-938** Javier Milei
+**N-937** Javier Milei
 
 First named by the host at 00:49:54 in episode 55 (transcribed as 'Mle'). Argentine president whom the host says she distrusted and about whom she repeats a surname rumor.
 
@@ -862,11 +862,11 @@ The host's stated plan to examine Erika Kirk's charities and her claims of livin
 
 ## V. Claim Register
 
-**C-2047** Text message from Candace Owens to Andrew Kolbett described Charlie Kirk dream stating he was betrayed and Andrew knew more than publicly stated
+**C-2047** Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Andrew Knew More Than Publicly Stated
 
 Claim Timestamp: 00:07:11–00:08:04
 
-Claim: The host presented a text message she sent to Andrew Kolbett describing a recurring dream in which Charlie Kirk stated he was betrayed, that "they" were hiding what happened "to my left," and that Kolbett "know[s] much more than you've said publicly or privately."
+Claim: The host presented a text message she sent to Andrew Kolvet describing a vivid dream in which Charlie Kirk stated he was betrayed, that "they" were hiding what happened "to my left," and that Kolvet "know[s] much more than you've said publicly or privately."
 
 Anchored Artifacts: A-1607.1
 Mentions: N-14, N-3, N-1
@@ -877,11 +877,11 @@ Investigative Direction: Obtain verification of the text exchange; identify the 
 
 ---
 
-**C-2048** Andrew Kolbett never replied to the dream text from Candace Owens
+**C-2048** Andrew Kolvet Never Replied to the Dream Text From Candace Owens
 
 Claim Timestamp: 00:08:04
 
-Claim: The host stated that Andrew Kolbett did not respond to her text message and that this was the last time they spoke.
+Claim: The host stated that Andrew Kolvet did not respond to her text message and that this was the last time they spoke.
 
 Anchored Artifacts: A-1607.1 (by contextual reference within the same exchange)
 Mentions: N-14, N-3
@@ -899,7 +899,7 @@ Claim Timestamp: 00:23:45–00:24:10
 Claim: The host reads from Christianity Today that "Johnny Moore was only 14 when he first stayed in the dorms at Liberty University" and that he had remained at the school founded by Jerry Falwell Senior.
 
 Anchored Artifacts: A-1608.1
-Mentions: N-439, N-441
+Mentions: N-439, N-400
 
 Related Nodes: N-10402
 
@@ -929,7 +929,7 @@ Claim Timestamp: 00:12:48–00:13:40
 Claim: The New York Times reported that an internal audit by Japan's Liberal Democratic Party found approximately 180 elected lawmakers (almost half of the party's parliamentary membership) had accepted donations from or attended events of the Unification Church and related organizations.
 
 Anchored Artifacts: A-1609.1
-Mentions: N-401, N-446
+Mentions: 
 
 
 Investigative Direction: Locate the cited New York Times article; verify exact figures and any subsequent party responses.
@@ -1071,7 +1071,7 @@ Investigative Direction: Obtain video of Amfest remarks; verify date, exact word
 
 ---
 
-**C-2061** Top comment claims Erika Kirk was brought in as Charlie Kirk's handler at the Falwell Center
+**C-2061** Top Comment Claims Erika Kirk Was Brought in as Charlie Kirk's Handler at the Falkirk Center
 
 Claim Timestamp: 00:46:41–00:47:35
 
@@ -1086,7 +1086,7 @@ Investigative Direction: Requires corroboration through independent sources docu
 
 ---
 
-**C-2062** Top comment from "Natty Nicole" expresses being heartbroken and questions Andrew Kolbett's conscience
+**C-2062** Top Comment From Natty Nicole Expresses Being Heartbroken and Questions Andrew Kolvet's Conscience
 
 Claim Timestamp: 00:47:35–00:48:56
 
@@ -1186,7 +1186,7 @@ Investigative Direction: No investigative direction.
 
 **C-2069** Pre-born sponsorship claims 7 million American women suffer severe long-lasting emotional distress after abortion
 
-Claim Timestamp: 00:29:23–00:30:30
+Claim Timestamp: 00:28:35
 
 Claim: A host-read advertisement claimed 7 million American women suffer severe, long-lasting emotional distress after abortion; the ad solicited $28 ultrasound sponsorships.
 
@@ -1348,7 +1348,7 @@ Anchored Artifacts:
 Mentions: N-3, N-1
 Related Nodes: N-10404, N-10026
 Supports: C-9642
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the host's and Kirk's 2018 Israel trip dates, itinerary and photos against her account of the restaurant lunch.
 
 ---
@@ -1618,7 +1618,7 @@ Claim: The host says Shinzo Abe was shot and killed by a 41-year-old man who bla
 Transcript Snippet: he was shot and he was killed because a 41-year-old man blamed the prime minister whose family did in fact have longunning ties to the Mooney church
 
 Anchored Artifacts: A-1609.1
-Mentions: N-446
+Mentions: N-446, N-445
 Related Nodes: N-10399, N-10402
 Tags: relevance:context
 Investigative Direction: Verify against Japanese court records and major outlets on the shooter's stated motive and the Abe family's documented ties to the church.
@@ -1634,7 +1634,7 @@ Claim: The host says the man who killed Abe was destitute because the church had
 Transcript Snippet: They had brainwashed his mother in her old age, brainwashed her into giving the church all of his family's money
 
 Anchored Artifacts: 
-Mentions: N-446
+Mentions: N-446, N-445
 Related Nodes: N-10399, N-10402
 Tags: relevance:context
 Investigative Direction: Check trial reporting on the shooter's family finances and the siblings' circumstances; the host notes this is not a justification.
@@ -2199,7 +2199,7 @@ Investigative Direction: Unspecified buyers and events; ask the host which fires
 
 Claim Timestamp: 00:32:10
 
-Claim: The host says there is no separation between Mossad and the CIA, and that Benjamin Netanyahu used to work for the CIA, which she thinks was uncovered during her Epstein series but says not to quote her.
+Claim: The host says it is almost as if there is no separation between Mossad and the CIA, and that Benjamin Netanyahu used to work for the CIA, which she thinks was uncovered during her Epstein series but says not to quote her.
 
 Transcript Snippet: It's almost as if the MSAD and the CIA, there is no separation between the two. It's why BB used to work for the CIA
 
@@ -2471,7 +2471,7 @@ Investigative Direction: Review declassified material on Moon's Korean and CIA c
 
 ---
 
-**C-14164** Host Says Pearl Harbor and Lyndon Johnson Warrant a False-Flag Style Review
+**C-14164** Host Teases Pearl Harbor and Lyndon Johnson Topics, Says Vibes Are Off
 
 Claim Timestamp: 00:49:54
 
@@ -2486,7 +2486,7 @@ Investigative Direction: Off-topic historical assertion; no source given.
 
 ---
 
-**C-14165** Host Says Argentina's President Looks Like Netanyahu and Reportedly Has a Jewish-Sounding Full Surname
+**C-14165** Host Says Argentina's President Looks a Little Like Netanyahu and Cites a Rumor About His Full Last Name
 
 Claim Timestamp: 00:49:54
 
@@ -2495,7 +2495,7 @@ Claim: The host says she was attacked for distrusting the Argentine president, t
 Transcript Snippet: Saw some stuff about like really his full last name is Milei and he looks a little like BB Nyahoo.
 
 Anchored Artifacts: 
-Mentions: N-938, N-36
+Mentions: N-937, N-36
 Tags: relevance:tangential
 Investigative Direction: Check Javier Milei's recorded family names; the host offers only a viral rumor and labels it a conspiracy.
 
@@ -2541,7 +2541,7 @@ Transcript Snippet: you find out that there's some like government government in
 
 Anchored Artifacts: 
 Mentions: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Unspecified cases; ask the host to name the shootings and the benefit alleged.
 
 ---
@@ -2550,12 +2550,12 @@ Investigative Direction: Unspecified cases; ask the host to name the shootings a
 
 Claim Timestamp: 00:51:36
 
-Claim: The host says she does believe that one world government is the explicit aim and that therefore our kids have no chance unless people are brave.
+Claim: The host says that if this really does become one world government, which she believes is the explicit aim, our kids have no chance, and she asks whether people love their families enough to be brave.
 
 Transcript Snippet: If this really does become one world government and I do believe that that is the explicit aim, our kids just have no no chance.
 
 Anchored Artifacts: 
-Mentions: N-1
+Mentions: 
 Tags: relevance:tangential
 Investigative Direction: A sweeping belief with no source cited.
 
@@ -2769,7 +2769,7 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty – "Sun Myung Moon":** Transcript renders the name as "Sun Myung Moon," "Sun Myung Moon," and "Sun Myung Moon." Preserved most plausible reading as Sun Myung Moon; flag for verification.
-- **Name uncertainty – "Andrew Kolbett":** Transcript renders the name as "Andrew Kolvet's," "Andrew Kolvet," "Andrew Kolvet," "Andrew Kolvet," and "Andrew Kolvet." Preserved as "Andrew Kolbett" as most plausible reading; flag.
+- **Name uncertainty – "Andrew Kolvet":** Transcript renders the name as "Andrew Kolvet's," "Andrew Kolvet," "Andrew Kolvet," "Andrew Kolvet," and "Andrew Kolvet." Preserved as "Andrew Kolvet" as most plausible reading; flag.
 - **Name uncertainty – "Falwell Center":** Transcript renders the name as "Falkirk Center," "Falkirk Center," and "Falkirk Center." Preserved as "Falwell Center" as most plausible reading; flag.
 - **Name uncertainty – "Jerry Falwell Jr.":** Transcript renders as "Jerry Falwell Jr." Preserved as Jerry Falwell Jr.; flag.
 - **Artifact verbally referenced but not shown:** Pre-born PSA statistics (A-1615.1), Nimi Skincare product claims (A-1616.1) – both shown via host read-aloud only; primary documents not presented.

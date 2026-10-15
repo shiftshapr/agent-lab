@@ -2115,8 +2115,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-908",
-      "ref": "N-908",
+      "@id": "N-907",
+      "ref": "N-907",
       "name": "Eric Weinstein",
       "type": "person",
       "description": "Named by the host in episode 20 as someone who reached out after the 2018 Kanye tweet.",
@@ -2132,8 +2132,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-909",
-      "ref": "N-909",
+      "@id": "N-908",
+      "ref": "N-908",
       "name": "Rick Rubin",
       "type": "person",
       "description": "Music producer named by the host in episode 20 as getting involved after the 2018 Kanye tweet.",
@@ -2149,8 +2149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-910",
-      "ref": "N-910",
+      "@id": "N-909",
+      "ref": "N-909",
       "name": "John Lewis",
       "type": "person",
       "description": "Named by the host in episode 20 as a former Daily Wire president who was a naval intelligence officer turned pastor (identity as stated on air, unverified).",
@@ -2166,8 +2166,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-911",
-      "ref": "N-911",
+      "@id": "N-910",
+      "ref": "N-910",
       "name": "MrBeast",
       "type": "person",
       "description": "YouTuber (transcribed \"Mr. Beast\") whose parents the host says are high up in the military.",
@@ -3087,7 +3087,7 @@
       "transcript_snippet": "Suddenly, they get Eric Weinstein&nbsp;&nbsp; involved and he reaches out and he pretends that&nbsp; he wants to be a friend to me.",
       "mentions_person_refs": [
         "N-3",
-        "N-908"
+        "N-907"
       ]
     },
     {
@@ -3106,7 +3106,7 @@
       "transcript_snippet": "Another player in this was Rick Rubin.&nbsp; Yeah, the big music industry. Rick Rubin also&nbsp;&nbsp; got into the mix and wanted to facilitate certain&nbsp; meetings.",
       "mentions_person_refs": [
         "N-3",
-        "N-909"
+        "N-908"
       ]
     },
     {
@@ -3712,7 +3712,7 @@
       "transcript_snippet": "the&nbsp; president at the time of the Daily Wire was also&nbsp;&nbsp; a naval intelligence officer who decided to become&nbsp; a pastor that was John Lewis",
       "mentions_person_refs": [
         "N-3",
-        "N-910"
+        "N-909"
       ]
     },
     {
@@ -3733,7 +3733,7 @@
       "transcript_snippet": "Mr. Beast, both of his parents high&nbsp;&nbsp; up in the military.",
       "mentions_person_refs": [
         "N-3",
-        "N-911"
+        "N-910"
       ]
     },
     {
@@ -3853,7 +3853,7 @@
       "transcript_snippet": "everyone's somehow attached to&nbsp; Raytheon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Raytheon in one way or the other.",
       "mentions_person_refs": [
         "N-3",
-        "N-911"
+        "N-910"
       ]
     },
     {

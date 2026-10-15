@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 5587ba28d19ec6d370a3cc93963758ab5a40894ae434e8384f2029626bd3011c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-949, N-950, N-11402, N-11403, N-11404, N-11405
+  - Tip-minted Nodes (supplement_2026-10g): N-948, N-949, N-11402, N-11403, N-11404, N-11405
   - Hole-minted Nodes (reintro-ep128): N-10777
   - Tip-minted Nodes (reintro-ep128): N-11143, N-11305
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -1030,7 +1030,7 @@ Existing topic reused for the claims below.
 
 ---
 
-**N-949** Itamar Ben-Gvir
+**N-948** Itamar Ben-Gvir
 
 First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.
 
@@ -1038,7 +1038,7 @@ First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.
 
 ---
 
-**N-950** Blaine Holt
+**N-949** Blaine Holt
 
 Air Force Brigadier General who joined Robert O'Neill on Newsmax; first named by the host at 00:04:42 in episode 128.
 
@@ -1468,7 +1468,7 @@ Claim: The host says Itamar Ben-Gvir and Benjamin Netanyahu explicitly came out 
 Transcript Snippet: having them explicitly come out and say that they were rooting uh for that team to win was not helpful.
 
 Anchored Artifacts: 
-Mentions: N-949, N-36, N-3
+Mentions: N-948, N-36, N-3
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Locate the public statements or posts by Ben-Gvir and Netanyahu about the match and confirm which team they backed.
@@ -1566,7 +1566,7 @@ Claim: Air Force Brigadier General Blaine Holt says on Newsmax that he is with R
 Transcript Snippet: Absolutely not. I I I I'm with Rob. Something exploded on him.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-950, N-155, N-1
+Mentions: N-949, N-155, N-1
 Related Nodes: N-10734
 Tags: relevance:core
 Investigative Direction: Ask Holt what he saw that supports an explosion and compare with the autopsy and wound descriptions.
@@ -1582,7 +1582,7 @@ Claim: General Holt says the explanation put out by the Justice Department that 
 Transcript Snippet: the garbage that was foisted upon us from the Justice Department that day where they seemingly solved the case in about eight hot seconds.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-950, N-155
+Mentions: N-949, N-155
 Related Nodes: N-10734
 Tags: relevance:context
 Investigative Direction: Pin down the time between the shooting and the first DOJ or FBI public attribution of the suspect.
@@ -1598,7 +1598,7 @@ Claim: General Holt says a young man who has never killed anyone would not take 
 Transcript Snippet: You're not going to take a.30-06 with a kid who's never killed anybody up onto a roof.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-950, N-155, N-40
+Mentions: N-949, N-155, N-40
 Related Nodes: N-10734
 Tags: relevance:context
 Investigative Direction: Review Robinson's firearms and hunting history in the charging documents.

@@ -817,7 +817,7 @@
           ],
           "related_nodes": [
             "N-188",
-            "N-860"
+            "N-859"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1984,8 +1984,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-860",
-      "ref": "N-860",
+      "@id": "N-859",
+      "ref": "N-859",
       "name": "Kenneth Starr",
       "type": "person",
       "description": "First named by the host at 00:19:48 in episode 74. Former independent counsel described by the host as Jeffrey Epstein's friend, under whom Stacy Sheridan claims to have worked at Pepperdine University. Aliases in the transcript: Kenneth Starr.",
@@ -2008,8 +2008,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-861",
-      "ref": "N-861",
+      "@id": "N-860",
+      "ref": "N-860",
       "name": "Merrick Garland",
       "type": "person",
       "description": "First named by the host at 00:46:09 in episode 74. Former Attorney General, referred to in Pam Bondi's remark that no one asked him about Epstein.",
@@ -2081,7 +2081,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-188",
-        "N-860"
+        "N-859"
       ]
     },
     {
@@ -2136,7 +2136,7 @@
       "@id": "C-2378",
       "ref": "C-2378",
       "label": "Per Nicey Clip, Erika Kirk (Then Frandsen) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15",
-      "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frandsen), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.",
+      "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frantzve), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.",
       "anchored_artifacts": [
         "A-1780.1",
         "A-1781.1"
@@ -3139,7 +3139,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-188",
-        "N-860",
+        "N-859",
         "N-9"
       ]
     },
@@ -3164,7 +3164,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-188",
-        "N-860",
+        "N-859",
         "N-9"
       ]
     },
@@ -4267,7 +4267,7 @@
       "transcript_snippet": "And none of them None of them asked Merrick Garland over the last 4 years one word about Jeffrey Epstein.",
       "mentions_person_refs": [
         "N-85",
-        "N-861",
+        "N-860",
         "N-9"
       ]
     },

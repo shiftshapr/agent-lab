@@ -1,0 +1,758 @@
+[
+ {
+  "claim": "C-8289",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8290",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8291",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8292",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8293",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8294",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8295",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8296",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8297",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8298",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: \"this can't be related to me. I don't think it's related to me.\" Claim drops the hedge.",
+  "fix": {
+   "claim": "The host says she never spoke to this employee, may at most have seen her at an event, and does not think the firing is related to her."
+  }
+ },
+ {
+  "claim": "C-8299",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8300",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8301",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8302",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8303",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8304",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Name confirmed: Marina Minas is TPUSA CMO (dailydot.com/turning-point-usa-aubrey-laitsch-former-employee). \"keeps coming up\" is in the truncated part of the snippet; not checkable.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8305",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Fake Zoom passage falls in the truncated part of the [32:06] block; not checkable.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8306",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8307",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"they thought they were going to find something ... grab the tech and ... find something.\" \"a leak\" is added.",
+  "fix": {
+   "claim": "The host says her sense is that TPUSA thought it would find something, that there is some sort of paranoia going on, and that it may have hoped to grab the tech and find something."
+  }
+ },
+ {
+  "claim": "C-8308",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8309",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8310",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8311",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8312",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8313",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8314",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: \"I think that's really what these legal letters are about.\" Claim drops \"I think\".",
+  "fix": {
+   "claim": "The host says she thinks the legal letters are really about TPUSA knowing something will rise to take its place, and that one cannot sue one's way into relevancy or public favor."
+  }
+ },
+ {
+  "claim": "C-8315",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8316",
+  "episode": 62,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2194",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Erika says \"was it 100 million over you guys that heard the gospel\"; claim puts \"over 100 million\" in quotes as broadcast reach.",
+  "fix": {
+   "claim": "In a clip of the TPUSA corporate-wide Zoom call that the host plays, Erika Kirk opens by thanking staff and citing memorial metrics including over 275,000 attendees and, she says, 100 million who heard the gospel; the host describes the call's tone as upbeat, with laughter."
+  }
+ },
+ {
+  "claim": "C-2195",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Quote is spoken at ~12:45 (block 12:42); claim timestamp 11:24 is ~80s early. Quote also garbles \"20our days\".",
+  "fix": {
+   "timestamp": "00:12:40",
+   "claim": "In a clip the host plays, Erika Kirk tells the call that \"a lot of this the staff that worked on the memorial, they had 20[-hour] days for a week during the time of us grieving the loss of my husband.\""
+  }
+ },
+ {
+  "claim": "C-2196",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Quote spoken ~17:35 (late in the 15:47 block), ~110s after claim timestamp. Erika says \"I heard there were therapy dogs\"; hedge dropped.",
+  "fix": {
+   "timestamp": "00:17:30",
+   "claim": "In a clip the host plays, Erika Kirk tells employees: \"if you do need additional time off, please talk to your director about using paid time off for that,\" while also saying that leadership provided counselors, pastors and, she heard, therapy dogs during the memorial period."
+  }
+ },
+ {
+  "claim": "C-2197",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2198",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2199",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2200",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host reads NYT: Erika says new life \"is actually the least traumatizing thing for me\"; \"since she herself has been raised by her mother...\" is the article's narration, not Erika's quote.",
+  "fix": {
+   "claim": "Per the New York Times profile the host reads, Erika Kirk, eight days after Charlie's assassination, says her new life as a single mother \"is actually the least traumatizing thing for me,\" the article adding that she herself was raised by her mother after her parents divorced when she was young."
+  }
+ },
+ {
+  "claim": "C-2201",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2202",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2203",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Name is Laurie Cardoza-Moore (en.wikipedia.org/wiki/Laurie_Cardoza-Moore). Host says content matches a rant by her; authorship is implied, not stated.",
+  "fix": {
+   "claim": "The host says The Brave Report found that Laurie Cardoza-Moore ranted live online about Tucker Carlson's speech in terms matching virtually everything in the previously circulated Christian Zionist threat message, and plays audio of her ranting in her car.",
+   "names": [
+    {
+     "wrong": "Lorie Cardardoza Moore",
+     "right": "Laurie Cardoza-Moore",
+     "source": "https://en.wikipedia.org/wiki/Laurie_Cardoza-Moore"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2204",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Name is Laurie Cardoza-Moore. Host says sleuths found her background is in acting and romance hotlines; she does not say the voice matches the ad.",
+  "fix": {
+   "claim": "The host says, citing findings by internet sleuths of the \"decentralized intelligence agency,\" that Laurie Cardoza-Moore's background is in acting and romance hotlines, and plays a 1-900 romance hotline advertisement.",
+   "names": [
+    {
+     "wrong": "Lorie Cardardoza Moore",
+     "right": "Laurie Cardoza-Moore",
+     "source": "https://en.wikipedia.org/wiki/Laurie_Cardoza-Moore"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2205",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3660",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"internet sloohs ... the DCIA, the decentralized intelligence agency, is moving quicker.\" She refers to sleuths, not her show/audience; \"crowd-sourced tip network\" is added.",
+  "fix": {
+   "claim": "The host refers to internet sleuths as the DCIA, the decentralized intelligence agency, which she says is moving quicker."
+  }
+ },
+ {
+  "claim": "C-6983",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6984",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6985",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6986",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6987",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6988",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6989",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6990",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6991",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6992",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6993",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6994",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6995",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6996",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Unresolved name: host says \"Elizabeth\"; node N-219 is Eliza McCoy, not confirmed.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6997",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6998",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6999",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7000",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7001",
+  "episode": 63,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

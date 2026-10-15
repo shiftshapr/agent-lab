@@ -404,7 +404,7 @@ Confidence Level: High (comments as read); Medium (Telegram dual-account allegat
 
 **A-2809** Host Verbal Tip and Source References Bundle
 
-**A-2809.1** Host verbal reference to the unnamed person who fielded TPUSA's PR requests and wrote the death statement, whom the host says she fact-checked against Doug DeGroot's account (not shown)
+**A-2809.1** Host verbal reference to the unnamed person who fielded TPUSA's PR requests and wrote the death statement, whom the host says she fact-checked against Doug DeGroote's account (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:02:39
@@ -776,7 +776,7 @@ Episode Count: (series-level)
 
 ---
 
-**N-498** Doug DeGroot
+**N-498** Doug DeGroote
 
 Opening callback: board-member claim that media pressure forced rapid Erika CEO naming.
 
@@ -1207,7 +1207,7 @@ Former US senator. Host recalls his BCG advisory tie to Benjamin Netanyahu in th
 **N-11092** Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)
 
 Node Type: Topic
-Conflict between board member Doug DeGroot's account that journalist pressure forced a rapid CEO naming and the host's TPUSA PR source who told her otherwise.
+Conflict between board member Doug DeGroote's account that journalist pressure forced a rapid CEO naming and the host's TPUSA PR source who told her otherwise.
 
 *Related: C-6353, C-6354*
 
@@ -1790,11 +1790,11 @@ Investigative Direction: Pull the Vanity Fair profile passage and TPUSA board re
 
 ---
 
-**C-6353** Doug DeGroot says journalists' pressure forced TPUSA to name a successor quickly
+**C-6353** Doug DeGroote says journalists' pressure forced TPUSA to name a successor quickly
 
 Claim Timestamp: 00:01:36
 
-Claim: The host says board member and financial adviser Doug DeGroot attributes the rapid naming of Erika to journalists pressing Turning Point USA for who would replace Charlie rather than for updates on the unlocated shooter.
+Claim: The host says board member and financial adviser Doug DeGroote attributes the rapid naming of Erika to journalists pressing Turning Point USA for who would replace Charlie rather than for updates on the unlocated shooter.
 
 Transcript Snippet: according to Doug Degroot, the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie.
 

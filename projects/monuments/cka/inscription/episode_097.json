@@ -438,7 +438,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-789"
+            "N-788"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-789",
-      "ref": "N-789",
+      "@id": "N-788",
+      "ref": "N-788",
       "name": "Hasan Piker",
       "type": "person",
       "description": "Streamer; first named in A-2023.1.",
@@ -1945,8 +1945,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-865",
-      "ref": "N-865",
+      "@id": "N-864",
+      "ref": "N-864",
       "name": "Matt Slauson",
       "type": "person",
       "description": "First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.",
@@ -3851,7 +3851,7 @@
       "transcript_snippet": "this lawyer, Matt Slauson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.",
       "mentions_person_refs": [
         "N-3",
-        "N-865",
+        "N-864",
         "N-60"
       ]
     },

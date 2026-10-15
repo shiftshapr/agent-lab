@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4b6e184f626db3b6b36ff537b80ba53f94d4abe1f21b413f75e391ab5ac5370a
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-882, N-11281
+  - Tip-minted Nodes (supplement_2026-10e): N-881, N-11281
   - Hole-minted Nodes (reintro-ep039): N-10397
   - Tip-minted Nodes (reintro-ep039): N-11202
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -877,7 +877,7 @@ Female Jewish donor confrontation after Tucker speech; reused for donor reaction
 
 ---
 
-**N-882** Eric Dupond-Moretti
+**N-881** Eric Dupond-Moretti
 
 First named by the host at 00:05:25 in episode 39. Transcribed Eric Dupond Moretti and Eric Dupon Moretti; the host says he made an argument for happy incest.
 
@@ -1253,7 +1253,7 @@ Claim: The host says that before her Becoming Brigitte season 2 was interrupted 
 Transcript Snippet: we were speaking about how he was kind of known a name for himself making an argument for happy incest.
 
 Anchored Artifacts: 
-Mentions: N-882, N-3
+Mentions: N-881, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check the Becoming Brigitte season 2 episode where Dupond-Moretti was discussed and the source of the happy-incest characterization.

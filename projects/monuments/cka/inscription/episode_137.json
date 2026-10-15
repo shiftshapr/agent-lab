@@ -326,7 +326,7 @@
             "N-1",
             "N-3",
             "N-40",
-            "N-788"
+            "N-787"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -357,7 +357,7 @@
             "N-1",
             "N-3",
             "N-508",
-            "N-753"
+            "N-752"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -384,7 +384,7 @@
           "related_nodes": [
             "N-3",
             "N-508",
-            "N-753"
+            "N-752"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -968,8 +968,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-753",
-      "ref": "N-753",
+      "@id": "N-752",
+      "ref": "N-752",
       "name": "Allan Robertson",
       "type": "person",
       "description": "Allan Robertson; USU officer on the rooftop, subject of the Brady and threat-assessment update.",
@@ -1377,8 +1377,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-788",
-      "ref": "N-788",
+      "@id": "N-787",
+      "ref": "N-787",
       "name": "Mike Lee",
       "type": "person",
       "description": "First named by the host at 00:09:13 in episode 137 (spelled Mike Shamway Lee in the transcript). Utah senator the host says was slated to attend the Sept 10 UVU event and whose name was used as a cover story.",
@@ -1985,7 +1985,7 @@
       "investigative_direction": "Ask Senator Lee's office and TPUSA for the event invitation list and whether Lee was ever confirmed as an attendee.",
       "transcript_snippet": "Senator Lee was actually slated to attend the Charlie Kirk event at UVU on September 10th.",
       "mentions_person_refs": [
-        "N-788",
+        "N-787",
         "N-1",
         "N-3"
       ]
@@ -2009,7 +2009,7 @@
       "investigative_direction": "Check the Senate schedule and NDAA floor votes for the week of September 8, 2025 and any Lee office statement about the cancellation.",
       "transcript_snippet": "that week the senator had to cancel very early on in the week due to the National Defense Authorization Act",
       "mentions_person_refs": [
-        "N-788"
+        "N-787"
       ]
     },
     {
@@ -2027,7 +2027,7 @@
       "investigative_direction": "Check Lee's official biography for his birthplace and his father's role at BYU Law.",
       "transcript_snippet": "His father was actually the founding dean of BYU's law school program.",
       "mentions_person_refs": [
-        "N-788"
+        "N-787"
       ]
     },
     {
@@ -2050,7 +2050,7 @@
       "investigative_direction": "Ask UVU police and Senator Lee's office whether Lee's office was contacted after September 10, 2025 about a campus incident and what was said.",
       "transcript_snippet": "I've got a source that UVU tells me that after the assassination of Charlie, Mike Lee was contacted due to something unusual that took place on campus the day before the shooting.",
       "mentions_person_refs": [
-        "N-788",
+        "N-787",
         "N-1",
         "N-3"
       ]
@@ -2075,7 +2075,7 @@
       "investigative_direction": "Request UVU security and police incident logs, radio traffic and any field-contact record for September 9, 2025.",
       "transcript_snippet": "he told the campus security that he was Senator Mike Lee's bodyguard, scoping out the area to ensure that the senator was going to be safe ahead of the event.",
       "mentions_person_refs": [
-        "N-788",
+        "N-787",
         "N-3"
       ]
     },
@@ -2098,7 +2098,7 @@
       "investigative_direction": "Ask Lee's Senate office whether any staff or security accompanied him to Utah events in September 2025.",
       "transcript_snippet": "And I have done some digging and it also appears that Mike Lee is pretty down to earth. He doesn't actually have a security apparatus, a security team.",
       "mentions_person_refs": [
-        "N-788",
+        "N-787",
         "N-3"
       ]
     },
@@ -2434,7 +2434,7 @@
         "C-3203"
       ],
       "mentions_person_refs": [
-        "N-753",
+        "N-752",
         "N-3"
       ]
     },
@@ -2460,7 +2460,7 @@
         "C-3199"
       ],
       "mentions_person_refs": [
-        "N-753",
+        "N-752",
         "N-1",
         "N-3"
       ]
@@ -2488,7 +2488,7 @@
       ],
       "mentions_person_refs": [
         "N-508",
-        "N-753",
+        "N-752",
         "N-3"
       ]
     },
@@ -2531,7 +2531,7 @@
       "transcript_snippet": "he actually does slip and say Allen at one point, so he definitely knew who the person was.",
       "mentions_person_refs": [
         "N-508",
-        "N-753",
+        "N-752",
         "N-3"
       ]
     },
@@ -2557,7 +2557,7 @@
         "C-3203"
       ],
       "mentions_person_refs": [
-        "N-753",
+        "N-752",
         "N-3"
       ]
     },

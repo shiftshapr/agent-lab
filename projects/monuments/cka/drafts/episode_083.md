@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: af9d7478540e605b0d93fec65bec36ded2c5822785e3273b1e7fd2f45e84709d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-916, N-917, N-11344, N-11345
+  - Tip-minted Nodes (supplement_2026-10f): N-915, N-916, N-11344, N-11345
   - Tip-minted Nodes (reintro-ep083): N-601, N-628, N-651, N-11208
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12750–C-12817
@@ -319,7 +319,7 @@ Video Timestamp: 00:50:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12814, N-916, N-69, N-917*
+*Related: C-12814, N-915, N-69, N-916*
 
 ---
 
@@ -778,7 +778,7 @@ Timpanogos Regional Hospital; destination of the transport time estimate.
 
 ---
 
-**N-916** Michael Flynn
+**N-915** Michael Flynn
 
 First named by the host as General Michael Flynn at 00:30:42 in episode 083. Retired general named as an anchor in the Wilkins thread and as a speaker at the Catholics for Catholics event.
 
@@ -786,7 +786,7 @@ First named by the host as General Michael Flynn at 00:30:42 in episode 083. Ret
 
 ---
 
-**N-917** Clay Clark
+**N-916** Clay Clark
 
 First named in a viewer comment at 00:50:53 in episode 083, as organizer of the Awaken America Tours with whom Flynn and Patel appeared.
 
@@ -1905,7 +1905,7 @@ Claim: The host says Alexis Wilkins presented a 13-part thread alleging Russia i
 Transcript Snippet: she presented this theory in a 13-part thread explaining how she realized that Russia was behind a foreign influence campaign that controls me and Tucker Carlson and Joe Kent and General Michael Flynn and they are doing it through the Catholic Church
 
 Anchored Artifacts: A-1896.1
-Mentions: N-214, N-3, N-22, N-211, N-916, N-628
+Mentions: N-214, N-3, N-22, N-211, N-915, N-628
 Related Nodes: N-10563, N-10956
 Supports: C-2568
 Tags: relevance:context
@@ -1938,7 +1938,7 @@ Claim: The host says General Michael Flynn spoke at the Catholics for Catholics 
 Transcript Snippet: General Michael Flynn spoke there. By the way, that's the first time that I've ever spoken to General Michael Flynn that I remember.
 
 Anchored Artifacts: A-1896.1
-Mentions: N-916, N-3
+Mentions: N-915, N-3
 Related Nodes: N-10956
 Tags: relevance:context
 Investigative Direction: Check the event program and recordings for who spoke and when.
@@ -2132,7 +2132,7 @@ Claim: A viewer comment read by the host says General Flynn brought Kash Patel i
 Transcript Snippet: Pretty rich Wilkins is implicating General Flynn since he was exactly who brought Kash Patel into the Patriot movement through the Awaken America Tours with Clay Clark.
 
 Anchored Artifacts: A-3226.1
-Mentions: N-916, N-69, N-214, N-917, N-3
+Mentions: N-915, N-69, N-214, N-916, N-3
 Related Nodes: N-10563
 Tags: relevance:context
 Investigative Direction: Check Awaken America Tour programs and Patel's appearances alongside Flynn and Clay Clark.
@@ -2148,7 +2148,7 @@ Claim: The host says that later in the thread Alexis Wilkins says the purpose of
 Transcript Snippet: later on she says that the purpose of this is like to not get people to sign up for the military
 
 Anchored Artifacts: A-1896.1
-Mentions: N-214, N-3, N-916
+Mentions: N-214, N-3, N-915
 Related Nodes: N-10563
 Tags: relevance:context
 Investigative Direction: Read the later chapters of the thread for the stated purpose.

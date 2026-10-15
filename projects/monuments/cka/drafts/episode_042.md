@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 3c1f69671097bccc2394ca45fe92d4ded01f6adc3908c9f3aa68a3f9797749b9
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-914, N-11335
+  - Tip-minted Nodes (supplement_2026-10f): N-913, N-11335
   - Tip-minted Nodes (reintro-ep042): N-11057
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12417–C-12476
@@ -632,7 +632,7 @@ The host reports that a TikTok user claimed that, after he submitted videos shot
 
 ---
 
-**N-914** John McCain
+**N-913** John McCain
 
 First named by the host at 00:17:54 in episode 42; the host identifies him as the speaker in a clip addressing protesters in Ukraine.
 
@@ -1265,7 +1265,7 @@ Claim: The host asserts that the 2014 Ukrainian uprising against Yanukovich, in 
 Transcript Snippet: when John McCain went over there and led the protesters in the streets, he was really representing the voice of the people. It was not another United States military color revolution.
 
 Anchored Artifacts: A-1504.1
-Mentions: N-914, N-3
+Mentions: N-913, N-3
 Tags: relevance:tangential
 Investigative Direction: Treat as the host's sweeping historical assertion; assess against documented accounts of the 2013 to 2014 events.
 
@@ -1280,7 +1280,7 @@ Claim: A clip the host identifies as John McCain addressing protesters in Ukrain
 Transcript Snippet: People of Ukraine, this is your moment.
 
 Anchored Artifacts: A-1504.1
-Mentions: N-914
+Mentions: N-913
 Tags: relevance:tangential
 Investigative Direction: Identify the source video and date of the McCain speech.
 
@@ -1295,7 +1295,7 @@ Claim: The host says she believes the Kirk assassination was about as organic as
 Transcript Snippet: that Charlie Kirk's assassination was about as organic as John McCain.
 
 Anchored Artifacts: A-1504.1
-Mentions: N-1, N-914, N-3
+Mentions: N-1, N-913, N-3
 Supports: C-12433
 Tags: relevance:core
 Investigative Direction: Treat as the host's belief; the analogy itself is not evidence.

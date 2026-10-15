@@ -50,7 +50,7 @@
 
 This episode features Candace Owens in extended conversation with Bassem Youssef, an Egyptian-born comedian, former cardiothoracic surgeon, and new American citizen. The interview centers on Youssef's stated pivot from pro-Israel sympathies to anti-Zionist advocacy following a viral appearance on Piers Morgan.
 
-The episode presents several artifact-backed evidentiary items: (1) the Piers Morgan clip in which Youssef displayed a chart citing 2014 Israeli/Palestinian casualty ratios of 88 vs. 2,329 (approximately 1:27); (2) the opening "Anti-Semite of the Year" award segment from Youssef's show referencing Candace Owens' 2024 nomination and Tucker Carlson's win; (3) on-screen display of Arson Arstrovski's two October 7th photos, with host commentary noting inconsistency in blood patterns; (4) read-aloud viewer comments bringing in Ward Boston's notarized statement on the USS Liberty and confirmation of Candace's prior Phil Tourney interview's view count (~7 million); and (5) B-roll footage of current Gaza destruction.
+The episode presents several artifact-backed evidentiary items: (1) the Piers Morgan clip in which Youssef displayed a chart citing 2014 Israeli/Palestinian casualty ratios of 88 vs. 2,329 (approximately 1:27); (2) the opening "Anti-Semite of the Year" award segment from Youssef's show referencing Candace Owens' 2024 nomination and Tucker Carlson's win; (3) on-screen display of Arsen Ostrovsky's two October 7th photos, with host commentary noting inconsistency in blood patterns; (4) read-aloud viewer comments bringing in Ward Boston's notarized statement on the USS Liberty and confirmation of Candace's prior Phil Tourney interview's view count (~7 million); and (5) B-roll footage of current Gaza destruction.
 
 Several materially significant claims are verbally referenced but not displayed as artifacts in this episode, including the book *By Way of Deception* by Victor Ostrovsky, the documentary *Till Kingdom Come*, the Elie Wiesel / Auschwitz Museum statement revision regarding Joseph Mengele, the "Breaking the Silence" IDF whistleblower group, and multiple Ben Shapiro interview clips. These are flagged as verbally referenced but not shown.
 
@@ -108,7 +108,7 @@ Description: Aerial footage of destroyed Gaza cityscape shown on screen during h
 
 ---
 
-**A-1693** Arstrovski October 7th Photo Set
+**A-1693** Ostrovsky October 7th Photo Set
 
 **A-1693.1** Arson Arstrovki Selfie – On Floor with Blood
 
@@ -118,9 +118,9 @@ Video Timestamp: 00:15:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-Description: First photo – Arstrovski shown lying on the floor with visible blood on face. Host remarks it "obviously looks fake."
+Description: First photo – Ostrovsky shown lying on the floor with visible blood on face. Host remarks it "obviously looks fake."
 
-**A-1693.2** Arstrovski Bandaged Photo
+**A-1693.2** Ostrovsky Bandaged Photo
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -128,7 +128,7 @@ Video Timestamp: 00:15:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-Description: Second photo showing Arstrovski with bandages. Host notes there is "not a single point like drop of blood on the bandage" and that "there's no self-respecting medic that will actually leave a face like this trench of blood" without cleaning first.
+Description: Second photo showing Ostrovsky with bandages. Host notes there is "not a single point like drop of blood on the bandage" and that "there's no self-respecting medic that will actually leave a face like this trench of blood" without cleaning first.
 
 *Related: C-2231, N-503, N-10458*
 
@@ -304,7 +304,7 @@ Description: Referenced by Bassem Youssef. Shapiro alleged to have claimed the U
 
 ---
 
-**A-1702** Ben Shapiro on Charman the God Morning Show
+**A-1702** Ben Shapiro on Charlamagne tha God Morning Show
 
 **A-1702.1** Ben Shapiro Morning Show Appearance on Genocide Question
 
@@ -314,7 +314,7 @@ Video Timestamp: 00:05:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-Description: Referenced appearance where Media Hassan followed Shapiro on the show to address details about Israeli genocide claims.
+Description: Referenced appearance where Mehdi Hasan followed Shapiro on the show to address details about Israeli genocide claims.
 
 *Flag: Artifact verbally referenced but not shown*
 
@@ -436,9 +436,9 @@ Confidence Level: Low
 
 ---
 
-**A-2769** Rabbi Barlay Daily Wire Interview Bundle
+**A-2769** Rabbi Barclay Daily Wire Interview Bundle
 
-**A-2769.1** Host verbal reference to her interview with Rabbi Barlay near the end of her Daily Wire tenure, and to his offer of a private screening of October 7th footage (not shown)
+**A-2769.1** Host verbal reference to her interview with Rabbi Barclay near the end of her Daily Wire tenure, and to his offer of a private screening of October 7th footage (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 01:32:22
@@ -524,7 +524,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-503** Arson Arstrovski
+**N-503** Arsen Ostrovsky
 
 Claimed October 7th survivor. Subject of two on-screen photos (A-1693.1, A-1693.2). Host remarks on authenticity concerns: bandage photo lacks blood despite bloody face.
 
@@ -654,7 +654,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-10458** Arstrovski October 7th Photo Authenticity Question
+**N-10458** Ostrovsky October 7th Photo Authenticity Question
 
 Discrepancy noted in the two photos: blood on face vs. no blood on bandages.
 
@@ -1045,15 +1045,15 @@ Organization discussed in Youssef's and the host's statements about its Gaza rep
 
 ---
 
-**N-723** Matt Leeb
+**N-723** Matt Lieb
 
-First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef who, per Youssef, changed from liberal Zionist to anti-Zionist after a Birthright trip. Transcript spelling: Matt Leeb.
+First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef who, per Youssef, changed from liberal Zionist to anti-Zionist after a Birthright trip. Transcript spelling: Matt Lieb.
 
 *Related: C-5594*
 
 ---
 
-**N-724** Joseph Cornis
+**N-724** Jonathan Conricus
 
 First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesman who appeared on Piers Morgan's show. The name is spelled phonetically in the transcript.
 
@@ -1061,7 +1061,7 @@ First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesm
 
 ---
 
-**N-725** Rabbi Barlay
+**N-725** Rabbi Michael Barclay
 
 First named by the host at 01:32:22 in episode 65. Rabbi the host says she interviewed near the end of her Daily Wire tenure. Spelled phonetically in the transcript.
 
@@ -1069,7 +1069,7 @@ First named by the host at 01:32:22 in episode 65. Rabbi the host says she inter
 
 ---
 
-**N-726** Rabbi Ysef MRI
+**N-726** Rabbi Yosef Mizrachi
 
 First named by Youssef at 01:35:56 in episode 65. Rabbi whose lectures Youssef describes. Spelled phonetically in the transcript.
 
@@ -1165,11 +1165,11 @@ Investigative Direction: Verify against original Piers Morgan broadcast; cross-c
 
 ---
 
-**C-2226** Candace Owens Nominated Anti-Semite of Year 2024
+**C-2226** Youssef Says He Was Nominated for Anti-Semite of the Year 2024 and Candace Owens Won
 
 Claim Timestamp: 00:00:01
 
-Claim: Youssef states Candace Owens was nominated for Anti-Semite of the Year 2024 (and did not win).
+Claim: In a clip of his show that the host plays, Bassem Youssef says he was nominated for Anti-Semite of the Year 2024 but did not win, and that Candace Owens won it.
 
 Anchored Artifacts: A-1691.1
 Mentions: N-499, N-3
@@ -1184,10 +1184,10 @@ Investigative Direction: Verify with Anti-Semite of the Year award organization 
 
 Claim Timestamp: 00:00:01
 
-Claim: In a clip of his show that the host plays, Bassem Youssef says Tucker Carlson won Anti-Semite of the Year (2025 per context).
+Claim: In a clip of his show that the host plays, Bassem Youssef asks who got Anti-Semite of the Year this year, and the answer given is Tucker Carlson.
 
 Anchored Artifacts: A-1691.1
-Mentions: N-22
+Mentions: N-499, N-22
 
 Related Nodes: N-10452
 
@@ -1212,7 +1212,7 @@ Investigative Direction: Obtain the original San Diego Union Tribune publication
 
 **C-2229** Candace Owens Phil Tourney Interview Received Approximately 7 Million Views
 
-Claim Timestamp: 01:23:21
+Claim Timestamp: 01:22:31
 
 Claim: Per host, her Phil Tourney interview received approximately 7 million views, prompting New York Times outreach.
 
@@ -1227,7 +1227,7 @@ Investigative Direction: Verify view count via YouTube analytics or platform dat
 
 **C-2230** Bassem Youssef US Citizenship in December 2019
 
-Claim Timestamp: 00:00:54–00:01:21
+Claim Timestamp: 01:12:59
 
 Claim: Youssef states he took his U.S. citizenship pledge of allegiance in December 2019.
 
@@ -1239,14 +1239,14 @@ Investigative Direction: Verify with public records / naturalization records if 
 
 ---
 
-**C-2231** Arstrovski Bandaged October 7th Photo Shows No Blood on Bandages Despite Bloody Face
+**C-2231** Ostrovsky Bandaged October 7th Photo Shows No Blood on Bandages Despite Bloody Face
 
 Claim Timestamp: 00:15:48
 
-Claim: Per host and displayed image, the bandaged follow-up photo shows no blood on bandages despite blood on face in the prior photo.
+Claim: Per Bassem Youssef, in displayed images, the bandaged follow-up photo of Arsen Ostrovsky shows no blood on the bandages despite blood on the face in the prior photo.
 
 Anchored Artifacts: A-1693.2
-Mentions: N-503
+Mentions: N-503, N-499
 
 Related Nodes: N-10458
 
@@ -1261,7 +1261,7 @@ Claim Timestamp: 01:27:19
 Claim: Per Youssef's account, *By Way of Deception* by Victor Ostrovsky alleged Mossad knew in advance about the 1982 Beirut barracks bombing (American embassy/Marine bombing).
 
 Anchored Artifacts: A-1697.1 (verbally referenced)
-Mentions: N-502
+Mentions: N-499, N-502
 
 Related Nodes: N-10461
 
@@ -1276,7 +1276,7 @@ Claim Timestamp: 01:28:11
 Claim: Per Youssef, *By Way of Deception* was subject to a 24-hour gag order in 1992, allegedly the only such order in American literary history.
 
 Anchored Artifacts: A-1697.1 (verbally referenced)
-Mentions: N-502
+Mentions: N-499, N-502
 
 Related Nodes: N-10460
 
@@ -1286,11 +1286,12 @@ Investigative Direction: Verify with publishing industry records and court recor
 
 **C-2234** *Till Kingdom Come* Documentary Features Pastors Telling Children Jews Are More Special
 
-Claim Timestamp: 00:22:53
+Claim Timestamp: 00:22:05
 
 Claim: Per Youssef, the documentary *Till Kingdom Come* contains clips of pastors addressing children and saying "Jews are better than us. They are more special than us. They are not like us."
 
 Anchored Artifacts: A-1698.1 (verbally referenced)
+Mentions: N-499
 
 Related Nodes: N-10462
 
@@ -1315,12 +1316,12 @@ Investigative Direction: Cross-check with Turning Point USA published guest list
 
 **C-2236** New York Times Preparing a Piece on USS Liberty
 
-Claim Timestamp: 01:23:21
+Claim Timestamp: 01:22:18
 
 Claim: Per host, the New York Times contacted her about her Phil Tourney interview and is working on a piece regarding USS Liberty.
 
 Anchored Artifacts: A-1690 (host testimony in transcript)
-Mentions: N-500
+Mentions: N-3, N-500
 
 Related Nodes: N-10451, N-10457
 
@@ -1437,14 +1438,14 @@ Investigative Direction: Locate the video of Shapiro's answer at the Turning Poi
 
 **C-5578** A speaker says USS Liberty crew were threatened and under a gag order
 
-Claim Timestamp: 00:04:32
+Claim Timestamp: 00:05:37
 
-Claim: A speaker in the exchange (apparently the host) says the crew of the USS Liberty were threatened and put under a gag order and could not talk.
+Claim: Youssef says the crew of the USS Liberty were threatened and put under a gag order and could not talk, contrary to Ben Shapiro's answer.
 
 Transcript Snippet: the crew of the USS Liberty were threatened they were they had a gag order. They couldn't talk.
 
 Anchored Artifacts: 
-Mentions: N-97
+Mentions: N-97, N-499
 Related Nodes: N-10451
 Investigative Direction: Obtain survivor accounts and records (including Ward Boston's statement) on any orders given to the crew not to speak.
 
@@ -1465,11 +1466,11 @@ Investigative Direction: Verify the compensation amounts and payment dates in US
 
 ---
 
-**C-5580** Youssef says Shapiro gave a rapid non-answer on whether Israel committed genocide on the Charman the God morning show
+**C-5580** Youssef says Shapiro gave a rapid non-answer on whether Israel committed genocide on the Charlamagne tha God morning show
 
-Claim Timestamp: 00:05:56
+Claim Timestamp: 00:06:18
 
-Claim: Youssef says that when asked on a morning show hosted by Charman the God whether Israel committed genocide, Ben Shapiro answered in rapid word-salad style, and that Media Hassan appeared the next day to go through details.
+Claim: Youssef says that when asked on a morning show hosted by Charlamagne tha God whether Israel committed genocide, Ben Shapiro answered in rapid word-salad style, and that Mehdi Hasan appeared the next day to go through details.
 
 Transcript Snippet: And Charman asked him does is did Israel commit genocide? And he started going through this Jordan Peterson word salad style just speaking very quickly
 
@@ -1649,7 +1650,7 @@ Investigative Direction: Verify the 2005 certificate ceremony in Israeli governm
 
 Claim Timestamp: 00:15:00
 
-Claim: Youssef says the 1994 bombing of the Israeli embassy in London was done by Mossad and that two Palestinians were convicted for it.
+Claim: Youssef says the 1994 bombing of the Israeli embassy in London was done by Mossad and that they 'kind of nailed' two Palestinians for it.
 
 Transcript Snippet: 1994 the bombing of the Israeli embassy in London. It was done by Musad and then they nailed they kind of nailed two Palestinians for it.
 
@@ -1675,18 +1676,18 @@ Investigative Direction: Search Mexican press and government records for any Oct
 
 ---
 
-**C-5594** Youssef says friend Matt Leeb turned anti-Zionist after Netanyahu and Miriam Adelson spoke at his Birthright event
+**C-5594** Youssef says friend Matt Lieb turned anti-Zionist after Netanyahu and Miriam Adelson spoke at his Birthright event
 
 Claim Timestamp: 00:18:27
 
-Claim: Youssef says his friend, comedian Matt Leeb, was a liberal Zionist at 26 and changed his mind on a Birthright trip when the main speaker was Benjamin Netanyahu accompanied by Miriam Adelson.
+Claim: Youssef says his friend, comedian Matt Lieb, was a liberal Zionist at 26 and changed his mind on a Birthright trip when the main speaker was Benjamin Netanyahu accompanied by Miriam Adelson.
 
 Transcript Snippet: we find that the main speaker in our event was Benjamin Netanyahu accompanied by Miam Idlen.
 
 Anchored Artifacts: 
 Mentions: N-723, N-36, N-300, N-499
 Related Nodes: 
-Investigative Direction: Ask Matt Leeb for the date of the Birthright trip and check Netanyahu's and Adelson's schedules for that date.
+Investigative Direction: Ask Matt Lieb for the date of the Birthright trip and check Netanyahu's and Adelson's schedules for that date.
 
 ---
 
@@ -1729,7 +1730,7 @@ Claim: The host says the entire Calvary Chapel church is a CIA story and describ
 Transcript Snippet: This entire church, Calvary Chapel Church is a CIA story.
 
 Anchored Artifacts: 
-Mentions: N-3, N-17
+Mentions: N-3
 Related Nodes: N-10465, N-10264
 Investigative Direction: Gather the books and documents the host cites on Calvary Chapel's origins and any CIA link.
 
@@ -1814,12 +1815,12 @@ Investigative Direction: Retrieve the tweet from Kirk's account history for Sept
 
 Claim Timestamp: 00:28:19
 
-Claim: Youssef says Charlie Kirk did not run his Twitter feed and that Andrew Kolvet did.
+Claim: The host says Charlie Kirk did not run his Twitter feed and that Andrew Kolvet did.
 
 Transcript Snippet: Charlie didn't run his Twitter feed. Andrew Kolvet did.
 
 Anchored Artifacts: A-2766.2
-Mentions: N-499, N-14, N-1
+Mentions: N-3, N-1, N-14
 Related Nodes: N-10455
 Investigative Direction: Ask TPUSA or former staff who had access to and posted from Kirk's account; check account login or management records if obtainable.
 
@@ -1948,16 +1949,16 @@ Investigative Direction: Identify the prosecutor in the case and verify national
 
 ---
 
-**C-5612** Youssef says the Auschwitz Museum said much of what was said about Mengele was made up
+**C-5612** Host Says Auschwitz Museum Said Much of What Was Said About Mengele Was Made Up
 
 Claim Timestamp: 00:37:16
 
-Claim: A speaker says the Auschwitz Museum put on its website that a lot of what was said about Dr. Joseph Mengele was made up and that he never did these things.
+Claim: The host says the Auschwitz Museum put on its website that a lot of what was said about Dr. Joseph Mengele was made up and that he never did these things.
 
 Transcript Snippet: Awitz Museum comes out and says the stuff that was said about Joseph, Dr. Joseph Bengal, a lot of it was made up. He never did these things.
 
 Anchored Artifacts: A-1699.1
-Mentions: N-381
+Mentions: N-3, N-381
 Related Nodes: 
 Investigative Direction: Search the Auschwitz Museum website for any statement on Mengele and compare it with this description.
 
@@ -2012,7 +2013,7 @@ Investigative Direction: Compare against demographic data on World War II deaths
 
 Claim Timestamp: 00:39:15
 
-Claim: Youssef says the Hagana blew up a ship carrying 1,500 Jewish refugees at the port of Haifa in the 1940s when British authorities would not let it go, killing around 150 Jews.
+Claim: Youssef says the Hagana blew up a ship carrying 1,500 Jewish refugees at the port of Haifa in the 1940s when British authorities would not let it go, and that he thinks they killed 150 Jews.
 
 Transcript Snippet: And then the Hagana, which is like is one of the Israeli the Zionist gang, they blew it up because the British authorities wouldn't let it go
 
@@ -2250,13 +2251,13 @@ Investigative Direction: Check public biographies and Daily Wire staffing record
 
 ---
 
-**C-5632** Youssef says Joseph Cornis, an ex-IDF spokesman, said on Piers Morgan that there was no famine in Gaza
+**C-5632** Youssef Says Jonathan Conricus, an Ex-IDF Spokesman, Said on Piers Morgan That There Was No Famine in Gaza
 
 Claim Timestamp: 01:04:37
 
-Claim: Youssef says Piers Morgan brought on Joseph Cornis, described as an ex-IDF spokesman, who said there was no famine in Gaza and pointed to videos of fat Palestinians.
+Claim: Youssef says Piers Morgan brought on Jonathan Conricus, described as an ex-IDF spokesman, who said there was no famine in Gaza and pointed to videos of fat Palestinians.
 
-Transcript Snippet: they brought someone called Joseph Cornis who was like the ex IDF spokesman and out of nowhere it's like there is no famine in Gaza.
+Transcript Snippet: they brought someone called Jonathan Conricus who was like the ex IDF spokesman and out of nowhere it's like there is no famine in Gaza.
 
 Anchored Artifacts: 
 Mentions: N-499, N-206, N-724
@@ -2387,7 +2388,7 @@ Investigative Direction: List Netanyahu's interviews after September 10, 2025 an
 
 ---
 
-**C-5641** Host says the decline in testosterone is intentional and due to what is put in the water and food
+**C-5641** Host Says a Testosterone Crisis Is Due to What Is Put in the Water and Food
 
 Claim Timestamp: 01:16:30
 
@@ -2553,43 +2554,43 @@ Investigative Direction: Locate the passage in By Way of Deception and compare i
 
 ---
 
-**C-5652** Youssef says Hollywood Babylon also had a gag order and that publishing rights let owners change books
+**C-5652** Host Says Hollywood Babylon Was Also Changed and Publishing Rights Let Owners Alter Books
 
 Claim Timestamp: 01:28:11
 
-Claim: Youssef says Hollywood Babylon also had a gag order and that publishing rights allow owners to change what is in a book after the author dies.
+Claim: The host says there was also Hollywood Babylon, that 'they then changed it', and that they are obsessed with publishing rights because if they own your book, when you die, they can change what is in it.
 
 Transcript Snippet: Also, actually, there was Hollywood Babylon, too. And there's a reason for that. They then changed it.
 
 Anchored Artifacts: A-1697.1
-Mentions: N-499
+Mentions: N-3
 Related Nodes: 
 Investigative Direction: Review the publishing history of Hollywood Babylon and the claim of a gag order.
 
 ---
 
-**C-5653** Youssef says Victor Ostrovsky said on camera that Epstein worked for Mossad
+**C-5653** Host Says Victor Ostrovsky Said on Camera That Epstein Worked for Mossad
 
 Claim Timestamp: 01:28:11
 
-Claim: Youssef says Victor Ostrovsky was on camera speaking about how Jeffrey Epstein worked for them (Mossad).
+Claim: The host says Victor Ostrovsky was also on camera speaking about how Jeffrey Epstein worked for them (Mossad).
 
 Transcript Snippet: Victor Achovsky also uh was on camera speaking about how Jeffrey Epste worked for them.
 
 Anchored Artifacts: A-1697.1
-Mentions: N-499, N-502, N-9
+Mentions: N-3, N-502, N-9
 Related Nodes: N-10023, N-10015
 Investigative Direction: Locate the Ostrovsky interview and the exact words he used about Epstein.
 
 ---
 
-**C-5654** Host says her last or second-to-last Daily Wire episode was the interview with Rabbi Barlay
+**C-5654** Host Says Her Last or Second-to-Last Daily Wire Episode Was the Interview With Rabbi Barclay
 
 Claim Timestamp: 01:32:22
 
-Claim: The host says her very last, or second-to-last, Daily Wire episode was with Rabbi Barlay, and Youssef says that is what broke them.
+Claim: The host says her very last, or second-to-last, Daily Wire episode was with Rabbi Barclay, and Youssef says that is what broke them.
 
-Transcript Snippet: It was what I think it was my very last. It was my very last. It was or of the second to last Rabbi Barlay.
+Transcript Snippet: It was what I think it was my very last. It was my very last. It was or of the second to last Rabbi Barclay.
 
 Anchored Artifacts: A-2769.1
 Mentions: N-3, N-725, N-499
@@ -2598,11 +2599,11 @@ Investigative Direction: Check the Daily Wire episode list for the host's final 
 
 ---
 
-**C-5655** Host says Rabbi Barlay answered a request for a definition of antisemitism with whatever we want
+**C-5655** Host Says Rabbi Barclay Answered a Request for a Definition of Antisemitism With Whatever We Want
 
 Claim Timestamp: 01:32:22
 
-Claim: The host says that when she asked Rabbi Barlay for a definition of antisemitism, he answered that it is whatever we want.
+Claim: The host says that when she asked Rabbi Barclay for a definition of antisemitism, he answered that it is whatever we want.
 
 Transcript Snippet: being like, "Okay, can I get a definition of anti-mitism?" And he was like, "Whatever we want." Oh my god.
 
@@ -2613,11 +2614,11 @@ Investigative Direction: Watch the interview at the point where she asked for a 
 
 ---
 
-**C-5656** Host says Rabbi Barlay offered her a private screening of October 7th footage
+**C-5656** Host Says Rabbi Barclay Offered Her a Private Screening of October 7th Footage
 
 Claim Timestamp: 01:34:01
 
-Claim: The host says that after the interview Rabbi Barlay told her she could have a private screening of October 7th footage, with a laptop brought to her, which never happened.
+Claim: The host says that after the interview Rabbi Barclay told her she could have a private screening of October 7th footage, with a laptop brought to her to show what Hamas did.
 
 Transcript Snippet: he told me that I could have a private screening of October 7th. He was going to they were going to bring the laptop to me
 
@@ -2628,11 +2629,11 @@ Investigative Direction: Ask the host or her team for the message in which the o
 
 ---
 
-**C-5657** Youssef says Rabbi Ysef MRI calls Jesus JC Penney in lectures
+**C-5657** Youssef Says Rabbi Yosef Mizrachi Calls Jesus JC Penney in Lectures
 
 Claim Timestamp: 01:35:56
 
-Claim: Youssef says another rabbi, called Ysef MRI, gives lectures in Los Angeles and New York in which he does not call him Jesus Christ but JC Penney.
+Claim: Youssef says another rabbi, called Yosef Mizrachi, gives lectures in Los Angeles and New York in which he does not call him Jesus Christ but JC Penney.
 
 Transcript Snippet: first of all he doesn't call him Jesus Christ. He he call him JC Penney.
 
@@ -2935,10 +2936,10 @@ Confidence: high
 ## VI. Optional Flags
 
 - **Name uncertainty**: "Bass Music" / "Bassem Youssef" – name clearly identified throughout but host occasionally uses informal/phonetic spelling in passing. Preserved as written.
-- **Name uncertainty**: "Charman the God" – appears to be a YouTube show/personality name; spelling preserved as appears in transcript.
+- **Name uncertainty**: "Charlamagne tha God" – appears to be a YouTube show/personality name; spelling preserved as appears in transcript.
 - **Name uncertainty**: "Phil Tourney" vs. "Phil Turny" – both spellings appear; "Phil Tourney" used consistently in main references.
 - **Name uncertainty**: "Andrew Kolvet" / "Andrew Kolvet" – both spellings used by host; preserved as spoken.
-- **Name uncertainty**: "Arson Arstrovski" – spelled phonetically; possible alternate spellings may exist. Flag: requires human verification.
+- **Name uncertainty**: "Arsen Ostrovsky" – spelled phonetically; possible alternate spellings may exist. Flag: requires human verification.
 - **Name uncertainty**: "Aishlime" – Iraqi Jewish author referenced by Youssef; unclear if this is correct spelling. Flag: requires human verification.
 - **Artifact verbally referenced but not shown**: A-1696.1, A-1697.1, A-1698.1, A-1699.1, A-1700.1, A-1701.1, A-1702.1, A-1703.1
 - **Claim failed admission test**: Several claims fail the artifact anchor test for this episode, including: ICE office location in Tel Aviv (C-2238 was considered and excluded), claims about specific Mossad false flag operations (Baghdad 1950-51 bombings, Lavon Affair, London embassy 1994, Mexican parliament 2001), and the Auschwitz Museum Joseph Mengele revision specifics.

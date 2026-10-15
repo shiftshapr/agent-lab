@@ -97,7 +97,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1693",
       "family_ref": "A-1693",
-      "bundle_name": "Arstrovski October 7th Photo Set",
+      "bundle_name": "Ostrovsky October 7th Photo Set",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -117,7 +117,7 @@
           "@type": "Artifact",
           "@id": "A-1693.2",
           "ref": "A-1693.2",
-          "description": "Arstrovski Bandaged Photo",
+          "description": "Ostrovsky Bandaged Photo",
           "related_claims": [
             "C-2231"
           ],
@@ -395,7 +395,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1702",
       "family_ref": "A-1702",
-      "bundle_name": "Ben Shapiro on Charman the God Morning Show",
+      "bundle_name": "Ben Shapiro on Charlamagne tha God Morning Show",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -647,13 +647,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2769",
       "family_ref": "A-2769",
-      "bundle_name": "Rabbi Barlay Daily Wire Interview Bundle",
+      "bundle_name": "Rabbi Barclay Daily Wire Interview Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2769.1",
           "ref": "A-2769.1",
-          "description": "Host verbal reference to her interview with Rabbi Barlay near the end of her Daily Wire tenure, and to his offer of a private screening of October 7th footage (not shown)",
+          "description": "Host verbal reference to her interview with Rabbi Barclay near the end of her Daily Wire tenure, and to his offer of a private screening of October 7th footage (not shown)",
           "related_claims": [
             "C-5654",
             "C-5655",
@@ -806,7 +806,7 @@
       "@type": "Person",
       "@id": "N-503",
       "ref": "N-503",
-      "name": "Arson Arstrovski",
+      "name": "Arsen Ostrovsky",
       "type": "person",
       "description": "Claimed October 7th survivor. Subject of two on-screen photos (A-1693.1, A-1693.2). Host remarks on authenticity concerns: bandage photo lacks blood despite bloody face.",
       "related_artifacts": [
@@ -1010,7 +1010,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10458",
       "ref": "N-10458",
-      "name": "Arstrovski October 7th Photo Authenticity Question",
+      "name": "Ostrovsky October 7th Photo Authenticity Question",
       "type": "investigation_target",
       "description": "Discrepancy noted in the two photos: blood on face vs. no blood on bandages.",
       "related_artifacts": [
@@ -1937,9 +1937,9 @@
       "@type": "Person",
       "@id": "N-723",
       "ref": "N-723",
-      "name": "Matt Leeb",
+      "name": "Matt Lieb",
       "type": "person",
-      "description": "First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef who, per Youssef, changed from liberal Zionist to anti-Zionist after a Birthright trip. Transcript spelling: Matt Leeb.",
+      "description": "First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef who, per Youssef, changed from liberal Zionist to anti-Zionist after a Birthright trip. Transcript spelling: Matt Lieb.",
       "related_artifacts": [],
       "related_claims": [
         "C-5594"
@@ -1954,7 +1954,7 @@
       "@type": "Person",
       "@id": "N-724",
       "ref": "N-724",
-      "name": "Joseph Cornis",
+      "name": "Jonathan Conricus",
       "type": "person",
       "description": "First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesman who appeared on Piers Morgan's show. The name is spelled phonetically in the transcript.",
       "related_artifacts": [],
@@ -1971,7 +1971,7 @@
       "@type": "Person",
       "@id": "N-725",
       "ref": "N-725",
-      "name": "Rabbi Barlay",
+      "name": "Rabbi Michael Barclay",
       "type": "person",
       "description": "First named by the host at 01:32:22 in episode 65. Rabbi the host says she interviewed near the end of her Daily Wire tenure. Spelled phonetically in the transcript.",
       "related_artifacts": [],
@@ -1990,7 +1990,7 @@
       "@type": "Person",
       "@id": "N-726",
       "ref": "N-726",
-      "name": "Rabbi Ysef MRI",
+      "name": "Rabbi Yosef Mizrachi",
       "type": "person",
       "description": "First named by Youssef at 01:35:56 in episode 65. Rabbi whose lectures Youssef describes. Spelled phonetically in the transcript.",
       "related_artifacts": [],
@@ -2183,8 +2183,8 @@
       "@type": "Claim",
       "@id": "C-2226",
       "ref": "C-2226",
-      "label": "Candace Owens Nominated Anti-Semite of Year 2024",
-      "claim": "Youssef states Candace Owens was nominated for Anti-Semite of the Year 2024 (and did not win).",
+      "label": "Youssef Says He Was Nominated for Anti-Semite of the Year 2024 and Candace Owens Won",
+      "claim": "In a clip of his show that the host plays, Bassem Youssef says he was nominated for Anti-Semite of the Year 2024 but did not win, and that Candace Owens won it.",
       "anchored_artifacts": [
         "A-1691.1"
       ],
@@ -2204,7 +2204,7 @@
       "@id": "C-2227",
       "ref": "C-2227",
       "label": "In Clip, Bassem Youssef Says Tucker Carlson Won Anti-Semite of the Year",
-      "claim": "In a clip of his show that the host plays, Bassem Youssef says Tucker Carlson won Anti-Semite of the Year (2025 per context).",
+      "claim": "In a clip of his show that the host plays, Bassem Youssef asks who got Anti-Semite of the Year this year, and the answer given is Tucker Carlson.",
       "anchored_artifacts": [
         "A-1691.1"
       ],
@@ -2215,6 +2215,7 @@
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Verify with award organization records.",
       "mentions_person_refs": [
+        "N-499",
         "N-22"
       ]
     },
@@ -2253,7 +2254,7 @@
         "N-10464"
       ],
       "tags": [],
-      "claim_timestamp": "01:23:21",
+      "claim_timestamp": "01:22:31",
       "investigative_direction": "Verify view count via YouTube analytics or platform data.",
       "mentions_person_refs": [
         "N-500",
@@ -2269,7 +2270,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:00:54–00:01:21",
+      "claim_timestamp": "01:12:59",
       "investigative_direction": "Verify with public records / naturalization records if available.",
       "mentions_person_refs": [
         "N-499"
@@ -2279,8 +2280,8 @@
       "@type": "Claim",
       "@id": "C-2231",
       "ref": "C-2231",
-      "label": "Arstrovski Bandaged October 7th Photo Shows No Blood on Bandages Despite Bloody Face",
-      "claim": "Per host and displayed image, the bandaged follow-up photo shows no blood on bandages despite blood on face in the prior photo.",
+      "label": "Ostrovsky Bandaged October 7th Photo Shows No Blood on Bandages Despite Bloody Face",
+      "claim": "Per Bassem Youssef, in displayed images, the bandaged follow-up photo of Arsen Ostrovsky shows no blood on the bandages despite blood on the face in the prior photo.",
       "anchored_artifacts": [
         "A-1693.2"
       ],
@@ -2291,7 +2292,8 @@
       "claim_timestamp": "00:15:48",
       "investigative_direction": "Obtain original high-resolution images; verify with forensic photo analysis or contextual corroboration.",
       "mentions_person_refs": [
-        "N-503"
+        "N-503",
+        "N-499"
       ]
     },
     {
@@ -2308,6 +2310,7 @@
       "claim_timestamp": "01:27:19",
       "investigative_direction": "Verify the book's actual contents against published editions.",
       "mentions_person_refs": [
+        "N-499",
         "N-502"
       ]
     },
@@ -2325,6 +2328,7 @@
       "claim_timestamp": "01:28:11",
       "investigative_direction": "Verify with publishing industry records and court records.",
       "mentions_person_refs": [
+        "N-499",
         "N-502"
       ]
     },
@@ -2339,9 +2343,11 @@
         "N-10462"
       ],
       "tags": [],
-      "claim_timestamp": "00:22:53",
+      "claim_timestamp": "00:22:05",
       "investigative_direction": "Obtain the documentary and verify the specific clips and their context.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-499"
+      ]
     },
     {
       "@type": "Claim",
@@ -2374,9 +2380,10 @@
         "N-10457"
       ],
       "tags": [],
-      "claim_timestamp": "01:23:21",
+      "claim_timestamp": "01:22:18",
       "investigative_direction": "Monitor NYT for upcoming USS Liberty coverage.",
       "mentions_person_refs": [
+        "N-3",
         "N-500"
       ]
     },
@@ -2533,17 +2540,18 @@
       "@id": "C-5578",
       "ref": "C-5578",
       "label": "A speaker says USS Liberty crew were threatened and under a gag order",
-      "claim": "A speaker in the exchange (apparently the host) says the crew of the USS Liberty were threatened and put under a gag order and could not talk.",
+      "claim": "Youssef says the crew of the USS Liberty were threatened and put under a gag order and could not talk, contrary to Ben Shapiro's answer.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10451"
       ],
       "tags": [],
-      "claim_timestamp": "00:04:32",
+      "claim_timestamp": "00:05:37",
       "investigative_direction": "Obtain survivor accounts and records (including Ward Boston's statement) on any orders given to the crew not to speak.",
       "transcript_snippet": "the crew of the USS Liberty were threatened they were they had a gag order. They couldn't talk.",
       "mentions_person_refs": [
-        "N-97"
+        "N-97",
+        "N-499"
       ]
     },
     {
@@ -2571,14 +2579,14 @@
       "@type": "Claim",
       "@id": "C-5580",
       "ref": "C-5580",
-      "label": "Youssef says Shapiro gave a rapid non-answer on whether Israel committed genocide on the Charman the God morning show",
-      "claim": "Youssef says that when asked on a morning show hosted by Charman the God whether Israel committed genocide, Ben Shapiro answered in rapid word-salad style, and that Media Hassan appeared the next day to go through details.",
+      "label": "Youssef says Shapiro gave a rapid non-answer on whether Israel committed genocide on the Charlamagne tha God morning show",
+      "claim": "Youssef says that when asked on a morning show hosted by Charlamagne tha God whether Israel committed genocide, Ben Shapiro answered in rapid word-salad style, and that Mehdi Hasan appeared the next day to go through details.",
       "anchored_artifacts": [
         "A-1702.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:05:56",
+      "claim_timestamp": "00:06:18",
       "investigative_direction": "Locate the morning-show episode and the following day's appearance and compare Shapiro's answer with Youssef's description.",
       "transcript_snippet": "And Charman asked him does is did Israel commit genocide? And he started going through this Jordan Peterson word salad style just speaking very quickly",
       "mentions_person_refs": [
@@ -2812,7 +2820,7 @@
       "@id": "C-5592",
       "ref": "C-5592",
       "label": "Youssef says the 1994 London embassy bombing was done by Mossad and two Palestinians were blamed",
-      "claim": "Youssef says the 1994 bombing of the Israeli embassy in London was done by Mossad and that two Palestinians were convicted for it.",
+      "claim": "Youssef says the 1994 bombing of the Israeli embassy in London was done by Mossad and that they 'kind of nailed' two Palestinians for it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10015",
@@ -2849,13 +2857,13 @@
       "@type": "Claim",
       "@id": "C-5594",
       "ref": "C-5594",
-      "label": "Youssef says friend Matt Leeb turned anti-Zionist after Netanyahu and Miriam Adelson spoke at his Birthright event",
-      "claim": "Youssef says his friend, comedian Matt Leeb, was a liberal Zionist at 26 and changed his mind on a Birthright trip when the main speaker was Benjamin Netanyahu accompanied by Miriam Adelson.",
+      "label": "Youssef says friend Matt Lieb turned anti-Zionist after Netanyahu and Miriam Adelson spoke at his Birthright event",
+      "claim": "Youssef says his friend, comedian Matt Lieb, was a liberal Zionist at 26 and changed his mind on a Birthright trip when the main speaker was Benjamin Netanyahu accompanied by Miriam Adelson.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:27",
-      "investigative_direction": "Ask Matt Leeb for the date of the Birthright trip and check Netanyahu's and Adelson's schedules for that date.",
+      "investigative_direction": "Ask Matt Lieb for the date of the Birthright trip and check Netanyahu's and Adelson's schedules for that date.",
       "transcript_snippet": "we find that the main speaker in our event was Benjamin Netanyahu accompanied by Miam Idlen.",
       "mentions_person_refs": [
         "N-723",
@@ -2919,8 +2927,7 @@
       "investigative_direction": "Gather the books and documents the host cites on Calvary Chapel's origins and any CIA link.",
       "transcript_snippet": "This entire church, Calvary Chapel Church is a CIA story.",
       "mentions_person_refs": [
-        "N-3",
-        "N-17"
+        "N-3"
       ]
     },
     {
@@ -3025,7 +3032,7 @@
       "@id": "C-5603",
       "ref": "C-5603",
       "label": "Youssef says Andrew Kolvet, not Charlie Kirk, ran Kirk's Twitter feed",
-      "claim": "Youssef says Charlie Kirk did not run his Twitter feed and that Andrew Kolvet did.",
+      "claim": "The host says Charlie Kirk did not run his Twitter feed and that Andrew Kolvet did.",
       "anchored_artifacts": [
         "A-2766.2"
       ],
@@ -3037,9 +3044,9 @@
       "investigative_direction": "Ask TPUSA or former staff who had access to and posted from Kirk's account; check account login or management records if obtainable.",
       "transcript_snippet": "Charlie didn't run his Twitter feed. Andrew Kolvet did.",
       "mentions_person_refs": [
-        "N-499",
-        "N-14",
-        "N-1"
+        "N-3",
+        "N-1",
+        "N-14"
       ]
     },
     {
@@ -3212,8 +3219,8 @@
       "@type": "Claim",
       "@id": "C-5612",
       "ref": "C-5612",
-      "label": "Youssef says the Auschwitz Museum said much of what was said about Mengele was made up",
-      "claim": "A speaker says the Auschwitz Museum put on its website that a lot of what was said about Dr. Joseph Mengele was made up and that he never did these things.",
+      "label": "Host Says Auschwitz Museum Said Much of What Was Said About Mengele Was Made Up",
+      "claim": "The host says the Auschwitz Museum put on its website that a lot of what was said about Dr. Joseph Mengele was made up and that he never did these things.",
       "anchored_artifacts": [
         "A-1699.1"
       ],
@@ -3223,6 +3230,7 @@
       "investigative_direction": "Search the Auschwitz Museum website for any statement on Mengele and compare it with this description.",
       "transcript_snippet": "Awitz Museum comes out and says the stuff that was said about Joseph, Dr. Joseph Bengal, a lot of it was made up. He never did these things.",
       "mentions_person_refs": [
+        "N-3",
         "N-381"
       ]
     },
@@ -3281,7 +3289,7 @@
       "@id": "C-5616",
       "ref": "C-5616",
       "label": "Youssef says the Hagana blew up the ship Patria with Jewish refugees at Haifa",
-      "claim": "Youssef says the Hagana blew up a ship carrying 1,500 Jewish refugees at the port of Haifa in the 1940s when British authorities would not let it go, killing around 150 Jews.",
+      "claim": "Youssef says the Hagana blew up a ship carrying 1,500 Jewish refugees at the port of Haifa in the 1940s when British authorities would not let it go, and that he thinks they killed 150 Jews.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11042"
@@ -3574,8 +3582,8 @@
       "@type": "Claim",
       "@id": "C-5632",
       "ref": "C-5632",
-      "label": "Youssef says Joseph Cornis, an ex-IDF spokesman, said on Piers Morgan that there was no famine in Gaza",
-      "claim": "Youssef says Piers Morgan brought on Joseph Cornis, described as an ex-IDF spokesman, who said there was no famine in Gaza and pointed to videos of fat Palestinians.",
+      "label": "Youssef Says Jonathan Conricus, an Ex-IDF Spokesman, Said on Piers Morgan That There Was No Famine in Gaza",
+      "claim": "Youssef says Piers Morgan brought on Jonathan Conricus, described as an ex-IDF spokesman, who said there was no famine in Gaza and pointed to videos of fat Palestinians.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10063"
@@ -3583,7 +3591,7 @@
       "tags": [],
       "claim_timestamp": "01:04:37",
       "investigative_direction": "Identify the guest, whose name is spelled phonetically, and the episode of the show; check the transcript for the statement.",
-      "transcript_snippet": "they brought someone called Joseph Cornis who was like the ex IDF spokesman and out of nowhere it's like there is no famine in Gaza.",
+      "transcript_snippet": "they brought someone called Jonathan Conricus who was like the ex IDF spokesman and out of nowhere it's like there is no famine in Gaza.",
       "mentions_person_refs": [
         "N-499",
         "N-206",
@@ -3751,7 +3759,7 @@
       "@type": "Claim",
       "@id": "C-5641",
       "ref": "C-5641",
-      "label": "Host says the decline in testosterone is intentional and due to what is put in the water and food",
+      "label": "Host Says a Testosterone Crisis Is Due to What Is Put in the Water and Food",
       "claim": "The host says a testosterone crisis exists because of what is put in the water and food.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -3971,8 +3979,8 @@
       "@type": "Claim",
       "@id": "C-5652",
       "ref": "C-5652",
-      "label": "Youssef says Hollywood Babylon also had a gag order and that publishing rights let owners change books",
-      "claim": "Youssef says Hollywood Babylon also had a gag order and that publishing rights allow owners to change what is in a book after the author dies.",
+      "label": "Host Says Hollywood Babylon Was Also Changed and Publishing Rights Let Owners Alter Books",
+      "claim": "The host says there was also Hollywood Babylon, that 'they then changed it', and that they are obsessed with publishing rights because if they own your book, when you die, they can change what is in it.",
       "anchored_artifacts": [
         "A-1697.1"
       ],
@@ -3982,15 +3990,15 @@
       "investigative_direction": "Review the publishing history of Hollywood Babylon and the claim of a gag order.",
       "transcript_snippet": "Also, actually, there was Hollywood Babylon, too. And there's a reason for that. They then changed it.",
       "mentions_person_refs": [
-        "N-499"
+        "N-3"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-5653",
       "ref": "C-5653",
-      "label": "Youssef says Victor Ostrovsky said on camera that Epstein worked for Mossad",
-      "claim": "Youssef says Victor Ostrovsky was on camera speaking about how Jeffrey Epstein worked for them (Mossad).",
+      "label": "Host Says Victor Ostrovsky Said on Camera That Epstein Worked for Mossad",
+      "claim": "The host says Victor Ostrovsky was also on camera speaking about how Jeffrey Epstein worked for them (Mossad).",
       "anchored_artifacts": [
         "A-1697.1"
       ],
@@ -4003,7 +4011,7 @@
       "investigative_direction": "Locate the Ostrovsky interview and the exact words he used about Epstein.",
       "transcript_snippet": "Victor Achovsky also uh was on camera speaking about how Jeffrey Epste worked for them.",
       "mentions_person_refs": [
-        "N-499",
+        "N-3",
         "N-502",
         "N-9"
       ]
@@ -4012,8 +4020,8 @@
       "@type": "Claim",
       "@id": "C-5654",
       "ref": "C-5654",
-      "label": "Host says her last or second-to-last Daily Wire episode was the interview with Rabbi Barlay",
-      "claim": "The host says her very last, or second-to-last, Daily Wire episode was with Rabbi Barlay, and Youssef says that is what broke them.",
+      "label": "Host Says Her Last or Second-to-Last Daily Wire Episode Was the Interview With Rabbi Barclay",
+      "claim": "The host says her very last, or second-to-last, Daily Wire episode was with Rabbi Barclay, and Youssef says that is what broke them.",
       "anchored_artifacts": [
         "A-2769.1"
       ],
@@ -4023,7 +4031,7 @@
       "tags": [],
       "claim_timestamp": "01:32:22",
       "investigative_direction": "Check the Daily Wire episode list for the host's final episodes and the Barlay interview date.",
-      "transcript_snippet": "It was what I think it was my very last. It was my very last. It was or of the second to last Rabbi Barlay.",
+      "transcript_snippet": "It was what I think it was my very last. It was my very last. It was or of the second to last Rabbi Barclay.",
       "mentions_person_refs": [
         "N-3",
         "N-725",
@@ -4034,8 +4042,8 @@
       "@type": "Claim",
       "@id": "C-5655",
       "ref": "C-5655",
-      "label": "Host says Rabbi Barlay answered a request for a definition of antisemitism with whatever we want",
-      "claim": "The host says that when she asked Rabbi Barlay for a definition of antisemitism, he answered that it is whatever we want.",
+      "label": "Host Says Rabbi Barclay Answered a Request for a Definition of Antisemitism With Whatever We Want",
+      "claim": "The host says that when she asked Rabbi Barclay for a definition of antisemitism, he answered that it is whatever we want.",
       "anchored_artifacts": [
         "A-2769.1"
       ],
@@ -4053,8 +4061,8 @@
       "@type": "Claim",
       "@id": "C-5656",
       "ref": "C-5656",
-      "label": "Host says Rabbi Barlay offered her a private screening of October 7th footage",
-      "claim": "The host says that after the interview Rabbi Barlay told her she could have a private screening of October 7th footage, with a laptop brought to her, which never happened.",
+      "label": "Host Says Rabbi Barclay Offered Her a Private Screening of October 7th Footage",
+      "claim": "The host says that after the interview Rabbi Barclay told her she could have a private screening of October 7th footage, with a laptop brought to her to show what Hamas did.",
       "anchored_artifacts": [
         "A-2769.1"
       ],
@@ -4072,8 +4080,8 @@
       "@type": "Claim",
       "@id": "C-5657",
       "ref": "C-5657",
-      "label": "Youssef says Rabbi Ysef MRI calls Jesus JC Penney in lectures",
-      "claim": "Youssef says another rabbi, called Ysef MRI, gives lectures in Los Angeles and New York in which he does not call him Jesus Christ but JC Penney.",
+      "label": "Youssef Says Rabbi Yosef Mizrachi Calls Jesus JC Penney in Lectures",
+      "claim": "Youssef says another rabbi, called Yosef Mizrachi, gives lectures in Los Angeles and New York in which he does not call him Jesus Christ but JC Penney.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],

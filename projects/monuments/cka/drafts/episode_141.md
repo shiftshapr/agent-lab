@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 4c78ee14b1a99d8405861d22611f7b5723b201c8c1fb81c34bfdf476935d17f3
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-752, N-11069
+  - Tip-minted Nodes (supplement_2026-10): N-751, N-11069
   - Hole-minted Nodes (reintro-ep141): N-10805
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-6008–C-6090
@@ -310,7 +310,7 @@ Video Timestamp: 00:09:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6020, C-6021, C-6029, C-6055, N-3, N-18, N-752*
+*Related: C-6020, C-6021, C-6029, C-6055, N-3, N-18, N-751*
 
 ---
 
@@ -624,7 +624,7 @@ Topic tied to the content of the September 9 message.
 
 ---
 
-**N-752** Gerald Morgan
+**N-751** Gerald Morgan
 
 First named by the host at 00:13:18 in episode 141. Named as the person from Steven Crowder's team whom Wilson brought and who did a live call-in from the host's children's playroom.
 
@@ -1095,7 +1095,7 @@ Claim: The host says Wilson turned up with Steven Crowder's team, naming Gerald 
 Transcript Snippet: he shows up with Steven Crowder's team.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-261, N-752
+Mentions: N-3, N-18, N-261, N-751
 Related Nodes: N-11067
 Investigative Direction: Confirm the identities of the four-person party with Crowder's company and the debate's security or visitor list.
 
@@ -1125,7 +1125,7 @@ Claim: The host says Gerald decided to do a live call-in from her children's pla
 Transcript Snippet: Gerald decided to do a live callin from my kids' playroom just outside the studio.
 
 Anchored Artifacts: 
-Mentions: N-3, N-752
+Mentions: N-3, N-751
 Related Nodes: N-11067
 Investigative Direction: Check Crowder's channel for any live call-in on debate day and its time.
 
@@ -1154,7 +1154,7 @@ Claim: The host says one term of the contract stipulated no filming outside the 
 Transcript Snippet: one thing the contract did stipulate was no filming outside of this studio.
 
 Anchored Artifacts: A-2795.2
-Mentions: N-3, N-752
+Mentions: N-3, N-751
 Related Nodes: N-11067
 Investigative Direction: Obtain the contract and read the filming clause.
 

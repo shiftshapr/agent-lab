@@ -319,7 +319,7 @@
           "@type": "Artifact",
           "@id": "A-1650.3",
           "ref": "A-1650.3",
-          "description": "Charlie Kirk debate clip with Ben Corollo played on air, in which Charlie states \"Unlike you, my wife lived in China for 6 months\"",
+          "description": "Charlie Kirk debate clip with Ben Carollo played on air, in which Charlie states \"Unlike you, my wife lived in China for 6 months\"",
           "related_claims": [
             "C-2143"
           ],
@@ -347,7 +347,7 @@
           "@type": "Artifact",
           "@id": "A-1651.1",
           "ref": "A-1651.1",
-          "description": "Pastor Gary Hamrick video announcement for a Cornerstone Chapel Wednesday night service on January 21, identifying the topic as antisemitism, listing Candace Owens and Tucker Carlson, and naming Rob McCoy and Samuel Smaja as guests",
+          "description": "Pastor Gary Hamrick video announcement for a Cornerstone Chapel Wednesday night service on January 21, identifying the topic as antisemitism, listing Candace Owens and Tucker Carlson, and naming Rob McCoy and Samuel Smadja as guests",
           "related_claims": [
             "C-2145"
           ],
@@ -813,7 +813,7 @@
       "ref": "N-334",
       "name": "Greg Shaffer",
       "type": "person",
-      "description": "Founder of Schaefer Security, identified by host as former FBI hostage rescue team member with Budapest stationing.",
+      "description": "Founder of Shaffer Security, identified by host as former FBI hostage rescue team member with Budapest stationing.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -832,7 +832,7 @@
       "ref": "N-458",
       "name": "Bill Montgomery",
       "type": "person",
-      "description": "Identified by host as the figure who convinced Charlie Kirk to start TPUSA and initially organized/paid for Charlie's security via Schaefer Security.",
+      "description": "Identified by host as the figure who convinced Charlie Kirk to start TPUSA and initially organized/paid for Charlie's security via Shaffer Security.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -990,7 +990,7 @@
       "@type": "Person",
       "@id": "N-476",
       "ref": "N-476",
-      "name": "Samuel Smaja",
+      "name": "Samuel Smadja",
       "type": "person",
       "description": "Israeli businessman; named guest at the January 21 Cornerstone Chapel event.",
       "related_artifacts": [
@@ -1012,7 +1012,7 @@
       "@type": "Person",
       "@id": "N-477",
       "ref": "N-477",
-      "name": "Ben Corollo",
+      "name": "Ben Carollo",
       "type": "person",
       "description": "Charlie Kirk's debate opponent in the clip where Charlie states his wife lived in China 6 months.",
       "related_artifacts": [
@@ -1573,7 +1573,7 @@
       "ref": "N-11038",
       "name": "Scheper Security",
       "type": "investigation_target",
-      "description": "Scheper Security; the security firm that the Schaefer Security hiring claim appears to concern (spelling differs, see doubts).",
+      "description": "Scheper Security; the security firm that the Shaffer Security hiring claim appears to concern (spelling differs, see doubts).",
       "related_artifacts": [],
       "related_claims": [
         "C-14191"
@@ -1807,7 +1807,7 @@
         "N-10425"
       ],
       "tags": [],
-      "claim_timestamp": "00:10:23",
+      "claim_timestamp": "00:09:03",
       "investigative_direction": "Verify through FBIA membership rolls.",
       "mentions_person_refs": [
         "N-472"
@@ -1839,7 +1839,7 @@
       "@id": "C-2133",
       "ref": "C-2133",
       "label": "Dan Flood grew up in Allen Texas and graduated high school there",
-      "claim": "A social media post from a self-identified childhood friend states he attended middle and high school with Dan Flood in Allen, Texas.",
+      "claim": "A social media post the host reads, from a self-described childhood friend, says he went to middle and high school with Dan Flood, whom the host says is from Allen, Texas and graduated high school there.",
       "anchored_artifacts": [
         "A-1644.1"
       ],
@@ -1888,8 +1888,7 @@
       "claim_timestamp": "00:13:36",
       "investigative_direction": "Identify the billionaire referenced and verify through security firm records or event vendor lists.",
       "mentions_person_refs": [
-        "N-272",
-        "N-458"
+        "N-272"
       ]
     },
     {
@@ -1905,7 +1904,7 @@
         "N-10425"
       ],
       "tags": [],
-      "claim_timestamp": "00:15:02",
+      "claim_timestamp": "00:14:28",
       "investigative_direction": "Verify through public records.",
       "mentions_person_refs": [
         "N-473"
@@ -2006,7 +2005,7 @@
       "@type": "Claim",
       "@id": "C-2142",
       "ref": "C-2142",
-      "label": "TPUSA official response states Erica Kirk only visited China for 2 weeks and never lived there",
+      "label": "TPUSA Response Says Erika Kirk Only Visited China for 2 Weeks and Never Lived There",
       "claim": "Per host's paraphrase of an emailed TPUSA official response, Erica Kirk never lived in China and simply visited for 2 weeks.",
       "anchored_artifacts": [
         "A-1650.2"
@@ -2026,7 +2025,7 @@
       "@id": "C-2143",
       "ref": "C-2143",
       "label": "Charlie Kirk publicly stated his wife lived in China for 6 months",
-      "claim": "In the debate clip with Ben Corollo, Charlie Kirk states \"Unlike you, my wife lived in China for 6 months and she'll show you the videos.\"",
+      "claim": "In the debate clip with Ben Carollo, Charlie Kirk states \"Unlike you, my wife lived in China for 6 months and she'll show you the videos.\"",
       "anchored_artifacts": [
         "A-1650.3"
       ],
@@ -2046,7 +2045,7 @@
       "@type": "Claim",
       "@id": "C-2144",
       "ref": "C-2144",
-      "label": "Erica Kirk publicly stated she was living in China working with victims of sex trafficking through her Everyday Heroes Like You charity",
+      "label": "Erika Kirk Publicly Stated She Was Living in China Working with Victims of Sex Trafficking Through Her Everyday Heroes Like You Charity",
       "claim": "In the on-air clip, Erica Kirk states she was \"living in China and doing a lot of work with victims from sex trafficking\" via Everyday Heroes Like You.",
       "anchored_artifacts": [
         "A-1650.1"
@@ -2065,8 +2064,8 @@
       "@type": "Claim",
       "@id": "C-2145",
       "ref": "C-2145",
-      "label": "Cornerstone Chapel announced a January 21 event on antisemitism featuring Rob McCoy and Samuel Smaja",
-      "claim": "A Cornerstone Chapel video announcement by Pastor Gary Hamrick promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smaja (Israeli businessman).",
+      "label": "Cornerstone Chapel announced a January 21 event on antisemitism featuring Rob McCoy and Samuel Smadja",
+      "claim": "A Cornerstone Chapel video announcement by Pastor Gary Hamrick promotes a January 21 service on antisemitism in conservative politics, naming Candace Owens and Tucker Carlson, with guests Rob McCoy (Turning Point Faith) and Samuel Smadja (Israeli businessman).",
       "anchored_artifacts": [
         "A-1651.1"
       ],
@@ -2125,24 +2124,21 @@
       "@id": "C-2148",
       "ref": "C-2148",
       "label": "The FBI Agent Association (FBIA) is a charity founded in 1981 with 14,000 current and former FBI special agents",
-      "claim": "Per the FBIA website description read aloud, the FBIA was founded in 1981 and consists of 14,000 current and former FBI special agents.",
+      "claim": "Per the FBIA website description the host reads aloud, the FBIA, which the host calls a charity, was founded in 1981 and consists of 14,000 former and current feds.",
       "anchored_artifacts": [
         "A-1647.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:10:23",
-      "investigative_direction": "Verify through FBIA official publications, IRS Form 990 filings, and the organization's own historical records.",
-      "mentions_person_refs": [
-        "N-472"
-      ]
+      "claim_timestamp": "00:09:15",
+      "investigative_direction": "Verify through FBIA official publications, IRS Form 990 filings, and the organization's own historical records."
     },
     {
       "@type": "Claim",
       "@id": "C-3658",
       "ref": "C-3658",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host says she would recommend the decentralized intelligence agency, since the public is more reliable than her sources, because they do not go after kids but defend and protect them.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2159,7 +2155,7 @@
       "@id": "C-14173",
       "ref": "C-14173",
       "label": "Host Says Emailer Tied JFK Killers' Families to Kirk Assassination",
-      "claim": "The host says an anonymous emailer claimed that the families behind the JFK murder, including corrupt cops and mafia members, were also involved in the assassination of Charlie Kirk, which she describes as a group of Texas boys; she says she did not engage with it.",
+      "claim": "The host says an anonymous emailer claimed that the families behind the JFK murder, including corrupt cops and mafia members, were also involved in the assassination of Charlie Kirk, a group of Texas boys, and that she did not engage with it.",
       "anchored_artifacts": [
         "A-3303.1"
       ],
@@ -2392,7 +2388,7 @@
         "N-10425"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:09:00",
       "investigative_direction": "Her inference rests on a LinkedIn profile; confirm any federal service through FBI National Academy rosters and employment records.",
@@ -2493,8 +2489,8 @@
       "@type": "Claim",
       "@id": "C-14188",
       "ref": "C-14188",
-      "label": "Host Says the Kirk Family Was Told to Drug Him for Being Brilliant and His Mother Refused",
-      "claim": "The host says that Charlie Kirk attended the X-Men school after school staff wanted to drug him for being brilliant and his mother said no.",
+      "label": "Host Says Kirk Went to the X-Men School After They Wanted to Drug Him and His Mother Refused",
+      "claim": "The host says that Charlie Kirk attended the X-Men school after they wanted to drug him for being brilliant and his mother said no.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11122"
@@ -2555,8 +2551,8 @@
       "@type": "Claim",
       "@id": "C-14191",
       "ref": "C-14191",
-      "label": "Host Says Montgomery Hired Schaefer Security With Dan Flood and Brian Harpole Working Under Greg Shaffer",
-      "claim": "The host says Bill Montgomery chose to hire Schaefer Security, run by Greg Shaffer, with Dan Flood and Brian Harpole working under Schaefer.",
+      "label": "Host Says Montgomery Hired Shaffer Security With Dan Flood and Brian Harpole Working Under Greg Shaffer",
+      "claim": "The host says Bill Montgomery chose to hire Shaffer Security, run by Greg Shaffer, with Dan Flood and Brian Harpole working under Greg Shaffer.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11038",
@@ -2567,7 +2563,7 @@
       ],
       "claim_timestamp": "00:11:30",
       "investigative_direction": "Obtain the firm's Texas private security registration and staff lists; compare spelling with the Scheper Security the host discusses in later episodes.",
-      "transcript_snippet": "Bill Montgomery chose to hire Schaefer security, which was run by Greg Shaffer. And working under Greg Shaffer was Dan Flood and Brian Harpole.",
+      "transcript_snippet": "Bill Montgomery chose to hire Shaffer Security, which was run by Greg Shaffer. And working under Greg Shaffer was Dan Flood and Brian Harpole.",
       "mentions_person_refs": [
         "N-458",
         "N-334",
@@ -2644,7 +2640,7 @@
       "@id": "C-14195",
       "ref": "C-14195",
       "label": "Host Says the Buckmans Live in New Braunfels, Texas",
-      "claim": "The host says the Buckman couple, spoken as Nelda and Karl Buckman, live in New Braunfels, Texas, the city her plane trackers saw Erika Kirk's plane keep visiting.",
+      "claim": "The host says the Buckman couple, spoken as Nelda and Karl Buckman, live in New Braunfels, Texas, the city that people online tracking Erika Kirk's plane noticed it kept visiting.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10426",
@@ -2808,7 +2804,7 @@
         "N-11388"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:16:00",
       "investigative_direction": "The emailer's evidence is unknown; the host presents it as a point he made, not as proven.",
@@ -3004,7 +3000,7 @@
       "@id": "C-14211",
       "ref": "C-14211",
       "label": "Kolvet Says the Team Left Campus, Flew the Drone and Got the Survey",
-      "claim": "Andrew Kolvet says that after being grounded they left campus, flew the drone off campus and got the survey, and that this is why Harpole said they could not get a drone up.",
+      "claim": "Andrew Kolvet says that after being grounded they left campus, flew the drone off campus and got the survey, and that this reinforced Harpole's statement that they could not get permission to get a drone up.",
       "anchored_artifacts": [
         "A-1649.1"
       ],
@@ -3241,7 +3237,7 @@
       "@id": "C-14221",
       "ref": "C-14221",
       "label": "Charlie Kirk Says Erika Would Show Videos and Images From Her China Stay",
-      "claim": "In the debate clip Charlie Kirk says his wife lived in China for six months and she will show videos and images, implying she holds footage from her time there.",
+      "claim": "In the debate clip Charlie Kirk says his wife lived in China for six months and she will show videos and images.",
       "anchored_artifacts": [
         "A-1650.3"
       ],

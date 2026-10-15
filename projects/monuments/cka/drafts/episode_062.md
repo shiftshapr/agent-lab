@@ -13,7 +13,7 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10c): N-11176, N-11177, N-11178, N-11179, N-11181
   - Hole-minted Nodes (reintro-ep062): N-10869
-  - Tip-minted Nodes (reintro-ep062): N-772, N-10984
+  - Tip-minted Nodes (reintro-ep062): N-771, N-10984
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8252–C-8316
   - New Nodes Introduced: N-490, N-492, N-493, N-495, N-496, N-10438, N-10439, N-10440, N-10441, N-10442
@@ -448,7 +448,7 @@ Referenced via a viewer's comparison to the host's Brigitte Macron series.
 
 ---
 
-**N-772** Michelle Bachmann
+**N-771** Michele Bachmann
 
 Michele Bachmann; named in the donor text as booed at the Tampa event (the transcript spells it Michele).
 
@@ -676,7 +676,7 @@ Catholic AI answer engine advertised in a sponsor read.
 
 Claim Timestamp: 00:07:27
 
-Claim: Charlie Kirk received a text message from a female Christian Zionist donor warning him that platforming Candace Owens and Tucker Carlson placed him "in violation of the Ninth Commandment" and warning of biblical curses on those who "curse Israel."
+Claim: The host says Charlie Kirk received a text message from a female Christian Zionist donor, which she reads, warning him that platforming Candace Owens and Tucker Carlson placed him "in violation of the Ninth Commandment" and that those who "curse Israel" will be cursed.
 
 Anchored Artifacts: A-1669.1
 Mentions: N-22, N-3, N-1
@@ -840,7 +840,7 @@ Claim Timestamp: 00:32:06
 Claim: The host alleges that a part-time TPUSA employee (unnamed) was put into a fake Zoom meeting, received non-stop calls from an unrecognized number, and on answering was told by the general counsel that he was outside her home, that she was fired, and to surrender her work computer (with a warning that deletions would be detected). The host names Marina Minas separately as someone involved in the firings; Minas is not the employee in this account.
 
 Anchored Artifacts: A-1675.2
-Mentions: N-496
+Mentions: N-495, N-496
 
 Related Nodes: N-10439
 
@@ -1057,7 +1057,7 @@ Claim: As read by the host, the donor's message says the TPUSA Tampa event was a
 Transcript Snippet: Your TPUSA Tampa event was a disaster. Michele Bachmann was booed and about 10% walked out on her when she talked about standing with Israel.
 
 Anchored Artifacts: A-1669.1
-Mentions: N-772
+Mentions: N-771
 Related Nodes: N-11080, N-10438
 Tags: relevance:context
 Investigative Direction: Check video and attendee accounts of Michele Bachmann's July 2025 Tampa appearance for booing and walkouts.
@@ -1406,7 +1406,7 @@ Investigative Direction: Sponsor claim; check Magisterium AI's published documen
 
 Claim Timestamp: 00:21:30
 
-Claim: The host says that the day before she received a legal letter in part for noting that a bunch of military men seem to have infiltrated Turning Point USA.
+Claim: The host says that the day before she told viewers she had received a legal letter in part for noting that a bunch of military men seem to have infiltrated Turning Point USA.
 
 Transcript Snippet: I received a legal letter in part for noting that a bunch of military men seem to have infiltrated Turning Point USA.
 
@@ -1605,7 +1605,7 @@ Investigative Direction: Obtain the full recording and identify the employee and
 
 Claim Timestamp: 00:25:36
 
-Claim: The host says she never spoke to this employee, may at most have seen her at an event, so the firing cannot be related to her.
+Claim: The host says she never spoke to this employee, may at most have seen her at an event, and does not think the firing is related to her.
 
 Transcript Snippet: I never spoke to this employee once. Never anything at all.
 
@@ -1751,7 +1751,7 @@ Investigative Direction: Confirm directly with the employee.
 
 Claim Timestamp: 00:33:10
 
-Claim: The host says her sense is that TPUSA thought it would find something, that there is some sort of paranoia going on, and that it hoped to grab the tech and find a leak.
+Claim: The host says her sense is that TPUSA thought it would find something, that there is some sort of paranoia going on, and that it may have hoped to grab the tech and find something.
 
 Transcript Snippet: My sense when I hear that story is they thought they were going to find something.
 
@@ -1864,7 +1864,7 @@ Investigative Direction: Opinion; compare TPUSA's post-September 2025 political 
 
 Claim Timestamp: 00:44:30
 
-Claim: The host says the legal letters are really about TPUSA knowing something will rise to take its place, and that one cannot sue one's way into relevancy or public favor.
+Claim: The host says she thinks the legal letters are really about TPUSA knowing something will rise to take its place, and that one cannot sue one's way into relevancy or public favor.
 
 Transcript Snippet: I think that's really what these legal letters are about. You You cannot, however, sue your way into relevancy.
 

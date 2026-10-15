@@ -1041,8 +1041,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-876",
-      "ref": "N-876",
+      "@id": "N-875",
+      "ref": "N-875",
       "name": "Britney Spears",
       "type": "person",
       "description": "Britney Spears; the host's comparison for media-driven breakdown.",
@@ -1284,8 +1284,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-932",
-      "ref": "N-932",
+      "@id": "N-931",
+      "ref": "N-931",
       "name": "Rabbi Shmuley Boteach",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 145 (as \"Rabbi Shmuley\").",
@@ -1319,8 +1319,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-933",
-      "ref": "N-933",
+      "@id": "N-932",
+      "ref": "N-932",
       "name": "Dan Steiner",
       "type": "person",
       "description": "First named by the host at 00:25:04 in episode 145. President of Pre-Born, per the sponsor read.",
@@ -1337,8 +1337,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-934",
-      "ref": "N-934",
+      "@id": "N-933",
+      "ref": "N-933",
       "name": "Sarah Rogers",
       "type": "person",
       "description": "First named by the host at 00:32:35 in episode 145. Under Secretary for Public Diplomacy at the State Department, whom the host says leaked to Jenica Pounds.",
@@ -1712,7 +1712,7 @@
       "investigative_direction": "Public posts, photos or Icelandic press placing Shmuley Boteach, Ivanka Trump and Jared Kushner in Iceland in the weeks before the episode.",
       "transcript_snippet": "I saw Rumpelstiltskin, known to some people as Rabbi Shmuley, up in Iceland as well as Ivanka and Jared Kushner just before we were going to go, a couple of weeks before",
       "mentions_person_refs": [
-        "N-932",
+        "N-931",
         "N-663",
         "N-180",
         "N-3"
@@ -1784,7 +1784,7 @@
         "C-3256"
       ],
       "mentions_person_refs": [
-        "N-932",
+        "N-931",
         "N-3"
       ]
     },
@@ -1913,7 +1913,7 @@
       "transcript_snippet": "there was a very obvious and intentional effort to drive me to the point of insanity",
       "mentions_person_refs": [
         "N-3",
-        "N-876"
+        "N-875"
       ]
     },
     {
@@ -2330,7 +2330,7 @@
       "investigative_direction": "Pre-Born's own reporting; this is a sponsor claim.",
       "transcript_snippet": "more than 50,000 babies have been saved from abortion",
       "mentions_person_refs": [
-        "N-933"
+        "N-932"
       ]
     },
     {
@@ -2355,7 +2355,7 @@
         "C-9809"
       ],
       "mentions_person_refs": [
-        "N-933"
+        "N-932"
       ]
     },
     {
@@ -2596,7 +2596,7 @@
       ],
       "mentions_person_refs": [
         "N-283",
-        "N-934"
+        "N-933"
       ]
     },
     {
@@ -2619,7 +2619,7 @@
         "C-3338"
       ],
       "mentions_person_refs": [
-        "N-934",
+        "N-933",
         "N-161"
       ]
     },
@@ -2647,7 +2647,7 @@
       ],
       "mentions_person_refs": [
         "N-161",
-        "N-934"
+        "N-933"
       ]
     },
     {

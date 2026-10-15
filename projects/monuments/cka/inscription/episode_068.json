@@ -190,7 +190,7 @@
           "@type": "Artifact",
           "@id": "A-1731.1",
           "ref": "A-1731.1",
-          "description": "BBC report that Gorg Fastbinder had made the discovery of Gilgamesh's tomb (reported a couple of weeks after the 2003 invasion)",
+          "description": "BBC report that Jörg Fassbinder had made the discovery of Gilgamesh's tomb (reported a couple of weeks after the 2003 invasion)",
           "related_claims": [
             "C-2290"
           ],
@@ -209,7 +209,7 @@
           "@type": "Artifact",
           "@id": "A-1731.2",
           "ref": "A-1731.2",
-          "description": "Headline(s) describing German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 – early 2003",
+          "description": "Headline(s) describing German geophysicists Jörg Fassbinder and Helmut Becker of the Bavarian State Conservation Office using magnetic mapping to discover ancient Iraq and Gilgamesh's tomb, May 2002 – early 2003",
           "related_claims": [
             "C-2291"
           ],
@@ -535,7 +535,7 @@
       "@type": "Person",
       "@id": "N-538",
       "ref": "N-538",
-      "name": "Gorg Fastbinder",
+      "name": "Jörg Fassbinder",
       "type": "person",
       "description": "German geophysicist (Bavarian State Conservation Office, Munich) credited in the episode with discovering Gilgamesh's tomb via magnetic mapping between May 2002 and early 2003; subject of BBC follow-up coverage.",
       "related_artifacts": [
@@ -558,7 +558,7 @@
       "ref": "N-539",
       "name": "Helmut Becker",
       "type": "person",
-      "description": "German geophysicist working alongside Gorg Fastbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.",
+      "description": "German geophysicist working alongside Jörg Fassbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.",
       "related_artifacts": [
         "A-1731.2"
       ],
@@ -1715,7 +1715,7 @@
       "@id": "C-2291",
       "ref": "C-2291",
       "label": "Host Says German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003",
-      "claim": "The host says, citing a headline she shows, that German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.",
+      "claim": "The host says, citing a headline she shows, that German geophysicists Jörg Fassbinder and Helmut Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.",
       "anchored_artifacts": [
         "A-1731.2"
       ],

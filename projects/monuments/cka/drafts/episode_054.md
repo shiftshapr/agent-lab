@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: a688ac8130f98ab72ed00abef6c15223a147808ac45c1eeb54514a119ae0d0de
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-804, N-805, N-11163, N-11164, N-11165, N-11166, N-11168, N-11169, N-11172, N-11173, N-11174, N-11175
+  - Tip-minted Nodes (supplement_2026-10c): N-803, N-804, N-11163, N-11164, N-11165, N-11166, N-11168, N-11169, N-11172, N-11173, N-11174, N-11175
   - Hole-minted Nodes (reintro-ep054): N-439, N-441, N-451, N-452, N-489, N-10411, N-10670, N-10681, N-10730, N-10739
   - Tip-minted Nodes (reintro-ep054): N-685, N-686, N-691, N-692, N-10988
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8126–C-8251
   - New Nodes Introduced: N-400, N-401, N-402, N-403, N-404, N-405, N-406, N-407, N-408, N-409, N-437, N-438, N-10392, N-10394, N-10395, N-10396, N-10399, N-10400
-  - Reused Nodes Appearing: N-10393, N-10398, N-7, N-9, N-14, N-17, N-36, N-42, N-61, N-66, N-94, N-117, N-178, N-192, N-197, N-198, N-202, N-207, N-210, N-226, N-239, N-248, N-272, N-285, N-327, N-366, N-491, N-756, N-10000, N-10012, N-10023, N-10097, N-10131, N-10144, N-10183, N-10203, N-10209, N-10223, N-10242, N-10246, N-10253, N-10267, N-10342, N-10417, N-10436, N-10645, N-11102, N-11104, N-10401, N-11171, N-11167, N-10397, N-11170
+  - Reused Nodes Appearing: N-10393, N-10398, N-7, N-9, N-14, N-17, N-36, N-42, N-61, N-66, N-94, N-117, N-178, N-192, N-197, N-198, N-202, N-207, N-210, N-226, N-239, N-248, N-272, N-285, N-327, N-366, N-491, N-755, N-10000, N-10012, N-10023, N-10097, N-10131, N-10144, N-10183, N-10203, N-10209, N-10223, N-10242, N-10246, N-10253, N-10267, N-10342, N-10417, N-10436, N-10645, N-11102, N-11104, N-10401, N-11171, N-11167, N-10397, N-11170
   - (see registers), N-11
 
 # Meta-Data
@@ -909,7 +909,7 @@ Andrew Kolvet's brother, described as stationed in Romania.
 
 ---
 
-**N-756** Astrid Tuminez
+**N-755** Astrid Tuminez
 
 UVU president; the host notes her Russian studies degree.
 
@@ -1125,7 +1125,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-804** Paul Vallely
+**N-803** Paul Vallely
 
 First named by the host at 01:20:03 in episode 54. Retired Army intelligence officer; the host says he is on the TPUSA advisory board and co-wrote Mind War. Spelled Vallely and Vallely in the transcript.
 
@@ -1133,7 +1133,7 @@ First named by the host at 01:20:03 in episode 54. Retired Army intelligence off
 
 ---
 
-**N-805** Andrew Piscatello
+**N-804** Andrew Piscatello
 
 First named by the host at 00:15:55 in episode 54. Photographer early mistaken for the shooter.
 
@@ -1557,7 +1557,7 @@ Investigative Pressure: Medium
 
 **N-10401** Romania / Eastern Europe Trafficking Cluster
 
-Persistent investigation target aggregating Tyler Bowyer's 2011 Romania trip, Romanian Angels project (Lori Frantzve charity), Colonel Otto Buscher brothel allegations, Greg Laurie's Harvest Church, and Andrew Piscatello's Ukrainian trafficking warnings.
+Persistent investigation target aggregating Tyler Bowyer's 2011 Romania trip, Romanian Angels project (Lori Frantzve charity), Colonel Otto Busher brothel allegations, Greg Laurie's Harvest Church, and Andrew Piscatello's Ukrainian trafficking warnings.
 
 Evidence Count: 1
 Claim Count: 1
@@ -1690,7 +1690,7 @@ Investigative Direction: Obtain the Zillioux analysis and the 1990 Far Eastern E
 **C-2036** Moon-affiliated American Freedom Coalition provided approximately $5 million and personnel to support Oliver North during Iran-Contra
 
 Claim Timestamp: 01:05:41
-Claim: Per the 1997 Washington Post article, Unificationists provided approximately $5 million and personnel to the American Freedom Coalition, which built popular support for Colonel Oliver North during the Iran-Contra probe.
+Claim: Per the 1997 Washington Post article, former church members said Unificationists provided about $5 million and the personnel that gave the American Freedom Coalition its grassroots strength; the coalition built popular support for Colonel Oliver North during the Iran-Contra probe.
 Anchored Artifacts: A-1599.7
 Mentions: N-401, N-437
 Related Nodes: N-10399
@@ -1714,7 +1714,7 @@ Investigative Direction: Identify the named "church observers" and the methodolo
 Claim Timestamp: 00:43:30
 Claim: Per an email tip citing *The Israel Lobby* by John Mearsheimer, the Israeli government gave Jerry Falwell Sr. a $2 million jet in 1979 (~$10 million inflation-adjusted), described as seeking evangelical support.
 Anchored Artifacts: A-1601.1
-Mentions: N-400, N-402, N-406
+Mentions: N-400, N-406
 Related Nodes: N-10393
 Investigative Direction: Locate the cited passage in *The Israel Lobby* (Mearsheimer/Walt); cross-check against FAA aircraft registration records and contemporaneous news coverage of Falwell's aircraft acquisition.
 
@@ -1756,7 +1756,7 @@ Investigative Direction: Cross-reference the conference attendance records (Buil
 **C-2042** Liberty Godparent Home residents were locked in rooms 24 hours a day with restricted contact in mid-1990s
 
 Claim Timestamp: 00:24:36
-Claim: Per the recorded phone call with an anonymous former resident, the Liberty Godparent Home locked residents in their rooms 24 hours a day with no visitors allowed (other than via collect calls or pay phone) when she was a resident circa 1994.
+Claim: Per the recorded phone call with an anonymous former resident, the Liberty Godparent Home locked residents in their rooms 24 hours a day and did not allow visitors when she was a resident circa 1994.
 Anchored Artifacts: A-1604.1
 Mentions: N-409
 Related Nodes: N-10392
@@ -1775,10 +1775,10 @@ Investigative Direction: Cross-reference against the ABC News report (A-1598.1),
 
 ---
 
-**C-2044** Carey Hezekiah was a bootlegger/smuggler who shot his brother Garland dead (per Rolling Stone)
+**C-2044** Carey Hezekiah Was a Bootlegger/Smuggler Who Shot His Brother Garland Dead (Per Washington Post)
 
 Claim Timestamp: 00:44:18
-Claim: Per host's citation of Rolling Stone, Jerry Falwell Sr.'s father Carey Hezekiah was a bootlegger, smuggler, and trafficker who shot his brother Garland dead following a fight.
+Claim: Per host's citation of the Washington Post, Jerry Falwell Sr.'s father Carey Hezekiah was a drunk and bootlegger, and also a smuggler and trafficker, who shot his brother Garland dead following a fight.
 Anchored Artifacts: A-1605.1
 Mentions: N-400, N-403
 Related Nodes: N-10400
@@ -1908,7 +1908,7 @@ Investigative Direction: Obtain the event security plan, any permits, and police
 
 Claim Timestamp: 00:05:10
 
-Claim: The host says the tipster told her the police chief decided to take measures himself to make sure the vigil went off without a hitch, and that no police involvement had been scheduled for the event.
+Claim: The host says the police chief apparently decided to take measures himself to make sure the vigil went off without a hitch, and that no police officer involvement had been scheduled for the event.
 
 Transcript Snippet: So, the police chief apparently uh decided to take measures himself to make sure that the vigil went off without a hitch.
 
@@ -1995,7 +1995,7 @@ Transcript Snippet: He was somehow equipped to lead the Gaza Humanitarian Fund a
 Anchored Artifacts: 
 Mentions: N-439, N-3
 Related Nodes: N-10670
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Confirm Johnny Moore's role with the Gaza Humanitarian Foundation through GHF announcements and press reports.
 
 ---
@@ -2052,9 +2052,9 @@ Investigative Direction: Confirm the timing of Falwell Jr.'s 2020 resignation an
 
 Claim Timestamp: 00:09:14
 
-Claim: The host says that when she and Charlie were dating but not yet married, Erika Frandsen became a Falkirk fellow and they hit the road together working on the Falkirk Center.
+Claim: The host says that when Erika Frantzve and Charlie were dating but not yet married, Erika became a Falkirk fellow and the two hit the road together working on the Falkirk Center.
 
-Transcript Snippet: Erika Frandsen, because her and Charlie were not yet married, they were dating, she became a Falkirk fellow.
+Transcript Snippet: Erika Frantzve, because her and Charlie were not yet married, they were dating, she became a Falkirk fellow.
 
 Anchored Artifacts: 
 Mentions: N-2, N-1
@@ -2116,9 +2116,9 @@ Investigative Direction: Locate the Romanian Angels project's own announcements 
 
 Claim Timestamp: 00:10:40
 
-Claim: The host says Lori Frantzve (spelled Francev in the transcript), Erika's mother, established the Everyday Heroes Foundation in Arizona to help children in need, and that the Romanian Angels project spun out of it.
+Claim: The host says Lori Frantzve, Erika's mother, established the Everyday Heroes Foundation in Arizona to help children in need, and that the Romanian Angels project spun out of it.
 
-Transcript Snippet: Lori Francev uh established the Everyday Heroes Foundation which was supposed to help children in need.
+Transcript Snippet: Lori Frantzve uh established the Everyday Heroes Foundation which was supposed to help children in need.
 
 Anchored Artifacts: 
 Mentions: N-491, N-2
@@ -2144,43 +2144,43 @@ Investigative Direction: Find press releases or photographs documenting the Roma
 
 ---
 
-**C-8147** Host Says Romanian Angels Worked With Colonel Otto Buscher
+**C-8147** Host Says Romanian Angels Worked With Colonel Otto Busher
 
 Claim Timestamp: 00:11:09
 
-Claim: The host says it is a fact that Romanian Angels worked with Colonel Otto Buscher at the time.
+Claim: The host says it is a fact that Romanian Angels worked with Colonel Otto Busher at the time.
 
-Transcript Snippet: Now, it is a fact that they worked with at that time Colonel Otto Buscher.
+Transcript Snippet: Now, it is a fact that they worked with at that time Colonel Otto Busher.
 
 Anchored Artifacts: 
 Mentions: N-691, N-2
 Related Nodes: N-11165
 Tags: relevance:core
-Investigative Direction: Locate Romanian Angels thank-you posts or news coverage naming Colonel Buscher and the dates of cooperation.
+Investigative Direction: Locate Romanian Angels thank-you posts or news coverage naming Colonel Busher and the dates of cooperation.
 
 ---
 
-**C-8148** Host Says Colonel Buscher Was Accused of Running a Brothel With Young Children
+**C-8148** Host Says Colonel Busher Was Accused of Running a Brothel With Young Children
 
 Claim Timestamp: 00:11:09
 
-Claim: The host says Colonel Otto Buscher was accused of running a brothel with young children, taking them onto a military base, and that a woman filed a complaint in Romania alleging children were prostituted to military men.
+Claim: The host says Colonel Otto Busher was accused of running a brothel with young children, taking them onto a military base, and that a woman filed in Romania saying children were prostituted to military men.
 
-Transcript Snippet: Colonel Otto Buscher was then accused of running a brothel with young children.
+Transcript Snippet: Colonel Otto Busher was then accused of running a brothel with young children.
 
 Anchored Artifacts: 
 Mentions: N-691
 Related Nodes: N-10401
 Tags: relevance:core
-Investigative Direction: Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Buscher and its outcome.
+Investigative Direction: Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Busher and its outcome.
 
 ---
 
-**C-8149** Host Says No Article Names Erika or Lori in the Buscher Allegation
+**C-8149** Host Says No Article Names Erika or Lori in the Busher Allegation
 
 Claim Timestamp: 00:11:09
 
-Claim: The host says there are no articles saying Erika Frantzve or Lori Frantzve were involved in the brothel allegation, only that they worked on the Romanian project with Colonel Buscher.
+Claim: The host says there are no articles saying Erika Frantzve or Lori Frantzve were involved in the brothel allegation, only that they worked on the Romanian project with Colonel Busher.
 
 Transcript Snippet: there is no articles that say Erika Francev or Lori were involved in this
 
@@ -2189,7 +2189,7 @@ Mentions: N-2, N-491, N-691
 Related Nodes: N-11165
 Qualifies: C-8148
 Tags: relevance:core
-Investigative Direction: Search news archives for the Buscher allegation for any mention of Romanian Angels, Erika Frantzve or Lori Frantzve.
+Investigative Direction: Search news archives for the Busher allegation for any mention of Romanian Angels, Erika Frantzve or Lori Frantzve.
 
 ---
 
@@ -2220,7 +2220,7 @@ Transcript Snippet: Turning Point USA obviously working with Pastor Greg Laurie 
 Anchored Artifacts: 
 Mentions: N-452, N-3
 Related Nodes: N-10411, N-10000
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Review the court docket for the Harvest Christian Fellowship Romanian abuse lawsuit and TPUSA event listings featuring Laurie.
 
 ---
@@ -2236,7 +2236,7 @@ Transcript Snippet: Uh Andrew Kolwitz's brother Curtis is currently stationed in
 Anchored Artifacts: 
 Mentions: N-14, N-692
 Related Nodes: N-10401
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check Army public affairs releases or promotion lists for Curtis Kolvet's rank and posting.
 
 ---
@@ -2250,7 +2250,7 @@ Claim: The host says Tyler Bowyer holds a degree in Russian studies and is fluen
 Transcript Snippet: We have Tyler Bowyer who holds a degree in Russian studies and is fluent in Russian
 
 Anchored Artifacts: 
-Mentions: N-11, N-756
+Mentions: N-11, N-755
 Related Nodes: N-11172
 Tags: relevance:context
 Investigative Direction: Confirm Bowyer's degree and language skills from university records or his public biography.
@@ -2277,7 +2277,7 @@ Investigative Direction: Find McCoy's own accounts or church bulletins about the
 
 Claim Timestamp: 00:14:00
 
-Claim: The host says the aircraft with the registration she reads as N888KG is currently owned by Derek and Shailene Maxfield, who run Saprea, a child abuse charity.
+Claim: The host says the aircraft with the registration she reads as N888KG is currently owned by Derek and Shelaine Maxfield, who run Saprea, a child abuse charity.
 
 Transcript Snippet: which is now currently owned by Derek and Shailene Maxfield, they run Saprea which is a child abuse charity.
 
@@ -2294,7 +2294,7 @@ Investigative Direction: Check FAA registration for N888KG and Saprea's nonprofi
 
 Claim Timestamp: 00:17:45
 
-Claim: The host says Derek and Shailene Maxfield wore Operation Underground shirts in their profile pictures.
+Claim: The host says Derek and Shelaine Maxfield wore Operation Underground shirts in their profile pictures.
 
 Transcript Snippet: in their profile pictures they were wearing an Operation Underground shirt.
 
@@ -2366,7 +2366,7 @@ Claim: The host says early pictures of Andrew Piscatello wearing a suit and carr
 Transcript Snippet: It ended up being that he was photographing that he was taking pictures, he was a photographer not hired by Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-805
+Mentions: N-804
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify Piscatello's credentials and who authorized his access to the UVU event.
@@ -2382,7 +2382,7 @@ Claim: The host says Andrew Piscatello has publicly raised the alarm on military
 Transcript Snippet: Uh but he has rang the alarm before on military Ukrainian sex trafficking that is happening in the United States.
 
 Anchored Artifacts: 
-Mentions: N-805
+Mentions: N-804
 Related Nodes: N-10401
 Tags: relevance:context
 Investigative Direction: Review Piscatello's Instagram posts on Ukrainian trafficking for dates and claims.
@@ -2793,7 +2793,7 @@ Investigative Direction: Submit a records request, with the caller's consent, to
 
 Claim Timestamp: 00:30:38
 
-Claim: The caller says staff had to induce labor and she was over three or four months pregnant, without knowing how far along she was.
+Claim: The caller says staff had to induce labor and that she was over three or four months pregnant.
 
 Transcript Snippet: They had to induce the labor. Okay. They I had to deliver.
 
@@ -2809,7 +2809,7 @@ Investigative Direction: Obtain medical records establishing gestational age and
 
 Claim Timestamp: 00:31:29
 
-Claim: The host says that although the caller can pull her court records, Liberty says its 1990s records are electronic and it cannot find her, despite her having had a baby in a house at age 13.
+Claim: The host says the caller told her that although she can pull all her court records, Liberty University is, in effect, saying its 1990s records are electronic and 'we can't find you,' despite her having had a baby in a house at age 13.
 
 Transcript Snippet: We can't find you. We had You had a baby in a house when you were 13 years old and we can't find you.
 
@@ -2846,7 +2846,7 @@ Claim: The host says the caller went home, and two years later received an invit
 Transcript Snippet: and 2 years later she gets an invite to join Trump Pageant World.
 
 Anchored Artifacts: A-1604.1
-Mentions: N-409, N-2, N-3
+Mentions: N-409, N-3
 Related Nodes: N-11173, N-10988, N-10392
 Tags: relevance:context
 Investigative Direction: Ask the caller for the invitation and mailing details and compare with Miss Universe organization outreach practices in the 1990s.
@@ -2911,18 +2911,18 @@ Claim: In the ABC clip, a Liberty Lost investigator says she has spent two years
 Transcript Snippet: For the last 2 years I've been investigating the maternity home after connecting with several residents who went through the home as pregnant teenage girls both in the 1990s and in 2008.
 
 Anchored Artifacts: A-1598.1
-Mentions: N-407
+Mentions: 
 Related Nodes: N-10392
 Tags: relevance:context
 Investigative Direction: Contact the Liberty Lost podcast team for the number and dates of resident accounts.
 
 ---
 
-**C-8195** Abby Johnson Says Her Parents Sent Her to the Home With a Liberty Scholarship Promise
+**C-8195** ABC Report Says Abby Johnson's Parents Sent Her to the Home With a Liberty Scholarship Promise
 
 Claim Timestamp: 00:35:05
 
-Claim: In the ABC clip, Abby Johnson says that at 16 she got pregnant and her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.
+Claim: In the ABC clip, the reporter says that Abby Johnson got pregnant at 16 and that her parents sent her across the country to the Liberty Godparent Home with a promise of a scholarship to Liberty University.
 
 Transcript Snippet: Her parents sent her across the country to Liberty Godparent Home with the promise of a scholarship to Liberty University after all was said and done.
 
@@ -3140,7 +3140,7 @@ Claim: The host says the Iran-Contra email tipster's reason for writing was to a
 Transcript Snippet: And how Liberty University might be connected to the drug smuggling military base he's referring to Fort Huachuca
 
 Anchored Artifacts: A-1602.1
-Mentions: N-401
+Mentions: 
 Related Nodes: N-10739, N-11104
 Supports: C-5388
 Tags: relevance:context
@@ -3233,7 +3233,7 @@ Investigative Direction: Pull Washington-area property assessments for church-li
 
 Claim Timestamp: 00:53:46
 
-Claim: The host says, according to a tip she has, Turning Point USA is getting into real estate because it is going to teach young conservatives how to buy houses, with Tyler Bowyer leading the charge.
+Claim: The host says, according to a tip she has, Turning Point USA is getting into real estate, remarking sarcastically that they are going to teach young conservatives how to buy houses, 'I'm sure,' with Tyler Bowyer leading the charge.
 
 Transcript Snippet: They're getting into real estate according to tip that I have because they're going to teach young conservatives how to buy houses
 
@@ -3427,7 +3427,7 @@ Investigative Direction: Review the IFCJ's website and Form 990 for its stated p
 
 Claim Timestamp: 01:00:49
 
-Claim: Reading the 1997 Washington Post article, the host says the International Coalition for Religious Freedom, which a former employee said signs his checks, shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.
+Claim: Reading the 1997 Washington Post article, the host says the International Coalition for Religious Freedom, which Borderlin said signs his checks these days, shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.
 
 Transcript Snippet: shares a suite with the Martial Arts Federation for World Peace and a company called Washington Times Aviation.
 
@@ -3735,7 +3735,7 @@ Claim: Responding to a viewer comment, the host says Paul Vallely is on the advi
 Transcript Snippet: Cuz Paul Vallely is also on the advisory board of Turning Point USA.
 
 Anchored Artifacts: A-2923.3
-Mentions: N-804, N-10000
+Mentions: N-803, N-10000
 Tags: relevance:context
 Investigative Direction: Check TPUSA's website and archived board listings for Vallely.
 
@@ -3750,7 +3750,7 @@ Claim: Reading a viewer comment, the host says retired Army intelligence officer
 Transcript Snippet: He co-wrote the book Mind War with Michael Aquino Aquino who was an army intel psychological operations officer and an avowed Satanist.
 
 Anchored Artifacts: A-2923.3
-Mentions: N-804, N-451
+Mentions: N-803, N-451
 Tags: relevance:tangential
 Investigative Direction: Verify the authorship of Mind War and Vallely's and Aquino's military service.
 
@@ -3765,7 +3765,7 @@ Claim: The host says she believes Paul Vallely has some connection to Fort Huach
 Transcript Snippet: I do believe that he has some connection to Fort Huachuca as well.
 
 Anchored Artifacts: A-2923.3
-Mentions: N-804, N-3
+Mentions: N-803, N-3
 Related Nodes: N-10739
 Supports: C-5388
 Tags: relevance:context
@@ -3844,7 +3844,7 @@ Investigative Direction: Find Kirk's own public statements about visions or prem
 - **Email tip – requires verification**: A-1601.1 and A-1602.1 are third-party email tips read aloud by the host; underlying book passages and historical claims have not been independently verified within the episode. Flag A-1601.1, A-1602.1.
 - **Cited but not read in full**: A-1605.1 (Rolling Stone) and A-1606.1 (Forbes) are referenced by the host but the underlying article text is not displayed or read aloud. Flag A-1605.1, A-1606.1.
 - **Transcript ambiguity – care of "Wilkes brothers"**: Host refers to "the Wilkes brothers" funding PragerU and Daily Wire; spelling preserved as transcript renders it. Flag for verification.
-- **Transcript ambiguity – "Lori Francev" / "Lori Frantzve"**: Erika Kirk's mother is referred to with both spellings in the transcript. Preserved both; node uses "Lori Frantzve." Flag.
+- **Transcript ambiguity – "Lori Frantzve" / "Lori Frantzve"**: Erika Kirk's mother is referred to with both spellings in the transcript. Preserved both; node uses "Lori Frantzve." Flag.
 - **Host speculation (claim-admission test failure)**: Host's "best guess" framing that Charlie Kirk was offered to become "the next Moon" and declined is recorded as host speculation and is not inscribed as an evidence-backed claim. Flagged for transparency.
 - **Host speculation (claim-admission test failure)**: Host's framing that Charlie Kirk was assassinated due to his refusal to scale TPUSA into a Moon Inc.-style operation is host interpretive commentary, not artifact-backed in this episode. Flagged.
 - **Hosts dream about "Wilkes brothers"**: Host references a personal dream as investigatively meaningful; this is host personal testimony and is not inscribed as a claim per rhetoric-removal test.

@@ -920,7 +920,7 @@ Existing topic reused for new claims in this episode.
 
 **C-2149** Dave Rubin X Post Asserts Candace Expressed Hatred of Charlie Kirk
 
-Claim Timestamp: 00:28:43
+Claim Timestamp: 00:30:50
 
 Claim: Dave Rubin posted on X that Candace Owens, during a dinner at his home, said she hated Charlie Kirk and ranted about Jared and Ivanka.
 
@@ -953,7 +953,7 @@ Claim Timestamp: 00:09:46
 Claim: During her Miss Arizona USA reign, Erika Kirk tweeted that one of her best friends was in the theater during the 2012 Aurora shooting.
 
 Anchored Artifacts: A-1655.1
-Mentions: N-2, N-480
+Mentions: N-2
 
 
 Investigative Direction: Identify the named friend; cross-reference with the published Aurora victim list; verify any prior connection between Erika Kirk and the Aurora theater victim cohort or New Braunfels, Texas.
@@ -962,9 +962,9 @@ Investigative Direction: Identify the named friend; cross-reference with the pub
 
 **C-2152** Katherine Griggs States U.S. Military Is a Mind Control Operation
 
-Claim Timestamp: 00:19:31
+Claim Timestamp: 00:21:05
 
-Claim: Katherine Pollard Griggs stated in a recorded interview that the U.S. military is literally a mind control operation run by sexual deviants who recruit individuals (citing Jeffrey Dahmer, Kaczynski, McVeigh, Oswald) into intelligence work because they are "easy to control."
+Claim: In a clip the host plays, an interviewer puts to Katherine Pollard Griggs that through her association with her husband, Colonel George Griggs, she has come to understand that the U.S. military is literally run by sexual deviants and is a mind control operation that seeks out people like Jeffrey Dahmer, Kaczynski, McVeigh and Oswald for intelligence work because they are 'so easy to control'; she answers 'Truly' and 'Yes'.
 
 Anchored Artifacts: A-1656.1
 Mentions: N-478, N-479
@@ -1108,7 +1108,7 @@ Investigative Direction: Compare the list of separated employees with the host's
 
 Claim Timestamp: 00:02:31
 
-Claim: Baron Coleman says TPUSA is an organization of only about 600 or 700 people, so a 40-person firing is a large share of the staff.
+Claim: Baron Coleman says TPUSA is an organization of only about 600 or 700 people, and that if it can fire 40 and keep the lights on the next day it has a problem with how it is managing the organization.
 
 Transcript Snippet: if you can get rid of 40 people in an organization of only 6 or 700
 
@@ -1138,12 +1138,12 @@ Investigative Direction: Identify the YouTuber and obtain the cease and desist l
 
 Claim Timestamp: 00:03:55
 
-Claim: Baron Coleman says TPUSA's account of the drones has shifted until a lawyer said there were drones but they were for the media only and not for the security team.
+Claim: The host says TPUSA's account of the drones has kept changing until a lawyer said there were drones, but they were for the media only and not for the security team.
 
 Transcript Snippet: finally a lawyer's like, "Okay, there were drones, but they were for the media only and not for his security team."
 
 Anchored Artifacts: 
-Mentions: N-332
+Mentions: N-3
 Related Nodes: N-10267, N-10000
 Supports: C-2141
 Investigative Direction: Compare TPUSA's cease and desist letter and public statements on drones with UVU's event approvals and any drone permits.
@@ -1154,12 +1154,12 @@ Investigative Direction: Compare TPUSA's cease and desist letter and public stat
 
 Claim Timestamp: 00:04:42
 
-Claim: Baron Coleman says everyone in the film that was never released is related to Fort Huachuca and the Sierra Vista area.
+Claim: The host says everyone in the film that was never released is related to Fort Huachuca and the Sierra Vista area.
 
 Transcript Snippet: Then we sort of learned that everybody in this movie that never premiered or it never was released is related to Fort Huachuca and the Sierra Vista area
 
 Anchored Artifacts: 
-Mentions: N-332, N-2
+Mentions: N-3
 Related Nodes: N-10417
 Investigative Direction: Identify the film and its cast and crew and check each person's documented Sierra Vista or Fort Huachuca connection.
 
@@ -1169,12 +1169,12 @@ Investigative Direction: Identify the film and its cast and crew and check each 
 
 Claim Timestamp: 00:04:42
 
-Claim: Baron Coleman says Erika Kirk has been very open that her mother had Department of Defense contracts, and that once you look into what the mother did, Erika is clearly familiar with Fort Huachuca.
+Claim: The host says Erika Kirk has been very open that her mother had Department of Defense contracts, and that once you look into what the mother did, Erika is clearly familiar with Fort Huachuca.
 
 Transcript Snippet: Erika has been very open about the fact that her mother DOD contracts
 
 Anchored Artifacts: 
-Mentions: N-332, N-2
+Mentions: N-3, N-2
 Related Nodes: N-10417
 Investigative Direction: Find Erika Kirk's own public statements about her mother's DOD work and federal contract records for the mother's employer.
 
@@ -1184,12 +1184,12 @@ Investigative Direction: Find Erika Kirk's own public statements about her mothe
 
 Claim Timestamp: 00:04:42
 
-Claim: Baron Coleman says he learned that Dan Flood's father ran Intel at Fort Huachuca.
+Claim: The host says she learned that Dan Flood's father ran Intel at Fort Huachuca.
 
 Transcript Snippet: Dan Flood's father ran Intel at Fort Huachuca.
 
 Anchored Artifacts: 
-Mentions: N-332, N-272
+Mentions: N-3, N-272
 Related Nodes: N-10417, N-10694
 Investigative Direction: Check obituaries, military and law-enforcement records for Dan Flood's father and any Fort Huachuca assignment; compare with the Robert Flood biography in episode 59.
 
@@ -1229,12 +1229,12 @@ Investigative Direction: Obtain the night-before text messages and any security 
 
 Claim Timestamp: 00:05:43
 
-Claim: The host says her Turning Point insider told her that before Charlie Kirk died there was a back and forth between Kirk and Dan Flood in which Kirk was going to demote Flood.
+Claim: Baron Coleman says his Turning Point insider told him that before Charlie Kirk died there was a back and forth between Kirk and Dan Flood in which Kirk was going to demote Flood.
 
 Transcript Snippet: my Turning Point insider told me that before Charlie died, there was some sort of back and forth between him and Dan Flood where he was going to demote Dan Flood.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-272
+Mentions: N-332, N-1, N-272
 Related Nodes: N-10694, N-10000
 Investigative Direction: Seek internal TPUSA messages or a second source on any planned change to Flood's role in August or September 2025.
 
@@ -1244,12 +1244,12 @@ Investigative Direction: Seek internal TPUSA messages or a second source on any 
 
 Claim Timestamp: 00:06:35
 
-Claim: The host says Dan Flood was protecting Erika Kirk at the White House when the Charlie Kirk Day was held, after Erika became CEO without removing him from the security team.
+Claim: Baron Coleman says Dan Flood was protecting Erika Kirk at the White House when the Charlie Kirk Day was held, after Erika became CEO without removing him from the security team.
 
 Transcript Snippet: he was protecting her at the White House when they did the Charlie Kirk Day
 
 Anchored Artifacts: 
-Mentions: N-3, N-272, N-2
+Mentions: N-332, N-272, N-2
 Related Nodes: N-10694
 Supports: C-2147
 Investigative Direction: Review photos and press pool footage of the White House event for Flood and the rest of Erika Kirk's detail.
@@ -1260,12 +1260,12 @@ Investigative Direction: Review photos and press pool footage of the White House
 
 Claim Timestamp: 00:07:14
 
-Claim: The host says she will reveal the next day that Erika Kirk's parents worked with somebody who was accused of something to do with children.
+Claim: Baron Coleman says he will reveal the next day that Erika Kirk's parents worked with somebody who was accused of something to do with children.
 
 Transcript Snippet: I've even got something that I'm I'm going to reveal tomorrow about her parents having worked with somebody that was accused something to do with children.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2
+Mentions: N-332, N-2
 Investigative Direction: Check the following episode for the named individual and test the allegation against court or investigative records; treat as unverified until then.
 
 ---
@@ -1288,12 +1288,12 @@ Investigative Direction: Confirm with the Miss Arizona USA organization how the 
 
 Claim Timestamp: 00:08:44
 
-Claim: The host says the 2012 Aurora theater shooter walked in wearing tactical gear and throwing smoke grenades, which she says looks pretty military in retrospect.
+Claim: Baron Coleman says the 2012 Aurora theater shooter walked in wearing tactical gear and throwing smoke grenades, which he says looks pretty military in retrospect.
 
 Transcript Snippet: some guy walks in in tactical gear, but this was like he was like throwing smoke grenades. I mean, looks in retrospect pretty military.
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-332
 Related Nodes: N-11036
 Investigative Direction: Compare the host's description with trial testimony and the official report on the gunman's equipment.
 
@@ -1318,9 +1318,9 @@ Investigative Direction: Check McCoy's documented role after the Borderline shoo
 
 Claim Timestamp: 00:09:46
 
-Claim: The host says Rob McCoy happened to be in Nashville at the time of the Nashville elementary school shooting, which she attributes to a trans person she calls Aubrey Hale.
+Claim: The host says Rob McCoy happens to be in Nashville when there is another shooting, same story, which she describes as the official account that a trans person she calls Audrey Hale went crazy and shot up an elementary school.
 
-Transcript Snippet: Then Rob McCoy happens to be in Nashville and oh there's another shooting same story you know this trans person Aubrey Hale just went crazy and decided to shoot up an elementary school
+Transcript Snippet: Then Rob McCoy happens to be in Nashville and oh there's another shooting same story you know this trans person Audrey Hale just went crazy and decided to shoot up an elementary school
 
 Anchored Artifacts: 
 Mentions: N-3, N-17
@@ -1393,12 +1393,12 @@ Investigative Direction: Identify the companion from the victim list and confirm
 
 Claim Timestamp: 00:13:48
 
-Claim: Baron Coleman says that, rather than leaving her where she lay, two police officers went into the theater, pulled her into a police car and took her to a hospital.
+Claim: The host says that, rather than leaving her where she lay, two police officers went into the theater, pulled Jessica Ghawi into a police car and took her to a hospital.
 
 Transcript Snippet: rather than leaving her where she is two police officers go into the theater and they pull her into a police car and personally say that they take her to a hospital.
 
 Anchored Artifacts: 
-Mentions: N-332, N-480
+Mentions: N-3, N-480
 Related Nodes: N-11036
 Investigative Direction: Compare with the Aurora police report, 911 logs and the coroner's findings on Ghawi's death.
 
@@ -1408,12 +1408,12 @@ Investigative Direction: Compare with the Aurora police report, 911 logs and the
 
 Claim Timestamp: 00:14:32
 
-Claim: Baron Coleman says Aurora, Colorado had the Buckley Air Force Base from the year 2000 to 2021, which is now a Space Force base, so there is a military presence there.
+Claim: The host says Aurora, Colorado had the Buckley Air Force Base from the year 2000 to 2021, which is now a Space Force base, so there is a military presence there.
 
 Transcript Snippet: It was the Buckley Air Force Base from the year 2000 to 2021.
 
 Anchored Artifacts: 
-Mentions: N-332
+Mentions: N-3
 Related Nodes: N-11036
 Investigative Direction: Check Buckley's service history and the date it was redesignated a Space Force base.
 
@@ -1423,12 +1423,12 @@ Investigative Direction: Check Buckley's service history and the date it was red
 
 Claim Timestamp: 00:14:50
 
-Claim: Baron Coleman says that in the Aurora theater alone there were a ton of military guys among the victims.
+Claim: The host says that in the Aurora theater alone there were a ton of military guys among the victims.
 
 Transcript Snippet: in that theater alone there were a ton of military guys that were victims of the shooting
 
 Anchored Artifacts: 
-Mentions: N-332
+Mentions: N-3
 Related Nodes: N-11036
 Investigative Direction: Tabulate the military service of the 12 killed and 70 wounded from the court victim list.
 
@@ -1438,12 +1438,12 @@ Investigative Direction: Tabulate the military service of the 12 killed and 70 w
 
 Claim Timestamp: 00:14:50
 
-Claim: Baron Coleman says Jessica Ghawi's father's obituary did not mention her though he was mentioned in hers, and that the father adopted a young boy after she left the house.
+Claim: The host says Jessica Ghawi's father's obituary did not mention her though he was mentioned in hers, and that the father adopted a young boy after she left the house.
 
 Transcript Snippet: His daughter who was tragically murdered not terribly long before he died was not mentioned in his obituary.
 
 Anchored Artifacts: 
-Mentions: N-332, N-480
+Mentions: N-3, N-480
 Related Nodes: N-11036
 Investigative Direction: Retrieve the father's obituary and Ghawi's obituary and any adoption record.
 
@@ -1620,7 +1620,7 @@ Claim: The host says the photo with Rubin at Peter Thiel's house was from 2018, 
 Transcript Snippet: This is I do remember actually it was 2018 because this was the trip when I went to go see Kanye.
 
 Anchored Artifacts: A-2758.1
-Mentions: N-3, N-27, N-32
+Mentions: N-3, N-27, N-32, N-523
 Related Nodes: N-10004
 Investigative Direction: Cross-check with the November 2018 timeline of the host's visit with Kanye West and the Kanye tweet about her.
 
@@ -1674,7 +1674,7 @@ Investigative Direction: Seek the host's husband's recollection and any contempo
 
 Claim Timestamp: 00:36:29
 
-Claim: The host says Rubin told her they pushed the young employee to go on a date with a guy and have his first kiss, after which the employee quit and moved to Texas, and she says she believes they were grooming him.
+Claim: The host says Rubin told her they pushed the young employee to go on a date with a guy and have his first kiss, after which the employee quit and moved, she thinks to Texas, and she says it was obvious to her they were grooming him.
 
 Transcript Snippet: What ends up happening is he then says that they compelled him or supported him, not compelled him, but pushed him and pushed him to go on a date with a guy and to have his first kiss.
 
@@ -1704,12 +1704,12 @@ Investigative Direction: Compare with earlier episodes in which the host describ
 
 Claim Timestamp: 00:36:29
 
-Claim: The host says that Dave Rubin, whom she calls a cheap ass, had a falling out with Charlie Kirk, and the transcript ties this to a complaint the host promises to come back to; who complained is not clear from the transcript.
+Claim: The host says Dave Rubin complained that someone was 'such a cheap ass' and that it was one of the reasons he and Charlie Kirk had a falling out; she then recounts Rubin complaining that Peter Thiel charged him interest on a $5 million bridge loan.
 
 Transcript Snippet: that he complained he's such a cheap ass, okay? That it was one of the reasons him and Charlie had a falling out.
 
 Anchored Artifacts: 
-Mentions: N-3, N-32, N-1
+Mentions: N-3, N-32, N-1, N-523
 Investigative Direction: Ask the host which person made the complaint and what the dispute was; seek Rubin's or Kirk-side account of the falling out.
 
 ---
@@ -1762,12 +1762,12 @@ Investigative Direction: Obtain messages from Kirk to donors, staff or the host 
 
 Claim Timestamp: 00:46:48
 
-Claim: Baron Coleman says Protestant and Evangelical churches are definitely experiencing a mass exodus.
+Claim: The host says Protestant and Evangelical churches are definitely experiencing a mass exodus.
 
 Transcript Snippet: the Protestant churches the Evangelical churches are definitely uh experi- experiencing a mass exodus.
 
 Anchored Artifacts: 
-Mentions: N-332
+Mentions: N-3
 Investigative Direction: Compare with Pew, Gallup and denominational membership data for 2025.
 
 ---
@@ -1826,7 +1826,7 @@ Claim: The host says she thinks the military seeks out gifted children, tests th
 Transcript Snippet: there is an angle here where I think the military is actually seeking out gifted children and putting them through testing and seeing if they can turn them into state weapons
 
 Anchored Artifacts: 
-Mentions: N-3, N-1
+Mentions: N-3
 Related Nodes: N-10422
 Investigative Direction: A theory, not a finding; look for documented military screening of gifted programs and Kirk's participation in any such program.
 
@@ -1881,7 +1881,7 @@ Investigative Direction: Collect every TPUSA and Erika Kirk statement of this cl
 
 Claim Timestamp: 00:53:04
 
-Claim: The host says that when she sat down with Erika Kirk, who had not been asked about the topic, they had a physical printout of a transcript of Charlie saying he wanted Erika to take over, which she says is proof for a claim she had not made.
+Claim: The host says that when she sat down with Erika Kirk, after she had said nothing on her show about the statement, they had a physical printout of a transcript of Charlie saying he wanted Erika to take over, which she says is proof for a claim she had not made.
 
 Transcript Snippet: they had prepared a response to a question that I wasn't asking. Meaning that they had a physical printout of a transcript
 
@@ -1911,7 +1911,7 @@ Investigative Direction: Obtain the Aspen retreat guest list, agenda and any rec
 
 Claim Timestamp: 00:53:59
 
-Claim: The host says that when she reached out to people at the Aspen retreat, they alleged that somebody asked Charlie Kirk what happens if you die, which she calls a weird question, and that he died a month later.
+Claim: The host says that after she found out who was at the Aspen retreat and reached out, they alleged that somebody had asked Charlie Kirk 'What happens if you die?', which she calls a weird question, and she adds that he died a month later.
 
 Transcript Snippet: I reach out and then they alleged that this was a question that somebody had asked and said, "What happens if you die?" which is kind of a weird question.
 
@@ -1941,7 +1941,7 @@ Investigative Direction: Ask the remaining attendees on the record; the host say
 
 Claim Timestamp: 00:55:26
 
-Claim: The host says one Aspen attendee remembers Charlie Kirk describing how TPUSA would grow and, when asked how he could do all of it, answering that he hires people under him to run things.
+Claim: The host says one Aspen attendee remembers Charlie Kirk describing how TPUSA would grow and, when asked how he could do all of it, apparently answering that he hires people under him to run things.
 
 Transcript Snippet: what one person remembers, which sounds much more sensible, was that during Charlie's conversation, he's like saying how Turning Point is going to grow and they're asking, "How are you going to do all of this? Like you're one person."
 
@@ -1967,16 +1967,16 @@ Investigative Direction: Request the unedited video of the retreat or speech and
 
 ---
 
-**C-5546** Host Says She Is Told There Was Audio and Video of the Event in the Hamptons
+**C-5546** Coleman Says He Is Told There Was Audio and Video of the Event in the Hamptons
 
 Claim Timestamp: 00:56:50
 
-Claim: The host says she is told there was audio and visual recording of the event in the Hamptons, and she adds that she no longer believes audio or video without someone in the room confirming it.
+Claim: Baron Coleman says he is told there was audio and visual recording of the event in the Hamptons, and adds that he no longer believes audio or video without someone in the room confirming it.
 
 Transcript Snippet: I'm told that there was audio and visual at that event in the Hamptons.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2
+Mentions: N-332
 Related Nodes: N-10664, N-10027
 Investigative Direction: Ask TPUSA whether a recording exists and of which event; the host and Coleman later say they were unsure whether the question came from the Hamptons or Aspen.
 
@@ -2043,30 +2043,30 @@ Investigative Direction: Obtain the texts or TPUSA's public confirmation, with t
 
 ---
 
-**C-5551** Host Says Erika Held the Necklace Charlie Never Took Off and Tried to Find It
+**C-5551** Coleman Says Erika Held the Necklace Charlie Never Took Off and Tried to Find It
 
 Claim Timestamp: 00:59:28
 
-Claim: The host says Erika Kirk had custody of the necklace Charlie never took off and was frantic to find it immediately after the assassination.
+Claim: Baron Coleman says Erika Kirk had custody of the necklace Charlie never took off and was frantic to find it immediately after the assassination.
 
 Transcript Snippet: she also had custody of the necklace that he never took off um and that she was crazy to try to find immediately in the aftermath.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-1
+Mentions: N-332, N-2, N-1
 Investigative Direction: Identify who recovered the necklace and when, using hospital property logs and Erika Kirk's statements.
 
 ---
 
-**C-5552** Host Says She Believes Erika Knew Charlie Would Die the Next Day
+**C-5552** Coleman Says He Believes Erika Knew Charlie Would Die the Next Day
 
 Claim Timestamp: 01:00:24
 
-Claim: The host says her biggest question is whether Erika Kirk knew Charlie was going to die the next day, and that in her opinion the answer is yes.
+Claim: Baron Coleman says his biggest question is whether Erika Kirk knew Charlie was going to die the next day, and that in his opinion the answer is yes.
 
 Transcript Snippet: Because I think the answer to that question is yes. In my opinion, I think the answer is yes.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-1
+Mentions: N-332, N-2, N-1
 Related Nodes: N-11039
 Investigative Direction: This is the host's stated opinion without a cited basis in this segment; look for any document or testimony of what Erika Kirk knew on September 9 and 10.
 
@@ -2186,7 +2186,7 @@ Investigative Direction: Compare the flight manifest with Kolvet's own statement
 
 Claim Timestamp: 01:09:42
 
-Claim: The host says that when she asked Erika Kirk and Justin Streiff who was on the planes, and whether Kolvet flew with his wife, Erika sat quietly as if she did not know, though the host says Erika would have seen the wife if she waited on the tarmac.
+Claim: The host says that when she asked Erika Kirk and Justin Streiff who was on the planes, and whether Kolvet flew with his wife, Erika sat quietly as if she did not know; Coleman adds that surely Erika would have seen the wife.
 
 Transcript Snippet: And Erika sat quietly like she didn't know the answer to whether or not he flew with his wife.
 
@@ -2297,12 +2297,12 @@ Investigative Direction: Locate the Operation Debunk Mitch posts and the baby ma
 
 Claim Timestamp: 01:17:23
 
-Claim: Baron Coleman says the host verified that Mitch Snow was at the base, that she had the police report, and that Snow's son later confirmed the police report.
+Claim: In a clip the host plays, Baron Coleman says the host verified that Mitch Snow was at the base, that she had the police report, and that Snow's son later confirmed the police report.
 
 Transcript Snippet: She had the police report. His son later confirmed the police report was So that's number one. Two. What about the building he said he used?
 
 Anchored Artifacts: A-1658.1
-Mentions: N-332, N-363
+Mentions: N-332, N-363, N-3
 Related Nodes: N-10367
 Supports: C-2157
 Investigative Direction: Obtain the police report and the son's confirmation as cited in the host's Fort Huachuca episodes.
@@ -2313,12 +2313,12 @@ Investigative Direction: Obtain the police report and the son's confirmation as 
 
 Claim Timestamp: 01:17:23
 
-Claim: Baron Coleman says the host called someone at the base who confirmed that the building Mitch Snow named is used, that its windows are blacked out and that it is set up as a secure facility.
+Claim: In a clip the host plays, Baron Coleman says the host called someone at the base who confirmed that the building Mitch Snow named is used, that its windows are blacked out and that it is set up as a secure facility.
 
 Transcript Snippet: She called someone at the base and they said, yeah. Yeah. Um in fact they do use that building and they black out the windows and it's set up as sort of a a secure facility.
 
 Anchored Artifacts: A-1658.1
-Mentions: N-332, N-363
+Mentions: N-332, N-363, N-3
 Related Nodes: N-10367, N-10370
 Supports: C-2157
 Investigative Direction: Identify the base contact and obtain a written or on-record confirmation of the building and its use.
@@ -2334,7 +2334,7 @@ Claim: Baron Coleman says he has retired from his other job and is now doing his
 Transcript Snippet: as Candace mentioned, I I've retired from my other job and I'm doing this full-time now.
 
 Anchored Artifacts: 
-Mentions: N-332, N-3
+Mentions: N-332
 Investigative Direction: Confirm via Coleman's own channel announcements; this is self-reported.
 
 ---

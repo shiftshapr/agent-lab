@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 6dd179617c93d9b189013177ccf6a13ebe005629aa7ab4b3c03e97804d4d7234
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-859, N-11243, N-11244
+  - Tip-minted Nodes (supplement_2026-10d): N-858, N-11243, N-11244
   - Hole-minted Nodes (reintro-ep064): N-499, N-10689
   - Tip-minted Nodes (reintro-ep064): N-11000
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -267,7 +267,7 @@ Confidence Level: High
 
 **A-1687** TPUSA Board Announcement Letter Bundle
 
-**A-1687.1** Doug DeGroot Board Letter Announcing Erika Kirk as CEO and Chair (Published 2025-09-17)
+**A-1687.1** Doug DeGroote Board Letter Announcing Erika Kirk as CEO and Chair (Published 2025-09-17)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -415,7 +415,7 @@ Investigative Pressure: Medium
 
 *Related: A-1686.2, C-2208*
 
-**N-498** Doug DeGroot
+**N-498** Doug DeGroote
 
 TPUSA board member. Author of the September 17, 2025 board letter (A-1687.1) announcing Erika Kirk as CEO and Chair of Turning Point USA.
 
@@ -822,7 +822,7 @@ Named in the host's account of her Daily Wire exit and Boreing's loan.
 
 ---
 
-**N-859** Bob Ferguson
+**N-858** Bob Ferguson
 
 First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in the prior episode as Bob Flood; the host says he has nothing to do with the story and apologizes.
 
@@ -852,12 +852,12 @@ The host's allegations about Jeremy Boreing's handling of Brett Cooper's departu
 
 **C-2206** Host Says Erika Kirk Hosted TPUSA Corporate Zoom Call on September 16, 2025
 
-Claim Timestamp: 00:09:08
+Claim Timestamp: 00:08:40
 
 Claim: The host says a corporate-wide Zoom call addressed by Erika Kirk to Turning Point USA employees took place on September 16, 2025, approximately five-and-a-half days after Charlie Kirk's death, with the public board announcement following one day later.
 
 Anchored Artifacts: A-1686.1, A-1686.2, A-1686.3
-Mentions: N-188, N-1, N-2
+Mentions: N-1, N-2
 
 Related Nodes: N-10448
 
@@ -865,12 +865,12 @@ Investigative Direction: Verify call metadata, attendee list, and recording prov
 
 **C-2207** Erika Kirk's Sept 16 Call Opened With Laughter and Visible "Thumbs Up" Reactions
 
-Claim Timestamp: 00:24:46
+Claim Timestamp: 00:23:52
 
 Claim: The opening of the September 16 Zoom call features visible Zoom "thumbs up" reactions, Erika Kirk laughing, and her comment "this is a little bit more emotional than probably Charlie would be reacting."
 
 Anchored Artifacts: A-1686.1
-Mentions: N-2
+Mentions: N-2, N-1
 
 Related Nodes: N-10448
 
@@ -878,12 +878,12 @@ Investigative Direction: Obtain unedited full recording; confirm reaction icons,
 
 **C-2208** Erika Kirk Framed TPUSA Staff as "Family" on Sept 16 Call
 
-Claim Timestamp: 00:17:35
+Claim Timestamp: 00:19:09
 
 Claim: In a clip of the September 16 call that the host plays, Erika Kirk repeatedly addresses Turning Point USA employees as "family," stating "your family if you want to," "I want our family to stay together," and "this is your chosen family."
 
 Anchored Artifacts: A-1686.2
-Mentions: N-188, N-2
+Mentions: N-2
 
 Related Nodes: N-10448
 
@@ -891,7 +891,7 @@ Investigative Direction: Compile every instance of "family" usage; obtain termin
 
 **C-2209** Erika Kirk Promised Job Security to TPUSA Staff on Sept 16 Call
 
-Claim Timestamp: 00:17:35
+Claim Timestamp: 00:19:00
 
 Claim: During the September 16 call, Erika Kirk stated, "I will fight like hell to make sure that all of you have a job here" and "I will make sure that I never allow a point to where you have to leave because we cannot financially afford you."
 
@@ -941,26 +941,26 @@ Related Nodes: N-10448
 
 Investigative Direction: Identify the "Usha" referenced; verify identity and whether the analogy was shared privately on the tarmac as Erika describes.
 
-**C-2213** TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroot
+**C-2213** TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroote
 
 Claim Timestamp: 00:09:08
 
-Claim: The September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was authored by Doug DeGroot as a board member.
+Claim: The host says the September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was signed off by Doug DeGroote, whom she says is on the board.
 
 Anchored Artifacts: A-1687.1
 Mentions: N-498, N-2
 
 
-Investigative Direction: Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.
+Investigative Direction: Obtain original signed letter; verify Doug DeGroote's role on the TPUSA board at the time of issuance.
 
 **C-2214** TPUSA Board Letter Invoked Ecclesiastes and Framed the Appointment as Divinely Ordained
 
 Claim Timestamp: 00:09:08
 
-Claim: The September 17, 2025 board letter opens with a citation to Ecclesiastes, attributing the quote to King Solomon, and frames Kirk's appointment as a divinely ordained test: "mankind is to be tested by God."
+Claim: The host reads the September 17, 2025 board letter announcing Erika Kirk as CEO and chair, which opens by citing Ecclesiastes, saying King Solomon wrote that "mankind is to be tested by God," and adds "Today we are facing such a test."
 
 Anchored Artifacts: A-1687.1
-Mentions: N-498
+Mentions: N-2
 
 
 Investigative Direction: Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.
@@ -996,7 +996,7 @@ Claim Timestamp: 00:41:59
 Claim: In a podcast interview, Jeremy Boreing stated Candace Owens "is at war with the widow of her purported best friend" and characterized her content as a "kind of pornography" and "rhetorical pornography," adding that "you shouldn't be able to look at it if you're under 18."
 
 Anchored Artifacts: A-1688.3
-Mentions: N-368, N-3
+Mentions: N-368, N-3, N-2, N-1
 
 
 Investigative Direction: Identify source podcast and date; verify quote against full unedited clip.
@@ -1008,7 +1008,7 @@ Claim Timestamp: 00:44:36
 Claim: In a podcast interview, Jeremy Boreing claimed that on two separate occasions when he asked Candace what she believes, she answered, "I believe what the people believe. I am the voice of the people."
 
 Anchored Artifacts: A-1688.4
-Mentions: N-368
+Mentions: N-368, N-3
 
 
 Investigative Direction: Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization.
@@ -1017,7 +1017,7 @@ Investigative Direction: Identify source podcast and date; verify whether Candac
 
 Claim Timestamp: 00:47:50
 
-Claim: In a Bulwark podcast segment, the host described Daily Wire's Hungary production as including approximately 100 extras staging fist fights in a marsh, traveling to Italy for additional filming, and importing bulls from Spain for the production.
+Claim: In a Bulwark podcast segment the host plays, a speaker describes Daily Wire's Hungary production as including approximately 100 extras staging fist fights in a marsh, traveling to Italy for additional filming, and importing bulls from Spain for the production.
 
 Anchored Artifacts: A-1689.1
 Mentions: N-368
@@ -1030,7 +1030,7 @@ Investigative Direction: Identify the Bulwark episode and date; verify whether D
 
 Claim Timestamp: 00:16:46
 
-Claim: During the September 16 Zoom call playback, host identifies Teo Farnsworth as audible in the background of the recording.
+Claim: During the September 16 Zoom call playback, host identifies Teo Farnsworth as in the background of the recording.
 
 Anchored Artifacts: A-1686.1
 Mentions: N-263
@@ -1052,9 +1052,9 @@ Investigative Direction: Evaluate the host's interpretive claim against the verb
 
 **C-2222** Host Characterizes Boreing's "Rhetorical Pornography" Comparison as Deflection From Documented Sexual Violence
 
-Claim Timestamp: 00:43:46
+Claim Timestamp: 00:43:08
 
-Claim: Candace Owens rejects Boreing's pornography analogy and argues it functions as deflection from documented sexual exploitation, including alleged Israeli sexual blackmail and the 2002 Gaza pornography broadcasts.
+Claim: Candace Owens rejects Boreing's pornography analogy, saying one of the reasons she was fired was that she said the history of pornography should be looked into, and that people should talk about real pornography and where it comes from.
 
 Anchored Artifacts: A-1688.3
 Mentions: N-368, N-3
@@ -1066,7 +1066,7 @@ Investigative Direction: Document the factual claims about Israeli sexual blackm
 
 Claim Timestamp: 00:44:36
 
-Claim: Candace Owens rejects Boreing's account of her saying "I believe what the people believe," describing it as "obviously made up" and an "amoral statement."
+Claim: Candace Owens rejects Boreing's account of her saying "I believe what the people believe," describing it as "obviously made up."
 
 Anchored Artifacts: A-1688.4
 Mentions: N-368, N-3
@@ -1078,7 +1078,7 @@ Investigative Direction: Compare Boreing's account against any other contemporan
 
 Claim Timestamp: 00:48:28
 
-Claim: Candace Owens concurs with the Bulwark host's characterization of Daily Wire's Hungary production as financially extravagant and possibly connected to a debt-reduction departure agreement.
+Claim: Candace Owens concurs with the Bulwark speaker's characterization of Daily Wire's Hungary production as financially extravagant and possibly connected to the departure agreement.
 
 Anchored Artifacts: A-1689.1
 Mentions: N-368, N-3
@@ -1098,7 +1098,7 @@ Claim: The host says that the expression 'everybody grieves differently' was fir
 Transcript Snippet: who actually uttered that expression first over at Turning Point USA, before Charlie's memorial. In a corporate-wide phone call
 
 Anchored Artifacts: 
-Mentions: N-3, N-2
+Mentions: N-3
 Related Nodes: N-10000, N-10448
 Supports: C-2211
 Tags: relevance:core
@@ -1117,7 +1117,7 @@ Transcript Snippet: publicly attacking Tucker Carlson and yours truly, correlati
 Anchored Artifacts: 
 Mentions: N-368, N-22, N-3
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the Boreing podcast interview and check whether he used the word antifa about the host and Carlson.
 
 ---
@@ -1131,7 +1131,7 @@ Claim: The host says the previous episode showed a picture of a man she believed
 Transcript Snippet: His name was actually Bob Fergus- Ferguson. He's from Iowa. He has nothing to do with the story.
 
 Anchored Artifacts: 
-Mentions: N-472, N-859, N-3
+Mentions: N-472, N-858, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Compare the removed segment of the prior episode with the corrected version and confirm the image is gone from all uploads.
@@ -1213,7 +1213,7 @@ Claim: The host says she told her audience the doctor did not violate HIPAA, tha
 Transcript Snippet: It was actually a three-way call and the statement pertaining to Superman neck came from her.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-14, N-197
+Mentions: N-3, N-2, N-197
 Related Nodes: N-10447, N-10341
 Supports: C-5403
 Tags: relevance:core
@@ -1714,7 +1714,7 @@ Investigative Direction: Compare TPUSA's post-assassination fundraising totals w
 
 Claim Timestamp: 00:16:46
 
-Claim: The host says that the man audible in the background of the call, Teo Farnsworth, is the guy who took down the cameras.
+Claim: The host says that the man in the background of the call, Teo Farnsworth, is the guy who took down the cameras.
 
 Transcript Snippet: that is Teo Farnsworth, the guy who took down the cameras.
 
@@ -1779,7 +1779,7 @@ Investigative Direction: Verify wording against the unedited recording and ident
 
 Claim Timestamp: 00:21:47
 
-Claim: On the call, Erika Kirk closes her main address saying she feels so blessed and honored.
+Claim: On the call, Erika Kirk says she feels so blessed and honored.
 
 Transcript Snippet: I feel so blessed. And honored.
 
@@ -2121,7 +2121,7 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-11116
 Supports: C-6923
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Compare with Boreing's own stated reasons for the firing in earlier interviews.
 
 ---
@@ -2268,7 +2268,7 @@ Transcript Snippet: When she came to me 8 and 1/2 months pregnant, hands open, a
 Anchored Artifacts: 
 Mentions: N-3, N-368
 Related Nodes: N-11116
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Seek contemporaneous messages or accounts of the post-October 7 conversations with Boreing.
 
 ---
@@ -2284,7 +2284,7 @@ Transcript Snippet: Ben jumped up on a table and accused her of being a faux sop
 Anchored Artifacts: 
 Mentions: N-97, N-3
 Related Nodes: N-11116
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Seek eyewitness accounts or recordings of the meeting.
 
 ---
@@ -2300,7 +2300,7 @@ Transcript Snippet: they suspected that I might have been secretly working with 
 Anchored Artifacts: 
 Mentions: N-368, N-203, N-22, N-3
 Related Nodes: N-11116
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Seek the host's contemporaneous messages or witnesses to the suspicion.
 
 ---
@@ -2316,7 +2316,7 @@ Transcript Snippet: My next big plan is to do what we did to Breitbart. We'll cr
 Anchored Artifacts: 
 Mentions: N-368, N-3
 Related Nodes: N-11116
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Seek Daily Wire internal communications from the weeks before the firing.
 
 ---
@@ -2333,7 +2333,7 @@ Anchored Artifacts:
 Mentions: N-3, N-368
 Related Nodes: N-11116, N-10900
 Supports: C-9987
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Compare Daily Wire subscription data around March 2024.
 
 ---
@@ -2349,7 +2349,7 @@ Transcript Snippet: Jeremy actually personally reviewed Andrew Klavan's episode 
 Anchored Artifacts: 
 Mentions: N-368, N-233, N-3
 Related Nodes: N-10900
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the Klavan episode and seek editorial approval records.
 
 ---
@@ -2382,7 +2382,7 @@ Anchored Artifacts:
 Mentions: N-368, N-3
 Related Nodes: N-10416, N-10238, N-10000
 Supports: C-5351
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the Daily Wire email and the intern's account and any recording from the event.
 
 ---
@@ -2399,7 +2399,7 @@ Anchored Artifacts:
 Mentions: N-368, N-3
 Related Nodes: N-10416, N-10238
 Supports: C-9991
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the email from former Daily Wire staff.
 
 ---
@@ -2416,7 +2416,7 @@ Anchored Artifacts:
 Mentions: N-368, N-3
 Related Nodes: N-10416, N-10238
 Supports: C-9992
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the email and verify the quoted wording.
 
 ---
@@ -2432,7 +2432,7 @@ Transcript Snippet: sitting her down and telling her that she should she shouldn
 Anchored Artifacts: 
 Mentions: N-368, N-223, N-3
 Related Nodes: N-11244, N-10900
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Seek Brett Cooper's own account of the conversation.
 
 ---
@@ -2448,7 +2448,7 @@ Transcript Snippet: offering an obscene amount of money to her maid of honor at 
 Anchored Artifacts: 
 Mentions: N-368, N-223, N-3
 Related Nodes: N-11244, N-10900
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Seek the maid of honor's account and any contract or offer documents.
 
 ---
@@ -2464,7 +2464,7 @@ Transcript Snippet: to try to smear her, the friendly pop culture young girl, as
 Anchored Artifacts: 
 Mentions: N-368, N-223, N-3
 Related Nodes: N-11244, N-10900
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Locate the articles or posts that attacked Cooper over the like and trace their sources.
 
 ---
@@ -2480,7 +2480,7 @@ Transcript Snippet: And when you sued me for that, for standing up for Brett Coo
 Anchored Artifacts: 
 Mentions: N-368, N-223, N-3
 Related Nodes: N-11244, N-10900
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Search court dockets for the Daily Wire suit against the host.
 
 ---
@@ -2589,7 +2589,7 @@ Investigative Direction: Identify the other sources and compare their accounts w
 
 Claim Timestamp: 01:01:07
 
-Claim: The host says that in response to her questions she was told she has no right to ask about Charlie Kirk's murder because the contract she signed covers everybody.
+Claim: The host characterizes the response to her questions as being that she has no right to ask about Charlie Kirk's murder because the contract she signed covers everybody.
 
 Transcript Snippet: You don't have a a right to ask questions about his murder because our contract covers everybody and their mamas.
 
@@ -2628,7 +2628,7 @@ Transcript Snippet: If you tell anybody what we're doing to you, we'll bankrupt 
 Anchored Artifacts: 
 Mentions: N-3, N-368
 Related Nodes: N-10900
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Seek contemporaneous messages or witnesses to the threats.
 
 ---
@@ -2642,7 +2642,7 @@ Claim: The host says that Charlie's mic was kept in a cage and his dinner place 
 Transcript Snippet: even keeping the mic and putting it in a cage and setting up his dinner at a fundraiser
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-2
+Mentions: N-3, N-1
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Find footage or photos of the caged mic and the fundraiser dinner with the place setting.
@@ -2676,7 +2676,7 @@ Transcript Snippet: The Daily Wire denied my request while I was there to have h
 Anchored Artifacts: 
 Mentions: N-3, N-499
 Related Nodes: N-10900
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Seek confirmation from Daily Wire staff or messages regarding the request.
 
 ---
@@ -2692,7 +2692,7 @@ Transcript Snippet: Bassem Youssef is going to be joining me live
 Anchored Artifacts: 
 Mentions: N-3, N-499
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the following episode's guest.
 
 ---

@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 66587d7a4421da88738bff5bc6b5a63723d99c10368f6539b5cddd00de9e63f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-770, N-771, N-773, N-11123, N-11124, N-11125, N-11127
+  - Tip-minted Nodes (supplement_2026-10b): N-769, N-770, N-772, N-11123, N-11124, N-11125, N-11127
   - Hole-minted Nodes (reintro-ep063): N-10492
   - Tip-minted Nodes (reintro-ep063): N-10905
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6983–C-7052
   - New Nodes Introduced: N-497, N-10443, N-10444, N-10445
-  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-188, N-192, N-219, N-272, N-472, N-10000, N-10001, N-10002, N-10197, N-10209, N-10211, N-10323, N-10340, N-10413, N-10419, N-10422, N-10428, N-10439, N-10899, N-11033, N-772, N-10968, N-11126, N-11122
+  - Reused Nodes Appearing: N-2, N-14, N-15, N-22, N-27, N-188, N-192, N-219, N-272, N-472, N-10000, N-10001, N-10002, N-10197, N-10209, N-10211, N-10323, N-10340, N-10413, N-10419, N-10422, N-10428, N-10439, N-10899, N-11033, N-771, N-10968, N-11126, N-11122
   - (see registers)
 
 # Episode 63 – Analysis Record
@@ -49,7 +49,7 @@ Episode 63 Ledger Summary:
 
 Episode 63 centers on the leak and on-air presentation of audio excerpts from a corporate-wide Turning Point USA Zoom call held on September 22, 2025, approximately twelve days after the public assassination of Charlie Kirk. The call is led by Erika Kirk in her new role. Three audio segments are played: an opening praising the memorial metrics, a discussion of grief resources and paid time off, and a forward-looking statement referencing a "Vision 2030" project and Erika's claimed possession of Charlie's journals.
 
-The episode also presents four other artifact families: a 2018 text message from Charlie Kirk to Candace Owens expressing his premonition of death; an Atlantic article excerpt describing Bill Montgomery's 2012 meeting with Charlie at Benedictine University and their co-founding of TPUSA; the New York Times profile of Erika Kirk containing the quoted phrase "least traumatizing thing"; and audio of Lorie Cardardoza Moore ranting about the TPUSA Tampa event, which is matched to a previously circulated Christian Zionist threat message and to a 1-900 romance hotline recording.
+The episode also presents four other artifact families: a 2018 text message from Charlie Kirk to Candace Owens expressing his premonition of death; an Atlantic article excerpt describing Bill Montgomery's 2012 meeting with Charlie at Benedictine University and their co-founding of TPUSA; the New York Times profile of Erika Kirk containing the quoted phrase "least traumatizing thing"; and audio of Laurie Cardoza-Moore ranting about the TPUSA Tampa event, which is matched to a previously circulated Christian Zionist threat message and to a 1-900 romance hotline recording.
 
 The host articulates strong skepticism about the tonal and temporal appropriateness of Erika Kirk's conduct in the call. Several host-research claims about Creative Children's Academy, Helen Barts, the Shaklee Corporation, and Operation Paperclip are narrated but lack displayed artifacts in this episode and are not inscribed as evidence-backed claims. Comments from the live chat are read on air and inscribed as a single artifact bundle.
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:07:45
 
 **A-1680** Threat Message Bundle
 
-**A-1680.1** Phone threat message targeting TPUSA, previously displayed in an earlier episode; now identified by host and attributed via audio match to Lorie Cardardoza Moore.
+**A-1680.1** Phone threat message targeting TPUSA, previously displayed in an earlier episode; now identified by host and attributed via audio match to Laurie Cardoza-Moore.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -140,9 +140,9 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 ---
 
-**A-1681** Lorie Cardardoza Moore Audio Rant Bundle
+**A-1681** Laurie Cardoza-Moore Audio Rant Bundle
 
-**A-1681.1** Audio recording of Lorie Cardardoza Moore ranting in her car about Tucker Carlson's speech at a TPUSA Tampa conference, Michelle Bachmann's five-minute pro-Israel segment, audience booing and 10% walkout, and Charlie Kirk's failure to defend Israel or condemn Tucker.
+**A-1681.1** Audio recording of Laurie Cardoza-Moore ranting in her car about Tucker Carlson's speech at a TPUSA Tampa conference, Michele Bachmann's five-minute pro-Israel segment, audience booing and 10% walkout, and Charlie Kirk's failure to defend Israel or condemn Tucker.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -155,7 +155,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 
 **A-1682** Romance Hotline Audio Bundle
 
-**A-1682.1** Vintage 1-900 romance hotline advertisement audio ("Are you over 30 and single? … Romance Hotline 1-900-980-…") played on air for voice matching to Lorie Cardardoza Moore.
+**A-1682.1** Vintage 1-900 romance hotline advertisement audio ("Are you over 30 and single? … Romance Hotline 1-900-980-…") played on air for voice matching to Laurie Cardoza-Moore.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -303,7 +303,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7020, C-7021, C-7022, C-7023, N-3, N-770, N-771, N-458, N-472*
+*Related: C-7020, C-7021, C-7022, C-7023, N-3, N-769, N-770, N-458, N-472*
 
 ---
 
@@ -318,13 +318,13 @@ Video Timestamp: 00:33:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7028, N-3, N-771*
+*Related: C-7028, N-3, N-770*
 
 ---
 
 **A-2849** Brave Report Identification Posts Bundle
 
-**A-2849.1** Host verbal reference to posts by the Brave Report account identifying the author of the threat message as Lorie Cardardoza Moore (posts not shown)
+**A-2849.1** Host verbal reference to posts by the Brave Report account identifying the author of the threat message as Laurie Cardoza-Moore (posts not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:36:41
@@ -344,7 +344,7 @@ Video Timestamp: 00:41:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-7035, C-7036, N-3, N-497, N-773*
+*Related: C-7035, C-7036, N-3, N-497, N-772*
 
 ---
 
@@ -359,7 +359,7 @@ Video Timestamp: 00:43:01
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-7037, N-3, N-773*
+*Related: C-7037, N-3, N-772*
 
 ---
 
@@ -384,7 +384,7 @@ Episode Count: 1
 Investigative Pressure: Low
 *Related: A-1678.1, C-2202*
 
-**N-497** Lorie Cardardoza Moore
+**N-497** Laurie Cardoza-Moore
 
 Identified via audio match as the author of the Christian Zionist threat message (A-1680.1, A-1681.1) and as having a prior acting/romance hotline background (A-1682.1); described by host as evangelical Zionist who learned later that she is Jewish.
 
@@ -416,7 +416,7 @@ Investigative Pressure: Medium
 
 **N-10445** Christian Zionist Threat Message Authorship Verification
 
-Persistent investigative target: confirmation that the previously circulated Christian Zionist threat message is authored by Lorie Cardardoza Moore via audio voice match.
+Persistent investigative target: confirmation that the previously circulated Christian Zionist threat message is authored by Laurie Cardoza-Moore via audio voice match.
 
 Evidence Count: 2
 Claim Count: 1
@@ -459,7 +459,7 @@ TPUSA COO; named by Erika Kirk on the call as the person Charlie worked with on 
 
 **N-22** Tucker Carlson
 
-Subject of Lorie Cardardoza Moore's rant about his speech at the Tampa TPUSA conference.
+Subject of Laurie Cardoza-Moore's rant about his speech at the Tampa TPUSA conference.
 
 *Related: C-7033, C-7034*
 
@@ -513,7 +513,7 @@ Named by a tipster as having worked with the Montgomerys at Shaklee; the host pl
 
 ---
 
-**N-770** Helen Barts
+**N-769** Helen Barts
 
 First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helen Arts.
 
@@ -521,7 +521,7 @@ First named by the host at 00:29:53 in episode 063. Founder of Creative Children
 
 ---
 
-**N-771** Edith Walker Montgomery
+**N-770** Edith Walker Montgomery
 
 First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goes by Edith Walker; alleged immigrant from Germany and psychiatric nurse. Alias: Edith Marie Walker, Edith Walker.
 
@@ -529,17 +529,17 @@ First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goe
 
 ---
 
-**N-772** Michelle Bachmann
+**N-771** Michele Bachmann
 
-First named by Lorie Cardardoza Moore in the audio at 00:39:08 in episode 063. Spoke for five minutes at the TPUSA Tampa conference per Moore.
+First named by Laurie Cardoza-Moore in the audio at 00:39:08 in episode 063. Spoke for five minutes at the TPUSA Tampa conference per Moore.
 
 *Related: C-7033, C-7034*
 
 ---
 
-**N-773** Stanley Clark Moore
+**N-772** Stanley Clark Moore
 
-First named by the host at 00:41:47 in episode 063. Husband of Lorie Cardardoza Moore with an Air Force background per the host.
+First named by the host at 00:41:47 in episode 063. Husband of Laurie Cardoza-Moore with an Air Force background per the host.
 
 *Related: C-7035, C-7036, C-7037*
 
@@ -774,16 +774,16 @@ Investigative Direction: Obtain full 15-minute Zoom call audio for content and t
 
 **C-2195** Erika Kirk stated staff worked 20-hour days during the week of the memorial
 
-Claim Timestamp: 00:11:24
-Claim: In a clip the host plays, Erika Kirk tells the call that "a lot of the staff that worked on the memorial … had 20[-hour]-our days for a week."
+Claim Timestamp: 00:12:40
+Claim: In a clip the host plays, Erika Kirk tells the call that "a lot of this the staff that worked on the memorial, they had 20[-hour] days for a week during the time of us grieving the loss of my husband."
 Anchored Artifacts: A-1676.1
-Mentions: N-2
+Mentions: N-2, N-1
 Investigative Direction: Cross-reference staff schedules, payroll records, and contemporaneous internal communications to verify the 20-hour-day claim.
 
 **C-2196** Erika Kirk advised employees that paid time off is available if they need more time to grieve
 
-Claim Timestamp: 00:15:47
-Claim: In a clip the host plays, Erika Kirk tells employees: "if you do need additional time off, please talk to your director about using paid time off for that," while also stating staff had access to counselors, pastors, and therapy dogs during the memorial period.
+Claim Timestamp: 00:17:30
+Claim: In a clip the host plays, Erika Kirk tells employees: "if you do need additional time off, please talk to your director about using paid time off for that," while also saying that leadership provided counselors, pastors and, she heard, therapy dogs during the memorial period.
 Anchored Artifacts: A-1676.2
 Mentions: N-2
 Related Nodes: N-10443
@@ -839,22 +839,22 @@ Anchored Artifacts: A-1678.1
 Mentions: N-1, N-458
 Investigative Direction: Locate the full Atlantic article; cross-check Bill Montgomery's Air Force service record and his post-2012 role; investigate any alternative TPUSA origin narratives.
 
-**C-2203** Christian Zionist threat message identified as authored by Lorie Cardardoza Moore via audio matching
+**C-2203** Christian Zionist threat message identified as authored by Laurie Cardoza-Moore via audio matching
 
-Claim Timestamp: 00:39:08
-Claim: The episode presents that audio of Lorie Cardardoza Moore ranting in her car matches the content of the previously circulated Christian Zionist threat message, identifying her as its author.
+Claim Timestamp: 00:38:50
+Claim: The host says that virtually everything said in the previously circulated Christian Zionist threat message was also in a rant Laurie Cardoza-Moore did live on the internet about Tucker Carlson's speech, and plays audio of her ranting in her car.
 Anchored Artifacts: A-1680.1, A-1681.1
-Mentions: N-497
+Mentions: N-497, N-22
 Related Nodes: N-10445
-Investigative Direction: Obtain independent forensic voice comparison; verify Lorie Cardardoza Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.
+Investigative Direction: Obtain independent forensic voice comparison; verify Laurie Cardoza-Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.
 
-**C-2204** Host Says Voice Matching Identifies Lorie Cardardoza Moore on a 1-900 Romance Hotline Recording
+**C-2204** Host Says Voice Matching Identifies Laurie Cardoza-Moore on a 1-900 Romance Hotline Recording
 
-Claim Timestamp: 00:41:47
-Claim: The host says, citing findings by internet sleuths of the "decentralized intelligence agency," that Lorie Cardardoza Moore's voice matches a 1-900 romance hotline advertisement the host plays, indicating prior acting/performer work.
+Claim Timestamp: 00:41:17
+Claim: The host says, citing findings by internet sleuths of the "decentralized intelligence agency," that Laurie Cardoza-Moore's background is in acting and romance hotlines, and plays a 1-900 romance hotline advertisement.
 Anchored Artifacts: A-1682.1
 Mentions: N-497
-Investigative Direction: Establish provenance and dating of the romance hotline recording; obtain Lorie Cardardoza Moore's professional résumé or acting credits for corroboration.
+Investigative Direction: Establish provenance and dating of the romance hotline recording; obtain Laurie Cardoza-Moore's professional résumé or acting credits for corroboration.
 
 **C-2205** Erika Kirk gave an in-person NYT interview on September 18, 2025
 
@@ -868,8 +868,8 @@ Investigative Direction: Verify NYT byline, interview location, and publication 
 
 **C-3660** Host identifies show community as Decentralized Intelligence Agency
 
-Claim Timestamp: 00:40:07
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim Timestamp: 00:41:17
+Claim: The host refers to internet sleuths as the DCIA, the decentralized intelligence agency, which she says is moving quicker.
 Transcript Snippet: ...ernet sloohs aren't playing around. the DCIA, the decentralized intelligence agency, is moving quicker. And they found that, yeah, that's what Lor's background is in acting and for ro...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1462,9 +1462,9 @@ Claim: The host says Creative Children's Academy was founded by a woman named He
 Transcript Snippet: was founded by a woman named Helen Barts. Okay. Her husband is a Reverend Robert Barts of Arlington Heights.
 
 Anchored Artifacts: 
-Mentions: N-3, N-770
+Mentions: N-3, N-769
 Related Nodes: N-11122
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Verify the founders through Illinois corporation filings and school history sources.
 
 ---
@@ -1478,9 +1478,9 @@ Claim: The host says a tip she received, which she says she was able to confirm,
 Transcript Snippet: Helen Barts was actually good friends with Bill Montgomery and his wife Edith Montgomery.
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-770, N-458, N-771
+Mentions: N-3, N-769, N-458, N-770
 Related Nodes: N-11122
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain independent corroboration, such as church, business or social records, linking Barts and the Montgomerys.
 
 ---
@@ -1494,7 +1494,7 @@ Claim: The host says Edith Walker, who she has since learned immigrated from Ger
 Transcript Snippet: Edith Walker, who I've since learned immigrated from Germany after World War II, and I can't really find much else about her
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-771
+Mentions: N-3, N-770
 Tags: relevance:context
 Investigative Direction: Search immigration, nursing licensure and employment records for Edith Marie Walker; the host asks viewers for help.
 
@@ -1509,7 +1509,7 @@ Claim: The host relays that the tipster claims Edith Walker started the school w
 Transcript Snippet: she was actually the person that started the school with Helen Arts and that's has since virtually been wiped from public record.
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-771, N-770
+Mentions: N-3, N-770, N-769
 Related Nodes: N-11122
 Tags: relevance:context
 Investigative Direction: Compare school founding documents and archived web pages for any mention of Edith Walker.
@@ -1525,9 +1525,9 @@ Claim: The host relays that the tipster says Bill Montgomery, his wife and a cer
 Transcript Snippet: The person claims that Bill and his wife and a certain Robert Flood who is in Dan Flood's family, this is what they claim
 
 Anchored Artifacts: A-2847.1
-Mentions: N-3, N-458, N-771, N-472, N-272
+Mentions: N-3, N-458, N-770, N-472, N-272
 Related Nodes: N-11124
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Seek Shaklee employment records or distributor histories for Montgomery, his wife and Robert Flood, and confirm any family link to Dan Flood.
 
 ---
@@ -1573,9 +1573,9 @@ Claim: The host says she was able to confirm that Helen Barts, before starting t
 Transcript Snippet: I confirmed that she did indeed prior to worked at Shackley. She actually ran the Shackley Center in Arlington Heights.
 
 Anchored Artifacts: 
-Mentions: N-3, N-770
+Mentions: N-3, N-769
 Related Nodes: N-11124, N-11122
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Request the host's confirming source and look for Shaklee distributor or center records in Arlington Heights.
 
 ---
@@ -1584,7 +1584,7 @@ Investigative Direction: Request the host's confirming source and look for Shakl
 
 Claim Timestamp: 00:33:13
 
-Claim: The host says Charlie told her the story that they wanted to drug him when he was a kid, but his mother said no, and that instead his mother put him into the special school.
+Claim: The host says Charlie told her the story that they wanted to drug him when he was a kid, but his mother said no, and that, because his mother refused, they instead put him into the special school.
 
 Transcript Snippet: Charlie told me the story that they wanted to drug him when he was a kid, but his mom said no.
 
@@ -1606,7 +1606,7 @@ Claim: The host asks viewers with more information to email moretips@candaceowen
 Transcript Snippet: email, send us an email at more tips@canacewowens. com.
 
 Anchored Artifacts: A-2848.1
-Mentions: N-3, N-771
+Mentions: N-3, N-770
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Review incoming tip responses to the request; this is a call for crowd research.
@@ -1661,13 +1661,13 @@ Investigative Direction: Project Monarch is contested in the historical record; 
 
 ---
 
-**C-7032** Host Credits the Brave Report With Identifying Lorie Cardardoza Moore as an Evangelical Zionist Who Learned She Is Jewish
+**C-7032** Host Credits the Brave Report With Identifying Laurie Cardoza-Moore as an Evangelical Zionist Who Learned She Is Jewish
 
 Claim Timestamp: 00:38:36
 
-Claim: The host says a small account, the Brave Report, pulled up Lorie Cardardoza Moore as an evangelical Zionist who said she learned later in life that she is Jewish but remains an evangelical, which the host sets against the threat message she displayed earlier.
+Claim: The host says a small account, the Brave Report, pulled up Laurie Cardoza-Moore as an evangelical Zionist who said she learned later in life that she is Jewish but remains an evangelical, which the host sets against the threat message she displayed earlier.
 
-Transcript Snippet: Lorie Cardardoza Moore The Brave Report pulled up as an evangelical Zionist who said that she then learned later on that she's Jewish but she is still an evangelical.
+Transcript Snippet: Laurie Cardoza-Moore The Brave Report pulled up as an evangelical Zionist who said that she then learned later on that she's Jewish but she is still an evangelical.
 
 Anchored Artifacts: A-2849.1
 Mentions: N-3, N-497
@@ -1681,12 +1681,12 @@ Investigative Direction: Locate the Brave Report posts and Moore's own statement
 
 Claim Timestamp: 00:39:08
 
-Claim: In the audio, Lorie Cardardoza Moore says three couples who attended the Turning Point USA conference in Tampa told her they were horrified by Tucker Carlson's speech, which she describes as condemning Israel and praising Qatar, and that Michelle Bachmann followed with five minutes to argue for standing with Israel and was booed.
+Claim: In the audio, Laurie Cardoza-Moore says three couples who attended the Turning Point USA conference in Tampa told her they were horrified by Tucker Carlson's speech, which she describes as condemning Israel and praising Qatar, and that Michele Bachmann followed with five minutes to argue for standing with Israel and was booed.
 
 Transcript Snippet: I had three couples reach out to me who had been to the Turning Point USA conference and this was in Tampa a couple weeks ago.
 
 Anchored Artifacts: A-1681.1
-Mentions: N-497, N-22, N-772
+Mentions: N-497, N-22, N-771
 Related Nodes: N-10445, N-10209
 Tags: relevance:core
 Investigative Direction: Identify the date of the Tampa conference and compare the account with video of Carlson's and Bachmann's sessions.
@@ -1697,12 +1697,12 @@ Investigative Direction: Identify the date of the Tampa conference and compare t
 
 Claim Timestamp: 00:40:07
 
-Claim: In the audio, Lorie Cardardoza Moore says Michelle Bachmann told her personally that 10% of the room got up and walked out, and that Charlie Kirk, who was responsible for the event, did not condemn Tucker, defend Bachmann or explain why they stand with Israel.
+Claim: In the audio, Laurie Cardoza-Moore says Michele Bachmann told her personally that 10% of the room got up and walked out, and that Charlie Kirk, who was responsible for the event, did not condemn Tucker, defend Bachmann or explain why they stand with Israel.
 
 Transcript Snippet: She said 10% in the room got up and walked out on her.
 
 Anchored Artifacts: A-1681.1
-Mentions: N-497, N-772, N-1, N-22
+Mentions: N-497, N-771, N-1, N-22
 Related Nodes: N-10445, N-10209
 Tags: relevance:core
 Investigative Direction: Review the Tampa conference footage for the booing, walkouts and any remarks by Charlie Kirk afterward.
@@ -1711,14 +1711,14 @@ Investigative Direction: Review the Tampa conference footage for the booing, wal
 
 **C-7035** Host Says Lorie Moore Is Married to Stanley Clark Moore, With an Air Force Background
 
-Claim Timestamp: 00:41:47
+Claim Timestamp: 00:42:05
 
-Claim: The host says Lorie Cardardoza Moore is married to a man named Stanley Clark Moore, who has an Air Force background, grew up on Air Force bases and graduated from high school in Humble, Texas, and she says she wants to know about his father.
+Claim: The host says Laurie Cardoza-Moore is married to a man named Stanley Clark Moore, who has an Air Force background, grew up on Air Force bases and graduated from high school in Humble, Texas, and she says she wants to know about his father.
 
 Transcript Snippet: married to a man named Stanley Clark Moore. He has an Air Force background.
 
 Anchored Artifacts: A-2850.1
-Mentions: N-3, N-497, N-773
+Mentions: N-3, N-497, N-772
 Tags: relevance:core
 Investigative Direction: Search public records and the Wikipedia article for Stanley Clark Moore's biography and family.
 
@@ -1733,7 +1733,7 @@ Claim: The host says that, if his Wikipedia page is to be believed, Stanley Clar
 Transcript Snippet: Uh, also went to go work for NASA if if his Wikipedia is to be believed for a little bit.
 
 Anchored Artifacts: A-2850.1
-Mentions: N-3, N-773
+Mentions: N-3, N-772
 Related Nodes: N-11125
 Tags: relevance:context
 Investigative Direction: Read the Wikipedia article and its sources for the NASA employment claim.
@@ -1749,7 +1749,7 @@ Claim: The host asks viewers to message more tips at candaceowens.com about whic
 Transcript Snippet: Message us more tips at candacewowens. com.
 
 Anchored Artifacts: A-2851.1
-Mentions: N-3, N-773
+Mentions: N-3, N-772
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Review incoming tip responses; this is a call for crowd research.
@@ -1767,7 +1767,7 @@ Transcript Snippet: Turning Point is, you know, shooting their Super Bowl commer
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000, N-10197
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the production company and its CEO's biography; confirm TPUSA's Super Bowl advertising plans.
 
 ---
@@ -1798,7 +1798,7 @@ Transcript Snippet: about Kanye taking out a full page in the Wall Street Journa
 Anchored Artifacts: A-1683.1
 Mentions: N-3, N-27
 Related Nodes: N-11127
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the Wall Street Journal ad and confirm its date and text.
 
 ---
@@ -1814,7 +1814,7 @@ Transcript Snippet: He speaks about his bipolar episode. Said that he is on new 
 Anchored Artifacts: A-1684.1
 Mentions: N-3, N-27
 Related Nodes: N-11127
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the Vanity Fair piece and check the quoted statements.
 
 ---
@@ -1830,7 +1830,7 @@ Transcript Snippet: this has nothing to do with my viewpoints whatsoever on Isra
 Anchored Artifacts: 
 Mentions: N-3, N-27
 Related Nodes: N-11127
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Host's stated position; compare against her prior statements about Ye.
 
 ---

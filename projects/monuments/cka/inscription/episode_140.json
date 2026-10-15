@@ -1454,8 +1454,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-866",
-      "ref": "N-866",
+      "@id": "N-865",
+      "ref": "N-865",
       "name": "Agent Hoole",
       "type": "person",
       "description": "First named by the host at 00:17:43 in episode 140. Investigator whose court testimony about a vehicle is played and analysed.",
@@ -1472,8 +1472,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-867",
-      "ref": "N-867",
+      "@id": "N-866",
+      "ref": "N-866",
       "name": "Officer Goforth",
       "type": "person",
       "description": "First named by the host at 00:18:42 in episode 140. Security-detail officer identified in Agent Hoole's testimony as the officer a vehicle made contact with.",
@@ -1490,8 +1490,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-868",
-      "ref": "N-868",
+      "@id": "N-867",
+      "ref": "N-867",
       "name": "Haim Braverman",
       "type": "person",
       "description": "First named by the host at 00:29:36 in episode 140. Man the host says was arrested and pled guilty after plotting against her from a group chat.",
@@ -1507,8 +1507,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-869",
-      "ref": "N-869",
+      "@id": "N-868",
+      "ref": "N-868",
       "name": "Britta Weidner",
       "type": "person",
       "description": "First named by the host at 00:31:45 in episode 140 (spelled Britta Whitener and Brita in the transcript). Owner of the No Soup For You / No Soup for Noels X account.",
@@ -2351,7 +2351,7 @@
       ],
       "mentions_person_refs": [
         "N-40",
-        "N-866"
+        "N-865"
       ]
     },
     {
@@ -2373,8 +2373,8 @@
       "investigative_direction": "Obtain the exhibit map and video Hoole was describing and the full transcript of this testimony.",
       "transcript_snippet": "that vehicle is now pulling away and heading east on 800 South.",
       "mentions_person_refs": [
-        "N-866",
-        "N-867"
+        "N-865",
+        "N-866"
       ]
     },
     {
@@ -2396,7 +2396,7 @@
       "investigative_direction": "Request the security officer's body-camera footage and report for the contact.",
       "transcript_snippet": "We've not seen any footage from that.",
       "mentions_person_refs": [
-        "N-867"
+        "N-866"
       ]
     },
     {
@@ -2673,7 +2673,7 @@
       "investigative_direction": "Search federal court dockets and DOJ press releases for a plea by Haim Braverman and the sentence.",
       "transcript_snippet": "he got arrested, he pled guilty, his name is Haim Braverman, and he is in prison, you can look that up.",
       "mentions_person_refs": [
-        "N-868",
+        "N-867",
         "N-3"
       ]
     },
@@ -2755,7 +2755,7 @@
       "investigative_direction": "Look for coordination evidence between the account and Daily Wire staff or PR, such as shared posts, direct messages or timings.",
       "transcript_snippet": "obviously I knew that their PR agent and Jeremy Boreing were working through her",
       "mentions_person_refs": [
-        "N-869",
+        "N-868",
         "N-368",
         "N-3"
       ]
@@ -2778,7 +2778,7 @@
       "investigative_direction": "Compile the April posts about the host's husband and identify which accounts amplified them.",
       "transcript_snippet": "she's been going after my family, my husband. She was part of people perpetuating the lies about my husband",
       "mentions_person_refs": [
-        "N-869",
+        "N-868",
         "N-3"
       ]
     },
@@ -2798,7 +2798,7 @@
       "transcript_snippet": "I think I showed you a couple of weeks ago that like Laura Loomer sent like 1,800 tweets about me",
       "mentions_person_refs": [
         "N-60",
-        "N-869",
+        "N-868",
         "N-3"
       ]
     },

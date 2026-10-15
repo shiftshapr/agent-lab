@@ -1028,8 +1028,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-840",
-      "ref": "N-840",
+      "@id": "N-839",
+      "ref": "N-839",
       "name": "Casey Baugh",
       "type": "person",
       "description": "Alleged UVU donor and partial owner of the N88 plane.",
@@ -1046,8 +1046,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-867",
-      "ref": "N-867",
+      "@id": "N-866",
+      "ref": "N-866",
       "name": "Officer Goforth",
       "type": "person",
       "description": "Officer the host says was approached by the Dodge Challenger after midnight.",
@@ -1322,8 +1322,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-904",
-      "ref": "N-904",
+      "@id": "N-903",
+      "ref": "N-903",
       "name": "Agent Mortensson",
       "type": "person",
       "description": "First named by the host at 00:18:34 in episode 155. Investigator whose review of UVU security video the September 15 warrant describes.",
@@ -1339,8 +1339,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-905",
-      "ref": "N-905",
+      "@id": "N-904",
+      "ref": "N-904",
       "name": "Miss Noble",
       "type": "person",
       "description": "First named by the host at 00:07:25 in episode 155. Neighbor who with her husband reported a Dodge Challenger driven by a bald person with two others in the back seat.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-903",
-      "ref": "N-903",
+      "@id": "N-902",
+      "ref": "N-902",
       "name": "Bobby Sausalito",
       "type": "person",
       "description": "First named by the host at 00:00:46 in episode 155. Comedian and political commentator whose pre-release predictions about the Neff and Boreing podcast the host plays.",
@@ -1376,8 +1376,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-906",
-      "ref": "N-906",
+      "@id": "N-905",
+      "ref": "N-905",
       "name": "Chelsea Baugh",
       "type": "person",
       "description": "First named by the host at 00:25:06 in episode 155. Named with Casey Baugh as a UVU donor and partial owner of the N88 plane.",
@@ -2022,7 +2022,7 @@
       "investigative_direction": "Request Goforth's bodycam and dispatch records for the after-midnight contact and confirm whether any recording exists.",
       "transcript_snippet": "They've never indicated that he had on body cam footage.",
       "mentions_person_refs": [
-        "N-867",
+        "N-866",
         "N-3"
       ]
     },
@@ -2319,7 +2319,7 @@
         "C-3530"
       ],
       "mentions_person_refs": [
-        "N-905",
+        "N-904",
         "N-3"
       ]
     },
@@ -2386,7 +2386,7 @@
       "transcript_snippet": "In the video, Robinson is seen wearing a ball cap, a red t-shirt, light colored shorts, and Converse style tennis shoes.",
       "mentions_person_refs": [
         "N-40",
-        "N-904",
+        "N-903",
         "N-3"
       ]
     },
@@ -2486,7 +2486,7 @@
       "investigative_direction": "Compare the Challenger-at-Noble-house time in each of the three warrants and the surveillance footage timestamp.",
       "transcript_snippet": "That time gets adjusted three times across three different warrants.",
       "mentions_person_refs": [
-        "N-905",
+        "N-904",
         "N-3"
       ]
     },
@@ -2633,8 +2633,8 @@
       "investigative_direction": "Verify the donation amount, date and recipient through UVU foundation announcements and gift agreements.",
       "transcript_snippet": "Chelsea and Casey Ba B A U G H donated $5 million to UVU.",
       "mentions_person_refs": [
-        "N-840",
-        "N-906",
+        "N-839",
+        "N-905",
         "N-3"
       ]
     },
@@ -2661,8 +2661,8 @@
         "C-9402"
       ],
       "mentions_person_refs": [
-        "N-840",
-        "N-906",
+        "N-839",
+        "N-905",
         "N-3"
       ]
     },
@@ -2755,7 +2755,7 @@
       "investigative_direction": "Find any Kirk statement in which he called Neff a secret weapon, with date and context.",
       "transcript_snippet": "So, there's a reason Charlie called him his secret weapon.",
       "mentions_person_refs": [
-        "N-903",
+        "N-902",
         "N-1",
         "N-161"
       ]
@@ -2779,7 +2779,7 @@
       "investigative_direction": "Seek any contract, sponsorship or payment record between Boreing's company and Turning Point USA.",
       "transcript_snippet": "Germs wants to get paid by Turning Point.",
       "mentions_person_refs": [
-        "N-903",
+        "N-902",
         "N-368"
       ]
     },
@@ -2805,7 +2805,7 @@
         "C-11901"
       ],
       "mentions_person_refs": [
-        "N-903",
+        "N-902",
         "N-368",
         "N-3"
       ]

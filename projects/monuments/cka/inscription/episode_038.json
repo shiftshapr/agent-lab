@@ -1524,8 +1524,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-881",
-      "ref": "N-881",
+      "@id": "N-880",
+      "ref": "N-880",
       "name": "Jean-Michel Trogneux",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 38. The name the host uses for Brigitte Macron's alleged earlier male identity; the host asserts, without a document shown, that this person was born male. All claims here are the host's allegations.",
@@ -2574,7 +2574,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-881"
+        "N-880"
       ]
     },
     {
@@ -2963,7 +2963,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-881"
+        "N-880"
       ]
     },
     {
@@ -3453,7 +3453,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-881"
+        "N-880"
       ]
     },
     {
@@ -3473,7 +3473,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-881"
+        "N-880"
       ]
     },
     {
@@ -3858,7 +3858,7 @@
       "transcript_snippet": "They just ran this this chocolatier factory from like the 1880s all the way through to now. Not possible. Nazis uh did an aerial bombardment. They occupied the city of Amiens.",
       "mentions_person_refs": [
         "N-3",
-        "N-881"
+        "N-880"
       ]
     },
     {
@@ -3877,7 +3877,7 @@
       "transcript_snippet": "This seems to me to be an identity that was just created and materialized for this family, and that the true family is a very powerful family",
       "mentions_person_refs": [
         "N-3",
-        "N-881",
+        "N-880",
         "N-82"
       ]
     }

@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 21794f482ad4d6a70ad0484cc9044ad04925a9d1fd1605568d190338e4b42df7
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-793, N-11148, N-11150
+  - Tip-minted Nodes (supplement_2026-10b): N-792, N-11148, N-11150
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7599–C-7692
   - New Nodes Introduced: N-10819
@@ -762,7 +762,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-793** Todd Starns
+**N-792** Todd Starns
 
 First named by the host at 00:13:30 in episode 146 (spelled Starns; possibly Starnes). Fox News figure who interviewed Jack Hibbs on audio.
 
@@ -1494,7 +1494,7 @@ Claim: In an audio-only Fox News interview with Todd Starns, Jack Hibbs says his
 Transcript Snippet: my brother's calling me and I can hear people screaming and yelling and I can hear my brother telling me, "Charlie's just been shot.
 
 Anchored Artifacts: A-2323.1
-Mentions: N-210, N-248, N-793, N-1
+Mentions: N-210, N-248, N-792, N-1
 Related Nodes: N-10817
 Tags: relevance:core
 Investigative Direction: Obtain the full Starns audio and Butch Hibbs' phone records to establish when the call was placed and its duration.

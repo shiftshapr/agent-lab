@@ -427,7 +427,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-894"
+            "N-893"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -1819,8 +1819,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-894",
-      "ref": "N-894",
+      "@id": "N-893",
+      "ref": "N-893",
       "name": "Bettina Anderson",
       "type": "person",
       "description": "First named by the host at 00:07:27 in episode 93 as Bettina, soon-to-be Trump, whose bridal shower Erika attended.",
@@ -1839,8 +1839,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-896",
-      "ref": "N-896",
+      "@id": "N-895",
+      "ref": "N-895",
       "name": "Adnan Khashoggi",
       "type": "person",
       "description": "First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was initially brought in to deal with, per Ostrovsky.",
@@ -2342,7 +2342,7 @@
       "transcript_snippet": "Erika Kirk flew into Palm Beach because she was attending Bettina's bridal shower which took place on Sunday.",
       "mentions_person_refs": [
         "N-2",
-        "N-894",
+        "N-893",
         "N-33",
         "N-663"
       ]
@@ -3140,7 +3140,7 @@
       "mentions_person_refs": [
         "N-502",
         "N-9",
-        "N-896"
+        "N-895"
       ]
     },
     {

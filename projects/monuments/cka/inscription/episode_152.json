@@ -1732,8 +1732,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-780",
-      "ref": "N-780",
+      "@id": "N-779",
+      "ref": "N-779",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Tyler Robinson's father.",
@@ -1750,8 +1750,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-804",
-      "ref": "N-804",
+      "@id": "N-803",
+      "ref": "N-803",
       "name": "Paul Vallely",
       "type": "person",
       "description": "TPUSA adviser and retired army general named by the host (transcribed Paul Valle).",
@@ -1767,8 +1767,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-838",
-      "ref": "N-838",
+      "@id": "N-837",
+      "ref": "N-837",
       "name": "Macklemore",
       "type": "person",
       "description": "Rapper dropped from the tour (transcribed McLemore).",
@@ -1788,8 +1788,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-839",
-      "ref": "N-839",
+      "@id": "N-838",
+      "ref": "N-838",
       "name": "Ed Sheeran",
       "type": "person",
       "description": "Headliner whose tour dropped Macklemore.",
@@ -1865,8 +1865,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-805",
-      "ref": "N-805",
+      "@id": "N-804",
+      "ref": "N-804",
       "name": "Andrew Piscatello",
       "type": "person",
       "description": "First named by the host at 00:03:34 in episode 152. Man the host says the feds questioned on September 10 who warns about Ukrainian military sex trafficking. Real spelling unconfirmed.",
@@ -1882,8 +1882,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-870",
-      "ref": "N-870",
+      "@id": "N-869",
+      "ref": "N-869",
       "name": "Michael George Carl",
       "type": "person",
       "description": "First named by the host at 00:12:41 in episode 152. Police officer with a child-exploitation background who signed the first warrants.",
@@ -1903,8 +1903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-871",
-      "ref": "N-871",
+      "@id": "N-870",
+      "ref": "N-870",
       "name": "David Leavitt",
       "type": "person",
       "description": "First named by the host at 00:24:49 in episode 152 (transcribed David O. Levit). Utah official the host links to 2017 tribal outreach and a 2022 ritual abuse investigation.",
@@ -1922,8 +1922,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-872",
-      "ref": "N-872",
+      "@id": "N-871",
+      "ref": "N-871",
       "name": "Justin Bieber",
       "type": "person",
       "description": "First named by the host at 00:51:02 in episode 152. Singer the host cites as sued after cancelling a tour.",
@@ -1939,8 +1939,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-873",
-      "ref": "N-873",
+      "@id": "N-872",
+      "ref": "N-872",
       "name": "Stephen A. Smith",
       "type": "person",
       "description": "First named by the host at 00:56:43 in episode 152. Podcaster on whose show the host appeared.",
@@ -2482,7 +2482,7 @@
       "investigative_direction": "Identify Pascado under his correct spelling and find the record or earlier episode that places him among those questioned on September 10.",
       "transcript_snippet": "Andrew Pascado, you'll remember, he was one of the uh people that the feds questioned on September 10th. He also in his own capacity works to ring the alarm on military Ukrainian sex trafficking into the United States.",
       "mentions_person_refs": [
-        "N-805"
+        "N-804"
       ]
     },
     {
@@ -2587,7 +2587,7 @@
       "investigative_direction": "Verify Vallely's TPUSA advisory role and the co-authored book (Aquino and Vallely, Psychological Operations material).",
       "transcript_snippet": "TPUSA adviser Paul Valle is the retired army general who ran psychological operations and co-wrote a book with Michael Aino who was a Satanist and a founder of the Temple of Set",
       "mentions_person_refs": [
-        "N-804",
+        "N-803",
         "N-451"
       ]
     },
@@ -2806,7 +2806,7 @@
       "mentions_person_refs": [
         "N-125",
         "N-40",
-        "N-780"
+        "N-779"
       ]
     },
     {
@@ -2951,7 +2951,7 @@
         "C-3450"
       ],
       "mentions_person_refs": [
-        "N-870"
+        "N-869"
       ]
     },
     {
@@ -2976,7 +2976,7 @@
         "C-3450"
       ],
       "mentions_person_refs": [
-        "N-870",
+        "N-869",
         "N-40"
       ]
     },
@@ -3000,7 +3000,7 @@
         "C-3450"
       ],
       "mentions_person_refs": [
-        "N-870",
+        "N-869",
         "N-42",
         "N-1"
       ]
@@ -3024,7 +3024,7 @@
       "investigative_direction": "Obtain the hospital footage warrant and affidavit rationale.",
       "transcript_snippet": "we learned that the surveillance footage was also seized from Inter Mountain Health Utah Valley because they said that the perpetrator was driving around.",
       "mentions_person_refs": [
-        "N-870"
+        "N-869"
       ]
     },
     {
@@ -3044,8 +3044,8 @@
       "investigative_direction": "Obtain the residence search warrant and inventory.",
       "transcript_snippet": "and also the warrants to search Ma Ma and Amber Robinson's house as well.",
       "mentions_person_refs": [
-        "N-870",
-        "N-780"
+        "N-869",
+        "N-779"
       ]
     },
     {
@@ -3443,7 +3443,7 @@
       "investigative_direction": "Verify Leavitt's office (the host says attorney general; public records list Utah County Attorney) and the status of every scandal.",
       "transcript_snippet": "the attorney general um of Utah was a man named David O. Levit. And there was a massive scandal.",
       "mentions_person_refs": [
-        "N-871"
+        "N-870"
       ]
     },
     {
@@ -3461,7 +3461,7 @@
       "investigative_direction": "Check Northern Cheyenne tribal council records and Leavitt's 2017 correspondence.",
       "transcript_snippet": "He was seeking support connected to adopting a northern Native American child, a Cheyenne child, and he met with the tribal president and proposed a relationship between the tribe and Ukraine.",
       "mentions_person_refs": [
-        "N-871"
+        "N-870"
       ]
     },
     {
@@ -3840,7 +3840,7 @@
       ],
       "mentions_person_refs": [
         "N-196",
-        "N-838"
+        "N-837"
       ]
     },
     {
@@ -3863,7 +3863,7 @@
         "C-3458"
       ],
       "mentions_person_refs": [
-        "N-838"
+        "N-837"
       ]
     },
     {
@@ -3886,7 +3886,7 @@
         "C-3458"
       ],
       "mentions_person_refs": [
-        "N-838"
+        "N-837"
       ]
     },
     {
@@ -3904,8 +3904,8 @@
       "investigative_direction": "Obtain Ed Sheeran's public statement on the decision.",
       "transcript_snippet": "I had no control over it. It was the stadiums that did this.",
       "mentions_person_refs": [
-        "N-839",
-        "N-838"
+        "N-838",
+        "N-837"
       ]
     },
     {
@@ -3923,8 +3923,8 @@
       "investigative_direction": "Identify the three openers and the dates and wording of their withdrawal.",
       "transcript_snippet": "thus far, three other people associated with this tour have now dropped out.",
       "mentions_person_refs": [
-        "N-839",
-        "N-838"
+        "N-838",
+        "N-837"
       ]
     },
     {
@@ -3942,7 +3942,7 @@
       "investigative_direction": "Check the official tour schedule.",
       "transcript_snippet": "I think there's only three um tour stops left.",
       "mentions_person_refs": [
-        "N-839"
+        "N-838"
       ]
     },
     {
@@ -4018,7 +4018,7 @@
       "investigative_direction": "Check the lawsuit record over the cancelled Bieber tour dates.",
       "transcript_snippet": "Justin Bieber is finally free and happy and he doesn't even care after he got sued for cancing the rest of his tour?",
       "mentions_person_refs": [
-        "N-872"
+        "N-871"
       ]
     },
     {
@@ -4095,7 +4095,7 @@
       "investigative_direction": "Find the Stephen A. Smith episode and its release date.",
       "transcript_snippet": "I got a lot of your comments about the Stephen A. Smith podcast.",
       "mentions_person_refs": [
-        "N-873",
+        "N-872",
         "N-3"
       ]
     },

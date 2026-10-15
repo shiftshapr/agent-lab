@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: cd44ed40636c60c09236975a1e80639d46ee6820f268322c974d2c67580290dd
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-893, N-894, N-895, N-11297, N-11298
+  - Tip-minted Nodes (supplement_2026-10e): N-892, N-893, N-894, N-11297, N-11298
   - Hole-minted Nodes (reintro-ep092): N-10751
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11375–C-11435
   - New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10612, N-10614, N-10615
-  - Reused Nodes Appearing: N-2, N-14, N-4, N-327, N-17, N-33, N-40, N-42, N-82, N-94, N-202, N-211, N-239, N-282, N-422, N-804, N-451, N-452, N-462, N-602, N-691, N-805, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611, N-343, N-344, N-10613
+  - Reused Nodes Appearing: N-2, N-14, N-4, N-327, N-17, N-33, N-40, N-42, N-82, N-94, N-202, N-211, N-239, N-282, N-422, N-803, N-451, N-452, N-462, N-602, N-691, N-804, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611, N-343, N-344, N-10613
   - Hole-minted Nodes (wave3): N-426
   - (see registers)
 
@@ -684,7 +684,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-893** Savannah Hernandez
+**N-892** Savannah Hernandez
 
 First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.
 
@@ -732,7 +732,7 @@ Engaged to Bettina Anderson, per the host.
 
 ---
 
-**N-894** Bettina Anderson
+**N-893** Bettina Anderson
 
 First named by the host at 00:16:56 in episode 92 (spelled Betina). Fiancee of Donald Trump Jr. whose bridal shower the host says Erika Kirk attended.
 
@@ -821,7 +821,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-895** David J. Harris
+**N-894** David J. Harris
 
 First named by the host at 00:40:01 in episode 92 (David Harris). Business partner in the Marx supplements, per the host.
 
@@ -901,7 +901,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-805** Andrew Piscatello
+**N-804** Andrew Piscatello
 
 Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms.
 
@@ -957,7 +957,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-804** Paul Vallely
+**N-803** Paul Vallely
 
 TPUSA adviser transcribed Paul Vallely; co-author with Aquino.
 
@@ -1436,7 +1436,7 @@ Claim: On Fox News, Andrew Kolvet said that cancelling Erika Kirk's appearance w
 Transcript Snippet: which I think is the first time that we've ever had to make that decision in Turning Point history.
 
 Anchored Artifacts: A-1967.1
-Mentions: N-14, N-893, N-2
+Mentions: N-14, N-892, N-2
 Related Nodes: N-10607
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News segment and reporting on the Savannah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances.
@@ -1616,7 +1616,7 @@ Claim: The host says Erika Kirk was at the White House over the weekend and at t
 Transcript Snippet: She was at Betina Betina at Mara Lago, the one who's marrying Don Trump Jr., she was at her bridal shower.
 
 Anchored Artifacts: 
-Mentions: N-2, N-33, N-894
+Mentions: N-2, N-33, N-893
 Related Nodes: N-10607
 Tags: relevance:context
 Investigative Direction: Check reporting and guest accounts of the bridal shower and Erika Kirk's White House visit that weekend.
@@ -1697,7 +1697,7 @@ Claim: In the clip played, JD Vance says critics should go after the left-wing r
 Transcript Snippet: not the left-wing radicals who are assaulting Savannah or not the people who shot Charlie Kirk
 
 Anchored Artifacts: A-1966.2
-Mentions: N-4, N-1, N-893
+Mentions: N-4, N-1, N-892
 Related Nodes: N-10607
 Tags: relevance:core
 Investigative Direction: Obtain the full Vance remarks and check whether the plural was scripted or an error.
@@ -1967,7 +1967,7 @@ Claim: The host says that Victor Marx had a supplement venture with David Harris
 Transcript Snippet: You had supplements that you were doing with David Harris.
 
 Anchored Artifacts: 
-Mentions: N-343, N-895, N-3
+Mentions: N-343, N-894, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the supplement brand and its ownership records.
@@ -1983,7 +1983,7 @@ Claim: The host says it was said that proceeds from the Marx and David Harris su
 Transcript Snippet: David Harris calls God Papa. I don't know. And he like you guys said that like proceed the supplements were going to help human sex trafficking victims.
 
 Anchored Artifacts: 
-Mentions: N-343, N-895, N-3
+Mentions: N-343, N-894, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Obtain the supplement marketing claims and any charity disbursement records.
@@ -2115,7 +2115,7 @@ Claim: The host says Andrew Piscatello, who was detained that day, works to rais
 Transcript Snippet: Andrew Pascadlo, uh that was the person who was detained that day, uh works to ring the alarm on military Ukrainian sex trafficking in the United States.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-805, N-3
+Mentions: N-804, N-3
 Related Nodes: N-10325
 Supports: C-8161
 Tags: relevance:core
@@ -2182,7 +2182,7 @@ Claim: The host says TPUSA adviser Paul Vallely, a retired Army general who ran 
 Transcript Snippet: The TPUSA adviser, Paul Vallely, retired Army general who ran psychological operations and co-wrote the book with Michael Aino, the Satanist and founder of the Temple of Set.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-804, N-451, N-3
+Mentions: N-803, N-451, N-3
 Related Nodes: N-11238
 Supports: C-8246
 Tags: relevance:context

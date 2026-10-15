@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: b4380e6d087a8764d74904be2628e149d3b959bb6ee30a42cff982058d3dc8cf
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-948, N-11398, N-11399
+  - Tip-minted Nodes (supplement_2026-10g): N-947, N-11398, N-11399
   - Hole-minted Nodes (reintro-ep087): N-10620, N-10888
   - Tip-minted Nodes (reintro-ep087): N-11142, N-11199
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -365,7 +365,7 @@ Video Timestamp: 00:29:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14598, N-3, N-948*
+*Related: C-14598, N-3, N-947*
 
 ---
 
@@ -1189,7 +1189,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-948** Robbie Hild
+**N-947** Robbie Hild
 
 First named by the host at 00:27:39 in episode 87 (spelled Robbie Hild and Robbie Hild in the transcript). Person the host says she put an APB out for because he stood alongside a Lyman relative; she says he attended BYU, played lacrosse and graduated around 2020.
 
@@ -2312,7 +2312,7 @@ Claim: The host says Robbie Hild was one of the first people she put an APB out 
 Transcript Snippet: one of the first people that I put an APB out for because he was bizarrely standing alongside Shane Lyman.
 
 Anchored Artifacts: 
-Mentions: N-3, N-948, N-128, N-61
+Mentions: N-3, N-947, N-128, N-61
 Related Nodes: N-10153, N-10144
 Tags: relevance:core
 Investigative Direction: Locate the original episode and the photo of Hild with the Lyman relative; confirm the person's identity (the host later spells the name Hill and Hild).
@@ -2378,7 +2378,7 @@ Claim: The host says the Lyman relative and some friends traced the steps of the
 Transcript Snippet: he and some friends uniquely traced the steps of the killer and showed people, "This is the footprint.
 
 Anchored Artifacts: A-1924.1
-Mentions: N-3, N-948, N-128
+Mentions: N-3, N-947, N-128
 Related Nodes: N-10153, N-10144
 Supports: C-9259, C-1312
 Tags: relevance:core
@@ -2411,7 +2411,7 @@ Claim: The host asks viewers who know how the Hild family is related to the Romn
 Transcript Snippet: please email us at more tips at candaceowens. com.
 
 Anchored Artifacts: A-3330.1
-Mentions: N-3, N-948, N-28
+Mentions: N-3, N-947, N-28
 Related Nodes: N-10579, N-10153
 Tags: relevance:core
 Investigative Direction: Collect viewer tips on Hild-Romney marriage records or genealogy and verify with public records.
@@ -2427,7 +2427,7 @@ Claim: The host says that with the BYU and lacrosse details, the investigation i
 Transcript Snippet: but the investigation into Robbie Hild is now opened again.
 
 Anchored Artifacts: 
-Mentions: N-3, N-948
+Mentions: N-3, N-947
 Related Nodes: N-10153, N-10579
 Tags: relevance:core
 Investigative Direction: Track subsequent episodes for new findings on Hild's identity and family ties.
@@ -2571,7 +2571,7 @@ Claim: The host says the Hild family is married into the Robinsons as well and t
 Transcript Snippet: Certainly, the Hild family is married into the Robinsons as well
 
 Anchored Artifacts: 
-Mentions: N-3, N-948, N-40
+Mentions: N-3, N-947, N-40
 Related Nodes: N-11398, N-10153
 Tags: relevance:tangential
 Investigative Direction: Genealogical and marriage records for the Hild and Robinson families.

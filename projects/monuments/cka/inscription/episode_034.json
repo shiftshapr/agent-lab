@@ -1691,8 +1691,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-761",
-      "ref": "N-761",
+      "@id": "N-760",
+      "ref": "N-760",
       "name": "Bob Coy",
       "type": "person",
       "description": "Bob Coy; Fort Lauderdale pastor the host says was in a sexual abuse scandal.",
@@ -3094,7 +3094,7 @@
       "investigative_direction": "Review court records and contemporaneous news reports on Bob Coy's resignation and allegations.",
       "transcript_snippet": "Bob Coy, the one from Fort Lauderdale who got into a little bit of a scandal with sexual abuse.",
       "mentions_person_refs": [
-        "N-761",
+        "N-760",
         "N-17",
         "N-36"
       ]

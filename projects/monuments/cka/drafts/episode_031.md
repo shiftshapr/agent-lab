@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: c74e78c6fe837fa42ecfdd621af81cd0a2394e04b024b682d47f983646686329
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-761, N-762, N-763, N-764, N-765, N-766, N-767, N-768, N-11106
+  - Tip-minted Nodes (supplement_2026-10b): N-760, N-761, N-762, N-763, N-764, N-765, N-766, N-767, N-11106
   - Hole-minted Nodes (reintro-ep031): N-279, N-583, N-10252, N-10264, N-10465, N-10818
   - Tip-minted Nodes (reintro-ep031): N-617, N-717, N-10916, N-10989
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -1087,7 +1087,7 @@ Existing organization reused for the orphanage remark.
 
 ---
 
-**N-761** Bob Coy
+**N-760** Bob Coy
 
 First named by the host at 00:19:19 in episode 31. Pompo Beach, Florida Calvary Chapel founder accused of molesting a 4-year-old; the host stresses he is not Rob McCoy.
 
@@ -1095,7 +1095,7 @@ First named by the host at 00:19:19 in episode 31. Pompo Beach, Florida Calvary 
 
 ---
 
-**N-762** Jason James Taylor
+**N-761** Jason James Taylor
 
 First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel Solid Rock in Minnesota, named by the host as one of six arrested in a sting.
 
@@ -1103,7 +1103,7 @@ First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel
 
 ---
 
-**N-763** Anthony Iglesias
+**N-762** Anthony Iglesias
 
 First named by the host at 00:19:19 in episode 31. Named by the host (spelled Anthony Iglesias) as a predator the Post Falls church allegedly concealed; she says he is serving time in Idaho.
 
@@ -1111,7 +1111,7 @@ First named by the host at 00:19:19 in episode 31. Named by the host (spelled An
 
 ---
 
-**N-764** Robert Davis
+**N-763** Robert Davis
 
 First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of North County Chapel in Post Falls, Idaho, whom the lawsuit alleges made the Thailand remark.
 
@@ -1119,7 +1119,7 @@ First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of N
 
 ---
 
-**N-765** Doug DeAndrea
+**N-764** Doug DeAndrea
 
 First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor in Virginia the host says pleaded guilty to child sex abuse.
 
@@ -1127,7 +1127,7 @@ First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor 
 
 ---
 
-**N-766** Jeffrey Zizz
+**N-765** Jeffrey Zizz
 
 First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor the host says confessed to misconduct with his daughters and later committed a murder (name as rendered in the transcript).
 
@@ -1135,7 +1135,7 @@ First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor 
 
 ---
 
-**N-767** Diddy
+**N-766** Diddy
 
 First named by the host at 00:22:47 in episode 31. Referred to by the host as Diddy in the passage on the man who said the feds run a cartel operation.
 
@@ -1143,7 +1143,7 @@ First named by the host at 00:22:47 in episode 31. Referred to by the host as Di
 
 ---
 
-**N-768** Kenny
+**N-767** Kenny
 
 First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kenny and Kenny in the transcript).
 
@@ -1698,7 +1698,7 @@ Claim: The host says the founder of Calvary Chapel in Pompo Beach, Florida was a
 Transcript Snippet: Then he got accused of molesting a 4-year-old girl.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-761, N-17, N-3
+Mentions: N-760, N-17, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Search Florida court and news records for the accusation against Bob Coy and its outcome.
@@ -1762,7 +1762,7 @@ Claim: The host says Jason James Taylor, lead pastor of Calvary Chapel Solid Roc
 Transcript Snippet: He was among six people who were arrested following a solicitation of minors.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-762, N-3
+Mentions: N-761, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Locate Minnesota task force press releases and court records naming Jason James Taylor and the case outcome.
@@ -1778,7 +1778,7 @@ Claim: The host says the North County Chapel in Post Falls, Idaho is being sued 
 Transcript Snippet: Yeah, we knew that's why we pulled him out of Thailand.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-763, N-764, N-3
+Mentions: N-762, N-763, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Retrieve the Idaho civil complaint and the criminal judgment against Eglacius and check the quoted allegation.
@@ -1810,7 +1810,7 @@ Claim: The host says a former Calvary Chapel pastor in Virginia named Doug DeAnd
 Transcript Snippet: The former Calvary uh pastor's name was Doug DeAndrea. He is currently serving time in jail in Virginia on multiple charges related to child sex abuse.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-765, N-3
+Mentions: N-764, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Locate the Virginia court records for the pastor (the transcript spells the name Deandria) and the sentence.
@@ -1842,7 +1842,7 @@ Claim: The host says the lead pastor of a Calvary Chapel in North Thirsten, Oreg
 Transcript Snippet: He went to prison for 11 months. And then when he got out, he murdered an 80year-old and poured concrete.
 
 Anchored Artifacts: A-2826.1
-Mentions: N-766, N-3
+Mentions: N-765, N-3
 Related Nodes: N-10246
 Tags: relevance:context
 Investigative Direction: Identify the pastor (the transcript spells the name Jeffrey Zizz) and the Oregon conviction and homicide case records.
@@ -1858,7 +1858,7 @@ Claim: The host says a man who shot up the Trump Miami Doral, killing no one, sa
 Transcript Snippet: Cassie then verified on the stand that she knew who this man was um and that he had been invited to these parties.
 
 Anchored Artifacts: 
-Mentions: N-767, N-3
+Mentions: N-766, N-3
 Tags: relevance:tangential
 Investigative Direction: Identify the man and the shooting incident the host means and check the Combs trial testimony for any reference to him.
 
@@ -1873,7 +1873,7 @@ Claim: The host says Kanye West said, in an episode now hard to find online, tha
 Transcript Snippet: that Diddy had been blackmailed by the feds and that part of his deal was that he had to keep certain other people in line like Kanye.
 
 Anchored Artifacts: 
-Mentions: N-27, N-767, N-3
+Mentions: N-27, N-766, N-3
 Tags: relevance:tangential
 Investigative Direction: Locate the Kanye West interview or episode the host describes and confirm his words about Diddy and the feds.
 
@@ -1920,7 +1920,7 @@ Claim: The host reads quotes attributed to a former Ignite student named Kenny, 
 Transcript Snippet: I would say maybe like 500. And that would be between all five countries," Kenny said.
 
 Anchored Artifacts: A-2827.1
-Mentions: N-768, N-3
+Mentions: N-767, N-3
 Related Nodes: N-10247
 Tags: relevance:context
 Investigative Direction: Locate the original news report quoting Kenny and the ministry's response, and check the donor mailings.

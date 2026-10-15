@@ -1418,8 +1418,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-753",
-      "ref": "N-753",
+      "@id": "N-752",
+      "ref": "N-752",
       "name": "Allan Robertson",
       "type": "person",
       "description": "First named by the host at 00:09:47 in episode 144. Person the host says was visiting from Utah State University, undercover among protesters, and therefore could not have told Terrell Farnsworth to get the footage.",
@@ -1435,8 +1435,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-754",
-      "ref": "N-754",
+      "@id": "N-753",
+      "ref": "N-753",
       "name": "Andrea Birkhart",
       "type": "person",
       "description": "First named by a speaker on the Kolvet/Neff show at 00:29:09 in episode 144. Described as an apolitical person asked whether a defense would present exculpatory evidence at a preliminary hearing; spelled Birkhart in the transcript.",
@@ -2104,7 +2104,7 @@
         "C-3199"
       ],
       "mentions_person_refs": [
-        "N-753",
+        "N-752",
         "N-263",
         "N-3"
       ]
@@ -2372,7 +2372,7 @@
       "investigative_direction": "Ask Birkhart on record and compare with the defense's stated reasons for not presenting evidence at the hearing.",
       "transcript_snippet": "If they had exculpatory evidence, whether it's the parents that actually, you know, think he's innocent or they have some steakhouse receipt, would they not present that at the preliminary hearing?",
       "mentions_person_refs": [
-        "N-754",
+        "N-753",
         "N-14"
       ]
     },

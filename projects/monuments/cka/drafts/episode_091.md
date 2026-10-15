@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 1df74cccac475e4c487a7870fcec07e5418c1bc8bbaa2b6db88833fb27d1cace
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-918, N-919, N-11346, N-11347, N-11348
+  - Tip-minted Nodes (supplement_2026-10f): N-917, N-918, N-11346, N-11347, N-11348
   - Hole-minted Nodes (reintro-ep091): N-343, N-344, N-345, N-346, N-351, N-10613
   - Tip-minted Nodes (reintro-ep091): N-644, N-728, N-729, N-730
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -239,7 +239,7 @@ Video Timestamp: 00:56:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12892, C-12893, N-10604, N-343, N-919*
+*Related: C-12892, C-12893, N-10604, N-343, N-918*
 
 ---
 
@@ -540,7 +540,7 @@ Eileen Marx's brother per the host; subject of the shooting attempt and trial cl
 
 ---
 
-**N-918** Chaz Yandle
+**N-917** Chaz Yandle
 
 First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met Hall at the hotel and goes with Marx to Haiti. Spelling as transcribed.
 
@@ -548,7 +548,7 @@ First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met H
 
 ---
 
-**N-919** Corey Kennedy
+**N-918** Corey Kennedy
 
 First named by the host at 00:56:23 in episode 91 as a researcher who has done a deep dive on Victor Marx on X and Facebook. The host is unsure of the surname and spells the first name C O R I.
 
@@ -1847,7 +1847,7 @@ Claim: In the statement the host reads, Hall says Marx and his COO Chaz Yandle, 
 Transcript Snippet: Mr. Marx and his COO, Chaz Yandle, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343, N-918
+Mentions: N-344, N-343, N-917
 Related Nodes: N-10602
 Tags: relevance:core
 Investigative Direction: Identify Marx's COO and ask him about the hotel meeting and the trip to Haiti.
@@ -2252,7 +2252,7 @@ Claim: The host says a person she names as Corey Kennedy has been looking into V
 Transcript Snippet: has done a very good job on both X and on Facebook. Corey Kennedy has done a deep dive into Victor Marx.
 
 Anchored Artifacts: A-3231.1
-Mentions: N-919, N-343
+Mentions: N-918, N-343
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the account and read the posts; confirm the researcher's name and background.
@@ -2268,7 +2268,7 @@ Claim: The host says there have been interviews in which people have heavily sug
 Transcript Snippet: there have been interviews where people have very heavily suggested that Victor Marx is just in fact a compulsive liar.
 
 Anchored Artifacts: A-3231.1
-Mentions: N-343, N-919
+Mentions: N-343, N-918
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the interviews and test the specific factual contradictions against records.

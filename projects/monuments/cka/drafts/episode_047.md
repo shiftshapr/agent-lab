@@ -36,7 +36,7 @@
   - Artifact Families Introduced: A-1539, A-1540, A-1541, A-1542, A-1543, A-1544, A-1545, A-1546, A-1547, A-1548, A-1549, A-1550, A-1551
   - Claim Range: C-1924–C-1959, C-3741
   - New Nodes Introduced: N-330, N-332, N-333, N-334, N-335, N-336, N-337, N-338, N-339, N-340, N-341, N-342, N-10339, N-10344, N-10347, N-10348, N-10351, N-10352, N-10354, N-10356, N-10357
-  - Reused Nodes Appearing: N-331, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341, N-4, N-22, N-27, N-82, N-99, N-104, N-147, N-180, N-226, N-239, N-280, N-852, N-10000, N-10012, N-10018, N-10026, N-10097, N-10105, N-10110, N-10167, N-10253, N-10334, N-10358, N-10862, N-11287, N-11336, N-11337
+  - Reused Nodes Appearing: N-331, N-10337, N-10338, N-10340, N-10342, N-10343, N-10345, N-10355, N-10898, N-10346, N-10349, N-10350, N-10353, N-10341, N-4, N-22, N-27, N-82, N-99, N-104, N-147, N-180, N-226, N-239, N-280, N-851, N-10000, N-10012, N-10018, N-10026, N-10097, N-10105, N-10110, N-10167, N-10253, N-10334, N-10358, N-10862, N-11287, N-11336, N-11337
 
 ---, N-11
 
@@ -342,7 +342,7 @@ Confidence Level: Low
 
 Flag: Artifact verbally referenced but not shown
 
-*Related: C-14010, N-10340, N-14, N-3, N-852*
+*Related: C-14010, N-10340, N-14, N-3, N-851*
 
 ---
 
@@ -1285,7 +1285,7 @@ Named by the host regarding a demand she ignored.
 
 ---
 
-**N-852** Jimmy Dore
+**N-851** Jimmy Dore
 
 Host of the show where Candace clarified her text sourcing.
 
@@ -2098,7 +2098,7 @@ Claim: The host says that on the Jimmy Dore show she clarified that Andrew Kolve
 Transcript Snippet: I said Andrew Kolvet told me specifically that he was one of the people that received this text message. So I got that first person. I didn't get that from a source.
 
 Anchored Artifacts: A-3292
-Mentions: N-3, N-14, N-852
+Mentions: N-3, N-14, N-851
 Related Nodes: N-10340
 Tags: relevance:core
 Investigative Direction: Retrieve the Jimmy Dore episode and compare with Kolvet's own statements on the night-before text.

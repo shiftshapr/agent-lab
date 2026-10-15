@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 1a470c9a6f223d7322321ad99025c98532a7e3253b185b43561425b2be5ecefd
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-862, N-863, N-11255
+  - Tip-minted Nodes (supplement_2026-10d): N-861, N-862, N-11255
   - Hole-minted Nodes (reintro-ep076): N-154, N-595, N-10528, N-10532, N-10541, N-10698
   - Tip-minted Nodes (reintro-ep076): N-739, N-10929, N-10990, N-11192
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -265,7 +265,7 @@ Video Timestamp: 00:12:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10240, C-10241, N-10075, N-10522, N-131, N-154, N-3, N-69, N-862*
+*Related: C-10240, C-10241, N-10075, N-10522, N-131, N-154, N-3, N-69, N-861*
 
 ---
 
@@ -726,9 +726,9 @@ Defense Secretary to whom the Air Force Academy board reports, per the host.
 
 **N-691** Otto Busher
 
-Colonel the host links to the Constanta Marine rotation and later trafficking accusations; transcribed Otto Boucher and Otto Buscher.
+Colonel the host links to the Constanta Marine rotation and later trafficking accusations; transcribed Otto Boucher and Otto Busher.
 
-Aliases: Colonel Otto Boucher; Colonel Otto Buscher (transcript spellings)
+Aliases: Colonel Otto Boucher; Colonel Otto Busher (transcript spellings)
 
 *Related: C-10255, C-10261*
 
@@ -936,7 +936,7 @@ Existing topic reused for the host's Frankist claim about Epstein.
 
 ---
 
-**N-862** Stephen Miller
+**N-861** Stephen Miller
 
 First named by the host at 00:12:57 in episode 76. White House official named by the host's sources as a possible occupant of the West Wing offices.
 
@@ -944,7 +944,7 @@ First named by the host at 00:12:57 in episode 76. White House official named by
 
 ---
 
-**N-863** Les Wexner
+**N-862** Les Wexner
 
 First named by the host at 00:16:53 in episode 76. Retail executive the host says handed Epstein the keys to a casting role for Victoria's Secret.
 
@@ -1415,7 +1415,7 @@ Claim: The host quotes her White House sources as saying the offices in that are
 Transcript Snippet: the offices in that general region are senior White House staff. It could be Susie Wiles, Stephen Miller, James Braid.
 
 Anchored Artifacts: A-3065.2
-Mentions: N-131, N-862, N-154, N-3
+Mentions: N-131, N-861, N-154, N-3
 Related Nodes: N-10522, N-10075
 Tags: relevance:core
 Investigative Direction: Verify the West Wing layout and who maintains offices off that lobby.
@@ -1576,7 +1576,7 @@ Claim: The host says Les Wexner handed Epstein the keys and he became a casting 
 Transcript Snippet: Whether he was working with uh Victoria's Secret, you know, Les Wexner hands him the keys and all of a sudden he's like a casting director looking at all of these models.
 
 Anchored Artifacts: 
-Mentions: N-9, N-863
+Mentions: N-9, N-862
 Tags: relevance:context
 Investigative Direction: Review court filings on Epstein's role with L Brands and Wexner.
 
@@ -1748,9 +1748,9 @@ Investigative Direction: Obtain Everyday Heroes filings and Marine Corps press i
 
 Claim Timestamp: 00:19:25
 
-Claim: The host says Erika worked with Colonel Otto Buscher, the same colonel she says would be accused of trafficking and prostituting underage Romanians, apparently through Tel Aviv.
+Claim: The host says Erika worked with Colonel Otto Busher, the same colonel she says would be accused of trafficking and prostituting underage Romanians, apparently through Tel Aviv.
 
-Transcript Snippet: She's working with uh Colonel Otto Buscher, that same colonel who's going to be accused of trafficking and prostituting underage Romanians, apparently up and through Tel Aviv.
+Transcript Snippet: She's working with uh Colonel Otto Busher, that same colonel who's going to be accused of trafficking and prostituting underage Romanians, apparently up and through Tel Aviv.
 
 Anchored Artifacts: 
 Mentions: N-691, N-2
@@ -2523,7 +2523,7 @@ Confidence: high
 - **Andrew Kolvet vs. Andrew Kolvet:** Transcript and prior context use "Kolvet." Both spellings appear in source text.
 - **Frank Turek vs. Frank Turek:** Transcript uses "Turick" in several instances; the public figure is Frank Turek. Flag preserved.
 - **Andrew Colebat vs. Andrew Cole that:** Transcript introduces both. "Andrew Colebat" appears to be intended (per prior Candace Owens episode context).
-- **Colonel Otto Boucher vs. Otto Buscher:** Transcript varies; both appear.
+- **Colonel Otto Boucher vs. Otto Busher:** Transcript varies; both appear.
 - **Lori France vs. Lori Faye:** Transcript contains both. "Lori Faye" appears in the timeline reconstruction at 00:39:30.
 
 ### Artifact Verbally Referenced but Not Displayed

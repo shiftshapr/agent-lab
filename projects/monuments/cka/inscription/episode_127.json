@@ -1137,8 +1137,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-742",
-      "ref": "N-742",
+      "@id": "N-80",
+      "ref": "N-80",
       "name": "Harley Pasternak",
       "type": "person",
       "description": "Named by the host as the trainer in the Kanye 5150 account.",
@@ -1616,8 +1616,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-781",
-      "ref": "N-781",
+      "@id": "N-780",
+      "ref": "N-780",
       "name": "Amanda Baker",
       "type": "person",
       "description": "First named by the host at 00:19:25 in episode 127. FBI agent who testified about exhibit nine, the backpack.",
@@ -1634,8 +1634,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-782",
-      "ref": "N-782",
+      "@id": "N-781",
+      "ref": "N-781",
       "name": "Zach Turek",
       "type": "person",
       "description": "First named by the host at 00:38:14 in episode 127. Aliases: Zachary Turek, Frank Zachary Turek, Pentagon Zack.",
@@ -1653,8 +1653,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-783",
-      "ref": "N-783",
+      "@id": "N-782",
+      "ref": "N-782",
       "name": "Mark Meckler",
       "type": "person",
       "description": "First named by the host at 00:47:56 in episode 127. Convention of States figure, called the snake-ler by the host.",
@@ -2428,7 +2428,7 @@
         "C-3049"
       ],
       "mentions_person_refs": [
-        "N-781"
+        "N-780"
       ]
     },
     {
@@ -2453,7 +2453,7 @@
         "C-3046"
       ],
       "mentions_person_refs": [
-        "N-781",
+        "N-780",
         "N-3"
       ]
     },
@@ -2852,7 +2852,7 @@
       "investigative_direction": "Verify Zachary Turek's Joint Staff title and dates from Department of Defense directories or biographies.",
       "transcript_snippet": "Zach was working at the Pentagon. He is today employed in Washington, D. C. at the Pentagon serving as the deputy division chief of the Joint Staff.",
       "mentions_person_refs": [
-        "N-782",
+        "N-781",
         "N-7"
       ]
     },
@@ -2900,7 +2900,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-782",
+        "N-781",
         "N-3"
       ]
     },
@@ -2967,7 +2967,7 @@
       "transcript_snippet": "Frank and his son Zack, Pentagon Zack, actually wrote a book together entitled Hollywood Heroes.",
       "mentions_person_refs": [
         "N-7",
-        "N-782",
+        "N-781",
         "N-3"
       ]
     },
@@ -3106,7 +3106,7 @@
       "transcript_snippet": "he's particularly hosted this guy Mark Meckler and I had such a giggle about Mark Meckler telling this obscure story um that I was like mean to him.",
       "mentions_person_refs": [
         "N-368",
-        "N-783",
+        "N-782",
         "N-3"
       ]
     },
@@ -3129,7 +3129,7 @@
       "investigative_direction": "Review the host's messages with Charlie, TPUSA donor communications and Convention of the States records for the proposed attachment.",
       "transcript_snippet": "telling donors to like force Charlie to uh just attach Convention of the States to Turning Point USA.",
       "mentions_person_refs": [
-        "N-783",
+        "N-782",
         "N-1",
         "N-3"
       ]
@@ -3154,7 +3154,7 @@
       "transcript_snippet": "Charlie and me literally all of our messages which I still have of course were just just referred to him as the snake-ler instead of Meckler",
       "mentions_person_refs": [
         "N-1",
-        "N-783",
+        "N-782",
         "N-3"
       ]
     },
@@ -3200,7 +3200,7 @@
       "transcript_snippet": "by the way Tyler Bowyer is even that the chats cuz we would also chat about Mark Meckler",
       "mentions_person_refs": [
         "N-11",
-        "N-783",
+        "N-782",
         "N-3"
       ]
     },
@@ -3334,7 +3334,7 @@
       "transcript_snippet": "Harley Pasternak, your gym trainer says so and they do a cocktail that can cause you to then have mental issues for life.",
       "mentions_person_refs": [
         "N-27",
-        "N-742",
+        "N-80",
         "N-3"
       ]
     },

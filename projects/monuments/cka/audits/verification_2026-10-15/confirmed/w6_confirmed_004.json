@@ -1,0 +1,514 @@
+[
+ {
+  "claim": "C-2213",
+  "episode": 64,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was signed off by Doug DeGroote, whom she says is on the board.",
+   "names": [
+    {
+     "wrong": "Doug DeGroot",
+     "right": "Doug DeGroote",
+     "source": "https://www.newsnationnow.com/politics/erika-kirk-turning-point-usa-charlie-kirk/"
+    }
+   ]
+  },
+  "note": "Host says 'signed off by'; DeGroote confirmed as TPUSA board signatory (afr.net, board letter reports)."
+ },
+ {
+  "claim": "C-2214",
+  "episode": 64,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host reads the September 17, 2025 board letter announcing Erika Kirk as CEO and chair, which opens by citing Ecclesiastes, saying King Solomon wrote that \"mankind is to be tested by God,\" and adds \"Today we are facing such a test.\"",
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Proposed text dropped the reference to Erika while keeping N-2; restored the announcement so N-2 is referred to."
+ },
+ {
+  "claim": "C-2217",
+  "episode": 64,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-368",
+    "N-3",
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Quote names 'the widow of her purported best friend, Charlie Kirk'."
+ },
+ {
+  "claim": "C-2218",
+  "episode": 64,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-368",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Candace."
+ },
+ {
+  "claim": "C-2222",
+  "episode": 64,
+  "decision": "amend",
+  "fix": {
+   "claim": "Candace Owens rejects Boreing's pornography analogy, saying one of the reasons she was fired was that she said the history of pornography should be looked into, and that people should talk about real pornography and where it comes from.",
+   "timestamp": "00:43:08"
+  },
+  "note": "Dropped 'podcasts ... are different' (garbled, interpretive); content starts ~43:13, not 43:46."
+ },
+ {
+  "claim": "C-2223",
+  "episode": 64,
+  "decision": "accept",
+  "fix": {
+   "claim": "Candace Owens rejects Boreing's account of her saying \"I believe what the people believe,\" describing it as \"obviously made up.\""
+  },
+  "note": "'Amoral statement' is Boreing's line."
+ },
+ {
+  "claim": "C-9913",
+  "episode": 64,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or describe Erika."
+ },
+ {
+  "claim": "C-9920",
+  "episode": 64,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-197"
+   ]
+  },
+  "note": "Kolvet not referred to in claim."
+ },
+ {
+  "claim": "C-10000",
+  "episode": 64,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika Kirk was in the office every day making informed decisions alongside Stacy Sheridan and Marina Minas, not at home.",
+   "names": [
+    {
+     "wrong": "Marina Medvin",
+     "right": "Marina Minas",
+     "source": "http://tpusa.com/team/"
+    }
+   ]
+  },
+  "note": "HappyScribe Ep 297 has 'this Marina Minas'; tpusa.com/team lists Minas as CMO."
+ },
+ {
+  "claim": "C-10007",
+  "episode": 64,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Erika only in the read comment, not the claim."
+ },
+ {
+  "claim": "C-2226",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip of his show that the host plays, Bassem Youssef says he was nominated for Anti-Semite of the Year 2024 but did not win, and that Candace Owens won it.",
+   "label": "Youssef Says He Was Nominated for Anti-Semite of the Year 2024 and Candace Owens Won",
+   "mentions": [
+    "N-499",
+    "N-3"
+   ]
+  },
+  "note": "Clip: 'I was even nominated ... I didn't win ... Candace Owens.'"
+ },
+ {
+  "claim": "C-2227",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip of his show that the host plays, Bassem Youssef asks who got Anti-Semite of the Year this year, and the answer given is Tucker Carlson.",
+   "mentions": [
+    "N-499",
+    "N-22"
+   ]
+  },
+  "note": "Supported by clip."
+ },
+ {
+  "claim": "C-2229",
+  "episode": 65,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "01:22:31"
+  },
+  "note": "'7 million views' is word 201 of 348 in the 94s 01:21:47 block, ~01:22:36; reviewer's word count was off."
+ },
+ {
+  "claim": "C-2230",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "01:12:59"
+  },
+  "note": "'December 2019' ~01:13:07 in 01:12:37 block."
+ },
+ {
+  "claim": "C-2231",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per Bassem Youssef, in displayed images, the bandaged follow-up photo of Arsen Ostrovsky shows no blood on the bandages despite blood on the face in the prior photo.",
+   "mentions": [
+    "N-503",
+    "N-499"
+   ],
+   "names": [
+    {
+     "wrong": "Arson Arstrovski",
+     "right": "Arsen Ostrovsky",
+     "source": "https://www.abc.net.au/news/2025-12-18/bondi-beach-terror-attack-survivor-arsen-ostrovsky/106157968"
+    }
+   ]
+  },
+  "note": "Youssef speaks; Ostrovsky confirmed (ABC, Conspiracy Watch on this episode)."
+ },
+ {
+  "claim": "C-2232",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-499",
+    "N-502"
+   ]
+  },
+  "note": "Claim is 'Per Youssef'."
+ },
+ {
+  "claim": "C-2233",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-499",
+    "N-502"
+   ]
+  },
+  "note": "Claim is 'Per Youssef'."
+ },
+ {
+  "claim": "C-2234",
+  "episode": 65,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:22:05",
+   "mentions": [
+    "N-499"
+   ]
+  },
+  "note": "Same fix; timestamp in full hh:mm:ss form, pastors line ~22:10."
+ },
+ {
+  "claim": "C-2236",
+  "episode": 65,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "01:22:18",
+   "mentions": [
+    "N-3",
+    "N-500"
+   ]
+  },
+  "note": "'NYT contacted me' is word 152 of 348 in 94s block, ~01:22:23."
+ },
+ {
+  "claim": "C-5578",
+  "episode": 65,
+  "decision": "amend",
+  "fix": {
+   "claim": "Youssef says the crew of the USS Liberty were threatened and put under a gag order and could not talk, contrary to Ben Shapiro's answer.",
+   "mentions": [
+    "N-97",
+    "N-499"
+   ],
+   "timestamp": "00:05:37"
+  },
+  "note": "Youssef speaks; line is word 234 of 281 in 04:32 block, ~05:42."
+ },
+ {
+  "claim": "C-5580",
+  "episode": 65,
+  "decision": "amend",
+  "fix": {
+   "claim": "Youssef says that when asked on a morning show hosted by Charlamagne tha God whether Israel committed genocide, Ben Shapiro answered in rapid word-salad style, and that Mehdi Hasan appeared the next day to go through details.",
+   "names": [
+    {
+     "wrong": "Charman the God",
+     "right": "Charlamagne tha God",
+     "source": "https://zeteo.com/p/mehdi-breakfast-club"
+    },
+    {
+     "wrong": "Media Hassan",
+     "right": "Mehdi Hasan",
+     "source": "https://zeteo.com/p/mehdi-breakfast-club"
+    }
+   ],
+   "timestamp": "00:06:18"
+  },
+  "note": "Names confirmed (Breakfast Club, Zeteo). Content ~06:23, not 05:56."
+ },
+ {
+  "claim": "C-5594",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "Youssef says his friend, comedian Matt Lieb, was a liberal Zionist at 26 and changed his mind on a Birthright trip when the main speaker was Benjamin Netanyahu accompanied by Miriam Adelson.",
+   "names": [
+    {
+     "wrong": "Matt Leeb",
+     "right": "Matt Lieb",
+     "source": "https://forward.com/culture/804088/anti-zionist-jews-comedy-podcast-israeli-government/"
+    }
+   ]
+  },
+  "note": "Matt Lieb, comedian, host of Bad Hasbara; confirmed."
+ },
+ {
+  "claim": "C-5597",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "McCoy not named in claim."
+ },
+ {
+  "claim": "C-5603",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie Kirk did not run his Twitter feed and that Andrew Kolvet did.",
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-14"
+   ]
+  },
+  "note": "New turn answering Youssef; host continues 'I don't remember him tweeting that'."
+ },
+ {
+  "claim": "C-5612",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Auschwitz Museum put on its website that a lot of what was said about Dr. Joseph Mengele was made up and that he never did these things.",
+   "label": "Host Says Auschwitz Museum Said Much of What Was Said About Mengele Was Made Up",
+   "mentions": [
+    "N-3",
+    "N-381"
+   ]
+  },
+  "note": "Host's turn (Bolsheviks, 'one episode')."
+ },
+ {
+  "claim": "C-5632",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "Youssef says Piers Morgan brought on Jonathan Conricus, described as an ex-IDF spokesman, who said there was no famine in Gaza and pointed to videos of fat Palestinians.",
+   "label": "Youssef Says Jonathan Conricus, an Ex-IDF Spokesman, Said on Piers Morgan That There Was No Famine in Gaza",
+   "names": [
+    {
+     "wrong": "Joseph Cornis",
+     "right": "Jonathan Conricus",
+     "source": "https://www.tiktok.com/@piersmorganuncensored/video/7515095174888951042"
+    }
+   ]
+  },
+  "note": "Conricus vs Youssef, Piers Morgan Uncensored June 2025 ('fat Gazans'); confirmed."
+ },
+ {
+  "claim": "C-5652",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says there was also Hollywood Babylon, that 'they then changed it', and that they are obsessed with publishing rights because if they own your book, when you die, they can change what is in it.",
+   "label": "Host Says Hollywood Babylon Was Also Changed and Publishing Rights Let Owners Alter Books",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "New turn after Youssef's 1992 line; no gag order stated for Hollywood Babylon."
+ },
+ {
+  "claim": "C-5653",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Victor Ostrovsky was also on camera speaking about how Jeffrey Epstein worked for them (Mossad).",
+   "label": "Host Says Victor Ostrovsky Said on Camera That Epstein Worked for Mossad",
+   "mentions": [
+    "N-3",
+    "N-502",
+    "N-9"
+   ]
+  },
+  "note": "Same turn as Hollywood Babylon."
+ },
+ {
+  "claim": "C-5654",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her very last, or second-to-last, Daily Wire episode was with Rabbi Barclay, and Youssef says that is what broke them.",
+   "label": "Host Says Her Last or Second-to-Last Daily Wire Episode Was the Interview With Rabbi Barclay",
+   "names": [
+    {
+     "wrong": "Rabbi Barlay",
+     "right": "Rabbi Barclay",
+     "source": "https://www.shortform.com/podcast/episode/candace-owens-2024-03-18-episode-summary-this-is-crazy-rabbi-barclay-attacks-me-for-things-i-never-said"
+    }
+   ]
+  },
+  "note": "Rabbi Michael Barclay, March 2024 episode; confirmed."
+ },
+ {
+  "claim": "C-5655",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that when she asked Rabbi Barclay for a definition of antisemitism, he answered that it is whatever we want.",
+   "label": "Host Says Rabbi Barclay Answered a Request for a Definition of Antisemitism With Whatever We Want",
+   "names": [
+    {
+     "wrong": "Rabbi Barlay",
+     "right": "Rabbi Barclay",
+     "source": "https://www.shortform.com/podcast/episode/candace-owens-2024-03-18-episode-summary-this-is-crazy-rabbi-barclay-attacks-me-for-things-i-never-said"
+    }
+   ]
+  },
+  "note": "Barclay confirmed."
+ },
+ {
+  "claim": "C-5656",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that after the interview Rabbi Barclay told her she could have a private screening of October 7th footage, with a laptop brought to her to show what Hamas did.",
+   "label": "Host Says Rabbi Barclay Offered Her a Private Screening of October 7th Footage",
+   "names": [
+    {
+     "wrong": "Rabbi Barlay",
+     "right": "Rabbi Barclay",
+     "source": "https://www.shortform.com/podcast/episode/candace-owens-2024-03-18-episode-summary-this-is-crazy-rabbi-barclay-attacks-me-for-things-i-never-said"
+    }
+   ]
+  },
+  "note": "Barclay confirmed; 'never happened' not said by host."
+ },
+ {
+  "claim": "C-5657",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "Youssef says another rabbi, called Yosef Mizrachi, gives lectures in Los Angeles and New York in which he does not call him Jesus Christ but JC Penney.",
+   "label": "Youssef Says Rabbi Yosef Mizrachi Calls Jesus JC Penney in Lectures",
+   "names": [
+    {
+     "wrong": "Ysef MRI",
+     "right": "Yosef Mizrachi",
+     "source": "https://en.wikipedia.org/wiki/Yosef_Mizrachi"
+    }
+   ]
+  },
+  "note": "Mizrachi 'JC Penny' clip confirmed online."
+ },
+ {
+  "claim": "C-2240",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "claim": "Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting \"mourning avoidant, emotion phobic culture\"; Bidwell Smith states \"widows are uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\"",
+   "label": "Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk's Hyperfunctioning",
+   "names": [
+    {
+     "wrong": "Dr. Allen Wolft",
+     "right": "Dr. Alan Wolfelt",
+     "source": "https://podcasts.happyscribe.com/candace/and-another-one-charlie-s-text-on-september-9th"
+    }
+   ]
+  },
+  "note": "HappyScribe has 'Wolfelt'; Alan Wolfelt is the Colorado death educator/grief counselor (Center for Loss)."
+ },
+ {
+  "claim": "C-2245",
+  "episode": 66,
+  "decision": "amend",
+  "fix": {
+   "claim": "In an email from a Catholic donor that the host reads, the donor says she had relics of St. Paul II that her mom wanted to give Erika Kirk, arranged for someone to fly them to her, and then gave them to Erika.",
+   "timestamp": "00:18:53",
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Spelled Erika per node; relic line starts ~18:58 in 18:53 block."
+ },
+ {
+  "claim": "C-2247",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-517"
+   ]
+  },
+  "note": "Claim does not refer to Erika."
+ },
+ {
+  "claim": "C-2252",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-518"
+   ]
+  },
+  "note": "Bondi not in claim."
+ },
+ {
+  "claim": "C-8319",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads from the Daily Mail article that Dr. Alan Wolfelt suspects Erika Kirk's insistence on getting up, getting dressed, putting on makeup and fighting for something she believes in daily is a classic emotional survival tactic.",
+   "label": "Daily Mail Article Has Dr. Wolfelt Calling Erika's Getting Dressed and Making Up a Survival Tactic",
+   "names": [
+    {
+     "wrong": "Dr. Allen Wolft",
+     "right": "Dr. Alan Wolfelt",
+     "source": "https://podcasts.happyscribe.com/candace/and-another-one-charlie-s-text-on-september-9th"
+    }
+   ]
+  },
+  "note": "Wolfelt confirmed as above."
+ }
+]

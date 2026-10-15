@@ -1,0 +1,827 @@
+[
+ {
+  "claim": "C-2033",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2034",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2035",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2036",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'In addition to about $5 million, Unificationists provided the personnel... former church members said.' Claim drops 'former church members said'.",
+  "fix": {
+   "claim": "Per the 1997 Washington Post article, former church members said Unificationists provided about $5 million and the personnel that gave the American Freedom Coalition its grassroots strength; the coalition built popular support for Colonel Oliver North during the Iran-Contra probe."
+  }
+ },
+ {
+  "claim": "C-2037",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2038",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name or refer to Menachem Begin (N-402); he is mentioned only later by the host about the Learjet.",
+  "fix": {
+   "mentions": [
+    "N-400",
+    "N-406"
+   ]
+  }
+ },
+ {
+  "claim": "C-2039",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2040",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Headline shown says 'arrested for breaking election law'; the two statutes are read by the host later (01:11:11) from the article, not the headline.",
+  "fix": {
+   "claim": "Per a Korean Herald headline the host shows, Pastor Yoon Bo-seon was arrested on September 9 for breaking election law; the host later reads that he was accused of violating the public official election act and the local education autonomy act."
+  }
+ },
+ {
+  "claim": "C-2041",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Chan Yoon says only that his father was arrested two days after meeting Charlie; 'in Seoul at a conference' is the CBN reporter, 'Build Up Korea' is the host.",
+  "fix": {
+   "claim": "Per CBN News clip, Chan Yoon (son of Pastor Yoon Bo-seon) stated that his father was arrested two days after he met Charlie Kirk; the CBN reporter says Kirk met the pastor in Seoul at a conference."
+  }
+ },
+ {
+  "claim": "C-2042",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Locked us in our room 24 hours a day... weren't allowed visitors' is said; the 'collect calls or pay phone' exception is not in the transcript window.",
+  "fix": {
+   "claim": "Per the recorded phone call with an anonymous former resident, the Liberty Godparent Home locked residents in their rooms 24 hours a day and did not allow visitors when she was a resident circa 1994."
+  }
+ },
+ {
+  "claim": "C-2043",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2044",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says Carey's bootlegging and shooting his brother Garland is 'according to the Washington Post'; Rolling Stone is cited only for the cat story.",
+  "fix": {
+   "claim": "Per host's citation of the Washington Post, Jerry Falwell Sr.'s father Carey Hezekiah was a drunk and bootlegger, and also a smuggler and trafficker, who shot his brother Garland dead following a fight.",
+   "label": "Carey Hezekiah Was a Bootlegger/Smuggler Who Shot His Brother Garland Dead (Per Washington Post)"
+  }
+ },
+ {
+  "claim": "C-2045",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2046",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8126",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8127",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8128",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8129",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8130",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8131",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8132",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'the police chief apparently decided to take measures himself'; claim drops 'apparently' and says the tipster told her this.",
+  "fix": {
+   "claim": "The host says the police chief apparently decided to take measures himself to make sure the vigil went off without a hitch, and that no police officer involvement had been scheduled for the event."
+  }
+ },
+ {
+  "claim": "C-8133",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8134",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8135",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8136",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8137",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Gaza Humanitarian Fund role is only a side note about Kolvet's former boss; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8138",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'around Charlie Kirk, really, as his only client'; claim says Turning Point USA was his only client.",
+  "fix": {
+   "claim": "The host says Andrew Kolvet left Kairos to start his own PR firm built around Charlie Kirk, and she believes Kirk was his only client."
+  }
+ },
+ {
+  "claim": "C-8139",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8140",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8141",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host says 'Erika Frandsen'; her maiden name is Frantzve (confirmed). Claim repeats the mis-transcription.",
+  "fix": {
+   "claim": "The host says that when she and Charlie were dating but not yet married, Erika Frantzve became a Falkirk fellow and they hit the road together working on the Falkirk Center.",
+   "names": [
+    {
+     "wrong": "Erika Frandsen",
+     "right": "Erika Frantzve",
+     "source": "https://www.latintimes.com/who-erika-kirk-charlie-kirks-widow-589415"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8142",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8143",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8144",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8145",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Parenthetical '(spelled Francev in the transcript)' is meta; host says 'Lori Francev', a mis-transcription of Frantzve.",
+  "fix": {
+   "claim": "The host says Lori Frantzve, Erika's mother, established the Everyday Heroes Foundation in Arizona to help children in need, and that the Romanian Angels project spun out of it.",
+   "names": [
+    {
+     "wrong": "Lori Francev",
+     "right": "Lori Frantzve",
+     "source": "https://www.latintimes.com/who-erika-kirk-charlie-kirks-widow-589415"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8146",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8147",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host says 'Colonel Otto Buscher'; confirmed spelling is Otto Busher (matches N-691).",
+  "fix": {
+   "claim": "The host says it is a fact that Romanian Angels worked with Colonel Otto Busher at the time.",
+   "names": [
+    {
+     "wrong": "Otto Buscher",
+     "right": "Otto Busher",
+     "source": "https://factually.co/fact-checks/military/colonel-otto-busher-iii-romania-0ab9ea"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8148",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": true,
+  "note": "Host says 'Colonel Otto Buscher'; confirmed spelling is Busher. Allegation about a third party is context at most.",
+  "fix": {
+   "claim": "The host says Colonel Otto Busher was accused of running a brothel with young children, taking them onto a military base, and that a woman filed in Romania saying children were prostituted to military men.",
+   "relevance": "context",
+   "names": [
+    {
+     "wrong": "Otto Buscher",
+     "right": "Otto Busher",
+     "source": "https://factually.co/fact-checks/military/colonel-otto-busher-iii-romania-0ab9ea"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8149",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim says 'Colonel Buscher'; confirmed spelling is Busher. Host's 'Francev' is Frantzve.",
+  "fix": {
+   "claim": "The host says there are no articles saying Erika Frantzve or Lori Frantzve were involved in the brothel allegation, only that they worked on the Romanian project with Colonel Busher.",
+   "names": [
+    {
+     "wrong": "Otto Buscher",
+     "right": "Otto Busher",
+     "source": "https://factually.co/fact-checks/military/colonel-otto-busher-iii-romania-0ab9ea"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8150",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8151",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Harvest Church allegations are background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-8152",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "A relative's military posting is background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-8153",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8154",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8155",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host says 'Shailene Maxfield'; Saprea founder is Shelaine Maxfield (saprea.org).",
+  "fix": {
+   "claim": "The host says the aircraft with the registration she reads as N888KG is currently owned by Derek and Shelaine Maxfield, who run Saprea, a child abuse charity.",
+   "names": [
+    {
+     "wrong": "Shailene Maxfield",
+     "right": "Shelaine Maxfield",
+     "source": "https://saprea.org/leadership/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8156",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": true,
+  "note": "Host says 'Shailene'; correct is Shelaine Maxfield. Profile-photo shirt is peripheral.",
+  "fix": {
+   "claim": "The host says Derek and Shelaine Maxfield wore Operation Underground shirts in their profile pictures.",
+   "relevance": "context",
+   "names": [
+    {
+     "wrong": "Shailene Maxfield",
+     "right": "Shelaine Maxfield",
+     "source": "https://saprea.org/leadership/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8157",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript spells 'David Frodsham'; the claim's parenthetical '(spelled Frodshem in the transcript)' is wrong.",
+  "fix": {
+   "claim": "The host says a civilian commander stationed at Fort Huachuca, David Frodsham, was charged with running a child sex abuse ring, and calls it true."
+  }
+ },
+ {
+  "claim": "C-8158",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8159",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8160",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8161",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8162",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8163",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8164",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8165",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8166",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8167",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8168",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8169",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8170",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8171",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Farnsworth (family; possibly mis-transcribed, next sentences discuss the Turek family).",
+  "fix": {}
+ },
+ {
+  "claim": "C-8172",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

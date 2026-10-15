@@ -1038,7 +1038,8 @@
         "A-1120.2"
       ],
       "related_claims": [
-        "C-1205"
+        "C-1205",
+        "C-13618"
       ],
       "tags": [],
       "evidence_count": 1,
@@ -1464,8 +1465,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-936",
-      "ref": "N-936",
+      "@id": "N-935",
+      "ref": "N-935",
       "name": "Kyrie Irving",
       "type": "person",
       "description": "First named by the host at 00:42:58 in episode 6. Basketball player the host says was shaken down to donate after he said something she did not like.",
@@ -1963,23 +1964,6 @@
       "related_artifacts": [],
       "related_claims": [
         "C-13654"
-      ],
-      "tags": [],
-      "evidence_count": 0,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-742",
-      "ref": "N-742",
-      "name": "Harley Pasternak",
-      "type": "person",
-      "description": "Person reused: named by the host as one of three investigated people with valve and piping backgrounds.",
-      "related_artifacts": [],
-      "related_claims": [
-        "C-13618"
       ],
       "tags": [],
       "evidence_count": 0,
@@ -3016,7 +3000,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-742"
+        "N-80"
       ]
     },
     {
@@ -3735,7 +3719,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-87",
-        "N-936"
+        "N-935"
       ]
     },
     {

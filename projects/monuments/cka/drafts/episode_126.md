@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 1ddb949014d21abea78d5fe7320464c1e305ba976511e526905ea0ce305924f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-823, N-824, N-11198, N-11200, N-11201
+  - Tip-minted Nodes (supplement_2026-10c): N-822, N-823, N-11198, N-11200, N-11201
   - Hole-minted Nodes (reintro-ep126): N-10755
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8932–C-9006
@@ -837,7 +837,7 @@ First named by the host at 00:27:44 in episode 126 (spelled Corey Comparetor and
 
 ---
 
-**N-823** Helen Comperatore
+**N-822** Helen Comperatore
 
 First named by the host at 00:28:31 in episode 126 (spelled Helen Compator and Helen Gambadoro in the transcript). Widow of Corey Comperatore, interviewed on NewsNation. Aliases: Helen Compator; Helen Gambadoro.
 
@@ -845,7 +845,7 @@ First named by the host at 00:28:31 in episode 126 (spelled Helen Compator and H
 
 ---
 
-**N-824** Eyal Yakoby
+**N-823** Eyal Yakoby
 
 First named by the host at 00:34:37 in episode 126. Account the host says the Time article names and that she regards as paid.
 
@@ -1629,7 +1629,7 @@ Claim: The host says Corey Comperatore's widow Helen still has questions, spoke 
 Transcript Snippet: His widow Helen still has questions and she spoke out and has made it very clear that she is unsatisfied with the investigation.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-823, N-105
+Mentions: N-822, N-105
 Related Nodes: N-10588, N-10724
 Supports: C-4570
 Tags: relevance:context
@@ -1662,7 +1662,7 @@ Claim: In the NewsNation clip, Helen Comperatore says she does not believe there
 Transcript Snippet: I don't believe there was another shooter there, but I believe that he was working with somebody.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-823, N-104
+Mentions: N-822, N-104
 Related Nodes: N-10724, N-10721
 Supports: C-3037
 Tags: relevance:context
@@ -1679,7 +1679,7 @@ Claim: In the NewsNation clip, asked whether it was political, Helen Comperatore
 Transcript Snippet: And this was a political >> Oh, yeah. >> political >> Absolutely. Yep. >> Have you seen evidence to that?
 
 Anchored Artifacts: A-2143.1
-Mentions: N-823
+Mentions: N-822
 Related Nodes: N-10724
 Tags: relevance:context
 Investigative Direction: Obtain the full interview to see whether she names any political motive or actor.
@@ -1695,7 +1695,7 @@ Claim: Asked whether she has seen evidence of an inside plot, Helen Comperatore 
 Transcript Snippet: Oh, I've been told things, but I've had something that happened with me that just afterwards and you're starting to put the pieces together, it just made total sense.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-823
+Mentions: N-822
 Related Nodes: N-10724, N-10721
 Tags: relevance:context
 Investigative Direction: Ask the Comperatore family and the interviewer what she was told and what event she referred to.
@@ -1711,7 +1711,7 @@ Claim: Asked what she would tell President Trump, Helen Comperatore says to not 
 Transcript Snippet: Just to don't forget us and remember what we went through that day. You know, we're still here and we need answers.
 
 Anchored Artifacts: A-2143.1
-Mentions: N-823, N-5
+Mentions: N-822, N-5
 Related Nodes: N-10724
 Tags: relevance:context
 Investigative Direction: Check whether the White House or Secret Service responded to the Comperatore family's request after the interview.
@@ -1793,7 +1793,7 @@ Claim: The host says the Time article names Eyal Yakoby, whom she says she block
 Transcript Snippet: Eyal Yakoby, I blocked him so long ago. It was so obvious that he was a paid stooge. Every single post, like a 300 posts a day.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-824, N-3
+Mentions: N-823, N-3
 Related Nodes: N-10722, N-11017
 Tags: relevance:context
 Investigative Direction: Read the Time article for how Yakoby is described and whether he or his representatives responded or confirmed payment.
@@ -1809,7 +1809,7 @@ Claim: The host says that, regarding the accounts named, 'he kind of had to own 
 Transcript Snippet: And they he kind of he had to own that. These Yeah, they're being paid. We know who they are.
 
 Anchored Artifacts: A-2144.1
-Mentions: N-824
+Mentions: N-823
 Related Nodes: N-10722
 Tags: relevance:context
 Investigative Direction: Read the article for the on-record responses of named accounts about payment.

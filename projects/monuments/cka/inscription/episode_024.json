@@ -1757,8 +1757,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-841",
-      "ref": "N-841",
+      "@id": "N-840",
+      "ref": "N-840",
       "name": "Emma Goldman",
       "type": "person",
       "description": "First named by the host at 00:11:28 in episode 24. Historical anarchist the host credits with bringing feminism to America.",
@@ -1774,8 +1774,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-842",
-      "ref": "N-842",
+      "@id": "N-841",
+      "ref": "N-841",
       "name": "Al Goldstein",
       "type": "person",
       "description": "First named by the host at 00:12:45 in episode 24. Pornography publisher the host quotes on why Jews are in pornography.",
@@ -1791,8 +1791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-843",
-      "ref": "N-843",
+      "@id": "N-842",
+      "ref": "N-842",
       "name": "Samuel Roth",
       "type": "person",
       "description": "First named by the host at 00:12:45 in episode 24. Publisher the host says fought in court for the decision making pornography free speech.",
@@ -1808,8 +1808,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-844",
-      "ref": "N-844",
+      "@id": "N-843",
+      "ref": "N-843",
       "name": "Magnus Hirschfeld",
       "type": "person",
       "description": "First named by the host at 00:13:28 in episode 24. Sexologist the host credits as the origin of transgenderism.",
@@ -1825,8 +1825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-845",
-      "ref": "N-845",
+      "@id": "N-844",
+      "ref": "N-844",
       "name": "Adam Lanza",
       "type": "person",
       "description": "First named by the host at 00:45:55 in episode 24. Sandy Hook shooter the host cites in a pattern theory about standardized testing and government contact.",
@@ -2561,7 +2561,7 @@
       "transcript_snippet": "people like Emma Goldman on feminism. Sigmund Freud, the father of modern psychology.",
       "mentions_person_refs": [
         "N-3",
-        "N-841",
+        "N-840",
         "N-50"
       ]
     },
@@ -2622,7 +2622,7 @@
       "transcript_snippet": "He's the one who notoriously said, \"The only reason that Jews are in pornography is that we think Christ sucks. Catholicism sucks.",
       "mentions_person_refs": [
         "N-3",
-        "N-842"
+        "N-841"
       ]
     },
     {
@@ -2641,7 +2641,7 @@
       "transcript_snippet": "That's because Jewish individuals in America fought for that. Samuel Roth, actually.",
       "mentions_person_refs": [
         "N-3",
-        "N-843"
+        "N-842"
       ]
     },
     {
@@ -2660,7 +2660,7 @@
       "transcript_snippet": "Transgenderism, go back and and try to figure out where that came from. Magnus Hirschfeld was the doctor and the sexologist.",
       "mentions_person_refs": [
         "N-3",
-        "N-844"
+        "N-843"
       ]
     },
     {
@@ -3536,7 +3536,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-845"
+        "N-844"
       ]
     },
     {

@@ -1409,8 +1409,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-784",
-      "ref": "N-784",
+      "@id": "N-783",
+      "ref": "N-783",
       "name": "Mitchell Curtis",
       "type": "person",
       "description": "First named by the host at 00:21:00 in episode 133; she says he is a Pleasant Grove officer and 2025 UVU graduate who found the gun.",
@@ -1428,8 +1428,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-785",
-      "ref": "N-785",
+      "@id": "N-784",
+      "ref": "N-784",
       "name": "Foster Curtis",
       "type": "person",
       "description": "First named by the host at 00:21:00 in episode 133; she says he is Mitchell Curtis's father, a 21-year NCIS veteran.",
@@ -1448,8 +1448,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-786",
-      "ref": "N-786",
+      "@id": "N-785",
+      "ref": "N-785",
       "name": "James Osuna",
       "type": "person",
       "description": "First named by the host at 00:22:40 in episode 133; she says he was Richmond's inspector general for six years before being fired.",
@@ -1465,8 +1465,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-787",
-      "ref": "N-787",
+      "@id": "N-786",
+      "ref": "N-786",
       "name": "John C. Phelan",
       "type": "person",
       "description": "First named by the host at 00:27:47 in episode 133 (transcript spelling 'felon failen'); Secretary of the Navy.",
@@ -2285,7 +2285,7 @@
       "transcript_snippet": "I'm told Mitchell Curtis of Pleasant Grove Police, 2025 graduate, very young buck.",
       "mentions_person_refs": [
         "N-3",
-        "N-784"
+        "N-783"
       ]
     },
     {
@@ -2309,8 +2309,8 @@
       "transcript_snippet": "His father's name is Foster Curtis. Foster lives in Virginia. Foster spent 21 years with NCIS, starting as a special agent",
       "mentions_person_refs": [
         "N-3",
-        "N-784",
-        "N-785"
+        "N-783",
+        "N-784"
       ]
     },
     {
@@ -2354,7 +2354,7 @@
       "transcript_snippet": "Foster Curtis after 21 years decided to leave his position as a division chief and to be Richmond, Virginia's interim inspector general.",
       "mentions_person_refs": [
         "N-3",
-        "N-785"
+        "N-784"
       ]
     },
     {
@@ -2377,8 +2377,8 @@
       "transcript_snippet": "No comments will be made on personnel matters and NDAs were signed.",
       "mentions_person_refs": [
         "N-3",
-        "N-786",
-        "N-785"
+        "N-785",
+        "N-784"
       ]
     },
     {
@@ -2400,8 +2400,8 @@
       "transcript_snippet": "We can now add Mitch and Foster.",
       "mentions_person_refs": [
         "N-3",
-        "N-784",
-        "N-785"
+        "N-783",
+        "N-784"
       ]
     },
     {
@@ -2423,7 +2423,7 @@
       "transcript_snippet": "Trump appointed a guy with literally zero military experience into that position.",
       "mentions_person_refs": [
         "N-3",
-        "N-787",
+        "N-786",
         "N-5"
       ]
     },
@@ -2445,7 +2445,7 @@
       "transcript_snippet": "by hosting this private fundraiser for Trump in Aspen, which featured billionaire guests like Steve Win in attendance.",
       "mentions_person_refs": [
         "N-3",
-        "N-787",
+        "N-786",
         "N-5",
         "N-355"
       ]
@@ -2473,7 +2473,7 @@
         "N-3",
         "N-9",
         "N-5",
-        "N-787"
+        "N-786"
       ]
     },
     {

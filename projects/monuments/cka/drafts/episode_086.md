@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: e1354996fe0dca09feb5fcf6281cba63b17e90513ca05526f293f355bf11437c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-864, N-11257
+  - Tip-minted Nodes (supplement_2026-10d): N-863, N-11257
   - Hole-minted Nodes (reintro-ep086): N-10581, N-10624, N-10711
   - Tip-minted Nodes (reintro-ep086): N-10975, N-11055, N-11068
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10299–C-10353
   - New Nodes Introduced: N-10569, N-10570
-  - Reused Nodes Appearing: N-10085, N-1, N-10573, N-6, N-15, N-22, N-30, N-36, N-197, N-263, N-268, N-332, N-601, N-10000, N-10006, N-10012, N-10014, N-10039, N-10100, N-10110, N-10162, N-10201, N-10300, N-10346, N-10360, N-10389, N-10447, N-10539, N-10621, N-10770, N-10797, N-11054, N-11149, N-420, N-678, N-780, N-10571, N-10572, N-11256
+  - Reused Nodes Appearing: N-10085, N-1, N-10573, N-6, N-15, N-22, N-30, N-36, N-197, N-263, N-268, N-332, N-601, N-10000, N-10006, N-10012, N-10014, N-10039, N-10100, N-10110, N-10162, N-10201, N-10300, N-10346, N-10360, N-10389, N-10447, N-10539, N-10621, N-10770, N-10797, N-11054, N-11149, N-420, N-678, N-779, N-10571, N-10572, N-11256
   - (see registers)
 
 ## I. Meta-Data
@@ -449,7 +449,7 @@ Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14
 
 ---
 
-**N-780** Matt Robinson
+**N-779** Matt Robinson
 
 Matt Robinson; Tyler Robinson's father, expected to testify about the gun.
 
@@ -633,7 +633,7 @@ Tyler Robinson Preliminary Hearing and Motion to Dismiss; reused for the continu
 
 ---
 
-**N-864** Frank Carney
+**N-863** Frank Carney
 
 First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.
 
@@ -1125,7 +1125,7 @@ Claim: The host says she learned that the FBI was on the phone with Justin Strei
 Transcript Snippet: The FBI was on the phone with Justin Streiff, Frank Carney, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.
 
 Anchored Artifacts: 
-Mentions: N-15, N-864
+Mentions: N-15, N-863
 Related Nodes: N-10014, N-11256
 Tags: relevance:core
 Investigative Direction: Identify the host's source for this account and request FBI contact logs with TPUSA leadership for September 20, 2025.
@@ -1382,7 +1382,7 @@ Claim: The host says Matt Robinson is named as a witness and will be compelled t
 Transcript Snippet: They are naming him as a witness and he is going to be forced to answer questions under oath, likely, I would assume about the gun.
 
 Anchored Artifacts: A-1912.1
-Mentions: N-780, N-40
+Mentions: N-779, N-40
 Related Nodes: N-11149
 Tags: relevance:context
 Investigative Direction: Check the witness list and any proffer on what Matt Robinson is expected to testify to.

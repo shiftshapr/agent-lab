@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 4b931eed5aa73d203bec84182448315895321f05165958ce43afd7cf890cdb6e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-920, N-921, N-922, N-923, N-11349, N-11350
+  - Tip-minted Nodes (supplement_2026-10f): N-919, N-920, N-921, N-922, N-11349, N-11350
   - Hole-minted Nodes (reintro-ep094): N-10640
-  - Tip-minted Nodes (reintro-ep094): N-832
+  - Tip-minted Nodes (reintro-ep094): N-831
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-13346–C-13445
   - New Nodes Introduced: N-10623, N-10625, N-10626, N-10627, N-10629, N-10632, N-10633, N-10634, N-10636
@@ -731,7 +731,7 @@ Melania Trump, whose circle the host says fears Loomer.
 
 ---
 
-**N-832** Kathy Nester
+**N-831** Kathy Nester
 
 Kathy Nester, defense attorney quoted on the phone, the gun and the physical evidence.
 
@@ -1012,7 +1012,7 @@ Organization the host and Kathy Nester call the SBI, which holds some physical e
 
 ---
 
-**N-920** Casey DeSantis
+**N-919** Casey DeSantis
 
 First named by the host at 00:47:42 in episode 94. Named by the host as the subject of a Loomer claim that she was making up cancer.
 
@@ -1029,7 +1029,7 @@ Erika Kirk's Friday appearance opening for Trump at the Dream City Church in Pho
 
 ---
 
-**N-921** Roger Stone
+**N-920** Roger Stone
 
 First named by the host at 00:51:13 in episode 94. Named by the host as a Trump friend who she says knows about Loomer's suicidal attempts and accounts.
 
@@ -1037,7 +1037,7 @@ First named by the host at 00:51:13 in episode 94. Named by the host as a Trump 
 
 ---
 
-**N-922** Jessica Tarlov
+**N-921** Jessica Tarlov
 
 First named by the host at 00:34:38 in episode 94. Named in the Truth Social post the host reads as the person Trump says he was watching.
 
@@ -1045,7 +1045,7 @@ First named by the host at 00:34:38 in episode 94. Named in the Truth Social pos
 
 ---
 
-**N-923** Jack Dorsey
+**N-922** Jack Dorsey
 
 First named by the host at 00:36:39 in episode 94. Named by the host as the head of Twitter when Loomer lost her checkmark.
 
@@ -1853,7 +1853,7 @@ Claim: Kathy Nester says the state has indicated it may call individuals uniquel
 Transcript Snippet: the state's indicated they may call individuals you um uniquely connected to my client.
 
 Anchored Artifacts: A-1994.2
-Mentions: N-832, N-40
+Mentions: N-831, N-40
 Related Nodes: N-10623, N-11149
 Tags: relevance:core
 Investigative Direction: Check the state's witness list for the probable cause hearing once filed.
@@ -1901,7 +1901,7 @@ Claim: Kathy Nester says the defense went to examine physical evidence this week
 Transcript Snippet: We went to examine physical evidence this past week um this week. We it took us 6 hours. We did finish the what the SBI has.
 
 Anchored Artifacts: A-1994.2
-Mentions: N-832
+Mentions: N-831
 Related Nodes: N-11349, N-10110
 Tags: relevance:core
 Investigative Direction: Check the docket or any inspection log for the date and scope of the defense's physical evidence review.
@@ -2270,7 +2270,7 @@ Claim: The Truth Social post the host reads says Trump is watching one of the le
 Transcript Snippet: I'm watching one of the least attractive and talented people on all of television, Jessica Tarlov.
 
 Anchored Artifacts: A-1995.1
-Mentions: N-5, N-922
+Mentions: N-5, N-921
 Related Nodes: N-10587
 Tags: relevance:context
 Investigative Direction: Verify the post text on Truth Social.
@@ -2286,7 +2286,7 @@ Claim: The post the host reads says CNN had Trump at 100 percent saying they nev
 Transcript Snippet: CNN had me at 100% saying they never saw that before. Get her off air, she is bad for our country.
 
 Anchored Artifacts: A-1995.1
-Mentions: N-5, N-922
+Mentions: N-5, N-921
 Related Nodes: N-10587
 Tags: relevance:context
 Investigative Direction: Check the CNN poll Trump refers to.
@@ -2350,7 +2350,7 @@ Claim: The host says she met Laura Loomer years ago on the same plane on the way
 Transcript Snippet: I was on the way to do one of my first events, the David Horowitz Center, and we happened to be on the same plane. She was crying because Twitter had removed her checkmark. This was back when Jack Dorsey had it.
 
 Anchored Artifacts: 
-Mentions: N-3, N-60, N-195, N-923
+Mentions: N-3, N-60, N-195, N-922
 Tags: relevance:context
 Investigative Direction: Check the date of the event and of Loomer's loss of verification to place the encounter.
 
@@ -2675,7 +2675,7 @@ Claim: The host says Loomer, when DeSantis was running, said things like Casey D
 Transcript Snippet: Like she did when DeSantis was running, and Trump and his campaign found it to be quite useful when she said things like Casey DeSantis is making up cancer.
 
 Anchored Artifacts: 
-Mentions: N-60, N-5, N-920
+Mentions: N-60, N-5, N-919
 Related Nodes: N-10590
 Tags: relevance:context
 Investigative Direction: Find Loomer's posts about Casey DeSantis's illness during the 2023-24 primary and any evidence on the Trump campaign's use of them.
@@ -2819,7 +2819,7 @@ Claim: The host says Trump should speak to his friend Roger Stone about Loomer's
 Transcript Snippet: You should speak to your friend Roger Stone about uh, her suicidal attempts and the things that she says and the things that she does and the accounts that she operates behind the scenes.
 
 Anchored Artifacts: 
-Mentions: N-60, N-5, N-921
+Mentions: N-60, N-5, N-920
 Related Nodes: N-10628
 Tags: relevance:context
 Investigative Direction: Ask Stone directly; the host gives no evidence for the accounts allegedly operated behind the scenes.

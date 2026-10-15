@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: b0fbc9640382faeba544f3948f17586f7fd4a74b047aceb20faed50921bccc36
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-926, N-927, N-928, N-929, N-11359, N-11360
+  - Tip-minted Nodes (supplement_2026-10f): N-925, N-926, N-927, N-928, N-11359, N-11360
   - Tip-minted Nodes (reintro-ep131): N-11204
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-13120–C-13192
   - Hole-minted Nodes (wave3): N-513
-  - Reused Nodes Appearing: N-10748, N-14, N-22, N-38, N-46, N-50, N-82, N-155, N-280, N-332, N-392, N-556, N-796, N-797, N-872, N-10003, N-10027, N-10033, N-10070, N-10211, N-10268, N-10276, N-10345, N-10385, N-10386, N-10405, N-10416, N-10480, N-10712, N-10741, N-10743, N-10745, N-10899, N-10960, N-11014, N-11119, N-11129, N-11130, N-11149, N-11153, N-11156
+  - Reused Nodes Appearing: N-10748, N-14, N-22, N-38, N-46, N-50, N-82, N-155, N-280, N-332, N-392, N-556, N-795, N-796, N-871, N-10003, N-10027, N-10033, N-10070, N-10211, N-10268, N-10276, N-10345, N-10385, N-10386, N-10405, N-10416, N-10480, N-10712, N-10741, N-10743, N-10745, N-10899, N-10960, N-11014, N-11119, N-11129, N-11130, N-11149, N-11153, N-11156
   - (see registers)
 
 ## 2. Executive Summary
@@ -478,7 +478,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-796** Leo Frank
+**N-795** Leo Frank
 
 Reused node cited by new claims in this episode.
 
@@ -486,7 +486,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-797** Mary Phagan
+**N-796** Mary Phagan
 
 Reused node cited by new claims in this episode.
 
@@ -494,7 +494,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-872** Justin Bieber
+**N-871** Justin Bieber
 
 Reused node cited by new claims in this episode.
 
@@ -718,7 +718,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-926** Gary Javitch
+**N-925** Gary Javitch
 
 First named by the host at 00:20:02 in episode 131 (spelled Jabitch and Jabach in the transcript; the host's spelling is unverified). Omaha-based man the host says was allegedly with Ben Shapiro on September 10, 2025.
 
@@ -726,7 +726,7 @@ First named by the host at 00:20:02 in episode 131 (spelled Jabitch and Jabach i
 
 ---
 
-**N-927** Stephen "Twitch" Boss
+**N-926** Stephen "Twitch" Boss
 
 First named by the host at 00:38:55 in episode 131 as Twitch. Dancer and DJ whose 2022 death the host compares to the Kirk case.
 
@@ -734,7 +734,7 @@ First named by the host at 00:38:55 in episode 131 as Twitch. Dancer and DJ whos
 
 ---
 
-**N-928** Allison Holker
+**N-927** Allison Holker
 
 First named by the host at 00:40:01 in episode 131. Widow of Stephen Boss, discussed in the host's Twitch comparison.
 
@@ -742,7 +742,7 @@ First named by the host at 00:40:01 in episode 131. Widow of Stephen Boss, discu
 
 ---
 
-**N-929** Ellen DeGeneres
+**N-928** Ellen DeGeneres
 
 First named by the host at 00:38:55 in episode 131. Talk show host on whose show Twitch worked.
 
@@ -1191,7 +1191,7 @@ Claim: The host says Justin Bieber has simplified his life after breaking free f
 Transcript Snippet: He's simplified things after breaking free from contracts that were costing him his soul.
 
 Anchored Artifacts: 
-Mentions: N-3, N-872
+Mentions: N-3, N-871
 Tags: relevance:tangential
 Investigative Direction: Look for public reporting on any change in Bieber's management or recording contracts.
 
@@ -1652,7 +1652,7 @@ Claim: The host says she has a strong guess as to who the unidentified woman wit
 Transcript Snippet: we have a strong guess as to who that woman could be, but we'd rather not venture a guess unnecessarily.
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-97, N-926
+Mentions: N-3, N-97, N-925
 Related Nodes: N-10748
 Tags: relevance:core
 Investigative Direction: Ask the host's source for the woman's identity; this can be tested only through that source.
@@ -1684,7 +1684,7 @@ Claim: The host says Gary (transcribed Jabitch; spelling unverified) is in his m
 Transcript Snippet: he's older in his 70s mid-70s in Omaha, Nebraska of all places, right?
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-926
+Mentions: N-3, N-925
 Related Nodes: N-10748, N-10211, N-10276
 Tags: relevance:core
 Investigative Direction: Check public biographies, Omaha Jewish community publications and university records for the person's age, residence and degree.
@@ -1700,7 +1700,7 @@ Claim: The host says Gary Javitch has been the executive director of B'nai B'rit
 Transcript Snippet: he is and he's has been the executive director of B'nai B'rith International for years.
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-926
+Mentions: N-3, N-925
 Related Nodes: N-10748, N-11130
 Tags: relevance:core
 Investigative Direction: Check B'nai B'rith International's officer and board listings; the host later describes board roles, so the exact title needs checking.
@@ -1733,7 +1733,7 @@ Claim: The host says B'nai B'rith spun into the Anti-Defamation League when Leo 
 Transcript Snippet: B'nai B'rith then spun into the Anti-Defamation League.
 
 Anchored Artifacts: 
-Mentions: N-3, N-796, N-797
+Mentions: N-3, N-795, N-796
 Related Nodes: N-11130, N-11153, N-11156
 Supports: C-7838, C-7841
 Tags: relevance:tangential
@@ -1750,7 +1750,7 @@ Claim: The host says Leo Frank was convicted by a jury that consisted of Jews, a
 Transcript Snippet: he was also convicted by a jury that consisted of Jews.
 
 Anchored Artifacts: 
-Mentions: N-3, N-796
+Mentions: N-3, N-795
 Related Nodes: N-11153, N-11156
 Tags: relevance:tangential
 Investigative Direction: Consult the 1913 jury list and historical scholarship on the Frank trial; the host's statement about the jury can be checked against it.
@@ -1766,7 +1766,7 @@ Claim: The host says Gary Javitch served on the B'nai B'rith International board
 Transcript Snippet: He received the inaugural President's Award in 2019 for advancing the organization's mission.
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-926
+Mentions: N-3, N-925
 Related Nodes: N-10748, N-11130
 Tags: relevance:core
 Investigative Direction: Check B'nai B'rith International annual reports and award announcements for 2011 to 2019.
@@ -1782,7 +1782,7 @@ Claim: The host says a 2022 report identified Gary Javitch as the director of th
 Transcript Snippet: A 2022 report identified him as the director of the local B'nai B'rith chapter in Omaha.
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-926
+Mentions: N-3, N-925
 Related Nodes: N-10748, N-11130, N-11359
 Tags: relevance:core
 Investigative Direction: Locate the 2022 report and the Chabad Lubavitch of Nebraska board listing.
@@ -1814,7 +1814,7 @@ Claim: The host says she does not know the extent or reason of Ben Shapiro's tie
 Transcript Snippet: I I know he has some ties to Omaha. I'm not really clear to what extent or why.
 
 Anchored Artifacts: A-2524.2
-Mentions: N-3, N-97, N-926
+Mentions: N-3, N-97, N-925
 Related Nodes: N-10748
 Tags: relevance:core
 Investigative Direction: Look up Jewish Federation of Omaha event and donor listings for the named people.
@@ -2067,7 +2067,7 @@ Claim: The host says Twitch (Stephen Boss) was a DJ on Ellen DeGeneres' show who
 Transcript Snippet: She had a DJ named Twitch that worked on her show, and he committed suicide, allegedly, um in a hotel room.
 
 Anchored Artifacts: A-2188.1
-Mentions: N-3, N-927, N-929
+Mentions: N-3, N-926, N-928
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on Boss's death in December 2022.
 
@@ -2082,7 +2082,7 @@ Claim: The host says Twitch died at a motel less than a mile from his home from 
 Transcript Snippet: He checked checked in on a Monday. The body was discovered on a Tuesday when they entered his room.
 
 Anchored Artifacts: A-2188.1
-Mentions: N-3, N-927
+Mentions: N-3, N-926
 Tags: relevance:tangential
 Investigative Direction: Check the LAPD and coroner records for the date and the autopsy findings.
 
@@ -2097,7 +2097,7 @@ Claim: The host says TMZ spoke to motel staff who said Twitch did not appear dis
 Transcript Snippet: TMZ went around and spoke to motel staffers who said that he didn't appear to be in any sort of distress.
 
 Anchored Artifacts: A-2188.1
-Mentions: N-3, N-927
+Mentions: N-3, N-926
 Tags: relevance:tangential
 Investigative Direction: Review the TMZ report and the coroner's and police statements.
 
@@ -2112,7 +2112,7 @@ Claim: The host says Twitch died without a will, that Allison Holker filed a pet
 Transcript Snippet: he also died without a will. Uh, she filed a petition for half of his estate in April.
 
 Anchored Artifacts: 
-Mentions: N-3, N-927, N-928
+Mentions: N-3, N-926, N-927
 Tags: relevance:tangential
 Investigative Direction: Check the Los Angeles Superior Court probate docket.
 
@@ -2143,7 +2143,7 @@ Claim: In the CBS clip, a Twitch family member says they were told they needed t
 Transcript Snippet: Well, somebody in the family has sold a story to a magazine.
 
 Anchored Artifacts: A-2186.1
-Mentions: N-3, N-927
+Mentions: N-3, N-926
 Related Nodes: N-11204
 Tags: relevance:tangential
 Investigative Direction: Review the full CBS segment.
@@ -2159,7 +2159,7 @@ Claim: The host says Allison Holker released a book in February 2024 saying Twit
 Transcript Snippet: She did release a book uh February of 2024, a short time after.
 
 Anchored Artifacts: 
-Mentions: N-3, N-927, N-928
+Mentions: N-3, N-926, N-927
 Tags: relevance:tangential
 Investigative Direction: Check the book's publication date and the family's public statements.
 

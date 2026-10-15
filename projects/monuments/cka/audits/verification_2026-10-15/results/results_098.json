@@ -1,0 +1,836 @@
+[
+ {
+  "claim": "C-5631",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5632",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Phonetic name: ex-IDF spokesman on Piers Morgan debate with Youssef is Jonathan Conricus (transcript 'Joseph Cornis').",
+  "fix": {
+   "claim": "Youssef says Piers Morgan brought on Jonathan Conricus, described as an ex-IDF spokesman, who said there was no famine in Gaza and pointed to videos of fat Palestinians.",
+   "label": "Youssef Says Jonathan Conricus, an Ex-IDF Spokesman, Said on Piers Morgan That There Was No Famine in Gaza",
+   "names": [
+    {
+     "wrong": "Joseph Cornis",
+     "right": "Jonathan Conricus",
+     "source": "https://www.tiktok.com/@piersmorganuncensored/video/7515095174888951042"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-5633",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5634",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5635",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5636",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5637",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5638",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5639",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5640",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Speaker of 'my red line was the Charlie Kirk assassination... BB press tour' is ambiguous between host and Youssef; treated as host.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5641",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label says decline is intentional; that was the guest ('that's intentional'). Host says 'testosterone crisis... because of the stuff they're putting in our water... food'.",
+  "fix": {
+   "label": "Host Says a Testosterone Crisis Is Due to What Is Put in the Water and Food"
+  }
+ },
+ {
+  "claim": "C-5642",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5643",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5644",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5645",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5646",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5647",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5648",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5649",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5650",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5651",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5652",
+  "episode": 65,
+  "attribution": "error",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'>> Also, actually, there was Hollywood Babylon, too... they can change what's in your book' follows Youssef's 1992 line as a new turn; appears to be the host, not Youssef. Gag order not stated for Hollywood Babylon.",
+  "fix": {
+   "claim": "The host says there was also Hollywood Babylon, that 'they then changed it', and that they are obsessed with publishing rights because if they own your book, when you die, they can change what is in it.",
+   "label": "Host Says Hollywood Babylon Was Also Changed and Publishing Rights Let Owners Alter Books",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-5653",
+  "episode": 65,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Same turn as 'Also, actually, there was Hollywood Babylon' ('But Victor Achovsky also was on camera...'); appears to be the host, not Youssef.",
+  "fix": {
+   "claim": "The host says Victor Ostrovsky was also on camera speaking about how Jeffrey Epstein worked for them (Mossad).",
+   "label": "Host Says Victor Ostrovsky Said on Camera That Epstein Worked for Mossad",
+   "mentions": [
+    "N-3",
+    "N-502",
+    "N-9"
+   ]
+  }
+ },
+ {
+  "claim": "C-5654",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Name is Rabbi Michael Barclay (episode 'Rabbi Barclay Attacks Me for Things I Never Said'); transcript 'Barlay'.",
+  "fix": {
+   "claim": "The host says her very last, or second-to-last, Daily Wire episode was with Rabbi Barclay, and Youssef says that is what broke them.",
+   "label": "Host Says Her Last or Second-to-Last Daily Wire Episode Was the Interview With Rabbi Barclay",
+   "names": [
+    {
+     "wrong": "Rabbi Barlay",
+     "right": "Rabbi Barclay",
+     "source": "https://www.shortform.com/podcast/episode/candace-owens-2024-03-18-episode-summary-this-is-crazy-rabbi-barclay-attacks-me-for-things-i-never-said"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-5655",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Name is Rabbi Michael Barclay (episode 'Rabbi Barclay Attacks Me for Things I Never Said'); transcript 'Barlay'.",
+  "fix": {
+   "claim": "The host says that when she asked Rabbi Barclay for a definition of antisemitism, he answered that it is whatever we want.",
+   "label": "Host Says Rabbi Barclay Answered a Request for a Definition of Antisemitism With Whatever We Want",
+   "names": [
+    {
+     "wrong": "Rabbi Barlay",
+     "right": "Rabbi Barclay",
+     "source": "https://www.shortform.com/podcast/episode/candace-owens-2024-03-18-episode-summary-this-is-crazy-rabbi-barclay-attacks-me-for-things-i-never-said"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-5656",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Name Barclay. Also 'which never happened' is added; host does not say that (a participant remarks 'we never saw that screening').",
+  "fix": {
+   "claim": "The host says that after the interview Rabbi Barclay told her she could have a private screening of October 7th footage, with a laptop brought to her to show what Hamas did.",
+   "label": "Host Says Rabbi Barclay Offered Her a Private Screening of October 7th Footage",
+   "names": [
+    {
+     "wrong": "Rabbi Barlay",
+     "right": "Rabbi Barclay",
+     "source": "https://www.shortform.com/podcast/episode/candace-owens-2024-03-18-episode-summary-this-is-crazy-rabbi-barclay-attacks-me-for-things-i-never-said"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-5657",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Rabbi 'Ysef MRI' is Rabbi Yosef Mizrachi (known for 'JC Penney' remark).",
+  "fix": {
+   "claim": "Youssef says another rabbi, called Yosef Mizrachi, gives lectures in Los Angeles and New York in which he does not call him Jesus Christ but JC Penney.",
+   "label": "Youssef Says Rabbi Yosef Mizrachi Calls Jesus JC Penney in Lectures",
+   "names": [
+    {
+     "wrong": "Ysef MRI",
+     "right": "Yosef Mizrachi",
+     "source": "https://en.wikipedia.org/wiki/Yosef_Mizrachi"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-5658",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5659",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5660",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5661",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5662",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5663",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5664",
+  "episode": 65,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2239",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2240",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Dr. Allen Wolft', Colorado death educator and grief counselor, is Dr. Alan Wolfelt.",
+  "fix": {
+   "claim": "Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting \"mourning avoidant, emotion phobic culture\"; Bidwell Smith states \"widows are uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\"",
+   "label": "Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk's Hyperfunctioning",
+   "names": [
+    {
+     "wrong": "Dr. Allen Wolft",
+     "right": "Dr. Alan Wolfelt",
+     "source": "https://podcasts.happyscribe.com/candace/and-another-one-charlie-s-text-on-september-9th"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2241",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2242",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2243",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Stacy Sheridan as the shoulder-tapper is the host's identification (~19:30), not in the donor's email; donor says only 'a woman... an assistant'.",
+  "fix": {
+   "claim": "A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. The host says the woman who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica was Stacy Sheridan."
+  }
+ },
+ {
+  "claim": "C-2244",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2245",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Relic detail is at ~18:55 (claim ts ~85s earlier). 'From Chicago' and 'at mass' not stated; email says someone flew relics to her, then she gave them. Father Blank not in claim.",
+  "fix": {
+   "claim": "In an email from a Catholic donor that the host reads, the donor says she had relics of St. Paul II that her mom wanted to give Erica Kirk, arranged for someone to fly them to her, and then gave them to Erica.",
+   "timestamp": "00:18:45",
+   "mentions": [
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2246",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2247",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name or refer to Erika Kirk (N-2); only TPUSA 'Blank'.",
+  "fix": {
+   "mentions": [
+    "N-517"
+   ]
+  }
+ },
+ {
+  "claim": "C-2248",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2249",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2250",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2251",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2252",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Pam Bondi (N-85) is not named in the claim; she appears only in the host's later rant.",
+  "fix": {
+   "mentions": [
+    "N-518"
+   ]
+  }
+ },
+ {
+  "claim": "C-8317",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8318",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8319",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'Dr. Wolf'/'Allen Wolft' is Dr. Alan Wolfelt.",
+  "fix": {
+   "claim": "The host reads from the Daily Mail article that Dr. Alan Wolfelt suspects Erika Kirk's insistence on getting up, getting dressed, putting on makeup and fighting for something she believes in daily is a classic emotional survival tactic.",
+   "label": "Daily Mail Article Has Dr. Wolfelt Calling Erika's Getting Dressed and Making Up a Survival Tactic",
+   "names": [
+    {
+     "wrong": "Dr. Allen Wolft",
+     "right": "Dr. Alan Wolfelt",
+     "source": "https://podcasts.happyscribe.com/candace/and-another-one-charlie-s-text-on-september-9th"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8320",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Vanessa Bryant's lawsuits are comparison material, not about the Kirk case.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8321",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Vanessa Bryant's interview timing is comparison material, not about the Kirk case.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8322",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8323",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8324",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Donor-email detail bears on TPUSA donor-targeting theory, not the assassination or investigation itself; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-8325",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8326",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Donor-email detail bears on TPUSA donor-targeting theory, not the assassination or investigation itself; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-8327",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Donor-email detail bears on TPUSA donor-targeting theory, not the assassination or investigation itself; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-8328",
+  "episode": 66,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Donor-email detail bears on TPUSA donor-targeting theory, not the assassination or investigation itself; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ }
+]

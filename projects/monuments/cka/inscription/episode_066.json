@@ -351,7 +351,7 @@
       "@type": "Person",
       "@id": "N-514",
       "ref": "N-514",
-      "name": "Dr. Allen Wolft",
+      "name": "Dr. Alan Wolfelt",
       "type": "person",
       "description": "Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erica Kirk to \"mourning avoidant, emotion phobic culture.\"",
       "related_artifacts": [
@@ -892,9 +892,9 @@
       "@type": "Person",
       "@id": "N-725",
       "ref": "N-725",
-      "name": "Rabbi Barlay",
+      "name": "Rabbi Michael Barclay",
       "type": "person",
-      "description": "Rabbi Barlay (the transcript spells him Rabbi Barklay); the host says her debate with him and his interview shaped her view of Zionism.",
+      "description": "Rabbi Barclay (the transcript spells him Rabbi Barklay); the host says her debate with him and his interview shaped her view of Zionism.",
       "related_artifacts": [],
       "related_claims": [
         "C-8375"
@@ -1242,8 +1242,8 @@
       "@type": "Claim",
       "@id": "C-2240",
       "ref": "C-2240",
-      "label": "Daily Mail article quotes Dr. Allen Wolft and Bidwell Smith defending Kirk's hyperfunctioning",
-      "claim": "Dr. Allen Wolft characterizes criticism of Kirk as reflecting \"mourning avoidant, emotion phobic culture\"; Bidwell Smith states \"widows are uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\"",
+      "label": "Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk's Hyperfunctioning",
+      "claim": "Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting \"mourning avoidant, emotion phobic culture\"; Bidwell Smith states \"widows are uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\"",
       "anchored_artifacts": [
         "A-1704.1"
       ],
@@ -1299,7 +1299,7 @@
       "@id": "C-2243",
       "ref": "C-2243",
       "label": "Catholic donor reports interaction with Father Blank and Stacy Sheridan",
-      "claim": "A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. Stacy Sheridan was the person who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica.",
+      "claim": "A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. The host says the woman who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica was Stacy Sheridan.",
       "anchored_artifacts": [
         "A-1706.1"
       ],
@@ -1339,17 +1339,16 @@
       "@id": "C-2245",
       "ref": "C-2245",
       "label": "Donor Tells Host She Gave Erica Kirk a Relic of St. Paul II",
-      "claim": "In an email from a Catholic donor that the host reads, the donor says she arranged to fly a relic of St. Paul II from Chicago and personally delivered it to Erica Kirk at mass.",
+      "claim": "In an email from a Catholic donor that the host reads, the donor says she had relics of St. Paul II that her mom wanted to give Erika Kirk, arranged for someone to fly them to her, and then gave them to Erika.",
       "anchored_artifacts": [
         "A-1706.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:17:30",
+      "claim_timestamp": "00:18:53",
       "investigative_direction": "Cross-check donor's account with Erica Kirk's public acknowledgment of receiving relics.",
       "mentions_person_refs": [
-        "N-2",
-        "N-516"
+        "N-2"
       ]
     },
     {
@@ -1388,7 +1387,6 @@
       "claim_timestamp": "00:24:55",
       "investigative_direction": "Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA \"Blank\" staffer identity.",
       "mentions_person_refs": [
-        "N-2",
         "N-517"
       ]
     },
@@ -1476,7 +1474,6 @@
       "claim_timestamp": "00:47:00",
       "investigative_direction": "Confirm the underlying church affiliation and ICE relationship; verify the federal charges basis for Don Lemon's subsequent arrest.",
       "mentions_person_refs": [
-        "N-85",
         "N-518"
       ]
     },
@@ -1528,8 +1525,8 @@
       "@type": "Claim",
       "@id": "C-8319",
       "ref": "C-8319",
-      "label": "Daily Mail Article Has Dr. Wolft Calling Erika's Getting Dressed and Making Up a Survival Tactic",
-      "claim": "The host reads from the Daily Mail article that Dr. Allen Wolft suspects Erika Kirk's insistence on getting up, getting dressed, putting on makeup and fighting for something she believes in daily is a classic emotional survival tactic.",
+      "label": "Daily Mail Article Has Dr. Wolfelt Calling Erika's Getting Dressed and Making Up a Survival Tactic",
+      "claim": "The host reads from the Daily Mail article that Dr. Alan Wolfelt suspects Erika Kirk's insistence on getting up, getting dressed, putting on makeup and fighting for something she believes in daily is a classic emotional survival tactic.",
       "anchored_artifacts": [
         "A-1704.1"
       ],
@@ -1559,7 +1556,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:06:32",
       "investigative_direction": "Check court dockets for Vanessa Bryant's suits over the crash photos and against the helicopter operator to confirm the host's description of her litigation.",
@@ -1582,7 +1579,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:08:08",
       "investigative_direction": "Check the date and venue of Vanessa Bryant's first post-crash interview and the Hall of Fame induction coverage against the host's account.",
@@ -1656,7 +1653,7 @@
         "N-10467"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:13:09",
       "investigative_direction": "Check the date of the original email in the host's inbox; compare with the host's later remark at 00:20:53 that she sent her reply back in October.",
@@ -1703,7 +1700,7 @@
         "N-10467"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:14:05",
       "investigative_direction": "Check the donor's donation or event history with TPUSA; the host later says the donor is extraordinarily wealthy (00:21:52).",
@@ -1725,7 +1722,7 @@
         "N-11183"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:14:57",
       "investigative_direction": "Identify the Alex Clark interview the host played and the specific statements the donor found untruthful; compare with TPUSA's account.",
@@ -1748,7 +1745,7 @@
         "N-10002"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:14:57",
       "investigative_direction": "Check the memorial seating chart and credential records for the third-row sections and who sat in them.",

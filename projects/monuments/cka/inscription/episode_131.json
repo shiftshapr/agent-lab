@@ -966,8 +966,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-796",
-      "ref": "N-796",
+      "@id": "N-795",
+      "ref": "N-795",
       "name": "Leo Frank",
       "type": "person",
       "description": "Reused node cited by new claims in this episode.",
@@ -984,8 +984,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-797",
-      "ref": "N-797",
+      "@id": "N-796",
+      "ref": "N-796",
       "name": "Mary Phagan",
       "type": "person",
       "description": "Reused node cited by new claims in this episode.",
@@ -1001,8 +1001,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-872",
-      "ref": "N-872",
+      "@id": "N-871",
+      "ref": "N-871",
       "name": "Justin Bieber",
       "type": "person",
       "description": "Reused node cited by new claims in this episode.",
@@ -1496,8 +1496,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-926",
-      "ref": "N-926",
+      "@id": "N-925",
+      "ref": "N-925",
       "name": "Gary Javitch",
       "type": "person",
       "description": "First named by the host at 00:20:02 in episode 131 (spelled Jabitch and Jabach in the transcript; the host's spelling is unverified). Omaha-based man the host says was allegedly with Ben Shapiro on September 10, 2025.",
@@ -1518,8 +1518,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-927",
-      "ref": "N-927",
+      "@id": "N-926",
+      "ref": "N-926",
       "name": "Stephen \"Twitch\" Boss",
       "type": "person",
       "description": "First named by the host at 00:38:55 in episode 131 as Twitch. Dancer and DJ whose 2022 death the host compares to the Kirk case.",
@@ -1540,8 +1540,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-928",
-      "ref": "N-928",
+      "@id": "N-927",
+      "ref": "N-927",
       "name": "Allison Holker",
       "type": "person",
       "description": "First named by the host at 00:40:01 in episode 131. Widow of Stephen Boss, discussed in the host's Twitch comparison.",
@@ -1558,8 +1558,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-929",
-      "ref": "N-929",
+      "@id": "N-928",
+      "ref": "N-928",
       "name": "Ellen DeGeneres",
       "type": "person",
       "description": "First named by the host at 00:38:55 in episode 131. Talk show host on whose show Twitch worked.",
@@ -2154,7 +2154,7 @@
       "transcript_snippet": "He's simplified things after breaking free from contracts that were costing him his soul.",
       "mentions_person_refs": [
         "N-3",
-        "N-872"
+        "N-871"
       ]
     },
     {
@@ -2824,7 +2824,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-926"
+        "N-925"
       ]
     },
     {
@@ -2872,7 +2872,7 @@
       "transcript_snippet": "he's older in his 70s mid-70s in Omaha, Nebraska of all places, right?",
       "mentions_person_refs": [
         "N-3",
-        "N-926"
+        "N-925"
       ]
     },
     {
@@ -2896,7 +2896,7 @@
       "transcript_snippet": "he is and he's has been the executive director of B'nai B'rith International for years.",
       "mentions_person_refs": [
         "N-3",
-        "N-926"
+        "N-925"
       ]
     },
     {
@@ -2948,8 +2948,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-796",
-        "N-797"
+        "N-795",
+        "N-796"
       ]
     },
     {
@@ -2971,7 +2971,7 @@
       "transcript_snippet": "he was also convicted by a jury that consisted of Jews.",
       "mentions_person_refs": [
         "N-3",
-        "N-796"
+        "N-795"
       ]
     },
     {
@@ -2995,7 +2995,7 @@
       "transcript_snippet": "He received the inaugural President's Award in 2019 for advancing the organization's mission.",
       "mentions_person_refs": [
         "N-3",
-        "N-926"
+        "N-925"
       ]
     },
     {
@@ -3020,7 +3020,7 @@
       "transcript_snippet": "A 2022 report identified him as the director of the local B'nai B'rith chapter in Omaha.",
       "mentions_person_refs": [
         "N-3",
-        "N-926"
+        "N-925"
       ]
     },
     {
@@ -3065,7 +3065,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-926"
+        "N-925"
       ]
     },
     {
@@ -3412,8 +3412,8 @@
       "transcript_snippet": "She had a DJ named Twitch that worked on her show, and he committed suicide, allegedly, um in a hotel room.",
       "mentions_person_refs": [
         "N-3",
-        "N-927",
-        "N-929"
+        "N-926",
+        "N-928"
       ]
     },
     {
@@ -3434,7 +3434,7 @@
       "transcript_snippet": "He checked checked in on a Monday. The body was discovered on a Tuesday when they entered his room.",
       "mentions_person_refs": [
         "N-3",
-        "N-927"
+        "N-926"
       ]
     },
     {
@@ -3455,7 +3455,7 @@
       "transcript_snippet": "TMZ went around and spoke to motel staffers who said that he didn't appear to be in any sort of distress.",
       "mentions_person_refs": [
         "N-3",
-        "N-927"
+        "N-926"
       ]
     },
     {
@@ -3474,8 +3474,8 @@
       "transcript_snippet": "he also died without a will. Uh, she filed a petition for half of his estate in April.",
       "mentions_person_refs": [
         "N-3",
-        "N-927",
-        "N-928"
+        "N-926",
+        "N-927"
       ]
     },
     {
@@ -3520,7 +3520,7 @@
       "transcript_snippet": "Well, somebody in the family has sold a story to a magazine.",
       "mentions_person_refs": [
         "N-3",
-        "N-927"
+        "N-926"
       ]
     },
     {
@@ -3539,8 +3539,8 @@
       "transcript_snippet": "She did release a book uh February of 2024, a short time after.",
       "mentions_person_refs": [
         "N-3",
-        "N-927",
-        "N-928"
+        "N-926",
+        "N-927"
       ]
     },
     {

@@ -161,7 +161,7 @@
           "@type": "Artifact",
           "@id": "A-1680.1",
           "ref": "A-1680.1",
-          "description": "Phone threat message targeting TPUSA, previously displayed in an earlier episode; now identified by host and attributed via audio match to Lorie Cardardoza Moore.",
+          "description": "Phone threat message targeting TPUSA, previously displayed in an earlier episode; now identified by host and attributed via audio match to Laurie Cardoza-Moore.",
           "related_claims": [
             "C-2203"
           ],
@@ -181,13 +181,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1681",
       "family_ref": "A-1681",
-      "bundle_name": "Lorie Cardardoza Moore Audio Rant Bundle",
+      "bundle_name": "Laurie Cardoza-Moore Audio Rant Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1681.1",
           "ref": "A-1681.1",
-          "description": "Audio recording of Lorie Cardardoza Moore ranting in her car about Tucker Carlson's speech at a TPUSA Tampa conference, Michelle Bachmann's five-minute pro-Israel segment, audience booing and 10% walkout, and Charlie Kirk's failure to defend Israel or condemn Tucker.",
+          "description": "Audio recording of Laurie Cardoza-Moore ranting in her car about Tucker Carlson's speech at a TPUSA Tampa conference, Michele Bachmann's five-minute pro-Israel segment, audience booing and 10% walkout, and Charlie Kirk's failure to defend Israel or condemn Tucker.",
           "related_claims": [
             "C-2203"
           ],
@@ -213,7 +213,7 @@
           "@type": "Artifact",
           "@id": "A-1682.1",
           "ref": "A-1682.1",
-          "description": "Vintage 1-900 romance hotline advertisement audio (\"Are you over 30 and single? … Romance Hotline 1-900-980-…\") played on air for voice matching to Lorie Cardardoza Moore.",
+          "description": "Vintage 1-900 romance hotline advertisement audio (\"Are you over 30 and single? … Romance Hotline 1-900-980-…\") played on air for voice matching to Laurie Cardoza-Moore.",
           "related_claims": [
             "C-2204"
           ],
@@ -472,8 +472,8 @@
           ],
           "related_nodes": [
             "N-3",
+            "N-769",
             "N-770",
-            "N-771",
             "N-458",
             "N-472"
           ],
@@ -501,7 +501,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-771"
+            "N-770"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -521,7 +521,7 @@
           "@type": "Artifact",
           "@id": "A-2849.1",
           "ref": "A-2849.1",
-          "description": "Host verbal reference to posts by the Brave Report account identifying the author of the threat message as Lorie Cardardoza Moore (posts not shown)",
+          "description": "Host verbal reference to posts by the Brave Report account identifying the author of the threat message as Laurie Cardoza-Moore (posts not shown)",
           "related_claims": [
             "C-7032"
           ],
@@ -555,7 +555,7 @@
           "related_nodes": [
             "N-3",
             "N-497",
-            "N-773"
+            "N-772"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -581,7 +581,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-773"
+            "N-772"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -661,7 +661,7 @@
       "@type": "Person",
       "@id": "N-497",
       "ref": "N-497",
-      "name": "Lorie Cardardoza Moore",
+      "name": "Laurie Cardoza-Moore",
       "type": "person",
       "description": "Identified via audio match as the author of the Christian Zionist threat message (A-1680.1, A-1681.1) and as having a prior acting/romance hotline background (A-1682.1); described by host as evangelical Zionist who learned later that she is Jewish.",
       "related_artifacts": [
@@ -737,7 +737,7 @@
       "ref": "N-10445",
       "name": "Christian Zionist Threat Message Authorship Verification",
       "type": "investigation_target",
-      "description": "Persistent investigative target: confirmation that the previously circulated Christian Zionist threat message is authored by Lorie Cardardoza Moore via audio voice match.",
+      "description": "Persistent investigative target: confirmation that the previously circulated Christian Zionist threat message is authored by Laurie Cardoza-Moore via audio voice match.",
       "related_artifacts": [
         "A-1680.1",
         "A-1681.1"
@@ -894,7 +894,7 @@
       "ref": "N-22",
       "name": "Tucker Carlson",
       "type": "person",
-      "description": "Subject of Lorie Cardardoza Moore's rant about his speech at the Tampa TPUSA conference.",
+      "description": "Subject of Laurie Cardoza-Moore's rant about his speech at the Tampa TPUSA conference.",
       "related_artifacts": [],
       "related_claims": [
         "C-7033",
@@ -1013,8 +1013,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-770",
-      "ref": "N-770",
+      "@id": "N-769",
+      "ref": "N-769",
       "name": "Helen Barts",
       "type": "person",
       "description": "First named by the host at 00:29:53 in episode 063. Founder of Creative Children's Academy per the host; later said to have run the Shaklee Center in Arlington Heights. Transcript variants: Helen Arts.",
@@ -1033,8 +1033,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-771",
-      "ref": "N-771",
+      "@id": "N-770",
+      "ref": "N-770",
       "name": "Edith Walker Montgomery",
       "type": "person",
       "description": "First named by the host at 00:29:53 in episode 063. Wife of Bill Montgomery, goes by Edith Walker; alleged immigrant from Germany and psychiatric nurse. Alias: Edith Marie Walker, Edith Walker.",
@@ -1054,11 +1054,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-772",
-      "ref": "N-772",
-      "name": "Michelle Bachmann",
+      "@id": "N-771",
+      "ref": "N-771",
+      "name": "Michele Bachmann",
       "type": "person",
-      "description": "First named by Lorie Cardardoza Moore in the audio at 00:39:08 in episode 063. Spoke for five minutes at the TPUSA Tampa conference per Moore.",
+      "description": "First named by Laurie Cardoza-Moore in the audio at 00:39:08 in episode 063. Spoke for five minutes at the TPUSA Tampa conference per Moore.",
       "related_artifacts": [],
       "related_claims": [
         "C-7033",
@@ -1072,11 +1072,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-773",
-      "ref": "N-773",
+      "@id": "N-772",
+      "ref": "N-772",
       "name": "Stanley Clark Moore",
       "type": "person",
-      "description": "First named by the host at 00:41:47 in episode 063. Husband of Lorie Cardardoza Moore with an Air Force background per the host.",
+      "description": "First named by the host at 00:41:47 in episode 063. Husband of Laurie Cardoza-Moore with an Air Force background per the host.",
       "related_artifacts": [],
       "related_claims": [
         "C-7035",
@@ -1580,16 +1580,17 @@
       "@id": "C-2195",
       "ref": "C-2195",
       "label": "Erika Kirk stated staff worked 20-hour days during the week of the memorial",
-      "claim": "In a clip the host plays, Erika Kirk tells the call that \"a lot of the staff that worked on the memorial … had 20[-hour]-our days for a week.\"",
+      "claim": "In a clip the host plays, Erika Kirk tells the call that \"a lot of this the staff that worked on the memorial, they had 20[-hour] days for a week during the time of us grieving the loss of my husband.\"",
       "anchored_artifacts": [
         "A-1676.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:11:24",
+      "claim_timestamp": "00:12:40",
       "investigative_direction": "Cross-reference staff schedules, payroll records, and contemporaneous internal communications to verify the 20-hour-day claim.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -1597,7 +1598,7 @@
       "@id": "C-2196",
       "ref": "C-2196",
       "label": "Erika Kirk advised employees that paid time off is available if they need more time to grieve",
-      "claim": "In a clip the host plays, Erika Kirk tells employees: \"if you do need additional time off, please talk to your director about using paid time off for that,\" while also stating staff had access to counselors, pastors, and therapy dogs during the memorial period.",
+      "claim": "In a clip the host plays, Erika Kirk tells employees: \"if you do need additional time off, please talk to your director about using paid time off for that,\" while also saying that leadership provided counselors, pastors and, she heard, therapy dogs during the memorial period.",
       "anchored_artifacts": [
         "A-1676.2"
       ],
@@ -1605,7 +1606,7 @@
         "N-10443"
       ],
       "tags": [],
-      "claim_timestamp": "00:15:47",
+      "claim_timestamp": "00:17:30",
       "investigative_direction": "Compare Erika's PTO framing with TPUSA's stated employee policies and the subsequent terminations of staff reportedly working on the memorial.",
       "mentions_person_refs": [
         "N-2"
@@ -1724,8 +1725,8 @@
       "@type": "Claim",
       "@id": "C-2203",
       "ref": "C-2203",
-      "label": "Christian Zionist threat message identified as authored by Lorie Cardardoza Moore via audio matching",
-      "claim": "The episode presents that audio of Lorie Cardardoza Moore ranting in her car matches the content of the previously circulated Christian Zionist threat message, identifying her as its author.",
+      "label": "Christian Zionist threat message identified as authored by Laurie Cardoza-Moore via audio matching",
+      "claim": "The host says that virtually everything said in the previously circulated Christian Zionist threat message was also in a rant Laurie Cardoza-Moore did live on the internet about Tucker Carlson's speech, and plays audio of her ranting in her car.",
       "anchored_artifacts": [
         "A-1680.1",
         "A-1681.1"
@@ -1734,25 +1735,26 @@
         "N-10445"
       ],
       "tags": [],
-      "claim_timestamp": "00:39:08",
-      "investigative_direction": "Obtain independent forensic voice comparison; verify Lorie Cardardoza Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.",
+      "claim_timestamp": "00:38:50",
+      "investigative_direction": "Obtain independent forensic voice comparison; verify Laurie Cardoza-Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.",
       "mentions_person_refs": [
-        "N-497"
+        "N-497",
+        "N-22"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2204",
       "ref": "C-2204",
-      "label": "Host Says Voice Matching Identifies Lorie Cardardoza Moore on a 1-900 Romance Hotline Recording",
-      "claim": "The host says, citing findings by internet sleuths of the \"decentralized intelligence agency,\" that Lorie Cardardoza Moore's voice matches a 1-900 romance hotline advertisement the host plays, indicating prior acting/performer work.",
+      "label": "Host Says Voice Matching Identifies Laurie Cardoza-Moore on a 1-900 Romance Hotline Recording",
+      "claim": "The host says, citing findings by internet sleuths of the \"decentralized intelligence agency,\" that Laurie Cardoza-Moore's background is in acting and romance hotlines, and plays a 1-900 romance hotline advertisement.",
       "anchored_artifacts": [
         "A-1682.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:41:47",
-      "investigative_direction": "Establish provenance and dating of the romance hotline recording; obtain Lorie Cardardoza Moore's professional résumé or acting credits for corroboration.",
+      "claim_timestamp": "00:41:17",
+      "investigative_direction": "Establish provenance and dating of the romance hotline recording; obtain Laurie Cardoza-Moore's professional résumé or acting credits for corroboration.",
       "mentions_person_refs": [
         "N-497"
       ]
@@ -1779,11 +1781,11 @@
       "@id": "C-3660",
       "ref": "C-3660",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host refers to internet sleuths as the DCIA, the decentralized intelligence agency, which she says is moving quicker.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:40:07",
+      "claim_timestamp": "00:41:17",
       "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
       "transcript_snippet": "...ernet sloohs aren't playing around. the DCIA, the decentralized intelligence agency, is moving quicker. And they found that, yeah, that's what Lor's background is in acting and for ro...",
       "confidence": "high",
@@ -2601,14 +2603,14 @@
         "N-11122"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Verify the founders through Illinois corporation filings and school history sources.",
       "transcript_snippet": "was founded by a woman named Helen Barts. Okay. Her husband is a Reverend Robert Barts of Arlington Heights.",
       "mentions_person_refs": [
         "N-3",
-        "N-770"
+        "N-769"
       ]
     },
     {
@@ -2624,16 +2626,16 @@
         "N-11122"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:29:53",
       "investigative_direction": "Obtain independent corroboration, such as church, business or social records, linking Barts and the Montgomerys.",
       "transcript_snippet": "Helen Barts was actually good friends with Bill Montgomery and his wife Edith Montgomery.",
       "mentions_person_refs": [
         "N-3",
-        "N-770",
+        "N-769",
         "N-458",
-        "N-771"
+        "N-770"
       ]
     },
     {
@@ -2654,7 +2656,7 @@
       "transcript_snippet": "Edith Walker, who I've since learned immigrated from Germany after World War II, and I can't really find much else about her",
       "mentions_person_refs": [
         "N-3",
-        "N-771"
+        "N-770"
       ]
     },
     {
@@ -2677,8 +2679,8 @@
       "transcript_snippet": "she was actually the person that started the school with Helen Arts and that's has since virtually been wiped from public record.",
       "mentions_person_refs": [
         "N-3",
-        "N-771",
-        "N-770"
+        "N-770",
+        "N-769"
       ]
     },
     {
@@ -2694,7 +2696,7 @@
         "N-11124"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:31:10",
       "investigative_direction": "Seek Shaklee employment records or distributor histories for Montgomery, his wife and Robert Flood, and confirm any family link to Dan Flood.",
@@ -2702,7 +2704,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-458",
-        "N-771",
+        "N-770",
         "N-472",
         "N-272"
       ]
@@ -2760,14 +2762,14 @@
         "N-11122"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:31:47",
       "investigative_direction": "Request the host's confirming source and look for Shaklee distributor or center records in Arlington Heights.",
       "transcript_snippet": "I confirmed that she did indeed prior to worked at Shackley. She actually ran the Shackley Center in Arlington Heights.",
       "mentions_person_refs": [
         "N-3",
-        "N-770"
+        "N-769"
       ]
     },
     {
@@ -2775,7 +2777,7 @@
       "@id": "C-7027",
       "ref": "C-7027",
       "label": "Host Says Charlie Told Her His Mother Refused to Let Them Drug Him as a Child",
-      "claim": "The host says Charlie told her the story that they wanted to drug him when he was a kid, but his mother said no, and that instead his mother put him into the special school.",
+      "claim": "The host says Charlie told her the story that they wanted to drug him when he was a kid, but his mother said no, and that, because his mother refused, they instead put him into the special school.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11122",
@@ -2815,7 +2817,7 @@
       "transcript_snippet": "email, send us an email at more tips@canacewowens. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-771"
+        "N-770"
       ]
     },
     {
@@ -2884,8 +2886,8 @@
       "@type": "Claim",
       "@id": "C-7032",
       "ref": "C-7032",
-      "label": "Host Credits the Brave Report With Identifying Lorie Cardardoza Moore as an Evangelical Zionist Who Learned She Is Jewish",
-      "claim": "The host says a small account, the Brave Report, pulled up Lorie Cardardoza Moore as an evangelical Zionist who said she learned later in life that she is Jewish but remains an evangelical, which the host sets against the threat message she displayed earlier.",
+      "label": "Host Credits the Brave Report With Identifying Laurie Cardoza-Moore as an Evangelical Zionist Who Learned She Is Jewish",
+      "claim": "The host says a small account, the Brave Report, pulled up Laurie Cardoza-Moore as an evangelical Zionist who said she learned later in life that she is Jewish but remains an evangelical, which the host sets against the threat message she displayed earlier.",
       "anchored_artifacts": [
         "A-2849.1"
       ],
@@ -2898,7 +2900,7 @@
       ],
       "claim_timestamp": "00:38:36",
       "investigative_direction": "Locate the Brave Report posts and Moore's own statements on her background.",
-      "transcript_snippet": "Lorie Cardardoza Moore The Brave Report pulled up as an evangelical Zionist who said that she then learned later on that she's Jewish but she is still an evangelical.",
+      "transcript_snippet": "Laurie Cardoza-Moore The Brave Report pulled up as an evangelical Zionist who said that she then learned later on that she's Jewish but she is still an evangelical.",
       "mentions_person_refs": [
         "N-3",
         "N-497"
@@ -2909,7 +2911,7 @@
       "@id": "C-7033",
       "ref": "C-7033",
       "label": "Moore Says Three Couples Told Her They Were Horrified by Tucker Carlson at the Tampa Conference",
-      "claim": "In the audio, Lorie Cardardoza Moore says three couples who attended the Turning Point USA conference in Tampa told her they were horrified by Tucker Carlson's speech, which she describes as condemning Israel and praising Qatar, and that Michelle Bachmann followed with five minutes to argue for standing with Israel and was booed.",
+      "claim": "In the audio, Laurie Cardoza-Moore says three couples who attended the Turning Point USA conference in Tampa told her they were horrified by Tucker Carlson's speech, which she describes as condemning Israel and praising Qatar, and that Michele Bachmann followed with five minutes to argue for standing with Israel and was booed.",
       "anchored_artifacts": [
         "A-1681.1"
       ],
@@ -2926,7 +2928,7 @@
       "mentions_person_refs": [
         "N-497",
         "N-22",
-        "N-772"
+        "N-771"
       ]
     },
     {
@@ -2934,7 +2936,7 @@
       "@id": "C-7034",
       "ref": "C-7034",
       "label": "Moore Says Bachmann Told Her 10% of the Room Walked Out and Charlie Did Not Respond",
-      "claim": "In the audio, Lorie Cardardoza Moore says Michelle Bachmann told her personally that 10% of the room got up and walked out, and that Charlie Kirk, who was responsible for the event, did not condemn Tucker, defend Bachmann or explain why they stand with Israel.",
+      "claim": "In the audio, Laurie Cardoza-Moore says Michele Bachmann told her personally that 10% of the room got up and walked out, and that Charlie Kirk, who was responsible for the event, did not condemn Tucker, defend Bachmann or explain why they stand with Israel.",
       "anchored_artifacts": [
         "A-1681.1"
       ],
@@ -2950,7 +2952,7 @@
       "transcript_snippet": "She said 10% in the room got up and walked out on her.",
       "mentions_person_refs": [
         "N-497",
-        "N-772",
+        "N-771",
         "N-1",
         "N-22"
       ]
@@ -2960,7 +2962,7 @@
       "@id": "C-7035",
       "ref": "C-7035",
       "label": "Host Says Lorie Moore Is Married to Stanley Clark Moore, With an Air Force Background",
-      "claim": "The host says Lorie Cardardoza Moore is married to a man named Stanley Clark Moore, who has an Air Force background, grew up on Air Force bases and graduated from high school in Humble, Texas, and she says she wants to know about his father.",
+      "claim": "The host says Laurie Cardoza-Moore is married to a man named Stanley Clark Moore, who has an Air Force background, grew up on Air Force bases and graduated from high school in Humble, Texas, and she says she wants to know about his father.",
       "anchored_artifacts": [
         "A-2850.1"
       ],
@@ -2968,13 +2970,13 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:41:47",
+      "claim_timestamp": "00:42:05",
       "investigative_direction": "Search public records and the Wikipedia article for Stanley Clark Moore's biography and family.",
       "transcript_snippet": "married to a man named Stanley Clark Moore. He has an Air Force background.",
       "mentions_person_refs": [
         "N-3",
         "N-497",
-        "N-773"
+        "N-772"
       ]
     },
     {
@@ -2997,7 +2999,7 @@
       "transcript_snippet": "Uh, also went to go work for NASA if if his Wikipedia is to be believed for a little bit.",
       "mentions_person_refs": [
         "N-3",
-        "N-773"
+        "N-772"
       ]
     },
     {
@@ -3020,7 +3022,7 @@
       "transcript_snippet": "Message us more tips at candacewowens. com.",
       "mentions_person_refs": [
         "N-3",
-        "N-773"
+        "N-772"
       ]
     },
     {
@@ -3035,7 +3037,7 @@
         "N-10197"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:43:01",
       "investigative_direction": "Identify the production company and its CEO's biography; confirm TPUSA's Super Bowl advertising plans.",
@@ -3075,7 +3077,7 @@
         "N-11127"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:43:58",
       "investigative_direction": "Locate the Wall Street Journal ad and confirm its date and text.",
@@ -3098,7 +3100,7 @@
         "N-11127"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:43:58",
       "investigative_direction": "Obtain the Vanity Fair piece and check the quoted statements.",
@@ -3119,7 +3121,7 @@
         "N-11127"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:44:40",
       "investigative_direction": "Host's stated position; compare against her prior statements about Ye.",

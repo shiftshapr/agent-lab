@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 56c2be67383dd50f4d4f1df7be825f986b64cc63e651edf0162bdadcfd5d297b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-851, N-852, N-11228, N-11229, N-11230
+  - Tip-minted Nodes (supplement_2026-10d): N-850, N-851, N-11228, N-11229, N-11230
   - Hole-minted Nodes (reintro-ep027): N-368, N-10432
   - Tip-minted Nodes (reintro-ep027): N-606, N-11014
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -664,7 +664,7 @@ Kanye West; his song Power is cited by the host.
 
 ---
 
-**N-851** Tony Burke
+**N-850** Tony Burke
 
 First named by the host at 00:03:43 in episode 027 as the Australian official she says banned her from the country.
 
@@ -978,7 +978,7 @@ Dave Smith; named as a regular text contact.
 
 ---
 
-**N-852** Jimmy Dore
+**N-851** Jimmy Dore
 
 First named by the host at 01:04:09 in episode 027 as a commentator a viewer suggested she team up with.
 
@@ -1357,7 +1357,7 @@ Claim: The host says Australian minister Tony Burke banned her from the entire c
 Transcript Snippet: Tony Burke, thank you for banning us from an entire country, even though I didn't do nothing.
 
 Anchored Artifacts: 
-Mentions: N-3, N-851
+Mentions: N-3, N-850
 Tags: relevance:tangential
 Investigative Direction: Check the Australian Home Affairs visa decision and the stated reason and reapplication period.
 
@@ -2283,7 +2283,7 @@ Claim: The host says she texts Ian Carroll and Dave Smith regularly to share inf
 Transcript Snippet: Ian Carroll we text regularly. Dave Smith we text regularly when we're sharing information.
 
 Anchored Artifacts: 
-Mentions: N-3, N-130, N-39, N-852
+Mentions: N-3, N-130, N-39, N-851
 Tags: relevance:tangential
 Investigative Direction: Context on the host's network; no confirmation needed.
 

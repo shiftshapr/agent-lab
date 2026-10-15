@@ -173,7 +173,7 @@ You know, the people who brought forward that information that I've been sitting
 
 [31:39]
 
-I wonder who that is. It's uh probably one of the people that signed letter announcing Erika and this is if I'm just taking a shot in the dark. I would imagine it was one of the board members who announced that Erika was going to be the CEO and the chairman. Um maybe like a Doug DeGroot, like Miller. I don't know. Like I said, if I was an interested investigator, these would be some crumbs that I would follow. As an update and moving on, I wanted to.
+I wonder who that is. It's uh probably one of the people that signed letter announcing Erika and this is if I'm just taking a shot in the dark. I would imagine it was one of the board members who announced that Erika was going to be the CEO and the chairman. Um maybe like a Doug DeGroote, like Miller. I don't know. Like I said, if I was an interested investigator, these would be some crumbs that I would follow. As an update and moving on, I wanted to.
 
 ## I am still being ghosted by The White House.
 

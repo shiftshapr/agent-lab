@@ -2170,8 +2170,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-949",
-      "ref": "N-949",
+      "@id": "N-948",
+      "ref": "N-948",
       "name": "Itamar Ben-Gvir",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.",
@@ -2187,8 +2187,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-950",
-      "ref": "N-950",
+      "@id": "N-949",
+      "ref": "N-949",
       "name": "Blaine Holt",
       "type": "person",
       "description": "Air Force Brigadier General who joined Robert O'Neill on Newsmax; first named by the host at 00:04:42 in episode 128.",
@@ -2799,7 +2799,7 @@
       "investigative_direction": "Locate the public statements or posts by Ben-Gvir and Netanyahu about the match and confirm which team they backed.",
       "transcript_snippet": "having them explicitly come out and say that they were rooting uh for that team to win was not helpful.",
       "mentions_person_refs": [
-        "N-949",
+        "N-948",
         "N-36",
         "N-3"
       ]
@@ -2942,7 +2942,7 @@
       "investigative_direction": "Ask Holt what he saw that supports an explosion and compare with the autopsy and wound descriptions.",
       "transcript_snippet": "Absolutely not. I I I I'm with Rob. Something exploded on him.",
       "mentions_person_refs": [
-        "N-950",
+        "N-949",
         "N-155",
         "N-1"
       ]
@@ -2966,7 +2966,7 @@
       "investigative_direction": "Pin down the time between the shooting and the first DOJ or FBI public attribution of the suspect.",
       "transcript_snippet": "the garbage that was foisted upon us from the Justice Department that day where they seemingly solved the case in about eight hot seconds.",
       "mentions_person_refs": [
-        "N-950",
+        "N-949",
         "N-155"
       ]
     },
@@ -2989,7 +2989,7 @@
       "investigative_direction": "Review Robinson's firearms and hunting history in the charging documents.",
       "transcript_snippet": "You're not going to take a.30-06 with a kid who's never killed anybody up onto a roof.",
       "mentions_person_refs": [
-        "N-950",
+        "N-949",
         "N-155",
         "N-40"
       ]

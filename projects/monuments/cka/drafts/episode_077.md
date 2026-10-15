@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 6d12956e2b1ba335a573654b47ea8373fc4b2a908e37366ed670b52d16491c48
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-892, N-11291, N-11292, N-11293
+  - Tip-minted Nodes (supplement_2026-10e): N-891, N-11291, N-11292, N-11293
   - Tip-minted Nodes (reintro-ep077): N-603, N-10954, N-11194
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11182–C-11234
@@ -482,7 +482,7 @@ TPUSA figure the host questions over X posts, security-adjacent roles, and timel
 
 ---
 
-**N-892** Fran Rothschild
+**N-891** Fran Rothschild
 
 First named by the host at 00:03:16 in episode 77 (also 'Francis Rothschild'). Described by the host as co-founder of Wilhelmina Models.
 
@@ -1062,7 +1062,7 @@ Claim: The host says Faith Kates knew Epstein before she co-founded Next because
 Transcript Snippet: she was actually the vice president of the women's division over at Wilhelmina Models first.
 
 Anchored Artifacts: 
-Mentions: N-572, N-9, N-892
+Mentions: N-572, N-9, N-891
 Related Nodes: N-11291
 Tags: relevance:core
 Investigative Direction: Verify Kates's Wilhelmina title and dates and the Wilhelmina founding record; test the host's claim that she knew Epstein in that period.

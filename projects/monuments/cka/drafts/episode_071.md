@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: 97c9fdd97666fe21235e0b78f317b571904b8f5954ceecd3a37e07ce8587fefb
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-943, N-944, N-11391, N-11392, N-11393, N-11394, N-11395
+  - Tip-minted Nodes (supplement_2026-10g): N-942, N-943, N-11391, N-11392, N-11393, N-11394, N-11395
   - Hole-minted Nodes (reintro-ep071): N-10503, N-10674
-  - Tip-minted Nodes (reintro-ep071): N-808, N-809, N-11188
+  - Tip-minted Nodes (reintro-ep071): N-807, N-808, N-11188
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14310–C-14385
   - New Nodes Introduced:  N-554, N-555, N-556, N-557, N-10497, N-10498, N-10499, N-10500
@@ -519,7 +519,7 @@ Video Timestamp: 00:51:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14385, N-10497, N-554, N-944*
+*Related: C-14385, N-10497, N-554, N-943*
 
 ---
 
@@ -771,7 +771,7 @@ Named by the host as controlling halftime booking with the NFL.
 
 ---
 
-**N-808** Kid Rock
+**N-807** Kid Rock
 
 Performer in the TPUSA halftime show.
 
@@ -779,7 +779,7 @@ Performer in the TPUSA halftime show.
 
 ---
 
-**N-809** Bad Bunny
+**N-808** Bad Bunny
 
 Headliner of the NFL halftime show.
 
@@ -1019,7 +1019,7 @@ Unit Snow said he encountered.
 
 ---
 
-**N-943** Lee Brice
+**N-942** Lee Brice
 
 First named by the host at 00:07:13 in episode 71 as a performer in the TPUSA halftime show.
 
@@ -1027,7 +1027,7 @@ First named by the host at 00:07:13 in episode 71 as a performer in the TPUSA ha
 
 ---
 
-**N-944** Thomas G. Martin
+**N-943** Thomas G. Martin
 
 First named by the host at 00:24:12 in episode 71 as a Border Patrol employee in Buffalo, New York whom she says is not the Tucson Thomas Martin.
 
@@ -1455,7 +1455,7 @@ Claim: The host says that Jay-Z, in partnership with the NFL, controls who perfo
 Transcript Snippet: Actually, I looked into it. The person that controls who gets to perform at the halftime is Jay-Z. For some reason, Jay-Z in partnership with the NFL, Jay-Z doesn't speak Spanish, but Jay-Z booked him.
 
 Anchored Artifacts: 
-Mentions: N-525, N-809
+Mentions: N-525, N-808
 Related Nodes: N-11391, N-11392
 Tags: relevance:tangential
 Investigative Direction: NFL or Roc Nation announcements and reporting on who selected the 2026 halftime performer.
@@ -1487,7 +1487,7 @@ Claim: The host says Bad Bunny did not in fact wear a dress during the Super Bow
 Transcript Snippet: Now, Bad Bunny did not in fact wear a dress at the Super Bowl. He didn't, which like I said, I'm very against that.
 
 Anchored Artifacts: 
-Mentions: N-809
+Mentions: N-808
 Related Nodes: N-11392
 Tags: relevance:tangential
 Investigative Direction: Broadcast footage of the halftime performance.
@@ -1519,7 +1519,7 @@ Claim: The host says the Turning Point USA halftime show was pre-recorded, she t
 Transcript Snippet: Now, we should be clear, it was a pre-record, okay? So, Bad Bunny was performing live. Turning point USA pre-recorded, I think a couple of weeks ago.
 
 Anchored Artifacts: 
-Mentions: N-809
+Mentions: N-808
 Related Nodes: N-10000, N-10510
 Tags: relevance:context
 Investigative Direction: TPUSA production schedule and the show's recording date.
@@ -1535,7 +1535,7 @@ Claim: The host names Kid Rock and Lee Brice as artists who performed in the Tur
 Transcript Snippet: I'm going to park aside the artists who actually performed. Uh, Kid Rock, Lee Brice.
 
 Anchored Artifacts: 
-Mentions: N-808, N-943
+Mentions: N-807, N-942
 Related Nodes: N-10510
 Tags: relevance:tangential
 Investigative Direction: Official TPUSA show lineup.
@@ -1822,7 +1822,7 @@ Claim: The host says the Tucson Thomas Martin is not Thomas G. Martin, a Border 
 Transcript Snippet: Martin. That is not the same Thomas Martin that has been in Tucson. We've obviously already investigated the obvious lead there.
 
 Anchored Artifacts: 
-Mentions: N-554, N-944
+Mentions: N-554, N-943
 Related Nodes: N-10497
 Tags: relevance:context
 Investigative Direction: Border Patrol assignment records distinguishing the two men.
@@ -2658,7 +2658,7 @@ Claim: Closing the episode, the host asks viewers who know anything about the Tu
 Transcript Snippet: Again, if you know anything about this particular Thomas Martin, not the Thomas G. Martin who works up in Buffalo in New York, but the Thomas Martin that has been working with the Southern Command, please send us an email more tips at candacewowens. com.
 
 Anchored Artifacts: A-3321.1
-Mentions: N-554, N-944
+Mentions: N-554, N-943
 Related Nodes: N-10497
 Tags: relevance:core
 Investigative Direction: Submitted tips on Thomas Martin.

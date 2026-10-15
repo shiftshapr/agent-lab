@@ -99,7 +99,7 @@
           "@type": "Artifact",
           "@id": "A-1687.1",
           "ref": "A-1687.1",
-          "description": "Doug DeGroot Board Letter Announcing Erika Kirk as CEO and Chair (Published 2025-09-17)",
+          "description": "Doug DeGroote Board Letter Announcing Erika Kirk as CEO and Chair (Published 2025-09-17)",
           "related_claims": [
             "C-2213",
             "C-2214"
@@ -389,7 +389,7 @@
       "@type": "Person",
       "@id": "N-498",
       "ref": "N-498",
-      "name": "Doug DeGroot",
+      "name": "Doug DeGroote",
       "type": "person",
       "description": "TPUSA board member. Author of the September 17, 2025 board letter (A-1687.1) announcing Erika Kirk as CEO and Chair of Turning Point USA.",
       "related_artifacts": [
@@ -1460,8 +1460,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-859",
-      "ref": "N-859",
+      "@id": "N-858",
+      "ref": "N-858",
       "name": "Bob Ferguson",
       "type": "person",
       "description": "First named by the host at 00:01:26 in episode 64. Iowa man wrongly pictured in the prior episode as Bob Flood; the host says he has nothing to do with the story and apologizes.",
@@ -1536,10 +1536,9 @@
         "N-10448"
       ],
       "tags": [],
-      "claim_timestamp": "00:09:08",
+      "claim_timestamp": "00:08:40",
       "investigative_direction": "Verify call metadata, attendee list, and recording provenance; cross-reference against the September 17 public board announcement (A-1687.1).",
       "mentions_person_refs": [
-        "N-188",
         "N-1",
         "N-2"
       ]
@@ -1557,10 +1556,11 @@
         "N-10448"
       ],
       "tags": [],
-      "claim_timestamp": "00:24:46",
+      "claim_timestamp": "00:23:52",
       "investigative_direction": "Obtain unedited full recording; confirm reaction icons, laughter timing, and participant count.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -1576,10 +1576,9 @@
         "N-10448"
       ],
       "tags": [],
-      "claim_timestamp": "00:17:35",
+      "claim_timestamp": "00:19:09",
       "investigative_direction": "Compile every instance of \"family\" usage; obtain termination records of named attendees to verify the host's juxtaposition.",
       "mentions_person_refs": [
-        "N-188",
         "N-2"
       ]
     },
@@ -1596,7 +1595,7 @@
         "N-10448"
       ],
       "tags": [],
-      "claim_timestamp": "00:17:35",
+      "claim_timestamp": "00:19:00",
       "investigative_direction": "Cross-reference against TPUSA termination data from Q4 2025 onward; identify whether attendees retained employment.",
       "mentions_person_refs": [
         "N-2"
@@ -1664,15 +1663,15 @@
       "@type": "Claim",
       "@id": "C-2213",
       "ref": "C-2213",
-      "label": "TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroot",
-      "claim": "The September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was authored by Doug DeGroot as a board member.",
+      "label": "TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroote",
+      "claim": "The host says the September 17, 2025 public letter announcing Erika Kirk as Turning Point USA's new CEO and Chair was signed off by Doug DeGroote, whom she says is on the board.",
       "anchored_artifacts": [
         "A-1687.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:08",
-      "investigative_direction": "Obtain original signed letter; verify Doug DeGroot's role on the TPUSA board at the time of issuance.",
+      "investigative_direction": "Obtain original signed letter; verify Doug DeGroote's role on the TPUSA board at the time of issuance.",
       "mentions_person_refs": [
         "N-498",
         "N-2"
@@ -1683,7 +1682,7 @@
       "@id": "C-2214",
       "ref": "C-2214",
       "label": "TPUSA Board Letter Invoked Ecclesiastes and Framed the Appointment as Divinely Ordained",
-      "claim": "The September 17, 2025 board letter opens with a citation to Ecclesiastes, attributing the quote to King Solomon, and frames Kirk's appointment as a divinely ordained test: \"mankind is to be tested by God.\"",
+      "claim": "The host reads the September 17, 2025 board letter announcing Erika Kirk as CEO and chair, which opens by citing Ecclesiastes, saying King Solomon wrote that \"mankind is to be tested by God,\" and adds \"Today we are facing such a test.\"",
       "anchored_artifacts": [
         "A-1687.1"
       ],
@@ -1692,7 +1691,7 @@
       "claim_timestamp": "00:09:08",
       "investigative_direction": "Verify exact wording against original letter; document all subsequent TPUSA communications invoking similar framing.",
       "mentions_person_refs": [
-        "N-498"
+        "N-2"
       ]
     },
     {
@@ -1746,7 +1745,9 @@
       "investigative_direction": "Identify source podcast and date; verify quote against full unedited clip.",
       "mentions_person_refs": [
         "N-368",
-        "N-3"
+        "N-3",
+        "N-2",
+        "N-1"
       ]
     },
     {
@@ -1763,7 +1764,8 @@
       "claim_timestamp": "00:44:36",
       "investigative_direction": "Identify source podcast and date; verify whether Candace Owens has ever publicly responded to or denied this characterization.",
       "mentions_person_refs": [
-        "N-368"
+        "N-368",
+        "N-3"
       ]
     },
     {
@@ -1771,7 +1773,7 @@
       "@id": "C-2219",
       "ref": "C-2219",
       "label": "The Bulwark Reported Daily Wire Production Involved 100+ Extras in a Hungarian Marsh, Travel to Italy, and Bulls Imported From Spain",
-      "claim": "In a Bulwark podcast segment, the host described Daily Wire's Hungary production as including approximately 100 extras staging fist fights in a marsh, traveling to Italy for additional filming, and importing bulls from Spain for the production.",
+      "claim": "In a Bulwark podcast segment the host plays, a speaker describes Daily Wire's Hungary production as including approximately 100 extras staging fist fights in a marsh, traveling to Italy for additional filming, and importing bulls from Spain for the production.",
       "anchored_artifacts": [
         "A-1689.1"
       ],
@@ -1790,7 +1792,7 @@
       "@id": "C-2220",
       "ref": "C-2220",
       "label": "Teo Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call",
-      "claim": "During the September 16 Zoom call playback, host identifies Teo Farnsworth as audible in the background of the recording.",
+      "claim": "During the September 16 Zoom call playback, host identifies Teo Farnsworth as in the background of the recording.",
       "anchored_artifacts": [
         "A-1686.1"
       ],
@@ -1825,13 +1827,13 @@
       "@id": "C-2222",
       "ref": "C-2222",
       "label": "Host Characterizes Boreing's \"Rhetorical Pornography\" Comparison as Deflection From Documented Sexual Violence",
-      "claim": "Candace Owens rejects Boreing's pornography analogy and argues it functions as deflection from documented sexual exploitation, including alleged Israeli sexual blackmail and the 2002 Gaza pornography broadcasts.",
+      "claim": "Candace Owens rejects Boreing's pornography analogy, saying one of the reasons she was fired was that she said the history of pornography should be looked into, and that people should talk about real pornography and where it comes from.",
       "anchored_artifacts": [
         "A-1688.3"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:43:46",
+      "claim_timestamp": "00:43:08",
       "investigative_direction": "Document the factual claims about Israeli sexual blackmail and Gaza pornography broadcasts; identify primary sources for each.",
       "mentions_person_refs": [
         "N-368",
@@ -1843,7 +1845,7 @@
       "@id": "C-2223",
       "ref": "C-2223",
       "label": "Host Rejects Boreing's \"Self-Aggrandizement\" Characterization as Fabricated",
-      "claim": "Candace Owens rejects Boreing's account of her saying \"I believe what the people believe,\" describing it as \"obviously made up\" and an \"amoral statement.\"",
+      "claim": "Candace Owens rejects Boreing's account of her saying \"I believe what the people believe,\" describing it as \"obviously made up.\"",
       "anchored_artifacts": [
         "A-1688.4"
       ],
@@ -1861,7 +1863,7 @@
       "@id": "C-2224",
       "ref": "C-2224",
       "label": "Host Concurs With Bulwark Reporting on Daily Wire Hungary Production Costs",
-      "claim": "Candace Owens concurs with the Bulwark host's characterization of Daily Wire's Hungary production as financially extravagant and possibly connected to a debt-reduction departure agreement.",
+      "claim": "Candace Owens concurs with the Bulwark speaker's characterization of Daily Wire's Hungary production as financially extravagant and possibly connected to the departure agreement.",
       "anchored_artifacts": [
         "A-1689.1"
       ],
@@ -1897,8 +1899,7 @@
         "C-2211"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -1910,7 +1911,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:00:52",
       "investigative_direction": "Locate the Boreing podcast interview and check whether he used the word antifa about the host and Carlson.",
@@ -1937,7 +1938,7 @@
       "transcript_snippet": "His name was actually Bob Fergus- Ferguson. He's from Iowa. He has nothing to do with the story.",
       "mentions_person_refs": [
         "N-472",
-        "N-859",
+        "N-858",
         "N-3"
       ]
     },
@@ -2059,7 +2060,6 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-14",
         "N-197"
       ]
     },
@@ -2756,7 +2756,7 @@
       "@id": "C-9951",
       "ref": "C-9951",
       "label": "Host Says Farnsworth Is the Man Who Took Down the Cameras",
-      "claim": "The host says that the man audible in the background of the call, Teo Farnsworth, is the guy who took down the cameras.",
+      "claim": "The host says that the man in the background of the call, Teo Farnsworth, is the guy who took down the cameras.",
       "anchored_artifacts": [
         "A-1686.1"
       ],
@@ -2850,7 +2850,7 @@
       "@id": "C-9955",
       "ref": "C-9955",
       "label": "Erika Closed the Main Address Saying She Felt Blessed and Honored",
-      "claim": "On the call, Erika Kirk closes her main address saying she feels so blessed and honored.",
+      "claim": "On the call, Erika Kirk says she feels so blessed and honored.",
       "anchored_artifacts": [
         "A-1686.2"
       ],
@@ -3334,7 +3334,7 @@
         "N-11116"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:42:56",
       "investigative_direction": "Compare with Boreing's own stated reasons for the firing in earlier interviews.",
@@ -3539,7 +3539,7 @@
         "N-11116"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:49:32",
       "investigative_direction": "Seek contemporaneous messages or accounts of the post-October 7 conversations with Boreing.",
@@ -3560,7 +3560,7 @@
         "N-11116"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:49:32",
       "investigative_direction": "Seek eyewitness accounts or recordings of the meeting.",
@@ -3581,7 +3581,7 @@
         "N-11116"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:49:32",
       "investigative_direction": "Seek the host's contemporaneous messages or witnesses to the suspicion.",
@@ -3604,7 +3604,7 @@
         "N-11116"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:49:32",
       "investigative_direction": "Seek Daily Wire internal communications from the weeks before the firing.",
@@ -3626,7 +3626,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:50:52",
       "investigative_direction": "Compare Daily Wire subscription data around March 2024.",
@@ -3650,7 +3650,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:50:52",
       "investigative_direction": "Identify the Klavan episode and seek editorial approval records.",
@@ -3694,7 +3694,7 @@
         "N-10000"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:52:26",
       "investigative_direction": "Obtain the Daily Wire email and the intern's account and any recording from the event.",
@@ -3719,7 +3719,7 @@
         "N-10238"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:52:26",
       "investigative_direction": "Obtain the email from former Daily Wire staff.",
@@ -3744,7 +3744,7 @@
         "N-10238"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:52:26",
       "investigative_direction": "Obtain the email and verify the quoted wording.",
@@ -3769,7 +3769,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:52:26",
       "investigative_direction": "Seek Brett Cooper's own account of the conversation.",
@@ -3792,7 +3792,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:53:57",
       "investigative_direction": "Seek the maid of honor's account and any contract or offer documents.",
@@ -3815,7 +3815,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:53:57",
       "investigative_direction": "Locate the articles or posts that attacked Cooper over the like and trace their sources.",
@@ -3838,7 +3838,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:54:52",
       "investigative_direction": "Search court dockets for the Daily Wire suit against the host.",
@@ -3992,7 +3992,7 @@
       "@id": "C-10004",
       "ref": "C-10004",
       "label": "Host Says the TPUSA Contract Is Used to Bar Her From Asking Questions About the Murder",
-      "claim": "The host says that in response to her questions she was told she has no right to ask about Charlie Kirk's murder because the contract she signed covers everybody.",
+      "claim": "The host characterizes the response to her questions as being that she has no right to ask about Charlie Kirk's murder because the contract she signed covers everybody.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11180",
@@ -4038,7 +4038,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "01:03:27",
       "investigative_direction": "Seek contemporaneous messages or witnesses to the threats.",
@@ -4066,8 +4066,7 @@
       "transcript_snippet": "even keeping the mic and putting it in a cage and setting up his dinner at a fundraiser",
       "mentions_person_refs": [
         "N-3",
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -4102,7 +4101,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "01:07:49",
       "investigative_direction": "Seek confirmation from Daily Wire staff or messages regarding the request.",
@@ -4121,7 +4120,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "01:07:49",
       "investigative_direction": "Check the following episode's guest.",

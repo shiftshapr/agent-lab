@@ -1,0 +1,795 @@
+[
+ {
+  "claim": "C-2117",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"Charlie's plane... now appears to be Erika's plane, is frequently visiting New Braunfels...\" (\"appears\" dropped); claim names Charlie but Mentions omits N-1.",
+  "fix": {
+   "claim": "The host says Baron Coleman did a lot of work on the planes and that the plane that was Charlie's and now appears to be Erika's is frequently visiting New Braunfels, Texas and a place in Idaho; she says the answer is that Erika is visiting the number one donors to Turning Point USA, and credits a \"mommy sleuth\" with the work.",
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-265",
+    "N-332"
+   ]
+  }
+ },
+ {
+  "claim": "C-2118",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2119",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Fuentes: \"This is not Dateline. This is not a human interest story.\" Claim says he dismissed it \"as Dateline\", reversing the sense.",
+  "fix": {
+   "claim": "In a follow-up clip aired on the episode, Nick Fuentes stated the Epstein story is \"not satanic pedophilia cult stuff\" but \"run-of-the-mill prostitution and sex trafficking but for a international political purpose,\" and said \"this is not Dateline. This is not a human interest story.\""
+  }
+ },
+ {
+  "claim": "C-2120",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2121",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2122",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Wilks name: Farris Wilks (Texas Tribune); transcript/node render \"Ferris\". Host: \"one reporter got documents was pitching to sell the data of his followers.\"",
+  "fix": {
+   "claim": "The host says Nick Fuentes took a meeting with Defend Texas Liberty and Farris Wilks' partner and, according to documents a reporter obtained, pitched selling the data of his followers.",
+   "names": [
+    {
+     "wrong": "Ferris Wilks",
+     "right": "Farris Wilks",
+     "source": "https://www.texastribune.org/2024/01/24/tim-dunn-farris-wilks-defend-texas-liberty-nick-fuentes/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2123",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3657",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Shout-out \"to the mommy sleuth who did the work\" is at ~19:20-19:50, ~3 min after 16:13. \"Emailing tips\" and \"crowd intelligence effort\" are not said in this passage.",
+  "fix": {
+   "claim": "The host gives a shout-out to \"the mommy sleuth who did the work\" tracing the plane's visits, saying \"these mommy sleuth hit different.\"",
+   "timestamp": "00:19:20"
+  }
+ },
+ {
+  "claim": "C-9830",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9831",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9832",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9833",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9834",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9835",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host is mimicking Kolvet: \"Andrew's all like, 'Here's a picture of her with her babies on the wrong date... I like Chipotle.'\" Claim states it as his literal response.",
+  "fix": {
+   "claim": "The host, mimicking Andrew Kolvet, says he answered the Fort Huachuca question with a picture of Erika with her babies \"on the wrong date\" and a remark that she was eating burgers rather than building a pillow fort."
+  }
+ },
+ {
+  "claim": "C-9836",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9837",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9838",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9839",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9840",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9841",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9842",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Priscilla Ann Nu'ul (transcript renders; garbled).",
+  "fix": {}
+ },
+ {
+  "claim": "C-9843",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I didn't have too much time to go through that person's background\"; claim says she \"could not find much\". unresolved name: Chantel Thuy.",
+  "fix": {
+   "claim": "The host says she did not have much time to go through cast member Chantel Thuy's background, but that her dad worked in artificial intelligence for IBM, which she speculates might connect to Fort Huachuca."
+  }
+ },
+ {
+  "claim": "C-9844",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Price Mitchum.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9845",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9846",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no individual (\"the filmmakers\"); N-461 Clayton Haugen is not named in it.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9847",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no one; N-461 Haugen is not named or referred to.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9848",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9849",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9850",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"This person has absolutely nothing to do with Mitch Snow.\" \"So the two accounts are independent\" is added inference.",
+  "fix": {
+   "claim": "The host says the original poster has absolutely nothing to do with Mitch Snow."
+  }
+ },
+ {
+  "claim": "C-9851",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I guess there are chats amongst our military personnel... one of them asserted\"; \"I guess\" hedge dropped.",
+  "fix": {
+   "claim": "The host says that, as she understands it (\"I guess\"), there are chats among military personnel stationed at Fort Huachuca, and one person in a chat asserted they also saw Erika at the base and that there was an order to lower drones on that day."
+  }
+ },
+ {
+  "claim": "C-9852",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9853",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9854",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name George Zinn (N-42); he appears only in the host's list of strands.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9855",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9856",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host prefaces the recap with \"this is all allegedly\"; hedge dropped.",
+  "fix": {
+   "claim": "The host recaps, saying \"this is all allegedly,\" that Rob McCoy tried to rehabilitate a person who had abused children in the past."
+  }
+ },
+ {
+  "claim": "C-9857",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9858",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9859",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Vallely advisory-board correction is background; same Vallely topic (C-9860) is tagged context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-9860",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9861",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9862",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Erika speaks in a clip the host plays; the title says \"Host Says\".",
+  "fix": {
+   "label": "Clip Shows Erika Saying She Created Everyday Heroes Like You to Fund Grassroots Groups"
+  }
+ },
+ {
+  "claim": "C-9863",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9864",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9865",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Shapiro/AmFest friction is background to Kirk, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-9866",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Shapiro/AmFest friction is background to Kirk, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-9867",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9868",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Shapiro/AmFest friction is background to Kirk, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-9869",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9870",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie (\"put pressure on Charlie\") but Mentions omits N-1.",
+  "fix": {
+   "mentions": [
+    "N-462",
+    "N-1",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9871",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9872",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9873",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9874",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9875",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9876",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name the Mommy Sleuth (N-265).",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9877",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name the Mommy Sleuth (N-265).",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9878",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9879",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9880",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's own past charitable giving;  Personal giving, not about the Kirk matter.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9881",
+  "episode": 58,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host: \"I'm getting a sense... I would be certain that some of them were sex trafficking charities\"; claim says \"she is certain\", dropping the speculative framing. General speculation about Epstein donations, not tied to Kirk.",
+  "fix": {
+   "claim": "The host says Jeffrey Epstein donated a lot of money to schools, that she is getting a sense his charities should be revisited, and that she would be certain some of them were sex trafficking charities.",
+   "relevance": "tangential"
+  }
+ }
+]

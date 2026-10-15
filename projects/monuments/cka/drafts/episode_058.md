@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: f2711e85e7a5dac6180d0330f718521458d116b136a35e9d84389c67776a7492
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-856, N-857, N-858, N-11237, N-11239, N-11240, N-11241, N-11242
+  - Tip-minted Nodes (supplement_2026-10d): N-855, N-856, N-857, N-11237, N-11239, N-11240, N-11241, N-11242
   - Hole-minted Nodes (reintro-ep058): N-531, N-10428, N-10472
-  - Tip-minted Nodes (reintro-ep058): N-727, N-775, N-11126
+  - Tip-minted Nodes (reintro-ep058): N-727, N-774, N-11126
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9830–C-9912
   - New Nodes Introduced: N-461, N-462, N-463, N-464, N-465, N-466, N-467, N-468, N-469, N-470, N-471, N-10418, N-10419, N-10420, N-10421, N-10423
-  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-239, N-280, N-327, N-363, N-452, N-453, N-458, N-756, N-804, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167, N-11238
+  - Reused Nodes Appearing: N-15, N-10417, N-10422, N-10424, N-1, N-14, N-17, N-42, N-61, N-239, N-280, N-327, N-363, N-452, N-453, N-458, N-755, N-803, N-10000, N-10001, N-10012, N-10023, N-10028, N-10032, N-10144, N-10209, N-10268, N-10365, N-10367, N-10368, N-10375, N-10380, N-10386, N-10401, N-10411, N-10413, N-10900, N-11104, N-11166, N-11167, N-11238
   - (see registers)
 
 ## 2. Executive Summary
@@ -529,7 +529,7 @@ Investigative Pressure: Medium
 
 *Related: C-2123, N-203, N-10424*
 
-**N-470** Ferris Wilks
+**N-470** Farris Wilks
 
 Referenced re: Nick Fuentes pitching sale of follower data to Defend Texas Liberty.
 
@@ -875,7 +875,7 @@ Media figure; the host says he funded Operation Underground.
 
 ---
 
-**N-804** Paul Vallely
+**N-803** Paul Vallely
 
 Retired Army general on the TPUSA advisory board.
 
@@ -971,7 +971,7 @@ Operation Paperclip, cited by the host.
 
 ---
 
-**N-756** Astrid Tuminez
+**N-755** Astrid Tuminez
 
 UVU president; the host says she stepped down and was absent on September 10.
 
@@ -1019,7 +1019,7 @@ Rocket scientist and occultist the host cites as a Crowley student.
 
 ---
 
-**N-775** Aleister Crowley
+**N-774** Aleister Crowley
 
 Occultist cited by the host.
 
@@ -1043,7 +1043,7 @@ Air Force reservist the host says co-founded TPUSA.
 
 ---
 
-**N-856** Pete McCormick
+**N-855** Pete McCormick
 
 First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, grandfather of cast member Payton McCormick.
 
@@ -1051,7 +1051,7 @@ First named by the host at 00:06:05 in episode 58 as Colonel Pete McCormick, gra
 
 ---
 
-**N-857** Allan McCormick
+**N-856** Allan McCormick
 
 First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca, father of cast member Payton McCormick.
 
@@ -1059,7 +1059,7 @@ First named by the host at 00:06:05 in episode 58 as Lieutenant Colonel Allan Mc
 
 ---
 
-**N-858** Myron Gaines
+**N-857** Myron Gaines
 
 First named by the host at 01:02:10 in episode 58 as the interviewer in an interview with her dropping the next day.
 
@@ -1127,7 +1127,7 @@ Cold War underground base in Greenland the host says was built to launch missile
 
 Claim Timestamp: 00:03:23–00:05:24
 
-Claim: The host says, citing people based at Fort Huachuca who contacted her, that multiple identified members of the *November Renaissance* cast - including Clayton Haugen, Don Frye, Payton McCormick, Chantel Thuy, and Price Mitchum - have documented connections to Fort Huachuca, U.S. military service, or defense contracting.
+Claim: The host says, citing people based at Fort Huachuca who contacted her, that members of the *November Renaissance* cast have Fort Huachuca or military ties: Clayton Haugen does marketing for defense contractor Dillon Aero Space; Don Frye trained in judo at Fort Huachuca; Payton McCormick's father was once stationed there; Priscilla Ann Nu'ul's father was a lieutenant stationed there. For Chantel Thuy she cites only that her dad worked on AI for IBM, and for Price Mitchum only a psych hold.
 
 Anchored Artifacts: A-1635.1, A-1635.2
 Mentions: N-461, N-464, N-465, N-466, N-467, N-468
@@ -1142,7 +1142,7 @@ Investigative Direction: Obtain independent verification of military service rec
 
 Claim Timestamp: 00:08:16–00:10:12
 
-Claim: Per the Kickstarter description the host reads and a clip of director Clayton Haugen she plays, the plot of *November Renaissance* involves nanotechnology, a mind-as-hard-drive concept, and corporate-proxy black operations conducted on behalf of financial institutions and governments.
+Claim: Per the Kickstarter description the host reads and a clip of director Clayton Haugen she plays, *November Renaissance* involves nanotechnology, a mind-as-hard-drive concept, and corporate black operations carried out by hired 'proxies' for financial institutions; the host adds that it was about corporate espionage and technology used to help the government and corporate financial institutions maintain power.
 
 Anchored Artifacts: A-1635.2, A-1635.3
 Mentions: N-461
@@ -1160,7 +1160,7 @@ Claim Timestamp: 00:05:24
 Claim: The host says a remnant of the *November Renaissance* Kickstarter campaign publicly identifies Erika as having been cast in the role of "Evelyn Mathis."
 
 Anchored Artifacts: A-1635.2
-Mentions: N-2, N-461
+Mentions: N-2
 
 Related Nodes: N-10418
 
@@ -1207,7 +1207,7 @@ Claim Timestamp: 00:18:47
 Claim: Turning Point USA executive Justin Streiff replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.
 
 Anchored Artifacts: A-1637.1
-Mentions: N-2, N-3
+Mentions: N-15, N-2, N-3
 
 Related Nodes: N-10419
 
@@ -1234,7 +1234,7 @@ Investigative Direction: Read with C-2113; request the reply under the corrected
 
 Claim Timestamp: 00:20:05–00:21:00
 
-Claim: The host, citing a Daily Wire article, says Karl and Nelda Buckman gave a $10 million gift to Turning Point USA - described as the largest in the organization's history - and the Florida campus was renamed the "Buckman campus" in connection with the donation.
+Claim: The host, citing a Daily Wire article, says Karl and Nelda Buckman gave a $10 million gift to Turning Point USA - described as the largest in the organization's history - and the Florida campus, she believes, was going to be renamed the "Buckman campus" because of the donation.
 
 Anchored Artifacts: A-1638.1
 Mentions: N-462, N-463
@@ -1279,10 +1279,10 @@ Investigative Direction: Verify Buckman's credit against the film's production f
 
 Claim Timestamp: 00:18:20
 
-Claim: Baron Coleman and a "mommy sleuth" investigator reported that the plane formerly used by Charlie and now appearing to be Erika's has visited New Braunfels, Texas and a location in Idaho; host states these locations correspond to top Turning Point USA donors.
+Claim: The host says Baron Coleman did a lot of work on the planes and that the plane that was Charlie's and now appears to be Erika's is frequently visiting New Braunfels, Texas and a place in Idaho; she says the answer is that Erika is visiting the number one donors to Turning Point USA, and credits a "mommy sleuth" with the work.
 
 Anchored Artifacts: A-1638.3
-Mentions: N-2, N-265, N-332
+Mentions: N-1, N-2, N-265, N-332
 
 Related Nodes: N-10421
 
@@ -1349,11 +1349,11 @@ Investigative Direction: Obtain footage of the Capitol breach the host describes
 
 ---
 
-**C-2122** Host Says a Reporter's Documents Show Nick Fuentes Pitched Selling His Followers' Data to Defend Texas Liberty and Ferris Wilks' Partner
+**C-2122** Host Says a Reporter's Documents Show Nick Fuentes Pitched Selling His Followers' Data to Defend Texas Liberty and Farris Wilks' Partner
 
 Claim Timestamp: 00:39:06
-Claim: The host says Nick Fuentes took a meeting with Defend Texas Liberty and Ferris Wilks' partner and, according to documents a reporter obtained, pitched selling the data of his followers.
-Transcript Snippet: he took a meeting with Defend Texas Liberty and Ferris Wilks' partner and pitched they actually one reporter got documents was pitching to sell the data of his followers
+Claim: The host says Nick Fuentes took a meeting with Defend Texas Liberty and Farris Wilks' partner and, according to documents a reporter obtained, pitched selling the data of his followers.
+Transcript Snippet: he took a meeting with Defend Texas Liberty and Farris Wilks' partner and pitched they actually one reporter got documents was pitching to sell the data of his followers
 Anchored Artifacts: 
 Mentions: N-203, N-470
 Related Nodes: N-10424
@@ -1377,8 +1377,8 @@ Investigative Direction: Locate Yiannopoulos's own statement about the warning t
 
 **C-3657** Host elevates mommy sleuth crowd investigators
 
-Claim Timestamp: 00:16:13
-Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
+Claim Timestamp: 00:19:20
+Claim: The host gives a shout-out to "the mommy sleuth who did the work" tracing the plane's visits, saying "these mommy sleuth hit different."
 Transcript Snippet: ...nors to Turning Point USA or and shout out to the mommy sleuth who did the work. The way they figured that out, I'm telling you these mommy sleuth hit different....
 Anchored Artifacts: 
 Mentions: N-3, N-265
@@ -1473,7 +1473,7 @@ Investigative Direction: Retrieve Kolvet's actual on-air or posted statement and
 
 Claim Timestamp: 00:03:30
 
-Claim: The host says Andrew Kolvet responded to the Fort Huachuca question with a picture of Erika with her children that carried the wrong date and a remark about eating burgers rather than building a pillow fort.
+Claim: The host, mimicking Andrew Kolvet, says he answered the Fort Huachuca question with a picture of Erika with her babies "on the wrong date" and a remark that she was eating burgers rather than building a pillow fort.
 
 Transcript Snippet: Andrew's all like, "Here's a picture of her with her babies on the wrong date.
 
@@ -1574,7 +1574,7 @@ Claim: The host says cast member Payton McCormick's grandfather is Colonel Pete 
 Transcript Snippet: Her father is Lieutenant Colonel Allan McCormick, once stationed at Fort Huachuca.
 
 Anchored Artifacts: 
-Mentions: N-465, N-856, N-857
+Mentions: N-465, N-855, N-856
 Related Nodes: N-10417, N-10418
 Tags: relevance:context
 Investigative Direction: Confirm the family relationships and Allan McCormick's Fort Huachuca assignment through Army records or public obituaries.
@@ -1601,7 +1601,7 @@ Investigative Direction: Check Miss Teen USA 2006 titleholder records; the trans
 
 Claim Timestamp: 00:06:35
 
-Claim: The host says she could not find much on cast member Chantel Thuy but that her dad worked in artificial intelligence for IBM, which she speculates might connect to Fort Huachuca.
+Claim: The host says she did not have much time to go through cast member Chantel Thuy's background, but that her dad worked in artificial intelligence for IBM, which she speculates might connect to Fort Huachuca.
 
 Transcript Snippet: we can tell you that her dad worked for an artificial intelligence for IBM
 
@@ -1654,7 +1654,7 @@ Claim: The host says that, going by the comments on the Kickstarter campaign, th
 Transcript Snippet: They promised to deliver it in 2013. That didn't happen.
 
 Anchored Artifacts: A-1635.2
-Mentions: N-461, N-3
+Mentions: N-3
 Related Nodes: N-10418
 Tags: relevance:context
 Investigative Direction: Archive the Kickstarter comment thread and delivery estimate from the Wayback Machine.
@@ -1670,7 +1670,7 @@ Claim: The host says the film was never released despite posting updates up to 2
 Transcript Snippet: this project was never released despite posting updates up to 2017
 
 Anchored Artifacts: A-1635.2
-Mentions: N-461, N-3
+Mentions: N-3
 Related Nodes: N-10418
 Tags: relevance:context
 Investigative Direction: Capture the dated Kickstarter update log to confirm the last update year.
@@ -1713,7 +1713,7 @@ Investigative Direction: Recover the deleted post from archives or screenshots a
 
 Claim Timestamp: 00:12:00
 
-Claim: The host says the original poster has absolutely nothing to do with Mitch Snow, so the two accounts are independent.
+Claim: The host says the original poster has absolutely nothing to do with Mitch Snow.
 
 Transcript Snippet: This person has absolutely nothing to do with Mitch Snow.
 
@@ -1729,7 +1729,7 @@ Investigative Direction: Ask the host to disclose how independence from Mitch Sn
 
 Claim Timestamp: 00:12:25
 
-Claim: The host says one person in a chat among military personnel stationed at Fort Huachuca asserted they also saw Erika at the base and that there was an order to lower drones on that day.
+Claim: The host says that, as she understands it ("I guess"), there are chats among military personnel stationed at Fort Huachuca, and one person in a chat asserted they also saw Erika at the base and that there was an order to lower drones on that day.
 
 Transcript Snippet: and that there was an order to lower drones on that day.
 
@@ -1782,7 +1782,7 @@ Claim: The host says a chart she assembled shows recurring themes in the investi
 Transcript Snippet: We are finding this Liberty University strand, the Eastern uh Europe strand, the trafficking and sex abuse strand
 
 Anchored Artifacts: A-3037
-Mentions: N-3, N-42
+Mentions: N-3
 Related Nodes: N-11104, N-10401, N-10032
 Tags: relevance:context
 Investigative Direction: Publish the chart nodes with sources so each strand can be checked individually.
@@ -1811,7 +1811,7 @@ Investigative Direction: Pull the court docket of the Harvest Christian Fellowsh
 
 Claim Timestamp: 00:15:10
 
-Claim: The host recaps that Rob McCoy tried to rehabilitate a person who had abused children in the past.
+Claim: The host recaps, saying "this is all allegedly," that Rob McCoy tried to rehabilitate a person who had abused children in the past.
 
 Transcript Snippet: We had Rob McCoy trying to rehabilitate um a person who had abused children in the past.
 
@@ -1866,10 +1866,10 @@ Claim: The host says that on an earlier episode she said Retired Army General Pa
 Transcript Snippet: I think on that episode I said he was on the board, I meant to say he's on the advisory board.
 
 Anchored Artifacts: 
-Mentions: N-804, N-3
+Mentions: N-803, N-3
 Related Nodes: N-10000
 Supports: C-8245
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check the TPUSA advisory board listing for Vallely and archived versions of the site.
 
 ---
@@ -1883,7 +1883,7 @@ Claim: The host says Vallely, a retired Army general who ran psychological opera
 Transcript Snippet: We got this retired Army general who actually ran psychological operations and happened to co-write a book with this guy who was an avowed Satanist and started his own kind of Church of Satan called the Temple of Set
 
 Anchored Artifacts: 
-Mentions: N-804, N-3
+Mentions: N-803, N-3
 Related Nodes: N-11238
 Supports: C-8246
 Tags: relevance:context
@@ -1907,7 +1907,7 @@ Investigative Direction: Obtain the police report and the declination decision f
 
 ---
 
-**C-9862** Host Says Erika Created Everyday Heroes Like You to Fund Grassroots Groups
+**C-9862** Clip Shows Erika Saying She Created Everyday Heroes Like You to Fund Grassroots Groups
 
 Claim Timestamp: 00:17:00
 
@@ -1967,7 +1967,7 @@ Transcript Snippet: he was really upset uh that I had called him out on stage an
 Anchored Artifacts: 
 Mentions: N-97, N-1, N-3
 Related Nodes: N-10268, N-10386
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find Charlie Kirk's public post of support on the day of the firing and Shapiro's reaction.
 
 ---
@@ -1984,7 +1984,7 @@ Anchored Artifacts:
 Mentions: N-97, N-1, N-3
 Related Nodes: N-10268
 Supports: C-6656
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the text messages or the donor's identity the host says Charlie referred to; only Charlie's account via the host is offered.
 
 ---
@@ -2016,7 +2016,7 @@ Transcript Snippet: hey, letting you know that we're going to allow Ben to effec
 Anchored Artifacts: 
 Mentions: N-14, N-97, N-3
 Related Nodes: N-10268, N-10423
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Locate AmFest 2024 speaker lists and any sponsorship terms; Kolvet's call is documented only by the host.
 
 ---
@@ -2046,7 +2046,7 @@ Claim: The host says she is not saying Nelda Buckman was necessarily the person 
 Transcript Snippet: I'm not saying that she necessarily was the person who put the pressure on it
 
 Anchored Artifacts: 
-Mentions: N-462, N-3
+Mentions: N-462, N-1, N-3
 Related Nodes: N-10421, N-10423
 Qualifies: C-2116
 Tags: relevance:context
@@ -2143,7 +2143,7 @@ Claim: The host says the Courage House is reportedly in a confidential secure lo
 Transcript Snippet: the Courage House is report reportedly located in a confidential secure location
 
 Anchored Artifacts: A-1640.1
-Mentions: N-3, N-265
+Mentions: N-3
 Related Nodes: N-10420
 Tags: relevance:context
 Investigative Direction: Confirm through the Washoe County deed that the address is public record regardless of the facility's claim.
@@ -2159,7 +2159,7 @@ Claim: The host says the founder of Courage Worldwide told local news there are 
 Transcript Snippet: it quote, where it's hard for them to leave or for someone to find them.
 
 Anchored Artifacts: A-1640.1
-Mentions: N-3, N-265
+Mentions: N-3
 Related Nodes: N-10420, N-11240
 Tags: relevance:context
 Investigative Direction: Retrieve the local news report to read the founder's full quotation in context.
@@ -2209,7 +2209,7 @@ Transcript Snippet: I used to give, just annually, just so you guys know, to Ope
 Anchored Artifacts: 
 Mentions: N-327, N-3
 Related Nodes: N-11167
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Host's own giving record; no outside verification needed beyond her statement.
 
 ---
@@ -2218,13 +2218,13 @@ Investigative Direction: Host's own giving record; no outside verification neede
 
 Claim Timestamp: 00:29:50
 
-Claim: The host says Jeffrey Epstein donated a lot of money to schools, that his charities should be revisited, and that she is certain some were sex trafficking charities.
+Claim: The host says Jeffrey Epstein donated a lot of money to schools, that she is getting a sense his charities should be revisited, and that she would be certain some of them were sex trafficking charities.
 
 Transcript Snippet: we know how Jeffrey Epstein also gave to schools, he donated to schools, he donated a lot of money, actually
 
 Anchored Artifacts: 
 Mentions: N-9, N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull Epstein's foundation filings and recipients list and screen them for child-welfare charities.
 
 ---
@@ -2269,7 +2269,7 @@ Claim: The host says Astrid Tuminez has just stepped down from Utah Valley Unive
 Transcript Snippet: who by the way has just stepped down from Utah Valley University. It was just announced
 
 Anchored Artifacts: 
-Mentions: N-756, N-3
+Mentions: N-755, N-3
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Check the UVU announcement and its date.
@@ -2285,7 +2285,7 @@ Claim: The host says Tuminez was not at UVU on the day of Charlie's assassinatio
 Transcript Snippet: she was not there on the day of Charlie's assassination.
 
 Anchored Artifacts: 
-Mentions: N-756, N-1, N-3
+Mentions: N-755, N-1, N-3
 Related Nodes: N-10012, N-10028
 Tags: relevance:core
 Investigative Direction: Obtain Tuminez's September 10, 2025 whereabouts and travel; previously claimed absences can be compared.
@@ -2301,7 +2301,7 @@ Claim: The host says Tuminez looks to have been involved in color revolution wor
 Transcript Snippet: Looks like she was involved in some color revolution stuff for the CIA. She was a fostered child, was rescued from the Philippines.
 
 Anchored Artifacts: 
-Mentions: N-756, N-3
+Mentions: N-755, N-3
 Related Nodes: N-10012
 Tags: relevance:context
 Investigative Direction: Check Tuminez's published biography and memoir for her childhood and career; the CIA work claim has no cited source.
@@ -2327,13 +2327,13 @@ Investigative Direction: Film historians' accounts of Vienna emigre directors; t
 
 Claim Timestamp: 00:36:40
 
-Claim: The host says Epstein, for his own birthday, found 12-year-old triplets who were dirt poor, and that his friend Jean-Luc Brunel flew them from Paris to Epstein.
+Claim: The host says Epstein had been accused of trafficking children, and that for his own birthday he found 12-year-old triplets who were dirt poor, and his friend Jean-Luc Brunel in Paris flew them to Epstein.
 
 Transcript Snippet: his friend uh Jean-Luc Brunel in Paris flew these 12-year-old triplets to Jeffrey Epstein
 
 Anchored Artifacts: 
 Mentions: N-9, N-531, N-3
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Search the unsealed Giuffre and Maxwell filings and the Brunel investigation for the triplets allegation.
 
 ---
@@ -2349,7 +2349,7 @@ Transcript Snippet: the issue is that Epstein is a Jewish spy, probably working 
 Anchored Artifacts: A-1641.1
 Mentions: N-203, N-9
 Related Nodes: N-10023, N-10424
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the unedited source stream for Fuentes's wording and date.
 
 ---
@@ -2381,7 +2381,7 @@ Transcript Snippet: his lawyer wants to go off record when he's asked directly a
 Anchored Artifacts: 
 Mentions: N-203, N-3
 Related Nodes: N-10424
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find the interview in which the lawyer was asked and the exact response.
 
 ---
@@ -2397,7 +2397,7 @@ Transcript Snippet: The story is someone was trafficking girls to acquire blackm
 Anchored Artifacts: A-1641.2
 Mentions: N-203
 Related Nodes: N-10023, N-10424
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Source the original Fuentes stream, then compare with open-source reporting on Epstein and Israeli intelligence.
 
 ---
@@ -2450,16 +2450,16 @@ Investigative Direction: Check the host's interview with Fuentes for the exchang
 
 ---
 
-**C-9896** Host Says Jack Parsons Established the Apollo Program and Did Occult Sexual Rituals
+**C-9896** Host Asks Whether Jack Parsons, Who Established the Apollo Program, Did Occult Sexual Rituals
 
 Claim Timestamp: 00:45:10
 
-Claim: The host asks whether Jack Parsons, whom she says established the Apollo program at NASA, was conducting occult sexual rituals to establish a moon child, as a student of Aleister Crowley.
+Claim: The host asks whether Jack Parsons, whom she says established the Apollo program at NASA, was similarly conducting occult sexual rituals to establish a moon child, after saying Aleister Crowley was a student of this occultic ritualistic tradition.
 
 Transcript Snippet: Did Jackson did Jack Parsons exist the who established the Apollo program at NASA? Was he similarly conducting occult sexual rituals to establish a moon child?
 
 Anchored Artifacts: 
-Mentions: N-727, N-775, N-3
+Mentions: N-727, N-774, N-3
 Tags: relevance:tangential
 Investigative Direction: Parsons is documented as a JPL co-founder and Thelema follower; historians do not credit him with founding the Apollo program.
 
@@ -2558,7 +2558,7 @@ Transcript Snippet: we'd like to put her in what was called the Extraordinary Le
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10422
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Host's own schooling record; the program name could be checked with her district.
 
 ---
@@ -2574,7 +2574,7 @@ Transcript Snippet: they then said to my mom that we would like to pay for her t
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10422, N-11241
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Host's anecdote; check King Low Heywood Thomas School's gifted-program outreach in the 1990s.
 
 ---
@@ -2716,7 +2716,7 @@ Claim: The host says an interview between her and Myron Gaines drops the next da
 Transcript Snippet: we have an interview dropping tomorrow between me and Myron Gaines
 
 Anchored Artifacts: 
-Mentions: N-858, N-3
+Mentions: N-857, N-3
 Tags: relevance:tangential
 Investigative Direction: Check the release of the interview on the following day.
 

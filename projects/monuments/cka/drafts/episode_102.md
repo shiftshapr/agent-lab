@@ -17,7 +17,7 @@
   - Claim Range (supplement_2026-10f): C-12970–C-13055
   - New Nodes Introduced: N-10666, N-10667
   - Hole-minted Nodes (wave3): N-433
-  - Reused Nodes Appearing: N-11, N-10373, N-426, N-10664, N-434, N-10665, N-4, N-15, N-46, N-130, N-159, N-215, N-226, N-269, N-280, N-363, N-486, N-487, N-583, N-598, N-803, N-897, N-10000, N-10059, N-10349, N-10367, N-10417, N-10538, N-10609, N-10649, N-10862, N-10897, N-10899, N-10936, N-11001, N-11104, N-11109, N-11182, N-11248, N-11255, N-11287
+  - Reused Nodes Appearing: N-11, N-10373, N-426, N-10664, N-434, N-10665, N-4, N-15, N-46, N-130, N-159, N-215, N-226, N-269, N-280, N-363, N-486, N-487, N-583, N-598, N-802, N-896, N-10000, N-10059, N-10349, N-10367, N-10417, N-10538, N-10609, N-10649, N-10862, N-10897, N-10899, N-10936, N-11001, N-11104, N-11109, N-11182, N-11248, N-11255, N-11287
   - (see registers)
 
 # Episode Analysis: Monument Episode 102 – "Update! Erika Did Not Go Home. Source Confirms AI Voice Tactics. | Candace Ep 336"
@@ -694,7 +694,7 @@ Druski (spelled Druski and Drewski in the transcript); comedian whose skit mocke
 
 ---
 
-**N-803** Harris Faulkner
+**N-802** Harris Faulkner
 
 Harris Faulkner; Fox host who interviewed Erika.
 
@@ -702,7 +702,7 @@ Harris Faulkner; Fox host who interviewed Erika.
 
 ---
 
-**N-897** Bryan Freedman
+**N-896** Bryan Freedman
 
 Bryan Freedman; lawyer whose publish-it-all approach the host cites.
 
@@ -1979,7 +1979,7 @@ Claim: The host says she is thinking of putting the whole record online, as Brya
 Transcript Snippet: I'm thinking about doing the Bryan Freedman thing, which was obviously a lawyer Blake Lively Justin Baldoni, where he just put it all online cuz I have nothing to hide.
 
 Anchored Artifacts: 
-Mentions: N-897, N-486, N-487, N-3
+Mentions: N-896, N-486, N-487, N-3
 Related Nodes: N-10649
 Tags: relevance:context
 Investigative Direction: Watch for the host's publication of the Fort Huachuca timeline, messages and documents.
@@ -2094,7 +2094,7 @@ Claim: The host says that the day after her first presentation, Erika went on Ha
 Transcript Snippet: Harris Faulkner, she went on that show and then she was all fired up for the first time and like stop conspiracy theories you need to stop. That was the very next day.
 
 Anchored Artifacts: 
-Mentions: N-2, N-803, N-3
+Mentions: N-2, N-802, N-3
 Related Nodes: N-10367
 Supports: C-8066
 Tags: relevance:core

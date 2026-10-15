@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-759, N-11100, N-11101
+  - Tip-minted Nodes (supplement_2026-10b): N-758, N-11100, N-11101
   - Hole-minted Nodes (reintro-ep021): N-211, N-331, N-10323, N-10353
   - Tip-minted Nodes (reintro-ep021): N-663
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -231,7 +231,7 @@ Video Timestamp: 00:18:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6523, N-5, N-1, N-759*
+*Related: C-6523, N-5, N-1, N-758*
 
 ---
 
@@ -596,7 +596,7 @@ The host's recollection that Charlie Kirk told her TPUSA had found a person to c
 
 ---
 
-**N-759** Breland Holland
+**N-758** Breland Holland
 
 First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.
 
@@ -979,7 +979,7 @@ Claim: The host says Trump, in his speech at Charlie Kirk's memorial, told a sto
 Transcript Snippet: Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Breland Holland?
 
 Anchored Artifacts: A-2819.1
-Mentions: N-5, N-1, N-3, N-759
+Mentions: N-5, N-1, N-3, N-758
 Tags: relevance:context
 Investigative Direction: Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Breland Holland to see who attended.
 
