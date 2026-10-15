@@ -1996,6 +1996,90 @@
         105,
         106
       ]
+    ],
+    [
+      "\\bAndrew Cole\\b",
+      "Andrew Kolvet",
+      [
+        117
+      ]
+    ],
+    [
+      "\\bAndrew Klavan\\b",
+      "Andrew Kolvet",
+      [
+        130
+      ]
+    ],
+    [
+      "\\bAuto Buscher\\b",
+      "Otto Busher"
+    ],
+    [
+      "\\bBradley Hantel\\b",
+      "Bradley Hansell"
+    ],
+    [
+      "\\bBryan Harpole\\b",
+      "Brian Harpole"
+    ],
+    [
+      "\\bColvett\\b",
+      "Kolvet",
+      [
+        122
+      ]
+    ],
+    [
+      "\\bFaradox\\b",
+      "FARA docs",
+      [
+        125
+      ]
+    ],
+    [
+      "\\b(?:Sergeant|Sgt\\.?) (?:Filomena|Felomina)\\b",
+      "Sergeant Faumuina"
+    ],
+    [
+      "\\b(?:Filomena|Felomina)\\b",
+      "Faumuina",
+      [
+        126,
+        127
+      ]
+    ],
+    [
+      "\\bFrank Cheric\\b",
+      "Frank Turek"
+    ],
+    [
+      "\\bGeorge Zenn\\b",
+      "George Zinn"
+    ],
+    [
+      "\\bJames Catis\\b",
+      "James Kaddis"
+    ],
+    [
+      "\\bJohn Bray\\b",
+      "Jon Bray",
+      [
+        120,
+        123
+      ]
+    ],
+    [
+      "\\bJurski\\b",
+      "Druski"
+    ],
+    [
+      "\\bMatt Bramberg\\b",
+      "Matt Bromberg"
+    ],
+    [
+      "\\bTaylor Boyer\\b",
+      "Tyler Bowyer"
     ]
   ]
 }

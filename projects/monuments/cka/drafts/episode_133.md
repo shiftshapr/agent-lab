@@ -766,20 +766,20 @@ Investigative Direction: Obtain the original unaltered footage, authenticate sou
 
 ---
 
-**C-3151** Host Says Rooftop Footage Shows No Clearly Visible Muzzle Flash
+**C-3151** Host Says She Sees No Recoil in Rooftop Footage and Notes an Unexplained Flash
 
 Claim Timestamp: 00:13:37–00:15:53
-Claim: The host says that in the rooftop footage she displays, no muzzle flash is clearly visible before the shooter rises to flee.
+Claim: The host plays about 50 seconds of rooftop footage, asks viewers whether they see a recoil before the shooter gets up and sprints, says she did not see one, and notes a quick flash during the crawl that she is not sure about.
 Anchored Artifacts: A-2198.1, A-2198.4
 Related Nodes: N-10755
 Investigative Direction: Submit original footage for frame-by-frame forensic analysis and compare with reference muzzle-flash signatures for the alleged weapon type.
 
 ---
 
-**C-3152** Rooftop footage shows no visible recoil/kickback
+**C-3152** Host Says She Saw No Recoil in Rooftop Footage
 
 Claim Timestamp: 00:13:37–00:15:53
-Claim: In the displayed footage, the shooter is not shown exhibiting visible recoil or kickback consistent with the alleged weapon (German 98 Mouser family heirloom) at the moment of firing.
+Claim: The host says she saw no visible recoil or kickback in the displayed footage, though the alleged weapon (a German 98 Mouser family heirloom) would be expected to produce a strong one.
 Anchored Artifacts: A-2198.1, A-2198.4
 Related Nodes: N-10755
 Investigative Direction: Frame-by-frame forensic review of original footage; cross-reference with recoil physics of the alleged firearm model.
@@ -823,7 +823,7 @@ Investigative Direction: Verify against the released October 2025 House Committe
 Claim Timestamp: 00:30:41–00:31:35
 Claim: The Wikipedia article states that Phelan flew on Epstein's plane on March 3, 2006, from London to New York, with twelve other passengers including modeling agent Jean-Luc Brunel, per the released manifest.
 Anchored Artifacts: A-2200.3
-Mentions: N-530
+Mentions: N-785, N-9, N-530
 Related Nodes: N-10758
 Investigative Direction: Verify against released October 2025 House Committee manifest documents and cross-reference Brunel's known 2006 travel.
 
@@ -845,6 +845,7 @@ Investigative Direction: Obtain the underlying court exhibit / text record image
 Claim Timestamp: 00:35:52–00:38:42
 Claim: In an Iranian Lego video the host plays, repeated lyrics/text reference "Epstein" and "Epstein, Epstein, Epstein."
 Anchored Artifacts: A-2202.1
+Mentions: N-9
 Related Nodes:
 Investigative Direction: Confirm by independent review of the video file; verify whether the video is officially Iranian-state-affiliated or third-party.
 
@@ -886,7 +887,7 @@ Investigative Direction: Forensic review of the flash frame-by-frame; compare wi
 
 Claim Timestamp: 00:00:01
 
-Claim: The host says a White House employee confirmed to her that a White House meeting was on the books for Andrew Kolvet, the TPUSA chief marketing officer, the chief operating officer Justin Streiff and in-house counsel Frank, and that it fell on or near the day Benjamin Netanyahu was in town.
+Claim: The host says a White House employee confirmed to her that a White House meeting was on the books for Andrew Kolvet, the chief marketing officer (Marina), the chief operating officer Justin Streiff and in-house legal counsel Frank, and that it was allegedly scheduled for the same day or week Benjamin Netanyahu was in town.
 
 Transcript Snippet: I was also able to confirm with a White House employee that there certainly was a White House meeting on the books for Andrew Kolvet
 
@@ -1064,7 +1065,7 @@ Investigative Direction: Only testable through the host's sources; ask her to id
 
 Claim Timestamp: 00:06:57
 
-Claim: The host says she held the rooftop footage because she was told, by Erika Kirk, that the preliminary hearing would be forthcoming about anything and everything they had.
+Claim: The host says she held onto something since October partly because she was told, by Erika Kirk, that at the preliminary hearing they would be forthcoming about anything and everything they had.
 
 Transcript Snippet: I was told that at the preliminary hearing they would be forthcoming about anything and everything that they had. Was told that actually by Erika.
 
@@ -1112,7 +1113,7 @@ Investigative Direction: Compare gait before and after the rooftop frame by fram
 
 Claim Timestamp: 00:12:10
 
-Claim: The host says the person who recorded the footage told investigators he saw no recoil, which she argues would be impossible for the alleged model of rifle.
+Claim: The host says the person who recorded the footage told her audience he saw no recoil, which she argues would be impossible for the alleged model of rifle.
 
 Transcript Snippet: will recall that the guy who recorded the footage specifically said, told us that he saw no recoil.
 
@@ -1210,7 +1211,7 @@ Investigative Direction: Obtain K9 search logs, times and areas searched on Sept
 
 Claim Timestamp: 00:19:07
 
-Claim: The host says she is told the dog given a scent near the amphitheater was Loki and the bomb dog searching the field was Freya, who she is told had a broken nose that day.
+Claim: The host says people online found that the dog given the scent near the amphitheater was Loki, and that she is told the bomb dog searching the field was Freya, who she is told had a broken nose that day.
 
 Transcript Snippet: Freya was the bomb dog. I am told that she's the one who had a broken nose that day.
 
@@ -1274,7 +1275,7 @@ Investigative Direction: Verify Foster Curtis's NCIS and Inspector General caree
 
 Claim Timestamp: 00:22:28
 
-Claim: The host says NCIS has a presence in more than 41 countries and on US Navy vessels, that half its personnel are civilians, and that it investigates major criminal activity involving the Navy and Marine Corps, which she says would include an assassination planned by the military.
+Claim: The host says NCIS has a presence in more than 41 countries and on US Navy vessels, that half its personnel are civilians, and that it investigates major criminal activity involving the Navy and Marine Corps, which she says hypothetically would include an assassination plotted and executed by the military.
 
 Transcript Snippet: They have a presence in more than 41 countries and on US Navy vessels.
 
@@ -1311,7 +1312,7 @@ Claim: The host says Richmond fired its inspector general James Osuna after six 
 Transcript Snippet: No comments will be made on personnel matters and NDAs were signed.
 
 Anchored Artifacts: A-2875.1
-Mentions: N-3, N-784, N-783
+Mentions: N-3, N-784
 Related Nodes: N-11141
 Tags: relevance:core
 Investigative Direction: Find the June 2025 Richmond local news reports and city statements on Osuna's departure.
@@ -1434,7 +1435,7 @@ Investigative Direction: Check corporate and press histories of Next Model Manag
 
 Claim Timestamp: 00:31:35
 
-Claim: The host says her team went to Erika Kirk for comment on a claim about managing modeling apartments, that the host would have instantly denied such a claim, and that the sources are certain it is true and no comment came back.
+Claim: The host says her team went to Erika Kirk for comment on an allegation about managing modeling apartments, that she would instantly have denied such an allegation, that those alleging it are certain it is true, and that no comment came back.
 
 Transcript Snippet: We went out to Erika for comment. something that I would instantly want to remove myself from and say no that's absolutely not true.
 
@@ -1496,7 +1497,7 @@ Investigative Direction: Locate Kolvet's public statement and any dated messages
 
 ---
 
-**C-7390** Host Says Charlie Relayed Trump's Private Request That She Stop Speaking About Brigitte Macron
+**C-7390** Host Says Charlie Would Not Have Revealed Trump's Private Request About Brigitte
 
 Claim Timestamp: 00:45:12
 
@@ -1507,7 +1508,7 @@ Transcript Snippet: Charlie would not have revealed the private conversation wit
 Anchored Artifacts: 
 Mentions: N-3, N-1, N-5, N-82
 Related Nodes: N-10316
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Ask the host for the dated message or call record in which Charlie conveyed the request, and ask the White House about it.
 
 ---
@@ -1553,7 +1554,7 @@ Claim: The host says every police division she has spoken to told her the feds w
 Transcript Snippet: Every police division that I've spoken to said that the feds were sending everybody on wild goose hunts
 
 Anchored Artifacts: 
-Mentions: N-3, N-69
+Mentions: N-3
 Related Nodes: N-11054
 Supports: C-5223
 Tags: relevance:core

@@ -316,7 +316,7 @@ Confidence Level: Low
 
 **A-2688.3** Viewer comment (Cabo goes off) on an Andrew Kolvet interview about a call Erika Kirk received (read aloud)
 
-Quoted text: "I can't stop thinking about an interview with Andrew Cole that saying how Erika was called within a few hours of Charlie from someone very important and they asked what Erika knew and she said, 'I know everything.'"
+Quoted text: "I can't stop thinking about an interview with Andrew Kolvet that saying how Erika was called within a few hours of Charlie from someone very important and they asked what Erika knew and she said, 'I know everything.'"
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:55:47
@@ -406,13 +406,13 @@ The host links his network to the assassination as her opinion, and cites the ti
 
 **N-11** Tyler Bowyer
 
-Transcript spelling "Taylor Boyer" at 20:37. On the connecting-themes spreadsheet for his Romania, Russia and Ukraine ties; the host says he hired those around Charlie Kirk.
+Transcript spelling "Tyler Bowyer" at 20:37. On the connecting-themes spreadsheet for his Romania, Russia and Ukraine ties; the host says he hired those around Charlie Kirk.
 
 *Related: C-4672, C-4673, C-4685, C-4690, C-4691, C-4694, A-2685.1, A-2685.2*
 
 **N-14** Andrew Kolvet
 
-Transcript spellings "Andrew Corbett" (24:24) and "Andrew Cole" (55:47). Speaks about the necklace in the Laura Ingraham clip; his brother Curtis is said to be stationed in Romania.
+Transcript spellings "Andrew Corbett" (24:24) and "Andrew Kolvet" (55:47). Speaks about the necklace in the Laura Ingraham clip; his brother Curtis is said to be stationed in Romania.
 
 *Related: C-4655, C-4693, C-4719, A-2677.3, A-2685.1, A-2688.3*
 
@@ -837,7 +837,7 @@ Claim: In a clip the host later attributes to Andrew Kolvet on Laura Ingraham's 
 Transcript Snippet: the people caring for him ripped it off as they tried to save his life and um uh Erika has it on her all times now.
 
 Anchored Artifacts: A-2677.3
-Mentions: N-14, N-2, N-1
+Mentions: N-14, N-2, N-1, N-692
 Related Nodes: N-10537
 Investigative Direction: Locate the full broadcast of the Kolvet interview and compare it with the transport-vehicle accounts of who removed the necklace and when.
 
@@ -852,7 +852,7 @@ Claim: The host rejects the theory that the necklace itself was rigged. Under he
 Transcript Snippet: the reason the feds were looking for that necklace, the reason um that it was given to Erika is because if our theory is correct, it contained explosive residue.
 
 Anchored Artifacts: A-2677.2
-Mentions: N-2, N-191, N-160, N-1
+Mentions: N-2, N-1
 Related Nodes: N-10537, N-10768
 Investigative Direction: Request chain-of-custody records for the necklace and any forensic testing of it before release to the family.
 
@@ -867,7 +867,7 @@ Claim: Presenting a recap graphic, the host says that if Charlie Kirk's micropho
 Transcript Snippet: The rigged mic would go a long way in terms of explaining uh why the bomb dogs were kept away from the scene.
 
 Anchored Artifacts: A-2678.1
-Mentions: 
+Mentions: N-1
 Related Nodes: N-10768, N-10107
 Investigative Direction: Obtain police and federal K-9 deployment records for the UVU scene on September 10 and the work orders for the paving and excavation.
 
@@ -998,9 +998,9 @@ Investigative Direction: Obtain the UVU event security and medical plan and TPUS
 
 Claim Timestamp: 00:09:19
 
-Claim: The host says Erika Kirk publicly forgave Tyler Robinson more quickly than she forgave the comedian Druski ("Jurski"), at whom she later said she was much angrier.
+Claim: The host says Erika Kirk publicly forgave Tyler Robinson more quickly than she forgave Druski ("Druski"), at whom she later said she was much angrier.
 
-Transcript Snippet: why Erika was quick to forgive Tyler Robinson before the world, quicker than she was able to forgive Jurski
+Transcript Snippet: why Erika was quick to forgive Tyler Robinson before the world, quicker than she was able to forgive Druski
 
 Anchored Artifacts: 
 Mentions: N-2, N-40
@@ -1043,7 +1043,7 @@ Investigative Direction: Analyse high-resolution UVU footage and stills of the m
 
 Claim Timestamp: 00:10:56
 
-Claim: The host says the wireless Rode mic was added as a redundancy starting with the first campus tour on which she was not featured alongside Charlie Kirk. She says Terryl Farnsworth admitted this to her by phone.
+Claim: The host says it seems the wireless Rode mic was added as a redundancy starting with the first campus tour on which she was not featured alongside Charlie Kirk. She says that was also admitted to her by Terryl Farnsworth on the phone.
 
 Transcript Snippet: that is when it seems the team began to introduce the redundancy of the wireless road mic. Again, that was also admitted to me by Terryl Farnsworth on the phone.
 
@@ -1093,7 +1093,7 @@ Claim: The host says Terryl Farnsworth has run Charlie Kirk's audio-visual team 
 Transcript Snippet: We know Terryl Farnsworth is running this team. He has for over 10 years.
 
 Anchored Artifacts: 
-Mentions: N-262, N-11
+Mentions: N-262, N-11, N-1
 Related Nodes: N-10383
 Investigative Direction: Check Visual Impulse's corporate filings and TPUSA vendor payments for the length of the relationship, and public records on the families' ties.
 
@@ -1123,7 +1123,7 @@ Claim: The host says the member of Terryl Farnsworth's team who mic'd Charlie Ki
 Transcript Snippet: And that answer is uh the answer is a young man named Philip Goldsberry Jr., okay?
 
 Anchored Artifacts: A-2683.1
-Mentions: N-688, N-262, N-182, N-1
+Mentions: N-688, N-262, N-1
 Related Nodes: N-10987
 Investigative Direction: Confirm the technician's identity from event crew lists, Visual Impulse staffing records and UVU credentialing.
 
@@ -1133,7 +1133,7 @@ Investigative Direction: Confirm the technician's identity from event crew lists
 
 Claim Timestamp: 00:15:55
 
-Claim: In a video by X user Sam Parker, Philip Goldsberry is shown holding the transmitter and lapel magnet near Terryl Farnsworth and Frank Turek. Parker says the dual charging cases or docking stations show the mic is a Rode Wireless Pro.
+Claim: In a video by X user Sam Parker, Philip Goldsberry is shown holding the transmitter and lapel magnet behind Frank Turek, and earlier holding the mic in front of someone who looks like Terryl Farnsworth. Parker says the dual charging cases or docking stations show the mic is a Rode Wireless Pro.
 
 Transcript Snippet: This is how we know it's the Rode Wireless Pro microphone because it comes with the dual charging cases and and docking stations.
 
@@ -1208,7 +1208,7 @@ Investigative Direction: Obtain Soter Global Ministries' founding documents, IRS
 
 Claim Timestamp: 00:18:27
 
-Claim: The host says the organization, Soter Global Ministries, worked in Ukraine and in Romania providing medical care to orphanages, and that her team has verified the connection with pictures.
+Claim: The host says the organization, Soter Global Ministries, worked in Ukraine and in Romania, helping provide medical care to orphanages, and that her team verified the father's identity and has pictures.
 
 Transcript Snippet: The organization would come to be known as Soder Global Ministries. And of course, they were in Ukraine. And of course, they were in Romania helping to provide medical care to orphanages.
 
@@ -1240,7 +1240,7 @@ Claim Timestamp: 00:18:27
 
 Claim: The host says Erika Kirk's Romanian Angels drew criticism online when people realized she was partnering with Colonel "Otto Busher," whom the host says was accused of setting up the base and trafficking children through it. This is presented as an accusation, not an established fact.
 
-Transcript Snippet: This is what landed Erika's Romanian Angels in some hot water online when they realized she was partnering with Colonel Auto Buscher
+Transcript Snippet: This is what landed Erika's Romanian Angels in some hot water online when they realized she was partnering with Colonel Otto Busher
 
 Anchored Artifacts: 
 Mentions: N-2, N-690
@@ -1285,7 +1285,7 @@ Claim Timestamp: 00:20:37
 
 Claim: The host says that in 2005–2006, the years of Soter's early work, Tyler Bowyer was doing missionary work in the same region.
 
-Transcript Snippet: in these years, 2006, 2005, this is also when Taylor Boyer is out doing missionary work in this exact same region.
+Transcript Snippet: in these years, 2006, 2005, this is also when Tyler Bowyer is out doing missionary work in this exact same region.
 
 Anchored Artifacts: 
 Mentions: N-11
@@ -1298,7 +1298,7 @@ Investigative Direction: Confirm the dates and location of Bowyer's mission serv
 
 Claim Timestamp: 00:21:30
 
-Claim: The host says she is hearing from people that Erika Kirk was frequenting the same modeling office as a woman who was very close to Jeffrey Epstein and whose firm allegedly trafficked Eastern European models. This is attributed to unnamed sources.
+Claim: The host says she is hearing from people that Erika Kirk was hanging out at the same modeling office as Jeffrey Epstein. She refers to a woman close to Epstein, through whose firm Eastern European models seem to have been trafficked. This is attributed to unnamed sources.
 
 Transcript Snippet: why I'm hearing from people that she's hanging out at the same office model office as Jeffrey Epstein.
 
@@ -1313,7 +1313,7 @@ Investigative Direction: Identify the agency and the woman referred to, and chec
 
 Claim Timestamp: 00:21:30
 
-Claim: The host says Jeffrey Epstein died (she says August 2019) almost to the day that Charlie Kirk and Erika Kirk went on their first date.
+Claim: The host says Jeffrey Epstein "goes down" almost to the day that Charlie Kirk and Erika Kirk went on their first date; she says she thinks that was August 2019, when Epstein killed himself.
 
 Transcript Snippet: almost to the day that Charlie and Erika go on their first day date is when Jeffrey Epstein goes down.
 
@@ -1570,7 +1570,7 @@ Investigative Direction: Request the property-release record for the microphone 
 
 Claim Timestamp: 00:31:04
 
-Claim: The host says that on the night before he died, after Charlie Kirk said he was leaving the pro-Israel cause and a rabbi and Josh Hammer called him, he wrote on a group text, "You guys keep the money. I don't want it." She says he then texted his team that he feared a trans person would kill him.
+Claim: The host says that on the night before he died, after Charlie Kirk said he was leaving the pro-Israel cause and a rabbi and Josh Hammer called him, he wrote on a group text, "You guys keep the money. I don't want it." She says he then texted his team, about a "trans fairy," "That's who's going to kill me."
 
 Transcript Snippet: having a rabbi call him and Josh Hammer call him and he's on this group text and he's saying, "You guys keep the money. I don't want it."
 
@@ -1781,7 +1781,7 @@ Investigative Direction: Compare the complaint's 911 allegation with the full se
 
 Claim Timestamp: 00:55:02
 
-Claim: The host says the Turning Point staff, naming Mikey McCoy, Blake Neff and Andrew Sypher ("Andrew Cypher"), did not try to assist Charlie Kirk or call 911. She says they instead ran under the underpass.
+Claim: The host says the Turning Point team broadly, including staff she gives as examples such as Mikey McCoy, Blake Neff and Andrew Sypher ("Andrew Cypher"), did not try to assist Charlie Kirk or call 911. She says they instead ran under the underpass.
 
 Transcript Snippet: the Turning Point team broadly didn't try to assist Charlie and didn't call 911.
 
@@ -2009,8 +2009,8 @@ Confidence: high
 - **DIA scan**: one real DIA beat, the $10,000 bounty at 00:54:23 (C-4716, A-2690.1, M-12). The "very nice tip" at 00:52:57 is a viewer's monetary chat tip (Zammit) and was not treated as a DIA beat. The host's account of the flood of emails from audio professionals (09:48, 12:50) contains none of the DIA trigger phrases and is handled as C-4667/C-4671, not as DIA. No Candace Intelligence Agency merch phrase airs, so M-14 is not used.
 - **Artifacts verbally referenced but not shown**: A-2681.1 (host's phone call with Terryl Farnsworth), A-2689.1 (WHCD "emotional asset" email) and A-2690.1 (the $10,000 bounty). The "graphic" (A-2678.1) and the science article (A-2678.2) are described as shown, but their text is only partly read.
 - **Speaker uncertainty in clips**: the necklace clips at 01:20–03:22 are not labelled in the transcript. A-2677.1 appears to be Erika Kirk. A-2677.2 appears to be Frank Turek (consistent with prior C-1962). A-2677.3 is identified as Andrew Kolvet on Laura Ingraham's show only by the host's later remark at 38:48.
-- **Name matching**: "Taylor Boyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Cole" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-332 Andrew Sypher. "Blakey Naft" mapped to N-160 Blake Neff. "Ryan Harpole" mapped to N-267 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-262. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-690) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-691) on the brother relationship alone. "Laura Ingram" is minted as Laura Ingraham (N-692); she has no row in nodes.tsv.
-- **Not minted**: "Rick", "Dan" and "Justin" in Harpole's clip (possibly Rick Cutler, Dan Flood and a Justin, who exist in nodes.tsv, but not confirmed from this transcript); Druski ("Jurski", no row in nodes.tsv; staging episode 084 mints him as N-686); Ivanka Trump (joke only, used for meme M-109); Natalia (orphan, no surname); Dana Loesch ("Dana Lash", rhetorical mention only); Tucker Carlson and Baron Coleman (mentions without a claim); Nissy and the Erika Jayne Girardi signature misreading (joke).
+- **Name matching**: "Tyler Bowyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Kolvet" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-332 Andrew Sypher. "Blakey Naft" mapped to N-160 Blake Neff. "Ryan Harpole" mapped to N-267 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-262. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-690) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-691) on the brother relationship alone. "Laura Ingram" is minted as Laura Ingraham (N-692); she has no row in nodes.tsv.
+- **Not minted**: "Rick", "Dan" and "Justin" in Harpole's clip (possibly Rick Cutler, Dan Flood and a Justin, who exist in nodes.tsv, but not confirmed from this transcript); Druski ("Druski", no row in nodes.tsv; staging episode 084 mints him as N-686); Ivanka Trump (joke only, used for meme M-109); Natalia (orphan, no surname); Dana Loesch ("Dana Lash", rhetorical mention only); Tucker Carlson and Baron Coleman (mentions without a claim); Nissy and the Erika Jayne Girardi signature misreading (joke).
 - **Transcription ambiguities**: "Loews E building" (kept as spoken), "road mic" / "road bike" for Rode mic, ".30-ought-six" / ".30-06", "first day date", "Teen Miss America crown" (the title is unverified), "headedtocannasoans. com" (merch URL).
 - **Meme spelling for the integrator**: staging has three titles for the same merch joke ("Stop Anti-Candism" in 112, "Stop Anti-Candaceism" in 111, "Anti-Candacism" in 113); M-107 follows 113 and the transcript spelling. M-109 reuses "Ivanka the Explorer" and M-103 reuses "Snakes in Charlie's Garden" from staging.
 - **Not inscribed as claims (admission test)**:

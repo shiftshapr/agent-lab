@@ -45,13 +45,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2139",
       "family_ref": "A-2139",
-      "bundle_name": "Tyler Robinson Hearing – Sergeant Jennifer Filomena Testimony",
+      "bundle_name": "Tyler Robinson Hearing – Sergeant Jennifer Faumuina Testimony",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2139.1",
           "ref": "A-2139.1",
-          "description": "Filomena Testimony on Unattended Items at Folsom Library Bus Stop",
+          "description": "Faumuina Testimony on Unattended Items at Folsom Library Bus Stop",
           "related_claims": [
             "C-3027"
           ],
@@ -71,7 +71,7 @@
           "@type": "Artifact",
           "@id": "A-2139.2",
           "ref": "A-2139.2",
-          "description": "Filomena Testimony on Communication to FBI/ATF Discontinuing Testing",
+          "description": "Faumuina Testimony on Communication to FBI/ATF Discontinuing Testing",
           "related_claims": [
             "C-3028"
           ],
@@ -790,7 +790,7 @@
       "ref": "N-506",
       "name": "Jennifer Faumuina",
       "type": "person",
-      "description": "First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Filomena, Jennifer Felomina, Jennifer Faumuina.",
+      "description": "First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Faumuina, Jennifer Faumuina, Jennifer Faumuina.",
       "related_artifacts": [
         "A-2139.1",
         "A-2139.2"
@@ -1767,7 +1767,7 @@
       "@id": "C-3027",
       "ref": "C-3027",
       "label": "Unattended Items Seized Near Library Bus Stop",
-      "claim": "Sergeant Filomena testified that officers canvassing the scene seized unattended items – including a backpack, jacket, and gloves – near the Folsom (Fulton) Library bus stop.",
+      "claim": "Sergeant Faumuina testified that officers canvassing the scene seized unattended items – including a backpack, jacket, and gloves – near the Folsom (Fulton) Library bus stop.",
       "anchored_artifacts": [
         "A-2139.1"
       ],
@@ -1786,8 +1786,8 @@
       "@type": "Claim",
       "@id": "C-3028",
       "ref": "C-3028",
-      "label": "Clip Shows Sergeant Filomena Acknowledging UVU Communicated Discontinuation of Testing to FBI",
-      "claim": "In a hearing clip the host plays, Sergeant Filomena acknowledges that items were sent to the FBI lab and that UVU eventually communicated to the lab that the items were not connected to the case and required no further testing.",
+      "label": "Clip Shows Sergeant Faumuina Acknowledging UVU Communicated Discontinuation of Testing to FBI",
+      "claim": "In a hearing clip the host plays, Sergeant Faumuina agrees that the seized items were sent to the FBI lab, and when asked whether she eventually told the lab the items were not connected to the case and needed no further testing, says she does not remember communicating that.",
       "anchored_artifacts": [
         "A-2139.2"
       ],
@@ -1814,7 +1814,7 @@
         "N-10717"
       ],
       "tags": [],
-      "claim_timestamp": "00:16:09",
+      "claim_timestamp": "00:17:10",
       "investigative_direction": "Compare witness description to rooftop video exhibits and to expert definitions of Individual Movement Technique (IMT).",
       "mentions_person_refs": []
     },
@@ -1840,7 +1840,7 @@
       "@id": "C-3031",
       "ref": "C-3031",
       "label": "Eyewitness Described Rifle as Smaller than Mauser, Resembling .223",
-      "claim": "The eyewitness described the rooftop person's rifle as looking smaller than a .30-06 (and specifically as appearing to be a .223), contradicting the recovered Mauser per the witness.",
+      "claim": "In a recording the host plays, the eyewitness says the rooftop person's rifle looked smaller than the recovered Mauser; the host adds that he told her it looked like a .223 and smaller than a .30-06.",
       "anchored_artifacts": [
         "A-2140.2"
       ],
@@ -1855,7 +1855,7 @@
       "@id": "C-3032",
       "ref": "C-3032",
       "label": "911 Caller Reported Person on Building Near Library",
-      "claim": "A 911 caller reported a person on the building on the far north side, just east of the library, wearing jeans, black shirt, black vest, and a black mask, carrying a long rifle.",
+      "claim": "In a 911 call the host plays, a voice reports a person on top of a building on the far north side, just east of the library, wearing jeans, a black shirt and a black vest; a second voice repeats it, adding a black mask and a long rifle.",
       "anchored_artifacts": [
         "A-2141.1"
       ],
@@ -1872,7 +1872,7 @@
       "@id": "C-3033",
       "ref": "C-3033",
       "label": "Police Scanner Reported Face Mask and Tactical Gear",
-      "claim": "Host states that initial police scanner traffic described a person in a face mask and tactical gear, contrasting with subsequent federal narrative claims of jeans-only attire.",
+      "claim": "The host says that initial police scanner traffic described a person in a face mask and tactical gear, contrasting with the federal narrative that, she says, now has him wearing jeans or something.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10717"
@@ -1887,7 +1887,7 @@
       "@id": "C-3034",
       "ref": "C-3034",
       "label": "Federal Authorities Contacted Eyewitness Only Once; Not Called by Prosecution",
-      "claim": "The eyewitness was contacted by federal authorities only once, a few days after the incident, and has never been called as a prosecution witness despite being willing to testify.",
+      "claim": "The host says the eyewitness was contacted by federal authorities only once, a few days after the incident, and has never been called by the prosecution despite being willing to testify.",
       "anchored_artifacts": [
         "A-2140.3"
       ],
@@ -1904,7 +1904,7 @@
       "@id": "C-3035",
       "ref": "C-3035",
       "label": "Frank Turek Worked as Bank of America Consultant for ~15 Years",
-      "claim": "Per Christian Post article (2011), Dr. Frank Turek was a consultant to Bank of America for approximately 15 years conducting leadership and team-building programs until being fired in 2011.",
+      "claim": "Per the Christian Post article (2011) the host reads, Dr. Frank Turek did work on and off for Bank of America for about 15 years, mainly conducting leadership and team-building programs, until being dropped in 2011.",
       "anchored_artifacts": [
         "A-2142.1"
       ],
@@ -1955,14 +1955,17 @@
       "tags": [],
       "claim_timestamp": "00:29:15",
       "investigative_direction": "Obtain full NewsNation interview; identify any specific evidence references Comperatore cited (\"I've been told things\").",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-821",
+        "N-104"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3038",
       "ref": "C-3038",
       "label": "Comperatore: Secret Service Did Not Reach Out for a Year",
-      "claim": "Per host reporting on NewsNation interview, Helen Comperatore stated that Secret Service did not contact her until a year after the Butler incident and did not fully answer her questions.",
+      "claim": "In a NewsNation clip the host plays, a reporter says Helen Comperatore says the Secret Service did not reach out to her until a year later and did not fully answer her questions.",
       "anchored_artifacts": [
         "A-2143.2"
       ],
@@ -1970,16 +1973,18 @@
         "N-10724"
       ],
       "tags": [],
-      "claim_timestamp": "00:31:50",
+      "claim_timestamp": "00:30:55",
       "investigative_direction": "Obtain NewsNation transcript and verify Secret Service contact timeline with the Comperatore family.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-821"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3039",
       "ref": "C-3039",
       "label": "Time Reported Israeli PR Campaign via Clock Tower X Backfired",
-      "claim": "Time magazine reported that the Brad Parscale / Clock Tower X digital influence campaign on behalf of the Israeli foreign ministry backfired and failed to achieve its intended impact.",
+      "claim": "The host says Time published an article about the Israeli foreign ministry's digital campaign run through Brad Parscale's firm Clock Tower X, and says it seems to have backfired.",
       "anchored_artifacts": [
         "A-2144.1"
       ],
@@ -2192,8 +2197,8 @@
       "@type": "Claim",
       "@id": "C-8939",
       "ref": "C-8939",
-      "label": "Filomena Does Not Recall Whether Nine Items Were Seized and Agrees Items Went to FBI Lab",
-      "claim": "Asked whether the seized items numbered nine, Sergeant Filomena said she did not remember, and she agreed that whatever was seized was sent to the FBI lab.",
+      "label": "Faumuina Does Not Recall Whether Nine Items Were Seized and Agrees Items Went to FBI Lab",
+      "claim": "Asked whether the seized items numbered nine, Sergeant Faumuina said she did not remember, and she agreed that whatever was seized was sent to the FBI lab.",
       "anchored_artifacts": [
         "A-2139.1"
       ],
@@ -2215,8 +2220,8 @@
       "@type": "Claim",
       "@id": "C-8940",
       "ref": "C-8940",
-      "label": "Filomena Agrees DNA and Other Analysis Was Requested on the Items",
-      "claim": "In a hearing clip the host plays, Sergeant Filomena agrees with the questioner that she was requesting both DNA and other types of analysis on the seized items.",
+      "label": "Faumuina Agrees DNA and Other Analysis Was Requested on the Items",
+      "claim": "In a hearing clip the host plays, Sergeant Faumuina agrees with the questioner that she was requesting both DNA and other types of analysis on the seized items.",
       "anchored_artifacts": [
         "A-2139.2"
       ],
@@ -2237,8 +2242,8 @@
       "@type": "Claim",
       "@id": "C-8941",
       "ref": "C-8941",
-      "label": "Filomena Says She Does Not Remember Telling the Lab to Stop but Finds It Consistent With FBI/ATF Notes",
-      "claim": "Sergeant Filomena said 'I don't remember communicating that' when asked whether she told the lab the items were unconnected, then said it would not be inconsistent with what she knows if the FBI or ATF notes recorded it, and agreed it would be fair to say the items were determined unrelated.",
+      "label": "Faumuina Says She Does Not Remember Telling the Lab to Stop but Finds It Consistent With FBI/ATF Notes",
+      "claim": "Sergeant Faumuina said 'I don't remember communicating that' when asked whether she told the lab the items were unconnected, then said it would not be inconsistent with what she knows if the FBI or ATF notes recorded it, and agreed it would be fair to say the items were determined unrelated.",
       "anchored_artifacts": [
         "A-2139.2"
       ],
@@ -2278,7 +2283,7 @@
       "investigative_direction": "Measure the walking distance from the Losee Center to the library bus stops and obtain the hearing testimony that set the route.",
       "transcript_snippet": "Just so you guys know, the library is not near Loews Center.",
       "mentions_person_refs": [
-        "N-506"
+        "N-3"
       ]
     },
     {
@@ -2586,7 +2591,7 @@
       "@id": "C-8957",
       "ref": "C-8957",
       "label": "Witness Says He Went Back Inside the Perimeter About an Hour Later and Showed the Command Center His Video",
-      "claim": "The witness says that about an hour after the shot he went back inside the perimeter, ran to the command center, showed his video and told officers they had the wrong guy (George Zenn).",
+      "claim": "The witness says that about an hour after the shot he went back inside the perimeter, ran to the command center, showed his video and told officers they had the wrong guy (George Zinn).",
       "anchored_artifacts": [
         "A-2140.3"
       ],
@@ -2648,8 +2653,8 @@
       "@type": "Claim",
       "@id": "C-8960",
       "ref": "C-8960",
-      "label": "Host Says Filomena Identified the Losee-to-Library Route as the Shooter's Route",
-      "claim": "The host says that Sergeant Filomena made clear the route from the Losee Center to the library was the route the shooter took and that this is why the items were recovered.",
+      "label": "Host Says Faumuina Identified the Losee-to-Library Route as the Shooter's Route",
+      "claim": "The host says that Sergeant Faumuina made clear the route from the Losee Center to the library was the route the shooter took and that this is why the items were recovered.",
       "anchored_artifacts": [
         "A-2139.1"
       ],
@@ -2691,7 +2696,7 @@
       "@id": "C-8962",
       "ref": "C-8962",
       "label": "911 Audio Has Dispatcher Reporting Gunshots Near the Library and Another Report of Shots Fired There",
-      "claim": "In the played 911 audio, a dispatcher says gunshots were heard near the library at UVU, that they are trying to lock the library down, and that another report of shots fired at the UVU library had just come in.",
+      "claim": "In the played 911 audio, a speaker says gunshots were heard near the library at UVU and that they are trying to lock the library down, and another voice says the dispatcher is saying they just got another report of shots fired at the UVU library.",
       "anchored_artifacts": [
         "A-2141.1"
       ],
@@ -2731,7 +2736,7 @@
       "@id": "C-8964",
       "ref": "C-8964",
       "label": "Host Says Officers Gave a Ridiculous Answer on Why They Did Not Act on the .223 Round",
-      "claim": "The host says that when officers were asked why they did not act on the unfired .223 round, they gave a ridiculous answer, including words to the effect of 'I should have pulled that'.",
+      "claim": "The host says that when officers were asked why they did not act on the unfired .223 round, they gave a ridiculous answer, and she adds 'I should have pulled that'.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11200"
@@ -2764,7 +2769,8 @@
       "investigative_direction": "Locate the earlier episode where the host raised this and the evidence she cited, then check against the Butler investigation reports.",
       "transcript_snippet": "We revisit the Butler assassination and speculated that Corey Comparetor, the only person who lost his life on that day may have even been targeted.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-105"
       ]
     },
     {
@@ -3013,7 +3019,7 @@
       "@id": "C-8976",
       "ref": "C-8976",
       "label": "Host Says Time Names Eyal Yakoby and That He Posts About 300 Times a Day",
-      "claim": "The host says the Time article names Eyal Yakoby, whom she says she blocked long ago as an obvious paid account, and describes his posting as about 300 posts a day.",
+      "claim": "The host says the Time article names Eyal Yakoby, whom she says she blocked long ago because it was obvious he was a paid stooge, and she says he posted about 300 times a day.",
       "anchored_artifacts": [
         "A-2144.1"
       ],
@@ -3457,8 +3463,8 @@
       "@type": "Claim",
       "@id": "C-8995",
       "ref": "C-8995",
-      "label": "Viewer Comment Says No Carhartt Store Stocked the Freedom Shirt, So It Was Custom",
-      "claim": "A viewer, read on air, says Carhartt is a Michigan company, that they visited the Carhartt store in Detroit around Christmas and did not see the freedom shirt, so it was custom.",
+      "label": "Viewer Comment Says Freedom Shirt Was Not at Detroit Carhartt Store, Likely Custom",
+      "claim": "A viewer, read on air, says Carhartt is a Michigan company, that they visited the Carhartt store in Detroit around Christmas and did not see the freedom shirt, and that it is safe to say it was custom.",
       "anchored_artifacts": [
         "A-2976.2"
       ],
@@ -3560,7 +3566,7 @@
       "@id": "C-9000",
       "ref": "C-9000",
       "label": "Host Says the Panguitch Steakhouse Issue Will Throw Things for a Loop and She Has Receipts",
-      "claim": "The host says the Panguitch Steakhouse matter is going to throw the timeline for a loop and that there are receipts.",
+      "claim": "The host says the Panguitch Steakhouse matter is going to throw things for a loop and that there are receipts.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10381"
@@ -3640,7 +3646,6 @@
       "transcript_snippet": "the only other person could be the driver. Going 100 miles per an hour. Updating Ben's security on a 7-minute journey.",
       "mentions_person_refs": [
         "N-3",
-        "N-267",
         "N-97"
       ]
     },
@@ -3672,7 +3677,7 @@
       "@id": "C-9005",
       "ref": "C-9005",
       "label": "Host Says the Influencers Were Shown the Footage in 4K at the End of the Fifth Day of the Hearing",
-      "claim": "The host says that at the very end of the fifth day of the hearing the influencers were shown the footage, in 4K HD, where everyone could see it.",
+      "claim": "The host says that, in the narrative she is supposed to accept that it was Tyler Robinson, everyone could see it in 4K HD and the influencers were shown it at the very end of the fifth day of the hearing.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11065",
@@ -3785,11 +3790,11 @@
           "video_timestamp": "00:08:30",
           "speaker_node_ref": "N-3",
           "quote": "she's going to suffer from a little bit of amnesia",
-          "context": "Host introduces Sergeant Filomena's testimony.",
+          "context": "Host introduces Sergeant Faumuina's testimony.",
           "confidence": "high",
           "tags": [
             "amnesia",
-            "Filomena"
+            "Faumuina"
           ]
         },
         {

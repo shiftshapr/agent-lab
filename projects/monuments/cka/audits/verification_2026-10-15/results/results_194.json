@@ -1,0 +1,769 @@
+[
+ {
+  "claim": "C-11656",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11657",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11658",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11659",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"Dr. Amara has left the building. She's no longer at Utah.\" No mention of the medical examiner's office; name is Deirdre.",
+  "fix": {
+   "claim": "The host says Dr. Deirdre Amaro has left and is no longer at Utah."
+  }
+ },
+ {
+  "claim": "C-11660",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11661",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11662",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11663",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11664",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11665",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11666",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11667",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11668",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host asks \"where are the witnesses?\" in the window; doctors, nurses and other patients are not listed.",
+  "fix": {
+   "claim": "The host says it is odd that there were no eyewitnesses to the extremely erratic, chaotic and improbable ER scene Brian Harpole depicted, and asks where the witnesses are."
+  }
+ },
+ {
+  "claim": "C-11669",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11670",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11671",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11672",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11673",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11674",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11675",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11676",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11677",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11678",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11679",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11680",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11681",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11682",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11683",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11684",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11685",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11686",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11687",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Email writer's gender is not stated (\"I've never seen thoracic trauma...\"); claim says \"she\".",
+  "fix": {
+   "claim": "The transplant coordinator's email says the writer has never seen thoracic trauma or hemorrhaging in a gunshot wound to the head or neck, and that it would take blunt force trauma to the chest, which would fit an exploding microphone under the shirt."
+  }
+ },
+ {
+  "claim": "C-11688",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11689",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11690",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host hedges: \"within, I think, what was it? 12 hours? 12 hours before they start to get decomposition.\" Hedge dropped.",
+  "fix": {
+   "claim": "The host says she thinks, from her team's research, that a body can wait about 12 hours before decomposition begins, so an immediate autopsy would not be illegal even though it departs from normal practice."
+  }
+ },
+ {
+  "claim": "C-11691",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11692",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11693",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11694",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11695",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11696",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11697",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11698",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11699",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11700",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11701",
+  "episode": 135,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3193",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3194",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says \"Kash Patel and Dan Bonino\" re 16 minutes, but the claim names only Patel and the clip is Patel; N-379 not in claim.",
+  "fix": {
+   "mentions": [
+    "N-69"
+   ]
+  }
+ },
+ {
+  "claim": "C-3195",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The 27 min 35 sec / Hall of Flags description is the questioner's; Bagley only answers \"Yes\" that it is his only body cam and says the battery went dead.",
+  "fix": {
+   "claim": "In a preliminary-hearing clip the host plays, a questioner describes Officer Bagley's body cam as 27 minutes 35 seconds, starting at the Hall of Flags and ending while he was still on the roof before crime tape was up, and Bagley agrees it is his only body cam footage that day."
+  }
+ },
+ {
+  "claim": "C-3196",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3197",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3198",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-557 (Hawk) not named until ~17:52+. Host says of Bagley \"here you are lower... Could be you\", not on the rooftop with certainty.",
+  "fix": {
+   "claim": "The host says bystander footage timestamped 12:47 PM captured a man she thinks is Officer Bagley lower down and a second plainclothes man (red hat, bag with badge, backpack) on the Losi Center rooftop.",
+   "mentions": [
+    "N-507",
+    "N-751"
+   ]
+  }
+ },
+ {
+  "claim": "C-3199",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Robertson; Hawk (N-557) is not in the claim. Host: \"credit to Muppet Masher on X... officer Allan Robinson\".",
+  "fix": {
+   "mentions": [
+    "N-751"
+   ]
+  }
+ },
+ {
+  "claim": "C-3200",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Identification is voiced in a clip by YouTuber Nissi (\"Muppet Masher identified ... his friend in the blue shirt as Christopher Hawk\"); \"walking near the Losi rooftop\" is not said.",
+  "fix": {
+   "claim": "In a video by YouTuber Nissi that the host plays, Muppet Masher is said to have identified the red-hat man's friend in the blue shirt as Christopher Hawk."
+  }
+ },
+ {
+  "claim": "C-3201",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"he had just joined the USU police force the summer before. Here was the announcement on Facebook.\" The summer-before statement is the host's; claim names Robertson but Mentions is empty.",
+  "fix": {
+   "claim": "The host says Allan Robertson had just joined the USU police force the summer before the September 2025 shooting, and shows a Facebook announcement that he had joined.",
+   "mentions": [
+    "N-751"
+   ]
+  }
+ },
+ {
+  "claim": "C-3202",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Robertson but Mentions is empty. Transcript supports the LinkedIn, Pendleton, Afghanistan, Japan details.",
+  "fix": {
+   "mentions": [
+    "N-751"
+   ]
+  }
+ },
+ {
+  "claim": "C-3203",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"Allan E. Robertson, my assumption is he has an entry and they're not able to get details on it\"; claim states it flatly. Mentions empty.",
+  "fix": {
+   "claim": "The host says her assumption is that Allan E. Robertson has an entry on the Brady List website, which lists San Bernardino Police Department.",
+   "mentions": [
+    "N-751"
+   ]
+  }
+ },
+ {
+  "claim": "C-3204",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"San Bernardino Police Department is not in compliance\" is spoken about 22:15-22:25, over 30s before 22:55. Robertson named in claim, Mentions empty.",
+  "fix": {
+   "timestamp": "00:22:10",
+   "mentions": [
+    "N-751"
+   ]
+  }
+ },
+ {
+  "claim": "C-3205",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3206",
+  "episode": 136,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: \"I can say concretely here is where I stand. We do not want US boots on the ground\" (we, not she personally). Host/canonical spelling is Erika.",
+  "fix": {
+   "claim": "In a media clip played during the episode, Erika Kirk stated that her husband is not here to say whether or not the US should be at war with Iran, and that \"we\" do not want US boots on the ground or American kinetic involvement."
+  }
+ }
+]

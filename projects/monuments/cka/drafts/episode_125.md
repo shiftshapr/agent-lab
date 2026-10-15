@@ -816,7 +816,7 @@ Who was in the restaurantology event green room and whether Frank Turek was ther
 
 Claim Timestamp: 00:06:36
 
-Claim: The host says the unidentified burnt object in the backseat of Charlie Kirk's SUV is consistent with melted polyester fabric from a t-shirt, citing her team's burn-replication test and identifications from viewer experts.
+Claim: The host says the unidentified burnt object in the backseat of Charlie Kirk's SUV may be melted polyester from a t-shirt, citing viewer emails from people in fashion and medicine and her team's imperfect burn test on a 50% polyester shirt, and says "I think there is something here."
 
 Anchored Artifacts: A-2129.2, A-2130.1, A-2131.1, A-2131.2
 Mentions: N-1
@@ -827,7 +827,7 @@ Investigative Direction: Forensic examination of the actual recovered object wou
 
 **C-3018** Host Says Blake Neff Was on Private Jet to Salt Lake City September 10th
 
-Claim Timestamp: 00:12:33
+Claim Timestamp: 00:11:50
 
 Claim: The host says Blake Neff was aboard the private jet carrying Charlie Kirk to Salt Lake City on the morning of September 10th.
 
@@ -841,7 +841,7 @@ Investigative Direction: Flight manifests, airport records, and witness corrobor
 
 Claim Timestamp: 00:14:07
 
-Claim: Blake Neff stated during an X Space that he did not recall where the second SUV went, who drove it, or who was in the car during the morning gap between landing at Salt Lake City and the UVU event.
+Claim: Blake Neff stated during an X Space that he had no idea where the second SUV was parked and did not remember the specific people in his car during the morning gap between landing at Salt Lake City and the UVU event.
 
 Anchored Artifacts: A-2133.1
 Mentions: N-160
@@ -865,12 +865,12 @@ Investigative Direction: Direct confirmation from Danny Phillip or other witness
 
 **C-3021** Host Says Danny Phillip Is Grandson of Thomas Patrick
 
-Claim Timestamp: 00:24:41
+Claim Timestamp: 00:20:15
 
-Claim: The host says, citing a visual guide she put together, that Danny Phillip is the grandson of Thomas Patrick, former Executive Vice Chairman and CEO of Merrill Lynch (Chicago, 25-year tenure, departed 2003 following Eliot Spitzer scandal), who was also a major Turning Point donor.
+Claim: The host says Danny Phillip is the grandson of Thomas Patrick, a major Turning Point donor and former executive vice chairman and CEO of Merrill Lynch (25 years in Chicago), who in 2003 was escorted out of his office over a scandal in which he was accused of orchestrating a political smear campaign against Eliot Spitzer.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-368, N-504, N-503
+Mentions: N-368, N-503, N-504
 
 Related Nodes: N-10716
 
@@ -878,12 +878,12 @@ Investigative Direction: Genealogical records, family-tree confirmation, public 
 
 **C-3022** Host Says Stephen Phillip Worked at Bank of America Merrill Lynch Chicago
 
-Claim Timestamp: 00:24:41
+Claim Timestamp: 00:22:15
 
-Claim: The host says, citing a visual guide she put together, that Danny Phillip's father Stephen Phillip was employed at Bank of America Merrill Lynch in Chicago during the 2008-2022 timeframe, with a Russian studies educational background.
+Claim: The host says Danny Phillip's father Stephen Phillip worked for Bank of America Merrill Lynch in Chicago and, like Tyler Bowyer, majored in Russian studies.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-368
+Mentions: N-368, N-737
 
 Related Nodes: N-10716
 
@@ -906,10 +906,10 @@ Investigative Direction: Corporate directories, employment records, public board
 
 Claim Timestamp: 00:24:41
 
-Claim: The host says Erica Kirk's cousin Dennis Franks Bay worked at Bank of America Merrill Lynch in Chicago during the 2008-2022 timeframe, after his military service.
+Claim: The host says Erika Kirk's cousin Dennis ("Dennis Franks Bay" in the captions) worked at Bank of America Merrill Lynch in Chicago during 2008-2022, after his military service.
 
 Anchored Artifacts: A-2134.1
-Mentions: N-2
+Mentions: N-2, N-738
 
 Related Nodes: N-10716
 
@@ -919,10 +919,10 @@ Investigative Direction: Employment records, military transition records, and pu
 
 Claim Timestamp: 00:41:46
 
-Claim: Andrew Kolvet's tweet thread partially conceded that Charlie Kirk had declined to have Netanyahu on his show, while disputing the "offer to take Turning Point to the next level" element of Candace Owens' narrative.
+Claim: Per the Andrew Kolvet tweet thread the host reads, Kolvet says they politely declined having Netanyahu on the show and that Charlie Kirk took a call from him months later, while disputing the claim that Netanyahu offered to take Turning Point to the next level.
 
 Anchored Artifacts: A-2135.1
-Mentions: N-1, N-14, N-3
+Mentions: N-1, N-14, N-3, N-36
 
 
 Investigative Direction: Compare Kolvet's public statements across time; corroborate through other Turning Point insiders familiar with Charlie Kirk's scheduling decisions.
@@ -931,7 +931,7 @@ Investigative Direction: Compare Kolvet's public statements across time; corrobo
 
 Claim Timestamp: 00:33:25
 
-Claim: The National Council on Resistance Iran (NCRI) published a focused report titled "Permission to Kill: How Candace Owens built a digital assassination culture targeting Erika Kirk?" framing Candace Owens' commentary as creating grounds for violence against Erika Kirk.
+Claim: The host says the Network Contagion Research Institute (NCRI) published a report titled "Permission to Kill: How Candace Owens built a digital assassination culture targeting Erika Kirk?", which she criticizes as a focused report on her.
 
 Anchored Artifacts: A-2136.1
 Mentions: N-2, N-3
@@ -1204,7 +1204,7 @@ Claim: The host says people at Turning Point told her Danny Philip was a family 
 Transcript Snippet: We're kind of told he was a family friend and he got this like big job working for Charlie.
 
 Anchored Artifacts: 
-Mentions: N-368, N-1, N-11
+Mentions: N-368, N-1
 Investigative Direction: Identify the Turning Point staff who said so and ask what they know of the Philip family relationship to Kirk.
 
 ---
@@ -1227,7 +1227,7 @@ Investigative Direction: Earlier episode statements on the Perlmutter check, and
 
 Claim Timestamp: 00:19:38
 
-Claim: The host says that in 2019 a smear campaign calling her anti-Semitic started, and at virtually the same time a major Turning Point donor she thought was good to her, Thomas Patrick, intervened.
+Claim: The host says that in 2019 a smear campaign calling her anti-Semitic started, and at virtually the same time Turning Point had a major donor she thought was good to her, Thomas Patrick.
 
 Transcript Snippet: Suddenly, there's this smear campaign calling me anti-Semitic. Um and at virtually the exact same time, Turning Point had this major donor.
 
@@ -1338,7 +1338,7 @@ Claim: The host says Tyler Bowyer speaks Russian and majored in Russian studies,
 Transcript Snippet: you know, Tyler speaks Russian, majored in Russian studies, same for Danny Phillip's dad.
 
 Anchored Artifacts: 
-Mentions: N-11, N-368
+Mentions: N-11, N-368, N-737
 Related Nodes: N-11059
 Supports: C-3022
 Investigative Direction: Bowyer's educational record and public statements on Russian language ability; Stephen Phillip's degree.
@@ -1608,7 +1608,7 @@ Investigative Direction: Kolvet's posts and broadcasts sharing the NCRI report, 
 
 Claim Timestamp: 00:33:25
 
-Claim: The host says many media groups reached out for comment on the NCRI report while she was away, including Politico, which asked about the report's point that her calling Erika Kirk a psychopath on the Shawn Ryan show leads people to want to kill Erika.
+Claim: The host says she received many emails and that tons of media groups asked her to comment on the NCRI report, and that she thinks Politico asked about the report's point that her calling Erika Kirk a psychopath on the Shawn Ryan show leads people to want to kill Erika.
 
 Transcript Snippet: I got all of these emails, it wasn't just them, but tons of organizations while I was on I mean tons of media groups were reaching out asking me to comment on this.
 
@@ -1651,9 +1651,9 @@ Investigative Direction: Statements from the priests or event organizers who rec
 
 Claim Timestamp: 00:37:48
 
-Claim: The host says tens of millions of dollars are being spent against her, and that she and Tucker Carlson are listed in what the transcript renders as the Faradox, which she says admits they have to take them down.
+Claim: The host says tens of millions of dollars are being spent against her, and that she and Tucker Carlson are listed in the FARA docs, which she says admit they have to take them down.
 
-Transcript Snippet: Tens of millions of dollars is being spent. I am listed, me and Tucker Carlson, in the Faradox.
+Transcript Snippet: Tens of millions of dollars is being spent. I am listed, me and Tucker Carlson, in the FARA docs.
 
 Anchored Artifacts: 
 Mentions: N-3, N-22

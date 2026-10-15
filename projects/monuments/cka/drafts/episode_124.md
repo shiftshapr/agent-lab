@@ -1090,7 +1090,7 @@ Claim Timestamp: 00:04:24
 Claim: The host says the collage she displays shows multiple influencers using the word "overwhelming" to describe the evidence against Tyler Robinson at the preliminary hearing.
 
 Anchored Artifacts: A-2115.1
-Mentions: N-2, N-40
+Mentions: N-40
 
 
 Investigative Direction: Cross-reference timestamps and language across influencer posts to determine whether messaging was coordinated.
@@ -1131,7 +1131,7 @@ Investigative Direction: Compare pre-hearing narrative claims against actual pre
 
 Claim Timestamp: 00:17:15
 
-Claim: Lance Twiggs testified that he could recognize Robinson only by generic clothing features (jeans, similar shoes, sunglasses, hat), stating he could not be 100% certain from camera quality alone.
+Claim: In a hearing clip the host plays, Lance Twiggs testifies that he would not say with 100% certainty because of camera quality, but that the person looks like Robinson in terms of the shoes, the sunglasses, the jeans and, though he had not specifically seen him in that hat, he was usually wearing a hat.
 
 Anchored Artifacts: A-2118.1
 Mentions: N-40, N-54
@@ -1142,11 +1142,11 @@ Investigative Direction: Cross-reference Lance's testimony with other witness id
 
 ---
 
-**C-3004** Lance Twiggs testified Tyler Robinson was not political
+**C-3004** Host Says Lance Twiggs Confirmed Tyler Robinson Was Not Political
 
 Claim Timestamp: 00:27:55
 
-Claim: Lance Twiggs testified that Tyler Robinson was not political, had not discussed Charlie Kirk with him, and engaged with politics primarily via radio during carpool.
+Claim: The host says Lance Twiggs confirmed her report that Tyler Robinson was not political; in the hearing clip she plays, Twiggs testifies that Robinson talked about politics more than he did, usually things he heard on the radio on the drive to work, and that he had never heard Robinson talk about Charlie Kirk specifically.
 
 Anchored Artifacts: A-2118.2
 Mentions: N-40, N-1, N-54
@@ -1236,7 +1236,7 @@ Claim Timestamp: 00:31:06
 Claim: ATF forensic biologist Caitlyn Oliver testified that characterizing media reports as "Mr. Robinson's DNA is found on this item" would constitute a "source attribution" that is "not scientifically defensible."
 
 Anchored Artifacts: A-2124.1
-Mentions: N-40
+Mentions: N-40, N-776
 
 Related Nodes: N-10711
 
@@ -1251,6 +1251,7 @@ Claim Timestamp: 00:32:07
 Claim: Caitlyn Oliver testified that DNA samples from the trigger and trigger guard were mixed samples with at least 4–7 contributors, with "major" and "minor" labels referring only to DNA quantity contributed, not to any activity-based attribution.
 
 Anchored Artifacts: A-2124.2
+Mentions: N-776
 
 Related Nodes: N-10711
 
@@ -1265,7 +1266,7 @@ Claim Timestamp: 00:35:20
 Claim: The host says that Caitlyn Oliver confirmed, in testimony the host plays, that Tyler Robinson's DNA sample was the most degraded of all contributors found on the firearm (swab 1.3 of trigger/trigger guard).
 
 Anchored Artifacts: A-2124.3
-Mentions: N-40
+Mentions: N-40, N-776
 
 Related Nodes: N-10711
 
@@ -1280,6 +1281,7 @@ Claim Timestamp: 00:40:31
 Claim: ATF ballistics expert Samantha Carner testified that the 6A bullet jacket fragment had a diameter range of 286 to 301 thousandths of an inch.
 
 Anchored Artifacts: A-2125.1
+Mentions: N-777
 
 Related Nodes: N-10710
 
@@ -1306,10 +1308,10 @@ Investigative Direction: Compare Johnson's claim against Court TV leaked footage
 
 Claim Timestamp: 01:01:37
 
-Claim: Ben Shapiro stated on his show that during the approximate 7-minute car ride to the hospital, his security was on the phone with Charlie's security, providing updates while Charlie was still alive in the back of the vehicle.
+Claim: In a clip the host plays, Ben Shapiro says his security was on the phone with Charlie's security while Charlie was still in the back of the car, and they were getting updates along the way; the host describes the ride to the hospital as approximately 7 minutes.
 
 Anchored Artifacts: A-2127.1
-Mentions: N-1, N-97, N-488, N-493
+Mentions: N-1, N-97
 
 Related Nodes: N-10712
 
@@ -1336,12 +1338,12 @@ Investigative Direction: Obtain certified chat exports and metadata; cross-refer
 
 Claim Timestamp: 01:05:57
 
-Claim: The host says Tim Pool is lying when he says he did not receive updates from someone in the car about Charlie Kirk's status, and that Jeremy Boreing lied when he suggested her own security was getting those updates; she says she confirmed her security was not on the phone with anyone in the car.
+Claim: The host says Tim Pool is lying through his teeth, that he did not receive updates from somebody in that car about Charlie Kirk's status, and that Jeremy Boreing lied when he tried to pretend that her own security was getting those updates; she says she confirmed her security was not on the phone with anybody in that car.
 
 Transcript Snippet: Tim Pool is lying through his teeth. He did not receive updates from somebody in that car about Charlie's status.
 
 Anchored Artifacts: 
-Mentions: N-3, N-268, N-367, N-97, N-1
+Mentions: N-3, N-268, N-367, N-1
 Related Nodes: N-10712
 Investigative Direction: Identify who in the car was in contact with outside security teams and when.
 
@@ -1371,7 +1373,7 @@ Claim: Recapping the pre-hearing narrative that Tyler Robinson's parents turned 
 Transcript Snippet: In fact, Bill Ackman, King of the Hamptons, immediately pledged $1 million to Tyler Robinson's father, Matt Robinson.
 
 Anchored Artifacts: A-2117.4
-Mentions: N-3, N-37, N-40
+Mentions: N-3, N-37, N-40, N-778
 Related Nodes:
 Confidence: medium
 Uncertainty: Host account; the pledge itself is not shown. Matt Robinson has no person node (person band full, awaiting Daveed).
@@ -1512,7 +1514,7 @@ Investigative Direction: Obtain the Washington County Sheriff's Office arrest na
 
 Claim Timestamp: 00:10:16
 
-Claim: The host says Mike Mitchell, a former undercover detective, family friend and Tyler Robinson's boy scout leader, was told Robinson would be brought in and told the parents to do it the easy way or the hard way, so Robinson agreed to come in willfully without confessing.
+Claim: The host says she maintained that Mike Mitchell, a former undercover detective, family friend and Tyler Robinson's boy scout leader, was the one told Robinson would be brought in, and that he told the parents to do it the easy way or the hard way, so Robinson agreed to come in willfully without confessing.
 
 Transcript Snippet: I said rather he was peer pressured to come in by Mike Mitchell, the former undercover detective with the police force and also a family friend of the Robinsons
 
@@ -1739,7 +1741,7 @@ Investigative Direction: Obtain the full carrier and device records for both pho
 
 Claim Timestamp: 00:22:55
 
-Claim: The host says the Tyler Robinson and Lance Twiggs messages presented at the hearing are not timestamped, which is why they are problematic.
+Claim: The host says the Tyler Robinson and Lance Twiggs messages presented at the hearing are problematic, and that is why they are not timestamped.
 
 Transcript Snippet: The messages are problematic, and that's why they're not timestamped.
 
@@ -1788,7 +1790,7 @@ Investigative Direction: Compare the message text with other statements about Ro
 
 Claim Timestamp: 00:25:33
 
-Claim: The host says the text phrasing, including 'if I'm able to grab my rifle unseen,' feels like a person who is not native to American English translating, and later repeats that it reads like someone new to a language being too formal.
+Claim: The host says the text phrasing, including 'if I'm able to grab my rifle unseen,' feels to her like a person who is not native to speaking English, American English, is translating.
 
 Transcript Snippet: this feels to me like a person who is not native to speaking English, American English, is translating.
 
@@ -1825,7 +1827,7 @@ Claim: The host says that noticeably missing from the hearing was any of the sho
 Transcript Snippet: Anyway, uh noticeably missing was any of that shock testimony regarding Tyler's parents' statements turning their son in.
 
 Anchored Artifacts: 
-Mentions: N-3, N-40, N-37
+Mentions: N-3, N-40
 Related Nodes: N-10022
 Supports: C-5291
 Tags: relevance:core
@@ -2314,7 +2316,7 @@ Claim: The host says Justin Davis was driving upwards of 100 miles per hour and 
 Transcript Snippet: Justin Davis was driving upwards to 100 miles per hour.
 
 Anchored Artifacts: 
-Mentions: N-3, N-493
+Mentions: N-3, N-493, N-97
 Related Nodes: N-10712
 Tags: relevance:core
 Investigative Direction: Obtain vehicle telematics, GPS or dashcam data for the transport and Davis's phone records.
@@ -2330,7 +2332,7 @@ Claim: The host says Frank Turek's kids were left on the phone on FaceTime while
 Transcript Snippet: Remember his phone. He just didn't even realize while he was praying out loud. His kids were just left on the phone on FaceTime because that's what he was doing.
 
 Anchored Artifacts: 
-Mentions: N-3, N-7
+Mentions: N-3, N-7, N-97
 Related Nodes: N-10712
 Tags: relevance:core
 Investigative Direction: Ask Turek for his call log and statement about the FaceTime call during the transport.
@@ -2375,7 +2377,7 @@ Investigative Direction: Establish the timestamp of the first Shapiro-side call 
 
 Claim Timestamp: 01:07:02
 
-Claim: The host asks who on Ben Shapiro's security team, which she describes as Israeli, former IDF, was receiving updates about Charlie's condition and why.
+Claim: The host asks who on Ben Shapiro's IDF, Israeli, Mossad security apparatus team, former IDF, was receiving updates about Charlie's condition and why.
 
 Transcript Snippet: So, who on Ben's IDF Israeli Msad Security apparatus team, former IDF, was receiving updates about Charlie's condition and why?
 
@@ -2473,7 +2475,7 @@ Investigative Direction: Establish timing of the tip and the first attacks on th
 
 Claim Timestamp: 01:16:57
 
-Claim: Reading a viewer comment and saying she saw it too, the host says Andrew Kolvet is reviving the Lance angle, throwing Lance Twiggs to the wolves because support for Tyler Robinson is growing.
+Claim: Reading a viewer comment, the host says Andrew Kolvet is reviving the accomplice angle, likely due to growing support for Tyler Robinson, throwing Lance Twiggs to the wolves; she adds that she saw that too.
 
 Transcript Snippet: Now, Andrew Kulat is reviving it, likely due to growing support for Tyler Robinson throwing Lance Twiggs to the wolves. Yeah, I saw that, too.
 
@@ -2485,7 +2487,7 @@ Investigative Direction: Find the Kolvet statements about Lance Twiggs the comme
 
 ---
 
-**C-7271** Host Says Diligent Dennison Spoke to the Waiter in Penguitch
+**C-7271** Host Says Diligent Dennison Spoke to the Waiter in Panguitch
 
 Claim Timestamp: 01:16:57
 

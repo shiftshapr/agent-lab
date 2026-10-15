@@ -1604,7 +1604,6 @@
       "transcript_snippet": "I mean, I was contacted immediately by people who knew the real victim of that evening, and it wasn't Donald J. Trump. It was actually a firefighter named Corey Comparator.",
       "mentions_person_refs": [
         "N-105",
-        "N-5",
         "N-3"
       ]
     },
@@ -1785,10 +1784,7 @@
       "tags": [],
       "claim_timestamp": "00:07:51",
       "investigative_direction": "Check industry and ATF documentation on the explosives used in wireline perforating guns and Surefire's explosives licenses.",
-      "transcript_snippet": "Because that technique requires the use of a very specific explosive. known as PE TN.",
-      "mentions_person_refs": [
-        "N-678"
-      ]
+      "transcript_snippet": "Because that technique requires the use of a very specific explosive. known as PE TN."
     },
     {
       "@type": "Claim",
@@ -1806,9 +1802,7 @@
       "investigative_direction": "Identify the source of the confession account and any ATF or employer record of missing explosives in 2022.",
       "transcript_snippet": "Allegedly, Mark A. Ley had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.",
       "mentions_person_refs": [
-        "N-678",
-        "N-105",
-        "N-680"
+        "N-678"
       ]
     },
     {
@@ -1884,8 +1878,7 @@
       "investigative_direction": "Review rally footage, campaign staff lists and the Comperatore family's statements to identify the woman.",
       "transcript_snippet": "So, they were quite surprised when while waiting in a large crowd, an unknown woman asked them if they'd like to be escorted to the very front.",
       "mentions_person_refs": [
-        "N-105",
-        "N-5"
+        "N-105"
       ]
     },
     {
@@ -1924,8 +1917,7 @@
       "investigative_direction": "Archive Liti's Facebook friend list and check which Crooks family members appear.",
       "transcript_snippet": "It's worth noting that Mark a lady is also friends with various members of the Crooks family on Facebook.",
       "mentions_person_refs": [
-        "N-678",
-        "N-104"
+        "N-678"
       ]
     },
     {
@@ -2401,7 +2393,7 @@
       "tags": [],
       "claim_timestamp": "00:35:47",
       "investigative_direction": "Locate the episode of Erika Kirk's show and the viewer question.",
-      "transcript_snippet": "This time it was on her show with James, Pastor James Catis, uh when somebody wrote in a question.",
+      "transcript_snippet": "This time it was on her show with James, Pastor James Kaddis, uh when somebody wrote in a question.",
       "mentions_person_refs": [
         "N-2",
         "N-668",

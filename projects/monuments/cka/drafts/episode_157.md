@@ -1045,7 +1045,7 @@ Named by Charlie Kirk in the July 14 clip among officials he trusts.
 
 **N-668** James Kaddis
 
-Named as the Calvary Chapel pastor hosting Erika's July 14 speech (transcript spelling James Catis).
+Named as the Calvary Chapel pastor hosting Erika's July 14 speech (transcript spelling James Kaddis).
 
 *Related: C-6247, C-6248*
 

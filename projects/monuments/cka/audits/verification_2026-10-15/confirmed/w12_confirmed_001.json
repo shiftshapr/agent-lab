@@ -1,0 +1,467 @@
+[
+ {
+  "claim": "C-14660",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a flight from Tucson to Fort Huachuca on September 8 looked associated with a flight training school that recently got a new CEO, named by her as Matt Bromberg, who is connected to Raytheon and Northrop Grumman, adding that it could be nothing.",
+   "names": [
+    {
+     "wrong": "Matt Bramberg",
+     "right": "Matt Bromberg",
+     "source": "https://www.cae.com/about-cae/management-team/matthew-bromberg/"
+    }
+   ]
+  },
+  "note": "Verified: Matthew Bromberg named CAE (flight training) CEO 2025, ex-Northrop Grumman/RTX."
+ },
+ {
+  "claim": "C-14671",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that on July 14, 2025 Erika Kirk traveled to Long Beach, California to speak at James Kaddis' Calvary Chapel for its Women's Summer of Psalms retreat.",
+   "names": [
+    {
+     "wrong": "James Catis",
+     "right": "James Kaddis",
+     "source": "https://jameskaddis.com/media/not-the-end-part-2-20251202-07-39-45/"
+    }
+   ]
+  },
+  "note": "Verified: James Kaddis, Calvary Chapel Signal Hill (Long Beach), works with Erika Kirk (jameskaddis.com)."
+ },
+ {
+  "claim": "C-14672",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says James Kaddis heads up the Turning Point USA faith department.",
+   "names": [
+    {
+     "wrong": "James Catis",
+     "right": "James Kaddis",
+     "source": "https://jameskaddis.com/media/not-the-end-part-2-20251202-07-39-45/"
+    }
+   ]
+  },
+  "note": "Verified spelling James Kaddis (jameskaddis.com)."
+ },
+ {
+  "claim": "C-4323",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-30",
+    "N-627"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4334",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4341",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-655",
+    "N-657",
+    "N-658",
+    "N-659"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4344",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-46",
+    "N-245"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4345",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4347",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4352",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4354",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4356",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4359",
+  "episode": 111,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Alex Clark took personal credit for convincing Trump to tweet insults at the host, and shows a Clark post saying \"Guess who prompted Trump's rant on her the first time. Yours truly in the Oval Office.\""
+  },
+  "note": "\"This is not true... Yours truly in the Oval Office\" is Clark's tweet as read; host mocks it. Fix wrongly makes host the prompter."
+ },
+ {
+  "claim": "C-4360",
+  "episode": 111,
+  "decision": "reject",
+  "fix": {},
+  "note": "Transcript is ambiguous on who worked for Kolvet; \"catching strays\" apology reads as aimed at Aubrey's partner, not Clark's fiance. Original is a fair reading."
+ },
+ {
+  "claim": "C-4366",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4369",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4375",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4379",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4414",
+  "episode": 112,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-662",
+    "N-665"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4466",
+  "episode": 113,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-160",
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4468",
+  "episode": 113,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-160",
+    "N-1"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4477",
+  "episode": 113,
+  "decision": "reject",
+  "fix": {},
+  "note": "Host was in Russia (ep 111 trip); the stray quote mark is a transcription artifact. Sentence is the host's own, not Kolvet's."
+ },
+ {
+  "claim": "C-4482",
+  "episode": 113,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika Kirk has not provided an alibi, and that Kolvet tried to offer one through what she calls \"Paramount Not So Tactical,\" which she says then debunked that alibi and said it does not matter whether or not the children are hers."
+  },
+  "note": "Transcript: Paramount debunked the alibi and said it doesn't matter whether those are her kids."
+ },
+ {
+  "claim": "C-4484",
+  "episode": 114,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-104",
+    "N-266"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4488",
+  "episode": 114,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-379",
+    "N-104",
+    "N-22"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4514",
+  "episode": 114,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-9",
+    "N-22"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4532",
+  "episode": 114,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4541",
+  "episode": 115,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-105",
+    "N-3"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4550",
+  "episode": 115,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4551",
+  "episode": 115,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-678"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4555",
+  "episode": 115,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-105"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4557",
+  "episode": 115,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-678"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4592",
+  "episode": 116,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4630",
+  "episode": 116,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-69"
+   ]
+  },
+  "note": "Claim names only Kash Patel; Charlie Kirk is not named or clearly referred to."
+ },
+ {
+  "claim": "C-4641",
+  "episode": 116,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4649",
+  "episode": 116,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-1"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4651",
+  "episode": 116,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-415",
+    "N-411"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4655",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-2",
+    "N-1",
+    "N-692"
+   ]
+  },
+  "note": "Transcript line 223 confirms Kolvet clip was on Laura Ingraham; she is named in the claim."
+ },
+ {
+  "claim": "C-4656",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ },
+ {
+  "claim": "C-4657",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Mentions fix matches claim text."
+ }
+]

@@ -1,0 +1,851 @@
+[
+ {
+  "claim": "C-8997",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8998",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8999",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9000",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"throw things for a loop\"; the claim adds \"the timeline\".",
+  "fix": {
+   "claim": "The host says the Panguitch Steakhouse matter is going to throw things for a loop and that there are receipts."
+  }
+ },
+ {
+  "claim": "C-9001",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9002",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9003",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mentions N-267 (Harpole) but the claim names only \"the driver\" and Ben's security; Harpole is not referred to here.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-97"
+   ]
+  }
+ },
+ {
+  "claim": "C-9004",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9005",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host frames it conditionally: \"if we're supposed to go with the narrative that it was him, and everyone could see it in 4K HD...\"; claim states it flatly.",
+  "fix": {
+   "claim": "The host says that, in the narrative she is supposed to accept that it was Tyler Robinson, everyone could see it in 4K HD and the influencers were shown it at the very end of the fifth day of the hearing."
+  }
+ },
+ {
+  "claim": "C-9006",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3042",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Bagley said \"I think his battery went dead\"; \"ended at 12:44\" is not said (12:44 is the host's arrival time) and the 27:35 length is the examiner's.",
+  "fix": {
+   "claim": "Officer Bagley testified that his Axon body-cam footage, which the examiner described as 27 minutes and 35 seconds long, ended while he was still on the Losee Center roof, and said \"I think his battery went dead.\"",
+   "label": "Officer Bagley Testified Body-Cam Footage Ended While on Rooftop"
+  }
+ },
+ {
+  "claim": "C-3043",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Bagley said he did not know who the man was and that he had a badge and a pistol; \"did not verify\" is the host's remark, not his testimony.",
+  "fix": {
+   "claim": "Officer Bagley testified that he was accompanied on the Losee Center rooftop by an unidentified individual in civilian clothing who had a badge and a handgun, and whose agency he did not know."
+  }
+ },
+ {
+  "claim": "C-3044",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Testimony concerns video reviewed at the police department; \"body-cam or surveillance\" is added, and the examiner (not Bagley) states the no-review conclusion; Bagley says he \"didn't notice anybody\".",
+  "fix": {
+   "claim": "Officer Bagley testified that he did not notice anyone else on the roof, and, as the examiner put it and the host says he answered \"No,\" he did not review the video for anyone on the rooftop between the suspect's jump and his arrival."
+  }
+ },
+ {
+  "claim": "C-3045",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Email says it bothered him that the officer claimed his camera died on the rooftop; \"while docked\" and \"implausible\" are not in the email.",
+  "fix": {
+   "claim": "An email from a police officer using the same Axon Body Cam 4 model states that the camera battery lasts approximately 14 hours, that cameras are docked at the end of every shift on a shared dock that uploads the data and videos to the server, and that it bothered him that the officer claimed his camera died on the rooftop."
+  }
+ },
+ {
+  "claim": "C-3046",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Felomina\" is a mis-transcription of Sgt. Jennifer Faumuina. She did not say the library was determined to be on the shooter's route; items were seized at bus stops while canvassing.",
+  "fix": {
+   "claim": "Sergeant Jennifer Faumuina of the Utah Bureau of Investigations testified that officers canvassing the scene, including the shooter's route, found unattended items at the Fulton Library bus stops, and that a backpack, jacket and gloves were seized.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3047",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Felomina\" is a mis-transcription of Faumuina; claim names her but Mentions omits N-506.",
+  "fix": {
+   "claim": "Sergeant Faumuina testified that the seized items were sent to the FBI lab for DNA and other analysis, along with information that the suspect may have shed items as he fled.",
+   "mentions": [
+    "N-506"
+   ],
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3048",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "She said she did not remember communicating it and that FBI/ATF notes saying so would not be inconsistent; the examiner, not she, asserted the halt. \"Felomina\" is Faumuina; N-506 missing.",
+  "fix": {
+   "claim": "Sergeant Faumuina testified that when the items were already sent investigators had no more information on whether they were probative, that she did not remember communicating to the lab that no further testing was needed, and that it would not be inconsistent with what she knew if FBI or ATF notes said so.",
+   "mentions": [
+    "N-506"
+   ],
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3049",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Amanda Baker but Mentions omits N-779.",
+  "fix": {
+   "mentions": [
+    "N-779"
+   ]
+  }
+ },
+ {
+  "claim": "C-3050",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Amanda Baker and \"Kirk's detailees\" but Mentions omits N-779 and N-1.",
+  "fix": {
+   "mentions": [
+    "N-779",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3051",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Felomina (Faumuina) and Baker but has no Mentions; host does not speak of \"inconsistency\", she asks who authored the note and says it should be tested.",
+  "fix": {
+   "claim": "The host says Sergeant Faumuina does not remember communicating the \"not probative\" decision and that Baker says someone else in the lab added the \"Kirk's detail\" note, asks who that person is, and says the items should have been tested.",
+   "mentions": [
+    "N-3",
+    "N-506",
+    "N-779"
+   ],
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3052",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3053",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Turek says \"Somebody online said I said ... till we got to the hotel. No, to the hospital\"; he attributes \"hotel\" to others and corrects himself, he does not give two accounts of his own.",
+  "fix": {
+   "claim": "In a played clip, Frank Turek says he was FaceTiming until they got to the hospital and, correcting himself, says someone online said he was on FaceTime until they got \"to the hotel\"; the host then says her team tracked down the person who said hotel and plays a clip.",
+   "label": "Frank Turek Corrects Himself From Hotel to Hospital on FaceTime Duration"
+  }
+ },
+ {
+  "claim": "C-3054",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3055",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Timestamp range spans the letter.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3056",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3057",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7280",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7281",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7282",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7283",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7284",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7285",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7286",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7287",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7288",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7289",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7290",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7291",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7292",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"Felomina\" is a mis-transcription of Faumuina (confirmed in earlier passes).",
+  "fix": {
+   "claim": "The host says she earlier called Sergeant Faumuina a UVU sergeant but meant to say she is from the Utah Bureau of Investigations, the state bureau.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-7293",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"Felomina\" is a mis-transcription of Sgt. Jennifer Faumuina (confirmed in earlier passes).",
+  "fix": {
+   "claim": "Sergeant Faumuina answered yes when asked whether nine of the reports in the larger body were written by her and that there were more, and that one report written September 22 documented the overview of the crime scenes.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-7294",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"Felomina\" is a mis-transcription of Sgt. Jennifer Faumuina (confirmed in earlier passes).",
+  "fix": {
+   "claim": "Sergeant Faumuina testified that while canvassing the shooter's route officers determined the Fulton Library stood out because there were unattended items at the bus stops away from the courtyard area, which they thought suspicious.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-7295",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"Felomina\" is a mis-transcription of Sgt. Jennifer Faumuina (confirmed in earlier passes).",
+  "fix": {
+   "claim": "Sergeant Faumuina testified that when the items had already been sent, investigators had no more information about whether the collected evidence was probative.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-7296",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"Felomina\" is a mis-transcription of Sgt. Jennifer Faumuina (confirmed in earlier passes).",
+  "fix": {
+   "claim": "Sergeant Faumuina agreed it would be fair to say the items were eventually determined not related to the case, and the host says she is nonetheless saying the SLED determination was that they were not relevant.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-7297",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7298",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7299",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7300",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7301",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7302",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7303",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7304",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7305",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7306",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7307",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7308",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7309",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host hedges: \"kind of the leader\", \"kind of his entire brand\", \"I would say\"; claim drops them.",
+  "fix": {
+   "claim": "The host says Frank Turek is \"kind of the leader of the Christian grift,\" that it is \"kind of his entire brand,\" and, she would say, \"kind of\" the legacy of his family's involvement in the military."
+  }
+ },
+ {
+  "claim": "C-7310",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7311",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7312",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7313",
+  "episode": 127,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name or identify Spencer (N-685); the sons are unnamed.",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-3"
+   ]
+  }
+ }
+]

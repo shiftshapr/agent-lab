@@ -1,0 +1,783 @@
+[
+ {
+  "claim": "C-7157",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7158",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7159",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7160",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7161",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7162",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7163",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7164",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7165",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7166",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7167",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7168",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7169",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript says \"John Bray\"; correct name is Jon Bray (N-684).",
+  "fix": {
+   "claim": "The host says some glass actually fell in front of Charlie at the immediate impact, and that Jon Bray is getting her those photos.",
+   "names": [
+    {
+     "wrong": "John Bray",
+     "right": "Jon Bray",
+     "source": "https://thephaser.com/2026/08/jon-bray-on-charlie-kirks-murder-exploding-mic-theory-data-and-the-1-suspect/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-7170",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7171",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "She declines to show \"the photo\" as too graphic, then says \"we have those images\" and shows carry photos.",
+  "fix": {
+   "claim": "The host says nobody was focused on securing Charlie's neck as he was carried to the car and that it was literally flopping, that she has those images, and that she is declining to show one photo because it is so graphic."
+  }
+ },
+ {
+  "claim": "C-7172",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7173",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7174",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7175",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7176",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7177",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7178",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7179",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7180",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7181",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Rhetorical question: \"Did you really think Blake Neff, Graham Allen, and Paramount not so tactical? We're going to delude the public\".",
+  "fix": {
+   "claim": "The host asks whether Blake Neff, Graham Allen and Paramount Tactical really thought they were going to delude the public into the absurd story they tried to spin."
+  }
+ },
+ {
+  "claim": "C-7182",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7183",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7184",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7185",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7186",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7187",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7188",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7189",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7190",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7191",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript says \"John Bray\"; correct name is Jon Bray (N-684).",
+  "fix": {
+   "claim": "The host says she thinks Jon Bray's theory has infinitely more evidence than the story told by the prosecution, the FBI and TPUSA representatives.",
+   "names": [
+    {
+     "wrong": "John Bray",
+     "right": "Jon Bray",
+     "source": "https://thephaser.com/2026/08/jon-bray-on-charlie-kirks-murder-exploding-mic-theory-data-and-the-1-suspect/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-7192",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7193",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7194",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7195",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Trump calling her vile is about the host, not the assassination; context at most.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-7196",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Unresolved name: \"Ter\" (\"get answers from Ter cuz he's right there\"); transcript does not say Turek.",
+  "fix": {
+   "claim": "The host says Andrew Kolvet and the Charlie Kirk Show team could get quick answers from \"Ter\", who is right there, since they are all in the same building, the Charlie Kirk building, the Fineberg building.",
+   "label": "Host Says the Charlie Kirk Show Team Shares a Building with Ter",
+   "mentions": [
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-7197",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7198",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7199",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7200",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7201",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Tip-line solicitation; background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-7202",
+  "episode": 123,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3000",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-2 Erika Kirk, who is not named in the claim or this passage.",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-3001",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"Court TV\" is not in the transcript; clip is played without that attribution.",
+  "fix": {
+   "claim": "In a clip the host plays, Josh Hammer says the preliminary hearing presentation was \"the most overwhelming presentation that I have ever seen this early on during a legal proceeding in my entire life.\""
+  }
+ },
+ {
+  "claim": "C-3002",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3003",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"only\"/\"generic\" are the host's gloss; Twiggs says \"that looks like him in terms of the shoes..., sunglasses... jeans\".",
+  "fix": {
+   "claim": "In a hearing clip the host plays, Lance Twiggs testifies that he would not say with 100% certainty because of camera quality, but that the person looks like Robinson in terms of the shoes, the sunglasses, the jeans and, though he had not specifically seen him in that hat, he was usually wearing a hat."
+  }
+ },
+ {
+  "claim": "C-3004",
+  "episode": 124,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Not political\" is the host's gloss; Twiggs says Tyler talked politics more than he did, mostly radio stuff, never heard him talk about Kirk specifically.",
+  "fix": {
+   "claim": "The host says Lance Twiggs confirmed her report that Tyler Robinson was not political; in the hearing clip she plays, Twiggs testifies that Robinson talked about politics more than he did, usually things he heard on the radio on the drive to work, and that he had never heard Robinson talk about Charlie Kirk specifically.",
+   "label": "Host Says Lance Twiggs Confirmed Tyler Robinson Was Not Political"
+  }
+ },
+ {
+  "claim": "C-3005",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3006",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3007",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3008",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3009",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3010",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Caitlyn Oliver (N-776) but Mentions omits her.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-776"
+   ]
+  }
+ },
+ {
+  "claim": "C-3011",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Caitlyn Oliver (N-776) but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-776"
+   ]
+  }
+ },
+ {
+  "claim": "C-3012",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Caitlyn Oliver (N-776) but Mentions omits her.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-776"
+   ]
+  }
+ },
+ {
+  "claim": "C-3013",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Samantha Carner (N-777) but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-777"
+   ]
+  }
+ }
+]

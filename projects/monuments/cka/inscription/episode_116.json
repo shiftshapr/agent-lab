@@ -1798,8 +1798,7 @@
       "investigative_direction": "Archive the FBI rapid response account's posts addressed to the host on that date.",
       "transcript_snippet": "the public crash out that they had yesterday on X over the manner that I promoted my show yesterday.",
       "mentions_person_refs": [
-        "N-3",
-        "N-69"
+        "N-3"
       ]
     },
     {
@@ -1889,7 +1888,7 @@
       "@id": "C-4597",
       "ref": "C-4597",
       "label": "A magnetic clip on Charlie Kirk's shirt held the Rode wireless mic on the inside",
-      "claim": "The host says the clip visible on the outside of Charlie Kirk's shirt at the September 10 event was a magnetic clip, with the Rode wireless microphone on the inside, and that the clip stayed on him the whole time.",
+      "claim": "The host says the clip visible on the outside of Charlie Kirk's shirt at the September 10 event was a magnetic clip that apparently stayed on him the whole time, with the wireless microphone, which she assumes was a Rode, on the inside.",
       "anchored_artifacts": [
         "A-2668.2"
       ],
@@ -2013,7 +2012,7 @@
       "@id": "C-4603",
       "ref": "C-4603",
       "label": "Contractor says the governor and the FBI wanted the paving done by Monday",
-      "claim": "The contractor in the clip says the two supervisors – one in charge of a state-owned facility in American Fork, the other a groundskeeper at a facility in Provo – told him the governor and the FBI wanted the job done by Monday.",
+      "claim": "The contractor in the clip says two men were in charge, one of a state-owned facility in American Fork and the other a maintenance groundskeeper at a facility in Provo, and that one of them told him the governor and the FBI wanted the job done by Monday.",
       "anchored_artifacts": [
         "A-2669.1"
       ],
@@ -2074,7 +2073,7 @@
       "@id": "C-4606",
       "ref": "C-4606",
       "label": "Terryl Farnsworth says he spoke to Erika Kirk about the back footage",
-      "claim": "The host says Terryl Farnsworth told her that he spoke to Erika Kirk about the footage from behind Charlie Kirk's head in the early days after the assassination.",
+      "claim": "The host says Terryl Farnsworth says he spoke to Erika Kirk about the footage from behind Charlie Kirk's head in the early days after the assassination.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10812"
@@ -2575,9 +2574,7 @@
       "investigative_direction": "Obtain FBI evidence logs for the Timpanogos Hospital footage and who ordered its collection.",
       "transcript_snippet": "When Kash Patel got on the scene, he instructed the Feds to take that footage.",
       "mentions_person_refs": [
-        "N-69",
-        "N-1",
-        "N-40"
+        "N-69"
       ]
     },
     {
@@ -2798,8 +2795,7 @@
       "investigative_direction": "Archive all FBI account posts addressed to the host that day.",
       "transcript_snippet": "And then they said \"When you tell your audience that you were {quote} denied, that would be a lie for clickbait.\"",
       "mentions_person_refs": [
-        "N-3",
-        "N-60"
+        "N-3"
       ]
     },
     {
@@ -2905,7 +2901,7 @@
       "@id": "C-4647",
       "ref": "C-4647",
       "label": "The host's team has already reduced the scope of the FOIA request",
-      "claim": "The host says her producer Ashley has already reduced the burden of the FOIA request and they hope for a response from the Department of Justice.",
+      "claim": "The host says Ashley has already reduced the burden of the FOIA request and they hope for a response from the Department of Justice.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10700",
@@ -2960,7 +2956,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -3006,16 +3002,14 @@
       ],
       "mentions_person_refs": [
         "N-415",
-        "N-411",
-        "N-42",
-        "N-1"
+        "N-411"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-4652",
       "ref": "C-4652",
-      "label": "Qureshi's father co-founded Built with a Henderson and their sons shared a house",
+      "label": "Qureshi's Father Was One Half of Built With a Henderson, and Their Sons Shared a House",
       "claim": "The host says Zachariah Qureshi's father was one half of the Built organization along with a Henderson, and that their sons lived in the same house at some point and interned together at Built.",
       "anchored_artifacts": [
         "A-2676.3"

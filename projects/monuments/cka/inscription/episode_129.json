@@ -1892,7 +1892,7 @@
       "@id": "C-3086",
       "ref": "C-3086",
       "label": "Daily Mail reports Erika would rather not give Candace \"an ounce of her energy\" and \"likes even Tyler Robinson more than she likes Candace\"",
-      "claim": "The Daily Mail article reports Erika Kirk's stated position that she will not give Candace Owens any energy and holds Candace in greater contempt than Tyler Robinson.",
+      "claim": "The Daily Mail article reports Erika Kirk saying she is not going to give Candace Owens an ounce of her energy, and quotes a source saying that at this point Erika likes even Tyler Robinson more than she likes Candace.",
       "anchored_artifacts": [
         "A-2164.3"
       ],
@@ -2002,7 +2002,7 @@
         "N-10742"
       ],
       "tags": [],
-      "claim_timestamp": "00:13:40",
+      "claim_timestamp": "00:16:48",
       "investigative_direction": "Obtain authenticated call records (subpoena or court-ordered discovery); determine call content and whether the 10-minute call began while Blake Neff and Danny Philip were physically together in the SUV.",
       "mentions_person_refs": [
         "N-368",
@@ -2032,7 +2032,8 @@
       ],
       "mentions_person_refs": [
         "N-191",
-        "N-160"
+        "N-160",
+        "N-2"
       ]
     },
     {
@@ -2162,7 +2163,7 @@
       "@id": "C-3100",
       "ref": "C-3100",
       "label": "Tim Pool publicly questioned why YouTube is algorithmically amplifying Charlie Kirk conspiracy-claim videos while historically demonetizing COVID-related content",
-      "claim": "Tim Pool's X post compares current social-media amplification of Charlie Kirk narrative-challengers to the platform treatment that destroyed Alex Jones, while contrasting with COVID-era demonetization.",
+      "claim": "Tim Pool's X post, which the host reads, says anyone claiming the official story of Charlie Kirk's assassination is a cover-up gets amplified, compares this to Alex Jones, who made claims about Sandy Hook and was destroyed, and contrasts it with COVID-era demonetization.",
       "anchored_artifacts": [
         "A-2169.2"
       ],
@@ -2183,7 +2184,7 @@
       "@id": "C-3101",
       "ref": "C-3101",
       "label": "Blake Neff publicly compared Candace Owens's sustained 10-month coverage of the Kirk investigation to the Alex Jones/Sandy Hook coverage pattern",
-      "claim": "In a Twitter Space audio appearance, Blake Neff specifically stated that the sustained duration of Candace Owens's coverage \"exceeds\" even what Alex Jones did with Sandy Hook.",
+      "claim": "In a Twitter Space clip the host plays, Blake Neff says nothing compares to Candace Owens spending 10 months making every episode target Erika and Turning Point, and says he does not think Alex Jones made the Sandy Hook parents the only subject of his show for a 10-month period.",
       "anchored_artifacts": [
         "A-2169.3"
       ],
@@ -2294,7 +2295,7 @@
       "@id": "C-11561",
       "ref": "C-11561",
       "label": "Host Says Turning Point Equates Conspiracy Theories About Charlie's Death With Sandy Hook and Wants One Person Bankrupted",
-      "claim": "The host says Turning Point USA keeps equating what it calls conspiracy theories about Charlie Kirk's death with Sandy Hook victimization, and that this signals they want one particular person bankrupted for asking questions about their founder's death.",
+      "claim": "The host says Turning Point USA keeps equating what it calls conspiracy theories about Charlie Kirk's death with Sandy Hook victimization, and that this signals they want people, or maybe just one particular person, to be bankrupted for asking questions about their founder's death.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10741",
@@ -2732,7 +2733,7 @@
       "@id": "C-11580",
       "ref": "C-11580",
       "label": "Host Says Danny, Blake and Mikey Ran the Same Direction, Got Into the Same Car and Parked Next to Each Other",
-      "claim": "The host says Danny Philip, Blake Neff and Mikey McCoy all ran in the same direction, got into the same car, and had their cars parked right next to one another's, so she cannot see what they discussed by phone for 10 minutes.",
+      "claim": "The host says Danny Philip, Blake Neff and Mikey McCoy all ran in the same direction, got into the same car, and had their cars parked right next to one another's, and asks what they were conversing about for 10 full minutes.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10742",
@@ -3496,7 +3497,7 @@
       "@id": "C-11615",
       "ref": "C-11615",
       "label": "Host Says Erika Said on a Zoom Call That 50,000 Shirts Sold Into the LLC",
-      "claim": "The host says Erika got on a Zoom call and said the sales had been crazy, with 50,000 shirts sold, and that the money was kicked back into the LLC that Kolvet and the Charlie Kirk Show people own.",
+      "claim": "The host says Erika got on a Zoom call and, in the host's rendering of her words, said the sales had been crazy, with 50,000 shirts sold, kicked back into the LLC that 'me and the Charlie Kirk Show people own'.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11300",
@@ -3509,8 +3510,7 @@
       "investigative_direction": "Identify the Zoom call, its date and attendees, and obtain a recording or notes.",
       "transcript_snippet": "The sales have been crazy. 50,000 shirts sold, and kicked back into the LLC that me and the Charlie Kirk Show people own.",
       "mentions_person_refs": [
-        "N-2",
-        "N-14"
+        "N-2"
       ]
     },
     {
@@ -3815,8 +3815,8 @@
       "@type": "Claim",
       "@id": "C-11630",
       "ref": "C-11630",
-      "label": "Host Says Loomer Is Retweeted by Shapiro's Lawyer, Who Now Sues Her on Behalf of Bryan Harpole",
-      "claim": "The host says Laura Loomer is retweeted by Ben Shapiro's lawyer, who has been suing the host for three years and is now suing her on behalf of Bryan Harpole.",
+      "label": "Host Says Loomer Is Retweeted by Shapiro's Lawyer, Who Now Sues Her on Behalf of Brian Harpole",
+      "claim": "The host says Laura Loomer is retweeted by Ben Shapiro's lawyer, who has been suing the host for three years and is now suing her on behalf of Brian Harpole.",
       "anchored_artifacts": [
         "A-3143.1"
       ],
@@ -3828,7 +3828,7 @@
       ],
       "claim_timestamp": "00:59:46",
       "investigative_direction": "Check the docket of the Harpole filing for counsel of record and compare with counsel in the Shapiro matter.",
-      "transcript_snippet": "This is the person that's then retweeted by Ben Shapiro's lawyer who's been suing me for 3 years, who's now suing me on behalf of Bryan Harpole.",
+      "transcript_snippet": "This is the person that's then retweeted by Ben Shapiro's lawyer who's been suing me for 3 years, who's now suing me on behalf of Brian Harpole.",
       "mentions_person_refs": [
         "N-60",
         "N-97",

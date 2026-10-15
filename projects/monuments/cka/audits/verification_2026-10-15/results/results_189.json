@@ -1,0 +1,777 @@
+[
+ {
+  "claim": "C-13171",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13172",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13173",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13174",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13175",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only the host; Kolvet (N-14) is not named or referred to in the claim (\"they're saying I was behind the article\").",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-13176",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13177",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13178",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13179",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13180",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13181",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13182",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13183",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13184",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13185",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13186",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"Not one thing that I was forced to retract on the basis of what we saw on the preliminary hearing.\" Claim wording implies there were things she had to retract.",
+  "fix": {
+   "claim": "The host says nothing at the preliminary hearing forced her to retract anything, and that it led to even more questions."
+  }
+ },
+ {
+  "claim": "C-13187",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Sentence breaks off: \"as Erika posed next to the bloody I mean\"; \"item\" is added.",
+  "fix": {
+   "claim": "The host says roughly $40 million was raised in one night as Erika posed next to the bloody (the sentence breaks off), a fact she says is forgotten."
+  }
+ },
+ {
+  "claim": "C-13188",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13189",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Framed as \"if Seth Dillon admitted that he had pressured him in the Hamptons as he does\"; claim drops the conditional framing.",
+  "fix": {
+   "claim": "The host says that if Seth Dillon had admitted he pressured Charlie Kirk in the Hamptons, as she says he does, no one would have thought anything was weird."
+  }
+ },
+ {
+  "claim": "C-13190",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13191",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13192",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3138",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Kolvet post: \"It can be an evil thing to release a man's private messages after his death.\" Claim drops \"can be\".",
+  "fix": {
+   "claim": "Andrew Kolvet, in a public X post the host reads, asserted he had no idea whether the text messages shared by Candace Owens were authentic, said that for argument's sake, if real, releasing a man's private messages after his death \"can be an evil thing\", and said Candace was \"weaponizing\" Charlie's private messages."
+  }
+ },
+ {
+  "claim": "C-3139",
+  "episode": 132,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Sorry Andrew, you can't just keep moving the goal post\" is the host's own remark, not the note. Kolvet (N-14) is named in the claim but missing from Mentions.",
+  "fix": {
+   "claim": "Per a Twitter note the host reads, Kolvet previously challenged Owens to show proof of a genuine friendship from the last 12, 18 or 24 months, and the released texts are from November 2023, within 22 months of Charlie Kirk's death on September 10. The host adds that Kolvet cannot keep moving the goalpost.",
+   "mentions": [
+    "N-1",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-3140",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3141",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Harris Faulkner (N-801) is named in the claim but missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-801"
+   ]
+  }
+ },
+ {
+  "claim": "C-3142",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Pastor says \"What Charlie started, we have the responsibility to finish\"; he does not frame himself alone as finishing it.",
+  "fix": {
+   "claim": "In a sermon clip the host plays, Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, says he refuses to allow the conservative movement to be taken over by \"vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities\" and says of what Charlie started, \"we have the responsibility to finish.\""
+  }
+ },
+ {
+  "claim": "C-3143",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3144",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3145",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Marina Medvin (CMO), the in-house lawyer and the host's prior claim; Mentions lacks N-494, N-495, N-3.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-69",
+    "N-494",
+    "N-495",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3146",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"The account holder on Instagram is Devante West\"; N-824 is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-824",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-3147",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Dr. Deidra Amaro (N-177), but Mentions lists only N-3.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-177"
+   ]
+  }
+ },
+ {
+  "claim": "C-3148",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Title says \"in casket footage\"; the comment mentions the casket, but the host says the ring falls out \"on the ground\" in \"some footage\"/\"certain images\", not casket footage.",
+  "fix": {
+   "label": "Host Says Charlie Kirk's Wedding Ring Had an Open Clasp and Was Never Recovered"
+  }
+ },
+ {
+  "claim": "C-3149",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names \"Charlie's security team\" and Charlie Kirk; Mentions lists only N-3.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-9007",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9008",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9009",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: resignations \"all seem to be occurring because people have a general sense of corruption\"; claim states cause without \"seem\".",
+  "fix": {
+   "claim": "The host says she is hearing that there are a lot of resignations happening across the board, particularly at Utah Valley University and at police departments, which she says all seem to be occurring because people have a general sense of corruption they would like to remove themselves from."
+  }
+ },
+ {
+  "claim": "C-9010",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9011",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9012",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9013",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9014",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9015",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9016",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9017",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9018",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9019",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9020",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9021",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9022",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9023",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9024",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9025",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9026",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9027",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9028",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9029",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host only asks viewers to \"think about the distance of the camera to Erika\"; title asserts it was very close.",
+  "fix": {
+   "label": "Host Asks Viewers to Consider the Camera Distance to Erika at the Casket"
+  }
+ },
+ {
+  "claim": "C-9030",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9031",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9032",
+  "episode": 132,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

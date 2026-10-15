@@ -666,7 +666,7 @@ Claim: Carlson says he came into possession of many social media posts by Thomas
 Transcript Snippet: accidentally came into possession of a lot of the social media posts that we were told didn't exist that were posted by Thomas Crooks in the months and years before the shooting
 
 Anchored Artifacts: A-2646.1
-Mentions: N-22, N-104, N-266, N-69, N-379
+Mentions: N-22, N-104, N-266
 Related Nodes: N-10014, N-10111
 Investigative Direction: Compare the posts Carlson holds against FBI public statements on Crooks's online history.
 
@@ -741,13 +741,13 @@ Claim: According to the article Bongino reads, the Crooks case currently sits in
 Transcript Snippet: The case that's the crooks case he says was shut down currently sits in a pending inactive status.
 
 Anchored Artifacts: A-2647.2
-Mentions: N-379, N-104
+Mentions: N-379, N-104, N-22
 Related Nodes: N-10588
 Investigative Direction: Request the FBI's case status for the Butler shooting investigation and the definition of "pending inactive" in FBI case management.
 
 ---
 
-**C-4489** Bongino texted Carlson to ask the president to release more information
+**C-4489** Bongino Texted Carlson to Ask the President for More Information
 
 Claim Timestamp: 00:09:41
 
@@ -807,7 +807,7 @@ Investigative Direction: Review the full Butler forensic and investigative recor
 
 ---
 
-**C-4493** Host speculates Trump said in front of Kirk and Kolvet he would cross a donor
+**C-4493** Host Speculates Trump Said in Front of Kirk and Kolvet He Would Cross Someone
 
 Claim Timestamp: 00:12:34
 
@@ -840,7 +840,7 @@ Investigative Direction: Retrieve the New York Times article and its sourcing de
 
 Claim Timestamp: 00:14:37
 
-Claim: The host says Jeffrey Epstein was involved in a trafficking ring, trafficking weapons and people on behalf of the state of Israel, and links this to Trump and Miriam Adelson.
+Claim: The host says Jeffrey Epstein was involved in a trafficking ring, trafficking weapons and people on behalf of the state of Israel, and calls Trump saying he would screw over Miriam Adelson "another Israel theme."
 
 Transcript Snippet: he was involved in a trafficking ring. Uh, he traffked weapons. He traffked people. He did it uh on behalf of the state of Israel.
 
@@ -1002,9 +1002,9 @@ Investigative Direction: Obtain flight records for the July 14, 2025 Long Beach 
 
 Claim Timestamp: 00:19:42
 
-Claim: The host says James Kaddis is an Egyptian, radically pro-Israel pastor who runs Turning Point USA Faith.
+Claim: The host says James Kaddis is "that icky guy who is Egyptian" and runs Turning Point USA Faith, and that he is radically pro-Israel.
 
-Transcript Snippet: James Catis is that icky guy who is Egyptian and runs Turning Point USA faith.
+Transcript Snippet: James Kaddis is that icky guy who is Egyptian and runs Turning Point USA faith.
 
 Anchored Artifacts: 
 Mentions: N-668
@@ -1046,7 +1046,7 @@ Investigative Direction: Obtain the full recording of the July 14, 2025 Calvary 
 
 Claim Timestamp: 00:21:49
 
-Claim: The host shows what she says is James Kaddis's PragerU video, titled in effect "I'm an Egyptian pastor who supports Israel."
+Claim: The host shows what she says is James Kaddis's PragerU video, in which he says, "I'm an Egyptian pastor who supports Israel."
 
 Transcript Snippet: This is literally his Prageru video. I'm an Egyptian pastor who supports Israel.
 
@@ -1125,7 +1125,7 @@ Claim: In the clip of her July 2025 interview with Tucker Carlson, the host says
 Transcript Snippet: Since the 80s, Jeffrey Epste has been working for Israel.
 
 Anchored Artifacts: A-2651.1
-Mentions: N-3, N-9, N-22, N-5, N-85
+Mentions: N-3, N-9, N-22
 Related Nodes: N-10023
 Investigative Direction: Review released Epstein records for documented foreign-intelligence ties.
 
@@ -1269,7 +1269,7 @@ Investigative Direction: Establish the date and context of the host's meeting wi
 
 Claim Timestamp: 00:40:29
 
-Claim: The host says that under Erika Kirk TPUSA invited Bari Weiss and Ben Shapiro to AmFest and entered a deeper partnership with the International Fellowship of Christians and Jews.
+Claim: The host, voicing Erika Kirk's approach, says that under her TPUSA asked Bari Weiss and Ben Shapiro to open at AmFest and went into a deeper partnership with the International Fellowship of Christians and Jews.
 
 Transcript Snippet: We're going into a deeper partnership with International Fellowship of Christian and Jews.
 
@@ -1394,7 +1394,7 @@ Claim: The FOIA response the host reads says it cannot respond within the 20-day
 Transcript Snippet: we will not be able to respond within the FOIA's 20-day statutory time period as there are unusual circumstances which impact our ability to quickly process your request.
 
 Anchored Artifacts: A-2653.1
-Mentions: N-434
+Mentions: 
 Related Nodes: N-10700, N-10671
 Investigative Direction: Ask the FOIA office which agencies are being consulted, and appeal the delay.
 

@@ -13,7 +13,7 @@
     "transcript_sha256": "93abb119e30ffeee11218fa72b1be08579d89ea15f3f784ace8d3604332d4554",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "Episode 123 is structured as an \"emergency update\" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turek and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown – a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.\n\nThe episode then pivots to commentary on Turning Point USA's anticipated response, including a viral clip of Mikey McCoy appearing physically ill as Charlie's casket is moved at the hospital, and a prior interview clip of Charlie describing how Erika told him \"God wants you to have your phone on\" – directly relevant to the Butler shooting anecdote referenced earlier in the series. The host reiterates her position that Tyler Robinson did not fire the shot from the rooftop and supports John Bray's microphone-rigging theory.\n\nStructurally, this episode advances the evidentiary record by introducing specific visual artifacts (car interior photos) that anchor ongoing contradictions between witness retellings and physical evidence. It also widens the lens to include institutional accountability questions directed at TPUSA.\n\n---",
+  "executive_summary": "Episode 123 is structured as an \"emergency update\" presenting previously withheld photographic evidence from the interior of the vehicle in which Charlie Kirk was transported on the day of the shooting. The host displays four car-interior photos and four closeups, claiming they show black tempered (sharded) glass consistent with a shattered lapel/road microphone in the area corresponding to Charlie's chest region. She contrasts this with public statements from Frank Turek and Brian Harpole, who reportedly described only a neck wound and never mentioned shattered glass. A second set of objects is shown – a cardboard-colored piece, an unidentified foil under the floor mat, an item identified via live viewer comment as SantaMedical.com medical equipment, a blood-marked Uber bag, and a coat hanger. The host reports that Charlie's bloody sports coat was returned to Erika Kirk's apartment in Arizona rather than collected into evidence.\n\nThe episode then pivots to commentary on Turning Point USA's anticipated response, including a viral clip of Mikey McCoy appearing physically ill as Charlie's casket is moved at the hospital, and a prior interview clip of Charlie describing how Erika told him \"God wants you to have your phone on\" – directly relevant to the Butler shooting anecdote referenced earlier in the series. The host reiterates her position that Tyler Robinson did not fire the shot from the rooftop and supports Jon Bray's microphone-rigging theory.\n\nStructurally, this episode advances the evidentiary record by introducing specific visual artifacts (car interior photos) that anchor ongoing contradictions between witness retellings and physical evidence. It also widens the lens to include institutional accountability questions directed at TPUSA.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -301,13 +301,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2857",
       "family_ref": "A-2857",
-      "bundle_name": "John Bray Glass Photos Verbal Bundle",
+      "bundle_name": "Jon Bray Glass Photos Verbal Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2857.1",
           "ref": "A-2857.1",
-          "description": "Host verbal reference to photos John Bray is sending showing glass that fell in front of Charlie at impact (not shown)",
+          "description": "Host verbal reference to photos Jon Bray is sending showing glass that fell in front of Charlie at impact (not shown)",
           "related_claims": [
             "C-7169"
           ],
@@ -924,7 +924,7 @@
       "ref": "N-684",
       "name": "Jon Bray",
       "type": "person",
-      "description": "Source of the microphone-rigging theory and glass photos; transcript spells John Bray.",
+      "description": "Source of the microphone-rigging theory and glass photos; transcript spells Jon Bray.",
       "related_artifacts": [],
       "related_claims": [
         "C-7149",
@@ -1321,7 +1321,7 @@
       "@id": "C-2986",
       "ref": "C-2986",
       "label": "Black Tempered Shattered Glass Present in Charlie Kirk Transport Vehicle",
-      "claim": "Photographs of the vehicle interior show black tempered shattered glass particles concentrated between the front captain chairs, in the area corresponding to Charlie Kirk's chest position, consistent with the host's identification of a broken road/lapel microphone.",
+      "claim": "The host says photographs of the vehicle interior show black tempered shattered glass concentrated in the area corresponding to Charlie Kirk's chest position, consistent with her identification of a broken road/lapel microphone.",
       "anchored_artifacts": [
         "A-2110.3",
         "A-2111.4"
@@ -1401,7 +1401,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:00:00–00:00:01",
+      "claim_timestamp": "00:08:05",
       "investigative_direction": "Obtain higher-resolution images; consult medical/forensic experts on whether material is cardboard, gauze packaging, or other.",
       "mentions_person_refs": []
     },
@@ -1417,7 +1417,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:00:00–00:00:01",
+      "claim_timestamp": "00:16:00",
       "investigative_direction": "Obtain higher-resolution images; compare to medical emergency blanket specifications.",
       "mentions_person_refs": []
     },
@@ -1444,7 +1444,7 @@
       "@id": "C-2993",
       "ref": "C-2993",
       "label": "Mikey McCoy Appeared Physically Ill During Casket Removal at Hospital",
-      "claim": "A viral clip shows Mikey McCoy appearing physically ill and holding his stomach as Charlie's casket was carried out of the hospital.",
+      "claim": "The host says that in a video she shows, Mikey McCoy was holding his stomach as if he were going to become ill and could not even hold the casket as Charlie was taken out of the hospital.",
       "anchored_artifacts": [
         "A-2112"
       ],
@@ -1468,7 +1468,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:06:00–00:19:30",
-      "investigative_direction": "Obtain transcripts/video of all Frank Turek and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.",
+      "investigative_direction": "Obtain transcripts/video of all Frank Turek and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference Jon Bray's prior microphone-rigging theory.",
       "mentions_person_refs": [
         "N-267",
         "N-7"
@@ -1513,7 +1513,7 @@
       "@id": "C-2997",
       "ref": "C-2997",
       "label": "Police Scanner Reported Car Door Open and Visible Struggle During Transport",
-      "claim": "Police scanner reports (referenced via Baron Coleman episodes) describe the car door being open during high-speed transport and what looked like a struggle inside the vehicle, attributed to Rick Cutler holding Brian Harpole.",
+      "claim": "The host says Brian Harpole said police behind them reported on the scanner what looked like a struggle in the car, which she suggests could have been Rick Cutler holding Harpole, and that they said the car door was open.",
       "anchored_artifacts": [
         "A-2114.2"
       ],
@@ -1525,7 +1525,6 @@
       "investigative_direction": "Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.",
       "mentions_person_refs": [
         "N-267",
-        "N-331",
         "N-488"
       ]
     },
@@ -1534,7 +1533,7 @@
       "@id": "C-2998",
       "ref": "C-2998",
       "label": "Host Says TPUSA Has Not Publicly Explained How Microphone Glass Ended Up in Vehicle",
-      "claim": "The host says that, as of this episode, TPUSA (via spokesperson Andrew Kolvet) has not publicly addressed how the road microphone shattered or why the glass ended up in the vehicle.",
+      "claim": "The host says TPUSA spokesperson Andrew Kolvet should respond about how the road microphone shattered, why the glass ended up in the vehicle, and where Charlie's shirt is.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10705",
@@ -1551,12 +1550,12 @@
       "@type": "Claim",
       "@id": "C-2999",
       "ref": "C-2999",
-      "label": "Host Asserts Existence of Additional Withheld Photos",
-      "claim": "The host states she is \"in the process of securing more photos\" beyond the four shown.",
+      "label": "Host Says She Is Securing More Photos",
+      "claim": "The host states she is \"in the process of securing more photos\".",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:29:24",
+      "claim_timestamp": "00:28:40",
       "investigative_direction": "Track for future episode disclosures; verify provenance of any additional photos when released.",
       "mentions_person_refs": []
     },
@@ -1692,8 +1691,8 @@
       "@type": "Claim",
       "@id": "C-7149",
       "ref": "C-7149",
-      "label": "Host Says John Bray Was Convinced the Microphone Was Rigged and Shattered",
-      "claim": "The host says John Bray was convinced from the very beginning that Charlie's microphone was rigged beneath him and subsequently shattered.",
+      "label": "Host Says Jon Bray Was Convinced the Microphone Was Rigged and Shattered",
+      "claim": "The host says Jon Bray was convinced from the very beginning that Charlie's microphone was rigged beneath him and subsequently shattered.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10768",
@@ -1704,8 +1703,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:03:27",
-      "investigative_direction": "Obtain John Bray's written analysis and the source photos he supplied.",
-      "transcript_snippet": "He was convinced from the very beginning, John Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.",
+      "investigative_direction": "Obtain Jon Bray's written analysis and the source photos he supplied.",
+      "transcript_snippet": "He was convinced from the very beginning, Jon Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.",
       "mentions_person_refs": [
         "N-684",
         "N-1"
@@ -1784,7 +1783,7 @@
       "@id": "C-7153",
       "ref": "C-7153",
       "label": "Host Says the Blood-Marked Uber Bag Was Likely Used by Turek to Wipe Hands",
-      "claim": "The host says she believes the bloodied Uber bag was most likely used to wipe hands and, given where Frank Turek was sitting, was probably his.",
+      "claim": "The host says she believes the bloodied Uber bag was most likely used to wipe hands afterwards and thinks, given where Frank Turek was sitting, that it was likely him.",
       "anchored_artifacts": [
         "A-2110.1"
       ],
@@ -2118,8 +2117,8 @@
       "@type": "Claim",
       "@id": "C-7169",
       "ref": "C-7169",
-      "label": "Host Says John Bray Is Sending Photos Showing Glass Fell in Front of Charlie",
-      "claim": "The host says some glass actually fell in front of Charlie at the immediate impact, and that John Bray is getting her those photos.",
+      "label": "Host Says Jon Bray Is Sending Photos Showing Glass Fell in Front of Charlie",
+      "claim": "The host says some glass actually fell in front of Charlie at the immediate impact, and that Jon Bray is getting her those photos.",
       "anchored_artifacts": [
         "A-2857.1"
       ],
@@ -2131,7 +2130,7 @@
       ],
       "claim_timestamp": "00:20:36",
       "investigative_direction": "Obtain Bray's photos with metadata and compare against the UVU stage footage.",
-      "transcript_snippet": "there is some that actually fell in front of Charlie and John Bray's getting me those photos",
+      "transcript_snippet": "there is some that actually fell in front of Charlie and Jon Bray's getting me those photos",
       "mentions_person_refs": [
         "N-684",
         "N-1"
@@ -2166,7 +2165,7 @@
       "@id": "C-7171",
       "ref": "C-7171",
       "label": "Host Says She Has Images of Charlie's Neck Flopping as He Was Carried",
-      "claim": "The host says she has images of Charlie being carried to the car with his neck literally flopping, that nobody was focused on securing it, and that she declines to show them because they are graphic.",
+      "claim": "The host says nobody was focused on securing Charlie's neck as he was carried to the car and that it was literally flopping, that she has those images, and that she is declining to show one photo because it is so graphic.",
       "anchored_artifacts": [
         "A-2858.1"
       ],
@@ -2379,7 +2378,7 @@
       "@id": "C-7181",
       "ref": "C-7181",
       "label": "Host Says Neff, Allen and Paramount Tactical Tried to Delude the Public",
-      "claim": "The host says Blake Neff, Graham Allen and Paramount Tactical tried to delude the public into an absurd story.",
+      "claim": "The host asks whether Blake Neff, Graham Allen and Paramount Tactical really thought they were going to delude the public into the absurd story they tried to spin.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10899"
@@ -2582,7 +2581,7 @@
       "@id": "C-7191",
       "ref": "C-7191",
       "label": "Host Says Bray's Theory Has More Evidence than the Official Story",
-      "claim": "The host says she thinks John Bray's theory has infinitely more evidence than the story told by the prosecution, the FBI and TPUSA representatives.",
+      "claim": "The host says she thinks Jon Bray's theory has infinitely more evidence than the story told by the prosecution, the FBI and TPUSA representatives.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10705",
@@ -2593,7 +2592,7 @@
       ],
       "claim_timestamp": "00:49:41",
       "investigative_direction": "Compare Bray's evidence compilation with the prosecution's exhibits.",
-      "transcript_snippet": "I think John Bray's theory has infinitely more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.",
+      "transcript_snippet": "I think Jon Bray's theory has infinitely more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.",
       "mentions_person_refs": [
         "N-684"
       ]
@@ -2675,7 +2674,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:52:17",
       "investigative_direction": "relevance:context",
@@ -2691,7 +2690,7 @@
       "@type": "Claim",
       "@id": "C-7196",
       "ref": "C-7196",
-      "label": "Host Says the Show and the Turek Camp Share the Charlie Kirk Building",
+      "label": "Host Says the Charlie Kirk Show Team Shares a Building with Ter",
       "claim": "The host says the show's hosts and Turek are all in the same building, the Charlie Kirk building, so answers could be had quickly.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2794,8 +2793,8 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core",
-        "DIA"
+        "DIA",
+        "relevance:context"
       ],
       "claim_timestamp": "01:00:07",
       "investigative_direction": "Check whether the tip address received material relevant to the car-interior photos.",

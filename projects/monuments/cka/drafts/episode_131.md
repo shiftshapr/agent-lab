@@ -773,7 +773,7 @@ Library in Simi Valley where the host says Ben Shapiro was due to speak at 6:00 
 
 Claim Timestamp: 00:10:44
 
-Claim: A thread of SMS messages dated November 15, 2023, between Charlie Kirk and Candace Owens, read aloud in full, documents contemporaneous pressure from the Daily Wire / Ben Shapiro orbit during the "Christ is King" episode.
+Claim: Per a snippet of a November 15, 2023 text thread between Charlie Kirk and Candace Owens that the host shows and reads aloud, the host says there was a coordinated effort from inside the Daily Wire to pressure and smear her during the Christ is King controversy.
 
 Anchored Artifacts: A-2180.1
 Mentions: N-1, N-3, N-97
@@ -841,7 +841,7 @@ Investigative Direction: Verify name spelling against device-extracted SMS recor
 
 **C-3122** Charlie Kirk Text – "We Are on the Same Team. Screw These People"
 
-Claim Timestamp: 00:10:44
+Claim Timestamp: 00:12:20
 
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Thank you. We are on the same team. Screw these people" and later: "Absolutely. We are on the same team. People are waking up and it is finally happening."
 
@@ -885,7 +885,7 @@ Investigative Direction: Verify date and full context of the exchange against de
 
 Claim Timestamp: 00:18:20
 
-Claim: In an audio clip played in the episode, Ben Shapiro states that his security (described by host as former IDF members) was on the phone with Charlie Kirk's security "during the critical 7 minutes" while Charlie was fighting for his life.
+Claim: In a clip the host plays, Ben Shapiro says his security was on the phone with Charlie Kirk's security while Charlie was still in the back of the car; the host describes Shapiro's security as former Israeli IDF members and says this was during the critical 7 minutes while Charlie was fighting for his life.
 
 Anchored Artifacts: A-2181.1
 Mentions: N-1, N-97
@@ -933,7 +933,7 @@ Claim Timestamp: 00:33:45
 Claim: In an audio clip played in the episode (Paramount Tactical), Tracy Martin states: "Absolutely not. No, absolutely not" in response to a question about whether she was the person the Daily Mail contacted and provided information from.
 
 Anchored Artifacts: A-2183.1
-Mentions: N-2, N-546
+Mentions: N-546
 
 
 Investigative Direction: Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.
@@ -947,7 +947,7 @@ Claim Timestamp: 00:37:41
 Claim: In a Newsmax audio clip, Rob O'Neill states that the screwdriver left on the rooftop "probably wouldn't have worked to take it apart or put it together in the first place," and questions how the suspect "jumped off the roof and put it back together without the screwdriver."
 
 Anchored Artifacts: A-2184.1
-Mentions: N-1
+Mentions: N-154
 
 
 Investigative Direction: Obtain full Newsmax segment; cross-reference with official forensic reports on the rooftop.
@@ -961,7 +961,7 @@ Claim Timestamp: 00:37:41
 Claim: In a Newsmax audio clip, Rob O'Neill states that a 30-06 round "would do a lot more than that" against a human spine based on his ballistic gel experience.
 
 Anchored Artifacts: A-2184.1
-Mentions: N-1
+Mentions: N-154
 
 
 Investigative Direction: Cross-reference with official autopsy report (if released); obtain independent ballistic-gel comparison data.
@@ -975,7 +975,7 @@ Claim Timestamp: 00:37:41
 Claim: In a Newsmax audio clip, Rob O'Neill states the shot "went left to right, not from front to back," and asserts an exit wound on Charlie Kirk's left-hand side.
 
 Anchored Artifacts: A-2184.1
-Mentions: N-1
+Mentions: N-154, N-1
 
 
 Investigative Direction: Cross-reference with official autopsy report (if released); obtain independent forensic analysis.
@@ -989,7 +989,7 @@ Claim Timestamp: 00:37:41
 Claim: In a Newsmax audio clip, Rob O'Neill characterizes the suspect's post-shooting text messages as appearing "like English was a second language," noting the suspect "started texting someone like English was a second language."
 
 Anchored Artifacts: A-2184.1
-Mentions: N-1
+Mentions: N-154
 
 
 Investigative Direction: Obtain full Newsmax segment; cross-reference with publicly released text message excerpts.
@@ -1000,10 +1000,10 @@ Investigative Direction: Obtain full Newsmax segment; cross-reference with publi
 
 Claim Timestamp: 00:41:38
 
-Claim: In an audio clip played in the episode, Allison Holker states that while cleaning out the closet to pick out a funeral outfit, she discovered "a lot of things I did not know existed" hidden in the home, including substances – even though the autopsy (per host narration from news reports) found no drugs or alcohol in his system.
+Claim: In an audio clip played in the episode, Allison Holker says that while cleaning out the closet to pick out a funeral outfit, she discovered "a lot of things" in the closet "that I did not know existed"; the host says she reportedly found substances hidden in his shoe boxes, even though the autopsy found no drugs or alcohol in his system.
 
 Anchored Artifacts: A-2185.1
-Mentions: N-512
+Mentions: N-926, N-925
 
 Related Nodes:
 
@@ -1028,12 +1028,12 @@ Investigative Direction: Obtain the full CBS / Gayle King segment; obtain any do
 
 **C-3135** Twitch Family States They Could Not See Him or Participate Without NDA
 
-Claim Timestamp: 00:44:07
+Claim Timestamp: 00:45:40
 
 Claim: In a CBS / Gayle King audio clip, Twitch's family members state: "If you don't sign, you will not be able to see him and you will not be able to participate."
 
 Anchored Artifacts: A-2186.1
-Mentions: N-512
+Mentions: N-512, N-925
 
 Related Nodes:
 
@@ -1045,10 +1045,10 @@ Investigative Direction: Obtain the full CBS / Gayle King segment; cross-referen
 
 Claim Timestamp: 00:39:35
 
-Claim: A YouTube comment posted on the prior day's episode lists parallels between the Twitch / Allison Holker case and the Charlie / Erica Kirk case, including: "Mormon wife who chased him at dancing events until he marries her," "The family iced out," "Mysterious death," "His family asked to sign an NDA to attend the memorial," and "The wife back at work and in business mode a few days later making deals and publishing books."
+Claim: A YouTube comment the host reads, which she says she saw the day before, lists similarities with the Twitch / Allison Holker case, including: "Mormon wife who chased him at dancing events until he marries her," "The family iced out," "Mysterious death," "His family asked to sign an NDA to attend the memorial," and "The wife back at work and in business mode a few days later making deals and publishing books."
 
 Anchored Artifacts: A-2188.1
-Mentions: N-1, N-2, N-512
+Mentions: N-1, N-2, N-925, N-926
 
 Related Nodes:
 
@@ -1060,9 +1060,10 @@ Investigative Direction: Independent verification of each parallel item against 
 
 Claim Timestamp: 00:39:35
 
-Claim: A YouTube comment posted on the prior day's episode states that Allison Holker "grew up in Orem, Utah, and graduated from Timpanogos High School in 2006."
+Claim: A YouTube comment the host reads, which she says she saw the day before, states that Allison Holker "grew up in Orem, Utah, and graduated from Timpanogos High School in 2006."
 
 Anchored Artifacts: A-2188.1
+Mentions: N-926
 
 Related Nodes:
 
@@ -1074,7 +1075,7 @@ Investigative Direction: Independent verification against public records or alum
 **C-3664** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
 
 Claim Timestamp: 01:00:06
-Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Claim: The host plugs the "CIA hats" merch, calling them essential.
 Transcript Snippet: ...y. Um we will always keep that up. Of course, the CIA hats, essential. We've been amazing, by the way. This is the first time there's ever been an open invest...
 Anchored Artifacts: A-2490.1
 Mentions: N-3
@@ -1088,12 +1089,12 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 
 Claim Timestamp: 00:19:05
 
-Claim: The host says the bounty she put out on who Ben Shapiro was with at "breakfast or lunch" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary (transcript surname "Jabitch"/"Jabach"; public sources give Gary Javitch; spelling unverified), says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.
+Claim: The host says the bounty she put out on who Ben Shapiro was with at "breakfast or lunch" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary Javitch, says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.
 
 Transcript Snippet: So, what did we do? We put out a bounty.
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-97, N-1
+Mentions: N-3, N-97, N-1, N-924
 Related Nodes: N-10748
 Supports: C-3764
 Qualifies: C-3126
@@ -1112,7 +1113,7 @@ Claim: Reading from what she calls his professional biography, the host says the
 Transcript Snippet: Gary was the president of the Nebraska chapter of AIPAC.
 
 Anchored Artifacts: A-2524.2
-Mentions: N-3, N-97
+Mentions: N-3, N-97, N-924
 Related Nodes: N-10748
 Confidence: low
 Uncertainty: Biography and donation records cited but not shown on air. The companion's surname is not asserted here: the transcript has "Jabitch"/"Jabach" and public sources give Gary Javitch (Omaha, Nebraska AIPAC); a video spelling check comes before any id.
@@ -1471,7 +1472,7 @@ Investigative Direction: Obtain the Kirk and Owens messages that name Seth Dillo
 
 Claim Timestamp: 00:13:59
 
-Claim: The host says that when she spoke at YWLN, she and Charlie Kirk sat in a room discussing what was happening behind the scenes at Daily Wire and what the company was doing legally, and that an Andrew (transcribed Andrew Klavan) was present before she went on stage.
+Claim: The host says that when she spoke at YWLN, she and Charlie Kirk sat in a room discussing what was happening behind the scenes at Daily Wire and what the company was doing legally, and that she believes Andrew Klavan was present, if she recalls correctly, before she went on stage.
 
 Transcript Snippet: Uh when I went and spoke at YWLN, he and I sat in a room and chatted about what was happening behind the scenes of Daily Wire
 
@@ -1889,7 +1890,7 @@ Investigative Direction: Check the Daily Mail page history and correspondence re
 
 Claim Timestamp: 00:32:08
 
-Claim: The host says she received a flurry of unsolicited emails presenting concrete proof that the Daily Mail story came from a family friend of Erika Kirk, whom she says is Tracy Martin.
+Claim: The host says she received a flurry of unsolicited emails presenting concrete proof that the Daily Mail story came from a family friend of Erika Kirk, whom she says she suspected was Tracy Martin.
 
 Transcript Snippet: We received a flurry of emails of people who presented proof concrete proof that the story did indeed come from a family friend of Erika
 
@@ -2020,7 +2021,7 @@ Claim: The host says that when she woke up they were saying she was behind the a
 Transcript Snippet: they're saying I was behind the article calling myself the B-word? Calling myself a soulless ghoul?
 
 Anchored Artifacts: 
-Mentions: N-3, N-14
+Mentions: N-3
 Related Nodes: N-10743
 Supports: C-3083
 Tags: relevance:context
@@ -2185,7 +2186,7 @@ Investigative Direction: Compile the host's prior releases of SUV photos and Kir
 
 Claim Timestamp: 00:49:33
 
-Claim: The host says nothing she had to retract was disproved by the preliminary hearing, and that it led to even more questions.
+Claim: The host says nothing at the preliminary hearing forced her to retract anything, and that it led to even more questions.
 
 Transcript Snippet: Not one thing that I was forced to retract on the basis of what we saw on the preliminary hearing.
 
@@ -2201,7 +2202,7 @@ Investigative Direction: Compare hearing testimony with the host's earlier claim
 
 Claim Timestamp: 00:50:46
 
-Claim: The host says roughly $40 million was raised in one night as Erika posed next to the bloody item, a fact she says is forgotten.
+Claim: The host says roughly $40 million was raised in one night as Erika posed next to the bloody (the sentence breaks off), a fact she says is forgotten.
 
 Transcript Snippet: us literally raising $40 million, approximately $40 million in one night as Erika posed next to the bloody
 
@@ -2233,7 +2234,7 @@ Investigative Direction: Identify the business that sold the shirts and its owne
 
 Claim Timestamp: 00:50:58
 
-Claim: The host says Seth Dillon pressured Charlie Kirk in the Hamptons, as he does.
+Claim: The host says that if Seth Dillon had admitted he pressured Charlie Kirk in the Hamptons, as she says he does, no one would have thought anything was weird.
 
 Transcript Snippet: if Seth Dillon admitted that he had pressured him in the Hamptons as he does
 

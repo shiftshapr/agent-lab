@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T10:50:06Z",
+  "generated_at": "2026-10-15T11:03:13Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -12922,7 +12922,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11630",
-      "label": "Host Says Loomer Is Retweeted by Shapiro's Lawyer, Who Now Sues Her on Behalf of Bryan Harpole",
+      "label": "Host Says Loomer Is Retweeted by Shapiro's Lawyer, Who Now Sues Her on Behalf of Brian Harpole",
       "node_kind": "claim",
       "episode": 129
     },
@@ -24283,7 +24283,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13106",
-      "label": "Host Says Sarah Tool Smiled Throughout Her Interviews",
+      "label": "Host Says Sarah Tool Smiled the Whole Time",
       "node_kind": "claim",
       "episode": 121
     },
@@ -36330,14 +36330,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14671",
-      "label": "Host Says Erika Spoke at James Catis' Calvary Chapel in Long Beach on July 14",
+      "label": "Host Says Erika Spoke at James Kaddis' Calvary Chapel in Long Beach on July 14",
       "node_kind": "claim",
       "episode": 110
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14672",
-      "label": "Host Says James Catis Heads the Turning Point USA Faith Department",
+      "label": "Host Says James Kaddis Heads the Turning Point USA Faith Department",
       "node_kind": "claim",
       "episode": 110
     },
@@ -36596,7 +36596,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14706",
-      "label": "Host Implies the Same Forces Took Out JFK, RFK and Other Catholics",
+      "label": "Host Says \"We Definitely Know Who\" Is Taking Out Catholics",
       "node_kind": "claim",
       "episode": 110
     },
@@ -36890,14 +36890,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14744",
-      "label": "Host Says Patel Fired the Salt Lake City FBI Head and Installed Bowles From Virginia",
+      "label": "Host Says Patel Fired the Salt Lake City FBI Head and Installed Bohls From Virginia",
       "node_kind": "claim",
       "episode": 128
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14745",
-      "label": "Host Says Bowles Had Almost 20 Years in the FBI Across the United States",
+      "label": "Host Says Bohls Had Almost 20 Years in the FBI Across the United States",
       "node_kind": "claim",
       "episode": 128
     },
@@ -37219,7 +37219,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14787",
-      "label": "Host Says the Farnsworths Took Down the Cameras and Go Way Back",
+      "label": "Viewer Comment Says the Farnsworths Took Down the Cameras and Go Way Back",
       "node_kind": "claim",
       "episode": 128
     },
@@ -37247,7 +37247,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14790",
-      "label": "Host Says the Screwdriver Apparently Cannot Unscrew the Weapon Said to Have Been Fired",
+      "label": "Viewer Comment Says the Screwdriver Apparently Cannot Unscrew the Weapon Said to Have Been Fired",
       "node_kind": "claim",
       "episode": 128
     },
@@ -49399,7 +49399,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2973",
-      "label": "James Rawlinson stated on X that he served in the 19th Special Forces and wore a maroon beret",
+      "label": "James Rawlinson Stated on X That He Served in the 19th Special Forces and Wore a Red Beret",
       "node_kind": "claim",
       "episode": 122
     },
@@ -49455,7 +49455,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2981",
-      "label": "Erica Kirk was involved in \"modeling apartments\" for Next Model Management and MC2",
+      "label": "Host Says People With Direct Knowledge Claim Erika Kirk Ran Modeling Apartments at Next Model Management",
       "node_kind": "claim",
       "episode": 122
     },
@@ -49476,14 +49476,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2984",
-      "label": "Tyler Robinson was set up by Lance Twiggs and is not the actual shooter",
+      "label": "Host Believes Tyler Robinson Was Set Up by Lance Twiggs",
       "node_kind": "claim",
       "episode": 122
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2985",
-      "label": "Andrew Kolvet was physically in the Executive Office Building in Washington D.C. while appearing \"live\" in Arizona on the Charlie Kirk Show",
+      "label": "Host Says Andrew Kolvet Appeared Live on the Charlie Kirk Show but Was in Washington D.C.",
       "node_kind": "claim",
       "episode": 122
     },
@@ -49581,7 +49581,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2999",
-      "label": "Host Asserts Existence of Additional Withheld Photos",
+      "label": "Host Says She Is Securing More Photos",
       "node_kind": "claim",
       "episode": 123
     },
@@ -49616,7 +49616,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3004",
-      "label": "Lance Twiggs testified Tyler Robinson was not political",
+      "label": "Host Says Lance Twiggs Confirmed Tyler Robinson Was Not Political",
       "node_kind": "claim",
       "episode": 124
     },
@@ -49784,7 +49784,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3028",
-      "label": "Clip Shows Sergeant Filomena Acknowledging UVU Communicated Discontinuation of Testing to FBI",
+      "label": "Clip Shows Sergeant Faumuina Acknowledging UVU Communicated Discontinuation of Testing to FBI",
       "node_kind": "claim",
       "episode": 126
     },
@@ -49882,7 +49882,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3042",
-      "label": "Officer Bagley testified body-cam terminated while on rooftop at 12:44 p.m.",
+      "label": "Officer Bagley Testified Body-Cam Footage Ended While on Rooftop",
       "node_kind": "claim",
       "episode": 127
     },
@@ -49910,21 +49910,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3046",
-      "label": "Sergeant Felomina testified backpack, jacket, and gloves were found at Fulton Library bus stop on shooter's route",
+      "label": "Sergeant Faumuina testified backpack, jacket, and gloves were found at Fulton Library bus stop on shooter's route",
       "node_kind": "claim",
       "episode": 127
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3047",
-      "label": "Sergeant Felomina testified items were sent to FBI lab for DNA processing",
+      "label": "Sergeant Faumuina testified items were sent to FBI lab for DNA processing",
       "node_kind": "claim",
       "episode": 127
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3048",
-      "label": "Sergeant Felomina testified that testing was halted without her direct communication of the decision",
+      "label": "Sergeant Faumuina testified that testing was halted without her direct communication of the decision",
       "node_kind": "claim",
       "episode": 127
     },
@@ -49959,7 +49959,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3053",
-      "label": "Frank Turek gave inconsistent accounts of where the FaceTime call ended",
+      "label": "Frank Turek Corrects Himself From Hotel to Hospital on FaceTime Duration",
       "node_kind": "claim",
       "episode": 127
     },
@@ -50624,7 +50624,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3148",
-      "label": "Host asserts wedding ring observed falling from Charlie Kirk's finger in casket footage",
+      "label": "Host Says Charlie Kirk's Wedding Ring Had an Open Clasp and Was Never Recovered",
       "node_kind": "claim",
       "episode": 132
     },
@@ -50645,14 +50645,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3151",
-      "label": "Host Says Rooftop Footage Shows No Clearly Visible Muzzle Flash",
+      "label": "Host Says She Sees No Recoil in Rooftop Footage and Notes an Unexplained Flash",
       "node_kind": "claim",
       "episode": 133
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3152",
-      "label": "Rooftop footage shows no visible recoil/kickback",
+      "label": "Host Says She Saw No Recoil in Rooftop Footage",
       "node_kind": "claim",
       "episode": 133
     },
@@ -50722,14 +50722,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3162",
-      "label": "Defense Memo: Bullet Perforated Left Neck Structures and C7 Vertebra",
+      "label": "Prosecution Memo: Bullet Perforated Left Neck Structures and C7 Vertebra",
       "node_kind": "claim",
       "episode": 134
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3163",
-      "label": "Defense Memo: Hemorrhaging Around Heart and Both Lungs Observed",
+      "label": "Prosecution Memo: Hemorrhaging Around Heart and Both Lungs Observed",
       "node_kind": "claim",
       "episode": 134
     },
@@ -59997,7 +59997,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4489",
-      "label": "Bongino texted Carlson to ask the president to release more information",
+      "label": "Bongino Texted Carlson to Ask the President for More Information",
       "node_kind": "claim",
       "episode": 114
     },
@@ -60025,7 +60025,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4493",
-      "label": "Host speculates Trump said in front of Kirk and Kolvet he would cross a donor",
+      "label": "Host Speculates Trump Said in Front of Kirk and Kolvet He Would Cross Someone",
       "node_kind": "claim",
       "episode": 114
     },
@@ -61138,7 +61138,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4652",
-      "label": "Qureshi's father co-founded Built with a Henderson and their sons shared a house",
+      "label": "Qureshi's Father Was One Half of Built With a Henderson, and Their Sons Shared a House",
       "node_kind": "claim",
       "episode": 116
     },
@@ -69125,7 +69125,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5793",
-      "label": "John Bray identified the mic as a possible shaped-charge source and looked for ABS shards",
+      "label": "Jon Bray identified the mic as a possible shaped-charge source and looked for ABS shards",
       "node_kind": "claim",
       "episode": 120
     },
@@ -69377,7 +69377,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5829",
-      "label": "Host solicits tips on Erika and Next Model Management at DIA addresses",
+      "label": "Host Solicits Tips on Erika and Next Model Management",
       "node_kind": "claim",
       "episode": 120
     },
@@ -78617,7 +78617,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7149",
-      "label": "Host Says John Bray Was Convinced the Microphone Was Rigged and Shattered",
+      "label": "Host Says Jon Bray Was Convinced the Microphone Was Rigged and Shattered",
       "node_kind": "claim",
       "episode": 123
     },
@@ -78757,7 +78757,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7169",
-      "label": "Host Says John Bray Is Sending Photos Showing Glass Fell in Front of Charlie",
+      "label": "Host Says Jon Bray Is Sending Photos Showing Glass Fell in Front of Charlie",
       "node_kind": "claim",
       "episode": 123
     },
@@ -78946,7 +78946,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7196",
-      "label": "Host Says the Show and the Turek Camp Share the Charlie Kirk Building",
+      "label": "Host Says the Charlie Kirk Show Team Shares a Building with Ter",
       "node_kind": "claim",
       "episode": 123
     },
@@ -79471,7 +79471,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7271",
-      "label": "Host Says Diligent Dennison Spoke to the Waiter in Penguitch",
+      "label": "Host Says Diligent Dennison Spoke to the Waiter in Panguitch",
       "node_kind": "claim",
       "episode": 124
     },
@@ -79618,35 +79618,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7292",
-      "label": "Host Corrects Felomina's Agency to the Utah Bureau of Investigations",
+      "label": "Host Corrects Faumuina's Agency to the Utah Bureau of Investigations",
       "node_kind": "claim",
       "episode": 127
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7293",
-      "label": "Felomina Testified She Wrote Nine or More Reports Including a September 22 Overview",
+      "label": "Faumuina Testified She Wrote Nine or More Reports Including a September 22 Overview",
       "node_kind": "claim",
       "episode": 127
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7294",
-      "label": "Felomina Testified Officers Found the Fulton Library Items Suspicious",
+      "label": "Faumuina Testified Officers Found the Fulton Library Items Suspicious",
       "node_kind": "claim",
       "episode": 127
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7295",
-      "label": "Felomina Testified No Further Information Existed When the Items Were Sent",
+      "label": "Faumuina Testified No Further Information Existed When the Items Were Sent",
       "node_kind": "claim",
       "episode": 127
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7296",
-      "label": "Felomina Agreed It Was Fair to Say the Items Were Determined Unrelated",
+      "label": "Faumuina Agreed It Was Fair to Say the Items Were Determined Unrelated",
       "node_kind": "claim",
       "episode": 127
     },
@@ -80304,7 +80304,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7390",
-      "label": "Host Says Charlie Relayed Trump's Private Request That She Stop Speaking About Brigitte Macron",
+      "label": "Host Says Charlie Would Not Have Revealed Trump's Private Request About Brigitte",
       "node_kind": "claim",
       "episode": 133
     },
@@ -90454,7 +90454,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8840",
-      "label": "Host Says Curtis Colvett, Kolvet's Brother, Was in Romania the Same Year as Rawlinson",
+      "label": "Host Says Curtis Kolvet, Kolvet's Brother, Was in Romania the Same Year as Rawlinson",
       "node_kind": "claim",
       "episode": 122
     },
@@ -90664,7 +90664,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8870",
-      "label": "Host Ties the Department of War to the 'Emotional Assets' Email on the WHCD Night",
+      "label": "Host Ties the Department of War to the 'Emotional Assets' Remark on the WHCD Night",
       "node_kind": "claim",
       "episode": 122
     },
@@ -91147,21 +91147,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8939",
-      "label": "Filomena Does Not Recall Whether Nine Items Were Seized and Agrees Items Went to FBI Lab",
+      "label": "Faumuina Does Not Recall Whether Nine Items Were Seized and Agrees Items Went to FBI Lab",
       "node_kind": "claim",
       "episode": 126
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8940",
-      "label": "Filomena Agrees DNA and Other Analysis Was Requested on the Items",
+      "label": "Faumuina Agrees DNA and Other Analysis Was Requested on the Items",
       "node_kind": "claim",
       "episode": 126
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8941",
-      "label": "Filomena Says She Does Not Remember Telling the Lab to Stop but Finds It Consistent With FBI/ATF Notes",
+      "label": "Faumuina Says She Does Not Remember Telling the Lab to Stop but Finds It Consistent With FBI/ATF Notes",
       "node_kind": "claim",
       "episode": 126
     },
@@ -91294,7 +91294,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8960",
-      "label": "Host Says Filomena Identified the Losee-to-Library Route as the Shooter's Route",
+      "label": "Host Says Faumuina Identified the Losee-to-Library Route as the Shooter's Route",
       "node_kind": "claim",
       "episode": 126
     },
@@ -91539,7 +91539,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8995",
-      "label": "Viewer Comment Says No Carhartt Store Stocked the Freedom Shirt, So It Was Custom",
+      "label": "Viewer Comment Says Freedom Shirt Was Not at Detroit Carhartt Store, Likely Custom",
       "node_kind": "claim",
       "episode": 126
     },
@@ -91777,7 +91777,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9029",
-      "label": "Host Says the Camera Was Very Close to Erika as She Said Goodbye in the Casket Clip",
+      "label": "Host Asks Viewers to Consider the Camera Distance to Erika at the Casket",
       "node_kind": "claim",
       "episode": 132
     },
@@ -92127,7 +92127,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9079",
-      "label": "Host Says the Donors Were Not Having Charlie Keeping the Money",
+      "label": "Host Says They Were Not Having Charlie Keep the Money",
       "node_kind": "claim",
       "episode": 132
     },
@@ -117117,21 +117117,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2139",
-      "label": "Tyler Robinson Hearing – Sergeant Jennifer Filomena Testimony",
+      "label": "Tyler Robinson Hearing – Sergeant Jennifer Faumuina Testimony",
       "node_kind": "artifact",
       "episode": 126
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2139.1",
-      "label": "Filomena Testimony on Unattended Items at Folsom Library Bus Stop",
+      "label": "Faumuina Testimony on Unattended Items at Folsom Library Bus Stop",
       "node_kind": "artifact",
       "episode": 126
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2139.2",
-      "label": "Filomena Testimony on Communication to FBI/ATF Discontinuing Testing",
+      "label": "Faumuina Testimony on Communication to FBI/ATF Discontinuing Testing",
       "node_kind": "artifact",
       "episode": 126
     },
@@ -117278,7 +117278,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2148",
-      "label": "Sergeant Jennifer Felomina Preliminary Hearing Testimony Bundle",
+      "label": "Sergeant Jennifer Faumuina Preliminary Hearing Testimony Bundle",
       "node_kind": "artifact",
       "episode": 127
     },
@@ -129997,14 +129997,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2857",
-      "label": "John Bray Glass Photos Verbal Bundle",
+      "label": "Jon Bray Glass Photos Verbal Bundle",
       "node_kind": "artifact",
       "episode": 123
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2857.1",
-      "label": "Host verbal reference to photos John Bray is sending showing glass that fell in front of Charlie at impact (not shown)",
+      "label": "Host verbal reference to photos Jon Bray is sending showing glass that fell in front of Charlie at impact (not shown)",
       "node_kind": "artifact",
       "episode": 123
     },

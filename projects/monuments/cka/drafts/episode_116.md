@@ -688,7 +688,7 @@ Claim: The host says the FBI's rapid response account had a public "crash out" o
 Transcript Snippet: the public crash out that they had yesterday on X over the manner that I promoted my show yesterday.
 
 Anchored Artifacts: A-2674.2
-Mentions: N-3, N-69
+Mentions: N-3
 Related Nodes: N-10014
 Investigative Direction: Archive the FBI rapid response account's posts addressed to the host on that date.
 
@@ -758,7 +758,7 @@ Investigative Direction: Compare event footage from spring and fall 2024 and obt
 
 Claim Timestamp: 00:07:29
 
-Claim: The host says the clip visible on the outside of Charlie Kirk's shirt at the September 10 event was a magnetic clip, with the Rode wireless microphone on the inside, and that the clip stayed on him the whole time.
+Claim: The host says the clip visible on the outside of Charlie Kirk's shirt at the September 10 event was a magnetic clip that apparently stayed on him the whole time, with the wireless microphone, which she assumes was a Rode, on the inside.
 
 Transcript Snippet: That clip is what you see on the outside of Charlie at the September event. That's a magnetic clip. It stays on Charlie the entire time.
 
@@ -850,7 +850,7 @@ Investigative Direction: Obtain UVU facilities work orders and contractor invoic
 
 Claim Timestamp: 00:17:21
 
-Claim: The contractor in the clip says the two supervisors – one in charge of a state-owned facility in American Fork, the other a groundskeeper at a facility in Provo – told him the governor and the FBI wanted the job done by Monday.
+Claim: The contractor in the clip says two men were in charge, one of a state-owned facility in American Fork and the other a maintenance groundskeeper at a facility in Provo, and that one of them told him the governor and the FBI wanted the job done by Monday.
 
 Transcript Snippet: Uh the FBI and the state the governor and the FBI, that's what they told me. The governor and the FBI said they want this done by Monday.
 
@@ -895,7 +895,7 @@ Investigative Direction: Obtain the medical examiner's report and independent ba
 
 Claim Timestamp: 00:21:11
 
-Claim: The host says Terryl Farnsworth told her that he spoke to Erika Kirk about the footage from behind Charlie Kirk's head in the early days after the assassination.
+Claim: The host says Terryl Farnsworth says he spoke to Erika Kirk about the footage from behind Charlie Kirk's head in the early days after the assassination.
 
 Transcript Snippet: it is now very compelling to me that Terryl says he spoke to Erika about that footage.
 
@@ -1263,7 +1263,7 @@ Claim: The host says that when Kash Patel arrived on the scene he instructed fed
 Transcript Snippet: When Kash Patel got on the scene, he instructed the Feds to take that footage.
 
 Anchored Artifacts:
-Mentions: N-69, N-1, N-40
+Mentions: N-69
 Related Nodes: N-10239, N-10014
 Investigative Direction: Obtain FBI evidence logs for the Timpanogos Hospital footage and who ordered its collection.
 
@@ -1428,7 +1428,7 @@ Claim: The host says the FBI account sent about five posts at her, including one
 Transcript Snippet: And then they said "When you tell your audience that you were {quote} denied, that would be a lie for clickbait."
 
 Anchored Artifacts: A-2674.4, A-2674.5
-Mentions: N-3, N-60
+Mentions: N-3
 Related Nodes: N-10014
 Investigative Direction: Archive all FBI account posts addressed to the host that day.
 
@@ -1512,7 +1512,7 @@ Investigative Direction: Compare VA prescribing practice for PTSD with Russia's 
 
 Claim Timestamp: 01:03:02
 
-Claim: The host says her producer Ashley has already reduced the burden of the FOIA request and they hope for a response from the Department of Justice.
+Claim: The host says Ashley has already reduced the burden of the FOIA request and they hope for a response from the Department of Justice.
 
 Transcript Snippet: Ashley just let me know that she did already reduce the burden.
 
@@ -1547,7 +1547,7 @@ Claim: The host says Frank Turek's story was that federal agents were looking fo
 Transcript Snippet: The strangest story came from Frank Turek, which was like the feds were looking for the necklace in the car and then he found it sitting on his backpack
 
 Anchored Artifacts: A-2676.2
-Mentions: N-7, N-2
+Mentions: N-7, N-1
 Related Nodes: N-10537
 Supports: C-1962
 Investigative Direction: Obtain FBI evidence logs for the necklace's recovery.
@@ -1578,14 +1578,14 @@ Claim: The host says Connor Henderson was interning in the emergency department 
 Transcript Snippet: and then we find out that Connor was working at the hospital, Timpanogos, interning in the emergency department
 
 Anchored Artifacts: A-2676.3
-Mentions: N-415, N-411, N-42, N-1
+Mentions: N-415, N-411
 Related Nodes: N-10578, N-10092
 Supports: C-2634
 Investigative Direction: Confirm Connor Henderson's Timpanogos internship dates and whether he worked September 10.
 
 ---
 
-**C-4652** Qureshi's father co-founded Built with a Henderson and their sons shared a house
+**C-4652** Qureshi's Father Was One Half of Built With a Henderson, and Their Sons Shared a House
 
 Claim Timestamp: 01:09:28
 

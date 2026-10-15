@@ -1,0 +1,775 @@
+[
+ {
+  "claim": "C-2949",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2950",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Brian only says 'Frank's praying out loud'; 'did not assist with medical care' is the host's inference.",
+  "fix": {
+   "claim": "In a clip the host plays, Brian Harpole says Frank Turek was praying out loud during the ride; the host says Frank was in the backseat and not doing anything."
+  }
+ },
+ {
+  "claim": "C-2951",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2952",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Frank: 'I didn't want her to see any of that'; 'blood' is the host's gloss at 29:18. Erika is named in claim but N-2 missing from Mentions.",
+  "fix": {
+   "claim": "In a clip the host plays, Frank Turek says he was in scrubs at the hospital because 'I didn't want her to see any of that' about his clothes; the host adds that this means not wanting Erika to see the blood on them.",
+   "mentions": [
+    "N-7",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2953",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2954",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2955",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'That's got to be Frank Turek' wiping hands on the leather seat; claim refers to 'the only backseat occupant' but Mentions is empty.",
+  "fix": {
+   "claim": "Photographs of the SUV backseat show what the host says looks like someone wiped their hands with blood on the leather seat; she attributes it to Frank Turek, the only backseat occupant.",
+   "mentions": [
+    "N-7"
+   ]
+  }
+ },
+ {
+  "claim": "C-2956",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says it looks like they wiped hands on the brown paper 'Uber bag'; she does not say blood marks are visible on the bag.",
+  "fix": {
+   "claim": "The host says photographs of the SUV backseat show a brown paper bag that looks like an Uber bag, and that it looks like someone used it to wipe their hands."
+  }
+ },
+ {
+  "claim": "C-2957",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim states photo contents as fact; host says 'looks to be a fact check true' and 'I would expect to see more'.",
+  "fix": {
+   "claim": "The host says the car floor photos show one opened 4x4 EMS quick clot dressing pack, which she compares with a product image, and that she would expect to see more opened packs given Brian Harpole's claimed use of multiple packs."
+  }
+ },
+ {
+  "claim": "C-2958",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "$100M 'in talks' wording is from Rubin's shared headline; the host reads the fuller headline 'Daily Wire under pressure, seeks strategic investors and targets an IPO'.",
+  "fix": {
+   "claim": "The host reads a Semafor headline, 'Exclusive, Daily Wire under pressure, seeks strategic investors and targets an IPO', and says the Daily Wire is trying to raise $100 million."
+  }
+ },
+ {
+  "claim": "C-2959",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Framing it positively' is the host's characterisation of Rubin's tweet, not stated by Rubin.",
+  "fix": {
+   "claim": "The host says Dave Rubin tweeted about Daily Wire being in talks for at least $100M in strategic investment with an eye on an IPO, and says he read only that headline and not the fuller 'under pressure' headline."
+  }
+ },
+ {
+  "claim": "C-2960",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2961",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2962",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2963",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Jeremy Boreing's project but N-367 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-367"
+   ]
+  }
+ },
+ {
+  "claim": "C-2964",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Comment says Harpole's story is 'so absurd' and that visitor interference is forbidden; 'could not happen in a real ER' is stronger.",
+  "fix": {
+   "claim": "A viewer comment the host reads, from Judith Bronco (a retired ER nurse married to a retired emergency room doctor), says Brian Harpole's story is 'so absurd', that only highly trained ER staff and surgeons enter trauma rooms with the patient, and that interference from visitors is strictly forbidden."
+  }
+ },
+ {
+  "claim": "C-2965",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Gina's 'did not wheel him into a room' comment is read at about 53:20; claim timestamp 51:57 is about 80s before.",
+  "fix": {
+   "timestamp": "00:53:10"
+  }
+ },
+ {
+  "claim": "C-2966",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2967",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2968",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Brian: whether he had a pulse 'is unknown', concern is bleed control; 'rather than CPR' is the host's inference.",
+  "fix": {
+   "claim": "In a clip the host plays, Brian Harpole says whether Charlie had a pulse is unknown and that his concern was bleed control; the host adds that this means they were not doing CPR."
+  }
+ },
+ {
+  "claim": "C-13056",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13057",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13058",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13059",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13060",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Host says 'I think, rather truthfully admitting'; claim drops the hedge.",
+  "fix": {
+   "claim": "The host says she thinks Brian Harpole is, rather truthfully, admitting that he was the person responsible for removing Charlie Kirk's shirt, since there is no other reason to insert himself into that narrative unless that piece is true."
+  }
+ },
+ {
+  "claim": "C-13061",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13062",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Host: 'I have to then logically consider' the shirt came off elsewhere, 'the only other option' being the car; claim says 'concludes'.",
+  "fix": {
+   "claim": "The host says that, since she does not accept the ER story, she has to logically consider that Brian Harpole removed the shirt somewhere else, with the car on the way to the hospital the only other option."
+  }
+ },
+ {
+  "claim": "C-13063",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13064",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13065",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13066",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13067",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13068",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13069",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13070",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13071",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13072",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13073",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13074",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": true,
+  "note": "Terryl Farnsworth (N-262) is not named in the claim, only in the transcript.",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-13075",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": true,
+  "note": "Frank Turek (N-7) is not named in the claim.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-13076",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13077",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13078",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13079",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13080",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13081",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13082",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13083",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13084",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13085",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13086",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13087",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13088",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13089",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13090",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13091",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13092",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": true,
+  "note": "Dave Rubin (N-32) is not named in the claim; Jubilee appearances are incidental.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-97"
+   ],
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13093",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Rubin's book claim has no bearing on the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13094",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Daily Wire financing has no bearing on the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13095",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

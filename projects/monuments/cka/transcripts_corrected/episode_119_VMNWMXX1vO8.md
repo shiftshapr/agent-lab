@@ -65,7 +65,7 @@ So, it'll be interesting to see if Shawn Ryan ends up in this lawsuit because th
 
 [04:45]
 
-But, they did tell me something that was frankly disturbing, okay? So, Shawn Ryan has this really amazing, like, his studio, you don't get the full effect of it on his show. It's basically like a museum. And so, people want to contribute to the museum. He's got all sorts of artifacts. Um I can't even begin to describe it because I feel like I wouldn't do it any justice of people who have you know, who have um lived through certain things or survived things, various missions, a lot of military stuff. And they get over to him and he puts it up in the museum. Well, someone on Bri- Someone on um the team on on Shawn Ryan's team told me that after seeing this museum, Bryan Harpole wanted to contribute to it.
+But, they did tell me something that was frankly disturbing, okay? So, Shawn Ryan has this really amazing, like, his studio, you don't get the full effect of it on his show. It's basically like a museum. And so, people want to contribute to the museum. He's got all sorts of artifacts. Um I can't even begin to describe it because I feel like I wouldn't do it any justice of people who have you know, who have um lived through certain things or survived things, various missions, a lot of military stuff. And they get over to him and he puts it up in the museum. Well, someone on Bri- Someone on um the team on on Shawn Ryan's team told me that after seeing this museum, Brian Harpole wanted to contribute to it.
 
 [05:24]
 

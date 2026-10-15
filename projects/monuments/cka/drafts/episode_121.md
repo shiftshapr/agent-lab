@@ -979,7 +979,7 @@ Investigative Direction: Cross-reference with dash-cam / traffic-cam / police bo
 
 Claim Timestamp: 00:11:31–00:12:26
 
-Claim: Brian Harpole states they were traveling "60, 80, 100" mph while weaving through traffic on the way to the hospital.
+Claim: Brian Harpole states they were traveling "60, 80, 100" mph while weaving through the streets on the way to the hospital.
 
 Anchored Artifacts: A-2094.2
 Mentions: N-267
@@ -1001,7 +1001,7 @@ Investigative Direction: Compare dressing count against visible dressing/pack de
 
 Claim Timestamp: 00:11:31–00:12:26
 
-Claim: Brian Harpole states that Frank Turek was praying out loud in the backseat during the hospital ride and did not assist with medical care.
+Claim: In a clip the host plays, Brian Harpole says Frank Turek was praying out loud during the ride; the host says Frank was in the backseat and not doing anything.
 
 Anchored Artifacts: A-2094.2
 Mentions: N-267, N-7
@@ -1023,10 +1023,10 @@ Investigative Direction: Cross-reference with Rick Cutler's own testimony if ava
 
 Claim Timestamp: 00:28:14–00:29:18
 
-Claim: Frank Turek states that he changed into scrubs at the hospital and that he did so because he did not want Erika to see any blood on his clothes.
+Claim: In a clip the host plays, Frank Turek says he was in scrubs at the hospital because 'I didn't want her to see any of that' about his clothes; the host adds that this means not wanting Erika to see the blood on them.
 
 Anchored Artifacts: A-2095.1
-Mentions: N-7
+Mentions: N-7, N-2
 Related Nodes: N-10688
 Investigative Direction: Identify how and where scrubs were obtained; determine whether scrubs were preserved as evidence or returned.
 
@@ -1056,9 +1056,10 @@ Investigative Direction: Obtain the original unedited Terryl Farnsworth video; p
 
 Claim Timestamp: 00:22:17–00:23:11
 
-Claim: Photographs of the SUV backseat show what appear to be blood wipe or smear marks on the leather seating surface, attributed by the host to the only backseat occupant.
+Claim: Photographs of the SUV backseat show what the host says looks like someone wiped their hands with blood on the leather seat; she attributes it to Frank Turek, the only backseat occupant.
 
 Anchored Artifacts: A-2096.2
+Mentions: N-7
 Related Nodes: N-10685
 Investigative Direction: Obtain original unaltered car interior photos with metadata for forensic chain-of-custody; conduct independent review of mark patterns.
 
@@ -1076,7 +1077,7 @@ Investigative Direction: Forensic testing of the bag (if available) for blood ty
 
 Claim Timestamp: 00:16:18–00:16:50
 
-Claim: The car floor photos show one opened 4x4 EMS quick clot dressing pack, consistent in size and shape with the product image displayed; no additional opened packs are visible despite Brian Harpole's claimed use of multiple packs.
+Claim: The host says the car floor photos show one opened 4x4 EMS quick clot dressing pack, which she compares with a product image, and that she would expect to see more opened packs given Brian Harpole's claimed use of multiple packs.
 
 Anchored Artifacts: A-2094.4, A-2096.1, A-2097.1
 Mentions: N-267
@@ -1087,7 +1088,7 @@ Investigative Direction: High-resolution review of car floor photos for addition
 
 Claim Timestamp: 00:41:49–00:42:51
 
-Claim: A Semafor article displayed and read on air states that the Daily Wire is in talks to take on at least $100 million in strategic investment with an eye on an IPO, and that the company is under financial pressure.
+Claim: The host reads a Semafor headline, 'Exclusive, Daily Wire under pressure, seeks strategic investors and targets an IPO', and says the Daily Wire is trying to raise $100 million.
 
 Anchored Artifacts: A-2100.1
 Related Nodes: N-10689
@@ -1143,6 +1144,7 @@ Claim Timestamp: 00:43:33
 Claim: The Semafor article acknowledges the Daily Wire spent approximately $50 million on the Pendragon Cycle (Jeremy Boreing's project), characterized as a significant contributor to the company's financial distress.
 
 Anchored Artifacts: A-2100.1
+Mentions: N-367
 Related Nodes: N-10689
 Investigative Direction: Obtain Daily Wire financial disclosures (if any) and verify per-episode cost comparison to HBO's first Game of Thrones season.
 
@@ -1150,7 +1152,7 @@ Investigative Direction: Obtain Daily Wire financial disclosures (if any) and ve
 
 Claim Timestamp: 00:51:15–00:51:45
 
-Claim: Judith Bronco (retired ER nurse, married to a retired ER doctor) submits a comment stating that Brian Harpole's story could not happen in a real ER and that interference from visitors in trauma rooms is strictly forbidden.
+Claim: A viewer comment the host reads, from Judith Bronco (a retired ER nurse married to a retired emergency room doctor), says Brian Harpole's story is 'so absurd', that only highly trained ER staff and surgeons enter trauma rooms with the patient, and that interference from visitors is strictly forbidden.
 
 Anchored Artifacts: A-2102.1
 Mentions: N-267
@@ -1159,7 +1161,7 @@ Investigative Direction: Independent verification of ER protocols from additiona
 
 **C-2965** 22-Year Nurse Comments Brian Harpole's ER Story Did Not Happen
 
-Claim Timestamp: 00:51:57
+Claim Timestamp: 00:53:05
 
 Claim: Gina Schubert (22-year hospital nurse) submits a comment stating that Brian Harpole did not wheel Charlie into a room, jump on him, and cut off his clothes, and that the described events do not occur in any ER.
 
@@ -1193,7 +1195,7 @@ Investigative Direction: Identify jurisdiction and DA office handling the case; 
 
 Claim Timestamp: 00:13:09–00:14:33
 
-Claim: Brian Harpole states he was unsure if Charlie had a pulse and that his primary focus was bleed control with dressing rather than CPR.
+Claim: In a clip the host plays, Brian Harpole says whether Charlie had a pulse is unknown and that his concern was bleed control; the host adds that this means they were not doing CPR.
 
 Anchored Artifacts: A-2094.3
 Mentions: N-267
@@ -1271,7 +1273,7 @@ Investigative Direction: Obtain the Rode Rode mic product teardown and compare s
 
 Claim Timestamp: 00:07:24
 
-Claim: The host says the only reason for Brian Harpole to insert himself into the shirt-cutting story is that he was the person responsible for removing Charlie Kirk's shirt.
+Claim: The host says she thinks Brian Harpole is, rather truthfully, admitting that he was the person responsible for removing Charlie Kirk's shirt, since there is no other reason to insert himself into that narrative unless that piece is true.
 
 Transcript Snippet: So, what Brian is, I think, rather truthfully admitting here, is that he was the person responsible for the removal of Charlie Kirk's shirt, right?
 
@@ -1303,7 +1305,7 @@ Investigative Direction: Establish the shirt's chain of custody and whether it w
 
 Claim Timestamp: 00:08:49
 
-Claim: The host says that, since she rejects the ER story, she concludes Brian Harpole removed the shirt in the car on the way to the hospital.
+Claim: The host says that, since she does not accept the ER story, she has to logically consider that Brian Harpole removed the shirt somewhere else, with the car on the way to the hospital the only other option.
 
 Transcript Snippet: I have to then logically consider that Brian removed Charlie's shirt somewhere else, right? And the only other option would be in the car on the way over to the hospital.
 
@@ -1505,7 +1507,7 @@ Claim: The host says Frank Turek did not help carry Charlie into the SUV, did no
 Transcript Snippet: Clean. Fresh, white polo shirt. So, Frank did not touch Charlie after Charlie got hit.
 
 Anchored Artifacts: A-2103.1
-Mentions: N-7, N-1, N-262
+Mentions: N-7, N-1
 Related Nodes: N-10685
 Revises: C-8026
 Tags: relevance:core
@@ -1522,7 +1524,7 @@ Claim: The host says there is no team element to chest compressions, as one pers
 Transcript Snippet: there's no such thing as we when it comes to the physical touch of CPR. One person conducts the CPR.
 
 Anchored Artifacts: 
-Mentions: N-7
+Mentions: 
 Related Nodes: N-10699
 Tags: relevance:context
 Investigative Direction: Cite AHA CPR guidance on rotating rescuers and compression delivery.
@@ -1797,7 +1799,7 @@ Claim: The host says she, Charlie Kirk and Ben Shapiro have each appeared on the
 Transcript Snippet: I've done it in the past, Charlie Kirk has done it in the past, Ben Shapiro was on it in the past.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-97, N-32
+Mentions: N-3, N-1, N-97
 Related Nodes: N-11357
 Tags: relevance:context
 Investigative Direction: Check Jubilee's channel for the listed episodes.
@@ -1815,7 +1817,7 @@ Transcript Snippet: there's a chapter where he actually published, I think this 
 Anchored Artifacts: 
 Mentions: N-32
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the passage in the book's text and the edition; Ukraine is not a NATO member.
 
 ---
@@ -1831,7 +1833,7 @@ Transcript Snippet: they are now turning to High Mount Capital to try to help th
 Anchored Artifacts: A-2100.1
 Mentions: 
 Related Nodes: N-10900, N-10689, N-11358
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Read the Semafor article for what it says about High Mount, the earlier firm and the valuation.
 
 ---
@@ -1863,7 +1865,7 @@ Transcript Snippet: they spent $50 million on on just seven episodes.
 Anchored Artifacts: A-2100.1
 Mentions: N-367
 Related Nodes: N-10900, N-10689
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the Semafor article for the cost and the episode count.
 
 ---
@@ -1879,7 +1881,7 @@ Transcript Snippet: more than $50 million, closer to 60, but at least they're fi
 Anchored Artifacts: A-2100.1
 Mentions: N-3, N-367
 Related Nodes: N-10900, N-10689
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the earlier reports with $10 million and $7 million and compare to the Semafor figure.
 
 ---
@@ -1896,7 +1898,7 @@ Anchored Artifacts: A-2100.1
 Mentions: N-367
 Related Nodes: N-10900, N-10689
 Supports: C-3923
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare $50M over seven episodes with published budget figures for Game of Thrones season one.
 
 ---
@@ -1912,7 +1914,7 @@ Transcript Snippet: They were under financial pressure. They needed to remove pe
 Anchored Artifacts: 
 Mentions: N-3, N-367, N-596
 Related Nodes: N-10900, N-10689
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review contracts, payroll and subscriber figures around the 2024 split.
 
 ---
@@ -1928,7 +1930,7 @@ Transcript Snippet: That was then followed by Brett Cooper's exit later that sam
 Anchored Artifacts: 
 Mentions: N-222, N-367
 Related Nodes: N-11244, N-10900
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare Cooper's own statements about her exit.
 
 ---
@@ -1937,14 +1939,14 @@ Investigative Direction: Compare Cooper's own statements about her exit.
 
 Claim Timestamp: 00:44:27
 
-Claim: The host alleges that at the end of 2024 the Daily Wire fake-pumped subscriber numbers by giving memberships away, including buy one get one free and lifetime plans with payment deferred to 2029.
+Claim: The host alleges that at the end of 2024 the Daily Wire fake-pumped subscriber numbers by giving memberships away basically for free, and gives examples such as buy one get one free and a lifetime subscription with no payment until 2029.
 
 Transcript Snippet: they were sort of like fake pumping their subscription numbers.
 
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-10900, N-10689
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Look for dated Daily Wire promotions and any subscriber numbers announced afterward.
 
 ---
@@ -1976,7 +1978,7 @@ Transcript Snippet: He spends his time just throwing insults on Twitter aimed at
 Anchored Artifacts: 
 Mentions: 
 Related Nodes: N-10900, N-10451
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the editor-in-chief and locate the posts she describes.
 
 ---
@@ -1992,7 +1994,7 @@ Transcript Snippet: We had 48 million in adjusted EBITDA.
 Anchored Artifacts: A-2100.1
 Mentions: 
 Related Nodes: N-10900, N-10689
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the Semafor article for the figure and the company's stated add-backs.
 
 ---
@@ -2014,11 +2016,11 @@ Investigative Direction: Compare Tool's three interviews.
 
 ---
 
-**C-13106** Host Says Sarah Tool Smiled Throughout Her Interviews
+**C-13106** Host Says Sarah Tool Smiled the Whole Time
 
 Claim Timestamp: 00:52:51
 
-Claim: The host says Sarah Tool was smiling the whole time while describing the shooting.
+Claim: The host says Sarah Tool was smiling the whole time.
 
 Transcript Snippet: You guys know that she was smiling, of course, the whole time
 
@@ -2058,7 +2060,7 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-11099
 Supports: C-9505
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the Australian visa decision and the lobbying letters.
 
 ---
@@ -2099,7 +2101,7 @@ Investigative Direction: Locate the Fox interview and the exact words.
 
 Claim Timestamp: 00:55:16
 
-Claim: A clip is played in which a speaker is asked what they would say to trans students who feel victimized and answers, Life's tough, get a helmet.
+Claim: In a clip of Charlie Kirk the host plays, he is asked what he would say to trans students who feel victimized and answers, Life's tough, get a helmet.
 
 Transcript Snippet: Life's tough, get a helmet, man. I'm too pregnant for this.
 
@@ -2115,7 +2117,7 @@ Investigative Direction: Identify the speaker and event of the clip.
 
 Claim Timestamp: 00:56:01
 
-Claim: The host reads and echoes a comment that Elizabeth Holmes was convicted of fraud and went to a fake prison that she probably is not in, and that her family is old money.
+Claim: The host reads a viewer comment comparing Erika to Elizabeth Holmes, and adds that Holmes was convicted of fraud and went to a fake prison she is probably not in, and that her family is old money.
 
 Transcript Snippet: She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.
 
@@ -2131,12 +2133,12 @@ Investigative Direction: Fringe; Holmes is held in a federal facility per the Bu
 
 Claim Timestamp: 00:57:02
 
-Claim: The host relays a commenter's claim that a police car following Charlie's SUV called in that it looked like someone was trying to jump out.
+Claim: The host relays a commenter's claim that a call from one of the police cars following Charlie's car said it looked like someone was trying to jump out of the car.
 
 Transcript Snippet: there is a call from one of the police cars following Charlie's car, and they said it looked like someone was trying to jump out of the car.
 
 Anchored Artifacts: A-2102.9
-Mentions: N-488
+Mentions: N-1
 Related Nodes: N-10686
 Tags: relevance:core
 Investigative Direction: Obtain police radio and CAD logs.

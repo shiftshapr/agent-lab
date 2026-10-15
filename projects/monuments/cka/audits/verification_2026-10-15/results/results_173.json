@@ -1,0 +1,798 @@
+[
+ {
+  "claim": "C-13096",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Daily Wire finances are not about the assassination or its investigation.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13097",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Daily Wire finances; not assassination-related.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13098",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Daily Wire finances; not assassination-related.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13099",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's departure from Daily Wire; not assassination-related.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13100",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Cooper's exit from Daily Wire; not assassination-related.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13101",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host: 'Buy one get one free... Sign up today. Don't pay anything until 2029. You get the idea' reads as illustrative examples, not specific offers. Also not assassination-related.",
+  "fix": {
+   "claim": "The host alleges that at the end of 2024 the Daily Wire fake-pumped subscriber numbers by giving memberships away basically for free, and gives examples such as buy one get one free and a lifetime subscription with no payment until 2029.",
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13102",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13103",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Daily Wire editor-in-chief's tweets; not assassination-related. Editor unnamed ('can't think of the guy's name').",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13104",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Daily Wire EBITDA; not assassination-related.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13105",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13106",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'she was smiling, of course, the whole time'; 'while describing the shooting' is not stated.",
+  "fix": {
+   "claim": "The host says Sarah Tool was smiling the whole time.",
+   "label": "Host Says Sarah Tool Smiled the Whole Time"
+  }
+ },
+ {
+  "claim": "C-13107",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13108",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's own Australia ban; not about the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13109",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13110",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13111",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'we have a clip of Charlie'; claim says only 'a speaker', leaving N-1 unexplained.",
+  "fix": {
+   "claim": "In a clip of Charlie Kirk the host plays, he is asked what he would say to trans students who feel victimized and answers, Life's tough, get a helmet."
+  }
+ },
+ {
+  "claim": "C-13112",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Fake prison and old-money remarks are the host's own after the comment ('She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in').",
+  "fix": {
+   "claim": "The host reads a viewer comment comparing Erika to Elizabeth Holmes, and adds that Holmes was convicted of fraud and went to a fake prison she is probably not in, and that her family is old money."
+  }
+ },
+ {
+  "claim": "C-13113",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host reads 'police cars following Charlie's car', not SUV. Rick Cutler is not named in the claim.",
+  "fix": {
+   "claim": "The host relays a commenter's claim that a call from one of the police cars following Charlie's car said it looked like someone was trying to jump out of the car.",
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-13114",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13115",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13116",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13117",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13118",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13119",
+  "episode": 121,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2969",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2970",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2971",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Sprag/Rawlinson (N-817) but Mentions omits N-817.",
+  "fix": {
+   "mentions": [
+    "N-817"
+   ]
+  }
+ },
+ {
+  "claim": "C-2972",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Sprag/Rawlinson (N-817) but Mentions omits N-817.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-817"
+   ]
+  }
+ },
+ {
+  "claim": "C-2973",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip says 'I have wings and wore a red beret'; the host calls it maroon. Mentions omits N-817 (Rawlinson).",
+  "fix": {
+   "claim": "An audio clip from James Rawlinson's X account, played during the episode, contains his claim that he served in the 19th Special Forces and wore a red beret.",
+   "label": "James Rawlinson Stated on X That He Served in the 19th Special Forces and Wore a Red Beret",
+   "mentions": [
+    "N-817"
+   ]
+  }
+ },
+ {
+  "claim": "C-2974",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Sprag/Rawlinson (N-817) but Mentions omits N-817.",
+  "fix": {
+   "mentions": [
+    "N-817"
+   ]
+  }
+ },
+ {
+  "claim": "C-2975",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Sprag/Rawlinson (N-817) but Mentions omits N-817.",
+  "fix": {
+   "mentions": [
+    "N-817"
+   ]
+  }
+ },
+ {
+  "claim": "C-2976",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2977",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'James would be on the right head side... wearing the maroon beret'; claim puts an unidentified individual on the right. Mentions omits N-817.",
+  "fix": {
+   "claim": "A photograph displayed during the episode allegedly shows James Rawlinson in Romania in 2023 wearing a maroon beret, on the right side of the photo.",
+   "mentions": [
+    "N-817"
+   ]
+  }
+ },
+ {
+  "claim": "C-2978",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2979",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2980",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2981",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'people with direct knowledge of Erika's involvement with Next Model Management claim that she was in charge of modeling apartments'. MC2 and 'during the period' are not tied to Erika; lawsuit is 'current'. Name spelled Erica.",
+  "fix": {
+   "claim": "During the episode, the host asserts that people with direct knowledge of Erika Kirk's involvement with Next Model Management claim she was in charge of modeling apartments for underaged models; she adds that a current class action names Next Model Management and MC2 as defendants over such apartments.",
+   "label": "Host Says People With Direct Knowledge Claim Erika Kirk Ran Modeling Apartments at Next Model Management"
+  }
+ },
+ {
+  "claim": "C-2982",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "NSA FOIA is said at ~42:15, about 50s before the 43:06 timestamp. Claim spells Erika as 'Erica' and omits N-2 from Mentions.",
+  "fix": {
+   "timestamp": "00:42:10",
+   "claim": "The host states the team has filed FOIA requests to the NSA (Erika emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erika), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.",
+   "mentions": [
+    "N-2",
+    "N-69",
+    "N-434"
+   ]
+  }
+ },
+ {
+  "claim": "C-2983",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'I believe it was Lance Twiggs that was walking in the video. I don't know when that video was taken... allegedly the same day'; claim drops the hedges.",
+  "fix": {
+   "claim": "During the episode, the host says she believes Lance Twiggs is the individual walking in a maroon shirt in a video that was allegedly taken the same day."
+  }
+ },
+ {
+  "claim": "C-2984",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim is hedged correctly; title states the allegation as fact.",
+  "fix": {
+   "label": "Host Believes Tyler Robinson Was Set Up by Lance Twiggs"
+  }
+ },
+ {
+  "claim": "C-2985",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim ok; title states the host's assertion as fact.",
+  "fix": {
+   "label": "Host Says Andrew Kolvet Appeared Live on the Charlie Kirk Show but Was in Washington D.C."
+  }
+ },
+ {
+  "claim": "C-8821",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8822",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8823",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8824",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8825",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8826",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8827",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8828",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8829",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8830",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8831",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8832",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8833",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8834",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8835",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8836",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8837",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8838",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host hedges: 'I think I understand that correctly. If I don't, you don't need to send me 3,000 emails'.",
+  "fix": {
+   "claim": "The host says she thinks one cannot become a Green Beret in the 19th Special Forces without first receiving the maroon beret (parachutist) certification."
+  }
+ },
+ {
+  "claim": "C-8839",
+  "episode": 122,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

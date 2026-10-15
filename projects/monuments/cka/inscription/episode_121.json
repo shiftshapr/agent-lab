@@ -1952,7 +1952,7 @@
       "@id": "C-2948",
       "ref": "C-2948",
       "label": "Brian Harpole States Speeds of 60–80–100 mph During Transport",
-      "claim": "Brian Harpole states they were traveling \"60, 80, 100\" mph while weaving through traffic on the way to the hospital.",
+      "claim": "Brian Harpole states they were traveling \"60, 80, 100\" mph while weaving through the streets on the way to the hospital.",
       "anchored_artifacts": [
         "A-2094.2"
       ],
@@ -1991,7 +1991,7 @@
       "@id": "C-2950",
       "ref": "C-2950",
       "label": "Brian Harpole States Frank Turek Was Praying in Backseat During Transport",
-      "claim": "Brian Harpole states that Frank Turek was praying out loud in the backseat during the hospital ride and did not assist with medical care.",
+      "claim": "In a clip the host plays, Brian Harpole says Frank Turek was praying out loud during the ride; the host says Frank was in the backseat and not doing anything.",
       "anchored_artifacts": [
         "A-2094.2"
       ],
@@ -2032,7 +2032,7 @@
       "@id": "C-2952",
       "ref": "C-2952",
       "label": "Frank Turek States He Changed into Hospital Scrubs",
-      "claim": "Frank Turek states that he changed into scrubs at the hospital and that he did so because he did not want Erika to see any blood on his clothes.",
+      "claim": "In a clip the host plays, Frank Turek says he was in scrubs at the hospital because 'I didn't want her to see any of that' about his clothes; the host adds that this means not wanting Erika to see the blood on them.",
       "anchored_artifacts": [
         "A-2095.1"
       ],
@@ -2043,7 +2043,8 @@
       "claim_timestamp": "00:28:14–00:29:18",
       "investigative_direction": "Identify how and where scrubs were obtained; determine whether scrubs were preserved as evidence or returned.",
       "mentions_person_refs": [
-        "N-7"
+        "N-7",
+        "N-2"
       ]
     },
     {
@@ -2090,7 +2091,7 @@
       "@id": "C-2955",
       "ref": "C-2955",
       "label": "Car Backseat Photos Show Blood Wipe Marks on Leather",
-      "claim": "Photographs of the SUV backseat show what appear to be blood wipe or smear marks on the leather seating surface, attributed by the host to the only backseat occupant.",
+      "claim": "Photographs of the SUV backseat show what the host says looks like someone wiped their hands with blood on the leather seat; she attributes it to Frank Turek, the only backseat occupant.",
       "anchored_artifacts": [
         "A-2096.2"
       ],
@@ -2100,7 +2101,9 @@
       "tags": [],
       "claim_timestamp": "00:22:17–00:23:11",
       "investigative_direction": "Obtain original unaltered car interior photos with metadata for forensic chain-of-custody; conduct independent review of mark patterns.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-7"
+      ]
     },
     {
       "@type": "Claim",
@@ -2124,7 +2127,7 @@
       "@id": "C-2957",
       "ref": "C-2957",
       "label": "Single 4x4 Dressing Pack Visible in Car Floor Photos",
-      "claim": "The car floor photos show one opened 4x4 EMS quick clot dressing pack, consistent in size and shape with the product image displayed; no additional opened packs are visible despite Brian Harpole's claimed use of multiple packs.",
+      "claim": "The host says the car floor photos show one opened 4x4 EMS quick clot dressing pack, which she compares with a product image, and that she would expect to see more opened packs given Brian Harpole's claimed use of multiple packs.",
       "anchored_artifacts": [
         "A-2094.4",
         "A-2096.1",
@@ -2146,7 +2149,7 @@
       "@id": "C-2958",
       "ref": "C-2958",
       "label": "Semafor Article Reports Daily Wire Pursuing $100M Strategic Investment and IPO",
-      "claim": "A Semafor article displayed and read on air states that the Daily Wire is in talks to take on at least $100 million in strategic investment with an eye on an IPO, and that the company is under financial pressure.",
+      "claim": "The host reads a Semafor headline, 'Exclusive, Daily Wire under pressure, seeks strategic investors and targets an IPO', and says the Daily Wire is trying to raise $100 million.",
       "anchored_artifacts": [
         "A-2100.1"
       ],
@@ -2243,14 +2246,16 @@
       "tags": [],
       "claim_timestamp": "00:43:33",
       "investigative_direction": "Obtain Daily Wire financial disclosures (if any) and verify per-episode cost comparison to HBO's first Game of Thrones season.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-367"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-2964",
       "ref": "C-2964",
       "label": "Retired ER Nurse Comments Brian Harpole's ER Story Is Implausible",
-      "claim": "Judith Bronco (retired ER nurse, married to a retired ER doctor) submits a comment stating that Brian Harpole's story could not happen in a real ER and that interference from visitors in trauma rooms is strictly forbidden.",
+      "claim": "A viewer comment the host reads, from Judith Bronco (a retired ER nurse married to a retired emergency room doctor), says Brian Harpole's story is 'so absurd', that only highly trained ER staff and surgeons enter trauma rooms with the patient, and that interference from visitors is strictly forbidden.",
       "anchored_artifacts": [
         "A-2102.1"
       ],
@@ -2277,7 +2282,7 @@
         "N-10683"
       ],
       "tags": [],
-      "claim_timestamp": "00:51:57",
+      "claim_timestamp": "00:53:05",
       "investigative_direction": "Same as C-2964.",
       "mentions_person_refs": [
         "N-267"
@@ -2324,7 +2329,7 @@
       "@id": "C-2968",
       "ref": "C-2968",
       "label": "Brian Harpole States He Focused on Bleed Control, Not CPR",
-      "claim": "Brian Harpole states he was unsure if Charlie had a pulse and that his primary focus was bleed control with dressing rather than CPR.",
+      "claim": "In a clip the host plays, Brian Harpole says whether Charlie had a pulse is unknown and that his concern was bleed control; the host adds that this means they were not doing CPR.",
       "anchored_artifacts": [
         "A-2094.3"
       ],
@@ -2432,7 +2437,7 @@
       "@id": "C-13060",
       "ref": "C-13060",
       "label": "Host Reads Harpole's ER Story as Admitting He Removed the Shirt",
-      "claim": "The host says the only reason for Brian Harpole to insert himself into the shirt-cutting story is that he was the person responsible for removing Charlie Kirk's shirt.",
+      "claim": "The host says she thinks Brian Harpole is, rather truthfully, admitting that he was the person responsible for removing Charlie Kirk's shirt, since there is no other reason to insert himself into that narrative unless that piece is true.",
       "anchored_artifacts": [
         "A-2094.1"
       ],
@@ -2479,7 +2484,7 @@
       "@id": "C-13062",
       "ref": "C-13062",
       "label": "Host Concludes the Shirt Came Off in the Car",
-      "claim": "The host says that, since she rejects the ER story, she concludes Brian Harpole removed the shirt in the car on the way to the hospital.",
+      "claim": "The host says that, since she does not accept the ER story, she has to logically consider that Brian Harpole removed the shirt somewhere else, with the car on the way to the hospital the only other option.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10684"
@@ -2782,8 +2787,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-1",
-        "N-262"
+        "N-1"
       ]
     },
     {
@@ -2801,10 +2805,7 @@
       ],
       "claim_timestamp": "00:20:25",
       "investigative_direction": "Cite AHA CPR guidance on rotating rescuers and compression delivery.",
-      "transcript_snippet": "there's no such thing as we when it comes to the physical touch of CPR. One person conducts the CPR.",
-      "mentions_person_refs": [
-        "N-7"
-      ]
+      "transcript_snippet": "there's no such thing as we when it comes to the physical touch of CPR. One person conducts the CPR."
     },
     {
       "@type": "Claim",
@@ -3177,8 +3178,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-97",
-        "N-32"
+        "N-97"
       ]
     },
     {
@@ -3190,7 +3190,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:40:17",
       "investigative_direction": "Locate the passage in the book's text and the edition; Ukraine is not a NATO member.",
@@ -3214,7 +3214,7 @@
         "N-11358"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:41:49",
       "investigative_direction": "Read the Semafor article for what it says about High Mount, the earlier firm and the valuation.",
@@ -3258,7 +3258,7 @@
         "N-10689"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:42:51",
       "investigative_direction": "Check the Semafor article for the cost and the episode count.",
@@ -3281,7 +3281,7 @@
         "N-10689"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:42:51",
       "investigative_direction": "Locate the earlier reports with $10 million and $7 million and compare to the Semafor figure.",
@@ -3305,7 +3305,7 @@
         "N-10689"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:43:33",
       "investigative_direction": "Compare $50M over seven episodes with published budget figures for Game of Thrones season one.",
@@ -3329,7 +3329,7 @@
         "N-10689"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:43:33",
       "investigative_direction": "Review contracts, payroll and subscriber figures around the 2024 split.",
@@ -3352,7 +3352,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:43:33",
       "investigative_direction": "Compare Cooper's own statements about her exit.",
@@ -3367,14 +3367,14 @@
       "@id": "C-13101",
       "ref": "C-13101",
       "label": "Host Alleges Daily Wire Inflated Subscriber Numbers With Giveaways",
-      "claim": "The host alleges that at the end of 2024 the Daily Wire fake-pumped subscriber numbers by giving memberships away, including buy one get one free and lifetime plans with payment deferred to 2029.",
+      "claim": "The host alleges that at the end of 2024 the Daily Wire fake-pumped subscriber numbers by giving memberships away basically for free, and gives examples such as buy one get one free and a lifetime subscription with no payment until 2029.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10900",
         "N-10689"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:44:27",
       "investigative_direction": "Look for dated Daily Wire promotions and any subscriber numbers announced afterward.",
@@ -3413,7 +3413,7 @@
         "N-10451"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:46:09",
       "investigative_direction": "Identify the editor-in-chief and locate the posts she describes.",
@@ -3436,7 +3436,7 @@
         "N-10689"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:46:51",
       "investigative_direction": "Check the Semafor article for the figure and the company's stated add-backs.",
@@ -3474,8 +3474,8 @@
       "@type": "Claim",
       "@id": "C-13106",
       "ref": "C-13106",
-      "label": "Host Says Sarah Tool Smiled Throughout Her Interviews",
-      "claim": "The host says Sarah Tool was smiling the whole time while describing the shooting.",
+      "label": "Host Says Sarah Tool Smiled the Whole Time",
+      "claim": "The host says Sarah Tool was smiling the whole time.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10677"
@@ -3522,7 +3522,7 @@
         "N-11099"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:53:40",
       "investigative_direction": "Review the Australian visa decision and the lobbying letters.",
@@ -3578,7 +3578,7 @@
       "@id": "C-13111",
       "ref": "C-13111",
       "label": "Clip Played of a Reply About Trans Students",
-      "claim": "A clip is played in which a speaker is asked what they would say to trans students who feel victimized and answers, Life's tough, get a helmet.",
+      "claim": "In a clip of Charlie Kirk the host plays, he is asked what he would say to trans students who feel victimized and answers, Life's tough, get a helmet.",
       "anchored_artifacts": [
         "A-3244.1"
       ],
@@ -3598,7 +3598,7 @@
       "@id": "C-13112",
       "ref": "C-13112",
       "label": "Host Relays Comment That Elizabeth Holmes Is in a Fake Prison",
-      "claim": "The host reads and echoes a comment that Elizabeth Holmes was convicted of fraud and went to a fake prison that she probably is not in, and that her family is old money.",
+      "claim": "The host reads a viewer comment comparing Erika to Elizabeth Holmes, and adds that Holmes was convicted of fraud and went to a fake prison she is probably not in, and that her family is old money.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3616,7 +3616,7 @@
       "@id": "C-13113",
       "ref": "C-13113",
       "label": "Host Relays a Report of a Police Caller Seeing Someone Try to Jump Out",
-      "claim": "The host relays a commenter's claim that a police car following Charlie's SUV called in that it looked like someone was trying to jump out.",
+      "claim": "The host relays a commenter's claim that a call from one of the police cars following Charlie's car said it looked like someone was trying to jump out of the car.",
       "anchored_artifacts": [
         "A-2102.9"
       ],
@@ -3630,7 +3630,7 @@
       "investigative_direction": "Obtain police radio and CAD logs.",
       "transcript_snippet": "there is a call from one of the police cars following Charlie's car, and they said it looked like someone was trying to jump out of the car.",
       "mentions_person_refs": [
-        "N-488"
+        "N-1"
       ]
     },
     {

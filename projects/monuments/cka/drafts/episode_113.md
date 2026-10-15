@@ -1042,7 +1042,7 @@ Claim: In the clip, a TPUSA speaker (Kolvet or Neff) says Charlie Kirk told "all
 Transcript Snippet: He said it one time in front of a camera at a private event with donors in Aspen.
 
 Anchored Artifacts: A-2642.1
-Mentions: N-14, N-160, N-1
+Mentions: N-14, N-160, N-1, N-2
 Related Nodes: N-10664
 Supports: C-2660
 Investigative Direction: Obtain TPUSA board minutes on succession and the full unedited Aspen donor event recording.
@@ -1074,7 +1074,7 @@ Claim: The TPUSA speaker says critics "claimed without any basis" that the clip 
 Transcript Snippet: claimed without any basis whatsoever, "Ooh, that's actually that that's actually Charlie at Act Con in 2023."
 
 Anchored Artifacts: A-2642.1
-Mentions: N-14, N-160
+Mentions: N-14, N-160, N-1
 Related Nodes: N-10664
 Investigative Direction: Compare the clip's setting and audio with ActCon 2023 footage and the Aspen event.
 
@@ -1280,7 +1280,7 @@ Investigative Direction: Obtain Candlewood Suites Fort Huachuca guest records an
 
 Claim Timestamp: 00:46:42
 
-Claim: The host says Erika Kirk has not provided an alibi, and that the alibi Kolvet offered through Paramount Tactical was undercut when Paramount Tactical said the children in the photo were not hers.
+Claim: The host says Erika Kirk has not provided an alibi, and that Kolvet tried to offer one through what she calls "Paramount Not So Tactical," which she says then debunked that alibi and said it does not matter whether or not the children are hers.
 
 Transcript Snippet: Erika Kirk has not provided an alibi. I guess Andrew tried to through Paramount Not So Tactical, but then Paramount Not So Tactical debunked that alibi
 

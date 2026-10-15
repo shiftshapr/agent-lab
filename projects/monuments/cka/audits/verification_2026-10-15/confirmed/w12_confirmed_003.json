@@ -1,0 +1,491 @@
+[
+ {
+  "claim": "C-13113",
+  "episode": 121,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host relays a commenter's claim that a call from one of the police cars following Charlie's car said it looked like someone was trying to jump out of the car.",
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Wording fix right; Rick Cutler not in claim, but claim names Charlie's car so N-1 stays."
+ },
+ {
+  "claim": "C-2971",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-817"
+   ]
+  },
+  "note": "Claim names Sprag/Rawlinson."
+ },
+ {
+  "claim": "C-2972",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-817"
+   ]
+  },
+  "note": "Claim names Sprag."
+ },
+ {
+  "claim": "C-2973",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "claim": "An audio clip from James Rawlinson's X account, played during the episode, contains his claim that he served in the 19th Special Forces and wore a red beret.",
+   "label": "James Rawlinson Stated on X That He Served in the 19th Special Forces and Wore a Red Beret",
+   "mentions": [
+    "N-817"
+   ]
+  },
+  "note": "Clip says 'red beret'; maroon is the host's gloss."
+ },
+ {
+  "claim": "C-2974",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-817"
+   ]
+  },
+  "note": "Claim names Rawlinson."
+ },
+ {
+  "claim": "C-2975",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-817"
+   ]
+  },
+  "note": "Claim names Rawlinson."
+ },
+ {
+  "claim": "C-2977",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "claim": "A photograph displayed during the episode allegedly shows James Rawlinson in Romania in 2023 wearing a maroon beret, on the right side of the photo.",
+   "mentions": [
+    "N-817"
+   ]
+  },
+  "note": "Host: 'James would be on the right head side'."
+ },
+ {
+  "claim": "C-2981",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "claim": "During the episode, the host asserts that people with direct knowledge of Erika Kirk's involvement with Next Model Management claim she was in charge of modeling apartments for underaged models; she adds that a current class action names Next Model Management and MC2 as defendants over such apartments.",
+   "label": "Host Says People With Direct Knowledge Claim Erika Kirk Ran Modeling Apartments at Next Model Management"
+  },
+  "note": "Matches 20:08-21:31."
+ },
+ {
+  "claim": "C-2982",
+  "episode": 122,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:42:06–00:45:23",
+   "claim": "The host states the team has filed FOIA requests to the NSA (Erika emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erika), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.",
+   "mentions": [
+    "N-2",
+    "N-69",
+    "N-434"
+   ]
+  },
+  "note": "NSA FOIA starts ~42:11; keep a range since the list runs to the flight logs past 44:23."
+ },
+ {
+  "claim": "C-8840",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that at the same time Rawlinson was reportedly in Romania (late 2023 into 2024), Curtis Kolvet, Andrew Kolvet's brother and, she believes, a Nevada National Guard lieutenant colonel running the military police, was also in Romania that year.",
+   "names": [
+    {
+     "wrong": "Colvett",
+     "right": "Kolvet",
+     "source": "https://www.recordcourier.com/news/2012/dec/23/mission-to-afghanistan-brothers-in-arms/"
+    }
+   ]
+  },
+  "note": "Kolvet confirmed: Elko Daily names Nevada Guard Lt. Col. Curtis Kolvet; Record-Courier too."
+ },
+ {
+  "claim": "C-8850",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-530",
+    "N-3"
+   ]
+  },
+  "note": "Epstein not named in claim."
+ },
+ {
+  "claim": "C-8854",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-530",
+    "N-818",
+    "N-9",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Epstein, not Faith Kates."
+ },
+ {
+  "claim": "C-8876",
+  "episode": 122,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-3"
+   ]
+  },
+  "note": "Turek not named in claim."
+ },
+ {
+  "claim": "C-2990",
+  "episode": 123,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:08:05"
+  },
+  "note": "Cardboard piece first raised ~08:10; described further 11:09-12:02."
+ },
+ {
+  "claim": "C-2991",
+  "episode": 123,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:16:00"
+  },
+  "note": "'Foil piece... under the mat' is said ~16:05 in the 15:10 block and coppery ~16:30; 15:45 is too early."
+ },
+ {
+  "claim": "C-2997",
+  "episode": 123,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Brian Harpole said police behind them reported on the scanner what looked like a struggle in the car, which she suggests could have been Rick Cutler holding Harpole, and that they said the car door was open.",
+   "mentions": [
+    "N-267",
+    "N-488"
+   ]
+  },
+  "note": "Matches 50:36 passage; Baron not in fixed claim."
+ },
+ {
+  "claim": "C-2999",
+  "episode": 123,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:28:40",
+   "label": "Host Says She Is Securing More Photos",
+   "claim": "The host states she is \"in the process of securing more photos\"."
+  },
+  "note": "Said early in 28:29 block."
+ },
+ {
+  "claim": "C-7169",
+  "episode": 123,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says some glass actually fell in front of Charlie at the immediate impact, and that Jon Bray is getting her those photos.",
+   "names": [
+    {
+     "wrong": "John Bray",
+     "right": "Jon Bray",
+     "source": "https://thephaser.com/2026/08/jon-bray-on-charlie-kirks-murder-exploding-mic-theory-data-and-the-1-suspect/"
+    }
+   ]
+  },
+  "note": "Jon Bray confirmed by web search (YouTube 'Jon Bray and Candace Owens', mic-theory coverage)."
+ },
+ {
+  "claim": "C-7191",
+  "episode": 123,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she thinks Jon Bray's theory has infinitely more evidence than the story told by the prosecution, the FBI and TPUSA representatives.",
+   "names": [
+    {
+     "wrong": "John Bray",
+     "right": "Jon Bray",
+     "source": "https://thephaser.com/2026/08/jon-bray-on-charlie-kirks-murder-exploding-mic-theory-data-and-the-1-suspect/"
+    }
+   ]
+  },
+  "note": "Jon Bray confirmed by web search."
+ },
+ {
+  "claim": "C-3000",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "note": "Erika not named."
+ },
+ {
+  "claim": "C-3004",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Lance Twiggs confirmed her report that Tyler Robinson was not political; in the hearing clip she plays, Twiggs testifies that Robinson talked about politics more than he did, usually things he heard on the radio on the drive to work, and that he had never heard Robinson talk about Charlie Kirk specifically.",
+   "label": "Host Says Lance Twiggs Confirmed Tyler Robinson Was Not Political"
+  },
+  "note": "'Not political' is the host's framing; clip content matches."
+ },
+ {
+  "claim": "C-3010",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-776"
+   ]
+  },
+  "note": "Claim names Oliver."
+ },
+ {
+  "claim": "C-3011",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-776"
+   ]
+  },
+  "note": "Claim names Oliver."
+ },
+ {
+  "claim": "C-3012",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-776"
+   ]
+  },
+  "note": "Claim names Oliver."
+ },
+ {
+  "claim": "C-3013",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-777"
+   ]
+  },
+  "note": "Claim names Carner."
+ },
+ {
+  "claim": "C-3015",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Ben Shapiro says his security was on the phone with Charlie's security while Charlie was still in the back of the car, and they were getting updates along the way; the host describes the ride to the hospital as approximately 7 minutes.",
+   "mentions": [
+    "N-1",
+    "N-97"
+   ]
+  },
+  "note": "It is a played clip; Cutler/Davis not in claim."
+ },
+ {
+  "claim": "C-3761",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Tim Pool is lying through his teeth, that he did not receive updates from somebody in that car about Charlie Kirk's status, and that Jeremy Boreing lied when he tried to pretend that her own security was getting those updates; she says she confirmed her security was not on the phone with anybody in that car.",
+   "mentions": [
+    "N-3",
+    "N-268",
+    "N-367",
+    "N-1"
+   ]
+  },
+  "note": "Original inverted the host's statement; Shapiro not in claim."
+ },
+ {
+  "claim": "C-3770",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-37",
+    "N-40",
+    "N-778"
+   ]
+  },
+  "note": "Matt Robinson named; node N-778 exists."
+ },
+ {
+  "claim": "C-7230",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-40"
+   ]
+  },
+  "note": "Ackman not in claim."
+ },
+ {
+  "claim": "C-7260",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-493",
+    "N-97"
+   ]
+  },
+  "note": "Claim refers to Shapiro's security."
+ },
+ {
+  "claim": "C-7261",
+  "episode": 124,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-7",
+    "N-97"
+   ]
+  },
+  "note": "Claim refers to Shapiro's security."
+ },
+ {
+  "claim": "C-7272",
+  "episode": 124,
+  "decision": "reject",
+  "fix": {},
+  "note": "Transcript says 'he'; ep 150 host says 'I think I know how you felt back in 2018' to Charlie, so the 2018 dreams are Charlie's."
+ },
+ {
+  "claim": "C-3018",
+  "episode": 125,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:11:50"
+  },
+  "note": "Neff on jet said ~11:55."
+ },
+ {
+  "claim": "C-3021",
+  "episode": 125,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:20:15",
+   "claim": "The host says Danny Phillip is the grandson of Thomas Patrick, a major Turning Point donor and former executive vice chairman and CEO of Merrill Lynch (25 years in Chicago), who in 2003 was escorted out of his office over a scandal in which he was accused of orchestrating a political smear campaign against Eliot Spitzer.",
+   "mentions": [
+    "N-368",
+    "N-503",
+    "N-504"
+   ]
+  },
+  "note": "Matches 20:25-21:23."
+ },
+ {
+  "claim": "C-3022",
+  "episode": 125,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:22:15",
+   "mentions": [
+    "N-368",
+    "N-737"
+   ],
+   "claim": "The host says Danny Phillip's father Stephen Phillip worked for Bank of America Merrill Lynch in Chicago and, like Tyler Bowyer, majored in Russian studies."
+  },
+  "note": "Said in 22:09 block; 2008-2022 was about Dennis."
+ },
+ {
+  "claim": "C-3024",
+  "episode": 125,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-738"
+   ],
+   "claim": "The host says Erika Kirk's cousin Dennis (\"Dennis Franks Bay\" in the captions) worked at Bank of America Merrill Lynch in Chicago during 2008-2022, after his military service."
+  },
+  "note": "Add N-738 and Erika spelling; surname 'Frantzve' for Dennis unresolved (no web hit)."
+ },
+ {
+  "claim": "C-3025",
+  "episode": 125,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-14",
+    "N-3",
+    "N-36"
+   ],
+   "claim": "Per the Andrew Kolvet tweet thread the host reads, Kolvet says they politely declined having Netanyahu on the show and that Charlie Kirk took a call from him months later, while disputing the claim that Netanyahu offered to take Turning Point to the next level."
+  },
+  "note": "Matches 41:46 reading."
+ },
+ {
+  "claim": "C-3026",
+  "episode": 125,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Network Contagion Research Institute (NCRI) published a report titled \"Permission to Kill: How Candace Owens built a digital assassination culture targeting Erika Kirk?\", which she criticizes as a focused report on her."
+  },
+  "note": "Report confirmed at networkcontagion.us."
+ },
+ {
+  "claim": "C-5870",
+  "episode": 125,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-368",
+    "N-1"
+   ]
+  },
+  "note": "Bowyer not in claim."
+ },
+ {
+  "claim": "C-5879",
+  "episode": 125,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-11",
+    "N-368",
+    "N-737"
+   ]
+  },
+  "note": "Claim refers to Philip's father."
+ }
+]

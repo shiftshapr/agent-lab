@@ -1363,7 +1363,7 @@ Named by the host in connection with the modeling group tied to Brunel.
 
 **N-668** James Kaddis
 
-Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Catis).
+Pastor whose Calvary Chapel hosted Erika's July 14 speech (transcribed James Kaddis).
 
 *Related: C-6403*
 
@@ -2553,7 +2553,7 @@ Claim Timestamp: 00:28:21
 
 Claim: The host says that on July 14 Erika Kirk traveled aboard a private flight to Long Beach, California and spoke at James Kaddis's Calvary Chapel church for the Women's Summer of Psalms retreat.
 
-Transcript Snippet: Erika Kirk travels aboard a private flight to Long Beach, California, and she speaks at James Catis' Calvary Chapel Church for the Women's Summer of Psalms retreat.
+Transcript Snippet: Erika Kirk travels aboard a private flight to Long Beach, California, and she speaks at James Kaddis' Calvary Chapel Church for the Women's Summer of Psalms retreat.
 
 Anchored Artifacts: A-2469.1
 Mentions: N-2, N-668

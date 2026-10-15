@@ -605,7 +605,7 @@ Claim: The host says that after she brought up Butler she was immediately contac
 Transcript Snippet: I mean, I was contacted immediately by people who knew the real victim of that evening, and it wasn't Donald J. Trump. It was actually a firefighter named Corey Comparator.
 
 Anchored Artifacts:
-Mentions: N-105, N-5, N-3
+Mentions: N-105, N-3
 Related Nodes: N-10588
 Investigative Direction: Identify the sources who contacted the host and confirm their relationship to Corey Comperatore.
 
@@ -741,7 +741,7 @@ Claim: The host says the perforating technique used by Surefire Wireline require
 Transcript Snippet: Because that technique requires the use of a very specific explosive. known as PE TN.
 
 Anchored Artifacts:
-Mentions: N-678
+Mentions: 
 Related Nodes: N-10973, N-10974
 Investigative Direction: Check industry and ATF documentation on the explosives used in wireline perforating guns and Surefire's explosives licenses.
 
@@ -756,7 +756,7 @@ Claim: The host alleges that a week before he died, Mark Liti confessed to his l
 Transcript Snippet: Allegedly, Mark A. Ley had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.
 
 Anchored Artifacts:
-Mentions: N-678, N-105, N-680
+Mentions: N-678
 Related Nodes: N-10972, N-10974
 Investigative Direction: Identify the source of the confession account and any ATF or employer record of missing explosives in 2022.
 
@@ -816,7 +816,7 @@ Claim: The host says Corey Comperatore had regular tickets, and that while the f
 Transcript Snippet: So, they were quite surprised when while waiting in a large crowd, an unknown woman asked them if they'd like to be escorted to the very front.
 
 Anchored Artifacts:
-Mentions: N-105, N-5
+Mentions: N-105
 Related Nodes: N-10976, N-10724
 Investigative Direction: Review rally footage, campaign staff lists and the Comperatore family's statements to identify the woman.
 
@@ -847,7 +847,7 @@ Claim: The host says Mark Liti was Facebook friends with various members of the 
 Transcript Snippet: It's worth noting that Mark a lady is also friends with various members of the Crooks family on Facebook.
 
 Anchored Artifacts:
-Mentions: N-678, N-104
+Mentions: N-678
 Related Nodes: N-10972
 Investigative Direction: Archive Liti's Facebook friend list and check which Crooks family members appear.
 
@@ -1189,7 +1189,7 @@ Claim Timestamp: 00:35:47
 
 Claim: The host says Erika Kirk broke down on her show with Pastor James Kaddis over the weekend after a viewer question was read, and that she, the host, was then blamed for it.
 
-Transcript Snippet: This time it was on her show with James, Pastor James Catis, uh when somebody wrote in a question.
+Transcript Snippet: This time it was on her show with James, Pastor James Kaddis, uh when somebody wrote in a question.
 
 Anchored Artifacts: A-2665.1
 Mentions: N-2, N-668, N-3

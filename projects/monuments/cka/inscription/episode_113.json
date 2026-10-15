@@ -2054,7 +2054,8 @@
       "mentions_person_refs": [
         "N-14",
         "N-160",
-        "N-1"
+        "N-1",
+        "N-2"
       ]
     },
     {
@@ -2099,7 +2100,8 @@
       "transcript_snippet": "claimed without any basis whatsoever, \"Ooh, that's actually that that's actually Charlie at Act Con in 2023.\"",
       "mentions_person_refs": [
         "N-14",
-        "N-160"
+        "N-160",
+        "N-1"
       ]
     },
     {
@@ -2361,7 +2363,7 @@
       "@id": "C-4482",
       "ref": "C-4482",
       "label": "Erika Kirk has not provided an alibi; Paramount Tactical debunked the one offered",
-      "claim": "The host says Erika Kirk has not provided an alibi, and that the alibi Kolvet offered through Paramount Tactical was undercut when Paramount Tactical said the children in the photo were not hers.",
+      "claim": "The host says Erika Kirk has not provided an alibi, and that Kolvet tried to offer one through what she calls \"Paramount Not So Tactical,\" which she says then debunked that alibi and said it does not matter whether or not the children are hers.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10899",

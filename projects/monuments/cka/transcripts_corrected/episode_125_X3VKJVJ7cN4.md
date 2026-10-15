@@ -226,7 +226,7 @@ I really I did actually in third grade. I I did erase someone's name on homework
 
 [37:48]
 
-Tens of millions of dollars is being spent. I am listed, me and Tucker Carlson, in the Faradox. They're admitting it. They're not hiding it. We have to take down Tucker and Candace Owens and we're willing to spend the money to do it. And yet, nobody makes a report and says if Candace anything happens, if anyone says anything about Candace, they're digital assassins. They don't put somebody else in a scope. What gives? It feels to me like it could be the beginning of a plot. A government plot. We can't win this thing. We need to get influencers, independent journalists off of this entirely. We need a big event that allows us to crawl back speech. Think of it like 9/11. 9/11 happens and then it's like, well, we got to take away your freedom.
+Tens of millions of dollars is being spent. I am listed, me and Tucker Carlson, in the FARA docs. They're admitting it. They're not hiding it. We have to take down Tucker and Candace Owens and we're willing to spend the money to do it. And yet, nobody makes a report and says if Candace anything happens, if anyone says anything about Candace, they're digital assassins. They don't put somebody else in a scope. What gives? It feels to me like it could be the beginning of a plot. A government plot. We can't win this thing. We need to get influencers, independent journalists off of this entirely. We need a big event that allows us to crawl back speech. Think of it like 9/11. 9/11 happens and then it's like, well, we got to take away your freedom.
 
 [38:34]
 

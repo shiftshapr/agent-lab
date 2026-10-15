@@ -755,7 +755,7 @@ Claim Timestamp: 00:13:11
 Claim: Per a Kash Patel public statement played in the episode, the first FBI agents arrived at UVU with chiefs of police at 12:39 PM, 16 minutes after the 12:23 PM shooting, and secured the scene.
 
 Anchored Artifacts: A-2226.1
-Mentions: N-69, N-379
+Mentions: N-69
 Related Nodes:
 
 Investigative Direction: Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bonino interview transcripts.
@@ -766,7 +766,7 @@ Investigative Direction: Verify the 12:39 PM arrival timestamp against UVU campu
 
 Claim Timestamp: 00:12:18
 
-Claim: Officer Bagley testified that his body cam footage began at the Hall of Flags and ran 27 minutes 35 seconds, ending while he was still on the rooftop and before crime tape was placed.
+Claim: In a preliminary-hearing clip the host plays, a questioner describes Officer Bagley's body cam as 27 minutes 35 seconds, starting at the Hall of Flags and ending while he was still on the roof before crime tape was up, and Bagley agrees it is his only body cam footage that day.
 
 Anchored Artifacts: A-2224.2, A-2233.1
 Mentions: N-507
@@ -808,10 +808,10 @@ Investigative Direction: Compare Bagley's badge-and-handgun description with the
 
 Claim Timestamp: 00:15:40
 
-Claim: The host says bystander footage timestamped 12:47 PM captured Officer Bagley and a second plainclothes man (red hat, bag with badge, backpack) on the Losi Center rooftop.
+Claim: The host says bystander footage timestamped 12:47 PM shows a plainclothes man in a red hat with a bag and a backpack on the Losi Center rooftop, and a man lower down who she thinks could be Officer Bagley.
 
 Anchored Artifacts: A-2227.1
-Mentions: N-557, N-507
+Mentions: N-507, N-751
 Related Nodes: N-10772
 
 Investigative Direction: Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.
@@ -820,12 +820,12 @@ Investigative Direction: Authenticate the bystander clip's timestamp and origina
 
 **C-3199** Red-hat man on Losi rooftop identified as Allan Robertson of USU PD
 
-Claim Timestamp: 00:16:47
+Claim Timestamp: 00:16:28
 
 Claim: Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM bystander footage was identified as Allan Robertson of the Utah State University Department of Public Safety.
 
 Anchored Artifacts: A-2234.1, A-2227.1
-Mentions: N-557, N-751
+Mentions: N-751
 Related Nodes: N-10772
 
 Investigative Direction: Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.
@@ -850,9 +850,10 @@ Investigative Direction: Verify Hawk's presence and role through credential reco
 
 Claim Timestamp: 00:16:47
 
-Claim: A USU Department of Public Safety Facebook announcement, displayed in the episode, states that Allan Robertson had joined the USU police force the summer prior to the September 2025 shooting.
+Claim: The host says Allan Robertson had just joined the USU police force the summer before the September 2025 shooting, and shows a Facebook announcement that he had joined.
 
 Anchored Artifacts: A-2228.1
+Mentions: N-751
 Related Nodes:
 
 Investigative Direction: Obtain the original Facebook post metadata (date, author) and corroborate with USU PD hiring records.
@@ -866,6 +867,7 @@ Claim Timestamp: 00:19:23
 Claim: The host says that, per Robertson's LinkedIn profile, he served as a marksmanship instructor for the Marines at Camp Pendleton from 2009 to 2014 and was deployed in Afghanistan and humanitarian work in Japan.
 
 Anchored Artifacts: A-2235.1
+Mentions: N-751
 Related Nodes:
 
 Investigative Direction: Pull archived versions of the LinkedIn profile and cross-check against Marine Corps service records.
@@ -879,6 +881,7 @@ Claim Timestamp: 00:22:55
 Claim: The host says the Brady List website contains an entry for Allan E. Robertson associated with San Bernardino Police Department.
 
 Anchored Artifacts: A-2229.1
+Mentions: N-751
 Related Nodes: N-10774
 
 Investigative Direction: Obtain the underlying Brady disclosure record via CPRA / public records request to San Bernardino PD, or via prosecutorial discovery channels.
@@ -887,11 +890,12 @@ Investigative Direction: Obtain the underlying Brady disclosure record via CPRA 
 
 **C-3204** Host Says Brady List Website Lists San Bernardino PD as Not in Compliance with Brady Disclosure Obligations
 
-Claim Timestamp: 00:22:55
+Claim Timestamp: 00:22:10
 
 Claim: The host says the Brady List website notes that San Bernardino PD is not in compliance with its Brady disclosure obligations, leaving offense details for officers (including Robertson) undisclosed.
 
 Anchored Artifacts: A-2229.1
+Mentions: N-751
 Related Nodes: N-10774
 
 Investigative Direction: Verify the non-compliance notation through Brady List's own documentation and California's Commission on Peace Officer Standards and Training (POST) records.
@@ -915,7 +919,7 @@ Investigative Direction: Obtain the original CNN article and any underlying Pent
 
 Claim Timestamp: 00:37:43
 
-Claim: In a media clip played during the episode, Erica Kirk stated that her husband is not here to say whether or not the US should be at war with Iran, and that she personally does not want US boots on the ground or American kinetic involvement.
+Claim: In a media clip played during the episode, Erika Kirk stated that her husband is not here to say whether or not the US should be at war with Iran, and that "we" do not want US boots on the ground or American kinetic involvement.
 
 Anchored Artifacts: A-2231.1
 Mentions: N-1, N-2
