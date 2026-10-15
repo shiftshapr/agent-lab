@@ -1,0 +1,524 @@
+[
+ {
+  "claim": "C-1325",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Omer, because a face in the photo matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "note": "Shaner confirmed in Hild v. Owens lawsuit coverage. Gernot Omer left as transcribed."
+ },
+ {
+  "claim": "C-1328",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Shaner Broderick posted on his Instagram 'My uncle Phil Lyman' and that his LinkedIn listed Phil Lyman as an uncle connection, before Lyman said they are only cousins.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "note": "Host's statement at 06:43; Shaner confirmed."
+ },
+ {
+  "claim": "C-1331",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the New York Post and Israeli Post shared a May letter to Netanyahu in which Charlie Kirk reportedly 'wrote of his deep love for Israel'; she questions whether it is authentic and asks for the email to be authenticated."
+  },
+  "note": "Host doubts letter; PM-office release not in this passage."
+ },
+ {
+  "claim": "C-1334",
+  "episode": 12,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says she thinks Robert Bohls was in his first week at the Utah FBI office when Charlie Kirk was shot.",
+   "label": "Host Thinks Robert Bohls Was in First Week at Utah FBI Office When Kirk Was Shot",
+   "timestamp": "00:32:15",
+   "names": [
+    {
+     "wrong": "Robert Bowles",
+     "right": "Robert Bohls",
+     "source": "https://x.com/FBISaltLakeCity/status/1966161980684906919"
+    }
+   ]
+  },
+  "note": "Attribution/timestamp fix right; SAC is Robert Bohls per FBI Salt Lake City X account."
+ },
+ {
+  "claim": "C-9259",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "note": "Shaner confirmed."
+ },
+ {
+  "claim": "C-9262",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Shaner Broderick created a map of where the killer walked and that the media used his map.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "note": "Shaner confirmed."
+ },
+ {
+  "claim": "C-9266",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names only OUR, not Tim Ballard."
+ },
+ {
+  "claim": "C-9267",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Phil Lyman disputes that Shaner Broderick is his nephew, telling her that Shaner may be confused and that they are only cousins.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "note": "Shaner confirmed."
+ },
+ {
+  "claim": "C-9268",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Shaner Broderick was chosen for an internship with Senator Mike Lee of Utah, which she thinks was partly the result of the family link to Phil Lyman.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "note": "Shaner confirmed."
+ },
+ {
+  "claim": "C-9269",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that since the previous episode Shaner Broderick wiped his LinkedIn page and his Facebook page, and privatized his Instagram and then removed the photos of his investigation into the killer's route.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "note": "Order matches transcript; Shaner confirmed."
+ },
+ {
+  "claim": "C-9270",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "note": "Shaner confirmed."
+ },
+ {
+  "claim": "C-9272",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, unlike in all her earlier investigations, no viewer emailed to say they knew either the blonde or the person in the blue hat who were with Shaner Broderick.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "note": "Matches 'the blonde'/'the person'; Shaner confirmed."
+ },
+ {
+  "claim": "C-9296",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Andrew Zanger",
+     "right": "Andrew Zenger",
+     "source": "https://www.heraldextra.com/business/local-business/2025/aug/21/new-chief-executive-officer-named-at-timpanogos-regional-hospital/"
+    }
+   ]
+  },
+  "note": "Zenger confirmed by Herald Extra and MountainStar."
+ },
+ {
+  "claim": "C-9298",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Andrew Zanger",
+     "right": "Andrew Zenger",
+     "source": "https://www.heraldextra.com/business/local-business/2025/aug/21/new-chief-executive-officer-named-at-timpanogos-regional-hospital/"
+    }
+   ]
+  },
+  "note": "Zenger confirmed."
+ },
+ {
+  "claim": "C-9306",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim text names no addressee."
+ },
+ {
+  "claim": "C-9319",
+  "episode": 12,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host responds to a viewer comment confusing keyholing and internal bullet bouncing by saying keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage."
+  },
+  "note": "Viewer only said she confused the terms; definitions are the host's."
+ },
+ {
+  "claim": "C-1337",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Unidentified woman is not N-145."
+ },
+ {
+  "claim": "C-1338",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-42",
+    "N-61"
+   ]
+  },
+  "note": "Tyler Robinson not referred to."
+ },
+ {
+  "claim": "C-1339",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim text does not name or describe Kirk."
+ },
+ {
+  "claim": "C-1341",
+  "episode": 13,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says multiple senior officials involved in the case were recent appointments at the time of the event: FBI SAC Robert Bohls (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zenger, Judge Tony F. Graf Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner.",
+   "names": [
+    {
+     "wrong": "Graph",
+     "right": "Graf",
+     "source": "https://www.nbcnews.com/news/us-news/judge-decide-whether-tyler-robinson-will-stand-trial-charlie-kirks-ass-rcna595489"
+    },
+    {
+     "wrong": "Robert BS",
+     "right": "Robert Bohls",
+     "source": "https://x.com/FBISaltLakeCity/status/1966161980684906919"
+    },
+    {
+     "wrong": "Andrew Zanger",
+     "right": "Andrew Zenger",
+     "source": "https://www.heraldextra.com/business/local-business/2025/aug/21/new-chief-executive-officer-named-at-timpanogos-regional-hospital/"
+    }
+   ]
+  },
+  "note": "Graf confirmed; also fix 'Robert BS'->Bohls (FBI SLC) and Zanger->Zenger (Herald Extra)."
+ },
+ {
+  "claim": "C-1343",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Utah Autopsy Reports Are Kept Private Unless Family Wishes Release",
+   "claim": "The host says that, as she has learned, autopsy reports in Utah are kept private, and the only way the report would be released is if the immediate family wished it."
+  },
+  "note": "Hedged host statement; no 'compel'."
+ },
+ {
+  "claim": "C-1345",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-36"
+   ],
+   "timestamp": "00:29:45"
+  },
+  "note": "TikTok/X/Elon at ~29:50; Ellison and Deborah Lee not in claim."
+ },
+ {
+  "claim": "C-1346",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-36"
+   ]
+  },
+  "note": "Netanyahu named, Deborah Lee not."
+ },
+ {
+  "claim": "C-1348",
+  "episode": 13,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host shows a post in which Megyn Kelly replies to Florida Dab that she has no obligation to separate herself from anyone and that if he needs her to condemn Candace or Tucker for their opinions in order to listen to her, she may not be for him.",
+   "mentions": [
+    "N-140",
+    "N-46",
+    "N-22",
+    "N-3"
+   ]
+  },
+  "note": "Kisin removal right; add host-shows attribution and closer wording."
+ },
+ {
+  "claim": "C-1352",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says that one of Tyler Robinson's defense lawyers, Michael Burt, previously represented Richard Ramirez (\"the Nightstalker\").",
+   "names": [
+    {
+     "wrong": "Michael Bert",
+     "right": "Michael Burt",
+     "source": "https://www.courttv.com/news/lyle-menendezs-trial-attorney-added-to-tyler-robinsons-defense-team/"
+    }
+   ]
+  },
+  "note": "Burt confirmed (Court TV, Fox)."
+ },
+ {
+  "claim": "C-1353",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Kirk not referred to."
+ },
+ {
+  "claim": "C-10773",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Zenger not named in claim."
+ },
+ {
+  "claim": "C-10775",
+  "episode": 13,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Shaner Broderick deleted his Facebook and LinkedIn and wiped his Instagram after she asked him a question before going live, and that her team had captured his content beforehand.",
+   "mentions": [
+    "N-3",
+    "N-133"
+   ],
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "note": "Lyman removal right; also correct Shainer->Shaner in claim text."
+ },
+ {
+  "claim": "C-10789",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Broderick/Lyman not in claim. Hild matches lawsuit plaintiff Robert Hild."
+ },
+ {
+  "claim": "C-10791",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Robinson not in claim."
+ },
+ {
+  "claim": "C-10801",
+  "episode": 13,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5"
+   ]
+  },
+  "note": "Netanyahu not referred to."
+ },
+ {
+  "claim": "C-1359",
+  "episode": 14,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip of the Redacted podcast the host plays, Elizabeth Lane says she approached firms in Utah to get Tyler Robinson a pro bono lawyer, that one of the most reputable firms said it would represent him, and that they then found its lawyers lacked death-penalty certification."
+  },
+  "note": "Lane's account needs clip attribution."
+ },
+ {
+  "claim": "C-1360",
+  "episode": 14,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip of the Redacted podcast the host plays, Elizabeth Lane says a large Utah law firm she called told her rudely that only Skordas is allowed to find representation for Tyler Robinson, and that Skordas is running as a state prosecutor."
+  },
+  "note": "Firm, not Skordas, made the statement per Lane."
+ },
+ {
+  "claim": "C-3643",
+  "episode": 14,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says there is new merch on the website and that many people bought the show's CIA merch, adding 'We don't know, but we know.'"
+  },
+  "note": "No hat or agency gloss in transcript."
+ },
+ {
+  "claim": "C-7843",
+  "episode": 14,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-800"
+   ]
+  },
+  "note": "Mary Phagan not named in claim."
+ },
+ {
+  "claim": "C-7900",
+  "episode": 14,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Theo Von not in claim."
+ },
+ {
+  "claim": "C-1371",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host asserts she personally spoke with the TPUSA individual who removed the SD cards and that he told her his instinct was to secure the footage so Erika would not have to see it again, and that he never mentioned police officers.",
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  },
+  "note": "Matches transcript; Erika named."
+ },
+ {
+  "claim": "C-1378",
+  "episode": 15,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a sermon clip the host plays, an unnamed 'Judeo-Christian' pastor, in a sermon given September 21, 2025 titled 'what has defiled you' that cites 2 Corinthians 7:1, calls Candace Owens and Nick Fuentes 'foolish people that are so deceived' and says young people are 'eating that up'.",
+   "mentions": [
+    "N-3",
+    "N-205"
+   ]
+  },
+  "note": "Fix right; quote corrected to 'eating that up' as spoken."
+ },
+ {
+  "claim": "C-6464",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-99",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Kolvet/Clark."
+ },
+ {
+  "claim": "C-6480",
+  "episode": 15,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Kolvet not named in claim."
+ }
+]

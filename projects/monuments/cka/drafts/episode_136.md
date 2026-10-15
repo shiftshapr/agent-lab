@@ -13,10 +13,10 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11306, N-11307, N-11308, N-11309
   - Claim Range (supplement_2026-10e): C-11702–C-11756
-  - Tip-minted Nodes (reintro-ep136): N-757
+  - Tip-minted Nodes (reintro-ep136): N-755
   - New Nodes Introduced: N-10774, N-10775
-  - Hole-minted Nodes (wave3): N-562
-  - Reused Nodes Appearing: N-384, N-512, N-10772, N-10773, N-5, N-9, N-14, N-36, N-40, N-54, N-162, N-265, N-270, N-493, N-10000, N-10014, N-10074, N-10219, N-10324, N-10343, N-10539, N-10679, N-10681, N-10688, N-10725, N-10732, N-10737, N-10747, N-10964, N-11128, N-10771
+  - Hole-minted Nodes (wave3): N-560
+  - Reused Nodes Appearing: N-382, N-510, N-10772, N-10773, N-5, N-9, N-14, N-36, N-40, N-54, N-161, N-263, N-268, N-491, N-10000, N-10014, N-10074, N-10219, N-10324, N-10343, N-10539, N-10679, N-10681, N-10688, N-10725, N-10732, N-10737, N-10747, N-10964, N-11128, N-10771
   - (see registers)
 
 # Episode 136 Analysis Record
@@ -278,7 +278,7 @@ Video Timestamp: 00:05:31
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11707, N-10737, N-270, N-493*
+*Related: C-11707, N-10737, N-268, N-491*
 
 ---
 
@@ -291,7 +291,7 @@ Video Timestamp: 00:08:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11711, N-10681, N-10737, N-270, N-3*
+*Related: C-11711, N-10681, N-10737, N-268, N-3*
 
 ---
 
@@ -304,7 +304,7 @@ Video Timestamp: 00:18:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-11720, N-10772, N-757*
+*Related: C-11720, N-10772, N-755*
 
 ---
 
@@ -319,7 +319,7 @@ Video Timestamp: 00:24:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-11729, N-10774, N-3, N-757*
+*Related: C-11729, N-10774, N-3, N-755*
 
 ---
 
@@ -345,13 +345,13 @@ Video Timestamp: 00:37:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11741, N-1, N-10000, N-10539, N-162, N-2, N-5*
+*Related: C-11741, N-1, N-10000, N-10539, N-161, N-2, N-5*
 
 ---
 
 ## IV. Node Register
 
-**N-757** Allan Robertson
+**N-755** Allan Robertson
 
 Named by the host as the red-hat man on the Losee rooftop (C-3199).
 
@@ -359,7 +359,7 @@ Named by the host as the red-hat man on the Losee rooftop (C-3199).
 
 ---
 
-**N-562** Christopher Hawk
+**N-560** Christopher Hawk
 
 First named by the host at 00:17:52 in episode 136.
 
@@ -520,7 +520,7 @@ Kash Patel; the host plays his statement on the 12:39 FBI arrival.
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Blake Neff; the host cites his statement on Charlie and the Iran war and wonders about his hotel.
 
@@ -528,7 +528,7 @@ Blake Neff; the host cites his statement on Charlie and the Iran war and wonders
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Mikey McCoy; his arrival footage is the basis of the empty-pocket finding.
 
@@ -536,7 +536,7 @@ Mikey McCoy; his arrival footage is the basis of the empty-pocket finding.
 
 ---
 
-**N-265** Terrell Farnsworth
+**N-263** Terrell Farnsworth
 
 Terrell Farnsworth; named by the host in connection with the rooftop command question.
 
@@ -544,7 +544,7 @@ Terrell Farnsworth; named by the host in connection with the rooftop command que
 
 ---
 
-**N-270** Brian Harpole
+**N-268** Brian Harpole
 
 Brian Harpole; his accounts of the car ride and ER are examined.
 
@@ -552,7 +552,7 @@ Brian Harpole; his accounts of the car ride and ER are examined.
 
 ---
 
-**N-493** Rick Cutler
+**N-491** Rick Cutler
 
 Rick Cutler; his role in the car and at the hospital is discussed.
 
@@ -560,7 +560,7 @@ Rick Cutler; his role in the car and at the hospital is discussed.
 
 ---
 
-**N-512** Christopher Bagley
+**N-510** Christopher Bagley
 
 Officer Christopher Bagley; his preliminary-hearing testimony is examined.
 
@@ -741,7 +741,7 @@ Claim Timestamp: 00:03:26
 Claim: The host says Mikey McCoy's footage of Charlie Kirk's arrival shows the rear-door pocket of the SUV as empty at the moment Kirk exited the vehicle, although black gloves were later recovered from that pocket.
 
 Anchored Artifacts: A-2223.1
-Mentions: N-1, N-194
+Mentions: N-1, N-192
 Related Nodes: N-10771
 
 Investigative Direction: Cross-check the McCoy footage against police inventory records for the transport SUV and the official glove recovery chain of custody.
@@ -755,7 +755,7 @@ Claim Timestamp: 00:13:11
 Claim: Per a Kash Patel public statement played in the episode, the first FBI agents arrived at UVU with chiefs of police at 12:39 PM, 16 minutes after the 12:23 PM shooting, and secured the scene.
 
 Anchored Artifacts: A-2226.1
-Mentions: N-69, N-384
+Mentions: N-69, N-382
 Related Nodes:
 
 Investigative Direction: Verify the 12:39 PM arrival timestamp against UVU campus entry logs, FBI case file timestamps, and Patel/Dan Bonino interview transcripts.
@@ -769,7 +769,7 @@ Claim Timestamp: 00:12:18
 Claim: Officer Bagley testified that his body cam footage began at the Hall of Flags and ran 27 minutes 35 seconds, ending while he was still on the rooftop and before crime tape was placed.
 
 Anchored Artifacts: A-2224.2, A-2233.1
-Mentions: N-512
+Mentions: N-510
 Related Nodes: N-10773
 
 Investigative Direction: Obtain the body cam file metadata and manufacturer battery-life specifications to verify whether 27 minutes is plausible as a battery depletion event.
@@ -783,7 +783,7 @@ Claim Timestamp: 00:10:33
 Claim: Officer Bagley testified at the preliminary hearing that he did not know the identity, agency, or origin of the plainclothes individual wearing a badge and carrying a handgun who accompanied him up the Losi building stairs.
 
 Anchored Artifacts: A-2224.1
-Mentions: N-512
+Mentions: N-510
 Related Nodes: N-10772
 
 Investigative Direction: Cross-reference Bagley's testimony against UVU campus credentialing logs and the bystander footage in A-2227.1.
@@ -797,7 +797,7 @@ Claim Timestamp: 00:10:33
 Claim: In a preliminary-hearing clip the host plays, Officer Bagley, under questioning, confirms that the second individual who accompanied him onto the Losi rooftop appeared to have a badge and was carrying a handgun.
 
 Anchored Artifacts: A-2224.1, A-2233.1
-Mentions: N-512
+Mentions: N-510
 Related Nodes: N-10772
 
 Investigative Direction: Compare Bagley's badge-and-handgun description with the bystander footage to verify whether the same individual matches both Bagley's testimony and the visual identification.
@@ -811,7 +811,7 @@ Claim Timestamp: 00:15:40
 Claim: The host says bystander footage timestamped 12:47 PM captured Officer Bagley and a second plainclothes man (red hat, bag with badge, backpack) on the Losi Center rooftop.
 
 Anchored Artifacts: A-2227.1
-Mentions: N-562, N-512
+Mentions: N-560, N-510
 Related Nodes: N-10772
 
 Investigative Direction: Authenticate the bystander clip's timestamp and original camera metadata, and run the red-hat figure against UVU/USU event credentialing records.
@@ -825,7 +825,7 @@ Claim Timestamp: 00:16:47
 Claim: Per an X post by Muppet Masher, the red-hat man visible in the 12:47 PM bystander footage was identified as Allan Robertson of the Utah State University Department of Public Safety.
 
 Anchored Artifacts: A-2234.1, A-2227.1
-Mentions: N-562, N-757
+Mentions: N-560, N-755
 Related Nodes: N-10772
 
 Investigative Direction: Verify Robertson's identification through facial comparison, event credential records, and corroborating witness statements.
@@ -839,7 +839,7 @@ Claim Timestamp: 00:18:43
 Claim: Per the same Muppet Masher identification, the blue-shirt man walking near the Losi rooftop was identified as Christopher Hawk.
 
 Anchored Artifacts: A-2234.1, A-2227.1
-Mentions: N-562
+Mentions: N-560
 Related Nodes: N-10772
 
 Investigative Direction: Verify Hawk's presence and role through credential records and follow-up witness interviews.
@@ -971,7 +971,7 @@ Claim Timestamp: 00:18:43
 Claim: In a clip the host plays, YouTuber Nissi asserts that Officer Bagley failed to mention (a) the red-hat man alerting him to the holster, (b) any pre-rooftop conversation with the red-hat man, and (c) the suspicious timing of his body cam stopping at a convenient moment.
 
 Anchored Artifacts: A-2233.1
-Mentions: N-512
+Mentions: N-510
 Related Nodes: N-10772, N-10773
 
 Investigative Direction: Re-listen to Bagley's preliminary-hearing testimony in full and cross-check against UVU campus surveillance for any pre-rooftop interaction.
@@ -1020,7 +1020,7 @@ Claim: The host says a sleuth emailed a tip that Mikey McCoy had been recording 
 Transcript Snippet: turns out that the amazing Mikey McCoy who was suddenly recording Charlie's last moments in the weeks leading up as well.
 
 Anchored Artifacts: 
-Mentions: N-194, N-1, N-3
+Mentions: N-192, N-1, N-3
 Related Nodes: N-10219
 Tags: relevance:core
 Investigative Direction: Obtain McCoy's full recording set for the week of September 10 and its metadata to establish provenance and filming dates.
@@ -1036,7 +1036,7 @@ Claim: The host says Brian Harpole was not sitting on the side of the car where 
 Transcript Snippet: Brian was definitively not sitting on that side of the car and he was already covered in blood.
 
 Anchored Artifacts: 
-Mentions: N-270, N-493
+Mentions: N-268, N-491
 Related Nodes: N-10771, N-10737
 Supports: C-3089
 Tags: relevance:core
@@ -1053,7 +1053,7 @@ Claim: The host says Harpole tells a story that a nurse wiped the blood off his 
 Transcript Snippet: He tells a story about how the nurse wiped it off of his face.
 
 Anchored Artifacts: 
-Mentions: N-270
+Mentions: N-268
 Related Nodes: N-10737
 Tags: relevance:core
 Investigative Direction: Locate the Harpole interview where the nurse account is given and identify the nurse and hospital staff present.
@@ -1069,7 +1069,7 @@ Claim: The host recounts that the group was told Rick Cutler did nothing but hol
 Transcript Snippet: And we were told that Rick Cutler didn't do nothing but hold Brian Harpole with a tattoo.
 
 Anchored Artifacts: A-3153.1
-Mentions: N-493, N-270
+Mentions: N-491, N-268
 Related Nodes: N-10737
 Supports: C-2951
 Tags: relevance:core
@@ -1086,7 +1086,7 @@ Claim: The host says Rick Cutler was among those who allegedly stripped off clot
 Transcript Snippet: Now, we also told you that Rick was among those who allegedly stripped down his clothes at the hospital.
 
 Anchored Artifacts: 
-Mentions: N-493, N-7
+Mentions: N-491, N-7
 Related Nodes: N-10688
 Tags: relevance:core
 Investigative Direction: Ask hospital staff and the group to confirm who changed clothes, and obtain any hospital security video of the entrance.
@@ -1102,7 +1102,7 @@ Claim: The host says she was told the feds were the ones who allegedly took thos
 Transcript Snippet: we uh were also told that the feds were the ones who allegedly took those clothes thereafter down to his boxer briefs allegedly.
 
 Anchored Artifacts: 
-Mentions: N-493, N-3
+Mentions: N-491, N-3
 Related Nodes: N-10688, N-10014
 Tags: relevance:core
 Investigative Direction: Request FBI evidence-receipt records for clothing taken from Cutler and others at the hospital.
@@ -1118,7 +1118,7 @@ Claim: The host recounts Harpole's story that he grabbed a gurney, jumped on top
 Transcript Snippet: Particularly the portion where Brian Harpole grabs a gurnie, jumps on top of Charlie in the ER, and begins cutting his shirt while the staff looks on for further instructions
 
 Anchored Artifacts: 
-Mentions: N-270, N-7
+Mentions: N-268, N-7
 Related Nodes: N-10737
 Supports: C-5785
 Tags: relevance:core
@@ -1135,7 +1135,7 @@ Claim: The host says that in the Shawn Ryan interview Harpole said 'We're doing 
 Transcript Snippet: Even when he describes things in that Shawn Ryan interview, he's like, "We're doing the medical.
 
 Anchored Artifacts: A-3154.1
-Mentions: N-270, N-3
+Mentions: N-268, N-3
 Related Nodes: N-10681, N-10737
 Tags: relevance:core
 Investigative Direction: Pull the Shawn Ryan interview and transcribe Harpole's exact words about the medical response.
@@ -1184,7 +1184,7 @@ Claim: The host says Bagley testifies he reached Losi at 12:44 and discovered th
 Transcript Snippet: he gets on to Losi building at 12:44. He discovers that screwdriver 10 to 15 ft past the railing in the gravel.
 
 Anchored Artifacts: 
-Mentions: N-512
+Mentions: N-510
 Related Nodes: N-10343
 Supports: C-7284
 Tags: relevance:core
@@ -1201,7 +1201,7 @@ Claim: The host says Bagley went onto the Losi rooftop after the feds had arrive
 Transcript Snippet: I want to underscore that officer Baggley went onto Losi rooftop after the feds had arrived and had secured and began securing the scene.
 
 Anchored Artifacts: A-2226.1
-Mentions: N-512, N-69
+Mentions: N-510, N-69
 Related Nodes: N-10772, N-10014
 Supports: C-3194
 Tags: relevance:core
@@ -1251,7 +1251,7 @@ Claim: The host says she went combing through all the footage that was sent to h
 Transcript Snippet: I went combing through all the footage that was sent to me on September 10th
 
 Anchored Artifacts: A-2227.1
-Mentions: N-3, N-512
+Mentions: N-3, N-510
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Ask the host for the original submission, sender and metadata of the 12:47 bystander clip.
@@ -1267,7 +1267,7 @@ Claim: The host says that in the early footage Allan Robertson seems to be the p
 Transcript Snippet: Alan Robertson, as we're going through all that early footage, he actually seems like he's the person that's immediately in charge.
 
 Anchored Artifacts: A-2227.1
-Mentions: N-757, N-3
+Mentions: N-755, N-3
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Review the early scene footage for Robertson giving directions and compare to the incident command roster.
@@ -1283,7 +1283,7 @@ Claim: In the Nissi analysis the host plays, the narrator says the livestream fo
 Transcript Snippet: You see him walking around and texting and making calls.
 
 Anchored Artifacts: A-3155.1, A-2233.1
-Mentions: N-757
+Mentions: N-755
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Obtain the livestream source and review it for the red-hat man's phone use and any other officers' behavior.
@@ -1299,7 +1299,7 @@ Claim: In the Nissi analysis, the narrator says Bagley says the battery died, bu
 Transcript Snippet: He says the battery died, but the camera had only been running for 27 minutes and these body cameras are supposed to last around 10 hours.
 
 Anchored Artifacts: A-2233.1
-Mentions: N-512
+Mentions: N-510
 Related Nodes: N-10725, N-10773
 Tags: relevance:core
 Investigative Direction: Obtain the UVU police body-camera model specifications and the device's battery and docking logs.
@@ -1315,7 +1315,7 @@ Claim: The host says there seems to be an immediate understanding from Terrell F
 Transcript Snippet: there seems to be an immediate understanding that this Alan Robertson character who shall not be named is calling the shots.
 
 Anchored Artifacts: A-2227.1
-Mentions: N-757, N-265, N-512
+Mentions: N-755, N-263, N-510
 Related Nodes: N-10772
 Tags: relevance:core
 Investigative Direction: Interview officers at the scene about who directed the rooftop response and obtain the command roster.
@@ -1331,7 +1331,7 @@ Claim: The host says Robertson was a police officer in San Bernardino, Californi
 Transcript Snippet: But he was also a police officer just before going to Utah in San Bernardino, California.
 
 Anchored Artifacts: A-2235.1
-Mentions: N-757
+Mentions: N-755
 Related Nodes: N-10774
 Tags: relevance:context
 Investigative Direction: Obtain Robertson's San Bernardino PD employment dates through a California public records request.
@@ -1363,7 +1363,7 @@ Claim: The host says she checked whether there is an entry for every officer in 
 Transcript Snippet: I searched online and said nope that's not what they do.
 
 Anchored Artifacts: A-2229.1
-Mentions: N-757
+Mentions: N-755
 Related Nodes: N-11309, N-10774
 Tags: relevance:context
 Investigative Direction: Search the Brady List site for officers from other departments to confirm that not all officers are listed.
@@ -1379,7 +1379,7 @@ Claim: The host says there is a lot of corruption in the San Bernardino, Califor
 Transcript Snippet: Obviously, you guys also know there's a lot of corruption in the San Bernardino, California Police Department.
 
 Anchored Artifacts: 
-Mentions: N-757, N-3
+Mentions: N-755, N-3
 Related Nodes: N-10774
 Tags: relevance:context
 Investigative Direction: Review public reporting, DOJ findings and court records about San Bernardino PD misconduct.
@@ -1395,7 +1395,7 @@ Claim: The host says Robertson decided to go to Utah in August 2024 despite havi
 Transcript Snippet: he decided to go in August 2024 despite the fact that his entire life has been in California.
 
 Anchored Artifacts: A-2228.1
-Mentions: N-757, N-3
+Mentions: N-755, N-3
 Related Nodes: N-10774
 Tags: relevance:core
 Investigative Direction: Obtain USU hiring and lateral-transfer paperwork showing Robertson's start date and prior employer.
@@ -1411,7 +1411,7 @@ Claim: The host says it is a plausibility that Allan E. Robertson was involved i
 Transcript Snippet: it is definitely what I would assert is a plausibility uh that Alan E. Robertson was involved in something in San Bernardino.
 
 Anchored Artifacts: A-2229.1
-Mentions: N-757, N-3
+Mentions: N-755, N-3
 Related Nodes: N-10774
 Tags: relevance:core
 Investigative Direction: Seek the underlying Brady disclosure or personnel records for Robertson via public-records requests and defense-bar contacts.
@@ -1427,7 +1427,7 @@ Claim: The host asks viewers who worked with Robertson in San Bernardino, or kno
 Transcript Snippet: please send us tips to more tips at candacewowens. com
 
 Anchored Artifacts: A-3156.1
-Mentions: N-3, N-757
+Mentions: N-3, N-755
 Related Nodes: N-10774
 Tags: relevance:core,DIA
 Investigative Direction: Review incoming tips about Robertson for named, checkable sources and corroborate before relying on them.
@@ -1459,7 +1459,7 @@ Claim: The host says it is plausible the person who actually found the screwdriv
 Transcript Snippet: I think it's plausible that the person who actually found the screwdriver was Alan Robertson.
 
 Anchored Artifacts: A-2229.1
-Mentions: N-757, N-3
+Mentions: N-755, N-3
 Related Nodes: N-10772, N-10774
 Tags: relevance:core
 Investigative Direction: Ask prosecutors whether Robertson is on any witness list and obtain the chain of custody for who recovered the screwdriver.
@@ -1620,7 +1620,7 @@ Claim: The host says Blake Neff said Charlie Kirk would support Trump with the I
 Transcript Snippet: Uh actually Blake, I think said Charlie would support Trump with the Iran war.
 
 Anchored Artifacts: A-3157.1
-Mentions: N-162, N-1, N-5, N-2
+Mentions: N-161, N-1, N-5, N-2
 Related Nodes: N-10539, N-10000
 Tags: relevance:core
 Investigative Direction: Locate Neff's statement (platform and date) and quote it in full.
@@ -1864,7 +1864,7 @@ Claim: The host says her team found out what hotel TPUSA staff including Andrew 
 Transcript Snippet: we did find out what hotel um TPUSA staff stayed into at Andrew Kolvet and everybody else.
 
 Anchored Artifacts: 
-Mentions: N-14, N-162, N-3
+Mentions: N-14, N-161, N-3
 Related Nodes: N-10732, N-10000
 Tags: relevance:core
 Investigative Direction: Use the hotel registration and booking records the host says she has; test them against Neff's statements.

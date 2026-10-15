@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: b0fbc9640382faeba544f3948f17586f7fd4a74b047aceb20faed50921bccc36
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-930, N-931, N-932, N-933, N-11359, N-11360
+  - Tip-minted Nodes (supplement_2026-10f): N-928, N-929, N-930, N-931, N-11359, N-11360
   - Tip-minted Nodes (reintro-ep131): N-11204
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-13120–C-13192
-  - Hole-minted Nodes (wave3): N-517
-  - Reused Nodes Appearing: N-10748, N-14, N-22, N-38, N-46, N-50, N-82, N-156, N-282, N-334, N-396, N-560, N-800, N-801, N-876, N-10003, N-10027, N-10033, N-10070, N-10211, N-10268, N-10276, N-10345, N-10385, N-10386, N-10405, N-10416, N-10480, N-10712, N-10741, N-10743, N-10745, N-10899, N-10960, N-11014, N-11119, N-11129, N-11130, N-11149, N-11153, N-11156
+  - Hole-minted Nodes (wave3): N-515
+  - Reused Nodes Appearing: N-10748, N-14, N-22, N-38, N-46, N-50, N-82, N-155, N-280, N-332, N-394, N-558, N-798, N-799, N-874, N-10003, N-10027, N-10033, N-10070, N-10211, N-10268, N-10276, N-10345, N-10385, N-10386, N-10405, N-10416, N-10480, N-10712, N-10741, N-10743, N-10745, N-10899, N-10960, N-11014, N-11119, N-11129, N-11130, N-11149, N-11153, N-11156
   - (see registers)
 
 ## 2. Executive Summary
@@ -322,7 +322,7 @@ Confidence Level: Low
 
 ## 4. Node Register
 
-**N-517** Gayle King
+**N-515** Gayle King
 
 First named by the host at 00:43:01 in episode 131.
 
@@ -422,7 +422,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-156** Robert J. O'Neill
+**N-155** Robert J. O'Neill
 
 Reused node cited by new claims in this episode.
 
@@ -430,7 +430,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-282** Bari Weiss
+**N-280** Bari Weiss
 
 Reused node cited by new claims in this episode.
 
@@ -438,7 +438,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-334** Baron Coleman
+**N-332** Baron Coleman
 
 Reused node cited by new claims in this episode.
 
@@ -446,7 +446,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-395** Steve Bannon
+**N-393** Steve Bannon
 
 Reused node cited by new claims in this episode.
 
@@ -454,7 +454,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-396** Andrew Breitbart
+**N-394** Andrew Breitbart
 
 Reused node cited by new claims in this episode.
 
@@ -462,7 +462,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-551** Tracy Martin
+**N-549** Tracy Martin
 
 Reused node cited by new claims in this episode.
 
@@ -470,7 +470,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-560** Carrie Prejean Bowler
+**N-558** Carrie Prejean Bowler
 
 Reused node cited by new claims in this episode.
 
@@ -478,7 +478,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-800** Leo Frank
+**N-798** Leo Frank
 
 Reused node cited by new claims in this episode.
 
@@ -486,7 +486,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-801** Mary Phagan
+**N-799** Mary Phagan
 
 Reused node cited by new claims in this episode.
 
@@ -494,7 +494,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-876** Justin Bieber
+**N-874** Justin Bieber
 
 Reused node cited by new claims in this episode.
 
@@ -718,7 +718,7 @@ Reused node cited by new claims in this episode.
 
 ---
 
-**N-930** Gary Javitch
+**N-928** Gary Javitch
 
 First named by the host at 00:20:02 in episode 131 (spelled Jabitch and Jabach in the transcript; the host's spelling is unverified). Omaha-based man the host says was allegedly with Ben Shapiro on September 10, 2025.
 
@@ -726,7 +726,7 @@ First named by the host at 00:20:02 in episode 131 (spelled Jabitch and Jabach i
 
 ---
 
-**N-931** Stephen "Twitch" Boss
+**N-929** Stephen "Twitch" Boss
 
 First named by the host at 00:38:55 in episode 131 as Twitch. Dancer and DJ whose 2022 death the host compares to the Kirk case.
 
@@ -734,7 +734,7 @@ First named by the host at 00:38:55 in episode 131 as Twitch. Dancer and DJ whos
 
 ---
 
-**N-932** Allison Holker
+**N-930** Allison Holker
 
 First named by the host at 00:40:01 in episode 131. Widow of Stephen Boss, discussed in the host's Twitch comparison.
 
@@ -742,7 +742,7 @@ First named by the host at 00:40:01 in episode 131. Widow of Stephen Boss, discu
 
 ---
 
-**N-933** Ellen DeGeneres
+**N-931** Ellen DeGeneres
 
 First named by the host at 00:38:55 in episode 131. Talk show host on whose show Twitch worked.
 
@@ -818,7 +818,7 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Jeremy Boreing [transcript spelling], who knew exactly what Jeremy was, 100% workshopped this. This is not Ben acting alone. This is a hit."
 
 Anchored Artifacts: A-2180.1
-Mentions: N-1, N-3, N-371
+Mentions: N-1, N-3, N-369
 
 
 Investigative Direction: Verify name spelling against device-extracted SMS records; cross-reference with public statements by Jeremy Boreing.
@@ -832,7 +832,7 @@ Claim Timestamp: 00:10:44
 Claim: The November 15, 2023 thread contains Charlie Kirk writing: "Marissa Streit [text spelling], she's part of the tribe. Do not listen to her."
 
 Anchored Artifacts: A-2180.1
-Mentions: N-1, N-3, N-118
+Mentions: N-1, N-3, N-117
 
 
 Investigative Direction: Verify name spelling against device-extracted SMS records.
@@ -918,7 +918,7 @@ Claim Timestamp: 00:06:03
 Claim: In an audio clip from AmFest in December 2025, Steve Bannon states: "Ben Shapiro is like a cancer and that cancer spreads … He tried to take over Breitbart and I ran him out of there. He tried to take over David Horowitz's who was his mentor."
 
 Anchored Artifacts: A-2182.1
-Mentions: N-197, N-395, N-97
+Mentions: N-195, N-393, N-97
 
 Related Nodes:
 
@@ -933,7 +933,7 @@ Claim Timestamp: 00:33:45
 Claim: In an audio clip played in the episode (Paramount Tactical), Tracy Martin states: "Absolutely not. No, absolutely not" in response to a question about whether she was the person the Daily Mail contacted and provided information from.
 
 Anchored Artifacts: A-2183.1
-Mentions: N-2, N-551
+Mentions: N-2, N-549
 
 
 Investigative Direction: Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.
@@ -1003,7 +1003,7 @@ Claim Timestamp: 00:41:38
 Claim: In an audio clip played in the episode, Allison Holker states that while cleaning out the closet to pick out a funeral outfit, she discovered "a lot of things I did not know existed" hidden in the home, including substances – even though the autopsy (per host narration from news reports) found no drugs or alcohol in his system.
 
 Anchored Artifacts: A-2185.1
-Mentions: N-517
+Mentions: N-515
 
 Related Nodes:
 
@@ -1018,7 +1018,7 @@ Claim Timestamp: 00:44:07
 Claim: In a CBS / Gayle King audio clip, Twitch's family members state that they received a phone call stating "We need you guys to sign non-disclosure agreements" in order to attend his memorial.
 
 Anchored Artifacts: A-2186.1
-Mentions: N-517
+Mentions: N-515
 
 Related Nodes:
 
@@ -1033,7 +1033,7 @@ Claim Timestamp: 00:44:07
 Claim: In a CBS / Gayle King audio clip, Twitch's family members state: "If you don't sign, you will not be able to see him and you will not be able to participate."
 
 Anchored Artifacts: A-2186.1
-Mentions: N-517
+Mentions: N-515
 
 Related Nodes:
 
@@ -1048,7 +1048,7 @@ Claim Timestamp: 00:39:35
 Claim: A YouTube comment posted on the prior day's episode lists parallels between the Twitch / Allison Holker case and the Charlie / Erica Kirk case, including: "Mormon wife who chased him at dancing events until he marries her," "The family iced out," "Mysterious death," "His family asked to sign an NDA to attend the memorial," and "The wife back at work and in business mode a few days later making deals and publishing books."
 
 Anchored Artifacts: A-2188.1
-Mentions: N-1, N-2, N-517
+Mentions: N-1, N-2, N-515
 
 Related Nodes:
 
@@ -1191,7 +1191,7 @@ Claim: The host says Justin Bieber has simplified his life after breaking free f
 Transcript Snippet: He's simplified things after breaking free from contracts that were costing him his soul.
 
 Anchored Artifacts: 
-Mentions: N-3, N-876
+Mentions: N-3, N-874
 Tags: relevance:tangential
 Investigative Direction: Look for public reporting on any change in Bieber's management or recording contracts.
 
@@ -1206,7 +1206,7 @@ Claim: The host says Steve Bannon explained that after Andrew Breitbart died, Be
 Transcript Snippet: Ben attempted to take over Andrew's company. And when that failed he plotted to take down the company
 
 Anchored Artifacts: 
-Mentions: N-3, N-97, N-395, N-396
+Mentions: N-3, N-97, N-393, N-394
 Related Nodes: N-10386
 Supports: C-2020
 Tags: relevance:context
@@ -1223,7 +1223,7 @@ Claim: The host says Andrew Breitbart died young and under very suspicious circu
 Transcript Snippet: after Andrew Breitbart died I should mention young and under very suspicious circumstances
 
 Anchored Artifacts: 
-Mentions: N-3, N-396
+Mentions: N-3, N-394
 Related Nodes: N-11119
 Supports: C-6934
 Tags: relevance:context
@@ -1240,7 +1240,7 @@ Claim: In the AmFest clip, Steve Bannon says that Ben Shapiro will make a move o
 Transcript Snippet: mark my word, he will make a move on Turning Point because he's always been envious of Charlie Kirk.
 
 Anchored Artifacts: A-2182.1
-Mentions: N-395, N-97, N-1, N-3
+Mentions: N-393, N-97, N-1, N-3
 Supports: C-6931
 Tags: relevance:context
 Investigative Direction: Obtain the full AmFest December 2025 recording of Bannon's remarks and check whether the sentence is in the original audio.
@@ -1321,7 +1321,7 @@ Claim: The host says she was sitting in Spain next to Carrie Prejean Bowler, sho
 Transcript Snippet: I actually was sitting in Spain next to Carrie Prejean Bowler and I was just showing her all of these messages
 
 Anchored Artifacts: 
-Mentions: N-3, N-560, N-14
+Mentions: N-3, N-558, N-14
 Tags: relevance:context
 Investigative Direction: Ask Carrie Prejean Bowler to confirm the Spain meeting and what she saw.
 
@@ -1652,7 +1652,7 @@ Claim: The host says she has a strong guess as to who the unidentified woman wit
 Transcript Snippet: we have a strong guess as to who that woman could be, but we'd rather not venture a guess unnecessarily.
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-97, N-930
+Mentions: N-3, N-97, N-928
 Related Nodes: N-10748
 Tags: relevance:core
 Investigative Direction: Ask the host's source for the woman's identity; this can be tested only through that source.
@@ -1684,7 +1684,7 @@ Claim: The host says Gary (transcribed Jabitch; spelling unverified) is in his m
 Transcript Snippet: he's older in his 70s mid-70s in Omaha, Nebraska of all places, right?
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-930
+Mentions: N-3, N-928
 Related Nodes: N-10748, N-10211, N-10276
 Tags: relevance:core
 Investigative Direction: Check public biographies, Omaha Jewish community publications and university records for the person's age, residence and degree.
@@ -1700,7 +1700,7 @@ Claim: The host says Gary Javitch has been the executive director of B'nai B'rit
 Transcript Snippet: he is and he's has been the executive director of B'nai B'rith International for years.
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-930
+Mentions: N-3, N-928
 Related Nodes: N-10748, N-11130
 Tags: relevance:core
 Investigative Direction: Check B'nai B'rith International's officer and board listings; the host later describes board roles, so the exact title needs checking.
@@ -1733,7 +1733,7 @@ Claim: The host says B'nai B'rith spun into the Anti-Defamation League when Leo 
 Transcript Snippet: B'nai B'rith then spun into the Anti-Defamation League.
 
 Anchored Artifacts: 
-Mentions: N-3, N-800, N-801
+Mentions: N-3, N-798, N-799
 Related Nodes: N-11130, N-11153, N-11156
 Supports: C-7838, C-7841
 Tags: relevance:tangential
@@ -1750,7 +1750,7 @@ Claim: The host says Leo Frank was convicted by a jury that consisted of Jews, a
 Transcript Snippet: he was also convicted by a jury that consisted of Jews.
 
 Anchored Artifacts: 
-Mentions: N-3, N-800
+Mentions: N-3, N-798
 Related Nodes: N-11153, N-11156
 Tags: relevance:tangential
 Investigative Direction: Consult the 1913 jury list and historical scholarship on the Frank trial; the host's statement about the jury can be checked against it.
@@ -1766,7 +1766,7 @@ Claim: The host says Gary Javitch served on the B'nai B'rith International board
 Transcript Snippet: He received the inaugural President's Award in 2019 for advancing the organization's mission.
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-930
+Mentions: N-3, N-928
 Related Nodes: N-10748, N-11130
 Tags: relevance:core
 Investigative Direction: Check B'nai B'rith International annual reports and award announcements for 2011 to 2019.
@@ -1782,7 +1782,7 @@ Claim: The host says a 2022 report identified Gary Javitch as the director of th
 Transcript Snippet: A 2022 report identified him as the director of the local B'nai B'rith chapter in Omaha.
 
 Anchored Artifacts: A-2524.1
-Mentions: N-3, N-930
+Mentions: N-3, N-928
 Related Nodes: N-10748, N-11130, N-11359
 Tags: relevance:core
 Investigative Direction: Locate the 2022 report and the Chabad Lubavitch of Nebraska board listing.
@@ -1814,7 +1814,7 @@ Claim: The host says she does not know the extent or reason of Ben Shapiro's tie
 Transcript Snippet: I I know he has some ties to Omaha. I'm not really clear to what extent or why.
 
 Anchored Artifacts: A-2524.2
-Mentions: N-3, N-97, N-930
+Mentions: N-3, N-97, N-928
 Related Nodes: N-10748
 Tags: relevance:core
 Investigative Direction: Look up Jewish Federation of Omaha event and donor listings for the named people.
@@ -1860,7 +1860,7 @@ Claim: The host says Andrew Kolvet, whom Baron Coleman accurately called a liar,
 Transcript Snippet: blamed me for the hit piece against me when it went wrong.
 
 Anchored Artifacts: 
-Mentions: N-3, N-14, N-334
+Mentions: N-3, N-14, N-332
 Related Nodes: N-10743, N-10070
 Supports: C-3110
 Tags: relevance:core
@@ -1894,7 +1894,7 @@ Claim: The host says she received a flurry of unsolicited emails presenting conc
 Transcript Snippet: We received a flurry of emails of people who presented proof concrete proof that the story did indeed come from a family friend of Erika
 
 Anchored Artifacts: A-3250.1
-Mentions: N-3, N-551, N-2
+Mentions: N-3, N-549, N-2
 Related Nodes: N-10743, N-10745
 Supports: C-5981
 Tags: relevance:core
@@ -1911,7 +1911,7 @@ Claim: The host says Tracy Martin has been doing the rounds in the press and giv
 Transcript Snippet: She was giving quotes to Us magazine
 
 Anchored Artifacts: 
-Mentions: N-3, N-551
+Mentions: N-3, N-549
 Related Nodes: N-10960
 Tags: relevance:context
 Investigative Direction: Find the Us Weekly articles quoting Martin.
@@ -1927,7 +1927,7 @@ Claim: The host says Tracy Martin had a perfectly friendly phone call with her a
 Transcript Snippet: she's also the person who had a perfectly friendly phone call with me and pretended that I was shouting and cursing her out on the phone.
 
 Anchored Artifacts: 
-Mentions: N-3, N-551, N-2
+Mentions: N-3, N-549, N-2
 Tags: relevance:core
 Investigative Direction: Ask Tracy Martin for her account; no recording is stated to exist.
 
@@ -1942,7 +1942,7 @@ Claim: The host says that when she said she suspected Tracy Martin was the sourc
 Transcript Snippet: she tried to get ahead of it and go on to Paramount Tactical show and now, this is before I had received emails
 
 Anchored Artifacts: 
-Mentions: N-3, N-551
+Mentions: N-3, N-549
 Related Nodes: N-10899
 Tags: relevance:core
 Investigative Direction: Check the date of the Paramount Tactical show against the host's episode in which she guessed Martin.
@@ -1958,7 +1958,7 @@ Claim: The host says Tracy Martin was friends with Erika Kirk when Erika was dat
 Transcript Snippet: Erika, you can find videos of her rapping to gangster music when she was partying.
 
 Anchored Artifacts: 
-Mentions: N-3, N-551, N-2
+Mentions: N-3, N-549, N-2
 Tags: relevance:context
 Investigative Direction: Locate and date any such videos.
 
@@ -1988,7 +1988,7 @@ Claim: The host says the questions in which Erika named her were pre-approved by
 Transcript Snippet: questions that were pre-approved uh by Bari Weiss
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-282
+Mentions: N-3, N-2, N-280
 Supports: C-1922
 Tags: relevance:core
 Investigative Direction: Obtain CBS town hall production records on question approval.
@@ -2052,7 +2052,7 @@ Claim: The host agrees with Rob O'Neill that the suspect's texts read like Engli
 Transcript Snippet: it looks like someone just hit Google Translate, and it came out like they were speaking the Queen's English
 
 Anchored Artifacts: A-2184.1
-Mentions: N-3, N-156
+Mentions: N-3, N-155
 Tags: relevance:core
 Investigative Direction: Obtain the full text exchange and have a linguist assess it.
 
@@ -2067,7 +2067,7 @@ Claim: The host says Twitch (Stephen Boss) was a DJ on Ellen DeGeneres' show who
 Transcript Snippet: She had a DJ named Twitch that worked on her show, and he committed suicide, allegedly, um in a hotel room.
 
 Anchored Artifacts: A-2188.1
-Mentions: N-3, N-931, N-933
+Mentions: N-3, N-929, N-931
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on Boss's death in December 2022.
 
@@ -2082,7 +2082,7 @@ Claim: The host says Twitch died at a motel less than a mile from his home from 
 Transcript Snippet: He checked checked in on a Monday. The body was discovered on a Tuesday when they entered his room.
 
 Anchored Artifacts: A-2188.1
-Mentions: N-3, N-931
+Mentions: N-3, N-929
 Tags: relevance:tangential
 Investigative Direction: Check the LAPD and coroner records for the date and the autopsy findings.
 
@@ -2097,7 +2097,7 @@ Claim: The host says TMZ spoke to motel staff who said Twitch did not appear dis
 Transcript Snippet: TMZ went around and spoke to motel staffers who said that he didn't appear to be in any sort of distress.
 
 Anchored Artifacts: A-2188.1
-Mentions: N-3, N-931
+Mentions: N-3, N-929
 Tags: relevance:tangential
 Investigative Direction: Review the TMZ report and the coroner's and police statements.
 
@@ -2112,7 +2112,7 @@ Claim: The host says Twitch died without a will, that Allison Holker filed a pet
 Transcript Snippet: he also died without a will. Uh, she filed a petition for half of his estate in April.
 
 Anchored Artifacts: 
-Mentions: N-3, N-931, N-932
+Mentions: N-3, N-929, N-930
 Tags: relevance:tangential
 Investigative Direction: Check the Los Angeles Superior Court probate docket.
 
@@ -2143,7 +2143,7 @@ Claim: In the CBS clip, a Twitch family member says they were told they needed t
 Transcript Snippet: Well, somebody in the family has sold a story to a magazine.
 
 Anchored Artifacts: A-2186.1
-Mentions: N-3, N-931
+Mentions: N-3, N-929
 Related Nodes: N-11204
 Tags: relevance:tangential
 Investigative Direction: Review the full CBS segment.
@@ -2159,7 +2159,7 @@ Claim: The host says Allison Holker released a book in February 2024 saying Twit
 Transcript Snippet: She did release a book uh February of 2024, a short time after.
 
 Anchored Artifacts: 
-Mentions: N-3, N-931, N-932
+Mentions: N-3, N-929, N-930
 Tags: relevance:tangential
 Investigative Direction: Check the book's publication date and the family's public statements.
 
@@ -2270,7 +2270,7 @@ Claim: The host says that if Tracy Martin was behind the article, as she is told
 Transcript Snippet: if Tracy Martin was the one who, as I'm told, was behind this article
 
 Anchored Artifacts: A-3250.1
-Mentions: N-3, N-551, N-14, N-2
+Mentions: N-3, N-549, N-14, N-2
 Related Nodes: N-10743, N-10745
 Supports: C-11597
 Tags: relevance:core

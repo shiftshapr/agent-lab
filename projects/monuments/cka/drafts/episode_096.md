@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: b80f9093f2282419ffd666e804a85974657a8f4308c82ae5bfd6902b9b9bdcdf
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-821, N-822
+  - Tip-minted Nodes (supplement_2026-10c): N-819, N-820
   - Hole-minted Nodes (reintro-ep096): N-10647
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8755–C-8820
-  - Reused Nodes Appearing: N-10641, N-22, N-30, N-46, N-69, N-82, N-162, N-199, N-224, N-345, N-346, N-383, N-426, N-602, N-10000, N-10194, N-10202, N-10270, N-10349, N-10358, N-10406, N-10447, N-10552, N-10587, N-10590, N-10601, N-10607, N-10613, N-10616, N-10664, N-10640
+  - Reused Nodes Appearing: N-10641, N-22, N-30, N-46, N-69, N-82, N-161, N-197, N-222, N-343, N-344, N-381, N-424, N-600, N-10000, N-10194, N-10202, N-10270, N-10349, N-10358, N-10406, N-10447, N-10552, N-10587, N-10590, N-10601, N-10607, N-10613, N-10616, N-10664, N-10640
   - (see registers)
 
 # Meta-Data
@@ -35,8 +35,8 @@
 - Claim Range: C-2790–C-2809, C-3745, C-3752
   - New Nodes Introduced: N-10637, N-10638, N-10639, N-10641, N-10642
   - Reused Nodes Appearing: 
-  - Hole-minted Nodes (wave2): N-373, N-375, N-376, N-378
-- Existing Nodes Reused: N-1, N-2, N-3, N-14, N-60, N-5, N-282, N-97, N-334, N-265, N-87, N-132, N-205, N-557
+  - Hole-minted Nodes (wave2): N-371, N-373, N-374, N-376
+- Existing Nodes Reused: N-1, N-2, N-3, N-14, N-60, N-5, N-280, N-97, N-332, N-263, N-87, N-131, N-203, N-555
 
 ## 6. Meme Register
 
@@ -198,7 +198,7 @@ Video Timestamp: 00:58:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-8804, N-2, N-14, N-162, N-334, N-10000*
+*Related: C-8804, N-2, N-14, N-161, N-332, N-10000*
 
 ---
 
@@ -211,7 +211,7 @@ Video Timestamp: 01:04:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-8810, C-8811, N-3, N-60, N-82, N-383, N-10270*
+*Related: C-8810, C-8811, N-3, N-60, N-82, N-381, N-10270*
 
 ---
 
@@ -237,7 +237,7 @@ Video Timestamp: 00:40:12
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8785, N-2, N-284, N-10000*
+*Related: C-8785, N-2, N-282, N-10000*
 
 ---
 
@@ -250,7 +250,7 @@ Video Timestamp: 00:50:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-8791, C-8792, C-8805, N-1, N-2, N-3, N-14, N-162, N-10647*
+*Related: C-8791, C-8792, C-8805, N-1, N-2, N-3, N-14, N-161, N-10647*
 
 ---
 
@@ -276,7 +276,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2791, N-2, N-10637, N-375*
+*Related: C-2791, N-2, N-10637, N-373*
 
 **A-2008.2** Evan Hill X post reporting surveillance footage showed no indication Allen fired his weapon
 
@@ -286,7 +286,7 @@ Video Timestamp: 00:29:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2792, N-10637, N-373, N-375*
+*Related: C-2792, N-10637, N-371, N-373*
 
 **A-2008.3** Sarah Sidner (CNN) clip of Erika Kirk saying "I just want to go home"
 
@@ -296,7 +296,7 @@ Video Timestamp: 00:31:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (original recording source unverified)
 
-*Related: C-2793, N-2, N-10638, N-376*
+*Related: C-2793, N-2, N-10638, N-374*
 
 **A-2008.4** Baron Coleman commentary clip on WHCD media frenzy
 
@@ -306,7 +306,7 @@ Video Timestamp: 00:33:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2794, N-2, N-334, N-10637*
+*Related: C-2794, N-2, N-332, N-10637*
 
 **A-2008.5** Host on-air $10,000 bounty for opposite-side corridor footage of the Erika Kirk "I just want to go home" clip (verbal reference; no displayed artifact)
 
@@ -316,7 +316,7 @@ Video Timestamp: 00:32:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3745, N-2, N-376, N-10638*
+*Related: C-3745, N-2, N-374, N-10638*
 
 ## A-2009 Erika Kirk Pre-Recorded Statement Bundle
 
@@ -370,7 +370,7 @@ Video Timestamp: 00:43:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2800, N-265*
+*Related: C-2800, N-263*
 
 ## A-2011 Andrew Kolvet Text Message Bundle
 
@@ -414,7 +414,7 @@ Video Timestamp: 01:04:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2806, N-3, N-60, N-205, N-378, N-557*
+*Related: C-2806, N-3, N-60, N-203, N-376, N-555*
 
 **A-2012.4** AI-generated photo joke of Candace, Aubrey, and another figure on a scooter in Rome
 
@@ -424,7 +424,7 @@ Video Timestamp: 01:05:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (acknowledged as AI)
 
-*Related: C-2806, N-3, N-60, N-557*
+*Related: C-2806, N-3, N-60, N-555*
 
 ## A-2013 Candace Owens Prior Public Statements Bundle
 
@@ -475,7 +475,7 @@ Confidence Level: Medium (viewer comments)
 # Node Register
 
 
-**N-373** Evan Hill
+**N-371** Evan Hill
 
 Node Type: Person
 
@@ -490,7 +490,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-375** Cole Allen
+**N-373** Cole Allen
 
 Node Type: Person
 
@@ -505,7 +505,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-376** Sarah Sidner
+**N-374** Sarah Sidner
 
 Node Type: Person
 
@@ -520,7 +520,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-378** David Axelrod
+**N-376** David Axelrod
 
 Node Type: Person
 
@@ -555,7 +555,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2008.3, C-2793, N-2, N-376*
+*Related: A-2008.3, C-2793, N-2, N-374*
 
 **N-10639** Erika Kirk Pre-Recorded Statement Authorship and Authenticity
 
@@ -603,7 +603,7 @@ Investigative Pressure: High
 
 ---
 
-**N-132** Susie Wiles
+**N-131** Susie Wiles
 
 Node Type: Person
 White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings.
@@ -764,7 +764,7 @@ TPUSA spokesperson; the host discusses his WHCD account, the text screenshot and
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Blake Neff; the host says he wrote Erika's statement and gave an excuse for it.
 
@@ -772,7 +772,7 @@ Blake Neff; the host says he wrote Erika's statement and gave an excuse for it.
 
 ---
 
-**N-199** Lee Trotter
+**N-197** Lee Trotter
 
 Dr. Lee Trotter; the host says Erika put blame on him over the surgeon call.
 
@@ -788,7 +788,7 @@ Widow and TPUSA CEO; subject of the WHCD clip, pre-recorded statement and the ho
 
 ---
 
-**N-205** Nick Fuentes
+**N-203** Nick Fuentes
 
 Nick Fuentes; named in Loomer's Rome tweet, which the host denies.
 
@@ -804,7 +804,7 @@ Tucker Carlson; target of a Trump post the host links to Loomer's focus.
 
 ---
 
-**N-224** Milo Yiannopoulos
+**N-222** Milo Yiannopoulos
 
 Milo Yiannopoulos; named in Loomer's claim about the host's husband.
 
@@ -812,7 +812,7 @@ Milo Yiannopoulos; named in Loomer's claim about the host's husband.
 
 ---
 
-**N-282** Bari Weiss
+**N-280** Bari Weiss
 
 Bari Weiss; her interview with Erika Kirk is the date anchor for the December text.
 
@@ -820,7 +820,7 @@ Bari Weiss; her interview with Erika Kirk is the date anchor for the December te
 
 ---
 
-**N-284** Karoline Leavitt
+**N-282** Karoline Leavitt
 
 Karoline Leavitt; the host cites her stage conversation with Erika Kirk.
 
@@ -844,7 +844,7 @@ The host's husband; subject of Loomer's separation and Milo claims and of the Ro
 
 ---
 
-**N-334** Baron Coleman
+**N-332** Baron Coleman
 
 Baron Coleman; the host plays his commentary on Operation Erika Kirk and the widow grift.
 
@@ -852,7 +852,7 @@ Baron Coleman; the host plays his commentary on Operation Erika Kirk and the wid
 
 ---
 
-**N-345** Victor Marx
+**N-343** Victor Marx
 
 Victor Marx; the host says he has not replied to her message.
 
@@ -860,7 +860,7 @@ Victor Marx; the host says he has not replied to her message.
 
 ---
 
-**N-346** Corby Hall
+**N-344** Corby Hall
 
 Corby Hall; subject of a recently pre-recorded episode and a viewer comment.
 
@@ -868,7 +868,7 @@ Corby Hall; subject of a recently pre-recorded episode and a viewer comment.
 
 ---
 
-**N-383** Emmanuel Macron
+**N-381** Emmanuel Macron
 
 Emmanuel Macron; named in a Loomer tweet the host reads.
 
@@ -876,7 +876,7 @@ Emmanuel Macron; named in a Loomer tweet the host reads.
 
 ---
 
-**N-426** Pope Leo XIV
+**N-424** Pope Leo XIV
 
 Pope Leo XIV; the host says she did not meet him.
 
@@ -900,7 +900,7 @@ Donald Trump; his Truth Social post about the host and the WHCD are discussed.
 
 ---
 
-**N-557** Aubrey Lech
+**N-555** Aubrey Lech
 
 Aubrey Lech; the host says she spoke with her after the firing and denies seeing her in Rome.
 
@@ -916,7 +916,7 @@ Laura Loomer; the host alleges she drove the Trump post and cites her tweets and
 
 ---
 
-**N-602** Druski
+**N-600** Druski
 
 Druski; named by Erika Kirk in her statement.
 
@@ -940,7 +940,7 @@ Brigitte Macron; named in Trump's earlier comments and Loomer's trust and lawsui
 
 ---
 
-**N-821** Dan Scavino
+**N-819** Dan Scavino
 
 First named by the host at 00:23:21 in episode 096, as the person who sent Trump's tweets during his first term.
 
@@ -948,7 +948,7 @@ First named by the host at 00:23:21 in episode 096, as the person who sent Trump
 
 ---
 
-**N-822** Natalie Harp
+**N-820** Natalie Harp
 
 First named by the host at 00:23:21 in episode 096, as the person widely reported to send Trump's Truth Social posts.
 
@@ -976,7 +976,7 @@ Claim Timestamp: 00:29:53
 Claim: The Washington Post reported surveillance footage shows the moment Secret Service officers fired at the WHCD suspect, Cole Allen.
 
 Anchored Artifacts: A-2008.1
-Mentions: N-375
+Mentions: N-373
 Related Nodes: N-10637
 Investigative Direction: Pull the Washington Post article directly; review surveillance footage; verify Secret Service statements.
 
@@ -987,7 +987,7 @@ Claim Timestamp: 00:29:53
 Claim: Investigative reporter Evan Hill reported on X that a review of surveillance footage found no indication that Cole Allen fired his weapon at the WHCD incident.
 
 Anchored Artifacts: A-2008.2
-Mentions: N-373, N-375
+Mentions: N-371, N-373
 Related Nodes: N-10637
 Investigative Direction: Pull Evan Hill's X post directly; verify Washington Post's review of footage; cross-reference with official statements.
 
@@ -998,7 +998,7 @@ Claim Timestamp: 00:31:35
 Claim: The original public clip of Erika Kirk's "I just want to go home" remark was first shared by CNN's Sarah Sidner.
 
 Anchored Artifacts: A-2008.3
-Mentions: N-2, N-376
+Mentions: N-2, N-374
 Related Nodes: N-10638
 Investigative Direction: Confirm via Sidner's public posts or CNN's records; the host could not confirm Sidner personally recorded the clip.
 
@@ -1011,7 +1011,7 @@ Claim: After saying she could not confirm that Sarah Sidner shot the Erika Kirk 
 Transcript Snippet: I will offer $10,000 to somebody who has the opposite side footage.
 
 Anchored Artifacts: A-2008.5
-Mentions: N-3, N-2, N-376
+Mentions: N-3, N-2, N-374
 Related Nodes: N-10638
 Investigative Direction: Track bounty submissions received through candaceowens.com; compare any opposite-side footage against the Sidner clip to identify the original recorder (N-10638).
 
@@ -1022,7 +1022,7 @@ Claim Timestamp: 00:33:09
 Claim: In a clip the host plays, Baron Coleman comments on the WHCD media coverage, saying Erika Kirk and the ballroom announcement became the focal points of the event; the host agrees.
 
 Anchored Artifacts: A-2008.4
-Mentions: N-2, N-334
+Mentions: N-2, N-332
 Related Nodes: N-10637
 Investigative Direction: Pull Baron Coleman's clip or post directly for full context.
 
@@ -1088,7 +1088,7 @@ Claim Timestamp: 00:43:54
 Claim: The host says Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds (she also says not even a minute) of the incident; in a clip she plays, he says "They just shot Charlie."
 
 Anchored Artifacts: A-2010.1
-Mentions: N-265, N-1
+Mentions: N-263, N-1
 Investigative Direction: Review the Farnsworth video; verify timestamp and original upload context; cross-reference with other scene footage.
 
 **C-2801** Andrew Kolvet presented a text message screenshot
@@ -1120,7 +1120,7 @@ Claim Timestamp: 00:52:52
 Claim: Candace stated the text was sent in December 2025 in response to questions about planned questions for an upcoming meeting with Erika Kirk, framed as a joke referencing the Bari Weiss/Ben Shapiro framing that any question to Erika equaled accusing her of murder.
 
 Anchored Artifacts: A-2011.1
-Mentions: N-2, N-3, N-14, N-282, N-97
+Mentions: N-2, N-3, N-14, N-280, N-97
 Related Nodes: N-10641
 Investigative Direction: Verify the timeline of the meeting and the text; obtain the full chain; verify the Bari Weiss/Ben Shapiro framing.
 
@@ -1151,7 +1151,7 @@ Claim Timestamp: 01:04:56
 Claim: Laura Loomer tweeted that Candace Owens, Nick Fuentes, and Aubrey Laitsch converged in Rome for a "secret anti-Trump summit," with implied funding from Qatar.
 
 Anchored Artifacts: A-2012.3, A-2012.4
-Mentions: N-3, N-60, N-205, N-378, N-557
+Mentions: N-3, N-60, N-203, N-376, N-555
 Investigative Direction: Verify the tweet; cross-reference against actual attendees in Rome during the relevant dates.
 
 **C-2807** Candace traveled to Rome with her family for confirmation
@@ -1442,7 +1442,7 @@ Claim: The host says she is told that White House chief of staff Susie Wiles was
 Transcript Snippet: I am told specifically that Susie Wiles was staunchly opposed to credit to Susie Wiles.
 
 Anchored Artifacts:
-Mentions: N-132, N-3, N-60
+Mentions: N-131, N-3, N-60
 Related Nodes: N-10640
 Tags: relevance:core
 Investigative Direction: Identify the host's source and seek confirmation from White House staff.
@@ -1506,7 +1506,7 @@ Claim: The host says Trump has never pushed send on his own tweets, that this wa
 Transcript Snippet: Trump, who has never, by the way, pushed send on his own tweets, that was the job initially of Dan Scavino during his first term.
 
 Anchored Artifacts:
-Mentions: N-5, N-821, N-822
+Mentions: N-5, N-819, N-820
 Related Nodes: N-10640
 Tags: relevance:context
 Investigative Direction: Identify who operates the Truth Social account (reporting on Harp and Scavino) and who posted the April 2026 message.
@@ -1522,7 +1522,7 @@ Claim: The host says a man stormed a security checkpoint at the White House Corr
 Transcript Snippet: a man stormed a security check at the White House Correspondents Dinner, and then Secret Service agents, and only Secret Service agents began firing their weapons.
 
 Anchored Artifacts: A-2008.1, A-2008.2
-Mentions: N-375
+Mentions: N-373
 Related Nodes: N-10637
 Supports: C-2792
 Tags: relevance:core
@@ -1571,7 +1571,7 @@ Claim: Baron Coleman, in a clip played by the host, says Erika Kirk happened to 
 Transcript Snippet: I just want to go home, and she just happened to say that right as she crossed the only camera that captured her leaving.
 
 Anchored Artifacts: A-2008.4
-Mentions: N-334, N-2
+Mentions: N-332, N-2
 Related Nodes: N-10637, N-10638
 Supports: C-2794
 Tags: relevance:core
@@ -1686,7 +1686,7 @@ Claim: The host says Erika Kirk sat down with Karoline Leavitt on stage at a Tur
 Transcript Snippet: when she sat down with Karoline Leavitt on stage at Turning Point event, she says that she doesn't like she didn't read the headlines, she doesn't care
 
 Anchored Artifacts: A-2965.1
-Mentions: N-2, N-284
+Mentions: N-2, N-282
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain video of the Leavitt and Erika Kirk stage conversation and compare statements.
@@ -1718,7 +1718,7 @@ Claim: The host says Erika Kirk name-dropped Druski and the host near the end of
 Transcript Snippet: she name-dropped Drewski and she name-dropped me
 
 Anchored Artifacts: A-2009.4
-Mentions: N-2, N-602, N-3
+Mentions: N-2, N-600, N-3
 Related Nodes: N-10639
 Tags: relevance:context
 Investigative Direction: Review the full statement transcript for the Druski reference.
@@ -1734,7 +1734,7 @@ Claim: The host says it is giving Blake Neff wrote Erika Kirk's statement and th
 Transcript Snippet: this is why she's got to stop working with Blake Neff. It's giving Blakey Neff wrote it.
 
 Anchored Artifacts: A-2009.1
-Mentions: N-162, N-2, N-3
+Mentions: N-161, N-2, N-3
 Related Nodes: N-10639
 Tags: relevance:core
 Investigative Direction: Identify who drafted the statement through script files, metadata or staff accounts.
@@ -1784,7 +1784,7 @@ Claim: The host says Blake Neff argued that Candace did not say Erika murdered h
 Transcript Snippet: Blake Neff came out and said, "Well, Candace didn't say it, but she implied it."
 
 Anchored Artifacts: A-2966.1
-Mentions: N-162, N-3, N-2
+Mentions: N-161, N-3, N-2
 Related Nodes: N-10647
 Tags: relevance:core
 Investigative Direction: Locate Blake Neff's post making this argument.
@@ -1833,7 +1833,7 @@ Claim: The host says the text was sent during the week Erika Kirk was going vira
 Transcript Snippet: this was during the week where Erika was going viral for her interview with Bari Weiss for a number of very funny reasons
 
 Anchored Artifacts: A-2011.1
-Mentions: N-2, N-282, N-3
+Mentions: N-2, N-280, N-3
 Related Nodes: N-10349, N-10641
 Supports: C-2803
 Tags: relevance:core
@@ -1867,7 +1867,7 @@ Claim: The host says she has had many conversations with Aubrey Lech after Lech'
 Transcript Snippet: I've had many conversations with her, but nothing was leaked to me about their that I presented on this show about anything that was going on internal.
 
 Anchored Artifacts:
-Mentions: N-557, N-3, N-14
+Mentions: N-555, N-3, N-14
 Related Nodes: N-10552
 Tags: relevance:core
 Investigative Direction: Aubrey Lech's own account, and a comparison of the host's reporting against what Lech could have known.
@@ -1999,7 +1999,7 @@ Claim: In a clip of his show played by the host, Baron Coleman says no religious
 Transcript Snippet: There's no requirement I support her as the head of TPUSA. There's no prohibition on me criticizing her for documented falsehoods.
 
 Anchored Artifacts: A-2962.1
-Mentions: N-334, N-2, N-14, N-162
+Mentions: N-332, N-2, N-14, N-161
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Obtain the Coleman clip and the list of falsehoods he regards as documented.
@@ -2015,7 +2015,7 @@ Claim: The host says TPUSA figures cannot get on board with the same messaging, 
 Transcript Snippet: you can't get on board with the same messaging. Blake Neff already gave a different excuse.
 
 Anchored Artifacts: A-2966.1
-Mentions: N-162, N-14, N-3
+Mentions: N-161, N-14, N-3
 Related Nodes: N-10647
 Supports: C-8791
 Tags: relevance:core
@@ -2032,7 +2032,7 @@ Claim: The host says Erika Kirk claimed she was not on the phone during the thre
 Transcript Snippet: to claim that you weren't on the phone when you were, and you facilitated that entire conversation.
 
 Anchored Artifacts:
-Mentions: N-2, N-199, N-3
+Mentions: N-2, N-197, N-3
 Related Nodes: N-10447, N-10358
 Supports: C-5562
 Tags: relevance:core
@@ -2064,7 +2064,7 @@ Claim: The host says Laura Loomer claimed George Farmer was in a secret gay rela
 Transcript Snippet: Then it was George is in a secret gay relationship with Milo.
 
 Anchored Artifacts:
-Mentions: N-60, N-30, N-224, N-3
+Mentions: N-60, N-30, N-222, N-3
 Tags: relevance:context
 Investigative Direction: Loomer's original post and the image used.
 
@@ -2079,7 +2079,7 @@ Claim: The host says George Farmer had never met Milo at all, not once in London
 Transcript Snippet: George had never even met Milo at all, not once in London, until the day that I interviewed him here in this house.
 
 Anchored Artifacts:
-Mentions: N-30, N-224, N-3
+Mentions: N-30, N-222, N-3
 Tags: relevance:context
 Investigative Direction: Date of the host's interview with Milo Yiannopoulos and testimony from Farmer or Yiannopoulos.
 
@@ -2094,7 +2094,7 @@ Claim: The host reads a Loomer tweet saying Loomer reported the host's lawyer dr
 Transcript Snippet: I reported her Zionist Jewish lawyer dropping her ahead of an important deadline in her lawsuit with the Macrons next week.
 
 Anchored Artifacts: A-2963.1
-Mentions: N-60, N-3, N-82, N-383
+Mentions: N-60, N-3, N-82, N-381
 Related Nodes: N-10270
 Tags: relevance:context
 Investigative Direction: Court docket for the Macron suit showing any withdrawal of counsel and Loomer's original post.
@@ -2126,7 +2126,7 @@ Claim: The host says Aubrey Lech posted an obvious AI photo joke saying "Happy b
 Transcript Snippet: An obvious AI photo joke from Aubrey saying, "Happy birthday, Candace."
 
 Anchored Artifacts: A-2012.4
-Mentions: N-557, N-3
+Mentions: N-555, N-3
 Tags: relevance:context
 Investigative Direction: Aubrey Lech's original post.
 
@@ -2157,7 +2157,7 @@ Claim: The host says she did not see Aubrey Lech, Nick Fuentes or David Axelrod 
 Transcript Snippet: No, I did not see Aubrey. I did not see Nick Fuentes. I did not see David Axelrod.
 
 Anchored Artifacts: A-2012.3
-Mentions: N-557, N-205, N-378, N-3
+Mentions: N-555, N-203, N-376, N-3
 Contradicts: C-2806
 Tags: relevance:context
 Investigative Direction: Travel records or statements from the three named people.
@@ -2188,7 +2188,7 @@ Claim: The host says the Corby Hall episode was pre-recorded to cover Thursday w
 Transcript Snippet: we recorded the Corby Hall episode because we were trying to cover for Thursday
 
 Anchored Artifacts:
-Mentions: N-346, N-3
+Mentions: N-344, N-3
 Related Nodes: N-10613
 Tags: relevance:context
 Investigative Direction: Compare the recording date of the Corby Hall episode with the host's travel dates.
@@ -2204,7 +2204,7 @@ Claim: The host reads a viewer comment saying Corby Hall, though broke, turned d
 Transcript Snippet: he gets an offer to sell 50,000 guns and he turns it down on principle.
 
 Anchored Artifacts: A-2014.1
-Mentions: N-346, N-345
+Mentions: N-344, N-343
 Related Nodes: N-10601
 Tags: relevance:context
 Investigative Direction: The Corby Hall episode and any correspondence about the 50,000-gun offer.
@@ -2220,7 +2220,7 @@ Claim: The host says Victor Marx has been posting videos but never replied to he
 Transcript Snippet: He never replied uh to my Instagram at all and I followed up
 
 Anchored Artifacts:
-Mentions: N-345, N-3
+Mentions: N-343, N-3
 Related Nodes: N-10613
 Tags: relevance:context
 Investigative Direction: The host's Instagram messages and Marx's response, if any.
@@ -2252,7 +2252,7 @@ Claim: The host says she did not meet the Pope and only toured the Vatican with 
 Transcript Snippet: I did not meet the Pope.
 
 Anchored Artifacts:
-Mentions: N-3, N-426
+Mentions: N-3, N-424
 Tags: relevance:context
 Investigative Direction: Public schedule of Pope Leo XIV audiences versus the host's travel dates.
 
@@ -2279,7 +2279,7 @@ Investigative Direction: Public schedule of Pope Leo XIV audiences versus the ho
 
 # Optional Flags
 
-- **Name uncertainty**: "Karoline Leavitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-284).
+- **Name uncertainty**: "Karoline Leavitt" appears in transcript at ~41:21; likely refers to White House Press Secretary Karoline Leavitt (N-282).
 - **Possible transcription error**: "Cole Allen" appears as the WHCD suspect name; verify spelling against official arrest records and court filings.
 - **Transcript ambiguity**: "Drewski" is name-dropped by Erika Kirk in the pre-recorded statement (~47:25); identity and relevance not clarified in the episode.
 - **Requires human verification**: Sarah Sidner's role as original recorder of the Erika Kirk clip (host explicitly states she could not confirm via Instagram, Twitter, or text outreach).

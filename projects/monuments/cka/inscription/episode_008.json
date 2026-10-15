@@ -396,11 +396,11 @@
           "related_nodes": [
             "N-1",
             "N-14",
-            "N-102"
+            "N-101"
           ],
           "tags": [],
           "video_timestamp": "00:34:07–00:34:23",
-          "transcript_snippet": "You can go check the videos out him debating with uh Michael Nolles, you know,",
+          "transcript_snippet": "You can go check the videos out him debating with uh Michael Knowles, you know,",
           "confidence": "medium"
         }
       ]
@@ -785,8 +785,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-101",
-      "ref": "N-101",
+      "@id": "N-68",
+      "ref": "N-68",
       "name": "Charlie Skyler",
       "type": "person",
       "description": "Production team member referenced while pulling the timeline graphic on screen.",
@@ -822,8 +822,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-101",
+      "ref": "N-101",
       "name": "Michael Knowles",
       "type": "person",
       "description": "Catholic debate partner of Charlie Kirk referenced by Kolvet.",
@@ -861,8 +861,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-103",
-      "ref": "N-103",
+      "@id": "N-102",
+      "ref": "N-102",
       "name": "Chris",
       "type": "person",
       "description": "Commenter asking who paid for the rapid crime-scene paver installation.",
@@ -878,8 +878,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-104",
-      "ref": "N-104",
+      "@id": "N-103",
+      "ref": "N-103",
       "name": "MC",
       "type": "person",
       "description": "Commenter quoting police scanner description (jeans, black shirt, mask, vest, rifle).",
@@ -1401,8 +1401,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-241",
-      "ref": "N-241",
+      "@id": "N-239",
+      "ref": "N-239",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Person: relayed by Barker's text as saying Charlie was stable.",
@@ -1702,7 +1702,7 @@
       "@id": "C-1245",
       "ref": "C-1245",
       "label": "GMA reached Tiffany Barker via Phil Lyman political channel",
-      "claim": "Tiffany Barker told host that GMA's outreach to her came through Phil Lyman, with whom her sister ran as lieutenant governor.",
+      "claim": "The host says Tiffany Barker intimated that Good Morning America's outreach was a political connection: her sister ran as lieutenant governor alongside Phil Lyman, and GMA reached out to Phil Lyman and somehow ended up with her sister's children and her.",
       "anchored_artifacts": [
         "A-1146.1"
       ],
@@ -1717,9 +1717,9 @@
       "transcript_snippet": "her sister ran as lieutenant governor alongside Phil Lyman... Good Morning America reached out to Phil Lyman",
       "confidence": "medium",
       "mentions_person_refs": [
+        "N-3",
         "N-61",
-        "N-75",
-        "N-101"
+        "N-75"
       ]
     },
     {
@@ -1727,7 +1727,7 @@
       "@id": "C-1246",
       "ref": "C-1246",
       "label": "Children described Charlie's artery wound on GMA",
-      "claim": "Nieces L Steel and Mia Grant told GMA they saw the shot hit Charlie's artery.",
+      "claim": "In the Good Morning America clip the host plays, L Steel says she saw blood everywhere and that it hit his artery, and Mia Grant says they were about 15 feet away and she thought the shot was a firecracker.",
       "anchored_artifacts": [
         "A-1146.1"
       ],
@@ -1737,14 +1737,14 @@
       "tags": [
         "open_source_investigation"
       ],
-      "claim_timestamp": "00:05:18",
+      "claim_timestamp": "00:04:35",
       "investigative_direction": "Compare the children's GMA statements against the video metadata and any device footage.",
       "transcript_snippet": "I saw blood everywhere and it hit his artery and then I just we fell to the ground",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-75",
         "N-76",
-        "N-77"
+        "N-77",
+        "N-1"
       ]
     },
     {
@@ -1752,7 +1752,7 @@
       "@id": "C-1247",
       "ref": "C-1247",
       "label": "Tiffany Barker Says Artery Detail Came from Car Conversation, Not Observation",
-      "claim": "In a follow-up video the host plays, Tiffany Barker says the 'artery' detail was her own remark to the children during a roughly hour-and-a-half car conversation after the shooting, not something the children saw.",
+      "claim": "In a follow-up video the host plays, Tiffany Barker says the children saw how much Charlie bled and asked why, and she told them during a roughly hour-and-a-half car wait after the shooting, \"There's an artery here. Maybe they hit an artery,\" adding \"I didn't know.\"",
       "anchored_artifacts": [
         "A-1147.1"
       ],
@@ -1774,7 +1774,7 @@
       "@type": "Claim",
       "@id": "C-1248",
       "ref": "C-1248",
-      "label": "George Zinn arrested ~1:48 after Charlie's SUV departs, same location",
+      "label": "George Zinn Arrested ~1:48 After Shot Near Where Charlie's SUV Departed",
       "claim": "Per the host's timeline, ~40 seconds from shot to SUV departure and ~1:08 later George Zinn is in handcuffs in the same SUV zone.",
       "anchored_artifacts": [
         "A-1148.1",
@@ -1888,7 +1888,7 @@
       "@id": "C-1253",
       "ref": "C-1253",
       "label": "Eyewitness tells FBI shooter was in tactical gear, not jeans",
-      "claim": "Per the rooftop videographer, he told authorities within hours that the shooter was in tactical gear and a face mask, contradicting the later public description.",
+      "claim": "Per the rooftop videographer as relayed by the host, he told authorities the shooter was in tactical gear and a face mask, not the jeans in the description the public received less than 24 hours later.",
       "anchored_artifacts": [
         "A-1154.1"
       ],
@@ -1916,7 +1916,7 @@
       "@id": "C-1254",
       "ref": "C-1254",
       "label": "Eyewitness says rifle was smaller than reported",
-      "claim": "The eyewitness texted the host that the weapon sounded like a smaller rifle, not a hunting rifle, and likely used a 10 or 20-round magazine.",
+      "claim": "The eyewitness texted the host that the sharp crack and shorter rifle platform suggested a smaller rifle, not a big hunting rifle, and that the assassin may have used a 10 or 20-round magazine.",
       "anchored_artifacts": [
         "A-1154.1"
       ],
@@ -1938,7 +1938,7 @@
       "@id": "C-1255",
       "ref": "C-1255",
       "label": "Kolvet denies Charlie was converting to Catholicism",
-      "claim": "Andrew Kolvet told Alex Clark that Charlie was not converting; he loved Catholic mass but remained Protestant.",
+      "claim": "In a clip the host plays, Andrew Kolvet tells Alex Clark that Charlie was not becoming Catholic but really loved Catholic mass.",
       "anchored_artifacts": [
         "A-1151.1"
       ],
@@ -1952,7 +1952,6 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
         "N-14",
         "N-99"
       ]
@@ -1976,9 +1975,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-1",
-        "N-14",
-        "N-37",
-        "N-98"
+        "N-14"
       ]
     },
     {
@@ -1986,7 +1983,7 @@
       "@id": "C-1257",
       "ref": "C-1257",
       "label": "SD cards removed by TPUSA affiliate to prevent theft/loss",
-      "claim": "Kolvet says SD cards were pulled from on-scene cameras to preserve evidence from being stolen during the chaos, not to suppress footage.",
+      "claim": "In a clip the host plays, Kolvet says he thinks the team took the SD cards because, even in the shock, they understood the cameras would be evidence and wanted to keep them from being stolen, so law enforcement could get them.",
       "anchored_artifacts": [
         "A-1151.3"
       ],
@@ -2073,8 +2070,8 @@
       "@type": "Claim",
       "@id": "C-1261",
       "ref": "C-1261",
-      "label": "Erika's father is the Lt. Gov. candidate alongside Phil Lyman",
-      "claim": "Host states Tiffany Barker's sister ran as lieutenant governor alongside Phil Lyman.",
+      "label": "Tiffany Barker's Sister Ran for Lt. Gov. With Phil Lyman",
+      "claim": "Host says Tiffany Barker told her that her sister ran as lieutenant governor alongside Phil Lyman.",
       "anchored_artifacts": [
         "A-1146.1"
       ],
@@ -2115,7 +2112,7 @@
       "@type": "Claim",
       "@id": "C-1263",
       "ref": "C-1263",
-      "label": "Crime scene paver installation was paid for by an unknown party",
+      "label": "Commenter Asks Who Paid for Crime Scene Pavers",
       "claim": "Commenter Chris asks who paid for the rapid paver installation at the crime scene; host flags it as an open path to pursue.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2128,7 +2125,7 @@
       "transcript_snippet": "Do we know who paid for the crime scene demolition, the pavers that were so quickly put down?",
       "confidence": "low",
       "mentions_person_refs": [
-        "N-103"
+        "N-102"
       ]
     },
     {
@@ -2148,7 +2145,7 @@
       "transcript_snippet": "they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest carrying a long rifle",
       "confidence": "low",
       "mentions_person_refs": [
-        "N-104"
+        "N-103"
       ]
     },
     {
@@ -2166,7 +2163,9 @@
       "investigative_direction": "Locate the high-resolution footage and clothing item Charlie was wearing to confirm.",
       "transcript_snippet": "no, Charlie was not wearing an earpiece",
       "confidence": "low",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -2183,14 +2182,16 @@
       "investigative_direction": "Identify and interview the prior vest provider; review any supplier/contract documentation.",
       "transcript_snippet": "he was not wearing a bulletproof vest",
       "confidence": "low",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3641",
       "ref": "C-3641",
       "label": "Host jokes that Trump may be watching the show in a CIA hat",
-      "claim": "Reacting to Trump calling vaccine ingredients poison, the host jokes that Trump may have signed up to candace.com and is \"wearing um a CIA hat and watching,\" a passing reference to the show's CIA hat rather than a merch plug.",
+      "claim": "Reacting to Trump calling vaccine ingredients poison, the host jokes that Trump may have signed up to candace.com and is \"wearing um a CIA hat and watching.\"",
       "anchored_artifacts": [
         "A-2485.1"
       ],
@@ -2210,7 +2211,7 @@
       "@id": "C-3727",
       "ref": "C-3727",
       "label": "Kolvet: Charlie Kirk debated Michael Knowles on Protestant versus Catholic theology",
-      "claim": "Andrew Kolvet, in the Alex Clark interview clip played on air (cued at 32:43 as \"Andrew's response to the Catholic question\"), says Charlie Kirk debated Michael Knowles (transcript: \"Michael Nolles\") in good fun on Protestant versus Catholic theology and that they were dear friends.",
+      "claim": "Andrew Kolvet, in the Alex Clark interview clip played on air (cued at 32:43 as \"Andrew's response to the Catholic question\"), says Charlie Kirk debated Michael Knowles (transcript: \"Michael Knowles\") in good fun on Protestant versus Catholic theology and that they were dear friends.",
       "anchored_artifacts": [
         "A-2518.1"
       ],
@@ -2218,12 +2219,12 @@
       "tags": [],
       "claim_timestamp": "00:34:12",
       "investigative_direction": "Locate the Charlie Kirk and Michael Knowles debate videos.",
-      "transcript_snippet": "You can go check the videos out him debating with uh Michael Nolles, you know,",
+      "transcript_snippet": "You can go check the videos out him debating with uh Michael Knowles, you know,",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-1",
         "N-14",
-        "N-102",
+        "N-101",
         "N-99"
       ]
     },
@@ -2383,7 +2384,7 @@
       "transcript_snippet": "\"Glenn Beck said he's stable.\"",
       "mentions_person_refs": [
         "N-75",
-        "N-241",
+        "N-239",
         "N-1"
       ]
     },
@@ -2760,7 +2761,7 @@
       "@id": "C-12022",
       "ref": "C-12022",
       "label": "Host Says Alex Clark Teased Answers on Catholicism, the $150 Million and SD Cards",
-      "claim": "The host says Alex Clark teased that viewers would get unfiltered answers to burning questions such as whether Charlie was converting to Catholicism, whether he took $150 million from Israel, and the SD cards, and that she never said the first two.",
+      "claim": "The host says Alex Clark teased unfiltered answers to burning questions such as whether Charlie was converting to Catholicism and whether he took $150 million from Israel, says she has no idea who said the first and that the second is not something said on her show, and adds that they are also going to address the SD cards.",
       "anchored_artifacts": [
         "A-3178.1"
       ],
@@ -2778,8 +2779,7 @@
       "transcript_snippet": "Uh she teased that, you know, that you were going to get unfiltered answers to burning questions like quote,",
       "mentions_person_refs": [
         "N-3",
-        "N-99",
-        "N-2"
+        "N-99"
       ]
     },
     {
@@ -2793,7 +2793,7 @@
         "N-10104"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:31:35",
       "investigative_direction": "Collect Erika's and Charlie's posts or photos from Mass and statements from their priest.",
@@ -2968,7 +2968,7 @@
         "N-10105"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:35:52",
       "investigative_direction": "Trace where the $150 million figure first appeared in connection with an offer to Charlie.",
@@ -2991,7 +2991,7 @@
         "N-10105"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:36:00",
       "investigative_direction": "Obtain the host's source documentation for the 150 million expenditure and its recipients.",
@@ -3079,8 +3079,8 @@
       "@type": "Claim",
       "@id": "C-12035",
       "ref": "C-12035",
-      "label": "Host Says Foreign Agents for Israel Gave Money to TPUSA and Names Ackman and Shulman as Possible Donors",
-      "claim": "The host says she knows for a fact that foreign agents working on behalf of Israel gave money to Turning Point and raises whether it was Bill Ackman, Bob Shillman (transcribed Bob Shillman) or other big donors.",
+      "label": "Host Says Foreign Agents for Israel Gave Money to TPUSA and Names Ackman and Shillman as Possible Donors",
+      "claim": "The host says she knows for a fact that foreign agents working on behalf of Israel gave money to Turning Point and raises whether it was Bill Ackman, Bob Shillman or other big donors.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -3246,7 +3246,6 @@
       "investigative_direction": "Check AmFest 2025 speaker lineup history and any announcements about Tucker Carlson.",
       "transcript_snippet": "It's like, well, maybe Tucker's going to give two speeches now at Empest. And that is the truth.",
       "mentions_person_refs": [
-        "N-14",
         "N-1",
         "N-22"
       ]
@@ -3281,7 +3280,7 @@
       "@id": "C-12043",
       "ref": "C-12043",
       "label": "Host Says Charlie Planned to Bring Candace Back After Donors Bullied the Ending",
-      "claim": "The host says Charlie was telling people he would bring Candace back, saying the donors kind of bullied this ending.",
+      "claim": "The host says Charlie was telling people he was digging his heels in further and saying he would bring Candace back, and that 'you guys kind of bullied this ending'.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10106"
@@ -3391,7 +3390,7 @@
       "@id": "C-12048",
       "ref": "C-12048",
       "label": "Trump Says the Chickenpox Shot Is Already Separate Because Mixing It Went Badly",
-      "claim": "In the audio, Trump says chickenpox is already separate because when it was mixed in, to make a four-in-one for a while, it was really bad.",
+      "claim": "In the audio, Trump says chickenpox is already separate because when it got mixed in, 'I guess they made it four for a while', it really was bad.",
       "anchored_artifacts": [
         "A-1153.1"
       ],

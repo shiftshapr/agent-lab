@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: e1354996fe0dca09feb5fcf6281cba63b17e90513ca05526f293f355bf11437c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-868, N-11257
+  - Tip-minted Nodes (supplement_2026-10d): N-866, N-11257
   - Hole-minted Nodes (reintro-ep086): N-10581, N-10624, N-10711
   - Tip-minted Nodes (reintro-ep086): N-10975, N-11055, N-11068
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10299–C-10353
   - New Nodes Introduced: N-10569, N-10570
-  - Reused Nodes Appearing: N-10085, N-1, N-10573, N-6, N-15, N-22, N-30, N-36, N-199, N-265, N-270, N-334, N-605, N-10000, N-10006, N-10012, N-10014, N-10039, N-10100, N-10110, N-10162, N-10201, N-10300, N-10346, N-10360, N-10389, N-10447, N-10539, N-10621, N-10770, N-10797, N-11054, N-11149, N-424, N-682, N-784, N-10571, N-10572, N-11256
+  - Reused Nodes Appearing: N-10085, N-1, N-10573, N-6, N-15, N-22, N-30, N-36, N-197, N-263, N-268, N-332, N-603, N-10000, N-10006, N-10012, N-10014, N-10039, N-10100, N-10110, N-10162, N-10201, N-10300, N-10346, N-10360, N-10389, N-10447, N-10539, N-10621, N-10770, N-10797, N-11054, N-11149, N-422, N-680, N-782, N-10571, N-10572, N-11256
   - (see registers)
 
 ## I. Meta-Data
@@ -377,7 +377,7 @@ Benjamin Netanyahu; named in the host's account of Tucker Carlson's remarks.
 
 ---
 
-**N-605** Katherine Locastro
+**N-603** Katherine Locastro
 
 Katherine Locastro (transcribed Katherine Low Castro); named as a passenger on Erika's July 14 flight.
 
@@ -401,7 +401,7 @@ Federal Bureau of Investigation; alleged to have been calling TPUSA about the fo
 
 ---
 
-**N-424** Derek Niekerk
+**N-422** Derek Niekerk
 
 Derek Niekerk; named as a passenger on Erika's July 14 flight.
 
@@ -409,7 +409,7 @@ Derek Niekerk; named as a passenger on Erika's July 14 flight.
 
 ---
 
-**N-334** Baron Coleman
+**N-332** Baron Coleman
 
 Baron Coleman; cited for his explanation that the people involved are tied to each other.
 
@@ -425,7 +425,7 @@ Missing Text Message Timestamps; reused for the PDF text messages the defense sa
 
 ---
 
-**N-265** Terrell Farnsworth
+**N-263** Terrell Farnsworth
 
 Terrell Farnsworth (transcribed Tarro); AV contractor who removed the SD card and later showed the host the back footage.
 
@@ -433,7 +433,7 @@ Terrell Farnsworth (transcribed Tarro); AV contractor who removed the SD card an
 
 ---
 
-**N-270** Brian Harpole
+**N-268** Brian Harpole
 
 Brian Harpole; cited for his later account of where the bullet fragmented.
 
@@ -441,7 +441,7 @@ Brian Harpole; cited for his later account of where the bullet fragmented.
 
 ---
 
-**N-682** Jonathan Barcelo
+**N-680** Jonathan Barcelo
 
 Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14 flight.
 
@@ -449,7 +449,7 @@ Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14
 
 ---
 
-**N-784** Matt Robinson
+**N-782** Matt Robinson
 
 Matt Robinson; Tyler Robinson's father, expected to testify about the gun.
 
@@ -457,7 +457,7 @@ Matt Robinson; Tyler Robinson's father, expected to testify about the gun.
 
 ---
 
-**N-199** Lee Trotter
+**N-197** Lee Trotter
 
 Dr. Lee Trotter; the surgeon whose call with Erika and Kolvet is disputed.
 
@@ -633,7 +633,7 @@ Tyler Robinson Preliminary Hearing and Motion to Dismiss; reused for the continu
 
 ---
 
-**N-868** Frank Carney
+**N-866** Frank Carney
 
 First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.
 
@@ -947,7 +947,7 @@ Claim: The host says that about four minutes after Charlie Kirk was carried to t
 Transcript Snippet: He returns to the crime scene and violates it. More specifically, he grabs the very chair that Charlie Kirk had just been sitting in
 
 Anchored Artifacts: 
-Mentions: N-265, N-1
+Mentions: N-263, N-1
 Related Nodes: N-10100, N-10162
 Supports: C-6475
 Tags: relevance:core
@@ -964,7 +964,7 @@ Claim: The host says Farnsworth runs the audio-visual company Turning Point empl
 Transcript Snippet: the man who runs the audio-visual company that Turning Point employs, maybe you've used them for over a decade for their big events, and he's never goes to these college events
 
 Anchored Artifacts: 
-Mentions: N-265
+Mentions: N-263
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Obtain TPUSA vendor contracts and prior event staffing records for the AV company.
@@ -980,7 +980,7 @@ Claim: The host says Andrew Kolvet later explained that Farnsworth acted heroica
 Transcript Snippet: Yeah, we we know Andrew Kolvats lying because Tarro did not take the expensive camera.
 
 Anchored Artifacts: 
-Mentions: N-14, N-265
+Mentions: N-14, N-263
 Related Nodes: N-10346, N-10100
 Supports: C-6480
 Tags: relevance:core
@@ -997,7 +997,7 @@ Claim: The host says she decided on September 17, exactly one week after the ass
 Transcript Snippet: I decided on September 17th, exactly 1 week after Charlie's assassination, to reach to reach out to him. I called him.
 
 Anchored Artifacts: 
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain the host's call log and any recording or notes of the September 17 call.
@@ -1013,7 +1013,7 @@ Claim: The host says Farnsworth was exceedingly nervous, stammered through nonse
 Transcript Snippet: I wanted to secure the footage for Erika so that uh she wouldn't have to see the footage of Charlie being shot in 4K
 
 Anchored Artifacts: 
-Mentions: N-265, N-2, N-1
+Mentions: N-263, N-2, N-1
 Related Nodes: N-10346
 Tags: relevance:core
 Investigative Direction: Ask Farnsworth to state under oath why he chose that camera and what instruction he acted on.
@@ -1029,7 +1029,7 @@ Claim: The host says that once she saw the footage from the camera behind Charli
 Transcript Snippet: once I actually saw the footage, it had no blood.
 
 Anchored Artifacts: 
-Mentions: N-1, N-265
+Mentions: N-1, N-263
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Obtain the original back-camera file and compare it with the front and side footage.
@@ -1045,7 +1045,7 @@ Claim: The host says she speculates the SD card was removed to hide that the bul
 Transcript Snippet: they were hiding was the fact that the bullet did not go through. Did not pierce through Charlie.
 
 Anchored Artifacts: 
-Mentions: N-1, N-265
+Mentions: N-1, N-263
 Related Nodes: N-10085, N-10100
 Tags: relevance:core
 Investigative Direction: Obtain the autopsy report and the back-camera footage to establish whether there was an exit wound.
@@ -1061,7 +1061,7 @@ Claim: The host says that after she kept pressing him, and after he gave excuses
 Transcript Snippet: Tarro showed me the back footage 2 days later on September 19th cuz I kept pressing him.
 
 Anchored Artifacts: A-3072.1
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: N-10797
 Tags: relevance:core
 Investigative Direction: Obtain the host's screen recording of the September 19 FaceTime and any call metadata.
@@ -1077,7 +1077,7 @@ Claim: The host says she recorded the September 19 FaceTime call with Farnsworth
 Transcript Snippet: On September 19th, he did that and gratefully I moved to record that FaceTime call because his energy made me uncomfortable.
 
 Anchored Artifacts: A-3072.1
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: N-11256
 Tags: relevance:core
 Investigative Direction: Compare the host's September 19 episode with the recorded FaceTime.
@@ -1093,7 +1093,7 @@ Claim: The host says that on September 20 Justin Streiff contacted her husband s
 Transcript Snippet: the very next day, on September 20th, Justin Streiff was contacting my husband several times while asking him if I had recorded that FaceTime call with Tarro.
 
 Anchored Artifacts: A-3072.1
-Mentions: N-15, N-30, N-265
+Mentions: N-15, N-30, N-263
 Related Nodes: N-11256, N-10300
 Tags: relevance:core
 Investigative Direction: Obtain George Farmer's message log with Justin Streiff for September 20, 2025.
@@ -1125,7 +1125,7 @@ Claim: The host says she learned that the FBI was on the phone with Justin Strei
 Transcript Snippet: The FBI was on the phone with Justin Streiff, Frank Carney, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.
 
 Anchored Artifacts: 
-Mentions: N-15, N-868
+Mentions: N-15, N-866
 Related Nodes: N-10014, N-11256
 Tags: relevance:core
 Investigative Direction: Identify the host's source for this account and request FBI contact logs with TPUSA leadership for September 20, 2025.
@@ -1157,7 +1157,7 @@ Claim: The host says that on the day of Charlie's funeral Erika and Andrew Kolve
 Transcript Snippet: They peeled off to the side and they conferenced the surgeon on the day of Charlie's actual funeral.
 
 Anchored Artifacts: 
-Mentions: N-2, N-14, N-199
+Mentions: N-2, N-14, N-197
 Related Nodes: N-10447
 Tags: relevance:core
 Investigative Direction: Obtain phone records for the Erika Kirk, Andrew Kolvet and Dr. Trotter call and ask Dr. Trotter to confirm who participated.
@@ -1173,7 +1173,7 @@ Claim: The host says Erika Kirk later insisted to her face that Andrew went rogu
 Transcript Snippet: She would insist to my face and I did not believe her for 1 second and I politely pushed back that Andrew went rogue that day.
 
 Anchored Artifacts: 
-Mentions: N-2, N-14, N-199
+Mentions: N-2, N-14, N-197
 Related Nodes: N-10447
 Tags: relevance:core
 Investigative Direction: Obtain any recording or notes of the host's conversation with Erika Kirk on this point.
@@ -1189,7 +1189,7 @@ Claim: The host says Dr. Lee Trotter did not violate HIPAA and that, in her pers
 Transcript Snippet: Dr. Lee Trotter did not violate HIPAA. In fact, he could sue her for defamation, in my personal opinion.
 
 Anchored Artifacts: 
-Mentions: N-199, N-2
+Mentions: N-197, N-2
 Related Nodes: N-10447
 Tags: relevance:core
 Investigative Direction: Ask Dr. Trotter or his counsel whether he authorized the call and whether any HIPAA complaint was filed.
@@ -1205,7 +1205,7 @@ Claim: The host says Erika Kirk was on the phone with Andrew asking the doctor w
 Transcript Snippet: it was Erika Kirk that said that Charlie ate healthy, and she bet he had he had he had a neck like Superman.
 
 Anchored Artifacts: 
-Mentions: N-2, N-14, N-199, N-1
+Mentions: N-2, N-14, N-197, N-1
 Related Nodes: N-10447
 Tags: relevance:core
 Investigative Direction: Identify the host's source for who said what on the call and compare with Kolvet's September 20 post.
@@ -1237,7 +1237,7 @@ Claim: The host says the account moved from the bullet found beneath the skin, t
 Transcript Snippet: first they found the bullet uh beneath his skin. Now, suddenly, the bullet is fragmented in his thorax.
 
 Anchored Artifacts: 
-Mentions: N-270, N-14
+Mentions: N-268, N-14
 Related Nodes: N-10085
 Tags: relevance:core
 Investigative Direction: Compare Kolvet's September 20 post, his September 23 account and Harpole's statement against the autopsy report.
@@ -1382,7 +1382,7 @@ Claim: The host says Matt Robinson is named as a witness and will be compelled t
 Transcript Snippet: They are naming him as a witness and he is going to be forced to answer questions under oath, likely, I would assume about the gun.
 
 Anchored Artifacts: A-1912.1
-Mentions: N-784, N-40
+Mentions: N-782, N-40
 Related Nodes: N-11149
 Tags: relevance:context
 Investigative Direction: Check the witness list and any proffer on what Matt Robinson is expected to testify to.
@@ -1688,7 +1688,7 @@ Claim: The host says Erika's July 14 flight was taken with Katherine Low Castro,
 Transcript Snippet: And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcelo.
 
 Anchored Artifacts: A-1915.1
-Mentions: N-2, N-605, N-424, N-682
+Mentions: N-2, N-603, N-422, N-680
 Related Nodes: N-10571
 Tags: relevance:core
 Investigative Direction: Obtain the flight manifest or FAA flight tracking record for July 14, 2025.
@@ -1784,7 +1784,7 @@ Claim: The host says that, regarding the surgeon's alleged HIPAA violation, Erik
 Transcript Snippet: I guess they didn't technically tweet that. She told me that. Um but that she didn't she had no part in it.
 
 Anchored Artifacts: 
-Mentions: N-2, N-199, N-3
+Mentions: N-2, N-197, N-3
 Related Nodes: N-10447
 Supports: C-10314
 Tags: relevance:core
@@ -1801,7 +1801,7 @@ Claim: The host says that if the cover-up theory is correct the people involved 
 Transcript Snippet: Make him Andrew the dunce and say, "Oh, he doesn't know what he was doing."
 
 Anchored Artifacts: 
-Mentions: N-14, N-334
+Mentions: N-14, N-332
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Seek documents or witnesses showing coordinated messaging among TPUSA leaders.

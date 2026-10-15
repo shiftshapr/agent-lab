@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: c32da8cd664ed494ce187fb3608dadb0e6203f099e44e61f6891ccc4eb88cd7d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-799, N-11151, N-11152
+  - Tip-minted Nodes (supplement_2026-10b): N-797, N-11151, N-11152
   - Hole-minted Nodes (reintro-ep156): N-10860
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7776–C-7835
   - New Nodes Introduced: N-10851, N-10852, N-10854, N-10855
-  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10853, N-5, N-22, N-36, N-46, N-54, N-162, N-192, N-334, N-10000, N-10051, N-10090, N-10168, N-10381, N-10417, N-10541, N-10598, N-10625, N-10811, N-10850, N-10977, N-10980, N-11091
+  - Reused Nodes Appearing: N-1, N-2, N-10, N-11, N-18, N-10853, N-5, N-22, N-36, N-46, N-54, N-161, N-190, N-332, N-10000, N-10051, N-10090, N-10168, N-10381, N-10417, N-10541, N-10598, N-10625, N-10811, N-10850, N-10977, N-10980, N-11091
   - (see registers)
 
 # Episode 156 Analysis
@@ -386,7 +386,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 
 ---
 
-**N-334** Baron Coleman
+**N-332** Baron Coleman
 
 Co-investigator the host says she will hand the show to before maternity leave and make a sizzle reel with.
 
@@ -410,7 +410,7 @@ Widow and TPUSA CEO; the host criticizes her video release, donation email and p
 
 ---
 
-**N-799** Angel Castro
+**N-797** Angel Castro
 
 First named by the host at 00:01:40 in episode 156 (spelled "Angel Castro Castro" in the transcript). Person the host places near the van in the tent footage.
 
@@ -434,7 +434,7 @@ Tyler Robinson's roommate; the host speculates about his role and federal status
 
 ---
 
-**N-192** Ryan Matta
+**N-190** Ryan Matta
 
 Person the host says she phoned about the shopping center sighting (spelled Ryan Mata in the transcript).
 
@@ -474,7 +474,7 @@ Named in the host's remark about where Erika Kirk should have shown the video.
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Subject of the interview parodied by Where Forbidden.
 
@@ -820,7 +820,7 @@ Claim: The host says she spoke with Baron Coleman that day and that the two of t
 Transcript Snippet: I spoke with Baron Coleman today and we are going to get you guys over a sizzle reel of sorts of our own so that it's all in one spot
 
 Anchored Artifacts: 
-Mentions: N-3, N-334
+Mentions: N-3, N-332
 Tags: relevance:context
 Investigative Direction: Check whether a combined chronological footage compilation from the host and Coleman was later published and whether it matches the clips already aired.
 
@@ -851,7 +851,7 @@ Claim: The host says the person standing by the van near Angel Castro was wearin
 Transcript Snippet: He was wearing red that day.
 
 Anchored Artifacts: A-2416.1
-Mentions: N-3, N-10, N-799
+Mentions: N-3, N-10, N-797
 Related Nodes: N-10860
 Supports: C-3531
 Tags: relevance:core
@@ -914,7 +914,7 @@ Claim: The host says she will hand everything over to Baron Coleman before going
 Transcript Snippet: Obviously, I'll be handing over everything to Baron
 
 Anchored Artifacts: 
-Mentions: N-3, N-334
+Mentions: N-3, N-332
 Tags: relevance:context
 Investigative Direction: Confirm any handover arrangement for the show and investigation between the host and Coleman.
 
@@ -1124,7 +1124,7 @@ Claim: The host says she called Ryan Mata that day to ask how he came by the Mou
 Transcript Snippet: I actually called Ryan Mata today.
 
 Anchored Artifacts: 
-Mentions: N-3, N-192
+Mentions: N-3, N-190
 Related Nodes: N-11151
 Tags: relevance:core
 Investigative Direction: Ask Ryan Mata for the original source and date of the shopping-center sighting report.
@@ -1334,7 +1334,7 @@ Claim: The host says Ryan Mata was reached by someone who was reached by someone
 Transcript Snippet: I was talking to Ryan, you know, he got reached out to somebody who got reached out to somebody got reached out to by somebody else.
 
 Anchored Artifacts: 
-Mentions: N-3, N-192
+Mentions: N-3, N-190
 Related Nodes: N-11151
 Tags: relevance:core
 Investigative Direction: Reconstruct the chain of contacts from the original shopping center witness to Ryan Mata.
@@ -1381,7 +1381,7 @@ Claim: The host says she needs to sit down, assemble the timeline and list clear
 Transcript Snippet: I really think that I need to sit down, get this timeline together, and have a clear list of questions
 
 Anchored Artifacts: 
-Mentions: N-3, N-334
+Mentions: N-3, N-332
 Tags: relevance:context
 Investigative Direction: Check for the promised timeline and question list.
 
@@ -1566,7 +1566,7 @@ Claim: The host says Blake Neff's sit-down interview said what everyone says abo
 Transcript Snippet: he did a uh AI video which really covered the basis on what took place during that interview.
 
 Anchored Artifacts: A-2423.1
-Mentions: N-3, N-162
+Mentions: N-3, N-161
 Related Nodes: N-11091
 Tags: relevance:context
 Investigative Direction: Locate the Where Forbidden video and the Blake Neff interview it parodies.

@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep108): N-10782, N-10813
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-643, N-644, N-645, N-10943, N-10944
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-14, N-40, N-46, N-54, N-149, N-194, N-212, N-270, N-272, N-274, N-345, N-347, N-587, N-10000, N-10006, N-10014, N-10026, N-10070, N-10075, N-10132, N-10194, N-10322, N-10340, N-10455, N-10581, N-10605, N-10622, N-10637, N-10651, N-10664, N-10899, N-10916, N-10923, N-10700, N-10942, N-10679
+  - Tip-minted Nodes (skeleton): N-641, N-642, N-643, N-10943, N-10944
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-7, N-14, N-40, N-46, N-54, N-148, N-192, N-210, N-268, N-270, N-272, N-343, N-345, N-585, N-10000, N-10006, N-10014, N-10026, N-10070, N-10075, N-10132, N-10194, N-10322, N-10340, N-10455, N-10581, N-10605, N-10622, N-10637, N-10651, N-10664, N-10899, N-10916, N-10923, N-10700, N-10942, N-10679
   - Claim Range: C-4213–C-4266
   - (see registers)
 
@@ -40,7 +40,7 @@ Video Timestamp: 00:02:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4215, C-4216, N-345, N-3*
+*Related: C-4215, C-4216, N-343, N-3*
 
 ---
 
@@ -55,7 +55,7 @@ Video Timestamp: 00:04:50
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4217, C-4218, C-4219, C-4220, N-345, N-3, N-1, N-7*
+*Related: C-4217, C-4218, C-4219, C-4220, N-343, N-3, N-1, N-7*
 
 **A-2600.2** Clip from the interview on Marx visiting Erika Kirk's home and his team relieving the security team (played)
 
@@ -66,7 +66,7 @@ Video Timestamp: 00:13:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4228, C-4229, N-345, N-2*
+*Related: C-4228, C-4229, N-343, N-2*
 
 **A-2600.3** Clip from the interview on Marx's text to Erika Kirk while she was at the hospital (played)
 
@@ -77,7 +77,7 @@ Video Timestamp: 00:14:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4230, N-345, N-2, N-10942*
+*Related: C-4230, N-343, N-2, N-10942*
 
 ---
 
@@ -105,7 +105,7 @@ Video Timestamp: 00:12:44
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4214, C-4227, N-345, N-270, N-10651*
+*Related: C-4214, C-4227, N-343, N-268, N-10651*
 
 **A-2602.2** Host verbal reference to the preservation letter sent to Paramount Not So Tactical (not shown)
 
@@ -142,7 +142,7 @@ Video Timestamp: 00:25:32
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4242, C-4243, N-643, N-10944*
+*Related: C-4242, C-4243, N-641, N-10944*
 
 ---
 
@@ -229,7 +229,7 @@ Video Timestamp: 00:39:00
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4258, C-4259, C-4260, N-272, N-149*
+*Related: C-4258, C-4259, C-4260, N-270, N-148*
 
 **A-2607.2** Theo Von's response to the Rogan clip (read aloud)
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:41:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4261, N-149*
+*Related: C-4261, N-148*
 
 **A-2607.3** Joe Rogan's recorded apology regarding Theo Von (played)
 
@@ -251,7 +251,7 @@ Video Timestamp: 00:43:09
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4262, N-272, N-149*
+*Related: C-4262, N-270, N-148*
 
 ---
 
@@ -277,7 +277,7 @@ Video Timestamp: 00:52:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-4264, N-345, N-14, N-10622*
+*Related: C-4264, N-343, N-14, N-10622*
 
 ---
 ## 4. Node Register
@@ -336,73 +336,73 @@ Transcript spelling "Lance Lance Twiggs". Expected to testify at the preliminary
 
 *Related: C-4255, A-2606.4*
 
-**N-149** Theo Von
+**N-148** Theo Von
 
 Subject of Joe Rogan's remarks about SSRI use and his mental state; responded that the clip was "mostly cap."
 
 *Related: C-4258, C-4259, C-4261, C-4262, A-2607.1, A-2607.2, A-2607.3*
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Named by the host as having had Charlie Kirk's laptop.
 
 *Related: C-4240*
 
-**N-212** Jack Hibbs
+**N-210** Jack Hibbs
 
 The host says he and TPUSA faith-adjacent figures were among the first to say Charlie Kirk had died and that Israel knew first.
 
 *Related: C-4265*
 
-**N-270** Brian Harpole
+**N-268** Brian Harpole
 
 Transcript spellings "Bryan Harpold" and "Brian Harpole". Head of Charlie Kirk's security team and plaintiff suing the host for defamation; the host seeks Marx's communications with the security team.
 
 *Related: C-4214, C-4226, C-4227, A-2602.1*
 
-**N-272** Joe Rogan
+**N-270** Joe Rogan
 
 His comments about Theo Von drew backlash; he later recorded an apology, which the host praises.
 
 *Related: C-4258, C-4259, C-4260, C-4261, C-4262, A-2607.1, A-2607.3*
 
-**N-274** Dan Flood
+**N-272** Dan Flood
 
 Named only as "Dan" alongside Brian Harpole when the host speculates about the security team's communications with Marx.
 
 *Related: C-4227*
 
-**N-345** Victor Marx
+**N-343** Victor Marx
 
 Transcript spellings "Victor Mark" and "Victor March". Colorado gubernatorial candidate interviewed the day before. His early, later-deleted post announcing Charlie Kirk's death, his text to Erika Kirk and his team's takeover of security are scrutinized; the host has sent him a preservation letter.
 
 *Related: C-4214, C-4215, C-4216, C-4217, C-4218, C-4219, C-4220, C-4221, C-4222, C-4226, C-4227, C-4228, C-4229, C-4230, C-4264, A-2599.1, A-2600.1, A-2600.2, A-2600.3, A-2602.1, A-2608.2*
 
-**N-347** Eileen Marx
+**N-345** Eileen Marx
 
 Victor Marx's wife; the host says she mentors Erika Kirk.
 
 *Related: C-4221*
 
-**N-587** Thomas Massie
+**N-585** Thomas Massie
 
 The host opens by noting he lost in Kentucky.
 
 *Related: C-4213*
 
-**N-643** Kouri Richins
+**N-641** Kouri Richins
 
 First named by the host at 00:24:28 in episode 108. Utah widow whom the host says was found guilty of murdering her husband after writing a children's book on grief. Transcript spelling "Kouri D. Richins".
 
 *Related: C-4241, C-4242, C-4243, C-4244, C-4245, A-2604.1, N-10944*
 
-**N-644** Eric Richins
+**N-642** Eric Richins
 
 First named by the host at 00:26:29 in episode 108. Kouri Richins's husband, who the host says covertly transferred his estate to his sister before he was killed. Transcript spelling "Eric Richens".
 
 *Related: C-4244, C-4245, N-10944*
 
-**N-645** Ed Gallrein
+**N-643** Ed Gallrein
 
 First named by the host at 00:52:19 in episode 108. Named in the comments as a candidate the host calls embarrassing, with no crowd at his victory party. Kept in the transcript spelling (see Optional Flags).
 
@@ -545,14 +545,14 @@ Called "Paramount not so tactical" by the host; she says she sent it a preservat
 Node Type: Topic
 Thomas Massie's Kentucky primary loss, which the host frames as an attempt to buy an outcome with money; it connects to her comments on the candidate she calls "Ed Gallrein."
 
-*Related: C-4213, C-4266, N-587, N-645*
+*Related: C-4213, C-4266, N-585, N-643*
 
 **N-10942** Victor Marx "They Only Wanted Charlie" Text to Erika Kirk
 
 Node Type: Topic
 Investigation target: the text Victor Marx says he sent Erika Kirk while she was at the hospital, telling her "nobody's going to kill you" and that "they just wanted Charlie." The host asks who "they" are and why that would be a first text to a widow.
 
-*Related: C-4230, A-2600.3, N-345, N-2*
+*Related: C-4230, A-2600.3, N-343, N-2*
 
 **N-10943** Charlie Kirk September 15 End-of-Life Document Appointment
 
@@ -566,7 +566,7 @@ Investigation target: the host's report that Erika Kirk told multiple people tha
 Node Type: Topic
 The Utah case of Kouri Richins, who the host says was found guilty of murdering her husband Eric Richins after publishing a children's grief book. The host says his covert estate transfer and her attempted life insurance beneficiary change were central to the prosecution. She cites the case as precedent for scrutinizing will changes around an unexpected death.
 
-*Related: C-4241, C-4242, C-4243, C-4244, C-4245, A-2604.1, N-643, N-644*
+*Related: C-4241, C-4242, C-4243, C-4244, C-4245, A-2604.1, N-641, N-642*
 
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
@@ -586,7 +586,7 @@ Claim: The host says Thomas Massie lost in Kentucky the day before the episode.
 Transcript Snippet: I know some people are not feeling too happy today because Thomas Massie lost in Kentucky.
 
 Anchored Artifacts:
-Mentions: N-587
+Mentions: N-585
 Related Nodes: N-10916
 Investigative Direction: Check the certified Kentucky Republican primary results for Massie's congressional district in May 2026.
 
@@ -601,7 +601,7 @@ Claim: The host says the fallout from her Victor Marx interview led her to send 
 Transcript Snippet: the fallout from Victor Marx's interview yesterday is trending all across social media, and it inspired me to send out a few preservation letters in my ongoing lawsuit with Bryan Harpold.
 
 Anchored Artifacts: A-2602.1
-Mentions: N-345, N-270, N-3
+Mentions: N-343, N-268, N-3
 Related Nodes: N-10651
 Investigative Direction: Check the Harpole v. Owens docket and counsel correspondence for the preservation letters and their recipients.
 
@@ -616,7 +616,7 @@ Claim: In a video posted on X after the interview, Victor Marx thanks his team a
 Transcript Snippet: What I would say is for those of you who said Victor doesn't debate, that was a 1-hour no moderator debate.
 
 Anchored Artifacts: A-2599.1
-Mentions: N-345, N-3
+Mentions: N-343, N-3
 Investigative Direction: Retrieve Victor Marx's X post of May 19–20, 2026 and its timestamp.
 
 ---
@@ -630,7 +630,7 @@ Claim: Victor Marx says in his video that all the scrutiny started only because 
 Transcript Snippet: Uh look, all of this has started only because I entered into the political realm. Period. And uh and because I'm winning the governor's race.
 
 Anchored Artifacts: A-2599.1
-Mentions: N-345
+Mentions: N-343
 Investigative Direction: Compare public polling for the 2026 Colorado gubernatorial primary with the dates of the earliest public allegations about Marx.
 
 ---
@@ -644,7 +644,7 @@ Claim: In the interview clip the host says Victor Marx was first to post a video
 Transcript Snippet: you were first to post a video that was later on removed saying that Charlie had passed and this video was about an hour and 20 minutes before the president's announcement.
 
 Anchored Artifacts: A-2600.1
-Mentions: N-345, N-1, N-5, N-2, N-3
+Mentions: N-343, N-1, N-5, N-2, N-3
 Related Nodes: N-10622
 Supports: C-3702
 Investigative Direction: Recover the archived Instagram story or video with platform timestamps and compare it with Trump's Truth Social post time on September 10, 2025.
@@ -660,7 +660,7 @@ Claim: Victor Marx says someone texted him that his son was at Charlie Kirk's ev
 Transcript Snippet: I I had someone text me and he said, "My son is at Charlie's event and Charlie was just shot.
 
 Anchored Artifacts: A-2600.1
-Mentions: N-345, N-1
+Mentions: N-343, N-1
 Related Nodes: N-10622
 Investigative Direction: Obtain the text message and sender identity from Marx's phone records via subpoena.
 
@@ -675,7 +675,7 @@ Claim: Victor Marx says he watched the shooting video only once, while his team,
 Transcript Snippet: I watched Charlie being shot one time. And my team uh many who are former special operations guys in combat minutes, lots of experience, they viewed it multiple times cuz I wouldn't.
 
 Anchored Artifacts: A-2600.1
-Mentions: N-345, N-1
+Mentions: N-343, N-1
 Related Nodes: N-10622
 Supports: C-3713
 Investigative Direction: Identify the team members present with Marx on September 10, 2025 and obtain their statements and communications from that afternoon.
@@ -691,7 +691,7 @@ Claim: Victor Marx says that after posting that Charlie Kirk had died he saw no 
 Transcript Snippet: I put it up and then I didn't see anybody else posting it. I thought it was premature and I I pulled it down cuz it just felt wrong that I would post it.
 
 Anchored Artifacts: A-2600.1
-Mentions: N-345, N-7
+Mentions: N-343, N-7
 Related Nodes: N-10622
 Investigative Direction: Obtain Instagram deletion metadata for the post and any archived copies.
 
@@ -706,7 +706,7 @@ Claim: The host says Victor Marx told her during the interview that his wife Eil
 Transcript Snippet: You told us elsewhere in the interview that Eileen and Erika, they got so close because well, your wife, your bride, mentors Erika, right?
 
 Anchored Artifacts:
-Mentions: N-345, N-347, N-2
+Mentions: N-343, N-345, N-2
 Related Nodes: N-10605
 Investigative Direction: Review the full Marx interview and public records of Eileen Marx's ministry contacts with Erika Kirk.
 
@@ -721,7 +721,7 @@ Claim: The host says Victor Marx told her his team took over the security appara
 Transcript Snippet: You were so close to Charlie's security apparatus, in fact, that you were able to swiftly coordinate taking over for them a mere 48 hours later in Phoenix, remember?
 
 Anchored Artifacts:
-Mentions: N-345, N-1
+Mentions: N-343, N-1
 Investigative Direction: Obtain TPUSA and Kirk family security staffing records for September 11–14, 2025.
 
 ---
@@ -777,7 +777,7 @@ Claim: The host says she is currently being sued by Brian Harpole, whom she call
 Transcript Snippet: I'm currently being sued by Brian Harpole, head of Charlie's security team.
 
 Anchored Artifacts:
-Mentions: N-270, N-3, N-345
+Mentions: N-268, N-3, N-343
 Related Nodes: N-10651
 Investigative Direction: Pull the complaint and docket in Harpole's defamation suit against the host.
 
@@ -792,7 +792,7 @@ Claim: The host says that because she is being sued for defamation, her side sen
 Transcript Snippet: I'm being sued for defamation, which is why we sent earlier today Victor Mark's legal preservation letter.
 
 Anchored Artifacts: A-2602.1
-Mentions: N-345, N-270, N-3
+Mentions: N-343, N-268, N-3
 Related Nodes: N-10651
 Investigative Direction: Obtain the letter and any subsequent subpoena for Marx's September 10, 2025 communications with the security team.
 
@@ -807,7 +807,7 @@ Claim: In the interview the host says Victor Marx was among the first, in the fi
 Transcript Snippet: actually maybe it was actually just you in the first 2 days that went uh to Erika and Charlie's place to provide her um some comfort.
 
 Anchored Artifacts: A-2600.2
-Mentions: N-345, N-2, N-1
+Mentions: N-343, N-2, N-1
 Related Nodes: N-10605
 Supports: C-3703
 Investigative Direction: Obtain visitor or security logs for the Kirk residence for September 10–12, 2025.
@@ -823,7 +823,7 @@ Claim: Victor Marx says he brought his team immediately to relieve the first sec
 Transcript Snippet: we brought our team uh immediately uh to help give relief for the first security team who I knew, who I was in contact with, and they were suffering trauma and exhaustion. They didn't have a secondary.
 
 Anchored Artifacts: A-2600.2
-Mentions: N-345, N-2
+Mentions: N-343, N-2
 Investigative Direction: Identify who asked Marx's team to provide security and obtain related communications.
 
 ---
@@ -837,7 +837,7 @@ Claim: Victor Marx says he texted Erika Kirk while she was at the hospital that 
 Transcript Snippet: I was just telling her nobody's going to kill you. You're safe, you and the kids. No one's coming after you. They just wanted Charlie.
 
 Anchored Artifacts: A-2600.3
-Mentions: N-345, N-2, N-1
+Mentions: N-343, N-2, N-1
 Related Nodes: N-10942
 Investigative Direction: Obtain the text and its timestamp from Marx's or Erika Kirk's phone records.
 
@@ -987,7 +987,7 @@ Claim: The host says Mikey McCoy had Charlie Kirk's laptop and that everyone had
 Transcript Snippet: Uh Mikey had his laptop. I mean, everybody did have access to Charlie's everything because he was too trusting.
 
 Anchored Artifacts:
-Mentions: N-194, N-1
+Mentions: N-192, N-1
 Investigative Direction: Establish custody of Kirk's laptop and devices before and after September 10, 2025.
 
 ---
@@ -1001,7 +1001,7 @@ Claim: The host says Utah widow Kouri Richins was found guilty of murdering her 
 Transcript Snippet: the one in Utah, ironically, who was found guilty of murdering her husband out in but but like not instantly.
 
 Anchored Artifacts:
-Mentions: N-643
+Mentions: N-641
 Related Nodes: N-10944
 Investigative Direction: Check the Summit County, Utah court record for the verdict in State v. Kouri Richins.
 
@@ -1016,7 +1016,7 @@ Claim: In a TV clip promoting her book, Kouri Richins says her husband died unex
 Transcript Snippet: So, my husband passed away unexpectedly last year. So, it's March 4th was a 1-year anniversary for us, and um he was 39.
 
 Anchored Artifacts: A-2604.1
-Mentions: N-643
+Mentions: N-641
 Related Nodes: N-10944
 Investigative Direction: Locate the original broadcast and its air date.
 
@@ -1031,7 +1031,7 @@ Claim: The host says Kouri Richins was arrested a month after the interview, mor
 Transcript Snippet: A month later, she would be arrested over a year after her husband had passed away.
 
 Anchored Artifacts: A-2604.1
-Mentions: N-643
+Mentions: N-641
 Related Nodes: N-10944
 Investigative Direction: Check the arrest date in Summit County, Utah records against the broadcast date.
 
@@ -1046,7 +1046,7 @@ Claim: The host says Eric Richins covertly transferred his entire estate and bus
 Transcript Snippet: her husband, uh Eric Richens, also her victim, gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away
 
 Anchored Artifacts:
-Mentions: N-644, N-643
+Mentions: N-642, N-641
 Related Nodes: N-10944
 Investigative Direction: Review trial testimony and estate filings in the Richins case.
 
@@ -1061,7 +1061,7 @@ Claim: The host says the court heard that Kouri Richins tried to change the bene
 Transcript Snippet: the court heard that Kouri herself attempted to change the beneficiary of his corporate life insurance so that she would receive it 100% of the payout.
 
 Anchored Artifacts:
-Mentions: N-643, N-644
+Mentions: N-641, N-642
 Related Nodes: N-10944
 Investigative Direction: Review trial exhibits on the insurance beneficiary change in the Richins case.
 
@@ -1255,7 +1255,7 @@ Claim: In a clip, Joe Rogan says Theo Von had a Netflix taping that went badly a
 Transcript Snippet: He had a Netflix taping and it didn't go well. It was like they actually never they shelved it. They never used it.
 
 Anchored Artifacts: A-2607.1
-Mentions: N-272, N-149
+Mentions: N-270, N-148
 Investigative Direction: Check Netflix's release records and reporting on any unreleased Theo Von special.
 
 ---
@@ -1269,7 +1269,7 @@ Claim: Joe Rogan says there is a video of Theo Von telling a crowd he was trying
 Transcript Snippet: Look, I'm just I'm trying not to take my own life. That's what I'm trying to do right now.
 
 Anchored Artifacts: A-2607.1
-Mentions: N-272, N-149
+Mentions: N-270, N-148
 Investigative Direction: Locate the crowd video and its context; the host says Theo told her it was taken out of context.
 
 ---
@@ -1283,7 +1283,7 @@ Claim: Joe Rogan says the chemical-imbalance theory of how SSRIs work is not rea
 Transcript Snippet: but here's the thing about that chemical imbalance thing, that's not real.
 
 Anchored Artifacts: A-2607.1
-Mentions: N-272
+Mentions: N-270
 Investigative Direction: Review the 2022 Moncrieff et al. umbrella review on serotonin and depression and the responses to it.
 
 ---
@@ -1297,7 +1297,7 @@ Claim: The host says Theo Von responded to the viral clip that it was "mostly ca
 Transcript Snippet: Theo Von responded and said, this is mostly cap.
 
 Anchored Artifacts: A-2607.2
-Mentions: N-149, N-272
+Mentions: N-148, N-270
 Investigative Direction: Retrieve Theo Von's post and its timestamp.
 
 ---
@@ -1311,7 +1311,7 @@ Claim: The host says Joe Rogan did something he had never done in his show's his
 Transcript Snippet: Joe Rogan did something that he's never done in the history of his show where he just recorded him apologizing.
 
 Anchored Artifacts: A-2607.3
-Mentions: N-272, N-149
+Mentions: N-270, N-148
 Investigative Direction: Check the Joe Rogan Experience feed for the standalone apology episode and any precedent.
 
 ---
@@ -1339,7 +1339,7 @@ Claim: Agreeing with a viewer, the host says Victor Marx's Instagram post came a
 Transcript Snippet: It was when right around the timeline when Erika finds out, it's actually a little bit before when Andrew Kolvet finds out.
 
 Anchored Artifacts: A-2608.2
-Mentions: N-345, N-2, N-14
+Mentions: N-343, N-2, N-14
 Related Nodes: N-10622
 Investigative Direction: Build a minute-level timeline from Marx's post metadata, hospital records and Kolvet's and Erika Kirk's phone logs.
 
@@ -1354,7 +1354,7 @@ Claim: The host says Pastor Jack Hibbs and TPUSA faith-adjacent figures were amo
 Transcript Snippet: Pastor Jack Hibbs and that little orbit of TPUSA faith-adjacent people-ish were also the among the first to say uh that Charlie had passed and that for some reason Israel knew first.
 
 Anchored Artifacts:
-Mentions: N-212, N-1
+Mentions: N-210, N-1
 Related Nodes: N-10813, N-10026
 Investigative Direction: Timestamp Jack Hibbs's earliest public statements and identify the Israeli news source he cited.
 
@@ -1369,7 +1369,7 @@ Claim: The host says the candidate she calls Ed Gallrein had no crowd at his vic
 Transcript Snippet: You had to have uh the camera zoomed in real close to your face so people couldn't see the the no crowd that showed up even to your victory party.
 
 Anchored Artifacts:
-Mentions: N-645
+Mentions: N-643
 Related Nodes: N-10916
 Investigative Direction: Review broadcast and wide-shot footage of the candidate's primary-night victory event.
 
@@ -1586,7 +1586,7 @@ Confidence: high
 
 - **DIA beats**: no qualifying hits. The only keyword hit is "CandaceOwens. com" (55:53), a merch plug rather than a tip request, so no M-12 occurrence was added. The host's invitations to investigators to contact her for the names of the people Erika Kirk told (21:59, 27:25) offer information rather than ask for tips, so they were not treated as DIA beats.
 - **Artifacts verbally referenced but not shown**: A-2602.1 (Marx preservation letter), A-2602.2 (Paramount preservation letter), A-2603.1 (the host's evidence and sources on the September 15 appointment), A-2605.1 (the "emotional asset" communication) and A-2605.2 (the FOIA request). The host also cites a Daily Mail article on a TPUSA board member and the AI video without showing it.
-- **Name matching**: "Frank Chirico" (11:12) is mapped to N-7 Frank Turek, as he and the security team drove Kirk to the hospital; the alias list includes "Frank Turek." "Dan" (12:44) is mapped to N-274 Dan Flood from context (named with Brian Harpole as security). "Ed Gallrein" (52:19, 55:09) is minted as N-645 in the transcript spelling; context (Massie's loss, victory party) suggests Massie's primary opponent, possibly Ed Gallrein, but this is unconfirmed and the integrator should check. "Victor Mark"/"Victor March" are mapped to N-345; "Bryan Harpold" to N-270; "Andrew Kolvet" to N-14; "Megyn Kelly" to N-46.
+- **Name matching**: "Frank Chirico" (11:12) is mapped to N-7 Frank Turek, as he and the security team drove Kirk to the hospital; the alias list includes "Frank Turek." "Dan" (12:44) is mapped to N-272 Dan Flood from context (named with Brian Harpole as security). "Ed Gallrein" (52:19, 55:09) is minted as N-643 in the transcript spelling; context (Massie's loss, victory party) suggests Massie's primary opponent, possibly Ed Gallrein, but this is unconfirmed and the integrator should check. "Victor Mark"/"Victor March" are mapped to N-343; "Bryan Harpold" to N-268; "Andrew Kolvet" to N-14; "Megyn Kelly" to N-46.
 - **Reused staging titles**: N-10916 uses the episode 104 title "Thomas Massie Kentucky Primary Outside Spending". N-10923 and M-95 use the episode 105 titles "White House Military Office Erika Kirk Amplification Email" and "Emotional Response Asset". M-92 uses the episodes 103/105 title "Paramount Not So Tactical". Episode 104 names the same email "White House Military Office "I Want to Go Home" Amplification Email", so the integrator should reconcile the two.
 - **Transcription ambiguities**: "an aspirin three weeks before" (17:28) is likely "an aspiration"; kept as transcribed. "Eric Richens" vs "Kouri Richins" and "Kouri D. Richins" kept as spoken. "in combat minutes" (06:34) is unclear. The 28:40–30:40 and 46:20–47:58 gaps are breaks with no transcript.
 - **Duration**: the skeleton meta gave 00:56:29; the range was reset to the transcript front-matter duration 57:23.

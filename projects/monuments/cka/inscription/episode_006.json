@@ -1031,7 +1031,7 @@
       "@type": "Person",
       "@id": "N-80",
       "ref": "N-80",
-      "name": "Harley Pastnic",
+      "name": "Harley Pasternak",
       "type": "person",
       "description": "Referenced as prior investigation target whose family had valve/pipe industry background",
       "related_artifacts": [
@@ -1464,8 +1464,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-940",
-      "ref": "N-940",
+      "@id": "N-938",
+      "ref": "N-938",
       "name": "Kyrie Irving",
       "type": "person",
       "description": "First named by the host at 00:42:58 in episode 6. Basketball player the host says was shaken down to donate after he said something she did not like.",
@@ -1972,8 +1972,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-746",
-      "ref": "N-746",
+      "@id": "N-744",
+      "ref": "N-744",
       "name": "Harley Pasternak",
       "type": "person",
       "description": "Person reused: named by the host as one of three investigated people with valve and piping backgrounds.",
@@ -2004,12 +2004,11 @@
       "tags": [
         "open_source_investigation"
       ],
-      "claim_timestamp": "00:03:50",
+      "claim_timestamp": "00:03:26",
       "investigative_direction": "Identify both individuals via facial recognition, witness statements, and cross-reference against footage metadata.",
       "transcript_snippet": "that same individual appears alongside another individual and he moves Charlie's chair",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-68",
         "N-83",
         "N-1"
       ]
@@ -2042,7 +2041,7 @@
       "@id": "C-1207",
       "ref": "C-1207",
       "label": "Host Says Camera Individual Appeared to Remove SD/SIM Card",
-      "claim": "The host says the footage she shows has the individual handling the camera appearing to remove the SD or SIM card before setting the camera on the desk.",
+      "claim": "The host says the footage she shows has the individual handling the camera appearing to remove the SD or SIM card after setting the camera on the desk.",
       "anchored_artifacts": [
         "A-1120.3"
       ],
@@ -2062,8 +2061,8 @@
       "@type": "Claim",
       "@id": "C-1208",
       "ref": "C-1208",
-      "label": "Camera individual claims long TPUSA association",
-      "claim": "The individual who handled the camera told the host he had been around Turning Point USA for years, dating to the host's early tenure.",
+      "label": "Host Says Camera Individual Has Been Around TPUSA for Years",
+      "claim": "The host says the individual who handled the camera has been around Turning Point USA for years, going back to her own early days working there.",
       "anchored_artifacts": [
         "A-1122.1"
       ],
@@ -2102,7 +2101,6 @@
       "uncertainty_note": "Footage itself not shown in episode; claim rests on host's account of FaceTime viewing.",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
         "N-83"
       ]
     },
@@ -2154,8 +2152,8 @@
       "@type": "Claim",
       "@id": "C-1212",
       "ref": "C-1212",
-      "label": "Bill Ackman stated Candace's credibility is failing",
-      "claim": "On the PBD podcast, Bill Ackman stated that Candace Owens' credibility is going 'down the tubes' because she has not brought receipts.",
+      "label": "PBD Guest Said Candace's Credibility Is Going Down the Tubes",
+      "claim": "In a PBD podcast clip the host plays, a guest says Candace Owens' credibility is going to go \"down the tubes\" because she needs to bring receipts, and a speaker in the clip adds that Bill Ackman brought receipts.",
       "anchored_artifacts": [
         "A-1125.1"
       ],
@@ -2200,8 +2198,8 @@
       "@type": "Claim",
       "@id": "C-1213",
       "ref": "C-1213",
-      "label": "Andrew Kolvet claims last saw Candace at TPUSA in 2015/2016",
-      "claim": "On the PBD podcast, Andrew Kolvet, identifying himself as a TPUSA board member, said he last saw Candace Owens in person in 2015 or 2016 and that she has not attended a TPUSA event in many years.",
+      "label": "PBD Guest Said He Last Saw Candace at TPUSA in 2015 or 2016",
+      "claim": "In a PBD podcast clip the host plays, a guest, asked whether he is on the board of Turning Point, says yes, that he last saw Candace Owens in person in 2015 or 2016, and that she was last at a Turning Point event not in many years.",
       "anchored_artifacts": [
         "A-1125.1"
       ],
@@ -2220,7 +2218,6 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-14",
         "N-57"
       ]
     },
@@ -2294,7 +2291,7 @@
       "@id": "C-1217",
       "ref": "C-1217",
       "label": "Intelligence agencies monitor valve networks per viewer email",
-      "claim": "Per a viewer email, intelligence and regulatory agencies including CISA, NSA, and FERC monitor valve networks and maintain trusted relationships with manufacturers.",
+      "claim": "Per a viewer email, intelligence and regulatory agencies including CISA, NSA, and FERC monitor valve networks and may maintain trusted relationships with manufacturers.",
       "anchored_artifacts": [
         "A-1123.1"
       ],
@@ -2336,7 +2333,7 @@
       "@id": "C-1219",
       "ref": "C-1219",
       "label": "Host Says Victoria Churchill Has APAC Connection",
-      "claim": "The host says Victoria Churchill of the Daily Mail has a connection to APAC, and shows photos of her at APAC events including a 2018 DC conference.",
+      "claim": "The host says Victoria Churchill of the Daily Mail has a connection to AIPAC, and shows a picture of her sitting in the audience at AIPAC, starting off 2018 in DC.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10073",
@@ -2345,7 +2342,7 @@
       "tags": [
         "open_source_investigation"
       ],
-      "claim_timestamp": "00:35:46",
+      "claim_timestamp": "00:29:40",
       "investigative_direction": "Verify Churchill's APAC affiliation via APAC event registrations and public photo metadata.",
       "confidence": "low",
       "uncertainty_note": "Connection is host's claim based on visible photos; not independently artifact-anchored in this episode.",
@@ -2373,7 +2370,6 @@
       "transcript_snippet": "Brendan Carr... threatened federal action against ABC affiliates who carried the show",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-89",
         "N-92",
         "N-87"
       ]
@@ -2382,8 +2378,8 @@
       "@type": "Claim",
       "@id": "C-1221",
       "ref": "C-1221",
-      "label": "Charlie Kirk tweet defended Milgram and Lachinsky",
-      "claim": "Charlie Kirk authored a tweet in May about the assassinations of Sarah Milgram and Yaron Lischinsky, calling them beautiful people and pushing back against speech restrictions.",
+      "label": "Host Says Kirk Tweet Called Milgram and Lischinsky Beautiful People",
+      "claim": "The host says Charlie Kirk, in a long tweet he sent her in a message from May, called Sarah Milgram and Yaron Lischinsky beautiful people and pushed back against using their killings to justify restricting free speech.",
       "anchored_artifacts": [
         "A-1129.1"
       ],
@@ -2404,7 +2400,7 @@
       "@id": "C-1222",
       "ref": "C-1222",
       "label": "Charlie texted Candace on May 22 about speech censorship",
-      "claim": "Charlie Kirk texted host on May 22 saying 'speech censorship is coming to America.'",
+      "claim": "The host says that on May 22 she wrote to Charlie Kirk that speech censorship is coming to America, after he sent her his tweet, and that he wrote back.",
       "anchored_artifacts": [
         "A-1129.2"
       ],
@@ -2528,7 +2524,7 @@
         "N-10081"
       ],
       "tags": [],
-      "claim_timestamp": "00:43:09",
+      "claim_timestamp": "00:35:42",
       "investigative_direction": "Locate the specific Netanyahu clip and verify exact wording and date.",
       "confidence": "low",
       "uncertainty_note": "Claim referenced as a findable clip but not shown in this episode.",
@@ -2541,7 +2537,7 @@
       "@id": "C-3637",
       "ref": "C-3637",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host says her CIA merchandise stands for the Candace Intelligence Agency and that some people think it stands for the Decentralized Intelligent Agency, which she loves.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2812,7 +2808,7 @@
       "@id": "C-13610",
       "ref": "C-13610",
       "label": "Host Says the Man Declines to Release More Footage Out of Loyalty to Erika",
-      "claim": "The host says the man told her he does not want to give more footage to the internet out of loyalty to Erika Kirk, who has already seen so many people watch the last seconds of Charlie's life.",
+      "claim": "The host says the man, out of loyalty to Erika Kirk, also does not want to give more footage to the internet, and that it is traumatizing for people to watch the last second of Charlie's life.",
       "anchored_artifacts": [
         "A-1122.1"
       ],
@@ -2875,8 +2871,7 @@
       "investigative_direction": "Search FBI and Utah press briefings from September 10 to 12, 2025 for statements that investigators were searching for a bullet.",
       "transcript_snippet": "but like I thought the feds were saying they were looking for a bullet at some point,",
       "mentions_person_refs": [
-        "N-3",
-        "N-68"
+        "N-3"
       ]
     },
     {
@@ -2980,7 +2975,7 @@
       "@id": "C-13617",
       "ref": "C-13617",
       "label": "Host Says the Husband and Wife She Showed Work for Caldera Engineering",
-      "claim": "The host says she showed one or two of the employees, that the husband and wife she had mentioned work for Caldera Engineering, and that the company purports to manufacture valves.",
+      "claim": "The host says she thinks she showed one or two of the employees, that the husband and wife she had mentioned work for Caldera Engineering, and that the company purports to manufacture valves.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10065",
@@ -3021,7 +3016,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-746"
+        "N-744"
       ]
     },
     {
@@ -3235,7 +3230,7 @@
       "@id": "C-13627",
       "ref": "C-13627",
       "label": "PBD Clip: Speaker Says Candace Does Not Speak at TPUSA Events Anymore",
-      "claim": "In the replayed PBD clip, a speaker says Candace no longer speaks at Turning Point events, which the host disputes by pointing to her appearances on the stage and tour the year before.",
+      "claim": "In the replayed PBD clip, a speaker says Candace no longer speaks at Turning Point events, which the host disputes by saying she spoke at two Turning Point conferences the year before and playing a clip of her on the stage.",
       "anchored_artifacts": [
         "A-1125.1"
       ],
@@ -3307,7 +3302,7 @@
       "@id": "C-13630",
       "ref": "C-13630",
       "label": "Host Says Charlie Got in Trouble for What She Said on the TPUSA Stage",
-      "claim": "The host says that after she said 'Israel, you're not special' on the stage, Charlie got in trouble for what she said and the donors then came inward.",
+      "claim": "The host says that after she said 'Israel, you're not special' on the stage, Charlie got in trouble for what she said and then 'they came inward'.",
       "anchored_artifacts": [
         "A-1130.1"
       ],
@@ -3633,8 +3628,8 @@
       "@type": "Claim",
       "@id": "C-13644",
       "ref": "C-13644",
-      "label": "A Speaker Says the Feds Were Involved in Charlie's Death to Push Through Speech Laws",
-      "claim": "A speaker answering the host's question whether she is cynical says the feds are obviously lying and, at some level in a very big way, were involved in the death of Charlie because they wanted a radical way to push through laws.",
+      "label": "Host Says the Feds Were Involved in Charlie's Death to Push Through Speech Laws",
+      "claim": "The host says the feds are obviously lying and, at some level in a very big way, were involved in the death of Charlie because they wanted a radical way to push through laws.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10079",
@@ -3647,7 +3642,8 @@
       "investigative_direction": "The transcript does not mark speaker turns; replay the audio to attribute the line, then request any evidence of federal involvement.",
       "transcript_snippet": "Yeah. The feds are obviously lying and I would say at some level in a very big way were involved in the death of Charlie because they wanted this sort of radical way to push through laws.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-3"
       ]
     },
     {
@@ -3739,7 +3735,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-87",
-        "N-940"
+        "N-938"
       ]
     },
     {
@@ -3754,7 +3750,7 @@
         "N-11096"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:43:22",
       "investigative_direction": "Read the TikTok US joint venture announcement and investor list from September 2025 and check each investor's ties.",
@@ -3775,7 +3771,7 @@
         "N-11096"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:43:42",
       "investigative_direction": "Review reporting on TikTok content moderation changes and the investor group in 2025.",
@@ -3839,7 +3835,7 @@
       "@id": "C-13653",
       "ref": "C-13653",
       "label": "Host Says Restaurants Do Not Keep Months of Surveillance Footage",
-      "claim": "The host says there is not a place in the world with the bandwidth to keep 24-hour footage inside a restaurant dating back months, and that her home cameras overwrite every 48 or 72 hours, up to a week at most.",
+      "claim": "The host says there is not a place in the world with the bandwidth to keep 24-hour footage inside a restaurant dating back months, and that she thinks her home cameras overwrite every 48 or 72 hours, with one week the most you might see.",
       "anchored_artifacts": [
         "A-1133.1"
       ],
@@ -3861,7 +3857,7 @@
       "@id": "C-13654",
       "ref": "C-13654",
       "label": "Host Says Her Source Was Specific That the Clothes Were Thrown Away in the Nearby Cemetery",
-      "claim": "The host says her source was very specific, including saying that the suspect threw away clothes in the nearby cemetery, and that the person was very confident when sharing it.",
+      "claim": "The host says her source was very specific, including saying that they threw away clothes in the nearby cemetery, and that the person was very confident when sharing it.",
       "anchored_artifacts": [
         "A-1133.1"
       ],
@@ -3951,7 +3947,7 @@
       "@id": "C-13658",
       "ref": "C-13658",
       "label": "Host Denies Andrew Kolvet Was at the Hamptons",
-      "claim": "The host says the PBD guest said Andrew Kolvet was there in the Hamptons and responds that he was not, saying Kolvet was definitely not there.",
+      "claim": "The host says that in the PBD segment 'he' says Andrew Kolvet was there in the Hamptons, and responds that he was not, saying Kolvet was definitely not there.",
       "anchored_artifacts": [
         "A-1125.1"
       ],

@@ -1,0 +1,770 @@
+[
+ {
+  "claim": "C-1310",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Local-news interview starts ~33:30; \"throwing the hats\" ~34:00. Claim window 32:30-33:15 sits on the goth-girls Alex Jones clip. Quote is \"meet some of my friends\".",
+  "fix": {
+   "timestamp": "00:33:40",
+   "claim": "In a local Utah news interview the host plays, Phil Lyman stated he was backstage, throwing hats, and standing next to the stage before going to \"meet some of my friends\" away from the stage."
+  }
+ },
+ {
+  "claim": "C-1311",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Lyman says he \"wanted to swing back by UVU campus\" to thank officers; claim says he \"stopped by\" (stated as done).",
+  "fix": {
+   "claim": "In his own Instagram video, Phil Lyman stated he was heading back from Salt Lake to Blanding on the night of the shooting, wanted to swing by UVU campus to thank officers, and recounted being \"very close this morning\" to where Charlie Kirk was, meeting Charlie backstage, deciding to \"go up top,\" and concluding it was a \"200 yard kill shot\" from the roof."
+  }
+ },
+ {
+  "claim": "C-1312",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Shane map/retraced-steps is at ~43:10-43:50, not 41:00 (130s+ early). Claim names only Shane; N-61 not referred to in claim.",
+  "fix": {
+   "timestamp": "00:43:15",
+   "mentions": [
+    "N-129"
+   ]
+  }
+ },
+ {
+  "claim": "C-1313",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Staircase photos/\"him and the three friends\" ~44:00; claim ts 42:00 is 120s early. Host never says it matches the blurred suspect image. N-61 not in claim.",
+  "fix": {
+   "timestamp": "00:43:55",
+   "mentions": [
+    "N-129"
+   ],
+   "claim": "Shane Lyman's Instagram post showed side-by-side photos of Shane and three friends on a staircase; the host states she could not find two of the individuals on his friends list."
+  }
+ },
+ {
+  "claim": "C-1314",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Nick calls about Lyman showing up at his house at ~39:40-40:40; claim window 37:30-39:00 is 100s+ early.",
+  "fix": {
+   "timestamp": "00:39:35"
+  }
+ },
+ {
+  "claim": "C-1315",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Ian Carol tour/\"four hours away\" is ~40:50-41:30; claim window 38:30-39:00 is 110s+ early.",
+  "fix": {
+   "timestamp": "00:40:50"
+  }
+ },
+ {
+  "claim": "C-1316",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Photo sent to tips box ~25:20-25:30; ok.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1317",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Marzy keyholeing comment ~49:50-50:10; ok.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1318",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says \"thank you for sharing that\" to Marzy, not Caitlyn; to Caitlyn: \"Yeah. I mean, my insatiable thirst is to figure out what happened that day.\"",
+  "fix": {
+   "claim": "Host reads Caitlyn Derrian's supportive comment calling her a true model of real journalism and responds, \"Yeah. I mean, my insatiable thirst is to figure out what happened that day.\""
+  }
+ },
+ {
+  "claim": "C-1319",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Timestamp 00:00:00 is the intro; Kristen Theoret ~51:40, Cassie ~53:00, Kaya ~53:50. Kaya says \"They don't like people asking questions\", not that those closest are silent.",
+  "fix": {
+   "timestamp": "00:51:35",
+   "claim": "Host agrees with Kristen Theoret's and Cassie's comments that the people closest to Charlie Kirk are moving on and not asking questions about the shooting, and also reads Kaya's comment (\"It's 1963 all over again. They don't like people asking questions.\")."
+  }
+ },
+ {
+  "claim": "C-1320",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Timestamp 00:00:00 is intro; Bitsy ~52:35, Miranda Allen ~52:45. Phil Lyman is not mentioned in the claim; title wrong.",
+  "fix": {
+   "timestamp": "00:52:30",
+   "mentions": [],
+   "label": "Host Agrees With Viewer Comments on a Staged World and Prayer for Investigators"
+  }
+ },
+ {
+  "claim": "C-13822",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13823",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13824",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13825",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13826",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13827",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13828",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13829",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13830",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13831",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13832",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13833",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13834",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13835",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13836",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13837",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13838",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13839",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13840",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13841",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13842",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13843",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13844",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13845",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13846",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13847",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13848",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13849",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13850",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13851",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13852",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13853",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13854",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13855",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13856",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13857",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13858",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13859",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13860",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Gut instinct ~50:25, ~70s after ts; borderline, accepted.",
+  "fix": {}
+ },
+ {
+  "claim": "C-13861",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Mike Mitchell remark ~50:37, ~80s after ts; borderline, accepted.",
+  "fix": {}
+ },
+ {
+  "claim": "C-13862",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "Brooksby \"nervous energy\" remark is ~51:00; claim ts 49:16 is ~104s early.",
+  "fix": {
+   "timestamp": "00:50:55"
+  }
+ },
+ {
+  "claim": "C-13863",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "Barker Instagram remark ~51:25-51:40; ts 49:16 is ~130s early.",
+  "fix": {
+   "timestamp": "00:51:20"
+  }
+ },
+ {
+  "claim": "C-13864",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "Max Blumenthal remark ~52:00-52:10; ts 49:16 is ~165s early.",
+  "fix": {
+   "timestamp": "00:52:00"
+  }
+ },
+ {
+  "claim": "C-13865",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"name the donors\" ~52:20-52:30; ts 49:16 is ~185s early.",
+  "fix": {
+   "timestamp": "00:52:20"
+  }
+ },
+ {
+  "claim": "C-13866",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "Call to Ian is ~53:55-54:15; ts 49:16 is ~280s early. Host says only \"Ian\"; claim adds \"the existing draft identifies\".",
+  "fix": {
+   "timestamp": "00:53:55",
+   "claim": "The host says she called Ian to tell him she doubted Lyman would put him on a tour, because Lyman was not being kind to Nick, a Lyman supporter, and she thinks that relationship went sideways."
+  }
+ },
+ {
+  "claim": "C-13867",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "Microphone remark ~54:20-54:50; ts 49:16 is ~5 min early.",
+  "fix": {
+   "timestamp": "00:54:20"
+  }
+ },
+ {
+  "claim": "C-13868",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"it doesn't fall off\" ~54:50-55:00; ts 49:16 is ~5.5 min early.",
+  "fix": {
+   "timestamp": "00:54:50"
+  }
+ },
+ {
+  "claim": "C-13869",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"miked after he sat down\" ~55:20; ts 49:16 is ~6 min early.",
+  "fix": {
+   "timestamp": "00:55:15"
+  }
+ },
+ {
+  "claim": "C-13870",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"things done for the first time\" ~55:35; ts 49:16 is ~6 min early.",
+  "fix": {
+   "timestamp": "00:55:30"
+  }
+ }
+]

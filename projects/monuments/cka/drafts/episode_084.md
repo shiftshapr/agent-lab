@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep084): N-10582, N-10631
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-602, N-603, N-604, N-10903, N-10904, N-10906
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-11, N-14, N-15, N-30, N-40, N-60, N-82, N-107, N-190, N-194, N-213, N-215, N-221, N-247, N-250, N-270, N-334, N-366, N-499, N-557, N-10000, N-10074, N-10108, N-10186, N-10203, N-10212, N-10367, N-10373, N-10378, N-10450, N-10478, N-10479, N-10483, N-10496, N-10508, N-10547, N-10548, N-10551, N-10554, N-10560, N-10905, N-10587, N-605, N-10641, N-606
+  - Tip-minted Nodes (skeleton): N-600, N-601, N-602, N-10903, N-10904, N-10906
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-11, N-14, N-15, N-30, N-40, N-60, N-82, N-106, N-188, N-192, N-211, N-213, N-219, N-245, N-248, N-268, N-332, N-364, N-497, N-555, N-10000, N-10074, N-10108, N-10186, N-10203, N-10212, N-10367, N-10373, N-10378, N-10450, N-10478, N-10479, N-10483, N-10496, N-10508, N-10547, N-10548, N-10551, N-10554, N-10560, N-10905, N-10587, N-603, N-10641, N-604
   - Claim Range: C-3777–C-3826
   - (see registers)
 
@@ -42,7 +42,7 @@ Video Timestamp: 00:02:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3779, C-3780, C-3781, N-603, N-2, N-10108, N-10074*
+*Related: C-3779, C-3780, C-3781, N-601, N-2, N-10108, N-10074*
 
 ---
 
@@ -83,7 +83,7 @@ Video Timestamp: 00:08:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: N-334, N-14, N-10554*
+*Related: N-332, N-14, N-10554*
 
 **A-2527.2** Baron Coleman flight-tracking clip and screen on the TPUSA-associated plane N582MM (Pierre–Chicago–Provo on September 10; Atlanta–Fort Huachuca–Kalispell on October 4)
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:33:56
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3777, C-3816, C-3817, C-3818, C-3819, C-3820, N-334, N-250, N-10903*
+*Related: C-3777, C-3816, C-3817, C-3818, C-3819, C-3820, N-332, N-248, N-10903*
 
 ---
 
@@ -107,7 +107,7 @@ Video Timestamp: 00:12:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3785, C-3792, C-3793, C-3794, C-3795, C-3796, C-3797, C-3798, C-3799, N-14, N-499, N-557, N-15, N-10547*
+*Related: C-3785, C-3792, C-3793, C-3794, C-3795, C-3796, C-3797, C-3798, C-3799, N-14, N-497, N-555, N-15, N-10547*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:20:52
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3807, N-221, N-2*
+*Related: C-3807, N-219, N-2*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:27:45
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3809, N-602, N-2*
+*Related: C-3809, N-600, N-2*
 
 **A-2533.2** Grok reply on X identifying Erika Kirk as the actress in the skit
 
@@ -187,7 +187,7 @@ Video Timestamp: 00:29:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-3810, N-247, N-2*
+*Related: C-3810, N-245, N-2*
 
 **A-2533.3** Ted Cruz post calling the skit beneath contempt
 
@@ -196,7 +196,7 @@ Video Timestamp: 00:30:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-3811, N-107, N-602*
+*Related: C-3811, N-106, N-600*
 
 **A-2533.4** Andrew Kolvet comment on the skit
 
@@ -222,7 +222,7 @@ Video Timestamp: 00:31:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3813, N-606, N-10000*
+*Related: C-3813, N-604, N-10000*
 
 ---
 
@@ -237,7 +237,7 @@ Video Timestamp: 00:42:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-3823, N-190*
+*Related: C-3823, N-188*
 
 ---
 
@@ -332,109 +332,109 @@ Referenced as being back in town as the Egyptian planes return to Provo.
 
 *Related: C-3821*
 
-**N-107** Ted Cruz
+**N-106** Ted Cruz
 
 Posted that the Druski skit was "beneath contempt."
 
 *Related: C-3811, A-2533.3*
 
-**N-190** Stacy Sheridan
+**N-188** Stacy Sheridan
 
 Named on the scanner-based hospital escort list; host confirms she lives in the Kirks' complex.
 
 *Related: C-3799, C-3800, C-3823, A-2535.1*
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Host says he and Elizabeth are at the Kirks' complex every day.
 
 *Related: C-3823*
 
-**N-213** Joe Kent
+**N-211** Joe Kent
 
 Host says Kolvet blames him for circulating the leaked text message.
 
 *Related: C-3822*
 
-**N-215** Jesse Watters
+**N-213** Jesse Watters
 
 Transcript spelling "Jesse Watters". His interview with Erika Kirk is contrasted with the New York Times account.
 
 *Related: C-3808*
 
-**N-221** Eliza McCoy
+**N-219** Eliza McCoy
 
 Transcript spellings "Elizabeth McCord" and "Elizabeth McCoy". Her account and October Instagram post on Erika Kirk learning of the death are compared with the New York Times version.
 
 *Related: C-3799, C-3800, C-3806, C-3807, C-3823, A-2532.1*
 
-**N-247** Grok
+**N-245** Grok
 
 X AI reply misidentified Erika Kirk as the actress in the Druski skit.
 
 *Related: C-3810, A-2533.2*
 
-**N-250** Butch Hibbs
+**N-248** Butch Hibbs
 
 Named by Baron Coleman as part of the security team in Montana on October 5.
 
 *Related: C-3818, A-2527.2*
 
-**N-270** Brian Harpole
+**N-268** Brian Harpole
 
 Transcript spelling "Brian Harpool". Subject of Mitch Snow's Fort Huachuca sighting.
 
 *Related: C-3814, C-3815*
 
-**N-334** Baron Coleman
+**N-332** Baron Coleman
 
 Researcher whose clips argue the significance of Kolvet's departure time and track the TPUSA-associated plane N582MM.
 
 *Related: C-3777, C-3816, C-3817, C-3818, C-3819, C-3820, A-2527.1, A-2527.2*
 
-**N-366** Mitch Snow
+**N-364** Mitch Snow
 
 Referred to as "Mitch"; his account of seeing Brian Harpole at Fort Huachuca on September 9 is restated.
 
 *Related: C-3815*
 
-**N-499** Marina (TPUSA CMO)
+**N-497** Marina (TPUSA CMO)
 
 Transcript spelling "Marina Medvin". Placed on the timeline as asking Aubrey to draft the death statement.
 
 *Related: C-3795, A-2528.1*
 
-**N-557** Aubrey Lech
+**N-555** Aubrey Lech
 
 Named only as "Aubrey"; drafted the death statement and staff email per the host's timeline.
 
 *Related: C-3795, C-3796, A-2528.1*
 
-**N-602** Druski
+**N-600** Druski
 
 First named by the host at 00:00:46 in episode 084. Comedian whose viral skit mocking conservative women is played. Aliases: Drewski; Druski; Jurski.
 
 *Related: C-3809, C-3811, A-2533.1, A-2533.3*
 
-**N-603** Sergeant Dupey
+**N-601** Sergeant Dupey
 
 First named by the host at 00:01:24 in episode 084. Provo police sergeant named on the September 10 scanner recording as en route to Provo Airport for the victim's wife.
 
 *Related: C-3779, A-2525.1*
 
-**N-604** Jamie (Charlie Kirk's pilot)
+**N-602** Jamie (Charlie Kirk's pilot)
 
 First named by the host at 00:11:05 in episode 084. Known to the host only by first name; possibly from Texas.
 
 *Related: C-3791*
 
-**N-605** Katherine Locastro
+**N-603** Katherine Locastro
 
 First named by the host at 00:14:28 in episode 084. Named among those escorted to Timpanogos Hospital and entering with Erika Kirk. Aliases: Cat.
 
 *Related: C-3799, C-3800*
 
-**N-606** Scott Bessent
+**N-604** Scott Bessent
 
 First named by the host at 00:31:19 in episode 084. Host says he issued a letter stating Turning Point is in great financial standing.
 
@@ -458,7 +458,7 @@ The September 10 Provo scanner traffic on the airport pickup and hospital escort
 
 *Related: C-3779, C-3799, A-2525.1*
 
-**N-10186** Plane 888 / Maxwell Plane Investigation
+**N-10186** Plane 888 / Maxfield Plane Investigation
 
 The host recalls the N888 flight shuttling to and from Page, Arizona.
 
@@ -589,14 +589,14 @@ How the night-before text came to circulate.
 Node Type: Topic
 Investigation target: a plane with tail number N582MM, which Baron Coleman says a TPUSA insider described as frequently used by TPUSA. Per Coleman's tracking it flew Pierre–Chicago–Provo on September 10, 2025. It spent October 4 at Fort Huachuca after flying in from Atlanta, then went to Kalispell, Montana, the day before a Kalispell-to-Bozeman flight tied to the security team's Fairy Lake gathering. The host says it is plausibly attached to TPUSA's security apparatus.
 
-*Related: C-3777, C-3816, C-3817, C-3818, C-3819, C-3820, A-2527.2, N-334, N-250*
+*Related: C-3777, C-3816, C-3817, C-3818, C-3819, C-3820, A-2527.2, N-332, N-248*
 
 **N-10904** Charlie Kirk Pilot "Jamie" Identification
 
 Node Type: Topic
 Investigation target: the identity of Charlie Kirk's pilot, known to the host only as "Jamie" and possibly from Texas, whom the host considers a crucial unidentified witness to the September 10 flights.
 
-*Related: C-3791, N-604, N-1*
+*Related: C-3791, N-602, N-1*
 
 **N-10905** New York Times Erika Kirk Interview Account Discrepancies
 
@@ -623,7 +623,7 @@ Claim: The host says Baron Coleman discovered, and she has confirmed, that anoth
 Transcript Snippet: Baron Coleman has discovered and I have confirmed that there was another plane that's associated with Turning Point USA that spent time at Fort Huachuca after the assassination
 
 Anchored Artifacts: A-2527.2
-Mentions: N-334, N-3
+Mentions: N-332, N-3
 Related Nodes: N-10903, N-10000
 Investigative Direction: Obtain FAA/ADS-B track history for the aircraft later identified as N582MM and its registered owner or operator, and any charter records linking it to Turning Point USA.
 
@@ -655,7 +655,7 @@ Claim: According to a September 10 Provo police scanner recording played by the 
 Transcript Snippet: Uh myself and Sergeant Dupey are uh in route to Provo Airport. Uh victim's wife is arriving at 3:30.
 
 Anchored Artifacts: A-2525.1
-Mentions: N-603, N-2
+Mentions: N-601, N-2
 Related Nodes: N-10108, N-10074, N-10560
 Investigative Direction: Obtain the archived Provo Police Department radio traffic for September 10, 2025 and the dispatch/CAD log for the airport pickup, and confirm the identity of Sergeant Dupey.
 
@@ -841,7 +841,7 @@ Transcript Snippet: I know that his first name is Jamie, but that's all I know. 
 
 Anchored Artifacts: 
 
-Mentions: N-604, N-1
+Mentions: N-602, N-1
 Related Nodes: N-10904
 Investigative Direction: Identify the charter operator of Charlie Kirk's aircraft and its pilot roster for September 10, 2025.
 
@@ -901,7 +901,7 @@ Claim: The host says Marina Medvin asked Aubrey to draft the death statement and
 Transcript Snippet: Then we know that Marina Medvin is going to ask Aubrey to draft the death death statement. She says that Andrew is on a plane.
 
 Anchored Artifacts: A-2528.1
-Mentions: N-499, N-557, N-14
+Mentions: N-497, N-555, N-14
 Related Nodes: N-10554, N-10000
 Supports: C-2535
 Investigative Direction: Obtain the TPUSA PR group chat messages with timestamps from September 10, 2025.
@@ -917,7 +917,7 @@ Claim: The host says Justin Streiff sent the email drafted by Aubrey announcing 
 Transcript Snippet: Justin Streiff is going to send the email that was drafted by Aubrey announcing Charlie's death to the entire Turning Point USA staff staff at 2:27.
 
 Anchored Artifacts: A-2528.1
-Mentions: N-15, N-557, N-1
+Mentions: N-15, N-555, N-1
 Related Nodes: N-10000
 Investigative Direction: Obtain the staff-wide email with header timestamps.
 
@@ -962,7 +962,7 @@ Claim: The host says the police scanner indicates Erika Kirk, Elizabeth (McCoy),
 Transcript Snippet: from the police scanner that Erika, Elizabeth, and Tyler, and Stacy Sheridan, and Cat are going to be escorted to Timpanogos Hospital.
 
 Anchored Artifacts: A-2528.1
-Mentions: N-2, N-221, N-11, N-190, N-605
+Mentions: N-2, N-219, N-11, N-188, N-603
 Related Nodes: N-10108, N-10582
 Investigative Direction: Obtain the full scanner recording and police escort logs for the hospital transfer.
 
@@ -978,7 +978,7 @@ Transcript Snippet: I believe she then lands on that 4:36 plane from Santa Barba
 
 Anchored Artifacts: 
 
-Mentions: N-14, N-2, N-221, N-190, N-605, N-11
+Mentions: N-14, N-2, N-219, N-188, N-603, N-11
 Related Nodes: N-10554, N-10560
 Investigative Direction: Obtain the 4:36 Santa Barbara-to-Provo flight manifest and hospital entrance footage or visitor logs.
 
@@ -1071,7 +1071,7 @@ Claim: The host says the New York Times "airborne" version is not what Erika Kir
 Transcript Snippet: It's not even what Erika told me to my face. She said which more closely mirrors what Elizabeth McCord said that she found out. Elizabeth McCord said right when she got to the airport.
 
 Anchored Artifacts: A-2530.1
-Mentions: N-2, N-3, N-221
+Mentions: N-2, N-3, N-219
 Related Nodes: N-10905, N-10582
 Investigative Direction: Reconcile the New York Times article, Elizabeth McCoy's statements and the host's account of her meeting with Erika Kirk.
 
@@ -1086,7 +1086,7 @@ Claim: The host reads an October Instagram post by Elizabeth McCoy describing co
 Transcript Snippet: No one teaches you how to comfort a a woman on a plane who only moments moments before became a widow on her way to face the reality of her husband's assassination moments before.
 
 Anchored Artifacts: A-2532.1
-Mentions: N-221, N-2
+Mentions: N-219, N-2
 Related Nodes: N-10582
 Investigative Direction: Archive the original Instagram post with its date and any later edits.
 
@@ -1101,7 +1101,7 @@ Claim: The host says that in the New York Times article Erika Kirk said she hear
 Transcript Snippet: She also slightly adjusts in the New York Times article when she says that she heard him like close the door when he left, but then later on we're going to hear that she saw him grab his necklace
 
 Anchored Artifacts: A-2530.1
-Mentions: N-2, N-215, N-1
+Mentions: N-2, N-213, N-1
 Related Nodes: N-10905
 Investigative Direction: Compare the New York Times text with the Jesse Watters interview transcript and other Erika Kirk interviews.
 
@@ -1116,7 +1116,7 @@ Claim: The host plays a viral skit by comedian Druski which she says mocks conse
 Transcript Snippet: Here is Druski Druski uh mocking conservative women, namely Erika Kirk.
 
 Anchored Artifacts: A-2533.1
-Mentions: N-602, N-2
+Mentions: N-600, N-2
 Investigative Direction: Archive the original skit post with its date and view counts.
 
 ---
@@ -1130,7 +1130,7 @@ Claim: The host shows a reply in which Grok, asked who was in the skit, answered
 Transcript Snippet: And Grok replied and said, "That's Erika Kirk." Oh, the actress and comedian starring in Juicy Satirical Skits.
 
 Anchored Artifacts: A-2533.2
-Mentions: N-247, N-2
+Mentions: N-245, N-2
 Investigative Direction: Archive the Grok reply on X with its timestamp.
 
 ---
@@ -1144,7 +1144,7 @@ Claim: The host says Ted Cruz tweeted that the Druski skit was "beneath contempt
 Transcript Snippet: Ted Cruz tweeted that this was beneath contempt.
 
 Anchored Artifacts: A-2533.3
-Mentions: N-107, N-602
+Mentions: N-106, N-600
 Investigative Direction: Archive Ted Cruz's post with its exact wording and date.
 
 ---
@@ -1172,7 +1172,7 @@ Claim: The host says TPUSA was able to get Scott Bessent to issue a letter stati
 Transcript Snippet: You can get Scott Bessent to issue a letter and say, "Turning Point is in great financial standing."
 
 Anchored Artifacts: A-2534.1
-Mentions: N-606
+Mentions: N-604
 Related Nodes: N-10000, N-10212
 Investigative Direction: Locate the letter, its date, its author and the Treasury or personal capacity in which it was issued.
 
@@ -1188,7 +1188,7 @@ Transcript Snippet: Andrew was feeding information to like obscure podcasters tr
 
 Anchored Artifacts: 
 
-Mentions: N-14, N-3, N-270
+Mentions: N-14, N-3, N-268
 Related Nodes: N-10378, N-10450
 Supports: C-2002
 Investigative Direction: Collect the podcasts and posts attacking the Fort Huachuca story and any messages showing Kolvet supplied material to them.
@@ -1205,7 +1205,7 @@ Transcript Snippet: He felt he he was almost certain he saw Brian Harpool in a u
 
 Anchored Artifacts: 
 
-Mentions: N-366, N-270, N-1
+Mentions: N-364, N-268, N-1
 Related Nodes: N-10373, N-10367
 Supports: C-1974
 Investigative Direction: Obtain Fort Huachuca visitor access logs and Brian Harpole's travel records for September 8–9, 2025.
@@ -1221,7 +1221,7 @@ Claim: According to Baron Coleman's clip, the plane, which a TPUSA insider told 
 Transcript Snippet: It left Pierre, South Dakota, at 2:40 p. m. It landed in Chicago at 4:06 p. m. Less than an hour later, it it left for Provo.
 
 Anchored Artifacts: A-2527.2
-Mentions: N-334
+Mentions: N-332
 Related Nodes: N-10903, N-10074
 Investigative Direction: Pull ADS-B data for N582MM on September 10, 2025 and the charter or owner records for that leg.
 
@@ -1236,7 +1236,7 @@ Claim: According to Baron Coleman's clip, the plane flew from Atlanta to Fort Hu
 Transcript Snippet: This is Fort Huachuca. Atlanta to Fort Huachuca. It lands at 9:33 a. m. And it's there all day. It does not leave until 4:39 p. m.
 
 Anchored Artifacts: A-2527.2
-Mentions: N-334
+Mentions: N-332
 Related Nodes: N-10903
 Investigative Direction: Pull ADS-B data and Libby Army Airfield / Sierra Vista airport logs for N582MM on October 4, 2025.
 
@@ -1251,7 +1251,7 @@ Claim: Baron Coleman says that on October 5, the day after the plane went from F
 Transcript Snippet: It was the following day, October 5th, when the security team, including Butch Hibbs, for some reason, random preacher's brother, is also there with them.
 
 Anchored Artifacts: A-2527.2
-Mentions: N-250, N-334
+Mentions: N-248, N-332
 Related Nodes: N-10903
 Investigative Direction: Obtain flight data for the Kalispell-to-Bozeman private flight and identify attendees of the Fairy Lake gathering.
 
@@ -1266,7 +1266,7 @@ Claim: The host corrects Baron Coleman's presumption, saying Charlie Kirk's pare
 Transcript Snippet: Definitively, Charlie's parents were not on that plane because uh J. D. Vance sent the Air Force 2 to pick up Charlie's parents.
 
 Anchored Artifacts: A-2527.2
-Mentions: N-4, N-1, N-334
+Mentions: N-4, N-1, N-332
 Related Nodes: N-10903
 Investigative Direction: Confirm Air Force Two movements on September 10, 2025 and identify who was aboard N582MM from Chicago.
 
@@ -1281,7 +1281,7 @@ Claim: The host identifies the TPUSA-associated plane from Baron Coleman's clip 
 Transcript Snippet: Cool. Okay, I was really wrong. N582MM is that tail number.
 
 Anchored Artifacts: A-2527.2
-Mentions: N-334
+Mentions: N-332
 Related Nodes: N-10903
 Investigative Direction: Look up N582MM in the FAA registry for owner, operator and any charter certificate.
 
@@ -1313,7 +1313,7 @@ Transcript Snippet: Andrew believes that Joe he gave it to Joe Kent and maybe Jo
 
 Anchored Artifacts: 
 
-Mentions: N-14, N-213, N-3
+Mentions: N-14, N-211, N-3
 Related Nodes: N-10551, N-10641
 Investigative Direction: Identify everyone Kolvet shared the text with and when, and the earliest public appearance of the text.
 
@@ -1328,7 +1328,7 @@ Claim: Responding to a viewer comment that Stacy Sheridan lives in the same comp
 Transcript Snippet: Yeah, she does, and I find it to be very weird and very creepy. Uh Mikey McCoy, I don't know if he has a place there, him and Elizabeth, but they are there all the time
 
 Anchored Artifacts: A-2535.1
-Mentions: N-190, N-194, N-221, N-1, N-2
+Mentions: N-188, N-192, N-219, N-1, N-2
 Investigative Direction: Check property and HOA records for the residential complex and confirm residency through public records.
 
 ---
@@ -1422,8 +1422,8 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2529.1 (TPUSA cease and desist), A-2531.1 (Erika Kirk's Instagram video of her mother), A-2534.1 (Scott Bessent letter) and A-2536.1 (online piece and insurance claim about the host's husband; the host says it will be shown next week).
 - **Date discrepancy**: the host dates Erika Kirk's frail-mother Instagram post to September 8 ("2 days before"), while prior claim C-2284 and node N-10479 date it September 7. C-3803 is linked as Supports C-2284 on the shared proposition; the date difference is preserved.
-- **Name matching**: "Elizabeth McCord" (19:56, 20:52) and "Elizabeth McCoy" (15:29) are both mapped to N-221 Eliza McCoy (alias Elizabeth McCoy). The context (the airport story and Mikey McCoy's wife) indicates the same person, but McCord may be a transcription error. "Cat" (14:28) and "Katherine Locastro" (15:29) are treated as one new person, N-605. Episodes 083, 085 and 086 spell her LoCastro, LaCastro and Low Castro, but she has no row in nodes.tsv, so the integrator should dedupe. "Marina Medvin" is matched to N-499 Marina (TPUSA CMO) through its alias.
-- **Transcription ambiguities**: The comedian is spelled "Drewski", "Druski" and "Jurski"; these are kept as written and aliased to N-602 Druski. Kolvet appears as "Andrew Kolvet" and "Andrew Kolvets". The tail number is first read as "N28 9 MM" and then corrected on air to N582MM. The scanner line "2J436 436" is a unit or cruiser identifier per the host. "Sergeant Dupey" spelling is unverified.
+- **Name matching**: "Elizabeth McCord" (19:56, 20:52) and "Elizabeth McCoy" (15:29) are both mapped to N-219 Eliza McCoy (alias Elizabeth McCoy). The context (the airport story and Mikey McCoy's wife) indicates the same person, but McCord may be a transcription error. "Cat" (14:28) and "Katherine Locastro" (15:29) are treated as one new person, N-603. Episodes 083, 085 and 086 spell her LoCastro, LaCastro and Low Castro, but she has no row in nodes.tsv, so the integrator should dedupe. "Marina Medvin" is matched to N-497 Marina (TPUSA CMO) through its alias.
+- **Transcription ambiguities**: The comedian is spelled "Drewski", "Druski" and "Jurski"; these are kept as written and aliased to N-600 Druski. Kolvet appears as "Andrew Kolvet" and "Andrew Kolvets". The tail number is first read as "N28 9 MM" and then corrected on air to N582MM. The scanner line "2J436 436" is a unit or cruiser identifier per the host. "Sergeant Dupey" spelling is unverified.
 - **Timing ambiguity**: the host says Kolvet was "on the flight that landed at 4:30 p. m." (05:56) but elsewhere says "about 4:40 p. m." (02:15) and "4:36 plane" (14:28). All are preserved as spoken.
 - **Not inscribed as claims (admission test)**: Several statements fail falsifiability or rhetoric removal:
   - "Erika's always lying"

@@ -340,7 +340,7 @@ Um Kelly Gibson writes my Catholic bestie and I keep you in our prayers. Thank y
 
 [01:07:16]
 
-Right now, we are at a point and I think John and Arena Mapel in that beautiful letter they wrote yesterday said it way more eloquently than I ever could. Which is if you if you actually continue the legacy of Charlie, it means continuing to fight for truth. And to the extent that they do that, they will have an ally in me. I never attacked Turning Point USA cuz I came from Turning Point USA and I saw what it took to build that company because I was a part of building that company. But to the extent that we feel that they've become so corporate that they're not answering our questions or making us feel ashamed for asking these questions or just like feel like they don't care about getting to truth. I think it was very sloppy what Tyler Bowyer did on X.
+Right now, we are at a point and I think John and Irina Mappin in that beautiful letter they wrote yesterday said it way more eloquently than I ever could. Which is if you if you actually continue the legacy of Charlie, it means continuing to fight for truth. And to the extent that they do that, they will have an ally in me. I never attacked Turning Point USA cuz I came from Turning Point USA and I saw what it took to build that company because I was a part of building that company. But to the extent that we feel that they've become so corporate that they're not answering our questions or making us feel ashamed for asking these questions or just like feel like they don't care about getting to truth. I think it was very sloppy what Tyler Bowyer did on X.
 
 [01:07:54]
 

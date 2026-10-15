@@ -1,0 +1,753 @@
+[
+ {
+  "claim": "C-10684",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Host: \"I know exactly who you were that were exerting pressure.\" Target of the pressure (Kirk) is not stated.",
+  "fix": {
+   "claim": "The host says she is seeing messages from people trying to replace Charlie Kirk at Turning Point USA, and that she knows exactly who they are and who were exerting pressure."
+  }
+ },
+ {
+  "claim": "C-10685",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10686",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10687",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Second clause supported at 48:07 \"they said there's probably somebody else involved\".",
+  "fix": {}
+ },
+ {
+  "claim": "C-10688",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10689",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10690",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10691",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10692",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10693",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10694",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10695",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10696",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10697",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10698",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10699",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "Host is sarcastic: \"Bill Ackman probably a million dollars, right? Thanks, Bill... that money is now going to the father\". Claim drops sarcasm and says \"will see\".",
+  "fix": {
+   "claim": "The host says, sarcastically, that Bill Ackman, who she guesses offered probably a million dollars, is thanked because that money is now going to the father of the suspect who, after prayer and speaking to a pastor, turned his son in."
+  }
+ },
+ {
+  "claim": "C-10700",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10701",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10702",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10703",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10704",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10705",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10706",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10707",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "Viewer says she \"stood there talking to a woman for the whole hour the show was going on\" at the PBD live podcast, not \"through\" the podcast.",
+  "fix": {
+   "claim": "The host reads a viewer comment from Anna saying that at AmFest 2023 she went alone to the PBD live podcast and stood talking to a woman for the whole hour of the show, and at the end the woman told her she was Charlie's wife, Erika, who made her feel welcome."
+  }
+ },
+ {
+  "claim": "C-10708",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10709",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10710",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10711",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10712",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10713",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10714",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "Host also says \"Look up Abraham Pollock... he won awards for saying they were the Khazars\"; claim omits him though N-53 is mentioned. Name transcribed \"Pollock\"; node N-53 is Abraham Poliak.",
+  "fix": {
+   "claim": "Responding to a viewer's recommendation of The 13th Tribe, the host says that Ashkenazi Jews' own books said they were Khazars, that she has covered the topic extensively on her show, and tells viewers to look up Abraham Poliak, who she says won awards for saying they were the Khazars."
+  }
+ },
+ {
+  "claim": "C-10715",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10716",
+  "episode": 2,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1144",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1145",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1146",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1147",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1148",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1149",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcribed \"Oh Bella cow\" and \"Lmo\" are garbled (O Bella ciao; LMAO); the host also reads \"notices bulge\" on another cartridge.",
+  "fix": {
+   "claim": "Per the probable cause statement the host reads, inscriptions on the cartridges read 'Hey fascist catch', 'O Bella ciao', and 'if you read this you are gay LMAO'."
+  }
+ },
+ {
+  "claim": "C-1150",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host reads from the statement (\"Robinson's mother stated the following to police\") but claim states it with no source. Mother first called her son, then her husband.",
+  "fix": {
+   "claim": "Per the probable cause statement the host reads, Robinson's mother told police she saw the news photo of the shooter on September 11 and thought it looked like her son; she called her son, then expressed concern to her husband."
+  }
+ },
+ {
+  "claim": "C-1151",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Statement-reported (\"Robinson's father reported that...\") but claim has no source attribution.",
+  "fix": {
+   "claim": "Per the probable cause statement the host reads, Robinson's father reported that he agreed the shooter photo looked like his son and believed the rifle matched a rifle gifted to his son; he asked for a photo of that rifle and Robinson did not respond."
+  }
+ },
+ {
+  "claim": "C-1152",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1153",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1154",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions includes N-2 (Erika Kirk), who is not named or referred to in the claim or transcript.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-54",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1155",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"They're not telling us the time\"; lockdown reference not in window (likely later text).",
+  "fix": {}
+ },
+ {
+  "claim": "C-1156",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1157",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1158",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1159",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"Intervention\" denial not in window; host mentions the 955-word response and Ackman saying he never blackmailed Charlie.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1160",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-56 (Aaron Wexler) not in transcript or claim; N-66 (Village Crazy Lady) only reads the tweet and is not in the claim.",
+  "fix": {
+   "mentions": [
+    "N-37",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1161",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1162",
+  "episode": 3,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Texts calling him antisemite (54:16) and Epstein/Mossad speculation (~52:10) are Kirk's own words in the clip, not the host's additions.",
+  "fix": {
+   "claim": "The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and says he and Kelly speculated about Jeffrey Epstein possibly being a Mossad agent or asset, which has been turned around on him as anti-semitism."
+  }
+ },
+ {
+  "claim": "C-1163",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1164",
+  "episode": 3,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"The letter Charlie wrote him in May was just like a glowing... I love Israel... Love you BB. I just find that weird\" is the host speaking; Ackman's words are not quoted.",
+  "fix": {
+   "claim": "The host says the letter Charlie Kirk wrote Benjamin Netanyahu in May was glowing, that he was overcome with passion and said he loved Israel, and that she finds it weird no one addresses the substance of the claims."
+  }
+ },
+ {
+  "claim": "C-1165",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host paraphrases (\"blah blah blah\", \"Charlie's going to ruin his company\") without showing the tweet; claim states it as the tweet's content.",
+  "fix": {
+   "claim": "The host says Laura Loomer tweeted a thread a week before Charlie Kirk died about how Kirk had to distance himself from Tucker Carlson, calls her one of the people creating online pressure, and paraphrases the thread as saying Kirk was going to ruin his company."
+  }
+ },
+ {
+  "claim": "C-1166",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1167",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1168",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1169",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1170",
+  "episode": 3,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

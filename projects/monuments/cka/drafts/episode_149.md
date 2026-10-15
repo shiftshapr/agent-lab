@@ -13,10 +13,10 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11407, N-11408, N-11409
   - Hole-minted Nodes (reintro-ep149): N-10828
-  - Tip-minted Nodes (reintro-ep149): N-906, N-909, N-11310
+  - Tip-minted Nodes (reintro-ep149): N-904, N-907, N-11310
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14854–C-14945
-  - Hole-minted Nodes (fixall-ep149): N-273
+  - Hole-minted Nodes (fixall-ep149): N-271
   - (see registers)
 
 # Episode Analysis: Bride of Charlie Episode 149
@@ -36,7 +36,7 @@
   - Artifact Families Introduced: A-2426, A-2427, A-2428, A-2429, A-2430, A-2431, A-2432, A-2433, A-2434, A-2435
   - Claim Range: C-3543–C-3567
   - New Nodes Introduced: (none)
-  - Reused Nodes Appearing: N-493, N-498, N-2, N-14, N-27, N-38, N-46, N-54, N-55, N-162, N-167, N-194, N-228, N-333, N-366, N-370, N-438, N-855, N-10024, N-10062, N-10077, N-10148, N-10187, N-10337, N-10373, N-10375, N-10381, N-10573, N-10576, N-10581, N-10688, N-10737, N-10888, N-10953, N-11017, N-11191, N-11262
+  - Reused Nodes Appearing: N-491, N-496, N-2, N-14, N-27, N-38, N-46, N-54, N-55, N-161, N-166, N-192, N-226, N-331, N-364, N-368, N-436, N-853, N-10024, N-10062, N-10077, N-10148, N-10187, N-10337, N-10373, N-10375, N-10381, N-10573, N-10576, N-10581, N-10688, N-10737, N-10888, N-10953, N-11017, N-11191, N-11262
   - Existing Nodes Reused: 
 
 ## 6. Meme Register
@@ -192,7 +192,7 @@ Video Timestamp: 00:01:19
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3543, C-3544, C-3545, N-273*
+*Related: C-3543, C-3544, C-3545, N-271*
 
 ### A-2427 Frank Turek Sermon/Clip Bundle
 
@@ -228,7 +228,7 @@ Video Timestamp: 00:06:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3546, N-273*
+*Related: C-3546, N-271*
 
 ### A-2428 Brian Harpole Paramount Interview Bundle
 
@@ -240,7 +240,7 @@ Video Timestamp: 00:10:07
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3547, C-3548, N-273*
+*Related: C-3547, C-3548, N-271*
 
 ### A-2429 Frank Turek CPR Account
 
@@ -252,7 +252,7 @@ Video Timestamp: 00:11:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3546, N-273*
+*Related: C-3546, N-271*
 
 ### A-2430 Frank Turek FaceTime with Pastor Jack Hibbs
 
@@ -264,7 +264,7 @@ Video Timestamp: 00:14:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3548, N-273*
+*Related: C-3548, N-271*
 
 ### A-2431 Hospital Parking Lot Eyewitness Account
 
@@ -276,7 +276,7 @@ Video Timestamp: 00:16:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3549, N-273*
+*Related: C-3549, N-271*
 
 ### A-2432 September 10 Security Team Footage Bundle
 
@@ -304,7 +304,7 @@ Video Timestamp: 00:00:00–00:00:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-3550, C-3551, C-3552, C-3553, C-3554, C-3555, C-3556, C-3557, N-273*
+*Related: C-3550, C-3551, C-3552, C-3553, C-3554, C-3555, C-3556, C-3557, N-271*
 
 ### A-2433 Panguitch Cowboy Smokehouse Evidence Bundle
 
@@ -340,7 +340,7 @@ Video Timestamp: 00:33:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3557, C-3558, C-3559, C-3560, C-3561, C-3562, C-3563, C-3565, C-3566, N-273*
+*Related: C-3557, C-3558, C-3559, C-3560, C-3561, C-3562, C-3563, C-3565, C-3566, N-271*
 
 ### A-2434 YouTube Comment – Matt Callaway "Blakey" Quote
 
@@ -352,7 +352,7 @@ Video Timestamp: 00:45:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (comment is uncorroborated hearsay, commenter's identity unknown)
 
-*Related: C-3564, N-273*
+*Related: C-3564, N-271*
 
 ### A-2435 YouTube Top Comments Read-Aloud Bundle
 
@@ -451,7 +451,7 @@ Video Timestamp: 00:01:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14857, N-3, N-273*
+*Related: C-14857, N-3, N-271*
 
 ---
 
@@ -464,7 +464,7 @@ Video Timestamp: 00:10:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14876, N-270, N-228, N-7*
+*Related: C-14876, N-268, N-226, N-7*
 
 ---
 
@@ -518,7 +518,7 @@ Video Timestamp: 00:52:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14943, C-14944, N-906, N-3, N-11310, N-493*
+*Related: C-14943, C-14944, N-904, N-3, N-11310, N-491*
 
 ---
 
@@ -547,7 +547,7 @@ Online debater. A viewer comment read on this episode references him.
 
 ---
 
-**N-273** Derek Pepper Williams
+**N-271** Derek Pepper Williams
 
 Node Type: Person
 TPUSA security detail member previously misidentified as Chester Barnes; also known as Pepper Williams. Host links him to PGL / Perimeter Global Logistics and a freight-family cluster on September 10.
@@ -609,7 +609,7 @@ TPUSA influencer payment campaign allegation topic.
 
 ---
 
-**N-438** Kimberly Klacik
+**N-436** Kimberly Klacik
 
 Former Maryland Republican congressional nominee; the host recounts her defamation suit.
 
@@ -625,7 +625,7 @@ Subject of the assassination; the host discusses his Israel position, the Zoom c
 
 ---
 
-**N-167** Rabbi Pesach Wolicki
+**N-166** Rabbi Pesach Wolicki
 
 Rabbi the host says was on the Zoom call with Charlie.
 
@@ -641,7 +641,7 @@ Commentator; the host says he was on the Zoom call and was caught lying about Ch
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Charlie's aide also called Blakey; named on the Zoom call and as the likely Blakey of the lobby comment.
 
@@ -681,7 +681,7 @@ Charlie's pre-death Israel position topic.
 
 ---
 
-**N-333** Tulsi Gabbard
+**N-331** Tulsi Gabbard
 
 Director of National Intelligence; the host says Kolvet gave her office a false account.
 
@@ -689,7 +689,7 @@ Director of National Intelligence; the host says Kolvet gave her office a false 
 
 ---
 
-**N-270** Brian Harpole
+**N-268** Brian Harpole
 
 Security team member and medic-trained team member in the SUV; says no CPR was done.
 
@@ -705,7 +705,7 @@ Turek and Harpole CPR narrative contradiction topic.
 
 ---
 
-**N-228** Shawn Ryan
+**N-226** Shawn Ryan
 
 Podcaster whose show interviewed Harpole about the ride.
 
@@ -729,7 +729,7 @@ Security team Timpanogos scrubs question topic.
 
 ---
 
-**N-493** Rick Cutler
+**N-491** Rick Cutler
 
 Security team member; the host says he carried Charlie and wore head-to-toe scrubs.
 
@@ -737,7 +737,7 @@ Security team member; the host says he carried Charlie and wore head-to-toe scru
 
 ---
 
-**N-212** Jack Hibbs
+**N-210** Jack Hibbs
 
 Pastor Jack Hibbs; Turek FaceTimed him from the hospital and he says Mikey called.
 
@@ -745,7 +745,7 @@ Pastor Jack Hibbs; Turek FaceTimed him from the hospital and he says Mikey calle
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Charlie's staffer who, per the host, provided the scrubs and phoned Jack Hibbs.
 
@@ -761,7 +761,7 @@ Timpanogos hospital evidence question topic.
 
 ---
 
-**N-498** Justin Davis
+**N-496** Justin Davis
 
 Security team member; the host says he drove the SUV and wore scrubs.
 
@@ -769,7 +769,7 @@ Security team member; the host says he drove the SUV and wore scrubs.
 
 ---
 
-**N-906** Blake Harreff
+**N-904** Blake Harreff
 
 Security team member; the host says he stayed behind, was clean and later wore scrubs.
 
@@ -777,7 +777,7 @@ Security team member; the host says he stayed behind, was clean and later wore s
 
 ---
 
-**N-274** Dan Flood
+**N-272** Dan Flood
 
 Security staffer who carried Charlie and wore scrubs at the UVU return.
 
@@ -841,7 +841,7 @@ Accused in the Kirk case; subject of the Panguitch receipt and the text message 
 
 ---
 
-**N-370** Diligent Dennison
+**N-368** Diligent Dennison
 
 Citizen journalist who released a waiter interview and the receipt.
 
@@ -881,7 +881,7 @@ Topic on the evidence base of the prosecution.
 
 ---
 
-**N-909** Miss Noble
+**N-907** Miss Noble
 
 Neighbor who the host says saw a bald man driving with two other people.
 
@@ -889,7 +889,7 @@ Neighbor who the host says saw a bald man driving with two other people.
 
 ---
 
-**N-366** Mitch Snow
+**N-364** Mitch Snow
 
 Fort Huachuca eyewitness; the host says she cannot confirm he saw Erika or Harpole.
 
@@ -970,7 +970,7 @@ Babylon Bee CEO; the host recalls his complaint about a thumbnail.
 
 ---
 
-**N-855** Tony Burke
+**N-853** Tony Burke
 
 Australian minister the host says banned her.
 
@@ -985,7 +985,7 @@ Australian minister the host says banned her.
 Claim Timestamp: 00:01:19
 Claim: The host says the man shown in the hat and plaid shirt on the TPUSA security detail on September 10, whom the show previously identified as "Chester Barnes," is in fact Derek Pepper Williams, a correction she says came from the show's tips inbox.
 Anchored Artifacts: A-2426.1
-Mentions: N-273
+Mentions: N-271
 Investigative Direction: Verify identity via personnel records, PGL employment records, and cross-reference with prior on-screen identifications.
 
 ---
@@ -995,7 +995,7 @@ Investigative Direction: Verify identity via personnel records, PGL employment r
 Claim Timestamp: 00:02:11
 Claim: The host says that after retiring from the Navy (Naval Special Warfare Operations), Derek Pepper Williams went on to work for PGL (Perimeter Global Logistics), a government defense contractor that she says ships on behalf of the Department of Defense.
 Anchored Artifacts: A-2426.1
-Mentions: N-273
+Mentions: N-271
 Investigative Direction: Confirm employment history via LinkedIn, PGL corporate filings, or defense contracting databases (e.g., USASpending.gov).
 
 ---
@@ -1005,7 +1005,7 @@ Investigative Direction: Confirm employment history via LinkedIn, PGL corporate 
 Claim Timestamp: 00:02:11
 Claim: The host says Pepper Williams was one of four people on the TPUSA team on the ground on September 10 whose families were involved in the same industry: global freight, trucking, and global shipping.
 Anchored Artifacts: A-2426.1
-Mentions: N-273
+Mentions: N-271
 Investigative Direction: Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews.
 
 ---
@@ -1025,7 +1025,7 @@ Investigative Direction: Obtain the full unedited Turek statement for context; c
 Claim Timestamp: 00:10:07
 Claim: In a Paramount interview, Brian Harpole explicitly stated that no CPR was conducted during the ride because bleeding control was the priority and the hospital was close.
 Anchored Artifacts: A-2428.1
-Mentions: N-270
+Mentions: N-268
 Investigative Direction: Compare the Paramount statement with the Shawn Ryan "car crash" interview; obtain transcripts and verify continuity.
 
 ---
@@ -1035,7 +1035,7 @@ Investigative Direction: Compare the Paramount statement with the Shawn Ryan "ca
 Claim Timestamp: 00:14:55
 Claim: During a FaceTime call with Pastor Jack Hibbs after arriving at the hospital, Frank Turek references "blood on me" in a manner the host characterizes as leading the conversation.
 Anchored Artifacts: A-2430.1
-Mentions: N-7, N-212
+Mentions: N-7, N-210
 Related Nodes:
 Investigative Direction: Locate the original FaceTime recording or screenshot; verify the exact wording and sequence of the exchange.
 
@@ -1067,7 +1067,7 @@ Investigative Direction: Obtain higher-resolution frame stills; cross-check with
 Claim Timestamp: 00:18:51
 Claim: The host says Blake Harreff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle, and that he did not travel in the SUV to the hospital.
 Anchored Artifacts: A-2432.1, A-2432.2
-Mentions: N-498
+Mentions: N-496
 Related Nodes:
 Investigative Direction: Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.
 
@@ -1089,7 +1089,7 @@ Investigative Direction: Identify when and where Blake obtained the scrubs; obta
 Claim Timestamp: 00:20:42
 Claim: The host says footage shows Rick Cutler, in a white hat, wearing head-to-toe surgical scrubs at the UVU return.
 Anchored Artifacts: A-2432.3
-Mentions: N-493
+Mentions: N-491
 Related Nodes:
 Investigative Direction: Identify scrubs source; obtain hospital records/logs.
 
@@ -1100,7 +1100,7 @@ Investigative Direction: Identify scrubs source; obtain hospital records/logs.
 Claim Timestamp: 00:20:42
 Claim: The host says footage shows Justin Davis wearing surgical scrubs at the UVU return.
 Anchored Artifacts: A-2432.3
-Mentions: N-498
+Mentions: N-496
 Related Nodes:
 Investigative Direction: Identify scrubs source; cross-reference with hospital logs.
 
@@ -1111,7 +1111,7 @@ Investigative Direction: Identify scrubs source; cross-reference with hospital l
 Claim Timestamp: 00:20:42
 Claim: The host says footage shows Dan Flood wearing surgical scrubs at the UVU return, consistent with his having carried Charlie.
 Anchored Artifacts: A-2432.3
-Mentions: N-274
+Mentions: N-272
 Related Nodes:
 Investigative Direction: Identify scrubs source; cross-reference with hospital logs.
 
@@ -1122,7 +1122,7 @@ Investigative Direction: Identify scrubs source; cross-reference with hospital l
 Claim Timestamp: 00:25:02
 Claim: The host says footage shows Brian Harpole holding what appears to be a jacket, possibly Charlie's, along with a brown bag, and she believes the other team members' brown bags hold their clothes.
 Anchored Artifacts: A-2432.3
-Mentions: N-270
+Mentions: N-268
 Investigative Direction: Higher-resolution frame analysis; cross-reference with clothing inventories.
 
 ---
@@ -1317,7 +1317,7 @@ Claim: The host says the TPUSA security team member in the hat and plaid shirt h
 Transcript Snippet: This individual who we initially named as Chester Barnes, someone that we thought was working with Integrity Solutions
 
 Anchored Artifacts: 
-Mentions: N-273
+Mentions: N-271
 Related Nodes: N-11407
 Tags: relevance:core
 Investigative Direction: Pull the earlier episode where the Chester Barnes and Integrity Solutions identification was made and check Integrity Solutions staff and contractor lists for any Barnes or Williams.
@@ -1333,7 +1333,7 @@ Claim: The host says the correction of the security team member's identity was p
 Transcript Snippet: Thanks to our tips inbox, we can correct the record.
 
 Anchored Artifacts: A-3348.1
-Mentions: N-3, N-273
+Mentions: N-3, N-271
 Related Nodes: 
 Tags: relevance:context, dia
 Investigative Direction: Obtain the tip email that supplied the Pepper Williams identification and any supporting employment record to confirm the correction.
@@ -1349,7 +1349,7 @@ Claim: The host says Derek Pepper Williams is a former Navy SEAL who worked in N
 Transcript Snippet: Derek Pepper Williams, a former Navy Seal who worked in Naval Special Warfare Operations.
 
 Anchored Artifacts: 
-Mentions: N-273
+Mentions: N-271
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Request Williams's DD-214 or Navy service record summary, or an authoritative biography confirming SEAL service.
@@ -1365,7 +1365,7 @@ Claim: The host says Perimeter Global Logistics specializes in global freight sh
 Transcript Snippet: They specialize in global freight shipping, over the border shipping down in Texas where he is based.
 
 Anchored Artifacts: 
-Mentions: N-273
+Mentions: N-271
 Related Nodes: N-11408
 Supports: C-3544
 Tags: relevance:core
@@ -1398,7 +1398,7 @@ Claim: The host says that when she looked into Maryland Republican congressional
 Transcript Snippet: I found out that she was like hiding the fact that she was a whole stripper.
 
 Anchored Artifacts: 
-Mentions: N-438, N-3
+Mentions: N-436, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Public reporting and records on Klacik's earlier employment; treat as a personal-history allegation recorded as said.
@@ -1414,7 +1414,7 @@ Claim: The host says Klacik's then husband managed the strip club, that Klacik s
 Transcript Snippet: sued me for def defamation and she subsequently lost that defamation lawsuit and she had to pay me here in Tennessee because we have anti-SLAP laws gratefully.
 
 Anchored Artifacts: 
-Mentions: N-438, N-3
+Mentions: N-436, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Pull the Tennessee court docket and any fee award order in the Klacik v. Owens case; compare with the earlier claim that the suit was dropped in discovery.
@@ -1497,7 +1497,7 @@ Claim: The host says Frank Turek joined Charlie the next day for the Zoom call, 
 Transcript Snippet: Frank would then join Charlie the next day for that now infamous Zoom call because Charlie desperately needed help with debating from namely two Israeli officials
 
 Anchored Artifacts: 
-Mentions: N-7, N-1, N-167, N-55, N-162, N-14
+Mentions: N-7, N-1, N-166, N-55, N-161, N-14
 Related Nodes: N-10169
 Supports: C-7756, C-7765, C-9340
 Tags: relevance:core
@@ -1514,7 +1514,7 @@ Claim: The host says the call was at 4:00 a.m. in the morning Israel time for th
 Transcript Snippet: from namely two Israeli officials at 4:00 a. m. in the morning their time
 
 Anchored Artifacts: 
-Mentions: N-1, N-167
+Mentions: N-1, N-166
 Related Nodes: N-10169
 Supports: C-10068
 Tags: relevance:core
@@ -1564,7 +1564,7 @@ Claim: The host says Andrew Kolvet felt the need to lie to Tulsi Gabbard's offic
 Transcript Snippet: something that Andrew Kolvet felt the need to give Tulsi Gabbard's office following his death.
 
 Anchored Artifacts: 
-Mentions: N-14, N-333, N-1
+Mentions: N-14, N-331, N-1
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Ask Gabbard's office for communications from Kolvet after Sept 10 and compare with the host's source for the account.
@@ -1597,7 +1597,7 @@ Claim: The host says Brian Harpole has said multiple times that no CPR was perfo
 Transcript Snippet: Brian Harpole, who has said multiple times they did not perform CPR during that extremely short ride over to the hospital
 
 Anchored Artifacts: 
-Mentions: N-270, N-7
+Mentions: N-268, N-7
 Related Nodes: 
 Supports: C-8876, C-5788
 Tags: relevance:core
@@ -1647,7 +1647,7 @@ Claim: The host says Harpole told Shawn Ryan in the car-crash interview that Fra
 Transcript Snippet: he told Shawn Ryan in the car crash interview that Frank was praying in the back. He didn't get involved.
 
 Anchored Artifacts: A-3349.1
-Mentions: N-270, N-228, N-7
+Mentions: N-268, N-226, N-7
 Related Nodes: 
 Supports: C-2950
 Tags: relevance:core
@@ -1664,7 +1664,7 @@ Claim: In the clip Turek says Brian is correct that most of the ride they were n
 Transcript Snippet: Brian is correct that most of the ride we weren't doing any CPR. We couldn't do CPR. We're trying to stop the bleeding.
 
 Anchored Artifacts: A-2429.1
-Mentions: N-7, N-270
+Mentions: N-7, N-268
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain the full original Turek statement and the date and outlet to compare with his earlier CPR claims.
@@ -1697,7 +1697,7 @@ Claim: The host says Turek goes on to say that Brian Harpole was just distracted
 Transcript Snippet: And then he goes on to say that Brian was just distracted. 30 seconds to seated CPR.
 
 Anchored Artifacts: 
-Mentions: N-7, N-270
+Mentions: N-7, N-268
 Related Nodes: 
 Supports: C-11665
 Tags: relevance:core
@@ -1714,7 +1714,7 @@ Claim: The host says she believes Frank Turek is lying and Brian Harpole is tell
 Transcript Snippet: Frank is lying and that Brian is telling the truth, which is what I believe, and I don't believe it's just a discrepancy because Brian said it across multiple interviews
 
 Anchored Artifacts: 
-Mentions: N-7, N-270
+Mentions: N-7, N-268
 Related Nodes: 
 Supports: C-13072
 Tags: relevance:core
@@ -1765,7 +1765,7 @@ Claim: The host says Harpole used the first person singular and did not suggest 
 Transcript Snippet: He did not, like I said, even suggest that Rick Cutler got involved. Rick Cutler was just holding him because Charlie's feet, they caught a tail.
 
 Anchored Artifacts: 
-Mentions: N-270, N-493, N-7
+Mentions: N-268, N-491, N-7
 Related Nodes: 
 Supports: C-11663
 Tags: relevance:core
@@ -1798,7 +1798,7 @@ Claim: The host says Frank Turek immediately FaceTimed Pastor Jack Hibbs when he
 Transcript Snippet: we know that Frank when he got to the hospital, he immediately facetimed Pastor Jack Hibbs
 
 Anchored Artifacts: A-2430.1
-Mentions: N-7, N-212
+Mentions: N-7, N-210
 Related Nodes: 
 Supports: C-7630
 Tags: relevance:core
@@ -1815,7 +1815,7 @@ Claim: In the clip Jack Hibbs says Mikey called and said to get everyone in the 
 Transcript Snippet: "Jack, get everyone in the world praying. >> There's so much blood.
 
 Anchored Artifacts: A-2430.1
-Mentions: N-212, N-194
+Mentions: N-210, N-192
 Related Nodes: 
 Supports: C-7632, C-3386
 Tags: relevance:core
@@ -1832,7 +1832,7 @@ Claim: The host says that when Turek says 'You saw I had blood on me' it seemed 
 Transcript Snippet: It seemed like that was Frank's memory, not Jack's.
 
 Anchored Artifacts: A-2430.1
-Mentions: N-7, N-212
+Mentions: N-7, N-210
 Related Nodes: 
 Supports: C-7633
 Tags: relevance:core
@@ -1849,7 +1849,7 @@ Claim: The host says that after searching the internet she found only one eyewit
 Transcript Snippet: there was just one eyewitness that came forward that we could find who claimed to see them arriving at the hospital.
 
 Anchored Artifacts: A-2431.1
-Mentions: N-270
+Mentions: N-268
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Locate the original eyewitness post and verify date, account identity and the claimed vantage point.
@@ -1898,7 +1898,7 @@ Claim: The host says the team's account is that the surgical scrubs were provide
 Transcript Snippet: which we then learned were provided by Mikey. Another strange development that the hospital staff would just give them out
 
 Anchored Artifacts: 
-Mentions: N-194
+Mentions: N-192
 Related Nodes: N-11310
 Supports: C-11639, C-4711
 Tags: relevance:core
@@ -1931,7 +1931,7 @@ Claim: The host says Justin Davis drove to the hospital but Blake Harreff stayed
 Transcript Snippet: Justin drives to the hospital, but Blake Harreff stays behind.
 
 Anchored Artifacts: A-2432.2
-Mentions: N-498, N-906
+Mentions: N-496, N-904
 Related Nodes: 
 Supports: C-3551
 Tags: relevance:core
@@ -1948,7 +1948,7 @@ Claim: The host says that after Harreff and Davis opened the car door the footag
 Transcript Snippet: Thereafter, he comes around. He gets into the boot. Frank Turek.
 
 Anchored Artifacts: A-2432.2
-Mentions: N-7, N-906
+Mentions: N-7, N-904
 Related Nodes: 
 Supports: C-2954
 Tags: relevance:core
@@ -1965,7 +1965,7 @@ Claim: The host says Dan Flood carried Charlie and Rick Cutler certainly carried
 Transcript Snippet: Dan Flood is also wearing surgical scrubs, but we know he carried Charlie. Rick Cutler certainly carried Charlie and was in the vehicle.
 
 Anchored Artifacts: A-2432.3
-Mentions: N-274, N-493
+Mentions: N-272, N-491
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Review footage of Charlie being carried to the SUV to establish who bore weight.
@@ -1981,7 +1981,7 @@ Claim: The host says Blake Harreff did not touch Charlie while getting into the 
 Transcript Snippet: He didn't touch Charlie while getting into the vehicle. Neither Justin Davis, by the way.
 
 Anchored Artifacts: A-2432.1
-Mentions: N-906, N-498
+Mentions: N-904, N-496
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Confirm Davis's role at the hospital from footage and team statements.
@@ -2013,7 +2013,7 @@ Claim: The host says hospital staff were allowing Brian Harpole to jump on patie
 Transcript Snippet: They're also allowing Brian Harpole to jump on patients and cut their shirts. That doesn't seem to follow protocol.
 
 Anchored Artifacts: 
-Mentions: N-270
+Mentions: N-268
 Related Nodes: N-10573
 Tags: relevance:core
 Investigative Direction: Obtain the hospital footage and staff statements on Harpole's conduct in the trauma bay.
@@ -2029,7 +2029,7 @@ Claim: The host identifies the man Brian Harpole just hugged in the UVU return f
 Transcript Snippet: That's Alex Fria who he just hugged. That there in the corner in the white hat is Rick Cutler.
 
 Anchored Artifacts: A-2432.3
-Mentions: N-270, N-493
+Mentions: N-268, N-491
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Confirm the correct spelling and identity of the man hugged from the original footage and tips.
@@ -2046,7 +2046,7 @@ Transcript Snippet: Blake Gibson and surgical scrubs. That's who you see up in t
 
 Anchored Artifacts: A-2432.3
 Mentions: 
-Related Nodes: 
+Related Nodes:
 Tags: relevance:context
 Investigative Direction: Confirm the correct name from the footage; it may be a different name for Blake Harreff or another team member.
 
@@ -2061,7 +2061,7 @@ Claim: The host says she does not know about the story of Mikey handing out surg
 Transcript Snippet: I don't know about this story about Mikey handing out surgical scrubs.
 
 Anchored Artifacts: A-2432.3
-Mentions: N-194
+Mentions: N-192
 Related Nodes: N-11310
 Tags: relevance:core
 Investigative Direction: Obtain hospital records and statements from Mikey McCoy on whether he issued the scrubs.
@@ -2224,7 +2224,7 @@ Claim: The host says the citizen journalist Diligent Denisen released an intervi
 Transcript Snippet: Diligent Denisen who dropped an interview with one of the waiters that was working that night and he then released a receipt to go along with it because people were saying that he was lying
 
 Anchored Artifacts: A-2433.4
-Mentions: N-370
+Mentions: N-368
 Related Nodes: 
 Supports: C-6119
 Tags: relevance:core
@@ -2370,7 +2370,7 @@ Claim: The host says that if the receipt is confirmed, it explains why the neigh
 Transcript Snippet: That would be why she saw a bald man [snorts] driving with two other people because it wouldn't be Tyler Robinson that was driving.
 
 Anchored Artifacts: 
-Mentions: N-909, N-40
+Mentions: N-907, N-40
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Obtain Mrs. Noble's statement and any doorbell or street camera footage of the vehicle at 12:38 a.m.
@@ -2418,7 +2418,7 @@ Claim: The host says she confirmed Mitch Snow was at Fort Huachuca and which hot
 Transcript Snippet: We confirmed he was there, what hotel he was at.
 
 Anchored Artifacts: 
-Mentions: N-366
+Mentions: N-364
 Related Nodes: N-10375
 Supports: C-3888
 Tags: relevance:core
@@ -2435,7 +2435,7 @@ Claim: The host says she cannot confirm that Mitch Snow actually saw Erika Kirk 
 Transcript Snippet: But can we confirm that he actually saw Erika Kirk in the lobby or that he actually saw Brian Harpole? No, because that relies on his memory, right?
 
 Anchored Artifacts: 
-Mentions: N-366, N-2, N-270
+Mentions: N-364, N-2, N-268
 Related Nodes: N-10373, N-10375
 Tags: relevance:core
 Investigative Direction: Look for lobby camera footage, guest registration or third-party witnesses to corroborate Snow's sighting.
@@ -2547,7 +2547,7 @@ Claim: The host says that if Blake said in the hospital lobby that Candace would
 Transcript Snippet: they had full confidence that it wasn't a conspiracy and they had just found out that Charlie had died.
 
 Anchored Artifacts: A-2434.1
-Mentions: N-162, N-3
+Mentions: N-161, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Identify who Blakey is (the host's wording suggests Blake Neff) and ask others in the lobby what was said.
@@ -2661,7 +2661,7 @@ Claim: The host says Tony Burke banned her from Australia because the Zionist lo
 Transcript Snippet: Tony Burke banned me because the Zionist lobby lobbied and it was sad that that got cancelceled.
 
 Anchored Artifacts: A-2435.7
-Mentions: N-855, N-3
+Mentions: N-853, N-3
 Related Nodes: 
 Supports: C-7714, C-13108, C-10045
 Tags: relevance:context
@@ -2742,7 +2742,7 @@ Claim: The host asks viewers who might have seen Blake Harreff take his shirt of
 Transcript Snippet: Email us more tips canoners. com. Maybe you are Blake Harreff and you just want to talk.
 
 Anchored Artifacts: A-3352.2
-Mentions: N-906, N-3
+Mentions: N-904, N-3
 Related Nodes: N-11310
 Tags: relevance:core, dia
 Investigative Direction: Review incoming tips about scrub changes at the hospital or UVU and corroborate with footage.
@@ -2758,7 +2758,7 @@ Claim: The host says that if Blake Harreff or Rick Cutler want to talk she will 
 Transcript Snippet: Maybe you're Rick Cutler and you want to talk. I'll protect you guys as sources.
 
 Anchored Artifacts: A-3352.2
-Mentions: N-906, N-493, N-3
+Mentions: N-904, N-491, N-3
 Related Nodes: 
 Tags: relevance:core, dia
 Investigative Direction: Check for any response from Harreff or Cutler to the standing offer.

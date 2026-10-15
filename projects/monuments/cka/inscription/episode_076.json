@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-577"
+            "N-575"
           ],
           "tags": [],
           "event_timestamp": "2012",
@@ -62,8 +62,8 @@
             "N-1",
             "N-2",
             "N-14",
-            "N-194",
-            "N-162"
+            "N-192",
+            "N-161"
           ],
           "tags": [],
           "event_timestamp": "2026-01-29",
@@ -89,7 +89,7 @@
             "C-2434"
           ],
           "related_nodes": [
-            "N-578"
+            "N-576"
           ],
           "tags": [],
           "event_timestamp": "Unknown (prior to 2026-03-10)",
@@ -126,7 +126,7 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-576"
+            "N-574"
           ],
           "tags": [],
           "event_timestamp": "Prior to Epstein's 2019 arrest",
@@ -153,8 +153,8 @@
           ],
           "related_nodes": [
             "N-9",
-            "N-563",
-            "N-579"
+            "N-561",
+            "N-577"
           ],
           "tags": [],
           "event_timestamp": "Prior to 2019",
@@ -180,8 +180,8 @@
             "C-2426"
           ],
           "related_nodes": [
-            "N-563",
-            "N-579"
+            "N-561",
+            "N-577"
           ],
           "tags": [],
           "event_timestamp": "Prior to 2026-03-10",
@@ -366,7 +366,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-162"
+            "N-161"
           ],
           "tags": [],
           "event_timestamp": "Prior to 2026-03-10",
@@ -392,7 +392,7 @@
             "C-2433"
           ],
           "related_nodes": [
-            "N-162"
+            "N-161"
           ],
           "tags": [],
           "event_timestamp": "2026-03-10",
@@ -420,7 +420,7 @@
           "related_nodes": [
             "N-10522",
             "N-14",
-            "N-194",
+            "N-192",
             "N-3",
             "N-69"
           ],
@@ -442,11 +442,11 @@
           "related_nodes": [
             "N-10075",
             "N-10522",
-            "N-132",
-            "N-155",
+            "N-131",
+            "N-154",
             "N-3",
             "N-69",
-            "N-866"
+            "N-864"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -562,7 +562,7 @@
             "N-10698",
             "N-2",
             "N-3",
-            "N-576",
+            "N-574",
             "N-9"
           ],
           "tags": [],
@@ -585,7 +585,7 @@
             "N-10519",
             "N-10532",
             "N-2",
-            "N-576",
+            "N-574",
             "N-9"
           ],
           "tags": [],
@@ -651,7 +651,7 @@
             "N-10521",
             "N-2",
             "N-3",
-            "N-495",
+            "N-493",
             "N-7"
           ],
           "tags": [],
@@ -774,8 +774,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-576",
-      "ref": "N-576",
+      "@id": "N-574",
+      "ref": "N-574",
       "name": "Faith Kates",
       "type": "person",
       "description": "Co-founder of Next Model Management (NYC) referenced as central to Epstein's email network (~4,000 emails) and as the subject of A-1812 artifacts.",
@@ -799,8 +799,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-577",
-      "ref": "N-577",
+      "@id": "N-575",
+      "ref": "N-575",
       "name": "Martha Louise of Norway",
       "type": "person",
       "description": "Norwegian princess; correspondent with Jeffrey Epstein (A-1809.1).",
@@ -821,8 +821,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-578",
-      "ref": "N-578",
+      "@id": "N-576",
+      "ref": "N-576",
       "name": "Father Chad Ripberger",
       "type": "person",
       "description": "Catholic exorcist referenced in A-1811.1 discussing occult pedigree families.",
@@ -863,8 +863,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Referenced in A-1810.1 as allegedly accompanying Kolvet to the West Wing with his wife Elizabeth. Note: transcript spells name \"McCoy\" in one instance and \"McVoy\" in another – see Optional Flags.",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Subject of A-1820 and A-1821; referenced regarding Erika's alleged comments about Charlie and the faith revolution, and the producer relay on Rumble/Twitter stream divergence.",
@@ -933,8 +933,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-579",
-      "ref": "N-579",
+      "@id": "N-577",
+      "ref": "N-577",
       "name": "Pam Lehman",
       "type": "person",
       "description": "Per host, featured in the Epstein files and described as helping Epstein with real estate deals; context unclear.",
@@ -948,7 +948,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-563"
+        "N-561"
       ]
     },
     {
@@ -971,7 +971,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-2",
-        "N-576"
+        "N-574"
       ]
     },
     {
@@ -990,8 +990,8 @@
       "investigative_pressure": "low",
       "related_nodes": [
         "N-2",
-        "N-579",
-        "N-563"
+        "N-577",
+        "N-561"
       ]
     },
     {
@@ -1050,7 +1050,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -1072,7 +1072,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-563"
+        "N-561"
       ]
     },
     {
@@ -1096,7 +1096,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-576",
+        "N-574",
         "N-9"
       ]
     },
@@ -1164,8 +1164,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-226",
+      "ref": "N-226",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-563",
-      "ref": "N-563",
+      "@id": "N-561",
+      "ref": "N-561",
       "name": "Lynn Forester de Rothschild",
       "type": "person",
       "description": "Subject of Epstein document entry listing her as Corcoran Group Inc. President.",
@@ -1239,8 +1239,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-132",
-      "ref": "N-132",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Susie Wiles",
       "type": "person",
       "description": "White House chief of staff named by the host's sources as a possible occupant of the West Wing offices.",
@@ -1256,8 +1256,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-155",
-      "ref": "N-155",
+      "@id": "N-154",
+      "ref": "N-154",
       "name": "James Blair",
       "type": "person",
       "description": "Transcribed as James Braid; named by the host's sources as a possible occupant of the West Wing offices.",
@@ -1273,8 +1273,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Fort Huachuca witness whom the host says she is now leaning toward believing.",
@@ -1291,8 +1291,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-443",
-      "ref": "N-443",
+      "@id": "N-441",
+      "ref": "N-441",
       "name": "Johnny Moore",
       "type": "person",
       "description": "Named by the host as the link between Kairos and Mark Burnett.",
@@ -1308,8 +1308,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-446",
-      "ref": "N-446",
+      "@id": "N-444",
+      "ref": "N-444",
       "name": "Mark Burnett",
       "type": "person",
       "description": "Producer the host says Erika floated around and who ran The Apprentice.",
@@ -1326,8 +1326,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
+      "@id": "N-493",
+      "ref": "N-493",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Transcribed Lori Frantzve; the host says Charlie met her at a clinic appointment on September 8.",
@@ -1343,8 +1343,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-526",
-      "ref": "N-526",
+      "@id": "N-524",
+      "ref": "N-524",
       "name": "Rothschild Family",
       "type": "person",
       "description": "The host says Epstein worked directly for the Rothschilds.",
@@ -1360,8 +1360,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-535",
-      "ref": "N-535",
+      "@id": "N-533",
+      "ref": "N-533",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Paris modeling agent (MC2) the host ties to Epstein's modeling-agency trafficking and a Tel Aviv office.",
@@ -1377,8 +1377,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-551",
-      "ref": "N-551",
+      "@id": "N-549",
+      "ref": "N-549",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Neighbors reportedly saw the Kirk children with her husband.",
@@ -1394,8 +1394,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Defense Secretary to whom the Air Force Academy board reports, per the host.",
@@ -1411,8 +1411,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-695",
-      "ref": "N-695",
+      "@id": "N-693",
+      "ref": "N-693",
       "name": "Otto Busher",
       "type": "person",
       "description": "Colonel the host links to the Constanta Marine rotation and later trafficking accusations; transcribed Otto Boucher and Otto Buscher.",
@@ -1429,8 +1429,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-719",
-      "ref": "N-719",
+      "@id": "N-717",
+      "ref": "N-717",
       "name": "Kamala Harris",
       "type": "person",
       "description": "Compared by the host to Erika and linked to her mother's alleged MK Ultra involvement.",
@@ -1446,8 +1446,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-743",
-      "ref": "N-743",
+      "@id": "N-741",
+      "ref": "N-741",
       "name": "Dennis Frantzve",
       "type": "person",
       "description": "Erika Kirk's cousin, transcribed Dennis Fronkvey, whom the host names as leading the Black Sea Rotational Force in Constanta in 2010.",
@@ -1888,8 +1888,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-866",
-      "ref": "N-866",
+      "@id": "N-864",
+      "ref": "N-864",
       "name": "Stephen Miller",
       "type": "person",
       "description": "First named by the host at 00:12:57 in episode 76. White House official named by the host's sources as a possible occupant of the West Wing offices.",
@@ -1905,8 +1905,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-867",
-      "ref": "N-867",
+      "@id": "N-865",
+      "ref": "N-865",
       "name": "Les Wexner",
       "type": "person",
       "description": "First named by the host at 00:16:53 in episode 76. Retail executive the host says handed Epstein the keys to a casting role for Victoria's Secret.",
@@ -1974,7 +1974,7 @@
       "investigative_direction": "Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text.",
       "mentions_person_refs": [
         "N-9",
-        "N-577"
+        "N-575"
       ]
     },
     {
@@ -1994,7 +1994,7 @@
       "investigative_direction": "Obtain independent White House visitor logs for January 29, 2026 to verify presence; obtain the pre-recorded episode audio.",
       "mentions_person_refs": [
         "N-14",
-        "N-194",
+        "N-192",
         "N-3",
         "N-69"
       ]
@@ -2053,7 +2053,7 @@
       "investigative_direction": "Search the publicly released Epstein email corpus for Kates-name frequency counts and sample contents.",
       "mentions_person_refs": [
         "N-9",
-        "N-576"
+        "N-574"
       ]
     },
     {
@@ -2073,7 +2073,7 @@
       "investigative_direction": "Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient.",
       "mentions_person_refs": [
         "N-9",
-        "N-576"
+        "N-574"
       ]
     },
     {
@@ -2091,8 +2091,8 @@
       "investigative_direction": "Search Epstein-files email corpus for Corcoran/Linda Rothschild references.",
       "mentions_person_refs": [
         "N-9",
-        "N-563",
-        "N-579"
+        "N-561",
+        "N-577"
       ]
     },
     {
@@ -2111,7 +2111,7 @@
       "claim_timestamp": "00:28:26",
       "investigative_direction": "Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced.",
       "mentions_person_refs": [
-        "N-563"
+        "N-561"
       ]
     },
     {
@@ -2227,7 +2227,7 @@
       "investigative_direction": "Obtain the full Rumble-hosted Todd Chris episode; verify Neff's quoted statement in context.",
       "mentions_person_refs": [
         "N-1",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2245,7 +2245,7 @@
       "claim_timestamp": "00:55:30–00:56:41",
       "investigative_direction": "Compare the Twitter stream version to the Rumble-hosted version directly.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2262,8 +2262,8 @@
       "claim_timestamp": "00:10:14–00:11:17",
       "investigative_direction": "Obtain the full Ripberger clip and surrounding podcast context for verification.",
       "mentions_person_refs": [
-        "N-578",
-        "N-228"
+        "N-576",
+        "N-226"
       ]
     },
     {
@@ -2345,7 +2345,7 @@
       "transcript_snippet": "With this appointment, Erika joins just 15 other members.",
       "mentions_person_refs": [
         "N-2",
-        "N-599"
+        "N-597"
       ]
     },
     {
@@ -2570,7 +2570,7 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-194",
+        "N-192",
         "N-69",
         "N-3"
       ]
@@ -2595,9 +2595,9 @@
       "investigative_direction": "Verify the West Wing layout and who maintains offices off that lobby.",
       "transcript_snippet": "the offices in that general region are senior White House staff. It could be Susie Wiles, Stephen Miller, James Braid.",
       "mentions_person_refs": [
-        "N-132",
-        "N-866",
-        "N-155",
+        "N-131",
+        "N-864",
+        "N-154",
         "N-3"
       ]
     },
@@ -2695,8 +2695,8 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-3"
       ]
     },
@@ -2822,7 +2822,7 @@
       "transcript_snippet": "Whether he was working with uh Victoria's Secret, you know, Les Wexner hands him the keys and all of a sudden he's like a casting director looking at all of these models.",
       "mentions_person_refs": [
         "N-9",
-        "N-867"
+        "N-865"
       ]
     },
     {
@@ -2842,7 +2842,7 @@
       "investigative_direction": "Check corporate records for MC2 offices in Tel Aviv.",
       "transcript_snippet": "John Luke Brunel in Paris, his agency MC2 modeling, John Luke Brunel kills himself. Lamia doesn't want to mention the fact that they also had offices in in Tel Aviv.",
       "mentions_person_refs": [
-        "N-535",
+        "N-533",
         "N-9"
       ]
     },
@@ -2913,7 +2913,7 @@
         "C-8146"
       ],
       "mentions_person_refs": [
-        "N-743",
+        "N-741",
         "N-2"
       ]
     },
@@ -2935,7 +2935,7 @@
       "investigative_direction": "Find the accusation source and any investigation of the Constanta rotation.",
       "transcript_snippet": "It's the first time America is operating a base in Romania, which is later going to be accused of prostituting underage Romanian children. Brothel. Colonel Otto Boucher.",
       "mentions_person_refs": [
-        "N-695"
+        "N-693"
       ]
     },
     {
@@ -3066,7 +3066,7 @@
         "C-8147"
       ],
       "mentions_person_refs": [
-        "N-695",
+        "N-693",
         "N-2"
       ]
     },
@@ -3104,7 +3104,7 @@
       "transcript_snippet": "we find her floating around Mark Burnett. Mark Burnett is also running uh Mark Burnett Productions. He's running Trump's Apprentice show.",
       "mentions_person_refs": [
         "N-2",
-        "N-446",
+        "N-444",
         "N-5"
       ]
     },
@@ -3148,8 +3148,8 @@
         "C-2071"
       ],
       "mentions_person_refs": [
-        "N-443",
-        "N-446"
+        "N-441",
+        "N-444"
       ]
     },
     {
@@ -3171,7 +3171,7 @@
       "investigative_direction": "Confirm Kates' departure date and stated reason from Next Model Management announcements.",
       "transcript_snippet": "Faith Kates, who was the co-founder of it, had to step down because of her involvement with Jeffrey Epstein.",
       "mentions_person_refs": [
-        "N-576",
+        "N-574",
         "N-9"
       ]
     },
@@ -3194,7 +3194,7 @@
       "investigative_direction": "Find the post-2008 or post-2019 Kates email in the Epstein files.",
       "transcript_snippet": "Even after he got arrested for pedophilia, she's like, 'I will never betray you. I will never ever betray you.",
       "mentions_person_refs": [
-        "N-576",
+        "N-574",
         "N-9"
       ]
     },
@@ -3241,7 +3241,7 @@
       "investigative_direction": "Seek former Next staff accounts and the Epstein emails on Next.",
       "transcript_snippet": "Next Model Management apparently um had tons of Eastern European girls all around the office",
       "mentions_person_refs": [
-        "N-576",
+        "N-574",
         "N-9"
       ]
     },
@@ -3266,7 +3266,7 @@
       "transcript_snippet": "with people with direct knowledge that Erika Kirk was a multiple times taking office uh taking meetings at Next Model Management",
       "mentions_person_refs": [
         "N-2",
-        "N-576"
+        "N-574"
       ]
     },
     {
@@ -3290,7 +3290,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-9",
-        "N-576"
+        "N-574"
       ]
     },
     {
@@ -3356,7 +3356,7 @@
       "investigative_direction": "Verify Lehman's Corcoran role and the Epstein files reference.",
       "transcript_snippet": "that is under the stewardship the stewardship of of of Pam Lehman featured in the Epstein files was helping him with real estate deals",
       "mentions_person_refs": [
-        "N-579",
+        "N-577",
         "N-2",
         "N-9"
       ]
@@ -3418,7 +3418,7 @@
         "A-1814.1"
       ],
       "related_nodes": [
-        "N-526"
+        "N-524"
       ],
       "tags": [
         "relevance:context"
@@ -3431,7 +3431,7 @@
       ],
       "mentions_person_refs": [
         "N-9",
-        "N-563"
+        "N-561"
       ]
     },
     {
@@ -3495,7 +3495,7 @@
         "C-1973"
       ],
       "mentions_person_refs": [
-        "N-366",
+        "N-364",
         "N-2",
         "N-3"
       ]
@@ -3661,7 +3661,7 @@
       "investigative_direction": "Identify the clinic and source for the alleged meeting.",
       "transcript_snippet": "At 10:45 a. m. Lori Frantzve has an appointment at the clinic and Charlie allegedly meets up with her, accompanies her.",
       "mentions_person_refs": [
-        "N-495",
+        "N-493",
         "N-1"
       ]
     },
@@ -3878,7 +3878,7 @@
       "investigative_direction": "Ask Tracy Martin's husband when he was with the children.",
       "transcript_snippet": "they saw the kids with Tracy Martin's husband.",
       "mentions_person_refs": [
-        "N-551",
+        "N-549",
         "N-3"
       ]
     },
@@ -3899,7 +3899,7 @@
       "investigative_direction": "Compare the dates of the first Fort Huachuca mention, the host's publication and the legal letters.",
       "transcript_snippet": "and I had not yet dropped the fact that he thought he saw Erika. We were actually holding that back",
       "mentions_person_refs": [
-        "N-366",
+        "N-364",
         "N-2",
         "N-3"
       ]
@@ -3921,7 +3921,7 @@
       "investigative_direction": "No source aired; check the host's earlier Kamala episodes.",
       "transcript_snippet": "then we kind of learned that her mother was involved with potentially the MK Ultra project.",
       "mentions_person_refs": [
-        "N-719",
+        "N-717",
         "N-3"
       ]
     }

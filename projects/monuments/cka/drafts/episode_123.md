@@ -16,7 +16,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-7143–C-7202
   - New Nodes Introduced: N-10706, N-10708
-  - Reused Nodes Appearing: N-493, N-10705, N-10707, N-4, N-5, N-9, N-40, N-162, N-228, N-614, N-689, N-10000, N-10026, N-10051, N-10074, N-10198, N-10226, N-10369, N-10401, N-10507, N-10651, N-10678, N-10686, N-10688, N-10699, N-10724, N-10768, N-10862, N-10899, N-10987
+  - Reused Nodes Appearing: N-491, N-10705, N-10707, N-4, N-5, N-9, N-40, N-161, N-226, N-612, N-687, N-10000, N-10026, N-10051, N-10074, N-10198, N-10226, N-10369, N-10401, N-10507, N-10651, N-10678, N-10686, N-10688, N-10699, N-10724, N-10768, N-10862, N-10899, N-10987
   - (see registers)
 
 ## 2. Executive Summary
@@ -307,7 +307,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-493** Rick Cutler
+**N-491** Rick Cutler
 
 Named by the host at 00:12:02 in episode 123; first introduced in episode 121.
 
@@ -433,7 +433,7 @@ The host says she does not believe he fired the shot but believes he buried clot
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Named by the host among those she says tried to delude the public.
 
@@ -441,7 +441,7 @@ Named by the host among those she says tried to delude the public.
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 The host discusses his behavior at the hospital and his marriage.
 
@@ -449,7 +449,7 @@ The host discusses his behavior at the hospital and his marriage.
 
 ---
 
-**N-228** Shawn Ryan
+**N-226** Shawn Ryan
 
 Host of the interview where she says Harpole discussed his medical supplies.
 
@@ -457,7 +457,7 @@ Host of the interview where she says Harpole discussed his medical supplies.
 
 ---
 
-**N-270** Brian Harpole
+**N-268** Brian Harpole
 
 Rode in the vehicle; the host says he is suing her and disputes his account of the ride.
 
@@ -465,7 +465,7 @@ Rode in the vehicle; the host says he is suing her and disputes his account of t
 
 ---
 
-**N-334** Baron Coleman
+**N-332** Baron Coleman
 
 Persuaded the host to release the evidence early.
 
@@ -473,7 +473,7 @@ Persuaded the host to release the evidence early.
 
 ---
 
-**N-614** Graham Allen
+**N-612** Graham Allen
 
 Named by the host among those she says tried to delude the public.
 
@@ -481,7 +481,7 @@ Named by the host among those she says tried to delude the public.
 
 ---
 
-**N-689** Jon Bray
+**N-687** Jon Bray
 
 Source of the microphone-rigging theory and glass photos; transcript spells John Bray.
 
@@ -742,7 +742,7 @@ Claim Timestamp: 00:15:10
 Claim: A viewer comment the host reads identifies the medical bag visible in the photo as a SantaMedical.com product, and the host says this is consistent with equipment Brian Harpole described traveling with Charlie.
 
 Anchored Artifacts: A-2110.2, A-2114.1
-Mentions: N-270
+Mentions: N-268
 Related Nodes:
 Investigative Direction: Cross-reference SantaMedical.com catalog with described medical equipment; verify against Harpole's interview statements.
 
@@ -755,7 +755,7 @@ Claim Timestamp: 00:33:10
 Claim: A viral clip shows Mikey McCoy appearing physically ill and holding his stomach as Charlie's casket was carried out of the hospital.
 
 Anchored Artifacts: A-2112
-Mentions: N-194
+Mentions: N-192
 Related Nodes:
 Investigative Direction: Verify clip provenance; corroborate with hospital witness accounts; assess against prior statements from Erika Kirk and TPUSA describing McCoy as "amazing" and "snapping into action."
 
@@ -768,7 +768,7 @@ Claim Timestamp: 00:06:00–00:19:30
 Claim: The host says that across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turek and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.
 
 Anchored Artifacts: None (claim relies on absence from prior retellings; absence-of-evidence style claim)
-Mentions: N-270, N-7
+Mentions: N-268, N-7
 Related Nodes: N-10705
 Investigative Direction: Obtain transcripts/video of all Frank Turek and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.
 
@@ -806,7 +806,7 @@ Claim Timestamp: 00:50:36
 Claim: Police scanner reports (referenced via Baron Coleman episodes) describe the car door being open during high-speed transport and what looked like a struggle inside the vehicle, attributed to Rick Cutler holding Brian Harpole.
 
 Anchored Artifacts: A-2114.2
-Mentions: N-270, N-334, N-493
+Mentions: N-268, N-332, N-491
 Related Nodes: N-10708
 Investigative Direction: Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.
 
@@ -846,7 +846,7 @@ Claim: The host says Baron Coleman convinced her the evidence had to be shared b
 Transcript Snippet: I spoke with Baron Coleman yesterday evening and he convinced me that some evidence that he knew that I had positively needed to be shared before we went away for 2 weeks.
 
 Anchored Artifacts: 
-Mentions: N-334, N-3
+Mentions: N-332, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Ask the host's team or Coleman to describe the call and why the timing was disputed.
@@ -879,7 +879,7 @@ Claim: The host says Brian Harpole and Frank Turek tell lies, and that this does
 Transcript Snippet: just because Frank Turek tells a lie, does not mean that every single person at Turning Point USA is implicated
 
 Anchored Artifacts: 
-Mentions: N-270, N-7, N-3
+Mentions: N-268, N-7, N-3
 Related Nodes: N-10000, N-10699
 Tags: relevance:core
 Investigative Direction: List the specific statements by Harpole and Turek the host says are false and the records that would refute them.
@@ -895,7 +895,7 @@ Claim: The host says Frank Turek's account of the car ride is told differently t
 Transcript Snippet: People like Frank Turek, his car ride, which is told differently than it is by Brian Harpole
 
 Anchored Artifacts: 
-Mentions: N-7, N-270
+Mentions: N-7, N-268
 Related Nodes: N-10699
 Tags: relevance:core
 Investigative Direction: Compare the transcripts of Turek's and Harpole's interviews point by point on duration, CPR and who did what in the vehicle.
@@ -944,7 +944,7 @@ Claim: The host says John Bray was convinced from the very beginning that Charli
 Transcript Snippet: He was convinced from the very beginning, John Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.
 
 Anchored Artifacts: 
-Mentions: N-689, N-1
+Mentions: N-687, N-1
 Related Nodes: N-10768, N-10987, N-10705
 Tags: relevance:core
 Investigative Direction: Obtain John Bray's written analysis and the source photos he supplied.
@@ -1093,7 +1093,7 @@ Claim: The host says the story has about six minutes on the clock at 40, 60 and 
 Transcript Snippet: They had about 6 minutes on the clock weaving through traffic at 40, 60, 100 miles per an hour for a ride that Google Map says is 8 minutes away.
 
 Anchored Artifacts: 
-Mentions: N-7, N-270
+Mentions: N-7, N-268
 Related Nodes: N-10686
 Supports: C-2948
 Tags: relevance:core
@@ -1142,7 +1142,7 @@ Claim: The host says she considered that the black item was a taser, recalled Ri
 Transcript Snippet: I did remember that Rick Cutler had something on his back when he was running in there
 
 Anchored Artifacts: 
-Mentions: N-493
+Mentions: N-491
 Related Nodes: N-10714
 Tags: relevance:core
 Investigative Direction: Review footage of Cutler entering the vehicle for what he carried.
@@ -1174,7 +1174,7 @@ Claim: The host says Brian Harpole said, she believes in the Paramount Tactical 
 Transcript Snippet: He did say I believe in the Paramount Tactical interview or maybe actually it was in the Shawn Ryan interview that he had that stuff but it wasn't relevant to what he was doing.
 
 Anchored Artifacts: A-2114.1
-Mentions: N-270, N-228
+Mentions: N-268, N-226
 Related Nodes: N-10899, N-10862
 Tags: relevance:core
 Investigative Direction: Locate the exact Harpole statement in the Paramount Tactical and Shawn Ryan interviews.
@@ -1271,7 +1271,7 @@ Claim: The host says some glass actually fell in front of Charlie at the immedia
 Transcript Snippet: there is some that actually fell in front of Charlie and John Bray's getting me those photos
 
 Anchored Artifacts: A-2857.1
-Mentions: N-689, N-1
+Mentions: N-687, N-1
 Related Nodes: N-10705
 Tags: relevance:core
 Investigative Direction: Obtain Bray's photos with metadata and compare against the UVU stage footage.
@@ -1287,7 +1287,7 @@ Claim: The host says Brian Harpole is suing her and rejects being called incompe
 Transcript Snippet: The audacity of Brian Harpole to sue me over his incompetence.
 
 Anchored Artifacts: 
-Mentions: N-270, N-3
+Mentions: N-268, N-3
 Related Nodes: N-10651
 Supports: C-5784
 Tags: relevance:core
@@ -1352,7 +1352,7 @@ Claim: The host says she has run the microphone question past Baron Coleman and 
 Transcript Snippet: because I've run this with Baron. I've run it with Tim.
 
 Anchored Artifacts: 
-Mentions: N-334
+Mentions: N-332
 Related Nodes: N-10705
 Tags: relevance:context
 Investigative Direction: Ask Coleman and the Tim in question to state what alternative explanation they offered.
@@ -1368,7 +1368,7 @@ Claim: The host says Erika Kirk was the first to say at the podium that Mikey Mc
 Transcript Snippet: them saying that Mikey was amazing. Erika the first to say it at the podium.
 
 Anchored Artifacts: 
-Mentions: N-194, N-2
+Mentions: N-192, N-2
 Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Find the podium remarks and the original statement and compare with hospital witnesses.
@@ -1384,7 +1384,7 @@ Claim: The host says she was told Mikey McCoy was the most emotionally impacted 
 Transcript Snippet: Mikey was the most emotionally impacted. He did not have it together.
 
 Anchored Artifacts: 
-Mentions: N-194
+Mentions: N-192
 Related Nodes: N-10198
 Supports: C-2993
 Tags: relevance:core
@@ -1401,7 +1401,7 @@ Claim: The host says Mikey's reaction leads her to believe he did not know Charl
 Transcript Snippet: Mikey was impacted by this in a way that leads me to believe that Mikey did not know that Charlie was going to die on that day.
 
 Anchored Artifacts: 
-Mentions: N-194, N-1
+Mentions: N-192, N-1
 Related Nodes: N-10226
 Tags: relevance:core
 Investigative Direction: Compare with McCoy's call log and phone call timing in the other investigative targets.
@@ -1465,7 +1465,7 @@ Claim: The host says Blake Neff, Graham Allen and Paramount Tactical tried to de
 Transcript Snippet: Did you really think Blake Neff, Graham Allen, and Paramount not so tactical? We're going to delude the public into the absurd story that you tried to spin.
 
 Anchored Artifacts: 
-Mentions: N-162, N-614
+Mentions: N-161, N-612
 Related Nodes: N-10899
 Tags: relevance:context
 Investigative Direction: List the specific public statements by each that the host says are false.
@@ -1625,7 +1625,7 @@ Claim: The host says she thinks John Bray's theory has infinitely more evidence 
 Transcript Snippet: I think John Bray's theory has infinitely more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.
 
 Anchored Artifacts: 
-Mentions: N-689
+Mentions: N-687
 Related Nodes: N-10705, N-10768
 Tags: relevance:core
 Investigative Direction: Compare Bray's evidence compilation with the prosecution's exhibits.
@@ -1641,7 +1641,7 @@ Claim: The host says Brian Harpole said they caught a tail, going so fast that p
 Transcript Snippet: Brian Harpole said that they caught a tail. They were going so fast and so there were police behind them
 
 Anchored Artifacts: 
-Mentions: N-270
+Mentions: N-268
 Related Nodes: N-10686
 Supports: C-2948
 Tags: relevance:core
@@ -1723,7 +1723,7 @@ Claim: The host says Mikey McCoy has an arranged marriage and refers to his wife
 Transcript Snippet: I get someone who was born into I he has an arranged marriage.
 
 Anchored Artifacts: 
-Mentions: N-194
+Mentions: N-192
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Confirm from public records or McCoy's own statements; no source named.

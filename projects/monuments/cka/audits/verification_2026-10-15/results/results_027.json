@@ -1,0 +1,778 @@
+[
+ {
+  "claim": "C-1429",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Name garbled: transcript reads \"Andrew Kolvet\" tweet, host reads it aloud; claim says \"Kolbatz\".",
+  "fix": {
+   "claim": "Per Andrew Kolvet's account as the host reads it, the surgeon stated the bullet should have exited, that people behind Charlie could have been killed, and characterized the outcome as \"an absolute miracle.\""
+  }
+ },
+ {
+  "claim": "C-1430",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Witness is an unnamed student; host says the pusher (not the witness) is Cooper. N-177 wrongly mentioned.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1431",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"I then determined that the person doing the shoving is... not a TPUSA employee... brought in as a volunteer\"; claim states it as fact without attribution.",
+  "fix": {
+   "claim": "The host says she determined the man who physically pushed/shoved the witness in the viral clip was not a Turning Point USA employee, UVU student, or TPUSA student, but was brought in as a volunteer."
+  }
+ },
+ {
+  "claim": "C-1432",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1433",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1434",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1435",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1436",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Resume college named SNHU only at ~17:25 when asking for classmates; politics major implied.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1437",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: a girl with his name graduated that year; separately the Phoenix number links to someone \"32 years old\" with the same last name. Claim merges them.",
+  "fix": {
+   "claim": "The host says she found a girl with Cooper Brown's name who graduated in the year his resume gives, and that the Phoenix-based number tied to her links to another person, aged 32, with the same last name; she says she does not know who he is."
+  }
+ },
+ {
+  "claim": "C-1438",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Dropped hedge: \"if I had to guess... it looked to me like it was in close proximity straight ahead.\"",
+  "fix": {
+   "claim": "Jason Chaffetz stated on Fox News that, \"if I had to guess,\" the shot looked to him like it was \"in close proximity straight ahead.\""
+  }
+ },
+ {
+  "claim": "C-1439",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1440",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1441",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1442",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1443",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1444",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1445",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"left from Texas, went over to Utah right about the time Charlie got assassinated\"; \"plane people recognized is military\", \"had been used in the military\". No \"9/10\" stated here.",
+  "fix": {
+   "claim": "The host says a plane with tail number N1098L, which she says people have recognized as military and which had been used in the military, flew over Utah around the time of the shooting."
+  }
+ },
+ {
+  "claim": "C-1446",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1447",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1448",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Source: Utah jet tied to Derek and Shelaine Maxfield (Younique/Saprea), not Maxwell. \"Derek Maxwell\"/\"Ghislaine Maxwell\" are transcription errors; N-47 wrong person.",
+  "fix": {
+   "claim": "A second plane (with \"888\" in identification per host) is associated with Derek Maxfield, who the host says sold a beauty company and whose wife she names (in the transcript, \"Ghislaine Maxwell\"; apparently Shelaine Maxfield).",
+   "mentions": [
+    "N-181"
+   ],
+   "names": [
+    {
+     "wrong": "Derek Maxwell",
+     "right": "Derek Maxfield",
+     "source": "https://www.latintimes.com/private-jet-that-took-off-utah-after-charlie-kirk-assassination-disappears-mid-flight-sparking-589463"
+    },
+    {
+     "wrong": "Ghislaine Maxwell (Derek's wife)",
+     "right": "Shelaine Maxfield",
+     "source": "https://www.latintimes.com/private-jet-that-took-off-utah-after-charlie-kirk-assassination-disappears-mid-flight-sparking-589463"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1449",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1450",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1451",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"Kash Patel says that plane never stopped transponding\"; claim presents it without host attribution.",
+  "fix": {
+   "claim": "The host says Kash Patel told them plane 888 never stopped transponding."
+  }
+ },
+ {
+  "claim": "C-1452",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Derek Maxwell\" is a transcription of Derek Maxfield (Utah jet owner family); see source.",
+  "fix": {
+   "claim": "The host says Derek Maxfield (transcribed \"Derek Maxwell\") stated on Instagram that the air traffic control center had agreed they could stop transponding.",
+   "names": [
+    {
+     "wrong": "Derek Maxwell",
+     "right": "Derek Maxfield",
+     "source": "https://www.latintimes.com/private-jet-that-took-off-utah-after-charlie-kirk-assassination-disappears-mid-flight-sparking-589463"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1453",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1454",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1455",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1456",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"I assume this is Josh Hammer that replies\"; claim drops the assumption.",
+  "fix": {
+   "claim": "The released texts include a \"thank you for your help guys\" message (attributed to Charlie Kirk) and a reply the host assumes is Josh Hammer's asking what Charlie's \"first stop tomorrow\" was."
+  }
+ },
+ {
+  "claim": "C-1457",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1458",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Kushner: \"from Israel's perspective, I would do my best to move the people out and then clean it up.\"",
+  "fix": {
+   "claim": "At a Harvard appearance on February 15, 2024 (per the host), Jared Kushner said Gaza's \"waterfront property\" could be very valuable and that \"from Israel's perspective, I would do my best to move the people out and then clean it up.\""
+  }
+ },
+ {
+  "claim": "C-1459",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Walsh thought texts fake as the sentence \"felt too on the nose\"; \"you must have done a lot to make him write that\" and \"pushed Charlie away\" are the host's gloss, not Walsh.",
+  "fix": {
+   "claim": "The host says Matt Walsh thought Charlie Kirk's text messages were fake because the sentence about leaving the pro-Israel cause felt \"too on the nose\"; the host adds her own view that it suggests Charlie had been pushed to write it."
+  }
+ },
+ {
+  "claim": "C-1460",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Cooper (pusher) is not named or referred to; claim concerns the clip's witness not being Kolvet.",
+  "fix": {
+   "mentions": [
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-3645",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says \"this decentralized intelligent agency\" addressing ballistics YouTubers; \"crowd-sourced tip network opposing centralized intel\" is added.",
+  "fix": {
+   "claim": "The host refers to her audience as \"this decentralized intelligent agency\" while asking ballistics YouTubers, gun enthusiasts and military men to explain what they know."
+  }
+ },
+ {
+  "claim": "C-13871",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Announcing a break is not about the assassination; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13872",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13873",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13874",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13875",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13876",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13877",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13878",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13879",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"I'm paraphrasing here\"; hedge dropped.",
+  "fix": {
+   "claim": "The host says that after she posted a picture asking to identify a person from the viral clip, his friend left a nasty comment and then messaged her privately that, paraphrasing, he does not want to speak to media because he has been instructed not to, having got the Turning Point chapter into trouble before."
+  }
+ },
+ {
+  "claim": "C-13880",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13881",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13882",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13883",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13884",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13885",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13886",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13887",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13888",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13889",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13890",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13891",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13892",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13893",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13894",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13895",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13896",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13897",
+  "episode": 18,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

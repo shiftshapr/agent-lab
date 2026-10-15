@@ -1,0 +1,296 @@
+[
+ {
+  "wrong": "Blackman",
+  "right": "Ackman",
+  "source": "https://www.yahoo.com/news/articles/bill-ackman-shares-text-messages-150349727.html",
+  "claim": "C-1194",
+  "episode": 5
+ },
+ {
+  "wrong": "Blackman",
+  "right": "Ackman",
+  "source": "https://en.wikipedia.org/wiki/Bill_Ackman",
+  "claim": "C-3771",
+  "episode": 5
+ },
+ {
+  "wrong": "Harley Pastnic",
+  "right": "Harley Pasternak",
+  "source": "https://www.primetimer.com/news/who-is-harley-pasternak-candace-owens-revisits-kanye-wests-trainers-text-threatening-to-re-institutionalize-over-his-anti-jewish-rants",
+  "claim": "C-3726",
+  "episode": 5
+ },
+ {
+  "wrong": "Ammy Kak",
+  "right": "Ami Kozak",
+  "source": "https://jewishjournal.com/culture/arts/comedy/365132/why-a-jewish-comedians-interview-with-candace-owens-is-a-must-watch/",
+  "claim": "C-10742",
+  "episode": 7
+ },
+ {
+  "wrong": "Becoming Breit",
+  "right": "Becoming Brigitte",
+  "source": "https://spotlight.ebu.ch/p/false-claims-that-brigitte-macron",
+  "claim": "C-10755",
+  "episode": 7
+ },
+ {
+  "wrong": "Michael Nolles",
+  "right": "Michael Knowles",
+  "source": "https://660amtheanswer.com/podcasts/the-charlie-kirk-show/charlie-and-michael-knowles-debate-religion-at-amf",
+  "claim": "C-3727",
+  "episode": 8
+ },
+ {
+  "wrong": "Shainer Broderick",
+  "right": "Shaner Broderick",
+  "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/",
+  "claim": "C-1325",
+  "episode": 12
+ },
+ {
+  "wrong": "Shainer Broderick",
+  "right": "Shaner Broderick",
+  "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/",
+  "claim": "C-1328",
+  "episode": 12
+ },
+ {
+  "wrong": "Robert Bowles",
+  "right": "Robert Bohls",
+  "source": "https://x.com/FBISaltLakeCity/status/1966161980684906919",
+  "claim": "C-1334",
+  "episode": 12
+ },
+ {
+  "wrong": "Shainer Broderick",
+  "right": "Shaner Broderick",
+  "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/",
+  "claim": "C-9259",
+  "episode": 12
+ },
+ {
+  "wrong": "Shainer Broderick",
+  "right": "Shaner Broderick",
+  "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/",
+  "claim": "C-9262",
+  "episode": 12
+ },
+ {
+  "wrong": "Shainer Broderick",
+  "right": "Shaner Broderick",
+  "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/",
+  "claim": "C-9267",
+  "episode": 12
+ },
+ {
+  "wrong": "Shainer Broderick",
+  "right": "Shaner Broderick",
+  "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/",
+  "claim": "C-9268",
+  "episode": 12
+ },
+ {
+  "wrong": "Shainer Broderick",
+  "right": "Shaner Broderick",
+  "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/",
+  "claim": "C-9269",
+  "episode": 12
+ },
+ {
+  "wrong": "Shainer Broderick",
+  "right": "Shaner Broderick",
+  "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/",
+  "claim": "C-9270",
+  "episode": 12
+ },
+ {
+  "wrong": "Shainer Broderick",
+  "right": "Shaner Broderick",
+  "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/",
+  "claim": "C-9272",
+  "episode": 12
+ },
+ {
+  "wrong": "Andrew Zanger",
+  "right": "Andrew Zenger",
+  "source": "https://www.heraldextra.com/business/local-business/2025/aug/21/new-chief-executive-officer-named-at-timpanogos-regional-hospital/",
+  "claim": "C-9296",
+  "episode": 12
+ },
+ {
+  "wrong": "Andrew Zanger",
+  "right": "Andrew Zenger",
+  "source": "https://www.heraldextra.com/business/local-business/2025/aug/21/new-chief-executive-officer-named-at-timpanogos-regional-hospital/",
+  "claim": "C-9298",
+  "episode": 12
+ },
+ {
+  "wrong": "Graph",
+  "right": "Graf",
+  "source": "https://www.nbcnews.com/news/us-news/judge-decide-whether-tyler-robinson-will-stand-trial-charlie-kirks-ass-rcna595489",
+  "claim": "C-1341",
+  "episode": 13
+ },
+ {
+  "wrong": "Robert BS",
+  "right": "Robert Bohls",
+  "source": "https://x.com/FBISaltLakeCity/status/1966161980684906919",
+  "claim": "C-1341",
+  "episode": 13
+ },
+ {
+  "wrong": "Andrew Zanger",
+  "right": "Andrew Zenger",
+  "source": "https://www.heraldextra.com/business/local-business/2025/aug/21/new-chief-executive-officer-named-at-timpanogos-regional-hospital/",
+  "claim": "C-1341",
+  "episode": 13
+ },
+ {
+  "wrong": "Michael Bert",
+  "right": "Michael Burt",
+  "source": "https://www.courttv.com/news/lyle-menendezs-trial-attorney-added-to-tyler-robinsons-defense-team/",
+  "claim": "C-1352",
+  "episode": 13
+ },
+ {
+  "wrong": "Shainer Broderick",
+  "right": "Shaner Broderick",
+  "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/",
+  "claim": "C-10775",
+  "episode": 13
+ },
+ {
+  "wrong": "Britta Widener",
+  "right": "Britta Weidner",
+  "source": "https://x.com/RealCandaceO/status/2086210350601404476",
+  "claim": "C-1387",
+  "episode": 16
+ },
+ {
+  "wrong": "Arena Mappin",
+  "right": "Irina Mappin",
+  "source": "https://x.com/JohnMappin/status/1975380093171093617",
+  "claim": "C-1392",
+  "episode": 16
+ },
+ {
+  "wrong": "Arena Mappin",
+  "right": "Irina Mappin",
+  "source": "https://x.com/JohnMappin/status/1975380093171093617",
+  "claim": "C-1393",
+  "episode": 16
+ },
+ {
+  "wrong": "Arena Mappin",
+  "right": "Irina Mappin",
+  "source": "https://x.com/JohnMappin/status/1975380093171093617",
+  "claim": "C-1394",
+  "episode": 16
+ },
+ {
+  "wrong": "Arena Mappin",
+  "right": "Irina Mappin",
+  "source": "https://x.com/JohnMappin/status/1975380093171093617",
+  "claim": "C-1395",
+  "episode": 16
+ },
+ {
+  "wrong": "Arena Mapel",
+  "right": "Irina Mappin",
+  "source": "https://johnmappin.substack.com/p/candace-owens-charlie-kirk-and-the",
+  "claim": "C-9389",
+  "episode": 17
+ },
+ {
+  "wrong": "Mapel",
+  "right": "Mappin",
+  "source": "https://x.com/JohnMappin/status/1975380093171093617",
+  "claim": "C-9389",
+  "episode": 17
+ },
+ {
+  "wrong": "Derek Maxwell",
+  "right": "Derek Maxfield",
+  "source": "https://www.latintimes.com/private-jet-that-took-off-utah-after-charlie-kirk-assassination-disappears-mid-flight-sparking-589463",
+  "claim": "C-1448",
+  "episode": 18
+ },
+ {
+  "wrong": "Derek Maxwell, his wife Ghislaine Maxwell",
+  "right": "Derek Maxfield, his wife Shelaine Maxfield",
+  "source": "https://saprea.org/leadership/",
+  "claim": "C-1448",
+  "episode": 18
+ },
+ {
+  "wrong": "Derek Maxwell",
+  "right": "Derek Maxfield",
+  "source": "https://www.latintimes.com/private-jet-that-took-off-utah-after-charlie-kirk-assassination-disappears-mid-flight-sparking-589463",
+  "claim": "C-1452",
+  "episode": 18
+ },
+ {
+  "wrong": "Zeb Boyin",
+  "right": "Zeb Boykin",
+  "source": "https://rumble.com/v6z3bzi-marine-sniper-zeb-boykin-breaks-down-charlie-kirk-assassination-cover-up.html",
+  "claim": "C-1487",
+  "episode": 19
+ },
+ {
+  "wrong": "Burme",
+  "right": "Bromet",
+  "source": "https://www.breitbart.com/politics/2025/10/28/french-govt-claims-hackers-changed-brigitte-macrons-name-and-gender-on-tax-database/",
+  "claim": "C-1507",
+  "episode": 20
+ },
+ {
+  "wrong": "Arena Mappen",
+  "right": "Irina Mappin",
+  "source": "https://x.com/JohnMappin/status/1975380093171093617",
+  "claim": "C-1511",
+  "episode": 20
+ },
+ {
+  "wrong": "Deidra Weiss Amaro",
+  "right": "Deirdre Amaro",
+  "source": "https://dhhs.utah.gov/featured-news/utah-department-of-health-and-human-services-dhhs-welcomes-new-medical-examiner/",
+  "claim": "C-1513",
+  "episode": 20
+ },
+ {
+  "wrong": "Andre and Harowitz",
+  "right": "Andreessen Horowitz",
+  "source": "https://www.forbesafrica.com/current-affairs/2025/09/17/oracle-andreessen-horowitz-more-will-hold-controlling-stake-in-tiktok-deal-report-says",
+  "claim": "C-12159",
+  "episode": 20
+ },
+ {
+  "wrong": "Llaya Rose",
+  "right": "Lila Rose",
+  "source": "https://en.wikipedia.org/wiki/Lila_Rose",
+  "claim": "C-12192",
+  "episode": 20
+ },
+ {
+  "wrong": "Mikey McColgan",
+  "right": "Mikey McCoy",
+  "source": "https://en.wikipedia.org/wiki/Memorial_service_of_Charlie_Kirk",
+  "claim": "C-9481",
+  "episode": 24
+ },
+ {
+  "wrong": "Robin McCoy",
+  "right": "Rob McCoy",
+  "source": "https://genzstars.com/pastor-rob-mccoy/",
+  "claim": "C-1609",
+  "episode": 26
+ },
+ {
+  "wrong": "Jack Bobic",
+  "right": "Jack Posobiec",
+  "source": "https://en.wikipedia.org/wiki/Jack_Posobiec",
+  "claim": "C-9566",
+  "episode": 26
+ }
+]

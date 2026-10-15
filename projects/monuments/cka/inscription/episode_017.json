@@ -61,8 +61,8 @@
           ],
           "related_nodes": [
             "N-14",
+            "N-163",
             "N-164",
-            "N-165",
             "N-10179"
           ],
           "tags": [],
@@ -89,8 +89,8 @@
             "C-1409"
           ],
           "related_nodes": [
-            "N-166",
             "N-165",
+            "N-164",
             "N-10179"
           ],
           "tags": [],
@@ -220,7 +220,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-174",
+            "N-173",
             "N-1",
             "N-10178",
             "N-43"
@@ -251,7 +251,7 @@
             "C-1416"
           ],
           "related_nodes": [
-            "N-167",
+            "N-166",
             "N-1",
             "N-10178"
           ],
@@ -305,7 +305,7 @@
             "C-1415"
           ],
           "related_nodes": [
-            "N-171"
+            "N-170"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -323,7 +323,7 @@
             "C-1415"
           ],
           "related_nodes": [
-            "N-172"
+            "N-171"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -351,7 +351,7 @@
           ],
           "related_nodes": [
             "N-93",
-            "N-170",
+            "N-169",
             "N-3",
             "N-10176"
           ],
@@ -379,7 +379,7 @@
             "C-1417"
           ],
           "related_nodes": [
-            "N-169"
+            "N-168"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -458,7 +458,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-165"
+            "N-164"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -554,13 +554,13 @@
           "@type": "Artifact",
           "@id": "A-3004.1",
           "ref": "A-3004.1",
-          "description": "Host verbal reference to a letter written by John and Arena Mappin (transcribed Mapel) the previous day (not shown)",
+          "description": "Host verbal reference to a letter written by John and Irina Mappin (transcribed Mappin) the previous day (not shown)",
           "related_claims": [
             "C-9389"
           ],
           "related_nodes": [
-            "N-157",
-            "N-158"
+            "N-156",
+            "N-157"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -600,8 +600,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-164",
-      "ref": "N-164",
+      "@id": "N-163",
+      "ref": "N-163",
       "name": "Yashar Ali",
       "type": "person",
       "description": "X account author of the failing-contextualization quote-tweet (A-1237.1). Per host, \"literally paid to do PR for Zionists.\"",
@@ -623,8 +623,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-165",
-      "ref": "N-165",
+      "@id": "N-164",
+      "ref": "N-164",
       "name": "Iryna Zhuravska",
       "type": "person",
       "description": "Ukrainian refugee whose August 22, 2025 murder in Charlotte, North Carolina, became a major conservative-news topic; footage released/trended September 5. Used as the official anchor in Yashar Ali's attempt to contextualize Josh Hammer's September 9 retweet.",
@@ -648,8 +648,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Matt Walsh",
       "type": "person",
       "description": "X author of the September 5 public-execution tweet used as comparative anchor (A-1238.1).",
@@ -665,13 +665,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-165"
+        "N-164"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-167",
-      "ref": "N-167",
+      "@id": "N-166",
+      "ref": "N-166",
       "name": "Rabbi Pesach Wolicki",
       "type": "person",
       "description": "Rabbi in Israel; per host and Wolicki audio (A-1243.1), participated in the pre-assassination Zoom call with Charlie Kirk and Josh Hammer. Provides direct testimonial artifact regarding Charlie's state of mind and the structure of the meeting.",
@@ -695,8 +695,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-169",
-      "ref": "N-169",
+      "@id": "N-168",
+      "ref": "N-168",
       "name": "Gianmarco Soresi",
       "type": "person",
       "description": "Comedian whose bit about Jewish holidays and Exodus was played in the brief-levity segment. Transcript carries both \"Gianmarco Soresi\" (host) and \"John Marco Siracusa\" (caption) – flag.",
@@ -736,8 +736,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-170",
-      "ref": "N-170",
+      "@id": "N-169",
+      "ref": "N-169",
       "name": "James O'Keefe",
       "type": "person",
       "description": "Referenced by Alex Jones as the precedent for the dead-man-switch mechanism (A-1246.1).",
@@ -776,8 +776,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-171",
-      "ref": "N-171",
+      "@id": "N-170",
+      "ref": "N-170",
       "name": "Dinesh D'Souza",
       "type": "person",
       "description": "X author of A-1245.1 – the \"freak show\" / farmer-sex-with-sheep post about Candace Owens.",
@@ -795,8 +795,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-176",
-      "ref": "N-176",
+      "@id": "N-175",
+      "ref": "N-175",
       "name": "Gabriel",
       "type": "person",
       "description": "Referenced in Josh Hammer / Gabriel reporting thread (transcript name).",
@@ -847,8 +847,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-172",
-      "ref": "N-172",
+      "@id": "N-171",
+      "ref": "N-171",
       "name": "Yishai (X account)",
       "type": "person",
       "description": "Author of the reply post to Dinesh D'Souza (A-1245.2); preserved exactly as spelled on air.",
@@ -862,7 +862,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-171"
+        "N-170"
       ]
     },
     {
@@ -927,8 +927,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-173",
-      "ref": "N-173",
+      "@id": "N-172",
+      "ref": "N-172",
       "name": "Tate Brothers (Andrew and Tristan)",
       "type": "person",
       "description": "Listed by Alex Jones as kill-switch recipients (A-1246.1).",
@@ -947,8 +947,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-174",
-      "ref": "N-174",
+      "@id": "N-173",
+      "ref": "N-173",
       "name": "Ali (JTV host)",
       "type": "person",
       "description": "Interviewer in the Josh Hammer JTV segment (A-1242.1). Host name preserved as it appears in transcript.",
@@ -994,9 +994,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14",
+        "N-163",
         "N-164",
-        "N-165",
-        "N-166"
+        "N-165"
       ]
     },
     {
@@ -1041,10 +1041,10 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-93",
-        "N-170",
+        "N-169",
         "N-27",
         "N-39",
-        "N-173"
+        "N-172"
       ]
     },
     {
@@ -1064,7 +1064,7 @@
       "related_nodes": [
         "N-1",
         "N-14",
-        "N-167"
+        "N-166"
       ]
     },
     {
@@ -1086,7 +1086,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-14",
-        "N-167",
+        "N-166",
         "N-38"
       ]
     },
@@ -1111,8 +1111,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-14",
-        "N-164",
-        "N-165"
+        "N-163",
+        "N-164"
       ]
     },
     {
@@ -1456,8 +1456,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-102",
-      "ref": "N-102",
+      "@id": "N-101",
+      "ref": "N-101",
       "name": "Michael Knowles",
       "type": "person",
       "description": "Michael Knowles; named in the JTV discussion of commentators.",
@@ -1473,8 +1473,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-141",
-      "ref": "N-141",
+      "@id": "N-140",
+      "ref": "N-140",
       "name": "Konstantin Kisin",
       "type": "person",
       "description": "Konstantin Kisin (transcribed Konstantin Kisin); the host says he told Megyn Kelly to make a statement against Candace and Tucker.",
@@ -1490,11 +1490,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-157",
-      "ref": "N-157",
+      "@id": "N-156",
+      "ref": "N-156",
       "name": "John Mappin",
       "type": "person",
-      "description": "John Mappin (transcribed Mapel); co-author of a letter the host references.",
+      "description": "John Mappin (transcribed Mappin); co-author of a letter the host references.",
       "related_artifacts": [
         "A-3004.1"
       ],
@@ -1509,11 +1509,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-158",
-      "ref": "N-158",
-      "name": "Arena Mappin",
+      "@id": "N-157",
+      "ref": "N-157",
+      "name": "Irina Mappin",
       "type": "person",
-      "description": "Arena Mappin (transcribed Mapel); co-author of a letter the host references.",
+      "description": "Irina Mappin (transcribed Mappin); co-author of a letter the host references.",
       "related_artifacts": [
         "A-3004.1"
       ],
@@ -1528,8 +1528,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-185",
-      "ref": "N-185",
+      "@id": "N-183",
+      "ref": "N-183",
       "name": "Sam Parker",
       "type": "person",
       "description": "Sam Parker; the account Ali says the host quote tweeted.",
@@ -1545,8 +1545,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-131",
-      "ref": "N-131",
+      "@id": "N-130",
+      "ref": "N-130",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Ian Carroll; named by the JTV host and Hammer.",
@@ -1919,7 +1919,7 @@
       "@id": "C-1405",
       "ref": "C-1405",
       "label": "Yashar Ali Publicly Attempted to Contextualize Hammer's Retweet as Referring to Iryna Zhuravska",
-      "claim": "Yashar Ali posted a quote-tweet asserting the Hammer retweet referenced the Iryna Zhuravska murder and that other conservatives were sharing similar material the day prior.",
+      "claim": "The host reads a post she says Yashar Ali wrote, asserting that Josh Hammer's retweet of the 2013 Trump post was tied to the murder of Iryna Zhuravska and that many conservatives were sharing and saying similar things the day before.",
       "anchored_artifacts": [
         "A-1237.1"
       ],
@@ -1931,8 +1931,8 @@
       "investigative_direction": "Verify Yashar Ali's exact post text and timing against X archives; verify whether the \"day prior\" framing matches the post dates of alleged \"many conservatives.\"",
       "mentions_person_refs": [
         "N-55",
-        "N-164",
-        "N-165"
+        "N-163",
+        "N-164"
       ]
     },
     {
@@ -1949,8 +1949,7 @@
       "claim_timestamp": "00:08:44",
       "investigative_direction": "Verify dates against Charlotte-Mecklenburg Police Department records, news archives, and X trend timelines.",
       "mentions_person_refs": [
-        "N-165",
-        "N-166"
+        "N-164"
       ]
     },
     {
@@ -1976,7 +1975,7 @@
       "@id": "C-1408",
       "ref": "C-1408",
       "label": "Josh Hammer Did Not, in His Media Discussion of Iryna Zhuravska, Advocate the Death Penalty",
-      "claim": "In his media appearance with host Gabriel discussing the Iryna Zhuravska case, Hammer discussed criminal justice standards, media coverage double-standards, and safety – but did not call for or reference the death penalty.",
+      "claim": "The host says that, in a clip of Hammer's appearance with host Gabriel about the Iryna Zhuravska case, Hammer discussed criminal justice, media double standards and safety, and that at no point that she could determine did he speak about the death penalty or a public execution.",
       "anchored_artifacts": [
         "A-1250.1"
       ],
@@ -1986,8 +1985,8 @@
       "investigative_direction": "Verify the full segment transcript and any accompanying written material Hammer posted in that window.",
       "mentions_person_refs": [
         "N-55",
-        "N-165",
-        "N-176"
+        "N-164",
+        "N-175"
       ]
     },
     {
@@ -2004,16 +2003,16 @@
       "claim_timestamp": "00:13:45",
       "investigative_direction": "Verify post date and content via X archives.",
       "mentions_person_refs": [
-        "N-165",
-        "N-166"
+        "N-164",
+        "N-165"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-1410",
       "ref": "C-1410",
-      "label": "Hammer's Sole Prior Public Reference to \"Public Execution\" Was a 2022 Post About the Uvalde Shooter",
-      "claim": "Prior to September 9, 2025, Josh Hammer's only documented reference to public execution came in a 2022 post discussing the Uvalde shooter (also referencing the Buffalo shooter).",
+      "label": "Host Says Hammer's First Tweet About Public Execution Was in 2022 About the Uvalde Shooter",
+      "claim": "The host says the first time Josh Hammer tweeted about a public execution was in 2022, about the Uvalde shooter (just as with the Buffalo shooter), and that it is not something he regularly tweets about or discusses.",
       "anchored_artifacts": [
         "A-1239.2"
       ],
@@ -2032,7 +2031,7 @@
       "@id": "C-1411",
       "ref": "C-1411",
       "label": "Hammer's First X Post After Charlie Kirk's Death Promoted His Book",
-      "claim": "Josh Hammer's first X post following the announcement of Charlie Kirk's death included a claim that Charlie had told him during their last call that he would plug Hammer's book on his campus tour.",
+      "claim": "The host reads what she says was Josh Hammer's first tweet after news broke of Charlie Kirk's death, in which Hammer writes that they spoke less than 24 hours earlier and that Charlie 'joked how he was going to plug my book on this very tour.'",
       "anchored_artifacts": [
         "A-1241.1"
       ],
@@ -2065,7 +2064,7 @@
       "investigative_direction": "Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation.",
       "mentions_person_refs": [
         "N-55",
-        "N-174",
+        "N-173",
         "N-1"
       ]
     },
@@ -2085,7 +2084,7 @@
       "claim_timestamp": "00:29:05",
       "investigative_direction": "Verify full Wolicki interview; obtain unedited transcript.",
       "mentions_person_refs": [
-        "N-167",
+        "N-166",
         "N-1"
       ]
     },
@@ -2105,7 +2104,8 @@
       "claim_timestamp": "00:30:17",
       "investigative_direction": "Verify full Wolicki interview; cross-check with documented calendar entries and Zoom records.",
       "mentions_person_refs": [
-        "N-167"
+        "N-166",
+        "N-1"
       ]
     },
     {
@@ -2113,7 +2113,7 @@
       "@id": "C-1415",
       "ref": "C-1415",
       "label": "Dinesh D'Souza Posted an X Post Comparing Candace Owens to a \"Freak Show\" and Bestiality on October 8, 2025",
-      "claim": "On the morning of October 8, 2025, Dinesh D'Souza posted on X comparing Candace Owens to a \"freak show\" and a farmer having sex with a sheep, with the stated intent of discouraging viewership.",
+      "claim": "The host says Dinesh D'Souza sent out a tweet that morning to convince people they should not watch her, reading it as: 'I can't comment on Candace because it's quite obviously a freak show. It's like driving on the highway and seeing a farmer having sex with a sheep.'",
       "anchored_artifacts": [
         "A-1245.1",
         "A-1245.2"
@@ -2123,8 +2123,7 @@
       "claim_timestamp": "00:47:42",
       "investigative_direction": "Verify post timestamp and any subsequent deletion; verify Yishai reply and any subsequent post changes.",
       "mentions_person_refs": [
-        "N-171",
-        "N-172",
+        "N-170",
         "N-3"
       ]
     },
@@ -2133,7 +2132,7 @@
       "@id": "C-1416",
       "ref": "C-1416",
       "label": "Alex Jones Confirmed Candace Activated a \"Kill Switch\" Distributed to Multiple Named Recipients",
-      "claim": "Alex Jones, on his show, confirmed that Candace Owens sent a \"dead man's switch\" / \"kill switch\" data package to multiple recipients including Max Blumenthal, Tucker Carlson, the Tate brothers, and Dave Smith.",
+      "claim": "In a clip the host plays, Alex Jones says Candace Owens sent out a 'dead man switch' to the Tate brothers, Dave Smith, Max Blumenthal, Tucker Carlson and others.",
       "anchored_artifacts": [
         "A-1246.1"
       ],
@@ -2141,16 +2140,15 @@
         "N-10176"
       ],
       "tags": [],
-      "claim_timestamp": "00:53:36",
+      "claim_timestamp": "00:54:31",
       "investigative_direction": "Verify the recipients directly with named individuals; verify the contents of the package.",
       "mentions_person_refs": [
-        "N-39",
         "N-93",
-        "N-170",
-        "N-173",
-        "N-22",
+        "N-3",
         "N-49",
-        "N-3"
+        "N-22",
+        "N-172",
+        "N-39"
       ]
     },
     {
@@ -2158,7 +2156,7 @@
       "@id": "C-1417",
       "ref": "C-1417",
       "label": "Alex Jones Cited the James O'Keefe Prince Andrew Disclosure as Precedent",
-      "claim": "Alex Jones cited James O'Keefe's dead-man-switch disclosure in the Prince Andrew case as a comparable precedent for the danger and effectiveness of Candace's kill switch.",
+      "claim": "In a clip the host plays, Alex Jones says Candace Owens sent out a dead man switch just like James O'Keefe did to him and a few others right before releasing the Prince Andrew material, which Jones calls dangerous.",
       "anchored_artifacts": [
         "A-1246.1"
       ],
@@ -2170,7 +2168,8 @@
       "investigative_direction": "Verify O'Keefe's actual mechanism; obtain O'Keefe's primary disclosure.",
       "mentions_person_refs": [
         "N-93",
-        "N-170"
+        "N-169",
+        "N-3"
       ]
     },
     {
@@ -2178,15 +2177,18 @@
       "@id": "C-1418",
       "ref": "C-1418",
       "label": "A Letter Read Aloud on Air Asserted Critics Were \"Lying Through Their Teeth\"",
-      "claim": "A letter to which host was given access asserted that \"Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel.\"",
+      "claim": "In a Josh Hammer post the host reads aloud, Hammer says he was given access to a letter a few months earlier and that 'Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel.'",
       "anchored_artifacts": [
         "A-1249.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:03:10",
+      "claim_timestamp": "00:02:50",
       "investigative_direction": "Identify the letter and author; verify authenticity.",
       "mentions_person_refs": [
+        "N-55",
+        "N-22",
+        "N-3",
         "N-1"
       ]
     },
@@ -2212,7 +2214,7 @@
       "@id": "C-1420",
       "ref": "C-1420",
       "label": "Josh Hammer Tweeted Nine Times on September 9, 2025 Before the 9:09 p.m. ET Public-Execution Retweet",
-      "claim": "On September 9, 2025, Josh Hammer posted nine X items covering Phillies story, Iryna media link, anti-Tucker, pro-Israel/anti-Qatar, anti-Saudi, second anti-Tucker, Hebrew Bible / Western civilization, Supreme Court media appearance, and concluded with the 9:09 p.m. ET public-execution retweet.",
+      "claim": "The host says Josh Hammer tweeted nine times on September 9, 2025: a Phillies story, a link to his Iryna media appearance, two tweets against Tucker Carlson, a pro-Israel tweet throwing shade at Trump and Qatar, one against Saudi Arabia, the Hebrew Bible and Western civilization, a Supreme Court media appearance, and finally at 9:09 p.m. ET the public-execution retweet.",
       "anchored_artifacts": [
         "A-1240.1"
       ],
@@ -2231,11 +2233,11 @@
       "@id": "C-1421",
       "ref": "C-1421",
       "label": "Tyler Bowyer Has Made Accusatory X Posts Against Candace Owens's Coverage",
-      "claim": "Tyler Bowyer posted accusatory content on X, calling people names rather than addressing substantive questions.",
+      "claim": "The host says what Tyler Bowyer did on X was very sloppy: he was accusatory and called people names.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:07:54",
+      "claim_timestamp": "01:07:43",
       "investigative_direction": "Capture and verify direct screenshots of Bowyer's X posts.",
       "mentions_person_refs": [
         "N-11",
@@ -2260,7 +2262,7 @@
       "@type": "Claim",
       "@id": "C-1423",
       "ref": "C-1423",
-      "label": "UVU Had a Specific Suspect Profile Sought by Host – Older Males with Long Hair Tied in Ponytail or Bun",
+      "label": "Host Requests UVU Footage of Older Men With Long Hair in a Ponytail or Bun",
       "claim": "Host is specifically requesting footage of older males with long hair tied in ponytails or buns at the UVU event.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2275,13 +2277,13 @@
       "@id": "C-1424",
       "ref": "C-1424",
       "label": "Host referenced Laura Loomer in closing segment",
-      "claim": "Host references Laura Loomer in closing remarks (parody/cartoon antagonist framing).",
+      "claim": "The host says, while plugging merchandise, 'Join us in prison when Laura Loomer sends us for writing CIA in parody.'",
       "anchored_artifacts": [
         "A-1245.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:58:00–00:59:00",
+      "claim_timestamp": "01:14:58",
       "investigative_direction": "Locate exact closing-segment timestamp and any on-screen graphic.",
       "mentions_person_refs": [
         "N-3",
@@ -2293,7 +2295,7 @@
       "@id": "C-3644",
       "ref": "C-3644",
       "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
-      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "claim": "The host plugs her merchandise and says people can join her in prison when Laura Loomer sends them for writing CIA in parody, because they do not want to be in the CIA; she asks someone to get her the green CIA hat people are tagging her in.",
       "anchored_artifacts": [
         "A-2488.1"
       ],
@@ -2304,7 +2306,8 @@
       "transcript_snippet": "..., if you know someone, somebody get me that green CIA hat cuz it's actually people are tagging me in it, and I don't have it, and it's really nice. Uh other...",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-60"
       ]
     },
     {
@@ -2490,7 +2493,7 @@
       "investigative_direction": "Ask the host for the basis of the claim and check Ali's disclosed clients and any public contracts or filings.",
       "transcript_snippet": "quite literally paid to do PR for Zionists. I know this personally.",
       "mentions_person_refs": [
-        "N-164",
+        "N-163",
         "N-3"
       ]
     },
@@ -2515,7 +2518,7 @@
         "C-1406"
       ],
       "mentions_person_refs": [
-        "N-165",
+        "N-164",
         "N-55"
       ]
     },
@@ -2538,8 +2541,8 @@
       "investigative_direction": "Retrieve the host's quote tweet, the Sam Parker post it quoted and Ali's reply to confirm order and wording.",
       "transcript_snippet": "Candace Owens quote tweeted notorious neo-Nazi Sam Parker, who pointed out that Josh Hammer, who is Jewish and was a friend of Charlie Kirk's, elevated",
       "mentions_person_refs": [
-        "N-164",
-        "N-185",
+        "N-163",
+        "N-183",
         "N-3",
         "N-55"
       ]
@@ -2566,7 +2569,7 @@
       ],
       "mentions_person_refs": [
         "N-55",
-        "N-165",
+        "N-164",
         "N-3"
       ]
     },
@@ -2589,7 +2592,7 @@
       "transcript_snippet": "Josh himself sent multiple tweets regarding the homicide, as everyone did, because, like I said, it was trending. Um",
       "mentions_person_refs": [
         "N-55",
-        "N-165"
+        "N-164"
       ]
     },
     {
@@ -2642,8 +2645,8 @@
         "C-1409"
       ],
       "mentions_person_refs": [
-        "N-166",
-        "N-165"
+        "N-165",
+        "N-164"
       ]
     },
     {
@@ -2718,7 +2721,7 @@
       ],
       "mentions_person_refs": [
         "N-55",
-        "N-167",
+        "N-166",
         "N-1"
       ]
     },
@@ -2743,7 +2746,7 @@
       "mentions_person_refs": [
         "N-55",
         "N-1",
-        "N-174"
+        "N-173"
       ]
     },
     {
@@ -2751,7 +2754,7 @@
       "@id": "C-9342",
       "ref": "C-9342",
       "label": "Hammer Says on JTV Candace Chose to Hijack Charlie's Death to Blame Israel",
-      "claim": "On the JTV audio, Hammer says Ian Carroll and the host have chosen to hijack Charlie Kirk's death to blame it on Israel. The interviewer, Ali, had named Carroll first.",
+      "claim": "In a JTV clip the host plays, Hammer says that, as the interviewer Ali mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'",
       "anchored_artifacts": [
         "A-1242.1"
       ],
@@ -2767,8 +2770,8 @@
       "mentions_person_refs": [
         "N-55",
         "N-3",
-        "N-131",
-        "N-174"
+        "N-130",
+        "N-173"
       ]
     },
     {
@@ -2790,8 +2793,7 @@
       "mentions_person_refs": [
         "N-55",
         "N-46",
-        "N-102",
-        "N-174"
+        "N-101"
       ]
     },
     {
@@ -2859,7 +2861,7 @@
       ],
       "mentions_person_refs": [
         "N-55",
-        "N-167",
+        "N-166",
         "N-1",
         "N-3"
       ]
@@ -2887,7 +2889,7 @@
         "C-1377"
       ],
       "mentions_person_refs": [
-        "N-167",
+        "N-166",
         "N-55",
         "N-1",
         "N-3"
@@ -2960,7 +2962,7 @@
       "investigative_direction": "Ask Wolicki for the form and volume of that contact (calls, messages) and corroborate with Kirk-side records.",
       "transcript_snippet": "I was in touch with Charlie on an almost daily basis for months. And he certainly had uh some disagreements with Israeli policy and he criticized Israel where",
       "mentions_person_refs": [
-        "N-167",
+        "N-166",
         "N-1"
       ]
     },
@@ -2981,7 +2983,7 @@
       "investigative_direction": "Compare against Q&A transcripts from earlier Kirk campus events to estimate the share of Israel questions.",
       "transcript_snippet": "between 40 and 50% of all of the questions and and challenges that he would get on these campus tours were usually about Israel. Cuz the campuses, of course, have a lot of anti-Israel sentiment, and Charlie was known as",
       "mentions_person_refs": [
-        "N-167",
+        "N-166",
         "N-1"
       ]
     },
@@ -3007,7 +3009,7 @@
         "C-1414"
       ],
       "mentions_person_refs": [
-        "N-167",
+        "N-166",
         "N-3",
         "N-22",
         "N-1"
@@ -3135,7 +3137,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-55",
-        "N-167",
+        "N-166",
         "N-3"
       ]
     },
@@ -3227,7 +3229,6 @@
       "mentions_person_refs": [
         "N-3",
         "N-22",
-        "N-46",
         "N-1"
       ]
     },
@@ -3340,8 +3341,7 @@
       "investigative_direction": "Ask whether any staff will go on record and document what information has been provided.",
       "transcript_snippet": "This investigation is being assisted by Turning Point USA. Not the execs, but Turning Point people on the ground, people that they don't even think about, smaller employees. Like, they",
       "mentions_person_refs": [
-        "N-3",
-        "N-1"
+        "N-3"
       ]
     },
     {
@@ -3364,7 +3364,7 @@
         "C-1415"
       ],
       "mentions_person_refs": [
-        "N-171",
+        "N-170",
         "N-3"
       ]
     },
@@ -3373,7 +3373,7 @@
       "@id": "C-9368",
       "ref": "C-9368",
       "label": "Host Suggests D'Souza May Have Been Blackmailed Over Laptop Contents",
-      "claim": "The host says she wants D'Souza's opinion of her, not what is on his laptop and how they \"maybe blackmailed\" him. She offers no evidence in the transcript, and the claim is her insinuation.",
+      "claim": "The host says to Dinesh D'Souza that the interest is in his opinion of her, not in what is on his laptop and how they \"maybe blackmailed\" him.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3383,7 +3383,7 @@
       "investigative_direction": "Ask the host for any basis for the insinuation; none is presented on air.",
       "transcript_snippet": "you want to know your opinion on me, not what's on your laptop and how they maybe blackmailed you, okay? That's not what we're interested",
       "mentions_person_refs": [
-        "N-171",
+        "N-170",
         "N-3"
       ]
     },
@@ -3456,7 +3456,7 @@
       "@id": "C-9372",
       "ref": "C-9372",
       "label": "Host Says She Asked the Callers Whether the Feds Were the Source",
-      "claim": "The host says she asked the callers whether the feds said this and who specifically said it, and wondered why the feds were not calling her and Tucker directly.",
+      "claim": "The host says she remembers saying, \"Did the feds say this? Who said this specifically?\", and wondered why the feds were not calling her and Tucker directly.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11010"
@@ -3840,8 +3840,8 @@
       "@type": "Claim",
       "@id": "C-9389",
       "ref": "C-9389",
-      "label": "Host Says John and Arena Mappin Wrote a Letter the Day Before",
-      "claim": "The host says John and Arena Mappin (transcribed Mapel) wrote a letter the day before the episode saying that continuing Charlie's legacy means continuing to fight for truth. The letter is not shown.",
+      "label": "Host Says John and Irina Mappin Wrote a Letter the Day Before",
+      "claim": "The host says John and Irina Mappin wrote a letter the day before the episode saying that continuing Charlie's legacy means continuing to fight for truth. The letter is not shown.",
       "anchored_artifacts": [
         "A-3004.1"
       ],
@@ -3853,10 +3853,10 @@
       ],
       "claim_timestamp": "01:07:16",
       "investigative_direction": "Locate the Mappins' published letter and compare it with the letter described in earlier episodes.",
-      "transcript_snippet": "I think John and Arena Mapel in that beautiful letter they wrote yesterday said it way more eloquently than I ever could. Which is if you if you actually continue",
+      "transcript_snippet": "I think John and Irina Mappin in that beautiful letter they wrote yesterday said it way more eloquently than I ever could. Which is if you if you actually continue",
       "mentions_person_refs": [
+        "N-156",
         "N-157",
-        "N-158",
         "N-1",
         "N-3"
       ]
@@ -4021,7 +4021,7 @@
       "investigative_direction": "Find Kissin's public statements and any reporting of his exchange with Kelly.",
       "transcript_snippet": "Konstantin Kisin, when he was like, \"You need to make a statement against Candace and Tucker.\" Um somebody else was saying to her, \"Candace doesn't",
       "mentions_person_refs": [
-        "N-141",
+        "N-140",
         "N-46",
         "N-3",
         "N-22"

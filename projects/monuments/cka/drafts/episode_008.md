@@ -16,14 +16,14 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11319, N-11320
-  - Hole-minted Nodes (reintro-ep008): N-241, N-10109, N-10148, N-10184, N-10202, N-10343
+  - Hole-minted Nodes (reintro-ep008): N-239, N-10109, N-10148, N-10184, N-10202, N-10343
   - Tip-minted Nodes (reintro-ep008): N-11183
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12001–C-12060
   - Artifact Families Introduced: A-1146, A-1147, A-1148, A-1149, A-1150, A-1151, A-1152, A-1153, A-1154, A-2518
   - Claim Range: C-1245-C-1266, C-3727
-  - New Nodes Introduced: N-100, N-101, N-102, N-103, N-104, N-10092, N-10093, N-10095, N-10096, N-10098, N-10099, N-10100, N-10101, N-10102, N-10103, N-10105, N-10107, N-10108
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-37, N-40, N-42, N-5, N-61, N-69, N-75, N-76, N-77, N-98, N-10000, N-10012, N-10060, N-10014, N-10097, N-99, N-10094, N-10104, N-10106, N-36, N-10026, N-10027, N-10065, N-10139, N-10268, N-10341, N-10342, N-11004
+  - New Nodes Introduced: N-100, N-101, N-102, N-103, N-10092, N-10093, N-10095, N-10096, N-10098, N-10099, N-10100, N-10101, N-10102, N-10103, N-10105, N-10107, N-10108
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-37, N-40, N-42, N-5, N-61, N-69, N-75, N-76, N-77, N-98, N-10000, N-10012, N-10060, N-10014, N-10097, N-99, N-10094, N-10104, N-10106, N-36, N-10026, N-10027, N-10065, N-10139, N-10268, N-10341, N-10342, N-11004, N-68
 
 ## 2. Executive Summary
 
@@ -174,8 +174,8 @@ Confidence: medium
 
 **A-2518.1** Andrew Kolvet clip: verbal reference to videos of Charlie Kirk debating Michael Knowles (verbal reference; no displayed artifact)
 Video Timestamp: 00:34:07–00:34:23
-*Related: C-3727, N-1, N-14, N-102*
-Transcript Snippet: You can go check the videos out him debating with uh Michael Nolles, you know,
+*Related: C-3727, N-1, N-14, N-101*
+Transcript Snippet: You can go check the videos out him debating with uh Michael Knowles, you know,
 Confidence: medium
 
 ---
@@ -344,7 +344,7 @@ FBI-named suspect whose description (jeans, flag shirt) is contested by the roof
 
 ---
 
-**N-101** Charlie Skyler
+**N-68** Skyler
 
 Node Type: Person
 Production team member referenced while pulling the timeline graphic on screen.
@@ -364,7 +364,7 @@ Referenced via prior tweet suggesting more parties involved than Robinson alone.
 
 ---
 
-**N-102** Michael Knowles
+**N-101** Michael Knowles
 
 Node Type: Person
 Catholic debate partner of Charlie Kirk referenced by Kolvet.
@@ -384,7 +384,7 @@ President; audio statement on MMR separation and Hepatitis B delay played in the
 
 ---
 
-**N-103** Chris
+**N-102** Chris
 
 Node Type: Person
 Commenter asking who paid for the rapid crime-scene paver installation.
@@ -393,7 +393,7 @@ Commenter asking who paid for the rapid crime-scene paver installation.
 
 ---
 
-**N-104** MC
+**N-103** MC
 
 Node Type: Person
 Commenter quoting police scanner description (jeans, black shirt, mask, vest, rifle).
@@ -650,7 +650,7 @@ The host's claim that the public scanner feed carrying the shooter description w
 
 ---
 
-**N-241** Glenn Beck
+**N-239** Glenn Beck
 
 Person: relayed by Barker's text as saying Charlie was stable.
 
@@ -791,10 +791,10 @@ Existing organization; the witness says its published shooter timing and descrip
 **C-1245** GMA reached Tiffany Barker via Phil Lyman political channel
 
 Claim Timestamp: 00:08:33
-Claim: Tiffany Barker told host that GMA's outreach to her came through Phil Lyman, with whom her sister ran as lieutenant governor.
+Claim: The host says Tiffany Barker intimated that Good Morning America's outreach was a political connection: her sister ran as lieutenant governor alongside Phil Lyman, and GMA reached out to Phil Lyman and somehow ended up with her sister's children and her.
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Lyman... Good Morning America reached out to Phil Lyman
 Anchored Artifacts: A-1146.1
-Mentions: N-61, N-75, N-101
+Mentions: N-3, N-61, N-75
 Related Nodes: N-10060, N-10094, N-10095
 Confidence: medium
 Investigative Direction: Verify Tiffany Barker's LDS/political family ties and the Leman campaign contact chain.
@@ -803,11 +803,11 @@ Investigative Direction: Verify Tiffany Barker's LDS/political family ties and t
 
 **C-1246** Children described Charlie's artery wound on GMA
 
-Claim Timestamp: 00:05:18
-Claim: Nieces L Steel and Mia Grant told GMA they saw the shot hit Charlie's artery.
+Claim Timestamp: 00:04:35
+Claim: In the Good Morning America clip the host plays, L Steel says she saw blood everywhere and that it hit his artery, and Mia Grant says they were about 15 feet away and she thought the shot was a firecracker.
 Transcript Snippet: I saw blood everywhere and it hit his artery and then I just we fell to the ground
 Anchored Artifacts: A-1146.1
-Mentions: N-75, N-76, N-77
+Mentions: N-76, N-77, N-1
 Related Nodes: N-10096
 Confidence: high
 Investigative Direction: Compare the children's GMA statements against the video metadata and any device footage.
@@ -818,7 +818,7 @@ Tags: open_source_investigation
 **C-1247** Tiffany Barker Says Artery Detail Came from Car Conversation, Not Observation
 
 Claim Timestamp: 00:07:43
-Claim: In a follow-up video the host plays, Tiffany Barker says the 'artery' detail was her own remark to the children during a roughly hour-and-a-half car conversation after the shooting, not something the children saw.
+Claim: In a follow-up video the host plays, Tiffany Barker says the children saw how much Charlie bled and asked why, and she told them during a roughly hour-and-a-half car wait after the shooting, "There's an artery here. Maybe they hit an artery," adding "I didn't know."
 Transcript Snippet: I said, 'There's an artery here. Maybe they hit an artery.' I didn't know. We didn't know anything.
 Anchored Artifacts: A-1147.1
 Mentions: N-75, N-76, N-77
@@ -828,7 +828,7 @@ Investigative Direction: Obtain the original follow-up video and any car-cam foo
 
 ---
 
-**C-1248** George Zinn arrested ~1:48 after Charlie's SUV departs, same location
+**C-1248** George Zinn Arrested ~1:48 After Shot Near Where Charlie's SUV Departed
 
 Claim Timestamp: 00:14:20
 Claim: Per the host's timeline, ~40 seconds from shot to SUV departure and ~1:08 later George Zinn is in handcuffs in the same SUV zone.
@@ -897,7 +897,7 @@ Investigative Direction: Subpoena the originating accounts; obtain phone records
 **C-1253** Eyewitness tells FBI shooter was in tactical gear, not jeans
 
 Claim Timestamp: 00:23:36
-Claim: Per the rooftop videographer, he told authorities within hours that the shooter was in tactical gear and a face mask, contradicting the later public description.
+Claim: Per the rooftop videographer as relayed by the host, he told authorities the shooter was in tactical gear and a face mask, not the jeans in the description the public received less than 24 hours later.
 Transcript Snippet: this person was dressed in tactical gear and he was wearing a face mask
 Anchored Artifacts: A-1154.1
 Mentions: N-40
@@ -912,7 +912,7 @@ Tags: calls_for_tips, open_source_investigation
 **C-1254** Eyewitness says rifle was smaller than reported
 
 Claim Timestamp: 00:25:26
-Claim: The eyewitness texted the host that the weapon sounded like a smaller rifle, not a hunting rifle, and likely used a 10 or 20-round magazine.
+Claim: The eyewitness texted the host that the sharp crack and shorter rifle platform suggested a smaller rifle, not a big hunting rifle, and that the assassin may have used a 10 or 20-round magazine.
 Transcript Snippet: the assassin may have used a 10 or 20 round magazine... Hornady VMAX or similar lightweight 223 bullet
 Anchored Artifacts: A-1154.1
 Mentions: N-40
@@ -925,10 +925,10 @@ Investigative Direction: Compare eyewitness account with ballistic/forensic find
 **C-1255** Kolvet denies Charlie was converting to Catholicism
 
 Claim Timestamp: 00:32:47
-Claim: Andrew Kolvet told Alex Clark that Charlie was not converting; he loved Catholic mass but remained Protestant.
+Claim: In a clip the host plays, Andrew Kolvet tells Alex Clark that Charlie was not becoming Catholic but really loved Catholic mass.
 Transcript Snippet: Was he becoming Catholic? No. But he really loved Catholic mass.
 Anchored Artifacts: A-1151.1
-Mentions: N-1, N-2, N-14, N-99
+Mentions: N-1, N-14, N-99
 Related Nodes: N-10104
 Confidence: high
 Investigative Direction: Cross-check with Charlie's own prior public statements on faith and any church/RCIA enrollment records.
@@ -941,7 +941,7 @@ Claim Timestamp: 00:36:08
 Claim: Kolvet says he never heard of a $150M Israel offer and that TPUSA has consistently refused foreign money, including cancelling wires.
 Transcript Snippet: Was Charlie offered $150 million from Israel? As far as I know, no.
 Anchored Artifacts: A-1151.2
-Mentions: N-1, N-14, N-37, N-98
+Mentions: N-1, N-14
 Related Nodes: N-10105
 Confidence: high
 Investigative Direction: Audit TPUSA donor records against FARA filings; review cancelled wire correspondence.
@@ -951,7 +951,7 @@ Investigative Direction: Audit TPUSA donor records against FARA filings; review 
 **C-1257** SD cards removed by TPUSA affiliate to prevent theft/loss
 
 Claim Timestamp: 00:41:15
-Claim: Kolvet says SD cards were pulled from on-scene cameras to preserve evidence from being stolen during the chaos, not to suppress footage.
+Claim: In a clip the host plays, Kolvet says he thinks the team took the SD cards because, even in the shock, they understood the cameras would be evidence and wanted to keep them from being stolen, so law enforcement could get them.
 Transcript Snippet: they wanted to make sure they didn't get stolen out of the cameras
 Anchored Artifacts: A-1151.3
 Mentions: N-14
@@ -999,10 +999,10 @@ Investigative Direction: Verify official White House transcript of the statement
 
 ---
 
-**C-1261** Erika's father is the Lt. Gov. candidate alongside Phil Lyman
+**C-1261** Tiffany Barker's Sister Ran for Lt. Gov. With Phil Lyman
 
 Claim Timestamp: 00:08:33
-Claim: Host states Tiffany Barker's sister ran as lieutenant governor alongside Phil Lyman.
+Claim: Host says Tiffany Barker told her that her sister ran as lieutenant governor alongside Phil Lyman.
 Transcript Snippet: her sister ran as lieutenant governor alongside Phil Lyman
 Anchored Artifacts: A-1146.1
 Mentions: N-61, N-75
@@ -1025,13 +1025,13 @@ Investigative Direction: Pull the actual Patel thread and timestamp the posts; v
 
 ---
 
-**C-1263** Crime scene paver installation was paid for by an unknown party
+**C-1263** Commenter Asks Who Paid for Crime Scene Pavers
 
 Claim Timestamp: 00:58:05
 Claim: Commenter Chris asks who paid for the rapid paver installation at the crime scene; host flags it as an open path to pursue.
 Transcript Snippet: Do we know who paid for the crime scene demolition, the pavers that were so quickly put down?
 Anchored Artifacts: 
-Mentions: N-103
+Mentions: N-102
 Related Nodes: N-10012, N-10107
 Confidence: low
 Investigative Direction: Request UVU facilities work orders, vendor invoices, and payment records for the post-incident hardscape work.
@@ -1044,7 +1044,7 @@ Claim Timestamp: 00:58:33
 Claim: Commenter MC states a police scanner call right after the shooting described a shooter wearing jeans, a black shirt, black mask, and black vest carrying a long rifle.
 Transcript Snippet: they were looking for someone wearing jeans, a black shirt, a black mask, and a black vest carrying a long rifle
 Anchored Artifacts: 
-Mentions: N-104
+Mentions: N-103
 Related Nodes: N-10014, N-10108
 Confidence: low
 Investigative Direction: Obtain archived Broadcastify/ScannerRadio audio for the timeframe; cross-check against official dispatch logs.
@@ -1057,6 +1057,7 @@ Claim Timestamp: 00:01:43
 Claim: Host states she verified Charlie was not wearing an earpiece; what appears to be one is his necklace.
 Transcript Snippet: no, Charlie was not wearing an earpiece
 Anchored Artifacts: 
+Mentions: N-1
 Related Nodes: N-10102
 Confidence: low
 Investigative Direction: Locate the high-resolution footage and clothing item Charlie was wearing to confirm.
@@ -1069,6 +1070,7 @@ Claim Timestamp: 00:02:06
 Claim: Host states she verified Charlie was not wearing a vest, and a prior vest supplier had stopped providing them.
 Transcript Snippet: he was not wearing a bulletproof vest
 Anchored Artifacts: 
+Mentions: N-1
 Related Nodes: N-10103
 Confidence: low
 Investigative Direction: Identify and interview the prior vest provider; review any supplier/contract documentation.
@@ -1078,7 +1080,7 @@ Investigative Direction: Identify and interview the prior vest provider; review 
 **C-3641** Host jokes that Trump may be watching the show in a CIA hat
 
 Claim Timestamp: 00:47:35
-Claim: Reacting to Trump calling vaccine ingredients poison, the host jokes that Trump may have signed up to candace.com and is "wearing um a CIA hat and watching," a passing reference to the show's CIA hat rather than a merch plug.
+Claim: Reacting to Trump calling vaccine ingredients poison, the host jokes that Trump may have signed up to candace.com and is "wearing um a CIA hat and watching."
 Transcript Snippet: ...] com? Is he watching? Is he wearing um a CIA hat and watching? I think so. And here's a statement that Trump made. We want no mercury in the...
 Anchored Artifacts: A-2485.1
 Mentions: N-3, N-5
@@ -1092,10 +1094,10 @@ Investigative Direction: Preserve as joke reference to CIA hat brand; no factual
 **C-3727** Kolvet: Charlie Kirk debated Michael Knowles on Protestant versus Catholic theology
 
 Claim Timestamp: 00:34:12
-Claim: Andrew Kolvet, in the Alex Clark interview clip played on air (cued at 32:43 as "Andrew's response to the Catholic question"), says Charlie Kirk debated Michael Knowles (transcript: "Michael Nolles") in good fun on Protestant versus Catholic theology and that they were dear friends.
-Transcript Snippet: You can go check the videos out him debating with uh Michael Nolles, you know,
+Claim: Andrew Kolvet, in the Alex Clark interview clip played on air (cued at 32:43 as "Andrew's response to the Catholic question"), says Charlie Kirk debated Michael Knowles (transcript: "Michael Knowles") in good fun on Protestant versus Catholic theology and that they were dear friends.
+Transcript Snippet: You can go check the videos out him debating with uh Michael Knowles, you know,
 Anchored Artifacts: A-2518.1
-Mentions: N-1, N-14, N-102, N-99
+Mentions: N-1, N-14, N-101, N-99
 Confidence: medium
 Investigative Direction: Locate the Charlie Kirk and Michael Knowles debate videos.
 
@@ -1206,7 +1208,7 @@ Claim: Tiffany Barker says that while in the car she received a text saying Glen
 Transcript Snippet: "Glenn Beck said he's stable."
 
 Anchored Artifacts: A-1147.1
-Mentions: N-75, N-241, N-1
+Mentions: N-75, N-239, N-1
 Related Nodes: N-10096
 Tags: relevance:context
 Investigative Direction: Identify the sender of the text and when Glenn Beck made any statement that Charlie was stable.
@@ -1455,12 +1457,12 @@ Investigative Direction: Locate Kolvet's original statement and compare it with 
 
 Claim Timestamp: 00:30:59
 
-Claim: The host says Alex Clark teased that viewers would get unfiltered answers to burning questions such as whether Charlie was converting to Catholicism, whether he took $150 million from Israel, and the SD cards, and that she never said the first two.
+Claim: The host says Alex Clark teased unfiltered answers to burning questions such as whether Charlie was converting to Catholicism and whether he took $150 million from Israel, says she has no idea who said the first and that the second is not something said on her show, and adds that they are also going to address the SD cards.
 
 Transcript Snippet: Uh she teased that, you know, that you were going to get unfiltered answers to burning questions like quote,
 
 Anchored Artifacts: A-3178.1
-Mentions: N-3, N-99, N-2
+Mentions: N-3, N-99
 Related Nodes: N-11183, N-10104, N-10105, N-10100
 Tags: relevance:context
 Investigative Direction: Retrieve Alex Clark's teaser post and the interview publication date.
@@ -1479,7 +1481,7 @@ Anchored Artifacts:
 Mentions: N-3, N-2, N-1
 Related Nodes: N-10104
 Supports: C-10671, C-10670, C-10769
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Collect Erika's and Charlie's posts or photos from Mass and statements from their priest.
 
 ---
@@ -1595,7 +1597,7 @@ Transcript Snippet: Nobody said the number 150 million or I didn't say the numbe
 Anchored Artifacts: 
 Mentions: N-3, N-22
 Related Nodes: N-10105
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Trace where the $150 million figure first appeared in connection with an offer to Charlie.
 
 ---
@@ -1612,7 +1614,7 @@ Anchored Artifacts:
 Mentions: N-3, N-36
 Related Nodes: N-10139, N-11004, N-10105
 Supports: C-10766, C-4906
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the host's source documentation for the 150 million expenditure and its recipients.
 
 ---
@@ -1666,11 +1668,11 @@ Investigative Direction: Review the Foreign Agents Registration Act exemptions a
 
 ---
 
-**C-12035** Host Says Foreign Agents for Israel Gave Money to TPUSA and Names Ackman and Shulman as Possible Donors
+**C-12035** Host Says Foreign Agents for Israel Gave Money to TPUSA and Names Ackman and Shillman as Possible Donors
 
 Claim Timestamp: 00:38:26
 
-Claim: The host says she knows for a fact that foreign agents working on behalf of Israel gave money to Turning Point and raises whether it was Bill Ackman, Bob Shillman (transcribed Bob Shillman) or other big donors.
+Claim: The host says she knows for a fact that foreign agents working on behalf of Israel gave money to Turning Point and raises whether it was Bill Ackman, Bob Shillman or other big donors.
 
 Transcript Snippet: Yes, they do. Uh the question is whether it's Bill Ackman, whether it's Bob Shillman,
 
@@ -1776,7 +1778,7 @@ Claim: In the clip, the speaker recounts that after the Myrtle Beach question Ch
 Transcript Snippet: It's like, well, maybe Tucker's going to give two speeches now at Empest. And that is the truth.
 
 Anchored Artifacts: A-1151.4
-Mentions: N-14, N-1, N-22
+Mentions: N-1, N-22
 Related Nodes: N-10268, N-10106
 Tags: relevance:context
 Investigative Direction: Check AmFest 2025 speaker lineup history and any announcements about Tucker Carlson.
@@ -1804,7 +1806,7 @@ Investigative Direction: Obtain the host's message evidence that Charlie describ
 
 Claim Timestamp: 00:44:02
 
-Claim: The host says Charlie was telling people he would bring Candace back, saying the donors kind of bullied this ending.
+Claim: The host says Charlie was telling people he was digging his heels in further and saying he would bring Candace back, and that 'you guys kind of bullied this ending'.
 
 Transcript Snippet: "I'm going to bring Candace back. You know, you guys kind of bullied this ending." And by the way,
 
@@ -1884,7 +1886,7 @@ Investigative Direction: Review the Shot in the Dark series description and rele
 
 Claim Timestamp: 00:47:44
 
-Claim: In the audio, Trump says chickenpox is already separate because when it was mixed in, to make a four-in-one for a while, it was really bad.
+Claim: In the audio, Trump says chickenpox is already separate because when it got mixed in, 'I guess they made it four for a while', it really was bad.
 
 Transcript Snippet: the chickenpox is already separate because when that got mixed in I guess they made it four for a while it really was bad.
 

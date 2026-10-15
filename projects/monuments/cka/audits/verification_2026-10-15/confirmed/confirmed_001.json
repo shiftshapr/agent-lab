@@ -1,0 +1,468 @@
+[
+ {
+  "claim": "C-1115",
+  "episode": 1,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-27"
+   ]
+  },
+  "note": "Claim names only Charlie, Candace, Kanye; Sarah appears later at 15:12 in a different beat."
+ },
+ {
+  "claim": "C-1117",
+  "episode": 1,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that when flights were cancelled during a hurricane, she and Charlie Kirk rented a car and drove 8 hours to reach DC by morning, and that she thinks it was in North or South Carolina."
+  },
+  "note": "Host narrates at 12:21-12:40; clip after is singing, not the drive."
+ },
+ {
+  "claim": "C-1123",
+  "episode": 1,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that while the YWLS conference ran at the same time as the 'him too' backlash, reporters who already hated them swooped in asking whether Charlie supported her statements, and that, with her standing behind Charlie and Andrew Kolvet, Charlie held the line.",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-14"
+   ]
+  },
+  "note": "Matches 14:20-14:45; 'he held the line' refers to Charlie."
+ },
+ {
+  "claim": "C-1118",
+  "episode": 1,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:15:20",
+   "claim": "The host says she and Charlie Kirk were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, and she then plays a video clip of the moment."
+  },
+  "note": "Story spoken at 15:25; clip introduced 15:50-16:05."
+ },
+ {
+  "claim": "C-3630",
+  "episode": 2,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "Trump not named in claim or clip."
+ },
+ {
+  "claim": "C-1127",
+  "episode": 2,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-46"
+   ]
+  },
+  "note": "Claim names only Kirk and Kelly."
+ },
+ {
+  "claim": "C-1128",
+  "episode": 2,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she is told that Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-37"
+   ]
+  },
+  "note": "Hedge 'That is what I am told' at 15:48; Dillon and Blumenthal not in claim."
+ },
+ {
+  "claim": "C-1129",
+  "episode": 2,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-36"
+   ]
+  },
+  "note": "Claim names only Netanyahu and Kirk."
+ },
+ {
+  "claim": "C-1132",
+  "episode": 2,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Charlie Kirk refers to Epstein's friend Ghislaine and her father Robert Maxwell, whom he calls \"obviously a spy of the Israeli intelligence agencies\", says intel agencies want blackmail on powerful people, and says Epstein was a creation of either Mossad, Israeli, American or Saudi intelligence, or maybe just a hired gun."
+  },
+  "note": "Fix right on substance but 'in a blackmail operation' overstates; keep Ghislaine reference so N-47 stays valid."
+ },
+ {
+  "claim": "C-1139",
+  "episode": 2,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person; Savage only after content."
+ },
+ {
+  "claim": "C-1142",
+  "episode": 2,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-41"
+   ]
+  },
+  "note": "Gutman only in reporter question."
+ },
+ {
+  "claim": "C-10657",
+  "episode": 2,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie Kirk was pressed over how he could allow debates about Israel on the America Fest stage and how he could allow Dave Smith, whom she notes is Jewish, to take it.",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-39"
+   ]
+  },
+  "note": "Matches 13:20-13:38."
+ },
+ {
+  "claim": "C-10665",
+  "episode": 2,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-37"
+   ]
+  },
+  "note": "Claim is about Ackman's tweet; Dillon not referred to."
+ },
+ {
+  "claim": "C-1154",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-54",
+    "N-1"
+   ]
+  },
+  "note": "Erika Kirk absent."
+ },
+ {
+  "claim": "C-1160",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-37",
+    "N-1"
+   ]
+  },
+  "note": "Wexler absent; Village Crazy Lady not in claim."
+ },
+ {
+  "claim": "C-1162",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and says he and Kelly speculated about Jeffrey Epstein possibly being a Mossad agent or asset, which has been turned around on him as anti-semitism."
+  },
+  "note": "Epstein/Mossad remark is Kirk's in the clip at 51:27."
+ },
+ {
+  "claim": "C-1164",
+  "episode": 3,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the letter Charlie Kirk wrote Benjamin Netanyahu in May was glowing, that he was overcome with passion and said he loved Israel, and that she finds it weird no one addresses the substance of the claims.",
+   "mentions": [
+    "N-1",
+    "N-36"
+   ]
+  },
+  "note": "Claim fix correct; Ackman no longer referred to, so drop N-37."
+ },
+ {
+  "claim": "C-3634",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host thanks viewers who went to her website and bought a hat, \"one of our CIA hats\", and a t-shirt to support the show.",
+   "label": "Host Thanks Viewers for Buying CIA Hats"
+  },
+  "note": "No Candace/Decentralized gloss spoken at 01:11:22-27."
+ },
+ {
+  "claim": "C-13531",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "claim": "Reading the indictment, the host says Robinson texted that one of his neighbors was there and was a deputy for the sheriff."
+  },
+  "note": "Comparison with retired deputy not said here."
+ },
+ {
+  "claim": "C-13595",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a viewer comment from Bible with Bell saying not to believe the texts for a second because he was worried about leaving evidence but then conveniently texted every detail, and the host sarcastically voices him saying he does not want to leave any evidence other than a very elaborate text chain that gives his motive and says he acted alone."
+  },
+  "note": "Host voices shooter sarcastically at 01:13:52."
+ },
+ {
+  "claim": "C-1175",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the alleged Robinson-Twiggs text messages use words like 'retrieve' and 'vehicle' in ways that are inconsistent with casual 22-year-old texting, and suggests they are not authentic.",
+   "mentions": [
+    "N-40",
+    "N-54"
+   ]
+  },
+  "note": "Erika absent; Skyler not in claim; node spelling Twiggs."
+ },
+ {
+  "claim": "C-1178",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that because Robinson's text references 'similar clothing' to a second suspect, the text could not have been sent before Governor Cox's 5:30 PM press conference mentioning dark clothing, and she says she thinks the messages are made up.",
+   "mentions": [
+    "N-40",
+    "N-41"
+   ]
+  },
+  "note": "Hedge at 08:21; Zinn and Patel not in claim."
+ },
+ {
+  "claim": "C-1182",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Governor Cox's statement that Robinson kept the same maroon outfit on for 33 hours is false according to her source, who says Robinson was not wearing that outfit when picked up.",
+   "mentions": [
+    "N-40",
+    "N-41"
+   ]
+  },
+  "note": "Matches 29:26-30:11."
+ },
+ {
+  "claim": "C-1185",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Tucker Carlson says that a small, very intense group of donors tormented Charlie Kirk until the day he died and that two days before he died Charlie lost a $2 million donation because he had publicly pledged to bring Carlson to the next Turning Point conference in December.",
+   "label": "Donors Pressured Charlie Over Tucker Speaking Slot",
+   "mentions": [
+    "N-1",
+    "N-22"
+   ]
+  },
+  "note": "Tucker clip starts 43:09; 'bring me' is Carlson."
+ },
+ {
+  "claim": "C-4838",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Robinson-Twiggs texts are written in very proper English with commas and correct punctuation, which she calls a striking contrast with the meme-style text inscribed on the cartridge casings.",
+   "mentions": [
+    "N-3",
+    "N-40",
+    "N-54"
+   ]
+  },
+  "note": "Claim refers to Twiggs; node spelling."
+ },
+ {
+  "claim": "C-4840",
+  "episode": 4,
+  "decision": "reject",
+  "fix": {},
+  "note": "Lance is the recipient of the quoted text (reply to his 'You're joking'); rules keep the recipient."
+ },
+ {
+  "claim": "C-4842",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-42",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk."
+ },
+ {
+  "claim": "C-4844",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-3"
+   ]
+  },
+  "note": "Cox not named or referred to in claim."
+ },
+ {
+  "claim": "C-4845",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-69"
+   ]
+  },
+  "note": "Released subject is not clearly Zinn; claim names only Patel."
+ },
+ {
+  "claim": "C-4847",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a Robinson text wonders whether the rifle had a serial number and says it would not trace to him, which she finds strange from someone who had planned for a week, noting he had just said in writing that it was his grandfather's."
+  },
+  "note": "Grandpa remark is host's sarcasm at 12:03."
+ },
+ {
+  "claim": "C-4863",
+  "episode": 4,
+  "decision": "reject",
+  "fix": {},
+  "note": "Text quoted is addressed to Lance (recipient); rules keep the recipient."
+ },
+ {
+  "claim": "C-4866",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-4868",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-54"
+   ]
+  },
+  "note": "Robinson not named in claim."
+ },
+ {
+  "claim": "C-4874",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Robinson not referred to."
+ },
+ {
+  "claim": "C-4883",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-36",
+    "N-22",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie's death."
+ },
+ {
+  "claim": "C-4884",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-1"
+   ]
+  },
+  "note": "Kelly not in claim."
+ },
+ {
+  "claim": "C-1189",
+  "episode": 5,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says TMZ was the first, on September 10th, to show doorbell-camera footage, which she thinks was marked 8:07 a.m., though she says she does not know exactly when TMZ released it and feels it was in the morning.",
+   "mentions": []
+  },
+  "note": "Hedge 'I think' kept; with Steel attribution removed no person is named, so N-73 dropped too."
+ },
+ {
+  "claim": "C-1192",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-36",
+    "N-1"
+   ]
+  },
+  "note": "Goebbels quoted in clip but not in claim."
+ },
+ {
+  "claim": "C-1194",
+  "episode": 5,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Bill Ackman shared private text messages with Charlie Kirk to dispel the idea that anything happened in the Hamptons, and that the messages lack a date and context and do not dispel anything she has asserted.",
+   "names": [
+    {
+     "wrong": "Blackman",
+     "right": "Ackman",
+     "source": "https://www.yahoo.com/news/articles/bill-ackman-shares-text-messages-150349727.html"
+    }
+   ]
+  },
+  "note": "Host framing ('I guess', 38:16-38:26); Ackman posting Kirk texts confirmed via web search."
+ },
+ {
+  "claim": "C-3771",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "C-1194 spells the name 'Bill Ackman'; the auto-caption transcript at this beat reads 'Blackman'. The person is Bill Ackman (N-37). Bill Ackman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a trip to the Hamptons; the host notes the messages lack dates and context.",
+   "names": [
+    {
+     "wrong": "Blackman",
+     "right": "Ackman",
+     "source": "https://en.wikipedia.org/wiki/Bill_Ackman"
+    }
+   ]
+  },
+  "note": "Name verified by web search (Ackman shared Kirk texts to rebut Owens)."
+ }
+]

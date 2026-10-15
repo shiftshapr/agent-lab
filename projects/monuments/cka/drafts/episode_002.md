@@ -915,7 +915,7 @@ Claim Timestamp: 00:01:41
 Claim: In a clip the host plays, Erika Kirk says that the movement her husband built will not die and frames his mission as continuing after his death.
 Transcript Snippet: The cries of this widow will echo around the world like a battlecry.
 Anchored Artifacts: A-1081.1
-Mentions: N-1, N-2, N-3, N-5
+Mentions: N-1, N-2, N-3
 Confidence: high
 Investigative Direction: Obtain full unedited version of Erika Kirk's remarks and compare against clip circulating on social media.
 
@@ -968,7 +968,7 @@ Claim Timestamp: 00:11:53
 Claim: In a clip the host plays of an interview with Megyn Kelly, which the host describes as from a month earlier, Charlie Kirk says he is being pressured regarding Israel criticism and event guest lists, saying his moral character is being put into question.
 Transcript Snippet: My moral character is now being put into question… they were threatening to pull out money.
 Anchored Artifacts: A-1084.1
-Mentions: N-1, N-22, N-39, N-46
+Mentions: N-1, N-46
 Related Nodes: N-10025
 Confidence: high
 Investigative Direction: Verify exact date of Megyn Kelly interview and guest list complaints.
@@ -978,10 +978,10 @@ Investigative Direction: Verify exact date of Megyn Kelly interview and guest li
 **C-1128** Bill Ackman Staged Intervention Against Kirk in Hamptons
 
 Claim Timestamp: 00:15:24
-Claim: Host asserts Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.
+Claim: The host says she is told that Bill Ackman staged an intervention in the Hamptons where he pressured Kirk on Israel.
 Transcript Snippet: An intervention was staged by Bill Ackman because Charlie's thoughts, Charlie's rational thoughts about Israel were a no no.
 Anchored Artifacts: A-1092.1
-Mentions: N-1, N-3, N-37, N-38, N-49
+Mentions: N-1, N-3, N-37
 Related Nodes: N-10000, N-10016, N-10027
 Confidence: medium
 Uncertainty: Host says she was told; she directly challenges Ackman to dispute. No independent confirmation shown.
@@ -995,7 +995,7 @@ Claim Timestamp: 00:16:06
 Claim: The host says she is told that Netanyahu called Kirk during the Hamptons meeting period and invited him to Israel.
 Transcript Snippet: It was at this time that BB Netanyahu was called and Charlie was invited to Israel.
 Anchored Artifacts: A-1082.1, A-1092.1
-Mentions: N-1, N-36, N-37, N-38
+Mentions: N-1, N-36
 Related Nodes: N-10018
 Confidence: high
 Investigative Direction: Cross-reference Netanyahu's Fox News statement with text messages from that period.
@@ -1033,7 +1033,7 @@ Investigative Direction: Verify full interview and surrounding context of the qu
 **C-1132** Kirk Stated Epstein Was Israeli Intelligence Blackmail Asset
 
 Claim Timestamp: 00:29:11
-Claim: Charlie Kirk publicly stated that Jeffrey Epstein and Ghislaine/Robert Maxwell were Israeli intelligence assets running a blackmail operation.
+Claim: In a clip the host plays, Charlie Kirk refers to Epstein's friend Ghislaine and her father Robert Maxwell, whom he calls "obviously a spy of the Israeli intelligence agencies", says intel agencies want blackmail on powerful people, and says Epstein was a creation of either Mossad, Israeli, American or Saudi intelligence, or maybe just a hired gun.
 Transcript Snippet: Epstein with his little friend Galain and Galain's father, Robert Maxwell, who is obviously a spy of the Israeli intelligence agencies.
 Anchored Artifacts: A-1086.1
 Mentions: N-1, N-9, N-47, N-48
@@ -1102,7 +1102,7 @@ Tags: open_source_investigation
 **C-1137** Seth Dillon and Bill Ackman Have Not Publicly Disputed Hamptons Narrative
 
 Claim Timestamp: 00:18:22
-Claim: Seth Dillon and Bill Ackman have not publicly disputed host's framing of the Hamptons meeting; Seth Dillon did not respond to direct text outreach.
+Claim: The host says she is waiting for Bill Ackman or anyone at the Hamptons meeting to go on record disputing her account, and that Seth Dillon, whom she says is normally quick to respond, had not yet responded to her text messages.
 Transcript Snippet: Seth Dillon who was normally very quick with a response has not yet been able to respond.
 Anchored Artifacts: A-1091.1, A-1092.1
 Mentions: N-3, N-37, N-38
@@ -1132,7 +1132,7 @@ Claim Timestamp: 00:45:42
 Claim: The host says authorities say the weapon was found in the woods wrapped in a dark towel, and that the photo they gave of it showed it fully assembled.
 Transcript Snippet: The weapon, they say, was found in the woods and it was wrapped by a dark towel.
 Anchored Artifacts: A-1093.1, A-1087.1
-Mentions: N-40, N-43
+Mentions: 
 Related Nodes: N-10014, N-10020
 Confidence: high
 Investigative Direction: Obtain FBI evidence photos and chain of custody for recovered rifle.
@@ -1170,7 +1170,7 @@ Claim Timestamp: 00:51:02
 Claim: Governor Cox stated that Robinson has not confessed to authorities and is not cooperating.
 Transcript Snippet: he has not confessed to um to authorities. He he is he is uh he is not cooperating.
 Anchored Artifacts: A-1089.3
-Mentions: N-40, N-41, N-45
+Mentions: N-40, N-41
 Related Nodes: N-10021
 Confidence: high
 Investigative Direction: Verify with subsequent FBI/AG press releases.
@@ -1193,7 +1193,7 @@ Investigative Direction: Obtain full Discord statement and any subsequent update
 **C-3633** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 01:08:52
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: The host invites viewers who have information to send tips and says those who want to join "our movement of the decentralized intelligence agency" can support the show.
 Transcript Snippet: ...8:52] com if you want to join our movement of the decentralized uh intelligence agency. Uh you can head on over to support us and our work. We are entirely independent. [01:09...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1403,7 +1403,7 @@ Investigative Direction: Locate the original post on Trump's account and archive
 
 ---
 
-**C-10655** Host Says Donors Told Kirk He Could Not Invite Certain People
+**C-10655** Host Says Kirk Was Told He Could Not Invite Certain People
 
 Claim Timestamp: 00:13:00
 
@@ -1441,12 +1441,12 @@ Investigative Direction: Obtain the text messages the host says she can release 
 
 Claim Timestamp: 00:13:29
 
-Claim: The host says Dave Smith, whom she notes is Jewish, was one of the speakers donors objected to because debates about Israel were allowed on Turning Point's America Fest stage.
+Claim: The host says Charlie Kirk was pressed over how he could allow debates about Israel on the America Fest stage and how he could allow Dave Smith, whom she notes is Jewish, to take it.
 
 Transcript Snippet: How could he allow Dave Smith, who by the way is Jewish,
 
 Anchored Artifacts: 
-Mentions: N-3, N-39, N-1, N-22
+Mentions: N-1, N-3, N-39
 Related Nodes: N-10268, N-10025
 Tags: relevance:context
 Investigative Direction: Check the AmFest 2025 programming and any donor complaints about Smith's appearance.
@@ -1577,7 +1577,7 @@ Claim: The host reads a tweet from Bill Ackman in which he says he feels incredi
 Transcript Snippet: I feel incredibly privileged to have spent a day and shared a meal with Charlie Kirk this summer.
 
 Anchored Artifacts: A-1091.1
-Mentions: N-3, N-37, N-1, N-38
+Mentions: N-1, N-3, N-37
 Related Nodes: N-10037, N-10016
 Tags: relevance:core
 Investigative Direction: Archive the Ackman tweet with its timestamp and compare with the host's account of the meeting.
@@ -1878,7 +1878,7 @@ Investigative Direction: Identify the original broadcast and any evidence Kirk c
 
 Claim Timestamp: 00:32:12
 
-Claim: The host says she is seeing messages from people trying to replace Charlie Kirk at Turning Point USA, and that she knows exactly who they are and who exerted pressure on Kirk.
+Claim: The host says she is seeing messages from people trying to replace Charlie Kirk at Turning Point USA, and that she knows exactly who they are and who were exerting pressure.
 
 Transcript Snippet: I know exactly who you are. I know exactly who you were that were exerting pressure.
 
@@ -2119,7 +2119,7 @@ Investigative Direction: Identify the pastor and the official account of how Rob
 
 Claim Timestamp: 00:49:39
 
-Claim: The host says that Bill Ackman, who she guesses offered about a million dollars, will see that money go to the father of the suspect who, after prayer and speaking to a pastor, turned his son in.
+Claim: The host says, sarcastically, that Bill Ackman, who she guesses offered probably a million dollars, is thanked because that money is now going to the father of the suspect who, after prayer and speaking to a pastor, turned his son in.
 
 Transcript Snippet: that money is now going to the father of this child who after prayer and speaking to a pastor,
 
@@ -2248,7 +2248,7 @@ Investigative Direction: Identify the classmate through the host's source and co
 
 Claim Timestamp: 00:59:33
 
-Claim: The host reads a viewer comment from Anna saying that at AmFest 2023 she talked with a woman through the PBD podcast for an hour and at the end the woman told her she was Charlie's wife, Erika, who made her feel welcome.
+Claim: The host reads a viewer comment from Anna saying that at AmFest 2023 she went alone to the PBD live podcast and stood talking to a woman for the whole hour of the show, and at the end the woman told her she was Charlie's wife, Erika, who made her feel welcome.
 
 Transcript Snippet: At the end of the conversation, she let me know uh that she she let me know she is Charlie's wife,
 
@@ -2357,7 +2357,7 @@ Investigative Direction: Check each author's biography and military service; no 
 
 Claim Timestamp: 01:07:02
 
-Claim: Responding to a viewer's recommendation of The 13th Tribe, the host says that Ashkenazi Jews' own books said they were Khazars, and that she has covered the topic extensively on her show.
+Claim: Responding to a viewer's recommendation of The 13th Tribe, the host says that Ashkenazi Jews' own books said they were Khazars, that she has covered the topic extensively on her show, and tells viewers to look up Abraham Poliak, who she says won awards for saying they were the Khazars.
 
 Transcript Snippet: and they said they were the Khazars. So, you know, I've covered that on my show extensively.
 

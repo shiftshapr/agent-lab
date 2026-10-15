@@ -71,7 +71,7 @@ Okay. there. Suddenly, a French company, the CEO who knows Emmanuel Macron, we'v
 
 [10:31]
 
-I think my suspicion is they knew that I was moving to interview Xavier Bousard which I then did as you can see on the timeline on December 21st. I interview Xavier Bousard in London. We did not release it. Right. We fast forward. we receive after he forwards it to our actual attorney and uh we receive the communication and it actually just makes me angry because I'm pregnant. Now we're in 20125 and I decide that actually I'm going to turn this down to an entire season because who are you French first man to tell us that we can't speak about the story which is incredibly interesting and on January 31st I release the first episode of Becoming Breit. Majit season 1 airs and obviously this show goes viral because it was a shocking story, an unbelievable story.
+I think my suspicion is they knew that I was moving to interview Xavier Bousard which I then did as you can see on the timeline on December 21st. I interview Xavier Bousard in London. We did not release it. Right. We fast forward. we receive after he forwards it to our actual attorney and uh we receive the communication and it actually just makes me angry because I'm pregnant. Now we're in 20125 and I decide that actually I'm going to turn this down to an entire season because who are you French first man to tell us that we can't speak about the story which is incredibly interesting and on January 31st I release the first episode of Becoming Brigitte. Majit season 1 airs and obviously this show goes viral because it was a shocking story, an unbelievable story.
 
 [11:24]
 

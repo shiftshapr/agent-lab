@@ -203,7 +203,7 @@
             "C-1751"
           ],
           "related_nodes": [
-            "N-269",
+            "N-267",
             "N-10265"
           ],
           "tags": [],
@@ -257,7 +257,7 @@
             "C-1753"
           ],
           "related_nodes": [
-            "N-270",
+            "N-268",
             "N-10267"
           ],
           "tags": [],
@@ -276,7 +276,7 @@
             "C-1754"
           ],
           "related_nodes": [
-            "N-270"
+            "N-268"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -302,8 +302,8 @@
             "C-1755"
           ],
           "related_nodes": [
-            "N-272",
-            "N-149"
+            "N-270",
+            "N-148"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -330,7 +330,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-271"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -348,7 +348,7 @@
             "C-1757"
           ],
           "related_nodes": [
-            "N-271",
+            "N-269",
             "N-10268"
           ],
           "tags": [],
@@ -563,8 +563,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-269",
-      "ref": "N-269",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Christopher Wray",
       "type": "person",
       "description": "FBI Director quoted in A-1440.1 press release regarding partnerships.",
@@ -582,8 +582,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Brian Harpole",
       "type": "person",
       "description": "TPUSA security figure whose statements on drones (A-1442.1) and bullet trajectory (A-1442.2) are presented.",
@@ -628,8 +628,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Tim Pool",
       "type": "person",
       "description": "Independent commentator; clips (A-1444.1, A-1444.2) regarding podcast narrative and AmFest exclusion.",
@@ -649,8 +649,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
@@ -668,8 +668,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-149",
-      "ref": "N-149",
+      "@id": "N-148",
+      "ref": "N-148",
       "name": "Theo Von",
       "type": "person",
       "description": "Guest on Joe Rogan Experience; clip (A-1443.1) discussing conspiracies and Macron.",
@@ -910,8 +910,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-226",
+      "ref": "N-226",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -1262,8 +1262,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "The host assumes he coordinated Charlie's plane and says he probably called Elizabeth McCoy.",
@@ -1318,8 +1318,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-190",
-      "ref": "N-190",
+      "@id": "N-188",
+      "ref": "N-188",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "Named in the host's list of known passengers as the chief finance person.",
@@ -1335,8 +1335,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-221",
-      "ref": "N-221",
+      "@id": "N-219",
+      "ref": "N-219",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Elizabeth McCoy, who the host says ran out of TPUSA headquarters when she heard the news.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-281",
-      "ref": "N-281",
+      "@id": "N-279",
+      "ref": "N-279",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian whose clip the host showed, which drew a copyright claim.",
@@ -1907,7 +1907,7 @@
       "claim_timestamp": "00:17:46–00:18:30",
       "investigative_direction": "Locate and review the FBI press release directly; verify quoted phrases and date.",
       "mentions_person_refs": [
-        "N-269"
+        "N-267"
       ]
     },
     {
@@ -1945,8 +1945,8 @@
       "claim_timestamp": "00:30:52–00:31:42",
       "investigative_direction": "Obtain the full Shawn Ryan / Brian Harpole interview clip and timestamp; confirm exact wording.",
       "mentions_person_refs": [
-        "N-270",
-        "N-228"
+        "N-268",
+        "N-226"
       ]
     },
     {
@@ -1963,8 +1963,8 @@
       "claim_timestamp": "00:33:46–00:36:45",
       "investigative_direction": "Obtain the full interview clip; confirm exact wording and timestamps.",
       "mentions_person_refs": [
-        "N-270",
-        "N-228"
+        "N-268",
+        "N-226"
       ]
     },
     {
@@ -1982,7 +1982,7 @@
       "investigative_direction": "Locate Tim Pool's original video and timestamp the quoted language.",
       "mentions_person_refs": [
         "N-2",
-        "N-271",
+        "N-269",
         "N-3",
         "N-1"
       ]
@@ -2003,7 +2003,7 @@
       "claim_timestamp": "00:44:03–00:44:52",
       "investigative_direction": "Locate Tim Pool's original video and confirm AmFest / Afest naming and exact quoted language.",
       "mentions_person_refs": [
-        "N-271"
+        "N-269"
       ]
     },
     {
@@ -2020,8 +2020,8 @@
       "claim_timestamp": "00:36:19–00:41:35",
       "investigative_direction": "Identify the specific Rogan episode by number and date; preserve timestamp of the cited segment.",
       "mentions_person_refs": [
-        "N-149",
-        "N-272"
+        "N-148",
+        "N-270"
       ]
     },
     {
@@ -2638,7 +2638,7 @@
         "C-1752"
       ],
       "mentions_person_refs": [
-        "N-269",
+        "N-267",
         "N-3"
       ]
     },
@@ -2665,7 +2665,7 @@
         "C-1752"
       ],
       "mentions_person_refs": [
-        "N-269",
+        "N-267",
         "N-3"
       ]
     },
@@ -3027,7 +3027,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -3099,8 +3099,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-190",
-        "N-221",
+        "N-188",
+        "N-219",
         "N-11",
         "N-2"
       ]
@@ -3124,8 +3124,8 @@
       "transcript_snippet": "Elizabeth McCoy screamed. She grabbed her phone. She ran out.",
       "mentions_person_refs": [
         "N-3",
-        "N-221",
-        "N-194"
+        "N-219",
+        "N-192"
       ]
     },
     {
@@ -3147,8 +3147,8 @@
       "transcript_snippet": "Mikey probably called her. That would make sense. And that's about 30 minutes away from the airport.",
       "mentions_person_refs": [
         "N-3",
-        "N-194",
-        "N-221"
+        "N-192",
+        "N-219"
       ]
     },
     {
@@ -3220,7 +3220,7 @@
         "C-1754"
       ],
       "mentions_person_refs": [
-        "N-270",
+        "N-268",
         "N-3"
       ]
     },
@@ -3320,7 +3320,7 @@
         "C-1753"
       ],
       "mentions_person_refs": [
-        "N-270",
+        "N-268",
         "N-7",
         "N-3"
       ]
@@ -3393,8 +3393,8 @@
       "investigative_direction": "Identify which lies the host attributes to the feds and who directed Harpole's interview appearance.",
       "transcript_snippet": "The reason they're sending you out to do it is because they don't want to be caught lying themselves.",
       "mentions_person_refs": [
-        "N-270",
-        "N-228",
+        "N-268",
+        "N-226",
         "N-3"
       ]
     },
@@ -3422,7 +3422,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-270",
+        "N-268",
         "N-1"
       ]
     },
@@ -3450,7 +3450,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-270",
+        "N-268",
         "N-1"
       ]
     },
@@ -3475,8 +3475,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-272",
-        "N-149"
+        "N-270",
+        "N-148"
       ]
     },
     {
@@ -3499,8 +3499,8 @@
       "transcript_snippet": "It's like the Jeffrey Epstein files. Like they're out there saying it would really compromise national security if we told you.",
       "mentions_person_refs": [
         "N-9",
-        "N-272",
-        "N-149"
+        "N-270",
+        "N-148"
       ]
     },
     {
@@ -3565,8 +3565,8 @@
       "investigative_direction": "Compare with the Macron complaint filed in Delaware and its claimed damages.",
       "transcript_snippet": "I think they're at least threatening a lawsuit. It's like for like 50 million bucks.",
       "mentions_person_refs": [
-        "N-272",
-        "N-149",
+        "N-270",
+        "N-148",
         "N-3",
         "N-82"
       ]
@@ -3590,8 +3590,8 @@
       "investigative_direction": "Public records on the Macrons' ages; the remark is comedic commentary.",
       "transcript_snippet": "Or when the he was like 40 and the kid was 15 >> or she was 40, even if it was a she.",
       "mentions_person_refs": [
-        "N-272",
-        "N-149"
+        "N-270",
+        "N-148"
       ]
     },
     {
@@ -3702,7 +3702,7 @@
         "C-1757"
       ],
       "mentions_person_refs": [
-        "N-271",
+        "N-269",
         "N-3"
       ]
     },
@@ -3977,7 +3977,7 @@
       "transcript_snippet": "A copyright claim for her sensational music. And so, we might have to trim out that sensational song from the Tim Dillon clip that we showed of him listening to it.",
       "mentions_person_refs": [
         "N-3",
-        "N-281"
+        "N-279"
       ]
     },
     {

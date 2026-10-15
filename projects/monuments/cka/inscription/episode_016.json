@@ -122,7 +122,7 @@
             "C-1390"
           ],
           "related_nodes": [
-            "N-160"
+            "N-159"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,7 +198,7 @@
             "C-1383"
           ],
           "related_nodes": [
-            "N-162"
+            "N-161"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -241,7 +241,7 @@
             "C-1384"
           ],
           "related_nodes": [
-            "N-156"
+            "N-155"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,7 +258,7 @@
             "C-1385"
           ],
           "related_nodes": [
-            "N-156"
+            "N-155"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -275,7 +275,7 @@
             "C-1386"
           ],
           "related_nodes": [
-            "N-156"
+            "N-155"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -300,7 +300,7 @@
             "C-1396"
           ],
           "related_nodes": [
-            "N-159",
+            "N-158",
             "N-60"
           ],
           "tags": [],
@@ -315,7 +315,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-1231",
       "family_ref": "A-1231",
-      "bundle_name": "John and Arena Mappin Public Letter (read on air)",
+      "bundle_name": "John and Irina Mappin Public Letter (read on air)",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -328,8 +328,8 @@
             "C-1395"
           ],
           "related_nodes": [
-            "N-157",
-            "N-158"
+            "N-156",
+            "N-157"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -346,8 +346,8 @@
             "C-1393"
           ],
           "related_nodes": [
-            "N-157",
-            "N-158"
+            "N-156",
+            "N-157"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -581,8 +581,8 @@
             "N-1",
             "N-3",
             "N-40",
-            "N-911",
-            "N-119",
+            "N-909",
+            "N-118",
             "N-10206",
             "N-11158"
           ],
@@ -610,7 +610,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-205",
+            "N-203",
             "N-10206"
           ],
           "tags": [],
@@ -671,7 +671,7 @@
           "related_nodes": [
             "N-3",
             "N-49",
-            "N-173",
+            "N-172",
             "N-10176"
           ],
           "tags": [],
@@ -780,8 +780,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-156",
-      "ref": "N-156",
+      "@id": "N-155",
+      "ref": "N-155",
       "name": "Robert J. O'Neill",
       "type": "person",
       "description": "Former Navy SEAL; Piers Morgan Show guest; questioned the visible wound type, shirt movement direction, and crime-scene teardown.",
@@ -803,8 +803,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-157",
-      "ref": "N-157",
+      "@id": "N-156",
+      "ref": "N-156",
       "name": "John Mappin",
       "type": "person",
       "description": "TPUSA donor; co-author of the public letter supporting Candace's investigation; identified by Candace as the donor who helped launch Turning Point UK.",
@@ -825,9 +825,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-158",
-      "ref": "N-158",
-      "name": "Arena Mappin",
+      "@id": "N-157",
+      "ref": "N-157",
+      "name": "Irina Mappin",
       "type": "person",
       "description": "TPUSA donor; co-author of the public letter supporting Candace's investigation. Name appears in the transcript under multiple spellings: \"Arena,\" \"Reena,\" \"Aarina.\"",
       "related_artifacts": [
@@ -866,8 +866,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-159",
-      "ref": "N-159",
+      "@id": "N-158",
+      "ref": "N-158",
       "name": "Conrad Flynn",
       "type": "person",
       "description": "Writer/producer; appeared on Tucker Carlson's show discussing Pontius Pilate's wife as prophetic dreamer.",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-160",
-      "ref": "N-160",
+      "@id": "N-159",
+      "ref": "N-159",
       "name": "The Quartering",
       "type": "person",
       "description": "YouTuber/commentator; publicly questioned what the released texts actually prove.",
@@ -923,8 +923,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Co-host of the Charlie Kirk Show; stated on air he is an eyewitness to events and has been advised not to comment publicly.",
@@ -1519,8 +1519,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-119",
-      "ref": "N-119",
+      "@id": "N-118",
+      "ref": "N-118",
       "name": "Elon Musk",
       "type": "person",
       "description": "Elon Musk; named by the host and by Forbes.",
@@ -1537,8 +1537,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-126",
-      "ref": "N-126",
+      "@id": "N-125",
+      "ref": "N-125",
       "name": "Mike Mitchell",
       "type": "person",
       "description": "Mike Mitchell; the detective whose tip the host says drove the raid.",
@@ -1554,8 +1554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-173",
-      "ref": "N-173",
+      "@id": "N-172",
+      "ref": "N-172",
       "name": "Tate Brothers (Andrew and Tristan)",
       "type": "person",
       "description": "Tate Brothers; Andrew Tate named as a recipient of the host's package.",
@@ -1571,8 +1571,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-203",
+      "ref": "N-203",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Nick Fuentes; author of posts the host reads.",
@@ -1592,8 +1592,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-208",
-      "ref": "N-208",
+      "@id": "N-206",
+      "ref": "N-206",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Piers Morgan; host of the show on which O'Neill appeared.",
@@ -1609,11 +1609,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-873",
-      "ref": "N-873",
-      "name": "Britta Widener",
+      "@id": "N-871",
+      "ref": "N-871",
+      "name": "Britta Weidner",
       "type": "person",
-      "description": "Britta Widener; author of posts the host reads.",
+      "description": "Britta Weidner; author of posts the host reads.",
       "related_artifacts": [],
       "related_claims": [
         "C-12071",
@@ -2278,8 +2278,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-911",
-      "ref": "N-911",
+      "@id": "N-909",
+      "ref": "N-909",
       "name": "Ashton Forbes",
       "type": "person",
       "description": "First named by the host at 00:07:45 in episode 16. Online commentator whose X post the host reads, saying she has no credibility, that Telegram group chat scams exist, and that she is building a cult.",
@@ -2385,7 +2385,7 @@
       "claim_timestamp": "00:16:13",
       "investigative_direction": "Identify the events Blake claims to have witnessed; determine the source of the legal advice restraining his commentary.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2403,7 +2403,7 @@
       "investigative_direction": "Obtain the full unedited Kirk video and a forensic pathologist review to determine wound entry/exit characteristics independently of O'Neill's lay assessment.",
       "mentions_person_refs": [
         "N-1",
-        "N-156"
+        "N-155"
       ]
     },
     {
@@ -2411,7 +2411,7 @@
       "@id": "C-1385",
       "ref": "C-1385",
       "label": "O'Neill questions right-to-left shirt movement",
-      "claim": "Robert J. O'Neill questioned why Kirk's shirt moved right to left if shot from a stated rooftop location, citing his own experience with people he had shot.",
+      "claim": "Robert J. O'Neill questioned why Kirk's shirt moved the way it did and why it moved right to left, saying the shirts of people he had shot did not move like that.",
       "anchored_artifacts": [
         "A-1229.2"
       ],
@@ -2421,7 +2421,7 @@
       "investigative_direction": "Obtain the full unedited video and forensic-physics reconstruction of the shirt movement to test whether the directionality is consistent with the stated shooter location.",
       "mentions_person_refs": [
         "N-1",
-        "N-156"
+        "N-155"
       ]
     },
     {
@@ -2429,7 +2429,7 @@
       "@id": "C-1386",
       "ref": "C-1386",
       "label": "O'Neill states crime scene was torn down and paved over",
-      "claim": "Robert J. O'Neill stated the crime scene was torn down and \"paved over\" rapidly, with nothing remaining to see.",
+      "claim": "Robert J. O'Neill asked whether the crime scene was torn down immediately, and said the whole crime scene is now gone, that they \"paved over it,\" with nothing to see.",
       "anchored_artifacts": [
         "A-1229.3"
       ],
@@ -2438,7 +2438,7 @@
       "claim_timestamp": "00:29:51",
       "investigative_direction": "Confirm with Utah court / Utah State Records the timeline of any paving work at the UVU Losee Center site and the responsible party.",
       "mentions_person_refs": [
-        "N-156"
+        "N-155"
       ]
     },
     {
@@ -2446,7 +2446,7 @@
       "@id": "C-1387",
       "ref": "C-1387",
       "label": "Britta publicly accused Candace of fabricating group-chat screenshots",
-      "claim": "A user identified as Britta publicly accused Candace Owens of posting fake group-chat screenshots to back her narrative.",
+      "claim": "A user identified as Britta publicly asked whether Candace Owens is posting fake group-chat screenshots to conveniently back up her narrative.",
       "anchored_artifacts": [
         "A-1227.1",
         "A-1227.2"
@@ -2456,7 +2456,8 @@
       "claim_timestamp": "00:08:09",
       "investigative_direction": "Cross-reference the Britta accusation against the Kolvet confirmation (C-1380) to determine whether Britta publicly retracted or updated her position.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-871"
       ]
     },
     {
@@ -2464,7 +2465,7 @@
       "@id": "C-1388",
       "ref": "C-1388",
       "label": "Laura Loomer dismissed Candace's reporting as postpartum psychotic rants",
-      "claim": "Laura Loomer publicly dismissed Candace Owens's text-messages reporting as \"postpartum psychotic rants\" and stated that even real texts would not implicate Israel.",
+      "claim": "Laura Loomer publicly dismissed Candace Owens's text-messages reporting as \"postpartum psychotic rants\" and stated that even if the texts are real, it does not mean Israel killed Charlie Kirk.",
       "anchored_artifacts": [
         "A-1227.4"
       ],
@@ -2491,6 +2492,7 @@
       "claim_timestamp": "00:11:11",
       "investigative_direction": "Determine the actual interval between Candace's receipt and release of the text chain.",
       "mentions_person_refs": [
+        "N-203",
         "N-3"
       ]
     },
@@ -2509,7 +2511,7 @@
       "investigative_direction": "Evaluate the substance of the \"what does it prove\" critique against the substantive content of the text chain (C-1382, N-14).",
       "mentions_person_refs": [
         "N-1",
-        "N-160"
+        "N-159"
       ]
     },
     {
@@ -2534,19 +2536,19 @@
       "@id": "C-1392",
       "ref": "C-1392",
       "label": "Mappins published public letter supporting Candace's investigation",
-      "claim": "TPUSA donors John and Arena Mappin published a public letter supporting Candace Owens's investigation into Kirk's death and stating Candace's actions are what Charlie himself would have taken.",
+      "claim": "TPUSA donors John and Irina Mappin published a public letter supporting Candace Owens's investigation into Kirk's death and stating Candace's actions are what Charlie himself would have taken.",
       "anchored_artifacts": [
         "A-1231.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:43:14",
+      "claim_timestamp": "00:44:40",
       "investigative_direction": "Obtain the original Mappin letter publication (URL / date) and any subsequent public reaction from TPUSA leadership.",
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-157",
-        "N-158"
+        "N-156",
+        "N-157"
       ]
     },
     {
@@ -2563,8 +2565,8 @@
       "claim_timestamp": "00:49:54",
       "investigative_direction": "Identify (with Mappin cooperation) any of the named senior Republican or TPUSA donor callers willing to go on record.",
       "mentions_person_refs": [
-        "N-157",
-        "N-158"
+        "N-156",
+        "N-157"
       ]
     },
     {
@@ -2578,11 +2580,11 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:48:30",
+      "claim_timestamp": "00:49:50",
       "investigative_direction": "Cross-reference polling or independent survey data on public belief about the official Kirk investigation narrative.",
       "mentions_person_refs": [
-        "N-157",
-        "N-158"
+        "N-156",
+        "N-157"
       ]
     },
     {
@@ -2590,15 +2592,18 @@
       "@id": "C-1395",
       "ref": "C-1395",
       "label": "Mappin letter: Mappins helped facilitate Turning Point UK",
-      "claim": "Candace identifies John Mappin as the TPUSA donor who helped her and Kirk set up Turning Point UK, identifying him as the donor who made the introductions that enabled the UK launch event where Candace first saw George (Zinn).",
+      "claim": "Candace says the donor, John Mappin (with his wife), made introductions that unlocked more donations for Kirk, and is the donor Kirk turned to when she said they needed to be in the UK; he could have an event set up to start Turning Point UK, which was where she first laid eyes on George (her husband).",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:44:38",
       "investigative_direction": "Verify through TPUSA / Turning Point UK records John Mappin's role in the UK launch.",
       "mentions_person_refs": [
-        "N-157",
-        "N-158"
+        "N-1",
+        "N-3",
+        "N-30",
+        "N-156",
+        "N-157"
       ]
     },
     {
@@ -2615,7 +2620,7 @@
       "claim_timestamp": "00:04:56",
       "investigative_direction": "Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case.",
       "mentions_person_refs": [
-        "N-159",
+        "N-158",
         "N-22"
       ]
     },
@@ -2757,7 +2762,7 @@
       "@id": "C-12061",
       "ref": "C-12061",
       "label": "Host Says Musk Gave X to the Military and Military Bot Farms Push War With Iran",
-      "claim": "The host says Elon Musk has clearly given X away to the military, and that users must now suffer military bot farms calling for war with Iran.",
+      "claim": "The host says she thinks Elon Musk clearly gave X away to the military, and that users now have to suffer military bot farms calling for war with Iran.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2767,7 +2772,7 @@
       "investigative_direction": "Look for X ownership or moderation disclosures and bot-network analyses showing military-linked accounts; the host offers no evidence on air.",
       "transcript_snippet": "I think Elon Musk clearly gave it away to the military and we now have to suffer these military bot farms calling for war with Iran.",
       "mentions_person_refs": [
-        "N-119",
+        "N-118",
         "N-3"
       ]
     },
@@ -2908,9 +2913,9 @@
       "investigative_direction": "Pull the original Forbes post and its timestamp; check whether he later acknowledged the texts were authenticated by Andrew Kolvet.",
       "transcript_snippet": "First off, Candace has no credibility. Second, there's a bunch of Telegram group chat scams that claim to be real people.",
       "mentions_person_refs": [
-        "N-911",
+        "N-909",
         "N-3",
-        "N-119"
+        "N-118"
       ]
     },
     {
@@ -2932,7 +2937,7 @@
       "investigative_direction": "Pull the original post; compare with Andrew Kolvet's statement (C-1380 and C-1382) that the chain fits Kirk's known frustrations about Israel.",
       "transcript_snippet": "Lastly, even if the text messages were real, they mean literally nothing related to Charlie's death.",
       "mentions_person_refs": [
-        "N-911",
+        "N-909",
         "N-1",
         "N-40"
       ]
@@ -2956,7 +2961,7 @@
       "investigative_direction": "Pull the original post and any replies; this is an opinion attributed to Forbes and is recorded only as said.",
       "transcript_snippet": "I find it scary how Candace is building a literal cult. Soon they'll be drinking Kool-Aid in sync",
       "mentions_person_refs": [
-        "N-911",
+        "N-909",
         "N-3"
       ]
     },
@@ -2965,7 +2970,7 @@
       "@id": "C-12071",
       "ref": "C-12071",
       "label": "Host Says Britta Used to Work for Seth Dillon",
-      "claim": "The host says that Britta, who she says posted that Candace was using fake group chat screenshots, used to work for Seth Dillon.",
+      "claim": "The host says that Britta, who she says posted asking whether Candace was posting fake group chat screenshots, used to work for Seth Dillon.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2975,7 +2980,7 @@
       "investigative_direction": "Check Britta's public employment history with Seth Dillon's company; the host says it only as context for her posts.",
       "transcript_snippet": "She wrote and by the way she used to work for Seth Dillon.",
       "mentions_person_refs": [
-        "N-873",
+        "N-871",
         "N-38"
       ]
     },
@@ -2990,7 +2995,7 @@
         "N-10628"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:09:30",
       "investigative_direction": "Look for court records of any firearm prohibition or involuntary hold concerning Loomer; the host cites none on air.",
@@ -3058,7 +3063,7 @@
       "investigative_direction": "Pull the original post; the host denies the characterization and says the word simply means a bombardment.",
       "transcript_snippet": "Candace thinks it's cute to use Nazi terminology and make a turning point pun while she incites further harassment of TPUSA employees by implicating them in Charlie's death.",
       "mentions_person_refs": [
-        "N-873",
+        "N-871",
         "N-3"
       ]
     },
@@ -3120,7 +3125,7 @@
       "investigative_direction": "The host gives no evidence; look for any court or FOIA record or named source on the allegation, and treat it as unproven.",
       "transcript_snippet": "Nick Fuentes, our uh uh routine federal informant wrote writes this",
       "mentions_person_refs": [
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -3142,7 +3147,7 @@
       "investigative_direction": "Obtain the uncensored chain from the host or from Kolvet's shared screen grab to see who was in it; compare with C-1377 (Josh Hammer named).",
       "transcript_snippet": "why did she sit on this for four weeks and then censor the other names?",
       "mentions_person_refs": [
-        "N-205",
+        "N-203",
         "N-3"
       ]
     },
@@ -3168,7 +3173,7 @@
         "C-1375"
       ],
       "mentions_person_refs": [
-        "N-205",
+        "N-203",
         "N-1"
       ]
     },
@@ -3176,8 +3181,8 @@
       "@type": "Claim",
       "@id": "C-12081",
       "ref": "C-12081",
-      "label": "Host Says Fuentes Is Paid to Shill",
-      "claim": "The host says she took none of Fuentes's attempt to eulogize Kirk seriously because, she alleges, he is paid to shill.",
+      "label": "Host Says She Did Not Take Fuentes's Eulogy of Kirk Seriously",
+      "claim": "The host says that, speaking of paying people to shill, she took none of Fuentes's attempt to eulogize Kirk seriously because that is \"the real Nick Fuentes\".",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3187,7 +3192,7 @@
       "investigative_direction": "The host offers no evidence of payment; find any named funder or disclosure, otherwise treat as characterization.",
       "transcript_snippet": "Speaking of paying people to shill, it's why I didn't take one minute or one sentence rather of him uh trying to uligize Charlie Kirk seriously",
       "mentions_person_refs": [
-        "N-205",
+        "N-203",
         "N-1",
         "N-3"
       ]
@@ -3234,8 +3239,7 @@
         "C-1380"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-55"
+        "N-3"
       ]
     },
     {
@@ -3304,8 +3308,7 @@
       "investigative_direction": "Compare with flight and itinerary records for Kolvet on September 10 and 11, 2025 and with his later tarmac account.",
       "transcript_snippet": "I wasn't an eyewitness. I was not there. I flew to Utah immediately uh to be with the family and the team, but I was not an eyewitness.",
       "mentions_person_refs": [
-        "N-14",
-        "N-162"
+        "N-14"
       ]
     },
     {
@@ -3372,7 +3375,7 @@
       "transcript_snippet": "Blake, you were in the trenches on a lot of this stuff because we were workshopping how we were going to do the tour",
       "mentions_person_refs": [
         "N-14",
-        "N-162",
+        "N-161",
         "N-1"
       ]
     },
@@ -3505,8 +3508,7 @@
       "investigative_direction": "Establish the date the host received the chain; the host has not published it on air. Compare with Fuentes's four-week question (C-1389).",
       "transcript_snippet": "the reason that I waited to reveal the text messages is because I'm not a child. Okay? Like I said, I have a lot more.",
       "mentions_person_refs": [
-        "N-3",
-        "N-205"
+        "N-3"
       ]
     },
     {
@@ -3732,7 +3734,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-49",
-        "N-173"
+        "N-172"
       ]
     },
     {
@@ -3752,9 +3754,9 @@
       "investigative_direction": "Obtain the autopsy or surgeon account of the time of death and the hospital records; O'Neill's remark is a lay reading of the video.",
       "transcript_snippet": "he was obviously dead before he hit the ground.",
       "mentions_person_refs": [
-        "N-156",
+        "N-155",
         "N-1",
-        "N-208"
+        "N-206"
       ]
     },
     {
@@ -3776,7 +3778,7 @@
       "investigative_direction": "Compare with TPUSA and Kolvet accounts of whether Kirk wore a vest; compare with the host's claim that he did not (C-9291).",
       "transcript_snippet": "he wasn't wearing body armor. And two, it doesn't deflect like that off of body armor.",
       "mentions_person_refs": [
-        "N-156",
+        "N-155",
         "N-1"
       ]
     },
@@ -3799,7 +3801,7 @@
       "investigative_direction": "Identify the interviewed witnesses and the outlets that dropped their accounts; compare with the shirt-movement claim (C-1385).",
       "transcript_snippet": "people being interviewed saying, \"Yeah, they came from my left to right, from his right to left, immediately shut down.\"",
       "mentions_person_refs": [
-        "N-156",
+        "N-155",
         "N-1"
       ]
     },
@@ -3808,7 +3810,7 @@
       "@id": "C-12109",
       "ref": "C-12109",
       "label": "O'Neill Said 22-Year-Olds Do Not Send Their Lovers Soliloquies of Texts",
-      "claim": "In a clip the host plays of Piers Morgan's show, former Navy SEAL Robert J. O'Neill refers to the soliloquy of text messages that 22-year-olds do not send their transgender lover as another reason the official story needs investigating.",
+      "claim": "In a clip the host plays of Piers Morgan's show, former Navy SEAL Robert J. O'Neill says he is \"not even getting into\" the soliloquy of text messages that 22-year-olds do not send their transgender lover.",
       "anchored_artifacts": [
         "A-1229.2"
       ],
@@ -3825,7 +3827,7 @@
         "C-1175"
       ],
       "mentions_person_refs": [
-        "N-156",
+        "N-155",
         "N-40"
       ]
     },
@@ -4134,7 +4136,7 @@
       "investigative_direction": "Compare with episode 11 accounts of a retired detective's call and with the warrant affidavit and its timeline.",
       "transcript_snippet": "They were going off of Mike, the mysterious detective Mike Mitchell's tip. They had no confession.",
       "mentions_person_refs": [
-        "N-126",
+        "N-125",
         "N-40"
       ]
     },
@@ -4165,7 +4167,7 @@
       "@id": "C-12125",
       "ref": "C-12125",
       "label": "Host Says Lance Has Been in an Unknown Location Since the Raid",
-      "claim": "The host says Lance Twiggs has been in an unknown location since the raid, that she would imagine he was in witness protection for a bit, and that he has not contacted his family.",
+      "claim": "The host says it seems Lance Twiggs has been in an unknown location since the raid, that she would imagine he was in witness protection for a bit, and that he does not seem to be speaking to his family.",
       "anchored_artifacts": [
         "A-1235.3"
       ],
@@ -4310,8 +4312,7 @@
       "investigative_direction": "Identify the donors introduced by Mappin and any TPUSA donor records; ask Mappin through the host.",
       "transcript_snippet": "a donor that actually then unlocked a whole another level of donations for Charlie Kirk through introductions that he made for Charlie",
       "mentions_person_refs": [
-        "N-157",
-        "N-158",
+        "N-156",
         "N-1"
       ]
     },
@@ -4334,7 +4335,7 @@
       "transcript_snippet": "And that event was when I first laid eyes on George. Not when I spoke to him, but when I actually first laid eyes on him.",
       "mentions_person_refs": [
         "N-30",
-        "N-157",
+        "N-156",
         "N-3"
       ]
     },
@@ -4353,7 +4354,7 @@
       "investigative_direction": "Track later statements by named TPUSA donors; the host offers no names.",
       "transcript_snippet": "I think he will be the first of many donors that might make a public statement.",
       "mentions_person_refs": [
-        "N-157",
+        "N-156",
         "N-3"
       ]
     },
@@ -4376,8 +4377,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-4",
-        "N-157",
-        "N-158"
+        "N-156",
+        "N-157"
       ]
     },
     {
@@ -4402,8 +4403,8 @@
         "C-1386"
       ],
       "mentions_person_refs": [
-        "N-157",
-        "N-158"
+        "N-156",
+        "N-157"
       ]
     },
     {
@@ -4423,8 +4424,8 @@
       "investigative_direction": "Check whether any authority responded to or acknowledged the letter.",
       "transcript_snippet": "the official investigation should be immediately ordered by the appropriate legal authority to proactively share everything they know with Candace and her selected team.",
       "mentions_person_refs": [
+        "N-156",
         "N-157",
-        "N-158",
         "N-3"
       ]
     },
@@ -4445,8 +4446,8 @@
       "investigative_direction": "Compare with statements by other Kirk friends, such as those reported in episodes 12 to 15.",
       "transcript_snippet": "hers has so far been one of the only public voices from Charlie's closest friends questioning the absurdity of some of the communications",
       "mentions_person_refs": [
+        "N-156",
         "N-157",
-        "N-158",
         "N-3",
         "N-1"
       ]
@@ -4479,7 +4480,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:54:25",
       "investigative_direction": "Identify who made the 2015 claim; compare with the host's dated texts with Kirk (C-1222) and the Mappin letter's description of their friendship.",
@@ -4494,7 +4495,7 @@
       "@id": "C-12140",
       "ref": "C-12140",
       "label": "Host Says She Has the Names of the Security Team, Including People Not Yet Identified",
-      "claim": "In answer to a viewer asking about Kirk's security team, the host says she has everybody's names, including the people the investigation could not identify.",
+      "claim": "In answer to a viewer asking about Kirk's security team, the host says she has everybody's names, including the people that 'we' couldn't identify.",
       "anchored_artifacts": [
         "A-3186.1"
       ],
@@ -4585,7 +4586,7 @@
       "@type": "Claim",
       "@id": "C-12144",
       "ref": "C-12144",
-      "label": "Host Urges Viewers to Join the CIA, the Decentralized Network, Which She Calls More of a Threat",
+      "label": "Host Thanks Viewers Who Joined 'Our CIA, the Decentralized,' Which She Calls More of a Threat",
       "claim": "The host thanks viewers who signed up on her site, bought merchandise or joined 'our CIA, the decentralized,' and says a decentralized network is a bigger threat because it cannot be whacked the way a centralized one can.",
       "anchored_artifacts": [
         "A-3187.1"
@@ -4782,7 +4783,7 @@
         {
           "episode": 16,
           "video_timestamp": "00:08:55",
-          "speaker_node_ref": "N-873",
+          "speaker_node_ref": "N-871",
           "quote": "I'm just asking questions.",
           "context": "Host reads Britta's post and mocks the phrase; the quoted phrase is Britta's.",
           "confidence": "medium",

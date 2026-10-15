@@ -189,7 +189,7 @@ Andrew, according to his story, does not have anything to do until 3:19 p. m. So
 
 [32:40]
 
-So, were they to run any sort of ground operations, they'd likely uh hand those out to their guys. And this may be nothing, but while we're just speculating, Blake Neff sure did have an interesting way of describing his phone call with his mom after the shot rang out. Remember, he was defending Mikey McCoy and talks about how he ran. And uh after he ran, he called his mom. Listen to the words he uses at the end here. Take a listen. >> I remember he calls Erika. I around the same time, I pull out my phone and I call my mom just to say, "Hey, Mom, there's been a shooting. You're going to see it on the news. I'm okay. You know, pray for me. I've got to go." And I remember that call. And around the time I I put that phone away, and then he immediately calls his dad. He calls Robin McCoy.
+So, were they to run any sort of ground operations, they'd likely uh hand those out to their guys. And this may be nothing, but while we're just speculating, Blake Neff sure did have an interesting way of describing his phone call with his mom after the shot rang out. Remember, he was defending Mikey McCoy and talks about how he ran. And uh after he ran, he called his mom. Listen to the words he uses at the end here. Take a listen. >> I remember he calls Erika. I around the same time, I pull out my phone and I call my mom just to say, "Hey, Mom, there's been a shooting. You're going to see it on the news. I'm okay. You know, pray for me. I've got to go." And I remember that call. And around the time I I put that phone away, and then he immediately calls his dad. He calls Rob McCoy.
 
 [33:30]
 

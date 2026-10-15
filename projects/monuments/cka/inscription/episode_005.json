@@ -236,7 +236,7 @@
           "tags": [],
           "event_timestamp": "2025-09 (post-assassination)",
           "video_timestamp": "00:38:26–00:39:26",
-          "transcript_snippet": "Blackman published these private text messages… missing from these messages are like a date, a context.",
+          "transcript_snippet": "Ackman published these private text messages… missing from these messages are like a date, a context.",
           "confidence": "medium"
         }
       ]
@@ -322,13 +322,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2517",
       "family_ref": "A-2517",
-      "bundle_name": "Harley Pastnic Genealogy Reference Bundle",
+      "bundle_name": "Harley Pasternak Genealogy Reference Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2517.1",
           "ref": "A-2517.1",
-          "description": "Host genealogy reference to Harley Pastnic's family business in piping and valves (verbal reference; no displayed artifact)",
+          "description": "Host genealogy reference to Harley Pasternak's family business in piping and valves (verbal reference; no displayed artifact)",
           "related_claims": [
             "C-3726"
           ],
@@ -337,7 +337,7 @@
           ],
           "tags": [],
           "video_timestamp": "00:15:56–00:16:21",
-          "transcript_snippet": "when I was looking into Harley Pastnic, that's exactly what his family did. They were in piping and valves.",
+          "transcript_snippet": "when I was looking into Harley Pasternak, that's exactly what his family did. They were in piping and valves.",
           "confidence": "medium"
         }
       ]
@@ -714,7 +714,7 @@
       "@type": "Person",
       "@id": "N-80",
       "ref": "N-80",
-      "name": "Harley Pastnic",
+      "name": "Harley Pasternak",
       "type": "person",
       "description": "Canadian subject of prior Owens research whose family is in the piping/valve business – cited as a pattern match.",
       "related_artifacts": [
@@ -1917,7 +1917,7 @@
       "@id": "C-1189",
       "ref": "C-1189",
       "label": "Host Says TMZ Aired Doorbell-Cam Footage on September 10",
-      "claim": "The host says TMZ was the first, on September 10, 2025, to air doorbell-camera footage of a person on a residential street near UVU, which she attributes to Irwin Steel's home.",
+      "claim": "The host says TMZ was the first, on September 10th, to show doorbell-camera footage, which she thinks was marked 8:07 a.m., though she says she does not know exactly when TMZ released it and feels it was in the morning.",
       "anchored_artifacts": [
         "A-1112.1",
         "A-1112.2"
@@ -1931,12 +1931,7 @@
       "claim_timestamp": "00:11:02",
       "investigative_direction": "Verify TMZ publication timestamp; trace the footage upload chain back to either the homeowner or a federal intermediary.",
       "transcript_snippet": "TMZ is the first on September 10th. That tells us that there is doorbell cam footage.",
-      "confidence": "high",
-      "mentions_person_refs": [
-        "N-73",
-        "N-78",
-        "N-79"
-      ]
+      "confidence": "high"
     },
     {
       "@type": "Claim",
@@ -2006,7 +2001,6 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-36",
-        "N-81",
         "N-1"
       ]
     },
@@ -2014,7 +2008,7 @@
       "@type": "Claim",
       "@id": "C-1193",
       "ref": "C-1193",
-      "label": "Bowling said Owens no longer speaks at TPUSA events",
+      "label": "Bolling Said Owens No Longer Speaks at TPUSA Events",
       "claim": "Eric Bolling stated on PBD Podcast that Candace Owens had not attended or spoken at Turning Point USA events in years and described her separation from Kirk as a quiet breakup.",
       "anchored_artifacts": [
         "A-1116.1"
@@ -2043,7 +2037,7 @@
       "@id": "C-1194",
       "ref": "C-1194",
       "label": "Bill Ackman published Kirk text messages",
-      "claim": "Bill Ackman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a Hamptons retreat; host notes the messages lack dates and context and do not address her specific assertions.",
+      "claim": "The host says Bill Ackman shared private text messages with Charlie Kirk to dispel the idea that anything happened in the Hamptons, and that the messages lack a date and context and do not dispel anything she has asserted.",
       "anchored_artifacts": [
         "A-1117.1"
       ],
@@ -2056,7 +2050,7 @@
       ],
       "claim_timestamp": "00:38:26",
       "investigative_direction": "Obtain the full unedited text exchange and metadata from Aman's publication; cross-check against Hamptons attendee statements.",
-      "transcript_snippet": "Blackman published these private text messages… missing from these messages are like a date, a context.",
+      "transcript_snippet": "Ackman published these private text messages… missing from these messages are like a date, a context.",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-3",
@@ -2069,7 +2063,7 @@
       "@id": "C-3771",
       "ref": "C-3771",
       "label": "Bill Ackman is the person C-1194 calls 'Bill Ackman' (revises C-1194)",
-      "claim": "C-1194 spells the name 'Bill Ackman' (auto-caption form; the transcript at this beat reads 'Blackman'). The person is Bill Ackman (N-37). Bill Ackman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a Hamptons retreat; the host notes the messages lack dates and context.",
+      "claim": "C-1194 spells the name 'Bill Ackman'; the auto-caption transcript at this beat reads 'Ackman'. The person is Bill Ackman (N-37). Bill Ackman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a trip to the Hamptons; the host notes the messages lack dates and context.",
       "anchored_artifacts": [
         "A-1117.1"
       ],
@@ -2080,7 +2074,7 @@
       "tags": [],
       "claim_timestamp": "00:38:26",
       "investigative_direction": "Read with C-1194; obtain the text exchange as published by Bill Ackman.",
-      "transcript_snippet": "But anyways, Blackman published these private text messages",
+      "transcript_snippet": "But anyways, Ackman published these private text messages",
       "confidence": "medium",
       "revises_claim_refs": [
         "C-1194"
@@ -2121,7 +2115,7 @@
       "@id": "C-1196",
       "ref": "C-1196",
       "label": "Utah artist released 'Charlie Kirk Dead at 31' song early",
-      "claim": "A Utah-based artist posted a song titled 'Charlie Kirk Dead at 31' before Tyler Robinson was publicly identified, drawing speculation about pre-knowledge.",
+      "claim": "The host says some artist from Utah posted a song called something like 'Charlie Kirk Dead at 31', and that right when people started saying this guy looks like the person in the photo, the feds said they had Tyler Robinson.",
       "anchored_artifacts": [
         "A-1119.1"
       ],
@@ -2143,7 +2137,7 @@
       "@id": "C-1197",
       "ref": "C-1197",
       "label": "Local claim: gun found near chicken coop, not 'woods'",
-      "claim": "A local source told the host that the rifle was recovered by a chicken coop in a suburban backyard, not in a wooded area as federal accounts suggest.",
+      "claim": "A local source told the host that the rifle was found in the backyard of someone she knows, by a chicken coop, and that although you could describe it as a wooded area, it is pretty suburban, whereas federal accounts say 'in the woods'.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
@@ -2204,7 +2198,7 @@
       "@id": "C-1200",
       "ref": "C-1200",
       "label": "Owens toured with TPUSA the previous year",
-      "claim": "Candace Owens states that she went on tour with Turning Point USA on college campuses the previous year, contradicting Bowling's claim that she has not spoken at TPUSA events.",
+      "claim": "Candace Owens states that she went on tour with Turning Point USA on college campuses the previous year, contradicting Bolling's claim that she has not spoken at TPUSA events.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2218,7 +2212,8 @@
         "C-1193"
       ],
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-72"
       ]
     },
     {
@@ -2226,7 +2221,7 @@
       "@id": "C-1201",
       "ref": "C-1201",
       "label": "Owens was not invited to speak at Kirk memorial",
-      "claim": "Candace Owens states she was not invited to speak at the Kirk memorial event held in Arizona, and that the event was effectively an open memorial.",
+      "claim": "The host says, sarcastically, that she was not invited to speak alongside President Trump and JD Vance on the stage with Tucker Carlson at a memorial event, and that this has to do with nothing.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10057"
@@ -2237,8 +2232,9 @@
       "transcript_snippet": "I was not invited to speak alongside President Trump and JD Vance on the stage.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-2",
-        "N-3"
+        "N-3",
+        "N-5",
+        "N-22"
       ]
     },
     {
@@ -2266,7 +2262,7 @@
       "@id": "C-1203",
       "ref": "C-1203",
       "label": "Host Says Steele Family Owns the Doorbell-Camera House",
-      "claim": "The host says property records show that the house whose footage appeared on TMZ is owned by Samuel Steele and his wife Carrie, not by Irwin Steel, though Irwin says he lives there.",
+      "claim": "The host says her team found that Samuel Steele and his wife Carrie own the house that gave the footage that appeared on TMZ, not Irwin Steel, though Irwin says he lives in that house.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10050",
@@ -2288,7 +2284,7 @@
       "@type": "Claim",
       "@id": "C-1204",
       "ref": "C-1204",
-      "label": "Bowling described 'quiet breakup' between Kirk and Owens",
+      "label": "Bolling Described 'Quiet Breakup' Between Kirk and Owens",
       "claim": "Eric Bolling on PBD Podcast stated that Candace Owens would have been 'the logical heir to the TPUSA throne' absent a 'very quiet breakup where she got too rabbit hole for him'.",
       "anchored_artifacts": [
         "A-1116.1"
@@ -2306,9 +2302,8 @@
         "C-1200"
       ],
       "mentions_person_refs": [
+        "N-1",
         "N-3",
-        "N-14",
-        "N-22",
         "N-72"
       ]
     },
@@ -2317,7 +2312,7 @@
       "@id": "C-3635",
       "ref": "C-3635",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host states that the CIA stands for the Candace Intelligence Agency and that the show considers itself the 'decentralized intelligent agency' because it gets tips from viewers.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2333,7 +2328,7 @@
       "@type": "Claim",
       "@id": "C-3636",
       "ref": "C-3636",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "CIA Merch Framed as Candace / Decentralized Intelligence Agency Brand",
       "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
       "anchored_artifacts": [
         "A-2482.1"
@@ -2352,16 +2347,16 @@
       "@type": "Claim",
       "@id": "C-3726",
       "ref": "C-3726",
-      "label": "Host notes Harley Pastnic family was in piping and valves",
-      "claim": "The host says several people she looked into have families that manufacture valves, and that when she looked into Harley Pastnic, his family was in piping and valves.",
+      "label": "Host notes Harley Pasternak family was in piping and valves",
+      "claim": "The host says several people she looked into have families that manufacture valves, and that when she looked into Harley Pasternak, his family was in piping and valves.",
       "anchored_artifacts": [
         "A-2517.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:08",
-      "investigative_direction": "Check whether the valve business the host refers to connects to Harley Pastnic's family.",
-      "transcript_snippet": "when I was looking into Harley Pastnic, that's exactly what his family did. They were in piping and valves.",
+      "investigative_direction": "Check whether the valve business the host refers to connects to Harley Pasternak's family.",
+      "transcript_snippet": "when I was looking into Harley Pasternak, that's exactly what his family did. They were in piping and valves.",
       "confidence": "medium",
       "mentions_person_refs": [
         "N-80"
@@ -2733,10 +2728,7 @@
       ],
       "claim_timestamp": "00:14:12",
       "investigative_direction": "Locate the camera position and mounting height at the house and compare it with the TMZ frame.",
-      "transcript_snippet": "immediately actually I was wondering why were we ever told that it was doorbell cam footage.",
-      "mentions_person_refs": [
-        "N-73"
-      ]
+      "transcript_snippet": "immediately actually I was wondering why were we ever told that it was doorbell cam footage."
     },
     {
       "@type": "Claim",
@@ -2881,7 +2873,7 @@
       "@id": "C-11938",
       "ref": "C-11938",
       "label": "Host Says Feds Place the Surrender at 9 p.m. but Other Sources Say Closer to 7 p.m.",
-      "claim": "The host says the federal 33-hour mark would put Robinson's surrender at about 9:00 p.m., but other sources told her it was closer to 7:00 p.m., which she says does not fit an evening dog walk.",
+      "claim": "The host says the federal 33-hour mark would put Robinson's surrender at about 9:00 p.m., but other sources told her it was closer to 7:00 p.m.; she says a 9:00 p.m. time would not be described as an evening dog walk.",
       "anchored_artifacts": [
         "A-1113.1"
       ],
@@ -3116,8 +3108,7 @@
       "investigative_direction": "Compare the wording of the articles for shared phrasing and trace any common source; the coordination claim is an inference.",
       "transcript_snippet": "I they are all paring the same talking points. They're clearly collaborating. I can tell you it's a Zionist attack.",
       "mentions_person_refs": [
-        "N-3",
-        "N-36"
+        "N-3"
       ]
     },
     {
@@ -3137,8 +3128,7 @@
       "investigative_direction": "This is a sweeping group claim with no specific ownership data given; ownership records would be needed to test any named outlet.",
       "transcript_snippet": "That Zionists control a lot of publications in America. That is just a reality.",
       "mentions_person_refs": [
-        "N-3",
-        "N-36"
+        "N-3"
       ]
     },
     {
@@ -3562,8 +3552,7 @@
         "C-10677"
       ],
       "mentions_person_refs": [
-        "N-1",
-        "N-37"
+        "N-1"
       ]
     },
     {
@@ -3720,7 +3709,7 @@
       "@id": "C-11973",
       "ref": "C-11973",
       "label": "Host Says Zionists Began Circling Kirk to Control Things Around the Previous September",
-      "claim": "The host says that the Zionists started circling Charlie Kirk and trying to control things around the previous September.",
+      "claim": "The host says that the Zionists started circling Charlie Kirk and trying to control things around September.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10025",
@@ -3827,7 +3816,7 @@
       "@id": "C-11978",
       "ref": "C-11978",
       "label": "Host Says the Pressure Extended to Tucker Carlson After His AmFest Appearance",
-      "claim": "The host says the pressure then extended beyond her to Tucker Carlson because Tucker went to AmFest (transcribed Amfest), and that donors said that could not happen again either.",
+      "claim": "The host says the pressure then extended beyond her to Tucker Carlson because Tucker went to AmFest (transcribed Amfest), and that 'they' said that could not happen again either.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10268",
@@ -3948,7 +3937,7 @@
       "@id": "C-11983",
       "ref": "C-11983",
       "label": "Host Says They Wanted to Take Over Turning Point and Turn It Into Another Outfit",
-      "claim": "The host says it was as if they wanted to take over the company Kirk built and turn it into just another outfit of the Mossad (transcribed MSAD), and that donors were spending money in ways she questions.",
+      "claim": "The host says it was almost like they wanted to take over the company Kirk built and turn it into just another outfit of the Mossad (transcribed MSAD), and that they were \"spiking the ball\" where they were spending the money.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -4096,7 +4085,7 @@
         "N-10270"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:45:48",
       "investigative_direction": "Review the Delaware court docket for any scientific evidence filed and read the lawyer's statement as reported.",
@@ -4117,7 +4106,7 @@
         "N-10270"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:45:56",
       "investigative_direction": "Check the docket for filings and the procedural stage of the case.",
@@ -4138,7 +4127,7 @@
         "N-10270"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:46:16",
       "investigative_direction": "Read the complaint's causes of action and statements of claim as filed.",
@@ -4200,7 +4189,7 @@
         "N-10134"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:51:59",
       "investigative_direction": "Identify the attendee and compare against any recording or notes of the retreat.",

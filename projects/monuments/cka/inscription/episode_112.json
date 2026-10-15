@@ -30,7 +30,7 @@
             "C-4385"
           ],
           "related_nodes": [
-            "N-665"
+            "N-663"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -47,7 +47,7 @@
             "C-4388"
           ],
           "related_nodes": [
-            "N-665",
+            "N-663",
             "N-2",
             "N-10008"
           ],
@@ -185,7 +185,7 @@
           ],
           "related_nodes": [
             "N-10888",
-            "N-599"
+            "N-597"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -202,10 +202,10 @@
             "C-4410"
           ],
           "related_nodes": [
-            "N-439",
-            "N-633",
-            "N-629",
-            "N-634",
+            "N-437",
+            "N-631",
+            "N-627",
+            "N-632",
             "N-10888"
           ],
           "tags": [],
@@ -233,9 +233,9 @@
             "C-4416"
           ],
           "related_nodes": [
-            "N-667",
-            "N-670",
-            "N-182",
+            "N-665",
+            "N-668",
+            "N-180",
             "N-10955"
           ],
           "tags": [],
@@ -266,8 +266,8 @@
             "C-4424"
           ],
           "related_nodes": [
-            "N-182",
-            "N-672",
+            "N-180",
+            "N-670",
             "N-10955",
             "N-10958",
             "N-10959"
@@ -295,7 +295,7 @@
             "C-4425"
           ],
           "related_nodes": [
-            "N-281",
+            "N-279",
             "N-5"
           ],
           "tags": [],
@@ -326,8 +326,8 @@
           ],
           "related_nodes": [
             "N-10960",
-            "N-551",
-            "N-673",
+            "N-549",
+            "N-671",
             "N-2",
             "N-3"
           ],
@@ -549,8 +549,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Transcript spelling \"Blake Neff\". The host says he does not work for Turning Point USA.",
@@ -566,8 +566,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-182",
-      "ref": "N-182",
+      "@id": "N-180",
+      "ref": "N-180",
       "name": "Jared Kushner",
       "type": "person",
       "description": "Husband of Ivanka Trump; his firm Affinity Partners leads the Albanian resort project.",
@@ -588,8 +588,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Joe Kent",
       "type": "person",
       "description": "The host says Erika Kirk directed attacks on him for wanting to examine a foreign connection.",
@@ -605,8 +605,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-281",
-      "ref": "N-281",
+      "@id": "N-279",
+      "ref": "N-279",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Transcript spelling \"Tim Dillon\". Comedian whose clip on the Trump family is played.",
@@ -624,8 +624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-282",
-      "ref": "N-282",
+      "@id": "N-280",
+      "ref": "N-280",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Transcript spelling \"Bari Weiss\". Named by the host as being installed to control mainstream media.",
@@ -641,8 +641,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-439",
-      "ref": "N-439",
+      "@id": "N-437",
+      "ref": "N-437",
       "name": "Bradley Hansell",
       "type": "person",
       "description": "Transcript spelling \"Bradley Hansel\". Named in the host's narrowed FOIA request as a Department of War recipient.",
@@ -660,8 +660,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-456",
-      "ref": "N-456",
+      "@id": "N-454",
+      "ref": "N-454",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Transcript spelling \"Greg Laurie\". The host says he is accused in court of trafficking people from Romania.",
@@ -677,8 +677,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-551",
-      "ref": "N-551",
+      "@id": "N-549",
+      "ref": "N-549",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Described by the host as Erika Kirk's best friend; quoted in the US Weekly story as saying Charlie Kirk was scared of the host.",
@@ -696,8 +696,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-587",
-      "ref": "N-587",
+      "@id": "N-585",
+      "ref": "N-585",
       "name": "Thomas Massie",
       "type": "person",
       "description": "The host says AIPAC effectively ousted him.",
@@ -713,8 +713,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Transcript spelling \"Pete Hegsath\". Named as head of the Department of War, to which the host's FOIA request was redirected.",
@@ -732,8 +732,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-665",
-      "ref": "N-665",
+      "@id": "N-663",
+      "ref": "N-663",
       "name": "Dana Loesch",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 112. Transcript spelling \"Dana Lash\". Gave the \"widow\" scripture speech at the Young Women's Leadership Summit and later confirmed on her show that Erika Kirk did not stay the whole weekend.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-667",
-      "ref": "N-667",
+      "@id": "N-665",
+      "ref": "N-665",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "First named by the host at 00:00:51 in episode 112. Described on David Senra's podcast how she and Jared Kushner found the island they are developing off Albania.",
@@ -776,8 +776,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-614",
-      "ref": "N-614",
+      "@id": "N-612",
+      "ref": "N-612",
       "name": "Graham Allen",
       "type": "person",
       "description": "First named by the host at 00:16:45 in episode 112. The host says he does not work for TPUSA and was hosted by Andrew Kolvet to claim the WHCD email was fake.",
@@ -794,8 +794,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-668",
-      "ref": "N-668",
+      "@id": "N-666",
+      "ref": "N-666",
       "name": "Julie Fields",
       "type": "person",
       "description": "First named by the host at 00:16:45 in episode 112. Named by the host as the donor who asked Charlie Kirk the succession question that prompted the WLS video moment.",
@@ -811,8 +811,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-669",
-      "ref": "N-669",
+      "@id": "N-667",
+      "ref": "N-667",
       "name": "Arthur Fields",
       "type": "person",
       "description": "First named by the host at 00:17:54 in episode 112. Named with Julie Fields as the North Carolina donors who asked the question.",
@@ -828,8 +828,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-633",
-      "ref": "N-633",
+      "@id": "N-631",
+      "ref": "N-631",
       "name": "Richard Smaly",
       "type": "person",
       "description": "First named by the host at 00:21:10 in episode 112. Transcript spelling \"Richard Smallley\". Named in the host's narrowed FOIA request as a Department of War recipient.",
@@ -847,8 +847,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-629",
-      "ref": "N-629",
+      "@id": "N-627",
+      "ref": "N-627",
       "name": "Gustav Anderly",
       "type": "person",
       "description": "First named by the host at 00:21:10 in episode 112. Named in the host's narrowed FOIA request as a Department of War recipient.",
@@ -866,8 +866,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-634",
-      "ref": "N-634",
+      "@id": "N-632",
+      "ref": "N-632",
       "name": "Michaela Mott",
       "type": "person",
       "description": "First named by the host at 00:21:10 in episode 112. Transcript spelling \"Michaela Mott Marzuka\". Named in the host's narrowed FOIA request as a Department of War recipient.",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-670",
-      "ref": "N-670",
+      "@id": "N-668",
+      "ref": "N-668",
       "name": "David Senra",
       "type": "person",
       "description": "First named by the host at 00:30:03 in episode 112. Podcast host who interviewed Ivanka Trump about the island project.",
@@ -904,8 +904,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-671",
-      "ref": "N-671",
+      "@id": "N-669",
+      "ref": "N-669",
       "name": "Nat Rothschild",
       "type": "person",
       "description": "First named by the host at 00:33:19 in episode 112. Aliases \"Nathan Rothschild\" and \"Nat Rothschild\". The host says it was his boat that Ivanka Trump swam from when she \"found\" the island.",
@@ -921,8 +921,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-672",
-      "ref": "N-672",
+      "@id": "N-670",
+      "ref": "N-670",
       "name": "Edi Rama",
       "type": "person",
       "description": "First named by the host at 00:39:21 in episode 112. Transcript spelling \"Ed Rama\". Albanian prime minister quoted in the news report as saying the investment will not stop.",
@@ -940,8 +940,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-673",
-      "ref": "N-673",
+      "@id": "N-671",
+      "ref": "N-671",
       "name": "James Kaddis",
       "type": "person",
       "description": "First named by the host at 00:43:36 in episode 112. Transcript spelling kept. Described by the host as running the TPUSA faith department and as quoted in the US Weekly story.",
@@ -959,8 +959,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-674",
-      "ref": "N-674",
+      "@id": "N-672",
+      "ref": "N-672",
       "name": "Ariana Grande",
       "type": "person",
       "description": "First named by the host at 00:46:27 in episode 112. Singer whose split from Ethan Slater the host discusses.",
@@ -977,8 +977,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-675",
-      "ref": "N-675",
+      "@id": "N-673",
+      "ref": "N-673",
       "name": "Ethan Slater",
       "type": "person",
       "description": "First named by the host at 00:46:27 in episode 112. Actor whose relationship with Ariana Grande ended.",
@@ -1370,7 +1370,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-587",
+        "N-585",
         "N-10083"
       ]
     },
@@ -1393,7 +1393,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-182"
+        "N-180"
       ]
     },
     {
@@ -1462,7 +1462,7 @@
       "investigative_direction": "Archive Dana Loesch's X posts from June 9, 2026 and count her replies on the speech.",
       "transcript_snippet": "She took to X to claim that and no big deal, I don't care. but then proceeded to author more than 23 tweets in response to people calling her out.",
       "mentions_person_refs": [
-        "N-665"
+        "N-663"
       ]
     },
     {
@@ -1519,7 +1519,7 @@
       "investigative_direction": "Locate the full Dana Loesch show episode and the published WLS 2026 schedule for Erika Kirk.",
       "transcript_snippet": "She wasn't there for the whole weekend. She was scheduled to be there for the whole weekend, but who would want to endure that?",
       "mentions_person_refs": [
-        "N-665",
+        "N-663",
         "N-2"
       ]
     },
@@ -1593,7 +1593,7 @@
       "investigative_direction": "Pull the court filings in the Harvest Christian Fellowship Romanian lawsuits and check whether Greg Laurie is a named defendant.",
       "transcript_snippet": "who are credibly accused one way or the other in the court of law as Greg Laurie is of trafficking people from Romania.",
       "mentions_person_refs": [
-        "N-456",
+        "N-454",
         "N-2"
       ]
     },
@@ -1771,8 +1771,8 @@
       "investigative_direction": "Check TPUSA staff listings, Form 990 compensation schedules and the two men's stated affiliations.",
       "transcript_snippet": "And to be clear, Blake Neff does not work for Turning Point USA. Graham Allen does not work for Turning Point USA.",
       "mentions_person_refs": [
-        "N-162",
-        "N-614"
+        "N-161",
+        "N-612"
       ]
     },
     {
@@ -1791,8 +1791,8 @@
       "investigative_direction": "Confirm the Fields family's attendance at the event and ask them directly about the exchange.",
       "transcript_snippet": "Why would they have to protect the donor from that? The donor who asked the question was Julie Fields.",
       "mentions_person_refs": [
-        "N-668",
-        "N-669",
+        "N-666",
+        "N-667",
         "N-1"
       ]
     },
@@ -1854,7 +1854,7 @@
       "transcript_snippet": "Most notorious is when he hosted Graham Allen to claim that the White House correspondents internal email that I shared was fake.",
       "mentions_person_refs": [
         "N-14",
-        "N-614"
+        "N-612"
       ]
     },
     {
@@ -1919,7 +1919,7 @@
       "investigative_direction": "Obtain the Department of War FOIA response letter and case number.",
       "transcript_snippet": "The Department of War has since replied informing us that the burden was too heavy uh regarding our request because it was not specific enough.",
       "mentions_person_refs": [
-        "N-599"
+        "N-597"
       ]
     },
     {
@@ -1963,10 +1963,10 @@
       "investigative_direction": "Track the Department of War's response to the narrowed request and verify each named recipient's position.",
       "transcript_snippet": "we named specific Department of War recipients uh who could be included in that. Bradley Hansel, Richard Smallley, Gustav Anderly, Michaela Mott Marzuka.",
       "mentions_person_refs": [
-        "N-439",
-        "N-633",
-        "N-629",
-        "N-634"
+        "N-437",
+        "N-631",
+        "N-627",
+        "N-632"
       ]
     },
     {
@@ -1986,7 +1986,7 @@
       "investigative_direction": "Check the Kentucky primary result and FEC outside-spending records, and locate Trump's statement on Iranian bridges.",
       "transcript_snippet": "the fact that they just keep on going because they have enough money, uh, Apac uh, effectively ousting Thomas Massie",
       "mentions_person_refs": [
-        "N-587",
+        "N-585",
         "N-5"
       ]
     },
@@ -2004,7 +2004,7 @@
       "transcript_snippet": "We know that this is deep state. We know that we are looking at an assassination akin to JFK. And we know that the subject matter is Israel.",
       "mentions_person_refs": [
         "N-1",
-        "N-282"
+        "N-280"
       ]
     },
     {
@@ -2023,7 +2023,7 @@
       "transcript_snippet": "She wouldn't have been directing attacks against Joe Kent for wanting to look into a foreign connection. She wouldn't be laughing at Egyptian planes that departed at departed at mysterious times on the day of his assassination.",
       "mentions_person_refs": [
         "N-2",
-        "N-213",
+        "N-211",
         "N-1"
       ]
     },
@@ -2044,8 +2044,8 @@
       "investigative_direction": "Confirm the island's identity and size from Albanian land records and the Affinity Partners project filings.",
       "transcript_snippet": "discussing her plans for Saison Island, which is off the coast of Albania. Uh, it's actually Albania's largest island.",
       "mentions_person_refs": [
-        "N-667",
-        "N-182"
+        "N-665",
+        "N-180"
       ]
     },
     {
@@ -2065,9 +2065,9 @@
       "investigative_direction": "Compare with prior reporting on how the Sazan Island deal originated, including any earlier Kushner proposals.",
       "transcript_snippet": "Well, it's an unbelievable, beautiful 1,400 hectare private island in the middle of the Mediterranean. We were on a friend's boat and we stopped for a swim. Effectively, that's how we found it.",
       "mentions_person_refs": [
-        "N-667",
-        "N-670",
-        "N-182"
+        "N-665",
+        "N-668",
+        "N-180"
       ]
     },
     {
@@ -2087,8 +2087,8 @@
       "investigative_direction": "Review the Albanian government agreement for the land parcels included in the project.",
       "transcript_snippet": "We not only the island, but we have five miles of beachfront directly across from the island.",
       "mentions_person_refs": [
-        "N-667",
-        "N-182"
+        "N-665",
+        "N-180"
       ]
     },
     {
@@ -2104,8 +2104,8 @@
       "investigative_direction": "Locate reporting or photographs placing Ivanka Trump and Jared Kushner on Nat Rothschild's yacht off Albania.",
       "transcript_snippet": "And when she says her friend's boat, okay, she's talking about Nathan Rothschild.",
       "mentions_person_refs": [
-        "N-671",
-        "N-667"
+        "N-669",
+        "N-665"
       ]
     },
     {
@@ -2123,8 +2123,8 @@
       "investigative_direction": "Check reporting on Affinity Partners' Belgrade project and its status.",
       "transcript_snippet": "you tried to do this already in Serbia and we said maybe we can do this one instead. That didn't happen.",
       "mentions_person_refs": [
-        "N-667",
-        "N-182"
+        "N-665",
+        "N-180"
       ]
     },
     {
@@ -2145,7 +2145,7 @@
       "investigative_direction": "Identify the broadcaster and date of the report and check wire coverage of the protests.",
       "transcript_snippet": "For the fourth day in a row, thousands of protesters took to the streets of the Albanian capital, brandishing national flags and flamingosshaped cardboard cutouts on sticks.",
       "mentions_person_refs": [
-        "N-182"
+        "N-180"
       ]
     },
     {
@@ -2183,7 +2183,7 @@
       "investigative_direction": "Review Affinity Partners' agreements with the Albanian government and the protected-area status of the Narta Lagoon.",
       "transcript_snippet": "The multi-billion euro project spearheaded by Kushner's investment firm Affinity Partners aims to build two ultra luxury resort complexes.",
       "mentions_person_refs": [
-        "N-182"
+        "N-180"
       ]
     },
     {
@@ -2221,7 +2221,7 @@
       "investigative_direction": "Locate the full statement and any disclosures about financial ties between Albanian officials and the project.",
       "transcript_snippet": "There is no chance that this investment will stop as long as I am here.",
       "mentions_person_refs": [
-        "N-672"
+        "N-670"
       ]
     },
     {
@@ -2260,7 +2260,7 @@
       "investigative_direction": "Check reporting on the America 250 concert lineup and withdrawals, and Trump's statement.",
       "transcript_snippet": "You know when this concert he's going to do this concert to celebrate America's 250th anniversary and all these acts pulled out.",
       "mentions_person_refs": [
-        "N-281",
+        "N-279",
         "N-5"
       ]
     },
@@ -2302,8 +2302,8 @@
       "investigative_direction": "Check the published US Weekly article for the named sources and confirm James Kaddis's TPUSA role.",
       "transcript_snippet": "Tracy Martin, James Catis, who runs the faith department, the most despicable department at Turning Point USA.",
       "mentions_person_refs": [
-        "N-551",
-        "N-673"
+        "N-549",
+        "N-671"
       ]
     },
     {
@@ -2323,7 +2323,7 @@
       "investigative_direction": "Compare Charlie Kirk's call and text logs with the host.",
       "transcript_snippet": "She says that Charlie was Charlie was scared of me. He was scared to answer my calls.",
       "mentions_person_refs": [
-        "N-551",
+        "N-549",
         "N-1",
         "N-3"
       ]
@@ -2377,8 +2377,8 @@
       "investigative_direction": "Check entertainment-press reporting on the June 2026 announcement.",
       "transcript_snippet": "I did get a lot of people texting me about Ariana Grande uh announcing the most obvious split of all time because I called this very early.",
       "mentions_person_refs": [
-        "N-674",
-        "N-675"
+        "N-672",
+        "N-673"
       ]
     },
     {
@@ -2394,8 +2394,8 @@
       "investigative_direction": "Check public reporting on Ethan Slater's marriage and divorce timeline.",
       "transcript_snippet": "Ethan Slater was married to his high school sweetheart they had just had their first baby.",
       "mentions_person_refs": [
-        "N-675",
-        "N-674"
+        "N-673",
+        "N-672"
       ]
     },
     {

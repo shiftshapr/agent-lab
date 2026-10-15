@@ -897,8 +897,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -922,8 +922,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -947,8 +947,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-264",
-      "ref": "N-264",
+      "@id": "N-262",
+      "ref": "N-262",
       "name": "Duncan Aviation",
       "type": "person",
       "description": "Fixed-base operator (FBO) at Provo where SUBND transponder activity is recorded on September 10 and where rental cars were sourced. Matters as institutional locus of pre-event activity.",
@@ -1166,8 +1166,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Joe Kent",
       "type": "person",
       "description": "Joe Kent; named with Tulsi Gabbard in the host's remark about the dispute with Patel.",
@@ -1183,8 +1183,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-333",
-      "ref": "N-333",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Tulsi Gabbard; named with Joe Kent in the host's remark.",
@@ -1379,8 +1379,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Ryan Matta",
       "type": "person",
       "description": "Ryan Mata; supplied the parking lot footage of the alleged shooter.",
@@ -1414,8 +1414,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole; Kirk security member whose interview and texts the host critiques.",
@@ -1436,8 +1436,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-226",
+      "ref": "N-226",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "First named by the host at 00:23:53 in episode 34. Interviewer of Brian Harpole in the interview the host critiques.",
@@ -1473,8 +1473,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-275",
-      "ref": "N-275",
+      "@id": "N-273",
+      "ref": "N-273",
       "name": "Jeff Long",
       "type": "person",
       "description": "Jeff Long; UVU police chief whom Harpole's texts and interview concern.",
@@ -1691,8 +1691,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-765",
-      "ref": "N-765",
+      "@id": "N-763",
+      "ref": "N-763",
       "name": "Bob Coy",
       "type": "person",
       "description": "Bob Coy; Fort Lauderdale pastor the host says was in a sexual abuse scandal.",
@@ -1779,8 +1779,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-714",
-      "ref": "N-714",
+      "@id": "N-712",
+      "ref": "N-712",
       "name": "Joyce Churnick",
       "type": "person",
       "description": "First named by the host at 00:45:45 in episode 34 (spelled Churnick in the transcript). Donor the host says yelled and took away a million dollars after Tucker Carlson's speech.",
@@ -1830,8 +1830,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-715",
-      "ref": "N-715",
+      "@id": "N-713",
+      "ref": "N-713",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "First named by the host at 00:49:25 in episode 34 (as JFK). Cited in the host's remark about the Israel exception to foreign-agent registration.",
@@ -1882,8 +1882,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-271",
-      "ref": "N-271",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Tim Pool",
       "type": "person",
       "description": "Tim Pool; transcript says Tim P; subject of a viewer comment and the host's clip remark.",
@@ -1936,7 +1936,7 @@
       "claim_timestamp": "00:07:12",
       "investigative_direction": "Obtain Duncan Aviation rental contracts, cross-check plate state-DMV registrations, and verify renter identities against the SU-BTT passenger manifest.",
       "mentions_person_refs": [
-        "N-264"
+        "N-262"
       ]
     },
     {
@@ -1991,8 +1991,8 @@
       "investigative_direction": "Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.",
       "mentions_person_refs": [
         "N-67",
-        "N-194",
-        "N-162"
+        "N-192",
+        "N-161"
       ]
     },
     {
@@ -2012,7 +2012,7 @@
       "investigative_direction": "Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.",
       "mentions_person_refs": [
         "N-67",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2296,8 +2296,8 @@
       "investigative_direction": "Locate the press reports describing the dispute among Kent, Gabbard and Patel and any statement by Kent or Gabbard about the Egyptian aircraft.",
       "transcript_snippet": "Joe Kent and Tulsi Gabbard who are waring or at least that's what the press said waring with the FBI or waring with Kash Patel",
       "mentions_person_refs": [
-        "N-213",
-        "N-333",
+        "N-211",
+        "N-331",
         "N-69",
         "N-3"
       ]
@@ -2593,7 +2593,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-61",
-        "N-192"
+        "N-190"
       ]
     },
     {
@@ -2616,7 +2616,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-61",
-        "N-192"
+        "N-190"
       ]
     },
     {
@@ -2656,9 +2656,9 @@
       "investigative_direction": "Obtain the Harpole interview recording and event video showing his position at the time of the shot.",
       "transcript_snippet": "Brian Harpole is one of Charlie Kirk's long-term security members uh team members.",
       "mentions_person_refs": [
-        "N-270",
+        "N-268",
         "N-1",
-        "N-228"
+        "N-226"
       ]
     },
     {
@@ -2679,8 +2679,8 @@
       "investigative_direction": "Obtain UVU police and TPUSA advance-team documents allocating rooftop responsibility.",
       "transcript_snippet": "Brian offers up that the lack of security on the rooftop can actually be attributed to the UVU police chief Jeff Long.",
       "mentions_person_refs": [
-        "N-270",
-        "N-275"
+        "N-268",
+        "N-273"
       ]
     },
     {
@@ -2700,8 +2700,8 @@
       "investigative_direction": "Obtain the full text thread between Harpole and Long with timestamps and the original student-group message.",
       "transcript_snippet": "If this is true it would be nice to either have it controlled access or allow one of my guys to be there as well if possible.",
       "mentions_person_refs": [
-        "N-270",
-        "N-275"
+        "N-268",
+        "N-273"
       ]
     },
     {
@@ -2759,7 +2759,7 @@
       "investigative_direction": "Obtain Jeff Long's official biography and service record.",
       "transcript_snippet": "By the way, Jeff Long also has a very extensive military career.",
       "mentions_person_refs": [
-        "N-275",
+        "N-273",
         "N-3"
       ]
     },
@@ -2782,7 +2782,7 @@
       "investigative_direction": "Request FAA airspace authorization records for the UVU event and TPUSA's drone purchase and pilot licensing records.",
       "transcript_snippet": "I spent thousands of dollars on drones last year and one and got the guy's license but if the area lies in the Provo Utah airspace case. I can't fly it.",
       "mentions_person_refs": [
-        "N-270"
+        "N-268"
       ]
     },
     {
@@ -2804,7 +2804,7 @@
       "investigative_direction": "Ask Orem PD whether its drone unit was requested for the September 10 event and obtain any mutual aid agreement.",
       "transcript_snippet": "now the school could have flown drones, the PD, but they didn't have them, right? And then and then so but ORM PD has a an a drone unit active and professional",
       "mentions_person_refs": [
-        "N-270"
+        "N-268"
       ]
     },
     {
@@ -2828,7 +2828,7 @@
         "C-4948"
       ],
       "mentions_person_refs": [
-        "N-270"
+        "N-268"
       ]
     },
     {
@@ -2848,8 +2848,8 @@
       "investigative_direction": "Review scene video and ask other staff to confirm where Neff and McCoy moved after the shot.",
       "transcript_snippet": "So I and him both had the reaction of let's get out of here before we were both shot.",
       "mentions_person_refs": [
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-1"
       ]
     },
@@ -2870,8 +2870,8 @@
       "investigative_direction": "Reconcile Neff's 15 to 20 second run with scene video timestamps and his later phone log.",
       "transcript_snippet": "I run for must have can't have been more than 15 or 20 seconds. And then I realize there hasn't been another shot.",
       "mentions_person_refs": [
-        "N-162",
-        "N-194"
+        "N-161",
+        "N-192"
       ]
     },
     {
@@ -2891,8 +2891,8 @@
       "investigative_direction": "Compare with any video or photographs of Mikey McCoy in the minutes after the shot.",
       "transcript_snippet": "What I'll always remember is the way his his lip was quivering, which I'd never seen before.",
       "mentions_person_refs": [
-        "N-162",
-        "N-194"
+        "N-161",
+        "N-192"
       ]
     },
     {
@@ -2913,8 +2913,8 @@
       "investigative_direction": "Obtain call logs for Mikey McCoy and Erika Kirk for September 10, 2025 between 12:20 and 12:30 Utah time.",
       "transcript_snippet": "then he says, \"I I need to call Erika.\" And he then he takes his phone and he begins calling Erika",
       "mentions_person_refs": [
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-2"
       ]
     },
@@ -2935,8 +2935,8 @@
       "investigative_direction": "Ask Neff and McCoy through counsel or TPUSA what was said on the call.",
       "transcript_snippet": "and I don't want to disclose how that call unfolded but he did that",
       "mentions_person_refs": [
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-2"
       ]
     },
@@ -2945,7 +2945,7 @@
       "@id": "C-4955",
       "ref": "C-4955",
       "label": "Neff Says Mikey McCoy Then Called His Father Rob McCoy and Asked Him to Rally Pastor Friends",
-      "claim": "Neff says that after he called his mother, Mikey McCoy immediately called his dad, who the transcript spells Robin McCoy, and told him someone had shot Charlie and he should call all his pastor friends to pray.",
+      "claim": "Neff says that after he called his mother, Mikey McCoy immediately called his dad, who the transcript spells Rob McCoy, and told him someone had shot Charlie and he should call all his pastor friends to pray.",
       "anchored_artifacts": [
         "A-1429.1"
       ],
@@ -2956,10 +2956,10 @@
       "tags": [],
       "claim_timestamp": "00:34:05",
       "investigative_direction": "Obtain Rob McCoy's call log and the pastors he contacted; compare to his public timeline.",
-      "transcript_snippet": "he immediately calls his dad. He calls Robin McCoy and he says, \"Dad, someone's shot Charlie. You need to call all of your pastor friends.",
+      "transcript_snippet": "he immediately calls his dad. He calls Rob McCoy and he says, \"Dad, someone's shot Charlie. You need to call all of your pastor friends.",
       "mentions_person_refs": [
-        "N-162",
-        "N-194",
+        "N-161",
+        "N-192",
         "N-17"
       ]
     },
@@ -2983,8 +2983,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-17",
-        "N-194",
-        "N-162",
+        "N-192",
+        "N-161",
         "N-3"
       ]
     },
@@ -3009,9 +3009,9 @@
         "C-4953"
       ],
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-2",
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -3094,7 +3094,7 @@
       "investigative_direction": "Review court records and contemporaneous news reports on Bob Coy's resignation and allegations.",
       "transcript_snippet": "Bob Coy, the one from Fort Lauderdale who got into a little bit of a scandal with sexual abuse.",
       "mentions_person_refs": [
-        "N-765",
+        "N-763",
         "N-17",
         "N-36"
       ]
@@ -3169,7 +3169,7 @@
       "investigative_direction": "Confirm the donor's name spelling and the donation amount through TPUSA donor records and the audio the host says exists.",
       "transcript_snippet": "I told you about a woman who yelled um and took away a million dollars because of the Tucker Carlson speech. That woman was Joyce Churnick.",
       "mentions_person_refs": [
-        "N-714",
+        "N-712",
         "N-22",
         "N-1",
         "N-3"
@@ -3214,7 +3214,7 @@
       "investigative_direction": "Review historical records of the Kennedy administration's FARA actions against Israel-related organizations and their outcome.",
       "transcript_snippet": "when JFK tried to put an end to that uh well I guess rather put an end to the Israel exception that we now have by making them sign up and acknowled uh they shot him.",
       "mentions_person_refs": [
-        "N-715",
+        "N-713",
         "N-3"
       ]
     },
@@ -3300,7 +3300,7 @@
       "investigative_direction": "Locate the clip on X, its date and full context.",
       "transcript_snippet": "I did see a clip on X that when we started this investigation of him saying people were doing it for clicks",
       "mentions_person_refs": [
-        "N-271",
+        "N-269",
         "N-3"
       ]
     },
@@ -3374,7 +3374,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-264"
+        "N-262"
       ]
     }
   ],

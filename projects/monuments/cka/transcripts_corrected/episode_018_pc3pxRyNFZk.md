@@ -126,7 +126,7 @@ Your ears didn't betray you. My ears didn't betray me. We definitely did hear a 
 
 [18:33]
 
-And who would be the person that can make that fit? Look, I did receive a tip and guess what? There was another person in this never-ending brand new cast of characters um that was also involved in this story and this person an email insisted to me that this is somebody that we should look further into. That's the medical examiner. It is a woman named Dr. Deidra Weiss Amaro. Uh Deidra Weiss Amaro is her name and she blew in from California. She was announced as the new state medical examiner in May of 2024. Uh I'm sorry, from Missouri. I think she also worked at some point in California, and she was announced as the new Utah um medical examiner, state Utah medical medical examiner in May of 2024.
+And who would be the person that can make that fit? Look, I did receive a tip and guess what? There was another person in this never-ending brand new cast of characters um that was also involved in this story and this person an email insisted to me that this is somebody that we should look further into. That's the medical examiner. It is a woman named Dr. Deirdre Amaro. Uh Deirdre Amaro is her name and she blew in from California. She was announced as the new state medical examiner in May of 2024. Uh I'm sorry, from Missouri. I think she also worked at some point in California, and she was announced as the new Utah um medical examiner, state Utah medical medical examiner in May of 2024.
 
 [19:26]
 
@@ -222,7 +222,7 @@ It's very obvious. The more you peel back the onion, it is very obvious that thi
 
 [39:09]
 
-That's the plane where um Derek Maxwell, his wife Ghislaine Maxwell, they sold some beauty company uh for billions, I believe, and they now just run a human sex trafficking organization in Utah. That was that plane. I can't remember. 888 is what I actually remember. Um and it seemed as though that plane left. It went to Page, Arizona, and it appeared that the ADSB transponder turned off. Now, what Kash Patel told us is different from what Derek Maxwell told us. Derek's Derek Maxwell on Instagram clarified that the air traffic control center was in agreement with them that they could stop transponding. Kash Patel says that plane never stopped transponding. So, I don't know what the truth is, and I'm not even pretending that we're ever going to get the truth.
+That's the plane where um Derek Maxfield, his wife Shirlene Maxfield, they sold some beauty company uh for billions, I believe, and they now just run a human sex trafficking organization in Utah. That was that plane. I can't remember. 888 is what I actually remember. Um and it seemed as though that plane left. It went to Page, Arizona, and it appeared that the ADSB transponder turned off. Now, what Kash Patel told us is different from what Derek Maxfield told us. Derek's Derek Maxfield on Instagram clarified that the air traffic control center was in agreement with them that they could stop transponding. Kash Patel says that plane never stopped transponding. So, I don't know what the truth is, and I'm not even pretending that we're ever going to get the truth.
 
 [40:07]
 

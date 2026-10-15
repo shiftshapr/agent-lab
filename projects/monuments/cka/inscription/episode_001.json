@@ -868,8 +868,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-939",
-      "ref": "N-939",
+      "@id": "N-937",
+      "ref": "N-937",
       "name": "Brett Kavanaugh",
       "type": "person",
       "description": "Named on a T-shirt slogan the host recalls; first named by the host at 00:13:32 in episode 001.",
@@ -946,10 +946,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-14",
-        "N-27",
-        "N-32",
-        "N-35"
+        "N-27"
       ]
     },
     {
@@ -980,7 +977,7 @@
       "@id": "C-1117",
       "ref": "C-1117",
       "label": "Charlie and Candace drove 8 hours from NC/SC to DC during a hurricane",
-      "claim": "When flights were cancelled during a hurricane, Charlie and Candace rented a car and drove 8 hours to reach DC by morning, per a road-trip audio clip shown.",
+      "claim": "The host says that when flights were cancelled during a hurricane, she and Charlie Kirk rented a car and drove 8 hours to reach DC by morning, and that she thinks it was in North or South Carolina.",
       "anchored_artifacts": [
         "A-1077.2"
       ],
@@ -1002,7 +999,7 @@
       "@id": "C-1123",
       "ref": "C-1123",
       "label": "YWLS conference reporters pressed Candace during 'him too' controversy",
-      "claim": "While the YWLS conference ran concurrently with the viral 'him too' / #MeToo backlash, hostile reporters converged on Candace and Charlie's team; Charlie Kirk and Andrew Kolvet held the line backing Candace's due-process stance.",
+      "claim": "The host says that while the YWLS conference ran at the same time as the 'him too' backlash, reporters who already hated them swooped in asking whether Charlie supported her statements, and that, with her standing behind Charlie and Andrew Kolvet, Charlie held the line.",
       "anchored_artifacts": [
         "A-1080.2"
       ],
@@ -1019,9 +1016,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-14",
-        "N-32",
-        "N-35"
+        "N-14"
       ]
     },
     {
@@ -1051,7 +1046,7 @@
       "@id": "C-1118",
       "ref": "C-1118",
       "label": "Charlie was egged by Antifa at a Philadelphia restaurant",
-      "claim": "Charlie Kirk and Candace Owens were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, per a video clip shown.",
+      "claim": "The host says she and Charlie Kirk were chased out of a Philadelphia restaurant by Antifa, who threw water and an egg at Charlie, and she then plays a video clip of the moment.",
       "anchored_artifacts": [
         "A-1077.3"
       ],
@@ -1059,7 +1054,7 @@
         "N-10009"
       ],
       "tags": [],
-      "claim_timestamp": "00:16:07",
+      "claim_timestamp": "00:15:20",
       "investigative_direction": "Identify the restaurant and date via news reports of the incident.",
       "transcript_snippet": "We got chased out of a Philadelphia restaurant by Antifa and they threw water and they threw an egg on Charlie.",
       "confidence": "high",
@@ -1417,7 +1412,7 @@
       "@id": "C-13457",
       "ref": "C-13457",
       "label": "Host Says a Bigger Name Texted That He Would Not Share the Stage With the New Girl",
-      "claim": "The host says she saw messages light up the phone of a better-known headliner, who is not named, saying he did not want to do the event with the new girl Charlie had hired.",
+      "claim": "The host says she saw messages light up the phone of a better-known headliner, who is not named, saying they did not want to do the event with the new girl Charlie had hired.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1435,8 +1430,8 @@
       "@type": "Claim",
       "@id": "C-13458",
       "ref": "C-13458",
-      "label": "Host Says Charlie Cancelled the Event Rather Than Drop Her",
-      "claim": "The host says Charlie decided against the easy choice and told the headliner that if he would not do the event with Candace they would not do the event, and that he and Candace would do it alone.",
+      "label": "Host Says Charlie Chose to Do the Event Without the Headliner Rather Than Drop Her",
+      "claim": "The host says Charlie decided against the easy choice and said that if the headliner did not want to do the event with Candace, they would not do the event with them and that he and Candace would do it alone.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1494,7 +1489,7 @@
       "@id": "C-13461",
       "ref": "C-13461",
       "label": "Host Says Charlie Was Frugal and Aware His Salary Came From Donors",
-      "claim": "The host says Don Jr. and Eric Trump told Charlie they knew he was very frugal and aware that his salary came from donors, and that Charlie wanted to be a good steward of their capital.",
+      "claim": "The host says Don Jr., and she thinks Eric Trump, told Charlie they knew he was very frugal and aware that his salary came from donors, and that Charlie wanted to be a good steward of the donors' capital.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1665,7 +1660,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-939"
+        "N-937"
       ]
     },
     {
@@ -1972,7 +1967,7 @@
         "N-10003"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:19:26",
       "investigative_direction": "Later episodes' texts and accounts of the 2023 to 2025 relationship would test the claim of continuity.",
@@ -1993,7 +1988,7 @@
         "N-11365"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:19:57",
       "investigative_direction": "The host's phone logs and messages with Charlie around the Trump call would date it; Trump-side accounts would confirm or refute the call.",
@@ -2059,7 +2054,7 @@
         "N-10026"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:20:33",
       "investigative_direction": "Who asked Charlie to relay her position, and when, is the line to pursue; the texts or calls would carry it.",
@@ -2080,7 +2075,7 @@
         "N-10005"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:21:05",
       "investigative_direction": "The host does not say what the transformation was; her texts with Charlie from 2025 and his public remarks on faith would test it.",
@@ -2101,7 +2096,7 @@
         "N-10005"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:21:20",
       "investigative_direction": "The host does not name those pressuring him here; later episodes naming them and any messages Charlie sent about pressure would test the claim.",
@@ -2122,7 +2117,7 @@
         "N-10005"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:21:37",
       "investigative_direction": "Identify which opinion and which donors or allies are meant, via the host's later episodes and Charlie's donors' statements.",

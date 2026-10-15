@@ -1,0 +1,786 @@
+[
+ {
+  "claim": "C-11983",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: \"They were spiking the ball where they were spending the money.\" The \"they\" is not donors.",
+  "fix": {
+   "claim": "The host says it was almost like they wanted to take over the company Kirk built and turn it into just another outfit of the Mossad (transcribed MSAD), and that they were \"spiking the ball\" where they were spending the money."
+  }
+ },
+ {
+  "claim": "C-11984",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11985",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11986",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11987",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11988",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11989",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's Macron lawsuit; not about the assassination, so tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11990",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's Macron lawsuit; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11991",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's Macron lawsuit; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11992",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11993",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11994",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Ackman's advice on home ownership is not about the assassination; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11995",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11996",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11997",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11998",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11999",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12000",
+  "episode": 5,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1205",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-68 Skyler; Skyler is not named or referred to in the claim or its window.",
+  "fix": {
+   "mentions": [
+    "N-83",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1206",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1207",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"it looks like he removes the SIM card\" comes after \"sits the camera onto the desk\"; claim reverses order.",
+  "fix": {
+   "claim": "The host says the footage she shows has the individual handling the camera appearing to remove the SD or SIM card after setting the camera on the desk."
+  }
+ },
+ {
+  "claim": "C-1208",
+  "episode": 6,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says \"This person's been around Turning Point for quite some time... back when I was working at Turning Point, early days.\" The individual did not tell her this.",
+  "fix": {
+   "claim": "The host says the individual who handled the camera has been around Turning Point USA for years, going back to her own early days working there.",
+   "label": "Host Says Camera Individual Has Been Around TPUSA for Years"
+  }
+ },
+ {
+  "claim": "C-1209",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-2 Erika Kirk; Erika is not named or referred to in the claim or window. Skyler is also not in claim.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-83"
+   ]
+  }
+ },
+ {
+  "claim": "C-1210",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1211",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Victoria Churchill confirmed as Daily Mail (Conservative Brief embeds \"Candace Owens rages after being snubbed...\" | Victoria Churchill, Daily Mail).",
+  "fix": {}
+ },
+ {
+  "claim": "C-1212",
+  "episode": 6,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Guest says \"credibility... down the tubes because she needs to bring receipts. Bill Ackman brought receipts... I think he was there in the room.\" Ackman is cited in third person, not speaking. Guest is Eric Bolling per outside reports.",
+  "fix": {
+   "claim": "In a PBD podcast clip the host plays, a guest says Candace Owens' credibility is going to go \"down the tubes\" because she needs to bring receipts, and that Bill Ackman brought receipts.",
+   "label": "PBD Guest Said Candace's Credibility Is Going Down the Tubes"
+  }
+ },
+ {
+  "claim": "C-3772",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1213",
+  "episode": 6,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The speaker answering \"Yeah. 2015, 2016\" is the guest who referred to Andrew Kolvet in third person (\"Andrew Kolvet was there in the room\"); the guest is not Kolvet (outside reports: Eric Bolling).",
+  "fix": {
+   "claim": "In a PBD podcast clip the host plays, a guest, asked whether he is on the board of Turning Point, says yes, that he last saw Candace Owens in person in 2015 or 2016, and that she was last at a Turning Point event not in many years.",
+   "mentions": [
+    "N-3",
+    "N-57"
+   ],
+   "label": "PBD Guest Said He Last Saw Candace at TPUSA in 2015 or 2016"
+  }
+ },
+ {
+  "claim": "C-1214",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1215",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1216",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1217",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Email says agencies \"may maintain trusted relationships\"; claim drops \"may\".",
+  "fix": {
+   "claim": "Per a viewer email, intelligence and regulatory agencies including CISA, NSA, and FERC monitor valve networks and may maintain trusted relationships with manufacturers."
+  }
+ },
+ {
+  "claim": "C-1218",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1219",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Churchill/AIPAC remark is at 00:29:44 in the transcript; claim timestamp 00:35:46 is wrong. Host says AIPAC and shows one 2018 DC photo.",
+  "fix": {
+   "timestamp": "00:29:40",
+   "claim": "The host says Victoria Churchill of the Daily Mail has a connection to AIPAC, and shows a picture of her sitting in the audience at AIPAC, starting off 2018 in DC."
+  }
+ },
+ {
+  "claim": "C-1220",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions N-89 Benny Johnson; he is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-92",
+    "N-87"
+   ]
+  }
+ },
+ {
+  "claim": "C-1221",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host describes the tweet and message; claim states it as fact and misspells name in title.",
+  "fix": {
+   "claim": "The host says Charlie Kirk, in a long tweet he sent her in a message from May, called Sarah Milgram and Yaron Lischinsky beautiful people and pushed back against using their killings to justify restricting free speech.",
+   "label": "Host Says Kirk Tweet Called Milgram and Lischinsky Beautiful People"
+  }
+ },
+ {
+  "claim": "C-1222",
+  "episode": 6,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"I said speech censorship is coming to America and he wrote back as you can see\" - the quote is the host's; Kirk's reply is not given.",
+  "fix": {
+   "claim": "The host says that on May 22 she wrote to Charlie Kirk that speech censorship is coming to America, after he sent her his tweet, and that he wrote back."
+  }
+ },
+ {
+  "claim": "C-1223",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1224",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says \"that ridiculous madeup text chain between Tyler Robinson and his lover Lance\"; does not say the FBI released it.",
+  "fix": {
+   "claim": "The host says the feds think we speak the way shown in that ridiculous madeup text chain between Tyler Robinson and his lover Lance."
+  }
+ },
+ {
+  "claim": "C-1225",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1226",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1227",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Netanyahu remark is at ~00:35:47; nothing about it near 00:43:09.",
+  "fix": {
+   "timestamp": "00:35:42"
+  }
+ },
+ {
+  "claim": "C-3637",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says \"Some people think that it actually says like CIA, the Decentralized Intelligent Agency. I love it.\" Claim drops the hedge and adds \"crowd-sourced tip network opposing centralized intel\".",
+  "fix": {
+   "claim": "The host says her CIA merchandise stands for the Candace Intelligence Agency and that some people think it stands for the Decentralized Intelligent Agency, which she loves."
+  }
+ },
+ {
+  "claim": "C-3638",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript does not say \"hat\"; \"twin brand\" is added.",
+  "fix": {
+   "claim": "The host plugs the CIA merchandise line from her website, saying it is the Candace Intelligence Agency and that some people think it stands for the Decentralized Intelligent Agency."
+  }
+ },
+ {
+  "claim": "C-13600",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13601",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13602",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13603",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13604",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13605",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13606",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13607",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13608",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13609",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13610",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"I understand that he wants to afford his wife some protection... out of a loyalty to Erika, he also doesn't want to give more footage\"; not stated as told to her.",
+  "fix": {
+   "claim": "The host says the man, out of loyalty to Erika Kirk, also does not want to give more footage to the internet, and that it is traumatizing for people to watch the last second of Charlie's life."
+  }
+ },
+ {
+  "claim": "C-13611",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13612",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mentions N-68 Skyler; Skyler is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-13613",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13614",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13615",
+  "episode": 6,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

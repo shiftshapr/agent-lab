@@ -13,13 +13,13 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-11218
-  - Hole-minted Nodes (reintro-ep012): N-137, N-329, N-10156, N-10180, N-10192, N-10840
+  - Hole-minted Nodes (reintro-ep012): N-136, N-327, N-10156, N-10180, N-10192, N-10840
   - Tip-minted Nodes (reintro-ep012): N-10908, N-11167
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9258–C-9323
-  - Tip-minted Nodes (reintro-ep012): N-792
-  - New Nodes Introduced: N-133, N-134, N-135, N-10147, N-10149, N-10150, N-10151
-  - Reused Nodes Appearing: N-40, N-42, N-60, N-98, N-127, N-10000, N-10006, N-10012, N-10025, N-10032, N-10047, N-10048, N-10056, N-10076, N-10085, N-10086, N-10094, N-10103, N-10106, N-10115, N-10141, N-10144, N-10148, N-10146, N-11217
+  - Tip-minted Nodes (reintro-ep012): N-790
+  - New Nodes Introduced: N-132, N-133, N-134, N-10147, N-10149, N-10150, N-10151
+  - Reused Nodes Appearing: N-40, N-42, N-60, N-98, N-126, N-10000, N-10006, N-10012, N-10025, N-10032, N-10047, N-10048, N-10056, N-10076, N-10085, N-10086, N-10094, N-10103, N-10106, N-10115, N-10141, N-10144, N-10148, N-10146, N-11217
 
 ## 3. Artifact Register
 
@@ -73,7 +73,7 @@ Video Timestamp: 00:10:39–00:11:29
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1325, N-134*
+*Related: C-1325, N-133*
 
 ---
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:09:47–00:10:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1325, C-1334, N-134*
+*Related: C-1325, C-1334, N-133*
 
 ---
 
@@ -107,7 +107,7 @@ Confidence Level: Medium
 
 **A-1189** Daily Mail article on FBI Utah leadership purge
 
-**A-1189.1** Article headlined "Kash Patel questions grow as it's revealed he gutted the Utah FBI leadership before Charlie Kirk's assassination," recounting that Patel fired the Utah Bureau chief and other personnel and installed Robert Bowles in August 2025.
+**A-1189.1** Article headlined "Kash Patel questions grow as it's revealed he gutted the Utah FBI leadership before Charlie Kirk's assassination," recounting that Patel fired the Utah Bureau chief and other personnel and installed Robert Bohls in August 2025.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -115,7 +115,7 @@ Video Timestamp: 00:30:55–00:32:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1329, C-1335, N-135, N-69, N-10150*
+*Related: C-1329, C-1335, N-134, N-69, N-10150*
 
 ---
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:21:52–00:22:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1330, N-126, N-10151*
+*Related: C-1330, N-125, N-10151*
 
 ---
 
@@ -147,19 +147,9 @@ Confidence Level: Medium
 
 ---
 
-**A-1192** Shainer Broderick social media posts
+**A-1192** Shaner Broderick social media posts
 
-**A-1192.1** Instagram post by Shainer Broderick identifying Phil Lyman as "my uncle Phil Lyman" (described on air; post itself not displayed in this episode).
-
-Event Timestamp: 00:00:00–00:00:01
-Source Timestamp: 00:00:00–00:00:01
-Video Timestamp: 00:06:43–00:07:30
-Discovery Timestamp: 00:00:00–00:00:01
-Confidence Level: Medium
-
-*Related: C-1328, N-61, N-133*
-
-**A-1192.2** Shainer Broderick LinkedIn profile connection listing Phil Lyman as uncle, referenced as a factor in his securing an internship with Senator Mike Lee of Utah.
+**A-1192.1** Instagram post by Shaner Broderick identifying Phil Lyman as "my uncle Phil Lyman" (described on air; post itself not displayed in this episode).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -167,7 +157,17 @@ Video Timestamp: 00:06:43–00:07:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1328, N-61, N-133, N-792*---
+*Related: C-1328, N-61, N-132*
+
+**A-1192.2** Shaner Broderick LinkedIn profile connection listing Phil Lyman as uncle, referenced as a factor in his securing an internship with Senator Mike Lee of Utah.
+
+Event Timestamp: 00:00:00–00:00:01
+Source Timestamp: 00:00:00–00:00:01
+Video Timestamp: 00:06:43–00:07:30
+Discovery Timestamp: 00:00:00–00:00:01
+Confidence Level: Medium
+
+*Related: C-1328, N-61, N-132, N-790*---
 
 **A-1193** Gernot Omer LinkedIn profile
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:11:29–00:12:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1326, N-134*
+*Related: C-1326, N-133*
 
 ---
 
@@ -241,7 +241,7 @@ Confidence Level: High
 
 **A-2999** Phil Lyman Text Exchange with Host Bundle
 
-**A-2999.1** Host verbal reference to her text messages with Phil Lyman about Nick, the white vehicle, his relation to Shainer Broderick and the two unidentified companions (messages not shown)
+**A-2999.1** Host verbal reference to her text messages with Phil Lyman about Nick, the white vehicle, his relation to Shaner Broderick and the two unidentified companions (messages not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:03:35
@@ -282,7 +282,7 @@ Confidence Level: Low
 
 ### People
 
-**N-792** Mike Lee
+**N-790** Mike Lee
 
 US Senator from Utah; first named in A-1192.2.
 
@@ -290,7 +290,7 @@ US Senator from Utah; first named in A-1192.2.
 
 ---
 
-**N-133** Shainer Broderick
+**N-132** Shaner Broderick
 
 Phil Lyman's nephew (per Broderick's own Instagram and LinkedIn) or cousin (per Phil's revised claim to the host); retraced the killer's footpath with two companions shortly after the shooting and produced a map used by media. Wiped his LinkedIn and Facebook and cleared/privatized his Instagram following the host's previous episode.
 
@@ -299,11 +299,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1192.1, A-1192.2, C-1328, N-61, N-134, N-10147*
+*Related: A-1192.1, A-1192.2, C-1328, N-61, N-133, N-10147*
 
 ---
 
-**N-134** Gernot Omer
+**N-133** Gernot Omer
 
 Austrian national; identified by the host as one of two companions in the Broderick companion photo. Matched to a BearingPoint Graz software team YouTube video and a German-language "Anniversary Hike" blog; LinkedIn indicates relocation to Utah in May 2024 for a software engineering role at JP Morgan Chase.
 
@@ -329,7 +329,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-135** Robert Bowles
+**N-134** Robert Bohls
 
 Reported as the individual installed to lead the Utah FBI field office in August 2025 following Kash Patel's purge of prior leadership; described as based in DC for decades and in his first week on the job at the time of the shooting.
 
@@ -342,7 +342,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-126** Mike Mitchell
+**N-125** Mike Mitchell
 
 Salt Lake County Sheriff's Office detective; per a 1999 article, conducts online undercover work creating personas to identify suspected pedophiles. Flag: this entity is likely to already possess a node ID from prior episodes covering his role in the Charlie Kirk case; verify ledger and merge if confirmed.
 
@@ -357,14 +357,14 @@ Investigative Pressure: Medium
 
 **N-69** Kash Patel
 
-FBI Director; per a Daily Mail article cited in the episode, fired the chief of the Utah FBI Bureau and other personnel and replaced them with Robert Bowles in August 2025, weeks before the assassination. Flag: may already have a node ID from prior episodes; verify ledger and merge if confirmed.
+FBI Director; per a Daily Mail article cited in the episode, fired the chief of the Utah FBI Bureau and other personnel and replaced them with Robert Bohls in August 2025, weeks before the assassination. Flag: may already have a node ID from prior episodes; verify ledger and merge if confirmed.
 
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1189.1, C-1329, N-135, N-10150*
+*Related: A-1189.1, C-1329, N-134, N-10150*
 
 ---
 
@@ -385,14 +385,14 @@ Investigative Pressure: High
 
 **N-10147** Unidentified Goth Person in Broderick Companion Photo
 
-The second of two foreign companions in the photo with Shainer Broderick; matched by a Belfast viewer to a person on the Provo gothic-underground site "Buzzard and Bees." Remains unidentified by name as of this episode.
+The second of two foreign companions in the photo with Shaner Broderick; matched by a Belfast viewer to a person on the Provo gothic-underground site "Buzzard and Bees." Remains unidentified by name as of this episode.
 
 Evidence Count: 2
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1188.1, A-1194.1, C-1327, N-133*
+*Related: A-1188.1, A-1194.1, C-1327, N-132*
 
 ---
 
@@ -424,14 +424,14 @@ Investigative Pressure: Medium
 
 **N-10150** Utah FBI Personnel Replacement
 
-Verified via Daily Mail: Kash Patel fired the Utah FBI Bureau chief and additional personnel, replaced by Robert Bowles in August 2025; Bowles in his first week on the job at the time of the shooting. Investigation target remains: who approved the timing, who vetted Bowles, and what the chain of command was on September 10.
+Verified via Daily Mail: Kash Patel fired the Utah FBI Bureau chief and additional personnel, replaced by Robert Bohls in August 2025; Bowles in his first week on the job at the time of the shooting. Investigation target remains: who approved the timing, who vetted Bowles, and what the chain of command was on September 10.
 
 Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1189.1, C-1329, C-1335, N-135, N-69*
+*Related: A-1189.1, C-1329, C-1335, N-134, N-69*
 
 ---
 
@@ -444,7 +444,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1190.1, C-1330, N-126*
+*Related: A-1190.1, C-1330, N-125*
 
 ---
 
@@ -490,7 +490,7 @@ Commentator whom the host says called her anti-Semitic days before the death and
 
 **N-61** Phil Lyman
 
-Utah gubernatorial candidate; the host reports his texts, his statements to Alex Jones and NewsNation, and his dispute over his relationship to Shainer Broderick.
+Utah gubernatorial candidate; the host reports his texts, his statements to Alex Jones and NewsNation, and his dispute over his relationship to Shaner Broderick.
 
 *Related: C-9259, C-9261, C-9263, C-9264, C-9265, C-9267, C-9268, C-9270, C-9271, C-9275, C-9276, C-9277, C-9278, C-9279, C-9280, C-9281*
 
@@ -511,7 +511,7 @@ Donor whom the host says funds Laura Loomer (transcribed Shuman).
 
 ---
 
-**N-127** "Nick" (UVU Student – Pseudonym)
+**N-126** "Nick" (UVU Student – Pseudonym)
 
 The UVU student the host calls Nick; Lyman's visit to his house and the campaign mix-up are discussed.
 
@@ -519,7 +519,7 @@ The UVU student the host calls Nick; Lyman's visit to his house and the campaign
 
 ---
 
-**N-137** Andrew Zanger
+**N-136** Andrew Zenger
 
 Hospital CEO and surgeon whose appointment the host says was announced just before the tour (transcribed Zenger).
 
@@ -527,7 +527,7 @@ Hospital CEO and surgeon whose appointment the host says was announced just befo
 
 ---
 
-**N-329** Tim Ballard
+**N-327** Tim Ballard
 
 Former Operation Underground Railroad head; the host's source says Lyman met him in town, and she recalls interviewing him.
 
@@ -799,14 +799,14 @@ Investigative Direction: Compare visible individuals in A-1185.1 with the two co
 
 ---
 
-**C-1325** Host Says One of Two Companions in Photo With Shainer Broderick Is Gernot Omer, via Face-Match to BearingPoint Graz Video
+**C-1325** Host Says One of Two Companions in Photo With Shaner Broderick Is Gernot Omer, via Face-Match to BearingPoint Graz Video
 
 Claim Timestamp: 00:10:39–00:11:29
 
-Claim: The host says her team identified one of the two companions in the photo with Shainer Broderick as Gernot Omer, because a face in the photo matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.
+Claim: The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Omer, because a face in the photo matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.
 
 Anchored Artifacts: A-1186.1
-Mentions: N-134, N-133
+Mentions: N-133, N-132
 
 Related Nodes: N-10147
 
@@ -821,7 +821,7 @@ Claim Timestamp: 00:11:29–00:12:20
 Claim: The host says that, according to Gernot Omer's LinkedIn profile, he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.
 
 Anchored Artifacts: A-1193.1
-Mentions: N-134
+Mentions: N-133
 
 
 Investigative Direction: Capture and archive the LinkedIn profile as displayed; verify with JP Morgan Chase HR whether the employment record matches.
@@ -842,32 +842,32 @@ Investigative Direction: Replicate the facial search; identify the named subject
 
 ---
 
-**C-1328** Shainer Broderick previously identified Phil Lyman as his uncle on both Instagram and LinkedIn.
+**C-1328** Shaner Broderick previously identified Phil Lyman as his uncle on both Instagram and LinkedIn.
 
 Claim Timestamp: 00:06:43–00:07:30
 
-Claim: Public social media posts and a LinkedIn profile connection listed Phil Lyman as Shainer Broderick's uncle prior to the host's coverage.
+Claim: The host says Shaner Broderick posted on his Instagram 'My uncle Phil Lyman' and that his LinkedIn listed Phil Lyman as an uncle connection, before Lyman said they are only cousins.
 
 Anchored Artifacts: A-1192.1, A-1192.2
-Mentions: N-61, N-133
+Mentions: N-61, N-132
 
 
 Investigative Direction: Archive Instagram and LinkedIn snapshots from prior to deletion/scrub; reconcile with Phil Lyman's later "cousin, not nephew" revision.
 
 ---
 
-**C-1329** The Daily Mail reports Kash Patel fired the Utah FBI Bureau chief and additional personnel before Charlie Kirk's assassination and replaced the chief with Robert Bowles.
+**C-1329** The Daily Mail reports Kash Patel fired the Utah FBI Bureau chief and additional personnel before Charlie Kirk's assassination and replaced the chief with Robert Bohls.
 
 Claim Timestamp: 00:30:55–00:32:40
 
-Claim: A Daily Mail article reports FBI Director Kash Patel removed the chief of the Utah FBI Bureau and additional personnel and installed Robert Bowles in August 2025.
+Claim: A Daily Mail article reports FBI Director Kash Patel removed the chief of the Utah FBI Bureau and additional personnel and installed Robert Bohls in August 2025.
 
 Anchored Artifacts: A-1189.1
-Mentions: N-69, N-135, N-1
+Mentions: N-69, N-134, N-1
 
 Related Nodes: N-10150
 
-Investigative Direction: Obtain the underlying DOJ/FBI HR records for the Utah field office; verify the date of Robert Bowles's transfer and the names of all removed personnel.
+Investigative Direction: Obtain the underlying DOJ/FBI HR records for the Utah field office; verify the date of Robert Bohls's transfer and the names of all removed personnel.
 
 ---
 
@@ -875,10 +875,10 @@ Investigative Direction: Obtain the underlying DOJ/FBI HR records for the Utah f
 
 Claim Timestamp: 00:21:52–00:22:45
 
-Claim: A 1999 article documents that Detective Mike Mitchell had been investigating internet child-sex crimes for about a year by November 1999, employing an online persona with childlike language.
+Claim: Per a November 1999 article the host shows, a Mike Mitchell, a detective with the Salt Lake County Sheriff's Office, had been investigating child sex crimes on the internet for about a year, using childlike online phrasing; the host says she is not certain it is the same Mike Mitchell but has a strong hunch.
 
 Anchored Artifacts: A-1190.1
-Mentions: N-126
+Mentions: N-125
 
 Related Nodes: N-10151
 
@@ -890,7 +890,7 @@ Investigative Direction: Confirm continuity between the 1999 Salt Lake County Sh
 
 Claim Timestamp: 00:34:37–00:35:21
 
-Claim: A letter written by Charlie Kirk in May 2025 to the Israeli Prime Minister expressing deep love for Israel and strategic suggestions was released by the Prime Minister's office approximately two weeks after the assassination and circulated by the New York Post and Israeli Post.
+Claim: The host says the New York Post and Israeli Post shared a May letter to Netanyahu in which Charlie Kirk reportedly 'wrote of his deep love for Israel'; she questions whether it is authentic and asks for the email to be authenticated.
 
 Anchored Artifacts: A-1191.1
 Mentions: N-36, N-1
@@ -923,21 +923,21 @@ Claim Timestamp: 00:09:47–00:10:39
 Claim: A German-language blog post on a 10-year hiking anniversary contains photos matching the face of the individual identified as Gernot Omer.
 
 Anchored Artifacts: A-1187.1
-Mentions: N-134
+Mentions: N-133
 
 
 Investigative Direction: Confirm authorship and dating of the blog; verify Gernot Omer's participation in the original 20-year-old hike and the 10-year reunion.
 
 ---
 
-**C-1334** Host Cites Daily Mail Saying Robert Bowles Was in First Week Leading Utah FBI Field Office at Time of Kirk Shooting
+**C-1334** Host Thinks Robert Bohls Was in First Week at Utah FBI Office When Kirk Was Shot
 
-Claim Timestamp: 00:30:55–00:32:40
+Claim Timestamp: 00:32:15
 
-Claim: Per the Daily Mail account the host cites, Robert Bowles was in his first week leading the Utah FBI field office at the time of the September 10 assassination of Charlie Kirk.
+Claim: The host says she thinks Robert Bohls was in his first week at the Utah FBI office when Charlie Kirk was shot.
 
 Anchored Artifacts: A-1189.1
-Mentions: N-135, N-1
+Mentions: N-134, N-1
 
 Related Nodes: N-10150
 
@@ -945,15 +945,15 @@ Investigative Direction: Verify Bowles's official start date via FBI HR records 
 
 ---
 
-**C-1335** Host calls Robert Bowles's move from decades in Washington to the Utah FBI post an unusual placement
+**C-1335** Host calls Robert Bohls's move from decades in Washington to the Utah FBI post an unusual placement
 
 Claim Timestamp: 00:31:56–00:32:40
-Claim: The host says Robert Bowles, installed at the Utah FBI office in August 2025, had been in Washington DC for decades, and calls his relocation to Utah an unusual placement that adds to everything feeling "a little too brand new."
+Claim: The host says Robert Bohls, installed at the Utah FBI office in August 2025, had been in Washington DC for decades, and calls his relocation to Utah an unusual placement that adds to everything feeling "a little too brand new."
 Transcript Snippet: he's somebody who has been in DC for decades. So, seems to me to be an unusual placement to then want to re-up your entire life
 Anchored Artifacts: A-1189.1
-Mentions: N-135
+Mentions: N-134
 Confidence: medium
-Investigative Direction: Confirm Robert Bowles's prior postings and the date of his Utah assignment from FBI announcements.
+Investigative Direction: Confirm Robert Bohls's prior postings and the date of his Utah assignment from FBI announcements.
 
 ---
 
@@ -968,7 +968,7 @@ Transcript Snippet: the very people who were threatening him reputationally and 
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10056, N-10047
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify the specific people and statements the host means and compare their pre-September 10 conduct toward Kirk with their post-assassination tributes.
 
 ---
@@ -982,10 +982,10 @@ Claim: The host says that on the previous day she asked the public to identify t
 Transcript Snippet: yesterday we asked for the public's help in identifying two individuals who Phil Lyman's nephew described as his close friends who decided to retrace the path of Charlie's killer.
 
 Anchored Artifacts: 
-Mentions: N-3, N-61, N-133
+Mentions: N-3, N-61, N-132
 Related Nodes: N-10147
 Tags: relevance:core
-Investigative Direction: Obtain Shainer Broderick's original posts describing the two companions and the retrace video, and archive them before further deletion.
+Investigative Direction: Obtain Shaner Broderick's original posts describing the two companions and the retrace video, and archive them before further deletion.
 
 ---
 
@@ -1001,7 +1001,7 @@ Anchored Artifacts: A-1191.1
 Mentions: N-36, N-1
 Related Nodes: N-10000, N-10056
 Supports: C-1331
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Establish who supplied the letter to the Prime Minister's office and to the press, and whether anyone at Turning Point USA coordinated its release.
 
 ---
@@ -1023,16 +1023,16 @@ Investigative Direction: Locate the Fox News interview and compare Lyman's state
 
 ---
 
-**C-9262** Host Says Shainer Broderick's Map of the Killer's Path Was Used by the Media
+**C-9262** Host Says Shaner Broderick's Map of the Killer's Path Was Used by the Media
 
 Claim Timestamp: 00:02:39
 
-Claim: The host says Shainer Broderick created a map of where the killer walked and that the media used his map.
+Claim: The host says Shaner Broderick created a map of where the killer walked and that the media used his map.
 
-Transcript Snippet: Shainer even created a map where exactly the killer walked and the media used his map.
+Transcript Snippet: Shaner even created a map where exactly the killer walked and the media used his map.
 
 Anchored Artifacts: 
-Mentions: N-133
+Mentions: N-132
 Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Identify which outlets published Broderick's map and how he determined the route.
@@ -1048,7 +1048,7 @@ Claim: The host says Phil Lyman messaged her after the previous episode to say t
 Transcript Snippet: Phil would like me to clarify that Nick never worked on his campaign and by the way, I looked back and that was actually my mistake, not Nick's.
 
 Anchored Artifacts: A-2999.1
-Mentions: N-3, N-61, N-127
+Mentions: N-3, N-61, N-126
 Related Nodes: N-10144
 Tags: relevance:context
 Investigative Direction: Obtain the text exchange between the host and Lyman, and ask Nick how he described his relationship to the campaign.
@@ -1064,7 +1064,7 @@ Claim: The host says Phil Lyman explained his Saturday stop at Nick's house by s
 Transcript Snippet: Nick was particularly asking him to determine who owned a white vehicle that was parked in the neighborhood which was nearby where the shooter had walked.
 
 Anchored Artifacts: A-2999.1
-Mentions: N-3, N-61, N-127
+Mentions: N-3, N-61, N-126
 Related Nodes: N-10144
 Supports: C-1314
 Tags: relevance:core
@@ -1081,7 +1081,7 @@ Claim: The host says that, according to a very strong source, Phil Lyman was in 
 Transcript Snippet: I am told according to a very strong source that what Phil Lyman was doing in town on Saturday was he was meeting with Tim Ballard.
 
 Anchored Artifacts: 
-Mentions: N-3, N-61, N-329
+Mentions: N-3, N-61, N-327
 Related Nodes: N-11167
 Tags: relevance:core
 Investigative Direction: Ask Ballard and Lyman whether they met that Saturday and for what purpose; compare with any public schedule.
@@ -1097,23 +1097,23 @@ Claim: The host says she remembers that the individuals who owned the plane with
 Transcript Snippet: the individuals that owned that plane were wearing an Operation Underground Railroad t-shirt.
 
 Anchored Artifacts: 
-Mentions: N-329, N-3
+Mentions: N-3
 Related Nodes: N-11167, N-10086
 Tags: relevance:core
 Investigative Direction: Identify the plane's owners from FAA records and find the image or report of the t-shirt that the host recalls.
 
 ---
 
-**C-9267** Host Says Phil Lyman Now Says Shainer Is His Cousin and May Be Confused
+**C-9267** Host Says Phil Lyman Now Says Shaner Is His Cousin and May Be Confused
 
 Claim Timestamp: 00:06:43
 
-Claim: The host says Phil Lyman disputes that Shainer Broderick is his nephew, telling her that Shainer may be confused and that they are only cousins.
+Claim: The host says Phil Lyman disputes that Shaner Broderick is his nephew, telling her that Shaner may be confused and that they are only cousins.
 
-Transcript Snippet: Actually maybe Shainer's confused.
+Transcript Snippet: Actually maybe Shaner's confused.
 
 Anchored Artifacts: A-2999.1
-Mentions: N-61, N-133, N-3
+Mentions: N-61, N-132, N-3
 Related Nodes: N-10144
 Contradicts: C-1328
 Tags: relevance:core
@@ -1125,12 +1125,12 @@ Investigative Direction: Obtain Lyman family records or public genealogy showing
 
 Claim Timestamp: 00:06:43
 
-Claim: The host says Shainer Broderick was chosen for an internship with Senator Mike Lee of Utah, which she thinks was partly the result of the family link to Phil Lyman.
+Claim: The host says Shaner Broderick was chosen for an internship with Senator Mike Lee of Utah, which she thinks was partly the result of the family link to Phil Lyman.
 
 Transcript Snippet: chosen for an internship with Senator Mike Lee of Utah.
 
 Anchored Artifacts: A-1192.2
-Mentions: N-133, N-792, N-61
+Mentions: N-132, N-790, N-61
 Tags: relevance:context
 Investigative Direction: Confirm the internship dates with Senator Lee's office and whether the Lyman relationship was listed in the application.
 
@@ -1140,12 +1140,12 @@ Investigative Direction: Confirm the internship dates with Senator Lee's office 
 
 Claim Timestamp: 00:07:30
 
-Claim: The host says that since the previous episode Shainer Broderick wiped his LinkedIn page and his Facebook page, and privatized his Instagram after removing the photos of his investigation into the killer's route.
+Claim: The host says that since the previous episode Shaner Broderick wiped his LinkedIn page and his Facebook page, and privatized his Instagram and then removed the photos of his investigation into the killer's route.
 
 Transcript Snippet: He's also completely wiped his Facebook page entirely. And regarding his Instagram, he's privatized it but he privatized it and then removed all of the photos of his investigation
 
 Anchored Artifacts: 
-Mentions: N-133, N-3
+Mentions: N-132, N-3
 Related Nodes: N-10147
 Tags: relevance:core
 Investigative Direction: Retrieve archived copies of the deleted pages and note the dates of deletion relative to the host's outreach.
@@ -1161,7 +1161,7 @@ Claim: The host says she asked Phil Lyman three times by text whether he could h
 Transcript Snippet: I asked Phil Lyman three times via text whether or not he could help us, more importantly, identify the two individuals that were in the photo with his nephew or cousin
 
 Anchored Artifacts: A-2999.1
-Mentions: N-3, N-61, N-133
+Mentions: N-3, N-61, N-132
 Related Nodes: N-10147
 Tags: relevance:core
 Investigative Direction: Obtain the text thread showing each request and Lyman's replies.
@@ -1188,12 +1188,12 @@ Investigative Direction: Obtain the text thread with Lyman and ask Broderick who
 
 Claim Timestamp: 00:08:25
 
-Claim: The host says that, unlike in all her earlier investigations, no viewer emailed to say they knew either the blond man or the man in the blue hat who were with Shainer Broderick.
+Claim: The host says that, unlike in all her earlier investigations, no viewer emailed to say they knew either the blonde or the person in the blue hat who were with Shaner Broderick.
 
-Transcript Snippet: no one emailed us to say that they knew either of those two individuals, neither the blonde that's with Shainer or the person that is wearing the blue hat
+Transcript Snippet: no one emailed us to say that they knew either of those two individuals, neither the blonde that's with Shaner or the person that is wearing the blue hat
 
 Anchored Artifacts: 
-Mentions: N-3, N-133
+Mentions: N-3, N-132
 Related Nodes: N-10147
 Tags: relevance:core
 Investigative Direction: Review the tip-line log to confirm no identification arrived and test whether the two are from outside the United States.
@@ -1225,7 +1225,7 @@ Claim: The host says one of the two individuals in the photo was identified as a
 Transcript Snippet: We were able to identify one of those individuals in the photo and he is Austrian.
 
 Anchored Artifacts: A-1187.1
-Mentions: N-3, N-134
+Mentions: N-3, N-133
 Related Nodes: N-10147
 Supports: C-1325
 Tags: relevance:core
@@ -1373,7 +1373,7 @@ Claim: The host says she learned that Detective Mike Mitchell is a Boy Scout lea
 Transcript Snippet: he's a Boy Scout leader uh in the LDS church
 
 Anchored Artifacts: 
-Mentions: N-126, N-3
+Mentions: N-125, N-3
 Related Nodes: N-10094, N-10141
 Tags: relevance:context
 Investigative Direction: Verify with LDS Church and Scouting records whether the Mike Mitchell involved in the case holds a Scout leadership role.
@@ -1389,7 +1389,7 @@ Claim: The host says that, if this is the correct Mike Mitchell, he said he was 
 Transcript Snippet: he was on the force for 25 years. This individual began his career in 1999.
 
 Anchored Artifacts: 
-Mentions: N-126, N-3
+Mentions: N-125, N-3
 Related Nodes: N-10141, N-10151
 Supports: C-1304
 Tags: relevance:core
@@ -1406,7 +1406,7 @@ Claim: The host says that because Mike Mitchell created messages online as an un
 Transcript Snippet: Just because he's creating messages online first and foremost doesn't necessarily mean that he's the person that authored the fake bed messages
 
 Anchored Artifacts: 
-Mentions: N-126, N-3
+Mentions: N-125, N-3
 Related Nodes: N-10151, N-10032
 Qualifies: C-1330
 Tags: relevance:core
@@ -1479,7 +1479,7 @@ Investigative Direction: Review the tip-line inbox for submissions naming the go
 
 ---
 
-**C-9290** Host Says the Assassination May Be a Regicide Carried Out by People Around Kirk
+**C-9290** Host Says the Assassination May Be Akin to a Regicide, Possibly Involving Betrayal by People Around Kirk
 
 Claim Timestamp: 00:27:32
 
@@ -1585,7 +1585,7 @@ Claim: The host says the hospital had just announced a brand new CEO, who is als
 Transcript Snippet: that hospital had just announced that they had a a brand new CEO and had surgeon named Andrew Zenger.
 
 Anchored Artifacts: 
-Mentions: N-137, N-3
+Mentions: N-136, N-3
 Related Nodes: N-11218, N-10149
 Tags: relevance:core
 Investigative Direction: Confirm the date and press release of the CEO announcement and his appointment dates.
@@ -1617,7 +1617,7 @@ Claim: The host says the day Andrew Zenger was announced as the new CEO was also
 Transcript Snippet: that was also the day that they announced Charlie's tour. They announced five dates and two of them were in Utah
 
 Anchored Artifacts: 
-Mentions: N-137, N-1, N-3
+Mentions: N-136, N-1, N-3
 Related Nodes: N-11218, N-10000
 Tags: relevance:core
 Investigative Direction: Compare the hospital's press release date with the tour announcement date.
@@ -1677,7 +1677,7 @@ Investigative Direction: Obtain the footage of the call and, through lawful proc
 
 Claim Timestamp: 00:32:40
 
-Claim: The host says that man told her explicitly they were trying something new that day, with the audio-visual setup, and wanted to feed it back instantly to Arizona, which she says makes no sense because the events are typically live-streamed.
+Claim: The host says that man told her explicitly they were trying something new that day, 'on the AVs thing', and wanted to feed it back instantly to Arizona, which she says makes no sense because the events are typically live-streamed.
 
 Transcript Snippet: Charlie's super ambitious and on the AVs thing, they were trying something new and they wanted to be able to feed it back instantly, uh, to Arizona.
 
@@ -1747,7 +1747,7 @@ Claim: The host says it is unclear whether the letter was sent as an email or in
 Transcript Snippet: Can somebody clarify, was that an email they were sharing or did he send it in the mail to him?
 
 Anchored Artifacts: A-1191.1
-Mentions: N-36, N-3
+Mentions: N-3
 Related Nodes: N-10056
 Tags: relevance:core
 Investigative Direction: Request the original message with headers or the postal record from the Prime Minister's office or TPUSA.
@@ -1838,7 +1838,7 @@ Investigative Direction: Obtain any scheduling or communications between Kirk an
 
 Claim Timestamp: 00:37:42
 
-Claim: The host says that, as she is hearing, TPUSA leaders are letting these claims stand because a big payday was on the line.
+Claim: The host says there is no way TPUSA leaders are letting these lies stand unless, as she is hearing, it is true that a big payday was on the line.
 
 Transcript Snippet: unless, as I am hearing, unless it is true that there was a big, big, big payday that was on the line.
 
@@ -1900,7 +1900,7 @@ Investigative Direction: Locate Loomer's posts from September 7 to 9, 2025 and t
 
 Claim Timestamp: 00:43:23
 
-Claim: The host says the people making videos against her at the same time are accepting money through an agent of Israel somehow, and that she has seen contracts.
+Claim: The host says the people making videos against her at the same time are accepting money through an agent of Israel somehow, and that she has contracts.
 
 Transcript Snippet: People that are accepting money through an agent of Israel somehow.
 
@@ -1947,7 +1947,7 @@ Investigative Direction: Personal statement; no record needed beyond the host's 
 
 Claim Timestamp: 00:46:31
 
-Claim: The host relays a viewer's correction that keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage.
+Claim: The host responds to a viewer comment confusing keyholing and internal bullet bouncing by saying keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage.
 
 Transcript Snippet: Keyholing is if the bullet is too slow and tumbles and has external impact.
 
@@ -1985,7 +1985,7 @@ Claim: The host says that they are still working to identify their goth suspect,
 Transcript Snippet: We are still working to identify our goth suspect. It is not the girl who's wearing black, but rather the person that was in the photos with nephew cousin Broderick.
 
 Anchored Artifacts: 
-Mentions: N-3, N-133
+Mentions: N-3, N-132
 Related Nodes: N-10147
 Supports: C-1327
 Tags: relevance:core

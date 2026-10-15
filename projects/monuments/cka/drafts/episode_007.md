@@ -22,7 +22,7 @@
   - Artifact Families Introduced: A-1134, A-1135, A-1136, A-1137, A-1138, A-1139, A-1140, A-1141, A-1142, A-1143, A-1144, A-1145
   - Claim Range: C-1228-C-1244, C-3717
   - New Nodes Introduced: N-93, N-94, N-95, N-96, N-97, N-98, N-10082, N-10084, N-10086, N-10087, N-10088, N-10090, N-10091
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004, N-72, N-10089, N-10134, N-10083, N-10085
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-14, N-22, N-32, N-36, N-37, N-40, N-42, N-60, N-69, N-10000, N-10012, N-10014, N-7, N-64, N-38, N-46, N-55, N-82, N-83, N-10011, N-10024, N-10027, N-10032, N-10036, N-10047, N-10053, N-10054, N-10060, N-10063, N-10070, N-10076, N-10080, N-10104, N-10139, N-10268, N-10342, N-11004, N-72, N-10089, N-10134, N-10083, N-10085, N-68
 ## 2. Executive Summary
 
 Episode opens with reflection on Erika Kirk's memorial forgiveness speech, then pivots to alleged discrepancies in the official Charlie Kirk shooting narrative. Andrew Kolvet's TPUSA miracle statement, Kash Patel's FBI tweet, and Derek Maxfield's plane-transponder Instagram rebuttal are presented as artifact-anchored contradictions. Host introduces underground-tunnel/pipeline hypothesis beneath UVU and shows footage of rapid repaving. Later segment defends Candace from Laura Loomer's CIA-merch complaint and addresses leaked 2023 Charlie Kirk text messages and the alleged Candace–Charlie falling-out narrative.
@@ -849,7 +849,7 @@ Claim Timestamp: 00:02:05
 Claim: The host says Erika Kirk publicly forgave Charlie Kirk's killer at the memorial event, which the host describes as a message of complete submission to Christ.
 Transcript Snippet: She arrived at forgiveness and she did it in front of the entire world.
 Anchored Artifacts: A-1134.1, A-1134.2
-Mentions: N-1, N-2, N-42
+Mentions: N-1, N-2
 Investigative Direction: Verify the full text/transcript of Erika's speech against published recording.
 
 ---
@@ -866,13 +866,13 @@ Investigative Direction: Obtain the original Kolvet tweet and verify timestamp; 
 
 ---
 
-**C-1230** Surgeon said bullet should have gone through
+**C-1230** Kolvet Says the Surgeon Told Him the Bullet Should Have Gone Through
 
 Claim Timestamp: 00:08:48
-Claim: The hospital surgeon told Kolvet the bullet should have passed through Charlie's neck given its caliber and velocity.
+Claim: In a tweet the host reads, Andrew Kolvet says the surgeon who worked on Charlie told him the bullet 'absolutely should have gone through', which is very normal for a high-powered, high-velocity round.
 Transcript Snippet: He said the bullet quote absolutely should have gone through.
 Anchored Artifacts: A-1135.1
-Mentions: N-14
+Mentions: N-14, N-1
 Related Nodes: N-10085
 Investigative Direction: Identify the surgeon and request confirmation; review any hospital records.
 
@@ -929,13 +929,13 @@ Investigative Direction: Obtain UVU facilities maps, irrigation system records, 
 
 ---
 
-**C-1235** Host Says UVU Repaved the Area Within About 48 Hours of the Shooting
+**C-1235** Host Says the Feds Repaved the Area Within About 48 Hours of the Shooting
 
 Claim Timestamp: 00:23:03
-Claim: The host says UVU repaved the area where Charlie Kirk was shot within approximately 48 hours of the shooting, asking producer Skyler to confirm the timing.
+Claim: The host says that within approximately 48 hours of the shooting 'they', the feds she had just referred to, decided to pave the area where Charlie Kirk was shot, asking producer Skyler to confirm the timing.
 Transcript Snippet: They decided to instead pave that area, repave it.
 Anchored Artifacts: A-1139.3
-Mentions: N-1
+Mentions: N-1, N-68
 Related Nodes: N-10012
 Investigative Direction: Obtain UVU maintenance logs and contractor records for the repaving.
 
@@ -944,7 +944,7 @@ Investigative Direction: Obtain UVU maintenance logs and contractor records for 
 **C-1236** Laura Loomer reported Candace to CIA over CIA-themed merch
 
 Claim Timestamp: 00:27:15
-Claim: Laura Loomer publicly reported Candace Owens to the CIA via X, alleging the Candace Intelligence Agency merch violated federal law.
+Claim: In a tweet the host reads, Laura Loomer tags the director of the CIA and says Candace Owens is 'likely breaking the law' with her 'Candace Intelligence Agency' merch, adding that it is a federal felony to use the CIA seal without license.
 Transcript Snippet: It is a federal felony to use the CIA seal without license.
 Anchored Artifacts: A-1140.1
 Mentions: N-3, N-60
@@ -953,7 +953,7 @@ Investigative Direction: Archive the original Loomer tweet; check whether any fo
 
 ---
 
-**C-1237** Awesome Jew released 2023 Charlie Kirk text messages
+**C-1237** Awesome Jew Released Charlie Kirk Text Messages the Host Dates to 2023
 
 Claim Timestamp: 00:30:06
 Claim: An X account called Awesome Jew released text messages between Charlie Kirk and an unnamed friend pressuring Candace to disavow her Israel statements.
@@ -979,7 +979,7 @@ Investigative Direction: Cross-reference the content with public 2023 events; ob
 Tags: open_source_investigation
 ---
 
-**C-1239** Candace faced coordinated pressure to retract genocide tweet
+**C-1239** Candace Says She Was Pressured to Retract Genocide Tweet
 
 Claim Timestamp: 00:32:32
 Claim: After Candace tweeted 'genocide is always wrong' she was inundated with demands to retract/apologize, including from Dave Rubin, while at the Daily Wire.
@@ -993,7 +993,7 @@ Investigative Direction: Archive original tweet and Rubin reply; identify any co
 **C-1240** Charlie Kirk said calling all critics antisemitic was destructive
 
 Claim Timestamp: 00:37:37
-Claim: Charlie Kirk publicly stated that labeling everyone who didn't take a puritanical view of Netanyahu an antisemite was destructive.
+Claim: In a clip the host plays, Charlie Kirk says that calling everyone an antisemite if they do not take a puritanical view of the Netanyahu government is bad for everybody.
 Transcript Snippet: If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government...
 Anchored Artifacts: A-1143.1
 Mentions: N-36, N-1
@@ -1002,10 +1002,10 @@ Investigative Direction: Verify the full town hall recording.
 
 ---
 
-**C-1241** Clip Has Kirk Criticizing AIPAC and Foreign Lobbying
+**C-1241** Clip Has Audience Member Telling Kirk He Has a Huge Problem With AIPAC
 
-Claim Timestamp: 00:39:25
-Claim: In a clip the host plays of an audience Q&A, Charlie Kirk says he has a huge problem with AIPAC representing a group that does not represent American interests while influencing those meant to represent Americans, and references the JFK precedent.
+Claim Timestamp: 00:39:20
+Claim: In a clip the host plays of an audience Q&A, after Charlie Kirk invites him to chime in, an audience member says he has a huge problem with allowing a group that does not represent American interests to influence the people who are supposed to represent Americans.
 Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...I have a huge problem with.
 Anchored Artifacts: A-1143.2
 Mentions: N-1
@@ -1016,8 +1016,8 @@ Investigative Direction: Verify the full town hall recording and Charlie's subse
 
 **C-1242** Tucker Carlson framed Charlie's mission as gospel repentance
 
-Claim Timestamp: 00:44:13
-Claim: Tucker Carlson publicly stated at the memorial that Charlie Kirk's core mission was gospel repentance, not politics.
+Claim Timestamp: 00:43:29
+Claim: In a clip the host plays from the night before, Tucker Carlson says Charlie Kirk was bringing the gospel to the country and was a political person, but that politics is not the final answer, that the gospel message begins with repentance and that the only real solution is Jesus.
 Transcript Snippet: Christianity calls upon you to change. Our core prayer...forgive us our sins.
 Anchored Artifacts: A-1144.1
 Mentions: N-1, N-22
@@ -1079,7 +1079,7 @@ Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present
 
 Claim Timestamp: 00:49:00
 Claim: Answering a viewer question, Candace says she knows Jack Posobiec, that he has always been solid with her, and that he was a naval intelligence officer who has never denied it.
-Transcript Snippet: I can tell you that I know Jack Bobic. He has always been very solid with with me.
+Transcript Snippet: I can tell you that I know Jack Posobiec. He has always been very solid with with me.
 Anchored Artifacts: A-1145.3
 Mentions: N-3, N-95
 Investigative Direction: Verify Posobiec's naval intelligence service record and any public statement on his current status.
@@ -1164,7 +1164,7 @@ Investigative Direction: Check the host's later episodes for the promised timeli
 
 Claim Timestamp: 00:05:19
 
-Claim: The host says she located George Zinn in the crowd, finds it suspicious how far from the stage he was and that he was then taken through a pathway to the same area where Charlie was taken to the car, and credits a viewer for the photo.
+Claim: The host says she located George Zinn in the crowd, finds it suspicious how far he was and that he was then taken through a pathway to the same area where Charlie was taken to the car, and credits a viewer for the photo.
 
 Transcript Snippet: as I asked over the weekend, locate George Zinn in the crowd. It seems a bit suspicious to me how far he was.
 
@@ -1264,11 +1264,11 @@ Investigative Direction: Obtain Kolvet's original post and any coroner or autops
 
 ---
 
-**C-10726** Host says Robinson's letter has disappeared and only his partner photographed it
+**C-10726** Host says Robinson's letter has disappeared and his partner photographed it
 
 Claim Timestamp: 00:14:19
 
-Claim: The host says the letter Tyler Robinson allegedly left has since been disappeared, and that only a photograph taken by his partner exists.
+Claim: The host says, sarcastically listing what she would have to accept as a federal miracle, that Tyler Robinson happened to leave a letter that has since been disappeared, and that his lover took a picture of it.
 
 Transcript Snippet: just a miracle that he happened to leave this letter that has since been disappeared.
 
@@ -1308,7 +1308,7 @@ Investigative Direction: Retrieve Patel's original post and ask the FBI for any 
 
 Claim Timestamp: 00:19:11
 
-Claim: The host says the house next door to the event site has been vacant and is owned by Utah Valley University, which led her to look into the witnesses.
+Claim: The host says that she and viewers learned the house next door to the event site has been vacant and is owned by Utah Valley University, and that they then began looking into the witnesses.
 
 Transcript Snippet: Because once we began learning about that house next door that's been vacant and is owned by UVU and once we began looking into the witnesses
 
@@ -1362,7 +1362,7 @@ Related Nodes: N-10080
 
 Supports: C-1217
 
-Tags: relevance:tangential
+Tags: relevance:context
 
 Investigative Direction: Identify the sources who told the host and any documentation of government valve-supply contracts.
 
@@ -1490,7 +1490,7 @@ Related Nodes: N-10089
 
 Contradicts: C-1204
 
-Tags: relevance:core
+Tags: relevance:context
 
 Investigative Direction: Compare the host's and Kirk's public appearances and messages across 2023 to 2025.
 
@@ -1546,7 +1546,7 @@ Transcript Snippet: I'm going to guess it's either Seth Dillon or Josh Hammer.
 
 Anchored Artifacts: A-1141.1
 
-Mentions: N-3, N-96, N-38, N-55
+Mentions: N-3, N-1, N-38, N-55
 
 Tags: relevance:context
 
@@ -1598,9 +1598,9 @@ Investigative Direction: Find the Mast statement in the Congressional record or 
 
 Claim Timestamp: 00:32:43
 
-Claim: The host says the friend in the thread was reacting to her conversation with a Zionist guest (transcribed Ammy Kak) and that Charlie probably told him to watch it to see she is not antisemitic.
+Claim: The host says the friend in the thread was reacting to her conversation with Zionist guest Ami Kozak and that Charlie probably told him to watch it to see she is not antisemitic.
 
-Transcript Snippet: And that's what he's referring to. The conversation that I had uh with Ammy Kak.
+Transcript Snippet: And that's what he's referring to. The conversation that I had uh with Ami Kozak.
 
 Anchored Artifacts: A-1141.2
 
@@ -1630,7 +1630,7 @@ Related Nodes: N-10000, N-10089
 
 Supports: C-1200, C-1223
 
-Tags: relevance:core
+Tags: relevance:context
 
 Investigative Direction: Check TPUSA event schedules and recordings for the 2024 tour and conference.
 
@@ -1650,7 +1650,7 @@ Mentions: N-3, N-1
 
 Related Nodes: N-10268
 
-Tags: relevance:core
+Tags: relevance:context
 
 Investigative Direction: Obtain messages or witnesses about AmFest speaker lineup changes in 2024.
 
@@ -1666,7 +1666,7 @@ Transcript Snippet: she you can't find anybody beneath the age of 30 that suppor
 
 Anchored Artifacts:
 
-Mentions: N-46, N-3, N-1
+Mentions: N-46, N-3
 
 Tags: relevance:tangential
 
@@ -1806,7 +1806,7 @@ Transcript Snippet: But it is also my belief that there are more people involved
 
 Anchored Artifacts:
 
-Mentions: N-3, N-2
+Mentions: N-3
 
 Tags: relevance:core
 
@@ -1834,11 +1834,11 @@ Investigative Direction: The tip inbox itself; check the later episodes for tips
 
 ---
 
-**C-10754** Viewer says the children who spoke after the memorial sounded rehearsed
+**C-10754** Viewer says the children who spoke after the assassination sounded rehearsed
 
 Claim Timestamp: 00:48:55
 
-Claim: The host reads a viewer comment saying the children who spoke on the morning after the memorial sounded highly rehearsed about their experience; the host says the comment refers to children who witnessed the assassination and appeared on Good Morning America.
+Claim: A viewer comment the host reads says the children who spoke "yesterday" sounded highly rehearsed on their experience; the host says the comment refers to the children who witnessed the assassination and spoke on the news and the next morning on Good Morning America.
 
 Transcript Snippet: Also, the children that spoke yesterday sounded highly rehearsed on their quote unquote experience.
 
@@ -1858,7 +1858,7 @@ Investigative Direction: Obtain the Good Morning America segment and note any co
 
 Claim Timestamp: 00:50:38
 
-Claim: The host tells viewers to watch the series she calls Becoming Breit (as transcribed), says a lot of people are hooked, and says of the subject 'she's a dude'.
+Claim: The host tells viewers to watch the series Becoming Brigitte, says a lot of people are hooked, and says of the subject "she's a dude".
 
 Transcript Snippet: It's a really good one and she's a dude. That's it.
 
@@ -1978,7 +1978,7 @@ Investigative Direction: Retrieve the Daily Mail article and compare with the ho
 
 Claim Timestamp: 00:56:07
 
-Claim: The host says it is a fact that intelligence recruits heavily from the LDS church and that apparently they recruit from that campus, which she says she found out.
+Claim: Reading a viewer comment's point that intel recruits heavily from the LDS, the host says that is a fact and that apparently they recruit from that campus, which she says she found out.
 
 Transcript Snippet: That is a fact. Latterday Saints, Church of Latter Day Saints. And apparently they recruit from that particular campus,
 
@@ -1994,7 +1994,7 @@ Investigative Direction: Find sources for LDS and UVU recruitment by intelligenc
 
 ---
 
-**C-10762** Host says investigators are looking for a different weapon
+**C-10762** Host thinks a totally different weapon is the one to look for
 
 Claim Timestamp: 00:56:17
 
@@ -2058,7 +2058,7 @@ Transcript Snippet: I saw people that were going, "Erika Kirk is going on I thin
 
 Anchored Artifacts:
 
-Mentions: N-3, N-2, N-99, N-36, N-60
+Mentions: N-3, N-2, N-99, N-36, N-1
 
 Related Nodes: N-10342
 
@@ -2160,7 +2160,7 @@ Transcript Snippet: whether he lost money, which he did. Um I was told that indi
 
 Anchored Artifacts:
 
-Mentions: N-98, N-99, N-3
+Mentions: N-98, N-3, N-1
 
 Related Nodes: N-10036, N-10000
 

@@ -500,8 +500,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-328",
-      "ref": "N-328",
+      "@id": "N-326",
+      "ref": "N-326",
       "name": "Father Ripperger",
       "type": "person",
       "description": "Catholic priest whose audio clip on \"the revealing of the method\" is presented by the host as documentary support for an occult-influence thesis applied to Charlie Kirk's assassination and subsequent TPUSA behavior.",
@@ -519,8 +519,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-281",
-      "ref": "N-281",
+      "@id": "N-279",
+      "ref": "N-279",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian whose on-camera segment speculating that Erika Kirk functioned as a \"Mossad handler\" for Charlie Kirk is presented by the host as confirming public intuition.",
@@ -686,8 +686,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -704,8 +704,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-284",
-      "ref": "N-284",
+      "@id": "N-282",
+      "ref": "N-282",
       "name": "Karoline Leavitt",
       "type": "person",
       "description": "White House Press Secretary; quoted on Huckabee–Pollard meeting.",
@@ -1067,8 +1067,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-119",
-      "ref": "N-119",
+      "@id": "N-118",
+      "ref": "N-118",
       "name": "Elon Musk",
       "type": "person",
       "description": "Elon Musk; the host says he donated to the family.",
@@ -1084,8 +1084,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-203",
-      "ref": "N-203",
+      "@id": "N-201",
+      "ref": "N-201",
       "name": "Norman Finkelstein",
       "type": "person",
       "description": "Norman Finkelstein; the host cites his account of mowing the lawn.",
@@ -1101,8 +1101,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; the host says Erika offered him a raise.",
@@ -1118,8 +1118,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-302",
-      "ref": "N-302",
+      "@id": "N-300",
+      "ref": "N-300",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Miriam Adelson; subject of Trump's remark and the host's donation claim.",
@@ -1136,8 +1136,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-560",
-      "ref": "N-560",
+      "@id": "N-558",
+      "ref": "N-558",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Carrie Prejean Bowler; the host says Trump removed her from the religious committee.",
@@ -1153,8 +1153,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-680",
-      "ref": "N-680",
+      "@id": "N-678",
+      "ref": "N-678",
       "name": "Nicolás Maduro",
       "type": "person",
       "description": "Nicolas Maduro; removed by the US operation the host cites.",
@@ -1493,8 +1493,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-778",
-      "ref": "N-778",
+      "@id": "N-776",
+      "ref": "N-776",
       "name": "Marina Abramovic",
       "type": "person",
       "description": "First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performance artist the host cites for spirit cooking and a 1974 pentagram performance.",
@@ -1511,8 +1511,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-779",
-      "ref": "N-779",
+      "@id": "N-777",
+      "ref": "N-777",
       "name": "Aleister Crowley",
       "type": "person",
       "description": "First named by the host at 00:13:52 in episode 75. Occultist the host says wrote books of pentacles meant to summon spirits.",
@@ -1529,8 +1529,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-215",
-      "ref": "N-215",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Jesse Watters",
       "type": "person",
       "description": "First named by the host at 00:23:52 in episode 75 (spelled Jesse Watters). Fox News host to whom the host says Erika Kirk said she had zero fear.",
@@ -1546,8 +1546,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-780",
-      "ref": "N-780",
+      "@id": "N-778",
+      "ref": "N-778",
       "name": "Benny Gantz",
       "type": "person",
       "description": "First named by the host at 00:46:20 in episode 75. Israeli politician whose interview clip the host plays on boots on the ground in Iran.",
@@ -1564,8 +1564,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-781",
-      "ref": "N-781",
+      "@id": "N-779",
+      "ref": "N-779",
       "name": "Paula White",
       "type": "person",
       "description": "First named by the host at 01:01:46 in episode 75. Pastor the host groups with Christian Zionists surrounding Trump.",
@@ -1780,7 +1780,7 @@
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Identify the full source interview (date, program, outlet) and review for context outside the excerpt.",
       "mentions_person_refs": [
-        "N-328"
+        "N-326"
       ]
     },
     {
@@ -1871,7 +1871,7 @@
       "claim_timestamp": "00:21:50",
       "investigative_direction": "Identify source program and date; determine what McQuaid claims the \"blueprints\" to be.",
       "mentions_person_refs": [
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -1991,7 +1991,7 @@
       "investigative_direction": "Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.",
       "mentions_person_refs": [
         "N-5",
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -2009,7 +2009,7 @@
       "investigative_direction": "Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited.",
       "mentions_person_refs": [
         "N-2",
-        "N-281",
+        "N-279",
         "N-1"
       ]
     },
@@ -2108,7 +2108,7 @@
       "investigative_direction": "Check the leaked email set the host refers to for the spirit cooking references and who attended the events named.",
       "transcript_snippet": "She does spirit cooking, literally. That was what was in those emails. Marina Abramović.",
       "mentions_person_refs": [
-        "N-778",
+        "N-776",
         "N-3"
       ]
     },
@@ -2127,7 +2127,7 @@
       "investigative_direction": "Check the performance record for the date, title and wording of Abramovic's 1974 petroleum-soaked star piece against the host's description.",
       "transcript_snippet": "Performances like in 1974 when she sought to, quote, re-evoke the energy of extreme bodily pain using a large petroleum-drenched pentagram.",
       "mentions_person_refs": [
-        "N-778"
+        "N-776"
       ]
     },
     {
@@ -2490,7 +2490,7 @@
       "investigative_direction": "Check Crowley's published works and the history of Thelema; the host does not link him to any named current official.",
       "transcript_snippet": "Aleister Crowley was master cultist created an entire religion around this, put together a series of books, a series of pentacles that are meant to summon various spirits.",
       "mentions_person_refs": [
-        "N-779",
+        "N-777",
         "N-3"
       ]
     },
@@ -2511,7 +2511,7 @@
       "investigative_direction": "Identify the book and edition shown; Crowley's earliest books are not known by this title, so check bibliographic records.",
       "transcript_snippet": "First book he wrote was called the book of evil spirits. Wow, look at that star of David all over it.",
       "mentions_person_refs": [
-        "N-779",
+        "N-777",
         "N-3"
       ]
     },
@@ -2556,7 +2556,7 @@
         "C-3570"
       ],
       "mentions_person_refs": [
-        "N-328",
+        "N-326",
         "N-1",
         "N-3"
       ]
@@ -2578,7 +2578,7 @@
       "investigative_direction": "Obtain the original recording and check what 'the thing' refers to in Ripperger's own answer.",
       "transcript_snippet": "it can be connected to a curse. They could like they could curse this so that it has a more so that it's distribution becomes more extensive",
       "mentions_person_refs": [
-        "N-328"
+        "N-326"
       ]
     },
     {
@@ -2761,7 +2761,7 @@
       "investigative_direction": "Identify the program and date of the McQuaid clip and the speaker who prompted him.",
       "transcript_snippet": "I definitely thought maybe there would be a Vance Kirk ticket. Maybe there will still will be a Vance Kirk ticket.",
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-4"
       ]
     },
@@ -2806,7 +2806,7 @@
       "transcript_snippet": "offer a raise to Dan Flood, the security guard who failed Charlie in every possible manner and way on September 10th.",
       "mentions_person_refs": [
         "N-2",
-        "N-274",
+        "N-272",
         "N-1",
         "N-3"
       ]
@@ -2923,7 +2923,7 @@
       "transcript_snippet": "she told Jesse Watters that she had zero fear. None at all.",
       "mentions_person_refs": [
         "N-2",
-        "N-215",
+        "N-213",
         "N-3"
       ]
     },
@@ -3015,7 +3015,7 @@
       "investigative_direction": "Identify the event Dillon means and compare its date with the Charlie Kirk memorial and AmFest dates.",
       "transcript_snippet": "3 weeks after the guy's dead, she's out there with sparklers, you know, they're doing Cirque du Soleil.",
       "mentions_person_refs": [
-        "N-281",
+        "N-279",
         "N-2"
       ]
     },
@@ -3041,7 +3041,7 @@
         "C-3583"
       ],
       "mentions_person_refs": [
-        "N-281",
+        "N-279",
         "N-2",
         "N-1"
       ]
@@ -3068,7 +3068,7 @@
         "C-3583"
       ],
       "mentions_person_refs": [
-        "N-281"
+        "N-279"
       ]
     },
     {
@@ -3216,7 +3216,7 @@
       "transcript_snippet": "the person that he took a hundred million, two hundred million dollars from, I think in the end, loves Israel more than she loves America.",
       "mentions_person_refs": [
         "N-5",
-        "N-302",
+        "N-300",
         "N-3"
       ]
     },
@@ -3237,7 +3237,7 @@
       "investigative_direction": "Check Adelson's biography for her Israeli military service; the played clip does not contain this statement.",
       "transcript_snippet": "She served in the IDF. That's what he's saying to you.",
       "mentions_person_refs": [
-        "N-302",
+        "N-300",
         "N-5",
         "N-3"
       ]
@@ -3328,7 +3328,7 @@
       "transcript_snippet": "until Bibi Netanyahu said, \"Venezuela's anti-Semitic.\" Then we took out Maduro, and guess who benefited from that?",
       "mentions_person_refs": [
         "N-36",
-        "N-680",
+        "N-678",
         "N-3"
       ]
     },
@@ -3547,7 +3547,7 @@
       "investigative_direction": "Check Finkelstein's published statements on the doctrine; the term is commonly used for periodic military operations, not random killings to limit population.",
       "transcript_snippet": "Norm Finkelstein informing me that Israel had a literal and actual government policy known as mowing the lawn in Gaza",
       "mentions_person_refs": [
-        "N-203",
+        "N-201",
         "N-3"
       ]
     },
@@ -3592,7 +3592,7 @@
         "C-3581"
       ],
       "mentions_person_refs": [
-        "N-780",
+        "N-778",
         "N-3"
       ]
     },
@@ -3615,7 +3615,7 @@
       "investigative_direction": "Identify the interviewer, outlet and date of the full interview.",
       "transcript_snippet": "Currently, we are neutralizing Iran's uh command and control system and Iran capacity to influence the region",
       "mentions_person_refs": [
-        "N-780"
+        "N-778"
       ]
     },
     {
@@ -3640,7 +3640,7 @@
         "C-3582"
       ],
       "mentions_person_refs": [
-        "N-284",
+        "N-282",
         "N-5",
         "N-3"
       ]
@@ -3664,7 +3664,7 @@
       "investigative_direction": "Pull the White House briefing transcript and date.",
       "transcript_snippet": "It's not part of the current plan right now, but the president again wisely keeps his options on the table.",
       "mentions_person_refs": [
-        "N-284",
+        "N-282",
         "N-5"
       ]
     },
@@ -3687,7 +3687,7 @@
       "investigative_direction": "Check the Department of War or White House announcement naming Operation Epic Fury and its start date.",
       "transcript_snippet": "that's why he took this historic action by launching Operation Epic Fury.",
       "mentions_person_refs": [
-        "N-284",
+        "N-282",
         "N-5"
       ]
     },
@@ -3710,7 +3710,7 @@
       "investigative_direction": "Compare with Department of Defense casualty figures attributed to Iran-backed attacks.",
       "transcript_snippet": "They have killed and maimed thousands of American soldiers.",
       "mentions_person_refs": [
-        "N-284"
+        "N-282"
       ]
     },
     {
@@ -3792,7 +3792,7 @@
         "C-2370"
       ],
       "mentions_person_refs": [
-        "N-560",
+        "N-558",
         "N-5",
         "N-3"
       ]
@@ -3888,7 +3888,7 @@
       "investigative_direction": "Check the GiveSendGo donor list or Musk's public statements on a gift to the Kirk family.",
       "transcript_snippet": "I think someone pointed out that I even missed that Elon Musk donated money to them.",
       "mentions_person_refs": [
-        "N-119",
+        "N-118",
         "N-2",
         "N-3"
       ]
@@ -3910,7 +3910,7 @@
       "investigative_direction": "No source is cited; compare historians' accounts of Frankism with the host's analogy.",
       "transcript_snippet": "similarly you had this movement of people similar to the Christian Zionists that are like unhinged looking at Paula White, the pastors that are surrounding Trump",
       "mentions_person_refs": [
-        "N-781",
+        "N-779",
         "N-3"
       ]
     },

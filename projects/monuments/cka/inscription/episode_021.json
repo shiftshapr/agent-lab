@@ -187,7 +187,7 @@
             "C-1526"
           ],
           "related_nodes": [
-            "N-203"
+            "N-201"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -268,7 +268,7 @@
           "related_nodes": [
             "N-5",
             "N-1",
-            "N-763"
+            "N-761"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -408,8 +408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-203",
-      "ref": "N-203",
+      "@id": "N-201",
+      "ref": "N-201",
       "name": "Norman Finkelstein",
       "type": "person",
       "description": "Scholar and author; interviewee on upcoming Candace Owens episode regarding Gaza. Provides context but tangential to Kirk investigation per this episode.",
@@ -537,11 +537,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-132",
-      "ref": "N-132",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Susie Wiles",
       "type": "person",
-      "description": "Person Susie Wiles (N-132).",
+      "description": "Person Susie Wiles (N-131).",
       "related_artifacts": [],
       "related_claims": [
         "C-1520",
@@ -831,8 +831,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-182",
-      "ref": "N-182",
+      "@id": "N-180",
+      "ref": "N-180",
       "name": "Jared Kushner",
       "type": "person",
       "description": "Named by the host regarding Israel investments.",
@@ -848,8 +848,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host says he is missing from the Charlie Kirk Show.",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Joe Kent",
       "type": "person",
       "description": "Official whose inquiry the host urges to continue.",
@@ -919,8 +919,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-333",
-      "ref": "N-333",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "DNI named alongside Joe Kent.",
@@ -1007,8 +1007,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-667",
-      "ref": "N-667",
+      "@id": "N-665",
+      "ref": "N-665",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Named by the host regarding Israel investments.",
@@ -1111,8 +1111,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-763",
-      "ref": "N-763",
+      "@id": "N-761",
+      "ref": "N-761",
       "name": "Breland Holland",
       "type": "person",
       "description": "First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.",
@@ -1153,7 +1153,7 @@
       "@id": "C-1515",
       "ref": "C-1515",
       "label": "Pre-Existing 2021 Wikipedia Entry Stated Charlie Kirk Founded TPUSA Faith Alone",
-      "claim": "Before the September 11, 2025 update, the TPUSA Wikipedia article contained a long-standing section stating that Charlie Kirk founded TPUSA Faith, with no mention of Rob McCoy.",
+      "claim": "Per the TPUSA Wikipedia article the host shows, before the September 11, 2025 update it contained a long-standing section (a 2021 version, which she reads) stating that Charlie Kirk founded TPUSA Faith, with no mention of Rob McCoy.",
       "anchored_artifacts": [
         "A-1283.1"
       ],
@@ -1173,7 +1173,7 @@
       "@id": "C-1516",
       "ref": "C-1516",
       "label": "Citation Source for McCoy Co-Founder Claim Is Dated November 24, 2024 with Additional September 2025 Citations",
-      "claim": "The citation used in the updated Wikipedia entry to support the assertion that Rob McCoy was co-founder/co-chairman of TPUSA Faith points to an article dated November 24, 2024, with additional citations dated September 10 and September 2025.",
+      "claim": "The host says the citation used in the updated Wikipedia entry to support the assertion that Rob McCoy was co-founder and co-chairman of TPUSA Faith points to an article dated November 24, 2024, and that the second citations used are dated September 2025 (September 10th).",
       "anchored_artifacts": [
         "A-1284.1"
       ],
@@ -1211,7 +1211,7 @@
       "@id": "C-1518",
       "ref": "C-1518",
       "label": "Trump's Only \"Investigation\" Truth Social Post Was About Jack Smith's TPUSA Investigation, Not Kirk's Murder",
-      "claim": "The only Truth Social post by President Trump that could be read as calling for \"further investigation\" into Charlie Kirk's death is, in its actual text, directed at Jack Smith's investigation of Turning Point USA and unrelated to the Kirk murder inquiry.",
+      "claim": "The host says her team searched Truth Social for Trump posts calling for further investigation into Charlie Kirk's murder and found only one, which she says is not a call for an investigation into the murder but asks why Turning Point was under investigation by Jack Smith and the Biden administration.",
       "anchored_artifacts": [
         "A-1285.1"
       ],
@@ -1229,7 +1229,7 @@
       "@id": "C-1519",
       "ref": "C-1519",
       "label": "New York Times Article Reported Kash Patel Was Alarmed by Joe Kent's Inquiry About the Kirk Investigation",
-      "claim": "A New York Times article published the day prior to this episode reported that FBI Director Kash Patel was alarmed when Joe Kent of Tulsi Gabbard's office inquired about details of the Charlie Kirk investigation, including possible foreign involvement.",
+      "claim": "The host says a New York Times headline the day before concerned how upset Kash Patel was when he received an inquiry from Joe Kent, of Tulsi Gabbard's office, about details of the Charlie Kirk investigation, which apparently alarmed Patel; she suggests they were asking whether people overseas were involved.",
       "anchored_artifacts": [
         "A-1286.1"
       ],
@@ -1241,7 +1241,9 @@
       "investigative_direction": "Locate the NYT article by date, headline, and quoted material; confirm direct attribution to Patel and the substance of Kent's inquiry.",
       "mentions_person_refs": [
         "N-1",
-        "N-69"
+        "N-69",
+        "N-211",
+        "N-331"
       ]
     },
     {
@@ -1249,7 +1251,7 @@
       "@id": "C-1520",
       "ref": "C-1520",
       "label": "Kash Patel Convened a Meeting With Susie Wiles, Joe Kent, Tulsi Gabbard, and JD Vance Regarding the Inquiry",
-      "claim": "Following the inquiry, Kash Patel convened a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.",
+      "claim": "The host says that, after the inquiry, Kash Patel apparently held a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard and Trump officials, that she thinks it said JD Vance was also in the meeting, and that nothing was accomplished.",
       "anchored_artifacts": [
         "A-1286.1"
       ],
@@ -1260,9 +1262,11 @@
       "claim_timestamp": "00:21:37",
       "investigative_direction": "Confirm via the NYT article whether these named officials were present and whether subsequent reporting describes any action items.",
       "mentions_person_refs": [
-        "N-132",
+        "N-131",
         "N-69",
-        "N-4"
+        "N-4",
+        "N-211",
+        "N-331"
       ]
     },
     {
@@ -1294,7 +1298,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:32:12",
+      "claim_timestamp": "00:34:10",
       "investigative_direction": "Obtain the full Megyn Kelly interview clip and surrounding context; verify whether the confidence statement is unconditional or hedged.",
       "mentions_person_refs": [
         "N-46",
@@ -1316,7 +1320,9 @@
       "claim_timestamp": "00:33:50",
       "investigative_direction": "Confirm sequence of statements in the unedited interview.",
       "mentions_person_refs": [
-        "N-46"
+        "N-33",
+        "N-46",
+        "N-1"
       ]
     },
     {
@@ -1324,7 +1330,7 @@
       "@id": "C-1524",
       "ref": "C-1524",
       "label": "Host Rejects Wikipedia Characterization of Rob McCoy as TPUSA Faith Co-Founder",
-      "claim": "The host asserts, as a position, that Rob McCoy was not the founder or co-founder of TPUSA Faith and was at most placed on an advisory board; the host's stated firsthand knowledge (via prior involvement with TPUSA Faith conversations at Liberty University) is offered as the basis.",
+      "claim": "The host asserts that Rob McCoy was not the founder or co-founder of TPUSA Faith but one of the advisers put on its advisory board; she says the idea for TPUSA Faith came from conversations with pastors back at Liberty University, which she was there for.",
       "anchored_artifacts": [
         "A-1283.2"
       ],
@@ -1332,7 +1338,7 @@
         "N-10200"
       ],
       "tags": [],
-      "claim_timestamp": "00:03:03",
+      "claim_timestamp": "00:04:25",
       "investigative_direction": "Obtain contemporaneous TPUSA Faith formation documents, IRS filings, and founding board records to resolve.",
       "mentions_person_refs": [
         "N-17"
@@ -1343,16 +1349,16 @@
       "@id": "C-1525",
       "ref": "C-1525",
       "label": "Host Characterizes Don Trump Jr.'s Confidence Statement as Inconsistent With What He Would Say If He Believed the Official Narrative",
-      "claim": "The host asserts that Don Trump Jr.'s stated confidence in the FBI investigation is inconsistent with what he would say if he actually believed the official account – specifically that a 30-06 round's effect on Charlie Kirk's neck was as described.",
+      "claim": "The host asks Don Trump Jr., as a hunter, to make a video saying he believes Charlie was shot in the neck with a .30-06 that his neck stopped while remaining intact, and says he will not say that because it is untrue.",
       "anchored_artifacts": [
         "A-1287.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:35:31",
+      "claim_timestamp": "00:37:35",
       "investigative_direction": "This is interpretive host commentary; falsifiable only by further direct statement from Don Trump Jr. or by independent investigation into the wound-ballistics question.",
       "mentions_person_refs": [
-        "N-46",
+        "N-33",
         "N-1"
       ]
     },
@@ -1361,16 +1367,16 @@
       "@id": "C-1526",
       "ref": "C-1526",
       "label": "Norman Finkelstein Trailer Characterizes Gaza Treatment and \"Jewish Supremacist\" Money Influence",
-      "claim": "In a trailer for an upcoming Candace Owens interview, Norman Finkelstein is shown quoting The Economist and a UN official describing Gaza as a \"human rubbish heap\" / \"toxic dump,\" and asserts that a \"billionaire class of Jewish supremacists\" uses money as a blackmail weapon to silence critics of an ongoing genocide.",
+      "claim": "In a trailer for an upcoming interview with the host, Norman Finkelstein is shown saying The Economist described Gaza as 'a human rubbish heap' and the leading UN official on Gaza described it as 'a toxic dump for the people of Israel', and asserting that a billionaire class of Jewish supremacists is flagrantly using money as a blackmail weapon to silence not just criticism of Jews but criticism of an ongoing genocide.",
       "anchored_artifacts": [
         "A-1288.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:39:19",
+      "claim_timestamp": "00:40:50",
       "investigative_direction": "Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode.",
       "mentions_person_refs": [
-        "N-203",
+        "N-201",
         "N-3"
       ]
     },
@@ -1379,7 +1385,7 @@
       "@id": "C-6512",
       "ref": "C-6512",
       "label": "Host Says Charlie Was a Gifted Child Whose Parents Refused ADHD Medication",
-      "claim": "The host says that as a child Charlie Kirk was so hyperactive that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times.",
+      "claim": "The host says that, from her memory, as a child Charlie Kirk was so hyperactive that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1624,7 +1630,7 @@
         "N-5",
         "N-1",
         "N-3",
-        "N-763"
+        "N-761"
       ]
     },
     {
@@ -1672,7 +1678,7 @@
       "@id": "C-6526",
       "ref": "C-6526",
       "label": "Host Says She Suspects Foreign Entities Were Involved and Is Getting Close",
-      "claim": "The host says she and her team are getting very close to what happened on the day, that she is getting the suspicion that foreign entities were involved, and asks Joe Kent and Tulsi Gabbard to keep going.",
+      "claim": "The host says that she thinks they are getting very close to what actually happened on that day, that she is getting the suspicion that there were some foreign entities involved, and asks Joe Kent and Tulsi Gabbard to keep going.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10202"
@@ -1684,8 +1690,8 @@
       "investigative_direction": "Ask the host to identify the evidence behind the suspicion of foreign involvement, and compare with the Kent inquiry reported by the New York Times.",
       "transcript_snippet": "I'm getting the suspicion that there were some foreign entities involved.",
       "mentions_person_refs": [
-        "N-213",
-        "N-333",
+        "N-211",
+        "N-331",
         "N-3"
       ]
     },
@@ -1704,7 +1710,7 @@
       "investigative_direction": "Check the Charlie Kirk Show episode listing and host roster for the date of this episode.",
       "transcript_snippet": "Mikey McCoy is missing um from the Charlie Kirk show.",
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-14"
       ]
     },
@@ -1726,8 +1732,7 @@
       "transcript_snippet": "Charlie said, \"If I ever get shot at an event, the left side of my neck, the first thing I want you to do is not help me.\"",
       "mentions_person_refs": [
         "N-14",
-        "N-1",
-        "N-194"
+        "N-1"
       ]
     },
     {
@@ -1875,7 +1880,7 @@
       "@id": "C-6535",
       "ref": "C-6535",
       "label": "Host Says Don Jr. Helped Build Turning Point USA and Did Campus Events With Her and Charlie",
-      "claim": "The host says Donald Trump Jr. helped build Turning Point USA, did many college campus events with her and Charlie, and was the most committed Trump family member to TPUSA's early story.",
+      "claim": "The host says Donald Trump Jr. was one of the people who very much helped to build Turning Point USA, did a ton of college campus events with her and Charlie, and was probably without question the most committed Trump family member to TPUSA's early story.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1979,7 +1984,7 @@
       "@id": "C-6540",
       "ref": "C-6540",
       "label": "Host Says Jared and Ivanka's Israel Investments Explain Trump Family Silence",
-      "claim": "The host says the Trump family understands Jared, Ivanka and their investments in Israel and the pressure from Zionists to be quiet, and says Don Jr. does not truly believe the official account.",
+      "claim": "The host tells Don Jr. that if he cannot say anything she understands the ties that bind, says \"they understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet,\" and says hunters know he does not believe the official account.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10025"
@@ -1991,8 +1996,8 @@
       "investigative_direction": "Review disclosures of Kushner and Ivanka Trump investments in Israel and any contact with Don Jr. on the Kirk case.",
       "transcript_snippet": "They understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet",
       "mentions_person_refs": [
-        "N-182",
-        "N-667",
+        "N-180",
+        "N-665",
         "N-33"
       ]
     },
@@ -2001,7 +2006,7 @@
       "@id": "C-6541",
       "ref": "C-6541",
       "label": "Host Says Finkelstein Interview Will Be Released on Friday",
-      "claim": "The host says she sat down with Norman Finkelstein for an interview, just over two hours long, to be released on Friday.",
+      "claim": "The host says she sat down with Norman Finkelstein for a conversation that will be released on Friday.",
       "anchored_artifacts": [
         "A-1288.1"
       ],
@@ -2013,7 +2018,7 @@
       "investigative_direction": "Compare the release date of the Finkelstein interview with the host's stated Friday.",
       "transcript_snippet": "have a conversation which we will be releasing on Friday uh with Norman Finkelestein.",
       "mentions_person_refs": [
-        "N-203",
+        "N-201",
         "N-3"
       ]
     },
@@ -2032,7 +2037,7 @@
       "investigative_direction": "Locate the Daily Wire episode with Finkelstein and check its date.",
       "transcript_snippet": "was the reason I had him on my show right after October 7th, sometime shortly thereafter when I was at the Daily Wire.",
       "mentions_person_refs": [
-        "N-203",
+        "N-201",
         "N-3"
       ]
     },
@@ -2096,7 +2101,7 @@
       "@id": "C-6546",
       "ref": "C-6546",
       "label": "Host Says Charlie Knew His Life Would Be Short and That She Would Defend Him",
-      "claim": "The host says Charlie knew his life was going to be short and knew that she would be the only one to defend him publicly and go to war with everyone.",
+      "claim": "The host says she takes from Charlie's dreams that he knew his life was going to be short and that, for whatever reason, she would be the only one to defend him publicly and go to war with everyone.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2139,7 +2144,7 @@
       "@id": "C-6548",
       "ref": "C-6548",
       "label": "Host Says Ghislaine Maxwell's Father Began Maxwell Macmillan, Which Published Textbooks",
-      "claim": "Reading a viewer comment about Maxwell-published textbooks, the host says Ghislaine Maxwell's father began alongside Macmillan, publishing school textbooks, which she calls coming from the Jeffrey Epstein empire.",
+      "claim": "Reading a viewer comment about Maxwell-published textbooks, the host says Ghislaine Maxwell's father began alongside, she thinks, Macmillan (\"don't quote me\"), publishing school textbooks, which she calls coming from the Jeffrey Epstein empire.",
       "anchored_artifacts": [
         "A-2822.1"
       ],

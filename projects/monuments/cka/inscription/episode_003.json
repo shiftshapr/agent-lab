@@ -1994,7 +1994,7 @@
       "@id": "C-1150",
       "ref": "C-1150",
       "label": "Robinson mother recognized shooter from news photo",
-      "claim": "Robinson's mother saw the news photo of the shooter on September 11 and stated it looked like her son; she called her husband to confirm.",
+      "claim": "Per the probable cause statement the host reads, Robinson's mother told police she saw the news photo of the shooter on September 11 and thought it looked like her son; she called her son, then expressed concern to her husband.",
       "anchored_artifacts": [
         "A-1095.5"
       ],
@@ -2013,7 +2013,7 @@
       "@id": "C-1151",
       "ref": "C-1151",
       "label": "Robinson father matched rifle to gifted weapon",
-      "claim": "Robinson's father agreed the shooter photo looked like his son and believed the rifle matched a rifle gifted to his son; he asked for a photo and Robinson did not respond.",
+      "claim": "Per the probable cause statement the host reads, Robinson's father reported that he agreed the shooter photo looked like his son and believed the rifle matched a rifle gifted to his son; he asked for a photo of that rifle and Robinson did not respond.",
       "anchored_artifacts": [
         "A-1095.6"
       ],
@@ -2084,7 +2084,6 @@
       "transcript_snippet": "Drop what you are doing and look under my keyboard...I had the opportunity to take out Charlie Kirk",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-2",
         "N-40",
         "N-54",
         "N-1"
@@ -2222,8 +2221,6 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-37",
-        "N-66",
-        "N-56",
         "N-1"
       ]
     },
@@ -2252,7 +2249,7 @@
       "@id": "C-1162",
       "ref": "C-1162",
       "label": "Host Says Kirk Vented About Israel Pressure on Megyn Kelly August 6",
-      "claim": "The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and the host adds that he was receiving texts calling him an antisemite and had raised Mossad/Epstein speculation.",
+      "claim": "The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and says he and Kelly speculated about Jeffrey Epstein possibly being a Mossad agent or asset, which has been turned around on him as anti-semitism.",
       "anchored_artifacts": [
         "A-1099.1"
       ],
@@ -2297,7 +2294,7 @@
       "@id": "C-1164",
       "ref": "C-1164",
       "label": "Charlie Kirk wrote letter to Netanyahu in May",
-      "claim": "Bill Ackman referenced a May letter from Charlie Kirk to Netanyahu as 'glowing'.",
+      "claim": "The host says the letter Charlie Kirk wrote Benjamin Netanyahu in May was glowing, that he was overcome with passion and said he loved Israel, and that she finds it weird no one addresses the substance of the claims.",
       "anchored_artifacts": [
         "A-1100.1"
       ],
@@ -2310,8 +2307,7 @@
       "uncertainty_note": "Letter not shown; only paraphrased by Ackman.",
       "mentions_person_refs": [
         "N-1",
-        "N-36",
-        "N-37"
+        "N-36"
       ]
     },
     {
@@ -2319,7 +2315,7 @@
       "@id": "C-1165",
       "ref": "C-1165",
       "label": "Laura Loomer pressured Charlie to distance from Tucker Carlson",
-      "claim": "Laura Loomer posted a tweet thread the week before Charlie Kirk's death pressuring him to distance himself from Tucker Carlson and warning it would ruin his company.",
+      "claim": "The host says Laura Loomer tweeted a thread a week before Charlie Kirk died about how Kirk had to distance himself from Tucker Carlson, calls her one of the people creating online pressure, and paraphrases the thread as saying Kirk was going to ruin his company.",
       "anchored_artifacts": [
         "A-1103.1"
       ],
@@ -2515,8 +2511,8 @@
       "@type": "Claim",
       "@id": "C-3634",
       "ref": "C-3634",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
-      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "label": "Host Thanks Viewers for Buying CIA Hats",
+      "claim": "The host thanks viewers who went to her website and bought a hat, \"one of our CIA hats\", and a t-shirt to support the show.",
       "anchored_artifacts": [
         "A-2481.1"
       ],
@@ -3540,7 +3536,7 @@
       "@id": "C-13531",
       "ref": "C-13531",
       "label": "Indictment Quotes Robinson Saying a Neighbor Who Is a Deputy Was There",
-      "claim": "Reading the indictment, the host says Robinson texted that one of his neighbors was there and was a deputy for the sheriff, which differs from the earlier account of a family friend who is a retired deputy sheriff.",
+      "claim": "Reading the indictment, the host says Robinson texted that one of his neighbors was there and was a deputy for the sheriff.",
       "anchored_artifacts": [
         "A-1095.8",
         "A-1095.7"
@@ -3608,7 +3604,7 @@
       "@id": "C-13534",
       "ref": "C-13534",
       "label": "Host Says the Messages Are Clearly Doctored",
-      "claim": "The host says that, in her view, the published messages are clearly doctored, and that authorities may be doing so to protect Tyler or be forthcoming only in part, which she finds unacceptable.",
+      "claim": "The host says the messages are, in her view, clearly doctored, that they could decide why they are doing that, for example to present Tyler as forthcoming and protect him in some capacity, and that she finds this unacceptable.",
       "anchored_artifacts": [
         "A-1095.8"
       ],
@@ -3901,7 +3897,7 @@
       "@id": "C-13547",
       "ref": "C-13547",
       "label": "Host Says Seth Dillon Is Making Frantic Calls",
-      "claim": "The host says there have been frantic calls from Seth Dillon.",
+      "claim": "The host, continuing her remark about donors making frantic calls, says \"Frantic calls from Seth Dillon. Oh my god,\" without citing any specific call.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10033",
@@ -4547,7 +4543,7 @@
       "@id": "C-13575",
       "ref": "C-13575",
       "label": "Host Says She Was Flooded With Messages After That Tweet, Including From Dave Rubin",
-      "claim": "The host says that after the genocide tweet she was suddenly flooded with messages from people, naming Dave Rubin, asking what she meant and saying they could help her.",
+      "claim": "The host says that after the genocide tweet she was suddenly flooded with messages from people, naming Dave Rubin, and that when she asked what they meant by that, they texted her that they could help her.",
       "anchored_artifacts": [
         "A-2516.1"
       ],
@@ -4666,7 +4662,7 @@
       "@id": "C-13580",
       "ref": "C-13580",
       "label": "Host Likens the Pressure on Kirk to a Hostile Takeover",
-      "claim": "The host says that, using a corporate term, it feels to her a bit like a hostile takeover: Charlie built the company organically on his honest ideas, the company got a lot of money, and then his ideas were pressed to change.",
+      "claim": "The host says that, using a corporate term, it feels to her a bit like a hostile takeover: Charlie built the company organically on his honest ideas, the company got a lot of money, and his ideas were starting to change or maybe add more color while he was getting financial threats.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -4734,7 +4730,7 @@
       "@id": "C-13583",
       "ref": "C-13583",
       "label": "Host Relays Employee Tip That TPUSA Never Holds a Weekend Summit Without Publicizing It",
-      "claim": "The host relays a tip from someone who says they worked for Turning Point for two years: that Turning Point has never done a weekend summit without publicizing it, as the Hamptons weekend was not publicized until Bill Ackman posted the itinerary.",
+      "claim": "The host relays a tip from someone who says they worked for Turning Point for two years, asking whether Turning Point has ever held a weekend summit without publicizing it, and noting that the Hamptons attendees never mentioned it being a Turning Point weekend until Bill Ackman spoke openly about it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -4975,7 +4971,7 @@
       "@id": "C-13594",
       "ref": "C-13594",
       "label": "Viewer Comment Says No 22-Year-Old Uses Perfect Grammar in a Text Chain",
-      "claim": "The host reads a viewer comment from Chips saying the text chain from Tyler to his boyfriend cannot be real because no 22-year-old uses perfect grammar with commas and periods, and the host agrees she wants more on the chain.",
+      "claim": "The host reads a viewer comment from Chips about the text chain from Tyler to his boyfriend saying no 22-year-old uses perfect grammar in a text chain, with commas and periods, and the host says something about the text chain tells her she needs a little more about it.",
       "anchored_artifacts": [
         "A-3267.1"
       ],
@@ -4999,7 +4995,7 @@
       "@id": "C-13595",
       "ref": "C-13595",
       "label": "Viewer Comment Says Robinson Was Worried About Leaving Evidence but Texts Every Detail",
-      "claim": "The host reads a viewer comment from Bible with Bell saying not to believe the texts for a second because he was worried about leaving evidence but then conveniently texted every detail, and the host adds that she does not want to leave evidence except an elaborate text chain that explains motive and that he acted alone.",
+      "claim": "The host reads a viewer comment from Bible with Bell saying not to believe the texts for a second because he was worried about leaving evidence but then conveniently texted every detail, and the host sarcastically voices him saying he does not want to leave any evidence other than a very elaborate text chain that gives his motive and says he acted alone.",
       "anchored_artifacts": [
         "A-3267.2"
       ],
@@ -5022,7 +5018,7 @@
       "@id": "C-13596",
       "ref": "C-13596",
       "label": "Host Says the Text Chain Feels a Little Fake",
-      "claim": "The host says it feels a little fake and gay to her, and that there will be no fakeness in this investigation, referring to the elaborate text chain.",
+      "claim": "The host says it feels a little fake and gay to her, and that there will be no fakeness and no gayness in this investigation, referring to the elaborate text chain.",
       "anchored_artifacts": [
         "A-1095.8"
       ],

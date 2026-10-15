@@ -14,17 +14,17 @@
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11375, N-11376, N-11377
   - Hole-minted Nodes (reintro-ep018): N-10454, N-10799
-  - Tip-minted Nodes (reintro-ep018): N-879, N-11337
+  - Tip-minted Nodes (reintro-ep018): N-877, N-11337
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-13871–C-13935
-  - New Nodes Introduced: N-177, N-178, N-179, N-181, N-182, N-10181, N-10182, N-10183, N-10185, N-10186, N-10188, N-10189, N-10190
-  - Reused Nodes Appearing: N-10180, N-10184, N-10187, N-22, N-36, N-38, N-46, N-73, N-127, N-10000, N-10006, N-10012, N-10014, N-10027, N-10055, N-10063, N-10065, N-10095, N-10134, N-10139, N-10164, N-10169, N-10172, N-10175, N-10192, N-10315, N-10350
+  - New Nodes Introduced: N-176, N-177, N-178, N-180, N-10181, N-10182, N-10183, N-10185, N-10186, N-10188, N-10189, N-10190
+  - Reused Nodes Appearing: N-10180, N-10184, N-10187, N-22, N-36, N-38, N-46, N-73, N-126, N-10000, N-10006, N-10012, N-10014, N-10027, N-10055, N-10063, N-10065, N-10095, N-10134, N-10139, N-10164, N-10169, N-10172, N-10175, N-10192, N-10315, N-10350
 
 This episode advances the medical and evidentiary thread of the investigation by introducing what the host describes as multi-source verified intelligence about the trajectory of the bullet recovered from Charlie Kirk. The host reads aloud an Andrew Kolvet tweet purporting to convey a surgeon's account of the bullet path, then asserts – as a fact-checked finding – that Charlie was shot from the front, that the bullet did not exit, and that no .30-06 projectile was logged on the death certificate., N-11
 
 A second investigative strand focuses on the on-the-ground witnesses: the viral clip of a witness being physically prevented from speaking, Fox News interviews with event volunteer Cooper Brown (affiliated with the Leadership Institute), and Jason Chaffetz's eyewitness statement locating the shot close and ahead of Charlie. The host additionally raises questions about Caldera Engineering's staffing and corporate history.
 
-A third strand concerns flight activity on the day of the shooting: a military tail-numbered plane (N1098L) allegedly contracted by Las Vegas Aviation LLC, and a second plane associated with Derek Maxwell whose ADSB transponder status is contested between Kash Patel and Derek Maxwell's public statements. The episode closes with a Josh Hammer text-message exchange and commentary on the Israel/Hamas peace announcement.
+A third strand concerns flight activity on the day of the shooting: a military tail-numbered plane (N1098L) allegedly contracted by Las Vegas Aviation LLC, and a second plane associated with Derek Maxfield whose ADSB transponder status is contested between Kash Patel and Derek Maxfield's public statements. The episode closes with a Josh Hammer text-message exchange and commentary on the Israel/Hamas peace announcement.
 
 The episode is structurally important as the first episode in the series to present the front-shot / no .30-06 finding as a "verified" assertion, and to introduce the dual-plane line of inquiry.
 
@@ -178,7 +178,7 @@ Video Timestamp: 00:08:44–00:09:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1430, C-1431, N-177, N-10182*
+*Related: C-1430, C-1431, N-176, N-10182*
 
 ---
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:14:50–00:15:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-177, N-178, N-10182*
+*Related: C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-176, N-177, N-10182*
 
 ---
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:23:00–00:24:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1438, N-178, N-10180, N-10181*
+*Related: C-1438, N-177, N-10180, N-10181*
 
 ---
 
@@ -270,7 +270,7 @@ Video Timestamp: 00:49:13–00:50:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1458, N-182*
+*Related: C-1458, N-180*
 
 ---
 
@@ -299,7 +299,7 @@ Video Timestamp: 00:19:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13888, N-3, N-179*
+*Related: C-13888, N-3, N-178*
 
 ---
 
@@ -370,7 +370,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-177** Cooper Brown
+**N-176** Cooper Brown
 
 Event volunteer who held the microphone at the Utah Valley event and gave multiple Fox News interviews; identified by host as not a TPUSA employee, not a UVU student, and as affiliated with the Leadership Institute.
 
@@ -379,11 +379,11 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1252.1, A-1253.1, A-1253.2, C-1430, C-1431, C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-178, N-10182*
+*Related: A-1252.1, A-1253.1, A-1253.2, C-1430, C-1431, C-1432, C-1433, C-1434, C-1435, C-1436, C-1437, N-177, N-10182*
 
 ---
 
-**N-178** Jason Chaffetz
+**N-177** Jason Chaffetz
 
 Former politician and Fox News contributor who attended the Utah Valley event and provided eyewitness account that the shot came from close proximity straight ahead.
 
@@ -396,7 +396,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-179** Deidra Weiss Amaro
+**N-178** Deirdre Amaro
 
 Utah State Medical Examiner as of May 2024, per host's research; reportedly from Missouri with prior California work.
 
@@ -409,7 +409,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-181** Derek Maxwell
+**N-94** Derek Maxfield
 
 Public figure (per host) who publicly addressed the second plane's ADSB transponder status, disputing Kash Patel's account.
 
@@ -422,7 +422,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-166** Matt Walsh
+**N-165** Matt Walsh
 
 Commentator whose reaction to the released Josh Hammer / Charlie Kirk text exchange is read/played.
 
@@ -435,20 +435,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-47** Ghislaine Maxwell
-
-Referenced as Derek Maxwell's wife and as having co-run a beauty company later sold.
-
-Evidence Count: 0
-Claim Count: 0
-Episode Count: 1
-Investigative Pressure: Low
-
-*Related: C-1448, N-181*
-
----
-
-**N-182** Jared Kushner
+**N-180** Jared Kushner
 
 Featured via Harvard speech clip regarding Gaza's "waterfront property."
 
@@ -470,7 +457,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1251.1, A-1254.1, C-1425, C-1426, C-1427, N-14, N-178*
+*Related: A-1251.1, A-1254.1, C-1425, C-1426, C-1427, N-14, N-177*
 
 ---
 
@@ -483,7 +470,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1254.1, A-1255.1, C-1438, C-1439, C-1460, N-178*
+*Related: A-1254.1, A-1255.1, C-1438, C-1439, C-1460, N-177*
 
 ---
 
@@ -496,7 +483,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1252.1, A-1253.1, A-1253.2, C-1430, C-1431, C-1432, C-1436, C-1437, N-177, N-178*
+*Related: A-1252.1, A-1253.1, A-1253.2, C-1430, C-1431, C-1432, C-1436, C-1437, N-176, N-177*
 
 ---
 
@@ -509,7 +496,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1440, N-179*
+*Related: C-1440, N-178*
 
 ---
 
@@ -539,16 +526,16 @@ Investigative Pressure: Medium
 
 ---
 
-**N-10186** Plane 888 / Maxwell Plane Investigation
+**N-10186** Plane 888 / Maxfield Plane Investigation
 
-Persistent target: ADSB transponder status, FBO destination change, and conflicting accounts from Kash Patel and Derek Maxwell.
+Persistent target: ADSB transponder status, FBO destination change, and conflicting accounts from Kash Patel and Derek Maxfield.
 
 Evidence Count: 4
 Claim Count: 5
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1448, C-1449, C-1450, C-1451, C-1452, C-1453, C-1454, N-181, N-47*
+*Related: C-1448, C-1449, C-1450, C-1451, C-1452, C-1453, C-1454, N-94*
 
 ---
 
@@ -561,7 +548,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1256.1, C-1455, C-1456, N-14, N-166*
+*Related: A-1256.1, C-1455, C-1456, N-14, N-165*
 
 ---
 
@@ -574,7 +561,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1253.1, C-1432, N-177*
+*Related: A-1253.1, C-1432, N-176*
 
 ---
 
@@ -685,7 +672,7 @@ Steele family member the host says is big with Caldera Engineering; transcribed 
 
 ---
 
-**N-127** "Nick" (UVU Student – Pseudonym)
+**N-126** "Nick" (UVU Student – Pseudonym)
 
 On-the-ground source whose account of feds implanting memories the host relays.
 
@@ -693,7 +680,7 @@ On-the-ground source whose account of feds implanting memories the host relays.
 
 ---
 
-**N-879** Steve Witkoff
+**N-877** Steve Witkoff
 
 US negotiator the host names with Kushner at the Israel and Hamas talks.
 
@@ -902,10 +889,10 @@ The host's report that a person was said to have been told not to speak to the m
 
 Claim Timestamp: 00:03:37
 
-Claim: Charlie Kirk was shot from the front, and the bullet did not exit his neck, as verified by the host from multiple sources.
+Claim: The host says she is telling viewers 100% that Charlie Kirk was shot from the front and the bullet did not exit, and that she has fact-checked this from multiple sources.
 
 Anchored Artifacts: A-1251.1
-Mentions: N-14, N-1
+Mentions: N-1, N-3
 Related Nodes: N-10180
 Investigative Direction: Obtain autopsy / medical examiner records and forensic bullet trajectory report to verify entry-side determination.
 
@@ -918,7 +905,7 @@ Claim Timestamp: 00:05:03
 Claim: The host says that, as she has fact-checked with multiple sources, a bullet fragment was recovered from Charlie's neck, in line with the shoulder blade near the spine.
 
 Anchored Artifacts: A-1251.1
-Mentions: N-14
+Mentions: N-1, N-3
 Related Nodes: N-10180
 Investigative Direction: Compare against autopsy report and forensic pathology images for exact fragment location.
 
@@ -931,13 +918,13 @@ Claim Timestamp: 00:06:02
 Claim: The host says Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.
 
 Anchored Artifacts: A-1251.1
-Mentions: N-14, N-1
+Mentions: N-1, N-3
 Related Nodes: N-10180
 Investigative Direction: Obtain a certified copy of the death certificate and the medical examiner's full report.
 
 ---
 
-**C-1428** Kolbatz Tweet Substance
+**C-1428** Kolvet Tweet Substance
 
 Claim Timestamp: 00:02:50
 
@@ -970,7 +957,7 @@ Claim Timestamp: 00:08:44
 Claim: A witness in the viral clip stated he was in the third row, heard a shot ring out, looked left and right, and saw Charlie slump with blood coming from the left side of his neck.
 
 Anchored Artifacts: A-1252.1
-Mentions: N-177
+Mentions: 
 Related Nodes: N-10182
 Investigative Direction: Identify the witness and obtain a signed statement consistent with his on-camera description.
 
@@ -980,10 +967,10 @@ Investigative Direction: Identify the witness and obtain a signed statement cons
 
 Claim Timestamp: 00:12:02
 
-Claim: The man who physically pushed/shoved the witness in the viral clip was not a Turning Point USA employee, UVU student, or TPUSA student, but a volunteer.
+Claim: The host says she determined the man who physically pushed/shoved the witness in the viral clip was not a Turning Point USA employee, UVU student, or TPUSA student, but was brought in as a volunteer.
 
 Anchored Artifacts: A-1252.1, A-1253.1
-Mentions: N-177
+Mentions: N-176
 Related Nodes: N-10182
 Investigative Direction: Identify the pusher and verify his institutional affiliation at the time of the event.
 
@@ -996,7 +983,7 @@ Claim Timestamp: 00:13:06
 Claim: Cooper Brown stated on Fox News that he works for the Leadership Institute, which partners with TPUSA, Young Americans for Liberty, and Students for Life on college campuses.
 
 Anchored Artifacts: A-1253.1
-Mentions: N-177
+Mentions: N-176
 Related Nodes: N-10182, N-10188
 Investigative Direction: Confirm Leadership Institute employment records and verify the organization's claimed coalition roles.
 
@@ -1009,7 +996,7 @@ Claim Timestamp: 00:13:06
 Claim: The host says Cooper Brown appeared on Jesse Watters' Fox News program the night of the shooting, and plays a clip of that appearance.
 
 Anchored Artifacts: A-1253.1
-Mentions: N-177
+Mentions: N-176
 Related Nodes: N-10182
 Investigative Direction: Verify timestamp and full segment via Fox News archives.
 
@@ -1022,7 +1009,7 @@ Claim Timestamp: 00:13:58
 Claim: The host says Cooper Brown appeared on Fox News again the day after the shooting, and plays a clip of that appearance.
 
 Anchored Artifacts: A-1253.2
-Mentions: N-177
+Mentions: N-176
 Related Nodes: N-10182
 Investigative Direction: Verify timestamp and full segment via Fox News archives.
 
@@ -1035,7 +1022,7 @@ Claim Timestamp: 00:14:50
 Claim: Cooper Brown stated his event responsibility was managing the microphone – raising and lowering it for student questioners.
 
 Anchored Artifacts: A-1253.2
-Mentions: N-177
+Mentions: N-176
 Related Nodes: N-10182
 Investigative Direction: Cross-reference event staff logs or volunteer rosters provided by organizers.
 
@@ -1048,7 +1035,7 @@ Claim Timestamp: 00:16:16
 Claim: Cooper Brown's public resume lists attendance at a small college in New Hampshire (per host: Southern New Hampshire University) with a politics major.
 
 Anchored Artifacts: A-1253.2
-Mentions: N-177
+Mentions: N-176
 Related Nodes: N-10182
 Investigative Direction: Pull registrar verification or alumni records (subject to FERPA limits).
 
@@ -1058,10 +1045,10 @@ Investigative Direction: Pull registrar verification or alumni records (subject 
 
 Claim Timestamp: 00:16:16
 
-Claim: A same-name person at the named New Hampshire college graduated in the year Cooper Brown claims, but is female and 32 years old, raising identity-verification concerns.
+Claim: The host says that at the small New Hampshire college she found someone with Cooper Brown's name, but it was a girl who graduated in the year his resume gives; separately, the Phoenix-based number she was given links to somebody else, aged 32, with the same last name, and she says she does not know who he is.
 
 Anchored Artifacts: A-1253.2
-Mentions: N-177
+Mentions: N-176
 Related Nodes: N-10182
 Investigative Direction: Confirm whether the female same-name individual is or is not the same person through independent records.
 
@@ -1071,10 +1058,10 @@ Investigative Direction: Confirm whether the female same-name individual is or i
 
 Claim Timestamp: 00:23:00
 
-Claim: Jason Chaffetz stated on Fox News that, being within proximity of the venue, the shot appeared to be "in close proximity straight ahead."
+Claim: Jason Chaffetz stated on Fox News that, "if I had to guess," the shot looked to him like it was "in close proximity straight ahead."
 
 Anchored Artifacts: A-1254.1
-Mentions: N-178
+Mentions: N-177
 Related Nodes: N-10180, N-10181
 Investigative Direction: Confirm full segment and any subsequent Chaffetz statements on the topic.
 
@@ -1093,14 +1080,14 @@ Investigative Direction: Identify and re-interview the two women, and compare ag
 
 ---
 
-**C-1440** Host Says Dr. Deidra Weiss Amaro Was Announced as New Utah State Medical Examiner in May 2024
+**C-1440** Host Says Dr. Deirdre Amaro Was Announced as New Utah State Medical Examiner in May 2024
 
 Claim Timestamp: 00:18:33
 
-Claim: The host says that, per a tip she received, Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and, she thinks, California).
+Claim: The host says that, per a tip she received, Dr. Deirdre Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and, she thinks, California).
 
 Anchored Artifacts: (host-stated; no displayed primary artifact – see Optional Flags)
-Mentions: N-179
+Mentions: N-178
 Related Nodes: N-10183
 Investigative Direction: Locate Utah state announcement and prior employment records.
 
@@ -1159,7 +1146,7 @@ Investigative Direction: Pull Arizona trademark filings and confirm attorney of 
 
 Claim Timestamp: 00:37:31
 
-Claim: The host says a plane with tail number N1098L, seen near Utah on 9/10, was a military aircraft.
+Claim: The host says a plane with tail number N1098L, which she says people have recognized as military and which had been used in the military, flew over Utah around the time of the shooting.
 
 Anchored Artifacts: (host-stated; flight tracking not displayed – see Optional Flags)
 Related Nodes: N-10185
@@ -1191,16 +1178,16 @@ Investigative Direction: Pull ADS-B Exchange / FlightAware historical track for 
 
 ---
 
-**C-1448** Plane 888 – Maxwell Affiliation
+**C-1448** Plane 888 – Maxfield Affiliation
 
 Claim Timestamp: 00:39:09
 
-Claim: A second plane (with "888" in identification per host) is associated with Derek Maxwell, who the host identifies as Ghislaine Maxwell's husband and as having sold a beauty company.
+Claim: The host says a second plane, which she remembers as having '888' in its identification, is the plane of Derek Maxfield and his wife Shirlene Maxfield, who she says sold a beauty company.
 
 Anchored Artifacts: (host-stated – see Optional Flags)
-Mentions: N-47, N-181
+Mentions: N-94
 Related Nodes: N-10186
-Investigative Direction: Verify aircraft registration, ownership, and any link to Derek/Ghislaine Maxwell.
+Investigative Direction: Verify aircraft registration, ownership, and any link to Derek/Shirlene Maxfield.
 
 ---
 
@@ -1232,7 +1219,7 @@ Investigative Direction: Pull historical ADSB / radar track for the aircraft on 
 
 Claim Timestamp: 00:40:07
 
-Claim: Kash Patel publicly stated that plane 888 never stopped transponding.
+Claim: The host says Kash Patel told them plane 888 never stopped transponding.
 
 Anchored Artifacts: (host-stated; Kash Patel public statement not displayed – see Optional Flags)
 Mentions: N-69
@@ -1241,16 +1228,16 @@ Investigative Direction: Locate Kash Patel's original statement (interview, pres
 
 ---
 
-**C-1452** Derek Maxwell – ATC Approval to Stop Transponding
+**C-1452** Derek Maxfield – ATC Approval to Stop Transponding
 
 Claim Timestamp: 00:40:07
 
-Claim: Derek Maxwell publicly stated on Instagram that the air traffic control center had agreed they could stop transponding.
+Claim: The host says Derek Maxfield stated on Instagram that the air traffic control center had agreed they could stop transponding.
 
-Anchored Artifacts: (host-stated; Derek Maxwell Instagram post not displayed – see Optional Flags)
-Mentions: N-181
+Anchored Artifacts: (host-stated; Derek Maxfield Instagram post not displayed – see Optional Flags)
+Mentions: N-94
 Related Nodes: N-10186
-Investigative Direction: Locate Maxwell's original Instagram post and any corroborating ATC logs.
+Investigative Direction: Locate Maxfield's original Instagram post and any corroborating ATC logs.
 
 ---
 
@@ -1295,7 +1282,7 @@ Investigative Direction: Verify release date and source channel.
 
 Claim Timestamp: 00:45:21
 
-Claim: The released texts include a "thank you for your help guys" message (attributed to Charlie Kirk) and Josh Hammer's reply asking what Charlie's "first stop tomorrow" was.
+Claim: The released texts include a "thank you for your help guys" message (attributed to Charlie Kirk) and a reply the host assumes is Josh Hammer's asking what Charlie's "first stop tomorrow" was.
 
 Anchored Artifacts: A-1256.1
 Mentions: N-55, N-1
@@ -1321,10 +1308,10 @@ Investigative Direction: Verify exact post text and time stamp via Trump's Truth
 
 Claim Timestamp: 00:49:13
 
-Claim: At a Harvard appearance on February 15, 2024, Jared Kushner referred to Gaza as "waterfront property" and stated he would "move the people out and then clean it up."
+Claim: At a Harvard appearance on February 15, 2024 (per the host), Jared Kushner said Gaza's "waterfront property" could be very valuable and that "from Israel's perspective, I would do my best to move the people out and then clean it up."
 
 Anchored Artifacts: A-1258.1
-Mentions: N-182
+Mentions: N-180
 Investigative Direction: Verify full Harvard event recording and transcript.
 
 ---
@@ -1333,10 +1320,10 @@ Investigative Direction: Verify full Harvard event recording and transcript.
 
 Claim Timestamp: 00:53:09
 
-Claim: The host says Matt Walsh commented that Charlie Kirk's text about leaving the pro-Israel cause felt "too on the nose" to be authentic, suggesting Charlie had been pushed to that statement.
+Claim: The host says Matt Walsh thought Charlie Kirk's text messages were fake because the sentence about leaving the pro-Israel cause felt "too on the nose"; the host adds her own view that it suggests Charlie had been pushed to write it.
 
 Anchored Artifacts: A-1259.1
-Mentions: N-166, N-1
+Mentions: N-165, N-1
 Related Nodes: N-10187
 Investigative Direction: Verify clip source and full Matt Walsh segment.
 
@@ -1349,7 +1336,7 @@ Claim Timestamp: 00:10:16
 Claim: The host says Andrew Kolvet was not the man in the viral push video, and that she spoke to him and he flew into Utah after the shooting and was not on the ground.
 
 Anchored Artifacts: A-1252.1
-Mentions: N-14, N-177
+Mentions: N-14
 Investigative Direction: Verify Kolbatz's travel timeline via receipts or communications.
 
 ---
@@ -1378,7 +1365,7 @@ Transcript Snippet: Last show until I take a much-needed break, and it's going t
 
 Anchored Artifacts: 
 Mentions: N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare the episode release schedule on the channel with the break the host announces.
 
 ---
@@ -1500,7 +1487,7 @@ Investigative Direction: Identify the witness and interview him about where he w
 
 Claim Timestamp: 00:10:16
 
-Claim: The host says that after she posted a picture asking to identify a person from the viral clip, his friend left a nasty comment and then messaged her privately that he does not speak to media because he was instructed not to, having got the Turning Point chapter into trouble before.
+Claim: The host says that after she posted a picture asking to identify a person from the viral clip, his friend left a nasty comment and then messaged her privately that, paraphrasing, he does not want to speak to media because he has been instructed not to, having got the Turning Point chapter into trouble before.
 
 Transcript Snippet: He doesn't want to speak to media because he's been instructed not to speak to media because he's gotten the Turning Point chapter into trouble before for speaking out in the media
 
@@ -1553,7 +1540,7 @@ Claim: The host says the man who did the shoving is a young man named Cooper, wh
 Transcript Snippet: that young man, whose name is Cooper, and I'm very comfortable telling you this because well, he went on Fox News that very night to provide eyewitness testimony to exactly what he heard and what he saw
 
 Anchored Artifacts: A-1253.1
-Mentions: N-177, N-3
+Mentions: N-176, N-3
 Related Nodes: N-10182, N-10006
 Tags: relevance:core
 Investigative Direction: Compare the viral shoving footage with Cooper Brown's Fox News appearances to confirm the two are the same person.
@@ -1569,7 +1556,7 @@ Claim: The host says one emailer claimed to be Cooper Brown's cousin and supplie
 Transcript Snippet: One email said, "Hey, I'm actually his cousin and here is his number." Now, I noticed that that cousin happens to live in Phoenix, Arizona.
 
 Anchored Artifacts: 
-Mentions: N-177, N-3
+Mentions: N-176, N-3
 Related Nodes: N-10182
 Tags: relevance:context
 Investigative Direction: Review the original email and verify the sender's relationship to Cooper Brown without publishing private contact details.
@@ -1585,7 +1572,7 @@ Claim: The host says the number given to her was Phoenix-based and was linked to
 Transcript Snippet: a Phoenix-based number. So, I'm going, "Who is this person? And why is it linking that number to somebody else who's 32 years old and has that same last name?"
 
 Anchored Artifacts: 
-Mentions: N-177, N-3
+Mentions: N-176, N-3
 Related Nodes: N-10182
 Tags: relevance:context
 Investigative Direction: Reconcile the number's carrier and listing records with Cooper Brown's stated Utah and New Hampshire history; the existing C-1437 may blend this with the same-name graduate.
@@ -1601,7 +1588,7 @@ Claim: The host says holding the microphone at Utah events is supposed to be an 
 Transcript Snippet: That's supposed to be like kind of an honor at Utah events. Turning Point USA kids work really hard to put these events on.
 
 Anchored Artifacts: A-1253.2
-Mentions: N-177, N-3
+Mentions: N-176, N-3
 Related Nodes: N-10182, N-10000
 Tags: relevance:context
 Investigative Direction: Obtain the UVU event volunteer roster and microphone assignment, and ask UVU chapter students who normally held the microphone.
@@ -1628,12 +1615,12 @@ Investigative Direction: Obtain the autopsy and ballistics findings and the audi
 
 Claim Timestamp: 00:18:33
 
-Claim: The host says she received an emailed tip insisting that the medical examiner is a person to look into further, and that the examiner is Dr. Deidra Weiss Amaro.
+Claim: The host says she received an emailed tip insisting that the medical examiner is a person to look into further, and that the examiner is Dr. Deirdre Amaro.
 
 Transcript Snippet: this person an email insisted to me that this is somebody that we should look further into. That's the medical examiner.
 
 Anchored Artifacts: 
-Mentions: N-3, N-179
+Mentions: N-3, N-178
 Related Nodes: N-10183
 Tags: relevance:core
 Investigative Direction: Review the tip email for its basis and verify the examiner's career record independently.
@@ -1649,7 +1636,7 @@ Claim: The host asks viewers who know the Utah medical examiner personally or ha
 Transcript Snippet: And uh if you've got something, you know this her personally, got a story, please do send it to us at mortips@candisowens. com.
 
 Anchored Artifacts: A-3284.1
-Mentions: N-3, N-179
+Mentions: N-3, N-178
 Related Nodes: N-10183
 Tags: relevance:core
 Investigative Direction: Record tip volume and follow-up in later episodes where the host cites emailed tips about the examiner.
@@ -1763,7 +1750,7 @@ Claim: The host says Jason Chaffetz, a former politician and Fox News contributo
 Transcript Snippet: He apparently was in communication with Charlie ahead of the event
 
 Anchored Artifacts: 
-Mentions: N-178, N-1, N-3
+Mentions: N-177, N-1, N-3
 Related Nodes: N-10006
 Tags: relevance:context
 Investigative Direction: Ask Chaffetz or his office what contact he had with Charlie or his team before 9/10.
@@ -1779,7 +1766,7 @@ Claim: The host says Chaffetz, appearing on a couple of Fox shows, rebutted the 
 Transcript Snippet: he was rebutting, cuz he was on a couple of shows, rebutting the idea that the shot was from far away.
 
 Anchored Artifacts: A-1254.1
-Mentions: N-178
+Mentions: N-177
 Related Nodes: N-10180, N-10181, N-10006
 Supports: C-1438
 Tags: relevance:core
@@ -1796,7 +1783,7 @@ Claim: The host says that on Fox News, when others say the shot came from the Lo
 Transcript Snippet: when he's on Fox News and people are saying the shot was from like the Losee building, he doesn't believe that.
 
 Anchored Artifacts: A-1254.1
-Mentions: N-178
+Mentions: N-177
 Related Nodes: N-10180, N-10006
 Tags: relevance:core
 Investigative Direction: Confirm in the Fox transcripts that Chaffetz rejects the building theory; the building name is transcribed as Losee and is probably the Losee Center.
@@ -1812,7 +1799,7 @@ Claim: The host says Chaffetz has been honest about his background and that his 
 Transcript Snippet: His parents are in the government. They're literally in the FBI.
 
 Anchored Artifacts: 
-Mentions: N-178
+Mentions: N-177
 Related Nodes: N-10014
 Tags: relevance:context
 Investigative Direction: Verify the claim against Chaffetz's public biography; the statement is odd and may be garbled in transcription.
@@ -1877,7 +1864,7 @@ Claim: The host says that among the many adults interviewed, no UVU students app
 Transcript Snippet: There's no UVU kids that were in the mainstream media.
 
 Anchored Artifacts: 
-Mentions: N-177, N-3
+Mentions: N-176, N-3
 Related Nodes: N-10315, N-10012
 Tags: relevance:core
 Investigative Direction: Survey network coverage of 9/10 and count interviewees with verified UVU enrollment.
@@ -1893,7 +1880,7 @@ Claim: The host says that Nick, a source on the ground, told her one of the firs
 Transcript Snippet: one of the first things he said to me was that I felt like they were coming around the feds were coming around and they were trying to implant memories into our heads.
 
 Anchored Artifacts: 
-Mentions: N-127, N-3
+Mentions: N-126, N-3
 Related Nodes: N-10315, N-10014
 Tags: relevance:core
 Investigative Direction: Interview Nick and other students about who approached them after the shooting, what was said and whether they identified themselves.
@@ -1909,7 +1896,7 @@ Claim: The host says Nick told her unfamiliar people were walking around saying 
 Transcript Snippet: there were these people walking around that we didn't recognize and they were like you heard one shot you heard we heard one shot we heard one shot.
 
 Anchored Artifacts: 
-Mentions: N-127, N-3
+Mentions: N-126, N-3
 Related Nodes: N-10315
 Tags: relevance:core
 Investigative Direction: Collect other students' accounts of being approached and identify the people through badge, uniform or footage.
@@ -2024,7 +2011,7 @@ Transcript Snippet: I'd like to hear from you. Again, more tips at candaceowens.
 Anchored Artifacts: A-3284.2
 Mentions: N-3
 Related Nodes: N-10065, N-10184
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Record tip volume and follow-up in later episodes where the host cites emailed tips about Caldera.
 
 ---
@@ -2182,7 +2169,7 @@ Claim: The host says Steve Witkoff and Jared Kushner arrived Wednesday morning t
 Transcript Snippet: They arrived on Wednesday morning to represent the US negotiators from Israel and Hamas and the mediators from Qatar and Egypt and Turkey also participated
 
 Anchored Artifacts: 
-Mentions: N-879, N-182, N-3
+Mentions: N-877, N-180, N-3
 Related Nodes: N-11375, N-10063
 Tags: relevance:tangential
 Investigative Direction: Check the participants and arrival timing against press reports of the talks.
@@ -2214,7 +2201,7 @@ Claim: The host says Jared Kushner will financially benefit from whatever is bui
 Transcript Snippet: Jared Kushner is is involved in He will financially benefit from whatever they build in its place.
 
 Anchored Artifacts: A-1258.1
-Mentions: N-182, N-3
+Mentions: N-180, N-3
 Related Nodes: N-10063
 Tags: relevance:tangential
 Investigative Direction: Look for any Kushner-linked investment or development vehicle tied to Gaza reconstruction.
@@ -2246,7 +2233,7 @@ Claim: The host says that in the Charlie Kirk text message that struck Matt Wals
 Transcript Snippet: I have no choice but to leave the pro-Israel cause.
 
 Anchored Artifacts: 
-Mentions: N-1, N-166, N-3
+Mentions: N-1, N-165, N-3
 Related Nodes: N-10187
 Tags: relevance:core
 Investigative Direction: Locate the full Charlie Kirk text thread containing that sentence and establish its date and recipient; it is not in the A-1256.1 exchange as read.
@@ -2262,7 +2249,7 @@ Claim: In the clip the host plays, Matt Walsh says the pro-Israel side is losing
 Transcript Snippet: I've never seen any side of any argument lose this much support this quickly.
 
 Anchored Artifacts: A-1259.1
-Mentions: N-166
+Mentions: N-165
 Related Nodes: N-10187
 Tags: relevance:context
 Investigative Direction: Locate the original Walsh segment and compare with polling on US support for Israel.

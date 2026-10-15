@@ -1,0 +1,760 @@
+[
+ {
+  "claim": "C-1595",
+  "episode": 25,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Grok's answer is relayed in a viewer comment ('Jennifer K writes just asked Grock...'), not read from Grok by the host.",
+  "fix": {
+   "claim": "A viewer comment the host reads says that Grok (xAI), when asked, said Israel and Egypt coordinate on intelligence operations, calling the cooperation unprecedented since the 1979 peace treaty, with intel chiefs meeting often and sharing real-time data."
+  }
+ },
+ {
+  "claim": "C-6552",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6553",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6554",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6555",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6556",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6557",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6558",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6559",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6560",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6561",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6562",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6563",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6564",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6565",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6566",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6567",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6568",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6569",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6570",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6571",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6572",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6573",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6574",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6575",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6576",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6577",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6578",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6579",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Kash Patel (only 'the Trump administration'); N-69 is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-6580",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6581",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6582",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Drops Tucker's qualifier 'not of all Israelis by the way, and certainly not of all Jews'.",
+  "fix": {
+   "claim": "In the clip played, Tucker Carlson says the Israeli position, not of all Israelis and certainly not of all Jews, but of the Israeli government and a couple of its ministers who say it out loud all the time, is that everybody related to a terrorist shares in his guilt, which he calls collective punishment."
+  }
+ },
+ {
+  "claim": "C-6583",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6584",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6585",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6586",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6587",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6588",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6589",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6590",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6591",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'country A... B is Egypt', not 'second largest'; reasonable reading.",
+  "fix": {}
+ },
+ {
+  "claim": "C-6592",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6593",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6594",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6595",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'Tik Tok is hitting us for videos'; 'with penalties' is added.",
+  "fix": {
+   "claim": "The host says TikTok is hitting 'us' for videos talking about the Egyptian planes, which she calls very strange."
+  }
+ },
+ {
+  "claim": "C-6596",
+  "episode": 25,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript says 'Israel's moderator'; claim reads TikTok's, plausible. unresolved wording.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1598",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1599",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'they immediately approve that request and they schedule it as his first stop some six weeks later'; claim says approved six weeks later.",
+  "fix": {
+   "claim": "The host says a UVU request for Charlie Kirk to speak on campus was received in mid-July 2025 and immediately approved, with the event scheduled as his first stop some six weeks later for September 2025, deviating from the standard TPUSA multi-month planning window."
+  }
+ },
+ {
+  "claim": "C-1600",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1601",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says the segment 'apparently happened in July'; hedge dropped, and it is a clip the host plays.",
+  "fix": {
+   "claim": "In a CNN clip the host plays, which she says apparently aired in July, panelists call Candace Owens \"disgusting,\" \"anti-semite\" and \"anti-gay\" and say she has said disgusting things about the history of slavery."
+  }
+ },
+ {
+  "claim": "C-1602",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Cooper says Fine 'bragged about not washing his hands after he had a handshake with Netanyahu'; 'anti-Netanyahu-handshake' reverses it. Netanyahu (N-36) is named but not in Mentions.",
+  "fix": {
+   "claim": "In a clip the host plays, Brett Cooper says Randy Fine bragged about not washing his hands after a handshake with Netanyahu, has repeatedly introduced bills to criminalize anti-semitism, obviously cares more about Israel than principles like free speech, and should move to Israel.",
+   "mentions": [
+    "N-225",
+    "N-226",
+    "N-36"
+   ]
+  }
+ },
+ {
+  "claim": "C-1603",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'Seems like pretty sound advice' about moving to Israel, not Cooper's whole characterization.",
+  "fix": {
+   "claim": "The host calls Brett Cooper's advice to Randy Fine to move to Israel \"pretty sound advice\" and adds, \"Rather than trying to make this country Israel, why don't you just go live in Israel?\""
+  }
+ },
+ {
+  "claim": "C-1604",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim span 19:39 starts late; hypocrisy remark is ~19:10, content continues through 20:10.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1605",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Endorsement is implicit ('She's saying something sensible'), not explicit.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1606",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host reads 'okay, white Candace'; 'What is a Nazi then? How does that make any sense?' is the host's own commentary, not the post.",
+  "fix": {
+   "claim": "The host shows a post she attributes to Aaron Wexler that refers to Brett Cooper as \"white Candace\"; the host then asks \"What is a Nazi then?\" and why Cooper is being called that."
+  }
+ },
+ {
+  "claim": "C-1607",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1608",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1609",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Neff gives no direction Mikey ran (host later says left toward parking lot). Transcript 'Robin McCoy' is Rob McCoy, confirmed (genzstars.com/pastor-rob-mccoy).",
+  "fix": {
+   "claim": "In a clip the host plays, Blake Neff says he was next to Mikey McCoy when the shot occurred, that Mikey's lip was quivering, and that within about a minute Mikey called Erika Kirk and then his dad, Rob McCoy.",
+   "names": [
+    {
+     "wrong": "Robin McCoy",
+     "right": "Rob McCoy",
+     "source": "https://genzstars.com/pastor-rob-mccoy/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1610",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host argues Neff's account conflicts with footage ('not a true account'), not that it is internally inconsistent; she says Neff may not be lying.",
+  "fix": {
+   "claim": "The host says Blake Neff's account conflicts with footage of Mikey McCoy's movement and phone posture, says Neff might think he is telling the truth, and questions how the described calls to Erika and Rob McCoy could be so brief."
+  }
+ },
+ {
+  "claim": "C-1611",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Headline read: 'Laura Loomer, a Trump ally, says she has a new Pentagon press pass'; claim drops 'says'.",
+  "fix": {
+   "claim": "A news headline the host reads says Laura Loomer, described as a Trump ally, says she has a new Pentagon press pass."
+  }
+ }
+]

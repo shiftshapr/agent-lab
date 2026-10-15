@@ -1,0 +1,813 @@
+[
+ {
+  "claim": "C-3639",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3640",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"emailing tips\" and \"parent\" not said; host says feds should let mommy sleuths take over and regular people are sending tips.",
+  "fix": {
+   "claim": "The host says that, to restore credibility, the feds should let the \"mommy sleuths\" take over, and that regular people around the world are sending tips."
+  }
+ },
+ {
+  "claim": "C-3717",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10717",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10718",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10719",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10720",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10721",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"how far he was\" - \"from the stage\" is added.",
+  "fix": {
+   "claim": "The host says she located George Zinn in the crowd, finds it suspicious how far he was and that he was then taken through a pathway to the same area where Charlie was taken to the car, and credits a viewer for the photo."
+  }
+ },
+ {
+  "claim": "C-10722",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10723",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10724",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10725",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10726",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Sarcastic list of \"federal miracles\"; \"only\" a photo is added; \"lover took a picture of it\".",
+  "fix": {
+   "claim": "The host says, sarcastically listing what she would have to accept as a federal miracle, that Tyler Robinson happened to leave a letter that has since been disappeared, and that his lover took a picture of it.",
+   "label": "Host says Robinson's letter has disappeared and his partner photographed it"
+  }
+ },
+ {
+  "claim": "C-10727",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10728",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript lists learning of the UVU house and looking into witnesses; no \"which led her\".",
+  "fix": {
+   "claim": "The host says that she and viewers learned the house next door to the event site has been vacant and is owned by Utah Valley University, and that they then began looking into the witnesses."
+  }
+ },
+ {
+  "claim": "C-10729",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10730",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Speculation about valves and pipelines under Charlie bears on the shooting theory; context not tangential.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-10731",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10732",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10733",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10734",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10735",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10736",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Falling-out with Charlie is background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-10737",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10738",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10739",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Awesome Jew (N-96) but names Charlie Kirk (N-1).",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-38",
+    "N-55"
+   ]
+  }
+ },
+ {
+  "claim": "C-10740",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10741",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10742",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"Ammy Kak\" is Ami Kozak (2023 interview on her show).",
+  "fix": {
+   "claim": "The host says the friend in the thread was reacting to her conversation with Zionist guest Ami Kozak and that Charlie probably told him to watch it to see she is not antisemitic.",
+   "names": [
+    {
+     "wrong": "Ammy Kak",
+     "right": "Ami Kozak",
+     "source": "https://jewishjournal.com/?p=365132"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-10743",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Falling-out rebuttal is context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-10744",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "AmFest speaking dispute is context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-10745",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Charlie Kirk (N-1) not named in claim; only Megyn Kelly and host.",
+  "fix": {
+   "mentions": [
+    "N-46",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-10746",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10747",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Speaker of the answer is ambiguous in transcript; claim hedges \"appears\".",
+  "fix": {}
+ },
+ {
+  "claim": "C-10748",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10749",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10750",
+  "episode": 7,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"there once was a president... dangerous conversation to be hosting\" is Charlie in the town hall clip (40:53 host: \"he is in his own words\").",
+  "fix": {
+   "claim": "In the town hall clip the host plays, Charlie says there once was a president who suggested the precursor to AIPAC should register under FARA and who then got shot in a moving vehicle in broad daylight, and that this is a dangerous conversation to be hosting.",
+   "label": "Charlie says in clip a president who proposed FARA registration for AIPAC precursor was shot"
+  }
+ },
+ {
+  "claim": "C-10751",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10752",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Erika Kirk (N-2) not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-10753",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10754",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Comment is from Friday's episode; children spoke the morning after the assassination, not after the memorial.",
+  "fix": {
+   "claim": "A viewer comment the host reads says the children who spoke \"yesterday\" sounded highly rehearsed on their experience; the host says the comment refers to the children who witnessed the assassination and spoke on the news and the next morning on Good Morning America.",
+   "label": "Viewer says the children who spoke after the assassination sounded rehearsed"
+  }
+ },
+ {
+  "claim": "C-10755",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"Becoming Breit\" is Becoming Brigitte.",
+  "fix": {
+   "claim": "The host tells viewers to watch the series Becoming Brigitte, says a lot of people are hooked, and says of the subject \"she's a dude\".",
+   "names": [
+    {
+     "wrong": "Becoming Breit",
+     "right": "Becoming Brigitte",
+     "source": "https://spotlight.ebu.ch/p/false-claims-that-brigitte-macron"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-10756",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10757",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10758",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10759",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10760",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10761",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"Intel recruits heavily from the LDS\" is item three of a viewer comment; host affirms it.",
+  "fix": {
+   "claim": "Reading a viewer comment's point that intel recruits heavily from the LDS, the host says that is a fact and that apparently they recruit from that campus, which she says she found out."
+  }
+ },
+ {
+  "claim": "C-10762",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"we're looking for\" is the host and her audience, in reply to a viewer comment; title says investigators.",
+  "fix": {
+   "label": "Host thinks a totally different weapon is the one to look for"
+  }
+ },
+ {
+  "claim": "C-10763",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10764",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10765",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Loomer (N-60) but names Charlie (N-1).",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-99",
+    "N-36",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-10766",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10767",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10768",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10769",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10770",
+  "episode": 7,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Alex Clark (N-99) not named in claim; Charlie (N-1) is.",
+  "fix": {
+   "mentions": [
+    "N-98",
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1245",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Tiffany \"intimated\" a political connection; N-101 not named in claim.",
+  "fix": {
+   "claim": "The host says Tiffany Barker intimated that Good Morning America's outreach was a political connection: her sister ran as lieutenant governor alongside Phil Lyman, and GMA reached out to Phil Lyman and somehow ended up with her sister's children and her.",
+   "mentions": [
+    "N-3",
+    "N-61",
+    "N-75"
+   ]
+  }
+ },
+ {
+  "claim": "C-1246",
+  "episode": 8,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Only L says \"it hit his artery\" (04:40); Mia says 15 feet away, thought firecracker. Tiffany not in claim; ts 05:18 is 38s late.",
+  "fix": {
+   "claim": "In the Good Morning America clip the host plays, L Steel says she saw blood everywhere and that it hit his artery, and Mia Grant says they were about 15 feet away and she thought the shot was a firecracker.",
+   "timestamp": "00:04:35",
+   "mentions": [
+    "N-76",
+    "N-77"
+   ]
+  }
+ },
+ {
+  "claim": "C-1247",
+  "episode": 8,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Tiffany says kids saw how much he bled; she said \"There's an artery here. Maybe they hit an artery. I didn't know.\" \"Not something the children saw\" is inferred.",
+  "fix": {
+   "claim": "In a follow-up video the host plays, Tiffany Barker says the children saw how much Charlie bled and asked why, and she told them during a roughly hour-and-a-half car wait after the shooting, \"There's an artery here. Maybe they hit an artery,\" adding \"I didn't know.\""
+  }
+ }
+]

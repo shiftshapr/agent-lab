@@ -1,0 +1,437 @@
+[
+ {
+  "claim": "C-1266",
+  "episode": 8,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim is about Charlie (02:02)."
+ },
+ {
+  "claim": "C-3727",
+  "episode": 8,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Michael Nolles",
+     "right": "Michael Knowles",
+     "source": "https://660amtheanswer.com/podcasts/the-charlie-kirk-show/charlie-and-michael-knowles-debate-religion-at-amf"
+    }
+   ]
+  },
+  "note": "Web-checked: Kirk and Knowles debated Protestant vs Catholic (AmFest; Omny/YouTube)."
+ },
+ {
+  "claim": "C-12022",
+  "episode": 8,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Alex Clark teased unfiltered answers to burning questions such as whether Charlie was converting to Catholicism and whether he took $150 million from Israel, says she has no idea who said the first and that the second is not something said on her show, and adds that they are also going to address the SD cards.",
+   "mentions": [
+    "N-3",
+    "N-99"
+   ]
+  },
+  "note": "Matches 30:59-31:21; Erika not referred to."
+ },
+ {
+  "claim": "C-12041",
+  "episode": 8,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-22"
+   ]
+  },
+  "note": "Clip speaker (Alex or Andrew) not identified in claim or transcript."
+ },
+ {
+  "claim": "C-1267",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "George and Skyler not in the text-exchange passage."
+ },
+ {
+  "claim": "C-1285",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she suspects the lone-shooter cases are a program giving her the same 'ick' as MK Ultra, that she has no reason to believe that program was ever discontinued, and that she believes they find these candidates in schools.",
+   "mentions": []
+  },
+  "note": "Matches 26:30-27:09; Crooks not named."
+ },
+ {
+  "claim": "C-1277",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Sowell/Schurz not in the clip passage."
+ },
+ {
+  "claim": "C-1280",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:03:01"
+  },
+  "note": "Content at 03:06."
+ },
+ {
+  "claim": "C-1281",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:05:30"
+  },
+  "note": "Content at 05:35."
+ },
+ {
+  "claim": "C-1282",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:04:40"
+  },
+  "note": "Content at 04:45."
+ },
+ {
+  "claim": "C-13688",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "'The same people' are the communists, not Schurz specifically."
+ },
+ {
+  "claim": "C-13690",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Crooks named only after the claimed line."
+ },
+ {
+  "claim": "C-13728",
+  "episode": 9,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or refer to Freud."
+ },
+ {
+  "claim": "C-3632",
+  "episode": 10,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-15"
+   ]
+  },
+  "note": "Memo passage names only Kirk and Streiff."
+ },
+ {
+  "claim": "C-1289",
+  "episode": 10,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Ground Photos Show the Bush Is See-Through Unlike Range Day Bro's Image",
+   "claim": "The host says she sent someone to photograph the bush from Range Day Bro's analysis; in the photos she is looking at, the bush can be seen through, while in his grainy image it does not seem to be, and she says she is interested and will keep pursuing it."
+  },
+  "note": "Matches 30:20-30:48; 'figure hidden' was added."
+ },
+ {
+  "claim": "C-1290",
+  "episode": 10,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the individual who filmed the shooter running across the rooftop told her that neither the feds nor the local police had ever reached out to him.",
+   "label": "Rooftop Runner Footage Filmer Was Never Contacted by Federal or Local Authorities"
+  },
+  "note": "Matches 13:53; Sept 15 not said of this filmer."
+ },
+ {
+  "claim": "C-3642",
+  "episode": 10,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host invites viewers to buy 'CIA merch' so that, she jokes, she can be arrested by Laura Loomer and her tweets reported by Laura Loomer.",
+   "mentions": [
+    "N-3",
+    "N-60"
+   ],
+   "label": "Host Plugs CIA Merch With Joke About Laura Loomer"
+  },
+  "note": "Matches 45:24; no Candace/Decentralized gloss said."
+ },
+ {
+  "claim": "C-13777",
+  "episode": 10,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Musk/Ramaswamy not in claim."
+ },
+ {
+  "claim": "C-1299",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Nate Brooksby says that at 8:02 p.m. a friend who has been retired a few years, whom the host describes as a former detective, called to say he knew who the Charlie Kirk shooter was.",
+   "mentions": [
+    "N-276",
+    "N-126"
+   ],
+   "timestamp": "00:09:06"
+  },
+  "note": "Fix right; clip starts ~09:11 (HappyScribe block 09:11), so ts ~09:06."
+ },
+ {
+  "claim": "C-1300",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-276",
+    "N-126"
+   ],
+   "timestamp": "00:17:27"
+  },
+  "note": "Gap in our captions; HappyScribe 17:27 block has Brooksby on 'retired law enforcement' and court documents."
+ },
+ {
+  "claim": "C-1301",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Nate Brooksby says that during the initial call \"some information was provided\" about Tyler \"potentially having some suicidal ideations\" and a remote area of Washington County, and that the parents convinced him not to do that.",
+   "mentions": [
+    "N-276",
+    "N-40"
+   ],
+   "timestamp": "00:09:48"
+  },
+  "note": "Claim fix matches text; suicidal line ~09:53 (60% into HappyScribe 09:11 block)."
+ },
+ {
+  "claim": "C-1302",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-276",
+    "N-40"
+   ],
+   "timestamp": "00:10:42"
+  },
+  "note": "Gap in our captions; HappyScribe 10:40 block has Brooksby's negotiated soft surrender/SWAT fear; 05:30 was wrong."
+ },
+ {
+  "claim": "C-1306",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says it is confusing that Nate Brooksby tells us Tyler is suicidal, when her source says Tyler is not suicidal and went to the police station so as not to risk being shot.",
+   "mentions": [
+    "N-276",
+    "N-40"
+   ],
+   "timestamp": "00:08:45"
+  },
+  "note": "Matches text; 'rather confusingly' ~08:58 after the source point."
+ },
+ {
+  "claim": "C-1307",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "claim": "In his Kayleigh McEnany interview, Phil Lyman says the driveway is his aunt's and that he parked his gray CRV there probably 10 minutes before the shooter walked by; McEnany puts his 11:30 a.m. parking and the 11:49 a.m. footage at 19 minutes apart, and the host restates the 19 minutes.",
+   "label": "Phil Lyman Says He Parked in the TMZ Footage Driveway About 10 Minutes Before the Shooter Walked By"
+  },
+  "note": "Verified: 19 minutes is McEnany's figure, restated by host."
+ },
+ {
+  "claim": "C-1310",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:33:40",
+   "claim": "In a local Utah news interview the host plays, Phil Lyman stated he was backstage, throwing hats, and standing next to the stage before going to \"meet some of my friends\" away from the stage."
+  },
+  "note": "Local-news clip in HappyScribe block 33:41; quote verified."
+ },
+ {
+  "claim": "C-1312",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:43:15",
+   "mentions": [
+    "N-129"
+   ]
+  },
+  "note": "Gap in our captions; HappyScribe 43:02 block has Shane map/retraced steps."
+ },
+ {
+  "claim": "C-1313",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:43:55",
+   "mentions": [
+    "N-129"
+   ],
+   "claim": "Shane Lyman's Instagram post showed side-by-side photos of Shane and three friends on a staircase; the host states she could not find two of the individuals on his friends list."
+  },
+  "note": "HappyScribe 43:02/44:09 blocks: three friends, two not on friends list; no suspect-image match stated."
+ },
+ {
+  "claim": "C-1314",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:39:58"
+  },
+  "note": "HappyScribe 39:18 block: Nick's call about Lyman asking his address falls ~60-80% in (~40:03)."
+ },
+ {
+  "claim": "C-1315",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:41:10"
+  },
+  "note": "HappyScribe 40:31-42:01 block: Ian Carroll tour/'four hours away' about halfway (~41:15)."
+ },
+ {
+  "claim": "C-1319",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:51:53",
+   "claim": "Host agrees with Kristen Theoret's and Cassie's comments that the people closest to Charlie Kirk are moving on and not asking questions about the shooting, and also reads Kaya's comment (\"It's 1963 all over again. They don't like people asking questions.\")."
+  },
+  "note": "Claim fix verified; Kristen comment ~51:58 (HappyScribe), not 51:35."
+ },
+ {
+  "claim": "C-1320",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:52:44",
+   "mentions": [],
+   "label": "Host Agrees With Viewer Comments on a Staged World and Prayer for Investigators"
+  },
+  "note": "Fix right; Bitsy comment ~52:49 (HappyScribe 52:13 block)."
+ },
+ {
+  "claim": "C-13862",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:51:00"
+  },
+  "note": "'Nervous energy' ~51:05 (end of HappyScribe 50:21 block)."
+ },
+ {
+  "claim": "C-13863",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:51:20"
+  },
+  "note": "Tiffany remark starts HappyScribe 51:13 block; Instagram ~51:30."
+ },
+ {
+  "claim": "C-13864",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:52:05"
+  },
+  "note": "Blumenthal line ~52:10 (end of 51:13 block)."
+ },
+ {
+  "claim": "C-13865",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:52:29"
+  },
+  "note": "'Name the donors' ~52:34 (HappyScribe 52:13 block)."
+ },
+ {
+  "claim": "C-13866",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:53:55",
+   "claim": "The host says she called Ian to tell him she doubted Lyman would put him on a tour, because Lyman was not being kind to Nick, a Lyman supporter, and she thinks that relationship went sideways."
+  },
+  "note": "Call to Ian ~54:00; draft-identification aside removed."
+ },
+ {
+  "claim": "C-13867",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:54:27"
+  },
+  "note": "Mic-on-him remark ~54:35 (HappyScribe 54:17 block), 54:20 too early."
+ },
+ {
+  "claim": "C-13868",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:54:50"
+  },
+  "note": "'Doesn't fall off' ~54:55."
+ },
+ {
+  "claim": "C-13869",
+  "episode": 11,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:55:15"
+  },
+  "note": "'Miced after he sat down' ~55:20."
+ },
+ {
+  "claim": "C-13870",
+  "episode": 11,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:55:37"
+  },
+  "note": "'First time that day' ~55:42 (HappyScribe 55:32 block)."
+ }
+]

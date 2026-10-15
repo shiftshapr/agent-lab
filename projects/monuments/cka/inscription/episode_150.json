@@ -127,7 +127,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-157"
+            "N-156"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -580,8 +580,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-132",
-      "ref": "N-132",
+      "@id": "N-131",
+      "ref": "N-131",
       "name": "Susie Wiles",
       "type": "person",
       "description": "White House chief of staff. Host questions her Kirk eulogy and names her in Epstein-file situation-room meetings.",
@@ -596,8 +596,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-157",
-      "ref": "N-157",
+      "@id": "N-156",
+      "ref": "N-156",
       "name": "John Mappin",
       "type": "person",
       "description": "Referenced by viewer comment \"fam\"; author of \"The Perfumed Pervert\" essay.",
@@ -658,9 +658,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-158",
-      "ref": "N-158",
-      "name": "Arena Mappin",
+      "@id": "N-157",
+      "ref": "N-157",
+      "name": "Irina Mappin",
       "type": "person",
       "description": "Co-author of the open letter; named with John Mappin as attending the memorial (the host also says Irina).",
       "related_artifacts": [],
@@ -946,7 +946,7 @@
       "investigative_direction": "Locate original publication of the open letter and verify signatures.",
       "mentions_person_refs": [
         "N-1",
-        "N-157"
+        "N-156"
       ]
     },
     {
@@ -1179,7 +1179,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-132"
+        "N-131"
       ]
     },
     {
@@ -1464,8 +1464,8 @@
       "investigative_direction": "Ask the Mappins for a first-hand account; compare with attendee lists, seating and credentialing for the Glendale memorial.",
       "transcript_snippet": "she told me that she had never seen so many people speaking her native language, Russian, in Arizona.",
       "mentions_person_refs": [
-        "N-157",
-        "N-158"
+        "N-156",
+        "N-157"
       ]
     },
     {
@@ -1488,8 +1488,8 @@
         "C-12135"
       ],
       "mentions_person_refs": [
-        "N-157",
-        "N-158"
+        "N-156",
+        "N-157"
       ]
     },
     {
@@ -1509,8 +1509,8 @@
       "investigative_direction": "Obtain the published letter; record whether the signers name Tyler Robinson or the Utah prosecution directly.",
       "transcript_snippet": "The very idea that someone could be convicted and could receive the death penalty when there remains even the slightest shadow of doubt",
       "mentions_person_refs": [
-        "N-157",
-        "N-158"
+        "N-156",
+        "N-157"
       ]
     },
     {
@@ -1530,8 +1530,8 @@
       "investigative_direction": "Obtain the published letter; the claim about volunteer contributors can be compared with the host's tip submissions.",
       "transcript_snippet": "She has an army of truth seekers worldwide who are helping her in her search and research.",
       "mentions_person_refs": [
+        "N-156",
         "N-157",
-        "N-158",
         "N-3"
       ]
     },

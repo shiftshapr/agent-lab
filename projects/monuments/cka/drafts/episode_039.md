@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 4b6e184f626db3b6b36ff537b80ba53f94d4abe1f21b413f75e391ab5ac5370a
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-886, N-11281
+  - Tip-minted Nodes (supplement_2026-10e): N-884, N-11281
   - Hole-minted Nodes (reintro-ep039): N-10397
   - Tip-minted Nodes (reintro-ep039): N-11202
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-10949–C-11030
-  - New Nodes Introduced: N-295, N-296, N-297, N-298, N-299, N-300, N-301, N-303, N-304, N-10298, N-10300, N-10301, N-10302, N-10304, N-10305, N-10306
-  - Reused Nodes Appearing: N-1, N-11, N-37, N-10299, N-10303, N-5, N-7, N-8, N-9, N-17, N-22, N-36, N-82, N-231, N-232, N-283, N-10012, N-10132, N-10134, N-10224, N-10253, N-10265, N-10266, N-10269, N-10270, N-10273, N-10276, N-10279, N-10285, N-10286, N-10288, N-10289, N-10290, N-10291, N-10295, N-10342, N-10434, N-10870, N-11008, N-11235, N-11278, N-10456, N-11129
+  - New Nodes Introduced: N-293, N-294, N-295, N-296, N-297, N-298, N-299, N-301, N-302, N-10298, N-10300, N-10301, N-10302, N-10304, N-10305, N-10306
+  - Reused Nodes Appearing: N-1, N-11, N-37, N-10299, N-10303, N-5, N-7, N-8, N-9, N-17, N-22, N-36, N-82, N-229, N-230, N-281, N-10012, N-10132, N-10134, N-10224, N-10253, N-10265, N-10266, N-10269, N-10270, N-10273, N-10276, N-10279, N-10285, N-10286, N-10288, N-10289, N-10290, N-10291, N-10295, N-10342, N-10434, N-10870, N-11008, N-11235, N-11278, N-10456, N-11129
   - (see registers)
 
 # Episode 39 Analysis
@@ -39,7 +39,7 @@
 
 - Artifact Families Introduced: A-1480, A-1481, A-1482, A-1483, A-1484, A-1485, A-1486, A-1487, A-1488, A-2513
 - Claim Range: C-1803–C-1819, C-3718
-- New Person Nodes Introduced: N-295, N-296, N-297, N-298, N-299, N-300, N-194, N-190, N-301, N-41, N-221, N-303, N-304, N-15
+- New Person Nodes Introduced: N-293, N-294, N-295, N-296, N-297, N-298, N-192, N-188, N-299, N-41, N-219, N-301, N-302, N-15
 - New Investigation Target Nodes Introduced: N-10298, N-10299, N-10300, N-10301, N-10302, N-10303, N-10304, N-10305, N-10306
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -65,7 +65,7 @@ Video Timestamp: 00:06:34–00:10:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1803, C-1804, C-1805, C-1806, C-1807, C-1808, N-296, N-297, N-298, N-299, N-300, N-303, N-304, N-10306*
+*Related: C-1803, C-1804, C-1805, C-1806, C-1807, C-1808, N-294, N-295, N-296, N-297, N-298, N-301, N-302, N-10306*
 
 ---
 
@@ -121,7 +121,7 @@ Video Timestamp: 00:54:38–00:59:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1812, N-1, N-190*
+*Related: C-1812, N-1, N-188*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:28:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1814, N-190, N-301, N-10298, N-10300*
+*Related: C-1814, N-188, N-299, N-10298, N-10300*
 
 **A-1486.2** Testimony from two TPUSA sources that the donor prospect was French American, named Pierre
 
@@ -159,7 +159,7 @@ Video Timestamp: 00:30:22
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1815, N-190, N-10298*
+*Related: C-1815, N-188, N-10298*
 
 **A-1486.3** TPUSA sources identifying the donor prospect as Pierre Dupont after host mentioned the name on the prior episode
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:32:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1816, N-190, N-301, N-10298*
+*Related: C-1816, N-188, N-299, N-10298*
 
 **A-1486.4** Proof presented by a TPUSA source of a conversation in which Tyler Bowyer discussed TPUSA plans to roll out a program to build houses for first-time home buyers
 
@@ -179,7 +179,7 @@ Video Timestamp: 00:47:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1817, N-190, N-41, N-10301, N-11*
+*Related: C-1817, N-188, N-41, N-10301, N-11*
 
 ---
 
@@ -221,7 +221,7 @@ Video Timestamp: 00:03:44–00:04:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-3718, N-295, N-10014*
+*Related: C-3718, N-293, N-10014*
 
 ---
 
@@ -234,7 +234,7 @@ Video Timestamp: 00:10:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10963, C-10964, C-10965, N-3, N-190, N-10289, N-10288*
+*Related: C-10963, C-10964, C-10965, N-3, N-188, N-10289, N-10288*
 
 ---
 
@@ -271,7 +271,7 @@ Confidence Level: Medium
 
 ### Person Nodes
 
-**N-295** Charles Joseph Bonaparte
+**N-293** Charles Joseph Bonaparte
 
 Reported by host as founder of the FBI; tied in host's narrative to the broader French-American institutional framework. Mentioned without artifact anchor.
 
@@ -282,7 +282,7 @@ Investigative Pressure: Low
 
 *Related: C-3718, N-10014*
 
-**N-297** Robert H. Richards III
+**N-295** Robert H. Richards III
 
 Father of Robert Richards IV; retired partner at Richards Layton & Finger law firm per Vanity Fair article.
 
@@ -291,9 +291,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-1805, N-296, N-10303, N-10306*
+*Related: A-1480.1, C-1805, N-294, N-10303, N-10306*
 
-**N-296** Robert Richards IV
+**N-294** Robert Richards IV
 
 DuPont chemical heir; convicted in 2009 of raping three-year-old daughter; admitted to assaulting infant son; received treatment in lieu of prison per Judge Jan Jordan ruling.
 
@@ -302,9 +302,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-1803, C-1804, C-1805, C-1806, N-297, N-304, N-10306*
+*Related: A-1480.1, C-1803, C-1804, C-1805, C-1806, N-295, N-302, N-10306*
 
-**N-304** Judge Jan Jordan
+**N-302** Judge Jan Jordan
 
 Sentenced Robert Richards IV to treatment in lieu of prison for 2009 rape conviction.
 
@@ -313,9 +313,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1480.1, C-1804, N-296*
+*Related: A-1480.1, C-1804, N-294*
 
-**N-298** John DuPont
+**N-296** John DuPont
 
 Shot Olympic wrestler David Schultz dead in driveway of family mansion in 1996; died in prison.
 
@@ -324,9 +324,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-1807, N-303, N-10306*
+*Related: A-1480.1, C-1807, N-301, N-10306*
 
-**N-303** David Schultz
+**N-301** David Schultz
 
 Olympic wrestler murdered by John DuPont in 1996.
 
@@ -335,9 +335,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1480.1, C-1807, N-298*
+*Related: A-1480.1, C-1807, N-296*
 
-**N-299** Lisa Dean DuPont
+**N-297** Lisa Dean DuPont
 
 DuPont family member; per Vanity Fair, allegedly ordered killing of Las Vegas prostitute who was dating her drug-addicted son.
 
@@ -346,9 +346,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-1808, N-300, N-10306*
+*Related: A-1480.1, C-1808, N-298, N-10306*
 
-**N-300** Christopher Mosley
+**N-298** Christopher Mosley
 
 Per Vanity Fair, killed Las Vegas prostitute at Lisa Dean DuPont's direction; died in prison.
 
@@ -357,9 +357,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1480.1, C-1808, N-299, N-10306*
+*Related: A-1480.1, C-1808, N-297, N-10306*
 
-**N-190** Stacy Sheridan
+**N-188** Stacy Sheridan
 
 TPUSA Senior Advancement Director; brought in by Tyler Bowyer; host describes her registered agent as located at 919 North Market Street, Wilmington; relevant LLC identified by host as Cloverstone Ventures.
 
@@ -370,7 +370,7 @@ Investigative Pressure: Medium
 
 *Related: A-1486.1, A-1486.2, A-1486.3, A-1486.4, N-41, N-10301, N-10304, N-11*
 
-**N-301** Tyler Bowyer's brother (unnamed)
+**N-299** Tyler Bowyer's brother (unnamed)
 
 Per host assertion (not artifact-anchored), worked ten years in dental sales until Charlie's death, then took role in TPUSA real-estate program.
 
@@ -381,7 +381,7 @@ Investigative Pressure: Low
 
 *Related: N-41, N-10301, N-11*
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Friend who joined Charlie Kirk on Maine family vacation with wife Eliza; captured final videos of Charlie per host.
 
@@ -390,9 +390,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-221, N-1*
+*Related: N-219, N-1*
 
-**N-221** Eliza McCoy
+**N-219** Eliza McCoy
 
 Wife of Mikey McCoy; joined Charlie Kirk family vacation in Maine.
 
@@ -401,7 +401,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-194, N-1*
+*Related: N-192, N-1*
 
 **N-37** Bill Ackman
 
@@ -423,7 +423,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1486.1, A-1486.2, A-1486.3, C-1815, C-1816, N-190*
+*Related: A-1486.1, A-1486.2, A-1486.3, C-1815, C-1816, N-188*
 
 **N-10299** TPUSA Egyptian Plane Story Suppression Attempt
 
@@ -456,7 +456,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1486.4, C-1817, N-190, N-301, N-41, N-11*
+*Related: A-1486.4, C-1817, N-188, N-299, N-41, N-11*
 
 **N-10302** BB Net/Yahoo Offer to TPUSA
 
@@ -478,7 +478,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, N-297*
+*Related: A-1480.1, N-295*
 
 **N-10304** Stacy Sheridan Registered Agent and LLC Question
 
@@ -489,7 +489,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-190*
+*Related: N-188*
 
 **N-10305** Andrew Kolvet "Lost Millions" Tip Verification
 
@@ -511,7 +511,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1480.1, C-1803, C-1804, C-1806, C-1807, C-1808, N-296, N-298, N-299*
+*Related: A-1480.1, C-1803, C-1804, C-1806, C-1807, C-1808, N-294, N-296, N-297*
 
 ---
 
@@ -521,7 +521,7 @@ Investigative Pressure: Medium
 
 Referenced extensively throughout episode; subject of multiple artifact-anchored claims (April 2018 text, date outfit text, BB decline alleged).
 
-*Related: A-1481.1, A-1482.2, A-1484.1, C-1809, C-1810, N-194, N-221*
+*Related: A-1481.1, A-1482.2, A-1484.1, C-1809, C-1810, N-192, N-219*
 
 ---
 
@@ -629,7 +629,7 @@ Brigitte Macron; the transcript spells it Brigitte; her lawyers are placed at 91
 
 ---
 
-**N-231** Allie Beth Stuckey
+**N-229** Allie Beth Stuckey
 
 Allie Beth Stuckey (transcribed Ally Stucky); said to have disputed the host's tour-planning account.
 
@@ -637,15 +637,15 @@ Allie Beth Stuckey (transcribed Ally Stucky); said to have disputed the host's t
 
 ---
 
-**N-232** Lila Rose
+**N-230** Lila Rose
 
-Lila Rose (transcribed Llaya Rose); said to have disputed the host's tour-planning account.
+Lila Rose (transcribed Lila Rose); said to have disputed the host's tour-planning account.
 
 *Related: C-10983*
 
 ---
 
-**N-283** Bob Evan
+**N-281** Bob Evan
 
 Bob Evan (Nebraska Secretary of State, Bob Evnen); met international professionals off the record per the host.
 
@@ -877,7 +877,7 @@ Female Jewish donor confrontation after Tucker speech; reused for donor reaction
 
 ---
 
-**N-886** Eric Dupond-Moretti
+**N-884** Eric Dupond-Moretti
 
 First named by the host at 00:05:25 in episode 39. Transcribed Eric Dupond Moretti and Eric Dupon Moretti; the host says he made an argument for happy incest.
 
@@ -912,7 +912,7 @@ Claim Timestamp: 00:06:34
 Claim: Robert Richards IV was convicted in 2009 of raping his three-year-old daughter, seven years after the child reported the abuse.
 
 Anchored Artifacts: A-1480.1
-Mentions: N-296
+Mentions: N-294
 
 Related Nodes: N-10306
 
@@ -927,7 +927,7 @@ Claim Timestamp: 00:07:45
 Claim: Per a Vanity Fair article the host reads, Judge Jan Jordan ruled that Robert Richards IV would benefit from treatment instead of prison time, citing his height and other factors.
 
 Anchored Artifacts: A-1480.1
-Mentions: N-296, N-304
+Mentions: N-294, N-302
 
 Related Nodes: N-10306
 
@@ -942,7 +942,7 @@ Claim Timestamp: 00:08:36
 Claim: Robert H. Richards III, father of Robert Richards IV, is identified in the Vanity Fair article as a retired partner at the Richards Layton & Finger law firm.
 
 Anchored Artifacts: A-1480.1
-Mentions: N-296, N-297
+Mentions: N-294, N-295
 
 Related Nodes: N-10303
 
@@ -957,7 +957,7 @@ Claim Timestamp: 00:09:20
 Claim: Per a Vanity Fair article the host reads, Robert Richards IV also admitted to sexually assaulting his infant son and was initially charged with two counts of second-degree child rape carrying a mandatory 20-year term, before pleading to a reduced charge of fourth-degree rape.
 
 Anchored Artifacts: A-1480.1
-Mentions: N-296
+Mentions: N-294
 
 Related Nodes: N-10306
 
@@ -972,7 +972,7 @@ Claim Timestamp: 00:09:20
 Claim: Per a Vanity Fair article the host reads, John DuPont shot Olympic wrestler David Schultz dead in the driveway of the family mansion in 1996.
 
 Anchored Artifacts: A-1480.1
-Mentions: N-298, N-303
+Mentions: N-296, N-301
 
 Related Nodes: N-10306
 
@@ -987,7 +987,7 @@ Claim Timestamp: 00:10:39
 Claim: Per Dominic Dunne's Vanity Fair reporting as the host relays it, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both DuPont and Mosley died in prison.
 
 Anchored Artifacts: A-1480.1
-Mentions: N-299, N-300
+Mentions: N-297, N-298
 
 Related Nodes: N-10306
 
@@ -1118,7 +1118,7 @@ Claim Timestamp: 00:47:01
 Claim: The host says, relaying what she learned from one of her sleuths (recorded as a TPUSA source who presented proof), that Tyler Bowyer was telling people TPUSA plans to roll out a program to build houses for first-time home buyers, leveraging TPUSA's position with young Christians as an audience.
 
 Anchored Artifacts: A-1486.4
-Mentions: N-11, N-301
+Mentions: N-11, N-299
 
 Related Nodes: N-10301
 
@@ -1174,7 +1174,7 @@ Claim Timestamp: 00:03:44
 Claim: Candace states that the FBI was founded by Charles Joseph Bonaparte, whose great-uncle was Napoleon Bonaparte, as part of her claim that the FBI was founded by the French.
 Transcript Snippet: did you know that our FBI was founded by Charles Joseph Bonapart?
 Anchored Artifacts: A-2513.1
-Mentions: N-3, N-295
+Mentions: N-3, N-293
 Related Nodes: N-10014
 Investigative Direction: Check Bonaparte's role as Attorney General in creating the Bureau of Investigation (1908) against Justice Department records.
 
@@ -1253,7 +1253,7 @@ Claim: The host says that before her Becoming Brigitte season 2 was interrupted 
 Transcript Snippet: we were speaking about how he was kind of known a name for himself making an argument for happy incest.
 
 Anchored Artifacts: 
-Mentions: N-886, N-3
+Mentions: N-884, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check the Becoming Brigitte season 2 episode where Dupond-Moretti was discussed and the source of the happy-incest characterization.
@@ -1269,7 +1269,7 @@ Claim: The host reads from the Vanity Fair article that critics have noted such 
 Transcript Snippet: Critics have since noted that such treatment is usually offered only to drug addicts or those in possession of child pornography, not convicted rapists.
 
 Anchored Artifacts: A-1480.1
-Mentions: N-296, N-304
+Mentions: N-294, N-302
 Related Nodes: N-10306
 Tags: relevance:context
 Investigative Direction: Obtain the Vanity Fair article and the Delaware sentencing record to see who the critics were and whether the characterization holds.
@@ -1285,7 +1285,7 @@ Claim: The host reads a News Journal description that Robert Richards IV is unem
 Transcript Snippet: Richards, who is unemployed and supported by a trust fund, owns a 5800 ft mansion in Greenville that he bought for $1.8 million in 2005.
 
 Anchored Artifacts: A-1480.1
-Mentions: N-296
+Mentions: N-294
 Related Nodes: N-10306
 Tags: relevance:context
 Investigative Direction: Pull the New Castle County deed for the Greenville property and the civil docket for the ex-wife's damages suit.
@@ -1301,7 +1301,7 @@ Claim: The host reads that the state sex abuse registry information shows Richar
 Transcript Snippet: his great-grandfather is the DuPont family patriarch Dupont and his father is Robert H.
 
 Anchored Artifacts: A-1480.1
-Mentions: N-296, N-297
+Mentions: N-294, N-295
 Related Nodes: N-10306
 Tags: relevance:context
 Investigative Direction: Verify the genealogy against Richards family and DuPont family records and the cited registry entry.
@@ -1317,7 +1317,7 @@ Claim: The host says that the Richards law firm named in the article is the firm
 Transcript Snippet: Hey Candace, is that the law firm that's filing the paperwork for you? And the answer to that is yes.
 
 Anchored Artifacts: 
-Mentions: N-3, N-297
+Mentions: N-3, N-295
 Related Nodes: N-10303, N-10270
 Tags: relevance:context
 Investigative Direction: Check the Delaware court docket for counsel of record in Macron v. Owens and confirm the firm's name against the filings.
@@ -1333,7 +1333,7 @@ Claim: The host says that the founding partner of the firm filing her paperwork,
 Transcript Snippet: the founding partner of that firm who's since retired is DuPont. It's the DuPont family.
 
 Anchored Artifacts: A-1480.1
-Mentions: N-3, N-297
+Mentions: N-3, N-295
 Related Nodes: N-10303, N-10306
 Tags: relevance:context
 Investigative Direction: Compare the firm's founding history and partner roster with Richards and du Pont family genealogy; note the host's remark is inferential.
@@ -1365,7 +1365,7 @@ Claim: The host reads that Richards, accused of raping two of his own children, 
 Transcript Snippet: was instead released on a $60,000 bail and eventually cpped a plea deal that involved him admitting that he had abused his children
 
 Anchored Artifacts: A-1480.1
-Mentions: N-296
+Mentions: N-294
 Related Nodes: N-10306
 Tags: relevance:context
 Investigative Direction: Obtain the Delaware bail order and plea agreement in the Richards case.
@@ -1431,7 +1431,7 @@ Claim: The host says that Brigitte Lawyers are at 919 North Market Street and th
 Transcript Snippet: Also in that building happens to be um Stacy Sheridan's registered agent.
 
 Anchored Artifacts: A-3113.1
-Mentions: N-82, N-190
+Mentions: N-82, N-188
 Related Nodes: N-10304, N-10270
 Tags: relevance:context
 Investigative Direction: Pull Delaware Division of Corporations registered-agent filings for Sheridan's LLCs and identify the occupants of 919 North Market Street.
@@ -1463,7 +1463,7 @@ Claim: The host says people had noted that Stacy Sheridan had a few LLCs through
 Transcript Snippet: which she was getting paid through. It could all be above board. I don't really know. But the one I'm speaking about is Cloverstone Ventures.
 
 Anchored Artifacts: 
-Mentions: N-190, N-3
+Mentions: N-188, N-3
 Related Nodes: N-10304
 Tags: relevance:core
 Investigative Direction: Search Delaware corporate records for Cloverstone Ventures, its registered agent and members, and match payments against TPUSA filings.
@@ -1479,7 +1479,7 @@ Claim: The host says Stacy Sheridan is the senior advancement director at Turnin
 Transcript Snippet: She was brought in specifically by Tyler Bowyer to raise money and to take Turning Point to the next level.
 
 Anchored Artifacts: 
-Mentions: N-190, N-11
+Mentions: N-188, N-11
 Related Nodes: 
 Supports: C-1479
 Tags: relevance:context
@@ -1512,7 +1512,7 @@ Claim: The host says she disliked Sheridan from the start and told Charlie Kirk 
 Transcript Snippet: I expressed that to Charlie to his face when she was hired. That's when I kind of notoriously said to him, you can't go down this path with money, okay?
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-190
+Mentions: N-3, N-1, N-188
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Look for contemporaneous messages or witnesses to the host's warning and for Sheridan's hiring date.
@@ -1528,7 +1528,7 @@ Claim: The host says Stacy Sheridan was the person filming Charlie Kirk's casket
 Transcript Snippet: Stacy Sheridan is the one that was filming.
 
 Anchored Artifacts: 
-Mentions: N-190, N-1
+Mentions: N-188, N-1
 Related Nodes: N-11202
 Tags: relevance:core
 Investigative Direction: Identify the photographer of the widely shared casket footage and the account that first posted it.
@@ -1544,7 +1544,7 @@ Claim: The host says Sheridan eulogized Charlie Kirk on stage, captured intimate
 Transcript Snippet: She's eulogizing Charlie Kirk on stage. She is capturing intimate photos of his casket.
 
 Anchored Artifacts: 
-Mentions: N-190, N-1
+Mentions: N-188, N-1
 Related Nodes: N-11202
 Tags: relevance:core
 Investigative Direction: Confirm Sheridan's role in the memorial program and the White House observance from event programs and video.
@@ -1660,7 +1660,7 @@ Claim: The host says a private off-record meeting preceded the Nebraska Egypt tr
 Transcript Snippet: who were these professionals that met with Secretary of State Bob Evan? Why is this meeting somehow off record?
 
 Anchored Artifacts: A-3114.1
-Mentions: N-283
+Mentions: N-281
 Related Nodes: N-10276
 Supports: C-1776
 Tags: relevance:core
@@ -1694,7 +1694,7 @@ Claim: The host says Charlie Kirk vacationed in Maine for a couple of weeks with
 Transcript Snippet: Charlie vacations up to Maine for a couple of weeks to be with his family, goes off radar. We've got Mikey McCoy and his wife uh Eliza that join them for the first time.
 
 Anchored Artifacts: A-3114.1
-Mentions: N-1, N-194, N-221
+Mentions: N-1, N-192, N-219
 Related Nodes: 
 Supports: C-1587
 Tags: relevance:core
@@ -1740,10 +1740,10 @@ Claim Timestamp: 00:18:49
 
 Claim: The host says that Lila Rose and Allie Beth Stuckey, whom she says have never headlined their tour, publicly said her claim about how tours are planned was not true.
 
-Transcript Snippet: I got like Llaya Rose and Ally Stucky who have never headlined their tour suddenly saying that's not true.
+Transcript Snippet: I got like Lila Rose and Ally Stucky who have never headlined their tour suddenly saying that's not true.
 
 Anchored Artifacts: 
-Mentions: N-232, N-231, N-3
+Mentions: N-230, N-229, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Find the posts by Rose and Stuckey disputing the host and compare with their tour histories.
@@ -2345,7 +2345,7 @@ Claim: The host says a sleuth told her Tyler Bowyer has a younger brother who fo
 Transcript Snippet: Tyler Bowyer has a younger brother who for 10 years has worked in dental sales until Charlie died because a unique opportunity presented itself at Turning Point USA
 
 Anchored Artifacts: 
-Mentions: N-11, N-301, N-1
+Mentions: N-11, N-299, N-1
 Related Nodes: N-10301
 Tags: relevance:context
 Investigative Direction: Identify the brother by name and check TPUSA or affiliate payroll and housing-program records.
@@ -2689,7 +2689,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use global people ledger (N-295 onward)
+- [x] People nodes use global people ledger (N-293 onward)
 - [x] Non-person investigation targets use 1000 series (N-10298 onward)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly where appearing; uncertainty flagged

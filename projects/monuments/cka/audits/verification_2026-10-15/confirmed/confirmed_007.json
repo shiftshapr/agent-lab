@@ -1,0 +1,444 @@
+[
+ {
+  "claim": "C-1533",
+  "episode": 22,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the FlightRadar three-year history for SU-BTT shows the aircraft routinely flies through Paris, and that she noticed the trend that it always flies to an Air Force base."
+  },
+  "note": "Transcript: 'routinely flies through Paris... always flies to an Air Force base'; Provo line not said."
+ },
+ {
+  "claim": "C-1534",
+  "episode": 22,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says, citing an unnamed email tipster, that she can report as a fact that the SU-BTT flight carried Egyptian military subcontractors who were dropped off in Provo, Utah and did not make it back to Cairo when the plane departed."
+  },
+  "note": "Host asserts it as fact citing the tipster ('I'm telling you that for a fact')."
+ },
+ {
+  "claim": "C-1539",
+  "episode": 22,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-38",
+    "N-205",
+    "N-208"
+   ]
+  },
+  "note": "Dave Smith not named in claim."
+ },
+ {
+  "claim": "C-1541",
+  "episode": 22,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, which she indicates was from a separate show rather than Piers Morgan, Seth Dillon characterizes Nick Fuentes as having animosity toward Jews, having called J.D. Vance \"fat and ugly\" with a \"brown family,\" and as having engaged in \"glorification of Hitler.\"",
+   "mentions": [
+    "N-4",
+    "N-38",
+    "N-205",
+    "N-208"
+   ]
+  },
+  "note": "Venue fix right, but claim still names Piers Morgan, so N-208 stays."
+ },
+ {
+  "claim": "C-1542",
+  "episode": 22,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, a speaker describing screenshots of an internal chat Charlie Kirk was doing with TPUSA says it reads \"Just lost another huge Jewish donor, 2 million a year, because we won't cancel Tucker. And I'm thinking of inviting Candace.\"",
+   "mentions": [
+    "N-1",
+    "N-22",
+    "N-3"
+   ]
+  },
+  "note": "Spoken by clip speaker describing screenshots; 'Candace' named in quote."
+ },
+ {
+  "claim": "C-9411",
+  "episode": 22,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Mark not named in claim."
+ },
+ {
+  "claim": "C-9414",
+  "episode": 22,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she is telling viewers as a fact that the Egyptian plane's September 4 stop in Utah was not routine servicing, as \"they\" claimed, and that it carried military subcontractors who were dropped off in Provo.",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Patel not named; 'they' is what host says."
+ },
+ {
+  "claim": "C-9428",
+  "episode": 22,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Seth Dillon not referred to by claim."
+ },
+ {
+  "claim": "C-9442",
+  "episode": 22,
+  "decision": "accept",
+  "fix": {
+   "claim": "Mark says a screenshot shows N1098L was in Idaho at the moment Charlie was shot; the host adds that it was about 20 minutes out and did not get over Provo until about 20 minutes after he was shot."
+  },
+  "note": "Mark says 'in Idaho'; 20-minute remarks follow from host."
+ },
+ {
+  "claim": "C-1545",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Rob McCoy not named in claim."
+ },
+ {
+  "claim": "C-1546",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-1547",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:19:50"
+  },
+  "note": "'January 3rd, 2024' spoken ~19:54."
+ },
+ {
+  "claim": "C-1548",
+  "episode": 23,
+  "decision": "amend",
+  "fix": {
+   "claim": "The episode displays a TPUSA UNL Instagram post announcing the chapter's first weekly meeting; the host initially dates this to February 11, 2024, while director Mark later corrects the date to May 2025, as the host relays. Both assertions are recorded as competing host-side positions against a single artifact.",
+   "mentions": [
+    "N-67"
+   ]
+  },
+  "note": "Host at 31:21: 'Mark is saying... That was supposed to be in May of 2025' - May is in transcript; only 'later' needed. Mentions fix correct."
+ },
+ {
+  "claim": "C-1550",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the May 23, 2025 Provo arrival of SUBND appeared to be a \"legitimate maintenance stop\" based on test-flying activity around that time, adding \"I don't know for certain\".",
+   "timestamp": "00:26:10"
+  },
+  "note": "Spoken ~26:15 with hedge 'I don't know for certain'."
+ },
+ {
+  "claim": "C-1552",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:40:05"
+  },
+  "note": "Spoken ~40:10."
+ },
+ {
+  "claim": "C-1556",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:16:00",
+   "mentions": []
+  },
+  "note": "Spoken ~16:05; McCoy not named."
+ },
+ {
+  "claim": "C-1558",
+  "episode": 23,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says a news story she brings up reports that a plumber repairing a toilet at Joel Osteen's megachurch found about 500 envelopes of cash in a wall (she first recalls almost a million dollars), and she characterizes Osteen's excuse as saying the church had money missing.",
+   "timestamp": "00:28:45"
+  },
+  "note": "Text fix right; topic starts ~28:49 ('What was it, Joel Osteen?'), so 28:45 is 5s before."
+ },
+ {
+  "claim": "C-1559",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Tucker Carlson delivered a speech at the TPUSA conference on July 11, 2025 in which he referenced Jeffrey Epstein, said people who serve in foreign armies should probably have their citizenship stripped, \"something along those lines,\" and mused on Bill Ackman's wealth.",
+   "timestamp": "00:31:35",
+   "mentions": [
+    "N-22",
+    "N-9",
+    "N-37"
+   ]
+  },
+  "note": "Tucker segment starts ~31:34; citizenship line hedged; Charlie not named."
+ },
+ {
+  "claim": "C-1560",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she knows for a fact that when Tucker came off stage after his July 11, 2025 speech, a woman donor she has not named instantly started yelling at Charlie, and that Charlie then got the full donor squeeze: \"you are not allowed to be anti-Israel.\""
+  },
+  "note": "'Can never' is the Hamptons-era donors at 34:42, not the immediate confrontation."
+ },
+ {
+  "claim": "C-1563",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host states it is true that Charlie Kirk did not know where the money was coming from or going to, and that this is why he established DOGE.",
+   "timestamp": "00:37:20"
+  },
+  "note": "Spoken ~37:25; 'internet DOGE' was host's request to accountants."
+ },
+ {
+  "claim": "C-1566",
+  "episode": 23,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Sean Feucht's biography says he grew up in a New Apostolic Reformation (NAR) church, and that X user Village Crazy Lady told her to look into NAR, saying something is going on if you start talking about Rob McCoy; the host says NAR is somehow going to be relevant, noting it is an early phase of the investigation.",
+   "timestamp": "00:11:38"
+  },
+  "note": "Fix correct in substance; reworded so 'relevant' attaches to NAR as the host says."
+ },
+ {
+  "claim": "C-1567",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host states that Rob McCoy was in Nashville when the trans shooting happened and was close to Charlie Kirk when he was shot, that he says \"I was his pastor,\" and that she says McCoy has terrible luck, adding she does not mean he shot anybody."
+  },
+  "note": "Host says 'terrible luck', 'I don't mean like he shot anybody'."
+ },
+ {
+  "claim": "C-12281",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-209"
+   ]
+  },
+  "note": "McCoy not named in claim."
+ },
+ {
+  "claim": "C-12284",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-12300",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-12305",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-39"
+   ]
+  },
+  "note": "Tucker not named in claim."
+ },
+ {
+  "claim": "C-12308",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Bowyer not named in claim."
+ },
+ {
+  "claim": "C-12311",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-55",
+    "N-38",
+    "N-22"
+   ]
+  },
+  "note": "Claim names Tucker Carlson."
+ },
+ {
+  "claim": "C-12334",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "note": "Patel not named in claim."
+ },
+ {
+  "claim": "C-12338",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Israel is acting real weird in the hours after Charlie Kirk's assassination, doing way too much to tell people they had nothing to do with it.",
+   "label": "Host Says Israel Acted Weird in the Hours After the Assassination"
+  },
+  "note": "'they' follows 'nation of Israel'; the people-around-Charlie line is separate."
+ },
+ {
+  "claim": "C-12346",
+  "episode": 23,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host, discussing Jack Hibbs and TPUSA Faith, says \"he doesn't even care about the allegations against Sean Feucht,\" asks what they are doing, says they are just going to keep working with Feucht, and then names Rob McCoy.",
+   "mentions": [
+    "N-209",
+    "N-17",
+    "N-212"
+   ]
+  },
+  "note": "'he' is ambiguous (Hibbs or Rob McCoy, named right after); quote it rather than assign it to Hibbs."
+ },
+ {
+  "claim": "C-1569",
+  "episode": 24,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-226",
+    "N-22"
+   ]
+  },
+  "note": "Claim names Randy Fine."
+ },
+ {
+  "claim": "C-1573",
+  "episode": 24,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip from her 2018 Joe Rogan appearance that the host plays, Candace Owens says Ben Shapiro \"gets a little like hall monitor,\" compares him to someone \"writing you a pink slip,\" and calls him \"a gateway to Saturday school.\"",
+   "mentions": [
+    "N-3",
+    "N-97",
+    "N-272"
+   ]
+  },
+  "note": "Clip: Owens on Rogan calls Ben Shapiro 'hall monitor'."
+ },
+ {
+  "claim": "C-1580",
+  "episode": 24,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads, from Tom Paul, says Tyler Robinson's ACT score was 34, in the 99th percentile, and Thomas Matthew Crooks' SAT score was in the 99th percentile, and that this is not a coincidence, as if out of the same playbook."
+  },
+  "note": "Adam Lanza remark is the host's, not Tom Paul's."
+ },
+ {
+  "claim": "C-9481",
+  "episode": 24,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she has reserved her investigation for people blatantly lying, citing Alex Clark for lying about the Catholic thing, then Andrew Kolvet, Mikey McCoy and Rob McCoy.",
+   "label": "Host Lists Those She Targeted for Lying: Clark, Kolvet, Mikey McCoy, Rob McCoy",
+   "names": [
+    {
+     "wrong": "Mikey McColgan",
+     "right": "Mikey McCoy",
+     "source": "https://en.wikipedia.org/wiki/Memorial_service_of_Charlie_Kirk"
+    }
+   ]
+  },
+  "note": "Checked: Mikey McCoy is Kirk's TPUSA chief of staff (Liberty Univ., Wikipedia); 'McColgan' is mis-transcription."
+ },
+ {
+  "claim": "C-9489",
+  "episode": 24,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-40"
+   ]
+  },
+  "note": "'him' = defendant Tyler Robinson."
+ },
+ {
+  "claim": "C-1595",
+  "episode": 25,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says that Grok (xAI), when asked, said Israel and Egypt coordinate on intelligence operations, calling the cooperation unprecedented since the 1979 peace treaty, with intel chiefs meeting often and sharing real-time data."
+  },
+  "note": "Grok answer relayed in viewer comment (Jennifer K)."
+ },
+ {
+  "claim": "C-6579",
+  "episode": 25,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Patel not named in claim."
+ },
+ {
+  "claim": "C-1599",
+  "episode": 26,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a UVU request for Charlie Kirk to speak on campus was received in mid-July 2025 and immediately approved, with the event scheduled as his first stop some six weeks later for September 2025, deviating from the standard TPUSA multi-month planning window."
+  },
+  "note": "Host: 'immediately approve... schedule it... six weeks later'."
+ },
+ {
+  "claim": "C-1602",
+  "episode": 26,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Brett Cooper says Randy Fine bragged about not washing his hands after a handshake with Netanyahu, has repeatedly introduced bills to criminalize anti-semitism, obviously cares more about Israel than principles like free speech, and should move to Israel.",
+   "mentions": [
+    "N-225",
+    "N-226",
+    "N-36"
+   ]
+  },
+  "note": "Cooper says Fine bragged about not washing hands after Netanyahu handshake."
+ }
+]

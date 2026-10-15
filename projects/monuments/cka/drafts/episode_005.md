@@ -110,7 +110,7 @@ Confidence: high
 Event Timestamp: 2025-09 (post-assassination)
 Video Timestamp: 00:38:26–00:39:26
 *Related: C-1194, N-37, N-10056*
-Transcript Snippet: Blackman published these private text messages… missing from these messages are like a date, a context.
+Transcript Snippet: Ackman published these private text messages… missing from these messages are like a date, a context.
 Confidence: medium
 
 ---
@@ -149,12 +149,12 @@ Confidence: medium
 ---
 
 
-**A-2517** Harley Pastnic Genealogy Reference Bundle
+**A-2517** Harley Pasternak Genealogy Reference Bundle
 
-**A-2517.1** Host genealogy reference to Harley Pastnic's family business in piping and valves (verbal reference; no displayed artifact)
+**A-2517.1** Host genealogy reference to Harley Pasternak's family business in piping and valves (verbal reference; no displayed artifact)
 Video Timestamp: 00:15:56–00:16:21
 *Related: C-3726, N-80*
-Transcript Snippet: when I was looking into Harley Pastnic, that's exactly what his family did. They were in piping and valves.
+Transcript Snippet: when I was looking into Harley Pasternak, that's exactly what his family did. They were in piping and valves.
 Confidence: medium
 
 ---
@@ -332,7 +332,7 @@ Wife of Samuel Steele per host; co-owner of the doorbell-camera house.
 
 ---
 
-**N-80** Harley Pastnic
+**N-80** Harley Pasternak
 
 Node Type: Person
 Canadian subject of prior Owens research whose family is in the piping/valve business – cited as a pattern match.
@@ -912,10 +912,10 @@ Investigative Direction: Cross-check the original text-message screenshots from 
 **C-1189** Host Says TMZ Aired Doorbell-Cam Footage on September 10
 
 Claim Timestamp: 00:11:02
-Claim: The host says TMZ was the first, on September 10, 2025, to air doorbell-camera footage of a person on a residential street near UVU, which she attributes to Irwin Steel's home.
+Claim: The host says TMZ was the first, on September 10th, to show doorbell-camera footage, which she thinks was marked 8:07 a.m., though she says she does not know exactly when TMZ released it and feels it was in the morning.
 Transcript Snippet: TMZ is the first on September 10th. That tells us that there is doorbell cam footage.
 Anchored Artifacts: A-1112.1, A-1112.2
-Mentions: N-73, N-78, N-79
+Mentions: 
 Related Nodes: N-10011, N-10052, N-10062
 Confidence: high
 Investigative Direction: Verify TMZ publication timestamp; trace the footage upload chain back to either the homeowner or a federal intermediary.
@@ -954,14 +954,14 @@ Claim Timestamp: 00:33:18
 Claim: Benjamin Netanyahu issued a second video statement denying that Israel had any role in Charlie Kirk's murder and quoted from a letter he attributes to Kirk.
 Transcript Snippet: somebody has fabricated a monstrous big lie that Israel had something to do with Charlie Kirk's horrific murder. This is insane.
 Anchored Artifacts: A-1115.1
-Mentions: N-36, N-81, N-1
+Mentions: N-36, N-1
 Related Nodes: N-10026, N-10056
 Confidence: high
 Investigative Direction: Obtain Netanyahu's first denial video and the unedited Kirk letter; verify date stamps on both.
 
 ---
 
-**C-1193** Bowling said Owens no longer speaks at TPUSA events
+**C-1193** Bolling Said Owens No Longer Speaks at TPUSA Events
 
 Claim Timestamp: 00:39:27
 Claim: Eric Bolling stated on PBD Podcast that Candace Owens had not attended or spoken at Turning Point USA events in years and described her separation from Kirk as a quiet breakup.
@@ -978,8 +978,8 @@ Investigative Direction: Compare PBD clip against TPUSA published tour / speaker
 **C-1194** Bill Ackman published Kirk text messages
 
 Claim Timestamp: 00:38:26
-Claim: Bill Ackman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a Hamptons retreat; host notes the messages lack dates and context and do not address her specific assertions.
-Transcript Snippet: Blackman published these private text messages… missing from these messages are like a date, a context.
+Claim: The host says Bill Ackman shared private text messages with Charlie Kirk to dispel the idea that anything happened in the Hamptons, and that the messages lack a date and context and do not dispel anything she has asserted.
+Transcript Snippet: Ackman published these private text messages… missing from these messages are like a date, a context.
 Anchored Artifacts: A-1117.1
 Mentions: N-3, N-37, N-1
 Related Nodes: N-10027, N-10056
@@ -994,9 +994,9 @@ Tags: open_source_investigation
 
 Claim Timestamp: 00:38:26
 
-Claim: C-1194 spells the name 'Bill Ackman' (auto-caption form; the transcript at this beat reads 'Blackman'). The person is Bill Ackman (N-37). Bill Ackman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a Hamptons retreat; the host notes the messages lack dates and context.
+Claim: C-1194 spells the name 'Bill Ackman'; the auto-caption transcript at this beat reads 'Ackman'. The person is Bill Ackman (N-37). Bill Ackman released private text-message exchanges with Charlie Kirk to refute Owens's claims about a trip to the Hamptons; the host notes the messages lack dates and context.
 
-Transcript Snippet: But anyways, Blackman published these private text messages
+Transcript Snippet: But anyways, Ackman published these private text messages
 
 Anchored Artifacts: A-1117.1
 Mentions: N-37, N-1, N-3
@@ -1025,7 +1025,7 @@ Tags: calls_for_tips, submissions_to_candace
 **C-1196** Utah artist released 'Charlie Kirk Dead at 31' song early
 
 Claim Timestamp: 00:56:17
-Claim: A Utah-based artist posted a song titled 'Charlie Kirk Dead at 31' before Tyler Robinson was publicly identified, drawing speculation about pre-knowledge.
+Claim: The host says some artist from Utah posted a song called something like 'Charlie Kirk Dead at 31', and that right when people started saying this guy looks like the person in the photo, the feds said they had Tyler Robinson.
 Transcript Snippet: some artist who posted a song… called like Charlie Kirk Dead at 31… he happens to be from Utah.
 Anchored Artifacts: A-1119.1
 Mentions: N-40, N-1
@@ -1038,7 +1038,7 @@ Investigative Direction: Recover the original upload via Wayback / platform arch
 **C-1197** Local claim: gun found near chicken coop, not 'woods'
 
 Claim Timestamp: 00:24:56
-Claim: A local source told the host that the rifle was recovered by a chicken coop in a suburban backyard, not in a wooded area as federal accounts suggest.
+Claim: A local source told the host that the rifle was found in the backyard of someone she knows, by a chicken coop, and that although you could describe it as a wooded area, it is pretty suburban, whereas federal accounts say 'in the woods'.
 Transcript Snippet: the gun was found in the backyard of someone that I know… it was found by a chicken coop.
 Anchored Artifacts: 
 Mentions: N-40
@@ -1078,10 +1078,10 @@ Investigative Direction: Independent database search; pull tenant rolls from the
 **C-1200** Owens toured with TPUSA the previous year
 
 Claim Timestamp: 00:40:26
-Claim: Candace Owens states that she went on tour with Turning Point USA on college campuses the previous year, contradicting Bowling's claim that she has not spoken at TPUSA events.
+Claim: Candace Owens states that she went on tour with Turning Point USA on college campuses the previous year, contradicting Bolling's claim that she has not spoken at TPUSA events.
 Transcript Snippet: I literally went on tour with Turning Point USA on college campuses last year.
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-72
 Related Nodes: N-10000
 Contradicts: C-1193
 Confidence: medium
@@ -1092,10 +1092,10 @@ Investigative Direction: Pull TPUSA published tour schedules and verify Owens sp
 **C-1201** Owens was not invited to speak at Kirk memorial
 
 Claim Timestamp: 00:44:56
-Claim: Candace Owens states she was not invited to speak at the Kirk memorial event held in Arizona, and that the event was effectively an open memorial.
+Claim: The host says, sarcastically, that she was not invited to speak alongside President Trump and JD Vance on the stage with Tucker Carlson at a memorial event, and that this has to do with nothing.
 Transcript Snippet: I was not invited to speak alongside President Trump and JD Vance on the stage.
 Anchored Artifacts: 
-Mentions: N-2, N-3
+Mentions: N-3, N-5, N-22
 Related Nodes: N-10057
 Confidence: medium
 Investigative Direction: Verify published speaker list for the Arizona memorial event.
@@ -1118,7 +1118,7 @@ Investigative Direction: FOIA requests to federal agencies; canvass Orem residen
 **C-1203** Host Says Steele Family Owns the Doorbell-Camera House
 
 Claim Timestamp: 00:14:59
-Claim: The host says property records show that the house whose footage appeared on TMZ is owned by Samuel Steele and his wife Carrie, not by Irwin Steel, though Irwin says he lives there.
+Claim: The host says her team found that Samuel Steele and his wife Carrie own the house that gave the footage that appeared on TMZ, not Irwin Steel, though Irwin says he lives in that house.
 Transcript Snippet: he Samuel and his wife Carrie are the ones that own the house that gave the footage, not Irwin.
 Anchored Artifacts: 
 Mentions: N-73, N-78, N-79
@@ -1128,13 +1128,13 @@ Investigative Direction: Pull county recorder data for the parcel to confirm own
 
 ---
 
-**C-1204** Bowling described 'quiet breakup' between Kirk and Owens
+**C-1204** Bolling Described 'Quiet Breakup' Between Kirk and Owens
 
 Claim Timestamp: 00:39:34
 Claim: Eric Bolling on PBD Podcast stated that Candace Owens would have been 'the logical heir to the TPUSA throne' absent a 'very quiet breakup where she got too rabbit hole for him'.
 Transcript Snippet: a very quiet breakup where she got too rabbit hole for him.
 Anchored Artifacts: A-1116.1
-Mentions: N-3, N-14, N-22, N-72
+Mentions: N-1, N-3, N-72
 Related Nodes: N-10000, N-10056
 Contradicts: C-1200
 Confidence: high
@@ -1145,7 +1145,7 @@ Investigative Direction: Verify Bowling's claim against TPUSA internal communica
 **C-3635** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:59:03
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: The host states that the CIA stands for the Candace Intelligence Agency and that the show considers itself the 'decentralized intelligent agency' because it gets tips from viewers.
 Transcript Snippet: ...obviously because we consider ourselves to be the decentralized intelligent agency because we get tips from you guys. Um, and we're willing to research and I wish I had a big...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1155,7 +1155,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-3636** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-3636** CIA Merch Framed as Candace / Decentralized Intelligence Agency Brand
 
 Claim Timestamp: 00:59:03
 Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
@@ -1169,15 +1169,15 @@ Investigative Direction: Confirm on-screen merch graphic if available; reuse M-1
 ---
 
 
-**C-3726** Host notes Harley Pastnic family was in piping and valves
+**C-3726** Host notes Harley Pasternak family was in piping and valves
 
 Claim Timestamp: 00:16:08
-Claim: The host says several people she looked into have families that manufacture valves, and that when she looked into Harley Pastnic, his family was in piping and valves.
-Transcript Snippet: when I was looking into Harley Pastnic, that's exactly what his family did. They were in piping and valves.
+Claim: The host says several people she looked into have families that manufacture valves, and that when she looked into Harley Pasternak, his family was in piping and valves.
+Transcript Snippet: when I was looking into Harley Pasternak, that's exactly what his family did. They were in piping and valves.
 Anchored Artifacts: A-2517.1
 Mentions: N-80
 Confidence: medium
-Investigative Direction: Check whether the valve business the host refers to connects to Harley Pastnic's family.
+Investigative Direction: Check whether the valve business the host refers to connects to Harley Pasternak's family.
 
 ---
 
@@ -1435,7 +1435,7 @@ Claim: The host says the footage described as doorbell camera footage was obviou
 Transcript Snippet: immediately actually I was wondering why were we ever told that it was doorbell cam footage.
 
 Anchored Artifacts: A-1112.1, A-1112.2
-Mentions: N-73
+Mentions: 
 Related Nodes: N-10052, N-10011
 Tags: relevance:core
 Investigative Direction: Locate the camera position and mounting height at the house and compare it with the TMZ frame.
@@ -1542,7 +1542,7 @@ Investigative Direction: Ask the BBC whether it holds the video and why it was n
 
 Claim Timestamp: 00:18:04
 
-Claim: The host says the federal 33-hour mark would put Robinson's surrender at about 9:00 p.m., but other sources told her it was closer to 7:00 p.m., which she says does not fit an evening dog walk.
+Claim: The host says the federal 33-hour mark would put Robinson's surrender at about 9:00 p.m., but other sources told her it was closer to 7:00 p.m.; she says a 9:00 p.m. time would not be described as an evening dog walk.
 
 Transcript Snippet: There are 33 hours should have been 900 p. m. uh is when Tyler Robinson they that turned himself in.
 
@@ -1707,7 +1707,7 @@ Claim: The host says the media attacks on her use the same talking points, that 
 Transcript Snippet: I they are all paring the same talking points. They're clearly collaborating. I can tell you it's a Zionist attack.
 
 Anchored Artifacts: 
-Mentions: N-3, N-36
+Mentions: N-3
 Related Nodes: N-10025
 Tags: relevance:context
 Investigative Direction: Compare the wording of the articles for shared phrasing and trace any common source; the coordination claim is an inference.
@@ -1723,7 +1723,7 @@ Claim: The host says that Zionists control a lot of publications in America and 
 Transcript Snippet: That Zionists control a lot of publications in America. That is just a reality.
 
 Anchored Artifacts: 
-Mentions: N-3, N-36
+Mentions: N-3
 Related Nodes: N-10025
 Tags: relevance:tangential
 Investigative Direction: This is a sweeping group claim with no specific ownership data given; ownership records would be needed to test any named outlet.
@@ -2000,7 +2000,7 @@ Claim: The host says someone who was at the Hamptons published a statement sayin
 Transcript Snippet: somebody that was at the Hampton's published a statement and said that Charlie said he felt morally blackmailed.
 
 Anchored Artifacts: A-1117.1
-Mentions: N-1, N-37
+Mentions: N-1
 Related Nodes: N-10016, N-10027
 Supports: C-10677
 Tags: relevance:core
@@ -2110,7 +2110,7 @@ Investigative Direction: Retrieve the TPUSA statement and the YWLS program from 
 
 Claim Timestamp: 00:41:05
 
-Claim: The host says that the Zionists started circling Charlie Kirk and trying to control things around the previous September.
+Claim: The host says that the Zionists started circling Charlie Kirk and trying to control things around September.
 
 Transcript Snippet: is that the Zionists started circling Charlie and trying to control things.
 
@@ -2190,7 +2190,7 @@ Investigative Direction: Check YouTube's account status history and announcement
 
 Claim Timestamp: 00:42:10
 
-Claim: The host says the pressure then extended beyond her to Tucker Carlson because Tucker went to AmFest (transcribed Amfest), and that donors said that could not happen again either.
+Claim: The host says the pressure then extended beyond her to Tucker Carlson because Tucker went to AmFest (transcribed Amfest), and that 'they' said that could not happen again either.
 
 Transcript Snippet: It was Tucker Carlson because Tucker went to Amfest and then they said that can't happen again either.
 
@@ -2274,7 +2274,7 @@ Investigative Direction: Date the first donor messages to Kirk and compare with 
 
 Claim Timestamp: 00:43:00
 
-Claim: The host says it was as if they wanted to take over the company Kirk built and turn it into just another outfit of the Mossad (transcribed MSAD), and that donors were spending money in ways she questions.
+Claim: The host says it was almost like they wanted to take over the company Kirk built and turn it into just another outfit of the Mossad (transcribed MSAD), and that they were "spiking the ball" where they were spending the money.
 
 Transcript Snippet: It was almost like they just wanted to take over the company that he had built and turn it into just another outfit of the MSAD.
 
@@ -2380,7 +2380,7 @@ Transcript Snippet: Brigitte Macron comes out and says they have offered scienti
 Anchored Artifacts: 
 Mentions: N-82, N-3
 Related Nodes: N-10270
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the Delaware court docket for any scientific evidence filed and read the lawyer's statement as reported.
 
 ---
@@ -2396,7 +2396,7 @@ Transcript Snippet: That's what her lawyer says. Well, the lawyer's a liar becau
 Anchored Artifacts: 
 Mentions: N-82, N-3
 Related Nodes: N-10270
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the docket for filings and the procedural stage of the case.
 
 ---
@@ -2412,7 +2412,7 @@ Transcript Snippet: You're born a male. And you've never sued anybody for making
 Anchored Artifacts: 
 Mentions: N-82, N-3
 Related Nodes: N-10270
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Read the complaint's causes of action and statements of claim as filed.
 
 ---
@@ -2460,7 +2460,7 @@ Anchored Artifacts:
 Mentions: N-37
 Related Nodes: N-10027, N-10134
 Supports: C-1161
-Tags: relevance:core
+Tags: relevance:tangential
 Investigative Direction: Identify the attendee and compare against any recording or notes of the retreat.
 
 ---

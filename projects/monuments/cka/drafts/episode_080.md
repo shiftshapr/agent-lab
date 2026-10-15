@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 939a276fa7153675fa4c129ca613874ab4780ba8fb986b1877810b00297f327b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-949, N-950, N-951, N-11396
+  - Tip-minted Nodes (supplement_2026-10g): N-947, N-948, N-949, N-11396
   - Hole-minted Nodes (reintro-ep080): N-10606
-  - Tip-minted Nodes (reintro-ep080): N-606
+  - Tip-minted Nodes (reintro-ep080): N-604
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14386–C-14449
   - New Nodes Introduced: N-10545, N-10546
-  - Reused Nodes Appearing: none, N-10544, N-5, N-9, N-14, N-46, N-68, N-69, N-162, N-194, N-272, N-278, N-333, N-560, N-590, N-598, N-10000, N-10023, N-10063, N-10202, N-10324, N-10355, N-10406, N-10411, N-10533, N-10534, N-10539, N-10541, N-10956, N-11035, N-11228, N-11340
-  - Hole-minted Nodes (remap-ep80): N-153
+  - Reused Nodes Appearing: none, N-10544, N-5, N-9, N-14, N-46, N-68, N-69, N-161, N-192, N-270, N-276, N-331, N-558, N-588, N-596, N-10000, N-10023, N-10063, N-10202, N-10324, N-10355, N-10406, N-10411, N-10533, N-10534, N-10539, N-10541, N-10956, N-11035, N-11228, N-11340
+  - Hole-minted Nodes (remap-ep80): N-152
   - (see registers)
 
 ## Episode 80 Ledger Summary
@@ -159,7 +159,7 @@ Video Timestamp: 00:16:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2505, N-153*
+*Related: C-2505, N-152*
 
 ---
 
@@ -359,7 +359,7 @@ Investigative Pressure: High
 
 ---
 
-**N-153** Taylor Budowich
+**N-152** Taylor Budowich
 
 Node Type: Person
 Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.
@@ -456,7 +456,7 @@ FBI director; the host says he blocked a foreign-involvement inquiry and said th
 
 ---
 
-**N-149** Theo Von
+**N-148** Theo Von
 
 Comedian whose clip on Israel the host plays.
 
@@ -464,7 +464,7 @@ Comedian whose clip on Israel the host plays.
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 Named by the host among those TPUSA presents as authorities.
 
@@ -472,7 +472,7 @@ Named by the host among those TPUSA presents as authorities.
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Named by the host among those TPUSA presents as authorities.
 
@@ -480,7 +480,7 @@ Named by the host among those TPUSA presents as authorities.
 
 ---
 
-**N-213** Joe Kent
+**N-211** Joe Kent
 
 Director of the National Counterterrorism Center who resigned; author of the letter.
 
@@ -488,7 +488,7 @@ Director of the National Counterterrorism Center who resigned; author of the let
 
 ---
 
-**N-248** Mark Levin
+**N-246** Mark Levin
 
 Author of the post calling Kent part of a woke right cabal.
 
@@ -496,7 +496,7 @@ Author of the post calling Kent part of a woke right cabal.
 
 ---
 
-**N-272** Joe Rogan
+**N-270** Joe Rogan
 
 Named in the host's chart-position comparison.
 
@@ -504,7 +504,7 @@ Named in the host's chart-position comparison.
 
 ---
 
-**N-277** Mike Huckabee
+**N-275** Mike Huckabee
 
 US ambassador shown with Netanyahu in the March 15 video.
 
@@ -512,7 +512,7 @@ US ambassador shown with Netanyahu in the March 15 video.
 
 ---
 
-**N-278** Jonathan Pollard
+**N-276** Jonathan Pollard
 
 Named by the host in her remark on Huckabee's support.
 
@@ -520,7 +520,7 @@ Named by the host in her remark on Huckabee's support.
 
 ---
 
-**N-333** Tulsi Gabbard
+**N-331** Tulsi Gabbard
 
 Director of National Intelligence; the host says Kent worked in her office.
 
@@ -528,7 +528,7 @@ Director of National Intelligence; the host says Kent worked in her office.
 
 ---
 
-**N-560** Carrie Prejean Bowler
+**N-558** Carrie Prejean Bowler
 
 Speaker at the Catholics for Catholics event.
 
@@ -536,7 +536,7 @@ Speaker at the Catholics for Catholics event.
 
 ---
 
-**N-588** Sarah Huckabee Sanders
+**N-586** Sarah Huckabee Sanders
 
 Arkansas governor who signed the Club America proclamation.
 
@@ -544,7 +544,7 @@ Arkansas governor who signed the Club America proclamation.
 
 ---
 
-**N-590** Renee Crossman
+**N-588** Renee Crossman
 
 Erika Kirk's Romanian partner whose religious background the host is researching.
 
@@ -552,7 +552,7 @@ Erika Kirk's Romanian partner whose religious background the host is researching
 
 ---
 
-**N-598** Bret Weinstein
+**N-596** Bret Weinstein
 
 Named as Kirk's correspondent in the host's account of his messages.
 
@@ -560,7 +560,7 @@ Named as Kirk's correspondent in the host's account of his messages.
 
 ---
 
-**N-606** Scott Bessent
+**N-604** Scott Bessent
 
 Treasury Secretary pulled to the Situation Room.
 
@@ -704,7 +704,7 @@ Organization the host says is being sued over Romanian children.
 
 ---
 
-**N-949** Dino Fonte Grassi
+**N-947** Dino Fonte Grassi
 
 First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrassi). President of the Turning Point USA University of Arkansas chapter who wrote the disaffiliation letter.
 
@@ -712,7 +712,7 @@ First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrass
 
 ---
 
-**N-950** Shannon Kent
+**N-948** Shannon Kent
 
 First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom the host says was killed by a suicide bomber in Syria in January 2019.
 
@@ -720,7 +720,7 @@ First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom th
 
 ---
 
-**N-951** Johnny Yep
+**N-949** Johnny Yep
 
 First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and Johnny Yep). Organizer of Catholics for Catholics, per the host's description of the event organizer and a web check of the event.
 
@@ -746,7 +746,7 @@ Claim Timestamp: 00:04:57
 Claim: Joe Kent's letter states he has resigned from the Director of the National Counterterrorism Center effective the day of the letter, citing inability in good conscience to support the ongoing war in Iran.
 
 Anchored Artifacts: A-1861.1
-Mentions: N-213
+Mentions: N-211
 
 Related Nodes: N-10546
 
@@ -803,7 +803,7 @@ Claim Timestamp: 00:07:42
 Claim: In a clip the host plays, President Trump, asked about Joe Kent's resignation, says he read Kent's statement and describes Kent as "weak on security."
 
 Anchored Artifacts: A-1862.1
-Mentions: N-213
+Mentions: N-211
 
 Related Nodes: N-10546
 
@@ -832,7 +832,7 @@ Claim Timestamp: 00:14:29
 Claim: Senator Lindsey Graham publicly stated that Kent's resignation "could not have come at a better time" and that Kent's statement was echoing "Democratic talking points."
 
 Anchored Artifacts: A-1863.1
-Mentions: N-458
+Mentions: N-456
 
 Related Nodes: N-10546
 
@@ -847,7 +847,7 @@ Claim Timestamp: 00:15:07
 Claim: Per a post the host reads from Mark Levin, Levin speculated that Kent "was about to be fired but quickly resigned first."
 
 Anchored Artifacts: A-1864.1
-Mentions: N-248
+Mentions: N-246
 
 Related Nodes: N-10546
 
@@ -862,7 +862,7 @@ Claim Timestamp: 00:16:55
 Claim: The host says Mark Levin called for the DOJ to open a criminal investigation to determine if Kent leaked classified information.
 
 Anchored Artifacts: A-1864.2
-Mentions: N-248
+Mentions: N-246
 
 Related Nodes: N-10546
 
@@ -892,7 +892,7 @@ Claim Timestamp: 00:15:58
 Claim: Per a post the host reads, Alan Dershowitz referred to Kent as a "neo-Nazi Jew hating Israel basher" who had quit the administration.
 
 Anchored Artifacts: A-1866.1
-Mentions: N-540
+Mentions: N-538
 
 Related Nodes: N-10546
 
@@ -907,7 +907,7 @@ Claim Timestamp: 00:16:55
 Claim: The host says Taylor Budowich, in a tweet, described Kent as a "crazed egomaniac" who was "often at the center of national security leaks."
 
 Anchored Artifacts: A-1867.1
-Mentions: N-153
+Mentions: N-152
 
 Related Nodes: N-10546
 
@@ -922,7 +922,7 @@ Claim Timestamp: 00:20:55
 Claim: Theo Von publicly characterized Israeli political leaders as feeling like "a satanic regime" and stated he does not understand the U.S. government's relationship with Israel's leaders.
 
 Anchored Artifacts: A-1868.1
-Mentions: N-149
+Mentions: N-148
 
 Related Nodes:
 
@@ -1109,7 +1109,7 @@ Claim Timestamp: 00:53:23
 Claim: Benjamin Netanyahu posted a hyper-produced HD video with U.S. Ambassador Mike Huckabee on March 15, ostensibly to prove he is alive.
 
 Anchored Artifacts: A-1876.1
-Mentions: N-36, N-277
+Mentions: N-36, N-275
 
 Related Nodes: N-10544
 
@@ -1138,7 +1138,7 @@ Claim Timestamp: 00:31:39
 Claim: The host says Erica Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.
 
 Anchored Artifacts: A-1869.1
-Mentions: N-2, N-588
+Mentions: N-2, N-586
 
 Related Nodes: N-10545
 
@@ -1153,7 +1153,7 @@ Claim Timestamp: 00:31:39
 Claim: In a local news segment the host plays, the reporter says Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.
 
 Anchored Artifacts: A-1869.1
-Mentions: N-2, N-588
+Mentions: N-2, N-586
 
 Related Nodes: N-10545
 
@@ -1183,7 +1183,7 @@ Claim Timestamp: 00:33:39
 Claim: In a clip the host plays, Charlie Kirk questions Senator Ted Cruz's use of the Bible to justify U.S. aid to Israel, saying Cruz "doesn't even know the verse."
 
 Anchored Artifacts: A-1871.1
-Mentions: N-1, N-107
+Mentions: N-1, N-106
 
 Related Nodes: N-10545
 
@@ -1216,7 +1216,7 @@ Claim: The host says Joe Kent's late wife, Shannon Kent, was killed by a suicide
 Transcript Snippet: Shannon was the first female combat combat death in Syria uh since combat operations began against ISIS.
 
 Anchored Artifacts: 
-Mentions: N-213, N-950
+Mentions: N-211, N-948
 Related Nodes: N-10546
 Tags: relevance:context
 Investigative Direction: Check the Department of Defense casualty release and contemporaneous news reports on the January 2019 Manbij bombing for the date, cause and the 'first female' description.
@@ -1232,7 +1232,7 @@ Claim: The host says Shannon Kent was also the first female US service member ki
 Transcript Snippet: she was also the first female US service member that was killed by enemy fire in more than 3 years up until that point.
 
 Anchored Artifacts: 
-Mentions: N-213, N-950
+Mentions: N-211, N-948
 Related Nodes: N-10546
 Tags: relevance:context
 Investigative Direction: Compare against DoD casualty lists of female service members killed by hostile fire from 2015 to 2019.
@@ -1248,7 +1248,7 @@ Claim: Joe Kent's resignation letter, as read by the host, says early in the adm
 Transcript Snippet: high-ranking Israeli officials and influential members of the American media deployed a misinformation campaign that wholly undermined your America first platform and sowed pro-war sentiments to encourage a war with Iran.
 
 Anchored Artifacts: A-1861.1
-Mentions: N-213, N-5
+Mentions: N-211, N-5
 Related Nodes: N-10546
 Supports: C-2496
 Tags: relevance:context
@@ -1265,7 +1265,7 @@ Claim: The letter as read says that until June 2025 Trump understood that wars i
 Transcript Snippet: Until June of 2025, you understood that the wars in the Middle East were a trap that robbed America of the precious lives of our patriots and depleted the wealth and prosperity of our nation.
 
 Anchored Artifacts: A-1861.1
-Mentions: N-213, N-5
+Mentions: N-211, N-5
 Related Nodes: N-10546, N-10539
 Tags: relevance:context
 Investigative Direction: Compare the letter's June 2025 turning point with the June 2025 strikes on Iran and Charlie Kirk's June 2025 opposition to the war.
@@ -1281,7 +1281,7 @@ Claim: The letter as read says the claim that Iran posed an imminent threat was 
 Transcript Snippet: This was a lie and is the same tactic the Israelis used to draw us into the disastrous Iraq war that cost our nation the lives of thousands of our best men and women.
 
 Anchored Artifacts: A-1861.1
-Mentions: N-213
+Mentions: N-211
 Related Nodes: N-10546
 Supports: C-2495, C-2496
 Tags: relevance:context
@@ -1298,7 +1298,7 @@ Claim: In the clip Trump says that after reading Kent's statement he realized it
 Transcript Snippet: when I read his statement, I realized that it's a good thing that he's out because he said that Iran was not a threat.
 
 Anchored Artifacts: A-1862.1
-Mentions: N-5, N-213
+Mentions: N-5, N-211
 Related Nodes: N-10546
 Supports: C-2498
 Tags: relevance:context
@@ -1331,7 +1331,7 @@ Claim: The host says Charlie Kirk intimated in messages with Bret Weinstein that
 Transcript Snippet: Exactly what Charlie had intimated in those messages with Bret Weinstein.
 
 Anchored Artifacts: 
-Mentions: N-1, N-598, N-5
+Mentions: N-1, N-596, N-5
 Tags: relevance:context
 Investigative Direction: Obtain the Kirk and Weinstein messages and check whether they say what the host describes.
 
@@ -1376,7 +1376,7 @@ Claim: Mark Levin's post, as read by the host, calls Kent part of the radical is
 Transcript Snippet: He's part of the radical isolationist woke right cabal.
 
 Anchored Artifacts: A-1864.1
-Mentions: N-248, N-213
+Mentions: N-246, N-211
 Related Nodes: N-10546
 Supports: C-2501
 Tags: relevance:context
@@ -1393,7 +1393,7 @@ Claim: Laura Loomer's post, as read by the host, says she would fire everyone to
 Transcript Snippet: I would fire everyone and teach them a lesson that they would never forget. Rule with an iron fist. Punish everyone who leaks and undermines you.
 
 Anchored Artifacts: A-1865.1
-Mentions: N-60, N-213
+Mentions: N-60, N-211
 Related Nodes: N-10546
 Supports: C-2503
 Tags: relevance:context
@@ -1410,7 +1410,7 @@ Claim: The host says she will interview Joe Kent that Thursday at the Catholics 
 Transcript Snippet: Joe Kent I'm going to be interviewing him this Thursday at the Catholics for Catholics event in DC.
 
 Anchored Artifacts: 
-Mentions: N-3, N-213
+Mentions: N-3, N-211
 Related Nodes: N-10956
 Tags: relevance:context
 Investigative Direction: Check the Catholics for Catholics program for the March 19, 2026 event and whether the interview took place.
@@ -1426,7 +1426,7 @@ Claim: The host says the Catholics for Catholics event is not an anti-Zionist co
 Transcript Snippet: They have just been emailing everyone calling everybody asking for cancellations
 
 Anchored Artifacts: 
-Mentions: N-560, N-3
+Mentions: N-558, N-3
 Related Nodes: N-10956
 Tags: relevance:context
 Investigative Direction: Ask the organizers for the cancellation emails and calls received, and check the published event agenda.
@@ -1457,7 +1457,7 @@ Claim: In the clip Theo Von says he believes the attacks will come to America on
 Transcript Snippet: I believe that that will come here one day. I don't believe that uh that the Israeli leaders that they have any intention to to stop that.
 
 Anchored Artifacts: A-1868.1
-Mentions: N-149
+Mentions: N-148
 Tags: relevance:tangential
 Investigative Direction: Verify wording against the original Theo Von podcast episode.
 
@@ -1472,7 +1472,7 @@ Claim: In the clip Theo Von says that if people do not speak up now their childr
 Transcript Snippet: I believe that if we don't speak up now that our children won't have the chance to speak up. Either by law or by worse.
 
 Anchored Artifacts: A-1868.1
-Mentions: N-149
+Mentions: N-148
 Tags: relevance:tangential
 Investigative Direction: Verify wording against the original Theo Von podcast episode.
 
@@ -1487,7 +1487,7 @@ Claim: In the clip Theo Von says he does not understand Trump's relationship wit
 Transcript Snippet: why we are so beholden to these to this government this Israeli government that that just seems to be obsessed with uh control.
 
 Anchored Artifacts: A-1868.1
-Mentions: N-149, N-5
+Mentions: N-148, N-5
 Tags: relevance:tangential
 Investigative Direction: Verify wording against the original Theo Von podcast episode.
 
@@ -1502,7 +1502,7 @@ Claim: The host says the organizer of Catholics for Catholics has been harassed 
 Transcript Snippet: the pain that they have put him through, the harassment that they have gone through because you're not allowed to have an event if it's with somebody that doesn't support mass murder in Gaza.
 
 Anchored Artifacts: 
-Mentions: N-951, N-3
+Mentions: N-949, N-3
 Related Nodes: N-10956, N-10063
 Tags: relevance:context
 Investigative Direction: Ask Catholics for Catholics for the harassment communications it received and compare with the host's description.
@@ -1550,7 +1550,7 @@ Claim: The host says Joe Kent was one of the people who bumped heads with Kash P
 Transcript Snippet: Joe Kent was one of the people who bumped heads with Kash Patel during the investigation into who killed Charlie Kirk
 
 Anchored Artifacts: 
-Mentions: N-213, N-69, N-1
+Mentions: N-211, N-69, N-1
 Related Nodes: N-10355
 Supports: C-1952
 Tags: relevance:core
@@ -1584,7 +1584,7 @@ Claim: The host says investigating foreign involvement would have shifted the in
 Transcript Snippet: Because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.
 
 Anchored Artifacts: 
-Mentions: N-333, N-213, N-69
+Mentions: N-331, N-211, N-69
 Related Nodes: N-10355
 Tags: relevance:core
 Investigative Direction: Check ODNI and NCTC organizational reporting lines and whether either office was tasked on the Kirk case.
@@ -1600,7 +1600,7 @@ Claim: The host says Sarah Huckabee Sanders signed the proclamation on behalf of
 Transcript Snippet: Sarah Huckabee Sanders was signing the proclamation on behalf of Club America, uh which is Turning Point USA's incursion into high schools, buyer beware.
 
 Anchored Artifacts: 
-Mentions: N-588, N-2
+Mentions: N-586, N-2
 Related Nodes: N-10533
 Supports: C-2457, C-2522
 Tags: relevance:context
@@ -1617,7 +1617,7 @@ Claim: The host says the Arkansas chapter president, Dino Fonte Grassi, has been
 Transcript Snippet: he's been with Turning Point USA for more than 5 years.
 
 Anchored Artifacts: 
-Mentions: N-949
+Mentions: N-947
 Related Nodes: N-10545
 Tags: relevance:context
 Investigative Direction: Check chapter records and Fonte Grassi's public history with TPUSA.
@@ -1649,7 +1649,7 @@ Claim: The letter as read says the chapter has many grievances with Turning Poin
 Transcript Snippet: we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one.
 
 Anchored Artifacts: A-1870.1
-Mentions: N-949
+Mentions: N-947
 Related Nodes: N-10545
 Tags: relevance:context
 Investigative Direction: Verify the text against Fonte Grassi's Instagram post and ask TPUSA whether it received the private grievances.
@@ -1665,7 +1665,7 @@ Claim: The letter as read says Charlie Kirk cannot speak for himself anymore and
 Transcript Snippet: Charlie Kirk cannot speak for himself anymore and we do not recognize the way others have attempted to speak for him.
 
 Anchored Artifacts: A-1870.1
-Mentions: N-949, N-1
+Mentions: N-947, N-1
 Related Nodes: N-10545
 Supports: C-2510
 Tags: relevance:context
@@ -1682,7 +1682,7 @@ Claim: The host says Charlie Kirk's July sit-down with students was meant to get
 Transcript Snippet: He sort of just sat up with a bunch of students and tried to get their opinion to show donors like you can't treat these kids like this.
 
 Anchored Artifacts: A-1871.1
-Mentions: N-1, N-949
+Mentions: N-1, N-947
 Related Nodes: N-10545
 Tags: relevance:core
 Investigative Direction: Identify the event, date and organizer of the July 2025 sit-down and any donor presentation that used it.
@@ -1715,7 +1715,7 @@ Claim: The host says she believes Dino Fonte Grassi appeared on The Charlie Kirk
 Transcript Snippet: He was also on the Charlie Kirk show. I believe he was on it actually after Charlie Kirk assassinated.
 
 Anchored Artifacts: 
-Mentions: N-949, N-1
+Mentions: N-947, N-1
 Related Nodes: N-10545
 Tags: relevance:context
 Investigative Direction: Check Charlie Kirk Show episode listings for Fonte Grassi after September 10, 2025.
@@ -1731,7 +1731,7 @@ Claim: The host says Blake Neff and Mikey McCoy are presented as authorities whi
 Transcript Snippet: so much so that we won't even help the public investigate what happened on that day. Things that in no way would transform the ongoing investigation.
 
 Anchored Artifacts: 
-Mentions: N-162, N-194, N-3
+Mentions: N-161, N-192, N-3
 Tags: relevance:core
 Investigative Direction: List the specific questions put to TPUSA and its responses.
 
@@ -1777,7 +1777,7 @@ Claim: The host says the Erika series is paused because she is deep in research 
 Transcript Snippet: the reason why we need to pause the series is because learning about I'm in a deep research hole right now regarding that cult that Renee Crossman who Erika partnered with over in Romania was in.
 
 Anchored Artifacts: 
-Mentions: N-590, N-2, N-3
+Mentions: N-588, N-2, N-3
 Related Nodes: N-10534, N-11396
 Supports: C-2470
 Tags: relevance:context
@@ -1794,7 +1794,7 @@ Claim: The host says the cult is The Family International, which was called Chil
 Transcript Snippet: The Family International. Think like the Charles Manson, like The Family International and Child of Child of God, Children of God is what it was called called before that
 
 Anchored Artifacts: 
-Mentions: N-590
+Mentions: N-588
 Related Nodes: N-11396, N-10534
 Supports: C-2470
 Tags: relevance:context
@@ -1971,7 +1971,7 @@ Claim: The host says Bessent was pulled into a two-hour Situation Room session o
 Transcript Snippet: Very strange two-hour situation room gets pulled in again that's on the 12th
 
 Anchored Artifacts: A-1873.1
-Mentions: N-606
+Mentions: N-604
 Related Nodes: N-10544
 Supports: C-2512
 Tags: relevance:context
@@ -2037,7 +2037,7 @@ Claim: In the video Netanyahu tells Mike Huckabee he erased two names on the pun
 Transcript Snippet: Today I erased two names on the punch cards and you see how many more to go on this batch.
 
 Anchored Artifacts: A-1876.1
-Mentions: N-36, N-277
+Mentions: N-36, N-275
 Related Nodes: N-10544
 Tags: relevance:context
 Investigative Direction: Check the original video from Netanyahu's account and the Hebrew and English captions.
@@ -2053,7 +2053,7 @@ Claim: In the video Mike Huckabee says the president and US forces are getting r
 Transcript Snippet: getting rid of these lunatics who would like to develop nuclear weapons and the means to deliver them to every American city after wiping out Israel.
 
 Anchored Artifacts: A-1876.1
-Mentions: N-277, N-36
+Mentions: N-275, N-36
 Related Nodes: N-10544
 Tags: relevance:context
 Investigative Direction: Verify wording against the original video.
@@ -2162,7 +2162,7 @@ Claim: The host says her show is back at the top of the charts globally, in a th
 Transcript Snippet: I think I'm in a a three-way tie actually with uh, Joe Rogan and the Kill Tony podcast. 3.2 million uh, audio downloads daily.
 
 Anchored Artifacts: 
-Mentions: N-3, N-272
+Mentions: N-3, N-270
 Related Nodes: N-11228
 Tags: relevance:tangential
 Investigative Direction: Compare with Spotify, Apple and Podtrac chart data for mid-March 2026.
@@ -2178,7 +2178,7 @@ Claim: The host says Mike Huckabee notoriously supported Jonathan Pollard, whom 
 Transcript Snippet: he notoriously supported Jonathan Pollard who was a literal American spy.
 
 Anchored Artifacts: 
-Mentions: N-277, N-278, N-3
+Mentions: N-275, N-276, N-3
 Tags: relevance:tangential
 Investigative Direction: Check Huckabee's public statements on Pollard; the blackmail remark is speculation recorded as said.
 

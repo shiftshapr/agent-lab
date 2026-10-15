@@ -1,0 +1,782 @@
+[
+ {
+  "claim": "C-9413",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9414",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim never names Patel, so N-69 is not a Mention. 'as officials implied' is added: host says 'they' ran with routine servicing.",
+  "fix": {
+   "claim": "The host says she is telling viewers as a fact that the Egyptian plane's September 4 stop in Utah was not routine servicing, as \"they\" claimed, and that it carried military subcontractors who were dropped off in Provo.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9415",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9416",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9417",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9418",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9419",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9420",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9421",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9422",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9423",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9424",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Stop Antisemitism naming the host 'top anti-Semite' is about the host herself, not the assassination: tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-9425",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9426",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9427",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9428",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name or refer to Seth Dillon (N-38); he is only called a liar in the surrounding sentence.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-9429",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9430",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9431",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9432",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9433",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9434",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9435",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9436",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9437",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9438",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9439",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9440",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9441",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9442",
+  "episode": 22,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Mark says 'it was actually in Idaho'; the '20 minutes out' and 'didn't get over Provo until 20 minutes after he was shot, right? That's what I said earlier' are the host's words.",
+  "fix": {
+   "claim": "Mark says a screenshot shows N1098L was in Idaho at the moment Charlie was shot; the host adds that it was about 20 minutes out and did not get over Provo until about 20 minutes after he was shot."
+  }
+ },
+ {
+  "claim": "C-9443",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9444",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9445",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9446",
+  "episode": 22,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1545",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Rob McCoy (N-17); N-1 is covered by 'Charlie Kirk events' in the title. City list is spoken later, not in snippet.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1546",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no people; N-1 not referenced. Dates other than Feb 21 are spoken elsewhere.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1547",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'January 3rd, 2024, Mikey McCoy is promoted... I have the internal email' is spoken about 19:55; claim ts 20:27 is over 30s late.",
+  "fix": {
+   "timestamp": "00:19:50"
+  }
+ },
+ {
+  "claim": "C-1548",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mark's correction is only relayed later ('supposed to be in 2025... Is that what you were saying, Mark?'); 'May' is not in the transcript. Claim does not name Charlie or Mikey McCoy.",
+  "fix": {
+   "claim": "The episode displays a TPUSA UNL Instagram post announcing the chapter's first weekly meeting; the host initially dates this to February 11, 2024, while director Mark later corrects the date to 2025. Both assertions are recorded as competing host-side positions against a single artifact.",
+   "mentions": [
+    "N-67"
+   ]
+  }
+ },
+ {
+  "claim": "C-1549",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1550",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Spoken about 26:15 ('appeared to be a legitimate maintenance stop... I don't know for certain'); claim ts 26:47 is about 30s late and the hedge is dropped.",
+  "fix": {
+   "claim": "The host says the May 23, 2025 Provo arrival of SUBND appeared to be a \"legitimate maintenance stop\" based on test-flying activity around that time, adding \"I don't know for certain\".",
+   "timestamp": "00:26:10"
+  }
+ },
+ {
+  "claim": "C-1551",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'lands in Provo on September 4th at 12:46' with no AM/PM.",
+  "fix": {
+   "claim": "The episode presents that SUBTT landed in Provo on September 4, 2025 at 12:46 and that, per a \"person overseas who had intimate knowledge,\" the plane was full on arrival."
+  }
+ },
+ {
+  "claim": "C-1552",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'3 days later... on September 13th, our blue plane... leave through Canada' is spoken about 40:10; claim ts 40:48 is about 38s late.",
+  "fix": {
+   "timestamp": "00:40:05"
+  }
+ },
+ {
+  "claim": "C-1553",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1554",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1555",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1556",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Shooting details spoken about 16:05 ('November 7th, 2018... kills 11 patrons and then himself'); ts 17:04 is about 55s late. Rob McCoy not named in claim.",
+  "fix": {
+   "timestamp": "00:16:00",
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1557",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1558",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says 'almost a million dollars' and reads '500 envelopes fell out of the wall'; no $500,000 stated. Discovery is spoken ~28:50, ts 29:46 is about 55s late.",
+  "fix": {
+   "claim": "The host says a news story she brings up reports that a plumber repairing a toilet at Joel Osteen's megachurch found about 500 envelopes of cash in a wall (she first recalls almost a million dollars), and she characterizes Osteen's excuse as saying the church had money missing.",
+   "timestamp": "00:28:50"
+  }
+ },
+ {
+  "claim": "C-1559",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Speech content is spoken from ~31:40 ('July 11th of 2025'); ts 32:39 is nearly 60s late. 'citizenship stripped, something along those lines' is hedged. Charlie Kirk not named in claim.",
+  "fix": {
+   "claim": "The host says Tucker Carlson delivered a speech at the TPUSA conference on July 11, 2025 in which he referenced Jeffrey Epstein, said people who serve in foreign armies should probably have their citizenship stripped, \"something along those lines,\" and mused on Bill Ackman's wealth.",
+   "timestamp": "00:31:35",
+   "mentions": [
+    "N-22",
+    "N-9",
+    "N-37"
+   ]
+  }
+ },
+ {
+  "claim": "C-1560",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: a woman donor 'instantly started yelling at Charlie. Charlie then gets the full donor squeeze, you are not allowed to be anti-Israel.' 'Can never' is not said; Bowyer said TPUSA will always be pro-Israel to her in 2024, not to Charlie.",
+  "fix": {
+   "claim": "The host says she knows for a fact that when Tucker came off stage after his July 11, 2025 speech, a woman donor she has not named instantly started yelling at Charlie, and that Charlie then got the full donor squeeze: \"you are not allowed to be anti-Israel.\""
+  }
+ },
+ {
+  "claim": "C-1561",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host paraphrases 'Somebody made a comment... Charlie actually did fly into Salt Lake City... apparently he had an interview with Restaurantology Summit'; not read aloud verbatim, no date given. Unresolved name: Restaurantology Summit.",
+  "fix": {
+   "claim": "The host says a viewer made a comment that Charlie actually did fly into Salt Lake City, so that was his plane, and that apparently he had an interview with Restaurantology Summit, so she says to ignore her earlier tidbit about the N102DZ flight."
+  }
+ },
+ {
+  "claim": "C-1562",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1563",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'It is true that Charlie did not know where the money was coming from. That's why he established DOGE' is spoken ~37:25; ts 38:00 is 35s late. 'internet DOGE' is the host's request to accountants.",
+  "fix": {
+   "claim": "The host states it is true that Charlie Kirk did not know where the money was coming from or going to, and that this is why he established DOGE.",
+   "timestamp": "00:37:20"
+  }
+ },
+ {
+  "claim": "C-1564",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1565",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1566",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Feucht's NAR upbringing comes from his biography the host reads (~11:43), not Village Crazy Lady, who only said 'something's going on here' re Rob McCoy. Content starts ~11:43, ts 13:18 is over 90s late.",
+  "fix": {
+   "claim": "The host says Sean Feucht's biography says he grew up in a New Apostolic Reformation (NAR) church, and that X user Village Crazy Lady told her to look into NAR, saying something is going on if you start talking about Rob McCoy, which the host says will somehow be relevant at this early phase of the investigation.",
+   "timestamp": "00:11:38"
+  }
+ },
+ {
+  "claim": "C-1567",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says McCoy 'has got some terrible luck' and 'I don't mean like he shot anybody'; she does not call his proximity to shootings suspect.",
+  "fix": {
+   "claim": "The host states that Rob McCoy was in Nashville when the trans shooting happened and was close to Charlie Kirk when he was shot, that he says \"I was his pastor,\" and that she says McCoy has terrible luck, adding she does not mean he shot anybody."
+  }
+ },
+ {
+  "claim": "C-3748",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12262",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12263",
+  "episode": 23,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

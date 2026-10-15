@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 2d9d0df8e23c9f62f81f6c3e040382229ea2371024c1d0d0064710f1b9969c26
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-857, N-11231
-  - Hole-minted Nodes (reintro-ep028): N-380, N-10451
+  - Tip-minted Nodes (supplement_2026-10d): N-855, N-11231
+  - Hole-minted Nodes (reintro-ep028): N-378, N-10451
   - Tip-minted Nodes (reintro-ep028): N-11159
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9647–C-9697
-  - Tip-minted Nodes (reintro-ep028): N-718
+  - Tip-minted Nodes (reintro-ep028): N-716
   - (see registers)
 
 ## 6. Meme Register
@@ -141,8 +141,8 @@ Confidence: high
 
 - Artifact Families Introduced: A-1355, A-1356, A-1357, A-1358, A-1359, A-1360, A-1361, A-1362, A-1363
 - Claim Range: C-1636 – C-1651
-  - New Nodes Introduced: N-238, N-239, N-10237, N-10238
-  - Reused Nodes Appearing: N-34, N-36, N-148, N-182, N-226, N-233, N-371, N-667, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424
+  - New Nodes Introduced: N-236, N-237, N-10237, N-10238
+  - Reused Nodes Appearing: N-34, N-36, N-147, N-180, N-224, N-231, N-369, N-665, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boreing, Marjorie Taylor Greene, Eric Trump, Laura Trump, Ron Paul, Seth Dillon (node IDs to be reconciled against full ledger)
 
 ---
@@ -205,7 +205,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:06:24–00:08:57
 Confidence Level: High (audio played on air)
-*Related: C-1636, N-Tucker Carlson (existing), N-Marjorie Taylor Greene (existing), N-Zohran Mamdani (N-227)*
+*Related: C-1636, N-Tucker Carlson (existing), N-Marjorie Taylor Greene (existing), N-Zohran Mamdani (N-225)*
 
 ---
 
@@ -277,7 +277,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:25:16–00:27:36
 Confidence Level: High (audio played on air)
-*Related: C-1643, N-Candace Owens (existing), N-Ariana (N-239), N-Daily Wire (existing)*
+*Related: C-1643, N-Candace Owens (existing), N-Ariana (N-237), N-Daily Wire (existing)*
 
 ---
 
@@ -289,7 +289,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:33:44–00:35:14
 Confidence Level: High (audio played on air)
-*Related: C-1644, C-1645, C-1651, N-Candace Owens (existing), N-Elle Reeve (N-238), N-CNN (existing)*
+*Related: C-1644, C-1645, C-1651, N-Candace Owens (existing), N-Elle Reeve (N-236), N-CNN (existing)*
 
 ---
 
@@ -346,7 +346,7 @@ Confidence Level: Medium
 
 ### People
 
-**N-718** Ron Paul
+**N-716** Ron Paul
 
 Libertarian former congressman; named in C-1649 (Shapiro imagery).
 
@@ -354,7 +354,7 @@ Libertarian former congressman; named in C-1649 (Shapiro imagery).
 
 ---
 
-**N-238** Elle Reeve
+**N-236** Elle Reeve
 
 CNN journalist who conducted the aired CNN interview of Candace Owens; introduced in this episode and relevant as the named questioner in the "Zionist-occupied government" exchange.
 
@@ -367,7 +367,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-227** Zohran Mamdani
+**N-225** Zohran Mamdani
 
 NYC Democratic mayoral primary winner referenced in Tucker Carlson and Ben Shapiro stage discussions; relevant as the named political figure in the Mamdani-coverage dispute between Shapiro and Carlson.
 
@@ -380,7 +380,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-239** Ariana
+**N-237** Ariana
 
 Daily Wire intern identified by Candace Owens at YWLS 2024 as having been dispatched covertly to record Owens. Full surname not stated.
 
@@ -507,7 +507,7 @@ Guest at the Kelly tour stop; subject of the host's rebuttal.
 
 ---
 
-**N-148** Marjorie Taylor Greene
+**N-147** Marjorie Taylor Greene
 
 Interlocutor in the played Carlson clip.
 
@@ -515,7 +515,7 @@ Interlocutor in the played Carlson clip.
 
 ---
 
-**N-182** Jared Kushner
+**N-180** Jared Kushner
 
 Named by the host in her remarks on the Trump family and Middle East deals.
 
@@ -523,7 +523,7 @@ Named by the host in her remarks on the Trump family and Middle East deals.
 
 ---
 
-**N-205** Nick Fuentes
+**N-203** Nick Fuentes
 
 Subject of the Boring conversation, Shapiro's remarks and the host's views.
 
@@ -531,7 +531,7 @@ Subject of the Boring conversation, Shapiro's remarks and the host's views.
 
 ---
 
-**N-226** Randy Fine
+**N-224** Randy Fine
 
 Congressman the host says Shapiro congratulated.
 
@@ -539,7 +539,7 @@ Congressman the host says Shapiro congratulated.
 
 ---
 
-**N-233** Alyssa Cordova
+**N-231** Alyssa Cordova
 
 Named by the host as orchestrating the Daily Wire intern operation.
 
@@ -547,7 +547,7 @@ Named by the host as orchestrating the Daily Wire intern operation.
 
 ---
 
-**N-371** Jeremy Boreing
+**N-369** Jeremy Boreing
 
 Former Daily Wire CEO (transcript spelling Boring); the host cites his X Space with Fuentes.
 
@@ -555,7 +555,7 @@ Former Daily Wire CEO (transcript spelling Boring); the host cites his X Space w
 
 ---
 
-**N-380** Lara Trump
+**N-378** Lara Trump
 
 Spoke at the Auburn TPUSA event (transcript spelling Laura Trump).
 
@@ -563,7 +563,7 @@ Spoke at the Auburn TPUSA event (transcript spelling Laura Trump).
 
 ---
 
-**N-667** Ivanka Trump
+**N-665** Ivanka Trump
 
 Named in the host's remarks on Kushner's deals.
 
@@ -683,7 +683,7 @@ Existing topic reused for the CNN clips.
 
 ---
 
-**N-857** Lauren Chen
+**N-855** Lauren Chen
 
 First named by the host at 00:12:33 in episode 28. Host of the X Space where Boring spoke with Fuentes.
 
@@ -718,7 +718,7 @@ Claim Timestamp: 00:09:56–00:10:33
 Claim: On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that Tucker Carlson had mentioned Zohran Mamdani once since October 5 and that he (Shapiro) had done 17 separate shows on Mamdani.
 
 Anchored Artifacts: A-1356.1, A-1356.2
-Mentions: N-227, N-22, N-46, N-97
+Mentions: N-225, N-22, N-46, N-97
 
 
 Investigative Direction: Obtain transcripts/recordings of the cited Carlson and Shapiro shows to verify the cited counts and whether Mamdani was mentioned substantively or in passing.
@@ -777,7 +777,7 @@ Claim Timestamp: 00:14:04
 Claim: According to the read-aloud HuffPost article, on March 25, 2025, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism.
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-205
+Mentions: N-203
 
 Related Nodes:
 
@@ -792,7 +792,7 @@ Claim Timestamp: 00:14:04–00:15:45
 Claim: According to the read-aloud HuffPost article and corresponding audio, Jeremy Boreing stated on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-205
+Mentions: N-203
 
 Related Nodes:
 
@@ -822,7 +822,7 @@ Claim Timestamp: 00:25:16–00:27:36
 Claim: At YWLS 2024, Candace Owens publicly identified a Daily Wire PR intern named Ariana who, Owens alleged, had been sent covertly to record her, after receiving a tip from an intern with a conscience.
 
 Anchored Artifacts: A-1361.1
-Mentions: N-239, N-3
+Mentions: N-237, N-3
 
 Related Nodes: N-10238
 
@@ -837,7 +837,7 @@ Claim Timestamp: 00:33:44–00:35:14
 Claim: During the aired CNN interview, Candace Owens stated, "America is occupied by Zionists," and doubled and then tripled down on the characterization.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-238, N-3
+Mentions: N-236, N-3
 
 
 Investigative Direction: Pull the full CNN interview transcript to verify the exact phrasing and surrounding context.
@@ -851,7 +851,7 @@ Claim Timestamp: 00:33:44–00:35:14
 Claim: During the aired CNN interview, Elle Reeve stated that themes Owens used in her criticism of Israel were "very familiar" from her coverage of white nationalists for 10 years, and cited the term "Zionist-occupied government" as an example.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-238
+Mentions: N-236
 
 
 Investigative Direction: Obtain the full CNN interview and any related Reeve reporting to verify the broader framing of the exchange.
@@ -894,7 +894,7 @@ Claim Timestamp: 00:02:12
 Claim: Ben Shapiro previously tweeted that any American Jew who is "pro-Israel" and uses "Israel first" framing is engaging in a "pure form of anti-semitism," directed at Nick Fuentes.
 
 Anchored Artifacts: A-1355.2
-Mentions: N-205, N-97
+Mentions: N-203, N-97
 
 Related Nodes:
 
@@ -909,7 +909,7 @@ Claim Timestamp: 00:02:12
 Claim: Ben Shapiro previously posted tweets containing imagery of Ron Paul "leaning forward from the grave and strangling the Jews" and "gripping the pen as he would the neck of a Jew."
 
 Anchored Artifacts: A-1355.3
-Mentions: N-97, N-718
+Mentions: N-97, N-716
 
 Related Nodes:
 
@@ -938,7 +938,7 @@ Claim Timestamp: 00:33:44–00:33:57
 Claim: Candace Owens states that the aired CNN interview with Elle Reeve occurred "a couple of days after Charlie was killed" and was her first interview after his death.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-1, N-238, N-3
+Mentions: N-1, N-236, N-3
 
 
 Investigative Direction: Confirm the interview date against CNN's published interview records or the original broadcast timestamp.
@@ -1018,7 +1018,7 @@ Claim: The host says Shapiro insinuated that Tucker Carlson supported Zohran Mam
 Transcript Snippet: But to the insinuation that Tucker somehow supported Mandani and said like nice things about him when he sat down with Marjgerie Taylor Green, here's actually what Tucker said
 
 Anchored Artifacts: A-1356.2
-Mentions: N-22, N-97, N-148, N-227
+Mentions: N-22, N-97, N-147, N-225
 Supports: C-1636
 Tags: relevance:context
 Investigative Direction: Pull the full Carlson and Greene episode and Shapiro's stage remarks to see whether Carlson praised or merely explained Mamdani's win.
@@ -1034,7 +1034,7 @@ Claim: In the played clip, the speaker responding to Marjorie Taylor Greene says
 Transcript Snippet: And I just can't get over what happened in our biggest city this week, the very same week, that everybody in DC is focused thousands of miles away on the greatest threat we face
 
 Anchored Artifacts: A-1356.2
-Mentions: N-22, N-148, N-227
+Mentions: N-22, N-147, N-225
 Tags: relevance:context
 Investigative Direction: Confirm the date of the Carlson and Greene episode against the June 2025 New York Democratic primary and the Iran news cycle.
 
@@ -1049,7 +1049,7 @@ Claim: In the played clip, a speaker says that in the New York City mayoral deba
 Transcript Snippet: They were all the candidates were asked, "If you could visit a foreign country, what would it be?" And they of course all had an answer. I think most said Israel.
 
 Anchored Artifacts: A-1356.2
-Mentions: N-148, N-227, N-22
+Mentions: N-147, N-225, N-22
 Related Nodes: N-10026
 Tags: relevance:context
 Investigative Direction: Check the debate transcript for the foreign-country question and each candidate's answer.
@@ -1131,7 +1131,7 @@ Claim: The host says Jeremy Boreing, then CEO of the Daily Wire, joined an X Spa
 Transcript Snippet: I distinctly remember the week that I was gloriously fired from the Daily Wire. And during that week, the CEO of the Daily Wire, at the time it was Jeremy Boreing, jumped onto an Xspace hosted by Lauren Chen
 
 Anchored Artifacts: A-1359.1
-Mentions: N-3, N-371, N-857
+Mentions: N-3, N-369, N-855
 Related Nodes: N-10900
 Supports: C-1640
 Tags: relevance:context
@@ -1148,7 +1148,7 @@ Claim: The host refers to the Daily Wire's position 'in 2024' that its CEO could
 Transcript Snippet: when the Daily Wire position in 2024 was that their CEO could talk to Nick Fuentes publicly, praise Nick Fuentes publicly
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-371, N-205
+Mentions: N-369, N-203
 Related Nodes: N-10900
 Qualifies: C-1640
 Tags: relevance:context
@@ -1165,7 +1165,7 @@ Claim: In the played X Space audio, Nick Fuentes says he dislikes that guys like
 Transcript Snippet: I don't like that guys like Shapiro cannot will not say Christ is king. America first. I think they forfeit their ability to lead.
 
 Anchored Artifacts: A-1359.1
-Mentions: N-205, N-97, N-371
+Mentions: N-203, N-97, N-369
 Tags: relevance:context
 Investigative Direction: Obtain the full X Space recording and confirm the speaker and wording.
 
@@ -1276,7 +1276,7 @@ Claim: The host says Ben Shapiro supports and congratulated Randy Fine, who she 
 Transcript Snippet: He supports and congratulated Randy Fine who has literally tweeted laughing at photos of dead Palestinian babies.
 
 Anchored Artifacts: 
-Mentions: N-97, N-226
+Mentions: N-97, N-224
 Tags: relevance:context
 Investigative Direction: Locate Shapiro's post congratulating Fine and the Fine tweet the host describes.
 
@@ -1306,7 +1306,7 @@ Claim: The host says Nick Fuentes was an 18-year-old who started asking question
 Transcript Snippet: He started asking questions about Israel and he got artificially pushed out of the market when he had his whole life ahead of him.
 
 Anchored Artifacts: A-1359.1
-Mentions: N-205, N-371, N-97
+Mentions: N-203, N-369, N-97
 Tags: relevance:context
 Investigative Direction: Review the Boring and Fuentes X Space and Fuentes's own account of his dismissal to see what Boring and Shapiro actually conceded.
 
@@ -1321,7 +1321,7 @@ Claim: The host says Ben Shapiro has never come out and denied anything Nick Fue
 Transcript Snippet: Ben has never come out and denied anything that Nick Fuentes has said
 
 Anchored Artifacts: A-1359.1
-Mentions: N-97, N-205
+Mentions: N-97, N-203
 Tags: relevance:context
 Investigative Direction: Search Shapiro's public statements for any denial or response to Fuentes's account.
 
@@ -1336,7 +1336,7 @@ Claim: The host says Nick Fuentes survived without advertisers, sponsors or conn
 Transcript Snippet: with the entire media writing things about him, being put on the ADL's list, he has proven to be quite resilient.
 
 Anchored Artifacts: 
-Mentions: N-205
+Mentions: N-203
 Tags: relevance:tangential
 Investigative Direction: Check the ADL's published listings for Fuentes and the date he was added.
 
@@ -1401,7 +1401,7 @@ Claim: In the played YWLS 2024 audio, the host says the Daily Wire intern appare
 Transcript Snippet: apparently she got an email at 10 p. m., hopped on a plane, is pretending to be a student.
 
 Anchored Artifacts: A-1361.1
-Mentions: N-3, N-239
+Mentions: N-3, N-237
 Related Nodes: N-10238
 Supports: C-1643
 Tags: relevance:context
@@ -1434,7 +1434,7 @@ Claim: The host says the orchestration of the intern and applause operation was 
 Transcript Snippet: That was orchestrated by Alyssa Cordova now that she's not at the Daily Wire.
 
 Anchored Artifacts: A-1361.1
-Mentions: N-233, N-3
+Mentions: N-231, N-3
 Related Nodes: N-10238, N-10900
 Tags: relevance:context
 Investigative Direction: Ask Cordova or former Daily Wire staff about the intern assignment and confirm Cordova's departure date.
@@ -1499,7 +1499,7 @@ Claim: The host says the CNN interview took place a couple of days after Charlie
 Transcript Snippet: it was a couple of days after Charlie was killed. First interview I was giving. Just worked out that it was CNN. It wasn't about Charlie Kirk that we were we had set this up before.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-3, N-1, N-238
+Mentions: N-3, N-1, N-236
 Related Nodes: N-11159
 Supports: C-1651
 Tags: relevance:context
@@ -1516,7 +1516,7 @@ Claim: The host says Elle Reeve is the one passing around the CNN clip because s
 Transcript Snippet: Anyways, she's the one passing around this clip because she thinks it totally embarrasses me and shows that I'm a white nationalist.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-238, N-3
+Mentions: N-236, N-3
 Related Nodes: N-11159
 Tags: relevance:context
 Investigative Direction: Check Reeve's and CNN's social accounts for who first posted the clip.
@@ -1532,7 +1532,7 @@ Claim: In the played CNN clip, Elle Reeve asks the host whether her use of the w
 Transcript Snippet: Who is they? And it's like >> because it sounds like you're saying Jews.
 
 Anchored Artifacts: A-3025.1
-Mentions: N-238, N-3
+Mentions: N-236, N-3
 Related Nodes: N-11159
 Tags: relevance:context
 Investigative Direction: Review the full CNN interview for the exact exchange on 'they'.
@@ -1548,7 +1548,7 @@ Claim: In the played CNN clip, the host says that when she says Zionists run the
 Transcript Snippet: When I say Zionists run the media, I mean Zionists run the media. People that support the political ideology of Israel run the media.
 
 Anchored Artifacts: A-3025.1
-Mentions: N-3, N-238
+Mentions: N-3, N-236
 Related Nodes: N-11159
 Tags: relevance:context
 Investigative Direction: Compare with the host's other statements on media ownership and the full CNN transcript.
@@ -1564,7 +1564,7 @@ Claim: In the played Auburn clip, a student tells Eric and Laura Trump that duri
 Transcript Snippet: During the summer against Iran, even though he advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-380
+Mentions: N-34, N-378
 Tags: relevance:context
 Investigative Direction: Compare with the June 2025 timeline of Israeli and US strikes on Iran and public statements of what Trump advised.
 
@@ -1579,7 +1579,7 @@ Claim: In the played Auburn clip, the student says Trump's frustrations with Net
 Transcript Snippet: Your father's frustrations with the Netanyahu have been made clear when he cursed on national TV over the situation.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-380, N-36
+Mentions: N-34, N-378, N-36
 Tags: relevance:context
 Investigative Direction: Identify the televised remark the student refers to and its date.
 
@@ -1594,7 +1594,7 @@ Claim: In the played Auburn clip, the student says Israel has not been a great a
 Transcript Snippet: Israel has not been a great ally to the US all the way since 1960 when they bombed the USS Liberty.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-380
+Mentions: N-34, N-378
 Related Nodes: N-10451
 Tags: relevance:tangential
 Investigative Direction: The attack on the USS Liberty is generally dated to 1967; record the student's date as said and verify against the historical record.
@@ -1610,7 +1610,7 @@ Claim: In the played Auburn clip, Eric Trump responds that there is no question 
 Transcript Snippet: There's no question my my father's had frustration. In fact, I think he says frustration throughout the whole conflict with with both sides.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-380
+Mentions: N-34, N-378
 Tags: relevance:context
 Investigative Direction: Cross-check against public statements by Donald Trump about frustration with Netanyahu and with Iran.
 
@@ -1625,7 +1625,7 @@ Claim: In the played Auburn clip, a speaker answering the student cites a 40-yea
 Transcript Snippet: whether we're talking about a 40-year war like Armenia and Azeraijan, as Eric just pointed out, a five-day war in Thailand and Cambodia.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-380, N-34
+Mentions: N-378, N-34
 Tags: relevance:tangential
 Investigative Direction: Verify the durations and outcomes of the cited conflicts and the speaker's identity in the full clip.
 
@@ -1640,7 +1640,7 @@ Claim: The host says the Trump family members know about Jared Kushner and his d
 Transcript Snippet: they know about Jared uh and his deals with Ivanka and the Middle East and how much money they're set to make and you know Gaza being destroyed is actually beneficial uh to their bank accounts.
 
 Anchored Artifacts: 
-Mentions: N-34, N-380, N-182, N-667
+Mentions: N-34, N-378, N-180, N-665
 Related Nodes: N-10063
 Tags: relevance:context
 Investigative Direction: Review Kushner's Affinity Partners Middle East investments and public statements on Gaza redevelopment.
@@ -1656,7 +1656,7 @@ Claim: The host says young people are lectured and told they are not allowed to 
 Transcript Snippet: we get to get lectured and told that we're not even allowed to bring up Israel on college campuses or risk being like um arrested getting stricter on anti-semitism laws.
 
 Anchored Artifacts: 
-Mentions: N-34, N-380
+Mentions: N-34, N-378
 Related Nodes: N-10081
 Tags: relevance:context
 Investigative Direction: Identify specific campus arrests or state anti-semitism laws the host may be referring to.
@@ -1672,7 +1672,7 @@ Claim: The host says that the Trumps expected this generation to get behind thei
 Transcript Snippet: you thought that this generation was going to get behind it because what BB bought TikTok.
 
 Anchored Artifacts: 
-Mentions: N-36, N-34, N-380
+Mentions: N-36, N-34, N-378
 Related Nodes: N-11096
 Tags: relevance:tangential
 Investigative Direction: Verify what the host means; check reporting on the TikTok US ownership deal and any Netanyahu statement about TikTok.
@@ -1735,7 +1735,7 @@ Claim: The host says that after she invited Nick Fuentes on her podcast, the way
 Transcript Snippet: the sense that I got with how he reacted and lied about how we treated him is the first thing that made me think he was an op
 
 Anchored Artifacts: A-3026.2
-Mentions: N-205, N-3
+Mentions: N-203, N-3
 Related Nodes: N-10424
 Tags: relevance:context
 Investigative Direction: Compare the host's account of the interview planning with Fuentes's own account and any messages between their teams.
@@ -1762,8 +1762,8 @@ Investigative Direction: Identify the debate and the guest the host means and an
 - **A-1355.1, A-1355.2, A-1355.3, A-1360.2**: Artifacts verbally referenced but not shown on screen.
 - **A-1361.1**: Event Timestamp "2024" not specific to month/day; requires human verification of exact YWLS event date.
 - **A-1362.1**: Event Timestamp described as "a couple of days after Charlie was killed" – actual broadcast date requires confirmation via CNN records.
-- **N-239**: Name uncertainty – only first name "Ariana" given; full name and spelling unverified.
-- **N-238, N-227**: New node numbers used because figures were not previously confirmed in the available ledger context; if prior episodes already introduced these figures, the existing node IDs should be substituted upon reconciliation.
+- **N-237**: Name uncertainty – only first name "Ariana" given; full name and spelling unverified.
+- **N-236, N-225**: New node numbers used because figures were not previously confirmed in the available ledger context; if prior episodes already introduced these figures, the existing node IDs should be substituted upon reconciliation.
 - **A-1356.2**: Exact event date for the Tucker Carlson / Marjorie Taylor Greene stage appearance not stated; estimated as recent to upload.
 
 ---
@@ -1775,7 +1775,7 @@ Investigative Direction: Identify the debate and the guest the host means and an
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger range (N-238+)
+- [x] People nodes use the global people ledger range (N-236+)
 - [x] Non-person investigation targets use the 1000 series (N-10236+)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty noted

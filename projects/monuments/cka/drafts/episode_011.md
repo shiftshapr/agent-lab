@@ -13,11 +13,11 @@ e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11372, N-11373, N-11374
-  - Hole-minted Nodes (reintro-ep011): N-276, N-10146, N-10319, N-10566, N-10713, N-10768
+  - Hole-minted Nodes (reintro-ep011): N-274, N-10146, N-10319, N-10566, N-10713, N-10768
   - Tip-minted Nodes (reintro-ep011): N-10987, N-11053, N-11217
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-13822–C-13870
-  - New Nodes Introduced: N-126, N-127, N-129, N-130, N-131, N-10141, N-10142, N-10143, N-10144, N-10145
+  - New Nodes Introduced: N-125, N-126, N-128, N-129, N-130, N-10141, N-10142, N-10143, N-10144, N-10145
   - Reused Nodes Appearing: N-41, N-49, N-75, N-10011, N-10012, N-10021, N-10022, N-10028, N-10029, N-10038, N-10047, N-10048, N-10051, N-10060, N-10138, N-10343
 - Episode Number: Monument Ep 11 (Batch 1), N-11
 - Channel / Creator: Candace Owens (@RealCandaceO)
@@ -29,7 +29,7 @@ e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1171, A-1172, A-1173, A-1174, A-1175, A-1176, A-1177, A-1178, A-1179, A-1180, A-1181, A-1182
   - Claim Range: C-1297–C-1320
-  - New Nodes Introduced (people): N-126, N-127, N-61, N-129, N-130, N-131
+  - New Nodes Introduced (people): N-125, N-126, N-61, N-128, N-129, N-130
   - New Nodes Introduced (investigation targets): N-10141, N-10142, N-10143, N-10144, N-10145
   - Existing Nodes Reused: Tyler Robinson, Nate Brooksby, Lance, Tiffany Peterson Barker, Lance's family, Robinson family, Governor Cox, Taylor Hansen, Tyler Bowyer (Turning Point USA), Max Blumenthal, "Shamway" neighbor
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:03:50–00:04:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1299, C-1300, N-126, Nate Brooksby node*
+*Related: C-1299, C-1300, N-125, Nate Brooksby node*
 
 **A-1172.2** Brooksby press-conference audio clip – statement that during the call Tyler had "suicidal ideations" and was being directed to a remote Washington County area; parents convinced him otherwise.
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:16:00–00:16:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1304, C-1305, N-126, Nate Brooksby node*
+*Related: C-1304, C-1305, N-125, Nate Brooksby node*
 
 ### A-1175 Food Court Photo Bundle
 
@@ -137,7 +137,7 @@ Video Timestamp: 00:25:00–00:25:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host acknowledges image is from anonymous source)
 
-*Related: C-1316, N-127, Tyler Robinson node, N-10144*
+*Related: C-1316, N-126, Tyler Robinson node, N-10144*
 
 ### A-1176 TMZ Surveillance Footage Bundle
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:28:00–00:29:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1307, C-1308, N-61, N-130, N-10144*
+*Related: C-1307, C-1308, N-61, N-129, N-10144*
 
 ### A-1178 Phil Lyman Alex Jones Clip Bundle
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:41:00–00:41:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1312, C-1313, N-129, N-61, N-10144*
+*Related: C-1312, C-1313, N-128, N-61, N-10144*
 
 **A-1181.2** Shane Lyman's Instagram post showing side-by-side staircase photos of Shane and three friends in the same staircase configuration as the blurred suspect image; host notes she could not identify two of the individuals on his friends list.
 
@@ -219,7 +219,7 @@ Video Timestamp: 00:42:00–00:42:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1313, N-129, N-61, N-10144*
+*Related: C-1313, N-128, N-61, N-10144*
 
 ### A-1182 Viewer Comments Bundle
 
@@ -291,7 +291,7 @@ Video Timestamp: 00:53:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1319, C-1315, N-131*
+*Related: C-1319, C-1315, N-130*
 
 ---
 
@@ -349,7 +349,7 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-126** Mike Mitchell
+**N-125** Mike Mitchell
 
 Former Washington County Sheriff's Office detective identified by host as the "retired detective friend" referenced obliquely by Brooksby at the September 11 press conference; reportedly retired in January (2024) after 24+ years per the Washington County retirement post.
 
@@ -360,7 +360,7 @@ Investigative Pressure: High
 
 *Related: A-1174.1, C-1304, C-1305, Nate Brooksby node, Tyler Robinson node*
 
-**N-127** "Nick" (UVU Student – Pseudonym)
+**N-126** "Nick" (UVU Student – Pseudonym)
 
 Anonymous 20-year-old UVU student who worked on Phil Lyman's gubernatorial campaign and served as host's boots-on-the-ground contact; name withheld.
 
@@ -371,7 +371,7 @@ Investigative Pressure: Medium
 
 *Related: A-1175.1, C-1316, C-1317, C-1318, C-1319, C-1320, N-61, N-10144*
 
-**N-129** Shane Lyman
+**N-128** Shane Lyman
 
 Nephew of Phil Lyman; posted public Instagram content retracing the shooter's route near his grandmother's house; profile subsequently set to private after host inquiry.
 
@@ -382,7 +382,7 @@ Investigative Pressure: Medium
 
 *Related: A-1181.1, A-1181.2, C-1312, C-1313, N-61*
 
-**N-130** Kayleigh McEnany
+**N-129** Kayleigh McEnany
 Interviewer; conducted the on-camera interview with Phil Lyman in which he described his car in the driveway of the TMZ footage house.
 
 Evidence Count: 1
@@ -392,7 +392,7 @@ Investigative Pressure: Low
 
 *Related: A-1177.1, C-1307, N-61*
 
-**N-131** Ian Carroll
+**N-130** Ian Carroll
 
 Independent investigator conducting parallel Utah-based investigation; reportedly offered a tour by Phil Lyman.
 
@@ -412,7 +412,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1174.1, C-1305, N-126, Nate Brooksby node*
+*Related: A-1174.1, C-1305, N-125, Nate Brooksby node*
 
 **N-10142** Brooksby Suicide Narrative Discrepancy
 
@@ -445,7 +445,7 @@ Claim Count: 6
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1176.1, A-1177.1, A-1178.1, A-1179.1, A-1180.1, A-1181.1, A-1181.2, C-1307, C-1308, C-1309, C-1310, C-1311, C-1320, N-127, N-61, N-129, N-131*
+*Related: A-1176.1, A-1177.1, A-1178.1, A-1179.1, A-1180.1, A-1181.1, A-1181.2, C-1307, C-1308, C-1309, C-1310, C-1311, C-1320, N-126, N-61, N-128, N-130*
 
 **N-10145** UVU Campus Familiarity Question
 
@@ -533,7 +533,7 @@ Interviewer in the clip where Lyman describes the scene and the recovered rifle.
 
 ---
 
-**N-276** Nate Brooksby
+**N-274** Nate Brooksby
 
 Washington County sheriff; the host plays his press-conference account.
 
@@ -759,35 +759,35 @@ Investigative Direction: Independent corpus sampling of Robinson's other recorde
 
 **C-1299** Brooksby received a phone call about the shooter at 8:02 p.m. on the 11th from a retired detective friend
 
-Claim Timestamp: 00:03:50–00:04:50
-Claim: Brooksby stated at his press conference that he received a phone call at 8:02 p.m. on the 11th from a friend who is a retired Washington County detective informing him of the shooter's identity.
+Claim Timestamp: 00:09:06
+Claim: In a clip the host plays, Nate Brooksby says that at 8:02 p.m. a friend who has been retired a few years, whom the host describes as a former detective, called to say he knew who the Charlie Kirk shooter was.
 Anchored Artifacts: A-1172.1
-Mentions: N-126
+Mentions: N-274, N-125
 Investigative Direction: Cross-reference call logs and the court filings already referenced by Brooksby (court documents where the friend was named as a "retired Washington County deputy").
 
 **C-1300** Brooksby attempted to protect the retired detective's identity despite his public-record career
 
-Claim Timestamp: 00:15:30–00:16:30
+Claim Timestamp: 00:17:27
 Claim: Brooksby stated that he did not initially disclose the friend as a former detective and only referenced him generally as "retired law enforcement"; he argued that the court documents were what ultimately revealed the title.
 Anchored Artifacts: A-1172.1, A-1174.1
-Mentions: N-126
+Mentions: N-274, N-125
 Investigative Direction: Pull the cited court documents and compare Brooksby's public statements with the actual filed text.
 
 **C-1301** Brooksby stated Tyler Robinson had suicidal ideations during the initial phone call
 
-Claim Timestamp: 00:04:50–00:05:30
-Claim: Brooksby stated that during the initial 8:02 p.m. call, the retired detective reported that Tyler had "suicidal ideations" and was being directed to a remote area in Washington County.
+Claim Timestamp: 00:09:48
+Claim: In a clip the host plays, Nate Brooksby says that during the initial call "some information was provided" about Tyler "potentially having some suicidal ideations" and a remote area of Washington County, and that the parents convinced him not to do that.
 Anchored Artifacts: A-1172.2
-Mentions: N-40
+Mentions: N-274, N-40
 Related Nodes: N-10142
 Investigative Direction: Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call.
 
 **C-1302** Brooksby stated Tyler Robinson came in willingly out of fear of being shot by law enforcement
 
-Claim Timestamp: 00:05:30–00:06:15
+Claim Timestamp: 00:10:42
 Claim: Brooksby stated that Tyler came in to Brooksby's office willingly as part of a negotiated "delicate and as soft as possible" reception because he was "fearful of a SWAT team hit" and being shot by law enforcement.
 Anchored Artifacts: A-1172.3
-Mentions: N-40
+Mentions: N-274, N-40
 Related Nodes: N-10142
 Investigative Direction: Obtain any negotiated-surrender documentation; reconcile with the contemporaneous suicide-ideation claim.
 
@@ -805,7 +805,7 @@ Investigative Direction: Recover archived versions of Lance's Instagram handle (
 Claim Timestamp: 00:16:00–00:16:30
 Claim: The Washington County Sheriff's Office retirement-celebration post states that Detective Mike Mitchell served for "over 24 years … starting in the jail back in 1999."
 Anchored Artifacts: A-1174.1
-Mentions: N-126
+Mentions: N-125
 Investigative Direction: Verify against Washington County personnel records and any prior news coverage of Mitchell's career.
 
 **C-1305** The retirement-celebration post is the only public trace of Mike Mitchell
@@ -813,24 +813,25 @@ Investigative Direction: Verify against Washington County personnel records and 
 Claim Timestamp: 00:16:30–00:16:50
 Claim: Host states she was unable to find any other public news trace of Mike Mitchell despite his 24+ year career, and presents the retirement post as the sole located artifact.
 Anchored Artifacts: A-1174.1
-Mentions: N-126
+Mentions: N-125
 Related Nodes: N-10141
 Investigative Direction: Conduct independent newspaper archive search (local Utah papers, Provo, St. George) and Washington County internal award/honor records.
 
 **C-1306** The suicidal-ideation and fear-of-being-shot accounts are mutually exclusive
 
-Claim Timestamp: 00:06:15–00:06:30
-Claim: Host argues that the two Brooksby statements – that Tyler had suicidal ideations, and that Tyler came in willingly because he feared being shot – cannot both be true simultaneously.
+Claim Timestamp: 00:08:45
+Claim: The host says it is confusing that Nate Brooksby tells us Tyler is suicidal, when her source says Tyler is not suicidal and went to the police station so as not to risk being shot.
 Anchored Artifacts: A-1172.2, A-1172.3
+Mentions: N-274, N-40
 Related Nodes: N-10142
 Investigative Direction: Seek clarification from Brooksby or from the Washington County Sheriff's Office on which account is operative.
 
-**C-1307** Phil Lyman's vehicle was in the driveway of the TMZ footage location 10–19 minutes before the shooter walked by
+**C-1307** Phil Lyman Says He Parked in the TMZ Footage Driveway About 10 Minutes Before the Shooter Walked By
 
 Claim Timestamp: 00:28:00–00:29:30
-Claim: In his Kayleigh McEnany interview, Phil Lyman stated that his aunt's driveway (visible in the TMZ footage) is where he parked his gray CRV approximately 10 minutes before the shooter walked past; Lyman separately described the driveway as being 19 minutes away from the shooter's walk-by.
+Claim: In his Kayleigh McEnany interview, Phil Lyman says the driveway is his aunt's and that he parked his gray CRV there probably 10 minutes before the shooter walked by; McEnany puts his 11:30 a.m. parking and the 11:49 a.m. footage at 19 minutes apart, and the host restates the 19 minutes.
 Anchored Artifacts: A-1176.1, A-1177.1
-Mentions: N-61, N-130
+Mentions: N-61, N-129
 Related Nodes: N-10144
 Investigative Direction: Timestamp the TMZ footage independently and reconcile with Lyman's stated parking time.
 
@@ -839,14 +840,14 @@ Investigative Direction: Timestamp the TMZ footage independently and reconcile w
 Claim Timestamp: 00:29:30–00:30:00
 Claim: In the Kayleigh McEnany interview, Phil Lyman describes the area as his childhood neighborhood and his relatives' neighborhood; host counts approximately twelve homes as owned by the Lyman family in the area.
 Anchored Artifacts: A-1177.1
-Mentions: N-61, N-130
+Mentions: N-61, N-129
 Related Nodes: N-10144
 Investigative Direction: Pull county property records for the relevant street and verify ownership chain.
 
 **C-1309** Phil Lyman publicly described "two goth girls" as unfrightened near the shooting scene on Alex Jones
 
 Claim Timestamp: 00:30:00–00:32:00
-Claim: In an Alex Jones interview, Phil Lyman recounted being at the east end of the venue, retreating behind retaining walls, and encountering two "very goth, very black" girls who were not running; he reported that one girl said "Go f yourselves" while looking down at fleeing people.
+Claim: In an Alex Jones interview, Phil Lyman recounted being at the east end of the venue, hearing a loud bang, seeing people ducking behind concrete retaining walls, and encountering two "very goth, very black" girls who were not running; he reported that one girl said "Go f yourselves" while looking down at fleeing people.
 Anchored Artifacts: A-1178.1
 Mentions: N-61, N-93
 Related Nodes: N-10144
@@ -854,8 +855,8 @@ Investigative Direction: Obtain the unedited Alex Jones segment and any witness 
 
 **C-1310** Phil Lyman stated on local Utah news that he was backstage with Charlie Kirk before the shooting
 
-Claim Timestamp: 00:32:30–00:33:15
-Claim: In a local Utah news interview, Phil Lyman stated he was backstage, throwing hats, and standing next to the stage before going to "meet some friends" away from the stage.
+Claim Timestamp: 00:33:40
+Claim: In a local Utah news interview the host plays, Phil Lyman stated he was backstage, throwing hats, and standing next to the stage before going to "meet some of my friends" away from the stage.
 Anchored Artifacts: A-1179.1
 Mentions: N-61, N-1
 Related Nodes: N-10144
@@ -864,7 +865,7 @@ Investigative Direction: Obtain the unedited local Utah news segment; compare ti
 **C-1311** Phil Lyman posted an Instagram video on September 10, 2025 at ~11:30 PM describing proximity and a "200 yard kill shot"
 
 Claim Timestamp: 00:34:00–00:35:30
-Claim: In his own Instagram video, Phil Lyman stated he was driving from Salt Lake to Blanding on the night of the shooting, stopped by UVU campus to thank officers, and recounted being "very close this morning" to where Charlie Kirk was, meeting Charlie backstage, deciding to "go up top," and concluding it was a "200 yard kill shot" from the roof.
+Claim: In his own Instagram video, Phil Lyman stated he was heading back from Salt Lake to Blanding on the night of the shooting, wanted to swing by UVU campus to thank officers, and recounted being "very close this morning" to where Charlie Kirk was, meeting Charlie backstage, deciding to "go up top," and concluding it was a "200 yard kill shot" from the roof.
 Anchored Artifacts: A-1180.1
 Mentions: N-61, N-1
 Related Nodes: N-10144
@@ -872,38 +873,38 @@ Investigative Direction: Confirm upload timestamp and metadata on Instagram; obt
 
 **C-1312** Shane Lyman publicly retraced the shooter's steps near his grandmother's house
 
-Claim Timestamp: 00:41:00–00:41:30
+Claim Timestamp: 00:43:15
 Claim: Shane Lyman's Instagram post presented a map of the area near his grandmother's house and stated he and friends retraced the shooter's steps, taking "pictures in the exact place that the security cameras caught him"; the image showed Converse-brand footprints.
 Anchored Artifacts: A-1181.1
-Mentions: N-61, N-129
+Mentions: N-128
 Related Nodes: N-10144
 Investigative Direction: Recover archived version of Shane Lyman's Instagram post; verify the grandmother's house address against the property records already referenced by Phil Lyman.
 
 **C-1313** Shane Lyman's Instagram included side-by-side staircase photos with three unidentified individuals
 
-Claim Timestamp: 00:42:00–00:42:30
-Claim: Shane Lyman's Instagram post showed side-by-side staircase photos of Shane and three friends in the same staircase configuration as the blurred suspect image; host states she could not identify two of the individuals on his friends list.
+Claim Timestamp: 00:43:55
+Claim: Shane Lyman's Instagram post showed side-by-side photos of Shane and three friends on a staircase; the host states she could not find two of the individuals on his friends list.
 Anchored Artifacts: A-1181.2
-Mentions: N-61, N-129
+Mentions: N-128
 Related Nodes: N-10144
 Investigative Direction: Identify the two friends via cross-reference with Shane's social graph or via direct outreach.
 
 **C-1314** Phil Lyman showed up at "Nick's" home uninvited and asked questions about the host's investigation
 
-Claim Timestamp: 00:37:30–00:39:00
+Claim Timestamp: 00:39:58
 Claim: Per Nick's account to host, Phil Lyman messaged Nick for his address (something he had not previously had), arrived at Nick's home, looked out the window nervously, sat at the table, and asked questions about the host's investigation.
 Anchored Artifacts: (Host-relayed source testimony; no video/audio presented in this episode.)
-Mentions: N-61, N-127
+Mentions: N-61, N-126
 Related Nodes: N-10144
 Investigative Direction: Obtain any corroborating records (Ring/doorbell footage, phone logs, text screenshots) and a contemporaneous written statement from Nick.
 *Optional Flag: Source testimony only; not visually or auditorily corroborated in-episode.*
 
 **C-1315** Nick Says Phil Lyman Offered Independent Investigator Ian Carroll a Tour of the Area
 
-Claim Timestamp: 00:38:30–00:39:00
+Claim Timestamp: 00:41:10
 Claim: Per Nick's account as relayed by the host, Phil Lyman offered a tour of the area to Ian Carroll, who was conducting a separate on-the-ground investigation; Nick found this "weird" given that Lyman lives four hours away.
 Anchored Artifacts: (Host-relayed source testimony; no artifact presented in this episode.)
-Mentions: N-61, N-131
+Mentions: N-61, N-130
 Related Nodes: N-10144
 Investigative Direction: Confirm via Ian Carroll's own public statements and any travel/timeline records.
 *Optional Flag: Source testimony only; not visually or auditorily corroborated in-episode.*
@@ -913,7 +914,7 @@ Investigative Direction: Confirm via Ian Carroll's own public statements and any
 Claim Timestamp: 00:25:00–00:25:20
 Claim: Host states that Nick sent the food-court photo of a person in a black suit and dark sunglasses with a strap hanging from a bag into the tips box early in the investigation.
 Anchored Artifacts: A-1175.1
-Mentions: N-127
+Mentions: N-126
 Related Nodes:
 Investigative Direction: Recover the original image and metadata; identify the individual depicted.
 
@@ -929,7 +930,7 @@ Investigative Direction: Independent forensic review of recovered bullet(s) for 
 **C-1318** Host concurs with Caitlyn Derrian's characterization of her journalism
 
 Claim Timestamp: 00:49:16
-Claim: Host expresses gratitude for Caitlyn Derrian's supportive comment and concurs with the framing.
+Claim: Host reads Caitlyn Derrian's supportive comment calling her a true model of real journalism and responds, "Yeah. I mean, my insatiable thirst is to figure out what happened that day."
 Anchored Artifacts: A-1182.2
 Related Nodes:
 Investigative Direction: N/A – rhetorical/statement of self-positioning, recorded for traceability only.
@@ -937,20 +938,20 @@ Investigative Direction: N/A – rhetorical/statement of self-positioning, recor
 
 **C-1319** Host concurs with multiple commenters that the people closest to Charlie are not investigating
 
-Claim Timestamp: 00:00:00–00:00:01
-Claim: Host concurs with Kristen Theoret's, Cassie's, and Kaya's comments that the people closest to Charlie Kirk have not been asking questions about the shooting.
+Claim Timestamp: 00:51:53
+Claim: Host agrees with Kristen Theoret's and Cassie's comments that the people closest to Charlie Kirk are moving on and not asking questions about the shooting, and also reads Kaya's comment ("It's 1963 all over again. They don't like people asking questions.").
 Anchored Artifacts: A-1182.3, A-1182.6, A-1182.7
 Mentions: N-1
 Related Nodes:
 Investigative Direction: Inventory public statements/actions (or silence) by named individuals close to Charlie Kirk.
 *Note: Host concurrence claims on viewer-comment artifacts.*
 
-**C-1320** Host concurs with Phil Lyman proximity pattern and shared prayer requests
+**C-1320** Host Agrees With Viewer Comments on a Staged World and Prayer for Investigators
 
-Claim Timestamp: 00:00:00–00:00:01
+Claim Timestamp: 00:52:44
 Claim: Host concurs with Bitsy's comment about a "stage" narrative; concurs with Miranda Allen's prayer request and reports that she also prays for protection over investigators.
 Anchored Artifacts: A-1182.4, A-1182.5
-Mentions: N-61
+Mentions: 
 Related Nodes:
 Investigative Direction: N/A – rhetorical/statement of self-positioning.
 *Optional Flag: Claim failed admission test for investigation; inscribed as concurrence only.*
@@ -1289,7 +1290,7 @@ Claim: In the Brooksby press-conference clip aired by the host, Brooksby says he
 Transcript Snippet: He he'll we'll call each&nbsp;&nbsp; other. It's not it's not unusual for me to get&nbsp; a call from him or vice versa.
 
 Anchored Artifacts: A-1172.1
-Mentions: N-276
+Mentions: N-274
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Obtain the unedited clip and the call logs for the 8:02 p.m. call the sheriff described.
@@ -1305,7 +1306,7 @@ Claim: In the Brooksby press-conference clip aired by the host, Brooksby relays 
 Transcript Snippet: I know the family through religious&nbsp; association and uh he's in he's in Washington&nbsp;&nbsp; County now and we're working on trying to get&nbsp; him to come involuntarily.
 
 Anchored Artifacts: A-1172.1
-Mentions: N-276
+Mentions: N-274
 Related Nodes: N-10029, N-10142
 Tags: relevance:core
 Investigative Direction: Obtain the unedited press-conference audio to confirm whether Brooksby said 'voluntarily' or 'involuntarily'. Identify the friend's religious association with the family (court filings named him).
@@ -1321,7 +1322,7 @@ Claim: The host says that on about day two of the investigation her UVU-student 
 Transcript Snippet: right away he&nbsp;&nbsp; told me on like day two of the investigation that&nbsp; he worked on Phil Lyman's gubernatorial campaign,&nbsp;&nbsp; Phil Lyman ran against Governor, the current&nbsp; Governor Cox, and he lost.
 
 Anchored Artifacts: 
-Mentions: N-127, N-61, N-41
+Mentions: N-126, N-61, N-41
 Related Nodes: N-10144
 Tags: relevance:context
 Investigative Direction: Check Utah campaign finance and staff filings for Lyman's 2024 gubernatorial campaign. Nick is a pseudonym; confirm his role through the host.
@@ -1337,7 +1338,7 @@ Claim: The host says that around day three of the investigation Nick cold-called
 Transcript Snippet: Nick cold calls me and Phil Lyman's on the phone,&nbsp;&nbsp; okay? Like I said, he ran for governor
 
 Anchored Artifacts: 
-Mentions: N-127, N-61
+Mentions: N-126, N-61
 Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Obtain phone records or messages showing the call. Ask the host to confirm the date. Lyman's own account of why he joined the call would help.
@@ -1369,7 +1370,7 @@ Claim: The host says she learned from Nick that the photo of the person in a bla
 Transcript Snippet: I learned from Nick that&nbsp; the photo of the person who was wearing that black&nbsp;&nbsp; suit in dark sunglasses had come from Tiffany&nbsp; Barker's mother.
 
 Anchored Artifacts: A-1175.1
-Mentions: N-127, N-75
+Mentions: N-126, N-75
 Related Nodes: N-11373, N-10144
 Tags: relevance:core
 Investigative Direction: Trace the photo's origin through the earliest social media posts and its metadata. Ask Nick and the Barker family how the image reached Nick.
@@ -1434,7 +1435,7 @@ Claim: In the clip, Kayleigh McEnany says Lyman told her he parked there at 11:3
 Transcript Snippet: You said that in that footage is your&nbsp;&nbsp; driveway and you parked there at 11:30 a. m. We&nbsp; know this footage that you're looking at was&nbsp;&nbsp; taken at 11:49 a. m.
 
 Anchored Artifacts: A-1177.1
-Mentions: N-130, N-61
+Mentions: N-129, N-61
 Related Nodes: N-10146, N-10144
 Tags: relevance:core
 Investigative Direction: Reconcile the two numbers by timestamping the TMZ footage and Lyman's vehicle location data. Ask Lyman's office which figure is right.
@@ -1450,7 +1451,7 @@ Claim: In the McEnany clip, Lyman says the driveway belongs to his aunt, not him
 Transcript Snippet: They thought they had the the shooter.&nbsp;&nbsp; Uh so I took a friend of mine. We went back to&nbsp; my aunt's house.
 
 Anchored Artifacts: A-1177.1
-Mentions: N-61, N-130
+Mentions: N-61, N-129
 Related Nodes: N-10144
 Tags: relevance:core
 Investigative Direction: Identify the property owner and the date and time of Lyman's return. Check police records for the backyard search at that address.
@@ -1594,7 +1595,7 @@ Claim: The host says that, while trying to find Mike Mitchell, she could find th
 Transcript Snippet: I could find the Mitchell&nbsp;&nbsp; family. I don't know if it's his family, but the&nbsp; Mitchell name in that area was coming up for like&nbsp;&nbsp; Air Force.
 
 Anchored Artifacts: 
-Mentions: N-3, N-126
+Mentions: N-3, N-125
 Related Nodes: N-10141
 Tags: relevance:context
 Investigative Direction: Check Utah and Washington County Air Force and Hill AFB personnel and obituary records for Mitchell families. Confirm whether any relate to the retired detective.
@@ -1603,14 +1604,14 @@ Investigative Direction: Check Utah and Washington County Air Force and Hill AFB
 
 **C-13862** Host Says Brooksby Showed Nervous Energy by Volunteering That the Call Was Not Unusual
 
-Claim Timestamp: 00:49:16
+Claim Timestamp: 00:51:00
 
 Claim: The host says she thinks Brooksby shows some nervous energy when he says the retired friend's call to him was totally usual, since nobody had said it was weird.
 
 Transcript Snippet: I think Brooksby has some nervous energy&nbsp; there when he's like, "Oh, he called me. That's&nbsp;&nbsp; just totally usual. That's not weird."
 
 Anchored Artifacts: A-1172.1
-Mentions: N-3, N-276
+Mentions: N-3, N-274
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Review the unedited press-conference video and compare with the sheriff's account of the call.
@@ -1619,7 +1620,7 @@ Investigative Direction: Review the unedited press-conference video and compare 
 
 **C-13863** Host Says Barker Repeatedly Asked Her to Send Viewers to Her Instagram to Explain Why They Went Early
 
-Claim Timestamp: 00:49:16
+Claim Timestamp: 00:51:20
 
 Claim: The host says Tiffany Barker has repeatedly asked her to send viewers to her Instagram, where Barker explains why they decided to go back that early in the morning. The host found the interview odd given the shooter was still at large.
 
@@ -1635,7 +1636,7 @@ Investigative Direction: Review Barker's Instagram explanation and her timeline 
 
 **C-13864** Host Says Max Blumenthal Published a Bunch of Articles Last Week With More Coming
 
-Claim Timestamp: 00:49:16
+Claim Timestamp: 00:52:05
 
 Claim: The host says Max Blumenthal published a bunch of articles on the Kirk case last week and she thinks he has more coming out.
 
@@ -1651,7 +1652,7 @@ Investigative Direction: List Blumenthal's Grayzone articles for the week of Sep
 
 **C-13865** Host Says Those Close to Charlie Could Name the Donors Who Were Pressuring Him
 
-Claim Timestamp: 00:49:16
+Claim Timestamp: 00:52:29
 
 Claim: The host says those close to Charlie Kirk could at the very least name the donors who were pressuring him and tell the truth about what was happening there, and that they will not.
 
@@ -1668,14 +1669,14 @@ Investigative Direction: Compile the donor names reported in Kirk's texts and in
 
 **C-13866** Host Says She Called Ian to Say Lyman Is Unlikely to Give Him a Tour Because It Went Sideways With Nick
 
-Claim Timestamp: 00:49:16
+Claim Timestamp: 00:53:55
 
-Claim: The host says she called Ian, who the existing draft identifies as Ian Carroll, to tell him she doubted Lyman would put him on a tour, because Lyman was not being kind to Nick, a Lyman supporter, and she thinks that relationship went sideways.
+Claim: The host says she called Ian to tell him she doubted Lyman would put him on a tour, because Lyman was not being kind to Nick, a Lyman supporter, and she thinks that relationship went sideways.
 
 Transcript Snippet: And I called&nbsp; Ian. I was like, "Hey, Ian, just letting you know&nbsp;&nbsp; like um I don't know. I I don't think he's going&nbsp; to necessarily put you on a tour
 
 Anchored Artifacts: 
-Mentions: N-3, N-131, N-127, N-61
+Mentions: N-3, N-130, N-126, N-61
 Related Nodes: N-10144
 Supports: C-1315
 Tags: relevance:context
@@ -1685,7 +1686,7 @@ Investigative Direction: Ask Ian Carroll whether Lyman offered him a tour and wh
 
 **C-13867** Host Says the Side Angle Shows the Microphone Still on Kirk Afterward, Not Struck Off
 
-Claim Timestamp: 00:49:16
+Claim Timestamp: 00:54:27
 
 Claim: The host says that when she first saw the footage she thought something came upward, but when she looked at the image from the side the microphone is still on Charlie Kirk afterwards; it appears to disappear but shifts and stays on him, in the fold.
 
@@ -1701,7 +1702,7 @@ Investigative Direction: Obtain the original UVU event video from multiple angle
 
 **C-13868** Host Says Anything Slung Into Kirk With That Force Would Have Knocked the Microphone Off, and It Did Not
 
-Claim Timestamp: 00:49:16
+Claim Timestamp: 00:54:50
 
 Claim: The host says she would imagine that if anything had slung into Kirk with that kind of force, the microphone would fall off, and says it does not fall off.
 
@@ -1717,7 +1718,7 @@ Investigative Direction: Ask a weapons or ballistics expert how a microphone wou
 
 **C-13869** Host Says Kirk Being Miked After He Sat Down Has Never Happened to Her at a TPUSA Event
 
-Claim Timestamp: 00:49:16
+Claim Timestamp: 00:55:15
 
 Claim: The host says it is very weird that Charlie Kirk was miked after he sat down, that this never happened to her at a Turning Point event, and that they always mic you backstage.
 
@@ -1734,7 +1735,7 @@ Investigative Direction: Review the event video of the microphone being placed o
 
 **C-13870** Host Says Many Things Were Being Done for the First Time That Day and She Plans to Reveal Them
 
-Claim Timestamp: 00:49:16
+Claim Timestamp: 00:55:37
 
 Claim: The host says there are a lot of things that were being done for the first time on the day of the shooting and that she plans to reveal all of them.
 
@@ -1809,7 +1810,7 @@ Confidence: high
 - [x] Every artifact has a Related line.
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle exists; each top-level ID represents one evidentiary family.
-- [x] People nodes use the global people ledger (new IDs N-126–N-131).
+- [x] People nodes use the global people ledger (new IDs N-125–N-130).
 - [x] Non-person investigation targets use the 1000 series (new IDs N-10141–N-10145).
 - [x] No speculative claims inscribed as evidence-backed claims (host assertions from anonymous sources excluded; flagged separately).
 - [x] Names preserved exactly or uncertainty noted (L0y Center, Kayleigh McEnany, Shamway, Ian Carroll flagged).

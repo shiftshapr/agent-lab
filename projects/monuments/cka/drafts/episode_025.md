@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 47a250b4a7d456b87206c9f6ac24514ef27c6643b47dd4ad849208b1da6b7ce1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-764, N-11102, N-11104, N-11105
+  - Tip-minted Nodes (supplement_2026-10b): N-762, N-11102, N-11104, N-11105
   - Hole-minted Nodes (reintro-ep025): N-10243, N-10495, N-10675, N-10717
   - Tip-minted Nodes (reintro-ep025): N-11009
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6552–C-6596
-  - New Nodes Introduced: N-221, N-222, N-223, N-10219, N-10220, N-10221, N-10222, N-10223
-  - Reused Nodes Appearing: N-36, N-37, N-40, N-66, N-10000, N-10012, N-10048, N-10083, N-10131, N-10324, N-224, N-10840, N-10900, N-11103, N-10218, N-10253
+  - New Nodes Introduced: N-219, N-220, N-221, N-10219, N-10220, N-10221, N-10222, N-10223
+  - Reused Nodes Appearing: N-36, N-37, N-40, N-66, N-10000, N-10012, N-10048, N-10083, N-10131, N-10324, N-222, N-10840, N-10900, N-11103, N-10218, N-10253
   - (see registers)
 
 # Episode 25 Analysis – Bride of Charlie Investigation
@@ -36,7 +36,7 @@
 - **Ledger Continuation Summary:**
   - Artifact Families Introduced: A-1321, A-1322, A-1323, A-1324, A-1325, A-1326, A-1327, A-1328, A-1329, A-1330, A-1331, A-1332
   - Claim Range: C-1584–C-1597
-  - New People Nodes Introduced: N-194, N-17, N-221, N-22, N-39, N-205, N-222, N-223, N-185, N-42, N-224
+  - New People Nodes Introduced: N-192, N-17, N-219, N-22, N-39, N-203, N-220, N-221, N-183, N-42, N-222
   - New Investigation Target Nodes Introduced: N-10218, N-10219, N-10220, N-10221, N-10222, N-10223
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
@@ -60,7 +60,7 @@ Video Timestamp: 00:02:42–00:05:23
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1584, C-1585, N-194, N-17, N-10218*
+*Related: C-1584, C-1585, N-192, N-17, N-10218*
 
 ---
 
@@ -74,7 +74,7 @@ Video Timestamp: 00:05:23–00:07:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1585, N-17, N-194, N-2, N-10218*
+*Related: C-1585, N-17, N-192, N-2, N-10218*
 
 ---
 
@@ -88,7 +88,7 @@ Video Timestamp: 00:10:01–00:10:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1586, N-194, N-10219*
+*Related: C-1586, N-192, N-10219*
 
 ---
 
@@ -102,7 +102,7 @@ Video Timestamp: 00:11:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1587, N-221, N-194, N-1, N-2, N-10219*
+*Related: C-1587, N-219, N-192, N-1, N-2, N-10219*
 
 ---
 
@@ -116,7 +116,7 @@ Video Timestamp: 00:14:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1588, N-17, N-222, N-10220*
+*Related: C-1588, N-17, N-220, N-10220*
 
 ---
 
@@ -130,7 +130,7 @@ Video Timestamp: 00:17:57–00:19:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1589, N-223, N-10221*
+*Related: C-1589, N-221, N-10221*
 
 ---
 
@@ -158,7 +158,7 @@ Video Timestamp: 00:33:25–00:35:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1591, N-22, N-39, N-205*
+*Related: C-1591, N-22, N-39, N-203*
 
 ---
 
@@ -172,7 +172,7 @@ Video Timestamp: 00:35:17–00:37:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1592, N-22, N-205, N-39*
+*Related: C-1592, N-22, N-203, N-39*
 
 ---
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:20:12
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (tweet content captured via host read-aloud)
 
-*Related: C-1594, N-224, N-10222*
+*Related: C-1594, N-222, N-10222*
 
 ---
 
@@ -268,13 +268,13 @@ Video Timestamp: 00:15:47
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-6566, C-6567, N-22, N-185*
+*Related: C-6566, C-6567, N-22, N-183*
 
 ---
 
 ## IV. Node Register
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Chief of Staff of Turning Point USA; subject of repeated adjectival framing ("hero," "amazing," "brilliant") in post-9/10 memorial and TPUSA orbit coverage; alleged by host to have been positioned as Charlie Kirk's successor.
 
@@ -283,7 +283,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1321.1, A-1322.1, A-1323.1, A-1324.1, C-1584, C-1585, C-1586, C-1587, N-17, N-221, N-1, N-2, N-10218, N-10219*
+*Related: A-1321.1, A-1322.1, A-1323.1, A-1324.1, C-1584, C-1585, C-1586, C-1587, N-17, N-219, N-1, N-2, N-10218, N-10219*
 
 ---
 
@@ -296,11 +296,11 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1321.1, A-1322.1, A-1325.1, A-1327.1, C-1584, C-1585, C-1588, C-1590, N-194, N-222, N-10220*
+*Related: A-1321.1, A-1322.1, A-1325.1, A-1327.1, C-1584, C-1585, C-1588, C-1590, N-192, N-220, N-10220*
 
 ---
 
-**N-221** Eliza McCoy
+**N-219** Eliza McCoy
 
 Wife of Mikey McCoy; author of the Instagram post characterizing the McCoy-Kirk joint trip as the families' "first family trip together."
 
@@ -309,7 +309,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1324.1, C-1587, N-194, N-10219*
+*Related: A-1324.1, C-1587, N-192, N-10219*
 
 ---
 
@@ -322,7 +322,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low (not central to Kirk investigation)
 
-*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-39, N-205*
+*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-39, N-203*
 
 ---
 
@@ -335,11 +335,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-22, N-205*
+*Related: A-1328.1, A-1329.1, C-1591, C-1592, N-22, N-203*
 
 ---
 
-**N-205** Nick Fuentes
+**N-203** Nick Fuentes
 
 Subject of Tucker Carlson's interview; framed by Tucker as example of capacity for personal change despite prior personal attacks on Tucker's family.
 
@@ -352,7 +352,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-222** Micah Stevens
+**N-220** Micah Stevens
 
 Rob McCoy's son-in-law; per Ventura County Star, designated to succeed Rob McCoy as senior pastor of Godspeak Calvary Chapel.
 
@@ -365,7 +365,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-223** Nate Carile
+**N-221** Nate Carile
 
 Fox 13 Salt Lake City investigative reporter who broke the story on UVU's release of the mid-July event application and the absence of a standard police-protection question on the form.
 
@@ -378,7 +378,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-185** Sam Parker
+**N-183** Sam Parker
 
 Per host, identified as the source of the July 18 UVU/Turning Point USA event-request finding. (Name preserved as it appears in transcript; identity not further corroborated in this episode.)
 
@@ -404,7 +404,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-224** Milo Yiannopoulos
+**N-222** Milo Yiannopoulos
 
 Author of tweet read on-air suggesting Israel was behind the Kirk assassination, in the context of BBNet/Yahoo denial coverage.
 
@@ -426,7 +426,7 @@ Claim Count: 2 (C-1584, C-1585)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1321.1, A-1322.1, C-1584, C-1585, N-194, N-17, N-1, N-2*
+*Related: A-1321.1, A-1322.1, C-1584, C-1585, N-192, N-17, N-1, N-2*
 
 ---
 
@@ -439,7 +439,7 @@ Claim Count: 2 (C-1586, C-1587)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1323.1, A-1324.1, C-1586, C-1587, N-194, N-221, N-1, N-2*
+*Related: A-1323.1, A-1324.1, C-1586, C-1587, N-192, N-219, N-1, N-2*
 
 ---
 
@@ -452,7 +452,7 @@ Claim Count: 2 (C-1588, C-1590)
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1325.1, A-1327.1, C-1588, C-1590, N-17, N-222*
+*Related: A-1325.1, A-1327.1, C-1588, C-1590, N-17, N-220*
 
 ---
 
@@ -465,7 +465,7 @@ Claim Count: 1 (C-1589)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1326.1, C-1589, N-223, N-185*
+*Related: A-1326.1, C-1589, N-221, N-183*
 
 ---
 
@@ -478,7 +478,7 @@ Claim Count: 2 (C-1594, C-1595)
 Episode Count: 1
 Investigative Pressure: High (claim prominence) / Low (artifact strength)
 
-*Related: A-1330.1, A-1332.1, C-1594, C-1595, N-224*
+*Related: A-1330.1, A-1332.1, C-1594, C-1595, N-222*
 
 ---
 
@@ -671,7 +671,7 @@ Existing topic reused for the viewer comment and the host's identification.
 
 ---
 
-**N-764** Glenn Greenwald
+**N-762** Glenn Greenwald
 
 First named in the Tucker Carlson clip at 00:35:17 in episode 25. Journalist Tucker Carlson says he once hated and now counts a favorite.
 
@@ -724,7 +724,7 @@ Claim Timestamp: 00:02:42–00:05:23
 Claim: The host says, in clips she plays, speakers at the memorial service and elsewhere repeatedly characterized Mikey McCoy with adjectives ("hero," "amazing," "brilliant," "wise beyond his years") and explicitly described him as capable of following in Charlie Kirk's footsteps on campus.
 
 Anchored Artifacts: A-1321.1
-Mentions: N-17, N-194, N-1
+Mentions: N-17, N-192, N-1
 
 Related Nodes: N-10218
 
@@ -739,7 +739,7 @@ Claim Timestamp: 00:05:23–00:07:16
 Claim: In a clip from the Faith Forward Show that the host plays, Rob McCoy references Charlie Kirk's journaled succession plan extending through 2028 and, as the host characterizes it, connects Mikey's institutional future to Erika's "amazing Mikey McCoy" speech at the memorial.
 
 Anchored Artifacts: A-1322.1
-Mentions: N-2, N-17, N-194, N-1
+Mentions: N-2, N-17, N-192, N-1
 
 Related Nodes: N-10218
 
@@ -754,7 +754,7 @@ Claim Timestamp: 00:10:01–00:10:58
 Claim: Mikey McCoy stated on camera that the Asia/Korea trip – which he described as occurring "three, four days before Utah" – was the first time he had traveled with the camera and the first time he mic'd Charlie Kirk up.
 
 Anchored Artifacts: A-1323.1
-Mentions: N-194, N-1
+Mentions: N-192, N-1
 
 Related Nodes: N-10219
 
@@ -769,7 +769,7 @@ Claim Timestamp: 00:11:45
 Claim: Eliza McCoy's Instagram post states that the McCoy-Kirk joint trip was "our first family trip together."
 
 Anchored Artifacts: A-1324.1
-Mentions: N-1, N-2, N-194, N-221
+Mentions: N-1, N-2, N-192, N-219
 
 Related Nodes: N-10219
 
@@ -784,7 +784,7 @@ Claim Timestamp: 00:14:47
 Claim: Per the Ventura County Star article the host reads, Rob McCoy was scheduled to step down as senior pastor of Godspeak Calvary Chapel in mid-July 2025, with son-in-law Micah Stevens succeeding him, and had relocated to the Phoenix area due to growing Turning Point USA responsibilities.
 
 Anchored Artifacts: A-1325.1
-Mentions: N-17, N-222
+Mentions: N-17, N-220
 
 Related Nodes: N-10220
 
@@ -799,7 +799,7 @@ Claim Timestamp: 00:17:57–00:19:30
 Claim: Per a Fox 13 News report by Nate Carile that the host plays, UVU's Turning Point USA chapter submitted the September 10 event application in mid-July; the application form did not contain a standard question about police protection; UVU subsequently denied release of the security plan citing state records law.
 
 Anchored Artifacts: A-1326.1
-Mentions: N-223
+Mentions: N-221
 
 Related Nodes: N-10221
 
@@ -829,7 +829,7 @@ Claim Timestamp: 00:33:25–00:35:17
 Claim: In a clip from Dave Smith's show that the host plays, Tucker Carlson asserts that collective punishment (blood guilt) is antithetical to Christianity and to the Western tradition, and characterizes Israel's position as outside that tradition.
 
 Anchored Artifacts: A-1328.1
-Mentions: N-22, N-39, N-205
+Mentions: N-22, N-39, N-203
 
 
 Investigative Direction: Obtain the full Dave Smith episode audio; verify the precise wording and context of Tucker's framing.
@@ -843,7 +843,7 @@ Claim Timestamp: 00:35:17–00:37:12
 Claim: Tucker Carlson stated that he interviewed Nick Fuentes – despite Fuentes's prior attacks on Tucker's wife, son, and father – to demonstrate the Christian principle that people can change and should not be permanently categorized by past actions.
 
 Anchored Artifacts: A-1329.1
-Mentions: N-22, N-39, N-205
+Mentions: N-22, N-39, N-203
 
 
 Investigative Direction: Obtain the full Dave Smith episode audio; verify the precise wording and any follow-up exchange.
@@ -854,7 +854,7 @@ Investigative Direction: Obtain the full Dave Smith episode audio; verify the pr
 
 Claim Timestamp: 00:41:52–00:43:00
 
-Claim: Per host's source statement, George Zinn presented at Utah Valley Hospital after the 9/10 event for treatment of minor injuries sustained during the disruption and told staff he had been paid to engage in disruption but did not know the payment source.
+Claim: Per host's source statement, George Zinn went to Utah Valley Hospital after the 9/10 event to treat mild injuries from being dragged and told people he had been told to do it and paid to do it but did not know where the payment came from.
 
 Anchored Artifacts: A-1331.1
 Mentions: N-42
@@ -872,7 +872,7 @@ Claim Timestamp: 00:20:12–00:23:48
 Claim: Per host's on-air assertion (framed as beyond-shadow-of-doubt confirmation), 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at Utah Valley University on September 10, and the NSA, Kash Patel, and current-administration officials are aware and suppressing this information.
 
 Anchored Artifacts: A-1330.1 (peripheral – Milo tweet on denial), host on-air confirmation statement
-Mentions: N-224, N-69
+Mentions: N-222, N-69
 
 Related Nodes: N-10222
 
@@ -884,7 +884,7 @@ Investigative Direction: Identify and obtain the underlying verification source 
 
 Claim Timestamp: 00:46:51
 
-Claim: Per Grock (xAI) response read aloud by the host, Israel and Egypt coordinate on intelligence operations with unprecedented cooperation since the 1979 peace treaty, including frequent intelligence-chief meetings and real-time data sharing.
+Claim: A viewer comment the host reads says that Grok (xAI), when asked, said Israel and Egypt coordinate on intelligence operations, calling the cooperation unprecedented since the 1979 peace treaty, with intel chiefs meeting often and sharing real-time data.
 
 Anchored Artifacts: A-1332.1
 
@@ -903,7 +903,7 @@ Claim: The host says she does not merely think but knows that Mikey McCoy did no
 Transcript Snippet: I don't think that I know that Mikey McCoy did not kill Charlie Kirk. We watch him in those moments.
 
 Anchored Artifacts: 
-Mentions: N-194, N-1, N-3
+Mentions: N-192, N-1, N-3
 Related Nodes: N-10218
 Tags: relevance:core
 Investigative Direction: Compare the shooting-day footage of Mikey McCoy's location and movements with the host's statement.
@@ -919,7 +919,7 @@ Claim: The host says the stage was being set for Mikey McCoy to become the new C
 Transcript Snippet: But it's also becoming pretty apparent to me that the stage was being set for Mikey to become the new Charlie.
 
 Anchored Artifacts: 
-Mentions: N-194, N-17, N-1, N-3
+Mentions: N-192, N-17, N-1, N-3
 Related Nodes: N-10218
 Supports: C-1584
 Tags: relevance:core
@@ -936,7 +936,7 @@ Claim: The host says Rob McCoy began to answer a question about Mikey's future, 
 Transcript Snippet: Is he trying to make us believe but not explicitly state but kind of explicitly state or maybe implicitly state that Charlie's future or rather Mikey McCoy's future was written by Charlie in one of these journal
 
 Anchored Artifacts: A-1322.1
-Mentions: N-17, N-194, N-1, N-3
+Mentions: N-17, N-192, N-1, N-3
 Related Nodes: N-10218
 Supports: C-1585
 Tags: relevance:core
@@ -953,7 +953,7 @@ Claim: The host says the number one sentiment from Turning Point USA insiders af
 Transcript Snippet: Mikey McCoy appeared to have like an extra spring in his step that made them all a little bit uncomfortable in the aftermath
 
 Anchored Artifacts: 
-Mentions: N-194, N-1, N-3
+Mentions: N-192, N-1, N-3
 Related Nodes: N-10218, N-10000
 Tags: relevance:core
 Investigative Direction: Identify the insiders through the host's sources and ask TPUSA staff who worked with Mikey McCoy after September 10 to confirm or deny.
@@ -969,7 +969,7 @@ Claim: The host says Mikey McCoy is already speaking at Liberty University and t
 Transcript Snippet: Look, he's already speaking at Liberty University. Why? Because he made some phone calls.
 
 Anchored Artifacts: 
-Mentions: N-194, N-3
+Mentions: N-192, N-3
 Related Nodes: N-10218, N-11104
 Tags: relevance:core
 Investigative Direction: Check Liberty University convocation and event listings for Mikey McCoy appearances and who invited him.
@@ -985,7 +985,7 @@ Claim: The host says she thinks Mikey McCoy was promised, told or encouraged tha
 Transcript Snippet: I think Mikey was promised or told or encouraged that he would become the new Charlie.
 
 Anchored Artifacts: 
-Mentions: N-194, N-1, N-3
+Mentions: N-192, N-1, N-3
 Related Nodes: N-10218
 Supports: C-1584
 Tags: relevance:core
@@ -1002,7 +1002,7 @@ Claim: The host says that in her experience of travelling with Charlie everywher
 Transcript Snippet: I've traveled with Charlie everywhere. Very strange. The person that mics is always the AV person.
 
 Anchored Artifacts: A-1323.1
-Mentions: N-3, N-1, N-194
+Mentions: N-3, N-1, N-192
 Related Nodes: N-10219
 Supports: C-1586
 Tags: relevance:core
@@ -1019,7 +1019,7 @@ Claim: The host says the McCoys were the ones who captured the footage, since go
 Transcript Snippet: Fortunately, the McCoys were the ones that captured that footage.
 
 Anchored Artifacts: 
-Mentions: N-3, N-194, N-221, N-1, N-2
+Mentions: N-3, N-192, N-219, N-1, N-2
 Related Nodes: N-10219
 Supports: C-1587
 Tags: relevance:core
@@ -1036,7 +1036,7 @@ Claim: The host says that according to her sources the McCoys were on hand to ca
 Transcript Snippet: thankfully the McCoys were on hand in what looks like mid July or early August into early August. According to my source, my sources, we will nail down these specific dates in the future.
 
 Anchored Artifacts: 
-Mentions: N-3, N-194, N-221
+Mentions: N-3, N-192, N-219
 Related Nodes: N-10219
 Tags: relevance:core
 Investigative Direction: Obtain the original upload date and file metadata of the family footage and the date range of the joint summer trip.
@@ -1150,7 +1150,7 @@ Claim: The host says that on July 18 Turning Point USA received a request from U
 Transcript Snippet: receives a request from UVU for Charlie to hold an event at Utah Valley. Not only do they instantly accept this request, but they also make it his first stop
 
 Anchored Artifacts: A-2824.1
-Mentions: N-185, N-1, N-3
+Mentions: N-183, N-1, N-3
 Related Nodes: N-10221, N-10675, N-10012
 Supports: C-1589
 Tags: relevance:core
@@ -1167,7 +1167,7 @@ Claim: In the Fox 13 report the host plays, the campus expressed concern that th
 Transcript Snippet: The campus also has expressed concern that the records could interfere in any investigation and someone's right to a fair trial.
 
 Anchored Artifacts: A-1326.1
-Mentions: N-223, N-40
+Mentions: N-221, N-40
 Related Nodes: N-10221, N-10012
 Tags: relevance:core
 Investigative Direction: Follow the Fox 13 records appeal and the state records ruling on the UVU security plan.
@@ -1183,7 +1183,7 @@ Claim: In the Fox 13 report the host plays, the reporter says the missing police
 Transcript Snippet: That's a standard inquiry at, for example, University of Utah events.
 
 Anchored Artifacts: A-1326.1
-Mentions: N-223
+Mentions: N-221
 Related Nodes: N-10221, N-10012
 Supports: C-1589
 Tags: relevance:core
@@ -1264,7 +1264,7 @@ Claim: The host says Milo Yiannopoulos tweeted that he now thinks Israel did it.
 Transcript Snippet: I saw like Milo Yiannopoulos tweeted, I think is now I think Israel did it
 
 Anchored Artifacts: A-1330.1
-Mentions: N-224, N-3
+Mentions: N-222, N-3
 Related Nodes: N-10222
 Tags: relevance:context
 Investigative Direction: Locate Yiannopoulos's original tweet and confirm its exact wording and date.
@@ -1280,7 +1280,7 @@ Claim: The host says Milo was tweeting about what she calls the bizarre lie that
 Transcript Snippet: he was tweeting about the bizarre lie of them saying Erika Kirk was accepting this award and they completely fictionalized it.
 
 Anchored Artifacts: A-1330.1
-Mentions: N-224, N-2, N-3
+Mentions: N-222, N-2, N-3
 Related Nodes: N-10222
 Tags: relevance:context
 Investigative Direction: Compare the Israeli War Room report of the award with statements from the award organizers and Erika Kirk's office.
@@ -1346,7 +1346,7 @@ Claim: The host says she is putting her name on the Israeli cell phone report an
 Transcript Snippet: I can publicly challenge the very Zionist occupied Trump administration who is aware of this to deny it.
 
 Anchored Artifacts: 
-Mentions: N-3, N-69
+Mentions: N-3
 Related Nodes: N-10222
 Supports: C-1594
 Tags: relevance:core
@@ -1391,7 +1391,7 @@ Investigative Direction: Compare administration transparency pledges with the ac
 
 Claim Timestamp: 00:33:25
 
-Claim: In the clip played, Tucker Carlson says the Israeli government and a couple of its ministers say out loud all the time that everybody related to a terrorist shares in his guilt, which he calls collective punishment.
+Claim: In the clip played, Tucker Carlson says the Israeli position, not of all Israelis and certainly not of all Jews, but of the Israeli government and a couple of its ministers who say it out loud all the time, is that everybody related to a terrorist shares in his guilt, which he calls collective punishment.
 
 Transcript Snippet: of the Israeli government and of a couple of its ministers, which they say this out loud all the time, is that everybody who's related to a terrorist shares in his guilt.
 
@@ -1427,7 +1427,7 @@ Claim: In the clip played, Tucker Carlson says he hated Glenn Greenwald and now 
 Transcript Snippet: I hated Glenn Greenwald. Now I think he's one of my favorite people in the world
 
 Anchored Artifacts: A-1329.1
-Mentions: N-22, N-764
+Mentions: N-22, N-762
 Tags: relevance:tangential
 Investigative Direction: Check Tucker Carlson's earlier public statements about Glenn Greenwald.
 
@@ -1597,7 +1597,7 @@ Investigative Direction: Identify the videographer and the vantage point of the 
 
 Claim Timestamp: 00:49:56
 
-Claim: The host says TikTok is hitting her with penalties for videos talking about the Egyptian planes, which she calls very strange.
+Claim: The host says TikTok is hitting 'us' for videos talking about the Egyptian planes, which she calls very strange.
 
 Transcript Snippet: Tik Tok is hitting us for videos talking about the Egyptian planes. That's very strange.
 
@@ -1753,7 +1753,7 @@ Confidence: high
 - **Requires human verification:** The George Zinn hospital statement (A-1331.1, C-1593) rests on a single anonymous source per host; corroborating documentation is not displayed.
 - **Possible transcription error:** "Mira Epstein" – name does not appear in this transcript and may be a confusion with another reference; not inscribed as a node.
 - **Possible transcription error:** "Bill Ackman" (likely Bill Ackman) referenced at 15:47; preserved as it appears in transcript.
-- **Name uncertainty:** "Sam Parker" (N-185) is identified by host as source of the July 18 finding; full identity not corroborated in this episode.
+- **Name uncertainty:** "Sam Parker" (N-183) is identified by host as source of the July 18 finding; full identity not corroborated in this episode.
 - **AI-generated source:** Grock response (A-1332.1) is AI-generated and should be treated as secondary; primary corroboration required.
 - **Transcript ambiguity:** The timing of the Faith Forward Show appearance (A-1322.1) is referenced but exact publication date is not given.
 - **Claim failed admission test:** Numerous rhetorical passages on Zionism, Christian Zionism, AIPAC, and "scientism" are presented as host commentary without artifact anchors; correctly excluded from the Claim Register.
@@ -1765,6 +1765,6 @@ Confidence: high
 
 - **Artifact Families Introduced:** A-1321, A-1322, A-1323, A-1324, A-1325, A-1326, A-1327, A-1328, A-1329, A-1330, A-1331, A-1332
 - **Claim Range:** C-1584–C-1595
-- **New People Nodes Introduced:** N-194, N-17, N-221, N-22, N-39, N-205, N-222, N-223, N-185, N-42, N-224
+- **New People Nodes Introduced:** N-192, N-17, N-219, N-22, N-39, N-203, N-220, N-221, N-183, N-42, N-222
 - **New Investigation Target Nodes Introduced:** N-10218, N-10219, N-10220, N-10221, N-10222, N-10223
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)

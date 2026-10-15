@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11331, N-11332, N-11333, N-11334
-  - Hole-minted Nodes (reintro-ep033): N-478, N-10488
+  - Hole-minted Nodes (reintro-ep033): N-476, N-10488
   - Tip-minted Nodes (reintro-ep033): N-10925
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12350–C-12416
-  - New Nodes Introduced: N-263, N-264, N-267, N-268, N-10254, N-10255, N-10256, N-10257, N-10258
-  - Reused Nodes Appearing: N-10253, N-265, N-5, N-11, N-36, N-55, N-97, N-99, N-228, N-10000, N-10012, N-10026, N-10061, N-10074, N-10100, N-10132, N-10139, N-10162, N-10167, N-10208, N-10237, N-10299, N-10434, N-10451, N-10810
+  - New Nodes Introduced: N-261, N-262, N-265, N-266, N-10254, N-10255, N-10256, N-10257, N-10258
+  - Reused Nodes Appearing: N-10253, N-263, N-5, N-11, N-36, N-55, N-97, N-99, N-226, N-10000, N-10012, N-10026, N-10061, N-10074, N-10100, N-10132, N-10139, N-10162, N-10167, N-10208, N-10237, N-10299, N-10434, N-10451, N-10810
   - Tip-minted Nodes (wave2): N-10896
   N-41
 
@@ -42,7 +42,7 @@
 
 - **Artifact Families Introduced:** A-1415, A-1416, A-1417, A-1418, A-1419, A-1420, A-1421, A-1422, A-1423, A-1424
 - **Claim Range:** C-1716 – C-1734, C-3735
-- **New Nodes Introduced:** N-263, N-264, N-265, N-267, N-268, N-10253, N-10254, N-10255, N-10256, N-10257, N-10258
+- **New Nodes Introduced:** N-261, N-262, N-263, N-265, N-266, N-10253, N-10254, N-10255, N-10256, N-10257, N-10258
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica/Erika Kirk – preserved as Erika per transcript), N-3 (Candace Owens), N-22 (Tucker Carlson), N-41 (Governor Cox)
 
 ---
@@ -83,7 +83,7 @@ Video Timestamp: 00:08:45–00:10:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1717, C-1718, N-263, N-2, N-3*
+*Related: C-1717, C-1718, N-261, N-2, N-3*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host-stated; requires verification against rental records)
 
-*Related: C-1726, C-1727, N-264, N-10256*
+*Related: C-1726, C-1727, N-262, N-10256*
 
 **A-1421.2** Arizona license plate CWN N872 – white 2025 Toyota Camry rented at Duncan Aviation FBO
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1726, C-1727, N-264, N-10256*
+*Related: C-1726, C-1727, N-262, N-10256*
 
 **A-1421.3** Utah license plate TN12KM – white 2023 Toyota RAV4 rented at Duncan Aviation FBO
 
@@ -203,7 +203,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1726, C-1727, N-264, N-10256*
+*Related: C-1726, C-1727, N-262, N-10256*
 
 **A-1421.4** Utah license plate Z923DA – black 2025 Toyota 4Runner rented at Duncan Aviation FBO
 
@@ -213,7 +213,7 @@ Video Timestamp: 00:27:30–00:28:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1726, C-1727, N-264, N-10256*
+*Related: C-1726, C-1727, N-262, N-10256*
 
 ---
 
@@ -241,7 +241,7 @@ Video Timestamp: 00:52:35–00:54:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party tip; producer-asserted camera locations)
 
-*Related: C-1733, N-267, N-10257*
+*Related: C-1733, N-265, N-10257*
 
 ---
 
@@ -255,7 +255,7 @@ Video Timestamp: 00:12:50–00:13:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (verbal reference; no artifact displayed)
 
-*Related: C-1724 (informational context only – not inscribed as separate claim), N-265, N-1*
+*Related: C-1724 (informational context only – not inscribed as separate claim), N-263, N-1*
 
 **A-1424.2** Host's verbal account that Andrew K. Smith, "managing director of a restaurant fund," conducted a "restaurantology" interview with Charlie Kirk the morning of September 10, cited as the reason Charlie flew into Salt Lake City rather than Provo
 
@@ -265,7 +265,7 @@ Video Timestamp: 00:13:12–00:14:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (verbal reference; no displayed artifact)
 
-*Related: C-3735, N-1, N-268, N-10253*
+*Related: C-3735, N-1, N-266, N-10253*
 
 ---
 
@@ -349,7 +349,7 @@ Video Timestamp: 00:52:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-12413, N-228*
+*Related: C-12413, N-226*
 
 ---
 
@@ -370,7 +370,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-263** Steven Crowder
+**N-261** Steven Crowder
 
 Host's primary example of influencer narratives allegedly misrepresenting her remarks. Matters as anchor for the Erika-murder interpretation dispute.
 
@@ -396,7 +396,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-264** Duncan Aviation
+**N-262** Duncan Aviation
 
 Fixed-base operator (FBO) at Provo where SUBND transponder activity is recorded on September 10 and where rental cars were sourced. Matters as institutional locus of pre-event activity.
 
@@ -409,7 +409,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-265** Terrell Farnsworth
+**N-263** Terrell Farnsworth
 
 TPUSA personnel described by host as attending the UVU event and securing the SD cards. Matters because his presence is flagged as atypical by host.
 
@@ -438,7 +438,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-267** Mommy Sleuth (Nellie)
+**N-265** Mommy Sleuth (Nellie)
 
 Pseudonymous contributor referenced by host as the source of the 15-hour research identifying Erika-tracking overlap pattern. Identity protected by host.
 
@@ -451,7 +451,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-268** Andrew K. Smith
+**N-266** Andrew K. Smith
 
 Host-described "managing director of a restaurant fund" who conducted the "restaurantology" interview with Charlie Kirk on the morning of September 10.
 
@@ -475,7 +475,7 @@ Claim Count: 6
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1418.1, A-1419.1, A-1419.2, A-1424.2, C-1719, C-1720, C-1721, C-1722, C-1723, N-1, N-2, N-67, N-267*
+*Related: A-1418.1, A-1419.1, A-1419.2, A-1424.2, C-1719, C-1720, C-1721, C-1722, C-1723, N-1, N-2, N-67, N-265*
 
 ---
 
@@ -514,7 +514,7 @@ Claim Count: 2
 Episode Count: 1 (this episode)
 Investigative Pressure: High
 
-*Related: A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-1726, C-1727, N-264*
+*Related: A-1421.1, A-1421.2, A-1421.3, A-1421.4, C-1726, C-1727, N-262*
 
 ---
 
@@ -668,7 +668,7 @@ Named by the host as an influencer who allegedly lied about her and as saying th
 
 ---
 
-**N-228** Shawn Ryan
+**N-226** Shawn Ryan
 
 Podcaster whose episode with Charlie's security detail a viewer asks the host about.
 
@@ -676,7 +676,7 @@ Podcaster whose episode with Charlie's security detail a viewer asks the host ab
 
 ---
 
-**N-478** Zack Gregorio (Wolves and Finance)
+**N-476** Zack Gregorio (Wolves and Finance)
 
 Wolves and Finance YouTube channel whose TPUSA filings report is played on air.
 
@@ -851,7 +851,7 @@ Claim Timestamp: 00:08:45–00:10:00
 Claim: Steven Crowder, in a recorded clip played during the episode, asserted that Candace Owens' book club remarks about Charlie Kirk being "betrayed" effectively accused Erika Kirk of murdering her husband.
 
 Anchored Artifacts: A-1416.1, A-1417.1
-Mentions: N-2, N-3, N-263, N-1
+Mentions: N-2, N-3, N-261, N-1
 
 
 Investigative Direction: Obtain the full Crowder clip and the full book club recording to test the interpretive claim against the literal transcript.
@@ -865,7 +865,7 @@ Claim Timestamp: 00:10:00–00:11:00
 Claim: Candace Owens rejected Crowder's interpretation, stating that her remarks about Charlie being "betrayed" were not directed at Erika Kirk, and characterizing the Crowder narrative as a coordinated talking point deployed after she mentioned the Egyptian planes.
 
 Anchored Artifacts: A-1416.1, A-1417.1
-Mentions: N-2, N-3, N-263
+Mentions: N-2, N-3, N-261
 
 
 Investigative Direction: Determine, by transcript comparison, whether host's original remarks named Erika or TPUSA staff; trace downstream amplification of the Erika interpretation.
@@ -879,7 +879,7 @@ Claim Timestamp: 00:19:57–00:21:54
 Claim: Mark, the show's director, says ADSB Exchange data he displays shows tail SUBND transmitting from the Duncan Aviation FBO in Provo from 9:05:36 a.m. to 10:34:05 a.m. (local time, after subtracting 7 hours from UTC) and again from 12:40:53 p.m. to 1:29:40 p.m. on September 10, 2025, without the aircraft moving from its position, and the host repeats these times.
 
 Anchored Artifacts: A-1418.1
-Mentions: N-1, N-2, N-67, N-264
+Mentions: N-1, N-2, N-67, N-262
 
 Related Nodes: N-10253
 
@@ -894,7 +894,7 @@ Claim Timestamp: 00:14:51–00:18:42
 Claim: A host-prepared spreadsheet displays 68 overlap instances (later expanded to 73) between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, with 29 of those instances also involving Charlie Kirk.
 
 Anchored Artifacts: A-1419.1, A-1419.2
-Mentions: N-1, N-2, N-267
+Mentions: N-1, N-2, N-265
 
 Related Nodes: N-10253
 
@@ -982,7 +982,7 @@ Claim Timestamp: 00:27:30–00:29:31
 Claim: Host states that Duncan Aviation's FBO in Provo sourced rental cars for arrivals the host describes as Egyptian, in the days before the September 10 event.
 
 Anchored Artifacts: A-1421.1, A-1421.2, A-1421.3, A-1421.4
-Mentions: N-264
+Mentions: N-262
 
 Related Nodes: N-10256
 
@@ -997,7 +997,7 @@ Claim Timestamp: 00:27:30–00:29:31
 Claim: Host reads four specific license plates associated with the rental vehicles: T09 2Zs (silver 2025 Toyota RAV4, Utah), CWN N872 (white 2025 Toyota Camry, Arizona), TN12KM (white 2023 Toyota RAV4, Utah), and Z923DA (black 2025 Toyota 4Runner, Utah).
 
 Anchored Artifacts: A-1421.1, A-1421.2, A-1421.3, A-1421.4
-Mentions: N-264
+Mentions: N-262
 
 Related Nodes: N-10256
 
@@ -1101,7 +1101,7 @@ Claim Timestamp: 00:21:00–00:21:54
 Claim: Mark, the show's director, says ADSB data shows SUBND transponder windows on September 10 were 9:05-10:34 a.m. and 12:40-1:29 p.m. (local time, using UTC minus 7 hours).
 
 Anchored Artifacts: A-1418.1
-Mentions: N-67, N-264
+Mentions: N-67, N-262
 
 Related Nodes: N-10253
 
@@ -1128,7 +1128,7 @@ Claim Timestamp: 00:14:51
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
 Transcript Snippet: ...tail number S U B N D, the blue plane. A pregnant mommy sleuth who was locked into this investigation discovered something that me and my team had missed. I consi...
 Anchored Artifacts: 
-Mentions: N-3, N-267
+Mentions: N-3, N-265
 Related Nodes: 
 Confidence: high
 Investigative Direction: Cross-link M-16 Mommy Sleuth meme when register present; verify named contributor if identified.
@@ -1141,7 +1141,7 @@ Claim Timestamp: 00:14:51
 Claim: Crediting the pregnant mommy sleuth whose urgent email corrected her plane-tracking analysis, the host says "I consider her obviously and all of you to be my decentralized intelligence agents," casting the tipster and the whole audience as agents of the Decentralized Intelligence Agency.
 Transcript Snippet: ...I consider her obviously and all of you to be my decentralized intelligence agents. Anyway, she sent me a rather urgent email and I'm obviously protecting her identity for for, you know, reasons that are clear...
 Anchored Artifacts: 
-Mentions: N-3, N-267
+Mentions: N-3, N-265
 Related Nodes: 
 Confidence: high
 Investigative Direction: Preserve as brand / network framing claim (M-12 alias "decentralized intelligence agents"); identity of the tipster stays protected.
@@ -1158,7 +1158,7 @@ Claim: Host states that Charlie Kirk flew into Salt Lake City rather than the cl
 Transcript Snippet: He's a managing director of a restaurant fund, Andrew K. Smith, out of nowhere does this restauranttology interview with Charlie.
 
 Anchored Artifacts: A-1424.2
-Mentions: N-1, N-268
+Mentions: N-1, N-266
 Related Nodes: N-10253
 Confidence: low
 
@@ -1300,7 +1300,7 @@ Claim: In the clip played, Steven Crowder says outrageous claims require outrage
 Transcript Snippet: outrageous claims and this is an outrageous claim require outrageous evidence of course as is par for the course. Um, none has been presented.
 
 Anchored Artifacts: A-1416.1
-Mentions: N-263, N-2, N-3
+Mentions: N-261, N-2, N-3
 Tags: relevance:context
 Investigative Direction: Obtain the full Crowder video and date it relative to the host's book club audio; check what claim he treated as the 'outrageous' one.
 
@@ -1363,7 +1363,7 @@ Claim: The host says Terrell Farnsworth, who takes out the SD cards, does not do
 Transcript Snippet: Terrell does not do college campus events. He doesn't do that. He's at the top of the company. He does the big events, the SAS, the Afest.
 
 Anchored Artifacts: A-1424.1
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: N-10100, N-10162
 Tags: relevance:core
 Investigative Direction: Compare Farnsworth's event assignments across other 2025 campus tour stops using TPUSA event staffing records, photos and travel records.
@@ -1379,7 +1379,7 @@ Claim: The host says Farnsworth told her they were trying something new that day
 Transcript Snippet: he told me they were trying something new that day and it must have been so new that it was over by the next event after Charlie died because he wasn't there again.
 
 Anchored Artifacts: A-1424.1
-Mentions: N-265, N-1, N-3
+Mentions: N-263, N-1, N-3
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Ask Farnsworth or TPUSA for the staffing roster of the first events after September 10 to test whether he was absent.
@@ -1395,7 +1395,7 @@ Claim: The host says Farnsworth was 'out of the blue' at the UVU event and that 
 Transcript Snippet: So, he just out of the blue was at this event and then he wasn't and he secured the SD cards.
 
 Anchored Artifacts: A-1424.1
-Mentions: N-265, N-3
+Mentions: N-263, N-3
 Related Nodes: N-10100, N-10162, N-10810
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA's chain-of-custody record for the SD cards and the names of anyone who handled them on September 10.
@@ -1411,7 +1411,7 @@ Claim: The host says that for a podcast interview people travel to Charlie, that
 Transcript Snippet: Otherwise, for the sake of a podcast, people travel to Charlie. Okay? If you if you want to get Charlie, you're gonna travel to Charlie to make that happen.
 
 Anchored Artifacts: A-1424.2
-Mentions: N-1, N-268, N-3
+Mentions: N-1, N-266, N-3
 Related Nodes: N-11333, N-10253
 Supports: C-3735
 Tags: relevance:core
@@ -1475,7 +1475,7 @@ Claim: The host says a pregnant 'mommy sleuth' emailed that the host was only pa
 Transcript Snippet: she had done an additional 15 hours of research and was able to discern that the person the planes were actually tracking for years was Erika, not Charlie
 
 Anchored Artifacts: A-1419.2
-Mentions: N-267, N-2, N-1, N-3
+Mentions: N-265, N-2, N-1, N-3
 Related Nodes: N-10253
 Tags: relevance:core
 Investigative Direction: Review the sleuth's email and method (kept anonymous by the host) and test the overlaps against independent flight and location records.
@@ -1571,7 +1571,7 @@ Claim: The host says Duncan Aviation offers maintenance repairs, so it is possib
 Transcript Snippet: Duncan Aviation does offer maintenance repairs. It's therefore possible that it just chose to run some maintenance checks at an unfortunate time.
 
 Anchored Artifacts: A-1418.1
-Mentions: N-264, N-3
+Mentions: N-262, N-3
 Related Nodes: N-10253
 Tags: relevance:context
 Investigative Direction: Ask Duncan Aviation Provo whether it holds a work order for SU-BND on September 10, 2025.
@@ -1813,7 +1813,7 @@ Claim: The Wolves and Finance video says Tyler Bowyer is telling people on X to 
 Transcript Snippet: So Tyler Bowyer is being snarky on X. com and telling people to go look at the annual financial audit, but the financial audit is missing from last year for three of the four organizations.
 
 Anchored Artifacts: A-1420.1
-Mentions: N-11, N-478
+Mentions: N-11, N-476
 Related Nodes: N-10254, N-10167
 Tags: relevance:context
 Investigative Direction: Locate Bowyer's X posts about the annual audit and compare them with the IRS record of filed returns (the video appears to conflate the audit with Form 990 filings).
@@ -1911,7 +1911,7 @@ Claim: The Wolves and Finance video says the $8,560,625 was sent to America's Tu
 Transcript Snippet: They are sending it to their own shell company. Now, this is not necessarily illegal except for the fact that the financial statement for the other organization is missing.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-478
+Mentions: N-476
 Related Nodes: N-11332, N-10000, N-10254
 Tags: relevance:context
 Investigative Direction: Check state and IRS records for America's Turning Point (entity type, officers, exempt status) to test the 'shell company' description.
@@ -1927,7 +1927,7 @@ Claim: The Wolves and Finance video says TPUSA used to transfer millions of doll
 Transcript Snippet: This stopped in 2021 and they started ramping up sending money to America's Turning Point.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-478
+Mentions: N-476
 Related Nodes: N-11331, N-11332, N-10254
 Tags: relevance:context
 Investigative Direction: Check Schedule I of TPUSA's Forms 990 for 2019 through 2024 and compare the grant recipients year by year.
@@ -1943,7 +1943,7 @@ Claim: The Wolves and Finance video says that as of fiscal year 2023 Turning Poi
 Transcript Snippet: As of fiscal year 2023, they had $61 million of assets in the endowment, which was generating $1.9 million a year of investment income.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-478
+Mentions: N-476
 Related Nodes: N-11331, N-10254
 Tags: relevance:context
 Investigative Direction: Verify the figures on the Turning Point Endowment Form 990 for fiscal year 2023.
@@ -1959,7 +1959,7 @@ Claim: The Wolves and Finance video says that in the prior year the majority of 
 Transcript Snippet: If we look at the prior year, the majority of the money was spent on other salaries and wages. How is this possible when America's Turning Point reports zero employees?
 
 Anchored Artifacts: A-1420.2
-Mentions: N-478
+Mentions: N-476
 Related Nodes: N-11332, N-10254
 Tags: relevance:core
 Investigative Direction: Pull America's Turning Point's prior-year Form 990 (Part VII, Part IX and Schedule O) to check employee count and salary expense, including payments to a related staffing entity.
@@ -1975,7 +1975,7 @@ Claim: The Wolves and Finance narrator says that, in his opinion, he thinks ther
 Transcript Snippet: I think there are fake people on the payroll.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-478
+Mentions: N-476
 Related Nodes: N-11332, N-10254
 Tags: relevance:context
 Investigative Direction: No evidence is presented for this speculation; only audited payroll records or an enforcement finding could confirm or refute it.
@@ -1991,7 +1991,7 @@ Claim: The Wolves and Finance video says the annual financial audit for Turning 
 Transcript Snippet: they audited Turning Point USA, Turning Point Action, Turning Point Endowment, America's Turning Point, and TPUSA merch.
 
 Anchored Artifacts: A-1420.3
-Mentions: N-478
+Mentions: N-476
 Related Nodes: N-10896, N-10925, N-11331, N-11332
 Tags: relevance:core
 Investigative Direction: Obtain the Baker Tilly audit report and notes for fiscal year 2024 and confirm the entities covered and the opinion type.
@@ -2007,7 +2007,7 @@ Claim: The Wolves and Finance video says Baker Tilly's audit opinion letter was 
 Transcript Snippet: Baker Tilly's audit opinion letter is signed after Turning Point missed the filing date with the IRS.
 
 Anchored Artifacts: A-1420.3
-Mentions: N-478
+Mentions: N-476
 Related Nodes: N-10896, N-10254
 Tags: relevance:core
 Investigative Direction: Check the signature date on the audit opinion letter against the original and extended Form 990 due dates.
@@ -2180,7 +2180,7 @@ Claim: A viewer asks whether the host has seen the new Shawn Ryan interview with
 Transcript Snippet: I have not seen it yet, but I intend to watch it and I will give feedback on it um this week without question.
 
 Anchored Artifacts: A-3204.2
-Mentions: N-228, N-3
+Mentions: N-226, N-3
 Tags: relevance:context
 Investigative Direction: Identify the Shawn Ryan episode and guests, and track the host's later feedback.
 
@@ -2210,7 +2210,7 @@ Claim: The host says, while stressing that it is an allegation, that the Wolves 
 Transcript Snippet: that video went deeper into some lawsuits that Baker Tilly was facing for not auditing things correctly.
 
 Anchored Artifacts: 
-Mentions: N-478, N-3
+Mentions: N-476, N-3
 Related Nodes: N-10896
 Tags: relevance:context
 Investigative Direction: Search court dockets for suits naming Baker Tilly US, LLP over audit quality and confirm which suits the video cites.

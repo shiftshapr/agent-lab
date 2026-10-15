@@ -13,12 +13,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10d): N-11219
-  - Hole-minted Nodes (reintro-ep017): N-185, N-10646, N-10650
+  - Hole-minted Nodes (reintro-ep017): N-183, N-10646, N-10650
   - Tip-minted Nodes (reintro-ep017): N-11010
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9324–C-9398
-  - New Nodes Introduced: N-164, N-165, N-166, N-167, N-169, N-170, N-171, N-172, N-174, N-176, N-10174, N-10175, N-10177, N-10178, N-10179
-  - Reused Nodes Appearing: N-36, N-46, N-71, N-102, N-141, N-157, N-158, N-131, N-10000, N-10015, N-10018, N-10025, N-10027, N-10056, N-10106, N-10125, N-10163, N-10169, N-11099, N-10345, N-173, N-10176, N-10206
+  - New Nodes Introduced: N-163, N-164, N-165, N-166, N-168, N-169, N-170, N-171, N-173, N-175, N-10174, N-10175, N-10177, N-10178, N-10179
+  - Reused Nodes Appearing: N-36, N-46, N-71, N-101, N-140, N-156, N-157, N-130, N-10000, N-10015, N-10018, N-10025, N-10027, N-10056, N-10106, N-10125, N-10163, N-10169, N-11099, N-10345, N-172, N-10176, N-10206
 
 **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk – referenced via text-message claims), N-? (Candace Owens), N-? (Tucker Carlson), N-? (Tyler Robinson), N-? (Benjamin Netanyahu), N-? (Megyn Kelly), N-? (Matt Gaetz), N-? (Michael Knowles), N-? (Ian Carroll), N-? (Max Blumenthal), N-11
 
@@ -80,7 +80,7 @@ Video Timestamp: 00:07:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text captured verbatim in transcript)
 
-*Related: C-1405, C-1406, N-14, N-164, N-165, N-10179*
+*Related: C-1405, C-1406, N-14, N-163, N-164, N-10179*
 
 ---
 
@@ -94,7 +94,7 @@ Video Timestamp: 00:13:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text captured verbatim in transcript)
 
-*Related: C-1409, N-166, N-165, N-10179*
+*Related: C-1409, N-165, N-164, N-10179*
 
 ---
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:20:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played in episode with full transcriptable quote)
 
-*Related: C-1411, C-1412, C-1414, N-14, N-174, N-10178, N-43*
+*Related: C-1411, C-1412, C-1414, N-14, N-173, N-10178, N-43*
 
 ---
 
@@ -174,7 +174,7 @@ Video Timestamp: 00:29:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played with verbatim quotes)
 
-*Related: C-1413, C-1414, C-1416, N-167, N-10178*
+*Related: C-1413, C-1414, C-1416, N-166, N-10178*
 
 ---
 
@@ -202,7 +202,7 @@ Video Timestamp: 00:47:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text captured verbatim)
 
-*Related: C-1415, N-171*
+*Related: C-1415, N-170*
 
 **A-1245.2** Yishai X reply to D'Souza characterizing his tweet as an example of bad-faith "combat" of Candace Owens
 
@@ -212,7 +212,7 @@ Video Timestamp: 00:48:42
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (text captured verbatim; "Yishai" is the name preserved as appears in transcript)
 
-*Related: C-1415, N-172*
+*Related: C-1415, N-171*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:53:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played with verbatim quotes)
 
-*Related: C-1416, C-1417, N-93, N-170, N-3 (Candace Owens), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-10176*
+*Related: C-1416, C-1417, N-93, N-169, N-3 (Candace Owens), N-? (Max Blumenthal), N-? (Tate brothers), N-? (Tucker Carlson), N-10176*
 
 ---
 
@@ -240,7 +240,7 @@ Video Timestamp: 01:00:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (transcript caption identifies performer as "John Marco Siracusa"; host identifies him as "Gianmarco Soresi" / "John Marco Siracusa")
 
-*Related: C-1417, N-169*
+*Related: C-1417, N-168*
 
 *Optional Flag: Name uncertainty – transcript caption vs. host referent.*
 
@@ -286,7 +286,7 @@ Video Timestamp: 00:09:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played with verbatim material)
 
-*Related: C-1408, N-14, N-165, N-176 (Gabriel)*
+*Related: C-1408, N-14, N-164, N-175 (Gabriel)*
 
 ---
 
@@ -330,14 +330,14 @@ Confidence Level: Low
 
 **A-3004** Mappin Letter Verbal Reference Bundle
 
-**A-3004.1** Host verbal reference to a letter written by John and Arena Mappin (transcribed Mapel) the previous day (not shown)
+**A-3004.1** Host verbal reference to a letter written by John and Irina Mappin (transcribed Mappin) the previous day (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 01:07:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9389, N-157, N-158*
+*Related: C-9389, N-156, N-157*
 
 ---
 
@@ -358,7 +358,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-164** Yashar Ali
+**N-163** Yashar Ali
 
 X account author of the failing-contextualization quote-tweet (A-1237.1). Per host, "literally paid to do PR for Zionists."
 
@@ -371,7 +371,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-165** Iryna Zhuravska
+**N-164** Iryna Zhuravska
 
 Ukrainian refugee whose August 22, 2025 murder in Charlotte, North Carolina, became a major conservative-news topic; footage released/trended September 5. Used as the official anchor in Yashar Ali's attempt to contextualize Josh Hammer's September 9 retweet.
 
@@ -387,7 +387,7 @@ Investigative Pressure: Low (factual anchor only)
 
 ---
 
-**N-166** Matt Walsh
+**N-165** Matt Walsh
 
 X author of the September 5 public-execution tweet used as comparative anchor (A-1238.1).
 
@@ -396,11 +396,11 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1238.1, C-1409, N-165*
+*Related: A-1238.1, C-1409, N-164*
 
 ---
 
-**N-167** Rabbi Pesach Wolicki
+**N-166** Rabbi Pesach Wolicki
 
 Rabbi in Israel; per host and Wolicki audio (A-1243.1), participated in the pre-assassination Zoom call with Charlie Kirk and Josh Hammer. Provides direct testimonial artifact regarding Charlie's state of mind and the structure of the meeting.
 
@@ -413,7 +413,7 @@ Investigative Pressure: High
 
 ---
 
-**N-169** Gianmarco Soresi
+**N-168** Gianmarco Soresi
 
 Comedian whose bit about Jewish holidays and Exodus was played in the brief-levity segment. Transcript carries both "Gianmarco Soresi" (host) and "John Marco Siracusa" (caption) – flag.
 
@@ -441,7 +441,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-170** James O'Keefe
+**N-169** James O'Keefe
 
 Referenced by Alex Jones as the precedent for the dead-man-switch mechanism (A-1246.1).
 
@@ -467,7 +467,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-171** Dinesh D'Souza
+**N-170** Dinesh D'Souza
 
 X author of A-1245.1 – the "freak show" / farmer-sex-with-sheep post about Candace Owens.
 
@@ -480,7 +480,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-176** Gabriel
+**N-175** Gabriel
 
 Referenced in Josh Hammer / Gabriel reporting thread (transcript name).
 
@@ -519,7 +519,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-172** Yishai (X account)
+**N-171** Yishai (X account)
 
 Author of the reply post to Dinesh D'Souza (A-1245.2); preserved exactly as spelled on air.
 
@@ -528,7 +528,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1245.2, N-171*
+*Related: A-1245.2, N-170*
 
 *Optional Flag: Name uncertainty – "Yishai" alone; fuller handle not captured.*
 
@@ -573,7 +573,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-173** Tate Brothers (Andrew and Tristan)
+**N-172** Tate Brothers (Andrew and Tristan)
 
 Listed by Alex Jones as kill-switch recipients (A-1246.1).
 
@@ -586,7 +586,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-174** Ali (JTV host)
+**N-173** Ali (JTV host)
 
 Interviewer in the Josh Hammer JTV segment (A-1242.1). Host name preserved as it appears in transcript.
 
@@ -610,7 +610,7 @@ Claim Count: 5
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1236.1, A-1237.1, A-1238.1, A-1239.2, A-1240.1, C-1404, C-1405, C-1406, C-1409, C-1410, C-1420, N-14, N-164, N-165, N-166*
+*Related: A-1236.1, A-1237.1, A-1238.1, A-1239.2, A-1240.1, C-1404, C-1405, C-1406, C-1409, C-1410, C-1420, N-14, N-163, N-164, N-165*
 
 ---
 
@@ -636,7 +636,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1246.1, C-1416, C-1417, N-93, N-170, N-27, N-39, N-173*
+*Related: A-1246.1, C-1416, C-1417, N-93, N-169, N-27, N-39, N-172*
 
 ---
 
@@ -649,7 +649,7 @@ Claim Count: 0 (no claim passes anchor test in this episode)
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: N-1, N-14, N-167*
+*Related: N-1, N-14, N-166*
 
 *Optional Flag: Artifact verbally referenced but not shown.*
 
@@ -664,7 +664,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1242.1, A-1243.1, N-14, N-167, N-38*
+*Related: A-1242.1, A-1243.1, N-14, N-166, N-38*
 
 ---
 
@@ -677,7 +677,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1237.1, A-1238.1, C-1406, N-14, N-164, N-165*
+*Related: A-1237.1, A-1238.1, C-1406, N-14, N-163, N-164*
 
 ---
 
@@ -762,7 +762,7 @@ Matt Gaetz; Hammer's JTV example of a commentator who changed tone.
 
 ---
 
-**N-102** Michael Knowles
+**N-101** Michael Knowles
 
 Michael Knowles; named in the JTV discussion of commentators.
 
@@ -770,30 +770,30 @@ Michael Knowles; named in the JTV discussion of commentators.
 
 ---
 
-**N-141** Konstantin Kisin
+**N-140** Konstantin Kisin
 Konstantin Kisin (transcribed Konstantin Kisin); the host says he told Megyn Kelly to make a statement against Candace and Tucker.
 
 *Related: C-9397*
 
 ---
 
-**N-157** John Mappin
+**N-156** John Mappin
 
-John Mappin (transcribed Mapel); co-author of a letter the host references.
-
-*Related: C-9389, A-3004.1*
-
----
-
-**N-158** Arena Mappin
-
-Arena Mappin (transcribed Mapel); co-author of a letter the host references.
+John Mappin (transcribed Mappin); co-author of a letter the host references.
 
 *Related: C-9389, A-3004.1*
 
 ---
 
-**N-185** Sam Parker
+**N-157** Irina Mappin
+
+Irina Mappin (transcribed Mappin); co-author of a letter the host references.
+
+*Related: C-9389, A-3004.1*
+
+---
+
+**N-183** Sam Parker
 
 Sam Parker; the account Ali says the host quote tweeted.
 
@@ -801,7 +801,7 @@ Sam Parker; the account Ali says the host quote tweeted.
 
 ---
 
-**N-131** Ian Carroll
+**N-130** Ian Carroll
 
 Ian Carroll; named by the JTV host and Hammer.
 
@@ -966,10 +966,10 @@ Investigative Direction: Verify retweet timestamp via X archive (Wayback Machine
 
 Claim Timestamp: 00:07:48
 
-Claim: Yashar Ali posted a quote-tweet asserting the Hammer retweet referenced the Iryna Zhuravska murder and that other conservatives were sharing similar material the day prior.
+Claim: The host reads a post she says Yashar Ali wrote, asserting that Josh Hammer's retweet of the 2013 Trump post was tied to the murder of Iryna Zhuravska and that many conservatives were sharing and saying similar things the day before.
 
 Anchored Artifacts: A-1237.1
-Mentions: N-55, N-164, N-165
+Mentions: N-55, N-163, N-164
 Related Nodes: N-10179
 
 Investigative Direction: Verify Yashar Ali's exact post text and timing against X archives; verify whether the "day prior" framing matches the post dates of alleged "many conservatives."
@@ -983,7 +983,7 @@ Claim Timestamp: 00:08:44
 Claim: The host says Iryna Zhuravska was murdered on August 22, 2025, her perpetrator was arrested the same day, and the footage was released and trended on X on September 5, 2025.
 
 Anchored Artifacts: A-1238.1 (Matt Walsh's September 5 tweet is documentary anchor for the September 5 date)
-Mentions: N-165, N-166
+Mentions: N-164
 Related Nodes: N-10179
 
 Investigative Direction: Verify dates against Charlotte-Mecklenburg Police Department records, news archives, and X trend timelines.
@@ -1007,10 +1007,10 @@ Investigative Direction: Verify the full memorial transcript and locate the segm
 
 Claim Timestamp: 00:09:35
 
-Claim: In his media appearance with host Gabriel discussing the Iryna Zhuravska case, Hammer discussed criminal justice standards, media coverage double-standards, and safety – but did not call for or reference the death penalty.
+Claim: The host says that, in a clip of Hammer's appearance with host Gabriel about the Iryna Zhuravska case, Hammer discussed criminal justice, media double standards and safety, and that at no point that she could determine did he speak about the death penalty or a public execution.
 
 Anchored Artifacts: A-1250.1
-Mentions: N-55, N-165, N-176
+Mentions: N-55, N-164, N-175
 
 Investigative Direction: Verify the full segment transcript and any accompanying written material Hammer posted in that window.
 
@@ -1023,17 +1023,17 @@ Claim Timestamp: 00:13:45
 Claim: Matt Walsh posted on X on September 5, 2025, calling for public execution, hard labor, and long prison terms in a visceral response to the Iryna footage.
 
 Anchored Artifacts: A-1238.1
-Mentions: N-165, N-166
+Mentions: N-164, N-165
 
 Investigative Direction: Verify post date and content via X archives.
 
 ---
 
-**C-1410** Hammer's Sole Prior Public Reference to "Public Execution" Was a 2022 Post About the Uvalde Shooter
+**C-1410** Host Says Hammer's First Tweet About Public Execution Was in 2022 About the Uvalde Shooter
 
 Claim Timestamp: 00:14:29
 
-Claim: Prior to September 9, 2025, Josh Hammer's only documented reference to public execution came in a 2022 post discussing the Uvalde shooter (also referencing the Buffalo shooter).
+Claim: The host says the first time Josh Hammer tweeted about a public execution was in 2022, about the Uvalde shooter (just as with the Buffalo shooter), and that it is not something he regularly tweets about or discusses.
 
 Anchored Artifacts: A-1239.2
 Mentions: N-55
@@ -1047,7 +1047,7 @@ Investigative Direction: Query X archive for "public execution" within Hammer's 
 
 Claim Timestamp: 00:20:50
 
-Claim: Josh Hammer's first X post following the announcement of Charlie Kirk's death included a claim that Charlie had told him during their last call that he would plug Hammer's book on his campus tour.
+Claim: The host reads what she says was Josh Hammer's first tweet after news broke of Charlie Kirk's death, in which Hammer writes that they spoke less than 24 hours earlier and that Charlie 'joked how he was going to plug my book on this very tour.'
 
 Anchored Artifacts: A-1241.1
 Mentions: N-55, N-1
@@ -1064,7 +1064,7 @@ Claim Timestamp: 00:22:12
 Claim: On JTV (in interview with host Ali), Josh Hammer stated that Charlie Kirk's last words to him referenced his intent to plug Hammer's book "Israel and Civilization" in response to Israel-related questions on the campus tour.
 
 Anchored Artifacts: A-1242.1
-Mentions: N-55, N-174, N-1
+Mentions: N-55, N-173, N-1
 Related Nodes: N-10177, N-10178
 
 Investigative Direction: Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation.
@@ -1078,7 +1078,7 @@ Claim Timestamp: 00:29:05
 Claim: In his post-assassination interview, Rabbi Pesach Wolicki stated that Charlie Kirk "certainly had some disagreements with Israeli policy and he criticized Israel where he felt appropriate" and that there were "people around him in the America First movement who were actively working on him to try to get him to turn on Israel."
 
 Anchored Artifacts: A-1243.1
-Mentions: N-167, N-1
+Mentions: N-166, N-1
 Related Nodes: N-10178
 
 Investigative Direction: Verify full Wolicki interview; obtain unedited transcript.
@@ -1092,7 +1092,7 @@ Claim Timestamp: 00:30:17
 Claim: Wolicki stated the pre-assassination meeting was called by Charlie, was on the schedule for weeks, and was for the purpose of preparing Israel-related talking points for Charlie's new campus tour starting in Utah.
 
 Anchored Artifacts: A-1243.1
-Mentions: N-167
+Mentions: N-166, N-1
 Related Nodes: N-10178
 
 Investigative Direction: Verify full Wolicki interview; cross-check with documented calendar entries and Zoom records.
@@ -1103,10 +1103,10 @@ Investigative Direction: Verify full Wolicki interview; cross-check with documen
 
 Claim Timestamp: 00:47:42
 
-Claim: On the morning of October 8, 2025, Dinesh D'Souza posted on X comparing Candace Owens to a "freak show" and a farmer having sex with a sheep, with the stated intent of discouraging viewership.
+Claim: The host says Dinesh D'Souza sent out a tweet that morning to convince people they should not watch her, reading it as: 'I can't comment on Candace because it's quite obviously a freak show. It's like driving on the highway and seeing a farmer having sex with a sheep.'
 
 Anchored Artifacts: A-1245.1, A-1245.2
-Mentions: N-171, N-172, N-3
+Mentions: N-170, N-3
 
 Investigative Direction: Verify post timestamp and any subsequent deletion; verify Yishai reply and any subsequent post changes.
 
@@ -1114,12 +1114,12 @@ Investigative Direction: Verify post timestamp and any subsequent deletion; veri
 
 **C-1416** Alex Jones Confirmed Candace Activated a "Kill Switch" Distributed to Multiple Named Recipients
 
-Claim Timestamp: 00:53:36
+Claim Timestamp: 00:54:31
 
-Claim: Alex Jones, on his show, confirmed that Candace Owens sent a "dead man's switch" / "kill switch" data package to multiple recipients including Max Blumenthal, Tucker Carlson, the Tate brothers, and Dave Smith.
+Claim: In a clip the host plays, Alex Jones says Candace Owens sent out a 'dead man switch' to the Tate brothers, Dave Smith, Max Blumenthal, Tucker Carlson and others.
 
 Anchored Artifacts: A-1246.1
-Mentions: N-39, N-93, N-170, N-173, N-22, N-49, N-3
+Mentions: N-93, N-3, N-49, N-22, N-172, N-39
 Related Nodes: N-10176
 
 Investigative Direction: Verify the recipients directly with named individuals; verify the contents of the package.
@@ -1130,10 +1130,10 @@ Investigative Direction: Verify the recipients directly with named individuals; 
 
 Claim Timestamp: 00:54:36
 
-Claim: Alex Jones cited James O'Keefe's dead-man-switch disclosure in the Prince Andrew case as a comparable precedent for the danger and effectiveness of Candace's kill switch.
+Claim: In a clip the host plays, Alex Jones says Candace Owens sent out a dead man switch just like James O'Keefe did to him and a few others right before releasing the Prince Andrew material, which Jones calls dangerous.
 
 Anchored Artifacts: A-1246.1
-Mentions: N-93, N-170
+Mentions: N-93, N-169, N-3
 Related Nodes: N-10176
 
 Investigative Direction: Verify O'Keefe's actual mechanism; obtain O'Keefe's primary disclosure.
@@ -1142,12 +1142,12 @@ Investigative Direction: Verify O'Keefe's actual mechanism; obtain O'Keefe's pri
 
 **C-1418** A Letter Read Aloud on Air Asserted Critics Were "Lying Through Their Teeth"
 
-Claim Timestamp: 00:03:10
+Claim Timestamp: 00:02:50
 
-Claim: A letter to which host was given access asserted that "Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel."
+Claim: In a Josh Hammer post the host reads aloud, Hammer says he was given access to a letter a few months earlier and that 'Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel.'
 
 Anchored Artifacts: A-1249.1
-Mentions: N-1
+Mentions: N-55, N-22, N-3, N-1
 
 Investigative Direction: Identify the letter and author; verify authenticity.
 
@@ -1170,7 +1170,7 @@ Investigative Direction: Verify via web archives / Wayback Machine or third-part
 
 Claim Timestamp: 00:11:02
 
-Claim: On September 9, 2025, Josh Hammer posted nine X items covering Phillies story, Iryna media link, anti-Tucker, pro-Israel/anti-Qatar, anti-Saudi, second anti-Tucker, Hebrew Bible / Western civilization, Supreme Court media appearance, and concluded with the 9:09 p.m. ET public-execution retweet.
+Claim: The host says Josh Hammer tweeted nine times on September 9, 2025: a Phillies story, a link to his Iryna media appearance, two tweets against Tucker Carlson, a pro-Israel tweet throwing shade at Trump and Qatar, one against Saudi Arabia, the Hebrew Bible and Western civilization, a Supreme Court media appearance, and finally at 9:09 p.m. ET the public-execution retweet.
 
 Anchored Artifacts: A-1240.1
 Mentions: N-55
@@ -1182,9 +1182,9 @@ Investigative Direction: Verify each timestamp and content against X archive.
 
 **C-1421** Tyler Bowyer Has Made Accusatory X Posts Against Candace Owens's Coverage
 
-Claim Timestamp: 00:07:54
+Claim Timestamp: 01:07:43
 
-Claim: Tyler Bowyer posted accusatory content on X, calling people names rather than addressing substantive questions.
+Claim: The host says what Tyler Bowyer did on X was very sloppy: he was accusatory and called people names.
 
 Anchored Artifacts: None (host narrative reference; not anchored in this episode)
 Mentions: N-11, N-3
@@ -1210,7 +1210,7 @@ Investigative Direction: Submit evidence requests to UVU, Turning Point USA, and
 
 ---
 
-**C-1423** UVU Had a Specific Suspect Profile Sought by Host – Older Males with Long Hair Tied in Ponytail or Bun
+**C-1423** Host Requests UVU Footage of Older Men With Long Hair in a Ponytail or Bun
 
 Claim Timestamp: 00:42:00
 
@@ -1227,9 +1227,9 @@ Investigative Direction: Tip-line intake processing and review of footage submit
 
 **C-1424** Host referenced Laura Loomer in closing segment
 
-Claim Timestamp: 00:58:00–00:59:00
+Claim Timestamp: 01:14:58
 
-Claim: Host references Laura Loomer in closing remarks (parody/cartoon antagonist framing).
+Claim: The host says, while plugging merchandise, 'Join us in prison when Laura Loomer sends us for writing CIA in parody.'
 
 Anchored Artifacts: A-1245.1
 Mentions: N-3, N-60
@@ -1242,10 +1242,10 @@ Investigative Direction: Locate exact closing-segment timestamp and any on-scree
 **C-3644** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
 
 Claim Timestamp: 01:14:50
-Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Claim: The host plugs her merchandise and says people can join her in prison when Laura Loomer sends them for writing CIA in parody, because they do not want to be in the CIA; she asks someone to get her the green CIA hat people are tagging her in.
 Transcript Snippet: ..., if you know someone, somebody get me that green CIA hat cuz it's actually people are tagging me in it, and I don't have it, and it's really nice. Uh other...
 Anchored Artifacts: A-2488.1
-Mentions: N-3
+Mentions: N-3, N-60
 Related Nodes: 
 Confidence: medium
 Investigative Direction: Confirm on-screen merch graphic if available; reuse M-14 when exact Candace Intelligence Agency phrase airs.
@@ -1375,7 +1375,7 @@ Claim: The host alleges that Yashar Ali is literally paid to do PR for Zionists 
 Transcript Snippet: quite literally paid to do PR for Zionists. I know this personally.
 
 Anchored Artifacts: A-1237.1
-Mentions: N-164, N-3
+Mentions: N-163, N-3
 Tags: relevance:context
 Investigative Direction: Ask the host for the basis of the claim and check Ali's disclosed clients and any public contracts or filings.
 
@@ -1390,7 +1390,7 @@ Claim: The host says another X user asserted that the footage of Iryna Zhuravska
 Transcript Snippet: another user then jumped on that and tried to establish a non-fact that the footage of Iryna's murder was released on that day, on the 9th, and that's why Josh tweeted that.
 
 Anchored Artifacts: 
-Mentions: N-165, N-55
+Mentions: N-164, N-55
 Related Nodes: N-10179, N-10174
 Supports: C-1406
 Tags: relevance:context
@@ -1407,7 +1407,7 @@ Claim: Reading Yashar Ali's post aloud, the host says Ali wrote that she quote t
 Transcript Snippet: Candace Owens quote tweeted notorious neo-Nazi Sam Parker, who pointed out that Josh Hammer, who is Jewish and was a friend of Charlie Kirk's, elevated
 
 Anchored Artifacts: A-1237.1
-Mentions: N-164, N-185, N-3, N-55
+Mentions: N-163, N-183, N-3, N-55
 Related Nodes: N-10174
 Tags: relevance:context
 Investigative Direction: Retrieve the host's quote tweet, the Sam Parker post it quoted and Ali's reply to confirm order and wording.
@@ -1423,7 +1423,7 @@ Claim: The host says she could find no point at which Josh Hammer, on the news, 
 Transcript Snippet: Josh, at no point that I could determine, whether he was on the news, whether he was on his own show, or anywhere else, did he speak about the death
 
 Anchored Artifacts: 
-Mentions: N-55, N-165, N-3
+Mentions: N-55, N-164, N-3
 Related Nodes: N-10174, N-10179
 Supports: C-1408
 Tags: relevance:core
@@ -1440,7 +1440,7 @@ Claim: The host says Hammer himself sent multiple tweets about the Iryna Zhuravs
 Transcript Snippet: Josh himself sent multiple tweets regarding the homicide, as everyone did, because, like I said, it was trending. Um
 
 Anchored Artifacts: 
-Mentions: N-55, N-165
+Mentions: N-55, N-164
 Related Nodes: N-10179, N-10174
 Tags: relevance:context
 Investigative Direction: Pull Hammer's posts from September 5 to 9 about the Zhuravska case and check whether any mention punishment.
@@ -1473,7 +1473,7 @@ Claim: The host says Matt Walsh went on his show and further explained his post,
 Transcript Snippet: So, Matt Walsh then went on his show and further explained that already contextualized tweet, and he explained how men have a visceral response when you see somebody uh being victimized, a woman being victimized in
 
 Anchored Artifacts: A-1238.1
-Mentions: N-166, N-165
+Mentions: N-165, N-164
 Related Nodes: N-10174
 Supports: C-1409
 Tags: relevance:context
@@ -1523,7 +1523,7 @@ Claim: The host says Hammer proudly promoted that he and Rabbi Wolicki had a Zoo
 Transcript Snippet: He bragged that he and Rabbi Wolicki had a Zoom call with Charlie. Why? Because they said Charlie wanted to help him with his talking points about Israel. [19:56] Now,
 
 Anchored Artifacts: A-1242.1
-Mentions: N-55, N-167, N-1
+Mentions: N-55, N-166, N-1
 Related Nodes: N-10169
 Supports: C-1397
 Tags: relevance:core
@@ -1540,7 +1540,7 @@ Claim: On the JTV interview played on air, Hammer says the last call with Charli
 Transcript Snippet: We had a Zoom call, a friend of mine, him, a couple of his producers. It was it was a small call. We were literally talking above all about the anti-Israel questions
 
 Anchored Artifacts: A-1242.1
-Mentions: N-55, N-1, N-174
+Mentions: N-55, N-1, N-173
 Related Nodes: N-10169
 Tags: relevance:core
 Investigative Direction: Identify the producers and the friend on the call and ask each to confirm the participants and the agenda.
@@ -1551,12 +1551,12 @@ Investigative Direction: Identify the producers and the friend on the call and a
 
 Claim Timestamp: 00:22:58
 
-Claim: On the JTV audio, Hammer says Ian Carroll and the host have chosen to hijack Charlie Kirk's death to blame it on Israel. The interviewer, Ali, had named Carroll first.
+Claim: In a JTV clip the host plays, Hammer says that, as the interviewer Ali mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'
 
 Transcript Snippet: she's chosen to hijack his death right now to blame it on Israel. I mean, it's just so disturbing. But then you have the people
 
 Anchored Artifacts: A-1242.1
-Mentions: N-55, N-3, N-131, N-174
+Mentions: N-55, N-3, N-130, N-173
 Related Nodes: N-10056
 Tags: relevance:context
 Investigative Direction: Review the full JTV episode for Hammer's exact wording and date.
@@ -1572,7 +1572,7 @@ Claim: On the JTV audio, Hammer says that a lot of commentators, in a discussion
 Transcript Snippet: I think a lot of folks are kind of just trying to take their commentary to where they see the perceived momentum, especially among the younger generation there. But so, I think a lot of it is trying to kind
 
 Anchored Artifacts: A-1242.1
-Mentions: N-55, N-46, N-102, N-174
+Mentions: N-55, N-46, N-101
 Tags: relevance:context
 Investigative Direction: Review the full JTV episode for the exact wording.
 
@@ -1617,7 +1617,7 @@ Claim: On the JTV audio, Hammer says that if Charlie had been going the directio
 Transcript Snippet: would he have had on me and our friend Rabbi Pesach Wolicki literally the night before his death to spend an entire hour talking about how to respond to anti-Israel
 
 Anchored Artifacts: A-1242.1
-Mentions: N-55, N-167, N-1, N-3
+Mentions: N-55, N-166, N-1, N-3
 Related Nodes: N-10169
 Supports: C-1397
 Tags: relevance:core
@@ -1634,7 +1634,7 @@ Claim: The host says Rabbi Wolicki was also on the text chain, so both he and Ha
 Transcript Snippet: that rabbi, Rabbi Wolicki, was also on the now infamous text chain. So, this means that both of those individuals knew exactly where Charlie was at on the topic of Israel and how he felt
 
 Anchored Artifacts: 
-Mentions: N-167, N-55, N-1, N-3
+Mentions: N-166, N-55, N-1, N-3
 Related Nodes: N-10163, N-10206, N-10178
 Supports: C-6473, C-1377
 Tags: relevance:core
@@ -1684,7 +1684,7 @@ Claim: In the interview audio, Rabbi Pesach Wolicki says he was in touch with Ch
 Transcript Snippet: I was in touch with Charlie on an almost daily basis for months. And he certainly had uh some disagreements with Israeli policy and he criticized Israel where
 
 Anchored Artifacts: A-1243.1
-Mentions: N-167, N-1
+Mentions: N-166, N-1
 Related Nodes: N-10169
 Tags: relevance:core
 Investigative Direction: Ask Wolicki for the form and volume of that contact (calls, messages) and corroborate with Kirk-side records.
@@ -1700,7 +1700,7 @@ Claim: In the interview audio, Wolicki says between 40 and 50 percent of the que
 Transcript Snippet: between 40 and 50% of all of the questions and and challenges that he would get on these campus tours were usually about Israel. Cuz the campuses, of course, have a lot of anti-Israel sentiment, and Charlie was known as
 
 Anchored Artifacts: A-1243.1
-Mentions: N-167, N-1
+Mentions: N-166, N-1
 Tags: relevance:context
 Investigative Direction: Compare against Q&A transcripts from earlier Kirk campus events to estimate the share of Israel questions.
 
@@ -1715,7 +1715,7 @@ Claim: In the interview audio, Wolicki argues that if Charlie Kirk were turning 
 Transcript Snippet: If he was turning on Israel, he would have had Candace Owens and Tucker Carlson in the meeting planning to throw Israel under the bus. The entire premise of the
 
 Anchored Artifacts: A-1243.1
-Mentions: N-167, N-3, N-22, N-1
+Mentions: N-166, N-3, N-22, N-1
 Related Nodes: N-10056
 Supports: C-1414
 Tags: relevance:core
@@ -1799,7 +1799,7 @@ Claim: The host says Charlie then held the smaller call with two Jewish individu
 Transcript Snippet: he decided to have that smaller audience with two Jewish individuals who were on that chat and were aware that he was angry, but this
 
 Anchored Artifacts: 
-Mentions: N-1, N-55, N-167, N-3
+Mentions: N-1, N-55, N-166, N-3
 Related Nodes: N-10163, N-10169
 Supports: C-1377, C-6473
 Tags: relevance:core
@@ -1865,7 +1865,7 @@ Claim: The host says that she, Tucker Carlson and others never said Israel kille
 Transcript Snippet: we never once said that Israel killed Charlie Kirk. I've never said that because on the basis of the facts that you guys are following on the show, I don't have any evidence of that. It doesn't serve
 
 Anchored Artifacts: 
-Mentions: N-3, N-22, N-46, N-1
+Mentions: N-3, N-22, N-1
 Related Nodes: N-10056
 Tags: relevance:core
 Investigative Direction: Review the host's and Carlson's past episodes for any statements asserting Israeli involvement.
@@ -1946,7 +1946,7 @@ Claim: The host says her investigation is being assisted by Turning Point USA pe
 Transcript Snippet: This investigation is being assisted by Turning Point USA. Not the execs, but Turning Point people on the ground, people that they don't even think about, smaller employees. Like, they
 
 Anchored Artifacts: 
-Mentions: N-3, N-1
+Mentions: N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Ask whether any staff will go on record and document what information has been provided.
@@ -1962,7 +1962,7 @@ Claim: The host says Dinesh D'Souza responded that he meant his tweet as a joke,
 Transcript Snippet: And he's like, "Well, I meant that as a joke." You didn't mean it as a joke. You meant it seriously and it was weird. It got weird very quickly. And we learned more about you than we learned about
 
 Anchored Artifacts: A-1245.1
-Mentions: N-171, N-3
+Mentions: N-170, N-3
 Supports: C-1415
 Tags: relevance:tangential
 Investigative Direction: Find D'Souza's follow-up post and check wording and time.
@@ -1973,12 +1973,12 @@ Investigative Direction: Find D'Souza's follow-up post and check wording and tim
 
 Claim Timestamp: 00:48:42
 
-Claim: The host says she wants D'Souza's opinion of her, not what is on his laptop and how they "maybe blackmailed" him. She offers no evidence in the transcript, and the claim is her insinuation.
+Claim: The host says to Dinesh D'Souza that the interest is in his opinion of her, not in what is on his laptop and how they "maybe blackmailed" him.
 
 Transcript Snippet: you want to know your opinion on me, not what's on your laptop and how they maybe blackmailed you, okay? That's not what we're interested
 
 Anchored Artifacts: 
-Mentions: N-171, N-3
+Mentions: N-170, N-3
 Tags: relevance:tangential
 Investigative Direction: Ask the host for any basis for the insinuation; none is presented on air.
 
@@ -2036,7 +2036,7 @@ Investigative Direction: Ask Carlson to confirm the call and what was said.
 
 Claim Timestamp: 00:50:36
 
-Claim: The host says she asked the callers whether the feds said this and who specifically said it, and wondered why the feds were not calling her and Tucker directly.
+Claim: The host says she remembers saying, "Did the feds say this? Who said this specifically?", and wondered why the feds were not calling her and Tucker directly.
 
 Transcript Snippet: Did the feds say this? Who said this specifically? Because why aren't they calling me and Tucker? Why are Why am I calling Tucker and
 
@@ -2305,16 +2305,16 @@ Investigative Direction: Obtain the security plan, contracts and event site swee
 
 ---
 
-**C-9389** Host Says John and Arena Mappin Wrote a Letter the Day Before
+**C-9389** Host Says John and Irina Mappin Wrote a Letter the Day Before
 
 Claim Timestamp: 01:07:16
 
-Claim: The host says John and Arena Mappin (transcribed Mapel) wrote a letter the day before the episode saying that continuing Charlie's legacy means continuing to fight for truth. The letter is not shown.
+Claim: The host says John and Irina Mappin wrote a letter the day before the episode saying that continuing Charlie's legacy means continuing to fight for truth. The letter is not shown.
 
-Transcript Snippet: I think John and Arena Mapel in that beautiful letter they wrote yesterday said it way more eloquently than I ever could. Which is if you if you actually continue
+Transcript Snippet: I think John and Irina Mappin in that beautiful letter they wrote yesterday said it way more eloquently than I ever could. Which is if you if you actually continue
 
 Anchored Artifacts: A-3004.1
-Mentions: N-157, N-158, N-1, N-3
+Mentions: N-156, N-157, N-1, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Locate the Mappins' published letter and compare it with the letter described in earlier episodes.
@@ -2441,7 +2441,7 @@ Claim: The host says Konstantin Kisin told Megyn Kelly she needed to make a stat
 Transcript Snippet: Konstantin Kisin, when he was like, "You need to make a statement against Candace and Tucker." Um somebody else was saying to her, "Candace doesn't
 
 Anchored Artifacts: 
-Mentions: N-141, N-46, N-3, N-22
+Mentions: N-140, N-46, N-3, N-22
 Tags: relevance:context
 Investigative Direction: Find Kissin's public statements and any reporting of his exchange with Kelly.
 
@@ -2467,15 +2467,15 @@ Investigative Direction: Compare against the actual publication schedule after O
 Cross-references are embedded in each artifact, claim, and node entry above. Network summary:
 
 - **Central investigative thread:** A-1236.1 → C-1404 → N-14 → N-10174
-- **Failed contextualization chain:** A-1236.1 ↔ A-1237.1 → C-1405 → N-164 → N-165 → N-10179 (contradiction: Ali date vs. C-1406 Sept 5 anchor)
-- **Comparative anchor:** A-1238.1 ↔ C-1409 ↔ N-166
+- **Failed contextualization chain:** A-1236.1 ↔ A-1237.1 → C-1405 → N-163 → N-164 → N-10179 (contradiction: Ali date vs. C-1406 Sept 5 anchor)
+- **Comparative anchor:** A-1238.1 ↔ C-1409 ↔ N-165
 - **Historical precedent:** A-1239.2 ↔ C-1410 ↔ N-14 ↔ N-10174
 - **Self-incriminating post:** A-1239.1 ↔ C-1419 ↔ N-14
-- **Last-call narrative cluster:** A-1241.1 ↔ A-1242.1 ↔ A-1243.1 → C-1411, C-1412, C-1413, C-1414 ↔ N-14 ↔ N-167 ↔ N-1 ↔ N-10177 ↔ N-10178 (note: artifact-backed contradiction between JTV narrative and Wolicki narrative on Charlie's direction of travel; both audio-anchored)
+- **Last-call narrative cluster:** A-1241.1 ↔ A-1242.1 ↔ A-1243.1 → C-1411, C-1412, C-1413, C-1414 ↔ N-14 ↔ N-166 ↔ N-1 ↔ N-10177 ↔ N-10178 (note: artifact-backed contradiction between JTV narrative and Wolicki narrative on Charlie's direction of travel; both audio-anchored)
 - **Memorial analogy:** A-1244.1 ↔ C-1407
-- **External attack:** A-1245.1, A-1245.2 ↔ C-1415 ↔ N-171, N-172
-- **Kill switch confirmation:** A-1246.1 ↔ C-1416 ↔ C-1417 ↔ N-93 ↔ N-170 ↔ N-39 ↔ N-173 ↔ N-10176
-- **Comic relief artifact (non-evidentiary):** A-1247.1 ↔ C-1417 ↔ N-169
+- **External attack:** A-1245.1, A-1245.2 ↔ C-1415 ↔ N-170, N-171
+- **Kill switch confirmation:** A-1246.1 ↔ C-1416 ↔ C-1417 ↔ N-93 ↔ N-169 ↔ N-39 ↔ N-172 ↔ N-10176
+- **Comic relief artifact (non-evidentiary):** A-1247.1 ↔ C-1417 ↔ N-168
 - **UVU APB cluster (un-anchored):** N-10175 ↔ C-1422 ↔ C-1423
 - **Un-anchored Charlie-text-cluster:** N-10177 (artifact verbally referenced but not shown)
 
@@ -2618,11 +2618,11 @@ Confidence: high
 
 ## VIII. Optional Flags
 
-- **Name uncertainty (Gianmarco Soresi / John Marco Siracusa):** Transcript caption and host referent disagree on spelling. Preserved both, attached to A-1247.1 and N-169.
+- **Name uncertainty (Gianmarco Soresi / John Marco Siracusa):** Transcript caption and host referent disagree on spelling. Preserved both, attached to A-1247.1 and N-168.
 - **Name uncertainty (Yishai):** A-1245.2 attributed to "Yishai" only; full handle not captured.
-- **Name uncertainty (Ali):** JTV host in A-1242.1 referred to only by first name "Ali." N-174 created with that exact spelling.
+- **Name uncertainty (Ali):** JTV host in A-1242.1 referred to only by first name "Ali." N-173 created with that exact spelling.
 - **Name uncertainty (Sam Parker):** Referenced by Yashar Ali (A-1237.1) as "notorious neo-Nazi Sam Parker." Not anchored independently in this episode.
-- **Artifact verbally referenced but not shown:** Letter excerpt (A-1249.1) – author and document not identified; Charlie's "they are going to kill me" texts and Israel-speech-infringement texts (referenced by host – see N-10177, C-1411 through C-1414 adjacency); the John and Arena Mapel letter (referenced in comments but not displayed).
+- **Artifact verbally referenced but not shown:** Letter excerpt (A-1249.1) – author and document not identified; Charlie's "they are going to kill me" texts and Israel-speech-infringement texts (referenced by host – see N-10177, C-1411 through C-1414 adjacency); the John and Irina Mappin letter (referenced in comments but not displayed).
 - **Claim failed admission test:** C-1421 (Tyler Bowyer), C-1422 (UVU footage black hole), C-1423 (UVU suspect profile bulletin) – no artifact anchors in this episode. Bulleted as targets/investigative requests rather than artifact-backed claims.
 - **Transcript ambiguity (Trump quote wording):** Host reads "Should be public execution for all to see. You will end this bull fast." – word "bull" preserved as is; may be a transcription artifact of a stronger word.
 - **Timestamp uncertainty:** The JTV segment (A-1242.1) is described as "a few days after Charlie's death" but not dated explicitly; the Gabriel media appearance (A-1250.1) is undated; the Wolicki interview (A-1243.1) is undated. Best-effort anchor dates preserved only as "post-Sept-10."

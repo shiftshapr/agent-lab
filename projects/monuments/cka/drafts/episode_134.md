@@ -12,7 +12,7 @@
 
 - **Episode Ledger Summary**:
   - Claim Range (supplement_2026-10b): C-7400–C-7473
-  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-190, N-221, N-372, N-512, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764, N-11143
+  - Reused Nodes Appearing: N-10759, N-10762, N-7, N-40, N-188, N-219, N-370, N-510, N-10104, N-10110, N-10164, N-10172, N-10201, N-10233, N-10323, N-10341, N-10343, N-10350, N-10687, N-10715, N-10719, N-10725, N-10751, N-10768, N-10769, N-11065, N-10764, N-11143
  - (see registers)
 
 ## I. Meta-Data
@@ -412,7 +412,7 @@ TPUSA spokesperson; the host discusses his Alex Clark interview, his courtroom-c
 
 ---
 
-**N-162** Blake Neff
+**N-161** Blake Neff
 
 TPUSA figure whose post about the rooftop footage and evidence the host rebuts.
 
@@ -428,7 +428,7 @@ Broadcaster whose tweet about the Lozi footage prompted replies from Neff and Ti
 
 ---
 
-**N-271** Tim Pool
+**N-269** Tim Pool
 
 Commentator who tweeted that the Lozi footage counters the exploding mic claims.
 
@@ -452,7 +452,7 @@ Apologist the host says reported that Charlie had no pulse in the critical minut
 
 ---
 
-**N-221** Eliza McCoy
+**N-219** Eliza McCoy
 
 Elizabeth McCoy; the host says she allegedly recorded Erika at the open casket in Utah.
 
@@ -460,7 +460,7 @@ Elizabeth McCoy; the host says she allegedly recorded Erika at the open casket i
 
 ---
 
-**N-190** Stacy Sheridan
+**N-188** Stacy Sheridan
 
 Previously named by the host as the person who recorded the casket footage; the host now says it was allegedly Elizabeth McCoy.
 
@@ -468,7 +468,7 @@ Previously named by the host as the person who recorded the casket footage; the 
 
 ---
 
-**N-372** Danny Philip
+**N-370** Danny Philip
 
 Person the host says Blake Neff excludes from his account of Sept 10 driving.
 
@@ -476,7 +476,7 @@ Person the host says Blake Neff excludes from his account of Sept 10 driving.
 
 ---
 
-**N-512** Christopher Bagley
+**N-510** Christopher Bagley
 
 Officer Bagley; the host sarcastically references his body-cam footage and the screwdriver.
 
@@ -684,7 +684,7 @@ Claim Timestamp: 00:09:40
 Claim: Blake Neff posted that there exists another rooftop video from a different angle that captures the moment the rifle is pulled from the shooter's pants, noting this moment is not visible in the Lozi rooftop video.
 
 Anchored Artifacts: A-2212.1
-Mentions: N-162
+Mentions: N-161
 
 Related Nodes: N-10762
 
@@ -777,7 +777,7 @@ Claim Timestamp: 00:06:39
 Claim: Tim Pool tweeted in response to Alex Jones that the Lozi rooftop footage "serves as a counter to the exploding Mike claims."
 
 Anchored Artifacts: A-2211.1
-Mentions: N-93, N-271
+Mentions: N-93, N-269
 
 Related Nodes:
 
@@ -950,7 +950,7 @@ Claim: The host says her video shows the person on the Lozi roof was a decoy who
 Transcript Snippet: Effectively, we were saying this person was a decoy and never fired a shot.
 
 Anchored Artifacts: A-2211.1
-Mentions: N-3, N-271, N-93
+Mentions: N-3, N-269, N-93
 Related Nodes: N-10172, N-10769
 Tags: relevance:core
 Investigative Direction: Compare the rooftop footage frame by frame with the position, angle and timing of the fatal shot.
@@ -998,7 +998,7 @@ Claim: The host reads Blake Neff's post saying it is the defense that demanded t
 Transcript Snippet: it is the defense that demanded that it be kept from the public on the grounds that it would prejudice Tyler.
 
 Anchored Artifacts: A-2212.1
-Mentions: N-162, N-93, N-40
+Mentions: N-161, N-93, N-40
 Related Nodes: N-10769
 Tags: relevance:core
 Investigative Direction: Check the docket for the defense motion seeking to limit public release of the rooftop exhibit.
@@ -1014,7 +1014,7 @@ Claim: The host says she has never heard anyone claim before that another video 
 Transcript Snippet: I've never heard anybody make the claim that there's another angle of a video where we can see him pull the rifle out of his pants.
 
 Anchored Artifacts: A-2212.1
-Mentions: N-162, N-3
+Mentions: N-161, N-3
 Related Nodes: N-10762
 Qualifies: C-3164
 Tags: relevance:core
@@ -1031,7 +1031,7 @@ Claim: The host reads Neff's post saying the individual on the roof does not loo
 Transcript Snippet: The individual does not look like Tyler Robinson because they literally don't look like anyone at that distance.
 
 Anchored Artifacts: A-2212.1
-Mentions: N-162, N-40
+Mentions: N-161, N-40
 Related Nodes: N-10769
 Tags: relevance:core
 Investigative Direction: Measure resolvable detail in the rooftop clip at the camera-to-subject distance.
@@ -1047,7 +1047,7 @@ Claim: The host reads Neff's post saying other campus footage supports Tyler bei
 Transcript Snippet: We have close-up footage of the person who looks enough like Tyler that his own parents identified him as such.
 
 Anchored Artifacts: A-2212.1
-Mentions: N-162, N-40
+Mentions: N-161, N-40
 Related Nodes: N-10110
 Tags: relevance:core
 Investigative Direction: Obtain the campus footage exhibits and any statement from Tyler Robinson's parents about identification.
@@ -1063,7 +1063,7 @@ Claim: The host says there is zero proof that Tyler Robinson's parents identifie
 Transcript Snippet: There's zero proof his parents said that.
 
 Anchored Artifacts: 
-Mentions: N-3, N-162, N-40
+Mentions: N-3, N-161, N-40
 Related Nodes: N-10110
 Contradicts: C-7412
 Tags: relevance:core
@@ -1080,7 +1080,7 @@ Claim: The host says that the campus footage Neff cites as matching Tyler's car 
 Transcript Snippet: the footage that also captured a match of Tyler's car arriving on campus, those plates were blurry. The car was blurry.
 
 Anchored Artifacts: A-2212.1
-Mentions: N-3, N-162, N-40
+Mentions: N-3, N-161, N-40
 Related Nodes: N-10343
 Tags: relevance:core
 Investigative Direction: Review the car-arrival footage exhibit and any plate or vehicle-match analysis.
@@ -1096,7 +1096,7 @@ Claim: The host reads Neff's post saying a gun was fired from the rooftop spot b
 Transcript Snippet: we know a gun was fired from the spot because a bullet coming from that direction was what killed Charlie, as confirmed in the medical examiner's report.
 
 Anchored Artifacts: A-2212.1
-Mentions: N-162, N-1
+Mentions: N-161, N-1
 Related Nodes: N-10761
 Tags: relevance:core
 Investigative Direction: Compare the autopsy's wound trajectory description with the rooftop and Charlie's seat positions.
@@ -1112,7 +1112,7 @@ Claim: The host reads Neff's post saying recoil from a prone firing position can
 Transcript Snippet: Recoil from a prone firing position can easily be minimal
 
 Anchored Artifacts: A-2212.1
-Mentions: N-162
+Mentions: N-161
 Related Nodes: N-10769
 Tags: relevance:core
 Investigative Direction: Consult a firearms expert on visible recoil of a rifle fired prone from a rooftop.
@@ -1177,7 +1177,7 @@ Claim: The host says she has been told it was allegedly Elizabeth McCoy, not Sta
 Transcript Snippet: I've actually been told that it was allegedly Elizabeth McCoy that was recording Erika in Charlie's open casket in Utah.
 
 Anchored Artifacts: 
-Mentions: N-221, N-190, N-2, N-1
+Mentions: N-219, N-188, N-2, N-1
 Related Nodes: N-10201
 Tags: relevance:core
 Investigative Direction: Ask Elizabeth McCoy or Erika's team who filmed the casket video, and check the metadata of the posted clip.
@@ -1209,7 +1209,7 @@ Claim: The host says that on September 12 Erika moved to post the footage Elizab
 Transcript Snippet: Erika moves to post the footage that Elizabeth actually captured the day before in Utah.
 
 Anchored Artifacts: A-2880.1
-Mentions: N-2, N-221
+Mentions: N-2, N-219
 Related Nodes: N-10201
 Supports: C-1899
 Tags: relevance:core
@@ -1629,7 +1629,7 @@ Claim: The host says there is no evidence of a screwdriver, referring to what Bl
 Transcript Snippet: With a screwdriver, what are you talking about? Where is that in the evidence? Doesn't exist.
 
 Anchored Artifacts: 
-Mentions: N-3, N-162
+Mentions: N-3, N-161
 Related Nodes: N-11143
 Tags: relevance:core
 Investigative Direction: Review the exhibit list and item logs for any screwdriver recovered from the roof.
@@ -1645,7 +1645,7 @@ Claim: Speaking sarcastically, the host suggests Officer Bagley's body-camera fo
 Transcript Snippet: Officer Bagley, oh just it just it went off. I don't know. I don't know what happened to my body cam footage
 
 Anchored Artifacts: 
-Mentions: N-512, N-162
+Mentions: N-510, N-161
 Related Nodes: N-10725, N-11143
 Tags: relevance:core
 Investigative Direction: Obtain Bagley's body-cam records and activation logs for that day.
@@ -1888,7 +1888,7 @@ Claim: The host says Blake Neff shows convenient amnesia about events that day a
 Transcript Snippet: why Blake seems to have this convenient amnesia about certain events that day and why he continues to exclude Danny Philip from the equation.
 
 Anchored Artifacts: 
-Mentions: N-162, N-372, N-3
+Mentions: N-161, N-370, N-3
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Review Neff's accounts of Sept 10 against vehicle and driver records.
@@ -1980,7 +1980,7 @@ Claim: The host says Blake Neff has said to convict Tyler Robinson, and characte
 Transcript Snippet: When you see Blake Neff who is an evil man saying convict Tyler Robinson
 
 Anchored Artifacts: 
-Mentions: N-162, N-3, N-40
+Mentions: N-161, N-3, N-40
 Tags: relevance:core
 Investigative Direction: Locate Neff's original statements calling for conviction.
 
@@ -2181,7 +2181,7 @@ Confidence: high
 - **Undisplayed referenced text messages**: Host references text messages from "the people that would have knowledge of" the mock burial, but no text message image or quote is displayed in the episode.
 - **Unnamed source / Hunted tip**: The mock-burial allegation (N-10760) and downstream claims about casket-closed, family-asked-to-leave, no-burial-plot, and presumed cremation all trace to a single unnamed tipster; these fail the Artifact Anchor Test and are NOT inscribed as claims.
 - **Screwdriver reference**: Host paraphrases Skyhorse courtroom commentary about the defendant using a screwdriver (citing exhibits 12.1 and 12.4); no artifact displayed; not inscribed.
-- **Wave 1 reconciliation**: Andrew Kolvet is N-14, Blake Neff is N-162 and Tim Pool is N-271; the Lisa Knows account has no CKA person node. The topic ids N-10141.. never denoted these people.
+- **Wave 1 reconciliation**: Andrew Kolvet is N-14, Blake Neff is N-161 and Tim Pool is N-269; the Lisa Knows account has no CKA person node. The topic ids N-10141.. never denoted these people.
 - **Unnamed priest**: The priest said to have officiated the Catholic funeral mass, coordinated Erika's travel after the shooting, and traveled with her to the Ole Miss Turning Point event on Oct 29 is referenced but not named and not tied to any displayed artifact.
 - **Frank Turek**: Referenced by host as saying Charlie had no pulse; no artifact displayed.
 - **Danny Philip**: Referenced in passing by host re: Blake's "convenient amnesia"; no artifact displayed.

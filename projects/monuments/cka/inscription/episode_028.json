@@ -368,8 +368,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-238",
-      "ref": "N-238",
+      "@id": "N-236",
+      "ref": "N-236",
       "name": "Elle Reeve",
       "type": "person",
       "description": "CNN journalist who conducted the aired CNN interview of Candace Owens; introduced in this episode and relevant as the named questioner in the \"Zionist-occupied government\" exchange.",
@@ -388,8 +388,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-227",
-      "ref": "N-227",
+      "@id": "N-225",
+      "ref": "N-225",
       "name": "Zohran Mamdani",
       "type": "person",
       "description": "NYC Democratic mayoral primary winner referenced in Tucker Carlson and Ben Shapiro stage discussions; relevant as the named political figure in the Mamdani-coverage dispute between Shapiro and Carlson.",
@@ -408,8 +408,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-239",
-      "ref": "N-239",
+      "@id": "N-237",
+      "ref": "N-237",
       "name": "Ariana",
       "type": "person",
       "description": "Daily Wire intern identified by Candace Owens at YWLS 2024 as having been dispatched covertly to record Owens. Full surname not stated.",
@@ -614,8 +614,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-205",
-      "ref": "N-205",
+      "@id": "N-203",
+      "ref": "N-203",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.",
@@ -637,8 +637,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-718",
-      "ref": "N-718",
+      "@id": "N-716",
+      "ref": "N-716",
       "name": "Ron Paul",
       "type": "person",
       "description": "Libertarian former congressman; named in C-1649 (Shapiro imagery).",
@@ -771,8 +771,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-148",
-      "ref": "N-148",
+      "@id": "N-147",
+      "ref": "N-147",
       "name": "Marjorie Taylor Greene",
       "type": "person",
       "description": "Interlocutor in the played Carlson clip.",
@@ -790,8 +790,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-182",
-      "ref": "N-182",
+      "@id": "N-180",
+      "ref": "N-180",
       "name": "Jared Kushner",
       "type": "person",
       "description": "Named by the host in her remarks on the Trump family and Middle East deals.",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-224",
+      "ref": "N-224",
       "name": "Randy Fine",
       "type": "person",
       "description": "Congressman the host says Shapiro congratulated.",
@@ -824,8 +824,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-233",
-      "ref": "N-233",
+      "@id": "N-231",
+      "ref": "N-231",
       "name": "Alyssa Cordova",
       "type": "person",
       "description": "Named by the host as orchestrating the Daily Wire intern operation.",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-371",
-      "ref": "N-371",
+      "@id": "N-369",
+      "ref": "N-369",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Former Daily Wire CEO (transcript spelling Boring); the host cites his X Space with Fuentes.",
@@ -861,8 +861,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-380",
-      "ref": "N-380",
+      "@id": "N-378",
+      "ref": "N-378",
       "name": "Lara Trump",
       "type": "person",
       "description": "Spoke at the Auburn TPUSA event (transcript spelling Laura Trump).",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-667",
-      "ref": "N-667",
+      "@id": "N-665",
+      "ref": "N-665",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Named in the host's remarks on Kushner's deals.",
@@ -1149,8 +1149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-857",
-      "ref": "N-857",
+      "@id": "N-855",
+      "ref": "N-855",
       "name": "Lauren Chen",
       "type": "person",
       "description": "First named by the host at 00:12:33 in episode 28. Host of the X Space where Boring spoke with Fuentes.",
@@ -1219,7 +1219,7 @@
       "claim_timestamp": "00:09:56–00:10:33",
       "investigative_direction": "Obtain transcripts/recordings of the cited Carlson and Shapiro shows to verify the cited counts and whether Mamdani was mentioned substantively or in passing.",
       "mentions_person_refs": [
-        "N-227",
+        "N-225",
         "N-22",
         "N-46",
         "N-97"
@@ -1305,7 +1305,7 @@
       "claim_timestamp": "00:14:04",
       "investigative_direction": "Verify the original X Space audio against the HuffPost excerpts and check whether Boring's characterization of Fuentes was later retracted.",
       "mentions_person_refs": [
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -1323,7 +1323,7 @@
       "claim_timestamp": "00:14:04–00:15:45",
       "investigative_direction": "Confirm via the original X Space audio that this invitation was extended unconditionally and identify whether Daily Wire subsequently acted on the invitation.",
       "mentions_person_refs": [
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -1364,7 +1364,7 @@
       "claim_timestamp": "00:25:16–00:27:36",
       "investigative_direction": "Identify the full name of the intern, confirm her employment status with Daily Wire at the time, and obtain corroboration from contemporaneous attendees or recordings.",
       "mentions_person_refs": [
-        "N-239",
+        "N-237",
         "N-3"
       ]
     },
@@ -1382,7 +1382,7 @@
       "claim_timestamp": "00:33:44–00:35:14",
       "investigative_direction": "Pull the full CNN interview transcript to verify the exact phrasing and surrounding context.",
       "mentions_person_refs": [
-        "N-238",
+        "N-236",
         "N-3"
       ]
     },
@@ -1400,7 +1400,7 @@
       "claim_timestamp": "00:33:44–00:35:14",
       "investigative_direction": "Obtain the full CNN interview and any related Reeve reporting to verify the broader framing of the exchange.",
       "mentions_person_refs": [
-        "N-238"
+        "N-236"
       ]
     },
     {
@@ -1448,7 +1448,7 @@
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Locate the original tweet via X/Twitter search or web archives to verify the exact wording, the date, and whether the tweet was later deleted or amended.",
       "mentions_person_refs": [
-        "N-205",
+        "N-203",
         "N-97"
       ]
     },
@@ -1466,7 +1466,7 @@
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Locate the original tweets via web archives to verify wording, date, and any subsequent deletion or apology.",
       "mentions_person_refs": [
-        "N-718",
+        "N-716",
         "N-97"
       ]
     },
@@ -1504,7 +1504,7 @@
       "investigative_direction": "Confirm the interview date against CNN's published interview records or the original broadcast timestamp.",
       "mentions_person_refs": [
         "N-1",
-        "N-238",
+        "N-236",
         "N-3"
       ]
     },
@@ -1623,8 +1623,8 @@
       "mentions_person_refs": [
         "N-22",
         "N-97",
-        "N-148",
-        "N-227"
+        "N-147",
+        "N-225"
       ]
     },
     {
@@ -1645,8 +1645,8 @@
       "transcript_snippet": "And I just can't get over what happened in our biggest city this week, the very same week, that everybody in DC is focused thousands of miles away on the greatest threat we face",
       "mentions_person_refs": [
         "N-22",
-        "N-148",
-        "N-227"
+        "N-147",
+        "N-225"
       ]
     },
     {
@@ -1668,8 +1668,8 @@
       "investigative_direction": "Check the debate transcript for the foreign-country question and each candidate's answer.",
       "transcript_snippet": "They were all the candidates were asked, \"If you could visit a foreign country, what would it be?\" And they of course all had an answer. I think most said Israel.",
       "mentions_person_refs": [
-        "N-148",
-        "N-227",
+        "N-147",
+        "N-225",
         "N-22"
       ]
     },
@@ -1794,8 +1794,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-371",
-        "N-857"
+        "N-369",
+        "N-855"
       ]
     },
     {
@@ -1821,8 +1821,8 @@
         "C-1640"
       ],
       "mentions_person_refs": [
-        "N-371",
-        "N-205"
+        "N-369",
+        "N-203"
       ]
     },
     {
@@ -1842,9 +1842,9 @@
       "investigative_direction": "Obtain the full X Space recording and confirm the speaker and wording.",
       "transcript_snippet": "I don't like that guys like Shapiro cannot will not say Christ is king. America first. I think they forfeit their ability to lead.",
       "mentions_person_refs": [
-        "N-205",
+        "N-203",
         "N-97",
-        "N-371"
+        "N-369"
       ]
     },
     {
@@ -2005,7 +2005,7 @@
       "transcript_snippet": "He supports and congratulated Randy Fine who has literally tweeted laughing at photos of dead Palestinian babies.",
       "mentions_person_refs": [
         "N-97",
-        "N-226"
+        "N-224"
       ]
     },
     {
@@ -2044,8 +2044,8 @@
       "investigative_direction": "Review the Boring and Fuentes X Space and Fuentes's own account of his dismissal to see what Boring and Shapiro actually conceded.",
       "transcript_snippet": "He started asking questions about Israel and he got artificially pushed out of the market when he had his whole life ahead of him.",
       "mentions_person_refs": [
-        "N-205",
-        "N-371",
+        "N-203",
+        "N-369",
         "N-97"
       ]
     },
@@ -2067,7 +2067,7 @@
       "transcript_snippet": "Ben has never come out and denied anything that Nick Fuentes has said",
       "mentions_person_refs": [
         "N-97",
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -2085,7 +2085,7 @@
       "investigative_direction": "Check the ADL's published listings for Fuentes and the date he was added.",
       "transcript_snippet": "with the entire media writing things about him, being put on the ADL's list, he has proven to be quite resilient.",
       "mentions_person_refs": [
-        "N-205"
+        "N-203"
       ]
     },
     {
@@ -2186,7 +2186,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-239"
+        "N-237"
       ]
     },
     {
@@ -2233,7 +2233,7 @@
       "investigative_direction": "Ask Cordova or former Daily Wire staff about the intern assignment and confirm Cordova's departure date.",
       "transcript_snippet": "That was orchestrated by Alyssa Cordova now that she's not at the Daily Wire.",
       "mentions_person_refs": [
-        "N-233",
+        "N-231",
         "N-3"
       ]
     },
@@ -2328,7 +2328,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-238"
+        "N-236"
       ]
     },
     {
@@ -2350,7 +2350,7 @@
       "investigative_direction": "Check Reeve's and CNN's social accounts for who first posted the clip.",
       "transcript_snippet": "Anyways, she's the one passing around this clip because she thinks it totally embarrasses me and shows that I'm a white nationalist.",
       "mentions_person_refs": [
-        "N-238",
+        "N-236",
         "N-3"
       ]
     },
@@ -2373,7 +2373,7 @@
       "investigative_direction": "Review the full CNN interview for the exact exchange on 'they'.",
       "transcript_snippet": "Who is they? And it's like >> because it sounds like you're saying Jews.",
       "mentions_person_refs": [
-        "N-238",
+        "N-236",
         "N-3"
       ]
     },
@@ -2397,7 +2397,7 @@
       "transcript_snippet": "When I say Zionists run the media, I mean Zionists run the media. People that support the political ideology of Israel run the media.",
       "mentions_person_refs": [
         "N-3",
-        "N-238"
+        "N-236"
       ]
     },
     {
@@ -2418,7 +2418,7 @@
       "transcript_snippet": "During the summer against Iran, even though he advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel.",
       "mentions_person_refs": [
         "N-34",
-        "N-380"
+        "N-378"
       ]
     },
     {
@@ -2439,7 +2439,7 @@
       "transcript_snippet": "Your father's frustrations with the Netanyahu have been made clear when he cursed on national TV over the situation.",
       "mentions_person_refs": [
         "N-34",
-        "N-380",
+        "N-378",
         "N-36"
       ]
     },
@@ -2463,7 +2463,7 @@
       "transcript_snippet": "Israel has not been a great ally to the US all the way since 1960 when they bombed the USS Liberty.",
       "mentions_person_refs": [
         "N-34",
-        "N-380"
+        "N-378"
       ]
     },
     {
@@ -2484,7 +2484,7 @@
       "transcript_snippet": "There's no question my my father's had frustration. In fact, I think he says frustration throughout the whole conflict with with both sides.",
       "mentions_person_refs": [
         "N-34",
-        "N-380"
+        "N-378"
       ]
     },
     {
@@ -2504,7 +2504,7 @@
       "investigative_direction": "Verify the durations and outcomes of the cited conflicts and the speaker's identity in the full clip.",
       "transcript_snippet": "whether we're talking about a 40-year war like Armenia and Azeraijan, as Eric just pointed out, a five-day war in Thailand and Cambodia.",
       "mentions_person_refs": [
-        "N-380",
+        "N-378",
         "N-34"
       ]
     },
@@ -2526,9 +2526,9 @@
       "transcript_snippet": "they know about Jared uh and his deals with Ivanka and the Middle East and how much money they're set to make and you know Gaza being destroyed is actually beneficial uh to their bank accounts.",
       "mentions_person_refs": [
         "N-34",
-        "N-380",
-        "N-182",
-        "N-667"
+        "N-378",
+        "N-180",
+        "N-665"
       ]
     },
     {
@@ -2549,7 +2549,7 @@
       "transcript_snippet": "we get to get lectured and told that we're not even allowed to bring up Israel on college campuses or risk being like um arrested getting stricter on anti-semitism laws.",
       "mentions_person_refs": [
         "N-34",
-        "N-380"
+        "N-378"
       ]
     },
     {
@@ -2571,7 +2571,7 @@
       "mentions_person_refs": [
         "N-36",
         "N-34",
-        "N-380"
+        "N-378"
       ]
     },
     {
@@ -2658,7 +2658,7 @@
       "investigative_direction": "Compare the host's account of the interview planning with Fuentes's own account and any messages between their teams.",
       "transcript_snippet": "the sense that I got with how he reacted and lied about how we treated him is the first thing that made me think he was an op",
       "mentions_person_refs": [
-        "N-205",
+        "N-203",
         "N-3"
       ]
     },

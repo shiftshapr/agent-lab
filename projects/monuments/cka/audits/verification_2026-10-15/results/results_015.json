@@ -1,0 +1,789 @@
+[
+ {
+  "claim": "C-1290",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: filmer 'told me that neither the feds nor the local police had ever reached out to him. Never.' Sept 15 contact is said of the OTHER witness.",
+  "fix": {
+   "claim": "The host says the individual who filmed the shooter running across the rooftop told her that neither the feds nor the local police had ever reached out to him.",
+   "label": "Rooftop Runner Footage Filmer Was Never Contacted by Federal or Local Authorities"
+  }
+ },
+ {
+  "claim": "C-1291",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1292",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Xaviaer says moral blackmail was a debate-workshop point (empowering Hamas if you criticize a politician), not weekend pressure; name misspelled in claim.",
+  "fix": {
+   "claim": "In a clip the host plays, Xaviaer DuRousseau says Charlie Kirk used the phrase 'moral blackmail' about the argument that criticizing a politician empowers a terrorist organization, in a workshop setting during the weekend about Israel/Netanyahu."
+  }
+ },
+ {
+  "claim": "C-3737",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1293",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says an influencer 'did post on August 6th'; platform not stated (not Instagram); name misspelled Deruso.",
+  "fix": {
+   "claim": "The host says an Emily Saves America post dated August 6 stated she was in the Hamptons during the weekend, undermining Xaviaer DuRousseau's claim that real-time posting was avoided for safety reasons."
+  }
+ },
+ {
+  "claim": "C-3738",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says Emily 'did post on August 6th'; 'Instagram' not stated.",
+  "fix": {
+   "claim": "C-1293's title spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-116). The host cites an Emily Saves America post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons."
+  }
+ },
+ {
+  "claim": "C-1294",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1295",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3773",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim invents a spelling difference ('auto-caption form'); transcript says 'Bill Ackman' throughout.",
+  "fix": {
+   "claim": "The host states that Bill Ackman replied to her prior coverage with a 959-word essay that did not address the 'intervention' allegation."
+  }
+ },
+ {
+  "claim": "C-1296",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'he lied about the contents of a letter that Charlie Kirk had written him back in May' (softened to 'misrepresented'; 'he' is ambiguous, possibly Ackman). Unresolved.",
+  "fix": {
+   "claim": "The host says Benjamin Netanyahu tweeted about Charlie Kirk's death before the President of the United States, and that, on Fox News and Greta Van Susteren's show, 'he' lied about the contents of a letter Charlie Kirk had written him in May."
+  }
+ },
+ {
+  "claim": "C-3642",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host only says 'buy yourself some CIA merch so that we can be arrested by Laura Loomer'; no Candace/Decentralized Intelligence Agency gloss in transcript.",
+  "fix": {
+   "claim": "The host invites viewers to buy 'CIA merch' so that, she jokes, she can be arrested by Laura Loomer and her tweets reported by Laura Loomer.",
+   "mentions": [
+    "N-3",
+    "N-60"
+   ],
+   "label": "Host Plugs CIA Merch With Joke About Laura Loomer"
+  }
+ },
+ {
+  "claim": "C-3731",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Name misspelled 'Xavier Deruso' (transcript: Xaviaer DuRousseau).",
+  "fix": {
+   "claim": "Responding to Xaviaer DuRousseau's account of the Hamptons weekend, the host says Natasha Hausdorff and Seth Dillon were there, that Seth Dillon applied pressure to Charlie, and that Seth Dillon and Josh Hammer were not happy with Charlie at the end of the weekend."
+  }
+ },
+ {
+  "claim": "C-3739",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3732",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3733",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Lorenz tweet: 'Why do I feel like Candace is the only one that actually cared about Charlie?' not 'speaking out'.",
+  "fix": {
+   "claim": "The host gives a shout out to Taylor Lorenz, who she says wrote on X asking why she felt Candace was the only one who actually cared about Charlie."
+  }
+ },
+ {
+  "claim": "C-3734",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13731",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Pressure on Kirk by Hammer/Dillon is background to the case, not the assassination or investigation itself.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13732",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13733",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13734",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13735",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript: 'People thought that Charlie's ideas were trending in the wrong direction'; 'around Charlie' is added.",
+  "fix": {
+   "claim": "The host says that people thought Charlie's ideas were trending in the wrong direction, and that no one wants to address her points because she was being honest."
+  }
+ },
+ {
+  "claim": "C-13736",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13737",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13738",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13739",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13740",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13741",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13742",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13743",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13744",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13745",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host speaks hypothetically: 'If you're going to fly your influencers out, you want them to influence'; Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "claim": "The host says that if you fly influencers out you want them to influence, and that they did not post about the Hamptons weekend until they were rumbled, and that DuRousseau offered an explanation for the delay.",
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13746",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13747",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Hamptons-weekend pressure is background to the case, not the assassination or its investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13748",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript does not call Streit 'the PragerU CEO'; 'has never always been open' is garbled audio.",
+  "fix": {
+   "claim": "The host says Marissa Streit has always been open about the fact that she worked for IDF intelligence."
+  }
+ },
+ {
+  "claim": "C-13749",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Charlie's financial threats are background, not the assassination or investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-13750",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim includes a meta note about what transcript does not name; footage is identified at 9:15 as SD-card footage.",
+  "fix": {
+   "claim": "The host says Turning Point USA will not release the footage and that every excuse she has been handed for why they won't makes no sense to her."
+  }
+ },
+ {
+  "claim": "C-13751",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13752",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13753",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13754",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13755",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'a very close if not one of his best friends'; hedge dropped.",
+  "fix": {
+   "claim": "The host says Kolvet is a TPUSA spokesperson who is grieving somebody he knows, who was a very close if not one of his best friends, whom he saw every day doing the Charlie Kirk show, and that he still has to deal with the same donors that Charlie was dealing with."
+  }
+ },
+ {
+  "claim": "C-13756",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13757",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13758",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13759",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13760",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13761",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'the towel that we've been told about'; 'officials' not stated.",
+  "fix": {
+   "claim": "Watching the rooftop clip, the host says it looks as if the runner has something trailing behind him and suggests it may be the towel that 'we've been told about'."
+  }
+ },
+ {
+  "claim": "C-13762",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13763",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13764",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13765",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13766",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13767",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13768",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13769",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13770",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13771",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13772",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13773",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13774",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

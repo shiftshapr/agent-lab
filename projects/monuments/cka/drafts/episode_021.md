@@ -11,9 +11,9 @@
 - **Transcript SHA-256**: b8b7fc2a633b3553c7b59c525ff8b33ee7df3017e487dccce1e3382534f8853d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-763, N-11100, N-11101
-  - Hole-minted Nodes (reintro-ep021): N-213, N-333, N-10323, N-10353
-  - Tip-minted Nodes (reintro-ep021): N-667
+  - Tip-minted Nodes (supplement_2026-10b): N-761, N-11100, N-11101
+  - Hole-minted Nodes (reintro-ep021): N-211, N-331, N-10323, N-10353
+  - Tip-minted Nodes (reintro-ep021): N-665
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6512–C-6551
   - (see registers)
@@ -95,9 +95,9 @@ Confidence: high
 - Ledger continuation summary:
   - Artifact Families Introduced: A-1283, A-1284, A-1285, A-1286, A-1287, A-1288, A-1289
   - Claim Range: C-1514–C-1526
-  - New Nodes Introduced: N-203, N-10200
-  - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-182, N-194, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350, N-10202, N-10319
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-132
+  - New Nodes Introduced: N-201, N-10200
+  - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-180, N-192, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350, N-10202, N-10319
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-131
 
 ---
 
@@ -193,7 +193,7 @@ Video Timestamp: 00:39:19–00:42:06
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio played)
 
-*Related: C-1526, N-203*
+*Related: C-1526, N-201*
 
 **A-1289** Charlie Kirk Day Proclamation Bundle (verbally referenced, not shown)
 
@@ -231,7 +231,7 @@ Video Timestamp: 00:18:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-6523, N-5, N-1, N-763*
+*Related: C-6523, N-5, N-1, N-761*
 
 ---
 
@@ -300,7 +300,7 @@ Investigative Pressure: Low
 
 *Related: A-1287.1, C-1522, C-1523, C-1525*
 
-**N-203** Norman Finkelstein
+**N-201** Norman Finkelstein
 
 Scholar and author; interviewee on upcoming Candace Owens episode regarding Gaza. Provides context but tangential to Kirk investigation per this episode.
 
@@ -346,7 +346,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-132** Susie Wiles
+**N-131** Susie Wiles
 
 Node Type: Person
 White House chief of staff. Host questions her as a Kirk eulogist and names her in later Epstein-file meetings.
@@ -443,7 +443,7 @@ TPUSA spokesperson; the host relays his account of Charlie's instructions and th
 
 ---
 
-**N-182** Jared Kushner
+**N-180** Jared Kushner
 
 Named by the host regarding Israel investments.
 
@@ -451,7 +451,7 @@ Named by the host regarding Israel investments.
 
 ---
 
-**N-194** Mikey McCoy
+**N-192** Mikey McCoy
 
 Host says he is missing from the Charlie Kirk Show.
 
@@ -467,7 +467,7 @@ Widow and TPUSA CEO; named in the Don Jr. clip and in the Wikipedia timing.
 
 ---
 
-**N-213** Joe Kent
+**N-211** Joe Kent
 
 Official whose inquiry the host urges to continue.
 
@@ -499,7 +499,7 @@ Subject of the Megyn Kelly clip and the host's open address.
 
 ---
 
-**N-333** Tulsi Gabbard
+**N-331** Tulsi Gabbard
 
 DNI named alongside Joe Kent.
 
@@ -539,7 +539,7 @@ President; subject of the AI photo, memorial speech story and Epstein remark.
 
 ---
 
-**N-667** Ivanka Trump
+**N-665** Ivanka Trump
 
 Named by the host regarding Israel investments.
 
@@ -596,7 +596,7 @@ The host's recollection that Charlie Kirk told her TPUSA had found a person to c
 
 ---
 
-**N-763** Breland Holland
+**N-761** Breland Holland
 
 First named by the host at 00:18:15 in episode 21. Boy the host says Charlie Kirk interviewed in fourth grade, referenced in Trump's memorial speech.
 
@@ -625,7 +625,7 @@ Investigative Direction: Obtain Wikipedia edit history (revision IDs, editor acc
 
 Claim Timestamp: 00:05:35
 
-Claim: Before the September 11, 2025 update, the TPUSA Wikipedia article contained a long-standing section stating that Charlie Kirk founded TPUSA Faith, with no mention of Rob McCoy.
+Claim: Per the TPUSA Wikipedia article the host shows, before the September 11, 2025 update it contained a long-standing section (a 2021 version, which she reads) stating that Charlie Kirk founded TPUSA Faith, with no mention of Rob McCoy.
 
 Anchored Artifacts: A-1283.1
 Mentions: N-1, N-17
@@ -640,7 +640,7 @@ Investigative Direction: Retrieve archived snapshots of the TPUSA Wikipedia arti
 
 Claim Timestamp: 00:04:30
 
-Claim: The citation used in the updated Wikipedia entry to support the assertion that Rob McCoy was co-founder/co-chairman of TPUSA Faith points to an article dated November 24, 2024, with additional citations dated September 10 and September 2025.
+Claim: The host says the citation used in the updated Wikipedia entry to support the assertion that Rob McCoy was co-founder and co-chairman of TPUSA Faith points to an article dated November 24, 2024, and that the second citations used are dated September 2025 (September 10th).
 
 Anchored Artifacts: A-1284.1
 Mentions: N-17
@@ -670,7 +670,7 @@ Investigative Direction: Obtain the cited article directly and check for the phr
 
 Claim Timestamp: 00:15:35
 
-Claim: The only Truth Social post by President Trump that could be read as calling for "further investigation" into Charlie Kirk's death is, in its actual text, directed at Jack Smith's investigation of Turning Point USA and unrelated to the Kirk murder inquiry.
+Claim: The host says her team searched Truth Social for Trump posts calling for further investigation into Charlie Kirk's murder and found only one, which she says is not a call for an investigation into the murder but asks why Turning Point was under investigation by Jack Smith and the Biden administration.
 
 Anchored Artifacts: A-1285.1
 Mentions: N-5, N-1
@@ -685,10 +685,10 @@ Investigative Direction: Retrieve the full archive of Trump's Truth Social posts
 
 Claim Timestamp: 00:20:44
 
-Claim: A New York Times article published the day prior to this episode reported that FBI Director Kash Patel was alarmed when Joe Kent of Tulsi Gabbard's office inquired about details of the Charlie Kirk investigation, including possible foreign involvement.
+Claim: The host says a New York Times headline the day before concerned how upset Kash Patel was when he received an inquiry from Joe Kent, of Tulsi Gabbard's office, about details of the Charlie Kirk investigation, which apparently alarmed Patel; she suggests they were asking whether people overseas were involved.
 
 Anchored Artifacts: A-1286.1
-Mentions: N-1, N-69
+Mentions: N-1, N-69, N-211, N-331
 
 Related Nodes: N-10202
 
@@ -700,10 +700,10 @@ Investigative Direction: Locate the NYT article by date, headline, and quoted ma
 
 Claim Timestamp: 00:21:37
 
-Claim: Following the inquiry, Kash Patel convened a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard, and (per host's recollection) JD Vance, and no substantive action followed.
+Claim: The host says that, after the inquiry, Kash Patel apparently held a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard and Trump officials, that she thinks it said JD Vance was also in the meeting, and that nothing was accomplished.
 
 Anchored Artifacts: A-1286.1
-Mentions: N-132, N-69, N-4
+Mentions: N-131, N-69, N-4, N-211, N-331
 
 Related Nodes: N-10202
 
@@ -727,7 +727,7 @@ Investigative Direction: Locate the relevant proclamation in the Federal Registe
 
 **C-1522** Don Trump Jr. Expressed Confidence in the FBI Kirk Investigation in a Megyn Kelly Interview
 
-Claim Timestamp: 00:32:12
+Claim Timestamp: 00:34:10
 
 Claim: In a Megyn Kelly interview, Donald Trump Jr. stated that he had confidence in the FBI's investigation into Charlie Kirk's death.
 
@@ -747,7 +747,7 @@ Claim Timestamp: 00:33:50
 Claim: In the same Megyn Kelly interview, Don Trump Jr. did not directly answer the first question about confidence in the FBI investigation, pivoting to remarks about continuing Kirk's work; only after Kelly re-asked the question did he state that he had confidence.
 
 Anchored Artifacts: A-1287.1
-Mentions: N-46
+Mentions: N-33, N-46, N-1
 
 
 Investigative Direction: Confirm sequence of statements in the unedited interview.
@@ -756,9 +756,9 @@ Investigative Direction: Confirm sequence of statements in the unedited intervie
 
 **C-1524** Host Rejects Wikipedia Characterization of Rob McCoy as TPUSA Faith Co-Founder
 
-Claim Timestamp: 00:03:03
+Claim Timestamp: 00:04:25
 
-Claim: The host asserts, as a position, that Rob McCoy was not the founder or co-founder of TPUSA Faith and was at most placed on an advisory board; the host's stated firsthand knowledge (via prior involvement with TPUSA Faith conversations at Liberty University) is offered as the basis.
+Claim: The host asserts that Rob McCoy was not the founder or co-founder of TPUSA Faith but one of the advisers put on its advisory board; she says the idea for TPUSA Faith came from conversations with pastors back at Liberty University, which she was there for.
 
 Anchored Artifacts: A-1283.2
 Mentions: N-17
@@ -771,12 +771,12 @@ Investigative Direction: Obtain contemporaneous TPUSA Faith formation documents,
 
 **C-1525** Host Characterizes Don Trump Jr.'s Confidence Statement as Inconsistent With What He Would Say If He Believed the Official Narrative
 
-Claim Timestamp: 00:35:31
+Claim Timestamp: 00:37:35
 
-Claim: The host asserts that Don Trump Jr.'s stated confidence in the FBI investigation is inconsistent with what he would say if he actually believed the official account – specifically that a 30-06 round's effect on Charlie Kirk's neck was as described.
+Claim: The host asks Don Trump Jr., as a hunter, to make a video saying he believes Charlie was shot in the neck with a .30-06 that his neck stopped while remaining intact, and says he will not say that because it is untrue.
 
 Anchored Artifacts: A-1287.1
-Mentions: N-46, N-1
+Mentions: N-33, N-1
 
 Related Nodes:
 
@@ -786,12 +786,12 @@ Investigative Direction: This is interpretive host commentary; falsifiable only 
 
 **C-1526** Norman Finkelstein Trailer Characterizes Gaza Treatment and "Jewish Supremacist" Money Influence
 
-Claim Timestamp: 00:39:19
+Claim Timestamp: 00:40:50
 
-Claim: In a trailer for an upcoming Candace Owens interview, Norman Finkelstein is shown quoting The Economist and a UN official describing Gaza as a "human rubbish heap" / "toxic dump," and asserts that a "billionaire class of Jewish supremacists" uses money as a blackmail weapon to silence critics of an ongoing genocide.
+Claim: In a trailer for an upcoming interview with the host, Norman Finkelstein is shown saying The Economist described Gaza as 'a human rubbish heap' and the leading UN official on Gaza described it as 'a toxic dump for the people of Israel', and asserting that a billionaire class of Jewish supremacists is flagrantly using money as a blackmail weapon to silence not just criticism of Jews but criticism of an ongoing genocide.
 
 Anchored Artifacts: A-1288.1
-Mentions: N-203, N-3
+Mentions: N-201, N-3
 
 
 Investigative Direction: Verify the quoted Economist and UN official attributions against original publications; this claim is tangential to the Kirk investigation but is presented within the same episode.
@@ -802,7 +802,7 @@ Investigative Direction: Verify the quoted Economist and UN official attribution
 
 Claim Timestamp: 00:01:24
 
-Claim: The host says that as a child Charlie Kirk was so hyperactive that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times.
+Claim: The host says that, from her memory, as a child Charlie Kirk was so hyperactive that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times.
 
 Transcript Snippet: of course doctors immediately wanted to put him on ADHD medicine because well why is he so hyperactive?
 
@@ -979,7 +979,7 @@ Claim: The host says Trump, in his speech at Charlie Kirk's memorial, told a sto
 Transcript Snippet: Even Trump's speech, remember when he just kind of worked in the story about uh Charlie interviewing a fourth grader and he was referring to Breland Holland?
 
 Anchored Artifacts: A-2819.1
-Mentions: N-5, N-1, N-3, N-763
+Mentions: N-5, N-1, N-3, N-761
 Tags: relevance:context
 Investigative Direction: Compare the transcript of Trump's memorial speech with footage and dates of Charlie's interview with Breland Holland to see who attended.
 
@@ -1020,12 +1020,12 @@ Investigative Direction: Request FBI organizational records or congressional tes
 
 Claim Timestamp: 00:22:45
 
-Claim: The host says she and her team are getting very close to what happened on the day, that she is getting the suspicion that foreign entities were involved, and asks Joe Kent and Tulsi Gabbard to keep going.
+Claim: The host says that she thinks they are getting very close to what actually happened on that day, that she is getting the suspicion that there were some foreign entities involved, and asks Joe Kent and Tulsi Gabbard to keep going.
 
 Transcript Snippet: I'm getting the suspicion that there were some foreign entities involved.
 
 Anchored Artifacts: 
-Mentions: N-213, N-333, N-3
+Mentions: N-211, N-331, N-3
 Related Nodes: N-10202
 Tags: relevance:core
 Investigative Direction: Ask the host to identify the evidence behind the suspicion of foreign involvement, and compare with the Kent inquiry reported by the New York Times.
@@ -1041,7 +1041,7 @@ Claim: The host says Mikey McCoy, who took the seat after Charlie, is missing fr
 Transcript Snippet: Mikey McCoy is missing um from the Charlie Kirk show.
 
 Anchored Artifacts: 
-Mentions: N-194, N-14
+Mentions: N-192, N-14
 Tags: relevance:context
 Investigative Direction: Check the Charlie Kirk Show episode listing and host roster for the date of this episode.
 
@@ -1056,7 +1056,7 @@ Claim: The host says Andrew Kolvet told people Charlie was explicit that if he w
 Transcript Snippet: Charlie said, "If I ever get shot at an event, the left side of my neck, the first thing I want you to do is not help me."
 
 Anchored Artifacts: 
-Mentions: N-14, N-1, N-194
+Mentions: N-14, N-1
 Related Nodes: N-11100
 Tags: relevance:core
 Investigative Direction: Find Kolvet's original statement and who heard Charlie say it; ask security and staff whether any such instruction existed.
@@ -1165,7 +1165,7 @@ Investigative Direction: Identify the sources the host says she is hearing from 
 
 Claim Timestamp: 00:32:12
 
-Claim: The host says Donald Trump Jr. helped build Turning Point USA, did many college campus events with her and Charlie, and was the most committed Trump family member to TPUSA's early story.
+Claim: The host says Donald Trump Jr. was one of the people who very much helped to build Turning Point USA, did a ton of college campus events with her and Charlie, and was probably without question the most committed Trump family member to TPUSA's early story.
 
 Transcript Snippet: Don Jr., by the way, I would say was one of the people who very much helped to build Turning Point USA.
 
@@ -1241,12 +1241,12 @@ Investigative Direction: Personal anecdote recorded as said; trip dates would be
 
 Claim Timestamp: 00:38:46
 
-Claim: The host says the Trump family understands Jared, Ivanka and their investments in Israel and the pressure from Zionists to be quiet, and says Don Jr. does not truly believe the official account.
+Claim: The host tells Don Jr. that if he cannot say anything she understands the ties that bind, says "they understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet," and says hunters know he does not believe the official account.
 
 Transcript Snippet: They understand Jared, Ivanka and their investments in Israel and the pressure that's coming from the Zionists to simply be quiet
 
 Anchored Artifacts: 
-Mentions: N-182, N-667, N-33
+Mentions: N-180, N-665, N-33
 Related Nodes: N-10025
 Tags: relevance:context
 Investigative Direction: Review disclosures of Kushner and Ivanka Trump investments in Israel and any contact with Don Jr. on the Kirk case.
@@ -1257,12 +1257,12 @@ Investigative Direction: Review disclosures of Kushner and Ivanka Trump investme
 
 Claim Timestamp: 00:39:19
 
-Claim: The host says she sat down with Norman Finkelstein for an interview, just over two hours long, to be released on Friday.
+Claim: The host says she sat down with Norman Finkelstein for a conversation that will be released on Friday.
 
 Transcript Snippet: have a conversation which we will be releasing on Friday uh with Norman Finkelestein.
 
 Anchored Artifacts: A-1288.1
-Mentions: N-203, N-3
+Mentions: N-201, N-3
 Tags: relevance:tangential
 Investigative Direction: Compare the release date of the Finkelstein interview with the host's stated Friday.
 
@@ -1277,7 +1277,7 @@ Claim: The host says Norman Finkelstein was the reason she had him on her show s
 Transcript Snippet: was the reason I had him on my show right after October 7th, sometime shortly thereafter when I was at the Daily Wire.
 
 Anchored Artifacts: 
-Mentions: N-203, N-3
+Mentions: N-201, N-3
 Tags: relevance:tangential
 Investigative Direction: Locate the Daily Wire episode with Finkelstein and check its date.
 
@@ -1332,7 +1332,7 @@ Investigative Direction: Speculation from dreams recorded as said; no evidentiar
 
 Claim Timestamp: 00:50:36
 
-Claim: The host says Charlie knew his life was going to be short and knew that she would be the only one to defend him publicly and go to war with everyone.
+Claim: The host says she takes from Charlie's dreams that he knew his life was going to be short and that, for whatever reason, she would be the only one to defend him publicly and go to war with everyone.
 
 Transcript Snippet: he knew his life was going to be short.
 
@@ -1364,7 +1364,7 @@ Investigative Direction: Compare with Charlie's own messages about donor pressur
 
 Claim Timestamp: 00:53:20
 
-Claim: Reading a viewer comment about Maxwell-published textbooks, the host says Ghislaine Maxwell's father began alongside Macmillan, publishing school textbooks, which she calls coming from the Jeffrey Epstein empire.
+Claim: Reading a viewer comment about Maxwell-published textbooks, the host says Ghislaine Maxwell's father began alongside, she thinks, Macmillan ("don't quote me"), publishing school textbooks, which she calls coming from the Jeffrey Epstein empire.
 
 Transcript Snippet: Gileian Maxwell's father did indeed uh begin alongside I think it was McMillan, don't quote me, uh it was like Maxwell McMillan publishing our textbooks
 
@@ -1447,7 +1447,7 @@ Investigative Direction: Historical assertion recorded as said; see the sources 
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use global people ledger (N-17, N-46, N-203); non-person investigation targets use N-10200+ series
+- [x] People nodes use global people ledger (N-17, N-46, N-201); non-person investigation targets use N-10200+ series
 - [x] No speculative or rhetorical claims inscribed as evidence-backed
 - [x] Names preserved as in transcript; uncertainties flagged
 - [x] No reuse of IDs from previous episodes; ledger continuation respected

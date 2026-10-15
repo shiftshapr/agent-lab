@@ -1,0 +1,841 @@
+[
+ {
+  "claim": "C-1321",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1322",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1323",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host: 'at 12:23 according to his metadata... inside of the building'; says Sorenson building. No 'mobile-phone', 'Center' or date stated.",
+  "fix": {
+   "claim": "A video provided by Phil Lyman to the host contains embedded metadata that the host says places him inside the Sorenson building at 12:23; the video depicts him walking out calmly rather than running."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-1324",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1325",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Name is 'Shaner Broderick' per lawsuit coverage; 'Shainer' is a transcription error. Gernot Omer unresolved name.",
+  "fix": {
+   "claim": "The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Omer, because a face in the photo matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-1326",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1327",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1328",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host: Shainer posted 'My uncle Phil Lyman' on Instagram and LinkedIn connection listed uncle. Claim states as fact, not host's statement. Name should be Shaner.",
+  "fix": {
+   "claim": "The host says Shaner Broderick posted on his Instagram 'My uncle Phil Lyman' and that his LinkedIn listed Phil Lyman as an uncle connection, before Lyman said they are only cousins.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-1329",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Daily Mail headline: Patel 'gutted the Utah FBI leadership'. Replacing the chief with Robert Bowles in August is the host's own statement ('That is true. He fired the chief... replaced her with Robert Bowles').",
+  "fix": {
+   "claim": "The host says, citing a Daily Mail article headlined that Kash Patel gutted the Utah FBI leadership before Charlie Kirk's assassination, that Patel fired the chief of the Utah FBI Bureau and others and that she was replaced with Robert Bowles in August."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-1330",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host: 'if this is the correct Mike Mitchell'; hedge dropped; article shown by host ('Police surf internet to snag pedophiles').",
+  "fix": {
+   "claim": "Per a November 1999 article the host shows, a Mike Mitchell, a detective with the Salt Lake County Sheriff's Office, had been investigating child sex crimes on the internet for about a year, using childlike online phrasing; the host says she is not certain it is the same Mike Mitchell but has a strong hunch."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-1331",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host doubts the letter ('authenticate that email', 'we're supposed to believe'); claim states Kirk wrote it as fact. 'Released by PM office' not in this passage.",
+  "fix": {
+   "claim": "The host says the New York Post and Israeli Post shared a May letter to Netanyahu in which Charlie Kirk reportedly 'wrote of his deep love for Israel'; she questions whether it is authentic and asks for the email to be authenticated."
+  },
+  "material": true
+ },
+ {
+  "claim": "C-1332",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1333",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-1334",
+  "episode": 12,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "note": "'I think Robert Bowles actually it was his first week' is the host's own hedged statement, not the Daily Mail's; spoken ~32:25, 90s after claim timestamp.",
+  "fix": {
+   "claim": "The host says she thinks Robert Bowles was in his first week at the Utah FBI office when Charlie Kirk was shot.",
+   "label": "Host Thinks Robert Bowles Was in First Week at Utah FBI Office When Kirk Was Shot",
+   "timestamp": "00:32:15"
+  },
+  "material": true
+ },
+ {
+  "claim": "C-1335",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9258",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "Memorialization as friend of Israel is background, not the assassination itself.",
+  "fix": {
+   "relevance": "context"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-9259",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "N-133 canonical name 'Shainer' is wrong; correct is Shaner Broderick.",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-9260",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "Letter release is background on Kirk's Israel stance.",
+  "fix": {
+   "relevance": "context"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-9261",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9262",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "Claim names 'Shainer'; correct is Shaner Broderick.",
+  "fix": {
+   "claim": "The host says Shaner Broderick created a map of where the killer walked and that the media used his map.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-9263",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9264",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9265",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9266",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "Claim does not name or refer to Tim Ballard (N-329); only Operation Underground Railroad.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-9267",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "Claim names 'Shainer'; correct is Shaner Broderick.",
+  "fix": {
+   "claim": "The host says Phil Lyman disputes that Shaner Broderick is his nephew, telling her that Shaner may be confused and that they are only cousins.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-9268",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "context",
+  "note": "Claim names 'Shainer'; correct is Shaner Broderick.",
+  "fix": {
+   "claim": "The host says Shaner Broderick was chosen for an internship with Senator Mike Lee of Utah, which she thinks was partly the result of the family link to Phil Lyman.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-9269",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "Host: 'privatized it and then removed all of the photos'; claim reverses order. Name should be Shaner.",
+  "fix": {
+   "claim": "The host says that since the previous episode Shaner Broderick wiped his LinkedIn page and his Facebook page, and privatized his Instagram and then removed the photos of his investigation into the killer's route.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-9270",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "Claim names 'Shainer' elsewhere; N-133 name should be Shaner Broderick.",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-9271",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9272",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "Host says 'the blonde that's with Shainer'; 'blond man' is not stated. Name should be Shaner.",
+  "fix": {
+   "claim": "The host says that, unlike in all her earlier investigations, no viewer emailed to say they knew either the blonde or the person in the blue hat who were with Shaner Broderick.",
+   "names": [
+    {
+     "wrong": "Shainer Broderick",
+     "right": "Shaner Broderick",
+     "source": "https://www.abc4.com/news/politics/lawsuit-candace-owens-charlie-kirk-theories/"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-9273",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9274",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9275",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9276",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9277",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9278",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9279",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9280",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9281",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9282",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9283",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9284",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9285",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9286",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9287",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9288",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9289",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9290",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "Host: 'maybe people around him... perhaps betrayed him'; title says 'carried out by people around Kirk'.",
+  "fix": {
+   "label": "Host Says the Assassination May Be Akin to a Regicide, Possibly Involving Betrayal by People Around Kirk"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-9291",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9292",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9293",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9294",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9295",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9296",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "Hospital CEO is Andrew Zenger per Herald Extra; N-137 name 'Zanger' is wrong.",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Andrew Zanger",
+     "right": "Andrew Zenger",
+     "source": "https://www.heraldextra.com/business/local-business/2025/aug/21/new-chief-executive-officer-named-at-timpanogos-regional-hospital/"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-9297",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9298",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "Hospital CEO is Andrew Zenger; N-137 name 'Zanger' is wrong.",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Andrew Zanger",
+     "right": "Andrew Zenger",
+     "source": "https://www.heraldextra.com/business/local-business/2025/aug/21/new-chief-executive-officer-named-at-timpanogos-regional-hospital/"
+    }
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-9299",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9300",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9301",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-9302",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "note": "Host: 'on the AVs thing, they were trying something new'; 'audio-visual setup' is an added gloss.",
+  "fix": {
+   "claim": "The host says that man told her explicitly they were trying something new that day, 'on the AVs thing', and wanted to feed it back instantly to Arizona, which she says makes no sense because the events are typically live-streamed."
+  },
+  "material": false
+ }
+]

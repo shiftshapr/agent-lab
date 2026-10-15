@@ -1,0 +1,770 @@
+[
+ {
+  "claim": "C-13775",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13776",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13777",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names neither Elon Musk nor Vivek Ramaswamy (host mentions them at 20:07 only as DOGE precedent); Mentions should be limited to Charlie.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-13778",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13779",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13780",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13781",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13782",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13783",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13784",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13785",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13786",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13787",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13788",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13789",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13790",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13791",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13792",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13793",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13794",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13795",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"I have established connection with that individual\" follows \"an unidentified woman, a woman\"; claim resolves it to the tipster, which is unclear.",
+  "fix": {
+   "claim": "The host says she has established a connection with \"that individual\", following her description of the tip about the unidentified woman, and calls it a solid lead that will become more interesting as to who is involved locally in a cover-up."
+  }
+ },
+ {
+  "claim": "C-13796",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: it will get more interesting \"in terms of who is involved in that coverup locally, like a Utah person\"; claim says the lead points to a Utah person (certainty added).",
+  "fix": {
+   "claim": "The host says the lead will get more interesting as to who is involved in the cover-up locally, \"like a Utah person involved in that cover up\", which she calls another fascinating piece of the puzzle."
+  }
+ },
+ {
+  "claim": "C-13797",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13798",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13799",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"That will be an entire department\" (who handles such emails), not that a department produced these emails.",
+  "fix": {
+   "claim": "The host says the fundraising emails people saw were not written by Erika Kirk, and that fundraising emails would be handled by an entire department."
+  }
+ },
+ {
+  "claim": "C-13800",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13801",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13802",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13803",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13804",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13805",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13806",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13807",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13808",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13809",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13810",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13811",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13812",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13813",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13814",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13815",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13816",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13817",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13818",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13819",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13820",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13821",
+  "episode": 10,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1297",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Audio: \"she's got to shuttle over from where she's at to her car\"; \"shuttle over from her car\" is the host's paraphrase; \"his car\" is the host's description.",
+  "fix": {
+   "claim": "The host says the 2022 police bodycam audio she plays, of Tyler Robinson making a crash report, shows him referring to it as \"his car\" rather than \"his vehicle\", and remarks that his mother was going to \"shuttle over from her car\", which she contrasts with the vocabulary of the federal text messages."
+  }
+ },
+ {
+  "claim": "C-1298",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"that's how most Americans, how most English speakers refer to a car, unless they're in the military or on the police force\". Est. 4:15.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1299",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Missing Brooksby (N-276). Clip says \"8:02 p.m.\" with no date; \"retired a few years\" friend, \"former detective\" is host. Clip is at ~9:05-9:25 by word position (block 00:55-10:22), not 3:50-4:50.",
+  "fix": {
+   "claim": "In a clip the host plays, Nate Brooksby says that at 8:02 p.m. a friend who has been retired a few years, whom the host describes as a former detective, called to say he knew who the Charlie Kirk shooter was.",
+   "mentions": [
+    "N-276",
+    "N-126"
+   ],
+   "timestamp": "00:09:00"
+  }
+ },
+ {
+  "claim": "C-1300",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Unverifiable against transcript (caption gap 10:22-24:48). Claim names Brooksby, who is missing from Mentions (N-276).",
+  "fix": {
+   "mentions": [
+    "N-276",
+    "N-126"
+   ]
+  }
+ },
+ {
+  "claim": "C-1301",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip: \"some information was provided about Tyler uh potentially having some suicidal ideiations\"; \"potentially\" dropped. Missing N-276. Clip is at ~9:25-9:40, not 4:50-5:30.",
+  "fix": {
+   "claim": "In a clip the host plays, Nate Brooksby says that during the initial call \"some information was provided\" about Tyler \"potentially having some suicidal ideations\" and a remote area of Washington County, and that the parents convinced him not to do that.",
+   "mentions": [
+    "N-276",
+    "N-40"
+   ],
+   "timestamp": "00:09:30"
+  }
+ },
+ {
+  "claim": "C-1302",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Brooksby quote (\"delicate and as soft as possible\", \"fearful of a SWAT team hit\") is not in this transcript (caption gap); not disproved. Claim names Brooksby, missing from Mentions (N-276).",
+  "fix": {
+   "mentions": [
+    "N-276",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-1303",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Unverifiable: Lance Instagram content not in the available transcript (caption gap).",
+  "fix": {}
+ },
+ {
+  "claim": "C-1304",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Unverifiable: retirement post shown on screen, not in transcript (caption gap 10:22-24:48).",
+  "fix": {}
+ },
+ {
+  "claim": "C-1305",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Unverifiable in gap; only nearby text is Comments (~50:45): \"when I was trying to find Mike Mitchell, I could find the Mitchell family...can't find any more information\".",
+  "fix": {}
+ },
+ {
+  "claim": "C-1306",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: source says Tyler is not suicidal; \"rather confusingly, Brooksby tells us that Tyler is suicidal. Whatever.\" She does not say two Brooksby statements cannot both be true. Names Brooksby and Tyler, Mentions empty. At ~8:50.",
+  "fix": {
+   "claim": "The host says it is confusing that Nate Brooksby tells us Tyler is suicidal, when her source says Tyler is not suicidal and went to the police station so as not to risk being shot.",
+   "mentions": [
+    "N-276",
+    "N-40"
+   ],
+   "timestamp": "00:08:45"
+  }
+ },
+ {
+  "claim": "C-1307",
+  "episode": 11,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Lyman says \"I parked there probably 10 minutes before he walked by\". The 19 minutes is McEnany (\"parked there at 11:30...footage 11:49...19 minutes\") and the host restating it, not Lyman.",
+  "fix": {
+   "claim": "In his Kayleigh McEnany interview, Phil Lyman says the driveway is his aunt's and that he parked his gray CRV there probably 10 minutes before the shooter walked by; McEnany puts his 11:30 a.m. parking and the 11:49 a.m. footage at 19 minutes apart, and the host restates the 19 minutes.",
+   "label": "Phil Lyman Says He Parked in the TMZ Footage Driveway About 10 Minutes Before the Shooter Walked By"
+  }
+ },
+ {
+  "claim": "C-1308",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Lyman: \"my neighborhood where I spent so much of my childhood and all of my relatives\"; host: \"his family owns...12 homes right there\".",
+  "fix": {}
+ },
+ {
+  "claim": "C-1309",
+  "episode": 11,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Lyman: \"Everyone's ducking down behind the concrete retaining walls\" (not him retreating). Goth content at ~32:30-33:10.",
+  "fix": {
+   "claim": "In an Alex Jones interview, Phil Lyman recounted being at the east end of the venue, hearing a loud bang, seeing people ducking behind concrete retaining walls, and encountering two \"very goth, very black\" girls who were not running; he reported that one girl said \"Go f yourselves\" while looking down at fleeing people."
+  }
+ }
+]

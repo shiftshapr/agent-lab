@@ -186,7 +186,7 @@
             "C-3397"
           ],
           "related_nodes": [
-            "N-162",
+            "N-161",
             "N-3"
           ],
           "tags": [],
@@ -216,7 +216,7 @@
             "C-3396"
           ],
           "related_nodes": [
-            "N-162",
+            "N-161",
             "N-1",
             "N-3",
             "N-10000"
@@ -251,7 +251,7 @@
           "related_nodes": [
             "N-2",
             "N-1",
-            "N-354",
+            "N-352",
             "N-10000"
           ],
           "tags": [],
@@ -323,7 +323,7 @@
             "N-1",
             "N-7",
             "N-14",
-            "N-333"
+            "N-331"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -406,7 +406,7 @@
           "description": "\"Don't Give a Dom\" Comment Mocking Blake Neff",
           "related_claims": [],
           "related_nodes": [
-            "N-162"
+            "N-161"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -502,7 +502,7 @@
             "C-7773"
           ],
           "related_nodes": [
-            "N-436",
+            "N-434",
             "N-10657"
           ],
           "tags": [],
@@ -569,8 +569,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Author of X post (A-2346); subject of Deseret News profile (A-2347).",
@@ -617,8 +617,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-354",
-      "ref": "N-354",
+      "@id": "N-352",
+      "ref": "N-352",
       "name": "Usha Vance",
       "type": "person",
       "description": "Referenced in Erika Kirk op-ed (A-2348) as \"second lady\" and as source of \"15 minutes\" analogy.",
@@ -657,8 +657,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-361",
+      "ref": "N-361",
       "name": "Kim Kardashian",
       "type": "person",
       "description": "The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert.",
@@ -817,8 +817,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-167",
-      "ref": "N-167",
+      "@id": "N-166",
+      "ref": "N-166",
       "name": "Rabbi Pesach Wolicki",
       "type": "person",
       "description": "Rabbi Pesach Wolicki; the host places him on the Zoom call.",
@@ -834,8 +834,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-215",
-      "ref": "N-215",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Jesse Watters (aired as Jesse Watters); the host says Erika's op-ed repeats her interview remarks to him.",
@@ -853,8 +853,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-241",
-      "ref": "N-241",
+      "@id": "N-239",
+      "ref": "N-239",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Glenn Beck; the host guesses he may speak at the UVU anniversary event.",
@@ -870,8 +870,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-247",
-      "ref": "N-247",
+      "@id": "N-245",
+      "ref": "N-245",
       "name": "Grok",
       "type": "person",
       "description": "Grok; the host cites a critic's Grok exchange about the concert.",
@@ -887,8 +887,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-333",
-      "ref": "N-333",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Tulsi Gabbard; the host says her office was given the Zoom call conversation.",
@@ -904,8 +904,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-372",
-      "ref": "N-372",
+      "@id": "N-370",
+      "ref": "N-370",
       "name": "Danny Philip",
       "type": "person",
       "description": "Danny Philip; the host says he drove the second Denali with Neff and that Neff will not name him.",
@@ -924,8 +924,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-436",
-      "ref": "N-436",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Brad Parscale",
       "type": "person",
       "description": "Brad Parscale; the host says he was a Salem Media executive who brought the filings forward.",
@@ -941,8 +941,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-492",
-      "ref": "N-492",
+      "@id": "N-490",
+      "ref": "N-490",
       "name": "Taylor Swift",
       "type": "person",
       "description": "Taylor Swift; the host compares Ye's tour to her Eras Tour.",
@@ -958,8 +958,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-715",
-      "ref": "N-715",
+      "@id": "N-713",
+      "ref": "N-713",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; named in the host's Operation Mockingbird aside.",
@@ -1353,8 +1353,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-798",
-      "ref": "N-798",
+      "@id": "N-796",
+      "ref": "N-796",
       "name": "Ebro Darden",
       "type": "person",
       "description": "First named by the host (as Ebro) at 00:28:04 in episode 148. Radio host named in Ye's TMZ clip, who Ye says declined to have the host on his show. Aliases: Ebro.",
@@ -1385,7 +1385,7 @@
       "investigative_direction": "Obtain the original Deseret News article text directly and confirm the quoted material matches the host's reading; verify whether Neff names the other \"members\" present.",
       "mentions_person_refs": [
         "N-1",
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -1403,7 +1403,7 @@
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Verify the exact Neff wording in the original Deseret News article; identify the source Neff cites for this characterization.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3",
         "N-1"
       ]
@@ -1422,7 +1422,7 @@
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Verify the exact phrasing in the original Deseret News article; identify which specific views Neff was referencing.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -1442,7 +1442,7 @@
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Verify the exact Neff statement in the Deseret News article; corroborate against TPUSA's public posture and timeline around 2024.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -1460,7 +1460,7 @@
       "claim_timestamp": "00:33:48",
       "investigative_direction": "Obtain the original X post URL and confirm text; cross-check the host's counter-travel record against verifiable travel logs.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -1497,7 +1497,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-4",
-        "N-354",
+        "N-352",
         "N-1"
       ]
     },
@@ -1517,7 +1517,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-4",
-        "N-354"
+        "N-352"
       ]
     },
     {
@@ -1571,7 +1571,7 @@
       "mentions_person_refs": [
         "N-27",
         "N-3",
-        "N-363"
+        "N-361"
       ]
     },
     {
@@ -1624,7 +1624,7 @@
       "transcript_snippet": "he has been touring and he has been selling out stadiums that are between 70,000-100,000 seats all over the world",
       "mentions_person_refs": [
         "N-27",
-        "N-492",
+        "N-490",
         "N-3"
       ]
     },
@@ -1643,7 +1643,7 @@
       "investigative_direction": "Locate the posted Grok exchange to confirm the wording and that it was generated as described.",
       "transcript_snippet": "I saw one person posted their conversation with Grok about whether it's safe for me to go to a concert at 8 months pregnant.",
       "mentions_person_refs": [
-        "N-247",
+        "N-245",
         "N-3"
       ]
     },
@@ -1746,7 +1746,7 @@
       "investigative_direction": "Check coverage of North West's Chicago show date to confirm it fell the night after the Ye concert.",
       "transcript_snippet": "Turns out she was actually in town for a show that Northwest had the following night.",
       "mentions_person_refs": [
-        "N-363",
+        "N-361",
         "N-3"
       ]
     },
@@ -2185,7 +2185,7 @@
       "mentions_person_refs": [
         "N-27",
         "N-3",
-        "N-798"
+        "N-796"
       ]
     },
     {
@@ -2227,8 +2227,8 @@
         "C-3020"
       ],
       "mentions_person_refs": [
-        "N-162",
-        "N-372",
+        "N-161",
+        "N-370",
         "N-1"
       ]
     },
@@ -2250,8 +2250,8 @@
       "investigative_direction": "Event attendee list, green-room footage and the restaurant's own video of the morning.",
       "transcript_snippet": "We know that neither Danny or Blake attend the restaurantology event that morning where Charlie gave an interview.",
       "mentions_person_refs": [
-        "N-372",
-        "N-162",
+        "N-370",
+        "N-161",
         "N-1"
       ]
     },
@@ -2277,8 +2277,8 @@
         "C-5865"
       ],
       "mentions_person_refs": [
-        "N-162",
-        "N-372"
+        "N-161",
+        "N-370"
       ]
     },
     {
@@ -2298,7 +2298,7 @@
       "investigative_direction": "Locate the original Neff post and its timestamp.",
       "transcript_snippet": "Candace finds it implausible and ridiculous that Charlie would be excited about his largest campus tour ever because it was also his job.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3",
         "N-1"
       ]
@@ -2324,7 +2324,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2390,7 +2390,7 @@
         "C-3393"
       ],
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3"
       ]
     },
@@ -2413,7 +2413,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2434,7 +2434,7 @@
         "C-5857"
       ],
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-1"
       ]
     },
@@ -2457,7 +2457,7 @@
       "investigative_direction": "Establish the timing of the waiting-room conversation against the hospital pronouncement and the manhunt timeline.",
       "transcript_snippet": "This is in the middle of the manhunt. Nobody knew anything.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3",
         "N-1"
       ]
@@ -2481,8 +2481,8 @@
       "investigative_direction": "Ask Neff or the Deseret News who was in the waiting room.",
       "transcript_snippet": "He won't name the person which makes me think usually when he develops this amnesia it's usually about Danny Philip for some reason.",
       "mentions_person_refs": [
-        "N-162",
-        "N-372"
+        "N-161",
+        "N-370"
       ]
     },
     {
@@ -2503,7 +2503,7 @@
         "C-5912"
       ],
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-14",
         "N-1"
       ]
@@ -2545,7 +2545,7 @@
       "investigative_direction": "Inference only; the unnamed waiting-room speaker would need to be identified to test it.",
       "transcript_snippet": "It it it it's starting to feel like Blake for some reason had confidence and knew that I would not trust the science on Charlie's assassination.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-3",
         "N-1"
       ]
@@ -2732,7 +2732,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-354"
+        "N-352"
       ]
     },
     {
@@ -2793,7 +2793,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-215"
+        "N-213"
       ]
     },
     {
@@ -2836,7 +2836,7 @@
       "transcript_snippet": "You were living within 6 days laughing at emojis. You're laughing at emojis on a Zoom call.",
       "mentions_person_refs": [
         "N-2",
-        "N-215"
+        "N-213"
       ]
     },
     {
@@ -2858,7 +2858,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-215"
+        "N-213"
       ]
     },
     {
@@ -2879,7 +2879,7 @@
       "investigative_direction": "Cite the Church Committee findings on press relationships; the host gives no source on air.",
       "transcript_snippet": "Operation Mockingbird. The New York Times was involved in that. After they committed another a different state assassination. Assassination of JFK.",
       "mentions_person_refs": [
-        "N-715",
+        "N-713",
         "N-2"
       ]
     },
@@ -2924,7 +2924,7 @@
       "investigative_direction": "Check the official anniversary event program for speakers and date.",
       "transcript_snippet": "I guess that I don't know who's been listed as speaking at that event. I think Glenn Beck. Is Erika speaking there?",
       "mentions_person_refs": [
-        "N-241",
+        "N-239",
         "N-2"
       ]
     },
@@ -2994,7 +2994,7 @@
         "C-1397"
       ],
       "mentions_person_refs": [
-        "N-167",
+        "N-166",
         "N-55"
       ]
     },
@@ -3077,7 +3077,7 @@
       "investigative_direction": "Identify Andrew Cooper, whom the host names only by this spelling, and confirm what he provided to the DNI's office.",
       "transcript_snippet": "We know it wasn't tongue-in-cheek because Andrew Cooper gave that conversation to Tulsi Gabbard's office.",
       "mentions_person_refs": [
-        "N-333"
+        "N-331"
       ]
     },
     {
@@ -3365,7 +3365,7 @@
         "C-2866"
       ],
       "mentions_person_refs": [
-        "N-436"
+        "N-434"
       ]
     },
     {

@@ -158,7 +158,7 @@ And Yes, Michael Shawn Covey. That is correct. Sorry, Michael, to put you on bla
 
 [28:49]
 
-Uh Shainer says he's a nephew, but he and some friends uniquely traced the steps of the killer and showed people, "This is the footprint. This is Look, he was here. This was on our property that this happened." Let's see those Instagram posts to jog your memory. You remember Robbie Hild. Um and I thought I said he's got way He's looks The guy all the way to the right there looks way more to me like the build of the person coming up the stairs. That was the episode that we did. Who are these people? We asked. Why is Robbie Hild Why are they posting like they have exclusive access? What are the chances that this happened? Look, the footprint. That footprint is mentioned in the document yesterday. The footprint.
+Uh Shaner says he's a nephew, but he and some friends uniquely traced the steps of the killer and showed people, "This is the footprint. This is Look, he was here. This was on our property that this happened." Let's see those Instagram posts to jog your memory. You remember Robbie Hild. Um and I thought I said he's got way He's looks The guy all the way to the right there looks way more to me like the build of the person coming up the stairs. That was the episode that we did. Who are these people? We asked. Why is Robbie Hild Why are they posting like they have exclusive access? What are the chances that this happened? Look, the footprint. That footprint is mentioned in the document yesterday. The footprint.
 
 [29:30]
 

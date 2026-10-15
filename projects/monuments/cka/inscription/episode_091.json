@@ -303,7 +303,7 @@
           "related_nodes": [
             "N-10599",
             "N-10603",
-            "N-346"
+            "N-344"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -330,7 +330,7 @@
           "related_nodes": [
             "N-10599",
             "N-3",
-            "N-346"
+            "N-344"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -357,7 +357,7 @@
           "related_nodes": [
             "N-1",
             "N-10613",
-            "N-346"
+            "N-344"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -384,8 +384,8 @@
           ],
           "related_nodes": [
             "N-10604",
-            "N-345",
-            "N-923"
+            "N-343",
+            "N-921"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -648,8 +648,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-428",
-      "ref": "N-428",
+      "@id": "N-426",
+      "ref": "N-426",
       "name": "Jimmy Cherizier",
       "type": "person",
       "description": "First named by the host at 00:27:14 in episode 91.",
@@ -666,8 +666,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-429",
-      "ref": "N-429",
+      "@id": "N-427",
+      "ref": "N-427",
       "name": "Daniel Horner",
       "type": "person",
       "description": "First named by the host at 00:32:24 in episode 91.",
@@ -782,8 +782,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "TPUSA staffer; the host says he wrote Erika's September 12 address and heavily assisted her memorial speech.",
@@ -800,8 +800,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "TPUSA chief of staff from January 2024 per the host; the transcript spells him Mikey McCoy.",
@@ -818,8 +818,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Joe Kent",
       "type": "person",
       "description": "Named in a hypothetical about whom Erika should have called about the planes.",
@@ -835,8 +835,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-225",
-      "ref": "N-225",
+      "@id": "N-223",
+      "ref": "N-223",
       "name": "Brett Cooper",
       "type": "person",
       "description": "Former Daily Wire host; the host cites what Daily Wire tried to do to her.",
@@ -852,8 +852,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-345",
-      "ref": "N-345",
+      "@id": "N-343",
+      "ref": "N-343",
       "name": "Victor Marx",
       "type": "person",
       "description": "Pastor and Colorado gubernatorial candidate; the host and Corby Hall's statement describe his background, Fold AR dealings and Haiti activity.",
@@ -907,8 +907,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-346",
-      "ref": "N-346",
+      "@id": "N-344",
+      "ref": "N-344",
       "name": "Corby Hall",
       "type": "person",
       "description": "Fold AR maker whose written statement the host reads and whom she says she believes.",
@@ -949,8 +949,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-347",
-      "ref": "N-347",
+      "@id": "N-345",
+      "ref": "N-345",
       "name": "Eileen Marx",
       "type": "person",
       "description": "Victor Marx's wife; appears in the hug video and in Hall's account of the dream and vision.",
@@ -972,8 +972,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-348",
-      "ref": "N-348",
+      "@id": "N-346",
+      "ref": "N-346",
       "name": "Melody Hall",
       "type": "person",
       "description": "Hall's then girlfriend and later wife, described in his statement as COO of Fold AR.",
@@ -990,8 +990,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-353",
-      "ref": "N-353",
+      "@id": "N-351",
+      "ref": "N-351",
       "name": "Gloyce Dean Kennedy",
       "type": "person",
       "description": "Victor Marx's stepfather per the host; subject of the army, smuggling and conviction claims.",
@@ -1009,8 +1009,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-456",
-      "ref": "N-456",
+      "@id": "N-454",
+      "ref": "N-454",
       "name": "Greg Laurie",
       "type": "person",
       "description": "Pastor the host names as accused of trafficking.",
@@ -1026,8 +1026,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-648",
-      "ref": "N-648",
+      "@id": "N-646",
+      "ref": "N-646",
       "name": "Sebastian Gorka",
       "type": "person",
       "description": "Host of the America First show on which Marx and Melody appeared per Hall's statement.",
@@ -1043,8 +1043,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-732",
-      "ref": "N-732",
+      "@id": "N-730",
+      "ref": "N-730",
       "name": "Mike Kennedy",
       "type": "person",
       "description": "Victor Marx's brother per the host; attorney who took a plea deal in the same smuggling case and co-founded the ministry.",
@@ -1061,8 +1061,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-733",
-      "ref": "N-733",
+      "@id": "N-731",
+      "ref": "N-731",
       "name": "Karl Marx (Victor Marx's father)",
       "type": "person",
       "description": "Marx's biological father per the host; the transcript spells the first name Carl.",
@@ -1078,8 +1078,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-734",
-      "ref": "N-734",
+      "@id": "N-732",
+      "ref": "N-732",
       "name": "Kenneth Brining",
       "type": "person",
       "description": "Eileen Marx's brother per the host; subject of the shooting attempt and trial claims.",
@@ -1096,8 +1096,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-922",
-      "ref": "N-922",
+      "@id": "N-920",
+      "ref": "N-920",
       "name": "Chaz Yandle",
       "type": "person",
       "description": "First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met Hall at the hotel and goes with Marx to Haiti. Spelling as transcribed.",
@@ -1113,8 +1113,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-923",
-      "ref": "N-923",
+      "@id": "N-921",
+      "ref": "N-921",
       "name": "Corey Kennedy",
       "type": "person",
       "description": "First named by the host at 00:56:23 in episode 91 as a researcher who has done a deep dive on Victor Marx on X and Facebook. The host is unsure of the surname and spells the first name C O R I.",
@@ -1590,7 +1590,7 @@
       "claim_timestamp": "00:27:14",
       "investigative_direction": "Cross-reference with subsequent Haiti mission records and CBN News reporting.",
       "mentions_person_refs": [
-        "N-428"
+        "N-426"
       ]
     },
     {
@@ -1609,7 +1609,7 @@
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Verify with Sig Sauer corporate communications and Daniel Horner directly.",
       "mentions_person_refs": [
-        "N-429"
+        "N-427"
       ]
     },
     {
@@ -1784,7 +1784,7 @@
       "claim_timestamp": "00:28:28",
       "investigative_direction": "Cross-reference with other reporting on Marx's Haiti activities and any FAA enforcement records.",
       "mentions_person_refs": [
-        "N-428"
+        "N-426"
       ]
     },
     {
@@ -1917,7 +1917,7 @@
       "transcript_snippet": "which was not written by her, I was told it was written by Blake Neff",
       "mentions_person_refs": [
         "N-2",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -1984,7 +1984,7 @@
       "transcript_snippet": "Uh Blake Neff came in with a heavy assist.",
       "mentions_person_refs": [
         "N-2",
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2090,7 +2090,7 @@
         "C-1545"
       ],
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -2113,7 +2113,7 @@
       "transcript_snippet": "Charlie is just doing a lot in Kansas and in Nebraska and in Missouri crossing with these planes.",
       "mentions_person_refs": [
         "N-1",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2156,7 +2156,7 @@
       "transcript_snippet": "She wanted to make jokes about the Egyptian planes. She doesn't want the public looking at the Egyptian planes.",
       "mentions_person_refs": [
         "N-2",
-        "N-213"
+        "N-211"
       ]
     },
     {
@@ -2178,7 +2178,7 @@
       "investigative_direction": "Obtain the original email and call record from the host's team, and Hall's own account of what he fears.",
       "transcript_snippet": "we were contacted by someone who said that he was afraid for his life, but that he felt that he had to speak out and tell the truth um for Charlie.",
       "mentions_person_refs": [
-        "N-346",
+        "N-344",
         "N-1"
       ]
     },
@@ -2199,7 +2199,7 @@
       "investigative_direction": "Check Colorado candidate filings and the event's video for the date and wording of the announcement.",
       "transcript_snippet": "he chose to make to announce his intention to run for governor of Colorado at a Charlie Kirk memorial event in Denver on September 14th, just a couple of days after Charlie was assassinated.",
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-1"
       ]
     },
@@ -2220,7 +2220,7 @@
       "investigative_direction": "Check the Turning Point Faith course catalog and instructor list for the course and its dates.",
       "transcript_snippet": "he teaches an online educational course for Turning Point Faith entitled Freedom from Pornography.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2240,7 +2240,7 @@
       "investigative_direction": "Locate Marx's original statement and ask TPUSA whether any such assistant was employed.",
       "transcript_snippet": "He also claims his 20-year-old son was at one point Charlie Kirk's assistant",
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-1",
         "N-2"
       ]
@@ -2265,7 +2265,7 @@
         "C-12834"
       ],
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-1"
       ]
     },
@@ -2288,8 +2288,8 @@
       "investigative_direction": "Establish the date and location of the first Marx visit from the Instagram post metadata and the people who accompanied them.",
       "transcript_snippet": "Pastor Victor Marx and his wife Eileen Marx were one of the very first people to go see and greet Erika in the days following Charlie's assassination.",
       "mentions_person_refs": [
+        "N-343",
         "N-345",
-        "N-347",
         "N-2",
         "N-1"
       ]
@@ -2343,8 +2343,8 @@
         "C-2703"
       ],
       "mentions_person_refs": [
-        "N-345",
-        "N-346"
+        "N-343",
+        "N-344"
       ]
     },
     {
@@ -2364,7 +2364,7 @@
       "investigative_direction": "Obtain Marx's military service record (DD-214) and any name-change filing.",
       "transcript_snippet": "his real name is Vaughn Victor Kennedy. Well, he says it's Vaughn.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2384,7 +2384,7 @@
       "investigative_direction": "Check Marx's own published memoir or interviews for these figures.",
       "transcript_snippet": "by the time he was 17, he had lived in 17 homes and attended 14 schools.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2404,8 +2404,8 @@
       "investigative_direction": "Obtain the army service record and the federal case file for Gloyce Dean Kennedy.",
       "transcript_snippet": "his stepfather served in the army and did counterintelligence. And thereafter, he ran an international drug smuggling ring out of Jamaica",
       "mentions_person_refs": [
-        "N-353",
-        "N-345"
+        "N-351",
+        "N-343"
       ]
     },
     {
@@ -2425,7 +2425,7 @@
       "investigative_direction": "Pull the 1987 federal docket and sentencing record by name.",
       "transcript_snippet": "convicted of conspiracy in 1987 for attempting to import 1,400 lb of marijuana from Jamaica.",
       "mentions_person_refs": [
-        "N-353"
+        "N-351"
       ]
     },
     {
@@ -2445,8 +2445,8 @@
       "investigative_direction": "Check the same federal docket for Mike Kennedy's plea agreement and sentence.",
       "transcript_snippet": "He took a plea deal, so he only served a year and a day in exchange for testifying against his stepfather Gloyce.",
       "mentions_person_refs": [
-        "N-732",
-        "N-353"
+        "N-730",
+        "N-351"
       ]
     },
     {
@@ -2466,8 +2466,8 @@
       "investigative_direction": "Ask for the host's sources; check Marx's own books and interviews about his father.",
       "transcript_snippet": "His name was Carl Marx. Okay? And he was a pimp, a drug dealer, and also a world-famous martial arts expert who spent time in a mental hospital for his homicidal tendencies.",
       "mentions_person_refs": [
-        "N-733",
-        "N-345"
+        "N-731",
+        "N-343"
       ]
     },
     {
@@ -2487,7 +2487,7 @@
       "investigative_direction": "Look for contemporaneous newspaper reports or death records matching the host's account.",
       "transcript_snippet": "his grandfather, on his dad's side, killed his grandmother before he turned the gun on himself and committed suicide in public.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2510,7 +2510,7 @@
         "C-2720"
       ],
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2531,7 +2531,7 @@
       "investigative_direction": "Check Marx's testimony and the Calvary Chapel congregation near Pendleton for dates.",
       "transcript_snippet": "he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2551,8 +2551,8 @@
       "investigative_direction": "Check marriage records for the 1988 date.",
       "transcript_snippet": "2 years later, in 1988, he married his wife, Eileen",
       "mentions_person_refs": [
-        "N-345",
-        "N-347"
+        "N-343",
+        "N-345"
       ]
     },
     {
@@ -2572,7 +2572,7 @@
       "investigative_direction": "Check nonprofit registration and IRS filings for All Things Possible Ministries and its founders.",
       "transcript_snippet": "In 2003, he and his brother, who got that light sentence, um who was out of prison now, began All Things Possible Ministries.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2595,7 +2595,7 @@
         "C-6619"
       ],
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2615,9 +2615,9 @@
       "investigative_direction": "Search local police and court records for the incident and its date.",
       "transcript_snippet": "Eileen, his wife's brother, Kenneth, um for some reason, his his brother-in-law tried to shoot him on his own property.",
       "mentions_person_refs": [
-        "N-734",
-        "N-347",
-        "N-345"
+        "N-732",
+        "N-345",
+        "N-343"
       ]
     },
     {
@@ -2637,8 +2637,8 @@
       "investigative_direction": "Check court dockets for any pending case against the named individual; the host states it as a belief.",
       "transcript_snippet": "Eileen's brother would go on to kill his own girlfriend, for which I believe he is currently awaiting trial.",
       "mentions_person_refs": [
-        "N-734",
-        "N-347"
+        "N-732",
+        "N-345"
       ]
     },
     {
@@ -2658,7 +2658,7 @@
       "investigative_direction": "Find the interview or talk in which Marx says this.",
       "transcript_snippet": "he openly admits that he punches holes in the walls of his house about uh once a year",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2678,7 +2678,7 @@
       "investigative_direction": "Find the primary Marx interview or book passage and check its wording.",
       "transcript_snippet": "He also openly states that he himself struggles with suicidal and homicidal tendencies.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2700,8 +2700,8 @@
       "investigative_direction": "Check Fold AR corporate filings for Melody's title.",
       "transcript_snippet": "Melody, my then girlfriend, who earned her place as COO of Fold AR",
       "mentions_person_refs": [
-        "N-346",
-        "N-348"
+        "N-344",
+        "N-346"
       ]
     },
     {
@@ -2723,8 +2723,8 @@
       "investigative_direction": "Ask other manufacturers whether Marx approached them about a signature series.",
       "transcript_snippet": "he was exploring this as well with other much larger manufacturers",
       "mentions_person_refs": [
-        "N-346",
-        "N-345"
+        "N-344",
+        "N-343"
       ]
     },
     {
@@ -2746,9 +2746,9 @@
       "investigative_direction": "Ask Hall for documentation of any 1999 contact; no record is cited on air.",
       "transcript_snippet": "at 16 years old I was briefly falsely identified as a person of interest in the Columbine massacre in 1999 by certain investigative agents.",
       "mentions_person_refs": [
-        "N-346",
-        "N-345",
-        "N-347"
+        "N-344",
+        "N-343",
+        "N-345"
       ]
     },
     {
@@ -2770,9 +2770,9 @@
       "investigative_direction": "Ask Hall for dated messages that describe the vision.",
       "transcript_snippet": "Mr. Marx stated and Mrs. Marx affirmed that she had had a dream and a vision the night before that they would be a part of a greater mission to protect children.",
       "mentions_person_refs": [
-        "N-346",
-        "N-345",
-        "N-347"
+        "N-344",
+        "N-343",
+        "N-345"
       ]
     },
     {
@@ -2794,8 +2794,8 @@
       "investigative_direction": "Check Fold AR and ministry marketing materials for the school resource officer program.",
       "transcript_snippet": "the mission would be to help us to get the Fold AR on the backs of school resource officers around the country.",
       "mentions_person_refs": [
-        "N-346",
-        "N-345"
+        "N-344",
+        "N-343"
       ]
     },
     {
@@ -2817,7 +2817,7 @@
       "investigative_direction": "Review Marx's published teaching materials and videos on retooling prayer and have a qualified third party characterize the practice.",
       "transcript_snippet": "Victor Marx is effectively what he does is he pretends that he is going to summon and then extract information from demons that are inside of you.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -2839,9 +2839,9 @@
       "investigative_direction": "Find SHOT Show 2024 exhibitor materials, photos or press releases for the Fold AR booth.",
       "transcript_snippet": "we released the Victor Marx signature series rifle at the SHOT Show in 2024. The Marxes participated in the release, attending our show booth for several hours each of the four days of the show.",
       "mentions_person_refs": [
-        "N-346",
-        "N-345",
-        "N-347"
+        "N-344",
+        "N-343",
+        "N-345"
       ]
     },
     {
@@ -2863,10 +2863,10 @@
       "investigative_direction": "Find the America First episode and check its date and what was said about Fold AR.",
       "transcript_snippet": "Mr. Marx went on Sebastian Gorka's America First show with Melody to discuss the Fold AR",
       "mentions_person_refs": [
+        "N-344",
+        "N-343",
         "N-346",
-        "N-345",
-        "N-348",
-        "N-648"
+        "N-646"
       ]
     },
     {
@@ -2891,8 +2891,8 @@
         "C-2704"
       ],
       "mentions_person_refs": [
-        "N-346",
-        "N-345"
+        "N-344",
+        "N-343"
       ]
     },
     {
@@ -2914,8 +2914,8 @@
       "investigative_direction": "Ask Hall for dated messages and for names of any investors Marx proposed.",
       "transcript_snippet": "in the first quarter of 2025, Mr. Marx had offered to help find an investor for Fold AR.",
       "mentions_person_refs": [
-        "N-346",
-        "N-345"
+        "N-344",
+        "N-343"
       ]
     },
     {
@@ -2937,7 +2937,7 @@
       "investigative_direction": "Check any term sheet or messages that record the conditions.",
       "transcript_snippet": "The first is that the guns are going to be used for school resource officers. They wanted school security to be the primary and permanent mission.",
       "mentions_person_refs": [
-        "N-346"
+        "N-344"
       ]
     },
     {
@@ -2959,7 +2959,7 @@
       "investigative_direction": "Compare with the $2 million valuation Marx reportedly offered (C-2707).",
       "transcript_snippet": "The second um is that they wanted to have enough money, if they agreed to sell the company, that it would be enough money that they would no longer have to work.",
       "mentions_person_refs": [
-        "N-346"
+        "N-344"
       ]
     },
     {
@@ -2981,9 +2981,9 @@
       "investigative_direction": "Identify Marx's COO and ask him about the hotel meeting and the trip to Haiti.",
       "transcript_snippet": "Mr. Marx and his COO, Chaz Yandle, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests.",
       "mentions_person_refs": [
-        "N-346",
-        "N-345",
-        "N-922"
+        "N-344",
+        "N-343",
+        "N-920"
       ]
     },
     {
@@ -3005,8 +3005,8 @@
       "investigative_direction": "Ask Hall for photos or messages from the three-day visit.",
       "transcript_snippet": "Mr. Marx had a bodyguard near me, and all were wearing bulletproof vests at all times.",
       "mentions_person_refs": [
-        "N-346",
-        "N-345"
+        "N-344",
+        "N-343"
       ]
     },
     {
@@ -3028,8 +3028,8 @@
       "investigative_direction": "Ask Hall to identify the bodyguard and any training records.",
       "transcript_snippet": "I proceeded to train his bodyguard on how to deploy uh the Fold AR.",
       "mentions_person_refs": [
-        "N-346",
-        "N-345"
+        "N-344",
+        "N-343"
       ]
     },
     {
@@ -3054,8 +3054,8 @@
         "C-2708"
       ],
       "mentions_person_refs": [
-        "N-346",
-        "N-345"
+        "N-344",
+        "N-343"
       ]
     },
     {
@@ -3077,8 +3077,8 @@
       "investigative_direction": "Ask Hall for a contemporaneous note of the walk and exchange.",
       "transcript_snippet": "That's why I'm never going to engage in scripture with you.",
       "mentions_person_refs": [
-        "N-346",
-        "N-345"
+        "N-344",
+        "N-343"
       ]
     },
     {
@@ -3103,8 +3103,8 @@
         "C-2709"
       ],
       "mentions_person_refs": [
-        "N-346",
-        "N-345"
+        "N-344",
+        "N-343"
       ]
     },
     {
@@ -3126,8 +3126,8 @@
       "investigative_direction": "Ask Hall for the messages in which Marx made this argument.",
       "transcript_snippet": "He continued on telling me that there is no longer a need for Fold AR in schools.",
       "mentions_person_refs": [
-        "N-346",
-        "N-345"
+        "N-344",
+        "N-343"
       ]
     },
     {
@@ -3171,7 +3171,7 @@
       "investigative_direction": "Obtain ATF's published description of the trace process and whether a trace request is issued only after a crime link is established.",
       "transcript_snippet": "what it means is that they are seeking to identify the first retail purchase of a firearm that they have determined is involved in a crime.",
       "mentions_person_refs": [
-        "N-346"
+        "N-344"
       ]
     },
     {
@@ -3194,7 +3194,7 @@
       "investigative_direction": "Obtain Hall's reply email and the ATF trace case number; file a FOIA request for the trace record.",
       "transcript_snippet": "Corby did, and mysteriously he heard nothing back. There was no follow-up.",
       "mentions_person_refs": [
-        "N-346"
+        "N-344"
       ]
     },
     {
@@ -3217,7 +3217,7 @@
       "investigative_direction": "Identify the deputy and agency; ask the ATF whether it contacted the registered purchaser.",
       "transcript_snippet": "And he picked up the phone, and he said, \"No, no, ATF never never contacted me.\"",
       "mentions_person_refs": [
-        "N-346"
+        "N-344"
       ]
     },
     {
@@ -3240,7 +3240,7 @@
       "investigative_direction": "Check NCIC and Midland police records for a stolen-firearm report on the serial number, via the deputy's agency or a records request.",
       "transcript_snippet": "he had checked some system that he has available and he has access to and that gun is is somehow not even reported as missing.",
       "mentions_person_refs": [
-        "N-346"
+        "N-344"
       ]
     },
     {
@@ -3265,7 +3265,7 @@
         "C-2721"
       ],
       "mentions_person_refs": [
-        "N-346",
+        "N-344",
         "N-3"
       ]
     },
@@ -3354,7 +3354,7 @@
       "investigative_direction": "Find Marx's own statements about these contacts and the context of his hostage-rescue work.",
       "transcript_snippet": "Victor Marx says he dealt with the Taliban. He dealt with ISIS.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -3440,7 +3440,7 @@
       "investigative_direction": "Find Marx's brain-damage statement and the instances of alleged lying the host relies on.",
       "transcript_snippet": "He's got a very checkered background and admits to being brain-damaged and has been caught lying extensively.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -3461,7 +3461,7 @@
       "investigative_direction": "Check the lawsuits and filings against Harvest Christian Fellowship; the host's wording is brief and the entity should be confirmed.",
       "transcript_snippet": "Oh, Greg Laurie, yes, accused of trafficking. Church Harvest Church is being accused of trafficking people from Romania.",
       "mentions_person_refs": [
-        "N-456"
+        "N-454"
       ]
     },
     {
@@ -3482,7 +3482,7 @@
       "transcript_snippet": "even what they tried to do to Brett Cooper. Like you just can't You're not allowed to leave. You just can't leave with your life intact. They're going to have to destroy you.",
       "mentions_person_refs": [
         "N-3",
-        "N-225"
+        "N-223"
       ]
     },
     {
@@ -3544,8 +3544,8 @@
       "investigative_direction": "Identify the account and read the posts; confirm the researcher's name and background.",
       "transcript_snippet": "has done a very good job on both X and on Facebook. Corey Kennedy has done a deep dive into Victor Marx.",
       "mentions_person_refs": [
-        "N-923",
-        "N-345"
+        "N-921",
+        "N-343"
       ]
     },
     {
@@ -3567,8 +3567,8 @@
       "investigative_direction": "Identify the interviews and test the specific factual contradictions against records.",
       "transcript_snippet": "there have been interviews where people have very heavily suggested that Victor Marx is just in fact a compulsive liar.",
       "mentions_person_refs": [
-        "N-345",
-        "N-923"
+        "N-343",
+        "N-921"
       ]
     },
     {
@@ -3589,7 +3589,7 @@
       "investigative_direction": "Watch for a later Hall interview and any ATF reply to the host's inquiry.",
       "transcript_snippet": "I am planning on having Corby Hall on the show to further discuss the gun that mysteriously disappeared.",
       "mentions_person_refs": [
-        "N-346",
+        "N-344",
         "N-3"
       ]
     },

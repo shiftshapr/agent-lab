@@ -501,7 +501,7 @@
           ],
           "related_nodes": [
             "N-10090",
-            "N-156",
+            "N-155",
             "N-3"
           ],
           "tags": [],
@@ -560,7 +560,7 @@
           "related_nodes": [
             "N-10738",
             "N-3",
-            "N-511"
+            "N-509"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -588,7 +588,7 @@
           "related_nodes": [
             "N-1",
             "N-10249",
-            "N-257",
+            "N-255",
             "N-3"
           ],
           "tags": [],
@@ -1077,8 +1077,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-135",
-      "ref": "N-135",
+      "@id": "N-134",
+      "ref": "N-134",
       "name": "Robert Bowles",
       "type": "person",
       "description": "Reported as the individual installed to lead the Utah FBI field office in August 2025 following Kash Patel's purge of prior leadership; described as based in DC for decades and in his first week on the job at the time of the shooting.",
@@ -1096,8 +1096,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -1118,8 +1118,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -1139,11 +1139,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-138",
-      "ref": "N-138",
+      "@id": "N-137",
+      "ref": "N-137",
       "name": "Judge Tony F. Graf Jr.",
       "type": "person",
-      "description": "Judge Tony F. Graph Jr. (wave3 orphan mint).",
+      "description": "Judge Tony F. Graf Jr. (wave3 orphan mint).",
       "related_artifacts": [],
       "related_claims": [
         "C-3073"
@@ -1156,8 +1156,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-382",
+      "ref": "N-382",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Reused; first introduced in episode 15.",
@@ -1173,8 +1173,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-513",
-      "ref": "N-513",
+      "@id": "N-511",
+      "ref": "N-511",
       "name": "Beau Mason",
       "type": "person",
       "description": "First named by the host at 00:08:44 in episode 128. Aliases: Bo Mason, Beau \"Bo\" Mason.",
@@ -1200,8 +1200,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-511",
-      "ref": "N-511",
+      "@id": "N-509",
+      "ref": "N-509",
       "name": "Jennifer Faumuina",
       "type": "person",
       "description": "Named by the host at 00:15:24 in episode 128; first introduced in episode 126.",
@@ -1227,8 +1227,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-515",
-      "ref": "N-515",
+      "@id": "N-513",
+      "ref": "N-513",
       "name": "Misiona Faumuina",
       "type": "person",
       "description": "First named by the host at 00:23:06 in episode 128.",
@@ -1254,8 +1254,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-514",
-      "ref": "N-514",
+      "@id": "N-512",
+      "ref": "N-512",
       "name": "Sapena Faumuina",
       "type": "person",
       "description": "First named by the host at 00:23:06 in episode 128.",
@@ -1280,8 +1280,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-516",
-      "ref": "N-516",
+      "@id": "N-514",
+      "ref": "N-514",
       "name": "Sid Rosen",
       "type": "person",
       "description": "First named by the host at 00:24:14 in episode 128.",
@@ -1545,8 +1545,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-156",
-      "ref": "N-156",
+      "@id": "N-155",
+      "ref": "N-155",
       "name": "Robert J. O'Neill",
       "type": "person",
       "description": "Robert O'Neill; former SEAL sniper interviewed on Newsmax.",
@@ -1569,8 +1569,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-168",
-      "ref": "N-168",
+      "@id": "N-167",
+      "ref": "N-167",
       "name": "Howard Lutnick",
       "type": "person",
       "description": "Howard Lutnick; named in the host's opening remarks.",
@@ -1586,8 +1586,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-211",
+      "ref": "N-211",
       "name": "Joe Kent",
       "type": "person",
       "description": "Joe Kent; named as confirming Charlie's Iran war opposition.",
@@ -1603,8 +1603,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-226",
+      "ref": "N-226",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Shawn Ryan; host of the show on which Turek spoke.",
@@ -1620,8 +1620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-257",
-      "ref": "N-257",
+      "@id": "N-255",
+      "ref": "N-255",
       "name": "Courtney Love",
       "type": "person",
       "description": "Courtney Love; the host relays her Mormon mafia remarks.",
@@ -1638,8 +1638,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-598",
-      "ref": "N-598",
+      "@id": "N-596",
+      "ref": "N-596",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Bret Weinstein; named as confirming Charlie's Iran war opposition.",
@@ -1655,8 +1655,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-614",
-      "ref": "N-614",
+      "@id": "N-612",
+      "ref": "N-612",
       "name": "Graham Allen",
       "type": "person",
       "description": "Graham Allen; one of the influencers the host says received sharp footage.",
@@ -1672,8 +1672,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-696",
-      "ref": "N-696",
+      "@id": "N-694",
+      "ref": "N-694",
       "name": "Curtis Kolvet",
       "type": "person",
       "description": "Curtis Kolvet; reused for Andrew Kolvet's brother, a lieutenant colonel (the transcript says only Lieutenant Colonel Kolvet).",
@@ -2170,8 +2170,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-953",
-      "ref": "N-953",
+      "@id": "N-951",
+      "ref": "N-951",
       "name": "Itamar Ben-Gvir",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 128, as 'Ben Gvir'.",
@@ -2187,8 +2187,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-954",
-      "ref": "N-954",
+      "@id": "N-952",
+      "ref": "N-952",
       "name": "Blaine Holt",
       "type": "person",
       "description": "Air Force Brigadier General who joined Robert O'Neill on Newsmax; first named by the host at 00:04:42 in episode 128.",
@@ -2283,9 +2283,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-137",
-      "ref": "N-137",
-      "name": "Andrew Zanger",
+      "@id": "N-136",
+      "ref": "N-136",
+      "name": "Andrew Zenger",
       "type": "person",
       "description": "Andrew Zenger; Timpanogos CEO whose BYU and Jerusalem history the host discusses.",
       "related_artifacts": [],
@@ -2372,7 +2372,7 @@
       "mentions_person_refs": [
         "N-41",
         "N-69",
-        "N-513"
+        "N-511"
       ]
     },
     {
@@ -2392,7 +2392,7 @@
       "investigative_direction": "Compare the publicly released footage metadata against Bongino's \"grainy\" characterization and review any subsequent enhanced-release footage for consistency.",
       "mentions_person_refs": [
         "N-46",
-        "N-384"
+        "N-382"
       ]
     },
     {
@@ -2411,7 +2411,7 @@
       "claim_timestamp": "00:16:37",
       "investigative_direction": "Confirm the Netflix episode metadata, Faumuina's on-screen identification, and the period of her JTTF assignment against official FBI or Utah SBI records.",
       "mentions_person_refs": [
-        "N-511"
+        "N-509"
       ]
     },
     {
@@ -2428,10 +2428,10 @@
       "claim_timestamp": "00:17:38",
       "investigative_direction": "Identify the specific school and roster, and cross-reference yearbook or athletics records.",
       "mentions_person_refs": [
-        "N-513",
         "N-511",
-        "N-515",
-        "N-514"
+        "N-509",
+        "N-513",
+        "N-512"
       ]
     },
     {
@@ -2448,10 +2448,10 @@
       "claim_timestamp": "00:17:38",
       "investigative_direction": "Confirm against Weber State graduation records or alumni listings.",
       "mentions_person_refs": [
-        "N-513",
         "N-511",
-        "N-515",
-        "N-514"
+        "N-509",
+        "N-513",
+        "N-512"
       ]
     },
     {
@@ -2468,10 +2468,10 @@
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Verify through DPS academy records and class photographs.",
       "mentions_person_refs": [
-        "N-513",
         "N-511",
-        "N-515",
-        "N-514"
+        "N-509",
+        "N-513",
+        "N-512"
       ]
     },
     {
@@ -2488,10 +2488,10 @@
       "claim_timestamp": "00:18:29",
       "investigative_direction": "Confirm the original article, deployment list, and credentialing records.",
       "mentions_person_refs": [
-        "N-513",
         "N-511",
-        "N-515",
-        "N-514"
+        "N-509",
+        "N-513",
+        "N-512"
       ]
     },
     {
@@ -2508,10 +2508,10 @@
       "claim_timestamp": "00:18:29",
       "investigative_direction": "Request Utah state salary records to verify employment dates and rank progression.",
       "mentions_person_refs": [
-        "N-513",
         "N-511",
-        "N-515",
-        "N-514"
+        "N-509",
+        "N-513",
+        "N-512"
       ]
     },
     {
@@ -2528,10 +2528,10 @@
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Verify the photograph and underlying academy/class record.",
       "mentions_person_refs": [
-        "N-513",
         "N-511",
-        "N-515",
-        "N-514"
+        "N-509",
+        "N-513",
+        "N-512"
       ]
     },
     {
@@ -2548,10 +2548,10 @@
       "claim_timestamp": "00:20:19",
       "investigative_direction": "Confirm the date and ceremony through Utah DPS press releases.",
       "mentions_person_refs": [
-        "N-513",
         "N-511",
-        "N-515",
-        "N-514"
+        "N-509",
+        "N-513",
+        "N-512"
       ]
     },
     {
@@ -2571,8 +2571,8 @@
       "investigative_direction": "Verify appointment through the official Utah governor's office announcement or Senate confirmation record.",
       "mentions_person_refs": [
         "N-41",
-        "N-513",
-        "N-511"
+        "N-511",
+        "N-509"
       ]
     },
     {
@@ -2591,7 +2591,7 @@
       "claim_timestamp": "00:21:14",
       "investigative_direction": "Confirm via hospital press releases and board minutes.",
       "mentions_person_refs": [
-        "N-137"
+        "N-136"
       ]
     },
     {
@@ -2610,7 +2610,7 @@
       "claim_timestamp": "00:21:14",
       "investigative_direction": "Verify the appointment date, court, and appointing authority.",
       "mentions_person_refs": [
-        "N-138"
+        "N-137"
       ]
     },
     {
@@ -2629,7 +2629,7 @@
       "claim_timestamp": "00:21:14",
       "investigative_direction": "Confirm via FBI press releases and internal personnel announcements.",
       "mentions_person_refs": [
-        "N-135"
+        "N-134"
       ]
     },
     {
@@ -2646,7 +2646,7 @@
       "claim_timestamp": "00:22:12",
       "investigative_direction": "Cross-reference Provo PD rosters and 2004 article content.",
       "mentions_person_refs": [
-        "N-135"
+        "N-134"
       ]
     },
     {
@@ -2663,10 +2663,10 @@
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Obtain original Honolulu-area news archives and Hawaii court records for the criminal case.",
       "mentions_person_refs": [
-        "N-513",
         "N-511",
-        "N-515",
-        "N-514"
+        "N-509",
+        "N-513",
+        "N-512"
       ]
     },
     {
@@ -2683,9 +2683,9 @@
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Retrieve original newspaper articles and any LDS Church ward records.",
       "mentions_person_refs": [
-        "N-511",
-        "N-515",
-        "N-514"
+        "N-509",
+        "N-513",
+        "N-512"
       ]
     },
     {
@@ -2702,8 +2702,8 @@
       "claim_timestamp": "00:25:35",
       "investigative_direction": "Verify the organization and Rosen's role through Hawaii nonprofit filings.",
       "mentions_person_refs": [
-        "N-515",
-        "N-516"
+        "N-513",
+        "N-514"
       ]
     },
     {
@@ -2722,7 +2722,7 @@
       "claim_timestamp": "00:31:07",
       "investigative_direction": "Obtain the unedited podcast audio and any hospital records documenting arrival time, condition, and treatment.",
       "mentions_person_refs": [
-        "N-270",
+        "N-268",
         "N-7"
       ]
     },
@@ -2743,7 +2743,7 @@
       "claim_timestamp": "00:36:56",
       "investigative_direction": "Compare both statements against travel itineraries, expense reports, and credit card records.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2762,7 +2762,7 @@
       "claim_timestamp": "00:36:56",
       "investigative_direction": "Cross-check with travel booking records, expense reports, and any hotel worker testimony.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -2799,7 +2799,7 @@
       "investigative_direction": "Locate the public statements or posts by Ben-Gvir and Netanyahu about the match and confirm which team they backed.",
       "transcript_snippet": "having them explicitly come out and say that they were rooting uh for that team to win was not helpful.",
       "mentions_person_refs": [
-        "N-953",
+        "N-951",
         "N-36",
         "N-3"
       ]
@@ -2819,7 +2819,7 @@
       "investigative_direction": "Identify what involvement by Lutnick and Trump with the team the host means and find contemporaneous coverage.",
       "transcript_snippet": "But as soon as the corrupt Howard Lutnick and President Trump got involved and 9/11 crew getting back together, they stuck their noses in it.",
       "mentions_person_refs": [
-        "N-168",
+        "N-167",
         "N-5",
         "N-3"
       ]
@@ -2847,7 +2847,7 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-696",
+        "N-694",
         "N-3"
       ]
     },
@@ -2870,7 +2870,7 @@
       "investigative_direction": "Compare with the UVU and bystander video of the first minute after the shot, and ask O'Neill for his source on the SIM card and camera removal.",
       "transcript_snippet": "The just the fact that no one started doing first aid to Charlie Kirk, they were more concerned about getting SIM cards out of cameras, removing cameras, and then getting him off the X somehow.",
       "mentions_person_refs": [
-        "N-156",
+        "N-155",
         "N-1"
       ]
     },
@@ -2896,7 +2896,7 @@
         "C-1386"
       ],
       "mentions_person_refs": [
-        "N-156",
+        "N-155",
         "N-1"
       ]
     },
@@ -2917,7 +2917,7 @@
       "investigative_direction": "Review Erika Kirk's memorial remarks about forgiving the accused and the dates she criticized the host.",
       "transcript_snippet": "she's really quick to forgive the alleged shooter, which technically says that was him cuz I forgive him",
       "mentions_person_refs": [
-        "N-156",
+        "N-155",
         "N-2",
         "N-3",
         "N-40"
@@ -2942,8 +2942,8 @@
       "investigative_direction": "Ask Holt what he saw that supports an explosion and compare with the autopsy and wound descriptions.",
       "transcript_snippet": "Absolutely not. I I I I'm with Rob. Something exploded on him.",
       "mentions_person_refs": [
-        "N-954",
-        "N-156",
+        "N-952",
+        "N-155",
         "N-1"
       ]
     },
@@ -2966,8 +2966,8 @@
       "investigative_direction": "Pin down the time between the shooting and the first DOJ or FBI public attribution of the suspect.",
       "transcript_snippet": "the garbage that was foisted upon us from the Justice Department that day where they seemingly solved the case in about eight hot seconds.",
       "mentions_person_refs": [
-        "N-954",
-        "N-156"
+        "N-952",
+        "N-155"
       ]
     },
     {
@@ -2989,8 +2989,8 @@
       "investigative_direction": "Review Robinson's firearms and hunting history in the charging documents.",
       "transcript_snippet": "You're not going to take a.30-06 with a kid who's never killed anybody up onto a roof.",
       "mentions_person_refs": [
-        "N-954",
-        "N-156",
+        "N-952",
+        "N-155",
         "N-40"
       ]
     },
@@ -3085,7 +3085,7 @@
         "C-1243"
       ],
       "mentions_person_refs": [
-        "N-156",
+        "N-155",
         "N-3"
       ]
     },
@@ -3157,7 +3157,7 @@
       "mentions_person_refs": [
         "N-46",
         "N-69",
-        "N-384"
+        "N-382"
       ]
     },
     {
@@ -3179,7 +3179,7 @@
       "investigative_direction": "Review Bongino's other September 15 appearance for what he withheld and the reason he gave.",
       "transcript_snippet": "I was a little hesitant in a media appearance this morning to go into specifics on uh especially the video and where the gun was",
       "mentions_person_refs": [
-        "N-384",
+        "N-382",
         "N-46"
       ]
     },
@@ -3202,7 +3202,7 @@
       "investigative_direction": "Establish when Bongino visited the roof and which camera he meant.",
       "transcript_snippet": "on that roof in that corner. And when you see the camera in the distance away, it's clearly not the best video.",
       "mentions_person_refs": [
-        "N-384"
+        "N-382"
       ]
     },
     {
@@ -3223,7 +3223,7 @@
       "transcript_snippet": "that 4K HD 4D chest super duper crystal clear overwhelming footage that was made available to Benny Johnson, Graham Allen, and his wife 10 months later and some other influencers?",
       "mentions_person_refs": [
         "N-89",
-        "N-614",
+        "N-612",
         "N-3"
       ]
     },
@@ -3358,7 +3358,7 @@
       "investigative_direction": "Obtain the evidence log showing who recovered the backpack, gloves and jacket and when.",
       "transcript_snippet": "And those items, as we learned, were then recovered um by Sergeant Cha- Sergeant Jennifer Faumuina of the State Bureau of Investigations, her office.",
       "mentions_person_refs": [
-        "N-511",
+        "N-509",
         "N-3"
       ]
     },
@@ -3379,7 +3379,7 @@
       "investigative_direction": "Pull Faumuina's testimony or interview where she said she did not recall and the evidence-handling forms.",
       "transcript_snippet": "Oh, you don't recall whether you signed off on the FBI not testing a backpack, gloves, potential tactical gear that were abandoned upon the exact path that the shooter ran.",
       "mentions_person_refs": [
-        "N-511",
+        "N-509",
         "N-3"
       ]
     },
@@ -3402,7 +3402,7 @@
       "investigative_direction": "Check Weber State alumni and institutional history for Faumuina and the school's founding by the LDS church.",
       "transcript_snippet": "she moved to Ogden, Utah where she studied studied criminal justice graduating from Weber State University which was founded by the Mormon Church",
       "mentions_person_refs": [
-        "N-511",
+        "N-509",
         "N-3"
       ]
     },
@@ -3425,7 +3425,7 @@
       "investigative_direction": "Request Utah DPS employment history and certification records for Faumuina for 2013–2018.",
       "transcript_snippet": "it is the only one that we can find that confirms that she was a state trooper.",
       "mentions_person_refs": [
-        "N-511",
+        "N-509",
         "N-3"
       ]
     },
@@ -3446,7 +3446,7 @@
       "investigative_direction": "Request Weber State employment records and Utah POST certifications for Faumuina.",
       "transcript_snippet": "We couldn't find an article that mentions her before 2018 either aside from that. Instead she appears to be working some sort of a part-time gig at Weber State University.",
       "mentions_person_refs": [
-        "N-511",
+        "N-509",
         "N-3"
       ]
     },
@@ -3469,7 +3469,7 @@
       "investigative_direction": "Check the Utah state salary database for Faumuina's pay and rank by year.",
       "transcript_snippet": "in 2018 like I said we have her officially working for the Utah Department of Public Safety and she is paid very well.",
       "mentions_person_refs": [
-        "N-511",
+        "N-509",
         "N-3"
       ]
     },
@@ -3539,7 +3539,7 @@
         "C-1329"
       ],
       "mentions_person_refs": [
-        "N-135",
+        "N-134",
         "N-69",
         "N-3"
       ]
@@ -3563,7 +3563,7 @@
       "investigative_direction": "Check FBI biographies and press releases for Bowles's career postings.",
       "transcript_snippet": "he had a very long tenure up into that moment with the FBI all over the United States for almost 20 years.",
       "mentions_person_refs": [
-        "N-135",
+        "N-134",
         "N-3"
       ]
     },
@@ -3586,7 +3586,7 @@
       "investigative_direction": "Identify the podcast and the date of the appearance.",
       "transcript_snippet": "She revealed that her sister was a social worker within the state of Utah.",
       "mentions_person_refs": [
-        "N-511",
+        "N-509",
         "N-3"
       ]
     },
@@ -3609,7 +3609,7 @@
       "investigative_direction": "Obtain Hawaii court records for the 1995 case and the charges and outcomes.",
       "transcript_snippet": "the three kids that were involved got charged with like second-degree manslaughter.",
       "mentions_person_refs": [
-        "N-515",
+        "N-513",
         "N-3"
       ]
     },
@@ -3632,8 +3632,8 @@
       "investigative_direction": "Retrieve the article and any Hawaii nonprofit filings for Adult Friends for Youth.",
       "transcript_snippet": "the brother was a member of this or part of this adult friends for youth which is run by Sid Rosen.",
       "mentions_person_refs": [
-        "N-515",
-        "N-516",
+        "N-513",
+        "N-514",
         "N-3"
       ]
     },
@@ -3656,7 +3656,7 @@
       "investigative_direction": "Ask the host for the basis of the Egypt and Israel connection and test it against public records on Rosen. (Stated by the host as a hypothetical she does not develop.)",
       "transcript_snippet": "That Sid Rosen character, if I told you he was connected to Egypt and Israel, you wouldn't even believe me, so I'll skip that portion.",
       "mentions_person_refs": [
-        "N-516",
+        "N-514",
         "N-3"
       ]
     },
@@ -3679,8 +3679,8 @@
       "investigative_direction": "Locate the later articles and the father's quoted words.",
       "transcript_snippet": "In later articles, Jennifer's father would claim that the the gang was upset because he was going on his Mormon mission.",
       "mentions_person_refs": [
-        "N-514",
-        "N-515",
+        "N-512",
+        "N-513",
         "N-3"
       ]
     },
@@ -3703,8 +3703,8 @@
       "investigative_direction": "Retrieve the 1995 and later articles with the ward members' and brother's statements.",
       "transcript_snippet": "The ward members would speak out denying that he was in a gang, which is rather curious because his older brother is not denying it saying he fell into trouble, whatever.",
       "mentions_person_refs": [
-        "N-515",
-        "N-514",
+        "N-513",
+        "N-512",
         "N-3"
       ]
     },
@@ -3730,7 +3730,7 @@
         "C-1705"
       ],
       "mentions_person_refs": [
-        "N-257",
+        "N-255",
         "N-1",
         "N-3"
       ]
@@ -3754,7 +3754,7 @@
       "investigative_direction": "Ask the host to release the Love messages or describe which statements she means.",
       "transcript_snippet": "And I go back now and I read those messages and I'm going, she knew exactly what she was talking about, I think.",
       "mentions_person_refs": [
-        "N-257",
+        "N-255",
         "N-3"
       ]
     },
@@ -3823,7 +3823,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-270"
+        "N-268"
       ]
     },
     {
@@ -3873,7 +3873,7 @@
       "transcript_snippet": "Now, maybe as we're yanking and banking into the into the uh into the parking lot Brian was preoccupied thinking or talking to somebody else or whatever",
       "mentions_person_refs": [
         "N-7",
-        "N-270"
+        "N-268"
       ]
     },
     {
@@ -3896,7 +3896,7 @@
       "transcript_snippet": "In fact, he's got a lawsuit against Candace Owens right now. So, I don't think he can even talk about any of this.",
       "mentions_person_refs": [
         "N-7",
-        "N-270",
+        "N-268",
         "N-3"
       ]
     },
@@ -3920,7 +3920,7 @@
         "C-2968"
       ],
       "mentions_person_refs": [
-        "N-270",
+        "N-268",
         "N-3"
       ]
     },
@@ -3969,7 +3969,7 @@
       "transcript_snippet": "You just spoke for 3 hours on the Shawn Ryan show.",
       "mentions_person_refs": [
         "N-7",
-        "N-228"
+        "N-226"
       ]
     },
     {
@@ -3992,7 +3992,7 @@
       "investigative_direction": "Obtain the TPUSA group booking, folio or expense records for September 10.",
       "transcript_snippet": "The entire Turning Point team stayed in Salt Lake City.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -4015,7 +4015,7 @@
       "investigative_direction": "Obtain the first interview recording or notes and compare with the second.",
       "transcript_snippet": "The first time I talked to you, you said you spent the night in Orem. You stayed at a hotel. You may have left the hotel once for food.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -4037,7 +4037,7 @@
       "investigative_direction": "Compare with Neff's flight and return travel records for September 10 and 11.",
       "transcript_snippet": "I interpreted as, \"Did you stay in Utah that night?\" as opposed to returning to Phoenix, where I live.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -4059,7 +4059,7 @@
       "investigative_direction": "Get TPUSA's lodging list for the trip and the hotel's guest records through legal process.",
       "transcript_snippet": "We were all in to my knowledge the basic the same hotel, and it was I think in Salt Lake.",
       "mentions_person_refs": [
-        "N-162"
+        "N-161"
       ]
     },
     {
@@ -4103,7 +4103,7 @@
       "investigative_direction": "Obtain the flight manifest and TPUSA's travel list for September 9 and 10.",
       "transcript_snippet": "But he flew with Charlie, but we know that he didn't go, and other Turning Point staffers also flew into Salt Lake City.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-1",
         "N-3"
       ]
@@ -4232,7 +4232,7 @@
       "transcript_snippet": "No one has ever accused Andrew Kolvet as at being as being at Fort Huachuca. No one ever accused his brother.",
       "mentions_person_refs": [
         "N-14",
-        "N-696",
+        "N-694",
         "N-3"
       ]
     },
@@ -4256,7 +4256,7 @@
       "transcript_snippet": "And two of those days were travel days as I visited my military police unit training with the base military police from Huachuca.",
       "mentions_person_refs": [
         "N-14",
-        "N-696"
+        "N-694"
       ]
     },
     {
@@ -4481,7 +4481,7 @@
         "C-3058"
       ],
       "mentions_person_refs": [
-        "N-156",
+        "N-155",
         "N-1",
         "N-3"
       ]
@@ -4643,8 +4643,8 @@
       ],
       "mentions_person_refs": [
         "N-22",
-        "N-598",
-        "N-213",
+        "N-596",
+        "N-211",
         "N-1",
         "N-3"
       ]
@@ -4878,7 +4878,7 @@
         {
           "episode": 128,
           "video_timestamp": "00:03:29",
-          "speaker_node_ref": "N-156",
+          "speaker_node_ref": "N-155",
           "quote": "Yeah, I'm a I'm a SEAL Team 6 sniper. I'm asking a lot of questions.",
           "context": "O'Neill turns the mocking 'just asking questions' line on his critics.",
           "confidence": "high",

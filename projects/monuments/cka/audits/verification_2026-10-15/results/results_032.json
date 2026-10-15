@@ -1,0 +1,811 @@
+[
+ {
+  "claim": "C-12228",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12229",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no one but the host ('a person'); Mikey McCoy (N-194) is not named or clearly referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-12230",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie, Erika and the host; Mikey McCoy (N-194) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-12231",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12232",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Blake Lively/Baldoni lawsuit is unrelated to the assassination; used only as an analogy. Tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12233",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12234",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12235",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12236",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: 'which seems to me to be that there has been a military infiltration' - hedge dropped; 'justify it' not 'their line'. Frank Turek (N-7) is not named in the claim.",
+  "fix": {
+   "claim": "The host says it seems to her that there has been a military infiltration into the churches, which she has termed Operation Mocking Pastor, where they just try to find some scripture and justify it.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-12237",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12238",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12239",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12240",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12241",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Brigitte Macron photo/identity allegations do not bear on the assassination; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12242",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Macron photos allegation; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12243",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12244",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12245",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": true,
+  "note": "Claim does not name Brigitte Macron (N-82); 'the name change' is unspecified. Macron tax-record story is tangential to the assassination.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ],
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12246",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Macron tax-record story; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12247",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Macron allegation; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12248",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12249",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Macron lawsuit; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12250",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Macron lawsuit; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12251",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": true,
+  "note": "Claim says only 'the case'; Brigitte Macron (N-82) is not named. Macron lawsuit is tangential.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ],
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12252",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12253",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12254",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's husband's past donations: private individual's personal life, not about the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12255",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12256",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12257",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12258",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12259",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12260",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'everything that we discussed, I hate that he was right about his life'. 'about his dreams' is not said.",
+  "fix": {
+   "claim": "The host says she hates that Charlie was right about his life, in context of everything she and Charlie had discussed."
+  }
+ },
+ {
+  "claim": "C-12261",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1514",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1515",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host reads a 2021 version of the Wikipedia page ('Here it is in 2021'); claim states it as bare fact rather than as what the host shows.",
+  "fix": {
+   "claim": "Per the TPUSA Wikipedia article the host shows, before the September 11, 2025 update it contained a long-standing section (a 2021 version, which she reads) stating that Charlie Kirk founded TPUSA Faith, with no mention of Rob McCoy."
+  }
+ },
+ {
+  "claim": "C-1516",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Not attributed to the host; host says the second citations are 'September 10th, September 2025', garbled.",
+  "fix": {
+   "claim": "The host says the citation used in the updated Wikipedia entry to support the assertion that Rob McCoy was co-founder and co-chairman of TPUSA Faith points to an article dated November 24, 2024, and that the second citations used are dated September 2025 (September 10th)."
+  }
+ },
+ {
+  "claim": "C-1517",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1518",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'only one tweet that we could find to that effect' after a Truth Social search. Claim states it as the only such post, dropping the hedge and the host's search.",
+  "fix": {
+   "claim": "The host says her team searched Truth Social for Trump posts calling for further investigation into Charlie Kirk's murder and found only one, which she says is not a call for an investigation into the murder but asks why Turning Point was under investigation by Jack Smith and the Biden administration."
+  }
+ },
+ {
+  "claim": "C-1519",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Joe Kent and Tulsi Gabbard but Mentions omits N-213, N-333. Host summarizes a NYT headline ('apparently alarmed'); 'foreign involvement' is her own gloss ('maybe people overseas were involved').",
+  "fix": {
+   "claim": "The host says a New York Times headline the day before concerned how upset Kash Patel was when he received an inquiry from Joe Kent, of Tulsi Gabbard's office, about details of the Charlie Kirk investigation, which apparently alarmed Patel; she suggests they were asking whether people overseas were involved.",
+   "mentions": [
+    "N-1",
+    "N-69",
+    "N-213",
+    "N-333"
+   ]
+  }
+ },
+ {
+  "claim": "C-1520",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'apparently', 'Trump officials', 'I think it said JD Vance was in this meeting'. Claim lacks host attribution; Mentions omits Joe Kent (N-213) and Tulsi Gabbard (N-333).",
+  "fix": {
+   "claim": "The host says that, after the inquiry, Kash Patel apparently held a meeting with Susie Wiles, Joe Kent, Tulsi Gabbard and Trump officials, that she thinks it said JD Vance was also in the meeting, and that nothing was accomplished.",
+   "mentions": [
+    "N-132",
+    "N-69",
+    "N-4",
+    "N-213",
+    "N-333"
+   ]
+  }
+ },
+ {
+  "claim": "C-1521",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1522",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Kelly asks the question at ~33:21 and Don Jr says 'I do have confidence' at ~34:10-34:27; claim stamp 32:12 is ~2 minutes early.",
+  "fix": {
+   "timestamp": "00:34:10"
+  }
+ },
+ {
+  "claim": "C-1523",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Don Trump Jr. (N-33) and Kirk (N-1) but Mentions lists only N-46 Megyn Kelly (who is also referred to).",
+  "fix": {
+   "mentions": [
+    "N-33",
+    "N-46",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1524",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'one of the advisers put on the board of advisory' at ~9:30; Liberty University remark ~4:30. Claim stamp 3:03 is 90+ s early; 'offered as the basis' is the claim's gloss.",
+  "fix": {
+   "claim": "The host asserts that Rob McCoy was not the founder or co-founder of TPUSA Faith but one of the advisers put on its advisory board; she says the idea for TPUSA Faith came from conversations with pastors back at Liberty University, which she was there for.",
+   "timestamp": "00:09:28"
+  }
+ },
+ {
+  "claim": "C-1525",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host asks Don Jr, a hunter, to make a video saying Charlie was shot in the neck with a .30-06 that his neck stopped: 'You won't say that because it's untrue' (~37:50). Stamp 35:31 is ~2 min early; Mentions lists N-46 not named and omits N-33.",
+  "fix": {
+   "claim": "The host asks Don Trump Jr., as a hunter, to make a video saying he believes Charlie was shot in the neck with a .30-06 that his neck stopped while remaining intact, and says he will not say that because it is untrue.",
+   "mentions": [
+    "N-33",
+    "N-1"
+   ],
+   "timestamp": "00:37:35"
+  }
+ },
+ {
+  "claim": "C-1526",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Clip: 'billionaire class of Jewish supremacists... silence not just criticism of Jews, but silence criticism of an ongoing genocide' (dropped). Trailer plays at ~40:58-41:30; stamp 39:19 is ~100 s early.",
+  "fix": {
+   "claim": "In a trailer for an upcoming interview with the host, Norman Finkelstein is shown saying The Economist described Gaza as 'a human rubbish heap' and the leading UN official on Gaza described it as 'a toxic dump for the people of Israel', and asserting that a billionaire class of Jewish supremacists is flagrantly using money as a blackmail weapon to silence not just criticism of Jews but criticism of an ongoing genocide.",
+   "timestamp": "00:40:50"
+  }
+ },
+ {
+  "claim": "C-6512",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'That's my memory. Charlie told me that story multiple times.' Hedge dropped.",
+  "fix": {
+   "claim": "The host says that, from her memory, as a child Charlie Kirk was so hyperactive that doctors wanted to put him on ADHD medicine, that his parents refused and sent him to a school for the gifted, and that Charlie told her this story multiple times."
+  }
+ },
+ {
+  "claim": "C-6513",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6514",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6515",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6516",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6517",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6518",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6519",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6520",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6521",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6522",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6523",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6524",
+  "episode": 21,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

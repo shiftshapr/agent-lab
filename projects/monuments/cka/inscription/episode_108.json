@@ -31,7 +31,7 @@
             "C-4216"
           ],
           "related_nodes": [
-            "N-345",
+            "N-343",
             "N-3"
           ],
           "tags": [],
@@ -60,7 +60,7 @@
             "C-4220"
           ],
           "related_nodes": [
-            "N-345",
+            "N-343",
             "N-3",
             "N-1",
             "N-7"
@@ -81,7 +81,7 @@
             "C-4229"
           ],
           "related_nodes": [
-            "N-345",
+            "N-343",
             "N-2"
           ],
           "tags": [],
@@ -99,7 +99,7 @@
             "C-4230"
           ],
           "related_nodes": [
-            "N-345",
+            "N-343",
             "N-2",
             "N-10942"
           ],
@@ -154,8 +154,8 @@
             "C-4227"
           ],
           "related_nodes": [
-            "N-345",
-            "N-270",
+            "N-343",
+            "N-268",
             "N-10651"
           ],
           "tags": [],
@@ -227,7 +227,7 @@
             "C-4243"
           ],
           "related_nodes": [
-            "N-643",
+            "N-641",
             "N-10944"
           ],
           "tags": [],
@@ -382,8 +382,8 @@
             "C-4260"
           ],
           "related_nodes": [
-            "N-272",
-            "N-149"
+            "N-270",
+            "N-148"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -400,7 +400,7 @@
             "C-4261"
           ],
           "related_nodes": [
-            "N-149"
+            "N-148"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -417,8 +417,8 @@
             "C-4262"
           ],
           "related_nodes": [
-            "N-272",
-            "N-149"
+            "N-270",
+            "N-148"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -461,7 +461,7 @@
             "C-4264"
           ],
           "related_nodes": [
-            "N-345",
+            "N-343",
             "N-14",
             "N-10622"
           ],
@@ -710,8 +710,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-149",
-      "ref": "N-149",
+      "@id": "N-148",
+      "ref": "N-148",
       "name": "Theo Von",
       "type": "person",
       "description": "Subject of Joe Rogan's remarks about SSRI use and his mental state; responded that the clip was \"mostly cap.\"",
@@ -734,8 +734,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Named by the host as having had Charlie Kirk's laptop.",
@@ -751,8 +751,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-212",
-      "ref": "N-212",
+      "@id": "N-210",
+      "ref": "N-210",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "The host says he and TPUSA faith-adjacent figures were among the first to say Charlie Kirk had died and that Israel knew first.",
@@ -768,8 +768,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Transcript spellings \"Bryan Harpold\" and \"Brian Harpole\". Head of Charlie Kirk's security team and plaintiff suing the host for defamation; the host seeks Marx's communications with the security team.",
@@ -789,8 +789,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-270",
+      "ref": "N-270",
       "name": "Joe Rogan",
       "type": "person",
       "description": "His comments about Theo Von drew backlash; he later recorded an apology, which the host praises.",
@@ -813,8 +813,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Dan Flood",
       "type": "person",
       "description": "Named only as \"Dan\" alongside Brian Harpole when the host speculates about the security team's communications with Marx.",
@@ -830,8 +830,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-345",
-      "ref": "N-345",
+      "@id": "N-343",
+      "ref": "N-343",
       "name": "Victor Marx",
       "type": "person",
       "description": "Transcript spellings \"Victor Mark\" and \"Victor March\". Colorado gubernatorial candidate interviewed the day before. His early, later-deleted post announcing Charlie Kirk's death, his text to Erika Kirk and his team's takeover of security are scrutinized; the host has sent him a preservation letter.",
@@ -868,8 +868,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-347",
-      "ref": "N-347",
+      "@id": "N-345",
+      "ref": "N-345",
       "name": "Eileen Marx",
       "type": "person",
       "description": "Victor Marx's wife; the host says she mentors Erika Kirk.",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-587",
-      "ref": "N-587",
+      "@id": "N-585",
+      "ref": "N-585",
       "name": "Thomas Massie",
       "type": "person",
       "description": "The host opens by noting he lost in Kentucky.",
@@ -902,8 +902,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-643",
-      "ref": "N-643",
+      "@id": "N-641",
+      "ref": "N-641",
       "name": "Kouri Richins",
       "type": "person",
       "description": "First named by the host at 00:24:28 in episode 108. Utah widow whom the host says was found guilty of murdering her husband after writing a children's book on grief. Transcript spelling \"Kouri D. Richins\".",
@@ -928,8 +928,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-644",
-      "ref": "N-644",
+      "@id": "N-642",
+      "ref": "N-642",
       "name": "Eric Richins",
       "type": "person",
       "description": "First named by the host at 00:26:29 in episode 108. Kouri Richins's husband, who the host says covertly transferred his estate to his sister before he was killed. Transcript spelling \"Eric Richens\".",
@@ -949,8 +949,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-645",
-      "ref": "N-645",
+      "@id": "N-643",
+      "ref": "N-643",
       "name": "Ed Gallrein",
       "type": "person",
       "description": "First named by the host at 00:52:19 in episode 108. Named in the comments as a candidate the host calls embarrassing, with no crowd at his victory party. Kept in the transcript spelling (see Optional Flags).",
@@ -1386,8 +1386,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-587",
-        "N-645"
+        "N-585",
+        "N-643"
       ]
     },
     {
@@ -1409,7 +1409,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-345",
+        "N-343",
         "N-2"
       ]
     },
@@ -1460,8 +1460,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-643",
-        "N-644"
+        "N-641",
+        "N-642"
       ]
     },
     {
@@ -1503,7 +1503,7 @@
       "investigative_direction": "Check the certified Kentucky Republican primary results for Massie's congressional district in May 2026.",
       "transcript_snippet": "I know some people are not feeling too happy today because Thomas Massie lost in Kentucky.",
       "mentions_person_refs": [
-        "N-587"
+        "N-585"
       ]
     },
     {
@@ -1523,8 +1523,8 @@
       "investigative_direction": "Check the Harpole v. Owens docket and counsel correspondence for the preservation letters and their recipients.",
       "transcript_snippet": "the fallout from Victor Marx's interview yesterday is trending all across social media, and it inspired me to send out a few preservation letters in my ongoing lawsuit with Bryan Harpold.",
       "mentions_person_refs": [
-        "N-345",
-        "N-270",
+        "N-343",
+        "N-268",
         "N-3"
       ]
     },
@@ -1543,7 +1543,7 @@
       "investigative_direction": "Retrieve Victor Marx's X post of May 19–20, 2026 and its timestamp.",
       "transcript_snippet": "What I would say is for those of you who said Victor doesn't debate, that was a 1-hour no moderator debate.",
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-3"
       ]
     },
@@ -1562,7 +1562,7 @@
       "investigative_direction": "Compare public polling for the 2026 Colorado gubernatorial primary with the dates of the earliest public allegations about Marx.",
       "transcript_snippet": "Uh look, all of this has started only because I entered into the political realm. Period. And uh and because I'm winning the governor's race.",
       "mentions_person_refs": [
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -1585,7 +1585,7 @@
         "C-3702"
       ],
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-1",
         "N-5",
         "N-2",
@@ -1609,7 +1609,7 @@
       "investigative_direction": "Obtain the text message and sender identity from Marx's phone records via subpoena.",
       "transcript_snippet": "I I had someone text me and he said, \"My son is at Charlie's event and Charlie was just shot.",
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-1"
       ]
     },
@@ -1633,7 +1633,7 @@
         "C-3713"
       ],
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-1"
       ]
     },
@@ -1654,7 +1654,7 @@
       "investigative_direction": "Obtain Instagram deletion metadata for the post and any archived copies.",
       "transcript_snippet": "I put it up and then I didn't see anybody else posting it. I thought it was premature and I I pulled it down cuz it just felt wrong that I would post it.",
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-7"
       ]
     },
@@ -1673,8 +1673,8 @@
       "investigative_direction": "Review the full Marx interview and public records of Eileen Marx's ministry contacts with Erika Kirk.",
       "transcript_snippet": "You told us elsewhere in the interview that Eileen and Erika, they got so close because well, your wife, your bride, mentors Erika, right?",
       "mentions_person_refs": [
+        "N-343",
         "N-345",
-        "N-347",
         "N-2"
       ]
     },
@@ -1691,7 +1691,7 @@
       "investigative_direction": "Obtain TPUSA and Kirk family security staffing records for September 11–14, 2025.",
       "transcript_snippet": "You were so close to Charlie's security apparatus, in fact, that you were able to swiftly coordinate taking over for them a mere 48 hours later in Phoenix, remember?",
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-1"
       ]
     },
@@ -1766,9 +1766,9 @@
       "investigative_direction": "Pull the complaint and docket in Harpole's defamation suit against the host.",
       "transcript_snippet": "I'm currently being sued by Brian Harpole, head of Charlie's security team.",
       "mentions_person_refs": [
-        "N-270",
+        "N-268",
         "N-3",
-        "N-345"
+        "N-343"
       ]
     },
     {
@@ -1788,8 +1788,8 @@
       "investigative_direction": "Obtain the letter and any subsequent subpoena for Marx's September 10, 2025 communications with the security team.",
       "transcript_snippet": "I'm being sued for defamation, which is why we sent earlier today Victor Mark's legal preservation letter.",
       "mentions_person_refs": [
-        "N-345",
-        "N-270",
+        "N-343",
+        "N-268",
         "N-3"
       ]
     },
@@ -1813,7 +1813,7 @@
         "C-3703"
       ],
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-2",
         "N-1"
       ]
@@ -1833,7 +1833,7 @@
       "investigative_direction": "Identify who asked Marx's team to provide security and obtain related communications.",
       "transcript_snippet": "we brought our team uh immediately uh to help give relief for the first security team who I knew, who I was in contact with, and they were suffering trauma and exhaustion. They didn't have a secondary.",
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-2"
       ]
     },
@@ -1854,7 +1854,7 @@
       "investigative_direction": "Obtain the text and its timestamp from Marx's or Erika Kirk's phone records.",
       "transcript_snippet": "I was just telling her nobody's going to kill you. You're safe, you and the kids. No one's coming after you. They just wanted Charlie.",
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-2",
         "N-1"
       ]
@@ -2048,7 +2048,7 @@
       "investigative_direction": "Establish custody of Kirk's laptop and devices before and after September 10, 2025.",
       "transcript_snippet": "Uh Mikey had his laptop. I mean, everybody did have access to Charlie's everything because he was too trusting.",
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-1"
       ]
     },
@@ -2067,7 +2067,7 @@
       "investigative_direction": "Check the Summit County, Utah court record for the verdict in State v. Kouri Richins.",
       "transcript_snippet": "the one in Utah, ironically, who was found guilty of murdering her husband out in but but like not instantly.",
       "mentions_person_refs": [
-        "N-643"
+        "N-641"
       ]
     },
     {
@@ -2087,7 +2087,7 @@
       "investigative_direction": "Locate the original broadcast and its air date.",
       "transcript_snippet": "So, my husband passed away unexpectedly last year. So, it's March 4th was a 1-year anniversary for us, and um he was 39.",
       "mentions_person_refs": [
-        "N-643"
+        "N-641"
       ]
     },
     {
@@ -2107,7 +2107,7 @@
       "investigative_direction": "Check the arrest date in Summit County, Utah records against the broadcast date.",
       "transcript_snippet": "A month later, she would be arrested over a year after her husband had passed away.",
       "mentions_person_refs": [
-        "N-643"
+        "N-641"
       ]
     },
     {
@@ -2125,8 +2125,8 @@
       "investigative_direction": "Review trial testimony and estate filings in the Richins case.",
       "transcript_snippet": "her husband, uh Eric Richens, also her victim, gratefully and successfully managed to transfer his entire estate and business interests into his sister's name covertly a few weeks before he passed away",
       "mentions_person_refs": [
-        "N-644",
-        "N-643"
+        "N-642",
+        "N-641"
       ]
     },
     {
@@ -2144,8 +2144,8 @@
       "investigative_direction": "Review trial exhibits on the insurance beneficiary change in the Richins case.",
       "transcript_snippet": "the court heard that Kouri herself attempted to change the beneficiary of his corporate life insurance so that she would receive it 100% of the payout.",
       "mentions_person_refs": [
-        "N-643",
-        "N-644"
+        "N-641",
+        "N-642"
       ]
     },
     {
@@ -2406,8 +2406,8 @@
       "investigative_direction": "Check Netflix's release records and reporting on any unreleased Theo Von special.",
       "transcript_snippet": "He had a Netflix taping and it didn't go well. It was like they actually never they shelved it. They never used it.",
       "mentions_person_refs": [
-        "N-272",
-        "N-149"
+        "N-270",
+        "N-148"
       ]
     },
     {
@@ -2425,8 +2425,8 @@
       "investigative_direction": "Locate the crowd video and its context; the host says Theo told her it was taken out of context.",
       "transcript_snippet": "Look, I'm just I'm trying not to take my own life. That's what I'm trying to do right now.",
       "mentions_person_refs": [
-        "N-272",
-        "N-149"
+        "N-270",
+        "N-148"
       ]
     },
     {
@@ -2444,7 +2444,7 @@
       "investigative_direction": "Review the 2022 Moncrieff et al. umbrella review on serotonin and depression and the responses to it.",
       "transcript_snippet": "but here's the thing about that chemical imbalance thing, that's not real.",
       "mentions_person_refs": [
-        "N-272"
+        "N-270"
       ]
     },
     {
@@ -2462,8 +2462,8 @@
       "investigative_direction": "Retrieve Theo Von's post and its timestamp.",
       "transcript_snippet": "Theo Von responded and said, this is mostly cap.",
       "mentions_person_refs": [
-        "N-149",
-        "N-272"
+        "N-148",
+        "N-270"
       ]
     },
     {
@@ -2481,8 +2481,8 @@
       "investigative_direction": "Check the Joe Rogan Experience feed for the standalone apology episode and any precedent.",
       "transcript_snippet": "Joe Rogan did something that he's never done in the history of his show where he just recorded him apologizing.",
       "mentions_person_refs": [
-        "N-272",
-        "N-149"
+        "N-270",
+        "N-148"
       ]
     },
     {
@@ -2522,7 +2522,7 @@
       "investigative_direction": "Build a minute-level timeline from Marx's post metadata, hospital records and Kolvet's and Erika Kirk's phone logs.",
       "transcript_snippet": "It was when right around the timeline when Erika finds out, it's actually a little bit before when Andrew Kolvet finds out.",
       "mentions_person_refs": [
-        "N-345",
+        "N-343",
         "N-2",
         "N-14"
       ]
@@ -2543,7 +2543,7 @@
       "investigative_direction": "Timestamp Jack Hibbs's earliest public statements and identify the Israeli news source he cited.",
       "transcript_snippet": "Pastor Jack Hibbs and that little orbit of TPUSA faith-adjacent people-ish were also the among the first to say uh that Charlie had passed and that for some reason Israel knew first.",
       "mentions_person_refs": [
-        "N-212",
+        "N-210",
         "N-1"
       ]
     },
@@ -2562,7 +2562,7 @@
       "investigative_direction": "Review broadcast and wide-shot footage of the candidate's primary-night victory event.",
       "transcript_snippet": "You had to have uh the camera zoomed in real close to your face so people couldn't see the the no crowd that showed up even to your victory party.",
       "mentions_person_refs": [
-        "N-645"
+        "N-643"
       ]
     }
   ],

@@ -55,7 +55,7 @@
           "related_nodes": [
             "N-3",
             "N-30",
-            "N-114",
+            "N-113",
             "N-10113"
           ],
           "tags": [],
@@ -80,7 +80,7 @@
             "C-1270"
           ],
           "related_nodes": [
-            "N-105",
+            "N-104",
             "N-10120",
             "N-10111"
           ],
@@ -98,7 +98,7 @@
             "C-1271"
           ],
           "related_nodes": [
-            "N-105"
+            "N-104"
           ],
           "tags": [],
           "video_timestamp": "00:22:45–00:23:18",
@@ -114,7 +114,7 @@
             "C-1272"
           ],
           "related_nodes": [
-            "N-105",
+            "N-104",
             "N-10120"
           ],
           "tags": [],
@@ -131,7 +131,7 @@
             "C-1273"
           ],
           "related_nodes": [
-            "N-105",
+            "N-104",
             "N-10111"
           ],
           "tags": [],
@@ -186,11 +186,11 @@
           "related_nodes": [
             "N-3",
             "N-87",
-            "N-107",
+            "N-106",
             "N-97",
+            "N-107",
             "N-108",
             "N-109",
-            "N-110",
             "N-10119"
           ],
           "tags": [],
@@ -266,7 +266,7 @@
           ],
           "related_nodes": [
             "N-40",
-            "N-115",
+            "N-114",
             "N-10110"
           ],
           "tags": [],
@@ -292,7 +292,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-106"
+            "N-105"
           ],
           "tags": [],
           "video_timestamp": "00:20:33–00:20:55",
@@ -308,7 +308,7 @@
             "C-3729"
           ],
           "related_nodes": [
-            "N-113"
+            "N-112"
           ],
           "tags": [],
           "video_timestamp": "00:37:04–00:37:13",
@@ -377,7 +377,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-115"
+            "N-114"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -564,8 +564,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-105",
-      "ref": "N-105",
+      "@id": "N-104",
+      "ref": "N-104",
       "name": "Thomas Matthew Crooks",
       "type": "person",
       "description": "July 13, 2024 Trump-rally rooftop shooter; subject of scraped online-history doc.",
@@ -651,8 +651,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-106",
-      "ref": "N-106",
+      "@id": "N-105",
+      "ref": "N-105",
       "name": "Corey Comperatore",
       "type": "person",
       "description": "Firefighter killed shielding family at July 13, 2024 Trump rally.",
@@ -709,8 +709,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-107",
-      "ref": "N-107",
+      "@id": "N-106",
+      "ref": "N-106",
       "name": "Ted Cruz",
       "type": "person",
       "description": "Cited by Kimmel for free-speech defense.",
@@ -747,9 +747,28 @@
     },
     {
       "@type": "Person",
+      "@id": "N-107",
+      "ref": "N-107",
+      "name": "Clay Travis",
+      "type": "person",
+      "description": "Cited by Kimmel.",
+      "related_artifacts": [
+        "A-1158.1"
+      ],
+      "related_claims": [
+        "C-1275"
+      ],
+      "tags": [],
+      "evidence_count": 1,
+      "claim_count": 1,
+      "episode_count": 1,
+      "investigative_pressure": "medium"
+    },
+    {
+      "@type": "Person",
       "@id": "N-108",
       "ref": "N-108",
-      "name": "Clay Travis",
+      "name": "Mitch McConnell",
       "type": "person",
       "description": "Cited by Kimmel.",
       "related_artifacts": [
@@ -768,7 +787,7 @@
       "@type": "Person",
       "@id": "N-109",
       "ref": "N-109",
-      "name": "Mitch McConnell",
+      "name": "Rand Paul",
       "type": "person",
       "description": "Cited by Kimmel.",
       "related_artifacts": [
@@ -787,25 +806,6 @@
       "@type": "Person",
       "@id": "N-110",
       "ref": "N-110",
-      "name": "Rand Paul",
-      "type": "person",
-      "description": "Cited by Kimmel.",
-      "related_artifacts": [
-        "A-1158.1"
-      ],
-      "related_claims": [
-        "C-1275"
-      ],
-      "tags": [],
-      "evidence_count": 1,
-      "claim_count": 1,
-      "episode_count": 1,
-      "investigative_pressure": "medium"
-    },
-    {
-      "@type": "Person",
-      "@id": "N-111",
-      "ref": "N-111",
       "name": "Thomas Sowell",
       "type": "person",
       "description": "Author of 'Inside the American Education System' recommended by host.",
@@ -821,8 +821,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-112",
-      "ref": "N-112",
+      "@id": "N-111",
+      "ref": "N-111",
       "name": "Margarethe Schurz",
       "type": "person",
       "description": "Credited by host with establishing kindergarten in US (1848 communists).",
@@ -857,8 +857,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-113",
-      "ref": "N-113",
+      "@id": "N-112",
+      "ref": "N-112",
       "name": "C.S. Lewis",
       "type": "person",
       "description": "Referenced for concept of 'scientism'.",
@@ -899,8 +899,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-114",
-      "ref": "N-114",
+      "@id": "N-113",
+      "ref": "N-113",
       "name": "Candace Owens' Sister",
       "type": "person",
       "description": "First in family to homeschool; recipient of bee-warning text.",
@@ -937,8 +937,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-115",
-      "ref": "N-115",
+      "@id": "N-114",
+      "ref": "N-114",
       "name": "Natalie",
       "type": "person",
       "description": "Listener who tipped unverified video of Tyler Robinson with a woman.",
@@ -1560,9 +1560,7 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-1",
-        "N-3",
-        "N-30",
-        "N-68"
+        "N-3"
       ]
     },
     {
@@ -1608,7 +1606,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-30",
-        "N-114"
+        "N-113"
       ]
     },
     {
@@ -1616,7 +1614,7 @@
       "@id": "C-1285",
       "ref": "C-1285",
       "label": "Host asserts MK Ultra program never discontinued",
-      "claim": "Host argues the historical MK Ultra program was never discontinued and that federal 'lone shooter' narratives resemble 1960s-era manipulation, feeding school-age candidates into violence plots.",
+      "claim": "The host says she suspects the lone-shooter cases are a program giving her the same 'ick' as MK Ultra, that she has no reason to believe that program was ever discontinued, and that she believes they find these candidates in schools.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10001",
@@ -1629,10 +1627,7 @@
       "claim_timestamp": "00:26:59",
       "investigative_direction": "Treat as host hypothesis; separate documented MK Ultra history from contemporaneous Kirk/Crooks case evidence.",
       "transcript_snippet": "…learning the reality of what happened throughout the 1960s when MK Ultra when that program was running. And I have no reason to believe that that program was ever discontinued.",
-      "confidence": "low",
-      "mentions_person_refs": [
-        "N-105"
-      ]
+      "confidence": "low"
     },
     {
       "@type": "Claim",
@@ -1655,7 +1650,7 @@
       "transcript_snippet": "I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-105"
+        "N-104"
       ]
     },
     {
@@ -1676,7 +1671,7 @@
       "transcript_snippet": "Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-105"
+        "N-104"
       ]
     },
     {
@@ -1697,7 +1692,7 @@
       "transcript_snippet": "Blasting their useless brains out with an AR…heads chopped off and put on stakes.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-105"
+        "N-104"
       ]
     },
     {
@@ -1718,7 +1713,7 @@
       "transcript_snippet": "he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-105"
+        "N-104"
       ]
     },
     {
@@ -1767,10 +1762,10 @@
         "N-3",
         "N-87",
         "N-97",
+        "N-106",
         "N-107",
         "N-108",
-        "N-109",
-        "N-110"
+        "N-109"
       ]
     },
     {
@@ -1815,9 +1810,7 @@
       "transcript_snippet": "I'm homeschooling my kids. I'm so excited.",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-3",
-        "N-111",
-        "N-112"
+        "N-3"
       ]
     },
     {
@@ -1841,7 +1834,7 @@
       "confidence": "low",
       "mentions_person_refs": [
         "N-40",
-        "N-115"
+        "N-114"
       ]
     },
     {
@@ -1876,7 +1869,7 @@
         "N-10110"
       ],
       "tags": [],
-      "claim_timestamp": "00:03:40",
+      "claim_timestamp": "00:03:01",
       "investigative_direction": "Confirm via court filings, prosecution discovery, and public statements.",
       "transcript_snippet": "There is absolutely no video which shows Tyler Robinson firing the weapon.",
       "confidence": "low",
@@ -1896,7 +1889,7 @@
         "N-10110"
       ],
       "tags": [],
-      "claim_timestamp": "00:06:11",
+      "claim_timestamp": "00:05:30",
       "investigative_direction": "Obtain forensic ballistics report from court filings.",
       "transcript_snippet": "The bullet…was too fragmented to match Tyler's rifle.",
       "confidence": "low",
@@ -1917,7 +1910,7 @@
         "N-10110"
       ],
       "tags": [],
-      "claim_timestamp": "00:05:13",
+      "claim_timestamp": "00:04:40",
       "investigative_direction": "Verify against indictment and discovery materials.",
       "transcript_snippet": "The feds don't even have any footage that explains how exactly the rifle…got onto the roof.",
       "confidence": "low",
@@ -1980,7 +1973,7 @@
       "confidence": "medium",
       "mentions_person_refs": [
         "N-5",
-        "N-106"
+        "N-105"
       ]
     },
     {
@@ -1999,7 +1992,7 @@
       "transcript_snippet": "Like we are now in this culture of what CS Lewis refers to as scientism.",
       "confidence": "medium",
       "mentions_person_refs": [
-        "N-113"
+        "N-112"
       ]
     },
     {
@@ -2047,7 +2040,7 @@
       "@id": "C-13660",
       "ref": "C-13660",
       "label": "Host Says FBI Warns Utah That Not Closing the Case Could Harm the Robinson Prosecution",
-      "claim": "The host says her source reports the FBI is telling Utah authorities that if the case is not closed as a lone gunman it might mess up the prosecution of Tyler Robinson, and she calls that moral blackmail.",
+      "claim": "The host says her source reports the FBI is essentially telling Utah authorities that if the case is not closed as a lone gunman it might mess up the prosecution of Tyler Robinson, and says that feels a little bit to her like moral blackmail.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10014",
@@ -2186,7 +2179,7 @@
       "@id": "C-13666",
       "ref": "C-13666",
       "label": "Host Says the Feds Know What Happened and May Have Had Foreknowledge",
-      "claim": "The host says she believes the feds know exactly what happened and that it is not a stretch, given history, to assume they may even have had foreign knowledge beforehand.",
+      "claim": "The host says she believes the feds know exactly what happened and that she does not think it is a stretch of imagination, when examining history, to assume they maybe even had some 'foreign knowledge' (as transcribed).",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10014",
@@ -2642,7 +2635,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-111"
+        "N-110"
       ]
     },
     {
@@ -2650,7 +2643,7 @@
       "@id": "C-13687",
       "ref": "C-13687",
       "label": "Host Says Kindergarten Was Established by Failed 1848 German Revolutionaries",
-      "claim": "The host says kindergarten was established by communists who tried to overthrow Germany and failed in 1848, and that Margarethe Schurz's family brought it here.",
+      "claim": "The host says kindergarten was established by communists who tried to overthrow Germany and failed in 1848, and that Margarethe Schurz's family came here and those same communists wanted to make sure kindergarten access was established for children.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10115",
@@ -2664,7 +2657,7 @@
       "transcript_snippet": "it was it was established by the communists that tried to overthrow Germany and failed in 1848.",
       "mentions_person_refs": [
         "N-3",
-        "N-112"
+        "N-111"
       ]
     },
     {
@@ -2684,8 +2677,7 @@
       "investigative_direction": "Review the history of compulsory-schooling laws and the federal role in education.",
       "transcript_snippet": "They then fought to make sure that we federalized the education system. These are the same people that pushed to make it so that homeschooling is not a thing,",
       "mentions_person_refs": [
-        "N-3",
-        "N-112"
+        "N-3"
       ]
     },
     {
@@ -2729,8 +2721,7 @@
       "investigative_direction": "Compare official FBI statements on Crooks's digital footprint with the scraped material the host describes.",
       "transcript_snippet": "And that guy, they're always working alone. There's no online history that we can reflect on.",
       "mentions_person_refs": [
-        "N-3",
-        "N-105"
+        "N-3"
       ]
     },
     {
@@ -2738,7 +2729,7 @@
       "@id": "C-13691",
       "ref": "C-13691",
       "label": "Host Says the Public Was Told Iran Was Behind the Trump Assassination Attempt",
-      "claim": "The host says that after the July 2024 attempt the public was told Iran did it, because officials were itching for war with Iran.",
+      "claim": "The host says that after the July 2024 attempt on Trump the public was told Iran did it, because, she says, they were all itching for war with Iran.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10588"
@@ -2752,7 +2743,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-105"
+        "N-104"
       ]
     },
     {
@@ -2802,7 +2793,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-105"
+        "N-104"
       ]
     },
     {
@@ -2825,7 +2816,7 @@
       "transcript_snippet": "And it's shocking what you look there is no way this person was not on the federal radar.",
       "mentions_person_refs": [
         "N-3",
-        "N-105"
+        "N-104"
       ]
     },
     {
@@ -2848,7 +2839,7 @@
       "transcript_snippet": "He was at both both on the left and on the right. He actually traded sides.",
       "mentions_person_refs": [
         "N-3",
-        "N-105"
+        "N-104"
       ]
     },
     {
@@ -2874,7 +2865,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-105",
+        "N-104",
         "N-5"
       ]
     },
@@ -2901,7 +2892,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-105",
+        "N-104",
         "N-5"
       ]
     },
@@ -2923,7 +2914,7 @@
       "transcript_snippet": "And again, the other element of this is we're never going to be told what therapists he was seeing.",
       "mentions_person_refs": [
         "N-3",
-        "N-105"
+        "N-104"
       ]
     },
     {
@@ -2950,7 +2941,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-105"
+        "N-104"
       ]
     },
     {
@@ -3113,7 +3104,7 @@
       "transcript_snippet": "\"We're going to ban you from the airwaves if you don't say what we like.\" That will end up bad for conservatives.",
       "mentions_person_refs": [
         "N-87",
-        "N-107"
+        "N-106"
       ]
     },
     {
@@ -3269,7 +3260,7 @@
       "@id": "C-13713",
       "ref": "C-13713",
       "label": "Host Says It Is Known That More Than One Person Was Behind Kirk's Assassination",
-      "claim": "The host says that although the person behind it is unknown, we know it was more than one person.",
+      "claim": "The host says that even though we do not know who exactly was behind Charlie's assassination, we know it was more than one person.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10112"
@@ -3538,7 +3529,7 @@
       ],
       "mentions_person_refs": [
         "N-40",
-        "N-115"
+        "N-114"
       ]
     },
     {
@@ -3546,7 +3537,7 @@
       "@id": "C-13726",
       "ref": "C-13726",
       "label": "Host Asks Viewer Natalie to Email the Video to the Tips Address",
-      "claim": "The host asks viewer Natalie to write to the tips inbox and send the video to the show's tips email address, begging her to send it because the footage would show Robinson with a woman.",
+      "claim": "The host asks viewer Natalie to write to the tips inbox and send the video to the show's tips email address, begging her to send it because, per Natalie's comment, the footage shows Robinson with a woman.",
       "anchored_artifacts": [
         "A-3273.1"
       ],
@@ -3566,7 +3557,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-40",
-        "N-115"
+        "N-114"
       ]
     },
     {
@@ -3606,8 +3597,7 @@
       "investigative_direction": "Historical claim on Freud's abandonment of the seduction theory; the host does not name the book here.",
       "transcript_snippet": "you know how the psychoanalytic community was started. they were gaslighting people that were actually being raped.",
       "mentions_person_refs": [
-        "N-3",
-        "N-50"
+        "N-3"
       ]
     },
     {

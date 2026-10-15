@@ -54,7 +54,7 @@
             "C-2858"
           ],
           "related_nodes": [
-            "N-334"
+            "N-332"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -213,7 +213,7 @@
             "C-2869"
           ],
           "related_nodes": [
-            "N-380"
+            "N-378"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -239,7 +239,7 @@
             "C-2871"
           ],
           "related_nodes": [
-            "N-131"
+            "N-130"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -296,7 +296,7 @@
             "C-2875"
           ],
           "related_nodes": [
-            "N-379"
+            "N-377"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -345,8 +345,8 @@
             "C-2878"
           ],
           "related_nodes": [
-            "N-490",
-            "N-491"
+            "N-488",
+            "N-489"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -371,7 +371,7 @@
             "C-2879"
           ],
           "related_nodes": [
-            "N-490"
+            "N-488"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -396,8 +396,8 @@
             "C-2880"
           ],
           "related_nodes": [
-            "N-491",
-            "N-490"
+            "N-489",
+            "N-488"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -414,7 +414,7 @@
             "C-2881"
           ],
           "related_nodes": [
-            "N-491"
+            "N-489"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -439,8 +439,8 @@
             "C-2882"
           ],
           "related_nodes": [
-            "N-491",
-            "N-490"
+            "N-489",
+            "N-488"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -517,7 +517,7 @@
           "related_nodes": [
             "N-1",
             "N-14",
-            "N-274"
+            "N-272"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -596,7 +596,7 @@
             "C-12943"
           ],
           "related_nodes": [
-            "N-491",
+            "N-489",
             "N-10661"
           ],
           "tags": [],
@@ -722,8 +722,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-490",
-        "N-491"
+        "N-488",
+        "N-489"
       ]
     },
     {
@@ -784,8 +784,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-379",
-      "ref": "N-379",
+      "@id": "N-377",
+      "ref": "N-377",
       "name": "Harmeet Dhillon",
       "type": "person",
       "description": "Assistant Attorney General for Civil Rights, sworn in April 7, 2025 per the host's timeline (36:54); the host says both FARA-registered companies worked with \"Harmeet Dhillon's Dhillon Law Group firm\" (19:09).",
@@ -803,8 +803,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-380",
-      "ref": "N-380",
+      "@id": "N-378",
+      "ref": "N-378",
       "name": "Lara Trump",
       "type": "person",
       "description": "Named (31:21) in the Salem Media announcement of a landmark deal with Donald Trump Jr. and Lara Trump (\"that's Eric Trump's wife\").",
@@ -822,8 +822,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-131",
-      "ref": "N-131",
+      "@id": "N-130",
+      "ref": "N-130",
       "name": "Ian Carroll",
       "type": "person",
       "description": "Commentator whose show segment on Pam Bondi disbanding the FBI Foreign Influence Task Force is played (33:16).",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Ryan Reynolds",
       "type": "person",
       "description": "Actor, Blake Lively's husband; named (46:25, 49:08) as having developed the Deadpool character that mocks Justin Baldoni.",
@@ -858,8 +858,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-382",
-      "ref": "N-382",
+      "@id": "N-380",
+      "ref": "N-380",
       "name": "Hugh Jackman",
       "type": "person",
       "description": "Actor in Deadpool & Wolverine; named by the host (49:08, 51:02), including arriving at the It Ends With Us premiere.",
@@ -960,8 +960,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -982,8 +982,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-436",
-      "ref": "N-436",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Brad Parscale",
       "type": "person",
       "description": "First named by the host at 00:16:06 in episode 99.",
@@ -1088,8 +1088,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-334",
-      "ref": "N-334",
+      "@id": "N-332",
+      "ref": "N-332",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Baron Coleman; the host plays his audio clip and cites his Spotify rank.",
@@ -1189,8 +1189,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; recipient of Kirk's night-before text.",
@@ -1225,8 +1225,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole; the host hopes his lawsuit will show who Kirk meant by the night-before text.",
@@ -1432,8 +1432,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-715",
-      "ref": "N-715",
+      "@id": "N-713",
+      "ref": "N-713",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; the host's LBJ remark.",
@@ -1582,8 +1582,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-162",
-      "ref": "N-162",
+      "@id": "N-161",
+      "ref": "N-161",
       "name": "Blake Neff",
       "type": "person",
       "description": "Blake Neff; the host says he is paid at least in part by the Charlie Kirk Show.",
@@ -1771,8 +1771,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-490",
-      "ref": "N-490",
+      "@id": "N-488",
+      "ref": "N-488",
       "name": "Blake Lively",
       "type": "person",
       "description": "Blake Lively; party in the lawsuit the host discusses.",
@@ -1794,8 +1794,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-257",
-      "ref": "N-257",
+      "@id": "N-255",
+      "ref": "N-255",
       "name": "Courtney Love",
       "type": "person",
       "description": "Courtney Love; the host cites her claim of a Hollywood gang taking publishing rights.",
@@ -1829,8 +1829,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-230",
-      "ref": "N-230",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Harvey Weinstein",
       "type": "person",
       "description": "Harvey Weinstein; the host mentions his sale of his company.",
@@ -1846,8 +1846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-491",
-      "ref": "N-491",
+      "@id": "N-489",
+      "ref": "N-489",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Justin Baldoni; party in the lawsuit the host discusses.",
@@ -1869,8 +1869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-901",
-      "ref": "N-901",
+      "@id": "N-899",
+      "ref": "N-899",
       "name": "Bryan Freedman",
       "type": "person",
       "description": "Bryan Freedman; Baldoni's lawyer who published his response on a website.",
@@ -1886,8 +1886,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-928",
-      "ref": "N-928",
+      "@id": "N-926",
+      "ref": "N-926",
       "name": "Judge Liman",
       "type": "person",
       "description": "First named by the host at 00:48:28 in episode 99 (spelled Lyman and Leeman in the transcript). Judge who dismissed 10 of 13 Lively claims; described in the Community Notes text the host reads.",
@@ -1904,8 +1904,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-492",
-      "ref": "N-492",
+      "@id": "N-490",
+      "ref": "N-490",
       "name": "Taylor Swift",
       "type": "person",
       "description": "Taylor Swift; the host says Lively lost her friendship.",
@@ -1992,8 +1992,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-265",
-      "ref": "N-265",
+      "@id": "N-263",
+      "ref": "N-263",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Terrell Farnsworth; the host credits him, as 'Terrell Farnsworth', with exposing the no-neck story.",
@@ -2146,7 +2146,7 @@
       "claim_timestamp": "00:06:41",
       "investigative_direction": "Obtain full unedited Coleman segment; verify no other named attribution in original show notes.",
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-1"
       ]
     },
@@ -2257,7 +2257,7 @@
       "claim_timestamp": "00:16:57",
       "investigative_direction": "Verify corporate registration records for Clock Tower X LLC.",
       "mentions_person_refs": [
-        "N-436"
+        "N-434"
       ]
     },
     {
@@ -2293,7 +2293,7 @@
       "claim_timestamp": "00:16:57",
       "investigative_direction": "Cross-check Salem press releases and LinkedIn / corporate filings for Parscale's title and dates.",
       "mentions_person_refs": [
-        "N-436"
+        "N-434"
       ]
     },
     {
@@ -2332,7 +2332,7 @@
       "investigative_direction": "Obtain Salem's official press release and SEC / corporate disclosures.",
       "mentions_person_refs": [
         "N-33",
-        "N-380"
+        "N-378"
       ]
     },
     {
@@ -2374,7 +2374,7 @@
       "investigative_direction": "Obtain DOJ memorandum directly; confirm effective date and operative language.",
       "mentions_person_refs": [
         "N-85",
-        "N-131"
+        "N-130"
       ]
     },
     {
@@ -2412,7 +2412,7 @@
       "claim_timestamp": "00:36:54",
       "investigative_direction": "Confirm via DOJ announcement and Senate confirmation records.",
       "mentions_person_refs": [
-        "N-379"
+        "N-377"
       ]
     },
     {
@@ -2504,8 +2504,8 @@
       "claim_timestamp": "00:47:29",
       "investigative_direction": "Obtain the actual April 2 court order; verify which claims survived and on what grounds.",
       "mentions_person_refs": [
-        "N-490",
-        "N-491"
+        "N-488",
+        "N-489"
       ]
     },
     {
@@ -2524,7 +2524,7 @@
       "claim_timestamp": "00:47:29",
       "investigative_direction": "Verify against Lively's official public statement archive.",
       "mentions_person_refs": [
-        "N-490"
+        "N-488"
       ]
     },
     {
@@ -2543,7 +2543,7 @@
       "claim_timestamp": "00:48:28",
       "investigative_direction": "Obtain screenshot of the Community Notes annotation; capture timestamp and full text.",
       "mentions_person_refs": [
-        "N-490"
+        "N-488"
       ]
     },
     {
@@ -2560,10 +2560,10 @@
       "claim_timestamp": "00:50:04",
       "investigative_direction": "Verify via official film credits and supplementary marketing material; confirm Baldoni-as-target framing.",
       "mentions_person_refs": [
-        "N-490",
-        "N-491",
-        "N-381",
-        "N-382"
+        "N-488",
+        "N-489",
+        "N-379",
+        "N-380"
       ]
     },
     {
@@ -2580,7 +2580,7 @@
       "claim_timestamp": "00:50:30",
       "investigative_direction": "Obtain deleted scene footage or trade press reporting on cut material.",
       "mentions_person_refs": [
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -2597,9 +2597,9 @@
       "claim_timestamp": "00:51:57",
       "investigative_direction": "Obtain independent eyewitness corroboration and any press coverage of the premiere seating arrangement.",
       "mentions_person_refs": [
-        "N-490",
-        "N-491",
-        "N-382"
+        "N-488",
+        "N-489",
+        "N-380"
       ]
     },
     {
@@ -2619,7 +2619,7 @@
       "investigative_direction": "Obtain the original McCoy message screenshot; verify the exact language and date.",
       "mentions_person_refs": [
         "N-14",
-        "N-194"
+        "N-192"
       ]
     },
     {
@@ -2638,7 +2638,7 @@
       "transcript_snippet": "I'm also hearing that Baron Coleman is number 33 on a Spotify chart.",
       "mentions_person_refs": [
         "N-3",
-        "N-334"
+        "N-332"
       ]
     },
     {
@@ -2706,7 +2706,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-14",
-        "N-274",
+        "N-272",
         "N-3"
       ]
     },
@@ -2731,7 +2731,7 @@
       "investigative_direction": "Review TPUSA's public explanation of the text and the Harpole case docket for any production of the thread.",
       "transcript_snippet": "they want us to believe that he meant a trans person. Okay. We'll see. Hopefully we'll be able to see in this lawsuit with Brian Harpole if he meant a trans person.",
       "mentions_person_refs": [
-        "N-270",
+        "N-268",
         "N-1",
         "N-3"
       ]
@@ -2755,7 +2755,7 @@
       "investigative_direction": "Compare with Kirk's own written statements about leaving the pro-Israel cause; Coleman did not know Kirk and states a belief, not evidence.",
       "transcript_snippet": "He recognized the side he had been supporting was demonic and dark and evil and he was trying to distance himself from it and they killed him.",
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-1"
       ]
     },
@@ -2776,7 +2776,7 @@
       "investigative_direction": "None available beyond Coleman's stated belief; record as the clip's claim only.",
       "transcript_snippet": "Charlie was turning his back on the prince of darkness. And he was removed for it. He was killed. By supporters of the prince of darkness, by the people doing his bidding.",
       "mentions_person_refs": [
-        "N-334",
+        "N-332",
         "N-1"
       ]
     },
@@ -2906,7 +2906,7 @@
       "investigative_direction": "Historical question outside the case; compare with standard histories of the Kennedy and Johnson administrations and the 1963 FARA dispute over the American Zionist Council.",
       "transcript_snippet": "LBJ assumed office and reversed course on every policy that JFK was pursuing against Israel.",
       "mentions_person_refs": [
-        "N-715",
+        "N-713",
         "N-3"
       ]
     },
@@ -2927,7 +2927,7 @@
       "investigative_direction": "No document needed; host recollection of a private lunch.",
       "transcript_snippet": "I actually met him for the first time with Charlie, over lunch.",
       "mentions_person_refs": [
-        "N-436",
+        "N-434",
         "N-1",
         "N-3"
       ]
@@ -3253,7 +3253,7 @@
       "investigative_direction": "Find Neff's statement about who pays him and payroll or contractor records for the show.",
       "transcript_snippet": "Blake Neff, Andrew Kolvet, they are paid, at least in part, by the Charlie Kirk show.",
       "mentions_person_refs": [
-        "N-162",
+        "N-161",
         "N-14",
         "N-3"
       ]
@@ -3393,7 +3393,7 @@
       "investigative_direction": "Identify the Knesset 2018 plan Carroll refers to (and any published source) and compare with FARA enforcement data after February 2025.",
       "transcript_snippet": "ensuring that the Knesset's 2018 plan to skirt FARA could proceed with min- minimal risk of prosecution.",
       "mentions_person_refs": [
-        "N-131"
+        "N-130"
       ]
     },
     {
@@ -3551,7 +3551,7 @@
       "investigative_direction": "Identify which firm and which person the host means (the sentence is ambiguous about who hired the firm) and check public court filings and press reports.",
       "transcript_snippet": "she even brought in a PR crisis firm that had a former CIA agent then like left the CIA and opened a PR crisis firm.",
       "mentions_person_refs": [
-        "N-490",
+        "N-488",
         "N-3"
       ]
     },
@@ -3572,7 +3572,7 @@
       "investigative_direction": "Compare with Love's public statements and the host's earlier episode with her.",
       "transcript_snippet": "what Courtney Love told me that there is like a gang operating in Hollywood and they just take publishing rights.",
       "mentions_person_refs": [
-        "N-257",
+        "N-255",
         "N-3"
       ]
     },
@@ -3593,7 +3593,7 @@
       "investigative_direction": "Check the 2018 sale of the Weinstein Company and the host's earlier coverage; the publishing-rights motive is the host's inference.",
       "transcript_snippet": "I think could have had something to do with publishing rights, for sure. He had to end up selling his entire company.",
       "mentions_person_refs": [
-        "N-230",
+        "N-228",
         "N-3"
       ]
     },
@@ -3614,8 +3614,8 @@
       "investigative_direction": "Obtain the California Civil Rights Department complaint and its filing date.",
       "transcript_snippet": "this like civil rights employee type filing that she initially did in California.",
       "mentions_person_refs": [
-        "N-490",
-        "N-491",
+        "N-488",
+        "N-489",
         "N-3"
       ]
     },
@@ -3636,8 +3636,8 @@
       "investigative_direction": "Locate Freedman's response filing and the associated website.",
       "transcript_snippet": "Bryan Freedman, the lawyer did the greatest thing you could possibly do when he filed his response, he created an entire website and allowed us to read it",
       "mentions_person_refs": [
-        "N-901",
-        "N-491",
+        "N-899",
+        "N-489",
         "N-3"
       ]
     },
@@ -3660,8 +3660,8 @@
       "investigative_direction": "Read Judge Liman's April 2 opinion on the Title VII and independent-contractor questions.",
       "transcript_snippet": "Although Judge Liman did not state Miss Lively was an independent independent contractor and uh therefore she's not entitled under Title VII to bring claims.",
       "mentions_person_refs": [
-        "N-490",
-        "N-928"
+        "N-488",
+        "N-926"
       ]
     },
     {
@@ -3683,8 +3683,8 @@
       "investigative_direction": "Read the relevant passage of the April 2 order and compare it with the note's paraphrase.",
       "transcript_snippet": "he continues to state that the conduct was not so far beyond what might reasonably be expected to take place between two characters.",
       "mentions_person_refs": [
-        "N-490",
-        "N-928"
+        "N-488",
+        "N-926"
       ]
     },
     {
@@ -3706,7 +3706,7 @@
       "investigative_direction": "Obtain the artwork and the passage text from the film's tie-in book.",
       "transcript_snippet": "Even in the featured artwork for the book that they created to go along with the movie, they included this passive-aggressive passage and a description regarding nice pool.",
       "mentions_person_refs": [
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -3726,10 +3726,10 @@
       "investigative_direction": "Find the promotional video and review its content.",
       "transcript_snippet": "Ryan then jumped into Blake Lively and Justin Baldoni's movie uh appearing to do a movie promo of It Ends With Us, but it wasn't actually a movie promo.",
       "mentions_person_refs": [
-        "N-381",
-        "N-382",
-        "N-491",
-        "N-490"
+        "N-379",
+        "N-380",
+        "N-489",
+        "N-488"
       ]
     },
     {
@@ -3751,8 +3751,8 @@
       "investigative_direction": "Check premiere reporting and the lawsuit record for seating arrangements and who requested separation.",
       "transcript_snippet": "Blake Lively at that moment was saying she couldn't even be in the same room as him.",
       "mentions_person_refs": [
-        "N-490",
-        "N-491"
+        "N-488",
+        "N-489"
       ]
     },
     {
@@ -3775,7 +3775,7 @@
         "C-11146"
       ],
       "mentions_person_refs": [
-        "N-491"
+        "N-489"
       ]
     },
     {
@@ -3795,9 +3795,9 @@
       "investigative_direction": "Check the docket for the settlement notice date against the scheduled trial date.",
       "transcript_snippet": "Just two weeks before the scheduled trial dates, they legal dispute.",
       "mentions_person_refs": [
-        "N-490",
-        "N-491",
-        "N-492"
+        "N-488",
+        "N-489",
+        "N-490"
       ]
     },
     {
@@ -3952,7 +3952,7 @@
       "investigative_direction": "Review Farnsworth's statements and camera footage disclosures; the host does not say which lie she means.",
       "transcript_snippet": "nobody would have known any different had it not been for for Terrell Farnsworth.",
       "mentions_person_refs": [
-        "N-265",
+        "N-263",
         "N-3"
       ]
     },
@@ -3973,7 +3973,7 @@
       "investigative_direction": "Find the transcript of Erika Kirk's first public speech and the exact words about McCoy.",
       "transcript_snippet": "Mikey was amazing. Erika said that in her first speech.",
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-2",
         "N-3"
       ]
@@ -3999,7 +3999,7 @@
         "C-9554"
       ],
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-3"
       ]
     },
@@ -4021,7 +4021,7 @@
       "investigative_direction": "Identify hospital witnesses and compare with other accounts of McCoy's condition.",
       "transcript_snippet": "According to my sources, Mikey was a mess at the hospital.",
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-3"
       ]
     },
@@ -4044,7 +4044,7 @@
       ],
       "mentions_person_refs": [
         "N-15",
-        "N-194",
+        "N-192",
         "N-3"
       ]
     },
@@ -4065,7 +4065,7 @@
       "investigative_direction": "Identify the source; check property transactions involving McCoy.",
       "transcript_snippet": "I have, you know, it on good notice that you're talking about real estate deals and they're telling you money, money, money, money, money.",
       "mentions_person_refs": [
-        "N-194",
+        "N-192",
         "N-3"
       ]
     },
@@ -4308,7 +4308,7 @@
         {
           "episode": 99,
           "video_timestamp": "00:08:20",
-          "speaker_node_ref": "N-334",
+          "speaker_node_ref": "N-332",
           "quote": "This is a spiritual war.",
           "context": "In the clip the host plays, Coleman frames Kirk's death as a casualty of a spiritual war.",
           "confidence": "high",
