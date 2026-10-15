@@ -390,7 +390,7 @@ Named among the accounts profiled in the VFT reports.
 
 *Related: C-4292*
 
-**N-438** Johnny Moore
+**N-438** Johnnie Moore
 
 Named by the host as on the NCRI "Christ is King" report.
 

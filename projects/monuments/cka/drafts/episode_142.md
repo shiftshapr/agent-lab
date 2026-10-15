@@ -971,7 +971,7 @@ First named by the host at 00:34:33 in episode 142. Comedian the host names as a
 
 **N-835** Ari Shaffir
 
-First named by the host at 00:34:33 in episode 142 (spelled Ari Schaefer in the transcript). Comedian the host names as a Rogan guest.
+First named by the host at 00:34:33 in episode 142 (spelled Ari Shaffir in the transcript). Comedian the host names as a Rogan guest.
 
 *Related: C-9192*
 
@@ -1031,7 +1031,7 @@ Investigative Direction: Obtain the September 18 phone-call recording or contemp
 
 Claim Timestamp: 00:12:35
 
-Claim: SBI Agent David Hull testified that Farnsworth originally provided a flash drive to Lieutenant O'Brien, then downloadable Google links to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 – not the SD cards.
+Claim: SBI Agent David Hull testified that Farnsworth originally provided, he believed, a flash drive to Lieutenant O'Brien, then downloadable electronic versions to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 – not the SD card. The host describes these as Google links.
 
 Anchored Artifacts: A-2285.1
 Mentions: N-570
@@ -1060,10 +1060,10 @@ Investigative Direction: Obtain original uncropped September 10 back-camera foot
 
 Claim Timestamp: 00:14:25
 
-Claim: Kolvet stated on Tucker Carlson that Farnsworth removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
+Claim: Kolvet stated on Tucker Carlson that Farnsworth told him he took the SD cards "because I know people can be evil," and said there were videos of people stealing hats off the table after the incident.
 
 Anchored Artifacts: A-2287.1
-Mentions: N-22
+Mentions: N-14, N-22, N-262
 
 Related Nodes: N-10162
 
@@ -1073,7 +1073,7 @@ Investigative Direction: Obtain full Tucker Carlson interview segment; identify 
 
 Claim Timestamp: 00:15:13
 
-Claim: C-3294 spells the speaker 'Andrew Kolvet' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-262) removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
+Claim: C-3294 spells the speaker 'Andrew Kolvet' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-262) told him he took the SD cards "because I know people can be evil," and said there were videos of people stealing hats off the table after the incident.
 
 Transcript Snippet: He said, "Because I know people can be evil."
 
@@ -1090,7 +1090,7 @@ Investigative Direction: Read with C-3294; match the Tucker Carlson segment unde
 
 Claim Timestamp: 00:17:08
 
-Claim: Farnsworth's 1102 statement describes clip 80704 as a "true and correct representation of a portion of the larger files" for the back-camera footage specifically, indicating the full back-camera file was clipped into a discrete segment.
+Claim: Per Farnsworth's 1102 statement the host reads, clip 80704 is, 'from what I can see,' 'a true and correct representation of a portion of the larger files previously sent to SBI'; the host argues this shows only the back-camera footage was clipped, though she is not sure whether Farnsworth or SBI clipped it.
 
 Anchored Artifacts: A-2284.2
 
@@ -1102,9 +1102,9 @@ Investigative Direction: Obtain the original four-video files referenced in the 
 
 **C-3296** Exclusive Footage Shows Farnsworth Pocketing SD Card, Looking Around, and Texting
 
-Claim Timestamp: 00:21:20
+Claim Timestamp: 00:22:25
 
-Claim: Newly released footage shows Farnsworth placing the SD card in his pocket, zipping the pocket, scanning surroundings, then using his phone to send a text message within minutes of the camera removal.
+Claim: The host says newly released footage shows Farnsworth looking around nervously, putting the SD card in his pocket and zipping it, then taking out his phone and texting with someone instead of going to the other cameras.
 
 Anchored Artifacts: A-2288.1
 
@@ -1116,11 +1116,12 @@ Investigative Direction: Obtain chain-of-custody for the newly released footage 
 
 **C-3297** Former CIA Officer Publicly Questioned FBI Primary Involvement in Utah State Homicide
 
-Claim Timestamp: 00:30:34
+Claim Timestamp: 00:31:50
 
-Claim: John Kirraou stated on the Danny Jones podcast that no element of the September 9/10 case crossed state lines and therefore nothing should make it federal unless a conspiracy existed.
+Claim: In a clip the host plays, John Kiriakou stated on the Danny Jones podcast that nobody crossed a state line and nothing in the case would make it federal unless there was a conspiracy.
 
 Anchored Artifacts: A-2289.1
+Mentions: N-831, N-832
 
 Related Nodes: N-10802
 
@@ -1130,7 +1131,7 @@ Investigative Direction: Obtain full Danny Jones podcast segment; verify whether
 
 **C-3298** Per Rogan Clip Host Plays, Published Tyler Robinson Photo Showed Perspective Distortion
 
-Claim Timestamp: 00:34:33
+Claim Timestamp: 00:35:50
 
 Claim: In a clip the host plays from the Joe Rogan show, Rogan and his guests discuss the published photo of Tyler Robinson, which they say appeared to have a wider man "shrunken" into Robinson's proportions, with distorted car-hood proportions behind him.
 
@@ -1174,7 +1175,7 @@ Investigative Direction: Identify the source from whom the host obtained the foo
 
 **C-3301** Host Concurs with Zamut and Golf/Cadence Comments Praising Her Work
 
-Claim Timestamp: 00:00:00–00:00:01
+Claim Timestamp: 00:50:15
 
 Claim: The host expresses agreement with comments framing her investigation as a "blessing" and complimenting her music taste.
 
@@ -1197,7 +1198,7 @@ Transcript Snippet: having the permanent creep Steven Crowder sneak his CEO into
 Anchored Artifacts: 
 Mentions: N-3, N-260
 Related Nodes: N-11212
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the CEO and the show episode in question; obtain the broadcast and any statement from the host's household or Crowder's team on how access was arranged.
 
 ---
@@ -1223,7 +1224,7 @@ Investigative Direction: Compare the timestamp of the first shot with the timest
 
 Claim Timestamp: 00:01:28
 
-Claim: The host says Farnsworth went up on stage, recorded himself announcing that Charlie was dead, then went down and began removing the camera behind Charlie in particular.
+Claim: The host says Farnsworth went up, recorded himself announcing that Charlie was dead, then went down and began removing the camera behind Charlie in particular.
 
 Transcript Snippet: We know he went up uh and he recorded himself. He announced that Charlie was dead. He went down and he began removing that camera in particular.
 
@@ -1442,7 +1443,7 @@ Claim: In the Tucker Carlson clip, Andrew Kolvet says the SD cards Farnsworth gr
 Transcript Snippet: Well, first of all, they're in the possession of the FBI.
 
 Anchored Artifacts: A-2287.1
-Mentions: N-14, N-22
+Mentions: N-14, N-22, N-262
 Related Nodes: N-10810, N-10202
 Supports: C-1369
 Tags: relevance:core
@@ -1459,7 +1460,7 @@ Claim: In the Tucker Carlson clip, Kolvet says he personally asked the staffer w
 Transcript Snippet: I asked him personally. I said, "Why did you do that?" And he looked at me and this was his answer.
 
 Anchored Artifacts: A-2287.1
-Mentions: N-14, N-22
+Mentions: N-14, N-22, N-262
 Related Nodes: N-10162
 Supports: C-6477
 Tags: relevance:core
@@ -1476,7 +1477,7 @@ Claim: The host says Kolvet said Farnsworth took the SD cards, plural, whereas w
 Transcript Snippet: But you said cards. And what we noticed was that it was card. It was that one first.
 
 Anchored Artifacts: A-2287.1
-Mentions: N-14
+Mentions: N-14, N-262
 Related Nodes: N-10162
 Supports: C-3294
 Tags: relevance:core
@@ -1517,7 +1518,7 @@ Investigative Direction: Obtain the metadata and creation log for clip 80704 and
 
 ---
 
-**C-9174** Host Says Zoomed Footage Was Admitted as a True Representation in the Courtroom Exhibit Dispute
+**C-9174** Host Says Zoomed-In Footage Was Still Called a True Representation in the Courtroom Exhibit Dispute
 
 Claim Timestamp: 00:19:15
 
@@ -1603,12 +1604,12 @@ Investigative Direction: Review the video frame by frame to document where Farns
 
 Claim Timestamp: 00:21:20
 
-Claim: The host says that as she wondered whom she could trust at TPUSA, there was a network of government employees fighting to get the truth out who were wondering whom they could trust as well, and that this is how she has known what Farnsworth did since October.
+Claim: The host says that she has known what Farnsworth did since October, and that as she wondered whom she could trust at TPUSA there was a network of government employees fighting to get the truth out who were wondering whom they could trust as well.
 
 Transcript Snippet: there was a network of government employees that were fighting to get the truth out and wondering who they could trust as well.
 
 Anchored Artifacts: A-2288.1
-Mentions: N-3
+Mentions: N-3, N-262
 Related Nodes: N-10000
 Supports: C-3300
 Tags: relevance:context
@@ -1818,9 +1819,9 @@ Investigative Direction: Review the debate agreement, the questions put to her a
 
 Claim Timestamp: 00:34:33
 
-Claim: The host says the case has gone mainstream and been discussed on Shawn Ryan and more recently on Joe Rogan, where guests Mark Normand, Shane Gillis and Ari Schaefer discussed the Tyler Robinson case and the PR campaign around Erika Kirk.
+Claim: The host says the case has gone mainstream and been discussed on Shawn Ryan and more recently on Joe Rogan, where guests Mark Normand, Shane Gillis and Ari Shaffir discussed the Tyler Robinson case and the PR campaign around Erika Kirk.
 
-Transcript Snippet: whether that's Shawn Ryan or more recently Joe Rogan who had a laugh alongside his guests Mark Normand, Shane Gillis and Ari Schaefer
+Transcript Snippet: whether that's Shawn Ryan or more recently Joe Rogan who had a laugh alongside his guests Mark Normand, Shane Gillis and Ari Shaffir
 
 Anchored Artifacts: A-2290.1
 Mentions: N-225, N-269, N-833, N-834, N-835, N-40, N-2

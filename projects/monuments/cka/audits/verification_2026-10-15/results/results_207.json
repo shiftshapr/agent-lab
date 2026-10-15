@@ -1,0 +1,869 @@
+[
+ {
+  "claim": "C-6135",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6136",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Kolvet and Neff ('Andrew, ... Blake') but Mentions omits N-14, N-160.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-14",
+    "N-160"
+   ]
+  }
+ },
+ {
+  "claim": "C-6137",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6138",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6139",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Kolvet hedges: 'she ended up in like France with Kanye or something the next day.'",
+  "fix": {
+   "claim": "Andrew Kolvet says the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in like France with Kanye or something the next day."
+  }
+ },
+ {
+  "claim": "C-6140",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6141",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6142",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6143",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6144",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6145",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6146",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6147",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6148",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6149",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6150",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "She says 'August 14th' in a garbled sentence then 'September 14th'; correction framing is an inference.",
+  "fix": {
+   "claim": "The host says the call log shows she and Andrew Kolvet spoke for 17 minutes on September 14, 2025."
+  }
+ },
+ {
+  "claim": "C-6151",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6152",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6153",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6154",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6155",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6156",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6157",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6158",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6159",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6160",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6161",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6162",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6163",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6164",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6165",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6166",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6167",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6168",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6169",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-6170",
+  "episode": 144,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3326",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Reads 'A crime scene apparently completely destroyed in days' (hedge dropped). Mentions N-2 not named; Mappins (N-155, N-156) are.",
+  "fix": {
+   "claim": "Per the Mappins' October 6 article the host reads, Charlie Kirk's execution is \"an assassination with potentially far-reaching political consequences for America and the world,\" the crime scene was \"apparently completely destroyed in days,\" and convicting someone while doubt remains would be \"anathema to all the teachings of Christ.\"",
+   "mentions": [
+    "N-155",
+    "N-156",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3327",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Black propaganda campaign' is what John Mappin described to her at 06:44, not wording in the article she reads. Host says article is 'So powerful to reflect on'. Mappins not in Mentions.",
+  "fix": {
+   "claim": "The host calls the Mappins' article \"so powerful to reflect on and to reread,\" and separately says John Mappin described to her what he saw as a \"black propaganda campaign\" against her.",
+   "mentions": [
+    "N-3",
+    "N-155",
+    "N-156"
+   ]
+  }
+ },
+ {
+  "claim": "C-3328",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3329",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says she has never spoken to Baldoni; 'turns out he was on a layover from Sweden'. He did not inform her.",
+  "fix": {
+   "claim": "The host says Justin Baldoni was on a layover from Sweden, where his wife is from, when she saw him at the Iceland airport."
+  }
+ },
+ {
+  "claim": "C-3330",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'They were like, that is akin to getting Erika Kirk killed' about the narrative; report called 'permission to kill', her a 'digital assassin'. Stated as fact without host.",
+  "fix": {
+   "claim": "The host says an NCRI-issued report called \"Permission to Kill\" referred to her as a \"digital assassin,\" and that the surrounding narrative said her investigation was akin to getting Erika Kirk killed."
+  }
+ },
+ {
+  "claim": "C-3331",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'led by none other than Andrew Kolvet's former partner of a PR firm, Kairos company' - firm is not described as Kolvet's own firm.",
+  "fix": {
+   "claim": "The host says the NCRI report was led by Andrew Kolvet's former partner at a PR firm, Kairos Company."
+  }
+ },
+ {
+  "claim": "C-3332",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'they drop this report on the first day' of Robinson's hearing; stated as fact without 'the host says'.",
+  "fix": {
+   "claim": "The host says the NCRI report was dropped on the first day of Tyler Robinson's preliminary hearing."
+  }
+ },
+ {
+  "claim": "C-3333",
+  "episode": 145,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Permission structure ... kill Erika' is Kolvet's quote-tweet wording at 31:33, not Pounds' thread. Pounds (N-282) missing; name spelled Jennica.",
+  "fix": {
+   "claim": "The host says Jennica Pounds (@DataRepublican) posted an X thread showing the host and her audience 'in their own words' and arguing that people will eventually want to kill Erika Kirk, which Andrew Kolvet boosted.",
+   "mentions": [
+    "N-282",
+    "N-2",
+    "N-3",
+    "N-14"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3334",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Data Republican (Jennica Pounds, N-282), Candace and Erika; Mentions only N-14.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-282",
+    "N-3",
+    "N-2"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3335",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Data Republican (Jennica Pounds, N-282) is the subject but not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-37",
+    "N-282",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3336",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Jennica Pounds (N-282) not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-282"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3337",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Jennica Pounds (N-282) not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-282"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3338",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Sarah Rogers (N-932) named but not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-932"
+   ]
+  }
+ },
+ {
+  "claim": "C-3339",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Content is Blake Neff's post read by host; Sarah Rogers (N-932) missing from Mentions.",
+  "fix": {
+   "claim": "Per Blake Neff's post the host reads, Sarah Rogers was confirmed a week earlier and sworn in the previous Friday as Under Secretary for Public Diplomacy at the State Department.",
+   "mentions": [
+    "N-932",
+    "N-160"
+   ]
+  }
+ },
+ {
+  "claim": "C-3340",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: Pounds 'got very paranoid' about being set up, 'she then reveals that Sarah Rogers is leaking to her'. Order reversed; 'evidence of the leak' not said. Pounds/Rogers missing.",
+  "fix": {
+   "claim": "The host says Jennica Pounds got paranoid that leaked documents were a setup to charge her with a crime, and then revealed that Sarah Rogers, Under Secretary at the State Department, was leaking to her.",
+   "mentions": [
+    "N-282",
+    "N-932"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3341",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Brandon Tatum (N-58) named but missing. 'Matt Nuclear' is Mat Nuclear per TPUSA tour page.",
+  "fix": {
+   "claim": "The host says Turning Point USA announced a tour titled \"Love It or Leave It\" featuring Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, and a Daily Wire personality she calls \"Mat Nuclear.\"",
+   "mentions": [
+    "N-101",
+    "N-58",
+    "N-99",
+    "N-97"
+   ],
+   "names": [
+    {
+     "wrong": "Matt Nuclear",
+     "right": "Mat Nuclear",
+     "source": "https://tpusa.com/tours/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3342",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3343",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3344",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: narrative 'now we know is being backed by the State Department, the Department of War, Blake Neff, and Andrew Kolvet allies'; Ackman only a guess ('I'd make a guess ... maybe is cutting a check'). Rogers, Pounds missing.",
+  "fix": {
+   "claim": "The host says the narrative against her investigation into the Charlie Kirk assassination is, as she puts it, backed by the State Department (Sarah Rogers), the Department of War (Jennica Pounds), Blake Neff and Andrew Kolvet allies, and she guesses Bill Ackman may be funding Pounds.",
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-37",
+    "N-160",
+    "N-932",
+    "N-282"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-13280",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13281",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13282",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13283",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13284",
+  "episode": 145,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

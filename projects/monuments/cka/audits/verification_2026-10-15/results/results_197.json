@@ -1,0 +1,796 @@
+[
+ {
+  "claim": "C-7522",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Clip: \"It was Iran who did that. We're certainly investigating.\" Iran school strike is off-topic for Kirk case.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-7523",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Minab school strike / Iran war is not about the Kirk case itself; tagged context, better tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-7524",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Minab school strike / Iran war is not about the Kirk case itself; tagged context, better tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-7525",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7526",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: \"if you think that people that lie like that would not be capable of hiding up the murder of Charlie Kirk, they just killed 150 kids\". Claim reverses to \"would be incapable\".",
+  "fix": {
+   "claim": "The host says that if you think people who lie like this about the school strike would not be capable of hiding the murder of Charlie Kirk, they just killed 150 kids and did not blink when they lied to you."
+  }
+ },
+ {
+  "claim": "C-7527",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Minab school strike / Iran war is not about the Kirk case itself; tagged context, better tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-7528",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host asks \"Whose call was he taking? Who is he retweeting?\" as questions; claim states them as fact. Iran/Levin off-topic.",
+  "fix": {
+   "claim": "The host asks whose calls Trump was taking and who he is retweeting, and calls Mark Levin a psychopath who wants people in Iran to be armed.",
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-7529",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7530",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7531",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Comment: \"They betrayed him in his life\" (not Erika specifically); claim says Erika betrayed him.",
+  "fix": {
+   "claim": "The host reads Isabella's comment asking why Erika would honor Charlie's wishes regarding a Catholic funeral, saying 'they' betrayed him in his life and that he never wanted a Catholic funeral, and says she covered an idea of a mock funeral being done with Charlie potentially cremated."
+  }
+ },
+ {
+  "claim": "C-7532",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7533",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7534",
+  "episode": 137,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3222",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"A group of 92 influencers have been exposed... coordinating in a group chat\"; claim states it as bare fact with no attribution.",
+  "fix": {
+   "claim": "The host says a group chat named 'Protecting Mrs. Kirk', exposed on X, had 92 members who were coordinating against her."
+  }
+ },
+ {
+  "claim": "C-3223",
+  "episode": 138,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim is a tweet the host reads (\"Shady Lady Katie wrote... even sharing Candace's own home address in this group chat\"), stated as bare fact.",
+  "fix": {
+   "claim": "In a post by Shady Lady Katie that the host reads, members of the 'Protecting Mrs. Kirk' group chat were sharing information, background checks and reporting accounts, and even shared Candace's home address in the chat."
+  }
+ },
+ {
+  "claim": "C-3224",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names \"Lance\"; Lance Twiggs is N-54 in the episode list but Mentions has only N-40.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-54"
+   ]
+  }
+ },
+ {
+  "claim": "C-3225",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Nate Walker and Dan Flood; N-1 Charlie Kirk is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-271",
+    "N-505"
+   ]
+  }
+ },
+ {
+  "claim": "C-3226",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Perez Hilton is named in the claim and is N-826 in the episode list, but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-826"
+   ]
+  }
+ },
+ {
+  "claim": "C-3227",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Perez Hilton is named in the claim and is N-826 in the episode list, but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-826"
+   ]
+  }
+ },
+ {
+  "claim": "C-3228",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Marx's words: \"if you put your hand around your son's hand on the knife of a dead cat, could you not cut the head off\" - a hedged hypothetical, not a flat statement; clip not marked as played by host.",
+  "fix": {
+   "claim": "In a clip the host plays of his Piers Morgan interview, Victor Marx, asked how a three-year-old could cut off a cat's head, says that with a hand put around his on the knife of a dead cat it could be done."
+  }
+ },
+ {
+  "claim": "C-3229",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3230",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3231",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3232",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Daily Mail journalist Charlie Spearing (N-636), who is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-636"
+   ]
+  }
+ },
+ {
+  "claim": "C-3233",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Perez Hilton is named in claim (N-826) but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-826"
+   ]
+  }
+ },
+ {
+  "claim": "C-3234",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"brought together by an agent of Israel. No doubt\"; claim softens to \"tied to Israel\" and drops the stated certainty.",
+  "fix": {
+   "claim": "The host asserts that the 'Protecting Mrs. Kirk' group chat was brought together by an agent of Israel who previously said he gathers intel and collaborated with a Daily Wire employee and the Gaza Humanitarian Fund to create files on people for Israel's PR."
+  }
+ },
+ {
+  "claim": "C-3235",
+  "episode": 138,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host herself says \"It's terrifying though that they're just sharing my address in private chats\"; it follows a comment from Kyle about spending money on accounts, not a commenter acknowledging the address.",
+  "fix": {
+   "claim": "The host says it is terrifying that they are sharing her address in private chats, that they seem deranged and obsessed in a way that feels dangerous, and that she would have no interest in being in a chat with 91 people about where Erika lives.",
+   "mentions": [
+    "N-2",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3762",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim says \"his father turned him in\"; Tyler's father Matt Robinson (N-778) is clearly referred to but not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-40",
+    "N-54",
+    "N-778"
+   ]
+  }
+ },
+ {
+  "claim": "C-3763",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9087",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9088",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9089",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9090",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9091",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9092",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9093",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9094",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim text has \"Aman\" for Ackman.",
+  "fix": {
+   "claim": "The host says Bill Ackman tweeted he would award the father $1 million, and says she believes Andrew Kolvet admitted that Ackman did not give $1 million and that Matt Robinson did not turn his son in."
+  }
+ },
+ {
+  "claim": "C-9095",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9096",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9097",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9098",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9099",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9100",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9101",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9102",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"she almost debunked the idea entirely in my view\"; claim drops \"in my view\".",
+  "fix": {
+   "claim": "The host says the ATF examiner gave a range of weapons the one testable metal fragment could fit, that the range did not cover a .30-06, and that in her view the testimony almost debunked the idea the fragment was tied to Tyler Robinson's gun."
+  }
+ },
+ {
+  "claim": "C-9103",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9104",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim says one set was owned by Tyler's father; Matt Robinson (N-778) is clearly referred to but missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-40",
+    "N-54",
+    "N-778"
+   ]
+  }
+ },
+ {
+  "claim": "C-9105",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9106",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9107",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9108",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9109",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9110",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9111",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9112",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9113",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9114",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9115",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9116",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9117",
+  "episode": 138,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

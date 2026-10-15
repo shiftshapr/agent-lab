@@ -337,7 +337,7 @@
           "@type": "Artifact",
           "@id": "A-2262.2",
           "ref": "A-2262.2",
-          "description": "Joel Barry X post – \"$20 burritos for family of eight\"",
+          "description": "Joel Berry X post – \"$20 burritos for family of eight\"",
           "related_claims": [
             "C-3250"
           ],
@@ -355,7 +355,7 @@
           "@type": "Artifact",
           "@id": "A-2262.3",
           "ref": "A-2262.3",
-          "description": "Joel Barry 2024 X post – \"I'd like to go back to when I could afford groceries\"",
+          "description": "Joel Berry 2024 X post – \"I'd like to go back to when I could afford groceries\"",
           "related_claims": [
             "C-3251"
           ],
@@ -373,7 +373,7 @@
           "@type": "Artifact",
           "@id": "A-2262.4",
           "ref": "A-2262.4",
-          "description": "Matt Walsh reply to Joel Barry",
+          "description": "Matt Walsh reply to Joel Berry",
           "related_claims": [
             "C-3252"
           ],
@@ -724,7 +724,7 @@
       "ref": "N-10789",
       "name": "Grocery Affordability Public Debate (2026-08)",
       "type": "investigation_target",
-      "description": "Investigative target: cluster of X posts by Matt Walsh, Joel Barry, Dan Crenshaw, Blake Neff arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.",
+      "description": "Investigative target: cluster of X posts by Matt Walsh, Joel Berry, Dan Crenshaw, Blake Neff arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.",
       "related_artifacts": [
         "A-2262.1",
         "A-2262.2",
@@ -1180,7 +1180,7 @@
       "ref": "N-242",
       "name": "Joel Berry",
       "type": "person",
-      "description": "Joel Barry (listed as Joel Berry in the node list); his burrito posts are read.",
+      "description": "Joel Berry (listed as Joel Berry in the node list); his burrito posts are read.",
       "related_artifacts": [],
       "related_claims": [
         "C-13262"
@@ -2119,7 +2119,8 @@
       "claim_timestamp": "00:13:00",
       "investigative_direction": "Obtain TPUSA payment records or 1099 documentation for Andrew Wilson.",
       "mentions_person_refs": [
-        "N-18"
+        "N-18",
+        "N-14"
       ]
     },
     {
@@ -2146,7 +2147,7 @@
       "@id": "C-3243",
       "ref": "C-3243",
       "label": "Andrew Wilson debate clip displays verbal insults and personal attacks",
-      "claim": "A displayed debate clip shows Andrew Wilson, debating a female opponent named Charlie, using personal insults including calling her \"stupid\" and denigrating her family.",
+      "claim": "A debate clip the host plays shows Andrew Wilson, debating a female opponent named Charlie, telling her she is 'too stupid' to understand his worldview and to shut her mouth when she mentions his wife.",
       "anchored_artifacts": [
         "A-2258.1"
       ],
@@ -2162,8 +2163,8 @@
       "@type": "Claim",
       "@id": "C-3244",
       "ref": "C-3244",
-      "label": "Host Says Lance Twiggs Snowboarding Photo Shows Left-Hand Landing",
-      "claim": "The host says a snowboarding photo she displays shows Lance Twiggs falling onto his left hand, which she says is consistent with left-handedness or ambidexterity.",
+      "label": "Host Says Lance Twiggs Snowboarding Clip Shows Left-Hand Landing",
+      "claim": "The host says a snowboarding clip she displays shows Lance Twiggs falling onto his left hand, which she says is consistent with left-handedness or ambidexterity.",
       "anchored_artifacts": [
         "A-2259.1"
       ],
@@ -2230,7 +2231,6 @@
       "investigative_direction": "Obtain disclosure schedule from prosecution; identify what evidence remains sealed vs. available but unreleased.",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
         "N-89"
       ]
     },
@@ -2249,10 +2249,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:49–00:28:00",
-      "investigative_direction": "Obtain the \"4K\" influencer-shown version of this footage for higher-resolution verification of hand usage and pocket side.",
-      "mentions_person_refs": [
-        "N-40"
-      ]
+      "investigative_direction": "Obtain the \"4K\" influencer-shown version of this footage for higher-resolution verification of hand usage and pocket side."
     },
     {
       "@type": "Claim",
@@ -2277,8 +2274,8 @@
       "@type": "Claim",
       "@id": "C-3250",
       "ref": "C-3250",
-      "label": "Joel Barry posted that burritos for 8 cost under $20",
-      "claim": "Joel Barry posted on X that his wife's homemade burritos for a family of eight cost less than $20 total.",
+      "label": "Joel Berry Posted That Burritos for 8 Cost Under $20",
+      "claim": "Joel Berry posted on X that his wife's homemade burritos for a family of eight cost less than $20 total.",
       "anchored_artifacts": [
         "A-2262.2"
       ],
@@ -2287,14 +2284,17 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:30",
-      "investigative_direction": "Request itemized receipt or recipe cost breakdown."
+      "investigative_direction": "Request itemized receipt or recipe cost breakdown.",
+      "mentions_person_refs": [
+        "N-242"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3251",
       "ref": "C-3251",
-      "label": "Joel Barry in 2024 tweeted desire to return to affordable grocery era",
-      "claim": "Joel Barry tweeted in 2024, in reply to Kamala Harris, that he would like to \"go back to when there were no wars and I could afford groceries.\"",
+      "label": "Joel Berry in 2024 Tweeted Desire to Return to Affordable Grocery Era",
+      "claim": "Joel Berry tweeted in 2024, in reply to Kamala Harris, that he would like to \"go back to when there were no wars and I could afford groceries.\"",
       "anchored_artifacts": [
         "A-2262.3"
       ],
@@ -2303,14 +2303,17 @@
       ],
       "tags": [],
       "claim_timestamp": "00:41:00",
-      "investigative_direction": "Verify original tweet date and context."
+      "investigative_direction": "Verify original tweet date and context.",
+      "mentions_person_refs": [
+        "N-242"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3252",
       "ref": "C-3252",
-      "label": "Per Post the Host Reads, Matt Walsh Told Joel Barry Republicans Were Inconsistent on Affordability",
-      "claim": "Per a post the host reads, Matt Walsh replied to Joel Barry noting that virtually no Republican was making \"the affordability crisis is fake\" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.",
+      "label": "Per Post the Host Reads, Matt Walsh Told Joel Berry Republicans Were Inconsistent on Affordability",
+      "claim": "Per a post the host reads, Matt Walsh replied to Joel Berry noting that virtually no Republican was making \"the affordability crisis is fake\" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.",
       "anchored_artifacts": [
         "A-2262.4"
       ],
@@ -2321,7 +2324,8 @@
       "claim_timestamp": "00:38:00–00:39:30",
       "investigative_direction": "Compile post history of named Republicans regarding affordability claims during 2021–2024 vs. 2025–2026.",
       "mentions_person_refs": [
-        "N-164"
+        "N-164",
+        "N-242"
       ]
     },
     {
@@ -2338,7 +2342,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:40:30",
-      "investigative_direction": "Verify post and current ramen retail prices for college affordability comparison."
+      "investigative_direction": "Verify post and current ramen retail prices for college affordability comparison.",
+      "mentions_person_refs": [
+        "N-929"
+      ]
     },
     {
       "@type": "Claim",
@@ -2374,7 +2381,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:44:21–00:47:40",
-      "investigative_direction": "Verify release date, distribution, and producer credits."
+      "investigative_direction": "Verify release date, distribution, and producer credits.",
+      "mentions_person_refs": [
+        "N-97"
+      ]
     },
     {
       "@type": "Claim",
@@ -2388,7 +2398,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:49:52–00:51:05",
-      "investigative_direction": "Verify participants' identities and location."
+      "investigative_direction": "Verify participants' identities and location.",
+      "mentions_person_refs": [
+        "N-930"
+      ]
     },
     {
       "@type": "Claim",
@@ -2411,7 +2424,7 @@
       "@id": "C-3258",
       "ref": "C-3258",
       "label": "Email states Luna wears pentagram necklace",
-      "claim": "Per the same email, the Luna character from Helluva Boss wears a pentagram as a necklace.",
+      "claim": "The host says that, on looking further into Luna, she learned the 'demon dog' character from Helluva Boss wears a pentagram as a necklace.",
       "anchored_artifacts": [
         "A-2265.1"
       ],
@@ -2419,7 +2432,7 @@
         "N-10790"
       ],
       "tags": [],
-      "claim_timestamp": "00:23:55",
+      "claim_timestamp": "00:24:38",
       "investigative_direction": "Obtain canonical Helluva Boss images showing Luna's necklace design."
     },
     {
@@ -2500,7 +2513,7 @@
         "N-10253"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:00:55",
       "investigative_direction": "Treat as a recap of the host's earlier Macron schedule-gap research; verify against the Brigitte Macron September 4-10, 2025 schedule record and the Egyptian aircraft tracking data.",
@@ -2659,8 +2672,7 @@
       "transcript_snippet": "I think it probably would have been better for her to like lay low for a little while.",
       "mentions_person_refs": [
         "N-269",
-        "N-2",
-        "N-18"
+        "N-2"
       ]
     },
     {
@@ -2745,7 +2757,6 @@
       "transcript_snippet": "I've never so much as spoken to them, but then he also lied about them.",
       "mentions_person_refs": [
         "N-18",
-        "N-269",
         "N-3"
       ]
     },
@@ -2904,7 +2915,7 @@
       "@type": "Claim",
       "@id": "C-13214",
       "ref": "C-13214",
-      "label": "Host Requires Nef, Kolvet or Erika Kirk to Publicly Claim Wilson First",
+      "label": "Host Requires Neff, Kolvet or Erika Kirk to Publicly Claim Wilson First",
       "claim": "The host says her key condition is that Blake Neff, Andrew Kolvet or Erika Kirk must publicly claim Wilson first, saying they are sending him to debate on their behalf about the Charlie Kirk case.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3227,6 +3238,7 @@
       "investigative_direction": "Review the preliminary hearing transcript for any mention of statements from Tyler Robinson's parents.",
       "transcript_snippet": "We've not seen anything from his parents.",
       "mentions_person_refs": [
+        "N-89",
         "N-40",
         "N-3"
       ]
@@ -3627,7 +3639,7 @@
       "@id": "C-13246",
       "ref": "C-13246",
       "label": "Host Says It Is Unclear the Feds Verified Lance's Sleeping Alibi",
-      "claim": "The host says she doubts anyone has tested Lance's sleeping alibi and says it could easily be checked through cameras, requests for camera footage and his phone activity.",
+      "claim": "The host asks whether anyone, including the feds, has tested Lance Twiggs's sleeping alibi and says it could easily be checked through cameras, camera requests and his phone activity.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10598"
@@ -3987,8 +3999,8 @@
       "@type": "Claim",
       "@id": "C-13262",
       "ref": "C-13262",
-      "label": "Joel Barry Posts That the Affordability Crisis Is Really a Cooking Crisis",
-      "claim": "The host reads a post from Joel Barry saying that after his wife made burritos for a family of eight for under $20, he is beginning to think the affordability crisis is an I-don't-know-how-to-cook crisis.",
+      "label": "Joel Berry Posts That the Affordability Crisis Is Really a Cooking Crisis",
+      "claim": "The host reads a post from Joel Berry saying that after his wife made burritos for a family of eight for under $20, he is beginning to think the affordability crisis is an I-don't-know-how-to-cook crisis.",
       "anchored_artifacts": [
         "A-2262.2"
       ],
@@ -4031,7 +4043,7 @@
       "@type": "Claim",
       "@id": "C-13264",
       "ref": "C-13264",
-      "label": "Community Note Says Nef's Food-Spending Chart Relies on Pre-2020 Data",
+      "label": "Community Note Says Neff's Food-Spending Chart Relies on Pre-2020 Data",
       "claim": "The host says Blake Neff's World Economic Forum chart drew a community note stating that the linked article uses pre-2020 data showing the US with the lowest food expenditure shares.",
       "anchored_artifacts": [
         "A-2262.6"
@@ -4118,7 +4130,7 @@
       "@id": "C-13268",
       "ref": "C-13268",
       "label": "Host Accuses the Gaza Humanitarian Fund of Playing Hunger Games With Gazans' Lives",
-      "claim": "The host says Israel and its backers mass-murdered women, children and civilians and played hunger games with their lives as the Gaza Humanitarian Fund did.",
+      "claim": "The host says the man in the video is saying Israel and its backers are not allowed to mass murder women, children and innocent people and play hunger games with their lives as the Gaza Humanitarian Fund did, and she agrees he is right.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10670",

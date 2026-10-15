@@ -1568,7 +1568,8 @@
       "claim_timestamp": "00:02:24",
       "investigative_direction": "Obtain a certified copy of the bindover order; verify which specific counts were bound over and which were dismissed.",
       "mentions_person_refs": [
-        "N-40"
+        "N-40",
+        "N-136"
       ]
     },
     {
@@ -1589,7 +1590,8 @@
       "investigative_direction": "Obtain the written ruling; verify the court's exact reasoning and whether a separate written order accompanies the bench ruling.",
       "mentions_person_refs": [
         "N-40",
-        "N-54"
+        "N-54",
+        "N-136"
       ]
     },
     {
@@ -1758,7 +1760,7 @@
       "claim_timestamp": "00:22:38",
       "investigative_direction": "Identify the bag's owner; obtain receipt / loss-property reports if any.",
       "mentions_person_refs": [
-        "N-493"
+        "N-1"
       ]
     },
     {
@@ -1766,7 +1768,7 @@
       "@id": "C-3368",
       "ref": "C-3368",
       "label": "Kirk communicated the night before 9/10 that he feared for his life",
-      "claim": "Charlie Kirk communicated the night before September 10 that he feared for his life, that he thought they were going to kill him – a claim his wife initially denied and then conceded, and which he allegedly extended to his security team.",
+      "claim": "The host says we now know for a fact that Charlie Kirk communicated the night before that he was fearful for his life and thought they were going to kill him, something she says his wife Erika Kirk initially denied and then had to concede, and that people are now saying he also told his security people to be on him and no one else.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -1774,8 +1776,7 @@
       "investigative_direction": "Locate the original source(s) of the prior-night fear claim and corroborate against contemporaneous records (texts, voice mails, third-party accounts).",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
-        "N-493"
+        "N-2"
       ]
     },
     {
@@ -1783,7 +1784,7 @@
       "@id": "C-3369",
       "ref": "C-3369",
       "label": "Host Says Christopher and Nate Walker Were Upstairs Near the Sorensen Building Minutes Before the Shot",
-      "claim": "The host says Christopher (Kirk's main security person) and Nate Walker walked toward the Sorensen building and were upstairs in the minutes before the shot, in a clip she says was sent via TikTok to Baron Coleman.",
+      "claim": "The host says Christopher (Kirk's main security person) and Nate Walker walked toward the Sorensen building and were upstairs in the minutes before the shot, in a clip she thinks was captured on TikTok and sent to Baron Coleman.",
       "anchored_artifacts": [
         "A-2329.4"
       ],
@@ -1794,7 +1795,8 @@
       "claim_timestamp": "00:17:03",
       "investigative_direction": "Obtain original TikTok source footage with timestamp; obtain statements from Christopher and Walker regarding their location and purpose.",
       "mentions_person_refs": [
-        "N-505"
+        "N-505",
+        "N-331"
       ]
     },
     {
@@ -1842,7 +1844,7 @@
       "@id": "C-3372",
       "ref": "C-3372",
       "label": "Host Says UVU Security Vehicles Arrived Between 9:00 and 9:30 a.m. on 9/10",
-      "claim": "The host says that, based on the security team's testimonies, the two security vehicles (a black Jeep Wagoneer and a Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., before Charlie Kirk arrived in Salt Lake City for the restaurantology event.",
+      "claim": "The host says that, based on the security team's testimonies, the two security vehicles (a black Jeep Wagoneer and a Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., independently of Charlie Kirk, while he was at the restaurantology event in Salt Lake City.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10820"
@@ -1851,8 +1853,7 @@
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times.",
       "mentions_person_refs": [
-        "N-1",
-        "N-493"
+        "N-1"
       ]
     },
     {
@@ -1906,7 +1907,9 @@
       "tags": [],
       "claim_timestamp": "00:39:42",
       "investigative_direction": "This is a host-stance claim; verification would require Walsh's reply or retraction.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-164"
+      ]
     },
     {
       "@type": "Claim",
@@ -1981,7 +1984,7 @@
         "N-10825"
       ],
       "tags": [],
-      "claim_timestamp": "00:42:00",
+      "claim_timestamp": "00:44:15",
       "investigative_direction": "Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.",
       "mentions_person_refs": [
         "N-40",
@@ -2034,7 +2037,7 @@
       "@id": "C-3382",
       "ref": "C-3382",
       "label": "Defense page 32 asserts inference-upon-inference as to political motivation",
-      "claim": "The August 11 defense filing, page 32, asserts that the state is \"inferring upon an inference\" to establish political motivation, and that the record contains \"no evidence of specific political expressions of Mr. Kirk which, if any, Mr. Robinson may have been aware of or focused on.\"",
+      "claim": "Per the August 11 defense filing the host shows (page 32), \"There's no evidence of specific political expressions of Mr. Kirk which, if any, Mr. Robinson may have been aware of or focused on\"; the host says the defense argues the state is \"inferring upon an inference.\"",
       "anchored_artifacts": [
         "A-2337"
       ],
@@ -2110,7 +2113,8 @@
       "mentions_person_refs": [
         "N-191",
         "N-2",
-        "N-160"
+        "N-160",
+        "N-17"
       ]
     },
     {
@@ -2118,7 +2122,7 @@
       "@id": "C-3386",
       "ref": "C-3386",
       "label": "\"Mikey said there's so much blood\" claim traces to Hibbs / Turek, not McCoy",
-      "claim": "The \"so much blood\" claim attributed to Mikey McCoy did not originate with McCoy himself; the host identifies Pastor Jack Hibbs and Frank Turek as the source within the \"pastor orbit.\" Host states McCoy never publicly described seeing large amounts of blood.",
+      "claim": "The \"so much blood\" claim attributed to Mikey McCoy did not originate with McCoy himself; the host says it came from his father, from Jack Hibbs and, she thinks, Frank Turek, i.e. \"the pastor orbit.\" The host states McCoy never described seeing a lot of blood in his press.",
       "anchored_artifacts": [
         "A-2339"
       ],
@@ -2188,7 +2192,7 @@
       "@id": "C-3390",
       "ref": "C-3390",
       "label": "Mikey McCoy allegedly appeared \"profoundly freaked out\" with \"lip quivering\" per Neff",
-      "claim": "Blake Neff testified that he observed Mikey McCoy to be \"profoundly freaked out\" with a \"quivering\" lip, and that this was the only time Neff had seen McCoy in that state in approximately two years of working together.",
+      "claim": "Blake Neff testified that he saw Mikey McCoy \"profoundly freaked out,\" with a quivering lip that he had never seen before, though he had seen McCoy almost every day for the past two years.",
       "anchored_artifacts": [
         "A-2338"
       ],
@@ -2224,7 +2228,7 @@
       "@type": "Claim",
       "@id": "C-3392",
       "ref": "C-3392",
-      "label": "Neff testified he did not enter the vehicle to drive to the hospital",
+      "label": "Neff Testified He Considered and Rejected Getting Into the SUV While Running",
       "claim": "Blake Neff testified that he considered getting into the SUV he had arrived in (\"the SUV that we came in on\") but decided against it (\"that's a really stupid thing to do\") and kept running.",
       "anchored_artifacts": [
         "A-2338"
@@ -2244,7 +2248,7 @@
       "@id": "C-3667",
       "ref": "C-3667",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host, plugging a \"CIA hat,\" says \"we know actually the decentralized intelligence agency,\" adding that there is no nucleus and everybody is sharing in the background and discussing when to drop certain things.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2261,7 +2265,7 @@
       "@id": "C-3668",
       "ref": "C-3668",
       "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
-      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "claim": "The host plugs a \"CIA hat\" as part of her merch and then says \"it is we know actually the decentralized intelligence agency.\"",
       "anchored_artifacts": [
         "A-2492.1"
       ],
@@ -2280,7 +2284,7 @@
       "@id": "C-3669",
       "ref": "C-3669",
       "label": "Host says DIA / crowd intel has no nucleus",
-      "claim": "The host claims the decentralized / crowd intelligence effort has \"no nucleus,\" emphasizing distributed tip-gathering rather than a central cell.",
+      "claim": "The host says the decentralized intelligence agency has \"no nucleus,\" that everybody is sharing in the background, and that they are all discussing when to drop certain things.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2425,8 +2429,7 @@
         "C-5041"
       ],
       "mentions_person_refs": [
-        "N-40",
-        "N-125"
+        "N-40"
       ]
     },
     {
@@ -2733,7 +2736,7 @@
       "@type": "Claim",
       "@id": "C-14816",
       "ref": "C-14816",
-      "label": "Host Says TPUSA Side Now Claims Kirk Told Security to Be on Him and No One Else",
+      "label": "Host Says People Are Now Claiming Kirk Told Security to Be on Him and No One Else",
       "claim": "The host says people are now saying Charlie Kirk went further and told his security personnel they needed to be on him and no one else.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2857,10 +2860,7 @@
       ],
       "claim_timestamp": "00:22:45",
       "investigative_direction": "Frame-by-frame review of the footage for any exchange of keys or request for them.",
-      "transcript_snippet": "No nobody's going, \"Hey, where's Chris? We need the keys.\" It's just open and ready for them.",
-      "mentions_person_refs": [
-        "N-493"
-      ]
+      "transcript_snippet": "No nobody's going, \"Hey, where's Chris? We need the keys.\" It's just open and ready for them."
     },
     {
       "@type": "Claim",
@@ -2903,10 +2903,7 @@
       ],
       "claim_timestamp": "00:25:30",
       "investigative_direction": "Review the parking footage to see who parked where and in what order.",
-      "transcript_snippet": "You're the security, you should not be blocked in, your vehicle should be able to get out to just as easily as Charlie's vehicle can get out.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "transcript_snippet": "You're the security, you should not be blocked in, your vehicle should be able to get out to just as easily as Charlie's vehicle can get out."
     },
     {
       "@type": "Claim",

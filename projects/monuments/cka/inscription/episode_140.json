@@ -1618,7 +1618,7 @@
       "@id": "C-3260",
       "ref": "C-3260",
       "label": "Parking-garage subject appears left-hand dominant",
-      "claim": "In the parking-garage stills, the subject is shown retrieving a phone from his left pocket and inserting an earpiece into his left ear; a government source referenced by the host asserts this is consistent with left-handedness.",
+      "claim": "In the parking-garage stills, the host says the subject appears left-handed, and that her government source says he takes his phone out of his left pocket and puts an earpiece into his left ear and feels confident the person is left-handed.",
       "anchored_artifacts": [
         "A-2267.2"
       ],
@@ -1730,7 +1730,9 @@
       "claim_timestamp": "00:18:42",
       "investigative_direction": "Obtain the full Agent Hoole testimony transcript and Officer Goforth's body-cam footage; verify the encounter's actual content (stop vs. drive-by).",
       "mentions_person_refs": [
-        "N-40"
+        "N-40",
+        "N-864",
+        "N-865"
       ]
     },
     {
@@ -1782,14 +1784,18 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:32:22",
-      "investigative_direction": "Confirm identity through public records and account-history linkage."
+      "investigative_direction": "Confirm identity through public records and account-history linkage.",
+      "mentions_person_refs": [
+        "N-867",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3270",
       "ref": "C-3270",
       "label": "Britta Weidner sent 4,040 tweets about Candace Owens in 11 months",
-      "claim": "A tweet-counter account shows that \"No Soup For You\" sent 4,040 tweets about Candace Owens between Charlie Kirk's assassination and the date of the count.",
+      "claim": "The host says a tweet-counter account found that \"No Soup For You\" (Britta Weidner) sent 4,040 tweets about her in the 11 months since Charlie Kirk's assassination.",
       "anchored_artifacts": [
         "A-2273.3"
       ],
@@ -1798,6 +1804,7 @@
       "claim_timestamp": "00:33:27",
       "investigative_direction": "Obtain the underlying tweet-counter screenshot and verify date range and account identifier.",
       "mentions_person_refs": [
+        "N-867",
         "N-3",
         "N-1"
       ]
@@ -1806,8 +1813,8 @@
       "@type": "Claim",
       "@id": "C-3271",
       "ref": "C-3271",
-      "label": "Candace Owens sent 104 tweets about Erica Kirk in the same period (per same tweet-counter source)",
-      "claim": "The host states she sent 104 tweets about Erica Kirk in the same 11-month window – presented as a comparison baseline against the 4,040 tweets by Britta Weidner.",
+      "label": "Candace Owens Sent 104 Tweets About Erika Kirk in the Same Period (Per Same Tweet-Counter Source)",
+      "claim": "The host states she sent 104 tweets about Erika Kirk in the same 11-month window, presented as a comparison baseline against the 4,040 tweets by Britta Weidner.",
       "anchored_artifacts": [
         "A-2273.3"
       ],
@@ -1817,7 +1824,8 @@
       "investigative_direction": "Obtain the tweet-counter output and verify both figures and their date ranges.",
       "mentions_person_refs": [
         "N-2",
-        "N-3"
+        "N-3",
+        "N-867"
       ]
     },
     {
@@ -1842,8 +1850,8 @@
       "@type": "Claim",
       "@id": "C-3273",
       "ref": "C-3273",
-      "label": "Mikey McQuaid's immediate post-shooting reaction is being questioned by viewer Manny Petty",
-      "claim": "Viewer Manny Petty asserts that Mikey McQuaid was on the phone within two seconds of Charlie Kirk being shot, did not appear visibly shocked, and walked away; host concurs that the official explanations have been inconsistent.",
+      "label": "Mikey McCoy's immediate post-shooting reaction is being questioned by viewer Manny Petty",
+      "claim": "Viewer Manny Petty asserts that Mikey McCoy was on the phone within two seconds of Charlie Kirk being shot, did not appear visibly shocked, and walked away; the host says they are on record lying about it and that the explanations have shifted.",
       "anchored_artifacts": [
         "A-2275.1"
       ],
@@ -1861,7 +1869,7 @@
       "@id": "C-3274",
       "ref": "C-3274",
       "label": "Ellie (viewer) frames Candace's \"let them live and face consequences\" stance as distinct from Frank Turek's \"she should be killed\" framing",
-      "claim": "A viewer comment contrasts Candace's stated position with Frank Turek's framing of Erica Kirk as deserving death; host concurs that the latter framing is dark.",
+      "claim": "A viewer comment the host reads, from Ellie, contrasts the host's message of wanting these people to live and face consequences with Frank Turek's message that 'she should be killed for what she said'; the host agrees there is something very dark about their constant use of the Bible.",
       "anchored_artifacts": [
         "A-2275.2"
       ],
@@ -1870,7 +1878,8 @@
       "claim_timestamp": "00:47:55",
       "investigative_direction": "Verify the quoted Frank Turek statement against its original source.",
       "mentions_person_refs": [
-        "N-2"
+        "N-3",
+        "N-7"
       ]
     },
     {
@@ -2373,8 +2382,7 @@
       "investigative_direction": "Obtain the exhibit map and video Hoole was describing and the full transcript of this testimony.",
       "transcript_snippet": "that vehicle is now pulling away and heading east on 800 South.",
       "mentions_person_refs": [
-        "N-864",
-        "N-865"
+        "N-864"
       ]
     },
     {
@@ -2580,8 +2588,8 @@
         "N-10792"
       ],
       "tags": [
-        "relevance:context",
-        "dia"
+        "dia",
+        "relevance:core"
       ],
       "claim_timestamp": "00:27:21",
       "investigative_direction": "Review the emails received at the tips address for identifications of the device.",
@@ -2614,8 +2622,7 @@
         "C-3268"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-2"
+        "N-3"
       ]
     },
     {
@@ -2764,7 +2771,7 @@
       "@type": "Claim",
       "@id": "C-10463",
       "ref": "C-10463",
-      "label": "Host Says Widener Helped Spread the April Lies About Her Husband",
+      "label": "Host Says Weidner Helped Spread the April Lies About Her Husband",
       "claim": "The host says Britta Weidner went after her family and husband and was part of the people perpetuating the lies about her husband back in April, and is also in the group of 92.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2852,7 +2859,7 @@
       "@type": "Claim",
       "@id": "C-10467",
       "ref": "C-10467",
-      "label": "Host Says Paramount Tactical Was Virtually the Only Man in the Group",
+      "label": "Host Says Paramount Not Tactical Was Virtually the Only Man in the Group",
       "claim": "The host says the account she calls Paramount Not Tactical was virtually the only male in the Protect Mrs. Erika Kirk group chat.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2984,7 +2991,7 @@
       "@id": "C-10473",
       "ref": "C-10473",
       "label": "Host Reads Rachel Wilson's Zoomer Soy Boys and HR Message",
-      "claim": "The host says Rachel Wilson wrote that those who clutch their pearls about smoking are zoomer soy boys or the type of woman who reports everything to HR.",
+      "claim": "The host says Rachel Wilson wrote asking who clutches their pearls about smoking, answering zoomer soy boys maybe or the type of woman who reports everything to HR.",
       "anchored_artifacts": [
         "A-3081.2"
       ],
@@ -3151,7 +3158,8 @@
       "transcript_snippet": "To be fair, I did tell his wife to I suggested she should shut up.",
       "mentions_person_refs": [
         "N-562",
-        "N-3"
+        "N-3",
+        "N-18"
       ]
     },
     {
@@ -3225,7 +3233,7 @@
         "N-11262"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:43:01",
       "investigative_direction": "Request TPUSA contracts, invoices or event schedules showing payments to Wilson for debate training.",
@@ -3461,7 +3469,7 @@
         "N-11262"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:52:08",
       "investigative_direction": "Request TPUSA payment records and statements about Wilson's role.",
@@ -3475,7 +3483,7 @@
       "@id": "C-10496",
       "ref": "C-10496",
       "label": "Host Says the Person on the Steps Made a Mistake Because You Cannot Rewire Your Brain",
-      "claim": "The host says the person she believes was coming down the steps made a mistake because you cannot rewire your brain for a morning, implying the left-handed person is not the right-handed Robinson.",
+      "claim": "The host says Robinson is right-handed, as the documents show, and that the person she believes was coming down the steps made a mistake because you cannot rewire your brain for a morning.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10793",

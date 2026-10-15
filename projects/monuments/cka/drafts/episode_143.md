@@ -150,7 +150,7 @@ Confidence: high
 
 ## II. Executive Summary
 
-The episode centers on three artifact-anchored evidentiary threads. First, the host presents newly released exclusive footage (A-2295) of the camera operator variously identified as "Taral," "Terryl," and "Terrence" (N-262) handling SD cards at the event scene, including a sequence in which an SD card from the camera behind Charlie Kirk's head (N-1) is pocketed and then inserted into a laptop. The host pairs this footage with a displayed camera-position diagram (A-2300) to argue that the yellow audience-facing camera fell to the ground and was stepped over rather than retrieved.
+The episode centers on three artifact-anchored evidentiary threads. First, the host presents newly released exclusive footage (A-2295) of the camera operator variously identified as "Taral," "Terryl," and "Terryl" (N-262) handling SD cards at the event scene, including a sequence in which an SD card from the camera behind Charlie Kirk's head (N-1) is pocketed and then inserted into a laptop. The host pairs this footage with a displayed camera-position diagram (A-2300) to argue that the yellow audience-facing camera fell to the ground and was stepped over rather than retrieved.
 
 Second, the host plays an audio clip (A-2296) of Donald Trump on Fox and Friends in which Trump identifies Mike Mitchell (N-125) as the person who recognized Tyler Robinson (N-40) from the stairwell photo and initiated the contact chain. The host uses this artifact to challenge the circulating narrative that Robinson's parents turned him in.
 
@@ -176,7 +176,7 @@ Confidence Level: High
 
 **A-2295** Exclusive Footage – Terryl/Taral SD Card and Laptop Handling
 
-**A-2295.1** Video segment showing the camera operator (Taral/Terryl/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and apparently inserting the SD card into it. Lane Schamberger is visible at the side washing his hands.
+**A-2295.1** Video segment showing the camera operator (Taral/Terryl/Terryl) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and apparently inserting the SD card into it. Lane Schamberger is visible at the side washing his hands.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -252,7 +252,7 @@ Confidence Level: High
 
 **A-2299** Wear Forbidden Video Clip – Matrix Parody
 
-**A-2299.1** Video clip from "Where Forbidden" X/Instagram account using the red-pill/blue-pill Matrix framing to parody reactions to the Tyler Robinson case, repeating "So what?" against "positive evidence," "appeal to emotion," and "burden of proof."
+**A-2299.1** Video clip from "Wear Forbidden" X/Instagram account using the red-pill/blue-pill Matrix framing to parody reactions to the Tyler Robinson case, repeating "So what?" against "positive evidence," "appeal to emotion," and "burden of proof."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -585,7 +585,7 @@ Reused.
 
 ---
 
-**N-11091** Where Forbidden
+**N-11091** Wear Forbidden
 
 The parody account.
 
@@ -810,7 +810,7 @@ The host's assertion that January 6th was an event allegedly coordinated by fede
 
 Claim Timestamp: 00:08:42
 
-Claim: The host presents footage showing the camera operator removing an SD card from the camera behind Charlie Kirk's head, looking around, and pocketing the card within approximately four to five minutes of Charlie being struck.
+Claim: The host says that in footage shown the previous day, the camera operator removed an SD card from the camera behind Charlie Kirk's head, looked around, and pocketed it within approximately four to five minutes of Charlie being struck.
 
 Anchored Artifacts: A-2295.1
 Mentions: N-1, N-262
@@ -823,7 +823,7 @@ Investigative Direction: Obtain original unedited video and corroborate timestam
 
 Claim Timestamp: 00:09:43
 
-Claim: The host describes footage in which the camera operator opens his laptop and appears to insert the previously pocketed SD card into it, all within roughly ten minutes of the shooting.
+Claim: The host describes footage in which the camera operator opens his laptop and appears to insert the previously pocketed SD card into it, which she says, citing a government source, was all within roughly ten minutes of the shooting.
 
 Anchored Artifacts: A-2295.1
 Mentions: N-262
@@ -858,11 +858,11 @@ Investigative Direction: Confirm camera-down timestamp via SBI/UPD evidence logs
 
 ---
 
-**C-3306** Trump Publicly Identified Mike Mitchell as the Person Who Recognized Tyler Robinson From the Stairwell Photo
+**C-3306** Trump Described a Close Acquaintance Who Recognized Tyler Robinson, Which the Host Says Is Mike Mitchell
 
 Claim Timestamp: 00:32:32
 
-Claim: In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that "somebody that's close" – described as a person involved in law enforcement and a minister – recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal.
+Claim: In a Fox and Friends appearance aired in the immediate aftermath of Tyler Robinson's arrest, Donald Trump stated that "somebody that's close" - described as a person involved in law enforcement and a minister - recognized Tyler Robinson from a slight tilt of the head, then went to the father and to a US Marshal. The host says he was describing Mike Mitchell.
 
 Anchored Artifacts: A-2296.1
 Mentions: N-1, N-40, N-125, N-5
@@ -877,7 +877,7 @@ Claim Timestamp: 00:33:22
 Claim: Trump's on-air description characterizes the recognizing individual as a person involved in law enforcement and "a person of faith, a minister," which the host maps to Mike Mitchell's known roles.
 
 Anchored Artifacts: A-2296.1
-Mentions: N-125
+Mentions: N-5, N-125
 Investigative Direction: Verify Mike Mitchell's documented roles (Mormon minister, prior undercover work in sex crimes, family-friend relationship to Robinsons) via official biographies and law-enforcement employment records.
 
 ---
@@ -886,7 +886,7 @@ Investigative Direction: Verify Mike Mitchell's documented roles (Mormon ministe
 
 Claim Timestamp: 00:18:07
 
-Claim: Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is "very conspicuously not contesting any of the core evidence" – specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data – and that the defense's only substantive challenge is to reliable hearsay.
+Claim: Blake Neff's tweet (read in full) asserts that the Tyler Robinson defense filing is "very conspicuously not contesting any of the core evidence" - specifically camera footage, DNA, the rifle, cause of death, and Robinson's phone data - and that all the defense has is a complaint about reliable hearsay and attacks on the aggravating factors.
 
 Anchored Artifacts: A-2294.1
 Mentions: N-160, N-40
@@ -901,7 +901,7 @@ Claim Timestamp: 00:35:00
 Claim: In an audio clip, streamer Hasan Piker calls Candace Owens "a queen" who "successfully and single-handedly undermined the Republican initiative to martyrize Charlie Kirk," while simultaneously stating his belief that Tyler Robinson likely did it.
 
 Anchored Artifacts: A-2297.1
-Mentions: N-1, N-40, N-125, N-3
+Mentions: N-787, N-3, N-1, N-40
 Investigative Direction: Verify the full unedited Piker stream segment and timestamp; cross-check against the Brandi Zadrozny article the host references.
 
 ---
@@ -913,16 +913,16 @@ Claim Timestamp: 00:34:27
 Claim: Blake Neff's tweet (read in full) states that "the radical pro-violence left knows exactly what a gift Candace and her ilk are to them," framing her investigative work on the Robinson case as materially assisting left-wing political interests.
 
 Anchored Artifacts: A-2298.1
-Mentions: N-160, N-125, N-3
+Mentions: N-160, N-3
 Investigative Direction: Confirm tweet text against archive (e.g., X/Twitter permanent-link capture) and identify any subsequent correction or community-note action.
 
 ---
 
-**C-3311** Host Plays Where Forbidden Matrix-Parody Video Repeating "So What?" Against Tyler Robinson Case Argumentation Standards
+**C-3311** Host Plays Wear Forbidden Matrix-Parody Video Repeating "So What?" Against Tyler Robinson Case Argumentation Standards
 
 Claim Timestamp: 00:41:34
 
-Claim: The host plays a clip she says is from the Where Forbidden account, a short parody video using the Matrix red-pill/blue-pill framing about the Tyler Robinson case, repeating "so what?" in response to "positive evidence," "appeal to emotion," and "burden of proof."
+Claim: The host plays a clip she says is from the Wear Forbidden account, a short parody video using the Matrix red-pill/blue-pill framing about the Tyler Robinson case, repeating "so what?" in response to "positive evidence," "appeal to emotion," and "burden of proof."
 
 Anchored Artifacts: A-2299.1
 Mentions: N-40
@@ -932,7 +932,7 @@ Investigative Direction: Confirm the original post URL and capture it before any
 
 **C-3312** Host's Government Source Places All SD Card and Laptop Activity Within ~10 Minutes of Charlie Kirk Being Struck
 
-Claim Timestamp: 00:11:42
+Claim Timestamp: 00:10:57
 
 Claim: The host states, citing a government source she trusts, that the entire sequence – Terryl pocketing the SD card, racing to his laptop, and the apparent SD card insertion – occurred within approximately ten minutes of Charlie Kirk being shot.
 
@@ -974,13 +974,13 @@ Investigative Direction: Collect the TPUSA-side statements and articles that mak
 
 ---
 
-**C-7537** Host Says Terrence Lied to Her About Not Knowing How to Send a Clip
+**C-7537** Host Says Terryl Lied to Her About Not Knowing How to Send a Clip
 
 Claim Timestamp: 00:04:09
 
-Claim: The host says that in the previous episode she demonstrated that Terrence lied to her about not knowing how to send a clip and about a fear that Google would hack him.
+Claim: The host says that in the previous episode she demonstrated that Terryl lied to her about not knowing how to send a clip and about a fear that Google would hack him.
 
-Transcript Snippet: yesterday I demonstrated to you all that Terrence lied to me. That's just a fact. He lied to me about not knowing how to send a clip.
+Transcript Snippet: yesterday I demonstrated to you all that Terryl lied to me. That's just a fact. He lied to me about not knowing how to send a clip.
 
 Anchored Artifacts: 
 Mentions: N-3, N-262
@@ -995,7 +995,7 @@ Investigative Direction: Compare the host's account of the conversation with Far
 
 Claim Timestamp: 00:06:40
 
-Claim: The host says that when she asked why the footage was not simply released to clear his name, the person she was speaking with said it was in the purview of law enforcement, which she says she cannot accept as a reason not to release or leak it.
+Claim: The host says that when she asked why the footage was not simply released to clear his name, the person she was speaking with said it was in the purview of law enforcement, and that she finds it difficult to imagine accepting that as a reason not to release or at least leak it.
 
 Transcript Snippet: And he said, "That's in the preview of law enforcement." He meant in the purview of law enforcement.
 
@@ -1122,7 +1122,7 @@ Investigative Direction: Locate Kolvet's original statement and compare it with 
 
 ---
 
-**C-7546** Host Says TPUSA Side Said There Was Nothing Special About the Camera Behind Charlie's Head
+**C-7546** Host Says They Were Told There Was Nothing Special About the Camera Behind Charlie's Head
 
 Claim Timestamp: 00:13:38
 
@@ -1351,14 +1351,14 @@ Investigative Direction: Check the complaint for the Shawn Ryan interview claim 
 
 Claim Timestamp: 00:23:09
 
-Claim: The host says her dismissal filing in the Brigitte Macron matter argues that Macron is not supposed to be there, noting that Macron is in France, the suit is in Delaware and she is in Tennessee.
+Claim: The host says her dismissal filing in the Brigitte Macron matter argues that Macron is not supposed to be in that court, noting that Macron is in France but suing in Delaware while she is in Tennessee.
 
 Transcript Snippet: That's what I'm arguing. She's not even supposed to be here. What are we even talking about? She's in Delaware. I'm in Tennessee.
 
 Anchored Artifacts: 
 Mentions: N-3, N-82
 Related Nodes: N-10270
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Read the motion to dismiss in the Delaware case for the jurisdiction and venue grounds.
 
 ---
@@ -1529,7 +1529,7 @@ Investigative Direction: Seek on-record confirmation from the Robinson family or
 
 Claim Timestamp: 00:32:19
 
-Claim: The host says the charging document, which used the statement that the family friend wrote up, was signed off by Brian Davis.
+Claim: The host speculates that the charging document, which she says was signed off by Brian Davis, used the statement the family friend later wrote, adding that it is all a plausibility and they do not know at this juncture.
 
 Transcript Snippet: and the charging document rather, which was signed off by Brian Davis.
 
@@ -1550,7 +1550,7 @@ Claim: The host says Mike Mitchell is not just Robinson's Boy Scout leader and a
 Transcript Snippet: Mike Mitchell is not just his Boy Scout leader. He's not just the former police officer, undercover police officer, and all the evidence points to the fact that he did work undercover in sex crimes
 
 Anchored Artifacts: A-2296.1
-Mentions: N-125, N-5
+Mentions: N-125, N-40
 Related Nodes: N-10151
 Supports: C-1330
 Tags: relevance:core
@@ -1874,11 +1874,11 @@ Investigative Direction: Cross-check with the host's earlier account of her deba
 
 ---
 
-**C-7593** Host Plugs the Stop Anti-Candacism Bug Featured in the Where Forbidden Video
+**C-7593** Host Plugs the Stop Anti-Candacism Bug Featured in the Wear Forbidden Video
 
 Claim Timestamp: 00:48:21
 
-Claim: The host says the stop anti-Candacism bug, which she says was featured in the Where Forbidden Debate Trix video, can be bought to support the show.
+Claim: The host says the stop anti-Candacism bug, which she says was featured in the Wear Forbidden Debate Trix video, can be bought to support the show.
 
 Transcript Snippet: you can also support us by buying the stop anti-Candacism bug, which was featured in the Wear Forbidden Debate Trix video.
 
@@ -1886,7 +1886,7 @@ Anchored Artifacts:
 Mentions: N-3
 Related Nodes: N-11091
 Tags: relevance:tangential
-Investigative Direction: Find the Where Forbidden video and the merchandise listing.
+Investigative Direction: Find the Wear Forbidden video and the merchandise listing.
 
 ---
 
@@ -1972,7 +1972,7 @@ Investigative Direction: Check the episode schedule for the following week.
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** The camera operator is referred to in the transcript as "Taral," "Terryl," and "Terrence." Most likely "Terryl" based on prior series usage, but the episode does not resolve the spelling. (Affects N-262.)
+- **Name uncertainty:** The camera operator is referred to in the transcript as "Taral," "Terryl," and "Terryl." Most likely "Terryl" based on prior series usage, but the episode does not resolve the spelling. (Affects N-262.)
 - **Transcript ambiguity:** A clear mid-segment gap appears at transcript marker [06:40], with the line "And he usually starts the tour seasons to make sure they are well set up." This reads as either a transcription artifact or missing context. Recommend human review.
 - **Artifact verbally referenced but not shown:** The host references an appearance by Erica Kirk on Glenn Beck's show regarding pre-event text messages, but no clip or screenshot is displayed in this episode. Flagged as verbal-reference-only.
 - **Artifact verbally referenced but not shown:** The host references a Brandi Zadrozny article as the source of the "left-coordination" framing but does not display the article. Flagged as verbal-reference-only.
@@ -1990,7 +1990,7 @@ Investigative Direction: Check the episode schedule for the following week.
 - [x] No episode-wide artifact bundle; each family represents one evidentiary source
 - [x] People nodes use sequential people-numbering; investigation targets use 2200 series
 - [x] No speculative claims inscribed as evidence-backed
-- [x] Names preserved exactly as transcript; "Taral/Terryl/Terrence" flagged with uncertainty
+- [x] Names preserved exactly as transcript; "Taral/Terryl/Terryl" flagged with uncertainty
 - [x] Formatting consistent across registers
 
 ---

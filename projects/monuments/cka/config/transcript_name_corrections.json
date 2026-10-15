@@ -2080,6 +2080,73 @@
     [
       "\\bTaylor Boyer\\b",
       "Tyler Bowyer"
+    ],
+    [
+      "\\bAri Schaefer\\b",
+      "Ari Shaffir"
+    ],
+    [
+      "\\bJames Cadis\\b",
+      "James Kaddis"
+    ],
+    [
+      "\\bCadis\\b",
+      "Kaddis",
+      [
+        146
+      ]
+    ],
+    [
+      "\\bCassie Akiva\\b",
+      "Kassy Akiva"
+    ],
+    [
+      "\\bGaza Humanitarian Fund\\b",
+      "Gaza Humanitarian Foundation",
+      [
+        138
+      ]
+    ],
+    [
+      "\\bJenica Pounds\\b",
+      "Jennica Pounds"
+    ],
+    [
+      "\\bJoel Barry\\b",
+      "Joel Berry"
+    ],
+    [
+      "\\bJohn Kirao\\b",
+      "John Kiriakou"
+    ],
+    [
+      "\\bJohnny Moore\\b",
+      "Johnnie Moore",
+      [
+        138
+      ]
+    ],
+    [
+      "\\bMatt Nuclear\\b",
+      "Mat Nuclear"
+    ],
+    [
+      "\\bMikey McQuaid\\b",
+      "Mikey McCoy",
+      [
+        140
+      ]
+    ],
+    [
+      "\\bWhere Forbidden\\b",
+      "Wear Forbidden"
+    ],
+    [
+      "\\bTerrence\\b",
+      "Terryl",
+      [
+        143
+      ]
     ]
   ]
 }

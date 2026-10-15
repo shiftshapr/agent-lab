@@ -39,7 +39,7 @@
   - Artifact Families Introduced: A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
   - Claim Range: C-3260–C-3274
   - New People Nodes Introduced: none (Wave 2: local ids removed)
-  - Existing Nodes Reused: N-2, N-3 (Candace), Tyler Robinson node, Lance Twiggs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
+  - Existing Nodes Reused: N-2, N-3 (Candace), Tyler Robinson node, Lance Twiggs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McCoy node
   - New Investigation Target Nodes: N-10791, N-10792, N-10793
 
 ---
@@ -222,7 +222,7 @@ Video Timestamp: 00:46:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (read aloud)
 
-*Related: C-3273, Mikey McQuaid node, N-1*
+*Related: C-3273, Mikey McCoy node, N-1*
 
 **A-2275.2** Ellie comment: contrasting Candace's framing of "let them live and face consequences" vs. Frank Turek's "she should be killed"
 
@@ -821,7 +821,7 @@ The host's claim that Turning Point USA brought in and paid Andrew Wilson to tea
 
 Claim Timestamp: 00:10:05
 
-Claim: In the parking-garage stills, the subject is shown retrieving a phone from his left pocket and inserting an earpiece into his left ear; a government source referenced by the host asserts this is consistent with left-handedness.
+Claim: In the parking-garage stills, the host says the subject appears left-handed, and that her government source says he takes his phone out of his left pocket and puts an earpiece into his left ear and feels confident the person is left-handed.
 
 Anchored Artifacts: A-2267.2
 
@@ -911,7 +911,7 @@ Claim Timestamp: 00:18:42
 Claim: According to Agent Hoole's testimony as played in the episode, the suspect vehicle "made contact with an officer that was doing security detail," identified as Officer Goforth.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-40
+Mentions: N-40, N-864, N-865
 
 Related Nodes:
 
@@ -957,6 +957,7 @@ Claim Timestamp: 00:32:22
 Claim: The host says the account "No Soup For You" / "No Soup For Noels," which she had assumed belonged to a teenager, has been revealed to belong to Britta Weidner, whom she describes as almost 45 years old, and she references a DUI photo from last year.
 
 Anchored Artifacts: A-2273.1, A-2273.2
+Mentions: N-867, N-3
 
 Related Nodes:
 
@@ -968,24 +969,24 @@ Investigative Direction: Confirm identity through public records and account-his
 
 Claim Timestamp: 00:33:27
 
-Claim: A tweet-counter account shows that "No Soup For You" sent 4,040 tweets about Candace Owens between Charlie Kirk's assassination and the date of the count.
+Claim: The host says a tweet-counter account found that "No Soup For You" (Britta Weidner) sent 4,040 tweets about her in the 11 months since Charlie Kirk's assassination.
 
 Anchored Artifacts: A-2273.3
-Mentions: N-3, N-1
+Mentions: N-867, N-3, N-1
 
 
 Investigative Direction: Obtain the underlying tweet-counter screenshot and verify date range and account identifier.
 
 ---
 
-**C-3271** Candace Owens sent 104 tweets about Erica Kirk in the same period (per same tweet-counter source)
+**C-3271** Candace Owens Sent 104 Tweets About Erika Kirk in the Same Period (Per Same Tweet-Counter Source)
 
 Claim Timestamp: 00:34:13
 
-Claim: The host states she sent 104 tweets about Erica Kirk in the same 11-month window – presented as a comparison baseline against the 4,040 tweets by Britta Weidner.
+Claim: The host states she sent 104 tweets about Erika Kirk in the same 11-month window, presented as a comparison baseline against the 4,040 tweets by Britta Weidner.
 
 Anchored Artifacts: A-2273.3
-Mentions: N-2, N-3
+Mentions: N-2, N-3, N-867
 
 
 Investigative Direction: Obtain the tweet-counter output and verify both figures and their date ranges.
@@ -1006,11 +1007,11 @@ Investigative Direction: Obtain the full debate recording and date; verify wheth
 
 ---
 
-**C-3273** Mikey McQuaid's immediate post-shooting reaction is being questioned by viewer Manny Petty
+**C-3273** Mikey McCoy's immediate post-shooting reaction is being questioned by viewer Manny Petty
 
 Claim Timestamp: 00:46:41
 
-Claim: Viewer Manny Petty asserts that Mikey McQuaid was on the phone within two seconds of Charlie Kirk being shot, did not appear visibly shocked, and walked away; host concurs that the official explanations have been inconsistent.
+Claim: Viewer Manny Petty asserts that Mikey McCoy was on the phone within two seconds of Charlie Kirk being shot, did not appear visibly shocked, and walked away; the host says they are on record lying about it and that the explanations have shifted.
 
 Anchored Artifacts: A-2275.1
 Mentions: N-1, N-191
@@ -1024,10 +1025,10 @@ Investigative Direction: Review body-cam footage, phone-records evidence, and co
 
 Claim Timestamp: 00:47:55
 
-Claim: A viewer comment contrasts Candace's stated position with Frank Turek's framing of Erica Kirk as deserving death; host concurs that the latter framing is dark.
+Claim: A viewer comment the host reads, from Ellie, contrasts the host's message of wanting these people to live and face consequences with Frank Turek's message that 'she should be killed for what she said'; the host agrees there is something very dark about their constant use of the Bible.
 
 Anchored Artifacts: A-2275.2
-Mentions: N-2
+Mentions: N-3, N-7
 
 
 Investigative Direction: Verify the quoted Frank Turek statement against its original source.
@@ -1411,7 +1412,7 @@ Claim: In the testimony audio the host plays, Agent Hoole says the vehicle is no
 Transcript Snippet: that vehicle is now pulling away and heading east on 800 South.
 
 Anchored Artifacts: A-2270.1
-Mentions: N-864, N-865
+Mentions: N-864
 Related Nodes: N-11261
 Tags: relevance:core
 Investigative Direction: Obtain the exhibit map and video Hoole was describing and the full transcript of this testimony.
@@ -1575,7 +1576,7 @@ Anchored Artifacts: A-3079.1
 Mentions: N-42, N-3
 Related Nodes: N-10792
 Supports: C-3267
-Tags: relevance:context,dia
+Tags: dia, relevance:core
 Investigative Direction: Review the emails received at the tips address for identifications of the device.
 
 ---
@@ -1589,7 +1590,7 @@ Claim: The host says one of the 92 members spoke to her, said she participated, 
 Transcript Snippet: yes, I participated in this and actually just wanted to say sorry
 
 Anchored Artifacts: 
-Mentions: N-3, N-2
+Mentions: N-3
 Related Nodes: N-10780
 Supports: C-3268
 Tags: relevance:context
@@ -1708,7 +1709,7 @@ Investigative Direction: Look for coordination evidence between the account and 
 
 ---
 
-**C-10463** Host Says Widener Helped Spread the April Lies About Her Husband
+**C-10463** Host Says Weidner Helped Spread the April Lies About Her Husband
 
 Claim Timestamp: 00:31:45
 
@@ -1772,7 +1773,7 @@ Investigative Direction: Obtain the member list and employer records and verify 
 
 ---
 
-**C-10467** Host Says Paramount Tactical Was Virtually the Only Man in the Group
+**C-10467** Host Says Paramount Not Tactical Was Virtually the Only Man in the Group
 
 Claim Timestamp: 00:35:07
 
@@ -1872,7 +1873,7 @@ Investigative Direction: Obtain the original post or message from Rachel Wilson.
 
 Claim Timestamp: 00:37:15
 
-Claim: The host says Rachel Wilson wrote that those who clutch their pearls about smoking are zoomer soy boys or the type of woman who reports everything to HR.
+Claim: The host says Rachel Wilson wrote asking who clutches their pearls about smoking, answering zoomer soy boys maybe or the type of woman who reports everything to HR.
 
 Transcript Snippet: Yeah, who clutches their pearls about smoking? Zoomer soy boys maybe or the type of woman who reports everything to HR.
 
@@ -1986,7 +1987,7 @@ Claim: The host says she herself suggested that Andrew Wilson's wife should shut
 Transcript Snippet: To be fair, I did tell his wife to I suggested she should shut up.
 
 Anchored Artifacts: 
-Mentions: N-562, N-3
+Mentions: N-562, N-3, N-18
 Related Nodes: N-11067
 Tags: relevance:tangential
 Investigative Direction: Obtain the exchange in which the host made the remark.
@@ -2050,7 +2051,7 @@ Transcript Snippet: Like we we brought him in and paid him to teach our students
 Anchored Artifacts: 
 Mentions: N-18
 Related Nodes: N-10000, N-11262
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Request TPUSA contracts, invoices or event schedules showing payments to Wilson for debate training.
 
 ---
@@ -2225,7 +2226,7 @@ Transcript Snippet: You guys are already paying him to debate.
 Anchored Artifacts: 
 Mentions: N-18
 Related Nodes: N-10000, N-11262
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Request TPUSA payment records and statements about Wilson's role.
 
 ---
@@ -2234,7 +2235,7 @@ Investigative Direction: Request TPUSA payment records and statements about Wils
 
 Claim Timestamp: 00:52:51
 
-Claim: The host says the person she believes was coming down the steps made a mistake because you cannot rewire your brain for a morning, implying the left-handed person is not the right-handed Robinson.
+Claim: The host says Robinson is right-handed, as the documents show, and that the person she believes was coming down the steps made a mistake because you cannot rewire your brain for a morning.
 
 Transcript Snippet: The person I believe uh that was coming down these steps and doing all this made a mistake because you can't rewire your brain for a morning
 
@@ -2479,4 +2480,4 @@ A-2267, A-2268, A-2269, A-2270, A-2271, A-2272, A-2273, A-2274, A-2275, A-2276
 
 **New Investigation Target Nodes:** N-10791, N-10792, N-10793
 
-**Existing Nodes Reused:** N-2, N-3 (Candace), Tyler Robinson node, Lance Twiggs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McQuaid node
+**Existing Nodes Reused:** N-2, N-3 (Candace), Tyler Robinson node, Lance Twiggs node, George Zinn node, Andrew Wilson node, Agent Hoole node, Mikey McCoy node

@@ -128,3 +128,12 @@ records Minas separately.
 - Name rules: Sergeant Jennifer Faumuina ("Filomena/Felomina"), Jon Bray, James Kaddis, Druski, Tyler Bowyer, Otto
   Busher, Frank Turek ("Cheric"), Matt Bromberg, George Zinn, Bradley Hansell ("Hantel"), Brian Harpole, and Andrew
   Kolvet ("Cole", "Colvett"; ep130 "Andrew Klavan", scoped because Andrew Klavan is a real Daily Wire host).
+
+## Part 3h (chunks 195–211: episodes ~136–147, 1,020 claims)
+- 121 findings went to confirmation: 100 accepted, 21 amended, 0 rejected. Applied: 121 confirmed fixes and 92 minor
+  fixes (`applied_chunks195-211.json`; the earlier `applied_part3h.json` belongs to part 3g).
+- Name rules (global): Ari Shaffir, James Kaddis, Kassy Akiva, Jennica Pounds, Joel Berry, John Kiriakou, Mat Nuclear,
+  Wear Forbidden. Scoped: "Cadis" (ep146), Gaza Humanitarian Foundation and Johnnie Moore (ep138), Mikey McCoy
+  ("McQuaid", ep140), Terryl ("Terrence", ep143).
+- Nodes renamed: N-438 Johnnie Moore (archive-wide, including register rows), N-11091 Wear Forbidden.
+- C-6081 lists N-113 (Candace Owens' sister) for "such as her sister"; added as a reviewed grounding exception.

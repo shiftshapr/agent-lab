@@ -107,7 +107,7 @@ Now, in addition to this, the public is noticing that the victim on this case, E
 
 [18:25]
 
-The group was brought together by an agent of Israel. No doubt uh in the past before Charlie was assassinated that this person hosted uh a spaces on X and went on record admitting that they gather intel. They collaborate with with Green Berets there. Uh they collaborated with a Daily Wire employee Cassie Akiva, the Gaza Humanitarian Fund, then run by Johnny Moore, to create files on people for the purpose of doing Israel's PR bidding. At that time, it was about what's happening in Gaza. And they were they were going after someone who [clears throat] Tucker Carlson had on his show. So, of course, the common sense question is, why is someone who focuses on PR for Israel focused on gathering 91 other people to attack me full-time over the Charlie Kirk case?
+The group was brought together by an agent of Israel. No doubt uh in the past before Charlie was assassinated that this person hosted uh a spaces on X and went on record admitting that they gather intel. They collaborate with with Green Berets there. Uh they collaborated with a Daily Wire employee Kassy Akiva, the Gaza Humanitarian Foundation, then run by Johnnie Moore, to create files on people for the purpose of doing Israel's PR bidding. At that time, it was about what's happening in Gaza. And they were they were going after someone who [clears throat] Tucker Carlson had on his show. So, of course, the common sense question is, why is someone who focuses on PR for Israel focused on gathering 91 other people to attack me full-time over the Charlie Kirk case?
 
 [19:12]
 

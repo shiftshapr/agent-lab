@@ -954,7 +954,7 @@ Investigative Direction: Source the original archived segment to verify date, ve
 
 ---
 
-**C-3209** Frank Turek claims he "yanked and banked" while the group arrived at the hospital parking lot
+**C-3209** Frank Turek Describes "Yanking and Banking" Into the Hospital Parking Lot
 
 Claim Timestamp: 00:06:18
 
@@ -1040,7 +1040,7 @@ Claim: The host says Brian Harpole was not sitting on the side of the car where 
 Transcript Snippet: Brian was definitively not sitting on that side of the car and he was already covered in blood.
 
 Anchored Artifacts: 
-Mentions: N-267, N-488
+Mentions: N-267
 Related Nodes: N-10771, N-10737
 Supports: C-3089
 Tags: relevance:core
@@ -1064,7 +1064,7 @@ Investigative Direction: Locate the Harpole interview where the nurse account is
 
 ---
 
-**C-11707** Host Recounts Harpole Saying Cutler Only Held Him in the Car
+**C-11707** Host Recounts Being Told Cutler Only Held Harpole in the Car
 
 Claim Timestamp: 00:05:31
 
@@ -1122,7 +1122,7 @@ Claim: The host recounts Harpole's story that he grabbed a gurney, jumped on top
 Transcript Snippet: Particularly the portion where Brian Harpole grabs a gurnie, jumps on top of Charlie in the ER, and begins cutting his shirt while the staff looks on for further instructions
 
 Anchored Artifacts: 
-Mentions: N-267, N-7
+Mentions: N-267, N-1
 Related Nodes: N-10737
 Supports: C-5785
 Tags: relevance:core
@@ -1205,7 +1205,7 @@ Claim: The host says Bagley went onto the Losi rooftop after the feds had arrive
 Transcript Snippet: I want to underscore that officer Baggley went onto Losi rooftop after the feds had arrived and had secured and began securing the scene.
 
 Anchored Artifacts: A-2226.1
-Mentions: N-507, N-69
+Mentions: N-507
 Related Nodes: N-10772, N-10014
 Supports: C-3194
 Tags: relevance:core
@@ -1222,7 +1222,7 @@ Claim: The host says the FBI office is actually located in Salt Lake City, a 50-
 Transcript Snippet: That is remarkably fast given the FBI um office is actually located in Salt Lake City. That's a 50-minute drive.
 
 Anchored Artifacts: A-2226.1
-Mentions: N-69, N-3
+Mentions: N-3
 Related Nodes: N-10014, N-10074
 Supports: C-8917
 Tags: relevance:core
@@ -1410,7 +1410,7 @@ Investigative Direction: Obtain USU hiring and lateral-transfer paperwork showin
 
 Claim Timestamp: 00:24:53
 
-Claim: The host says it is a plausibility that Allan E. Robertson was involved in something in San Bernardino, noting a habit of transferring officers in trouble to other departments, while saying she is not claiming he was.
+Claim: The host says it is a plausibility that Allan E. Robertson was involved in something in San Bernardino, noting a habit of transferring officers in trouble to other departments; earlier she said of falsifying testimony, "I'm not saying he was."
 
 Transcript Snippet: it is definitely what I would assert is a plausibility uh that Alan E. Robertson was involved in something in San Bernardino.
 
@@ -1458,7 +1458,7 @@ Investigative Direction: Not applicable beyond tracking tip volume and follow-up
 
 Claim Timestamp: 00:28:22
 
-Claim: The host says it is plausible the person who actually found the screwdriver was Allan Robertson, and that prosecutors would not name him because a Brady List entry would damage his credibility as a witness.
+Claim: The host says she thinks it is plausible the person who actually found the screwdriver was Allan Robertson, and that "they" knew that if it went to trial, maybe he has something in his background (she links this to the Brady List entry) that would make people doubt him as a witness.
 
 Transcript Snippet: I think it's plausible that the person who actually found the screwdriver was Alan Robertson.
 
@@ -1561,7 +1561,7 @@ Transcript Snippet: A second source also said that a senior US military officer 
 Anchored Artifacts: A-2230.1
 Mentions: N-3
 Related Nodes: N-10775, N-10964
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the CNN article and test the two sourcing paths and the email's date.
 
 ---
@@ -1610,7 +1610,7 @@ Transcript Snippet: We've beat Iran about 55 times um according to Trump's tweet
 Anchored Artifacts: 
 Mentions: N-5, N-3
 Related Nodes: N-11128
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Count Trump's posts claiming victory over Iran and compare with battlefield reporting.
 
 ---
@@ -1619,7 +1619,7 @@ Investigative Direction: Count Trump's posts claiming victory over Iran and comp
 
 Claim Timestamp: 00:37:43
 
-Claim: The host says Blake Neff said Charlie Kirk would support Trump with the Iran war, and contrasts this with Erika Kirk saying that her husband is not here to tell us.
+Claim: The host says Blake Neff, she thinks, said Charlie Kirk would support Trump with the Iran war, and contrasts this with Erika Kirk saying that her husband is not here to tell us.
 
 Transcript Snippet: Uh actually Blake, I think said Charlie would support Trump with the Iran war.
 

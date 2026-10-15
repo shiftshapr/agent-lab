@@ -225,7 +225,7 @@ All right, you guys. Reminding you that this week we have book club that's at 40
 
 [01:05:52]
 
-We can't just we can't make me a Zionist over the weekend. Okay, that does not work. I want better ideas. And maybe on that note, we should actually end with the video um from Where Forbidden on how these meetings are coming together cuz it's it hits the nail on the head as always. Take a listen. >> We're not going to beat Candace on the facts. We need something people can gossip about, something humiliating. >> We'll tell everyone she runs an underground casino.
+We can't just we can't make me a Zionist over the weekend. Okay, that does not work. I want better ideas. And maybe on that note, we should actually end with the video um from Wear Forbidden on how these meetings are coming together cuz it's it hits the nail on the head as always. Take a listen. >> We're not going to beat Candace on the facts. We need something people can gossip about, something humiliating. >> We'll tell everyone she runs an underground casino.
 
 [01:06:25]
 

@@ -47,7 +47,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 This episode centers on two principal evidentiary threads. The first is the introduction of exclusive, never-before-seen UVU footage depicting Butch (Burton) Hibbs Jr. – brother of Calvary Chapel Chino Hills pastor Jack Hibbs – recorded immediately after the September 10th shooting. Host Candace Owens presents the footage as showing Hibbs calmly opening his camera app and filming multiple angles rather than rendering aid, fleeing, or making emergency calls. She also presents stills showing Hibbs on a phone call roughly five minutes after the shot, not visibly distressed, and walking behind news interviewees. Owens connects this footage to public statements by Jack Hibbs, including a Facebook video in which Jack claims to have learned of Charlie Kirk's death "from Israeli news service," and audio interviews Jack gave to Frank Turek and to Fox News' Todd Starns about his brother's last-minute UVU attendance and the post-shooting call sequence. Owens highlights apparent inconsistencies in Jack Hibbs's account, including his confusion between Charlie Kirk and "cousin Charlie," and the implausibly tight timeline between the shooting and the reported 12:30 PM FaceTime prayer chain.
 
-The second thread addresses the Tyler Robinson preliminary hearing decision day, where Judge Graf was expected to rule on the defense's motion to dismiss charges 1, 6, and 7 (aggravated murder, witness-tampering-via-Miranda-advice, and violent-offense-in-presence-of-a-child). Owens reviews the prosecution's reliance on Pennsylvania aggravated-murder jurisprudence despite Pennsylvania's active death-penalty moratorium. Courthouse attendee footage is presented identifying Andrew Kolvet, Pastor James Cadis, Charlie Kirk's parents, Stacy Sheridan, and Tracy Martin arriving at the hearing. Erika Kirk was present but not captured on camera. The host also identifies an unidentified individual in a pink hat and blue shirt visible in UVU 9/10 photos and asks the audience to help identify them.
+The second thread addresses the Tyler Robinson preliminary hearing decision day, where Judge Graf was expected to rule on the defense's motion to dismiss charges 1, 6, and 7 (aggravated murder, witness-tampering-via-Miranda-advice, and violent-offense-in-presence-of-a-child). Owens reviews the prosecution's reliance on Pennsylvania aggravated-murder jurisprudence despite Pennsylvania's active death-penalty moratorium. Courthouse attendee footage is presented identifying Andrew Kolvet, Pastor James Kaddis, Charlie Kirk's parents, Stacy Sheridan, and Tracy Martin arriving at the hearing. Erika Kirk was present but not captured on camera. The host also identifies an unidentified individual in a pink hat and blue shirt visible in UVU 9/10 photos and asks the audience to help identify them.
 
 ---
 
@@ -268,7 +268,7 @@ Confidence Level: High
 
 *Related: C-3356, N-[existing] Andrew Kolvet*
 
-**A-2326.4** Footage of Pastor James Cadis on a mobility scooter at the courthouse
+**A-2326.4** Footage of Pastor James Kaddis on a mobility scooter at the courthouse
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -292,7 +292,7 @@ Subject of the assassination; the host recounts his overnight texts, his fate an
 
 **N-2** Erika Kirk
 
-Widow and TPUSA CEO; named in the host's accounts of Mikey McCoy's calls, Cadis and her entourage.
+Widow and TPUSA CEO; named in the host's accounts of Mikey McCoy's calls, Kaddis and her entourage.
 
 *Related: C-7602, C-7603, C-7604, C-7605, C-7623, C-7635*
 
@@ -532,7 +532,7 @@ Graham Allen; named as absent and as a Department of War consultant.
 
 **N-668** James Kaddis
 
-James Cadis (James Kaddis); pastor spotted at the courthouse.
+James Kaddis (James Kaddis); pastor spotted at the courthouse.
 
 *Related: C-7603, C-7604*
 
@@ -855,7 +855,7 @@ Investigative Direction: Confirm UVU event seating assignments, verify whether t
 
 Claim Timestamp: 00:08:45
 
-Claim: In a Facebook video, Jack Hibbs stated he first learned Charlie Kirk had died "shortly after Charlie was shot from Israeli news service," without explaining how that service obtained pre-announcement information.
+Claim: In a Facebook video, Jack Hibbs stated he first learned Charlie Kirk had died "shortly after Charlie was shot from Israeli news service," adding "How they knew, but they knew."
 
 Anchored Artifacts: A-2321.1
 Mentions: N-1, N-209
@@ -873,7 +873,7 @@ Claim Timestamp: 00:09:43
 Claim: In an interview with Frank Turek, Jack Hibbs described receiving a call from his brother Butch the night before the UVU event, asking to attend and be introduced to Charlie Kirk.
 
 Anchored Artifacts: A-2322.1
-Mentions: N-1, N-209
+Mentions: N-1, N-209, N-247, N-7
 
 Related Nodes:
 
@@ -885,7 +885,7 @@ Investigative Direction: Obtain Butch Hibbs's phone records for the night of 9/9
 
 Claim Timestamp: 00:22:23
 
-Claim: Never-before-seen footage shows Butch Hibbs dipping down to open his camera app and recording multiple angles of the scene within seconds of the shot being fired, while remaining in place near the tent.
+Claim: The host says never-before-seen footage she plays shows Butch Hibbs briefly dipping down, presumably to open his camera app, and recording multiple angles of the scene within seconds of the shot, while remaining in place near the tent.
 
 Anchored Artifacts: A-2324.1
 Mentions: N-247
@@ -900,10 +900,10 @@ Investigative Direction: Obtain original device with full metadata; determine to
 
 Claim Timestamp: 00:15:14
 
-Claim: In a second interview clip with Frank Turek, Jack Hibbs stated he first received a call from Mikey McCoy, who said "get everyone in the world praying," before the FaceTime with Churik began.
+Claim: In a second interview clip with Frank Turek, Jack Hibbs stated he first received a call from Mikey McCoy, who said "get everyone in the world praying," before the FaceTime with Turek began.
 
 Anchored Artifacts: A-2322.2
-Mentions: N-191, N-209
+Mentions: N-191, N-209, N-7
 
 Related Nodes:
 
@@ -918,7 +918,7 @@ Claim Timestamp: 00:16:13
 Claim: In a FaceTime clip with Frank Turek that the host plays, Jack Hibbs says that when his brother called to say "Charlie's been shot," he briefly thought a relative named Charlie, "cousin Charlie," had been shot, not Charlie Kirk.
 
 Anchored Artifacts: A-2322.2
-Mentions: N-1, N-209
+Mentions: N-1, N-209, N-7
 
 Related Nodes: N-10818
 
@@ -960,7 +960,7 @@ Investigative Direction: Attempt to identify call recipient via phone records; c
 
 Claim Timestamp: 00:09:43
 
-Claim: Jack Hibbs in interview identifies his brother Butch as 74 years old; UVU event photography shows him wearing a plaid shirt in the security detail area.
+Claim: The host says Jack Hibbs's brother Butch is 74 years old; she also shows UVU event photography in which Butch wears a plaid shirt and is with security.
 
 Anchored Artifacts: A-2322.1, A-2325.1
 Mentions: N-247, N-209
@@ -988,12 +988,12 @@ Investigative Direction: Verify the magistrate's full name through Utah court re
 
 **C-3355** A prayer chain / coordinated Calvary Chapel communication may have begun during the active emergency window
 
-Claim Timestamp: 00:09:43
+Claim Timestamp: 00:19:30
 
-Claim: Jack Hibbs's account suggests multiple Calvary Chapel-affiliated individuals (Mikey McCoy, Frank Turek via FaceTime, Butch Hibbs via phone) were in communication within minutes of the shooting, consistent with a coordinated prayer-chain response beginning around 12:30 PM.
+Claim: The host says it seems implausible that Mikey McCoy called Pastor Jack Hibbs before 12:30 given his call logs, and suggests that perhaps there was a Calvary Chapel conference call.
 
 Anchored Artifacts: A-2322.1, A-2322.2, A-2323.1, A-2324.2
-Mentions: N-191, N-247, N-209
+Mentions: N-191, N-209
 
 Related Nodes: N-10818
 
@@ -1001,14 +1001,14 @@ Investigative Direction: Compare timestamps across all Calvary Chapel-linked cal
 
 ---
 
-**C-3356** Host Says Erika Kirk, Charlie Kirk's Parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis Were at the Courthouse on Decision Day
+**C-3356** Host Says Erika Kirk, Charlie Kirk's Parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Kaddis Were at the Courthouse on Decision Day
 
 Claim Timestamp: 00:02:52
 
-Claim: The host says courthouse cameras captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis arriving at the courthouse for Judge Graf's decision, and that Erika Kirk was present but was not captured walking in.
+Claim: The host says courthouse cameras captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Kaddis arriving at the courthouse for Judge Graf's decision, and that Erika Kirk was present but was not captured walking in.
 
 Anchored Artifacts: A-2326.1, A-2326.2, A-2326.3, A-2326.4
-Mentions: N-1, N-2, N-187, N-14, N-546
+Mentions: N-1, N-2, N-187, N-14, N-546, N-668
 
 Related Nodes:
 
@@ -1035,14 +1035,14 @@ Investigative Direction: Locate the host's prior-episode question and the origin
 
 Claim Timestamp: 00:01:06
 
-Claim: The host says Data Republican (Jennica Pounds) looks very much like Tyler Robinson and says she has no positive evidence that it was not Pounds on the UVU staircase. The host presents this as pointed mockery of Pounds, who she says attacked her for investigating the case.
+Claim: The host says Data Republican (Jennica Pounds), who she says attacked her for investigating the case, looks very much like Tyler Robinson and says she has no positive evidence that it was not Pounds on the UVU staircase.
 
 Transcript Snippet: I have no positive evidence that it wasn't Jennica Pounds that was walking up that staircase at UVU.
 
 Anchored Artifacts: 
 Mentions: N-3, N-282, N-40
 Related Nodes: N-10885
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Compare Pounds' documented whereabouts on September 10, 2025 with the UVU campus timeline; the host offers no affirmative evidence that Pounds was present.
 
 ---
@@ -1079,11 +1079,11 @@ Investigative Direction: Check TPUSA staff and org records for Sheridan's title 
 
 ---
 
-**C-7603** Host Says Pastor James Cadis Is Senior Pastor at Calvary Chapel Signal Hill and a TPUSA Faith Pastor
+**C-7603** Host Says Pastor James Kaddis Is Senior Pastor at Calvary Chapel Signal Hill and a TPUSA Faith Pastor
 
 Claim Timestamp: 00:03:42
 
-Claim: The host says Pastor James Cadis is the senior pastor of Calvary Chapel in Signal Hill, California, and one of Erika Kirk's many TPUSA faith pastors.
+Claim: The host says Pastor James Kaddis is the senior pastor of Calvary Chapel in Signal Hill, California, and one of Erika Kirk's many TPUSA faith pastors.
 
 Transcript Snippet: He's the senior pastor of Calvary Chapel in Signal Hill, California. He is also one of Erika Kirk's many problematic TPUSA faith pastors.
 
@@ -1091,22 +1091,22 @@ Anchored Artifacts: A-2326.4
 Mentions: N-668, N-2
 Related Nodes: N-10398, N-10264
 Tags: relevance:context
-Investigative Direction: Check Calvary Chapel Signal Hill staff listings and TPUSA Faith advisory rosters for Cadis (transcript spelling).
+Investigative Direction: Check Calvary Chapel Signal Hill staff listings and TPUSA Faith advisory rosters for Kaddis (transcript spelling).
 
 ---
 
-**C-7604** Host Says Cadis Hosts a Show With Erika Kirk for Her Bible 365 Brand
+**C-7604** Host Says Kaddis Hosts a Show With Erika Kirk for Her Bible 365 Brand
 
 Claim Timestamp: 00:03:42
 
-Claim: The host says Cadis hosts a show with Erika Kirk tied to her fashion brand, which the host calls Bible and 365.
+Claim: The host says Kaddis hosts a show with Erika Kirk tied to her fashion brand, which the host calls Bible and 365.
 
 Transcript Snippet: He also hosts a show with her with that like fledgling, you know, fashion brand that she has, Bible and 365.
 
 Anchored Artifacts: A-2326.4
 Mentions: N-668, N-2
 Tags: relevance:context
-Investigative Direction: Identify the show and brand by name and confirm Cadis' role from the brand's own channels.
+Investigative Direction: Identify the show and brand by name and confirm Kaddis' role from the brand's own channels.
 
 ---
 
@@ -1136,7 +1136,7 @@ Claim: The host says Rob McCoy told the story that his son asked him to pray, an
 Transcript Snippet: Rob McCoy, his father, is not the only pastor that he phoned on that day asking for a prayer.
 
 Anchored Artifacts: 
-Mentions: N-191, N-17
+Mentions: N-191, N-17, N-209
 Related Nodes: N-10198
 Supports: C-3349
 Tags: relevance:core
@@ -1585,7 +1585,7 @@ Investigative Direction: Ask for medical or ER records of the arrival and reques
 
 ---
 
-**C-7634** Jack Hibbs Says He Hung Up on Butch After Butch Broke Down and Started Making Calls
+**C-7634** Jack Hibbs Says He Hung Up on Butch After Butch Broke Down, Then Started Making Calls
 
 Claim Timestamp: 00:16:13
 
@@ -1638,7 +1638,7 @@ Investigative Direction: Check Mikey McCoy's call log for any call to a Hibbs nu
 
 Claim Timestamp: 00:19:57
 
-Claim: The host says the only way Mikey could have called Jack Hibbs before 12:30 would be if there was a Calvary Chapel conference call, which might fit when he called Rob McCoy.
+Claim: The host says the only way Mikey could have called Jack Hibbs before 12:30 is if, maybe, there was a Calvary Chapel conference call, which perhaps might fit with when he called Rob McCoy.
 
 Transcript Snippet: the only way it could be true that Mikey called him before 12:30 is this maybe there was a Calvary Chapel conference call.
 
@@ -1901,7 +1901,7 @@ Investigative Direction: Identify the witness and compare the described sound wi
 
 Claim Timestamp: 00:26:29
 
-Claim: In the same clip, an interviewee says the shot did not sound that deep and almost sounded like a cherry bomb.
+Claim: In the same clip, an interviewee says the shot did not sound that deep to him, and another voice says it almost sounded like a cherry bomb.
 
 Transcript Snippet: It didn't sound that deep to me. >> It almost sounded like a cherry bomb.
 
@@ -2385,7 +2385,7 @@ Investigative Direction: Identify the source and date of the premonition stateme
 
 Claim Timestamp: 00:43:25
 
-Claim: The host says that a potentially innocent person, perhaps an accessory, may have played some role that day, and that she has always thought Tyler Robinson was around campus on that day.
+Claim: The host says Tyler Robinson is potentially innocent, perhaps an accessory to murder, and that perhaps he was dumping or played some role that day, which she has always thought meant he was around campus that day.
 
 Transcript Snippet: Perhaps he was dumping or or played some role that day, which I've always thought that he was around campus on that day.
 
@@ -2401,7 +2401,7 @@ Investigative Direction: Review campus camera and phone-location evidence for Ro
 
 Claim Timestamp: 00:43:25
 
-Claim: The host says Blake Neff posted today that never before has more information been given to the defense in this case, referring to terabytes of data.
+Claim: The host says she saw Blake Neff pushing today, saying look at all the terabytes given and that never before has more information been given to the defense in this case.
 
 Transcript Snippet: For example, I saw Blake pushing today. He's like, "Look, look at all the terabytes that was that were given. Never before has more information been given in this case to the defense."
 
@@ -2461,11 +2461,11 @@ Investigative Direction: Compare production dates, volumes and the defense's com
 
 ---
 
-**C-7688** Host Says Charlie and Ben Shapiro Were Known Enemies and That Shapiro Has Announced a Tour
+**C-7688** Viewer Comment Says Shapiro Announced a Tour and Everyone Knows He and Charlie Were Enemies
 
-Claim Timestamp: 00:46:27
+Claim Timestamp: 00:46:56
 
-Claim: The host says Ben Shapiro has announced that he is on tour and that everyone knows he and Charlie Kirk were enemies, while she says Andrew Kolvet thinks he can make people forget.
+Claim: A viewer comment the host reads says Ben Shapiro has announced that he is on tour and that everyone knows he and Charlie Kirk were enemies; the host adds that she guesses Andrew Kolvet thinks he can wipe history and make everybody forget.
 
 Transcript Snippet: And now he's announced that he's on tour and everyone knows they were enemies.
 
@@ -2528,7 +2528,7 @@ Investigative Direction: Watch subsequent episodes for the material the host say
 
 Claim Timestamp: 00:53:14
 
-Claim: The host says Blake Neff did not start working until the beginning of 2024, so he knew Charlie Kirk for a year and a half and was only around because he was a good friend of Tucker Carlson.
+Claim: The host says, addressing Blake Neff, that he did not start working until the beginning of 2024, so he knew Charlie Kirk for a year and a half and was only there because Charlie did a solid for his good friend Tucker Carlson.
 
 Transcript Snippet: You you didn't even start working until the beginning of like 2024. So you knew Charlie for a year and a half
 
@@ -2688,7 +2688,7 @@ Confidence: high
 - **Name uncertainty – "Judge Graf"**: Likely a transcript rendering of the presiding magistrate's name; verify against Utah Fourth District Court records.
 - **Name uncertainty – "Frank Turek" / "Frank Turek"**: Transcript alternates between "Churik" and "Turk"; host also references him as "the Yankin and Bankan Franken Turk." Confirm full legal name.
 - **Name uncertainty – "Marissa Streit"**: Likely intended reference to a PragerU executive publicly associated with Unit 8200 background; preserve as transcribed.
-- **Name uncertainty – "James Cadis" / "Cadiz"**: Transcript primarily renders as "Cadis"; verify against Calvary Chapel Signal Hill staff listings.
+- **Name uncertainty – "James Kaddis" / "Cadiz"**: Transcript primarily renders as "Kaddis"; verify against Calvary Chapel Signal Hill staff listings.
 - **Name uncertainty – "Todd Starns"**: Possibly intended as "Todd Starnes" (Fox News contributor); preserve as transcribed.
 - **Name uncertainty – "Lance Twiggs"**: Short reference in transcript; likely a transcript rendering error of a different surname; verify.
 - **Possible transcription error – "FAR filing docks"**: Likely refers to "FARA" (Foreign Agents Registration Act) filings; flag for verification.

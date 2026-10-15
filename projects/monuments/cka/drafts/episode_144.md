@@ -706,10 +706,10 @@ Competing accounts of the host's September 2025 'burn it down' remark: Kolvet's 
 
 Claim Timestamp: 00:02:00–00:04:10
 
-Claim: The host says the episode footage shows Terryl Farnsworth inserting an SD card into his laptop and working on it within approximately 10 minutes of Charlie Kirk being shot.
+Claim: The host says the episode footage looks very much like Terryl Farnsworth inserting an SD card into his laptop and accessing it within approximately 10 minutes of Charlie Kirk being hit.
 
 Anchored Artifacts: A-2301.1, A-2301.2
-Mentions: N-262, N-1, N-570
+Mentions: N-262, N-1
 
 Related Nodes: N-10810, N-10812
 
@@ -747,11 +747,11 @@ Investigative Direction: Confirm SD-card disposition against official evidence l
 
 ---
 
-**C-3316** David Hull testified investigators did not receive the SD cards
+**C-3316** Host Says Lead Investigator David Hull Did Not Receive the SD Cards
 
 Claim Timestamp: 00:18:30–00:19:30
 
-Claim: Lead investigator David Hull testified at the preliminary hearing that he did not receive the physical SD cards taken from the scene.
+Claim: The host says lead investigator David Hull, who she says did not receive the SD cards, informed the preliminary hearing of the chain of custody.
 
 Anchored Artifacts: A-2304.1
 Mentions: N-570
@@ -766,7 +766,7 @@ Investigative Direction: Obtain the preliminary-hearing transcript and confirm t
 
 Claim Timestamp: 00:18:30–00:19:30
 
-Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office – not the court – created the 20-minute sizzle reel shown in court.
+Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office, not he, created the 20-minute sizzle reel shown in court.
 
 Anchored Artifacts: A-2304.2
 Mentions: N-581
@@ -805,14 +805,14 @@ Investigative Direction: Verify the email's authenticity through metadata; corro
 
 ---
 
-**C-3320** Host presents the decreased aspect ratio as the prosecution's doing, not the court's
+**C-3320** Host Says the Prosecution or Possibly the FBI, Not Likely the Court, Decreased the Aspect Ratio
 
 Claim Timestamp: 00:19:30–00:20:30
 
-Claim: The host asserts that the entity which decreased the aspect ratio was the prosecution (Utah County Attorney's Office), the FBI, or another party – but not the court itself.
+Claim: The host says the prosecution (Utah County Attorney's Office) potentially decreased the aspect ratio, that maybe it was the FBI, that somebody did, and that an emailer told her it was highly unlikely the court did it.
 
 Anchored Artifacts: A-2304.2, A-2305.1
-Mentions: N-581
+Mentions: 
 
 Related Nodes: N-10811
 
@@ -839,10 +839,10 @@ Investigative Direction: Compare this characterization to a transcript of the de
 
 Claim Timestamp: 00:33:00–00:35:40
 
-Claim: On the Kolvet/Neff podcast, Andrew Wilson stated that after reviewing the clip he concluded Candace was making a nationalism comparison rather than apologizing for Hitler, and pushed back on Blake Neff's framing.
+Claim: On the Kolvet/Neff podcast, Andrew Wilson said that after reviewing the clip it seemed to him Candace was making a comparison to nationalism rather than apologetics for Hitler, and he pushed back on Andrew Kolvet's framing.
 
 Anchored Artifacts: A-2306.2
-Mentions: N-18, N-160
+Mentions: N-18, N-14, N-160
 
 Related Nodes:
 
@@ -901,7 +901,7 @@ Investigative Direction: Read with C-3324; match the text-message exports under 
 
 Claim Timestamp: 00:51:00–00:54:00
 
-Claim: Per text/call artifacts, Andrew Kolvet told Candace on September 14, 2025 that the TPUSA board had already voted in Erica Kirk to take over the organization, and asked her not to announce it yet.
+Claim: The host says that on September 14, 2025 Andrew Kolvet told her the TPUSA board had already voted in Erika Kirk, said not to say it yet, and that it was not being announced publicly.
 
 Anchored Artifacts: A-2308.1, A-2308.2
 Mentions: N-2, N-14
@@ -990,7 +990,7 @@ Investigative Direction: Check the quoted wording against the current Utah evide
 
 Claim Timestamp: 00:06:06
 
-Claim: The host says the prosecution team at the preliminary hearing looked at videos and inferred what it believed it saw, and that she is doing the same with the footage.
+Claim: The host says Erika Kirk's prosecution team at the preliminary hearing looked at videos and inferred what it believed it saw, and that she is doing the same with the footage.
 
 Transcript Snippet: We're doing what Erika's prosecution did um her prosecution team did at the preliminary hearing, looking at the videos and inferring upon what we believe we see.
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Confirm against the host's earlier footage and any stat
 
 Claim Timestamp: 00:07:11
 
-Claim: The host says the footage Terryl Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says it is unknown whether he or someone else zoomed it.
+Claim: The host says the footage Terryl Farnsworth presented to her nine days after the shooting had already been zoomed in, though she says she does not know whether he zoomed in the camera footage and sent a Google link to the SBI.
 
 Transcript Snippet: What we can say for certain is that he had zoomed in by the time he presented it to me nine nine days later.
 
@@ -1036,7 +1036,7 @@ Investigative Direction: Obtain the original back-camera file with metadata and 
 
 Claim Timestamp: 00:07:11
 
-Claim: The host says David Hull testified that the lead investigators arrived on the scene around 1:30.
+Claim: The host says David Hull testified, as she believes he said, that the lead investigators arrived on the scene around 1:30.
 
 Transcript Snippet: who were on the scene, who arrived on the scene around 1:30, I believe he said.
 
@@ -1434,7 +1434,7 @@ Investigative Direction: Test the characterization against the host's actual 202
 
 Claim Timestamp: 00:34:40
 
-Claim: A speaker on the Kolvet/Neff show says the Christchurch shooter in New Zealand said he was inspired by the host.
+Claim: A speaker on the Kolvet/Neff show says he thinks it was the Christchurch shooter in New Zealand who said he was inspired by the host.
 
 Transcript Snippet: I think it was the Christ Church shooter in New Zealand that like said she was this guy was inspired by Candace.
 
@@ -1607,7 +1607,7 @@ Claim: The host says she was fired from the Daily Wire in March 2024 and that th
 Transcript Snippet: Yeah, Andrew, that's now now your timeline is pushed up to 2024. I was fired in March of 2024.
 
 Anchored Artifacts: A-2306.3
-Mentions: N-3, N-1
+Mentions: N-3, N-1, N-14, N-160
 Related Nodes: N-10003
 Investigative Direction: Confirm the termination date from the Daily Wire announcement.
 
@@ -1645,7 +1645,7 @@ Investigative Direction: Date the first meeting and job offer from messages or c
 
 Claim Timestamp: 00:45:14
 
-Claim: Andrew Kolvet says the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in France with Kanye.
+Claim: Andrew Kolvet says the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in like France with Kanye or something the next day.
 
 Transcript Snippet: she canled an event with us and our event team still tells this story you know like the day before and we had to scramble to get it replaced
 

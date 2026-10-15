@@ -175,9 +175,9 @@ Confidence Level: Low
 
 ---
 
-**A-2808** Where Forbidden Smear Meeting Parody Bundle
+**A-2808** Wear Forbidden Smear Meeting Parody Bundle
 
-**A-2808.1** Parody video from Where Forbidden played on air showing a mock strategy meeting inventing smears about Candace
+**A-2808.1** Parody video from Wear Forbidden played on air showing a mock strategy meeting inventing smears about Candace
 
 Quoted text: "We'll tell everyone she runs an underground casino."
 
@@ -738,7 +738,7 @@ The host's prediction that judges and lawyers acting for the state, which she ca
 
 ---
 
-**N-11091** Where Forbidden
+**N-11091** Wear Forbidden
 
 Node Type: Organization
 Account whose parody video of a smear strategy meeting the host plays at the end of the episode.
@@ -1890,18 +1890,18 @@ Investigative Direction: Check the host's employment history and the stated reas
 
 ---
 
-**C-6349** Host Plays Where Forbidden Parody Showing Smear Ideas Like an Underground Casino and Lizard Person
+**C-6349** Host Plays Wear Forbidden Parody Showing Smear Ideas Like an Underground Casino and Lizard Person
 
 Claim Timestamp: 01:05:52
 
-Claim: The host plays a parody video from Where Forbidden in which a strategy meeting says they cannot beat Candace on the facts and proposes smears such as an underground casino, lizard person and joining ISIS.
+Claim: The host plays a parody video from Wear Forbidden in which a strategy meeting says they cannot beat Candace on the facts and proposes smears such as an underground casino, lizard person and joining ISIS.
 
 Transcript Snippet: We'll tell everyone she runs an underground casino.
 
 Anchored Artifacts: A-2808.1
 Mentions: N-3
 Related Nodes: N-11091
-Investigative Direction: Identify the Where Forbidden account, the video's date and its creator.
+Investigative Direction: Identify the Wear Forbidden account, the video's date and its creator.
 
 ---
 

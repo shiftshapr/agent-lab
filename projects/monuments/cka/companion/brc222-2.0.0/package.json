@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T11:03:13Z",
+  "generated_at": "2026-10-15T11:23:27Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -4410,7 +4410,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10463",
-      "label": "Host Says Widener Helped Spread the April Lies About Her Husband",
+      "label": "Host Says Weidner Helped Spread the April Lies About Her Husband",
       "node_kind": "claim",
       "episode": 140
     },
@@ -4438,7 +4438,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10467",
-      "label": "Host Says Paramount Tactical Was Virtually the Only Man in the Group",
+      "label": "Host Says Paramount Not Tactical Was Virtually the Only Man in the Group",
       "node_kind": "claim",
       "episode": 140
     },
@@ -13510,7 +13510,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11707",
-      "label": "Host Recounts Harpole Saying Cutler Only Held Him in the Car",
+      "label": "Host Recounts Being Told Cutler Only Held Harpole in the Car",
       "node_kind": "claim",
       "episode": 136
     },
@@ -25116,7 +25116,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13214",
-      "label": "Host Requires Nef, Kolvet or Erika Kirk to Publicly Claim Wilson First",
+      "label": "Host Requires Neff, Kolvet or Erika Kirk to Publicly Claim Wilson First",
       "node_kind": "claim",
       "episode": 139
     },
@@ -25487,7 +25487,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13262",
-      "label": "Joel Barry Posts That the Affordability Crisis Is Really a Cooking Crisis",
+      "label": "Joel Berry Posts That the Affordability Crisis Is Really a Cooking Crisis",
       "node_kind": "claim",
       "episode": 139
     },
@@ -25501,7 +25501,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13264",
-      "label": "Community Note Says Nef's Food-Spending Chart Relies on Pre-2020 Data",
+      "label": "Community Note Says Neff's Food-Spending Chart Relies on Pre-2020 Data",
       "node_kind": "claim",
       "episode": 139
     },
@@ -25893,21 +25893,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13315",
-      "label": "Host Says Jenica Pounds Mysteriously Expanded on the NCRI Report",
+      "label": "Host Says Jennica Pounds Mysteriously Expanded on the NCRI Report",
       "node_kind": "claim",
       "episode": 145
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13316",
-      "label": "Host Says Jenica Pounds Is a Utah Software Engineer",
+      "label": "Host Says Jennica Pounds Is a Utah Software Engineer",
       "node_kind": "claim",
       "episode": 145
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13317",
-      "label": "Host Says Elon Musk Promoted Jenica Pounds in 2025",
+      "label": "Host Says Elon Musk Promoted Jennica Pounds in 2025",
       "node_kind": "claim",
       "episode": 145
     },
@@ -37443,7 +37443,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14816",
-      "label": "Host Says TPUSA Side Now Claims Kirk Told Security to Be on Him and No One Else",
+      "label": "Host Says People Are Now Claiming Kirk Told Security to Be on Him and No One Else",
       "node_kind": "claim",
       "episode": 147
     },
@@ -51051,7 +51051,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3209",
-      "label": "Frank Turek claims he \"yanked and banked\" while the group arrived at the hospital parking lot",
+      "label": "Frank Turek Describes \"Yanking and Banking\" Into the Hospital Parking Lot",
       "node_kind": "claim",
       "episode": 136
     },
@@ -51296,7 +51296,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3244",
-      "label": "Host Says Lance Twiggs Snowboarding Photo Shows Left-Hand Landing",
+      "label": "Host Says Lance Twiggs Snowboarding Clip Shows Left-Hand Landing",
       "node_kind": "claim",
       "episode": 139
     },
@@ -51338,21 +51338,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3250",
-      "label": "Joel Barry posted that burritos for 8 cost under $20",
+      "label": "Joel Berry Posted That Burritos for 8 Cost Under $20",
       "node_kind": "claim",
       "episode": 139
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3251",
-      "label": "Joel Barry in 2024 tweeted desire to return to affordable grocery era",
+      "label": "Joel Berry in 2024 Tweeted Desire to Return to Affordable Grocery Era",
       "node_kind": "claim",
       "episode": 139
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3252",
-      "label": "Per Post the Host Reads, Matt Walsh Told Joel Barry Republicans Were Inconsistent on Affordability",
+      "label": "Per Post the Host Reads, Matt Walsh Told Joel Berry Republicans Were Inconsistent on Affordability",
       "node_kind": "claim",
       "episode": 139
     },
@@ -51485,7 +51485,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3271",
-      "label": "Candace Owens sent 104 tweets about Erica Kirk in the same period (per same tweet-counter source)",
+      "label": "Candace Owens Sent 104 Tweets About Erika Kirk in the Same Period (Per Same Tweet-Counter Source)",
       "node_kind": "claim",
       "episode": 140
     },
@@ -51499,7 +51499,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3273",
-      "label": "Mikey McQuaid's immediate post-shooting reaction is being questioned by viewer Manny Petty",
+      "label": "Mikey McCoy's immediate post-shooting reaction is being questioned by viewer Manny Petty",
       "node_kind": "claim",
       "episode": 140
     },
@@ -51730,7 +51730,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3306",
-      "label": "Trump Publicly Identified Mike Mitchell as the Person Who Recognized Tyler Robinson From the Stairwell Photo",
+      "label": "Trump Described a Close Acquaintance Who Recognized Tyler Robinson, Which the Host Says Is Mike Mitchell",
       "node_kind": "claim",
       "episode": 143
     },
@@ -51765,7 +51765,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3311",
-      "label": "Host Plays Where Forbidden Matrix-Parody Video Repeating \"So What?\" Against Tyler Robinson Case Argumentation Standards",
+      "label": "Host Plays Wear Forbidden Matrix-Parody Video Repeating \"So What?\" Against Tyler Robinson Case Argumentation Standards",
       "node_kind": "claim",
       "episode": 143
     },
@@ -51800,7 +51800,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3316",
-      "label": "David Hull testified investigators did not receive the SD cards",
+      "label": "Host Says Lead Investigator David Hull Did Not Receive the SD Cards",
       "node_kind": "claim",
       "episode": 144
     },
@@ -51828,7 +51828,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3320",
-      "label": "Host presents the decreased aspect ratio as the prosecution's doing, not the court's",
+      "label": "Host Says the Prosecution or Possibly the FBI, Not Likely the Court, Decreased the Aspect Ratio",
       "node_kind": "claim",
       "episode": 144
     },
@@ -51940,14 +51940,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3336",
-      "label": "Jenica Pounds Admitted Working as Special Government Employee for Department of War Since July",
+      "label": "Jennica Pounds Admitted Working as Special Government Employee for Department of War Since July",
       "node_kind": "claim",
       "episode": 145
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3337",
-      "label": "Jenica Pounds' Pentagon Press Credentials Expired in June",
+      "label": "Jennica Pounds' Pentagon Press Credentials Expired in June",
       "node_kind": "claim",
       "episode": 145
     },
@@ -51968,7 +51968,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3340",
-      "label": "Sarah Rogers Allegedly Leaked Information to Jenica Pounds",
+      "label": "Sarah Rogers Allegedly Leaked Information to Jennica Pounds",
       "node_kind": "claim",
       "episode": 145
     },
@@ -52080,7 +52080,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3356",
-      "label": "Host Says Erika Kirk, Charlie Kirk's Parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Cadis Were at the Courthouse on Decision Day",
+      "label": "Host Says Erika Kirk, Charlie Kirk's Parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Kaddis Were at the Courthouse on Decision Day",
       "node_kind": "claim",
       "episode": 146
     },
@@ -52332,7 +52332,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3392",
-      "label": "Neff testified he did not enter the vehicle to drive to the hospital",
+      "label": "Neff Testified He Considered and Rejected Getting Into the SUV While Running",
       "node_kind": "claim",
       "episode": 147
     },
@@ -70903,7 +70903,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6047",
-      "label": "Host says Wilson tweeted before his TPUSA visit that Erika Kirk is capable of killing her husband",
+      "label": "Host Says Wilson Tweeted Before His TPUSA Visit That Erika Kirk Is \"Too\" [Word Missing] to Kill Her Husband",
       "node_kind": "claim",
       "episode": 141
     },
@@ -71015,7 +71015,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6063",
-      "label": "Host says she spoke to the Pangitch restaurant owner, who said he pulled the receipt and it was Robinson's",
+      "label": "Host Says She Spoke to the Panguitch Restaurant Owner, Who Said He Pulled the Receipt and It Was Robinson's",
       "node_kind": "claim",
       "episode": 141
     },
@@ -71029,7 +71029,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6065",
-      "label": "Host says the restaurant owner contacted the FBI and recognized Robinson on the news",
+      "label": "Host says the restaurant server contacted the FBI and recognized Robinson on the news",
       "node_kind": "claim",
       "episode": 141
     },
@@ -73017,7 +73017,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6349",
-      "label": "Host Plays Where Forbidden Parody Showing Smear Ideas Like an Underground Casino and Lizard Person",
+      "label": "Host Plays Wear Forbidden Parody Showing Smear Ideas Like an Underground Casino and Lizard Person",
       "node_kind": "claim",
       "episode": 158
     },
@@ -81333,7 +81333,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7537",
-      "label": "Host Says Terrence Lied to Her About Not Knowing How to Send a Clip",
+      "label": "Host Says Terryl Lied to Her About Not Knowing How to Send a Clip",
       "node_kind": "claim",
       "episode": 143
     },
@@ -81396,7 +81396,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7546",
-      "label": "Host Says TPUSA Side Said There Was Nothing Special About the Camera Behind Charlie's Head",
+      "label": "Host Says They Were Told There Was Nothing Special About the Camera Behind Charlie's Head",
       "node_kind": "claim",
       "episode": 143
     },
@@ -81725,7 +81725,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7593",
-      "label": "Host Plugs the Stop Anti-Candacism Bug Featured in the Where Forbidden Video",
+      "label": "Host Plugs the Stop Anti-Candacism Bug Featured in the Wear Forbidden Video",
       "node_kind": "claim",
       "episode": 143
     },
@@ -81795,14 +81795,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7603",
-      "label": "Host Says Pastor James Cadis Is Senior Pastor at Calvary Chapel Signal Hill and a TPUSA Faith Pastor",
+      "label": "Host Says Pastor James Kaddis Is Senior Pastor at Calvary Chapel Signal Hill and a TPUSA Faith Pastor",
       "node_kind": "claim",
       "episode": 146
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7604",
-      "label": "Host Says Cadis Hosts a Show With Erika Kirk for Her Bible 365 Brand",
+      "label": "Host Says Kaddis Hosts a Show With Erika Kirk for Her Bible 365 Brand",
       "node_kind": "claim",
       "episode": 146
     },
@@ -82012,7 +82012,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7634",
-      "label": "Jack Hibbs Says He Hung Up on Butch After Butch Broke Down and Started Making Calls",
+      "label": "Jack Hibbs Says He Hung Up on Butch After Butch Broke Down, Then Started Making Calls",
       "node_kind": "claim",
       "episode": 146
     },
@@ -82390,7 +82390,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7688",
-      "label": "Host Says Charlie and Ben Shapiro Were Known Enemies and That Shapiro Has Announced a Tour",
+      "label": "Viewer Comment Says Shapiro Announced a Tour and Everyone Knows He and Charlie Were Enemies",
       "node_kind": "claim",
       "episode": 146
     },
@@ -83335,7 +83335,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7823",
-      "label": "Host Says Where Forbidden Made an AI Video on the Blake Neff Interview",
+      "label": "Host Says Wear Forbidden Made an AI Video on the Blake Neff Interview",
       "node_kind": "claim",
       "episode": 156
     },
@@ -92407,7 +92407,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9119",
-      "label": "Host Says the Organizer Worked With Cassie Akiva and the Gaza Humanitarian Fund Under Johnny Moore to Build Files",
+      "label": "Host Says the Organizer Worked With Kassy Akiva and the Gaza Humanitarian Foundation Under Johnnie Moore to Build Files",
       "node_kind": "claim",
       "episode": 138
     },
@@ -92603,7 +92603,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9147",
-      "label": "Host Says People Published Images of Her Kids' Cars to Scare Her",
+      "label": "Host Says People Published Her Kids' Cars to Scare Her",
       "node_kind": "claim",
       "episode": 138
     },
@@ -92792,7 +92792,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9174",
-      "label": "Host Says Zoomed Footage Was Admitted as a True Representation in the Courtroom Exhibit Dispute",
+      "label": "Host Says Zoomed-In Footage Was Still Called a True Representation in the Courtroom Exhibit Dispute",
       "node_kind": "claim",
       "episode": 142
     },
@@ -119427,21 +119427,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2262.2",
-      "label": "Joel Barry X post – \"$20 burritos for family of eight\"",
+      "label": "Joel Berry X post – \"$20 burritos for family of eight\"",
       "node_kind": "artifact",
       "episode": 139
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2262.3",
-      "label": "Joel Barry 2024 X post – \"I'd like to go back to when I could afford groceries\"",
+      "label": "Joel Berry 2024 X post – \"I'd like to go back to when I could afford groceries\"",
       "node_kind": "artifact",
       "episode": 139
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2262.4",
-      "label": "Matt Walsh reply to Joel Barry",
+      "label": "Matt Walsh reply to Joel Berry",
       "node_kind": "artifact",
       "episode": 139
     },
@@ -120148,7 +120148,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2295.1",
-      "label": "Video segment showing the camera operator (Taral/Terryl/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and ap",
+      "label": "Video segment showing the camera operator (Taral/Terryl/Terryl) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and appa",
       "node_kind": "artifact",
       "episode": 143
     },
@@ -120218,7 +120218,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2299.1",
-      "label": "Video clip from \"Where Forbidden\" X/Instagram account using the red-pill/blue-pill Matrix framing to parody reactions to the Tyler Robinson case, repeating \"So what?\" against \"positive evidence,\" \"app",
+      "label": "Video clip from \"Wear Forbidden\" X/Instagram account using the red-pill/blue-pill Matrix framing to parody reactions to the Tyler Robinson case, repeating \"So what?\" against \"positive evidence,\" \"appe",
       "node_kind": "artifact",
       "episode": 143
     },
@@ -120463,21 +120463,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2313.1",
-      "label": "X thread by Jenica Pounds (@DataRepublican) alleging the host creates a \"permission structure\" for violence against Erika Kirk; shown on screen",
+      "label": "X thread by Jennica Pounds (@DataRepublican) alleging the host creates a \"permission structure\" for violence against Erika Kirk; shown on screen",
       "node_kind": "artifact",
       "episode": 145
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2314",
-      "label": "Jenica Pounds SGE Admission Bundle",
+      "label": "Jennica Pounds SGE Admission Bundle",
       "node_kind": "artifact",
       "episode": 145
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2314.1",
-      "label": "X post by Jenica Pounds stating \"I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way\"; host read aloud",
+      "label": "X post by Jennica Pounds stating \"I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way\"; host read aloud",
       "node_kind": "artifact",
       "episode": 145
     },
@@ -120694,7 +120694,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2326.4",
-      "label": "Footage of Pastor James Cadis on a mobility scooter at the courthouse",
+      "label": "Footage of Pastor James Kaddis on a mobility scooter at the courthouse",
       "node_kind": "artifact",
       "episode": 146
     },
@@ -129227,14 +129227,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2808",
-      "label": "Where Forbidden Smear Meeting Parody Bundle",
+      "label": "Wear Forbidden Smear Meeting Parody Bundle",
       "node_kind": "artifact",
       "episode": 158
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2808.1",
-      "label": "Parody video from Where Forbidden played on air showing a mock strategy meeting inventing smears about Candace",
+      "label": "Parody video from Wear Forbidden played on air showing a mock strategy meeting inventing smears about Candace",
       "node_kind": "artifact",
       "episode": 158
     },
@@ -136353,14 +136353,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3258",
-      "label": "Jenica Pounds Photo Bundle",
+      "label": "Jennica Pounds Photo Bundle",
       "node_kind": "artifact",
       "episode": 145
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3258.1",
-      "label": "Photograph of Jenica Pounds shown on screen",
+      "label": "Photograph of Jennica Pounds shown on screen",
       "node_kind": "artifact",
       "episode": 145
     },

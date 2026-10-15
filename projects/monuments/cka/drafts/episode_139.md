@@ -222,7 +222,7 @@ Confidence Level: High
 
 *Related: C-3249, N-10789*
 
-**A-2262.2** Joel Barry X post – "$20 burritos for family of eight"
+**A-2262.2** Joel Berry X post – "$20 burritos for family of eight"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -232,7 +232,7 @@ Confidence Level: High
 
 *Related: C-3250, N-10789*
 
-**A-2262.3** Joel Barry 2024 X post – "I'd like to go back to when I could afford groceries"
+**A-2262.3** Joel Berry 2024 X post – "I'd like to go back to when I could afford groceries"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -242,7 +242,7 @@ Confidence Level: High
 
 *Related: C-3251, N-10789*
 
-**A-2262.4** Matt Walsh reply to Joel Barry
+**A-2262.4** Matt Walsh reply to Joel Berry
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -437,7 +437,7 @@ Investigative Pressure: High
 
 **N-10789** Grocery Affordability Public Debate (2026-08)
 
-Investigative target: cluster of X posts by Matt Walsh, Joel Barry, Dan Crenshaw, Blake Neff arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.
+Investigative target: cluster of X posts by Matt Walsh, Joel Berry, Dan Crenshaw, Blake Neff arguing about affordability and food spending in mid-2026, used by the host to argue neocon inconsistency.
 
 Evidence Count: 6
 Claim Count: 6
@@ -576,7 +576,7 @@ Lindsay Clancy; subject of a viewer question the host answers.
 
 **N-242** Joel Berry
 
-Joel Barry (listed as Joel Berry in the node list); his burrito posts are read.
+Joel Berry (listed as Joel Berry in the node list); his burrito posts are read.
 
 *Related: C-13262*
 
@@ -1039,7 +1039,7 @@ Claim Timestamp: 00:13:00
 Claim: Andrew Kolvet stated on X that Andrew Wilson was paid for one day of debate training for TPUSA students and the campus debate team, denying he was being "paid" in a broader sense.
 
 Anchored Artifacts: A-2256.1
-Mentions: N-18
+Mentions: N-18, N-14
 
 Related Nodes:
 
@@ -1066,7 +1066,7 @@ Investigative Direction: Cross-reference Nef's TPUSA affiliation and prior ampli
 
 Claim Timestamp: 00:10:41–00:13:00
 
-Claim: A displayed debate clip shows Andrew Wilson, debating a female opponent named Charlie, using personal insults including calling her "stupid" and denigrating her family.
+Claim: A debate clip the host plays shows Andrew Wilson, debating a female opponent named Charlie, telling her she is 'too stupid' to understand his worldview and to shut her mouth when she mentions his wife.
 
 Anchored Artifacts: A-2258.1
 Mentions: N-18
@@ -1077,11 +1077,11 @@ Investigative Direction: Obtain full unedited debate recording to verify context
 
 ---
 
-**C-3244** Host Says Lance Twiggs Snowboarding Photo Shows Left-Hand Landing
+**C-3244** Host Says Lance Twiggs Snowboarding Clip Shows Left-Hand Landing
 
 Claim Timestamp: 00:28:00–00:30:00
 
-Claim: The host says a snowboarding photo she displays shows Lance Twiggs falling onto his left hand, which she says is consistent with left-handedness or ambidexterity.
+Claim: The host says a snowboarding clip she displays shows Lance Twiggs falling onto his left hand, which she says is consistent with left-handedness or ambidexterity.
 
 Anchored Artifacts: A-2259.1
 Mentions: N-54
@@ -1129,7 +1129,7 @@ Claim Timestamp: 00:17:07–00:17:57
 Claim: In a clip from The Benny Johnson Show, Benny Johnson stated that the public has seen only 1–2% of the physically available evidence in the Kirk case.
 
 Anchored Artifacts: A-2260.1
-Mentions: N-1, N-2, N-89
+Mentions: N-1, N-89
 
 Related Nodes:
 
@@ -1144,7 +1144,7 @@ Claim Timestamp: 00:26:49–00:28:00
 Claim: The host says blurry UVU staircase footage shows the maroon-shirt person holding a phone in their left hand and pocketing it in their left pocket.
 
 Anchored Artifacts: A-2261.1
-Mentions: N-40
+Mentions: 
 
 Related Nodes: N-10787, N-10788
 
@@ -1167,13 +1167,14 @@ Investigative Direction: Cross-reference BLS food-at-home CPI data for verificat
 
 ---
 
-**C-3250** Joel Barry posted that burritos for 8 cost under $20
+**C-3250** Joel Berry Posted That Burritos for 8 Cost Under $20
 
 Claim Timestamp: 00:37:30
 
-Claim: Joel Barry posted on X that his wife's homemade burritos for a family of eight cost less than $20 total.
+Claim: Joel Berry posted on X that his wife's homemade burritos for a family of eight cost less than $20 total.
 
 Anchored Artifacts: A-2262.2
+Mentions: N-242
 
 Related Nodes: N-10789
 
@@ -1181,13 +1182,14 @@ Investigative Direction: Request itemized receipt or recipe cost breakdown.
 
 ---
 
-**C-3251** Joel Barry in 2024 tweeted desire to return to affordable grocery era
+**C-3251** Joel Berry in 2024 Tweeted Desire to Return to Affordable Grocery Era
 
 Claim Timestamp: 00:41:00
 
-Claim: Joel Barry tweeted in 2024, in reply to Kamala Harris, that he would like to "go back to when there were no wars and I could afford groceries."
+Claim: Joel Berry tweeted in 2024, in reply to Kamala Harris, that he would like to "go back to when there were no wars and I could afford groceries."
 
 Anchored Artifacts: A-2262.3
+Mentions: N-242
 
 Related Nodes: N-10789
 
@@ -1195,14 +1197,14 @@ Investigative Direction: Verify original tweet date and context.
 
 ---
 
-**C-3252** Per Post the Host Reads, Matt Walsh Told Joel Barry Republicans Were Inconsistent on Affordability
+**C-3252** Per Post the Host Reads, Matt Walsh Told Joel Berry Republicans Were Inconsistent on Affordability
 
 Claim Timestamp: 00:38:00–00:39:30
 
-Claim: Per a post the host reads, Matt Walsh replied to Joel Barry noting that virtually no Republican was making "the affordability crisis is fake" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.
+Claim: Per a post the host reads, Matt Walsh replied to Joel Berry noting that virtually no Republican was making "the affordability crisis is fake" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.
 
 Anchored Artifacts: A-2262.4
-Mentions: N-164
+Mentions: N-164, N-242
 
 Related Nodes: N-10789
 
@@ -1217,6 +1219,7 @@ Claim Timestamp: 00:40:30
 Claim: Dan Crenshaw posted on X telling critics of grocery prices to "stop whining, get a job, eat ramen like the rest of us did in college."
 
 Anchored Artifacts: A-2262.5
+Mentions: N-929
 
 Related Nodes: N-10789
 
@@ -1246,6 +1249,7 @@ Claim Timestamp: 00:44:21–00:47:40
 Claim: Per a post on X the host reads, Ben Shapiro introduced a Daily Wire film trailer saying Hollywood has refused to tell the story of radical Islam for three decades; in the trailer the host plays, dialogue refers to Islam conquering the West "through immigration, through the wombs of our women, and by using our nation's freedoms against us."
 
 Anchored Artifacts: A-2263.1, A-2263.2
+Mentions: N-97
 
 Related Nodes: N-10789
 
@@ -1260,6 +1264,7 @@ Claim Timestamp: 00:49:52–00:51:05
 Claim: A video posted by Rabbi Shmuley shows a couple in Iceland confronting him with statements about Israel after initially approaching as fans.
 
 Anchored Artifacts: A-2264.1
+Mentions: N-930
 
 Related Nodes:
 
@@ -1283,9 +1288,9 @@ Investigative Direction: Cross-reference Helluva Boss character profile and Luna
 
 **C-3258** Email states Luna wears pentagram necklace
 
-Claim Timestamp: 00:23:55
+Claim Timestamp: 00:24:38
 
-Claim: Per the same email, the Luna character from Helluva Boss wears a pentagram as a necklace.
+Claim: The host says that, on looking further into Luna, she learned the 'demon dog' character from Helluva Boss wears a pentagram as a necklace.
 
 Anchored Artifacts: A-2265.1
 
@@ -1353,7 +1358,7 @@ Transcript Snippet: you're still missing those days. Days the Egyptian planes we
 Anchored Artifacts: 
 Mentions: N-82, N-3
 Related Nodes: N-10294, N-10253
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Treat as a recap of the host's earlier Macron schedule-gap research; verify against the Brigitte Macron September 4-10, 2025 schedule record and the Egyptian aircraft tracking data.
 
 ---
@@ -1463,7 +1468,7 @@ Claim: In the Rogan clip, Joe Rogan says that given the reaction it probably wou
 Transcript Snippet: I think it probably would have been better for her to like lay low for a little while.
 
 Anchored Artifacts: A-2255.2
-Mentions: N-269, N-2, N-18
+Mentions: N-269, N-2
 Tags: relevance:context
 Investigative Direction: Locate the Rogan episode and confirm the exchange, and identify the sparkler event Rogan means.
 
@@ -1524,7 +1529,7 @@ Claim: The host says Wilson tried to portray her as tangential to a leftist tour
 Transcript Snippet: I've never so much as spoken to them, but then he also lied about them.
 
 Anchored Artifacts: A-2255.3
-Mentions: N-18, N-269, N-3
+Mentions: N-18, N-3
 Tags: relevance:context
 Investigative Direction: Find Wilson's exact words on the Rogan show about the tour and identify the tour by name.
 
@@ -1641,7 +1646,7 @@ Investigative Direction: None; stated debate condition.
 
 ---
 
-**C-13214** Host Requires Nef, Kolvet or Erika Kirk to Publicly Claim Wilson First
+**C-13214** Host Requires Neff, Kolvet or Erika Kirk to Publicly Claim Wilson First
 
 Claim Timestamp: 00:10:16
 
@@ -1873,7 +1878,7 @@ Claim: Responding to Johnson's clip, the host says the public has not seen anyth
 Transcript Snippet: We've not seen anything from his parents.
 
 Anchored Artifacts: A-2260.1
-Mentions: N-40, N-3
+Mentions: N-89, N-40, N-3
 Related Nodes: N-11149
 Tags: relevance:core
 Investigative Direction: Review the preliminary hearing transcript for any mention of statements from Tyler Robinson's parents.
@@ -2162,7 +2167,7 @@ Investigative Direction: Obtain Lance's statements to investigators and any phon
 
 Claim Timestamp: 00:26:06
 
-Claim: The host says she doubts anyone has tested Lance's sleeping alibi and says it could easily be checked through cameras, requests for camera footage and his phone activity.
+Claim: The host asks whether anyone, including the feds, has tested Lance Twiggs's sleeping alibi and says it could easily be checked through cameras, camera requests and his phone activity.
 
 Transcript Snippet: Has anyone prodded that narrative? The feds prod that narrative?
 
@@ -2417,11 +2422,11 @@ Investigative Direction: Verify the post text and date on X.
 
 ---
 
-**C-13262** Joel Barry Posts That the Affordability Crisis Is Really a Cooking Crisis
+**C-13262** Joel Berry Posts That the Affordability Crisis Is Really a Cooking Crisis
 
 Claim Timestamp: 00:37:30
 
-Claim: The host reads a post from Joel Barry saying that after his wife made burritos for a family of eight for under $20, he is beginning to think the affordability crisis is an I-don't-know-how-to-cook crisis.
+Claim: The host reads a post from Joel Berry saying that after his wife made burritos for a family of eight for under $20, he is beginning to think the affordability crisis is an I-don't-know-how-to-cook crisis.
 
 Transcript Snippet: I'm beginning to think the affordability crisis is really an I don't know how to cook crisis.
 
@@ -2449,7 +2454,7 @@ Investigative Direction: Verify the post text and date on X.
 
 ---
 
-**C-13264** Community Note Says Nef's Food-Spending Chart Relies on Pre-2020 Data
+**C-13264** Community Note Says Neff's Food-Spending Chart Relies on Pre-2020 Data
 
 Claim Timestamp: 00:43:07
 
@@ -2515,7 +2520,7 @@ Investigative Direction: Identify the lawsuit threats the host refers to, if any
 
 Claim Timestamp: 00:51:05
 
-Claim: The host says Israel and its backers mass-murdered women, children and civilians and played hunger games with their lives as the Gaza Humanitarian Fund did.
+Claim: The host says the man in the video is saying Israel and its backers are not allowed to mass murder women, children and innocent people and play hunger games with their lives as the Gaza Humanitarian Fund did, and she agrees he is right.
 
 Transcript Snippet: play hunger games with their lives as the Gaza Humanitarian Fund did
 
@@ -2919,7 +2924,7 @@ Confidence: high
 
 - **Name uncertainty**: "Andrew Kovatte" / "Andrew Kolvet" – transcript uses both spellings. Preserve as "Andrew Kolvet" per X handle convention but flag for verification.
 - **Name uncertainty**: Debate opponent of Andrew Wilson referred to only as "Charlie" – full identity not disclosed in episode.
-- **Timestamp uncertainty**: Several X posts displayed without explicit post dates; some inferred as same-day, others referenced as 2024 (Joel Barry affordability tweet).
+- **Timestamp uncertainty**: Several X posts displayed without explicit post dates; some inferred as same-day, others referenced as 2024 (Joel Berry affordability tweet).
 - **Transcript ambiguity**: Auto-generated English captions cleaned but no ground-truth transcript; verify exact wording of displayed tweets against original posts.
 - **Requires human verification**: Tyler Robinson's right-handedness claim from legal filings – filing not displayed in this episode. Prior-episode artifact reference required.
 - **Claim failed admission test (not inscribed)**: Host assertion that Lance Twiggs's DNA was more prominent than Tyler Robinson's on the rifle – referenced from prior coverage, no artifact displayed in this episode.

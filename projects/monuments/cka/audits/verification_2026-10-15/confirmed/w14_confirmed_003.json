@@ -1,0 +1,573 @@
+[
+ {
+  "claim": "C-6136",
+  "episode": 144,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-14",
+    "N-160"
+   ]
+  },
+  "note": "Claim refers to Kolvet ('Andrew') and Neff ('Blake') as disputing the timeline."
+ },
+ {
+  "claim": "C-3326",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the Mappins' October 6 article the host reads, Charlie Kirk's execution is \"an assassination with potentially far-reaching political consequences for America and the world,\" the crime scene was \"apparently completely destroyed in days,\" and convicting someone while doubt remains would be \"anathema to all the teachings of Christ.\"",
+   "mentions": [
+    "N-155",
+    "N-156",
+    "N-1"
+   ]
+  },
+  "note": "Hedge 'apparently' restored; claim refers to Mappins, not Erika."
+ },
+ {
+  "claim": "C-3327",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host calls the Mappins' article \"so powerful to reflect on and to reread,\" and separately says John Mappin described to her what he saw as a \"black propaganda campaign\" against her.",
+   "mentions": [
+    "N-3",
+    "N-155",
+    "N-156"
+   ]
+  },
+  "note": "'Black propaganda campaign' is John Mappin's description at 06:44, not article text."
+ },
+ {
+  "claim": "C-3329",
+  "episode": 145,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Justin Baldoni was on a layover from Sweden, where his wife is from, when she saw him at the Iceland airport.",
+   "timestamp": "00:14:02"
+  },
+  "note": "Fix right (she never spoke to him; airport line confirmed); layover line spoken ~14:07, so timestamp moved."
+ },
+ {
+  "claim": "C-3333",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Jennica Pounds (@DataRepublican) posted an X thread showing the host and her audience 'in their own words' and arguing that people will eventually want to kill Erika Kirk, which Andrew Kolvet boosted.",
+   "mentions": [
+    "N-282",
+    "N-2",
+    "N-3",
+    "N-14"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ]
+  },
+  "note": "Kolvet's wording, not Pounds'. Jennica Pounds spelling confirmed (Mediaite, Deseret, WJLA)."
+ },
+ {
+  "claim": "C-3334",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-282",
+    "N-3",
+    "N-2"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ]
+  },
+  "note": "Pounds, Candace, Erika referred to. Jennica spelling confirmed via web search."
+ },
+ {
+  "claim": "C-3335",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-37",
+    "N-282",
+    "N-3"
+   ]
+  },
+  "note": "Ackman post promotes Data Republican; names Charlie Kirk and Candace Owens."
+ },
+ {
+  "claim": "C-3336",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-282"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ]
+  },
+  "note": "Pounds is subject; Jennica spelling confirmed via web search."
+ },
+ {
+  "claim": "C-3337",
+  "episode": 145,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per a post the host reads, Jennica Pounds wrote that her Pentagon press credentials expired in June, that she did not seek to renew them, and that she no longer attends briefings as a journalist; the host adds this is because she is a Pentagon special government employee.",
+   "timestamp": "00:34:29",
+   "mentions": [
+    "N-282"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ]
+  },
+  "note": "SGE reason is the host's gloss; quote spoken ~34:34 in the 34:07 block, not 34:53."
+ },
+ {
+  "claim": "C-3338",
+  "episode": 145,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-932",
+    "N-1"
+   ]
+  },
+  "note": "Rogers missing; claim also names Charlie ('Charlie's favorite Trump nominees')."
+ },
+ {
+  "claim": "C-3339",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per Blake Neff's post the host reads, Sarah Rogers was confirmed a week earlier and sworn in the previous Friday as Under Secretary for Public Diplomacy at the State Department.",
+   "mentions": [
+    "N-932",
+    "N-160"
+   ]
+  },
+  "note": "Content is Neff's post read by host."
+ },
+ {
+  "claim": "C-3340",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Jennica Pounds got paranoid that leaked documents were a setup to charge her with a crime, and then revealed that Sarah Rogers, Under Secretary at the State Department, was leaking to her.",
+   "mentions": [
+    "N-282",
+    "N-932"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ]
+  },
+  "note": "Order fixed (paranoia, then reveal); 'evidence of leak' not said."
+ },
+ {
+  "claim": "C-3341",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Turning Point USA announced a tour titled \"Love It or Leave It\" featuring Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, and a Daily Wire personality she calls \"Mat Nuclear.\"",
+   "mentions": [
+    "N-101",
+    "N-58",
+    "N-99",
+    "N-97"
+   ],
+   "names": [
+    {
+     "wrong": "Matt Nuclear",
+     "right": "Mat Nuclear",
+     "source": "https://tpusa.com/tours/"
+    }
+   ]
+  },
+  "note": "Tatum named. Mat Nuclear spelling confirmed (Daily Wire @MatNuclear, Arkansas Traveler)."
+ },
+ {
+  "claim": "C-3344",
+  "episode": 145,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the narrative against her investigation into the Charlie Kirk assassination is, as she puts it, backed by the State Department (Sarah Rogers), the Department of War (Jennica Pounds), Blake Neff and Andrew Kolvet allies, and she guesses Bill Ackman may be funding Pounds.",
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-37",
+    "N-160",
+    "N-932",
+    "N-282"
+   ],
+   "names": [
+    {
+     "wrong": "Jenica Pounds",
+     "right": "Jennica Pounds",
+     "source": "https://www.newsweek.com/who-jennica-pounds-doge-2036738"
+    }
+   ],
+   "timestamp": "00:35:22"
+  },
+  "note": "Fix right; Ackman guess and 'backed by' line spoken ~35:27-35:40, before 35:45."
+ },
+ {
+  "claim": "C-13331",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the effort to explain that Ben Shapiro was friends with Charlie Kirk now makes sense because Shapiro wants the company, and that he wants to pick up Charlie's mic."
+  },
+  "note": "Host says Shapiro wants the company; claim had inverted motive."
+ },
+ {
+  "claim": "C-13332",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, allegedly, the Daily Wire's Mat Nuclear was arrested in Florida for making terrorist threats against a daycare, and that there is a news article about it.",
+   "names": [
+    {
+     "wrong": "Matt Nuclear",
+     "right": "Mat Nuclear",
+     "source": "https://tpusa.com/tours/"
+    }
+   ]
+  },
+  "note": "Mat Nuclear confirmed (Daily Wire X, Arkansas Traveler TPUSA debate)."
+ },
+ {
+  "claim": "C-13333",
+  "episode": 145,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Daily Wire's Mat Nuclear is now on tour with Turning Point USA as a debater.",
+   "names": [
+    {
+     "wrong": "Matt Nuclear",
+     "right": "Mat Nuclear",
+     "source": "https://tpusa.com/tours/"
+    }
+   ]
+  },
+  "note": "Mat Nuclear confirmed via web search."
+ },
+ {
+  "claim": "C-3347",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-209",
+    "N-247",
+    "N-7"
+   ]
+  },
+  "note": "Butch and Frank Turek named in claim."
+ },
+ {
+  "claim": "C-3349",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a second interview clip with Frank Turek, Jack Hibbs stated he first received a call from Mikey McCoy, who said \"get everyone in the world praying,\" before the FaceTime with Turek began.",
+   "mentions": [
+    "N-191",
+    "N-209",
+    "N-7"
+   ]
+  },
+  "note": "Turek misspelled 'Churik'; N-7 added."
+ },
+ {
+  "claim": "C-3350",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-209",
+    "N-7"
+   ]
+  },
+  "note": "Frank Turek named."
+ },
+ {
+  "claim": "C-3353",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Jack Hibbs's brother Butch is 74 years old; she also shows UVU event photography in which Butch wears a plaid shirt and is with security."
+  },
+  "note": "Host, not Jack, says 74; plaid shirt shown at 04:33."
+ },
+ {
+  "claim": "C-3355",
+  "episode": 146,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says it seems implausible that Mikey McCoy called Pastor Jack Hibbs before 12:30 given his call logs, and suggests that perhaps there was a Calvary Chapel conference call.",
+   "timestamp": "00:19:30",
+   "mentions": [
+    "N-191",
+    "N-209"
+   ]
+  },
+  "note": "Fix right; 'implausible' line ~19:35 and conference call ~20:09 in 18:43 block."
+ },
+ {
+  "claim": "C-3356",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says courthouse cameras captured Charlie Kirk's parents, Stacy Sheridan, Tracy Martin, Andrew Kolvet, and Pastor James Kaddis arriving at the courthouse for Judge Graf's decision, and that Erika Kirk was present but was not captured walking in.",
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-187",
+    "N-14",
+    "N-546",
+    "N-668"
+   ],
+   "names": [
+    {
+     "wrong": "Cadis",
+     "right": "Kaddis",
+     "source": "https://www.prageru.com/presenters/james-kaddis"
+    }
+   ]
+  },
+  "note": "Kaddis confirmed (PragerU, Calvary Chapel Signal Hill, BIBLEin365); already in name corrections."
+ },
+ {
+  "claim": "C-7603",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Pastor James Kaddis is the senior pastor of Calvary Chapel in Signal Hill, California, and one of Erika Kirk's many TPUSA faith pastors.",
+   "names": [
+    {
+     "wrong": "Cadis",
+     "right": "Kaddis",
+     "source": "https://www.prageru.com/presenters/james-kaddis"
+    }
+   ]
+  },
+  "note": "Kaddis confirmed via web search."
+ },
+ {
+  "claim": "C-7604",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Kaddis hosts a show with Erika Kirk tied to her fashion brand, which the host calls Bible and 365.",
+   "names": [
+    {
+     "wrong": "Cadis",
+     "right": "Kaddis",
+     "source": "https://www.prageru.com/presenters/james-kaddis"
+    }
+   ]
+  },
+  "note": "Kaddis confirmed; BIBLEin365 Q&A with Erika confirms link."
+ },
+ {
+  "claim": "C-7606",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-191",
+    "N-17",
+    "N-209"
+   ]
+  },
+  "note": "Claim refers to Jack Hibbs."
+ },
+ {
+  "claim": "C-7688",
+  "episode": 146,
+  "decision": "amend",
+  "fix": {
+   "label": "Viewer Comment Says Shapiro Announced a Tour and Everyone Knows He and Charlie Were Enemies",
+   "claim": "A viewer comment the host reads says Ben Shapiro has announced that he is on tour and that everyone knows he and Charlie Kirk were enemies; the host adds that she guesses Andrew Kolvet thinks he can wipe history and make everybody forget.",
+   "timestamp": "00:46:56"
+  },
+  "note": "Comment echoes host's 'bloody mic' line so tour/enemies is likely the comment; read starts ~47:01, not 46:27."
+ },
+ {
+  "claim": "C-7692",
+  "episode": 146,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says, addressing Blake Neff, that he did not start working until the beginning of 2024, so he knew Charlie Kirk for a year and a half and was only there because Charlie did a solid for his good friend Tucker Carlson."
+  },
+  "note": "Tucker's good friend is Charlie, not Neff."
+ },
+ {
+  "claim": "C-3357",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-136"
+   ]
+  },
+  "note": "Judge Graf named."
+ },
+ {
+  "claim": "C-3358",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-54",
+    "N-136"
+   ]
+  },
+  "note": "Judge Graf named."
+ },
+ {
+  "claim": "C-3367",
+  "episode": 147,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Justin Davis not referred to, but 'Kirk's vehicle' refers to Charlie Kirk."
+ },
+ {
+  "claim": "C-3368",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2"
+   ],
+   "claim": "The host says we now know for a fact that Charlie Kirk communicated the night before that he was fearful for his life and thought they were going to kill him, something she says his wife Erika Kirk initially denied and then had to concede, and that people are now saying he also told his security people to be on him and no one else."
+  },
+  "note": "Host frames as 'we now know'/'they're saying'; Davis not referred to."
+ },
+ {
+  "claim": "C-3369",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-505",
+    "N-331"
+   ],
+   "claim": "The host says Christopher (Kirk's main security person) and Nate Walker walked toward the Sorensen building and were upstairs in the minutes before the shot, in a clip she thinks was captured on TikTok and sent to Baron Coleman."
+  },
+  "note": "Coleman named; host hedges 'I think'."
+ },
+ {
+  "claim": "C-3372",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, based on the security team's testimonies, the two security vehicles (a black Jeep Wagoneer and a Lincoln Navigator) arrived at UVU between 9:00 and 9:30 a.m., independently of Charlie Kirk, while he was at the restaurantology event in Salt Lake City.",
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Matches host wording; Davis not in claim."
+ },
+ {
+  "claim": "C-3375",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-164"
+   ]
+  },
+  "note": "Walsh named."
+ },
+ {
+  "claim": "C-3379",
+  "episode": 147,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:44:15"
+  },
+  "note": "Explanation that defense engages the state's arguments starts at 44:20 block; 43:45 is pre-explanation."
+ },
+ {
+  "claim": "C-3385",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-191",
+    "N-2",
+    "N-160",
+    "N-17"
+   ]
+  },
+  "note": "Rob McCoy named."
+ },
+ {
+  "claim": "C-3668",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host plugs a \"CIA hat\" as part of her merch and then says \"it is we know actually the decentralized intelligence agency.\""
+  },
+  "note": "'Candace Intelligence Agency' never said."
+ },
+ {
+  "claim": "C-14802",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "note": "Mike Mitchell not in claim."
+ },
+ {
+  "claim": "C-14821",
+  "episode": 147,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Only 'Chris' (no node) named."
+ }
+]

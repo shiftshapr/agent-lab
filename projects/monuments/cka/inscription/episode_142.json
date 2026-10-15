@@ -1620,7 +1620,7 @@
       "ref": "N-835",
       "name": "Ari Shaffir",
       "type": "person",
-      "description": "First named by the host at 00:34:33 in episode 142 (spelled Ari Schaefer in the transcript). Comedian the host names as a Rogan guest.",
+      "description": "First named by the host at 00:34:33 in episode 142 (spelled Ari Shaffir in the transcript). Comedian the host names as a Rogan guest.",
       "related_artifacts": [],
       "related_claims": [
         "C-9192"
@@ -1712,7 +1712,7 @@
       "@id": "C-3292",
       "ref": "C-3292",
       "label": "TPUSA Initially Provided a Flash Drive and Google Links, Not Original SD Cards",
-      "claim": "SBI Agent David Hull testified that Farnsworth originally provided a flash drive to Lieutenant O'Brien, then downloadable Google links to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 – not the SD cards.",
+      "claim": "SBI Agent David Hull testified that Farnsworth originally provided, he believed, a flash drive to Lieutenant O'Brien, then downloadable electronic versions to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 – not the SD card. The host describes these as Google links.",
       "anchored_artifacts": [
         "A-2285.1"
       ],
@@ -1747,7 +1747,7 @@
       "@id": "C-3294",
       "ref": "C-3294",
       "label": "Andrew Kolvet Publicly Defended SD-Card Removal as Protection Against \"Evil People\"",
-      "claim": "Kolvet stated on Tucker Carlson that Farnsworth removed the SD cards \"because I know people can be evil,\" and described witnessing theft of hats from the table after the incident.",
+      "claim": "Kolvet stated on Tucker Carlson that Farnsworth told him he took the SD cards \"because I know people can be evil,\" and said there were videos of people stealing hats off the table after the incident.",
       "anchored_artifacts": [
         "A-2287.1"
       ],
@@ -1758,7 +1758,9 @@
       "claim_timestamp": "00:14:25",
       "investigative_direction": "Obtain full Tucker Carlson interview segment; identify whether the SD cards referenced match the singular SD card observed being removed.",
       "mentions_person_refs": [
-        "N-22"
+        "N-14",
+        "N-22",
+        "N-262"
       ]
     },
     {
@@ -1766,7 +1768,7 @@
       "@id": "C-3743",
       "ref": "C-3743",
       "label": "Andrew Kolvet is the 'Kolvet' of C-3294 (revises C-3294)",
-      "claim": "C-3294 spells the speaker 'Andrew Kolvet' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-262) removed the SD cards \"because I know people can be evil,\" and described witnessing theft of hats from the table after the incident.",
+      "claim": "C-3294 spells the speaker 'Andrew Kolvet' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-262) told him he took the SD cards \"because I know people can be evil,\" and said there were videos of people stealing hats off the table after the incident.",
       "anchored_artifacts": [
         "A-2287.1"
       ],
@@ -1792,7 +1794,7 @@
       "@id": "C-3295",
       "ref": "C-3295",
       "label": "Footage Behind Charlie's Head Was Specifically Clipped Into a Short Segment Labeled 80704",
-      "claim": "Farnsworth's 1102 statement describes clip 80704 as a \"true and correct representation of a portion of the larger files\" for the back-camera footage specifically, indicating the full back-camera file was clipped into a discrete segment.",
+      "claim": "Per Farnsworth's 1102 statement the host reads, clip 80704 is, 'from what I can see,' 'a true and correct representation of a portion of the larger files previously sent to SBI'; the host argues this shows only the back-camera footage was clipped, though she is not sure whether Farnsworth or SBI clipped it.",
       "anchored_artifacts": [
         "A-2284.2"
       ],
@@ -1808,7 +1810,7 @@
       "@id": "C-3296",
       "ref": "C-3296",
       "label": "Exclusive Footage Shows Farnsworth Pocketing SD Card, Looking Around, and Texting",
-      "claim": "Newly released footage shows Farnsworth placing the SD card in his pocket, zipping the pocket, scanning surroundings, then using his phone to send a text message within minutes of the camera removal.",
+      "claim": "The host says newly released footage shows Farnsworth looking around nervously, putting the SD card in his pocket and zipping it, then taking out his phone and texting with someone instead of going to the other cameras.",
       "anchored_artifacts": [
         "A-2288.1"
       ],
@@ -1816,7 +1818,7 @@
         "N-10801"
       ],
       "tags": [],
-      "claim_timestamp": "00:21:20",
+      "claim_timestamp": "00:22:25",
       "investigative_direction": "Obtain chain-of-custody for the newly released footage itself; identify the text-message recipient via phone records or subpoena."
     },
     {
@@ -1824,7 +1826,7 @@
       "@id": "C-3297",
       "ref": "C-3297",
       "label": "Former CIA Officer Publicly Questioned FBI Primary Involvement in Utah State Homicide",
-      "claim": "John Kirraou stated on the Danny Jones podcast that no element of the September 9/10 case crossed state lines and therefore nothing should make it federal unless a conspiracy existed.",
+      "claim": "In a clip the host plays, John Kiriakou stated on the Danny Jones podcast that nobody crossed a state line and nothing in the case would make it federal unless there was a conspiracy.",
       "anchored_artifacts": [
         "A-2289.1"
       ],
@@ -1832,8 +1834,12 @@
         "N-10802"
       ],
       "tags": [],
-      "claim_timestamp": "00:30:34",
-      "investigative_direction": "Obtain full Danny Jones podcast segment; verify whether FBI has filed any federal charges or maintains any formal federal nexus."
+      "claim_timestamp": "00:31:50",
+      "investigative_direction": "Obtain full Danny Jones podcast segment; verify whether FBI has filed any federal charges or maintains any formal federal nexus.",
+      "mentions_person_refs": [
+        "N-831",
+        "N-832"
+      ]
     },
     {
       "@type": "Claim",
@@ -1848,7 +1854,7 @@
         "N-10803"
       ],
       "tags": [],
-      "claim_timestamp": "00:34:33",
+      "claim_timestamp": "00:35:50",
       "investigative_direction": "Identify the original source of the published Robinson photo; obtain metadata and EXIF data; compare with independently sourced photographs of Robinson.",
       "mentions_person_refs": [
         "N-40",
@@ -1900,7 +1906,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:00:00–00:00:01",
+      "claim_timestamp": "00:50:15",
       "investigative_direction": "No investigative direction; commentary-concurrence claim."
     },
     {
@@ -1914,7 +1920,7 @@
         "N-11212"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Identify the CEO and the show episode in question; obtain the broadcast and any statement from the host's household or Crowder's team on how access was arranged.",
@@ -1955,7 +1961,7 @@
       "@id": "C-9156",
       "ref": "C-9156",
       "label": "Farnsworth Went Up and Recorded Himself Announcing Charlie Was Dead Before Removing the Camera",
-      "claim": "The host says Farnsworth went up on stage, recorded himself announcing that Charlie was dead, then went down and began removing the camera behind Charlie in particular.",
+      "claim": "The host says Farnsworth went up, recorded himself announcing that Charlie was dead, then went down and began removing the camera behind Charlie in particular.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10100"
@@ -2285,7 +2291,8 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-22"
+        "N-22",
+        "N-262"
       ]
     },
     {
@@ -2311,7 +2318,8 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-22"
+        "N-22",
+        "N-262"
       ]
     },
     {
@@ -2336,7 +2344,8 @@
         "C-3294"
       ],
       "mentions_person_refs": [
-        "N-14"
+        "N-14",
+        "N-262"
       ]
     },
     {
@@ -2391,7 +2400,7 @@
       "@type": "Claim",
       "@id": "C-9174",
       "ref": "C-9174",
-      "label": "Host Says Zoomed Footage Was Admitted as a True Representation in the Courtroom Exhibit Dispute",
+      "label": "Host Says Zoomed-In Footage Was Still Called a True Representation in the Courtroom Exhibit Dispute",
       "claim": "The host says that during the courtroom back-and-forth over exhibits 12.1 and 12.4 the court saw zoomed-in footage and the parties still called it a true representation, which she uses to read the 1102 wording.",
       "anchored_artifacts": [
         "A-2284.2"
@@ -2512,7 +2521,7 @@
       "@id": "C-9179",
       "ref": "C-9179",
       "label": "Host Says a Network of Government Employees Was Trying to Get the Truth Out",
-      "claim": "The host says that as she wondered whom she could trust at TPUSA, there was a network of government employees fighting to get the truth out who were wondering whom they could trust as well, and that this is how she has known what Farnsworth did since October.",
+      "claim": "The host says that she has known what Farnsworth did since October, and that as she wondered whom she could trust at TPUSA there was a network of government employees fighting to get the truth out who were wondering whom they could trust as well.",
       "anchored_artifacts": [
         "A-2288.1"
       ],
@@ -2529,7 +2538,8 @@
         "C-3300"
       ],
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-262"
       ]
     },
     {
@@ -2823,7 +2833,7 @@
       "@id": "C-9192",
       "ref": "C-9192",
       "label": "Host Says the Case Has Been Discussed on Shawn Ryan and Joe Rogan",
-      "claim": "The host says the case has gone mainstream and been discussed on Shawn Ryan and more recently on Joe Rogan, where guests Mark Normand, Shane Gillis and Ari Schaefer discussed the Tyler Robinson case and the PR campaign around Erika Kirk.",
+      "claim": "The host says the case has gone mainstream and been discussed on Shawn Ryan and more recently on Joe Rogan, where guests Mark Normand, Shane Gillis and Ari Shaffir discussed the Tyler Robinson case and the PR campaign around Erika Kirk.",
       "anchored_artifacts": [
         "A-2290.1"
       ],
@@ -2833,7 +2843,7 @@
       ],
       "claim_timestamp": "00:34:33",
       "investigative_direction": "Identify the Rogan episode number and date and verify its guest list.",
-      "transcript_snippet": "whether that's Shawn Ryan or more recently Joe Rogan who had a laugh alongside his guests Mark Normand, Shane Gillis and Ari Schaefer",
+      "transcript_snippet": "whether that's Shawn Ryan or more recently Joe Rogan who had a laugh alongside his guests Mark Normand, Shane Gillis and Ari Shaffir",
       "mentions_person_refs": [
         "N-225",
         "N-269",

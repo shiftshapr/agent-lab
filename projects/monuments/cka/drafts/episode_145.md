@@ -41,7 +41,7 @@
 
 The episode opens with the host recounting a personal 7th-anniversary fishing trip to Iceland, during which she unexpectedly encountered Justin Baldoni and his family at the airport. The encounter is presented as the emotional closure of the host's prior investigative work on the Lively v. Baldoni litigation and is grounded by an on-screen photograph. The host then transitions into a lengthy historical reflection on the support she received from John and Arina Mappin following the Charlie Kirk assassination, reading aloud an extended excerpt from their October 6, 2025 article, "Candace Owens, Charlie Kirk, and the Pursuit of Truth."
 
-The second half of the episode advances a new investigative thesis: that a coordinated state-level messaging operation – involving the Department of War (Pentagon), the State Department (specifically Under Secretary Sarah Rogers), Turning Point USA figures (Blake Neff, Andrew Kolvet), and financier Bill Ackman – is being directed against the host's investigation into the Charlie Kirk assassination. The host anchors this claim to a chain of read-aloud or displayed artifacts: Jenica Pounds / Data Republican's X thread and her subsequent admission of Special Government Employee (SGE) status at the Department of War; Blake Neff's confirmation post about Sarah Rogers; Andrew Kolvet's endorsement of Data Republican; and Bill Ackman's amplification of Data Republican's content. The NCRI report "Permission to Kill" is also referenced.
+The second half of the episode advances a new investigative thesis: that a coordinated state-level messaging operation – involving the Department of War (Pentagon), the State Department (specifically Under Secretary Sarah Rogers), Turning Point USA figures (Blake Neff, Andrew Kolvet), and financier Bill Ackman – is being directed against the host's investigation into the Charlie Kirk assassination. The host anchors this claim to a chain of read-aloud or displayed artifacts: Jennica Pounds / Data Republican's X thread and her subsequent admission of Special Government Employee (SGE) status at the Department of War; Blake Neff's confirmation post about Sarah Rogers; Andrew Kolvet's endorsement of Data Republican; and Bill Ackman's amplification of Data Republican's content. The NCRI report "Permission to Kill" is also referenced.
 
 The structural importance of the episode lies in its consolidation of public statements from named individuals into a single artifact-anchored narrative about coordinated institutional action against the host's investigation, and its public framing of those statements as themselves constituting the propaganda operation. The Lively v. Baldoni CCRD filing is also read aloud in a brief excerpt.
 
@@ -90,7 +90,7 @@ Flag: Artifact verbally referenced but not displayed
 
 **A-2313** Data Republican X Thread Bundle
 
-**A-2313.1** X thread by Jenica Pounds (@DataRepublican) alleging the host creates a "permission structure" for violence against Erika Kirk; shown on screen
+**A-2313.1** X thread by Jennica Pounds (@DataRepublican) alleging the host creates a "permission structure" for violence against Erika Kirk; shown on screen
 
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:30:13–00:31:33
@@ -101,9 +101,9 @@ Confidence Level: High
 
 ---
 
-**A-2314** Jenica Pounds SGE Admission Bundle
+**A-2314** Jennica Pounds SGE Admission Bundle
 
-**A-2314.1** X post by Jenica Pounds stating "I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way"; host read aloud
+**A-2314.1** X post by Jennica Pounds stating "I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way"; host read aloud
 
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:34:07–00:34:53
@@ -222,9 +222,9 @@ Confidence Level: High
 
 ---
 
-**A-3258** Jenica Pounds Photo Bundle
+**A-3258** Jennica Pounds Photo Bundle
 
-**A-3258.1** Photograph of Jenica Pounds shown on screen
+**A-3258.1** Photograph of Jennica Pounds shown on screen
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:29:30
@@ -492,7 +492,7 @@ Mikey McCoy; the host says the Mappins know him very well.
 
 **N-282** Jennica Pounds
 
-Jenica Pounds (Data Republican); the host details her background, thread and SGE status.
+Jennica Pounds (Data Republican); the host details her background, thread and SGE status.
 
 *Related: C-13315, C-13316, C-13317, C-13318, C-13319, C-13320, C-13321, C-13324, C-13325, C-13326*
 
@@ -669,7 +669,7 @@ First named by the host at 00:25:04 in episode 145. President of Pre-Born, per t
 
 **N-932** Sarah Rogers
 
-First named by the host at 00:32:35 in episode 145. Under Secretary for Public Diplomacy at the State Department, whom the host says leaked to Jenica Pounds.
+First named by the host at 00:32:35 in episode 145. Under Secretary for Public Diplomacy at the State Department, whom the host says leaked to Jennica Pounds.
 
 *Related: C-13321, C-13322, C-13323*
 
@@ -681,10 +681,10 @@ First named by the host at 00:32:35 in episode 145. Under Secretary for Public D
 
 Claim Timestamp: 00:07:38
 
-Claim: The Mappins' October 6, 2025 article describes Charlie Kirk's death as "an assassination with potentially far-reaching political consequences for America and the world," asserts the crime scene was "completely destroyed in days," and states that any conviction reached while doubt remains would be "anathema to all the teachings of Christ."
+Claim: Per the Mappins' October 6 article the host reads, Charlie Kirk's execution is "an assassination with potentially far-reaching political consequences for America and the world," the crime scene was "apparently completely destroyed in days," and convicting someone while doubt remains would be "anathema to all the teachings of Christ."
 
 Anchored Artifacts: A-2311.1
-Mentions: N-1, N-2
+Mentions: N-155, N-156, N-1
 Investigative Direction: Obtain the full October 6, 2025 article from its original publication venue; verify the quoted passages against the source.
 
 ---
@@ -693,10 +693,10 @@ Investigative Direction: Obtain the full October 6, 2025 article from its origin
 
 Claim Timestamp: 00:08:27
 
-Claim: The host concurs with the Mappin article's framing of the situation, calling it "so powerful to reflect on" and endorsing its description of a "black propaganda campaign."
+Claim: The host calls the Mappins' article "so powerful to reflect on and to reread," and separately says John Mappin described to her what he saw as a "black propaganda campaign" against her.
 
 Anchored Artifacts: A-2311.1
-Mentions: N-3
+Mentions: N-3, N-155, N-156
 Investigative Direction: Compare the host's subsequent public statements to the Mappin article's framework for consistency.
 
 ---
@@ -716,9 +716,9 @@ Investigative Direction: Independent corroboration of the encounter is achievabl
 
 **C-3329** Justin Baldoni Was on Layover from Sweden During Encounter
 
-Claim Timestamp: 00:14:29
+Claim Timestamp: 00:14:02
 
-Claim: Justin Baldoni informed the host he was on a layover from Sweden, where his wife is from, when the encounter occurred.
+Claim: The host says Justin Baldoni was on a layover from Sweden, where his wife is from, when she saw him at the Iceland airport.
 
 Anchored Artifacts: A-2310.1
 Mentions: N-486
@@ -731,7 +731,7 @@ Investigative Direction: Verify via flight records or independent statements fro
 
 Claim Timestamp: 00:28:26
 
-Claim: An NCRI-issued report titled "Permission to Kill" characterized the host as a "digital assassin" and described her investigation as creating a risk to Erika Kirk's safety.
+Claim: The host says an NCRI-issued report called "Permission to Kill" referred to her as a "digital assassin," and that the surrounding narrative said her investigation was akin to getting Erika Kirk killed.
 
 Anchored Artifacts: A-2312.1
 Mentions: N-2
@@ -757,7 +757,7 @@ Investigative Direction: Verify Kairos company's involvement in NCRI; verify Kol
 
 Claim Timestamp: 00:28:26
 
-Claim: The NCRI report was released on the first day of Tyler Robinson's preliminary hearing.
+Claim: The host says the NCRI report was dropped on the first day of Tyler Robinson's preliminary hearing.
 
 Anchored Artifacts: A-2312.1
 Mentions: N-40
@@ -770,10 +770,10 @@ Investigative Direction: Compare the NCRI report publication date to the court d
 
 Claim Timestamp: 00:30:13
 
-Claim: Jenica Pounds (@DataRepublican) posted an X thread asserting that the host and her audience constitute a "permission structure" for someone to "try and kill Erika."
+Claim: The host says Jennica Pounds (@DataRepublican) posted an X thread showing the host and her audience 'in their own words' and arguing that people will eventually want to kill Erika Kirk, which Andrew Kolvet boosted.
 
 Anchored Artifacts: A-2313.1
-Mentions: N-2, N-3
+Mentions: N-282, N-2, N-3, N-14
 Related Nodes:
 Investigative Direction: Retrieve the full X thread directly from the platform; verify quoted content and amplification chain.
 
@@ -786,7 +786,7 @@ Claim Timestamp: 00:31:33
 Claim: Andrew Kolvet publicly thanked Data Republican and stated her thread "exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika."
 
 Anchored Artifacts: A-2317.1
-Mentions: N-14
+Mentions: N-14, N-282, N-3, N-2
 Related Nodes: N-10814
 Investigative Direction: Retrieve the original Kolvet post; verify timestamp and current status (deleted vs. live).
 
@@ -799,31 +799,33 @@ Claim Timestamp: 00:31:33
 Claim: Bill Ackman publicly promoted Data Republican's content about Charlie Kirk and the host on X.
 
 Anchored Artifacts: A-2316.1
-Mentions: N-1, N-37
+Mentions: N-1, N-37, N-282, N-3
 Related Nodes: N-10814
 Investigative Direction: Retrieve the specific Bill Ackman post; verify date and quoted text.
 
 ---
 
-**C-3336** Jenica Pounds Admitted Working as Special Government Employee for Department of War Since July
+**C-3336** Jennica Pounds Admitted Working as Special Government Employee for Department of War Since July
 
 Claim Timestamp: 00:34:07
 
-Claim: Jenica Pounds publicly stated "I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way."
+Claim: Jennica Pounds publicly stated "I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way."
 
 Anchored Artifacts: A-2314.1
+Mentions: N-282
 Related Nodes: N-10814
 Investigative Direction: Retrieve the original X post; cross-reference against Department of Defense / Department of War SGE disclosures.
 
 ---
 
-**C-3337** Jenica Pounds' Pentagon Press Credentials Expired in June
+**C-3337** Jennica Pounds' Pentagon Press Credentials Expired in June
 
-Claim Timestamp: 00:34:53
+Claim Timestamp: 00:34:29
 
-Claim: Jenica Pounds stated that her Pentagon press credentials expired in June and that she did not seek renewal, as she was working as an SGE rather than as press.
+Claim: Per a post the host reads, Jennica Pounds wrote that her Pentagon press credentials expired in June, that she did not seek to renew them, and that she no longer attends briefings as a journalist; the host adds this is because she is a Pentagon special government employee.
 
 Anchored Artifacts: A-2314.1
+Mentions: N-282
 Related Nodes: N-10814
 Investigative Direction: Retrieve the full quoted X post; verify against Pentagon press credential records.
 
@@ -836,7 +838,7 @@ Claim Timestamp: 00:33:25
 Claim: Blake Neff posted on X that "My friend Sarah Rogers is one of Charlie's favorite Trump nominees" and confirmed her swearing in as Under Secretary for Public Diplomacy.
 
 Anchored Artifacts: A-2315.1
-Mentions: N-160
+Mentions: N-160, N-932, N-1
 Related Nodes:
 Investigative Direction: Retrieve the Blake Neff post directly; verify quoted text.
 
@@ -846,21 +848,23 @@ Investigative Direction: Retrieve the Blake Neff post directly; verify quoted te
 
 Claim Timestamp: 00:33:25
 
-Claim: Sarah Rogers was confirmed a week prior to the post and sworn in the prior Friday as Under Secretary for Public Diplomacy at the U.S. State Department.
+Claim: Per Blake Neff's post the host reads, Sarah Rogers was confirmed a week earlier and sworn in the previous Friday as Under Secretary for Public Diplomacy at the State Department.
 
 Anchored Artifacts: A-2315.1
+Mentions: N-932, N-160
 Related Nodes:
 Investigative Direction: Cross-reference Senate confirmation records and State Department announcement archives.
 
 ---
 
-**C-3340** Sarah Rogers Allegedly Leaked Information to Jenica Pounds
+**C-3340** Sarah Rogers Allegedly Leaked Information to Jennica Pounds
 
 Claim Timestamp: 00:32:35
 
-Claim: Jenica Pounds publicly revealed that Sarah Rogers was leaking information to her, after which Pounds grew paranoid about being set up; host asserts this disclosure itself constitutes evidence of the leak.
+Claim: The host says Jennica Pounds got paranoid that leaked documents were a setup to charge her with a crime, and then revealed that Sarah Rogers, Under Secretary at the State Department, was leaking to her.
 
 Anchored Artifacts: A-2314.1
+Mentions: N-282, N-932
 Related Nodes: N-10814
 Investigative Direction: Retrieve the original Data Republican post in which the leak disclosure occurred; request comment from Sarah Rogers or the State Department.
 
@@ -870,10 +874,10 @@ Investigative Direction: Retrieve the original Data Republican post in which the
 
 Claim Timestamp: 00:37:33
 
-Claim: The host says Turning Point USA announced a tour titled "Love It or Leave It" featuring Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, and a Daily Wire personality she calls "Matt Nuclear."
+Claim: The host says Turning Point USA announced a tour titled "Love It or Leave It" featuring Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, and a Daily Wire personality she calls "Mat Nuclear."
 
 Anchored Artifacts: A-2318.1
-Mentions: N-101, N-97, N-99
+Mentions: N-101, N-58, N-99, N-97
 Related Nodes:
 Investigative Direction: Retrieve TPUSA's official tour announcement; verify lineup and dates.
 
@@ -907,12 +911,12 @@ Investigative Direction: Verify by reading the full CCRD filing; compare to subs
 
 **C-3344** Host Asserts Coordinated Propaganda Operation Across State Department, Department of War, TPUSA Allies, and Bill Ackman
 
-Claim Timestamp: 00:35:45
+Claim Timestamp: 00:35:22
 
-Claim: The host asserts that the State Department (Sarah Rogers), the Department of War (Jenica Pounds), Turning Point USA allies (Blake Neff, Andrew Kolvet), and Bill Ackman are jointly conducting a propaganda operation against her investigation into the Charlie Kirk assassination.
+Claim: The host says the narrative against her investigation into the Charlie Kirk assassination is, as she puts it, backed by the State Department (Sarah Rogers), the Department of War (Jennica Pounds), Blake Neff and Andrew Kolvet allies, and she guesses Bill Ackman may be funding Pounds.
 
 Anchored Artifacts: A-2313.1, A-2314.1, A-2315.1, A-2316.1, A-2317.1
-Mentions: N-14, N-1, N-37, N-160
+Mentions: N-14, N-1, N-37, N-160, N-932, N-282
 Related Nodes: N-10814
 Investigative Direction: Independently verify each component of the coordination claim; obtain responses from named individuals or their representatives; review FOIA disclosures for SGE activity at the Department of War.
 
@@ -1168,14 +1172,14 @@ Investigative Direction: The host's earlier accounts of the engagement timeline.
 
 Claim Timestamp: 00:14:29
 
-Claim: The host says she had never met or spoken to Justin Baldoni or his wife and had never tried to reach out to them before the airport meeting, and got involved in the case because of what she read in the lawsuit.
+Claim: The host says she had never met or spoken to Justin Baldoni or his wife and had never tried to reach out to them before the Iceland encounter, and got involved in the case because of what she read in the lawsuit.
 
 Transcript Snippet: I've never met Justin. I've never spoken to him or his wife. I've never even tried to reach out to them even once.
 
 Anchored Artifacts: A-2310.1
 Mentions: N-3, N-486
 Related Nodes: N-10661
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Baldoni and his representatives on prior contact; any prior communications between his team and the host's team.
 
 ---
@@ -1206,7 +1210,7 @@ Transcript Snippet: purchased the rights to create a film about the books using 
 Anchored Artifacts: 
 Mentions: N-486, N-485
 Related Nodes: N-10661
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Rights purchase and production records for the film adaptation as filed in the litigation.
 
 ---
@@ -1223,7 +1227,7 @@ Anchored Artifacts:
 Mentions: N-485, N-486
 Related Nodes: N-10661
 Supports: C-6926
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: The litigation exhibits on script and edit control; contemporaneous emails and text messages cited in the court record.
 
 ---
@@ -1240,7 +1244,7 @@ Anchored Artifacts:
 Mentions: N-485, N-486, N-376
 Related Nodes: N-10661
 Supports: C-6926
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: The court record on the timing of the New York Times article and any demands made of Baldoni's side.
 
 ---
@@ -1271,7 +1275,7 @@ Transcript Snippet: and them making Justin Baldoni sit in the basement during th
 Anchored Artifacts: 
 Mentions: N-486, N-485
 Supports: C-2882
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Premiere seating accounts and the sources the host relies on; statements from attendees.
 
 ---
@@ -1287,7 +1291,7 @@ Transcript Snippet: Ryan Reynolds then reshooting the scenes of Deadpool, incorp
 Anchored Artifacts: 
 Mentions: N-376, N-486
 Supports: C-2880
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: The released film and reshoot reporting; studio or crew statements on the character's origin.
 
 ---
@@ -1364,7 +1368,7 @@ Transcript Snippet: he was up against an established power. I mean, it was the N
 Anchored Artifacts: 
 Mentions: N-486, N-487
 Related Nodes: N-10661
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Litigation and press records identifying the PR and agency actors and any role attributed to Taylor Swift.
 
 ---
@@ -1406,7 +1410,7 @@ Investigative Direction: Pre-Born's published cost figures.
 
 Claim Timestamp: 00:27:32
 
-Claim: The host says the wave of accounts pulling people away from the investigation looks like a very well-funded campaign, almost a military campaign like a psychological operation, and that nobody knows where Andrew Wilson and similar accounts get their money.
+Claim: The host says the wave of accounts pulling people away from the investigation looks like a very well-funded campaign, almost a military campaign like a psychological operation, and that she does not know where Andrew Wilson and similar accounts get their money.
 
 Transcript Snippet: We had suggested this that this looks like a very well-funded campaign. I almost would say it looks like a military campaign like a psychological operation.
 
@@ -1466,13 +1470,13 @@ Investigative Direction: NCRI's own leadership, funders and mission statements; 
 
 ---
 
-**C-13315** Host Says Jenica Pounds Mysteriously Expanded on the NCRI Report
+**C-13315** Host Says Jennica Pounds Mysteriously Expanded on the NCRI Report
 
 Claim Timestamp: 00:28:26
 
-Claim: The host says the NCRI report was mysteriously expanded upon by Jenica Pounds, who she says posted a thread right after the report was released.
+Claim: The host says the NCRI report was mysteriously expanded upon by Jennica Pounds, who she says posted a thread right after the report was released.
 
-Transcript Snippet: this report on the first day. And then we have this report being mysteriously expanded upon by a woman named Jenica Pounds
+Transcript Snippet: this report on the first day. And then we have this report being mysteriously expanded upon by a woman named Jennica Pounds
 
 Anchored Artifacts: A-2313.1
 Mentions: N-282
@@ -1482,13 +1486,13 @@ Investigative Direction: Timestamps of the NCRI report and Pounds' thread, and a
 
 ---
 
-**C-13316** Host Says Jenica Pounds Is a Utah Software Engineer
+**C-13316** Host Says Jennica Pounds Is a Utah Software Engineer
 
 Claim Timestamp: 00:29:21
 
-Claim: The host says Jenica Pounds is a Utah software engineer, and shows a photograph of her.
+Claim: The host says Jennica Pounds is a Utah software engineer, and shows a photograph of her.
 
-Transcript Snippet: Jenica Pounds is a Utah software engineer
+Transcript Snippet: Jennica Pounds is a Utah software engineer
 
 Anchored Artifacts: A-3258.1
 Mentions: N-282
@@ -1497,11 +1501,11 @@ Investigative Direction: Pounds' public profile and employment history; Utah res
 
 ---
 
-**C-13317** Host Says Elon Musk Promoted Jenica Pounds in 2025
+**C-13317** Host Says Elon Musk Promoted Jennica Pounds in 2025
 
 Claim Timestamp: 00:29:21
 
-Claim: The host says Elon Musk promoted Jenica Pounds in 2025, which raised her profile as Data Republican on X.
+Claim: The host says Elon Musk promoted Jennica Pounds in 2025, which raised her profile as Data Republican on X.
 
 Transcript Snippet: Elon Musk promotes her in 2025
 
@@ -1563,7 +1567,7 @@ Investigative Direction: Post dates for the Pounds thread and Ackman's repost.
 
 Claim Timestamp: 00:32:35
 
-Claim: The host says Pounds got paranoid that leaked documents were meant to set her up so she could be charged with a crime, and in doing so revealed the leak.
+Claim: The host says Pounds got paranoid that documents State Department official Sarah Rogers was leaking to her were meant to set her up so she could be charged with a crime, and in doing so revealed the leak.
 
 Transcript Snippet: she thought that she was being set up. That they were leaking her documents so that they could charge her with a crime.
 
@@ -1723,7 +1727,7 @@ Investigative Direction: Past TPUSA tour lineups.
 
 Claim Timestamp: 00:38:16
 
-Claim: The host says TPUSA wanting Ben Shapiro on the tour explains why it tried to show he was Charlie Kirk's friend, and that Shapiro wants to pick up Charlie's mic.
+Claim: The host says the effort to explain that Ben Shapiro was friends with Charlie Kirk now makes sense because Shapiro wants the company, and that he wants to pick up Charlie's mic.
 
 Transcript Snippet: he wants to pick up that bloody mic, and he by golly, he's going to do it.
 
@@ -1740,7 +1744,7 @@ Investigative Direction: Shapiro statements about TPUSA and the tour; TPUSA lead
 
 Claim Timestamp: 00:38:16
 
-Claim: The host says that, allegedly, the Daily Wire's Matt Nuclear was arrested in Florida for making terrorist threats against a daycare, and that there is a news article about it. The name as transcribed is uncertain.
+Claim: The host says that, allegedly, the Daily Wire's Mat Nuclear was arrested in Florida for making terrorist threats against a daycare, and that there is a news article about it.
 
 Transcript Snippet: there's a whole news article you can look up about his arrest back in Florida
 
@@ -1755,7 +1759,7 @@ Investigative Direction: Identify the person correctly (the transcript name may 
 
 Claim Timestamp: 00:39:06
 
-Claim: The host says that person is now on tour with Turning Point USA as a debater.
+Claim: The host says the Daily Wire's Mat Nuclear is now on tour with Turning Point USA as a debater.
 
 Transcript Snippet: Now he's on tour with Turning Point USA cuz he's going to be a debater.
 
@@ -1824,7 +1828,7 @@ Transcript Snippet: we are in the countdown before I go on maternity leave, but 
 Anchored Artifacts: 
 Mentions: N-3
 Supports: C-9151
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: The host's later announcements and the show schedule in October 2026.
 
 ---
@@ -1943,7 +1947,7 @@ Investigative Direction: Speaker contracts and fees for the tour; none are shown
 
 Claim Timestamp: 00:49:28
 
-Claim: The host says she and Charlie fished in British Columbia, shows a photograph of them holding a large salmon, and says she won the weekend for the heaviest salmon at 38 lbs and the heaviest halibut at 200 lbs.
+Claim: The host says she and Charlie fished in British Columbia, refers to a photograph she thinks she showed earlier of them holding a large salmon, and says she won the weekend for the heaviest salmon at 38 lbs and the heaviest halibut at 200 lbs.
 
 Transcript Snippet: I won the weekend for the heaviest salmon. It was 38 lbs.
 
@@ -2023,9 +2027,9 @@ Confidence: high
 
 Video Timestamp: 00:35:45
 Speaker: N-3
-Quote: Where was Jenica Pounds on September 10th?
+Quote: Where was Jennica Pounds on September 10th?
 Context: Host asks where Pounds was on September 10.
-Tags: Jenica Pounds, September 10
+Tags: Jennica Pounds, September 10
 Confidence: high
 
 ---
@@ -2075,9 +2079,9 @@ Confidence: high
 
 Video Timestamp: 00:30:13
 Speaker: N-3
-Quote: And lo and behold, we have Jenica Pounds, Data Republican, has kind of hit the map.
+Quote: And lo and behold, we have Jennica Pounds, Data Republican, has kind of hit the map.
 Context: Host introduces Pounds' rise.
-Tags: Jenica Pounds
+Tags: Jennica Pounds
 Confidence: high
 
 ---
@@ -2162,7 +2166,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** Host uses the name "Matt Nuclear" for a Daily Wire personality; legal name not provided. May be a stage name, nickname, or transcription artifact.
+- **Name uncertainty:** Host uses the name "Mat Nuclear" for a Daily Wire personality; legal name not provided. May be a stage name, nickname, or transcription artifact.
 - **Artifact verbally referenced but not shown (A-2312.1, A-2316.1, A-2318.1):** The NCRI report, the Bill Ackman promotion, and the TPUSA tour announcement are described by the host but not visibly displayed in the available source.
 - **Possible transcription error:** Host uses both "Erica" and "Erika" when referring to Erika Kirk; preserved as "Erika" per this episode's transcript; existing node is N-2 Erica Kirk.
 - **Claim failed admission test:** Host assertion that "he had texted multiple people on September 9th saying that he wanted me back" is recorded as investigation target N-10816 but not as an artifact-anchored claim in this episode.

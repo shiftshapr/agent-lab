@@ -711,7 +711,7 @@ Investigative Direction: Cross-reference the published charging instrument from 
 
 Claim Timestamp: 00:29:04
 
-Claim: The host says that throughout the debate Andrew Wilson repeated the phrase "positive evidence" multiple times as his principal rebuttal device.
+Claim: The host says that in the next phase of the debate Andrew Wilson kept saying the phrase "positive evidence", which she says seemed like a term he had just learned and wanted to use.
 
 Anchored Artifacts: A-2277.3
 Mentions: N-18
@@ -721,12 +721,12 @@ Investigative Direction: Count exact repetitions in full debate transcript; this
 
 **C-3281** Patrick Bet-David (PBD) Moderated the Debate
 
-Claim Timestamp: 00:17:24
+Claim Timestamp: 00:08:15
 
 Claim: The discussion between Candace Owens and Andrew Wilson was moderated by Patrick Bet-David (PBD).
 
 Anchored Artifacts: A-2277, A-2277.6
-Mentions: N-18, N-3
+Mentions: N-18, N-3, N-57
 
 
 Investigative Direction: Verify PBD's role through the published debate recording on his platform; confirm two named team members (Tom and PBD's executive assistant) were present on the pre-debate FaceTime call.
@@ -771,9 +771,9 @@ Investigative Direction: Retrieve the full text of Rachel Wilson's X post to con
 
 **C-3285** Rachel Wilson Publicly Suggested the In-Ear Monitors May Have Been Used to Feed Owens Answers
 
-Claim Timestamp: 01:04:09
+Claim Timestamp: 01:03:35
 
-Claim: Rachel Wilson posted on X questioning whether Candace Owens's in-ear monitor had been used to receive outside assistance during the debate.
+Claim: The host says Rachel Wilson, replying to a post asking whether the host was being fed answers through her in-ear monitor, wrote that she knew they had headpieces but was not sure why they had them, and believed the contract allowed each to wear an earpiece.
 
 Anchored Artifacts: A-2280.1
 Mentions: N-3, N-562
@@ -812,7 +812,7 @@ Investigative Direction: Identify original posting timestamp; verify whether @wh
 
 Claim Timestamp: 01:02:50
 
-Claim: A five-panel "Stages of Debate Grief" meme, with each stage attributed to Andrew Wilson, was created by the X account @alpha_approved and circulated as a post-debate reaction.
+Claim: The host reads a post from the X account @alpha_approved listing "five stages of debate grief" for Andrew Wilson, from denial ("I totally won that debate") to acceptance, as a reaction to the debate.
 
 Anchored Artifacts: A-2279.1
 Mentions: N-18
@@ -825,10 +825,10 @@ Investigative Direction: Identify original posting timestamp; verify whether @al
 
 Claim Timestamp: 00:19:49
 
-Claim: In a debate clip the host plays, Andrew Wilson says in his opening that he has Charlie Kirk's cell phone; the host's clip shows him saying "And I have his cell phone."
+Claim: In a clip the host plays, Erika Kirk says she and Charlie Kirk promised each other never to live in fear, that he was not messaging people the day before saying he would be murdered, and "And I have his cell phone."
 
 Anchored Artifacts: A-2277.1
-Mentions: N-18, N-1
+Mentions: N-2, N-1
 
 Related Nodes: N-10794
 
@@ -1135,7 +1135,7 @@ Investigative Direction: Check Crowder's channel for any live call-in on debate 
 
 Claim Timestamp: 00:15:15
 
-Claim: The host says Steven Crowder's brand 'crashed and burned' when he was caught on a doorbell camera berating his then-eight-month-pregnant wife, who was pregnant with twins, and that his obsession with her stems from her covering that.
+Claim: The host says Steven Crowder's brand "sort of crashed and burned" when he was caught on a doorbell cam berating his eight-month pregnant now ex-wife, who was pregnant with twins, and that he never really recovered from that.
 
 Transcript Snippet: when he was caught on a doorbell cam berating his eight-month pregnant now ex-wife when she was pregnant with twins.
 
@@ -1275,7 +1275,7 @@ Claim: The host says that at the Nashville meeting Erika Kirk told her the messa
 Transcript Snippet: it was on Signal and the team's messages autodelete on Signal and she didn't know.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-271, N-14
+Mentions: N-3, N-2, N-271
 Related Nodes: N-10794
 Investigative Direction: Ask TPUSA and Erika Kirk which app carried the message and whether Signal disappearing-message settings were enabled.
 
@@ -1390,7 +1390,7 @@ Investigative Direction: Ask Gabbard's office whether it received such informati
 
 Claim Timestamp: 00:30:10
 
-Claim: In a played exchange, the host says that while we cannot say for certainty that Israel called the shots and this is how it happened, she considers it a threat worth looking at.
+Claim: In a played exchange, the host says that we cannot say for certainty that Israel called the shots and this is how it happened, but that it is definitively, she thinks, a threat that a lot of people would like to see.
 
 Transcript Snippet: we cannot say for certainty that Israel called the shots and this is how it happened.
 
@@ -1415,7 +1415,7 @@ Investigative Direction: Establish from the hearing record or surveillance wheth
 
 ---
 
-**C-6047** Host says Wilson tweeted before his TPUSA visit that Erika Kirk is capable of killing her husband
+**C-6047** Host Says Wilson Tweeted Before His TPUSA Visit That Erika Kirk Is "Too" [Word Missing] to Kill Her Husband
 
 Claim Timestamp: 00:32:30
 
@@ -1494,7 +1494,7 @@ Investigative Direction: Obtain body-cam metadata and the battery or recording-e
 
 Claim Timestamp: 00:36:40
 
-Claim: In a played exchange, the host says the body-cam point is why it is impossible for her to think that Erika Kirk is not complicit somehow. Wilson responds that he did not say complicit in death.
+Claim: In a played exchange, the host says the body-cam point is why it is impossible for her to think that Erika Kirk is not complicit somehow. Wilson asks whether that would make Erika complicit in his death, and the host replies that she did not say complicit in death and that he added those words.
 
 Transcript Snippet: That right there is why it is impossible for me to think that Erika Kirk is not complicit somehow.
 
@@ -1649,7 +1649,7 @@ Investigative Direction: Compare with the charging information filed against Rob
 
 ---
 
-**C-6063** Host says she spoke to the Pangitch restaurant owner, who said he pulled the receipt and it was Robinson's
+**C-6063** Host Says She Spoke to the Panguitch Restaurant Owner, Who Said He Pulled the Receipt and It Was Robinson's
 
 Claim Timestamp: 00:49:30
 
@@ -1680,11 +1680,11 @@ Investigative Direction: Seek the card transaction records through discovery or 
 
 ---
 
-**C-6065** Host says the restaurant owner contacted the FBI and recognized Robinson on the news
+**C-6065** Host says the restaurant server contacted the FBI and recognized Robinson on the news
 
 Claim Timestamp: 00:52:07
 
-Claim: The host says the owner and staff contacted the FBI, shared their experience, recognized Tyler Robinson on the news, and gave an interview.
+Claim: The host says the server gave a first-person account of serving him, that they contacted the FBI, and that he shared his experience, recognized Tyler Robinson on the news, and gave an interview; she adds that she spoke to the owner.
 
 Transcript Snippet: They contacted the FBI. He shared his experience. He recognized Tyler Robinson on the news. He gave an interview.
 
@@ -1778,7 +1778,7 @@ Claim: The host says the in-ear monitors do not work beyond about 15 feet from t
 Transcript Snippet: these earpieces do not work beyond 15 ft out of out of the um control room.
 
 Anchored Artifacts: A-2280.1
-Mentions: N-3, N-18, N-562
+Mentions: N-3, N-18
 Related Nodes: N-10102
 Investigative Direction: Ask the production team for the equipment model and range specification.
 
@@ -1793,7 +1793,7 @@ Claim: The host says she texted nobody during the debate, sent one tweet during 
 Transcript Snippet: I texted nobody during the entire debate because I I was focused.
 
 Anchored Artifacts: A-2280.1
-Mentions: N-3, N-18, N-562
+Mentions: N-3
 Related Nodes: N-10102
 Investigative Direction: Check the host's X post timestamp and phone logs for the debate window.
 
@@ -1822,7 +1822,7 @@ Claim: The host says the earpieces she and Wilson shared carried only the produc
 Transcript Snippet: we all heard the exact same thing and PBD had a direct line to them.
 
 Anchored Artifacts: A-2280.1
-Mentions: N-3, N-18, N-57, N-562
+Mentions: N-3, N-18, N-57
 Related Nodes: N-10102
 Investigative Direction: Ask Bet-David's and the host's producers what the feed carried.
 
@@ -1837,7 +1837,7 @@ Claim: The host says her team has no wardrobe, no full-time makeup artist or hai
 Transcript Snippet: And our makeup artist was actually off that day.
 
 Anchored Artifacts: A-2281.1
-Mentions: N-3, N-260
+Mentions: N-3
 Contradicts: C-6073
 Investigative Direction: Ask the host's staff and Bet-David's team who provided hair and makeup on debate day.
 
@@ -1926,7 +1926,7 @@ Claim: The host says she will not take instruction on the winnings and plans to 
 Transcript Snippet: it's going to be the Catholic Church, the priests that took care of me emotionally
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-113
 Related Nodes: N-11069
 Investigative Direction: Watch for later statements or filings showing any donations made.
 

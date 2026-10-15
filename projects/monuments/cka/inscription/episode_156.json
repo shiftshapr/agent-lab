@@ -923,7 +923,7 @@
       "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
-      "description": "Subject of the interview parodied by Where Forbidden.",
+      "description": "Subject of the interview parodied by Wear Forbidden.",
       "related_artifacts": [],
       "related_claims": [
         "C-7823"
@@ -938,7 +938,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-11091",
       "ref": "N-11091",
-      "name": "Where Forbidden",
+      "name": "Wear Forbidden",
       "type": "investigation_target",
       "description": "Creator of the AI parody videos (the transcript says \"Wear Forbidden\" and \"atware forbidden\").",
       "related_artifacts": [],
@@ -2524,8 +2524,8 @@
       "@type": "Claim",
       "@id": "C-7823",
       "ref": "C-7823",
-      "label": "Host Says Where Forbidden Made an AI Video on the Blake Neff Interview",
-      "claim": "The host says Blake Neff's sit-down interview said what everyone says about the Kirk investigation, and that Where Forbidden made an AI video covering what took place in that interview.",
+      "label": "Host Says Wear Forbidden Made an AI Video on the Blake Neff Interview",
+      "claim": "The host says Blake Neff's sit-down interview said what everyone says about the Kirk investigation, and that Wear Forbidden made an AI video covering what took place in that interview.",
       "anchored_artifacts": [
         "A-2423.1"
       ],
@@ -2536,7 +2536,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:40:02",
-      "investigative_direction": "Locate the Where Forbidden video and the Blake Neff interview it parodies.",
+      "investigative_direction": "Locate the Wear Forbidden video and the Blake Neff interview it parodies.",
       "transcript_snippet": "he did a uh AI video which really covered the basis on what took place during that interview.",
       "mentions_person_refs": [
         "N-3",

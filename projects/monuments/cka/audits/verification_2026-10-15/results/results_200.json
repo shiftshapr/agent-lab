@@ -1,0 +1,779 @@
+[
+ {
+  "claim": "C-13253",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13254",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13255",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13256",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13257",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13258",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13259",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13260",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13261",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13262",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript says 'Joel Barry'; real name Joel Berry (Babylon Bee), confirmed by his X post.",
+  "fix": {
+   "claim": "The host reads a post from Joel Berry saying that after his wife made burritos for a family of eight for under $20, he is beginning to think the affordability crisis is an I-don't-know-how-to-cook crisis.",
+   "names": [
+    {
+     "wrong": "Joel Barry",
+     "right": "Joel Berry",
+     "source": "https://x.com/JoelWBerry/status/2084741989166174716"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-13263",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13264",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Title misspells 'Nef's'; transcript 'Blake Neff'.",
+  "fix": {
+   "label": "Community Note Says Neff's Food-Spending Chart Relies on Pre-2020 Data"
+  }
+ },
+ {
+  "claim": "C-13265",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13266",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13267",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13268",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host frames this as what the man in the video is saying ('No, he's saying that you're not allowed to mass murder...'), then agrees; claim states it as her flat assertion.",
+  "fix": {
+   "claim": "The host says the man in the video is saying Israel and its backers are not allowed to mass murder women, children and innocent people and play hunger games with their lives as the Gaza Humanitarian Fund did, and she agrees he is right."
+  }
+ },
+ {
+  "claim": "C-13269",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13270",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13271",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13272",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13273",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13274",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13275",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13276",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13277",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13278",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13279",
+  "episode": 139,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3260",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'My government source says that he takes his phone out of his left pocket and then puts an earpiece into his left ear.' Claim states it as shown in stills.",
+  "fix": {
+   "claim": "In the parking-garage stills, the host says the subject appears left-handed, and that her government source says he takes his phone out of his left pocket and puts an earpiece into his left ear and feels confident the person is left-handed."
+  }
+ },
+ {
+  "claim": "C-3261",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3262",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3263",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3264",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3265",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3266",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Agent Hoole (N-864) and Officer Goforth (N-865) but Mentions lists only N-40. Unresolved name: Hoole (host later says 'Brian Harpole'; hearing agents reported as Hull/Davis).",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-864",
+    "N-865"
+   ]
+  }
+ },
+ {
+  "claim": "C-3267",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript 'George Zen' = George Zinn node.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3268",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3269",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Britta Weidner (N-867) but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-867",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3270",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Label names Britta Weidner (N-867), absent from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-867",
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-3271",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Britta Weidner (N-867) but Mentions omits her; 'Erica' misspelled, transcript 'Erika'.",
+  "fix": {
+   "claim": "The host states she sent 104 tweets about Erika Kirk in the same 11-month window, presented as a comparison baseline against the 4,040 tweets by Britta Weidner.",
+   "label": "Candace Owens Sent 104 Tweets About Erika Kirk in the Same Period (Per Same Tweet-Counter Source)",
+   "mentions": [
+    "N-2",
+    "N-3",
+    "N-867"
+   ]
+  }
+ },
+ {
+  "claim": "C-3272",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3273",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript 'Mikey Mcquaid' is a mis-transcription of Mikey McCoy (confirmed). Host says they are 'on record lying', claim softens to 'inconsistent'.",
+  "fix": {
+   "claim": "Viewer Manny Petty asserts that Mikey McCoy was on the phone within two seconds of Charlie Kirk being shot, did not appear visibly shocked, and walked away; the host says they are on record lying about it and that the explanations have shifted.",
+   "names": [
+    {
+     "wrong": "Mikey McQuaid",
+     "right": "Mikey McCoy",
+     "source": "https://www.liberty.edu/news/2025/10/24/turning-point-usas-michael-mccoy-honors-charlie-kirk-at-liberty-university-convocation"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3274",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Ellie's comment: Frank's message 'she should be killed for what she said' contrasts with Candace's message; 'she' is the host, not Erika. Frank Turek N-7 omitted.",
+  "fix": {
+   "claim": "A viewer comment the host reads, from Ellie, contrasts the host's message of wanting these people to live and face consequences with Frank Turek's message that 'she should be killed for what she said'; the host agrees there is something very dark about their constant use of the Bible.",
+   "mentions": [
+    "N-3",
+    "N-7"
+   ]
+  }
+ },
+ {
+  "claim": "C-3275",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3276",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host plays the Dane Cook clip ('Take a listen'); she does not read it aloud.",
+  "fix": {
+   "claim": "In a clip the host plays, Dane Cook's 'B&E' skit includes a 'favorite shirt' passage, and the host uses it as a humorous analogical frame for arguing that the maroon-shirt choice by the parking-garage subject is implausible for someone trying to evade detection."
+  }
+ },
+ {
+  "claim": "C-10423",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10424",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10425",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10426",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10427",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10428",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10429",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10430",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10431",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10432",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10433",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10434",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10435",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10436",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10437",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10438",
+  "episode": 140,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]
