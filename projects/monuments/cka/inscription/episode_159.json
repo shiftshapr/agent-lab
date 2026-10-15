@@ -2761,7 +2761,7 @@
       "@id": "C-3615",
       "ref": "C-3615",
       "label": "Erika’s Israel posture and partner choices contradict heaven-focused widow branding",
-      "claim": "A viewer comment the host reads says loyalty to Erika depends on her loyalty to Charlie; the host agrees and argues that Erika's changed stance on Israel, silence and glowing Israel partnerships, and teaming up with Andrew Wilson (text leaks) register as fake after she allegedly pushed Charlie to be more critical of Israel.",
+      "claim": "A viewer comment the host reads says loyalty to Erika depends on her loyalty to Charlie; the host agrees and argues that Erika's changed stance on Israel, her professed lack of opinion, and letting people who pressured Charlie back into the organization register as fake after she pushed Charlie to be more against Israel, and she questions Erika teaming up with Andrew Wilson to share text messages.",
       "anchored_artifacts": [
         "A-2473.1"
       ],
@@ -2894,7 +2894,7 @@
       "@id": "C-6355",
       "ref": "C-6355",
       "label": "Host says Erika was in the office, on Zoom calls, announcing Turning Point 2.0 and celebrating merch sales within two weeks",
-      "claim": "The host says staff did not imagine that Erika was in the office taking Zoom calls, announcing Turning Point 2.0, giggling and celebrating the money made in merchandise sales at Charlie's memorial within the first two weeks.",
+      "claim": "The host says nobody imagined that Erika was in the office taking Zoom calls, announcing Turning Point 2.0, giggling and celebrating the money made in merchandise sales at Charlie's memorial within the first two weeks.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10002",
@@ -2925,8 +2925,7 @@
       "investigative_direction": "Obtain event photos and programs from the Mar-a-Lago event and AmFest showing the encased microphone and identify who authorized displaying it.",
       "transcript_snippet": "they eventually made the terribly crash decision to encase Charlie's bloodied microphone as an emotional appeal to donors at their annual Mara Lago event, also at Amfest.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -3155,7 +3154,7 @@
       "@id": "C-6368",
       "ref": "C-6368",
       "label": "Host alleges Dylan Erickson is a former TPUSA employee, now a contractor, also paid by Yrefy",
-      "claim": "The host says TPUSA's sponsorship lead Dylan Erickson was once a TPUSA employee, is allegedly now a contractor, and is also employed or paid by Yrefy, which she says would be a conflict of interest.",
+      "claim": "The host says that, according to Turning Point USA employees, TPUSA's sponsorship lead Dylan Erickson was once a TPUSA employee, is allegedly now a contractor, and is also employed or paid by Yrefy, which she says would be a conflict of interest.",
       "anchored_artifacts": [
         "A-2809.4"
       ],
@@ -3644,7 +3643,7 @@
       "@id": "C-6392",
       "ref": "C-6392",
       "label": "Host says Andrew Kolvet worked with Kairos, Johnnie Moore's company, before starting his own PR firm",
-      "claim": "The host says Johnnie Moore is Andrew Kolvet's partner at the Kairos Company, that Kolvet worked with Kairos before starting his own PR firm, and that TPUSA was taken on through Kairos, with Kolvet's email then at the Kairos Company.",
+      "claim": "The host says Johnnie Moore is Andrew Kolvet's partner at the Kairos Company, that Kolvet worked with Kairos before starting his own PR firm, and that TPUSA was taken on through Kairos, with Kolvet's email then, if she remembers correctly, at the Kairos Company.",
       "anchored_artifacts": [
         "A-2469.1"
       ],
@@ -4006,7 +4005,7 @@
       "@id": "C-6409",
       "ref": "C-6409",
       "label": "Host says the Kirks vacationed in Maine from July 20 with Mikey and Elizabeth McCoy, producing the final footage",
-      "claim": "The host says that from July 20 Charlie vacationed in Maine for a couple of weeks and went off radar, and that Mikey McCoy and Elizabeth McCoy joined Erika and Charlie for the first time, capturing what became the final footage distributed after the assassination.",
+      "claim": "The host says that from July 20 Charlie vacationed in Maine for a couple of weeks and went off radar, and that Mikey McCoy and Elizabeth McCoy joined Erika and Charlie for the first time, according to them, capturing what became the final footage distributed after the assassination.",
       "anchored_artifacts": [
         "A-2469.1"
       ],
@@ -4062,7 +4061,6 @@
       "investigative_direction": "Check the House Oversight Committee vote record of July 23, 2025 and exactly what was subpoenaed.",
       "transcript_snippet": "this meeting coincided also with the House oversight meeting voting to subpoena the president on the Epstein files.",
       "mentions_person_refs": [
-        "N-5",
         "N-9"
       ]
     },

@@ -1305,7 +1305,7 @@
       "@id": "C-3534",
       "ref": "C-3534",
       "label": "Quick Quack Car Wash surveillance footage was seized by law enforcement and never publicly released",
-      "claim": "Per the search warrant as read, Agent Draney (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the footage has not been released to the public.",
+      "claim": "Per the search warrant the host reads, Agent Draney (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the host says the footage has never been shown to the public.",
       "anchored_artifacts": [
         "A-2421.2"
       ],
@@ -1362,7 +1362,7 @@
       "@id": "C-3537",
       "ref": "C-3537",
       "label": "Host Says UN Delegates Walked Out During Netanyahu's UN General Assembly Address",
-      "claim": "The host says that during Netanyahu's address to the UN General Assembly, a substantial number of delegates walked out as he took the stage.",
+      "claim": "The host says that during Netanyahu's address to the UN General Assembly, the majority of the delegates walked out as soon as he took the stage.",
       "anchored_artifacts": [
         "A-2422.1",
         "A-2422.2",
@@ -1381,7 +1381,7 @@
       "@id": "C-3538",
       "ref": "C-3538",
       "label": "A person visible in post-Big-Bang USA chant group later spoke to the news",
-      "claim": "A person seen in the post-Big-Bang footage chanting \"USA, USA\" – and later returning to take a hat – is the same person who subsequently spoke to news media.",
+      "claim": "The host says that in footage immediately after the Big Bang, a group stood up and chanted \"USA, USA\", that a man from that group comes back to take a hat, and that a man in the bottom right quadrant is someone who later speaks to the news.",
       "anchored_artifacts": [
         "A-2417.1",
         "A-2417.2"
@@ -1529,7 +1529,7 @@
       "@type": "Claim",
       "@id": "C-7778",
       "ref": "C-7778",
-      "label": "Host Says Person by the Van Was Wearing Red",
+      "label": "Host Says Club President Chilcutt Was Wearing Red That Day",
       "claim": "The host says someone told her the person standing by the van near Angel Castro was not UVU club president Caleb Chilcutt, who she says was wearing red that day; the person by the van was just standing.",
       "anchored_artifacts": [
         "A-2416.1"
@@ -2290,8 +2290,7 @@
       "investigative_direction": "Check for the promised timeline and question list.",
       "transcript_snippet": "I really think that I need to sit down, get this timeline together, and have a clear list of questions",
       "mentions_person_refs": [
-        "N-3",
-        "N-331"
+        "N-3"
       ]
     },
     {

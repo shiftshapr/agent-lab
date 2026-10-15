@@ -1468,7 +1468,7 @@
       "@id": "C-3601",
       "ref": "C-3601",
       "label": "Charlie and Erika had a will-signing appointment set for the Monday after the murder",
-      "claim": "Doug DeGroote confirms they planned to sign will paperwork that Monday; host alleges Mikey McCoy gatekept/canceled prior attempts and rejects DeGroote’s death-threat framing as the sole motive.",
+      "claim": "Doug DeGroote confirms they planned to sign will paperwork that Monday; host says, allegedly, she was told Mikey McCoy gatekept the appointment, which had been canceled once or twice before, and rejects DeGroote's death-threat framing as the sole motive.",
       "anchored_artifacts": [
         "A-2462.1"
       ],
@@ -1575,7 +1575,7 @@
       "@id": "C-3606",
       "ref": "C-3606",
       "label": "Bill Ackman amplified the smear package and later deleted related posts",
-      "claim": "Host asserts billionaire Bill Ackman retweeted/amplified the college-account smear during Charlie’s Israel-pressure period and deleted tweets after capture.",
+      "claim": "Host asserts billionaire Bill Ackman retweeted/amplified the college-account smear during Charlie’s Israel-pressure period and deleted the tweet after it was captured.",
       "anchored_artifacts": [
         "A-2465.1"
       ],
@@ -1583,7 +1583,7 @@
         "N-10868"
       ],
       "tags": [],
-      "claim_timestamp": "00:50:25",
+      "claim_timestamp": "00:49:14",
       "investigative_direction": "Preserve deleted-tweet captures; confirm handles/dates; avoid over-claiming coordination without docs.",
       "mentions_person_refs": [
         "N-3",
@@ -1604,7 +1604,7 @@
         "N-10218"
       ],
       "tags": [],
-      "claim_timestamp": "00:30:00",
+      "claim_timestamp": "00:31:10",
       "investigative_direction": "Timestamp board vote vs public announce vs contemporaneous press queries; seek board minutes if ever produced.",
       "mentions_person_refs": [
         "N-2",
@@ -2032,7 +2032,7 @@
       "@id": "C-6305",
       "ref": "C-6305",
       "label": "Profile Says Carlson Calls the Host a Very Humane and Decent Person, Upsetting Some at TPUSA",
-      "claim": "The host reads the profile as saying Tucker Carlson says he loves Candace and calls her a very humane and decent person, a position that has upset some people at Turning Point.",
+      "claim": "The host reads the profile as saying Tucker Carlson says he loves Candace and calls her a very humane and decent person, a position that he says has upset some people at Turning Point.",
       "anchored_artifacts": [
         "A-2463.1"
       ],
@@ -2183,7 +2183,7 @@
       "@id": "C-6312",
       "ref": "C-6312",
       "label": "Host Says Kolvet Told Her Erika Would Be CEO Within the First 48 Hours",
-      "claim": "The host says Andrew Kolvet told her within the first 48 hours that Erika would be CEO, although she says he now denies some of this.",
+      "claim": "The host says the decision to make Erika CEO was made within the first 48 hours, faster than the public was made aware, and that she knew because Andrew Kolvet told her, although she says he now denies some of this.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10218"
@@ -2803,7 +2803,7 @@
       "@id": "C-6342",
       "ref": "C-6342",
       "label": "Host Says She Has Since Received Contracts That She Will Show Next Episode",
-      "claim": "The host says she has received contracts since the timeline segment and will show them in the next episode along with a fuller timeline.",
+      "claim": "The host says she has since received contracts that she wants to show and will show them in the next episode along with a fuller timeline.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2872,7 +2872,8 @@
       "investigative_direction": "Archive the video and profile that the smear used.",
       "transcript_snippet": "they even put a video of a some girl who her profile says she's Indian",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-30"
       ]
     },
     {

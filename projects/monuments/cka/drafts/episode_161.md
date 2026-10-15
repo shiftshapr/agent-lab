@@ -894,7 +894,7 @@ Investigative Direction: Preserve resignation post; confirm SGE appointment date
 **C-3682** Tips describe million-dollar Discord bounties for anti-Candace videos
 
 Claim Timestamp: 00:07:17
-Claim: The host says unsolicited email tips claimed participants had proof that roughly $1.5M (and "millions") went out via Discord assignments for anti-Candace videos during the Tyler Robinson prelim week, orchestrated through Monster Lab / Clippet rather than a direct TPUSA paycheck.
+Claim: The host says unsolicited email tips claimed participants had proof that millions of dollars went out via Discord assignments for anti-Candace videos during the Tyler Robinson prelim week (one email citing $1.5M); she says she confirmed the company behind it does business as Monster Lab / Clippet, and that someone is doing it on TPUSA's behalf rather than TPUSA paying directly.
 Anchored Artifacts: A-2498.1
 Mentions: N-3, N-40
 Related Nodes: N-10883, N-10880, N-10013, N-10000
@@ -917,7 +917,7 @@ Investigative Direction: Hash-preserve campaign screenshots and Discord message 
 **C-3684** Discord pivoted $75k to make Andrew Wilson look good vs Candace
 
 Claim Timestamp: 00:12:06
-Claim: After the August 14 Candace vs Andrew Wilson debate, Elephant Clipping Discord instructions shifted for one week to a $75,000 pool clipping only that debate, allowing Candace only where she looks bad and Turning Point looks good, despite TPUSA publicly saying it had nothing to do with the debate.
+Claim: Per the Elephant Clipping Discord messages the host shows, after the August 14 Candace vs Andrew Wilson debate the instructions shifted for one week to a $75,000 pool clipping only that debate, allowing Candace only where she looks bad and Turning Point looks good; the host notes TPUSA publicly said it had nothing to do with the debate.
 Anchored Artifacts: A-2498.1
 Mentions: N-18, N-3
 Related Nodes: N-10881, N-10000, N-10013
@@ -1018,9 +1018,9 @@ Investigative Direction: Preserve full Fargo Talks episode; map Blake-Erika publ
 **C-3693** Andrew Tate pioneered the clipping economy via Hustlers University
 
 Claim Timestamp: 00:49:58
-Claim: Via the Edson interview clip, the show presents Andrew Tate's 2021 Hustlers University as the pioneering clip-army model (affiliate accounts, livestream clipping, commission links) later imitated by political clipping ops including the Erika/TPUSA-adjacent machine.
+Claim: Via the Edson interview clip, the show presents Andrew Tate's 2021 Hustlers University as the pioneering clip-army model (affiliate accounts, livestream clipping, commission links); before the clip the host says people discussed how the idea was stolen and recreated in the likeness of Erika Kirk, adding "I don't know."
 Anchored Artifacts: A-2503.1
-Mentions: N-171, N-202
+Mentions: N-171, N-2
 Related Nodes: N-10890
 Investigative Direction: Document Hustlers University affiliate mechanics vs Monster Lab Discord payout rules.
 
@@ -1055,7 +1055,7 @@ Notes: Conspiracy Girly is existing M-21 (first_episode 55); this episode is an 
 Claim Timestamp: 00:45:09
 Claim: Overlaying prior Mormon Mafia / Howard Hughes coverage, the host ties Blake Wynn's Erika Google Drive, Bill Ackman's Hughes Inc board seat, Kash Patel's Las Vegas roots, and Miriam Adelson ("Medson") presidency-purchase jab into a Vegas syndicate with money for million-dollar anti-Candace / pro-Erika campaigns.
 Anchored Artifacts: A-2500.1
-Mentions: N-353, N-37, N-69, N-299, N-354
+Mentions: N-353, N-37, N-69, N-299, N-2, N-744
 Related Nodes: N-10887, N-10249, N-10744, N-10882
 Investigative Direction: Map corporate ownership links among Enclave, Hughes remnants, and Adelson/Wynn entities.
 
@@ -1083,7 +1083,7 @@ Investigative Direction: Read with C-3696; confirm Bill Ackman's Howard Hughes b
 Claim Timestamp: 00:33:53
 Claim: The host argues TPUSA orbit figures keep pretending campaigns are organic and that Erika was just a widow at home, while clips were uploaded five days after the assassination and Discord money made Turning Point look good; she nicknames the pattern the audacity of the gaslight (vs Obama's Audacity of Hope).
 Anchored Artifacts: A-2499.1, A-2500.1
-Mentions: N-2, N-14
+Mentions: N-2
 Related Nodes: N-10892, N-10000, N-10891, M-64
 Contradicts: C-3687
 Investigative Direction: Pair public denial quotes with contemporaneous Discord/Drive artifacts.
@@ -1134,7 +1134,7 @@ Claim: The host says the official narrative requires viewers to believe a .30-06
 Transcript Snippet: we are meant to believe that not only did it not penetrate his neck but the force of the bullet which is 1,500 lb of energy coming at you uh that did not send Charlie backward.
 
 Anchored Artifacts: A-2497.1
-Mentions: N-1, N-40
+Mentions: N-1
 Related Nodes: N-10815
 Supports: C-3130
 Tags: relevance:core
@@ -1961,7 +1961,7 @@ Transcript Snippet: These people were funded uh into the positions that they're 
 Anchored Artifacts:
 Mentions:
 Related Nodes:
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: None; sweeping group characterization.
 
 ---

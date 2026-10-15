@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T17:55:52Z",
+  "generated_at": "2026-10-15T18:00:07Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -38801,7 +38801,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14993",
-      "label": "Host Recounts a Former Speaker Saying the Event Came Together in a Couple of Weeks",
+      "label": "Host Recalls Saying Last Fall the Event Came Together in a Couple of Weeks",
       "node_kind": "claim",
       "episode": 153
     },
@@ -39214,7 +39214,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-15047",
-      "label": "Host Says the Pharisee Lobby Operates Like Termites",
+      "label": "Host Says the 'Perisio' Lobby Operates Like Termites",
       "node_kind": "claim",
       "episode": 153
     },
@@ -53088,7 +53088,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3501",
-      "label": "TPUSA Claimed 500+ Voluntary Nampa Christian School Attendees",
+      "label": "TPUSA Claimed 500+ Nampa Christian School Attendees",
       "node_kind": "claim",
       "episode": 154
     },
@@ -53214,7 +53214,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3519",
-      "label": "Boring X Post Claimed Owens Acts for Fame",
+      "label": "Boreing X Post Claimed Owens Acts for Fame",
       "node_kind": "claim",
       "episode": 155
     },
@@ -53711,7 +53711,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3591",
-      "label": "TPUSA withheld or delayed crowd/ticket data needed for UVUPD mutual-aid decisions",
+      "label": "TPUSA did not provide ticket totals to UVU police a week before the event",
       "node_kind": "claim",
       "episode": 157
     },
@@ -72485,7 +72485,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6273",
-      "label": "Host says Cipher has always been Tyler Bowyer's guy",
+      "label": "Host Says Andrew Sypher Has Always Been Tyler Bowyer's Guy",
       "node_kind": "claim",
       "episode": 157
     },
@@ -83020,7 +83020,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7778",
-      "label": "Host Says Person by the Van Was Wearing Red",
+      "label": "Host Says Club President Chilcutt Was Wearing Red That Day",
       "node_kind": "claim",
       "episode": 156
     },

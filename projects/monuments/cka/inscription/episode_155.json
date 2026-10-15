@@ -1553,7 +1553,7 @@
       "@type": "Claim",
       "@id": "C-3519",
       "ref": "C-3519",
-      "label": "Boring X Post Claimed Owens Acts for Fame",
+      "label": "Boreing X Post Claimed Owens Acts for Fame",
       "claim": "Jeremy Boreing posted on X that Candace Owens \"does this largely on purpose\" and that \"all Candace cares about is fame and money. Nothing is beneath her.\"",
       "anchored_artifacts": [
         "A-2408.1"
@@ -1578,7 +1578,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:42:43",
+      "claim_timestamp": "00:41:43",
       "investigative_direction": "Retrieve the original post via web archive to confirm exact wording and timestamp.",
       "mentions_person_refs": [
         "N-60"
@@ -1623,7 +1623,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:46:45",
+      "claim_timestamp": "00:45:57",
       "investigative_direction": "Identify the original venue/date of the Vance clip to anchor sourcing.",
       "mentions_person_refs": [
         "N-4"
@@ -1742,13 +1742,13 @@
       "@id": "C-3530",
       "ref": "C-3530",
       "label": "Miss Noble Testimony Described Dodge Challenger with Bald Driver and Two Backseat Occupants",
-      "claim": "Neighbor Miss Noble and her husband reported observing a Dodge Challenger being driven by a bald person with two people in the back seat, parked in their neighborhood shortly after Officer Goforth's sighting.",
+      "claim": "The host says neighbor Miss Noble and her husband saw a Dodge Challenger parked in their neighborhood shortly after Officer Goforth's sighting, and that Miss Noble claims it was being driven by a bald person with two people in the back seat.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10850"
       ],
       "tags": [],
-      "claim_timestamp": "00:07:25–00:09:33",
+      "claim_timestamp": "00:08:45",
       "investigative_direction": "Obtain Miss Noble's interview transcript, witness statement, or sworn testimony to verify exact wording and to determine whether the Dodge Challenger identification was confirmed via plate or visual match.",
       "mentions_person_refs": [
         "N-903",
@@ -2852,7 +2852,7 @@
       "@id": "C-11904",
       "ref": "C-11904",
       "label": "Host Says She Is the Employee Boreing Fired",
-      "claim": "The host says that she is the employee Boreing fired but that he cannot let go and occupies her every thought.",
+      "claim": "The host says that she is the employee Boreing fired but that he cannot let go, and that she occupies his every thought.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10900"
@@ -2886,6 +2886,7 @@
       "transcript_snippet": "I have never once said YouTube should ban Candace.",
       "mentions_person_refs": [
         "N-160",
+        "N-367",
         "N-3"
       ]
     },
@@ -2916,7 +2917,7 @@
       "@id": "C-11907",
       "ref": "C-11907",
       "label": "Host Says Boreing Sued Her Privately for Years",
-      "claim": "The host says Boreing sued her privately for years throughout court and now, with no means to sue her, hosts people who say she should be sued.",
+      "claim": "The host says Boreing sued her privately for years throughout court and now, being tired or having no means to sue her since he was forced out of the Daily Wire, brings people on who say she should be sued.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10900"

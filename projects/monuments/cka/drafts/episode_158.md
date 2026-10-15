@@ -828,7 +828,7 @@ Investigative Direction: Build dated outfit plate from primary video stills; kee
 
 Claim Timestamp: 00:26:24
 
-Claim: Doug DeGroote confirms they planned to sign will paperwork that Monday; host alleges Mikey McCoy gatekept/canceled prior attempts and rejects DeGroote’s death-threat framing as the sole motive.
+Claim: Doug DeGroote confirms they planned to sign will paperwork that Monday; host says, allegedly, she was told Mikey McCoy gatekept the appointment, which had been canceled once or twice before, and rejects DeGroote's death-threat framing as the sole motive.
 
 Anchored Artifacts: A-2462.1
 Mentions: N-1, N-2, N-191, N-497
@@ -901,9 +901,9 @@ Investigative Direction: Verify archive timestamps on primary archive.org (or eq
 
 **C-3606** Bill Ackman amplified the smear package and later deleted related posts
 
-Claim Timestamp: 00:50:25
+Claim Timestamp: 00:49:14
 
-Claim: Host asserts billionaire Bill Ackman retweeted/amplified the college-account smear during Charlie’s Israel-pressure period and deleted tweets after capture.
+Claim: Host asserts billionaire Bill Ackman retweeted/amplified the college-account smear during Charlie’s Israel-pressure period and deleted the tweet after it was captured.
 
 Anchored Artifacts: A-2465.1
 Mentions: N-3, N-37
@@ -916,7 +916,7 @@ Investigative Direction: Preserve deleted-tweet captures; confirm handles/dates;
 
 **C-3607** Board voted Erika CEO within ~48 hours; DeGroote’s “media pressure” explanation is disputed
 
-Claim Timestamp: 00:30:00
+Claim Timestamp: 00:31:10
 
 Claim: Profile/DeGroote state the board voted two days after Charlie’s death to install Erika, delaying public announce toward memorial because of media questions; host rejects the claim that reporters flooded them for a replacement within 24 hours as the real driver.
 
@@ -1225,7 +1225,7 @@ Investigative Direction: Compare the host's July 18 tweet with the date of the p
 
 Claim Timestamp: 00:24:52
 
-Claim: The host reads the profile as saying Tucker Carlson says he loves Candace and calls her a very humane and decent person, a position that has upset some people at Turning Point.
+Claim: The host reads the profile as saying Tucker Carlson says he loves Candace and calls her a very humane and decent person, a position that he says has upset some people at Turning Point.
 
 Transcript Snippet: Carlson says he loves Candace and calls her a very humane and decent person, a position that he says has upset some people at Turning Point.
 
@@ -1331,7 +1331,7 @@ Investigative Direction: Verify the quotation and context in the published profi
 
 Claim Timestamp: 00:30:49
 
-Claim: The host says Andrew Kolvet told her within the first 48 hours that Erika would be CEO, although she says he now denies some of this.
+Claim: The host says the decision to make Erika CEO was made within the first 48 hours, faster than the public was made aware, and that she knew because Andrew Kolvet told her, although she says he now denies some of this.
 
 Transcript Snippet: And I knew because Andrew Kolvet told me, even though he denies some of this stuff
 
@@ -1789,7 +1789,7 @@ Investigative Direction: Date the Ackman and Hamptons meeting against the archiv
 
 Claim Timestamp: 00:51:10
 
-Claim: The host says she has received contracts since the timeline segment and will show them in the next episode along with a fuller timeline.
+Claim: The host says she has since received contracts that she wants to show and will show them in the next episode along with a fuller timeline.
 
 Transcript Snippet: because I have contracts that I also want to show you that we have since received.
 
@@ -1839,7 +1839,7 @@ Claim: The host says the smear package included a video of a woman whose profile
 Transcript Snippet: they even put a video of a some girl who her profile says she's Indian
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-30
 Related Nodes: N-11089, N-10867
 Investigative Direction: Archive the video and profile that the smear used.
 

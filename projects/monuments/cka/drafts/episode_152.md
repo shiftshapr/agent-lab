@@ -2200,7 +2200,7 @@ Investigative Direction: Obtain the host's outbound email and any reply or non-r
 
 Claim Timestamp: 00:29:26
 
-Claim: The host says Epstein frequented the office of the modeling agency run by Faith Kates, an agency started by Jean-Luc Brunel (transcribed John Luke Brunell) of France, who she says was found dead by suicide.
+Claim: The host says Epstein frequented the office of a modeling agency run by Faith Kates, someone he was very close with, "and or" a modeling agency started by Jean-Luc Brunel (transcribed John Luke Brunell) of France, who she says was "found suicided, as they say."
 
 Transcript Snippet: Faith Kates running that modeling agency and or a modeling agency that started started by John Luke Brunell uh of France who uh was found suicided as they say in France
 
@@ -2385,7 +2385,7 @@ Investigative Direction: Review the detective's interview transcript if released
 
 Claim Timestamp: 00:41:02
 
-Claim: The host says that whenever people are married to the Israel cause you find this sort of thing in their background because Israel is very good at blackmailing people.
+Claim: The host says it seems that whenever people are married to the Israel cause in a way that unnerves her, you find this sort of thing in their background because Israel is very good at blackmailing people.
 
 Transcript Snippet: you find this in their background because Israel is very good at blackmailing people.
 
@@ -2619,7 +2619,7 @@ Claim: The host agrees with a comment that Erika went on a media tour with Fox, 
 Transcript Snippet: The entire tour was about debunking Candace. She had first sent out the troops, the Alex Clark types
 
 Anchored Artifacts: A-3086.3
-Mentions: N-2, N-3, N-279, N-238, N-99
+Mentions: N-2, N-3, N-279, N-238
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Review each tour interview and match Erika's remarks to the host's earlier podcast statements.
