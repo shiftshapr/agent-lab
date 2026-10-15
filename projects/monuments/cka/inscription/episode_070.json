@@ -132,8 +132,8 @@
             "C-2322"
           ],
           "related_nodes": [
-            "N-553",
-            "N-495",
+            "N-552",
+            "N-494",
             "N-10492"
           ],
           "tags": [],
@@ -161,7 +161,7 @@
             "C-2324"
           ],
           "related_nodes": [
-            "N-279",
+            "N-278",
             "N-2"
           ],
           "tags": [],
@@ -333,8 +333,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-553",
-      "ref": "N-553",
+      "@id": "N-552",
+      "ref": "N-552",
       "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Former TPUSA public relations manager; spoke publicly about termination process in self-published video. Artifact-backed person new to the series record.",
@@ -353,14 +353,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-495",
+        "N-494",
         "N-10492"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
+      "@id": "N-494",
+      "ref": "N-494",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Identified on-air as CMO of Turning Point USA; named by Aubrey Laitsch as present at her termination meeting.",
@@ -376,13 +376,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-553"
+        "N-552"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian / podcaster; artifact-backed on-air clip commenting on Erika Kirk and political performance.",
@@ -425,8 +425,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-553",
-        "N-495"
+        "N-552",
+        "N-494"
       ]
     },
     {
@@ -694,8 +694,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-212",
+      "ref": "N-212",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.",
@@ -747,8 +747,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-188",
-      "ref": "N-188",
+      "@id": "N-187",
+      "ref": "N-187",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "Person the host says she warned Charlie Kirk about in 2019.",
@@ -764,8 +764,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Dan Flood",
       "type": "person",
       "description": "Person the host says she warned Charlie Kirk about and who received his night-before text.",
@@ -890,8 +890,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-314",
-      "ref": "N-314",
+      "@id": "N-313",
+      "ref": "N-313",
       "name": "Pierre Falcone",
       "type": "person",
       "description": "The host guesses that the donor Pierre is Pierre Falcone ('Falcone' in the transcript).",
@@ -907,8 +907,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-737",
-      "ref": "N-737",
+      "@id": "N-736",
+      "ref": "N-736",
       "name": "Ike Perlmutter",
       "type": "person",
       "description": "Ike Perlmutter, named by the host for the Mar-a-Lago fundraising meeting (confirmed by the HappyScribe transcript of Candace Ep 303 at 00:04:58).",
@@ -1418,8 +1418,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-805",
-      "ref": "N-805",
+      "@id": "N-804",
+      "ref": "N-804",
       "name": "Don Orrico",
       "type": "person",
       "description": "Named by the host at 00:13:09 in episode 70 as a Turning Point USA contact in Tampa. Florida-based major-gifts fundraiser (formerly Mackinac Center director of strategic partnerships); TPUSA role unconfirmed.",
@@ -1557,7 +1557,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-213"
+        "N-212"
       ]
     },
     {
@@ -1577,7 +1577,7 @@
       "investigative_direction": "Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account.",
       "mentions_person_refs": [
         "N-2",
-        "N-213"
+        "N-212"
       ]
     },
     {
@@ -1594,7 +1594,7 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Verify Lech's employment dates and termination date via TPUSA / ATK records.",
       "mentions_person_refs": [
-        "N-553"
+        "N-552"
       ]
     },
     {
@@ -1613,8 +1613,8 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.",
       "mentions_person_refs": [
-        "N-495",
-        "N-553",
+        "N-494",
+        "N-552",
         "N-14"
       ]
     },
@@ -1634,7 +1634,7 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.",
       "mentions_person_refs": [
-        "N-553",
+        "N-552",
         "N-1"
       ]
     },
@@ -1652,8 +1652,8 @@
       "claim_timestamp": "00:24:02–00:28:28",
       "investigative_direction": "Verify Marina Munz's title and organizational role via TPUSA public records.",
       "mentions_person_refs": [
-        "N-495",
-        "N-553",
+        "N-494",
+        "N-552",
         "N-14"
       ]
     },
@@ -1671,7 +1671,7 @@
       "claim_timestamp": "00:33:22–00:35:00",
       "investigative_direction": "Identify the source episode of the Dillon clip and capture the full surrounding context.",
       "mentions_person_refs": [
-        "N-279"
+        "N-278"
       ]
     },
     {
@@ -1689,7 +1689,7 @@
       "investigative_direction": "Locate the unedited Dillon segment to determine whether the Erika line was delivered sarcastically, earnestly, or in mixed register.",
       "mentions_person_refs": [
         "N-2",
-        "N-279"
+        "N-278"
       ]
     },
     {
@@ -1811,7 +1811,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-737"
+        "N-736"
       ]
     },
     {
@@ -1833,7 +1833,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-737"
+        "N-736"
       ]
     },
     {
@@ -1879,7 +1879,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-272",
+        "N-271",
         "N-2"
       ]
     },
@@ -1902,7 +1902,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-188",
+        "N-187",
         "N-11"
       ]
     },
@@ -2200,7 +2200,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-15",
-        "N-805"
+        "N-804"
       ]
     },
     {
@@ -2292,7 +2292,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-314"
+        "N-313"
       ]
     },
     {
@@ -2614,7 +2614,7 @@
       "investigative_direction": "Corroborate Lech's workload with TPUSA staff and press-office call logs, which she could produce.",
       "transcript_snippet": "My phone received hundreds of phone calls on September 10th, thousands of text messages.",
       "mentions_person_refs": [
-        "N-553"
+        "N-552"
       ]
     },
     {
@@ -2658,7 +2658,7 @@
       "transcript_snippet": "I think in the end there when she says that this was actually motivated by them going after people who they suspected were not loyal to Erika",
       "mentions_person_refs": [
         "N-3",
-        "N-553",
+        "N-552",
         "N-2"
       ]
     },
@@ -2903,7 +2903,7 @@
       "transcript_snippet": "they also then fired her fiance. So their entire uh income in one house was wiped out in one day.",
       "mentions_person_refs": [
         "N-3",
-        "N-553"
+        "N-552"
       ]
     },
     {
@@ -2973,7 +2973,7 @@
       "transcript_snippet": "Dan Flood and Andrew Kolvet would have told her that.",
       "mentions_person_refs": [
         "N-3",
-        "N-272",
+        "N-271",
         "N-14",
         "N-2"
       ]

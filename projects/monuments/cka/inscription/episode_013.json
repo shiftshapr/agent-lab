@@ -33,7 +33,7 @@
           "related_nodes": [
             "N-40",
             "N-132",
-            "N-144",
+            "N-143",
             "N-10152"
           ],
           "tags": [],
@@ -133,7 +133,7 @@
             "C-1341"
           ],
           "related_nodes": [
-            "N-135",
+            "N-134",
             "N-10154"
           ],
           "tags": [],
@@ -152,7 +152,7 @@
             "C-1341"
           ],
           "related_nodes": [
-            "N-136",
+            "N-135",
             "N-10154"
           ],
           "tags": [],
@@ -171,7 +171,7 @@
             "C-1341"
           ],
           "related_nodes": [
-            "N-137",
+            "N-136",
             "N-10154"
           ],
           "tags": [],
@@ -218,8 +218,8 @@
             "C-1346"
           ],
           "related_nodes": [
-            "N-141",
-            "N-142"
+            "N-140",
+            "N-141"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -245,7 +245,7 @@
             "C-1347"
           ],
           "related_nodes": [
-            "N-139",
+            "N-138",
             "N-46"
           ],
           "tags": [],
@@ -273,7 +273,7 @@
           ],
           "related_nodes": [
             "N-46",
-            "N-139"
+            "N-138"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -299,7 +299,7 @@
             "C-1349"
           ],
           "related_nodes": [
-            "N-140",
+            "N-139",
             "N-46"
           ],
           "tags": [],
@@ -319,7 +319,7 @@
           ],
           "related_nodes": [
             "N-46",
-            "N-140"
+            "N-139"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -345,7 +345,7 @@
             "C-1350"
           ],
           "related_nodes": [
-            "N-138",
+            "N-137",
             "N-10157"
           ],
           "tags": [],
@@ -727,7 +727,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-40",
-        "N-144"
+        "N-143"
       ]
     },
     {
@@ -755,8 +755,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-135",
-      "ref": "N-135",
+      "@id": "N-134",
+      "ref": "N-134",
       "name": "Robert Bohls",
       "type": "person",
       "description": "FBI Special Agent in Charge recently installed over the Utah bureau by Kash Patel; previously held a long tenure in DC. First major case: Charlie Kirk assassination.",
@@ -777,8 +777,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-136",
-      "ref": "N-136",
+      "@id": "N-135",
+      "ref": "N-135",
       "name": "Andrew Zenger",
       "type": "person",
       "description": "Recently appointed CEO and lead surgeon at the regional hospital where Charlie Kirk was taken; flagged by host because the hospital was not the nearest and did not rank highly for trauma/neck-wound capability.",
@@ -800,8 +800,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-137",
-      "ref": "N-137",
+      "@id": "N-136",
+      "ref": "N-136",
       "name": "Judge Tony F. Graf Jr.",
       "type": "person",
       "description": "Recently appointed to the fourth district court in May 2025 by Governor Spencer Cox; presides over Tyler Robinson case.",
@@ -822,8 +822,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-138",
-      "ref": "N-138",
+      "@id": "N-137",
+      "ref": "N-137",
       "name": "Erika \"Erikica\" Mindle",
       "type": "person",
       "description": "Self-described in host's producer note as American Israeli Jewish former IDF soldier; named as TikTok Public Policy Manager of Hate Speech since July 2025.",
@@ -844,8 +844,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-139",
-      "ref": "N-139",
+      "@id": "N-138",
+      "ref": "N-138",
       "name": "Florida Dab (X handle)",
       "type": "person",
       "description": "X account characterized by host as \"Ziobot\"/pro-Israel; initiated the social-media pressure exchange with Megyn Kelly over separation from Candace Owens.",
@@ -863,8 +863,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-140",
-      "ref": "N-140",
+      "@id": "N-139",
+      "ref": "N-139",
       "name": "Konstantin Kisin",
       "type": "person",
       "description": "X account / commenter who joined the Florida Dab → Megyn Kelly thread; described by host as an \"agent of Israel.\"",
@@ -883,8 +883,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-141",
-      "ref": "N-141",
+      "@id": "N-140",
+      "ref": "N-140",
       "name": "Deborah Lee",
       "type": "person",
       "description": "Host of the influencer meeting with Netanyahu; raised the question about evangelical support post-Kirk assassination.",
@@ -900,8 +900,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-142",
-      "ref": "N-142",
+      "@id": "N-141",
+      "ref": "N-141",
       "name": "Larry Ellison",
       "type": "person",
       "description": "Named by host as a party in the TikTok deal and as openly identifying as \"an agent of Israel.\"",
@@ -915,8 +915,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-143",
-      "ref": "N-143",
+      "@id": "N-142",
+      "ref": "N-142",
       "name": "Michael Burt",
       "type": "person",
       "description": "Defense attorney named in on-air comment as previously representing Richard Ramirez (\"the Nightstalker\"); said to be one of Tyler Robinson's lawyers.",
@@ -934,8 +934,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-144",
-      "ref": "N-144",
+      "@id": "N-143",
+      "ref": "N-143",
       "name": "Unidentified Lyman-Family Woman (Shaner's aunt)",
       "type": "person",
       "description": "Speaker in A-1196.1 footage; produced the statement \"I wondered if the girl had given him stuff…if there is an accomplice.\" Identity not publicly established in the episode.",
@@ -977,7 +977,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-144",
+        "N-143",
         "N-132"
       ]
     },
@@ -1017,9 +1017,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
+        "N-134",
         "N-135",
-        "N-136",
-        "N-137"
+        "N-136"
       ]
     },
     {
@@ -1064,7 +1064,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-136"
+        "N-135"
       ]
     },
     {
@@ -1495,8 +1495,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-195",
-      "ref": "N-195",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "David Horowitz",
       "type": "person",
       "description": "Named by the host as the father of a Horowitz linked to the TikTok deal.",
@@ -2280,7 +2280,7 @@
       "mentions_person_refs": [
         "N-40",
         "N-132",
-        "N-144"
+        "N-143"
       ]
     },
     {
@@ -2303,9 +2303,9 @@
       "claim_timestamp": "00:04:53",
       "investigative_direction": "Confirm each appointment's date and predecessor; verify Andrew Zenger's direct involvement in Charlie Kirk's surgical care.",
       "mentions_person_refs": [
+        "N-134",
         "N-135",
         "N-136",
-        "N-137",
         "N-41",
         "N-69"
       ]
@@ -2358,7 +2358,7 @@
       "claim_timestamp": "00:27:00",
       "investigative_direction": "Obtain the original full footage and timestamp metadata; identify any co-attendees not named in the clip.",
       "mentions_person_refs": [
-        "N-141",
+        "N-140",
         "N-36",
         "N-1"
       ]
@@ -2411,7 +2411,7 @@
       "claim_timestamp": "00:35:01",
       "investigative_direction": "Archive the original post; identify the account's operator; map its network of similar accounts.",
       "mentions_person_refs": [
-        "N-139",
+        "N-138",
         "N-3",
         "N-46"
       ]
@@ -2431,7 +2431,7 @@
       "claim_timestamp": "00:35:51",
       "investigative_direction": "Capture full thread context including replies not quoted on air.",
       "mentions_person_refs": [
-        "N-139",
+        "N-138",
         "N-46",
         "N-22",
         "N-3"
@@ -2452,7 +2452,7 @@
       "claim_timestamp": "00:35:51",
       "investigative_direction": "Verify the post is from the same handle the host means; identify its operator and pattern of activity.",
       "mentions_person_refs": [
-        "N-140",
+        "N-139",
         "N-22",
         "N-3",
         "N-46"
@@ -2472,7 +2472,7 @@
       "claim_timestamp": "00:43:16",
       "investigative_direction": "Verify the named individual's employment, role title, and dates through LinkedIn, TikTok corporate disclosures, or press releases.",
       "mentions_person_refs": [
-        "N-138"
+        "N-137"
       ]
     },
     {
@@ -2503,7 +2503,7 @@
       "claim_timestamp": "00:46:36",
       "investigative_direction": "Verify against state bar records and published case dockets for both Ramirez and Robinson.",
       "mentions_person_refs": [
-        "N-143",
+        "N-142",
         "N-40"
       ]
     },
@@ -2626,7 +2626,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-136"
+        "N-135"
       ]
     },
     {
@@ -2756,7 +2756,7 @@
       "transcript_snippet": "now we have actually the woman who handed over her footage to the FBI saying, \"I wondered if that woman was an accomplice, ladies and gentlemen.",
       "mentions_person_refs": [
         "N-3",
-        "N-144",
+        "N-143",
         "N-132"
       ]
     },
@@ -3120,7 +3120,7 @@
       "investigative_direction": "Obtain the full clip and Lee's background and past public statements about Kirk.",
       "transcript_snippet": "who was a big mentor of mine, he's my first mentor in the space.",
       "mentions_person_refs": [
-        "N-141",
+        "N-140",
         "N-1"
       ]
     },
@@ -3143,7 +3143,7 @@
       "investigative_direction": "Obtain the full clip and the event details.",
       "transcript_snippet": "evangelicals are the reason that Israel has been supported in public sphere outside of just Jews.",
       "mentions_person_refs": [
-        "N-141",
+        "N-140",
         "N-36",
         "N-22",
         "N-3"
@@ -3228,7 +3228,7 @@
       "investigative_direction": "Find Ellison's exact public statement and the TikTok deal terms.",
       "transcript_snippet": "it's Larry Ellison who has made he's very clear about the fact that he's a agent of Israel.",
       "mentions_person_refs": [
-        "N-142"
+        "N-141"
       ]
     },
     {
@@ -3249,7 +3249,7 @@
       "investigative_direction": "Identify which Horowitz is meant and check the TikTok deal investor list.",
       "transcript_snippet": "Horowitz, the son of David Harowitz, David Harowitz from which all of uh the connections Prageru",
       "mentions_person_refs": [
-        "N-195",
+        "N-194",
         "N-97"
       ]
     },
@@ -3339,7 +3339,7 @@
       "mentions_person_refs": [
         "N-46",
         "N-1",
-        "N-139",
+        "N-138",
         "N-3"
       ]
     },
@@ -3405,7 +3405,7 @@
       "investigative_direction": "Obtain the text message and compare it with the Kisin post.",
       "transcript_snippet": "almost verbatim a text message that I received from Marissa Stright when I like retweeted Max Blumenthal",
       "mentions_person_refs": [
-        "N-140",
+        "N-139",
         "N-117",
         "N-49",
         "N-3"
@@ -3471,7 +3471,7 @@
       "investigative_direction": "Capture the full thread.",
       "transcript_snippet": "I demand nothing of you. And in coming from a position of great respect",
       "mentions_person_refs": [
-        "N-140",
+        "N-139",
         "N-46"
       ]
     },

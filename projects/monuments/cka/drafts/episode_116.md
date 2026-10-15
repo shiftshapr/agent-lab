@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep116): N-10678, N-10685, N-10756
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-684, N-10985
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-9, N-36, N-40, N-42, N-46, N-60, N-69, N-99, N-105, N-161, N-192, N-210, N-211, N-263, N-280, N-412, N-416, N-10000, N-10012, N-10014, N-10074, N-10092, N-10107, N-10110, N-10239, N-10319, N-10324, N-10334, N-10338, N-10346, N-10362, N-10381, N-10446, N-10508, N-10537, N-10551, N-10566, N-10577, N-10578, N-10581, N-10660, N-10700, N-10705, N-10724, N-10768, N-10808, N-10812, N-10888, N-10923, N-10950, N-10818, N-685, N-686, N-10730, N-10984, N-10715, N-10986
+  - Tip-minted Nodes (skeleton): N-683, N-10985
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-7, N-9, N-36, N-40, N-42, N-46, N-60, N-69, N-99, N-105, N-160, N-191, N-209, N-210, N-262, N-279, N-411, N-415, N-10000, N-10012, N-10014, N-10074, N-10092, N-10107, N-10110, N-10239, N-10319, N-10324, N-10334, N-10338, N-10346, N-10362, N-10381, N-10446, N-10508, N-10537, N-10551, N-10566, N-10577, N-10578, N-10581, N-10660, N-10700, N-10705, N-10724, N-10768, N-10808, N-10812, N-10888, N-10923, N-10950, N-10818, N-684, N-685, N-10730, N-10984, N-10715, N-10986
   - Claim Range: C-4592–C-4652
   - (see registers)
 
@@ -103,7 +103,7 @@ Video Timestamp: 00:25:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4613, C-4615, N-685, N-10678*
+*Related: C-4613, C-4615, N-684, N-10678*
 
 ---
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:36:29
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4628, N-210, N-7, N-192*
+*Related: C-4628, N-209, N-7, N-191*
 
 **A-2672.2** Clip of Frank Turek telling Megyn Kelly his phone stayed on FaceTime with his son until he reached the hotel
 
@@ -129,7 +129,7 @@ Video Timestamp: 00:37:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4627, C-4629, N-46, N-7, N-686*
+*Related: C-4627, C-4629, N-46, N-7, N-685*
 
 ---
 
@@ -271,7 +271,7 @@ Video Timestamp: 01:09:28
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4651, C-4652, N-416, N-412*
+*Related: C-4651, C-4652, N-415, N-411*
 
 ---
 ## 4. Node Register
@@ -354,67 +354,67 @@ Transcript spelling "Corey Comparator". Butler victim whose friend Don Porter su
 
 *Related: C-4593*
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 Host says he called his mother and not 911.
 
 *Related: C-4625, C-4626*
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Host says he walked away and called his wife, not Erika Kirk or 911; named as "Mike" in the Jack Hibbs clip.
 
 *Related: C-4625, C-4626, C-4628, A-2672.1*
 
-**N-210** Jack Hibbs
+**N-209** Jack Hibbs
 
 Pastor whose interview with Frank Turek the host says disrupted Turek's FaceTime account.
 
 *Related: C-4628, A-2672.1*
 
-**N-211** Joe Kent
+**N-210** Joe Kent
 
 Host says TPUSA suggested he passed her the leaked messages.
 
 *Related: C-4617*
 
-**N-263** Terrell Farnsworth
+**N-262** Terrell Farnsworth
 
 Transcript spellings "Terrell", "Taral" and "Terrell Farnsworth". Removed the SD card from the camera behind Charlie Kirk's head; seen in the background of Erika Kirk's Zoom call.
 
 *Related: C-4606, C-4607, C-4611, C-4612, C-4631*
 
-**N-280** Bari Weiss
+**N-279** Bari Weiss
 
 Interviewer to whom Erika Kirk said she believes Tyler Robinson acted alone.
 
 *Related: C-4619*
 
-**N-412** Zachariah Karashy
+**N-411** Zachariah Qureshi
 
 Transcript spellings "Zachariah Qureshi" and "Sam Qureshi"; "decoy boy number two." Long-time friend of Connor Henderson.
 
 *Related: C-4651, C-4652, A-2676.3*
 
-**N-416** Connor Henderson
+**N-415** Connor Henderson
 
 Transcript spelling also "Conor". The host says he interned in the Timpanogos emergency department.
 
 *Related: C-4651, C-4652, A-2676.3*
 
-**N-684** Don Porter
+**N-683** Don Porter
 
 First named by the host at 00:02:16 in episode 116. Friend of Corey Comperatore whose leads the host credits for her prior Butler episode.
 
 *Related: C-4593*
 
-**N-685** Jon Bray
+**N-684** Jon Bray
 
 First named by the host at 00:03:00 in episode 116. X user the host credits with first positing the exploding-microphone theory. Aliases: John Braden; John Blake.
 
 *Related: C-4594, C-4598, C-4613, A-2671.1*
 
-**N-686** Spencer (Frank Turek's son)
+**N-685** Spencer (Frank Turek's son)
 
 First named at 00:37:19 in episode 116, in Frank Turek's Megyn Kelly clip. The 35-year-old son Turek says he was FaceTiming during the event.
 
@@ -546,7 +546,7 @@ The Built organization co-founded by Zachariah Qureshi's father and a Henderson.
 
 *Related: C-4652*
 
-**N-10578** Decoy Subject Investigation (Karashy/Qureshi)
+**N-10578** Decoy Subject Investigation (Qureshi)
 
 The Qureshi–Henderson connection is restated.
 
@@ -654,7 +654,7 @@ Federal department the host says accused her of clickbait through the FBI's rapi
 Node Type: Topic
 Investigation target: whether the September 10 UVU event was actually being live streamed back to the Turning Point USA office, as Terrell Farnsworth told the host. The host says no one at TPUSA has confirmed watching that live stream.
 
-*Related: C-4631, N-263, N-10000*
+*Related: C-4631, N-262, N-10000*
 
 **N-10986** Accurate Energetic Systems Explosion (Hickman County, Tennessee)
 
@@ -703,7 +703,7 @@ Claim: The host credits Don Porter, a friend of Corey Comperatore, with reaching
 Transcript Snippet: It was Corey Comparators a friend who refused to let the circumstances go regarding the Butler assassination. He's actually the one that reached out to me and put together various pieces and leads for me to chase down.
 
 Anchored Artifacts:
-Mentions: N-684, N-105, N-3
+Mentions: N-683, N-105, N-3
 Related Nodes: N-10724
 Investigative Direction: Confirm Don Porter's relationship to Corey Comperatore and review the materials he provided.
 
@@ -718,7 +718,7 @@ Claim: The host says the theory that Charlie Kirk was killed by an explosive in 
 Transcript Snippet: It was a theory that was at first posited by an ex-user named John Bray and you should go down that rabbit hole. He has done so much work on this. Really truly he has worked on this since September.
 
 Anchored Artifacts:
-Mentions: N-685, N-1, N-3
+Mentions: N-684, N-1, N-3
 Related Nodes: N-10768, N-10705
 Investigative Direction: Locate Jon Bray's X posts on the theory and their earliest dates.
 
@@ -778,7 +778,7 @@ Claim: The host says the theorized explosive would be a shaped charge, typically
 Transcript Snippet: This would be what is known as a shaped charge. I've learned this recently, and John Braden was trying to explain it to me on X
 
 Anchored Artifacts:
-Mentions: N-685, N-1
+Mentions: N-684, N-1
 Related Nodes: N-10768
 Investigative Direction: Consult explosives experts on whether a microphone-sized shaped charge could produce the observed wound.
 
@@ -900,7 +900,7 @@ Claim: The host says Terrell Farnsworth told her that he spoke to Erika Kirk abo
 Transcript Snippet: it is now very compelling to me that Terrell says he spoke to Erika about that footage.
 
 Anchored Artifacts:
-Mentions: N-263, N-2, N-1
+Mentions: N-262, N-2, N-1
 Related Nodes: N-10812
 Investigative Direction: Obtain Terrell Farnsworth's statements on when and with whom he discussed the footage.
 
@@ -915,7 +915,7 @@ Claim: The host says Terrell Farnsworth is standing in the back of the Zoom vide
 Transcript Snippet: Erika is laughing at the emojis 6 days after the assassination, if you didn't note, Terrell is standing in the back.
 
 Anchored Artifacts:
-Mentions: N-263, N-2, N-1
+Mentions: N-262, N-2, N-1
 Related Nodes: N-10000
 Supports: C-2220
 Investigative Direction: Review the full September 16 TPUSA Zoom recording to identify everyone in frame.
@@ -976,7 +976,7 @@ Claim: The host says Terrell Farnsworth was specifically instructed to take the 
 Transcript Snippet: why Terrell Farnsworth was instructed specifically to take the SD card from the camera that was behind Charlie's head
 
 Anchored Artifacts:
-Mentions: N-263, N-1
+Mentions: N-262, N-1
 Related Nodes: N-10808, N-10346
 Investigative Direction: Establish who instructed the SD card removal and its chain of custody.
 
@@ -991,7 +991,7 @@ Claim: The host agrees with viewers that Terrell Farnsworth zoomed in on the foo
 Transcript Snippet: I think you are correct that he zoomed in on that that footage because it would have showed us more.
 
 Anchored Artifacts:
-Mentions: N-263, N-3
+Mentions: N-262, N-3
 Related Nodes: N-10346
 Investigative Direction: Obtain the original SD card file and compare its frame with what was shown to the host.
 
@@ -1006,7 +1006,7 @@ Claim: The host says Jon Bray told her that her SUV interior photos were the mis
 Transcript Snippet: he said that my video was the missing piece to his theory that he was looking for what would have been shards of the ABS plastic that is used on the road bike.
 
 Anchored Artifacts: A-2671.1
-Mentions: N-685, N-3, N-1
+Mentions: N-684, N-3, N-1
 Related Nodes: N-10705, N-10678
 Investigative Direction: Have the SUV shards forensically analyzed or obtain any FBI evidence log of debris recovered from the vehicle.
 
@@ -1066,7 +1066,7 @@ Claim: The host says that after she published the messages contradicting TPUSA's
 Transcript Snippet: What was the response from Turning Point? To be angry and to suggest that it came from Joe Kent. That Joe Kent sent me the messages and I published them.
 
 Anchored Artifacts:
-Mentions: N-211, N-3
+Mentions: N-210, N-3
 Related Nodes: N-10551, N-10000, N-10446
 Investigative Direction: Collect TPUSA staff statements attributing the leak to Joe Kent.
 
@@ -1096,7 +1096,7 @@ Claim: The host says that when Bari Weiss asked Erika Kirk whether she believes 
 Transcript Snippet: Bari Weiss, do you believe it? Yes. Do you believe Tyler Robinson actually alone? Yes, I do. That's what she said.
 
 Anchored Artifacts:
-Mentions: N-280, N-2, N-40
+Mentions: N-279, N-2, N-40
 Related Nodes: N-10334
 Investigative Direction: Review the CBS town hall transcript for the exact question and answer.
 
@@ -1187,7 +1187,7 @@ Claim: The host says Mikey McCoy walked away and called his wife, not Erika Kirk
 Transcript Snippet: He went to He went to call his wife. And he didn't call 911.
 
 Anchored Artifacts:
-Mentions: N-192, N-2
+Mentions: N-191, N-2
 Related Nodes: N-10338
 Supports: C-2294
 Investigative Direction: Obtain Mikey McCoy's call log for September 10, 2025.
@@ -1203,7 +1203,7 @@ Claim: The host says Blake Neff called his mother and not 911, and that neither 
 Transcript Snippet: And Blake Neff didn't call 911. He called his mother.
 
 Anchored Artifacts:
-Mentions: N-161, N-192
+Mentions: N-160, N-191
 Related Nodes: N-10715
 Investigative Direction: Obtain Blake Neff's call log and 911 dispatch logs for the event.
 
@@ -1233,7 +1233,7 @@ Claim: In the Jack Hibbs clip, Frank Turek says that after they got Charlie Kirk
 Transcript Snippet: Okay, then I got the first call from Mike cuz I was in the >> emergency room after we got Charlie there.
 
 Anchored Artifacts: A-2672.1
-Mentions: N-210, N-7, N-192, N-1
+Mentions: N-209, N-7, N-191, N-1
 Related Nodes: N-10818, N-10730
 Investigative Direction: Compare Turek's carrier records for incoming calls with the FaceTime session duration.
 
@@ -1248,7 +1248,7 @@ Claim: In a Megyn Kelly clip, Frank Turek says he FaceTimed his wife and then hi
 Transcript Snippet: I was just well, first I I was FaceTiming my wife and then I said, "Let me call Spencer." And so I started FaceTiming him.
 
 Anchored Artifacts: A-2672.2
-Mentions: N-7, N-46, N-686, N-1
+Mentions: N-7, N-46, N-685, N-1
 Related Nodes: N-10730
 Investigative Direction: Obtain the FaceTime session logs from Turek's or his son's device.
 
@@ -1278,7 +1278,7 @@ Claim: The host says Terrell Farnsworth told her TPUSA was live streaming the ev
 Transcript Snippet: I've asked people at Turning Point USA, "Do you remember seeing this live stream?" Thus far, no one has confirmed watching this live stream at the office.
 
 Anchored Artifacts:
-Mentions: N-263, N-1
+Mentions: N-262, N-1
 Related Nodes: N-10985, N-10000
 Investigative Direction: Request TPUSA's streaming platform logs for the September 10 event.
 
@@ -1578,7 +1578,7 @@ Claim: The host says Connor Henderson was interning in the emergency department 
 Transcript Snippet: and then we find out that Connor was working at the hospital, Timpanogos, interning in the emergency department
 
 Anchored Artifacts: A-2676.3
-Mentions: N-416, N-412, N-42, N-1
+Mentions: N-415, N-411, N-42, N-1
 Related Nodes: N-10578, N-10092
 Supports: C-2634
 Investigative Direction: Confirm Connor Henderson's Timpanogos internship dates and whether he worked September 10.
@@ -1594,7 +1594,7 @@ Claim: The host says Zachariah Qureshi's father was one half of the Built organi
 Transcript Snippet: His father was one half of the Built organization, um along with someone Henderson, and their sons lived at some point in the same house.
 
 Anchored Artifacts: A-2676.3
-Mentions: N-412, N-416
+Mentions: N-411, N-415
 Related Nodes: N-10577, N-10578
 Supports: C-2638
 Investigative Direction: Check Built Inc. corporate filings and residential records for both families.
@@ -1832,7 +1832,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2673.1 (tip request, nothing shown). The host also refers without showing anything to Erika Kirk's Bari Weiss interview, the September 16 TPUSA Zoom call, Kash Patel's FOIA response letter (she says it was shown on the prior day's show) and the Epstein-binders tweet ("I don't know if you have my tweet"). A-2674.6 is logged at Medium because it is unclear whether the photo was put on screen.
 - **DIA beats**: one real beat (44:47, tips@candaceowens.com for the Hickman County explosion, repeated as "More tips@candaceowens. com" in the same paragraph); it is logged as C-4634, A-2673.1 and M-12. At 01:03:56 the host thanks Evie for "a massive uh tip," which is about her hairstyle, not a DIA beat. No bounty and no CIA merch phrase aired, so M-14 is not used.
-- **Name matching**: "Jon Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-685 Jon Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terrell", "Taral" and "Terrell Farnsworth" are mapped to N-263. "Frank Turek" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-412 Zachariah Karashy; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
+- **Name matching**: "Jon Bray" (03:00), "John Braden" (08:07) and "John Blake" (25:01, 26:45) are treated as one new person, N-684 Jon Bray, because the context (X user, mic theory, SUV photos) is the same. The correct spelling is unverified. "Terrell", "Taral" and "Terrell Farnsworth" are mapped to N-262. "Frank Turek" (25:46) is mapped to N-7 Frank Turek. "Zachariah Qureshi" and "Sam Qureshi" are mapped to N-411 Zachariah Qureshi; the host corrects herself to Zachariah on air. "Blake" at 30:41 is taken as Blake Neff. "The governor" in the contractor clip is presumably Spencer Cox, but he is not named, so he is not mentioned. "Ashley" in the control room (03:00, 01:03:02) is a staff member and is not minted.
 - **Possible duplicate topic**: N-10923 reuses the staging title WHCD "Emotional Asset" Email Verification (episode 106). Other staging drafts use "White House Military Office Erika Kirk Amplification Email" for what may be the same email; the integrator may want to merge them.
 - **Transcription ambiguities**: "Rode"/"road mic"/"road bike" (the Rode wireless microphone), "PTN" (PETN), "ex-user" (X user), "Hampton Summit" (Hamptons) and "Built" (Built Inc.). Snippets keep "the.30-06" without a space, as the transcript has it.
 - **Cross-episode links left out**: C-1235 (episode 7, UVU repaved within about 48 hours) conflicts on timing with the contractor's Sunday account, but it is not clearly the same proposition, so it is not linked. C-1366 (SD card removal on law-enforcement instruction) may relate to C-4611, but the source of the instruction differs, so it is left unlinked.

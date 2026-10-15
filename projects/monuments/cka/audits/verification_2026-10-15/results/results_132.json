@@ -1,0 +1,805 @@
+[
+ {
+  "claim": "C-8594",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8595",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8596",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8597",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8598",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8599",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8600",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8601",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8602",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8603",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Transcript: \"at least it appeared ostensibly like a more solidified story\"; claim drops \"ostensibly\".",
+  "fix": {
+   "claim": "The host says what appeared, ostensibly, to be a more solidified story was that Erika was there but in a meeting with the lead doctor in his office, with her mother removed from the story and Lori unconfirmed by anyone."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-8604",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8605",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8606",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8607",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8608",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8609",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8610",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "Bondi firing statement does not bear on Kirk case.",
+  "fix": {
+   "relevance": "tangential"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-8611",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "Statement says \"to be announced at a date in the near future\", not \"a later date\".",
+  "fix": {
+   "claim": "The statement says Bondi will be transitioning to a much needed and important new job in the private sector to be announced at a date in the near future.",
+   "relevance": "tangential"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-8612",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8613",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8614",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8615",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8616",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8617",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "Swalwell tip-off story is unrelated to Kirk case.",
+  "fix": {
+   "relevance": "tangential"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-8618",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "note": "Swalwell/Fang story is unrelated to Kirk case.",
+  "fix": {
+   "relevance": "tangential"
+  },
+  "material": false
+ },
+ {
+  "claim": "C-8619",
+  "episode": 88,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Comment ends at \"expected nobody to notice.\" The same players/country and bringing back the discontinued bullet comparison are the host's own elaboration.",
+  "fix": {
+   "claim": "A viewer comment the host reads says \"Let's run the JFK model one more time and expected nobody to notice\"; the host adds that the same players and country are involved and that they brought back the comparative bullet analysis they had discontinued.",
+   "label": "Commenter Says the JFK Model Was Run Again; Host Adds Bullet Comparison Point"
+  },
+  "material": true
+ },
+ {
+  "claim": "C-8620",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8621",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8622",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8623",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8624",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8625",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8626",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8627",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8628",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8629",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8630",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8631",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "\"not about who would succeed him\" relies on question outside window; unverified here.",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8632",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8633",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8634",
+  "episode": 88,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2669",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim names Trump's post; N-5 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-5",
+    "N-22",
+    "N-46",
+    "N-93"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2670",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2671",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Clips: \"that's a star\", \"your reputation is amazing\"; \"others\" and \"amazing reputations\" plural not supported. Trump N-5 missing.",
+  "fix": {
+   "claim": "CNN assembled a montage of past Trump appearances, which the host plays, in which he praised Megyn Kelly and Candace Owens (saying \"that's a star\" and \"your reputation is amazing\"), contradicting his current posture in A-1939.1.",
+   "mentions": [
+    "N-3",
+    "N-5",
+    "N-46"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2672",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Mentions N-421 (Lewinsky) not in claim; Trump named but N-5 missing.",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-36",
+    "N-46",
+    "N-206"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2673",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2674",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Clip: \"I'm the one who knifed him from the front\", sent Trump the clips; clip does not mention the post, host links it. Trump N-5 missing.",
+  "fix": {
+   "claim": "In an audio clip played on air, Laura Loomer stated that she sent Tucker Carlson clips to President Trump and that she is the one who \"knifed him from the front\"; the host presents this as Loomer taking credit for Trump's Truth Social post.",
+   "mentions": [
+    "N-5",
+    "N-22",
+    "N-60"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2675",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim says \"Kolb\" for Kolvet; she says \"I think it was announced in July or just before July of 2024\" (hedge dropped). Adelson N-300 and Trump N-5 missing.",
+  "fix": {
+   "claim": "Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolvet named as in-room corroborator) that he and Kolvet were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, before the donation was announced, which she thinks was in or just before July 2024.",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-5",
+    "N-14",
+    "N-300"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2676",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-2677",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Host recalls Trump Jr. \"kind of said\" \"I'm not but my father is\"; claim states it as his flat public statement. Father (N-5) not in Mentions.",
+  "fix": {
+   "claim": "The host says she remembers Donald Trump Jr. on stage, when asked whether he was satisfied with the conclusion in Butler, kind of saying he was not but his father was and that was that.",
+   "mentions": [
+    "N-5",
+    "N-33"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2678",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "ok",
+  "note": "Timestamp 00:00:01 is the intro; responses are read around 19:06-20:14. \"Measurable volume\" is added; Trump N-5 missing.",
+  "fix": {
+   "claim": "Per Truth Social and other social-media responses the host reads on air, previously pro-Trump supporters publicly criticized Trump following his Truth Social post.",
+   "timestamp": "00:19:20",
+   "mentions": [
+    "N-5"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2679",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Host says \"in my view, what was the most brutal\"; claim drops her framing. Trump N-5 missing.",
+  "fix": {
+   "claim": "Candace Owens said that in her view the most brutal and recurring response across social media was a tweet saying Charlie Kirk would be on Trump's list in A-1939.1 if they hadn't killed him.",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-5"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2680",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim is about Trump's post; N-5 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-5"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-2681",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Trump's post named; N-5 missing.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-5",
+    "N-82"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-8635",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8636",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8637",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8638",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8639",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Post: \"Perhaps he should see a good psychiatrist\"; claim drops \"perhaps\".",
+  "fix": {
+   "claim": "The post, as read by the host, says Tucker Carlson could not finish college, was a broken man when fired from Fox, and perhaps should see a good psychiatrist."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-8640",
+  "episode": 89,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ }
+]

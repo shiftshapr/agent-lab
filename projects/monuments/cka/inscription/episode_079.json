@@ -74,7 +74,7 @@
           "related_nodes": [
             "N-1",
             "N-3",
-            "N-593"
+            "N-592"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -102,7 +102,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-594",
+            "N-593",
             "N-5",
             "N-10539"
           ],
@@ -130,7 +130,7 @@
             "C-2481"
           ],
           "related_nodes": [
-            "N-222",
+            "N-221",
             "N-1",
             "N-97",
             "N-10543"
@@ -159,7 +159,7 @@
             "C-2482"
           ],
           "related_nodes": [
-            "N-593",
+            "N-592",
             "N-3"
           ],
           "tags": [],
@@ -186,7 +186,7 @@
             "C-2483"
           ],
           "related_nodes": [
-            "N-161",
+            "N-160",
             "N-1",
             "N-97",
             "N-10543"
@@ -210,7 +210,7 @@
           "@type": "Artifact",
           "@id": "A-1851.1",
           "ref": "A-1851.1",
-          "description": "Audio clip in which Ben Shapiro presses Michael Knowles to publicly state Candace Owens is doing something \"evil\" by attacking \"Erika Curren,\" with Knowles refusing.",
+          "description": "Audio clip in which Ben Shapiro presses Michael Knowles to publicly state Candace Owens is doing something \"evil\" by attacking \"Erika Kirk,\" with Knowles refusing.",
           "related_claims": [
             "C-2484"
           ],
@@ -243,7 +243,7 @@
             "C-2485"
           ],
           "related_nodes": [
-            "N-595",
+            "N-594",
             "N-5",
             "N-10541"
           ],
@@ -435,7 +435,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-596",
+            "N-595",
             "N-10541"
           ],
           "tags": [],
@@ -490,7 +490,7 @@
             "C-2488"
           ],
           "related_nodes": [
-            "N-379",
+            "N-378",
             "N-10541"
           ],
           "tags": [],
@@ -518,7 +518,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-597",
+            "N-596",
             "N-10543"
           ],
           "tags": [],
@@ -545,7 +545,7 @@
             "C-2489"
           ],
           "related_nodes": [
-            "N-224",
+            "N-223",
             "N-22",
             "N-10540"
           ],
@@ -656,7 +656,7 @@
           "related_nodes": [
             "N-97",
             "N-46",
-            "N-206"
+            "N-205"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -917,8 +917,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-593",
-      "ref": "N-593",
+      "@id": "N-592",
+      "ref": "N-592",
       "name": "Meghan McCain",
       "type": "person",
       "description": "Author of X post A-1849.1 and subject of Charlie Kirk text A-1846.3.",
@@ -942,8 +942,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Co-party to text exchange A-1847.1 with Charlie Kirk regarding Iran war.",
@@ -966,8 +966,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-222",
-      "ref": "N-222",
+      "@id": "N-221",
+      "ref": "N-221",
       "name": "Milo Yiannopoulos",
       "type": "person",
       "description": "Author of text messages disclosed in A-1848.1 regarding Ben Shapiro and TPUSA.",
@@ -989,8 +989,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Author of X post A-1850.1 admitting Charlie/Ben rivalry.",
@@ -1036,8 +1036,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Speaker in audio clip A-1852.1 regarding Strait of Hormuz.",
@@ -1088,8 +1088,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-596",
-      "ref": "N-596",
+      "@id": "N-595",
+      "ref": "N-595",
       "name": "Georgia Meloni",
       "type": "person",
       "description": "Speaker attributed with statement (A-1855.7) criticizing US-Israeli war as outside international law.",
@@ -1110,8 +1110,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-597",
-      "ref": "N-597",
+      "@id": "N-596",
+      "ref": "N-596",
       "name": "Jordan Peterson",
       "type": "person",
       "description": "Quoted by host in article A-1856.1.",
@@ -1132,8 +1132,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-224",
-      "ref": "N-224",
+      "@id": "N-223",
+      "ref": "N-223",
       "name": "Randy Fine",
       "type": "person",
       "description": "Author of X post A-1857.1.",
@@ -1174,7 +1174,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-594",
+        "N-593",
         "N-5"
       ]
     },
@@ -1378,8 +1378,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-379",
-      "ref": "N-379",
+      "@id": "N-378",
+      "ref": "N-378",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Speaker attributed with statement (A-1855.10) regarding French navy escort.",
@@ -1404,7 +1404,7 @@
       "ref": "N-2",
       "name": "Erika Kirk",
       "type": "person",
-      "description": "Widow and TPUSA CEO; the Shapiro reply cites her and Knowles is pressed about attacks on her (transcribed Erika Curren). Alias: Erika Curren (as transcribed).",
+      "description": "Widow and TPUSA CEO; the Shapiro reply cites her and Knowles is pressed about attacks on her (transcribed Erika Kirk). Alias: Erika Kirk (as transcribed).",
       "related_artifacts": [
         "A-3123.3"
       ],
@@ -1516,8 +1516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-180",
-      "ref": "N-180",
+      "@id": "N-179",
+      "ref": "N-179",
       "name": "Jared Kushner",
       "type": "person",
       "description": "The host says he is running the White House.",
@@ -1533,8 +1533,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-206",
-      "ref": "N-206",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Journalist Shapiro is said to have attacked.",
@@ -1552,8 +1552,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-246",
-      "ref": "N-246",
+      "@id": "N-245",
+      "ref": "N-245",
       "name": "Mark Levin",
       "type": "person",
       "description": "Radio host the host links to pro-war pressure on Carlson.",
@@ -1570,8 +1570,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Podcaster the host says she ties in rankings.",
@@ -1587,8 +1587,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-392",
-      "ref": "N-392",
+      "@id": "N-391",
+      "ref": "N-391",
       "name": "Andrew Breitbart",
       "type": "person",
       "description": "Late publisher whose legacy the host says Shapiro tried to recreate.",
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-522",
-      "ref": "N-522",
+      "@id": "N-521",
+      "ref": "N-521",
       "name": "Rothschild Family",
       "type": "person",
       "description": "Family the host asserts created Israel and Macron.",
@@ -2088,7 +2088,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-593"
+        "N-592"
       ]
     },
     {
@@ -2109,15 +2109,15 @@
       "mentions_person_refs": [
         "N-1",
         "N-5",
-        "N-594"
+        "N-593"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2480",
       "ref": "C-2480",
-      "label": "Charlie Kirk characterized neocons as \"maniacs\" needing to be \"shut down\"",
-      "claim": "In the June 18 text exchange with Bret Weinstein, Charlie Kirk wrote \"We have to shut these maniacs down\" regarding neocons advocating war with Iran.",
+      "label": "Bret Weinstein Wrote Neocons Must Be Shut Down and Charlie Kirk Agreed",
+      "claim": "In the June 18 text exchange the host reads, Bret Weinstein wrote \"We have to shut these maniacs down\" regarding neocons advocating war with Iran, and Charlie Kirk replied \"thank you. I totally agree.\"",
       "anchored_artifacts": [
         "A-1847.1"
       ],
@@ -2129,7 +2129,7 @@
       "investigative_direction": "Verify original message; cross-reference with contemporaneous public statements.",
       "mentions_person_refs": [
         "N-1",
-        "N-594"
+        "N-593"
       ]
     },
     {
@@ -2147,7 +2147,7 @@
       "investigative_direction": "Forensic verification of messages; corroborate with independent reporting or testimony regarding TPUSA donor pressure circa 2014–2015.",
       "mentions_person_refs": [
         "N-97",
-        "N-222",
+        "N-221",
         "N-1"
       ]
     },
@@ -2165,8 +2165,7 @@
       "claim_timestamp": "00:20:00–00:20:51",
       "investigative_direction": "Direct retrieval of the original X post via archive.",
       "mentions_person_refs": [
-        "N-3",
-        "N-593"
+        "N-592"
       ]
     },
     {
@@ -2174,7 +2173,7 @@
       "@id": "C-2483",
       "ref": "C-2483",
       "label": "Blake Neff acknowledged Charlie Kirk and Ben Shapiro were rivals",
-      "claim": "Blake Neff posted on X acknowledging Charlie Kirk and Ben Shapiro \"differed about the best direction for the conservative movement\" and that \"Charlie saw Ben as a rival.\"",
+      "claim": "Blake Neff posted on X, as the host reads, that Charlie Kirk did not hate Ben Shapiro, that the two \"differed about the best direction for the conservative movement\" and that \"Charlie saw Ben as a rival.\"",
       "anchored_artifacts": [
         "A-1850.1"
       ],
@@ -2184,7 +2183,7 @@
       "investigative_direction": "Direct retrieval of the original X post via archive.",
       "mentions_person_refs": [
         "N-97",
-        "N-161",
+        "N-160",
         "N-1"
       ]
     },
@@ -2193,7 +2192,7 @@
       "@id": "C-2484",
       "ref": "C-2484",
       "label": "Ben Shapiro publicly pressed Michael Knowles to denounce Candace Owens on stage",
-      "claim": "An on-stage exchange shows Ben Shapiro pressing Michael Knowles to state \"the sentence with her name in it\" regarding Candace Owens allegedly attacking \"Erika Curren,\" with Knowles refusing.",
+      "claim": "An on-stage exchange shows Ben Shapiro pressing Michael Knowles to state \"the sentence with her name in it\" regarding Candace Owens allegedly attacking \"Erika Kirk,\" with Knowles refusing.",
       "anchored_artifacts": [
         "A-1851.1"
       ],
@@ -2204,7 +2203,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-101"
+        "N-101",
+        "N-2"
       ]
     },
     {
@@ -2223,8 +2223,7 @@
       "claim_timestamp": "00:24:34–00:25:35",
       "investigative_direction": "Obtain the full press exchange transcript and date.",
       "mentions_person_refs": [
-        "N-5",
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -2232,7 +2231,7 @@
       "@id": "C-2486",
       "ref": "C-2486",
       "label": "Donald Trump stated the US went to war with Iran \"out of habit\"",
-      "claim": "Donald Trump stated in a public address: \"We don't need oil... we did it out of habit... We have some great Middle Eastern countries there, Israel there. So, we did it for a lot of reasons.\"",
+      "claim": "In a clip the host plays, Donald Trump says: \"We don't need oil... It's almost you could say we did it out of habit, which is not a good thing to do. But we did it because we have some good allies there. We have some great Middle Eastern countries there, Israel there. So, we did it for a lot of reasons.\"",
       "anchored_artifacts": [
         "A-1853.1"
       ],
@@ -2243,8 +2242,7 @@
       "claim_timestamp": "00:31:42–00:34:14",
       "investigative_direction": "Obtain full transcript and verify date.",
       "mentions_person_refs": [
-        "N-5",
-        "N-36"
+        "N-5"
       ]
     },
     {
@@ -2271,7 +2269,7 @@
       "@id": "C-2488",
       "ref": "C-2488",
       "label": "Germany, EU, Britain, Australia, Japan, China, Italy, Spain, South Korea, and France declined or conditioned participation in Strait of Hormuz escort operations",
-      "claim": "Multiple allied-nation statements, as read by the host, decline or condition participation in US-led Strait of Hormuz escort operations. Italy's Meloni described the war as outside international law; France conditioned participation on stabilization.",
+      "claim": "The host reads statements attributed to governments including Germany, the EU, Britain, Australia, Japan, China, Spain and South Korea that decline or hedge on participating in Strait of Hormuz escort operations. She says Italy's Meloni described the war as part of a trend of interventions outside the scope of international law, and that France's Emmanuel Macron said he would be willing to use the French navy to escort ships only if the conflict stabilized.",
       "anchored_artifacts": [
         "A-1855.1",
         "A-1855.2",
@@ -2291,9 +2289,8 @@
       "claim_timestamp": "00:26:19–00:28:13",
       "investigative_direction": "Obtain original government press releases or transcripts for each quoted statement and verify dates.",
       "mentions_person_refs": [
-        "N-5",
-        "N-379",
-        "N-596"
+        "N-378",
+        "N-595"
       ]
     },
     {
@@ -2313,7 +2310,7 @@
       "investigative_direction": "Retrieve original X post via archive.",
       "mentions_person_refs": [
         "N-22",
-        "N-224"
+        "N-223"
       ]
     },
     {
@@ -2332,7 +2329,6 @@
       "claim_timestamp": "00:45:22–00:46:20",
       "investigative_direction": "Verify whether the list has ever been published publicly; check DOJ acknowledgment.",
       "mentions_person_refs": [
-        "N-22",
         "N-60"
       ]
     },
@@ -2340,7 +2336,7 @@
       "@type": "Claim",
       "@id": "C-2491",
       "ref": "C-2491",
-      "label": "Alex Stein publicly stated Tucker Carlson is more likely to be arrested than anyone on the Epstein list",
+      "label": "Alex Stein Tweeted About Tucker Carlson Being Arrested Before Anyone on the Epstein List",
       "claim": "Alex Stein posted on X: \"America is totally compromised by foreign actors. If Tucker Carlson gets arrested before anybody on the Epstein list.\"",
       "anchored_artifacts": [
         "A-1859.1"
@@ -2369,10 +2365,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:34:14–00:35:03",
-      "investigative_direction": "Obtain the original news article; verify date and source publication.",
-      "mentions_person_refs": [
-        "N-5"
-      ]
+      "investigative_direction": "Obtain the original news article; verify date and source publication."
     },
     {
       "@type": "Claim",
@@ -2389,7 +2382,7 @@
       "investigative_direction": "Retrieve the original published article (Substack or platform); verify publication date.",
       "mentions_person_refs": [
         "N-3",
-        "N-597"
+        "N-596"
       ]
     },
     {
@@ -2404,7 +2397,7 @@
         "N-11295"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Capture the White House or official social accounts' Iran-war meme posts with dates to confirm the Mortal Kombat style content.",
@@ -2431,7 +2424,7 @@
       "transcript_snippet": "Trump has apparently allowed Mark Levin's special class of psychos to go after Tucker Carlson. They want to They want to imprison him. They are explicit in that demand.",
       "mentions_person_refs": [
         "N-3",
-        "N-246",
+        "N-245",
         "N-22",
         "N-5"
       ]
@@ -2449,7 +2442,7 @@
         "N-10406"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:05:02",
       "investigative_direction": "Retrieve Shapiro's original X posts about Kelly and Morgan from the weekend before 2026-03-16 and compare the wording.",
@@ -2457,7 +2450,7 @@
       "mentions_person_refs": [
         "N-97",
         "N-46",
-        "N-206",
+        "N-205",
         "N-3"
       ]
     },
@@ -2474,7 +2467,7 @@
         "N-10406"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:05:02",
       "investigative_direction": "Retrieve Kelly's original reply post and check whether the host's reading is complete and in order.",
@@ -2535,7 +2528,6 @@
       "mentions_person_refs": [
         "N-97",
         "N-1",
-        "N-46",
         "N-3"
       ]
     },
@@ -2561,7 +2553,7 @@
         "C-2481"
       ],
       "mentions_person_refs": [
-        "N-222",
+        "N-221",
         "N-1",
         "N-97",
         "N-3"
@@ -2586,7 +2578,6 @@
       "transcript_snippet": "I'm going to attack his friends over the topic of Israel, a topic which Charlie had actually changed his mind on.",
       "mentions_person_refs": [
         "N-1",
-        "N-97",
         "N-3"
       ]
     },
@@ -2735,8 +2726,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-36",
-        "N-5",
-        "N-594"
+        "N-5"
       ]
     },
     {
@@ -2759,7 +2749,7 @@
       "investigative_direction": "Obtain Weinstein's original post and date; ask him what basis exists beyond the timing of Kirk's opposition.",
       "transcript_snippet": "it is reasonable to wonder if his refusal to back down from his steadfast opposition somehow resulted in his murder.",
       "mentions_person_refs": [
-        "N-594",
+        "N-593",
         "N-1",
         "N-5"
       ]
@@ -2783,7 +2773,7 @@
       "investigative_direction": "Obtain Weinstein's full post and identify which investigative product he judges inadequate.",
       "transcript_snippet": "A good investigation could have settled the matter. What we got only increases the reason for concern.",
       "mentions_person_refs": [
-        "N-594",
+        "N-593",
         "N-1"
       ]
     },
@@ -2806,7 +2796,7 @@
       "investigative_direction": "Find Kirk's recorded or texted worries about his own safety and about the Iran decision to test Weinstein's final phrase.",
       "transcript_snippet": "the timing of his death removed him from the equation and likely changed the course of history.",
       "mentions_person_refs": [
-        "N-594",
+        "N-593",
         "N-1"
       ]
     },
@@ -2830,7 +2820,7 @@
       "transcript_snippet": "driving real-time mass public opinion yet. The neocons are.",
       "mentions_person_refs": [
         "N-1",
-        "N-594"
+        "N-593"
       ]
     },
     {
@@ -2852,7 +2842,7 @@
       "investigative_direction": "Retrieve Neff's original post and verify Shapiro's 2024 primary endorsement and Kirk's endorsement date.",
       "transcript_snippet": "Ben supported Ron DeSantis in the 2024 primary while Charlie was all in for Trump from the start.",
       "mentions_person_refs": [
-        "N-161",
+        "N-160",
         "N-97",
         "N-1",
         "N-4"
@@ -2878,7 +2868,7 @@
       "transcript_snippet": "Blake was not even around for the building of Turning Point.",
       "mentions_person_refs": [
         "N-3",
-        "N-161",
+        "N-160",
         "N-1",
         "N-97"
       ]
@@ -2902,7 +2892,7 @@
       "transcript_snippet": "Ben Shapiro was trying to take Andrew Breitbart's legacy and recreate it by manufacturing a scandal with The Daily Wire.",
       "mentions_person_refs": [
         "N-97",
-        "N-392",
+        "N-391",
         "N-1",
         "N-3"
       ]
@@ -2971,7 +2961,7 @@
         "N-10236"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:17:31",
       "investigative_direction": "Obtain the video of the Kelly tour stop where Shapiro appeared and its date.",
@@ -2996,7 +2986,7 @@
         "N-10900"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:17:31",
       "investigative_direction": "Locate the video of the table moment and the date of the host's genocide tweet.",
@@ -3025,8 +3015,7 @@
       "transcript_snippet": "Michael Knowles is the godfather to my daughter, okay?",
       "mentions_person_refs": [
         "N-101",
-        "N-3",
-        "N-97"
+        "N-3"
       ]
     },
     {
@@ -3034,7 +3023,7 @@
       "@id": "C-11261",
       "ref": "C-11261",
       "label": "Knowles Says in Clip It Is Wrong to Attack Erika but Will Not Say the Sentence",
-      "claim": "In the clip the host plays, Michael Knowles says it is wrong to attack Erika (transcribed Erika Curren) but declines Shapiro's request to say the sentence with her name in it, saying he will not dance like a puppet.",
+      "claim": "In the clip the host plays, Michael Knowles says it is wrong to attack Erika (transcribed Erika Kirk) but declines Shapiro's request to say the sentence with her name in it, saying he will not dance like a puppet.",
       "anchored_artifacts": [
         "A-1851.1"
       ],
@@ -3044,7 +3033,7 @@
       ],
       "claim_timestamp": "00:18:54",
       "investigative_direction": "Obtain the full video of the public discussion with its date and venue.",
-      "transcript_snippet": "I I think that it's wrong to attack Erika Curren.",
+      "transcript_snippet": "I I think that it's wrong to attack Erika Kirk.",
       "supports_claim_refs": [
         "C-2484"
       ],
@@ -3078,7 +3067,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-593",
+        "N-592",
         "N-1"
       ]
     },
@@ -3142,8 +3131,7 @@
       "transcript_snippet": "Nothing was happening other than BB wanted the fight with Iran",
       "mentions_person_refs": [
         "N-3",
-        "N-36",
-        "N-5"
+        "N-36"
       ]
     },
     {
@@ -3157,7 +3145,7 @@
         "N-11145"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:23:52",
       "investigative_direction": "Compare casualty counts and US statements on the Minab school strike with the host's figure.",
@@ -3227,8 +3215,8 @@
       "investigative_direction": "No primary record offered; ask the host for any document linking the Rothschild family to Macron's career or to Israel's founding.",
       "transcript_snippet": "the Rothschilds are Israel, they created Israel, and they created Emmanuel Macron.",
       "mentions_person_refs": [
-        "N-379",
-        "N-522",
+        "N-378",
+        "N-521",
         "N-3"
       ]
     },
@@ -3340,8 +3328,7 @@
       "investigative_direction": "Identify the specific polls and their methodology and compare with independent polling.",
       "transcript_snippet": "Right before we went to Iran, they started faking polls in such an egregious manner.",
       "mentions_person_refs": [
-        "N-3",
-        "N-101"
+        "N-3"
       ]
     },
     {
@@ -3383,8 +3370,7 @@
       "investigative_direction": "Ask the host for the studies or documents behind the 'millions of bots' figure.",
       "transcript_snippet": "They have purchased views, influencers and journalists. They have activated millions of online bots.",
       "mentions_person_refs": [
-        "N-3",
-        "N-597"
+        "N-3"
       ]
     },
     {
@@ -3401,7 +3387,7 @@
         "N-11096"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:36:50",
       "investigative_direction": "Compare with the record of the TikTok divestiture and its new ownership.",
@@ -3468,14 +3454,14 @@
         "N-11228"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:39:13",
       "investigative_direction": "Check the chart provider and date of the ranking the host cites.",
       "transcript_snippet": "me and Joe Rogan are in a three-way tie with one other podcast uh for the top podcasts.",
       "mentions_person_refs": [
         "N-3",
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -3489,14 +3475,14 @@
         "N-11228"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:39:13",
       "investigative_direction": "Compare podcast-ranking data with disclosed ad spending, if any.",
       "transcript_snippet": "They're buying those things through ads. It's fake. The numbers are not real.",
       "mentions_person_refs": [
         "N-3",
-        "N-246",
+        "N-245",
         "N-97"
       ]
     },
@@ -3540,7 +3526,7 @@
         "N-10082"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:41:23",
       "investigative_direction": "Ask Carlson or the CIA how the texts were obtained and under what authority.",
@@ -3565,7 +3551,7 @@
         "N-10540"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:42:06",
       "investigative_direction": "Examine Carlson's financial disclosures and any FARA filings or inquiries.",
@@ -3588,7 +3574,7 @@
         "N-10082"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:42:47",
       "investigative_direction": "Review prior leaks of investigations of Carlson and any inspector general review.",
@@ -3688,7 +3674,7 @@
       "@id": "C-11290",
       "ref": "C-11290",
       "label": "Commenter Says Kirk Was For No Iran War, Epstein Files and a TPUSA Audit",
-      "claim": "The host reads a viewer comment saying three things Charlie Kirk was for were no war with Iran, release of the Epstein files and an audit of TPUSA, and asks who benefits from his death.",
+      "claim": "The host reads a viewer comment saying three things Charlie Kirk was for were no war with Iran, release of the Epstein files and an audit of TPUSA, and asking who benefits from his death, which she calls a great open-ended question.",
       "anchored_artifacts": [
         "A-3126.1"
       ],
@@ -3791,7 +3777,7 @@
       "investigative_direction": "Document Kushner's official or informal role in the administration in March 2026.",
       "transcript_snippet": "This is what happens when Jared Kushner um is running the White House uh with his father who is in Paris.",
       "mentions_person_refs": [
-        "N-180",
+        "N-179",
         "N-3"
       ]
     }

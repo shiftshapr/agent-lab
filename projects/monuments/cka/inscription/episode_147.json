@@ -446,7 +446,7 @@
             "C-14809"
           ],
           "related_nodes": [
-            "N-494",
+            "N-493",
             "N-3"
           ],
           "tags": [],
@@ -727,8 +727,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-368",
+      "ref": "N-368",
       "name": "Danny Philip",
       "type": "person",
       "description": "Footage discussed by the host shows Danny Phillip running, meeting and ducking down with Mikey McCoy in front of Kirk's vehicle.",
@@ -817,8 +817,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -844,8 +844,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-165",
-      "ref": "N-165",
+      "@id": "N-164",
+      "ref": "N-164",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Daily Wire personality referenced (hearsay) by the host as the subject of an outreach to host Charlie Kirk's show after his death, conditioned on inviting Ben Shapiro.",
@@ -863,8 +863,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -889,8 +889,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-210",
-      "ref": "N-210",
+      "@id": "N-209",
+      "ref": "N-209",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Referenced as Facetime counterpart in Turek hospital narrative the host contrasts with missing fire-captain CPR.",
@@ -907,8 +907,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-225",
+      "ref": "N-225",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -923,8 +923,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -985,8 +985,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-335",
-      "ref": "N-335",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Viva Frei",
       "type": "person",
       "description": "Viva Frei (wave3 orphan mint).",
@@ -1002,8 +1002,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-494",
-      "ref": "N-494",
+      "@id": "N-493",
+      "ref": "N-493",
       "name": "Justin Davis",
       "type": "person",
       "description": "Named by the host at 00:12:13 in episode 147; first introduced in episode 124.",
@@ -1023,8 +1023,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-427",
-      "ref": "N-427",
+      "@id": "N-426",
+      "ref": "N-426",
       "name": "Richard Novak",
       "type": "person",
       "description": "First named by the host at 00:10:02 in episode 94. Aliases: Richard Novac.",
@@ -1044,8 +1044,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-506",
-      "ref": "N-506",
+      "@id": "N-505",
+      "ref": "N-505",
       "name": "Nate Walker",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
@@ -1097,8 +1097,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-137",
-      "ref": "N-137",
+      "@id": "N-136",
+      "ref": "N-136",
       "name": "Judge Tony F. Graf Jr.",
       "type": "person",
       "description": "Judge who issued the bindover ruling.",
@@ -1114,8 +1114,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-204",
-      "ref": "N-204",
+      "@id": "N-203",
+      "ref": "N-203",
       "name": "Lindsay Clancy",
       "type": "person",
       "description": "Lindsay Clancy; the host explains why she does not cover the case.",
@@ -1131,8 +1131,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; placed by the host in the Navigator.",
@@ -1148,8 +1148,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Baron Coleman; he received the TikTok clip and showed it to the host.",
@@ -1165,8 +1165,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-487",
-      "ref": "N-487",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Justin Baldoni; cited with the Lively case as a past series.",
@@ -1698,8 +1698,8 @@
       "claim_timestamp": "00:20:06",
       "investigative_direction": "Cross-reference vehicle key logs, security team statements, and any post-event interviews with Davis and Neff to confirm.",
       "mentions_person_refs": [
-        "N-161",
-        "N-494"
+        "N-160",
+        "N-493"
       ]
     },
     {
@@ -1718,9 +1718,9 @@
       "claim_timestamp": "00:21:00",
       "investigative_direction": "Obtain original footage for frame-by-frame analysis; obtain statements from McCoy and Phillip regarding this movement.",
       "mentions_person_refs": [
-        "N-369",
-        "N-192",
-        "N-494"
+        "N-368",
+        "N-191",
+        "N-493"
       ]
     },
     {
@@ -1739,7 +1739,7 @@
       "claim_timestamp": "00:21:22",
       "investigative_direction": "Compare frame-by-frame footage against cell-phone metadata / call detail records; obtain McCoy's own account.",
       "mentions_person_refs": [
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -1758,7 +1758,7 @@
       "claim_timestamp": "00:22:38",
       "investigative_direction": "Identify the bag's owner; obtain receipt / loss-property reports if any.",
       "mentions_person_refs": [
-        "N-494"
+        "N-493"
       ]
     },
     {
@@ -1775,7 +1775,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-494"
+        "N-493"
       ]
     },
     {
@@ -1794,7 +1794,7 @@
       "claim_timestamp": "00:17:03",
       "investigative_direction": "Obtain original TikTok source footage with timestamp; obtain statements from Christopher and Walker regarding their location and purpose.",
       "mentions_person_refs": [
-        "N-506"
+        "N-505"
       ]
     },
     {
@@ -1852,7 +1852,7 @@
       "investigative_direction": "Obtain toll/transponder logs, security radio logs, or vehicle GPS records to verify arrival times.",
       "mentions_person_refs": [
         "N-1",
-        "N-494"
+        "N-493"
       ]
     },
     {
@@ -1890,7 +1890,7 @@
       "claim_timestamp": "00:39:42",
       "investigative_direction": "Confirm the post remains on X; verify timestamp; cross-reference Walsh's full thread for context.",
       "mentions_person_refs": [
-        "N-165"
+        "N-164"
       ]
     },
     {
@@ -1924,7 +1924,7 @@
       "claim_timestamp": "00:40:25",
       "investigative_direction": "Locate the specific post; verify timestamp.",
       "mentions_person_refs": [
-        "N-335"
+        "N-334"
       ]
     },
     {
@@ -1962,8 +1962,8 @@
       "claim_timestamp": "00:40:50",
       "investigative_direction": "Confirm both posts remain on X; compare timestamps.",
       "mentions_person_refs": [
-        "N-161",
-        "N-427"
+        "N-160",
+        "N-426"
       ]
     },
     {
@@ -1985,7 +1985,7 @@
       "investigative_direction": "Read Novac's full argument transcript; compare against Aug 11 filing page 32 and the state's responsive briefing.",
       "mentions_person_refs": [
         "N-40",
-        "N-427"
+        "N-426"
       ]
     },
     {
@@ -2084,8 +2084,8 @@
       "claim_timestamp": "00:28:14",
       "investigative_direction": "Obtain the full transcript of Neff's testimony; cross-reference against contemporaneous radio traffic and other security personnel.",
       "mentions_person_refs": [
-        "N-192",
-        "N-161"
+        "N-191",
+        "N-160"
       ]
     },
     {
@@ -2108,9 +2108,9 @@
         "C-3092"
       ],
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-2",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2129,9 +2129,9 @@
       "claim_timestamp": "00:54:25",
       "investigative_direction": "Obtain McCoy's complete media appearances; obtain Hibbs's and Turek's on-record statements with timestamps; obtain Erika Kirk's call-detail records (the call McCoy made to her per Neff testimony).",
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-7",
-        "N-210"
+        "N-209"
       ]
     },
     {
@@ -2147,8 +2147,8 @@
       "investigative_direction": "Locate the Shawn Ryan interview clip; obtain Harpole's full statement; cross-reference against Kirk's prior-night communications.",
       "mentions_person_refs": [
         "N-1",
-        "N-268",
-        "N-226"
+        "N-267",
+        "N-225"
       ]
     },
     {
@@ -2197,8 +2197,8 @@
       "claim_timestamp": "00:29:56",
       "investigative_direction": "Obtain McCoy's own account; obtain contemporaneous video of McCoy in the immediate aftermath.",
       "mentions_person_refs": [
-        "N-192",
-        "N-161"
+        "N-191",
+        "N-160"
       ]
     },
     {
@@ -2216,8 +2216,8 @@
       "investigative_direction": "Obtain McCoy's own account; cross-reference against any witness statements of the immediate post-shot huddle.",
       "mentions_person_refs": [
         "N-2",
-        "N-192",
-        "N-161"
+        "N-191",
+        "N-160"
       ]
     },
     {
@@ -2236,7 +2236,7 @@
       "claim_timestamp": "00:28:58",
       "investigative_direction": "Cross-reference against his prior and subsequent statements; verify which SUV he is referring to.",
       "mentions_person_refs": [
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2310,7 +2310,7 @@
       "transcript_snippet": "I did actually have to slap down my former colleague Matt Walsh when he perpetuated one of the more disingenuous narratives out there.",
       "mentions_person_refs": [
         "N-3",
-        "N-165"
+        "N-164"
       ]
     },
     {
@@ -2383,7 +2383,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-137"
+        "N-136"
       ]
     },
     {
@@ -2560,9 +2560,9 @@
       "investigative_direction": "Cross-check the vehicle assignments against Harpole's and Flood's own accounts and against hospital arrival video.",
       "transcript_snippet": "The driver of that Lincoln Navigator is Justin Davis, okay? Justin, this is extremely important. Dan Flood's in that vehicle, Brian Harpole is in that vehicle",
       "mentions_person_refs": [
-        "N-494",
-        "N-272",
-        "N-268"
+        "N-493",
+        "N-271",
+        "N-267"
       ]
     },
     {
@@ -2585,7 +2585,7 @@
       "investigative_direction": "Compare against testimony and hospital footage about who drove Kirk and in which vehicle.",
       "transcript_snippet": "he's going to eventually be the driver that takes Charlie to the hospital.",
       "mentions_person_refs": [
-        "N-494",
+        "N-493",
         "N-1"
       ]
     },
@@ -2633,7 +2633,7 @@
       "transcript_snippet": "we know that he shows up with Mikey McCoy in that vehicle. And we also know that the person driving it, we only have a first name for this guy, but his name is Christopher",
       "mentions_person_refs": [
         "N-1",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -2656,8 +2656,8 @@
       "investigative_direction": "Confirm seating from arrival video and from Neff's and Phillip's testimony.",
       "transcript_snippet": "when they pull up, you have Danny Phillip driving, and you have Blake Neff in the back seat.",
       "mentions_person_refs": [
-        "N-369",
-        "N-161"
+        "N-368",
+        "N-160"
       ]
     },
     {
@@ -2679,8 +2679,8 @@
       "investigative_direction": "Compare Neff's testimony and public statements about his arrival with his itinerary records.",
       "transcript_snippet": "Blake is very weird about discussing their arrival, who he was with. And also, when they were in Salt Lake City with Charlie, he doesn't remember what they did",
       "mentions_person_refs": [
-        "N-161",
-        "N-369",
+        "N-160",
+        "N-368",
         "N-1"
       ]
     },
@@ -2726,7 +2726,7 @@
       "transcript_snippet": "they get Charlie in that car within 45 seconds, right?",
       "mentions_person_refs": [
         "N-1",
-        "N-494"
+        "N-493"
       ]
     },
     {
@@ -2791,8 +2791,8 @@
       "investigative_direction": "Obtain the original TikTok post and uploader and verify date and location metadata.",
       "transcript_snippet": "somebody on Tik Tok, I think, sent it to Baron Coleman, and then Baron showed it to me",
       "mentions_person_refs": [
-        "N-332",
-        "N-506",
+        "N-331",
+        "N-505",
         "N-3"
       ]
     },
@@ -2837,7 +2837,7 @@
       "investigative_direction": "Ask Davis and Christopher where the keys were and who handed them over.",
       "transcript_snippet": "That keys were apparently either waiting in the car or somehow given to Justin Davis before this, I don't know.",
       "mentions_person_refs": [
-        "N-494"
+        "N-493"
       ]
     },
     {
@@ -2859,7 +2859,7 @@
       "investigative_direction": "Frame-by-frame review of the footage for any exchange of keys or request for them.",
       "transcript_snippet": "No nobody's going, \"Hey, where's Chris? We need the keys.\" It's just open and ready for them.",
       "mentions_person_refs": [
-        "N-494"
+        "N-493"
       ]
     },
     {
@@ -2881,9 +2881,9 @@
       "investigative_direction": "Compare each of Neff's retellings with the footage and note when Phillip is and is not mentioned.",
       "transcript_snippet": "he just mysteriously keeps leaving Danny Philip out of everything.",
       "mentions_person_refs": [
-        "N-161",
-        "N-369",
-        "N-192"
+        "N-160",
+        "N-368",
+        "N-191"
       ]
     },
     {
@@ -2930,7 +2930,7 @@
         "C-1547"
       ],
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-2"
       ]
     },
@@ -2952,10 +2952,10 @@
       "investigative_direction": "Pull hospital arrival footage and testimony to confirm who arrived and in what vehicle.",
       "transcript_snippet": "We know that it's going to be Nate Walker and Blake and Danny Phillip and Mikey McCoy that arrived to the hospital.",
       "mentions_person_refs": [
-        "N-506",
-        "N-161",
-        "N-369",
-        "N-192"
+        "N-505",
+        "N-160",
+        "N-368",
+        "N-191"
       ]
     },
     {
@@ -2977,9 +2977,9 @@
       "investigative_direction": "Obtain the full transcript of the Neff testimony and the hearing in which it was given.",
       "transcript_snippet": "Charlie had a security team. They all left immediately into action and they got Charlie out of there, which is what their job was to do.",
       "mentions_person_refs": [
-        "N-161",
+        "N-160",
         "N-1",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -3001,8 +3001,8 @@
       "investigative_direction": "Compare against footage of Neff and McCoy in the first seconds after the shot.",
       "transcript_snippet": "So, I was not with Mikey imme- or I don't remember being with him. I think I was ahead of him as we left.",
       "mentions_person_refs": [
-        "N-161",
-        "N-192"
+        "N-160",
+        "N-191"
       ]
     },
     {
@@ -3024,8 +3024,8 @@
       "investigative_direction": "Check Neff's call log for the time and duration of the call.",
       "transcript_snippet": "I pull out my phone and I call my mom just to say Mom, there's been a a shooting you're going to see it on the news.",
       "mentions_person_refs": [
-        "N-161",
-        "N-192"
+        "N-160",
+        "N-191"
       ]
     },
     {
@@ -3047,8 +3047,8 @@
       "investigative_direction": "Check pastors' accounts for the time they first heard from McCoy's father and compare it with the call log.",
       "transcript_snippet": "Dad, someone's shot Charlie. You need to call all of your pastor friends.",
       "mentions_person_refs": [
-        "N-161",
-        "N-192",
+        "N-160",
+        "N-191",
         "N-17"
       ]
     },
@@ -3069,8 +3069,8 @@
       "investigative_direction": "Obtain rental records for the Denalis and identify who rented them.",
       "transcript_snippet": "you have this big SUV that you rented",
       "mentions_person_refs": [
-        "N-161",
-        "N-369"
+        "N-160",
+        "N-368"
       ]
     },
     {
@@ -3113,8 +3113,8 @@
       "investigative_direction": "Trace the clip's first posting account and its spread.",
       "transcript_snippet": "he shares this video, which was clearly sent out for a bunch of people to share and to try to delude the public into believing that that is what was happening",
       "mentions_person_refs": [
-        "N-165",
-        "N-427"
+        "N-164",
+        "N-426"
       ]
     },
     {
@@ -3157,7 +3157,7 @@
       "investigative_direction": "Obtain the full hearing transcript to verify the wording and context.",
       "transcript_snippet": "It is true that Mr. Kirk spoke hatefully of certain groups of people.",
       "mentions_person_refs": [
-        "N-427",
+        "N-426",
         "N-1"
       ]
     },
@@ -3180,7 +3180,7 @@
       "investigative_direction": "Check the hearing record for what Twiggs's evidence consisted of and whether it was hearsay.",
       "transcript_snippet": "it is true that the evidence from Mr. Twiggs is that um he identified in a non-gender-conforming way to his friends, and that he was in a romantic relationship with Mr. Robinson.",
       "mentions_person_refs": [
-        "N-427",
+        "N-426",
         "N-54",
         "N-40"
       ]
@@ -3204,7 +3204,7 @@
       "investigative_direction": "Read the defense filing on political expression and the statutory wording cited.",
       "transcript_snippet": "And it's a significant gap because what it allows the state to do is to make it up.",
       "mentions_person_refs": [
-        "N-427",
+        "N-426",
         "N-1",
         "N-40"
       ]
@@ -3319,7 +3319,7 @@
         "C-3386"
       ],
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-1"
       ]
     },
@@ -3340,7 +3340,7 @@
       "investigative_direction": "Count Community Notes attached to Neff's posts compared with other staff.",
       "transcript_snippet": "when he is easily the most community noted employee of the Charlie Kirk Show.",
       "mentions_person_refs": [
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -3430,7 +3430,7 @@
       "transcript_snippet": "the people that Charlie is arguing with the day before and the cause that he is leaving also happen to be the first people that knew that he was dead.",
       "mentions_person_refs": [
         "N-1",
-        "N-210"
+        "N-209"
       ]
     },
     {
@@ -3471,7 +3471,7 @@
       "investigative_direction": "Locate the host's earlier statement on Clancy.",
       "transcript_snippet": "I told you very early on I had issued my verdict before this ever went to trial.",
       "mentions_person_refs": [
-        "N-204",
+        "N-203",
         "N-3"
       ]
     },
@@ -3493,7 +3493,7 @@
       "transcript_snippet": "Like it was with the Blake and Justin Baldoni case, as it it was with the Kamala Chronicles, and as it is now with the Charlie Kirk case.",
       "mentions_person_refs": [
         "N-3",
-        "N-487"
+        "N-486"
       ]
     },
     {
@@ -3552,7 +3552,7 @@
       "transcript_snippet": "obviously there's some stuff I'm holding back cuz of the Brian Harpole case",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3577,7 +3577,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-268",
+        "N-267",
         "N-3"
       ]
     }

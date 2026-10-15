@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 509201122ed79de97e030313c375fbcb13502e612ab382589b777bb8300a1cb2
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-839, N-11220, N-11221, N-11222
+  - Tip-minted Nodes (supplement_2026-10d): N-838, N-11220, N-11221, N-11222
   - Hole-minted Nodes (reintro-ep022): N-10207, N-10274, N-10277, N-10299, N-10355, N-10452, N-10467, N-10549, N-10673, N-10849, N-10853
   - Tip-minted Nodes (reintro-ep022): N-11020
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9399–C-9446
-  - New Nodes Introduced: N-202, N-205, N-10203, N-10204, N-10205
-  - Reused Nodes Appearing: N-203, N-206, N-2, N-36, N-40, N-50, N-68, N-82, N-201, N-10000, N-10012, N-10027, N-10028, N-10047, N-10048, N-10056, N-10070, N-10074, N-10106, N-10134, N-10148, N-10185, N-10187, N-10190, N-10202, N-10345, N-10206, N-10209, N-10268, N-10454
+  - New Nodes Introduced: N-201, N-204, N-10203, N-10204, N-10205
+  - Reused Nodes Appearing: N-202, N-205, N-2, N-36, N-40, N-50, N-68, N-82, N-200, N-10000, N-10012, N-10027, N-10028, N-10047, N-10048, N-10056, N-10070, N-10074, N-10106, N-10134, N-10148, N-10185, N-10187, N-10190, N-10202, N-10345, N-10206, N-10209, N-10268, N-10454
   - (see registers)
 
 ## I. Meta-Data
@@ -38,7 +38,7 @@
 
 - Artifact Families Introduced: A-1290, A-1291, A-1292, A-1293, A-1294, A-1295, A-1296, A-1297, A-1298, A-1299, A-1300
 - Claim Range: C-1527–C-1543
-- New Nodes Introduced (people):  N-202, N-203, N-14, N-205, N-206
+- New Nodes Introduced (people):  N-201, N-202, N-14, N-204, N-205
 - New Nodes Introduced (investigation targets): N-10203, N-10204, N-10205, N-10206
 - Existing Nodes Reused: N-1 (Charlie Kirk, referenced throughout)
 
@@ -78,7 +78,7 @@ Video Timestamp: 00:07:26
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1529, C-1530, C-1531, N-94, N-202, N-10205*
+*Related: C-1529, C-1530, C-1531, N-94, N-201, N-10205*
 
 **A-1292** FlightRadar Egyptian Air Force SU-BTT Bundle
 
@@ -112,7 +112,7 @@ Video Timestamp: 00:31:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1537, C-1541, N-14, N-22, N-203*
+*Related: C-1537, C-1541, N-14, N-22, N-202*
 
 **A-1294** Stop Anti-Semitism X Post Bundle
 
@@ -136,7 +136,7 @@ Video Timestamp: 00:35:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1539, N-38, N-39, N-22, N-203, N-206*
+*Related: C-1539, N-38, N-39, N-22, N-202, N-205*
 
 **A-1295.2** Clip of Seth Dillon on Piers Morgan asking Dave Smith about Tucker Carlson calling Christian Zionists "heretics" while having spoken glowingly at Charlie Kirk's memorial.
 
@@ -156,7 +156,7 @@ Video Timestamp: 00:48:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1541, N-38, N-203, N-4*
+*Related: C-1541, N-38, N-202, N-4*
 
 **A-1296** TPUSA Text Chain Screenshot Bundle
 
@@ -283,7 +283,7 @@ Video Timestamp: 00:45:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-9446, N-201*
+*Related: C-9446, N-200*
 
 ---
 
@@ -324,7 +324,7 @@ Investigative Pressure: Medium
 
 *Related: C-1529, C-1530, C-1531, A-1291.1, N-10205*
 
-**N-202** Shelaine Maxfield
+**N-201** Shelaine Maxfield
 
 Co-owner (with husband Derek Maxfield) of plane N888KG; co-signatory of the September 11 public statement.
 
@@ -346,7 +346,7 @@ Investigative Pressure: High
 
 *Related: C-1537, C-1538, C-1539, C-1540, C-1542, C-1543, A-1293.1, A-1294.1, A-1295.1, A-1295.2, A-1296.1, A-1300.1*
 
-**N-203** Nick Fuentes
+**N-202** Nick Fuentes
 
 Guest on Tucker Carlson's show; described by Seth Dillon as having animosity toward Jews, women, and minorities, having called J.D. Vance "fat and ugly" with a "brown family," and having glorified Hitler.
 
@@ -379,7 +379,7 @@ Investigative Pressure: Low
 
 *Related: A-1295.1, A-1295.2, N-38*
 
-**N-205** Ana Kasparian
+**N-204** Ana Kasparian
 
 Subject of Stop Anti-Semitism X post (A-1294.1) referencing her CNN platforming as parallel evidence of "Holocaust normalization."
 
@@ -390,7 +390,7 @@ Investigative Pressure: Low
 
 *Related: C-1538, A-1294.1*
 
-**N-206** Piers Morgan
+**N-205** Piers Morgan
 
 Host of interview program from which Seth Dillon/Dave Smith clips (A-1295) are sourced.
 
@@ -410,7 +410,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-1541, A-1295.3, N-203*
+*Related: C-1541, A-1295.3, N-202*
 
 **N-67** Mark Herman (director, Candace show)
 
@@ -454,7 +454,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: C-1529, C-1530, C-1531, A-1291.1, N-94, N-202*
+*Related: C-1529, C-1530, C-1531, A-1291.1, N-94, N-201*
 
 **N-10206** TPUSA Text Chain Authenticity Verification
 
@@ -525,7 +525,7 @@ TPUSA CEO; the host expects donor pressure on her over Tucker Carlson.
 
 ---
 
-**N-201** Norman Finkelstein
+**N-200** Norman Finkelstein
 
 Guest of the host's interview aired the day after this episode.
 
@@ -805,7 +805,7 @@ Existing item reused for new claims in this episode.
 
 ---
 
-**N-839** Casey Baugh
+**N-838** Casey Baugh
 
 First named by the host at 00:03:53 in episode 22 as a co-owner of the Maxfield plane and as having his name on the Baugh Entrepreneurship Institute at UVU.
 
@@ -874,7 +874,7 @@ Investigative Direction: Cross-check against FAA departure logs and Provo Airpor
 Claim Timestamp: 00:07:26
 Claim: Derek Maxfield publicly stated that the N888KG plane departed Provo on 9/10 at 1:20 p.m. Mountain time with two pilots and no passengers, flew to Page, Arizona (PGA), where Derek Maxfield plus seven additional passengers boarded for the return trip to Provo.
 Anchored Artifacts: A-1291.1
-Mentions: N-94, N-202
+Mentions: N-94, N-201
 Related Nodes: N-10205
 Investigative Direction: Verify pilot identities and PGA passenger manifest through FAA and PGA airport records; obtain airport surveillance footage of boarding.
 
@@ -935,7 +935,7 @@ Investigative Direction: Obtain the underlying Daily Mail article; identify what
 Claim Timestamp: 00:31:36
 Claim: Per the Daily Mail op-ed by Josh Hammer that the host reads, Hammer called Tucker's hosting of Nick Fuentes a "war on MAGA and the modern American right," and stated that "unless the fox is neutralized, the victim could be the entire extant GOP coalition itself."
 Anchored Artifacts: A-1293.1
-Mentions: N-55, N-22, N-203
+Mentions: N-55, N-22, N-202
 Investigative Direction: Obtain the full op-ed in original Daily Mail publication; document the "neutralize" framing in context.
 
 **C-1538** Stop Anti-Semitism tweet equating CNN/TPUSA decisions with Holocaust origins
@@ -943,7 +943,7 @@ Investigative Direction: Obtain the full op-ed in original Daily Mail publicatio
 Claim Timestamp: 00:34:20
 Claim: The Stop Anti-Semitism X account posted: "CNN platforming Ana Kasparian, Turning Point USA refusing to cut Tucker Carlson, this is how the Holocaust started. Jew hatred normalized."
 Anchored Artifacts: A-1294.1
-Mentions: N-22, N-205
+Mentions: N-22, N-204
 Investigative Direction: Obtain original X post URL; preserve deletion history and engagement metrics.
 
 **C-1539** Seth Dillon on Tucker/Fuentes "irresponsibility"
@@ -951,7 +951,7 @@ Investigative Direction: Obtain original X post URL; preserve deletion history a
 Claim Timestamp: 00:35:53
 Claim: On Piers Morgan, Seth Dillon stated that Tucker Carlson hosting Nick Fuentes was "extremely irresponsible," and that it would have been "a responsible thing and a good thing for the conservative movement" for Tucker to be "standing in the way of Nick Fuentes becoming more mainstream."
 Anchored Artifacts: A-1295.1
-Mentions: N-22, N-38, N-203, N-206
+Mentions: N-22, N-38, N-202, N-205
 Investigative Direction: Obtain full unedited Piers Morgan interview; verify clip is unedited.
 
 **C-1540** Seth Dillon on Tucker and Christian Zionist "heretics" framing
@@ -959,7 +959,7 @@ Investigative Direction: Obtain full unedited Piers Morgan interview; verify cli
 Claim Timestamp: 00:38:02
 Claim: On Piers Morgan, Seth Dillon asked Dave Smith about Tucker Carlson calling Christian Zionists "heretics" while having spoken glowingly at Charlie Kirk's memorial, pressing Smith to reconcile these positions.
 Anchored Artifacts: A-1295.2
-Mentions: N-1, N-22, N-38, N-39, N-206
+Mentions: N-1, N-22, N-38, N-39, N-205
 Investigative Direction: Obtain full unedited interview segment; verify context.
 
 **C-1541** Seth Dillon on Nick Fuentes' alleged statements regarding J.D. Vance
@@ -967,7 +967,7 @@ Investigative Direction: Obtain full unedited interview segment; verify context.
 Claim Timestamp: 00:48:05
 Claim: In a clip the host plays, which she indicates was from a separate show rather than Piers Morgan, Seth Dillon characterizes Nick Fuentes as having animosity toward Jews, having called J.D. Vance "fat and ugly" with a "brown family," and as having engaged in "glorification of Hitler."
 Anchored Artifacts: A-1295.3
-Mentions: N-4, N-38, N-203, N-206
+Mentions: N-4, N-38, N-202, N-205
 Investigative Direction: Verify specific Fuentes quotes against primary source material; obtain full interview segment.
 
 **C-1542** TPUSA text chain: Jewish donor loss and Candace invitation
@@ -1054,7 +1054,7 @@ Claim: The host says the plane owned by Derek and Shelaine Maxfield is also co-o
 Transcript Snippet: Someone who didn't hit internet radar who also co-owns that plane with them is a person named Casey Baugh, B A U G H.
 
 Anchored Artifacts: 
-Mentions: N-94, N-202, N-839, N-3
+Mentions: N-94, N-201, N-838, N-3
 Related Nodes: N-10849
 Tags: relevance:context
 Investigative Direction: FAA aircraft registration and ownership records for the Maxfield plane.
@@ -1070,7 +1070,7 @@ Claim: The host says Casey Baugh has his name on the Baugh Entrepreneurship Inst
 Transcript Snippet: the Baugh Entrepreneurship Institute, which operates out of the Woodbury Business Building, okay?
 
 Anchored Artifacts: 
-Mentions: N-839, N-3
+Mentions: N-838, N-3
 Related Nodes: N-10849, N-10012
 Tags: relevance:context
 Investigative Direction: UVU website and records for the Baugh Entrepreneurship Institute and its location.
@@ -1086,7 +1086,7 @@ Claim: The host says that, as is now known, Tyler Robinson was not on the Woodbu
 Transcript Snippet: of course, now we know that Tyler Robinson was not on the Woodbury building or on campus at all, for that matter.
 
 Anchored Artifacts: 
-Mentions: N-40, N-839, N-3
+Mentions: N-40, N-838, N-3
 Related Nodes: N-10028, N-10849
 Tags: relevance:core
 Investigative Direction: Charging documents and campus video establishing where Robinson was relative to the Woodbury Business Building.
@@ -1102,7 +1102,7 @@ Claim: The host says the Baugh-Maxfield plane drew attention because it seemingl
 Transcript Snippet: they seemingly turned their transponder off. That alarmed the public.
 
 Anchored Artifacts: 
-Mentions: N-94, N-202, N-3
+Mentions: N-94, N-201, N-3
 Related Nodes: N-10205, N-10549
 Supports: C-1529
 Tags: relevance:core
@@ -1119,7 +1119,7 @@ Claim: Reading the Maxfield statement, the host says it states that Derek Maxfie
 Transcript Snippet: We departed that PGA Airport in Arizona at approximately 1:40 and arrived at PVU at approximately 3:15 p. m. Mountain time.
 
 Anchored Artifacts: A-1291.1
-Mentions: N-94, N-202, N-3
+Mentions: N-94, N-201, N-3
 Related Nodes: N-10205
 Supports: C-1530
 Tags: relevance:core
@@ -1136,7 +1136,7 @@ Claim: The Maxfield statement read on air says that, to their knowledge, no one 
 Transcript Snippet: To our knowledge, no one associated with yesterday's flight by N888KG has been contacted by law enforcement for any reason.
 
 Anchored Artifacts: A-1291.1
-Mentions: N-94, N-202
+Mentions: N-94, N-201
 Related Nodes: N-10205
 Tags: relevance:core
 Investigative Direction: Utah or federal law-enforcement confirmation of whether the N888KG crew or passengers were interviewed.
@@ -1152,7 +1152,7 @@ Claim: The host says pilots she consulted on the Maxfield flight manifest found 
 Transcript Snippet: Even airport personnel had been instructed to lie actually.
 
 Anchored Artifacts: 
-Mentions: N-3, N-94, N-202
+Mentions: N-3, N-94, N-201
 Related Nodes: N-10205, N-10203
 Tags: relevance:core
 Investigative Direction: Identification of the pilots and airport staff, and any instruction given to airport personnel about the flight.
@@ -1367,7 +1367,7 @@ Claim: The host says Tucker Carlson hosted Nick Fuentes on his show, and that th
 Transcript Snippet: Tucker Carlson, in case you missed it, hosted Nick Fuentes on his show.
 
 Anchored Artifacts: 
-Mentions: N-3, N-22, N-203
+Mentions: N-3, N-22, N-202
 Related Nodes: N-10000, N-10268
 Tags: relevance:context
 Investigative Direction: The Tucker Carlson-Nick Fuentes interview and statements from TPUSA about Tucker's future events.
@@ -1467,7 +1467,7 @@ Claim: In the clip, Dave Smith says that those upset about Candace and Nick Fuen
 Transcript Snippet: And the reason why they got so much support behind them is cuz they were against this destruction of Gaza
 
 Anchored Artifacts: A-1295.1
-Mentions: N-39, N-3, N-203
+Mentions: N-39, N-3, N-202
 Related Nodes: N-10454
 Tags: relevance:context
 Investigative Direction: The full Piers Morgan or related interview with Dave Smith.
@@ -1616,7 +1616,7 @@ Claim: Asking her producer, the host says the clip of Seth Dillon on Nick Fuente
 Transcript Snippet: Okay, it wasn't on Piers Morgan, right, Skyler?
 
 Anchored Artifacts: A-1295.3
-Mentions: N-3, N-38, N-68, N-206
+Mentions: N-3, N-38, N-68, N-205
 Related Nodes: 
 Qualifies: C-1541
 Tags: relevance:context
@@ -1796,7 +1796,7 @@ Claim: The host says that tomorrow is a Norm Finkelstein interview, and earlier 
 Transcript Snippet: tomorrow is a Norm Finkelstein interview.
 
 Anchored Artifacts: A-3010.1
-Mentions: N-3, N-201
+Mentions: N-3, N-200
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: The interview's release date and video.

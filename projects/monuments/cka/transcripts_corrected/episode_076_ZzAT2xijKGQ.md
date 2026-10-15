@@ -77,7 +77,7 @@ Um like we like we did in Iraq, like we did in Afghanistan, destroying ancient c
 
 [09:29]
 
-We're discussing mysticism. These people are literally summing summoning demons and they're making blood sacrifices. And now the world recognizes that. I think it's now a mainstreamed conversation, which is fantastic. And I wanted to follow up on that note and show you another clip of Father Ripberger discussing this on Shawn Ryan's podcast. Uh you know, he's on there discussing as an exorcist the things that he has come across. It's a fantastic conversation. It's like 4 hours long. You should watch the entire thing. But uh in particular in this clip, he's going to discuss how coming into contact uh Freemasonry essentially and how people can raise the ranks uh through the occult families, how they get involved with these mystic cults in general.
+We're discussing mysticism. These people are literally summing summoning demons and they're making blood sacrifices. And now the world recognizes that. I think it's now a mainstreamed conversation, which is fantastic. And I wanted to follow up on that note and show you another clip of Father Ripperger discussing this on Shawn Ryan's podcast. Uh you know, he's on there discussing as an exorcist the things that he has come across. It's a fantastic conversation. It's like 4 hours long. You should watch the entire thing. But uh in particular in this clip, he's going to discuss how coming into contact uh Freemasonry essentially and how people can raise the ranks uh through the occult families, how they get involved with these mystic cults in general.
 
 [10:14]
 
@@ -93,7 +93,7 @@ It's really interesting in retrospect because I truly did not know what it might
 
 [12:57]
 
-Uh meeting with. Could you guys ask around and figure this out? Uh where you saw them. And they said, "Well, and I'll quote this, the offices in that general region are senior White House staff. It could be Susie Wiles, Stephen Miller, James Braid. Uh the Vice President's hallway and the situation room connect to that lobby. So, any number of people could have been in there. A Kash, the NSA director, Pete. The cabinet meeting had just let out 15 minutes prior to. So, that also adds any members of the cabinet." I didn't know what to make of this, right? So, I just instantly put the information out there and this is what I tweeted. I tweeted, "Just in case." I said, "Tweeting this in case it's relevant down the line." Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show. It appeared as though Kash phoned into the show live, but he did not. Andrew Kolvet was actually in the West Wing in DC that day taking a meeting with top brass.
+Uh meeting with. Could you guys ask around and figure this out? Uh where you saw them. And they said, "Well, and I'll quote this, the offices in that general region are senior White House staff. It could be Susie Wiles, Stephen Miller, James Blair. Uh the Vice President's hallway and the situation room connect to that lobby. So, any number of people could have been in there. A Kash, the NSA director, Pete. The cabinet meeting had just let out 15 minutes prior to. So, that also adds any members of the cabinet." I didn't know what to make of this, right? So, I just instantly put the information out there and this is what I tweeted. I tweeted, "Just in case." I said, "Tweeting this in case it's relevant down the line." Two days ago, Thursday, January 29th, Blake Neff and Andrew Kolvet hosted Kash Patel on Charlie Kirk's show. It appeared as though Kash phoned into the show live, but he did not. Andrew Kolvet was actually in the West Wing in DC that day taking a meeting with top brass.
 
 [13:53]
 
@@ -121,7 +121,7 @@ Maybe they're in some danger." Right? It's like the illusion when there's just a
 
 [18:38]
 
-We also know that that's the same time and year at the Black Sea Rotational Force in Constanta, Romania, is being led by Erika's cousin, Lieutenant Colonel Dennis Fronkvey. It's the first time America is operating a base in Romania, which is later going to be accused of prostituting underage Romanian children. Brothel. Colonel Otto Boucher. Same timeframe, Tyler Bowyer goes out to Constanta, Romania, and he's hanging out, and he's partying, and he's drinking with Romanian models and parliament politicians. Then Tyler is going to return from Romania around September of 2010. Makes sense, cuz he was attending Arizona State University, so schools got to get going. And then that same year Jeffrey Epstein begins giving money to Arizona State University, specifically for their Origins Project. Okay.
+We also know that that's the same time and year at the Black Sea Rotational Force in Constanta, Romania, is being led by Erika's cousin, Lieutenant Colonel Dennis Frantzve. It's the first time America is operating a base in Romania, which is later going to be accused of prostituting underage Romanian children. Brothel. Colonel Otto Busher. Same timeframe, Tyler Bowyer goes out to Constanta, Romania, and he's hanging out, and he's partying, and he's drinking with Romanian models and parliament politicians. Then Tyler is going to return from Romania around September of 2010. Makes sense, cuz he was attending Arizona State University, so schools got to get going. And then that same year Jeffrey Epstein begins giving money to Arizona State University, specifically for their Origins Project. Okay.
 
 [19:25]
 
@@ -149,7 +149,7 @@ Well, I was able to confirm that it's not just once, not twice, three times, fou
 
 [24:35]
 
-Right? Of just like suits and they were not to ask questions and Erika is there and she's taking meetings at Next Model Management. So, now feeling 100% certain that this information was real, um like I said, confirming it four ways, I decided to go out and ask Erika what she was doing there. It's cuz if people with intimate knowledge of the situation don't know what she was doing there, That's not great, right? What are the chances? What does Erika have to do with Next Model Management? What is she doing there? And I went out to her, and I of course copied the spokesperson Andrew Colebat, and I said, "You know, what specifically were you doing at Next Model Management in New York City?" What's up?
+Right? Of just like suits and they were not to ask questions and Erika is there and she's taking meetings at Next Model Management. So, now feeling 100% certain that this information was real, um like I said, confirming it four ways, I decided to go out and ask Erika what she was doing there. It's cuz if people with intimate knowledge of the situation don't know what she was doing there, That's not great, right? What are the chances? What does Erika have to do with Next Model Management? What is she doing there? And I went out to her, and I of course copied the spokesperson Andrew Kolvet, and I said, "You know, what specifically were you doing at Next Model Management in New York City?" What's up?
 
 [25:16]
 

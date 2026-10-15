@@ -269,7 +269,7 @@
             "C-3441"
           ],
           "related_nodes": [
-            "N-508"
+            "N-507"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -346,7 +346,7 @@
             "C-3746"
           ],
           "related_nodes": [
-            "N-248",
+            "N-247",
             "N-10830"
           ],
           "tags": [],
@@ -813,8 +813,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-263",
-      "ref": "N-263",
+      "@id": "N-262",
+      "ref": "N-262",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
@@ -849,8 +849,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -870,8 +870,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-580",
-      "ref": "N-580",
+      "@id": "N-579",
+      "ref": "N-579",
       "name": "Katie Hobbs",
       "type": "person",
       "description": "Governor of Arizona; vetoed SB 1439; subject of Hoffman's Fox News criticism.",
@@ -886,8 +886,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-508",
-      "ref": "N-508",
+      "@id": "N-507",
+      "ref": "N-507",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "First named by the host at 00:04:45 in episode 127. Aliases: Officer Bagley, Officer Christopher Bagley.",
@@ -904,8 +904,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-248",
-      "ref": "N-248",
+      "@id": "N-247",
+      "ref": "N-247",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "Brother of Jack Hibbs; alleged by host to have been in the bush at Kirk event prior to shooting and to have lingered at scene post-shooting during media interviews.",
@@ -1349,8 +1349,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-368",
-      "ref": "N-368",
+      "@id": "N-367",
+      "ref": "N-367",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Jeremy Boreing; the host's former employer and a subject of her remarks.",
@@ -1389,8 +1389,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-608",
-      "ref": "N-608",
+      "@id": "N-607",
+      "ref": "N-607",
       "name": "Shane Cashman",
       "type": "person",
       "description": "Shane Cashman; source of the Ted Bundy line the host repeats.",
@@ -1404,8 +1404,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-614",
-      "ref": "N-614",
+      "@id": "N-613",
+      "ref": "N-613",
       "name": "Jessica Reed Kraus",
       "type": "person",
       "description": "Jessica Reed Kraus; the host says Boreing compared her to the host.",
@@ -1421,8 +1421,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-901",
-      "ref": "N-901",
+      "@id": "N-900",
+      "ref": "N-900",
       "name": "Blake Harreff",
       "type": "person",
       "description": "First named by the host at 00:01:49 in episode 151. Member of Charlie Kirk's security detail on September 10.",
@@ -1441,8 +1441,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-902",
-      "ref": "N-902",
+      "@id": "N-901",
+      "ref": "N-901",
       "name": "Bobby Sausalito",
       "type": "person",
       "description": "First named by the host at 00:07:25 in episode 151. Commentator (Instagram handle take.naps) whose clip about Turek the host plays.",
@@ -1550,7 +1550,7 @@
       "investigative_direction": "Pull original tweet; verify which \"neighboring buildings\"; confirm whether on-campus surveillance footage is or is not in TPUSA possession.",
       "mentions_person_refs": [
         "N-14",
-        "N-580"
+        "N-579"
       ]
     },
     {
@@ -1569,7 +1569,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -1620,7 +1620,7 @@
       "claim_timestamp": "00:09:47–00:11:50",
       "investigative_direction": "Pull the full Boreing/Turek episode and reconcile with Turek's prior statements about the car ride.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-1",
         "N-7"
       ]
@@ -1754,7 +1754,7 @@
       "claim_timestamp": "00:19:51–00:20:41",
       "investigative_direction": "Identify the source of the footage; confirm provenance; subpoena any chain-of-custody record for the SD cards / thumb drives.",
       "mentions_person_refs": [
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -1845,7 +1845,7 @@
       "investigative_direction": "Identify the shoe model from the security-detail footage and confirm whether it is sold as electrical-hazard (EH-rated) footwear.",
       "transcript_snippet": "They sent links that these are like electrical hazard protection shoes.",
       "mentions_person_refs": [
-        "N-248",
+        "N-247",
         "N-3"
       ]
     },
@@ -1894,7 +1894,7 @@
         "C-3550"
       ],
       "mentions_person_refs": [
-        "N-901",
+        "N-900",
         "N-7",
         "N-3"
       ]
@@ -1917,7 +1917,7 @@
       "transcript_snippet": "on the basis of the stories that have been shared by Frank Couturk. Everybody they were just handing these scrubs out.",
       "mentions_person_refs": [
         "N-7",
-        "N-901"
+        "N-900"
       ]
     },
     {
@@ -1940,7 +1940,7 @@
       "transcript_snippet": "why would the feds collect Blake Harreff's shirt, which had no blood in it, but not collect Charlie Kirk's bloodied necklace and the bloodied microphone.",
       "mentions_person_refs": [
         "N-1",
-        "N-901"
+        "N-900"
       ]
     },
     {
@@ -1982,7 +1982,7 @@
       "investigative_direction": "Ask which agency collected clothing from people near Charlie and whether swabs for residue were taken.",
       "transcript_snippet": "Blake when he slid across the table may have got some explosive residue on him.",
       "mentions_person_refs": [
-        "N-901"
+        "N-900"
       ]
     },
     {
@@ -2022,7 +2022,7 @@
       "investigative_direction": "Compare against Boreing's own public statements and the legal filings the host cites.",
       "transcript_snippet": "I've told you guys that for the last three years, I've been stalked by my former employer",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-3"
       ]
     },
@@ -2043,7 +2043,7 @@
       "investigative_direction": "Locate the original Boreing remark and its date.",
       "transcript_snippet": "He even declared publicly that if his only contribution to the world is trying to destroy me, he's he'd be content with the rest of his life.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-3"
       ]
     },
@@ -2064,9 +2064,9 @@
       "investigative_direction": "Find the Boreing episodes or posts with the Loomer and Kraus remarks.",
       "transcript_snippet": "he's referred to Laura Loomer as a national treasure in this pursuit. He told House in habit like Jessica Reed Krauss that she has all the same natural talents as Candace.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-60",
-        "N-614"
+        "N-613"
       ]
     },
     {
@@ -2089,7 +2089,7 @@
       "investigative_direction": "Pull each clip in the collage to its source episode and verify the wording.",
       "transcript_snippet": "This is a real collage and by no means is it extensive.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-3"
       ]
     },
@@ -2110,7 +2110,7 @@
       "investigative_direction": "Find Boreing's statement and any TPUSA Faith tour announcement.",
       "transcript_snippet": "he's now talking about how he's going to be touring with Turning Point USA Faith.",
       "mentions_person_refs": [
-        "N-368"
+        "N-367"
       ]
     },
     {
@@ -2128,7 +2128,7 @@
       "investigative_direction": "Ask TPUSA or Boreing whether he ever met or worked with Kirk.",
       "transcript_snippet": "He was never friends with Charlie Kirk. He didn't know Charlie Kirk.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-1"
       ]
     },
@@ -2149,7 +2149,7 @@
       "investigative_direction": "Identify the court proceedings between the host and Boreing or the Daily Wire.",
       "transcript_snippet": "So, I had to deal with it privately in court and now people just get to see how crazy this man is.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-3"
       ]
     },
@@ -2177,9 +2177,9 @@
         "C-3547"
       ],
       "mentions_person_refs": [
-        "N-902",
+        "N-901",
         "N-7",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2205,7 +2205,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-268",
+        "N-267",
         "N-1"
       ]
     },
@@ -2226,7 +2226,7 @@
       "investigative_direction": "Pull the Harpole complaint and docket to confirm the claims pleaded.",
       "transcript_snippet": "I mean, I got Brian Harpell suing me on the basis of saying that he was just did all this upstanding care.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -2268,7 +2268,7 @@
       "investigative_direction": "Pull Bagley's preliminary hearing testimony on how he linked the two figures.",
       "transcript_snippet": "Officer Bagley testifies. He knows this is the same person as the person that's in the maroon because they're both wearing sneakers.",
       "mentions_person_refs": [
-        "N-508",
+        "N-507",
         "N-40"
       ]
     },
@@ -2338,7 +2338,7 @@
       "investigative_direction": "Read the preliminary hearing transcript for the SBI witness's description of what media was received.",
       "transcript_snippet": "the accounts that came from the SBI that testified about what they were handed that they were not handed the original SD cards but were rather given uh the um thumb drives.",
       "mentions_person_refs": [
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -2360,7 +2360,7 @@
       "investigative_direction": "Request the evidence-seizure record for Farnsworth's laptop and storage media.",
       "transcript_snippet": "this is enough to infer that some evidence may have been tampered with.",
       "mentions_person_refs": [
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -2387,7 +2387,7 @@
         "C-6845"
       ],
       "mentions_person_refs": [
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -2808,7 +2808,7 @@
         "C-11773"
       ],
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -2938,7 +2938,7 @@
           "video_timestamp": "00:07:25",
           "speaker_node_ref": "N-3",
           "quote": "Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression",
-          "context": "Host repeats Shane Cashman (N-608) line about Boreing.",
+          "context": "Host repeats Shane Cashman (N-607) line about Boreing.",
           "confidence": "high",
           "tags": [
             "boreing",
@@ -2957,7 +2957,7 @@
         {
           "episode": 151,
           "video_timestamp": "00:11:11",
-          "speaker_node_ref": "N-902",
+          "speaker_node_ref": "N-901",
           "quote": "he so desperately wanted to say yanking and baking right there",
           "context": "Bobby Sausalito, in the clip, jokes about Turek's phrase.",
           "confidence": "high",

@@ -30,7 +30,7 @@
             "C-2283"
           ],
           "related_nodes": [
-            "N-491",
+            "N-490",
             "N-10477"
           ],
           "tags": [],
@@ -49,7 +49,7 @@
             "C-2284"
           ],
           "related_nodes": [
-            "N-491",
+            "N-490",
             "N-10479"
           ],
           "tags": [],
@@ -76,8 +76,8 @@
             "C-2285"
           ],
           "related_nodes": [
-            "N-491",
-            "N-192",
+            "N-490",
+            "N-191",
             "N-10478"
           ],
           "tags": [],
@@ -104,7 +104,7 @@
             "C-2286"
           ],
           "related_nodes": [
-            "N-543",
+            "N-542",
             "N-10480",
             "N-10484"
           ],
@@ -195,7 +195,7 @@
             "C-2290"
           ],
           "related_nodes": [
-            "N-538",
+            "N-537",
             "N-10484"
           ],
           "tags": [],
@@ -214,8 +214,8 @@
             "C-2291"
           ],
           "related_nodes": [
-            "N-538",
-            "N-539"
+            "N-537",
+            "N-538"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -241,7 +241,7 @@
             "C-2292"
           ],
           "related_nodes": [
-            "N-540"
+            "N-539"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -293,7 +293,7 @@
             "C-2294"
           ],
           "related_nodes": [
-            "N-192",
+            "N-191",
             "N-10482"
           ],
           "tags": [],
@@ -320,7 +320,7 @@
             "C-2295"
           ],
           "related_nodes": [
-            "N-491",
+            "N-490",
             "N-15",
             "N-10483"
           ],
@@ -348,9 +348,9 @@
             "C-2296"
           ],
           "related_nodes": [
-            "N-541",
-            "N-545",
-            "N-546"
+            "N-540",
+            "N-544",
+            "N-545"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -376,7 +376,7 @@
             "C-2297"
           ],
           "related_nodes": [
-            "N-542"
+            "N-541"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -533,8 +533,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-538",
-      "ref": "N-538",
+      "@id": "N-537",
+      "ref": "N-537",
       "name": "Jörg Fassbinder",
       "type": "person",
       "description": "German geophysicist (Bavarian State Conservation Office, Munich) credited in the episode with discovering Gilgamesh's tomb via magnetic mapping between May 2002 and early 2003; subject of BBC follow-up coverage.",
@@ -554,8 +554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-539",
-      "ref": "N-539",
+      "@id": "N-538",
+      "ref": "N-538",
       "name": "Helmut Becker",
       "type": "person",
       "description": "German geophysicist working alongside Jörg Fassbinder on the magnetic-mapping survey that located the Gilgamesh tomb site.",
@@ -573,8 +573,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-491",
-      "ref": "N-491",
+      "@id": "N-490",
+      "ref": "N-490",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erika Kirk's mother; central figure in the Sept 8 / Sept 10 alibi narrative; subject of the Sept 7, 2025 Instagram post; reportedly receiving treatment at a \"holistic clinic\" rather than a hospital; described as having Lyme disease.",
@@ -604,8 +604,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "TPUSA-affiliated figure (per host's training reference); the person who placed the call to Erika Kirk on Sept 10, 2025, and who host asserts first called his wife before calling Erika.",
@@ -669,8 +669,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-540",
-      "ref": "N-540",
+      "@id": "N-539",
+      "ref": "N-539",
       "name": "Colin Powell",
       "type": "person",
       "description": "Former U.S. Secretary of State; subject of Feb 5, 2003 UN Security Council address cited in the episode.",
@@ -688,8 +688,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-541",
-      "ref": "N-541",
+      "@id": "N-540",
+      "ref": "N-540",
       "name": "William Stevenson",
       "type": "person",
       "description": "77-year-old Wilmington resident, ex-husband of Jill Biden (1970–1975); indicted for first-degree murder of his ex-wife per news referenced in episode.",
@@ -705,14 +705,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-545",
-        "N-546"
+        "N-544",
+        "N-545"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-542",
-      "ref": "N-542",
+      "@id": "N-541",
+      "ref": "N-541",
       "name": "Kevin Sorbo",
       "type": "person",
       "description": "Actor referenced via tweet about leaving Hollywood because participants were pedophiles.",
@@ -730,8 +730,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-543",
-      "ref": "N-543",
+      "@id": "N-542",
+      "ref": "N-542",
       "name": "Rob Skiba",
       "type": "person",
       "description": "Researcher cited in viewer email; per email, his work documents Gilgamesh/Nimrod tomb discovery, museum raid, and missing Nephilim/resurrection tablets.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-544",
-      "ref": "N-544",
+      "@id": "N-543",
+      "ref": "N-543",
       "name": "Bella Hadid",
       "type": "person",
       "description": "Public figure referenced re: Lyme disease treatment options overseas.",
@@ -766,7 +766,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-491",
+        "N-490",
         "N-10483"
       ]
     },
@@ -791,8 +791,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-545",
-      "ref": "N-545",
+      "@id": "N-544",
+      "ref": "N-544",
       "name": "Amber Thurman (Victim in Stevenson case)",
       "type": "person",
       "description": "Per host's read of article, the ex-wife of William Stevenson whose body was found unresponsive in the living room (Stevenson indicted for first-degree murder).",
@@ -808,13 +808,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-541"
+        "N-540"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-546",
-      "ref": "N-546",
+      "@id": "N-545",
+      "ref": "N-545",
       "name": "Jill Biden",
       "type": "person",
       "description": "Subject of William Stevenson connection (Stevenson was her ex-husband, 1970–1975); declined to comment per host's read.",
@@ -830,7 +830,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-541"
+        "N-540"
       ]
     },
     {
@@ -852,7 +852,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-491",
+        "N-490",
         "N-7"
       ]
     },
@@ -877,8 +877,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-491",
-        "N-192",
+        "N-490",
+        "N-191",
         "N-15"
       ]
     },
@@ -901,7 +901,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-491"
+        "N-490"
       ]
     },
     {
@@ -923,7 +923,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-543"
+        "N-542"
       ]
     },
     {
@@ -969,7 +969,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -991,9 +991,9 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-491",
+        "N-490",
         "N-15",
-        "N-544"
+        "N-543"
       ]
     },
     {
@@ -1017,7 +1017,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-543"
+        "N-542"
       ]
     },
     {
@@ -1175,8 +1175,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-201",
-      "ref": "N-201",
+      "@id": "N-200",
+      "ref": "N-200",
       "name": "Norman Finkelstein",
       "type": "person",
       "description": "Subject of a moderator comment praised by the host.",
@@ -1192,8 +1192,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-536",
-      "ref": "N-536",
+      "@id": "N-535",
+      "ref": "N-535",
       "name": "Alan Dershowitz",
       "type": "person",
       "description": "Transcribed 'Duruit' in the moderator comment read on air.",
@@ -1209,8 +1209,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-368",
-      "ref": "N-368",
+      "@id": "N-367",
+      "ref": "N-367",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Daily Wire co-founder, named as present when staff kept a clip file.",
@@ -1226,8 +1226,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-499",
-      "ref": "N-499",
+      "@id": "N-498",
+      "ref": "N-498",
       "name": "Bassem Youssef",
       "type": "person",
       "description": "Transcribed 'Bassim Ysef'; subject of a remark in the Shapiro clip.",
@@ -1576,7 +1576,7 @@
       "claim_timestamp": "00:23:15",
       "investigative_direction": "Verify against archived Instagram data for Erika Kirk.",
       "mentions_person_refs": [
-        "N-491",
+        "N-490",
         "N-2"
       ]
     },
@@ -1596,7 +1596,7 @@
       "claim_timestamp": "00:24:00",
       "investigative_direction": "Obtain the original post screenshot/metadata and identify the countdown's intended referent.",
       "mentions_person_refs": [
-        "N-491",
+        "N-490",
         "N-2"
       ]
     },
@@ -1617,8 +1617,8 @@
       "claim_timestamp": "00:25:00",
       "investigative_direction": "Locate and quote the exact NYT passage to confirm wording.",
       "mentions_person_refs": [
-        "N-192",
-        "N-491",
+        "N-191",
+        "N-490",
         "N-2"
       ]
     },
@@ -1639,7 +1639,7 @@
       "claim_timestamp": "00:05:54",
       "investigative_direction": "Locate Rob Skiba's published work (\"Babylon Rising\" et al.) and verify each factual component independently.",
       "mentions_person_refs": [
-        "N-543"
+        "N-542"
       ]
     },
     {
@@ -1707,7 +1707,7 @@
       "claim_timestamp": "00:09:00",
       "investigative_direction": "Locate the specific BBC report and confirm date.",
       "mentions_person_refs": [
-        "N-538"
+        "N-537"
       ]
     },
     {
@@ -1724,8 +1724,8 @@
       "claim_timestamp": "00:08:02",
       "investigative_direction": "Locate primary publications or institutional releases confirming the timeline.",
       "mentions_person_refs": [
-        "N-538",
-        "N-539"
+        "N-537",
+        "N-538"
       ]
     },
     {
@@ -1742,7 +1742,7 @@
       "claim_timestamp": "00:09:03",
       "investigative_direction": "Reference the UN Security Council record / transcript.",
       "mentions_person_refs": [
-        "N-540"
+        "N-539"
       ]
     },
     {
@@ -1778,7 +1778,7 @@
       "claim_timestamp": "00:25:21",
       "investigative_direction": "Obtain call log records or corroborating witness / phone carrier metadata.",
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-2"
       ]
     },
@@ -1800,7 +1800,7 @@
       "investigative_direction": "Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently.",
       "mentions_person_refs": [
         "N-15",
-        "N-491"
+        "N-490"
       ]
     },
     {
@@ -1817,8 +1817,8 @@
       "claim_timestamp": "00:47:06",
       "investigative_direction": "Verify via Delaware court records and contemporaneous news coverage.",
       "mentions_person_refs": [
-        "N-541",
-        "N-546"
+        "N-540",
+        "N-545"
       ]
     },
     {
@@ -1835,7 +1835,7 @@
       "claim_timestamp": "00:44:50",
       "investigative_direction": "Locate the tweet and verify exact wording and date.",
       "mentions_person_refs": [
-        "N-542"
+        "N-541"
       ]
     },
     {
@@ -1893,7 +1893,7 @@
         "C-2290"
       ],
       "mentions_person_refs": [
-        "N-538"
+        "N-537"
       ]
     },
     {
@@ -2005,7 +2005,7 @@
       "transcript_snippet": "All these people with very strong ties to the military. Um, his wife included, right? Uh, her mother in particular.",
       "mentions_person_refs": [
         "N-2",
-        "N-491"
+        "N-490"
       ]
     },
     {
@@ -2026,7 +2026,7 @@
       "investigative_direction": "Pull Secretary of State filings for every entity listing Lori Frantzve as officer or agent.",
       "transcript_snippet": "she has a number of LLC's. And when I say a number, I mean it it's almost incalculable the amount of LLC's",
       "mentions_person_refs": [
-        "N-491",
+        "N-490",
         "N-3"
       ]
     },
@@ -2049,7 +2049,7 @@
       "investigative_direction": "Check board and officer records for Superfeed and related TPUSA vendors.",
       "transcript_snippet": "her mother sits on the board of companies related to Turning Point USA, despite the fact that her mother is involved with sort of the geo fencing",
       "mentions_person_refs": [
-        "N-491",
+        "N-490",
         "N-2"
       ]
     },
@@ -2071,7 +2071,7 @@
       "transcript_snippet": "Actually, if you ask people at Turning Point USA, they don't know her mother.",
       "mentions_person_refs": [
         "N-11",
-        "N-491",
+        "N-490",
         "N-2"
       ]
     },
@@ -2090,7 +2090,7 @@
       "investigative_direction": "Find 2015 event photos showing Erika and her mother behind Trump.",
       "transcript_snippet": "her mother was, you know, present next to Erika in 2015 when she was standing behind Trump",
       "mentions_person_refs": [
-        "N-491",
+        "N-490",
         "N-2"
       ]
     },
@@ -2111,7 +2111,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-491"
+        "N-490"
       ]
     },
     {
@@ -2156,9 +2156,9 @@
         "C-2294"
       ],
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-2",
-        "N-491"
+        "N-490"
       ]
     },
     {
@@ -2178,7 +2178,7 @@
       "investigative_direction": "Find the original source of the claim that Charlie trained McCoy on emergency calls.",
       "transcript_snippet": "So much for that training that Charlie allegedly gave him.",
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-1",
         "N-2"
       ]
@@ -2252,7 +2252,7 @@
       "transcript_snippet": "he was flying out her mother to do treatments for Lyme disease overseas because there was better treatment in Europe options available",
       "mentions_person_refs": [
         "N-1",
-        "N-491",
+        "N-490",
         "N-3"
       ]
     },
@@ -2276,7 +2276,7 @@
       "transcript_snippet": "on September 8th, we can pull up the timeline here, that Charlie Charlie took Erika's mother for a treatment for Lyme disease at a clinic. I have the address, the name of the clinic.",
       "mentions_person_refs": [
         "N-1",
-        "N-491",
+        "N-490",
         "N-2",
         "N-3"
       ]
@@ -2360,7 +2360,7 @@
       "transcript_snippet": "this treatment having to have taken place between 12 and 3:30.",
       "mentions_person_refs": [
         "N-1",
-        "N-491"
+        "N-490"
       ]
     },
     {
@@ -2676,7 +2676,7 @@
       "transcript_snippet": "Candace also interviewed Bassim Ysef and told him she thinks something bad happened in your childhood because you fixated and lack empathy.",
       "mentions_person_refs": [
         "N-97",
-        "N-499",
+        "N-498",
         "N-3"
       ]
     },
@@ -2698,7 +2698,7 @@
       "investigative_direction": "Obtain any internal clip files sent to influencers.",
       "transcript_snippet": "They used to keep a file and then they would send it around to all their influencers of clips of the show",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-3"
       ]
     },
@@ -2837,9 +2837,9 @@
       "investigative_direction": "Ask Finkelstein or find his published account of any contact.",
       "transcript_snippet": "Epstein and Duruit contacted Finkelestein, but he called them pedophiles and threatened to hurt them.",
       "mentions_person_refs": [
-        "N-201",
+        "N-200",
         "N-9",
-        "N-536"
+        "N-535"
       ]
     }
   ],

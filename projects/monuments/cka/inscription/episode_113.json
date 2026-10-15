@@ -31,8 +31,8 @@
             "C-4436"
           ],
           "related_nodes": [
-            "N-663",
-            "N-180",
+            "N-662",
+            "N-179",
             "N-10955"
           ],
           "tags": [],
@@ -52,9 +52,9 @@
             "C-4444"
           ],
           "related_nodes": [
-            "N-180",
+            "N-179",
+            "N-666",
             "N-667",
-            "N-668",
             "N-10955"
           ],
           "tags": [],
@@ -70,7 +70,7 @@
           "description": "Comedic clip presented as \"live footage from the scene inside Albania\" (played)",
           "related_claims": [],
           "related_nodes": [
-            "N-180",
+            "N-179",
             "N-10955"
           ],
           "tags": [],
@@ -99,8 +99,8 @@
             "C-4440"
           ],
           "related_nodes": [
-            "N-667",
-            "N-522"
+            "N-666",
+            "N-521"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -126,8 +126,8 @@
             "C-4446"
           ],
           "related_nodes": [
+            "N-671",
             "N-672",
-            "N-673",
             "N-10955"
           ],
           "tags": [],
@@ -201,8 +201,8 @@
             "C-4454"
           ],
           "related_nodes": [
-            "N-595",
-            "N-674",
+            "N-594",
+            "N-673",
             "N-5",
             "N-10964"
           ],
@@ -221,7 +221,7 @@
             "C-4455"
           ],
           "related_nodes": [
-            "N-595"
+            "N-594"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -238,7 +238,7 @@
             "C-4456"
           ],
           "related_nodes": [
-            "N-595",
+            "N-594",
             "N-10964"
           ],
           "tags": [],
@@ -260,9 +260,9 @@
           ],
           "related_nodes": [
             "N-60",
-            "N-595",
+            "N-594",
+            "N-674",
             "N-675",
-            "N-676",
             "N-10963",
             "N-10965"
           ],
@@ -319,7 +319,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-161",
+            "N-160",
             "N-10000",
             "N-10008"
           ],
@@ -367,7 +367,7 @@
             "C-4471"
           ],
           "related_nodes": [
-            "N-668"
+            "N-667"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -384,7 +384,7 @@
           "related_nodes": [
             "N-2",
             "N-4",
-            "N-451"
+            "N-450"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -455,7 +455,7 @@
             "C-4480"
           ],
           "related_nodes": [
-            "N-435",
+            "N-434",
             "N-10671",
             "N-10700"
           ],
@@ -643,8 +643,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Appears with Kolvet on the Charlie Kirk Show clip; the host says he is not an employee of Turning Point USA.",
@@ -665,8 +665,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-180",
-      "ref": "N-180",
+      "@id": "N-179",
+      "ref": "N-179",
       "name": "Jared Kushner",
       "type": "person",
       "description": "His interview on discovering Albania aboard Nat Rothschild's boat is played.",
@@ -689,8 +689,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Mitch Snow",
       "type": "person",
       "description": "The host restates his claim that he saw Erika Kirk at a hotel on Fort Huachuca on September 8.",
@@ -706,8 +706,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-435",
-      "ref": "N-435",
+      "@id": "N-434",
+      "ref": "N-434",
       "name": "Bradley Hansell",
       "type": "person",
       "description": "Transcript spelling \"Brad Hansell\". Subject of the host's FOIA request about who flew with him to Fort Huachuca.",
@@ -727,8 +727,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-451",
-      "ref": "N-451",
+      "@id": "N-450",
+      "ref": "N-450",
       "name": "Michael Aquino",
       "type": "person",
       "description": "Named in a viewer conspiracy comment as the alleged biological father of Erika Kirk and JD Vance.",
@@ -744,8 +744,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-522",
-      "ref": "N-522",
+      "@id": "N-521",
+      "ref": "N-521",
       "name": "Rothschild Family",
       "type": "person",
       "description": "The host links the family to the Sazan Island deal, the founding of Israel and the Planet Nine yacht.",
@@ -765,8 +765,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-595",
-      "ref": "N-595",
+      "@id": "N-594",
+      "ref": "N-594",
       "name": "Pete Hegseth",
       "type": "person",
       "description": "Repeatedly misnamed \"Pete Buttigieg\" by the host. His CENTCOM press remarks, troop runs and Guantanamo trip with Laura Loomer are shown.",
@@ -794,8 +794,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-663",
-      "ref": "N-663",
+      "@id": "N-662",
+      "ref": "N-662",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "First named by the host at 00:00:52 in episode 113. Her story of swimming to Sazan Island from a friend's boat is revisited.",
@@ -814,8 +814,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-667",
-      "ref": "N-667",
+      "@id": "N-666",
+      "ref": "N-666",
       "name": "Nat Rothschild",
       "type": "person",
       "description": "First named by the host at 00:02:52 in episode 113. Owner of the superyacht Planet Nine, on which Kushner says he and Ivanka vacationed in 2021. Aliases: Nathaniel; Nathan Rothschild.",
@@ -836,8 +836,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-668",
-      "ref": "N-668",
+      "@id": "N-667",
+      "ref": "N-667",
       "name": "Edi Rama",
       "type": "person",
       "description": "First named by Jared Kushner in a clip at 00:08:08 in episode 113, as \"Prime Minister Rama\" of Albania. Kushner says Rama came to the yacht. Transcript gives only the surname.",
@@ -858,8 +858,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-672",
-      "ref": "N-672",
+      "@id": "N-671",
+      "ref": "N-671",
       "name": "Nikita Khrushchev",
       "type": "person",
       "description": "First named by the host at 00:09:59 in episode 113. Former Soviet leader quoted on Sazan Island as a strategic naval position.",
@@ -878,8 +878,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-673",
-      "ref": "N-673",
+      "@id": "N-672",
+      "ref": "N-672",
       "name": "Enver Hoxha",
       "type": "person",
       "description": "First named by the host at 00:09:59 in episode 113. Former Albanian leader (called \"prime minister\" by the host) whose account of Khrushchev's remarks is read.",
@@ -897,8 +897,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-674",
-      "ref": "N-674",
+      "@id": "N-673",
+      "ref": "N-673",
       "name": "Admiral Cooper (CENTCOM commander)",
       "type": "person",
       "description": "First named by Pete Hegseth in a clip at 00:15:42 in episode 113 as \"Admiral Cooper, the commander of CENTCOM.\" Only the surname is given.",
@@ -917,8 +917,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-675",
-      "ref": "N-675",
+      "@id": "N-674",
+      "ref": "N-674",
       "name": "Miguel Díaz-Canel",
       "type": "person",
       "description": "First named by Laura Loomer in a clip at 00:26:08 in episode 113 (transcript spelling \"Miguel Diaz-Canel\"). Cuban leader named in her capture-or-kill question.",
@@ -936,8 +936,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-676",
-      "ref": "N-676",
+      "@id": "N-675",
+      "ref": "N-675",
       "name": "Nicolás Maduro",
       "type": "person",
       "description": "First named by Laura Loomer in a clip at 00:26:08 in episode 113. She cites a capture or kill operation against him as a precedent.",
@@ -1431,8 +1431,8 @@
       "investigative_direction": "Review the full Ivanka Trump interview in which she describes discovering Sazan Island.",
       "transcript_snippet": "Story is she was on her friend's boat, remember? Um, and she said she jumped off of it. She swam. Her and Jared then ran barefoot on the island like Adam and Eve.",
       "mentions_person_refs": [
-        "N-663",
-        "N-180"
+        "N-662",
+        "N-179"
       ]
     },
     {
@@ -1453,9 +1453,9 @@
       "investigative_direction": "Check yacht registry and ownership records for Planet Nine and its summer 2021 Adriatic itinerary.",
       "transcript_snippet": "I guarantee you they wouldn't come up with anything remotely akin to the one that Ivanka jumped off of because, well, it's a Rothschild owned boat.",
       "mentions_person_refs": [
-        "N-663",
-        "N-667",
-        "N-522"
+        "N-662",
+        "N-666",
+        "N-521"
       ]
     },
     {
@@ -1473,7 +1473,7 @@
       "investigative_direction": "Locate the specific Rothschild family interview or statement the host refers to and compare its wording.",
       "transcript_snippet": "the family that just straight up said, \"We created the modern state of Israel out of whole cloth.\"",
       "mentions_person_refs": [
-        "N-522"
+        "N-521"
       ]
     },
     {
@@ -1491,7 +1491,7 @@
       "investigative_direction": "Check yacht registry and builder records for Planet Nine and its listed owner.",
       "transcript_snippet": "It's It's a super yacht appropriately named Planet Nine. Planet Nine, which is designed for heli-skiing adventures.",
       "mentions_person_refs": [
-        "N-667"
+        "N-666"
       ]
     },
     {
@@ -1509,7 +1509,7 @@
       "investigative_direction": "Check the builder's published specifications for Planet Nine's helideck and helicopter.",
       "transcript_snippet": "The helicopter, I will say that there's one drawback. The helicopter is only an eight-seater.",
       "mentions_person_refs": [
-        "N-667"
+        "N-666"
       ]
     },
     {
@@ -1527,7 +1527,7 @@
       "investigative_direction": "Compare with the builder's or charter broker's specification sheet for Planet Nine.",
       "transcript_snippet": "Planet Nine is five floors in total. But, worry not cuz you're like, \"That's a lot of stairs.\" It has two elevators. It accommodates 16 guests.",
       "mentions_person_refs": [
-        "N-667"
+        "N-666"
       ]
     },
     {
@@ -1543,7 +1543,7 @@
       "investigative_direction": "Locate the original interview or documentary in which a French Rothschild is recorded saying this phrase.",
       "transcript_snippet": "Remember, vice is nice, but incest is best, said that Rothschild in France.",
       "mentions_person_refs": [
-        "N-522"
+        "N-521"
       ]
     },
     {
@@ -1563,8 +1563,8 @@
       "investigative_direction": "Obtain the full Kushner interview and AIS tracking data for Planet Nine in summer 2021.",
       "transcript_snippet": "I was on a vacation after we left government in the summer of 2021. We were on our friend Nat Rothschild's boat. We got picked up in Montenegro",
       "mentions_person_refs": [
-        "N-180",
-        "N-667"
+        "N-179",
+        "N-666"
       ]
     },
     {
@@ -1584,8 +1584,8 @@
       "investigative_direction": "Check Albanian government schedules and press reports for Edi Rama's summer 2021 meeting with Kushner.",
       "transcript_snippet": "One of the nights their Prime Minister Rama came to the boat. I had not met him when I was in government,",
       "mentions_person_refs": [
-        "N-180",
-        "N-668"
+        "N-179",
+        "N-667"
       ]
     },
     {
@@ -1605,8 +1605,8 @@
       "investigative_direction": "Check Albanian prosecutorial (SPAK) records and press reports for any corruption investigation into the Sazan Island agreement.",
       "transcript_snippet": "The Prime Minister of Albania was on the boat. The guy who did the deal and in the process sold out his country and his ancestry.",
       "mentions_person_refs": [
-        "N-668",
-        "N-180"
+        "N-667",
+        "N-179"
       ]
     },
     {
@@ -1626,7 +1626,7 @@
       "investigative_direction": "Consult Enver Hoxha's memoir \"The Khrushchevites\" and historical records of Khrushchev's May 1959 Albania visit.",
       "transcript_snippet": "but in 1950 1959 he visited alongside his Soviet marshal and they looked out at the bay and they discussed Albania's coastline in particular, the Sazan Island, as a strategic naval position.",
       "mentions_person_refs": [
-        "N-672"
+        "N-671"
       ]
     },
     {
@@ -1646,8 +1646,8 @@
       "investigative_direction": "Verify the quotation against the published text of Hoxha's memoirs.",
       "transcript_snippet": "With a powerful fleet from here, we can have the whole of the Mediterranean, the Bosphorus to the Gibraltar in our hands. We can control everyone.",
       "mentions_person_refs": [
-        "N-673",
-        "N-672"
+        "N-672",
+        "N-671"
       ]
     },
     {
@@ -1766,8 +1766,8 @@
       "investigative_direction": "Obtain the Department of War transcript of Hegseth's Tampa remarks and CENTCOM strike announcements for that night.",
       "transcript_snippet": "But, of course, he is busy because CENTCOM, Central Command, will be busy tonight because President Trump said we will be hitting Iran hard, and we will be.",
       "mentions_person_refs": [
-        "N-595",
-        "N-674",
+        "N-594",
+        "N-673",
         "N-5"
       ]
     },
@@ -1789,8 +1789,8 @@
       "investigative_direction": "Review official CENTCOM releases on Operation Epic Fury and the Iran blockade.",
       "transcript_snippet": "Uh and Admiral Cooper and the team here at CENTCOM has done a phenomenal job from the beginning on Epic Fury and through this blockade,",
       "mentions_person_refs": [
-        "N-595",
-        "N-674"
+        "N-594",
+        "N-673"
       ]
     },
     {
@@ -1808,7 +1808,7 @@
       "investigative_direction": "Compare with published photographs of Hegseth's tattoos.",
       "transcript_snippet": "I noticed that he had a crucifix uh tattooed um on his right arm, so that I guess bars us from asking questions.",
       "mentions_person_refs": [
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -1826,7 +1826,7 @@
       "investigative_direction": "Check DVIDS and Department of War photo releases for Hegseth's troop runs on those dates.",
       "transcript_snippet": "Here he is in October of 2025 in Malaysia. He went for a run with the troops.",
       "mentions_person_refs": [
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -1846,7 +1846,7 @@
       "investigative_direction": "Locate the original DVIDS or War Department video and its location and date.",
       "transcript_snippet": "From this War Department's view the national defense strategy we have right now, we are taking back our hemisphere.",
       "mentions_person_refs": [
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -1866,7 +1866,7 @@
       "investigative_direction": "Check the Department of War press pool roster for Hegseth's Guantanamo Bay trip.",
       "transcript_snippet": "He went down to Guantanamo Bay, Gitmo, with none other than Laura Loomer. Not a joke, guys.",
       "mentions_person_refs": [
-        "N-595",
+        "N-594",
         "N-60"
       ]
     },
@@ -1926,8 +1926,8 @@
       "transcript_snippet": "reestablish order if President Trump were to decide to do a capture or kill operation with Miguel Diaz-Canel like he did with Maduro?",
       "mentions_person_refs": [
         "N-60",
+        "N-674",
         "N-675",
-        "N-676",
         "N-5"
       ]
     },
@@ -1949,7 +1949,7 @@
       "investigative_direction": "Obtain the War Department transcript of the Guantanamo press availability.",
       "transcript_snippet": "So, to kind of bring it back home to while we're here, those options are all All those options are on the table.",
       "mentions_person_refs": [
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -1967,7 +1967,7 @@
       "investigative_direction": "Check DVIDS imagery from the Guantanamo Bay visit.",
       "transcript_snippet": "And secondly, uh when he got down to Gitmo, I should mention he did another run. He did.",
       "mentions_person_refs": [
-        "N-595"
+        "N-594"
       ]
     },
     {
@@ -2027,7 +2027,7 @@
       "transcript_snippet": "We We decided over the weekend we were going to troll the trolls. There's this video that has become a a source of controversy.",
       "mentions_person_refs": [
         "N-14",
-        "N-161",
+        "N-160",
         "N-1",
         "N-2"
       ]
@@ -2053,7 +2053,7 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-161",
+        "N-160",
         "N-1"
       ]
     },
@@ -2099,7 +2099,7 @@
       "transcript_snippet": "claimed without any basis whatsoever, \"Ooh, that's actually that that's actually Charlie at Act Con in 2023.\"",
       "mentions_person_refs": [
         "N-14",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2140,7 +2140,7 @@
       "investigative_direction": "Check TPUSA's Form 990 staff listings and Neff's employment with the Charlie Kirk Show production entity.",
       "transcript_snippet": "They send out Blake Neff because he's not an official uh he's he's not at all actually an employee of Turning Point USA.",
       "mentions_person_refs": [
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2158,7 +2158,7 @@
       "investigative_direction": "Review Albanian maritime and land concession agreements under Edi Rama, including the Greece maritime border deal.",
       "transcript_snippet": "The prime minister is considered the biggest anti-Albanian in the entire history of Albania. He is selling our land and sea to neighboring countries.",
       "mentions_person_refs": [
-        "N-668"
+        "N-667"
       ]
     },
     {
@@ -2286,7 +2286,7 @@
       "investigative_direction": "Obtain the FOIA request and the agency's response letter.",
       "transcript_snippet": "but we filed an FOIA request for Brad Hansell, the Under Secretary of War.",
       "mentions_person_refs": [
-        "N-435",
+        "N-434",
         "N-3"
       ]
     },
@@ -2308,7 +2308,7 @@
       "investigative_direction": "Obtain the response letter and file an appeal or a parallel request for the SAM702 passenger manifest.",
       "transcript_snippet": "We received a very odd response. We just wanted an FOIA request regarding who was on the plane with him to go to Fort Huachuca.",
       "mentions_person_refs": [
-        "N-435",
+        "N-434",
         "N-3"
       ]
     },
@@ -2330,7 +2330,7 @@
       "investigative_direction": "Obtain flight-tracking data for the aircraft carrying Hansell and Fort Huachuca visitor records for September 8, 2025.",
       "transcript_snippet": "He stops in Tucson, and then he goes to Fort Huachuca on the 8th.",
       "mentions_person_refs": [
-        "N-435"
+        "N-434"
       ]
     },
     {
@@ -2352,7 +2352,7 @@
         "C-1973"
       ],
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-2"
       ]
     },

@@ -31,7 +31,7 @@
           ],
           "related_nodes": [
             "N-69",
-            "N-149",
+            "N-148",
             "N-10158"
           ],
           "tags": [],
@@ -85,7 +85,7 @@
             "C-1358"
           ],
           "related_nodes": [
-            "N-145",
+            "N-144",
             "N-10158",
             "N-10159"
           ],
@@ -115,8 +115,8 @@
           ],
           "related_nodes": [
             "N-6",
+            "N-149",
             "N-150",
-            "N-151",
             "N-10160"
           ],
           "tags": [],
@@ -143,7 +143,7 @@
             "C-1361"
           ],
           "related_nodes": [
-            "N-146"
+            "N-145"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -221,7 +221,7 @@
             "C-1364"
           ],
           "related_nodes": [
-            "N-147",
+            "N-146",
             "N-10161"
           ],
           "tags": [],
@@ -248,7 +248,7 @@
             "C-1365"
           ],
           "related_nodes": [
-            "N-148",
+            "N-147",
             "N-10161"
           ],
           "tags": [],
@@ -558,8 +558,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-145",
-      "ref": "N-145",
+      "@id": "N-144",
+      "ref": "N-144",
       "name": "Kyle Undercover",
       "type": "person",
       "description": "Investigator whose 2023 X thread on ADL property records is cited (A-1211.1) as the prior source for ADL/FBI Connecticut office sharing.",
@@ -582,8 +582,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-146",
-      "ref": "N-146",
+      "@id": "N-145",
+      "ref": "N-145",
       "name": "Olivia Robertson Cobb Bishop",
       "type": "person",
       "description": "Eyewitness interviewed in news segment (A-1213.1); described by host as a records specialist at the Orem Police Department (host assertion only – no displayed source for employment claim).",
@@ -601,8 +601,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-147",
-      "ref": "N-147",
+      "@id": "N-146",
+      "ref": "N-146",
       "name": "Marjorie Taylor Greene",
       "type": "person",
       "description": "U.S. Representative; subject of artifact A-1216.1 (public statement denying suicidal ideation and warning of potential foreign-state action).",
@@ -623,8 +623,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-148",
-      "ref": "N-148",
+      "@id": "N-147",
+      "ref": "N-147",
       "name": "Theo Von",
       "type": "person",
       "description": "Podcaster; subject of artifact A-1217.1 (public statement denying suicidal intent, addressed to \"Israel\").",
@@ -645,8 +645,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-149",
-      "ref": "N-149",
+      "@id": "N-148",
+      "ref": "N-148",
       "name": "James Comey",
       "type": "person",
       "description": "Former FBI Director referenced in Patel X post (A-1209.1) as having \"written love letters to the ADL and embedded FBI agents with them.\"",
@@ -665,8 +665,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-150",
-      "ref": "N-150",
+      "@id": "N-149",
+      "ref": "N-149",
       "name": "Skordas",
       "type": "person",
       "description": "Utah state prosecutor named in Elizabeth Lane's Redacted podcast account (A-1212.1) as the official asserting exclusive authority to identify defense counsel for Tyler Robinson.",
@@ -687,8 +687,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-151",
-      "ref": "N-151",
+      "@id": "N-150",
+      "ref": "N-150",
       "name": "Clayton",
       "type": "person",
       "description": "Host of Redacted podcast; introduces Elizabeth Lane segment (A-1212.1).",
@@ -722,7 +722,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-150",
+        "N-149",
         "N-10160"
       ]
     },
@@ -750,8 +750,8 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-69",
-        "N-145",
-        "N-149"
+        "N-144",
+        "N-148"
       ]
     },
     {
@@ -775,7 +775,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-145"
+        "N-144"
       ]
     },
     {
@@ -799,7 +799,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-6",
-        "N-150"
+        "N-149"
       ]
     },
     {
@@ -829,9 +829,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-145",
         "N-146",
-        "N-147",
-        "N-148"
+        "N-147"
       ]
     },
     {
@@ -1132,8 +1132,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-312",
-      "ref": "N-312",
+      "@id": "N-311",
+      "ref": "N-311",
       "name": "Emmanuel Beerer",
       "type": "person",
       "description": "Likely the witness the host calls Emmanuel who works at Domo (uncertain match).",
@@ -1166,8 +1166,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-711",
-      "ref": "N-711",
+      "@id": "N-710",
+      "ref": "N-710",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "JFK; the host compares his assassination to the Kirk case.",
@@ -1585,8 +1585,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-795",
-      "ref": "N-795",
+      "@id": "N-794",
+      "ref": "N-794",
       "name": "Leo Frank",
       "type": "person",
       "description": "First named by the host at 00:03:10 in episode 14. Atlanta factory owner convicted in 1913 whom the host says the ADL was formed to defend.",
@@ -1605,8 +1605,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-796",
-      "ref": "N-796",
+      "@id": "N-795",
+      "ref": "N-795",
       "name": "Mary Phagan",
       "type": "person",
       "description": "First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical record). Victim the host says was a 13-year-old pencil factory worker.",
@@ -1624,8 +1624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-797",
-      "ref": "N-797",
+      "@id": "N-796",
+      "ref": "N-796",
       "name": "Scott Robbins",
       "type": "person",
       "description": "First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip whom the host says ran for Utah governor in 2024.",
@@ -1641,8 +1641,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-798",
-      "ref": "N-798",
+      "@id": "N-797",
+      "ref": "N-797",
       "name": "Greta Thunberg",
       "type": "person",
       "description": "First named by the host at 00:46:04 in episode 14, via a viewer comment. Activist the host says Israel's influence made out to be Hamas.",
@@ -1779,7 +1779,7 @@
       "investigative_direction": "Verify whether subsequent FBI conduct (training, intelligence sharing, embedded personnel) actually ceased; identify the operational scope of the prior FBI-ADL relationship.",
       "mentions_person_refs": [
         "N-69",
-        "N-149"
+        "N-148"
       ]
     },
     {
@@ -1831,7 +1831,7 @@
       "claim_timestamp": "00:11:32–00:13:03",
       "investigative_direction": "Verify directly via Connecticut property records and FBI facility listings; obtain original Kyle Undercover thread and supporting documentation.",
       "mentions_person_refs": [
-        "N-145"
+        "N-144"
       ]
     },
     {
@@ -1848,7 +1848,7 @@
       "claim_timestamp": "00:11:32–00:13:03",
       "investigative_direction": "Verify statistics against original property records and confirm category definitions (banking institution, law firm, Jewish institution).",
       "mentions_person_refs": [
-        "N-145"
+        "N-144"
       ]
     },
     {
@@ -1888,7 +1888,7 @@
       "investigative_direction": "Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records.",
       "mentions_person_refs": [
         "N-6",
-        "N-150",
+        "N-149",
         "N-40"
       ]
     },
@@ -1908,7 +1908,7 @@
       "claim_timestamp": "00:17:21–00:18:53",
       "investigative_direction": "Verify Bishop's sighting against charging-document timelines and UVU surveillance; cross-reference her statements with any forensic timeline evidence.",
       "mentions_person_refs": [
-        "N-146"
+        "N-145"
       ]
     },
     {
@@ -1955,7 +1955,7 @@
       "claim_timestamp": "00:36:30–00:37:30",
       "investigative_direction": "Verify original post and any associated official statements or security reports.",
       "mentions_person_refs": [
-        "N-147"
+        "N-146"
       ]
     },
     {
@@ -1972,7 +1972,7 @@
       "claim_timestamp": "00:46:40–00:47:20",
       "investigative_direction": "Verify original source (clip origin, show, date) and check for any associated public commentary.",
       "mentions_person_refs": [
-        "N-148"
+        "N-147"
       ]
     },
     {
@@ -2123,7 +2123,7 @@
       "investigative_direction": "Compare ADL and B'nai B'rith founding records (1913) with the Frank case history; note the host's characterization is hers alone.",
       "transcript_snippet": "Well, because they put the organization together to defend a pedophile and a murderer. His name is Leo Frank.",
       "mentions_person_refs": [
-        "N-795",
+        "N-794",
         "N-3"
       ]
     },
@@ -2144,8 +2144,8 @@
       "investigative_direction": "Check 1913 Georgia court and newspaper records of the Phagan case.",
       "transcript_snippet": "And Mary Fagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.",
       "mentions_person_refs": [
-        "N-796",
-        "N-795"
+        "N-795",
+        "N-794"
       ]
     },
     {
@@ -2165,7 +2165,7 @@
       "investigative_direction": "Review the 1913 trial record and appeals to the US Supreme Court.",
       "transcript_snippet": "he was so guilty of what happened that despite the fact that he tried to pin it on a poor black janitor.",
       "mentions_person_refs": [
-        "N-795"
+        "N-794"
       ]
     },
     {
@@ -2190,7 +2190,7 @@
         "C-7841"
       ],
       "mentions_person_refs": [
-        "N-795",
+        "N-794",
         "N-3"
       ]
     },
@@ -2213,7 +2213,7 @@
       "investigative_direction": "Confirm the book, its author and relationship to the victim.",
       "transcript_snippet": "there's a book called The Murder of Little Mary Fagan, and it is written by a relative of hers.",
       "mentions_person_refs": [
-        "N-796",
+        "N-795",
         "N-3"
       ]
     },
@@ -2472,7 +2472,7 @@
       "investigative_direction": "Confirm the tip's origin and whether other eyewitnesses reported seeing the limp.",
       "transcript_snippet": "Anyways, the name uh that we had received was it turned out somebody that actually provided the only eyewitness testimony of having seen the shooter up close limping.",
       "mentions_person_refs": [
-        "N-146",
+        "N-145",
         "N-3"
       ]
     },
@@ -2496,7 +2496,7 @@
         "C-7857"
       ],
       "mentions_person_refs": [
-        "N-146",
+        "N-145",
         "N-3"
       ]
     },
@@ -2518,7 +2518,7 @@
       "investigative_direction": "Confirm Bishop's employment with the Orem Police Department through department staffing records.",
       "transcript_snippet": "It turns out that she works for the Oram Police Department. She's a record specialist.",
       "mentions_person_refs": [
-        "N-146",
+        "N-145",
         "N-3"
       ]
     },
@@ -2542,7 +2542,7 @@
       "investigative_direction": "Locate the department's Facebook post and its staffing change roster for August 2025.",
       "transcript_snippet": "in August, you're going to believe this, they kind of lost a lot of people that were working at the department.",
       "mentions_person_refs": [
-        "N-146"
+        "N-145"
       ]
     },
     {
@@ -2583,7 +2583,7 @@
       "investigative_direction": "Check Bishop's work schedule and leave records for September 10, 2025.",
       "transcript_snippet": "Another thing that we were able to learn is that she met up with her husband.",
       "mentions_person_refs": [
-        "N-146",
+        "N-145",
         "N-3"
       ]
     },
@@ -2605,7 +2605,7 @@
       "investigative_direction": "Obtain the text exchange and any statement Bishop gave to investigators.",
       "transcript_snippet": "She says that was it. She just wanted to speak right there. Give her testimony and that she gave the appropriate information to the appropriate authorities.",
       "mentions_person_refs": [
-        "N-146",
+        "N-145",
         "N-3"
       ]
     },
@@ -2735,7 +2735,7 @@
       "investigative_direction": "Confirm the witness's identity and employment at Domo through LinkedIn and company records.",
       "transcript_snippet": "he works for Domo Incorporated. History is that he is a software engineer, a technic advis technical adviser.",
       "mentions_person_refs": [
-        "N-312"
+        "N-311"
       ]
     },
     {
@@ -2779,7 +2779,7 @@
       "investigative_direction": "Check Utah 2024 gubernatorial filings for Scott Robbins.",
       "transcript_snippet": "well, he was also a gubernatorial candidate. He ran for governor of Utah in 2024.",
       "mentions_person_refs": [
-        "N-797"
+        "N-796"
       ]
     },
     {
@@ -2862,7 +2862,7 @@
       "investigative_direction": "Compare with documented JFK-era records; note the FARA link is the host's characterization.",
       "transcript_snippet": "I think he was surrounded. I think he was infiltrated and then they got rid of him because of wrong think.",
       "mentions_person_refs": [
-        "N-711",
+        "N-710",
         "N-3"
       ]
     },
@@ -3025,7 +3025,7 @@
       ],
       "mentions_person_refs": [
         "N-6",
-        "N-150"
+        "N-149"
       ]
     },
     {
@@ -3172,7 +3172,7 @@
         "C-1364"
       ],
       "mentions_person_refs": [
-        "N-147",
+        "N-146",
         "N-9"
       ]
     },
@@ -3382,7 +3382,7 @@
       "investigative_direction": "Find the Time cover and the octopus image controversy.",
       "transcript_snippet": "they like put her on the cover of Time and then suddenly they were like she had an octopus in a picture and they basically said she's Hamas",
       "mentions_person_refs": [
-        "N-798"
+        "N-797"
       ]
     },
     {

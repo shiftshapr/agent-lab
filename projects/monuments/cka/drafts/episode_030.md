@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 0d2f2dbc9465930cb84c2b757b75f17ff20dc8778189c037661661ce3f8fbc84
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-853, N-11232, N-11233, N-11234, N-11235
-  - Hole-minted Nodes (reintro-ep030): N-263, N-10248, N-10770, N-10817, N-10870
+  - Tip-minted Nodes (supplement_2026-10d): N-852, N-11232, N-11233, N-11234, N-11235
+  - Hole-minted Nodes (reintro-ep030): N-262, N-10248, N-10770, N-10817, N-10870
   - Tip-minted Nodes (reintro-ep030): N-11080, N-11121
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9698–C-9764
-  - New Nodes Introduced: N-248, N-249, N-250, N-10244, N-10245
-  - Reused Nodes Appearing: N-3, N-1, N-192, N-17, N-99, N-14, N-55, N-10243, N-11, N-20, N-38, N-117, N-120, N-180, N-229, N-327, N-10004, N-10012, N-10015, N-10023, N-10026, N-10027, N-10047, N-10063, N-10100, N-10131, N-10132, N-10162, N-10193, N-10196, N-10198, N-10237, N-10345, N-10434, N-10436, N-11064, N-11167, N-11171, N-10346, N-11084
+  - New Nodes Introduced: N-247, N-248, N-249, N-10244, N-10245
+  - Reused Nodes Appearing: N-3, N-1, N-191, N-17, N-99, N-14, N-55, N-10243, N-11, N-20, N-38, N-117, N-120, N-179, N-228, N-326, N-10004, N-10012, N-10015, N-10023, N-10026, N-10027, N-10047, N-10063, N-10100, N-10131, N-10132, N-10162, N-10193, N-10196, N-10198, N-10237, N-10345, N-10434, N-10436, N-11064, N-11167, N-11171, N-10346, N-11084
   - (see registers)
 
 ## 2. Executive Summary
@@ -96,7 +96,7 @@ Video Timestamp: 00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1672, C-1673, N-7, N-210, N-248*
+*Related: C-1672, C-1673, N-7, N-209, N-247*
 
 **A-1383.2** Photograph of Charlie Kirk, Frank Turek, and Butch Hibbs, stated to have been taken approximately 20 minutes before the shooting.
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:32:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1674, N-7, N-210, N-248, N-1*
+*Related: C-1674, N-7, N-209, N-247, N-1*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:32:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1672, N-210, N-10244*
+*Related: C-1672, N-209, N-10244*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1677, N-214, N-249, N-69*
+*Related: C-1677, N-213, N-248, N-69*
 
 **A-1385.2** Hen Mazig X post dated September 14, 2025 describing the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1678, N-250*
+*Related: C-1678, N-249*
 
 **A-1385.3** Elijah Schaefer X post of a photograph of Alexis Wilkins and Kash Patel, posted in response to the Hen Mazig X post.
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1679, N-249, N-214, N-69*
+*Related: C-1679, N-248, N-213, N-69*
 
 ---
 
@@ -168,7 +168,7 @@ Video Timestamp: 00:37:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1680, N-69, N-214*
+*Related: C-1680, N-69, N-213*
 
 ---
 
@@ -339,7 +339,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-210** Jack Hibbs
+**N-209** Jack Hibbs
 
 Pastor of a Calvary Chapel in California; identified as Butch Hibbs' brother by Frank Turek.
 
@@ -352,7 +352,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-248** Butch Hibbs
+**N-247** Butch Hibbs
 
 Identified as the "old man talking to a bush" at the UVU venue pre-event; brother of Pastor Jack Hibbs; photographed with Charlie Kirk approximately 20 minutes before the shooting.
 
@@ -378,7 +378,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-214** Alexis Wilkins
+**N-213** Alexis Wilkins
 
 Plaintiff in the $5 million lawsuit against content creators including Elijah Schaefer; subject of the Hen Mazig post and the Schaefer photograph response.
 
@@ -391,7 +391,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-249** Elijah Schaefer
+**N-248** Elijah Schaefer
 
 Content creator defendant in the Alexis Wilkins lawsuit; posted photograph of Wilkins and Patel in response to Hen Mazig X post.
 
@@ -404,7 +404,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-250** Hen Mazig
+**N-249** Hen Mazig
 
 Ex-user (X account holder) who published the September 14, 2025 post describing female Mossad agents in Israeli intelligence operations against Iran.
 
@@ -452,7 +452,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1383.1, A-1383.2, A-1384.1, C-1672, N-248*
+*Related: A-1383.1, A-1383.2, A-1384.1, C-1672, N-247*
 
 ---
 
@@ -465,7 +465,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1385.1, A-1385.2, A-1385.3, C-1677, C-1678, C-1679, N-214, N-249, N-250*
+*Related: A-1385.1, A-1385.2, A-1385.3, C-1677, C-1678, C-1679, N-213, N-248, N-249*
 
 ---
 
@@ -764,7 +764,7 @@ Named by the host regarding Mikey's call, the school and the lawsuit.
 
 ---
 
-**N-180** Jared Kushner
+**N-179** Jared Kushner
 
 Named in the host's Gaza casino remark.
 
@@ -772,7 +772,7 @@ Named in the host's Gaza casino remark.
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 The host questions his name, calls, family and role.
 
@@ -804,7 +804,7 @@ The clip of his backstage account of Kirk.
 
 ---
 
-**N-229** Allie Beth Stuckey
+**N-228** Allie Beth Stuckey
 
 Transcribed Allie Beth Stuckey; mentioned among critics who tried to debunk the host.
 
@@ -812,7 +812,7 @@ Transcribed Allie Beth Stuckey; mentioned among critics who tried to debunk the 
 
 ---
 
-**N-263** Terrell Farnsworth
+**N-262** Terrell Farnsworth
 
 The AV staffer in the camera and SD card items.
 
@@ -828,7 +828,7 @@ Speaks for herself.
 
 ---
 
-**N-327** Tim Ballard
+**N-326** Tim Ballard
 
 Former head of Operation Underground, introduced to the host via Streit.
 
@@ -860,7 +860,7 @@ Named by the host regarding the Shapiro bad-blood claim.
 
 ---
 
-**N-853** Austin Erickson
+**N-852** Austin Erickson
 
 First named by the host at 00:22:40 in episode 30 (spelled Austin Ericson in the transcript). TPUSA staffer addressed with Dylan Erickson.
 Aliases: Austin Ericson
@@ -984,7 +984,7 @@ Claim Timestamp: 00:32:57
 Claim: The host says the previously anonymous older man seen near a bush at the UVU amphitheater before Charlie Kirk arrived is Butch Hibbs, citing a clip in which Frank Turek identifies Butch Hibbs as the brother of Pastor Jack Hibbs.
 
 Anchored Artifacts: A-1383.1, A-1384.1
-Mentions: N-7, N-248, N-1, N-210
+Mentions: N-7, N-247, N-1, N-209
 
 Related Nodes: N-10244
 
@@ -999,7 +999,7 @@ Claim Timestamp: 00:33:00
 Claim: Frank Turek stated that Butch Hibbs is the brother of Pastor Jack Hibbs.
 
 Anchored Artifacts: A-1383.1
-Mentions: N-210, N-248, N-7
+Mentions: N-209, N-247, N-7
 
 
 Investigative Direction: Obtain independent genealogical or institutional records (Calvary Chapel directories) confirming the sibling relationship.
@@ -1013,7 +1013,7 @@ Claim Timestamp: 00:32:57
 Claim: In a clip the host plays, Frank Turek says a photograph of Butch Hibbs, Charlie Kirk, and himself was taken maybe 20 minutes before the shooting of Charlie Kirk.
 
 Anchored Artifacts: A-1383.2
-Mentions: N-1, N-7, N-248
+Mentions: N-1, N-7, N-247
 
 
 Investigative Direction: Obtain the original photograph with EXIF metadata and any photographer's contemporaneous timestamp.
@@ -1056,7 +1056,7 @@ Claim Timestamp: 00:37:38
 Claim: The host says Alexis Wilkins filed a $5 million lawsuit against Elijah Schaefer and other content creators over honeypot allegations related to her relationship with Kash Patel.
 
 Anchored Artifacts: A-1385.1
-Mentions: N-69, N-214, N-249
+Mentions: N-69, N-213, N-248
 
 Related Nodes: N-10245
 
@@ -1071,7 +1071,7 @@ Claim Timestamp: 00:37:38
 Claim: Per the lawsuit the host reads, a September 14, 2025 X post by Hen Mazig described the prominent role of female Mossad agents in Israeli intelligence efforts against Iran, including by seducing top officials.
 
 Anchored Artifacts: A-1385.2
-Mentions: N-250
+Mentions: N-249
 
 
 Investigative Direction: Verify the original Hen Mazig post via archived snapshots and any subsequent posts by Mazig on the same topic.
@@ -1085,7 +1085,7 @@ Claim Timestamp: 00:37:38
 Claim: Per the lawsuit the host reads, Elijah Schaefer responded to the Hen Mazig X post by posting a photograph of Alexis Wilkins and Kash Patel.
 
 Anchored Artifacts: A-1385.3
-Mentions: N-69, N-214, N-249, N-250
+Mentions: N-69, N-213, N-248, N-249
 
 
 Investigative Direction: Obtain the original Schaefer post and timestamp via archived snapshots.
@@ -1099,7 +1099,7 @@ Claim Timestamp: 00:36:39
 Claim: The host says Kash Patel tweeted that people should leave his girlfriend alone and called Alexis Wilkins his "life partner".
 
 Anchored Artifacts: A-1386.1
-Mentions: N-69, N-214
+Mentions: N-69, N-213
 
 
 Investigative Direction: Obtain the original Patel posts and timestamps; verify any prior public statements on the relationship.
@@ -1129,7 +1129,7 @@ Claim: The host recaps what she calls verifiable lies told by Turning Point USA:
 Transcript Snippet: That's a lie told by Pastor Rob McCoy.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-192, N-17, N-99, N-14, N-55
+Mentions: N-3, N-1, N-191, N-17, N-99, N-14, N-55
 Related Nodes: N-10000
 Investigative Direction: Check each listed statement against its original source and date; record any retractions or corrections.
 
@@ -1387,7 +1387,7 @@ Claim: The host says it is a lie that Mikey McCoy called his dad first and that 
 Transcript Snippet: Lie number five, the magnificent Mikey McCoy called his dad first. That's a lie. Rob McCoy told that lie.
 
 Anchored Artifacts: 
-Mentions: N-192, N-17, N-3
+Mentions: N-191, N-17, N-3
 Related Nodes: N-10193, N-10198
 Tags: relevance:core
 Investigative Direction: Compare Rob McCoy's account with Mikey McCoy's phone call log for September 10, 2025.
@@ -1403,7 +1403,7 @@ Claim: The host says it is not true that Terrell, the AV staffer, was told by po
 Transcript Snippet: Terrell, the AV guy, uh, was told to remove the cameras by police. That's not true. I have every second of his moves.
 
 Anchored Artifacts: 
-Mentions: N-263, N-11, N-3
+Mentions: N-262, N-11, N-3
 Related Nodes: N-10346, N-10100
 Contradicts: C-1366
 Tags: relevance:core
@@ -1420,7 +1420,7 @@ Claim: The host says Andrew Kolvet's explanation that Terrell moved the SD cards
 Transcript Snippet: Terrell moved the SD cards because people were stealing hats. Andrew Kolvet, what if you were scared about people stealing?
 
 Anchored Artifacts: 
-Mentions: N-263, N-14
+Mentions: N-262, N-14
 Related Nodes: N-10100, N-10162
 Contradicts: C-1369
 Tags: relevance:core
@@ -1470,7 +1470,7 @@ Claim: The host says Mikey McCoy's actions were limited to quick phone calls tha
 Transcript Snippet: to be a hero, you can't just make quick phone calls. I don't know. I I mean, and not include 911 in that list.
 
 Anchored Artifacts: 
-Mentions: N-192
+Mentions: N-191
 Related Nodes: N-10193, N-10198
 Tags: relevance:core
 Investigative Direction: Obtain Mikey McCoy's call log and the 911 call records for September 10, 2025.
@@ -1486,7 +1486,7 @@ Claim: The host says she was on tour with Turning Point USA every single semeste
 Transcript Snippet: I was on tour every single semester, okay, up until June of 2024
 
 Anchored Artifacts: 
-Mentions: N-3, N-229, N-1
+Mentions: N-3, N-228, N-1
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Check TPUSA tour schedules and past event listings for the host's appearances through June 2024.
@@ -1569,7 +1569,7 @@ Claim: The host says she knows Mikey McCoy's wife is one of Turning Point USA's 
 Transcript Snippet: I know, by the way, that Mikey McCoy's wife is one of the events directors.
 
 Anchored Artifacts: 
-Mentions: N-192, N-3
+Mentions: N-191, N-3
 Related Nodes: N-11233, N-10000, N-10243
 Tags: relevance:core
 Investigative Direction: Check TPUSA staff listings and obtain the events department org chart for 2025.
@@ -1585,7 +1585,7 @@ Claim: The host says she received a tip from someone who knew Pastor Rob McCoy i
 Transcript Snippet: some of us have been speaking and we had never heard of a Mikey McCoy, like his son Mikey McCoy.
 
 Anchored Artifacts: 
-Mentions: N-17, N-192, N-3
+Mentions: N-17, N-191, N-3
 Related Nodes: N-11233
 Tags: relevance:core
 Investigative Direction: Interview Thousand Oaks church members and check school and church records for Rob McCoy's children.
@@ -1601,7 +1601,7 @@ Claim: The host says someone inside Turning Point told her that Mikey, or Michae
 Transcript Snippet: somebody on the inside of Turning Point told me that Mikey or or Michael rather uh is not his first name. It's a middle name
 
 Anchored Artifacts: 
-Mentions: N-192, N-3
+Mentions: N-191, N-3
 Related Nodes: N-11233
 Tags: relevance:core
 Investigative Direction: Check birth, school and licensing records for the legal name of Rob McCoy's son.
@@ -1617,7 +1617,7 @@ Claim: The host asks viewers who know Mikey McCoy's real name to email more tips
 Transcript Snippet: So, if you have that information, please email more tips@canniswowens. com.
 
 Anchored Artifacts: A-3027.2
-Mentions: N-192, N-3
+Mentions: N-191, N-3
 Related Nodes: N-11233
 Tags: relevance:core
 Investigative Direction: Receive tips on Mikey McCoy's legal name.
@@ -1633,7 +1633,7 @@ Claim: The host addresses Dylan Erickson and Austin Erickson, whom she calls the
 Transcript Snippet: I have known every word that you have said about me, okay? And I have been investigating you guys for two months straight.
 
 Anchored Artifacts: 
-Mentions: N-20, N-853, N-3
+Mentions: N-20, N-852, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Verify employment status of both brothers with TPUSA and review the host's file.
@@ -1649,7 +1649,7 @@ Claim: The host says the Erickson brothers were involved in bringing on a major 
 Transcript Snippet: your involvement with bringing that sponsor on. Things got a little different once they were brought on. Demands got interesting.
 
 Anchored Artifacts: 
-Mentions: N-20, N-853, N-1
+Mentions: N-20, N-852, N-1
 Related Nodes: N-10870, N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the sponsorship contracts and identify who introduced the sponsor; transcript spelling 'Rei' is possibly Why Refi.
@@ -1665,7 +1665,7 @@ Claim: The host alleges Dylan and Austin Erickson were involved in creating an a
 Transcript Snippet: the lie, the alibi lie for the Hampton's retreat with Seth Dillon. Um, you lied.
 
 Anchored Artifacts: 
-Mentions: N-20, N-853, N-38, N-3
+Mentions: N-20, N-852, N-38, N-3
 Related Nodes: N-10027, N-10345
 Supports: C-1173
 Tags: relevance:core
@@ -1828,7 +1828,7 @@ Claim: The host says Pastor Jack Hibbs leads a Calvary Chapel in California and 
 Transcript Snippet: Butch Hibbs is also his brother who's involved in a Calvary Chapel church in Utah.
 
 Anchored Artifacts: A-1383.1
-Mentions: N-210, N-248
+Mentions: N-209, N-247
 Related Nodes: N-10248
 Supports: C-1673
 Tags: relevance:core
@@ -1845,7 +1845,7 @@ Claim: The host says Butch Hibbs is behind Charlie Kirk when Kirk gets out of hi
 Transcript Snippet: he's behind Charlie when he gets out of the car. Like Charlie comes out of his car, arrives for the event. He's with the amazing Mikey McCoy.
 
 Anchored Artifacts: 
-Mentions: N-248, N-1, N-192
+Mentions: N-247, N-1, N-191
 Related Nodes: N-10817, N-10244
 Tags: relevance:core
 Investigative Direction: Review arrival footage at the UVU drop-off area to confirm who was beside and behind Kirk.
@@ -1861,7 +1861,7 @@ Claim: In the clip, Frank Turek says that on arrival they prayed, got out of the
 Transcript Snippet: So we get there, we pray, we get out of the car, there's a whole bunch of TPUSA leaders there that want to pose for pictures.
 
 Anchored Artifacts: A-1383.1
-Mentions: N-7, N-1, N-248
+Mentions: N-7, N-1, N-247
 Tags: relevance:core
 Investigative Direction: Obtain Turek's full interview and arrival photos with metadata to establish the sequence.
 
@@ -1876,7 +1876,7 @@ Claim: The host says the Hibbs family is a military family and that Butch Hibbs 
 Transcript Snippet: Hibs are from a military family. Okay. Uh Butch senior was in the Navy.
 
 Anchored Artifacts: 
-Mentions: N-248, N-210
+Mentions: N-247, N-209
 Related Nodes: N-10436
 Tags: relevance:core
 Investigative Direction: Search military service records for any Hibbs family members.
@@ -1892,7 +1892,7 @@ Claim: The host says Jack Hibbs was someone Marissa Streit flagged for her as a 
 Transcript Snippet: Jack Hibbs was somebody that Marissa Flag for me that she wanted me to have on my show
 
 Anchored Artifacts: 
-Mentions: N-210, N-117, N-3
+Mentions: N-209, N-117, N-3
 Related Nodes: N-10131
 Tags: relevance:context
 Investigative Direction: Ask the host for the original communication from PragerU about Hibbs.
@@ -1908,7 +1908,7 @@ Claim: The host says the man who runs, or ran, Operation Underground before a sc
 Transcript Snippet: also was introduced to me by Visha Stray.
 
 Anchored Artifacts: 
-Mentions: N-327, N-117, N-3
+Mentions: N-326, N-117, N-3
 Related Nodes: N-11167, N-10131
 Tags: relevance:context
 Investigative Direction: Confirm the introduction timeline between PragerU, Streit and Ballard from the host's records.
@@ -1924,7 +1924,7 @@ Claim: The host says Kash Patel left his wife and has been with Alexis Wilkins f
 Transcript Snippet: Like you left your wife, you've been with this girl for like a year and a half.
 
 Anchored Artifacts: A-1386.1
-Mentions: N-69, N-214
+Mentions: N-69, N-213
 Related Nodes: N-10245
 Tags: relevance:tangential
 Investigative Direction: Check public reporting on Patel's marital status and the start of the relationship.
@@ -1940,7 +1940,7 @@ Claim: As read by the host, the Wilkins complaint says that since Kash Patel bec
 Transcript Snippet: Ever since Kash Patel was appointed as director of the FBI in February of 2025, the conspiratorial corners of the internet and social media have been spreading a false narrative that Ms. Wilkins is an Israeli MSAD agent
 
 Anchored Artifacts: A-1385.1
-Mentions: N-214, N-69
+Mentions: N-213, N-69
 Related Nodes: N-10245, N-10015
 Supports: C-1677
 Tags: relevance:context
@@ -1957,7 +1957,7 @@ Claim: The host says that in some circumstances the defendants did not explicitl
 Transcript Snippet: they didn't even explicitly call her a honeypot. They just posted a picture.
 
 Anchored Artifacts: A-1385.3
-Mentions: N-249, N-214
+Mentions: N-248, N-213
 Related Nodes: N-10245
 Supports: C-1679
 Tags: relevance:context
@@ -1974,7 +1974,7 @@ Claim: The host says that because Alexis Wilkins filed the lawsuit she did so wi
 Transcript Snippet: means that she did this with the blessing of her quote unquote life partner, Kash Patel. He knew this was happening.
 
 Anchored Artifacts: A-1385.1
-Mentions: N-214, N-69
+Mentions: N-213, N-69
 Related Nodes: N-10245
 Tags: relevance:context
 Investigative Direction: Seek any Patel statement on whether he knew of or approved the filing; the host offers this as an inference.
@@ -1990,7 +1990,7 @@ Claim: The host says Alexis Wilkins might not be a honeypot, that the host has n
 Transcript Snippet: I don't know. I've never made that claim.
 
 Anchored Artifacts: 
-Mentions: N-214, N-3
+Mentions: N-213, N-3
 Related Nodes: N-10245
 Tags: relevance:context
 Investigative Direction: Review the host's earlier remarks about Wilkins for any statement that conflicts with this disclaimer.
@@ -2006,7 +2006,7 @@ Claim: The host says the only support for the honeypot idea is people saying Ale
 Transcript Snippet: people saying she works for Marissa Streit Prageru who uh you know she's formerly of the IDF intelligence unit.
 
 Anchored Artifacts: 
-Mentions: N-214, N-117
+Mentions: N-213, N-117
 Related Nodes: N-10131, N-10245
 Tags: relevance:context
 Investigative Direction: Check Wilkins's employment history and Streit's biography for any PragerU role or IDF service.
@@ -2022,7 +2022,7 @@ Claim: The host reads a live-chat comment saying Mikey McCoy went to Oaks Christ
 Transcript Snippet: It looks like Mikey McCoy went to Oaks Christian in Thousand Oaks.
 
 Anchored Artifacts: A-3028.1
-Mentions: N-192
+Mentions: N-191
 Related Nodes: N-11234
 Tags: relevance:context
 Investigative Direction: Verify through Oaks Christian alumni listings or yearbooks.
@@ -2086,7 +2086,7 @@ Claim: The host says Turning Point USA figures are gaslighting by pretending the
 Transcript Snippet: And they're just trying to gaslight us to pretend like their behavior is normal.
 
 Anchored Artifacts: 
-Mentions: N-17, N-192, N-3
+Mentions: N-17, N-191, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Opinion framing; no direct test, retained for context.
@@ -2102,7 +2102,7 @@ Claim: The host says all the leaks come from people at Turning Point USA who lov
 Transcript Snippet: who have intimately let me know the things that the Ericson brothers are doing and saying and texting, and I I just have a file of all of it because of people at Turning Point USA
 
 Anchored Artifacts: 
-Mentions: N-20, N-853, N-3, N-1
+Mentions: N-20, N-852, N-3, N-1
 Related Nodes: N-10000, N-11084
 Tags: relevance:core
 Investigative Direction: Not independently testable beyond the host's file; seek corroboration from other former TPUSA staff.
@@ -2198,7 +2198,7 @@ Claim: The host says Trump needs a casino, Jared is doing deals, and they want b
 Transcript Snippet: Trump needs a casino, right? Uh Jared's doing deals. They want they want beachfront properties.
 
 Anchored Artifacts: 
-Mentions: N-180, N-3
+Mentions: N-179, N-3
 Related Nodes: N-10063
 Tags: relevance:tangential
 Investigative Direction: Review reporting on Gaza redevelopment proposals and Kushner's business interests.

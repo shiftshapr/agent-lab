@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 3c1f69671097bccc2394ca45fe92d4ded01f6adc3908c9f3aa68a3f9797749b9
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-913, N-11335
+  - Tip-minted Nodes (supplement_2026-10f): N-912, N-11335
   - Tip-minted Nodes (reintro-ep042): N-11057
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12417–C-12476
@@ -38,8 +38,8 @@ Episode 42 Ledger Summary
 
 - Artifact Families Introduced: A-1501, A-1502, A-1503, A-1504, A-1505, A-1506, A-1507, A-1508, A-1509, A-1510, A-1511, A-1512
 - Claim Range: C-1839–C-1861
-  - New Nodes Introduced: N-310, N-311, N-313, N-10312, N-10313
-  - Reused Nodes Appearing: N-2, N-10311, N-312, N-10315, N-309, N-10314, N-11, N-22, N-30, N-61, N-69, N-75, N-280, N-284, N-10000, N-10275, N-10307
+  - New Nodes Introduced: N-309, N-310, N-312, N-10312, N-10313
+  - Reused Nodes Appearing: N-2, N-10311, N-311, N-10315, N-308, N-10314, N-11, N-22, N-30, N-61, N-69, N-75, N-279, N-283, N-10000, N-10275, N-10307
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -66,7 +66,7 @@ Video Timestamp: 00:04:20–00:05:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1839, C-1840, N-313, N-161, N-2, N-10313*
+*Related: C-1839, C-1840, N-312, N-160, N-2, N-10313*
 
 **A-1501.2** Segment: Blake Neff response – Erika Kirk direction and in-person rationale
 
@@ -76,7 +76,7 @@ Video Timestamp: 00:05:37–00:07:32
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1839, C-1840, C-1841, N-161, N-2, N-10313*
+*Related: C-1839, C-1840, C-1841, N-160, N-2, N-10313*
 
 **A-1502** TPUSA Phoenix Live Stream Announcement Bundle
 
@@ -88,7 +88,7 @@ Video Timestamp: 00:11:14–00:11:58
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1842, N-161, N-10313, N-2*
+*Related: C-1842, N-160, N-10313, N-2*
 
 **A-1503** The Game Song Bundle
 
@@ -100,7 +100,7 @@ Video Timestamp: 00:34:18–00:37:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1843, N-306, N-2*
+*Related: C-1843, N-305, N-2*
 
 **A-1504** John McCain Ukraine Speech Clip Bundle
 
@@ -124,7 +124,7 @@ Video Timestamp: 00:20:45–00:21:50
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1844, C-1847, N-10311, N-309, N-310*
+*Related: C-1844, C-1847, N-10311, N-308, N-309*
 
 **A-1505.2** Footage segment: Jacob Kasparian not ducking after shot
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:24:00–00:24:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1848, C-1849, N-309, N-10311*
+*Related: C-1848, C-1849, N-308, N-10311*
 
 **A-1505.3** Footage segment: Jacob Kasparian recording (grainy superimposition)
 
@@ -144,7 +144,7 @@ Video Timestamp: 00:25:00–00:25:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1849, N-309, N-10311*
+*Related: C-1849, N-308, N-10311*
 
 **A-1505.4** Jacob Kasparian earlier-day social media post (dyed blue shirt)
 
@@ -154,7 +154,7 @@ Video Timestamp: 00:24:50–00:25:25
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1850, N-309, N-10311*
+*Related: C-1850, N-308, N-10311*
 
 **A-1505.5** Adam Bartholomew live-stream footage (full event)
 
@@ -164,7 +164,7 @@ Video Timestamp: 00:26:30–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1851, C-1852, C-1853, N-310, N-311, N-10311*
+*Related: C-1851, C-1852, C-1853, N-309, N-310, N-10311*
 
 **A-1505.6** Video segment: a person holding a maroon shirt
 
@@ -186,7 +186,7 @@ Video Timestamp: 00:46:13–00:46:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1854, N-161, N-10313*
+*Related: C-1854, N-160, N-10313*
 
 **A-1507** Charlie Kirk Show Apple Podcasts Ranking Bundle
 
@@ -210,7 +210,7 @@ Video Timestamp: 00:32:42–00:33:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1856, N-312, N-10315*
+*Related: C-1856, N-311, N-10315*
 
 **A-1509** Roof Shooter Video Follow-up Bundle
 
@@ -246,7 +246,7 @@ Video Timestamp: 00:27:30–00:28:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1852, N-311, N-310, N-10311*
+*Related: C-1852, N-310, N-309, N-10311*
 
 **A-1512** Audience Comment Bundle
 
@@ -358,7 +358,7 @@ Investigative Pressure: High
 
 *Related: A-1501.1, A-1501.2, A-1503.1, A-1507.1, A-1512.1, C-1839, C-1843, C-1855*
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 TPUSA spokesperson featured in artifact-anchored audio segment and X post.
 
@@ -378,9 +378,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1501.1, A-1501.2, N-161, N-10313*
+*Related: A-1501.1, A-1501.2, N-160, N-10313*
 
-**N-306** The Game
+**N-305** The Game
 
 Recording artist whose track "The Assassination of Candace Owens" is presented in the episode.
 
@@ -391,7 +391,7 @@ Investigative Pressure: Low
 
 *Related: A-1503.1, C-1843, N-1*
 
-**N-309** Jacob Kasparian
+**N-308** Jacob Kasparian
 
 Individual identified in UVU September 10 footage by host; subject of non-ducking, recording, and clothing-change observations. Spelled "Jacob Kasparian" once in transcript – see Optional Flags.
 
@@ -402,7 +402,7 @@ Investigative Pressure: Medium
 
 *Related: A-1505.2, A-1505.3, A-1505.4, C-1848, C-1849, C-1850, N-10311*
 
-**N-310** Adam Bartholomew
+**N-309** Adam Bartholomew
 
 Live-streamer of the UVU event; identified in host's footage analysis.
 
@@ -411,9 +411,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.5, C-1851, C-1853, N-311, N-10311*
+*Related: A-1505.5, C-1851, C-1853, N-310, N-10311*
 
-**N-311** Carrie Bartholomew
+**N-310** Carrie Bartholomew
 
 Spouse of Adam Bartholomew; confirmed in her own social media post as being in the courtyard during the shot.
 
@@ -422,9 +422,9 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1511.1, C-1852, N-310, N-10311*
+*Related: A-1511.1, C-1852, N-309, N-10311*
 
-**N-312** Emmanuel Beerer
+**N-311** Emmanuel Beerer
 
 Eyewitness featured in PBS interview clip; host notes his selection by mainstream media.
 
@@ -435,7 +435,7 @@ Investigative Pressure: Medium
 
 *Related: A-1508.1, C-1856, N-10315*
 
-**N-313** "Gina" (Charlie Kirk Show caller)
+**N-312** "Gina" (Charlie Kirk Show caller)
 
 Caller who posed question to Blake Neff regarding invitation mechanics.
 
@@ -444,7 +444,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1501.1, N-161, N-10313*
+*Related: A-1501.1, N-160, N-10313*
 
 **N-10311** Maroon Shirt Pattern at UVU September 10 Event
 
@@ -455,7 +455,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1505.1, A-1505.2, A-1505.3, A-1505.4, A-1505.5, A-1505.6, A-1510.1, A-1511.1, C-1844, C-1847, C-1848, C-1849, C-1850, C-1851, C-1852, C-1853, C-1854, C-1860, N-309, N-310, N-311*
+*Related: A-1505.1, A-1505.2, A-1505.3, A-1505.4, A-1505.5, A-1505.6, A-1510.1, A-1511.1, C-1844, C-1847, C-1848, C-1849, C-1850, C-1851, C-1852, C-1853, C-1854, C-1860, N-308, N-309, N-310*
 
 **N-10312** Charlie Kirk Show Apple Podcasts Ranking Decline
 
@@ -477,7 +477,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-1839, C-1840, C-1841, C-1842, C-1854, C-1861, N-161, N-14, N-313, N-2*
+*Related: A-1501.1, A-1501.2, A-1502.1, A-1506.1, A-1512.1, C-1839, C-1840, C-1841, C-1842, C-1854, C-1861, N-160, N-14, N-312, N-2*
 
 **N-10314** Roof Shooter Video Witness Follow-up
 
@@ -499,7 +499,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1508.1, C-1856, N-312*
+*Related: A-1508.1, C-1856, N-311*
 
 ---
 
@@ -575,7 +575,7 @@ Cited by the host as an example of how a witness got a news hit.
 
 ---
 
-**N-280** Bari Weiss
+**N-279** Bari Weiss
 
 Subject of the comment and host remark about an interview of Erika Kirk.
 
@@ -583,7 +583,7 @@ Subject of the comment and host remark about an interview of Erika Kirk.
 
 ---
 
-**N-284** Adam Sosnick
+**N-283** Adam Sosnick
 
 Source of the remark the host attributes to him.
 
@@ -632,7 +632,7 @@ The host reports that a TikTok user claimed that, after he submitted videos shot
 
 ---
 
-**N-913** John McCain
+**N-912** John McCain
 
 First named by the host at 00:17:54 in episode 42; the host identifies him as the speaker in a clip addressing protesters in Ukraine.
 
@@ -649,7 +649,7 @@ Claim Timestamp: 00:05:37
 Claim: On the Charlie Kirk Show, Blake Neff stated that the invitation-response announcement and all related actions were taken at the request, direction, and approval of Erika Kirk.
 
 Anchored Artifacts: A-1501.2
-Mentions: N-2, N-161
+Mentions: N-2, N-160
 
 Related Nodes: N-10313
 
@@ -664,7 +664,7 @@ Claim Timestamp: 00:06:44
 Claim: On the Charlie Kirk Show, Blake Neff stated, "I think it's pretty intuitive that given what is being said ... it's critical to be in person if you want to be authentic and to be detailed."
 
 Anchored Artifacts: A-1501.2
-Mentions: N-161
+Mentions: N-160
 
 Related Nodes: N-10313
 
@@ -679,7 +679,7 @@ Claim Timestamp: 00:11:14
 Claim: In his earlier invitation statement (read aloud in this episode), Blake Neff said TPUSA would "sincerely welcome" Candace Owens's participation in a Phoenix live stream without explicit in-person requirement.
 
 Anchored Artifacts: A-1502.1
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 
 Related Nodes: N-10313
 
@@ -694,7 +694,7 @@ Claim Timestamp: 00:34:18
 Claim: The Game's song "The Assassination of Candace Owens" (audio excerpt and lyric read) includes the line "Who really killed Charlie Kirk?"
 
 Anchored Artifacts: A-1503.1
-Mentions: N-1, N-306, N-3
+Mentions: N-1, N-305, N-3
 
 
 Investigative Direction: Obtain the full released track and verify publication date, distribution platform, and producer credits.
@@ -737,7 +737,7 @@ Claim Timestamp: 00:46:13
 Claim: Blake Neff posted on X that the invitation was "not how you book a guest," that TPUSA "never said that we were" booking a guest, and that Candace "was given the opportunity to join and declined."
 
 Anchored Artifacts: A-1506.1
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 
 Related Nodes: N-10313
 
@@ -767,7 +767,7 @@ Claim Timestamp: 00:32:42–00:33:55
 Claim: PBS (and other networks, per host) featured Emmanuel Beerer as an eyewitness, with the interview conducted in Salt Lake City rather than at UVU.
 
 Anchored Artifacts: A-1508.1
-Mentions: N-312
+Mentions: N-311
 
 Related Nodes: N-10315
 
@@ -782,7 +782,7 @@ Claim Timestamp: 00:24:00–00:24:45
 Claim: The host says UVU footage shows Jacob Kasparian remaining upright and not ducking after the shot, briefly handling his phone and walking away.
 
 Anchored Artifacts: A-1505.2
-Mentions: N-309
+Mentions: N-308
 
 Related Nodes: N-10311
 
@@ -797,7 +797,7 @@ Claim Timestamp: 00:25:00–00:25:35
 Claim: The host says footage and a grainy superimposed image she shows depict Jacob Kasparian recording the event on his phone.
 
 Anchored Artifacts: A-1505.3
-Mentions: N-309
+Mentions: N-308
 
 Related Nodes: N-10311
 
@@ -812,7 +812,7 @@ Claim Timestamp: 00:24:50–00:25:25
 Claim: The host says Jacob Kasparian posted himself earlier on September 10 wearing a dyed blue shirt rather than the maroon shirt worn at UVU.
 
 Anchored Artifacts: A-1505.4
-Mentions: N-309
+Mentions: N-308
 
 Related Nodes: N-10311
 
@@ -827,7 +827,7 @@ Claim Timestamp: 00:26:30–00:28:00
 Claim: The host says Adam Bartholomew live-streamed the entire UVU event on September 10.
 
 Anchored Artifacts: A-1505.5
-Mentions: N-310
+Mentions: N-309
 
 Related Nodes: N-10311
 
@@ -842,7 +842,7 @@ Claim Timestamp: 00:27:30–00:28:00
 Claim: Carrie Bartholomew posted a tweet and accompanying photo confirming she was in the courtyard near the bush when the shot occurred.
 
 Anchored Artifacts: A-1511.1, A-1505.5
-Mentions: N-311
+Mentions: N-310
 
 Related Nodes: N-10311
 
@@ -857,7 +857,7 @@ Claim Timestamp: 00:27:51–00:28:00
 Claim: The host says that in his livestream footage Adam Bartholomew did not interrupt the broadcast to check on or locate his wife immediately after the shot.
 
 Anchored Artifacts: A-1505.5
-Mentions: N-310, N-311
+Mentions: N-309, N-310
 
 Related Nodes: N-10311
 
@@ -958,7 +958,7 @@ Claim Timestamp: 00:05:40
 Claim: In a clip the host plays, Blake Neff says Erika Kirk 'heads this'.
 
 Anchored Artifacts: A-1501.2
-Mentions: N-2, N-161
+Mentions: N-2, N-160
 
 Related Nodes: N-10313
 
@@ -973,7 +973,7 @@ Claim Timestamp: 00:07:32
 Claim: In a clip of The Charlie Kirk Show that the host plays, Blake Neff says a TPUSA response live stream is going forward and was announced for December 15 (2025).
 
 Anchored Artifacts: A-1501.2
-Mentions: N-161
+Mentions: N-160
 
 Related Nodes: N-10313
 
@@ -1006,7 +1006,7 @@ Claim: Caller Gina tells Blake Neff on the Charlie Kirk Show that, as she unders
 Transcript Snippet: it was issued Blake I think at 12 on a tweet that you had but or midnight 12 not noon midnight and so it was like nine hours later before she even knew
 
 Anchored Artifacts: A-1501.1
-Mentions: N-313, N-161, N-3
+Mentions: N-312, N-160, N-3
 Related Nodes: N-10313
 Supports: C-1832
 Tags: relevance:core
@@ -1023,7 +1023,7 @@ Claim: Blake Neff says TPUSA did not address the host's claims for a long time b
 Transcript Snippet: we initially just thought no one would believe a lot of what was being said and we also just we we remembered the same friendship that Charlie had
 
 Anchored Artifacts: A-1501.2
-Mentions: N-161, N-1, N-3
+Mentions: N-160, N-1, N-3
 Related Nodes: N-10313, N-10000
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA's earlier statements and staff messages about whether and when it chose not to respond.
@@ -1039,7 +1039,7 @@ Claim: Blake Neff says that when he read the initial statement on the show TPUSA
 Transcript Snippet: We actually hadn't agreed on it at the time I read the statement.
 
 Anchored Artifacts: A-1501.2
-Mentions: N-161
+Mentions: N-160
 Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Obtain the Wednesday show audio and any internal scheduling messages showing when December 15 was chosen.
@@ -1055,7 +1055,7 @@ Claim: Blake Neff says that once TPUSA announced the date, the host was free to 
 Transcript Snippet: once we announce it Candace is free to attend in person.
 
 Anchored Artifacts: A-1501.2
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Compare with the text of the original Wednesday statement to see whether in-person attendance was stated then.
@@ -1071,7 +1071,7 @@ Claim: Blake Neff says the host had said "you name the time, you name the place,
 Transcript Snippet: Candace for her part had said you name the time, you name the place. That is what we did.
 
 Anchored Artifacts: A-1501.2
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Find the host's earlier public statement or message using the phrase and compare it with the December announcement.
@@ -1087,7 +1087,7 @@ Claim: Blake Neff says he does not think the host had any difficulty finding out
 Transcript Snippet: I don't think she had any difficulty in finding out what our what our scheduled time was. It seems everyone found it out quite quickly.
 
 Anchored Artifacts: A-1501.2
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Check whether TPUSA sent the host or her team any direct notice before the public post.
@@ -1103,7 +1103,7 @@ Claim: The host says that Andrew Kolvet was live streaming with Blake Neff and w
 Transcript Snippet: He's like, "It's not authentic unless it's it's a person is in person and Andrew Kolvet is literally not in person as he's answering his questions."
 
 Anchored Artifacts: A-1501.2
-Mentions: N-14, N-161
+Mentions: N-14, N-160
 Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Watch the December 5 Charlie Kirk Show video to confirm whether Kolvet appeared remotely.
@@ -1168,7 +1168,7 @@ Claim: In the earlier statement the host reads aloud, Blake Neff says TPUSA woul
 Transcript Snippet: If Candace is available, we would sincerely welcome her participation in that live stream at our studio in Phoenix.
 
 Anchored Artifacts: A-1502.1
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 Related Nodes: N-10313, N-10307
 Supports: C-1841
 Tags: relevance:core
@@ -1185,7 +1185,7 @@ Claim: The host says that, if Erika Kirk approved the statement as Neff stated, 
 Transcript Snippet: she approved the statement that went out referring to people uh as Antifa members like making us akin to a basket of deplorables
 
 Anchored Artifacts: 
-Mentions: N-2, N-3, N-161
+Mentions: N-2, N-3, N-160
 Related Nodes: N-10313
 Supports: C-1839
 Tags: relevance:core
@@ -1265,7 +1265,7 @@ Claim: The host asserts that the 2014 Ukrainian uprising against Yanukovich, in 
 Transcript Snippet: when John McCain went over there and led the protesters in the streets, he was really representing the voice of the people. It was not another United States military color revolution.
 
 Anchored Artifacts: A-1504.1
-Mentions: N-913, N-3
+Mentions: N-912, N-3
 Tags: relevance:tangential
 Investigative Direction: Treat as the host's sweeping historical assertion; assess against documented accounts of the 2013 to 2014 events.
 
@@ -1280,7 +1280,7 @@ Claim: A clip the host identifies as John McCain addressing protesters in Ukrain
 Transcript Snippet: People of Ukraine, this is your moment.
 
 Anchored Artifacts: A-1504.1
-Mentions: N-913
+Mentions: N-912
 Tags: relevance:tangential
 Investigative Direction: Identify the source video and date of the McCain speech.
 
@@ -1295,7 +1295,7 @@ Claim: The host says she believes the Kirk assassination was about as organic as
 Transcript Snippet: that Charlie Kirk's assassination was about as organic as John McCain.
 
 Anchored Artifacts: A-1504.1
-Mentions: N-1, N-913, N-3
+Mentions: N-1, N-912, N-3
 Supports: C-12433
 Tags: relevance:core
 Investigative Direction: Treat as the host's belief; the analogy itself is not evidence.
@@ -1343,7 +1343,7 @@ Claim: The host says that when she got in touch with the same individual he sent
 Transcript Snippet: when I got in touch with this individual and he sent me the footage, my eye immediately gravitated towards another person who happened to be wearing maroon
 
 Anchored Artifacts: A-3206.1
-Mentions: N-3, N-309
+Mentions: N-3, N-308
 Related Nodes: N-11335, N-10311
 Tags: relevance:core
 Investigative Direction: Obtain the original footage and its metadata from the individual.
@@ -1376,7 +1376,7 @@ Claim: The host says she does not think Jacob Kasparian shot Charlie Kirk and th
 Transcript Snippet: I do not think he shot Harley Charlie Kirk
 
 Anchored Artifacts: A-1505.2
-Mentions: N-309, N-1, N-3
+Mentions: N-308, N-1, N-3
 Related Nodes: N-10311
 Tags: relevance:core
 Investigative Direction: Compare with the host's later statements about Kasparian.
@@ -1392,7 +1392,7 @@ Claim: The host says it is unusual that Jacob Kasparian attended the event alone
 Transcript Snippet: it's unusual that he attended the event alone.
 
 Anchored Artifacts: A-1505.2
-Mentions: N-309
+Mentions: N-308
 Related Nodes: N-10311
 Tags: relevance:core
 Investigative Direction: Review crowd footage for companions of Kasparian.
@@ -1408,7 +1408,7 @@ Claim: The host says Kasparian's earlier Facebook post of himself in a different
 Transcript Snippet: he had posted himself earlier that day at either 8:42 a. m. or 7:42 a. m.
 
 Anchored Artifacts: A-1505.4
-Mentions: N-309
+Mentions: N-308
 Related Nodes: N-10311
 Qualifies: C-1850
 Tags: relevance:core
@@ -1425,7 +1425,7 @@ Claim: The host says Kasparian was up high on the campus and was at a lower rung
 Transcript Snippet: He's up high. Um and then he's at the lower rung 2 minutes before Charlie gets shot.
 
 Anchored Artifacts: A-1505.3
-Mentions: N-309, N-1
+Mentions: N-308, N-1
 Related Nodes: N-10311
 Tags: relevance:core
 Investigative Direction: Track Kasparian's position through crowd footage in the two minutes before 12:23.
@@ -1441,7 +1441,7 @@ Claim: The host says none of Kasparian's family members posted anything about th
 Transcript Snippet: None of his family members posted anything about Charlie's assassination. He is active.
 
 Anchored Artifacts: 
-Mentions: N-309, N-1, N-3
+Mentions: N-308, N-1, N-3
 Related Nodes: N-10311
 Supports: C-9800
 Tags: relevance:tangential
@@ -1474,7 +1474,7 @@ Claim: The host says she had never said anything about Adam Bartholomew, had onl
 Transcript Snippet: I have never ever said anything about Adam Bartholomew. I have reviewed his footage, but people online were clocking him as suspicious.
 
 Anchored Artifacts: A-1505.5
-Mentions: N-310, N-3
+Mentions: N-309, N-3
 Related Nodes: N-10311
 Tags: relevance:context
 Investigative Direction: Check the host's earlier episodes for any mention of Bartholomew.
@@ -1490,7 +1490,7 @@ Claim: The host says she learned by accident that Adam Bartholomew's wife Carrie
 Transcript Snippet: his wife Carrie was there and she was standing by the bush actually almost directly near Jacob Kasparian.
 
 Anchored Artifacts: A-1511.1
-Mentions: N-311, N-310, N-309
+Mentions: N-310, N-309, N-308
 Related Nodes: N-10311
 Supports: C-1852
 Tags: relevance:core
@@ -1540,7 +1540,7 @@ Claim: The host says Emmanuel Beerer is a former employee of Oracle, a software 
 Transcript Snippet: he's a former employee of Oracle. He's in engineering. Uh, I believe he's from Germany from what I looked into.
 
 Anchored Artifacts: 
-Mentions: N-312, N-3
+Mentions: N-311, N-3
 Related Nodes: N-10315
 Tags: relevance:core
 Investigative Direction: Check public professional profiles for Beerer's employer history and location.
@@ -1556,7 +1556,7 @@ Claim: The host says Beerer attended the event but that she does not see any pho
 Transcript Snippet: he attended the event but somehow I don't see any photos of him at the event
 
 Anchored Artifacts: 
-Mentions: N-312, N-3
+Mentions: N-311, N-3
 Related Nodes: N-10315
 Supports: C-1847
 Tags: relevance:core
@@ -1590,7 +1590,7 @@ Claim: In the PBS clip Emmanuel Beerer says he heard a loud sound, did not think
 Transcript Snippet: I hear this loud sound and I'm like, "That wasn't what I thought it was, is it?" I was like, "No, this can't be happening right now." And we all ducked.
 
 Anchored Artifacts: A-1508.1
-Mentions: N-312
+Mentions: N-311
 Related Nodes: N-10315
 Tags: relevance:core
 Investigative Direction: Obtain the full PBS segment and the date it aired.
@@ -1606,7 +1606,7 @@ Claim: The host says that The Game has now dropped his mixtape with the song The
 Transcript Snippet: The Game dropped his album, his mixtape with the song The Assassination of Candace Owens on it
 
 Anchored Artifacts: A-1503.1
-Mentions: N-306, N-3
+Mentions: N-305, N-3
 Supports: C-1826
 Tags: relevance:context
 Investigative Direction: Check the release date and platform of the mixtape.
@@ -1622,7 +1622,7 @@ Claim: The host reads a lyric from the second verse, "his body is not yet settle
 Transcript Snippet: his body is not yet settled in the dirt. Why are you carrying on like that?
 
 Anchored Artifacts: A-1503.1
-Mentions: N-306, N-1
+Mentions: N-305, N-1
 Tags: relevance:tangential
 Investigative Direction: Verify the lyric against the released track.
 
@@ -1747,7 +1747,7 @@ Claim: The host reads a commenter who says Blake Neff was fired by Tucker Carlso
 Transcript Snippet: is a guy who was fired by Tucker Carlson for racist remarks.
 
 Anchored Artifacts: A-3205.3
-Mentions: N-161, N-22
+Mentions: N-160, N-22
 Related Nodes: N-11057
 Tags: relevance:context
 Investigative Direction: Check contemporaneous reporting on the circumstances of Neff's departure from Fox News; the host did not endorse the claim.
@@ -1763,7 +1763,7 @@ Claim: The host says she did not know that Blake Neff used to work for Tucker Ca
 Transcript Snippet: I actually didn't know that Blake Neff used to work for Tucker Carlson.
 
 Anchored Artifacts: A-3205.3
-Mentions: N-3, N-161, N-22
+Mentions: N-3, N-160, N-22
 Related Nodes: N-11057
 Tags: relevance:context
 Investigative Direction: Ask Carlson or his office about Neff's tenure on his program.
@@ -1779,7 +1779,7 @@ Claim: The host says she never declined an offer to join the live stream, disput
 Transcript Snippet: I never declined an offer to join your live stream.
 
 Anchored Artifacts: A-1506.1
-Mentions: N-3, N-161
+Mentions: N-3, N-160
 Related Nodes: N-10313
 Contradicts: C-1845
 Tags: relevance:core
@@ -1811,7 +1811,7 @@ Claim: The host says that according to Adam Sosnick, Tucker Carlson is her only 
 Transcript Snippet: According to Adam Sosnick, Tucker's my only friend.
 
 Anchored Artifacts: 
-Mentions: N-284, N-22, N-3
+Mentions: N-283, N-22, N-3
 Supports: C-1800
 Tags: relevance:tangential
 Investigative Direction: Compare with Sosnick's original remark.
@@ -1858,7 +1858,7 @@ Claim: The host says the entire introduction to the live stream announcement was
 Transcript Snippet: their entire introduction to this live stream was him speaking for 10 minutes and assassinating my character
 
 Anchored Artifacts: 
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 Related Nodes: N-10313
 Tags: relevance:core
 Investigative Direction: Time the Wednesday segment to test the ten-minute claim.
@@ -1874,7 +1874,7 @@ Claim: The host says Neff heavily implies that Erika Kirk sanctioned the stateme
 Transcript Snippet: I don't love the fact that he heavily implies that Erika sanctioned that he obviously didn't write it himself
 
 Anchored Artifacts: 
-Mentions: N-161, N-2, N-3
+Mentions: N-160, N-2, N-3
 Related Nodes: N-10313
 Supports: C-1839
 Tags: relevance:core
@@ -1907,7 +1907,7 @@ Claim: The host reads a commenter who says Bari Weiss is interviewing Erika Kirk
 Transcript Snippet: Bari Weiss is interviewing Erika Kirk on December 13th.
 
 Anchored Artifacts: A-3205.4
-Mentions: N-280, N-2
+Mentions: N-279, N-2
 Tags: relevance:context
 Investigative Direction: Check CBS announcements for the Weiss interview date.
 
@@ -1922,7 +1922,7 @@ Claim: The host says she saw some news about Bari Weiss sitting down with Erika 
 Transcript Snippet: I saw some news about uh Barry sitting down with her.
 
 Anchored Artifacts: 
-Mentions: N-280, N-2, N-3
+Mentions: N-279, N-2, N-3
 Supports: C-12474
 Tags: relevance:context
 Investigative Direction: Confirm the venue and date of the interview.

@@ -40,7 +40,7 @@
           "related_nodes": [
             "N-1",
             "N-2",
-            "N-488",
+            "N-487",
             "N-41",
             "N-10432",
             "N-10433",
@@ -72,7 +72,7 @@
             "C-2167"
           ],
           "related_nodes": [
-            "N-279",
+            "N-278",
             "N-10432",
             "N-10433"
           ],
@@ -104,9 +104,9 @@
             "C-2175"
           ],
           "related_nodes": [
+            "N-481",
             "N-482",
-            "N-483",
-            "N-484"
+            "N-483"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -133,10 +133,10 @@
             "C-2177"
           ],
           "related_nodes": [
+            "N-481",
             "N-482",
             "N-483",
-            "N-484",
-            "N-485"
+            "N-484"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -162,9 +162,9 @@
             "C-2178"
           ],
           "related_nodes": [
+            "N-485",
             "N-486",
-            "N-487",
-            "N-488"
+            "N-487"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -188,7 +188,7 @@
           "description": "Two-woman British-accent reaction clip directed at Brooklyn Beckham (\"go to bed,\" \"put it down\"), played on-air",
           "related_claims": [],
           "related_nodes": [
-            "N-482"
+            "N-481"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -215,8 +215,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-486",
-            "N-487"
+            "N-485",
+            "N-486"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -272,8 +272,8 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-483",
-            "N-886"
+            "N-482",
+            "N-885"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -312,8 +312,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian whose on-air assessment that TPUSA is primarily motivated by money is read into the episode record and adopted by the host.",
@@ -332,8 +332,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-482",
-      "ref": "N-482",
+      "@id": "N-481",
+      "ref": "N-481",
       "name": "Brooklyn Beckham",
       "type": "person",
       "description": "Source of the Instagram Stories artifact detailing family estrangement allegations.",
@@ -355,14 +355,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-483",
-        "N-484"
+        "N-482",
+        "N-483"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-483",
-      "ref": "N-483",
+      "@id": "N-482",
+      "ref": "N-482",
       "name": "Nicola Peltz",
       "type": "person",
       "description": "Spouse of Brooklyn Beckham; central figure in the wedding-dress and brand-rights grievance as recounted via A-1663.1.",
@@ -379,15 +379,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-482",
-        "N-484",
+        "N-481",
+        "N-483",
         "N-17"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-484",
-      "ref": "N-484",
+      "@id": "N-483",
+      "ref": "N-483",
       "name": "Victoria Beckham",
       "type": "person",
       "description": "Mother of Brooklyn Beckham; subject of multiple allegations in Brooklyn's IG stories and a participant in the Vogue-reported wedding timeline.",
@@ -406,13 +406,13 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-482"
+        "N-481"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-485",
-      "ref": "N-485",
+      "@id": "N-484",
+      "ref": "N-484",
       "name": "David Beckham",
       "type": "person",
       "description": "Father of Brooklyn Beckham; appears in the Vogue article's account of the wedding speeches.",
@@ -426,14 +426,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-482",
-        "N-484"
+        "N-481",
+        "N-483"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-486",
-      "ref": "N-486",
+      "@id": "N-485",
+      "ref": "N-485",
       "name": "Blake Lively",
       "type": "person",
       "description": "Named party in the Baldoni litigation; text-message correspondent with Taylor Swift per A-1665.1.",
@@ -451,14 +451,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-487",
-        "N-488"
+        "N-486",
+        "N-487"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-487",
-      "ref": "N-487",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Named party in the Lively litigation; subject of Taylor Swift's December 2024 text per A-1665.1.",
@@ -474,14 +474,14 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-486",
-        "N-488"
+        "N-485",
+        "N-487"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-488",
-      "ref": "N-488",
+      "@id": "N-487",
+      "ref": "N-487",
       "name": "Taylor Swift",
       "type": "person",
       "description": "Correspondent in the released text messages and subject of the host's strategic assessment.",
@@ -498,8 +498,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-486",
-        "N-487"
+        "N-485",
+        "N-486"
       ]
     },
     {
@@ -567,8 +567,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-188",
-      "ref": "N-188",
+      "@id": "N-187",
+      "ref": "N-187",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "TPUSA figure named in host's call for donations to TPUSA.",
@@ -612,11 +612,11 @@
       "related_nodes": [
         "N-1",
         "N-2",
-        "N-488",
+        "N-487",
         "N-41",
         "N-14",
         "N-15",
-        "N-188"
+        "N-187"
       ]
     },
     {
@@ -930,8 +930,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Blake Neff; named by the host in an open invitation to TPUSA people.",
@@ -947,8 +947,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-219",
-      "ref": "N-219",
+      "@id": "N-218",
+      "ref": "N-218",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Eliza McCoy (transcribed Elizabeth McCoy); the host speculates about her rising role at TPUSA.",
@@ -964,8 +964,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-239",
-      "ref": "N-239",
+      "@id": "N-238",
+      "ref": "N-238",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Glenn Beck; the host says Erika Kirk made her night-before statement to him.",
@@ -981,8 +981,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole; named by the host as one of the sources of conflicting drone answers.",
@@ -998,8 +998,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; the host says TPUSA told her Charlie also messaged him the night before.",
@@ -1015,8 +1015,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-361",
-      "ref": "N-361",
+      "@id": "N-360",
+      "ref": "N-360",
       "name": "Kim Kardashian",
       "type": "person",
       "description": "Kim Kardashian; the host says she released video receipts of the Kanye and Swift call.",
@@ -1032,8 +1032,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-544",
-      "ref": "N-544",
+      "@id": "N-543",
+      "ref": "N-543",
       "name": "Bella Hadid",
       "type": "person",
       "description": "Bella Hadid; named as the sister of Anwar Hadid.",
@@ -1260,8 +1260,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-884",
-      "ref": "N-884",
+      "@id": "N-883",
+      "ref": "N-883",
       "name": "Tree Paine",
       "type": "person",
       "description": "First named by the host at 00:24:22 in episode 61 (as 'Tree', Taylor Swift's publicist/agent). Surname inferred; the transcript gives only the first name.",
@@ -1277,8 +1277,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-885",
-      "ref": "N-885",
+      "@id": "N-884",
+      "ref": "N-884",
       "name": "Marc Anthony",
       "type": "person",
       "description": "First named by the host at 00:43:16 in episode 61 (transcribed 'Marc Anthony'). Singer the host says performed the late-night set at the Beckham wedding.",
@@ -1294,8 +1294,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-886",
-      "ref": "N-886",
+      "@id": "N-885",
+      "ref": "N-885",
       "name": "Marty Singer",
       "type": "person",
       "description": "First named by the host at 00:49:30 in episode 61. Lawyer the host says Nicola Peltz hired to sue a dog-grooming company.",
@@ -1311,8 +1311,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-887",
-      "ref": "N-887",
+      "@id": "N-886",
+      "ref": "N-886",
       "name": "Nelson Peltz",
       "type": "person",
       "description": "First named by the host at 00:51:35 in episode 61 (transcribed 'Nelson Pelts'). Father of Nicola Peltz; the host says he sued over a wedding contract.",
@@ -1328,8 +1328,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-888",
-      "ref": "N-888",
+      "@id": "N-887",
+      "ref": "N-887",
       "name": "Justin Anderson",
       "type": "person",
       "description": "First named by the host at 00:50:27 in episode 61. Hair stylist the host says called Nicola Peltz awful.",
@@ -1345,8 +1345,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-889",
-      "ref": "N-889",
+      "@id": "N-888",
+      "ref": "N-888",
       "name": "Selena Gomez",
       "type": "person",
       "description": "First named by the host at 00:51:35 in episode 61. The host says her friendship with Nicola Peltz fell apart.",
@@ -1362,8 +1362,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-890",
-      "ref": "N-890",
+      "@id": "N-889",
+      "ref": "N-889",
       "name": "Anwar Hadid",
       "type": "person",
       "description": "First named by the host at 00:51:35 in episode 61 (transcribed 'Anwar Hadid'). The host says he dated Nicola Peltz.",
@@ -1604,7 +1604,7 @@
       "claim_timestamp": "00:04:39",
       "investigative_direction": "Identify the original Tim Dillon episode and timestamp for the quoted clip.",
       "mentions_person_refs": [
-        "N-279",
+        "N-278",
         "N-3"
       ]
     },
@@ -1626,7 +1626,7 @@
       "claim_timestamp": "00:04:39–00:06:17",
       "investigative_direction": "Track whether TPUSA's subsequent filings cite financial damages as a measurable injury.",
       "mentions_person_refs": [
-        "N-279",
+        "N-278",
         "N-3"
       ]
     },
@@ -1702,7 +1702,7 @@
       "claim_timestamp": "00:34:18",
       "investigative_direction": "Obtain the original Stories frames before deletion if preservation has not yet occurred.",
       "mentions_person_refs": [
-        "N-482"
+        "N-481"
       ]
     },
     {
@@ -1719,9 +1719,9 @@
       "claim_timestamp": "00:36:14–00:37:33",
       "investigative_direction": "Obtain any contemporaneous communications or receipts relevant to the dress commission timeline.",
       "mentions_person_refs": [
+        "N-481",
         "N-482",
-        "N-483",
-        "N-484"
+        "N-483"
       ]
     },
     {
@@ -1738,9 +1738,9 @@
       "claim_timestamp": "00:36:14–00:37:33",
       "investigative_direction": "Identify and obtain any proposed trademark or brand-rights agreements between Beckham family entities and Brooklyn Beckham dated to the wedding window.",
       "mentions_person_refs": [
-        "N-482",
-        "N-484",
-        "N-485"
+        "N-481",
+        "N-483",
+        "N-484"
       ]
     },
     {
@@ -1757,9 +1757,9 @@
       "claim_timestamp": "00:38:04",
       "investigative_direction": "Identify any wedding guests who can corroborate or rebut the alleged remark.",
       "mentions_person_refs": [
+        "N-481",
         "N-482",
-        "N-483",
-        "N-484"
+        "N-483"
       ]
     },
     {
@@ -1777,10 +1777,10 @@
       "claim_timestamp": "00:40:27–00:41:23",
       "investigative_direction": "Compare the IG-stories allegation against the Vogue article's documented dance sequence, which describes a separate first dance to \"Only Fools Rush In\" preceding the alleged late-night incident.",
       "mentions_person_refs": [
+        "N-481",
         "N-482",
         "N-483",
-        "N-484",
-        "N-885"
+        "N-884"
       ]
     },
     {
@@ -1797,8 +1797,8 @@
       "claim_timestamp": "00:42:09–00:43:16",
       "investigative_direction": "Cross-reference with the original Vogue article text and any available wedding video.",
       "mentions_person_refs": [
-        "N-482",
-        "N-483"
+        "N-481",
+        "N-482"
       ]
     },
     {
@@ -1815,7 +1815,7 @@
       "claim_timestamp": "00:42:09–00:43:16",
       "investigative_direction": "Verify the 11 p.m. start time against any video of Marc Anthony's set, and identify any contemporaneous social media posts by attendees.",
       "mentions_person_refs": [
-        "N-885"
+        "N-884"
       ]
     },
     {
@@ -1832,9 +1832,9 @@
       "claim_timestamp": "00:28:30–00:29:09",
       "investigative_direction": "Obtain the full unredacted text thread exhibits from the Baldoni–Lively litigation docket.",
       "mentions_person_refs": [
+        "N-485",
         "N-486",
-        "N-487",
-        "N-488"
+        "N-487"
       ]
     },
     {
@@ -1851,8 +1851,8 @@
       "claim_timestamp": "00:29:09",
       "investigative_direction": "Obtain the specific Sony executive text-message exhibits from the litigation record.",
       "mentions_person_refs": [
-        "N-486",
-        "N-487"
+        "N-485",
+        "N-486"
       ]
     },
     {
@@ -2186,7 +2186,7 @@
       "transcript_snippet": "They have conflicting answers about the drones. Brian Harpole says this, Andrew Kolvet says this, their lawyer says that.",
       "mentions_person_refs": [
         "N-3",
-        "N-268",
+        "N-267",
         "N-14"
       ]
     },
@@ -2211,7 +2211,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-1",
-        "N-239"
+        "N-238"
       ]
     },
     {
@@ -2241,7 +2241,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-272",
+        "N-271",
         "N-3"
       ]
     },
@@ -2509,7 +2509,7 @@
       "transcript_snippet": "If you guys have my book, Make Him a Sandwich, I have a whole chapter on Taylor Swift just documenting the things that she does.",
       "mentions_person_refs": [
         "N-3",
-        "N-488"
+        "N-487"
       ]
     },
     {
@@ -2532,9 +2532,9 @@
       "transcript_snippet": "Tree, her agent, is like, \"Nope, cut that friend off. We're going to save you.\"",
       "mentions_person_refs": [
         "N-3",
-        "N-488",
-        "N-486",
-        "N-884"
+        "N-487",
+        "N-485",
+        "N-883"
       ]
     },
     {
@@ -2554,8 +2554,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-27",
-        "N-361",
-        "N-488"
+        "N-360",
+        "N-487"
       ]
     },
     {
@@ -2574,7 +2574,7 @@
       "transcript_snippet": "where is the video of Kanye telling me that he was going to call me that in his song?",
       "mentions_person_refs": [
         "N-3",
-        "N-488",
+        "N-487",
         "N-27"
       ]
     },
@@ -2598,9 +2598,9 @@
       "transcript_snippet": "And she knew that Blake Lively was going to file um that sexual harassment complaints to get these publishing rights, take over the movie.",
       "mentions_person_refs": [
         "N-3",
-        "N-488",
-        "N-486",
-        "N-487"
+        "N-487",
+        "N-485",
+        "N-486"
       ]
     },
     {
@@ -2623,8 +2623,8 @@
       "transcript_snippet": "Blake did text her over the script, the scene that she wanted to be replaced.",
       "mentions_person_refs": [
         "N-3",
-        "N-488",
-        "N-486"
+        "N-487",
+        "N-485"
       ]
     },
     {
@@ -2647,9 +2647,9 @@
       "transcript_snippet": "this is basically going to give us an effective majority if Taylor Swift is involved because Taylor Swift has a lot of fans.",
       "mentions_person_refs": [
         "N-3",
-        "N-488",
-        "N-486",
-        "N-487"
+        "N-487",
+        "N-485",
+        "N-486"
       ]
     },
     {
@@ -2672,7 +2672,7 @@
       "transcript_snippet": "We knew that he ended up in a hospital. He was so stressed out by everything.",
       "mentions_person_refs": [
         "N-3",
-        "N-487"
+        "N-486"
       ]
     },
     {
@@ -2695,7 +2695,7 @@
       "transcript_snippet": "Brooklyn Beckham doesn't speak to his two brothers. He doesn't speak to his sister who's 14 by the way.",
       "mentions_person_refs": [
         "N-3",
-        "N-482"
+        "N-481"
       ]
     },
     {
@@ -2718,8 +2718,8 @@
       "transcript_snippet": "Nicola wanted her dress allegedly to be designed by Victoria Beckham.",
       "mentions_person_refs": [
         "N-3",
-        "N-483",
-        "N-484"
+        "N-482",
+        "N-483"
       ]
     },
     {
@@ -2742,8 +2742,8 @@
       "transcript_snippet": "Last August he decided to have a secondary wedding without any of the Beckhams.",
       "mentions_person_refs": [
         "N-3",
-        "N-482",
-        "N-483"
+        "N-481",
+        "N-482"
       ]
     },
     {
@@ -2769,9 +2769,9 @@
       ],
       "mentions_person_refs": [
         "N-3",
+        "N-481",
         "N-482",
-        "N-483",
-        "N-484"
+        "N-483"
       ]
     },
     {
@@ -2794,9 +2794,9 @@
       "transcript_snippet": "He said they were adamant on me signing before my wedding date.",
       "mentions_person_refs": [
         "N-3",
-        "N-482",
-        "N-484",
-        "N-485"
+        "N-481",
+        "N-483",
+        "N-484"
       ]
     },
     {
@@ -2819,7 +2819,7 @@
       "transcript_snippet": "Both of our parents had their own table equally adjacent to ours.",
       "mentions_person_refs": [
         "N-3",
-        "N-482"
+        "N-481"
       ]
     },
     {
@@ -2842,8 +2842,8 @@
       "transcript_snippet": "The night before our wedding, members of my family told me that Nicola was not blood and not family.",
       "mentions_person_refs": [
         "N-3",
-        "N-482",
-        "N-483"
+        "N-481",
+        "N-482"
       ]
     },
     {
@@ -2866,7 +2866,7 @@
       "transcript_snippet": "I've received endless attacks from my parents both privately and publicly that were sent to the press on their orders. No evidence of that.",
       "mentions_person_refs": [
         "N-3",
-        "N-482"
+        "N-481"
       ]
     },
     {
@@ -2889,8 +2889,8 @@
       "transcript_snippet": "she danced very inappropriately on me in front of everyone.",
       "mentions_person_refs": [
         "N-3",
-        "N-482",
-        "N-484"
+        "N-481",
+        "N-483"
       ]
     },
     {
@@ -2916,8 +2916,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-482",
-        "N-484"
+        "N-481",
+        "N-483"
       ]
     },
     {
@@ -2940,8 +2940,8 @@
       "transcript_snippet": "In addition to traditional speeches, including those from Brooklyn, best men, his brothers, Romeo and Cruz, the father of the groom, David Beckham, delivered a heartfelt tribute",
       "mentions_person_refs": [
         "N-3",
-        "N-482",
-        "N-485"
+        "N-481",
+        "N-484"
       ]
     },
     {
@@ -2964,8 +2964,8 @@
       "transcript_snippet": "they had their first dance and then she had a dance with her father and then her and Brooklyn had some other dance and then late night started at 11:00 p. m.",
       "mentions_person_refs": [
         "N-3",
-        "N-482",
-        "N-483"
+        "N-481",
+        "N-482"
       ]
     },
     {
@@ -2991,8 +2991,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-885",
-        "N-484"
+        "N-884",
+        "N-483"
       ]
     },
     {
@@ -3015,8 +3015,8 @@
       "transcript_snippet": "My mom has repeatedly invited women from my past into our lives in ways that clearly were intended to make us both uncomfortable.",
       "mentions_person_refs": [
         "N-3",
-        "N-482",
-        "N-484"
+        "N-481",
+        "N-483"
       ]
     },
     {
@@ -3039,9 +3039,9 @@
       "transcript_snippet": "we still traveled to London for my dad's birthday and we were rejected for a week as we waited in in our hotel room trying to plan quality time with him.",
       "mentions_person_refs": [
         "N-3",
-        "N-482",
-        "N-485",
-        "N-483"
+        "N-481",
+        "N-484",
+        "N-482"
       ]
     },
     {
@@ -3064,9 +3064,9 @@
       "transcript_snippet": "But the one time that my wife asked for my mom's support to save displaced dogs during the LA fires, my mom refused.",
       "mentions_person_refs": [
         "N-3",
-        "N-482",
-        "N-484",
-        "N-483"
+        "N-481",
+        "N-483",
+        "N-482"
       ]
     },
     {
@@ -3089,7 +3089,7 @@
       "transcript_snippet": "He apparently sent his family uh maybe a cease and desist, whatever you want to call it, a legal letter telling them",
       "mentions_person_refs": [
         "N-3",
-        "N-482"
+        "N-481"
       ]
     },
     {
@@ -3112,8 +3112,8 @@
       "transcript_snippet": "she hired Marty Singer to sue this little company because her Chihuahua died.",
       "mentions_person_refs": [
         "N-3",
-        "N-483",
-        "N-886"
+        "N-482",
+        "N-885"
       ]
     },
     {
@@ -3136,7 +3136,7 @@
       "transcript_snippet": "They got the autopsy. It turns out the dog had what Chihuahua get a lot of, which is fluid in the brains in the brain.",
       "mentions_person_refs": [
         "N-3",
-        "N-483"
+        "N-482"
       ]
     },
     {
@@ -3157,8 +3157,8 @@
       "transcript_snippet": "She went through three different wedding contracts. One of which her father sued and they sued back",
       "mentions_person_refs": [
         "N-3",
-        "N-483",
-        "N-887"
+        "N-482",
+        "N-886"
       ]
     },
     {
@@ -3177,8 +3177,8 @@
       "transcript_snippet": "Her hair stylist from when her dad put her in the Transformers movie, Justin Anderson, said she's awful.",
       "mentions_person_refs": [
         "N-3",
-        "N-483",
-        "N-888"
+        "N-482",
+        "N-887"
       ]
     },
     {
@@ -3197,8 +3197,8 @@
       "transcript_snippet": "Her relationship with Selena Gomez has fallen apart.",
       "mentions_person_refs": [
         "N-3",
-        "N-483",
-        "N-889"
+        "N-482",
+        "N-888"
       ]
     },
     {
@@ -3217,9 +3217,9 @@
       "transcript_snippet": "She was dating Anwar Hadid, Bella Hadid's brother",
       "mentions_person_refs": [
         "N-3",
-        "N-483",
-        "N-890",
-        "N-544"
+        "N-482",
+        "N-889",
+        "N-543"
       ]
     },
     {
@@ -3240,8 +3240,8 @@
       "transcript_snippet": "But he stood up at this dinner. And he gave a toast. You should know this, Brooklyn, cuz there were no cameras there.",
       "mentions_person_refs": [
         "N-3",
-        "N-485",
-        "N-482"
+        "N-484",
+        "N-481"
       ]
     },
     {
@@ -3331,7 +3331,7 @@
       "transcript_snippet": "I have said Blake Neff, if you would like to come, you can.",
       "mentions_person_refs": [
         "N-3",
-        "N-161",
+        "N-160",
         "N-14"
       ]
     },
@@ -3466,7 +3466,7 @@
       "transcript_snippet": "Or you know by conspiracy Elizabeth McCoy, she's coming up in the ranks.",
       "mentions_person_refs": [
         "N-3",
-        "N-219"
+        "N-218"
       ]
     },
     {

@@ -496,7 +496,7 @@
             "N-60",
             "N-3",
             "N-97",
-            "N-268",
+            "N-267",
             "N-10651"
           ],
           "tags": [],
@@ -682,8 +682,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-368",
+      "ref": "N-368",
       "name": "Danny Philip",
       "type": "person",
       "description": "Newly hired Turning Point USA employee at the UVU event; phone records show a 10-minute call with Mikey McCoy after the shooting, and he arrived at Timpanogos in the same SUV as Blake Neff.",
@@ -861,8 +861,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -888,8 +888,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -918,8 +918,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-219",
-      "ref": "N-219",
+      "@id": "N-218",
+      "ref": "N-218",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Joined Maine vacation; final-footage context.",
@@ -938,8 +938,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-269",
-      "ref": "N-269",
+      "@id": "N-268",
+      "ref": "N-268",
       "name": "Tim Pool",
       "type": "person",
       "description": "Made two contradictory statements about Candace's security within one week.",
@@ -954,8 +954,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -1019,8 +1019,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-335",
-      "ref": "N-335",
+      "@id": "N-334",
+      "ref": "N-334",
       "name": "Viva Frei",
       "type": "person",
       "description": "Viva Frei (wave3 orphan mint).",
@@ -1038,8 +1038,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-489",
-      "ref": "N-489",
+      "@id": "N-488",
+      "ref": "N-488",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
@@ -1054,8 +1054,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-506",
-      "ref": "N-506",
+      "@id": "N-505",
+      "ref": "N-505",
       "name": "Nate Walker",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 126.",
@@ -1165,8 +1165,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-165",
-      "ref": "N-165",
+      "@id": "N-164",
+      "ref": "N-164",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Matt Walsh; the host says his in-person event appearance was cancelled at Erika's urging.",
@@ -1183,8 +1183,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-212",
+      "ref": "N-212",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Jesse Watters; the host believes Erika told him she knew.",
@@ -1200,8 +1200,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-248",
-      "ref": "N-248",
+      "@id": "N-247",
+      "ref": "N-247",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "Butch Hibbs; the host places Danny Philip next to him on Charlie's right.",
@@ -1217,8 +1217,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole; the host says he said he cut the shirt and that he is suing the host.",
@@ -1237,8 +1237,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-280",
-      "ref": "N-280",
+      "@id": "N-279",
+      "ref": "N-279",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Bari Weiss; the host says Erika told her she was certain Robinson killed her husband.",
@@ -1254,8 +1254,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-439",
-      "ref": "N-439",
+      "@id": "N-438",
+      "ref": "N-438",
       "name": "Johnny Moore",
       "type": "person",
       "description": "Johnny Moore; the host says he is dropping digital assassin articles at her.",
@@ -1271,8 +1271,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-547",
-      "ref": "N-547",
+      "@id": "N-546",
+      "ref": "N-546",
       "name": "Tracy Martin",
       "type": "person",
       "description": "Tracy Martin; the host's guess for the Daily Mail family friend.",
@@ -1920,7 +1920,7 @@
       "claim_timestamp": "00:03:30",
       "investigative_direction": "Forensic analysis of the original photograph; chain-of-custody for the SUV door photograph; determine whether the glove could be associated with medical, forensic, or other activity at the scene.",
       "mentions_person_refs": [
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -1954,7 +1954,7 @@
       "claim_timestamp": "00:06:20",
       "investigative_direction": "Verify Rick Cutler's seating position against prior sworn statements and SUV interior diagram evidence.",
       "mentions_person_refs": [
-        "N-489"
+        "N-488"
       ]
     },
     {
@@ -1971,7 +1971,7 @@
       "claim_timestamp": "00:03:30",
       "investigative_direction": "Methodology is informal and unsystematic; results should not be treated as expert identification.",
       "mentions_person_refs": [
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -2005,9 +2005,9 @@
       "claim_timestamp": "00:13:40",
       "investigative_direction": "Obtain authenticated call records (subpoena or court-ordered discovery); determine call content and whether the 10-minute call began while Blake Neff and Danny Philip were physically together in the SUV.",
       "mentions_person_refs": [
-        "N-369",
-        "N-219",
-        "N-192",
+        "N-368",
+        "N-218",
+        "N-191",
         "N-17"
       ]
     },
@@ -2031,8 +2031,8 @@
         "C-3092"
       ],
       "mentions_person_refs": [
-        "N-192",
-        "N-161"
+        "N-191",
+        "N-160"
       ]
     },
     {
@@ -2050,11 +2050,11 @@
       "claim_timestamp": "00:18:17",
       "investigative_direction": "Obtain unedited newsroom feed; cross-reference internal TPUSA communications and hospital entry logs.",
       "mentions_person_refs": [
-        "N-369",
+        "N-368",
         "N-5",
-        "N-192",
-        "N-161",
-        "N-506"
+        "N-191",
+        "N-160",
+        "N-505"
       ]
     },
     {
@@ -2071,9 +2071,9 @@
       "claim_timestamp": "00:10:36",
       "investigative_direction": "Verify rental records for both SUVs (previously described as rented by Mikey McCoy); confirm passenger assignments.",
       "mentions_person_refs": [
-        "N-369",
+        "N-368",
         "N-1",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2093,8 +2093,8 @@
       "claim_timestamp": "00:11:37",
       "investigative_direction": "Subpoena call detail records; obtain Danny Philip's testimony or statement about the call content.",
       "mentions_person_refs": [
-        "N-369",
-        "N-192"
+        "N-368",
+        "N-191"
       ]
     },
     {
@@ -2113,8 +2113,8 @@
       "claim_timestamp": "00:14:48",
       "investigative_direction": "Confirm against authenticated phone records.",
       "mentions_person_refs": [
-        "N-192",
-        "N-161",
+        "N-191",
+        "N-160",
         "N-17"
       ]
     },
@@ -2175,7 +2175,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-93",
-        "N-269"
+        "N-268"
       ]
     },
     {
@@ -2196,7 +2196,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-93",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2215,7 +2215,7 @@
       "claim_timestamp": "00:48:02",
       "investigative_direction": "Confirm segment on Charlie Kirk Show's platform archive; document exact comparison attempt.",
       "mentions_person_refs": [
-        "N-335"
+        "N-334"
       ]
     },
     {
@@ -2395,7 +2395,7 @@
       "investigative_direction": "Locate Harpole's own statement on who cut the shirt and with what; ask the hospital and investigators whether scissors were collected.",
       "transcript_snippet": "He cut He said he cut the shirt. Whose scissors did he use?",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -2437,8 +2437,8 @@
         "C-5867"
       ],
       "mentions_person_refs": [
-        "N-369",
-        "N-192",
+        "N-368",
+        "N-191",
         "N-3"
       ]
     },
@@ -2462,10 +2462,10 @@
         "C-5862"
       ],
       "mentions_person_refs": [
-        "N-192",
-        "N-161",
-        "N-369",
-        "N-506",
+        "N-191",
+        "N-160",
+        "N-368",
+        "N-505",
         "N-1"
       ]
     },
@@ -2486,8 +2486,8 @@
       "investigative_direction": "Ask Neff and Philip for their movements that morning and check vehicle GPS or toll records for the second SUV.",
       "transcript_snippet": "Blake Neff doesn't remember where they went in Salt Lake City.",
       "mentions_person_refs": [
-        "N-161",
-        "N-369"
+        "N-160",
+        "N-368"
       ]
     },
     {
@@ -2505,8 +2505,8 @@
       "investigative_direction": "Identify the source of the driver detail and check it against the rental agreement and any footage of the second SUV.",
       "transcript_snippet": "Now I believe that Danny was driving the SUV. I feel like I saw that somewhere.",
       "mentions_person_refs": [
-        "N-369",
-        "N-161"
+        "N-368",
+        "N-160"
       ]
     },
     {
@@ -2524,10 +2524,10 @@
       "investigative_direction": "Verify each man's position against the stage footage and the seating and standing diagram of the tent.",
       "transcript_snippet": "What we do know is that Danny and Blake were standing on opposite sides of the tent when the sound of the explosive rang out.",
       "mentions_person_refs": [
-        "N-369",
-        "N-161",
-        "N-248",
-        "N-192",
+        "N-368",
+        "N-160",
+        "N-247",
+        "N-191",
         "N-1"
       ]
     },
@@ -2553,8 +2553,8 @@
         "C-2294"
       ],
       "mentions_person_refs": [
-        "N-192",
-        "N-219",
+        "N-191",
+        "N-218",
         "N-2"
       ]
     },
@@ -2577,7 +2577,7 @@
       "transcript_snippet": "said that at 11:23, obviously adjusting for time, 12:23 I guess, uh in uh local time Utah, 11:23 her time, she was looking at her phone and within seconds Mikey called her.",
       "mentions_person_refs": [
         "N-2",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -2604,8 +2604,8 @@
         "C-2294"
       ],
       "mentions_person_refs": [
-        "N-192",
-        "N-219",
+        "N-191",
+        "N-218",
         "N-2"
       ]
     },
@@ -2628,8 +2628,8 @@
       "investigative_direction": "Obtain footage placing Neff and McCoy together at 12:25 and compare with their recorded call times.",
       "transcript_snippet": "So, just 2 minutes after Charlie's hit at 12:25, Blake and Mikey are back together and they're speaking and coordinating.",
       "mentions_person_refs": [
-        "N-161",
-        "N-192",
+        "N-160",
+        "N-191",
         "N-1"
       ]
     },
@@ -2652,8 +2652,8 @@
       "investigative_direction": "Obtain Neff's phone records for the call to his mother and compare its time and length with Mikey McCoy's call sequence.",
       "transcript_snippet": "around the same time I pull out my phone and I call my mom just to say",
       "mentions_person_refs": [
-        "N-161",
-        "N-192"
+        "N-160",
+        "N-191"
       ]
     },
     {
@@ -2675,7 +2675,7 @@
       "investigative_direction": "Verify the length of the Mikey-to-Erika call in the call detail records.",
       "transcript_snippet": "Mikey's discussion with Erika, we know lasted less than 2 minutes.",
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-2",
         "N-3"
       ]
@@ -2699,7 +2699,7 @@
       "transcript_snippet": "That's what she tells, I believe, Jesse Watters. That's certainly what she told the New York Times.",
       "mentions_person_refs": [
         "N-2",
-        "N-213"
+        "N-212"
       ]
     },
     {
@@ -2721,9 +2721,9 @@
       "investigative_direction": "Obtain the call detail record showing which number placed the Philip-McCoy call and when it started and ended.",
       "transcript_snippet": "And then Danny calls Mikey. And they stay on the phone for 10 minutes.",
       "mentions_person_refs": [
-        "N-369",
-        "N-192",
-        "N-219",
+        "N-368",
+        "N-191",
+        "N-218",
         "N-17"
       ]
     },
@@ -2745,9 +2745,9 @@
       "investigative_direction": "Resolve which SUV each man entered using footage and statements, since the host elsewhere has Mikey in the SUV carrying Charlie.",
       "transcript_snippet": "Danny, Blake, and Mikey all run the same direction direction. They get into the same car. Their cars are parked right next to one another's.",
       "mentions_person_refs": [
-        "N-369",
-        "N-161",
-        "N-192"
+        "N-368",
+        "N-160",
+        "N-191"
       ]
     },
     {
@@ -2769,8 +2769,8 @@
       "mentions_person_refs": [
         "N-15",
         "N-2",
-        "N-369",
-        "N-192",
+        "N-368",
+        "N-191",
         "N-3"
       ]
     },
@@ -2796,7 +2796,7 @@
         "C-9560"
       ],
       "mentions_person_refs": [
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2818,11 +2818,11 @@
       "investigative_direction": "Obtain the unedited newsroom feed and review the men's demeanor and pace on entry.",
       "transcript_snippet": "because they don't seem to be shaken. They're all just kind of walking uh casually",
       "mentions_person_refs": [
-        "N-332",
-        "N-161",
-        "N-369",
-        "N-192",
-        "N-506"
+        "N-331",
+        "N-160",
+        "N-368",
+        "N-191",
+        "N-505"
       ]
     },
     {
@@ -2842,7 +2842,7 @@
       "investigative_direction": "Identify the specific digital assassin articles the host refers to and their authors and publication dates.",
       "transcript_snippet": "Reverend Johnny Moore is working corporate dropping digital assassin articles aimed at me blaming his competitors.",
       "mentions_person_refs": [
-        "N-439",
+        "N-438",
         "N-3"
       ]
     },
@@ -2887,7 +2887,7 @@
       "transcript_snippet": "She personally took credit for having Matt Walsh cancel his in-person appearance at the Catholic prayer event for Catholic for Catholics just because I was attending.",
       "mentions_person_refs": [
         "N-2",
-        "N-165",
+        "N-164",
         "N-3"
       ]
     },
@@ -2908,7 +2908,7 @@
       "investigative_direction": "Obtain the event program showing Walsh's original and final format and any messages explaining the change.",
       "transcript_snippet": "He transformed what was supposed to be his appearance into a video message instead because Erika was upset that I was going to be present.",
       "mentions_person_refs": [
-        "N-165",
+        "N-164",
         "N-2",
         "N-3"
       ]
@@ -3125,7 +3125,7 @@
       "investigative_direction": "Treat as the host's speculation; ask the Daily Mail reporter whether the source can be confirmed or denied.",
       "transcript_snippet": "My guess would be Tracy Martin because she's also been the driver behind other wacky pieces, that Us Magazine one, but who knows?",
       "mentions_person_refs": [
-        "N-547",
+        "N-546",
         "N-3"
       ]
     },
@@ -3191,7 +3191,7 @@
       "transcript_snippet": "She was wholly confident that this man killed her husband because she has access to the evidence.",
       "mentions_person_refs": [
         "N-2",
-        "N-280",
+        "N-279",
         "N-40"
       ]
     },
@@ -3553,7 +3553,7 @@
       "investigative_direction": "Obtain the full Twitter Space recording and its date and speakers.",
       "transcript_snippet": "target random family members of theirs as happened at times, for 10 months in pursuit of a conspiracy theory that has literally never had anything to back it up.",
       "mentions_person_refs": [
-        "N-161",
+        "N-160",
         "N-3",
         "N-2"
       ]
@@ -3638,7 +3638,7 @@
       "investigative_direction": "Obtain the full Charlie Kirk Show segment with its date and Viva Frei's complete remarks.",
       "transcript_snippet": "But to go from there to say that it's exploding microphones, Israel did it, and not that Israel might not Israel might have had a hand in this.",
       "mentions_person_refs": [
-        "N-335"
+        "N-334"
       ]
     },
     {
@@ -3660,7 +3660,7 @@
       "investigative_direction": "Obtain the segment and the specific issues Viva Frei refers to.",
       "transcript_snippet": "I appreciate there are some issues with the prosecution. There's some issues with the investigation, and there's some issues with the evidence.",
       "mentions_person_refs": [
-        "N-335"
+        "N-334"
       ]
     },
     {
@@ -3832,7 +3832,7 @@
       "mentions_person_refs": [
         "N-60",
         "N-97",
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },

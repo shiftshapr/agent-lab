@@ -1,0 +1,816 @@
+[
+ {
+  "claim": "C-3822",
+  "episode": 84,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"maybe Joe Kent sent it around\"; claim drops \"maybe\" and states Kent circulated it.",
+  "fix": {
+   "claim": "The host says Andrew Kolvet believes he gave the text message to Joe Kent and that Kent maybe sent it around to other people, but that Kolvet himself told everybody, including the host, about the text message."
+  }
+ },
+ {
+  "claim": "C-3823",
+  "episode": 84,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: \"Elizabeth\" McCoy vs N-219 Eliza McCoy.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3824",
+  "episode": 84,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3825",
+  "episode": 84,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Charlie Kirk, but Mentions includes N-1.",
+  "fix": {
+   "mentions": [
+    "N-7"
+   ]
+  }
+ },
+ {
+  "claim": "C-3826",
+  "episode": 84,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Tyler Robinson; Laura Loomer (N-60) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-2581",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2582",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2583",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2584",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"The case was triggered...\" is spoken about 8:00; claim timestamp 8:40 is ~40s after.",
+  "fix": {
+   "timestamp": "00:07:55"
+  }
+ },
+ {
+  "claim": "C-2585",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"They told investigators...\" spoken about 8:58; claim timestamp 9:40 is ~40s after.",
+  "fix": {
+   "timestamp": "00:08:53"
+  }
+ },
+ {
+  "claim": "C-2586",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"targeting Dini on the grounds that she worked for... Mossad\" spoken about 9:00; claim timestamp 9:40 is ~40s after.",
+  "fix": {
+   "timestamp": "00:08:55"
+  }
+ },
+ {
+  "claim": "C-2587",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2588",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Balou but Mentions adds N-410, N-399. Host: \"A parent suicide attempt\" (apparent), dropped.",
+  "fix": {
+   "mentions": [
+    "N-411"
+   ],
+   "claim": "The host says Daniel Balou, a retired intelligence officer, had an apparent suicide attempt while in prison, and that he is now impaired and will not be able to testify."
+  }
+ },
+ {
+  "claim": "C-2589",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip of Erika answering Weiss; \"Yes, I do\" ~17:08, claim 17:32 (~24s after, borderline ok).",
+  "fix": {}
+ },
+ {
+  "claim": "C-2590",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2591",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2592",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Katherine Locastro (N-601) but Mentions omits her.",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-188",
+    "N-601",
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-2593",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Mikey (N-192) and Erika (N-2) but Mentions has only N-7.",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-192",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2594",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2595",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2596",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Robinson (N-40) but Mentions has only N-41.",
+  "fix": {
+   "mentions": [
+    "N-41",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-2597",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Robinson (N-40) but Mentions has only N-41.",
+  "fix": {
+   "mentions": [
+    "N-41",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-2598",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Sheriff Brooksby (N-274) but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-274"
+   ]
+  }
+ },
+ {
+  "claim": "C-2599",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Brooksby (N-274) but Mentions omits him.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-274"
+   ]
+  }
+ },
+ {
+  "claim": "C-2600",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Brooksby and Robinson but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-274",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-2601",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Brooksby (N-274) but Mentions omits him.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-274"
+   ]
+  }
+ },
+ {
+  "claim": "C-2602",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Brooksby (N-274) but Mentions omits him. Timestamp ~23s after content, acceptable.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-274"
+   ]
+  }
+ },
+ {
+  "claim": "C-2603",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names \"Mr. Kirk\" (Charlie Kirk, N-1) but Mentions omits him.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2604",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2605",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2606",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Brooksby (N-274) but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-274"
+   ]
+  }
+ },
+ {
+  "claim": "C-2607",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2608",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Brooksby (N-274) but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-274"
+   ]
+  }
+ },
+ {
+  "claim": "C-14450",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14451",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14452",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14453",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14454",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14455",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14456",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14457",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "Host: accused of \"worshipping Baal, ... weird sexual rites\"; claim says only \"worship\".",
+  "fix": {
+   "claim": "The host says Scottish Rite Freemasonry originated in France, after Jacques de Molay was burned at the stake and the Pope dissolved the group over accusations of Baal worship and sexual rites, and that members then left for Scotland."
+  }
+ },
+ {
+  "claim": "C-14458",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Reading of the Athanor lodge trial article; not about Kirk assassination itself.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-14459",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Maroon-shirt remark about French paratroopers in the trial article; background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-14460",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14461",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14462",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14463",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14464",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14465",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Gaza real estate remark is a general aside about war profiteering.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-14466",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14467",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14468",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14469",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14470",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Host: \"tell me ... that I better lay low as Andrew Kolvet did\"; Kolvet laid low, did not necessarily tell her. Label wrong.",
+  "fix": {
+   "label": "Host Says She Was Told to Lay Low as Kolvet Did Because Her Name Is on a List"
+  }
+ },
+ {
+  "claim": "C-14471",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14472",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14473",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Open Macron defamation case is background to the assassination claims.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-14474",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14475",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14476",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

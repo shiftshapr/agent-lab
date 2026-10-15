@@ -1,0 +1,850 @@
+[
+ {
+  "claim": "C-11277",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "TikTok takeover is unrelated to the assassination; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11278",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11279",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11280",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Podcast ranking chatter is not about the assassination; tangential.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11281",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Podcast ranking chatter is not about the assassination; tangential. Claim also omits Shapiro, who is in Mentions only via the Apple remark.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11282",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11283",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Carlson/CIA referral over Iran contacts is background, not the assassination or its investigation; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-11284",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Carlson/CIA referral over Iran contacts is background, not the assassination or its investigation; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-11285",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Carlson/CIA referral over Iran contacts is background, not the assassination or its investigation; context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-11286",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11287",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11288",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11289",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11290",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Hence, who benefits from his death?' is part of the viewer comment; host then calls it 'a great open-ended question'. Claim gives the question to the host.",
+  "fix": {
+   "claim": "The host reads a viewer comment saying three things Charlie Kirk was for were no war with Iran, release of the Epstein files and an audit of TPUSA, and asking who benefits from his death, which she calls a great open-ended question."
+  }
+ },
+ {
+  "claim": "C-11291",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11292",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11293",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11294",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2494",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2495",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Kent but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-211"
+   ]
+  }
+ },
+ {
+  "claim": "C-2496",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Kent but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-211"
+   ]
+  }
+ },
+ {
+  "claim": "C-2497",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'As a veteran who deployed to combat 11 times' is read near 06:15, about 80s after 04:57. Claim names Kent and Shannon but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-211",
+    "N-945"
+   ],
+   "timestamp": "00:06:10"
+  }
+ },
+ {
+  "claim": "C-2498",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Trump and Kent; Mentions lacks Trump.",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-211"
+   ]
+  }
+ },
+ {
+  "claim": "C-2499",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Trump; Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-5"
+   ]
+  }
+ },
+ {
+  "claim": "C-2500",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Kent; Mentions lacks him.",
+  "fix": {
+   "mentions": [
+    "N-211",
+    "N-454"
+   ]
+  }
+ },
+ {
+  "claim": "C-2501",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Kent; Mentions lacks him.",
+  "fix": {
+   "mentions": [
+    "N-211",
+    "N-246"
+   ]
+  }
+ },
+ {
+  "claim": "C-2502",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Levin DOJ line ('Mark Levin again is going to say now the DOJ should open a criminal investigation') is at about 16:15, 40s before 16:55. Kent not in Mentions.",
+  "fix": {
+   "timestamp": "00:16:10",
+   "mentions": [
+    "N-211",
+    "N-246"
+   ]
+  }
+ },
+ {
+  "claim": "C-2503",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Kent and Trump; Mentions lacks both.",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-49",
+    "N-60",
+    "N-211"
+   ]
+  }
+ },
+ {
+  "claim": "C-2504",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Kent; Mentions lacks him.",
+  "fix": {
+   "mentions": [
+    "N-211",
+    "N-536"
+   ]
+  }
+ },
+ {
+  "claim": "C-2505",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Budowich tweet is introduced about 16:05, roughly 50s before 16:55. Kent not in Mentions.",
+  "fix": {
+   "timestamp": "00:16:00",
+   "mentions": [
+    "N-152",
+    "N-211"
+   ]
+  }
+ },
+ {
+  "claim": "C-2506",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2507",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host announces the disaffiliation at about 30:50 and the clip runs about 31:03-31:35, so 31:39 is too late. Claim names neither Charlie nor Erika Kirk.",
+  "fix": {
+   "timestamp": "00:30:50",
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2508",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2509",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'unanimous decision' is said about 31:45 and the Instagram letter about 31:55; 32:20 is too late. Claim names Dino Fonte Grassi but Mentions is empty.",
+  "fix": {
+   "timestamp": "00:31:40",
+   "mentions": [
+    "N-944"
+   ]
+  }
+ },
+ {
+  "claim": "C-2510",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names the Fonte Grassi letter; Mentions lacks N-944.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-944"
+   ]
+  }
+ },
+ {
+  "claim": "C-2511",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says 'in July' with no year. Claim names Dino Fonte Grassi; Mentions lacks N-944.",
+  "fix": {
+   "label": "Host Says Fonte Grassi Participated in Kirk's July Israel/Gaza Discussion",
+   "claim": "The host says Dino Fonte Grassi was part of a Charlie Kirk sit-down in July discussing Israel and Gaza with students.",
+   "mentions": [
+    "N-1",
+    "N-944"
+   ]
+  }
+ },
+ {
+  "claim": "C-2512",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Scott Bessent; Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-602"
+   ]
+  }
+ },
+ {
+  "claim": "C-2513",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Bessent; Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-602"
+   ]
+  }
+ },
+ {
+  "claim": "C-2514",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host lists Reagan, Dulles, Baltimore and Richmond and says 'four airports'; claim says three and omits Dulles.",
+  "fix": {
+   "label": "Host Says Four DC-Area Airports Shut Down March 13",
+   "claim": "The host says that on the 13th, Reagan National (DCA), Dulles, Baltimore-Washington (BWI), and Richmond (RIC) airports all got shut down."
+  }
+ },
+ {
+  "claim": "C-2515",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2516",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'finger gate essentially on the 14th' is said about 49:15, 50s before 50:05. 'Smoothed out' and 'feels AI' are the host's view, not just viewers'.",
+  "fix": {
+   "timestamp": "00:49:10",
+   "claim": "The host says that, after a rumor that Netanyahu was hit by an Iranian missile, the Prime Minister's official account posted a video on the 14th that she says feels AI and shows him with a smoothed-out face."
+  }
+ },
+ {
+  "claim": "C-2517",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Netanyahu; Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-36"
+   ]
+  }
+ },
+ {
+  "claim": "C-2518",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2519",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says Netanyahu and Huckabee video was posted 'today', 'another' video after the March 15 one; not March 15. Said about 52:20, 63s before 53:23.",
+  "fix": {
+   "timestamp": "00:52:15",
+   "claim": "The host says Netanyahu posted another hyper-produced video of himself and Mike Huckabee joking about him being alive, on the day of the show."
+  }
+ },
+ {
+  "claim": "C-2520",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'no-showed the military council meeting today' is said about 52:00, 30s before 52:32. Claim names Netanyahu; Mentions is empty.",
+  "fix": {
+   "timestamp": "00:51:55",
+   "mentions": [
+    "N-36"
+   ]
+  }
+ },
+ {
+  "claim": "C-2521",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host's Erika/Sanders remark ('sheepish appearance next to Sarah Huckabee Sanders') comes before the 30:47 block, about 30:35, over 60s before 31:39. Claim spells 'Erica'.",
+  "fix": {
+   "timestamp": "00:30:30",
+   "claim": "The host says Erika Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders."
+  }
+ },
+ {
+  "claim": "C-2522",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika Kirk is not named in the claim (the clip names Sanders only); N-2 should be removed.",
+  "fix": {
+   "mentions": [
+    "N-584"
+   ]
+  }
+ },
+ {
+  "claim": "C-2523",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says only 'in July' for the sit-down; year 2025 is added.",
+  "fix": {
+   "claim": "Charlie Kirk, in a July student discussion, publicly stated that \"I find prophecy as policy generally to be theologically problematic.\""
+  }
+ },
+ {
+  "claim": "C-2524",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14386",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14387",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14388",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14389",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14390",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14391",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14392",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14393",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Trump says 'a Boeing 757. I think there two of them.' Claim drops the hedge and states two planes.",
+  "fix": {
+   "claim": "In the clip Trump says the Obama administration sent hundreds of millions of dollars in cash to Iran on a Boeing 757, \"I think there two of them,\" with the seats taken out, so much that no bank in Virginia, Maryland or DC had money left."
+  }
+ },
+ {
+  "claim": "C-14394",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14395",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14396",
+  "episode": 80,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

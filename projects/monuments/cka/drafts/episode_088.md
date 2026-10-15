@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: fd62017fc03da5f558a7a5932524ae356911ad85bc96f8539a17038700b77b76
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-812, N-813
+  - Tip-minted Nodes (supplement_2026-10c): N-811, N-812
   - Hole-minted Nodes (reintro-ep088): N-10594, N-10710, N-10729
   - Tip-minted Nodes (reintro-ep088): N-10936, N-11135
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8563–C-8634
   - New Nodes Introduced: N-10583, N-10584, N-10585, N-10586
-  - Reused Nodes Appearing: N-413, N-10582, N-9, N-15, N-36, N-40, N-47, N-69, N-188, N-192, N-219, N-239, N-332, N-363, N-412, N-486, N-487, N-491, N-10000, N-10006, N-10015, N-10023, N-10324, N-10338, N-10339, N-10340, N-10365, N-10431, N-10437, N-10471, N-10478, N-10479, N-10483, N-10516, N-10539, N-10573, N-10578, N-10649, N-10661, N-10664, N-10898, N-10905, N-10968, N-11129, N-420, N-10711, N-10975, N-11092, N-10620, N-11142
+  - Reused Nodes Appearing: N-412, N-10582, N-9, N-15, N-36, N-40, N-47, N-69, N-187, N-191, N-218, N-238, N-331, N-362, N-411, N-485, N-486, N-490, N-10000, N-10006, N-10015, N-10023, N-10324, N-10338, N-10339, N-10340, N-10365, N-10431, N-10437, N-10471, N-10478, N-10479, N-10483, N-10516, N-10539, N-10573, N-10578, N-10649, N-10661, N-10664, N-10898, N-10905, N-10968, N-11129, N-419, N-10711, N-10975, N-11092, N-10620, N-11142
   - (see registers)
 
 ## 2. Executive Summary
@@ -26,15 +26,15 @@ Episode 88 advances two distinct investigative threads inside the Bride of Charl
 
 The second thread concerns the host's investigation into Erika Kirk's claimed whereabouts on September 10, 2025. The host contrasts the verbatim New York Times account ("hospital room" at 11:23 a.m. local Phoenix time) with Erika's Jesse Watters account ("mom's doctor's appointment"), plays both, notes an apparent jump cut in the latter, and reports multiple witnesses who allegedly place Erika without her mother on that day – including a security-guard Derek Niekerk account and a Minnesota woman who reportedly said she, not Erika, was with Erika's mother when the news arrived. The episode also documents the Trump social-media statement firing Pam Bondi and naming Todd Blanche as Acting Attorney General.
 
-Structural importance: the episode elevates the previously-mentioned Karashi family thread with a named Fort Huachuca–trained family member (Tour Karashi) and an attributed LinkedIn reference; it also begins to harden the Erika CEO succession audio narrative as a distinct investigable target rather than host rhetoric.
+Structural importance: the episode elevates the previously-mentioned Qureshi family thread with a named Fort Huachuca–trained family member (Tour Qureshi) and an attributed LinkedIn reference; it also begins to harden the Erika CEO succession audio narrative as a distinct investigable target rather than host rhetoric.
 
 ---
 
 ## 3. Artifact Register
 
-**A-1927** Decoy Boy 2 / Karashi Family Investigation Bundle
+**A-1927** Decoy Boy 2 / Qureshi Family Investigation Bundle
 
-**A-1927.1** Tour Karashi LinkedIn reference (Fort Huachuca training with reconnaissance drones)
+**A-1927.1** Tour Qureshi LinkedIn reference (Fort Huachuca training with reconnaissance drones)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -44,7 +44,7 @@ Confidence Level: Medium
 
 *Related: C-2654, N-10585*
 
-**A-1927.2** Reference attributing Navy O-6 reserve status to Akhmed Karashi (via Baron Coleman)
+**A-1927.2** Reference attributing Navy O-6 reserve status to Akhmed Qureshi (via Baron Coleman)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -64,7 +64,7 @@ Confidence Level: Medium
 
 *Related: N-10585*
 
-**A-1927.4** "Built" app description attributed to Akhmed Karashi (co-founded), described as capable of 3D mission-prep visual walk-throughs
+**A-1927.4** "Built" app description attributed to Akhmed Qureshi (co-founded), described as capable of 3D mission-prep visual walk-throughs
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -461,7 +461,7 @@ Pam Bondi; dismissed as Attorney General.
 
 ---
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 Blake Neff; TPUSA figure whose X reply and ASU remarks the host discusses.
 
@@ -469,7 +469,7 @@ Blake Neff; TPUSA figure whose X reply and ASU remarks the host discusses.
 
 ---
 
-**N-188** Stacy Sheridan
+**N-187** Stacy Sheridan
 
 Stacy Sheridan; the host speculates she or someone asked for the Charlie loved Erika line.
 
@@ -477,7 +477,7 @@ Stacy Sheridan; the host speculates she or someone asked for the Charlie loved E
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Mikey McCoy (Michael McCoy); Charlie's aide whose calls on September 10 the host and Erika describe.
 
@@ -485,7 +485,7 @@ Mikey McCoy (Michael McCoy); Charlie's aide whose calls on September 10 the host
 
 ---
 
-**N-213** Jesse Watters
+**N-212** Jesse Watters
 
 Jesse Watters; interviewer in the Erika clip.
 
@@ -493,7 +493,7 @@ Jesse Watters; interviewer in the Erika clip.
 
 ---
 
-**N-219** Eliza McCoy
+**N-218** Eliza McCoy
 
 Elizabeth McCoy; Mikey McCoy's wife, whom he called first per the host.
 
@@ -501,7 +501,7 @@ Elizabeth McCoy; Mikey McCoy's wife, whom he called first per the host.
 
 ---
 
-**N-239** Glenn Beck
+**N-238** Glenn Beck
 
 Glenn Beck; interviewer to whom Erika said she had Charlie's phone.
 
@@ -509,7 +509,7 @@ Glenn Beck; interviewer to whom Erika said she had Charlie's phone.
 
 ---
 
-**N-332** Baron Coleman
+**N-331** Baron Coleman
 
 Baron Coleman; credited by the host for the O-6 reveal.
 
@@ -517,7 +517,7 @@ Baron Coleman; credited by the host for the O-6 reveal.
 
 ---
 
-**N-363** Mitch Snow
+**N-362** Mitch Snow
 
 Mitch Snow; eyewitness who saw a meeting end at Fort Huachuca.
 
@@ -525,23 +525,23 @@ Mitch Snow; eyewitness who saw a meeting end at Fort Huachuca.
 
 ---
 
-**N-412** Zachariah Karashy
+**N-411** Zachariah Qureshi
 
-Zachariah Karashi (Karashy); detained decoy boy number two.
+Zachariah Qureshi (Qureshi); detained decoy boy number two.
 
 *Related: C-8563, C-8564*
 
 ---
 
-**N-413** Ahmed Qureshi
+**N-412** Ahmed Qureshi
 
-Akhmed Karashi (Ahmed Qureshi); father of Zachariah and co-founder of the Built app.
+Akhmed Qureshi (Ahmed Qureshi); father of Zachariah and co-founder of the Built app.
 
 *Related: C-8564, C-8566*
 
 ---
 
-**N-486** Blake Lively
+**N-485** Blake Lively
 
 Blake Lively; party in the lawsuit against Justin Baldoni.
 
@@ -549,7 +549,7 @@ Blake Lively; party in the lawsuit against Justin Baldoni.
 
 ---
 
-**N-487** Justin Baldoni
+**N-486** Justin Baldoni
 
 Justin Baldoni; defendant in the Lively lawsuit.
 
@@ -557,7 +557,7 @@ Justin Baldoni; defendant in the Lively lawsuit.
 
 ---
 
-**N-491** Lori Frantzve
+**N-490** Lori Frantzve
 
 Lori Frantzve, Erika Kirk's mother; subject of the host's whereabouts investigation.
 
@@ -709,7 +709,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10578** Decoy Subject Investigation (Karashy/Qureshi)
+**N-10578** Decoy Subject Investigation (Qureshi/Qureshi)
 
 Existing topic reused for new claims in this episode.
 
@@ -845,7 +845,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11142** Zachariah Karashy Detention and Release Question
+**N-11142** Zachariah Qureshi Detention and Release Question
 
 Existing topic reused for new claims in this episode.
 
@@ -853,7 +853,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-812** Eric Swalwell
+**N-811** Eric Swalwell
 
 First named by the host at 00:46:55 in episode 88. Congressman the host says Trump believed Bondi tipped off about an FBI inquiry into his relationship with Christine Fang.
 
@@ -861,7 +861,7 @@ First named by the host at 00:46:55 in episode 88. Congressman the host says Tru
 
 ---
 
-**N-813** Christine Fang
+**N-812** Christine Fang
 
 First named by the host at 00:46:55 in episode 88. Woman the host calls the Chinese spy girl in her account of Swalwell's relationship and the FBI documents.
 
@@ -871,7 +871,7 @@ First named by the host at 00:46:55 in episode 88. Woman the host calls the Chin
 
 ### People
 
-**N-420** Derek Niekerk
+**N-419** Derek Niekerk
 
 First named by the host at 00:42:15 in episode 88.
 
@@ -913,9 +913,9 @@ Investigative Pressure: Medium
 
 *Related: A-1928.1, A-1929.1, A-1937.1, C-2657, C-2668, N-2*
 
-**N-10585** Karashi Family Military / Fort Huachuca Connections
+**N-10585** Qureshi Family Military / Fort Huachuca Connections
 
-Pattern of Karashi family members with military/intelligence training at Fort Huachuca and app-development ties plausibly relevant to mission planning for the Sept 10 event.
+Pattern of Qureshi family members with military/intelligence training at Fort Huachuca and app-development ties plausibly relevant to mission planning for the Sept 10 event.
 
 Evidence Count: 3
 Claim Count: 2
@@ -939,24 +939,24 @@ Investigative Pressure: Low
 
 ## 5. Claim Register
 
-**C-2654** Tour Karashi trained at Fort Huachuca using reconnaissance drones
+**C-2654** Tour Qureshi trained at Fort Huachuca using reconnaissance drones
 
 Claim Timestamp: 00:01:20–00:03:02
 
-Claim: Per his LinkedIn profile as reported on the episode, Tour Karashi trained at Fort Huachuca using reconnaissance drones.
+Claim: Per his LinkedIn profile as reported on the episode, Tour Qureshi trained at Fort Huachuca using reconnaissance drones.
 
 Anchored Artifacts: A-1927.1
 Related Nodes: N-10585
-Investigative Direction: Preserve and verify Tour Karashi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records.
+Investigative Direction: Preserve and verify Tour Qureshi's LinkedIn profile (or cached version); confirm the Fort Huachuca training and reconnaissance-drone qualification claims against public records.
 
-**C-2655** "Built" app co-founded by Akhmed Karashi has 3D mission-prep visualization capability
+**C-2655** "Built" app co-founded by Akhmed Qureshi has 3D mission-prep visualization capability
 
 Claim Timestamp: 00:01:20–00:03:02
 
-Claim: The "Built" app co-founded by Akhmed Karashi is reported to have the capability to produce 3D visual walk-throughs usable for mission planning.
+Claim: The "Built" app co-founded by Akhmed Qureshi is reported to have the capability to produce 3D visual walk-throughs usable for mission planning.
 
 Anchored Artifacts: A-1927.4
-Mentions: N-413
+Mentions: N-412
 Related Nodes: N-10585
 Investigative Direction: Verify the app's described functionality via app store descriptions, product documentation, and independent technical write-ups.
 
@@ -1000,7 +1000,7 @@ Claim Timestamp: 00:36:46–00:37:30
 Claim: On Jesse Watters, Erika Kirk stated she was at her mom's doctor's appointment when she received the news of Charlie's shooting; host identified an apparent jump cut in the interview.
 
 Anchored Artifacts: A-1931.1
-Mentions: N-2, N-213
+Mentions: N-2, N-212
 Related Nodes: N-10582
 Investigative Direction: Obtain the original Jesse Watters interview footage in unedited form; verify the jump cut and compare the account against the NY Times account and against witness testimony.
 
@@ -1011,7 +1011,7 @@ Claim Timestamp: 00:14:16–00:15:40
 Claim: At Arizona State University, Blake Neff stated that Charlie repeatedly said "Erika will take over for me" and that the CEO appointment was not forced by anyone at TPUSA.
 
 Anchored Artifacts: A-1932.2
-Mentions: N-2, N-161
+Mentions: N-2, N-160
 Related Nodes: N-10583
 Investigative Direction: Cross-reference Blake Neff's claims against contemporaneous TPUSA employee testimony regarding Charlie's stated succession intent.
 
@@ -1022,7 +1022,7 @@ Claim Timestamp: 00:16:55–00:17:45
 Claim: Blake Neff on X declined to release the Aspen video and accused Candace Owens of being a "psychopathic predator" who would dismiss the video as AI regardless.
 
 Anchored Artifacts: A-1932.1
-Mentions: N-2, N-3, N-161
+Mentions: N-3, N-160
 Related Nodes: N-10583
 Investigative Direction: Preserve Blake Neff's X-post; verify whether the Aspen video has subsequently been released in any form by TPUSA.
 
@@ -1048,11 +1048,11 @@ Mentions: N-2
 Related Nodes: N-10582
 Investigative Direction: Obtain the Instagram post directly; verify date, visual content, and any caption.
 
-**C-2664** Per Trump Statement Host Reads, Pam Bondi Was Fired
+**C-2664** Per Trump Statement Host Reads, Pam Bondi Is Leaving as Attorney General
 
 Claim Timestamp: 00:44:55–00:46:02
 
-Claim: Per a social-media statement from Donald Trump that the host reads on air, he announced the firing of Pam Bondi as Attorney General.
+Claim: Per a social-media statement from Donald Trump that the host reads on air, Pam Bondi, who served as his attorney general over the past year, will be transitioning to a new job in the private sector.
 
 Anchored Artifacts: A-1935.1
 Mentions: N-5, N-85
@@ -1066,7 +1066,7 @@ Claim Timestamp: 00:44:55–00:46:02
 Claim: Per Trump's social-media statement that the host reads on air, Deputy Attorney General Todd Blanche will serve as Acting Attorney General.
 
 Anchored Artifacts: A-1935.1
-Mentions: N-537
+Mentions: N-5, N-536
 Related Nodes: N-10586
 Investigative Direction: Verify the formal appointment and any subsequent Senate-confirmation process.
 
@@ -1085,10 +1085,10 @@ Investigative Direction: Obtain the original interview clip in full; cross-refer
 
 Claim Timestamp: 00:40:55–00:44:53
 
-Claim: Per host investigation, multiple sources – including an unnamed Phoenix-area doctor and his wife (with federal political ties), a witness via security guard Derek Niekerk, and a Minnesota woman – allegedly place Erika Kirk without her mother at or around the time of the Sept 10 shooting notification.
+Claim: Per host investigation, multiple sources - including an unnamed Phoenix-area doctor and his wife (with federal political ties), a person who says Erika was with her security guard Derek Niekerk, and a Minnesota woman - allegedly place Erika Kirk without her mother at or around the time of the Sept 10 shooting notification.
 
 Anchored Artifacts: A-1931.1
-Mentions: N-2, N-420
+Mentions: N-2, N-419
 Related Nodes: N-10582
 Investigative Direction: Preserve and verify witness identifications; obtain statements in writing; obtain clinic visitor and appointment records via lawful channels.
 
@@ -1105,35 +1105,35 @@ Investigative Direction: Preserve the host's outreach logs (with consent); cross
 
 ---
 
-**C-8563** Host Says Zachariah Karashi Was Detained and Kash Patel Halted the Investigation for 90 Minutes
+**C-8563** Host Says Zachariah Qureshi Was Detained and Kash Patel Halted the Investigation for 90 Minutes
 
 Claim Timestamp: 00:01:20
 
-Claim: The host says Zachariah Karashi (decoy boy number two) was detained, that Kash Patel shut down the investigation for an hour and a half, and that he was then released with little more explained.
+Claim: The host says Zachariah Qureshi (decoy boy number two) was detained, that Kash Patel shut down the investigation for an hour and a half, and that he was then released with little more explained.
 
 Transcript Snippet: he was detained. Kash Patel shut down the investigation for an hour and a half, and then he was released, and we weren't told much more.
 
 Anchored Artifacts: 
-Mentions: N-412, N-69, N-3
+Mentions: N-411, N-69, N-3
 Related Nodes: N-11142, N-10578
 Tags: relevance:core
 Investigative Direction: Obtain the detention report, any release paperwork and the agency that held him; ask the FBI to confirm the length of the pause and who ordered it.
 
 ---
 
-**C-8564** Host Says Baron Coleman Revealed Karashi's Father Is a Navy O-6 in the Reserves
+**C-8564** Host Says Baron Coleman Revealed Qureshi's Father Is a Navy O-6 in the Reserves
 
 Claim Timestamp: 00:01:20
 
-Claim: The host says it was revealed, with credit to Baron Coleman, that the father of Zachariah Karashi is an O-6 in the Navy, apparently a part-time reservist.
+Claim: The host says it was revealed, with credit to Baron Coleman, that the father of Zachariah Qureshi is an O-6 in the Navy, apparently a part-time reservist.
 
 Transcript Snippet: that his dad is an O-6 in the Navy. Um I guess he's in the Navy reserves part-time.
 
 Anchored Artifacts: A-1927.2
-Mentions: N-332, N-413, N-412, N-3
+Mentions: N-331, N-412, N-411, N-3
 Related Nodes: N-10585
 Tags: relevance:core
-Investigative Direction: Check Navy Reserve officer listings and any public biography of Akhmed Karashi for rank and unit.
+Investigative Direction: Check Navy Reserve officer listings and any public biography of Akhmed Qureshi for rank and unit.
 
 ---
 
@@ -1146,7 +1146,7 @@ Claim: The host says Mitch Snow saw a meeting concluding at Fort Huachuca the da
 Transcript Snippet: Mitch Snow saw a meeting concluding in Fort Huachuca the day before, and he said there were a lot of O-6s
 
 Anchored Artifacts: A-1927.3
-Mentions: N-363, N-3
+Mentions: N-362, N-3
 Related Nodes: N-10585, N-10365
 Tags: relevance:core
 Investigative Direction: Obtain Mitch Snow's account in his own words and any base visitor or lodging records for September 9, 2025.
@@ -1162,7 +1162,7 @@ Claim: The host says the Built app could let a user see in advance where Charlie
 Transcript Snippet: which door you were going to go through at Timpanogos if you were prepping for a mission.
 
 Anchored Artifacts: A-1927.4
-Mentions: N-413, N-3
+Mentions: N-412, N-3
 Related Nodes: N-10585, N-10573
 Tags: relevance:core
 Investigative Direction: Verify the app's feature set from product documentation and whether any Utah venue or hospital layouts were ever built in it.
@@ -1226,7 +1226,7 @@ Claim: The host says Erika Kirk told no verifiable lies publicly until right bef
 Transcript Snippet: she publicly told Glenn Beck that she had Charlie's phone, and he did not text people the night before uh saying that he was fearful of his life.
 
 Anchored Artifacts: 
-Mentions: N-2, N-239, N-1, N-3
+Mentions: N-2, N-238, N-1, N-3
 Related Nodes: N-10340
 Supports: C-2377
 Tags: relevance:core
@@ -1371,7 +1371,7 @@ Claim: The host says she replied beneath Blake Neff's shared video on X asking h
 Transcript Snippet: Can you please release the video that you shot in Aspen of him naming her as his successor a couple of weeks before he died.
 
 Anchored Artifacts: A-1932.1
-Mentions: N-3, N-161, N-1, N-2
+Mentions: N-3, N-160, N-1, N-2
 Related Nodes: N-10936
 Tags: relevance:core
 Investigative Direction: Preserve the host's X reply and Neff's reply with timestamps.
@@ -1387,7 +1387,7 @@ Claim: In Blake Neff's X reply as read by the host, he says TPUSA has not bother
 Transcript Snippet: we haven't bothered playing it because we know psychopathic predators like yourself do not care what is true or false
 
 Anchored Artifacts: A-1932.1
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 Related Nodes: N-10936, N-10583
 Tags: relevance:core
 Investigative Direction: Preserve Neff's original post and ask TPUSA whether the video exists and why it has not been released.
@@ -1403,7 +1403,7 @@ Claim: Blake Neff's X reply as read by the host says the host ignores evidence l
 Transcript Snippet: ignores evidence like DNA on a rifle or Tyler Robinson's own family members turning him in.
 
 Anchored Artifacts: A-1932.1
-Mentions: N-161, N-40, N-3
+Mentions: N-160, N-40, N-3
 Related Nodes: N-10711
 Tags: relevance:core
 Investigative Direction: Check the charging documents and court record for what Robinson's family reported and for the DNA findings on the rifle.
@@ -1510,12 +1510,12 @@ Investigative Direction: This is the host's theory; test it by establishing when
 
 Claim Timestamp: 00:31:46
 
-Claim: Addressing Blake Neff, the host says that after Charlie was shot Blake ran to the back with Mikey, Mikey called his wife, Blake called his mom, and no one called 911.
+Claim: Addressing Blake Neff, the host says that after Charlie was 'allegedly' shot Blake ran to the back with Mikey, Mikey called his wife, Blake called his mom, and no one called 911.
 
 Transcript Snippet: Mikey calls his wife and you call your mom and no one calls 911.
 
 Anchored Artifacts: 
-Mentions: N-3, N-161, N-192
+Mentions: N-3, N-160, N-191
 Related Nodes: N-10729
 Supports: C-1932
 Tags: relevance:core
@@ -1595,7 +1595,7 @@ Claim: The host reads the New York Times saying Erika saw Michael McCoy's number
 Transcript Snippet: In retrospect, she said she knew the words,
 
 Anchored Artifacts: A-1930.1
-Mentions: N-2, N-192, N-3
+Mentions: N-2, N-191, N-3
 Related Nodes: N-10968, N-10905
 Tags: relevance:core
 Investigative Direction: Retrieve the original article and compare with the Watters account of the call.
@@ -1611,7 +1611,7 @@ Claim: In the Jesse Watters clip played, Erika Kirk says Mikey called within sec
 Transcript Snippet: He called me within seconds.
 
 Anchored Artifacts: A-1931.1
-Mentions: N-2, N-192, N-213
+Mentions: N-2, N-191, N-212
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Compare with Mikey McCoy's call log and the 834 ms style phone timing material.
@@ -1627,7 +1627,7 @@ Claim: In the Jesse Watters clip, Erika Kirk says she collapsed in the middle of
 Transcript Snippet: I just collapsed in the middle of the parking lot.
 
 Anchored Artifacts: A-1931.1
-Mentions: N-2, N-213, N-3
+Mentions: N-2, N-212, N-3
 Related Nodes: N-10471
 Tags: relevance:core
 Investigative Direction: Look for witnesses, security cameras and staff accounts for the parking lot on September 10.
@@ -1643,7 +1643,7 @@ Claim: The host says there were many bizarre jump cuts in the Watters interview 
 Transcript Snippet: there was so much bizarre jump cuts in this interview.
 
 Anchored Artifacts: A-1931.1
-Mentions: N-3, N-2, N-213
+Mentions: N-3, N-2, N-212
 Tags: relevance:context
 Investigative Direction: Obtain the full unedited recording of the interview for comparison.
 
@@ -1674,7 +1674,7 @@ Claim: The host says Erika's mother has received treatments at the facility in t
 Transcript Snippet: she went in for a treatment 2 days earlier on September 8th because people sent me records of that.
 
 Anchored Artifacts: A-2947.1
-Mentions: N-3, N-2, N-491
+Mentions: N-3, N-2, N-490
 Related Nodes: N-10483
 Qualifies: C-3804
 Tags: relevance:core
@@ -1750,12 +1750,12 @@ Investigative Direction: Map the chain of who told whom to find any first-hand w
 
 Claim Timestamp: 00:41:37
 
-Claim: The host says the more solid version of the story was that Erika was there but in a meeting with the lead doctor in his office, with her mother removed from the story and Lori unconfirmed by anyone.
+Claim: The host says what appeared, ostensibly, to be a more solidified story was that Erika was there but in a meeting with the lead doctor in his office, with her mother removed from the story and Lori unconfirmed by anyone.
 
 Transcript Snippet: Erika was there, but she was in a meeting with the lead doctor in his office.
 
 Anchored Artifacts: A-2949.1
-Mentions: N-3, N-2, N-491
+Mentions: N-3, N-2, N-490
 Related Nodes: N-10582
 Supports: C-2667
 Tags: relevance:core
@@ -1789,7 +1789,7 @@ Claim: The host says she was given the name of a woman from Dassel, Minnesota, w
 Transcript Snippet: a woman from Dassel, Minnesota, who has claimed that she, and not Erika, was with Lori
 
 Anchored Artifacts: 
-Mentions: N-3, N-491, N-2
+Mentions: N-3, N-490, N-2
 Related Nodes: N-10582
 Supports: C-2667
 Tags: relevance:core
@@ -1822,7 +1822,7 @@ Claim: The host says that based on her team's legwork she does not believe Erika
 Transcript Snippet: I do not believe Erika was with her mother on that day.
 
 Anchored Artifacts: A-1934.1
-Mentions: N-3, N-2, N-491
+Mentions: N-3, N-2, N-490
 Related Nodes: N-10582, N-10471
 Tags: relevance:core
 Investigative Direction: Seek written statements from witnesses and facility records about Erika and her mother on September 10.
@@ -1872,7 +1872,7 @@ Transcript Snippet: murders plummeting to their lowest levels since 1900
 Anchored Artifacts: A-1935.1
 Mentions: N-5, N-85
 Related Nodes: N-10586
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare with FBI and CDC homicide data for 2025.
 
 ---
@@ -1881,14 +1881,14 @@ Investigative Direction: Compare with FBI and CDC homicide data for 2025.
 
 Claim Timestamp: 00:44:55
 
-Claim: The statement says Bondi will be transitioning to a much needed and important new job in the private sector to be announced at a later date.
+Claim: The statement says Bondi will be transitioning to a much needed and important new job in the private sector to be announced at a date in the near future.
 
 Transcript Snippet: she will be transitioning to a much needed and important new job in the private sector
 
 Anchored Artifacts: A-1935.1
 Mentions: N-5, N-85
 Related Nodes: N-10586
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Track whether and when the new job is announced.
 
 ---
@@ -1982,9 +1982,9 @@ Claim: The host says reports indicate Trump fired Bondi because he believes she 
 Transcript Snippet: he believes that she is the one that tipped off Eric Swalwell
 
 Anchored Artifacts: 
-Mentions: N-3, N-5, N-85, N-812
+Mentions: N-3, N-5, N-85, N-811
 Related Nodes: N-10586
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the articles the host says contain this account and verify who sourced it.
 
 ---
@@ -1998,18 +1998,18 @@ Claim: The host says the FBI was apparently preparing documents on Swalwell's re
 Transcript Snippet: the FBI was sort of preparing um, a bunch of documents relating to his relationship with Christine Fang
 
 Anchored Artifacts: 
-Mentions: N-3, N-812, N-813
+Mentions: N-3, N-811, N-812
 Related Nodes: N-10586
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check public reporting on the FBI's handling of the Fang file.
 
 ---
 
-**C-8619** Commenter Says the JFK Model Was Run Again With Bullet Comparison Analysis
+**C-8619** Commenter Says the JFK Model Was Run Again; Host Adds Bullet Comparison Point
 
 Claim Timestamp: 00:50:14
 
-Claim: The host reads the top comment from Chewing the Void saying they ran the JFK model one more time, bringing back comparative bullet analysis once discontinued, and the host adds her own agreement.
+Claim: A viewer comment the host reads says "Let's run the JFK model one more time and expected nobody to notice"; the host adds that the same players and country are involved and that they brought back the comparative bullet analysis they had discontinued.
 
 Transcript Snippet: run the JFK model one more time and expected nobody to notice
 
@@ -2078,7 +2078,7 @@ Claim: The host says Mikey called his wife, that they seemed already on the phon
 Transcript Snippet: Mikey called his wife. It seems like it like they were kind of already on the phone.
 
 Anchored Artifacts: 
-Mentions: N-3, N-192, N-2, N-219
+Mentions: N-3, N-191, N-2, N-218
 Related Nodes: N-10338
 Supports: C-1932, C-5266
 Tags: relevance:core
@@ -2095,7 +2095,7 @@ Claim: The host says the first narrative left Elizabeth McCoy out of the story a
 Transcript Snippet: Kind of like left Elizabeth McCoy out of the story.
 
 Anchored Artifacts: 
-Mentions: N-3, N-219, N-192
+Mentions: N-3, N-218, N-191
 Related Nodes: N-10339
 Tags: relevance:core
 Investigative Direction: Compare the earliest accounts of the call sequence with later ones.
@@ -2141,7 +2141,7 @@ Claim: The host speculates that Stacy Sheridan or somebody asked for the line th
 Transcript Snippet: Maybe it was Stacy Sheridan or somebody
 
 Anchored Artifacts: A-2951.1
-Mentions: N-3, N-188, N-1, N-2
+Mentions: N-3, N-187, N-1, N-2
 Tags: relevance:context
 Investigative Direction: This is a guess; ask the White House speechwriting office.
 
@@ -2220,7 +2220,7 @@ Claim: The host says that as to Lori's whereabouts on September 10 her team thin
 Transcript Snippet: we think we're pretty close to nailing her down
 
 Anchored Artifacts: 
-Mentions: N-3, N-491, N-2
+Mentions: N-3, N-490, N-2
 Related Nodes: N-10582
 Tags: relevance:core
 Investigative Direction: Await publication of the findings.
@@ -2252,7 +2252,7 @@ Claim: The host says she heard Judge Liman threw out an entire portion of Blake 
 Transcript Snippet: I heard about Judge Liman throwing out an entire portion of a Justin Baldoni's case
 
 Anchored Artifacts: 
-Mentions: N-3, N-487, N-486
+Mentions: N-3, N-486, N-485
 Related Nodes: N-10661
 Tags: relevance:tangential
 Investigative Direction: Check the court docket and ruling.

@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: fe75ca00c3ec2d7898bbeee433de0d6e98b126fb899e15735450cf108ba10f1b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-710, N-11006, N-11007
-  - Hole-minted Nodes (reintro-ep034): N-268, N-269, N-273, N-10267, N-10427, N-10496, N-10645, N-10762
+  - Tip-minted Nodes (supplement_2026-10): N-709, N-11006, N-11007
+  - Hole-minted Nodes (reintro-ep034): N-267, N-268, N-272, N-10267, N-10427, N-10496, N-10645, N-10762
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-4916–C-4974
   - New Nodes Introduced: N-10259, N-10260, N-10261, N-10262, N-10263
-  - Reused Nodes Appearing: N-2, N-36, N-46, N-61, N-69, N-190, N-211, N-226, N-760, N-10000, N-10011, N-10012, N-10014, N-10025, N-10043, N-10047, N-10052, N-10121, N-10129, N-10146, N-10165, N-10198, N-10204, N-10207, N-10208, N-10226, N-10246, N-10248, N-10253, N-10254, N-10256, N-331, N-10264, N-10662, N-711, N-10338, N-10355, N-10482, N-10549, N-10646, N-10343, N-10769, N-10635
+  - Reused Nodes Appearing: N-2, N-36, N-46, N-61, N-69, N-189, N-210, N-225, N-759, N-10000, N-10011, N-10012, N-10014, N-10025, N-10043, N-10047, N-10052, N-10121, N-10129, N-10146, N-10165, N-10198, N-10204, N-10207, N-10208, N-10226, N-10246, N-10248, N-10253, N-10254, N-10256, N-330, N-10264, N-10662, N-710, N-10338, N-10355, N-10482, N-10549, N-10646, N-10343, N-10769, N-10635
   - (see registers)
 
 # Episode Analysis: Monument Episode 34
@@ -525,7 +525,7 @@ Doorbell-Cam Footage Provenance; existing topic reused for new claims in this ep
 
 ---
 
-**N-211** Joe Kent
+**N-210** Joe Kent
 
 Joe Kent; named with Tulsi Gabbard in the host's remark about the dispute with Patel.
 
@@ -533,7 +533,7 @@ Joe Kent; named with Tulsi Gabbard in the host's remark about the dispute with P
 
 ---
 
-**N-331** Tulsi Gabbard
+**N-330** Tulsi Gabbard
 
 Tulsi Gabbard; named with Joe Kent in the host's remark.
 
@@ -621,7 +621,7 @@ Phil Lyman; the host links a house footage to him.
 
 ---
 
-**N-190** Ryan Matta
+**N-189** Ryan Matta
 
 Ryan Matta; supplied the parking lot footage of the alleged shooter.
 
@@ -637,7 +637,7 @@ Phil Lyman Location Discrepancy; existing topic reused for new claims in this ep
 
 ---
 
-**N-268** Brian Harpole
+**N-267** Brian Harpole
 
 Brian Harpole; Kirk security member whose interview and texts the host critiques.
 
@@ -645,7 +645,7 @@ Brian Harpole; Kirk security member whose interview and texts the host critiques
 
 ---
 
-**N-226** Shawn Ryan
+**N-225** Shawn Ryan
 
 First named by the host at 00:23:53 in episode 34. Interviewer of Brian Harpole in the interview the host critiques.
 
@@ -661,7 +661,7 @@ TPUSA Rooftop Security Decision-Making Discrepancy; existing topic reused for ne
 
 ---
 
-**N-273** Jeff Long
+**N-272** Jeff Long
 
 Jeff Long; UVU police chief whom Harpole's texts and interview concern.
 
@@ -709,7 +709,7 @@ Orem Police Department; the department Harpole says has an active drone unit.
 
 ---
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 Blake Neff; TPUSA employee whose account of the shooting and call log the host reviews.
 
@@ -717,7 +717,7 @@ Blake Neff; TPUSA employee whose account of the shooting and call log the host r
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Mikey McCoy; subject of Neff's account of calls to Erika and his father.
 
@@ -789,7 +789,7 @@ Benjamin Netanyahu; the host says he is involved in Calvary Chapel churches.
 
 ---
 
-**N-760** Bob Coy
+**N-759** Bob Coy
 
 Bob Coy; Fort Lauderdale pastor the host says was in a sexual abuse scandal.
 
@@ -829,7 +829,7 @@ Megyn Kelly; the host says she holds clear mic'd footage of Charlie and Tucker.
 
 ---
 
-**N-710** Joyce Churnick
+**N-709** Joyce Churnick
 
 First named by the host at 00:45:45 in episode 34 (spelled Churnick in the transcript). Donor the host says yelled and took away a million dollars after Tucker Carlson's speech.
 
@@ -854,7 +854,7 @@ Egyptian Planes Investigation; existing topic reused for new claims in this epis
 
 ---
 
-**N-711** John F. Kennedy
+**N-710** John F. Kennedy
 
 First named by the host at 00:49:25 in episode 34 (as JFK). Cited in the host's remark about the Israel exception to foreign-agent registration.
 
@@ -879,7 +879,7 @@ Viewer tips and the host's request for footage about many vehicles reportedly pa
 
 ---
 
-**N-269** Tim Pool
+**N-268** Tim Pool
 
 Tim Pool; transcript says Tim P; subject of a viewer comment and the host's clip remark.
 
@@ -887,7 +887,7 @@ Tim Pool; transcript says Tim P; subject of a viewer comment and the host's clip
 
 ---
 
-**N-262** Duncan Aviation
+**N-261** Duncan Aviation
 
 Duncan Aviation; FBO linked to the rented vehicles and SU-BND transponder activity.
 
@@ -910,7 +910,7 @@ Egyptian Plane Transponding Correlation; existing topic reused for new claims in
 Claim Timestamp: 00:07:12
 Claim: The host says five specific rental vehicles with documented license plates are the verified rental fleet associated with the Duncan Aviation / "Egyptian" group.
 Anchored Artifacts: A-1425.1, A-1425.2, A-1425.3, A-1425.4, A-1425.5
-Mentions: N-262
+Mentions: N-261
 Related Nodes: N-10259
 Investigative Direction: Obtain Duncan Aviation rental contracts, cross-check plate state-DMV registrations, and verify renter identities against the SU-BTT passenger manifest.
 
@@ -927,7 +927,7 @@ Investigative Direction: Identify the student and the reportedly-present profess
 Claim Timestamp: 00:26:12
 Claim: In a clip the host plays, Brian Harpole, Charlie Kirk's security lead, reads his texts to UVU Police Chief Jeff Long about student roof access near where Kirk would be set up, ending with the reply "I got you covered," and the host says Harpole did not follow up further.
 Anchored Artifacts: A-1428.1, A-1428.2
-Mentions: N-1, N-268, N-273
+Mentions: N-1, N-267, N-272
 Related Nodes:
 Investigative Direction: Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.
 
@@ -936,7 +936,7 @@ Investigative Direction: Obtain the full text thread and timestamp metadata; con
 Claim Timestamp: 00:32:25
 Claim: Blake Neff states that he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.
 Anchored Artifacts: A-1429.1
-Mentions: N-161, N-192
+Mentions: N-160, N-191
 Related Nodes: N-10262
 Investigative Direction: Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.
 
@@ -945,7 +945,7 @@ Investigative Direction: Cross-reference video from TPUSA / event cameras and St
 Claim Timestamp: 00:36:37
 Claim: Per a screenshot of Blake Neff's phone that the host shows, his call to his mother was initiated at 11:24 Arizona time (12:24 Utah time) and lasted 45 seconds.
 Anchored Artifacts: A-1429.2
-Mentions: N-161
+Mentions: N-160
 Related Nodes: N-10262
 Investigative Direction: Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.
 
@@ -1126,7 +1126,7 @@ Claim: The host says the press reported that Joe Kent and Tulsi Gabbard were war
 Transcript Snippet: Joe Kent and Tulsi Gabbard who are waring or at least that's what the press said waring with the FBI or waring with Kash Patel
 
 Anchored Artifacts: 
-Mentions: N-211, N-331, N-69, N-3
+Mentions: N-210, N-330, N-69, N-3
 Related Nodes: N-10355
 Investigative Direction: Locate the press reports describing the dispute among Kent, Gabbard and Patel and any statement by Kent or Gabbard about the Egyptian aircraft.
 
@@ -1340,7 +1340,7 @@ Claim: The host says viewer emails noted what might be a RAV 4 in every availabl
 Transcript Snippet: we got a lot of emails from the public that have noted that there appears to be what might be a RAV 4 in every available footage
 
 Anchored Artifacts: A-2718.1
-Mentions: N-3, N-61, N-190
+Mentions: N-3, N-61, N-189
 Related Nodes: N-10259, N-10011, N-10146
 Investigative Direction: Enhance each clip and compare any RAV 4 to the white 2023 RAV 4 rental plate and to local registrations.
 
@@ -1355,7 +1355,7 @@ Claim: The host says only four pieces of footage of the alleged shooter have bee
 Transcript Snippet: Uh so we've only seen four uh pieces of footage of the alleged shooter.
 
 Anchored Artifacts: A-2718.1
-Mentions: N-3, N-61, N-190
+Mentions: N-3, N-61, N-189
 Related Nodes: N-10011, N-10635
 Investigative Direction: Compile an inventory of all released shooter footage and confirm origin and date of each of the four clips.
 
@@ -1385,7 +1385,7 @@ Claim: The host describes Brian Harpole as one of Charlie Kirk's long-term secur
 Transcript Snippet: Brian Harpole is one of Charlie Kirk's long-term security members uh team members.
 
 Anchored Artifacts: A-1428.1
-Mentions: N-268, N-1, N-226
+Mentions: N-267, N-1, N-225
 Related Nodes: N-10646
 Investigative Direction: Obtain the Harpole interview recording and event video showing his position at the time of the shot.
 
@@ -1400,7 +1400,7 @@ Claim: The host says that in the interview Brian Harpole offers that the lack of
 Transcript Snippet: Brian offers up that the lack of security on the rooftop can actually be attributed to the UVU police chief Jeff Long.
 
 Anchored Artifacts: A-1428.1
-Mentions: N-268, N-273
+Mentions: N-267, N-272
 Related Nodes: N-10646, N-10012
 Investigative Direction: Obtain UVU police and TPUSA advance-team documents allocating rooftop responsibility.
 
@@ -1415,7 +1415,7 @@ Claim: Harpole says his message to Chief Long relayed a student group's report o
 Transcript Snippet: If this is true it would be nice to either have it controlled access or allow one of my guys to be there as well if possible.
 
 Anchored Artifacts: A-1428.2
-Mentions: N-268, N-273
+Mentions: N-267, N-272
 Related Nodes: N-10646
 Investigative Direction: Obtain the full text thread between Harpole and Long with timestamps and the original student-group message.
 
@@ -1460,7 +1460,7 @@ Claim: The host says UVU police chief Jeff Long has a very extensive military ca
 Transcript Snippet: By the way, Jeff Long also has a very extensive military career.
 
 Anchored Artifacts: 
-Mentions: N-273, N-3
+Mentions: N-272, N-3
 Related Nodes: N-10012
 Investigative Direction: Obtain Jeff Long's official biography and service record.
 
@@ -1475,7 +1475,7 @@ Claim: In the interview, Harpole says he spent thousands of dollars on drones la
 Transcript Snippet: I spent thousands of dollars on drones last year and one and got the guy's license but if the area lies in the Provo Utah airspace case. I can't fly it.
 
 Anchored Artifacts: A-1428.1
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10267, N-10427, N-10645
 Investigative Direction: Request FAA airspace authorization records for the UVU event and TPUSA's drone purchase and pilot licensing records.
 
@@ -1490,7 +1490,7 @@ Claim: In the interview, Harpole says the school and its police department could
 Transcript Snippet: now the school could have flown drones, the PD, but they didn't have them, right? And then and then so but ORM PD has a an a drone unit active and professional
 
 Anchored Artifacts: A-1428.1
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10129, N-10267, N-10645
 Investigative Direction: Ask Orem PD whether its drone unit was requested for the September 10 event and obtain any mutual aid agreement.
 
@@ -1505,7 +1505,7 @@ Claim: In the interview, Harpole says he asked Orem police about an MOU or mutua
 Transcript Snippet: Do you have anou or a mutual aid agreement with the school? And they're like yeah.
 
 Anchored Artifacts: A-1428.1
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10129, N-10645
 Supports: C-4948
 Investigative Direction: Obtain the Orem PD and UVU mutual aid agreement and any call logs from September 2025.
@@ -1521,7 +1521,7 @@ Claim: Blake Neff says he and Mikey McCoy both had the reaction of getting out o
 Transcript Snippet: So I and him both had the reaction of let's get out of here before we were both shot.
 
 Anchored Artifacts: A-1429.1
-Mentions: N-161, N-192, N-1
+Mentions: N-160, N-191, N-1
 Related Nodes: N-10338
 Investigative Direction: Review scene video and ask other staff to confirm where Neff and McCoy moved after the shot.
 
@@ -1536,7 +1536,7 @@ Claim: Neff says he ran for no more than 15 or 20 seconds, realized there had be
 Transcript Snippet: I run for must have can't have been more than 15 or 20 seconds. And then I realize there hasn't been another shot.
 
 Anchored Artifacts: A-1429.1
-Mentions: N-161, N-192
+Mentions: N-160, N-191
 Related Nodes: N-10338
 Investigative Direction: Reconcile Neff's 15 to 20 second run with scene video timestamps and his later phone log.
 
@@ -1551,7 +1551,7 @@ Claim: Neff says Mikey McCoy was profoundly freaked out and that the way his lip
 Transcript Snippet: What I'll always remember is the way his his lip was quivering, which I'd never seen before.
 
 Anchored Artifacts: A-1429.1
-Mentions: N-161, N-192
+Mentions: N-160, N-191
 Related Nodes: N-10198
 Investigative Direction: Compare with any video or photographs of Mikey McCoy in the minutes after the shot.
 
@@ -1566,7 +1566,7 @@ Claim: Neff says Mikey McCoy said he needed to call Erika, took out his phone an
 Transcript Snippet: then he says, "I I need to call Erika." And he then he takes his phone and he begins calling Erika
 
 Anchored Artifacts: A-1429.1
-Mentions: N-161, N-192, N-2
+Mentions: N-160, N-191, N-2
 Related Nodes: N-10338, N-10226
 Investigative Direction: Obtain call logs for Mikey McCoy and Erika Kirk for September 10, 2025 between 12:20 and 12:30 Utah time.
 
@@ -1581,7 +1581,7 @@ Claim: Neff says he does not want to disclose how the call between Mikey McCoy a
 Transcript Snippet: and I don't want to disclose how that call unfolded but he did that
 
 Anchored Artifacts: A-1429.1
-Mentions: N-161, N-192, N-2
+Mentions: N-160, N-191, N-2
 Related Nodes: N-10338
 Investigative Direction: Ask Neff and McCoy through counsel or TPUSA what was said on the call.
 
@@ -1596,7 +1596,7 @@ Claim: Neff says that after he called his mother, Mikey McCoy immediately called
 Transcript Snippet: he immediately calls his dad. He calls Rob McCoy and he says, "Dad, someone's shot Charlie. You need to call all of your pastor friends.
 
 Anchored Artifacts: A-1429.1
-Mentions: N-161, N-192, N-17
+Mentions: N-160, N-191, N-17
 Related Nodes: N-10338, N-10482
 Investigative Direction: Obtain Rob McCoy's call log and the pastors he contacted; compare to his public timeline.
 
@@ -1611,7 +1611,7 @@ Claim: The host says Charlie was shot at 12:23 and that, using Neff's call log, 
 Transcript Snippet: Charlie was shot at 12:23, right? So these are backto-back phone calls.
 
 Anchored Artifacts: A-1429.2
-Mentions: N-1, N-17, N-192, N-161, N-3
+Mentions: N-1, N-17, N-191, N-160, N-3
 Related Nodes: N-10262, N-10338
 Investigative Direction: Cross-check with carrier records for McCoy, Neff and Erika Kirk and the official time of the shot.
 
@@ -1626,7 +1626,7 @@ Claim: The host says Neff's account confirms Mikey McCoy called Erika first, bef
 Transcript Snippet: because he's now confirming he called her first.
 
 Anchored Artifacts: A-1429.2
-Mentions: N-192, N-2, N-161, N-3
+Mentions: N-191, N-2, N-160, N-3
 Related Nodes: N-10262, N-10338
 Supports: C-4953
 Investigative Direction: Compare to earlier accounts from Mikey McCoy or TPUSA about whom he called first.
@@ -1687,7 +1687,7 @@ Claim: The host says Bob Coy, a pastor from Fort Lauderdale not to be confused w
 Transcript Snippet: Bob Coy, the one from Fort Lauderdale who got into a little bit of a scandal with sexual abuse.
 
 Anchored Artifacts: 
-Mentions: N-760, N-17, N-36
+Mentions: N-759, N-17, N-36
 Related Nodes: N-10246
 Investigative Direction: Review court records and contemporaneous news reports on Bob Coy's resignation and allegations.
 
@@ -1734,7 +1734,7 @@ Claim: The host says the woman who yelled and took away a million dollars becaus
 Transcript Snippet: I told you about a woman who yelled um and took away a million dollars because of the Tucker Carlson speech. That woman was Joyce Churnick.
 
 Anchored Artifacts: A-2721.1
-Mentions: N-710, N-22, N-1, N-3
+Mentions: N-709, N-22, N-1, N-3
 Related Nodes: N-10047, N-11006
 Investigative Direction: Confirm the donor's name spelling and the donation amount through TPUSA donor records and the audio the host says exists.
 
@@ -1765,7 +1765,7 @@ Claim: The host says that when JFK tried to end the Israel exception by making t
 Transcript Snippet: when JFK tried to put an end to that uh well I guess rather put an end to the Israel exception that we now have by making them sign up and acknowled uh they shot him.
 
 Anchored Artifacts: 
-Mentions: N-711, N-3
+Mentions: N-710, N-3
 Related Nodes: N-10025, N-10662
 Investigative Direction: Review historical records of the Kennedy administration's FARA actions against Israel-related organizations and their outcome.
 
@@ -1826,7 +1826,7 @@ Claim: The host says she saw a clip on X of Tim P saying that people were invest
 Transcript Snippet: I did see a clip on X that when we started this investigation of him saying people were doing it for clicks
 
 Anchored Artifacts: A-2722.1
-Mentions: N-269, N-3
+Mentions: N-268, N-3
 Related Nodes: 
 Investigative Direction: Locate the clip on X, its date and full context.
 
@@ -1886,7 +1886,7 @@ Claim: The host says in the coming episode she will show a picture bearing on wh
 Transcript Snippet: as we take a look at this picture of why this SU-BND jet might have been transponding uh without moving at Duncan Aviation.
 
 Anchored Artifacts: 
-Mentions: N-3, N-262
+Mentions: N-3, N-261
 Related Nodes: N-10208, N-10549
 Supports: C-1719
 Investigative Direction: Watch the next episode for the picture and test it against ADS-B and FBO records.

@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 3d4ae642f2e941bfd1fa196ba14e9aaeb18407acfcfbcad82179e0cc50d07169
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-924, N-11357, N-11358
-  - Hole-minted Nodes (reintro-ep121): N-494
+  - Tip-minted Nodes (supplement_2026-10f): N-923, N-11357, N-11358
+  - Hole-minted Nodes (reintro-ep121): N-493
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-13056–C-13119
   - New Nodes Introduced: N-10682, N-10686, N-10691, N-10693
-  - Reused Nodes Appearing: N-10685, N-10687, N-10688, N-10689, N-10694, N-10683, N-10684, N-10690, N-10692, N-489, N-10695, N-1, N-3, N-9, N-69, N-97, N-192, N-223, N-272, N-368, N-597, N-669, N-733, N-10001, N-10006, N-10116, N-10239, N-10346, N-10451, N-10519, N-10532, N-10676, N-10677, N-10678, N-10681, N-10699, N-10705, N-10729, N-10737, N-10768, N-10899, N-10900, N-10977, N-10983, N-11033, N-11054, N-11099, N-11244
+  - Reused Nodes Appearing: N-10685, N-10687, N-10688, N-10689, N-10694, N-10683, N-10684, N-10690, N-10692, N-488, N-10695, N-1, N-3, N-9, N-69, N-97, N-191, N-222, N-271, N-367, N-596, N-668, N-732, N-10001, N-10006, N-10116, N-10239, N-10346, N-10451, N-10519, N-10532, N-10676, N-10677, N-10678, N-10681, N-10699, N-10705, N-10729, N-10737, N-10768, N-10899, N-10900, N-10977, N-10983, N-11033, N-11054, N-11099, N-11244
   - (see registers)
 
 ---
@@ -409,7 +409,7 @@ Confidence Level: Low
 
 
 
-**N-489** Rick Cutler
+**N-488** Rick Cutler
 
 First named by the host at 00:10:43 in episode 121.
 
@@ -571,7 +571,7 @@ Investigative Pressure: High
 
 ---
 
-**N-924** Elizabeth Holmes
+**N-923** Elizabeth Holmes
 
 First named by the host at 00:56:01 in episode 121. Former biotech entrepreneur convicted of fraud, discussed in a commenter's comparison to Erika Kirk.
 
@@ -661,7 +661,7 @@ Ben Shapiro; named as a past Jubilee guest.
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Mikey McCoy; per Turek sent a plane for Erika.
 
@@ -669,7 +669,7 @@ Mikey McCoy; per Turek sent a plane for Erika.
 
 ---
 
-**N-223** Brett Cooper
+**N-222** Brett Cooper
 
 Brett Cooper; former Daily Wire host.
 
@@ -677,7 +677,7 @@ Brett Cooper; former Daily Wire host.
 
 ---
 
-**N-263** Terrell Farnsworth
+**N-262** Terrell Farnsworth
 
 Terrell Farnsworth; camera removal and the Erika-relive explanation.
 
@@ -685,7 +685,7 @@ Terrell Farnsworth; camera removal and the Erika-relive explanation.
 
 ---
 
-**N-268** Brian Harpole
+**N-267** Brian Harpole
 
 Brian Harpole; ER, car and dressing accounts.
 
@@ -693,7 +693,7 @@ Brian Harpole; ER, car and dressing accounts.
 
 ---
 
-**N-272** Dan Flood
+**N-271** Dan Flood
 
 Dan Flood; front passenger, possible 911 caller, declined a promotion.
 
@@ -701,7 +701,7 @@ Dan Flood; front passenger, possible 911 caller, declined a promotion.
 
 ---
 
-**N-368** Jeremy Boreing
+**N-367** Jeremy Boreing
 
 Jeremy Boreing; Daily Wire co-founder, Pendragon.
 
@@ -709,7 +709,7 @@ Jeremy Boreing; Daily Wire co-founder, Pendragon.
 
 ---
 
-**N-494** Justin Davis
+**N-493** Justin Davis
 
 Justin Davis; driver per the host's seating graphic.
 
@@ -717,7 +717,7 @@ Justin Davis; driver per the host's seating graphic.
 
 ---
 
-**N-597** Jordan Peterson
+**N-596** Jordan Peterson
 
 Jordan Peterson; named in the Daily Wire firing story.
 
@@ -725,7 +725,7 @@ Jordan Peterson; named in the Daily Wire firing story.
 
 ---
 
-**N-669** James Kaddis
+**N-668** James Kaddis
 
 James Kaddis; pastor the host asks about as Erika's pastor.
 
@@ -733,7 +733,7 @@ James Kaddis; pastor the host asks about as Erika's pastor.
 
 ---
 
-**N-733** Sarah Tool
+**N-732** Sarah Tool
 
 Sarah Tool; witness who changed her story per the host.
 
@@ -960,7 +960,7 @@ Claim Timestamp: 00:06:20–00:07:24
 Claim: Brian Harpole states in his account that he jumped on top of Charlie on a gurney in the ER and cut his white "Freedom" shirt off with scissors to enable defibrillator placement.
 
 Anchored Artifacts: A-2094.1
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10683, N-10684
 Investigative Direction: Obtain full unedited Brian Harpole interview transcript; corroborate against any ER surveillance footage (if not destroyed) and ER staff testimony.
 
@@ -971,7 +971,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that the car door behind him remained open during the hospital ride because Charlie's leg was hanging out, and that Rick Cutler physically held Brian in place to prevent him from falling out.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-268, N-489
+Mentions: N-267, N-488
 Related Nodes: N-10686
 Investigative Direction: Cross-reference with dash-cam / traffic-cam / police body cam footage to verify door-open configuration.
 
@@ -982,7 +982,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states they were traveling "60, 80, 100" mph while weaving through traffic on the way to the hospital.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10686
 Investigative Direction: Cross-reference with traffic-cam and police-body-cam timestamps to estimate actual travel speed.
 
@@ -993,7 +993,7 @@ Claim Timestamp: 00:13:09–00:13:30
 Claim: Brian Harpole states he applied approximately 36 ft (12 yd) of dressing, four 4x4s, and two hemostatic 4x4s to Charlie's neck wound during the short ride.
 
 Anchored Artifacts: A-2094.3, A-2094.4
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10695
 Investigative Direction: Compare dressing count against visible dressing/pack debris in car interior photos; obtain medical supply packaging for roll length verification.
 
@@ -1004,7 +1004,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that Frank Turek was praying out loud in the backseat during the hospital ride and did not assist with medical care.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-268, N-7
+Mentions: N-267, N-7
 Related Nodes: N-10686, N-10687
 Investigative Direction: Obtain Frank Turek's own account of his activity during the ride; identify any audio recording that could capture in-car speech.
 
@@ -1015,7 +1015,7 @@ Claim Timestamp: 00:11:31–00:12:26
 Claim: Brian Harpole states that Rick Cutler reached across and held onto him so he would not fall out of the moving SUV while he attended to Charlie.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-268, N-489
+Mentions: N-267, N-488
 Related Nodes: N-10686
 Investigative Direction: Cross-reference with Rick Cutler's own testimony if available; review photo evidence of Rick Cutler's clothing for blood patterns inconsistent with this holding posture.
 
@@ -1048,7 +1048,7 @@ Claim Timestamp: 00:19:32–00:20:25
 Claim: The host says a video credited to Terrell Farnsworth, which she plays, shows Frank Turek entering the SUV via the trunk rather than through a passenger door after Charlie was shot.
 
 Anchored Artifacts: A-2103.1
-Mentions: N-7, N-263
+Mentions: N-7, N-262
 Related Nodes: N-10685
 Investigative Direction: Obtain the original unedited Terrell Farnsworth video; preserve metadata for chain-of-custody purposes.
 
@@ -1079,7 +1079,7 @@ Claim Timestamp: 00:16:18–00:16:50
 Claim: The car floor photos show one opened 4x4 EMS quick clot dressing pack, consistent in size and shape with the product image displayed; no additional opened packs are visible despite Brian Harpole's claimed use of multiple packs.
 
 Anchored Artifacts: A-2094.4, A-2096.1, A-2097.1
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10685, N-10695
 Investigative Direction: High-resolution review of car floor photos for additional packaging remnants; obtain official product dimensions for verification.
 
@@ -1153,7 +1153,7 @@ Claim Timestamp: 00:51:15–00:51:45
 Claim: Judith Bronco (retired ER nurse, married to a retired ER doctor) submits a comment stating that Brian Harpole's story could not happen in a real ER and that interference from visitors in trauma rooms is strictly forbidden.
 
 Anchored Artifacts: A-2102.1
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10683
 Investigative Direction: Independent verification of ER protocols from additional medical professionals; obtain hospital incident logs.
 
@@ -1164,7 +1164,7 @@ Claim Timestamp: 00:51:57
 Claim: Gina Schubert (22-year hospital nurse) submits a comment stating that Brian Harpole did not wheel Charlie into a room, jump on him, and cut off his clothes, and that the described events do not occur in any ER.
 
 Anchored Artifacts: A-2102.2
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10683
 Investigative Direction: Same as C-2964.
 
@@ -1196,7 +1196,7 @@ Claim Timestamp: 00:13:09–00:14:33
 Claim: Brian Harpole states he was unsure if Charlie had a pulse and that his primary focus was bleed control with dressing rather than CPR.
 
 Anchored Artifacts: A-2094.3
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10687
 Investigative Direction: Obtain full Brian Harpole interview transcript; cross-reference with hospital intake records regarding initial pulse detection.
 
@@ -1211,7 +1211,7 @@ Claim: The host refers to a lawsuit that Brian Harpole has brought against her, 
 Transcript Snippet: And feel free, Brian, to add that statement to your lawsuit against me.
 
 Anchored Artifacts: 
-Mentions: N-268, N-3
+Mentions: N-267, N-3
 Related Nodes: 
 Supports: C-2810
 Tags: relevance:core
@@ -1228,7 +1228,7 @@ Claim: The host says Brian Harpole and Frank Turek have conflicting stories abou
 Transcript Snippet: since they have conflicting stories, him and Frank Turek.
 
 Anchored Artifacts: 
-Mentions: N-268, N-7
+Mentions: N-267, N-7
 Related Nodes: N-10686, N-10699
 Tags: relevance:core
 Investigative Direction: Compare each man's recorded account of the ride side by side (CPR, door, positions, duration).
@@ -1276,7 +1276,7 @@ Claim: The host says the only reason for Brian Harpole to insert himself into th
 Transcript Snippet: So, what Brian is, I think, rather truthfully admitting here, is that he was the person responsible for the removal of Charlie Kirk's shirt, right?
 
 Anchored Artifacts: A-2094.1
-Mentions: N-268, N-1
+Mentions: N-267, N-1
 Related Nodes: N-10683, N-10684
 Tags: relevance:core
 Investigative Direction: Obtain the ER and EMS records for who handled the shirt and where it went.
@@ -1292,7 +1292,7 @@ Claim: The host says that under her rigged-microphone theory, the shirt was the 
 Transcript Snippet: is an admission that Brian Harpole would be the person responsible for removing the biggest piece of explosive residue evidence, Charlie's shirt.
 
 Anchored Artifacts: 
-Mentions: N-268, N-1
+Mentions: N-267, N-1
 Related Nodes: N-10684, N-10768, N-10676
 Tags: relevance:core
 Investigative Direction: Establish the shirt's chain of custody and whether it was tested for explosive residue.
@@ -1308,7 +1308,7 @@ Claim: The host says that, since she rejects the ER story, she concludes Brian H
 Transcript Snippet: I have to then logically consider that Brian removed Charlie's shirt somewhere else, right? And the only other option would be in the car on the way over to the hospital.
 
 Anchored Artifacts: 
-Mentions: N-268, N-1
+Mentions: N-267, N-1
 Related Nodes: N-10684
 Tags: relevance:core
 Investigative Direction: Compare ER intake photos and records with the car-interior photos for the shirt's location.
@@ -1340,7 +1340,7 @@ Claim: The host says the SUV carried Dan Flood in the front passenger seat, Just
 Transcript Snippet: You've got Dan Flood there in the passenger seat. You've got Justin Davis driving.
 
 Anchored Artifacts: A-3243.1
-Mentions: N-272, N-494, N-268, N-489, N-1, N-7
+Mentions: N-271, N-493, N-267, N-488, N-1, N-7
 Related Nodes: N-10686
 Tags: relevance:core
 Investigative Direction: Confirm seating with each occupant's first-hand account and the SUV photos.
@@ -1356,7 +1356,7 @@ Claim: The host says Google Maps puts the hospital about 8 minutes away at the s
 Transcript Snippet: the hospital was about 8 minutes away if you look that up just on Google Maps.
 
 Anchored Artifacts: 
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10686
 Tags: relevance:core
 Investigative Direction: Use traffic-camera, dispatch and phone-location times to fix departure and arrival to the minute.
@@ -1372,7 +1372,7 @@ Claim: The host says that in footage of the SUV pulling out, the rear door can b
 Transcript Snippet: If you go back and watch footage of them pulling out, you can indeed see that the door is ajar.
 
 Anchored Artifacts: A-3246.1
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10686
 Supports: C-2947
 Tags: relevance:core
@@ -1389,7 +1389,7 @@ Claim: In the audio, Brian Harpole says both Frank Turek and Rick Cutler were pr
 Transcript Snippet: And Frank's praying out loud. Uh Rick's praying out loud.
 
 Anchored Artifacts: A-2094.2
-Mentions: N-268, N-7, N-489
+Mentions: N-267, N-7, N-488
 Related Nodes: N-10686
 Tags: relevance:core
 Investigative Direction: Ask Cutler and Turek independently what each did and said during the ride.
@@ -1405,7 +1405,7 @@ Claim: The host says Brian Harpole repeated his account of 36 ft of dressing in 
 Transcript Snippet: 36 ft of dressing. And he repeats that story to Paramount Not So Tactical in a separate interview.
 
 Anchored Artifacts: A-2094.4
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10899, N-10695
 Supports: C-2949
 Tags: relevance:core
@@ -1422,7 +1422,7 @@ Claim: In the Paramount Tactical audio, Brian Harpole says he opened the hemosta
 Transcript Snippet: And so I'm opening those with my mouth and and then put them down and then spreading it out a little bit
 
 Anchored Artifacts: A-2094.4
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10695, N-10899
 Tags: relevance:core
 Investigative Direction: Check the car-interior photos for torn hemostatic packaging and any bag or wrapper debris.
@@ -1438,7 +1438,7 @@ Claim: The host says 4x4 packs are about 10 cm square and rolls of dressing are 
 Transcript Snippet: But those are sold at just 4 yd a roll. So why on earth did Brian have handy six rolls of dressing in his small medical bag
 
 Anchored Artifacts: A-2097.1
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10695
 Tags: relevance:core
 Investigative Direction: Check roll length by product and arithmetic: 36 ft is 12 yd, which is three 4-yard rolls, not six.
@@ -1454,7 +1454,7 @@ Claim: The host says Frank Turek's claim of attempting CPR is probably false, be
 Transcript Snippet: You cannot conduct emergency CPR on a person that is laying across two captain chairs with their midsection in the air.
 
 Anchored Artifacts: 
-Mentions: N-7, N-1, N-268
+Mentions: N-7, N-1, N-267
 Related Nodes: N-10699, N-10737
 Contradicts: C-4708
 Tags: relevance:core
@@ -1471,7 +1471,7 @@ Claim: The host says CPR could not have been conducted in the car and that Brian
 Transcript Snippet: I cannot stress enough that CPR could not have been conducted in that car. Brian is telling the truth twice when he says that.
 
 Anchored Artifacts: A-3243.2
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10699, N-10737
 Supports: C-4709
 Tags: relevance:core
@@ -1488,7 +1488,7 @@ Claim: The host offers as her opinion that the CPR story was invented because Fr
 Transcript Snippet: I suspect that the CPR story, which cannot be true, and which Brian Harpole says is not true, uh was necessary because Frank needed an excuse for why he changed into hospital scrubs when he got to the hospital.
 
 Anchored Artifacts: 
-Mentions: N-7, N-268
+Mentions: N-7, N-267
 Related Nodes: N-10688, N-10699
 Supports: C-5790
 Tags: relevance:core
@@ -1505,7 +1505,7 @@ Claim: The host says Frank Turek did not help carry Charlie into the SUV, did no
 Transcript Snippet: Clean. Fresh, white polo shirt. So, Frank did not touch Charlie after Charlie got hit.
 
 Anchored Artifacts: A-2103.1
-Mentions: N-7, N-1, N-263
+Mentions: N-7, N-1, N-262
 Related Nodes: N-10685
 Revises: C-8026
 Tags: relevance:core
@@ -1538,7 +1538,7 @@ Claim: The host says that on Harpole's account Turek should not have had a signi
 Transcript Snippet: He certainly should not have had a significant amount of blood, which required him to change his clothes into surgical scrubs at the hospital.
 
 Anchored Artifacts: A-2103.1
-Mentions: N-7, N-268
+Mentions: N-7, N-267
 Related Nodes: N-10688
 Supports: C-5790
 Tags: relevance:core
@@ -1555,7 +1555,7 @@ Claim: The host theorizes that Brian Harpole cut the shirt off in the car with a
 Transcript Snippet: And he began cutting Charlie's shirt off of him in the car with about 5 to 6 minutes on the clock.
 
 Anchored Artifacts: 
-Mentions: N-268, N-7, N-489, N-1
+Mentions: N-267, N-7, N-488, N-1
 Related Nodes: N-10684
 Tags: relevance:core
 Investigative Direction: Look for cut-fabric fragments or scissors in the car photos and compare with the shirt's cut pattern.
@@ -1587,7 +1587,7 @@ Claim: The host theorizes that Harpole grabbed a pack or two of quick clot near 
 Transcript Snippet: because otherwise there wouldn't have been any evidence that anybody was working on him on that very short ride
 
 Anchored Artifacts: A-2096.1
-Mentions: N-268, N-1
+Mentions: N-267, N-1
 Related Nodes: N-10695
 Tags: relevance:core
 Investigative Direction: Compare the quantity of dressing on the body at hospital intake with what was found in the car.
@@ -1684,7 +1684,7 @@ Claim: In the audio, Frank Turek says Mikey McCoy had already sent a plane to ge
 Transcript Snippet: Mikey had already sent a plane to get Erika.
 
 Anchored Artifacts: A-2095.1
-Mentions: N-7, N-192, N-2
+Mentions: N-7, N-191, N-2
 Related Nodes: N-10686
 Tags: relevance:core
 Investigative Direction: Compare with flight logs for the plane sent to Erika and her recorded arrival at the hospital.
@@ -1700,7 +1700,7 @@ Claim: The host says Terrell Farnsworth told her he took the cameras out because
 Transcript Snippet: "I didn't want Erika to relive Charlie dying." I said, "Terrell, Terrell, what do you mean? It's all over the internet."
 
 Anchored Artifacts: 
-Mentions: N-263, N-2, N-3
+Mentions: N-262, N-2, N-3
 Related Nodes: N-10346
 Supports: C-10304, C-4606
 Tags: relevance:core
@@ -1861,7 +1861,7 @@ Claim: The host says the Daily Wire now admits it spent $50 million on just seve
 Transcript Snippet: they spent $50 million on on just seven episodes.
 
 Anchored Artifacts: A-2100.1
-Mentions: N-368
+Mentions: N-367
 Related Nodes: N-10900, N-10689
 Tags: relevance:context
 Investigative Direction: Check the Semafor article for the cost and the episode count.
@@ -1877,7 +1877,7 @@ Claim: The host says she has long said the cost was more than $50 million, close
 Transcript Snippet: more than $50 million, closer to 60, but at least they're finally admitting that it wasn't $10 million or $7 million as it had been reported in the past.
 
 Anchored Artifacts: A-2100.1
-Mentions: N-3, N-368
+Mentions: N-3, N-367
 Related Nodes: N-10900, N-10689
 Tags: relevance:context
 Investigative Direction: Locate the earlier reports with $10 million and $7 million and compare to the Semafor figure.
@@ -1893,7 +1893,7 @@ Claim: The host says Pendragon cost more per episode than HBO spent on season on
 Transcript Snippet: That means they spent more per an episode than HBO spent on the first season of Game of Thrones.
 
 Anchored Artifacts: A-2100.1
-Mentions: N-368
+Mentions: N-367
 Related Nodes: N-10900, N-10689
 Supports: C-3923
 Tags: relevance:context
@@ -1910,7 +1910,7 @@ Claim: The host says the Daily Wire was under financial pressure and needed to r
 Transcript Snippet: They were under financial pressure. They needed to remove people that they were paying.
 
 Anchored Artifacts: 
-Mentions: N-3, N-368, N-597
+Mentions: N-3, N-367, N-596
 Related Nodes: N-10900, N-10689
 Tags: relevance:context
 Investigative Direction: Review contracts, payroll and subscriber figures around the 2024 split.
@@ -1926,7 +1926,7 @@ Claim: The host says Brett Cooper left the Daily Wire later the same year, also 
 Transcript Snippet: That was then followed by Brett Cooper's exit later that same year also because of Jeremy Boreing and his mania.
 
 Anchored Artifacts: 
-Mentions: N-223, N-368
+Mentions: N-222, N-367
 Related Nodes: N-11244, N-10900
 Tags: relevance:context
 Investigative Direction: Compare Cooper's own statements about her exit.
@@ -2006,7 +2006,7 @@ Claim: The host says Sarah Tool, a witness, changed her story three times and th
 Transcript Snippet: regarding the Tool witness, Sarah Tool, who changed her story three times.
 
 Anchored Artifacts: 
-Mentions: N-733
+Mentions: N-732
 Related Nodes: N-10677
 Supports: C-2936, C-2937, C-2938
 Tags: relevance:core
@@ -2023,7 +2023,7 @@ Claim: The host says Sarah Tool was smiling the whole time while describing the 
 Transcript Snippet: You guys know that she was smiling, of course, the whole time
 
 Anchored Artifacts: 
-Mentions: N-733
+Mentions: N-732
 Related Nodes: N-10677
 Tags: relevance:core
 Investigative Direction: Review the three interviews for demeanor; this is the host's characterization.
@@ -2039,7 +2039,7 @@ Claim: The host suggests Harpole's defibrillator mention may be a pre-emptive ex
 Transcript Snippet: there might be some marks that they know is a part of the autopsy report that they're going to explain as well that was from Charlie got defibrillated.
 
 Anchored Artifacts: 
-Mentions: N-268, N-1
+Mentions: N-267, N-1
 Related Nodes: N-10683
 Tags: relevance:core
 Investigative Direction: Compare the autopsy report with hospital records on whether a defibrillator was used.
@@ -2120,7 +2120,7 @@ Claim: The host reads and echoes a comment that Elizabeth Holmes was convicted o
 Transcript Snippet: She was the biotech entrepreneur who got convicted of fraud and then went to a fake prison that she's probably not even in.
 
 Anchored Artifacts: 
-Mentions: N-924
+Mentions: N-923
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Fringe; Holmes is held in a federal facility per the Bureau of Prisons.
@@ -2136,7 +2136,7 @@ Claim: The host relays a commenter's claim that a police car following Charlie's
 Transcript Snippet: there is a call from one of the police cars following Charlie's car, and they said it looked like someone was trying to jump out of the car.
 
 Anchored Artifacts: A-2102.9
-Mentions: N-489
+Mentions: N-488
 Related Nodes: N-10686
 Tags: relevance:core
 Investigative Direction: Obtain police radio and CAD logs.
@@ -2152,7 +2152,7 @@ Claim: The host says Brian Harpole briefly discussed in the Shawn Ryan interview
 Transcript Snippet: Brian briefly discussed in that Shawn Ryan interview how they caught a police tail.
 
 Anchored Artifacts: 
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10681, N-10686
 Tags: relevance:core
 Investigative Direction: Locate the passage in the interview and note the timestamp.
@@ -2168,7 +2168,7 @@ Claim: The host says she has not found the 911 call, that no one in the car has 
 Transcript Snippet: No one has taken raised their hand and said it was me. I would assume it would be Dan Flood.
 
 Anchored Artifacts: 
-Mentions: N-272
+Mentions: N-271
 Related Nodes: N-10692, N-10729
 Tags: relevance:core
 Investigative Direction: Request the 911 and CAD records for calls from the convoy.
@@ -2184,7 +2184,7 @@ Claim: The host says Dan Flood declined Erika's offer of a promotion.
 Transcript Snippet: He declined Erika offering him a promotion.
 
 Anchored Artifacts: 
-Mentions: N-272, N-2
+Mentions: N-271, N-2
 Related Nodes: N-10694
 Revises: C-5494
 Tags: relevance:core
@@ -2201,7 +2201,7 @@ Claim: The host says Erika said she took two years off to study the Bible and th
 Transcript Snippet: She took 2 years off to study the Bible and said no one saw her except for her pastor and her pastor's wife.
 
 Anchored Artifacts: 
-Mentions: N-2, N-669
+Mentions: N-2, N-668
 Related Nodes: N-10693
 Tags: relevance:core
 Investigative Direction: Find Erika's own statement of the two years and identify the pastor.

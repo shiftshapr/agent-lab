@@ -14,8 +14,8 @@
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep114): N-10724, N-10863
   - Intro moved earlier (skeleton fill): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Tip-minted Nodes (skeleton): N-677, N-10969, N-10970
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-6, N-9, N-14, N-22, N-36, N-37, N-46, N-60, N-69, N-85, N-97, N-99, N-104, N-192, N-219, N-267, N-268, N-280, N-300, N-363, N-380, N-420, N-435, N-601, N-647, N-669, N-10000, N-10006, N-10012, N-10014, N-10023, N-10111, N-10131, N-10264, N-10268, N-10324, N-10342, N-10367, N-10373, N-10384, N-10398, N-10417, N-10505, N-10571, N-10588, N-10594, N-10651, N-10671, N-10673, N-10675, N-10700, N-10870, N-10888, N-10968, N-678
+  - Tip-minted Nodes (skeleton): N-676, N-10969, N-10970
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-5, N-6, N-9, N-14, N-22, N-36, N-37, N-46, N-60, N-69, N-85, N-97, N-99, N-104, N-191, N-218, N-266, N-267, N-279, N-299, N-362, N-379, N-419, N-434, N-600, N-646, N-668, N-10000, N-10006, N-10012, N-10014, N-10023, N-10111, N-10131, N-10264, N-10268, N-10324, N-10342, N-10367, N-10373, N-10384, N-10398, N-10417, N-10505, N-10571, N-10588, N-10594, N-10651, N-10671, N-10673, N-10675, N-10700, N-10870, N-10888, N-10968, N-677
   - Claim Range: C-3751, C-4483–C-4540
   - (see registers)
 
@@ -42,7 +42,7 @@ Video Timestamp: 00:01:26
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4483, C-4484, C-4485, N-22, N-647, N-380, N-69, N-104, N-267, N-5*
+*Related: C-4483, C-4484, C-4485, N-22, N-646, N-379, N-69, N-104, N-266, N-5*
 
 ---
 
@@ -57,7 +57,7 @@ Video Timestamp: 00:05:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4486, N-380, N-22, N-5*
+*Related: C-4486, N-379, N-22, N-5*
 
 **A-2647.2** November 21 Fox News article by Brooke Singman on the FBI's Crooks conclusion (shown in Bongino's video)
 
@@ -68,7 +68,7 @@ Video Timestamp: 00:07:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4487, C-4488, N-677, N-380, N-104, N-10006, N-10014*
+*Related: C-4487, C-4488, N-676, N-379, N-104, N-10006, N-10014*
 
 **A-2647.3** Text exchange between Tucker Carlson and Dan Bongino (displayed and read in Bongino's video)
 
@@ -79,7 +79,7 @@ Video Timestamp: 00:09:41
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4489, C-4490, N-380, N-22, N-69, N-5*
+*Related: C-4489, C-4490, N-379, N-22, N-69, N-5*
 
 ---
 
@@ -122,7 +122,7 @@ Video Timestamp: 00:20:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4508, N-2, N-669, N-10264, N-10970*
+*Related: C-4508, N-2, N-668, N-10264, N-10970*
 
 **A-2650.2** James Kaddis PragerU video (shown)
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:21:49
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4509, N-669, N-10131*
+*Related: C-4509, N-668, N-10131*
 
 ---
 
@@ -161,7 +161,7 @@ Video Timestamp: 00:42:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4527, C-4528, C-4529, N-435, N-10671, N-10384*
+*Related: C-4527, C-4528, C-4529, N-434, N-10671, N-10384*
 
 ---
 
@@ -176,7 +176,7 @@ Video Timestamp: 00:45:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-4531, C-4532, C-4533, C-4534, N-435, N-10700, N-10671, N-10888*
+*Related: C-4531, C-4532, C-4533, C-4534, N-434, N-10700, N-10671, N-10888*
 
 ---
 
@@ -355,91 +355,91 @@ Transcript spellings "Thomas Crooks" and "Matthew Crooks". Carlson says the FBI 
 
 *Related: C-3751, C-4484, C-4487, C-4488, A-2646.1, A-2647.2*
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 The host says he joined the Kirks' Maine vacation and that Katherine Locastro was once his assistant.
 
 *Related: C-4505, C-4511*
 
-**N-219** Eliza McCoy
+**N-218** Eliza McCoy
 
 Transcript "Eliza and Elizabeth McCoy". Said to have joined the Kirks' Maine vacation for the first time.
 
 *Related: C-4511*
 
-**N-267** Christopher Wray
+**N-266** Christopher Wray
 
 Transcript spelling "Chris Ray". Named by Carlson as heading the previous FBI administration.
 
 *Related: C-4484, A-2646.1*
 
-**N-268** Brian Harpole
+**N-267** Brian Harpole
 
 The host says she reached out to him for evidence and received a lawsuit instead.
 
 *Related: C-4526*
 
-**N-280** Bari Weiss
+**N-279** Bari Weiss
 
 Transcript spelling "Bari Weiss". The host says Erika Kirk appeared on stage with her saying those who do not support Israel have "brain rot."
 
 *Related: C-4517, C-4524*
 
-**N-300** Miriam Adelson
+**N-299** Miriam Adelson
 
 Transcript spelling "Miriam Adelson". Cited in the host's Israel theme for Trump.
 
 *Related: C-4495*
 
-**N-363** Mitch Snow
+**N-362** Mitch Snow
 
 The host says he stumbled on a meeting at Fort Huachuca and is convinced he saw Erika Kirk leaving a hotel there on September 8.
 
 *Related: C-4526, C-4530*
 
-**N-380** Dan Bongino
+**N-379** Dan Bongino
 
 Transcript spelling "Dan Bonino". According to Carlson, he said Trump shut down the Butler investigation; his response video and texts are played.
 
 *Related: C-3751, C-4483, C-4485, C-4486, C-4487, C-4489, C-4490, C-4494, A-2646.1, A-2647.1, A-2647.2, A-2647.3*
 
-**N-420** Derek Niekerk
+**N-419** Derek Niekerk
 
 Transcript spelling "Derek Nerk". Named as a bodyguard on Erika Kirk's July 14 Long Beach flight.
 
 *Related: C-4505*
 
-**N-435** Bradley Hansell
+**N-434** Bradley Hansell
 
 Transcript spelling "Bradley Hansel". His September 2025 SAM702 trip around Fort Huachuca is the subject of the host's FOIA request.
 
 *Related: C-4525, C-4527, C-4528, C-4529, C-4531, C-4532, C-4533, A-2652.1, A-2653.1*
 
-**N-647** Mario Nawfal
+**N-646** Mario Nawfal
 
 First named by the host at 00:00:01 in episode 114. Interviewed Tucker Carlson in the viral clip about Butler. Aliases: Mario Nofl; Mario Knoff.
 
 *Related: C-4483, A-2646.1*
 
-**N-677** Brooke Singman
+**N-676** Brooke Singman
 
 First named at 00:07:15 in episode 114, by Dan Bongino in his response clip. Fox reporter whose November 21 article on the FBI's Crooks conclusion Bongino cites. Aliases: Brook Singman.
 
 *Related: C-4487, A-2647.2*
 
-**N-601** Katherine Locastro
+**N-600** Katherine Locastro
 
 First named by the host at 00:19:42 in episode 114. Young TPUSA employee, once Mikey McCoy's assistant, on Erika Kirk's July 14 Long Beach flight. Aliases: Katherine Loccastro.
 
 *Related: C-4505*
 
-**N-678** Jonathan Barcelo
+**N-677** Jonathan Barcelo
 
 First named by the host at 00:19:42 in episode 114. Described as a Marine on Erika Kirk's July 14 Long Beach flight. Aliases: Jonathan Barcelo.
 
 *Related: C-4505*
 
-**N-669** James Kaddis
+**N-668** James Kaddis
 
 First named by the host at 00:19:42 in episode 114. Egyptian pastor the host says runs Turning Point USA Faith and introduced Erika Kirk at his Calvary Chapel church. Aliases: James Kaddis.
 
@@ -651,7 +651,7 @@ Claim: In a clip from his interview with Mario Nawfal, Tucker Carlson says Trump
 Transcript Snippet: I know that Trump shut down the investigation into Butler. That is a fact. Dan Bongino told me that when he worked at the FBI
 
 Anchored Artifacts: A-2646.1
-Mentions: N-22, N-380, N-5, N-647
+Mentions: N-22, N-379, N-5, N-646
 Related Nodes: N-10588
 Investigative Direction: Obtain the Carlson–Bongino text exchanges Carlson says he still has, and FBI records on the Butler case status after January 2025.
 
@@ -666,7 +666,7 @@ Claim: Carlson says he came into possession of many social media posts by Thomas
 Transcript Snippet: accidentally came into possession of a lot of the social media posts that we were told didn't exist that were posted by Thomas Crooks in the months and years before the shooting
 
 Anchored Artifacts: A-2646.1
-Mentions: N-22, N-104, N-267, N-69, N-380
+Mentions: N-22, N-104, N-266, N-69, N-379
 Related Nodes: N-10014, N-10111
 Investigative Direction: Compare the posts Carlson holds against FBI public statements on Crooks's online history.
 
@@ -681,7 +681,7 @@ Claim: Carlson says that after a long series of texts and calls, Bongino told hi
 Transcript Snippet: he said, "Look, take it up with Trump. He's the one who shut down the investigation." And that was, I think, the first or second week of December.
 
 Anchored Artifacts: A-2646.1
-Mentions: N-380, N-22, N-5
+Mentions: N-379, N-22, N-5
 Related Nodes: N-10588
 Investigative Direction: Obtain the December call and text records between Carlson and Bongino.
 
@@ -696,7 +696,7 @@ Claim: Recapping Tucker Carlson's account that he asked Dan Bongino and Kash Pat
 Transcript Snippet: this story, the butler story, perhaps the butler cover up, whatever it is, terrified Dan Bonino and terrified Kash Patel.
 
 Anchored Artifacts: 
-Mentions: N-3, N-22, N-380, N-69, N-104
+Mentions: N-3, N-22, N-379, N-69, N-104
 Related Nodes: 
 Investigative Direction: Obtain Carlson's full account and Bongino's response; compare FBI statements on Crooks's online history against what was later disclosed.
 
@@ -711,7 +711,7 @@ Claim: In his response video, Dan Bongino says Carlson's statement that the pres
 Transcript Snippet: He says that the president shut down the Butler investigation. Totally, completely 100% made up.
 
 Anchored Artifacts: A-2647.1
-Mentions: N-380, N-22, N-5
+Mentions: N-379, N-22, N-5
 Related Nodes: N-10588
 Investigative Direction: Obtain FBI case-status records and any White House communications on the Butler investigation.
 
@@ -726,7 +726,7 @@ Claim: Bongino shows a November 21 Fox News exclusive, which he says came from a
 Transcript Snippet: Here it was, November 21st, even before Tucker says he spoke to me in December. exclusive FBI concludes Trump shooter crooks acted alone after unprecedented global investigation.
 
 Anchored Artifacts: A-2647.2
-Mentions: N-380, N-677, N-104, N-22
+Mentions: N-379, N-676, N-104, N-22
 Related Nodes: N-10006, N-10014
 Investigative Direction: Retrieve the Fox News article of November 21 and the FBI statement it relies on.
 
@@ -741,7 +741,7 @@ Claim: According to the article Bongino reads, the Crooks case currently sits in
 Transcript Snippet: The case that's the crooks case he says was shut down currently sits in a pending inactive status.
 
 Anchored Artifacts: A-2647.2
-Mentions: N-380, N-104
+Mentions: N-379, N-104
 Related Nodes: N-10588
 Investigative Direction: Request the FBI's case status for the Butler shooting investigation and the definition of "pending inactive" in FBI case management.
 
@@ -756,7 +756,7 @@ Claim: In texts Bongino displays, he told Carlson the president is a victim and 
 Transcript Snippet: The president's a victim in a federal crime. And when he's ready for us to release more information about this crime, then I'll tell us. I suggest you give him a ring and tell him you want more.
 
 Anchored Artifacts: A-2647.3
-Mentions: N-380, N-22, N-5
+Mentions: N-379, N-22, N-5
 Related Nodes: N-10588
 Investigative Direction: Obtain the complete text thread between Carlson and Bongino.
 
@@ -771,7 +771,7 @@ Claim: The host argues that Bongino's text shows there is more information about
 Transcript Snippet: then there's more information that the president is aware has not been released to the public.
 
 Anchored Artifacts: A-2647.3
-Mentions: N-380, N-5
+Mentions: N-379, N-5
 Related Nodes: N-10588
 Investigative Direction: Identify withheld Butler investigation records through FOIA and congressional task force materials.
 
@@ -830,7 +830,7 @@ Claim: The host says the New York Times published a well-sourced piece "inside t
 Transcript Snippet: this is inside the White House freakout over the Epstein files.
 
 Anchored Artifacts: A-2648.1
-Mentions: N-380, N-5
+Mentions: N-379, N-5
 Related Nodes: N-10968, N-10324
 Investigative Direction: Retrieve the New York Times article and its sourcing description.
 
@@ -845,7 +845,7 @@ Claim: The host says Jeffrey Epstein was involved in a trafficking ring, traffic
 Transcript Snippet: he was involved in a trafficking ring. Uh, he traffked weapons. He traffked people. He did it uh on behalf of the state of Israel.
 
 Anchored Artifacts: 
-Mentions: N-9, N-5, N-300
+Mentions: N-9, N-5, N-299
 Related Nodes: N-10023
 Investigative Direction: Review released Epstein files and intelligence-related reporting for evidence of state sponsorship.
 
@@ -992,7 +992,7 @@ Claim: The host says that on July 14, 2025 Erika Kirk took a private flight to L
 Transcript Snippet: This July 14th date, Erika travels aboard a private flight to Long Beach, California. She's got Katherine Loccastro.
 
 Anchored Artifacts: A-2649.1
-Mentions: N-2, N-601, N-192, N-420, N-678, N-669
+Mentions: N-2, N-600, N-191, N-419, N-677, N-668
 Related Nodes: N-10571
 Investigative Direction: Obtain flight records for the July 14, 2025 Long Beach flight and the church event schedule.
 
@@ -1007,7 +1007,7 @@ Claim: The host says James Kaddis is an Egyptian, radically pro-Israel pastor wh
 Transcript Snippet: James Catis is that icky guy who is Egyptian and runs Turning Point USA faith.
 
 Anchored Artifacts: 
-Mentions: N-669
+Mentions: N-668
 Related Nodes: N-10398, N-10264, N-10000
 Investigative Direction: Check TPUSA Faith leadership listings and Calvary Chapel staff records.
 
@@ -1036,7 +1036,7 @@ Claim: In the clip played, Erika Kirk says the record of Israel is constant inva
 Transcript Snippet: the record of Israel is that there is constant invasion and warfare in the promised land.
 
 Anchored Artifacts: A-2650.1
-Mentions: N-2, N-669
+Mentions: N-2, N-668
 Related Nodes: N-10970, N-10264
 Investigative Direction: Obtain the full recording of the July 14, 2025 Calvary Chapel women's retreat.
 
@@ -1051,7 +1051,7 @@ Claim: The host shows what she says is James Kaddis's PragerU video, titled in e
 Transcript Snippet: This is literally his Prageru video. I'm an Egyptian pastor who supports Israel.
 
 Anchored Artifacts: A-2650.2
-Mentions: N-669
+Mentions: N-668
 Related Nodes: N-10131
 Investigative Direction: Locate the PragerU video and confirm the speaker's identity.
 
@@ -1082,7 +1082,7 @@ Claim: The host says Charlie Kirk vacationed in Maine for about two weeks from a
 Transcript Snippet: July 20thish, Charlie vacationed in Maine for a couple of weeks.
 
 Anchored Artifacts: A-2649.1
-Mentions: N-1, N-2, N-192, N-219
+Mentions: N-1, N-2, N-191, N-218
 Investigative Direction: Check photo metadata of the Maine images and the McCoys' travel records.
 
 ---
@@ -1170,7 +1170,7 @@ Claim: The host says that soon after Charlie Kirk's death Erika Kirk was on stag
 Transcript Snippet: as soon as Charlie passes away, she's up on stage with Bari Weiss saying anybody who doesn't support Israel has brain rot.
 
 Anchored Artifacts: 
-Mentions: N-2, N-280
+Mentions: N-2, N-279
 Related Nodes: N-10970
 Investigative Direction: Review the CBS / Bari Weiss town hall transcript for the remark.
 
@@ -1274,7 +1274,7 @@ Claim: The host says that under Erika Kirk TPUSA invited Bari Weiss and Ben Shap
 Transcript Snippet: We're going into a deeper partnership with International Fellowship of Christian and Jews.
 
 Anchored Artifacts: 
-Mentions: N-2, N-280, N-97
+Mentions: N-2, N-279, N-97
 Related Nodes: N-10000
 Investigative Direction: Check AmFest 2025 speaker lists and any TPUSA–IFCJ partnership announcement.
 
@@ -1289,7 +1289,7 @@ Claim: The host says Bradley Hansell is Trump's appointed under secretary of def
 Transcript Snippet: he is Trump's appointed under secretary of defense for intelligence and security.
 
 Anchored Artifacts: 
-Mentions: N-435, N-5
+Mentions: N-434, N-5
 Supports: C-2909
 Investigative Direction: Confirm Hansell's title and confirmation record.
 
@@ -1304,7 +1304,7 @@ Claim: The host says she cannot yet definitively state that Mitch Snow saw Brian
 Transcript Snippet: We have not seen any evidence to the contrary despite openly and kindly reaching out to Brian Harpole asking for that information. What we got was a lawsuit.
 
 Anchored Artifacts: 
-Mentions: N-268, N-363, N-3
+Mentions: N-267, N-362, N-3
 Related Nodes: N-10373, N-10651, N-10367
 Investigative Direction: Obtain Harpole's travel and location records for September 8–9, 2025 through the lawsuit's discovery.
 
@@ -1319,7 +1319,7 @@ Claim: The host says Hansell's itinerary went from Joint Base Andrews to Colorad
 Transcript Snippet: And then he flew from Tucson to Fort Huachuca on a most crucial date um September 8th.
 
 Anchored Artifacts: A-2652.1
-Mentions: N-435
+Mentions: N-434
 Related Nodes: N-10671, N-10384
 Investigative Direction: Obtain the SAM702 manifest for the Tucson-to-Fort Huachuca leg.
 
@@ -1334,7 +1334,7 @@ Claim: The host says that on September 9 the plane flew from Fort Huachuca to El
 Transcript Snippet: That same plane then flies from Fort Huachuca to El Paso and arrives at 1:20 p. m. local. Remains on the ground for 4 hours and 10 minutes
 
 Anchored Artifacts: A-2652.1
-Mentions: N-435
+Mentions: N-434
 Related Nodes: N-10671
 Investigative Direction: Pull ADS-B data for SAM702 on September 9, 2025.
 
@@ -1349,7 +1349,7 @@ Claim: The host says Hansell stayed 19 hours at Fort Huachuca, the longest stop 
 Transcript Snippet: Bradley Hansel remained on the ground the longest there for 19 hours. That's the longest stop in his trip.
 
 Anchored Artifacts: A-2652.1
-Mentions: N-435
+Mentions: N-434
 Related Nodes: N-10671
 Investigative Direction: Obtain Fort Huachuca visitor and lodging records for Hansell on September 8–9, 2025.
 
@@ -1364,7 +1364,7 @@ Claim: The host says September 8 is the day Mitch Snow is convinced he saw Erika
 Transcript Snippet: September 8th is significant because it's the day that Mitch Snow is convinced that he saw Erika Kirk at Fort Huachuca leaving a hotel.
 
 Anchored Artifacts: 
-Mentions: N-363, N-2, N-435
+Mentions: N-362, N-2, N-434
 Related Nodes: N-10417, N-10367
 Investigative Direction: Obtain Fort Huachuca lodging registers for September 7–9, 2025.
 
@@ -1379,7 +1379,7 @@ Claim: The host says her team filed a FOIA request for Hansell's travel logs to 
 Transcript Snippet: So, he decided to file an FOIA request for his travel logs.
 
 Anchored Artifacts: A-2653.1
-Mentions: N-435, N-3
+Mentions: N-434, N-3
 Related Nodes: N-10700, N-10671
 Investigative Direction: Track the FOIA request number and status.
 
@@ -1394,7 +1394,7 @@ Claim: The FOIA response the host reads says it cannot respond within the 20-day
 Transcript Snippet: we will not be able to respond within the FOIA's 20-day statutory time period as there are unusual circumstances which impact our ability to quickly process your request.
 
 Anchored Artifacts: A-2653.1
-Mentions: N-435
+Mentions: N-434
 Related Nodes: N-10700, N-10671
 Investigative Direction: Ask the FOIA office which agencies are being consulted, and appeal the delay.
 
@@ -1409,7 +1409,7 @@ Claim: The host says Hansell works for the Department of War and that she confir
 Transcript Snippet: He works for the Department of War and it was the flight was booked from his office. I've confirmed that.
 
 Anchored Artifacts: A-2653.1
-Mentions: N-435
+Mentions: N-434
 Related Nodes: N-10888
 Investigative Direction: Obtain the SAM702 mission request and booking office from the Air Force's 89th Airlift Wing.
 
@@ -1698,7 +1698,7 @@ Confidence: medium
 - **Duration**: the skeleton's Video Timestamp Range (00:56:29) did not match the transcript front matter (1:02:38); it has been set to 00:00:00–01:02:38. The skeleton's Ledger Summary claim-range lines and its stray template heading were replaced per spec.
 - **Artifacts referenced but not shown or uncertain**: A-2649.1 (host's timeline; plotted on air, presumably on screen), A-2650.2 (James Kaddis PragerU video; "This is literally his Prageru video" suggests it was shown), A-2657.1 (verbal appeal only). The New York Times article, US magazine article and Elizabeth Lane's tweet are referenced; only the NYT text is read aloud (A-2648.1).
 - **DIA scan**: one keyword hit, "more tips@candice. com" (01:00:06). The host misspoke it while meaning to plug support for the show, and corrected herself ("Why would you guys give me more tips?"). It directly follows her appeal to Kirk family members to "Reach out ... I'd keep it all off record". It is treated as a DIA beat (C-4540, A-2657.1, M-12), but the integrator may prefer to drop it given the slip. "candace Owens. com" at the same mark is a support/merch plug, not a DIA beat. The 19:42 remark "I've received so many emails about him" relays past tips without a request and is not inscribed.
-- **Name matching**: "Mario Nofl" / "Mario Knoff" mapped to Mario Nawfal (title reused from staging episode 109). "Katherine Loccastro" reuses the staging title Katherine Locastro (episode 084). "Derek Nerk" mapped to N-420 Derek Niekerk (earlier drafts list Niekerk on the same Long Beach flight). "Jonathan Barcelo" is new (earlier draft spelling "Jonathan Barcelo"). "James Kaddis" / "James Kaddis" is minted as N-669 James Kaddis; the real spelling may be Kaddis and is unverified. "Bradley Hansel" maps to N-435 Bradley Hansell. "Brook Singman" (named by Bongino) is minted as N-677 Brooke Singman. "Chris Ray" maps to N-267 Christopher Wray. "Stacy taps on their shoulder" (28:47) probably refers to Stacy Sheridan (existing node), but she is not cited because only the first name is given. "Pete Hegsth" (00:43, Pete Hegseth, existing node) is named only in passing and is not cited. "Andy Shaker", "Jasmine" and "Justin" in the Bongino clip are unidentified show staff and not minted. "Elizabeth Lane" is mapped to N-6.
+- **Name matching**: "Mario Nofl" / "Mario Knoff" mapped to Mario Nawfal (title reused from staging episode 109). "Katherine Loccastro" reuses the staging title Katherine Locastro (episode 084). "Derek Nerk" mapped to N-419 Derek Niekerk (earlier drafts list Niekerk on the same Long Beach flight). "Jonathan Barcelo" is new (earlier draft spelling "Jonathan Barcelo"). "James Kaddis" / "James Kaddis" is minted as N-668 James Kaddis; the real spelling may be Kaddis and is unverified. "Bradley Hansel" maps to N-434 Bradley Hansell. "Brook Singman" (named by Bongino) is minted as N-676 Brooke Singman. "Chris Ray" maps to N-266 Christopher Wray. "Stacy taps on their shoulder" (28:47) probably refers to Stacy Sheridan (existing node), but she is not cited because only the first name is given. "Pete Hegsth" (00:43, Pete Hegseth, existing node) is named only in passing and is not cited. "Andy Shaker", "Jasmine" and "Justin" in the Bongino clip are unidentified show staff and not minted. "Elizabeth Lane" is mapped to N-6.
 - **Transcription ambiguities**: "Fort Huachuca" = Fort Huachuca; "ZAS" = SAS; "why Rei" = Why Refi; "Aster at the Aspen investor retreat" is kept as spoken; "FOI AFU" / "FOFU" / "fifu" are kept as spoken. The host's "Larry Loomer" is a deliberate nickname for Laura Loomer (N-60).
 - **Cross-episode links**: C-4510 Supports C-1675 (July 18 UVU request), C-4519 Supports C-1128 (Hamptons intervention), C-4525 Supports C-2909 (Hansell's title). Possible links left out: C-2111 (episode 58, Fort Huachuca-affiliated individuals saw Erika at the base; different source from Mitch Snow) and C-2677 (episode 89, Trump said to be satisfied with the Butler investigation; related but a different proposition).
 - **Not inscribed as claims (admission test)**: "Erika's a psychopath" and related characterisations; "Trump betrayed Charlie Kirk"; "Trump is very vain"; the two-option staged-versus-warning framing (only the host's preferred option is inscribed, as C-4492); Bongino "is just lying" and the demeanour reading; "Kash Patel ... constantly looks like he is in a state of terror"; "Trump, I believe, said yes" (kept only as context in C-4520); "the organization died with Charlie"; rhetorical questions on who Hansell picked up or dropped off; the viewer joke about Ivanka and an Albanian nuclear bomb.

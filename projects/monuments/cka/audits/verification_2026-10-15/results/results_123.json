@@ -1,0 +1,827 @@
+[
+ {
+  "claim": "C-8517",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8518",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"Andrew described a plane as a massive plane to me\"; claim says \"the plane he flew\".",
+  "fix": {
+   "claim": "The host says Andrew Kolvet described a plane as a \"massive plane\" to her multiple times and, she thinks, said publicly on a show that he had this massive plane to himself, and that a Hawker Beechcraft would not be called massive."
+  }
+ },
+ {
+  "claim": "C-8519",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8520",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8521",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8522",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8523",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "N-332 Baron Coleman is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-8524",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8525",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8526",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8527",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Ross Douthat (N-809) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-14",
+    "N-97"
+   ]
+  }
+ },
+ {
+  "claim": "C-8528",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Ross Douthat (N-809) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-8529",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8530",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8531",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8532",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Shirley's Rio gang footage is unrelated to the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8533",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8534",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8535",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8536",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8537",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Erika Kirk (N-2) not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-14",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-8538",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Erika Kirk (N-2) not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-8539",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8540",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8541",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host hedges \"Is that the right person? I hope I got that right\"; she says \"called to testify\" by Robinson's defense, not \"subpoena\".",
+  "fix": {
+   "claim": "The host says Joe Kent was interviewed by Michael Shellenberger (she is not sure she has the name right) and, asked whether his statements could result in his being called to testify by Tyler Robinson's defense team, answered that it was not his goal and that his goal was just to tell the truth."
+  }
+ },
+ {
+  "claim": "C-8542",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8543",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Clip: \"They get him to drive up to Orem and turn himself in\", not that he was driven.",
+  "fix": {
+   "claim": "In the clip, the speakers say Tyler Robinson's parents recognized the released photo, a family friend sat with him, he admitted it and they got him to drive up to Orem to turn himself in."
+  }
+ },
+ {
+  "claim": "C-8544",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8545",
+  "episode": 82,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host later (52:41) attributes the \"I'm told it's a whopper\" and new-evidence remarks to Andrew, not Neff; clip speaker unlabelled.",
+  "fix": {
+   "claim": "In the clip, Andrew Kolvet says even more evidence will be presented in May at the evidentiary hearing, that it is a mountain, and that he is told prosecutors have Robinson dead to rights.",
+   "mentions": [
+    "N-14",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-8546",
+  "episode": 82,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Same monologue as 46:55 clip; host later attributes it to Andrew Kolvet, not Neff.",
+  "fix": {
+   "claim": "In the clip, Andrew Kolvet says government officials are now saying on the record to journalists that they are willing to testify on behalf of the defense.",
+   "mentions": [
+    "N-14",
+    "N-40",
+    "N-211"
+   ]
+  }
+ },
+ {
+  "claim": "C-8547",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8548",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Neff and Kolvet but Mentions omit N-161 and N-14.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-161",
+    "N-14",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-8549",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8550",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8551",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8552",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8553",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8554",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8555",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Blake Neff (N-161) not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-8556",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8557",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host hedges \"or something\"; \"they\", not TPUSA.",
+  "fix": {
+   "claim": "The host says Andrew was very upset about the interview and that they were just going to let Ben take over Turning Point \"or something\", with Erika letting him open."
+  }
+ },
+ {
+  "claim": "C-8558",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Dave Smith (N-39) not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-811"
+   ]
+  }
+ },
+ {
+  "claim": "C-8559",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Comment says \"one of the TPUSA guys, I did not know them, an eff or Andrew Kolvet\"; not a \"spokesperson\".",
+  "fix": {
+   "claim": "The host reads a comment from Anna that days after Charlie was killed one of the TPUSA guys, which she names as an unclear name or Andrew Kolvet, said a large donor called Erika right after the shooting, asked if she knew everything about TPUSA, and chose her to replace Charlie."
+  }
+ },
+ {
+  "claim": "C-8560",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I think he's a donor\"; hedge dropped. Unresolved name spelling \"De Root\" maps to N-498.",
+  "fix": {
+   "claim": "The host guesses the donor was Doug DeGroote, whom she says is on the board and she thinks is a donor, while saying she does not know."
+  }
+ },
+ {
+  "claim": "C-8561",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8562",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2560",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2561",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: \"Nick Searcy\" (likely Nick Shirley, who was the guest; web search could not confirm).",
+  "fix": {}
+ },
+ {
+  "claim": "C-2562",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2563",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika is named in claim but N-2 missing; Mikey \"rang her first... conferenced in Erika\" is said ~12:50, over 85s after 11:23.",
+  "fix": {
+   "timestamp": "00:12:45",
+   "mentions": [
+    "N-219",
+    "N-192",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2564",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: Lauren Tonchech (host unsure of spelling).",
+  "fix": {}
+ },
+ {
+  "claim": "C-2565",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stacey Sheridan (N-188) named in claim but Mentions empty.",
+  "fix": {
+   "mentions": [
+    "N-188"
+   ]
+  }
+ },
+ {
+  "claim": "C-2566",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: they \"raced to the hospital... Mikey McCoy met them all outside\", not at the Utah airport; Erika and Kolvet named but not in Mentions.",
+  "fix": {
+   "claim": "The host says that, per Elizabeth McCoy's alleged narrative (and Andrew Kolvet's account, if he is to be believed), Mikey McCoy met them outside the hospital, and Elizabeth went in with Erica to see Charlie's body for the first time.",
+   "mentions": [
+    "N-219",
+    "N-192",
+    "N-2",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-2567",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Neither-confirm-nor-deny passage is elided ([...]) in excerpt; unverifiable.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2568",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "13-part thread read at ~31:31-31:45, over 3 min after 28:11. Tucker Carlson is not named in the thread coverage.",
+  "fix": {
+   "timestamp": "00:31:30",
+   "claim": "Alexis Wilkins published a 13-part X thread alleging a foreign-linked influence network operating for 22 months against the Trump administration and implicating Candace Owens, Joe Kent, and General Flynn.",
+   "mentions": [
+    "N-3",
+    "N-214",
+    "N-211",
+    "N-915"
+   ]
+  }
+ },
+ {
+  "claim": "C-2569",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2570",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "General Michael Flynn (N-915) named in claim but not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-214",
+    "N-915"
+   ]
+  }
+ },
+ {
+  "claim": "C-2571",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2572",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2573",
+  "episode": 83,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

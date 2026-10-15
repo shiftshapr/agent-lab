@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 1a470c9a6f223d7322321ad99025c98532a7e3253b185b43561425b2be5ecefd
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-861, N-862, N-11255
-  - Hole-minted Nodes (reintro-ep076): N-154, N-595, N-10528, N-10532, N-10541, N-10698
-  - Tip-minted Nodes (reintro-ep076): N-739, N-10929, N-10990, N-11192
+  - Tip-minted Nodes (supplement_2026-10d): N-860, N-861, N-11255
+  - Hole-minted Nodes (reintro-ep076): N-153, N-594, N-10528, N-10532, N-10541, N-10698
+  - Tip-minted Nodes (reintro-ep076): N-738, N-10929, N-10990, N-11192
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-10227–C-10298
-  - New Nodes Introduced: N-572, N-573, N-574, N-575, N-10519, N-10522, N-10523, N-10524
-  - Reused Nodes Appearing: N-1, N-2, N-559, N-5, N-11, N-131, N-363, N-439, N-442, N-491, N-522, N-531, N-547, N-691, N-715, N-10000, N-10075, N-10116, N-10395, N-10401, N-10417, N-10473, N-10476, N-10477, N-10486, N-10502, N-10988, N-11164, N-11165, N-11166, N-11180, N-11248, N-10520, N-10521
+  - New Nodes Introduced: N-571, N-572, N-573, N-574, N-10519, N-10522, N-10523, N-10524
+  - Reused Nodes Appearing: N-1, N-2, N-558, N-5, N-11, N-131, N-362, N-438, N-441, N-490, N-521, N-530, N-546, N-690, N-714, N-10000, N-10075, N-10116, N-10395, N-10401, N-10417, N-10473, N-10476, N-10477, N-10486, N-10502, N-10988, N-11164, N-11165, N-11166, N-11180, N-11248, N-10520, N-10521
 
 # Episode Analysis: Monument Episode 76 – "Did Erika Kirk Know Jeffrey Epstein?"
 
@@ -38,8 +38,8 @@
 
 - **Artifact Families Introduced:** A-1809, A-1810, A-1811, A-1812, A-1813, A-1814, A-1815, A-1816, A-1817, A-1818, A-1819, A-1820, A-1821
 - **Claim Range:** C-2419–C-2436
-- **New Nodes Introduced:** N-572, N-573, N-574, N-575, N-10519, N-10520, N-10521, N-10522, N-10523, N-10524
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-559 (Lynn Forester de Rothschild)
+- **New Nodes Introduced:** N-571, N-572, N-573, N-574, N-10519, N-10520, N-10521, N-10522, N-10523, N-10524
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk), N-558 (Lynn Forester de Rothschild)
 
 ---
 
@@ -47,7 +47,7 @@
 
 This episode advances two parallel investigative tracks: (1) alleged intersections between Erika Kirk's biography and Jeffrey Epstein's documented network (pageant world, Romania/ASU, Next Model Management, Corcoran Group, the Rothschilds), and (2) tightening of the September 8, 2025 timeline to argue that Erika was not present in the Kirk home on the day of Charlie Kirk's assassination. The host frames these as cumulative "coincidences" surrounding a subject she accuses of "dancing around" Epstein.
 
-Evidentiary material presented in-episode includes a quoted 2012 Epstein–Märtha Louise of Norway email about designing humans in labs, a host-authored January 29, 2026 tweet about Andrew Kolvet and Mikey McCoy's West Wing presence, a Father Ripberger clip discussing occult family pedigrees, references to specific Epstein emails (Faith Kates correspondence; Corcoran Group references; Linda Rothschild background), the host's unanswered email to Erika Kirk and TPUSA spokesperson Andrew Colebat, a Jezebel article timestamped at 9:49 AM Arizona time on September 8, Erika Kirk's Ephesians 4:5 tweet timestamped at 10:49 AM Arizona time that same day, multiple Charlie Kirk Show segments from September 8 (including a Bears game discussion), a Frank Turek interview describing a Monday night walk, and a Blake Neff clip from the Todd Chris podcast.
+Evidentiary material presented in-episode includes a quoted 2012 Epstein–Märtha Louise of Norway email about designing humans in labs, a host-authored January 29, 2026 tweet about Andrew Kolvet and Mikey McCoy's West Wing presence, a Father Ripperger clip discussing occult family pedigrees, references to specific Epstein emails (Faith Kates correspondence; Corcoran Group references; Linda Rothschild background), the host's unanswered email to Erika Kirk and TPUSA spokesperson Andrew Kolvet, a Jezebel article timestamped at 9:49 AM Arizona time on September 8, Erika Kirk's Ephesians 4:5 tweet timestamped at 10:49 AM Arizona time that same day, multiple Charlie Kirk Show segments from September 8 (including a Bears game discussion), a Frank Turek interview describing a Monday night walk, and a Blake Neff clip from the Todd Chris podcast.
 
 Structurally, this episode pivots the Bride of Charlie investigation toward a specific named-figure linkage hypothesis (Erika ↔ Epstein) and develops the September 8 alibi-skeptic narrative introduced in prior episodes.
 
@@ -65,7 +65,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (read aloud; underlying email source not independently shown)
 
-*Related: C-2419, N-9, N-573*
+*Related: C-2419, N-9, N-572*
 
 ---
 
@@ -79,13 +79,13 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (tweet quoted in full)
 
-*Related: C-2420, C-2421, C-2422, N-1, N-2, N-14, N-192, N-161*
+*Related: C-2420, C-2421, C-2422, N-1, N-2, N-14, N-191, N-160*
 
 ---
 
-### **A-1811** Father Ripberger – Shawn Ryan Podcast Clip Bundle
+### **A-1811** Father Ripperger – Shawn Ryan Podcast Clip Bundle
 
-**A-1811.1** Audio clip of Father Ripberger on the Shawn Ryan podcast discussing occult family lineages extending to the 1500s–1600s and the training of children into occult practice through secret societies.
+**A-1811.1** Audio clip of Father Ripperger on the Shawn Ryan podcast discussing occult family lineages extending to the 1500s–1600s and the training of children into occult practice through secret societies.
 
 - Event Timestamp: Unknown (prior to 2026-03-10)
 - Source Timestamp: Unknown
@@ -93,7 +93,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: High (clip played in-episode)
 
-*Related: C-2434, N-574*
+*Related: C-2434, N-573*
 
 ---
 
@@ -109,7 +109,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (specific emails referenced by host; bar mitzvah email specifically cited)
 
-*Related: C-2423, C-2424, N-9, N-572*
+*Related: C-2423, C-2424, N-9, N-571*
 
 ---
 
@@ -123,7 +123,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host asserts "says it right there" but underlying email not independently displayed)
 
-*Related: C-2425, N-9, N-559, N-575*
+*Related: C-2425, N-9, N-558, N-574*
 
 ---
 
@@ -137,13 +137,13 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host cites "someone read a background"; underlying document not displayed)
 
-*Related: C-2426, N-559, N-575*
+*Related: C-2426, N-558, N-574*
 
 ---
 
 ### **A-1815** Candace Owens Email to Erika Kirk Bundle
 
-**A-1815.1** Host's email to Erika Kirk (cc'd to TPUSA spokesperson Andrew Colebat) inquiring about the context of Erika's meetings at Next Model Management in New York City. No response received within 48 hours, per host.
+**A-1815.1** Host's email to Erika Kirk (cc'd to TPUSA spokesperson Andrew Kolvet) inquiring about the context of Erika's meetings at Next Model Management in New York City. No response received within 48 hours, per host.
 
 - Event Timestamp: Approximately 2026-03-08 (48 hours prior to broadcast)
 - Source Timestamp: Approximately 2026-03-08
@@ -225,7 +225,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (clip played; host notes it was subsequently removed from the Twitter stream but remains on Rumble)
 
-*Related: C-2432, N-1, N-161*
+*Related: C-2432, N-1, N-160*
 
 ---
 
@@ -239,7 +239,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 - Discovery Timestamp: 2026-03-10
 - Confidence Level: Medium (host reports producer relay; underlying message not shown)
 
-*Related: C-2433, N-161, A-1820.1*
+*Related: C-2433, N-160, A-1820.1*
 
 ---
 
@@ -252,20 +252,20 @@ Video Timestamp: 00:12:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10239, N-10522, N-14, N-192, N-3, N-69*
+*Related: C-10239, N-10522, N-14, N-191, N-3, N-69*
 
 ---
 
 **A-3065.2** Host reads the White House sources' reply listing who could have been in the offices near the lobby
 
-Quoted text: "the offices in that general region are senior White House staff. It could be Susie Wiles, Stephen Miller, James Braid."
+Quoted text: "the offices in that general region are senior White House staff. It could be Susie Wiles, Stephen Miller, James Blair."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:12:57
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10240, C-10241, N-10075, N-10522, N-131, N-154, N-3, N-69, N-861*
+*Related: C-10240, C-10241, N-10075, N-10522, N-131, N-153, N-3, N-69, N-860*
 
 ---
 
@@ -319,7 +319,7 @@ Video Timestamp: 00:22:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10266, C-10268, C-10269, N-10519, N-10532, N-10698, N-2, N-3, N-572, N-9*
+*Related: C-10266, C-10268, C-10269, N-10519, N-10532, N-10698, N-2, N-3, N-571, N-9*
 
 ---
 
@@ -330,7 +330,7 @@ Video Timestamp: 00:23:37
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10270, C-10271, C-10272, N-10519, N-10532, N-2, N-572, N-9*
+*Related: C-10270, C-10271, C-10272, N-10519, N-10532, N-2, N-571, N-9*
 
 ---
 
@@ -356,7 +356,7 @@ Video Timestamp: 00:38:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10287, C-10290, C-10291, C-10292, C-10293, C-10294, C-10295, N-1, N-10473, N-10476, N-10477, N-10521, N-2, N-3, N-491, N-7*
+*Related: C-10287, C-10290, C-10291, C-10292, C-10293, C-10294, C-10295, N-1, N-10473, N-10476, N-10477, N-10521, N-2, N-3, N-490, N-7*
 
 ---
 
@@ -414,7 +414,7 @@ Investigative Pressure: High
 
 ---
 
-**N-572** Faith Kates
+**N-571** Faith Kates
 
 Co-founder of Next Model Management (NYC) referenced as central to Epstein's email network (~4,000 emails) and as the subject of A-1812 artifacts.
 
@@ -427,7 +427,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-573** Martha Louise of Norway
+**N-572** Martha Louise of Norway
 
 Norwegian princess; correspondent with Jeffrey Epstein (A-1809.1).
 
@@ -440,7 +440,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-574** Father Chad Ripberger
+**N-573** Father Chad Ripperger
 
 Catholic exorcist referenced in A-1811.1 discussing occult pedigree families.
 
@@ -466,7 +466,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Referenced in A-1810.1 as allegedly accompanying Kolvet to the West Wing with his wife Elizabeth. Note: transcript spells name "McCoy" in one instance and "McVoy" in another – see Optional Flags.
 
@@ -479,7 +479,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 Subject of A-1820 and A-1821; referenced regarding Erika's alleged comments about Charlie and the faith revolution, and the producer relay on Rumble/Twitter stream divergence.
 
@@ -505,7 +505,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-575** Pam Lehman
+**N-574** Pam Lehman
 
 Per host, featured in the Epstein files and described as helping Epstein with real estate deals; context unclear.
 
@@ -514,7 +514,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1813.1, N-559*
+*Related: A-1813.1, N-558*
 
 ---
 
@@ -529,7 +529,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1815.1, C-2427, N-2, N-572*
+*Related: A-1815.1, C-2427, N-2, N-571*
 
 ---
 
@@ -542,7 +542,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-2, N-575, N-559*
+*Related: N-2, N-574, N-558*
 
 ---
 
@@ -568,7 +568,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1810.1, C-2420, C-2421, C-2422, N-14, N-192*
+*Related: A-1810.1, C-2420, C-2421, C-2422, N-14, N-191*
 
 ---
 
@@ -581,7 +581,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1814.1, C-2426, N-559*
+*Related: A-1814.1, C-2426, N-558*
 
 ---
 
@@ -594,7 +594,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1812.1, A-1812.2, C-2423, C-2424, N-572, N-9*
+*Related: A-1812.1, A-1812.2, C-2423, C-2424, N-571, N-9*
 
 ---
 
@@ -638,17 +638,17 @@ White House chief of staff named by the host's sources as a possible occupant of
 
 ---
 
-**N-154** James Blair
+**N-153** James Blair
 
-Transcribed as James Braid; named by the host's sources as a possible occupant of the West Wing offices.
+Transcribed as James Blair; named by the host's sources as a possible occupant of the West Wing offices.
 
-Aliases: James Braid (transcript spelling)
+Aliases: James Blair (transcript spelling)
 
 *Related: C-10240*
 
 ---
 
-**N-363** Mitch Snow
+**N-362** Mitch Snow
 
 Fort Huachuca witness whom the host says she is now leaning toward believing.
 
@@ -656,7 +656,7 @@ Fort Huachuca witness whom the host says she is now leaning toward believing.
 
 ---
 
-**N-439** Johnny Moore
+**N-438** Johnny Moore
 
 Named by the host as the link between Kairos and Mark Burnett.
 
@@ -664,7 +664,7 @@ Named by the host as the link between Kairos and Mark Burnett.
 
 ---
 
-**N-442** Mark Burnett
+**N-441** Mark Burnett
 
 Producer the host says Erika floated around and who ran The Apprentice.
 
@@ -672,7 +672,7 @@ Producer the host says Erika floated around and who ran The Apprentice.
 
 ---
 
-**N-491** Lori Frantzve
+**N-490** Lori Frantzve
 
 Transcribed Lori Frantzve; the host says Charlie met her at a clinic appointment on September 8.
 
@@ -682,7 +682,7 @@ Aliases: Lori Frantzve (transcript spelling)
 
 ---
 
-**N-522** Rothschild Family
+**N-521** Rothschild Family
 
 The host says Epstein worked directly for the Rothschilds.
 
@@ -690,7 +690,7 @@ The host says Epstein worked directly for the Rothschilds.
 
 ---
 
-**N-531** Jean-Luc Brunel
+**N-530** Jean-Luc Brunel
 
 Paris modeling agent (MC2) the host ties to Epstein's modeling-agency trafficking and a Tel Aviv office.
 
@@ -700,7 +700,7 @@ Aliases: John Luke Brunel (transcript spelling)
 
 ---
 
-**N-547** Tracy Martin
+**N-546** Tracy Martin
 
 Neighbors reportedly saw the Kirk children with her husband.
 
@@ -708,7 +708,7 @@ Neighbors reportedly saw the Kirk children with her husband.
 
 ---
 
-**N-559** Lynn Forester de Rothschild
+**N-558** Lynn Forester de Rothschild
 
 Transcribed Linda Rothschild; the host says she is president of the Corcoran Group.
 
@@ -716,7 +716,7 @@ Transcribed Linda Rothschild; the host says she is president of the Corcoran Gro
 
 ---
 
-**N-595** Pete Hegseth
+**N-594** Pete Hegseth
 
 Defense Secretary to whom the Air Force Academy board reports, per the host.
 
@@ -724,17 +724,17 @@ Defense Secretary to whom the Air Force Academy board reports, per the host.
 
 ---
 
-**N-691** Otto Busher
+**N-690** Otto Busher
 
-Colonel the host links to the Constanta Marine rotation and later trafficking accusations; transcribed Otto Boucher and Otto Busher.
+Colonel the host links to the Constanta Marine rotation and later trafficking accusations; transcribed Otto Busher and Otto Busher.
 
-Aliases: Colonel Otto Boucher; Colonel Otto Busher (transcript spellings)
+Aliases: Colonel Otto Busher; Colonel Otto Busher (transcript spellings)
 
 *Related: C-10255, C-10261*
 
 ---
 
-**N-715** Kamala Harris
+**N-714** Kamala Harris
 
 Compared by the host to Erika and linked to her mother's alleged MK Ultra involvement.
 
@@ -742,11 +742,11 @@ Compared by the host to Erika and linked to her mother's alleged MK Ultra involv
 
 ---
 
-**N-739** Dennis Frantzve
+**N-738** Dennis Frantzve
 
-Erika Kirk's cousin, transcribed Dennis Fronkvey, whom the host names as leading the Black Sea Rotational Force in Constanta in 2010.
+Erika Kirk's cousin, transcribed Dennis Frantzve, whom the host names as leading the Black Sea Rotational Force in Constanta in 2010.
 
-Aliases: Dennis Fronkvey (transcript spelling)
+Aliases: Dennis Frantzve (transcript spelling)
 
 *Related: C-10254*
 
@@ -936,7 +936,7 @@ Existing topic reused for the host's Frankist claim about Epstein.
 
 ---
 
-**N-861** Stephen Miller
+**N-860** Stephen Miller
 
 First named by the host at 00:12:57 in episode 76. White House official named by the host's sources as a possible occupant of the West Wing offices.
 
@@ -944,7 +944,7 @@ First named by the host at 00:12:57 in episode 76. White House official named by
 
 ---
 
-**N-862** Les Wexner
+**N-861** Les Wexner
 
 First named by the host at 00:16:53 in episode 76. Retail executive the host says handed Epstein the keys to a casting role for Victoria's Secret.
 
@@ -976,10 +976,10 @@ College where the host says Erika Kirk is slated to speak and students object.
 
 Claim Timestamp: 00:07:04–00:07:57
 
-Claim: A 2012 email exchange between Jeffrey Epstein and Princess Märtha Louise of Norway discussed food and antibiotics suppressing human fertility and concluded that humans could ultimately be "designed in a lab."
+Claim: Per a 2012 email the host reads, Princess Märtha Louise of Norway wrote to Jeffrey Epstein that a cocktail of unnaturals affects early human development, that soon people won't be able to make new humans, and that humans could be designed in a lab; the host says the lead-up discussed food and antibiotics destroying living organisms.
 
 Anchored Artifacts: A-1809.1
-Mentions: N-9, N-573
+Mentions: N-9, N-572
 Investigative Direction: Obtain the underlying 2012 email(s) from the Epstein files release and verify both authorship and the quoted text.
 
 ---
@@ -988,10 +988,10 @@ Investigative Direction: Obtain the underlying 2012 email(s) from the Epstein fi
 
 Claim Timestamp: 00:12:57–00:13:53
 
-Claim: According to a January 29, 2026 Candace Owens tweet sourced to White House personnel, Andrew Kolvet and Mikey McCoy (allegedly with his wife Elizabeth) were in the West Wing on January 29, 2026 while the Charlie Kirk Show was presenting a pre-recorded interview with Kash Patel as live.
+Claim: According to a tweet the host says she published, sourced to White House personnel, Andrew Kolvet was in the West Wing on January 29, 2026 while the Charlie Kirk Show presented a pre-recorded interview with Kash Patel as live; the tweet says it is unconfirmed but believed that Mikey McCoy and his wife Elizabeth accompanied him.
 
 Anchored Artifacts: A-1810.1
-Mentions: N-14, N-192, N-3, N-69
+Mentions: N-14, N-191, N-3, N-69
 Related Nodes: N-10522
 Investigative Direction: Obtain independent White House visitor logs for January 29, 2026 to verify presence; obtain the pre-recorded episode audio.
 
@@ -1001,7 +1001,7 @@ Investigative Direction: Obtain independent White House visitor logs for January
 
 Claim Timestamp: 00:13:53
 
-Claim: The Charlie Kirk Show episode in which Kash Patel appeared was pre-recorded on January 28, 2026 (per host, two days before the tweet) rather than broadcast live.
+Claim: The host says the Charlie Kirk Show episode with Kash Patel was pre-recorded and Andrew Kolvet presented it as though it were live, rather than Patel phoning in live.
 
 Anchored Artifacts: A-1810.1
 Mentions: N-14, N-69
@@ -1014,10 +1014,10 @@ Investigative Direction: Compare the episode's audio/video metadata against the 
 
 Claim Timestamp: 00:15:55
 
-Claim: The host says the Epstein files were released on January 30, 2026, the day after the January 29 Kolvet/McCoy West Wing meeting.
+Claim: The host says the Epstein files were released on January 30, 2026, the day after the January 29 West Wing meeting she says Andrew Kolvet attended.
 
 Anchored Artifacts: A-1810.1 (provides the date-stamped framing)
-Mentions: N-9
+Mentions: N-9, N-14
 Related Nodes: N-10522
 Investigative Direction: Confirm the official release date of the Epstein files and compare against the documented meeting date.
 
@@ -1027,10 +1027,10 @@ Investigative Direction: Confirm the official release date of the Epstein files 
 
 Claim Timestamp: 00:22:10
 
-Claim: Faith Kates appears approximately 4,000 times in Jeffrey Epstein's email correspondence.
+Claim: The host says a tipster told her Faith Kates is in Jeffrey Epstein's emails "like 4,000 times".
 
 Anchored Artifacts: A-1812.1
-Mentions: N-9, N-572
+Mentions: N-9, N-571
 Related Nodes: N-10524
 Investigative Direction: Search the publicly released Epstein email corpus for Kates-name frequency counts and sample contents.
 
@@ -1043,7 +1043,7 @@ Claim Timestamp: 00:22:57
 Claim: Jeffrey Epstein was invited via email to Faith Kates' son's bar mitzvah.
 
 Anchored Artifacts: A-1812.2
-Mentions: N-9, N-572
+Mentions: N-9, N-571
 Related Nodes: N-10524
 Investigative Direction: Locate the specific Epstein-files email containing the bar mitzvah invitation and verify sender/recipient.
 
@@ -1056,7 +1056,7 @@ Claim Timestamp: 00:27:39–00:28:26
 Claim: The host says the Corcoran real estate group is referenced repeatedly across Jeffrey Epstein's emails.
 
 Anchored Artifacts: A-1813.1
-Mentions: N-9, N-559, N-575
+Mentions: N-9
 Investigative Direction: Search Epstein-files email corpus for Corcoran/Linda Rothschild references.
 
 ---
@@ -1068,17 +1068,17 @@ Claim Timestamp: 00:28:26
 Claim: The host says a background document on Linda Rothschild, tied to Epstein's files, lists her alternate names and identifies her as president of the Corcoran Group.
 
 Anchored Artifacts: A-1814.1
-Mentions: N-559
+Mentions: N-558
 Related Nodes: N-10523
 Investigative Direction: Verify Linda Rothschild's Corcoran role via corporate filings; obtain the background document referenced.
 
 ---
 
-**C-2427** No Response from Erika Kirk (or Colebat) to Next Model Management Inquiry Within 48 Hours
+**C-2427** No Response from Erika Kirk (or Kolvet) to Next Model Management Inquiry Within 48 Hours
 
 Claim Timestamp: 00:24:35–00:26:09
 
-Claim: Candace Owens sent an email to Erika Kirk, cc'ing TPUSA spokesperson Andrew Colebat, asking specifically about the nature of Erika's meetings at Next Model Management NYC; no response was received within 48 hours as of broadcast.
+Claim: Candace Owens sent an email to Erika Kirk, cc'ing TPUSA spokesperson Andrew Kolvet, asking specifically about the nature of Erika's meetings at Next Model Management NYC; no response was received within 48 hours as of broadcast.
 
 Anchored Artifacts: A-1815.1
 Mentions: N-2, N-14, N-3
@@ -1130,7 +1130,7 @@ Investigative Direction: Cross-reference Bears–Vikings September 8, 2025 game 
 
 Claim Timestamp: 00:35:28–00:36:30
 
-Claim: In a clip the host plays, Frank Turek describes a Monday-night walk with Charlie Kirk (the night before the assassination week), during which Charlie referenced dinner with "the family," the infant GG having just woken, and two major issues he wanted to improve.
+Claim: In a clip the host plays, Frank Turek describes a Monday-night walk with Charlie Kirk (two days before the assassination), during which Charlie referenced dinner with "the family," the infant GG having just woken, and two major issues he wanted to improve.
 
 Anchored Artifacts: A-1819.1
 Mentions: N-7, N-1
@@ -1146,7 +1146,7 @@ Claim Timestamp: 00:33:37–00:34:25
 Claim: On the Todd Chris podcast, Blake Neff stated that Erika said Charlie would not undo what happened because of the "faith revolution" it unleashed.
 
 Anchored Artifacts: A-1820.1
-Mentions: N-1, N-161
+Mentions: N-1, N-160
 Investigative Direction: Obtain the full Rumble-hosted Todd Chris episode; verify Neff's quoted statement in context.
 
 ---
@@ -1158,20 +1158,20 @@ Claim Timestamp: 00:55:30–00:56:41
 Claim: A message relayed via producer indicates that Blake Neff confirmed the full Todd Chris podcast episode (including his comments about Erika) remains intact on Rumble; only the Twitter stream version was trimmed.
 
 Anchored Artifacts: A-1821.1, A-1820.1
-Mentions: N-161
+Mentions: N-160
 Investigative Direction: Compare the Twitter stream version to the Rumble-hosted version directly.
 
 ---
 
-**C-2434** Father Ripberger Describes Occult Pedigree Families from 1500s–1600s
+**C-2434** Father Ripperger Describes Occult Pedigree Families from 1500s–1600s
 
 Claim Timestamp: 00:10:14–00:11:17
 
-Claim: Father Chad Ripberger, in a clip from the Shawn Ryan podcast, stated that some occult families have lineage extending to the 1500s–1600s and train their children into occult practice from a young age.
+Claim: Father Chad Ripperger, in a clip from the Shawn Ryan podcast, stated that some occult families have lineage extending to the 1500s–1600s and train their children into occult practice from a young age.
 
 Anchored Artifacts: A-1811.1
-Mentions: N-574, N-226
-Investigative Direction: Obtain the full Ripberger clip and surrounding podcast context for verification.
+Mentions: N-573, N-225
+Investigative Direction: Obtain the full Ripperger clip and surrounding podcast context for verification.
 
 ---
 
@@ -1191,7 +1191,7 @@ Investigative Direction: Obtain the September 8, 2025 10:00 AM Charlie Kirk Show
 
 **C-2436** Host Says Charlie Kirk Appeared on Ingram Angle 4:00-5:00 PM AZ on September 8
 
-Claim Timestamp: 00:40:08
+Claim Timestamp: 00:39:30
 
 Claim: The host says Charlie Kirk appeared on the Laura Ingram show (Ingram Angle) from his home studio between 4:00 and 5:00 PM Arizona time on September 8, 2025.
 
@@ -1227,7 +1227,7 @@ Claim: The host says the board has 15 other members and makes recommendations on
 Transcript Snippet: With this appointment, Erika joins just 15 other members.
 
 Anchored Artifacts: 
-Mentions: N-2, N-595
+Mentions: N-2, N-594
 Related Nodes: N-10929
 Tags: relevance:core
 Investigative Direction: Check the Board of Visitors roster and its charter for membership size and who it reports to.
@@ -1243,7 +1243,7 @@ Claim: The host says the board must provide an annual report on the Academy's mo
 Transcript Snippet: They're also tasked with providing an annual annual report regarding the military institute's morale, its finances, its financial state, and its academics.
 
 Anchored Artifacts: 
-Mentions: N-2
+Mentions: N-3
 Related Nodes: N-10929
 Tags: relevance:core
 Investigative Direction: Compare against the statutory duties of the Air Force Academy Board of Visitors.
@@ -1398,7 +1398,7 @@ Claim: The host says viewers who work at the White House emailed that Andrew Kol
 Transcript Snippet: Andrew Kolvet Mikey McVoy and a couple of women uh look like Mikey McVoy's wife. They were in the West Wing.
 
 Anchored Artifacts: A-3065.1
-Mentions: N-14, N-192, N-69, N-3
+Mentions: N-14, N-191, N-69, N-3
 Related Nodes: N-10522
 Supports: C-2420
 Tags: relevance:core
@@ -1410,12 +1410,12 @@ Investigative Direction: Request White House visitor logs and the identity of th
 
 Claim Timestamp: 00:12:57
 
-Claim: The host quotes her White House sources as saying the offices in that area belong to senior staff such as Susie Wiles, Stephen Miller and James Braid, and that the Vice President's hallway and the Situation Room connect to that lobby.
+Claim: The host quotes her White House sources as saying the offices in that area belong to senior staff such as Susie Wiles, Stephen Miller and James Blair, and that the Vice President's hallway and the Situation Room connect to that lobby.
 
-Transcript Snippet: the offices in that general region are senior White House staff. It could be Susie Wiles, Stephen Miller, James Braid.
+Transcript Snippet: the offices in that general region are senior White House staff. It could be Susie Wiles, Stephen Miller, James Blair.
 
 Anchored Artifacts: A-3065.2
-Mentions: N-131, N-861, N-154, N-3
+Mentions: N-131, N-860, N-153, N-3
 Related Nodes: N-10522, N-10075
 Tags: relevance:core
 Investigative Direction: Verify the West Wing layout and who maintains offices off that lobby.
@@ -1480,7 +1480,7 @@ Claim: The host says Kolvet often misses episodes and sometimes calls in while t
 Transcript Snippet: Sometimes when traveling, Andrew even calls in for a segment, but this was for some reason pre-recorded and intentionally presented to the public as though it was live.
 
 Anchored Artifacts: A-1810.1
-Mentions: N-14, N-161, N-192, N-3
+Mentions: N-14, N-160, N-191, N-3
 Related Nodes: N-10522
 Supports: C-2421
 Tags: relevance:core
@@ -1576,7 +1576,7 @@ Claim: The host says Les Wexner handed Epstein the keys and he became a casting 
 Transcript Snippet: Whether he was working with uh Victoria's Secret, you know, Les Wexner hands him the keys and all of a sudden he's like a casting director looking at all of these models.
 
 Anchored Artifacts: 
-Mentions: N-9, N-862
+Mentions: N-9, N-861
 Tags: relevance:context
 Investigative Direction: Review court filings on Epstein's role with L Brands and Wexner.
 
@@ -1591,7 +1591,7 @@ Claim: The host says Jean-Luc Brunel ran the Paris agency MC2 Modeling, killed h
 Transcript Snippet: John Luke Brunel in Paris, his agency MC2 modeling, John Luke Brunel kills himself. Lamia doesn't want to mention the fact that they also had offices in in Tel Aviv.
 
 Anchored Artifacts: 
-Mentions: N-531, N-9
+Mentions: N-530, N-9
 Related Nodes: N-10698
 Tags: relevance:context
 Investigative Direction: Check corporate records for MC2 offices in Tel Aviv.
@@ -1634,12 +1634,12 @@ Investigative Direction: Search the Epstein email corpus for Romania model reque
 
 Claim Timestamp: 00:18:38
 
-Claim: The host says that in 2010 the Black Sea Rotational Force in Constanta, Romania, was led by Erika's cousin, Lieutenant Colonel Dennis Fronkvey, and that it was the first US base in Romania.
+Claim: The host says that in 2010 the Black Sea Rotational Force in Constanta, Romania, was being led by Erika's cousin, Lieutenant Colonel Dennis Frantzve, and that it was the first time America operated a base in Romania.
 
-Transcript Snippet: the Black Sea Rotational Force in Constanta, Romania, is being led by Erika's cousin, Lieutenant Colonel Dennis Fronkvey.
+Transcript Snippet: the Black Sea Rotational Force in Constanta, Romania, is being led by Erika's cousin, Lieutenant Colonel Dennis Frantzve.
 
 Anchored Artifacts: 
-Mentions: N-739, N-2
+Mentions: N-738, N-2
 Related Nodes: N-10990
 Supports: C-8146
 Tags: relevance:core
@@ -1647,16 +1647,16 @@ Investigative Direction: Check Marine Corps records for the 2010 BSRF commander.
 
 ---
 
-**C-10255** Host Says the Romania Base Was Later Accused of Prostituting Children Under Col Otto Boucher
+**C-10255** Host Says the Romania Base Was Later Accused of Prostituting Children Under Col Otto Busher
 
 Claim Timestamp: 00:18:38
 
-Claim: The host says the base would later be accused of prostituting underage Romanian children and links Colonel Otto Boucher to it.
+Claim: The host says the base would later be accused of prostituting underage Romanian children and links Colonel Otto Busher to it.
 
-Transcript Snippet: It's the first time America is operating a base in Romania, which is later going to be accused of prostituting underage Romanian children. Brothel. Colonel Otto Boucher.
+Transcript Snippet: It's the first time America is operating a base in Romania, which is later going to be accused of prostituting underage Romanian children. Brothel. Colonel Otto Busher.
 
 Anchored Artifacts: 
-Mentions: N-691
+Mentions: N-690
 Related Nodes: N-10990, N-10401
 Tags: relevance:core
 Investigative Direction: Find the accusation source and any investigation of the Constanta rotation.
@@ -1744,7 +1744,7 @@ Investigative Direction: Obtain Everyday Heroes filings and Marine Corps press i
 
 ---
 
-**C-10261** Host Says Erika Worked With Colonel Buscher Later Accused of Trafficking Through Tel Aviv
+**C-10261** Host Says Erika Worked With Colonel Busher Later Accused of Trafficking Through Tel Aviv
 
 Claim Timestamp: 00:19:25
 
@@ -1753,7 +1753,7 @@ Claim: The host says Erika worked with Colonel Otto Busher, the same colonel she
 Transcript Snippet: She's working with uh Colonel Otto Busher, that same colonel who's going to be accused of trafficking and prostituting underage Romanians, apparently up and through Tel Aviv.
 
 Anchored Artifacts: 
-Mentions: N-691, N-2
+Mentions: N-690, N-2
 Related Nodes: N-11165, N-10401
 Supports: C-8147
 Tags: relevance:core
@@ -1785,7 +1785,7 @@ Claim: The host says Erika was found floating around Mark Burnett, who was runni
 Transcript Snippet: we find her floating around Mark Burnett. Mark Burnett is also running uh Mark Burnett Productions. He's running Trump's Apprentice show.
 
 Anchored Artifacts: 
-Mentions: N-2, N-442, N-5
+Mentions: N-2, N-441, N-5
 Tags: relevance:core
 Investigative Direction: Find photos, credits or posts putting Erika with Burnett.
 
@@ -1815,7 +1815,7 @@ Claim: The host says the Kairos company is working with Mark Burnett via Johnny 
 Transcript Snippet: Kairos company is working with Mark Burnett's via Johnny Moore.
 
 Anchored Artifacts: 
-Mentions: N-439, N-442
+Mentions: N-438, N-441
 Related Nodes: N-11164
 Supports: C-2071
 Tags: relevance:context
@@ -1832,7 +1832,7 @@ Claim: The host says a tipster told her Faith Kates, Next Model Management co-fo
 Transcript Snippet: Faith Kates, who was the co-founder of it, had to step down because of her involvement with Jeffrey Epstein.
 
 Anchored Artifacts: A-3069.1
-Mentions: N-572, N-9
+Mentions: N-571, N-9
 Related Nodes: N-10532
 Tags: relevance:core
 Investigative Direction: Confirm Kates' departure date and stated reason from Next Model Management announcements.
@@ -1848,7 +1848,7 @@ Claim: The host says Kates wrote to Epstein even after his arrest that she would
 Transcript Snippet: Even after he got arrested for pedophilia, she's like, 'I will never betray you. I will never ever betray you.
 
 Anchored Artifacts: A-1812.1
-Mentions: N-572, N-9
+Mentions: N-571, N-9
 Related Nodes: N-10524
 Tags: relevance:core
 Investigative Direction: Find the post-2008 or post-2019 Kates email in the Epstein files.
@@ -1880,7 +1880,7 @@ Claim: The host says Next Model Management apparently had tons of Eastern Europe
 Transcript Snippet: Next Model Management apparently um had tons of Eastern European girls all around the office
 
 Anchored Artifacts: A-3069.1
-Mentions: N-572, N-9
+Mentions: N-571, N-9
 Related Nodes: N-10698
 Tags: relevance:core
 Investigative Direction: Seek former Next staff accounts and the Epstein emails on Next.
@@ -1896,7 +1896,7 @@ Claim: The host says she confirmed with people with direct knowledge, four times
 Transcript Snippet: with people with direct knowledge that Erika Kirk was a multiple times taking office uh taking meetings at Next Model Management
 
 Anchored Artifacts: A-3069.2
-Mentions: N-2, N-572
+Mentions: N-2, N-571
 Related Nodes: N-10519, N-10532
 Tags: relevance:core
 Investigative Direction: Obtain visitor logs or testimony from Next staff; ask Erika Kirk's office.
@@ -1912,7 +1912,7 @@ Claim: The host says her sources did not say they saw Erika meeting Epstein, but
 Transcript Snippet: Now, they did not say they saw her meeting with Jeffrey Epstein, but they said essentially Jeffrey Epstein was always there because he was so close with Faith.
 
 Anchored Artifacts: A-3069.2
-Mentions: N-2, N-9, N-572
+Mentions: N-2, N-9, N-571
 Related Nodes: N-10519
 Tags: relevance:core
 Investigative Direction: Test against Epstein visitor and travel records for the same period.
@@ -1961,7 +1961,7 @@ Claim: The host says Erika's Corcoran start was under the stewardship of Pam Leh
 Transcript Snippet: that is under the stewardship the stewardship of of of Pam Lehman featured in the Epstein files was helping him with real estate deals
 
 Anchored Artifacts: 
-Mentions: N-575, N-2, N-9
+Mentions: N-574, N-2, N-9
 Related Nodes: N-10502
 Tags: relevance:core
 Investigative Direction: Verify Lehman's Corcoran role and the Epstein files reference.
@@ -2010,8 +2010,8 @@ Claim: The host says Epstein was working directly for the Rothschilds.
 Transcript Snippet: Jeffrey Epstein is working directly for the Rothschilds.
 
 Anchored Artifacts: A-1814.1
-Mentions: N-9, N-559
-Related Nodes: N-522
+Mentions: N-9, N-521
+Related Nodes: N-521
 Supports: C-2352
 Tags: relevance:context
 Investigative Direction: Provide the Epstein email or filing establishing the employment.
@@ -2059,7 +2059,7 @@ Claim: The host says she is now leaning toward Mitch, who allegedly saw Erika on
 Transcript Snippet: I'm leaning towards Mitch. Allegedly, Erika he saw her on September 8th.
 
 Anchored Artifacts: 
-Mentions: N-363, N-2, N-3
+Mentions: N-362, N-2, N-3
 Related Nodes: N-10417
 Supports: C-1973
 Tags: relevance:core
@@ -2175,7 +2175,7 @@ Claim: The host says that at 10:45 a.m. Lori Frantzve had a clinic appointment t
 Transcript Snippet: At 10:45 a. m. Lori Frantzve has an appointment at the clinic and Charlie allegedly meets up with her, accompanies her.
 
 Anchored Artifacts: A-3071.1
-Mentions: N-491, N-1
+Mentions: N-490, N-1
 Related Nodes: N-10473, N-10521
 Tags: relevance:core
 Investigative Direction: Identify the clinic and source for the alleged meeting.
@@ -2234,7 +2234,7 @@ Investigative Direction: Seek neighbor or caregiver accounts of who was home tha
 
 Claim Timestamp: 00:41:03
 
-Claim: The host says Charlie shouted at the challenge around 7:16 p.m., which would have woken the toddler GG, and that he then told Turek to hold up because the Chicago game was on.
+Claim: The host speculates (calling it a strong inkling, not a fact) that Charlie shouted at the challenge around 7:16 p.m., which would have woken the toddler GG, and that he then tells Turek, "Hold up because the Chicago game is on."
 
 Transcript Snippet: uh around when is when is he shouting at the challenge around 7:16
 
@@ -2251,7 +2251,7 @@ Investigative Direction: Match the Bears game clock with the challenge play and 
 
 Claim Timestamp: 00:42:19
 
-Claim: The host says the game ended at 8:30 so Turek was definitely not walking with Charlie at 8:00 as Turek implies.
+Claim: The host says the game ended at 8:30 so Turek was definitely not walking with Charlie at 8:00.
 
 Transcript Snippet: That game ended at 8:30, so he definitely was not walking with Charlie at 8:00 because he uh is very clear that he was screaming.
 
@@ -2321,7 +2321,7 @@ Claim: The host says people told her they saw the Kirk children with Tracy Marti
 Transcript Snippet: they saw the kids with Tracy Martin's husband.
 
 Anchored Artifacts: 
-Mentions: N-547, N-3
+Mentions: N-546, N-3
 Related Nodes: N-10486
 Tags: relevance:core
 Investigative Direction: Ask Tracy Martin's husband when he was with the children.
@@ -2337,7 +2337,7 @@ Claim: The host says she had not yet dropped that Mitch thought he saw Erika, th
 Transcript Snippet: and I had not yet dropped the fact that he thought he saw Erika. We were actually holding that back
 
 Anchored Artifacts: 
-Mentions: N-363, N-2, N-3
+Mentions: N-362, N-2, N-3
 Related Nodes: N-10417
 Tags: relevance:core
 Investigative Direction: Compare the dates of the first Fort Huachuca mention, the host's publication and the legal letters.
@@ -2348,12 +2348,12 @@ Investigative Direction: Compare the dates of the first Fort Huachuca mention, t
 
 Claim Timestamp: 00:52:08
 
-Claim: The host says Kamala Harris' mother, a scientist, was potentially involved with the MK Ultra project, and hedges that listeners should not quote her on it.
+Claim: The host says Kamala Harris' mother was involved with potentially the MK Ultra project, and that she was a scientist, adding "Don't quote me on that."
 
 Transcript Snippet: then we kind of learned that her mother was involved with potentially the MK Ultra project.
 
 Anchored Artifacts: 
-Mentions: N-715, N-3
+Mentions: N-714, N-3
 Related Nodes: N-10116
 Tags: relevance:tangential
 Investigative Direction: No source aired; check the host's earlier Kamala episodes.
@@ -2519,11 +2519,11 @@ Confidence: high
 ## VI. Optional Flags
 
 ### Name Uncertainty
-- **Mikey McCoy vs. Mikey McVoy:** Transcript contains both spellings (A-1810.1 references "Mikey McVoy"; later text reads "Mikey McCoy"). The Candace Owens tweet itself spells "McCoy." Preservation: both spellings retained; N-192 uses "McCoy" pending verification.
+- **Mikey McCoy vs. Mikey McVoy:** Transcript contains both spellings (A-1810.1 references "Mikey McVoy"; later text reads "Mikey McCoy"). The Candace Owens tweet itself spells "McCoy." Preservation: both spellings retained; N-191 uses "McCoy" pending verification.
 - **Andrew Kolvet vs. Andrew Kolvet:** Transcript and prior context use "Kolvet." Both spellings appear in source text.
 - **Frank Turek vs. Frank Turek:** Transcript uses "Turick" in several instances; the public figure is Frank Turek. Flag preserved.
-- **Andrew Colebat vs. Andrew Cole that:** Transcript introduces both. "Andrew Colebat" appears to be intended (per prior Candace Owens episode context).
-- **Colonel Otto Boucher vs. Otto Busher:** Transcript varies; both appear.
+- **Andrew Kolvet vs. Andrew Cole that:** Transcript introduces both. "Andrew Kolvet" appears to be intended (per prior Candace Owens episode context).
+- **Colonel Otto Busher vs. Otto Busher:** Transcript varies; both appear.
 - **Lori France vs. Lori Faye:** Transcript contains both. "Lori Faye" appears in the timeline reconstruction at 00:39:30.
 
 ### Artifact Verbally Referenced but Not Displayed
@@ -2537,7 +2537,7 @@ Confidence: high
 - The Bears–Vikings game discussed by Charlie on September 8, 2025 (A-1818.2): the specific time window Charlie was watching is host-inferred from commentary rather than a stated timestamp.
 
 ### Possible Transcription Error
-- "Andrew Cole that" at 00:28:26 likely transcription artifact for "Andrew Colebat."
+- "Andrew Cole that" at 00:28:26 likely transcription artifact for "Andrew Kolvet."
 - "Frank Turek" likely "Frank Turek."
 
 ### Claim Failed Admission Test (Not Inscribed)
@@ -2560,7 +2560,7 @@ Confidence: high
 
 - **New Artifact Families:** A-1809 through A-1821 (13 families)
 - **New Claim IDs:** C-2419 through C-2436 (18 claims)
-- **New People Nodes:** N-9 through N-575 (10 nodes)
+- **New People Nodes:** N-9 through N-574 (10 nodes)
 - **New Investigation Target Nodes:** N-10519 through N-10524 (6 nodes)
-- **Existing Nodes Reused:** N-1, N-2, N-559
+- **Existing Nodes Reused:** N-1, N-2, N-558
 - **Correction Notes:** None this episode.

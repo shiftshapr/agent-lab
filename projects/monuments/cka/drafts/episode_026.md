@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 6e756e4348b0394d7192565879b6931826d6ba20924657099ff19f450d9aa60d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-845, N-846, N-847, N-848, N-849, N-11226
-  - Hole-minted Nodes (reintro-ep026): N-597, N-10482, N-10587, N-10630, N-10715
+  - Tip-minted Nodes (supplement_2026-10d): N-844, N-845, N-846, N-847, N-848, N-11226
+  - Hole-minted Nodes (reintro-ep026): N-596, N-10482, N-10587, N-10630, N-10715
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10d): C-9513–C-9583
-  - New Nodes Introduced: N-223, N-225, N-226, N-10224, N-10225, N-10227
-  - Reused Nodes Appearing: N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-101, N-119, N-131, N-182, N-203, N-213, N-219, N-10002, N-10012, N-10064, N-10073, N-10124, N-10149, N-10193, N-10194, N-10198, N-10199, N-10202, N-10217, N-10218, N-10222, N-10324, N-10917, N-11100, N-224, N-10628, N-10226, N-10338, N-11227
+  - New Nodes Introduced: N-222, N-224, N-225, N-10224, N-10225, N-10227
+  - Reused Nodes Appearing: N-2, N-10000, N-5, N-7, N-9, N-22, N-36, N-37, N-50, N-69, N-95, N-97, N-98, N-101, N-119, N-131, N-181, N-202, N-212, N-218, N-10002, N-10012, N-10064, N-10073, N-10124, N-10149, N-10193, N-10194, N-10198, N-10199, N-10202, N-10217, N-10218, N-10222, N-10324, N-10917, N-11100, N-223, N-10628, N-10226, N-10338, N-11227
   - (see registers)
 
 # Episode Analysis Record
@@ -38,7 +38,7 @@
 
 - **Artifact Families Introduced:** A-1333, A-1334, A-1335, A-1336, A-1337, A-1338, A-1339, A-1340, A-1341, A-1342, A-1343, A-1344
 - **Claim Range:** C-1598–C-1616
-- **New People Nodes Introduced:** N-223, N-192, N-161, N-106, N-224, N-225, N-60, N-14, N-56, N-226, N-17
+- **New People Nodes Introduced:** N-222, N-191, N-160, N-106, N-223, N-224, N-60, N-14, N-56, N-225, N-17
 - **New Investigation Target Nodes Introduced:** N-10224, N-10225, N-10226, N-10227
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
@@ -87,7 +87,7 @@ Video Timestamp: 00:11:41–00:12:31
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1600, N-225*
+*Related: C-1600, N-224*
 
 ---
 
@@ -115,7 +115,7 @@ Video Timestamp: 00:18:25–00:18:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1602, C-1603, N-223, N-224*
+*Related: C-1602, C-1603, N-222, N-223*
 
 **A-1336.2** Brett Cooper audio clip commenting on Ted Cruz tweets
 
@@ -125,7 +125,7 @@ Video Timestamp: 00:19:39–00:20:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1604, C-1605, N-223, N-106*
+*Related: C-1604, C-1605, N-222, N-106*
 
 ---
 
@@ -139,7 +139,7 @@ Video Timestamp: 00:20:51–00:21:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1606, N-223, N-56*
+*Related: C-1606, N-222, N-56*
 
 **A-1337.2** X posts alleging Brett Cooper and her mother engage in witchcraft
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:23:37–00:24:10
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1607, N-223*
+*Related: C-1607, N-222*
 
 ---
 
@@ -163,7 +163,7 @@ Video Timestamp: 00:24:28–00:25:20
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1608, N-223, N-226*
+*Related: C-1608, N-222, N-225*
 
 ---
 
@@ -177,7 +177,7 @@ Video Timestamp: 00:36:07–00:39:39
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1609, C-1610, N-192, N-161, N-17, N-2, N-1*
+*Related: C-1609, C-1610, N-191, N-160, N-17, N-2, N-1*
 
 ---
 
@@ -205,7 +205,7 @@ Video Timestamp: 00:50:03–00:50:59
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1612, C-1613, N-14, N-225*
+*Related: C-1612, C-1613, N-14, N-224*
 
 ---
 
@@ -219,7 +219,7 @@ Video Timestamp: 00:14:20–00:15:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1614, N-225*
+*Related: C-1614, N-224*
 
 ---
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:45:19–00:46:08
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1615, N-192, N-2, N-1*
+*Related: C-1615, N-191, N-2, N-1*
 
 ---
 
@@ -248,7 +248,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 Optional Flag: Artifact verbally referenced; full visual content not captured in caption transcript
 
-*Related: C-1616, N-192, N-10225, N-10226*
+*Related: C-1616, N-191, N-10225, N-10226*
 
 **A-1344.2** Footage showing Charlie Kirk positioned on top of an equipment box/suitcase rather than flat ground – verbal description with on-screen playback per host narration
 
@@ -367,7 +367,7 @@ Investigative Pressure: Medium
 
 *Related: A-1339.1, A-1343.1, C-1609, C-1610, C-1615*
 
-**N-223** Brett Cooper
+**N-222** Brett Cooper
 
 Subject of multiple on-air artifact-backed claims (commentary clips, online posts, Shawn Ryan appearance).
 
@@ -376,9 +376,9 @@ Claim Count: 7
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1336.1, A-1336.2, A-1337.1, A-1337.2, A-1338.1, C-1602, C-1603, C-1604, C-1605, C-1606, C-1607, C-1608, N-106, N-224, N-56, N-226*
+*Related: A-1336.1, A-1336.2, A-1337.1, A-1337.2, A-1338.1, C-1602, C-1603, C-1604, C-1605, C-1606, C-1607, C-1608, N-106, N-223, N-56, N-225*
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Subject of artifact-backed claims regarding post-shooting phone calls, behavior, and YouTube channel positioning.
 
@@ -389,7 +389,7 @@ Investigative Pressure: High
 
 *Related: A-1339.1, A-1343.1, A-1344.1, C-1609, C-1610, C-1615, C-1616, N-17, N-2, N-10225, N-10226, N-10227*
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 Eyewitness source providing on-record recounting of post-shooting events.
 
@@ -398,7 +398,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, C-1609, C-1610, N-192, N-17, N-2*
+*Related: A-1339.1, C-1609, C-1610, N-191, N-17, N-2*
 
 **N-106** Ted Cruz
 
@@ -409,9 +409,9 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1336.2, C-1604, C-1605, N-223*
+*Related: A-1336.2, C-1604, C-1605, N-222*
 
-**N-224** Randy Fine
+**N-223** Randy Fine
 
 Florida state representative referenced in Brett Cooper commentary.
 
@@ -420,9 +420,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1336.1, C-1602, N-223*
+*Related: A-1336.1, C-1602, N-222*
 
-**N-225** Zohran Mamdani
+**N-224** Zohran Mamdani
 
 NYC mayoral election winner; subject of debate clip, exit poll, and commentary.
 
@@ -453,9 +453,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1337.1, C-1606, N-223*
+*Related: A-1337.1, C-1606, N-222*
 
-**N-226** Shawn Ryan
+**N-225** Shawn Ryan
 
 Host of the Shawn Ryan Show, on which Brett Cooper appeared.
 
@@ -464,7 +464,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1338.1, C-1608, N-223*
+*Related: A-1338.1, C-1608, N-222*
 
 **N-17** Rob McCoy
 
@@ -475,7 +475,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1339.1, C-1609, C-1610, N-192, N-161*
+*Related: A-1339.1, C-1609, C-1610, N-191, N-160*
 
 ---
 
@@ -514,7 +514,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1344.1, A-1344.2, C-1616, N-1, N-192*
+*Related: A-1344.1, A-1344.2, C-1616, N-1, N-191*
 
 **N-10226** Mikey McCoy Phone Call Sequence Anomaly
 
@@ -525,7 +525,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1339.1, A-1344.1, C-1610, N-192, N-161, N-17, N-2*
+*Related: A-1339.1, A-1344.1, C-1610, N-191, N-160, N-17, N-2*
 
 **N-10227** YouTube Scheduling Order Anomaly
 
@@ -536,7 +536,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1343.1, C-1615, N-192, N-2*
+*Related: A-1343.1, C-1615, N-191, N-2*
 
 ---
 
@@ -675,7 +675,7 @@ Susie Wiles; the host says she eulogized Kirk.
 
 ---
 
-**N-182** Camera Operator (UVU Event, 2025-09-10)
+**N-181** Camera Operator (UVU Event, 2025-09-10)
 
 Camera Operator (UVU Event, 2025-09-10); the host's "camera boy" who removed cameras.
 
@@ -683,7 +683,7 @@ Camera Operator (UVU Event, 2025-09-10); the host's "camera boy" who removed cam
 
 ---
 
-**N-203** Nick Fuentes
+**N-202** Nick Fuentes
 
 Nick Fuentes; named in the Ted Cruz tweets and the host's MAGA comment.
 
@@ -691,7 +691,7 @@ Nick Fuentes; named in the Ted Cruz tweets and the host's MAGA comment.
 
 ---
 
-**N-213** Jesse Watters
+**N-212** Jesse Watters
 
 Jesse Watters (transcribed "Jesse Watters"); interviewer of Erika Kirk.
 
@@ -699,7 +699,7 @@ Jesse Watters (transcribed "Jesse Watters"); interviewer of Erika Kirk.
 
 ---
 
-**N-219** Eliza McCoy
+**N-218** Eliza McCoy
 
 Eliza McCoy (host says "Elizabeth McCoy"); Mikey McCoy's wife in the host's three-calls claim.
 
@@ -707,7 +707,7 @@ Eliza McCoy (host says "Elizabeth McCoy"); Mikey McCoy's wife in the host's thre
 
 ---
 
-**N-597** Jordan Peterson
+**N-596** Jordan Peterson
 
 Jordan Peterson; subject of a viewer comment.
 
@@ -899,7 +899,7 @@ Existing topic reused for the first-aid claims.
 
 ---
 
-**N-845** Andrew Cuomo
+**N-844** Andrew Cuomo
 
 First named by the host at 00:09:05 in episode 26. Former New York governor who ran against Zohran Mamdani in the 2025 NYC mayoral race; the host says Republicans earlier called him corrupt.
 
@@ -909,7 +909,7 @@ Aliases: Kuomo
 
 ---
 
-**N-846** Michael Bloomberg
+**N-845** Michael Bloomberg
 
 First named by the host at 00:10:00 in episode 26. Billionaire the host says gave $8.3 million to a Cuomo-affiliated super PAC opposing Mamdani.
 
@@ -917,7 +917,7 @@ First named by the host at 00:10:00 in episode 26. Billionaire the host says gav
 
 ---
 
-**N-847** Joe Gebbia
+**N-846** Joe Gebbia
 
 First named by the host at 00:10:00 in episode 26 as the Airbnb co-founder "Joseph Gbia", whom she says gave $3.1 million against Mamdani.
 
@@ -927,7 +927,7 @@ Aliases: Joseph Gbia
 
 ---
 
-**N-848** Jeffrey Moussaieff Masson
+**N-847** Jeffrey Moussaieff Masson
 
 First named by the host at 00:56:15 in episode 26 (transcribed "Jeffrey Mason" and "Jeffrey Mone"). Author of The Assault on Truth, whom the host cites on Freud and the Freud archives.
 
@@ -937,7 +937,7 @@ Aliases: Jeffrey Mason; Jeffrey Mone
 
 ---
 
-**N-849** Theodor Herzl
+**N-848** Theodor Herzl
 
 First named by the host at 00:54:27 in episode 26 (transcribed "Theodore Herzel"). Founder of political Zionism whom the host links to Freud.
 
@@ -1005,7 +1005,7 @@ Claim Timestamp: 00:11:41–00:12:31
 Claim: In the NYC mayoral debate, Zohran Mamdani stated he would remain in New York City rather than take a first foreign trip as mayor.
 
 Anchored Artifacts: A-1334.1
-Mentions: N-225
+Mentions: N-224
 
 
 Investigative Direction: Locate the full unedited debate transcript or video to verify the exact wording and any follow-up exchanges.
@@ -1034,7 +1034,7 @@ Claim Timestamp: 00:18:25–00:18:57
 Claim: In a clip the host plays, Brett Cooper says Randy Fine bragged about not washing his hands after a handshake with Netanyahu, has repeatedly introduced bills to criminalize anti-semitism, obviously cares more about Israel than principles like free speech, and should move to Israel.
 
 Anchored Artifacts: A-1336.1
-Mentions: N-223, N-224, N-36
+Mentions: N-222, N-223, N-36
 
 
 Investigative Direction: Locate the original Brett Cooper video for full context and identify any subsequent Fine response.
@@ -1048,7 +1048,7 @@ Claim Timestamp: 00:18:57–00:19:30
 Claim: The host calls Brett Cooper's advice to Randy Fine to move to Israel "pretty sound advice" and adds, "Rather than trying to make this country Israel, why don't you just go live in Israel?"
 
 Anchored Artifacts: A-1336.1
-Mentions: N-223, N-224
+Mentions: N-222, N-223
 
 
 Investigative Direction: N/A – host-stance claim linked to source artifact.
@@ -1062,7 +1062,7 @@ Claim Timestamp: 00:19:39–00:20:14
 Claim: Brett Cooper publicly criticized Ted Cruz for hypocrisy in his treatment of "Nazi" rhetoric, citing specific Cruz tweets.
 
 Anchored Artifacts: A-1336.2
-Mentions: N-106, N-223
+Mentions: N-106, N-222
 
 
 Investigative Direction: Verify the cited Ted Cruz tweets in their original form and timestamp.
@@ -1076,7 +1076,7 @@ Claim Timestamp: 00:20:14–00:20:30
 Claim: The host endorses Brett Cooper's criticism of Ted Cruz's tweet behavior.
 
 Anchored Artifacts: A-1336.2
-Mentions: N-106, N-223
+Mentions: N-106, N-222
 
 
 Investigative Direction: N/A – host-stance claim linked to source artifact.
@@ -1090,7 +1090,7 @@ Claim Timestamp: 00:20:51–00:21:20
 Claim: The host shows a post she attributes to Arynne Wexler that reads "Okay, white Candace. What is a Nazi then?" about Brett Cooper; the host asks why Cooper is being called the white Candace.
 
 Anchored Artifacts: A-1337.1
-Mentions: N-56, N-223
+Mentions: N-56, N-222
 
 
 Investigative Direction: Verify the original Wexler post, account status (active/deleted), and any subsequent responses.
@@ -1104,7 +1104,7 @@ Claim Timestamp: 00:23:37–00:24:10
 Claim: Multiple X posts alleged Brett Cooper and her mother engage in witchcraft, citing a prior interview clip as evidence.
 
 Anchored Artifacts: A-1337.2
-Mentions: N-223
+Mentions: N-222
 
 
 Investigative Direction: Identify the original poster accounts and verify the original posts.
@@ -1118,7 +1118,7 @@ Claim Timestamp: 00:24:28–00:25:20
 Claim: The host plays a clip of Brett Cooper on the Shawn Ryan Show discussing her mother's visits to mediums, and says the visits followed the death of her twin brother.
 
 Anchored Artifacts: A-1338.1
-Mentions: N-223, N-226
+Mentions: N-222, N-225
 
 
 Investigative Direction: Locate the full Shawn Ryan Show episode for complete context and date verification.
@@ -1132,7 +1132,7 @@ Claim Timestamp: 00:36:07–00:39:39
 Claim: In a clip the host plays, Blake Neff says he was next to Mikey McCoy when the shot occurred, that Mikey's lip was quivering, that Mikey called Erika Kirk within about a minute, and that he then immediately called his dad, Rob McCoy.
 
 Anchored Artifacts: A-1339.1
-Mentions: N-1, N-17, N-161, N-192, N-2
+Mentions: N-1, N-17, N-160, N-191, N-2
 
 Related Nodes:
 
@@ -1147,7 +1147,7 @@ Claim Timestamp: 00:39:39–00:43:20
 Claim: The host says Blake Neff's account conflicts with footage of Mikey McCoy's movement and phone posture, says Neff might think he is telling the truth, and questions how the described calls to Erika and Rob McCoy could be so brief.
 
 Anchored Artifacts: A-1339.1, A-1344.1
-Mentions: N-17, N-161, N-192, N-2
+Mentions: N-17, N-160, N-191, N-2
 
 Related Nodes: N-10226
 
@@ -1176,7 +1176,7 @@ Claim Timestamp: 00:50:03–00:50:59
 Claim: In a clip the host plays, Josh Hammer says that, less than a quarter century after September 11, 2001, New York City is going to have a Muslim mayor who has refused to condemn things such as 'globalize the intifada', referring to Mamdani.
 
 Anchored Artifacts: A-1341.1
-Mentions: N-55, N-225
+Mentions: N-55, N-224
 
 
 Investigative Direction: Verify the original Josh Hammer segment and identify the outlet.
@@ -1204,7 +1204,7 @@ Claim Timestamp: 00:14:20–00:15:05
 Claim: Mark, a member of the show's production team, says a CNN exit poll of approximately 4,700 respondents indicates Zohran Mamdani received approximately 32% of the Jewish vote in the NYC mayoral election.
 
 Anchored Artifacts: A-1342.1
-Mentions: N-67, N-225
+Mentions: N-67, N-224
 
 
 Investigative Direction: Obtain the full CNN exit poll crosstabs and methodology to verify exact figures and sample composition.
@@ -1218,7 +1218,7 @@ Claim Timestamp: 00:45:19–00:46:08
 Claim: The host says that when scheduled posts resumed on Charlie Kirk's YouTube channel after the memorial event, the first post scheduled was Mikey McCoy's speech (a picture of him and his wife), with Erika Kirk's speech second.
 
 Anchored Artifacts: A-1343.1
-Mentions: N-192, N-2, N-1
+Mentions: N-191, N-2, N-1
 
 Related Nodes: N-10227
 
@@ -1233,7 +1233,7 @@ Claim Timestamp: 00:31:22
 Claim: The host alleges that Charlie Kirk was positioned on top of an equipment box/suitcase rather than flat on the ground after being lowered, that no first aid was visibly administered, and that Mikey McCoy's phone posture in footage is inconsistent with the official cover-his-ears narrative.
 
 Anchored Artifacts: A-1344.1, A-1344.2
-Mentions: N-1, N-192
+Mentions: N-1, N-191
 
 Related Nodes: N-10225, N-10226
 
@@ -1379,7 +1379,7 @@ Claim: The host says Pastor Rob McCoy told Americans that Charlie Kirk kept note
 Transcript Snippet: it just so happened that Charlie Kirk kept notebooks and diaries.
 
 Anchored Artifacts: 
-Mentions: N-17, N-1, N-192
+Mentions: N-17, N-1, N-191
 Related Nodes: N-10218, N-10194
 Supports: C-1585
 Tags: relevance:core
@@ -1428,7 +1428,7 @@ Claim: The host says Zohran Mamdani won pretty handily against Andrew Cuomo desp
 Transcript Snippet: He won pretty handily against Andrew Cuomo, which like 5 minutes ago, the Republican party was telling us he was unbelievably corrupt and that he should be in prison.
 
 Anchored Artifacts: 
-Mentions: N-225, N-845, N-3
+Mentions: N-224, N-844, N-3
 Related Nodes: N-11226
 Tags: relevance:context
 Investigative Direction: Check certified NYC mayoral results and the dated Republican statements about Cuomo.
@@ -1444,7 +1444,7 @@ Claim: The host says Bill Ackman gave $1.75 million in the effort against Zohran
 Transcript Snippet: Bill gave 1.75 million and Mom Donnie won irrespective of the money that was donated against him.
 
 Anchored Artifacts: 
-Mentions: N-37, N-225
+Mentions: N-37, N-224
 Related Nodes: N-11226
 Tags: relevance:context
 Investigative Direction: Check super PAC and campaign finance filings for Ackman's contributions in the 2025 NYC mayoral race.
@@ -1460,7 +1460,7 @@ Claim: The host says Michael Bloomberg gave $8.3 million to a Cuomo-affiliated s
 Transcript Snippet: He gave $8.3 million to Stop Mand Donnie and it didn't matter.
 
 Anchored Artifacts: 
-Mentions: N-846, N-847, N-225
+Mentions: N-845, N-846, N-224
 Related Nodes: N-11226
 Tags: relevance:context
 Investigative Direction: Check NYC Campaign Finance Board and super PAC filings for each donor's contribution.
@@ -1476,7 +1476,7 @@ Claim: In the debate clip, Andrew Cuomo says that, given hostility and anti-semi
 Transcript Snippet: given the hostility and the anti-semitism that has been uh shown in New York, I would go to Israel.
 
 Anchored Artifacts: A-1334.1
-Mentions: N-845
+Mentions: N-844
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the unedited mayoral debate video and confirm which candidate gave each answer.
@@ -1508,7 +1508,7 @@ Claim: In the debate clip, asked "Do you believe in a Jewish state of Israel?", 
 Transcript Snippet: Do you believe in a Jewish state of Israel? >> I believe Israel has the right to exist
 
 Anchored Artifacts: A-3017.1
-Mentions: N-225
+Mentions: N-224
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the unedited debate video and compare the exact exchange with the host's characterization.
@@ -1540,7 +1540,7 @@ Claim: The host says New York has the largest Jewish population of any city in t
 Transcript Snippet: New York has the largest population of Jewish people of any city in the world next to Israel.
 
 Anchored Artifacts: A-1342.1
-Mentions: N-225, N-3
+Mentions: N-224, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check city Jewish population estimates and the exit-poll breakdown by religion.
@@ -1572,7 +1572,7 @@ Claim: The host says President Trump dedicated 900 percent more Truth Social pos
 Transcript Snippet: President Trump dedicated 900% more truth social uh posts to ensuring that Mandani would lose than to ensuring that Charlie Kirk's murderer was found.
 
 Anchored Artifacts: 
-Mentions: N-5, N-225, N-1
+Mentions: N-5, N-224, N-1
 Related Nodes: N-10587
 Tags: relevance:core
 Investigative Direction: Count Trump's Truth Social posts on Mamdani and on the Kirk investigation over the same period.
@@ -1604,7 +1604,7 @@ Claim: The host says MAGA fractured not when Tucker Carlson interviewed Nick Fue
 Transcript Snippet: MAGA got fractured. Not when Tucker Carlson interviewed Nick Fuentes, but when Donald Trump looked at us in our faces
 
 Anchored Artifacts: 
-Mentions: N-5, N-22, N-203, N-9, N-3
+Mentions: N-5, N-22, N-202, N-9, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate Trump's dated "Epstein, who?" remark in the original interview.
@@ -1620,7 +1620,7 @@ Claim: The host says Brett Cooper did her part and encouraged New Yorkers to get
 Transcript Snippet: Zionist wanted her do her part and encourage New Yorkers to get out and vote against Mam Donnie.
 
 Anchored Artifacts: 
-Mentions: N-223, N-225
+Mentions: N-222, N-224
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Locate Cooper's pre-election video urging New Yorkers to vote.
@@ -1636,7 +1636,7 @@ Claim: The host says Brett Cooper watched the Republican Jewish Coalition event 
 Transcript Snippet: she watched the totally deranged Tucker is not MAGA Republican Jewish coalition event
 
 Anchored Artifacts: 
-Mentions: N-223, N-22
+Mentions: N-222, N-22
 Related Nodes: N-10917
 Tags: relevance:context
 Investigative Direction: Locate the Republican Jewish Coalition event recording and Cooper's reaction video.
@@ -1652,7 +1652,7 @@ Claim: In the clip, Brett Cooper says Randy Fine bragged about not washing his h
 Transcript Snippet: considering you had to go through anger management classes a few years ago, I genuinely think you would probably be happier if you just moved to Israel.
 
 Anchored Artifacts: A-1336.1
-Mentions: N-223, N-224, N-36
+Mentions: N-222, N-223, N-36
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Verify Fine's handshake remark and anger-management reporting in primary sources.
@@ -1668,7 +1668,7 @@ Claim: In the clip, Brett Cooper reads two Ted Cruz tweets: one a month earlier 
 Transcript Snippet: Trump's bombing of the Ayatollah's nuclear facilities made the little Nazi mad.
 
 Anchored Artifacts: A-1336.2
-Mentions: N-106, N-223, N-203, N-22, N-5
+Mentions: N-106, N-222, N-202, N-22, N-5
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate both Ted Cruz tweets and their dates on X.
@@ -1700,7 +1700,7 @@ Claim: The host reads a Ted Cruz tweet saying he does not know 'this angry lady'
 Transcript Snippet: I don't know who this angry lady is, but she's missing a key distinction.
 
 Anchored Artifacts: A-3018.1
-Mentions: N-106, N-223, N-203
+Mentions: N-106, N-222, N-202
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the Ted Cruz tweet on X and confirm its wording and date.
@@ -1716,7 +1716,7 @@ Claim: The host says Ted Cruz was featured in the Daily Wire movie Lady Ballers,
 Transcript Snippet: you were featured in a movie that Brett Cooper starred in at the Daily Wire, Lady Ballers.
 
 Anchored Artifacts: A-3018.1
-Mentions: N-106, N-223, N-101
+Mentions: N-106, N-222, N-101
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check Lady Ballers cast credits for Cruz and Cooper.
@@ -1732,7 +1732,7 @@ Claim: In the Shawn Ryan clip, Brett Cooper says her mother visited multiple med
 Transcript Snippet: she was able to speak to Don, her first husband, to hear from him.
 
 Anchored Artifacts: A-1338.1
-Mentions: N-223, N-226
+Mentions: N-222, N-225
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Locate the full Shawn Ryan episode featuring Cooper.
@@ -1748,7 +1748,7 @@ Claim: The host says Brett Cooper told on the Shawn Ryan Show that one of her tw
 Transcript Snippet: one of her twin brothers dropped dead from a heart attack unexpectedly.
 
 Anchored Artifacts: A-1338.1
-Mentions: N-223, N-226
+Mentions: N-222, N-225
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Locate the full Shawn Ryan episode and confirm what Cooper said about her brothers.
@@ -1764,7 +1764,7 @@ Claim: The host says the people attacking Brett Cooper are "the descendants of B
 Transcript Snippet: Because these are the descendants of Boleviks.
 
 Anchored Artifacts: 
-Mentions: N-223
+Mentions: N-222
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: None: sweeping assertion about a group; record only as said on air.
@@ -1829,7 +1829,7 @@ Claim: The host says equipment boxes were on either side of Charlie Kirk, a setu
 Transcript Snippet: They're on either side of him, which is very strange.
 
 Anchored Artifacts: A-1344.2
-Mentions: N-1, N-182
+Mentions: N-1, N-181
 Related Nodes: N-10225
 Tags: relevance:core
 Investigative Direction: Review post-shooting footage around the camera removal for the presence of the equipment box.
@@ -1862,7 +1862,7 @@ Claim: The host says that in more footage she just saw, Mikey McCoy never stops 
 Transcript Snippet: he never stops this move for a single second.
 
 Anchored Artifacts: A-1344.1
-Mentions: N-192
+Mentions: N-191
 Related Nodes: N-10226
 Supports: C-1463
 Tags: relevance:core
@@ -1879,7 +1879,7 @@ Claim: Blake Neff says he and Mikey McCoy both reacted by leaving the scene befo
 Transcript Snippet: I and him both had the reaction of let's get out of here before we were both shot.
 
 Anchored Artifacts: A-1339.1
-Mentions: N-161, N-192, N-1
+Mentions: N-160, N-191, N-1
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Obtain Neff's full interview and the video of his and McCoy's movements.
@@ -1895,7 +1895,7 @@ Claim: Blake Neff says he ran for no more than 15 or 20 seconds, realized there 
 Transcript Snippet: I think I was ahead of him as we left.
 
 Anchored Artifacts: A-1339.1
-Mentions: N-161, N-192
+Mentions: N-160, N-191
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Compare Neff's account with footage tracking both men's positions.
@@ -1911,7 +1911,7 @@ Claim: Blake Neff says that after the call Mikey McCoy got total mastery of hims
 Transcript Snippet: he was like a general directing a battle where he was you know grabbing people and saying okay we need to get to the hospital
 
 Anchored Artifacts: A-1339.1
-Mentions: N-161, N-192, N-2
+Mentions: N-160, N-191, N-2
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Obtain Neff's full interview and statements from others at the scene.
@@ -1927,7 +1927,7 @@ Claim: Blake Neff says that when they learned Charlie Kirk was dead, Mikey McCoy
 Transcript Snippet: none of you can say anything that you've heard because it is Erika is not going to hear about this from anyone except me.
 
 Anchored Artifacts: A-1339.1
-Mentions: N-161, N-192, N-2
+Mentions: N-160, N-191, N-2
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Obtain Neff's full interview and ask other staff present whether the instruction was given.
@@ -1943,7 +1943,7 @@ Claim: The host says tracking footage shows Mikey McCoy going straight and then 
 Transcript Snippet: And he is on the phone already. And Blake Neff is nowhere to be seen.
 
 Anchored Artifacts: A-1344.1
-Mentions: N-192, N-161
+Mentions: N-191, N-160
 Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Obtain wide footage tracking both men's movements from the shot to the vehicles.
@@ -1959,7 +1959,7 @@ Claim: The host says that if Blake Neff's account is true, the call between Mike
 Transcript Snippet: I'm supposed to believe what this was a 15-second phone call.
 
 Anchored Artifacts: 
-Mentions: N-192, N-2, N-161
+Mentions: N-191, N-2, N-160
 Related Nodes: N-10338, N-10482
 Tags: relevance:core
 Investigative Direction: Obtain call logs for Mikey McCoy and Erika Kirk covering the minutes after the shot.
@@ -1975,7 +1975,7 @@ Claim: The host says she knows for a fact that Mikey McCoy made three early call
 Transcript Snippet: He made three cuz he also called Elizabeth McCoy, his wife, who screamed at the office.
 
 Anchored Artifacts: 
-Mentions: N-192, N-219
+Mentions: N-191, N-218
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Identify the host's source and obtain call logs for the three reported calls.
@@ -2007,7 +2007,7 @@ Claim: The host says Blake Neff has said elsewhere that they got into the hospit
 Transcript Snippet: Blake Neff says elsewhere they got into the hospital within 25 minutes.
 
 Anchored Artifacts: 
-Mentions: N-161
+Mentions: N-160
 Related Nodes: N-10149
 Tags: relevance:core
 Investigative Direction: Locate Neff's statement on arrival time and compare with transport and hospital records.
@@ -2023,7 +2023,7 @@ Claim: The host says that, as they were told, the hospital was put on lockdown w
 Transcript Snippet: the hospital was put on lockdown when Charlie came in.
 
 Anchored Artifacts: 
-Mentions: N-192, N-161, N-7
+Mentions: N-191, N-160, N-7
 Related Nodes: N-10149
 Tags: relevance:core
 Investigative Direction: Obtain hospital access logs and security records for who was admitted and when.
@@ -2071,7 +2071,7 @@ Claim: The host says she is getting the feeling that they were positioning Mikey
 Transcript Snippet: the feeling I'm getting that they were positioning Mikey to be the new Charlie.
 
 Anchored Artifacts: 
-Mentions: N-192, N-3
+Mentions: N-191, N-3
 Related Nodes: N-10227
 Supports: C-6553
 Tags: relevance:core
@@ -2104,7 +2104,7 @@ Claim: The host says the channel's list, read bottom to top, shows videos with C
 Transcript Snippet: So you see you've got Charlie and Ben, you've got Charlie, Charlie and Jack Posobiec, you've got Charlie, you got Charlie, and then it stops.
 
 Anchored Artifacts: A-1343.1
-Mentions: N-1, N-97, N-95, N-192
+Mentions: N-1, N-97, N-95, N-191
 Related Nodes: N-10227
 Tags: relevance:core
 Investigative Direction: Capture the channel's upload list as of the date the screenshot was taken.
@@ -2120,7 +2120,7 @@ Claim: The host says a much anticipated interview between Jesse Watters and Erik
 Transcript Snippet: when the very anticipated interview drops between Jesse Watters and Erika Kirk, I will be watching.
 
 Anchored Artifacts: 
-Mentions: N-213, N-2, N-3
+Mentions: N-212, N-2, N-3
 Related Nodes: 
 Tags: relevance:core
 Investigative Direction: Locate the Fox News airing date and transcript of the Watters interview with Erika Kirk.
@@ -2216,7 +2216,7 @@ Claim: In the clip, Josh Hammer calls Zohran Mamdani a Karl Marx-quoting, Hamas-
 Transcript Snippet: you are literally going to have a Karl Marx quoting Hamasloving Red Green Alliance sicko.
 
 Anchored Artifacts: A-1341.1
-Mentions: N-55, N-225
+Mentions: N-55, N-224
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Locate the original Hammer segment and confirm his wording and the outlet.
@@ -2248,7 +2248,7 @@ Claim: The host recommends starting with Jeffrey Masson's The Assault on Truth a
 Transcript Snippet: I would start with the assault on truth from by Jeffrey Mason and then move on to this most critical book uh which is Sigmund Freud in the Jewish Mystical Tradition.
 
 Anchored Artifacts: 
-Mentions: N-848, N-50, N-849, N-3
+Mentions: N-847, N-50, N-848, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: None: reading recommendation recorded as said on air.
@@ -2264,7 +2264,7 @@ Claim: The host says Sigmund Freud mainstreamed gaslighting people he harmed, wh
 Transcript Snippet: That is why they celebrate Sigmund Freud is because he mainstreamed gaslighting people that they harmed.
 
 Anchored Artifacts: 
-Mentions: N-50, N-848
+Mentions: N-50, N-847
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Check Masson's published work on Freud and his role at the Freud Archives.
@@ -2280,7 +2280,7 @@ Claim: The host says she did not know Jordan Peterson got sick while in Israel, 
 Transcript Snippet: I did not know that he got sick while he was in Israel.
 
 Anchored Artifacts: A-3020.2
-Mentions: N-597, N-3
+Mentions: N-596, N-3
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: None: host states no knowledge; a viewer comment prompted it.
@@ -2479,7 +2479,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-223–N-17)
+- [x] People nodes use the global people ledger (N-222–N-17)
 - [x] Non-person investigation targets use the 1000 series (N-10224–N-10227)
 - [x] No speculative host-framing claims inscribed as evidence-backed claims
 - [x] Names preserved as they appear; "Mamdani" corrected from host's "Mom Donnie"/"Mam Donnie" variant to documented name

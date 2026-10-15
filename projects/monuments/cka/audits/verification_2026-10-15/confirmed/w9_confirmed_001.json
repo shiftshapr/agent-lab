@@ -1,0 +1,508 @@
+[
+ {
+  "claim": "C-14514",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-274",
+    "N-40",
+    "N-3"
+   ]
+  },
+  "note": "Mitchell is named in the transcript but not in the claim."
+ },
+ {
+  "claim": "C-14526",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-41",
+    "N-40"
+   ]
+  },
+  "note": "Claim refers to Robinson."
+ },
+ {
+  "claim": "C-2617",
+  "episode": 86,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per the defense filing the host reads, the state intends to present at the preliminary hearing, through three identified law enforcement witnesses, conclusory forensic DNA and ballistics reports authored by the FBI and the ATF, phone and social media data, testimony by law enforcement officials about the crime scene and search locations, and testimony by Mr. Robinson's parents and roommate.",
+   "label": "State's Preliminary Hearing Evidence Through Three Law Enforcement Witnesses"
+  },
+  "note": "Fix is right, but the filing as read does not count the buckets, so 'Four' is dropped from the label."
+ },
+ {
+  "claim": "C-2622",
+  "episode": 86,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:58:50"
+  },
+  "note": "Kim Haven's comment is read around 58:55."
+ },
+ {
+  "claim": "C-2623",
+  "episode": 86,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Frank Turek's account of announcing \"He's dead. He's dead. I need to speak to Erika\" did not ring true, citing her producer Ashley's questions about how he knew Erika's name within 30 minutes and saying it feels like someone writing a script."
+  },
+  "note": "The 30-minute and Erika points are Ashley's, not Kim Haven's."
+ },
+ {
+  "claim": "C-2627",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-69",
+    "N-412"
+   ]
+  },
+  "note": "Qureshi (the father) is not referred to."
+ },
+ {
+  "claim": "C-2628",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-69",
+    "N-412"
+   ]
+  },
+  "note": "The father is not referred to."
+ },
+ {
+  "claim": "C-2631",
+  "episode": 87,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:12:28–00:16:55",
+   "mentions": [
+    "N-413",
+    "N-414"
+   ]
+  },
+  "note": "The 2015/O5 co-founding is said at about 12:30 (11:20 block) and Henderson is named at 16:55, so the timestamp is a range."
+ },
+ {
+  "claim": "C-2632",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "The claim names no person."
+ },
+ {
+  "claim": "C-2633",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-415"
+   ]
+  },
+  "note": "Only Gina is named. Her BYU attendance is stated at 19:43, so the claim text stands."
+ },
+ {
+  "claim": "C-2634",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-416"
+   ]
+  },
+  "note": "Only Connor and Charlie are referred to."
+ },
+ {
+  "claim": "C-2639",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-136"
+   ]
+  },
+  "note": "Only Zenger is named."
+ },
+ {
+  "claim": "C-2640",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-136"
+   ]
+  },
+  "note": "Only Zenger is named."
+ },
+ {
+  "claim": "C-2641",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "Andrew Zenger attended BYU Jerusalem, with the host noting he was there during the Mitt Romney presidential election season.",
+   "mentions": [
+    "N-136",
+    "N-28"
+   ]
+  },
+  "note": "'2012' is not said. Romney is named."
+ },
+ {
+  "claim": "C-2642",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says an unnamed person told her the BYU Jerusalem Center is where elite Mormon youth are approached by their teachers to work for the CIA; she adds that the program director is Israeli and says she knows this for a fact.",
+   "mentions": []
+  },
+  "note": "The fix matches the 24:39 and 25:43 blocks."
+ },
+ {
+  "claim": "C-2644",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-136",
+    "N-419"
+   ]
+  },
+  "note": "Only Zenger and Covey are named."
+ },
+ {
+  "claim": "C-2645",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-947"
+   ]
+  },
+  "note": "Hild is named."
+ },
+ {
+  "claim": "C-2648",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:29:45",
+   "mentions": [
+    "N-947"
+   ]
+  },
+  "note": "The Hild-Romney content is in the 29:30 block."
+ },
+ {
+  "claim": "C-2649",
+  "episode": 87,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Caleb Cunningham was in Jerusalem with Andrew Zenger during the Mitt Romney presidential election season and was an activist who worked for the campaign.",
+   "mentions": [
+    "N-136",
+    "N-418",
+    "N-28"
+   ]
+  },
+  "note": "The claim text is right; it names Mitt Romney, so add N-28."
+ },
+ {
+  "claim": "C-2650",
+  "episode": 87,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Jeffrey Knuckles was in Jerusalem with Andrew Zenger during the Mitt Romney presidential election season and later served as an advisor to Romney's campaign.",
+   "mentions": [
+    "N-136",
+    "N-417",
+    "N-28"
+   ]
+  },
+  "note": "The claim text is right; it names Mitt Romney, so add N-28."
+ },
+ {
+  "claim": "C-14564",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says police scanner traffic suggested the shooter might be going from hospital to hospital and that shortly afterward police moved to detain a young man named Zachariah Qureshi.",
+   "names": [
+    {
+     "wrong": "Zachariah Karashy",
+     "right": "Zachariah Qureshi",
+     "source": "https://channel2now.com/2025/09/10/article/news/crime/zachariah-qureshi-detained-as-a-suspect-in-charlie-kirk-shooting-later-released-student-sponsored-event-at-utah-valley-university-uvu/"
+    }
+   ]
+  },
+  "note": "Web search checked: CBS, WFAA and 12News name the detained man Zachariah Qureshi."
+ },
+ {
+  "claim": "C-14570",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-363"
+   ]
+  },
+  "note": "Qureshi is not in the claim."
+ },
+ {
+  "claim": "C-14571",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Ahmed is not named in the claim."
+ },
+ {
+  "claim": "C-14574",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Ahmed is not named in the claim."
+ },
+ {
+  "claim": "C-14587",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Qureshi and Henderson families came out of Texas and that the planes did too.",
+   "names": [
+    {
+     "wrong": "Karashi",
+     "right": "Qureshi",
+     "source": "https://channel2now.com/2025/09/10/article/news/crime/zachariah-qureshi-detained-as-a-suspect-in-charlie-kirk-shooting-later-released-student-sponsored-event-at-utah-valley-university-uvu/"
+    }
+   ]
+  },
+  "note": "Spelling Qureshi checked by web search (North Texas family)."
+ },
+ {
+  "claim": "C-14588",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Andrew Zenger, like Zachariah Qureshi, Henderson and Gina Romney, attended BYU.",
+   "mentions": [
+    "N-3",
+    "N-136",
+    "N-412",
+    "N-416",
+    "N-415"
+   ],
+   "names": [
+    {
+     "wrong": "Karashi",
+     "right": "Qureshi",
+     "source": "https://channel2now.com/2025/09/10/article/news/crime/zachariah-qureshi-detained-as-a-suspect-in-charlie-kirk-shooting-later-released-student-sponsored-event-at-utah-valley-university-uvu/"
+    }
+   ]
+  },
+  "note": "At 17:51 the sons (Zachariah, Connor) attended BYU. Qureshi checked by web search."
+ },
+ {
+  "claim": "C-14592",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-947",
+    "N-128"
+   ]
+  },
+  "note": "Phil Lyman is not in the claim."
+ },
+ {
+  "claim": "C-14618",
+  "episode": 87,
+  "decision": "amend",
+  "fix": {
+   "claim": "Reading viewer comments, the host recalls Terrell Farnsworth being 'all crazy on the phone', quotes him as saying 'I spoke to Erika', and asks why he spoke to Erika about the footage from behind Charlie's head a couple of days after Charlie died, questioning their priorities.",
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-263",
+    "N-1"
+   ]
+  },
+  "note": "No clip is played; this is the comments segment. The host is mimicking Farnsworth's call. Charlie is referred to."
+ },
+ {
+  "claim": "C-14620",
+  "episode": 87,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Mentions fix is right. Relevance change rejected: the host ties 2012 to Charlie and calls it 'very relevant'."
+ },
+ {
+  "claim": "C-14629",
+  "episode": 87,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-1",
+    "N-711"
+   ]
+  },
+  "note": "JFK is named."
+ },
+ {
+  "claim": "C-2661",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-161"
+   ]
+  },
+  "note": "Erika is not referred to in the claim."
+ },
+ {
+  "claim": "C-2665",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-537"
+   ]
+  },
+  "note": "Trump's statement."
+ },
+ {
+  "claim": "C-8619",
+  "episode": 88,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says \"Let's run the JFK model one more time and expected nobody to notice\"; the host adds that the same players and country are involved and that they brought back the comparative bullet analysis they had discontinued.",
+   "label": "Commenter Says the JFK Model Was Run Again; Host Adds Bullet Comparison Point"
+  },
+  "note": "The comment ends at 'notice'; the rest is the host's."
+ },
+ {
+  "claim": "C-2669",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-5",
+    "N-22",
+    "N-46",
+    "N-93"
+   ]
+  },
+  "note": "Trump authored the post."
+ },
+ {
+  "claim": "C-2671",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "claim": "CNN assembled a montage of past Trump appearances, which the host plays, in which he praised Megyn Kelly and Candace Owens (saying \"that's a star\" and \"your reputation is amazing\"), contradicting his current posture in A-1939.1.",
+   "mentions": [
+    "N-3",
+    "N-5",
+    "N-46"
+   ]
+  },
+  "note": "Matches the clip."
+ },
+ {
+  "claim": "C-2672",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-36",
+    "N-46",
+    "N-206"
+   ]
+  },
+  "note": "Lewinsky is not in the claim; Trump is."
+ },
+ {
+  "claim": "C-2674",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "claim": "In an audio clip played on air, Laura Loomer stated that she sent Tucker Carlson clips to President Trump and that she is the one who \"knifed him from the front\"; the host presents this as Loomer taking credit for Trump's Truth Social post.",
+   "mentions": [
+    "N-5",
+    "N-22",
+    "N-60"
+   ]
+  },
+  "note": "The clip itself does not mention the post."
+ },
+ {
+  "claim": "C-2675",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "claim": "Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolvet named as in-room corroborator) that he and Kolvet were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, before the donation was announced, which she thinks was in or just before July 2024.",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-5",
+    "N-14",
+    "N-300"
+   ]
+  },
+  "note": "Kolvet spelling and the July 2024 hedge are fixed; Adelson and Trump added."
+ },
+ {
+  "claim": "C-2677",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she remembers Donald Trump Jr. on stage, when asked whether he was satisfied with the conclusion in Butler, kind of saying he was not but his father was and that was that.",
+   "mentions": [
+    "N-5",
+    "N-33"
+   ]
+  },
+  "note": "This is the host's recollection, and it is hedged."
+ },
+ {
+  "claim": "C-2678",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per Truth Social and other social-media responses the host reads on air, previously pro-Trump supporters publicly criticized Trump following his Truth Social post.",
+   "timestamp": "00:19:20",
+   "mentions": [
+    "N-5"
+   ]
+  },
+  "note": "She starts reading the Truth Social responses at about 19:25."
+ }
+]

@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 8fa969dba43042db5893cc29c3f2e01cf24703d976572f4015d20142f83e6dab
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-830, N-832, N-833, N-834, N-835, N-836, N-11212
+  - Tip-minted Nodes (supplement_2026-10c): N-829, N-831, N-832, N-833, N-834, N-835, N-11212
   - Claim Range (supplement_2026-10c): C-9154–C-9210
   - New Nodes Introduced: N-10798, N-10800, N-10802, N-10803, N-10807
-  - Reused Nodes Appearing: N-10162, N-18, N-14, N-22, N-263, N-10797, N-10799, N-10801, N-10804, N-10805, N-1, N-30, N-69, N-130, N-161, N-211, N-226, N-239, N-261, N-268, N-332, N-704, N-10000, N-10012, N-10014, N-10100, N-10202, N-10340, N-10346, N-10355, N-10611, N-10625, N-10651, N-10795, N-10796, N-10808, N-10810, N-10991, N-10998, N-11066, N-10806, N-11211, N-831
-  - Hole-minted Nodes (wave3): N-571
+  - Reused Nodes Appearing: N-10162, N-18, N-14, N-22, N-262, N-10797, N-10799, N-10801, N-10804, N-10805, N-1, N-30, N-69, N-130, N-160, N-210, N-225, N-238, N-260, N-267, N-331, N-703, N-10000, N-10012, N-10014, N-10100, N-10202, N-10340, N-10346, N-10355, N-10611, N-10625, N-10651, N-10795, N-10796, N-10808, N-10810, N-10991, N-10998, N-11066, N-10806, N-11211, N-830
+  - Hole-minted Nodes (wave3): N-570
   - (see registers)
 
 ## 6. Meme Register
@@ -457,7 +457,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-571** David Hull
+**N-570** David Hull
 
 First named by the host at 00:04:56 in episode 142. Aliases: Agent Hull, Agent David Hull.
 
@@ -687,7 +687,7 @@ Ian Carroll; named among independent investigators.
 
 ---
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 Blake Neff; named with Kolvet and Erika in the host's comments on TPUSA strategy.
 
@@ -695,7 +695,7 @@ Blake Neff; named with Kolvet and Erika in the host's comments on TPUSA strategy
 
 ---
 
-**N-211** Joe Kent
+**N-210** Joe Kent
 
 Joe Kent; whose halted foreign-ties inquiry and message handover are discussed.
 
@@ -703,7 +703,7 @@ Joe Kent; whose halted foreign-ties inquiry and message handover are discussed.
 
 ---
 
-**N-226** Shawn Ryan
+**N-225** Shawn Ryan
 
 Shawn Ryan; podcast where the host says the case was discussed.
 
@@ -711,7 +711,7 @@ Shawn Ryan; podcast where the host says the case was discussed.
 
 ---
 
-**N-239** Glenn Beck
+**N-238** Glenn Beck
 
 Glenn Beck; interviewer in Erika's night-before denial per the host.
 
@@ -719,7 +719,7 @@ Glenn Beck; interviewer in Erika's night-before denial per the host.
 
 ---
 
-**N-261** Steven Crowder
+**N-260** Steven Crowder
 
 Steven Crowder; named in the playroom and bug-sweep claims.
 
@@ -727,7 +727,7 @@ Steven Crowder; named in the playroom and bug-sweep claims.
 
 ---
 
-**N-263** Terrell Farnsworth
+**N-262** Terrell Farnsworth
 
 Terrell Farnsworth; TPUSA audio-visual lead at the center of the footage claims.
 
@@ -735,7 +735,7 @@ Terrell Farnsworth; TPUSA audio-visual lead at the center of the footage claims.
 
 ---
 
-**N-268** Brian Harpole
+**N-267** Brian Harpole
 
 Brian Harpole; plaintiff the host says is suing her.
 
@@ -743,7 +743,7 @@ Brian Harpole; plaintiff the host says is suing her.
 
 ---
 
-**N-270** Joe Rogan
+**N-269** Joe Rogan
 
 Joe Rogan; host of the show where the case was discussed.
 
@@ -751,7 +751,7 @@ Joe Rogan; host of the show where the case was discussed.
 
 ---
 
-**N-332** Baron Coleman
+**N-331** Baron Coleman
 
 Baron Coleman; named among independent investigators.
 
@@ -759,7 +759,7 @@ Baron Coleman; named among independent investigators.
 
 ---
 
-**N-704** Robert Golow
+**N-703** Robert Golow
 
 Robert Golow; operator of the front-left camera per the host.
 
@@ -919,7 +919,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-830** Jordan Wilson
+**N-829** Jordan Wilson
 
 First named by the host at 00:08:20 in episode 142. Camera operator the host says ran the blue-circled camera at the UVU event.
 
@@ -927,7 +927,7 @@ First named by the host at 00:08:20 in episode 142. Camera operator the host say
 
 ---
 
-**N-831** Kathy Nester
+**N-830** Kathy Nester
 
 First named in this episode by the host at 00:24:49 (transcribed Kathy Netor). Defense attorney in the Tyler Robinson case, as recorded in episode 94.
 Aliases: Kathy Netor
@@ -936,7 +936,7 @@ Aliases: Kathy Netor
 
 ---
 
-**N-832** John Kiriakou
+**N-831** John Kiriakou
 
 First named by the host at 00:31:29 in episode 142 (transcribed Kirao, Kuraku). Former CIA officer and whistleblower shown on the Danny Jones podcast.
 Aliases: Kirao; Kuraku
@@ -945,7 +945,7 @@ Aliases: Kirao; Kuraku
 
 ---
 
-**N-833** Danny Jones
+**N-832** Danny Jones
 
 First named by the host at 00:31:29 in episode 142. Podcast host on whose show Kirraou questions the FBI role.
 
@@ -953,7 +953,7 @@ First named by the host at 00:31:29 in episode 142. Podcast host on whose show K
 
 ---
 
-**N-834** Mark Normand
+**N-833** Mark Normand
 
 First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.
 
@@ -961,7 +961,7 @@ First named by the host at 00:34:33 in episode 142. Comedian the host names as a
 
 ---
 
-**N-835** Shane Gillis
+**N-834** Shane Gillis
 
 First named by the host at 00:34:33 in episode 142. Comedian the host names as a Rogan guest.
 
@@ -969,7 +969,7 @@ First named by the host at 00:34:33 in episode 142. Comedian the host names as a
 
 ---
 
-**N-836** Ari Shaffir
+**N-835** Ari Shaffir
 
 First named by the host at 00:34:33 in episode 142 (spelled Ari Schaefer in the transcript). Comedian the host names as a Rogan guest.
 
@@ -1004,7 +1004,7 @@ Claim Timestamp: 00:05:47
 Claim: Per Terrell Farnsworth's 1102 statement, which the host shows and reads, he provided SBI with four videos through a Google Drive on September 10, 2025.
 
 Anchored Artifacts: A-2284.1
-Mentions: N-263
+Mentions: N-262
 
 Related Nodes: N-10797, N-10798
 
@@ -1019,7 +1019,7 @@ Claim Timestamp: 00:04:56
 Claim: Farnsworth told the host on or about September 18 that he feared Google would hack him, despite having transmitted footage via Google Drive eight days earlier.
 
 Anchored Artifacts: A-2284.1
-Mentions: N-263
+Mentions: N-262
 
 Related Nodes: N-10797
 
@@ -1034,7 +1034,7 @@ Claim Timestamp: 00:12:35
 Claim: SBI Agent David Hull testified that Farnsworth originally provided a flash drive to Lieutenant O'Brien, then downloadable Google links to Agent Mortonson on September 10, with the 1102 collected later on May 6, 2026 – not the SD cards.
 
 Anchored Artifacts: A-2285.1
-Mentions: N-571
+Mentions: N-570
 
 Related Nodes: N-10798
 
@@ -1073,12 +1073,12 @@ Investigative Direction: Obtain full Tucker Carlson interview segment; identify 
 
 Claim Timestamp: 00:15:13
 
-Claim: C-3294 spells the speaker 'Andrew Kolvet' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-263) removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
+Claim: C-3294 spells the speaker 'Andrew Kolvet' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-262) removed the SD cards "because I know people can be evil," and described witnessing theft of hats from the table after the incident.
 
 Transcript Snippet: He said, "Because I know people can be evil."
 
 Anchored Artifacts: A-2287.1
-Mentions: N-14, N-22, N-263
+Mentions: N-14, N-22, N-262
 Related Nodes: N-10162
 Revises: C-3294
 Confidence: medium
@@ -1135,7 +1135,7 @@ Claim Timestamp: 00:34:33
 Claim: In a clip the host plays from the Joe Rogan show, Rogan and his guests discuss the published photo of Tyler Robinson, which they say appeared to have a wider man "shrunken" into Robinson's proportions, with distorted car-hood proportions behind him.
 
 Anchored Artifacts: A-2290.1
-Mentions: N-40, N-270
+Mentions: N-40, N-269
 
 Related Nodes: N-10803
 
@@ -1195,7 +1195,7 @@ Claim: The host says Steven Crowder had his CEO join his show from her children'
 Transcript Snippet: having the permanent creep Steven Crowder sneak his CEO into my home to join uh Steven's show from my children's playroom without my consent, without my knowledge.
 
 Anchored Artifacts: 
-Mentions: N-3, N-261
+Mentions: N-3, N-260
 Related Nodes: N-11212
 Tags: relevance:context
 Investigative Direction: Identify the CEO and the show episode in question; obtain the broadcast and any statement from the host's household or Crowder's team on how access was arranged.
@@ -1211,7 +1211,7 @@ Claim: The host says Terrell Farnsworth, TPUSA's audio and visual lead who runs 
 Transcript Snippet: And this turned out was less than four minutes after Charlie was hit. We know he went up uh and he recorded himself.
 
 Anchored Artifacts: 
-Mentions: N-263, N-1
+Mentions: N-262, N-1
 Related Nodes: N-10100, N-10346, N-10991
 Supports: C-6475
 Tags: relevance:core
@@ -1228,7 +1228,7 @@ Claim: The host says Farnsworth went up on stage, recorded himself announcing th
 Transcript Snippet: We know he went up uh and he recorded himself. He announced that Charlie was dead. He went down and he began removing that camera in particular.
 
 Anchored Artifacts: 
-Mentions: N-263, N-1
+Mentions: N-262, N-1
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Obtain Farnsworth's self-recorded announcement and its metadata; sequence it against the camera-removal video.
@@ -1244,7 +1244,7 @@ Claim: The host says she had known Farnsworth for years, reached out to him afte
 Transcript Snippet: I knew Terl. You'll recall this, right? I reached out to him. I've known him for years
 
 Anchored Artifacts: 
-Mentions: N-3, N-263
+Mentions: N-3, N-262
 Related Nodes: N-10346
 Tags: relevance:context
 Investigative Direction: Confirm the host's prior relationship with Farnsworth and the date of first contact after September 10, 2025.
@@ -1260,7 +1260,7 @@ Claim: The host says that on the September 18 call Farnsworth said he did not wa
 Transcript Snippet: and he said he didn't want to share it because he didn't want Erika to see Charlie get hit in 4K.
 
 Anchored Artifacts: 
-Mentions: N-3, N-263, N-2, N-1
+Mentions: N-3, N-262, N-2, N-1
 Related Nodes: N-10346
 Tags: relevance:core
 Investigative Direction: Obtain the host's September 18 call recording or notes, and ask Farnsworth to confirm this stated reason.
@@ -1276,7 +1276,7 @@ Claim: The host says Farnsworth first said he did not know how to send the file,
 Transcript Snippet: And then he admitted that he did know how to send a file, but he didn't want to do it for fear that Google might hack him.
 
 Anchored Artifacts: 
-Mentions: N-3, N-263
+Mentions: N-3, N-262
 Related Nodes: N-10797
 Supports: C-6845, C-3291
 Tags: relevance:core
@@ -1293,7 +1293,7 @@ Claim: The host reads Farnsworth's 1102 statement as saying his camera setup con
 Transcript Snippet: Our camera setup consisted of three angles. An angle directly on Charlie, an angle on the individual asking questions and a wider angle behind Charlie that showed the audience and the crowd reaction.
 
 Anchored Artifacts: A-2284.1
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10799, N-10991
 Supports: C-3293
 Tags: relevance:core
@@ -1310,7 +1310,7 @@ Claim: The host reads Farnsworth's statement as saying the videos as provided to
 Transcript Snippet: These videos as they were provided to SBI are a true and correct representation of what took place at UVU.
 
 Anchored Artifacts: A-2284.1
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10012, N-10810
 Tags: relevance:core
 Investigative Direction: Obtain the 1102 and ask SBI which version of each video it received and how authenticity was assessed.
@@ -1326,7 +1326,7 @@ Claim: The host says Farnsworth's statement describes three cameras but four vid
 Transcript Snippet: Now, let's understand that first portion first. He says that there are four videos that he sent to them. He says that there are three cameras.
 
 Anchored Artifacts: A-2284.1
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10810
 Tags: relevance:core
 Investigative Direction: Identify the source of each of the four videos and the operator of any moving camera at the event.
@@ -1342,7 +1342,7 @@ Claim: The host, pointing to a diagram of the three static cameras, says the cam
 Transcript Snippet: Now, we have one to the front left side of Charlie that is being operated by Robert Golo.
 
 Anchored Artifacts: A-2992.1
-Mentions: N-704
+Mentions: N-703
 Related Nodes: N-10991, N-10998
 Tags: relevance:core
 Investigative Direction: Confirm camera operator assignments with Visual Impulse crew records or with Golow directly.
@@ -1358,7 +1358,7 @@ Claim: The host says the camera circled in blue on her diagram, which she judges
 Transcript Snippet: Right? That's the one that was being operated by uh Jordan Wilson. In other words, if I were trying to gather evidence very quickly within minutes of Charlie Kirk being shot, I'd go blue.
 
 Anchored Artifacts: A-2992.1
-Mentions: N-1, N-830
+Mentions: N-1, N-829
 Related Nodes: N-10991, N-10799
 Tags: relevance:core
 Investigative Direction: Confirm Jordan Wilson's role and camera position, and whether that camera's footage was among the four videos sent to SBI.
@@ -1391,7 +1391,7 @@ Claim: The host says Farnsworth finally showed her non-graphic footage from the 
 Transcript Snippet: Terl Farnsworth when he finally did show me the completely non-graphic footage from behind Charlie's head presented to me what appeared to her to be a zoomedin shot from that camera
 
 Anchored Artifacts: A-2286.1
-Mentions: N-3, N-263
+Mentions: N-3, N-262
 Related Nodes: N-10799
 Supports: C-3293
 Tags: relevance:core
@@ -1408,7 +1408,7 @@ Claim: The host infers from Agent Hull's testimony that Farnsworth inserted the 
 Transcript Snippet: This means that Terl inserted that SD card into a computer and then copied the footage onto a flash drive and similarly created Google links.
 
 Anchored Artifacts: A-2285.1
-Mentions: N-263, N-571
+Mentions: N-262, N-570
 Related Nodes: N-10808, N-10810
 Supports: C-3292
 Tags: relevance:core
@@ -1425,7 +1425,7 @@ Claim: The host says that when the clip of Farnsworth taking down that camera we
 Transcript Snippet: And then people were gas lit. We were told no, there was nothing unique about that camera. There was nothing unique about that footage in particular.
 
 Anchored Artifacts: A-2284.2
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10162
 Supports: C-5079
 Tags: relevance:core
@@ -1493,7 +1493,7 @@ Claim: The host reads the lengths of the four videos from Farnsworth's statement
 Transcript Snippet: One is 26 minutes, another one is 26 minutes, another is 26 minutes, and a fourth one is 23 minutes.
 
 Anchored Artifacts: A-2284.1
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10800, N-10810
 Tags: relevance:core
 Investigative Direction: Obtain the 1102 and the four source files; compare durations and metadata with the 80704 clip.
@@ -1509,7 +1509,7 @@ Claim: The host says it is not clear whether Farnsworth or SBI clipped the foota
 Transcript Snippet: Like I said, we're not sure if Terl clipped it or if it was SBI that clipped it. We do know that Terrell was the first to touch that footage
 
 Anchored Artifacts: A-2284.2
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10800
 Supports: C-3295
 Tags: relevance:core
@@ -1541,7 +1541,7 @@ Claim: The host says it is plausible that the only reason to cut a separate clip
 Transcript Snippet: It's plausible that the only reason they would have to clip that out is because it was zoomed in.
 
 Anchored Artifacts: A-2284.2
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10800, N-10799
 Supports: C-3295
 Tags: relevance:core
@@ -1558,7 +1558,7 @@ Claim: The host says Farnsworth did not instantly grab all the SD cards but only
 Transcript Snippet: because he did not instantly grab all of the SD cards. He grabbed that one and he did it nervously.
 
 Anchored Artifacts: A-2284.2
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10100, N-10162
 Supports: C-6475
 Tags: relevance:core
@@ -1575,7 +1575,7 @@ Claim: The host plays footage in which Farnsworth takes the rear camera apart an
 Transcript Snippet: If you're worried about theft, take the whole camera. It's pretty small. It's in your hand. He doesn't do that. He takes it apart and he takes the SD card out.
 
 Anchored Artifacts: A-2993.1
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10100, N-10162
 Supports: C-6480
 Tags: relevance:core
@@ -1592,7 +1592,7 @@ Claim: The host says the footage shows Farnsworth looking around, which she read
 Transcript Snippet: And he looks around. He wants to see who's looking at him.
 
 Anchored Artifacts: A-2993.1
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10100
 Tags: relevance:core
 Investigative Direction: Review the video frame by frame to document where Farnsworth looks and what is in his sight line.
@@ -1625,7 +1625,7 @@ Claim: The host says that in the newly released footage Farnsworth did not run t
 Transcript Snippet: He doesn't run to the other cameras and try to grab the SD card. Instead, what he does is he whips out his phone and he begins texting with someone.
 
 Anchored Artifacts: A-2288.1
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10801
 Supports: C-3296
 Tags: relevance:core
@@ -1642,7 +1642,7 @@ Claim: The host says she is told that no police officer instructed Farnsworth to
 Transcript Snippet: Maybe there was some police officer who told him to take that footage in particular. I'm told that didn't happen.
 
 Anchored Artifacts: A-2288.1
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10346, N-10162
 Supports: C-6692
 Contradicts: C-1366
@@ -1660,7 +1660,7 @@ Claim: The host says defense attorney Kathy Nester (transcribed Netor) asked que
 Transcript Snippet: The questions that Kathy Netor asked thereafter um things that she asserted about they don't know whether or not that footage was edited.
 
 Anchored Artifacts: 
-Mentions: N-263, N-831
+Mentions: N-262, N-830
 Related Nodes: N-10810
 Tags: relevance:core
 Investigative Direction: Obtain the preliminary-hearing transcript for Nester's questions about editing of the Visual Impulse footage.
@@ -1676,7 +1676,7 @@ Claim: The host says she is being sued by Brian Harpole, needs the rear-camera f
 Transcript Snippet: But I need that footage. I'm being sued by Brian Harpole.
 
 Anchored Artifacts: 
-Mentions: N-3, N-268
+Mentions: N-3, N-267
 Related Nodes: N-10651, N-10810
 Tags: relevance:context
 Investigative Direction: Check the docket for the Harpole suit and any discovery requests covering Visual Impulse footage.
@@ -1692,7 +1692,7 @@ Claim: The host says Farnsworth told her on the call that he spoke with Erika ab
 Transcript Snippet: why did Terl tell me that he spoke with Erika about that footage specifically?
 
 Anchored Artifacts: 
-Mentions: N-3, N-263, N-2
+Mentions: N-3, N-262, N-2
 Related Nodes: N-11211, N-10346
 Tags: relevance:core
 Investigative Direction: Obtain the host's call recording; ask Erika Kirk and Farnsworth whether and when they discussed the rear-camera footage.
@@ -1708,7 +1708,7 @@ Claim: The host says the FBI is allowed to assist under the law but does not hav
 Transcript Snippet: The FBI under the law is allowed to assist, but they don't have jurisdiction over the crime over the state.
 
 Anchored Artifacts: 
-Mentions: N-263
+Mentions: N-262
 Related Nodes: N-10802, N-10014
 Supports: C-3297
 Tags: relevance:core
@@ -1741,7 +1741,7 @@ Claim: In the Danny Jones podcast clip, John Kirraou (transcribed Kirao, Kuraku)
 Transcript Snippet: So, Kash Patel was asked this early on and he said, "We're just offering the FBI's expertise to the Utah State Police."
 
 Anchored Artifacts: A-2289.1
-Mentions: N-832, N-833, N-69
+Mentions: N-831, N-832, N-69
 Related Nodes: N-10802, N-10202
 Supports: C-3297
 Tags: relevance:core
@@ -1758,7 +1758,7 @@ Claim: In the clip, Kirraou says offering expertise would mean sending items by 
 Transcript Snippet: You don't have the FBI director fly out there with a with a plane load of FBI agents. It's not a federal case.
 
 Anchored Artifacts: A-2289.1
-Mentions: N-832, N-69
+Mentions: N-831, N-69
 Related Nodes: N-10802, N-10202
 Tags: relevance:core
 Investigative Direction: Obtain Patel's travel records and the number of FBI personnel deployed to Utah in September 2025.
@@ -1774,7 +1774,7 @@ Claim: The host says it is very strange that Kash Patel apparently shut down Joe
 Transcript Snippet: it's very strange that Kash Patel apparently shut down um Joe Kent who wanted to investigate whether or not there are foreign ties.
 
 Anchored Artifacts: 
-Mentions: N-69, N-211
+Mentions: N-69, N-210
 Related Nodes: N-10355
 Supports: C-2525, C-1519
 Tags: relevance:core
@@ -1791,7 +1791,7 @@ Claim: The host says Turning Point USA is upset with the person who wanted to in
 Transcript Snippet: And then we had Turning Point USA who's upset with the person who wanted to investigate those ties but not upset with Kash Patel going to events with Kash Patel.
 
 Anchored Artifacts: 
-Mentions: N-69, N-211
+Mentions: N-69, N-210
 Related Nodes: N-10000, N-10355
 Tags: relevance:context
 Investigative Direction: Compile TPUSA public statements about Kent and Patel and a list of joint appearances.
@@ -1823,7 +1823,7 @@ Claim: The host says the case has gone mainstream and been discussed on Shawn Ry
 Transcript Snippet: whether that's Shawn Ryan or more recently Joe Rogan who had a laugh alongside his guests Mark Normand, Shane Gillis and Ari Schaefer
 
 Anchored Artifacts: A-2290.1
-Mentions: N-226, N-270, N-834, N-835, N-836, N-40, N-2
+Mentions: N-225, N-269, N-833, N-834, N-835, N-40, N-2
 Tags: relevance:context
 Investigative Direction: Identify the Rogan episode number and date and verify its guest list.
 
@@ -1838,7 +1838,7 @@ Claim: In the Rogan clip a speaker, not identified in the transcript, says the m
 Transcript Snippet: The more the more time goes on, the more I'm leaning towards Candace Owens.
 
 Anchored Artifacts: A-2290.1
-Mentions: N-3, N-270
+Mentions: N-3, N-269
 Tags: relevance:context
 Investigative Direction: Identify the speaker from the Rogan episode audio.
 
@@ -1853,7 +1853,7 @@ Claim: In the Rogan clip a panelist asks whether it is weird that a woman comes 
 Transcript Snippet: You don't think it's weird the lady comes out to sparkers behind her?
 
 Anchored Artifacts: A-2290.1
-Mentions: N-270, N-2
+Mentions: N-269, N-2
 Supports: C-7098
 Tags: relevance:tangential
 Investigative Direction: Match the remark to a specific Erika Kirk appearance with pyrotechnics and its date.
@@ -1920,7 +1920,7 @@ Claim: The host says that when she says we she means independent investigators i
 Transcript Snippet: Sure, I'm sure we have made some errors, but we did not make them knowingly.
 
 Anchored Artifacts: 
-Mentions: N-3, N-332, N-130
+Mentions: N-3, N-331, N-130
 Related Nodes: N-10807
 Tags: relevance:context
 Investigative Direction: Track the specific corrections the group has issued and which claims remain disputed.
@@ -2000,7 +2000,7 @@ Claim: The host says her husband George already had the house swept for bugs, as
 Transcript Snippet: of course, George has already had the house swept for bugs. That was like the first thing he did
 
 Anchored Artifacts: 
-Mentions: N-3, N-30, N-261
+Mentions: N-3, N-30, N-260
 Related Nodes: N-11212
 Tags: relevance:context
 Investigative Direction: Not independently checkable without a sweep report; the claim is the host's own statement.
@@ -2032,7 +2032,7 @@ Claim: The host says she knew Wilson was Turning Point's horse, citing TPUSA's s
 Transcript Snippet: I knew that it was Turning Point's horse. Even just them saying we we have nothing to do with him and then his opening statement, it just is incredible.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-2, N-14, N-161
+Mentions: N-3, N-18, N-2, N-14, N-160
 Related Nodes: N-10804, N-10796
 Tags: relevance:core
 Investigative Direction: Collect TPUSA statements disclaiming Wilson and any communications or payments between TPUSA and Wilson or Crucible.
@@ -2080,7 +2080,7 @@ Claim: Responding to a viewer comment, the host says that if the messages being 
 Transcript Snippet: Of course, if he was handing messages that hand messages over as he was uh of people that Charlie felt threatened by or anything that could be significant, that would have been the first message that was handed over.
 
 Anchored Artifacts: 
-Mentions: N-211, N-1
+Mentions: N-210, N-1
 Related Nodes: N-10340
 Supports: C-2531
 Tags: relevance:core
@@ -2097,7 +2097,7 @@ Claim: The host says TPUSA denied or stayed silent for four months and then had 
 Transcript Snippet: Instead, they denied it for four months and then had Erika deny it on Glenn Beck or rather stayed mum on it for four months
 
 Anchored Artifacts: 
-Mentions: N-2, N-239
+Mentions: N-2, N-238
 Related Nodes: N-10340, N-10611
 Supports: C-5550, C-6778
 Tags: relevance:core

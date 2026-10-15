@@ -116,7 +116,7 @@ So, what Ben does is he likes to prep and he likes to put his notes and he likes
 
 [18:54]
 
-So, watch what he does during a public discussion with Michael. Take a listen. So, if Candace Owens decides to slander the widow of Charlie Gard, I think that people have a moral duty to say that this is a bad thing even if they are "friends" with those people. And I find it >> but but let's take that further. So, obviously one should state one's view and say, you know, Erika's great and the attacks on her and are not not right >> I'll just ask you straight up. Is Candace Owens doing something evil by attacking Erika Curren? >> I I think that it's wrong to attack Erika Curren. >> Well I want to say say the sentence with her name in it. >> not I'm I'm not going to dance like a puppet for the podcast.
+So, watch what he does during a public discussion with Michael. Take a listen. So, if Candace Owens decides to slander the widow of Charlie Gard, I think that people have a moral duty to say that this is a bad thing even if they are "friends" with those people. And I find it >> but but let's take that further. So, obviously one should state one's view and say, you know, Erika's great and the attacks on her and are not not right >> I'll just ask you straight up. Is Candace Owens doing something evil by attacking Erika Kirk? >> I I think that it's wrong to attack Erika Kirk. >> Well I want to say say the sentence with her name in it. >> not I'm I'm not going to dance like a puppet for the podcast.
 
 [19:28]
 

@@ -36,8 +36,8 @@
 
 - Artifact Families Introduced: A-1704, A-1705, A-1706, A-1707, A-1708, A-1709, A-1710, A-1711, A-1712, A-1713
 - Claim Range: C-2239–C-2252
-  - New Nodes Introduced: N-514, N-515, N-516, N-517, N-518, N-519, N-520, N-10466, N-10468, N-10469
-  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-725, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182, N-11183
+  - New Nodes Introduced: N-513, N-514, N-515, N-516, N-517, N-518, N-519, N-10466, N-10468, N-10469
+  - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-724, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182, N-11183
 - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -64,7 +64,7 @@ Video Timestamp: 00:02:51–00:05:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2239, C-2240, N-2, N-514, N-515*
+*Related: C-2239, C-2240, N-2, N-513, N-514*
 
 ---
 
@@ -92,7 +92,7 @@ Video Timestamp: 00:13:09–00:20:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2243, C-2244, C-2248, N-516, N-188, N-2*
+*Related: C-2243, C-2244, C-2248, N-515, N-187, N-2*
 
 ---
 
@@ -106,7 +106,7 @@ Video Timestamp: 00:26:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2244, N-516, N-2, A-1706.1*
+*Related: C-2244, N-515, N-2, A-1706.1*
 
 ---
 
@@ -120,7 +120,7 @@ Video Timestamp: 00:23:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2246, N-1, N-2, N-516*
+*Related: C-2246, N-1, N-2, N-515*
 
 ---
 
@@ -134,7 +134,7 @@ Video Timestamp: 00:24:55
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2247, N-517, N-2, N-10466, N-10469*
+*Related: C-2247, N-516, N-2, N-10466, N-10469*
 
 ---
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:47:00–00:48:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2252, N-518, N-85*
+*Related: C-2252, N-517, N-85*
 
 ---
 
@@ -227,7 +227,7 @@ Confidence Level: High
 ## IV. Node Register
 
 
-**N-514** Dr. Alan Wolfelt
+**N-513** Dr. Alan Wolfelt
 
 Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erica Kirk to "mourning avoidant, emotion phobic culture."
 
@@ -240,7 +240,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-515** Bidwell Smith
+**N-514** Bidwell Smith
 
 LA grief therapist quoted in the Daily Mail article stating widows are "uniquely grief policed" and that "grief is not a performance and survival is not a moral failure."
 
@@ -266,7 +266,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-188** Stacy Sheridan
+**N-187** Stacy Sheridan
 
 TPUSA figure identified by the host as the person who tapped the donor's shoulder in church and invited her to sit with Erica. Host states Sheridan's role is donor intelligence ("smelling money").
 
@@ -279,7 +279,7 @@ Investigative Pressure: High
 
 ---
 
-**N-516** Father Blank
+**N-515** Father Blank
 
 Priest referenced in the donor's email and texts; flew with Erica to Utah, was present when she received notification of Charlie's death, said the homily at the private funeral on the Friday before the memorial, and texted the donor about mass on the Monday after.
 
@@ -292,7 +292,7 @@ Investigative Pressure: High
 
 ---
 
-**N-517** TPUSA "Blank"
+**N-516** TPUSA "Blank"
 
 TPUSA staffer described in donor-introduction text as having traveled with Charlie and handled major donors; introduced the donor into the post-memorial fundraising pipeline.
 
@@ -305,7 +305,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-518** Don Lemon
+**N-517** Don Lemon
 
 Journalist shown in on-air clip at a Minnesota church protest; referenced in connection with his federal arrest by DOJ under Pam Bondi.
 
@@ -327,11 +327,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-518, A-1711.1*
+*Related: N-517, A-1711.1*
 
 ---
 
-**N-519** Kobe Bryant
+**N-518** Kobe Bryant
 
 Referenced solely as a behavioral-comparison anchor for Erica Kirk (widow grief conduct at memorial); no artifact introduced.
 
@@ -340,11 +340,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-520, N-2*
+*Related: N-519, N-2*
 
 ---
 
-**N-520** Vanessa Bryant
+**N-519** Vanessa Bryant
 
 Referenced as the comparison figure for widow-grief conduct at Kobe's memorial (eulogy delivered one month later, no TPUSA-equivalent organizational pitch in speech).
 
@@ -353,7 +353,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-519, N-2*
+*Related: N-518, N-2*
 
 ---
 
@@ -392,7 +392,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1706.1, A-1709.1, A-1713.1, C-2243, C-2250, N-188, N-517, N-14*
+*Related: A-1706.1, A-1709.1, A-1713.1, C-2243, C-2250, N-187, N-516, N-14*
 
 ---
 
@@ -405,7 +405,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: N-516, A-1706.1*
+*Related: N-515, A-1706.1*
 
 ---
 
@@ -494,7 +494,7 @@ Alex Clark; interviewer whose interview with Kolvet the donor and the host dispu
 
 ---
 
-**N-725** Rabbi Michael Barclay
+**N-724** Rabbi Michael Barclay
 
 Rabbi Barclay (the transcript spells him Rabbi Barclay); the host says her debate with him and his interview shaped her view of Zionism.
 
@@ -649,7 +649,7 @@ Claim Timestamp: 00:02:51
 Claim: The Daily Mail article presents grief experts who attribute criticism of Erica Kirk to "grief policing," a "mourning avoidant, emotion phobic culture," and sexism.
 
 Anchored Artifacts: A-1704.1
-Mentions: N-2, N-514, N-515
+Mentions: N-2, N-513, N-514
 Investigative Direction: Retrieve full Daily Mail article text and verify quotes, attributions, and publication context.
 
 ---
@@ -661,7 +661,7 @@ Claim Timestamp: 00:04:11
 Claim: Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting "mourning avoidant, emotion phobic culture"; Bidwell Smith states "widows are uniquely grief policed" and that "grief is not a performance and survival is not a moral failure."
 
 Anchored Artifacts: A-1704.1
-Mentions: N-2, N-514, N-515
+Mentions: N-2, N-513, N-514
 Investigative Direction: Confirm expert credentials, prior publication record, and any financial or organizational ties to TPUSA or Kirk-aligned entities.
 
 ---
@@ -685,7 +685,7 @@ Claim Timestamp: 00:06:32
 Claim: The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erica Kirk's memorial speech within ~48 hours centered on Turning Point USA organizational calls to action.
 
 Anchored Artifacts: A-1705.1
-Mentions: N-2, N-519, N-520
+Mentions: N-2, N-518, N-519
 Investigative Direction: Obtain and compare the full transcripts of both memorial speeches against the host's characterization; note Vanessa Bryant speech is verbally referenced but not played or quoted in this episode.
 
 ---
@@ -697,7 +697,7 @@ Claim Timestamp: 00:13:09
 Claim: A Catholic donor emailed the host describing how she was seated next to Father Blank at the Kirk memorial; the priest was with Erica when she was notified of Charlie's death, prayed over Charlie, and delivered the homily at the private funeral. The host says the woman who tapped the donor's shoulder at the post-mass church and invited her to sit with Erica was Stacy Sheridan.
 
 Anchored Artifacts: A-1706.1
-Mentions: N-2, N-188, N-516
+Mentions: N-2, N-187, N-515
 Related Nodes: N-10467
 Investigative Direction: Verify the email's metadata, the donor's identity, the priest's actual name and parish, and confirm the September mass timeline independently.
 
@@ -710,7 +710,7 @@ Claim Timestamp: 00:26:40
 Claim: Father Blank texted the donor at 6:30am saying "Hope to see you at mass" and indicating "Erika may be there too."
 
 Anchored Artifacts: A-1707.1, A-1706.1
-Mentions: N-2, N-516
+Mentions: N-2, N-515
 Investigative Direction: Obtain phone records or screenshots of the actual text thread; verify whether "may be there" phrasing reflects typical priest communication or pre-coordinated signal.
 
 ---
@@ -734,7 +734,7 @@ Claim Timestamp: 00:23:14
 Claim: Per a group-chat text message screenshot that the host shows and says was supplied by a source, Charlie Kirk sent a text on September 9 to Erica and Father Blank quoting 1 Corinthians 16:9: "for a wide door for effective work has opened to me and there are many adversaries."
 
 Anchored Artifacts: A-1708.1
-Mentions: N-1, N-2, N-516
+Mentions: N-1, N-2, N-515
 Investigative Direction: Obtain forensic verification of text message origin, timestamp, and sender device; identify the third group-chat participant's account.
 
 ---
@@ -746,7 +746,7 @@ Claim Timestamp: 00:24:55
 Claim: A text from TPUSA "Blank" introducing the donor states the memorial will cost approximately $6 million, that Trump was personally involved in securing Cardinal Stadium, and that the high cost was driven by displaced revenue from a "large and lucrative RV show" originally scheduled that weekend.
 
 Anchored Artifacts: A-1709.1
-Mentions: N-517
+Mentions: N-516
 Related Nodes: N-10466, N-10469
 Investigative Direction: Verify Cardinal Stadium event calendar for that weekend; cross-check White House or Trump campaign communications about venue booking; trace the TPUSA "Blank" staffer identity.
 
@@ -759,7 +759,7 @@ Claim Timestamp: 00:31:07
 Claim: Father Blank responded to the donor's thank-you message with: "God's fingerprints are all over what is happening. There is no doubt that your presence to Erika was a God moment for both of you."
 
 Anchored Artifacts: A-1706.1
-Mentions: N-2, N-516
+Mentions: N-2, N-515
 Investigative Direction: Verify text message metadata and check whether the priest used similar phrasing with other donors introduced through memorial attendance.
 
 ---
@@ -807,7 +807,7 @@ Claim Timestamp: 00:47:00
 Claim: The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning a pastor whose church works with ICE.
 
 Anchored Artifacts: A-1711.1
-Mentions: N-518
+Mentions: N-517
 Investigative Direction: Confirm the underlying church affiliation and ICE relationship; verify the federal charges basis for Don Lemon's subsequent arrest.
 
 ---
@@ -853,7 +853,7 @@ Claim: The host reads from the Daily Mail article that Dr. Alan Wolfelt suspects
 Transcript Snippet: Dr. Wolf similarly suspects that Kirk's insistence on getting up and getting dressed and putting on makeup and fighting for something she believes in every day is a classic emotional survival tactic.
 
 Anchored Artifacts: A-1704.1
-Mentions: N-514, N-2
+Mentions: N-513, N-2
 Related Nodes: N-10070
 Supports: C-2240
 Tags: relevance:context
@@ -870,7 +870,7 @@ Claim: The host says that Vanessa Bryant was suing everybody after Kobe Bryant's
 Transcript Snippet: Vanessa was suing everybody. She was suing people who released the photos. She was suing the helicopter company
 
 Anchored Artifacts: 
-Mentions: N-520, N-519, N-3
+Mentions: N-519, N-518, N-3
 Supports: C-2242
 Tags: relevance:tangential
 Investigative Direction: Check court dockets for Vanessa Bryant's suits over the crash photos and against the helicopter operator to confirm the host's description of her litigation.
@@ -886,7 +886,7 @@ Claim: The host says Vanessa Bryant gave her first interview four months after K
 Transcript Snippet: when she gave her first interview, just so you know, that wasn't until 4 months later in April, and they were not invited into her home.
 
 Anchored Artifacts: 
-Mentions: N-520, N-519, N-3
+Mentions: N-519, N-518, N-3
 Supports: C-2242
 Tags: relevance:tangential
 Investigative Direction: Check the date and venue of Vanessa Bryant's first post-crash interview and the Hall of Fame induction coverage against the host's account.
@@ -951,7 +951,7 @@ Claim: The donor's email, as read by the host, says Erika Kirk asked the priest 
 Transcript Snippet: She actually asked him to pray the rosary there at the hospital and he said the homaly at the private funeral the Friday before the memorial.
 
 Anchored Artifacts: A-1706.1
-Mentions: N-2, N-516
+Mentions: N-2, N-515
 Supports: C-2243
 Tags: relevance:core
 Investigative Direction: Confirm with the hospital chaplaincy, the parish or Erika Kirk's team whether the priest was present at the hospital and officiated at the private funeral.
@@ -999,7 +999,7 @@ Claim: The donor's email says she spent about eight hours sitting with the pries
 Transcript Snippet: I spent a good eight hours sitting with Father Blank. I'm shy generally and was sitting with empty seats around me in the third row from the stage.
 
 Anchored Artifacts: A-1706.1
-Mentions: N-516
+Mentions: N-515
 Related Nodes: N-10002
 Tags: relevance:context
 Investigative Direction: Check the memorial seating chart and credential records for the third-row sections and who sat in them.
@@ -1015,7 +1015,7 @@ Claim: The donor's email says the priest shared stories of Charlie attending mas
 Transcript Snippet: Tears going down his face from his stories and messages from Charlie that he showed me.
 
 Anchored Artifacts: A-1706.1
-Mentions: N-516, N-1, N-2
+Mentions: N-515, N-1, N-2
 Tags: relevance:core
 Investigative Direction: Ask the donor for the messages the priest showed her and compare with the September 9 group-chat text shown at 00:23:14.
 
@@ -1045,7 +1045,7 @@ Claim: The donor's email says a woman tapped her on the shoulder, that she belie
 Transcript Snippet: A minute or two later, as I was still in prayer, I had a tap on my shoulder by a woman. I believed it was an assistant.
 
 Anchored Artifacts: A-1706.1
-Mentions: N-2, N-188
+Mentions: N-2, N-187
 Related Nodes: N-10467
 Supports: C-2243
 Tags: relevance:core
@@ -1062,7 +1062,7 @@ Claim: The donor's email says Erika Kirk told her that Charlie went to mass with
 Transcript Snippet: She mentioned that Charlie went to mass with her there and that Father Don would open the church up for him there often when Charlie just wanted to pray and reflect without being disrupted
 
 Anchored Artifacts: A-1706.1
-Mentions: N-2, N-1, N-516
+Mentions: N-2, N-1, N-515
 Tags: relevance:core
 Investigative Direction: Check Charlie Kirk's mass attendance with the parish; the email reads Father Don while the host calls the priest Father Blank, so confirm the name.
 
@@ -1077,7 +1077,7 @@ Claim: The host says she knew from who tapped the donor that Stacy Sheridan woul
 Transcript Snippet: I knew that Stacy would have only done that if the girl who was writing me this email had a boatload of money.
 
 Anchored Artifacts: A-1706.1
-Mentions: N-188, N-3
+Mentions: N-187, N-3
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Ask the donor to confirm Sheridan was the woman who tapped her; review Sheridan's role in TPUSA donor relations through staff accounts.
@@ -1109,7 +1109,7 @@ Claim: The host says Stacy Sheridan's job is to know everything about a person b
 Transcript Snippet: Stacy Sheridan's job literally is to know everything about that person, their net worth.
 
 Anchored Artifacts: 
-Mentions: N-188
+Mentions: N-187
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Obtain Sheridan's job description and any donor-profile documents from former TPUSA staff; ask TPUSA to describe her role.
@@ -1125,7 +1125,7 @@ Claim: The host says Sheridan would whisper in Charlie Kirk's ear about a person
 Transcript Snippet: She would tell Charlie. She whisper in Charlie's ear.
 
 Anchored Artifacts: 
-Mentions: N-188, N-1
+Mentions: N-187, N-1
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Ask former TPUSA event staff to describe the donor hand-off routine at events; check the host's earlier references to this in ep 19 (C-1479).
@@ -1173,7 +1173,7 @@ Claim: The host says the donor supplied evidence in the form of a text message t
 Transcript Snippet: She even supplied evidence uh in the form of a text message that the priest that she was sitting next to had shared with her.
 
 Anchored Artifacts: A-1708.1
-Mentions: N-1, N-2, N-516
+Mentions: N-1, N-2, N-515
 Supports: C-2246
 Tags: relevance:core
 Investigative Direction: Obtain the original screenshot or forward from the donor and verify its provenance and metadata.
@@ -1236,7 +1236,7 @@ Claim: A text the host shows says the donor is being introduced to a TPUSA staff
 Transcript Snippet: I'm going to introduce you via text to TPUSA's Blank who traveled everywhere with Charlie handling many of their big donors.
 
 Anchored Artifacts: A-1709.1
-Mentions: N-517, N-1
+Mentions: N-516, N-1
 Related Nodes: N-10467
 Tags: relevance:core
 Investigative Direction: Identify the TPUSA staffer and the sender of the text from the donor's screenshot; check the staffer's travel with Charlie.
@@ -1252,7 +1252,7 @@ Claim: The same text says Erika has been getting more death threats every day an
 Transcript Snippet: Blank says that Erika has been getting more death threats every day. He's promised Erika that he will run point on raising money to cover the memorial service
 
 Anchored Artifacts: A-1709.1
-Mentions: N-2, N-517
+Mentions: N-2, N-516
 Related Nodes: N-10469
 Supports: C-2247
 Tags: relevance:core
@@ -1318,7 +1318,7 @@ Claim: The host says that, if she is correct, the priest also cancelled his mass
 Transcript Snippet: If I am correct, he also cancelled his mass on September 10th.
 
 Anchored Artifacts: 
-Mentions: N-516, N-3
+Mentions: N-515, N-3
 Related Nodes: N-10468
 Tags: relevance:core
 Investigative Direction: Check the parish bulletin and mass schedule; note the host dates the donor's Monday mass to September 10 though the memorial was on a Sunday, so confirm which date she means.
@@ -1334,7 +1334,7 @@ Claim: The host says Erika Kirk told Stacy Sheridan to tap the donor's shoulder 
 Transcript Snippet: What moved Stacy Sheridan to tap on this person's shoulder? Erika told her to do that. Erika gave her permission to do that.
 
 Anchored Artifacts: A-1706.1
-Mentions: N-2, N-188, N-1
+Mentions: N-2, N-187, N-1
 Related Nodes: N-10467
 Supports: C-2243
 Tags: relevance:core
@@ -1529,7 +1529,7 @@ Claim: The host says that Don Lemon's arrest was about Pam Bondi wanting a headl
 Transcript Snippet: but objectively, him being put in prison because Pam Bondi wanted a headline.
 
 Anchored Artifacts: A-1711.1
-Mentions: N-518, N-85
+Mentions: N-517, N-85
 Tags: relevance:context
 Investigative Direction: Review the federal charging documents for the Lemon arrest to compare the stated basis with the host's description.
 
@@ -1751,7 +1751,7 @@ Claim: The host says that watching the Rabbi Barclay interview probably was part
 Transcript Snippet: And that probably was part of the beginning of the end of my support for Zionism because I now believe that it is a objectively racist philosophy.
 
 Anchored Artifacts: 
-Mentions: N-725, N-3
+Mentions: N-724, N-3
 Related Nodes: N-10026
 Tags: relevance:tangential
 Investigative Direction: Personal position recorded as said; the interview is the Daily Wire debate the host mentions earlier.
@@ -1915,7 +1915,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use global people ledger (N-514+)
+- [x] People nodes use global people ledger (N-513+)
 - [x] Non-person investigation targets use 1000+ series (N-10466+)
 - [x] No speculative claims inscribed as evidence-backed
 - [x] Names preserved exactly or uncertainty flagged

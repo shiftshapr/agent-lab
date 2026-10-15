@@ -13,12 +13,12 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10b): N-11098
-  - Hole-minted Nodes (reintro-ep015): N-155, N-203, N-206, N-10230, N-10398, N-10810
+  - Hole-minted Nodes (reintro-ep015): N-154, N-202, N-205, N-10230, N-10398, N-10810
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10b): C-6449–C-6511
   - New Nodes Introduced: N-10162, N-10163, N-10164, N-10166, N-10167
   - Reused Nodes Appearing: N-1, N-2, N-11, N-10165, N-5, N-15, N-36, N-40, N-46, N-50, N-51, N-101, N-10000, N-10016, N-10025, N-10026, N-10100, N-10104, N-10117, N-10132, N-10139, N-10662, N-10350, N-11096, N-11099, N-11097
-  - Hole-minted Nodes (wave3): N-380
+  - Hole-minted Nodes (wave3): N-379
 
 ## 2. Executive Summary
 
@@ -379,7 +379,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-380** Dan Bongino
+**N-379** Dan Bongino
 
 First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.
 
@@ -590,7 +590,7 @@ Named in the clip as Kirk's debate partner on Protestant versus Catholic theolog
 
 ---
 
-**N-155** Robert J. O'Neill
+**N-154** Robert J. O'Neill
 
 Named in a moderator comment as questioning the Kirk story.
 
@@ -598,7 +598,7 @@ Named in a moderator comment as questioning the Kirk story.
 
 ---
 
-**N-203** Nick Fuentes
+**N-202** Nick Fuentes
 
 Named with the host in the sermon.
 
@@ -606,7 +606,7 @@ Named with the host in the sermon.
 
 ---
 
-**N-206** Piers Morgan
+**N-205** Piers Morgan
 
 Host of the show named in a moderator comment.
 
@@ -864,7 +864,7 @@ Claim Timestamp: 00:38:03
 Claim: The same WSJ article quotes Alex Clark as praising FBI director Kash Patel and deputy Dan Bongino for their leadership in the suspect hunt, stating "we have them in office because of Charlie."
 
 Anchored Artifacts: A-1222.1
-Mentions: N-99, N-69, N-380
+Mentions: N-99, N-69, N-379
 
 Related Nodes: N-10166
 
@@ -929,7 +929,7 @@ Claim Timestamp: 00:45:52
 Claim: In a sermon clip the host plays, an unnamed 'Judeo-Christian' pastor, in a sermon given September 21, 2025 titled 'what has defiled you' that cites 2 Corinthians 7:1, calls Candace Owens and Nick Fuentes 'foolish people that are so deceived' and says young people are 'eating that up'.
 
 Anchored Artifacts: A-1226.1
-Mentions: N-3, N-203
+Mentions: N-3, N-202
 
 Related Nodes:
 
@@ -1828,7 +1828,7 @@ Claim: In the played sermon, the pastor hopes that congregants defiled by an ech
 Transcript Snippet: you're going to block them because they're anti what scripture says.
 
 Anchored Artifacts: A-1226.1
-Mentions: N-203, N-3
+Mentions: N-202, N-3
 Related Nodes: N-10139
 Tags: relevance:context
 Investigative Direction: Obtain the full sermon recording and identify the church.
@@ -1907,7 +1907,7 @@ Claim: A moderator's comment read by the host says Rob O'Neill, who shot Bin Lad
 Transcript Snippet: Rob O'Neill, the guy who shot Bin Laden, questions the story of Charlie on Piers Morgan's show.
 
 Anchored Artifacts: A-2817.2
-Mentions: N-155, N-206
+Mentions: N-154, N-205
 Tags: relevance:context
 Investigative Direction: Retrieve the Piers Morgan episode with O'Neill and his exact remarks.
 

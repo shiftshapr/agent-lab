@@ -122,7 +122,7 @@
             "C-1390"
           ],
           "related_nodes": [
-            "N-159"
+            "N-158"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -198,7 +198,7 @@
             "C-1383"
           ],
           "related_nodes": [
-            "N-161"
+            "N-160"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -241,7 +241,7 @@
             "C-1384"
           ],
           "related_nodes": [
-            "N-155"
+            "N-154"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -258,7 +258,7 @@
             "C-1385"
           ],
           "related_nodes": [
-            "N-155"
+            "N-154"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -275,7 +275,7 @@
             "C-1386"
           ],
           "related_nodes": [
-            "N-155"
+            "N-154"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -300,7 +300,7 @@
             "C-1396"
           ],
           "related_nodes": [
-            "N-158",
+            "N-157",
             "N-60"
           ],
           "tags": [],
@@ -328,8 +328,8 @@
             "C-1395"
           ],
           "related_nodes": [
-            "N-156",
-            "N-157"
+            "N-155",
+            "N-156"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -346,8 +346,8 @@
             "C-1393"
           ],
           "related_nodes": [
-            "N-156",
-            "N-157"
+            "N-155",
+            "N-156"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -581,7 +581,7 @@
             "N-1",
             "N-3",
             "N-40",
-            "N-906",
+            "N-905",
             "N-118",
             "N-10206",
             "N-11158"
@@ -610,7 +610,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-203",
+            "N-202",
             "N-10206"
           ],
           "tags": [],
@@ -671,7 +671,7 @@
           "related_nodes": [
             "N-3",
             "N-49",
-            "N-172",
+            "N-171",
             "N-10176"
           ],
           "tags": [],
@@ -780,8 +780,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-155",
-      "ref": "N-155",
+      "@id": "N-154",
+      "ref": "N-154",
       "name": "Robert J. O'Neill",
       "type": "person",
       "description": "Former Navy SEAL; Piers Morgan Show guest; questioned the visible wound type, shirt movement direction, and crime-scene teardown.",
@@ -803,8 +803,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-156",
-      "ref": "N-156",
+      "@id": "N-155",
+      "ref": "N-155",
       "name": "John Mappin",
       "type": "person",
       "description": "TPUSA donor; co-author of the public letter supporting Candace's investigation; identified by Candace as the donor who helped launch Turning Point UK.",
@@ -825,8 +825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-157",
-      "ref": "N-157",
+      "@id": "N-156",
+      "ref": "N-156",
       "name": "Irina Mappin",
       "type": "person",
       "description": "TPUSA donor; co-author of the public letter supporting Candace's investigation. Name appears in the transcript under multiple spellings: \"Arena,\" \"Reena,\" \"Aarina.\"",
@@ -866,8 +866,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-158",
-      "ref": "N-158",
+      "@id": "N-157",
+      "ref": "N-157",
       "name": "Conrad Flynn",
       "type": "person",
       "description": "Writer/producer; appeared on Tucker Carlson's show discussing Pontius Pilate's wife as prophetic dreamer.",
@@ -885,8 +885,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-159",
-      "ref": "N-159",
+      "@id": "N-158",
+      "ref": "N-158",
       "name": "The Quartering",
       "type": "person",
       "description": "YouTuber/commentator; publicly questioned what the released texts actually prove.",
@@ -923,8 +923,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Co-host of the Charlie Kirk Show; stated on air he is an eyewitness to events and has been advised not to comment publicly.",
@@ -1554,8 +1554,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-172",
-      "ref": "N-172",
+      "@id": "N-171",
+      "ref": "N-171",
       "name": "Tate Brothers (Andrew and Tristan)",
       "type": "person",
       "description": "Tate Brothers; Andrew Tate named as a recipient of the host's package.",
@@ -1571,8 +1571,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-203",
-      "ref": "N-203",
+      "@id": "N-202",
+      "ref": "N-202",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Nick Fuentes; author of posts the host reads.",
@@ -1592,8 +1592,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-206",
-      "ref": "N-206",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Piers Morgan; host of the show on which O'Neill appeared.",
@@ -1609,8 +1609,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-868",
-      "ref": "N-868",
+      "@id": "N-867",
+      "ref": "N-867",
       "name": "Britta Weidner",
       "type": "person",
       "description": "Britta Weidner; author of posts the host reads.",
@@ -2278,8 +2278,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-906",
-      "ref": "N-906",
+      "@id": "N-905",
+      "ref": "N-905",
       "name": "Ashton Forbes",
       "type": "person",
       "description": "First named by the host at 00:07:45 in episode 16. Online commentator whose X post the host reads, saying she has no credibility, that Telegram group chat scams exist, and that she is building a cult.",
@@ -2385,7 +2385,7 @@
       "claim_timestamp": "00:16:13",
       "investigative_direction": "Identify the events Blake claims to have witnessed; determine the source of the legal advice restraining his commentary.",
       "mentions_person_refs": [
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2403,7 +2403,7 @@
       "investigative_direction": "Obtain the full unedited Kirk video and a forensic pathologist review to determine wound entry/exit characteristics independently of O'Neill's lay assessment.",
       "mentions_person_refs": [
         "N-1",
-        "N-155"
+        "N-154"
       ]
     },
     {
@@ -2421,7 +2421,7 @@
       "investigative_direction": "Obtain the full unedited video and forensic-physics reconstruction of the shirt movement to test whether the directionality is consistent with the stated shooter location.",
       "mentions_person_refs": [
         "N-1",
-        "N-155"
+        "N-154"
       ]
     },
     {
@@ -2438,7 +2438,7 @@
       "claim_timestamp": "00:29:51",
       "investigative_direction": "Confirm with Utah court / Utah State Records the timeline of any paving work at the UVU Losee Center site and the responsible party.",
       "mentions_person_refs": [
-        "N-155"
+        "N-154"
       ]
     },
     {
@@ -2457,7 +2457,7 @@
       "investigative_direction": "Cross-reference the Britta accusation against the Kolvet confirmation (C-1380) to determine whether Britta publicly retracted or updated her position.",
       "mentions_person_refs": [
         "N-3",
-        "N-868"
+        "N-867"
       ]
     },
     {
@@ -2492,7 +2492,7 @@
       "claim_timestamp": "00:11:11",
       "investigative_direction": "Determine the actual interval between Candace's receipt and release of the text chain.",
       "mentions_person_refs": [
-        "N-203",
+        "N-202",
         "N-3"
       ]
     },
@@ -2511,7 +2511,7 @@
       "investigative_direction": "Evaluate the substance of the \"what does it prove\" critique against the substantive content of the text chain (C-1382, N-14).",
       "mentions_person_refs": [
         "N-1",
-        "N-159"
+        "N-158"
       ]
     },
     {
@@ -2547,8 +2547,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-3",
-        "N-156",
-        "N-157"
+        "N-155",
+        "N-156"
       ]
     },
     {
@@ -2565,8 +2565,8 @@
       "claim_timestamp": "00:49:54",
       "investigative_direction": "Identify (with Mappin cooperation) any of the named senior Republican or TPUSA donor callers willing to go on record.",
       "mentions_person_refs": [
-        "N-156",
-        "N-157"
+        "N-155",
+        "N-156"
       ]
     },
     {
@@ -2583,8 +2583,8 @@
       "claim_timestamp": "00:49:50",
       "investigative_direction": "Cross-reference polling or independent survey data on public belief about the official Kirk investigation narrative.",
       "mentions_person_refs": [
-        "N-156",
-        "N-157"
+        "N-155",
+        "N-156"
       ]
     },
     {
@@ -2602,8 +2602,8 @@
         "N-1",
         "N-3",
         "N-30",
-        "N-156",
-        "N-157"
+        "N-155",
+        "N-156"
       ]
     },
     {
@@ -2620,7 +2620,7 @@
       "claim_timestamp": "00:04:56",
       "investigative_direction": "Obtain the full Tucker / Flynn segment to determine the surrounding context and any explicit connection drawn to the Kirk case.",
       "mentions_person_refs": [
-        "N-158",
+        "N-157",
         "N-22"
       ]
     },
@@ -2913,7 +2913,7 @@
       "investigative_direction": "Pull the original Forbes post and its timestamp; check whether he later acknowledged the texts were authenticated by Andrew Kolvet.",
       "transcript_snippet": "First off, Candace has no credibility. Second, there's a bunch of Telegram group chat scams that claim to be real people.",
       "mentions_person_refs": [
-        "N-906",
+        "N-905",
         "N-3",
         "N-118"
       ]
@@ -2937,7 +2937,7 @@
       "investigative_direction": "Pull the original post; compare with Andrew Kolvet's statement (C-1380 and C-1382) that the chain fits Kirk's known frustrations about Israel.",
       "transcript_snippet": "Lastly, even if the text messages were real, they mean literally nothing related to Charlie's death.",
       "mentions_person_refs": [
-        "N-906",
+        "N-905",
         "N-1",
         "N-40"
       ]
@@ -2961,7 +2961,7 @@
       "investigative_direction": "Pull the original post and any replies; this is an opinion attributed to Forbes and is recorded only as said.",
       "transcript_snippet": "I find it scary how Candace is building a literal cult. Soon they'll be drinking Kool-Aid in sync",
       "mentions_person_refs": [
-        "N-906",
+        "N-905",
         "N-3"
       ]
     },
@@ -2980,7 +2980,7 @@
       "investigative_direction": "Check Britta's public employment history with Seth Dillon's company; the host says it only as context for her posts.",
       "transcript_snippet": "She wrote and by the way she used to work for Seth Dillon.",
       "mentions_person_refs": [
-        "N-868",
+        "N-867",
         "N-38"
       ]
     },
@@ -3063,7 +3063,7 @@
       "investigative_direction": "Pull the original post; the host denies the characterization and says the word simply means a bombardment.",
       "transcript_snippet": "Candace thinks it's cute to use Nazi terminology and make a turning point pun while she incites further harassment of TPUSA employees by implicating them in Charlie's death.",
       "mentions_person_refs": [
-        "N-868",
+        "N-867",
         "N-3"
       ]
     },
@@ -3125,7 +3125,7 @@
       "investigative_direction": "The host gives no evidence; look for any court or FOIA record or named source on the allegation, and treat it as unproven.",
       "transcript_snippet": "Nick Fuentes, our uh uh routine federal informant wrote writes this",
       "mentions_person_refs": [
-        "N-203"
+        "N-202"
       ]
     },
     {
@@ -3147,7 +3147,7 @@
       "investigative_direction": "Obtain the uncensored chain from the host or from Kolvet's shared screen grab to see who was in it; compare with C-1377 (Josh Hammer named).",
       "transcript_snippet": "why did she sit on this for four weeks and then censor the other names?",
       "mentions_person_refs": [
-        "N-203",
+        "N-202",
         "N-3"
       ]
     },
@@ -3173,7 +3173,7 @@
         "C-1375"
       ],
       "mentions_person_refs": [
-        "N-203",
+        "N-202",
         "N-1"
       ]
     },
@@ -3192,7 +3192,7 @@
       "investigative_direction": "The host offers no evidence of payment; find any named funder or disclosure, otherwise treat as characterization.",
       "transcript_snippet": "Speaking of paying people to shill, it's why I didn't take one minute or one sentence rather of him uh trying to uligize Charlie Kirk seriously",
       "mentions_person_refs": [
-        "N-203",
+        "N-202",
         "N-1",
         "N-3"
       ]
@@ -3375,7 +3375,7 @@
       "transcript_snippet": "Blake, you were in the trenches on a lot of this stuff because we were workshopping how we were going to do the tour",
       "mentions_person_refs": [
         "N-14",
-        "N-161",
+        "N-160",
         "N-1"
       ]
     },
@@ -3734,7 +3734,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-49",
-        "N-172"
+        "N-171"
       ]
     },
     {
@@ -3754,9 +3754,9 @@
       "investigative_direction": "Obtain the autopsy or surgeon account of the time of death and the hospital records; O'Neill's remark is a lay reading of the video.",
       "transcript_snippet": "he was obviously dead before he hit the ground.",
       "mentions_person_refs": [
-        "N-155",
+        "N-154",
         "N-1",
-        "N-206"
+        "N-205"
       ]
     },
     {
@@ -3778,7 +3778,7 @@
       "investigative_direction": "Compare with TPUSA and Kolvet accounts of whether Kirk wore a vest; compare with the host's claim that he did not (C-9291).",
       "transcript_snippet": "he wasn't wearing body armor. And two, it doesn't deflect like that off of body armor.",
       "mentions_person_refs": [
-        "N-155",
+        "N-154",
         "N-1"
       ]
     },
@@ -3801,7 +3801,7 @@
       "investigative_direction": "Identify the interviewed witnesses and the outlets that dropped their accounts; compare with the shirt-movement claim (C-1385).",
       "transcript_snippet": "people being interviewed saying, \"Yeah, they came from my left to right, from his right to left, immediately shut down.\"",
       "mentions_person_refs": [
-        "N-155",
+        "N-154",
         "N-1"
       ]
     },
@@ -3827,7 +3827,7 @@
         "C-1175"
       ],
       "mentions_person_refs": [
-        "N-155",
+        "N-154",
         "N-40"
       ]
     },
@@ -4312,7 +4312,7 @@
       "investigative_direction": "Identify the donors introduced by Mappin and any TPUSA donor records; ask Mappin through the host.",
       "transcript_snippet": "a donor that actually then unlocked a whole another level of donations for Charlie Kirk through introductions that he made for Charlie",
       "mentions_person_refs": [
-        "N-156",
+        "N-155",
         "N-1"
       ]
     },
@@ -4335,7 +4335,7 @@
       "transcript_snippet": "And that event was when I first laid eyes on George. Not when I spoke to him, but when I actually first laid eyes on him.",
       "mentions_person_refs": [
         "N-30",
-        "N-156",
+        "N-155",
         "N-3"
       ]
     },
@@ -4354,7 +4354,7 @@
       "investigative_direction": "Track later statements by named TPUSA donors; the host offers no names.",
       "transcript_snippet": "I think he will be the first of many donors that might make a public statement.",
       "mentions_person_refs": [
-        "N-156",
+        "N-155",
         "N-3"
       ]
     },
@@ -4377,8 +4377,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-4",
-        "N-156",
-        "N-157"
+        "N-155",
+        "N-156"
       ]
     },
     {
@@ -4403,8 +4403,8 @@
         "C-1386"
       ],
       "mentions_person_refs": [
-        "N-156",
-        "N-157"
+        "N-155",
+        "N-156"
       ]
     },
     {
@@ -4424,8 +4424,8 @@
       "investigative_direction": "Check whether any authority responded to or acknowledged the letter.",
       "transcript_snippet": "the official investigation should be immediately ordered by the appropriate legal authority to proactively share everything they know with Candace and her selected team.",
       "mentions_person_refs": [
+        "N-155",
         "N-156",
-        "N-157",
         "N-3"
       ]
     },
@@ -4446,8 +4446,8 @@
       "investigative_direction": "Compare with statements by other Kirk friends, such as those reported in episodes 12 to 15.",
       "transcript_snippet": "hers has so far been one of the only public voices from Charlie's closest friends questioning the absurdity of some of the communications",
       "mentions_person_refs": [
+        "N-155",
         "N-156",
-        "N-157",
         "N-3",
         "N-1"
       ]
@@ -4783,7 +4783,7 @@
         {
           "episode": 16,
           "video_timestamp": "00:08:55",
-          "speaker_node_ref": "N-868",
+          "speaker_node_ref": "N-867",
           "quote": "I'm just asking questions.",
           "context": "Host reads Britta's post and mocks the phrase; the quoted phrase is Britta's.",
           "confidence": "medium",

@@ -809,8 +809,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-206",
-      "ref": "N-206",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Interviewer in the Megyn Kelly clip artifact.",
@@ -825,8 +825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-275",
+      "ref": "N-275",
       "name": "Jonathan Pollard",
       "type": "person",
       "description": "Convicted Israeli spy (30-year U.S. prison sentence, espionage); met with Huckabee per episode.",
@@ -841,8 +841,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-421",
-      "ref": "N-421",
+      "@id": "N-420",
+      "ref": "N-420",
       "name": "Monica Lewinsky",
       "type": "person",
       "description": "First named by the host at 00:26:31 in episode 89.",
@@ -900,8 +900,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-147",
-      "ref": "N-147",
+      "@id": "N-146",
+      "ref": "N-146",
       "name": "Marjorie Taylor Greene",
       "type": "person",
       "description": "Marjorie Taylor Greene, named in the post as Marjorie Traitor Brown.",
@@ -917,8 +917,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-167",
-      "ref": "N-167",
+      "@id": "N-166",
+      "ref": "N-166",
       "name": "Howard Lutnick",
       "type": "person",
       "description": "Howard Lutnick, named in a played voter clip.",
@@ -934,8 +934,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-180",
-      "ref": "N-180",
+      "@id": "N-179",
+      "ref": "N-179",
       "name": "Jared Kushner",
       "type": "person",
       "description": "Jared Kushner, named by the host in connection with boardroom deals.",
@@ -951,8 +951,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-246",
-      "ref": "N-246",
+      "@id": "N-245",
+      "ref": "N-245",
       "name": "Mark Levin",
       "type": "person",
       "description": "Mark Levin, named in a played voter clip.",
@@ -968,8 +968,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-300",
-      "ref": "N-300",
+      "@id": "N-299",
+      "ref": "N-299",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Miriam Adelson, the donor in the host's account of the alleged meeting.",
@@ -987,8 +987,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-682",
-      "ref": "N-682",
+      "@id": "N-681",
+      "ref": "N-681",
       "name": "Joe Biden",
       "type": "person",
       "description": "Joe Biden, discussed in the host's comment on dementia.",
@@ -1004,8 +1004,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-708",
-      "ref": "N-708",
+      "@id": "N-707",
+      "ref": "N-707",
       "name": "Sheldon Adelson",
       "type": "person",
       "description": "Sheldon Adelson, whose gambling fortune the host references.",
@@ -1310,6 +1310,7 @@
       "investigative_direction": "Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading.",
       "mentions_person_refs": [
         "N-3",
+        "N-5",
         "N-22",
         "N-46",
         "N-93"
@@ -1337,7 +1338,7 @@
       "@id": "C-2671",
       "ref": "C-2671",
       "label": "CNN Compiled a Montage Showing Trump Previously Praising Candace Owens and Megyn Kelly",
-      "claim": "CNN assembled and aired a montage of past Trump appearances in which he praised Candace Owens, Megyn Kelly, and others as \"stars\" with \"amazing reputations,\" contradicting his current posture in A-1939.1.",
+      "claim": "CNN assembled a montage of past Trump appearances, which the host plays, in which he praised Megyn Kelly and Candace Owens (saying \"that's a star\" and \"your reputation is amazing\"), contradicting his current posture in A-1939.1.",
       "anchored_artifacts": [
         "A-1940.1"
       ],
@@ -1347,6 +1348,7 @@
       "investigative_direction": "Identify and verify the source clips used in the CNN compilation and their original air dates.",
       "mentions_person_refs": [
         "N-3",
+        "N-5",
         "N-46"
       ]
     },
@@ -1366,10 +1368,10 @@
       "claim_timestamp": "00:25:38–00:26:31",
       "investigative_direction": "Locate the full Piers Morgan interview segment and verify the quoted claims; cross-reference with official White House situation-room imagery if available.",
       "mentions_person_refs": [
+        "N-5",
         "N-36",
-        "N-206",
         "N-46",
-        "N-421"
+        "N-205"
       ]
     },
     {
@@ -1386,9 +1388,9 @@
       "claim_timestamp": "00:26:31–00:28:46",
       "investigative_direction": "Retrieve the original Carlson newsletter post and verify the exact wording; assess sourcing and historical basis for the Clinton-Lewinsky blackmail claim independently.",
       "mentions_person_refs": [
-        "N-276",
+        "N-275",
         "N-22",
-        "N-421"
+        "N-420"
       ]
     },
     {
@@ -1396,7 +1398,7 @@
       "@id": "C-2674",
       "ref": "C-2674",
       "label": "Laura Loomer Publicly Claimed Credit for Trump's Truth Social Post Targeting Tucker Carlson",
-      "claim": "In an audio clip played on air, Laura Loomer stated that she sent Tucker Carlson clips to President Trump and that she is the person who \"knifed him from the front\" via the resulting Truth Social post.",
+      "claim": "In an audio clip played on air, Laura Loomer stated that she sent Tucker Carlson clips to President Trump and that she is the one who \"knifed him from the front\"; the host presents this as Loomer taking credit for Trump's Truth Social post.",
       "anchored_artifacts": [
         "A-1943.1"
       ],
@@ -1407,6 +1409,7 @@
       "claim_timestamp": "00:33:58–00:35:23",
       "investigative_direction": "Obtain the original Loomer audio/video (e.g., X post, Rumble clip) and confirm the exact wording; assess whether other corroboration exists for her influence claim.",
       "mentions_person_refs": [
+        "N-5",
         "N-22",
         "N-60"
       ]
@@ -1416,7 +1419,7 @@
       "@id": "C-2675",
       "ref": "C-2675",
       "label": "Charlie Kirk Told Candace Owens He and Andrew Kolvet Were Present at a Meeting in Which Miriam Adelson Offered Trump $100M for West Bank Annexation",
-      "claim": "Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolvet named as in-room corroborator) that he and Kolb were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, prior to the public announcement of the donation in approximately July 2024.",
+      "claim": "Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolvet named as in-room corroborator) that he and Kolvet were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, before the donation was announced, which she thinks was in or just before July 2024.",
       "anchored_artifacts": [
         "A-1944.1"
       ],
@@ -1427,9 +1430,11 @@
       "claim_timestamp": "00:29:16–00:31:16",
       "investigative_direction": "Identify and interview Andrew Kolvet directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.",
       "mentions_person_refs": [
-        "N-3",
         "N-1",
-        "N-14"
+        "N-3",
+        "N-5",
+        "N-14",
+        "N-299"
       ]
     },
     {
@@ -1459,7 +1464,7 @@
       "@id": "C-2677",
       "ref": "C-2677",
       "label": "Donald Trump Jr. Publicly Stated His Father Was Satisfied with the Butler Investigation Conclusion Despite His Own Dissatisfaction",
-      "claim": "Donald Trump Jr. stated on stage that he was not satisfied with the conclusion of the Butler, Pennsylvania investigation but that his father was satisfied and the matter was closed.",
+      "claim": "The host says she remembers Donald Trump Jr. on stage, when asked whether he was satisfied with the conclusion in Butler, kind of saying he was not but his father was and that was that.",
       "anchored_artifacts": [
         "A-1947.1"
       ],
@@ -1470,6 +1475,7 @@
       "claim_timestamp": "00:31:16–00:32:11",
       "investigative_direction": "Locate the original on-stage footage or transcript; cross-reference with any subsequent Trump Jr. statements on the same topic.",
       "mentions_person_refs": [
+        "N-5",
         "N-33"
       ]
     },
@@ -1478,7 +1484,7 @@
       "@id": "C-2678",
       "ref": "C-2678",
       "label": "Social-Media Responses Host Reads Show MAGA Supporters Turning Against Trump",
-      "claim": "Per Truth Social and other social-media responses the host reads on air, supplemented by viewer comments the host reads, a measurable volume of previously pro-Trump MAGA supporters publicly criticized or repudiated Trump following his Truth Social post.",
+      "claim": "Per Truth Social and other social-media responses the host reads on air, previously pro-Trump supporters publicly criticized Trump following his Truth Social post.",
       "anchored_artifacts": [
         "A-1945.1",
         "A-1946.1"
@@ -1487,16 +1493,18 @@
         "N-10591"
       ],
       "tags": [],
-      "claim_timestamp": "00:00:00–00:00:01",
+      "claim_timestamp": "00:19:20",
       "investigative_direction": "Quantify sentiment shift using archived social-media datasets and date-range filters; separate organic supporter sentiment from bot/inauthenticator activity.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-2679",
       "ref": "C-2679",
       "label": "A Recurring Social-Media Response Claimed \"Charlie Would Be on This List if They Hadn't Killed Him\"",
-      "claim": "Candace Owens highlighted as the most \"brutal\" recurring response a claim, posted by multiple users, that Charlie Kirk would have been on Trump's target list in A-1939.1 had he not been killed.",
+      "claim": "Candace Owens said that in her view the most brutal and recurring response across social media was a tweet saying Charlie Kirk would be on Trump's list in A-1939.1 if they hadn't killed him.",
       "anchored_artifacts": [
         "A-1946.1"
       ],
@@ -1507,8 +1515,9 @@
       "claim_timestamp": "00:20:14–00:21:03",
       "investigative_direction": "Locate the originating posts and timestamps; assess spread velocity and authorship clustering.",
       "mentions_person_refs": [
+        "N-1",
         "N-3",
-        "N-1"
+        "N-5"
       ]
     },
     {
@@ -1526,7 +1535,9 @@
       "tags": [],
       "claim_timestamp": "00:11:20–00:12:28",
       "investigative_direction": "Verify exact wording in the archived post and identify the specific CNN poll Trump cited.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -1543,6 +1554,7 @@
       "investigative_direction": "Verify exact wording against the archived post.",
       "mentions_person_refs": [
         "N-3",
+        "N-5",
         "N-82"
       ]
     },
@@ -1639,7 +1651,7 @@
       "@id": "C-8639",
       "ref": "C-8639",
       "label": "Trump Post Said Tucker Carlson Was Broken After Fox and Needs a Psychiatrist",
-      "claim": "The post, as read by the host, says Tucker Carlson could not finish college, was a broken man when fired from Fox, and should see a psychiatrist.",
+      "claim": "The post, as read by the host, says Tucker Carlson could not finish college, was a broken man when fired from Fox, and perhaps should see a good psychiatrist.",
       "anchored_artifacts": [
         "A-1939.1"
       ],
@@ -1765,7 +1777,7 @@
       "transcript_snippet": "As president President, I could get them on my side anytime I want, but when they call, I don't return their calls because I'm too busy on world and country affairs.",
       "mentions_person_refs": [
         "N-5",
-        "N-147"
+        "N-146"
       ]
     },
     {
@@ -1846,7 +1858,7 @@
       "investigative_direction": "Identify any public reporting on a Kushner-linked Gaza development plan and compare it with the host's allusion.",
       "transcript_snippet": "whatever was agreed upon in those boardrooms with Jared Kushner, uh Trump Gaza hotel, whatever you tweeted so crass.",
       "mentions_person_refs": [
-        "N-180",
+        "N-179",
         "N-5",
         "N-3"
       ]
@@ -1895,7 +1907,7 @@
       "transcript_snippet": "Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall",
       "mentions_person_refs": [
         "N-36",
-        "N-300",
+        "N-299",
         "N-5",
         "N-3"
       ]
@@ -1918,7 +1930,7 @@
       "transcript_snippet": "Half of the people that I grew up with in this movement are not on Ben Shapiro and Mark Levin's team, okay?",
       "mentions_person_refs": [
         "N-97",
-        "N-246",
+        "N-245",
         "N-3"
       ]
     },
@@ -1939,7 +1951,7 @@
       "investigative_direction": "Identify the speaker; check the insider-trading reporting the clip alludes to.",
       "transcript_snippet": "I don't want to be at your cool, corrupt kid, Howard Lutnick, Jeffrey Epstein class table.",
       "mentions_person_refs": [
-        "N-167",
+        "N-166",
         "N-9",
         "N-5"
       ]
@@ -2205,7 +2217,7 @@
       "@id": "C-8664",
       "ref": "C-8664",
       "label": "Host Says Adelson's $100 Million to Trump Was Announced Around July 2024",
-      "claim": "The host says it was announced in or just before July 2024 that Miriam Adelson gave Trump $100 million.",
+      "claim": "The host says she thinks it was announced in July, or just before July, of 2024 that Miriam Adelson gave Trump $100 million.",
       "anchored_artifacts": [
         "A-1944.1"
       ],
@@ -2222,7 +2234,7 @@
         "C-7107"
       ],
       "mentions_person_refs": [
-        "N-300",
+        "N-299",
         "N-5",
         "N-3"
       ]
@@ -2232,7 +2244,7 @@
       "@id": "C-8665",
       "ref": "C-8665",
       "label": "Host Places Charlie's Telling of the Story Around May",
-      "claim": "The host says she thinks Charlie told her the story around May, before the money went through, and she would have to check the exact date of the discussion.",
+      "claim": "The host says she wants to say Charlie told her the story in May, and that she could go back and try to work out when exactly the discussion happened.",
       "anchored_artifacts": [
         "A-1944.1"
       ],
@@ -2345,8 +2357,8 @@
       "investigative_direction": "This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.",
       "transcript_snippet": "If it maybe got back to the Adelsons that Trump said that. You don't take $100 million from a uh a family of I would say gangsters, right?",
       "mentions_person_refs": [
-        "N-708",
-        "N-300",
+        "N-707",
+        "N-299",
         "N-5",
         "N-3"
       ]
@@ -2383,7 +2395,7 @@
         "N-10628"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:33:08",
       "investigative_direction": "Look for court or medical records; none was shown.",
@@ -2402,7 +2414,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:33:08",
       "investigative_direction": "Find contemporaneous news coverage of the protest.",
@@ -2426,7 +2438,7 @@
         "N-10630"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:33:08",
       "investigative_direction": "Ask Loomer about her religion; the host offers no record.",
@@ -2485,7 +2497,7 @@
       "@id": "C-8676",
       "ref": "C-8676",
       "label": "Speaker Says Trump Reversed on Phosphorus and Monsanto Because Israel Needed It for Lebanon",
-      "claim": "A speaker in this segment, apparently the host, says Trump went back on phosphorus and Monsanto because Israel needed it to poison people in Lebanon.",
+      "claim": "The host says Trump went back on phosphorus and Monsanto, and that this was because Israel needed it to poison people in Lebanon.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11133",
@@ -2621,7 +2633,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-22",
-        "N-46"
+        "N-46",
+        "N-93"
       ]
     },
     {
@@ -2680,7 +2693,7 @@
       "investigative_direction": "Opinion about two public figures; no medical record is cited.",
       "transcript_snippet": "I genuinely believe that Joe Biden had dementia, and at least he can say that.",
       "mentions_person_refs": [
-        "N-682",
+        "N-681",
         "N-5",
         "N-3"
       ]

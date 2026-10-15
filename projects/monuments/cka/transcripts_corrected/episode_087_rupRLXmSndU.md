@@ -60,7 +60,7 @@ And as we I reflect 6 months later, it's almost as if the emergency room had bee
 
 [06:41]
 
-The excuse that was given to the public was because the shooter was going from hospital to hospital looking for Charlie Kirk. But you know what? That's That's never actually been clarified who exactly were they referring to. What we do know is that shortly after came over the police scanner or might be going from hospital to hospital, they moved to detain a young man named Zachariah Karashy. We almost forget, but it was after Zachariah was detained that Kash Patel rather gloriously issued a tweet which effectively ended the manhunt prematurely. In many ways, we should start to think of Zachariah Karashy as decoy boy number two, okay? First, it was George Zin. Jumped up and down immediately and said, I did it, I did it.
+The excuse that was given to the public was because the shooter was going from hospital to hospital looking for Charlie Kirk. But you know what? That's That's never actually been clarified who exactly were they referring to. What we do know is that shortly after came over the police scanner or might be going from hospital to hospital, they moved to detain a young man named Zachariah Qureshi. We almost forget, but it was after Zachariah was detained that Kash Patel rather gloriously issued a tweet which effectively ended the manhunt prematurely. In many ways, we should start to think of Zachariah Qureshi as decoy boy number two, okay? First, it was George Zin. Jumped up and down immediately and said, I did it, I did it.
 
 [07:33]
 
@@ -72,7 +72,7 @@ The subject for the horrific shooting today that took the life of Charlie Kirk i
 
 [09:01]
 
-The subject in custody has been released after an interrogation by law enforcement. Our investigation continues, and we will continue to release information in interest of transparency. Well done, Kash. Well done. Again, no further information was provided as to why this particular individual was detained in the first place. Who is this guy? Who is Zachariah Karashy? I wondered. Also, is there any chance I know, it's crazy, but is there any chance there's going to be another military connection? Well, apparently I'm a little late to the party, because I was talking to Baron Coleman this weekend, and he's like, yeah, I I did an episode on Zachariah Karashy. You should check that out. And I would I would say this to you you guys that you're not going to believe this, but you probably will.
+The subject in custody has been released after an interrogation by law enforcement. Our investigation continues, and we will continue to release information in interest of transparency. Well done, Kash. Well done. Again, no further information was provided as to why this particular individual was detained in the first place. Who is this guy? Who is Zachariah Qureshi? I wondered. Also, is there any chance I know, it's crazy, but is there any chance there's going to be another military connection? Well, apparently I'm a little late to the party, because I was talking to Baron Coleman this weekend, and he's like, yeah, I I did an episode on Zachariah Qureshi. You should check that out. And I would I would say this to you you guys that you're not going to believe this, but you probably will.
 
 [09:45]
 
@@ -138,7 +138,7 @@ I see a lot of you guys in the chat noting that Tyler Robinson looks a lot like 
 
 [23:46]
 
-Don't think I forgot about Andrew Zenger. Remember, he was appointed the CEO of Timpanogos just ahead of Charlie's assassination. Uh it was uh August 19th. And curiously enough, before that, he was down in Texas. He'd previously been working down in McKinney, Texas as the COO of Medical City, which is north of Dallas. Oh, has everyone just I know Texas is big but man, they all yanked and brought back up there. Yeah, that's what they did just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Karashi and Henderson and our Gina Romney, he attended BYU. And it really made me wonder like what the heck goes on at BYU and fortunately someone told me. Again, I am not saying allegedly here.
+Don't think I forgot about Andrew Zenger. Remember, he was appointed the CEO of Timpanogos just ahead of Charlie's assassination. Uh it was uh August 19th. And curiously enough, before that, he was down in Texas. He'd previously been working down in McKinney, Texas as the COO of Medical City, which is north of Dallas. Oh, has everyone just I know Texas is big but man, they all yanked and brought back up there. Yeah, that's what they did just like I said, ahead of September 10th. Now, of course, Andrew Zenger, just like Qureshi and Henderson and our Gina Romney, he attended BYU. And it really made me wonder like what the heck goes on at BYU and fortunately someone told me. Again, I am not saying allegedly here.
 
 [24:39]
 

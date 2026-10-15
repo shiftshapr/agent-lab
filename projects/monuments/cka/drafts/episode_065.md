@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 6ce4e769b4497ca6b87095c77c991401a54f9ef0556891c273b7e28ec46bef36
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-723, N-724, N-725, N-726, N-11040, N-11041, N-11042, N-11043, N-11044, N-11045, N-11046
+  - Tip-minted Nodes (supplement_2026-10): N-722, N-723, N-724, N-725, N-11040, N-11041, N-11042, N-11043, N-11044, N-11045, N-11046
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5572–C-5664
-  - New Nodes Introduced: N-501, N-502, N-503, N-10453, N-10455, N-10457, N-10458, N-10459, N-10460, N-10461, N-10462, N-10463, N-10464
-  - Reused Nodes Appearing: N-2, N-9, N-14, N-57, N-69, N-97, N-117, N-142, N-180, N-201, N-213, N-280, N-368, N-451, N-457, N-523, N-10000, N-10015, N-10023, N-10026, N-10048, N-10059, N-10063, N-10131, N-10204, N-10253, N-10264, N-10342, N-10410, N-10435, N-10900, N-500, N-10451, N-10454, N-10465, N-300, N-10968, N-499, N-727, N-10452, N-10456
-  - Hole-minted Nodes (wave3): N-381
+  - New Nodes Introduced: N-500, N-501, N-502, N-10453, N-10455, N-10457, N-10458, N-10459, N-10460, N-10461, N-10462, N-10463, N-10464
+  - Reused Nodes Appearing: N-2, N-9, N-14, N-57, N-69, N-97, N-117, N-141, N-179, N-200, N-212, N-279, N-367, N-450, N-456, N-522, N-10000, N-10015, N-10023, N-10026, N-10048, N-10059, N-10063, N-10131, N-10204, N-10253, N-10264, N-10342, N-10410, N-10435, N-10900, N-499, N-10451, N-10454, N-10465, N-299, N-10968, N-498, N-726, N-10452, N-10456
+  - Hole-minted Nodes (wave3): N-380
 
 ---
 
@@ -40,7 +40,7 @@
 
 - Artifact Families Introduced: A-1690, A-1691, A-1692, A-1693, A-1694, A-1695, A-1696, A-1697, A-1698, A-1699, A-1700, A-1701, A-1702, A-1703
 - Claim Range: C-2225–C-2237
-- New People Nodes Introduced: N-499, N-500, N-501, N-502, N-503, N-17, N-206
+- New People Nodes Introduced: N-498, N-499, N-500, N-501, N-502, N-17, N-205
 - New Investigation Target Nodes Introduced: N-10451, N-10452, N-10453, N-10454, N-10455, N-10456, N-10457, N-10458, N-10459, N-10460, N-10461, N-10462, N-10463, N-10464, N-10465
 - Existing Nodes Reused: None identified (new nodes only)
 
@@ -72,7 +72,7 @@ Confidence Level: High
 
 Description: Clip displayed on screen with full spoken transcript. Youssef cites 2014 figures of 88 Israelis and 2,329 Palestinians killed ("one Israeli for 27 Palestinian"), references "since the occupation of the West Bank, 7,000 Palestinians killed," and notes that "more children [were] killed from the Palestinian side" in three weeks following a ceasefire than "Israeli kids were killed all through 75 years."
 
-*Related: C-2225, C-2230, N-499, N-10453*
+*Related: C-2225, C-2230, N-498, N-10453*
 
 ---
 
@@ -88,7 +88,7 @@ Confidence Level: High
 
 Description: Audio clip played at episode opening. References Candace Owens' 2024 Anti-Semite of the Year nomination; cites Tucker Carlson as the 2025 winner; references "Miss Rachel" and "Mr. Rachel" as also being nominated.
 
-*Related: C-2226, C-2227, N-499, N-10452*
+*Related: C-2226, C-2227, N-498, N-10452*
 
 ---
 
@@ -104,7 +104,7 @@ Confidence Level: Medium (B-roll nature)
 
 Description: Aerial footage of destroyed Gaza cityscape shown on screen during host's verbal narration.
 
-*Related: N-10454 (contextual), N-499 (referenced)*
+*Related: N-10454 (contextual), N-498 (referenced)*
 
 ---
 
@@ -130,7 +130,7 @@ Confidence Level: Medium
 
 Description: Second photo showing Ostrovsky with bandages. Host notes there is "not a single point like drop of blood on the bandage" and that "there's no self-respecting medic that will actually leave a face like this trench of blood" without cleaning first.
 
-*Related: C-2231, N-503, N-10458*
+*Related: C-2231, N-502, N-10458*
 
 ---
 
@@ -176,7 +176,7 @@ Confidence Level: Medium (viewer-sourced)
 
 Description: Read aloud. Viewer references "the suicide rate of the IDF soldiers who top themselves after fighting in Gaza."
 
-*Related: C-2228, C-2229, N-500, N-501, N-499, N-10460, N-10464*
+*Related: C-2228, C-2229, N-499, N-500, N-498, N-10460, N-10464*
 
 ---
 
@@ -192,7 +192,7 @@ Confidence Level: High
 
 Description: Youssef announces tour dates: Portland March 20, Seattle March 21, with additional cities listed (Philadelphia, DC, Houston, Atlanta). Tickets at bassymusic.xyz.
 
-*Related: C-2237, N-499, N-10459*
+*Related: C-2237, N-498, N-10459*
 
 ---
 
@@ -210,7 +210,7 @@ Description: Referenced previous episode featuring USS Liberty survivor Phil Tou
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: C-2229, N-500, N-10464*
+*Related: C-2229, N-499, N-10464*
 
 ---
 
@@ -228,7 +228,7 @@ Description: Referenced by Bassem Youssef. Claims: (1) Victor Ostrovsky, describ
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: C-2232, C-2233, N-502, N-10460, N-10461*
+*Related: C-2232, C-2233, N-501, N-10460, N-10461*
 
 ---
 
@@ -264,7 +264,7 @@ Description: Referenced by host. Claims Auschwitz Museum revised story about Jos
 
 *Flag: Artifact verbally referenced but not shown*
 
-*Related: N-10454, N-10465, N-381*
+*Related: N-10454, N-10465, N-380*
 
 ---
 
@@ -345,7 +345,7 @@ Video Timestamp: 00:09:48
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5582, C-5583, C-5584, C-5585, N-500, N-3, N-10451, N-10900*
+*Related: C-5582, C-5583, C-5584, C-5585, N-499, N-3, N-10451, N-10900*
 
 ---
 
@@ -358,7 +358,7 @@ Video Timestamp: 00:10:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-5586, N-457, N-10026*
+*Related: C-5586, N-456, N-10026*
 
 ---
 
@@ -395,7 +395,7 @@ Video Timestamp: 00:27:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5601, N-499, N-1, N-10063*
+*Related: C-5601, N-498, N-1, N-10063*
 
 ---
 
@@ -406,7 +406,7 @@ Video Timestamp: 00:27:33
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5602, C-5603, N-499, N-1, N-14, N-10455*
+*Related: C-5602, C-5603, N-498, N-1, N-14, N-10455*
 
 ---
 
@@ -419,7 +419,7 @@ Video Timestamp: 00:38:13
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5614, C-5647, N-201, N-3, N-11045*
+*Related: C-5614, C-5647, N-200, N-3, N-11045*
 
 ---
 
@@ -445,7 +445,7 @@ Video Timestamp: 01:32:22
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5654, C-5655, C-5656, N-3, N-725, N-499, N-10900*
+*Related: C-5654, C-5655, C-5656, N-3, N-724, N-498, N-10900*
 
 ---
 
@@ -458,7 +458,7 @@ Video Timestamp: 01:39:55
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-5658, C-5659, N-3, N-451, N-10410, N-10435*
+*Related: C-5658, C-5659, N-3, N-450, N-10410, N-10435*
 
 ---
 
@@ -466,13 +466,13 @@ Confidence Level: Medium
 
 
 
-**N-381** Josef Mengele
+**N-380** Josef Mengele
 
 First named at 00:38:13 in episode 65 (A-1699.1). Aliases: Joseph Mengele.
 
 *Related: A-1699.1*
 
-**N-499** Bassem Youssef
+**N-498** Bassem Youssef
 
 Egyptian-born comedian, former cardiothoracic surgeon, immigrant who became U.S. citizen in December 2019. Central interview subject of this episode. Source of multiple artifact-backed and testimonial claims regarding Israel, the USS Liberty, and Charlie Kirk.
 
@@ -485,7 +485,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-500** Phil Tourney
+**N-499** Phil Tourney
 
 USS Liberty survivor, subject of Candace Owens' prior sit-down interview referenced in this episode. According to host, Turney gave her his Purple Heart and cried during the conversation.
 
@@ -498,7 +498,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-501** Ward Boston
+**N-500** Ward Boston
 
 Navy Judge Advocate General who investigated the USS Liberty incident. Per viewer comment A-1694.1, published a notarized statement in the San Diego Union Tribune asserting the investigation was a cover-up and the attack was deliberate.
 
@@ -511,7 +511,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-502** Victor Ostrovsky
+**N-501** Victor Ostrovsky
 
 Mossad agent (per Youssef) and author of *By Way of Deception*. Alleged by Youssef to have written in his book that Mossad had advance knowledge of the 1982 Beirut barracks bombing.
 
@@ -524,7 +524,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-503** Arsen Ostrovsky
+**N-502** Arsen Ostrovsky
 
 Claimed October 7th survivor. Subject of two on-screen photos (A-1693.1, A-1693.2). Host remarks on authenticity concerns: bandage photo lacks blood despite bloody face.
 
@@ -550,7 +550,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-206** Piers Morgan
+**N-205** Piers Morgan
 
 Interviewer; host of the show where Youssef displayed the casualty chart cited in A-1690.1.
 
@@ -559,7 +559,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1690.1, C-2225, N-499*
+*Related: A-1690.1, C-2225, N-498*
 
 ---
 
@@ -572,7 +572,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1694.1, A-1696.1, A-1697.1, C-2228, C-2229, N-500, N-501*
+*Related: A-1694.1, A-1696.1, A-1697.1, C-2228, C-2229, N-499, N-500*
 
 ---
 
@@ -585,7 +585,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1691.1, C-2226, C-2227, N-499*
+*Related: A-1691.1, C-2226, C-2227, N-498*
 
 ---
 
@@ -598,7 +598,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1690.1, C-2225, N-499, N-206*
+*Related: A-1690.1, C-2225, N-498, N-205*
 
 ---
 
@@ -650,7 +650,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: N-10451, N-500*
+*Related: N-10451, N-499*
 
 ---
 
@@ -663,7 +663,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1693.1, A-1693.2, C-2231, N-503*
+*Related: A-1693.1, A-1693.2, C-2231, N-502*
 
 ---
 
@@ -676,7 +676,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1695.1, C-2237, N-499*
+*Related: A-1695.1, C-2237, N-498*
 
 ---
 
@@ -689,7 +689,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1697.1, C-2233, N-502*
+*Related: A-1697.1, C-2233, N-501*
 
 ---
 
@@ -702,7 +702,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1697.1, C-2232, N-502*
+*Related: A-1697.1, C-2232, N-501*
 
 ---
 
@@ -728,7 +728,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1694.1, C-2228, N-501, N-10451*
+*Related: A-1694.1, C-2228, N-500, N-10451*
 
 ---
 
@@ -741,7 +741,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1694.2, A-1696.1, C-2229, N-500*
+*Related: A-1694.2, A-1696.1, C-2229, N-499*
 
 ---
 
@@ -838,7 +838,7 @@ Named by the host as 'Marissa at Prageru', her former employer. Transcript spell
 
 ---
 
-**N-142** Larry Ellison
+**N-141** Larry Ellison
 
 Named by Youssef as a billionaire donating to the IDF and by the host in connection with buying TikTok.
 
@@ -846,7 +846,7 @@ Named by Youssef as a billionaire donating to the IDF and by the host in connect
 
 ---
 
-**N-180** Jared Kushner
+**N-179** Jared Kushner
 
 Named by the host in connection with a real estate deal in Gaza.
 
@@ -854,7 +854,7 @@ Named by the host in connection with a real estate deal in Gaza.
 
 ---
 
-**N-201** Norman Finkelstein
+**N-200** Norman Finkelstein
 
 Interview guest the host cites for his parents' account and his review of the New York Times rape reporting. Transcript spelling: Norm Finkelestein.
 
@@ -862,7 +862,7 @@ Interview guest the host cites for his parents' account and his review of the Ne
 
 ---
 
-**N-213** Jesse Watters
+**N-212** Jesse Watters
 
 Interviewer to whom the host says Erika Kirk said she slept fine. Transcript spelling: Jesse Watters.
 
@@ -870,7 +870,7 @@ Interviewer to whom the host says Erika Kirk said she slept fine. Transcript spe
 
 ---
 
-**N-280** Bari Weiss
+**N-279** Bari Weiss
 
 Named by Youssef as now in control of Paramount Plus. Transcript spelling: Bari Weiss.
 
@@ -878,7 +878,7 @@ Named by Youssef as now in control of Paramount Plus. Transcript spelling: Bari 
 
 ---
 
-**N-300** Miriam Adelson
+**N-299** Miriam Adelson
 
 Named by the host and by Youssef; transcript spellings: Miriam Mson, Miam Idlen.
 
@@ -886,7 +886,7 @@ Named by the host and by Youssef; transcript spellings: Miriam Mson, Miam Idlen.
 
 ---
 
-**N-368** Jeremy Boreing
+**N-367** Jeremy Boreing
 
 Daily Wire head the host says sent her the lawsuit on his birthday. Transcript spelling: Jeremy Boreing.
 
@@ -894,7 +894,7 @@ Daily Wire head the host says sent her the lawsuit on his birthday. Transcript s
 
 ---
 
-**N-451** Michael Aquino
+**N-450** Michael Aquino
 
 Subject of the host's Temple of Set and Fort Huachuca statements. Transcript spelling: Michael Aino.
 
@@ -902,7 +902,7 @@ Subject of the host's Temple of Set and Fort Huachuca statements. Transcript spe
 
 ---
 
-**N-457** Mike Pompeo
+**N-456** Mike Pompeo
 
 Named by a speaker for a remark about how October 7th will be remembered.
 
@@ -910,7 +910,7 @@ Named by a speaker for a remark about how October 7th will be remembered.
 
 ---
 
-**N-523** Peter Thiel
+**N-522** Peter Thiel
 
 Named by Youssef among billionaires he says donate to the IDF. Transcript spelling: Peter Thiel.
 
@@ -1045,7 +1045,7 @@ Organization discussed in Youssef's and the host's statements about its Gaza rep
 
 ---
 
-**N-723** Matt Lieb
+**N-722** Matt Lieb
 
 First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef who, per Youssef, changed from liberal Zionist to anti-Zionist after a Birthright trip. Transcript spelling: Matt Lieb.
 
@@ -1053,7 +1053,7 @@ First named by Youssef at 00:18:27 in episode 65. Comedian and friend of Youssef
 
 ---
 
-**N-724** Jonathan Conricus
+**N-723** Jonathan Conricus
 
 First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesman who appeared on Piers Morgan's show. The name is spelled phonetically in the transcript.
 
@@ -1061,7 +1061,7 @@ First named by Youssef at 01:04:37 in episode 65. Described as an ex-IDF spokesm
 
 ---
 
-**N-725** Rabbi Michael Barclay
+**N-724** Rabbi Michael Barclay
 
 First named by the host at 01:32:22 in episode 65. Rabbi the host says she interviewed near the end of her Daily Wire tenure. Spelled phonetically in the transcript.
 
@@ -1069,7 +1069,7 @@ First named by the host at 01:32:22 in episode 65. Rabbi the host says she inter
 
 ---
 
-**N-726** Rabbi Yosef Mizrachi
+**N-725** Rabbi Yosef Mizrachi
 
 First named by Youssef at 01:35:56 in episode 65. Rabbi whose lectures Youssef describes. Spelled phonetically in the transcript.
 
@@ -1077,7 +1077,7 @@ First named by Youssef at 01:35:56 in episode 65. Rabbi whose lectures Youssef d
 
 ---
 
-**N-727** Jack Parsons
+**N-726** Jack Parsons
 
 First named by the host at 01:41:10 in episode 65. Described by the host as an avowed Satanist connected to the Apollo-era program.
 
@@ -1157,7 +1157,7 @@ Claim Timestamp: 00:43:21
 Claim: In a clip of his Piers Morgan appearance that the host plays, Bassem Youssef displays a chart stating that in 2014, 88 Israelis and 2,329 Palestinians were killed, which he describes as "one Israeli for 27 Palestinian."
 
 Anchored Artifacts: A-1690.1
-Mentions: N-206, N-499
+Mentions: N-205, N-498
 
 Related Nodes: N-10453
 
@@ -1172,7 +1172,7 @@ Claim Timestamp: 00:00:01
 Claim: In a clip of his show that the host plays, Bassem Youssef says he was nominated for Anti-Semite of the Year 2024 but did not win, and that Candace Owens won it.
 
 Anchored Artifacts: A-1691.1
-Mentions: N-499, N-3
+Mentions: N-498, N-3
 
 Related Nodes: N-10452
 
@@ -1187,7 +1187,7 @@ Claim Timestamp: 00:00:01
 Claim: In a clip of his show that the host plays, Bassem Youssef asks who got Anti-Semite of the Year this year, and the answer given is Tucker Carlson.
 
 Anchored Artifacts: A-1691.1
-Mentions: N-499, N-22
+Mentions: N-498, N-22
 
 Related Nodes: N-10452
 
@@ -1202,7 +1202,7 @@ Claim Timestamp: 01:21:47
 Claim: Per read-aloud viewer comment, Navy JAG Ward Boston published a notarized statement in the San Diego Union Tribune asserting the USS Liberty investigation was a cover-up and the attack was deliberate.
 
 Anchored Artifacts: A-1694.1
-Mentions: N-501
+Mentions: N-500
 
 Related Nodes: N-10451, N-10463
 
@@ -1217,7 +1217,7 @@ Claim Timestamp: 01:22:31
 Claim: Per host, her Phil Tourney interview received approximately 7 million views, prompting New York Times outreach.
 
 Anchored Artifacts: A-1694.2 (viewer corroboration)
-Mentions: N-500, N-3
+Mentions: N-499, N-3
 
 Related Nodes: N-10451, N-10457, N-10464
 
@@ -1232,7 +1232,7 @@ Claim Timestamp: 01:12:59
 Claim: Youssef states he took his U.S. citizenship pledge of allegiance in December 2019.
 
 Anchored Artifacts: A-1690 (transcript)
-Mentions: N-499
+Mentions: N-498
 
 
 Investigative Direction: Verify with public records / naturalization records if available.
@@ -1246,7 +1246,7 @@ Claim Timestamp: 00:15:48
 Claim: Per Bassem Youssef, in displayed images, the bandaged follow-up photo of Arsen Ostrovsky shows no blood on the bandages despite blood on the face in the prior photo.
 
 Anchored Artifacts: A-1693.2
-Mentions: N-503, N-499
+Mentions: N-502, N-498
 
 Related Nodes: N-10458
 
@@ -1261,7 +1261,7 @@ Claim Timestamp: 01:27:19
 Claim: Per Youssef's account, *By Way of Deception* by Victor Ostrovsky alleged Mossad knew in advance about the 1982 Beirut barracks bombing (American embassy/Marine bombing).
 
 Anchored Artifacts: A-1697.1 (verbally referenced)
-Mentions: N-499, N-502
+Mentions: N-498, N-501
 
 Related Nodes: N-10461
 
@@ -1276,7 +1276,7 @@ Claim Timestamp: 01:28:11
 Claim: Per Youssef, *By Way of Deception* was subject to a 24-hour gag order in 1992, allegedly the only such order in American literary history.
 
 Anchored Artifacts: A-1697.1 (verbally referenced)
-Mentions: N-499, N-502
+Mentions: N-498, N-501
 
 Related Nodes: N-10460
 
@@ -1291,7 +1291,7 @@ Claim Timestamp: 00:22:05
 Claim: Per Youssef, the documentary *Till Kingdom Come* contains clips of pastors addressing children and saying "Jews are better than us. They are more special than us. They are not like us."
 
 Anchored Artifacts: A-1698.1 (verbally referenced)
-Mentions: N-499
+Mentions: N-498
 
 Related Nodes: N-10462
 
@@ -1321,7 +1321,7 @@ Claim Timestamp: 01:22:18
 Claim: Per host, the New York Times contacted her about her Phil Tourney interview and is working on a piece regarding USS Liberty.
 
 Anchored Artifacts: A-1690 (host testimony in transcript)
-Mentions: N-3, N-500
+Mentions: N-3, N-499
 
 Related Nodes: N-10451, N-10457
 
@@ -1336,7 +1336,7 @@ Claim Timestamp: 01:46:20–01:47:10
 Claim: Bassem Youssef, the episode's guest, says his Belly of the Beast tour dates include Portland March 20 and Seattle March 21, with additional cities Philadelphia, DC, Houston, Atlanta.
 
 Anchored Artifacts: A-1695.1
-Mentions: N-499
+Mentions: N-498
 
 Related Nodes: N-10459
 
@@ -1353,7 +1353,7 @@ Claim: In the opening clip from his own show, Bassem Youssef says he was himself
 Transcript Snippet: And I was even nominated to be Anti-Semite of the year 2024, but I didn't get it. I didn't win.
 
 Anchored Artifacts: A-1691.1
-Mentions: N-499, N-3
+Mentions: N-498, N-3
 Related Nodes: N-10452
 Revises: C-2226
 Investigative Direction: Re-listen to the clip and identify the award body or the show segment; confirm who the 2024 nominee and winner were in the clip's framing.
@@ -1399,7 +1399,7 @@ Claim: The host says that Bassem Youssef's Piers Morgan clip with the casualty c
 Transcript Snippet: you were my wakeup call to what was happening in Gaza.
 
 Anchored Artifacts: A-1690.1
-Mentions: N-3, N-499, N-206
+Mentions: N-3, N-498, N-205
 Related Nodes: N-10453
 Supports: C-2225
 Investigative Direction: Ask the host or her producers for when she first saw the clip; compare with the date of the Piers Morgan broadcast.
@@ -1415,7 +1415,7 @@ Claim: The host says that after she asked her producer to book Youssef, the answ
 Transcript Snippet: And the answer I got was because you hurt Ben's feelings. I'm not kidding.
 
 Anchored Artifacts: 
-Mentions: N-3, N-499, N-97
+Mentions: N-3, N-498, N-97
 Related Nodes: N-10900
 Investigative Direction: Obtain the written message from the Daily Wire producer that the host and Youssef say exists; identify who sent it and when.
 
@@ -1430,7 +1430,7 @@ Claim: Youssef says Ben Shapiro, answering a young questioner at a Turning Point
 Transcript Snippet: he started to say well there has been investigation and it was obviously wrong and it was obvious and it was it was proved beyond any doubt that it was a mistake
 
 Anchored Artifacts: A-1701.1
-Mentions: N-97, N-499
+Mentions: N-97, N-498
 Related Nodes: N-10451, N-10000
 Investigative Direction: Locate the video of Shapiro's answer at the Turning Point USA event and transcribe his exact words and the date.
 
@@ -1445,7 +1445,7 @@ Claim: Youssef says the crew of the USS Liberty were threatened and put under a 
 Transcript Snippet: the crew of the USS Liberty were threatened they were they had a gag order. They couldn't talk.
 
 Anchored Artifacts: 
-Mentions: N-97, N-499
+Mentions: N-97, N-498
 Related Nodes: N-10451
 Investigative Direction: Obtain survivor accounts and records (including Ward Boston's statement) on any orders given to the crew not to speak.
 
@@ -1460,7 +1460,7 @@ Claim: Youssef says Israel fought the USS Liberty claim for 15 years and then pa
 Transcript Snippet: $6 million for damages in the USS liberties and $6 million for the victims of the USS Liberty.
 
 Anchored Artifacts: A-1701.1
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10451, N-10026
 Investigative Direction: Verify the compensation amounts and payment dates in US State Department and Israeli government records.
 
@@ -1490,7 +1490,7 @@ Claim: Youssef says Ben Shapiro showed a video of pipes being dug out in Gaza as
 Transcript Snippet: this clip had an Arabic narration. It has Hamas officials talking over it.
 
 Anchored Artifacts: A-1703.1
-Mentions: N-97, N-499
+Mentions: N-97, N-498
 Related Nodes: 
 Investigative Direction: Find the original video, obtain an independent translation of the Arabic narration and compare it with how Shapiro presented it.
 
@@ -1505,7 +1505,7 @@ Claim: The host says that after she met Phil Tourney, a USS Liberty survivor, an
 Transcript Snippet: cried with this with him he gave me his purple heart and then I got sued by the Daily Wire.
 
 Anchored Artifacts: A-2763.1
-Mentions: N-500, N-3
+Mentions: N-499, N-3
 Related Nodes: N-10451, N-10900, N-11040
 Investigative Direction: Obtain the Turney interview, the Daily Wire complaint and the court docket to confirm the order of events.
 
@@ -1520,7 +1520,7 @@ Claim: The host says that during the sit-down Phil Tourney called out people who
 Transcript Snippet: And Ben Shapiro said something." And they sued me.
 
 Anchored Artifacts: A-2763.1
-Mentions: N-500, N-1, N-97, N-3
+Mentions: N-499, N-1, N-97, N-3
 Related Nodes: N-10451, N-10900, N-11040
 Investigative Direction: Watch the Turney interview at the point where he names them and compare with the Daily Wire complaint.
 
@@ -1535,7 +1535,7 @@ Claim: The host says that, because the Daily Wire argued she had put Turney up t
 Transcript Snippet: could you would you be willing to testify that I didn't put you up to say something
 
 Anchored Artifacts: A-2763.1
-Mentions: N-500, N-3
+Mentions: N-499, N-3
 Related Nodes: N-11040
 Investigative Direction: Obtain any declaration or testimony from Turney filed in the Daily Wire case.
 
@@ -1550,7 +1550,7 @@ Claim: The host says Jeremy Boreing, then at the helm of the Daily Wire, sent he
 Transcript Snippet: Sent me that lawsuit on his birthday as a birthday.
 
 Anchored Artifacts: A-2763.1
-Mentions: N-368, N-3
+Mentions: N-367, N-3
 Related Nodes: N-10900, N-11040
 Investigative Direction: Compare the lawsuit's filing or service date with Boreing's birthday.
 
@@ -1565,7 +1565,7 @@ Claim: A speaker (likely Youssef) says Mike Pompeo said at an event that the way
 Transcript Snippet: Mike Pompeo went on this thing and he said like the way that we going to remember October 7th is not going to how we remember today.
 
 Anchored Artifacts: A-2764.1
-Mentions: N-457
+Mentions: N-456
 Related Nodes: N-10026
 Investigative Direction: Find the Pompeo event, a video or transcript of his remarks, and the exact wording.
 
@@ -1595,7 +1595,7 @@ Claim: The host says that understanding what Jared Kushner is doing in Gaza show
 Transcript Snippet: to see what Jared Kushner is doing there. This was a real estate deal
 
 Anchored Artifacts: 
-Mentions: N-180, N-3
+Mentions: N-179, N-3
 Related Nodes: N-10063
 Investigative Direction: Compile public reporting and documents on Kushner's Gaza reconstruction or development proposals.
 
@@ -1610,7 +1610,7 @@ Claim: Youssef says the bombing of the King David Hotel killed 92 British soldie
 Transcript Snippet: like 92 British soldiers were killed and the people who did it were people from the Hagana gang and they were dressed as Palestinians.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-11042
 Investigative Direction: Check historical sources on the 1946 attack (casualty count and the attackers' group and disguise).
 
@@ -1625,7 +1625,7 @@ Claim: Youssef says that in 1950-51 Israel sent a Mossad agent who led four to f
 Transcript Snippet: Israel sends a Musad agent and then he leads four to five different bomb attacks on Jewish synagogues and Jewish communities.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10015, N-11042
 Investigative Direction: Review historical scholarship and records on the 1950-51 Baghdad bombings and who was responsible.
 
@@ -1640,7 +1640,7 @@ Claim: Youssef says Israel denied the 1954 Lavon affair for 51 years and in 2005
 Transcript Snippet: and then in 2005 they finally acknowledged it by giving the participants in the Lavoon affair operation participation certificates
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10015, N-11042
 Investigative Direction: Verify the 2005 certificate ceremony in Israeli government or press records.
 
@@ -1655,7 +1655,7 @@ Claim: Youssef says the 1994 bombing of the Israeli embassy in London was done b
 Transcript Snippet: 1994 the bombing of the Israeli embassy in London. It was done by Musad and then they nailed they kind of nailed two Palestinians for it.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10015, N-11042
 Investigative Direction: Review British court records on the 1994 London bombing convictions and any evidence on Mossad involvement.
 
@@ -1670,7 +1670,7 @@ Claim: Youssef says that in October 2001 two Mossad individuals pretending to be
 Transcript Snippet: there was an attack of the Mexican parliament by two Musad uh individuals and they were also like being they they pretended to be Palestinians but they were discovered before the bombing.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10015, N-11042
 Investigative Direction: Search Mexican press and government records for any October 2001 incident at the parliament and any Israeli suspects.
 
@@ -1685,7 +1685,7 @@ Claim: Youssef says his friend, comedian Matt Lieb, was a liberal Zionist at 26 
 Transcript Snippet: we find that the main speaker in our event was Benjamin Netanyahu accompanied by Miam Idlen.
 
 Anchored Artifacts: 
-Mentions: N-723, N-36, N-300, N-499
+Mentions: N-722, N-36, N-299, N-498
 Related Nodes: 
 Investigative Direction: Ask Matt Lieb for the date of the Birthright trip and check Netanyahu's and Adelson's schedules for that date.
 
@@ -1745,7 +1745,7 @@ Claim: The host says Miriam Adelson's money and wealth comes from debauchery; a 
 Transcript Snippet: Miriam Mson's money and wealth comes from debauchery.
 
 Anchored Artifacts: 
-Mentions: N-300, N-3
+Mentions: N-299, N-3
 Related Nodes: 
 Investigative Direction: Review public records on the Adelson family's casino holdings and sources of wealth.
 
@@ -1775,7 +1775,7 @@ Claim: Youssef says he agrees Charlie Kirk was starting to wake up toward the en
 Transcript Snippet: I do agree that he was kind of starting to wake up towards the end because he started asking the question especially on the PBD podcast
 
 Anchored Artifacts: 
-Mentions: N-499, N-1, N-57, N-206
+Mentions: N-498, N-1, N-57, N-205
 Related Nodes: N-10059
 Investigative Direction: Watch Kirk's PBD podcast appearance and check whether he asked about response time and stand-down orders.
 
@@ -1790,7 +1790,7 @@ Claim: Youssef says that close to his death Charlie Kirk said Muslims throw gay 
 Transcript Snippet: now there's no high buildings in Gaza anymore like stupid Muslims.
 
 Anchored Artifacts: A-2766.1
-Mentions: N-499, N-1
+Mentions: N-498, N-1
 Related Nodes: N-10063
 Investigative Direction: Locate the Kirk clip and transcribe his exact words and the date.
 
@@ -1805,7 +1805,7 @@ Claim: Youssef says the day before he died Charlie Kirk tweeted that Islam is th
 Transcript Snippet: the day before he died, he tweeted saying that Islam is the sword the left is using to slit America's throat.
 
 Anchored Artifacts: A-2766.2
-Mentions: N-499, N-1
+Mentions: N-498, N-1
 Related Nodes: 
 Investigative Direction: Retrieve the tweet from Kirk's account history for September 9, 2025 and check its wording.
 
@@ -1897,7 +1897,7 @@ Claim: The host says Erika Kirk told Jesse Watters she did not need to take a sl
 Transcript Snippet: even when she said to Jesse Watters that she didn't even need to take a sleeping pill she didn't need to have a glass of wine that she slept she said she slept fine
 
 Anchored Artifacts: 
-Mentions: N-2, N-213, N-3
+Mentions: N-2, N-212, N-3
 Related Nodes: 
 Investigative Direction: Locate the Fox News interview and check Erika Kirk's exact words.
 
@@ -1912,7 +1912,7 @@ Claim: Youssef says that before he took office as FBI director, Kash Patel said 
 Transcript Snippet: Mr. Kash Patel who even before he got into office he said America needs to wake up and prioritize Israel which is a very weird thing to say.
 
 Anchored Artifacts: 
-Mentions: N-499, N-69
+Mentions: N-498, N-69
 Related Nodes: 
 Investigative Direction: Find Patel's pre-appointment statement on Israel and confirm its wording and date.
 
@@ -1927,7 +1927,7 @@ Claim: Youssef says the head of cybersecurity in Netanyahu's office came to Las 
 Transcript Snippet: the head of the cyber security in Netanyahu's office. He comes to Las Vegas and just like you know to pass time he was found with a minor and it was a sting operation but then he was allowed to leave.
 
 Anchored Artifacts: 
-Mentions: N-499, N-36
+Mentions: N-498, N-36
 Related Nodes: N-11041
 Investigative Direction: Search Las Vegas police and court records and press for the arrest and name of the official; confirm the date.
 
@@ -1942,7 +1942,7 @@ Claim: Youssef says the acting district attorney in the Las Vegas case happens t
 Transcript Snippet: you have like the the act the acting DA who happens to be an Israeli national
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-11041
 Supports: C-5610
 Investigative Direction: Identify the prosecutor in the case and verify nationality and role.
@@ -1958,7 +1958,7 @@ Claim: The host says the Auschwitz Museum put on its website that a lot of what 
 Transcript Snippet: Awitz Museum comes out and says the stuff that was said about Joseph, Dr. Joseph Bengal, a lot of it was made up. He never did these things.
 
 Anchored Artifacts: A-1699.1
-Mentions: N-3, N-381
+Mentions: N-3, N-380
 Related Nodes: 
 Investigative Direction: Search the Auschwitz Museum website for any statement on Mengele and compare it with this description.
 
@@ -1988,7 +1988,7 @@ Claim: The host says Norman Finkelstein told her his parents had said some peopl
 Transcript Snippet: My my parents told me some people were taking the tattoos off and some people were putting them on
 
 Anchored Artifacts: A-2767.1
-Mentions: N-201, N-3
+Mentions: N-200, N-3
 Related Nodes: 
 Investigative Direction: Rewatch the host's Finkelstein interview and confirm his wording and context.
 
@@ -2018,7 +2018,7 @@ Claim: Youssef says the Hagana blew up a ship carrying 1,500 Jewish refugees at 
 Transcript Snippet: And then the Hagana, which is like is one of the Israeli the Zionist gang, they blew it up because the British authorities wouldn't let it go
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-11042
 Investigative Direction: Check historical sources on the 1940 Patria sinking for casualties and responsibility.
 
@@ -2033,7 +2033,7 @@ Claim: In the Piers Morgan clip, Youssef says that in the West Bank, where Hamas
 Transcript Snippet: since the beginning of this street only through August 37 Palestinian kids were killed.
 
 Anchored Artifacts: A-1690.1
-Mentions: N-499, N-206
+Mentions: N-498, N-205
 Related Nodes: N-10453
 Supports: C-2225
 Investigative Direction: Compare with UN OCHA West Bank child fatality figures for the relevant year.
@@ -2049,7 +2049,7 @@ Claim: In the Piers Morgan clip, Youssef says that since the occupation of the W
 Transcript Snippet: Since the occupation of the West Bank, 7,000 Palestinians were killed.
 
 Anchored Artifacts: A-1690.1
-Mentions: N-499, N-206
+Mentions: N-498, N-205
 Related Nodes: N-10453
 Supports: C-2225
 Investigative Direction: Identify the source of the 7,000 figure and the period it covers.
@@ -2065,7 +2065,7 @@ Claim: Youssef says that in three weeks after the ceasefire Israel killed more c
 Transcript Snippet: 3 weeks they killed more children from the Palestinian side more than Israeli kids were killed all through 75 years.
 
 Anchored Artifacts: A-1690.1
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10454
 Investigative Direction: Compare UN and Gaza Health Ministry child casualty data for the three weeks after the ceasefire with cumulative Israeli child deaths since 1948.
 
@@ -2080,7 +2080,7 @@ Claim: Youssef says that ICE's field office location turns out to be in Tel Aviv
 Transcript Snippet: they find that the location of one of their field office is in Tel Aviv.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-11046
 Investigative Direction: Check DHS and ICE office listings for any ICE presence at the US Embassy in Tel Aviv and its status.
 
@@ -2095,7 +2095,7 @@ Claim: Youssef says billionaires Peter Thiel, Alex Karp and Larry Ellison openly
 Transcript Snippet: They they openly donate to the IDF. They openly have their headquarters in Israel.
 
 Anchored Artifacts: 
-Mentions: N-499, N-523, N-142
+Mentions: N-498, N-522, N-141
 Related Nodes: N-10026
 Investigative Direction: Check public filings and charitable donation records for donations to the IDF by those individuals and companies, and company addresses in Israel.
 
@@ -2125,7 +2125,7 @@ Claim: Youssef says the NYPD and LAPD have Israeli special operations officers o
 Transcript Snippet: NYPDs and LAPDs is having Israeli special operations officers on site with them.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10026
 Investigative Direction: Obtain police training and liaison program records for NYPD and LAPD with Israeli counterparts.
 
@@ -2140,7 +2140,7 @@ Claim: The host says Larry Ellison and others were saying they needed to buy Tik
 Transcript Snippet: Larry Ellison and all them are out there like we need to buy Tik Tok
 
 Anchored Artifacts: 
-Mentions: N-142, N-3
+Mentions: N-141, N-3
 Related Nodes: 
 Investigative Direction: Locate Ellison's statements about TikTok and the transaction record.
 
@@ -2155,7 +2155,7 @@ Claim: Youssef says 37 or 38 US states have laws that bar boycotting Israel.
 Transcript Snippet: People are losing government contracts. You have 37, 38 states that have laws
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10026
 Investigative Direction: Count the state anti-BDS laws against current state statutes.
 
@@ -2170,7 +2170,7 @@ Claim: Youssef says the US sanctioned a judge at the International Criminal Cour
 Transcript Snippet: they sanctioned the judge. He's in in he's a he's he's Dutch. This guy cannot have access to his bank account.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-11043
 Investigative Direction: Identify the sanctioned ICC judges, their nationalities and the Treasury designation notices.
 
@@ -2200,7 +2200,7 @@ Claim: Youssef says a Palestinian friend and two others were shot, leaving his f
 Transcript Snippet: I have a friend of mine Palestinian. He and two of his friends they were shot and now he's he's paralyzed from waist down.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: 
 Investigative Direction: Ask Youssef to identify the incident; compare with police and court records of shootings of Palestinian students in the US.
 
@@ -2230,7 +2230,7 @@ Claim: Youssef says members of Congress write laws to give $28 billion or $30 bi
 Transcript Snippet: they can take $28 billion or $30 billion from your tax money and give it to a different country.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10026
 Investigative Direction: Check US military and other aid appropriations to Israel for the years the speaker means.
 
@@ -2260,7 +2260,7 @@ Claim: Youssef says Piers Morgan brought on Jonathan Conricus, described as an e
 Transcript Snippet: they brought someone called Jonathan Conricus who was like the ex IDF spokesman and out of nowhere it's like there is no famine in Gaza.
 
 Anchored Artifacts: 
-Mentions: N-499, N-206, N-724
+Mentions: N-498, N-205, N-723
 Related Nodes: N-10063
 Investigative Direction: Identify the guest, whose name is spelled phonetically, and the episode of the show; check the transcript for the statement.
 
@@ -2290,7 +2290,7 @@ Claim: Youssef says that in the November 2015 Paris attacks a Syrian passport wa
 Transcript Snippet: oh here it is a Syrian passport found near a suicide bomber at near a suicide bomber at November 2015
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: 
 Investigative Direction: Review French investigation records on the Syrian passports found at the Stade de France.
 
@@ -2336,7 +2336,7 @@ Claim: Youssef says Jeffrey Epstein was indicted in 2008 and was allowed to go t
 Transcript Snippet: he was indicted 2008 and he was allowed to go to Israel during his
 
 Anchored Artifacts: 
-Mentions: N-499, N-9
+Mentions: N-498, N-9
 Related Nodes: N-10023
 Investigative Direction: Review the Florida case record and Epstein's travel records for 2008 and 2009.
 
@@ -2427,7 +2427,7 @@ Claim: Youssef says Breaking the Silence is a movement of ex-IDF soldiers who sp
 Transcript Snippet: breaking the silence which is like the group of the IDF soldiers who they have a movement called breaking the silence ex IDF soldiers who speaks about the atrocities that they did
 
 Anchored Artifacts: A-1700.1
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10454
 Investigative Direction: Review Breaking the Silence's published testimonies.
 
@@ -2442,7 +2442,7 @@ Claim: Youssef says the New York Times editorial team is full of people from the
 Transcript Snippet: its editorial team are full of people from XIDF and and and ex Musad
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10968, N-10015
 Investigative Direction: Review published staff biographies for military or intelligence service in Israel.
 
@@ -2457,7 +2457,7 @@ Claim: Youssef says the New York Times published a piece claiming there are more
 Transcript Snippet: there is more tunnels inside the underneath Gaza more than the length of the New York time the New York subway system.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10968, N-10063
 Investigative Direction: Find the New York Times article and compare the stated tunnel length with the subway system length.
 
@@ -2472,7 +2472,7 @@ Claim: Youssef says the New York Times ran a whole piece about rape on October 7
 Transcript Snippet: they had like a whole piece about the rape the rape hoax which was completely fabricated.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: N-10968, N-11045
 Investigative Direction: Review the New York Times article, the sources it named and any retractions or follow-ups.
 
@@ -2487,7 +2487,7 @@ Claim: The host says Norman Finkelstein sat across from her and explained thorou
 Transcript Snippet: Norm Finkelestelestein sat across and he explained everything thoroughly about how they lied about the rape and how he actually looked into it.
 
 Anchored Artifacts: A-2767.1
-Mentions: N-201, N-3
+Mentions: N-200, N-3
 Related Nodes: N-11045
 Investigative Direction: Rewatch the Finkelstein interview for the specifics of his argument.
 
@@ -2517,7 +2517,7 @@ Claim: The host, relaying Phil Tourney's account, says the ship carried Israeli 
 Transcript Snippet: we had Star of David's IDF uh sorry, IDF Star of David Israeli flags inside the ship because we were going out there to go protect them.
 
 Anchored Artifacts: A-1696.1
-Mentions: N-500, N-3
+Mentions: N-499, N-3
 Related Nodes: N-10451
 Investigative Direction: Check the Turney interview for exactly what he said was aboard the ship.
 
@@ -2532,7 +2532,7 @@ Claim: The host, relaying Phil Tourney's account, says that an IDF soldier on a 
 Transcript Snippet: that IDF soldier then gives him the middle finger made eye contact and to this day people are gaslighting him they didn't know
 
 Anchored Artifacts: A-1696.1
-Mentions: N-500, N-3
+Mentions: N-499, N-3
 Related Nodes: N-10451
 Investigative Direction: Compare this retelling with Turney's own words in the interview and with his published written accounts.
 
@@ -2547,7 +2547,7 @@ Claim: Youssef says that in Ostrovsky's book, Mossad knew about the Beirut bombi
 Transcript Snippet: the blue MercedesBenz van that was going to be using the attack and they withheld the information from the American troops
 
 Anchored Artifacts: A-1697.1
-Mentions: N-499, N-502
+Mentions: N-498, N-501
 Related Nodes: N-10461, N-10015
 Supports: C-2232
 Investigative Direction: Locate the passage in By Way of Deception and compare it with the commission reports on the 1983 Marine barracks bombing.
@@ -2578,7 +2578,7 @@ Claim: The host says Victor Ostrovsky was also on camera speaking about how Jeff
 Transcript Snippet: Victor Achovsky also uh was on camera speaking about how Jeffrey Epste worked for them.
 
 Anchored Artifacts: A-1697.1
-Mentions: N-3, N-502, N-9
+Mentions: N-3, N-501, N-9
 Related Nodes: N-10023, N-10015
 Investigative Direction: Locate the Ostrovsky interview and the exact words he used about Epstein.
 
@@ -2593,7 +2593,7 @@ Claim: The host says her very last, or second-to-last, Daily Wire episode was wi
 Transcript Snippet: It was what I think it was my very last. It was my very last. It was or of the second to last Rabbi Barclay.
 
 Anchored Artifacts: A-2769.1
-Mentions: N-3, N-725, N-499
+Mentions: N-3, N-724, N-498
 Related Nodes: N-10900
 Investigative Direction: Check the Daily Wire episode list for the host's final episodes and the Barlay interview date.
 
@@ -2608,7 +2608,7 @@ Claim: The host says that when she asked Rabbi Barclay for a definition of antis
 Transcript Snippet: being like, "Okay, can I get a definition of anti-mitism?" And he was like, "Whatever we want." Oh my god.
 
 Anchored Artifacts: A-2769.1
-Mentions: N-3, N-725
+Mentions: N-3, N-724
 Related Nodes: 
 Investigative Direction: Watch the interview at the point where she asked for a definition and transcribe his answer.
 
@@ -2623,7 +2623,7 @@ Claim: The host says that after the interview Rabbi Barclay told her she could h
 Transcript Snippet: he told me that I could have a private screening of October 7th. He was going to they were going to bring the laptop to me
 
 Anchored Artifacts: A-2769.1
-Mentions: N-3, N-725
+Mentions: N-3, N-724
 Related Nodes: 
 Investigative Direction: Ask the host or her team for the message in which the offer was made.
 
@@ -2638,7 +2638,7 @@ Claim: Youssef says another rabbi, called Yosef Mizrachi, gives lectures in Los 
 Transcript Snippet: first of all he doesn't call him Jesus Christ. He he call him JC Penney.
 
 Anchored Artifacts: 
-Mentions: N-499, N-726
+Mentions: N-498, N-725
 Related Nodes: 
 Investigative Direction: Find the lecture videos and transcribe the passages.
 
@@ -2653,7 +2653,7 @@ Claim: The host says the Temple of Set was at Fort Huachuca and that an avowed S
 Transcript Snippet: literally Temple of Set was at Fort Huachuca like they an avowed started his own Temple of Set everything and that was the reason they hired him.
 
 Anchored Artifacts: A-2770.1
-Mentions: N-3, N-451
+Mentions: N-3, N-450
 Related Nodes: N-10410, N-10435
 Investigative Direction: Review Aquino's Army psychological operations record and Temple of Set history at Fort Huachuca.
 
@@ -2668,7 +2668,7 @@ Claim: The host says Michael Aquino split from the Church of Satan over whether 
 Transcript Snippet: So then he started the temple of Set, which is Satan is a real being.
 
 Anchored Artifacts: A-2770.1
-Mentions: N-3, N-451
+Mentions: N-3, N-450
 Related Nodes: N-10410
 Investigative Direction: Check the Temple of Set's founding history, Aquino's departure from the Church of Satan in 1975 and primary sources.
 
@@ -2683,7 +2683,7 @@ Claim: The host says Jack Parsons of the Apollo program era was a committed avow
 Transcript Snippet: Jack Parsons. What was he? He was he was a committed a vowed Satanist or throwing sexual rituals. He was trying to summon demons.
 
 Anchored Artifacts: 
-Mentions: N-3, N-727
+Mentions: N-3, N-726
 Related Nodes: 
 Investigative Direction: Review biographies of Parsons's occult activities and his rocket work.
 
@@ -2698,7 +2698,7 @@ Claim: Youssef says he was a heart surgeon for 20 years before becoming a comedi
 Transcript Snippet: Yeah, I was a heart surgeon for 20 years before all of this.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: 
 Investigative Direction: Check Youssef's publicly stated medical career dates against his own biography.
 
@@ -2713,7 +2713,7 @@ Claim: Youssef says that in summer 2001 he went to Miami to learn salsa, his ret
 Transcript Snippet: 2001 in the summer, my return ticket from Miami was 17th of September, 6 days before after 9/11.
 
 Anchored Artifacts: 
-Mentions: N-499
+Mentions: N-498
 Related Nodes: 
 Investigative Direction: Rely on Youssef's account; no document is offered.
 
@@ -2744,7 +2744,7 @@ Claim: Youssef says Bari Weiss is now in control of Paramount Plus, which carrie
 Transcript Snippet: And now she's in control of Param Plus which actually have Lionus which I have like a great scene there.
 
 Anchored Artifacts: A-1694.3
-Mentions: N-499, N-280
+Mentions: N-498, N-279
 Related Nodes: 
 Investigative Direction: Check Weiss's role at Paramount and Youssef's cast status on Lioness.
 
@@ -2766,7 +2766,7 @@ Confidence: high
 ### Occurrence 2
 
 Video Timestamp: 00:15:00
-Speaker: N-499
+Speaker: N-498
 Quote: one month after 911 which is the biggest full flag operation in October 2001
 Context: Youssef lists false-flag examples; the transcript has 'full flag'.
 Tags: false_flag, reuse
@@ -2833,7 +2833,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:24:31
-Speaker: N-499
+Speaker: N-498
 Quote: I went through a rabbit hole watching a lot of these pastors
 Context: Youssef on watching pastors preach about Israel.
 Tags: rabbit_hole, pastors
@@ -2957,7 +2957,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-499 onward)
+- [x] People nodes use the global people ledger (N-498 onward)
 - [x] Non-person investigation targets use the 1000 series (N-10451 onward)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty flagged

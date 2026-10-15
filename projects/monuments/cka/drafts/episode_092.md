@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: cd44ed40636c60c09236975a1e80639d46ee6820f268322c974d2c67580290dd
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10e): N-892, N-893, N-894, N-11297, N-11298
+  - Tip-minted Nodes (supplement_2026-10e): N-891, N-892, N-893, N-11297, N-11298
   - Hole-minted Nodes (reintro-ep092): N-10751
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11375–C-11435
   - New Nodes Introduced: N-10607, N-10608, N-10609, N-10610, N-10612, N-10614, N-10615
-  - Reused Nodes Appearing: N-2, N-14, N-4, N-327, N-17, N-33, N-40, N-42, N-82, N-94, N-202, N-211, N-239, N-282, N-422, N-803, N-451, N-452, N-462, N-602, N-691, N-804, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611, N-343, N-344, N-10613
-  - Hole-minted Nodes (wave3): N-426
+  - Reused Nodes Appearing: N-2, N-14, N-4, N-326, N-17, N-33, N-40, N-42, N-82, N-94, N-201, N-210, N-238, N-281, N-421, N-802, N-450, N-451, N-461, N-601, N-690, N-803, N-10000, N-10006, N-10076, N-10097, N-10127, N-10201, N-10246, N-10325, N-10340, N-10346, N-10401, N-10411, N-10419, N-10541, N-10604, N-10900, N-11145, N-11165, N-11167, N-11182, N-11238, N-10611, N-342, N-343, N-10613
+  - Hole-minted Nodes (wave3): N-425
   - (see registers)
 
 ## 6. Meme Register
@@ -303,9 +303,9 @@ Confidence Level: High
 
 ---
 
-**A-1974** Jake Trailer MS Now Tweet
+**A-1974** Jake Traylor MS Now Tweet
 
-**A-1974.1** Tweet from MS Now reporter Jake Trailer reporting that the Akins Ford Arena was "less than 25% filled" for the VP event, with attached venue footage.
+**A-1974.1** Tweet from MS Now reporter Jake Traylor reporting that the Akins Ford Arena was "less than 25% filled" for the VP event, with attached venue footage.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -327,7 +327,7 @@ Video Timestamp: 00:39:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2734, C-2735, N-327, N-343, N-10613*
+*Related: C-2734, C-2735, N-326, N-342, N-10613*
 
 ---
 
@@ -341,7 +341,7 @@ Video Timestamp: 00:40:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2735, C-2736, N-327, N-343, N-10613, N-344*
+*Related: C-2735, C-2736, N-326, N-342, N-10613, N-343*
 
 ---
 
@@ -355,7 +355,7 @@ Video Timestamp: 00:41:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2736, N-327, N-343, N-10613, N-344*
+*Related: C-2736, N-326, N-342, N-10613, N-343*
 
 ---
 
@@ -459,7 +459,7 @@ Confidence Level: Low
 
 # IV. Node Register
 
-**N-426** Marcus Wada
+**N-425** Marcus Wada
 
 First named by the host at 00:42:41 in episode 92.
 
@@ -504,7 +504,7 @@ Investigative Pressure: High
 
 ---
 
-**N-327** Tim Ballard
+**N-326** Tim Ballard
 
 Mentioned in passing within the connecting-themes list (Operation Underground). Pre-existing node; no new artifact attached.
 
@@ -517,7 +517,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-343** Victor Marx
+**N-342** Victor Marx
 
 Pastor Victor Marx replied to the host on X; the host reads and disputes the reply and proposes an on-air interview with him and Corby Hall (transcript 00:56, 37:09 to 40:47).
 
@@ -526,11 +526,11 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-344, N-10613*
+*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-343, N-10613*
 
 ---
 
-**N-344** Corby Hall
+**N-343** Corby Hall
 
 Corby Hall (FAR) raised the point that Victor Marx has no church; the host read his statement in full and he agreed to appear on the show with Victor Marx (transcript 38:52 to 40:47).
 
@@ -539,7 +539,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1976.1, A-1977.1, C-2735, N-343, N-10613*
+*Related: A-1976.1, A-1977.1, C-2735, N-342, N-10613*
 
 ---
 
@@ -630,7 +630,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-327, N-343*
+*Related: A-1975.1, A-1976.1, A-1977.1, C-2734, C-2735, C-2736, N-326, N-342*
 
 ---
 
@@ -643,7 +643,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741, N-327*
+*Related: A-1978.1, A-1979.1, A-1980.1, C-2737, C-2739, C-2741, N-326*
 
 ---
 
@@ -684,7 +684,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-892** Savannah Hernandez
+**N-891** Savannah Hernandez
 
 First named by the host at 00:07:17 in episode 92 (via the Kolvet clip). TPUSA front-lines reporter in the Minneapolis incident cited by Kolvet and Vance.
 
@@ -716,7 +716,7 @@ Network whose Kolvet segment used the B-roll.
 
 ---
 
-**N-282** Karoline Leavitt
+**N-281** Karoline Leavitt
 
 Co-appeared with Erika Kirk at a Washington DC event per the host.
 
@@ -732,7 +732,7 @@ Engaged to Bettina Anderson, per the host.
 
 ---
 
-**N-893** Bettina Anderson
+**N-892** Bettina Anderson
 
 First named by the host at 00:16:56 in episode 92 (spelled Betina). Fiancee of Donald Trump Jr. whose bridal shower the host says Erika Kirk attended.
 
@@ -756,7 +756,7 @@ Cited by the host for his remarks on Jesus, the Pope, Brigitte Macron and the Ea
 
 ---
 
-**N-422** Pope Leo XIV
+**N-421** Pope Leo XIV
 
 Pope whom the host says Trump attacked.
 
@@ -772,7 +772,7 @@ Named in the host's list of Trump remarks.
 
 ---
 
-**N-602** Scott Bessent
+**N-601** Scott Bessent
 
 Treasury Secretary the host says issued a letter on demand.
 
@@ -821,7 +821,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-894** David J. Harris
+**N-893** David J. Harris
 
 First named by the host at 00:40:01 in episode 92 (David Harris). Business partner in the Marx supplements, per the host.
 
@@ -837,7 +837,7 @@ Co-owner of the 888 plane per the host and runs a charity she lists.
 
 ---
 
-**N-202** Shelaine Maxfield
+**N-201** Shelaine Maxfield
 
 Transcribed Shelaine; co-owner of the 888 plane and charity per the host.
 
@@ -853,7 +853,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-691** Otto Busher
+**N-690** Otto Busher
 
 Colonel the host links to Fort Huachuca and Romanian Angels.
 
@@ -869,7 +869,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-452** Greg Laurie
+**N-451** Greg Laurie
 
 Harvest pastor who toured with Erika Kirk per the host.
 
@@ -901,7 +901,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-804** Andrew Piscatello
+**N-803** Andrew Piskadlo
 
 Transcribed Andrew Pascadlo; detained photographer who raises trafficking alarms.
 
@@ -933,7 +933,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-239** Glenn Beck
+**N-238** Glenn Beck
 
 Named with Tim Ballard in the spreadsheet.
 
@@ -957,7 +957,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-803** Paul Vallely
+**N-802** Paul Vallely
 
 TPUSA adviser transcribed Paul Vallely; co-author with Aquino.
 
@@ -965,7 +965,7 @@ TPUSA adviser transcribed Paul Vallely; co-author with Aquino.
 
 ---
 
-**N-451** Michael Aquino
+**N-450** Michael Aquino
 
 Transcribed Michael Aino; co-author and Temple of Set founder.
 
@@ -981,7 +981,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-462** Nelda Buckman
+**N-461** Nelda Buckman
 
 Top TPUSA donor transcribed Nelda Buckman.
 
@@ -1038,7 +1038,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-211** Joe Kent
+**N-210** Joe Kent
 
 Former official whose foreign-involvement inquiry the host says angered Erika Kirk.
 
@@ -1050,12 +1050,12 @@ Former official whose foreign-involvement inquiry the host says angered Erika Ki
 
 **C-2722** Host Says Erika Kirk Was Scheduled to Appear at UGA with VP JD Vance
 
-Claim Timestamp: 00:02:28
+Claim Timestamp: 00:01:30
 
-Claim: The host says Erika Kirk was scheduled to appear alongside Vice President JD Vance at the University of Georgia event on 2026-04-14.
+Claim: The host says Erika Kirk was scheduled to appear alongside Vice President JD Vance at the University of Georgia event the night before.
 
 Anchored Artifacts: A-1965.1, A-1966.1
-Mentions: N-2, N-4, N-14
+Mentions: N-2, N-4
 
 
 Investigative Direction: Confirm via TPUSA event listing, UGA/Akins Ford Arena booking records, and contemporaneous press releases.
@@ -1066,10 +1066,10 @@ Investigative Direction: Confirm via TPUSA event listing, UGA/Akins Ford Arena b
 
 Claim Timestamp: 00:02:28
 
-Claim: TPUSA UGA event staff (Grant Tyler, Caroline) were not informed of Erika Kirk's absence until approximately 50 minutes before doors opened, as evidenced by their posted promotion video.
+Claim: The host says TPUSA staff at the UGA event, including field representative Grant Tyler and chapter president Caroline in a video she plays, were still promoting Erika Kirk's appearance about 50 minutes before doors opened, which she says shows they had not been told she would not attend.
 
 Anchored Artifacts: A-1965.1
-Mentions: N-2, N-14
+Mentions: N-2
 
 Related Nodes: N-10607
 
@@ -1130,7 +1130,7 @@ Claim Timestamp: 00:08:41
 Claim: The Daily Wire reported, citing a TPUSA official, that Erika Kirk's travel itinerary was being doxed, that multiple direct threats were made, and that the chief security concern was the travel portion.
 
 Anchored Artifacts: A-1969.1
-Mentions: N-2, N-14
+Mentions: N-2
 
 Related Nodes: N-10607
 
@@ -1161,7 +1161,7 @@ Claim Timestamp: 00:05:40
 Claim: Erika Kirk stated on Jesse Watters that she does not feel threatened and that any attempt would simply send her "to heaven sooner."
 
 Anchored Artifacts: A-1971.1
-Mentions: N-2, N-213
+Mentions: N-2, N-212
 
 Related Nodes: N-10611
 
@@ -1173,10 +1173,10 @@ Investigative Direction: Confirm full interview date and air date; verify whethe
 
 Claim Timestamp: 00:19:16
 
-Claim: Per a parent-alert text the host shows, TPUSA cancelled a high school event scheduled for the day after the Monday notice (2026-04-14), citing "scheduling complications" rather than security threats, according to the host.
+Claim: Per a parent-alert text the host shows, TPUSA cancelled an optional high school event 'scheduled for tomorrow, September 14th' (as the host reads it), citing "scheduling complications" rather than security threats, according to the host.
 
 Anchored Artifacts: A-1972.1
-Mentions: N-2, N-14
+Mentions: N-2
 
 Related Nodes: N-10612
 
@@ -1203,10 +1203,10 @@ Investigative Direction: Confirm event status with Pinnacle High School administ
 
 Claim Timestamp: 00:19:16
 
-Claim: The parent-alert email canceling the Georgia high school event referenced a scheduled date of "September 14th," inconsistent with the actual event date of April 14, 2026.
+Claim: Per the parent-alert text the host shows, the cancelled Georgia high school event was described as 'scheduled for tomorrow, September 14th', as the host reads it.
 
 Anchored Artifacts: A-1972.1
-Mentions: N-2, N-14
+Mentions: 
 
 Related Nodes: N-10612
 
@@ -1216,12 +1216,12 @@ Investigative Direction: Obtain original email to determine whether "September" 
 
 **C-2733** Akins Ford Arena Less Than 25% Filled for VP Event
 
-Claim Timestamp: 00:14:13
+Claim Timestamp: 00:13:42
 
-Claim: MS Now reporter Jake Trailer reported that Akins Ford Arena was less than 25% filled for the Vice President's appearance.
+Claim: MS Now reporter Jake Traylor reported that Akins Ford Arena was less than 25% filled for the Vice President's appearance.
 
 Anchored Artifacts: A-1974.1
-Mentions: N-2, N-4
+Mentions: N-4
 
 Related Nodes: N-10608
 
@@ -1233,10 +1233,10 @@ Investigative Direction: Cross-reference with venue ticket-issuing records and T
 
 Claim Timestamp: 00:39:35
 
-Claim: Victor Marx posted a short video response on Instagram and X in reply to Candace Owens' prior episode, captioned "Well, all righty then. Love you, Candace."
+Claim: Victor Marx posted a short video response on Instagram and X to Candace Owens' prior episode, in which he says "Well, all righty then. Love you, Candace. Let me know when you want me to come on the show. Praying for you."
 
 Anchored Artifacts: A-1975.1
-Mentions: N-343, N-3
+Mentions: N-342, N-3
 
 Related Nodes: N-10613
 
@@ -1251,7 +1251,7 @@ Claim Timestamp: 00:40:47
 Claim: Candace Owens publicly replied beneath Marx's post inviting him to appear on her show together with Corby Hall; Hall reportedly agreed.
 
 Anchored Artifacts: A-1976.1
-Mentions: N-343, N-344, N-3
+Mentions: N-342, N-343, N-3
 
 Related Nodes: N-10613
 
@@ -1266,7 +1266,7 @@ Claim Timestamp: 00:41:36
 Claim: Candace Owens sent a private DM to Victor Marx requesting his phone number to schedule a joint appearance; as of air no read receipt had been observed.
 
 Anchored Artifacts: A-1977.1
-Mentions: N-343, N-3
+Mentions: N-342, N-3
 
 Related Nodes: N-10613
 
@@ -1281,7 +1281,7 @@ Claim Timestamp: 00:43:46
 Claim: Per the Turning Point USA website bio the host reads, Marcus Wada is the "director of strategy of productions" at Turning Point USA.
 
 Anchored Artifacts: A-1978.1
-Mentions: N-426
+Mentions: N-425
 
 Related Nodes: N-10609
 
@@ -1296,7 +1296,7 @@ Claim Timestamp: 00:43:46
 Claim: Per the Turning Point USA website bio the host reads, Marcus Wada has credits on Miss Universe and on the TPUSA documentary series "Border Battle" and "The Great Global Reset."
 
 Anchored Artifacts: A-1978.1
-Mentions: N-426
+Mentions: N-425
 
 Related Nodes: N-10609
 
@@ -1308,10 +1308,10 @@ Investigative Direction: Cross-reference against IMDb / production credits; veri
 
 Claim Timestamp: 00:46:09
 
-Claim: The host says the consulting firm run by Marcus Wada's brother, which she shows on its website, lists industry areas including human trafficking, sex trafficking, firearms and ammunition, money laundering, and controlled substances.
+Claim: The host says the consulting firm run by the man she presumes is Marcus Wada's half brother, which she shows on its website, lists industry areas including human trafficking, sex trafficking, firearms and ammunition, money laundering, and controlled substances.
 
 Anchored Artifacts: A-1979.1
-Mentions: N-426
+Mentions: N-425
 
 Related Nodes: N-10609, N-10614
 
@@ -1323,10 +1323,10 @@ Investigative Direction: Obtain full webpage capture; identify the firm and conf
 
 Claim Timestamp: 00:06:30
 
-Claim: Erika Kirk's stated public position shifted from declaring fearlessness in the earlier Jesse Watters interview to citing her security team's recommendations when canceling the UGA event.
+Claim: In a clip the host plays, Erika Kirk tells Jesse Watters she is not afraid; the host asks what changed, then plays a Fox News clip in which Andrew Kolvet says the security team told them it could not guarantee her safety and recommended against the UGA appearance.
 
 Anchored Artifacts: A-1971.1, A-1970.1
-Mentions: N-2, N-213
+Mentions: N-2, N-212, N-14
 
 Related Nodes: N-10611
 
@@ -1341,7 +1341,7 @@ Claim Timestamp: 00:42:41
 Claim: The host says unnamed current and former TPUSA employees told her that Marcus Wada openly discusses past involvement in arms trafficking in Poland and is very close to Andrew Kolvet; she says he allegedly trafficked arms.
 
 Anchored Artifacts: A-1980.1
-Mentions: N-14, N-426
+Mentions: N-14, N-425
 
 Related Nodes: N-10609
 
@@ -1353,10 +1353,10 @@ Investigative Direction: Identify at least one named corroborating source; cross
 
 Claim Timestamp: 00:31:13
 
-Claim: TPUSA's public explanation of the UGA no-show evolved across at least five artifacts (stage announcement, Fox News interview, Charlie Kirk show interview, Daily Wire tweet, Erika Kirk X post) and contained internal inconsistencies regarding whether the high school event shared the same rationale.
+Claim: The host says TPUSA's explanation for Erika Kirk's UGA no-show kept changing, playing a clip from The Charlie Kirk Show in which Andrew Kolvet says a high school event was cancelled over online chatter, while the parent text she showed earlier cited scheduling complications.
 
 Anchored Artifacts: A-1966.1, A-1967.1, A-1968.1, A-1969.1, A-1970.1, A-1972.1
-Mentions: N-2, N-14, N-1
+Mentions: N-2, N-14
 
 Related Nodes: N-10607, N-10612
 
@@ -1436,7 +1436,7 @@ Claim: On Fox News, Andrew Kolvet said that cancelling Erika Kirk's appearance w
 Transcript Snippet: which I think is the first time that we've ever had to make that decision in Turning Point history.
 
 Anchored Artifacts: A-1967.1
-Mentions: N-14, N-892, N-2
+Mentions: N-14, N-891, N-2
 Related Nodes: N-10607
 Tags: relevance:core
 Investigative Direction: Obtain the Fox News segment and reporting on the Savannah Hernandez Minneapolis incident, and check TPUSA's history of cancelled appearances.
@@ -1550,7 +1550,7 @@ Claim: The host says TPUSA college students and volunteers told her that TPUSA a
 Transcript Snippet: similarly had a very hard time uh moving tickets for her event in Washington DC with Karoline Leavitt.
 
 Anchored Artifacts: 
-Mentions: N-2, N-282, N-3
+Mentions: N-2, N-281, N-3
 Related Nodes: N-10608
 Tags: relevance:core
 Investigative Direction: Locate the DC event's registration and attendance data and ask the volunteers' sources for corroboration.
@@ -1616,7 +1616,7 @@ Claim: The host says Erika Kirk was at the White House over the weekend and at t
 Transcript Snippet: She was at Betina Betina at Mara Lago, the one who's marrying Don Trump Jr., she was at her bridal shower.
 
 Anchored Artifacts: 
-Mentions: N-2, N-33, N-893
+Mentions: N-2, N-33, N-892
 Related Nodes: N-10607
 Tags: relevance:context
 Investigative Direction: Check reporting and guest accounts of the bridal shower and Erika Kirk's White House visit that weekend.
@@ -1692,12 +1692,12 @@ Investigative Direction: Identify the influencers and any sponsorship disclosure
 
 Claim Timestamp: 00:23:49
 
-Claim: In the clip played, JD Vance says critics should go after the left-wing radicals assaulting Savannah or the people who shot Charlie Kirk, using the plural.
+Claim: In the clip the host plays, JD Vance says that if someone's instinct is to go after a grieving young mother rather than 'the left-wing radicals who are assaulting Savannah' or 'the people who shot Charlie Kirk' (plural), they should stay in their lane.
 
 Transcript Snippet: not the left-wing radicals who are assaulting Savannah or not the people who shot Charlie Kirk
 
 Anchored Artifacts: A-1966.2
-Mentions: N-4, N-1, N-892
+Mentions: N-4, N-1, N-891
 Related Nodes: N-10607
 Tags: relevance:core
 Investigative Direction: Obtain the full Vance remarks and check whether the plural was scripted or an error.
@@ -1744,7 +1744,7 @@ Claim: The host says that Trump attacked a pope for calling for peace and said t
 Transcript Snippet: How about Trump just generally attacking a pope because he's calling for peace? How about Trump saying that Brigitte Macron is hot?
 
 Anchored Artifacts: 
-Mentions: N-5, N-422, N-82
+Mentions: N-5, N-421, N-82
 Tags: relevance:context
 Investigative Direction: Locate the Trump statements on Pope Leo XIV and on Brigitte Macron and their dates.
 
@@ -1775,7 +1775,7 @@ Claim: The host says Erika Kirk can get Treasury Secretary Scott Bessent to issu
 Transcript Snippet: She can get uh the Secretary Scott Bessence to issue a letter on demand demanding you stop looking into their finances.
 
 Anchored Artifacts: 
-Mentions: N-2, N-602, N-3
+Mentions: N-2, N-601, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Obtain the Bessent letter and its recipient and date, and any Treasury statement about TPUSA finances.
@@ -1865,7 +1865,7 @@ Investigative Direction: Obtain itinerary or booking changes for the Georgia tri
 
 Claim Timestamp: 00:32:57
 
-Claim: The host says that Charlie Kirk multiple times texted on the security team the day before the shooting that he thought he was going to be killed, and that TPUSA does not talk about it.
+Claim: The host, voicing TPUSA's messaging, says Charlie Kirk 'multiple times texted me on the security team day before' saying he thought he was going to be killed, and that TPUSA does not talk about that threat.
 
 Transcript Snippet: when Charlie multiple times texted me on the security team day before saying he thought he was going to be killed
 
@@ -1887,7 +1887,7 @@ Claim: The host says Victor Marx's daughter was in a very public back-and-forth 
 Transcript Snippet: very public back forth that went on where she was accusing him of abuse and um there's a lot of that. And then she retracted her statement after they began speaking again
 
 Anchored Artifacts: 
-Mentions: N-343, N-3
+Mentions: N-342, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Locate the daughter's original public statements and the retraction.
@@ -1903,7 +1903,7 @@ Claim: The host says there is a young woman who alleges that Victor Marx kidnapp
 Transcript Snippet: We didn't include the young woman who alleges that Victor Marx kidnapped her from Canada.
 
 Anchored Artifacts: 
-Mentions: N-343, N-3
+Mentions: N-342, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the woman and the shows on which she spoke, and look for any police or court filing.
@@ -1919,7 +1919,7 @@ Claim: The host says her team has never received more emails and tips about anyo
 Transcript Snippet: we have never received more emails and more tips about anyone. Actually um in our tips inbox it was a recurring theme.
 
 Anchored Artifacts: A-3130.1
-Mentions: N-343, N-3
+Mentions: N-342, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Ask the host for the volume of tips received and review a sample of the tip content.
@@ -1935,7 +1935,7 @@ Claim: The host says Victor Marx allegedly was the first person to announce that
 Transcript Snippet: Victor Marx allegedly was the first person who announced that Charlie Kirk had died and then he deleted that post.
 
 Anchored Artifacts: 
-Mentions: N-343, N-1, N-3
+Mentions: N-342, N-1, N-3
 Related Nodes: N-10604
 Tags: relevance:core
 Investigative Direction: Find archived copies of the Marx post, its timestamp relative to the official announcement, and any deletion record.
@@ -1951,7 +1951,7 @@ Claim: The host says Corby Hall raised the point that Victor Marx does not have 
 Transcript Snippet: I realized he doesn't have a church. I don't know why he says he's a pastor.
 
 Anchored Artifacts: 
-Mentions: N-344, N-343, N-3
+Mentions: N-343, N-342, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Check church registrations or ministry records for Victor Marx and Corby Hall's statement.
@@ -1967,7 +1967,7 @@ Claim: The host says that Victor Marx had a supplement venture with David Harris
 Transcript Snippet: You had supplements that you were doing with David Harris.
 
 Anchored Artifacts: 
-Mentions: N-343, N-894, N-3
+Mentions: N-342, N-893, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the supplement brand and its ownership records.
@@ -1983,7 +1983,7 @@ Claim: The host says it was said that proceeds from the Marx and David Harris su
 Transcript Snippet: David Harris calls God Papa. I don't know. And he like you guys said that like proceed the supplements were going to help human sex trafficking victims.
 
 Anchored Artifacts: 
-Mentions: N-343, N-894, N-3
+Mentions: N-342, N-893, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Obtain the supplement marketing claims and any charity disbursement records.
@@ -2015,7 +2015,7 @@ Claim: The host says that, according to current and former employees, Marcus Wad
 Transcript Snippet: Marcus Wada also says that his brother is still involved in the game somehow in the industry in some way.
 
 Anchored Artifacts: A-1980.1
-Mentions: N-426, N-3
+Mentions: N-425, N-3
 Related Nodes: N-10609
 Supports: C-2741
 Tags: relevance:core
@@ -2032,7 +2032,7 @@ Claim: The host says she found Wada's brother, assumes he is a half brother beca
 Transcript Snippet: Anyway, I did end up finding the guy. I'm proddding that narrative. There seems to be something there. I'm assuming it must be a half brother because he has a different last name
 
 Anchored Artifacts: A-1979.1
-Mentions: N-426, N-3
+Mentions: N-425, N-3
 Related Nodes: N-10609
 Supports: C-2739
 Tags: relevance:core
@@ -2049,7 +2049,7 @@ Claim: The host says the Maxfields, whose plane left for Page, Arizona that day,
 Transcript Snippet: Derek and Shelaine Maxfield, that was that plane that left and went to Paige, Arizona that day. They run a child abuse charity um a trafficking charity uh Sapria
 
 Anchored Artifacts: A-3132.1
-Mentions: N-94, N-202, N-3
+Mentions: N-94, N-201, N-3
 Related Nodes: N-10401
 Supports: C-8155
 Tags: relevance:core
@@ -2066,7 +2066,7 @@ Claim: The host says Colonel Otto Busher, the civilian commander stationed at Fo
 Transcript Snippet: he worked with Romanian Angels which was her charity uh the civilian commander stationed at Fort Huachuca charged with running a child sex abuse ring
 
 Anchored Artifacts: A-3132.1
-Mentions: N-691, N-2, N-3
+Mentions: N-690, N-2, N-3
 Related Nodes: N-11165, N-10401
 Tags: relevance:core
 Investigative Direction: Obtain Army and court records for the charge against Busher and any Romanian Angels staff or board listing.
@@ -2082,7 +2082,7 @@ Claim: The host says Greg Laurie, with whom Erika Kirk went on tour, leads Harve
 Transcript Snippet: Greg Laurie uh whose church Erika went right on tour with him Harvest Church is currently being accused of trafficking ch children from Romania.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-452, N-2, N-3
+Mentions: N-451, N-2, N-3
 Related Nodes: N-10411, N-10401
 Tags: relevance:core
 Investigative Direction: Review the lawsuit filings against Harvest Christian Fellowship and Erika Kirk's tour appearances with Laurie.
@@ -2106,16 +2106,16 @@ Investigative Direction: Obtain the Zinn charging documents and booking records.
 
 ---
 
-**C-11420** Host Says Andrew Piscatello Raises Alarms on Military Ukrainian Sex Trafficking
+**C-11420** Host Says Andrew Piskadlo Raises Alarms on Military Ukrainian Sex Trafficking
 
 Claim Timestamp: 00:47:41
 
-Claim: The host says Andrew Piscatello, who was detained that day, works to raise the alarm on military Ukrainian sex trafficking in the United States.
+Claim: The host says Andrew Piskadlo, who was detained that day, works to raise the alarm on military Ukrainian sex trafficking in the United States.
 
 Transcript Snippet: Andrew Pascadlo, uh that was the person who was detained that day, uh works to ring the alarm on military Ukrainian sex trafficking in the United States.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-804, N-3
+Mentions: N-803, N-3
 Related Nodes: N-10325
 Supports: C-8161
 Tags: relevance:core
@@ -2127,7 +2127,7 @@ Investigative Direction: Obtain Piscatello's public statements on the subject an
 
 Claim Timestamp: 00:47:51
 
-Claim: The host says Calvary Chapel Church is riddled with pastor abuse stories, and puts Rob McCoy aside from that list.
+Claim: The host says Calvary Chapel Church is riddled with pastor abuse stories, adding "that's an aside, Rob McCoy aside."
 
 Transcript Snippet: Calvary Chapel Church is obviously riddled with pastor abuse stories.
 
@@ -2149,7 +2149,7 @@ Claim: The host says Glenn Beck and Tim Ballard are connected through Operation 
 Transcript Snippet: Glenn Beck, Tim Ballard, that's Operation Underground. Tim Ballard. Um his name come in the mix early on as someone who was being met with that day.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-239, N-327, N-3
+Mentions: N-238, N-326, N-3
 Related Nodes: N-11167
 Tags: relevance:core
 Investigative Direction: Identify the source for the meeting claim and any record of Ballard's schedule on September 10, 2025.
@@ -2160,7 +2160,7 @@ Investigative Direction: Identify the source for the meeting claim and any recor
 
 Claim Timestamp: 00:48:11
 
-Claim: The host says Erika Kirk has said she lived in China and worked with child sex trafficking victims, but is silent on it now and no one can find which charity it was.
+Claim: The host says Erika Kirk has said she lived in China and worked with child sex trafficking victims, but is silent on it now and no one seems to be able to find which charity it was.
 
 Transcript Snippet: Erika Kirk says that she lived in China and worked with child sex trafficking victims but she's mum on that now.
 
@@ -2182,7 +2182,7 @@ Claim: The host says TPUSA adviser Paul Vallely, a retired Army general who ran 
 Transcript Snippet: The TPUSA adviser, Paul Vallely, retired Army general who ran psychological operations and co-wrote the book with Michael Aino, the Satanist and founder of the Temple of Set.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-803, N-451, N-3
+Mentions: N-802, N-450, N-3
 Related Nodes: N-11238
 Supports: C-8246
 Tags: relevance:context
@@ -2199,7 +2199,7 @@ Claim: The host says Michael Aquino was accused of abusing children at Army Chil
 Transcript Snippet: He was accused, I'm referring to Michael Aino, was accused of abusing children at Army Child Development Centers.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-451, N-3
+Mentions: N-450, N-3
 Related Nodes: N-11238
 Supports: C-2085
 Tags: relevance:context
@@ -2211,12 +2211,12 @@ Investigative Direction: Review the 1986-87 San Francisco police and Army record
 
 Claim Timestamp: 00:48:11
 
-Claim: The host says Victor Marx runs a charity for child sex abuse, and that she wants to add his supplements to her spreadsheet.
+Claim: The host says Victor Marx runs a charity for child sex abuse, and that she wants to add his pills to her spreadsheet.
 
 Transcript Snippet: Victor Marx, as we learned, runs a charity for child sex abuse.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-343, N-3
+Mentions: N-342, N-3
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Check the charity's IRS filings and program description.
@@ -2232,7 +2232,7 @@ Claim: The host says Nelda Buckman, the number one donor to Turning Point USA, i
 Transcript Snippet: Nelda Buckman, the number one donor to Turning Point USA, is extensively involved in rescuing children that are being sexually abused and trafficked.
 
 Anchored Artifacts: A-3132.1
-Mentions: N-462, N-3
+Mentions: N-461, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Check the Buckman foundation's filings and donations to child-rescue organizations.
@@ -2248,7 +2248,7 @@ Claim: The host says she should more responsibly say that Marcus Wada was former
 Transcript Snippet: I should probably change that to more responsibly say formerly involved in trafficking arms in Poland according to Turning Point USA current employees and past employees
 
 Anchored Artifacts: A-3132.1
-Mentions: N-426, N-3
+Mentions: N-425, N-3
 Related Nodes: N-10609
 Supports: C-2741
 Tags: relevance:core
@@ -2265,7 +2265,7 @@ Claim: The host says Marcus Wada's LinkedIn shows that he lived in Poland.
 Transcript Snippet: it's on his LinkedIn. He lived in Poland, so he maybe he just speaks Polish.
 
 Anchored Artifacts: A-3133.1
-Mentions: N-426, N-3
+Mentions: N-425, N-3
 Related Nodes: N-10127, N-10609
 Supports: C-2741
 Tags: relevance:core
@@ -2362,7 +2362,7 @@ Claim: The host says part of why Erika Kirk is on her list of suspicious people 
 Transcript Snippet: her anger at Joe Kent for trying to investigate foreign involvement.
 
 Anchored Artifacts: 
-Mentions: N-2, N-211, N-3
+Mentions: N-2, N-210, N-3
 Tags: relevance:core
 Investigative Direction: Find any public statement by Erika Kirk about Joe Kent and the date of the host's source.
 
@@ -2388,7 +2388,7 @@ Investigative Direction: Find any public statement by Erika Kirk about Joe Kent 
 - [x] Every artifact has a Related line.
 - [x] Every node has a Related line.
 - [x] No episode-wide artifact bundle; each top-level artifact ID represents one evidentiary family.
-- [x] People nodes use the global people ledger (Wave 1: Tim Ballard moved out of the topic band to Person N-327; local placeholder ids N-5 and N-6 resolved to N-14 Andrew Kolvet and N-343 Victor Marx).
+- [x] People nodes use the global people ledger (Wave 1: Tim Ballard moved out of the topic band to Person N-326; local placeholder ids N-5 and N-6 resolved to N-14 Andrew Kolvet and N-342 Victor Marx).
 - [x] Non-person investigation targets use the 1000-series beginning at N-10607.
 - [x] No speculative claims inscribed as evidence-backed claims; rhetorical framing retained as commentary.
 - [x] Names preserved exactly with uncertainty flagged.

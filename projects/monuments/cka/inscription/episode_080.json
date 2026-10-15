@@ -190,7 +190,7 @@
             "C-2505"
           ],
           "related_nodes": [
-            "N-152"
+            "N-151"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,13 +259,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1870",
       "family_ref": "A-1870",
-      "bundle_name": "Dino Fonte Grassi Instagram Letter Bundle",
+      "bundle_name": "Dino Fantegrossi Instagram Letter Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1870.1",
           "ref": "A-1870.1",
-          "description": "Open letter published on Instagram by TPUSA University of Arkansas chapter president Dino Fonte Grassi announcing disaffiliation",
+          "description": "Open letter published on Instagram by TPUSA University of Arkansas chapter president Dino Fantegrossi announcing disaffiliation",
           "related_claims": [
             "C-2509",
             "C-2510"
@@ -292,7 +292,7 @@
           "@type": "Artifact",
           "@id": "A-1871.1",
           "ref": "A-1871.1",
-          "description": "Archival audio of Charlie Kirk discussing Israel/Gaza with students including Dino Fonte Grassi (described as a July 2025 sit-down)",
+          "description": "Archival audio of Charlie Kirk discussing Israel/Gaza with students including Dino Fantegrossi (described as a July 2025 sit-down)",
           "related_claims": [
             "C-2511",
             "C-2523",
@@ -644,8 +644,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-152",
-      "ref": "N-152",
+      "@id": "N-151",
+      "ref": "N-151",
       "name": "Taylor Budowich",
       "type": "person",
       "description": "Trump-world communications figure. Host cites his posts and names him among Epstein situation-room attendees.",
@@ -741,8 +741,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-148",
-      "ref": "N-148",
+      "@id": "N-147",
+      "ref": "N-147",
       "name": "Theo Von",
       "type": "person",
       "description": "Host notes Theo Von episode released / >1M views; kids call him Uncle Theo.",
@@ -761,8 +761,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-211",
-      "ref": "N-211",
+      "@id": "N-210",
+      "ref": "N-210",
       "name": "Joe Kent",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -789,8 +789,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-246",
-      "ref": "N-246",
+      "@id": "N-245",
+      "ref": "N-245",
       "name": "Mark Levin",
       "type": "person",
       "description": "Conservative commentator; named as defender of Alan Dershowitz.",
@@ -807,8 +807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-275",
-      "ref": "N-275",
+      "@id": "N-274",
+      "ref": "N-274",
       "name": "Mike Huckabee",
       "type": "person",
       "description": "Father of Sarah Huckabee Sanders; named by host as contextually relevant to Israel theme.",
@@ -827,8 +827,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-454",
-      "ref": "N-454",
+      "@id": "N-453",
+      "ref": "N-453",
       "name": "Lindsey Graham",
       "type": "person",
       "description": "US Senator; subject of critique in Charlie Kirk and Tucker Carlson audio clips.",
@@ -843,8 +843,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-536",
-      "ref": "N-536",
+      "@id": "N-535",
+      "ref": "N-535",
       "name": "Alan Dershowitz",
       "type": "person",
       "description": "Attorney and Epstein associate; cited as having recounted a massage from a woman named \"Olga\" at Epstein's place; defended by Mark Levin and Bari Weiss.",
@@ -859,8 +859,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-584",
-      "ref": "N-584",
+      "@id": "N-583",
+      "ref": "N-583",
       "name": "Sarah Huckabee Sanders",
       "type": "person",
       "description": "Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.",
@@ -1036,8 +1036,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Named by the host among those TPUSA presents as authorities.",
@@ -1053,8 +1053,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Named by the host among those TPUSA presents as authorities.",
@@ -1070,8 +1070,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Named in the host's chart-position comparison.",
@@ -1087,8 +1087,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-276",
-      "ref": "N-276",
+      "@id": "N-275",
+      "ref": "N-275",
       "name": "Jonathan Pollard",
       "type": "person",
       "description": "Named by the host in her remark on Huckabee's support.",
@@ -1104,8 +1104,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Director of National Intelligence; the host says Kent worked in her office.",
@@ -1121,8 +1121,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-556",
-      "ref": "N-556",
+      "@id": "N-555",
+      "ref": "N-555",
       "name": "Carrie Prejean Bowler",
       "type": "person",
       "description": "Speaker at the Catholics for Catholics event.",
@@ -1138,8 +1138,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-586",
-      "ref": "N-586",
+      "@id": "N-585",
+      "ref": "N-585",
       "name": "Renee Crossman",
       "type": "person",
       "description": "Erika Kirk's Romanian partner whose religious background the host is researching.",
@@ -1156,8 +1156,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "Named as Kirk's correspondent in the host's account of his messages.",
@@ -1173,8 +1173,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-602",
-      "ref": "N-602",
+      "@id": "N-601",
+      "ref": "N-601",
       "name": "Scott Bessent",
       "type": "person",
       "description": "Treasury Secretary pulled to the Situation Room.",
@@ -1489,9 +1489,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-944",
-      "ref": "N-944",
-      "name": "Dino Fonte Grassi",
+      "@id": "N-943",
+      "ref": "N-943",
+      "name": "Dino Fantegrossi",
       "type": "person",
       "description": "First named by the host at 00:31:39 in episode 80 (also rendered Dino Fontegrassi). President of the Turning Point USA University of Arkansas chapter who wrote the disaffiliation letter.",
       "related_artifacts": [],
@@ -1510,8 +1510,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-945",
-      "ref": "N-945",
+      "@id": "N-944",
+      "ref": "N-944",
       "name": "Shannon Kent",
       "type": "person",
       "description": "First named by the host at 00:03:18 in episode 80. Joe Kent's late wife, whom the host says was killed by a suicide bomber in Syria in January 2019.",
@@ -1528,8 +1528,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-946",
-      "ref": "N-946",
+      "@id": "N-945",
+      "ref": "N-945",
       "name": "Johnny Yep",
       "type": "person",
       "description": "First named by the host at 00:23:57 in episode 80 (transcribed as Johnny Yep and Johnny Yep). Organizer of Catholics for Catholics, per the host's description of the event organizer and a web check of the event.",
@@ -1582,7 +1582,7 @@
       "claim_timestamp": "00:04:57",
       "investigative_direction": "Cross-reference the date of the letter against public Federal Register / White House personnel announcement records to confirm effective date and replacement timeline.",
       "mentions_person_refs": [
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -1599,7 +1599,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:57",
-      "investigative_direction": "Compare Kent's stated threat assessment against publicly available U.S. intelligence community products and ODNI statements from the relevant period."
+      "investigative_direction": "Compare Kent's stated threat assessment against publicly available U.S. intelligence community products and ODNI statements from the relevant period.",
+      "mentions_person_refs": [
+        "N-210"
+      ]
     },
     {
       "@type": "Claim",
@@ -1615,7 +1618,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:57",
-      "investigative_direction": "Verify Kent's specific allegations against any documented lobbying communications or pressure patterns referenced in his letter."
+      "investigative_direction": "Verify Kent's specific allegations against any documented lobbying communications or pressure patterns referenced in his letter.",
+      "mentions_person_refs": [
+        "N-210"
+      ]
     },
     {
       "@type": "Claim",
@@ -1630,8 +1636,12 @@
         "N-10546"
       ],
       "tags": [],
-      "claim_timestamp": "00:04:57",
-      "investigative_direction": "Verify Kent's DD-214-equivalent service record and Shannon Kent's military casualty record against publicly available DoD releases."
+      "claim_timestamp": "00:06:10",
+      "investigative_direction": "Verify Kent's DD-214-equivalent service record and Shannon Kent's military casualty record against publicly available DoD releases.",
+      "mentions_person_refs": [
+        "N-210",
+        "N-944"
+      ]
     },
     {
       "@type": "Claim",
@@ -1649,7 +1659,8 @@
       "claim_timestamp": "00:07:42",
       "investigative_direction": "Confirm exact wording against the full White House transcript or press pool video of the same appearance.",
       "mentions_person_refs": [
-        "N-211"
+        "N-5",
+        "N-210"
       ]
     },
     {
@@ -1666,7 +1677,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:23",
-      "investigative_direction": "Confirm specific language against the official White House transcript of the appearance."
+      "investigative_direction": "Confirm specific language against the official White House transcript of the appearance.",
+      "mentions_person_refs": [
+        "N-5"
+      ]
     },
     {
       "@type": "Claim",
@@ -1684,7 +1698,8 @@
       "claim_timestamp": "00:14:29",
       "investigative_direction": "Verify the exact X post text against Graham's verified account at the timestamp indicated.",
       "mentions_person_refs": [
-        "N-454"
+        "N-210",
+        "N-453"
       ]
     },
     {
@@ -1700,10 +1715,11 @@
         "N-10546"
       ],
       "tags": [],
-      "claim_timestamp": "00:15:07",
+      "claim_timestamp": "00:14:40",
       "investigative_direction": "Confirm against Levin's verified X account and compare with any subsequent official statements about Kent's separation.",
       "mentions_person_refs": [
-        "N-246"
+        "N-210",
+        "N-245"
       ]
     },
     {
@@ -1719,10 +1735,11 @@
         "N-10546"
       ],
       "tags": [],
-      "claim_timestamp": "00:16:55",
+      "claim_timestamp": "00:16:10",
       "investigative_direction": "Confirm against Levin's verified X account and monitor for any DOJ response.",
       "mentions_person_refs": [
-        "N-246"
+        "N-210",
+        "N-245"
       ]
     },
     {
@@ -1741,8 +1758,10 @@
       "claim_timestamp": "00:15:07–00:15:58",
       "investigative_direction": "Verify Loomer's allegation against Shannon Kent's actual employment record (she is deceased per Kent's own letter); check for fact-check rebuttals.",
       "mentions_person_refs": [
+        "N-5",
         "N-49",
-        "N-60"
+        "N-60",
+        "N-210"
       ]
     },
     {
@@ -1758,10 +1777,11 @@
         "N-10546"
       ],
       "tags": [],
-      "claim_timestamp": "00:15:58",
+      "claim_timestamp": "00:15:40",
       "investigative_direction": "Confirm exact text against Dershowitz's verified X account.",
       "mentions_person_refs": [
-        "N-536"
+        "N-210",
+        "N-535"
       ]
     },
     {
@@ -1777,10 +1797,11 @@
         "N-10546"
       ],
       "tags": [],
-      "claim_timestamp": "00:16:55",
+      "claim_timestamp": "00:16:00",
       "investigative_direction": "Confirm exact text against Budowich's verified X account.",
       "mentions_person_refs": [
-        "N-152"
+        "N-151",
+        "N-210"
       ]
     },
     {
@@ -1797,7 +1818,7 @@
       "claim_timestamp": "00:20:55",
       "investigative_direction": "Confirm against the original Theo Von podcast episode and timestamp.",
       "mentions_person_refs": [
-        "N-148"
+        "N-147"
       ]
     },
     {
@@ -1813,12 +1834,8 @@
         "N-10545"
       ],
       "tags": [],
-      "claim_timestamp": "00:31:39",
-      "investigative_direction": "Verify against an official TPUSA statement (or silence) on the disaffiliation and confirm the chapter's standing with national TPUSA.",
-      "mentions_person_refs": [
-        "N-1",
-        "N-2"
-      ]
+      "claim_timestamp": "00:30:50",
+      "investigative_direction": "Verify against an official TPUSA statement (or silence) on the disaffiliation and confirm the chapter's standing with national TPUSA."
     },
     {
       "@type": "Claim",
@@ -1841,7 +1858,7 @@
       "@id": "C-2509",
       "ref": "C-2509",
       "label": "Host Says Fonte Grassi Authored Chapter Statement",
-      "claim": "The host says the chapter president, Dino Fonte Grassi, published a letter on Instagram, and that the executive board's decision to disaffiliate was unanimous.",
+      "claim": "The host says the chapter president, Dino Fantegrossi, published a letter on Instagram, and that the executive board's decision to disaffiliate was unanimous.",
       "anchored_artifacts": [
         "A-1870.1"
       ],
@@ -1849,8 +1866,11 @@
         "N-10545"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:20",
-      "investigative_direction": "Verify against Fonte Grassi's verified Instagram account; confirm \"unanimous\" via any other executive board members' public statements."
+      "claim_timestamp": "00:31:40",
+      "investigative_direction": "Verify against Fonte Grassi's verified Instagram account; confirm \"unanimous\" via any other executive board members' public statements.",
+      "mentions_person_refs": [
+        "N-943"
+      ]
     },
     {
       "@type": "Claim",
@@ -1868,15 +1888,16 @@
       "claim_timestamp": "00:32:20",
       "investigative_direction": "Cross-reference specific TPUSA statements attributed to Charlie's posthumous voice against Kirk's documented prior positions.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-943"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2511",
       "ref": "C-2511",
-      "label": "Host Says Fonte Grassi Participated in Kirk's July 2025 Israel/Gaza Discussion",
-      "claim": "The host says Dino Fonte Grassi participated in a July 2025 Charlie Kirk sit-down discussing Israel and Gaza with students.",
+      "label": "Host Says Fonte Grassi Participated in Kirk's July Israel/Gaza Discussion",
+      "claim": "The host says Dino Fantegrossi was part of a Charlie Kirk sit-down in July discussing Israel and Gaza with students.",
       "anchored_artifacts": [
         "A-1871.1"
       ],
@@ -1884,10 +1905,11 @@
         "N-10545"
       ],
       "tags": [],
-      "claim_timestamp": "00:33:39",
+      "claim_timestamp": "00:33:20",
       "investigative_direction": "Verify the date, venue, and Fonte Grassi's participation against the original video; identify other participants.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-943"
       ]
     },
     {
@@ -1904,7 +1926,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:47:24",
-      "investigative_direction": "Confirm against full interview video; identify the original outlet and date of the interview."
+      "investigative_direction": "Confirm against full interview video; identify the original outlet and date of the interview.",
+      "mentions_person_refs": [
+        "N-601"
+      ]
     },
     {
       "@type": "Claim",
@@ -1920,13 +1945,16 @@
       ],
       "tags": [],
       "claim_timestamp": "00:47:40",
-      "investigative_direction": "Confirm exact wording against interview transcript; cross-reference subsequent official Iran-mission updates."
+      "investigative_direction": "Confirm exact wording against interview transcript; cross-reference subsequent official Iran-mission updates.",
+      "mentions_person_refs": [
+        "N-601"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-2514",
       "ref": "C-2514",
-      "label": "Host Says Three DC-Area Airports Shut Down March 13",
+      "label": "Host Says Four DC-Area Airports Shut Down March 13",
       "claim": "The host says that on March 13, Reagan National (DCA), Baltimore-Washington (BWI), and Richmond (RIC) airports were simultaneously shut down.",
       "anchored_artifacts": [
         "A-1874.1"
@@ -1959,7 +1987,7 @@
       "@id": "C-2516",
       "ref": "C-2516",
       "label": "Netanyahu Posts Official Account Video March 14",
-      "claim": "Following a rumored Iranian missile strike, Benjamin Netanyahu's official account posted a video on March 14 that appeared to viewers to have smoothed facial features.",
+      "claim": "The host says that, after a rumor that Netanyahu was hit by an Iranian missile, the Prime Minister's official account posted a video on the 14th that she says feels AI and shows him with a smoothed-out face.",
       "anchored_artifacts": [
         "A-1875.1"
       ],
@@ -1967,7 +1995,7 @@
         "N-10544"
       ],
       "tags": [],
-      "claim_timestamp": "00:50:05",
+      "claim_timestamp": "00:49:10",
       "investigative_direction": "Confirm against the official account's posting record; subject the video to forensic/AI-generation analysis.",
       "mentions_person_refs": [
         "N-36"
@@ -1987,7 +2015,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:50:05",
-      "investigative_direction": "Verify against official Israeli government / Knesset scheduling records."
+      "investigative_direction": "Verify against official Israeli government / Knesset scheduling records.",
+      "mentions_person_refs": [
+        "N-36"
+      ]
     },
     {
       "@type": "Claim",
@@ -2010,7 +2041,7 @@
       "@id": "C-2519",
       "ref": "C-2519",
       "label": "Netanyahu Posts Huckabee Video March 15",
-      "claim": "Benjamin Netanyahu posted a hyper-produced HD video with U.S. Ambassador Mike Huckabee on March 15, ostensibly to prove he is alive.",
+      "claim": "The host says Netanyahu posted another hyper-produced video of himself and Mike Huckabee joking about him being alive, on the day of the show.",
       "anchored_artifacts": [
         "A-1876.1"
       ],
@@ -2018,11 +2049,11 @@
         "N-10544"
       ],
       "tags": [],
-      "claim_timestamp": "00:53:23",
+      "claim_timestamp": "00:52:15",
       "investigative_direction": "Confirm posting timestamp against official channels; subject video to production analysis.",
       "mentions_person_refs": [
         "N-36",
-        "N-275"
+        "N-274"
       ]
     },
     {
@@ -2038,15 +2069,18 @@
         "N-10544"
       ],
       "tags": [],
-      "claim_timestamp": "00:52:32",
-      "investigative_direction": "Confirm against Israeli government press releases and Knesset/Prime Minister's Office daily schedule."
+      "claim_timestamp": "00:51:55",
+      "investigative_direction": "Confirm against Israeli government press releases and Knesset/Prime Minister's Office daily schedule.",
+      "mentions_person_refs": [
+        "N-36"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-2521",
       "ref": "C-2521",
       "label": "Host Says Erika Kirk Appeared with Sarah Huckabee Sanders in Arkansas",
-      "claim": "The host says Erica Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.",
+      "claim": "The host says Erika Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.",
       "anchored_artifacts": [
         "A-1869.1"
       ],
@@ -2054,11 +2088,11 @@
         "N-10545"
       ],
       "tags": [],
-      "claim_timestamp": "00:31:39",
+      "claim_timestamp": "00:30:20",
       "investigative_direction": "Verify event date and content against Governor Sanders's official schedule and TPUSA press materials.",
       "mentions_person_refs": [
         "N-2",
-        "N-584"
+        "N-583"
       ]
     },
     {
@@ -2077,8 +2111,7 @@
       "claim_timestamp": "00:31:39",
       "investigative_direction": "Obtain the actual proclamation text from the Arkansas Secretary of State's office.",
       "mentions_person_refs": [
-        "N-2",
-        "N-584"
+        "N-583"
       ]
     },
     {
@@ -2158,8 +2191,8 @@
       "investigative_direction": "Check the Department of Defense casualty release and contemporaneous news reports on the January 2019 Manbij bombing for the date, cause and the 'first female' description.",
       "transcript_snippet": "Shannon was the first female combat combat death in Syria uh since combat operations began against ISIS.",
       "mentions_person_refs": [
-        "N-211",
-        "N-945"
+        "N-210",
+        "N-944"
       ]
     },
     {
@@ -2179,8 +2212,8 @@
       "investigative_direction": "Compare against DoD casualty lists of female service members killed by hostile fire from 2015 to 2019.",
       "transcript_snippet": "she was also the first female US service member that was killed by enemy fire in more than 3 years up until that point.",
       "mentions_person_refs": [
-        "N-211",
-        "N-945"
+        "N-210",
+        "N-944"
       ]
     },
     {
@@ -2205,7 +2238,7 @@
         "C-2496"
       ],
       "mentions_person_refs": [
-        "N-211",
+        "N-210",
         "N-5"
       ]
     },
@@ -2229,7 +2262,7 @@
       "investigative_direction": "Compare the letter's June 2025 turning point with the June 2025 strikes on Iran and Charlie Kirk's June 2025 opposition to the war.",
       "transcript_snippet": "Until June of 2025, you understood that the wars in the Middle East were a trap that robbed America of the precious lives of our patriots and depleted the wealth and prosperity of our nation.",
       "mentions_person_refs": [
-        "N-211",
+        "N-210",
         "N-5"
       ]
     },
@@ -2256,7 +2289,7 @@
         "C-2496"
       ],
       "mentions_person_refs": [
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -2282,7 +2315,7 @@
       ],
       "mentions_person_refs": [
         "N-5",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -2290,7 +2323,7 @@
       "@id": "C-14393",
       "ref": "C-14393",
       "label": "Trump Says Obama Flew Boeing 757s Loaded With Cash to Iran",
-      "claim": "In the clip Trump says the Obama administration sent two Boeing 757s loaded with hundreds of millions of dollars in cash to Iran, with the seats taken out, so much that no bank in Virginia, Maryland or DC had money left.",
+      "claim": "In the clip Trump says the Obama administration sent hundreds of millions of dollars in cash to Iran on a Boeing 757, \"I think there two of them,\" with the seats taken out, so much that no bank in Virginia, Maryland or DC had money left.",
       "anchored_artifacts": [
         "A-1862.1"
       ],
@@ -2323,7 +2356,7 @@
       "transcript_snippet": "Exactly what Charlie had intimated in those messages with Bret Weinstein.",
       "mentions_person_refs": [
         "N-1",
-        "N-594",
+        "N-593",
         "N-5"
       ]
     },
@@ -2388,8 +2421,8 @@
         "C-2501"
       ],
       "mentions_person_refs": [
-        "N-246",
-        "N-211"
+        "N-245",
+        "N-210"
       ]
     },
     {
@@ -2415,7 +2448,7 @@
       ],
       "mentions_person_refs": [
         "N-60",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -2436,7 +2469,7 @@
       "transcript_snippet": "Joe Kent I'm going to be interviewing him this Thursday at the Catholics for Catholics event in DC.",
       "mentions_person_refs": [
         "N-3",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -2456,7 +2489,7 @@
       "investigative_direction": "Ask the organizers for the cancellation emails and calls received, and check the published event agenda.",
       "transcript_snippet": "They have just been emailing everyone calling everybody asking for cancellations",
       "mentions_person_refs": [
-        "N-556",
+        "N-555",
         "N-3"
       ]
     },
@@ -2496,7 +2529,7 @@
       "investigative_direction": "Verify wording against the original Theo Von podcast episode.",
       "transcript_snippet": "I believe that that will come here one day. I don't believe that uh that the Israeli leaders that they have any intention to to stop that.",
       "mentions_person_refs": [
-        "N-148"
+        "N-147"
       ]
     },
     {
@@ -2516,7 +2549,7 @@
       "investigative_direction": "Verify wording against the original Theo Von podcast episode.",
       "transcript_snippet": "I believe that if we don't speak up now that our children won't have the chance to speak up. Either by law or by worse.",
       "mentions_person_refs": [
-        "N-148"
+        "N-147"
       ]
     },
     {
@@ -2536,7 +2569,7 @@
       "investigative_direction": "Verify wording against the original Theo Von podcast episode.",
       "transcript_snippet": "why we are so beholden to these to this government this Israeli government that that just seems to be obsessed with uh control.",
       "mentions_person_refs": [
-        "N-148",
+        "N-147",
         "N-5"
       ]
     },
@@ -2558,7 +2591,7 @@
       "investigative_direction": "Ask Catholics for Catholics for the harassment communications it received and compare with the host's description.",
       "transcript_snippet": "the pain that they have put him through, the harassment that they have gone through because you're not allowed to have an event if it's with somebody that doesn't support mass murder in Gaza.",
       "mentions_person_refs": [
-        "N-946",
+        "N-945",
         "N-3"
       ]
     },
@@ -2626,7 +2659,7 @@
         "C-1952"
       ],
       "mentions_person_refs": [
-        "N-211",
+        "N-210",
         "N-69",
         "N-1"
       ]
@@ -2673,8 +2706,8 @@
       "investigative_direction": "Check ODNI and NCTC organizational reporting lines and whether either office was tasked on the Kirk case.",
       "transcript_snippet": "Because that would have shifted the investigation into Tulsi's office, which is where Joe Kent was working.",
       "mentions_person_refs": [
-        "N-331",
-        "N-211",
+        "N-330",
+        "N-210",
         "N-69"
       ]
     },
@@ -2699,7 +2732,7 @@
         "C-2522"
       ],
       "mentions_person_refs": [
-        "N-584",
+        "N-583",
         "N-2"
       ]
     },
@@ -2708,7 +2741,7 @@
       "@id": "C-14412",
       "ref": "C-14412",
       "label": "Host Says Chapter President Has Been With TPUSA Over 5 Years",
-      "claim": "The host says the Arkansas chapter president, Dino Fonte Grassi, has been with Turning Point USA for more than five years.",
+      "claim": "The host says the Arkansas chapter president, Dino Fantegrossi, has been with Turning Point USA for more than five years.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10545"
@@ -2720,7 +2753,7 @@
       "investigative_direction": "Check chapter records and Fonte Grassi's public history with TPUSA.",
       "transcript_snippet": "he's been with Turning Point USA for more than 5 years.",
       "mentions_person_refs": [
-        "N-944"
+        "N-943"
       ]
     },
     {
@@ -2728,7 +2761,7 @@
       "@id": "C-14413",
       "ref": "C-14413",
       "label": "Host Says TPUSA Staff Including One in Kolvet's Office Say Something Has Changed",
-      "claim": "The host says people working at Turning Point USA, including a person in Andrew Kolvet's office, are telling her something has changed and is not right.",
+      "claim": "The host says people working at Turning Point USA, including a person in Andrew Kolvet's office, are telling people that something has changed and is not right.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -2764,7 +2797,7 @@
       "investigative_direction": "Verify the text against Fonte Grassi's Instagram post and ask TPUSA whether it received the private grievances.",
       "transcript_snippet": "we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one.",
       "mentions_person_refs": [
-        "N-944"
+        "N-943"
       ]
     },
     {
@@ -2789,7 +2822,7 @@
         "C-2510"
       ],
       "mentions_person_refs": [
-        "N-944",
+        "N-943",
         "N-1"
       ]
     },
@@ -2813,7 +2846,7 @@
       "transcript_snippet": "He sort of just sat up with a bunch of students and tried to get their opinion to show donors like you can't treat these kids like this.",
       "mentions_person_refs": [
         "N-1",
-        "N-944"
+        "N-943"
       ]
     },
     {
@@ -2829,7 +2862,7 @@
         "N-10545"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:34:22",
       "investigative_direction": "Verify the quote and the dollar figures exchanged in the original recording.",
@@ -2847,7 +2880,7 @@
       "@id": "C-14418",
       "ref": "C-14418",
       "label": "Host Says Fonte Grassi Appeared on the Charlie Kirk Show After the Assassination",
-      "claim": "The host says she believes Dino Fonte Grassi appeared on The Charlie Kirk Show after Kirk was assassinated.",
+      "claim": "The host says she believes Dino Fantegrossi appeared on The Charlie Kirk Show after Kirk was assassinated.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10545"
@@ -2859,7 +2892,7 @@
       "investigative_direction": "Check Charlie Kirk Show episode listings for Fonte Grassi after September 10, 2025.",
       "transcript_snippet": "He was also on the Charlie Kirk show. I believe he was on it actually after Charlie Kirk assassinated.",
       "mentions_person_refs": [
-        "N-944",
+        "N-943",
         "N-1"
       ]
     },
@@ -2878,8 +2911,8 @@
       "investigative_direction": "List the specific questions put to TPUSA and its responses.",
       "transcript_snippet": "so much so that we won't even help the public investigate what happened on that day. Things that in no way would transform the ongoing investigation.",
       "mentions_person_refs": [
-        "N-161",
-        "N-192",
+        "N-160",
+        "N-191",
         "N-3"
       ]
     },
@@ -2943,7 +2976,7 @@
         "C-2470"
       ],
       "mentions_person_refs": [
-        "N-586",
+        "N-585",
         "N-2",
         "N-3"
       ]
@@ -2969,7 +3002,7 @@
         "C-2470"
       ],
       "mentions_person_refs": [
-        "N-586"
+        "N-585"
       ]
     },
     {
@@ -3137,7 +3170,7 @@
         "N-10544"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:45:51",
       "investigative_direction": "Check official Israeli government schedules and statements for the period.",
@@ -3159,7 +3192,7 @@
         "N-10544"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:45:51",
       "investigative_direction": "Match the clip against official Israeli government release of the March 10 visit.",
@@ -3179,7 +3212,7 @@
         "N-10544"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:46:37",
       "investigative_direction": "Trace the origin of the rumor and compare with Israeli military and government statements.",
@@ -3201,7 +3234,7 @@
         "N-10544"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:47:24",
       "investigative_direction": "Check White House schedules for the Situation Room meeting length and attendees on March 12.",
@@ -3210,7 +3243,7 @@
         "C-2512"
       ],
       "mentions_person_refs": [
-        "N-602"
+        "N-601"
       ]
     },
     {
@@ -3226,7 +3259,7 @@
         "N-10544"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:48:48",
       "investigative_direction": "Check FAA ground stop logs and airport authority statements for the stated cause and duration.",
@@ -3249,7 +3282,7 @@
         "N-10544"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:48:48",
       "investigative_direction": "Run frame-level forensic analysis of the posted video.",
@@ -3266,7 +3299,7 @@
       "@id": "C-14437",
       "ref": "C-14437",
       "label": "Host Says She Thinks Netanyahu May Be Injured",
-      "claim": "The host says she does not know if Netanyahu is dead but thinks he may be injured and that the HD production may be hiding his face.",
+      "claim": "The host says she does not know if Netanyahu is dead but thinks he may be injured, and wonders if the HD production is because of his face.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10544"
@@ -3287,7 +3320,7 @@
       "@id": "C-14438",
       "ref": "C-14438",
       "label": "Netanyahu in Huckabee Video Says He Erased Two Names on a Punch Card",
-      "claim": "In the video Netanyahu tells Mike Huckabee he erased two names on the punch cards that day and Huckabee's name is not on the card.",
+      "claim": "In the video Netanyahu tells Mike Huckabee he erased two names on the punch cards that day, and says his name is not on the punch card and Huckabee's name is on the list of the good guys.",
       "anchored_artifacts": [
         "A-1876.1"
       ],
@@ -3302,14 +3335,14 @@
       "transcript_snippet": "Today I erased two names on the punch cards and you see how many more to go on this batch.",
       "mentions_person_refs": [
         "N-36",
-        "N-275"
+        "N-274"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-14439",
       "ref": "C-14439",
-      "label": "Huckabee in Video Says US Forces Are Wiping Out Iran's Leaders",
+      "label": "Huckabee in Video Says US Forces Are Getting Rid of Lunatics Seeking Nuclear Weapons",
       "claim": "In the video Mike Huckabee says the president and US forces are getting rid of lunatics who would build nuclear weapons and deliver them to every American city after wiping out Israel.",
       "anchored_artifacts": [
         "A-1876.1"
@@ -3324,7 +3357,7 @@
       "investigative_direction": "Verify wording against the original video.",
       "transcript_snippet": "getting rid of these lunatics who would like to develop nuclear weapons and the means to deliver them to every American city after wiping out Israel.",
       "mentions_person_refs": [
-        "N-275",
+        "N-274",
         "N-36"
       ]
     },
@@ -3339,7 +3372,7 @@
         "N-10544"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:54:12",
       "investigative_direction": "Check Israeli government releases for any air base visit on March 17.",
@@ -3353,7 +3386,7 @@
       "@type": "Claim",
       "@id": "C-14441",
       "ref": "C-14441",
-      "label": "Host Says Bots Sent 3,000 Emails to a Catholic Conference and No Protesters Came",
+      "label": "Host Says Bought Emails Hit a Catholic Conference and No Protesters Came",
       "claim": "The host says that two years ago a different Catholic conference where she spoke received about 3,000 near-identical bought emails predicting protests, the venue raised security, and nobody showed up.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -3451,7 +3484,7 @@
       "@id": "C-14446",
       "ref": "C-14446",
       "label": "Host Says Her Podcast Is Tied for Top of Global Charts at 3.2 Million Daily Downloads",
-      "claim": "The host says her show is back at the top of the charts globally, in a three-way tie with Joe Rogan and the Kill Tony podcast, at 3.2 million audio downloads daily.",
+      "claim": "The host says her show is back at the top of the charts globally, and that she thinks it is in a three-way tie with Joe Rogan and the Kill Tony podcast, at 3.2 million audio downloads daily.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11228"
@@ -3464,7 +3497,7 @@
       "transcript_snippet": "I think I'm in a a three-way tie actually with uh, Joe Rogan and the Kill Tony podcast. 3.2 million uh, audio downloads daily.",
       "mentions_person_refs": [
         "N-3",
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -3482,8 +3515,8 @@
       "investigative_direction": "Check Huckabee's public statements on Pollard; the blackmail remark is speculation recorded as said.",
       "transcript_snippet": "he notoriously supported Jonathan Pollard who was a literal American spy.",
       "mentions_person_refs": [
+        "N-274",
         "N-275",
-        "N-276",
         "N-3"
       ]
     },
@@ -3492,7 +3525,7 @@
       "@id": "C-14448",
       "ref": "C-14448",
       "label": "Host Says Netanyahu Has Said Rome Is a Problem",
-      "claim": "The host says Netanyahu has said Rome is a problem, and that critics of Catholics dislike them because Catholics are less likely to bend to commands.",
+      "claim": "The host says Netanyahu has said Rome is a problem, and that 'they' do not like Catholics because Catholics are less likely to bend to commands.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

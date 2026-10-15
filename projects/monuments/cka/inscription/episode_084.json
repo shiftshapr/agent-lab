@@ -32,7 +32,7 @@
             "C-3781"
           ],
           "related_nodes": [
-            "N-599",
+            "N-598",
             "N-2",
             "N-10108",
             "N-10074"
@@ -105,7 +105,7 @@
           "description": "Baron Coleman clip explaining why Kolvet's Santa Barbara departure time matters",
           "related_claims": [],
           "related_nodes": [
-            "N-332",
+            "N-331",
             "N-14",
             "N-10554"
           ],
@@ -129,8 +129,8 @@
             "C-3820"
           ],
           "related_nodes": [
-            "N-332",
-            "N-248",
+            "N-331",
+            "N-247",
             "N-10903"
           ],
           "tags": [],
@@ -165,8 +165,8 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-495",
-            "N-553",
+            "N-494",
+            "N-552",
             "N-15",
             "N-10547"
           ],
@@ -275,7 +275,7 @@
             "C-3807"
           ],
           "related_nodes": [
-            "N-219",
+            "N-218",
             "N-2"
           ],
           "tags": [],
@@ -301,7 +301,7 @@
             "C-3809"
           ],
           "related_nodes": [
-            "N-598",
+            "N-597",
             "N-2"
           ],
           "tags": [],
@@ -319,7 +319,7 @@
             "C-3810"
           ],
           "related_nodes": [
-            "N-245",
+            "N-244",
             "N-2"
           ],
           "tags": [],
@@ -338,7 +338,7 @@
           ],
           "related_nodes": [
             "N-106",
-            "N-598"
+            "N-597"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -380,7 +380,7 @@
             "C-3813"
           ],
           "related_nodes": [
-            "N-602",
+            "N-601",
             "N-10000"
           ],
           "tags": [],
@@ -406,7 +406,7 @@
             "C-3823"
           ],
           "related_nodes": [
-            "N-188"
+            "N-187"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -776,8 +776,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-188",
-      "ref": "N-188",
+      "@id": "N-187",
+      "ref": "N-187",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "Named on the scanner-based hospital escort list; host confirms she lives in the Kirks' complex.",
@@ -797,8 +797,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host says he and Elizabeth are at the Kirks' complex every day.",
@@ -814,8 +814,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-211",
-      "ref": "N-211",
+      "@id": "N-210",
+      "ref": "N-210",
       "name": "Joe Kent",
       "type": "person",
       "description": "Host says Kolvet blames him for circulating the leaked text message.",
@@ -831,8 +831,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-212",
+      "ref": "N-212",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Transcript spelling \"Jesse Watters\". His interview with Erika Kirk is contrasted with the New York Times account.",
@@ -848,8 +848,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-219",
-      "ref": "N-219",
+      "@id": "N-218",
+      "ref": "N-218",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Transcript spellings \"Elizabeth McCord\" and \"Elizabeth McCoy\". Her account and October Instagram post on Erika Kirk learning of the death are compared with the New York Times version.",
@@ -871,8 +871,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-245",
-      "ref": "N-245",
+      "@id": "N-244",
+      "ref": "N-244",
       "name": "Grok",
       "type": "person",
       "description": "X AI reply misidentified Erika Kirk as the actress in the Druski skit.",
@@ -890,8 +890,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-248",
-      "ref": "N-248",
+      "@id": "N-247",
+      "ref": "N-247",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "Named by Baron Coleman as part of the security team in Montana on October 5.",
@@ -909,8 +909,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Transcript spelling \"Brian Harpool\". Subject of Mitch Snow's Fort Huachuca sighting.",
@@ -927,8 +927,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Researcher whose clips argue the significance of Kolvet's departure time and track the TPUSA-associated plane N582MM.",
@@ -952,8 +952,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Referred to as \"Mitch\"; his account of seeing Brian Harpole at Fort Huachuca on September 9 is restated.",
@@ -969,8 +969,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
+      "@id": "N-494",
+      "ref": "N-494",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Transcript spelling \"Marina Medvin\". Placed on the timeline as asking Aubrey to draft the death statement.",
@@ -988,8 +988,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-553",
-      "ref": "N-553",
+      "@id": "N-552",
+      "ref": "N-552",
       "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Named only as \"Aubrey\"; drafted the death statement and staff email per the host's timeline.",
@@ -1008,8 +1008,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-598",
-      "ref": "N-598",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Druski",
       "type": "person",
       "description": "First named by the host at 00:00:46 in episode 084. Comedian whose viral skit mocking conservative women is played. Aliases: Drewski; Druski; Jurski.",
@@ -1029,8 +1029,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-599",
-      "ref": "N-599",
+      "@id": "N-598",
+      "ref": "N-598",
       "name": "Sergeant Dupey",
       "type": "person",
       "description": "First named by the host at 00:01:24 in episode 084. Provo police sergeant named on the September 10 scanner recording as en route to Provo Airport for the victim's wife.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-600",
-      "ref": "N-600",
+      "@id": "N-599",
+      "ref": "N-599",
       "name": "Jamie (Charlie Kirk's pilot)",
       "type": "person",
       "description": "First named by the host at 00:11:05 in episode 084. Known to the host only by first name; possibly from Texas.",
@@ -1065,8 +1065,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-601",
-      "ref": "N-601",
+      "@id": "N-600",
+      "ref": "N-600",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "First named by the host at 00:14:28 in episode 084. Named among those escorted to Timpanogos Hospital and entering with Erika Kirk. Aliases: Cat.",
@@ -1083,8 +1083,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-602",
-      "ref": "N-602",
+      "@id": "N-601",
+      "ref": "N-601",
       "name": "Scott Bessent",
       "type": "person",
       "description": "First named by the host at 00:31:19 in episode 084. Host says he issued a letter stating Turning Point is in great financial standing.",
@@ -1587,8 +1587,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-332",
-        "N-248"
+        "N-331",
+        "N-247"
       ]
     },
     {
@@ -1608,7 +1608,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-600",
+        "N-599",
         "N-1"
       ]
     },
@@ -1678,7 +1678,7 @@
       "investigative_direction": "Obtain FAA/ADS-B track history for the aircraft later identified as N582MM and its registered owner or operator, and any charter records linking it to Turning Point USA.",
       "transcript_snippet": "Baron Coleman has discovered and I have confirmed that there was another plane that's associated with Turning Point USA that spent time at Fort Huachuca after the assassination",
       "mentions_person_refs": [
-        "N-332",
+        "N-331",
         "N-3"
       ]
     },
@@ -1724,7 +1724,7 @@
       "investigative_direction": "Obtain the archived Provo Police Department radio traffic for September 10, 2025 and the dispatch/CAD log for the airport pickup, and confirm the identity of Sergeant Dupey.",
       "transcript_snippet": "Uh myself and Sergeant Dupey are uh in route to Provo Airport. Uh victim's wife is arriving at 3:30.",
       "mentions_person_refs": [
-        "N-599",
+        "N-598",
         "N-2"
       ]
     },
@@ -1929,7 +1929,7 @@
       "@id": "C-3789",
       "ref": "C-3789",
       "label": "Kolvet said he learned of the death about 30 to 40 minutes after the shooting, before Trump's Truth Social post",
-      "claim": "In a recorded call played by the host, Andrew Kolvet said he learned Charlie Kirk had died \"probably 30 or 40 minutes\" after the shooting and before President Trump's Truth Social post.",
+      "claim": "In a clip the host plays, Andrew Kolvet, asked how long it took before he knew Charlie Kirk had died, says \"probably 30 or 40 minutes,\" before President Trump's Truth Social post.",
       "anchored_artifacts": [
         "A-2526.2"
       ],
@@ -1983,7 +1983,7 @@
       "investigative_direction": "Identify the charter operator of Charlie Kirk's aircraft and its pilot roster for September 10, 2025.",
       "transcript_snippet": "I know that his first name is Jamie, but that's all I know. I think he might be from Texas and I would like to know more about Jamie.",
       "mentions_person_refs": [
-        "N-600",
+        "N-599",
         "N-1"
       ]
     },
@@ -2072,8 +2072,8 @@
         "C-2535"
       ],
       "mentions_person_refs": [
-        "N-495",
-        "N-553",
+        "N-494",
+        "N-552",
         "N-14"
       ]
     },
@@ -2095,7 +2095,7 @@
       "transcript_snippet": "Justin Streiff is going to send the email that was drafted by Aubrey announcing Charlie's death to the entire Turning Point USA staff staff at 2:27.",
       "mentions_person_refs": [
         "N-15",
-        "N-553",
+        "N-552",
         "N-1"
       ]
     },
@@ -2160,10 +2160,10 @@
       "transcript_snippet": "from the police scanner that Erika, Elizabeth, and Tyler, and Stacy Sheridan, and Cat are going to be escorted to Timpanogos Hospital.",
       "mentions_person_refs": [
         "N-2",
-        "N-219",
+        "N-218",
         "N-11",
-        "N-188",
-        "N-601"
+        "N-187",
+        "N-600"
       ]
     },
     {
@@ -2184,9 +2184,9 @@
       "mentions_person_refs": [
         "N-14",
         "N-2",
-        "N-219",
-        "N-188",
-        "N-601",
+        "N-218",
+        "N-187",
+        "N-600",
         "N-11"
       ]
     },
@@ -2264,7 +2264,7 @@
       "@id": "C-3804",
       "ref": "C-3804",
       "label": "Erika Kirk's mother was not in the hospital September 8 through 10",
-      "claim": "The host asserts Erika Kirk's mother was not in the hospital on September 8, 9 or 10 and says she attends an outpatient-style treatment center instead.",
+      "claim": "The host asserts Erika Kirk's mother was not in the hospital on September 8, 9 or 10 and says she goes to an \"opt-in\" treatment center, like those at IV places.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10483",
@@ -2320,7 +2320,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-219"
+        "N-218"
       ]
     },
     {
@@ -2340,7 +2340,7 @@
       "investigative_direction": "Archive the original Instagram post with its date and any later edits.",
       "transcript_snippet": "No one teaches you how to comfort a a woman on a plane who only moments moments before became a widow on her way to face the reality of her husband's assassination moments before.",
       "mentions_person_refs": [
-        "N-219",
+        "N-218",
         "N-2"
       ]
     },
@@ -2362,7 +2362,7 @@
       "transcript_snippet": "She also slightly adjusts in the New York Times article when she says that she heard him like close the door when he left, but then later on we're going to hear that she saw him grab his necklace",
       "mentions_person_refs": [
         "N-2",
-        "N-213",
+        "N-212",
         "N-1"
       ]
     },
@@ -2381,7 +2381,7 @@
       "investigative_direction": "Archive the original skit post with its date and view counts.",
       "transcript_snippet": "Here is Druski Druski uh mocking conservative women, namely Erika Kirk.",
       "mentions_person_refs": [
-        "N-598",
+        "N-597",
         "N-2"
       ]
     },
@@ -2400,7 +2400,7 @@
       "investigative_direction": "Archive the Grok reply on X with its timestamp.",
       "transcript_snippet": "And Grok replied and said, \"That's Erika Kirk.\" Oh, the actress and comedian starring in Juicy Satirical Skits.",
       "mentions_person_refs": [
-        "N-245",
+        "N-244",
         "N-2"
       ]
     },
@@ -2420,7 +2420,7 @@
       "transcript_snippet": "Ted Cruz tweeted that this was beneath contempt.",
       "mentions_person_refs": [
         "N-106",
-        "N-598"
+        "N-597"
       ]
     },
     {
@@ -2460,7 +2460,7 @@
       "investigative_direction": "Locate the letter, its date, its author and the Treasury or personal capacity in which it was issued.",
       "transcript_snippet": "You can get Scott Bessent to issue a letter and say, \"Turning Point is in great financial standing.\"",
       "mentions_person_refs": [
-        "N-602"
+        "N-601"
       ]
     },
     {
@@ -2483,8 +2483,7 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-3",
-        "N-268"
+        "N-3"
       ]
     },
     {
@@ -2506,8 +2505,8 @@
         "C-1974"
       ],
       "mentions_person_refs": [
-        "N-363",
-        "N-268",
+        "N-362",
+        "N-267",
         "N-1"
       ]
     },
@@ -2529,7 +2528,7 @@
       "investigative_direction": "Pull ADS-B data for N582MM on September 10, 2025 and the charter or owner records for that leg.",
       "transcript_snippet": "It left Pierre, South Dakota, at 2:40 p. m. It landed in Chicago at 4:06 p. m. Less than an hour later, it it left for Provo.",
       "mentions_person_refs": [
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -2549,7 +2548,7 @@
       "investigative_direction": "Pull ADS-B data and Libby Army Airfield / Sierra Vista airport logs for N582MM on October 4, 2025.",
       "transcript_snippet": "This is Fort Huachuca. Atlanta to Fort Huachuca. It lands at 9:33 a. m. And it's there all day. It does not leave until 4:39 p. m.",
       "mentions_person_refs": [
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -2569,8 +2568,8 @@
       "investigative_direction": "Obtain flight data for the Kalispell-to-Bozeman private flight and identify attendees of the Fairy Lake gathering.",
       "transcript_snippet": "It was the following day, October 5th, when the security team, including Butch Hibbs, for some reason, random preacher's brother, is also there with them.",
       "mentions_person_refs": [
-        "N-248",
-        "N-332"
+        "N-247",
+        "N-331"
       ]
     },
     {
@@ -2592,7 +2591,7 @@
       "mentions_person_refs": [
         "N-4",
         "N-1",
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -2612,7 +2611,7 @@
       "investigative_direction": "Look up N582MM in the FAA registry for owner, operator and any charter certificate.",
       "transcript_snippet": "Cool. Okay, I was really wrong. N582MM is that tail number.",
       "mentions_person_refs": [
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -2639,7 +2638,7 @@
       "@id": "C-3822",
       "ref": "C-3822",
       "label": "Kolvet blames Joe Kent for the text leak but told many people about the text",
-      "claim": "The host says Andrew Kolvet believes he gave the text message to Joe Kent and that Kent circulated it, but that Kolvet himself told everybody, including the host, about the text message.",
+      "claim": "The host says Andrew Kolvet believes he gave the text message to Joe Kent and that Kent maybe sent it around to other people, but that Kolvet himself told everybody, including the host, about the text message.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10551",
@@ -2651,7 +2650,7 @@
       "transcript_snippet": "Andrew believes that Joe he gave it to Joe Kent and maybe Joe Kent sent it around to other people and it made the rounds, but Andrew told everybody about that text message.",
       "mentions_person_refs": [
         "N-14",
-        "N-211",
+        "N-210",
         "N-3"
       ]
     },
@@ -2670,9 +2669,9 @@
       "investigative_direction": "Check property and HOA records for the residential complex and confirm residency through public records.",
       "transcript_snippet": "Yeah, she does, and I find it to be very weird and very creepy. Uh Mikey McCoy, I don't know if he has a place there, him and Elizabeth, but they are there all the time",
       "mentions_person_refs": [
-        "N-188",
-        "N-192",
-        "N-219",
+        "N-187",
+        "N-191",
+        "N-218",
         "N-1",
         "N-2"
       ]
@@ -2732,8 +2731,7 @@
       "investigative_direction": "Check the Utah County court docket for Tyler Robinson's case status as of March 26, 2026.",
       "transcript_snippet": "We haven't had his arraignment, guys. How are we saying Tyler Robinson did it?",
       "mentions_person_refs": [
-        "N-40",
-        "N-60"
+        "N-40"
       ]
     }
   ],

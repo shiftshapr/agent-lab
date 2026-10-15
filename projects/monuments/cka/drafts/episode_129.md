@@ -15,7 +15,7 @@
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-11561–C-11634
   - New Nodes Introduced: N-10742, N-10743
-  - Reused Nodes Appearing: N-1, N-2, N-369, N-489, N-506, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-165, N-213, N-248, N-268, N-280, N-439, N-547, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218, N-11208, N-11300
+  - Reused Nodes Appearing: N-1, N-2, N-368, N-488, N-505, N-10740, N-10741, N-14, N-15, N-36, N-60, N-97, N-164, N-212, N-247, N-267, N-279, N-438, N-546, N-10000, N-10070, N-10110, N-10270, N-10300, N-10312, N-10334, N-10336, N-10338, N-10342, N-10362, N-10651, N-10664, N-10684, N-10707, N-10715, N-10905, N-10934, N-10936, N-10956, N-10968, N-11014, N-11061, N-11218, N-11208, N-11300
   - (see registers)
 
 ## 2. Executive Summary
@@ -374,7 +374,7 @@ Video Timestamp: 00:59:46
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-11629, C-11630, N-60, N-3, N-97, N-268, N-10651*
+*Related: C-11629, C-11630, N-60, N-3, N-97, N-267, N-10651*
 
 ---
 
@@ -419,7 +419,7 @@ Investigative Pressure: High
 
 *Related: A-2169.5, A-2169.6, C-3103, C-3104*
 
-**N-369** Danny Philip
+**N-368** Danny Philip
 
 Newly hired Turning Point USA employee at the UVU event; phone records show a 10-minute call with Mikey McCoy after the shooting, and he arrived at Timpanogos in the same SUV as Blake Neff.
 
@@ -557,7 +557,7 @@ Ben Shapiro; the host says his lawyer retweets Laura Loomer and sues the host fo
 
 ---
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 Blake Neff; his audio and Twitter Space remarks are discussed.
 
@@ -565,7 +565,7 @@ Blake Neff; his audio and Twitter Space remarks are discussed.
 
 ---
 
-**N-165** Matt Walsh
+**N-164** Matt Walsh
 
 Matt Walsh; the host says his in-person event appearance was cancelled at Erika's urging.
 
@@ -573,7 +573,7 @@ Matt Walsh; the host says his in-person event appearance was cancelled at Erika'
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Mikey McCoy; the host reviews his post-shooting call sequence.
 
@@ -581,7 +581,7 @@ Mikey McCoy; the host reviews his post-shooting call sequence.
 
 ---
 
-**N-213** Jesse Watters
+**N-212** Jesse Watters
 
 Jesse Watters; the host believes Erika told him she knew.
 
@@ -589,7 +589,7 @@ Jesse Watters; the host believes Erika told him she knew.
 
 ---
 
-**N-219** Eliza McCoy
+**N-218** Eliza McCoy
 
 Elizabeth McCoy, Mikey McCoy's wife, whom the host says he called first.
 
@@ -597,7 +597,7 @@ Elizabeth McCoy, Mikey McCoy's wife, whom the host says he called first.
 
 ---
 
-**N-248** Butch Hibbs
+**N-247** Butch Hibbs
 
 Butch Hibbs; the host places Danny Philip next to him on Charlie's right.
 
@@ -605,7 +605,7 @@ Butch Hibbs; the host places Danny Philip next to him on Charlie's right.
 
 ---
 
-**N-268** Brian Harpole
+**N-267** Brian Harpole
 
 Brian Harpole; the host says he said he cut the shirt and that he is suing the host.
 
@@ -613,7 +613,7 @@ Brian Harpole; the host says he said he cut the shirt and that he is suing the h
 
 ---
 
-**N-280** Bari Weiss
+**N-279** Bari Weiss
 
 Bari Weiss; the host says Erika told her she was certain Robinson killed her husband.
 
@@ -621,7 +621,7 @@ Bari Weiss; the host says Erika told her she was certain Robinson killed her hus
 
 ---
 
-**N-332** Baron Coleman
+**N-331** Baron Coleman
 
 Baron Coleman; his coverage of the group's hospital walk-in is cited.
 
@@ -629,7 +629,7 @@ Baron Coleman; his coverage of the group's hospital walk-in is cited.
 
 ---
 
-**N-335** Viva Frei
+**N-334** Viva Frei
 
 Viva Frei (spelled Viva Frei in the register); his Charlie Kirk Show remarks on conspiracy theories.
 
@@ -637,7 +637,7 @@ Viva Frei (spelled Viva Frei in the register); his Charlie Kirk Show remarks on 
 
 ---
 
-**N-439** Johnny Moore
+**N-438** Johnny Moore
 
 Johnny Moore; the host says he is dropping digital assassin articles at her.
 
@@ -645,7 +645,7 @@ Johnny Moore; the host says he is dropping digital assassin articles at her.
 
 ---
 
-**N-506** Nate Walker
+**N-505** Nate Walker
 
 Existing node reused for new claims in this episode.
 
@@ -653,7 +653,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-547** Tracy Martin
+**N-546** Tracy Martin
 
 Tracy Martin; the host's guess for the Daily Mail family friend.
 
@@ -968,7 +968,7 @@ Claim Timestamp: 00:03:30
 Claim: A newly released photograph of the SUV's left rear door compartment shows an object that the host, her husband, Baron Coleman, and other unnamed observers identify as a glove.
 
 Anchored Artifacts: A-2165.1
-Mentions: N-332
+Mentions: N-331
 
 Related Nodes:
 
@@ -997,7 +997,7 @@ Claim Timestamp: 00:06:20
 Claim: The unidentified glove-like object is in the door compartment on the side of the vehicle the host associates with Rick Cutler's seating.
 
 Anchored Artifacts: A-2165.1
-Mentions: N-489
+Mentions: N-488
 
 Related Nodes: N-10740
 
@@ -1012,7 +1012,7 @@ Claim Timestamp: 00:03:30
 Claim: The host describes an informal "double-blind" comparison in which multiple observers independently identified the object as a glove, with the husband reportedly shown the image without contextual framing.
 
 Anchored Artifacts: A-2165.1
-Mentions: N-332
+Mentions: N-331
 
 Related Nodes:
 
@@ -1041,7 +1041,7 @@ Claim Timestamp: 00:13:40
 Claim: The host says Mikey McCoy's call logs, which she shows, record him making a call to Rob McCoy, merging the call with Elizabeth McCoy, and then engaging in a 10-minute call with Danny Philip in the immediate aftermath.
 
 Anchored Artifacts: A-2167.1
-Mentions: N-369, N-219, N-192, N-17
+Mentions: N-368, N-218, N-191, N-17
 
 Related Nodes: N-10742
 
@@ -1056,7 +1056,7 @@ Claim Timestamp: 00:13:40
 Claim: In a clip the host plays, Blake Neff describes Mikey McCoy as immediately calling Erika within about a minute of the shooting, and says Mikey's lip was quivering.
 
 Anchored Artifacts: A-2168.1
-Mentions: N-192, N-161
+Mentions: N-191, N-160
 Contradicts: C-1932, C-3092
 
 Related Nodes: N-10742
@@ -1072,7 +1072,7 @@ Claim Timestamp: 00:18:17
 Claim: A Fox 5 Atlanta newsroom feed shows Blake Neff, Danny Philip, Mikey McCoy, and Nate Walker walking into Timpanogos Regional Hospital; timing is anchored to Donald Trump's 1:02 PM local tweet shown during the broadcast.
 
 Anchored Artifacts: A-2166.2, A-2166.1
-Mentions: N-369, N-5, N-192, N-161, N-506
+Mentions: N-368, N-5, N-191, N-160, N-505
 
 Related Nodes:
 
@@ -1087,7 +1087,7 @@ Claim Timestamp: 00:10:36
 Claim: The host says Blake Neff and Danny Philip arrived at Timpanogos in the same SUV, distinct from the vehicle transporting Charlie Kirk.
 
 Anchored Artifacts: A-2166.1
-Mentions: N-369, N-1, N-161
+Mentions: N-368, N-1, N-160
 
 Related Nodes:
 
@@ -1102,7 +1102,7 @@ Claim Timestamp: 00:11:37
 Claim: The host says Danny Philip – newly hired Turning Point USA employee – was at the UVU event and is recorded in a 10-minute phone call with Mikey McCoy shortly after 12:25 PM.
 
 Anchored Artifacts: A-2167.1, A-2166.1
-Mentions: N-369, N-192
+Mentions: N-368, N-191
 
 Related Nodes: N-10742
 
@@ -1117,7 +1117,7 @@ Claim Timestamp: 00:14:48
 Claim: In a clip the host plays, Blake Neff says Mikey McCoy called his father Rob McCoy and asked him to call his pastor friends to pray.
 
 Anchored Artifacts: A-2168.1
-Mentions: N-192, N-161, N-17
+Mentions: N-191, N-160, N-17
 
 Related Nodes: N-10742
 
@@ -1162,7 +1162,7 @@ Claim Timestamp: 00:43:43
 Claim: Tim Pool's X post compares current social-media amplification of Charlie Kirk narrative-challengers to the platform treatment that destroyed Alex Jones, while contrasting with COVID-era demonetization.
 
 Anchored Artifacts: A-2169.2
-Mentions: N-1, N-93, N-269
+Mentions: N-1, N-93, N-268
 
 Related Nodes: N-10741
 
@@ -1177,7 +1177,7 @@ Claim Timestamp: 00:45:35
 Claim: In a Twitter Space audio appearance, Blake Neff specifically stated that the sustained duration of Candace Owens's coverage "exceeds" even what Alex Jones did with Sandy Hook.
 
 Anchored Artifacts: A-2169.3
-Mentions: N-3, N-93, N-161
+Mentions: N-3, N-93, N-160
 
 Related Nodes: N-10741
 
@@ -1192,7 +1192,7 @@ Claim Timestamp: 00:48:02
 Claim: In a clip from the Charlie Kirk Show that the host plays, Viva Frei explicitly invokes "Sandy Hook 2.0" as a comparison for current conspiracy theories around Kirk's death.
 
 Anchored Artifacts: A-2169.4
-Mentions: N-335
+Mentions: N-334
 
 Related Nodes: N-10741
 
@@ -1331,7 +1331,7 @@ Claim: The host says Brian Harpole said he cut Charlie Kirk's shirt, and she ask
 Transcript Snippet: He cut He said he cut the shirt. Whose scissors did he use?
 
 Anchored Artifacts: 
-Mentions: N-268, N-3
+Mentions: N-267, N-3
 Related Nodes: N-10684, N-10707
 Tags: relevance:core
 Investigative Direction: Locate Harpole's own statement on who cut the shirt and with what; ask the hospital and investigators whether scissors were collected.
@@ -1363,7 +1363,7 @@ Claim: The host says Danny Philip was new at Turning Point USA, having started w
 Transcript Snippet: New as in started working full-time in May after he graduated out of school.
 
 Anchored Artifacts: 
-Mentions: N-369, N-192, N-3
+Mentions: N-368, N-191, N-3
 Supports: C-5867
 Tags: relevance:core
 Investigative Direction: Check Philip's graduation date and TPUSA hiring paperwork or payroll start date.
@@ -1379,7 +1379,7 @@ Claim: The host says Mikey McCoy rented two SUVs in Salt Lake City, that Blake N
 Transcript Snippet: So two SUVs were rented by Mikey McCoy in Salt Lake City.
 
 Anchored Artifacts: 
-Mentions: N-192, N-161, N-369, N-506, N-1
+Mentions: N-191, N-160, N-368, N-505, N-1
 Related Nodes: N-11061
 Supports: C-5862
 Tags: relevance:core
@@ -1396,7 +1396,7 @@ Claim: The host says Blake Neff does not remember where he and Danny Philip went
 Transcript Snippet: Blake Neff doesn't remember where they went in Salt Lake City.
 
 Anchored Artifacts: 
-Mentions: N-161, N-369
+Mentions: N-160, N-368
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Ask Neff and Philip for their movements that morning and check vehicle GPS or toll records for the second SUV.
@@ -1412,7 +1412,7 @@ Claim: The host says she believes Danny Philip was driving the second SUV, that 
 Transcript Snippet: Now I believe that Danny was driving the SUV. I feel like I saw that somewhere.
 
 Anchored Artifacts: 
-Mentions: N-369, N-161
+Mentions: N-368, N-160
 Tags: relevance:core
 Investigative Direction: Identify the source of the driver detail and check it against the rental agreement and any footage of the second SUV.
 
@@ -1427,7 +1427,7 @@ Claim: The host says Danny Philip stood next to Butch Hibbs on Charlie's right s
 Transcript Snippet: What we do know is that Danny and Blake were standing on opposite sides of the tent when the sound of the explosive rang out.
 
 Anchored Artifacts: 
-Mentions: N-369, N-161, N-248, N-192, N-1
+Mentions: N-368, N-160, N-247, N-191, N-1
 Tags: relevance:core
 Investigative Direction: Verify each man's position against the stage footage and the seating and standing diagram of the tent.
 
@@ -1442,7 +1442,7 @@ Claim: The host says Mikey McCoy immediately pressed his phone to his ear, walke
 Transcript Snippet: Mikey, as we know, immediately presses his phone to his ear and walks away and calls his wife, Elizabeth.
 
 Anchored Artifacts: A-2167.1
-Mentions: N-192, N-219, N-2
+Mentions: N-191, N-218, N-2
 Related Nodes: N-10338
 Supports: C-2294
 Tags: relevance:core
@@ -1459,7 +1459,7 @@ Claim: The host says that in her New York Times interview eight days later Erika
 Transcript Snippet: said that at 11:23, obviously adjusting for time, 12:23 I guess, uh in uh local time Utah, 11:23 her time, she was looking at her phone and within seconds Mikey called her.
 
 Anchored Artifacts: 
-Mentions: N-2, N-192
+Mentions: N-2, N-191
 Related Nodes: N-10905, N-10968
 Tags: relevance:core
 Investigative Direction: Obtain the New York Times interview text and compare its call timing with the call detail records.
@@ -1475,7 +1475,7 @@ Claim: The host says that months later it emerged that Mikey called his own wife
 Transcript Snippet: Um then we found out months later that actually no, Mikey called his own wife first and Erika was added to that phone call 3 minutes later.
 
 Anchored Artifacts: A-2167.1
-Mentions: N-192, N-219, N-2
+Mentions: N-191, N-218, N-2
 Related Nodes: N-10338, N-10742
 Supports: C-1933, C-2294
 Tags: relevance:core
@@ -1492,7 +1492,7 @@ Claim: The host says that 2 minutes after Charlie was hit, at 12:25, Blake Neff 
 Transcript Snippet: So, just 2 minutes after Charlie's hit at 12:25, Blake and Mikey are back together and they're speaking and coordinating.
 
 Anchored Artifacts: A-2167.1
-Mentions: N-161, N-192, N-1
+Mentions: N-160, N-191, N-1
 Related Nodes: N-10715
 Tags: relevance:core
 Investigative Direction: Obtain footage placing Neff and McCoy together at 12:25 and compare with their recorded call times.
@@ -1508,7 +1508,7 @@ Claim: In the audio the host plays, Blake Neff says that around the same time Mi
 Transcript Snippet: around the same time I pull out my phone and I call my mom just to say
 
 Anchored Artifacts: A-2168.1
-Mentions: N-161, N-192
+Mentions: N-160, N-191
 Related Nodes: N-10742
 Tags: relevance:core
 Investigative Direction: Obtain Neff's phone records for the call to his mother and compare its time and length with Mikey McCoy's call sequence.
@@ -1524,7 +1524,7 @@ Claim: The host says Mikey McCoy's discussion with Erika lasted less than 2 minu
 Transcript Snippet: Mikey's discussion with Erika, we know lasted less than 2 minutes.
 
 Anchored Artifacts: A-2167.1
-Mentions: N-192, N-2, N-3
+Mentions: N-191, N-2, N-3
 Related Nodes: N-10338
 Tags: relevance:core
 Investigative Direction: Verify the length of the Mikey-to-Erika call in the call detail records.
@@ -1540,7 +1540,7 @@ Claim: The host says Erika Kirk is going to say 'I effing knew it', that she bel
 Transcript Snippet: That's what she tells, I believe, Jesse Watters. That's certainly what she told the New York Times.
 
 Anchored Artifacts: 
-Mentions: N-2, N-213
+Mentions: N-2, N-212
 Related Nodes: N-10905, N-10968
 Tags: relevance:core
 Investigative Direction: Check the Jesse Watters interview and the New York Times article for the exact words Erika used.
@@ -1556,7 +1556,7 @@ Claim: The host says Mikey McCoy ended his calls with Rob McCoy and Elizabeth Mc
 Transcript Snippet: And then Danny calls Mikey. And they stay on the phone for 10 minutes.
 
 Anchored Artifacts: A-2167.1
-Mentions: N-369, N-192, N-219, N-17
+Mentions: N-368, N-191, N-218, N-17
 Related Nodes: N-10742
 Tags: relevance:core
 Investigative Direction: Obtain the call detail record showing which number placed the Philip-McCoy call and when it started and ended.
@@ -1572,7 +1572,7 @@ Claim: The host says Danny Philip, Blake Neff and Mikey McCoy all ran in the sam
 Transcript Snippet: Danny, Blake, and Mikey all run the same direction direction. They get into the same car. Their cars are parked right next to one another's.
 
 Anchored Artifacts: 
-Mentions: N-369, N-161, N-192
+Mentions: N-368, N-160, N-191
 Related Nodes: N-10742, N-10820
 Tags: relevance:core
 Investigative Direction: Resolve which SUV each man entered using footage and statements, since the host elsewhere has Mikey in the SUV carrying Charlie.
@@ -1588,7 +1588,7 @@ Claim: The host says that perhaps Justin Streiff and Erika lied to her and Mikey
 Transcript Snippet: Maybe Justin Streiff and Erika lied to me and it wasn't Danny Philip that he was on the phone with.
 
 Anchored Artifacts: 
-Mentions: N-15, N-2, N-369, N-192, N-3
+Mentions: N-15, N-2, N-368, N-191, N-3
 Related Nodes: N-10300
 Tags: relevance:core
 Investigative Direction: Identify what Streiff and Erika told the host about this call and compare with the call records.
@@ -1604,7 +1604,7 @@ Claim: The host says Blake Neff says they arrived at the hospital 25 minutes lat
 Transcript Snippet: Blake says they arrived 25 minutes later. I'm going to forgive him that.
 
 Anchored Artifacts: A-2166.2
-Mentions: N-161
+Mentions: N-160
 Related Nodes: N-11208
 Supports: C-9560
 Tags: relevance:core
@@ -1621,7 +1621,7 @@ Claim: The host says the Fox 5 Atlanta live feed shows Blake Neff, Danny Philip,
 Transcript Snippet: because they don't seem to be shaken. They're all just kind of walking uh casually
 
 Anchored Artifacts: A-2166.2
-Mentions: N-332, N-161, N-369, N-192, N-506
+Mentions: N-331, N-160, N-368, N-191, N-505
 Related Nodes: N-11208
 Tags: relevance:core
 Investigative Direction: Obtain the unedited newsroom feed and review the men's demeanor and pace on entry.
@@ -1637,7 +1637,7 @@ Claim: The host says Reverend Johnny Moore is working corporate and dropping dig
 Transcript Snippet: Reverend Johnny Moore is working corporate dropping digital assassin articles aimed at me blaming his competitors.
 
 Anchored Artifacts: 
-Mentions: N-439, N-3
+Mentions: N-438, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify the specific digital assassin articles the host refers to and their authors and publication dates.
@@ -1670,7 +1670,7 @@ Claim: The host says Erika Kirk personally took credit for having Matt Walsh can
 Transcript Snippet: She personally took credit for having Matt Walsh cancel his in-person appearance at the Catholic prayer event for Catholic for Catholics just because I was attending.
 
 Anchored Artifacts: 
-Mentions: N-2, N-165, N-3
+Mentions: N-2, N-164, N-3
 Related Nodes: N-10956
 Tags: relevance:core
 Investigative Direction: Ask Catholics for Catholics organizers and Walsh's team when and why his appearance changed and who communicated it.
@@ -1686,7 +1686,7 @@ Claim: The host says Matt Walsh turned what was supposed to be his appearance in
 Transcript Snippet: He transformed what was supposed to be his appearance into a video message instead because Erika was upset that I was going to be present.
 
 Anchored Artifacts: 
-Mentions: N-165, N-2, N-3
+Mentions: N-164, N-2, N-3
 Related Nodes: N-10956
 Tags: relevance:core
 Investigative Direction: Obtain the event program showing Walsh's original and final format and any messages explaining the change.
@@ -1846,7 +1846,7 @@ Claim: The host says her guess is Tracy Martin, the one person she knows who is 
 Transcript Snippet: My guess would be Tracy Martin because she's also been the driver behind other wacky pieces, that Us Magazine one, but who knows?
 
 Anchored Artifacts: A-2164.1
-Mentions: N-547, N-3
+Mentions: N-546, N-3
 Related Nodes: N-10743
 Tags: relevance:core
 Investigative Direction: Treat as the host's speculation; ask the Daily Mail reporter whether the source can be confirmed or denied.
@@ -1894,7 +1894,7 @@ Claim: The host says Erika Kirk told Bari Weiss she was wholly confident that Ty
 Transcript Snippet: She was wholly confident that this man killed her husband because she has access to the evidence.
 
 Anchored Artifacts: 
-Mentions: N-2, N-280, N-40
+Mentions: N-2, N-279, N-40
 Related Nodes: N-10334
 Tags: relevance:core
 Investigative Direction: Check the CBS town hall transcript for Erika's statement on certainty and access to evidence.
@@ -2164,7 +2164,7 @@ Claim: In the Twitter Space audio the host plays, Blake Neff says the host has s
 Transcript Snippet: target random family members of theirs as happened at times, for 10 months in pursuit of a conspiracy theory that has literally never had anything to back it up.
 
 Anchored Artifacts: A-2169.3
-Mentions: N-161, N-3, N-2
+Mentions: N-160, N-3, N-2
 Related Nodes: N-10741
 Tags: relevance:context
 Investigative Direction: Obtain the full Twitter Space recording and its date and speakers.
@@ -2228,7 +2228,7 @@ Claim: On the Charlie Kirk Show clip, Viva Frei says theories that it was explod
 Transcript Snippet: But to go from there to say that it's exploding microphones, Israel did it, and not that Israel might not Israel might have had a hand in this.
 
 Anchored Artifacts: A-2169.4
-Mentions: N-335
+Mentions: N-334
 Related Nodes: N-10741
 Tags: relevance:context
 Investigative Direction: Obtain the full Charlie Kirk Show segment with its date and Viva Frei's complete remarks.
@@ -2244,7 +2244,7 @@ Claim: On the Charlie Kirk Show clip, Viva Frei says he appreciates there are so
 Transcript Snippet: I appreciate there are some issues with the prosecution. There's some issues with the investigation, and there's some issues with the evidence.
 
 Anchored Artifacts: A-2169.4
-Mentions: N-335
+Mentions: N-334
 Related Nodes: N-10110
 Tags: relevance:core
 Investigative Direction: Obtain the segment and the specific issues Viva Frei refers to.
@@ -2368,7 +2368,7 @@ Claim: The host says Laura Loomer is retweeted by Ben Shapiro's lawyer, who has 
 Transcript Snippet: This is the person that's then retweeted by Ben Shapiro's lawyer who's been suing me for 3 years, who's now suing me on behalf of Bryan Harpole.
 
 Anchored Artifacts: A-3143.1
-Mentions: N-60, N-97, N-268, N-3
+Mentions: N-60, N-97, N-267, N-3
 Related Nodes: N-10651
 Tags: relevance:core
 Investigative Direction: Check the docket of the Harpole filing for counsel of record and compare with counsel in the Shapiro matter.

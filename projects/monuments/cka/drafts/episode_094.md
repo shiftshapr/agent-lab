@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 4b931eed5aa73d203bec84182448315895321f05165958ce43afd7cf890cdb6e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-919, N-920, N-921, N-922, N-11349, N-11350
+  - Tip-minted Nodes (supplement_2026-10f): N-918, N-919, N-920, N-921, N-11349, N-11350
   - Hole-minted Nodes (reintro-ep094): N-10640
-  - Tip-minted Nodes (reintro-ep094): N-831
+  - Tip-minted Nodes (reintro-ep094): N-830
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-13346–C-13445
   - New Nodes Introduced: N-10623, N-10625, N-10626, N-10627, N-10629, N-10632, N-10633, N-10634, N-10636
-  - Hole-minted Nodes (wave3): N-427, N-428
-  - Reused Nodes Appearing: N-10631, N-10628, N-10635, N-10630, N-10624, N-4, N-6, N-30, N-54, N-69, N-195, N-270, N-274, N-280, N-535, N-603, N-10013, N-10014, N-10021, N-10022, N-10034, N-10077, N-10110, N-10142, N-10168, N-10202, N-10239, N-10271, N-10319, N-10360, N-10487, N-10570, N-10587, N-10590, N-10598, N-10604, N-10607, N-10608, N-10610, N-10616, N-10617, N-10660, N-10665, N-10770, N-10975, N-11149, N-11218, N-10713
+  - Hole-minted Nodes (wave3): N-426, N-427
+  - Reused Nodes Appearing: N-10631, N-10628, N-10635, N-10630, N-10624, N-4, N-6, N-30, N-54, N-69, N-194, N-269, N-273, N-279, N-534, N-602, N-10013, N-10014, N-10021, N-10022, N-10034, N-10077, N-10110, N-10142, N-10168, N-10202, N-10239, N-10271, N-10319, N-10360, N-10487, N-10570, N-10587, N-10590, N-10598, N-10604, N-10607, N-10608, N-10610, N-10616, N-10617, N-10660, N-10665, N-10770, N-10975, N-11149, N-11218, N-10713
   - (see registers)
 
 ---
@@ -319,7 +319,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 01:00:40
 Discovery Timestamp: 00:00:00–00:00:01
 
-*Related: N-343 (Victor Marx), N-10636*
+*Related: N-342 (Victor Marx), N-10636*
 
 **A-2005.10** Comment by user "Queen Saxi" raising Tyler Robinson's roommate as potential suspect
 
@@ -376,13 +376,13 @@ Confidence Level: Low
 
 ## 4. Node Register
 
-**N-427** Richard Novak
+**N-426** Richard Novak
 
 First named by the host at 00:10:02 in episode 94. Aliases: Richard Novac.
 
 *Related: C-2767*
 
-**N-428** Alan Jacoby
+**N-427** Alan Jacoby
 
 First named by the host at 00:41:44 in episode 94.
 
@@ -667,7 +667,7 @@ Kash Patel; the FBI's role in discovery.
 
 ---
 
-**N-195** David Horowitz
+**N-194** David Horowitz
 
 David Horowitz, whose center the host says she was traveling to speak at.
 
@@ -675,7 +675,7 @@ David Horowitz, whose center the host says she was traveling to speak at.
 
 ---
 
-**N-222** Milo Yiannopoulos
+**N-221** Milo Yiannopoulos
 
 Milo Yiannopoulos, whose written piece and audio the host plays about Loomer.
 
@@ -683,7 +683,7 @@ Milo Yiannopoulos, whose written piece and audio the host plays about Loomer.
 
 ---
 
-**N-270** Joe Rogan
+**N-269** Joe Rogan
 
 Joe Rogan, who the host says finds Erika weird.
 
@@ -691,7 +691,7 @@ Joe Rogan, who the host says finds Erika weird.
 
 ---
 
-**N-274** Nate Brooksby
+**N-273** Nate Brooksby
 
 Sheriff Nate Brooksby, whom the host says admitted Robinson was coerced.
 
@@ -699,7 +699,7 @@ Sheriff Nate Brooksby, whom the host says admitted Robinson was coerced.
 
 ---
 
-**N-280** Bari Weiss
+**N-279** Bari Weiss
 
 Bari Weiss, to whom the host says Erika said she was 100 percent sure.
 
@@ -707,7 +707,7 @@ Bari Weiss, to whom the host says Erika said she was 100 percent sure.
 
 ---
 
-**N-343** Victor Marx
+**N-342** Victor Marx
 
 Victor Marx, the subject of the viewer comment the host endorses.
 
@@ -715,7 +715,7 @@ Victor Marx, the subject of the viewer comment the host endorses.
 
 ---
 
-**N-535** Hillary Clinton
+**N-534** Hillary Clinton
 
 Hillary Clinton, subject of the host's aside.
 
@@ -723,7 +723,7 @@ Hillary Clinton, subject of the host's aside.
 
 ---
 
-**N-603** Melania Trump
+**N-602** Melania Trump
 
 Melania Trump, whose circle the host says fears Loomer.
 
@@ -731,7 +731,7 @@ Melania Trump, whose circle the host says fears Loomer.
 
 ---
 
-**N-831** Kathy Nester
+**N-830** Kathy Nester
 
 Kathy Nester, defense attorney quoted on the phone, the gun and the physical evidence.
 
@@ -1012,7 +1012,7 @@ Organization the host and Kathy Nester call the SBI, which holds some physical e
 
 ---
 
-**N-919** Casey DeSantis
+**N-918** Casey DeSantis
 
 First named by the host at 00:47:42 in episode 94. Named by the host as the subject of a Loomer claim that she was making up cancer.
 
@@ -1029,7 +1029,7 @@ Erika Kirk's Friday appearance opening for Trump at the Dream City Church in Pho
 
 ---
 
-**N-920** Roger Stone
+**N-919** Roger Stone
 
 First named by the host at 00:51:13 in episode 94. Named by the host as a Trump friend who she says knows about Loomer's suicidal attempts and accounts.
 
@@ -1037,7 +1037,7 @@ First named by the host at 00:51:13 in episode 94. Named by the host as a Trump 
 
 ---
 
-**N-921** Jessica Tarlov
+**N-920** Jessica Tarlov
 
 First named by the host at 00:34:38 in episode 94. Named in the Truth Social post the host reads as the person Trump says he was watching.
 
@@ -1045,7 +1045,7 @@ First named by the host at 00:34:38 in episode 94. Named in the Truth Social pos
 
 ---
 
-**N-922** Jack Dorsey
+**N-921** Jack Dorsey
 
 First named by the host at 00:36:39 in episode 94. Named by the host as the head of Twitter when Loomer lost her checkmark.
 
@@ -1107,7 +1107,7 @@ Claim Timestamp: 00:10:02
 Claim: Defense attorney Richard Novak states the defense has not received the data files (electronic quantification/digitization of physical evidence) from ATF/FBI forensic examiners needed to analyze statistical results.
 
 Anchored Artifacts: A-1994.1
-Mentions: N-427
+Mentions: N-426
 
 Related Nodes: N-10623, N-10624
 
@@ -1283,7 +1283,7 @@ Claim Timestamp: 00:41:44
 Claim: Alan Jacoby publicly alleged Laura Loomer groped him at Bedminster while watching a golf tournament with President Trump.
 
 Anchored Artifacts: A-1998.1
-Mentions: N-60, N-428
+Mentions: N-60, N-427
 
 Related Nodes: N-10629
 
@@ -1313,7 +1313,7 @@ Claim Timestamp: 00:40:54
 Claim: The host reads a piece that she says Milo Yiannopoulos wrote and published, which states that Laura Loomer has been diagnosed at various times with bipolar disorder, histrionic personality disorder, borderline personality disorder, and narcissistic personality disorder.
 
 Anchored Artifacts: A-2000.1
-Mentions: N-222, N-60
+Mentions: N-221, N-60
 
 Related Nodes: N-10628
 
@@ -1328,7 +1328,7 @@ Claim Timestamp: 00:44:53
 Claim: Milo Yiannopoulos alleged Laura Loomer sexually assaulted a young Brazilian volunteer on her 2020 congressional campaign.
 
 Anchored Artifacts: A-2000.2
-Mentions: N-222, N-60
+Mentions: N-221, N-60
 
 Related Nodes: N-10629
 
@@ -1562,7 +1562,7 @@ Claim: The host says Sheriff Brooksby admitted that Tyler Robinson was essential
 Transcript Snippet: Sheriff Brooksby did admit that rather the the truth is that Tyler Robinson was essentially coerced to go in.
 
 Anchored Artifacts: 
-Mentions: N-274, N-40
+Mentions: N-273, N-40
 Related Nodes: N-10142, N-10021
 Tags: relevance:core
 Investigative Direction: Check Brooksby's press statements and recorded remarks for the wording the host paraphrases as coercion.
@@ -1709,7 +1709,7 @@ Claim: The host says Erika Kirk publicly represented that she was confident Tyle
 Transcript Snippet: She was telling Bari Weiss, "Yes, 100%."
 
 Anchored Artifacts: 
-Mentions: N-2, N-280, N-40
+Mentions: N-2, N-279, N-40
 Related Nodes: N-10110
 Tags: relevance:core
 Investigative Direction: Pull the CBS interview with Bari Weiss and locate the exact exchange.
@@ -1773,7 +1773,7 @@ Claim: Richard Novak says he is aware of no reason why the ATF provided its data
 Transcript Snippet: why they provided it in the last 3 weeks, and why the FBI still hasn't.
 
 Anchored Artifacts: A-1994.1
-Mentions: N-427
+Mentions: N-426
 Related Nodes: N-10975, N-10014, N-10570
 Tags: relevance:core
 Investigative Direction: Check the docket for the dates of the ATF and FBI productions. The caption is garbled here, so confirm the sentence against the hearing audio.
@@ -1789,7 +1789,7 @@ Claim: Novak says Mr. McBride's position is that two separate forensic compariso
 Transcript Snippet: Mr. McBride says, "Oh, there's two different things, and so they're both right because they each independently reach the same conclusion, but they're testing different objects in different labs with different protocols.
 
 Anchored Artifacts: A-1994.1
-Mentions: N-427
+Mentions: N-426
 Related Nodes: N-10975, N-10014, N-10110
 Tags: relevance:core
 Investigative Direction: Identify Mr. McBride's role and the two examinations (ATF and FBI laboratory work) from the hearing record and the lab reports.
@@ -1805,7 +1805,7 @@ Claim: Novak says the discovery should all have been produced, some of it six mo
 Transcript Snippet: It should have all been produced some of it 6 months ago because we have DNA reports from September of 2025
 
 Anchored Artifacts: A-1994.1
-Mentions: N-427
+Mentions: N-426
 Related Nodes: N-10570, N-10110
 Tags: relevance:core
 Investigative Direction: Compare the date of the DNA reports with the date they were first produced to the defense on the docket.
@@ -1853,7 +1853,7 @@ Claim: Kathy Nester says the state has indicated it may call individuals uniquel
 Transcript Snippet: the state's indicated they may call individuals you um uniquely connected to my client.
 
 Anchored Artifacts: A-1994.2
-Mentions: N-831, N-40
+Mentions: N-830, N-40
 Related Nodes: N-10623, N-11149
 Tags: relevance:core
 Investigative Direction: Check the state's witness list for the probable cause hearing once filed.
@@ -1901,7 +1901,7 @@ Claim: Kathy Nester says the defense went to examine physical evidence this week
 Transcript Snippet: We went to examine physical evidence this past week um this week. We it took us 6 hours. We did finish the what the SBI has.
 
 Anchored Artifacts: A-1994.2
-Mentions: N-831
+Mentions: N-830
 Related Nodes: N-11349, N-10110
 Tags: relevance:core
 Investigative Direction: Check the docket or any inspection log for the date and scope of the defense's physical evidence review.
@@ -2192,7 +2192,7 @@ Claim: The host says Joe Rogan thinks Erika Kirk is weird.
 Transcript Snippet: Maybe she'll do three hours with Joe Rogan. He thinks she's weird too
 
 Anchored Artifacts: 
-Mentions: N-270, N-2
+Mentions: N-269, N-2
 Tags: relevance:context
 Investigative Direction: Find any Rogan remarks about Erika Kirk, on or off air.
 
@@ -2222,7 +2222,7 @@ Claim: The host says Elizabeth Lane observed that nobody has ever accused Hillar
 Transcript Snippet: their relationship as Elizabeth Lane said, nobody's ever accused them of being in love.
 
 Anchored Artifacts: 
-Mentions: N-6, N-535
+Mentions: N-6, N-534
 Tags: relevance:tangential
 Investigative Direction: Find Lane's original remark; this is a historical aside with no direct bearing on the case.
 
@@ -2270,7 +2270,7 @@ Claim: The Truth Social post the host reads says Trump is watching one of the le
 Transcript Snippet: I'm watching one of the least attractive and talented people on all of television, Jessica Tarlov.
 
 Anchored Artifacts: A-1995.1
-Mentions: N-5, N-921
+Mentions: N-5, N-920
 Related Nodes: N-10587
 Tags: relevance:context
 Investigative Direction: Verify the post text on Truth Social.
@@ -2286,7 +2286,7 @@ Claim: The post the host reads says CNN had Trump at 100 percent saying they nev
 Transcript Snippet: CNN had me at 100% saying they never saw that before. Get her off air, she is bad for our country.
 
 Anchored Artifacts: A-1995.1
-Mentions: N-5, N-921
+Mentions: N-5, N-920
 Related Nodes: N-10587
 Tags: relevance:context
 Investigative Direction: Check the CNN poll Trump refers to.
@@ -2350,7 +2350,7 @@ Claim: The host says she met Laura Loomer years ago on the same plane on the way
 Transcript Snippet: I was on the way to do one of my first events, the David Horowitz Center, and we happened to be on the same plane. She was crying because Twitter had removed her checkmark. This was back when Jack Dorsey had it.
 
 Anchored Artifacts: 
-Mentions: N-3, N-60, N-195, N-922
+Mentions: N-3, N-60, N-194, N-921
 Tags: relevance:context
 Investigative Direction: Check the date of the event and of Loomer's loss of verification to place the encounter.
 
@@ -2479,7 +2479,7 @@ Claim: The host says Milo Yiannopoulos is Loomer's former campaign manager and w
 Transcript Snippet: according to her former campaign manager, Milo Yiannopoulos, who she has never sued and simply blocks, he wrote and published a piece which should be read by everybody.
 
 Anchored Artifacts: A-2000.1
-Mentions: N-222, N-60
+Mentions: N-221, N-60
 Related Nodes: N-10628
 Tags: relevance:context
 Investigative Direction: Confirm Yiannopoulos's actual role in Loomer's campaigns from campaign filings; he describes himself in the audio as helping run the 2020 campaign.
@@ -2495,7 +2495,7 @@ Claim: The host says she is told by people in Melania Trump's circle that they b
 Transcript Snippet: I am told by people in Melania's circle that they believe, like, yeah, actually the most likely person to harm Donald Trump would be Laura Loomer
 
 Anchored Artifacts: 
-Mentions: N-603, N-60, N-5
+Mentions: N-602, N-60, N-5
 Related Nodes: N-10590
 Tags: relevance:context
 Investigative Direction: The sources are unnamed; the host would need to identify or corroborate the people in Melania's circle.
@@ -2543,7 +2543,7 @@ Claim: The host says Alan Jacoby is the founder of Patriot Cigar and tweeted abo
 Transcript Snippet: he is the founder of Patriot Cigar, and he just tweeted this 10 days ago.
 
 Anchored Artifacts: A-1998.1
-Mentions: N-428, N-60
+Mentions: N-427, N-60
 Related Nodes: N-10629
 Tags: relevance:context
 Investigative Direction: Retrieve the tweet with its date and confirm Jacoby's identity as Patriot Cigar's founder.
@@ -2559,7 +2559,7 @@ Claim: In the tweet the host reads, Alan Jacoby says Loomer groped him in the pa
 Transcript Snippet: grabbing my crotch very aggressively, and demanding that I come back to her New York City hotel room to engage in some vile, descriptive sexual activities.
 
 Anchored Artifacts: A-1998.1
-Mentions: N-428, N-60
+Mentions: N-427, N-60
 Related Nodes: N-10629
 Supports: C-2779
 Tags: relevance:context
@@ -2576,7 +2576,7 @@ Claim: The host says Milo Yiannopoulos is not merely alleging the assault on a y
 Transcript Snippet: And he's not alleging here, okay? He claims that it is a fact that he can prove through many messages.
 
 Anchored Artifacts: A-2000.2
-Mentions: N-222, N-60
+Mentions: N-221, N-60
 Related Nodes: N-10629
 Supports: C-2782
 Tags: relevance:context
@@ -2593,7 +2593,7 @@ Claim: In the audio, Milo Yiannopoulos says Loomer used to force herself on youn
 Transcript Snippet: she she used to force herself on um young male volunteers, uh 20 21-year-olds. And she would go in the middle of the night.
 
 Anchored Artifacts: A-2000.2
-Mentions: N-222, N-60
+Mentions: N-221, N-60
 Related Nodes: N-10629
 Supports: C-2782
 Tags: relevance:context
@@ -2610,7 +2610,7 @@ Claim: In the audio, Milo Yiannopoulos says he lived in the pool house with the 
 Transcript Snippet: I lived in the pool house with with her um victim in 2020, who didn't know how to make it stop.
 
 Anchored Artifacts: A-2000.2
-Mentions: N-222, N-60
+Mentions: N-221, N-60
 Related Nodes: N-10629
 Supports: C-2782
 Tags: relevance:context
@@ -2627,7 +2627,7 @@ Claim: In the audio, Milo Yiannopoulos says the young Brazilian volunteer was on
 Transcript Snippet: He was a young uh Brazilian volunteer on her 2020 congressional campaign. I know because I helped to run that campaign, okay?
 
 Anchored Artifacts: A-2000.2
-Mentions: N-222, N-60
+Mentions: N-221, N-60
 Related Nodes: N-10629
 Tags: relevance:context
 Investigative Direction: Compare with campaign filings and with Milo's other statements about being only loosely allied with Loomer.
@@ -2675,7 +2675,7 @@ Claim: The host says Loomer, when DeSantis was running, said things like Casey D
 Transcript Snippet: Like she did when DeSantis was running, and Trump and his campaign found it to be quite useful when she said things like Casey DeSantis is making up cancer.
 
 Anchored Artifacts: 
-Mentions: N-60, N-5, N-919
+Mentions: N-60, N-5, N-918
 Related Nodes: N-10590
 Tags: relevance:context
 Investigative Direction: Find Loomer's posts about Casey DeSantis's illness during the 2023-24 primary and any evidence on the Trump campaign's use of them.
@@ -2819,7 +2819,7 @@ Claim: The host says Trump should speak to his friend Roger Stone about Loomer's
 Transcript Snippet: You should speak to your friend Roger Stone about uh, her suicidal attempts and the things that she says and the things that she does and the accounts that she operates behind the scenes.
 
 Anchored Artifacts: 
-Mentions: N-60, N-5, N-920
+Mentions: N-60, N-5, N-919
 Related Nodes: N-10628
 Tags: relevance:context
 Investigative Direction: Ask Stone directly; the host gives no evidence for the accounts allegedly operated behind the scenes.
@@ -2946,7 +2946,7 @@ Claim: Responding to a viewer comment, the host says she has not let up on Victo
 Transcript Snippet: We have not let up on Victor Marx more on that. You are correct it is shady
 
 Anchored Artifacts: A-2005.9
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10636, N-10604
 Supports: C-2748, C-2749
 Tags: relevance:core

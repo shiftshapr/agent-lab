@@ -1,0 +1,780 @@
+[
+ {
+  "claim": "C-7105",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7106",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7107",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7108",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7109",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7110",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7111",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7112",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7113",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7114",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7115",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Trump; Mentions lists N-5 though only the host is referred to.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-7116",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7117",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7118",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7119",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7120",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7121",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7122",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7123",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7124",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7125",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7126",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7127",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7128",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7129",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7130",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7131",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7132",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7133",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim spelling \"Boller\" matches the real name (CNN); node name \"Bowler\" looks wrong.",
+  "fix": {}
+ },
+ {
+  "claim": "C-7134",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7135",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7136",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7137",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I think someone pointed out that I even missed...\" hedge dropped.",
+  "fix": {
+   "claim": "The host says she thinks someone pointed out that she had even missed that Elon Musk donated money to Erika Kirk's family."
+  }
+ },
+ {
+  "claim": "C-7138",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7139",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7140",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7141",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7142",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Praying for Megyn Kelly being attacked is unrelated to the assassination or its investigation.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-2419",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: lead-up discussed \"food and antibiotics destroying living organisms\"; princess wrote people \"won't be able to make new humans anymore\"; \"suppressing human fertility\" is paraphrase; only princess message read.",
+  "fix": {
+   "claim": "Per a 2012 email the host reads, Princess Märtha Louise of Norway wrote to Jeffrey Epstein that a cocktail of unnaturals affects early human development, that soon people won't be able to make new humans, and that humans could be designed in a lab; the host says the lead-up discussed food and antibiotics destroying living organisms."
+  }
+ },
+ {
+  "claim": "C-2420",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Tweet: \"The next bit is unconfirmed, but they believe Andrew was accompanied by Mikey McCoy and his wife Elizabeth.\" Host: \"allegedly Mikey McVoy\". Claim hedges only the wife.",
+  "fix": {
+   "claim": "According to a tweet the host says she published, sourced to White House personnel, Andrew Kolvet was in the West Wing on January 29, 2026 while the Charlie Kirk Show presented a pre-recorded interview with Kash Patel as live; the tweet says it is unconfirmed but believed that Mikey McCoy and his wife Elizabeth accompanied him."
+  }
+ },
+ {
+  "claim": "C-2421",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "No recording date given; \"January 28, 2026\" is invented. Host: \"The episode was pre-recorded.\" Kolvet (N-14) not named in claim.",
+  "fix": {
+   "claim": "The host says the Charlie Kirk Show episode with Kash Patel was pre-recorded and Andrew Kolvet presented it as though it were live, rather than Patel phoning in live."
+  }
+ },
+ {
+  "claim": "C-2422",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Kolvet and McCoy but Mentions omits N-14, N-192; McCoy presence was only alleged by host.",
+  "fix": {
+   "claim": "The host says the Epstein files were released on January 30, 2026, the day after the January 29 West Wing meeting she says Andrew Kolvet attended.",
+   "mentions": [
+    "N-9",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-2423",
+  "episode": 76,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"I had received a tip... She's like in his emails like 4,000 times.\" Tipster claim with hedge, stated as fact.",
+  "fix": {
+   "claim": "The host says a tipster told her Faith Kates is in Jeffrey Epstein's emails \"like 4,000 times\"."
+  }
+ },
+ {
+  "claim": "C-2424",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2425",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Epstein and the Corcoran Group; N-559 and N-575 not named in claim.",
+  "fix": {
+   "mentions": [
+    "N-9"
+   ]
+  }
+ },
+ {
+  "claim": "C-2426",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"someone read a background on Linda Rothschild\"; nothing says it is tied to Epstein's files. Unresolved name: Linda Rothschild (N-559 is Lynn Forester de Rothschild; unconfirmed).",
+  "fix": {
+   "claim": "The host says a background on Linda Rothschild lists her different names and lists her as president of the Corcoran Group."
+  }
+ },
+ {
+  "claim": "C-2427",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Colebat\" is a transcription of Andrew Kolvet, TPUSA spokesperson (N-14).",
+  "fix": {
+   "claim": "Candace Owens sent an email to Erika Kirk, cc'ing TPUSA spokesperson Andrew Kolvet, asking specifically about the nature of Erika's meetings at Next Model Management NYC; no response was received within 48 hours as of broadcast.",
+   "label": "No Response from Erika Kirk (or Kolvet) to Next Model Management Inquiry Within 48 Hours",
+   "names": [
+    {
+     "wrong": "Andrew Colebat",
+     "right": "Andrew Kolvet",
+     "source": "https://www.foxnews.com/video/6380365395112"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2428",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2429",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2430",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2431",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Turek: \"last walk... was Monday night. The terrible day was Wednesday.\" Claim's \"night before the assassination week\" is wrong.",
+  "fix": {
+   "claim": "In a clip the host plays, Frank Turek describes a Monday-night walk with Charlie Kirk (two days before the assassination), during which Charlie referenced dinner with \"the family,\" the infant GG having just woken, and two major issues he wanted to improve."
+  }
+ },
+ {
+  "claim": "C-2432",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Blake: \"she thought because of what was unleashed by it.\" \"Faith revolution\" is the host's paraphrase (\"Blake is like...\").",
+  "fix": {
+   "claim": "In a clip the host plays, Blake Neff says Erika said that if Charlie were given the choice to undo what happened and come back, he wouldn't, she thought because of what was unleashed by it; the host paraphrases this as the \"faith revolution.\""
+  }
+ },
+ {
+  "claim": "C-2433",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2434",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Ripberger\" is a transcription of Father Chad Ripperger.",
+  "fix": {
+   "claim": "Father Chad Ripperger, in a clip from the Shawn Ryan podcast, stated that some occult families have lineage extending to the 1500s–1600s and train their children into occult practice from a young age.",
+   "label": "Father Ripperger Describes Occult Pedigree Families from 1500s–1600s",
+   "names": [
+    {
+     "wrong": "Ripberger",
+     "right": "Ripperger",
+     "source": "https://www.podbean.com/media/share/dir-jdq5y-2bac84a6"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2435",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2436",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"From 4:00 to 5:00 p.m. Charlie appears... on the Ingram Angle\" is spoken about 39:35, over 30s before claim timestamp.",
+  "fix": {
+   "timestamp": "00:39:30"
+  }
+ },
+ {
+  "claim": "C-10227",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10228",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10229",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Erika; only the board is described.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-10230",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

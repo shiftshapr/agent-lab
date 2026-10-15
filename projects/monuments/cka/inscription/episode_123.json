@@ -719,8 +719,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.",
@@ -740,8 +740,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -763,8 +763,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -782,8 +782,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-489",
-      "ref": "N-489",
+      "@id": "N-488",
+      "ref": "N-488",
       "name": "Rick Cutler",
       "type": "person",
       "description": "Named by the host at 00:12:02 in episode 123; first introduced in episode 121.",
@@ -869,8 +869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Named by the host among those she says tried to delude the public.",
@@ -886,8 +886,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-225",
+      "ref": "N-225",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Host of the interview where she says Harpole discussed his medical supplies.",
@@ -903,8 +903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-610",
-      "ref": "N-610",
+      "@id": "N-609",
+      "ref": "N-609",
       "name": "Graham Allen",
       "type": "person",
       "description": "Named by the host among those she says tried to delude the public.",
@@ -920,8 +920,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-685",
-      "ref": "N-685",
+      "@id": "N-684",
+      "ref": "N-684",
       "name": "Jon Bray",
       "type": "person",
       "description": "Source of the microphone-rigging theory and glass photos; transcript spells John Bray.",
@@ -1436,7 +1436,7 @@
       "claim_timestamp": "00:15:10",
       "investigative_direction": "Cross-reference SantaMedical.com catalog with described medical equipment; verify against Harpole's interview statements.",
       "mentions_person_refs": [
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -1453,7 +1453,7 @@
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Verify clip provenance; corroborate with hospital witness accounts; assess against prior statements from Erika Kirk and TPUSA describing McCoy as \"amazing\" and \"snapping into action.\"",
       "mentions_person_refs": [
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -1470,7 +1470,7 @@
       "claim_timestamp": "00:06:00–00:19:30",
       "investigative_direction": "Obtain transcripts/video of all Frank Turek and Brian Harpole public interviews; verify exhaustive absence of glass references; cross-reference John Bray's prior microphone-rigging theory.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-7"
       ]
     },
@@ -1524,9 +1524,9 @@
       "claim_timestamp": "00:50:36",
       "investigative_direction": "Obtain official police scanner audio logs from the date; cross-reference with vehicle door mechanism and seating position documentation.",
       "mentions_person_refs": [
-        "N-268",
-        "N-332",
-        "N-489"
+        "N-267",
+        "N-331",
+        "N-488"
       ]
     },
     {
@@ -1575,7 +1575,7 @@
       "investigative_direction": "Ask the host's team or Coleman to describe the call and why the timing was disputed.",
       "transcript_snippet": "I spoke with Baron Coleman yesterday evening and he convinced me that some evidence that he knew that I had positively needed to be shared before we went away for 2 weeks.",
       "mentions_person_refs": [
-        "N-332",
+        "N-331",
         "N-3"
       ]
     },
@@ -1618,7 +1618,7 @@
       "investigative_direction": "List the specific statements by Harpole and Turek the host says are false and the records that would refute them.",
       "transcript_snippet": "just because Frank Turek tells a lie, does not mean that every single person at Turning Point USA is implicated",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-7",
         "N-3"
       ]
@@ -1641,7 +1641,7 @@
       "transcript_snippet": "People like Frank Turek, his car ride, which is told differently than it is by Brian Harpole",
       "mentions_person_refs": [
         "N-7",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -1707,7 +1707,7 @@
       "investigative_direction": "Obtain John Bray's written analysis and the source photos he supplied.",
       "transcript_snippet": "He was convinced from the very beginning, John Bray, that Charlie's microphone was rigged beneath him and that it subsequently shattered.",
       "mentions_person_refs": [
-        "N-685",
+        "N-684",
         "N-1"
       ]
     },
@@ -1907,7 +1907,7 @@
       ],
       "mentions_person_refs": [
         "N-7",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -1966,7 +1966,7 @@
       "investigative_direction": "Review footage of Cutler entering the vehicle for what he carried.",
       "transcript_snippet": "I did remember that Rick Cutler had something on his back when he was running in there",
       "mentions_person_refs": [
-        "N-489"
+        "N-488"
       ]
     },
     {
@@ -2006,8 +2006,8 @@
       "investigative_direction": "Locate the exact Harpole statement in the Paramount Tactical and Shawn Ryan interviews.",
       "transcript_snippet": "He did say I believe in the Paramount Tactical interview or maybe actually it was in the Shawn Ryan interview that he had that stuff but it wasn't relevant to what he was doing.",
       "mentions_person_refs": [
-        "N-268",
-        "N-226"
+        "N-267",
+        "N-225"
       ]
     },
     {
@@ -2133,7 +2133,7 @@
       "investigative_direction": "Obtain Bray's photos with metadata and compare against the UVU stage footage.",
       "transcript_snippet": "there is some that actually fell in front of Charlie and John Bray's getting me those photos",
       "mentions_person_refs": [
-        "N-685",
+        "N-684",
         "N-1"
       ]
     },
@@ -2157,7 +2157,7 @@
         "C-5784"
       ],
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -2245,7 +2245,7 @@
       "investigative_direction": "Ask Coleman and the Tim in question to state what alternative explanation they offered.",
       "transcript_snippet": "because I've run this with Baron. I've run it with Tim.",
       "mentions_person_refs": [
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -2265,7 +2265,7 @@
       "investigative_direction": "Find the podium remarks and the original statement and compare with hospital witnesses.",
       "transcript_snippet": "them saying that Mikey was amazing. Erika the first to say it at the podium.",
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-2"
       ]
     },
@@ -2289,7 +2289,7 @@
         "C-2993"
       ],
       "mentions_person_refs": [
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -2309,7 +2309,7 @@
       "investigative_direction": "Compare with McCoy's call log and phone call timing in the other investigative targets.",
       "transcript_snippet": "Mikey was impacted by this in a way that leads me to believe that Mikey did not know that Charlie was going to die on that day.",
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-1"
       ]
     },
@@ -2391,8 +2391,8 @@
       "investigative_direction": "List the specific public statements by each that the host says are false.",
       "transcript_snippet": "Did you really think Blake Neff, Graham Allen, and Paramount not so tactical? We're going to delude the public into the absurd story that you tried to spin.",
       "mentions_person_refs": [
-        "N-161",
-        "N-610"
+        "N-160",
+        "N-609"
       ]
     },
     {
@@ -2595,7 +2595,7 @@
       "investigative_direction": "Compare Bray's evidence compilation with the prosecution's exhibits.",
       "transcript_snippet": "I think John Bray's theory has infinitely more evidence than the story that we have been told by the prosecution, by the FBI, and by the Turning Point USA representatives.",
       "mentions_person_refs": [
-        "N-685"
+        "N-684"
       ]
     },
     {
@@ -2618,7 +2618,7 @@
         "C-2948"
       ],
       "mentions_person_refs": [
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2722,7 +2722,7 @@
       "investigative_direction": "Confirm from public records or McCoy's own statements; no source named.",
       "transcript_snippet": "I get someone who was born into I he has an arranged marriage.",
       "mentions_person_refs": [
-        "N-192"
+        "N-191"
       ]
     },
     {

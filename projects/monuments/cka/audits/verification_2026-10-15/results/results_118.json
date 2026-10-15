@@ -1,0 +1,819 @@
+[
+ {
+  "claim": "C-2476",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2477",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2478",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2479",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2480",
+  "episode": 79,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"And he [Bret] writes, right there with you, Charlie. We have to shut these maniacs down.\" Charlie then replies \"thank you. I totally agree.\"",
+  "fix": {
+   "claim": "In the June 18 text exchange the host reads, Bret Weinstein wrote \"We have to shut these maniacs down\" regarding neocons advocating war with Iran, and Charlie Kirk replied \"thank you. I totally agree.\"",
+   "label": "Bret Weinstein Wrote Neocons Must Be Shut Down and Charlie Kirk Agreed"
+  }
+ },
+ {
+  "claim": "C-2481",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2482",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name or refer to the host; N-3 is extraneous.",
+  "fix": {
+   "mentions": [
+    "N-593"
+   ]
+  }
+ },
+ {
+  "claim": "C-2483",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Neff post opens \"Charlie Kirk did not hate Ben Shapiro\"; claim omits it and frames as acknowledgment.",
+  "fix": {
+   "claim": "Blake Neff posted on X, as the host reads, that Charlie Kirk did not hate Ben Shapiro, that the two \"differed about the best direction for the conservative movement\" and that \"Charlie saw Ben as a rival.\""
+  }
+ },
+ {
+  "claim": "C-2484",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Erika Curren\" and \"Charlie Gard\" are mis-transcriptions of Erika/Charlie Kirk (widow); N-2 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-97",
+    "N-101",
+    "N-2"
+   ],
+   "names": [
+    {
+     "wrong": "Erika Curren",
+     "right": "Erika Kirk",
+     "source": "https://www.ibtimes.co.uk/michael-knowles-candace-owens-erika-kirk-feud-1797272"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2485",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Hegseth; N-5 Trump not referenced.",
+  "fix": {
+   "mentions": [
+    "N-595"
+   ]
+  }
+ },
+ {
+  "claim": "C-2486",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Trump: \"It's almost you could say we did it out of habit, which is not a good thing to do.\" Hedge dropped. Netanyahu (N-36) never named.",
+  "fix": {
+   "claim": "In a clip the host plays, Donald Trump says: \"We don't need oil... It's almost you could say we did it out of habit, which is not a good thing to do. But we did it because we have some good allies there. We have some great Middle Eastern countries there, Israel there. So, we did it for a lot of reasons.\"",
+   "mentions": [
+    "N-5"
+   ]
+  }
+ },
+ {
+  "claim": "C-2487",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Tucker: \"the crime under consideration apparently would be the Foreign Agent Act or something like that\"; hedge dropped. FARA not said by him.",
+  "fix": {
+   "claim": "In a video the host plays, Tucker Carlson says he found out \"the CIA is preparing some kind of criminal referral against me, a crime report to Department of Justice\" over \"talking to people in Iran before the war,\" and that the crime under consideration \"apparently would be the Foreign Agent Act or something like that.\""
+  }
+ },
+ {
+  "claim": "C-2488",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "China not an ally and did not decline; Meloni said \"trend of interventions that sit outside the scope of international law\". Trump (N-5) not in claim.",
+  "fix": {
+   "claim": "The host reads statements attributed to governments including Germany, the EU, Britain, Australia, Japan, China, Spain and South Korea that decline or hedge on participating in Strait of Hormuz escort operations. She says Italy's Meloni described the war as part of a trend of interventions outside the scope of international law, and that France said it would escort ships only if the conflict stabilized.",
+   "mentions": [
+    "N-379",
+    "N-596"
+   ]
+  }
+ },
+ {
+  "claim": "C-2489",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2490",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Tucker Carlson; N-22 extraneous.",
+  "fix": {
+   "mentions": [
+    "N-60"
+   ]
+  }
+ },
+ {
+  "claim": "C-2491",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Stein tweet is the conditional quoted; \"more likely arrested\" is the host's gloss.",
+  "fix": {
+   "label": "Alex Stein Tweeted About Tucker Carlson Being Arrested Before Anyone on the Epstein List"
+  }
+ },
+ {
+  "claim": "C-2492",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Trump; N-5 extraneous.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2493",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"their own worst enemy\" is outside the transcript window; unverified.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11235",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "\"captioned\" is added; speaker says \"We did this in Iran.\" Memes unrelated to Kirk case.",
+  "fix": {
+   "claim": "The host says the White House keeps posting Mortal Kombat type memes (\"Finish him. Scorpion. We did this in Iran.\").",
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11236",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11237",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Shapiro-Kelly-Morgan insult exchange is background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-11238",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Kelly-Shapiro exchange is background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-11239",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11240",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Megyn Kelly; N-46 extraneous.",
+  "fix": {
+   "mentions": [
+    "N-97",
+    "N-1",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11241",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11242",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Shapiro; N-97 extraneous.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11243",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11244",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11245",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11246",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11247",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11248",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Bret Weinstein; N-594 extraneous.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-36",
+    "N-5"
+   ]
+  }
+ },
+ {
+  "claim": "C-11249",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11250",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11251",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11252",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11253",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11254",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11255",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11256",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11257",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11258",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Shapiro-Kelly stage incident is background.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-11259",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host's personal dispute with Shapiro, not tied to the case.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11260",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": true,
+  "note": "Claim does not name Shapiro; godfather detail is personal life.",
+  "fix": {
+   "mentions": [
+    "N-101",
+    "N-3"
+   ],
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-11261",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11262",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11263",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11264",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11265",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Trump; N-5 extraneous.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-36"
+   ]
+  }
+ },
+ {
+  "claim": "C-11266",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Iran school strike is not about the Kirk case.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-11267",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11268",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11269",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11270",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11271",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11272",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11273",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11274",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Knowles; N-101 extraneous.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11275",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11276",
+  "episode": 79,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Peterson; N-597 extraneous.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ }
+]

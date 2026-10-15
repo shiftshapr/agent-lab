@@ -1,0 +1,773 @@
+[
+ {
+  "claim": "C-10291",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"strong inkling and it's not a fact\"; \"he then tells Frank, 'Hold up because the Chicago game is on'\" is her speculative reconstruction, hedge dropped.",
+  "fix": {
+   "claim": "The host speculates (calling it a strong inkling, not a fact) that Charlie shouted at the challenge around 7:16 p.m., which would have woken the toddler GG, and that he then tells Turek, \"Hold up because the Chicago game is on.\""
+  }
+ },
+ {
+  "claim": "C-10292",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says Turek was not walking at 8:00; \"as Turek implies\" is not in the transcript.",
+  "fix": {
+   "claim": "The host says the game ended at 8:30 so Turek was definitely not walking with Charlie at 8:00."
+  }
+ },
+ {
+  "claim": "C-10293",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10294",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10295",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10296",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10297",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10298",
+  "episode": 76,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"Don't quote me on that\" attaches to her mother being a scientist at a university, in the next block (52:42), not to MK Ultra.",
+  "fix": {
+   "claim": "The host says Kamala Harris' mother was involved with potentially the MK Ultra project, and that she was a scientist, adding \"Don't quote me on that.\""
+  }
+ },
+ {
+  "claim": "C-2437",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Epstein, Thiel and the Rothschilds, not Erika; N-2 not named. Rothschild Family N-522 is referred to. Email read ~03:50, ts ~20s late.",
+  "fix": {
+   "mentions": [
+    "N-9",
+    "N-523",
+    "N-522"
+   ]
+  }
+ },
+ {
+  "claim": "C-2438",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Post (09:32) says \"Uncle Allan\" is \"filled with spirit\"; it does not mention real estate or a mentor. Real-estate career is the host's separate remark at 08:22.",
+  "fix": {
+   "claim": "In a 2017 Instagram post the host reads, Erika Kirk addresses \"Uncle Allan\" as someone filled with spirit who has shown courage through adversity; the host identifies him as Alan Rothstein, whom she says chaired Win Haven Real Estates.",
+   "label": "Erika Kirk 2017 Instagram Post Thanks \"Uncle Allan\" Rothstein"
+  }
+ },
+ {
+  "claim": "C-2439",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2440",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3744",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2441",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2442",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2443",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2444",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Plate described ~30:55, $17 fund ~32:10; ts 29:37 is >75s early. Hoffman/Copp not named in claim. \"$25 annual fee\" not in transcript (\"paid a for that specialty plate, $17 of which\").",
+  "fix": {
+   "timestamp": "00:30:50",
+   "mentions": [
+    "N-1"
+   ],
+   "claim": "Per Arizona SB 1439 as the host presents it, the bill proposed a \"Charlie Kirk Memorial Plate\" specialty license plate featuring Charlie Kirk's photo and the Turning Point USA logo on an American flag background, with $17 of the fee deposited annually into a \"conservative grassroots network special plate fund.\""
+  }
+ },
+ {
+  "claim": "C-2445",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Hobbs and Charlie Kirk, not Jake Hoffman (N-579).",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-580"
+   ]
+  }
+ },
+ {
+  "claim": "C-2446",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Nine of my bills\" (~35:40) and \"nakedly partisan\" (~35:50) are 80-90s after ts 34:21; Hoffman says \"about nine\" bills, \"last year\".",
+  "fix": {
+   "timestamp": "00:35:05",
+   "claim": "On Fox News, Arizona State Senator Jake Hoffman stated that the SB 1439 veto reflects Katie Hobbs's \"nakedly partisan\" record, that Hobbs vetoed about nine of his bills the previous year, and that the Charlie Kirk plate would honor a \"civil rights leader of our time.\""
+  }
+ },
+ {
+  "claim": "C-2447",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Post says \"after Charlie was brutally murdered\"; Charlie Kirk (N-1) is clearly referred to but missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-11",
+    "N-580",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-2448",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host asserts \"Super Feed owns the copyright which means that's where your data is going\"; claim turns it into a question.",
+  "fix": {
+   "claim": "The host says the fine print on the Turning Point USA mobile application lists Super Feed Inc. as the copyright holder, which she says means that is where users' data is going."
+  }
+ },
+ {
+  "claim": "C-2449",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2450",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2451",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: NY \"from what I'm seeing at first glance supposed to hold this information for at least 6 years\"; \"from license activity\" added, hedge dropped.",
+  "fix": {
+   "claim": "The host asserts she was unable to independently verify Erika Kirk's NY real-estate license on the New York State Division of Licenses website, finding only a relic on a third-party site, and says that from what she sees at first glance the state is supposed to hold this information for at least six years."
+  }
+ },
+ {
+  "claim": "C-2452",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no individuals; Jake Hoffman (N-579) and AJ Copp (N-581) are not named in it.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-11182",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11183",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Epstein and Next Model Management only; Faith Kates (N-572) is not named in it.",
+  "fix": {
+   "mentions": [
+    "N-9"
+   ]
+  }
+ },
+ {
+  "claim": "C-11184",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11185",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"the vice president of the women's division over at Wilhelmina Models first\" (\"first\" = earlier), not \"first vice president\".",
+  "fix": {
+   "claim": "The host says Faith Kates knew Epstein before she co-founded Next because she was previously vice president of the women's division at Wilhelmina Models, which the host says Fran (Francis) Rothschild co-founded."
+  }
+ },
+ {
+  "claim": "C-11186",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11187",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11188",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11189",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11190",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11191",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11192",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11193",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11194",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11195",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11196",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11197",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11198",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11199",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11200",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11201",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11202",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11203",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11204",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11205",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11206",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11207",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Unclear speaker: \"where our base was\" is first-person, so may be quoted Erika material; transcript has no clip marker. Left as host.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11208",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11209",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11210",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I don't think it is just ironic\" and \"I feel it is a conspiracy\"; claim \"not ironic\" is ambiguous.",
+  "fix": {
+   "claim": "The host says she does not think it is just an ironic coincidence that Tyler Bowyer went to Romania in 2010 right when the military base was set up and when Dennis Frantzve (transcribed 'Dennis Brantsbay') was there."
+  }
+ },
+ {
+  "claim": "C-11211",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11212",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Tyler Bowyer is not named in the claim (ASU honorary consulate/lectorate).",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-11213",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11214",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11215",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11216",
+  "episode": 77,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

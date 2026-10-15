@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 7b329950d516234dfe924015e2ae2ceece2c1cacc9476909544e66ce23744a8b
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-805, N-11184, N-11185
+  - Tip-minted Nodes (supplement_2026-10c): N-804, N-11184, N-11185
   - Hole-minted Nodes (reintro-ep070): N-10510, N-10816
-  - Tip-minted Nodes (reintro-ep070): N-737
+  - Tip-minted Nodes (reintro-ep070): N-736
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8376–C-8432
-  - New Nodes Introduced: N-553, N-10494
-  - Reused Nodes Appearing: N-10496, N-10492, N-10493, N-10495, N-11, N-15, N-22, N-27, N-36, N-46, N-60, N-97, N-188, N-272, N-314, N-10000, N-10004, N-10018, N-10026, N-10027, N-10075, N-10117, N-10122, N-10268, N-10290, N-10316, N-10317, N-10340, N-10342, N-10386, N-10422, N-10446, N-10456, N-10483, N-10548, N-10549, N-10560, N-10905, N-11038, N-11186, N-10806
+  - New Nodes Introduced: N-552, N-10494
+  - Reused Nodes Appearing: N-10496, N-10492, N-10493, N-10495, N-11, N-15, N-22, N-27, N-36, N-46, N-60, N-97, N-187, N-271, N-313, N-10000, N-10004, N-10018, N-10026, N-10027, N-10075, N-10117, N-10122, N-10268, N-10290, N-10316, N-10317, N-10340, N-10342, N-10386, N-10422, N-10446, N-10456, N-10483, N-10548, N-10549, N-10560, N-10905, N-11038, N-11186, N-10806
   - (see registers)
 
 ## 2. Executive Summary
@@ -212,7 +212,7 @@ Video Timestamp: 00:24:02–00:28:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2319, C-2320, C-2321, C-2322, N-553, N-495, N-10492*
+*Related: C-2319, C-2320, C-2321, C-2322, N-552, N-494, N-10492*
 
 ---
 
@@ -226,7 +226,7 @@ Video Timestamp: 00:33:22–00:35:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2323, C-2324, N-279, N-2*
+*Related: C-2323, C-2324, N-278, N-2*
 
 ---
 
@@ -328,7 +328,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-553** Aubrey Laitsch
+**N-552** Aubrey Laitsch
 
 Former TPUSA public relations manager; spoke publicly about termination process in self-published video. Artifact-backed person new to the series record.
 
@@ -337,9 +337,9 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1747.1, C-2319, C-2320, C-2321, C-2322, N-495, N-10492*
+*Related: A-1747.1, C-2319, C-2320, C-2321, C-2322, N-494, N-10492*
 
-**N-495** Marina (TPUSA CMO)
+**N-494** Marina (TPUSA CMO)
 
 Identified on-air as CMO of Turning Point USA; named by Aubrey Laitsch as present at her termination meeting.
 
@@ -348,9 +348,9 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1747.1, C-2322, N-553*
+*Related: A-1747.1, C-2322, N-552*
 
-**N-279** Tim Dillon
+**N-278** Tim Dillon
 
 Comedian / podcaster; artifact-backed on-air clip commenting on Erika Kirk and political performance.
 
@@ -370,7 +370,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1747.1, A-1749.1, C-2320, C-2321, C-2322, C-2325, N-553, N-495*
+*Related: A-1747.1, A-1749.1, C-2320, C-2321, C-2322, C-2325, N-552, N-494*
 
 **N-10493** Pierre / French Donor Investigation
 
@@ -465,7 +465,7 @@ TPUSA executive; the 'Tyler' the host says she suspected.
 
 ---
 
-**N-188** Stacy Sheridan
+**N-187** Stacy Sheridan
 
 Person the host says she warned Charlie Kirk about in 2019.
 
@@ -473,7 +473,7 @@ Person the host says she warned Charlie Kirk about in 2019.
 
 ---
 
-**N-272** Dan Flood
+**N-271** Dan Flood
 
 Person the host says she warned Charlie Kirk about and who received his night-before text.
 
@@ -529,7 +529,7 @@ Named by the host in the Ben Shapiro exchange.
 
 ---
 
-**N-314** Pierre Falcone
+**N-313** Pierre Falcone
 
 The host guesses that the donor Pierre is Pierre Falcone ('Falcone' in the transcript).
 
@@ -537,7 +537,7 @@ The host guesses that the donor Pierre is Pierre Falcone ('Falcone' in the trans
 
 ---
 
-**N-737** Ike Perlmutter
+**N-736** Ike Perlmutter
 
 Ike Perlmutter, named by the host for the Mar-a-Lago fundraising meeting (confirmed by the HappyScribe transcript of Candace Ep 303 at 00:04:58).
 
@@ -761,7 +761,7 @@ Existing organization; the host's 'Schaefer security' in the transcript.
 
 ---
 
-**N-805** Don Orrico
+**N-804** Don Orrico
 
 Named by the host at 00:13:09 in episode 70 as a Turning Point USA contact in Tampa. Florida-based major-gifts fundraiser (formerly Mackinac Center director of strategic partnerships); TPUSA role unconfirmed.
 
@@ -835,7 +835,7 @@ Claim Timestamp: 00:12:11–00:12:25
 Claim: The host says Erika Kirk said in her Jesse Watters interview that she wanted Charlie to have a good night's sleep and sent him to sleep in his daughter's room.
 
 Anchored Artifacts: A-1746.1
-Mentions: N-1, N-2, N-213
+Mentions: N-1, N-2, N-212
 Investigative Direction: Locate unedited Watters interview footage and confirm the bedroom-arrangement quote.
 
 **C-2318** Erika told Jesse Watters she landed in Utah and went straight to the hospital
@@ -845,7 +845,7 @@ Claim Timestamp: 00:19:42–00:20:30
 Claim: In a clip the host plays from the Jesse Watters interview, Erika Kirk says that after landing in Utah, she went straight to the hospital.
 
 Anchored Artifacts: A-1746.2
-Mentions: N-2, N-213
+Mentions: N-2, N-212
 Related Nodes: N-10494
 Investigative Direction: Cross-check flight manifests, tarmac timing, and Andrew Kolvet's stated arrival sequence against the Watters account.
 
@@ -856,7 +856,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: In a video the host plays, Aubrey Laitsch identifies herself as the former public relations manager for Turning Point USA, employed since 2021, working through America Fest in December 2025, and terminated approximately three weeks before posting.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-553
+Mentions: N-552
 Investigative Direction: Verify Lech's employment dates and termination date via TPUSA / ATK records.
 
 **C-2320** Aubrey Laitsch stated termination meeting involved Uber-driver conversation
@@ -866,7 +866,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: Aubrey Laitsch's video states she was brought into a meeting with Andrew Kolvet and Marina Munz and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to "Aubrey."
 
 Anchored Artifacts: A-1747.1
-Mentions: N-495, N-553, N-14
+Mentions: N-494, N-552, N-14
 Related Nodes: N-10492
 Investigative Direction: Identify the Turning Point executive referenced in the Uber driver conversation; verify whether the conversation occurred as described.
 
@@ -877,7 +877,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: Aubrey Laitsch's video states her personal belief that she was terminated because she was questioning the official narrative regarding Charlie Kirk's death, and that questioning the narrative is incompatible with continued TPUSA employment.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-553, N-1
+Mentions: N-552, N-1
 Related Nodes: N-10492
 Investigative Direction: Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.
 
@@ -888,7 +888,7 @@ Claim Timestamp: 00:24:02–00:28:28
 Claim: In a video the host plays, Aubrey Laitsch names Andrew Kolvet (described as her employer via ATK) and Marina Munz (CMO of Turning Point USA) as the two people present at her termination meeting.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-495, N-553, N-14
+Mentions: N-494, N-552, N-14
 Investigative Direction: Verify Marina Munz's title and organizational role via TPUSA public records.
 
 **C-2323** Tim Dillon clip describes political performance as "fake"
@@ -898,7 +898,7 @@ Claim Timestamp: 00:33:22–00:35:00
 Claim: The Tim Dillon clip played on air contains the statement that political positioning by tech figures is "performative" and that "everything is fake," including free-speech actors who once criticized and now shut down free speech.
 
 Anchored Artifacts: A-1748.1
-Mentions: N-279
+Mentions: N-278
 Investigative Direction: Identify the source episode of the Dillon clip and capture the full surrounding context.
 
 **C-2324** Tim Dillon clip names Erika Kirk as "the only person I trust"
@@ -908,7 +908,7 @@ Claim Timestamp: 00:33:22–00:35:00
 Claim: The Tim Dillon clip played on air contains the line, delivered sarcastically per host framing, naming Erika Kirk as "the only person I trust" in the current moment.
 
 Anchored Artifacts: A-1748.1
-Mentions: N-2, N-279
+Mentions: N-2, N-278
 Investigative Direction: Locate the unedited Dillon segment to determine whether the Erika line was delivered sarcastically, earnestly, or in mixed register.
 
 **C-2325** Host references Purge Fallout GoFundMe supporting fired TPUSA employees
@@ -994,7 +994,7 @@ Claim: The host says Charlie Kirk took a fundraising meeting in Florida with Ike
 Transcript Snippet: Charlie had taken a meeting down in Florida with Ike Perlmutter at Mara Lago. It was a a fundraising meeting.
 
 Anchored Artifacts: 
-Mentions: N-1, N-3, N-737
+Mentions: N-1, N-3, N-736
 Related Nodes: N-11185
 Tags: relevance:context
 Investigative Direction: Ike Perlmutter is confirmed by the HappyScribe transcript of Candace Ep 303 (00:04:58, "a meeting down in Florida with Ike Perlmutter at Mar-a-Lago"). Check for records of a 2019 lunch or fundraising meeting with Charlie Kirk.
@@ -1010,7 +1010,7 @@ Claim: The host says that in an elevator at the Trump Hotel in DC Charlie Kirk t
 Transcript Snippet: Because you had you had lunch with him yesterday at Mara Lago.
 
 Anchored Artifacts: 
-Mentions: N-1, N-3, N-737
+Mentions: N-1, N-3, N-736
 Related Nodes: N-11185
 Tags: relevance:context
 Investigative Direction: Seek corroboration (calendar entries, photos, staff) of the Mar-a-Lago lunch and of the elevator exchange; only the host and Charlie Kirk were present.
@@ -1042,7 +1042,7 @@ Claim: The host says she warned Charlie Kirk about Schaefer security and Dan Flo
 Transcript Snippet: I also warned him about Schaefer security and Dan Flood. You can check the text messages because you have them.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-272, N-2
+Mentions: N-3, N-1, N-271, N-2
 Related Nodes: N-11038, N-10806
 Tags: relevance:core
 Investigative Direction: Obtain the host's text messages to Charlie Kirk warning about the security firm and Dan Flood; compare with her earlier claims about Scheper Security.
@@ -1058,7 +1058,7 @@ Claim: The host says she warned Charlie Kirk about Stacy Sheridan and suspected 
 Transcript Snippet: And I suspected she and Tyler had something to do with it.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-188, N-11
+Mentions: N-3, N-1, N-187, N-11
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Establish who 'Tyler' is (the host elsewhere discusses Tyler Bowyer) and what Sheridan's role in the 2019 fundraising was; this is the host's suspicion, not shown evidence.
@@ -1265,7 +1265,7 @@ Claim: The host says Pierre had a phone call with Justin Streiff and another wit
 Transcript Snippet: Pierre had a phone call with Justin Streiff. He also had a phone call uh with Mr. Don Orrico of Turning Point USA down in Tampa.
 
 Anchored Artifacts: A-2931.1
-Mentions: N-3, N-15, N-805
+Mentions: N-3, N-15, N-804
 Related Nodes: N-10493, N-10000
 Tags: relevance:core
 Investigative Direction: Identification as Don Orrico (Florida-based major-gifts fundraiser, formerly Mackinac Center director of strategic partnerships, Estero FL) is by name match; confirm his TPUSA role and obtain call records for the alleged calls.
@@ -1329,7 +1329,7 @@ Claim: The host says her best guess is that Pierre is Pierre Falcone of Angolaga
 Transcript Snippet: My best guess is that it was Pierre Falcone all along of Angola Gate.
 
 Anchored Artifacts: 
-Mentions: N-3, N-314
+Mentions: N-3, N-313
 Related Nodes: N-11186, N-10317, N-10026
 Supports: C-6832
 Tags: relevance:core
@@ -1555,7 +1555,7 @@ Claim: Aubrey Laitsch's video says her phone received hundreds of calls and thou
 Transcript Snippet: My phone received hundreds of phone calls on September 10th, thousands of text messages.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-553
+Mentions: N-552
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Corroborate Lech's workload with TPUSA staff and press-office call logs, which she could produce.
@@ -1587,7 +1587,7 @@ Claim: The host says she thinks, as Aubrey Laitsch says, that the firings were m
 Transcript Snippet: I think in the end there when she says that this was actually motivated by them going after people who they suspected were not loyal to Erika
 
 Anchored Artifacts: A-1747.1
-Mentions: N-3, N-553, N-2
+Mentions: N-3, N-552, N-2
 Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: Collect accounts from other fired employees about the stated and unstated reasons for their dismissals.
@@ -1763,7 +1763,7 @@ Claim: The host says Aubrey Laitsch did not mention in her video that TPUSA also
 Transcript Snippet: they also then fired her fiance. So their entire uh income in one house was wiped out in one day.
 
 Anchored Artifacts: A-1747.1
-Mentions: N-3, N-553
+Mentions: N-3, N-552
 Related Nodes: N-10492
 Tags: relevance:core
 Investigative Direction: Confirm the fiance's employment and dismissal with Lech or TPUSA records.
@@ -1811,7 +1811,7 @@ Claim: The host says that whether or not the messages existed, Dan Flood and And
 Transcript Snippet: Dan Flood and Andrew Kolvet would have told her that.
 
 Anchored Artifacts: A-2933.1
-Mentions: N-3, N-272, N-14, N-2
+Mentions: N-3, N-271, N-14, N-2
 Related Nodes: N-10340, N-10806
 Tags: relevance:core
 Investigative Direction: Ask Flood and Kolvet whether they received the text and whether they informed Erika Kirk.

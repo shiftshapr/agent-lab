@@ -83,7 +83,7 @@
             "C-1685"
           ],
           "related_nodes": [
-            "N-251",
+            "N-250",
             "N-10247"
           ],
           "tags": [],
@@ -110,7 +110,7 @@
             "C-1684"
           ],
           "related_nodes": [
-            "N-251"
+            "N-250"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -138,7 +138,7 @@
             "C-1689"
           ],
           "related_nodes": [
-            "N-251",
+            "N-250",
             "N-10247"
           ],
           "tags": [],
@@ -157,7 +157,7 @@
             "C-1688"
           ],
           "related_nodes": [
-            "N-251"
+            "N-250"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -207,7 +207,7 @@
             "C-1691"
           ],
           "related_nodes": [
-            "N-214"
+            "N-213"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -473,7 +473,7 @@
             "C-6608"
           ],
           "related_nodes": [
-            "N-251",
+            "N-250",
             "N-3"
           ],
           "tags": [],
@@ -561,7 +561,7 @@
             "C-6647"
           ],
           "related_nodes": [
-            "N-207",
+            "N-206",
             "N-3"
           ],
           "tags": [],
@@ -587,8 +587,8 @@
             "C-6664"
           ],
           "related_nodes": [
-            "N-249",
-            "N-214",
+            "N-248",
+            "N-213",
             "N-3"
           ],
           "tags": [],
@@ -653,8 +653,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-251",
-      "ref": "N-251",
+      "@id": "N-250",
+      "ref": "N-250",
       "name": "Thomas Michael Camino",
       "type": "person",
       "description": "California sex offender convicted in 1995 of child molestation and sentenced to 8 years; subsequently befriended by Rob McCoy and placed in Calvary Chapel home-fellowship program with access to children.",
@@ -682,8 +682,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-214",
-      "ref": "N-214",
+      "@id": "N-213",
+      "ref": "N-213",
       "name": "Alexis Wilkins",
       "type": "person",
       "description": "Country-music artist referenced as Kash Patel's girlfriend and as a member of Calvary Chapel Church in Chino Hills, California. Subject of Tim Dillon comedy segment.",
@@ -720,8 +720,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-251",
-        "N-214"
+        "N-250",
+        "N-213"
       ]
     },
     {
@@ -739,7 +739,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -1100,8 +1100,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "The host says releasing his call logs would not endanger the case.",
@@ -1117,8 +1117,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-207",
-      "ref": "N-207",
+      "@id": "N-206",
+      "ref": "N-206",
       "name": "Sean Feucht",
       "type": "person",
       "description": "Transcript renders him as Sean Fo; the host cites a September 30 article on mismanagement of funds.",
@@ -1134,8 +1134,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-210",
-      "ref": "N-210",
+      "@id": "N-209",
+      "ref": "N-209",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Calvary Chapel pastor the host says hosts 5 a.m. calls against her and Tucker Carlson.",
@@ -1152,8 +1152,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "The host says she posted a video about not having dreams and called the host a liar in her own way.",
@@ -1170,8 +1170,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-248",
-      "ref": "N-248",
+      "@id": "N-247",
+      "ref": "N-247",
       "name": "Butch Hibbs",
       "type": "person",
       "description": "Jack Hibbs' brother, whom the host says was everywhere before and after the assassination.",
@@ -1187,8 +1187,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-249",
-      "ref": "N-249",
+      "@id": "N-248",
+      "ref": "N-248",
       "name": "Elijah Schaefer",
       "type": "person",
       "description": "Defendant in the lawsuit the host says concerns a joke.",
@@ -1204,8 +1204,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-279",
-      "ref": "N-279",
+      "@id": "N-278",
+      "ref": "N-278",
       "name": "Tim Dillon",
       "type": "person",
       "description": "Comedian whose clip is played; the host says he is included in her Macron lawsuit.",
@@ -1221,8 +1221,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-300",
-      "ref": "N-300",
+      "@id": "N-299",
+      "ref": "N-299",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "A commenter asks if she was the donor who yelled at Charlie; the host says no and that she is trying to remove Massie.",
@@ -1239,8 +1239,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-379",
-      "ref": "N-379",
+      "@id": "N-378",
+      "ref": "N-378",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Named by the host in the Macron investigation passage.",
@@ -1256,8 +1256,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-583",
-      "ref": "N-583",
+      "@id": "N-582",
+      "ref": "N-582",
       "name": "Thomas Massie",
       "type": "person",
       "description": "The host says Miriam Adelson is trying to remove him.",
@@ -1273,8 +1273,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-617",
-      "ref": "N-617",
+      "@id": "N-616",
+      "ref": "N-616",
       "name": "Cardi B",
       "type": "person",
       "description": "The host says her book starts and ends with Cardi B.",
@@ -1290,8 +1290,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-717",
-      "ref": "N-717",
+      "@id": "N-716",
+      "ref": "N-716",
       "name": "Chuck Smith",
       "type": "person",
       "description": "The host names him as the founder of Calvary Chapel.",
@@ -1705,8 +1705,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-760",
-      "ref": "N-760",
+      "@id": "N-759",
+      "ref": "N-759",
       "name": "Bob Coy",
       "type": "person",
       "description": "First named by the host at 00:19:19 in episode 31. Pompo Beach, Florida Calvary Chapel founder accused of molesting a 4-year-old; the host stresses he is not Rob McCoy.",
@@ -1722,8 +1722,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-761",
-      "ref": "N-761",
+      "@id": "N-760",
+      "ref": "N-760",
       "name": "Jason James Taylor",
       "type": "person",
       "description": "First named by the host at 00:19:19 in episode 31. Lead pastor of Calvary Chapel Solid Rock in Minnesota, named by the host as one of six arrested in a sting.",
@@ -1739,8 +1739,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-762",
-      "ref": "N-762",
+      "@id": "N-761",
+      "ref": "N-761",
       "name": "Anthony Iglesias",
       "type": "person",
       "description": "First named by the host at 00:19:19 in episode 31. Named by the host (spelled Anthony Iglesias) as a predator the Post Falls church allegedly concealed; she says he is serving time in Idaho.",
@@ -1756,8 +1756,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-763",
-      "ref": "N-763",
+      "@id": "N-762",
+      "ref": "N-762",
       "name": "Robert Davis",
       "type": "person",
       "description": "First named by the host at 00:19:19 in episode 31. Reverend and lead pastor of North County Chapel in Post Falls, Idaho, whom the lawsuit alleges made the Thailand remark.",
@@ -1773,8 +1773,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-764",
-      "ref": "N-764",
+      "@id": "N-763",
+      "ref": "N-763",
       "name": "Doug DeAndrea",
       "type": "person",
       "description": "First named by the host at 00:21:14 in episode 31. Former Calvary Chapel pastor in Virginia the host says pleaded guilty to child sex abuse.",
@@ -1790,8 +1790,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-765",
-      "ref": "N-765",
+      "@id": "N-764",
+      "ref": "N-764",
       "name": "Jeffrey Zizz",
       "type": "person",
       "description": "First named by the host at 00:21:14 in episode 31. Oregon Calvary Chapel pastor the host says confessed to misconduct with his daughters and later committed a murder (name as rendered in the transcript).",
@@ -1807,8 +1807,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-766",
-      "ref": "N-766",
+      "@id": "N-765",
+      "ref": "N-765",
       "name": "Diddy",
       "type": "person",
       "description": "First named by the host at 00:22:47 in episode 31. Referred to by the host as Diddy in the passage on the man who said the feds run a cartel operation.",
@@ -1825,8 +1825,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-767",
-      "ref": "N-767",
+      "@id": "N-766",
+      "ref": "N-766",
       "name": "Kenny",
       "type": "person",
       "description": "First named by the host at 00:25:17 in episode 31. Former Potter's Fields Ignite student the host says blew the whistle on alleged financial fraud (spelled Kenzie Kenny and Kenny in the transcript).",
@@ -1917,7 +1917,7 @@
       "claim_timestamp": "00:09:22",
       "investigative_direction": "Retrieve original LA Times 1995 article and California court records for People v. Camino to confirm conviction counts, sentence, and dates; cross-check against prior 1990 Manhattan Beach probation.",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -1936,7 +1936,7 @@
       "claim_timestamp": "00:08:10",
       "investigative_direction": "Verify sender identity, confirm testimony record in People v. Camino, and authenticate email provenance.",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -1953,7 +1953,7 @@
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Obtain full unedited Bryce Eddie Show episode; verify Skyline identification and dates; identify all co-attended Calvary Chapel events.",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-17"
       ]
     },
@@ -1973,7 +1973,7 @@
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Obtain 2022 Calvary Chapel statements and any internal records; identify families enrolled in home fellowship at the relevant time; review mothers' 2022 public complaints.",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-17"
       ]
     },
@@ -1991,7 +1991,7 @@
       "claim_timestamp": "00:13:55",
       "investigative_direction": "Cross-check appellate court findings against Camino's narrative; verify the appeal court ruling referenced in his account; identify the public defender named.",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2010,7 +2010,7 @@
       "claim_timestamp": "00:12:54",
       "investigative_direction": "Locate original 2022 mothers' posts or complaints; verify whether McCoy's framing preceded or followed formal disclosure.",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-17"
       ]
     },
@@ -2048,8 +2048,8 @@
       "claim_timestamp": "00:46:40",
       "investigative_direction": "Identify Tim Dillon's show and episode date; verify Wilkins's Calvary Chapel Chino Hills membership via official church roster.",
       "mentions_person_refs": [
-        "N-279",
-        "N-214",
+        "N-278",
+        "N-213",
         "N-69"
       ]
     },
@@ -2229,7 +2229,7 @@
       "investigative_direction": "Locate Stuckey's video from the days before 2025-11-13 and confirm the wording about dreams.",
       "transcript_snippet": "By Stucky just did this, too. She did a video and was like, I don't I don't have these dreams.",
       "mentions_person_refs": [
-        "N-229",
+        "N-228",
         "N-3"
       ]
     },
@@ -2273,7 +2273,7 @@
         "C-1563"
       ],
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-1",
         "N-3"
       ]
@@ -2357,7 +2357,7 @@
       "investigative_direction": "Pull the 1990 California court record for Camino; note that Manhattan Beach is in Los Angeles County, not Orange County, and confirm the plea and probation terms.",
       "transcript_snippet": "In 1990, uh, Camino was placed on probation for pleading no contest to lewd conduct involving children in Manhattan Beach.",
       "mentions_person_refs": [
-        "N-251",
+        "N-250",
         "N-3"
       ]
     },
@@ -2383,7 +2383,7 @@
         "C-1688"
       ],
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2408,7 +2408,7 @@
         "C-1684"
       ],
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2432,7 +2432,7 @@
       ],
       "mentions_person_refs": [
         "N-17",
-        "N-251",
+        "N-250",
         "N-3"
       ]
     },
@@ -2478,7 +2478,7 @@
       ],
       "mentions_person_refs": [
         "N-17",
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2500,7 +2500,7 @@
       "investigative_direction": "Obtain the trial transcript and the recorded interview to check Camino's description of how the child's statement was elicited.",
       "transcript_snippet": "And then they just keep asking her leading question after leading question and the kid's not giving them what they want.",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2522,7 +2522,7 @@
       "investigative_direction": "Obtain the search warrant return from the Orange County court file and the list of items seized.",
       "transcript_snippet": "They get 11 of them, which kind sounds kind of bad until you read what it is.",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2544,7 +2544,7 @@
       "investigative_direction": "Obtain the trial exhibits and forensic reports to check the footprint and palm print evidence and any plea offer.",
       "transcript_snippet": "they say they have footprints, forensic evidence, footprints and a palm print of yours that they lifted from a scene",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2569,7 +2569,7 @@
         "C-6608"
       ],
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2591,7 +2591,7 @@
       "investigative_direction": "Retrieve the California Court of Appeal opinion in People v. Camino and read its harmless-error holding.",
       "transcript_snippet": "Yes, we agree. They broke the law twice out of out of the three points and they violated your rights.",
       "mentions_person_refs": [
-        "N-251"
+        "N-250"
       ]
     },
     {
@@ -2635,7 +2635,7 @@
       "investigative_direction": "Search Florida court and news records for the accusation against Bob Coy and its outcome.",
       "transcript_snippet": "Then he got accused of molesting a 4-year-old girl.",
       "mentions_person_refs": [
-        "N-760",
+        "N-759",
         "N-17",
         "N-3"
       ]
@@ -2725,7 +2725,7 @@
       "investigative_direction": "Locate Minnesota task force press releases and court records naming Jason James Taylor and the case outcome.",
       "transcript_snippet": "He was among six people who were arrested following a solicitation of minors.",
       "mentions_person_refs": [
-        "N-761",
+        "N-760",
         "N-3"
       ]
     },
@@ -2748,8 +2748,8 @@
       "investigative_direction": "Retrieve the Idaho civil complaint and the criminal judgment against Eglacius and check the quoted allegation.",
       "transcript_snippet": "Yeah, we knew that's why we pulled him out of Thailand.",
       "mentions_person_refs": [
+        "N-761",
         "N-762",
-        "N-763",
         "N-3"
       ]
     },
@@ -2795,7 +2795,7 @@
       "investigative_direction": "Locate the Virginia court records for the pastor (the transcript spells the name Deandria) and the sentence.",
       "transcript_snippet": "The former Calvary uh pastor's name was Doug DeAndrea. He is currently serving time in jail in Virginia on multiple charges related to child sex abuse.",
       "mentions_person_refs": [
-        "N-764",
+        "N-763",
         "N-3"
       ]
     },
@@ -2840,7 +2840,7 @@
       "investigative_direction": "Identify the pastor (the transcript spells the name Jeffrey Zizz) and the Oregon conviction and homicide case records.",
       "transcript_snippet": "He went to prison for 11 months. And then when he got out, he murdered an 80year-old and poured concrete.",
       "mentions_person_refs": [
-        "N-765",
+        "N-764",
         "N-3"
       ]
     },
@@ -2859,7 +2859,7 @@
       "investigative_direction": "Identify the man and the shooting incident the host means and check the Combs trial testimony for any reference to him.",
       "transcript_snippet": "Cassie then verified on the stand that she knew who this man was um and that he had been invited to these parties.",
       "mentions_person_refs": [
-        "N-766",
+        "N-765",
         "N-3"
       ]
     },
@@ -2879,7 +2879,7 @@
       "transcript_snippet": "that Diddy had been blackmailed by the feds and that part of his deal was that he had to keep certain other people in line like Kanye.",
       "mentions_person_refs": [
         "N-27",
-        "N-766",
+        "N-765",
         "N-3"
       ]
     },
@@ -2942,7 +2942,7 @@
       "investigative_direction": "Locate the original news report quoting Kenny and the ministry's response, and check the donor mailings.",
       "transcript_snippet": "I would say maybe like 500. And that would be between all five countries,\" Kenny said.",
       "mentions_person_refs": [
-        "N-767",
+        "N-766",
         "N-3"
       ]
     },
@@ -3052,8 +3052,8 @@
         "C-1674"
       ],
       "mentions_person_refs": [
-        "N-210",
-        "N-248",
+        "N-209",
+        "N-247",
         "N-1",
         "N-3"
       ]
@@ -3075,7 +3075,7 @@
       "investigative_direction": "Obtain the 5 a.m. call invitations or recordings and the emailers' accounts.",
       "transcript_snippet": "He's hosting 500 a. m. calls against me and Tucker Carlson",
       "mentions_person_refs": [
-        "N-210",
+        "N-209",
         "N-22",
         "N-3"
       ]
@@ -3097,7 +3097,7 @@
       "investigative_direction": "Review documented histories of Chuck Smith and the Jesus Movement for any intelligence-agency link; none is shown on air.",
       "transcript_snippet": "the CIA implications of who exactly started the Calvary Chapel",
       "mentions_person_refs": [
-        "N-717",
+        "N-716",
         "N-3"
       ]
     },
@@ -3159,7 +3159,7 @@
       "transcript_snippet": "the Fed level coverup, uh, which includes a never-before-seen lawsuit, which is just meant to be propagandists to make people think of there's nothing here",
       "mentions_person_refs": [
         "N-82",
-        "N-379",
+        "N-378",
         "N-3"
       ]
     },
@@ -3220,7 +3220,7 @@
       "investigative_direction": "Identify the September 30 article, confirm the person is Sean Feucht and review the funds allegations and any response.",
       "transcript_snippet": "including Sean Fo, there's like an article from September 30th talking about the mismanagement of funds, accusing him of the mismanagement of funds.",
       "mentions_person_refs": [
-        "N-207",
+        "N-206",
         "N-3"
       ]
     },
@@ -3491,7 +3491,7 @@
       "investigative_direction": "Locate Stuckey's video and the host's earlier response and compare with the host's characterization.",
       "transcript_snippet": "trying to tell it's not biblical for you to pry into what's happened to the Charlie Kirk assassination place.",
       "mentions_person_refs": [
-        "N-229",
+        "N-228",
         "N-1",
         "N-3"
       ]
@@ -3513,7 +3513,7 @@
       "investigative_direction": "Locate biographical sources on Wilkins' family and any time in Switzerland; the host cites none.",
       "transcript_snippet": "who comes from a family of Freemasons and who's got a spotty background.",
       "mentions_person_refs": [
-        "N-214",
+        "N-213",
         "N-69",
         "N-3"
       ]
@@ -3538,7 +3538,7 @@
         "C-1691"
       ],
       "mentions_person_refs": [
-        "N-214",
+        "N-213",
         "N-3"
       ]
     },
@@ -3581,8 +3581,8 @@
       "investigative_direction": "Retrieve the complaint against Schaefer and check what statements it quotes and whether it cites his views on Israel.",
       "transcript_snippet": "that's what Elijah Schaefer's lawsuit is about. It's a joke. And in the lawsuit, they talk about his anti-Israel rhetoric.",
       "mentions_person_refs": [
-        "N-249",
-        "N-214",
+        "N-248",
+        "N-213",
         "N-69",
         "N-3"
       ]
@@ -3604,9 +3604,9 @@
       "investigative_direction": "Check the Macron complaint's list of defendants and quoted statements to see whether Dillon is named or cited.",
       "transcript_snippet": "Apparently the president of France watches um Tim Dillon and we talked about the Breij case and so he's drafted in there.",
       "mentions_person_refs": [
-        "N-279",
+        "N-278",
         "N-82",
-        "N-379",
+        "N-378",
         "N-3"
       ]
     },
@@ -3690,7 +3690,7 @@
       "transcript_snippet": "It starts with Cardi B and it ends with Cardi B.",
       "mentions_person_refs": [
         "N-3",
-        "N-617"
+        "N-616"
       ]
     },
     {
@@ -3778,7 +3778,7 @@
       "investigative_direction": "Identify the donor who confronted Kirk; the host says the name is saved in her phone, so ask her to disclose it.",
       "transcript_snippet": "No, it was not her.",
       "mentions_person_refs": [
-        "N-300",
+        "N-299",
         "N-1",
         "N-3"
       ]
@@ -3802,8 +3802,8 @@
       "investigative_direction": "Check federal election filings for Adelson-linked spending against Massie; note that Massie is a US Representative, not a Senator.",
       "transcript_snippet": "Uh, she's trying to remove Senator Massie.",
       "mentions_person_refs": [
-        "N-300",
-        "N-583",
+        "N-299",
+        "N-582",
         "N-3"
       ]
     },

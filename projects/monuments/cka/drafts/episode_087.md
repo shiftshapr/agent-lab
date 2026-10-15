@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: b4380e6d087a8764d74904be2628e149d3b959bb6ee30a42cff982058d3dc8cf
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-947, N-11398, N-11399
+  - Tip-minted Nodes (supplement_2026-10g): N-946, N-11398, N-11399
   - Hole-minted Nodes (reintro-ep087): N-10620, N-10888
   - Tip-minted Nodes (reintro-ep087): N-11142, N-11199
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-14550–C-14629
   - New Nodes Introduced: N-10574, N-10575, N-10577, N-10578, N-10579, N-10580
-  - Hole-minted Nodes (wave3): N-412, N-413, N-414, N-415, N-416, N-417, N-418, N-419
-  - Reused Nodes Appearing: N-10153, N-28, N-10569, N-10576, N-10581, N-6, N-14, N-42, N-54, N-61, N-128, N-211, N-263, N-332, N-363, N-711, N-714, N-10000, N-10007, N-10012, N-10014, N-10032, N-10048, N-10065, N-10074, N-10076, N-10078, N-10082, N-10092, N-10106, N-10110, N-10144, N-10168, N-10184, N-10202, N-10223, N-10239, N-10253, N-10326, N-10337, N-10342, N-10346, N-10347, N-10354, N-10355, N-10367, N-10370, N-10383, N-10446, N-10456, N-10495, N-10535, N-10539, N-10543, N-10551, N-10572, N-10573, N-10674, N-10975, N-11128, N-11208, N-11325
+  - Hole-minted Nodes (wave3): N-411, N-412, N-413, N-414, N-415, N-416, N-417, N-418
+  - Reused Nodes Appearing: N-10153, N-28, N-10569, N-10576, N-10581, N-6, N-14, N-42, N-54, N-61, N-128, N-210, N-262, N-331, N-362, N-710, N-713, N-10000, N-10007, N-10012, N-10014, N-10032, N-10048, N-10065, N-10074, N-10076, N-10078, N-10082, N-10092, N-10106, N-10110, N-10144, N-10168, N-10184, N-10202, N-10223, N-10239, N-10253, N-10326, N-10337, N-10342, N-10346, N-10347, N-10354, N-10355, N-10367, N-10370, N-10383, N-10446, N-10456, N-10495, N-10535, N-10539, N-10543, N-10551, N-10572, N-10573, N-10674, N-10975, N-11128, N-11208, N-11325
   - (see registers)
 
 ---
@@ -57,7 +57,7 @@
 
 This episode is the second installment of a two-part series on the alleged Romney–Netanyahu–Utah network and the institutional ties Candace Owens is building between BYU, the CIA, and the September 10 events. The host advances a "Romney/Provo/Bibi" investigative axis, drawing on a 2012 New York Times article confirming a 1976-dating friendship between Mitt Romney and Benjamin Netanyahu as the anchoring evidentiary artifact.
 
-The bulk of the episode's new evidentiary material concerns Zachariah "Zack" Qureshi (also called "Zachariah Karashy"), who the host labels "decoy boy number two" – a young man briefly detained and released hours after the shooting. The host reads Kash Patel's 4:21 PM "subject in custody" tweet and his 5:59 PM walk-back, then links Zack's father Ahmed Qureshi (a Navy O6) to a defense-contracting startup called Built Incorporated that received approximately $7.4M in Air Force contracts in June 2025, citing USA Spending data played in a Baron Coleman audio clip. Ahmed Qureshi's co-founder Nathan Henderson, his wife Gina Romney Henderson (a Built VP), and their son Connor (a former ER scribe at Timpanogos) are introduced as a network of related actors.
+The bulk of the episode's new evidentiary material concerns Zachariah "Zack" Qureshi (also called "Zachariah Qureshi"), who the host labels "decoy boy number two" – a young man briefly detained and released hours after the shooting. The host reads Kash Patel's 4:21 PM "subject in custody" tweet and his 5:59 PM walk-back, then links Zack's father Ahmed Qureshi (a Navy O6) to a defense-contracting startup called Built Incorporated that received approximately $7.4M in Air Force contracts in June 2025, citing USA Spending data played in a Baron Coleman audio clip. Ahmed Qureshi's co-founder Nathan Henderson, his wife Gina Romney Henderson (a Built VP), and their son Connor (a former ER scribe at Timpanogos) are introduced as a network of related actors.
 
 The episode also surfaces a Washington Post 2007 article on the FBI's abandoned comparative bullet lead analysis technique – the host reads excerpts showing the technique was used after the JFK assassination and formally abandoned in 2005 – and plays a Trump Easter clip in which Trump tells Erika Kirk to "sue" critics. Several speculative claims (Metro One Talent as CIA recruiter, BYU Jerusalem as CIA recruitment site, Michael Shawn Covey as a CIA contractor) are presented as certain but lack artifacts shown in the episode.
 
@@ -324,7 +324,7 @@ Video Timestamp: 00:22:43
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14584, N-40, N-416*
+*Related: C-14584, N-40, N-415*
 
 ---
 
@@ -337,7 +337,7 @@ Video Timestamp: 00:27:39
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-14591, N-136, N-419*
+*Related: C-14591, N-135, N-418*
 
 ---
 
@@ -365,7 +365,7 @@ Video Timestamp: 00:29:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-14598, N-3, N-947*
+*Related: C-14598, N-3, N-946*
 
 ---
 
@@ -380,7 +380,7 @@ Video Timestamp: 00:42:19
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-14617, N-263*
+*Related: C-14617, N-262*
 
 ---
 
@@ -416,49 +416,49 @@ Confidence Level: Low
 
 ## IV. Node Register
 
-**N-412** Zachariah Karashy
+**N-411** Zachariah Qureshi
 
-First named by the host at 00:06:41 in episode 87. Aliases: Zachariah Karashi.
+First named by the host at 00:06:41 in episode 87. Aliases: Zachariah Qureshi.
 
 *Related: C-2627, C-2628, C-2629*
 
-**N-413** Ahmed Qureshi
+**N-412** Ahmed Qureshi
 
-First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Karashi, Akhmed Karashi.
+First named by the host at 00:09:45 in episode 87. Aliases: Ahmed Qureshi, Akhmed Qureshi.
 
 *Related: C-2627, C-2628, C-2629, C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-414** Nathan Henderson
+**N-413** Nathan Henderson
 
 First named by the host at 00:16:55 in episode 87.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-416** Connor Henderson
+**N-415** Connor Henderson
 
 First named by the host at 00:17:51 in episode 87.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-415** Gina Romney Henderson
+**N-414** Gina Romney Henderson
 
 First named by the host at 00:16:55 in episode 87. Aliases: Gina Romney.
 
 *Related: C-2631, C-2632, C-2633, C-2634, C-2638*
 
-**N-418** Caleb Cunningham
+**N-417** Caleb Cunningham
 
 First named by the host at 00:25:43 in episode 87.
 
 *Related: C-2639, C-2640, C-2641, C-2642, C-2644, C-2649, C-2650*
 
-**N-417** Jeffrey Knuckles
+**N-416** Jeffrey Knuckles
 
 First named by the host at 00:25:43 in episode 87.
 
 *Related: C-2639, C-2640, C-2641, C-2642, C-2644, C-2649, C-2650*
 
-**N-419** Michael Shawn Covey
+**N-418** Michael Shawn Covey
 
 First named by the host at 00:27:39 in episode 87.
 
@@ -524,7 +524,7 @@ Investigative Pressure: High
 
 *Related: A-1919.1, A-1920.1, A-1920.2, C-2631, C-2632*
 
-**N-10578** Decoy Subject Investigation (Karashy/Qureshi)
+**N-10578** Decoy Subject Investigation (Qureshi/Qureshi)
 
 Pattern of false/early "got the guy" announcements and pre-event detention of subjects around September 10. Includes George Zin and Zachariah Qureshi.
 
@@ -683,7 +683,7 @@ Shane Lyman; the Lyman relative the host says Robbie Hild stood alongside.
 
 ---
 
-**N-136** Andrew Zenger
+**N-135** Andrew Zenger
 
 Andrew Zenger; Timpanogos CEO whose BYU and Jerusalem history the host discusses.
 
@@ -691,7 +691,7 @@ Andrew Zenger; Timpanogos CEO whose BYU and Jerusalem history the host discusses
 
 ---
 
-**N-211** Joe Kent
+**N-210** Joe Kent
 
 Joe Kent; the host says TPUSA attacked him instead of disclosing Charlie's position.
 
@@ -699,7 +699,7 @@ Joe Kent; the host says TPUSA attacked him instead of disclosing Charlie's posit
 
 ---
 
-**N-263** Terrell Farnsworth
+**N-262** Terrell Farnsworth
 
 Terrell Farnsworth, spelled Teal and Terra in the transcript; camera-takedown figure the host links to the Mormon colony families.
 
@@ -707,7 +707,7 @@ Terrell Farnsworth, spelled Teal and Terra in the transcript; camera-takedown fi
 
 ---
 
-**N-332** Baron Coleman
+**N-331** Baron Coleman
 
 Baron Coleman; co-analyst of Built's federal contracts.
 
@@ -715,7 +715,7 @@ Baron Coleman; co-analyst of Built's federal contracts.
 
 ---
 
-**N-363** Mitch Snow
+**N-362** Mitch Snow
 
 Mitch Snow; the host recalls his account of O5s and O6s at Fort Huachuca.
 
@@ -723,7 +723,7 @@ Mitch Snow; the host recalls his account of O5s and O6s at Fort Huachuca.
 
 ---
 
-**N-711** John F. Kennedy
+**N-710** John F. Kennedy
 
 John F. Kennedy; subject of the CBLA history and Texas comparison.
 
@@ -731,7 +731,7 @@ John F. Kennedy; subject of the CBLA history and Texas comparison.
 
 ---
 
-**N-714** Ron Paul
+**N-713** Ron Paul
 
 Ron Paul; subject of the 2012 convention comment.
 
@@ -1153,7 +1153,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-11142** Zachariah Karashy Detention and Release Question
+**N-11142** Zachariah Qureshi Detention and Release Question
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -1189,7 +1189,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-947** Robbie Hild
+**N-946** Robbie Hild
 
 First named by the host at 00:27:39 in episode 87 (spelled Robbie Hild and Robbie Hild in the transcript). Person the host says she put an APB out for because he stood alongside a Lyman relative; she says he attended BYU, played lacrosse and graduated around 2020.
 
@@ -1221,7 +1221,7 @@ The host reads that the RNC altered 2012 convention rules to bind delegates and 
 
 Claim Timestamp: 00:03:21–00:04:22
 
-Claim: A 2012 New York Times article confirms that the friendship between Mitt Romney and Benjamin Netanyahu dates to 1976 when both worked at the Boston Consulting Group.
+Claim: Per the 2012 New York Times article the host shows, a friendship between Mitt Romney and Benjamin Netanyahu dates to 1976; the host says they both worked at the Boston Consulting Group then.
 
 Anchored Artifacts: A-1917.1
 Mentions: N-28, N-36
@@ -1239,7 +1239,7 @@ Claim Timestamp: 00:08:11
 Claim: Kash Patel authored an X post at approximately 4:21 PM MST on 2025-09-10 stating that the subject in the Charlie Kirk shooting was in custody.
 
 Anchored Artifacts: A-1918.1
-Mentions: N-1, N-69, N-412, N-413
+Mentions: N-1, N-69, N-411
 
 Related Nodes: N-10578
 
@@ -1254,26 +1254,26 @@ Claim Timestamp: 00:09:01
 Claim: At 5:59 PM the same day, Kash Patel posted that the previously detained subject had been released after interrogation by law enforcement, with no further explanation given.
 
 Anchored Artifacts: A-1918.2
-Mentions: N-69, N-412, N-413
+Mentions: N-69, N-411
 
 Related Nodes: N-10578
 
-Investigative Direction: Obtain law enforcement records documenting the detention, interrogation, and release; cross-reference with identity of "Zachariah Karashy."
+Investigative Direction: Obtain law enforcement records documenting the detention, interrogation, and release; cross-reference with identity of "Zachariah Qureshi."
 
 ---
 
-**C-2629** Detained Subject Identified as Zachariah Karashy
+**C-2629** Detained Subject Identified as Zachariah Qureshi
 
 Claim Timestamp: 00:06:41–00:09:45
 
-Claim: The young man detained and released after interrogation is referred to as "Zachariah Karashy," with the host later connecting him to Ahmed Qureshi's son "Zachariah."
+Claim: The young man detained and released after interrogation is referred to as "Zachariah Qureshi," with the host later connecting him to Ahmed Qureshi's son "Zachariah."
 
 Anchored Artifacts: A-1918.1, A-1918.2
-Mentions: N-412, N-413
+Mentions: N-411, N-412
 
 Related Nodes: N-10578
 
-Investigative Direction: Confirm spelling of "Karashy" vs. "Qureshi" against official detention records; the name discrepancy requires resolution.
+Investigative Direction: Confirm spelling of "Qureshi" vs. "Qureshi" against official detention records; the name discrepancy requires resolution.
 
 ---
 
@@ -1284,7 +1284,7 @@ Claim Timestamp: 00:10:27–00:12:44
 Claim: Per Ahmed Qureshi's LinkedIn profile, which the host shows, he is President/COO of Built Incorporated and an O6 commanding officer (Navy Captain) at East Coast HQ since May 2024, according to the host.
 
 Anchored Artifacts: A-1919.1
-Mentions: N-413
+Mentions: N-412
 
 Related Nodes: N-10577
 
@@ -1299,7 +1299,7 @@ Claim Timestamp: 00:00:00–00:00:01
 Claim: The host says Built Incorporated was co-founded by Ahmed Qureshi (an O5 at the time) and Nathan Henderson in 2015.
 
 Anchored Artifacts: A-1919.1, A-1920.1
-Mentions: N-413, N-414, N-416, N-415
+Mentions: N-412, N-413
 
 Related Nodes: N-10577
 
@@ -1314,7 +1314,7 @@ Claim Timestamp: 00:15:43–00:16:05
 Claim: The host says USA Spending records show Built Incorporated received approximately $7.4M from the Air Force and just under $240K from the Navy in June 2025, with the largest contracts dated June 1 and June 16, 2025.
 
 Anchored Artifacts: A-1920.1, A-1920.2
-Mentions: N-413, N-414, N-416, N-415
+Mentions: 
 
 Related Nodes: N-10577
 
@@ -1329,7 +1329,7 @@ Claim Timestamp: 00:17:51
 Claim: Per Gina Romney Henderson's LinkedIn profile, which the host shows, she is Vice President of User Experience at Built Incorporated; the host also says she is a BYU alumna.
 
 Anchored Artifacts: A-1921.1
-Mentions: N-413, N-414, N-416, N-415
+Mentions: N-414
 
 Related Nodes: N-10574
 
@@ -1344,7 +1344,7 @@ Claim Timestamp: 00:17:51–00:19:43
 Claim: The host says Connor Henderson worked as an emergency room scribe at Timpanogos Hospital from 2024 until approximately the time of Charlie Kirk's assassination, if his LinkedIn is to be believed.
 
 Anchored Artifacts: (host assertion; LinkedIn described but specific URL not pinned)
-Mentions: N-1, N-413, N-414, N-416, N-415
+Mentions: N-1, N-415
 
 Related Nodes: N-10576
 
@@ -1403,7 +1403,7 @@ Claim Timestamp: 00:16:55–00:17:51
 Claim: The Qureshi and Henderson families lived in the same house in Keller, Texas; the host offers alternative explanations (vacation rental, sale) but asserts cohabitation is not in dispute.
 
 Anchored Artifacts: (host assertion; no public records shown)
-Mentions: N-413, N-414, N-416, N-415
+Mentions: N-412, N-413, N-415, N-414
 
 Related Nodes: N-10577
 
@@ -1418,7 +1418,7 @@ Claim Timestamp: 00:23:46
 Claim: The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on August 19, 2025, weeks before the September 10 event.
 
 Anchored Artifacts: (host assertion; not displayed on screen)
-Mentions: N-136, N-418, N-417, N-419
+Mentions: N-135
 
 Related Nodes: N-10576
 
@@ -1433,7 +1433,7 @@ Claim Timestamp: 00:23:46–00:24:39
 Claim: The host says that prior to Timpanogos, Andrew Zenger served as COO of Medical City in McKinney, Texas.
 
 Anchored Artifacts: (host assertion; not displayed on screen)
-Mentions: N-136, N-418, N-417, N-419
+Mentions: N-135
 
 Related Nodes:
 
@@ -1445,10 +1445,10 @@ Investigative Direction: Verify via Medical City Healthcare press releases or Li
 
 Claim Timestamp: 00:24:39
 
-Claim: Andrew Zenger attended BYU Jerusalem, with the host noting he was there during the 2012 Romney presidential campaign season.
+Claim: Andrew Zenger attended BYU Jerusalem, with the host noting he was there during the Mitt Romney presidential election season.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-136, N-418, N-417, N-419
+Mentions: N-135, N-28
 
 Related Nodes: N-10575
 
@@ -1460,10 +1460,10 @@ Investigative Direction: Confirm via BYU Jerusalem Center enrollment records or 
 
 Claim Timestamp: 00:24:39–00:25:43
 
-Claim: Per a single unnamed source, the BYU Jerusalem Center is used by the CIA to recruit elite Mormon youth, with the program director being Israeli.
+Claim: The host says an unnamed person told her the BYU Jerusalem Center is where elite Mormon youth are approached by their teachers to work for the CIA; she adds that the program director is Israeli and says she knows this for a fact.
 
 Anchored Artifacts: (host assertion; no artifact shown; fails admission test without displayed evidence)
-Mentions: N-136, N-418, N-417, N-419
+Mentions: 
 
 Related Nodes: N-10575
 
@@ -1492,7 +1492,7 @@ Claim Timestamp: 00:27:39
 Claim: The host says Michael Shawn Covey, a roommate of Andrew Zenger from the Jerusalem period, contracts with the CIA.
 
 Anchored Artifacts: (host assertion; no displayed evidence)
-Mentions: N-136, N-418, N-417, N-419
+Mentions: N-135, N-418
 
 Related Nodes: N-10580
 
@@ -1507,6 +1507,7 @@ Claim Timestamp: 00:29:30–00:30:18
 Claim: The host says Robbie Hild attended BYU, played lacrosse, and appears to have graduated around 2020.
 
 Anchored Artifacts: A-1924.2
+Mentions: N-946
 
 Related Nodes: N-10153
 
@@ -1544,11 +1545,12 @@ Investigative Direction: Obtain the actual mailer from recipients; verify whethe
 
 **C-2648** Robbie Hild Family Allegedly Married Into Romney Family
 
-Claim Timestamp: 00:19:43–00:30:18
+Claim Timestamp: 00:29:45
 
 Claim: Viewers and social media indicate the Hild family is married into the Romney family, but the host cannot relocate the underlying document establishing this connection and requests viewer tips.
 
 Anchored Artifacts: A-1924.2
+Mentions: N-946
 
 Related Nodes: N-10153, N-10579
 
@@ -1560,10 +1562,10 @@ Investigative Direction: Verify via marriage records, family genealogical databa
 
 Claim Timestamp: 00:25:43–00:26:30
 
-Claim: The host says Caleb Cunningham was in Jerusalem with Andrew Zenger during the Romney 2012 presidential campaign and was active on the campaign.
+Claim: The host says Caleb Cunningham was in Jerusalem with Andrew Zenger during the Mitt Romney presidential election season and was an activist who worked for the campaign.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-136, N-418, N-417, N-419
+Mentions: N-135, N-417, N-28
 
 Related Nodes:
 
@@ -1575,10 +1577,10 @@ Investigative Direction: Cross-reference Romney 2012 campaign staff lists and BY
 
 Claim Timestamp: 00:25:43–00:26:30
 
-Claim: The host says Jeffrey Knuckles was in Jerusalem with Andrew Zenger during the 2012 Romney campaign period and later served as an advisor to Romney's campaign.
+Claim: The host says Jeffrey Knuckles was in Jerusalem with Andrew Zenger during the Mitt Romney presidential election season and later served as an advisor to Romney's campaign.
 
 Anchored Artifacts: (host assertion)
-Mentions: N-136, N-418, N-417, N-419
+Mentions: N-135, N-416, N-28
 
 Related Nodes:
 
@@ -1590,7 +1592,7 @@ Investigative Direction: Verify via Romney 2012 campaign staff biographies.
 
 Claim Timestamp: 00:47:08–00:48:01
 
-Claim: BYU is said to recruit CIA talent from its Hawaii and Jerusalem campuses specifically.
+Claim: The host says the CIA plucks students from BYU's Hawaii campus in particular and approaches students at BYU Jerusalem about working for the CIA, while saying she is not saying everyone who goes to BYU is in the CIA.
 
 Anchored Artifacts: (host assertion; comment A-1926.3 touches BYU but does not anchor CIA claim)
 
@@ -1614,7 +1616,7 @@ Investigative Direction: Retrieve the actual 2009 paper and verify the journal o
 
 ---
 
-**C-2653** Tyler Robinson Defense Should Demand 600,000 Documents
+**C-2653** Viewer Suggests Robinson Defense Release 600,000 Documents
 
 Claim Timestamp: 00:43:39–00:44:25
 
@@ -1854,16 +1856,16 @@ Investigative Direction: Find the first public statement giving this reason (pol
 
 ---
 
-**C-14564** Host Says Police Moved to Detain Zachariah Karashy After Scanner Traffic About Hospitals
+**C-14564** Host Says Police Moved to Detain Zachariah Qureshi After Scanner Traffic About Hospitals
 
 Claim Timestamp: 00:06:41
 
-Claim: The host says police scanner traffic suggested the shooter might be going from hospital to hospital and that shortly afterward police moved to detain a young man named Zachariah (spelled Karashy in the transcript; the host later ties him to Ahmed Qureshi).
+Claim: The host says police scanner traffic suggested the shooter might be going from hospital to hospital and that shortly afterward police moved to detain a young man named Zachariah Qureshi.
 
-Transcript Snippet: What we do know is that shortly after came over the police scanner or might be going from hospital to hospital, they moved to detain a young man named Zachariah Karashy.
+Transcript Snippet: What we do know is that shortly after came over the police scanner or might be going from hospital to hospital, they moved to detain a young man named Zachariah Qureshi.
 
 Anchored Artifacts: 
-Mentions: N-3, N-412
+Mentions: N-3, N-411
 Related Nodes: N-10578, N-11142
 Tags: relevance:core
 Investigative Direction: Obtain the police scanner audio and CAD log for 2025-09-10 and the detention record naming the young man.
@@ -1879,23 +1881,23 @@ Claim: The host says it was after Zachariah was detained that Kash Patel issued 
 Transcript Snippet: it was after Zachariah was detained that Kash Patel rather gloriously issued a tweet which effectively ended the manhunt prematurely.
 
 Anchored Artifacts: A-1918.1
-Mentions: N-3, N-69, N-412
+Mentions: N-3, N-69, N-411
 Related Nodes: N-10202, N-10578
 Tags: relevance:core
 Investigative Direction: Compare the detention time of the young man with Patel's 4:21 p.m. post and any search-scaling decisions by Utah agencies.
 
 ---
 
-**C-14566** Host Calls Zachariah Karashy Decoy Boy Number Two After George Zin
+**C-14566** Host Calls Zachariah Qureshi Decoy Boy Number Two After George Zin
 
 Claim Timestamp: 00:06:41
 
 Claim: The host says Zachariah should be thought of as 'decoy boy number two,' with George Zin as the first decoy who immediately said he did it.
 
-Transcript Snippet: we should start to think of Zachariah Karashy as decoy boy number two, okay? First, it was George Zin.
+Transcript Snippet: we should start to think of Zachariah Qureshi as decoy boy number two, okay? First, it was George Zin.
 
 Anchored Artifacts: 
-Mentions: N-3, N-412, N-42
+Mentions: N-3, N-411, N-42
 Related Nodes: N-10032, N-10578
 Tags: relevance:core
 Investigative Direction: Obtain booking and release records for both men and establish whether any evidence links their detentions to one another.
@@ -1960,7 +1962,7 @@ Claim: The host recalls that Mitch Snow said he saw a meeting conclude with a bu
 Transcript Snippet: Mitch Snow, he said he saw this meeting conclude with a bunch of O5s and O6s coming out of Fort Huachuca.
 
 Anchored Artifacts: 
-Mentions: N-3, N-363, N-413
+Mentions: N-3, N-362
 Related Nodes: N-10370, N-10326, N-10367
 Tags: relevance:core
 Investigative Direction: Re-interview Mitch Snow on the meeting date, location and participants; request Fort Huachuca visitor and meeting records for September 8 to 9, 2025.
@@ -1976,7 +1978,7 @@ Claim: The host reads that the award-winning Built app provides 3D interactive a
 Transcript Snippet: the award-winning Built app provides 3D interactive and XR immersive intelligent instructions that are voice and text guided.
 
 Anchored Artifacts: A-3325.1
-Mentions: N-3, N-413
+Mentions: N-3
 Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Capture the Built Incorporated website or app-store page and Texas registration records to confirm the product description and location.
@@ -2008,7 +2010,7 @@ Claim: The host says the CIA ran the JFK assassination operation out of Texas.
 Transcript Snippet: just like there was a Texas play in JFK's assassination, I might add. CIA ran that operation out of Texas.
 
 Anchored Artifacts: 
-Mentions: N-3, N-711
+Mentions: N-3, N-710
 Related Nodes: N-10082
 Tags: relevance:tangential
 Investigative Direction: Cite the historical record (Warren Commission, Church Committee, HSCA) on any CIA operational role in Dallas; the host offers no source.
@@ -2024,7 +2026,7 @@ Claim: The host says Built Incorporated receives funding from the Department of 
 Transcript Snippet: you should know that this company receives funding from the Department of Defense. Okay, contracts from the Department of Defense.
 
 Anchored Artifacts: A-1920.1
-Mentions: N-3, N-413
+Mentions: N-3
 Related Nodes: N-10577, N-10888
 Tags: relevance:context
 Investigative Direction: Query USAspending.gov by Built's UEI for all DoD awards and agency of record.
@@ -2040,7 +2042,7 @@ Claim: Baron Coleman says, from USAspending data, that Built's first contract wa
 Transcript Snippet: 2019, they just get a little $50,000 contract. Got a three-month pop. Period of performance is three months, $50,000
 
 Anchored Artifacts: A-1920.2
-Mentions: N-3, N-332
+Mentions: N-3, N-331
 Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Pull the 2019 award record on USAspending.gov and confirm amount, agency and period of performance.
@@ -2056,7 +2058,7 @@ Claim: Baron Coleman says Built received a large $3.1 million contract in 2020, 
 Transcript Snippet: but we get this big $3.1 million contract way back in 2020.
 
 Anchored Artifacts: A-1920.2
-Mentions: N-3, N-332
+Mentions: N-3, N-331
 Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Pull the 2020 award on USAspending.gov and list all Built awards 2019 to 2025 with amounts and dates.
@@ -2072,7 +2074,7 @@ Claim: Baron Coleman says the roughly $7.5 million in 2025 contracts went to a c
 Transcript Snippet: So when were these massive $7.5 million worth of contracts on a company who had not had much more than one single contract of any value in the previous four or five years?
 
 Anchored Artifacts: A-1920.2
-Mentions: N-3, N-332
+Mentions: N-3, N-331
 Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Compute Built's annual federal obligations 2019 to 2025 from USAspending and compare with the host's characterization.
@@ -2083,12 +2085,12 @@ Investigative Direction: Compute Built's annual federal obligations 2019 to 2025
 
 Claim Timestamp: 00:14:35
 
-Claim: Baron Coleman says he and the host previously said the Utah Valley University event was probably beginning to be planned around June.
+Claim: In a clip the host plays, Baron Coleman says 'we' had said the Utah Valley University event was probably beginning to be planned around June.
 
 Transcript Snippet: we said the Utah Valley University event was probably beginning to be planned around June.
 
 Anchored Artifacts: 
-Mentions: N-3, N-332
+Mentions: N-3, N-331
 Related Nodes: N-10012, N-10577
 Tags: relevance:core
 Investigative Direction: Obtain UVU and TPUSA records of when the event was first scheduled and the date of the first booking or contract.
@@ -2104,7 +2106,7 @@ Claim: Baron Coleman says their investigation estimated that the 'exiting' of Ch
 Transcript Snippet: The exiting of Charlie Kirk from this mortal plane, we believe we estimated, based on our investigation, started around March or April and really heated up in June and July.
 
 Anchored Artifacts: 
-Mentions: N-3, N-332, N-1
+Mentions: N-3, N-331, N-1
 Related Nodes: N-10577, N-10048
 Tags: relevance:core
 Investigative Direction: Ask Coleman which records support the March to April and June to July estimates.
@@ -2120,7 +2122,7 @@ Claim: The host says Built co-founder Nathan Henderson is married to a woman nam
 Transcript Snippet: And that Nathan Henderson, the co-founder, is married to a woman named Gina Romney.
 
 Anchored Artifacts: A-3326.1
-Mentions: N-3, N-414, N-415
+Mentions: N-3, N-413, N-414
 Related Nodes: N-10574, N-10577
 Tags: relevance:context
 Investigative Direction: Check marriage records and corporate filings; establish whether Gina Romney Henderson is related to Mitt Romney's family.
@@ -2136,7 +2138,7 @@ Claim: The host says the Hendersons' son Connor attended the same school (BYU) a
 Transcript Snippet: Connor went to the same school at the same time as Zacharias Qureshi.
 
 Anchored Artifacts: A-3326.1
-Mentions: N-3, N-416, N-412, N-414, N-415
+Mentions: N-3, N-415, N-411, N-413, N-414
 Related Nodes: N-10092, N-10574
 Tags: relevance:context
 Investigative Direction: Confirm enrollment and graduation years through BYU records or public profiles.
@@ -2152,7 +2154,7 @@ Claim: The host says Connor Henderson and Zachariah Qureshi both interned at the
 Transcript Snippet: And their sons both interned at the Built company.
 
 Anchored Artifacts: A-3326.1
-Mentions: N-3, N-416, N-412
+Mentions: N-3, N-415, N-411
 Related Nodes: N-10577
 Tags: relevance:context
 Investigative Direction: Check LinkedIn profiles and Built staff pages for internship entries.
@@ -2168,7 +2170,7 @@ Claim: The host says Gina Romney's name is the third time in this investigation 
 Transcript Snippet: that is the third time in this investigation that the Romney name has come up.
 
 Anchored Artifacts: A-3326.1
-Mentions: N-3, N-415, N-28
+Mentions: N-3, N-414, N-28
 Related Nodes: N-10574
 Tags: relevance:context
 Investigative Direction: Identify the earlier two Romney-name occurrences in prior episodes and check whether the same family is meant.
@@ -2184,9 +2186,9 @@ Claim: The host says viewers in chat, and Baron Coleman, noted that Tyler Robins
 Transcript Snippet: I see a lot of you guys in the chat noting that Tyler Robinson looks a lot like Connor. That was something that Baron pointed out
 
 Anchored Artifacts: A-3327.1
-Mentions: N-3, N-40, N-416, N-332
+Mentions: N-3, N-40, N-415, N-331
 Related Nodes: N-10574
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: A resemblance in photographs is not evidence of a link; no record connects the two men beyond the host's school and Timpanogos claims.
 
 ---
@@ -2227,28 +2229,28 @@ Investigative Direction: Cite the historical record of the Mormon colonies in Ch
 
 Claim Timestamp: 00:22:43
 
-Claim: The host says the Karashi (Qureshi) and Henderson families came out of Texas and that the planes did too.
+Claim: The host says the Qureshi and Henderson families came out of Texas and that the planes did too.
 
 Transcript Snippet: And so, we have the Karashis, the Hendersons that are coming out of Texas, our planes are coming out of Texas.
 
 Anchored Artifacts: 
-Mentions: N-3, N-413, N-414
+Mentions: N-3, N-412, N-413
 Related Nodes: N-10253, N-10577
 Tags: relevance:context
 Investigative Direction: Confirm the Texas residence history of both families and the Texas legs of the flights the host cites.
 
 ---
 
-**C-14588** Host Says Zenger, Karashi, Henderson and Gina Romney All Attended BYU
+**C-14588** Host Says Zenger, Qureshi, Henderson and Gina Romney All Attended BYU
 
 Claim Timestamp: 00:23:46
 
-Claim: The host says Andrew Zenger, like Karashi (Qureshi), Henderson and Gina Romney, attended BYU.
+Claim: The host says Andrew Zenger, like Zachariah Qureshi, Henderson and Gina Romney, attended BYU.
 
-Transcript Snippet: Now, of course, Andrew Zenger, just like Karashi and Henderson and our Gina Romney, he attended BYU.
+Transcript Snippet: Now, of course, Andrew Zenger, just like Qureshi and Henderson and our Gina Romney, he attended BYU.
 
 Anchored Artifacts: 
-Mentions: N-3, N-136, N-413, N-414, N-415
+Mentions: N-3, N-135, N-411, N-415, N-414
 Related Nodes: N-10092, N-10574
 Tags: relevance:context
 Investigative Direction: Verify each person's BYU attendance from alumni or public profile records.
@@ -2280,7 +2282,7 @@ Claim: The host says Andrew Zenger was good friends with Jeffrey Knuckles, who w
 Transcript Snippet: He was also good friends with a guy named Jeffrey Knuckles, who was out there as well, who later served as an advisor to the Romney campaign.
 
 Anchored Artifacts: 
-Mentions: N-3, N-136, N-417
+Mentions: N-3, N-135, N-416
 Related Nodes: N-10574, N-10575
 Tags: relevance:context
 Investigative Direction: Find public posts or photos tying Zenger and Knuckles together and verify Knuckles's campaign role.
@@ -2296,7 +2298,7 @@ Claim: The host says Andrew Zenger's roommates were recruited and that one roomm
 Transcript Snippet: I am telling you that his roommates were. He's got a roommate who did a contract work, went on to do contract work for the CIA as well.
 
 Anchored Artifacts: A-3328.1
-Mentions: N-3, N-136
+Mentions: N-3, N-135
 Related Nodes: N-10580, N-10082
 Tags: relevance:tangential
 Investigative Direction: Single-source assertion; request the source's documentation and check federal contract databases for the roommate.
@@ -2312,7 +2314,7 @@ Claim: The host says Robbie Hild was one of the first people she put an APB out 
 Transcript Snippet: one of the first people that I put an APB out for because he was bizarrely standing alongside Shane Lyman.
 
 Anchored Artifacts: 
-Mentions: N-3, N-947, N-128, N-61
+Mentions: N-3, N-946, N-128
 Related Nodes: N-10153, N-10144
 Tags: relevance:core
 Investigative Direction: Locate the original episode and the photo of Hild with the Lyman relative; confirm the person's identity (the host later spells the name Hill and Hild).
@@ -2369,7 +2371,7 @@ Investigative Direction: Compare the relative's own posts with Phil Lyman's stat
 
 ---
 
-**C-14596** Host Says Hild and Friends Posted Instagram Content Retracing the Killer's Steps and a Footprint
+**C-14596** Host Says Shane Lyman and Friends Posted Instagram Content Retracing the Killer's Steps and a Footprint
 
 Claim Timestamp: 00:28:49
 
@@ -2378,7 +2380,7 @@ Claim: The host says the Lyman relative and some friends traced the steps of the
 Transcript Snippet: he and some friends uniquely traced the steps of the killer and showed people, "This is the footprint.
 
 Anchored Artifacts: A-1924.1
-Mentions: N-3, N-947, N-128
+Mentions: N-3, N-946, N-128
 Related Nodes: N-10153, N-10144
 Supports: C-9259, C-1312
 Tags: relevance:core
@@ -2411,7 +2413,7 @@ Claim: The host asks viewers who know how the Hild family is related to the Romn
 Transcript Snippet: please email us at more tips at candaceowens. com.
 
 Anchored Artifacts: A-3330.1
-Mentions: N-3, N-947, N-28
+Mentions: N-3, N-946, N-28
 Related Nodes: N-10579, N-10153
 Tags: relevance:core
 Investigative Direction: Collect viewer tips on Hild-Romney marriage records or genealogy and verify with public records.
@@ -2427,7 +2429,7 @@ Claim: The host says that with the BYU and lacrosse details, the investigation i
 Transcript Snippet: but the investigation into Robbie Hild is now opened again.
 
 Anchored Artifacts: 
-Mentions: N-3, N-947
+Mentions: N-3, N-946
 Related Nodes: N-10153, N-10579
 Tags: relevance:core
 Investigative Direction: Track subsequent episodes for new findings on Hild's identity and family ties.
@@ -2459,7 +2461,7 @@ Claim: The host says that around 2011, when Zenger was there, many Romney campai
 Transcript Snippet: But it's interesting that so many Romney campaign people during the time that his campaign was going on, this is like 2011 when Andrew Zenger is there and you've got advisors and all these people are stationed in Jerusalem.
 
 Anchored Artifacts: 
-Mentions: N-3, N-136, N-28
+Mentions: N-3, N-135, N-28
 Related Nodes: N-10574, N-10575
 Tags: relevance:context
 Investigative Direction: Obtain Romney 2012 campaign staff lists and travel or bios placing named staff in Jerusalem in 2011.
@@ -2475,7 +2477,7 @@ Claim: The host reads a 2007 Washington Post article stating comparative bullet 
 Transcript Snippet: comparative bullet lead analysis was first used after President John F. Kennedy's assassination in 1963.
 
 Anchored Artifacts: A-1922.1
-Mentions: N-3, N-711
+Mentions: N-3, N-710
 Related Nodes: N-10569
 Tags: relevance:context
 Investigative Direction: Retrieve the 2007 Washington Post article and the 2004 NAS report to confirm the history of the technique.
@@ -2523,14 +2525,14 @@ Claim: The host says everyone knows who killed JFK and that it was not Lee Harve
 Transcript Snippet: cuz we all know who killed JFK. And it wasn't Lee Harvey Oswald.
 
 Anchored Artifacts: 
-Mentions: N-3, N-711
+Mentions: N-3, N-710
 Related Nodes: N-10082
 Tags: relevance:tangential
 Investigative Direction: Assertion without a named alternative; refer to the Warren Commission and HSCA findings.
 
 ---
 
-**C-14606** Host Says the Authorities Know Tyler Robinson Did Not Do It
+**C-14606** Host Says 'They' Know Tyler Robinson Did Not Do It
 
 Claim Timestamp: 00:34:18
 
@@ -2571,7 +2573,7 @@ Claim: The host says the Hild family is married into the Robinsons as well and t
 Transcript Snippet: Certainly, the Hild family is married into the Robinsons as well
 
 Anchored Artifacts: 
-Mentions: N-3, N-947, N-40
+Mentions: N-3, N-946, N-40
 Related Nodes: N-11398, N-10153
 Tags: relevance:tangential
 Investigative Direction: Genealogical and marriage records for the Hild and Robinson families.
@@ -2587,7 +2589,7 @@ Claim: The host says the Farnsworth family (the camera-takedown family) and the 
 Transcript Snippet: I know the Farnsworth family and the Romney family were part of the families that went down there.
 
 Anchored Artifacts: 
-Mentions: N-3, N-263, N-28
+Mentions: N-3, N-262, N-28
 Related Nodes: N-11398, N-10383
 Tags: relevance:tangential
 Investigative Direction: Historical records of the Mormon colonies in Chihuahua (for example Colonia Juarez) and genealogy for both families.
@@ -2716,7 +2718,7 @@ Claim: The host reads a comment from Mark Wilding saying Farnsworth took a chair
 Transcript Snippet: the guy taking a chair from a crime scene to stand on to mess around with the camera, also part of a crime scene that a man was murdered in moments before
 
 Anchored Artifacts: A-3331.1
-Mentions: N-3, N-263
+Mentions: N-3, N-262
 Related Nodes: N-10346, N-10076
 Supports: C-1205
 Tags: relevance:core
@@ -2728,12 +2730,12 @@ Investigative Direction: Compare the video of the camera removal with Farnsworth
 
 Claim Timestamp: 00:43:05
 
-Claim: The host says there was a conversation with Erika about the footage from behind Charlie's head a couple of days after Charlie died (the transcript reads 'I spoke to Erika'; context suggests she is describing Farnsworth), and questions those priorities.
+Claim: Reading viewer comments, the host recalls Terrell Farnsworth being 'all crazy on the phone', quotes him as saying 'I spoke to Erika', and asks why he spoke to Erika about the footage from behind Charlie's head a couple of days after Charlie died, questioning their priorities.
 
 Transcript Snippet: So, I I spoke to Erika. Why'd you speak to Erika about like the behind of his head footage? It's weird. It's like a couple days after Charlie died.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-263
+Mentions: N-3, N-2, N-262, N-1
 Related Nodes: N-10535, N-10346
 Tags: relevance:core
 Investigative Direction: Clarify who spoke to Erika, when, and what was said (Farnsworth's account, Erika's account, text or call logs).
@@ -2749,7 +2751,7 @@ Claim: The host says Terrell Farnsworth was all crazy on the phone.
 Transcript Snippet: And then Terrell was all crazy on the phone.
 
 Anchored Artifacts: 
-Mentions: N-3, N-263
+Mentions: N-3, N-262
 Related Nodes: N-10346
 Tags: relevance:core
 Investigative Direction: Identify the phone call or video the host means, its date and who recorded it.
@@ -2765,7 +2767,7 @@ Claim: The host says her producer has a note that the RNC altered the convention
 Transcript Snippet: my producer has a note that the RNC altered the convention rules to bind delegates in future elections to vote for the candidate who wins their state's primary caucus or caucus.
 
 Anchored Artifacts: A-1926.2
-Mentions: N-3, N-714, N-28
+Mentions: N-3
 Related Nodes: N-10007, N-11399
 Tags: relevance:context
 Investigative Direction: Read the RNC 2012 Rules (Rule 16 and the Rules Committee actions) and contemporaneous reporting.
@@ -2781,9 +2783,9 @@ Claim: The host says the RNC also refused to recognize Ron Paul's delegates from
 Transcript Snippet: The RNC also refused to recognize Paul's delegates from Maine.
 
 Anchored Artifacts: A-1926.2
-Mentions: N-3, N-714
+Mentions: N-3, N-713
 Related Nodes: N-10007, N-11399
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check 2012 convention credentials rulings on the Maine delegation.
 
 ---
@@ -2878,7 +2880,7 @@ Claim: The host says it would have been nice if TPUSA (Andrew and Erika) had com
 Transcript Snippet: Would have been nice if uh rather than attacking Joe Kent, they um themselves came out with that information
 
 Anchored Artifacts: 
-Mentions: N-3, N-211, N-14, N-2
+Mentions: N-3, N-210, N-14, N-2
 Related Nodes: N-10551, N-10355
 Tags: relevance:core
 Investigative Direction: Collect TPUSA statements about Joe Kent and the timing relative to Kent's resignation.
@@ -2889,7 +2891,7 @@ Investigative Direction: Collect TPUSA statements about Joe Kent and the timing 
 
 Claim Timestamp: 00:49:11
 
-Claim: The host says that in the end Charlie Kirk was under immense pressure: people were pulling money from him, threatening him financially, he felt morally blackmailed, and they were telling him who he could speak to and who his friends could be.
+Claim: The host, voicing what she says Erika could have said, says that in the end her husband Charlie Kirk was under immense pressure: people were pulling money from him, threatening him financially, he felt morally blackmailed, and they were telling him who he could speak to and who his friends could be.
 
 Transcript Snippet: because they were pulling money from him and they were threatening him, you know, financially, and he felt morally blackmailed by them and they were telling him who he could speak to and who his friends could be.
 
@@ -2911,7 +2913,7 @@ Claim: The host says Erika Kirk is forced to assume Charlie's role and reverse e
 Transcript Snippet: And she's forced to assume his role and reverse um everything that he did like LBJ did after JFK's death.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-1
+Mentions: N-3, N-2, N-1, N-710
 Related Nodes: N-10543
 Tags: relevance:core
 Investigative Direction: List Charlie's pre-death positions versus TPUSA positions after September 2025 on Israel, Iran and donors.
@@ -3061,7 +3063,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Transcript ambiguity:** The detained subject's name appears in the transcript both as "Zachariah Karashy" (in the host's framing, 06:41) and as "Zacharias Qureshi" / "Zachariah's father" Ahmed Qureshi (10:27 onward). The host equates the two. The spelling discrepancy between "Karashy" and "Qureshi" is not resolved in this episode. Flag: **Name uncertainty – requires verification against detention records.**
+- **Transcript ambiguity:** The detained subject's name appears in the transcript both as "Zachariah Qureshi" (in the host's framing, 06:41) and as "Zacharias Qureshi" / "Zachariah's father" Ahmed Qureshi (10:27 onward). The host equates the two. The spelling discrepancy between "Qureshi" and "Qureshi" is not resolved in this episode. Flag: **Name uncertainty – requires verification against detention records.**
 
 - **Artifact verbally referenced but not shown:** Multiple artifacts are referenced by the host without on-screen display, including: Ahmed Qureshi's full LinkedIn page (URL not captured), Gina Romney Henderson's LinkedIn (URL not captured), USA Spending portal pages (specific entries not pinned), Andrew Zenger's appointment announcement, BYU Jerusalem Center program documentation, Metro One Talent corporate filings. Flag: **Artifact verbally referenced but not shown.**
 
@@ -3073,7 +3075,7 @@ Confidence: high
 
 - **Romney–Hild family tie:** The host explicitly states she cannot relocate the underlying document connecting the Hild family to the Romney family (19:43–30:18) and solicits tips via email. Flag: **Claim failed admission test until documentary anchor surfaced.**
 
-- **Decoy subject chronology:** Host equates "George Zin" (the first decoy who allegedly claimed payment) and "Zachariah Karashy/Qureshi" as "decoy boys" #1 and #2 in a coordinated pattern; the linkage is rhetorical and lacks a single artifact tying both to one operation. Flag: **Interpretive commentary.**
+- **Decoy subject chronology:** Host equates "George Zin" (the first decoy who allegedly claimed payment) and "Zachariah Qureshi/Qureshi" as "decoy boys" #1 and #2 in a coordinated pattern; the linkage is rhetorical and lacks a single artifact tying both to one operation. Flag: **Interpretive commentary.**
 
 ---
 
@@ -3087,7 +3089,7 @@ Confidence: high
 - [x] People nodes use the global people ledger (N-10141+)
 - [x] Non-person investigation targets use the 1648 series
 - [x] No speculative claims inscribed as evidence-backed claims (host-only assertions flagged)
-- [x] Names preserved exactly (Karashy/Qureshi discrepancy flagged)
+- [x] Names preserved exactly (Qureshi/Qureshi discrepancy flagged)
 - [x] Formatting consistent across registers
 
 ---

@@ -95,8 +95,8 @@
           ],
           "related_nodes": [
             "N-10859",
-            "N-268",
-            "N-272",
+            "N-267",
+            "N-271",
             "N-10694"
           ],
           "tags": [],
@@ -124,8 +124,8 @@
           ],
           "related_nodes": [
             "N-10862",
-            "N-268",
-            "N-226",
+            "N-267",
+            "N-225",
             "N-10645",
             "N-10373"
           ],
@@ -153,7 +153,7 @@
           ],
           "related_nodes": [
             "N-10861",
-            "N-273"
+            "N-272"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -178,8 +178,8 @@
             "C-3591"
           ],
           "related_nodes": [
+            "N-271",
             "N-272",
-            "N-273",
             "N-10694",
             "N-10272"
           ],
@@ -354,7 +354,7 @@
           "related_nodes": [
             "N-1",
             "N-10",
-            "N-273"
+            "N-272"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -381,9 +381,9 @@
             "C-6212"
           ],
           "related_nodes": [
-            "N-272",
-            "N-268",
-            "N-491"
+            "N-271",
+            "N-267",
+            "N-490"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -408,8 +408,8 @@
           ],
           "related_nodes": [
             "N-8",
-            "N-273",
-            "N-754"
+            "N-272",
+            "N-753"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -444,7 +444,7 @@
             "C-6218"
           ],
           "related_nodes": [
-            "N-273"
+            "N-272"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -466,8 +466,8 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-272",
-            "N-273"
+            "N-271",
+            "N-272"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -489,7 +489,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-268",
+            "N-267",
             "N-1"
           ],
           "tags": [],
@@ -508,7 +508,7 @@
             "C-6227"
           ],
           "related_nodes": [
-            "N-268"
+            "N-267"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -528,7 +528,7 @@
             "C-6231"
           ],
           "related_nodes": [
-            "N-508",
+            "N-507",
             "N-1"
           ],
           "tags": [],
@@ -549,9 +549,9 @@
             "C-6264"
           ],
           "related_nodes": [
-            "N-273",
-            "N-268",
-            "N-272"
+            "N-272",
+            "N-267",
+            "N-271"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -724,7 +724,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-228"
+            "N-227"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -815,8 +815,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-273",
-      "ref": "N-273",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Jeff Long",
       "type": "person",
       "description": "UVUPD chief; report describes his pre-event coordination with Dan Flood, SIAC threat contact on September 10, and constraints from TPUSA-controlled ticketing/crowd data and deferred security decisions.",
@@ -836,8 +836,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-225",
+      "ref": "N-225",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Podcast host of the Brian Harpole interview that the independent review and this episode treat as contradictory to review-team findings.",
@@ -855,8 +855,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Integrity Solutions executive-protection lead for Charlie Kirk; documented non-response to review outreach; central subject of report contradictions vs Shawn Ryan podcast (venue selection, drones/airspace, rooftop counter-sniper).",
@@ -897,8 +897,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Dan Flood",
       "type": "person",
       "description": "TPUSA security supervisor present at UVU September 10; non-response to review outreach; report attributes pre-event text/phone coordination with Chief Long and canopy-area focus.",
@@ -921,8 +921,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Named among TPUSA communicators challenged on transparency relative to organizational non-participation in the review.",
@@ -1164,7 +1164,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -1187,8 +1187,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-268",
-        "N-226",
+        "N-267",
+        "N-225",
         "N-10373"
       ]
     },
@@ -1305,8 +1305,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -1520,8 +1520,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Named for the Maine vacation footage and for allegedly telling people Charlie wanted to fire Tyler Bowyer.",
@@ -1538,8 +1538,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-219",
-      "ref": "N-219",
+      "@id": "N-218",
+      "ref": "N-218",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Named as Elizabeth, who joined the Maine vacation with Mikey McCoy.",
@@ -1555,8 +1555,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-228",
-      "ref": "N-228",
+      "@id": "N-227",
+      "ref": "N-227",
       "name": "Harvey Weinstein",
       "type": "person",
       "description": "Named as the person the New York Post story said paid the host $1.5 million, which she denies.",
@@ -1573,8 +1573,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-229",
-      "ref": "N-229",
+      "@id": "N-228",
+      "ref": "N-228",
       "name": "Allie Beth Stuckey",
       "type": "person",
       "description": "Named for sharing correspondence with Andrew Kolvet to rebut the host (transcript spelling Ally Stucky).",
@@ -1590,8 +1590,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-333",
-      "ref": "N-333",
+      "@id": "N-332",
+      "ref": "N-332",
       "name": "Andrew Sypher",
       "type": "person",
       "description": "Named as Andrew Sypher in the transcript: TPUSA's longtime head of field, promoted to a chief position per the host.",
@@ -1609,8 +1609,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Named in the host's reference to Harpole's lawyer commenting on the Mitch story.",
@@ -1626,8 +1626,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-380",
-      "ref": "N-380",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Named by Charlie Kirk in the July 14 clip (transcript spelling Dan Bonino).",
@@ -1643,8 +1643,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-491",
-      "ref": "N-491",
+      "@id": "N-490",
+      "ref": "N-490",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Named for the host's remark linking her family to EMPs.",
@@ -1660,8 +1660,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-508",
-      "ref": "N-508",
+      "@id": "N-507",
+      "ref": "N-507",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "Officer Bagley, named in the review passage on the first suggestion to go up to the Losee Center roof.",
@@ -1680,8 +1680,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-537",
-      "ref": "N-537",
+      "@id": "N-536",
+      "ref": "N-536",
       "name": "Todd Blanche",
       "type": "person",
       "description": "Named by Charlie Kirk in the July 14 clip among officials he trusts.",
@@ -1697,8 +1697,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-669",
-      "ref": "N-669",
+      "@id": "N-668",
+      "ref": "N-668",
       "name": "James Kaddis",
       "type": "person",
       "description": "Named as the Calvary Chapel pastor hosting Erika's July 14 speech (transcript spelling James Catis).",
@@ -2317,8 +2317,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-754",
-      "ref": "N-754",
+      "@id": "N-753",
+      "ref": "N-753",
       "name": "Robin Emer",
       "type": "person",
       "description": "First named by the host at 00:36:24 in episode 157 as UVU's director of emergency management and safety who expressed reservations at the August 25 MEAC meeting.",
@@ -2334,8 +2334,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-755",
-      "ref": "N-755",
+      "@id": "N-754",
+      "ref": "N-754",
       "name": "Astrid Tuminez",
       "type": "person",
       "description": "First named by the host at 00:23:46 in episode 157 as UVU President, in the transcript spelling Tumz.",
@@ -2351,8 +2351,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-756",
-      "ref": "N-756",
+      "@id": "N-755",
+      "ref": "N-755",
       "name": "Alana Minton",
       "type": "person",
       "description": "First named by the host at 01:11:03 in episode 157 as the Canyon County prosecuting attorney who told the judge the classroom door may have been locked.",
@@ -2368,8 +2368,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-757",
-      "ref": "N-757",
+      "@id": "N-756",
+      "ref": "N-756",
       "name": "Claire Ginan",
       "type": "person",
       "description": "First named by the host at 01:27:40 in episode 157 as the writer of a June 26 Jezebel article with no prior writing profile.",
@@ -2558,8 +2558,8 @@
       "investigative_direction": "Obtain the review’s outreach log appendices; confirm certified-letter receipts; request TPUSA written policy on third-party review cooperation.",
       "mentions_person_refs": [
         "N-8",
-        "N-268",
-        "N-272"
+        "N-267",
+        "N-271"
       ]
     },
     {
@@ -2582,7 +2582,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2648,8 +2648,8 @@
       "claim_timestamp": "00:45:34",
       "investigative_direction": "Clip-align the Shawn Ryan episode timestamps to each contested Harpole sentence; cite review interview identifiers where available.",
       "mentions_person_refs": [
-        "N-226",
-        "N-268"
+        "N-225",
+        "N-267"
       ]
     },
     {
@@ -2670,7 +2670,7 @@
       "claim_timestamp": "00:47:38",
       "investigative_direction": "Verify airspace rules for the event footprint; check UVU/UVUPD drone policy logs; map line-of-sight structures including Fugal Gateway.",
       "mentions_person_refs": [
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2689,7 +2689,7 @@
       "claim_timestamp": "00:28:35",
       "investigative_direction": "FOIA/SIAC records for the tip text; correlate tip timing with any documented camera or power anomalies; assess tip credibility per SIAC disposition.",
       "mentions_person_refs": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -2709,8 +2709,8 @@
       "claim_timestamp": "00:25:32",
       "investigative_direction": "Obtain ticket-platform export timestamps; compare to UVUPD incident action plan drafts; interview mutual-aid partners on whether informal notice occurred.",
       "mentions_person_refs": [
-        "N-272",
-        "N-273"
+        "N-271",
+        "N-272"
       ]
     },
     {
@@ -2773,7 +2773,7 @@
       "investigative_direction": "Timestamp the family statement vs review publication; identify leak path if any; compare statement claims to review executive summary.",
       "mentions_person_refs": [
         "N-2",
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -2854,9 +2854,9 @@
       "investigative_direction": "Check the review's description of Flood's role against TPUSA staffing records and the Flood and Long phone and text logs.",
       "transcript_snippet": "Flood was was identified as the person who coordinated security for the organization with Brian Harpole of Integrity Solutions.",
       "mentions_person_refs": [
-        "N-272",
-        "N-268",
-        "N-273"
+        "N-271",
+        "N-267",
+        "N-272"
       ]
     },
     {
@@ -2998,7 +2998,7 @@
       "investigative_direction": "Locate Stuckey's original post and the correspondence she shared, and compare the event dates with the UVU booking chain.",
       "transcript_snippet": "She shares a an an ex correspondence between her and Andrew putting together an event last second for this exact tour as evidence that I'm somehow lying.",
       "mentions_person_refs": [
-        "N-229",
+        "N-228",
         "N-14",
         "N-3"
       ]
@@ -3148,7 +3148,7 @@
       "investigative_direction": "Obtain the August 21 event services email chain showing recipients and Chief Long's receipt.",
       "transcript_snippet": "the first time now it's been approved tentatively that Jeff Long, the chief of police at UVU became aware of the event.",
       "mentions_person_refs": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -3167,7 +3167,7 @@
       "transcript_snippet": "I'm pretty sure she explicitly named Jeff Long in that filing.",
       "mentions_person_refs": [
         "N-2",
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -3247,7 +3247,7 @@
       "investigative_direction": "Obtain Chief Long's request and any reply recorded in UVU or UVUPD files.",
       "transcript_snippet": "Chief Long requested contact with that security leadership.",
       "mentions_person_refs": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -3322,7 +3322,7 @@
       "investigative_direction": "Obtain the president's office request and the response it received.",
       "transcript_snippet": "UVU President Tumz requested updates regarding event planning on the 31st.",
       "mentions_person_refs": [
-        "N-755"
+        "N-754"
       ]
     },
     {
@@ -3342,7 +3342,7 @@
       "investigative_direction": "Obtain the September 2 Long message and any reply from Crofts or Flood.",
       "transcript_snippet": "we're a week away from this event and uh no sec I've received no security requests from Turning Point USA.",
       "mentions_person_refs": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -3362,8 +3362,8 @@
       "investigative_direction": "Obtain the call detail records referenced by the review and any UVUPD notes of the call.",
       "transcript_snippet": "Dan Flood and Chief Long get on the phone for just five minutes and 28 seconds.",
       "mentions_person_refs": [
-        "N-272",
-        "N-273"
+        "N-271",
+        "N-272"
       ]
     },
     {
@@ -3383,7 +3383,7 @@
       "investigative_direction": "Compare the September 3 call topics with the pre-event security plan, if any exists.",
       "transcript_snippet": "They were really concerned about Charlie's SUV having a clean exit.",
       "mentions_person_refs": [
-        "N-272",
+        "N-271",
         "N-1"
       ]
     },
@@ -3432,8 +3432,8 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-272",
-        "N-268"
+        "N-271",
+        "N-267"
       ]
     },
     {
@@ -3457,8 +3457,8 @@
         "C-1763"
       ],
       "mentions_person_refs": [
-        "N-272",
-        "N-273"
+        "N-271",
+        "N-272"
       ]
     },
     {
@@ -3478,7 +3478,7 @@
       "investigative_direction": "Document Frantzve family patents, companies or filings concerning EMP technology.",
       "transcript_snippet": "whose family was super involved with EMPs? Lorie Frantzve EMPs.",
       "mentions_person_refs": [
-        "N-491",
+        "N-490",
         "N-2"
       ]
     },
@@ -3499,7 +3499,7 @@
       "investigative_direction": "Obtain the review's arrival log and any gate or parking records for the security team.",
       "transcript_snippet": "9:00 a. m. the security arrives to campus.",
       "mentions_person_refs": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -3520,8 +3520,8 @@
       "investigative_direction": "Obtain the 9:04 text and the subsequent thread on the Hall of Flags walkway.",
       "transcript_snippet": "At 9:04, uh Dan Flood texts Chief Long advising that the rest of the security has arrived onto campus.",
       "mentions_person_refs": [
-        "N-272",
-        "N-273"
+        "N-271",
+        "N-272"
       ]
     },
     {
@@ -3581,7 +3581,7 @@
         "C-3591"
       ],
       "mentions_person_refs": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -3601,8 +3601,8 @@
       "investigative_direction": "Obtain the 10:49 text and any reply from Flood explaining why the meeting did not occur.",
       "transcript_snippet": "at 10:49, uh, Chief Long texted Dan Flood to meet at the Hall of Flags outdoor at 11:00, but the meeting did not occur.",
       "mentions_person_refs": [
-        "N-272",
-        "N-273"
+        "N-271",
+        "N-272"
       ]
     },
     {
@@ -3620,7 +3620,7 @@
       "investigative_direction": "Compare the review's protester timeline with video of the Hall of Flags walkway between 11:20 and 11:30.",
       "transcript_snippet": "That's between 11:20 and 11:30 and that the protesters did move away and then the officers blocked them off with security tape",
       "mentions_person_refs": [
-        "N-272"
+        "N-271"
       ]
     },
     {
@@ -3640,7 +3640,7 @@
       "investigative_direction": "Obtain the command post log and a floor plan with sight lines from the Fugal Gateway second floor.",
       "transcript_snippet": "Chief Long goes up to the second floor of the Fugal Gateway building because he established a command post",
       "mentions_person_refs": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -3706,7 +3706,7 @@
       "transcript_snippet": "She said that she preferred that TPUSA manage online ticketing through its national office in Phoenix.",
       "mentions_person_refs": [
         "N-8",
-        "N-754"
+        "N-753"
       ]
     },
     {
@@ -3792,7 +3792,7 @@
         "C-3590"
       ],
       "mentions_person_refs": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -3816,8 +3816,8 @@
         "C-1763"
       ],
       "mentions_person_refs": [
-        "N-272",
-        "N-273"
+        "N-271",
+        "N-272"
       ]
     },
     {
@@ -3840,9 +3840,9 @@
         "C-1762"
       ],
       "mentions_person_refs": [
-        "N-268",
-        "N-272",
-        "N-226"
+        "N-267",
+        "N-271",
+        "N-225"
       ]
     },
     {
@@ -3863,7 +3863,7 @@
       "transcript_snippet": "I love this because I'm being sued for telling you that Harpole is a liar.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3883,7 +3883,7 @@
       "investigative_direction": "Locate the Shawn Ryan timestamp for the August 24 statement and any TPUSA calendar records.",
       "transcript_snippet": "Harpole stated that his first meeting to discuss September 10th TPS USA event occurred on August 24th.",
       "mentions_person_refs": [
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3903,7 +3903,7 @@
       "investigative_direction": "Locate the Shawn Ryan timestamp and check whether Harpole's team raised the concern to UVUPD that day.",
       "transcript_snippet": "Harpole stated that when he and his team arrived at UVU a few hours before the event, they surveyed the area and believed the venue location was horrible.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-1"
       ]
     },
@@ -3924,8 +3924,8 @@
       "investigative_direction": "Compare Harpole's statement with the Flood and Harpole communications for September 1 to 10.",
       "transcript_snippet": "Flood did not share any specific security concerns or threats with him during the pre-event planning.",
       "mentions_person_refs": [
-        "N-268",
-        "N-272"
+        "N-267",
+        "N-271"
       ]
     },
     {
@@ -3945,7 +3945,7 @@
       "investigative_direction": "Ask UVUPD and Integrity Solutions for any record of a requested site walkthrough or briefing.",
       "transcript_snippet": "In the podcast, Harpole gave no indication that he considered requesting an on-site pre-event meeting with campus police to evaluate vulnerabilities and make security assignments.",
       "mentions_person_refs": [
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3970,7 +3970,7 @@
         "C-1754"
       ],
       "mentions_person_refs": [
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3991,7 +3991,7 @@
       "investigative_direction": "Ask Orem Police for any record of a drone request or availability on September 10.",
       "transcript_snippet": "a drone from the neighboring Orem Police Department could have been requested.",
       "mentions_person_refs": [
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -4011,7 +4011,7 @@
       "investigative_direction": "Obtain Bagley's report and dispatch audio showing when he made the suggestion.",
       "transcript_snippet": "Officer Bagley identified the elevated roof area of the Loy Center as a possible source location of the asalent.",
       "mentions_person_refs": [
-        "N-508"
+        "N-507"
       ]
     },
     {
@@ -4031,7 +4031,7 @@
       "investigative_direction": "Obtain the evidence log and photographs of the screwdriver and gravel location.",
       "transcript_snippet": "he locates a screwdriver and an area of disturbed gravel on the roof that appeared consistent with a possible prone shooting position.",
       "mentions_person_refs": [
-        "N-508"
+        "N-507"
       ]
     },
     {
@@ -4051,7 +4051,7 @@
       "investigative_direction": "Obtain Bagley's testimony and UVUPD body camera inventory and battery records.",
       "transcript_snippet": "Officer Bagley, whose body cam footage went off, um lost the battery.",
       "mentions_person_refs": [
-        "N-508"
+        "N-507"
       ]
     },
     {
@@ -4071,7 +4071,7 @@
       "investigative_direction": "Verify Bagley's assignment history and the other officers' backgrounds from personnel records.",
       "transcript_snippet": "They're all, they all kind of have this background history in sex crimes.",
       "mentions_person_refs": [
-        "N-508",
+        "N-507",
         "N-1"
       ]
     },
@@ -4092,7 +4092,7 @@
       "investigative_direction": "Compare the August 21 notice date to UVU's normal lead time for major events.",
       "transcript_snippet": "There was limited time between chief long first learning of the event and the event date.",
       "mentions_person_refs": [
-        "N-273"
+        "N-272"
       ]
     },
     {
@@ -4113,8 +4113,8 @@
       "investigative_direction": "Request any briefing agenda, attendance or site walk records from UVUPD and TPUSA.",
       "transcript_snippet": "Coordination with TPUSA security team was very limited and did not include a structured pre-event briefing or site walking through",
       "mentions_person_refs": [
-        "N-268",
-        "N-272"
+        "N-267",
+        "N-271"
       ]
     },
     {
@@ -4357,9 +4357,9 @@
       "mentions_person_refs": [
         "N-1",
         "N-69",
-        "N-380",
+        "N-379",
         "N-85",
-        "N-537"
+        "N-536"
       ]
     },
     {
@@ -4403,7 +4403,7 @@
       "transcript_snippet": "On the 14th, Erika travels aboard a private flight to Long Beach, California.",
       "mentions_person_refs": [
         "N-2",
-        "N-669"
+        "N-668"
       ]
     },
     {
@@ -4424,7 +4424,7 @@
       "transcript_snippet": "she gives a speech that's pro-Israel about a call to arms despite what Charlie's going through.",
       "mentions_person_refs": [
         "N-2",
-        "N-669",
+        "N-668",
         "N-1"
       ]
     },
@@ -4466,8 +4466,8 @@
       "investigative_direction": "Obtain dated posts and metadata of the Maine vacation footage.",
       "transcript_snippet": "it's the first time Mikey McCoy and Elizabeth join him and they capture what's going to be Elizabeth and Mikey capture all this final footage of Charlie and Erika",
       "mentions_person_refs": [
-        "N-192",
-        "N-219",
+        "N-191",
+        "N-218",
         "N-1",
         "N-2"
       ]
@@ -4737,7 +4737,7 @@
       "transcript_snippet": "UVU police ask her for a TPUSA security contact. None is provided.",
       "mentions_person_refs": [
         "N-8",
-        "N-273",
+        "N-272",
         "N-10"
       ]
     },
@@ -4758,7 +4758,7 @@
       ],
       "mentions_person_refs": [
         "N-8",
-        "N-333",
+        "N-332",
         "N-11"
       ]
     },
@@ -4779,7 +4779,7 @@
       "investigative_direction": "Identify the review passage on indoor alternatives and whether UVU would have accommodated a late move.",
       "transcript_snippet": "They never communicated this to the police at UVU.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-7"
       ]
     },
@@ -4858,7 +4858,7 @@
       "investigative_direction": "Obtain the hearing transcript and dismissal order from the Canyon County court.",
       "transcript_snippet": "the Canyon County prosecuting attorney Alana Minton told the judge that a new piece of information came to light",
       "mentions_person_refs": [
-        "N-756",
+        "N-755",
         "N-12"
       ]
     },
@@ -4913,7 +4913,7 @@
       "investigative_direction": "List TPUSA interviews with CBS and ABC and compare dates to the review outreach window.",
       "transcript_snippet": "They're willing to speak to CBS News, ABC News, official spokespersons",
       "mentions_person_refs": [
-        "N-272"
+        "N-271"
       ]
     },
     {
@@ -4933,7 +4933,7 @@
       ],
       "mentions_person_refs": [
         "N-8",
-        "N-333"
+        "N-332"
       ]
     },
     {
@@ -4949,7 +4949,7 @@
       "investigative_direction": "Document Cipher's reporting line and ties to Bowyer through TPUSA and Turning Point Action records.",
       "transcript_snippet": "And I believe that he's always been based on my experience Tyler Bowyer's guy.",
       "mentions_person_refs": [
-        "N-333",
+        "N-332",
         "N-11",
         "N-3"
       ]
@@ -5016,7 +5016,7 @@
       "investigative_direction": "Identify the people McCoy allegedly told and obtain their first-hand accounts.",
       "transcript_snippet": "Mikey McCoy expressed to people that Charlie wanted to fire Tyler Bowyer.",
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-1",
         "N-11"
       ]
@@ -5055,9 +5055,9 @@
       "investigative_direction": "Obtain the lawyer's communications with the host and the complaint's stated alibi.",
       "transcript_snippet": "we should totally trust his lawyer filing a lawsuit against me who came to you multiple times",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -5102,7 +5102,7 @@
       "transcript_snippet": "that I accepted $1.5 million from Harvey Weinstein to interview him.",
       "mentions_person_refs": [
         "N-3",
-        "N-228"
+        "N-227"
       ]
     },
     {
@@ -5123,7 +5123,7 @@
       "transcript_snippet": "Not a single red scent did I accept from Harvey Weinstein.",
       "mentions_person_refs": [
         "N-3",
-        "N-228"
+        "N-227"
       ]
     },
     {
@@ -5204,7 +5204,7 @@
       "investigative_direction": "Check Ginan's byline history and the publication date of the Jezebel article.",
       "transcript_snippet": "on June 26th is when suddenly Claire Ginan writes her first article for Jezebel.",
       "mentions_person_refs": [
-        "N-757"
+        "N-756"
       ]
     }
   ],

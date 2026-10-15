@@ -1401,8 +1401,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-239",
-      "ref": "N-239",
+      "@id": "N-238",
+      "ref": "N-238",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Person: relayed by Barker's text as saying Charlie was stable.",
@@ -2384,7 +2384,7 @@
       "transcript_snippet": "\"Glenn Beck said he's stable.\"",
       "mentions_person_refs": [
         "N-75",
-        "N-239",
+        "N-238",
         "N-1"
       ]
     },

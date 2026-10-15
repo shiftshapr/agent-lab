@@ -16,7 +16,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10f): N-11319, N-11320
-  - Hole-minted Nodes (reintro-ep008): N-239, N-10109, N-10148, N-10184, N-10202, N-10343
+  - Hole-minted Nodes (reintro-ep008): N-238, N-10109, N-10148, N-10184, N-10202, N-10343
   - Tip-minted Nodes (reintro-ep008): N-11183
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12001–C-12060
@@ -650,7 +650,7 @@ The host's claim that the public scanner feed carrying the shooter description w
 
 ---
 
-**N-239** Glenn Beck
+**N-238** Glenn Beck
 
 Person: relayed by Barker's text as saying Charlie was stable.
 
@@ -1208,7 +1208,7 @@ Claim: Tiffany Barker says that while in the car she received a text saying Glen
 Transcript Snippet: "Glenn Beck said he's stable."
 
 Anchored Artifacts: A-1147.1
-Mentions: N-75, N-239, N-1
+Mentions: N-75, N-238, N-1
 Related Nodes: N-10096
 Tags: relevance:context
 Investigative Direction: Identify the sender of the text and when Glenn Beck made any statement that Charlie was stable.
