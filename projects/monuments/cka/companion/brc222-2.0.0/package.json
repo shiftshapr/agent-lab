@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T05:19:23Z",
+  "generated_at": "2026-10-15T05:27:25Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -20,9 +20,9 @@
   "edge_counts": {
     "contradicts": 127,
     "isCorroboratedBy": 2405,
-    "isMemberOf": 19699,
+    "isMemberOf": 19698,
     "isQualifiedBy": 114,
-    "isSupportedBy": 8029
+    "isSupportedBy": 8028
   },
   "revises_candidate_count": 4862,
   "nodes": [
@@ -38006,13 +38006,6 @@
       "label": "Eyewitness Says He Was Eating Lunch in the Hospital Parking Lot",
       "node_kind": "claim",
       "episode": 149
-    },
-    {
-      "@type": "KnowledgeGraphNode",
-      "identifier": "C-1489",
-      "label": "Host discussed Ryan Matta in comment / outreach thread",
-      "node_kind": "claim",
-      "episode": 19
     },
     {
       "@type": "KnowledgeGraphNode",
@@ -163632,22 +163625,6 @@
     {
       "@type": "OrdinalBridge",
       "from": "C-1488",
-      "to": "A-1261.1",
-      "relationship": "isSupportedBy",
-      "explanation": "Anchored artifact backs claim",
-      "episode": 19
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-1489",
-      "to": "cka:episode:19",
-      "relationship": "isMemberOf",
-      "explanation": "Claim aired in episode",
-      "episode": 19
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-1489",
       "to": "A-1261.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",

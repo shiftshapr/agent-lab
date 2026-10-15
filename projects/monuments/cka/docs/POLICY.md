@@ -106,4 +106,5 @@ The host's own repetition is never corroboration. A same-host `Supports` is cons
 
 ## 12. Errata and right of reply
 - Every correction made after a claim is merged is logged in that PR's audit README. The release changelog compiles these into a public errata log.
+- **Unsupported claims are deleted** (ruled 2026-10-15). A claim that nothing in its episode supports, such as an extraction placeholder, is removed from the draft and inscription, and the deletion is logged in the audit README. Claim ids are not reused. First case: C-1489.
 - Before launch, a right-of-reply channel lets named people request a correction. Each request is logged, reviewed against the evidence, and answered. When a correction is warranted, it follows §5: an extraction error is fixed in place, and what the host said stays recorded as said.

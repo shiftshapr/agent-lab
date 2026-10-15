@@ -33,10 +33,11 @@ material-error rate at about 10% (QA round 2: 10.4%, 29 of 278), against a targe
 - **Ep11:** 9 of the 11 baselined timestamps are now corrected; the reviewers used HappyScribe and YouTube captions
   to cover our transcript's gaps.
 
-## For Daveed
-- **C-1489 (ep19).** The claim cites Ryan Mata, but he is not named anywhere in the episode's transcript. Two
-  reviewers agree. Claims are never deleted, so the choice is to withdraw it (mark it withdrawn, with a note) or to
-  re-source it.
+## Deleted claims
+- **C-1489 (ep19), deleted 2026-10-15 (ruled by Daveed).** It was a placeholder ("Host discusses Ryan Mata in
+  episode comment-thread context (register anchor)") at 52:00–53:00. Neither "Matta" nor "Mata" appears anywhere
+  in ep19, and that segment is viewer comments. Daveed checked the video. N-190 Ryan Matta keeps its id; his
+  ep19 register description is corrected, since he is first named in ep34.
 
 ## Part 2 (chunks 41–68: episodes ~29–47, 1,680 claims)
 - Wave 3 (chunks 41–52) was checked before the part 1 merge renumbered ids. Its results were remapped through

@@ -3,9 +3,9 @@
   "edge_counts": {
     "contradicts": 127,
     "isCorroboratedBy": 2405,
-    "isMemberOf": 19699,
+    "isMemberOf": 19698,
     "isQualifiedBy": 114,
-    "isSupportedBy": 8029
+    "isSupportedBy": 8028
   },
   "bridges": [
     {
@@ -25713,22 +25713,6 @@
     {
       "@type": "OrdinalBridge",
       "from": "C-1488",
-      "to": "A-1261.1",
-      "relationship": "isSupportedBy",
-      "explanation": "Anchored artifact backs claim",
-      "episode": 19
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-1489",
-      "to": "cka:episode:19",
-      "relationship": "isMemberOf",
-      "explanation": "Claim aired in episode",
-      "episode": 19
-    },
-    {
-      "@type": "OrdinalBridge",
-      "from": "C-1489",
       "to": "A-1261.1",
       "relationship": "isSupportedBy",
       "explanation": "Anchored artifact backs claim",
