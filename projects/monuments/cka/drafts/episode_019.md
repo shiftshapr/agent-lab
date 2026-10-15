@@ -1227,11 +1227,11 @@ Investigative Direction: Locate the referenced Scott Adams video and timestamp t
 
 ---
 
-**C-1489** Host discussed Ryan Mata in comment / outreach thread
+**C-1489** Host discussed Ryan Matta in comment / outreach thread
 
 Claim Timestamp: 00:52:00–00:53:00
 
-Claim: Host discusses Ryan Mata in episode comment-thread context (register anchor).
+Claim: Host discusses Ryan Matta in episode comment-thread context (register anchor).
 
 Anchored Artifacts: A-1261.1
 Mentions: N-190

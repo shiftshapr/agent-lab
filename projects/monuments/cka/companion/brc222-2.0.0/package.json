@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T02:07:10Z",
+  "generated_at": "2026-10-15T05:19:23Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -38010,7 +38010,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1489",
-      "label": "Host discussed Ryan Mata in comment / outreach thread",
+      "label": "Host discussed Ryan Matta in comment / outreach thread",
       "node_kind": "claim",
       "episode": 19
     },
@@ -83146,7 +83146,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7795",
-      "label": "Host Says She Phoned Ryan Mata About How the Shopping Center Sighting Surfaced",
+      "label": "Host Says She Phoned Ryan Matta About How the Shopping Center Sighting Surfaced",
       "node_kind": "claim",
       "episode": 156
     },
@@ -83237,7 +83237,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7808",
-      "label": "Host Says the Shopping Center Tip Reached Ryan Mata Through a Chain of Contacts",
+      "label": "Host Says the Shopping Center Tip Reached Ryan Matta Through a Chain of Contacts",
       "node_kind": "claim",
       "episode": 156
     },
@@ -127652,7 +127652,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2718.1",
-      "label": "Four pieces of footage of the alleged shooter reviewed by the host: Phil Lyman house footage, TMZ neighborhood footage, Ryan Mata's parking lot footage and the rooftop jump footage (apparently on scre",
+      "label": "Four pieces of footage of the alleged shooter reviewed by the host: Phil Lyman house footage, TMZ neighborhood footage, Ryan Matta's parking lot footage and the rooftop jump footage (apparently on scr",
       "node_kind": "artifact",
       "episode": 34
     },

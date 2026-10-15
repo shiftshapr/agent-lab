@@ -38,7 +38,7 @@
 - Claim Range: C-1735–C-1744
 - New Nodes Introduced (People):  
 - New Nodes Introduced (Investigation Targets): N-10259, N-10260, N-10261, N-10262, N-10263, N-10264
-- Existing Nodes Reused (referenced, IDs presumed in earlier episodes): Charlie Kirk, Erika Kirk, Mikey McCoy, Kash Patel, Joe Kent, Tulsi Gabbard, Tim Pool (referred to in transcript as "Tim P"), Ryan Mata, Phil Lyman, Elizabeth Lane, Megyn Kelly
+- Existing Nodes Reused (referenced, IDs presumed in earlier episodes): Charlie Kirk, Erika Kirk, Mikey McCoy, Kash Patel, Joe Kent, Tulsi Gabbard, Tim Pool (referred to in transcript as "Tim P"), Ryan Matta, Phil Lyman, Elizabeth Lane, Megyn Kelly
 
 ---
 
@@ -272,7 +272,7 @@ Confidence Level: Low
 
 **A-2718** Alleged Shooter Footage Compilation Bundle
 
-**A-2718.1** Four pieces of footage of the alleged shooter reviewed by the host: Phil Lyman house footage, TMZ neighborhood footage, Ryan Mata's parking lot footage and the rooftop jump footage (apparently on screen)
+**A-2718.1** Four pieces of footage of the alleged shooter reviewed by the host: Phil Lyman house footage, TMZ neighborhood footage, Ryan Matta's parking lot footage and the rooftop jump footage (apparently on screen)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:18:28
@@ -623,7 +623,7 @@ Phil Lyman; the host links a house footage to him.
 
 **N-190** Ryan Matta
 
-Ryan Mata; supplied the parking lot footage of the alleged shooter.
+Ryan Matta; supplied the parking lot footage of the alleged shooter.
 
 *Related: C-4938, C-4939*
 
@@ -1335,7 +1335,7 @@ Investigative Direction: Document which rooftop leads the host traced and the mi
 
 Claim Timestamp: 00:18:28
 
-Claim: The host says viewer emails noted what might be a RAV 4 in every available footage of the alleged shooter, including the Phil Lyman house footage, the TMZ footage, Ryan Mata's parking lot footage and the rooftop jump footage, while allowing it may be coincidence.
+Claim: The host says viewer emails noted what might be a RAV 4 in every available footage of the alleged shooter, including the Phil Lyman house footage, the TMZ footage, Ryan Matta's parking lot footage and the rooftop jump footage, while allowing it may be coincidence.
 
 Transcript Snippet: we got a lot of emails from the public that have noted that there appears to be what might be a RAV 4 in every available footage
 
@@ -1350,7 +1350,7 @@ Investigative Direction: Enhance each clip and compare any RAV 4 to the white 20
 
 Claim Timestamp: 00:18:28
 
-Claim: The host says only four pieces of footage of the alleged shooter have been seen: one in front of a house she thinks is the Phil Lyman house, the TMZ footage, the parking lot footage provided by Ryan Mata, and the rooftop jump footage.
+Claim: The host says only four pieces of footage of the alleged shooter have been seen: one in front of a house she thinks is the Phil Lyman house, the TMZ footage, the parking lot footage provided by Ryan Matta, and the rooftop jump footage.
 
 Transcript Snippet: Uh so we've only seen four uh pieces of footage of the alleged shooter.
 

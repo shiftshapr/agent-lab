@@ -436,7 +436,7 @@ Tyler Robinson's roommate; the host speculates about his role and federal status
 
 **N-190** Ryan Matta
 
-Person the host says she phoned about the shopping center sighting (spelled Ryan Mata in the transcript).
+Person the host says she phoned about the shopping center sighting (spelled Ryan Matta in the transcript).
 
 *Related: C-7795, C-7808*
 
@@ -1115,19 +1115,19 @@ Investigative Direction: Obtain the warrant text and the shopping-center camera 
 
 ---
 
-**C-7795** Host Says She Phoned Ryan Mata About How the Shopping Center Sighting Surfaced
+**C-7795** Host Says She Phoned Ryan Matta About How the Shopping Center Sighting Surfaced
 
 Claim Timestamp: 00:16:09
 
-Claim: The host says she called Ryan Mata that day to ask how he came by the Mountain Shadows information, wondering whether it was fed to the public.
+Claim: The host says she called Ryan Matta that day to ask how he came by the Mountain Shadows information, wondering whether it was fed to the public.
 
-Transcript Snippet: I actually called Ryan Mata today.
+Transcript Snippet: I actually called Ryan Matta today.
 
 Anchored Artifacts: 
 Mentions: N-3, N-190
 Related Nodes: N-11151
 Tags: relevance:core
-Investigative Direction: Ask Ryan Mata for the original source and date of the shopping-center sighting report.
+Investigative Direction: Ask Ryan Matta for the original source and date of the shopping-center sighting report.
 
 ---
 
@@ -1325,11 +1325,11 @@ Investigative Direction: Check the charging documents and lab reports for the to
 
 ---
 
-**C-7808** Host Says the Shopping Center Tip Reached Ryan Mata Through a Chain of Contacts
+**C-7808** Host Says the Shopping Center Tip Reached Ryan Matta Through a Chain of Contacts
 
 Claim Timestamp: 00:25:37
 
-Claim: The host says Ryan Mata was reached by someone who was reached by someone else, and that she is making phone calls to trace the information.
+Claim: The host says Ryan Matta was reached by someone who was reached by someone else, and that she is making phone calls to trace the information.
 
 Transcript Snippet: I was talking to Ryan, you know, he got reached out to somebody who got reached out to somebody got reached out to by somebody else.
 
@@ -1337,7 +1337,7 @@ Anchored Artifacts:
 Mentions: N-3, N-190
 Related Nodes: N-11151
 Tags: relevance:core
-Investigative Direction: Reconstruct the chain of contacts from the original shopping center witness to Ryan Mata.
+Investigative Direction: Reconstruct the chain of contacts from the original shopping center witness to Ryan Matta.
 
 ---
 
