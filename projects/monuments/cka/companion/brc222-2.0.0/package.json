@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T01:37:45Z",
+  "generated_at": "2026-10-15T01:55:14Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -7644,7 +7644,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10925",
-      "label": "Host Says Hopineau Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death",
+      "label": "Host Says Hoppenot Finalized the Bracebridge Deal and Stepped Back Months Before Kirk's Death",
       "node_kind": "claim",
       "episode": 38
     },
@@ -8176,7 +8176,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11001",
-      "label": "Host Asks Viewers to Help Identify the Donor Streiff Called",
+      "label": "Host Asked Everybody to Help Identify the Donor Streiff Allegedly Called",
       "node_kind": "claim",
       "episode": 39
     },
@@ -27699,7 +27699,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13550",
-      "label": "Host Says Attendees Confirm Charlie Was Pressed at a Weekend Where Aaron Wexler Sent Invitations",
+      "label": "Host Says Attendees Confirm Charlie Was Pressed at a Weekend Where Arynne Wexler Sent Invitations",
       "node_kind": "claim",
       "episode": 3
     },
@@ -32634,21 +32634,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14191",
-      "label": "Host Says Montgomery Hired Schaefer Security With Dan Flood and Brian Harpole Working Under Greg Schaefer",
+      "label": "Host Says Montgomery Hired Schaefer Security With Dan Flood and Brian Harpole Working Under Greg Shaffer",
       "node_kind": "claim",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14192",
-      "label": "Host Says Greg Schaefer Was FBI Hostage Rescue and a Dallas Joint Terrorism Task Force Supervisor",
+      "label": "Host Says Greg Shaffer Was FBI Hostage Rescue and a Dallas Joint Terrorism Task Force Supervisor",
       "node_kind": "claim",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14193",
-      "label": "Host Says Greg Schaefer Was Stationed in Budapest",
+      "label": "Host Says Greg Shaffer Was Stationed in Budapest",
       "node_kind": "claim",
       "episode": 59
     },
@@ -40306,7 +40306,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1646",
-      "label": "Host Says Eric and Laura Trump Spoke at Auburn TPUSA Event",
+      "label": "Host Says Eric and Lara Trump Spoke at Auburn TPUSA Event",
       "node_kind": "claim",
       "episode": 28
     },
@@ -40362,21 +40362,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1654",
-      "label": "Frank Turek Described NAR as a Cult \"Darker than a Cult\"",
+      "label": "Frank Turek Described NAR Theology as Aberrant and Occult-Like",
       "node_kind": "claim",
       "episode": 29
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1655",
-      "label": "Steve Baker (via Glenn Beck) Identified Shawnie Ray Kirkup as the January 6 Pipe-Bomb Dropper",
+      "label": "Host Says Baker Identified Capitol Police Officer as Pipe-Bomb Dropper",
       "node_kind": "claim",
       "episode": 29
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1656",
-      "label": "Liz Lyons (CIA) Stated Shawnie Kirkhoff Worked in Capitol Police Campus Security",
+      "label": "Liz Lyons (CIA) Stated Shauni Kerkhoff Worked in Capitol Police Campus Security",
       "node_kind": "claim",
       "episode": 29
     },
@@ -40418,7 +40418,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1662",
-      "label": "Allie Beth Stuckey Warned Viewers Against Asking Questions Without \"Hard Evidence\"",
+      "label": "Allie Beth Stuckey Said Implicating a Real Person in a Murder Plot Requires Hard Evidence",
       "node_kind": "claim",
       "episode": 29
     },
@@ -40565,7 +40565,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1683",
-      "label": "Frank Turek Invited Jay Warner Wallace onto His Podcast Two Weeks After Kirk's Death",
+      "label": "Frank Turek Invited J. Warner Wallace onto His Podcast Two Weeks After Kirk's Death",
       "node_kind": "claim",
       "episode": 31
     },
@@ -40586,7 +40586,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1686",
-      "label": "Rob McCoy Maintained a 20+ Year Friendship With Thomas Camino After Conviction",
+      "label": "Rob McCoy Describes a Roughly 20-Year Friendship With Thomas Camino",
       "node_kind": "claim",
       "episode": 31
     },
@@ -40607,7 +40607,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1689",
-      "label": "Rob McCoy Framed 2022 Mothers' Objections as \"Gossip and Slander\"",
+      "label": "Rob McCoy Calls Criticism of Camino \"Gossip and Slander\"",
       "node_kind": "claim",
       "episode": 31
     },
@@ -40698,7 +40698,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1702",
-      "label": "Insider Email Alleged Lou Taylor / Rob McCoy's Church Is a \"Front\" with Intelligence Links",
+      "label": "Insider Email Alleges Lou Taylor and Rob Taylor's Church Is a Front with Intelligence Links",
       "node_kind": "claim",
       "episode": 32
     },
@@ -40775,7 +40775,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1713",
-      "label": "Daily Mail Headline Framed Ali Stucky as TPUSA \"Heir\"",
+      "label": "Daily Mail Headline Framed Allie Beth Stuckey as TPUSA \"Heir\"",
       "node_kind": "claim",
       "episode": 32
     },
@@ -40936,7 +40936,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1736",
-      "label": "A UVU student reported seeing a man on the Lozi Center roof twice in the week before the assassination.",
+      "label": "A UVU Student Told CNN He Saw a Man on or Near the Losee Center Roof Twice in Two Weeks",
       "node_kind": "claim",
       "episode": 34
     },
@@ -40964,7 +40964,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1740",
-      "label": "Rob McCoy, speaking in Jerusalem on 2025-11-16, characterized Tucker Carlson and Candace Owens as \"essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity.\"",
+      "label": "Audience Questioner at Rob McCoy's Jerusalem Event Says Carlson and Owens Are Hijacking the Christian Message",
       "node_kind": "claim",
       "episode": 34
     },
@@ -40985,14 +40985,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1743",
-      "label": "Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.",
+      "label": "Arynne Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.",
       "node_kind": "claim",
       "episode": 34
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1744",
-      "label": "Host Says Plane Owned by Turning Point USA Donor TWW Lewis Flew Scottsdale to Provo",
+      "label": "Host Says Plane Owned by Turning Point USA Donor T.W. Lewis Flew Scottsdale to Provo",
       "node_kind": "claim",
       "episode": 34
     },
@@ -41034,14 +41034,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1750",
-      "label": "Host Says SATIDS Announced December 2024 Takeover of Wilmington Airport Hangar",
+      "label": "Host Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1751",
-      "label": "Per Document Host Reads, DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATIDS",
+      "label": "Per Email Host Reads, DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATYS",
       "node_kind": "claim",
       "episode": 35
     },
@@ -41216,7 +41216,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1776",
-      "label": "Host Plays Clip of Nebraska Secretary of State Bob Evan Announcing Egypt Trade Mission",
+      "label": "Host Plays Clip of Nebraska Secretary of State Bob Evnen Announcing Egypt Trade Mission",
       "node_kind": "claim",
       "episode": 37
     },
@@ -41342,7 +41342,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1794",
-      "label": "Hervé Hopineau served as long-time CEO of Incyte",
+      "label": "Hervé Hoppenot served as long-time CEO of Incyte",
       "node_kind": "claim",
       "episode": 38
     },
@@ -41461,7 +41461,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1811",
-      "label": "Viewer theory that McRonone lawsuit was intended to pre-empt Candace's assassination",
+      "label": "Viewer Theory That Macron Lawsuit Was Intended to Pre-empt Candace's Assassination",
       "node_kind": "claim",
       "episode": 39
     },
@@ -41937,7 +41937,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1879",
-      "label": "Viewer Comments the Host Reads Say TPUSA-Affiliated Individuals Knew of Potential Danger Before the Assassination and Have Remained Silent",
+      "label": "Viewer Comments the Host Reads Question TPUSA's Silence and Response",
       "node_kind": "claim",
       "episode": 43
     },
@@ -42049,7 +42049,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1895",
-      "label": "Tim Pool stated Candace Owens' residence has only a 4-foot wall and one security guard",
+      "label": "Tim Pool Says Someone Told Him Candace Owens' Home Has a 4-Foot Wall and One Guard",
       "node_kind": "claim",
       "episode": 44
     },
@@ -42469,7 +42469,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1955",
-      "label": "Charlie Kirk Show Speaker Identifies Andrew Seifer as TPUSA Head of Field",
+      "label": "Charlie Kirk Show Speaker Identifies Andrew Sypher as TPUSA Head of Field",
       "node_kind": "claim",
       "episode": 47
     },
@@ -63532,7 +63532,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4993",
-      "label": "Host Says Tom Claire Sent a Follow-Up December 18 Email She Also Did Not Receive",
+      "label": "Host Says Tom Clare Sent a Follow-Up December 18 Email She Also Did Not Receive",
       "node_kind": "claim",
       "episode": 36
     },
@@ -64078,7 +64078,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5071",
-      "label": "Host Alleges Rob McCoy Sanitized a Convicted Sex Offender",
+      "label": "Host Alleges Rob McCoy Sanitized a Man Who Went to Prison Over Photographing Young Girls",
       "node_kind": "claim",
       "episode": 40
     },
@@ -65037,7 +65037,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5208",
-      "label": "Host Says Freya the Canine Sniffed Out the Route to the Lozi Center Rooftop",
+      "label": "Host Says Freya the Canine Sniffed Out the Route to the Losee Center Rooftop",
       "node_kind": "claim",
       "episode": 48
     },
@@ -69601,7 +69601,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5860",
-      "label": "MASH Military-Affiliated Student Center Is on the Third Floor of the Lozi Center",
+      "label": "MASH Military-Affiliated Student Center Is on the Third Floor of the Losee Center",
       "node_kind": "claim",
       "episode": 125
     },
@@ -72422,7 +72422,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6263",
-      "label": "Host says Maycee Crofts worked with Andrew Cipher, the longtime head of field",
+      "label": "Host says Maycee Crofts worked with Andrew Sypher, the longtime head of field",
       "node_kind": "claim",
       "episode": 157
     },
@@ -72485,7 +72485,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6272",
-      "label": "Host says Andrew Cipher was promoted to a chief position shortly after the event",
+      "label": "Host says Andrew Sypher was promoted to a chief position shortly after the event",
       "node_kind": "claim",
       "episode": 157
     },
@@ -74970,7 +74970,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6627",
-      "label": "Host Says a Former Calvary Chapel Pastor in Virginia, Doug Deandria, Pleaded Guilty to Child Sex Abuse",
+      "label": "Host Says a Former Calvary Chapel Pastor in Virginia, Doug DeAndrea, Pleaded Guilty to Child Sex Abuse",
       "node_kind": "claim",
       "episode": 31
     },
@@ -75502,7 +75502,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6703",
-      "label": "Host Concedes Only a Time-Zone Error on Plane Timing Rather Than a Lie",
+      "label": "Host Asks Where She Has Lied Rather Than Made a Minor Error Such as a Time Zone",
       "node_kind": "claim",
       "episode": 46
     },
@@ -84028,7 +84028,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7921",
-      "label": "Host Says Blaze Editor Was Stopped by Police at Kirkhoff Home",
+      "label": "Host Says Blaze Editor Was Stopped by Police at Kerkhoff Home",
       "node_kind": "claim",
       "episode": 29
     },
@@ -84574,7 +84574,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7999",
-      "label": "Email Says SUBTT Traveled to France Before the SATIDS Deal Existed",
+      "label": "Email Says SUBTT Traveled to France Before the SATYS Deal Existed",
       "node_kind": "claim",
       "episode": 35
     },
@@ -84693,7 +84693,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8016",
-      "label": "Host Says TPUSA Is Featured on TWW Lewis's Foundation Website as a Partner",
+      "label": "Host Says TPUSA Is Featured on T.W. Lewis's Foundation Website as a Partner",
       "node_kind": "claim",
       "episode": 35
     },
@@ -84868,7 +84868,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8041",
-      "label": "Clip: Rogan Says the Macrons Are Threatening a $50 Million Lawsuit",
+      "label": "Clip: Speaker Says the Macrons Are Threatening a $50 Million Lawsuit",
       "node_kind": "claim",
       "episode": 35
     },
@@ -96089,7 +96089,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9644",
-      "label": "Host Says TPUSA Said Charlie Died Instantly Yet He Went Into Surgery",
+      "label": "Host Says People Asked How Charlie Went Into Surgery After Being Told He Died Instantly",
       "node_kind": "claim",
       "episode": 27
     },
@@ -96404,14 +96404,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9689",
-      "label": "Clip: Laura Trump Cites Armenia-Azerbaijan and Thailand-Cambodia as Trump Peace Wins",
+      "label": "Clip: Lara Trump Cites Armenia-Azerbaijan and Thailand-Cambodia as Trump Peace Wins",
       "node_kind": "claim",
       "episode": 28
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9690",
-      "label": "Host Says the Trump Children Know About Kushner's Middle East Deals and Gaza Benefit",
+      "label": "Host Says Young People Know About Kushner's Middle East Deals and Gaza Benefit",
       "node_kind": "claim",
       "episode": 28
     },
@@ -96425,7 +96425,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9692",
-      "label": "Host Says Netanyahu Bought TikTok",
+      "label": "Host Refers to BB Buying TikTok",
       "node_kind": "claim",
       "episode": 28
     },
@@ -96460,7 +96460,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9697",
-      "label": "Host Says Shapiro's Side Demanded Kirk Never Host a Guest After Losing a Debate",
+      "label": "Host Says Pro-Israel Lobby Squeezed Kirk After Losing a Debate",
       "node_kind": "claim",
       "episode": 28
     },
@@ -97139,7 +97139,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9794",
-      "label": "Host Says Tyler Robinson Was a Boy Scout and Photos Show His Mother Visiting an Uncle Mitchell",
+      "label": "Host Says Tyler Robinson Was a Boy Scout and Photos Show Amber Robinson Visiting an Uncle Mitchell",
       "node_kind": "claim",
       "episode": 37
     },
@@ -97265,7 +97265,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9812",
-      "label": "Host Says Ashley Rinzberg Lives in Tel Aviv",
+      "label": "Host Says Ashley Rindsberg Lives in Tel Aviv",
       "node_kind": "claim",
       "episode": 37
     },
@@ -99078,7 +99078,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1102.1",
-      "label": "Aaron Wexler-sent Hamptons weekend retreat invitations; multi-day retreat with smaller meetings plus main event",
+      "label": "Arynne Wexler-sent Hamptons weekend retreat invitations; multi-day retreat with smaller meetings plus main event",
       "node_kind": "artifact",
       "episode": 3
     },
@@ -103355,7 +103355,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1337.1",
-      "label": "X post attributed to Aaron Wexler calling Brett Cooper \"white Candace\"",
+      "label": "X post attributed to Arynne Wexler calling Brett Cooper \"white Candace\"",
       "node_kind": "artifact",
       "episode": 26
     },
@@ -103803,7 +103803,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1363.1",
-      "label": "Audio clip: Eric and Laura Trump speaking at TPUSA event at Auburn University, including student question on Israel",
+      "label": "Audio clip: Eric and Lara Trump speaking at TPUSA event at Auburn University, including student question on Israel",
       "node_kind": "artifact",
       "episode": 28
     },
@@ -103859,7 +103859,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1367.1",
-      "label": "Glenn Beck broadcast featuring Steve Baker on Shawnie Ray Kirkup / January 6 pipe bombs",
+      "label": "Glenn Beck broadcast featuring Steve Baker on Shauni Rae Kerkhoff / January 6 pipe bombs",
       "node_kind": "artifact",
       "episode": 29
     },
@@ -103873,7 +103873,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1368.1",
-      "label": "Liz Lyons (CIA spokesperson) statement re: Shawnie Kirkhoff / Capitol Police Campus Security",
+      "label": "Liz Lyons (CIA spokesperson) statement re: Shauni Kerkhoff / Capitol Police Campus Security",
       "node_kind": "artifact",
       "episode": 29
     },
@@ -104622,7 +104622,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1412.1",
-      "label": "Daily Mail article by Victoria Churchill (APAC reporter) describing Ali Stucky as TPUSA \"heir\" / \"heir apparent\"",
+      "label": "Daily Mail article by Victoria Churchill (APAC reporter) describing Allie Beth Stuckey as TPUSA \"heir\" / \"heir apparent\"",
       "node_kind": "artifact",
       "episode": 32
     },
@@ -104895,7 +104895,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1426.1",
-      "label": "CNN article: \"Utah Valley University student recalls seeing man walking on or near the Lozi Center roof twice in two weeks\"",
+      "label": "CNN article: \"Utah Valley University student recalls seeing man walking on or near the Losee Center roof twice in two weeks\"",
       "node_kind": "artifact",
       "episode": 34
     },
@@ -104923,14 +104923,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1428.1",
-      "label": "Brian Harpole interview with Shawn Bryan (segment covering rooftop access responsibility and drone coverage)",
+      "label": "Brian Harpole interview with Shawn Ryan (segment covering rooftop access responsibility and drone coverage)",
       "node_kind": "artifact",
       "episode": 34
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1428.2",
-      "label": "Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Lozi Center",
+      "label": "Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Losee Center",
       "node_kind": "artifact",
       "episode": 34
     },
@@ -105007,7 +105007,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1433.1",
-      "label": "Aaron Wexler X post: \"Candace started her career by doxing teenagers. Old habits die hard.\"",
+      "label": "Arynne Wexler X post: \"Candace started her career by doxing teenagers. Old habits die hard.\"",
       "node_kind": "artifact",
       "episode": 34
     },
@@ -105021,7 +105021,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1434.1",
-      "label": "Flight departing Scottsdale at approximately 08:00 local, arriving Provo at approximately 10:00 local on 2025-09-10; aircraft owned by Turning Point USA donor TWW Lewis",
+      "label": "Flight departing Scottsdale at approximately 08:00 local, arriving Provo at approximately 10:00 local on 2025-09-10; aircraft owned by Turning Point USA donor T.W. Lewis",
       "node_kind": "artifact",
       "episode": 34
     },
@@ -105084,14 +105084,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1438",
-      "label": "SATIDS Wilmington Hangar Bundle",
+      "label": "SATYS Wilmington Hangar Bundle",
       "node_kind": "artifact",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1438.1",
-      "label": "December 2024 SATIDS (French aircraft finishing company) announcement of takeover of shuttered Wilmington airport hangar, with reported ~$1M+ investment, covered by Delaware outlets",
+      "label": "December 2024 SATYS (French aircraft finishing company) announcement of takeover of shuttered Wilmington airport hangar, with reported ~$1M+ investment, covered by Delaware outlets",
       "node_kind": "artifact",
       "episode": 35
     },
@@ -105105,7 +105105,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1439.1",
-      "label": "Delaware River and Bay Authority January 2024 resolution authorizing acquisition of rights to a paint hanger formerly part of a Dassault leasehold and authorizing execution of a lease with SATIDS",
+      "label": "Delaware River and Bay Authority January 2024 resolution authorizing acquisition of rights to a paint hanger formerly part of a Dassault leasehold and authorizing execution of a lease with SATYS",
       "node_kind": "artifact",
       "episode": 35
     },
@@ -105343,7 +105343,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1455.1",
-      "label": "News Clip – Nebraska Secretary of State Bob Evan Announces Egypt Trade Mission",
+      "label": "News Clip – Nebraska Secretary of State Bob Evnen Announces Egypt Trade Mission",
       "node_kind": "artifact",
       "episode": 37
     },
@@ -105392,14 +105392,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1459",
-      "label": "Ashley Rinzberg Free Press Email Bundle",
+      "label": "Ashley Rindsberg Free Press Email Bundle",
       "node_kind": "artifact",
       "episode": 37
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1459.1",
-      "label": "Email from Ashley Rinzberg Requesting Comment for Free Press Article",
+      "label": "Email from Ashley Rindsberg Requesting Comment for Free Press Article",
       "node_kind": "artifact",
       "episode": 37
     },
@@ -105560,7 +105560,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1469.4",
-      "label": "Section: Incyte Corporation – claim that the long-time CEO of Incyte was Hervé Hopineau (host self-corrects: \"Hervé Hope No, Hopineau\"), a French national who recently transitioned from CEO to advisor",
+      "label": "Section: Incyte Corporation – claim that the long-time CEO of Incyte was Hervé Hoppenot (host self-corrects: \"Hervé Hope No, Hoppenot\"), a French national who recently transitioned from CEO to advisor",
       "node_kind": "artifact",
       "episode": 38
     },
@@ -106939,7 +106939,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1544.2",
-      "label": "Charlie Kirk Show segment discussing rooftop access and August 27 vs September 2 location announcement timing; Andrew Seifer identified as head of field",
+      "label": "Charlie Kirk Show segment discussing rooftop access and August 27 vs September 2 location announcement timing; Andrew Sypher identified as head of field",
       "node_kind": "artifact",
       "episode": 47
     },
@@ -118720,14 +118720,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2222",
-      "label": "Lozi Center Witness Recording Bundle",
+      "label": "Losee Center Witness Recording Bundle",
       "node_kind": "artifact",
       "episode": 135
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2222.1",
-      "label": "Audio recording of witness observing a person on the Lozi Center rooftop via military crawling into position before the \"bang\"; witness does not state seeing a firearm",
+      "label": "Audio recording of witness observing a person on the Losee Center rooftop via military crawling into position before the \"bang\"; witness does not state seeing a firearm",
       "node_kind": "artifact",
       "episode": 135
     },
@@ -127673,7 +127673,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2719.2",
-      "label": "Host verbal call for tips about the TWW Lewis plane passengers and Charlie's friends (verbal call for tips)",
+      "label": "Host verbal call for tips about the T.W. Lewis plane passengers and Charlie's friends (verbal call for tips)",
       "node_kind": "artifact",
       "episode": 34
     },
@@ -130340,7 +130340,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2879.1",
-      "label": "Host verbal reference to the exclusive Lozi Center rooftop video released the previous day (not replayed in this episode)",
+      "label": "Host verbal reference to the exclusive Losee Center rooftop video released the previous day (not replayed in this episode)",
       "node_kind": "artifact",
       "episode": 134
     },
@@ -130886,14 +130886,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2915",
-      "label": "TWW Lewis Foundation Website Bundle",
+      "label": "T.W. Lewis Foundation Website Bundle",
       "node_kind": "artifact",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2915.1",
-      "label": "Host verbal reference to the TWW Lewis foundation website listing Turning Point USA as a partner (not shown)",
+      "label": "Host verbal reference to the T.W. Lewis foundation website listing Turning Point USA as a partner (not shown)",
       "node_kind": "artifact",
       "episode": 35
     },

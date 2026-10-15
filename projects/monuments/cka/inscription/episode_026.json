@@ -170,7 +170,7 @@
           "@type": "Artifact",
           "@id": "A-1337.1",
           "ref": "A-1337.1",
-          "description": "X post attributed to Aaron Wexler calling Brett Cooper \"white Candace\"",
+          "description": "X post attributed to Arynne Wexler calling Brett Cooper \"white Candace\"",
           "related_claims": [
             "C-1606"
           ],
@@ -775,7 +775,7 @@
       "@type": "Person",
       "@id": "N-56",
       "ref": "N-56",
-      "name": "Aaron Wexler",
+      "name": "Arynne Wexler",
       "type": "person",
       "description": "X poster identified by host as source of \"white Candace\" post.",
       "related_artifacts": [
@@ -2068,7 +2068,7 @@
       "@id": "C-1606",
       "ref": "C-1606",
       "label": "Wexler \"White Candace\" Post",
-      "claim": "The host shows a post she attributes to Aaron Wexler that reads \"Okay, white Candace. What is a Nazi then?\" about Brett Cooper; the host asks why Cooper is being called the white Candace.",
+      "claim": "The host shows a post she attributes to Arynne Wexler that reads \"Okay, white Candace. What is a Nazi then?\" about Brett Cooper; the host asks why Cooper is being called the white Candace.",
       "anchored_artifacts": [
         "A-1337.1"
       ],

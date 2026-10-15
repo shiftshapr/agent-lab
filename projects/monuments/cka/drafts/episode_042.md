@@ -661,10 +661,10 @@ Investigative Direction: Obtain the full unedited Charlie Kirk Show audio segmen
 
 Claim Timestamp: 00:06:44
 
-Claim: On the Charlie Kirk Show, Blake Neff stated that, given the nature of the claims, "it's intuitive that it is critical to be in person if you want to be authentic."
+Claim: On the Charlie Kirk Show, Blake Neff stated, "I think it's pretty intuitive that given what is being said ... it's critical to be in person if you want to be authentic and to be detailed."
 
 Anchored Artifacts: A-1501.2
-Mentions: N-2, N-161
+Mentions: N-161
 
 Related Nodes: N-10313
 
@@ -679,7 +679,7 @@ Claim Timestamp: 00:11:14
 Claim: In his earlier invitation statement (read aloud in this episode), Blake Neff said TPUSA would "sincerely welcome" Candace Owens's participation in a Phoenix live stream without explicit in-person requirement.
 
 Anchored Artifacts: A-1502.1
-Mentions: N-2, N-161, N-3
+Mentions: N-161, N-3
 
 Related Nodes: N-10313
 
@@ -703,9 +703,9 @@ Investigative Direction: Obtain the full released track and verify publication d
 
 **C-1843** UVU school colors are green and white, not maroon
 
-Claim Timestamp: 00:20:45
+Claim Timestamp: 00:20:07
 
-Claim: When asked whether UVU's school colors include maroon, a UVU-affiliated individual confirmed the school's colors are green and white.
+Claim: The host says that when she asked someone at UVU whether the school colors are maroon, he replied that they are green and white.
 
 Anchored Artifacts: A-1505.1 (verbal confirmation referenced alongside footage)
 
@@ -722,7 +722,7 @@ Claim Timestamp: 00:20:45–00:21:55
 Claim: The host says footage from UVU on September 10 shows multiple young men attending alone and wearing maroon shirts.
 
 Anchored Artifacts: A-1505.1, A-1505.6
-Mentions: N-309
+Mentions: 
 
 Related Nodes: N-10311
 
@@ -737,7 +737,7 @@ Claim Timestamp: 00:46:13
 Claim: Blake Neff posted on X that the invitation was "not how you book a guest," that TPUSA "never said that we were" booking a guest, and that Candace "was given the opportunity to join and declined."
 
 Anchored Artifacts: A-1506.1
-Mentions: N-2, N-161
+Mentions: N-161, N-3
 
 Related Nodes: N-10313
 
@@ -752,6 +752,7 @@ Claim Timestamp: 00:02:41
 Claim: Per a tweet the host reads, The Charlie Kirk Show has fallen to #94 on Apple Podcasts despite a prior top-10 ranking and a prior #1 placement while Kirk was alive.
 
 Anchored Artifacts: A-1507.1
+Mentions: N-1
 
 Related Nodes: N-10312
 
@@ -793,7 +794,7 @@ Investigative Direction: Obtain the original full-length footage to confirm the 
 
 Claim Timestamp: 00:25:00–00:25:35
 
-Claim: Footage and a grainy superimposed image depict Jacob Kasparian recording the event on his phone.
+Claim: The host says footage and a grainy superimposed image she shows depict Jacob Kasparian recording the event on his phone.
 
 Anchored Artifacts: A-1505.3
 Mentions: N-309
@@ -808,7 +809,7 @@ Investigative Direction: Obtain any phone-recorded footage from Jacob Kasparian 
 
 Claim Timestamp: 00:24:50–00:25:25
 
-Claim: Jacob Kasparian posted himself earlier on September 10 wearing a dyed blue shirt rather than the maroon shirt worn at UVU.
+Claim: The host says Jacob Kasparian posted himself earlier on September 10 wearing a dyed blue shirt rather than the maroon shirt worn at UVU.
 
 Anchored Artifacts: A-1505.4
 Mentions: N-309
@@ -826,7 +827,7 @@ Claim Timestamp: 00:26:30–00:28:00
 Claim: The host says Adam Bartholomew live-streamed the entire UVU event on September 10.
 
 Anchored Artifacts: A-1505.5
-Mentions: N-310, N-311
+Mentions: N-310
 
 Related Nodes: N-10311
 
@@ -841,7 +842,7 @@ Claim Timestamp: 00:27:30–00:28:00
 Claim: Carrie Bartholomew posted a tweet and accompanying photo confirming she was in the courtyard near the bush when the shot occurred.
 
 Anchored Artifacts: A-1511.1, A-1505.5
-Mentions: N-310, N-311
+Mentions: N-311
 
 Related Nodes: N-10311
 
@@ -868,7 +869,7 @@ Investigative Direction: Review the full Bartholomew livestream timeline and any
 
 Claim Timestamp: 00:28:44
 
-Claim: Tyler Robinson, the alleged shooter, was wearing a maroon shirt at the UVU event.
+Claim: The host says Tyler Robinson, the alleged shooter, notoriously was wearing a maroon shirt at the UVU event.
 
 Anchored Artifacts: A-1505.1 (referenced as background fact)
 Mentions: N-40
@@ -940,7 +941,7 @@ Investigative Direction: Verify via court subpoena records and FBI/subpoena logs
 
 Claim Timestamp: 00:44:21–00:45:00
 
-Claim: The roof video caller stated he has experience with guns and teaches people to shoot.
+Claim: The host says the roof video caller has experience with guns and teaches people to shoot.
 
 Anchored Artifacts: A-1509.1
 
@@ -952,9 +953,9 @@ Investigative Direction: Verify the caller's stated qualifications via credentia
 
 **C-1860** Erika Kirk identified as CEO / head of TPUSA
 
-Claim Timestamp: 00:00:00–00:00:01
+Claim Timestamp: 00:05:40
 
-Claim: Blake Neff states Erika Kirk "heads this" and host identifies Erika Kirk as CEO of TPUSA.
+Claim: In a clip the host plays, Blake Neff says Erika Kirk 'heads this'.
 
 Anchored Artifacts: A-1501.2
 Mentions: N-2, N-161
@@ -972,7 +973,7 @@ Claim Timestamp: 00:07:32
 Claim: In a clip of The Charlie Kirk Show that the host plays, Blake Neff says a TPUSA response live stream is going forward and was announced for December 15 (2025).
 
 Anchored Artifacts: A-1501.2
-Mentions: N-2, N-14, N-161
+Mentions: N-161
 
 Related Nodes: N-10313
 
@@ -1022,7 +1023,7 @@ Claim: Blake Neff says TPUSA did not address the host's claims for a long time b
 Transcript Snippet: we initially just thought no one would believe a lot of what was being said and we also just we we remembered the same friendship that Charlie had
 
 Anchored Artifacts: A-1501.2
-Mentions: N-161, N-1
+Mentions: N-161, N-1, N-3
 Related Nodes: N-10313, N-10000
 Tags: relevance:core
 Investigative Direction: Compare with TPUSA's earlier statements and staff messages about whether and when it chose not to respond.
@@ -1151,7 +1152,7 @@ Claim: The host says her husband instantly told her she could not do Monday.
 Transcript Snippet: my husband instantly said, "No, you cannot do this Monday."
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-30
 Related Nodes: N-10313
 Tags: relevance:context
 Investigative Direction: This rests on the host's own account; confirm only through the host.
@@ -1249,8 +1250,8 @@ Claim: The host says she believes the Kirk killing was a deep state assassinatio
 Transcript Snippet: if we believe and know um and have the intuition that this is a deep state assassination, I do.
 
 Anchored Artifacts: 
-Mentions: N-3
-Tags: relevance:context
+Mentions: N-3, N-1
+Tags: relevance:core
 Investigative Direction: Treat as the host's stated belief; nothing in this passage is documented evidence.
 
 ---
@@ -1518,7 +1519,7 @@ Investigative Direction: Map the earliest uploads of the main videos to the acco
 
 Claim Timestamp: 00:28:44
 
-Claim: The host asks viewers who recognize the maroon-shirted men she showed to email more tips at candaceowens.com, and says she does not want general thoughts on the color.
+Claim: The host asks viewers who recognize the maroon-shirted men she showed to email more tips (transcribed as 'candens.com'), and says she does not want general thoughts on the color.
 
 Transcript Snippet: if you recognize these individuals in particular, more tips candens. com.
 
@@ -1930,14 +1931,14 @@ Investigative Direction: Confirm the venue and date of the interview.
 
 **C-12476** Host Says Her Husband Said December 15 Absolutely Does Not Work
 
-Claim Timestamp: 00:51:18
+Claim Timestamp: 00:51:51
 
-Claim: The host says her husband said December 15 absolutely does not work when she showed him the tweet confirmation.
+Claim: The host says her husband said December 15 absolutely does not work when she went to him after seeing the text or tweet confirmation.
 
 Transcript Snippet: he said December 15th absolutely does not work.
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-30
 Related Nodes: N-10313
 Supports: C-12432
 Tags: relevance:context

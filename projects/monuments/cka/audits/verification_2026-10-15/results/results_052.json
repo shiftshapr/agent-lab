@@ -1,0 +1,811 @@
+[
+ {
+  "claim": "C-8025",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8026",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8027",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8028",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8029",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8030",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8031",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names \"Charlie's team\" but Mentions omits N-1 Charlie Kirk.",
+  "fix": {
+   "mentions": [
+    "N-268",
+    "N-7",
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-8032",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8033",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8034",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Shawn Ryan (N-226) is not named or referred to in the claim; it names only \"a security person\" (Harpole) and the host.",
+  "fix": {
+   "mentions": [
+    "N-268",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-8035",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8036",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8037",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only Rogan and the host; Theo Von (N-148) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-270"
+   ]
+  }
+ },
+ {
+  "claim": "C-8038",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Speaker: \"if we told you that actually this whole world is being run by pedophiles\" is hypothetical/sarcastic; claim states it flatly.",
+  "fix": {
+   "claim": "In the Rogan and Von clip, a speaker says officials claim it would compromise national security to release the Jeffrey Epstein files, and says the secret they would be protecting is that the world is run by pedophiles."
+  }
+ },
+ {
+  "claim": "C-8039",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8040",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8041",
+  "episode": 35,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Speakers unlabeled; \">>\" alternation has the same speaker ask \"they're suing her, aren't they?\" and say \"at least threatening a lawsuit...50 million bucks\". Rogan vs Von not confirmable.",
+  "fix": {
+   "claim": "In the Rogan and Von clip, one speaker asks whether the Macrons are suing her, and a speaker says he thinks they are at least threatening a lawsuit for something like 50 million dollars.",
+   "label": "Clip: Speaker Says the Macrons Are Threatening a $50 Million Lawsuit"
+  }
+ },
+ {
+  "claim": "C-8042",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no person (only \"a speaker\", the French president and his teacher); Mentions lists Rogan and Von.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-8043",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8044",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8045",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8046",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"donors were squeezing Charlie. Like that's the main thing. This is a part of the story.\" Claim merges into \"main part of the story\".",
+  "fix": {
+   "claim": "The host says donors were getting very angry with Charlie and were squeezing him, which she calls the main thing and a part of the story."
+  }
+ },
+ {
+  "claim": "C-8047",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"seemingly because of his um anti-Israel or what could be interpreted as as anti-Israel rhetoric\"; the hedge is dropped.",
+  "fix": {
+   "claim": "The host says Tim Pool, who was always invited to speak at AmFest, was cut seemingly because of his anti-Israel rhetoric, or what could be interpreted as anti-Israel rhetoric."
+  }
+ },
+ {
+  "claim": "C-8048",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8049",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8050",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8051",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8052",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8053",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8054",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8055",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8056",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8057",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8058",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I think that he equated more dollars with more success\"; the \"I think\" hedge is dropped.",
+  "fix": {
+   "claim": "The host says she thinks Charlie was so motivated that he equated more dollars with more success and did not necessarily equate it with more of a threat."
+  }
+ },
+ {
+  "claim": "C-8059",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I'm not voting until they tell us what happened to Charlie\"; \"they\" is unspecified, claim says \"officials\".",
+  "fix": {
+   "claim": "The host says she is not voting until \"they\" tell us what happened to Charlie, why it happened and why it had to happen."
+  }
+ },
+ {
+  "claim": "C-8060",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": true,
+  "note": "Claim names Kash Patel (\"Kash Patel's girlfriend\") but Mentions omits N-69. A YouTube music copyright claim is tangential.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-279",
+    "N-69"
+   ],
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8061",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8062",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"Jean Michelle Tro. No.\" is a mis-transcription of Jean-Michel Trogneux (Owens' Prisoner 2093 theory, per HappyScribe episode \"Becoming Brigitte: MK Ultra And The French Gold Rush\").",
+  "fix": {
+   "claim": "The host says she believes a MK Ultra experiment she had been discussing looked very much like prisoner 2093 could have been Jean-Michel Trogneux, and that she did not think there could be a connection to the killing.",
+   "names": [
+    {
+     "wrong": "Jean Michelle Tro",
+     "right": "Jean-Michel Trogneux",
+     "source": "https://podcasts.happyscribe.com/candace/becoming-brigitte-mk-ultra-and-the-french-gold-rush"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8063",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8064",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8065",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1759",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1760",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1761",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Lawyer: \"likely going to try to file a motion to dismiss to stay...inconvenient to litigate in Delaware\"; \"forum non conveniens\" not said. \"Macron parties\" refers to the Macrons, omitted from Mentions.",
+  "fix": {
+   "claim": "Displayed legal-team communication says they will likely move to dismiss or stay the Macron lawsuit as inconvenient to litigate in Delaware, citing that the host is in Tennessee, her Delaware companies did not defame anyone, the witnesses are in Tennessee, and the Macrons are not citizens of Delaware.",
+   "mentions": [
+    "N-3",
+    "N-82",
+    "N-381"
+   ]
+  }
+ },
+ {
+  "claim": "C-1762",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Shawn Ryan (N-226) is not named in the claim; claim names Harpole, Flood and Long.",
+  "fix": {
+   "mentions": [
+    "N-268",
+    "N-272",
+    "N-273"
+   ]
+  }
+ },
+ {
+  "claim": "C-1763",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Brian Harpole but Mentions omits N-268. The clip (Harpole) describes the roof-access message and \"I got you covered\"; the host does not say what it documents.",
+  "fix": {
+   "claim": "In a clip the host plays, Brian Harpole presents what the host says is a text exchange between Dan Flood and Chief Long about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), asking for either controlled access or one of his guys to be there, with Chief Long's last reply \"I got you covered.\"",
+   "mentions": [
+    "N-268",
+    "N-272",
+    "N-273"
+   ]
+  }
+ },
+ {
+  "claim": "C-1764",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names the Sheriff's office and Tyler Robinson, not Nate Brooksby (N-274).",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-1765",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names no person; Nate Brooksby (N-274) is not named in the claim (it is the office's records response).",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-1766",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1767",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Bill Ackman and Epstein-connected wealth, but Mentions has only N-22.",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-37",
+    "N-9"
+   ]
+  }
+ },
+ {
+  "claim": "C-3650",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4975",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4976",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4977",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"maybe 72 hours max after Charlie was killed\"; claim says \"about 72 hours\", dropping \"maybe\"/\"max\".",
+  "fix": {
+   "claim": "The host says that maybe 72 hours at most after the assassination Andrew Kolvet told her on the phone, 'Candace, it was supposed to be you,' which she first took as grief bargaining and now questions."
+  }
+ },
+ {
+  "claim": "C-4978",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie Kirk (\"while Charlie Kirk was in the hospital\") but Mentions omits N-1.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-22",
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-4979",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4980",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4981",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4982",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4983",
+  "episode": 36,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

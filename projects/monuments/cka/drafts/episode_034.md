@@ -44,7 +44,7 @@
 
 ## II. Executive Summary
 
-Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots into three investigative threads: (1) pre-assassination rooftop activity at UVU, including a CNN article and a September 11, 2025 audio recording of a UVU student describing a man on the Lozi Center roof in the week before the shooting; (2) post-shooting security accountability, anchored by the Brian Harpole / Jeff Long text-exchange and the Brian Harpole interview with Shawn Bryan, plus Blake Neff's call-log screenshot timestamp; and (3) Rob McCoy's November 16, 2025 remarks in Jerusalem paired with the displayed Calvary Chapel magazine cover. Artifact-anchored claims advance the rental-vehicle identification chain (five plates), timestamp the rooftop sighting report, document the Harpole↔Long text exchange regarding rooftop access, and timestamp the post-shooting phone-call sequence. Framing premises about a "federal-level conspiracy" and characterizations of named individuals as dishonest are recorded but not inscribed as claims.
+Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots into three investigative threads: (1) pre-assassination rooftop activity at UVU, including a CNN article and a September 11, 2025 audio recording of a UVU student describing a man on the Losee Center roof in the week before the shooting; (2) post-shooting security accountability, anchored by the Brian Harpole / Jeff Long text-exchange and the Brian Harpole interview with Shawn Ryan, plus Blake Neff's call-log screenshot timestamp; and (3) Rob McCoy's November 16, 2025 remarks in Jerusalem paired with the displayed Calvary Chapel magazine cover. Artifact-anchored claims advance the rental-vehicle identification chain (five plates), timestamp the rooftop sighting report, document the Harpole↔Long text exchange regarding rooftop access, and timestamp the post-shooting phone-call sequence. Framing premises about a "federal-level conspiracy" and characterizations of named individuals as dishonest are recorded but not inscribed as claims.
 
 ---
 
@@ -96,7 +96,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ### A-1426 – CNN Article Bundle (UVU rooftop sighting)
 
-**A-1426.1** CNN article: "Utah Valley University student recalls seeing man walking on or near the Lozi Center roof twice in two weeks"
+**A-1426.1** CNN article: "Utah Valley University student recalls seeing man walking on or near the Losee Center roof twice in two weeks"
 - Event Timestamp: 2025-09-11 (published day after assassination)
 - Source Timestamp: 2025-09-11
 - Video Timestamp: 12:01
@@ -118,9 +118,9 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1428 – Brian Harpole / Shawn Bryan Interview Bundle
+### A-1428 – Brian Harpole / Shawn Ryan Interview Bundle
 
-**A-1428.1** Brian Harpole interview with Shawn Bryan (segment covering rooftop access responsibility and drone coverage)
+**A-1428.1** Brian Harpole interview with Shawn Ryan (segment covering rooftop access responsibility and drone coverage)
 - Event Timestamp: 2025 (interview date prior to episode)
 - Source Timestamp: 2025-11-18 (referenced on episode)
 - Video Timestamp: 23:53
@@ -128,7 +128,7 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 - Confidence Level: Medium
 - *Related: C-1737, , A-1428.2*
 
-**A-1428.2** Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Lozi Center
+**A-1428.2** Text exchange between Brian Harpole and UVU Police Chief Jeff Long regarding rooftop access at Sorenson Center / Losee Center
 - Event Timestamp: Prior to 2025-09-10 (date unspecified in transcript; "on Monday before this correspondence went to Chief Long")
 - Source Timestamp: 2025-11-18 (read aloud on episode)
 - Video Timestamp: 26:12
@@ -194,9 +194,9 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1433 – Aaron Wexler X Post
+### A-1433 – Arynne Wexler X Post
 
-**A-1433.1** Aaron Wexler X post: "Candace started her career by doxing teenagers. Old habits die hard."
+**A-1433.1** Arynne Wexler X post: "Candace started her career by doxing teenagers. Old habits die hard."
 - Event Timestamp: 2025-11 (prior to episode)
 - Source Timestamp: 2025-11-18 (read aloud)
 - Video Timestamp: 03:02
@@ -206,9 +206,9 @@ Episode 34 expands the "Egyptian" plane / rental-car artifact chain and pivots i
 
 ---
 
-### A-1434 – TWW Lewis Flight Information Bundle
+### A-1434 – T.W. Lewis Flight Information Bundle
 
-**A-1434.1** Flight departing Scottsdale at approximately 08:00 local, arriving Provo at approximately 10:00 local on 2025-09-10; aircraft owned by Turning Point USA donor TWW Lewis
+**A-1434.1** Flight departing Scottsdale at approximately 08:00 local, arriving Provo at approximately 10:00 local on 2025-09-10; aircraft owned by Turning Point USA donor T.W. Lewis
 - Event Timestamp: 2025-09-10
 - Source Timestamp: 2025-11-18
 - Video Timestamp: 20:20
@@ -298,7 +298,7 @@ Confidence Level: High
 
 ---
 
-**A-2719.2** Host verbal call for tips about the TWW Lewis plane passengers and Charlie's friends (verbal call for tips)
+**A-2719.2** Host verbal call for tips about the T.W. Lewis plane passengers and Charlie's friends (verbal call for tips)
 
 Quoted text: "More tips at candacewowens. com."
 
@@ -388,7 +388,7 @@ Claim by host (citing "a high government source") that foreign military jets can
 - **Optional Flag:** Requires human verification; artifact verbally referenced but not shown.
 
 **N-10261** UVU Pre-9/10 Rooftop Sightings
-Reports by a UVU student (and reportedly a professor) of a man on the Lozi Center roof in the week before the shooting (A-1426.1, A-1427.1).
+Reports by a UVU student (and reportedly a professor) of a man on the Losee Center roof in the week before the shooting (A-1426.1, A-1427.1).
 - Evidence Count: 2
 - Claim Count: 1
 - Episode Count: 1
@@ -403,7 +403,7 @@ Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his 
 - Investigative Pressure: Medium
 - *Related: A-1429.1, A-1429.2, C-1738, C-1739, *
 
-**N-10263** TWW Lewis Scottsdale-to-Provo Flight Manifest Mystery
+**N-10263** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery
 The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assassination; passengers unidentified.
 - Evidence Count: 1
 - Claim Count: 1
@@ -669,9 +669,9 @@ Jeff Long; UVU police chief whom Harpole's texts and interview concern.
 
 ---
 
-**N-10769** Lozi Center Gun Verification Gap
+**N-10769** Losee Center Gun Verification Gap
 
-Lozi Center Gun Verification Gap; existing topic reused for new claims in this episode.
+Losee Center Gun Verification Gap; existing topic reused for new claims in this episode.
 
 *Related: C-4944*
 
@@ -914,10 +914,10 @@ Mentions: N-262
 Related Nodes: N-10259
 Investigative Direction: Obtain Duncan Aviation rental contracts, cross-check plate state-DMV registrations, and verify renter identities against the SU-BTT passenger manifest.
 
-**C-1736** A UVU student reported seeing a man on the Lozi Center roof twice in the week before the assassination.
+**C-1736** A UVU Student Told CNN He Saw a Man on or Near the Losee Center Roof Twice in Two Weeks
 
 Claim Timestamp: 00:12:01
-Claim: A UVU student told CNN he observed a tall, thin white male in dark clothing with a backpack on or near the Lozi Center roof twice, the last time at noon the Wednesday before the shooting.
+Claim: Per the CNN article the host shows, a UVU student told CNN he observed a tall, thin white male in dark clothing with a backpack on or near the Losee Center roof twice, the last time at noon the Wednesday before the shooting.
 Anchored Artifacts: A-1426.1, A-1427.1
 Related Nodes: N-10261
 Investigative Direction: Identify the student and the reportedly-present professor; obtain any contemporaneous photographs, texts to the FBI tip line, and UVU building access logs for the CS building concourse and roof.
@@ -927,16 +927,16 @@ Investigative Direction: Identify the student and the reportedly-present profess
 Claim Timestamp: 00:26:12
 Claim: In a clip the host plays, Brian Harpole, Charlie Kirk's security lead, reads his texts to UVU Police Chief Jeff Long about student roof access near where Kirk would be set up, ending with the reply "I got you covered," and the host says Harpole did not follow up further.
 Anchored Artifacts: A-1428.1, A-1428.2
-Mentions: N-1
+Mentions: N-1, N-268, N-273
 Related Nodes:
 Investigative Direction: Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.
 
 **C-1738** Blake Neff was standing next to Mikey McCoy at the moment of the shooting.
 
-Claim Timestamp: 00:32:53
+Claim Timestamp: 00:32:25
 Claim: Blake Neff states that he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.
 Anchored Artifacts: A-1429.1
-Mentions: N-67, N-192, N-161
+Mentions: N-161, N-192
 Related Nodes: N-10262
 Investigative Direction: Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.
 
@@ -945,14 +945,14 @@ Investigative Direction: Cross-reference video from TPUSA / event cameras and St
 Claim Timestamp: 00:36:37
 Claim: Per a screenshot of Blake Neff's phone that the host shows, his call to his mother was initiated at 11:24 Arizona time (12:24 Utah time) and lasted 45 seconds.
 Anchored Artifacts: A-1429.2
-Mentions: N-67, N-161
+Mentions: N-161
 Related Nodes: N-10262
 Investigative Direction: Independently confirm the phone metadata; obtain Neff's carrier records; map against Mikey McCoy's call to Erika and call to Rob McCoy.
 
-**C-1740** Rob McCoy, speaking in Jerusalem on 2025-11-16, characterized Tucker Carlson and Candace Owens as "essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity."
+**C-1740** Audience Questioner at Rob McCoy's Jerusalem Event Says Carlson and Owens Are Hijacking the Christian Message
 
 Claim Timestamp: 00:38:58
-Claim: Rob McCoy, in a Jerusalem event framed as a celebration of Charlie Kirk's life, made the quoted characterization of Carlson and Owens.
+Claim: In a clip the host plays from a Jerusalem event she says was billed as a celebration of Charlie Kirk's life, an audience questioner says Tucker Carlson and Candace Owens are 'essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity'; Rob McCoy answers that it is a great question.
 Anchored Artifacts: A-1430.1
 Mentions: N-22, N-3, N-1, N-17
 Related Nodes: N-10264
@@ -974,22 +974,22 @@ Anchored Artifacts: A-1432.1, A-1425.1–A-1425.5
 Related Nodes: N-10259
 Investigative Direction: Verify the post URL; document whether the post remains public; identify Aayol Yakobe's institutional affiliations.
 
-**C-1743** Aaron Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.
+**C-1743** Arynne Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.
 
 Claim Timestamp: 00:03:02
-Claim: Aaron Wexler – identified by host as the woman at the Hamptons retreat – posted the quoted line on X.
+Claim: The host reads a post she attributes to Arynne Wexler, whom she describes as the woman at the Hamptons retreat, saying 'Candace started her career by doxing teenagers. Old habits die hard.'
 Anchored Artifacts: A-1433.1
 Mentions: N-3, N-56
 Related Nodes:
 Investigative Direction: Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged "doxing teenagers" claim.
 
-**C-1744** Host Says Plane Owned by Turning Point USA Donor TWW Lewis Flew Scottsdale to Provo
+**C-1744** Host Says Plane Owned by Turning Point USA Donor T.W. Lewis Flew Scottsdale to Provo
 
 Claim Timestamp: 00:20:20
-Claim: The host says a flight from Scottsdale to Provo on the day of the assassination, departing at about 8:00 local and landing at about 10:00 local, was on a plane owned by Turning Point USA donor TWW Lewis, whose foundation website she says lists TPUSA as a recipient.
+Claim: The host says a flight from Scottsdale to Provo on the day of the assassination, departing at about 8:00 local and landing at about 10:00 local, was on a plane owned by Turning Point USA donor T.W. Lewis, whose foundation website she says lists TPUSA as a recipient.
 Anchored Artifacts: A-1434.1
 Related Nodes: N-10263
-Investigative Direction: Pull the FAA / ADS-B flight record for tail number; obtain the TWW Lewis Foundation filings and grant log to TPUSA; identify passengers.
+Investigative Direction: Pull the FAA / ADS-B flight record for tail number; obtain the T.W. Lewis Foundation filings and grant log to TPUSA; identify passengers.
 
 ---
 
@@ -1365,14 +1365,14 @@ Investigative Direction: Compile an inventory of all released shooter footage an
 
 Claim Timestamp: 00:21:15
 
-Claim: The host, after saying she wants to know who was on the TWW Lewis plane and that Charlie's friends keep blocking her, asks viewers to send more tips to the tip address at candacewowens.com.
+Claim: The host, after saying she wants to know who was on the T.W. Lewis plane and that Charlie's friends keep blocking her, asks viewers to send more tips to the tip address at candacewowens.com.
 
 Transcript Snippet: we want to hear from you. More tips at candacewowens. com.
 
 Anchored Artifacts: A-2719.2
 Mentions: N-3
 Related Nodes: N-10263
-Investigative Direction: Review the tip inbox for submissions about the TWW Lewis Scottsdale-to-Provo flight and verify any sender claims.
+Investigative Direction: Review the tip inbox for submissions about the T.W. Lewis Scottsdale-to-Provo flight and verify any sender claims.
 
 ---
 
@@ -1380,7 +1380,7 @@ Investigative Direction: Review the tip inbox for submissions about the TWW Lewi
 
 Claim Timestamp: 00:23:53
 
-Claim: The host describes Brian Harpole as one of Charlie Kirk's long-term security team members, who on the day was standing front right of Charlie with a bag across him and ran over to him, and says his interview was with Shawn Bryan.
+Claim: The host describes Brian Harpole as one of Charlie Kirk's long-term security team members, who on the day was standing front right of Charlie with a bag across him and ran over to him, and says his interview was with Shawn Ryan.
 
 Transcript Snippet: Brian Harpole is one of Charlie Kirk's long-term security members uh team members.
 
@@ -1591,7 +1591,7 @@ Investigative Direction: Ask Neff and McCoy through counsel or TPUSA what was sa
 
 Claim Timestamp: 00:34:05
 
-Claim: Neff says that after he called his mother, Mikey McCoy immediately called his dad, who the transcript spells Rob McCoy, and told him someone had shot Charlie and he should call all his pastor friends to pray.
+Claim: Neff says that after he called his mother, Mikey McCoy immediately called his dad, Rob McCoy, and told him someone had shot Charlie and he should call all his pastor friends to pray.
 
 Transcript Snippet: he immediately calls his dad. He calls Rob McCoy and he says, "Dad, someone's shot Charlie. You need to call all of your pastor friends.
 
@@ -1682,7 +1682,7 @@ Investigative Direction: Check the next episode and Calvary Chapel public record
 
 Claim Timestamp: 00:42:02
 
-Claim: The host says Bob Coy, a pastor from Fort Lauderdale not to be confused with Rob McCoy, got into a scandal with sexual abuse, and that his relationship with Netanyahu will be covered tomorrow.
+Claim: The host says Bob Coy, a pastor from Fort Lauderdale not to be confused with Rob McCoy, got into a little bit of a scandal with sexual abuse, and that his relationship with Netanyahu will be covered tomorrow.
 
 Transcript Snippet: Bob Coy, the one from Fort Lauderdale who got into a little bit of a scandal with sexual abuse.
 
@@ -1713,7 +1713,7 @@ Investigative Direction: Review the video of Tucker Carlson's July 2025 speech a
 
 Claim Timestamp: 00:45:45
 
-Claim: The host says Megyn Kelly has footage with full clarity of exactly what Charlie said to Tucker Carlson and at least the audio of the donors who freaked out.
+Claim: The host says Megyn Kelly happened to have the footage, but that "they" have it with full clarity of exactly what Charlie said to Tucker Carlson, along with at least the audio of the donors who freaked out.
 
 Transcript Snippet: Obviously, Megyn Kelly happened to have that footage, but they have that footage with like full clarity of exactly what Charlie said to Tucker Carlson.
 
@@ -2073,7 +2073,7 @@ Claim by host (citing "a high government source") that foreign military jets can
 - **Optional Flag:** Requires human verification; artifact verbally referenced but not shown.
 
 **N-10261** UVU Pre-9/10 Rooftop Sightings
-Reports by a UVU student (and reportedly a professor) of a man on the Lozi Center roof in the week before the shooting (A-1426.1, A-1427.1).
+Reports by a UVU student (and reportedly a professor) of a man on the Losee Center roof in the week before the shooting (A-1426.1, A-1427.1).
 - Evidence Count: 2
 - Claim Count: 1
 - Episode Count: 1
@@ -2088,7 +2088,7 @@ Timeline inference anchored by Blake Neff's 45-second 11:24 AZ-time call to his 
 - Investigative Pressure: Medium
 - *Related: A-1429.1, A-1429.2, C-1738, C-1739*
 
-**N-10263** TWW Lewis Scottsdale-to-Provo Flight Manifest Mystery
+**N-10263** T.W. Lewis Scottsdale-to-Provo Flight Manifest Mystery
 The Sept 10 Scottsdale→Provo flight (A-1434.1) arrived just ahead of the assassination; passengers unidentified.
 - Evidence Count: 1
 - Claim Count: 1

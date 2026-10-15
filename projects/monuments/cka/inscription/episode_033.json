@@ -1719,8 +1719,7 @@
       "claim_timestamp": "00:19:57–00:21:54",
       "investigative_direction": "Pull the underlying ADSB Exchange raw data independently; verify UTC-to-local conversion (note: see flag re daylight saving time).",
       "mentions_person_refs": [
-        "N-1",
-        "N-2",
+        "N-3",
         "N-67",
         "N-262"
       ]
@@ -1730,7 +1729,7 @@
       "@id": "C-1720",
       "ref": "C-1720",
       "label": "Documented Overlaps Between Egyptian Aircraft and Erika Kirk's Locations",
-      "claim": "A host-prepared spreadsheet displays 68 overlap instances (later expanded to 73) between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, with 29 of those instances also involving Charlie Kirk.",
+      "claim": "A spreadsheet the host shows, built on research by a viewer she calls a \"mommy sleuth\", displays 68 overlap instances (the host later says she has added more, making 73) between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, with 29 of those instances also involving Charlie Kirk.",
       "anchored_artifacts": [
         "A-1419.1",
         "A-1419.2"
@@ -1739,7 +1738,7 @@
         "N-10253"
       ],
       "tags": [],
-      "claim_timestamp": "00:14:51–00:18:42",
+      "claim_timestamp": "00:16:40",
       "investigative_direction": "Verify each overlap instance against independent ADSB/Hex records; authenticate the underlying location data for Erika Kirk.",
       "mentions_person_refs": [
         "N-1",
@@ -1760,11 +1759,10 @@
         "N-10253"
       ],
       "tags": [],
-      "claim_timestamp": "00:17:49–00:18:42",
+      "claim_timestamp": "00:17:05",
       "investigative_direction": "Independently verify the 29-instance subset using cross-referenced itinerary data for Charlie Kirk.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -1780,11 +1778,8 @@
         "N-10253"
       ],
       "tags": [],
-      "claim_timestamp": "00:17:49–00:18:42",
-      "investigative_direction": "Independently geocode the overlap instances and verify the state-level distribution.",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "claim_timestamp": "00:17:14",
+      "investigative_direction": "Independently geocode the overlap instances and verify the state-level distribution."
     },
     {
       "@type": "Claim",
@@ -1819,10 +1814,9 @@
       "claim_timestamp": "00:23:51–00:25:54",
       "investigative_direction": "Obtain corroborating testimony from Andrew Kolvet, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2",
-        "N-22",
-        "N-14"
+        "N-3",
+        "N-14",
+        "N-22"
       ]
     },
     {
@@ -1881,10 +1875,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:27:30–00:29:31",
-      "investigative_direction": "Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records.",
-      "mentions_person_refs": [
-        "N-262"
-      ]
+      "investigative_direction": "Cross-reference plates against Flock LPR data (see A-1423.1), UVU-area footage, hotel/gas station records; verify plate-to-vehicle assignments via DMV records."
     },
     {
       "@type": "Claim",
@@ -1900,10 +1891,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:34:07–00:35:11",
-      "investigative_direction": "Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings.",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "investigative_direction": "Verify directly against IRS Tax-Exempt Organization Search; confirm filing status and any subsequent late filings."
     },
     {
       "@type": "Claim",
@@ -1919,10 +1907,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:29–00:39:37",
-      "investigative_direction": "Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings.",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "investigative_direction": "Verify the Schedule I line item against the filed Form 990; trace how the funds were recorded (or not recorded) on the recipient entity's filings."
     },
     {
       "@type": "Claim",
@@ -1941,8 +1926,7 @@
       "claim_timestamp": "00:35:11–00:36:30",
       "investigative_direction": "Obtain dated documentation of Charlie Kirk's audit request and COO appointment; cross-reference against IRS filing deadline.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -1950,7 +1934,7 @@
       "@id": "C-1731",
       "ref": "C-1731",
       "label": "TPUSA 501(c)(3) Arm Reduced Staff by 33% While Salary Costs Increased",
-      "claim": "Host states that Turning Point USA's 501(c)(3) arm experienced a 33% staff reduction while salary costs increased.",
+      "claim": "The host says the \"Wolves and Finance\" video, which she did not show, states that Turning Point USA's 501(c)(3) arm cut staff by 33% while the cost of salaries went up, which she agrees looks suspicious.",
       "anchored_artifacts": [
         "A-1420.2"
       ],
@@ -1958,18 +1942,15 @@
         "N-10254"
       ],
       "tags": [],
-      "claim_timestamp": "00:43:57–00:44:30",
-      "investigative_direction": "Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII.",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "claim_timestamp": "00:43:40",
+      "investigative_direction": "Verify the staff-count and salary figures directly against the relevant Form 990 Schedule J and Part VII."
     },
     {
       "@type": "Claim",
       "@id": "C-1732",
       "ref": "C-1732",
       "label": "Erika Kirk Assumed CEO Role on September 18, 2025",
-      "claim": "\"Wolves and Finance\" video and host confirm that Erika Kirk became CEO of Turning Point USA on September 18, 2025, eight days after Charlie Kirk's death.",
+      "claim": "In the \"Wolves and Finance\" video the host plays, the presenter says Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025, 8 days after Charlie Kirk was murdered.",
       "anchored_artifacts": [
         "A-1420.1"
       ],
@@ -1977,7 +1958,7 @@
         "N-10254"
       ],
       "tags": [],
-      "claim_timestamp": "00:42:57–00:43:57",
+      "claim_timestamp": "00:42:25",
       "investigative_direction": "Verify the appointment date via Turning Point USA press release, IRS Form 990 changes, or state filing records.",
       "mentions_person_refs": [
         "N-1",
@@ -2016,8 +1997,7 @@
       "claim_timestamp": "00:21:00–00:21:54",
       "investigative_direction": "Verify the UTC-to-local conversion; see flag re daylight saving time. Cross-reference against FBI/event timeline documents.",
       "mentions_person_refs": [
-        "N-67",
-        "N-262"
+        "N-67"
       ]
     },
     {
@@ -2025,7 +2005,7 @@
       "@id": "C-3648",
       "ref": "C-3648",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host tells YouTubers and mommy sleuths to keep sending emails and says the \"decentralized intelligence agency\" is going to solve this.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2078,7 +2058,7 @@
       "@id": "C-3735",
       "ref": "C-3735",
       "label": "Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City",
-      "claim": "Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10 because of a morning \"restaurantology\" interview with Andrew K. Smith, whom she describes as a managing director of a restaurant fund that nobody really knows.",
+      "claim": "Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10, ostensibly because of a morning \"restaurantology\" interview with Andrew K. Smith, whom she describes as a managing director of a restaurant fund that nobody really knows.",
       "anchored_artifacts": [
         "A-1424.2"
       ],
@@ -2086,7 +2066,7 @@
         "N-10253"
       ],
       "tags": [],
-      "claim_timestamp": "00:10:59–00:14:51",
+      "claim_timestamp": "00:12:50",
       "investigative_direction": "Locate the Andrew K. Smith interview recording and its scheduling; confirm Charlie Kirk's September 10 flight arrival airport.",
       "transcript_snippet": "He's a managing director of a restaurant fund, Andrew K. Smith, out of nowhere does this restauranttology interview with Charlie.",
       "confidence": "low",
@@ -2451,7 +2431,6 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-266",
         "N-3"
       ]
     },
@@ -2546,7 +2525,7 @@
       "@id": "C-12370",
       "ref": "C-12370",
       "label": "Host Says Turning Point Never Steps Forward to Say She Is Telling the Truth About the Planes",
-      "claim": "The host says that when influencers such as Josh Hammer and Alex Clark lie about her, Turning Point stays silent, and nobody at Turning Point ever clarifies that she is telling the truth or never acknowledged that the plane was familiar to them.",
+      "claim": "The host says that when influencers such as Josh Hammer and Alex Clark lie, she gets attacked while Turning Point stays silent, that nobody at Turning Point ever steps in to clarify she is telling the truth, and she asks why Turning Point did not acknowledge that the plane was familiar to them.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -2914,7 +2893,7 @@
         "N-10026"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:32:03",
       "investigative_direction": "Identify the specific legislation the host means and which legislature is considering it.",
@@ -2979,7 +2958,7 @@
         "N-10254"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:33:21",
       "investigative_direction": "Obtain Form 8868 extension filings and the IRS filing status for the three missing returns.",
@@ -3098,7 +3077,7 @@
         "N-10254"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:36:52",
       "investigative_direction": "Confirm TPUSA's fiscal year end and the corresponding Form 990 and extended due dates, and whether the returns were filed after the episode (November 17, 2025).",
@@ -3121,7 +3100,7 @@
         "N-10254"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:37:00",
       "investigative_direction": "Compare IRS filing dates for TPUSA, Action, Endowment and America's Turning Point across several prior years.",
@@ -3215,7 +3194,7 @@
         "N-10254"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:39:37",
       "investigative_direction": "Pull America's Turning Point's prior-year Form 990 (Part VII, Part IX and Schedule O) to check employee count and salary expense, including payments to a related staffing entity.",
@@ -3263,7 +3242,7 @@
         "N-11332"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:41:11",
       "investigative_direction": "Obtain the Baker Tilly audit report and notes for fiscal year 2024 and confirm the entities covered and the opinion type.",
@@ -3286,7 +3265,7 @@
         "N-10254"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:41:57",
       "investigative_direction": "Check the signature date on the audit opinion letter against the original and extended Form 990 due dates.",
@@ -3300,7 +3279,7 @@
       "@id": "C-12403",
       "ref": "C-12403",
       "label": "Host Floats That the Outside Auditor Was Shown All Documents and TPUSA Then Decided Not to File",
-      "claim": "The host says it is possible, though she thinks low probability, that the outside auditor was shown all documentation and gave a clean bill of health and that Turning Point then decided not to file, while the missed filing extension deadline is a fact.",
+      "claim": "The host says it is possible, though probably a low probability, that the outside auditor was shown all documentation and gave a clean bill of health and that Turning Point then decided not to file, while the missed filing extension deadline is a fact.",
       "anchored_artifacts": [
         "A-1420.3"
       ],
@@ -3415,7 +3394,7 @@
       "@id": "C-12408",
       "ref": "C-12408",
       "label": "Host Says Her Opponents Tried to Deny She Had a Relationship With Charlie During Her Grief",
-      "claim": "The host says the first thing her opponents did during her grief stage was to pretend that she and Charlie did not even have a relationship, because they knew she would be the one to defend him.",
+      "claim": "The host says the first thing her opponents did during her grief stage was to pretend that she and Charlie did not even have a relationship, because they knew she was the anomaly who would burn it to the ground rather than side with a lie.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3471,7 +3450,7 @@
       "@id": "C-12411",
       "ref": "C-12411",
       "label": "Producer Says Flock Runs a Network of Automated License Plate Readers in Nearly Every US Town",
-      "claim": "An off-camera producer says Flock is a company running a network of automated license plate readers dotted through pretty much every town in the United States.",
+      "claim": "An off-camera voice on the show says Flock is a company running a network of automated license plate readers dotted throughout pretty much every town in the United States.",
       "anchored_artifacts": [
         "A-1423.1"
       ],
@@ -3578,7 +3557,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:56:18",
       "investigative_direction": "Dream report with no documentary anchor; recorded as said.",

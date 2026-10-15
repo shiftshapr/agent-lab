@@ -228,7 +228,7 @@ Confidence Level: High
 
 **A-2879** Lozi Rooftop Footage Release Bundle
 
-**A-2879.1** Host verbal reference to the exclusive Lozi Center rooftop video released the previous day (not replayed in this episode)
+**A-2879.1** Host verbal reference to the exclusive Losee Center rooftop video released the previous day (not replayed in this episode)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:00:46
@@ -508,7 +508,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10769** Lozi Center Gun Verification Gap
+**N-10769** Losee Center Gun Verification Gap
 
 Existing topic reused for new claims in this episode.
 

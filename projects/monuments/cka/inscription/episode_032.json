@@ -405,7 +405,7 @@
           "@type": "Artifact",
           "@id": "A-1412.1",
           "ref": "A-1412.1",
-          "description": "Daily Mail article by Victoria Churchill (APAC reporter) describing Ali Stucky as TPUSA \"heir\" / \"heir apparent\"",
+          "description": "Daily Mail article by Victoria Churchill (APAC reporter) describing Allie Beth Stuckey as TPUSA \"heir\" / \"heir apparent\"",
           "related_claims": [
             "C-1713"
           ],
@@ -1718,7 +1718,7 @@
       "@id": "C-1695",
       "ref": "C-1695",
       "label": "Lou Taylor's Husband Pastored at Calvary Chapel Brentwood",
-      "claim": "According to Brett Cooper (read on air), Lou Taylor began her career working alongside her husband, who at the time was a pastor at Calvary Church in Brentwood, California.",
+      "claim": "In a clip the host plays, Brett Cooper says Lou Taylor began her career working in a church alongside her husband, who at the time was a pastor at Calvary Church in Brentwood, California.",
       "anchored_artifacts": [
         "A-1399.2"
       ],
@@ -1755,7 +1755,7 @@
       "@id": "C-1697",
       "ref": "C-1697",
       "label": "Brett Cooper Says Jamie Spears Tithed Approximately 10% of Conservatorship Income to Calvary Chapel Brentwood",
-      "claim": "In a clip the host plays, Brett Cooper says, citing a 2010 financial document, that Mr. Spears gave approximately 10% of his conservatorship income to Calvary Chapel Brentwood, \"tens of thousands of dollars\" in one year.",
+      "claim": "In a clip the host plays, Brett Cooper says, citing a 2010 financial document, that Mr. Spears at times gave 10% of his conservatorship income to Calvary Chapel Brentwood, and \"tens of thousands of dollars\" in one year.",
       "anchored_artifacts": [
         "A-1399.2",
         "A-1403.1"
@@ -1767,7 +1767,6 @@
       "claim_timestamp": "00:11:07",
       "investigative_direction": "Obtain the 2010 financial document referenced and confirm donor records at Calvary Chapel Brentwood.",
       "mentions_person_refs": [
-        "N-252",
         "N-254",
         "N-223"
       ]
@@ -1777,7 +1776,7 @@
       "@id": "C-1698",
       "ref": "C-1698",
       "label": "LA Times Reported Lawyer Emails Linked Lou Taylor to Conservatorship Setup",
-      "claim": "LA Times headline (read on air) reports Britney Spears's lawyer emails show her ex-business manager (Lou Taylor) helped set up the conservatorship.",
+      "claim": "In a clip the host plays, Brett Cooper reads an LA Times headline saying Britney Spears's lawyer emails show her ex-business manager (Lou Taylor) helped set up the conservatorship.",
       "anchored_artifacts": [
         "A-1400.1"
       ],
@@ -1786,8 +1785,9 @@
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Locate and review the LA Times article and underlying email exhibits cited therein.",
       "mentions_person_refs": [
+        "N-878",
         "N-252",
-        "N-254"
+        "N-223"
       ]
     },
     {
@@ -1795,7 +1795,7 @@
       "@id": "C-1699",
       "ref": "C-1699",
       "label": "Britney Spears Alleged Affair Between Jamie Spears and Lou Taylor",
-      "claim": "Per Daily Mail headline read on air, Britney Spears has accused her father Jamie and Lou Taylor of having an affair and of using estate funds for joint travel (Holy Land baptism trip).",
+      "claim": "In a clip the host plays, Brett Cooper reads a Daily Mail headline saying Britney Spears accuses her father Jaime of having an affair with her ex-business manager Lou Taylor and claims he charged her estate for the pair's trip to the Holy Land to get baptized.",
       "anchored_artifacts": [
         "A-1401.1"
       ],
@@ -1804,8 +1804,10 @@
       "claim_timestamp": "00:12:02",
       "investigative_direction": "Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings.",
       "mentions_person_refs": [
+        "N-878",
+        "N-254",
         "N-252",
-        "N-254"
+        "N-223"
       ]
     },
     {
@@ -1813,15 +1815,16 @@
       "@id": "C-1700",
       "ref": "C-1700",
       "label": "The New Yorker Reported Lou Taylor Attempted Conservatorships of Courtney Love and Lindsay Lohan",
-      "claim": "Per host reference, The New Yorker reported that Lou Taylor also attempted to place Courtney Love and Lindsay Lohan into conservatorships.",
+      "claim": "In a clip the host plays, Brett Cooper says The New Yorker reported that Lou Taylor also tried to place Courtney Love and Lindsay Lohan into conservatorships.",
       "anchored_artifacts": [
         "A-1402.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:12:38",
+      "claim_timestamp": "00:12:27",
       "investigative_direction": "Locate the underlying New Yorker article and review primary sourcing for both alleged conservatorship attempts.",
       "mentions_person_refs": [
+        "N-223",
         "N-252",
         "N-255",
         "N-256"
@@ -1850,8 +1853,8 @@
       "@type": "Claim",
       "@id": "C-1702",
       "ref": "C-1702",
-      "label": "Insider Email Alleged Lou Taylor / Rob McCoy's Church Is a \"Front\" with Intelligence Links",
-      "claim": "Per partially redacted viewer email read on air, the sender alleges the Calvary Chapel associated with Lou Taylor is a front for the Taylors and \"Aruse\" (uncertain transcription), and that Lou Taylor has alleged ties to CIA, Mossad, Black Cube Security, and a property in Thousand Oaks tied to Tony Blair. Host flags all of this as unverified.",
+      "label": "Insider Email Alleges Lou Taylor and Rob Taylor's Church Is a Front with Intelligence Links",
+      "claim": "Per a partially redacted email the host reads, the sender says Rob and Lou Taylor's church is a front for \"them and Aruse\" (uncertain transcription) and suspects Lou Taylor is tied to possibly the CIA and Mossad and to Black Cube security. The host says she has not confirmed it.",
       "anchored_artifacts": [
         "A-1405.1"
       ],
@@ -1863,8 +1866,7 @@
       "investigative_direction": "Identify sender through unredacted metadata; cross-reference Thousand Oaks property records and Black Cube Security client roster.",
       "mentions_person_refs": [
         "N-252",
-        "N-253",
-        "N-17"
+        "N-253"
       ]
     },
     {
@@ -1880,7 +1882,7 @@
         "N-10249"
       ],
       "tags": [],
-      "claim_timestamp": "00:28:30",
+      "claim_timestamp": "00:21:25",
       "investigative_direction": "Court Love is reportedly writing a book on this topic; verify against any forthcoming publication and corroborate via Haight-Ashbury Clinic / CIA program historical records.",
       "mentions_person_refs": [
         "N-255"
@@ -1897,7 +1899,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:28:30",
+      "claim_timestamp": "00:22:10",
       "investigative_direction": "Standalone claim only; no corroborating artifact in this episode.",
       "mentions_person_refs": [
         "N-255"
@@ -1917,7 +1919,7 @@
         "N-10248"
       ],
       "tags": [],
-      "claim_timestamp": "00:28:30",
+      "claim_timestamp": "00:27:26",
       "investigative_direction": "Single-source; corroboration required before inscription as fact.",
       "mentions_person_refs": [
         "N-255"
@@ -1941,6 +1943,7 @@
       "mentions_person_refs": [
         "N-252",
         "N-361",
+        "N-874",
         "N-255"
       ]
     },
@@ -1984,7 +1987,7 @@
       "@id": "C-1709",
       "ref": "C-1709",
       "label": "Individual in Maroon Shirt Observed Near Bush at Kirk Event; Did Not Duck When Shots Fired",
-      "claim": "Per host description of viewer-submitted photo and clip, an individual wearing a maroon shirt was partially concealed in shrubbery at the Kirk event; when shots were fired, the crowd ducked but he did not, and he calmly walked away.",
+      "claim": "The host describes an individual in a maroon shirt who was partially in the bush at the Kirk event; when Charlie went down, everyone ducked but he kept standing, went into and out of the bush and calmly walked away. She says this does not mean he is guilty of anything.",
       "anchored_artifacts": [
         "A-1409.1",
         "A-1409.2",
@@ -1997,8 +2000,7 @@
       "claim_timestamp": "00:41:29",
       "investigative_direction": "Obtain high-resolution copies of all photos/video from multiple angles; cross-reference with FBI / state investigative files.",
       "mentions_person_refs": [
-        "N-1",
-        "N-248"
+        "N-1"
       ]
     },
     {
@@ -2058,17 +2060,16 @@
       "@type": "Claim",
       "@id": "C-1713",
       "ref": "C-1713",
-      "label": "Daily Mail Headline Framed Ali Stucky as TPUSA \"Heir\"",
-      "claim": "Per host reference, Daily Mail (Victoria Churchill, APAC reporter) published a headline framing Ali Stucky as TPUSA's \"heir\" or equivalent.",
+      "label": "Daily Mail Headline Framed Allie Beth Stuckey as TPUSA \"Heir\"",
+      "claim": "The host says the Daily Mail (Victoria Churchill, whom she calls an APAC reporter) published a headline framing Allie Beth Stuckey as TPUSA's \"heir\" or equivalent.",
       "anchored_artifacts": [
         "A-1412.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:56:52",
+      "claim_timestamp": "00:56:34",
       "investigative_direction": "Obtain the article and verify framing language; host disputes framing on air.",
       "mentions_person_refs": [
-        "N-2",
         "N-229",
         "N-84"
       ]
@@ -2084,10 +2085,9 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:57:40",
+      "claim_timestamp": "00:56:58",
       "investigative_direction": "Locate the WSJ article and verify framing language.",
       "mentions_person_refs": [
-        "N-2",
         "N-229"
       ]
     },
@@ -2121,7 +2121,7 @@
         "N-10001"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:02:06",
       "investigative_direction": "Count MK Ultra references in the Macron complaint as filed.",
@@ -2298,7 +2298,7 @@
       "@id": "C-10845",
       "ref": "C-10845",
       "label": "Cooper Says Tri Star Managed the Circus Tour Grossing $130 Million",
-      "claim": "Brett Cooper (clip played) says Spears committed Britney to an eight-month Circus tour, that Lou Taylor's company Tri Star was hired as business manager, and that the tour grossed an estimated $130 million.",
+      "claim": "Brett Cooper (clip played) says Jamie Spears committed Britney to an eight-month Circus tour, that Lou Taylor's company Tri Star was hired as business manager, and that the tour grossed an estimated $130 million.",
       "anchored_artifacts": [
         "A-1399.1"
       ],
@@ -2464,7 +2464,7 @@
       "@id": "C-10852",
       "ref": "C-10852",
       "label": "Email Says Robin and Lou Taylor Were Mentored by Bob Coy in Fort Lauderdale",
-      "claim": "The email read by the host says Robin and Lou Taylor lived in Fort Lauderdale, attended a very large Calvary Chapel there and were mentored by Bob Coy, who later stepped down amid sexual allegations and mentored them in starting their Brentwood, Tennessee church.",
+      "claim": "The email read by the host says Robin and Lou Taylor lived in Fort Lauderdale, attended a very large Calvary Chapel there and were mentored by Bob Coy, who mentored them in starting their Brentwood, Tennessee church. The host adds that Coy has been embroiled in sexual-allegation scandal and she believes had to step down.",
       "anchored_artifacts": [
         "A-1405.1"
       ],
@@ -3120,11 +3120,12 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:45:56",
+      "claim_timestamp": "00:46:20",
       "investigative_direction": "Identify the interviewee and the outlet; compare with acoustic analysis of the recorded shot.",
       "transcript_snippet": "It sounded like a higher caliber, like a 9 millimeter. It didn't sound like a 45 or anything, but I don't know.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-248"
       ]
     },
     {
@@ -3152,7 +3153,7 @@
       "@id": "C-10883",
       "ref": "C-10883",
       "label": "Host Says Critics Pretend She Acts on a Dream With No Evidence",
-      "claim": "The host says critics take her out of context and pretend she is doing all of this on the basis of a dream and never had evidence, which she says shows they are fearful.",
+      "claim": "The host says critics take her out of context and pretend she is doing all of this on the basis of a dream and never had evidence, which she says feels to her like they are fearful.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3301,7 +3302,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:58:20",
+      "claim_timestamp": "00:58:55",
       "investigative_direction": "Watch the next episode for the named donor and compare with the earlier claims.",
       "transcript_snippet": "I also said to you that I would address who yelled at Charlie and I totally forgot to get the last name of that person until I saw in the notes just now",
       "supports_claim_refs": [

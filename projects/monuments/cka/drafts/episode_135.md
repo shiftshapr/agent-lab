@@ -102,9 +102,9 @@ Confidence Level: High
 
 *Related: C-3182, C-3183, N-1, N-10768*
 
-**A-2222** Lozi Center Witness Recording Bundle
+**A-2222** Losee Center Witness Recording Bundle
 
-**A-2222.1** Audio recording of witness observing a person on the Lozi Center rooftop via military crawling into position before the "bang"; witness does not state seeing a firearm
+**A-2222.1** Audio recording of witness observing a person on the Losee Center rooftop via military crawling into position before the "bang"; witness does not state seeing a firearm
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -283,9 +283,9 @@ Investigative Pressure: Medium
 
 *Related: A-2220.1, A-2221.1, C-3178–C-3183, C-3186, N-1*
 
-**N-10769** Lozi Center Gun Verification Gap
+**N-10769** Losee Center Gun Verification Gap
 
-Persistent absence of eyewitness confirmation that any firearm was visible on the Lozi Center rooftop; the witness recording (A-2222.1) describes only military crawling and positioning without mentioning a gun.
+Persistent absence of eyewitness confirmation that any firearm was visible on the Losee Center rooftop; the witness recording (A-2222.1) describes only military crawling and positioning without mentioning a gun.
 
 Evidence Count: 1
 Claim Count: 1
@@ -871,7 +871,7 @@ Investigative Direction: Locate the original source recording (lecture, podcast,
 
 Claim Timestamp: 00:40:24
 
-Claim: Per the witness recording played in the episode, the witness observes a person running and getting into position on the Lozi Center rooftop but does not state seeing a firearm.
+Claim: Per the witness recording played in the episode, the witness observes a person running and getting into position on the Losee Center rooftop but does not state seeing a firearm.
 
 Anchored Artifacts: A-2222.1
 Mentions: N-1
@@ -897,14 +897,14 @@ Investigative Direction: Note host stance for cross-referencing future evidentia
 
 Claim Timestamp: 00:41:24
 
-Claim: Host concurs with the witness recording's omission of any gun mention and asserts that the idea of a gun on the Lozi Center rooftop is "narrative, not a fact."
+Claim: Host concurs with the witness recording's omission of any gun mention and asserts that the idea of a gun on the Losee Center rooftop is "narrative, not a fact."
 
 Anchored Artifacts: A-2222.1
 Mentions: N-1
 
 Related Nodes: N-10769
 
-Investigative Direction: Cross-reference with other rooftop witness accounts; obtain Lozi Center surveillance footage if available.
+Investigative Direction: Cross-reference with other rooftop witness accounts; obtain Losee Center surveillance footage if available.
 
 **C-3188** Hospital evacuation tip (verbal source)
 

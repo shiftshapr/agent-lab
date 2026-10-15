@@ -1,0 +1,458 @@
+[
+ {
+  "claim": "C-1838",
+  "episode": 41,
+  "decision": "accept",
+  "fix": {
+   "claim": "Tim Pool states in a video that Candace Owens is a \"scumbag\" who is dividing conservatives and risks losing the midterms and 2028 by insinuating that Turning Point killed Charlie Kirk.",
+   "mentions": [
+    "N-3",
+    "N-269",
+    "N-1"
+   ]
+  },
+  "note": "Pool says she insinuates TPUSA killed \"the guy who made them all rich\"; N-1 referred to."
+ },
+ {
+  "claim": "C-5148",
+  "episode": 41,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-304",
+    "N-3"
+   ]
+  },
+  "note": "Candace Owens named in the quoted question."
+ },
+ {
+  "claim": "C-5158",
+  "episode": 41,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-262"
+   ]
+  },
+  "note": "Claim names Duncan Aviation (N-262)."
+ },
+ {
+  "claim": "C-5162",
+  "episode": 41,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-307",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie's assassination. Wedi Machmood spelling left unresolved (no name fix proposed)."
+ },
+ {
+  "claim": "C-1840",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "claim": "On the Charlie Kirk Show, Blake Neff stated, \"I think it's pretty intuitive that given what is being said ... it's critical to be in person if you want to be authentic and to be detailed.\"",
+   "mentions": [
+    "N-161"
+   ]
+  },
+  "note": "Quote matches Neff in the played clip; Erika not in claim."
+ },
+ {
+  "claim": "C-1841",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-161",
+    "N-3"
+   ]
+  },
+  "note": "Erika not named in claim."
+ },
+ {
+  "claim": "C-1843",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that when she asked someone at UVU whether the school colors are maroon, he replied that they are green and white.",
+   "timestamp": "00:20:07"
+  },
+  "note": "Host recounts asking someone at UVU; content ~20:12 by word position."
+ },
+ {
+  "claim": "C-1844",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Kasparian not named in passage or claim."
+ },
+ {
+  "claim": "C-1845",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-161",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Neff and Candace; not Erika."
+ },
+ {
+  "claim": "C-1846",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Kirk."
+ },
+ {
+  "claim": "C-1851",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-310"
+   ]
+  },
+  "note": "Carrie not in claim."
+ },
+ {
+  "claim": "C-1852",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-311"
+   ]
+  },
+  "note": "Adam not in claim."
+ },
+ {
+  "claim": "C-1859",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the roof video caller has experience with guns and teaches people to shoot."
+  },
+  "note": "'This guy has experience in guns' is the host's description of the caller."
+ },
+ {
+  "claim": "C-1860",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Blake Neff says Erika Kirk 'heads this'.",
+   "timestamp": "00:05:40"
+  },
+  "note": "Neff's 'she heads this' in clip at ~05:40; host's CEO remarks are elsewhere (~52:05), not at 0:00."
+ },
+ {
+  "claim": "C-1861",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-161"
+   ]
+  },
+  "note": "Only Neff named."
+ },
+ {
+  "claim": "C-12419",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-161",
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Claim refers to host's claims and Charlie's friendship with her."
+ },
+ {
+  "claim": "C-12427",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-30"
+   ]
+  },
+  "note": "Claim refers to her husband George (N-30)."
+ },
+ {
+  "claim": "C-12433",
+  "episode": 42,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ],
+   "relevance": "core"
+  },
+  "note": "Claim refers to the Kirk killing."
+ },
+ {
+  "claim": "C-12476",
+  "episode": 42,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says her husband said December 15 absolutely does not work when she went to him after seeing the text or tweet confirmation.",
+   "mentions": [
+    "N-3",
+    "N-30"
+   ],
+   "timestamp": "00:51:51"
+  },
+  "note": "Fix right; husband line is at end of 51:18 block (~51:56), so timestamp moved."
+ },
+ {
+  "claim": "C-1868",
+  "episode": 43,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-315"
+   ]
+  },
+  "note": "Falcone not named in claim."
+ },
+ {
+  "claim": "C-1869",
+  "episode": 43,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the scandal involving Pierre Falcone, Angolagate, involved Africa (Angola in particular), Israel, France and the United States, and that France, Russia and Slovakia were involved in the arms network; she adds that it also touched the United States before reading CorpWatch on the Bush angle.",
+   "timestamp": "00:12:29",
+   "mentions": [
+    "N-314"
+   ]
+  },
+  "note": "Nation list is host's own (end of 10:04 block ~12:34, 13:31); proposed fix redundant on US. Falcone is named as subject."
+ },
+ {
+  "claim": "C-1871",
+  "episode": 43,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-316",
+    "N-317"
+   ]
+  },
+  "note": "Falcone not named in claim."
+ },
+ {
+  "claim": "C-1878",
+  "episode": 43,
+  "decision": "accept",
+  "fix": {
+   "claim": "Responding to a viewer comment asking who took out the life insurance policy on Charlie and where the 1.5 million went, the host says she saw the Daily Mail broke the story about the life insurance policy that was taken out."
+  },
+  "note": "Daily Mail remark is the host’s, not the commenter’s."
+ },
+ {
+  "claim": "C-1879",
+  "episode": 43,
+  "decision": "accept",
+  "fix": {
+   "label": "Viewer Comments the Host Reads Question TPUSA's Silence and Response",
+   "claim": "Viewer comments the host reads raise TPUSA's response: Jo Ann says \"we hoped it would go away\" was the first truthful-sounding statement from TPUSA, Diana Sheen asks whether TPUSA employees still have to stay silent if crime is involved, and CCXX asks who took out the life insurance policy on Charlie and where the 1.5 million went."
+  },
+  "note": "Comments verified at 37:36 and 39:37 blocks; none assert foreknowledge."
+ },
+ {
+  "claim": "C-12505",
+  "episode": 43,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-222",
+    "N-393",
+    "N-9",
+    "N-269"
+   ]
+  },
+  "note": "Santos not named in claim."
+ },
+ {
+  "claim": "C-12506",
+  "episode": 43,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-222",
+    "N-9"
+   ]
+  },
+  "note": "Santos not named in claim."
+ },
+ {
+  "claim": "C-12507",
+  "episode": 43,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-9"
+   ]
+  },
+  "note": "Only Epstein referred to."
+ },
+ {
+  "claim": "C-1880",
+  "episode": 44,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a message from Harry that the host reads, a then-20-year-old military sensor operator assigned to JTF-6 says he planted sensors and pinpointed the location of the first discovered Sinaloa cartel underground rail tunnel, letting a Border Patrol agent seek a warrant to raid it; a news clip the host plays shows the tunnel ran from Douglas, Arizona to Agua Prieta, and the host dates the discovery to 1990.",
+   "mentions": [
+    "N-320"
+   ]
+  },
+  "note": "Clip does not give 1990 (host does); Harry says a Border Patrol agent sought the raid warrant."
+ },
+ {
+  "claim": "C-1888",
+  "episode": 44,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Harry told her that, after he entered the temporary JTF headquarters and saw men come out of the meeting, two captains escorted him out of the building and began a 7-hour interrogation accusing him of being a bomb threat and a spy and trying to cast him as a threat to others or himself, and that the interrogator Harry identifies as \"Captain Nef\" was approximately 36 years old with brown hair and was commander of force protection.",
+   "mentions": [
+    "N-320",
+    "N-321"
+   ]
+  },
+  "note": "'As the meeting ended' not said; age/hair confirmed at 24:02. Captain Nef is N-321, not Blake Neff."
+ },
+ {
+  "claim": "C-1889",
+  "episode": 44,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Harry told her that Captain Nef gave him incident report number 861-1-2025-MPC446 after his September 9, 2025 encounter at Fort Huachuca, and that Harry believes the report can be obtained via FOIA.",
+   "mentions": [
+    "N-320",
+    "N-321"
+   ]
+  },
+  "note": "Host: number 'given to him by this captain commander Nef'; FOIA belief is Harry's."
+ },
+ {
+  "claim": "C-1891",
+  "episode": 44,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Gaydamak was born in Russia and that when Israel became a nation he was among the first over there."
+  },
+  "note": "Host's own recap, not the article."
+ },
+ {
+  "claim": "C-1895",
+  "episode": 44,
+  "decision": "amend",
+  "fix": {
+   "claim": "In the audio clip, Tim Pool tells another speaker, \"You told me you went to her house and she's got a 4ft wall and one fat guy,\" and says no one is \"out for her\".",
+   "label": "Tim Pool Says Someone Told Him Candace Owens' Home Has a 4-Foot Wall and One Guard"
+  },
+  "note": "Fix right; reworded to remove ambiguous 'he'."
+ },
+ {
+  "claim": "C-11046",
+  "episode": 44,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim does not refer to Harry."
+ },
+ {
+  "claim": "C-11084",
+  "episode": 44,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-314",
+    "N-315"
+   ]
+  },
+  "note": "Gaydamak named in claim."
+ },
+ {
+  "claim": "C-1902",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-22",
+    "N-148"
+   ]
+  },
+  "note": "Erika named by Tucker in clip but not in claim."
+ },
+ {
+  "claim": "C-1907",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-321",
+    "N-363"
+   ]
+  },
+  "note": "Harry named; N-363 per episode list (possible duplicate of N-320 Harry Meyers)."
+ },
+ {
+  "claim": "C-1909",
+  "episode": 45,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "01:00:25"
+  },
+  "note": "Comment ~206/397 words into 59:22 block (~1:00:23-1:00:38 at speech rate); 1:00:40 likely after onset."
+ },
+ {
+  "claim": "C-1911",
+  "episode": 45,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:55:39"
+  },
+  "note": "Claim covers Laughing Cats comment (~55:44) and Merryill comment (58:27); start at the earlier one."
+ },
+ {
+  "claim": "C-8074",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Erika not referred to."
+ },
+ {
+  "claim": "C-8079",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Erika not named."
+ }
+]

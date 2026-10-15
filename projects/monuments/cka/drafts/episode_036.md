@@ -811,7 +811,7 @@ Existing topic on Harpole's Shawn Ryan statements.
 
 ---
 
-**N-714** Tom Claire
+**N-714** Tom Clare
 
 First named by the host at 00:09:25 in episode 36. Described as having sent a December 18, 2024 follow-up email about the cease and desist; his role is not stated in the episode.
 
@@ -835,7 +835,7 @@ First named in a viewer comment read by the host at 00:51:14 in episode 36.
 
 ---
 
-**N-11008** Satis
+**N-11008** Satys
 
 Node Type: Organization
 
@@ -917,10 +917,10 @@ Investigative Direction: Cross-reference with the host's separately claimed Feb 
 
 Claim Timestamp: 00:18:38
 
-Claim: Displayed legal-team communication asserts the Macron lawsuit should be moved/dismissed for forum non conveniens, citing host's Tennessee domicile, lack of Delaware defamation, Tennessee-based witnesses, and Macron parties not being Delaware citizens.
+Claim: Displayed legal-team communication says they will likely move to dismiss or stay the Macron lawsuit as inconvenient to litigate in Delaware, citing that the host is in Tennessee, her Delaware companies did not defame anyone, the witnesses are in Tennessee, and the Macrons are not citizens of Delaware.
 
 Anchored Artifacts: A-1446.1
-Mentions: N-3
+Mentions: N-3, N-82, N-381
 Related Nodes: N-10270
 Investigative Direction: Obtain the underlying court filings and motion-to-dismiss documents; verify jurisdictional analysis against Macron Delaware corporate registrations; check final ruling on motion.
 
@@ -933,7 +933,7 @@ Claim Timestamp: 00:34:36
 Claim: Host asserts Brian Harpole described the Dan Flood–Jeff Long text exchange using phrasing consistent with presenting it as his own correspondence, rather than identifying it as a Flood–Long exchange.
 
 Anchored Artifacts: A-1447.1, A-1448.1
-Mentions: N-226, N-268, N-272, N-273
+Mentions: N-268, N-272, N-273
 Related Nodes: N-10272
 Investigative Direction: Compare full Shawn Ryan interview transcript with authenticated text-message records; verify who authored and received the communications.
 
@@ -943,10 +943,10 @@ Investigative Direction: Compare full Shawn Ryan interview transcript with authe
 
 Claim Timestamp: 00:34:36
 
-Claim: In a clip the host plays, Brian Harpole presents a text exchange between Dan Flood and Chief Long, which the host says documents an outreach about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), a request for either controlled access or TP personnel presence, and Chief Long's response "I got you covered."
+Claim: In a clip the host plays, Brian Harpole presents what the host says is a text exchange between Dan Flood and Chief Long about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), asking for either controlled access or one of his guys to be there, with Chief Long's last reply "I got you covered."
 
 Anchored Artifacts: A-1448.1
-Mentions: N-272, N-273
+Mentions: N-268, N-272, N-273
 Related Nodes: N-10272
 Investigative Direction: Authenticate text records via UVU and Turning Point; cross-reference with UVU Police event-day access logs and rooftop control measures.
 
@@ -959,7 +959,7 @@ Claim Timestamp: 00:41:28
 Claim: KUTV investigative report documents that Washington County Sheriff's office responded to records requests stating there were no records responsive to requests for surveillance footage of Tyler Robinson at the facility.
 
 Anchored Artifacts: A-1449.1
-Mentions: N-274, N-40
+Mentions: N-40
 Related Nodes: N-10271
 Investigative Direction: Submit additional GRAMA requests; check for court-issued preservation orders; verify chain-of-custody with other involved agencies.
 
@@ -972,7 +972,7 @@ Claim Timestamp: 00:41:28
 Claim: Washington County Sheriff's office response to the generalized records request, as reported by KUTV, stated that "the surveillance footage is no longer available after the 30-day retention period."
 
 Anchored Artifacts: A-1449.1
-Mentions: N-274
+Mentions: 
 Related Nodes: N-10271
 Investigative Direction: Obtain Washington County's written retention policy; verify standard practice for high-profile cases; check whether Utah County or any other agency holds preserved copies.
 
@@ -998,7 +998,7 @@ Claim Timestamp: 00:14:15
 Claim: The played audio clip documents Tucker Carlson at a Turning Point event criticizing Epstein-connected wealth (Gulf Streams, island, ranch, NYC residence), naming Bill Ackman, and arguing U.S. wealth is not merit-based.
 
 Anchored Artifacts: A-1450.1
-Mentions: N-22
+Mentions: N-22, N-37, N-9
 Related Nodes:
 Investigative Direction: Obtain full speech transcript and video; verify exact date, venue, and audience; cross-reference with TPUSA's own published event materials.
 
@@ -1052,7 +1052,7 @@ Investigative Direction: Obtain the host's phone records and messages with Charl
 
 Claim Timestamp: 00:02:24
 
-Claim: The host says that about 72 hours after the assassination Andrew Kolvet told her on the phone, 'Candace, it was supposed to be you,' which she first took as grief bargaining and now questions.
+Claim: The host says that maybe 72 hours at most after the assassination Andrew Kolvet told her on the phone, 'Candace, it was supposed to be you,' which she first took as grief bargaining and now questions.
 
 Transcript Snippet: He said, and I quote, "Candace, it was supposed to be you. It was supposed to be you."
 
@@ -1072,7 +1072,7 @@ Claim: The host says that on September 10, while Charlie Kirk was in the hospita
 Transcript Snippet: he told me that there was a list and that me and Tucker Carlson were on it and that we had to lay low.
 
 Anchored Artifacts: 
-Mentions: N-14, N-22, N-3
+Mentions: N-14, N-22, N-3, N-1
 Related Nodes: N-11010
 Investigative Direction: Ask Kolvet who supplied the list and what it contained; compare with the host's call logs for September 10, 2025. Check the 'he' referent against the earlier-episode account.
 
@@ -1292,13 +1292,13 @@ Investigative Direction: Locate the December 2024 article and quote its descript
 
 ---
 
-**C-4993** Host Says Tom Claire Sent a Follow-Up December 18 Email She Also Did Not Receive
+**C-4993** Host Says Tom Clare Sent a Follow-Up December 18 Email She Also Did Not Receive
 
 Claim Timestamp: 00:09:25
 
-Claim: The host says that on December 18, 2024, Tom Claire sent a follow-up email about the cease and desist to the same unmonitored box, so she again did not receive it.
+Claim: The host says that on December 18, 2024, Tom Clare sent a follow-up email about the cease and desist to the same unmonitored box, so she again did not receive it.
 
-Transcript Snippet: on December 18th, Tom Claire sends another follow-up email regarding the cease and desist. And again, I don't receive it because he's sending it to this random box.
+Transcript Snippet: on December 18th, Tom Clare sends another follow-up email regarding the cease and desist. And again, I don't receive it because he's sending it to this random box.
 
 Anchored Artifacts: A-2723.1
 Mentions: N-714, N-3
@@ -1721,7 +1721,7 @@ Investigative Direction: Document what the team found about 'prisoner 2093' and 
 
 Claim Timestamp: 00:23:51
 
-Claim: The host says she fears that Xavier Poussard's messages have been read and tracked for longer than she realized, and that this is why the cease and desist went out in December.
+Claim: The host says that if her inclination is right that Xavier Poussard's messages have been read and tracked for longer than she realized, the reason the cease and desist went out in December was to ward her off sitting down with him.
 
 Transcript Snippet: Xavier Busousar's messages have been being read and tracked for longer than I even realized
 
@@ -1856,7 +1856,7 @@ Investigative Direction: Review the Satis tips received and publish the corrobor
 
 Claim Timestamp: 00:29:30
 
-Claim: The host says she thinks France should be able to say who landed in Wilmington on the day in question and was settled over to 910 King, given the hangar lease.
+Claim: The host says she thinks France should be able to help by saying who landed in Wilmington and was taken to 910 King, given that it decided to lease the hangar.
 
 Transcript Snippet: could you tell us who landed in Wilmington, Delaware? and we're settled over to 910 King. I think that would be a a good start.
 

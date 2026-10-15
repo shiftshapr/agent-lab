@@ -892,7 +892,7 @@ Agency whose bomb dogs the host says searched the gun area and found nothing bef
 **N-11019** Freya Canine Scent Trace
 
 Node Type: Topic
-Host's account of a canine called Freya who traced a scent from the base of the building to the Lozi Center rooftop using a condensed scent trace rather than the recovered gun.
+Host's account of a canine called Freya who traced a scent from the base of the building to the Losee Center rooftop using a condensed scent trace rather than the recovered gun.
 
 *Related: C-5208, C-5209*
 
@@ -1431,13 +1431,13 @@ Investigative Direction: Ask the host to confirm whether she has contacted the o
 
 ---
 
-**C-5208** Host Says Freya the Canine Sniffed Out the Route to the Lozi Center Rooftop
+**C-5208** Host Says Freya the Canine Sniffed Out the Route to the Losee Center Rooftop
 
 Claim Timestamp: 00:16:42
 
-Claim: The host says Freya is a canine, distinct from the bomb dogs, who sniffed out the route to the rooftop of the Lozi Center where Tyler Robinson allegedly took the shot.
+Claim: The host says Freya is a canine, distinct from the bomb dogs, who sniffed out the route to the rooftop of the Losee Center where Tyler Robinson allegedly took the shot.
 
-Transcript Snippet: she is specifically the canine that sniffed out the route to the rooftop where Tyler Robinson, the Lozi Center rooftop, where he allegedly took the shot.
+Transcript Snippet: she is specifically the canine that sniffed out the route to the rooftop where Tyler Robinson, the Losee Center rooftop, where he allegedly took the shot.
 
 Anchored Artifacts: 
 Mentions: N-3, N-40

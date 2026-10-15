@@ -1583,7 +1583,7 @@ Claim Timestamp: 00:48:35
 
 Claim: The host says the Hall of Flags is where the person who filmed the only footage of the person they say is the shooter running across the Losee Center was positioned.
 
-Transcript Snippet: the person who filmed the footage, the only footage um that we have of of the uh person running across who they say is the shooter running across uh the Lozi Center
+Transcript Snippet: the person who filmed the footage, the only footage um that we have of of the uh person running across who they say is the shooter running across uh the Losee Center
 
 Anchored Artifacts: A-2823.3
 Mentions: N-3

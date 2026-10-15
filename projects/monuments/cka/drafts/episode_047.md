@@ -140,7 +140,7 @@ Video Timestamp: 00:48:23–00:51:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-**A-1544.2** Charlie Kirk Show segment discussing rooftop access and August 27 vs September 2 location announcement timing; Andrew Seifer identified as head of field
+**A-1544.2** Charlie Kirk Show segment discussing rooftop access and August 27 vs September 2 location announcement timing; Andrew Sypher identified as head of field
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -646,7 +646,7 @@ Investigative Pressure: High
 
 ---
 
-**N-333** Andrew Seifer
+**N-333** Andrew Sypher
 
 Identified on Charlie Kirk Show as TPUSA head of field.
 
@@ -659,7 +659,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-334** Greg Schaefer
+**N-334** Greg Shaffer
 
 Operated Shafer Security; Charlie Kirk's initial security company employing Dan Flood and Brian Harpole.
 
@@ -1448,10 +1448,10 @@ Investigative Direction: Verify meeting date, location, and stated duration agai
 
 Claim Timestamp: 00:06:18
 
-Claim: The host says Erika Kirk, in her Glenn Beck interview, confirmed she has Charlie Kirk's phone and that he, like everybody else, primarily used Signal and Telegram for communications.
+Claim: The host says Erika Kirk, in her Glenn Beck interview, said she had Charlie Kirk's phone and that he never texted anybody the night before, and that in the meeting Erika said he, like everybody else, communicates on Signal and Telegram.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-1
+Mentions: N-3, N-2, N-1, N-239
 
 Related Nodes: N-10340
 
@@ -1463,7 +1463,7 @@ Investigative Direction: Verify Charlie Kirk's actual messaging platforms throug
 
 Claim Timestamp: 00:06:18
 
-Claim: Erika Kirk acknowledged that Andrew Kolvet received a pre-incident message from Charlie Kirk stating "they're going to kill me."
+Claim: The host says Erika Kirk acknowledged in their meeting that Andrew Kolvet received a message from Charlie Kirk the night before, which the host says Kolvet told her was "they're going to kill me."
 
 Anchored Artifacts: A-1539.1
 Mentions: N-2, N-14, N-1
@@ -1493,10 +1493,10 @@ Investigative Direction: Obtain original Dan Flood message through his records o
 
 Claim Timestamp: 00:17:03
 
-Claim: The lawyer involved in the Tyler Robinson prosecution told Candace that they have nothing beyond the affidavit-stage evidence and will not have access to further evidence until the May probable cause hearing.
+Claim: The host says a lawyer involved in the case, whom Turning Point USA called into the meeting, told her they have nothing beyond the affidavit and will not know what investigators have until the May probable cause hearing.
 
 Anchored Artifacts: A-1539.1, A-1540.1
-Mentions: N-2, N-40
+Mentions: N-3, N-40
 
 Related Nodes: N-10337
 
@@ -1520,12 +1520,12 @@ Investigative Direction: Confirm hearing date through Utah state court docket.
 
 **C-1930** Candace spoke with witness who filmed rooftop person at 12:23 pm
 
-Claim Timestamp: 00:21:02
+Claim Timestamp: 00:21:40
 
 Claim: Candace Owens spoke with a witness who filmed a person on the roof at 12:23 pm and did not see that person take the shot.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-3
+Mentions: N-3
 
 Related Nodes: N-10337
 
@@ -1549,7 +1549,7 @@ Investigative Direction: Verify witness testimony through investigators and reco
 
 **C-1932** Mikey McCoy's first call was to wife Elizabeth McCoy
 
-Claim Timestamp: 00:23:53
+Claim Timestamp: 00:27:04
 
 Claim: Mikey McCoy's call logs show his first post-shooting call was to his wife Elizabeth McCoy and lasted approximately 10 minutes.
 
@@ -1595,10 +1595,10 @@ Investigative Direction: Verify against official identity records.
 
 Claim Timestamp: 00:26:28
 
-Claim: Blake Neff's interview account – that Mikey's first call after the shooting was to Erika, followed by his mother and father – directly contradicts the call logs provided by TPUSA.
+Claim: The host says Blake Neff's interview account - that Mikey's first call after the shooting was to Erika and that Mikey then called his father - is contradicted by call logs Turning Point USA showed her.
 
 Anchored Artifacts: A-1542.1, A-1543.1
-Mentions: N-161, N-192
+Mentions: N-161, N-192, N-2
 Contradicts: C-1932
 
 Related Nodes: N-10338
@@ -1624,12 +1624,12 @@ Investigative Direction: Investigate the editorial decisions that excluded Eliza
 
 **C-1937** Three sources corroborated Bibi Netanyahu funding offer
 
-Claim Timestamp: 00:32:14
+Claim Timestamp: 00:32:51
 
-Claim: Three sources with knowledge confirmed to Candace that Bibi Netanyahu offered to fund TPUSA to the next level and that Charlie Kirk turned down the offer.
+Claim: Three sources with knowledge confirmed to Candace that Bibi Netanyahu made an offer to fund Turning Point USA to the next level.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-36, N-1
+Mentions: N-3, N-36
 
 Related Nodes: N-10342
 
@@ -1697,12 +1697,12 @@ Investigative Direction: Verify TPUSA's documented livestream policy and Farnswo
 
 **C-1941** Andrew Kolvet posted surgeon "man of steel" bullet description
 
-Claim Timestamp: 00:12:24
+Claim Timestamp: 00:12:42
 
-Claim: Andrew Kolvet posted a tweet attributing to a surgeon the claim that Charlie Kirk's bone density was so healthy he was "like the man of steel" and the bullet should have passed through.
+Claim: The host says Andrew Kolvet posted a tweet saying he spoke with the surgeon, and reads a quote she calls allegedly from the surgeon: Charlie Kirk's bone was so healthy and dense that he was "like the man of steel" and the bullet should have gone through and through.
 
 Anchored Artifacts: A-1541.1
-Mentions: N-219, N-14, N-1
+Mentions: N-14, N-1
 
 Related Nodes: N-10341
 
@@ -1712,12 +1712,12 @@ Investigative Direction: Verify the original tweet content and the surgeon's ide
 
 **C-1942** Andrew Kolvet admitted surgeon did not know he would post
 
-Claim Timestamp: 00:13:14
+Claim Timestamp: 00:14:03
 
-Claim: Per Candace, Andrew Kolvet acknowledged that the surgeon did not know he would write the tweet.
+Claim: The host says Andrew Kolvet said he spoke to the surgeon, and that they confirmed Kolvet spoke to the surgeon but that the surgeon did not know Kolvet was going to write the tweet.
 
 Anchored Artifacts: A-1539.1, A-1541.2
-Mentions: N-219, N-14
+Mentions: N-14
 
 Related Nodes: N-10341
 
@@ -1757,27 +1757,27 @@ Investigative Direction: Verify the current claim against any documented securit
 
 **C-1945** Candace used different security from the start via Shafer Security
 
-Claim Timestamp: 00:46:06
+Claim Timestamp: 00:46:28
 
-Claim: Candace Owens retained separate security from Charlie Kirk's from the beginning; Charlie's initial security was Shafer Security, operated by Greg Shafer, employing Dan Flood and Brian Harpole.
+Claim: Candace Owens retained separate security from Charlie Kirk's from the beginning; Charlie's initial security was Shaffer Security, operated by Greg Shaffer, employing Dan Flood and Brian Harpole.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-334, N-268, N-3, N-1, N-272
+Mentions: N-334, N-268, N-3, N-1, N-272
 
 Related Nodes: N-10344
 
-Investigative Direction: Verify Greg Shafer's public statement and Shafer Security's documented client list.
+Investigative Direction: Verify Greg Shaffer's public statement and Shafer Security's documented client list.
 
 ---
 
 **C-1946** No cease and desist received from Charlie's security
 
-Claim Timestamp: 00:46:06
+Claim Timestamp: 00:47:23
 
 Claim: Candace has received no cease and desist from Charlie Kirk's security apparatus over security-related claims.
 
 Anchored Artifacts: A-1539.1
-Mentions: N-2, N-1
+Mentions: N-1
 
 Related Nodes: N-10344
 
@@ -1792,7 +1792,7 @@ Claim Timestamp: 00:41:01
 Claim: New York Post article reported an anonymous source claim that Candace threw her car keys at a Daily Wire producer in her first week.
 
 Anchored Artifacts: A-1546.1
-Mentions: N-2
+Mentions: N-3
 Related Nodes: N-10898
 
 
@@ -1802,12 +1802,12 @@ Investigative Direction: Verify the cited Daily Wire source and article publicat
 
 **C-1948** Candace never drove her car to Daily Wire
 
-Claim Timestamp: 00:41:47
+Claim Timestamp: 00:41:22
 
 Claim: Candace Owens states she never drove her car to the Daily Wire during her tenure; she had a driver.
 
 Anchored Artifacts: A-1546.1
-Mentions: N-2, N-3
+Mentions: N-3
 Related Nodes: N-10898
 
 
@@ -1817,9 +1817,9 @@ Investigative Direction: Verify against Daily Wire security logs or contemporane
 
 **C-1949** Candace's husband has no Qatari passport/citizenship
 
-Claim Timestamp: 00:41:01
+Claim Timestamp: 00:39:55
 
-Claim: Per Candace, her husband does not have a Qatari passport and has not flown to Qatar.
+Claim: Per Candace, her husband's Wikipedia page was changed to say he had a Qatari passport or citizenship, which she says is made up; she says he has never been to Qatar and does not think he has ever flown over it.
 
 Anchored Artifacts: A-1546.1
 Mentions: N-30
@@ -1834,10 +1834,10 @@ Investigative Direction: Verify travel and passport records.
 
 Claim Timestamp: 00:53:11
 
-Claim: Turkey Tom produced a video asserting that he was in Discord chats with Tyler Robinson and that the published message style is authentic.
+Claim: In a clip the host plays, a speaker addressing Viva Frei says a video by Turkey Tom, described as someone who was in the Discord chats with Tyler Robinson and apparently spent time with them at the apartment, says "100%" this is how they talked.
 
 Anchored Artifacts: A-1549.1
-Mentions: N-211, N-330, N-335, N-40
+Mentions: N-330, N-335, N-40
 
 
 Investigative Direction: Verify Turkey Tom's claimed Discord membership through chat logs or other participants.
@@ -1848,7 +1848,7 @@ Investigative Direction: Verify Turkey Tom's claimed Discord membership through 
 
 Claim Timestamp: 00:56:50
 
-Claim: Per Candace, George Zin told nurses at Utah Valley (where he was treated) that he was paid to claim to be the shooter.
+Claim: Per Candace, George Zin, who was treated at Utah Valley, said he told the nurses that he was paid to do that.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-42
@@ -1863,7 +1863,7 @@ Investigative Direction: Verify through hospital records, nurse testimony, or po
 
 Claim Timestamp: 00:56:14
 
-Claim: Per Candace, Kash Patel expressed anger at Tulsi Gabbard and Joe Kent for investigating a potential terrorist angle to the Kirk case.
+Claim: In a clip the host plays, a speaker says that allegedly the rumors are that Kash Patel is getting mad at Tulsi Gabbard and Joe Kent for trying to look into a potential terrorist angle to the Kirk case.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-69, N-211, N-331
@@ -1876,9 +1876,9 @@ Investigative Direction: Verify through any on-record statements from the named 
 
 **C-1953** Erika confirmed Charlie was attending mass and reportedly planning conversion
 
-Claim Timestamp: 00:11:35
+Claim Timestamp: 01:10:45
 
-Claim: Erika Kirk confirmed Charlie Kirk was attending mass; per third-party information relayed to Candace, he was reportedly planning to begin the Catholic conversion process.
+Claim: Answering a viewer's question about Charlie's journey to Catholicism, the host says Erika obviously confirmed it, that Charlie was going to mass, and that from what she has been told, which is third party, he was planning on signing up and starting that process.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-2, N-1
@@ -1891,9 +1891,9 @@ Investigative Direction: Verify through parish records and direct corroboration 
 
 **C-1954** Hampton retreat involved Seth Dillon confronting Charlie over hypothetical anti-Netanyahu tweet
 
-Claim Timestamp: 00:31:16
+Claim Timestamp: 00:30:25
 
-Claim: Seth Dillon pressed Charlie Kirk at the Hampton retreat over a hypothetical tweet against Bibi Netanyahu, producing a heated moment.
+Claim: The host says Seth Dillon pressed Charlie Kirk at the Hampton retreat over a hypothetical tweet against Bibi Netanyahu, producing a heated moment.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-36, N-38, N-1
@@ -1904,29 +1904,29 @@ Investigative Direction: Verify through any recording or attendee corroboration 
 
 ---
 
-**C-1955** Charlie Kirk Show Speaker Identifies Andrew Seifer as TPUSA Head of Field
+**C-1955** Charlie Kirk Show Speaker Identifies Andrew Sypher as TPUSA Head of Field
 
 Claim Timestamp: 00:51:02
 
-Claim: In a clip from the Charlie Kirk Show that the host plays, a speaker identifies Andrew Seifer as TPUSA's head of field.
+Claim: In a clip from the Charlie Kirk Show that the host plays, a speaker identifies Andrew Sypher as TPUSA's head of field.
 
 Anchored Artifacts: A-1544.2
 Mentions: N-333
 
 Related Nodes: N-10343
 
-Investigative Direction: Verify Andrew Seifer's official TPUSA title.
+Investigative Direction: Verify Andrew Sypher's official TPUSA title.
 
 ---
 
 **C-1956** Charlie Kirk Show segment asserted August 27 had full location
 
-Claim Timestamp: 00:51:02
+Claim Timestamp: 00:50:15
 
 Claim: On the Charlie Kirk Show, a speaker stated that TPUSA had posted the UVU courtyard location on its website as early as August 27.
 
 Anchored Artifacts: A-1544.2
-Mentions: N-333
+Mentions: 
 
 Related Nodes: N-10343
 
@@ -1936,9 +1936,9 @@ Investigative Direction: Verify the specific August 27 post referenced.
 
 **C-1957** Candace identifies September 2 KAMYU as first public location mention
 
-Claim Timestamp: 00:52:22
+Claim Timestamp: 00:51:20
 
-Claim: Per Candace's timeline research, the earliest public mention of the UVU courtyard location was on KAMYU local media on September 2.
+Claim: The host says the earliest mention of the UVU courtyard location that her team found was on September 2, when local media on KAMYU said Charlie Kirk was speaking in the courtyard.
 
 Anchored Artifacts: A-1547.1
 
@@ -1950,7 +1950,7 @@ Investigative Direction: Verify KAMYU broadcast date and content.
 
 **C-1958** TPUSA/UVU/BYU August 27 graphic had no location details
 
-Claim Timestamp: 00:52:22
+Claim Timestamp: 00:51:40
 
 Claim: Per Candace, the August 27 TPUSA/UVU/BYU chapter graphic announcing the event contained no location details.
 
@@ -2049,7 +2049,7 @@ Claim: The host says TPUSA's answer in the meeting was that it was a crazy time,
 Transcript Snippet: by no means did Erika give any person the authority to go out and say that the Catholicism thing was a lie.
 
 Anchored Artifacts: 
-Mentions: N-2, N-14, N-99, N-3
+Mentions: N-2, N-3
 Related Nodes: N-10350, N-11379
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk or TPUSA to confirm on the record that no one was authorized to call the Catholicism account a lie.
@@ -2343,7 +2343,7 @@ Claim: The host says she does not believe Brian Harpole works at Turning Point U
 Transcript Snippet: They had no idea he was going on Shawn Ryan. I think that's pretty clear. I don't believe he works there anymore.
 
 Anchored Artifacts: A-3293
-Mentions: N-268, N-226, N-3
+Mentions: N-268, N-3
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Confirm Harpole's current employment status with TPUSA.
@@ -2534,7 +2534,7 @@ Investigative Direction: Compare the Neff interview with the carrier records for
 
 Claim Timestamp: 00:26:28
 
-Claim: The host says the public was given the impression over and over by many people that the first person Mikey McCoy called was Erika Kirk, and that he had been trained to do so.
+Claim: The host says the public was given the impression over and over by many people that the first person Mikey McCoy called was Erika Kirk, and that he had gone to a camp and trained.
 
 Transcript Snippet: I certainly feel that we were given the impression over and over and over again that the first person Mikey called was Erika.
 
@@ -2584,7 +2584,7 @@ Investigative Direction: Obtain Neff's call log and the shot time from timestamp
 
 Claim Timestamp: 00:27:12
 
-Claim: The host says that Danny McCoy is Mikey McCoy's brother in the military and was the third person in the three-way sequence, before she corrects this later in the episode.
+Claim: The host says Mikey McCoy three-wayed a third person she declines to name, and adds that Danny McCoy is his brother in the military, with that contact being before the shot.
 
 Transcript Snippet: This is Danny McCoy, by the way, is his brother that's in the military, but that's before the shot goes off.
 
@@ -3056,7 +3056,7 @@ Investigative Direction: Obtain UVU roof access records and Robinson's prior cam
 
 Claim Timestamp: 00:49:48
 
-Claim: A speaker on the Charlie Kirk Show says that Andrew Seifer, head of field, can attest that Charlie sometimes put out events 7 to 10 days in advance and could do outdoor events on a quick turn.
+Claim: A speaker on the Charlie Kirk Show says that Andrew Sypher, head of field, can attest that Charlie sometimes put out events 7 to 10 days in advance and could do outdoor events on a quick turn.
 
 Transcript Snippet: Charlie sometimes throw the events out, you know, 7, 10 days in advance if something opened up in his schedule
 

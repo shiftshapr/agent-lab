@@ -143,13 +143,13 @@ Confidence: high
 - Claim Range: C-1636 – C-1651
   - New Nodes Introduced: N-236, N-237, N-10237, N-10238
   - Reused Nodes Appearing: N-34, N-36, N-147, N-180, N-224, N-231, N-369, N-665, N-10000, N-10016, N-10025, N-10026, N-10056, N-10063, N-10081, N-10106, N-10345, N-10406, N-10900, N-11096, N-10236, N-10424
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boreing, Marjorie Taylor Greene, Eric Trump, Laura Trump, Ron Paul, Seth Dillon (node IDs to be reconciled against full ledger)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens), plus previously inscribed nodes for Megyn Kelly, Tucker Carlson, Nick Fuentes, Ben Shapiro, Jeremy Boreing, Marjorie Taylor Greene, Eric Trump, Lara Trump, Ron Paul, Seth Dillon (node IDs to be reconciled against full ledger)
 
 ---
 
 ## II. Executive Summary
 
-This episode centers on Candace Owens' response to Ben Shapiro's public criticism of her during a Megyn Kelly stage appearance in Florida. The evidentiary material presented includes multiple audio clips played on air: Ben Shapiro's stage statements characterizing Owens' investigation as "evil" and asserting she accused Erika Kirk and Seth Dillon of involvement in Charlie Kirk's death; Tucker Carlson with Marjorie Taylor Greene discussing Zohran Mamdani's NYC mayoral primary win; a previously aired HuffPost article and corresponding audio of then-Daily Wire CEO Jeremy Boreing praising Nick Fuentes on X Space; Candace Owens' own text-message exchange with Charlie Kirk (read aloud) discussing Shapiro's behind-the-scenes campaign against them; an audio clip from YWLS 2024 in which Owens identified a Daily Wire intern sent to record her; a CNN interview clip with Elle Reeve; and an audio segment of Eric and Laura Trump fielding a student question about Israel at a post-Charlie TPUSA event at Auburn University.
+This episode centers on Candace Owens' response to Ben Shapiro's public criticism of her during a Megyn Kelly stage appearance in Florida. The evidentiary material presented includes multiple audio clips played on air: Ben Shapiro's stage statements characterizing Owens' investigation as "evil" and asserting she accused Erika Kirk and Seth Dillon of involvement in Charlie Kirk's death; Tucker Carlson with Marjorie Taylor Greene discussing Zohran Mamdani's NYC mayoral primary win; a previously aired HuffPost article and corresponding audio of then-Daily Wire CEO Jeremy Boreing praising Nick Fuentes on X Space; Candace Owens' own text-message exchange with Charlie Kirk (read aloud) discussing Shapiro's behind-the-scenes campaign against them; an audio clip from YWLS 2024 in which Owens identified a Daily Wire intern sent to record her; a CNN interview clip with Elle Reeve; and an audio segment of Eric and Lara Trump fielding a student question about Israel at a post-Charlie TPUSA event at Auburn University.
 
 The episode advances several investigative threads relevant to the Bride of Charlie record: the characterization of Owens' TPUSA inquiry as "accusations of murder" against Erika Kirk and Seth Dillon (which she denies); the pattern of pro-Israel lobby figures appearing publicly to pressure neutral commentators (Megyn Kelly) into disavowals; and the broader claim that coordinated, non-organic audience operations are being deployed at conservative events. Structural importance is high because the episode introduces direct documentary material (text messages with Charlie Kirk, the YWLS intern callout, prior Shapiro statements) that intersects with the central Bride of Charlie line of inquiry into Erika Kirk and Turning Point USA.
 
@@ -295,13 +295,13 @@ Confidence Level: High (audio played on air)
 
 ### A-1363 Auburn University TPUSA Event Audio
 
-**A-1363.1** Audio clip: Eric and Laura Trump speaking at TPUSA event at Auburn University, including student question on Israel
+**A-1363.1** Audio clip: Eric and Lara Trump speaking at TPUSA event at Auburn University, including student question on Israel
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:39:12–00:41:34
 Confidence Level: High (audio played on air)
-*Related: C-1646, C-1647, N-Eric Trump (existing), N-Laura Trump (existing), N-TPUSA (existing)*
+*Related: C-1646, C-1647, N-Eric Trump (existing), N-Lara Trump (existing), N-TPUSA (existing)*
 
 ---
 
@@ -557,7 +557,7 @@ Former Daily Wire CEO (transcript spelling Boring); the host cites his X Space w
 
 **N-378** Lara Trump
 
-Spoke at the Auburn TPUSA event (transcript spelling Laura Trump).
+Spoke at the Auburn TPUSA event (transcript spelling Lara Trump).
 
 *Related: C-9685, C-9686, C-9687, C-9688, C-9689, C-9690, C-9691, C-9692*
 
@@ -713,7 +713,7 @@ Referred to by the host as YAF; she alleges its people were sent against her and
 
 **C-1636** Shapiro Stage Statement on Tucker's Mamdani Coverage
 
-Claim Timestamp: 00:09:56–00:10:33
+Claim Timestamp: 00:05:18
 
 Claim: On the Megyn Kelly tour stage in Florida, Ben Shapiro stated that Tucker Carlson had mentioned Zohran Mamdani once since October 5 and that he (Shapiro) had done 17 separate shows on Mamdani.
 
@@ -774,10 +774,10 @@ Investigative Direction: Identify the specific Owens episodes in which she discu
 
 Claim Timestamp: 00:14:04
 
-Claim: According to the read-aloud HuffPost article, on March 25, 2025, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism.
+Claim: According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism.
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-203
+Mentions: N-203, N-369, N-855
 
 Related Nodes:
 
@@ -789,10 +789,10 @@ Investigative Direction: Verify the original X Space audio against the HuffPost 
 
 Claim Timestamp: 00:14:04–00:15:45
 
-Claim: According to the read-aloud HuffPost article and corresponding audio, Jeremy Boreing stated on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.
+Claim: According to the read-aloud HuffPost article, Jeremy Boreing said on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.
 
 Anchored Artifacts: A-1358.1, A-1359.1
-Mentions: N-203
+Mentions: N-203, N-369
 
 Related Nodes:
 
@@ -804,7 +804,7 @@ Investigative Direction: Confirm via the original X Space audio that this invita
 
 Claim Timestamp: 00:16:27–00:17:50
 
-Claim: The text messages read aloud between Candace Owens and Charlie Kirk describe Ben Shapiro as having launched behind-the-scenes pressure campaigns through YAF, National Review figures, and "Daily Wire boys" against Kirk and Owens, and characterize Shapiro as viewing Owens as Kirk's "slave."
+Claim: In text messages the host reads between herself and Charlie Kirk, Kirk tells her she is bigger than Ben Shapiro now, says they have to treat him like noise, that Shapiro is sending his "incestuous brother" to go try and kill them, and that he views Owens as Kirk's "slave 100%"; the host separately says Shapiro was going on people's shows talking down about her and Kirk and sent his YAF boys and National Review peeps after them.
 
 Anchored Artifacts: A-1360.1, A-1360.2
 Mentions: N-3, N-1, N-97
@@ -851,21 +851,21 @@ Claim Timestamp: 00:33:44–00:35:14
 Claim: During the aired CNN interview, Elle Reeve stated that themes Owens used in her criticism of Israel were "very familiar" from her coverage of white nationalists for 10 years, and cited the term "Zionist-occupied government" as an example.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-236
+Mentions: N-236, N-3
 
 
 Investigative Direction: Obtain the full CNN interview and any related Reeve reporting to verify the broader framing of the exchange.
 
 ---
 
-**C-1646** Host Says Eric and Laura Trump Spoke at Auburn TPUSA Event
+**C-1646** Host Says Eric and Lara Trump Spoke at Auburn TPUSA Event
 
 Claim Timestamp: 00:39:12–00:41:34
 
-Claim: The host says Eric and Laura Trump appeared as speakers at a recent Turning Point USA event at Auburn University following Charlie Kirk's death.
+Claim: The host says Eric and Lara Trump appeared as speakers at a recent Turning Point USA event at Auburn University following Charlie Kirk's death.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-1
+Mentions: N-34, N-378, N-1
 
 Related Nodes:
 
@@ -891,7 +891,7 @@ Investigative Direction: Trace the $230M figure to its underlying donor records,
 
 Claim Timestamp: 00:02:12
 
-Claim: Ben Shapiro previously tweeted that any American Jew who is "pro-Israel" and uses "Israel first" framing is engaging in a "pure form of anti-semitism," directed at Nick Fuentes.
+Claim: Per a tweet the host shows, Ben Shapiro wrote that accusing any American Jew who is pro-Israel of being "Israel first" is a "pure form of anti-semitism"; the host says it was directed at Nick Fuentes.
 
 Anchored Artifacts: A-1355.2
 Mentions: N-203, N-97
@@ -986,7 +986,7 @@ Claim: The host says people leaving the Daily Wire have to sign agreements that 
 Transcript Snippet: people at the Daily Wire when they're leaving the Daily Wire have to sign agreements that they're not going to go work for Tucker Carlson for 6 months.
 
 Anchored Artifacts: 
-Mentions: N-22, N-97
+Mentions: N-22
 Related Nodes: N-10900
 Tags: relevance:context
 Investigative Direction: Obtain a Daily Wire separation agreement or a former employee's account confirming a six-month restriction on working for Carlson's outlet.
@@ -997,7 +997,7 @@ Investigative Direction: Obtain a Daily Wire separation agreement or a former em
 
 Claim Timestamp: 00:04:08
 
-Claim: The host says Tucker Carlson and Ben Shapiro had a nice conversation on the day Charlie Kirk died, that Carlson then sent a nice text because Shapiro had called him, and that Shapiro expected more follow-up than he got.
+Claim: The host says Tucker Carlson and Ben Shapiro had a nice conversation on the day Charlie Kirk died, that Carlson then sent a nice text because Shapiro had called him, and that she guesses Shapiro thought there would be more follow-up than there was.
 
 Transcript Snippet: Tucker and him had a nice conversation on the day that Charlie Kirk died and Tucker then sent a nice text because Ben had called him
 
@@ -1020,7 +1020,7 @@ Transcript Snippet: But to the insinuation that Tucker somehow supported Mandani
 Anchored Artifacts: A-1356.2
 Mentions: N-22, N-97, N-147, N-225
 Supports: C-1636
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Pull the full Carlson and Greene episode and Shapiro's stage remarks to see whether Carlson praised or merely explained Mamdani's win.
 
 ---
@@ -1035,7 +1035,7 @@ Transcript Snippet: And I just can't get over what happened in our biggest city 
 
 Anchored Artifacts: A-1356.2
 Mentions: N-22, N-147, N-225
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Confirm the date of the Carlson and Greene episode against the June 2025 New York Democratic primary and the Iran news cycle.
 
 ---
@@ -1051,7 +1051,7 @@ Transcript Snippet: They were all the candidates were asked, "If you could visit
 Anchored Artifacts: A-1356.2
 Mentions: N-147, N-225, N-22
 Related Nodes: N-10026
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the debate transcript for the foreign-country question and each candidate's answer.
 
 ---
@@ -1277,7 +1277,7 @@ Transcript Snippet: He supports and congratulated Randy Fine who has literally t
 
 Anchored Artifacts: 
 Mentions: N-97, N-224
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate Shapiro's post congratulating Fine and the Fine tweet the host describes.
 
 ---
@@ -1292,7 +1292,7 @@ Transcript Snippet: BB Netanyahu is committing a genocide and Ben Shapiro sat do
 
 Anchored Artifacts: 
 Mentions: N-97, N-36
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find the date and transcript of Shapiro's Netanyahu interview and check what was asked about Gaza.
 
 ---
@@ -1331,7 +1331,7 @@ Investigative Direction: Search Shapiro's public statements for any denial or re
 
 Claim Timestamp: 00:22:08
 
-Claim: The host says Nick Fuentes survived without advertisers, sponsors or connections and was put on the ADL's list.
+Claim: The host says Nick Fuentes seems to have survived without advertisers, sponsors or connections and was put on the ADL's list.
 
 Transcript Snippet: with the entire media writing things about him, being put on the ADL's list, he has proven to be quite resilient.
 
@@ -1370,7 +1370,7 @@ Transcript Snippet: It is pre-planned. It is not organic. The supporters are not
 Anchored Artifacts: A-1356.1
 Mentions: N-97, N-46
 Related Nodes: N-10236
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the ticketing, seating and attendee data for the Kelly tour stop to test whether the audience reaction was coordinated.
 
 ---
@@ -1559,7 +1559,7 @@ Investigative Direction: Compare with the host's other statements on media owner
 
 Claim Timestamp: 00:39:12
 
-Claim: In the played Auburn clip, a student tells Eric and Laura Trump that during the summer, even though Trump advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel.
+Claim: In the played Auburn clip, a student tells Eric and Lara Trump that during the summer, even though Trump advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel.
 
 Transcript Snippet: During the summer against Iran, even though he advised against it, Israel still attacked Iran and the US still bombed on behalf of Israel.
 
@@ -1616,7 +1616,7 @@ Investigative Direction: Cross-check against public statements by Donald Trump a
 
 ---
 
-**C-9689** Clip: Laura Trump Cites Armenia-Azerbaijan and Thailand-Cambodia as Trump Peace Wins
+**C-9689** Clip: Lara Trump Cites Armenia-Azerbaijan and Thailand-Cambodia as Trump Peace Wins
 
 Claim Timestamp: 00:41:34
 
@@ -1631,16 +1631,16 @@ Investigative Direction: Verify the durations and outcomes of the cited conflict
 
 ---
 
-**C-9690** Host Says the Trump Children Know About Kushner's Middle East Deals and Gaza Benefit
+**C-9690** Host Says Young People Know About Kushner's Middle East Deals and Gaza Benefit
 
 Claim Timestamp: 00:42:27
 
-Claim: The host says the Trump family members know about Jared Kushner and his deals with Ivanka and the Middle East, how much money they are set to make, and that Gaza being destroyed is beneficial to their bank accounts.
+Claim: The host says the kids are now awake: they know about Jared Kushner and his deals with Ivanka and the Middle East, how much money they are set to make, and that Gaza being destroyed is actually beneficial to their bank accounts.
 
 Transcript Snippet: they know about Jared uh and his deals with Ivanka and the Middle East and how much money they're set to make and you know Gaza being destroyed is actually beneficial uh to their bank accounts.
 
 Anchored Artifacts: 
-Mentions: N-34, N-378, N-180, N-665
+Mentions: N-180, N-665
 Related Nodes: N-10063
 Tags: relevance:context
 Investigative Direction: Review Kushner's Affinity Partners Middle East investments and public statements on Gaza redevelopment.
@@ -1651,7 +1651,7 @@ Investigative Direction: Review Kushner's Affinity Partners Middle East investme
 
 Claim Timestamp: 00:43:11
 
-Claim: The host says young people are lectured and told they are not allowed to bring up Israel on college campuses or risk being arrested under stricter anti-semitism laws.
+Claim: The host says America's upside is that 'we' get lectured and told we are not even allowed to bring up Israel on college campuses or risk being arrested, with stricter anti-semitism laws.
 
 Transcript Snippet: we get to get lectured and told that we're not even allowed to bring up Israel on college campuses or risk being like um arrested getting stricter on anti-semitism laws.
 
@@ -1663,7 +1663,7 @@ Investigative Direction: Identify specific campus arrests or state anti-semitism
 
 ---
 
-**C-9692** Host Says Netanyahu Bought TikTok
+**C-9692** Host Refers to BB Buying TikTok
 
 Claim Timestamp: 00:43:11
 
@@ -1742,16 +1742,16 @@ Investigative Direction: Compare the host's account of the interview planning wi
 
 ---
 
-**C-9697** Host Says Shapiro's Side Demanded Kirk Never Host a Guest After Losing a Debate
+**C-9697** Host Says Pro-Israel Lobby Squeezed Kirk After Losing a Debate
 
 Claim Timestamp: 00:52:55
 
-Claim: The host says that even when they debate, they do what they did to Charlie Kirk and afterwards get so angry that they lost that they try to squeeze him and tell him he can never host this person again.
+Claim: The host says that the pro-Israel lobby, even when it debates, then does what it did to Charlie Kirk and afterwards gets so angry that it lost the debate that it tries to squeeze him and tell him he can never host this person ever again.
 
 Transcript Snippet: even when they do debate, they then do what they did to Charlie Kirk and afterwards get so angry that they lost the debate that they try to squeeze him and tell him he can never host this person ever again because they lost.
 
 Anchored Artifacts: 
-Mentions: N-1, N-97
+Mentions: N-1
 Tags: relevance:context
 Investigative Direction: Identify the debate and the guest the host means and any messages from Shapiro's side to Kirk afterward; the referent of 'they' is not specified.
 

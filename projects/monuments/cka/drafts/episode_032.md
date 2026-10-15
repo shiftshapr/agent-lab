@@ -239,7 +239,7 @@ Confidence Level: Medium
 
 **A-1412** Daily Mail Victoria Churchill TPUSA Article
 
-**A-1412.1** Daily Mail article by Victoria Churchill (APAC reporter) describing Ali Stucky as TPUSA "heir" / "heir apparent"
+**A-1412.1** Daily Mail article by Victoria Churchill (APAC reporter) describing Allie Beth Stuckey as TPUSA "heir" / "heir apparent"
 
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:56:52
@@ -862,7 +862,7 @@ Existing node reused for new claims in this episode.
 
 Claim Timestamp: 00:11:07
 
-Claim: According to Brett Cooper (read on air), Lou Taylor began her career working alongside her husband, who at the time was a pastor at Calvary Church in Brentwood, California.
+Claim: In a clip the host plays, Brett Cooper says Lou Taylor began her career working in a church alongside her husband, who at the time was a pastor at Calvary Church in Brentwood, California.
 
 Anchored Artifacts: A-1399.2
 Mentions: N-252, N-253, N-223
@@ -890,10 +890,10 @@ Investigative Direction: Confirm via business filings (Tri Star / Tristar) and p
 
 Claim Timestamp: 00:11:07
 
-Claim: In a clip the host plays, Brett Cooper says, citing a 2010 financial document, that Mr. Spears gave approximately 10% of his conservatorship income to Calvary Chapel Brentwood, "tens of thousands of dollars" in one year.
+Claim: In a clip the host plays, Brett Cooper says, citing a 2010 financial document, that Mr. Spears at times gave 10% of his conservatorship income to Calvary Chapel Brentwood, and "tens of thousands of dollars" in one year.
 
 Anchored Artifacts: A-1399.2, A-1403.1
-Mentions: N-252, N-254, N-223
+Mentions: N-254, N-223
 
 Related Nodes: N-10248
 
@@ -905,10 +905,10 @@ Investigative Direction: Obtain the 2010 financial document referenced and confi
 
 Claim Timestamp: 00:12:02
 
-Claim: LA Times headline (read on air) reports Britney Spears's lawyer emails show her ex-business manager (Lou Taylor) helped set up the conservatorship.
+Claim: In a clip the host plays, Brett Cooper reads an LA Times headline saying Britney Spears's lawyer emails show her ex-business manager (Lou Taylor) helped set up the conservatorship.
 
 Anchored Artifacts: A-1400.1
-Mentions: N-252, N-254
+Mentions: N-878, N-252, N-223
 
 
 Investigative Direction: Locate and review the LA Times article and underlying email exhibits cited therein.
@@ -919,10 +919,10 @@ Investigative Direction: Locate and review the LA Times article and underlying e
 
 Claim Timestamp: 00:12:02
 
-Claim: Per Daily Mail headline read on air, Britney Spears has accused her father Jamie and Lou Taylor of having an affair and of using estate funds for joint travel (Holy Land baptism trip).
+Claim: In a clip the host plays, Brett Cooper reads a Daily Mail headline saying Britney Spears accuses her father Jaime of having an affair with her ex-business manager Lou Taylor and claims he charged her estate for the pair's trip to the Holy Land to get baptized.
 
 Anchored Artifacts: A-1401.1
-Mentions: N-252, N-254
+Mentions: N-878, N-254, N-252, N-223
 
 
 Investigative Direction: Review the underlying Daily Mail reporting and court documents cited; corroborate against any trial filings from Britney Spears's conservatorship termination proceedings.
@@ -931,12 +931,12 @@ Investigative Direction: Review the underlying Daily Mail reporting and court do
 
 **C-1700** The New Yorker Reported Lou Taylor Attempted Conservatorships of Courtney Love and Lindsay Lohan
 
-Claim Timestamp: 00:12:38
+Claim Timestamp: 00:12:27
 
-Claim: Per host reference, The New Yorker reported that Lou Taylor also attempted to place Courtney Love and Lindsay Lohan into conservatorships.
+Claim: In a clip the host plays, Brett Cooper says The New Yorker reported that Lou Taylor also tried to place Courtney Love and Lindsay Lohan into conservatorships.
 
 Anchored Artifacts: A-1402.1
-Mentions: N-252, N-255, N-256
+Mentions: N-223, N-252, N-255, N-256
 
 
 Investigative Direction: Locate the underlying New Yorker article and review primary sourcing for both alleged conservatorship attempts.
@@ -957,14 +957,14 @@ Investigative Direction: Compare Lohan's public statement against contemporaneou
 
 ---
 
-**C-1702** Insider Email Alleged Lou Taylor / Rob McCoy's Church Is a "Front" with Intelligence Links
+**C-1702** Insider Email Alleges Lou Taylor and Rob Taylor's Church Is a Front with Intelligence Links
 
 Claim Timestamp: 00:14:40
 
-Claim: Per partially redacted viewer email read on air, the sender alleges the Calvary Chapel associated with Lou Taylor is a front for the Taylors and "Aruse" (uncertain transcription), and that Lou Taylor has alleged ties to CIA, Mossad, Black Cube Security, and a property in Thousand Oaks tied to Tony Blair. Host flags all of this as unverified.
+Claim: Per a partially redacted email the host reads, the sender says Rob and Lou Taylor's church is a front for "them and Aruse" (uncertain transcription) and suspects Lou Taylor is tied to possibly the CIA and Mossad and to Black Cube security. The host says she has not confirmed it.
 
 Anchored Artifacts: A-1405.1
-Mentions: N-252, N-253, N-17
+Mentions: N-252, N-253
 
 Related Nodes: N-10248
 
@@ -974,7 +974,7 @@ Investigative Direction: Identify sender through unredacted metadata; cross-refe
 
 **C-1703** Courtney Love Claims She Was Experimented on at Haight-Ashbury Clinic as a Toddler
 
-Claim Timestamp: 00:28:30
+Claim Timestamp: 00:21:25
 
 Claim: Per Courtney Love text messages to host (Jan 2025), she was given LSD as a toddler at the Haight-Ashbury Clinic during the era of CIA mass experimentation on hippies.
 
@@ -989,7 +989,7 @@ Investigative Direction: Court Love is reportedly writing a book on this topic; 
 
 **C-1704** Courtney Love Claims She Did Not Kill Kurt Cobain
 
-Claim Timestamp: 00:28:30
+Claim Timestamp: 00:22:10
 
 Claim: Per Courtney Love text messages (Jan 2025), she states she did not kill Kurt Cobain and that his death was a "psychological operation" intended to redirect public attention away from CIA activity.
 
@@ -1003,7 +1003,7 @@ Investigative Direction: Standalone claim only; no corroborating artifact in thi
 
 **C-1705** Courtney Love Alleges "Mormon Mafia" Sits Above Hollywood and "Zionist Jews"
 
-Claim Timestamp: 00:28:30
+Claim Timestamp: 00:27:26
 
 Claim: Per Courtney Love text messages (Jan 2025), she alleges a "Mormon mafia" operates above Hollywood and above "many Zionist Jews."
 
@@ -1023,7 +1023,7 @@ Claim Timestamp: 00:28:30
 Claim: Per Courtney Love text messages (Jan 2025), she states Lou Taylor is connected to Kim Kardashian, Diddy, Jay-Z, and Beyoncé, and that Lou Taylor owns or sat on the board of a "church home" associated with Hillsong / Justin Bieber.
 
 Anchored Artifacts: A-1406.1
-Mentions: N-252, N-361, N-255
+Mentions: N-252, N-361, N-874, N-255
 
 Related Nodes: N-10248
 
@@ -1063,10 +1063,10 @@ Investigative Direction: Obtain full autopsy / coroner's report; review toxicolo
 
 Claim Timestamp: 00:41:29
 
-Claim: Per host description of viewer-submitted photo and clip, an individual wearing a maroon shirt was partially concealed in shrubbery at the Kirk event; when shots were fired, the crowd ducked but he did not, and he calmly walked away.
+Claim: The host describes an individual in a maroon shirt who was partially in the bush at the Kirk event; when Charlie went down, everyone ducked but he kept standing, went into and out of the bush and calmly walked away. She says this does not mean he is guilty of anything.
 
 Anchored Artifacts: A-1409.1, A-1409.2, A-1411.1
-Mentions: N-1, N-248
+Mentions: N-1
 
 Related Nodes: N-10250
 
@@ -1117,14 +1117,14 @@ Investigative Direction: Confirm Butch Hibbs's official role/access at the event
 
 ---
 
-**C-1713** Daily Mail Headline Framed Ali Stucky as TPUSA "Heir"
+**C-1713** Daily Mail Headline Framed Allie Beth Stuckey as TPUSA "Heir"
 
-Claim Timestamp: 00:56:52
+Claim Timestamp: 00:56:34
 
-Claim: Per host reference, Daily Mail (Victoria Churchill, APAC reporter) published a headline framing Ali Stucky as TPUSA's "heir" or equivalent.
+Claim: The host says the Daily Mail (Victoria Churchill, whom she calls an APAC reporter) published a headline framing Allie Beth Stuckey as TPUSA's "heir" or equivalent.
 
 Anchored Artifacts: A-1412.1
-Mentions: N-2, N-229, N-84
+Mentions: N-229, N-84
 
 
 Investigative Direction: Obtain the article and verify framing language; host disputes framing on air.
@@ -1133,12 +1133,12 @@ Investigative Direction: Obtain the article and verify framing language; host di
 
 **C-1714** Wall Street Journal Repeated "Heir Ali" / "Heir Apparent" Framing for TPUSA
 
-Claim Timestamp: 00:57:40
+Claim Timestamp: 00:56:58
 
 Claim: Per host reference, Wall Street Journal repeated the "heir apparent" framing of TPUSA succession.
 
 Anchored Artifacts: A-1413.1
-Mentions: N-2, N-229
+Mentions: N-229
 
 
 Investigative Direction: Locate the WSJ article and verify framing language.
@@ -1171,7 +1171,7 @@ Transcript Snippet: They brought it up 18 times in the lawsuit against me.
 Anchored Artifacts: 
 Mentions: N-3, N-82, N-381
 Related Nodes: N-10001
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Count MK Ultra references in the Macron complaint as filed.
 
 ---
@@ -1292,7 +1292,7 @@ Investigative Direction: Look for bankruptcy filings and loan records for Jamie 
 
 Claim Timestamp: 00:08:12
 
-Claim: Brett Cooper (clip played) says Spears committed Britney to an eight-month Circus tour, that Lou Taylor's company Tri Star was hired as business manager, and that the tour grossed an estimated $130 million.
+Claim: Brett Cooper (clip played) says Jamie Spears committed Britney to an eight-month Circus tour, that Lou Taylor's company Tri Star was hired as business manager, and that the tour grossed an estimated $130 million.
 
 Transcript Snippet: Tristar, that is L. Taylor's company, was hired to serve as the tour's business manager, handling its finances and accounting. And the tour grossed an estimated $130 million.
 
@@ -1405,7 +1405,7 @@ Investigative Direction: Check Ventura County property records and any McCoy and
 
 Claim Timestamp: 00:15:42
 
-Claim: The email read by the host says Robin and Lou Taylor lived in Fort Lauderdale, attended a very large Calvary Chapel there and were mentored by Bob Coy, who later stepped down amid sexual allegations and mentored them in starting their Brentwood, Tennessee church.
+Claim: The email read by the host says Robin and Lou Taylor lived in Fort Lauderdale, attended a very large Calvary Chapel there and were mentored by Bob Coy, who mentored them in starting their Brentwood, Tennessee church. The host adds that Coy has been embroiled in sexual-allegation scandal and she believes had to step down.
 
 Transcript Snippet: they lived in Fort Lauderdale, Florida and attended a very large Calvary Chapel church there. And they were mentored by a man named Bob Coy.
 
@@ -1866,14 +1866,14 @@ Investigative Direction: Compile the post-shooting videos with timestamps and as
 
 **C-10881** Witness in Clip Says Shot Sounded Like a 9 Millimeter, Not a 45, Almost a Cherry Bomb
 
-Claim Timestamp: 00:45:56
+Claim Timestamp: 00:46:20
 
 Claim: In the clip with Butch Hibbs in the background, an interviewed man says the shot sounded like a higher caliber, like a 9 millimeter and not a 45, and not deep to him; he adds it almost sounded like a cherry bomb.
 
 Transcript Snippet: It sounded like a higher caliber, like a 9 millimeter. It didn't sound like a 45 or anything, but I don't know.
 
 Anchored Artifacts: A-1411.1
-Mentions: N-3
+Mentions: N-3, N-248
 Related Nodes: N-10180
 Tags: relevance:core
 Investigative Direction: Identify the interviewee and the outlet; compare with acoustic analysis of the recorded shot.
@@ -1900,7 +1900,7 @@ Investigative Direction: Verify the number and locations of Calvary Chapel churc
 
 Claim Timestamp: 00:53:14
 
-Claim: The host says critics take her out of context and pretend she is doing all of this on the basis of a dream and never had evidence, which she says shows they are fearful.
+Claim: The host says critics take her out of context and pretend she is doing all of this on the basis of a dream and never had evidence, which she says feels to her like they are fearful.
 
 Transcript Snippet: pretending that we're doing all of this on the basis of a dream and that we never had any evidence.
 
@@ -2008,7 +2008,7 @@ Investigative Direction: Review Afghan opium production data and Purdue and Sack
 
 **C-10890** Host Promises to Name the Person Who Yelled at Charlie on Monday
 
-Claim Timestamp: 00:58:20
+Claim Timestamp: 00:58:55
 
 Claim: The host says she promised to address who yelled at Charlie, forgot the person's last name until she saw the notes, and promises she will have it on Monday.
 

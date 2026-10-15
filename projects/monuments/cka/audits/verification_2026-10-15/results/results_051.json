@@ -1,0 +1,776 @@
+[
+ {
+  "claim": "C-1746",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Departure \"September 11th at 7:56 a.m.\" is spoken about 04:20; claim timestamp 02:32 is about 108s earlier.",
+  "fix": {
+   "timestamp": "00:04:15"
+  }
+ },
+ {
+  "claim": "C-1747",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1748",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1749",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "At 10:45 host names only DEA and Secret Service at 920 North King, Suite 404; FBI is not part of that directory statement.",
+  "fix": {
+   "claim": "The host says current public directories show the DEA and the U.S. Secret Service both listed at 920 North King Street, Suite 404, Wilmington, Delaware, with phone numbers published."
+  }
+ },
+ {
+  "claim": "C-1750",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"SATIDS is S A T YS\": company is SATYS (Satys Aerospace), confirmed by Area Development 12/30/2024.",
+  "fix": {
+   "claim": "The host says a French aircraft finishing company, SATYS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+, and says her team confirmed this.",
+   "label": "Host Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar",
+   "names": [
+    {
+     "wrong": "SATIDS",
+     "right": "SATYS",
+     "source": "https://www.areadevelopment.com/newsItems/12-30-2024/satys-new-castle-delaware.shtml"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1751",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host reads an email quoting the DRBA resolution, not the resolution itself; \"status\" in transcript is SATYS.",
+  "fix": {
+   "claim": "Per an email the host reads, which quotes a Delaware River and Bay Authority (DRBA) January 2024 resolution, the DRBA was acquiring rights to a paint hangar formerly part of a Dassault leasehold and authorizing execution of a lease with SATYS.",
+   "label": "Per Email Host Reads, DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATYS",
+   "names": [
+    {
+     "wrong": "SATIDS",
+     "right": "SATYS",
+     "source": "https://www.areadevelopment.com/newsItems/12-30-2024/satys-new-castle-delaware.shtml"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1752",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1753",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1754",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"he basically said, 'We didn't have drones ... because I wasn't allowed to have drones'\" - her paraphrase, not a played clip.",
+  "fix": {
+   "claim": "The host says Brian Harpole, on the Shawn Ryan interview, basically said TPUSA did not have drones at the event because he was not allowed to have drones."
+  }
+ },
+ {
+  "claim": "C-1755",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "In clip Harpole says \"I think they said C6\"; the 3,000 lbs of energy is the host's framing (\"he doubles down on the idea\"), not stated in the clip.",
+  "fix": {
+   "claim": "In a clip the host plays, Brian Harpole, on the Shawn Ryan interview, describes the bullet entering, crushing a vertebra and fragmenting, saying \"I think they said C6\"; the host says he is doubling down on the idea of 3,000 lbs of energy."
+  }
+ },
+ {
+  "claim": "C-1756",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1757",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1758",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7978",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7979",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7980",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7981",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7982",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7983",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7984",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7985",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7986",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7987",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7988",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7989",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7990",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7991",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7992",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7993",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7994",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7995",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "tangential",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7996",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7997",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": true,
+  "note": "SATIDS is SATYS (Satys Aerospace); see C-1750.",
+  "fix": {
+   "claim": "The host says Wilmington used to have a Dassault Falcon authorized service center but it shut down around 2021, before the 2024 SATYS announcement.",
+   "names": [
+    {
+     "wrong": "SATIDS",
+     "right": "SATYS",
+     "source": "https://www.areadevelopment.com/newsItems/12-30-2024/satys-new-castle-delaware.shtml"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-7998",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7999",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": true,
+  "note": "Host drops the \"If SUBTT has been doing this run for decades\" conditional; SATIDS is SATYS.",
+  "fix": {
+   "claim": "The host reads the email saying SUBTT's timeline shows it traveled to France before the SATYS deal was made, so if SUBTT has been doing this run for decades, a 2024 French finishing lease could not be its maintenance justification, and calls the maintenance story a cover.",
+   "label": "Email Says SUBTT Traveled to France Before the SATYS Deal Existed",
+   "names": [
+    {
+     "wrong": "SATIDS",
+     "right": "SATYS",
+     "source": "https://www.areadevelopment.com/newsItems/12-30-2024/satys-new-castle-delaware.shtml"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8000",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8001",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8002",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8003",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8004",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8005",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8006",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8007",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8008",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8009",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8010",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8011",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8012",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8013",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8014",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8015",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8016",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "unresolved name: \"TWW Lewis\" (possibly T.W. Lewis); could not confirm.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8017",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8018",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8019",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8020",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "context",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8021",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8022",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "Host lists \"Andrew Kolvet, Andrew Kolvet's wife\", a priest, Stacy Sheridan, a fundraiser; claim omits Kolvet himself.",
+  "fix": {
+   "claim": "The host lists the passengers she says are known to have come from Arizona and possibly Santa Barbara as Andrew Kolvet, Andrew Kolvet's wife, a priest, Stacy Sheridan, Elizabeth McCoy, Tyler Bowyer and Erika Kirk, and says there could be more."
+  }
+ },
+ {
+  "claim": "C-8023",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": true,
+  "note": "Mikey McCoy is not named in the claim; only Elizabeth McCoy is.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-219"
+   ]
+  }
+ },
+ {
+  "claim": "C-8024",
+  "episode": 35,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "core",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

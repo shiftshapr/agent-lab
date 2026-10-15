@@ -821,7 +821,7 @@ Claim Timestamp: 00:51:42–00:52:23
 Claim: The Game stated in the interview that the song is not about Candace personally and that he used the title because she "self-admitted" feeling targeted, framing it as a metaphor about "assassination of the character."
 
 Anchored Artifacts: A-1491.1
-Mentions: N-306
+Mentions: N-306, N-3
 Investigative Direction: Confirm the artist's stated intent against the released song lyrics.
 
 ---
@@ -833,7 +833,7 @@ Claim Timestamp: 00:46:20
 Claim: A Fortune article published December 2 carried the headline "Inside the economics of Candace Owens's media empire and the Macron lawsuit threatening to unravel it."
 
 Anchored Artifacts: A-1492.1
-Mentions: N-2, N-3
+Mentions: N-3
 Investigative Direction: Locate the Fortune article, capture full byline, and verify publication date.
 
 ---
@@ -845,7 +845,7 @@ Claim Timestamp: 00:47:25
 Claim: The Fortune article stated that the lawsuit would test whether the "controversy as currency" model that enriched the host and built her media brand could survive what experts described as an immensely costly legal battle.
 
 Anchored Artifacts: A-1492.1
-Mentions: N-2
+Mentions: N-3
 Investigative Direction: Verify the quoted phrasing against the original article and identify the named "experts."
 
 ---
@@ -857,7 +857,7 @@ Claim Timestamp: 00:49:59
 Claim: Per host reference, Emmanuel Macron's public calendar records a phone call with Donald Trump at 6:45 PM French time (10:45 AM Utah time) on September 10, 2025.
 
 Anchored Artifacts: A-1493.1
-Mentions: N-5
+Mentions: N-5, N-381
 Related Nodes: N-10308
 Investigative Direction: Locate Macron's released public calendar; confirm the timestamp and any documented subject of the call.
 
@@ -997,7 +997,7 @@ Investigative Direction: Find the recording of Rob McCoy's remarks about the not
 
 ---
 
-**C-5071** Host Alleges Rob McCoy Sanitized a Convicted Sex Offender
+**C-5071** Host Alleges Rob McCoy Sanitized a Man Who Went to Prison Over Photographing Young Girls
 
 Claim Timestamp: 00:05:20
 
@@ -1061,7 +1061,7 @@ Investigative Direction: Review earlier episodes for any host statement that TPU
 
 Claim Timestamp: 00:07:25
 
-Claim: The host says she first plotted Egyptian jets as following Charlie, then realized they were tracking TPUSA Faith events and followed Erika many more times.
+Claim: The host says she first plotted Egyptian jets as following Charlie, then realized they were tracking TPUSA Faith events and that many more times they were following, and perhaps tracking, Erika.
 
 Transcript Snippet: We then obviously realized that they were tracking TPUSA faith events and that many more times uh they were following and perhaps tracking Erika.
 
@@ -1077,7 +1077,7 @@ Investigative Direction: Re-plot the Egyptian-registered aircraft movements agai
 
 Claim Timestamp: 00:08:20
 
-Claim: Responding to TPUSA's line that Charlie wanting Erika to take over is a lie, the host says the denial is not a quotation and is just TPUSA saying so.
+Claim: Responding to TPUSA's line that she accused it of lying about Charlie wanting Erika to take over for him if he died, the host says 'Never happened. That is not a quotation. That is just them saying that.'
 
 Transcript Snippet: Never happened. That is not a quotation. That is just them saying that.
 
@@ -1122,7 +1122,7 @@ Investigative Direction: Check the Shawn Ryan interview for the exact Harpole st
 
 Claim Timestamp: 00:09:19
 
-Claim: The host says Andrew Kolvet, sitting next to the TPUSA spokesperson, said the SD card was removed because people were stealing.
+Claim: The host says Andrew Kolvet sat next to the person delivering TPUSA's statement and said the SD card was removed because people were stealing.
 
 Transcript Snippet: Andrew Kolvet sat next to you and said it was because people were stealing.
 
@@ -1705,7 +1705,7 @@ Investigative Direction: Verify whether TPUSA responded to the proposed date and
 
 Claim Timestamp: 00:37:13
 
-Claim: The host says the Pentagon undertook a press corps makeover to let in new independent, more trusted journalists, naming James O'Keefe and Matt Gaetz as people she considers trusted.
+Claim: The host says the Pentagon undertook a press corps makeover ostensibly to let in new independent, more trusted journalists, saying James O'Keefe is very much trusted and that she likes Matt Gaetz very much.
 
 Transcript Snippet: they decided to undergo a quote unquote press corps makeover ostensibly to let in new independent, more trusted journalists.
 
@@ -1785,7 +1785,7 @@ Claim: The host briefly shows a Loomer tweet and says that after Charlie died, L
 Transcript Snippet: this is the tweet that she sent out and then Charlie died a couple of weeks later and she completely switched and now thinks that she's guarding his leg legacy.
 
 Anchored Artifacts: A-2733.1
-Mentions: N-3, N-60, N-1, N-55
+Mentions: N-3, N-60, N-1
 Investigative Direction: Capture the tweet in full and compare with Loomer's later statements about Charlie.
 
 ---
@@ -1853,7 +1853,7 @@ Investigative Direction: Obtain the evidence the host cites (the Foreign Legion 
 
 Claim Timestamp: 00:43:48
 
-Claim: The host says that, allegedly, the president of France paid $1.5 million for her assassination, and that she has specific information and traceable accounts.
+Claim: The host says that, imagining a call to the government, she would tell them she has specific information and traceable accounts because the president of France allegedly paid $1.5 million for her assassination.
 
 Transcript Snippet: because the president played of France allegedly paid $1.5 million for my assassination.
 

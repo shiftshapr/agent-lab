@@ -811,7 +811,7 @@
       "@type": "Person",
       "@id": "N-334",
       "ref": "N-334",
-      "name": "Greg Schaefer",
+      "name": "Greg Shaffer",
       "type": "person",
       "description": "Founder of Schaefer Security, identified by host as former FBI hostage rescue team member with Budapest stationing.",
       "related_artifacts": [],
@@ -2555,8 +2555,8 @@
       "@type": "Claim",
       "@id": "C-14191",
       "ref": "C-14191",
-      "label": "Host Says Montgomery Hired Schaefer Security With Dan Flood and Brian Harpole Working Under Greg Schaefer",
-      "claim": "The host says Bill Montgomery chose to hire Schaefer Security, run by Greg Schaefer, with Dan Flood and Brian Harpole working under Schaefer.",
+      "label": "Host Says Montgomery Hired Schaefer Security With Dan Flood and Brian Harpole Working Under Greg Shaffer",
+      "claim": "The host says Bill Montgomery chose to hire Schaefer Security, run by Greg Shaffer, with Dan Flood and Brian Harpole working under Schaefer.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11038",
@@ -2567,7 +2567,7 @@
       ],
       "claim_timestamp": "00:11:30",
       "investigative_direction": "Obtain the firm's Texas private security registration and staff lists; compare spelling with the Scheper Security the host discusses in later episodes.",
-      "transcript_snippet": "Bill Montgomery chose to hire Schaefer security, which was run by Greg Schaefer. And working under Greg Schaefer was Dan Flood and Brian Harpole.",
+      "transcript_snippet": "Bill Montgomery chose to hire Schaefer security, which was run by Greg Shaffer. And working under Greg Shaffer was Dan Flood and Brian Harpole.",
       "mentions_person_refs": [
         "N-460",
         "N-334",
@@ -2579,8 +2579,8 @@
       "@type": "Claim",
       "@id": "C-14192",
       "ref": "C-14192",
-      "label": "Host Says Greg Schaefer Was FBI Hostage Rescue and a Dallas Joint Terrorism Task Force Supervisor",
-      "claim": "The host says Greg Schaefer is from Dallas, worked for the FBI on the elite hostage rescue team, and was a supervisor on the Dallas Joint Terrorism Task Force.",
+      "label": "Host Says Greg Shaffer Was FBI Hostage Rescue and a Dallas Joint Terrorism Task Force Supervisor",
+      "claim": "The host says Greg Shaffer is from Dallas, worked for the FBI on the elite hostage rescue team, and was a supervisor on the Dallas Joint Terrorism Task Force.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10425"
@@ -2599,8 +2599,8 @@
       "@type": "Claim",
       "@id": "C-14193",
       "ref": "C-14193",
-      "label": "Host Says Greg Schaefer Was Stationed in Budapest",
-      "claim": "The host says Greg Schaefer was at least stationed in Budapest, Hungary, which she calls another Eastern European connection.",
+      "label": "Host Says Greg Shaffer Was Stationed in Budapest",
+      "claim": "The host says Greg Shaffer was at least stationed in Budapest, Hungary, which she calls another Eastern European connection.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10425"

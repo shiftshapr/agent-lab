@@ -470,7 +470,7 @@ Transcript spelling "Ryan Harpole" (55:02). Says no CPR was done in the car; his
 
 *Related: C-4709, C-4710, C-4717, A-2686.2*
 
-**N-333** Andrew Seifer
+**N-333** Andrew Sypher
 
 Transcript spelling "Andrew Cypher". Named among TPUSA staff who the host says did not call 911.
 
@@ -1781,7 +1781,7 @@ Investigative Direction: Compare the complaint's 911 allegation with the full se
 
 Claim Timestamp: 00:55:02
 
-Claim: The host says the Turning Point staff, naming Mikey McCoy, Blake Neff and Andrew Seifer ("Andrew Cypher"), did not try to assist Charlie Kirk or call 911. She says they instead ran under the underpass.
+Claim: The host says the Turning Point staff, naming Mikey McCoy, Blake Neff and Andrew Sypher ("Andrew Cypher"), did not try to assist Charlie Kirk or call 911. She says they instead ran under the underpass.
 
 Transcript Snippet: the Turning Point team broadly didn't try to assist Charlie and didn't call 911.
 
@@ -2009,7 +2009,7 @@ Confidence: high
 - **DIA scan**: one real DIA beat, the $10,000 bounty at 00:54:23 (C-4716, A-2690.1, M-12). The "very nice tip" at 00:52:57 is a viewer's monetary chat tip (Zammit) and was not treated as a DIA beat. The host's account of the flood of emails from audio professionals (09:48, 12:50) contains none of the DIA trigger phrases and is handled as C-4667/C-4671, not as DIA. No Candace Intelligence Agency merch phrase airs, so M-14 is not used.
 - **Artifacts verbally referenced but not shown**: A-2681.1 (host's phone call with Terrell Farnsworth), A-2689.1 (WHCD "emotional asset" email) and A-2690.1 (the $10,000 bounty). The "graphic" (A-2678.1) and the science article (A-2678.2) are described as shown, but their text is only partly read.
 - **Speaker uncertainty in clips**: the necklace clips at 01:20–03:22 are not labelled in the transcript. A-2677.1 appears to be Erika Kirk. A-2677.2 appears to be Frank Turek (consistent with prior C-1962). A-2677.3 is identified as Andrew Kolvet on Laura Ingraham's show only by the host's later remark at 38:48.
-- **Name matching**: "Taylor Boyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Cole" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-333 Andrew Seifer. "Blakey Naft" mapped to N-161 Blake Neff. "Ryan Harpole" mapped to N-268 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-263. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-693) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-694) on the brother relationship alone. "Laura Ingram" is minted as Laura Ingraham (N-695); she has no row in nodes.tsv.
+- **Name matching**: "Taylor Boyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Cole" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-333 Andrew Sypher. "Blakey Naft" mapped to N-161 Blake Neff. "Ryan Harpole" mapped to N-268 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-263. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-693) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-694) on the brother relationship alone. "Laura Ingram" is minted as Laura Ingraham (N-695); she has no row in nodes.tsv.
 - **Not minted**: "Rick", "Dan" and "Justin" in Harpole's clip (possibly Rick Cutler, Dan Flood and a Justin, who exist in nodes.tsv, but not confirmed from this transcript); Druski ("Jurski", no row in nodes.tsv; staging episode 084 mints him as N-689); Ivanka Trump (joke only, used for meme M-109); Natalia (orphan, no surname); Dana Loesch ("Dana Lash", rhetorical mention only); Tucker Carlson and Baron Coleman (mentions without a claim); Nissy and the Erika Jayne Girardi signature misreading (joke).
 - **Transcription ambiguities**: "Loews E building" (kept as spoken), "road mic" / "road bike" for Rode mic, ".30-ought-six" / ".30-06", "first day date", "Teen Miss America crown" (the title is unverified), "headedtocannasoans. com" (merch URL).
 - **Meme spelling for the integrator**: staging has three titles for the same merch joke ("Stop Anti-Candism" in 112, "Stop Anti-Candaceism" in 111, "Anti-Candacism" in 113); M-107 follows 113 and the transcript spelling. M-109 reuses "Ivanka the Explorer" and M-103 reuses "Snakes in Charlie's Garden" from staging.

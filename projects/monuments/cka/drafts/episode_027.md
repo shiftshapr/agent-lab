@@ -2019,7 +2019,7 @@ Investigative Direction: Confirm via Liberty University's convocation schedule a
 
 Claim Timestamp: 00:48:02
 
-Claim: The host says she first heard TPUSA made 70 million in the couple of weeks after Charlie's death, and that the figure has gone up since.
+Claim: The host says she thinks she first heard TPUSA made something like 70 million in the couple of weeks after Charlie's death, and that the figure has gone up since.
 
 Transcript Snippet: I think uh first heard it was 70 million.
 
@@ -2258,7 +2258,7 @@ Investigative Direction: Find the stage remarks by Turek and compare with accoun
 
 ---
 
-**C-9644** Host Says TPUSA Said Charlie Died Instantly Yet He Went Into Surgery
+**C-9644** Host Says People Asked How Charlie Went Into Surgery After Being Told He Died Instantly
 
 Claim Timestamp: 01:00:34
 
@@ -2298,7 +2298,7 @@ Claim: The host says that when her team came with her from the Daily Wire she to
 Transcript Snippet: We can't offer you cannot offer you health insurance in the first year.
 
 Anchored Artifacts: 
-Mentions: N-3, N-30, N-68
+Mentions: N-3, N-30
 Related Nodes: N-11228
 Tags: relevance:tangential
 Investigative Direction: No verification needed beyond the host's account.

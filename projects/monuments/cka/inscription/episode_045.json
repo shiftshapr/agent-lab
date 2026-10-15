@@ -1319,7 +1319,7 @@
       "@id": "C-1899",
       "ref": "C-1899",
       "label": "Erika Kirk published casket video on Instagram",
-      "claim": "Erika Kirk published a video on Instagram showing her at Charlie Kirk's casket saying \"I love you, I love you, I love you\" with another person responding \"God bless you.\"",
+      "claim": "The host says Erika Kirk had someone record her over Charlie Kirk's casket and published the video on Instagram; in the clip the host plays, a voice says \"I love you, I love you, I love you\" and another \"I love you, I love you, God bless you.\"",
       "anchored_artifacts": [
         "A-1526.1"
       ],
@@ -1383,9 +1383,8 @@
       "claim_timestamp": "00:24:45",
       "investigative_direction": "Seek cell tower records or ping data through legal process; identify any carrier records of foreign-registered IMSI devices near the venue.",
       "mentions_person_refs": [
-        "N-2",
-        "N-22",
         "N-1",
+        "N-22",
         "N-148"
       ]
     },
@@ -1412,7 +1411,7 @@
       "@id": "C-1904",
       "ref": "C-1904",
       "label": "Tucker Carlson expresses lack of confidence in FBI leadership",
-      "claim": "Tucker Carlson stated he does not have confidence in the FBI or the men who run it, and noted that the FBI has publicly stated it possesses both a confession from the suspect (in his text to his boyfriend) and the murder weapon with his fingerprints.",
+      "claim": "Tucker Carlson stated he does not have a ton of confidence in the FBI or the men who run it; later, asking why the FBI will not explain, he said \"You've told the world that you have both a confession from him in his text to his boyfriend and the murder weapon with his fingerprints on it. I think you got a pretty solid case.\"",
       "anchored_artifacts": [
         "A-1528.4",
         "A-1528.5"
@@ -1474,7 +1473,8 @@
       "claim_timestamp": "00:40:00",
       "investigative_direction": "Verify Adam Nef's command assignment through official Army biographies, unit press releases, and any publicly available 10th Mountain Division rosters.",
       "mentions_person_refs": [
-        "N-321"
+        "N-321",
+        "N-363"
       ]
     },
     {
@@ -1504,7 +1504,7 @@
         "N-10333"
       ],
       "tags": [],
-      "claim_timestamp": "00:59:22",
+      "claim_timestamp": "01:00:25",
       "investigative_direction": "Identify the specific Candlewood Suites property, send legal preservation letters, and request hotel guest and vehicle registration records."
     },
     {
@@ -1538,7 +1538,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:00:00–00:00:01",
+      "claim_timestamp": "00:55:39",
       "investigative_direction": "Track pattern of Erika Kirk's public appearances to determine whether audience composition supports or contradicts the elite-audience thesis.",
       "mentions_person_refs": [
         "N-2"
@@ -1735,10 +1735,7 @@
       ],
       "claim_timestamp": "00:12:39",
       "investigative_direction": "Obtain event ticketing, pledge records or TPUSA statements on the Mar-a-Lago event proceeds.",
-      "transcript_snippet": "you know they made 40 40 million like two nights ago at Mara Lago",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "transcript_snippet": "you know they made 40 40 million like two nights ago at Mara Lago"
     },
     {
       "@type": "Claim",
@@ -1840,8 +1837,7 @@
       "investigative_direction": "Confirm Charlie Kirk's education history and TPUSA founding date from biographies and filings.",
       "transcript_snippet": "I didn't even go to college and I've been doing this for over a decade as Charlie Kirk did.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -1872,7 +1868,7 @@
       "@id": "C-8081",
       "ref": "C-8081",
       "label": "Host Says Tim Pool Went on Air Telling Her Critics They Are Evil",
-      "claim": "The host says Tim Pool went on the airwaves telling the host and her audience they are evil for pursuing their questions.",
+      "claim": "The host says she will not accept Tim Pool jumping on the airwaves with what she calls \"big estrogen energy\" telling her and her audience they are evil.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2073,7 +2069,7 @@
       "@id": "C-8090",
       "ref": "C-8090",
       "label": "Tucker Carlson Says He Likes the Host and Does Not Think She Is Bad",
-      "claim": "In the Theo Von clip Tucker Carlson says he likes the host a lot and does not think she is bad, though he does not agree with some of the rabbit hole she goes down.",
+      "claim": "In the Theo Von clip Tucker Carlson says he likes the host a lot and does not think she is bad, but asks why critics do not call her and offer a more plausible explanation, even if they stipulate she is bad.",
       "anchored_artifacts": [
         "A-2919.4"
       ],
@@ -2512,7 +2508,7 @@
       "@id": "C-8109",
       "ref": "C-8109",
       "label": "Host Says the Plane Tip Matches Harry's Timeline Exactly",
-      "claim": "The host says the plane's movements mean the timeline the witness gave is exactly right, with the meeting early in the morning at about 7:37.",
+      "claim": "The host says the plane's movements mean the timeline the witness gave is exactly right, with the meeting early in the morning at what she thinks was 7:37.",
       "anchored_artifacts": [
         "A-1529.1"
       ],
@@ -2806,7 +2802,7 @@
       "@id": "C-8122",
       "ref": "C-8122",
       "label": "Host Says TPUSA Responds to the Egyptian Planes With Jokes",
-      "claim": "The host says people around Turning Point USA are making jokes that there is something not right about the Egyptian planes rather than showing concern.",
+      "claim": "The host says that, instead of being concerned about the Egyptian planes a podcaster found, they (the Turning Point USA side she is criticizing) are just making jokes that there is something not right with that.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10253"

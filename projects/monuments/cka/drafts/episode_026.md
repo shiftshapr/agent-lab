@@ -131,7 +131,7 @@ Confidence Level: High
 
 **A-1337** Brett Cooper Online Post Bundle
 
-**A-1337.1** X post attributed to Aaron Wexler calling Brett Cooper "white Candace"
+**A-1337.1** X post attributed to Arynne Wexler calling Brett Cooper "white Candace"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -444,7 +444,7 @@ Investigative Pressure: Low
 
 *Related: A-1340.1, C-1611*
 
-**N-56** Aaron Wexler
+**N-56** Arynne Wexler
 
 X poster identified by host as source of "white Candace" post.
 
@@ -1087,7 +1087,7 @@ Investigative Direction: N/A – host-stance claim linked to source artifact.
 
 Claim Timestamp: 00:20:51–00:21:20
 
-Claim: The host shows a post she attributes to Aaron Wexler that reads "Okay, white Candace. What is a Nazi then?" about Brett Cooper; the host asks why Cooper is being called the white Candace.
+Claim: The host shows a post she attributes to Arynne Wexler that reads "Okay, white Candace. What is a Nazi then?" about Brett Cooper; the host asks why Cooper is being called the white Candace.
 
 Anchored Artifacts: A-1337.1
 Mentions: N-56, N-223

@@ -15,6 +15,16 @@
     ],
     "reviewed": [
       {
+        "claim": "C-12427",
+        "node": "N-30",
+        "reason": "claim text: 'her husband' (George); verification pass 2026-10-15"
+      },
+      {
+        "claim": "C-12476",
+        "node": "N-30",
+        "reason": "claim text: 'her husband' (George); verification pass 2026-10-15"
+      },
+      {
         "claim": "C-1267",
         "node": "N-30",
         "reason": "Candace's husband; transcript 08:46 to 10:37 tells how she met her husband on this UK trip (ep9, eps 1-10 window)"
@@ -785,6 +795,13 @@
           14
         ],
         "reason": "Robbie Hild: named in earlier claims C-10789 (ep13) and C-7874 (ep14); the person node was minted in supplement batch 7 (ep87), where the topic node N-10153 already existed. Accepted rather than rewriting the claims."
+      },
+      {
+        "id": "N-883",
+        "episodes": [
+          35
+        ],
+        "reason": "Jean-Michel Trogneux: the ep35 transcript had 'Jean Michelle Tro' (corrected 2026-10-15, verification pass); he is introduced in ep38. Accepted rather than moving his introduction."
       },
       {
         "id": "N-135",

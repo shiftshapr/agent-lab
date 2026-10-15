@@ -565,7 +565,7 @@ Reused for the uncontacted rooftop eyewitness.
 
 ---
 
-**N-10769** Lozi Center Gun Verification Gap
+**N-10769** Losee Center Gun Verification Gap
 
 Reused for the weapon recovery and eyewitness description.
 
@@ -818,7 +818,7 @@ Investigative Direction: Obtain the surgeon's own public statements or interview
 
 Claim Timestamp: 00:04:13
 
-Claim: The host says the lone confirmed eyewitness who saw the alleged shooter on the Lozi Center rooftop before the shot has not been contacted by the lawyers or investigators on either side, even though the investigation phase before the May probable cause hearing is under way.
+Claim: The host says the lone confirmed eyewitness who saw the alleged shooter on the Losee Center rooftop before the shot has not been contacted by the lawyers or investigators on either side, even though the investigation phase before the May probable cause hearing is under way.
 
 Transcript Snippet: has not been contacted by the lawyers or the investigators on either side of this trial
 
@@ -893,7 +893,7 @@ Investigative Direction: Request the recovery report, officer statements and evi
 
 Claim Timestamp: 00:05:09
 
-Claim: The host says the canines were not provided with the scent of the weapon once it was discovered, so the dogs did not trace it back to the top of the Lozi Center.
+Claim: The host says the canines were not provided with the scent of the weapon once it was discovered, so the dogs did not trace it back to the top of the Losee Center.
 
 Transcript Snippet: The canines were not provided with the scent of the weapon once it was discovered.
 

@@ -879,7 +879,7 @@ Claim Timestamp: 00:19:57–00:21:54
 Claim: Mark, the show's director, says ADSB Exchange data he displays shows tail SUBND transmitting from the Duncan Aviation FBO in Provo from 9:05:36 a.m. to 10:34:05 a.m. (local time, after subtracting 7 hours from UTC) and again from 12:40:53 p.m. to 1:29:40 p.m. on September 10, 2025, without the aircraft moving from its position, and the host repeats these times.
 
 Anchored Artifacts: A-1418.1
-Mentions: N-1, N-2, N-67, N-262
+Mentions: N-3, N-67, N-262
 
 Related Nodes: N-10253
 
@@ -889,9 +889,9 @@ Investigative Direction: Pull the underlying ADSB Exchange raw data independentl
 
 **C-1720** Documented Overlaps Between Egyptian Aircraft and Erika Kirk's Locations
 
-Claim Timestamp: 00:14:51–00:18:42
+Claim Timestamp: 00:16:40
 
-Claim: A host-prepared spreadsheet displays 68 overlap instances (later expanded to 73) between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, with 29 of those instances also involving Charlie Kirk.
+Claim: A spreadsheet the host shows, built on research by a viewer she calls a "mommy sleuth", displays 68 overlap instances (the host later says she has added more, making 73) between Egyptian aircraft SUBND/SUBTT and Erika Kirk's documented locations between 2022 and September 2025, with 29 of those instances also involving Charlie Kirk.
 
 Anchored Artifacts: A-1419.1, A-1419.2
 Mentions: N-1, N-2, N-265
@@ -904,12 +904,12 @@ Investigative Direction: Verify each overlap instance against independent ADSB/H
 
 **C-1721** Host Says Charlie Kirk Was Present in 29 of the Documented Overlap Instances
 
-Claim Timestamp: 00:17:49–00:18:42
+Claim Timestamp: 00:17:05
 
 Claim: The host says that, of the overlap instances documented in the spreadsheet she shows, 29 included Charlie Kirk's presence.
 
 Anchored Artifacts: A-1419.1
-Mentions: N-1, N-2
+Mentions: N-1
 
 Related Nodes: N-10253
 
@@ -919,12 +919,12 @@ Investigative Direction: Independently verify the 29-instance subset using cross
 
 **C-1722** Overlap Instances Clustered Within Five U.S. States
 
-Claim Timestamp: 00:17:49–00:18:42
+Claim Timestamp: 00:17:14
 
 Claim: The host claims the documented overlap flights cluster primarily within Kansas, Missouri, Nebraska, Delaware, and Utah.
 
 Anchored Artifacts: A-1419.1
-Mentions: N-2
+Mentions: 
 
 Related Nodes: N-10253
 
@@ -954,7 +954,7 @@ Claim Timestamp: 00:23:51–00:25:54
 Claim: Host states that Andrew Kolvet, while in the hospital on September 10, told her that there was a "credible threat" against her and Tucker Carlson and advised them to lay low, and that no federal agency has since contacted her directly about the threat.
 
 Anchored Artifacts: A-1424 (verbal reference; no displayed artifact)
-Mentions: N-1, N-2, N-22, N-14
+Mentions: N-3, N-14, N-22
 Related Nodes: N-10258
 
 Investigative Direction: Obtain corroborating testimony from Andrew Kolvet, Tucker Carlson, or hospital records; determine which agency allegedly originated the threat warning.
@@ -997,7 +997,7 @@ Claim Timestamp: 00:27:30–00:29:31
 Claim: Host reads four specific license plates associated with the rental vehicles: T09 2Zs (silver 2025 Toyota RAV4, Utah), CWN N872 (white 2025 Toyota Camry, Arizona), TN12KM (white 2023 Toyota RAV4, Utah), and Z923DA (black 2025 Toyota 4Runner, Utah).
 
 Anchored Artifacts: A-1421.1, A-1421.2, A-1421.3, A-1421.4
-Mentions: N-262
+Mentions: 
 
 Related Nodes: N-10256
 
@@ -1012,7 +1012,7 @@ Claim Timestamp: 00:34:07–00:35:11
 Claim: "Wolves and Finance" YouTube video asserts that for fiscal year 2024, the IRS Form 990 is posted for Turning Point USA but is missing for Turning Point Action, Turning Point Endowment, and America's Turning Point.
 
 Anchored Artifacts: A-1420.1
-Mentions: N-2
+Mentions: 
 
 Related Nodes: N-10254
 
@@ -1027,7 +1027,7 @@ Claim Timestamp: 00:37:29–00:39:37
 Claim: In the "Wolves and Finance" video clip the host plays, the presenter says Schedule I of Turning Point USA's FY2024 Form 990 shows $8,560,625 sent to America's Turning Point.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-2
+Mentions: 
 
 Related Nodes: N-10254
 
@@ -1042,7 +1042,7 @@ Claim Timestamp: 00:35:11–00:36:30
 Claim: The "Wolves and Finance" video the host plays asserts that the decision not to file three of four TPUSA-related financial statements occurred four months before Charlie Kirk appointed a new COO, requested a new audit, and was murdered.
 
 Anchored Artifacts: A-1420.1, A-1420.3
-Mentions: N-1, N-2
+Mentions: N-1
 
 Related Nodes: N-10254
 
@@ -1052,12 +1052,12 @@ Investigative Direction: Obtain dated documentation of Charlie Kirk's audit requ
 
 **C-1731** TPUSA 501(c)(3) Arm Reduced Staff by 33% While Salary Costs Increased
 
-Claim Timestamp: 00:43:57–00:44:30
+Claim Timestamp: 00:43:40
 
-Claim: Host states that Turning Point USA's 501(c)(3) arm experienced a 33% staff reduction while salary costs increased.
+Claim: The host says the "Wolves and Finance" video, which she did not show, states that Turning Point USA's 501(c)(3) arm cut staff by 33% while the cost of salaries went up, which she agrees looks suspicious.
 
 Anchored Artifacts: A-1420.2
-Mentions: N-2
+Mentions: 
 
 Related Nodes: N-10254
 
@@ -1067,9 +1067,9 @@ Investigative Direction: Verify the staff-count and salary figures directly agai
 
 **C-1732** Erika Kirk Assumed CEO Role on September 18, 2025
 
-Claim Timestamp: 00:42:57–00:43:57
+Claim Timestamp: 00:42:25
 
-Claim: "Wolves and Finance" video and host confirm that Erika Kirk became CEO of Turning Point USA on September 18, 2025, eight days after Charlie Kirk's death.
+Claim: In the "Wolves and Finance" video the host plays, the presenter says Erika Kirk assumed the role of CEO of Turning Point USA on September 18, 2025, 8 days after Charlie Kirk was murdered.
 
 Anchored Artifacts: A-1420.1
 Mentions: N-1, N-2
@@ -1101,7 +1101,7 @@ Claim Timestamp: 00:21:00–00:21:54
 Claim: Mark, the show's director, says ADSB data shows SUBND transponder windows on September 10 were 9:05-10:34 a.m. and 12:40-1:29 p.m. (local time, using UTC minus 7 hours).
 
 Anchored Artifacts: A-1418.1
-Mentions: N-67, N-262
+Mentions: N-67
 
 Related Nodes: N-10253
 
@@ -1112,7 +1112,7 @@ Investigative Direction: Verify the UTC-to-local conversion; see flag re dayligh
 **C-3648** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:48:53
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: The host tells YouTubers and mommy sleuths to keep sending emails and says the "decentralized intelligence agency" is going to solve this.
 Transcript Snippet: ...emails and we are going to solve this thing. The decentralized intelligence agency is going to solve this thing and like I said when I tell you what I know tomorrow it it's just we'r...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1151,9 +1151,9 @@ Investigative Direction: Preserve as brand / network framing claim (M-12 alias "
 
 **C-3735** Andrew K. Smith interview cited as reason Charlie Kirk flew into Salt Lake City
 
-Claim Timestamp: 00:10:59–00:14:51
+Claim Timestamp: 00:12:50
 
-Claim: Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10 because of a morning "restaurantology" interview with Andrew K. Smith, whom she describes as a managing director of a restaurant fund that nobody really knows.
+Claim: Host states that Charlie Kirk flew into Salt Lake City rather than the closer Provo airport on September 10, ostensibly because of a morning "restaurantology" interview with Andrew K. Smith, whom she describes as a managing director of a restaurant fund that nobody really knows.
 
 Transcript Snippet: He's a managing director of a restaurant fund, Andrew K. Smith, out of nowhere does this restauranttology interview with Charlie.
 
@@ -1411,7 +1411,7 @@ Claim: The host says that for a podcast interview people travel to Charlie, that
 Transcript Snippet: Otherwise, for the sake of a podcast, people travel to Charlie. Okay? If you if you want to get Charlie, you're gonna travel to Charlie to make that happen.
 
 Anchored Artifacts: A-1424.2
-Mentions: N-1, N-266, N-3
+Mentions: N-1, N-3
 Related Nodes: N-11333, N-10253
 Supports: C-3735
 Tags: relevance:core
@@ -1486,7 +1486,7 @@ Investigative Direction: Review the sleuth's email and method (kept anonymous by
 
 Claim Timestamp: 00:17:49
 
-Claim: The host says that when influencers such as Josh Hammer and Alex Clark lie about her, Turning Point stays silent, and nobody at Turning Point ever clarifies that she is telling the truth or never acknowledged that the plane was familiar to them.
+Claim: The host says that when influencers such as Josh Hammer and Alex Clark lie, she gets attacked while Turning Point stays silent, that nobody at Turning Point ever steps in to clarify she is telling the truth, and she asks why Turning Point did not acknowledge that the plane was familiar to them.
 
 Transcript Snippet: Nobody at Turning Point ever just steps to clarify that I'm on to something or I'm telling the truth about something.
 
@@ -1751,7 +1751,7 @@ Transcript Snippet: Israel is growing increasingly alarming in terms of legislat
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10026
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the specific legislation the host means and which legislature is considering it.
 
 ---
@@ -1799,7 +1799,7 @@ Transcript Snippet: not just they filed for an extension and then miss the exten
 Anchored Artifacts: A-1420.1
 Mentions: N-3
 Related Nodes: N-10000, N-10254
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain Form 8868 extension filings and the IRS filing status for the three missing returns.
 
 ---
@@ -1881,7 +1881,7 @@ Transcript Snippet: I think that was October 15th was a tax extension deadline. 
 Anchored Artifacts: A-1420.1
 Mentions: N-3
 Related Nodes: N-10000, N-10254
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Confirm TPUSA's fiscal year end and the corresponding Form 990 and extended due dates, and whether the returns were filed after the episode (November 17, 2025).
 
 ---
@@ -1897,7 +1897,7 @@ Transcript Snippet: If you go back and you look at Turning Point USA's filings b
 Anchored Artifacts: A-1420.1
 Mentions: N-3
 Related Nodes: N-10000, N-10254
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Compare IRS filing dates for TPUSA, Action, Endowment and America's Turning Point across several prior years.
 
 ---
@@ -1961,7 +1961,7 @@ Transcript Snippet: If we look at the prior year, the majority of the money was 
 Anchored Artifacts: A-1420.2
 Mentions: N-476
 Related Nodes: N-11332, N-10254
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Pull America's Turning Point's prior-year Form 990 (Part VII, Part IX and Schedule O) to check employee count and salary expense, including payments to a related staffing entity.
 
 ---
@@ -1993,7 +1993,7 @@ Transcript Snippet: they audited Turning Point USA, Turning Point Action, Turnin
 Anchored Artifacts: A-1420.3
 Mentions: N-476
 Related Nodes: N-10896, N-10925, N-11331, N-11332
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the Baker Tilly audit report and notes for fiscal year 2024 and confirm the entities covered and the opinion type.
 
 ---
@@ -2009,7 +2009,7 @@ Transcript Snippet: Baker Tilly's audit opinion letter is signed after Turning P
 Anchored Artifacts: A-1420.3
 Mentions: N-476
 Related Nodes: N-10896, N-10254
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check the signature date on the audit opinion letter against the original and extended Form 990 due dates.
 
 ---
@@ -2018,7 +2018,7 @@ Investigative Direction: Check the signature date on the audit opinion letter ag
 
 Claim Timestamp: 00:43:01
 
-Claim: The host says it is possible, though she thinks low probability, that the outside auditor was shown all documentation and gave a clean bill of health and that Turning Point then decided not to file, while the missed filing extension deadline is a fact.
+Claim: The host says it is possible, though probably a low probability, that the outside auditor was shown all documentation and gave a clean bill of health and that Turning Point then decided not to file, while the missed filing extension deadline is a fact.
 
 Transcript Snippet: it is possible that when they used that outside auditor, that they showed them all of the documentation and then they gave him a clean bill of health and then for whatever reason, Turning Point decided not to file.
 
@@ -2099,7 +2099,7 @@ Investigative Direction: Seek platform or third-party bot analysis of the accoun
 
 Claim Timestamp: 00:52:00
 
-Claim: The host says the first thing her opponents did during her grief stage was to pretend that she and Charlie did not even have a relationship, because they knew she would be the one to defend him.
+Claim: The host says the first thing her opponents did during her grief stage was to pretend that she and Charlie did not even have a relationship, because they knew she was the anomaly who would burn it to the ground rather than side with a lie.
 
 Transcript Snippet: the first thing they had to do was when I was in my grief stage was to try to pretend Charlie and I didn't even have a relationship
 
@@ -2144,7 +2144,7 @@ Investigative Direction: Check state public-records law and Flock's contract ter
 
 Claim Timestamp: 00:52:35
 
-Claim: An off-camera producer says Flock is a company running a network of automated license plate readers dotted through pretty much every town in the United States.
+Claim: An off-camera voice on the show says Flock is a company running a network of automated license plate readers dotted throughout pretty much every town in the United States.
 
 Transcript Snippet: There's a a network run by a company called Flock of Automated license plate readers that are dotted throughout pretty much every town in the United States.
 
@@ -2227,7 +2227,7 @@ Transcript Snippet: I told you. I felt it spiritually. Charlie told me he was be
 
 Anchored Artifacts: 
 Mentions: N-1, N-3
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Dream report with no documentary anchor; recorded as said.
 
 ---

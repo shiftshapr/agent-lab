@@ -1512,7 +1512,7 @@
       "@type": "Person",
       "@id": "N-714",
       "ref": "N-714",
-      "name": "Tom Claire",
+      "name": "Tom Clare",
       "type": "person",
       "description": "First named by the host at 00:09:25 in episode 36. Described as having sent a December 18, 2024 follow-up email about the cease and desist; his role is not stated in the episode.",
       "related_artifacts": [],
@@ -1564,7 +1564,7 @@
       "@type": "Organization",
       "@id": "N-11008",
       "ref": "N-11008",
-      "name": "Satis",
+      "name": "Satys",
       "type": "organization",
       "description": "French aircraft-painting company, rendered Satis in the transcript, that announced a December 2024 deal for a Wilmington, Delaware hangar. The host says its CEO knows Emmanuel Macron and that her source and a tip show it was a front rather than a maintenance base.",
       "related_artifacts": [],
@@ -1708,7 +1708,7 @@
       "@id": "C-1761",
       "ref": "C-1761",
       "label": "Host's Legal Team Identified No Delaware Jurisdiction Basis in Macron Lawsuit (July 27, 2025)",
-      "claim": "Displayed legal-team communication asserts the Macron lawsuit should be moved/dismissed for forum non conveniens, citing host's Tennessee domicile, lack of Delaware defamation, Tennessee-based witnesses, and Macron parties not being Delaware citizens.",
+      "claim": "Displayed legal-team communication says they will likely move to dismiss or stay the Macron lawsuit as inconvenient to litigate in Delaware, citing that the host is in Tennessee, her Delaware companies did not defame anyone, the witnesses are in Tennessee, and the Macrons are not citizens of Delaware.",
       "anchored_artifacts": [
         "A-1446.1"
       ],
@@ -1719,7 +1719,9 @@
       "claim_timestamp": "00:18:38",
       "investigative_direction": "Obtain the underlying court filings and motion-to-dismiss documents; verify jurisdictional analysis against Macron Delaware corporate registrations; check final ruling on motion.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-82",
+        "N-381"
       ]
     },
     {
@@ -1739,7 +1741,6 @@
       "claim_timestamp": "00:34:36",
       "investigative_direction": "Compare full Shawn Ryan interview transcript with authenticated text-message records; verify who authored and received the communications.",
       "mentions_person_refs": [
-        "N-226",
         "N-268",
         "N-272",
         "N-273"
@@ -1750,7 +1751,7 @@
       "@id": "C-1763",
       "ref": "C-1763",
       "label": "Harpole Clip Presents Flood–Long Text Exchange on Student Roof Access at Sorenson Center",
-      "claim": "In a clip the host plays, Brian Harpole presents a text exchange between Dan Flood and Chief Long, which the host says documents an outreach about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), a request for either controlled access or TP personnel presence, and Chief Long's response \"I got you covered.\"",
+      "claim": "In a clip the host plays, Brian Harpole presents what the host says is a text exchange between Dan Flood and Chief Long about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), asking for either controlled access or one of his guys to be there, with Chief Long's last reply \"I got you covered.\"",
       "anchored_artifacts": [
         "A-1448.1"
       ],
@@ -1761,6 +1762,7 @@
       "claim_timestamp": "00:34:36",
       "investigative_direction": "Authenticate text records via UVU and Turning Point; cross-reference with UVU Police event-day access logs and rooftop control measures.",
       "mentions_person_refs": [
+        "N-268",
         "N-272",
         "N-273"
       ]
@@ -1781,7 +1783,6 @@
       "claim_timestamp": "00:41:28",
       "investigative_direction": "Submit additional GRAMA requests; check for court-issued preservation orders; verify chain-of-custody with other involved agencies.",
       "mentions_person_refs": [
-        "N-274",
         "N-40"
       ]
     },
@@ -1799,10 +1800,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:41:28",
-      "investigative_direction": "Obtain Washington County's written retention policy; verify standard practice for high-profile cases; check whether Utah County or any other agency holds preserved copies.",
-      "mentions_person_refs": [
-        "N-274"
-      ]
+      "investigative_direction": "Obtain Washington County's written retention policy; verify standard practice for high-profile cases; check whether Utah County or any other agency holds preserved copies."
     },
     {
       "@type": "Claim",
@@ -1838,7 +1836,9 @@
       "claim_timestamp": "00:14:15",
       "investigative_direction": "Obtain full speech transcript and video; verify exact date, venue, and audience; cross-reference with TPUSA's own published event materials.",
       "mentions_person_refs": [
-        "N-22"
+        "N-22",
+        "N-37",
+        "N-9"
       ]
     },
     {
@@ -1903,7 +1903,7 @@
       "@id": "C-4977",
       "ref": "C-4977",
       "label": "Host Says Kolvet Told Her It Was Supposed to Be Her",
-      "claim": "The host says that about 72 hours after the assassination Andrew Kolvet told her on the phone, 'Candace, it was supposed to be you,' which she first took as grief bargaining and now questions.",
+      "claim": "The host says that maybe 72 hours at most after the assassination Andrew Kolvet told her on the phone, 'Candace, it was supposed to be you,' which she first took as grief bargaining and now questions.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -1934,7 +1934,8 @@
       "mentions_person_refs": [
         "N-14",
         "N-22",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -2227,8 +2228,8 @@
       "@type": "Claim",
       "@id": "C-4993",
       "ref": "C-4993",
-      "label": "Host Says Tom Claire Sent a Follow-Up December 18 Email She Also Did Not Receive",
-      "claim": "The host says that on December 18, 2024, Tom Claire sent a follow-up email about the cease and desist to the same unmonitored box, so she again did not receive it.",
+      "label": "Host Says Tom Clare Sent a Follow-Up December 18 Email She Also Did Not Receive",
+      "claim": "The host says that on December 18, 2024, Tom Clare sent a follow-up email about the cease and desist to the same unmonitored box, so she again did not receive it.",
       "anchored_artifacts": [
         "A-2723.1"
       ],
@@ -2238,7 +2239,7 @@
       "tags": [],
       "claim_timestamp": "00:09:25",
       "investigative_direction": "Obtain the December 18, 2024 email and its delivery headers; confirm the sender's identity and role.",
-      "transcript_snippet": "on December 18th, Tom Claire sends another follow-up email regarding the cease and desist. And again, I don't receive it because he's sending it to this random box.",
+      "transcript_snippet": "on December 18th, Tom Clare sends another follow-up email regarding the cease and desist. And again, I don't receive it because he's sending it to this random box.",
       "mentions_person_refs": [
         "N-714",
         "N-3"
@@ -2790,7 +2791,7 @@
       "@id": "C-5021",
       "ref": "C-5021",
       "label": "Host Suspects Poussard's Messages Were Being Read and Tracked",
-      "claim": "The host says she fears that Xavier Poussard's messages have been read and tracked for longer than she realized, and that this is why the cease and desist went out in December.",
+      "claim": "The host says that if her inclination is right that Xavier Poussard's messages have been read and tracked for longer than she realized, the reason the cease and desist went out in December was to ward her off sitting down with him.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11011"
@@ -2959,7 +2960,7 @@
       "@id": "C-5030",
       "ref": "C-5030",
       "label": "Host Says France Could Help by Saying Who Landed in Wilmington",
-      "claim": "The host says she thinks France should be able to say who landed in Wilmington on the day in question and was settled over to 910 King, given the hangar lease.",
+      "claim": "The host says she thinks France should be able to help by saying who landed in Wilmington and was taken to 910 King, given that it decided to lease the hangar.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11008",

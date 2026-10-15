@@ -49,7 +49,7 @@
 
 This episode presents the host's framing that a coordinated "crash out" is occurring across Christian Zionist commentators, right-wing media figures, and AI platforms in response to her ongoing Charlie Kirk assassination investigation series. The evidentiary core of the show consists of eleven external artifacts played or read aloud: six audio clips (Glenn Beck/Steve Baker, Lance Wallnau, Frank Turek, Allie Beth Stuckey, Mark Levin, Keri Smith), one live display of text messages allegedly from Charlie Kirk, and four social-media statements (Seth Dillon, Joel Berry, Frank McCormick, Grok). These artifacts collectively document the public-facing reaction pattern rather than introducing new primary evidence on the Kirk case itself.
 
-The episode advances two substantive investigative vectors. First, it introduces a "Christian Zionist pastors connection" thesis that links NAR (New Apostolic Reformation) figures – most prominently Lance Wallnau – to Turning Point USA Faith via alleged financial and operational ties, situating this within a broader "faith-military constellation" claim. Second, it relays the Steve Baker / Glenn Beck report identifying Shawnie Ray Kirkup/Kirkhoff as the alleged January 6 pipe-bomb dropper, tying that revelation to the broader "feds behind major events" framing. The episode also advances a single unverified tip-based claim that federal agents seized Timpanogos Hospital footage.
+The episode advances two substantive investigative vectors. First, it introduces a "Christian Zionist pastors connection" thesis that links NAR (New Apostolic Reformation) figures – most prominently Lance Wallnau – to Turning Point USA Faith via alleged financial and operational ties, situating this within a broader "faith-military constellation" claim. Second, it relays the Steve Baker / Glenn Beck report identifying Shauni Rae Kerkhoff/Kerkhoff as the alleged January 6 pipe-bomb dropper, tying that revelation to the broader "feds behind major events" framing. The episode also advances a single unverified tip-based claim that federal agents seized Timpanogos Hospital footage.
 
 Structurally, Episode 29 functions as a reaction-aggregation and pattern-naming installment: it does not directly advance the Kirk forensic case but accumulates the response artifacts needed to support the host's "panic" and "coordinated pushback" thesis across future episodes.
 
@@ -95,7 +95,7 @@ Confidence Level: Medium
 
 **A-1367** Glenn Beck / Steve Baker Interview Bundle
 
-**A-1367.1** Glenn Beck broadcast featuring Steve Baker on Shawnie Ray Kirkup / January 6 pipe bombs
+**A-1367.1** Glenn Beck broadcast featuring Steve Baker on Shauni Rae Kerkhoff / January 6 pipe bombs
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -107,7 +107,7 @@ Confidence Level: Medium (audio played)
 
 **A-1368** CIA Spokesperson Statement Bundle
 
-**A-1368.1** Liz Lyons (CIA spokesperson) statement re: Shawnie Kirkhoff / Capitol Police Campus Security
+**A-1368.1** Liz Lyons (CIA spokesperson) statement re: Shauni Kerkhoff / Capitol Police Campus Security
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -706,7 +706,7 @@ Investigative Pressure: Low
 
 **N-240** Shauni Kerkhoff
 
-Person identified by Steve Baker (as "Kirkup") and by CIA spokesperson Liz Lyons (as "Kirkhoff") in connection with the January 6 pipe bombs; spelling discrepancy is preserved.
+Person identified by Steve Baker (as "Kirkup") and by CIA spokesperson Liz Lyons (as "Kerkhoff") in connection with the January 6 pipe bombs; spelling discrepancy is preserved.
 
 Evidence Count: 2
 Claim Count: 2
@@ -860,9 +860,9 @@ Investigative Pressure: Low
 
 *Related: A-1377.1, C-1665*
 
-**N-10241** Shawnie Ray Kirkup / Kirkhoff Identity Verification
+**N-10241** Shauni Rae Kerkhoff / Kerkhoff Identity Verification
 
-Persistent discrepancy in the episode between the spelling "Kirkup" (Steve Baker, via Glenn Beck audio) and "Kirkhoff" (CIA spokesperson Liz Lyons); preservation target for cross-source verification.
+Persistent discrepancy in the episode between the spelling "Kirkup" (Steve Baker, via Glenn Beck audio) and "Kerkhoff" (CIA spokesperson Liz Lyons); preservation target for cross-source verification.
 
 Evidence Count: 2
 Claim Count: 2
@@ -920,11 +920,11 @@ Related Nodes: N-10242
 
 Investigative Direction: Retrieve the full source video to verify exact wording, context, and date.
 
-**C-1654** Frank Turek Described NAR as a Cult "Darker than a Cult"
+**C-1654** Frank Turek Described NAR Theology as Aberrant and Occult-Like
 
 Claim Timestamp: 00:18:06–00:18:30
 
-Claim: In an audio clip played on the episode, Frank Turek described the New Apostolic Reformation as having an "aberrant" hermeneutic and being "more occult-like than Christian," and characterized NAR as "darker than a cult."
+Claim: In an audio clip played on the episode, Frank Turek described the New Apostolic Reformation as having an "aberrant" hermeneutic and doing things "more new agey or more even occult-like than they are Christian"; the host introduces the clip by saying Turek acknowledged NAR was a cult, "actually darker than a cult."
 
 Anchored Artifacts: A-1366.1
 Mentions: N-7
@@ -932,11 +932,11 @@ Mentions: N-7
 
 Investigative Direction: Retrieve the full source audio/podcast to verify exact wording and full context.
 
-**C-1655** Steve Baker (via Glenn Beck) Identified Shawnie Ray Kirkup as the January 6 Pipe-Bomb Dropper
+**C-1655** Host Says Baker Identified Capitol Police Officer as Pipe-Bomb Dropper
 
 Claim Timestamp: 00:08:09–00:09:40
 
-Claim: Reporter Steve Baker, interviewed on Glenn Beck's program and played in the episode, stated that a 31-year-old United States Capitol Police officer named Shawnie Ray Kirkup was identified as the person who dropped off the January 6 pipe bombs, and that this was a five-year forensic investigation.
+Claim: The host says the person responsible for dropping off the January 6 pipe bombs was revealed to be a 31-year-old woman and United States Capitol Police officer she names as Shauni Kerkhoff, credits reporter Steve Baker with the discovery, plays Glenn Beck interviewing Baker (who says a federal source responded "She's one of us"), and says it was a 5-year investigation involving forensic analysis.
 
 Anchored Artifacts: A-1367.1
 Mentions: N-238, N-239, N-240
@@ -945,18 +945,18 @@ Related Nodes: N-10241
 
 Investigative Direction: Verify against federal charging documents, the Glenn Beck broadcast archive, and Steve Baker's contemporaneous reporting.
 
-**C-1656** Liz Lyons (CIA) Stated Shawnie Kirkhoff Worked in Capitol Police Campus Security
+**C-1656** Liz Lyons (CIA) Stated Shauni Kerkhoff Worked in Capitol Police Campus Security
 
 Claim Timestamp: 00:10:32
 
-Claim: CIA spokeswoman Liz Lyons, as relayed by the host, stated that "Shawnie Kirkhoff" worked in Capitol Police Campus Security and lived in Alexandria, Virginia.
+Claim: CIA spokeswoman Liz Lyons, as relayed by the host, stated that Shauni Kerkhoff, "the alleged person who dropped off these pipe bombs," worked in Capitol Police Campus Security; the host adds that she lives in Alexandria, Virginia.
 
 Anchored Artifacts: A-1368.1
 Mentions: N-240, N-241
 
 Related Nodes: N-10241
 
-Investigative Direction: Retrieve the original CIA press statement or statement of record to verify wording and confirm whether "Kirkhoff" and "Kirkup" refer to the same individual.
+Investigative Direction: Retrieve the original CIA press statement or statement of record to verify wording and confirm whether "Kerkhoff" and "Kirkup" refer to the same individual.
 
 **C-1657** Frank McCormick Claimed AI Analysis Showed Charlie Kirk Text Messages Were "Digitally Fabricated"
 
@@ -1018,11 +1018,11 @@ Mentions: N-245, N-3, N-1
 
 Investigative Direction: Retrieve the original Grok/X post and compare against Candace Owens' contemporaneous statements on the show.
 
-**C-1662** Allie Beth Stuckey Warned Viewers Against Asking Questions Without "Hard Evidence"
+**C-1662** Allie Beth Stuckey Said Implicating a Real Person in a Murder Plot Requires Hard Evidence
 
-Claim Timestamp: 00:33:55–00:34:48
+Claim Timestamp: 00:33:16
 
-Claim: In an audio clip played on the episode, Allie Beth Stuckey told viewers they were "outsourcing your critical thinking" by following the Candace Owens investigation and warned that implicating a real person in a murder required being "100% sure" with "hard evidence."
+Claim: In an audio clip played on the episode, Allie Beth Stuckey told people who say they are seeking truth and asking questions that they were "outsourcing your critical thinking," and warned that implicating a real person in a murder plot required being "100% sure" and backed by "hard evidence."
 
 Anchored Artifacts: A-1374.1
 Mentions: N-229, N-3
@@ -1070,7 +1070,7 @@ Investigative Direction: Retrieve the original BBC article to verify the headlin
 
 Claim Timestamp: 00:01:46–00:03:01
 
-Claim: According to anonymous tips relayed by the host, federal agents seized footage at Timpanogos Hospital on the day of the Charlie Kirk shooting.
+Claim: According to tips the host says she received, federal agents seized footage at Timpanogos Hospital on the day of the Charlie Kirk shooting.
 
 Anchored Artifacts: A-1378.1
 Mentions: N-1
@@ -1091,7 +1091,7 @@ Transcript Snippet: it's kind of weird how the only people that seem to believe 
 
 Anchored Artifacts: 
 Mentions: N-3
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: This is a sweeping group characterisation; it could only be tested by surveying who publicly endorsed the official account.
 
 ---
@@ -1105,7 +1105,7 @@ Claim: The host says Timpanogos Hospital, where Charlie Kirk was taken, was furt
 Transcript Snippet: UV was a trauma one, and Timpanogos was trauma three
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-1
 Related Nodes: N-10149, N-10239
 Tags: relevance:core
 Investigative Direction: Check the Utah trauma center designations for both hospitals and the distance from the UVU campus.
@@ -1116,7 +1116,7 @@ Investigative Direction: Check the Utah trauma center designations for both hosp
 
 Claim Timestamp: 00:01:46
 
-Claim: The host says that after the Timpanogos routing became public she started hearing from other people that Charlie Kirk was definitely at UV Hospital.
+Claim: The host says that after people found it strange that Charlie Kirk was taken to Timpanogos, they started hearing from other people that he was definitely at UV Hospital.
 
 Transcript Snippet: we started hearing from other people that he was definitely at UV Hospital
 
@@ -1164,7 +1164,7 @@ Investigative Direction: Obtain the ambulance or vehicle arrival log, hospital i
 
 Claim Timestamp: 00:03:01
 
-Claim: The host says she finds it amiss that the Feds moved to grab footage both inside and outside the hospital immediately, adding the outside footage to her earlier tip about the inside footage.
+Claim: The host says she feels something is amiss if the Feds moved to grab the footage inside the hospital and outside the hospital immediately.
 
 Transcript Snippet: the Feds moved to grab the footage inside of the hospital immediately and outside of the hospital immediately
 
@@ -1195,7 +1195,7 @@ Investigative Direction: Check what, if anything, was later received and publish
 
 **C-7918** Host Says Fed Strategy Is to Put Out a Sloppy Narrative
 
-Claim Timestamp: 00:05:49
+Claim Timestamp: 00:04:43
 
 Claim: The host says she is starting to wonder whether every major publicly traumatizing event was organized by the Feds, and that their usual strategy is to get out a sloppy narrative rather than blame themselves.
 
@@ -1242,16 +1242,16 @@ Investigative Direction: Predictive; track later charging, resignations or testi
 
 ---
 
-**C-7921** Host Says Blaze Editor Was Stopped by Police at Kirkhoff Home
+**C-7921** Host Says Blaze Editor Was Stopped by Police at Kerkhoff Home
 
 Claim Timestamp: 00:10:32
 
-Claim: The host says Shawnie Kirkhoff lives in Alexandria, Virginia and is apparently under the watch of law enforcement, because the Blaze News editor-in-chief drove to her house and was instantly stopped by local police before being let go.
+Claim: The host says Shauni Kerkhoff lives in Alexandria, Virginia and is apparently under the watch of law enforcement, because the Blaze News editor-in-chief drove to her house and was instantly stopped by local police before being let go.
 
 Transcript Snippet: The Blaze News editor-in-chief decided to pull up to her house to just kind of see if any action was happening at her home. And then he instantly got stopped by local police before they allowed him to leave.
 
 Anchored Artifacts: A-1368.1
-Mentions: N-240, N-241
+Mentions: N-240
 Related Nodes: N-10241
 Tags: relevance:context
 Investigative Direction: Ask Blaze News whether its editor visited the address and whether a police contact was recorded; request the local police log.
@@ -1536,7 +1536,7 @@ Investigative Direction: Check contemporaneous reporting on how many Las Vegas s
 
 Claim Timestamp: 00:21:31
 
-Claim: The host says the Marine who carried out the Borderline Bar shooting had a family that knows Rob McCoy well and that McCoy is friends with that Marine.
+Claim: The host says a Marine's family knows Rob McCoy well and McCoy is friends with that Marine, and, in her words, that Marine's mother decided to storm into the Borderline bar and conduct a mass shooting.
 
 Transcript Snippet: a Marine who his family knows Rob McCoy well, Rob McCoy is friends with that Marine
 
@@ -1640,7 +1640,7 @@ Transcript Snippet: When my show hit number one globally last week, it was just 
 Anchored Artifacts: 
 Mentions: N-3
 Supports: C-1617
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check Podscribe or Spotify and Apple chart data for the week.
 
 ---
@@ -1656,7 +1656,7 @@ Transcript Snippet: You went after my sponsors. You emailed people. You got me b
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11099
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check Australian government records on her visa status and any lobbying that preceded it.
 
 ---
@@ -1665,14 +1665,14 @@ Investigative Direction: Check Australian government records on her visa status 
 
 Claim Timestamp: 00:29:06
 
-Claim: The host alleges that Joel Berry cheered on kids being killed and churches being bombed and insinuated that even Christians in Gaza are not really human beings and are all supporting Hamas.
+Claim: The host says she is never on the side of people who cheer on kids being killed and churches being bombed, and says Joel Berry insinuated that even the Christians in Gaza are not really human beings and are all supporting Hamas.
 
 Transcript Snippet: I am never on the side of people that cheer on kids being killed and uh churches being bombed and and insinuate as he did that even the Christians in Gaza should uh aren't really human beings
 
 Anchored Artifacts: A-1372.1
 Mentions: N-243
 Related Nodes: N-10063
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the specific Berry posts the host is characterising and compare their wording.
 
 ---
@@ -1719,7 +1719,7 @@ Claim: The host says she looked up the messages on her phone live on air and tha
 Transcript Snippet: Just looked up on my phone. These are not made up text messages.
 
 Anchored Artifacts: A-1370.1
-Mentions: N-244, N-3
+Mentions: N-3
 Contradicts: C-1657
 Tags: relevance:core
 Investigative Direction: Forensic review of the original device thread and its metadata would settle authenticity.
@@ -1752,7 +1752,7 @@ Transcript Snippet: I'm very surprised she's working with Alyssa Cordova
 Anchored Artifacts: 
 Mentions: N-229, N-231, N-3
 Related Nodes: N-10231
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check Stuckey's and Cordova's public collaborations and dates.
 
 ---
@@ -1761,7 +1761,7 @@ Investigative Direction: Check Stuckey's and Cordova's public collaborations and
 
 Claim Timestamp: 00:34:48
 
-Claim: The host says she did all the work herself, that people sent her material, and that her team then put together a timeline, and that she did not ask Allie Stuckey for any assistance.
+Claim: The host says she doesn't think they asked Allie Stuckey for any assistance at all, that she did all the work, that people sent her material, and that they then put together a timeline.
 
 Transcript Snippet: I did all the work um and people sent me stuff, and then we put together a timeline.
 
@@ -1879,7 +1879,7 @@ Claim: The host says Turning Point USA said it is not canceling Tucker Carlson a
 Transcript Snippet: Turning Point USA, credit to them, said, "We are not canceling Tucker Carlson."
 
 Anchored Artifacts: 
-Mentions: N-22, N-246, N-3
+Mentions: N-22, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Find the Turning Point statement and the AmericaFest speaker lineup.
@@ -1907,12 +1907,12 @@ Investigative Direction: Check the Turning Point event program for a Levin and C
 
 Claim Timestamp: 00:41:45
 
-Claim: In the audio played on air, Mark Levin says Tucker Carlson attacked his stepson, who is serving President Trump on his second tour, and in a safe room while missiles passed overhead.
+Claim: In the audio played on air, Mark Levin says Tucker Carlson attacked his stepson behind his back while the stepson was serving President Trump on his second tour, in safe rooms with ballistic missiles passing over his head.
 
 Transcript Snippet: You stabbed him in the back while he's serving President Trump on his second tour, while he's in safe rooms
 
 Anchored Artifacts: A-1375.1
-Mentions: N-246, N-22
+Mentions: N-246, N-22, N-5
 Tags: relevance:context
 Investigative Direction: Identify the stepson and the Carlson remarks Levin refers to.
 
@@ -2156,7 +2156,7 @@ Transcript Snippet: L Reeves did not even get to my book at all
 Anchored Artifacts: 
 Mentions: N-236, N-82, N-3
 Related Nodes: N-11159
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Watch the full CNN interview and tally topics covered.
 
 ---
@@ -2344,13 +2344,13 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty (N-240 / N-10241):** The episode alternates between "Shawnie Ray Kirkup" (Steve Baker / Glenn Beck audio) and "Shawnie Kirkhoff" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.
+- **Name uncertainty (N-240 / N-10241):** The episode alternates between "Shauni Rae Kerkhoff" (Steve Baker / Glenn Beck audio) and "Shauni Kerkhoff" (CIA spokesperson Liz Lyons statement). Preserve both spellings exactly as cited and treat identity verification as an open target.
 - **Tip-only artifact (A-1378):** The Timpanogos footage-seizure assertion (C-1666) rests entirely on an anonymous tip relayed by the host; no public document, screenshot, or independent corroboration is shown. Low confidence.
 - **Verbally referenced but not displayed (A-1368, A-1377):** The Liz Lyons CIA statement and the BBC Borderline headline were referenced rather than directly displayed; wording was paraphrased by the host.
 - **Host assertions lacking artifact anchors (not inscribed as claims):** Multiple substantive host statements in this episode lack artifact support and therefore fail the Claim Admission Test, including: (a) Lance Wallnau's father Carl Wallnau being a US Air Force major who served under General Patton; (b) the claim that Lance Wallnau privately directed large sums of money into Turning Point USA Faith (cited only to unnamed TP Faith sources); (d) the claim that four of six January 6 protest permits were issued to independent charismatic Christian groups; (e) the claim that Rob McCoy's mother "storms" the Borderline Bar (host-corrected herself mid-sentence to "that Marine's mother"); (f) the claim that Charlie Kirk had established "DOAJ"; (g) the claim that Kash Patel "injected himself" into the hospital events on the day of the shooting. These are recorded as framing premises or testimonial assertions for future verification but are not inscribed as evidence-backed claims.
 - **Reading-aloud reliability (A-1369, A-1371, A-1372, A-1373):** X / Twitter posts and the Grok statement were quoted or paraphrased by the host; original post URLs and exact text were not displayed on screen in this transcript.
 - **Possible transcription error (A-1365):** Transcript spells "Jehovah Rofey" – likely intended as "Jehovah Rapha"; preserved verbatim with flag.
-- **Requires human verification (multiple):** The Steve Baker / Glenn Beck identification of "Shawnie Ray Kirkup" should be cross-checked against federal court filings and Blaze News reporting to confirm spelling and charges.
+- **Requires human verification (multiple):** The Steve Baker / Glenn Beck identification of "Shauni Rae Kerkhoff" should be cross-checked against federal court filings and Blaze News reporting to confirm spelling and charges.
 
 ---
 
