@@ -1484,7 +1484,7 @@
       "@id": "C-4005",
       "ref": "C-4005",
       "label": "Trump posted the host's face on a Time magazine cover calling her the most vile person of the year",
-      "claim": "The host says President Trump posted her face on a Time magazine cover calling her the most vile person of the year.",
+      "claim": "The host says President Trump suddenly posted her face on Time magazine calling her the most vile person of the year.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -1704,7 +1704,7 @@
       "@id": "C-4016",
       "ref": "C-4016",
       "label": "Harpole's filing says he did not coordinate because he was not told of the Charis visit",
-      "claim": "Brian Harpole's court filing, read by the host, states that he did not coordinate with Charis Bible College or the Woodland Police Department because he was not advised Charlie Kirk would visit, and that Charlie Kirk often visited universities with only Dan Flood.",
+      "claim": "Brian Harpole's court filing, read by the host, states that he did not coordinate with Charis Bible College or the Woodland Police Department because he was not advised Charlie Kirk would visit, and that it was not uncommon for Charlie Kirk to visit universities with only Dan Flood.",
       "anchored_artifacts": [
         "A-2567.1"
       ],
@@ -2141,7 +2141,7 @@
       "@id": "C-4039",
       "ref": "C-4039",
       "label": "Kolvet was moved away from PR and crisis PR brought in, per Erika Kirk",
-      "claim": "The host says Erika Kirk told her that Andrew Kolvet was moved away from PR and that crisis PR was brought in.",
+      "claim": "The host says Andrew Kolvet was supposed to have been moved away from PR and that crisis PR was brought in, at least according to what Erika Kirk told her.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"

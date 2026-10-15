@@ -1942,6 +1942,60 @@
     [
       "\\bTerrell\\b",
       "Terryl"
+    ],
+    [
+      "\\bAmir Safari\\b",
+      "Amir Tsarfati"
+    ],
+    [
+      "\\bAndrew Colvin\\b",
+      "Andrew Kolvet"
+    ],
+    [
+      "\\bBradley Hansel\\b",
+      "Bradley Hansell"
+    ],
+    [
+      "\\bHansel\\b",
+      "Hansell",
+      [
+        110
+      ]
+    ],
+    [
+      "\\bCharlie Spearing\\b",
+      "Charlie Spiering"
+    ],
+    [
+      "\\bPierre Deleto\\b",
+      "Pierre Delecto"
+    ],
+    [
+      "\\bRichard Smaly\\b",
+      "Richard Smale"
+    ],
+    [
+      "\\bRaphael Schriber\\b",
+      "Raphael Schreiber"
+    ],
+    [
+      "\\bSchriber\\b",
+      "Schreiber",
+      [
+        109
+      ]
+    ],
+    [
+      "\\bBrad Hansel\\b",
+      "Brad Hansell"
+    ],
+    [
+      "\\bRichard Smalley\\b",
+      "Richard Smale",
+      [
+        105,
+        106
+      ]
     ]
   ]
 }

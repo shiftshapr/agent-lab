@@ -2192,7 +2192,7 @@
       "@id": "C-2896",
       "ref": "C-2896",
       "label": "Erika Kirk's old LinkedIn claimed ASU magna cum laude graduation",
-      "claim": "Erika Kirk's older LinkedIn page (since removed) stated she graduated from Arizona State University magna cum laude, in connection with a Great American Race audition video.",
+      "claim": "The host says Erika Kirk said in her Great American Race audition video that she graduated from Arizona State University magna cum laude, and later upgraded the credential to summa cum laude on her LinkedIn page, which has since been removed.",
       "anchored_artifacts": [
         "A-2071.1"
       ],
@@ -2279,7 +2279,9 @@
       "tags": [],
       "claim_timestamp": "00:26:59",
       "investigative_direction": "Locate the original favela video; verify any corroborating evidence (local news, authorities, contacts).",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-214"
+      ]
     },
     {
       "@type": "Claim",
@@ -2298,7 +2300,8 @@
       "investigative_direction": "Obtain the full PBD interview clip and timestamp; verify PBD's framing of prior coverage.",
       "mentions_person_refs": [
         "N-57",
-        "N-3"
+        "N-3",
+        "N-214"
       ]
     },
     {
@@ -2318,7 +2321,8 @@
       "investigative_direction": "Verify the original post and Alex Clark's relationship with Nick Shirley.",
       "mentions_person_refs": [
         "N-3",
-        "N-99"
+        "N-99",
+        "N-214"
       ]
     },
     {
@@ -2326,7 +2330,7 @@
       "@id": "C-2904",
       "ref": "C-2904",
       "label": "Brian Harpole's alibi flights were 1:49 PM Dallas to Salt Lake City on the 9th",
-      "claim": "According to flight records shown to Candace during her private interview with Erika, Brian Harpole's alibi flights on the 9th departed Dallas at 1:49 PM for Salt Lake City – a window that does not cover the morning timeframe when Mitch reported seeing him at Fort Huachuca.",
+      "claim": "The host says that during her private interview Erika Kirk handed her Brian Harpole's flights, which were for 1:49 p.m. on the 9th going to Utah, and that this did not cover the time period in which Mitch said he saw him at Fort Huachuca.",
       "anchored_artifacts": [
         "A-2075.1"
       ],
@@ -2337,7 +2341,9 @@
       "claim_timestamp": "00:49:33",
       "investigative_direction": "Verify the flight records independently through airline records or TSA; obtain Brian Harpole's full itinerary for the date in question.",
       "mentions_person_refs": [
-        "N-267"
+        "N-267",
+        "N-2",
+        "N-362"
       ]
     },
     {
@@ -2365,7 +2371,7 @@
       "@id": "C-2906",
       "ref": "C-2906",
       "label": "Paramount Tactical admitted the Fort Huachuca alibi photo boy is not Erika Kirk's son",
-      "claim": "Paramount Tactical admitted over the weekend that the boy depicted in the Fort Huachuca alibi photograph is not Erika Kirk's son; a source close to the family reportedly says the child is neither of Erika's children.",
+      "claim": "The host says Paramount Tactical admitted over the weekend that the boy in the Fort Huachuca alibi photograph is not Erika Kirk's son, and that someone very close to the family told her the child is neither of Erika's children.",
       "anchored_artifacts": [
         "A-2075.3"
       ],
@@ -2383,8 +2389,8 @@
       "@type": "Claim",
       "@id": "C-2907",
       "ref": "C-2907",
-      "label": "Andrew Kolvet coordinated the Harpole alibi pushback with Paramount Tactical and Valhalla",
-      "claim": "Per host, Andrew Kolvet was the coordinator behind the Paramount Tactical and Valhalla YouTube efforts to push back on the Fort Huachuca allegations against Brian Harpole, despite Erika's claim that Kolvet was being moved off of PR responsibilities.",
+      "label": "Andrew Kolvet Coordinated Erika Alibi Pushback with Paramount Tactical and Valhalla",
+      "claim": "Per the host, Andrew Kolvet was the coordinator behind the Paramount Tactical and Valhalla YouTube efforts, including the alibi photo given for Erika Kirk, to push back on the Fort Huachuca allegations, despite Erika's claim that Kolvet was being moved off of PR responsibilities.",
       "anchored_artifacts": [
         "A-2075.2",
         "A-2075.3"
@@ -2397,7 +2403,7 @@
       "investigative_direction": "Obtain direct evidence of coordination (emails, DMs, communications); obtain statement from Kolvet, Paramount Tactical, and Valhalla.",
       "mentions_person_refs": [
         "N-14",
-        "N-267"
+        "N-2"
       ]
     },
     {
@@ -2417,7 +2423,8 @@
       "investigative_direction": "Obtain Candace's documented record of the interview; verify the flight records independently.",
       "mentions_person_refs": [
         "N-267",
-        "N-2"
+        "N-2",
+        "N-362"
       ]
     },
     {
@@ -2431,7 +2438,7 @@
         "N-11255"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Locate Erika Kirk's earlier public statements about going home to her family and compare them with the Hillsdale College commencement schedule.",
@@ -2450,7 +2457,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Obtain Erika Kirk's own statements on her protection status and any Secret Service or private security arrangements for the Hillsdale event.",
@@ -2476,7 +2483,7 @@
         "N-10667"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:02:41",
       "investigative_direction": "Pull Blake Neff's X reply to Project Constitution and confirm its wording, time and the post it answered.",
@@ -2698,7 +2705,7 @@
       "@id": "C-12983",
       "ref": "C-12983",
       "label": "Host Says Neff's Subway Killer Scenario Is TPUSA's Reason for Not Releasing the Video",
-      "claim": "The host says Blake Neff's subway killer scenario is the stated reason Turning Point USA will not release the video.",
+      "claim": "The host says viewers can decide whether to believe Blake Neff's subway killer scenario as the reason Turning Point USA will not release the video.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10936"
@@ -2775,7 +2782,7 @@
         "N-11248"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:17:23",
       "investigative_direction": "Obtain the audition video and ASU's records of degree and honors conferred on Erika Kirk.",
@@ -2798,7 +2805,7 @@
         "N-11248"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:18:10",
       "investigative_direction": "Request ASU's degree verification (National Student Clearinghouse) and the commencement program for Erika Kirk's class.",
@@ -2818,7 +2825,7 @@
         "N-10665"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:18:10",
       "investigative_direction": "Collect archived TPUSA and third-party bios of Erika Kirk and date each claimed credential.",
@@ -2880,7 +2887,7 @@
         "N-10666"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:24:42",
       "investigative_direction": "Identify who is using the term and what they cite for the claim that Shirley is media-created.",
@@ -2900,7 +2907,7 @@
         "N-10666"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:25:20",
       "investigative_direction": "Review the host's September 10 show and her follow-up conversation with the person for what was said and corrected.",
@@ -2916,13 +2923,13 @@
       "@id": "C-12993",
       "ref": "C-12993",
       "label": "Host Says Shirley Is Known for Uncovering Somali Daycare Welfare Fraud",
-      "claim": "The host says the person is credited with uncovering massive welfare fraud in the Somali community in Minnesota, including daycare fraud, which she did not follow.",
+      "claim": "The host says Nick Shirley is credited with uncovering massive welfare fraud in the Somali community in Minnesota, including daycare fraud, a story she says she did not follow.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10666"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:25:20",
       "investigative_direction": "Review the Minnesota daycare fraud reporting and the charging records that followed.",
@@ -2946,7 +2953,7 @@
         "N-11287"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:26:59",
       "investigative_direction": "Collect the posts defending Shirley and their timing relative to the host's remark.",
@@ -2961,13 +2968,13 @@
       "@id": "C-12995",
       "ref": "C-12995",
       "label": "Host Says a PBD Guest Said She Had Not Spoken to Charlie Since 2019",
-      "claim": "The host says Patrick Bet-David hosted a person who said she had not spoken to Charlie since 2019, and acknowledges that she and Charlie had not spoken.",
+      "claim": "The host says Patrick Bet-David hosted a person who said the host had not spoken to Charlie since 2019, and acknowledges that she and Charlie had not spoken.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10059"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:26:59",
       "investigative_direction": "Identify the guest and episode, and compare with the host's records of contact with Charlie Kirk after 2019.",
@@ -2987,7 +2994,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:28:05",
       "investigative_direction": "Compare with the host's other accounts of her relationship with Charlie Kirk and any messages from that period.",
@@ -3010,7 +3017,7 @@
         "N-10666"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:28:05",
       "investigative_direction": "Review the full PBD interview and PBD's earlier statements about Shirley to see whether he had addressed the host's remark before.",
@@ -3031,7 +3038,7 @@
         "N-10666"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:29:35",
       "investigative_direction": "Review Shirley's antifa and El Salvador videos for sourcing and the access he claims.",
@@ -3074,7 +3081,7 @@
         "N-10666"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:30:15",
       "investigative_direction": "Obtain the PBD episode and confirm the quote and context.",
@@ -3161,7 +3168,7 @@
         "N-10666"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:36:34",
       "investigative_direction": "Review Shirley's Cuba video and posts for what he says happened and when.",
@@ -3217,7 +3224,7 @@
         "N-11356"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:40:55",
       "investigative_direction": "Locate the Druski skit and Erika Kirk's or TPUSA's public response to it.",
@@ -3239,7 +3246,7 @@
         "N-11356"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:41:46",
       "investigative_direction": "Find Kolvet's and other TPUSA figures' posts characterizing the skit as racial.",
@@ -3367,7 +3374,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:45:18",
       "investigative_direction": "Search court dockets for any complaint against The Quartering and who is suing.",
@@ -3568,7 +3575,7 @@
       "@id": "C-13023",
       "ref": "C-13023",
       "label": "Host Says the Bari Weiss Interview Clip Cut Erika Addressing the Podcaster Candace Owens",
-      "claim": "The host says that the day after the Faulkner interview Erika did Bari Weiss and they cut a clip of her answering what she has to say to the podcaster Candace Owens.",
+      "claim": "The host says that the day after the Faulkner interview Erika did Bari Weiss and they cut the clip of her saying, \"What do you have to say to the podcaster Candace Owens?\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10349"
@@ -3737,7 +3744,8 @@
       "investigative_direction": "Obtain the scheduling messages for the December 15 meeting.",
       "transcript_snippet": "They scheduled it during the block where I would normally have my show. They said let's have a ceasefire. No one's going to talk",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-2"
       ]
     },
     {
@@ -3836,7 +3844,7 @@
       "@id": "C-13035",
       "ref": "C-13035",
       "label": "Host Says She Interviewed Mitch on the 18th",
-      "claim": "The host says she interviewed Mitch on the 18th, after Harpole did not respond and Erika's alibi did not cover him, and Mitch said he saw Erika on the 8th.",
+      "claim": "The host says she interviewed Mitch on the 18th, after she messaged Brian Harpole and Erika did not give her an alibi for him, and Mitch said he saw Erika on the 8th.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10367"
@@ -4264,7 +4272,7 @@
         "N-11255"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:56:04",
       "investigative_direction": "Collect the student messages and any Hillsdale student newspaper coverage.",
@@ -4295,8 +4303,7 @@
       "transcript_snippet": "You shouldn't be teaming up with them. But that's not how Erika lives.",
       "mentions_person_refs": [
         "N-2",
-        "N-1",
-        "N-582"
+        "N-1"
       ]
     },
     {
@@ -4312,7 +4319,7 @@
         "N-10649"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:59:04",
       "investigative_direction": "Watch for the launch of the site and its contents.",

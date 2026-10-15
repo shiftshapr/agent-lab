@@ -1,0 +1,811 @@
+[
+ {
+  "claim": "C-2894",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2895",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2896",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: audition video said ASU 'magna laude'; LinkedIn was later 'upgraded' to summa. Claim says old LinkedIn stated magna.",
+  "fix": {
+   "claim": "The host says Erika Kirk said in her Great American Race audition video that she graduated from Arizona State University magna cum laude, and later upgraded the credential to summa cum laude on her LinkedIn page, which has since been removed."
+  }
+ },
+ {
+  "claim": "C-2897",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2898",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2899",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2901",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Nick Shirley is named in the claim but Mentions is empty (N-214 missing).",
+  "fix": {
+   "mentions": [
+    "N-214"
+   ]
+  }
+ },
+ {
+  "claim": "C-2902",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Shirley is named and quoted in the claim; N-214 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-57",
+    "N-3",
+    "N-214"
+   ]
+  }
+ },
+ {
+  "claim": "C-2903",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim quotes 'Nick Shirley is a real journalist'; N-214 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-99",
+    "N-214"
+   ]
+  }
+ },
+ {
+  "claim": "C-2904",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: flights 'for 1:49 p.m. on the 9th going to Utah'. No Dallas, Salt Lake City or 'morning' stated. Erika and Mitch are named but not in Mentions.",
+  "fix": {
+   "claim": "The host says that during her private interview Erika Kirk handed her Brian Harpole's flights, which were for 1:49 p.m. on the 9th going to Utah, and that this did not cover the time period in which Mitch said he saw him at Fort Huachuca.",
+   "mentions": [
+    "N-267",
+    "N-2",
+    "N-362"
+   ]
+  }
+ },
+ {
+  "claim": "C-2905",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2906",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Presented as fact; it is the host's account ('they have now just admitted'; 'someone very close to the family say that's not either').",
+  "fix": {
+   "claim": "The host says Paramount Tactical admitted over the weekend that the boy in the Fort Huachuca alibi photograph is not Erika Kirk's son, and that someone very close to the family told her the child is neither of Erika's children."
+  }
+ },
+ {
+  "claim": "C-2907",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The alibi photo was Erika's (host: 'here's Erika's alibi... she was not at Fort Huachuca'), not Harpole's. Andrew 'coordinating these YouTubers'. N-267 wrongly listed; N-2 missing.",
+  "fix": {
+   "label": "Andrew Kolvet Coordinated Erika Alibi Pushback with Paramount Tactical and Valhalla",
+   "claim": "Per the host, Andrew Kolvet was the coordinator behind the Paramount Tactical and Valhalla YouTube efforts, including the alibi photo given for Erika Kirk, to push back on the Fort Huachuca allegations, despite Erika's claim that Kolvet was being moved off of PR responsibilities.",
+   "mentions": [
+    "N-14",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2908",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim refers to 'Mitch's sighting'; Mitch (N-362 Mitch Snow) not in Mentions. 'Did not cover' is said later (49:33), not in this window.",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-2",
+    "N-362"
+   ]
+  }
+ },
+ {
+  "claim": "C-12970",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Erika's Hillsdale appearance is background, not the assassination or investigation.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12971",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Secret Service/fear-of-flying remark is background.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12972",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Kolvet divorce rumor and Neff's replies are personal-life matters.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12973",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12974",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12975",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12976",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12977",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12978",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12979",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12980",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12981",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12982",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12983",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'take your bets on whether you believe Blake Neff and his Subway killer scenario as the reason they won't release the video'. Not a stated TPUSA reason.",
+  "fix": {
+   "claim": "The host says viewers can decide whether to believe Blake Neff's subway killer scenario as the reason Turning Point USA will not release the video."
+  }
+ },
+ {
+  "claim": "C-12984",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12985",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12986",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Credential claims about Erika are background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12987",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Credential claims about Erika are background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12988",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Credential claims about Erika are background, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12989",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12990",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12991",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Nick Shirley feud is unrelated to the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12992",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "unresolved name: transcript says 'Nick Fuentes' for the Sept 10 coverage and the 24-year-old; segment is about Shirley. Claim does not name him.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12993",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Transcript 'Nick Fuentes has uncovered massive welfare fraud in the Somalian community in Minnesota' is Nick Shirley (NPR). Claim says 'the person'.",
+  "fix": {
+   "claim": "The host says Nick Shirley is credited with uncovering massive welfare fraud in the Somali community in Minnesota, including daycare fraud, a story she says she did not follow.",
+   "relevance": "tangential",
+   "names": [
+    {
+     "wrong": "Nick Fuentes",
+     "right": "Nick Shirley",
+     "source": "https://www.npr.org/2025/12/31/nx-s1-5662600/nick-shirley-minnesota-daycare-fraud"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-12994",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Nick Shirley feud is unrelated to the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12995",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": true,
+  "note": "Host: PBD hosted 'the person who said I [Candace] didn't speak to Charlie since 2019'. Claim has the guest saying she herself had not spoken to Charlie.",
+  "fix": {
+   "claim": "The host says Patrick Bet-David hosted a person who said the host had not spoken to Charlie since 2019, and acknowledges that she and Charlie had not spoken.",
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12996",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host-Charlie past estrangement is background.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12997",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Nick Shirley feud is unrelated to the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12998",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Nick Shirley feud is unrelated to the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12999",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13000",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Nick Shirley feud is unrelated to the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13001",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13002",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13003",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13004",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Nick Shirley feud is unrelated to the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13005",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13006",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13007",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Druski skit is not about the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13008",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Druski skit is not about the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13009",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13010",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13011",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13012",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13013",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13014",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "The Quartering lawsuit is unrelated.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-13015",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

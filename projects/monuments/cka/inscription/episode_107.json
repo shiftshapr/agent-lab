@@ -1515,8 +1515,7 @@
       "investigative_direction": "Obtain original social media posts via archived captures; verify timeline of board letter and retraction.",
       "mentions_person_refs": [
         "N-342",
-        "N-348",
-        "N-347"
+        "N-348"
       ]
     },
     {
@@ -1573,9 +1572,7 @@
       "investigative_direction": "Cross-reference with statements from family members and law enforcement records.",
       "transcript_snippet": "Of course I do",
       "mentions_person_refs": [
-        "N-342",
-        "N-350",
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1602,7 +1599,7 @@
       "@id": "C-3711",
       "ref": "C-3711",
       "label": "Victor Marx Says He Prayed for Charlie Kirk and Others at TPUSA HQ",
-      "claim": "Victor Marx, the guest, says in his interview with the host that he prayed for Charlie Kirk (in Kirk's office) and three other people at Turning Point USA HQ offices.",
+      "claim": "Victor Marx, the guest, says in his interview with the host that he prayed for Charlie Kirk (in Kirk's office) and, he thinks, three other people at Turning Point USA HQ offices.",
       "anchored_artifacts": [
         "A-2510.1"
       ],
@@ -1612,8 +1609,7 @@
       "investigative_direction": "Verify with Turning Point USA personnel and any session records or correspondence.",
       "mentions_person_refs": [
         "N-1",
-        "N-342",
-        "N-345"
+        "N-342"
       ]
     },
     {
@@ -1653,10 +1649,7 @@
       "transcript_snippet": "Charlie wouldn't live from that…there's no way he could have survived that",
       "mentions_person_refs": [
         "N-1",
-        "N-342",
-        "N-7",
-        "N-349",
-        "N-209"
+        "N-342"
       ]
     },
     {
@@ -2040,7 +2033,7 @@
       "@type": "Claim",
       "@id": "C-5682",
       "ref": "C-5682",
-      "label": "Marx audio says his stepfather made him watch a corpse dismembered and burned",
+      "label": "Marx Audio Describes Watching a Corpse Dismembered and Burned",
       "claim": "In the played audio, Victor Marx says he remembers being tied to a chair at a morgue watching people dismember a corpse and then burn it.",
       "anchored_artifacts": [
         "A-2506.1"
@@ -2053,8 +2046,7 @@
       "investigative_direction": "Identify the source interview and test the account against any morgue or coroner records.",
       "transcript_snippet": "But I remember being at a morgue again wrapped to a chair and watching them dismember a corpse.",
       "mentions_person_refs": [
-        "N-342",
-        "N-350"
+        "N-342"
       ]
     },
     {
@@ -2461,7 +2453,7 @@
       "@id": "C-5702",
       "ref": "C-5702",
       "label": "Marx says the FBI and El Paso County Sheriff are seeking Corby Hall",
-      "claim": "Victor Marx says Corby Hall is being sought by the FBI and the El Paso County Sheriff Department, who he says told Corey that Hall was struggling with homicidal thoughts and gave detailed plans on how he would lie in wait to kill Marx.",
+      "claim": "Victor Marx says Corby Hall is being sought by the FBI and the El Paso County Sheriff Department, and that Hall admitted to Corey that he was struggling with homicidal thoughts and gave detailed plans on how he would lie in wait to kill Marx.",
       "anchored_artifacts": [
         "A-2510.1"
       ],
@@ -2773,8 +2765,7 @@
         "C-2718"
       ],
       "mentions_person_refs": [
-        "N-342",
-        "N-350"
+        "N-342"
       ]
     },
     {
@@ -3107,7 +3098,7 @@
       "@id": "C-5732",
       "ref": "C-5732",
       "label": "Marx says his former special operations team viewed the video multiple times",
-      "claim": "Victor Marx says that his team, many of them former special operations members, viewed the shooting video multiple times because he would not, and that they agreed Charlie would not live.",
+      "claim": "Victor Marx says that his team, many of them former special operations members, viewed the shooting video multiple times because he would not, and that he said Charlie would not live from it.",
       "anchored_artifacts": [
         "A-2510.1"
       ],
@@ -3204,7 +3195,7 @@
       "@id": "C-5736",
       "ref": "C-5736",
       "label": "Host says Jack Hibbs took down a video saying an Israel channel reported Charlie's death first",
-      "claim": "The host says Jack Hibbs and Amir Safari also posted early and that Jack Hibbs took down a video saying an Israel channel had reported the death first and had the information before anyone else; Marx says he is not aware of that.",
+      "claim": "The host says Jack Hibbs and Amir Tsarfati also posted early and that Jack Hibbs took down a video saying an Israel channel had reported the death first and had the information before anyone else; Marx says he is not aware of that.",
       "anchored_artifacts": [
         "A-2510.1"
       ],
@@ -3264,8 +3255,7 @@
       "investigative_direction": "Identify the security team members and Marx's team members present and the dates.",
       "transcript_snippet": "We brought our team immediately to help give relief for the first security team who I knew when I was in contact with and they were suffering trauma and exhaustion.",
       "mentions_person_refs": [
-        "N-342",
-        "N-344"
+        "N-342"
       ]
     },
     {
@@ -3273,7 +3263,7 @@
       "@id": "C-5739",
       "ref": "C-5739",
       "label": "Marx says Eileen is like a second mom to Erika",
-      "claim": "Victor Marx says that Eileen is like a second mom to Erika Kirk, that many women reach out to Eileen for mentorship, and that Erika and Eileen texted that week.",
+      "claim": "Victor Marx says that Eileen is perhaps like a second mom to Erika Kirk, that many women reach out to Eileen for mentorship, and that Erika and Eileen texted that week.",
       "anchored_artifacts": [
         "A-2510.1"
       ],
@@ -3581,8 +3571,7 @@
       "investigative_direction": "Ask Marx which organizations he means.",
       "transcript_snippet": "there's no doubt in my mind that there are organizations that are actually traffickers that pose as counter trafficking.",
       "mentions_person_refs": [
-        "N-342",
-        "N-9"
+        "N-342"
       ]
     },
     {
@@ -3735,7 +3724,7 @@
       "@id": "C-5761",
       "ref": "C-5761",
       "label": "Marx says people told Holly she could make millions by suing him for trafficking",
-      "claim": "Victor Marx says he was told that people trying to discredit him told Holly that if she and her boyfriend sued Marx for trafficking, they would make millions.",
+      "claim": "Victor Marx says he was told that people trying to discredit him told Holly that if she and Les sued Marx for trafficking, they would make millions.",
       "anchored_artifacts": [
         "A-2510.1"
       ],

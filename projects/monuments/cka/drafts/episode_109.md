@@ -398,7 +398,7 @@ Named by the host as on the NCRI "Christ is King" report.
 
 **N-582** Thomas Massie
 
-Kentucky congressman whom the host says Charlie Kirk called a favorite. He is the subject of the Kolvet/Neff segment, the Schriber tweet and the AIPAC spending allegation.
+Kentucky congressman whom the host says Charlie Kirk called a favorite. He is the subject of the Kolvet/Neff segment, the Schreiber tweet and the AIPAC spending allegation.
 
 *Related: C-4310, C-4311, C-4312, C-4313, C-4314, C-4319, A-2614.1, A-2614.2*
 
@@ -464,7 +464,7 @@ The host restates that she still cannot confirm Snow's identification of Harpole
 
 **N-10538** Turning Point Action / Thomas Massie Disavowal Incident
 
-Schriber's tweet says Kolvet blamed the RINO video on an intern and apologized.
+Schreiber's tweet says Kolvet blamed the RINO video on an intern and apologized.
 
 *Related: C-4313, C-4314, A-2614.2*
 
@@ -695,7 +695,7 @@ Investigative Direction: Obtain the email and its distribution list and headers 
 
 Claim Timestamp: 00:05:12
 
-Claim: The host says the White House first denied that anyone in the military office drafted or sent the email, but with the specific wording "The White House Military Office did not draft the email," which she calls intentionally evasive.
+Claim: The host says the White House first denied that anyone in the military office drafted or sent the email, but with the specific wording "The White House Military Office did not draft the email," which she says was likely intentionally evasive.
 
 Transcript Snippet: But we noticed that specific language, that specific verbiage, that specific denial. The White House Military Office did not draft the email.
 
@@ -1312,7 +1312,7 @@ Investigative Direction: Archived Charlie Kirk Show and social video clips in wh
 
 Claim Timestamp: 00:37:01
 
-Claim: In the clip played, a speaker the host identifies as Andrew Kolvet says Charlie Kirk was privately "really, really frustrated" that Massie did not vote for the big beautiful bill. Blake Neff adds that Kirk would have grown more frustrated as Massie criticized Trump on debt, war and Epstein.
+Claim: In a clip the host plays of Andrew Kolvet and Blake Neff, one speaker says Charlie Kirk was privately "really, really frustrated" that Massie did not vote for the big beautiful bill, and another adds that Kirk would have grown more frustrated as Massie criticized Trump on debt, war and Epstein.
 
 Transcript Snippet: But he was pretty frustrated that Massie didn't vote on in the affirmative on the big beautiful bill because it was essentially the totality of President Trump's first year agenda wrapped into one bill.
 
@@ -1323,11 +1323,11 @@ Investigative Direction: The full Charlie Kirk Show episode and any contemporane
 
 ---
 
-**C-4313** Schriber: Kolvet called Massie's office on March 12, 2026 to apologize for TPUSA's RINO video
+**C-4313** Schreiber: Kolvet Called Massie's Office on March 12, 2026 to Apologize for TPUSA's RINO Video
 
 Claim Timestamp: 00:39:16
 
-Claim: According to a tweet read by the host from Raphael Schreiber, legislative director for Thomas Massie, Andrew Kolvet called Massie's office on March 12, 2026. Schriber says Kolvet apologized for a TPUSA video labeling Massie a RINO and blamed it on a 20-year-old intern.
+Claim: According to a tweet read by the host from Raphael Schreiber, legislative director for Thomas Massie, Andrew Kolvet called Massie's office on March 12, 2026. Schreiber says Kolvet apologized for a TPUSA video labeling Massie a RINO and blamed it on a 20-year-old intern.
 
 Transcript Snippet: Andrew Kolvet, didn't you call our office a few months ago on March 12th, 2026 to be exact, profusely apologizing for TPUSA posting a video of Thomas Massie labeling him a rhino
 
@@ -1338,18 +1338,18 @@ Investigative Direction: Massie office phone logs for March 12, 2026 and the TPU
 
 ---
 
-**C-4314** Schriber: Kolvet said TPUSA would stay out of the race and he personally wanted Massie to win
+**C-4314** Schreiber: Kolvet Said TPUSA Would Stay Out of the Race and He Personally Wanted Massie to Win
 
 Claim Timestamp: 00:39:16
 
-Claim: According to Schriber's tweet, Kolvet asked the office to pass on his sincere apologies to Massie and said TPUSA was not going to get involved in the race but that he personally wanted Massie to win.
+Claim: According to Schreiber's tweet, Kolvet asked the office to pass on his sincere apologies to Massie and said TPUSA was not going to get involved in the race but that he personally wanted Massie to win.
 
 Transcript Snippet: Didn't you ask us to express your sincere apologies to Massie and that TPUSA was not going to get involved with the race, but that you personally wanted Massie to win?
 
 Anchored Artifacts: A-2614.2
 Mentions: N-649, N-14, N-582
 Related Nodes: N-10538, N-10000
-Investigative Direction: Kolvet's response to Schriber and any TPUSA spending in the Kentucky race.
+Investigative Direction: Kolvet's response to Schreiber and any TPUSA spending in the Kentucky race.
 
 ---
 
@@ -1373,7 +1373,7 @@ Investigative Direction: The original September 9, 2025 message and its recipien
 
 Claim Timestamp: 00:40:55
 
-Claim: The host says Benjamin Netanyahu went on Fox News the day after Charlie Kirk's assassination and said he did not kill him.
+Claim: The host says sarcastically that she bets it was Iran that made Benjamin Netanyahu go on Fox News the next day and say "I didn't kill him. It wasn't me."
 
 Transcript Snippet: I bet it was Iran that made BB go on Fox News the next day and say, "I didn't kill him. It wasn't me."
 
@@ -1388,7 +1388,7 @@ Investigative Direction: Fox News interview archive for September 11, 2025.
 
 Claim Timestamp: 00:45:41
 
-Claim: A viewer comment read by the host says Erika Kirk and Victor Marx are close; the host says Erika Kirk's character can be judged by the people around her.
+Claim: A viewer comment the host reads says Erika Kirk and Victor Marx are close; a second viewer comment she reads says a person's character can be assessed by the company they keep, and the host adds she does not find Erika believable.
 
 Transcript Snippet: James The Least writes, "The fact that Erika Kirk and Victor Marx are close is the least surprising thing ever."
 

@@ -1,0 +1,183 @@
+[
+ {
+  "claim": "C-2911",
+  "episode": 110,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per host, after serving in the Navy and Army Special Forces Airborne Division, Hansell went to work for the Boston Consulting Group.",
+   "label": "Bradley Hansell Served in Navy and Army Special Forces Airborne Division",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ],
+   "timestamp": "00:14:05"
+  },
+  "note": "Hansell confirmed: Wikipedia + Project Constitution X post (Hansell, Charlie Kirk, Fort Huachuca). Content starts at 14:10; ts moved."
+ },
+ {
+  "claim": "C-2912",
+  "episode": 110,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per host, Hansell was picked to work under Trump's first administration as a member of the National Security Council as Special Assistant to President Donald J. Trump for National Security Affairs.",
+   "label": "Bradley Hansell Served as Special Assistant to President Trump for National Security Affairs",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ],
+   "timestamp": "00:14:20"
+  },
+  "note": "Hansell confirmed: Wikipedia + Project Constitution X post (Hansell, Charlie Kirk, Fort Huachuca). NSC line spoken ~14:25; ts moved."
+ },
+ {
+  "claim": "C-2913",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per host, Hansell worked at the Boston Consulting Group both after his military service and after Trump's first term (returning as a principal of the firm).",
+   "label": "Bradley Hansell Worked at the Boston Consulting Group",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  },
+  "note": "Hansell confirmed: Wikipedia + Project Constitution X post (Hansell, Charlie Kirk, Fort Huachuca)."
+ },
+ {
+  "claim": "C-2919",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim covers dismissals/audit only; Schweizer's quote is not part of it."
+ },
+ {
+  "claim": "C-2921",
+  "episode": 110,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-438"
+   ],
+   "timestamp": "00:20:30"
+  },
+  "note": "Schweizer not referred to. Times of Israel headline read at 20:33; ts moved from 20:00."
+ },
+ {
+  "claim": "C-2922",
+  "episode": 110,
+  "decision": "amend",
+  "fix": {
+   "mentions": [],
+   "timestamp": "00:20:40"
+  },
+  "note": "Schweizer not referred to. Jake Wood line from article read after 20:33; ts moved from 20:00."
+ },
+ {
+  "claim": "C-2923",
+  "episode": 110,
+  "decision": "amend",
+  "fix": {
+   "mentions": [],
+   "timestamp": "00:19:05"
+  },
+  "note": "Schweizer not referred to. Logistics/pricing line is at end of 18:28 block (~19:10); ts moved."
+ },
+ {
+  "claim": "C-2926",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-28"
+   ]
+  },
+  "note": "Leola Anderson not in claim; claim refers to Romney's car."
+ },
+ {
+  "claim": "C-2927",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per viewer comments read on-air and host concurrence, Mitt Romney operated a burner X account under the French name Pierre Delecto.",
+   "label": "Mitt Romney Operated a \"Pierre Delecto\" Burner X/Twitter Account",
+   "names": [
+    {
+     "wrong": "Pierre Deleto",
+     "right": "Pierre Delecto",
+     "source": "https://en.wikipedia.org/wiki/Mitt_Romney"
+    }
+   ]
+  },
+  "note": "Pierre Delecto confirmed (NPR, NBC, CNN 2019: Romney confirmed alias)."
+ },
+ {
+  "claim": "C-2932",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Schweizer not named or referred to."
+ },
+ {
+  "claim": "C-2934",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Schweizer not referred to; Phil Reilly has no node."
+ },
+ {
+  "claim": "C-14646",
+  "episode": 110,
+  "decision": "reject",
+  "fix": {},
+  "note": "'A man who thinks he saw Harpole' is the eyewitness Mitch (host: 'I don't know this man, Mitch'); N-362 is a referred person, keep."
+ },
+ {
+  "claim": "C-14649",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says one of the VIPs aboard the Fort Huachuca-to-El Paso plane, apparently with four other people, was Bradley Hansell.",
+   "label": "Host Says Bradley Hansell Was Aboard the Plane With Four Other People",
+   "names": [
+    {
+     "wrong": "Bradley Hansel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  },
+  "note": "Hansell confirmed: Wikipedia + Project Constitution X post (Hansell, Charlie Kirk, Fort Huachuca)."
+ },
+ {
+  "claim": "C-14650",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that in the same month Bradley Hansell was sworn in (July 2025), Boston Consulting Group had a massive scandal uncovered by Financial Times reporting from whistleblowers.",
+   "label": "Host Says Boston Consulting Group Had a Massive Scandal the Month Hansell Was Sworn In",
+   "names": [
+    {
+     "wrong": "Mr. Hansel",
+     "right": "Mr. Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  },
+  "note": "Hansell confirmed: Wikipedia + Project Constitution X post (Hansell, Charlie Kirk, Fort Huachuca)."
+ }
+]

@@ -682,7 +682,7 @@ Investigative Direction: Obtain HSI/human trafficking specialist records referen
 Claim Timestamp: 00:11:03
 Claim: Episode quotes Victor Marx's daughter stating on social media that she experienced abuse at her father's hands for many years; later recanted under alleged pressure.
 Anchored Artifacts: A-2508.1
-Mentions: N-342, N-348, N-347
+Mentions: N-342, N-348
 Investigative Direction: Obtain original social media posts via archived captures; verify timeline of board letter and retraction.
 
 ---
@@ -715,7 +715,7 @@ Claim Timestamp: 00:23:09
 Claim: During the interview, Victor Marx confirmed he stands by his narrative of being forced to behead a cat at age 3.
 Transcript Snippet: Of course I do
 Anchored Artifacts: A-2506.1, A-2510.1, A-2511.1
-Mentions: N-342, N-350, N-343
+Mentions: N-342
 Investigative Direction: Cross-reference with statements from family members and law enforcement records.
 
 ---
@@ -734,9 +734,9 @@ Investigative Direction: Obtain certified DD-214 to verify service length and da
 **C-3711** Victor Marx Says He Prayed for Charlie Kirk and Others at TPUSA HQ
 
 Claim Timestamp: 00:42:11
-Claim: Victor Marx, the guest, says in his interview with the host that he prayed for Charlie Kirk (in Kirk's office) and three other people at Turning Point USA HQ offices.
+Claim: Victor Marx, the guest, says in his interview with the host that he prayed for Charlie Kirk (in Kirk's office) and, he thinks, three other people at Turning Point USA HQ offices.
 Anchored Artifacts: A-2510.1
-Mentions: N-1, N-342, N-345
+Mentions: N-1, N-342
 Investigative Direction: Verify with Turning Point USA personnel and any session records or correspondence.
 
 ---
@@ -758,7 +758,7 @@ Claim Timestamp: 00:46:02
 Claim: Victor Marx states he watched the Charlie Kirk shooting video once and knew instantly Kirk would not survive, based on prior combat experience.
 Transcript Snippet: Charlie wouldn't live from that…there's no way he could have survived that
 Anchored Artifacts: A-2510.1
-Mentions: N-1, N-342, N-7, N-349, N-209
+Mentions: N-1, N-342
 Related Nodes: N-10622
 Investigative Direction: Reconcile timeline of when Marx actually viewed the video relative to announcement timing.
 
@@ -1049,7 +1049,7 @@ Investigative Direction: Check Marx's campaign filing date and the memorial serv
 
 ---
 
-**C-5682** Marx audio says his stepfather made him watch a corpse dismembered and burned
+**C-5682** Marx Audio Describes Watching a Corpse Dismembered and Burned
 
 Claim Timestamp: 00:07:09
 
@@ -1058,7 +1058,7 @@ Claim: In the played audio, Victor Marx says he remembers being tied to a chair 
 Transcript Snippet: But I remember being at a morgue again wrapped to a chair and watching them dismember a corpse.
 
 Anchored Artifacts: A-2506.1
-Mentions: N-342, N-350
+Mentions: N-342
 Related Nodes: N-10785
 Investigative Direction: Identify the source interview and test the account against any morgue or coroner records.
 
@@ -1358,7 +1358,7 @@ Investigative Direction: Compare with Marx's published accounts of when the thou
 
 Claim Timestamp: 00:19:19
 
-Claim: Victor Marx says Corby Hall is being sought by the FBI and the El Paso County Sheriff Department, who he says told Corey that Hall was struggling with homicidal thoughts and gave detailed plans on how he would lie in wait to kill Marx.
+Claim: Victor Marx says Corby Hall is being sought by the FBI and the El Paso County Sheriff Department, and that Hall admitted to Corey that he was struggling with homicidal thoughts and gave detailed plans on how he would lie in wait to kill Marx.
 
 Transcript Snippet: this gentleman is being sought by the FBI and El Paso County Sheriff Department
 
@@ -1576,7 +1576,7 @@ Claim: Victor Marx says it is a cold case about 40 years old, that he does not k
 Transcript Snippet: it was 40 years old, we don't know where the house is, we don't know where he was buried, we don't know who the victim was.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-342, N-350
+Mentions: N-342
 Related Nodes: N-11051
 Supports: C-2718
 Investigative Direction: Ask the sheriff's department whether a cold-case file exists and when Marx reported it.
@@ -1816,7 +1816,7 @@ Investigative Direction: Identify the texter and obtain the message and its time
 
 Claim Timestamp: 00:46:02
 
-Claim: Victor Marx says that his team, many of them former special operations members, viewed the shooting video multiple times because he would not, and that they agreed Charlie would not live.
+Claim: Victor Marx says that his team, many of them former special operations members, viewed the shooting video multiple times because he would not, and that he said Charlie would not live from it.
 
 Transcript Snippet: my team uh many who are former special operations guys in combat minutes, lots of experience, they viewed it multiple times cuz I wouldn't.
 
@@ -1879,7 +1879,7 @@ Investigative Direction: Pull archived copies of both posts with their timestamp
 
 Claim Timestamp: 00:47:56
 
-Claim: The host says Jack Hibbs and Amir Safari also posted early and that Jack Hibbs took down a video saying an Israel channel had reported the death first and had the information before anyone else; Marx says he is not aware of that.
+Claim: The host says Jack Hibbs and Amir Tsarfati also posted early and that Jack Hibbs took down a video saying an Israel channel had reported the death first and had the information before anyone else; Marx says he is not aware of that.
 
 Transcript Snippet: Jack Hibbs took down a video saying that actually there was an Israel channel that reported it first and had the information before anybody else.
 
@@ -1915,7 +1915,7 @@ Claim: Victor Marx says he brought his team immediately to give relief to the fi
 Transcript Snippet: We brought our team immediately to help give relief for the first security team who I knew when I was in contact with and they were suffering trauma and exhaustion.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-342, N-344
+Mentions: N-342
 Related Nodes: N-10605
 Investigative Direction: Identify the security team members and Marx's team members present and the dates.
 
@@ -1925,7 +1925,7 @@ Investigative Direction: Identify the security team members and Marx's team memb
 
 Claim Timestamp: 00:50:07
 
-Claim: Victor Marx says that Eileen is like a second mom to Erika Kirk, that many women reach out to Eileen for mentorship, and that Erika and Eileen texted that week.
+Claim: Victor Marx says that Eileen is perhaps like a second mom to Erika Kirk, that many women reach out to Eileen for mentorship, and that Erika and Eileen texted that week.
 
 Transcript Snippet: And Eileen's like a I don't know perhaps a second mom to Erika.
 
@@ -2142,7 +2142,7 @@ Claim: Victor Marx says there is no doubt in his mind that there are organizatio
 Transcript Snippet: there's no doubt in my mind that there are organizations that are actually traffickers that pose as counter trafficking.
 
 Anchored Artifacts: A-2510.1
-Mentions: N-342, N-9
+Mentions: N-342
 Related Nodes: N-11047
 Investigative Direction: Ask Marx which organizations he means.
 
@@ -2257,7 +2257,7 @@ Investigative Direction: Check Canadian court and police records on the boyfrien
 
 Claim Timestamp: 01:05:43
 
-Claim: Victor Marx says he was told that people trying to discredit him told Holly that if she and her boyfriend sued Marx for trafficking, they would make millions.
+Claim: Victor Marx says he was told that people trying to discredit him told Holly that if she and Les sued Marx for trafficking, they would make millions.
 
 Transcript Snippet: you'll be able to make millions.
 

@@ -71,7 +71,7 @@ And uh this nexus got weird that I made that it just seemed like another chef's 
 
 [09:33]
 
-That plane has been a source of of due to a meeting which Mitch Snow stumbled upon that morning accidentally. And the meeting in which Mitch Snow believes that he saw Brian Harpole. Okay? Maybe maybe he didn't. I was always open to that, but the reaction that we experienced to Fort Huachuca tells me he saw somebody important. He saw somebody important. Also of interest to us is whether or not Bradley Hansel may have stayed the night on the base in the same hotel that Mitch Snow believes that he saw Erika Kirk. He said it was her eyes that were unmistakable. They saw her in that lobby on the 8th leaving, jumping into a green pickup truck, and her eyes reminded him of an ex-girlfriend's eyes, and that's why he clocked her.
+That plane has been a source of of due to a meeting which Mitch Snow stumbled upon that morning accidentally. And the meeting in which Mitch Snow believes that he saw Brian Harpole. Okay? Maybe maybe he didn't. I was always open to that, but the reaction that we experienced to Fort Huachuca tells me he saw somebody important. He saw somebody important. Also of interest to us is whether or not Bradley Hansell may have stayed the night on the base in the same hotel that Mitch Snow believes that he saw Erika Kirk. He said it was her eyes that were unmistakable. They saw her in that lobby on the 8th leaving, jumping into a green pickup truck, and her eyes reminded him of an ex-girlfriend's eyes, and that's why he clocked her.
 
 [10:20]
 
@@ -79,7 +79,7 @@ When few he didn't know her obviously right when he saw her, but remembered her 
 
 [11:06]
 
-Yet we were informed uh when we filed our FOIA request that we were kind of put in the back of the queue because our request falls under this heavy burden exception. They need to coordinate with multiple departments, and we're number 3,500 to hear back. Okay. Seems like a bit of a workaround. Well, we initially told you that Bradley Hansel reports directly to Pete Hegseth, the Secretary of War, but actually we weren't entirely correct. There is one man in between Bradley and Pete Hegseth. A man named Stephen Feinberg who occupies the position of Deputy Secretary of Defense. Now, lock in because this is important, okay? I'm going to show you a chart of the Department of Defense. Now, I guess they renamed it the Department of War, kind of appropriate since all Trump has been doing is putting us in multiple wars. Uh but here's that chart and I we're just putting faces where it's relevant. So, at the top you have Pete Hegseth who is the Secretary of Defense.
+Yet we were informed uh when we filed our FOIA request that we were kind of put in the back of the queue because our request falls under this heavy burden exception. They need to coordinate with multiple departments, and we're number 3,500 to hear back. Okay. Seems like a bit of a workaround. Well, we initially told you that Bradley Hansell reports directly to Pete Hegseth, the Secretary of War, but actually we weren't entirely correct. There is one man in between Bradley and Pete Hegseth. A man named Stephen Feinberg who occupies the position of Deputy Secretary of Defense. Now, lock in because this is important, okay? I'm going to show you a chart of the Department of Defense. Now, I guess they renamed it the Department of War, kind of appropriate since all Trump has been doing is putting us in multiple wars. Uh but here's that chart and I we're just putting faces where it's relevant. So, at the top you have Pete Hegseth who is the Secretary of Defense.
 
 [12:04]
 
@@ -143,7 +143,7 @@ That doesn't feel like it's for Charlie, as they always say. It's for Charlie. N
 
 [25:18]
 
-Since it was so natural and it organically came out despite the fact that I am saying no to the Department of War, particularly the department that Bradley Hansel and Stephen Feinberg and Pete Hegseth sit at the top of were orchestrating messaging to artificially boost Erika. They wanted her as the number one trend by morning. That was a focus of the Department of War. Why? Somebody make that make sense to me. I don't think it's just Charlie who's living in a Truman Show. I think we're all living in a Truman Show and our government is involved in the most despicable crimes overseas. The most despicable crimes imaginable overseas. And they get people who are despicable enough to join them as they try to represent it to the American people as something faith-based, love-based, #forcharliebased.
+Since it was so natural and it organically came out despite the fact that I am saying no to the Department of War, particularly the department that Bradley Hansell and Stephen Feinberg and Pete Hegseth sit at the top of were orchestrating messaging to artificially boost Erika. They wanted her as the number one trend by morning. That was a focus of the Department of War. Why? Somebody make that make sense to me. I don't think it's just Charlie who's living in a Truman Show. I think we're all living in a Truman Show and our government is involved in the most despicable crimes overseas. The most despicable crimes imaginable overseas. And they get people who are despicable enough to join them as they try to represent it to the American people as something faith-based, love-based, #forcharliebased.
 
 [26:20]
 

@@ -21,9 +21,9 @@
 
 The host opens by confirming that the circulating trailer is real: she has interviewed Hunter Biden in her house, and the full interview will be released on Thursday. In the trailer (A-2590.1) Hunter Biden says "I was a crackhead" and comments on the Charlie Kirk assassination. The host says the interview came about after she named Hunter Biden at a dinner as someone she would like to interview, and an unnamed guest called the next day offering to arrange it.
 
-The host then frames Erika Kirk's rise as "the COVID vaccine" – an institutionally backed rollout whose critics are pathologized – and shows vaccine-incentive headlines and a "dark triad" vaccination study (A-2591). On the Aspen video, she restates that Erika Kirk told Megyn Kelly about a video of Charlie Kirk naming her CEO. She says sources with direct knowledge told her Charlie only said he trusted his lieutenants, which she argues would imply the CEO line was added with AI. After 46 days of requests, she says, Turning Point USA screened the footage privately for the Daily Mail. She reads from Charlie Spearing's paywalled article (A-2593): an anonymous board member's account of the couple's estate planning, the paper's "exclusive access," and TPUSA's donor-privacy reason for not releasing the video. She also says an insider told her Erika inherited about $10 million under Charlie's will, and that TPUSA met with a Hollywood AI company that makes posthumous videos. She shows reaction posts and her exchange with Blake Neff (A-2594).
+The host then frames Erika Kirk's rise as "the COVID vaccine" – an institutionally backed rollout whose critics are pathologized – and shows vaccine-incentive headlines and a "dark triad" vaccination study (A-2591). On the Aspen video, she restates that Erika Kirk told Megyn Kelly about a video of Charlie Kirk naming her CEO. She says sources with direct knowledge told her Charlie only said he trusted his lieutenants, which she argues would imply the CEO line was added with AI. After 46 days of requests, she says, Turning Point USA screened the footage privately for the Daily Mail. She reads from Charlie Spiering's paywalled article (A-2593): an anonymous board member's account of the couple's estate planning, the paper's "exclusive access," and TPUSA's donor-privacy reason for not releasing the video. She also says an insider told her Erika inherited about $10 million under Charlie's will, and that TPUSA met with a Hollywood AI company that makes posthumous videos. She shows reaction posts and her exchange with Blake Neff (A-2594).
 
-In the third segment, which the host calls "operation warp widow," she returns to her report of an email sent about an hour after the White House Correspondents' Dinner shooting. According to the host, it sought to boost Erika Kirk's "I want to go home" clip and called her an "emotional asset." Axios reporter Mark Caputo posted a White House Military Office denial (A-2595.1), which Graham Allen, Andrew Kolvet and Blake Neff promoted (A-2595.2). The host says her producer received the identical denial within four and a half minutes. She concedes the Military Office may not have sent the email, but says it was sent and received through a distribution list. She says the White House has not answered her follow-up asking whether an April 25 email copied to Steven Cheung, Richard Smalley and Ryan Rippeon exists (A-2595.4).
+In the third segment, which the host calls "operation warp widow," she returns to her report of an email sent about an hour after the White House Correspondents' Dinner shooting. According to the host, it sought to boost Erika Kirk's "I want to go home" clip and called her an "emotional asset." Axios reporter Mark Caputo posted a White House Military Office denial (A-2595.1), which Graham Allen, Andrew Kolvet and Blake Neff promoted (A-2595.2). The host says her producer received the identical denial within four and a half minutes. She concedes the Military Office may not have sent the email, but says it was sent and received through a distribution list. She says the White House has not answered her follow-up asking whether an April 25 email copied to Steven Cheung, Richard Smale and Ryan Rippeon exists (A-2595.4).
 
 The host then airs Department of Defense payment records (A-2596.1) showing, she says, that Paramount Tactical, run by Gary Melton, received $39,000 on September 24, 2025 and $151,000 for night vision equipment on September 29, 2025. She notes that he does not make his own gear, and also recalls a DoD contract to the father of "decoy boy number two." The episode closes with a young fan's Ben Shapiro horse video and viewer comments, during which the host says she is done voting until the assassination is solved.
 
@@ -85,7 +85,7 @@ Confidence Level: Medium
 
 **A-2593** Daily Mail Aspen Video Article Bundle
 
-**A-2593.1** Daily Mail article by Charlie Spearing on the "secret video" of Charlie Kirk naming his successor (headline shown)
+**A-2593.1** Daily Mail article by Charlie Spiering on the "secret video" of Charlie Kirk naming his successor (headline shown)
 
 Quoted text: "exclusive bombshell secret video of Charlie Kirk naming his true Turning Point successor days before the assassination"
 
@@ -205,7 +205,7 @@ Confidence Level: High
 
 **A-2595.4** Host's follow-up email to the White House on the April 25 email (read aloud)
 
-Quoted text: "Thank you for the prompt response. Attribution aside, are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smalley, and Ryan Rippien carbon copied with the below language in part: Addendum Erika Kirk video clip, video clip of Erika Kirk leaving the ballroom area and saying, 'I just want to go home' is driving the highest organic engagement of all instant related content across platforms."
+Quoted text: "Thank you for the prompt response. Attribution aside, are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smale, and Ryan Rippien carbon copied with the below language in part: Addendum Erika Kirk video clip, video clip of Erika Kirk leaving the ballroom area and saying, 'I just want to go home' is driving the highest organic engagement of all instant related content across platforms."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:35:13
@@ -380,7 +380,7 @@ First named by the host at 00:03:44 in episode 106. Interviewer whose earlier co
 
 *Related: C-4166*
 
-**N-636** Charlie Spearing
+**N-636** Charlie Spiering
 
 First named by the host at 00:15:03 in episode 106. Daily Mail reporter who wrote the article on the private screening of the Aspen video.
 
@@ -398,7 +398,7 @@ First named by the host at 00:30:43 in episode 106. Host of the show clip in whi
 
 *Related: C-4195, C-4196, A-2595.2*
 
-**N-628** Richard Smaly
+**N-628** Richard Smale
 
 First named by the host at 00:35:13 in episode 106. Named in the host's follow-up as copied on the April 25 email; the host copied him on her second email.
 
@@ -424,7 +424,7 @@ Organization whose handling of the Aspen video, chapter leaders, corporate will,
 
 **N-10070** Daily Mail
 
-Published Charlie Spearing's article on its exclusive screening of the Aspen video.
+Published Charlie Spiering's article on its exclusive screening of the Aspen video.
 
 *Related: C-4177, C-4178, C-4179, C-4180, C-4183, C-4184, C-4190, A-2593.1, A-2593.2, A-2593.3, A-2593.4*
 
@@ -507,7 +507,7 @@ Investigation target: the host's report that TPUSA met with a Hollywood AI compa
 **N-10923** White House Military Office Erika Kirk Amplification Email
 
 Node Type: Topic
-Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting. According to the host, it asked that Erika Kirk's "I want to go home" clip be boosted through White House surrogates and called her an "emotional asset," and it was sent on April 25 via a distribution list with Steven Cheung, Richard Smalley and Ryan Rippeon copied.
+Investigation target: the email the host says went out about an hour after the White House Correspondents' Dinner shooting. According to the host, it asked that Erika Kirk's "I want to go home" clip be boosted through White House surrogates and called her an "emotional asset," and it was sent on April 25 via a distribution list with Steven Cheung, Richard Smale and Ryan Rippeon copied.
 
 *Related: C-4192, C-4193, C-4194, C-4195, C-4196, C-4197, C-4198, C-4199, C-4200, C-4201, C-4202, A-2595.4, N-10637*
 
@@ -708,6 +708,7 @@ Claim: The host says it was Turning Point USA that told the Aspen story and rele
 Transcript Snippet: remember, they already released the audio. It was them. They told the story. They released the audio.
 
 Anchored Artifacts: 
+Mentions: N-1
 Related Nodes: N-10936, N-10000
 Investigative Direction: Trace the first public release of the Aspen audio and the TPUSA account or event that aired it.
 
@@ -732,14 +733,14 @@ Investigative Direction: Compile the host's dated on-air and online requests for
 
 Claim Timestamp: 00:15:03
 
-Claim: The host says Turning Point USA showed the Aspen footage exclusively in a private screening to journalists at the Daily Mail, and that Charlie Spearing wrote an article headlined as an exclusive on the "secret video" of Charlie Kirk naming his successor.
+Claim: The host says Turning Point USA showed the Aspen footage exclusively in a private screening to journalists at the Daily Mail, and that Charlie Spiering wrote an article headlined as an exclusive on the "secret video" of Charlie Kirk naming his successor.
 
 Transcript Snippet: was to show the footage exclusively via a private screening, a secret private screening to some journalists over at the Daily Mail.
 
 Anchored Artifacts: A-2593.1
 Mentions: N-636, N-1
 Related Nodes: N-10070, N-10936, N-10000
-Investigative Direction: Obtain the Daily Mail article and ask the Daily Mail and Charlie Spearing how, where and by whom the footage was shown.
+Investigative Direction: Obtain the Daily Mail article and ask the Daily Mail and Charlie Spiering how, where and by whom the footage was shown.
 
 ---
 
@@ -825,7 +826,7 @@ Claim: According to the Daily Mail article read by the host, the video of the As
 Transcript Snippet: the Daily Mail has been given exclusive access to screen the full video, report on its contents, and speak to individuals who were in the room in Aspen that day
 
 Anchored Artifacts: A-2593.3
-Mentions: N-2
+Mentions: 
 Related Nodes: N-10070, N-10936, N-10000
 Investigative Direction: Ask the Daily Mail which attendees it interviewed and whether it viewed the full unedited file.
 
@@ -953,7 +954,7 @@ Investigative Direction: Archive the exchange on X.
 
 Claim Timestamp: 00:29:07
 
-Claim: The host says she reported the previous week that about an hour after the shooting at the White House Correspondents' Dinner, an email went out asking that Erika Kirk's "I want to go home" video be boosted through White House surrogates so it would be number one overnight.
+Claim: The host says she reported the previous week that about an hour after the "quote-unquote" shooting at the White House Correspondents' Dinner, an email went out asking that Erika Kirk's "I want to go home" video be boosted through White House surrogates so it would be number one overnight.
 
 Transcript Snippet: I told you that about an hour after the quote-unquote shooting happened at the White House Correspondents Dinner, this email went out.
 
@@ -1058,14 +1059,14 @@ Investigative Direction: Identify the distribution list in the original email he
 
 Claim Timestamp: 00:35:13
 
-Claim: The host reads her follow-up email asking the White House whether it claims no email was sent or received on the evening of April 25 with Steven Cheung, Richard Smalley and Ryan Rippeon copied, quoting the "Addendum Erika Kirk video clip" language.
+Claim: The host reads her follow-up email asking the White House whether it claims no email was sent or received on the evening of April 25 with Steven Cheung, Richard Smale and Ryan Rippeon copied, quoting the "Addendum Erika Kirk video clip" language.
 
-Transcript Snippet: are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smalley, and Ryan Rippien carbon copied with the below language in part
+Transcript Snippet: are you claiming that an email was not sent or received at all on the evening of April 25th with Steven Cheung, Richard Smale, and Ryan Rippien carbon copied with the below language in part
 
 Anchored Artifacts: A-2595.4
 Mentions: N-3, N-161, N-628, N-623, N-2
 Related Nodes: N-10923, N-10075
-Investigative Direction: Ask Steven Cheung, Richard Smalley and Ryan Rippeon directly whether they received the April 25 email.
+Investigative Direction: Ask Steven Cheung, Richard Smale and Ryan Rippeon directly whether they received the April 25 email.
 
 ---
 
@@ -1103,9 +1104,9 @@ Investigative Direction: Obtain the original email from a recipient and verify i
 
 Claim Timestamp: 00:36:27
 
-Claim: The host says she copied Richard Smalley, Ryan Rippey and the White House Press Office on her second email so there would be no confusion.
+Claim: The host says she copied Richard Smale, Ryan Rippey and the White House Press Office on her second email so there would be no confusion.
 
-Transcript Snippet: To be clear, I also CC'd Richard Smalley. I I CC'd Ryan Rippey and for good measure, I CC'd the White House Press Office.
+Transcript Snippet: To be clear, I also CC'd Richard Smale. I I CC'd Ryan Rippey and for good measure, I CC'd the White House Press Office.
 
 Anchored Artifacts: A-2595.4
 Mentions: N-3, N-628, N-623
@@ -1435,7 +1436,7 @@ Confidence: high
   - the host's ranking of the Hunter Biden interview as her second most consequential after Phil Tourney
   - Hunter Biden's trailer remarks on Gaza, Jared Kushner and Israel
   - "Why is she dressed like an assassin?"
-  - the claim that Charlie Spearing is not equipped to assess AI
+  - the claim that Charlie Spiering is not equipped to assess AI
   - "Worst PR ever. You said White House Military Office too many times."
   - the remark that TPUSA figures are "boys with Kash Patel" and on a first-name basis with VP Vance (rhetorical)
   - the host's note that AI videos of her circulate on a French channel

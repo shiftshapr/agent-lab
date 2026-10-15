@@ -825,7 +825,7 @@ Anchored Artifacts: A-1561.1
 Mentions: N-1, N-2, N-3, N-97
 
 
-Investigative Direction: Obtain the full unedited AmFest video and timestamp; verify whether Shapiro named specific TPUSA staff (Mikey McCormick, Andrew Colvin, Blake Neff, Tyler Bowyer, Erika Kirk) and the precise wording.
+Investigative Direction: Obtain the full unedited AmFest video and timestamp; verify whether Shapiro named specific TPUSA staff (Mikey McCormick, Andrew Kolvet, Blake Neff, Tyler Bowyer, Erika Kirk) and the precise wording.
 
 ---
 

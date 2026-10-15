@@ -25,7 +25,7 @@
           "@type": "Artifact",
           "@id": "A-2076.1",
           "ref": "A-2076.1",
-          "description": "On-screen connection graphic: Bradley Hansel (Under Secretary of War for Intelligence and Security), Benjamin Netanyahu, Mitt Romney, Boston Consulting Group, Project Aurora, Gaza Humanitarian Foundation, Orbis, Tacit/Tachlith Institute, Phil Reilly",
+          "description": "On-screen connection graphic: Bradley Hansell (Under Secretary of War for Intelligence and Security), Benjamin Netanyahu, Mitt Romney, Boston Consulting Group, Project Aurora, Gaza Humanitarian Foundation, Orbis, Tacit/Tachlith Institute, Phil Reilly",
           "related_claims": [
             "C-2911",
             "C-2913",
@@ -144,13 +144,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2079",
       "family_ref": "A-2079",
-      "bundle_name": "Department of War Hansel Biography Bundle",
+      "bundle_name": "Department of War Hansell Biography Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2079.1",
           "ref": "A-2079.1",
-          "description": "Department of War website text read aloud by host describing Bradley Hansel's role",
+          "description": "Department of War website text read aloud by host describing Bradley Hansell's role",
           "related_claims": [
             "C-2909",
             "C-2910",
@@ -226,13 +226,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2082",
       "family_ref": "A-2082",
-      "bundle_name": "Pierre Deleto Viewer Comment Bundle",
+      "bundle_name": "Pierre Delecto Viewer Comment Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2082.1",
           "ref": "A-2082.1",
-          "description": "Viewer comment reminding host of Mitt Romney's \"Pierre Deleto\" burner X/Twitter account",
+          "description": "Viewer comment reminding host of Mitt Romney's \"Pierre Delecto\" burner X/Twitter account",
           "related_claims": [
             "C-2927"
           ],
@@ -458,7 +458,7 @@
       "ref": "N-10668",
       "name": "Boston Consulting Group Government Pipeline",
       "type": "investigation_target",
-      "description": "Persistent investigation target: host asserts BCG employment overlaps with government appointments for Hansel, Romney, and (per host) Netanyahu; raises questions about consulting client identity (\"who are they consulting for?\").",
+      "description": "Persistent investigation target: host asserts BCG employment overlaps with government appointments for Hansell, Romney, and (per host) Netanyahu; raises questions about consulting client identity (\"who are they consulting for?\").",
       "related_artifacts": [
         "A-2076.1",
         "A-2077.1",
@@ -533,7 +533,7 @@
       "ref": "N-10671",
       "name": "SAM702 / Fort Huachuca September 9 Passenger Manifest",
       "type": "investigation_target",
-      "description": "Persistent investigation target: identity of VIPs aboard Air Force SAM702 departing Fort Huachuca for El Paso on morning of September 9, 2025; host names Bradley Hansel; Palantir $10B stationing; Brian Harpole alleged presence.",
+      "description": "Persistent investigation target: identity of VIPs aboard Air Force SAM702 departing Fort Huachuca for El Paso on morning of September 9, 2025; host names Bradley Hansell; Palantir $10B stationing; Brian Harpole alleged presence.",
       "related_artifacts": [
         "A-2076.2",
         "A-2080.1"
@@ -854,7 +854,7 @@
       "ref": "N-434",
       "name": "Bradley Hansell",
       "type": "person",
-      "description": "First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansel, Brad Hansel, Brad Hansell.",
+      "description": "First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansell, Brad Hansell, Brad Hansell.",
       "related_artifacts": [
         "A-2076.1",
         "A-2079.1"
@@ -1756,8 +1756,8 @@
       "@type": "Claim",
       "@id": "C-2909",
       "ref": "C-2909",
-      "label": "Bradley Hansel serves as Under Secretary of War for Intelligence and Security",
-      "claim": "Per the Department of War website, Bradley Hansel exercises authority, direction, and control over all intelligence and security organizations in the Department of War on behalf of the Secretary of War.",
+      "label": "Bradley Hansell Serves as Under Secretary of War for Intelligence and Security",
+      "claim": "Per the Department of War website the host cites, Bradley Hansell exercises authority, direction, and control over all intelligence and security organizations in the Department of War on behalf of the Secretary of War.",
       "anchored_artifacts": [
         "A-2079.1"
       ],
@@ -1766,7 +1766,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:13:30",
-      "investigative_direction": "Verify the Department of War website listing for Bradley Hansel; cross-check Senate confirmation record and July 25, 2025 swearing-in.",
+      "investigative_direction": "Verify the Department of War website listing for Bradley Hansell; cross-check Senate confirmation record and July 25, 2025 swearing-in.",
       "mentions_person_refs": [
         "N-434"
       ]
@@ -1775,8 +1775,8 @@
       "@type": "Claim",
       "@id": "C-2910",
       "ref": "C-2910",
-      "label": "Bradley Hansel was sworn in on July 25, 2025",
-      "claim": "Per host, Hansel was nominated by Trump and confirmed by the Senate, then sworn in on July 25, 2025.",
+      "label": "Bradley Hansell Was Sworn In on July 25, 2025",
+      "claim": "Per host, Hansell was nominated by Trump and confirmed by the Senate, then sworn in on July 25, 2025.",
       "anchored_artifacts": [
         "A-2076.2",
         "A-2079.1"
@@ -1793,14 +1793,14 @@
       "@type": "Claim",
       "@id": "C-2911",
       "ref": "C-2911",
-      "label": "Bradley Hansel served in Navy and Army Special Forces Airborne Division",
-      "claim": "Per host, after serving in the Navy and Army Special Forces Airborne Division, Hansel went to work for the Boston Consulting Group.",
+      "label": "Bradley Hansell Served in Navy and Army Special Forces Airborne Division",
+      "claim": "Per host, after serving in the Navy and Army Special Forces Airborne Division, Hansell went to work for the Boston Consulting Group.",
       "anchored_artifacts": [
         "A-2079.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:13:45",
+      "claim_timestamp": "00:14:05",
       "investigative_direction": "Verify service record via official DoD / Army Special Forces sources.",
       "mentions_person_refs": [
         "N-434"
@@ -1810,8 +1810,8 @@
       "@type": "Claim",
       "@id": "C-2912",
       "ref": "C-2912",
-      "label": "Bradley Hansel served as Special Assistant to President Trump for National Security Affairs",
-      "claim": "Per host, Hansel was picked to work under Trump's first administration as a member of the National Security Council as Special Assistant to President Donald J. Trump for National Security Affairs.",
+      "label": "Bradley Hansell Served as Special Assistant to President Trump for National Security Affairs",
+      "claim": "Per host, Hansell was picked to work under Trump's first administration as a member of the National Security Council as Special Assistant to President Donald J. Trump for National Security Affairs.",
       "anchored_artifacts": [
         "A-2079.1"
       ],
@@ -1819,7 +1819,7 @@
         "N-10668"
       ],
       "tags": [],
-      "claim_timestamp": "00:14:00",
+      "claim_timestamp": "00:14:20",
       "investigative_direction": "Verify NSC roster for Trump's first term.",
       "mentions_person_refs": [
         "N-434"
@@ -1829,8 +1829,8 @@
       "@type": "Claim",
       "@id": "C-2913",
       "ref": "C-2913",
-      "label": "Bradley Hansel worked at the Boston Consulting Group",
-      "claim": "Per host, Hansel worked at the Boston Consulting Group both after his military service and after Trump's first term (returning as a principal of the firm).",
+      "label": "Bradley Hansell Worked at the Boston Consulting Group",
+      "claim": "Per host, Hansell worked at the Boston Consulting Group both after his military service and after Trump's first term (returning as a principal of the firm).",
       "anchored_artifacts": [
         "A-2076.1",
         "A-2079.1"
@@ -1946,10 +1946,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:30",
-      "investigative_direction": "Confirm dismissals and audit via BCG press releases or FT follow-up reporting.",
-      "mentions_person_refs": [
-        "N-435"
-      ]
+      "investigative_direction": "Confirm dismissals and audit via BCG press releases or FT follow-up reporting."
     },
     {
       "@type": "Claim",
@@ -1984,11 +1981,10 @@
         "N-10670"
       ],
       "tags": [],
-      "claim_timestamp": "00:20:00",
+      "claim_timestamp": "00:20:30",
       "investigative_direction": "Verify appointment date and tenure length (host states Moore \"eventually abandoned the project November\").",
       "mentions_person_refs": [
-        "N-438",
-        "N-435"
+        "N-438"
       ]
     },
     {
@@ -2004,11 +2000,8 @@
         "N-10670"
       ],
       "tags": [],
-      "claim_timestamp": "00:20:00",
-      "investigative_direction": "Verify Jake Wood's resignation date and public statement.",
-      "mentions_person_refs": [
-        "N-435"
-      ]
+      "claim_timestamp": "00:20:40",
+      "investigative_direction": "Verify Jake Wood's resignation date and public statement."
     },
     {
       "@type": "Claim",
@@ -2024,11 +2017,8 @@
         "N-10670"
       ],
       "tags": [],
-      "claim_timestamp": "00:18:30",
-      "investigative_direction": "Verify BCG-GHF operational scope via FT reporting or leaked BCG documents.",
-      "mentions_person_refs": [
-        "N-435"
-      ]
+      "claim_timestamp": "00:19:05",
+      "investigative_direction": "Verify BCG-GHF operational scope via FT reporting or leaked BCG documents."
     },
     {
       "@type": "Claim",
@@ -2079,15 +2069,15 @@
       "claim_timestamp": "00:39:00",
       "investigative_direction": "Cross-check name and role against French archival records; note host's claim that some Mormons believe the priest may have been inebriated but \"that assertion could not be confirmed.\"",
       "mentions_person_refs": [
-        "N-449"
+        "N-28"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2927",
       "ref": "C-2927",
-      "label": "Mitt Romney operated a \"Pierre Deleto\" burner X/Twitter account",
-      "claim": "Per viewer comment read on-air and host concurrence, Mitt Romney operated a burner X account under the French name Pierre Deleto.",
+      "label": "Mitt Romney Operated a \"Pierre Delecto\" Burner X/Twitter Account",
+      "claim": "Per viewer comments read on-air and host concurrence, Mitt Romney operated a burner X account under the French name Pierre Delecto.",
       "anchored_artifacts": [
         "A-2082.1"
       ],
@@ -2193,10 +2183,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
-      "investigative_direction": "Verify Orbis involvement via FT reporting or leaked BCG documents.",
-      "mentions_person_refs": [
-        "N-435"
-      ]
+      "investigative_direction": "Verify Orbis involvement via FT reporting or leaked BCG documents."
     },
     {
       "@type": "Claim",
@@ -2229,10 +2216,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:00",
-      "investigative_direction": "Verify Phil Reilly's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting.",
-      "mentions_person_refs": [
-        "N-435"
-      ]
+      "investigative_direction": "Verify Phil Reilly's CIA and Orbis employment; cross-check BCG-Riley relationship in FT reporting."
     },
     {
       "@type": "Claim",
@@ -2243,7 +2227,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Check the channel's public subscriber count and any disclosed advertising or financing; the funding denial can only be tested against the host's financial records.",
@@ -2302,7 +2286,7 @@
       "@id": "C-14633",
       "ref": "C-14633",
       "label": "Host Lists Netanyahu's Summer 2025 American Podcast Appearances With Release Dates",
-      "claim": "The host lists Benjamin Netanyahu's 2025 American podcast interviews: Nelk Boys released July 21, Trigonometry August 20, Patrick Bet-David recorded and released August 26, Officer Tatum and a TBN interview with Eric Stakelbeck both released September 4.",
+      "claim": "The host lists Benjamin Netanyahu's 2025 American podcast interviews: Nelk Boys released July 21, Trigonometry August 20, Patrick Bet-David recorded and released August 26, Officer Tatum released September 4, and on September 4 a sit-down with Eric Stakelbeck of TBN.",
       "anchored_artifacts": [
         "A-3337.1"
       ],
@@ -2638,8 +2622,8 @@
       "@type": "Claim",
       "@id": "C-14649",
       "ref": "C-14649",
-      "label": "Host Says Bradley Hansel Was Aboard the Plane With Four Other People",
-      "claim": "The host says one of the VIPs aboard the Fort Huachuca-to-El Paso plane, apparently with four other people, was Bradley Hansel.",
+      "label": "Host Says Bradley Hansell Was Aboard the Plane With Four Other People",
+      "claim": "The host says one of the VIPs aboard the Fort Huachuca-to-El Paso plane, apparently with four other people, was Bradley Hansell.",
       "anchored_artifacts": [
         "A-2076.1"
       ],
@@ -2651,7 +2635,7 @@
       ],
       "claim_timestamp": "00:13:10",
       "investigative_direction": "Obtain the SAM702 manifest and Hansell's travel calendar through FOIA; the host says her request is pending (see later episodes).",
-      "transcript_snippet": "now we can reveal the name of one of those VIPs who was aboard the plane apparently with four other people. His name is Bradley Hansel.",
+      "transcript_snippet": "now we can reveal the name of one of those VIPs who was aboard the plane apparently with four other people. His name is Bradley Hansell.",
       "mentions_person_refs": [
         "N-434"
       ]
@@ -2660,8 +2644,8 @@
       "@type": "Claim",
       "@id": "C-14650",
       "ref": "C-14650",
-      "label": "Host Says Boston Consulting Group Had a Massive Scandal the Month Hansel Was Sworn In",
-      "claim": "The host says that in the same month Bradley Hansel was sworn in (July 2025), Boston Consulting Group had a massive scandal uncovered by Financial Times reporting from whistleblowers.",
+      "label": "Host Says Boston Consulting Group Had a Massive Scandal the Month Hansell Was Sworn In",
+      "claim": "The host says that in the same month Bradley Hansell was sworn in (July 2025), Boston Consulting Group had a massive scandal uncovered by Financial Times reporting from whistleblowers.",
       "anchored_artifacts": [
         "A-2077.1"
       ],
@@ -2674,7 +2658,7 @@
       ],
       "claim_timestamp": "00:15:35",
       "investigative_direction": "Compare Hansell's swearing-in date (July 25, 2025) with the Financial Times Project Aurora publication dates.",
-      "transcript_snippet": "in the very month that Mr. Hansel was sworn in, the Boston Consulting Group had a massive scandal which was uncovered due to the reporting over at the Financial Times.",
+      "transcript_snippet": "in the very month that Mr. Hansell was sworn in, the Boston Consulting Group had a massive scandal which was uncovered due to the reporting over at the Financial Times.",
       "mentions_person_refs": [
         "N-434"
       ]

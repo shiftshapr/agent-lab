@@ -902,7 +902,6 @@
       "aliases": [
         "Andrew Kolbet (Turning Point USA spokesperson)",
         "Andrew Kolvet (also spelled Kolvetz in transcript)",
-        "Andrew Colvin",
         "Andrew Kovvette",
         "Andrew Kvette",
         "Andrew Colbet",
@@ -1372,8 +1371,7 @@
       "canonical_name": "Mitt Romney",
       "type": "person",
       "aliases": [
-        "Pierre Delecto",
-        "Pierre Deleto"
+        "Pierre Delecto"
       ],
       "episodes": [
         87,
@@ -6850,8 +6848,6 @@
       "canonical_name": "Bradley Hansell",
       "type": "person",
       "aliases": [
-        "Bradley Hansel",
-        "Brad Hansel",
         "Brad Hansell"
       ],
       "episodes": [
@@ -8797,11 +8793,9 @@
       ]
     },
     "N-628": {
-      "canonical_name": "Richard Smaly",
+      "canonical_name": "Richard Smale",
       "type": "person",
-      "aliases": [
-        "Richard Smalley"
-      ],
+      "aliases": [],
       "episodes": [
         105,
         106,
@@ -8871,7 +8865,7 @@
       ]
     },
     "N-636": {
-      "canonical_name": "Charlie Spearing",
+      "canonical_name": "Charlie Spiering",
       "type": "person",
       "aliases": [],
       "episodes": [
@@ -8993,9 +8987,7 @@
     "N-649": {
       "canonical_name": "Raphael Schreiber",
       "type": "person",
-      "aliases": [
-        "Raphael Schriber"
-      ],
+      "aliases": [],
       "episodes": [
         109
       ]

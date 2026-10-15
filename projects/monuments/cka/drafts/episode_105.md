@@ -310,7 +310,7 @@ First named by the host at 00:05:04 in episode 105. Cited as a long-serving lead
 
 *Related: C-4110*
 
-**N-628** Richard Smaly
+**N-628** Richard Smale
 
 First named by the host at 00:10:20 in episode 105. Described as a communications officer and information assurance engineer at the White House Communications Agency who received the email.
 
@@ -531,12 +531,12 @@ Investigative Direction: File FOIA requests for White House Military Office and 
 
 Claim Timestamp: 00:04:07
 
-Claim: The host says President Trump has survived three separate physical shooting assassination attempts in just under two years, which she says is unprecedented for a sitting president.
+Claim: The host says we are supposed to believe that President Trump has survived three separate shooting assassination attempts in just under two years, which she says would be unprecedented for a sitting president.
 
 Transcript Snippet: a sitting president has survived not one, not two, but three separate shooting assassination attempts all in the span of just under two years
 
 Anchored Artifacts:
-Mentions: N-5, N-1
+Mentions: N-5
 Related Nodes: N-10637
 Investigative Direction: Compile Secret Service and FBI records of the Butler, West Palm Beach and WHCD incidents and their dates.
 
@@ -561,7 +561,7 @@ Investigative Direction: Check Putin's years in office and the public record of 
 
 Claim Timestamp: 00:05:04
 
-Claim: The host asserts that the email proves the amplification of the Erika Kirk clip was designed by the military, and says the media will not cover it.
+Claim: The host asserts that the email proves the amplification of the Erika Kirk clip was designed by the military, and says the media will probably not want to cover it.
 
 Transcript Snippet: But now we have the proof at the very least that its amplification was designed by the military. That is a fact.
 
@@ -574,7 +574,7 @@ Investigative Direction: Authenticate the email through the White House Communic
 
 **C-4112** Erika Kirk was appointed to the Air Force Academy Board of Visitors
 
-Claim Timestamp: 00:05:04
+Claim Timestamp: 00:06:15
 
 Claim: The host says Erika Kirk was appointed to the Air Force Academy Board of Visitors in her husband's place and questions whether she is qualified.
 
@@ -658,7 +658,7 @@ Claim: The host says that about 25 minutes after Sidner's upload, the White Hous
 Transcript Snippet: approximately 25 minutes later, we revealed to you that the White House military office sent out follow-up instructions uh in an email that accidentally went out to the wrong internal teams
 
 Anchored Artifacts: A-2581.1
-Mentions: N-2
+Mentions: N-371
 Related Nodes: N-10923, N-10637
 Investigative Direction: Obtain the email's header timestamps and distribution list through FOIA or the named recipients.
 
@@ -769,13 +769,13 @@ Investigative Direction: Ask the White House press office to confirm or deny rec
 
 ---
 
-**C-4125** Steven Cheung and Richard Smaly were on the email
+**C-4125** Steven Cheung and Richard Smale were on the email
 
 Claim Timestamp: 00:10:20
 
-Claim: The host says White House communications director Steven Cheung and Richard Smaly, a WHCA communications officer and information assurance engineer, were recipients of the email.
+Claim: The host says White House communications director Steven Cheung and Richard Smale, a WHCA communications officer and information assurance engineer, were recipients of the email.
 
-Transcript Snippet: We covered some of this yesterday with Steven Chong who is the White House communications director. Richard Smaly who is the communications officer
+Transcript Snippet: We covered some of this yesterday with Steven Chong who is the White House communications director. Richard Smale who is the communications officer
 
 Anchored Artifacts: A-2581.2
 Mentions: N-161, N-628
@@ -1109,7 +1109,7 @@ Claim: The host says pro-Erika, pro-TPUSA Israeli clone accounts on X began orga
 Transcript Snippet: like you could just draw a direct line on X began trying to organize this boycott of my advertisers.
 
 Anchored Artifacts:
-Mentions: N-3
+Mentions: N-2, N-3
 Related Nodes: N-10934
 Investigative Direction: Analyze the accounts that posted the boycott calls for creation dates and coordination patterns.
 
@@ -1619,7 +1619,7 @@ Confidence: high
 - **DIA beats**: a scan for the required tip/bounty phrases found no hits (the only "tip" match is inside "multiple" in a sponsor read). No DIA claim, artifact or M-12 occurrence was inscribed, and M-14 does not air.
 - **Artifacts verbally referenced but not shown**: A-2587.2 (earlier Paramount Tactical stream clip, not replayed) and A-2588.1 (Tracy Martin's statement). Sara Sidner's CNN upload of the Erika Kirk clip is referenced but not re-shown, so no artifact was made for it. The host says the email shown (A-2581.1) is her own retyping, not the original document.
 - **Duration discrepancy**: the skeleton meta gave 00:56:29; the transcript front matter gives 53:39, which is used here.
-- **Name matching**: "Sydney Sidner" is mapped to N-371 Sarah Sidner (CNN). "Steven Chong" is mapped to N-161 Steven Cheung. "Harit Dylan" and "Dhillon Law Group" are mapped to N-374 Harmeet Dhillon and N-10652. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kolvet", "Kolvet" and "Kovat" are mapped to N-14. The email recipients "Richard Smaly", "Gustav Anderly", "Ryan Rippeon" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin Olirri", "Olyri" and "Kevin Liry" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-617) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.
+- **Name matching**: "Sydney Sidner" is mapped to N-371 Sarah Sidner (CNN). "Steven Chong" is mapped to N-161 Steven Cheung. "Harit Dylan" and "Dhillon Law Group" are mapped to N-374 Harmeet Dhillon and N-10652. "Caroline Lev" (15:44) is read as Karoline Leavitt. "Andrew Kolvet", "Kolvet" and "Kovat" are mapped to N-14. The email recipients "Richard Smale", "Gustav Anderly", "Ryan Rippeon" and "Michaela Mott" are minted as new persons with the transcript spellings, which are unverified auto-caption renderings. "Kevin Olirri", "Olyri" and "Kevin Liry" are treated as Kevin O'Leary. Gary Melton is minted as a person (N-617) separate from the org node N-10899 Paramount Tactical Valhalla, and the integrator may wish to link them.
 - **Transcription ambiguities**: "White House Correspondence Agency" in the read quote (09:00) is taken to mean the White House Communications Agency. "acidic"/"acetic" Jews is kept as written and read as Hasidic. "Fort Huachuca" means Fort Huachuca. "Charlie Cook" (26:33, 35:20) is read as Charlie Kirk. The host says "Department of Justice" at 12:19 where context suggests Defense. "SCOPS" and "scops" are probably "psyops."
 - **Factual caveat**: C-4110 records the host's statement that Putin has been president for 22 years as spoken, without correction.
 - **Not inscribed as claims (admission test)**: "We are living inside of an episode of Black Mirror"; "operation mockingbird on steroids"; "We, all of us, we were the actual targets"; Erika Kirk as "a piece of military technology" or "Israeli tech"; "she socially engineered Charlie"; the military controlling X and trends; the aim of data centers being a surveillance state; Trump as "the ultimate Trojan horse"; the Charlie Kirk Show hosts "maybe kind of hate Charlie Kirk"; Erika Kirk having trouble producing real tears; the ballroom "surrogates" gut feeling; and rhetorical questions about Erika's West Wing visit.

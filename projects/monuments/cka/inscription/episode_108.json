@@ -1493,7 +1493,7 @@
       "@id": "C-4213",
       "ref": "C-4213",
       "label": "Thomas Massie lost his Kentucky primary",
-      "claim": "The host says Thomas Massie lost in Kentucky the day before the episode.",
+      "claim": "The host says Thomas Massie lost in Kentucky.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10916"
@@ -1597,7 +1597,7 @@
       "@id": "C-4218",
       "ref": "C-4218",
       "label": "Marx says he learned of the shooting from a text by a father whose son was at the event",
-      "claim": "Victor Marx says someone texted him that his son was at Charlie Kirk's event, that Kirk had just been shot, and that it did not look good.",
+      "claim": "Victor Marx says someone texted him that the sender's son was at Charlie Kirk's event, that Kirk had just been shot, and that it did not look good.",
       "anchored_artifacts": [
         "A-2600.1"
       ],
@@ -1655,7 +1655,7 @@
       "transcript_snippet": "I put it up and then I didn't see anybody else posting it. I thought it was premature and I I pulled it down cuz it just felt wrong that I would post it.",
       "mentions_person_refs": [
         "N-342",
-        "N-7"
+        "N-1"
       ]
     },
     {
@@ -1767,8 +1767,7 @@
       "transcript_snippet": "I'm currently being sued by Brian Harpole, head of Charlie's security team.",
       "mentions_person_refs": [
         "N-267",
-        "N-3",
-        "N-342"
+        "N-3"
       ]
     },
     {
@@ -1790,7 +1789,8 @@
       "mentions_person_refs": [
         "N-342",
         "N-267",
-        "N-3"
+        "N-3",
+        "N-271"
       ]
     },
     {
@@ -1833,8 +1833,7 @@
       "investigative_direction": "Identify who asked Marx's team to provide security and obtain related communications.",
       "transcript_snippet": "we brought our team uh immediately uh to help give relief for the first security team who I knew, who I was in contact with, and they were suffering trauma and exhaustion. They didn't have a secondary.",
       "mentions_person_refs": [
-        "N-342",
-        "N-2"
+        "N-342"
       ]
     },
     {
@@ -2227,10 +2226,7 @@
       "tags": [],
       "claim_timestamp": "00:32:07",
       "investigative_direction": "Review the Daily Mail article describing the screening and request the screened file for forensic analysis.",
-      "transcript_snippet": "I mean, how ill-advisable to go to the Daily Mail to say \"We're going to host a little private screening with you.\"",
-      "mentions_person_refs": [
-        "N-2"
-      ]
+      "transcript_snippet": "I mean, how ill-advisable to go to the Daily Mail to say \"We're going to host a little private screening with you.\""
     },
     {
       "@type": "Claim",

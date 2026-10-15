@@ -41,11 +41,11 @@
 
 ## II. Executive Summary
 
-This episode presents the host's announcement that Bradley Hansel, the Under Secretary of War for Intelligence and Security, has been identified as a VIP aboard the Air Force designation SAM702 on the morning of September 9, 2025, departing Fort Huachuca (transcribed as "Fort Huachuca") for El Paso, Texas. Hansel's prior career at the Boston Consulting Group (BCG) is positioned alongside the host's prior assertions that Mitt Romney and Benjamin Netanyahu both worked at BCG, and Bain Capital was seeded by Robert Maxwell.
+This episode presents the host's announcement that Bradley Hansell, the Under Secretary of War for Intelligence and Security, has been identified as a VIP aboard the Air Force designation SAM702 on the morning of September 9, 2025, departing Fort Huachuca (transcribed as "Fort Huachuca") for El Paso, Texas. Hansell's prior career at the Boston Consulting Group (BCG) is positioned alongside the host's prior assertions that Mitt Romney and Benjamin Netanyahu both worked at BCG, and Bain Capital was seeded by Robert Maxwell.
 
-The host reads at length from a website summarizing Financial Times reporting on BCG's "Project Aurora" – a consultancy for the Gaza Humanitarian Foundation that produced relocation models for Palestinians (totaling $2.5–5 billion) – and references a Times of Israel article on Johnny Moore's appointment to chair the foundation after Jake Wood's resignation and BCG's withdrawal. A displayed connection graphic and an internal working timeline (June–September 2025) accompany the discussion, the latter anchoring dates such as Erika Kirk's June 19 Instagram purge of 126 posts and Palantir's July 30 announcement of a $10B military software deal with Fort Huachuca stationing. Mitt Romney's June 16, 1968 France car crash is presented via a NYT article, and a viewer comment referencing Romney's "Pierre Deleto" burner X account is read.
+The host reads at length from a website summarizing Financial Times reporting on BCG's "Project Aurora" – a consultancy for the Gaza Humanitarian Foundation that produced relocation models for Palestinians (totaling $2.5–5 billion) – and references a Times of Israel article on Johnny Moore's appointment to chair the foundation after Jake Wood's resignation and BCG's withdrawal. A displayed connection graphic and an internal working timeline (June–September 2025) accompany the discussion, the latter anchoring dates such as Erika Kirk's June 19 Instagram purge of 126 posts and Palantir's July 30 announcement of a $10B military software deal with Fort Huachuca stationing. Mitt Romney's June 16, 1968 France car crash is presented via a NYT article, and a viewer comment referencing Romney's "Pierre Delecto" burner X account is read.
 
-The episode's central investigative advance is the SAM702/Hansel identification. Its central investigative weakness is the absence of any on-air primary artifact (manifest, flight record image, or third-party confirmation) supporting that identification, which is flagged below.
+The episode's central investigative advance is the SAM702/Hansell identification. Its central investigative weakness is the absence of any on-air primary artifact (manifest, flight record image, or third-party confirmation) supporting that identification, which is flagged below.
 
 ---
 
@@ -53,9 +53,9 @@ The episode's central investigative advance is the SAM702/Hansel identification.
 
 **A-2076** Episode 344 On-Screen Display Bundle
 
-**A-2076.1** On-screen connection graphic: Bradley Hansel (Under Secretary of War for Intelligence and Security), Benjamin Netanyahu, Mitt Romney, Boston Consulting Group, Project Aurora, Gaza Humanitarian Foundation, Orbis, Tacit/Tachlith Institute, Phil Reilly
+**A-2076.1** On-screen connection graphic: Bradley Hansell (Under Secretary of War for Intelligence and Security), Benjamin Netanyahu, Mitt Romney, Boston Consulting Group, Project Aurora, Gaza Humanitarian Foundation, Orbis, Tacit/Tachlith Institute, Phil Reilly
 
-Host states: "here is what it looks like right now. Currently on the graphic, I can show you this graphic here. We have Brad Hansel, our under secretary of war of defense and intelligence. We have, of course, Netanyahu… They all worked for the Boston Consulting Group… It also tells you about project Aurora, about the Gaza Humanitarian Foundation. It also tells you who engaged them. They were initially engaged by Orbis… Orbis was prepping the study on behalf of the Tachlith Institute… BCG was chosen as that consultant because of their long-standing relationship with Phil Reilly, an ex CIA operative who worked for Orbus."
+Host states: "here is what it looks like right now. Currently on the graphic, I can show you this graphic here. We have Brad Hansell, our under secretary of war of defense and intelligence. We have, of course, Netanyahu… They all worked for the Boston Consulting Group… It also tells you about project Aurora, about the Gaza Humanitarian Foundation. It also tells you who engaged them. They were initially engaged by Orbis… Orbis was prepping the study on behalf of the Tachlith Institute… BCG was chosen as that consultant because of their long-standing relationship with Phil Reilly, an ex CIA operative who worked for Orbus."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -67,7 +67,7 @@ Confidence Level: Medium
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
-Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnny Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansel confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Ginan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Catis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dhillon Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
+Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnny Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansell confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Ginan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Catis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dhillon Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -111,11 +111,11 @@ Confidence Level: Medium
 
 ---
 
-**A-2079** Department of War Hansel Biography Bundle
+**A-2079** Department of War Hansell Biography Bundle
 
-**A-2079.1** Department of War website text read aloud by host describing Bradley Hansel's role
+**A-2079.1** Department of War website text read aloud by host describing Bradley Hansell's role
 
-Host reads: "Mr. Hansell exercises authority, direction, and control on behalf of the Secretary of War, that's Pete Hegseth, over all intelligence and security organizations in the Department of War, including the nine Department of War components that are members of the intelligence community. He also serves as the director of defense intelligence and the principal adviser to the director of national intelligence on defense intelligence matters." Host also states: "After serving in the military, first in the Navy and then the Army Special Forces Airborne Division, Brad Hansel immediately went to work for the Boston Consulting Group… he was then picked to work under Trump's first administration as a member of the National Security Council and he was to work as the special assistant to President Donald J. Trump for National Security Affairs. When Trump's first term concluded, he went back to the Boston Consulting Group as a principal of the firm for years."
+Host reads: "Mr. Hansell exercises authority, direction, and control on behalf of the Secretary of War, that's Pete Hegseth, over all intelligence and security organizations in the Department of War, including the nine Department of War components that are members of the intelligence community. He also serves as the director of defense intelligence and the principal adviser to the director of national intelligence on defense intelligence matters." Host also states: "After serving in the military, first in the Navy and then the Army Special Forces Airborne Division, Brad Hansell immediately went to work for the Boston Consulting Group… he was then picked to work under Trump's first administration as a member of the National Security Council and he was to work as the special assistant to President Donald J. Trump for National Security Affairs. When Trump's first term concluded, he went back to the Boston Consulting Group as a principal of the firm for years."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -159,11 +159,11 @@ Confidence Level: High (NYT)
 
 ---
 
-**A-2082** Pierre Deleto Viewer Comment Bundle
+**A-2082** Pierre Delecto Viewer Comment Bundle
 
-**A-2082.1** Viewer comment reminding host of Mitt Romney's "Pierre Deleto" burner X/Twitter account
+**A-2082.1** Viewer comment reminding host of Mitt Romney's "Pierre Delecto" burner X/Twitter account
 
-Host reads/responds to comment: "Loans. Okay, we got some comments that just came in reminding us about Mitt Romney's burner Twitter account that had the French name Pierre Deleto. Pierre Deleto… Uh it was in fact Mitt Romney operating a burner account on X and he chose a French name because he is fluent in France because of his Mormon mission trip."
+Host reads/responds to comment: "Loans. Okay, we got some comments that just came in reminding us about Mitt Romney's burner Twitter account that had the French name Pierre Delecto. Pierre Delecto… Uh it was in fact Mitt Romney operating a burner account on X and he chose a French name because he is fluent in France because of his Mormon mission trip."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -306,7 +306,7 @@ Confidence Level: Low
 
 **N-434** Bradley Hansell
 
-First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansel, Brad Hansel, Brad Hansell.
+First named by the host at 00:12:14 in episode 110. Aliases: Bradley Hansell, Brad Hansell, Brad Hansell.
 
 *Related: C-2909, C-2910, C-2911, C-2912, C-2913, A-2076.1, A-2079.1*
 
@@ -327,7 +327,7 @@ First named by the host at 00:37:13 in episode 110.
 
 **N-10668** Boston Consulting Group Government Pipeline
 
-Persistent investigation target: host asserts BCG employment overlaps with government appointments for Hansel, Romney, and (per host) Netanyahu; raises questions about consulting client identity ("who are they consulting for?").
+Persistent investigation target: host asserts BCG employment overlaps with government appointments for Hansell, Romney, and (per host) Netanyahu; raises questions about consulting client identity ("who are they consulting for?").
 
 Evidence Count: 2
 Claim Count: 3
@@ -366,7 +366,7 @@ Investigative Pressure: High
 
 **N-10671** SAM702 / Fort Huachuca September 9 Passenger Manifest
 
-Persistent investigation target: identity of VIPs aboard Air Force SAM702 departing Fort Huachuca for El Paso on morning of September 9, 2025; host names Bradley Hansel; Palantir $10B stationing; Brian Harpole alleged presence.
+Persistent investigation target: identity of VIPs aboard Air Force SAM702 departing Fort Huachuca for El Paso on morning of September 9, 2025; host names Bradley Hansell; Palantir $10B stationing; Brian Harpole alleged presence.
 
 Evidence Count: 3
 Claim Count: 1
@@ -874,26 +874,26 @@ The host's account of Netanyahu's summer 2025 run of American podcast interviews
 
 ## V. Claim Register
 
-**C-2909** Bradley Hansel serves as Under Secretary of War for Intelligence and Security
+**C-2909** Bradley Hansell Serves as Under Secretary of War for Intelligence and Security
 
 Claim Timestamp: 00:13:30
 
-Claim: Per the Department of War website, Bradley Hansel exercises authority, direction, and control over all intelligence and security organizations in the Department of War on behalf of the Secretary of War.
+Claim: Per the Department of War website the host cites, Bradley Hansell exercises authority, direction, and control over all intelligence and security organizations in the Department of War on behalf of the Secretary of War.
 
 Anchored Artifacts: A-2079.1
 Mentions: N-434
 
 Related Nodes: N-10668
 
-Investigative Direction: Verify the Department of War website listing for Bradley Hansel; cross-check Senate confirmation record and July 25, 2025 swearing-in.
+Investigative Direction: Verify the Department of War website listing for Bradley Hansell; cross-check Senate confirmation record and July 25, 2025 swearing-in.
 
 ---
 
-**C-2910** Bradley Hansel was sworn in on July 25, 2025
+**C-2910** Bradley Hansell Was Sworn In on July 25, 2025
 
 Claim Timestamp: 00:13:30
 
-Claim: Per host, Hansel was nominated by Trump and confirmed by the Senate, then sworn in on July 25, 2025.
+Claim: Per host, Hansell was nominated by Trump and confirmed by the Senate, then sworn in on July 25, 2025.
 
 Anchored Artifacts: A-2076.2, A-2079.1
 Mentions: N-434
@@ -904,11 +904,11 @@ Investigative Direction: Verify Senate roll-call vote and swearing-in date via o
 
 ---
 
-**C-2911** Bradley Hansel served in Navy and Army Special Forces Airborne Division
+**C-2911** Bradley Hansell Served in Navy and Army Special Forces Airborne Division
 
-Claim Timestamp: 00:13:45
+Claim Timestamp: 00:14:05
 
-Claim: Per host, after serving in the Navy and Army Special Forces Airborne Division, Hansel went to work for the Boston Consulting Group.
+Claim: Per host, after serving in the Navy and Army Special Forces Airborne Division, Hansell went to work for the Boston Consulting Group.
 
 Anchored Artifacts: A-2079.1
 Mentions: N-434
@@ -919,11 +919,11 @@ Investigative Direction: Verify service record via official DoD / Army Special F
 
 ---
 
-**C-2912** Bradley Hansel served as Special Assistant to President Trump for National Security Affairs
+**C-2912** Bradley Hansell Served as Special Assistant to President Trump for National Security Affairs
 
-Claim Timestamp: 00:14:00
+Claim Timestamp: 00:14:20
 
-Claim: Per host, Hansel was picked to work under Trump's first administration as a member of the National Security Council as Special Assistant to President Donald J. Trump for National Security Affairs.
+Claim: Per host, Hansell was picked to work under Trump's first administration as a member of the National Security Council as Special Assistant to President Donald J. Trump for National Security Affairs.
 
 Anchored Artifacts: A-2079.1
 Mentions: N-434
@@ -934,11 +934,11 @@ Investigative Direction: Verify NSC roster for Trump's first term.
 
 ---
 
-**C-2913** Bradley Hansel worked at the Boston Consulting Group
+**C-2913** Bradley Hansell Worked at the Boston Consulting Group
 
 Claim Timestamp: 00:14:10
 
-Claim: Per host, Hansel worked at the Boston Consulting Group both after his military service and after Trump's first term (returning as a principal of the firm).
+Claim: Per host, Hansell worked at the Boston Consulting Group both after his military service and after Trump's first term (returning as a principal of the firm).
 
 Anchored Artifacts: A-2076.1, A-2079.1
 Mentions: N-434
@@ -1027,7 +1027,7 @@ Claim Timestamp: 00:18:30
 Claim: Per host reading, BCG dismissed two partners and launched an external audit in July 2025 after the Financial Times story.
 
 Anchored Artifacts: A-2077.1
-Mentions: N-435
+Mentions: 
 
 Related Nodes: N-10669
 
@@ -1052,12 +1052,12 @@ Investigative Direction: Locate Schweizer's original statement in Financial Time
 
 **C-2921** Johnny Moore was appointed executive chairman of the Gaza Humanitarian Foundation
 
-Claim Timestamp: 00:20:00
+Claim Timestamp: 00:20:30
 
 Claim: Per Times of Israel article referenced by host, Johnny Moore was appointed executive chairman of the Gaza Humanitarian Foundation after Jake Wood's resignation and BCG's withdrawal.
 
 Anchored Artifacts: A-2076.2, A-2078.1
-Mentions: N-438, N-435
+Mentions: N-438
 
 Related Nodes: N-10670
 
@@ -1067,12 +1067,12 @@ Investigative Direction: Verify appointment date and tenure length (host states 
 
 **C-2922** Jake Wood resigned as CEO of the Gaza Humanitarian Foundation prior to BCG's withdrawal
 
-Claim Timestamp: 00:20:00
+Claim Timestamp: 00:20:40
 
 Claim: Per Times of Israel article referenced by host, GHF's previous CEO Jake Wood quit prior to BCG's withdrawal from the project.
 
 Anchored Artifacts: A-2078.1
-Mentions: N-435
+Mentions: 
 
 Related Nodes: N-10670
 
@@ -1082,12 +1082,12 @@ Investigative Direction: Verify Jake Wood's resignation date and public statemen
 
 **C-2923** BCG developed logistics, organizational structure, and security contractor pricing for the Gaza Humanitarian Foundation
 
-Claim Timestamp: 00:18:30
+Claim Timestamp: 00:19:05
 
 Claim: Per host, BCG helped develop the logistics, the organizational structure, and the pricing for paying and equipping private security contractors to operate the food distribution hubs in Gaza for the GHF.
 
 Anchored Artifacts: A-2076.1, A-2077.1
-Mentions: N-435
+Mentions: 
 
 Related Nodes: N-10670
 
@@ -1131,7 +1131,7 @@ Claim Timestamp: 00:39:00
 Claim: Per NYT article, the driver of the car that struck Romney's was a 46-year-old man, Albert Marie, a Catholic priest.
 
 Anchored Artifacts: A-2081.1
-Mentions: N-449
+Mentions: N-28
 
 Related Nodes:
 
@@ -1139,11 +1139,11 @@ Investigative Direction: Cross-check name and role against French archival recor
 
 ---
 
-**C-2927** Mitt Romney operated a "Pierre Deleto" burner X/Twitter account
+**C-2927** Mitt Romney Operated a "Pierre Delecto" Burner X/Twitter Account
 
 Claim Timestamp: 00:46:50
 
-Claim: Per viewer comment read on-air and host concurrence, Mitt Romney operated a burner X account under the French name Pierre Deleto.
+Claim: Per viewer comments read on-air and host concurrence, Mitt Romney operated a burner X account under the French name Pierre Delecto.
 
 Anchored Artifacts: A-2082.1
 Mentions: N-28
@@ -1221,7 +1221,7 @@ Claim Timestamp: 00:22:00
 Claim: Per the displayed on-screen graphic and host description, Orbis – a Washington-area security contractor – initially engaged BCG to help with a feasibility study for a new aid project.
 
 Anchored Artifacts: A-2076.1
-Mentions: N-435
+Mentions: 
 
 Related Nodes: N-10670
 
@@ -1250,7 +1250,7 @@ Claim Timestamp: 00:22:00
 Claim: Per the displayed on-screen graphic and host description, BCG was chosen as Project Aurora consultant because of its long-standing relationship with Phil Reilly, an ex-CIA operative who worked for Orbis.
 
 Anchored Artifacts: A-2076.1
-Mentions: N-435
+Mentions: 
 
 Related Nodes: N-10670
 
@@ -1268,7 +1268,7 @@ Transcript Snippet: Without a single dollar spent on advertising, zero dollars. 
 
 Anchored Artifacts: 
 Mentions: N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the channel's public subscriber count and any disclosed advertising or financing; the funding denial can only be tested against the host's financial records.
 
 ---
@@ -1310,7 +1310,7 @@ Investigative Direction: Ask Charlie Kirk Show staff or TPUSA for the booking re
 
 Claim Timestamp: 00:03:10
 
-Claim: The host lists Benjamin Netanyahu's 2025 American podcast interviews: Nelk Boys released July 21, Trigonometry August 20, Patrick Bet-David recorded and released August 26, Officer Tatum and a TBN interview with Eric Stakelbeck both released September 4.
+Claim: The host lists Benjamin Netanyahu's 2025 American podcast interviews: Nelk Boys released July 21, Trigonometry August 20, Patrick Bet-David recorded and released August 26, Officer Tatum released September 4, and on September 4 a sit-down with Eric Stakelbeck of TBN.
 
 Transcript Snippet: He did the Nelk Boys that was released on July 21st. He did uh Trigonometry that was released on August 20th. He also did the Patrick Bet David show that was recorded and then released on August 26th.
 
@@ -1562,13 +1562,13 @@ Investigative Direction: Review flight-tracking and FOIA records of departures f
 
 ---
 
-**C-14649** Host Says Bradley Hansel Was Aboard the Plane With Four Other People
+**C-14649** Host Says Bradley Hansell Was Aboard the Plane With Four Other People
 
 Claim Timestamp: 00:13:10
 
-Claim: The host says one of the VIPs aboard the Fort Huachuca-to-El Paso plane, apparently with four other people, was Bradley Hansel.
+Claim: The host says one of the VIPs aboard the Fort Huachuca-to-El Paso plane, apparently with four other people, was Bradley Hansell.
 
-Transcript Snippet: now we can reveal the name of one of those VIPs who was aboard the plane apparently with four other people. His name is Bradley Hansel.
+Transcript Snippet: now we can reveal the name of one of those VIPs who was aboard the plane apparently with four other people. His name is Bradley Hansell.
 
 Anchored Artifacts: A-2076.1
 Mentions: N-434
@@ -1578,13 +1578,13 @@ Investigative Direction: Obtain the SAM702 manifest and Hansell's travel calenda
 
 ---
 
-**C-14650** Host Says Boston Consulting Group Had a Massive Scandal the Month Hansel Was Sworn In
+**C-14650** Host Says Boston Consulting Group Had a Massive Scandal the Month Hansell Was Sworn In
 
 Claim Timestamp: 00:15:35
 
-Claim: The host says that in the same month Bradley Hansel was sworn in (July 2025), Boston Consulting Group had a massive scandal uncovered by Financial Times reporting from whistleblowers.
+Claim: The host says that in the same month Bradley Hansell was sworn in (July 2025), Boston Consulting Group had a massive scandal uncovered by Financial Times reporting from whistleblowers.
 
-Transcript Snippet: in the very month that Mr. Hansel was sworn in, the Boston Consulting Group had a massive scandal which was uncovered due to the reporting over at the Financial Times.
+Transcript Snippet: in the very month that Mr. Hansell was sworn in, the Boston Consulting Group had a massive scandal which was uncovered due to the reporting over at the Financial Times.
 
 Anchored Artifacts: A-2077.1
 Mentions: N-434
@@ -2659,9 +2659,9 @@ Confidence: high
 
 9. **Name uncertainty – "SUBTU" / "SUBT, BTV" / "SUBTV":** Host uses inconsistent spellings for Egyptian plane designation; preserved.
 
-10. **Artifact verbally referenced but not shown – SAM702 passenger manifest:** The episode's central investigative claim – that Bradley Hansel was aboard SAM702 on September 9, 2025 – is presented as host investigative finding based on flight tracking analysis. No manifest, document, screenshot, or third-party confirmation is shown on-air. **This claim failed the Artifact Anchor Test and was not inscribed in the Claim Register.**
+10. **Artifact verbally referenced but not shown – SAM702 passenger manifest:** The episode's central investigative claim – that Bradley Hansell was aboard SAM702 on September 9, 2025 – is presented as host investigative finding based on flight tracking analysis. No manifest, document, screenshot, or third-party confirmation is shown on-air. **This claim failed the Artifact Anchor Test and was not inscribed in the Claim Register.**
 
-11. **Requires human verification – Hansel-SAM702 identification:** Independent verification via DoD/DoW sources, public flight records, or third-party reporting required.
+11. **Requires human verification – Hansell-SAM702 identification:** Independent verification via DoD/DoW sources, public flight records, or third-party reporting required.
 
 12. **Possible transcription error – "Elaine Maxwell":** Almost certainly Ghislaine Maxwell; preserved per host with flag.
 

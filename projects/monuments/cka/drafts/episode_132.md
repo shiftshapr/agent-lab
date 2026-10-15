@@ -216,7 +216,7 @@ Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:42:44–00:43:29
 Discovery Timestamp: 00:00:00–00:00:01
 
-Excerpt: "Andrew Colvin and Blake Neff are falling down their own mountain of evidence against Tyler Robinson. They want to distract you from your investigation. You must be close and they are scared. The preacher looks like he's fresh from a prison yard."
+Excerpt: "Andrew Kolvet and Blake Neff are falling down their own mountain of evidence against Tyler Robinson. They want to distract you from your investigation. You must be close and they are scared. The preacher looks like he's fresh from a prison yard."
 
 *Related: Andrew Kolvet (existing node), Tyler Robinson (existing node)*
 
@@ -1158,7 +1158,7 @@ Claim Timestamp: 00:03:24
 
 Claim: The host says Andrew Kolvet explicitly lied and tried to blame her for the Daily Mail article.
 
-Transcript Snippet: Remember, Andrew Colvin lied, explicitly lied, and attempted to blame me for that article.
+Transcript Snippet: Remember, Andrew Kolvet lied, explicitly lied, and attempted to blame me for that article.
 
 Anchored Artifacts: A-2979.1
 Mentions: N-14, N-3
@@ -2631,7 +2631,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown – Daily Mail article:** Referenced from prior episode coverage with described direct quotations; not displayed in this episode.
 - **Artifact verbally referenced but not shown – Text messages between Candace and Charlie:** The messages themselves are referenced as having been shared publicly and as the subject of A-2189.1 and A-2189.2, but the underlying text content is not displayed in this episode.
 - **Transcript ambiguity – A-2192.1 / A-2192.2:** Pastor Russell is described in the host's surrounding commentary as "Erika's favorite pastor" with an affiliation implied to Turning Point Faith; this affiliation is not stated in the artifact itself.
-- **Possible transcription error – A-2196.3:** Comment "Andrew Colvin" likely refers to Andrew Kolvet; transcription preserved verbatim with flag for reconciliation.
+- **Possible transcription error – A-2196.3:** Comment "Andrew Kolvet" likely refers to Andrew Kolvet; transcription preserved verbatim with flag for reconciliation.
 - **Requires human verification – N-10750:** 911 call content, identity of caller, and alleged purge from released records all require official records-request confirmation.
 - **Requires human verification – N-10752:** TPUSA White House visit claim relies on host's uncorroborated source versus Kolvet's denial; visitor logs would be dispositive if obtainable.
 
