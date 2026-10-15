@@ -705,11 +705,11 @@ The host's stated suspicion that the 2018 timeline matches Jeffrey Epstein's arr
 
 ## V. Claim Register
 
-**C-2698** Victor Marx Expressed Interest in Owning Fold AR
+**C-2698** Per Corby Hall Statement Host Reads, Victor Marx Expressed Interest in Owning Fold AR
 
 Claim Timestamp: 00:21:21
 
-Claim: Corby Hall's written statement documents that Victor Marx expressed interest in acquiring ownership of Fold AR.
+Claim: Per a written statement by Corby Hall that the host reads, Victor Marx expressed interest in acquiring ownership of Fold AR.
 
 Anchored Artifacts: A-1958.1
 
@@ -719,11 +719,11 @@ Investigative Direction: Verify Hall's account against Fold AR business records,
 
 ---
 
-**C-2699** Fold AR Demo Provided to Marx in December 2023
+**C-2699** Per Corby Hall Statement Host Reads, Fold AR Demo Provided to Marx in December 2023
 
 Claim Timestamp: 00:21:21
 
-Claim: Corby Hall's written statement documents that on or about December 1, 2023, at Victor Marx's request, Hall and Melody drove from Texas to Colorado Springs to provide a demo of the Fold AR at Marx's home range; Marx subsequently requested a signature series rifle.
+Claim: Per a written statement by Corby Hall that the host reads, on or about December 1, 2023, at Victor Marx's request, Hall and Melody drove from Texas to Colorado Springs to provide a demo of the Fold AR at Marx's home range; Marx subsequently requested a signature series rifle.
 
 Anchored Artifacts: A-1958.1
 
@@ -733,11 +733,11 @@ Investigative Direction: Verify travel records, communications, and Fold AR demo
 
 ---
 
-**C-2700** Victor Marx Performed "Retooling Prayer" on Hall and Melody
+**C-2700** Per Corby Hall Statement Host Reads, Victor Marx Performed "Retooling Prayer" on Hall and Melody
 
 Claim Timestamp: 00:22:29
 
-Claim: Corby Hall's written statement documents that Victor Marx performed a ritual he described as a "retooling prayer" on both Melody and Corby Hall during the initial home visit; Hall characterizes the practice as confronting demons.
+Claim: Per a written statement by Corby Hall that the host reads, Victor Marx performed a ritual he described as a "retooling prayer" on both Melody and Corby Hall during the initial home visit; the host characterizes the practice as confronting demons.
 
 Anchored Artifacts: A-1958.1
 
@@ -747,11 +747,11 @@ Investigative Direction: Identify any witnesses or documentation of the prayer c
 
 ---
 
-**C-2701** Victor Marx Married Hall and Melody on January 24, 2024
+**C-2701** Per Corby Hall Statement Host Reads, Victor Marx Married Hall and Melody on January 24, 2024
 
 Claim Timestamp: 00:24:43
 
-Claim: Corby Hall's written statement documents that on January 24, 2024, Victor Marx married Corby Hall and Melody in his hotel room with several industry friends present.
+Claim: Per a written statement by Corby Hall that the host reads, on January 24, 2024, Victor Marx married Corby Hall and Melody in his hotel room with several industry friends present.
 
 Anchored Artifacts: A-1958.1
 
@@ -761,11 +761,11 @@ Investigative Direction: Verify the marriage through official marriage records.
 
 ---
 
-**C-2702** All Things Possible Ministries Purchased 5 Fold AR Rifles for Lindale High School
+**C-2702** Per Corby Hall Statement Host Reads, All Things Possible Ministries Purchased 5 Fold AR Rifles for Lindale High School
 
 Claim Timestamp: 00:24:43
 
-Claim: Corby Hall's written statement documents that All Things Possible Ministries purchased five Fold AR weapon systems for Lindale High School in Texas; no further ministry purchases were made.
+Claim: Per a written statement by Corby Hall that the host reads, All Things Possible Ministries purchased five Fold AR weapon systems for Lindale High School in Texas; no further ministry participation was made or offered.
 
 Anchored Artifacts: A-1958.1
 
@@ -789,11 +789,11 @@ Investigative Direction: Verify any related communications, travel records, or f
 
 ---
 
-**C-2704** Marx Requested Long-Range Rifle to Execute Person Scaling Orphanage Fence
+**C-2704** Per Corby Hall Statement Host Reads, Marx Requested Long-Range Rifle to Execute Person Scaling Orphanage Fence
 
 Claim Timestamp: 00:26:32
 
-Claim: Corby Hall's written statement documents that in October 2024, Victor Marx requested a 1,000-yard capable rifle with scope camera, stating it would be used to "blow the head off" of anyone attempting to scale the fence of a Haiti orphanage, with video used as propaganda.
+Claim: Per a written statement by Corby Hall that the host reads, in October 2024 Victor Marx requested a 1,000-yard capable rifle with scope camera, stating it would be used to "blow the head off" of anyone attempting to scale the fence of a Haiti orphanage, with video used as propaganda.
 
 Anchored Artifacts: A-1958.1
 
@@ -833,11 +833,11 @@ Investigative Direction: Verify with Sig Sauer corporate communications and Dani
 
 ---
 
-**C-2707** Marx Valued Fold AR at $2 Million and Sought 51% Controlling Interest
+**C-2707** Per Corby Hall Statement Host Reads, Marx Valued Fold AR at $2 Million and Sought 51% Controlling Interest
 
 Claim Timestamp: 00:33:10
 
-Claim: Corby Hall's written statement documents that Victor Marx's accountants valued Fold AR at $2 million (including the patent), and that Marx personally wanted to purchase 51% of the company.
+Claim: Per a written statement by Corby Hall that the host reads, Victor Marx stated that his accountants valued Fold AR at $2 million (including the patent) and that he personally wanted to purchase 51% of the company.
 
 Anchored Artifacts: A-1958.1
 
@@ -861,11 +861,11 @@ Investigative Direction: Verify any related communications, broker contacts, or 
 
 ---
 
-**C-2709** Marx Showed Hall Underground Bunker Under Construction at His Residence
+**C-2709** Per Corby Hall Statement Host Reads, Marx Showed Hall Underground Bunker Under Construction at His Residence
 
 Claim Timestamp: 00:34:23
 
-Claim: Corby Hall's written statement documents that Victor Marx showed Hall a structure behind his house that included a large underground bunker, a front-facing firearm port, and an indoor shooting range – described as intended for "spiritual retooling" of officers working child sex trafficking cases.
+Claim: Per a written statement by Corby Hall that the host reads, Victor Marx showed Hall a structure behind his house that included a large underground bunker, a front-facing firearm port, and an indoor shooting range, which Marx described as intended for "spiritual retooling" of officers working child sex trafficking cases.
 
 Anchored Artifacts: A-1958.1
 
@@ -889,11 +889,11 @@ Investigative Direction: Obtain the original message text if retained.
 
 ---
 
-**C-2711** Fold AR SN 02735 Sold to Texas Deputy on June 6, 2024
+**C-2711** Host Says Fold AR SN 02735 Was Sold to Texas Deputy on June 6, 2024
 
 Claim Timestamp: 00:36:44
 
-Claim: Corby Hall's written statement documents that on June 6, 2024, Corby Hall sold a Fold AR with serial number 02735 to a Texas deputy.
+Claim: The host says, based on Corby Hall's account, that on June 6, 2024 Hall sold a Fold AR with serial number 02735 to a Texas deputy.
 
 Anchored Artifacts: A-1958.1
 
@@ -946,11 +946,11 @@ Investigative Direction: Obtain original Instagram post metadata; verify posting
 
 ---
 
-**C-2715** Erika Kirk Photographed Being Comforted by Victor Marx at Residence
+**C-2715** Host Shows Photo of Erika Kirk Being Comforted by Victor Marx at Residence
 
 Claim Timestamp: 00:10:03
 
-Claim: A photo shows Erika Kirk being comforted by Victor Marx at her residence, approximately 72 hours after Charlie Kirk's assassination; Erika is holding her phone.
+Claim: The host shows a photo that she says shows Erika Kirk being comforted by Victor Marx at her residence, approximately 72 hours after Charlie Kirk's assassination; the host notes Erika is holding her phone.
 
 Anchored Artifacts: A-1959.2
 Mentions: N-1, N-2
@@ -1009,7 +1009,7 @@ Investigative Direction: Identify the source recording; verify any underlying ev
 
 Claim Timestamp: 00:56:23
 
-Claim: A viewer named Wonder Woman commented that "Marines only allow a minimum 4-year enlistment. 2 years is not possible."
+Claim: A viewer comment the host reads, from Wonder Woman, says "Marines only allow a minimum 4-year enlistment. 2 years is not possible."
 
 Anchored Artifacts: A-1964.1
 

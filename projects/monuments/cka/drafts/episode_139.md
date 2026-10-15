@@ -1077,11 +1077,11 @@ Investigative Direction: Obtain full unedited debate recording to verify context
 
 ---
 
-**C-3244** Lance Twiggs snowboarding photo shows left-hand landing
+**C-3244** Host Says Lance Twiggs Snowboarding Photo Shows Left-Hand Landing
 
 Claim Timestamp: 00:28:00–00:30:00
 
-Claim: A displayed snowboarding photo shows Lance Twiggs falling onto his left hand, consistent with left-handedness or ambidextercy.
+Claim: The host says a snowboarding photo she displays shows Lance Twiggs falling onto his left hand, which she says is consistent with left-handedness or ambidexterity.
 
 Anchored Artifacts: A-2259.1
 Mentions: N-54
@@ -1092,11 +1092,11 @@ Investigative Direction: Obtain additional Lance Twiggs photos/videos showing ha
 
 ---
 
-**C-3245** Lance Twiggs fuels with left hand in Texas photo
+**C-3245** Host Says Lance Twiggs Fuels with Left Hand in Texas Photo
 
 Claim Timestamp: 00:29:04
 
-Claim: A displayed photo shows Lance Twiggs fueling a vehicle with his left hand at a Texas gas station.
+Claim: The host says a photo she displays shows Lance Twiggs fueling a vehicle with his left hand at a Texas gas station.
 
 Anchored Artifacts: A-2259.2
 Mentions: N-54
@@ -1107,11 +1107,11 @@ Investigative Direction: Verify photo metadata for date and location; obtain cor
 
 ---
 
-**C-3246** Lance Twiggs childhood piano video shows watch on right hand and left-hand page turn
+**C-3246** Host Says Lance Twiggs Childhood Piano Video Shows Watch on Right Hand and Left-Hand Page Turn
 
 Claim Timestamp: 00:30:09–00:30:33
 
-Claim: A childhood piano recital video of Lance Twiggs ("My name is Lance Twiggs. I am playing country concert for young pianists") shows him wearing a watch on his right hand and turning the page with his left hand.
+Claim: The host says a childhood piano recital video of Lance Twiggs ("My name is Lance Twiggs. I am playing country concert for young pianists") shows him wearing a watch on his right hand and turning the page with his left hand.
 
 Anchored Artifacts: A-2259.4
 Mentions: N-54
@@ -1137,11 +1137,11 @@ Investigative Direction: Obtain disclosure schedule from prosecution; identify w
 
 ---
 
-**C-3248** UVU staircase maroon-shirt person used left hand for phone, left pocket
+**C-3248** Host Says UVU Staircase Maroon-Shirt Person Used Left Hand for Phone and Left Pocket
 
 Claim Timestamp: 00:26:49–00:28:00
 
-Claim: Blurry UVU staircase footage shows the maroon-shirt person holding a phone in their left hand and pocketing it in their left pocket.
+Claim: The host says blurry UVU staircase footage shows the maroon-shirt person holding a phone in their left hand and pocketing it in their left pocket.
 
 Anchored Artifacts: A-2261.1
 Mentions: N-40
@@ -1195,11 +1195,11 @@ Investigative Direction: Verify original tweet date and context.
 
 ---
 
-**C-3252** Matt Walsh replied to Joel Barry noting Republican inconsistency on affordability
+**C-3252** Per Post the Host Reads, Matt Walsh Told Joel Barry Republicans Were Inconsistent on Affordability
 
 Claim Timestamp: 00:38:00–00:39:30
 
-Claim: Matt Walsh replied to Joel Barry noting that virtually no Republican was making "the affordability crisis is fake" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.
+Claim: Per a post the host reads, Matt Walsh replied to Joel Barry noting that virtually no Republican was making "the affordability crisis is fake" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.
 
 Anchored Artifacts: A-2262.4
 Mentions: N-166
@@ -1224,11 +1224,11 @@ Investigative Direction: Verify post and current ramen retail prices for college
 
 ---
 
-**C-3254** Blake Neff shared WEF chart claiming US spends least on food
+**C-3254** Per Post the Host Reads, Blake Neff Shared WEF Chart Claiming US Spends Least on Food
 
 Claim Timestamp: 00:42:30–00:43:30
 
-Claim: Blake Neff shared a World Economic Forum chart on X claiming Americans spend less of their income on food than any other country on the planet.
+Claim: Per a post on X the host reads, Blake Neff shared a World Economic Forum chart claiming Americans spend less of their income on food than any other country on the planet.
 
 Anchored Artifacts: A-2262.6
 Mentions: N-162
@@ -1239,11 +1239,11 @@ Investigative Direction: Community note referenced (cited pre-2020 data); obtain
 
 ---
 
-**C-3255** Daily Wire trailer depicts anti-Islam war narrative
+**C-3255** Host Plays Daily Wire Trailer That Ben Shapiro Introduced as Telling the Story of Radical Islam
 
 Claim Timestamp: 00:44:21–00:47:40
 
-Claim: Ben Shapiro introduced a Daily Wire film trailer on X claiming Hollywood has refused to tell the story of radical Islam for three decades; the trailer depicts dialogue about Islam conquering the West "through immigration, through the wombs of our women, and by using our nation's freedoms against us."
+Claim: Per a post on X the host reads, Ben Shapiro introduced a Daily Wire film trailer saying Hollywood has refused to tell the story of radical Islam for three decades; in the trailer the host plays, dialogue refers to Islam conquering the West "through immigration, through the wombs of our women, and by using our nation's freedoms against us."
 
 Anchored Artifacts: A-2263.1, A-2263.2
 
@@ -1299,7 +1299,7 @@ Investigative Direction: Obtain canonical Helluva Boss images showing Luna's nec
 
 Claim Timestamp: 00:25:03–00:25:30
 
-Claim: Wikipedia describes the Helluva Boss animated series as following the employees of IMP (Immediate Murder Professionals), an assassination company in hell that offers hitman services in the living world.
+Claim: Per the Wikipedia page the host reads, the Helluva Boss animated series follows the employees of IMP (Immediate Murder Professionals), an assassination company in hell that offers hitman services in the living world.
 
 Anchored Artifacts: A-2266.1
 

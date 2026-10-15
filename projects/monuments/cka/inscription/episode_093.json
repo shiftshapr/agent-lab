@@ -2013,8 +2013,8 @@
       "@type": "Claim",
       "@id": "C-2752",
       "ref": "C-2752",
-      "label": "Text messages reference an \"Israeli Defense Group\" connection and SOCOM contract",
-      "claim": "Text messages attributed to Victor Marx state that \"The Israeli Defense Group we are connected with is ready to review the patent and possible deal\" and reference a SOCOM contract for a company he is part-owner of; Corby's reply raises IDF-vs-domestic-schools concerns.",
+      "label": "Host Reads Texts Attributed to Victor Marx Referencing \"Israeli Defense Group\" and SOCOM Contract",
+      "claim": "The host reads text messages attributed to Victor Marx, supplied to her by Corby, that state \"The Israeli Defense Group we are connected with is ready to review the patent and possible deal\" and reference a SOCOM contract for a company he is part-owner of; Corby's reply raises IDF-vs-domestic-schools concerns.",
       "anchored_artifacts": [
         "A-1988.1",
         "A-1988.2",
@@ -2072,8 +2072,8 @@
       "@type": "Claim",
       "@id": "C-2755",
       "ref": "C-2755",
-      "label": "ATF determined cartridge cases matched exhibit 1 rifle",
-      "claim": "The ATF summary found that the cartridge cases matched the exhibit 1 rifle.",
+      "label": "Host Says ATF Summary Found Cartridge Cases Matched Exhibit 1 Rifle",
+      "claim": "Per the ATF summary the host shows and discusses, the cartridge cases matched the exhibit 1 rifle.",
       "anchored_artifacts": [
         "A-1990"
       ],
@@ -2106,8 +2106,8 @@
       "@type": "Claim",
       "@id": "C-2757",
       "ref": "C-2757",
-      "label": "ATF to conduct microscopic comparison on bullet evidence",
-      "claim": "The ATF summary indicates upcoming microscopic comparison on the bullet evidence.",
+      "label": "Host Says ATF Summary Indicates Microscopic Comparison of Bullet Evidence",
+      "claim": "Per the ATF summary the host shows and discusses, the ATF is to conduct a microscopic comparison on the bullet evidence.",
       "anchored_artifacts": [
         "A-1990"
       ],

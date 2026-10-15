@@ -1059,11 +1059,11 @@ Investigative Direction: Locate the underlying Epstein document entry and verify
 
 ---
 
-**C-2353** Erika Kirk's NY Real Estate License Had a Validity Period Ending October 24, 2020
+**C-2353** Per Host's Snapshot, Erika Kirk's NY Real Estate License Valid Until October 24, 2020
 
 Claim Timestamp: 00:31:35
 
-Claim: A snapshot of Erika Kirk's New York real estate license displays a validity period ending October 24, 2020.
+Claim: Per a snapshot of Erika Kirk's New York real estate license that the host shows, the license displays a validity period ending October 24, 2020.
 
 Anchored Artifacts: A-1763.1
 Mentions: N-2
@@ -1176,7 +1176,7 @@ Investigative Direction: Verify against Kelly's guest appearance logs.
 
 Claim Timestamp: 00:26:41
 
-Claim: An unnamed TikToker publicly raised the question of whether Erika Kirk's employment at the Corcoran Group could serve as a vehicle to launder payments.
+Claim: In a TikTok clip the host plays, an unnamed TikToker raises the question of whether Erika Kirk's employment at the Corcoran Group could serve as a vehicle to launder payments.
 
 Anchored Artifacts: A-1769.1
 Mentions: N-2, N-566

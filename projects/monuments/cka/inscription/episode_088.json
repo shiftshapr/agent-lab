@@ -2276,8 +2276,8 @@
       "@type": "Claim",
       "@id": "C-2664",
       "ref": "C-2664",
-      "label": "Trump fired Pam Bondi via social-media statement",
-      "claim": "Donald Trump announced the firing of Pam Bondi as Attorney General via a social-media statement (read verbatim on air).",
+      "label": "Per Trump Statement Host Reads, Pam Bondi Was Fired",
+      "claim": "Per a social-media statement from Donald Trump that the host reads on air, he announced the firing of Pam Bondi as Attorney General.",
       "anchored_artifacts": [
         "A-1935.1"
       ],
@@ -2296,8 +2296,8 @@
       "@type": "Claim",
       "@id": "C-2665",
       "ref": "C-2665",
-      "label": "Todd Blanche named as Acting Attorney General",
-      "claim": "Trump's statement named Deputy Attorney General Todd Blanche to serve as Acting Attorney General.",
+      "label": "Per Trump Statement Host Reads, Todd Blanche Named Acting Attorney General",
+      "claim": "Per Trump's social-media statement that the host reads on air, Deputy Attorney General Todd Blanche will serve as Acting Attorney General.",
       "anchored_artifacts": [
         "A-1935.1"
       ],

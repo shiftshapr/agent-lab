@@ -2165,8 +2165,8 @@
       "@type": "Claim",
       "@id": "C-2583",
       "ref": "C-2583",
-      "label": "Four DGSE officers among defendants",
-      "claim": "Four officers from France's DGSE foreign intelligence service are among the 22 defendants.",
+      "label": "Per Article Host Reads, Four DGSE Officers Among Defendants",
+      "claim": "Per a Guardian article the host reads aloud, four officers from France's DGSE foreign intelligence service are among the 22 defendants.",
       "anchored_artifacts": [
         "A-1903.1"
       ],
@@ -2182,8 +2182,8 @@
       "@type": "Claim",
       "@id": "C-2584",
       "ref": "C-2584",
-      "label": "Failed contract killing in July 2020 against Marie-Hélène Dini",
-      "claim": "The case was triggered by a failed contract killing in July 2020, when two members of France's parachute regiment were arrested in possession of weapons near the home of business coach Marie-Hélène Dini.",
+      "label": "Per Article Host Reads, Failed July 2020 Contract Killing Targeted Marie-Hélène Dini",
+      "claim": "Per a Guardian article the host reads aloud, the case was triggered by a failed contract killing in July 2020, when two members of France's parachute regiment were arrested in possession of weapons near the home of business coach Marie-Hélène Dini.",
       "anchored_artifacts": [
         "A-1903.1"
       ],
@@ -2571,8 +2571,8 @@
       "@type": "Claim",
       "@id": "C-2605",
       "ref": "C-2605",
-      "label": "Sheriff Brooksby resigned from Washington County Sheriff's Office",
-      "claim": "Sheriff Nate Brooksby resigned from the Washington County Sheriff's Office.",
+      "label": "Host Says Sheriff Brooksby Resigned from Washington County Sheriff's Office",
+      "claim": "The host says Sheriff Nate Brooksby resigned from the Washington County Sheriff's Office.",
       "anchored_artifacts": [
         "A-1910.1"
       ],
@@ -2603,8 +2603,8 @@
       "@type": "Claim",
       "@id": "C-2607",
       "ref": "C-2607",
-      "label": "Brooksby had served in law enforcement more than 30 years",
-      "claim": "A statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.",
+      "label": "Host Says Commission Statement Noted Brooksby Served 30+ Years in Law Enforcement",
+      "claim": "The host says a statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.",
       "anchored_artifacts": [
         "A-1910.1"
       ],
@@ -2620,8 +2620,8 @@
       "@type": "Claim",
       "@id": "C-2608",
       "ref": "C-2608",
-      "label": "Brooksby's name removed from Sheriff's Office website",
-      "claim": "Over the weekend following the resignation, Brooksby's name was quietly removed from the Sheriff's Office website and social media pages.",
+      "label": "Host Says Brooksby's Name Was Removed from Sheriff's Office Website",
+      "claim": "The host says that over the weekend following the resignation, Brooksby's name was quietly removed from the Sheriff's Office website and social media pages.",
       "anchored_artifacts": [
         "A-1910.1"
       ],

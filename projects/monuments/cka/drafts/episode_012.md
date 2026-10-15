@@ -743,7 +743,7 @@ Organization. Hospital to which Kirk was taken; the host raises routing, trauma-
 
 Claim Timestamp: 00:12:16–00:14:30
 
-Claim: Phil Lyman's on-air account to Alex Jones places him outdoors and characterizes two individuals at the scene as goth and unresponsive.
+Claim: In a clip the host plays of his Alex Jones appearance, Phil Lyman says he was outside at the east end when he heard a loud boom and encountered two girls, "very goth, very black," who did not flee, one of whom he quotes as saying "Go f yourselves"; the host says this account places him outdoors and characterizes two individuals as goth and unresponsive.
 
 Anchored Artifacts: A-1183.1
 Mentions: N-61, N-93
@@ -758,7 +758,7 @@ Investigative Direction: Compare Phil's Alex Jones account verbatim against (a) 
 
 Claim Timestamp: 00:14:45–00:15:55
 
-Claim: Phil Lyman's on-air account to NewsNation places him approaching/inside a building at the moment of the shot, then exiting.
+Claim: In a NewsNation clip the host plays, Phil Lyman says he was walking into a building when he heard a loud bang behind him, then ran out to investigate; the host says this places him approaching or inside a building at the moment of the shot, then exiting.
 
 Anchored Artifacts: A-1184.1
 Mentions: N-61
@@ -799,11 +799,11 @@ Investigative Direction: Compare visible individuals in A-1185.1 with the two co
 
 ---
 
-**C-1325** One of the two companions in the photo with Shainer Broderick has been identified as Gernot Omer via face-match to a BearingPoint Graz office YouTube video.
+**C-1325** Host Says One of Two Companions in Photo With Shainer Broderick Is Gernot Omer, via Face-Match to BearingPoint Graz Video
 
 Claim Timestamp: 00:10:39–00:11:29
 
-Claim: A face in the companion photo matches an individual shown in a BearingPoint company video introducing software development teams at the Graz office.
+Claim: The host says her team identified one of the two companions in the photo with Shainer Broderick as Gernot Omer, because a face in the photo matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.
 
 Anchored Artifacts: A-1186.1
 Mentions: N-134, N-133
@@ -814,11 +814,11 @@ Investigative Direction: Obtain the original Broderick companion photo from prio
 
 ---
 
-**C-1326** Gernot Omer's LinkedIn states he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.
+**C-1326** Host Says Gernot Omer's LinkedIn States He Moved to Utah in May 2024 for a JP Morgan Chase Software Engineer Job
 
 Claim Timestamp: 00:11:29–00:12:20
 
-Claim: The publicly visible LinkedIn profile for Gernot Omer indicates relocation to Utah in May 2024 for employment at JP Morgan Chase.
+Claim: The host says that, according to Gernot Omer's LinkedIn profile, he moved to Utah in May 2024 to take a software engineer position with JP Morgan Chase.
 
 Anchored Artifacts: A-1193.1
 Mentions: N-134
@@ -930,11 +930,11 @@ Investigative Direction: Confirm authorship and dating of the blog; verify Gerno
 
 ---
 
-**C-1334** Robert Bowles was in his first week leading the Utah FBI field office at the time of the Charlie Kirk shooting.
+**C-1334** Host Cites Daily Mail Saying Robert Bowles Was in First Week Leading Utah FBI Field Office at Time of Kirk Shooting
 
 Claim Timestamp: 00:30:55–00:32:40
 
-Claim: The Daily Mail account places Robert Bowles in his first week on the Utah FBI assignment at the time of the September 10 assassination.
+Claim: Per the Daily Mail account the host cites, Robert Bowles was in his first week leading the Utah FBI field office at the time of the September 10 assassination of Charlie Kirk.
 
 Anchored Artifacts: A-1189.1
 Mentions: N-135, N-1

@@ -824,7 +824,7 @@ Investigative Direction: Retrieve the original post via web archive to confirm e
 
 Claim Timestamp: 00:46:45
 
-Claim: JD Vance appeared on video asking voters to "give us another chance" and listing tax cuts (overtime, Social Security, tips), border/immigration success, and H-1B reform as accomplishments.
+Claim: In a clip the host plays, JD Vance asks voters to "give us another chance" and lists tax cuts (overtime, Social Security, tips), success on the border and immigration, and H-1B reform as accomplishments.
 
 Anchored Artifacts: A-2412.1
 Mentions: N-4
@@ -835,11 +835,11 @@ Investigative Direction: Identify the original venue/date of the Vance clip to a
 
 ---
 
-**C-3524** Two Grey Dodge Challengers Arrived on UVU Campus Within ~20 Minutes of One Another
+**C-3524** Host Says Two Grey Dodge Challengers Arrived on UVU Campus Within About 20 Minutes of One Another
 
 Claim Timestamp: 00:01:52–00:05:41
 
-Claim: Two separate grey Dodge Challengers arrived on the UVU campus within approximately 20 minutes of each other on Sept 10 and both remained on campus for roughly an hour and a half before departing near-simultaneously.
+Claim: The host says footage shows two separate grey Dodge Challengers arriving on the UVU campus within approximately 20 minutes of each other on Sept 10, both remaining on campus for roughly an hour and a half before departing near-simultaneously.
 
 Anchored Artifacts: A-2413.3
 
@@ -849,11 +849,11 @@ Investigative Direction: Obtain parking-garage entry/exit logs and timestamped s
 
 ---
 
-**C-3525** "Waluigi" Vehicle Driver Made Multiple Parking Attempts in Empty Lot
+**C-3525** Host Says "Waluigi" Vehicle Driver Made Multiple Parking Attempts in Empty Lot
 
 Claim Timestamp: 00:02:31–00:03:41
 
-Claim: The driver of the second grey Dodge Challenger (code-named "Waluigi") made over three to four parking attempts in the empty admin/admissions lot before parking.
+Claim: The host says the footage shows the driver of the second grey Dodge Challenger (code-named "Waluigi") making over three to four parking attempts in the empty admin/admissions lot before parking.
 
 Anchored Artifacts: A-2413.3
 
@@ -863,11 +863,11 @@ Investigative Direction: Obtain the original admin-lot surveillance footage to v
 
 ---
 
-**C-3526** "Maroon Boy" Vehicle Parked at Top of UVU Structure for ~8 Minutes Before Relocating
+**C-3526** Host Says "Maroon Boy" Vehicle Parked at Top of UVU Structure for About 8 Minutes Before Relocating
 
 Claim Timestamp: 00:11:33–00:13:00
 
-Claim: The grey Dodge Challenger associated with the "Maroon Boy" was driven to the top level of the UVU parking structure and remained stationary there for approximately eight minutes, after which the subject relocated the vehicle to a lower level.
+Claim: The host says the footage shows the grey Dodge Challenger associated with the "Maroon Boy" being driven to the top level of the UVU parking structure and remaining stationary there for approximately eight minutes, after which the subject relocated the vehicle to a lower level.
 
 Anchored Artifacts: A-2413.1
 
@@ -877,11 +877,11 @@ Investigative Direction: Obtain the full top-of-structure surveillance footage t
 
 ---
 
-**C-3527** TMZ Footage at 8:07 AM Shows Robinson Already Parked Off Campus
+**C-3527** Host Says TMZ Footage at 8:07 AM Shows Robinson Already Parked Off Campus
 
 Claim Timestamp: 00:14:44
 
-Claim: TMZ surveillance footage timestamped 8:07 AM on Sept 10 shows Tyler Robinson walking toward the UVU campus, indicating he was already parked off campus at that time.
+Claim: The host says TMZ surveillance footage timestamped 8:07 AM on Sept 10 shows Tyler Robinson walking toward the UVU campus, and that this indicates he was already parked off campus at that time.
 
 Anchored Artifacts: A-2413.2
 Mentions: N-40
@@ -906,11 +906,11 @@ Investigative Direction: Obtain the actual Sept 15 search warrant filing to veri
 
 ---
 
-**C-3529** Hull Preliminary Hearing Testimony Omitted the 8-Minute Top-of-Structure Stop and Revised the On-Campus Timeline
+**C-3529** Host Alleges Hull Preliminary Hearing Testimony Omitted the 8-Minute Top-of-Structure Stop and Revised the On-Campus Timeline
 
 Claim Timestamp: 00:19:42–00:21:12
 
-Claim: Agent David Hull's preliminary hearing testimony presented a campus timeline in which the "Maroon Boy" interacts with a TPUSA representative, departs, and returns on foot – omitting the approximately 8-minute top-of-structure stop and the 8:28–9:24 AM wooded-area visit described in the Sept 15 warrant.
+Claim: The host alleges that Agent David Hull's preliminary hearing testimony presented a campus timeline in which the "Maroon Boy" interacts with a TPUSA representative, departs, and returns on foot, omitting the approximately 8-minute top-of-structure stop and the 8:28-9:24 AM wooded-area visit described in the Sept 15 warrant she reads.
 
 Anchored Artifacts: A-2414.1, A-2415.1
 Mentions: N-575

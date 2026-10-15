@@ -970,11 +970,11 @@ Investigative Direction: Locate the op-ed in NYT archives; verify publication da
 
 ---
 
-**C-3399** Erika Kirk's Op-Ed Recounts Telling Second Lady Usha Vance "I Don't Know How I'm Going to Do This"
+**C-3399** Per Op-Ed Host Reads, Erika Kirk Recounts Telling Second Lady Usha Vance "I Don't Know How I'm Going to Do This"
 
 Claim Timestamp: 00:43:25
 
-Claim: In her NYT op-ed, Erika Kirk recounts telling Second Lady Usha Vance "I don't know how I'm going to do this" on the day after Charlie Kirk was shot.
+Claim: Per the New York Times op-ed by Erika Kirk that the host reads, Erika Kirk recounts telling Second Lady Usha Vance "I don't know how I'm going to do this" on the day after Charlie Kirk was shot.
 
 Anchored Artifacts: A-2348.1
 Mentions: N-2, N-4, N-354, N-1
@@ -984,11 +984,11 @@ Investigative Direction: Confirm the quoted sentence in the op-ed directly; cros
 
 ---
 
-**C-3400** Erika Kirk's Op-Ed Cites Usha Vance's "15 Minutes" Airplane Analogy About Grief
+**C-3400** Per Op-Ed Host Reads, Erika Kirk Cites Usha Vance's "15 Minutes" Airplane Analogy About Grief
 
 Claim Timestamp: 00:43:25
 
-Claim: In her NYT op-ed, Erika Kirk cites Usha Vance's "15 minutes" airplane analogy about grief – that the worst stretch is like a plane descending with screaming children before landing.
+Claim: Per the New York Times op-ed by Erika Kirk that the host reads, Erika Kirk cites Usha Vance's "15 minutes" airplane analogy about grief, in which the worst stretch is like a plane about to land with screaming children.
 
 Anchored Artifacts: A-2348.1
 Mentions: N-2, N-4, N-354
@@ -1012,11 +1012,11 @@ Investigative Direction: Confirm the quoted language in the op-ed directly.
 
 ---
 
-**C-3402** Erika Kirk's Op-Ed Closes With Reference to "A Dear Friend" Telling Her to "Just Get Through the Next 15 Minutes"
+**C-3402** Per Op-Ed Host Reads, Erika Kirk Closes With Reference to "A Dear Friend" Telling Her to "Just Get Through the Next 15 Minutes"
 
 Claim Timestamp: 00:47:27
 
-Claim: In her NYT op-ed, the closing lines reference "a dear friend" telling the author to "just get through the next 15 minutes," with the "15 minutes" phrase repeated as a refrain.
+Claim: Per the New York Times op-ed by Erika Kirk that the host reads, the closing lines reference "a dear friend" telling the author to "just get through the next 15 minutes," with the "15 minutes" phrase repeated as a refrain.
 
 Anchored Artifacts: A-2348.1
 Mentions: N-2

@@ -1704,8 +1704,8 @@
       "@type": "Claim",
       "@id": "C-1273",
       "ref": "C-1273",
-      "label": "Crooks Google-searched mass-attack research",
-      "claim": "Crooks' Google search history included 'best places for a mass shooting', molotov cocktails, fertilizer bombs, and prior shooting references.",
+      "label": "Host Shows Document of Crooks' Mass-Attack Google Searches",
+      "claim": "Per a search-history document the host shows, Crooks' Google search history included 'best places for a mass shooting', molotov cocktails, fertilizer bombs, and prior shooting references.",
       "anchored_artifacts": [
         "A-1156.4"
       ],
@@ -1726,7 +1726,7 @@
       "@id": "C-1274",
       "ref": "C-1274",
       "label": "Megyn Kelly: Jezebel/Etsy curse on Kirk",
-      "claim": "Per Megyn Kelly segment, Jezebel declared a mission to curse Charlie Kirk and Etsy offered witch-hex services; the Kirks consulted a Catholic priest.",
+      "claim": "In a clip the host plays, Megyn Kelly says Jezebel declared a mission to curse Charlie Kirk and Etsy offered witch-hex services; the host says the Kirks consulted a Catholic priest.",
       "anchored_artifacts": [
         "A-1157.1"
       ],
@@ -1778,7 +1778,7 @@
       "@id": "C-1276",
       "ref": "C-1276",
       "label": "Riverbend Ranch tribute audio aired",
-      "claim": "Riverbend Ranch produced and aired an audio tribute honoring Charlie Kirk's life and principles.",
+      "claim": "In a sponsor tribute audio the host plays, Riverbend Ranch honors Charlie Kirk's life and principles; the host says Riverbend Ranch put the tribute together.",
       "anchored_artifacts": [
         "A-1159.1"
       ],

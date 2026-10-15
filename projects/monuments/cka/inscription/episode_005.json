@@ -1916,8 +1916,8 @@
       "@type": "Claim",
       "@id": "C-1189",
       "ref": "C-1189",
-      "label": "Doorbell-cam footage aired by TMZ on September 10",
-      "claim": "TMZ first aired doorbell-camera footage of a person running on a residential street near UVU on September 10, 2025, attributed to Irwin Steel's home.",
+      "label": "Host Says TMZ Aired Doorbell-Cam Footage on September 10",
+      "claim": "The host says TMZ was the first, on September 10, 2025, to air doorbell-camera footage of a person on a residential street near UVU, which she attributes to Irwin Steel's home.",
       "anchored_artifacts": [
         "A-1112.1",
         "A-1112.2"
@@ -1942,8 +1942,8 @@
       "@type": "Claim",
       "@id": "C-1190",
       "ref": "C-1190",
-      "label": "Sherry Steel reported police presence to BBC",
-      "claim": "BBC published an account by Sherry Steel describing a large police presence and helicopter activity outside Tyler Robinson's townhouse while she walked her dog in the evening.",
+      "label": "Per BBC Article, Sherry Steel Reported Police Presence",
+      "claim": "Per the BBC article the host reads, Sherry Steel, who lives across the street from the residence, came back from an evening walk to see a large police presence, and a loud voice shouting 'Freeze!' and helicopters were above her house.",
       "anchored_artifacts": [
         "A-1113.1"
       ],
@@ -2095,8 +2095,8 @@
       "@type": "Claim",
       "@id": "C-1195",
       "ref": "C-1195",
-      "label": "Amazon listed Kirk-assassination book before event",
-      "claim": "A book about Charlie Kirk's assassination was listed on Amazon before September 10, 2025; Amazon attributed the early date to technical issues and removed the title.",
+      "label": "Viewer Comment Says Amazon Listed Kirk-Assassination Book Before Event",
+      "claim": "A viewer comment the host reads says a book about Charlie's assassination was available on Amazon the day before it happened; the host then reads her producer's note saying Amazon blamed technical issues for the incorrect publication date and removed the book.",
       "anchored_artifacts": [
         "A-1118.1"
       ],
@@ -2163,8 +2163,8 @@
       "@type": "Claim",
       "@id": "C-1198",
       "ref": "C-1198",
-      "label": "Local theory: vacant UVU-owned house is real shooter refuge",
-      "claim": "Locals theorise that a vacant house next door to the gun-recovery site is owned by Utah Valley University and served as the real shooter's safe house, with Robinson acting as a decoy.",
+      "label": "Host Says Locals Theorize Vacant UVU-Owned House Was Real Shooter's Refuge",
+      "claim": "The host says locals tell her, as an unproven theory, that a mysteriously vacant house next to where the gun was found is owned by Utah Valley University and is where the true shooter ran after the assassination, with Tyler Robinson instructed merely to drop off his gun as a decoy.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
@@ -2265,8 +2265,8 @@
       "@type": "Claim",
       "@id": "C-1203",
       "ref": "C-1203",
-      "label": "Steele family owns the doorbell-camera house",
-      "claim": "Property records show that the house whose footage appeared on TMZ is owned by Samuel Steele, his wife Carrie, and Irwin Steel – not Irwin Steel alone.",
+      "label": "Host Says Steele Family Owns the Doorbell-Camera House",
+      "claim": "The host says property records show that the house whose footage appeared on TMZ is owned by Samuel Steele and his wife Carrie, not by Irwin Steel, though Irwin says he lives there.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10050",

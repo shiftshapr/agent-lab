@@ -1444,11 +1444,11 @@ Investigative Direction: Verify meeting date, location, and stated duration agai
 
 ---
 
-**C-1925** Erika confirmed possession of Charlie's phone
+**C-1925** Host Says Erika Kirk Confirmed Possession of Charlie's Phone
 
 Claim Timestamp: 00:06:18
 
-Claim: Erika Kirk confirmed she has Charlie Kirk's phone and that he primarily used Signal and Telegram for communications.
+Claim: The host says Erika Kirk, in her Glenn Beck interview, confirmed she has Charlie Kirk's phone and that he, like everybody else, primarily used Signal and Telegram for communications.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-2, N-1
@@ -1504,11 +1504,11 @@ Investigative Direction: Verify the May probable cause hearing date through Utah
 
 ---
 
-**C-1929** Probable cause hearing scheduled for May
+**C-1929** Host Says Probable Cause Hearing Is Scheduled for May
 
 Claim Timestamp: 00:19:00
 
-Claim: The probable cause hearing at which evidence will first be presented to a judge is scheduled for May 2026.
+Claim: The host says a lawyer involved in the case told her the probable cause hearing, at which evidence will first be presented to a judge, is scheduled for May (recorded as May 2026).
 
 Anchored Artifacts: A-1540.1
 
@@ -1533,11 +1533,11 @@ Investigative Direction: Identify the witness and verify the video and timestamp
 
 ---
 
-**C-1931** Witness described smaller gun, black tactical gear, no recoil
+**C-1931** Host Says Rooftop-Filming Witness Described Smaller Gun, Black Tactical Gear, No Recoil
 
 Claim Timestamp: 00:21:02
 
-Claim: The rooftop-filming witness described the subject as wearing black tactical gear, carrying a smaller gun, and exhibiting no recoil.
+Claim: The host says the witness who filmed the figure on the rooftop told her he described the subject as wearing black tactical gear, carrying a smaller gun, and exhibiting no recoil.
 
 Anchored Artifacts: A-1539.1
 
@@ -1562,11 +1562,11 @@ Investigative Direction: Obtain the call logs directly from Mikey McCoy or from 
 
 ---
 
-**C-1933** Mikey three-wayed Erika 3 minutes after shot and father 2 minutes later
+**C-1933** Host Says Mikey Three-Wayed Erika 3 Minutes After Shot and Father 2 Minutes Later
 
 Claim Timestamp: 00:27:12
 
-Claim: Mikey McCoy added Erika to the call approximately 3 minutes after the shot and added his father Rob McCoy approximately 2 minutes later, remaining on the phone with his wife throughout.
+Claim: The host says, citing call logs shown to her, that Mikey McCoy added Erika to the call approximately 3 minutes after the shot and added his father Rob McCoy approximately 2 minutes later, remaining on the phone with his wife throughout.
 
 Anchored Artifacts: A-1543.1
 Mentions: N-2, N-17, N-194, N-221
@@ -1577,11 +1577,11 @@ Investigative Direction: Verify the three-way call sequence against carrier reco
 
 ---
 
-**C-1934** Mikey McCoy's real first name is Michael
+**C-1934** Host Says Mikey McCoy's Real First Name Is Michael
 
 Claim Timestamp: 00:23:53
 
-Claim: Mikey McCoy's real first name is Michael; "Mikey" is not a middle-name substitute.
+Claim: The host says Mikey McCoy's real first name is Michael and that "Mikey" is not a middle-name substitute, which she says Mikey wanted the audience to know.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-194
@@ -1680,11 +1680,11 @@ Investigative Direction: Verify Rob McCoy's formal affiliations independently of
 
 ---
 
-**C-1940** TPUSA defended Terrell Farnsworth's camera removal
+**C-1940** Host Says TPUSA Defended Terrell Farnsworth's Camera Removal
 
 Claim Timestamp: 00:09:23
 
-Claim: TPUSA defended Terrell Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.
+Claim: The host says TPUSA defended Terrell Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.
 
 Anchored Artifacts: A-1539.1
 Mentions: N-2, N-265
@@ -1904,11 +1904,11 @@ Investigative Direction: Verify through any recording or attendee corroboration 
 
 ---
 
-**C-1955** Andrew Seifer identified as TPUSA head of field
+**C-1955** Charlie Kirk Show Speaker Identifies Andrew Seifer as TPUSA Head of Field
 
 Claim Timestamp: 00:51:02
 
-Claim: On the Charlie Kirk Show, Andrew Seifer was identified as TPUSA's head of field.
+Claim: In a clip from the Charlie Kirk Show that the host plays, a speaker identifies Andrew Seifer as TPUSA's head of field.
 
 Anchored Artifacts: A-1544.2
 Mentions: N-335

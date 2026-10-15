@@ -1061,11 +1061,11 @@ Investigative Direction: Gait analysis of unenhanced source footage; consultatio
 
 ---
 
-**C-3440** Terrell Farnsworth observed on laptop in Mercedes Sprinter van at ~1:00 PM
+**C-3440** Host Says Terrell Farnsworth Was on a Laptop in a Mercedes Sprinter Van at About 1:00 PM
 
 Claim Timestamp: 00:19:51–00:20:41
 
-Claim: Enhanced footage shows Terrell Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around, at approximately 1:00 PM on September 10 – roughly 30 minutes after the event.
+Claim: The host says enhanced footage shows Terrell Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around (she says this is her inference), at approximately 1:00 PM on September 10, roughly 30 minutes after the event.
 
 Anchored Artifacts: A-2370.1
 Mentions: N-265
@@ -1086,11 +1086,11 @@ Investigative Direction: Obtain original footage timestamps; review phone extrac
 
 ---
 
-**C-3442** TPUSA / affiliates claimed statue vandalized with red paint on September 13
+**C-3442** Host Says TPUSA / Affiliates Claimed Statue Vandalized with Red Paint on September 13
 
 Claim Timestamp: 00:37:35–00:43:46
 
-Claim: TPUSA and affiliated accounts (Andrew Kolvet, Erica Kirk, Tyler Bowyer) characterized the statue as having been vandalized with red paint, in some accounts crossing out the name of Jesus Christ, on or about the early morning of September 13, 2026.
+Claim: The host says TPUSA and affiliated accounts (Andrew Kolvet, Erica Kirk, Tyler Bowyer) characterized the statue as having been vandalized with red paint, in some accounts crossing out the name of Jesus Christ, on or about the early morning of September 13, 2026; she plays a clip in which Andrew Kolvet discusses the act of vandalism.
 
 Anchored Artifacts: A-2363.1, A-2364.1, A-2365.1, A-2366.1, A-2373.1
 Mentions: N-11, N-14, N-2

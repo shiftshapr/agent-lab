@@ -1731,10 +1731,10 @@ Investigative Direction: Verify the $20–40 million figure against Liberty Univ
 
 ---
 
-**C-2040** Pastor Yoon Bo-seon arrested September 9, 2025 for breaking election law
+**C-2040** Korean Herald Headline the Host Shows Says Pastor Yoon Bo-seon Was Arrested September 9 for Breaking Election Law
 
 Claim Timestamp: 01:09:02
-Claim: Per Korean Herald, Pastor Yoon Bo-seon was arrested on September 9, 2025 for breaking the public official election act and local education autonomy act.
+Claim: Per a Korean Herald headline the host shows, Pastor Yoon Bo-seon was arrested on September 9, 2025 for breaking the public official election act and local education autonomy act.
 Anchored Artifacts: A-1603.1
 Mentions: N-408
 Related Nodes: N-10397

@@ -1103,7 +1103,7 @@ Investigative Direction: Obtain the full unedited Newsmax segment and any forens
 
 Claim Timestamp: 00:05:31
 
-Claim: Brigadier General Blaine Holt publicly rejected the explanation that the bullet struck Charlie Kirk's spine and affirmed Robert O'Neill's broader critique.
+Claim: In a clip the host plays, Brigadier General Blaine Holt says he rejects the explanation that the bullet struck Charlie Kirk's spine and agrees with Robert O'Neill's broader critique.
 
 Anchored Artifacts: A-2153.2
 Mentions: N-1
@@ -1129,11 +1129,11 @@ Investigative Direction: Request the official briefing transcript or unedited vi
 
 ---
 
-**C-3061** Kash Patel and Bo Mason did not intervene during Governor Cox's clothing statement
+**C-3061** Host Says Kash Patel and Bo Mason Did Not Intervene During Governor Cox's Clothing Statement
 
 Claim Timestamp: 00:09:39
 
-Claim: Neither Kash Patel nor Beau Mason interrupted or corrected Governor Cox during his statement about rooftop clothing changes at the September 12, 2025 briefing.
+Claim: The host says neither Kash Patel nor Beau Mason interrupted or corrected Governor Cox during his statement about rooftop clothing changes at the September 12, 2025 briefing.
 
 Anchored Artifacts: A-2154.1
 Mentions: N-41, N-69, N-513
@@ -1159,11 +1159,11 @@ Investigative Direction: Compare the publicly released footage metadata against 
 
 ---
 
-**C-3063** Sgt. Jennifer Faumuina appeared on Netflix's *Worst Roommate Ever* referencing JTTF work
+**C-3063** Host Says Sgt. Jennifer Faumuina Appeared on Netflix's Worst Roommate Ever Referencing JTTF Work
 
 Claim Timestamp: 00:16:37
 
-Claim: Jennifer Faumuina is presented on Season 2 Episode 1 of Netflix's *Worst Roommate Ever* stating she had been with the Utah State Bureau of Investigation for 8 years and was assigned full-time to the FBI's Joint Terrorism Task Force.
+Claim: The host says Jennifer Faumuina appeared on Season 2 Episode 1 of Netflix's *Worst Roommate Ever*, and in a clip the host plays, Faumuina says she had been with the Utah State Bureau of Investigation for 8 years and was assigned full-time to the FBI's Joint Terrorism Task Force.
 
 Anchored Artifacts: A-2156.1
 Mentions: N-511
@@ -1174,11 +1174,11 @@ Investigative Direction: Confirm the Netflix episode metadata, Faumuina's on-scr
 
 ---
 
-**C-3064** Jennifer Faumuina played basketball at a Hawaii private school in 2003
+**C-3064** Host Says Jennifer Faumuina Played Basketball at a Hawaii Private School in 2003
 
 Claim Timestamp: 00:17:38
 
-Claim: A 2003 image shows Jennifer Faumuina playing basketball at a private school in Hawaii.
+Claim: The host says her team found a 2003 image showing Jennifer Faumuina playing basketball at a private school in Hawaii.
 
 Anchored Artifacts: A-2157.1
 Mentions: N-513, N-511, N-515, N-514
@@ -1189,11 +1189,11 @@ Investigative Direction: Identify the specific school and roster, and cross-refe
 
 ---
 
-**C-3065** Jennifer Faumuina graduated from Weber State University in 2008
+**C-3065** Host Says Jennifer Faumuina Graduated from Weber State University in 2008
 
 Claim Timestamp: 00:17:38
 
-Claim: Jennifer Faumuina studied criminal justice at Weber State University and graduated in 2008.
+Claim: The host says Jennifer Faumuina studied criminal justice at Weber State University and graduated in 2008.
 
 Anchored Artifacts: A-2157.2
 Mentions: N-513, N-511, N-515, N-514
@@ -1234,11 +1234,11 @@ Investigative Direction: Confirm the original article, deployment list, and cred
 
 ---
 
-**C-3068** Jennifer Faumuina appears in Utah DPS paid records beginning 2018
+**C-3068** Host Says Jennifer Faumuina Appears in Utah DPS Paid Records Beginning in 2018
 
 Claim Timestamp: 00:18:29
 
-Claim: Public records show Jennifer Faumuina as a paid officer with the Utah Department of Public Safety from 2018 onward.
+Claim: The host says public salary records show Jennifer Faumuina as a paid officer with the Utah Department of Public Safety from 2018 onward, and none list her as paid before then.
 
 Anchored Artifacts: A-2157.5
 Mentions: N-513, N-511, N-515, N-514
@@ -1264,11 +1264,11 @@ Investigative Direction: Verify the photograph and underlying academy/class reco
 
 ---
 
-**C-3070** Faumuina and Mason photographed together at her 2023 sergeant swearing-in
+**C-3070** Host Says Faumuina and Mason Were Photographed Together at Her 2023 Sergeant Swearing-In
 
 Claim Timestamp: 00:20:19
 
-Claim: Jennifer Faumuina and Bo Mason appear together in a 2023 photograph marking Faumuina's promotion to sergeant.
+Claim: The host says she shows a photograph in which Jennifer Faumuina and Bo Mason appear together in 2023 when Faumuina was sworn in as a sergeant.
 
 Anchored Artifacts: A-2157.5
 Mentions: N-513, N-511, N-515, N-514
@@ -1279,11 +1279,11 @@ Investigative Direction: Confirm the date and ceremony through Utah DPS press re
 
 ---
 
-**C-3071** Bo Mason was appointed Utah DPS Commissioner on June 19, 2025
+**C-3071** Host Says Bo Mason Was Appointed Utah DPS Commissioner on June 19, 2025
 
 Claim Timestamp: 00:19:15
 
-Claim: Beau "Bo" Mason was appointed Commissioner of the Utah Department of Public Safety on June 19, 2025 by Governor Cox.
+Claim: The host says Beau "Bo" Mason was appointed Commissioner of the Utah Department of Public Safety on June 19, 2025 by Governor Cox.
 
 Anchored Artifacts: A-2158.1
 Mentions: N-41, N-513, N-511
@@ -1294,11 +1294,11 @@ Investigative Direction: Verify appointment through the official Utah governor's
 
 ---
 
-**C-3072** Andrew Zenger was appointed Timpanogos Hospital CEO on August 18, 2025
+**C-3072** Host Says Andrew Zenger Was Appointed Timpanogos Hospital CEO on August 18, 2025
 
 Claim Timestamp: 00:21:14
 
-Claim: Andrew Zenger was appointed CEO of Timpanogos Hospital on August 18, 2025, approximately three weeks before the assassination.
+Claim: The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on August 18, 2025, approximately three weeks before the assassination.
 
 Anchored Artifacts: A-2158.2
 Mentions: N-137
@@ -1309,11 +1309,11 @@ Investigative Direction: Confirm via hospital press releases and board minutes.
 
 ---
 
-**C-3073** Judge Tony Graff was appointed in May 2025
+**C-3073** Host Says Judge Tony Graff Was Appointed in May 2025
 
 Claim Timestamp: 00:21:14
 
-Claim: Tony Graff received a judicial appointment in May 2025.
+Claim: The host says Judge Tony Graff received a judicial appointment in May 2025.
 
 Anchored Artifacts: A-2158.3
 Mentions: N-138
@@ -1324,11 +1324,11 @@ Investigative Direction: Verify the appointment date, court, and appointing auth
 
 ---
 
-**C-3074** Robert Bowles assumed leadership of FBI Salt Lake City on September 2, 2025
+**C-3074** Host Says Robert Bowles Assumed Leadership of FBI Salt Lake City on September 2, 2025
 
 Claim Timestamp: 00:21:14
 
-Claim: Special Agent Robert Bowles took command of the FBI Salt Lake City Field Office on September 2, 2025 – eight days before the assassination.
+Claim: The host says Special Agent Robert Bowles took command of the FBI Salt Lake City Field Office on September 2, 2025 – eight days before the assassination.
 
 Anchored Artifacts: A-2158.5
 Mentions: N-135
@@ -1373,7 +1373,7 @@ Investigative Direction: Obtain original Honolulu-area news archives and Hawaii 
 
 Claim Timestamp: 00:24:14
 
-Claim: The 1995 press coverage of Misiona Faumuina's death described him as a devout Mormon attending the Maquilo Ward in Waipahu, with his brother Sapena noting he was preparing for a mission.
+Claim: Per 1995 press coverage the host shows, Misiona Faumuina was described as a devout Mormon attending the Maquilo Ward in Waipahu, with his brother Sapena noting he was preparing for a mission.
 
 Anchored Artifacts: A-2160.1
 Mentions: N-511, N-515, N-514

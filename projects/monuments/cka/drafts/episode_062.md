@@ -701,11 +701,11 @@ Investigative Direction: Obtain on-record confirmation from Jaco Booyens and/or 
 
 ---
 
-**C-2184** Lyle Reems was indicted in 1998 for sexual conduct with a minor under 15
+**C-2184** Host Says Lyle Reems Was Indicted in 1998 for Sexual Conduct with a Minor Under 15
 
 Claim Timestamp: 00:12:31
 
-Claim: Lyle Reems was indicted in 1998 for sexual conduct with a minor under the age of 15; he was approximately 41 at the time.
+Claim: The host says Lyle Reems was indicted in 1998 for sexual conduct with a minor under the age of 15, and that he was approximately 41 at the time.
 
 Anchored Artifacts: A-1670.1
 Mentions: N-496
@@ -715,11 +715,11 @@ Investigative Direction: Pull certified court records from the relevant Arizona 
 
 ---
 
-**C-2185** The Lyle Reems case was dismissed without prejudice in 1999 after the victim gave a victim impact statement
+**C-2185** Host Says the Lyle Reems Case Was Dismissed Without Prejudice in 1999 After the Victim Gave a Victim Impact Statement
 
 Claim Timestamp: 00:12:31
 
-Claim: The case against Lyle Reems made its way through the court system for approximately a year and a half, during which the young victim gave a victim impact statement, before being dismissed without prejudice in 1999.
+Claim: The host says the case against Lyle Reems made its way through the court system for approximately a year and a half, during which the young victim gave a victim impact statement, before being dismissed without prejudice in 1999.
 
 Anchored Artifacts: A-1670.2
 Mentions: N-496
@@ -729,11 +729,11 @@ Investigative Direction: Verify dismissal-without-prejudice status in court reco
 
 ---
 
-**C-2186** Lori Frantzve, Larry Guinta, Lyle Reems, and Shelly Reems co-filed Desert Spirit Tech LLC in Sacaton, Arizona in 2017
+**C-2186** Per Host's Documents, Frantzve, Guinta, and the Reemses Co-Filed Desert Spirit Tech LLC in Sacaton, Arizona in 2017
 
 Claim Timestamp: 00:13:25
 
-Claim: In 2017, Lori Frantzve (listed as "Lorin Frantzve"), Larry Guinta, Lyle Reems, and Shelly Reems filed to open a business called Desert Spirit Tech LLC in Sacaton, Arizona, with Frantzve listed as a 20% stakeholder and Guinta as registered agent.
+Claim: Per the formation documents the host shows, in 2017 Lori Frantzve (listed as "Lorin Frantzve"), Larry Guinta, Lyle Reems, and Shelly Reems filed to open a business called Desert Spirit Tech LLC in Sacaton, Arizona, with Frantzve listed as a 20% stakeholder and Guinta as registered agent.
 
 Anchored Artifacts: A-1671.1, A-1672.1
 Mentions: N-393, N-495, N-496, N-497
@@ -744,11 +744,11 @@ Investigative Direction: Pull the certified Arizona Corporation Commission filin
 
 ---
 
-**C-2187** Desert Spirit Tech LLC's statutory public notice was published in the Arizona Chinese News
+**C-2187** Per Host's Filing, Desert Spirit Tech LLC's Statutory Public Notice Was Published in the Arizona Chinese News
 
 Claim Timestamp: 00:16:12
 
-Claim: The statutory public notice for Desert Spirit Tech LLC was issued in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.
+Claim: Per the filing the host shows, the statutory public notice for Desert Spirit Tech LLC was issued in the Arizona Chinese News, signed December 1, 2017 and received by the state December 6, 2017.
 
 Anchored Artifacts: A-1671.2
 Mentions: N-393, N-495

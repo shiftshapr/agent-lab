@@ -1828,7 +1828,7 @@
       "@id": "C-2834",
       "ref": "C-2834",
       "label": "Daily Wire announced restructuring and mass layoffs in a statement released to Breitbart Media",
-      "claim": "The Daily Wire issued a statement to Breitbart Media describing layoffs as part of a \"restructuring\" decision.",
+      "claim": "Per a statement the host reads that she says The Daily Wire gave to Breitbart Media, The Daily Wire described its layoffs as part of a \"restructuring\" decision.",
       "anchored_artifacts": [
         "A-2030.1"
       ],
@@ -1872,7 +1872,7 @@
       "@id": "C-2837",
       "ref": "C-2837",
       "label": "Akash Gupta X post asserted Shapiro's monthly YouTube views collapsed from 170M (late 2023) to ~22M (early 2026)",
-      "claim": "An X analysis by Akash Gupta quantified Shapiro's YouTube monthly viewership as collapsing from approximately 170 million to approximately 22 million over roughly 18 months.",
+      "claim": "Per an X post by Akash Gupta that the host reads, Shapiro's YouTube monthly viewership collapsed from approximately 170 million to approximately 22 million over roughly 18 months.",
       "anchored_artifacts": [
         "A-2031.1"
       ],
@@ -1887,7 +1887,7 @@
       "@id": "C-2838",
       "ref": "C-2838",
       "label": "Akash Gupta X post asserted LayoffHedge.com estimates Daily Wire workforce reduction above 60% over the past year",
-      "claim": "The X analysis cited LayoffHedge.com estimates of cumulative Daily Wire workforce reduction above 60%.",
+      "claim": "Per an X post by Akash Gupta that the host reads, LayoffHedge.com estimates cumulative Daily Wire workforce reduction above 60%.",
       "anchored_artifacts": [
         "A-2031.1"
       ],
@@ -1991,8 +1991,8 @@
       "@type": "Claim",
       "@id": "C-2844",
       "ref": "C-2844",
-      "label": "Show Faith by Works LLC is run by Chad Schnitker per FARA filings",
-      "claim": "The FARA registration for Show Faith by Works LLC identifies Chad Schnitker, a California Christian conservative activist, as principal.",
+      "label": "Host Says Show Faith by Works LLC Is Run by Chad Schnitker per FARA Filings",
+      "claim": "The host says the FARA registration for Show Faith by Works LLC identifies Chad Schnitker, a California Christian conservative activist, as principal.",
       "anchored_artifacts": [
         "A-2035.1",
         "A-2036.1"
@@ -2010,8 +2010,8 @@
       "@type": "Claim",
       "@id": "C-2845",
       "ref": "C-2845",
-      "label": "Show Faith by Works LLC registered under FARA eight days after Charlie Kirk's assassination",
-      "claim": "Show Faith by Works LLC began its FARA contracting registration approximately eight days after Charlie Kirk's assassination.",
+      "label": "Host Says Show Faith by Works LLC Registered Under FARA Eight Days After Charlie Kirk's Assassination",
+      "claim": "The host says Show Faith by Works LLC began its FARA contracting registration eight days after Charlie Kirk was assassinated.",
       "anchored_artifacts": [
         "A-2036.1"
       ],
@@ -2029,8 +2029,8 @@
       "@type": "Claim",
       "@id": "C-2846",
       "ref": "C-2846",
-      "label": "Show Faith by Works LLC contracted Havoc Media following Charlie Kirk's public funeral",
-      "claim": "Show Faith by Works LLC was contracted by Havoc Media on the 8th [day], followed by the public funeral of Charlie Kirk.",
+      "label": "Host Says Show Faith by Works LLC Was Contracted by Havoc Media Before Charlie Kirk's Public Funeral",
+      "claim": "The host says Show Faith by Works LLC was contracted by Havoc Media on the 8th, followed by the public funeral of Charlie Kirk.",
       "anchored_artifacts": [
         "A-2036.1",
         "A-2044.1"
@@ -2052,7 +2052,7 @@
       "@id": "C-2847",
       "ref": "C-2847",
       "label": "Andrew Kolvet stated partners geofenced 277,000 devices at State Farm Stadium in Glendale, Arizona",
-      "claim": "Andrew Kolvet announced on Jesse's program that partners geotagged over 277,000 devices in the vicinity of State Farm Stadium during the memorial.",
+      "claim": "In a clip the host plays from Jesse Watters' program, Andrew Kolvet says that partners who do geotagging told him they tracked over 277,000 devices in the vicinity of State Farm Stadium in Glendale, Arizona during the memorial.",
       "anchored_artifacts": [
         "A-2037.1"
       ],
@@ -2147,8 +2147,8 @@
       "@type": "Claim",
       "@id": "C-2852",
       "ref": "C-2852",
-      "label": "Jacob William Roth retweeted the Brian Harpole lawsuit",
-      "claim": "Jacob William Roth retweeted the Brian Harpole lawsuit document.",
+      "label": "Host Says Jacob William Roth Retweeted the Brian Harpole Lawsuit",
+      "claim": "The host says Jacob William Roth, Ben Shapiro's brother-in-law, retweeted the Brian Harpole lawsuit document.",
       "anchored_artifacts": [
         "A-2043.1"
       ],
@@ -2203,8 +2203,8 @@
       "@type": "Claim",
       "@id": "C-2855",
       "ref": "C-2855",
-      "label": "FARA registration identifies Dhillon Law Group as legal representative of Show Faith by Works LLC",
-      "claim": "The Show Faith by Works FARA paperwork lists Dhillon Law Group as the legal representative.",
+      "label": "Host Says FARA Registration Identifies Dhillon Law Group as Legal Representative of Show Faith by Works LLC",
+      "claim": "The host says the Show Faith by Works FARA paperwork lists Dhillon Law Group as the legal representative.",
       "anchored_artifacts": [
         "A-2036.1"
       ],

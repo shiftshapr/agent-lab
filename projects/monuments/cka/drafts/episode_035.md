@@ -910,11 +910,11 @@ Existing topic reused for new claims in this episode.
 
 ## 5. Claim Register
 
-**C-1745** SUBTT Departed Provo 7:14 AM and Arrived Wilmington 11:51 AM ET on September 10, 2025
+**C-1745** Host Says SUBTT Departed Provo 7:14 AM and Arrived Wilmington 11:51 AM ET on September 10, 2025
 
 Claim Timestamp: 00:02:32–00:05:00
 
-Claim: The yellow Egyptian government jet (tail number SUBTT) departed Provo, Utah at 7:14 AM local on September 10, 2025 and arrived Wilmington, Delaware at 11:51 AM Eastern.
+Claim: The host says the yellow Egyptian government jet (tail number SUBTT) departed Provo, Utah at 7:14 AM local on September 10, 2025 and arrived Wilmington, Delaware at 11:51 AM Eastern.
 
 Anchored Artifacts: A-1435.1, A-1436.1
 
@@ -924,11 +924,11 @@ Investigative Direction: Cross-reference host's timeline against independent ADS
 
 ---
 
-**C-1746** SUBTT Stayed Overnight in Wilmington Until September 11 at 7:56 AM
+**C-1746** Host Says SUBTT Stayed Overnight in Wilmington Until September 11 at 7:56 AM
 
 Claim Timestamp: 00:02:32–00:05:00
 
-Claim: The Egyptian plane remained in Wilmington, Delaware overnight and departed September 11, 2025 at 7:56 AM, ruling out a fuel-stop explanation.
+Claim: The host says the Egyptian plane remained in Wilmington, Delaware overnight and departed September 11, 2025 at 7:56 AM, which she says rules out a fuel-stop explanation.
 
 Anchored Artifacts: A-1435.1, A-1436.1
 
@@ -938,11 +938,11 @@ Investigative Direction: Verify overnight ground time via independent flight tra
 
 ---
 
-**C-1747** SUBTT Made Multi-Day Wilmington Stays in November 2022
+**C-1747** Anonymous Email the Host Reads Says SUBTT Made Multi-Day Wilmington Stays in November 2022
 
 Claim Timestamp: 00:19:00–00:20:40
 
-Claim: SUBTT flew Cairo–Paris–Wichita–Wilmington–Cairo on November 13, 2022, then returned to Wilmington on November 17, 2022 and remained until November 20, 2022 before returning to Cairo.
+Claim: Per an anonymous email the host reads, SUBTT flew Cairo–Paris–Wichita–Wilmington–Cairo on November 13, 2022, then returned to Wilmington on November 17, 2022 and remained until November 20, 2022 before returning to Cairo.
 
 Anchored Artifacts: A-1435.1, A-1436.3
 
@@ -952,11 +952,11 @@ Investigative Direction: Verify against independent historical ADS-B / FAA recor
 
 ---
 
-**C-1748** June 1997 DOJ Directory Lists Wilmington Resident Office at 920 King Street, Suite 404
+**C-1748** Host Reads Email Saying June 1997 DOJ Directory Lists Wilmington Resident Office at 920 King Street, Suite 404
 
 Claim Timestamp: 00:10:45
 
-Claim: A June 1997 Department of Justice directory (page titled 675) lists a Wilmington Resident Office at 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware 19801.
+Claim: Per an anonymous email the host reads, and which the host says her team confirmed, a June 1997 Department of Justice directory (page titled 675) lists a Wilmington Resident Office at 1 Rodney Square, Suite 404, 920 King Street, Wilmington, Delaware 19801.
 
 Anchored Artifacts: A-1437.1
 
@@ -966,11 +966,11 @@ Investigative Direction: Obtain the cited DOJ directory and confirm page 675 dir
 
 ---
 
-**C-1749** 920 North King Street Currently Houses DEA, FBI, and Secret Service
+**C-1749** Host Says 920 North King Street Currently Houses DEA, FBI, and Secret Service
 
 Claim Timestamp: 00:10:45–00:12:23
 
-Claim: Current public directories show DEA, FBI, and U.S. Secret Service all listed at 920 North King Street, Suite 404, Wilmington, Delaware, with phone numbers published.
+Claim: The host says current public directories show DEA, FBI, and U.S. Secret Service all listed at 920 North King Street, Suite 404, Wilmington, Delaware, with phone numbers published.
 
 Anchored Artifacts: A-1435.1, A-1437.1
 
@@ -980,11 +980,11 @@ Investigative Direction: Verify via direct lookups of each agency's published Wi
 
 ---
 
-**C-1750** SATIDS Announced in December 2024 Takeover of Wilmington Airport Hangar
+**C-1750** Host Says SATIDS Announced December 2024 Takeover of Wilmington Airport Hangar
 
 Claim Timestamp: 00:12:23–00:13:22
 
-Claim: A French aircraft finishing company, SATIDS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+.
+Claim: The host says a French aircraft finishing company, SATIDS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+, and says her team confirmed this.
 
 Anchored Artifacts: A-1438.1
 
@@ -994,11 +994,11 @@ Investigative Direction: Locate SATIDS press release and Delaware outlet coverag
 
 ---
 
-**C-1751** DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATIDS
+**C-1751** Per Document Host Reads, DRBA January 2024 Resolution Authorized Paint Hanger Lease to SATIDS
 
 Claim Timestamp: 00:13:22–00:14:22
 
-Claim: A Delaware River and Bay Authority (DRBA) January 2024 resolution authorized acquiring rights to a paint hanger formerly part of a Dassault leasehold and executing a lease with SATIDS.
+Claim: Per a Delaware River and Bay Authority (DRBA) January 2024 resolution the host reads, the DRBA was acquiring rights to a paint hangar formerly part of a Dassault leasehold and authorizing execution of a lease with SATIDS.
 
 Anchored Artifacts: A-1439.1
 
@@ -1008,11 +1008,11 @@ Investigative Direction: Obtain the DRBA resolution document directly from DRBA 
 
 ---
 
-**C-1752** FBI Director Wray Cited Partnerships in Wilmington December 2024 Press Release
+**C-1752** Per FBI Press Release Host Reads, Wray Cited Partnerships in Wilmington December 2024
 
 Claim Timestamp: 00:17:46–00:18:30
 
-Claim: An FBI press release dated December 5, 2024 includes Director Christopher Wray emphasizing "key partners" and describing partnerships as closer than 5 or 10 years prior.
+Claim: Per an FBI press release dated December 5, 2024 that the host reads, Director Christopher Wray emphasized "key partners" and described partnerships as closer than 5 or 10 years prior.
 
 Anchored Artifacts: A-1440.1
 Mentions: N-269

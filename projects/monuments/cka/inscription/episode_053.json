@@ -1589,8 +1589,8 @@
       "@type": "Claim",
       "@id": "C-2019",
       "ref": "C-2019",
-      "label": "Ben Shapiro Resigned From Breitbart News on March 13, 2016",
-      "claim": "Ben Shapiro publicly resigned from Breitbart News on March 13, 2016 at 9:00 PM Pacific, citing the company's handling of Michelle Fields' assault allegations against Corey Lewandowski.",
+      "label": "Per Statement the Host Reads, Ben Shapiro Resigned From Breitbart News on March 13, 2016",
+      "claim": "Per the statement the host reads, Ben Shapiro publicly resigned from Breitbart News as of 9:00 PM Pacific on March 13, 2016, citing the company's handling of Michelle Fields' allegations that Corey Lewandowski assaulted her.",
       "anchored_artifacts": [
         "A-1590.1"
       ],
@@ -1634,8 +1634,8 @@
       "@type": "Claim",
       "@id": "C-2021",
       "ref": "C-2021",
-      "label": "Austin Smith Sentenced Tuesday for Petition Signature Fraud",
-      "claim": "Austin Smith, age 30, former Arizona state representative and Turning Point Action leader, was scheduled to be sentenced Tuesday for using nominating petitions that contained forged signatures, including forging a dead woman's signature, in a 2024 primary election bid.",
+      "label": "Article the Host Reads Says Austin Smith Was Scheduled to Be Sentenced Tuesday for Petition Signature Fraud",
+      "claim": "Per a news article the host reads, Austin Smith, age 30, former Arizona state representative and Turning Point Action leader, was scheduled to be sentenced Tuesday for using nominating petitions that contained forged signatures, including forging a dead woman's signature, in a 2024 primary election bid.",
       "anchored_artifacts": [
         "A-1592.1"
       ],
@@ -1655,7 +1655,7 @@
       "@id": "C-2022",
       "ref": "C-2022",
       "label": "Austin Smith Plead Guilty in Mid-November to Attempted Fraudulent Schemes and Practices",
-      "claim": "Austin Smith plead guilty in mid-November to charges of attempted fraudulent schemes and practices and illegal signing of election petitions.",
+      "claim": "Per a news article the host reads, Austin Smith plead guilty in mid-November to charges of attempted fraudulent schemes and practices and illegal signing of election petitions.",
       "anchored_artifacts": [
         "A-1592.1"
       ],
@@ -1693,8 +1693,8 @@
       "@type": "Claim",
       "@id": "C-2024",
       "ref": "C-2024",
-      "label": "Daily Wire Producer Described as Being in \"Panic Mode\" During Casting",
-      "claim": "The Daily Wire producer who contacted Maggie Wagner was described by Maggie as being in \"panic mode\" about casting the show, having only come up with the show concept the day before contacting her.",
+      "label": "Email the Host Reads Describes Daily Wire Producer as in \"Panic Mode\" During Casting",
+      "claim": "Per an email the host reads, the Daily Wire producer who contacted Maggie Wagner was in \"panic mode\" about casting the show, having only come up with the show concept the day before contacting her.",
       "anchored_artifacts": [
         "A-1587.1"
       ],
@@ -1712,8 +1712,8 @@
       "@type": "Claim",
       "@id": "C-2025",
       "ref": "C-2025",
-      "label": "Ben Shapiro Hired as Editor-at-Large of Breitbart Two Weeks Before Andrew Breitbart's Death",
-      "claim": "Per Shapiro's own resignation statement, he was hired by Andrew Breitbart as editor-at-large of Breitbart News approximately two weeks before Andrew Breitbart's death on March 1, 2012.",
+      "label": "Per Shapiro's Own Statement the Host Reads, He Joined Breitbart News Two Weeks Before Andrew Breitbart's Death",
+      "claim": "Per Ben Shapiro's own resignation statement that the host reads, he signed on with Breitbart News as editor-at-large approximately two weeks before Andrew Breitbart's death on March 1, 2012.",
       "anchored_artifacts": [
         "A-1590.1"
       ],
@@ -2131,8 +2131,8 @@
       "@type": "Claim",
       "@id": "C-6919",
       "ref": "C-6919",
-      "label": "AI Sample Parodies the Bee Code Theory and Kyle Robinson",
-      "claim": "The AI sample includes lines about coded talk of bees and ends by asking how Kyle Robinson could be the bee that stung, because bees die when they sting and he is alive.",
+      "label": "Host Plays AI Sample Parodying the Bee Code Theory and Kyle Robinson",
+      "claim": "In an AI sample video the host plays, which she says was sent to young women to audition for a show, the lines include coded talk of bees and end by asking how Kyle Robinson could be the bee that stung, because bees die when they sting and he is alive.",
       "anchored_artifacts": [
         "A-1589.1"
       ],

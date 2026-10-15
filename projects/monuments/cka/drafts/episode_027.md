@@ -1101,7 +1101,7 @@ Investigative Direction: Obtain original footage to identify the priest and any 
 
 Claim Timestamp: 00:18:32
 
-Claim: Erika Kirk publicly requests grace for those who were present the day Charlie was assassinated, citing AI-generated fake images and concerns about her children's future internet exposure.
+Claim: In an interview clip the host plays, Erika Kirk publicly requests grace for those who were present the day Charlie was assassinated, citing AI-generated fake images and concerns about her children's future internet exposure.
 
 Anchored Artifacts: A-1346.4
 Mentions: N-2
@@ -1130,7 +1130,7 @@ Investigative Direction: Obtain Allie's underlying text message exchange with Ch
 
 Claim Timestamp: 00:36:03
 
-Claim: Allie Beth Stuckey follows up that "no venue yet, 2 months out" was the status of the event at the time of her texts.
+Claim: In a tweet the host reads, Allie Beth Stuckey follows up that "no venue yet, 2 months out" was the status of the event at the time of her texts.
 
 Anchored Artifacts: A-1347.2
 Mentions: N-231

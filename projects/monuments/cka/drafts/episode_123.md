@@ -673,11 +673,11 @@ Investigative Direction: Obtain forensic analysis of vehicle interior; compare p
 
 ---
 
-**C-2987** Blood-Marked Uber Bag Visible in Back Seat of Vehicle
+**C-2987** Host Says Blood-Marked Uber Bag Visible in Back Seat of Vehicle
 
 Claim Timestamp: 00:06:11
 
-Claim: Photo 1 shows an Uber-style paper bag with blood marks in the back seat of the vehicle.
+Claim: The host says Photo 1 shows an Uber-style paper bag with blood marks in the back seat of the vehicle.
 
 Anchored Artifacts: A-2110.1, A-2111.2
 Related Nodes:
@@ -698,11 +698,11 @@ Investigative Direction: Identify hanger; trace jacket chain of custody (see N-1
 
 ---
 
-**C-2989** Charlie Kirk's Bloody Sports Coat Returned to Erika Kirk's Apartment Without Evidence Collection
+**C-2989** Host Says Charlie Kirk's Bloody Sports Coat Was Returned to Erika Kirk's Apartment Without Evidence Collection
 
 Claim Timestamp: 00:07:01
 
-Claim: Charlie's bloodied sports coat was returned by security to Erika Kirk's apartment in Arizona rather than collected into evidence.
+Claim: The host says Charlie's bloodied sports coat was returned by security to Erika Kirk's apartment in Arizona rather than collected into evidence.
 
 Anchored Artifacts: None (verbally referenced but not shown)
 Mentions: N-1, N-2
@@ -711,11 +711,11 @@ Investigative Direction: Verify via property records, TPUSA internal communicati
 
 ---
 
-**C-2990** Cardboard-Colored Material Visible in Vehicle
+**C-2990** Host Says Cardboard-Colored Material Visible in Vehicle
 
 Claim Timestamp: 00:00:00–00:00:01
 
-Claim: Photos show a piece of cardboard-colored, thicker material with brown/burnt appearance, separated from the Uber bags.
+Claim: The host says photos show a piece of cardboard-colored, thicker material with a brown/burnt appearance, separated from the Uber bags.
 
 Anchored Artifacts: A-2110.2, A-2111.1
 Related Nodes:
@@ -723,11 +723,11 @@ Investigative Direction: Obtain higher-resolution images; consult medical/forens
 
 ---
 
-**C-2991** Foil-Like Material Visible Under Vehicle Floor Mat
+**C-2991** Host Says Foil-Like Material Visible Under Vehicle Floor Mat
 
 Claim Timestamp: 00:00:00–00:00:01
 
-Claim: Photos show a foil-like, coppery material under the floor mat. Viewer suggestions include emergency/hypothermia blanket.
+Claim: The host says photos show a foil-like, coppery material under the floor mat, and she reads viewer suggestions that include an emergency/hypothermia blanket.
 
 Anchored Artifacts: A-2110.4, A-2111.3
 Related Nodes:
@@ -735,11 +735,11 @@ Investigative Direction: Obtain higher-resolution images; compare to medical eme
 
 ---
 
-**C-2992** SantaMedical.com Equipment Identified in Vehicle Photo
+**C-2992** Viewer Comment Host Reads Identifies SantaMedical.com Equipment in Vehicle Photo
 
 Claim Timestamp: 00:15:10
 
-Claim: A viewer identified the medical bag visible in the photo as a SantaMedical.com product, consistent with equipment Brian Harpole described traveling with Charlie.
+Claim: A viewer comment the host reads identifies the medical bag visible in the photo as a SantaMedical.com product, and the host says this is consistent with equipment Brian Harpole described traveling with Charlie.
 
 Anchored Artifacts: A-2110.2, A-2114.1
 Mentions: N-270
@@ -761,11 +761,11 @@ Investigative Direction: Verify clip provenance; corroborate with hospital witne
 
 ---
 
-**C-2994** Frank Turek and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events
+**C-2994** Host Says Frank Turek and Brian Harpole Did Not Mention Shattered Tempered Glass in Retellings of Car Events
 
 Claim Timestamp: 00:06:00–00:19:30
 
-Claim: Across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turek and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.
+Claim: The host says that across multiple interviews (Paramount Tactical, Shawn Ryan Show, and others), Frank Turek and Brian Harpole described packing a neck wound and praying but did not mention any shattered tempered glass in the vehicle.
 
 Anchored Artifacts: None (claim relies on absence from prior retellings; absence-of-evidence style claim)
 Mentions: N-270, N-7
@@ -774,11 +774,11 @@ Investigative Direction: Obtain transcripts/video of all Frank Turek and Brian H
 
 ---
 
-**C-2995** TPUSA Staff Removed Poster at Arlington Memorial Referencing Candace Owens as Investigator
+**C-2995** Host Says TPUSA Staff Removed Poster at Arlington Memorial Referencing Candace Owens as Investigator
 
 Claim Timestamp: 00:33:10
 
-Claim: A viewer sent photos showing TPUSA staff removing a poster at Charlie Kirk's Arlington memorial site that read "Don't worry, your big sister can figure out what happened."
+Claim: The host says a viewer sent her photos showing TPUSA staff removing a poster at Charlie Kirk's Arlington memorial site that read "Don't worry, your big sister can figure out what happened."
 
 Anchored Artifacts: None (verbally referenced but not shown – flagged for verification)
 Mentions: N-3, N-1
@@ -812,11 +812,11 @@ Investigative Direction: Obtain official police scanner audio logs from the date
 
 ---
 
-**C-2998** TPUSA Has Not Publicly Explained How Microphone Glass Ended Up in Vehicle
+**C-2998** Host Says TPUSA Has Not Publicly Explained How Microphone Glass Ended Up in Vehicle
 
 Claim Timestamp: 00:29:24–00:30:20
 
-Claim: As of this episode, TPUSA (via spokesperson Andrew Kolvet) has not publicly addressed how the road microphone shattered or why the glass ended up in the vehicle.
+Claim: The host says that, as of this episode, TPUSA (via spokesperson Andrew Kolvet) has not publicly addressed how the road microphone shattered or why the glass ended up in the vehicle.
 
 Anchored Artifacts: None (claim is about absence of official response)
 Mentions: N-14

@@ -807,7 +807,7 @@ TPUSA's explanation, as the host reports Erika Kirk told her, that Andrew Kolvet
 
 Claim Timestamp: 00:04:47
 
-Claim: A Tim Dillon comedy segment played on air describes Turning Point USA's AmFest event as a "right wing abomination" and "bad reality show."
+Claim: In a clip the host plays, comedian Tim Dillon describes Turning Point USA's AmFest event as a "right wing abomination" and "bad reality show."
 
 Anchored Artifacts: A-1568.1
 Mentions: N-281
@@ -820,7 +820,7 @@ Investigative Direction: Verify Tim Dillon's segment against the original record
 
 Claim Timestamp: 00:04:47
 
-Claim: A Tim Dillon comedy segment played on air observes that Erica Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and immediately pivoted to discussing the election of J. D. Vance.
+Claim: In a clip the host plays, comedian Tim Dillon observes that Erica Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and immediately pivoted to discussing the election of J. D. Vance.
 
 Anchored Artifacts: A-1568.1
 Mentions: N-2, N-281, N-1
@@ -832,7 +832,7 @@ Investigative Direction: Verify the quoted observations against video footage of
 
 Claim Timestamp: 00:09:15
 
-Claim: An on-scene reporter played on air described, with the tent visible behind her, a recreation at AmFest of the tent in which Charlie Kirk was killed at Utah Valley University, noting that attendees were taking selfies with it.
+Claim: In a clip the host plays, an on-scene reporter at AmFest says, with the tent visible behind her, that it is a recreation of the tent in which Charlie Kirk lost his life at Utah Valley University, and that people are taking selfies with it.
 
 Anchored Artifacts: A-1569.1
 Mentions: N-1
@@ -845,7 +845,7 @@ Investigative Direction: Identify the reporter and outlet, obtain the original b
 
 Claim Timestamp: 00:14:17
 
-Claim: A Tim Dillon comedy segment played on air characterizes RFK Jr. as the least scandal-prone member of the current administration while noting recurring leaked text scandals involving him.
+Claim: In a clip the host plays, comedian Tim Dillon characterizes RFK Jr. as the least scandal-prone member of the current administration while noting that texts from him keep leaking.
 
 Anchored Artifacts: A-1568.2
 Mentions: N-281
@@ -857,7 +857,7 @@ Investigative Direction: Verify the segment against the source recording and ide
 
 Claim Timestamp: 00:21:38
 
-Claim: A Tim Dillon comedy segment played on air asserts that contemporary culture is the product of denial of elite pedophilia and that this denial has produced "slop," "nothingness," and "emptiness."
+Claim: In a clip the host plays, comedian Tim Dillon asserts that contemporary culture is the product of denial of elite pedophilia and that this denial has produced "slop," "nothingness," and "emptiness."
 
 Anchored Artifacts: A-1568.3
 Mentions: N-281
@@ -869,7 +869,7 @@ Investigative Direction: Verify the segment against the source recording; assess
 
 Claim Timestamp: 00:17:33
 
-Claim: A Bari Weiss CBS segment played on air introduces Hunter Cosgrove as the last person Charlie Kirk ever spoke to and brings him on stage to ask Erica Kirk a question.
+Claim: In a Bari Weiss CBS segment clip the host plays, Bari Weiss says that Hunter Cosgrove was the last person Charlie Kirk ever spoke to and brings him on stage to ask Erica Kirk a question.
 
 Anchored Artifacts: A-1570.1
 Mentions: N-2, N-282, N-374, N-1

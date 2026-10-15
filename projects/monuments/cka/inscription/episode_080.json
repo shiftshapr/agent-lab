@@ -1638,7 +1638,7 @@
       "@id": "C-2498",
       "ref": "C-2498",
       "label": "Trump Describes Kent as \"Weak on Security\"",
-      "claim": "In on-camera remarks, President Trump described Joe Kent as \"weak on security\" upon reading his resignation statement.",
+      "claim": "In a clip the host plays, President Trump, asked about Joe Kent's resignation, says he read Kent's statement and describes Kent as \"weak on security.\"",
       "anchored_artifacts": [
         "A-1862.1"
       ],
@@ -1657,7 +1657,7 @@
       "@id": "C-2499",
       "ref": "C-2499",
       "label": "Trump Cites Termination of Iran Nuclear Deal in Defense of War",
-      "claim": "Trump defended the Iran campaign by referencing his prior termination of the Obama-era Iran nuclear deal, asserting that absent termination there would have been a \"nuclear holocaust.\"",
+      "claim": "In a clip the host plays, President Trump defends the Iran campaign by referencing his prior termination of the Obama-era Iran nuclear deal, saying that absent termination there would have been a \"nuclear holocaust.\"",
       "anchored_artifacts": [
         "A-1862.1"
       ],
@@ -1692,7 +1692,7 @@
       "@id": "C-2501",
       "ref": "C-2501",
       "label": "Levin Suggests Kent Was About to Be Fired",
-      "claim": "Mark Levin publicly speculated that Kent \"was about to be fired but quickly resigned first.\"",
+      "claim": "Per a post the host reads from Mark Levin, Levin speculated that Kent \"was about to be fired but quickly resigned first.\"",
       "anchored_artifacts": [
         "A-1864.1"
       ],
@@ -1710,8 +1710,8 @@
       "@type": "Claim",
       "@id": "C-2502",
       "ref": "C-2502",
-      "label": "Levin Calls for DOJ Criminal Investigation of Kent",
-      "claim": "Mark Levin publicly called for the DOJ to open a criminal investigation to determine if Kent leaked classified information.",
+      "label": "Host Says Levin Called for DOJ Criminal Investigation of Kent",
+      "claim": "The host says Mark Levin called for the DOJ to open a criminal investigation to determine if Kent leaked classified information.",
       "anchored_artifacts": [
         "A-1864.2"
       ],
@@ -1750,7 +1750,7 @@
       "@id": "C-2504",
       "ref": "C-2504",
       "label": "Dershowitz Calls Kent a \"Neo-Nazi Jew Hating Israel Basher\"",
-      "claim": "Alan Dershowitz publicly referred to Kent as a \"neo-Nazi Jew hating Israel basher\" who had quit the administration.",
+      "claim": "Per a post the host reads, Alan Dershowitz referred to Kent as a \"neo-Nazi Jew hating Israel basher\" who had quit the administration.",
       "anchored_artifacts": [
         "A-1866.1"
       ],
@@ -1769,7 +1769,7 @@
       "@id": "C-2505",
       "ref": "C-2505",
       "label": "Budowich Calls Kent a \"Crazed Egomaniac\"",
-      "claim": "Taylor Budowich publicly described Kent as a \"crazed egomaniac\" who was \"often at the center of national security leaks.\"",
+      "claim": "The host says Taylor Budowich, in a tweet, described Kent as a \"crazed egomaniac\" who was \"often at the center of national security leaks.\"",
       "anchored_artifacts": [
         "A-1867.1"
       ],
@@ -1804,8 +1804,8 @@
       "@type": "Claim",
       "@id": "C-2507",
       "ref": "C-2507",
-      "label": "TPUSA Arkansas Chapter Announces Disaffiliation",
-      "claim": "The Turning Point USA University of Arkansas chapter announced it is disaffiliating from the national organization.",
+      "label": "Local News Clip Says TPUSA Arkansas Chapter Announced Disaffiliation",
+      "claim": "In a local news segment the host plays, the report says the Turning Point USA University of Arkansas chapter announced it is disaffiliating from the national organization.",
       "anchored_artifacts": [
         "A-1869.1"
       ],
@@ -1840,8 +1840,8 @@
       "@type": "Claim",
       "@id": "C-2509",
       "ref": "C-2509",
-      "label": "Fonte Grassi Authored Chapter Statement",
-      "claim": "The chapter president, Dino Fonte Grassi, published a statement on Instagram representing the executive board's unanimous decision to disaffiliate.",
+      "label": "Host Says Fonte Grassi Authored Chapter Statement",
+      "claim": "The host says the chapter president, Dino Fonte Grassi, published a letter on Instagram, and that the executive board's decision to disaffiliate was unanimous.",
       "anchored_artifacts": [
         "A-1870.1"
       ],
@@ -1875,8 +1875,8 @@
       "@type": "Claim",
       "@id": "C-2511",
       "ref": "C-2511",
-      "label": "Fonte Grassi Participated in Kirk's July 2025 Israel/Gaza Discussion",
-      "claim": "Dino Fonte Grassi participated in a July 2025 Charlie Kirk sit-down discussing Israel and Gaza with students.",
+      "label": "Host Says Fonte Grassi Participated in Kirk's July 2025 Israel/Gaza Discussion",
+      "claim": "The host says Dino Fonte Grassi participated in a July 2025 Charlie Kirk sit-down discussing Israel and Gaza with students.",
       "anchored_artifacts": [
         "A-1871.1"
       ],
@@ -1926,8 +1926,8 @@
       "@type": "Claim",
       "@id": "C-2514",
       "ref": "C-2514",
-      "label": "Three DC-Area Airports Shut Down March 13",
-      "claim": "On March 13, Reagan National (DCA), Baltimore-Washington (BWI), and Richmond (RIC) airports were simultaneously shut down.",
+      "label": "Host Says Three DC-Area Airports Shut Down March 13",
+      "claim": "The host says that on March 13, Reagan National (DCA), Baltimore-Washington (BWI), and Richmond (RIC) airports were simultaneously shut down.",
       "anchored_artifacts": [
         "A-1874.1"
       ],
@@ -1942,8 +1942,8 @@
       "@type": "Claim",
       "@id": "C-2515",
       "ref": "C-2515",
-      "label": "Official Closure Explanation: Overheated Circuit Board",
-      "claim": "The official explanation for the March 13 multi-airport shutdown was a \"circuit board that overheated.\"",
+      "label": "Host Says Official Closure Explanation Was Overheated Circuit Board",
+      "claim": "The host says the official explanation for the March 13 multi-airport shutdown was a \"circuit board that overheated.\"",
       "anchored_artifacts": [
         "A-1874.1"
       ],
@@ -2029,8 +2029,8 @@
       "@type": "Claim",
       "@id": "C-2520",
       "ref": "C-2520",
-      "label": "Netanyahu No-Shows Military Council Meeting March 17",
-      "claim": "Netanyahu no-showed a critical military council meeting on March 17, reportedly unprecedented.",
+      "label": "Host Says Netanyahu No-Showed Military Council Meeting March 17",
+      "claim": "The host says Netanyahu no-showed a critical military council meeting on March 17, which she says was reportedly unprecedented.",
       "anchored_artifacts": [
         "A-1876.1"
       ],
@@ -2045,8 +2045,8 @@
       "@type": "Claim",
       "@id": "C-2521",
       "ref": "C-2521",
-      "label": "Erika Kirk Appears with Sarah Huckabee Sanders in Arkansas",
-      "claim": "Erica Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.",
+      "label": "Host Says Erika Kirk Appeared with Sarah Huckabee Sanders in Arkansas",
+      "claim": "The host says Erica Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders.",
       "anchored_artifacts": [
         "A-1869.1"
       ],
@@ -2065,8 +2065,8 @@
       "@type": "Claim",
       "@id": "C-2522",
       "ref": "C-2522",
-      "label": "Sanders Signs Proclamation Endorsing TPUSA School Chapters",
-      "claim": "Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.",
+      "label": "Local News Clip Says Sanders Signed Proclamation Endorsing TPUSA School Chapters",
+      "claim": "In a local news segment the host plays, the reporter says Governor Sarah Huckabee Sanders signed a proclamation endorsing TPUSA chapters in schools statewide.",
       "anchored_artifacts": [
         "A-1869.1"
       ],
@@ -2105,7 +2105,7 @@
       "@id": "C-2524",
       "ref": "C-2524",
       "label": "Charlie Kirk Publicly Questions Cruz's Use of Bible for Israel Aid",
-      "claim": "Charlie Kirk publicly questioned Senator Ted Cruz's use of the Bible to justify U.S. aid to Israel, asserting Cruz \"doesn't even know the verse.\"",
+      "claim": "In a clip the host plays, Charlie Kirk questions Senator Ted Cruz's use of the Bible to justify U.S. aid to Israel, saying Cruz \"doesn't even know the verse.\"",
       "anchored_artifacts": [
         "A-1871.1"
       ],

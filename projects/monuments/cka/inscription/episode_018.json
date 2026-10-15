@@ -1609,8 +1609,8 @@
       "@type": "Claim",
       "@id": "C-1426",
       "ref": "C-1426",
-      "label": "Fragment Location Near Shoulder Blade",
-      "claim": "A bullet fragment was recovered from Charlie's neck, in line with the shoulder blade near the spine.",
+      "label": "Host Says Bullet Fragment Was Recovered From Charlie's Neck Near Shoulder Blade",
+      "claim": "The host says that, as she has fact-checked with multiple sources, a bullet fragment was recovered from Charlie's neck, in line with the shoulder blade near the spine.",
       "anchored_artifacts": [
         "A-1251.1"
       ],
@@ -1628,8 +1628,8 @@
       "@type": "Claim",
       "@id": "C-1427",
       "ref": "C-1427",
-      "label": "No .30-06 Projectile on Death Certificate",
-      "claim": "Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.",
+      "label": "Host Says No .30-06 Projectile Appears on Charlie Kirk's Death Certificate",
+      "claim": "The host says Charlie Kirk's death certificate does not reflect a recovered .30-06 bullet, indicating that caliber was not recovered from his body.",
       "anchored_artifacts": [
         "A-1251.1"
       ],
@@ -1746,7 +1746,7 @@
       "@id": "C-1433",
       "ref": "C-1433",
       "label": "Cooper Brown Fox News Night-Of Interview",
-      "claim": "Cooper Brown appeared on Jesse Watters' Fox News program the night of the shooting.",
+      "claim": "The host says Cooper Brown appeared on Jesse Watters' Fox News program the night of the shooting, and plays a clip of that appearance.",
       "anchored_artifacts": [
         "A-1253.1"
       ],
@@ -1765,7 +1765,7 @@
       "@id": "C-1434",
       "ref": "C-1434",
       "label": "Cooper Brown Fox News Next-Day Interview",
-      "claim": "Cooper Brown appeared on Fox News again the day after the shooting.",
+      "claim": "The host says Cooper Brown appeared on Fox News again the day after the shooting, and plays a clip of that appearance.",
       "anchored_artifacts": [
         "A-1253.2"
       ],
@@ -1879,8 +1879,8 @@
       "@type": "Claim",
       "@id": "C-1440",
       "ref": "C-1440",
-      "label": "Dr. Deidra Weiss Amaro Appointment",
-      "claim": "Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and California).",
+      "label": "Host Says Dr. Deidra Weiss Amaro Was Announced as New Utah State Medical Examiner in May 2024",
+      "claim": "The host says that, per a tip she received, Dr. Deidra Weiss Amaro was announced as the new Utah State Medical Examiner in May 2024, with prior work history in Missouri (and, she thinks, California).",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10183"
@@ -1910,8 +1910,8 @@
       "@type": "Claim",
       "@id": "C-1442",
       "ref": "C-1442",
-      "label": "Caldera Engineering Established 1997",
-      "claim": "Caldera Engineering was established in 1997.",
+      "label": "Host Says Caldera Engineering Was Established in 1997",
+      "claim": "The host says Caldera Engineering was established in 1997.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10184"
@@ -1924,8 +1924,8 @@
       "@type": "Claim",
       "@id": "C-1443",
       "ref": "C-1443",
-      "label": "Caldera Engineering Actor-Employee",
-      "claim": "A person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing.",
+      "label": "Host Says Caldera Engineering Employee Has Professional Acting Background",
+      "claim": "The host says that, per a tip she received, a person employed at Caldera Engineering has a professional acting background (theater school, plays), with no engineering background before the resume listing.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10184"
@@ -1955,8 +1955,8 @@
       "@type": "Claim",
       "@id": "C-1445",
       "ref": "C-1445",
-      "label": "Plane N1098L – Military Aircraft",
-      "claim": "A plane with tail number N1098L, seen near Utah on 9/10, was a military aircraft.",
+      "label": "Host Says Plane N1098L Was a Military Aircraft",
+      "claim": "The host says a plane with tail number N1098L, seen near Utah on 9/10, was a military aircraft.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10185"
@@ -1969,8 +1969,8 @@
       "@type": "Claim",
       "@id": "C-1446",
       "ref": "C-1446",
-      "label": "Plane N1098L – Las Vegas Aviation LLC",
-      "claim": "Plane N1098L was owned/contracted by Las Vegas Aviation LLC.",
+      "label": "Host Says Plane N1098L Was Owned/Contracted by Las Vegas Aviation LLC",
+      "claim": "The host says Plane N1098L was owned by, or contracted through, Las Vegas Aviation LLC.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10185",
@@ -1984,8 +1984,8 @@
       "@type": "Claim",
       "@id": "C-1447",
       "ref": "C-1447",
-      "label": "Plane N1098L – Texas to Utah Routing",
-      "claim": "Plane N1098L departed Texas and routed to Utah around the time of the shooting.",
+      "label": "Host Says Plane N1098L Flew From Texas to Utah Around the Time of the Shooting",
+      "claim": "The host says Plane N1098L departed Texas and routed to Utah around the time of the shooting.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10185"
@@ -2016,8 +2016,8 @@
       "@type": "Claim",
       "@id": "C-1449",
       "ref": "C-1449",
-      "label": "Plane 888 – Page, Arizona Destination",
-      "claim": "Plane 888's intended destination was Page, Arizona.",
+      "label": "Host Says Plane 888's Intended Destination Was Page, Arizona",
+      "claim": "The host says Plane 888's intended destination was Page, Arizona.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10186"
@@ -2030,8 +2030,8 @@
       "@type": "Claim",
       "@id": "C-1450",
       "ref": "C-1450",
-      "label": "Plane 888 – ADSB Transponder Turned Off",
-      "claim": "The ADSB transponder on plane 888 appeared to turn off during the flight.",
+      "label": "Host Says Plane 888's ADSB Transponder Appeared to Turn Off",
+      "claim": "The host says the ADSB transponder on plane 888 appeared to turn off during the flight.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10186"
@@ -2078,8 +2078,8 @@
       "@type": "Claim",
       "@id": "C-1453",
       "ref": "C-1453",
-      "label": "Plane 888 – FBO Change Millionaire to Signature",
-      "claim": "Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.",
+      "label": "Host Says Plane 888 Changed Its FBO Destination at the Last Minute",
+      "claim": "The host says Plane 888 changed its FBO destination at the last minute, from Millionaire to Signature.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10186",
@@ -2093,8 +2093,8 @@
       "@type": "Claim",
       "@id": "C-1454",
       "ref": "C-1454",
-      "label": "Signature FBO Contradicting Statements",
-      "claim": "A person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.",
+      "label": "Host Says Signature FBO Person Gave Contradicting Statements",
+      "claim": "The host says that a person at the Signature FBO initially confirmed that the plane had made multiple trips in recent days, then reversed to state no plane had ever landed there.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10186",
@@ -2108,8 +2108,8 @@
       "@type": "Claim",
       "@id": "C-1455",
       "ref": "C-1455",
-      "label": "Josh Hammer Released Text Messages",
-      "claim": "Josh Hammer publicly released text messages between himself and Charlie Kirk following the prior episode's coverage.",
+      "label": "Host Says Josh Hammer Released Text Messages",
+      "claim": "The host says Josh Hammer publicly released text messages between himself and Charlie Kirk in response to the prior episode, and reads them.",
       "anchored_artifacts": [
         "A-1256.1"
       ],
@@ -2182,8 +2182,8 @@
       "@type": "Claim",
       "@id": "C-1459",
       "ref": "C-1459",
-      "label": "Matt Walsh – \"Too on the Nose\" Comment",
-      "claim": "Matt Walsh commented that Charlie Kirk's text about leaving the pro-Israel cause felt \"too on the nose\" to be authentic, suggesting Charlie had been pushed to that statement.",
+      "label": "Host Says Matt Walsh Found Kirk's Text \"Too on the Nose\"",
+      "claim": "The host says Matt Walsh commented that Charlie Kirk's text about leaving the pro-Israel cause felt \"too on the nose\" to be authentic, suggesting Charlie had been pushed to that statement.",
       "anchored_artifacts": [
         "A-1259.1"
       ],
@@ -2202,8 +2202,8 @@
       "@type": "Claim",
       "@id": "C-1460",
       "ref": "C-1460",
-      "label": "Kolbatz Not in Viral Push Video",
-      "claim": "Andrew Kolvet was not the man in the viral push video; he flew into Utah after the shooting and was not on the ground.",
+      "label": "Host Says Kolvet Was Not in Viral Push Video",
+      "claim": "The host says Andrew Kolvet was not the man in the viral push video, and that she spoke to him and he flew into Utah after the shooting and was not on the ground.",
       "anchored_artifacts": [
         "A-1252.1"
       ],

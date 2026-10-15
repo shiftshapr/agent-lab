@@ -1337,8 +1337,8 @@
       "@type": "Claim",
       "@id": "C-2609",
       "ref": "C-2609",
-      "label": "Defense Moves to Continue Preliminary Hearing",
-      "claim": "The defense has filed a motion seeking to continue the preliminary hearing currently scheduled for May 2026.",
+      "label": "Per Filing Host Reads, Defense Moves to Continue Preliminary Hearing",
+      "claim": "Per the defense filing the host shows and reads, the defense seeks to continue the preliminary hearing currently scheduled for May 2026.",
       "anchored_artifacts": [
         "A-1912.1"
       ],
@@ -1370,8 +1370,8 @@
       "@type": "Claim",
       "@id": "C-2611",
       "ref": "C-2611",
-      "label": "FBI Conducting Second Comparative Bullet and Bullet Lead Analyses",
-      "claim": "The state has indicated that the FBI is in the process of conducting a second comparative bullet analysis and a bullet lead analysis, neither of which is yet complete.",
+      "label": "Per Filing Host Reads, FBI Conducting Second Comparative Bullet and Bullet Lead Analyses",
+      "claim": "Per the defense filing the host reads, the state has indicated that the FBI is in the process of conducting a second comparative bullet analysis and a bullet lead analysis, neither of which is yet complete.",
       "anchored_artifacts": [
         "A-1912.1"
       ],
@@ -1386,8 +1386,8 @@
       "@type": "Claim",
       "@id": "C-2612",
       "ref": "C-2612",
-      "label": "FBI Discontinued Comparative Bullet Lead Analysis in 2005",
-      "claim": "The FBI discontinued its comparative bullet lead analysis program in 2005 after admitting the technique lacked definitive scientific, statistical, and interpretive validity, and the technique was used in approximately 2,500 cases.",
+      "label": "News Clip Host Plays Says FBI Discontinued Comparative Bullet Lead Analysis in 2005",
+      "claim": "In a local Atlanta news clip the host plays, a reporter says the FBI admitted using comparative bullet lead analysis in 2,500 cases and discontinued the practice in 2005 after acknowledging that neither scientists nor manufacturers can definitively attest to the significance of a match; the host says the technique lacked scientific, statistical and interpretive validity.",
       "anchored_artifacts": [
         "A-1914.1"
       ],
@@ -1418,8 +1418,8 @@
       "@type": "Claim",
       "@id": "C-2614",
       "ref": "C-2614",
-      "label": "Autopsy Photographs Delayed to Defense",
-      "claim": "Autopsy photographs taken on September 10, 2025 were not produced to the defense until March 18, 2026.",
+      "label": "Per Filing Host Reads, Autopsy Photographs Delayed to Defense",
+      "claim": "Per the defense filing the host reads, autopsy photographs taken on September 10, 2025 were not produced to the defense until March 18, 2026.",
       "anchored_artifacts": [
         "A-1912.1"
       ],
@@ -1434,8 +1434,8 @@
       "@type": "Claim",
       "@id": "C-2615",
       "ref": "C-2615",
-      "label": "~600,000 Files / ~12 TB Dumped at March 12, 2026 Conference",
-      "claim": "At the March 12, 2026 conference, the state provided the defense with a hard drive containing approximately 12 terabytes of data and over 600,000 files.",
+      "label": "Per Filing Host Reads, ~600,000 Files / ~12 TB Dumped at March 12, 2026 Conference",
+      "claim": "Per the defense filing the host reads, at the March 12, 2026 conference the state provided the defense with a hard drive containing approximately 12 terabytes of data and over 600,000 files.",
       "anchored_artifacts": [
         "A-1912.1"
       ],
@@ -1450,8 +1450,8 @@
       "@type": "Claim",
       "@id": "C-2616",
       "ref": "C-2616",
-      "label": "Prior Discovery Volume Before March 12, 2026 Conference",
-      "claim": "Prior to the March 12, 2026 conference, the defense had received approximately 20,000 files (excluding digital electronic discovery), 61,500 pages, 31 hours of audio, more than 5,000 video files, and more than 700 hours of video.",
+      "label": "Per Filing Host Reads, Prior Discovery Volume Before March 12, 2026 Conference",
+      "claim": "Per the defense filing the host reads, prior to the March 12, 2026 conference the defense had received approximately 20,000 files (excluding digital electronic discovery), 61,500 pages, 31 hours of audio, more than 5,000 video files, and more than 700 hours of video.",
       "anchored_artifacts": [
         "A-1912.1"
       ],
@@ -1523,8 +1523,8 @@
       "@type": "Claim",
       "@id": "C-2620",
       "ref": "C-2620",
-      "label": "Long Beach Airport Adjacent to Joint Forces Air Base",
-      "claim": "Long Beach Airport is approximately a 10–15 minute drive from a Joint Forces Air Base in Los Alamitos, CA, which is also used by the California National Guard and hosts annual air shows.",
+      "label": "Viewer Email Host Reads Says Long Beach Airport Is Near Joint Forces Air Base",
+      "claim": "Per an email from a viewer that the host reads, Long Beach Airport is approximately a 10–15 minute drive from a Joint Forces Air Base in Los Alamitos, CA, which is also used by the California National Guard and hosts annual air shows.",
       "anchored_artifacts": [
         "A-1915.1"
       ],

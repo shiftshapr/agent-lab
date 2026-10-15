@@ -1064,7 +1064,7 @@ Investigative Direction: Review "The Great Exodus from Utah" episode transcript;
 
 Claim Timestamp: 00:14:44
 
-Claim: The lawsuit's point 29 asserts Harpole is a private individual, not a limited-purpose public figure, despite two podcast appearances.
+Claim: Per point 29 of the lawsuit the host reads, Harpole asserts he is a private individual, not a limited-purpose public figure, despite two podcast appearances; the host disputes this.
 
 Anchored Artifacts: A-2015.5
 
@@ -1147,11 +1147,11 @@ Investigative Direction: Locate the September 2025 episode in which Candace defe
 
 ---
 
-**C-2821** Lawsuit Admits the Rooftop Text Chain Was Between Dan Flood and Chief Long, Not Harpole
+**C-2821** Host Says Lawsuit Admits the Rooftop Text Chain Was Between Dan Flood and Chief Long, Not Harpole
 
 Claim Timestamp: 00:28:30
 
-Claim: Although Harpole presented the Sorensen Center rooftop text chain on Shawn Ryan as his own, the lawsuit admits the messages were between Dan Flood and UVU Police Chief Long.
+Claim: The host says that although Harpole presented the Sorensen Center rooftop text chain on Shawn Ryan as his own, the lawsuit admits the messages were between Dan Flood and UVU Police Chief Long.
 
 Anchored Artifacts: A-2015.* (admission), A-2019.1, A-2019.2
 Mentions: N-274
@@ -1192,11 +1192,11 @@ Investigative Direction: Identify the specific X post passages cited by the laws
 
 ---
 
-**C-2824** Harpole's Drone Statement Conflicts with Frank Turek's Account
+**C-2824** Host Says Harpole's Drone Statement Conflicts with Frank Turek's Account
 
 Claim Timestamp: 00:10:08
 
-Claim: Harpole's statement that drones could not be flown in Provo airspace conflicts with Frank Turek's separate account of flying drones at UVU events.
+Claim: The host says Harpole's statement that drones could not be flown in Provo airspace conflicts with Frank Turek's separate account of flying drones at UVU events.
 
 Anchored Artifacts: A-2015.4, A-2028.1
 Mentions: N-7
@@ -1316,7 +1316,7 @@ Investigative Direction: Locate Candace's July 2024 statements about Mengele and
 
 Claim Timestamp: 00:55:26
 
-Claim: The official Auschwitz-Birkenau Memorial podcast acknowledged that myths arose around Mengele, including the "sewing twins together" legend that did not occur.
+Claim: In a clip the host plays from the official Auschwitz-Birkenau Memorial podcast, a speaker says that myths arose around Mengele, including the "sewing twins together" legend, which did not happen.
 
 Anchored Artifacts: A-2022.1
 Mentions: N-3, N-434, N-433, N-385

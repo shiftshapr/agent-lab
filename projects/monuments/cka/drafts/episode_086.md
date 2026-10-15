@@ -661,11 +661,11 @@ Organization. Prosecuting office in State of Utah v. Tyler Robinson; the filing 
 
 ## V. Claim Register
 
-**C-2609** Defense Moves to Continue Preliminary Hearing
+**C-2609** Per Filing Host Reads, Defense Moves to Continue Preliminary Hearing
 
 Claim Timestamp: 00:19:54
 
-Claim: The defense has filed a motion seeking to continue the preliminary hearing currently scheduled for May 2026.
+Claim: Per the defense filing the host shows and reads, the defense seeks to continue the preliminary hearing currently scheduled for May 2026.
 
 Anchored Artifacts: A-1912.1
 
@@ -690,11 +690,11 @@ Investigative Direction: Obtain full ATF case file and protocols referenced as o
 
 ---
 
-**C-2611** FBI Conducting Second Comparative Bullet and Bullet Lead Analyses
+**C-2611** Per Filing Host Reads, FBI Conducting Second Comparative Bullet and Bullet Lead Analyses
 
 Claim Timestamp: 00:38:49
 
-Claim: The state has indicated that the FBI is in the process of conducting a second comparative bullet analysis and a bullet lead analysis, neither of which is yet complete.
+Claim: Per the defense filing the host reads, the state has indicated that the FBI is in the process of conducting a second comparative bullet analysis and a bullet lead analysis, neither of which is yet complete.
 
 Anchored Artifacts: A-1912.1
 
@@ -704,11 +704,11 @@ Investigative Direction: Obtain status filing or prosecutorial disclosure regard
 
 ---
 
-**C-2612** FBI Discontinued Comparative Bullet Lead Analysis in 2005
+**C-2612** News Clip Host Plays Says FBI Discontinued Comparative Bullet Lead Analysis in 2005
 
 Claim Timestamp: 00:41:49
 
-Claim: The FBI discontinued its comparative bullet lead analysis program in 2005 after admitting the technique lacked definitive scientific, statistical, and interpretive validity, and the technique was used in approximately 2,500 cases.
+Claim: In a local Atlanta news clip the host plays, a reporter says the FBI admitted using comparative bullet lead analysis in 2,500 cases and discontinued the practice in 2005 after acknowledging that neither scientists nor manufacturers can definitively attest to the significance of a match; the host says the technique lacked scientific, statistical and interpretive validity.
 
 Anchored Artifacts: A-1914.1
 
@@ -732,11 +732,11 @@ Investigative Direction: Obtain defense correspondence log and prosecution's tra
 
 ---
 
-**C-2614** Autopsy Photographs Delayed to Defense
+**C-2614** Per Filing Host Reads, Autopsy Photographs Delayed to Defense
 
 Claim Timestamp: 00:31:09
 
-Claim: Autopsy photographs taken on September 10, 2025 were not produced to the defense until March 18, 2026.
+Claim: Per the defense filing the host reads, autopsy photographs taken on September 10, 2025 were not produced to the defense until March 18, 2026.
 
 Anchored Artifacts: A-1912.1
 
@@ -746,11 +746,11 @@ Investigative Direction: Obtain defense correspondence log and prosecution's tra
 
 ---
 
-**C-2615** ~600,000 Files / ~12 TB Dumped at March 12, 2026 Conference
+**C-2615** Per Filing Host Reads, ~600,000 Files / ~12 TB Dumped at March 12, 2026 Conference
 
 Claim Timestamp: 00:23:58
 
-Claim: At the March 12, 2026 conference, the state provided the defense with a hard drive containing approximately 12 terabytes of data and over 600,000 files.
+Claim: Per the defense filing the host reads, at the March 12, 2026 conference the state provided the defense with a hard drive containing approximately 12 terabytes of data and over 600,000 files.
 
 Anchored Artifacts: A-1912.1
 
@@ -760,11 +760,11 @@ Investigative Direction: Cross-reference the filing's exhibit list and any hard-
 
 ---
 
-**C-2616** Prior Discovery Volume Before March 12, 2026 Conference
+**C-2616** Per Filing Host Reads, Prior Discovery Volume Before March 12, 2026 Conference
 
 Claim Timestamp: 00:23:17
 
-Claim: Prior to the March 12, 2026 conference, the defense had received approximately 20,000 files (excluding digital electronic discovery), 61,500 pages, 31 hours of audio, more than 5,000 video files, and more than 700 hours of video.
+Claim: Per the defense filing the host reads, prior to the March 12, 2026 conference the defense had received approximately 20,000 files (excluding digital electronic discovery), 61,500 pages, 31 hours of audio, more than 5,000 video files, and more than 700 hours of video.
 
 Anchored Artifacts: A-1912.1
 
@@ -819,11 +819,11 @@ Investigative Direction: Identify and depose the surgeon; compare quote against 
 
 ---
 
-**C-2620** Long Beach Airport Adjacent to Joint Forces Air Base
+**C-2620** Viewer Email Host Reads Says Long Beach Airport Is Near Joint Forces Air Base
 
 Claim Timestamp: 00:52:00
 
-Claim: Long Beach Airport is approximately a 10–15 minute drive from a Joint Forces Air Base in Los Alamitos, CA, which is also used by the California National Guard and hosts annual air shows.
+Claim: Per an email from a viewer that the host reads, Long Beach Airport is approximately a 10–15 minute drive from a Joint Forces Air Base in Los Alamitos, CA, which is also used by the California National Guard and hosts annual air shows.
 
 Anchored Artifacts: A-1915.1
 

@@ -997,11 +997,11 @@ The host's account that a Crowder-linked guest joined a show from her children's
 
 ## 5. Claim Register
 
-**C-3290** Terrell Farnsworth Used Google Drive to Send Four Videos to SBI on September 10
+**C-3290** Per 1102 Statement Host Shows, Terrell Farnsworth Used Google Drive to Send Four Videos to SBI on September 10
 
 Claim Timestamp: 00:05:47
 
-Claim: Farnsworth's 1102 statement asserts he provided SBI with four videos through a Google Drive on September 10, 2025.
+Claim: Per Terrell Farnsworth's 1102 statement, which the host shows and reads, he provided SBI with four videos through a Google Drive on September 10, 2025.
 
 Anchored Artifacts: A-2284.1
 Mentions: N-265
@@ -1042,11 +1042,11 @@ Investigative Direction: Obtain certified preliminary-hearing transcript; confir
 
 ---
 
-**C-3293** Back-Camera Footage on September 10 Was Zoomed In Versus Wide-Angle Convention
+**C-3293** In Clip Host Plays, YouTuber Nissi Says Back-Camera Footage on September 10 Was Zoomed In Versus Wide-Angle Convention
 
 Claim Timestamp: 00:09:44
 
-Claim: YouTuber Nissi compared the back-camera shot at UVU on September 10 against wide-angle shots from FSU, USC, San Francisco, San Diego, Long Beach, Boise, and Washington State, concluding the September 10 footage was zoomed in / cropped rather than the conventional wide angle.
+Claim: In a clip the host plays, YouTuber Nissi compares the back-camera shot at UVU on September 10 with wide-angle back-camera shots from FSU, USC, San Francisco, San Diego, Long Beach, Boise, and Washington State, and concludes the September 10 footage was zoomed in or cropped rather than the conventional wide angle.
 
 Anchored Artifacts: A-2286.1
 
@@ -1128,11 +1128,11 @@ Investigative Direction: Obtain full Danny Jones podcast segment; verify whether
 
 ---
 
-**C-3298** Joe Rogan Panel Discussed Perspective Distortion in Published Tyler Robinson Photo
+**C-3298** Per Rogan Clip Host Plays, Published Tyler Robinson Photo Showed Perspective Distortion
 
 Claim Timestamp: 00:34:33
 
-Claim: Rogan and panelists discussed that the published photo of Tyler Robinson appeared to have a wider man "shrunken" into Robinson's proportions, with distorted car-hood proportions behind him.
+Claim: In a clip the host plays from the Joe Rogan show, Rogan and his guests discuss the published photo of Tyler Robinson, which they say appeared to have a wider man "shrunken" into Robinson's proportions, with distorted car-hood proportions behind him.
 
 Anchored Artifacts: A-2290.1
 Mentions: N-40, N-272
@@ -1143,11 +1143,11 @@ Investigative Direction: Identify the original source of the published Robinson 
 
 ---
 
-**C-3299** WearForbidden Produced "Positive Evidence" / Pickle Pup Parody Video
+**C-3299** Host Presents WearForbidden Video Parodying "Positive Evidence" / Pickle Pup
 
 Claim Timestamp: 00:39:46
 
-Claim: Account WearForbidden released a parody video featuring an Erika Kirk-style character with "Shabbat shalom," "I CHOOSE YOU. PICKLE PUP," and a repeated "positive evidence" refrain.
+Claim: The host says the account WearForbidden released a parody video featuring an Erika Kirk-style character with "Shabbat shalom," "I CHOOSE YOU. PICKLE PUP," and a repeated "positive evidence" refrain, and plays it on the show.
 
 Anchored Artifacts: A-2291.1
 Mentions: N-2

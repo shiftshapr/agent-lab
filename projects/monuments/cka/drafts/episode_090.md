@@ -912,7 +912,7 @@ Investigative Direction: Verify clip against White House press transcript.
 
 Claim Timestamp: 00:42:44
 
-Claim: A Discord statement published in The Hill on September 12, 2025, asserts that Discord identified an account associated with the suspect but found no evidence the suspect planned the incident or promoted violence on Discord.
+Claim: In a Discord statement published in The Hill on September 12, 2025, which the host reads, Discord says it identified an account associated with the suspect but found no evidence the suspect planned the incident or promoted violence on Discord.
 
 Anchored Artifacts: A-1955.1
 Mentions: N-40

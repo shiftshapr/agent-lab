@@ -717,11 +717,11 @@ Thousand Oaks church Rob McCoy led for 17 years and which the host says the Wilk
 
 ## V. Claim Register
 
-**C-1584** Memorial Service Speakers Framed Mikey McCoy as Charlie's Heir Apparent
+**C-1584** Host Says Memorial Service Speakers Framed Mikey McCoy as Charlie's Heir Apparent
 
 Claim Timestamp: 00:02:42–00:05:23
 
-Claim: Memorial service speakers repeatedly characterized Mikey McCoy with adjectival framing ("hero," "amazing," "brilliant," "wise beyond his years") and explicitly described him as capable of following in Charlie Kirk's footsteps on campus.
+Claim: The host says, in clips she plays, speakers at the memorial service and elsewhere repeatedly characterized Mikey McCoy with adjectives ("hero," "amazing," "brilliant," "wise beyond his years") and explicitly described him as capable of following in Charlie Kirk's footsteps on campus.
 
 Anchored Artifacts: A-1321.1
 Mentions: N-17, N-194, N-1
@@ -732,11 +732,11 @@ Investigative Direction: Obtain full memorial service audio/video; verify whethe
 
 ---
 
-**C-1585** Rob McCoy Connected Mikey's Role to Charlie's Journaled Succession Plan
+**C-1585** Host Says Rob McCoy Connected Mikey's Role to Charlie's Journaled Succession Plan
 
 Claim Timestamp: 00:05:23–00:07:16
 
-Claim: On Faith Forward Show, Rob McCoy referenced Charlie Kirk's journaled succession plan extending through 2028 and connected Mikey's institutional future to Erika's "amazing Mikey McCoy" speech at the memorial.
+Claim: In a clip from the Faith Forward Show that the host plays, Rob McCoy references Charlie Kirk's journaled succession plan extending through 2028 and, as the host characterizes it, connects Mikey's institutional future to Erika's "amazing Mikey McCoy" speech at the memorial.
 
 Anchored Artifacts: A-1322.1
 Mentions: N-2, N-17, N-194, N-1
@@ -781,7 +781,7 @@ Investigative Direction: Verify Eliza McCoy's Instagram post metadata for date a
 
 Claim Timestamp: 00:14:47
 
-Claim: Per Ventura County Star, Rob McCoy was scheduled to step down as senior pastor of Godspeak Calvary Chapel in mid-July 2025, with son-in-law Micah Stevens succeeding him, and had relocated to the Phoenix area due to growing Turning Point USA responsibilities.
+Claim: Per the Ventura County Star article the host reads, Rob McCoy was scheduled to step down as senior pastor of Godspeak Calvary Chapel in mid-July 2025, with son-in-law Micah Stevens succeeding him, and had relocated to the Phoenix area due to growing Turning Point USA responsibilities.
 
 Anchored Artifacts: A-1325.1
 Mentions: N-17, N-222
@@ -792,11 +792,11 @@ Investigative Direction: Obtain the original Ventura County Star article; verify
 
 ---
 
-**C-1589** UVU's TPUSA Chapter Submitted the 9/10 Event Application in Mid-July Without a Standard Police-Protection Question
+**C-1589** Fox 13 Report Says UVU's TPUSA Chapter Submitted the 9/10 Event Application in Mid-July Without a Standard Police-Protection Question
 
 Claim Timestamp: 00:17:57–00:19:30
 
-Claim: Per Fox 13 News (Nate Carile), UVU's Turning Point USA chapter submitted the September 10 event application in mid-July; the application form did not contain a standard question about police protection; UVU subsequently denied release of the security plan citing state records law.
+Claim: Per a Fox 13 News report by Nate Carile that the host plays, UVU's Turning Point USA chapter submitted the September 10 event application in mid-July; the application form did not contain a standard question about police protection; UVU subsequently denied release of the security plan citing state records law.
 
 Anchored Artifacts: A-1326.1
 Mentions: N-223
@@ -826,7 +826,7 @@ Investigative Direction: Verify via Zillow/Redfin/realtor.com listing records fo
 
 Claim Timestamp: 00:33:25–00:35:17
 
-Claim: On Dave Smith's show, Tucker Carlson asserted that collective punishment (blood guilt) is antithetical to Christianity and to the western tradition, and characterized Israel's position as outside that tradition.
+Claim: In a clip from Dave Smith's show that the host plays, Tucker Carlson asserts that collective punishment (blood guilt) is antithetical to Christianity and to the Western tradition, and characterizes Israel's position as outside that tradition.
 
 Anchored Artifacts: A-1328.1
 Mentions: N-22, N-39, N-205

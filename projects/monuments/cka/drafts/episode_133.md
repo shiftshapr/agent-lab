@@ -766,10 +766,10 @@ Investigative Direction: Obtain the original unaltered footage, authenticate sou
 
 ---
 
-**C-3151** Rooftop footage shows no clearly visible muzzle flash
+**C-3151** Host Says Rooftop Footage Shows No Clearly Visible Muzzle Flash
 
 Claim Timestamp: 00:13:37–00:15:53
-Claim: During the rooftop segment held before the shooter rises to flee, no muzzle flash is clearly visible in the displayed footage.
+Claim: The host says that in the rooftop footage she displays, no muzzle flash is clearly visible before the shooter rises to flee.
 Anchored Artifacts: A-2198.1, A-2198.4
 Related Nodes: N-10755
 Investigative Direction: Submit original footage for frame-by-frame forensic analysis and compare with reference muzzle-flash signatures for the alleged weapon type.
@@ -786,10 +786,10 @@ Investigative Direction: Frame-by-frame forensic review of original footage; cro
 
 ---
 
-**C-3153** A back-and-forth flash is visible during the rooftop crawl
+**C-3153** Host Says a Back-and-Forth Flash Is Visible During the Rooftop Crawl
 
 Claim Timestamp: 00:11:12–00:11:55
-Claim: A flash or back-and-forth light phenomenon is visible in the rooftop footage during the individual's crawl.
+Claim: The host says a flash or back-and-forth light phenomenon is visible in the rooftop footage during the individual's crawl.
 Anchored Artifacts: A-2198.1, A-2198.2
 Related Nodes: N-10754
 Investigative Direction: Slow-motion forensic review of original footage to determine whether the flash is environmental (reflective surface, vehicle light) or item-related (signal mirror, flag, etc.).
@@ -843,7 +843,7 @@ Investigative Direction: Obtain the underlying court exhibit / text record image
 **C-3158** Iranian Lego propaganda video contains lyrics referencing Epstein
 
 Claim Timestamp: 00:35:52–00:38:42
-Claim: The Iranian Lego propaganda video shown contains repeated lyrics/text referencing "Epstein" and "Epstein, Epstein, Epstein."
+Claim: In an Iranian Lego video the host plays, repeated lyrics/text reference "Epstein" and "Epstein, Epstein, Epstein."
 Anchored Artifacts: A-2202.1
 Related Nodes:
 Investigative Direction: Confirm by independent review of the video file; verify whether the video is officially Iranian-state-affiliated or third-party.

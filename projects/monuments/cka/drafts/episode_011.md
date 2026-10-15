@@ -738,10 +738,10 @@ The host's stated gut instinct that the assassination was a military operation, 
 
 ## V. Claim Register
 
-**C-1297** Tyler Robinson uses "car" rather than "vehicle" in 2022 police bodycam footage
+**C-1297** Host Says Tyler Robinson Uses "Car" Rather Than "Vehicle" in 2022 Police Bodycam Footage
 
 Claim Timestamp: 00:02:45–00:03:25
-Claim: The 2022 police bodycam audio presented in the episode shows Tyler Robinson referring to "his car" and his mother "shuttling over from her car," contrasting with the federal text messages' vocabulary.
+Claim: The host says the 2022 police bodycam audio she plays shows Tyler Robinson referring to "his car" and his mother "shuttling over from her car," which she contrasts with the vocabulary of the federal text messages.
 Anchored Artifacts: A-1171.1
 Mentions: N-40
 Related Nodes:
@@ -898,10 +898,10 @@ Related Nodes: N-10144
 Investigative Direction: Obtain any corroborating records (Ring/doorbell footage, phone logs, text screenshots) and a contemporaneous written statement from Nick.
 *Optional Flag: Source testimony only; not visually or auditorily corroborated in-episode.*
 
-**C-1315** Phil Lyman offered independent investigator Ian Carroll a tour of the area
+**C-1315** Nick Says Phil Lyman Offered Independent Investigator Ian Carroll a Tour of the Area
 
 Claim Timestamp: 00:38:30–00:39:00
-Claim: Per Nick's account, Phil Lyman offered a tour of the area to Ian Carroll, who was conducting a separate on-the-ground investigation; Nick found this "weird" given that Lyman lives four hours away.
+Claim: Per Nick's account as relayed by the host, Phil Lyman offered a tour of the area to Ian Carroll, who was conducting a separate on-the-ground investigation; Nick found this "weird" given that Lyman lives four hours away.
 Anchored Artifacts: (Host-relayed source testimony; no artifact presented in this episode.)
 Mentions: N-61, N-131
 Related Nodes: N-10144

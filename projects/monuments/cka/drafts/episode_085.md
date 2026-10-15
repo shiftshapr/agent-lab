@@ -1089,11 +1089,11 @@ Investigative Direction: Verify prosecutor filings in the French trial.
 
 ---
 
-**C-2583** Four DGSE officers among defendants
+**C-2583** Per Article Host Reads, Four DGSE Officers Among Defendants
 
 Claim Timestamp: 00:06:50
 
-Claim: Four officers from France's DGSE foreign intelligence service are among the 22 defendants.
+Claim: Per a Guardian article the host reads aloud, four officers from France's DGSE foreign intelligence service are among the 22 defendants.
 
 Anchored Artifacts: A-1903.1
 Related Nodes: N-10568
@@ -1101,11 +1101,11 @@ Investigative Direction: Cross-reference with French court documents.
 
 ---
 
-**C-2584** Failed contract killing in July 2020 against Marie-Hélène Dini
+**C-2584** Per Article Host Reads, Failed July 2020 Contract Killing Targeted Marie-Hélène Dini
 
 Claim Timestamp: 00:08:40
 
-Claim: The case was triggered by a failed contract killing in July 2020, when two members of France's parachute regiment were arrested in possession of weapons near the home of business coach Marie-Hélène Dini.
+Claim: Per a Guardian article the host reads aloud, the case was triggered by a failed contract killing in July 2020, when two members of France's parachute regiment were arrested in possession of weapons near the home of business coach Marie-Hélène Dini.
 
 Anchored Artifacts: A-1903.1
 Related Nodes: N-10568
@@ -1363,11 +1363,11 @@ Investigative Direction: Cross-reference against other contemporaneous accounts 
 
 ---
 
-**C-2605** Sheriff Brooksby resigned from Washington County Sheriff's Office
+**C-2605** Host Says Sheriff Brooksby Resigned from Washington County Sheriff's Office
 
 Claim Timestamp: 00:28:15
 
-Claim: Sheriff Nate Brooksby resigned from the Washington County Sheriff's Office.
+Claim: The host says Sheriff Nate Brooksby resigned from the Washington County Sheriff's Office.
 
 Anchored Artifacts: A-1910.1
 Mentions: N-276
@@ -1388,11 +1388,11 @@ Investigative Direction: Confirm exact date via Commission records.
 
 ---
 
-**C-2607** Brooksby had served in law enforcement more than 30 years
+**C-2607** Host Says Commission Statement Noted Brooksby Served 30+ Years in Law Enforcement
 
 Claim Timestamp: 00:29:07
 
-Claim: A statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.
+Claim: The host says a statement released by the Washington County Commission noted that Sheriff Brooksby had served in law enforcement for more than 30 years.
 
 Anchored Artifacts: A-1910.1
 Mentions: N-276
@@ -1401,11 +1401,11 @@ Investigative Direction: Obtain the full Commission statement.
 
 ---
 
-**C-2608** Brooksby's name removed from Sheriff's Office website
+**C-2608** Host Says Brooksby's Name Was Removed from Sheriff's Office Website
 
 Claim Timestamp: 00:28:15
 
-Claim: Over the weekend following the resignation, Brooksby's name was quietly removed from the Sheriff's Office website and social media pages.
+Claim: The host says that over the weekend following the resignation, Brooksby's name was quietly removed from the Sheriff's Office website and social media pages.
 
 Anchored Artifacts: A-1910.1
 Related Nodes:

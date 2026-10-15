@@ -896,7 +896,7 @@ Investigative Direction: Verify non-reply independently; cross-check any subsequ
 
 Claim Timestamp: 00:23:45–00:24:10
 
-Claim: Christianity Today published that "Johnny Moore was only 14 when he first stayed in the dorms at Liberty University" and that he had remained at the school founded by Jerry Falwell Senior.
+Claim: The host reads from Christianity Today that "Johnny Moore was only 14 when he first stayed in the dorms at Liberty University" and that he had remained at the school founded by Jerry Falwell Senior.
 
 Anchored Artifacts: A-1608.1
 Mentions: N-443, N-445
@@ -1104,7 +1104,7 @@ Investigative Direction: No investigative direction; comment is rhetorical and e
 
 Claim Timestamp: 00:49:54–00:50:57
 
-Claim: A commenter identified as "67" sent a donation from Argentina.
+Claim: The host says a viewer comment she reads from a commenter identified as "67" ("Thanks, Candace. Great job.") is a donation from Argentina.
 
 Anchored Artifacts: A-1613.3
 
@@ -1146,7 +1146,7 @@ Investigative Direction: No investigative direction.
 
 Claim Timestamp: 00:51:36–00:52:14
 
-Claim: A commenter expressed admiration and concern for children.
+Claim: A viewer comment the host reads, from "Cammy Resits," expresses admiration for the host and concern for children.
 
 Anchored Artifacts: A-1613.6
 
@@ -1160,7 +1160,7 @@ Investigative Direction: No investigative direction.
 
 Claim Timestamp: 00:52:14
 
-Claim: A commenter urged non-voting for congressional Zionism supporters.
+Claim: A viewer comment the host reads, from "world," urges people not to vote for the current members of Congress who support the Zionists.
 
 Anchored Artifacts: A-1613.7
 

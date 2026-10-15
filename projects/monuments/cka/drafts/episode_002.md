@@ -912,7 +912,7 @@ Existing topic reused; analysis of the shooter's movement across the rooftop.
 **C-3630** Erika Kirk Addressed Nation with Public Remarks
 
 Claim Timestamp: 00:01:41
-Claim: Erika Kirk delivered public remarks framing her husband's mission as continuing after his death.
+Claim: In a clip the host plays, Erika Kirk says that the movement her husband built will not die and frames his mission as continuing after his death.
 Transcript Snippet: The cries of this widow will echo around the world like a battlecry.
 Anchored Artifacts: A-1081.1
 Mentions: N-1, N-2, N-3, N-5
@@ -962,10 +962,10 @@ Investigative Direction: Compare full letter text against Netanyahu's quoted exc
 
 ---
 
-**C-1127** Kirk Described Israel-Lobby Pressure One Month Before Death
+**C-1127** Clip Has Kirk Describing Israel-Lobby Pressure One Month Before Death
 
 Claim Timestamp: 00:11:53
-Claim: Charlie Kirk publicly described being pressured regarding Israel criticism and event guest lists approximately one month before his death.
+Claim: In a clip the host plays of an interview with Megyn Kelly, which the host describes as from a month earlier, Charlie Kirk says he is being pressured regarding Israel criticism and event guest lists, saying his moral character is being put into question.
 Transcript Snippet: My moral character is now being put into question… they were threatening to pull out money.
 Anchored Artifacts: A-1084.1
 Mentions: N-1, N-22, N-39, N-46
@@ -989,10 +989,10 @@ Investigative Direction: Identify attendees and obtain statements from Seth Dill
 
 ---
 
-**C-1129** Netanyahu Called Kirk and Invited Him to Israel
+**C-1129** Host Says Netanyahu Called Kirk and Invited Him to Israel
 
 Claim Timestamp: 00:16:06
-Claim: Netanyahu called Kirk during the Hamptons meeting period and invited him to Israel.
+Claim: The host says she is told that Netanyahu called Kirk during the Hamptons meeting period and invited him to Israel.
 Transcript Snippet: It was at this time that BB Netanyahu was called and Charlie was invited to Israel.
 Anchored Artifacts: A-1082.1, A-1092.1
 Mentions: N-1, N-36, N-37, N-38
@@ -1044,10 +1044,10 @@ Investigative Direction: Identify original source clip and verify exact wording 
 
 ---
 
-**C-1133** TMZ Footage at 8:07 AM Showed Person in Maroon Shirt
+**C-1133** Host Says TMZ Footage at 8:07 AM Showed Person in Maroon Shirt
 
 Claim Timestamp: 00:39:49
-Claim: TMZ published surveillance footage at 8:07 AM on September 10 of a man in maroon shirt walking near UVU campus.
+Claim: The host says TMZ has footage, which she shows, of a man at 8:07 AM on September 10, wearing a maroon shirt, walking outside university grounds near the UVU campus.
 Transcript Snippet: which shows a man at 8:07 a. m., so hours before the shooting, wearing a maroon t-shirt and light shorts, ... hands in his pockets, that is just walking outside of university grounds.
 Anchored Artifacts: A-1088.1
 Mentions: N-40
@@ -1070,10 +1070,10 @@ Investigative Direction: Compare Cox's statement against UVU surveillance and TM
 
 ---
 
-**C-1135** Doorbell Cam at 11:49 AM Showed Person in Different Outfit
+**C-1135** Host Says Doorbell Cam at 11:49 AM Showed Person in Different Outfit
 
 Claim Timestamp: 00:41:53
-Claim: A doorbell camera at 11:49 AM on September 10 captured the shooter in a different outfit, reportedly limping.
+Claim: The host says TMZ released doorbell-camera footage at 11:49 AM on September 10, which she shows, of the shooter in a different outfit and appearing to limp.
 Transcript Snippet: So, this is 11:49 a. m. Charlie Kirk has not yet been shot. ... you are going to see someone who appears to be limping.
 Anchored Artifacts: A-1088.2
 Mentions: N-40
@@ -1084,10 +1084,10 @@ Investigative Direction: Obtain doorbell camera source and chain of custody; ver
 
 ---
 
-**C-1136** Kirk Was Shot at 12:23 PM on September 10
+**C-1136** Host Says Kirk Was Shot at 12:23 PM on September 10
 
 Claim Timestamp: 00:42:47
-Claim: Charlie Kirk was shot at 12:23 PM on September 10, 2025.
+Claim: The host says Charlie Kirk was shot at 12:23 PM on September 10, 2025.
 Transcript Snippet: At 12:23 p.m. is when Charlie Kirk is shot.
 Anchored Artifacts: 
 Mentions: N-1
@@ -1126,10 +1126,10 @@ Investigative Direction: Obtain original TMZ footage; verify timestamp and ident
 
 ---
 
-**C-1139** Rifle Found in Woods Wrapped in Dark Towel
+**C-1139** Host Says Rifle Was Found in Woods Wrapped in Dark Towel
 
 Claim Timestamp: 00:45:42
-Claim: The weapon was found in the woods wrapped in a dark towel, reportedly fully assembled in photos.
+Claim: The host says authorities say the weapon was found in the woods wrapped in a dark towel, and that the photo they gave of it showed it fully assembled.
 Transcript Snippet: The weapon, they say, was found in the woods and it was wrapped by a dark towel.
 Anchored Artifacts: A-1093.1, A-1087.1
 Mentions: N-40, N-43
@@ -1151,10 +1151,10 @@ Investigative Direction: Confirm with FBI evidence inventory and forensics repor
 
 ---
 
-**C-1141** Robinson's Roommate Is Transitioning and Cooperating
+**C-1141** Governor Cox Says Robinson's Roommate Is Transitioning and Cooperating
 
 Claim Timestamp: 00:51:19
-Claim: Governor Cox confirmed Robinson's roommate is a biological male transitioning to female and is cooperating with authorities.
+Claim: In a clip the host plays, Governor Cox says he can confirm that Robinson's roommate was a boyfriend transitioning from male to female and that he is cooperating with authorities.
 Transcript Snippet: His roommate was indeed a boyfriend who who is transitioning from male to female… he is cooperating.
 Anchored Artifacts: A-1089.2
 Mentions: N-40, N-41

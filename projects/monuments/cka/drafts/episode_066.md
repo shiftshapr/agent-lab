@@ -670,7 +670,7 @@ Investigative Direction: Confirm expert credentials, prior publication record, a
 
 Claim Timestamp: 00:10:38
 
-Claim: Within ~36–48 hours of Charlie Kirk's assassination, Erica Kirk's memorial speech directs attendees to TPUSA.com, TPUSA Faith, and America Fest sign-up.
+Claim: In a clip the host plays, within ~36–48 hours of Charlie Kirk's assassination (the host's estimate), Erica Kirk's speech directs attendees to TPUSA.com, TPUSA Faith, and America Fest sign-up.
 
 Anchored Artifacts: A-1705.1
 Mentions: N-1, N-2
@@ -715,11 +715,11 @@ Investigative Direction: Obtain phone records or screenshots of the actual text 
 
 ---
 
-**C-2245** Donor gave Erica Kirk a relic of St. Paul II
+**C-2245** Donor Tells Host She Gave Erica Kirk a Relic of St. Paul II
 
 Claim Timestamp: 00:17:30
 
-Claim: The Catholic donor arranged to fly a relic of St. Paul II from Chicago and personally delivered it to Erica Kirk at mass.
+Claim: In an email from a Catholic donor that the host reads, the donor says she arranged to fly a relic of St. Paul II from Chicago and personally delivered it to Erica Kirk at mass.
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-520
@@ -727,11 +727,11 @@ Investigative Direction: Cross-check donor's account with Erica Kirk's public ac
 
 ---
 
-**C-2246** Charlie Kirk sent group-chat text quoting 1 Corinthians 16:9 on September 9
+**C-2246** Host Says Charlie Kirk Sent Group-Chat Text Quoting 1 Corinthians 16:9 on September 9
 
 Claim Timestamp: 00:23:14
 
-Claim: Charlie Kirk sent a group-chat text on September 9 to Erica and Father Blank quoting 1 Corinthians 16:9: "for a wide door for effective work has opened to me and there are many adversaries."
+Claim: Per a group-chat text message screenshot that the host shows and says was supplied by a source, Charlie Kirk sent a text on September 9 to Erica and Father Blank quoting 1 Corinthians 16:9: "for a wide door for effective work has opened to me and there are many adversaries."
 
 Anchored Artifacts: A-1708.1
 Mentions: N-1, N-2, N-520
@@ -800,11 +800,11 @@ Investigative Direction: Identify the original Frank Turek episode/podcast the c
 
 ---
 
-**C-2252** Don Lemon video shows him questioning ICE-affiliated pastor at Minnesota church protest
+**C-2252** Host Says Don Lemon Video Shows Him Questioning ICE-Affiliated Pastor at Minnesota Church Protest
 
 Claim Timestamp: 00:47:00
 
-Claim: Don Lemon is shown on camera at a Minnesota church protest questioning a pastor whose church works with ICE.
+Claim: The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning a pastor whose church works with ICE.
 
 Anchored Artifacts: A-1711.1
 Mentions: N-85, N-522

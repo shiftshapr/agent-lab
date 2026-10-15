@@ -980,30 +980,30 @@ Australian minister the host says banned her.
 
 ## V. Claim Register
 
-**C-3543** Security team member previously identified as Chester Barnes is actually Derek Pepper Williams
+**C-3543** Host Says Security Team Member Previously Identified as Chester Barnes Is Actually Derek Pepper Williams
 
 Claim Timestamp: 00:01:19
-Claim: The man shown in the hat and plaid shirt on the TPUSA security detail September 10, previously identified in prior coverage as "Chester Barnes," is in fact Derek Pepper Williams.
+Claim: The host says the man shown in the hat and plaid shirt on the TPUSA security detail on September 10, whom the show previously identified as "Chester Barnes," is in fact Derek Pepper Williams, a correction she says came from the show's tips inbox.
 Anchored Artifacts: A-2426.1
 Mentions: N-273
 Investigative Direction: Verify identity via personnel records, PGL employment records, and cross-reference with prior on-screen identifications.
 
 ---
 
-**C-3544** Derek Pepper Williams worked for PGL (Perimeter Global Logistics) as a government defense contractor
+**C-3544** Host Says Derek Pepper Williams Worked for PGL (Perimeter Global Logistics) as a Government Defense Contractor
 
 Claim Timestamp: 00:02:11
-Claim: After retiring from the Navy (Naval Special Warfare Operations), Derek Pepper Williams went on to work for PGL (Perimeter Global Logistics), a government defense contractor that ships on behalf of the Department of Defense.
+Claim: The host says that after retiring from the Navy (Naval Special Warfare Operations), Derek Pepper Williams went on to work for PGL (Perimeter Global Logistics), a government defense contractor that she says ships on behalf of the Department of Defense.
 Anchored Artifacts: A-2426.1
 Mentions: N-273
 Investigative Direction: Confirm employment history via LinkedIn, PGL corporate filings, or defense contracting databases (e.g., USASpending.gov).
 
 ---
 
-**C-3545** Four TPUSA team members on September 10 had families in global freight/trucking/shipping
+**C-3545** Host Says Four TPUSA Team Members on September 10 Had Families in Global Freight/Trucking/Shipping
 
 Claim Timestamp: 00:02:11
-Claim: Pepper Williams is described as one of four TPUSA team members on the ground September 10 whose families were involved in the same industry – global freight, trucking, and global shipping.
+Claim: The host says Pepper Williams was one of four people on the TPUSA team on the ground on September 10 whose families were involved in the same industry: global freight, trucking, and global shipping.
 Anchored Artifacts: A-2426.1
 Mentions: N-273
 Investigative Direction: Identify the other three members and verify each family connection to the global freight/trucking/shipping industry through public records or interviews.
@@ -1052,20 +1052,20 @@ Investigative Direction: Locate the original witness video/post; cross-reference
 
 ---
 
-**C-3550** Blake Harreff's shirt was visibly free of blood after the SUV departed the scene
+**C-3550** Host Says Blake Harreff's Shirt Was Visibly Free of Blood After the SUV Departed the Scene
 
 Claim Timestamp: 00:20:42
-Claim: Footage shows Blake Harreff running after the SUV departed with no visible blood on his shirt.
+Claim: The host says the footage shows Blake Harreff running after the SUV departed with no visible blood on his shirt.
 Anchored Artifacts: A-2432.2
 Mentions:
 Investigative Direction: Obtain higher-resolution frame stills; cross-check with independent footage sources.
 
 ---
 
-**C-3551** Blake Harreff did not help carry Charlie to the car and did not travel to the hospital in the initial SUV
+**C-3551** Host Says Blake Harreff Did Not Help Carry Charlie to the Car and Did Not Travel to the Hospital in the Initial SUV
 
 Claim Timestamp: 00:18:51
-Claim: Blake Harreff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle; he did not travel in the SUV to the hospital.
+Claim: The host says Blake Harreff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle, and that he did not travel in the SUV to the hospital.
 Anchored Artifacts: A-2432.1, A-2432.2
 Mentions: N-498
 Related Nodes:
@@ -1073,10 +1073,10 @@ Investigative Direction: Cross-reference with security team testimony and hospit
 
 ---
 
-**C-3552** Blake Harreff was wearing Timpanogos surgical scrubs at the UVU return ~8:30 PM
+**C-3552** Host Says Blake Harreff Wore Timpanogos Surgical Scrubs at the UVU Return at About 8:30 PM
 
 Claim Timestamp: 00:20:42
-Claim: Footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Harreff wearing a Timpanogos surgical scrub top.
+Claim: The host says footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Harreff wearing a Timpanogos surgical scrub top.
 Anchored Artifacts: A-2432.3
 Mentions:
 Related Nodes:
@@ -1084,10 +1084,10 @@ Investigative Direction: Identify when and where Blake obtained the scrubs; obta
 
 ---
 
-**C-3553** Rick Cutler was wearing head-to-toe surgical scrubs at the UVU return
+**C-3553** Host Says Rick Cutler Wore Head-to-Toe Surgical Scrubs at the UVU Return
 
 Claim Timestamp: 00:20:42
-Claim: Footage shows Rick Cutler (in white hat) wearing head-to-toe surgical scrubs at the UVU return.
+Claim: The host says footage shows Rick Cutler, in a white hat, wearing head-to-toe surgical scrubs at the UVU return.
 Anchored Artifacts: A-2432.3
 Mentions: N-493
 Related Nodes:
@@ -1095,10 +1095,10 @@ Investigative Direction: Identify scrubs source; obtain hospital records/logs.
 
 ---
 
-**C-3554** Justin Davis was wearing surgical scrubs at the UVU return
+**C-3554** Host Says Justin Davis Wore Surgical Scrubs at the UVU Return
 
 Claim Timestamp: 00:20:42
-Claim: Footage shows Justin Davis wearing surgical scrubs at the UVU return.
+Claim: The host says footage shows Justin Davis wearing surgical scrubs at the UVU return.
 Anchored Artifacts: A-2432.3
 Mentions: N-498
 Related Nodes:
@@ -1106,10 +1106,10 @@ Investigative Direction: Identify scrubs source; cross-reference with hospital l
 
 ---
 
-**C-3555** Dan Flood was wearing surgical scrubs at the UVU return
+**C-3555** Host Says Dan Flood Wore Surgical Scrubs at the UVU Return
 
 Claim Timestamp: 00:20:42
-Claim: Footage shows Dan Flood wearing surgical scrubs at the UVU return (consistent with his having carried Charlie).
+Claim: The host says footage shows Dan Flood wearing surgical scrubs at the UVU return, consistent with his having carried Charlie.
 Anchored Artifacts: A-2432.3
 Mentions: N-274
 Related Nodes:
@@ -1117,10 +1117,10 @@ Investigative Direction: Identify scrubs source; cross-reference with hospital l
 
 ---
 
-**C-3556** Brian Harpole is seen holding a jacket and a brown bag at the UVU return
+**C-3556** Host Says Brian Harpole Is Seen Holding a Jacket and a Brown Bag at the UVU Return
 
 Claim Timestamp: 00:25:02
-Claim: Footage shows Brian Harpole holding what appears to be a jacket (possibly Charlie's) along with a brown bag, consistent with the other team members carrying brown bags holding their clothes.
+Claim: The host says footage shows Brian Harpole holding what appears to be a jacket, possibly Charlie's, along with a brown bag, and she believes the other team members' brown bags hold their clothes.
 Anchored Artifacts: A-2432.3
 Mentions: N-270
 Investigative Direction: Higher-resolution frame analysis; cross-reference with clothing inventories.
@@ -1149,10 +1149,10 @@ Investigative Direction: Obtain the precise timestamp from the receipt/POS syste
 
 ---
 
-**C-3559** The receipt timeline contradicts Tyler Robinson's text messages placing him at UVU ~9:00 PM
+**C-3559** Host Says Receipt Timeline Contradicts Tyler Robinson's Text Messages Placing Him at UVU at About 9:00 PM
 
 Claim Timestamp: 00:35:39
-Claim: If the Cowboy Smokehouse receipt is genuine, Tyler Robinson could not have been at UVU ~9:00 PM (when he texted Lance about K-9s), because Panguitch is a 3-hour drive from UVU.
+Claim: The host says that if the Cowboy Smokehouse receipt is genuine, Tyler Robinson could not have been at UVU at about 9:00 PM, when he texted Lance about K-9s, because Panguitch is a 3-hour drive from UVU.
 Anchored Artifacts: A-2433.1, A-2433.2, A-2433.3
 Mentions: N-40
 Related Nodes:

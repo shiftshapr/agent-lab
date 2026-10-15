@@ -1090,8 +1090,8 @@
       "@type": "Claim",
       "@id": "C-1836",
       "ref": "C-1836",
-      "label": "Shapiro Joke on Gutfeld Show",
-      "claim": "Ben Shapiro appeared on Greg Gutfeld's show and joked that he \"called French intelligence and something may or may not have happened to Greg [Gutfeld].\"",
+      "label": "Host Plays Clip of Shapiro Joking on Gutfeld Show About Calling French Intelligence",
+      "claim": "In a clip the host plays, Ben Shapiro, appearing on Greg Gutfeld's show, jokes that he \"called French intelligence and something may or may not have happened to Greg [Gutfeld].\"",
       "anchored_artifacts": [
         "A-1497.1"
       ],

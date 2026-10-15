@@ -866,11 +866,11 @@ Investigative Direction: Retrieve the original Data Republican post in which the
 
 ---
 
-**C-3341** TPUSA Announced "Love It or Leave It" Tour Featuring Daily Wire Personalities
+**C-3341** Host Says TPUSA Announced "Love It or Leave It" Tour Featuring Daily Wire Personalities
 
 Claim Timestamp: 00:37:33
 
-Claim: Turning Point USA announced a tour titled "Love It or Leave It" featuring Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, and a Daily Wire personality referenced as "Matt Nuclear."
+Claim: The host says Turning Point USA announced a tour titled "Love It or Leave It" featuring Michael Knowles, Brandon Tatum, Alex Clark, Ben Shapiro, and a Daily Wire personality she calls "Matt Nuclear."
 
 Anchored Artifacts: A-2318.1
 Mentions: N-102, N-97, N-99
@@ -879,11 +879,11 @@ Investigative Direction: Retrieve TPUSA's official tour announcement; verify lin
 
 ---
 
-**C-3342** Lively CCRD Filing Accused Jamie Heath of Showing Pornography on Set
+**C-3342** Per CCRD Filing Host Reads, Lively Accused Jamie Heath of Showing Pornography on Set
 
 Claim Timestamp: 00:17:34
 
-Claim: The CCRD complaint filed by Blake Lively included the allegation that Jamie Heath approached Lively on set and began playing a video of a "fully nude woman with her legs spread apart," which Lively interpreted as pornography.
+Claim: Per the CCRD filing by Blake Lively that the host reads, Jamie Heath approached Lively on set and began playing a video of a "fully nude woman with her legs spread apart," which Lively thought was pornography.
 
 Anchored Artifacts: A-2319.1
 Mentions: N-490

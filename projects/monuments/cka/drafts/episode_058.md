@@ -1123,11 +1123,11 @@ Cold War underground base in Greenland the host says was built to launch missile
 
 ## 5. Claim Register
 
-**C-2108** November Renaissance Cast/Crew Had Multiple Fort Huachuca or Military Connections
+**C-2108** Host Says November Renaissance Cast/Crew Had Multiple Fort Huachuca or Military Connections
 
 Claim Timestamp: 00:03:23–00:05:24
 
-Claim: Multiple identified members of the *November Renaissance* cast – including Clayton Haugen, Don Frye, Payton McCormick, Chantel Thuy, and Price Mitchum – have documented connections to Fort Huachuca, U.S. military service, or defense contracting.
+Claim: The host says, citing people based at Fort Huachuca who contacted her, that multiple identified members of the *November Renaissance* cast - including Clayton Haugen, Don Frye, Payton McCormick, Chantel Thuy, and Price Mitchum - have documented connections to Fort Huachuca, U.S. military service, or defense contracting.
 
 Anchored Artifacts: A-1635.1, A-1635.2
 Mentions: N-465, N-468, N-469, N-470, N-471, N-472
@@ -1138,11 +1138,11 @@ Investigative Direction: Obtain independent verification of military service rec
 
 ---
 
-**C-2109** November Renaissance Plot Describes Nanotechnology, Mind-as-Hard-Drive, and Corporate Proxy Operations
+**C-2109** Per Kickstarter Text the Host Reads, November Renaissance Plot Describes Nanotechnology, Mind-as-Hard-Drive, and Corporate Proxy Operations
 
 Claim Timestamp: 00:08:16–00:10:12
 
-Claim: The publicly described plot of *November Renaissance* involves nanotechnology, a mind-as-hard-drive concept, and corporate-proxy black operations conducted on behalf of financial institutions and governments.
+Claim: Per the Kickstarter description the host reads and a clip of director Clayton Haugen she plays, the plot of *November Renaissance* involves nanotechnology, a mind-as-hard-drive concept, and corporate-proxy black operations conducted on behalf of financial institutions and governments.
 
 Anchored Artifacts: A-1635.2, A-1635.3
 Mentions: N-465
@@ -1153,11 +1153,11 @@ Investigative Direction: Obtain and archive the full Kickstarter campaign text a
 
 ---
 
-**C-2110** Erika Was Cast as "Evelyn Mathis" in the November Renaissance Kickstarter Campaign
+**C-2110** Host Says Erika Was Cast as "Evelyn Mathis" in the November Renaissance Kickstarter Campaign
 
 Claim Timestamp: 00:05:24
 
-Claim: A remnant of the *November Renaissance* Kickstarter campaign publicly identifies Erika as having been cast in the role of "Evelyn Mathis."
+Claim: The host says a remnant of the *November Renaissance* Kickstarter campaign publicly identifies Erika as having been cast in the role of "Evelyn Mathis."
 
 Anchored Artifacts: A-1635.2
 Mentions: N-2, N-465
@@ -1230,11 +1230,11 @@ Investigative Direction: Read with C-2113; request the reply under the corrected
 
 ---
 
-**C-2114** Buckmans Gave $10 Million to Turning Point USA; Florida HQ Renamed Buckman Campus
+**C-2114** Host Says Buckmans Gave $10 Million to Turning Point USA; Florida HQ Renamed Buckman Campus
 
 Claim Timestamp: 00:20:05–00:21:00
 
-Claim: Karl and Nelda Buckman gave a $10 million gift to Turning Point USA – described as the largest in the organization's history – and the Florida campus was renamed the "Buckman campus" in connection with the donation.
+Claim: The host, citing a Daily Wire article, says Karl and Nelda Buckman gave a $10 million gift to Turning Point USA - described as the largest in the organization's history - and the Florida campus was renamed the "Buckman campus" in connection with the donation.
 
 Anchored Artifacts: A-1638.1
 Mentions: N-466, N-467
@@ -1260,11 +1260,11 @@ Investigative Direction: Obtain the full Daily Wire Plus interview text; verify 
 
 ---
 
-**C-2116** Nelda Buckman Is Executive Producer of the Identity Crisis Documentary
+**C-2116** Host Says Nelda Buckman Is Executive Producer of the Identity Crisis Documentary
 
 Claim Timestamp: 00:21:46
 
-Claim: Nelda Buckman is an executive producer of *Identity Crisis*, a 2024 documentary on gender announced on stage by Ben Shapiro as a Daily Wire / Turning Point USA collaboration.
+Claim: The host says Nelda Buckman is an executive producer of *Identity Crisis*, a 2024 documentary on gender announced on stage by Ben Shapiro as a Daily Wire / Turning Point USA collaboration.
 
 Anchored Artifacts: A-1639.1
 Mentions: N-466, N-97

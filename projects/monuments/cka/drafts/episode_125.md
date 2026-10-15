@@ -812,11 +812,11 @@ Who was in the restaurantology event green room and whether Frank Turek was ther
 
 ## 5. Claim Register
 
-**C-3017** Object in SUV Backseat Consistent with Melted Polyester Shirt
+**C-3017** Host Says Object in SUV Backseat Consistent with Melted Polyester Shirt
 
 Claim Timestamp: 00:06:36
 
-Claim: The unidentified burnt object in the backseat of Charlie Kirk's SUV is consistent with melted polyester fabric from a t-shirt, supported by a burn-replication test and viewer expert identifications.
+Claim: The host says the unidentified burnt object in the backseat of Charlie Kirk's SUV is consistent with melted polyester fabric from a t-shirt, citing her team's burn-replication test and identifications from viewer experts.
 
 Anchored Artifacts: A-2129.2, A-2130.1, A-2131.1, A-2131.2
 Mentions: N-1
@@ -825,11 +825,11 @@ Related Nodes: N-10714
 
 Investigative Direction: Forensic examination of the actual recovered object would verify or falsify the polyester-shirt hypothesis.
 
-**C-3018** Blake Neff Was on Private Jet to Salt Lake City September 10th
+**C-3018** Host Says Blake Neff Was on Private Jet to Salt Lake City September 10th
 
 Claim Timestamp: 00:12:33
 
-Claim: Blake Neff was aboard the private jet carrying Charlie Kirk to Salt Lake City on the morning of September 10th.
+Claim: The host says Blake Neff was aboard the private jet carrying Charlie Kirk to Salt Lake City on the morning of September 10th.
 
 Anchored Artifacts: A-2133.1
 Mentions: N-1, N-162
@@ -850,11 +850,11 @@ Related Nodes: N-10715
 
 Investigative Direction: Rental car records, phone location data, and witness statements would verify Blake Neff's stated movement and reconstruct the SUV's route.
 
-**C-3020** Blake Neff Identifies Danny Phillip as Possible SUV Passenger
+**C-3020** Clip Has Blake Neff Acknowledging Danny Phillip as Possible SUV Passenger
 
 Claim Timestamp: 00:15:25
 
-Claim: During the X Space, after prompting, Blake Neff indicated that Danny Phillip might have been in the second SUV with him.
+Claim: In an X Space clip the host plays, Blake Neff, after prompting from another speaker, indicates that Danny Phillip might have been in the second SUV with him.
 
 Anchored Artifacts: A-2133.1
 Mentions: N-372, N-162
@@ -863,11 +863,11 @@ Related Nodes: N-10715
 
 Investigative Direction: Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification.
 
-**C-3021** Danny Phillip is Grandson of Thomas Patrick
+**C-3021** Host Says Danny Phillip Is Grandson of Thomas Patrick
 
 Claim Timestamp: 00:24:41
 
-Claim: Danny Phillip is the grandson of Thomas Patrick, former Executive Vice Chairman and CEO of Merrill Lynch (Chicago, 25-year tenure, departed 2003 following Eliot Spitzer scandal), who was also a major Turning Point donor.
+Claim: The host says, citing a visual guide she put together, that Danny Phillip is the grandson of Thomas Patrick, former Executive Vice Chairman and CEO of Merrill Lynch (Chicago, 25-year tenure, departed 2003 following Eliot Spitzer scandal), who was also a major Turning Point donor.
 
 Anchored Artifacts: A-2134.1
 Mentions: N-372, N-509, N-508
@@ -876,11 +876,11 @@ Related Nodes: N-10716
 
 Investigative Direction: Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.
 
-**C-3022** Stephen Phillip Worked at Bank of America Merrill Lynch Chicago
+**C-3022** Host Says Stephen Phillip Worked at Bank of America Merrill Lynch Chicago
 
 Claim Timestamp: 00:24:41
 
-Claim: Danny Phillip's father Stephen Phillip was employed at Bank of America Merrill Lynch in Chicago during the 2008-2022 timeframe, with Russian studies educational background.
+Claim: The host says, citing a visual guide she put together, that Danny Phillip's father Stephen Phillip was employed at Bank of America Merrill Lynch in Chicago during the 2008-2022 timeframe, with a Russian studies educational background.
 
 Anchored Artifacts: A-2134.1
 Mentions: N-372
@@ -889,11 +889,11 @@ Related Nodes: N-10716
 
 Investigative Direction: Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim.
 
-**C-3023** Tyler Bowyer's Father Was Major Executive at Bank of America Merrill Lynch
+**C-3023** Host Says Tyler Bowyer's Father Was Major Executive at Bank of America Merrill Lynch
 
 Claim Timestamp: 00:24:41
 
-Claim: Tyler Bowyer's father held a major executive position at Bank of America Merrill Lynch (Chicago), and Tyler Bowyer's first job was at Bank of America.
+Claim: The host says Tyler Bowyer's father held a major executive position at Bank of America Merrill Lynch (Chicago), and that Tyler Bowyer's first job was at Bank of America.
 
 Anchored Artifacts: A-2134.1
 Mentions: N-11
@@ -902,11 +902,11 @@ Related Nodes: N-10716
 
 Investigative Direction: Corporate directories, employment records, public board listings would verify the employment claim.
 
-**C-3024** Dennis Franks Bay Worked at Bank of America Merrill Lynch Chicago
+**C-3024** Host Says Dennis Franks Bay Worked at Bank of America Merrill Lynch Chicago
 
 Claim Timestamp: 00:24:41
 
-Claim: Erica Kirk's cousin Dennis Franks Bay worked at Bank of America Merrill Lynch in Chicago during the 2008-2022 timeframe, after his military service.
+Claim: The host says Erica Kirk's cousin Dennis Franks Bay worked at Bank of America Merrill Lynch in Chicago during the 2008-2022 timeframe, after his military service.
 
 Anchored Artifacts: A-2134.1
 Mentions: N-2

@@ -867,11 +867,11 @@ Investigative Direction: Verify against device-extracted SMS records and any fli
 
 ---
 
-**C-3124** Older Charlie Kirk Text – "The War Is On / Snakes in the Garden"
+**C-3124** Host Shows Older Charlie Kirk Text: "The War Is On / Snakes in the Garden"
 
 Claim Timestamp: 00:15:27
 
-Claim: A pre-November 15, 2023 text from Charlie Kirk (or a contemporaneous exchange involving Charlie Kirk) contains the words: "Yep, the war is on. Snakes in the garden, they are not our friends. Time to fight."
+Claim: Per an older text the host shows and presents as from Charlie Kirk, dated before November 15, 2023, the message reads: "Yep, the war is on. Snakes in the garden, they are not our friends. Time to fight."
 
 Anchored Artifacts: A-2180.2
 Mentions: N-1, N-3

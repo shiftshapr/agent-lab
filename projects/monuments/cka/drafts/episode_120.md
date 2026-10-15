@@ -978,11 +978,11 @@ Investigative Direction: Verify the 200-yard figure against the documented dista
 
 ---
 
-**C-2939** Judge Graff Denied Motion to Compel Lance Twiggs In-Person Testimony
+**C-2939** Host Says Judge Graff Denied Motion to Compel Lance Twiggs In-Person Testimony
 
 Claim Timestamp: 00:25:38
 
-Claim: Judge Graff has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing scheduled for the week of July 6.
+Claim: The host says Judge Graff has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing set for the week of July 6.
 
 Anchored Artifacts: A-2092.1
 Mentions: N-40, N-54
@@ -993,11 +993,11 @@ Investigative Direction: Obtain the underlying court order from Utah state court
 
 ---
 
-**C-2940** Lance Twiggs Testimony Admitted as Recorded Statement
+**C-2940** Host Says Lance Twiggs Testimony Will Be Admitted as Recorded Statement
 
 Claim Timestamp: 00:26:28
 
-Claim: Under the ruling, Lance Twiggs's testimony against Tyler Robinson will be presented at the preliminary hearing as a recorded statement rather than live testimony.
+Claim: The host says that, under the judge's ruling, Lance Twiggs's testimony against Tyler Robinson will be presented at the preliminary hearing as a recorded statement rather than live testimony.
 
 Anchored Artifacts: A-2092.1
 Mentions: N-40, N-54
@@ -1023,11 +1023,11 @@ Investigative Direction: Preserve viewer email as a tip lead; pursue forensic co
 
 ---
 
-**C-2942** Enhanced SUV Shard Images Show White Markings Matching Rode Mic Design
+**C-2942** Host Says Enhanced SUV Shard Images Show White Markings Matching Rode Mic Design
 
 Claim Timestamp: 00:14:51
 
-Claim: Enhanced still images displayed on the show show white markings on the SUV floorboard shards that visually align with Rode Wireless Pro body design and labeling.
+Claim: The host says the enhanced still images she displays show white markings on the SUV floorboard shards that visually align with the Rode Wireless Pro body design and labeling, as a viewer email she reads suggested.
 
 Anchored Artifacts: A-2088.1, A-2089.1
 Mentions: N-1
@@ -1038,11 +1038,11 @@ Investigative Direction: Source original high-resolution images from John Bray o
 
 ---
 
-**C-2943** Rode Wireless Pro Destruction Video Produces Comparable Shard Pattern
+**C-2943** Host Says Rode Wireless Pro Destruction Video Produces Comparable Shard Pattern
 
 Claim Timestamp: 00:15:51
 
-Claim: A YouTube video showing a third party destroying a Rode Wireless Pro produces a shard pattern that visually resembles the shards seen on the SUV floorboard.
+Claim: The host says a YouTube video she plays, in which a third party destroys a Rode Wireless Pro, produces a shard pattern that visually resembles the shards on the SUV floorboard.
 
 Anchored Artifacts: A-2089.2, A-2088.1
 Mentions: N-1
@@ -1053,11 +1053,11 @@ Investigative Direction: Preserve the YouTube source video as comparison referen
 
 ---
 
-**C-2944** Erika Kirk's Signature Changed Dramatically Between Miss Arizona Era and Current
+**C-2944** Host Says Erika Kirk's Signature Changed Dramatically Between Miss Arizona Era and Current
 
 Claim Timestamp: 00:39:46
 
-Claim: Signatures displayed on the show show Erika's current signature as visually distinct from her Miss Arizona era signature.
+Claim: The host says the signatures she displays show Erika's current signature as visually distinct from her Miss Arizona era signature, a change she says people who knew Erika brought to her attention by email.
 
 Anchored Artifacts: A-2091.1, A-2091.2
 Mentions: N-2
@@ -1984,11 +1984,11 @@ Investigative Direction: Identify the page and publisher (clinical or other) and
 
 ---
 
-**C-5839** Web page lists a Possession type of the disorder
+**C-5839** Web Page Host Shows Lists a Possession Type of the Disorder
 
 Claim Timestamp: 00:44:17
 
-Claim: The web page lists a "Possession" type in which identities present as if an outside being or spirit took control of the body.
+Claim: Per the web page on dissociative identity disorder that the host shows, it lists a "Possession" type in which identities present as if an outside being or spirit took control of the body.
 
 Transcript Snippet: What are the different types? Possession. Identities present as if an outside being or spirit took control of your body.
 

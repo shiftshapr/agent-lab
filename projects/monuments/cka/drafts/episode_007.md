@@ -843,10 +843,10 @@ Candace Owens Daily Wire Firing Reasons; her job loss.
 
 ## 5. Claim Register
 
-**C-1228** Erika Kirk publicly forgave Charlie's killer at memorial
+**C-1228** Host Says Erika Kirk Publicly Forgave Charlie's Killer at Memorial
 
 Claim Timestamp: 00:02:05
-Claim: Erika Kirk publicly forgave Charlie Kirk's killer at the memorial event, framing it as a Christian act of submission.
+Claim: The host says Erika Kirk publicly forgave Charlie Kirk's killer at the memorial event, which the host describes as a message of complete submission to Christ.
 Transcript Snippet: She arrived at forgiveness and she did it in front of the entire world.
 Anchored Artifacts: A-1134.1, A-1134.2
 Mentions: N-1, N-2, N-42
@@ -878,10 +878,10 @@ Investigative Direction: Identify the surgeon and request confirmation; review a
 
 ---
 
-**C-1231** Alex Jones disputed the miracle claim publicly
+**C-1231** Clip Has Alex Jones Disputing the Miracle Claim on X Live
 
 Claim Timestamp: 00:13:01
-Claim: Alex Jones publicly disputed the miracle/exit-wound statement on X Live, citing typical 30-06 ballistics.
+Claim: In a clip the host plays, Alex Jones says on X Live that a TPUSA spokesperson said Charlie Kirk was shot with a 30-06 that did not go through, and he disputes this by citing typical 30-06 ballistics.
 Transcript Snippet: They just said he got shot with a 30 odd six and that it didn't go through.
 Anchored Artifacts: A-1136.1
 Mentions: N-93
@@ -917,10 +917,10 @@ Investigative Direction: Obtain FAA radar logs and ATC recordings for the releva
 
 ---
 
-**C-1234** Pipeline and access points exist beneath Charlie's seat
+**C-1234** Host Says Photos Show Pipeline and Access Points Near Charlie's Seat
 
 Claim Timestamp: 00:20:46
-Claim: Photos from the shooting location show a large pipeline and trap-door boxes directly behind/beneath where Charlie Kirk was seated.
+Claim: The host says that old photos of where Charlie Kirk was seated show a large pipeline almost exactly behind where he was sitting, and that tipsters told her two small boxes nearby were a trap door, suggesting an underground area.
 Transcript Snippet: there was a massive pipeline that was almost exactly behind where Charlie was sitting.
 Anchored Artifacts: A-1139.1, A-1139.2
 Mentions: N-1
@@ -929,10 +929,10 @@ Investigative Direction: Obtain UVU facilities maps, irrigation system records, 
 
 ---
 
-**C-1235** UVU repaved the area within ~48 hours of the shooting
+**C-1235** Host Says UVU Repaved the Area Within About 48 Hours of the Shooting
 
 Claim Timestamp: 00:23:03
-Claim: UVU repaved the area where Charlie Kirk was shot within approximately 48 hours of the incident.
+Claim: The host says UVU repaved the area where Charlie Kirk was shot within approximately 48 hours of the shooting, asking producer Skyler to confirm the timing.
 Transcript Snippet: They decided to instead pave that area, repave it.
 Anchored Artifacts: A-1139.3
 Mentions: N-1
@@ -1002,10 +1002,10 @@ Investigative Direction: Verify the full town hall recording.
 
 ---
 
-**C-1241** Charlie Kirk criticized AIPAC and foreign lobbying
+**C-1241** Clip Has Kirk Criticizing AIPAC and Foreign Lobbying
 
 Claim Timestamp: 00:39:25
-Claim: Charlie Kirk publicly criticized AIPAC as a group prioritizing foreign interests over American citizens and referenced the JFK precedent.
+Claim: In a clip the host plays of an audience Q&A, Charlie Kirk says he has a huge problem with AIPAC representing a group that does not represent American interests while influencing those meant to represent Americans, and references the JFK precedent.
 Transcript Snippet: The entirety of the idea of AIPAC is to represent a group...I have a huge problem with.
 Anchored Artifacts: A-1143.2
 Mentions: N-1

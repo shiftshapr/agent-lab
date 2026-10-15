@@ -923,11 +923,11 @@ The tipster hypothesis, offered by the host as unconfirmed, that Tyler Robinson 
 
 ## 5. Claim Register
 
-**C-2003** Tyler Robinson's Pangitch Visit
+**C-2003** Host Says Tyler Robinson Visited Pangitch
 
 Claim Timestamp: 00:02:43
 
-Claim: Tyler Robinson drove approximately three hours from Orem, Utah to Pangitch, Utah on the night of September 10 and dined alone at the Cowboys Smokehouse bar on North Main Street.
+Claim: The host says Tyler Robinson drove approximately three hours from Orem, Utah to Pangitch, Utah on the night of September 10 and dined alone at the Cowboys Smokehouse bar on North Main Street.
 
 Anchored Artifacts: A-1577.1, A-1577.2
 Mentions: N-40
@@ -1011,11 +1011,11 @@ Mentions: N-2, N-11, N-1
 
 Investigative Direction: Cross-check rally attendee list and corroborate timing of Erika's political involvement; verify Bowyer's narrative against other contemporaneous accounts.
 
-**C-2010** 2014 Arizona House Record Connects Farnsworths to Lori Frantzve
+**C-2010** Host Says 2014 Arizona House Record Connects Farnsworths to Lori Frantzve
 
 Claim Timestamp: 00:33:00
 
-Claim: A 2014 Arizona House record shows Senator David Farnsworth introducing Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Gwinta also named.
+Claim: Per a 2014 Arizona House record the host shows, Senator David Farnsworth introduced Lori Frantzve, then-CEO of GTech Industries, on EMP legislation, with Eddie Farnsworth listed among voting members present and Larry Gwinta also named.
 
 Anchored Artifacts: A-1581.1
 Mentions: N-386, N-387, N-393
@@ -1036,11 +1036,11 @@ Mentions: N-390
 
 Investigative Direction: Obtain the full CBS News article and any follow-up reporting; verify Rodsham's Fort Huachuca tenure dates; check overlap with relevant September 10 events.
 
-**C-2012** Davis-Monthan AFB Held Arizona Commanders Summit on September 9
+**C-2012** Host Cites Davis-Monthan AFB Website Saying Arizona Commanders Summit Kicked Off on September 9
 
 Claim Timestamp: 00:38:50
 
-Claim: The Davis-Monthan AFB website announces that the Arizona Commanders Summit kicked off on September 9, 2025, providing a forum for military commanders and Arizona community leaders.
+Claim: Per the Davis-Monthan AFB website the host shows, the Arizona Commanders Summit kicked off on September 9, 2025, providing a forum for military commanders and Arizona community leaders.
 
 Anchored Artifacts: A-1583.1
 Mentions: N-67
@@ -1073,11 +1073,11 @@ Mentions: N-1
 
 Investigative Direction: Obtain unaltered full video from original source; have independent forensic analysts assess whether the absence of visible blood is consistent with the stated wound trajectory.
 
-**C-2015** Tyler Robinson Worked at Wild Electric in Santa Clara, Utah
+**C-2015** Host Says Tyler Robinson Worked at Wild Electric in Santa Clara, Utah
 
 Claim Timestamp: 00:13:50
 
-Claim: Tyler Robinson was employed at Wild Electric in Santa Clara, Utah; this was already in public news reporting prior to this episode.
+Claim: The host says Tyler Robinson was employed at Wild Electric in Santa Clara, Utah, adding that she did not break this story and that it was already in the news prior to this episode.
 
 Anchored Artifacts: A-1586.1
 Mentions: N-40

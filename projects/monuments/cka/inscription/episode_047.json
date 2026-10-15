@@ -2729,8 +2729,8 @@
       "@type": "Claim",
       "@id": "C-1925",
       "ref": "C-1925",
-      "label": "Erika confirmed possession of Charlie's phone",
-      "claim": "Erika Kirk confirmed she has Charlie Kirk's phone and that he primarily used Signal and Telegram for communications.",
+      "label": "Host Says Erika Kirk Confirmed Possession of Charlie's Phone",
+      "claim": "The host says Erika Kirk, in her Glenn Beck interview, confirmed she has Charlie Kirk's phone and that he, like everybody else, primarily used Signal and Telegram for communications.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -2812,8 +2812,8 @@
       "@type": "Claim",
       "@id": "C-1929",
       "ref": "C-1929",
-      "label": "Probable cause hearing scheduled for May",
-      "claim": "The probable cause hearing at which evidence will first be presented to a judge is scheduled for May 2026.",
+      "label": "Host Says Probable Cause Hearing Is Scheduled for May",
+      "claim": "The host says a lawyer involved in the case told her the probable cause hearing, at which evidence will first be presented to a judge, is scheduled for May (recorded as May 2026).",
       "anchored_artifacts": [
         "A-1540.1"
       ],
@@ -2848,8 +2848,8 @@
       "@type": "Claim",
       "@id": "C-1931",
       "ref": "C-1931",
-      "label": "Witness described smaller gun, black tactical gear, no recoil",
-      "claim": "The rooftop-filming witness described the subject as wearing black tactical gear, carrying a smaller gun, and exhibiting no recoil.",
+      "label": "Host Says Rooftop-Filming Witness Described Smaller Gun, Black Tactical Gear, No Recoil",
+      "claim": "The host says the witness who filmed the figure on the rooftop told her he described the subject as wearing black tactical gear, carrying a smaller gun, and exhibiting no recoil.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -2884,8 +2884,8 @@
       "@type": "Claim",
       "@id": "C-1933",
       "ref": "C-1933",
-      "label": "Mikey three-wayed Erika 3 minutes after shot and father 2 minutes later",
-      "claim": "Mikey McCoy added Erika to the call approximately 3 minutes after the shot and added his father Rob McCoy approximately 2 minutes later, remaining on the phone with his wife throughout.",
+      "label": "Host Says Mikey Three-Wayed Erika 3 Minutes After Shot and Father 2 Minutes Later",
+      "claim": "The host says, citing call logs shown to her, that Mikey McCoy added Erika to the call approximately 3 minutes after the shot and added his father Rob McCoy approximately 2 minutes later, remaining on the phone with his wife throughout.",
       "anchored_artifacts": [
         "A-1543.1"
       ],
@@ -2906,8 +2906,8 @@
       "@type": "Claim",
       "@id": "C-1934",
       "ref": "C-1934",
-      "label": "Mikey McCoy's real first name is Michael",
-      "claim": "Mikey McCoy's real first name is Michael; \"Mikey\" is not a middle-name substitute.",
+      "label": "Host Says Mikey McCoy's Real First Name Is Michael",
+      "claim": "The host says Mikey McCoy's real first name is Michael and that \"Mikey\" is not a middle-name substitute, which she says Mikey wanted the audience to know.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3048,8 +3048,8 @@
       "@type": "Claim",
       "@id": "C-1940",
       "ref": "C-1940",
-      "label": "TPUSA defended Terrell Farnsworth's camera removal",
-      "claim": "TPUSA defended Terrell Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.",
+      "label": "Host Says TPUSA Defended Terrell Farnsworth's Camera Removal",
+      "claim": "The host says TPUSA defended Terrell Farnsworth's removal of cameras as part of a new livestream system used selectively for tour stops rather than all outdoor events.",
       "anchored_artifacts": [
         "A-1539.1"
       ],
@@ -3356,8 +3356,8 @@
       "@type": "Claim",
       "@id": "C-1955",
       "ref": "C-1955",
-      "label": "Andrew Seifer identified as TPUSA head of field",
-      "claim": "On the Charlie Kirk Show, Andrew Seifer was identified as TPUSA's head of field.",
+      "label": "Charlie Kirk Show Speaker Identifies Andrew Seifer as TPUSA Head of Field",
+      "claim": "In a clip from the Charlie Kirk Show that the host plays, a speaker identifies Andrew Seifer as TPUSA's head of field.",
       "anchored_artifacts": [
         "A-1544.2"
       ],

@@ -766,7 +766,7 @@ Reused existing node; cited by the new claims in this supplement.
 **C-2194** Erika Kirk opened the TPUSA Zoom call with an upbeat tone thanking staff and citing memorial metrics
 
 Claim Timestamp: 00:11:24
-Claim: The episode presents that Erika Kirk's opening remarks on the corporate-wide Zoom call included laughter, thanks, and memorial metrics including 275,000 attendees and broadcast reach of "over 100 million."
+Claim: In a clip of the TPUSA corporate-wide Zoom call that the host plays, Erika Kirk opens by thanking staff and citing memorial metrics including 275,000 attendees and broadcast reach of "over 100 million"; the host describes the call's tone as upbeat, with laughter.
 Anchored Artifacts: A-1676.1
 Mentions: N-2
 Related Nodes: N-10443
@@ -775,7 +775,7 @@ Investigative Direction: Obtain full 15-minute Zoom call audio for content and t
 **C-2195** Erika Kirk stated staff worked 20-hour days during the week of the memorial
 
 Claim Timestamp: 00:11:24
-Claim: The episode presents Erika Kirk telling the call that "a lot of the staff that worked on the memorial … had 20[-hour]-our days for a week."
+Claim: In a clip the host plays, Erika Kirk tells the call that "a lot of the staff that worked on the memorial … had 20[-hour]-our days for a week."
 Anchored Artifacts: A-1676.1
 Mentions: N-2
 Investigative Direction: Cross-reference staff schedules, payroll records, and contemporaneous internal communications to verify the 20-hour-day claim.
@@ -783,7 +783,7 @@ Investigative Direction: Cross-reference staff schedules, payroll records, and c
 **C-2196** Erika Kirk advised employees that paid time off is available if they need more time to grieve
 
 Claim Timestamp: 00:15:47
-Claim: The episode presents Erika Kirk telling employees: "if you do need additional time off, please talk to your director about using paid time off for that," while also stating staff had access to counselors, pastors, and therapy dogs during the memorial period.
+Claim: In a clip the host plays, Erika Kirk tells employees: "if you do need additional time off, please talk to your director about using paid time off for that," while also stating staff had access to counselors, pastors, and therapy dogs during the memorial period.
 Anchored Artifacts: A-1676.2
 Mentions: N-2
 Related Nodes: N-10443
@@ -792,7 +792,7 @@ Investigative Direction: Compare Erika's PTO framing with TPUSA's stated employe
 **C-2197** Erika Kirk referenced a "Vision 2030" plan she attributes to Charlie and to COO Justin
 
 Claim Timestamp: 00:20:47
-Claim: The episode presents Erika Kirk stating Charlie was working on "vision 2030" in the weeks before September 10 with Justin, who had been appointed COO for that purpose.
+Claim: In a clip the host plays, Erika Kirk states Charlie was working on "vision 2030" in the weeks before September 10 with Justin, who had been appointed COO for that purpose.
 Anchored Artifacts: A-1676.3
 Mentions: N-2, N-15
 Related Nodes: N-10444
@@ -801,7 +801,7 @@ Investigative Direction: Obtain TPUSA board minutes, executive announcements reg
 **C-2198** Erika Kirk stated she possesses Charlie's journals documenting the 2030 plans
 
 Claim Timestamp: 00:20:47
-Claim: The episode presents Erika Kirk stating: "I have his journals that are aware of the plans. Like there is no confusion of what's to come."
+Claim: In a clip the host plays, Erika Kirk states: "I have his journals that are aware of the plans. Like there is no confusion of what's to come."
 Anchored Artifacts: A-1676.3
 Mentions: N-2
 Related Nodes: N-10444
@@ -810,7 +810,7 @@ Investigative Direction: Establish provenance, chain of custody, and authenticit
 **C-2199** Erika Kirk used the phrase "Turning Point USA 2.0"
 
 Claim Timestamp: 00:14:29
-Claim: The episode presents Erika Kirk stating on the call: "we are moving forward turning point USA 2.0 with Charlie in our hearts."
+Claim: In a clip the host plays, Erika Kirk states on the call: "we are moving forward turning point USA 2.0 with Charlie in our hearts."
 Anchored Artifacts: A-1676.1
 Mentions: N-2
 Investigative Direction: Determine whether "TPUSA 2.0" branding has been formally adopted in organizational materials, IRS filings, or governance documents.
@@ -848,10 +848,10 @@ Mentions: N-501
 Related Nodes: N-10445
 Investigative Direction: Obtain independent forensic voice comparison; verify Lorie Cardardoza Moore's identity, contact details, and any prior communications with TPUSA staff or affiliates.
 
-**C-2204** Voice matching identifies Lorie Cardardoza Moore on a 1-900 romance hotline recording
+**C-2204** Host Says Voice Matching Identifies Lorie Cardardoza Moore on a 1-900 Romance Hotline Recording
 
 Claim Timestamp: 00:41:47
-Claim: The episode presents that Lorie Cardardoza Moore's voice matches a 1-900 romance hotline advertisement, indicating prior acting/performer work.
+Claim: The host says, citing findings by internet sleuths of the "decentralized intelligence agency," that Lorie Cardardoza Moore's voice matches a 1-900 romance hotline advertisement the host plays, indicating prior acting/performer work.
 Anchored Artifacts: A-1682.1
 Mentions: N-501
 Investigative Direction: Establish provenance and dating of the romance hotline recording; obtain Lorie Cardardoza Moore's professional résumé or acting credits for corroboration.

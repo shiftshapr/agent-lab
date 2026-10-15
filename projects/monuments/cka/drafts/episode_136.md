@@ -734,11 +734,11 @@ The Brady List website, a database of officers with documented credibility or mi
 
 ## V. Claim Register
 
-**C-3193** SUV glove pocket was empty when Charlie Kirk exited the vehicle at UVU
+**C-3193** Host Says SUV Glove Pocket Was Empty When Charlie Kirk Exited the Vehicle at UVU
 
 Claim Timestamp: 00:03:26
 
-Claim: Mikey McCoy's arrival footage shows the rear-door pocket of the SUV as empty at the moment Charlie Kirk exited the vehicle, although black gloves were later recovered from that pocket.
+Claim: The host says Mikey McCoy's footage of Charlie Kirk's arrival shows the rear-door pocket of the SUV as empty at the moment Kirk exited the vehicle, although black gloves were later recovered from that pocket.
 
 Anchored Artifacts: A-2223.1
 Mentions: N-1, N-194
@@ -790,11 +790,11 @@ Investigative Direction: Cross-reference Bagley's testimony against UVU campus c
 
 ---
 
-**C-3197** Plainclothes man on rooftop had a badge and a handgun
+**C-3197** Officer Bagley Testifies Plainclothes Man on Rooftop Had a Badge and a Handgun
 
 Claim Timestamp: 00:10:33
 
-Claim: Officer Bagley confirmed under preliminary-hearing questioning that the second individual who accompanied him onto the Losi rooftop appeared to have a badge and was carrying a handgun.
+Claim: In a preliminary-hearing clip the host plays, Officer Bagley, under questioning, confirms that the second individual who accompanied him onto the Losi rooftop appeared to have a badge and was carrying a handgun.
 
 Anchored Artifacts: A-2224.1, A-2233.1
 Mentions: N-512
@@ -804,11 +804,11 @@ Investigative Direction: Compare Bagley's badge-and-handgun description with the
 
 ---
 
-**C-3198** Bystander footage at 12:47 PM shows Officer Bagley and a second plainclothes man on the Losi rooftop
+**C-3198** Host Says Bystander Footage at 12:47 PM Shows Officer Bagley and a Second Plainclothes Man on the Losi Rooftop
 
 Claim Timestamp: 00:15:40
 
-Claim: Bystander footage timestamped 12:47 PM captured Officer Bagley and a second plainclothes man (red hat, bag with badge, backpack) on the Losi Center rooftop.
+Claim: The host says bystander footage timestamped 12:47 PM captured Officer Bagley and a second plainclothes man (red hat, bag with badge, backpack) on the Losi Center rooftop.
 
 Anchored Artifacts: A-2227.1
 Mentions: N-562, N-512
@@ -859,11 +859,11 @@ Investigative Direction: Obtain the original Facebook post metadata (date, autho
 
 ---
 
-**C-3202** Allan Robertson was a US Marine Corps marksmanship instructor at Camp Pendleton, 2009–2014
+**C-3202** Host Says Allan Robertson Was a US Marine Corps Marksmanship Instructor at Camp Pendleton, 2009–2014
 
 Claim Timestamp: 00:19:23
 
-Claim: Per Robertson's LinkedIn profile (verbally referenced), he served as a marksmanship instructor for the Marines at Camp Pendleton from 2009 to 2014 and was deployed in Afghanistan and humanitarian work in Japan.
+Claim: The host says that, per Robertson's LinkedIn profile, he served as a marksmanship instructor for the Marines at Camp Pendleton from 2009 to 2014 and was deployed in Afghanistan and humanitarian work in Japan.
 
 Anchored Artifacts: A-2235.1
 Related Nodes:
@@ -872,11 +872,11 @@ Investigative Direction: Pull archived versions of the LinkedIn profile and cros
 
 ---
 
-**C-3203** Allan E. Robertson has an entry on the Brady List website
+**C-3203** Host Says Brady List Website Has an Entry for Allan E. Robertson
 
 Claim Timestamp: 00:22:55
 
-Claim: The Brady List website contains an entry for Allan E. Robertson associated with San Bernardino Police Department.
+Claim: The host says the Brady List website contains an entry for Allan E. Robertson associated with San Bernardino Police Department.
 
 Anchored Artifacts: A-2229.1
 Related Nodes: N-10774
@@ -885,11 +885,11 @@ Investigative Direction: Obtain the underlying Brady disclosure record via CPRA 
 
 ---
 
-**C-3204** San Bernardino Police Department is listed as not in compliance with Brady disclosure obligations
+**C-3204** Host Says Brady List Website Lists San Bernardino PD as Not in Compliance with Brady Disclosure Obligations
 
 Claim Timestamp: 00:22:55
 
-Claim: The Brady List website notes that San Bernardino PD is not in compliance with its Brady disclosure obligations, leaving offense details for officers (including Robertson) undisclosed.
+Claim: The host says the Brady List website notes that San Bernardino PD is not in compliance with its Brady disclosure obligations, leaving offense details for officers (including Robertson) undisclosed.
 
 Anchored Artifacts: A-2229.1
 Related Nodes: N-10774
@@ -928,7 +928,7 @@ Investigative Direction: Locate the original media appearance (outlet, date, ful
 
 Claim Timestamp: 00:38:45
 
-Claim: Archived Charlie Kirk video clips played in the episode describe bombing Iranian nuclear facilities and going to war with Iran as "pathologically insane."
+Claim: In archived Charlie Kirk video clips the host plays, Kirk describes bombing Iranian nuclear facilities and going to war with Iran as "pathologically insane."
 
 Anchored Artifacts: A-2232.1
 Mentions: N-1
@@ -968,7 +968,7 @@ Investigative Direction: Obtain the full Frank Turek interview and clarify what 
 
 Claim Timestamp: 00:18:43
 
-Claim: YouTuber Nissi's analysis asserts that Officer Bagley failed to mention (a) the red-hat man alerting him to the holster, (b) any pre-rooftop conversation with the red-hat man, and (c) the suspicious timing of his body cam stopping at a convenient moment.
+Claim: In a clip the host plays, YouTuber Nissi asserts that Officer Bagley failed to mention (a) the red-hat man alerting him to the holster, (b) any pre-rooftop conversation with the red-hat man, and (c) the suspicious timing of his body cam stopping at a convenient moment.
 
 Anchored Artifacts: A-2233.1
 Mentions: N-512

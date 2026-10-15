@@ -1608,8 +1608,8 @@
       "@type": "Claim",
       "@id": "C-1462",
       "ref": "C-1462",
-      "label": "Mikey McCoy On Phone ~1 Minute 45 Seconds Before Shot",
-      "claim": "Event-day footage shows Mikey McCoy on his phone approximately 1 minute 45 seconds before the gunshot.",
+      "label": "Host Says Footage Shows Mikey McCoy on Phone About 1 Minute 45 Seconds Before Shot",
+      "claim": "The host says event-day footage shows Mikey McCoy on his phone approximately 1 minute 45 seconds before the gunshot.",
       "anchored_artifacts": [
         "A-1261.3"
       ],
@@ -1625,8 +1625,8 @@
       "@type": "Claim",
       "@id": "C-1463",
       "ref": "C-1463",
-      "label": "Mikey McCoy Still on Phone at Charlie's Waiting Car",
-      "claim": "Event-day footage shows Mikey McCoy in the background at Charlie Kirk's waiting car, still holding his phone.",
+      "label": "Host Says Footage Shows Mikey McCoy Still on Phone at Charlie's Waiting Car",
+      "claim": "The host says event-day footage shows Mikey McCoy in the background at Charlie Kirk's waiting car, still holding his phone.",
       "anchored_artifacts": [
         "A-1261.2"
       ],
@@ -1645,8 +1645,8 @@
       "@type": "Claim",
       "@id": "C-1464",
       "ref": "C-1464",
-      "label": "Camera Operator Recorded Selfie Video Post-Shot",
-      "claim": "The unnamed camera operator recorded a selfie video within the first minute after the shooting.",
+      "label": "Host Says Camera Operator Recorded Selfie Video Post-Shot",
+      "claim": "The host says the unnamed camera operator recorded a selfie video within the first minute after the shooting.",
       "anchored_artifacts": [
         "A-1262.1"
       ],
@@ -1743,8 +1743,8 @@
       "@type": "Claim",
       "@id": "C-1469",
       "ref": "C-1469",
-      "label": "Charlie Kirk Identified Candace Owens as His \"David\"",
-      "claim": "Charlie Kirk texted that \"you were the piece that God meant me to meet that will finish the fight\" and \"be my David.\"",
+      "label": "Host Says Charlie Kirk Texted Her That She Was the Piece to Finish the Fight and to \"Be My David\"",
+      "claim": "Per text messages the host reads aloud and says Charlie Kirk sent her, he wrote that \"you were the piece that God meant me to meet that will finish the fight\" and \"be my David.\"",
       "anchored_artifacts": [
         "A-1266.1"
       ],
@@ -1778,8 +1778,8 @@
       "@type": "Claim",
       "@id": "C-1471",
       "ref": "C-1471",
-      "label": "Charlie Kirk Wrote About Jewish Donor Pressure on TPUSA",
-      "claim": "Trailer presents Charlie Kirk text messages stating \"Jewish donors play into all the stereotypes. I cannot and will not be bullied like this.\"",
+      "label": "Host's Trailer Presents Charlie Kirk Texts on Jewish Donor Pressure on TPUSA",
+      "claim": "In a trailer the host plays, Charlie Kirk text messages are presented as stating \"Jewish donors play into all the stereotypes. I cannot and will not be bullied like this.\"",
       "anchored_artifacts": [
         "A-1265.1"
       ],
@@ -1999,7 +1999,7 @@
       "@id": "C-1484",
       "ref": "C-1484",
       "label": "Third-Party Viewer Perceived Camera Operator Reaction as Abnormal",
-      "claim": "David Foster commented he was \"more shook up seeing the footage than the camera guy seemed in a selfie video\" and that the camera operator \"wasn't even shaking.\"",
+      "claim": "A viewer comment the host reads, from David Foster, says he was \"more shook up seeing the footage than the camera guy seemed in a selfie video\" and that the camera operator \"wasn't even shaking.\"",
       "anchored_artifacts": [
         "A-1269.9"
       ],

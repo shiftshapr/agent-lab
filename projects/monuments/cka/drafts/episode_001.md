@@ -551,10 +551,10 @@ Investigative Direction: Confirm the text chain timing predates the Kirk/Frantze
 
 ---
 
-**C-1121** Kanye's Power was the TPUSA tour hype song
+**C-1121** Host Says Kanye's Power Was the TPUSA Tour Hype Song
 
 Claim Timestamp: 00:09:59
-Claim: Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before stage events and during pre-event prep, per multiple playbacks in the episode.
+Claim: The host says Kanye West's 'Power' became the de facto theme/hype song for the Turning Point USA tour, played before stage events and during pre-event prep.
 Transcript Snippet: Kanye's Power kind of became our theme song for the tour.
 Anchored Artifacts: A-1077.1, A-1080.1
 Mentions: N-1, N-3, N-27

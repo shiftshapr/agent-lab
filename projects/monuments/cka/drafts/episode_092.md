@@ -1048,11 +1048,11 @@ Former official whose foreign-involvement inquiry the host says angered Erika Ki
 
 # V. Claim Register
 
-**C-2722** Erika Kirk Scheduled to Appear at UGA with VP JD Vance
+**C-2722** Host Says Erika Kirk Was Scheduled to Appear at UGA with VP JD Vance
 
 Claim Timestamp: 00:02:28
 
-Claim: Erika Kirk was scheduled to appear alongside Vice President JD Vance at the University of Georgia event on 2026-04-14.
+Claim: The host says Erika Kirk was scheduled to appear alongside Vice President JD Vance at the University of Georgia event on 2026-04-14.
 
 Anchored Artifacts: A-1965.1, A-1966.1
 Mentions: N-2, N-4, N-14
@@ -1081,7 +1081,7 @@ Investigative Direction: Cross-reference social-media post timestamps against TP
 
 Claim Timestamp: 00:03:32
 
-Claim: Andrew Kolvet announced on stage at the UGA event that Erika Kirk was absent due to "very serious threats" against her.
+Claim: In a clip the host plays, Andrew Kolvet announces on stage at the UGA event that Erika Kirk is absent because she has received "very serious threats" in her direction.
 
 Anchored Artifacts: A-1966.1
 Mentions: N-2, N-14
@@ -1169,11 +1169,11 @@ Investigative Direction: Confirm full interview date and air date; verify whethe
 
 ---
 
-**C-2730** UGA High School Event Cancelled Monday Citing "Scheduling Complications"
+**C-2730** Per Text Host Shows, UGA High School Event Cancelled Monday Citing "Scheduling Complications"
 
 Claim Timestamp: 00:19:16
 
-Claim: TPUSA cancelled a Monday 2026-04-13 high school event scheduled for Tuesday 2026-04-14, citing "scheduling complications" rather than security threats.
+Claim: Per a parent-alert text the host shows, TPUSA cancelled a high school event scheduled for the day after the Monday notice (2026-04-14), citing "scheduling complications" rather than security threats, according to the host.
 
 Anchored Artifacts: A-1972.1
 Mentions: N-2, N-14
@@ -1184,11 +1184,11 @@ Investigative Direction: Obtain the original email/text from TPUSA to the school
 
 ---
 
-**C-2731** Parents and Teachers Organizing Boycott of Erika Kirk at Pinnacle High School
+**C-2731** Per Facebook Chat Host Shows, Parents and Teachers Organizing Boycott of Erika Kirk at Pinnacle High School
 
 Claim Timestamp: 00:21:10
 
-Claim: Parents and at least one teacher are organizing a walkout/boycott of Erika Kirk's appearance at Pinnacle High School in Phoenix, citing safety concerns.
+Claim: Per a parental Facebook chat the host shows, parents and at least one teacher are organizing a walkout/boycott of Erika Kirk's appearance at Pinnacle High School in Phoenix, citing safety concerns.
 
 Anchored Artifacts: A-1973.1
 Mentions: N-2
@@ -1274,11 +1274,11 @@ Investigative Direction: Verify DM timestamp; await Marx's response or non-respo
 
 ---
 
-**C-2737** Marcus Wada Identified as TPUSA Director of Strategy of Productions
+**C-2737** Host Reads TPUSA Bio Identifying Marcus Wada as Director of Strategy of Productions
 
 Claim Timestamp: 00:43:46
 
-Claim: The TPUSA website bio identifies Marcus Wada as "director of strategy of productions."
+Claim: Per the Turning Point USA website bio the host reads, Marcus Wada is the "director of strategy of productions" at Turning Point USA.
 
 Anchored Artifacts: A-1978.1
 Mentions: N-430
@@ -1289,11 +1289,11 @@ Investigative Direction: Obtain archived copies of the TPUSA bio page; verify ag
 
 ---
 
-**C-2738** Marcus Wada TPUSA Bio Lists Miss Universe and TPUSA Documentaries
+**C-2738** Host Reads Marcus Wada TPUSA Bio Listing Miss Universe and TPUSA Documentaries
 
 Claim Timestamp: 00:43:46
 
-Claim: Marcus Wada's TPUSA bio lists credits on Miss Universe and TPUSA documentaries "Border Battle" and "The Great Global Reset."
+Claim: Per the Turning Point USA website bio the host reads, Marcus Wada has credits on Miss Universe and on the TPUSA documentary series "Border Battle" and "The Great Global Reset."
 
 Anchored Artifacts: A-1978.1
 Mentions: N-430
@@ -1304,11 +1304,11 @@ Investigative Direction: Cross-reference against IMDb / production credits; veri
 
 ---
 
-**C-2739** Marcus Wada's Brother's Consulting Firm Lists Trafficking Among Industry Areas
+**C-2739** Host Says Marcus Wada's Brother's Consulting Firm Lists Trafficking Among Industry Areas
 
 Claim Timestamp: 00:46:09
 
-Claim: The consulting firm associated with Marcus Wada's brother lists industry areas including human trafficking, sex trafficking, firearms and ammunition, money laundering, and controlled substances.
+Claim: The host says the consulting firm run by Marcus Wada's brother, which she shows on its website, lists industry areas including human trafficking, sex trafficking, firearms and ammunition, money laundering, and controlled substances.
 
 Anchored Artifacts: A-1979.1
 Mentions: N-430
@@ -1334,11 +1334,11 @@ Investigative Direction: Compile chronology of Kirk's public statements on perso
 
 ---
 
-**C-2741** Marcus Wada Reportedly Discusses Past Arms Trafficking in Poland
+**C-2741** Host Says Marcus Wada Reportedly Discusses Past Arms Trafficking in Poland
 
 Claim Timestamp: 00:42:41
 
-Claim: Per unnamed current and former TPUSA employees, Marcus Wada openly discusses past involvement in arms trafficking in Poland and is described as close to Andrew Kolvet.
+Claim: The host says unnamed current and former TPUSA employees told her that Marcus Wada openly discusses past involvement in arms trafficking in Poland and is very close to Andrew Kolvet; she says he allegedly trafficked arms.
 
 Anchored Artifacts: A-1980.1
 Mentions: N-14, N-430
@@ -1399,7 +1399,7 @@ Investigative Direction: Obtain Erika Kirk's April 14, 2026 travel records or pr
 
 Claim Timestamp: 00:03:32
 
-Claim: On the UGA stage, Andrew Kolvet tied the threats against Erika Kirk to attacks from people who have made part-time jobs out of attacking her.
+Claim: In a clip the host plays, Andrew Kolvet, on the UGA stage, tied the threats against Erika Kirk to attacks from people who have made part-time jobs out of attacking her.
 
 Transcript Snippet: Some of the people that have made you know part-time jobs out of attacking Erika and this is the net result.
 

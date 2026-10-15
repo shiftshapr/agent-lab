@@ -863,9 +863,9 @@ Investigative Direction: Locate the specific BBC report and confirm date.
 
 ---
 
-**C-2291** German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003
+**C-2291** Host Says German Geophysicists Located Gilgamesh Tomb Between May 2002 and Early 2003
 Claim Timestamp: 00:07:30
-Claim: German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.
+Claim: The host says, citing a headline she shows, that German geophysicists Gorg Fastbinder and Helmet Becker of the Bavarian State Conservation Office used magnetic mapping to discover ancient Iraq and became convinced they had located Gilgamesh's tomb between May 2002 and very early 2003.
 Anchored Artifacts: A-1731.2
 Mentions: N-542, N-543
 Investigative Direction: Locate primary publications or institutional releases confirming the timeline.
@@ -910,9 +910,9 @@ Investigative Direction: Obtain copies of the underlying text messages and verif
 
 ---
 
-**C-2296** William Stevenson Indicted for First-Degree Murder of His Ex-Wife
+**C-2296** Viewer Comment Says William Stevenson Was Indicted for First-Degree Murder of His Ex-Wife
 Claim Timestamp: 00:46:39
-Claim: William Stevenson, 77, of Wilmington, Delaware – ex-husband of Jill Biden (married 1970–1975) – was indicted for first-degree murder of his ex-wife, whose body was reportedly found unresponsive in the living room with life-saving measures unsuccessful.
+Claim: A viewer comment the host reads says that William Stevenson, 77, of Wilmington, Delaware – ex-husband of Jill Biden (married 1970–1975) – was indicted for first-degree murder of his ex-wife, whose body was reportedly found unresponsive in the living room with life-saving measures unsuccessful.
 Anchored Artifacts: A-1736.1
 Mentions: N-545, N-550
 Investigative Direction: Verify via Delaware court records and contemporaneous news coverage.

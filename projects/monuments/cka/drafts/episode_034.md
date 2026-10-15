@@ -905,10 +905,10 @@ Egyptian Plane Transponding Correlation; existing topic reused for new claims in
 
 ## V. Claim Register
 
-**C-1735** Five rental vehicles tied to Duncan Aviation and the "Egyptian" arrival chain were identified by license plate.
+**C-1735** Host Says Five Rental Vehicles Tied to Duncan Aviation and the "Egyptian" Arrival Chain Were Identified by License Plate
 
 Claim Timestamp: 00:07:12
-Claim: The episode presents five specific rental vehicles with documented license plates as the verified rental fleet associated with the Duncan Aviation / "Egyptian" group.
+Claim: The host says five specific rental vehicles with documented license plates are the verified rental fleet associated with the Duncan Aviation / "Egyptian" group.
 Anchored Artifacts: A-1425.1, A-1425.2, A-1425.3, A-1425.4, A-1425.5
 Mentions: N-264
 Related Nodes: N-10259
@@ -922,10 +922,10 @@ Anchored Artifacts: A-1426.1, A-1427.1
 Related Nodes: N-10261
 Investigative Direction: Identify the student and the reportedly-present professor; obtain any contemporaneous photographs, texts to the FBI tip line, and UVU building access logs for the CS building concourse and roof.
 
-**C-1737** Charlie Kirk's security lead texted the UVU Police Chief about rooftop access and accepted "I got you covered" as resolution.
+**C-1737** Host Says Charlie Kirk's Security Lead Texted the UVU Police Chief About Rooftop Access and Accepted "I Got You Covered" as Resolution
 
 Claim Timestamp: 00:26:12
-Claim: Brian Harpole texted UVU Police Chief Jeff Long regarding student roof access near where Kirk would be set up; the final reply was "I got you covered," and Harpole did not follow up further.
+Claim: In a clip the host plays, Brian Harpole, Charlie Kirk's security lead, reads his texts to UVU Police Chief Jeff Long about student roof access near where Kirk would be set up, ending with the reply "I got you covered," and the host says Harpole did not follow up further.
 Anchored Artifacts: A-1428.1, A-1428.2
 Mentions: N-1
 Related Nodes:
@@ -940,10 +940,10 @@ Mentions: N-67, N-194, N-162
 Related Nodes: N-10262
 Investigative Direction: Cross-reference video from TPUSA / event cameras and Stage area microphones; verify Neff's position with other contemporaneous witness accounts.
 
-**C-1739** Blake Neff's call to his mother began at 11:24 Arizona time and lasted 45 seconds.
+**C-1739** Per Blake Neff's Screenshot the Host Shows, His Call to His Mother Began at 11:24 Arizona Time and Lasted 45 Seconds
 
 Claim Timestamp: 00:36:37
-Claim: A screenshot of Blake Neff's phone shows his call to his mother was initiated at 11:24 Arizona time (≡ 12:24 Utah time) and lasted 45 seconds.
+Claim: Per a screenshot of Blake Neff's phone that the host shows, his call to his mother was initiated at 11:24 Arizona time (12:24 Utah time) and lasted 45 seconds.
 Anchored Artifacts: A-1429.2
 Mentions: N-67, N-162
 Related Nodes: N-10262
@@ -958,10 +958,10 @@ Mentions: N-22, N-3, N-1, N-17
 Related Nodes: N-10264
 Investigative Direction: Obtain the uncut event recording; identify the questioner and the host organization; review the event's sponsor and attendee list.
 
-**C-1741** The current issue of Calvary Chapel magazine carries a "Stand with Israel" cover and a "Why Jews are hated" article, with interior content featuring IDF soldiers.
+**C-1741** Host Shows Calvary Chapel Magazine Cover With "Stand with Israel" and "Why Jews Are Hated" Article, Interior Featuring IDF Soldiers
 
 Claim Timestamp: 00:42:02
-Claim: The episode displays the current month's Calvary Chapel magazine cover featuring "Stand with Israel" and a "Why Jews are hated" subtitle; interior content referenced includes a photo of IDF soldiers wearing yarmulkes with a Messianic caption.
+Claim: The host shows what she says is this month's Calvary Chapel magazine cover, sent to her by someone, featuring "Stand with Israel" and a "Why Jews are hated" subtitle, and says the interior includes a photo of IDF soldiers wearing yarmulkes with a Messianic caption.
 Anchored Artifacts: A-1431.1
 Related Nodes: N-10264
 Investigative Direction: Obtain the issue independently; verify article authors and the magazine's institutional affiliation and distribution chain.
@@ -983,10 +983,10 @@ Mentions: N-3, N-56
 Related Nodes:
 Investigative Direction: Verify the post URL and Wexler's identity/affiliation; review any contemporaneous coverage of the alleged "doxing teenagers" claim.
 
-**C-1744** A plane owned by Turning Point USA donor TWW Lewis departed Scottsdale at ~08:00 local and arrived Provo at ~10:00 local on 2025-09-10.
+**C-1744** Host Says Plane Owned by Turning Point USA Donor TWW Lewis Flew Scottsdale to Provo
 
 Claim Timestamp: 00:20:20
-Claim: The episode identifies a flight from Scottsdale to Provo on the day of the assassination, owned by Turning Point USA donor TWW Lewis (whose foundation lists TPUSA as a recipient).
+Claim: The host says a flight from Scottsdale to Provo on the day of the assassination, departing at about 8:00 local and landing at about 10:00 local, was on a plane owned by Turning Point USA donor TWW Lewis, whose foundation website she says lists TPUSA as a recipient.
 Anchored Artifacts: A-1434.1
 Related Nodes: N-10263
 Investigative Direction: Pull the FAA / ADS-B flight record for tail number; obtain the TWW Lewis Foundation filings and grant log to TPUSA; identify passengers.

@@ -1294,11 +1294,11 @@ Investigative Direction: Obtain the unredacted email from DOJ sources; cross-che
 
 ---
 
-**C-2260** Susan Hamblin Previously Sued News Group Newspapers Over Epstein Allegations
+**C-2260** James Lee Says Susan Hamblin Previously Sued News Group Newspapers Over Epstein Allegations
 
 Claim Timestamp: 00:16:29
 
-Claim: Per James Lee, Susan Hamblin previously sued News Group Newspapers (publisher of The Sun) over articles alleging she groomed and procured a 16-year-old for Epstein; articles were removed and substantial compensation paid.
+Claim: Per James Lee, in a video the host plays, Susan Hamblin previously sued News Group Newspapers (publisher of The Sun) over articles alleging she groomed and procured a 16-year-old for Epstein; the articles were removed and substantial compensation paid.
 
 Anchored Artifacts: A-1716.1
 Mentions: N-531, N-186
@@ -1312,7 +1312,7 @@ Investigative Direction: Verify the litigation through court records (UK).
 
 Claim Timestamp: 00:18:35
 
-Claim: Per Ben Shapiro on camera, the FBI is not releasing Epstein tapes because the tapes are child pornography, not because they document third-party abuse.
+Claim: In a clip the host plays, Ben Shapiro asserts that the FBI is not releasing Epstein tapes because the tapes are child pornography, not because they document third-party abuse.
 
 Anchored Artifacts: A-1717.1
 Mentions: N-9, N-97
@@ -1326,7 +1326,7 @@ Investigative Direction: Compare Shapiro's claim to DOJ public statements and To
 
 Claim Timestamp: 00:18:35
 
-Claim: Per Ben Shapiro on camera, citing his federal government sources, there is no Epstein list; the black book contacts are already public, and no evidence exists that third-party contacts trafficked girls.
+Claim: In a clip the host plays, Ben Shapiro, citing his federal government sources, asserts there is no Epstein list; the black book contacts are already public, and no evidence exists that third-party contacts trafficked girls.
 
 Anchored Artifacts: A-1717.1
 Mentions: N-9, N-97
@@ -1382,7 +1382,7 @@ Investigative Direction: Locate Minaj's original post on X; identify which artis
 
 Claim Timestamp: 00:26:09
 
-Claim: Per Peter Thiel on the Joe Rogan podcast, he was introduced to Jeffrey Epstein by Reid Hoffman in 2014 (after Epstein's 2008 arrest), described as "one of the smartest tax people in the world."
+Claim: In a clip of the Joe Rogan podcast the host plays, Peter Thiel states he was introduced to Jeffrey Epstein by Reid Hoffman in 2014 (after Epstein's 2008 arrest), and that Epstein was described to him as "one of the smartest tax people in the world."
 
 Anchored Artifacts: A-1720.1
 Mentions: N-9, N-527, N-533, N-272
@@ -1425,7 +1425,7 @@ Investigative Direction: Obtain timestamp metadata from the original screenshot 
 
 Claim Timestamp: 00:39:29
 
-Claim: Per Josh Hammer on camera, approximately two hours after the "abandoning pro-Israel cause" text, a small Zoom call occurred with Charlie Kirk, Hammer, and others, organized by Charlie for messaging advice on Jewish-Christian relations on college campuses.
+Claim: In a clip the host plays, Josh Hammer says that approximately two hours after the "abandoning pro-Israel cause" text, a small Zoom call occurred with Charlie Kirk, Hammer, and others, organized by Charlie for messaging advice on Jewish-Christian relations on college campuses.
 
 Anchored Artifacts: A-1721.1
 Mentions: N-55, N-98, N-1
@@ -1440,7 +1440,7 @@ Investigative Direction: Identify the other Zoom participants; cross-check again
 
 Claim Timestamp: 00:47:03
 
-Claim: Per Frank Turek on the Megyn Kelly Show, he went on a long walk with Charlie Kirk on Monday (September 8) at approximately 8:00 PM, after returning at Charlie's invitation.
+Claim: In a clip of the Megyn Kelly Show that the host plays, Frank Turek says he went on a long walk with Charlie Kirk on Monday (September 8) at approximately 8:00 PM, after returning at Charlie's invitation.
 
 Anchored Artifacts: A-1722.2
 Mentions: N-7, N-1
@@ -1455,7 +1455,7 @@ Investigative Direction: Cross-reference Turek's account with security/camera re
 
 Claim Timestamp: 00:47:50
 
-Claim: Per Frank Turek, Charlie Kirk texted that he would be "shortly" out because "GG just got up," and Charlie had to attend to the child before the walk.
+Claim: In a clip of the Megyn Kelly Show that the host plays, Frank Turek says Charlie Kirk texted that he would be "shortly" out because "GG just got up," and that Charlie had to attend to the child before the walk.
 
 Anchored Artifacts: A-1722.2
 Mentions: N-7, N-1, N-2

@@ -749,11 +749,11 @@ The Kirk family lawyer's reported filing alleging that the absence of an ambulan
 
 ---
 
-**C-3494** TPUSA UVU Chapter Declined On-Site Ambulance
+**C-3494** Host Says TPUSA UVU Chapter Declined On-Site Ambulance
 
 Claim Timestamp: 00:02:15
 
-Claim: TPUSA's UVU chapter declined an on-site ambulance by marking "No" on the EMS section of the school's online event form.
+Claim: The host says, citing an ABC News report, that TPUSA's UVU chapter declined an on-site ambulance by marking "No" on the EMS section of the school's online event form.
 
 Anchored Artifacts: A-2393.1
 Mentions: N-2
@@ -765,11 +765,11 @@ Investigative Direction: Obtain UVU event form records directly; cross-check aga
 
 ---
 
-**C-3495** UVU Attendance Estimate Progression 200 → 600 → 1,500 → ~3,000
+**C-3495** Per ABC News Report, UVU Attendance Estimate Progressed 200 to 600 to 1,500 to About 3,000
 
 Claim Timestamp: 00:03:06
 
-Claim: Per ABC News reporting, the UVU event attendance was initially estimated at 200, revised to 600, then per TPUSA to 1,500 (in undocumented later conversation), with actual attendance ~3,000.
+Claim: Per the ABC News report the host reads, the UVU event attendance was initially estimated at 200, revised to 600, then, per TPUSA, to 1,500 (in an undocumented later conversation), with actual attendance of about 3,000.
 
 Anchored Artifacts: A-2393.1
 Mentions: N-2
@@ -780,11 +780,11 @@ Investigative Direction: Obtain UVU planning documents directly; verify timing o
 
 ---
 
-**C-3496** TPUSA Framed UVU Event As Open-To-Public / Unticketed Prove Me Wrong Format
+**C-3496** TPUSA Statement to ABC News Framed UVU Event as Open-to-Public / Unticketed Prove Me Wrong Format
 
 Claim Timestamp: 00:04:04
 
-Claim: Per TPUSA's official statement to ABC News, the UVU event was styled as open-to-public and unticketed, comparable to prior "Prove Me Wrong" campus events, with no crowd control.
+Claim: Per a Turning Point USA official's statement to ABC News that the host reads, the UVU event was styled as open-to-public and unticketed, comparable to prior "Prove Me Wrong" campus events, with no crowd control.
 
 Anchored Artifacts: A-2393.1
 Mentions: N-2
@@ -825,11 +825,11 @@ Investigative Direction: Obtain the 4plebs post URL and archived timestamp; veri
 
 ---
 
-**C-3499** Charlie Kirk's Club America Vision Was Opt-In / Grassroots / Debate-Club Parallel
+**C-3499** Clip Has Charlie Kirk Describing Club America as Opt-In / Grassroots / Debate-Club Parallel
 
 Claim Timestamp: 00:30:10
 
-Claim: In his Aspen donors presentation, Charlie Kirk described the Club America vision as a grassroots, opt-in, student-led chapter model parallel to DECA and debate clubs, with 80 new full-time staff dedicated to sourcing leads and guiding student-initiated chapter formation.
+Claim: In a clip the host plays of his presentation to Aspen donors, Charlie Kirk describes the Club America vision as a grassroots, opt-in, student-led chapter model parallel to DECA and debate clubs, with 80 new full-time staff dedicated to sourcing leads and guiding student-initiated chapter formation.
 
 Anchored Artifacts: A-2397.1
 Mentions: N-2, N-1
@@ -840,11 +840,11 @@ Investigative Direction: Obtain full audio/presentation recording; verify agains
 
 ---
 
-**C-3500** Erika Kirk Spoke At Nampa Christian School Assembly; Students Were Not Opt-In Participants
+**C-3500** Host Says Erika Kirk Spoke at Nampa Christian School Assembly Where Students Were Not Opt-In Participants
 
 Claim Timestamp: 00:20:36
 
-Claim: Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, per parent emails and student-to-parent text messages describing students unable to leave and "locked in the gym."
+Claim: The host says Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, citing parent emails and student-to-parent text messages she shows describing students unable to leave and "locked in the gym."
 
 Anchored Artifacts: A-2399.1, A-2403.1
 Mentions: N-2
@@ -870,11 +870,11 @@ Investigative Direction: Cross-check TPUSA claim against school attendance recor
 
 ---
 
-**C-3502** Andrew Kolvet Cited Three Opt-Outs As Evidence Of Voluntary Participation
+**C-3502** Per Kolvet's X Reply, Three Students Opted Out of Nampa Assembly
 
 Claim Timestamp: 00:24:37
 
-Claim: Andrew Kolvet replied on X that three students opted out of the Nampa assembly and that "over 500 chose to attend" – i.e., nothing was forced.
+Claim: Per Andrew Kolvet's reply on X that the host shows, three students opted out of the Nampa assembly and "over 500 chose to attend"; the host characterizes this as a technicality, saying Kolvet is implying nothing was forced.
 
 Anchored Artifacts: A-2403.2
 Mentions: N-14
@@ -904,7 +904,7 @@ Investigative Direction: Cross-check against TPUSA's prior statements on event s
 
 Claim Timestamp: 00:46:28
 
-Claim: Politico published a profile of Blake Neff titled "Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed" (author Ian Ward).
+Claim: Per a Politico profile of Blake Neff by Ian Ward that the host shows, the article is titled "Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed."
 
 Anchored Artifacts: A-2400.1
 Mentions: N-1, N-162, N-22
@@ -930,11 +930,11 @@ Investigative Direction: Verify direct attribution of the "maximalist" phrase to
 
 ---
 
-**C-3506** Tucker Carlson Criticized Blake Neff's "Make Our Peace With Censorship" Framing
+**C-3506** Clip Has Tucker Carlson Criticizing Blake Neff's "Make Our Peace With Censorship" Framing
 
 Claim Timestamp: 00:45:02
 
-Claim: Tucker Carlson publicly criticized Blake Neff's framing that "we may have to make our peace with censorship," reading and rejecting the Politico profile's premise.
+Claim: In a clip the host plays, Tucker Carlson criticizes Blake Neff's framing that "we may have to make our peace with censorship," reading from and rejecting the premise of the Politico profile.
 
 Anchored Artifacts: A-2401.1
 Mentions: N-1, N-22, N-162
@@ -960,11 +960,11 @@ Investigative Direction: Confirm full quote and attribution context in Politico 
 
 ---
 
-**C-3508** Empress Films Founded By Emma Cooper In 2020
+**C-3508** Host Says Empress Films Was Founded by Emma Cooper in 2020
 
 Claim Timestamp: 00:38:28
 
-Claim: Empress Films is a documentary company founded by Emma Cooper in 2020; Cooper was previously global president of non-scripted television at Pulse Films and worked on the Netflix documentary "The Disappearance of Madeleine McCann."
+Claim: The host says Empress Films is a documentary company founded by Emma Cooper in 2020, and that Cooper was previously global president of non-scripted television at Pulse Films and worked on the Netflix documentary "The Disappearance of Madeleine McCann."
 
 Anchored Artifacts: A-2402.1 (Ghislaine Maxwell: Epstein's Shadow, 2021, as company-inception product)
 
@@ -974,11 +974,11 @@ Investigative Direction: Verify corporate filings and Pulse Films tenure via pub
 
 ---
 
-**C-3509** Empress Films Production Focus Includes True Crime / Murder Mystery Content
+**C-3509** Host Says Empress Films' Production Focus Includes True Crime / Murder Mystery Content
 
 Claim Timestamp: 00:38:28
 
-Claim: Empress Films' production catalog includes true crime / murder mystery documentaries: Ghislaine Maxwell (2021), Marilyn Monroe, Jill Dando, Princess Diana, Depp vs Heard, and Gilgo Beach murders.
+Claim: The host says Empress Films' production catalog includes true crime / murder mystery documentaries: Ghislaine Maxwell (2021), Marilyn Monroe, Jill Dando, Princess Diana, Depp vs Heard, and Gilgo Beach murders.
 
 Anchored Artifacts: A-2402.1, A-2402.2, A-2402.3, A-2402.4, A-2402.5, A-2402.6
 Mentions: N-47
@@ -989,11 +989,11 @@ Investigative Direction: Verify each production's distribution platform, release
 
 ---
 
-**C-3510** August 28, 2025 Call Between Erika Kirk / Andrew Kolvet / Empress Films Executives
+**C-3510** Host Says Erika Kirk and Andrew Kolvet Had an August 28, 2025 Call with Empress Films Executives
 
 Claim Timestamp: 00:34:54
 
-Claim: On August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers.
+Claim: The host says she learned that on August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers.
 
 Anchored Artifacts: Host testimonial confirmation only (sourced by host from "people who worked with Andrew"); no displayed documentary source in this episode.
 Mentions: N-2, N-14

@@ -885,11 +885,11 @@ Investigative Direction: Confirm via call detail records and corroborate with Au
 
 ---
 
-**C-2536** Aubrey was later fired over Uber-driver conversation
+**C-2536** Host Says Aubrey Was Later Fired Over Uber-Driver Conversation
 
 Claim Timestamp: 00:25:31
 
-Claim: Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Medvin reportedly overheard.
+Claim: The host says Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Medvin reportedly overheard.
 
 Anchored Artifacts: A-1881.1 (contextual); primary artifact not displayed.
 Mentions: N-499
@@ -902,11 +902,11 @@ Investigative Direction: Verify with Aubrey or HR/witness records.
 
 ---
 
-**C-2537** Calendar shows Egyptian-plane transponding overlapping Sept 10 events
+**C-2537** Host's Calendar Graphic Shows Egyptian-Plane Transponding Overlapping Sept 10 Events
 
 Claim Timestamp: 00:29:39
 
-Claim: An on-screen calendar graphic places Egyptian-plane transponding windows (10:05–11:34 a.m.; second block) overlapping with Charlie's flight and Kolvet's unavailability window on Sept 10.
+Claim: Per an on-screen calendar graphic the host shows, Egyptian-plane transponding windows (10:05-11:34 a.m.; second block) overlap with Charlie's flight and Kolvet's unavailability window on Sept 10.
 
 Anchored Artifacts: A-1881.2
 
@@ -916,11 +916,11 @@ Investigative Direction: Independently source the ADS-B / transponder data; veri
 
 ---
 
-**C-2538** Wyre plane route: Scottsdale–Provo–Santa Barbara–Scottsdale
+**C-2538** Host Says Wyre Plane Routed Scottsdale–Provo–Santa Barbara–Scottsdale
 
 Claim Timestamp: 00:35:39
 
-Claim: The Wyre-sponsored plane is shown on the on-screen calendar as routing Scottsdale → Provo (10:06 a.m.) → Santa Barbara (10:24 a.m.) → Scottsdale (1:44 p.m.) on Sept 10.
+Claim: The host says the Wyre-sponsored plane is shown on the on-screen calendar as routing Scottsdale → Provo (10:06 a.m.) → Santa Barbara (10:24 a.m.) → Scottsdale (1:44 p.m.) on Sept 10.
 
 Anchored Artifacts: A-1881.2
 
@@ -951,7 +951,7 @@ Investigative Direction: Direct verification only possible via Blake Neff or dev
 
 Claim Timestamp: 00:40:59
 
-Claim: On his podcast, Joe Rogan discussed Erika Kirk's appearance in what he characterized as a CIA documentary, her pageant background, and speculation she was "Charlie's handler."
+Claim: In a clip of his podcast that the host plays, Joe Rogan discusses Erika Kirk's appearance in what he characterizes as a CIA documentary, her pageant background, and speculation she was "Charlie's handler."
 
 Anchored Artifacts: A-1883.1
 Mentions: N-2, N-272

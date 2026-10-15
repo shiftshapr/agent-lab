@@ -904,11 +904,11 @@ Investigative Direction: Obtain hearing transcript or video exhibits to verify i
 
 ---
 
-**C-3028** UVU Communicated Discontinuation of Testing to FBI
+**C-3028** Clip Shows Sergeant Filomena Acknowledging UVU Communicated Discontinuation of Testing to FBI
 
 Claim Timestamp: 00:09:25
 
-Claim: Sergeant Filomena acknowledged that items were sent to the FBI lab and that UVU eventually communicated to the lab that the items were not connected to the case and required no further testing.
+Claim: In a hearing clip the host plays, Sergeant Filomena acknowledges that items were sent to the FBI lab and that UVU eventually communicated to the lab that the items were not connected to the case and required no further testing.
 
 Anchored Artifacts: A-2139.2
 Mentions: N-511
@@ -917,11 +917,11 @@ Investigative Direction: Obtain FBI/ATF lab correspondence and UVU communication
 
 ---
 
-**C-3029** Eyewitness Observed Tactical Movement Pattern on Rooftop
+**C-3029** Anonymous Eyewitness Says Rooftop Person Used Tactical Movement Pattern
 
 Claim Timestamp: 00:16:09
 
-Claim: The anonymous eyewitness recorded on September 25 that the rooftop person executed a tactical movement pattern (rising/lowering in 6-foot increments) over approximately 30 seconds before assuming the prone shooting position.
+Claim: In a September 25 recording the host plays, the anonymous eyewitness says the rooftop person executed a tactical movement pattern (rising and lowering in roughly 6-foot increments) over approximately 30 seconds before assuming the prone shooting position.
 
 Anchored Artifacts: A-2140.1
 Related Nodes: N-10717
@@ -933,7 +933,7 @@ Investigative Direction: Compare witness description to rooftop video exhibits a
 
 Claim Timestamp: 00:18:26
 
-Claim: The anonymous eyewitness described the rooftop person as wearing all-black tactical gear with a face mask; could not determine race because skin was covered.
+Claim: In a recording the host plays, the anonymous eyewitness describes the rooftop person as wearing all-black tactical gear with a face mask, and says he could not determine race because all skin was covered.
 
 Anchored Artifacts: A-2140.2
 Related Nodes: N-10717
@@ -1214,7 +1214,7 @@ Investigative Direction: Obtain the hearing transcript and the evidence item log
 
 Claim Timestamp: 00:10:12
 
-Claim: Sergeant Filomena agreed with the questioner that she was requesting both DNA and other types of analysis on the seized items.
+Claim: In a hearing clip the host plays, Sergeant Filomena agrees with the questioner that she was requesting both DNA and other types of analysis on the seized items.
 
 Transcript Snippet: Was a decision at some time made and and you were requesting that both DNA and other type of analysis get done? >> Yes.
 

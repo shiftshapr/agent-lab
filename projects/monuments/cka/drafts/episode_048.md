@@ -993,11 +993,11 @@ Investigative Direction: Obtain raw flight plan and ATC records to verify origin
 
 ---
 
-**C-1965** Coleman Displays RCH658 Flight Las Vegas to Colorado Springs with Missing Transponder Data
+**C-1965** Host Shows RCH658 Flight Las Vegas to Colorado Springs with Missing Transponder Data
 
 Claim Timestamp: 00:39:24
 
-Claim: Baron Coleman displays a flight log showing an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.
+Claim: The host, showing a flight log with guest Baron Coleman, says it shows an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.
 
 Anchored Artifacts: A-1554.1
 Mentions: N-334
@@ -1008,11 +1008,11 @@ Investigative Direction: Obtain radar track records and ADS-B exchange logs for 
 
 ---
 
-**C-1966** Coleman Displays Return Flight Colorado Springs to Andrews as SAM658
+**C-1966** Host Shows Return Flight Colorado Springs to Andrews as SAM658
 
 Claim Timestamp: 00:39:24
 
-Claim: Baron Coleman displays a flight log showing the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.
+Claim: The host, showing a flight log with guest Baron Coleman, says it shows the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.
 
 Anchored Artifacts: A-1554.1
 Mentions: N-334

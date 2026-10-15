@@ -744,7 +744,7 @@ Reported departures of Dr. Deidra Amaro from Utah and of Dr. Andrew and Dr. Ashl
 
 Claim Timestamp: 00:06:16
 
-Claim: The displayed "Play Like a Fangirl" book listing on Penguin Random House identifies "Ashley" (alongside Christine and Tonya) as one of the book's authors.
+Claim: Per the "Play Like a Fangirl" book listing on Penguin Random House that the host shows, "Ashley" (alongside Christine and Tonya) is one of the book's authors.
 
 Anchored Artifacts: A-2217.1
 
@@ -940,7 +940,7 @@ Investigative Direction: Obtain shuttle company records, Intermountain intake lo
 
 Claim Timestamp: 00:25:08
 
-Claim: A patient file for Charlie Kirk was previously confirmed visible in the Utah Valley Hospital / Intermountain Health electronic system, as originally displayed in an October 28, 2025 episode.
+Claim: The host says a patient file for Charlie Kirk was previously confirmed visible in the Utah Valley Hospital / Intermountain Health electronic system, as she originally displayed in an October 28, 2025 episode.
 
 Anchored Artifacts: Referenced from prior episode (originally displayed in earlier episode, not re-displayed here)
 Mentions: N-1

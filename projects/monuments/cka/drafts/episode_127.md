@@ -1135,11 +1135,11 @@ Investigative Direction: Obtain independent corroboration from hospital intake r
 
 ---
 
-**C-3057** Brian Harpole did not personally identify himself as the 911 caller
+**C-3057** Host Says Brian Harpole Did Not Personally Identify Himself as the 911 Caller
 
 Claim Timestamp: 00:26:17–00:27:13
 
-Claim: Brian Harpole, in on-record statements, references a 911 call collectively ("we called 911") without identifying the specific individual who placed the call.
+Claim: The host says Brian Harpole, in his on-record statements, refers to a 911 call collectively ("we called 911") without identifying the specific individual who placed the call.
 
 Anchored Artifacts: (no on-air displayed artifact in this episode beyond host's description of Harpole's prior statements)
 Mentions: N-270

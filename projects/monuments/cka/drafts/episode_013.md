@@ -1109,11 +1109,11 @@ The deletion of Shainer Broderick's Facebook, LinkedIn and Instagram content aft
 
 ## V. Claim Register
 
-**C-1337** Woman seen with shooter on nearby houses' doorbell-camera footage
+**C-1337** Host Says Woman Was Seen With Shooter on Nearby Houses' Doorbell-Camera Footage
 
 Claim Timestamp: 00:00:49
 
-Claim: The episode presents that a woman was captured alongside the shooter in doorbell-camera footage from houses near the venue, and that the FBI had not at the time of the episode publicly released or acknowledged that footage.
+Claim: The host says it has been confirmed that a woman was with the shooter in footage captured by houses near the venue, and that the FBI had not at the time of the episode publicly released or acknowledged that footage.
 
 Anchored Artifacts: A-1196.1
 Mentions: N-145
@@ -1124,11 +1124,11 @@ Investigative Direction: Obtain the underlying doorbell-camera footage independe
 
 ---
 
-**C-1338** George Zinn publicly endorsed Phil Lyman on his campaign website since at least June 2024
+**C-1338** Host Shows George Zinn Endorsement on Phil Lyman's Campaign Website Since at Least June 2024
 
 Claim Timestamp: 00:03:00
 
-Claim: George Zinn was featured as one of approximately twenty endorsers on Phil Lyman's campaign website, with the text present on Wayback Machine no later than 2024-06-06.
+Claim: The host says George Zinn was featured as one of about twenty endorsers on Phil Lyman's campaign website, and shows on the Wayback Machine that the endorsement text was present no later than June 6, 2024.
 
 Anchored Artifacts: A-1197.1, A-1197.2
 Mentions: N-40, N-42, N-61
@@ -1138,11 +1138,11 @@ Investigative Direction: Verify current status of the endorsement on the live Ly
 
 ---
 
-**C-1339** State Farm Stadium memorial venue was secured via White House intervention, displacing a scheduled RV show
+**C-1339** Host Says State Farm Stadium Memorial Venue Was Secured via White House Intervention, Displacing a Scheduled RV Show
 
 Claim Timestamp: 00:01:30
 
-Claim: Turning Point USA did not book State Farm Stadium in advance; the White House placed a personal call to the event coordinator and obtained the date by rescheduling a previously booked RV show.
+Claim: The host says she was told that Turning Point USA did not book State Farm Stadium in advance, and that the White House placed a personal call to the event coordinator and obtained the date by having a previously booked RV show rescheduled.
 
 Anchored Artifacts: A-1198.1
 Mentions: N-1
@@ -1167,11 +1167,11 @@ Investigative Direction: Identify and interview the female speaker; obtain the o
 
 ---
 
-**C-1341** Several new officials appeared in the case around the time of the assassination
+**C-1341** Host Says Several New Officials Appeared in the Case Around the Time of the Assassination
 
 Claim Timestamp: 00:04:53
 
-Claim: Multiple senior officials involved in the case were recent appointments at the time of the event – FBI SAC "Robert BS" (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zanger, Judge Tony F. Graph Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner.
+Claim: The host says multiple senior officials involved in the case were recent appointments at the time of the event: FBI SAC "Robert BS" (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zanger, Judge Tony F. Graph Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner.
 
 Anchored Artifacts: A-1199.1, A-1199.2, A-1199.3, A-1199.4
 Mentions: N-136, N-137, N-138, N-41, N-69
@@ -1182,11 +1182,11 @@ Investigative Direction: Confirm each appointment's date and predecessor; verify
 
 ---
 
-**C-1342** An autopsy of Charlie Kirk was conducted
+**C-1342** Host Says Autopsy of Charlie Kirk Was Conducted
 
 Claim Timestamp: 00:06:17
 
-Claim: Despite public rumors to the contrary, an autopsy of Charlie Kirk was performed.
+Claim: The host says she was told that, despite public rumors to the contrary, an autopsy of Charlie Kirk was performed.
 
 Anchored Artifacts: A-1199.4 (host source)
 Mentions: N-1
@@ -1212,11 +1212,11 @@ Investigative Direction: Confirm against the current Utah Code provision on medi
 
 ---
 
-**C-1344** Netanyahu met on camera with US social-media influencer Deborah Lee
+**C-1344** Host Says Netanyahu Met on Camera With US Social-Media Influencer Deborah Lee
 
 Claim Timestamp: 00:27:00
 
-Claim: Benjamin Netanyahu conducted an on-camera meeting with US influencer Deborah Lee to discuss shaping US opinion, including in the context of Charlie Kirk's assassination.
+Claim: The host says Benjamin Netanyahu conducted an on-camera meeting with US influencers including Deborah Lee to discuss shaping US opinion, including in the context of Charlie Kirk's assassination, and plays a clip in which Lee asks him about it.
 
 Anchored Artifacts: A-1200.1
 Mentions: N-142, N-36, N-1
@@ -1226,11 +1226,11 @@ Investigative Direction: Obtain the original full footage and timestamp metadata
 
 ---
 
-**C-1345** Netanyahu named TikTok and X (and Elon Musk) as the principal social-media platforms of the described "battle"
+**C-1345** Netanyahu Names TikTok and X (and Elon Musk) as Principal Platforms of Described "Battle" in Clip Host Plays
 
 Claim Timestamp: 00:28:34
 
-Claim: In the influencer meeting, Netanyahu identified TikTok and X as the most important battlegrounds, expressed hope that the TikTok deal would go through, and described Elon Musk as a friend to be spoken with.
+Claim: In a clip of the influencer meeting the host plays, Netanyahu identifies TikTok and X as the most important battlegrounds, expresses hope that the TikTok deal will go through, and describes Elon Musk as a friend to be spoken with.
 
 Anchored Artifacts: A-1200.1
 Mentions: N-142, N-143
@@ -1296,11 +1296,11 @@ Investigative Direction: Verify the post is from the same handle the host means;
 
 ---
 
-**C-1350** TikTok Public Policy Manager of Hate Speech since July 2025 is described as a former IDF soldier
+**C-1350** Producer Note Says TikTok Public Policy Manager of Hate Speech Since July 2025 Is a Former IDF Soldier
 
 Claim Timestamp: 00:43:16
 
-Claim: A producer-supplied note identifies "Erika/Erikica Mindle" as a former IDF soldier and as TikTok's Public Policy Manager of Hate Speech since July 2025.
+Claim: A note from the host's producer, which she reads on air, says that "Erika/Erikica Mindle" is a former IDF soldier and TikTok's Public Policy Manager of Hate Speech since July 2025.
 
 Anchored Artifacts: A-1204.1
 Mentions: N-139
@@ -1324,11 +1324,11 @@ Investigative Direction: Verify against FBI press releases; identify the shared 
 
 ---
 
-**C-1352** One of Tyler Robinson's lawyers previously represented Richard Ramirez
+**C-1352** Viewer Comment Says One of Tyler Robinson's Lawyers Previously Represented Richard Ramirez
 
 Claim Timestamp: 00:46:36
 
-Claim: One of Tyler Robinson's defense lawyers, Michael Bert, previously represented Richard Ramirez ("the Nightstalker").
+Claim: A viewer comment the host reads says that one of Tyler Robinson's defense lawyers, Michael Bert, previously represented Richard Ramirez ("the Nightstalker").
 
 Anchored Artifacts: A-1206.1
 Mentions: N-144, N-40

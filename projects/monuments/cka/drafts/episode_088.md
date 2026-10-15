@@ -1048,22 +1048,22 @@ Mentions: N-2
 Related Nodes: N-10582
 Investigative Direction: Obtain the Instagram post directly; verify date, visual content, and any caption.
 
-**C-2664** Trump fired Pam Bondi via social-media statement
+**C-2664** Per Trump Statement Host Reads, Pam Bondi Was Fired
 
 Claim Timestamp: 00:44:55–00:46:02
 
-Claim: Donald Trump announced the firing of Pam Bondi as Attorney General via a social-media statement (read verbatim on air).
+Claim: Per a social-media statement from Donald Trump that the host reads on air, he announced the firing of Pam Bondi as Attorney General.
 
 Anchored Artifacts: A-1935.1
 Mentions: N-5, N-85
 Related Nodes: N-10586
 Investigative Direction: Retrieve the original Truth Social / X post to verify exact language and timestamp.
 
-**C-2665** Todd Blanche named as Acting Attorney General
+**C-2665** Per Trump Statement Host Reads, Todd Blanche Named Acting Attorney General
 
 Claim Timestamp: 00:44:55–00:46:02
 
-Claim: Trump's statement named Deputy Attorney General Todd Blanche to serve as Acting Attorney General.
+Claim: Per Trump's social-media statement that the host reads on air, Deputy Attorney General Todd Blanche will serve as Acting Attorney General.
 
 Anchored Artifacts: A-1935.1
 Mentions: N-541

@@ -600,11 +600,11 @@ Investigative Direction: Obtain the original, unedited SD-card file and compare 
 
 ---
 
-**C-3831** Back-camera shots at other 2025 American Comeback Tour stops were wide-angle
+**C-3831** Nicci Says Back-Camera Shots at Other 2025 Tour Stops Were Wide-Angle
 
 Claim Timestamp: 00:02:17
 
-Claim: Nicci's video shows back-camera shots from American Comeback Tour stops, including Florida State University on February 28, 2025 and the University of Southern California on March 3, 2025, as well as San Francisco, San Diego, Long Beach, Boise and Washington State.
+Claim: In a video by the YouTuber Nicci that the host plays, back-camera shots from American Comeback Tour stops are shown, including Florida State University on February 28, 2025 and the University of Southern California on March 3, 2025, as well as San Francisco, San Diego, Long Beach, Boise and Washington State.
 
 Transcript Snippet: On February 28th, 2025, the American Comeback Tour did a stop at Florida State University and here is the back camera shot.
 

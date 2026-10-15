@@ -1109,11 +1109,11 @@ Investigative Direction: Cross-check segment against Van Susteren's own post-sho
 
 ---
 
-**C-2861** Show Faith by Works LLC registered with FARA on September 18, 2025
+**C-2861** Host Says Show Faith by Works LLC Registered with FARA on September 18, 2025
 
 Claim Timestamp: 00:14:54
 
-Claim: Show Faith by Works LLC filed a FARA registration on September 18, 2025, contracted via Havas Media on behalf of the Israeli Ministry of Foreign Affairs.
+Claim: The host says Show Faith by Works LLC filed a FARA registration on September 18, 2025, contracted via Havas Media on behalf of the Israeli Ministry of Foreign Affairs.
 
 Anchored Artifacts: A-2048.1, A-2054.1
 
@@ -1137,11 +1137,11 @@ Investigative Direction: Compare filing scope to actual deployed activities via 
 
 ---
 
-**C-2863** Clock Tower X LLC registered with FARA on September 18, 2025
+**C-2863** Host Says Clock Tower X LLC Registered with FARA on September 18, 2025
 
 Claim Timestamp: 00:15:34
 
-Claim: Clock Tower X LLC filed a FARA registration on September 18, 2025, contracted via Havas Media on behalf of the Israeli Ministry of Foreign Affairs, for a strategic propaganda plan targeting U.S. antisemitism narrative.
+Claim: The host says Clock Tower X LLC filed a FARA registration on September 18, 2025, contracted via Havas Media on behalf of the Israeli Ministry of Foreign Affairs, for a strategic propaganda plan targeting the U.S. antisemitism narrative.
 
 Anchored Artifacts: A-2049.1, A-2054.1
 
@@ -1180,11 +1180,11 @@ Investigative Direction: Obtain full filing exhibit; verify exact quoted languag
 
 ---
 
-**C-2866** Brad Parscale became Chief Strategy Officer of Salem Media Network in January 2025
+**C-2866** Host Says Brad Parscale Became Chief Strategy Officer of Salem Media Network in January 2025
 
 Claim Timestamp: 00:16:57
 
-Claim: Brad Parscale became Chief Strategy Officer of Salem Media Network in January 2025, placing him simultaneously at Clock Tower X and Salem.
+Claim: The host says Brad Parscale became Chief Strategy Officer of Salem Media Network in January 2025, placing him simultaneously at Clock Tower X and Salem.
 
 Anchored Artifacts: A-2049.1, A-2054.1
 Mentions: N-436
@@ -1199,7 +1199,7 @@ Investigative Direction: Cross-check Salem press releases and LinkedIn / corpora
 
 Claim Timestamp: 00:24:59
 
-Claim: Newsweek page views for the Josh Hammer show display counts of 399, 386, 665, and 355 across four recent videos, indicating negligible audience reach.
+Claim: The host shows Newsweek page view counts for the Josh Hammer show of 399, 386, 665, and 355 across four recent videos and says this indicates negligible audience reach.
 
 Anchored Artifacts: A-2050.1
 Mentions: N-55
@@ -1214,7 +1214,7 @@ Investigative Direction: Capture live Newsweek view counts at multiple points in
 
 Claim Timestamp: 00:31:21
 
-Claim: In April 2025, Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in M-News and long-term strategic services agreements.
+Claim: Per a Salem announcement article the host reads, in April 2025 Salem Media Group announced a landmark deal with Donald Trump Jr. and Lara Trump, including acquisition of a 30% stake in M-News and long-term strategic services agreements.
 
 Anchored Artifacts: A-2051.1
 Mentions: N-33, N-380
@@ -1229,7 +1229,7 @@ Investigative Direction: Obtain Salem's official press release and SEC / corpora
 
 Claim Timestamp: 00:32:23
 
-Claim: Pursuant to the April 2025 deal, Salem acquired a 30% stake in M-News, a mobile news aggregation app co-owned by Donald Trump Jr.
+Claim: Per the Salem announcement article the host reads, pursuant to the April 2025 deal Salem acquired a 30% stake in M-News, a mobile news aggregation app co-owned by Donald Trump Jr.
 
 Anchored Artifacts: A-2051.1
 Mentions: N-33
@@ -1240,11 +1240,11 @@ Investigative Direction: Verify M-News corporate filings; confirm 30% acquisitio
 
 ---
 
-**C-2870** Pam Bondi disbanded the DOJ Foreign Influence Task Force on February 5, 2025
+**C-2870** Host Says Pam Bondi Disbanded the DOJ Foreign Influence Task Force on February 5, 2025
 
 Claim Timestamp: 00:34:17
 
-Claim: Pam Bondi, on her first day as Attorney General, signed an order disbanding the DOJ Foreign Influence Task Force.
+Claim: The host says Pam Bondi, on her first day as Attorney General, signed an order disbanding the DOJ Foreign Influence Task Force; in a clip she plays, Ian Carroll reads the order and says the same.
 
 Anchored Artifacts: A-2052.1, A-2053.1, A-2054.1
 Mentions: N-85, N-131
@@ -1274,7 +1274,7 @@ Investigative Direction: Compare DOJ internal guidance before and after February
 
 Claim Timestamp: 00:36:54
 
-Claim: Harmeet Dhillon was sworn in on April 7, 2025 as Assistant Attorney General for Civil Rights at the U.S. Department of Justice.
+Claim: Per a timeline the host shows, Harmeet Dhillon was sworn in on April 7, 2025 as Assistant Attorney General for Civil Rights at the U.S. Department of Justice.
 
 Anchored Artifacts: A-2054.1
 Mentions: N-379
@@ -1299,11 +1299,11 @@ Investigative Direction: Verify via FARA filing registrant of record and any dis
 
 ---
 
-**C-2874** Charlie Kirk sent September 9, 2025 group message declaring departure from pro-Israel cause
+**C-2874** Host Says Charlie Kirk Sent September 9, 2025 Group Message Declaring Departure from Pro-Israel Cause
 
 Claim Timestamp: 00:22:23
 
-Claim: On September 9, 2025, Charlie Kirk sent a group text declaring he had been "given no choice but to abandon the pro-Israel cause" due to bullying and financial pressure.
+Claim: The host says Charlie Kirk sent a group text on September 9, 2025 declaring he had been "given no choice but to abandon the pro-Israel cause" due to bullying and financial pressure.
 
 Anchored Artifacts: A-2060.1
 Mentions: N-1, N-55
@@ -1328,11 +1328,11 @@ Investigative Direction: Cross-check with FARA activity reports; obtain any devi
 
 ---
 
-**C-2876** Project 545 represents a $545 million Israeli propaganda initiative
+**C-2876** Host Says Project 545 Represents a $545 Million Israeli Propaganda Initiative
 
 Claim Timestamp: 00:39:40
 
-Claim: Project 545 refers to a $545 million State of Israel Ministry of Foreign Affairs propaganda initiative, the funding basis for the Clock Tower X / Show Faith by Works contracts.
+Claim: The host says Project 545 refers to a $545 million State of Israel Ministry of Foreign Affairs propaganda initiative, the funding basis for the Clock Tower X / Show Faith by Works contracts; she says she believes this is the amount.
 
 Anchored Artifacts: A-2055.1
 
@@ -1361,7 +1361,7 @@ Investigative Direction: Obtain the actual April 2 court order; verify which cla
 
 Claim Timestamp: 00:47:29
 
-Claim: Following the April 2 ruling, Blake Lively issued a public statement asserting that the ruling "allows the heart of my case to be presented to a jury next month."
+Claim: Per a statement from Blake Lively that the host reads, issued after the April 2 ruling, the ruling "allows the heart of my case to be presented to a jury next month."
 
 Anchored Artifacts: A-2056.1
 Mentions: N-490
@@ -1372,11 +1372,11 @@ Investigative Direction: Verify against Lively's official public statement archi
 
 ---
 
-**C-2879** Community Notes flagged Blake Lively's statement as misleading by omission
+**C-2879** Host Says Community Notes Flagged Blake Lively's Statement as Misleading by Omission
 
 Claim Timestamp: 00:48:28
 
-Claim: Community Notes appended to Blake Lively's statement characterized her framing as "misleading the public and lying by omission with this truncated cherry-picked snippets."
+Claim: The host says Community Notes appended to Blake Lively's statement said she is "misleading the public and lying by omission with this truncated cherry-picked snippets."
 
 Anchored Artifacts: A-2057.1
 Mentions: N-490
@@ -1387,11 +1387,11 @@ Investigative Direction: Obtain screenshot of the Community Notes annotation; ca
 
 ---
 
-**C-2880** Deadpool & Wolverine included "Nice Pool" character parodying Justin Baldoni
+**C-2880** Host Says Deadpool & Wolverine Included "Nice Pool" Character Parodying Justin Baldoni
 
 Claim Timestamp: 00:50:04
 
-Claim: Deadpool & Wolverine included a "Nice Pool" character and scene mocking Justin Baldoni, with Blake Lively playing "Mrs. Pool."
+Claim: The host says Deadpool & Wolverine included a "Nice Pool" character and scene mocking Justin Baldoni, with Blake Lively playing "Mrs. Pool"; she plays a clip.
 
 Anchored Artifacts: A-2058.1
 Mentions: N-490, N-491, N-381, N-382
@@ -1402,11 +1402,11 @@ Investigative Direction: Verify via official film credits and supplementary mark
 
 ---
 
-**C-2881** Deadpool deleted scenes continued Baldoni mockery
+**C-2881** Host Says Deadpool Deleted Scenes Continued Baldoni Mockery
 
 Claim Timestamp: 00:50:30
 
-Claim: Deleted scenes from Deadpool & Wolverine contained additional content mocking Justin Baldoni, including a "podcast that monetizes the women's movement" line.
+Claim: The host says deleted scenes from Deadpool & Wolverine contained additional content mocking Justin Baldoni, including a "podcast that monetizes the women's movement" line.
 
 Anchored Artifacts: A-2058.2
 Mentions: N-491
@@ -1417,11 +1417,11 @@ Investigative Direction: Obtain deleted scene footage or trade press reporting o
 
 ---
 
-**C-2882** Justin Baldoni watched It Ends With Us premiere from theater basement
+**C-2882** Host Says Justin Baldoni Watched It Ends With Us Premiere from Theater Basement
 
 Claim Timestamp: 00:51:57
 
-Claim: At the It Ends With Us premiere, Justin Baldoni was seated in the basement of the theater while A-list attendees were upstairs, per footage displayed on the episode.
+Claim: The host says the footage she shows shows that, at the It Ends With Us premiere, Justin Baldoni was seated in the basement of the theater while A-list attendees were upstairs.
 
 Anchored Artifacts: A-2059.1
 Mentions: N-490, N-491, N-382

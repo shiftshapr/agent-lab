@@ -981,11 +981,11 @@ Investigative Direction: Obtain the full October 2023 TPUSA email thread and cro
 
 ---
 
-**C-1599** UVU Request Timing Deviation
+**C-1599** Host Says UVU Request Timing Deviated From Standard TPUSA Planning
 
 Claim Timestamp: 00:02:39–00:03:30
 
-Claim: A UVU request for Charlie Kirk to speak on campus was received in mid-July 2025 and approved approximately six weeks later for a September 2025 event date, deviating from the standard TPUSA multi-month planning window.
+Claim: The host says a UVU request for Charlie Kirk to speak on campus was received in mid-July 2025 and approved approximately six weeks later for a September 2025 event date, deviating from the standard TPUSA multi-month planning window.
 
 Anchored Artifacts: A-1333.2
 Mentions: N-1
@@ -1115,7 +1115,7 @@ Investigative Direction: Identify the original poster accounts and verify the or
 
 Claim Timestamp: 00:24:28–00:25:20
 
-Claim: Brett Cooper appeared on the Shawn Ryan Show and discussed her mother's visits to mediums following the death of her twin brother.
+Claim: The host plays a clip of Brett Cooper on the Shawn Ryan Show discussing her mother's visits to mediums, and says the visits followed the death of her twin brother.
 
 Anchored Artifacts: A-1338.1
 Mentions: N-225, N-228
@@ -1201,7 +1201,7 @@ Investigative Direction: N/A – host-stance claim linked to source artifact.
 
 Claim Timestamp: 00:14:20–00:15:05
 
-Claim: A CNN exit poll of approximately 4,700 respondents indicates Zohran Mamdani received approximately 32% of the Jewish vote in the NYC mayoral election.
+Claim: Mark, a member of the show's production team, says a CNN exit poll of approximately 4,700 respondents indicates Zohran Mamdani received approximately 32% of the Jewish vote in the NYC mayoral election.
 
 Anchored Artifacts: A-1342.1
 Mentions: N-67, N-227

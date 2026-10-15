@@ -1246,7 +1246,7 @@ Investigative Direction: Determine the actual interval between Candace's receipt
 
 Claim Timestamp: 00:12:01
 
-Claim: The Quartering publicly posed the question of what the released texts actually prove beyond the fact that someone close to Kirk leaked them.
+Claim: Per a post by The Quartering that the host reads, he publicly asked, assuming the released texts are real, what they actually prove beyond the fact that someone close to Kirk leaked them.
 
 Anchored Artifacts: A-1227.7
 Mentions: N-1, N-160
@@ -1318,7 +1318,7 @@ Investigative Direction: Verify through TPUSA / Turning Point UK records John Ma
 
 Claim Timestamp: 00:04:56
 
-Claim: Writer/producer Conrad Flynn appeared on Tucker Carlson's show and discussed the figure of Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting his own wife's intuition about guests.
+Claim: In a clip the host plays, writer/producer Conrad Flynn appears on Tucker Carlson's show and discusses the figure of Pontius Pilate's wife as a prophetic dreamer, with Carlson recounting his own wife's intuition about guests.
 
 Anchored Artifacts: A-1230.1
 Mentions: N-159, N-22
@@ -2172,7 +2172,7 @@ Investigative Direction: Identify the interviewed witnesses and the outlets that
 
 Claim Timestamp: 00:29:40
 
-Claim: Robert J. O'Neill refers to the soliloquy of text messages that 22-year-olds do not send their transgender lover as another reason the official story needs investigating.
+Claim: In a clip the host plays of Piers Morgan's show, former Navy SEAL Robert J. O'Neill refers to the soliloquy of text messages that 22-year-olds do not send their transgender lover as another reason the official story needs investigating.
 
 Transcript Snippet: saliloquy of text messages that 22-year-olds don't send their translover
 

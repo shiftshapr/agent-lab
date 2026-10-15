@@ -1019,18 +1019,18 @@ Investigative Direction: Track bounty submissions received through candaceowens.
 
 Claim Timestamp: 00:33:09
 
-Claim: Baron Coleman publicly commented on the WHCD media coverage, noting Erika Kirk's emergence as a focal point of the event alongside the ballroom announcement.
+Claim: In a clip the host plays, Baron Coleman comments on the WHCD media coverage, saying Erika Kirk and the ballroom announcement became the focal points of the event; the host agrees.
 
 Anchored Artifacts: A-2008.4
 Mentions: N-2, N-334
 Related Nodes: N-10637
 Investigative Direction: Pull Baron Coleman's clip or post directly for full context.
 
-**C-2795** Erika Kirk released a pre-recorded 9-minute video statement
+**C-2795** Host Says Erika Kirk Released a Pre-Recorded 9-Minute Video Statement
 
 Claim Timestamp: 00:37:46
 
-Claim: Erika Kirk published a 9-minute pre-recorded video statement, with the remaining portion of her show consisting of Charlie Kirk clips.
+Claim: The host says Erika Kirk published a 9-minute pre-recorded video statement, with the remaining almost two hours of her show consisting of Charlie Kirk clips.
 
 Anchored Artifacts: A-2009.1, A-2009.2, A-2009.3, A-2009.4
 Mentions: N-2, N-1
@@ -1063,7 +1063,7 @@ Investigative Direction: Search Candace Owens' full podcast archive for any expl
 
 Claim Timestamp: 00:42:09
 
-Claim: In her pre-recorded statement, Erika Kirk criticized journalists present at the dinner for using their phones to capture video during what she described as an active shooting situation.
+Claim: In a pre-recorded statement the host plays, Erika Kirk criticizes journalists present at the dinner for using their phones to capture video during what she describes as an active shooting situation.
 
 Anchored Artifacts: A-2009.2
 Mentions: N-2
@@ -1074,18 +1074,18 @@ Investigative Direction: Cross-reference against the Sarah Sidner footage and ot
 
 Claim Timestamp: 00:45:38
 
-Claim: In her pre-recorded statement, Erika Kirk criticized Jimmy Kimmel's joke about Melania Trump having "the glow of an expected widow."
+Claim: In a pre-recorded statement the host plays, Erika Kirk criticizes Jimmy Kimmel's joke about Melania Trump having "the glow of an expected widow."
 
 Anchored Artifacts: A-2009.3
 Mentions: N-2, N-3, N-87
 Related Nodes: N-10639
 Investigative Direction: Verify Kimmel's original monologue; confirm Erika's quotation is accurate.
 
-**C-2800** Taro Farnsworth recorded video at Charlie Kirk shooting scene
+**C-2800** Host Says Taro Farnsworth Recorded Video at Charlie Kirk Shooting Scene
 
 Claim Timestamp: 00:43:54
 
-Claim: Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds of the incident, stating "They just shot Charlie."
+Claim: The host says Taro Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds (she also says not even a minute) of the incident; in a clip she plays, he says "They just shot Charlie."
 
 Anchored Artifacts: A-2010.1
 Mentions: N-265, N-1

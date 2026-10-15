@@ -1317,10 +1317,10 @@ The host's allegation, sourced to people fired from TPUSA, that Alex Clark deman
 
 ## 5. Claim Register
 
-**C-2378** Erika Kirk (then Frandsen) met Jillian Falcon in Michigan on September 15, 2013 when Erika was 25 and Jillian was 15
+**C-2378** Per Nicey Clip, Erika Kirk (Then Frandsen) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15
 
 Claim Timestamp: 00:02:07
-Claim: Episode presents that Erika Kirk (then Erika Frandsen), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.
+Claim: In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frandsen), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.
 Anchored Artifacts: A-1780.1, A-1781.1
 Mentions: N-570, N-571, N-572, N-2
 Investigative Direction: Pull Jillian's original Sept 15, 2013 X/Twitter posts directly and corroborate against contemporaneous Michigan venue records.
@@ -1337,30 +1337,30 @@ Investigative Direction: Re-interview Jillian (now adult) directly and document 
 
 ---
 
-**C-2380** Erika sent Jillian messages including "I don't bat for the other team just yet"
+**C-2380** Nicey Clip Shows Erika Messages to Jillian Including "I don't bat for the other team just yet"
 
 Claim Timestamp: 00:05:48
-Claim: Episode presents that on or about 2014-03-06, Erika Kirk sent Jillian Falcon text messages including "Sex. Sex, too, but not from you. lol." and "You always make me laugh. I don't bat for the other team just yet."
+Claim: In a video by YouTuber Nicey that the host plays, Nicey presents text messages Jillian Falcon posted, in which Erika Kirk on or about 2014-03-06 sent Jillian "Sex. Sex, too, but not from you. lol." and "You always make me laugh. I don't bat for the other team just yet."
 Anchored Artifacts: A-1781.3, A-1782.1, A-1782.2, A-1782.3
 Mentions: N-571, N-2
 Investigative Direction: Obtain original screenshots and verify posting metadata on Jillian's X/Twitter account.
 
 ---
 
-**C-2381** Erika sent Jillian messages instructing her not to drink or eat salt before an unspecified evening event
+**C-2381** Nicey Clip Shows Erika Telling Jillian to Avoid Alcohol and Salt Before an Unspecified Evening Event
 
 Claim Timestamp: 00:05:48
-Claim: Episode presents that on or about 2014-03-13, Erika texted Jillian: "I forgot to tell you hydrate tonight. No alcohol and don't eat a lot of salty foods. You don't want to look bloated."
+Claim: In a video by YouTuber Nicey that the host plays, Nicey presents a text Jillian Falcon posted on March 13, 2014, in which Erika Kirk wrote: "I forgot to tell you hydrate tonight. No alcohol and don't eat a lot of salty foods. You don't want to look bloated."
 Anchored Artifacts: A-1781.4, A-1782.4
 Mentions: N-571
 Investigative Direction: Compare against the same-day Jillian social-media activity to identify the referenced event and whether a photo session took place.
 
 ---
 
-**C-2382** Erika's "no alcohol / hydrate" text exchange was in reference to an arranged photo session, not an outing together
+**C-2382** Host Says Erika's "No Alcohol / Hydrate" Texts Referred to an Arranged Photo Session, Not an Outing Together
 
 Claim Timestamp: 00:15:15
-Claim: Episode presents that the hydration/alcohol text exchange was tied to a photo session Erika had arranged for Jillian via a third-party photographer, rather than to an event Erika and Jillian attended together.
+Claim: The host says, relaying what Jillian Falcon told her, that the hydration/alcohol text exchange was tied to a photo session Erika had arranged for Jillian via a third-party photographer, rather than to an event Erika and Jillian attended together.
 Anchored Artifacts: A-1781.4, A-1782.4
 Mentions: N-571, N-574
 Related Nodes: N-10513
@@ -1378,30 +1378,30 @@ Investigative Direction: Locate the original image file and verify its posting d
 
 ---
 
-**C-2384** Erika sent Jillian chocolate-covered strawberries with a hand-signed personal card for Jillian's 16th birthday
+**C-2384** Nicey Clip Shows Erika Sending Jillian Chocolate-Covered Strawberries with a Personal Card for Her 16th Birthday
 
 Claim Timestamp: 00:07:30
-Claim: Episode presents that on or about 2014-04-05, Erika Kirk sent Jillian Falcon a red box of chocolate-covered strawberries and other desserts accompanied by a handwritten card reading "Happy sweet 16, beautiful girl… Love you, E."
+Claim: In a video by YouTuber Nicey that the host plays, Nicey says that on or about 2014-04-05 Erika Kirk sent Jillian Falcon a red box of chocolate-covered strawberries and other desserts accompanied by a handwritten card reading "Happy sweet 16, beautiful girl… Love you, E."
 Anchored Artifacts: A-1781.8, A-1783.1
 Mentions: N-571, N-2
 Investigative Direction: Obtain the original photo from Jillian's X/Twitter post and, if feasible, the physical card for handwriting comparison.
 
 ---
 
-**C-2385** Erika told Jillian she had "the most stunning features" and was "absolutely beautiful"
+**C-2385** Nicey Clip Shows Erika Telling Jillian She Had "the most stunning features" and Was "absolutely beautiful"
 
 Claim Timestamp: 00:07:30
-Claim: Episode presents that on or about 2014-06-07, Erika texted Jillian: "You have the most stunning features… Your eyes, your lips, your skin, you're absolutely beautiful."
+Claim: In a video by YouTuber Nicey that the host plays, Nicey presents a screenshot Jillian Falcon shared on June 7, 2014, in which Erika Kirk texted Jillian: "You have the most stunning features… Your eyes, your lips, your skin, you're absolutely beautiful."
 Anchored Artifacts: A-1781.9, A-1782.6
 Mentions: N-571
 Investigative Direction: Obtain the original screenshot and verify against Jillian's X/Twitter posting history.
 
 ---
 
-**C-2386** Erika publicly commented on Jillian's Instagram photo calling her "a dime piece beside the car"
+**C-2386** Host Says Erika Publicly Commented on Jillian's Instagram Photo Calling Her "a dime piece beside the car"
 
 Claim Timestamp: 00:14:26
-Claim: Episode presents that Erika Kirk commented on an Instagram photo of Jillian Falcon standing beside a car, writing "That dime piece beside the car though."
+Claim: The host says, relaying what Jillian Falcon told her, that Erika Kirk commented on an Instagram photo of Jillian standing beside a car, writing "That dime piece beside the car though."
 Anchored Artifacts: A-1784.4
 Mentions: N-571, N-2
 Investigative Direction: Pull the original Instagram comment from Jillian's account (now possibly deleted) via archived snapshots or Jillian's own records.

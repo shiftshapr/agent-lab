@@ -1089,7 +1089,7 @@ Investigative Direction: Verify great-grandfather's law enforcement service in t
 
 Claim Timestamp: 00:05:39
 
-Claim: The grandfather asserts a .30-06 round would not have produced the wound damage publicly described in the case.
+Claim: In a clip the host plays, Tyler Robinson's grandfather says that a .30-06 round would not have produced the wound damage publicly described in the case; the host agrees.
 
 Anchored Artifacts: A-1993.1
 Mentions: N-40
@@ -1172,11 +1172,11 @@ Investigative Direction: Determine jurisdictional basis for federal custody of e
 
 ---
 
-**C-2772** Prosecution Plans 35 Exhibits at Probable Cause Hearing
+**C-2772** Host Says Prosecution Plans 35 Exhibits at Probable Cause Hearing
 
 Claim Timestamp: 00:11:37
 
-Claim: The prosecution reportedly plans to present 35 exhibits at the probable cause hearing.
+Claim: The host says the prosecution is planning to present 35 exhibits at the probable cause hearing.
 
 Anchored Artifacts: A-1994.1
 
@@ -1310,7 +1310,7 @@ Investigative Direction: Verify date and source of the video; consider whether t
 
 Claim Timestamp: 00:40:54
 
-Claim: Milo Yiannopoulos published a written piece stating Laura Loomer has been diagnosed at various times with bipolar disorder, histrionic personality disorder, borderline personality disorder, and narcissistic personality disorder.
+Claim: The host reads a piece that she says Milo Yiannopoulos wrote and published, which states that Laura Loomer has been diagnosed at various times with bipolar disorder, histrionic personality disorder, borderline personality disorder, and narcissistic personality disorder.
 
 Anchored Artifacts: A-2000.1
 Mentions: N-224, N-60
@@ -1366,11 +1366,11 @@ Investigative Direction: Verify tweet and any linked court filings; check Davids
 
 ---
 
-**C-2785** Insurance/Court Record Shows $6,987 Payment to Tracy Robinson
+**C-2785** Host Says Insurance Paid Tracy Robinson $6,987
 
 Claim Timestamp: 00:49:11
 
-Claim: A court or insurance record displayed on air shows a $6,987 payment to Tracy Robinson.
+Claim: The host says her insurance paid Tracy Robinson $6,987 and shows a court or insurance record on air; she says the payment followed a fender bender with her husband.
 
 Anchored Artifacts: A-2003.1
 
@@ -1414,7 +1414,7 @@ Investigative Direction: Cross-reference with prior episodes where similar claim
 
 Claim Timestamp: 01:01:45
 
-Claim: A YouTube commenter (Queen Saxi) raises the question of whether Tyler Robinson's roommate helped set him up, citing similar build and dark hair and his absence.
+Claim: A YouTube comment from Queen Saxi that the host reads asks whether Tyler Robinson's roommate helped set him up, citing similar build and dark hair and his absence.
 
 Anchored Artifacts: A-2005.10
 Mentions: N-40

@@ -1485,8 +1485,8 @@
       "@type": "Claim",
       "@id": "C-3399",
       "ref": "C-3399",
-      "label": "Erika Kirk's Op-Ed Recounts Telling Second Lady Usha Vance \"I Don't Know How I'm Going to Do This\"",
-      "claim": "In her NYT op-ed, Erika Kirk recounts telling Second Lady Usha Vance \"I don't know how I'm going to do this\" on the day after Charlie Kirk was shot.",
+      "label": "Per Op-Ed Host Reads, Erika Kirk Recounts Telling Second Lady Usha Vance \"I Don't Know How I'm Going to Do This\"",
+      "claim": "Per the New York Times op-ed by Erika Kirk that the host reads, Erika Kirk recounts telling Second Lady Usha Vance \"I don't know how I'm going to do this\" on the day after Charlie Kirk was shot.",
       "anchored_artifacts": [
         "A-2348.1"
       ],
@@ -1505,8 +1505,8 @@
       "@type": "Claim",
       "@id": "C-3400",
       "ref": "C-3400",
-      "label": "Erika Kirk's Op-Ed Cites Usha Vance's \"15 Minutes\" Airplane Analogy About Grief",
-      "claim": "In her NYT op-ed, Erika Kirk cites Usha Vance's \"15 minutes\" airplane analogy about grief – that the worst stretch is like a plane descending with screaming children before landing.",
+      "label": "Per Op-Ed Host Reads, Erika Kirk Cites Usha Vance's \"15 Minutes\" Airplane Analogy About Grief",
+      "claim": "Per the New York Times op-ed by Erika Kirk that the host reads, Erika Kirk cites Usha Vance's \"15 minutes\" airplane analogy about grief, in which the worst stretch is like a plane about to land with screaming children.",
       "anchored_artifacts": [
         "A-2348.1"
       ],
@@ -1542,8 +1542,8 @@
       "@type": "Claim",
       "@id": "C-3402",
       "ref": "C-3402",
-      "label": "Erika Kirk's Op-Ed Closes With Reference to \"A Dear Friend\" Telling Her to \"Just Get Through the Next 15 Minutes\"",
-      "claim": "In her NYT op-ed, the closing lines reference \"a dear friend\" telling the author to \"just get through the next 15 minutes,\" with the \"15 minutes\" phrase repeated as a refrain.",
+      "label": "Per Op-Ed Host Reads, Erika Kirk Closes With Reference to \"A Dear Friend\" Telling Her to \"Just Get Through the Next 15 Minutes\"",
+      "claim": "Per the New York Times op-ed by Erika Kirk that the host reads, the closing lines reference \"a dear friend\" telling the author to \"just get through the next 15 minutes,\" with the \"15 minutes\" phrase repeated as a refrain.",
       "anchored_artifacts": [
         "A-2348.1"
       ],

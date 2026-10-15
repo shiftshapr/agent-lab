@@ -2019,8 +2019,8 @@
       "@type": "Claim",
       "@id": "C-2326",
       "ref": "C-2326",
-      "label": "Nielsen Super Bowl Viewership Increase During Halftime",
-      "claim": "Nielsen estimates 128 million viewers watched the Super Bowl game, increasing to 135 million during the halftime performance.",
+      "label": "Host Says Nielsen Super Bowl Viewership Increased During Halftime",
+      "claim": "The host says Nielsen estimates 128 million viewers watched the Super Bowl game, increasing to 135 million during the halftime performance.",
       "anchored_artifacts": [
         "A-1750.1"
       ],
@@ -2092,7 +2092,7 @@
       "@id": "C-2330",
       "ref": "C-2330",
       "label": "TPUSA Halftime YouTube Screenshot Metrics",
-      "claim": "A YouTube screenshot of the TPUSA halftime show page displayed 5,839 views, 175 comments, and 667,000 likes.",
+      "claim": "The host shows a YouTube screenshot of the TPUSA halftime show page that she says displayed 5,839 views, 175 comments, and 667,000 likes.",
       "anchored_artifacts": [
         "A-1752.1"
       ],
@@ -2140,7 +2140,7 @@
       "@id": "C-2333",
       "ref": "C-2333",
       "label": "Erica Kirk Widow Address View Counts",
-      "claim": "Erica Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.",
+      "claim": "The host says Erica Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.",
       "anchored_artifacts": [
         "A-1754.1"
       ],
@@ -2176,7 +2176,7 @@
       "@id": "C-2335",
       "ref": "C-2335",
       "label": "TPUSA Halftime Show View-to-Comment Ratio",
-      "claim": "The TPUSA halftime show YouTube page reportedly has over 20 million views but only 46,000 comments.",
+      "claim": "The host says the TPUSA halftime show YouTube page has over 20 million views but only 46,000 comments.",
       "anchored_artifacts": [
         "A-1756.1"
       ],
@@ -2192,7 +2192,7 @@
       "@id": "C-2336",
       "ref": "C-2336",
       "label": "Thomas Martin LinkedIn Profile",
-      "claim": "A LinkedIn profile lists Thomas Martin as Director, US Border Patrol, with location in the Greater Tucson area.",
+      "claim": "Per a LinkedIn link the host shows, Thomas Martin is listed as Director, US Border Patrol, with location in the Greater Tucson area.",
       "anchored_artifacts": [
         "A-1757.1"
       ],
@@ -2211,7 +2211,7 @@
       "@id": "C-2337",
       "ref": "C-2337",
       "label": "Thomas Martin ZoomInfo DHS Profile",
-      "claim": "A ZoomInfo listing shows Thomas Martin as Deputy Chief Patrol Agent at the Department of Homeland Security, with 9 years in Customs and Border Protection.",
+      "claim": "Per a ZoomInfo listing the host shows, Thomas Martin is Deputy Chief Patrol Agent at the Department of Homeland Security, with 9 years in Customs and Border Protection.",
       "anchored_artifacts": [
         "A-1757.2"
       ],
@@ -2288,8 +2288,8 @@
       "@type": "Claim",
       "@id": "C-2341",
       "ref": "C-2341",
-      "label": "Tracy's Bad Feeling Stopped Daughter from UVU",
-      "claim": "Per Tracy Martin's text messages, Tracy had a \"bad feeling\" about September 10 and stopped her daughter from attending UVU.",
+      "label": "Host Says Tracy's Bad Feeling Stopped Daughter from UVU",
+      "claim": "Per text messages from September 11th that the host says she has, Tracy Martin told friends she had a \"bad feeling\" about September 10 and stopped her daughter from attending UVU.",
       "anchored_artifacts": [
         "A-1759.1"
       ],
@@ -2329,7 +2329,7 @@
       "@id": "C-2343",
       "ref": "C-2343",
       "label": "Seth Dillon Hamptons \"Save the West\" Characterization",
-      "claim": "Seth Dillon characterized the Hamptons retreat as having a \"save the West\" theme with primary focus on \"the threat of Islam.\"",
+      "claim": "In a clip the host plays, Seth Dillon says the Hamptons retreat had a \"save the West\" theme with primary focus on \"the threat of Islam.\"",
       "anchored_artifacts": [
         "A-1760.1"
       ],
@@ -2347,8 +2347,8 @@
       "@type": "Claim",
       "@id": "C-2344",
       "ref": "C-2344",
-      "label": "Seth Dillon Hamptons Heated Debate Admission",
-      "claim": "Seth Dillon admitted the Hamptons meeting included \"heated and spirited debate about the issue of Israel.\"",
+      "label": "Host Calls Seth Dillon's Hamptons Heated Debate Remark an Admission",
+      "claim": "In a clip the host plays, Seth Dillon says the Hamptons meeting included \"heated and spirited debate about the issue of Israel,\" which the host characterizes as an admission.",
       "anchored_artifacts": [
         "A-1760.1"
       ],
@@ -2386,8 +2386,8 @@
       "@type": "Claim",
       "@id": "C-2346",
       "ref": "C-2346",
-      "label": "Carrie Prejean Bowler Questioned Seth Dillon",
-      "claim": "Carrie Prejean Bowler questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.",
+      "label": "Host Says Carrie Prejean Bowler Questioned Seth Dillon",
+      "claim": "The host says Carrie Prejean Bowler questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.",
       "anchored_artifacts": [
         "A-1760.2"
       ],

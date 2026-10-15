@@ -634,10 +634,10 @@ Marx's account of missions to Iraq beginning in 2015 at the Kurdistan government
 
 ## 5. Claim Register
 
-**C-3702** Victor Marx first to announce Kirk death on Instagram ~1.5 hours before president
+**C-3702** Host Says Victor Marx Was First to Announce Kirk Death on Instagram About 1.5 Hours Before President
 
 Claim Timestamp: 00:01:24
-Claim: Episode presents that Victor Marx was the first to publicly announce Charlie Kirk's passing via Instagram, approximately 1.5 hours before the U.S. president's announcement.
+Claim: The host says Victor Marx was the first she could find to publicly announce Charlie Kirk's passing via Instagram, approximately 1.5 hours before the U.S. president's announcement.
 Transcript Snippet: first that we could find to publicly announce that Charlie Kirk had passed away on September 10th
 Anchored Artifacts: A-2505.1
 Mentions: N-1, N-345
@@ -646,10 +646,10 @@ Investigative Direction: Verify Instagram timestamp via archived captures; cross
 
 ---
 
-**C-3703** Victor and Eileen Marx welcomed into Erika Kirk's home after body returned
+**C-3703** Host Says Victor and Eileen Marx Were Welcomed into Erika Kirk's Home After Body Returned
 
 Claim Timestamp: 00:01:24
-Claim: Episode presents that Victor Marx and his wife Eileen were among the small circle welcomed into Erika Kirk's home after Charlie's body was brought back aboard Air Force 2.
+Claim: The host says Victor Marx and his wife Eileen were among the small circle of people welcomed into Erika Kirk's home after Charlie's body was brought back aboard Air Force 2.
 Anchored Artifacts: A-2505.1
 Mentions: N-2, N-345, N-347
 Investigative Direction: Verify via photographic evidence and corroboration from family/close associates.
@@ -687,20 +687,20 @@ Investigative Direction: Obtain original social media posts via archived capture
 
 ---
 
-**C-3707** Old Victor Marx website listed him as pastor
+**C-3707** Host Says Old Victor Marx Website Listed Him as Pastor
 
 Claim Timestamp: 00:10:09
-Claim: Episode presents that Victor Marx's website previously listed him as 'husband, father, US Marine, pastor,' quietly removed.
+Claim: The host says Victor Marx's website previously listed him as 'husband, father, US Marine, pastor,' and that this was quietly removed.
 Anchored Artifacts: A-2509.1
 Mentions: N-345
 Investigative Direction: Retrieve archived versions of Victor Marx's website via Wayback Machine.
 
 ---
 
-**C-3708** Victor Marx website claimed rescue of 45,000 women and children
+**C-3708** Host Shows Victor Marx Website Claiming Rescue of 45,000 Women and Children
 
 Claim Timestamp: 01:13:44
-Claim: Episode displays victor2026.com website text stating Victor Marx 'rescued more than 45,000 women and children.'
+Claim: Per the victor2026.com website text the host shows during the interview, Victor Marx 'rescued more than 45,000 women and children.'
 Transcript Snippet: a high-risk humanitarian who has rescued more than 45,000 women and children
 Anchored Artifacts: A-2509.2
 Mentions: N-345
@@ -731,10 +731,10 @@ Investigative Direction: Obtain certified DD-214 to verify service length and da
 
 ---
 
-**C-3711** Victor Marx prayed for Charlie Kirk and others at TPUSA HQ
+**C-3711** Victor Marx Says He Prayed for Charlie Kirk and Others at TPUSA HQ
 
 Claim Timestamp: 00:42:11
-Claim: Victor Marx confirms he prayed for Charlie Kirk and three other people at Turning Point USA HQ offices.
+Claim: Victor Marx, the guest, says in his interview with the host that he prayed for Charlie Kirk (in Kirk's office) and three other people at Turning Point USA HQ offices.
 Anchored Artifacts: A-2510.1
 Mentions: N-1, N-345, N-348
 Investigative Direction: Verify with Turning Point USA personnel and any session records or correspondence.
@@ -744,7 +744,7 @@ Investigative Direction: Verify with Turning Point USA personnel and any session
 **C-3712** Victor Marx states he entered Gaza via special operations teams
 
 Claim Timestamp: 01:09:11
-Claim: Victor Marx asserts he entered Gaza by virtue of special operations teams to pray and assist Palestinian children injured.
+Claim: Victor Marx, the guest, says in his interview with the host that he entered Gaza by virtue of special operations teams, to pray and to help injured Palestinian children.
 Anchored Artifacts: A-2510.1
 Mentions: N-345
 Related Nodes: N-10601
@@ -777,7 +777,7 @@ Investigative Direction: Verify against official Israeli inquiry findings and ID
 **C-3715** Victor Marx states he helped 6,000 children in Israel post-Oct 7
 
 Claim Timestamp: 01:09:11
-Claim: Victor Marx asserts his team helped 6,000 children affected by the Hamas-Israel war via invitation from an Israel-based nonprofit.
+Claim: Victor Marx, the guest, says in his interview with the host that his team helped 6,000 children affected by the Hamas-Israel war, via an invitation from an Israel-based nonprofit.
 Anchored Artifacts: A-2510.1
 Mentions: N-345
 Investigative Direction: Verify against partner nonprofit documentation and beneficiary records.
@@ -787,7 +787,7 @@ Investigative Direction: Verify against partner nonprofit documentation and bene
 **C-3716** Victor Marx denies ever declaring 45,000 rescued, calls wording 'helped'
 
 Claim Timestamp: 00:56:05
-Claim: Victor Marx denies ever stating or writing that 45,000 were rescued; asserts organization 'helped' rather than 'rescued' that number.
+Claim: Victor Marx, the guest, says in his interview with the host that he and his organization never stated or wrote that they rescued 45,000, and that they 'helped' rather than 'rescued' that number.
 Transcript Snippet: Nowhere…have I ever declared…that I ever rescued 45,000 women or children
 Anchored Artifacts: A-2509.2, A-2510.1
 Mentions: N-345

@@ -1082,11 +1082,11 @@ The host's 2018 written exchange with Charlie Kirk about his third eye and what 
 
 ## V. Claim Register
 
-**C-2326** Nielsen Super Bowl Viewership Increase During Halftime
+**C-2326** Host Says Nielsen Super Bowl Viewership Increased During Halftime
 
 Claim Timestamp: 00:05:06
 
-Claim: Nielsen estimates 128 million viewers watched the Super Bowl game, increasing to 135 million during the halftime performance.
+Claim: The host says Nielsen estimates 128 million viewers watched the Super Bowl game, increasing to 135 million during the halftime performance.
 
 Anchored Artifacts: A-1750.1
 
@@ -1144,7 +1144,7 @@ Investigative Direction: Verify the 20M aggregate figure against partner broadca
 
 Claim Timestamp: 00:10:39
 
-Claim: A YouTube screenshot of the TPUSA halftime show page displayed 5,839 views, 175 comments, and 667,000 likes.
+Claim: The host shows a YouTube screenshot of the TPUSA halftime show page that she says displayed 5,839 views, 175 comments, and 667,000 likes.
 
 Anchored Artifacts: A-1752.1
 
@@ -1186,7 +1186,7 @@ Investigative Direction: Verify the 6.1M figure against YouTube's official recor
 
 Claim Timestamp: 00:15:10
 
-Claim: Erica Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.
+Claim: The host says Erica Kirk's widow address video on Charlie Kirk's YouTube channel has approximately 4.1 million views and 36,000 comments.
 
 Anchored Artifacts: A-1754.1
 Mentions: N-2, N-1
@@ -1214,7 +1214,7 @@ Investigative Direction: Verify current YouTube view and comment counts on Canda
 
 Claim Timestamp: 00:16:12
 
-Claim: The TPUSA halftime show YouTube page reportedly has over 20 million views but only 46,000 comments.
+Claim: The host says the TPUSA halftime show YouTube page has over 20 million views but only 46,000 comments.
 
 Anchored Artifacts: A-1756.1
 
@@ -1228,7 +1228,7 @@ Investigative Direction: Re-check current YouTube view and comment counts; compu
 
 Claim Timestamp: 00:20:59
 
-Claim: A LinkedIn profile lists Thomas Martin as Director, US Border Patrol, with location in the Greater Tucson area.
+Claim: Per a LinkedIn link the host shows, Thomas Martin is listed as Director, US Border Patrol, with location in the Greater Tucson area.
 
 Anchored Artifacts: A-1757.1
 Mentions: N-558
@@ -1243,7 +1243,7 @@ Investigative Direction: Attempt to retrieve LinkedIn snapshot via archive; cros
 
 Claim Timestamp: 00:22:02
 
-Claim: A ZoomInfo listing shows Thomas Martin as Deputy Chief Patrol Agent at the Department of Homeland Security, with 9 years in Customs and Border Protection.
+Claim: Per a ZoomInfo listing the host shows, Thomas Martin is Deputy Chief Patrol Agent at the Department of Homeland Security, with 9 years in Customs and Border Protection.
 
 Anchored Artifacts: A-1757.2
 Mentions: N-558
@@ -1299,11 +1299,11 @@ Investigative Direction: Authenticate text messages; verify daughter's attendanc
 
 ---
 
-**C-2341** Tracy's Bad Feeling Stopped Daughter from UVU
+**C-2341** Host Says Tracy's Bad Feeling Stopped Daughter from UVU
 
 Claim Timestamp: 00:24:52
 
-Claim: Per Tracy Martin's text messages, Tracy had a "bad feeling" about September 10 and stopped her daughter from attending UVU.
+Claim: Per text messages from September 11th that the host says she has, Tracy Martin told friends she had a "bad feeling" about September 10 and stopped her daughter from attending UVU.
 
 Anchored Artifacts: A-1759.1
 Mentions: N-551, N-559
@@ -1333,7 +1333,7 @@ Investigative Direction: Obtain official hearing transcript or recording.
 
 Claim Timestamp: 00:33:44–00:36:06
 
-Claim: Seth Dillon characterized the Hamptons retreat as having a "save the West" theme with primary focus on "the threat of Islam."
+Claim: In a clip the host plays, Seth Dillon says the Hamptons retreat had a "save the West" theme with primary focus on "the threat of Islam."
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38
@@ -1344,11 +1344,11 @@ Investigative Direction: Cross-reference with prior Hamptons participants' publi
 
 ---
 
-**C-2344** Seth Dillon Hamptons Heated Debate Admission
+**C-2344** Host Calls Seth Dillon's Hamptons Heated Debate Remark an Admission
 
 Claim Timestamp: 00:35:13–00:36:06
 
-Claim: Seth Dillon admitted the Hamptons meeting included "heated and spirited debate about the issue of Israel."
+Claim: In a clip the host plays, Seth Dillon says the Hamptons meeting included "heated and spirited debate about the issue of Israel," which the host characterizes as an admission.
 
 Anchored Artifacts: A-1760.1
 Mentions: N-38
@@ -1374,11 +1374,11 @@ Investigative Direction: Cross-reference with Charlie Kirk's own public statemen
 
 ---
 
-**C-2346** Carrie Prejean Bowler Questioned Seth Dillon
+**C-2346** Host Says Carrie Prejean Bowler Questioned Seth Dillon
 
 Claim Timestamp: 00:31:24–00:32:50
 
-Claim: Carrie Prejean Bowler questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.
+Claim: The host says Carrie Prejean Bowler questioned Seth Dillon at the Religious Liberty Commission hearing regarding antisemitism and the Hamptons meeting.
 
 Anchored Artifacts: A-1760.2
 Mentions: N-560, N-38

@@ -1003,11 +1003,11 @@ Investigative Direction: Compare the aired audio against any independently circu
 
 ---
 
-**C-3446** Judge Graph self-reports 95% of work as sex crimes prosecution
+**C-3446** Clip Has Judge Graph Saying 95% of His Work Is Sex Crimes Prosecution
 
 Claim Timestamp: 00:09:25–00:10:50
 
-Claim: The episode presents Judge Graph stating that approximately 95% of his prosecutorial work has involved sex crimes against children and adults.
+Claim: In a clip the host plays, Judge Graph says approximately 95% of his prosecutorial work has involved sex crimes against children and adults.
 
 Anchored Artifacts: A-2375.1
 
@@ -1017,11 +1017,11 @@ Investigative Direction: Locate the full source clip and verify date / context; 
 
 ---
 
-**C-3447** Mike Mitchell was an undercover detective specializing in internet sex crimes against children
+**C-3447** Host Says Mike Mitchell Was an Undercover Detective Specializing in Internet Sex Crimes Against Children
 
 Claim Timestamp: 00:11:09
 
-Claim: The episode presents that Mike Mitchell's career was as an undercover detective in internet sex crimes against children, and that he was central in the Tyler Robinson surrender process.
+Claim: The host says Mike Mitchell's career was as an undercover detective in internet sex crimes against children, and that he was the linchpin in the Tyler Robinson surrender process.
 
 Anchored Artifacts: None in this episode (host assertion only)
 Mentions: N-40, N-126
@@ -1034,11 +1034,11 @@ Investigative Direction: Obtain Mike Mitchell's personnel records / Utah County 
 
 ---
 
-**C-3448** Officer Christopher Bagley previously worked child sex crimes at Utah County Sheriff's Office
+**C-3448** Host Says Officer Christopher Bagley Previously Worked Child Sex Crimes at Utah County Sheriff's Office
 
 Claim Timestamp: 00:11:56
 
-Claim: The episode presents that Bagley formerly worked in child sex crimes at the Utah County Sheriff's Office before transferring to UVU police in approximately 2022.
+Claim: The host says Officer Christopher Bagley formerly worked in child sex crimes at the Utah County Sheriff's Office before transferring to UVU police in approximately 2022.
 
 Anchored Artifacts: None in this episode (host assertion only)
 Mentions: N-512
@@ -1051,11 +1051,11 @@ Investigative Direction: Verify Bagley's personnel record with UVU police / Utah
 
 ---
 
-**C-3449** George Zinn had child pornography pertaining to a 5-year-old on his phone
+**C-3449** Host Says George Zinn Had Child Pornography Pertaining to a 5-Year-Old on His Phone
 
 Claim Timestamp: 00:12:41
 
-Claim: The episode presents that following George Zinn's arrest, child pornography pertaining to a 5-year-old was discovered on his phone, and that he was sentenced for child sex crimes.
+Claim: The host says that, after George Zinn's arrest, child pornography pertaining to a 5-year-old was discovered on his phone, and that he was sentenced for child sex crimes; she cites the New York Post as having covered it.
 
 Anchored Artifacts: None visible in this episode; New York Post coverage referenced but not displayed
 Mentions: N-42
@@ -1068,11 +1068,11 @@ Investigative Direction: Obtain New York Post article referenced and court recor
 
 ---
 
-**C-3450** Michael George Carl signed the first six search warrants in the Charlie Kirk case
+**C-3450** Host Says Michael George Carl Signed the First Six Search Warrants in the Charlie Kirk Case
 
 Claim Timestamp: 00:12:41–00:15:26
 
-Claim: The episode presents that the first six search warrants in the Charlie Kirk case, including on George Zinn, were signed off by Michael George Carl on September 10, 2025.
+Claim: The host says Baron Coleman discovered that the first six search warrants in the Charlie Kirk case, including the one on George Zinn, were signed off by Michael George Carl on September 10, 2025, and in a clip she plays Coleman says the same.
 
 Anchored Artifacts: A-2378.1
 Mentions: N-1, N-42
@@ -1083,11 +1083,11 @@ Investigative Direction: Pull the search warrant records from Utah court filings
 
 ---
 
-**C-3451** Michael George Carl's primary assignment is cyber crimes against youth / SVU
+**C-3451** Clip Has Baron Coleman Saying Michael George Carl's Primary Assignment Is Cyber Crimes Against Youth / SVU
 
 Claim Timestamp: 00:12:41–00:15:26
 
-Claim: The episode presents that Michael George Carl's documented assignment is the Special Victims Unit / ICAC, focused on online crimes against children.
+Claim: In a clip the host plays, Baron Coleman says that Michael George Carl's documented assignment, per the training listed on his affidavit, is the Special Victims Unit / ICAC, focused on online crimes against children.
 
 Anchored Artifacts: A-2378.1
 
@@ -1097,11 +1097,11 @@ Investigative Direction: Verify Carl's Utah County Sheriff's Office / ICAC assig
 
 ---
 
-**C-3452** A Utah ICAC officer took Mikey McCoy's statement on September 10
+**C-3452** Host Says a Utah ICAC Officer Took Mikey McCoy's Statement on September 10
 
 Claim Timestamp: 00:18:24–00:20:34
 
-Claim: The episode displays footage and still photographs showing that Mikey McCoy's statement on September 10, 2025 was taken by a female officer wearing a vest reading "Police" and "Utah ICAC."
+Claim: The host says the never-before-seen footage and still photographs she shows depict Mikey McCoy's statement on September 10, 2025 being taken by a female officer wearing a vest reading "Police" and "Utah ICAC."
 
 Anchored Artifacts: A-2376.1, A-2376.2, A-2377.1, A-2377.2, A-2377.3
 Mentions: N-194
@@ -1112,11 +1112,11 @@ Investigative Direction: Identify the specific officer via Utah ICAC roster; obt
 
 ---
 
-**C-3453** ICAC unit is administratively controlled by the Utah Attorney General's Office
+**C-3453** Host Says ICAC Unit Is Administratively Controlled by the Utah Attorney General's Office
 
 Claim Timestamp: 00:22:24
 
-Claim: The episode asserts that the Utah ICAC works under the Utah Attorney General's Office.
+Claim: The host says she is certain that the Utah ICAC works under, and is run by, the Utah Attorney General's Office.
 
 Anchored Artifacts: None in this episode (host assertion)
 
@@ -1128,11 +1128,11 @@ Investigative Direction: Verify Utah ICAC administrative structure via Utah AG p
 
 ---
 
-**C-3454** The ICAC program was established by the U.S. Department of Justice in 1998
+**C-3454** Host Says the ICAC Program Was Established by the U.S. Department of Justice in 1998
 
 Claim Timestamp: 00:22:24
 
-Claim: The episode presents that the federal Internet Crimes Against Children Task Force Program was established by the U.S. Department of Justice in 1998.
+Claim: The host says the federal Internet Crimes Against Children Task Force Program was established by the U.S. Department of Justice in 1998.
 
 Anchored Artifacts: None in this episode (host statement)
 
@@ -1160,11 +1160,11 @@ Investigative Direction: Obtain HSI whistleblower complaint / DOJ records pertai
 
 ---
 
-**C-3456** David Leavitt was named in a 151-page victim statement related to a 1990–2010 ritual child abuse / cannibalism investigation in Utah
+**C-3456** Host Says David Leavitt Was Named in a 151-Page Victim Statement Related to a 1990-2010 Ritual Child Abuse / Cannibalism Investigation in Utah
 
 Claim Timestamp: 00:27:01–00:28:24
 
-Claim: The episode presents that Utah AG David Leavitt was named in a 151-page victim statement regarding ritualistic child abuse / cannibalism allegations spanning 1990–2010, which he characterized as politically manufactured.
+Claim: The host says Utah AG David Leavitt was named in a 151-page victim statement regarding ritualistic child abuse / cannibalism allegations spanning 1990-2010, which she says he characterized as politically manufactured; she notes no criminal finding.
 
 Anchored Artifacts: None visible in this episode
 
@@ -1205,11 +1205,11 @@ Investigative Direction: Identify the specific tour stop date and verify the ful
 
 ---
 
-**C-3459** Robert Kraft lobbied for Macklemore's removal from the Ed Sheeran tour
+**C-3459** Host Alleges Robert Kraft Lobbied for Macklemore's Removal from the Ed Sheeran Tour
 
 Claim Timestamp: 00:47:38–00:48:56
 
-Claim: The episode presents that Robert Kraft led a lobbying effort that resulted in Macklemore being dropped as an opening act from Ed Sheeran's tour.
+Claim: The host alleges that Robert Kraft led a pressure and lobbying campaign that resulted in Macklemore being dropped as an opening act from Ed Sheeran's tour.
 
 Anchored Artifacts: A-2381.1 (corroborating that Macklemore was dropped, per host framing)
 
@@ -1236,11 +1236,11 @@ Investigative Direction: Verify each row of the spreadsheet against primary cour
 
 ---
 
-**C-3461** Mike Mitchell convinced the Robinson household to turn Tyler Robinson in despite Robinson's denial of murder
+**C-3461** Host Says Mike Mitchell Convinced the Robinson Household to Turn Tyler Robinson In Despite Robinson's Denial of Murder
 
 Claim Timestamp: 00:10:50–00:11:09
 
-Claim: The episode presents that Mike Mitchell convinced Matt Robinson's household to call Tyler and persuade him to peacefully surrender, despite Tyler's denial of involvement.
+Claim: The host says Mike Mitchell convinced Matt Robinson's household to call Tyler and persuade him to peacefully surrender, despite Tyler's denial of involvement.
 
 Anchored Artifacts: None in this episode
 Mentions: N-40, N-126
@@ -1253,11 +1253,11 @@ Investigative Direction: Verify Mitchell's role via investigative reporting and 
 
 ---
 
-**C-3462** Officer Bagley's body cam footage went off approximately 25 minutes after activation
+**C-3462** Host Says Officer Bagley's Body Cam Footage Went Off Approximately 25 Minutes After Activation
 
 Claim Timestamp: 00:11:56
 
-Claim: The episode presents that Bagley's body cam footage stopped approximately 25 minutes after activation.
+Claim: The host says Bagley's body cam footage notoriously went off after about 25 minutes.
 
 Anchored Artifacts: None visible in this episode
 Mentions: N-512
@@ -1270,11 +1270,11 @@ Investigative Direction: Verify via Bagley's body cam records disclosed in preli
 
 ---
 
-**C-3463** George Zinn was sentenced for child sex crimes after his arrest on September 10
+**C-3463** Host Says George Zinn Was Sentenced for Child Sex Crimes After His Arrest on September 10
 
 Claim Timestamp: 00:12:41
 
-Claim: The episode presents that George Zinn was sentenced for child sex crimes following his arrest in the immediate aftermath of the September 10 event.
+Claim: The host says George Zinn was sentenced for child sex crimes following his arrest in the immediate aftermath of the September 10 event.
 
 Anchored Artifacts: None visible in this episode
 Mentions: N-42

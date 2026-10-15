@@ -1526,8 +1526,8 @@
       "@type": "Claim",
       "@id": "C-1882",
       "ref": "C-1882",
-      "label": "Harry was placed under an NDA gag order dated 1990 to May 2025",
-      "claim": "An NDA gag order prevented Harry from publicly discussing the 1990 tunnel incident until May 2025.",
+      "label": "Per Message Host Reads, Harry Was Placed Under an NDA Gag Order Dated 1990 to May 2025",
+      "claim": "Per a message from Harry that the host reads verbatim, an NDA gag order dated 1990 to May 2025 prevented him from publicly discussing the 1990 tunnel incident until May 2025.",
       "anchored_artifacts": [
         "A-1519.1",
         "A-1519.5"
@@ -1562,8 +1562,8 @@
       "@type": "Claim",
       "@id": "C-1884",
       "ref": "C-1884",
-      "label": "Harry checked into Candlewood Suites at Fort Huachuca on September 8, 2025 at approximately 5:37 PM",
-      "claim": "Harry Meyers arrived at Candlewood Suites on Fort Huachuca at approximately 5:37 PM on September 8, 2025, and observed a person he identified as special forces in the lobby.",
+      "label": "Host Says Harry Checked Into Candlewood Suites at Fort Huachuca on September 8, 2025 at About 5:37 PM",
+      "claim": "The host says Harry Meyers told her he arrived at Candlewood Suites on Fort Huachuca at approximately 5:37 PM on September 8, 2025, and observed a person he identified as special forces in the lobby.",
       "anchored_artifacts": [
         "A-1519.2",
         "A-1519.4"
@@ -1641,8 +1641,8 @@
       "@type": "Claim",
       "@id": "C-1888",
       "ref": "C-1888",
-      "label": "A \"Captain Nef\" conducted a 7-hour interrogation of Harry at Fort Huachuca on September 9, 2025",
-      "claim": "After Harry entered the meeting room, two captains escorted him out and began a 7-hour interrogation accusing him of being a bomb threat, a spy, and a threat to himself or others. The interrogator Harry identifies as \"Captain Nef\" was approximately 36 years old with brown hair and was commander of force protection.",
+      "label": "Host Says Harry Reports a \"Captain Nef\" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025",
+      "claim": "The host says Harry told her that, after he entered the meeting room, two captains escorted him out and began a 7-hour interrogation accusing him of being a bomb threat, a spy, and a threat to himself or others, and that the interrogator Harry identifies as \"Captain Nef\" was approximately 36 years old with brown hair and was commander of force protection.",
       "anchored_artifacts": [
         "A-1519.2"
       ],
@@ -1716,8 +1716,8 @@
       "@type": "Claim",
       "@id": "C-1892",
       "ref": "C-1892",
-      "label": "Seven viewers emailed the show claiming Arcadi Gaydamak is living in Nashville under the name \"Jonathan Schmidt\"",
-      "claim": "Seven individuals, mostly men, emailed the show asserting that Arcadi Gaydamak is residing in Nashville using the alias Jonathan Schmidt and that he relocated there in June 2025.",
+      "label": "Seven Viewer Emails the Host Describes Claim Arcadi Gaydamak Is Living in Nashville Under the Name \"Jonathan Schmidt\"",
+      "claim": "The host says seven individuals, mostly men, emailed the show asserting that Arcadi Gaydamak is residing in Nashville using the alias Jonathan Schmidt and that he relocated there in June 2025.",
       "anchored_artifacts": [
         "A-1523.1"
       ],

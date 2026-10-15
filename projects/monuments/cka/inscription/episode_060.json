@@ -1660,8 +1660,8 @@
       "@type": "Claim",
       "@id": "C-2154",
       "ref": "C-2154",
-      "label": "Flight Records Show ~1 Hour 5 Minute Gap Between Kolvet and Erika Planes",
-      "claim": "Flight records show Erika Kirk's plane (N102DZ) departed approximately 1 hour 5 minutes after Andrew Kolvet's plane and arrived in Provo at 4:36 PM, with passengers including Tyler Bowyer, Elizabeth McCoy, a priest, and Erika Kirk.",
+      "label": "Host Says Flight Records Show ~1 Hour 5 Minute Gap Between Kolvet and Erika Planes",
+      "claim": "The host says flight records show Erika Kirk's plane (N102DZ) departed approximately 1 hour 5 minutes after Andrew Kolvet's plane and arrived in Provo at 4:36 PM, with passengers including Tyler Bowyer, Elizabeth McCoy, a priest, and Erika Kirk.",
       "anchored_artifacts": [
         "A-1657.1"
       ],
@@ -1716,8 +1716,8 @@
       "@type": "Claim",
       "@id": "C-2157",
       "ref": "C-2157",
-      "label": "Baron Coleman Publicly Confronted Commenter \"Joe\" on Prior Episode",
-      "claim": "A prior Baron Coleman YouTube video shows Coleman confronting commenter \"Joe\" over logic fallacies related to Mitch Snow and Fort Huachuca coverage.",
+      "label": "Host Says Baron Coleman Publicly Confronted Commenter \"Joe\" on Prior Episode",
+      "claim": "The host plays a prior Baron Coleman YouTube video clip that she says shows Coleman confronting commenter \"Joe\" over logic fallacies related to Mitch Snow and Fort Huachuca coverage.",
       "anchored_artifacts": [
         "A-1658.1",
         "A-1659.1"

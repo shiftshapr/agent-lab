@@ -988,11 +988,11 @@ Investigative Direction: This is a host stance claim, not independently verifiab
 
 ---
 
-**C-2154** Flight Records Show ~1 Hour 5 Minute Gap Between Kolvet and Erika Planes
+**C-2154** Host Says Flight Records Show ~1 Hour 5 Minute Gap Between Kolvet and Erika Planes
 
 Claim Timestamp: 01:08:11
 
-Claim: Flight records show Erika Kirk's plane (N102DZ) departed approximately 1 hour 5 minutes after Andrew Kolvet's plane and arrived in Provo at 4:36 PM, with passengers including Tyler Bowyer, Elizabeth McCoy, a priest, and Erika Kirk.
+Claim: The host says flight records show Erika Kirk's plane (N102DZ) departed approximately 1 hour 5 minutes after Andrew Kolvet's plane and arrived in Provo at 4:36 PM, with passengers including Tyler Bowyer, Elizabeth McCoy, a priest, and Erika Kirk.
 
 Anchored Artifacts: A-1657.1
 Mentions: N-2, N-11, N-221, N-14
@@ -1031,11 +1031,11 @@ Investigative Direction: Document host stance claim against A-1660.1; investigat
 
 ---
 
-**C-2157** Baron Coleman Publicly Confronted Commenter "Joe" on Prior Episode
+**C-2157** Host Says Baron Coleman Publicly Confronted Commenter "Joe" on Prior Episode
 
 Claim Timestamp: 01:16:11
 
-Claim: A prior Baron Coleman YouTube video shows Coleman confronting commenter "Joe" over logic fallacies related to Mitch Snow and Fort Huachuca coverage.
+Claim: The host plays a prior Baron Coleman YouTube video clip that she says shows Coleman confronting commenter "Joe" over logic fallacies related to Mitch Snow and Fort Huachuca coverage.
 
 Anchored Artifacts: A-1658.1, A-1659.1
 Mentions: N-334, N-366

@@ -1096,11 +1096,11 @@ Investigative Direction: Locate the full interview; corroborate with any on-reco
 
 ---
 
-**C-2752** Text messages reference an "Israeli Defense Group" connection and SOCOM contract
+**C-2752** Host Reads Texts Attributed to Victor Marx Referencing "Israeli Defense Group" and SOCOM Contract
 
 Claim Timestamp: 00:35:00–00:38:02
 
-Claim: Text messages attributed to Victor Marx state that "The Israeli Defense Group we are connected with is ready to review the patent and possible deal" and reference a SOCOM contract for a company he is part-owner of; Corby's reply raises IDF-vs-domestic-schools concerns.
+Claim: The host reads text messages attributed to Victor Marx, supplied to her by Corby, that state "The Israeli Defense Group we are connected with is ready to review the patent and possible deal" and reference a SOCOM contract for a company he is part-owner of; Corby's reply raises IDF-vs-domestic-schools concerns.
 
 Anchored Artifacts: A-1988.1, A-1988.2, A-1988.3
 Mentions: N-345
@@ -1140,11 +1140,11 @@ Investigative Direction: Retrieve the underlying LA Times article and any SEC fi
 
 ---
 
-**C-2755** ATF determined cartridge cases matched exhibit 1 rifle
+**C-2755** Host Says ATF Summary Found Cartridge Cases Matched Exhibit 1 Rifle
 
 Claim Timestamp: 00:41:38–00:45:48
 
-Claim: The ATF summary found that the cartridge cases matched the exhibit 1 rifle.
+Claim: Per the ATF summary the host shows and discusses, the cartridge cases matched the exhibit 1 rifle.
 
 Anchored Artifacts: A-1990
 
@@ -1168,11 +1168,11 @@ Investigative Direction: Obtain forensic report details on which class character
 
 ---
 
-**C-2757** ATF to conduct microscopic comparison on bullet evidence
+**C-2757** Host Says ATF Summary Indicates Microscopic Comparison of Bullet Evidence
 
 Claim Timestamp: 00:44:37–00:45:48
 
-Claim: The ATF summary indicates upcoming microscopic comparison on the bullet evidence.
+Claim: Per the ATF summary the host shows and discusses, the ATF is to conduct a microscopic comparison on the bullet evidence.
 
 Anchored Artifacts: A-1990
 

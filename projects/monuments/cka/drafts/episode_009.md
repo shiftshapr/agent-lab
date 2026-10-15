@@ -859,10 +859,10 @@ Investigative Direction: Recover original YouTube comments and timestamps via sc
 
 ---
 
-**C-1273** Crooks Google-searched mass-attack research
+**C-1273** Host Shows Document of Crooks' Mass-Attack Google Searches
 
 Claim Timestamp: 00:24:53
-Claim: Crooks' Google search history included 'best places for a mass shooting', molotov cocktails, fertilizer bombs, and prior shooting references.
+Claim: Per a search-history document the host shows, Crooks' Google search history included 'best places for a mass shooting', molotov cocktails, fertilizer bombs, and prior shooting references.
 Transcript Snippet: he searched best places for a a mass shooting. ... How to make Molotov cocktails, pardon me, mixing gasoline with styrofoam
 Anchored Artifacts: A-1156.4
 Mentions: N-105
@@ -875,7 +875,7 @@ Investigative Direction: Obtain original search-history logs or corroborating sc
 **C-1274** Megyn Kelly: Jezebel/Etsy curse on Kirk
 
 Claim Timestamp: 00:34:05
-Claim: Per Megyn Kelly segment, Jezebel declared a mission to curse Charlie Kirk and Etsy offered witch-hex services; the Kirks consulted a Catholic priest.
+Claim: In a clip the host plays, Megyn Kelly says Jezebel declared a mission to curse Charlie Kirk and Etsy offered witch-hex services; the host says the Kirks consulted a Catholic priest.
 Transcript Snippet: Jezebel declared that it had a mission to cast bad luck or a curse on Charlie.
 Anchored Artifacts: A-1157.1
 Mentions: N-2, N-46, N-1
@@ -901,7 +901,7 @@ Investigative Direction: Verify exact quote against full Kimmel monologue transc
 **C-1276** Riverbend Ranch tribute audio aired
 
 Claim Timestamp: 00:27:59
-Claim: Riverbend Ranch produced and aired an audio tribute honoring Charlie Kirk's life and principles.
+Claim: In a sponsor tribute audio the host plays, Riverbend Ranch honors Charlie Kirk's life and principles; the host says Riverbend Ranch put the tribute together.
 Transcript Snippet: We pay tribute to Charlie Kirk and we celebrate the tremendous good he did in his life.
 Anchored Artifacts: A-1159.1
 Mentions: N-1

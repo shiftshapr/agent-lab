@@ -909,10 +909,10 @@ Investigative Direction: Cross-check the original text-message screenshots from 
 
 ---
 
-**C-1189** Doorbell-cam footage aired by TMZ on September 10
+**C-1189** Host Says TMZ Aired Doorbell-Cam Footage on September 10
 
 Claim Timestamp: 00:11:02
-Claim: TMZ first aired doorbell-camera footage of a person running on a residential street near UVU on September 10, 2025, attributed to Irwin Steel's home.
+Claim: The host says TMZ was the first, on September 10, 2025, to air doorbell-camera footage of a person on a residential street near UVU, which she attributes to Irwin Steel's home.
 Transcript Snippet: TMZ is the first on September 10th. That tells us that there is doorbell cam footage.
 Anchored Artifacts: A-1112.1, A-1112.2
 Mentions: N-73, N-78, N-79
@@ -922,10 +922,10 @@ Investigative Direction: Verify TMZ publication timestamp; trace the footage upl
 
 ---
 
-**C-1190** Sherry Steel reported police presence to BBC
+**C-1190** Per BBC Article, Sherry Steel Reported Police Presence
 
 Claim Timestamp: 00:17:19
-Claim: BBC published an account by Sherry Steel describing a large police presence and helicopter activity outside Tyler Robinson's townhouse while she walked her dog in the evening.
+Claim: Per the BBC article the host reads, Sherry Steel, who lives across the street from the residence, came back from an evening walk to see a large police presence, and a loud voice shouting 'Freeze!' and helicopters were above her house.
 Transcript Snippet: Sherry Steel, who lives across the street… came back from an evening walk to see a large police presence.
 Anchored Artifacts: A-1113.1
 Mentions: N-40, N-74
@@ -1007,10 +1007,10 @@ Investigative Direction: Read with C-1194; obtain the text exchange as published
 
 ---
 
-**C-1195** Amazon listed Kirk-assassination book before event
+**C-1195** Viewer Comment Says Amazon Listed Kirk-Assassination Book Before Event
 
 Claim Timestamp: 00:55:50
-Claim: A book about Charlie Kirk's assassination was listed on Amazon before September 10, 2025; Amazon attributed the early date to technical issues and removed the title.
+Claim: A viewer comment the host reads says a book about Charlie's assassination was available on Amazon the day before it happened; the host then reads her producer's note saying Amazon blamed technical issues for the incorrect publication date and removed the book.
 Transcript Snippet: the book about Charlie's assassination on Amazon that was available the day before it happened.
 Anchored Artifacts: A-1118.1
 Mentions: N-1
@@ -1049,10 +1049,10 @@ Investigative Direction: Cross-check federal affidavit language re 'woods'; obta
 
 ---
 
-**C-1198** Local theory: vacant UVU-owned house is real shooter refuge
+**C-1198** Host Says Locals Theorize Vacant UVU-Owned House Was Real Shooter's Refuge
 
 Claim Timestamp: 00:25:22
-Claim: Locals theorise that a vacant house next door to the gun-recovery site is owned by Utah Valley University and served as the real shooter's safe house, with Robinson acting as a decoy.
+Claim: The host says locals tell her, as an unproven theory, that a mysteriously vacant house next to where the gun was found is owned by Utah Valley University and is where the true shooter ran after the assassination, with Tyler Robinson instructed merely to drop off his gun as a decoy.
 Transcript Snippet: the house right next door to where the gun was found is a mysteriously vacant vacant home… owned by the university itself.
 Anchored Artifacts: 
 Mentions: N-40
@@ -1115,10 +1115,10 @@ Investigative Direction: FOIA requests to federal agencies; canvass Orem residen
 
 ---
 
-**C-1203** Steele family owns the doorbell-camera house
+**C-1203** Host Says Steele Family Owns the Doorbell-Camera House
 
 Claim Timestamp: 00:14:59
-Claim: Property records show that the house whose footage appeared on TMZ is owned by Samuel Steele, his wife Carrie, and Irwin Steel – not Irwin Steel alone.
+Claim: The host says property records show that the house whose footage appeared on TMZ is owned by Samuel Steele and his wife Carrie, not by Irwin Steel, though Irwin says he lives there.
 Transcript Snippet: he Samuel and his wife Carrie are the ones that own the house that gave the footage, not Irwin.
 Anchored Artifacts: 
 Mentions: N-73, N-78, N-79

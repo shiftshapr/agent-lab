@@ -842,28 +842,28 @@ Owner the host names for plane N1098L (transcribed once as "Lasai"); the militar
 
 ## V. Claim Register
 
-**C-1527** Military-contracted plane low dip over Provo Airport at 9:16 a.m.
+**C-1527** Host Says Military-Contracted Plane Dipped Low Over Provo Airport at 9:16 a.m.
 
 Claim Timestamp: 00:02:17
-Claim: FlightRadar data shows a military-contracted plane from Biggs Army Airfield dipped to approximately 300 feet above the Provo Airport runway at 9:16 a.m. Utah time on September 10, 2025.
+Claim: The host says FlightRadar data shows a military-contracted plane from Biggs Army Airfield dipped to approximately 300 feet above the Provo Airport runway at 9:16 a.m. Utah time on September 10, 2025.
 Anchored Artifacts: A-1290.1
 Mentions: N-67
 Related Nodes: N-10203
 Investigative Direction: Obtain raw FlightRadar/ADS-B Exchange records for the plane's full track; cross-reference with FAA Biggs Army Airfield outbound logs for 9/10/2025.
 
-**C-1528** Second low dip approximately 26 minutes after the assassination
+**C-1528** Host Says Second Low Dip Came Approximately 26 Minutes After the Assassination
 
 Claim Timestamp: 00:03:53
-Claim: The same military-contracted plane from Biggs Army Airfield dipped again to approximately 300 feet over the Provo Airport runway approximately 26 minutes after Charlie Kirk was shot, during its return leg to El Paso.
+Claim: The host says the same military-contracted plane from Biggs Army Airfield dipped again to approximately 300 feet over the Provo Airport runway approximately 26 minutes after Charlie Kirk was shot, during its return leg to El Paso.
 Anchored Artifacts: A-1290.1
 Mentions: N-1
 Related Nodes: N-10203
 Investigative Direction: Corroborate the timing of the second dip against the publicly established time of the shooting and FAA flight records.
 
-**C-1529** N888KG Provo departure time on 9/10
+**C-1529** Host Says N888KG Departed Provo at 1:20 p.m. on 9/10
 
 Claim Timestamp: 00:05:46
-Claim: Plane N888KG departed Provo Airport at 1:20 p.m. Mountain time on September 10, 2025.
+Claim: The host says plane N888KG, which she describes as the Baugh-Maxfield plane, departed Provo Airport at 1:20 p.m. Mountain time on September 10, 2025.
 Anchored Artifacts: A-1291.1
 Mentions: N-94
 Related Nodes: N-10205
@@ -887,19 +887,19 @@ Mentions: N-94
 Related Nodes: N-10205
 Investigative Direction: Verify the FAA termination claim against Denver Center controller logs and FAA standard operating procedures for non-towered airports.
 
-**C-1532** Egyptian Air Force SU-BTT Provo arrival and departure dates
+**C-1532** Host Says Egyptian Air Force Plane SU-BTT Arrived at Provo September 4 and Departed September 10
 
 Claim Timestamp: 00:12:53
-Claim: FlightRadar data shows Egyptian Air Force plane SU-BTT arrived at Provo Airport on September 4, 2025 and departed Provo on September 10, 2025 at 7:14 a.m. local time, with an interim layover at Wilmington, Delaware before continuing to Cairo.
+Claim: The host says FlightRadar data shows Egyptian Air Force plane SU-BTT arrived at Provo Airport on September 4, 2025 and departed Provo on September 10, 2025 at 7:14 a.m. local time, with an interim layover at Wilmington, Delaware before continuing to Cairo.
 Anchored Artifacts: A-1292.1
 Mentions:
 Related Nodes: N-10204
 Investigative Direction: Confirm via raw FlightRadar history and ADS-B Exchange; cross-check Wilmington, Delaware airport logs; verify with Egyptian military public affairs and U.S. State Department foreign military landing notifications.
 
-**C-1533** SU-BTT three-year routing pattern
+**C-1533** Host Says SU-BTT's Three-Year Routing Pattern Runs Through Paris to Air Force Base Cities
 
 Claim Timestamp: 00:18:38
-Claim: FlightRadar three-year history for SU-BTT shows the aircraft routinely routes through Paris and lands in U.S. cities with Air Force bases; Provo has no Air Force base.
+Claim: The host says the FlightRadar three-year history for SU-BTT shows the aircraft routinely routes through Paris and lands in U.S. cities with Air Force bases, and that Provo has no Air Force base.
 Anchored Artifacts: A-1292.2
 Related Nodes: N-10204
 Investigative Direction: Compile full U.S. landing history; cross-reference landing locations with known U.S. Air Force installations.
@@ -933,7 +933,7 @@ Investigative Direction: Obtain the underlying Daily Mail article; identify what
 **C-1537** Josh Hammer op-ed "neutralize" language
 
 Claim Timestamp: 00:31:36
-Claim: Josh Hammer published a Daily Mail op-ed calling Tucker's hosting of Nick Fuentes a "war on MAGA and the modern American right," and stating that "unless the fox is neutralized, the victim could be the entire extant GOP coalition itself."
+Claim: Per the Daily Mail op-ed by Josh Hammer that the host reads, Hammer called Tucker's hosting of Nick Fuentes a "war on MAGA and the modern American right," and stated that "unless the fox is neutralized, the victim could be the entire extant GOP coalition itself."
 Anchored Artifacts: A-1293.1
 Mentions: N-55, N-22, N-205
 Investigative Direction: Obtain the full op-ed in original Daily Mail publication; document the "neutralize" framing in context.
@@ -965,7 +965,7 @@ Investigative Direction: Obtain full unedited interview segment; verify context.
 **C-1541** Seth Dillon on Nick Fuentes' alleged statements regarding J.D. Vance
 
 Claim Timestamp: 00:48:05
-Claim: On Piers Morgan, Seth Dillon characterized Nick Fuentes as having animosity toward Jews, having called J.D. Vance "fat and ugly" with a "brown family," and as having engaged in "glorification of Hitler."
+Claim: In a clip the host plays, Seth Dillon, on Piers Morgan, characterizes Nick Fuentes as having animosity toward Jews, having called J.D. Vance "fat and ugly" with a "brown family," and as having engaged in "glorification of Hitler."
 Anchored Artifacts: A-1295.3
 Mentions: N-4, N-38, N-205, N-208
 Investigative Direction: Verify specific Fuentes quotes against primary source material; obtain full interview segment.

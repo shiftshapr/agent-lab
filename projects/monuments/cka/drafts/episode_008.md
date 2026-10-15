@@ -815,10 +815,10 @@ Investigative Direction: Compare the children's GMA statements against the video
 Tags: open_source_investigation
 ---
 
-**C-1247** Artery detail originated from car conversation, not observation
+**C-1247** Tiffany Barker Says Artery Detail Came from Car Conversation, Not Observation
 
 Claim Timestamp: 00:07:43
-Claim: Per Tiffany Barker's follow-up video, the 'artery' detail was introduced by Tiffany herself during a 1.5-hour car conversation, not from what the children saw.
+Claim: In a follow-up video the host plays, Tiffany Barker says the 'artery' detail was her own remark to the children during a roughly hour-and-a-half car conversation after the shooting, not something the children saw.
 Transcript Snippet: I said, 'There's an artery here. Maybe they hit an artery.' I didn't know. We didn't know anything.
 Anchored Artifacts: A-1147.1
 Mentions: N-75, N-76, N-77
@@ -868,10 +868,10 @@ Investigative Direction: Identify the original posting account via reverse-image
 
 ---
 
-**C-1251** Wirefy sponsored event; employee on-site post-shot
+**C-1251** Host Says Wirefy Sponsored Event and Wirefy-Branded Individual Was On-Site Post-Shot
 
 Claim Timestamp: 00:17:18
-Claim: Wirefy branding was the backdrop advertiser at the event, and a Wirefy-branded individual was on-site sending texts/photos in the immediate aftermath.
+Claim: The host says Wirefy branding was the backdrop advertiser behind Charlie Kirk at the event in the clips of it, and that a Wirefy-branded individual was on-site sending texts and photos in the immediate aftermath.
 Transcript Snippet: Wirefy, you will notice in the clips of the event, is the backdrop advertiser that's behind Charlie
 Anchored Artifacts: A-1149.1
 Related Nodes: N-10093, N-10101

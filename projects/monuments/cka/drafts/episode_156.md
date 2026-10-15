@@ -622,11 +622,11 @@ The host's hypothesis that logins to Tyler Robinson's accounts or Google Maps da
 
 ## 5. Claim Register
 
-**C-3531** Person by van in tent footage is not UVU club president Caleb Chilcutt
+**C-3531** Host Says Person by Van in Tent Footage Is Not UVU Club President Caleb Chilcutt
 
 Claim Timestamp: 00:01:40
 
-Claim: The wider-format tent footage shows that the person previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro is in fact a different individual.
+Claim: The host says the wider-format tent footage shows that the person she previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro is in fact a different individual.
 
 Anchored Artifacts: A-2416.1
 Mentions: N-10
@@ -636,11 +636,11 @@ Investigative Direction: Cross-reference other footage and photographs to identi
 
 ---
 
-**C-3532** Tyler Robinson's towed 2013 Dodge Challenger displays a dual exhaust system
+**C-3532** Host Says Tyler Robinson's Towed 2013 Dodge Challenger Displays a Dual Exhaust System
 
 Claim Timestamp: 00:10:34
 
-Claim: A Fox News still frame of Tyler Robinson's towed 2013 Dodge Challenger clearly shows a dual exhaust configuration at the rear.
+Claim: The host says a Fox News still frame of Tyler Robinson's towed 2013 Dodge Challenger clearly shows a dual exhaust configuration at the rear.
 
 Anchored Artifacts: A-2419.1
 Mentions: N-40
@@ -651,11 +651,11 @@ Investigative Direction: Confirm exhaust configuration against additional Fox Ne
 
 ---
 
-**C-3533** Parking garage Challenger displays a quad exhaust system across multiple floors
+**C-3533** Host Says Parking Garage Challenger Displays a Quad Exhaust System Across Multiple Floors
 
 Claim Timestamp: 00:12:24
 
-Claim: Multiple stills from different parking-garage floors show a quad (dual-pair) exhaust configuration on the Dodge Challenger that entered the garage on September 10.
+Claim: The host says multiple stills from different parking-garage floors show a quad (dual-pair) exhaust configuration on the Dodge Challenger that entered the garage on September 10.
 
 Anchored Artifacts: A-2420.1
 
@@ -680,11 +680,11 @@ Investigative Direction: File FOIA/public-records requests for the Quick Quack C
 
 ---
 
-**C-3535** Search warrant attributes a Google Maps route from Mountain Shadows Shopping Center to Quick Quack Car Wash to Tyler Robinson's cell phone
+**C-3535** Host Says Search Warrant Attributes Google Maps Route to Quick Quack Car Wash to Tyler Robinson's Cell Phone
 
 Claim Timestamp: 00:18:05
 
-Claim: A search warrant for Tyler Robinson's cell phone describes a Google Maps route from the Mountain Shadows Shopping Center (approximately seven minutes from Utah Valley University) to a Quick Quack Car Wash, with start time approximately 12:46 PM (UTC-converted from 6:46 PM UTC) – approximately 23 minutes after the shooting.
+Claim: The host says that, per a search warrant for Tyler Robinson's cell phone which she reads, an officer observed a Google Maps route from the Mountain Shadows Shopping Center (approximately seven minutes from Utah Valley University) to a Quick Quack Car Wash, with start time approximately 12:46 PM (UTC-converted from 6:46 PM UTC), approximately 23 minutes after the shooting.
 
 Anchored Artifacts: A-2421.1
 Mentions: N-40
@@ -709,11 +709,11 @@ Investigative Direction: Pull the actual preliminary-hearing / probable-cause tr
 
 ---
 
-**C-3537** UN delegates walked out during Netanyahu's UN General Assembly address
+**C-3537** Host Says UN Delegates Walked Out During Netanyahu's UN General Assembly Address
 
 Claim Timestamp: 00:33:24
 
-Claim: During Netanyahu's address to the UN General Assembly, a substantial number of delegates walked out as he took the stage.
+Claim: The host says that during Netanyahu's address to the UN General Assembly, a substantial number of delegates walked out as he took the stage.
 
 Anchored Artifacts: A-2422.1, A-2422.2, A-2422.3
 Mentions: N-1

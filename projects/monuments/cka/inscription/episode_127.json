@@ -1971,8 +1971,8 @@
       "@type": "Claim",
       "@id": "C-3057",
       "ref": "C-3057",
-      "label": "Brian Harpole did not personally identify himself as the 911 caller",
-      "claim": "Brian Harpole, in on-record statements, references a 911 call collectively (\"we called 911\") without identifying the specific individual who placed the call.",
+      "label": "Host Says Brian Harpole Did Not Personally Identify Himself as the 911 Caller",
+      "claim": "The host says Brian Harpole, in his on-record statements, refers to a 911 call collectively (\"we called 911\") without identifying the specific individual who placed the call.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10729"

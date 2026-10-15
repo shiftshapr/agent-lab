@@ -1525,8 +1525,8 @@
       "@type": "Claim",
       "@id": "C-3494",
       "ref": "C-3494",
-      "label": "TPUSA UVU Chapter Declined On-Site Ambulance",
-      "claim": "TPUSA's UVU chapter declined an on-site ambulance by marking \"No\" on the EMS section of the school's online event form.",
+      "label": "Host Says TPUSA UVU Chapter Declined On-Site Ambulance",
+      "claim": "The host says, citing an ABC News report, that TPUSA's UVU chapter declined an on-site ambulance by marking \"No\" on the EMS section of the school's online event form.",
       "anchored_artifacts": [
         "A-2393.1"
       ],
@@ -1547,8 +1547,8 @@
       "@type": "Claim",
       "@id": "C-3495",
       "ref": "C-3495",
-      "label": "UVU Attendance Estimate Progression 200 → 600 → 1,500 → ~3,000",
-      "claim": "Per ABC News reporting, the UVU event attendance was initially estimated at 200, revised to 600, then per TPUSA to 1,500 (in undocumented later conversation), with actual attendance ~3,000.",
+      "label": "Per ABC News Report, UVU Attendance Estimate Progressed 200 to 600 to 1,500 to About 3,000",
+      "claim": "Per the ABC News report the host reads, the UVU event attendance was initially estimated at 200, revised to 600, then, per TPUSA, to 1,500 (in an undocumented later conversation), with actual attendance of about 3,000.",
       "anchored_artifacts": [
         "A-2393.1"
       ],
@@ -1566,8 +1566,8 @@
       "@type": "Claim",
       "@id": "C-3496",
       "ref": "C-3496",
-      "label": "TPUSA Framed UVU Event As Open-To-Public / Unticketed Prove Me Wrong Format",
-      "claim": "Per TPUSA's official statement to ABC News, the UVU event was styled as open-to-public and unticketed, comparable to prior \"Prove Me Wrong\" campus events, with no crowd control.",
+      "label": "TPUSA Statement to ABC News Framed UVU Event as Open-to-Public / Unticketed Prove Me Wrong Format",
+      "claim": "Per a Turning Point USA official's statement to ABC News that the host reads, the UVU event was styled as open-to-public and unticketed, comparable to prior \"Prove Me Wrong\" campus events, with no crowd control.",
       "anchored_artifacts": [
         "A-2393.1"
       ],
@@ -1629,8 +1629,8 @@
       "@type": "Claim",
       "@id": "C-3499",
       "ref": "C-3499",
-      "label": "Charlie Kirk's Club America Vision Was Opt-In / Grassroots / Debate-Club Parallel",
-      "claim": "In his Aspen donors presentation, Charlie Kirk described the Club America vision as a grassroots, opt-in, student-led chapter model parallel to DECA and debate clubs, with 80 new full-time staff dedicated to sourcing leads and guiding student-initiated chapter formation.",
+      "label": "Clip Has Charlie Kirk Describing Club America as Opt-In / Grassroots / Debate-Club Parallel",
+      "claim": "In a clip the host plays of his presentation to Aspen donors, Charlie Kirk describes the Club America vision as a grassroots, opt-in, student-led chapter model parallel to DECA and debate clubs, with 80 new full-time staff dedicated to sourcing leads and guiding student-initiated chapter formation.",
       "anchored_artifacts": [
         "A-2397.1"
       ],
@@ -1649,8 +1649,8 @@
       "@type": "Claim",
       "@id": "C-3500",
       "ref": "C-3500",
-      "label": "Erika Kirk Spoke At Nampa Christian School Assembly; Students Were Not Opt-In Participants",
-      "claim": "Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, per parent emails and student-to-parent text messages describing students unable to leave and \"locked in the gym.\"",
+      "label": "Host Says Erika Kirk Spoke at Nampa Christian School Assembly Where Students Were Not Opt-In Participants",
+      "claim": "The host says Erika Kirk spoke at a Nampa Christian School assembly where students were not voluntary opt-in participants, citing parent emails and student-to-parent text messages she shows describing students unable to leave and \"locked in the gym.\"",
       "anchored_artifacts": [
         "A-2399.1",
         "A-2403.1"
@@ -1688,8 +1688,8 @@
       "@type": "Claim",
       "@id": "C-3502",
       "ref": "C-3502",
-      "label": "Andrew Kolvet Cited Three Opt-Outs As Evidence Of Voluntary Participation",
-      "claim": "Andrew Kolvet replied on X that three students opted out of the Nampa assembly and that \"over 500 chose to attend\" – i.e., nothing was forced.",
+      "label": "Per Kolvet's X Reply, Three Students Opted Out of Nampa Assembly",
+      "claim": "Per Andrew Kolvet's reply on X that the host shows, three students opted out of the Nampa assembly and \"over 500 chose to attend\"; the host characterizes this as a technicality, saying Kolvet is implying nothing was forced.",
       "anchored_artifacts": [
         "A-2403.2"
       ],
@@ -1727,7 +1727,7 @@
       "@id": "C-3504",
       "ref": "C-3504",
       "label": "Politico Published Profile Of Blake Neff",
-      "claim": "Politico published a profile of Blake Neff titled \"Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed\" (author Ian Ward).",
+      "claim": "Per a Politico profile of Blake Neff by Ian Ward that the host shows, the article is titled \"Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed.\"",
       "anchored_artifacts": [
         "A-2400.1"
       ],
@@ -1762,8 +1762,8 @@
       "@type": "Claim",
       "@id": "C-3506",
       "ref": "C-3506",
-      "label": "Tucker Carlson Criticized Blake Neff's \"Make Our Peace With Censorship\" Framing",
-      "claim": "Tucker Carlson publicly criticized Blake Neff's framing that \"we may have to make our peace with censorship,\" reading and rejecting the Politico profile's premise.",
+      "label": "Clip Has Tucker Carlson Criticizing Blake Neff's \"Make Our Peace With Censorship\" Framing",
+      "claim": "In a clip the host plays, Tucker Carlson criticizes Blake Neff's framing that \"we may have to make our peace with censorship,\" reading from and rejecting the premise of the Politico profile.",
       "anchored_artifacts": [
         "A-2401.1"
       ],
@@ -1802,8 +1802,8 @@
       "@type": "Claim",
       "@id": "C-3508",
       "ref": "C-3508",
-      "label": "Empress Films Founded By Emma Cooper In 2020",
-      "claim": "Empress Films is a documentary company founded by Emma Cooper in 2020; Cooper was previously global president of non-scripted television at Pulse Films and worked on the Netflix documentary \"The Disappearance of Madeleine McCann.\"",
+      "label": "Host Says Empress Films Was Founded by Emma Cooper in 2020",
+      "claim": "The host says Empress Films is a documentary company founded by Emma Cooper in 2020, and that Cooper was previously global president of non-scripted television at Pulse Films and worked on the Netflix documentary \"The Disappearance of Madeleine McCann.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10846"
@@ -1817,8 +1817,8 @@
       "@type": "Claim",
       "@id": "C-3509",
       "ref": "C-3509",
-      "label": "Empress Films Production Focus Includes True Crime / Murder Mystery Content",
-      "claim": "Empress Films' production catalog includes true crime / murder mystery documentaries: Ghislaine Maxwell (2021), Marilyn Monroe, Jill Dando, Princess Diana, Depp vs Heard, and Gilgo Beach murders.",
+      "label": "Host Says Empress Films' Production Focus Includes True Crime / Murder Mystery Content",
+      "claim": "The host says Empress Films' production catalog includes true crime / murder mystery documentaries: Ghislaine Maxwell (2021), Marilyn Monroe, Jill Dando, Princess Diana, Depp vs Heard, and Gilgo Beach murders.",
       "anchored_artifacts": [
         "A-2402.1",
         "A-2402.2",
@@ -1841,8 +1841,8 @@
       "@type": "Claim",
       "@id": "C-3510",
       "ref": "C-3510",
-      "label": "August 28, 2025 Call Between Erika Kirk / Andrew Kolvet / Empress Films Executives",
-      "claim": "On August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers.",
+      "label": "Host Says Erika Kirk and Andrew Kolvet Had an August 28, 2025 Call with Empress Films Executives",
+      "claim": "The host says she learned that on August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10844"
