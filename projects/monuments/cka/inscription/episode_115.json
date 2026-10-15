@@ -60,8 +60,8 @@
             "C-4548"
           ],
           "related_nodes": [
+            "N-678",
             "N-679",
-            "N-680",
             "N-10972"
           ],
           "tags": [],
@@ -247,7 +247,7 @@
             "C-4577"
           ],
           "related_nodes": [
-            "N-161",
+            "N-160",
             "N-10971"
           ],
           "tags": [],
@@ -273,8 +273,8 @@
             "C-4579"
           ],
           "related_nodes": [
-            "N-270",
-            "N-683",
+            "N-269",
+            "N-682",
             "N-1"
           ],
           "tags": [],
@@ -301,7 +301,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-669"
+            "N-668"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -679,8 +679,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Transcript spellings \"Blake Neff\" and \"Blick Nef\". Posted on X mocking the host's FOIA request.",
@@ -698,8 +698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "The host says he did not call 911 but called his wife.",
@@ -715,8 +715,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Asked on his podcast who killed Charlie Kirk and why the ground was paved over.",
@@ -734,8 +734,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Dan Flood",
       "type": "person",
       "description": "The host says Erika Kirk gave him a raise after the assassination.",
@@ -751,8 +751,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-380",
-      "ref": "N-380",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Transcript spelling \"Dan Bonino\". The host calls his reaction to Butler strange.",
@@ -768,8 +768,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-679",
-      "ref": "N-679",
+      "@id": "N-678",
+      "ref": "N-678",
       "name": "Mark Liti",
       "type": "person",
       "description": "First named by the host at 00:06:04 in episode 115. Supervisor at Surefire Wireline LLC who died on August 23, 2022, aged 48, in what was reported as a burn-barrel explosion; the host says he allegedly took explosives from work. Aliases: Mark A. Leiti; Mark Ley; Mark Le; Mark A. Ley; Mark a lady.",
@@ -794,8 +794,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-680",
-      "ref": "N-680",
+      "@id": "N-679",
+      "ref": "N-679",
       "name": "Chris Liti",
       "type": "person",
       "description": "First named by the host at 00:07:01 in episode 115. Named in the news clip as Mark Liti's older brother, still trying to process his death.",
@@ -813,8 +813,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-681",
-      "ref": "N-681",
+      "@id": "N-680",
+      "ref": "N-680",
       "name": "Courtney Thief",
       "type": "person",
       "description": "First named by the host at 00:08:45 in episode 115. Described as a former ATF agent through whom word of Liti's confession and the ATF investigation reportedly passed; the name spelling is uncertain.",
@@ -831,8 +831,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-682",
-      "ref": "N-682",
+      "@id": "N-681",
+      "ref": "N-681",
       "name": "Joe Biden",
       "type": "person",
       "description": "First named by the host at 00:21:38 in episode 115 (as \"President Biden\"). The host notes he, not Trump, was president at the time of the pager operation.",
@@ -848,8 +848,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-683",
-      "ref": "N-683",
+      "@id": "N-682",
+      "ref": "N-682",
       "name": "Cameron Hanes",
       "type": "person",
       "description": "First named by the host at 00:33:58 in episode 115. Joe Rogan's podcast guest in the clip played. Aliases: Cameron Haynes.",
@@ -867,8 +867,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-669",
-      "ref": "N-669",
+      "@id": "N-668",
+      "ref": "N-668",
       "name": "James Kaddis",
       "type": "person",
       "description": "First named by the host at 00:35:47 in episode 115. Pastor who co-hosts Erika Kirk's show and read the viewer question that preceded her breakdown.",
@@ -886,8 +886,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-628",
-      "ref": "N-628",
+      "@id": "N-627",
+      "ref": "N-627",
       "name": "Vladimir Putin",
       "type": "person",
       "description": "First named by the host at 00:51:56 in episode 115 (as \"Vlatty Daddy\"). The host denies Ben Shapiro's rumor that she was spending time with him in Russia.",
@@ -1336,7 +1336,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-679",
+        "N-678",
         "N-105"
       ]
     },
@@ -1358,7 +1358,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-679"
+        "N-678"
       ]
     },
     {
@@ -1403,8 +1403,8 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-679",
-        "N-681"
+        "N-678",
+        "N-680"
       ]
     },
     {
@@ -1687,7 +1687,7 @@
         "C-2294"
       ],
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-1"
       ]
     },
@@ -1707,7 +1707,7 @@
       "transcript_snippet": "your wife is actually going to offer your members in your security team a raise after your assassination like she did to Dan Flood.",
       "mentions_person_refs": [
         "N-2",
-        "N-272",
+        "N-271",
         "N-1"
       ]
     },
@@ -1728,7 +1728,7 @@
       "investigative_direction": "Obtain the coroner's report, police incident report and local news coverage of the August 23, 2022 death.",
       "transcript_snippet": "There was a man named Mark A. Leiti, and he died in a rather bizarre accident. Uh the initial story is that he was in his backyard messing around with his burn barrel when something suddenly exploded.",
       "mentions_person_refs": [
-        "N-679"
+        "N-678"
       ]
     },
     {
@@ -1748,8 +1748,8 @@
       "investigative_direction": "Check whether investigators, the ATF or the coroner identified the explosive material.",
       "transcript_snippet": "The lady family still doesn't know what ignited inside the barrel that caused that explosion.",
       "mentions_person_refs": [
-        "N-680",
-        "N-679"
+        "N-679",
+        "N-678"
       ]
     },
     {
@@ -1768,7 +1768,7 @@
       "investigative_direction": "Confirm Liti's employment and role through Surefire Wireline, his obituary or Pennsylvania business records.",
       "transcript_snippet": "Mark Ley, not mentioned here in that news clip, was a supervisor for a company called Surefire Wireline LLC. that is in Kittening, Pennsylvania.",
       "mentions_person_refs": [
-        "N-679"
+        "N-678"
       ]
     },
     {
@@ -1787,7 +1787,7 @@
       "investigative_direction": "Check industry and ATF documentation on the explosives used in wireline perforating guns and Surefire's explosives licenses.",
       "transcript_snippet": "Because that technique requires the use of a very specific explosive. known as PE TN.",
       "mentions_person_refs": [
-        "N-679"
+        "N-678"
       ]
     },
     {
@@ -1806,9 +1806,9 @@
       "investigative_direction": "Identify the source of the confession account and any ATF or employer record of missing explosives in 2022.",
       "transcript_snippet": "Allegedly, Mark A. Ley had confessed to his longtime high school friend just a week before he died um that he had illegally taken some explosives from his job.",
       "mentions_person_refs": [
-        "N-679",
+        "N-678",
         "N-105",
-        "N-681"
+        "N-680"
       ]
     },
     {
@@ -1827,8 +1827,8 @@
       "investigative_direction": "FOIA the ATF for any 2022 investigation into explosives missing from Surefire Wireline or involving Mark Liti.",
       "transcript_snippet": "The ATF was apparently investigating for this, investigating him for this.",
       "mentions_person_refs": [
-        "N-679",
-        "N-681"
+        "N-678",
+        "N-680"
       ]
     },
     {
@@ -1865,7 +1865,7 @@
       "transcript_snippet": "Mark Le's friend's name was Cory Comparator. Yes, it was Cory Comparator who Mark Ley had confided his secret to that he had done something that he wasn't supposed to.",
       "mentions_person_refs": [
         "N-105",
-        "N-679"
+        "N-678"
       ]
     },
     {
@@ -1924,7 +1924,7 @@
       "investigative_direction": "Archive Liti's Facebook friend list and check which Crooks family members appear.",
       "transcript_snippet": "It's worth noting that Mark a lady is also friends with various members of the Crooks family on Facebook.",
       "mentions_person_refs": [
-        "N-679",
+        "N-678",
         "N-104"
       ]
     },
@@ -2138,7 +2138,7 @@
       "investigative_direction": "Confirm the timeline: pager attack September 17–18, 2024; Trump inaugurated January 20, 2025.",
       "transcript_snippet": "Because Donald Trump was not president when the pager operation took place. President Biden was.",
       "mentions_person_refs": [
-        "N-682",
+        "N-681",
         "N-5"
       ]
     },
@@ -2176,7 +2176,7 @@
       ],
       "mentions_person_refs": [
         "N-5",
-        "N-380"
+        "N-379"
       ]
     },
     {
@@ -2339,7 +2339,7 @@
       "investigative_direction": "Archive Blake Neff's X post and its date.",
       "transcript_snippet": "Here we can see the latest thing that Candace will fixate on for the next two weeks as all important.",
       "mentions_person_refs": [
-        "N-161",
+        "N-160",
         "N-3"
       ]
     },
@@ -2381,8 +2381,8 @@
       "investigative_direction": "Identify the Joe Rogan Experience episode and its release date.",
       "transcript_snippet": "Who killed Charlie Kirk for real? Like, what is that? Why is that story so clouded in mystery? And why did they pave over the ground right after the the shooting?",
       "mentions_person_refs": [
-        "N-270",
-        "N-683",
+        "N-269",
+        "N-682",
         "N-1"
       ]
     },
@@ -2404,7 +2404,7 @@
       "transcript_snippet": "This time it was on her show with James, Pastor James Catis, uh when somebody wrote in a question.",
       "mentions_person_refs": [
         "N-2",
-        "N-669",
+        "N-668",
         "N-3"
       ]
     },
@@ -2632,7 +2632,7 @@
       "transcript_snippet": "He's telling people that that I'm like hanging out with Vlatty Daddy over there in Russia.",
       "mentions_person_refs": [
         "N-97",
-        "N-628",
+        "N-627",
         "N-3"
       ]
     }

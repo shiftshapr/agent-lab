@@ -13,7 +13,7 @@ e8c1a85c85a914d7ab71315326ce9f09344096413e804ca240db71899ffb485
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10g): N-11372, N-11373, N-11374
-  - Hole-minted Nodes (reintro-ep011): N-274, N-10146, N-10319, N-10566, N-10713, N-10768
+  - Hole-minted Nodes (reintro-ep011): N-273, N-10146, N-10319, N-10566, N-10713, N-10768
   - Tip-minted Nodes (reintro-ep011): N-10987, N-11053, N-11217
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-13822–C-13870
@@ -533,7 +533,7 @@ Interviewer in the clip where Lyman describes the scene and the recovered rifle.
 
 ---
 
-**N-274** Nate Brooksby
+**N-273** Nate Brooksby
 
 Washington County sheriff; the host plays his press-conference account.
 
@@ -762,7 +762,7 @@ Investigative Direction: Independent corpus sampling of Robinson's other recorde
 Claim Timestamp: 00:09:06
 Claim: In a clip the host plays, Nate Brooksby says that at 8:02 p.m. a friend who has been retired a few years, whom the host describes as a former detective, called to say he knew who the Charlie Kirk shooter was.
 Anchored Artifacts: A-1172.1
-Mentions: N-274, N-125
+Mentions: N-273, N-125
 Investigative Direction: Cross-reference call logs and the court filings already referenced by Brooksby (court documents where the friend was named as a "retired Washington County deputy").
 
 **C-1300** Brooksby attempted to protect the retired detective's identity despite his public-record career
@@ -770,7 +770,7 @@ Investigative Direction: Cross-reference call logs and the court filings already
 Claim Timestamp: 00:17:27
 Claim: Brooksby stated that he did not initially disclose the friend as a former detective and only referenced him generally as "retired law enforcement"; he argued that the court documents were what ultimately revealed the title.
 Anchored Artifacts: A-1172.1, A-1174.1
-Mentions: N-274, N-125
+Mentions: N-273, N-125
 Investigative Direction: Pull the cited court documents and compare Brooksby's public statements with the actual filed text.
 
 **C-1301** Brooksby stated Tyler Robinson had suicidal ideations during the initial phone call
@@ -778,7 +778,7 @@ Investigative Direction: Pull the cited court documents and compare Brooksby's p
 Claim Timestamp: 00:09:48
 Claim: In a clip the host plays, Nate Brooksby says that during the initial call "some information was provided" about Tyler "potentially having some suicidal ideations" and a remote area of Washington County, and that the parents convinced him not to do that.
 Anchored Artifacts: A-1172.2
-Mentions: N-274, N-40
+Mentions: N-273, N-40
 Related Nodes: N-10142
 Investigative Direction: Obtain the full unedited press-conference audio and any internal law-enforcement notes from the call.
 
@@ -787,7 +787,7 @@ Investigative Direction: Obtain the full unedited press-conference audio and any
 Claim Timestamp: 00:10:42
 Claim: Brooksby stated that Tyler came in to Brooksby's office willingly as part of a negotiated "delicate and as soft as possible" reception because he was "fearful of a SWAT team hit" and being shot by law enforcement.
 Anchored Artifacts: A-1172.3
-Mentions: N-274, N-40
+Mentions: N-273, N-40
 Related Nodes: N-10142
 Investigative Direction: Obtain any negotiated-surrender documentation; reconcile with the contemporaneous suicide-ideation claim.
 
@@ -822,7 +822,7 @@ Investigative Direction: Conduct independent newspaper archive search (local Uta
 Claim Timestamp: 00:08:45
 Claim: The host says it is confusing that Nate Brooksby tells us Tyler is suicidal, when her source says Tyler is not suicidal and went to the police station so as not to risk being shot.
 Anchored Artifacts: A-1172.2, A-1172.3
-Mentions: N-274, N-40
+Mentions: N-273, N-40
 Related Nodes: N-10142
 Investigative Direction: Seek clarification from Brooksby or from the Washington County Sheriff's Office on which account is operative.
 
@@ -1290,7 +1290,7 @@ Claim: In the Brooksby press-conference clip aired by the host, Brooksby says he
 Transcript Snippet: He he'll we'll call each&nbsp;&nbsp; other. It's not it's not unusual for me to get&nbsp; a call from him or vice versa.
 
 Anchored Artifacts: A-1172.1
-Mentions: N-274
+Mentions: N-273
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Obtain the unedited clip and the call logs for the 8:02 p.m. call the sheriff described.
@@ -1306,7 +1306,7 @@ Claim: In the Brooksby press-conference clip aired by the host, Brooksby relays 
 Transcript Snippet: I know the family through religious&nbsp; association and uh he's in he's in Washington&nbsp;&nbsp; County now and we're working on trying to get&nbsp; him to come involuntarily.
 
 Anchored Artifacts: A-1172.1
-Mentions: N-274
+Mentions: N-273
 Related Nodes: N-10029, N-10142
 Tags: relevance:core
 Investigative Direction: Obtain the unedited press-conference audio to confirm whether Brooksby said 'voluntarily' or 'involuntarily'. Identify the friend's religious association with the family (court filings named him).
@@ -1611,7 +1611,7 @@ Claim: The host says she thinks Brooksby shows some nervous energy when he says 
 Transcript Snippet: I think Brooksby has some nervous energy&nbsp; there when he's like, "Oh, he called me. That's&nbsp;&nbsp; just totally usual. That's not weird."
 
 Anchored Artifacts: A-1172.1
-Mentions: N-3, N-274
+Mentions: N-3, N-273
 Related Nodes: N-10142
 Tags: relevance:core
 Investigative Direction: Review the unedited press-conference video and compare with the sheriff's account of the call.

@@ -61,8 +61,8 @@
           ],
           "related_nodes": [
             "N-14",
+            "N-162",
             "N-163",
-            "N-164",
             "N-10179"
           ],
           "tags": [],
@@ -89,8 +89,8 @@
             "C-1409"
           ],
           "related_nodes": [
-            "N-165",
             "N-164",
+            "N-163",
             "N-10179"
           ],
           "tags": [],
@@ -220,7 +220,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-173",
+            "N-172",
             "N-1",
             "N-10178",
             "N-43"
@@ -251,7 +251,7 @@
             "C-1416"
           ],
           "related_nodes": [
-            "N-166",
+            "N-165",
             "N-1",
             "N-10178"
           ],
@@ -305,7 +305,7 @@
             "C-1415"
           ],
           "related_nodes": [
-            "N-170"
+            "N-169"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -323,7 +323,7 @@
             "C-1415"
           ],
           "related_nodes": [
-            "N-171"
+            "N-170"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -351,7 +351,7 @@
           ],
           "related_nodes": [
             "N-93",
-            "N-169",
+            "N-168",
             "N-3",
             "N-10176"
           ],
@@ -379,7 +379,7 @@
             "C-1417"
           ],
           "related_nodes": [
-            "N-168"
+            "N-167"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -458,7 +458,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-164"
+            "N-163"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -559,8 +559,8 @@
             "C-9389"
           ],
           "related_nodes": [
-            "N-156",
-            "N-157"
+            "N-155",
+            "N-156"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -600,8 +600,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-163",
-      "ref": "N-163",
+      "@id": "N-162",
+      "ref": "N-162",
       "name": "Yashar Ali",
       "type": "person",
       "description": "X account author of the failing-contextualization quote-tweet (A-1237.1). Per host, \"literally paid to do PR for Zionists.\"",
@@ -623,8 +623,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-164",
-      "ref": "N-164",
+      "@id": "N-163",
+      "ref": "N-163",
       "name": "Iryna Zhuravska",
       "type": "person",
       "description": "Ukrainian refugee whose August 22, 2025 murder in Charlotte, North Carolina, became a major conservative-news topic; footage released/trended September 5. Used as the official anchor in Yashar Ali's attempt to contextualize Josh Hammer's September 9 retweet.",
@@ -648,8 +648,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-165",
-      "ref": "N-165",
+      "@id": "N-164",
+      "ref": "N-164",
       "name": "Matt Walsh",
       "type": "person",
       "description": "X author of the September 5 public-execution tweet used as comparative anchor (A-1238.1).",
@@ -665,13 +665,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-164"
+        "N-163"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Rabbi Pesach Wolicki",
       "type": "person",
       "description": "Rabbi in Israel; per host and Wolicki audio (A-1243.1), participated in the pre-assassination Zoom call with Charlie Kirk and Josh Hammer. Provides direct testimonial artifact regarding Charlie's state of mind and the structure of the meeting.",
@@ -695,8 +695,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-168",
-      "ref": "N-168",
+      "@id": "N-167",
+      "ref": "N-167",
       "name": "Gianmarco Soresi",
       "type": "person",
       "description": "Comedian whose bit about Jewish holidays and Exodus was played in the brief-levity segment. Transcript carries both \"Gianmarco Soresi\" (host) and \"John Marco Siracusa\" (caption) – flag.",
@@ -736,8 +736,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-169",
-      "ref": "N-169",
+      "@id": "N-168",
+      "ref": "N-168",
       "name": "James O'Keefe",
       "type": "person",
       "description": "Referenced by Alex Jones as the precedent for the dead-man-switch mechanism (A-1246.1).",
@@ -776,8 +776,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-170",
-      "ref": "N-170",
+      "@id": "N-169",
+      "ref": "N-169",
       "name": "Dinesh D'Souza",
       "type": "person",
       "description": "X author of A-1245.1 – the \"freak show\" / farmer-sex-with-sheep post about Candace Owens.",
@@ -795,8 +795,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-175",
-      "ref": "N-175",
+      "@id": "N-174",
+      "ref": "N-174",
       "name": "Gabriel",
       "type": "person",
       "description": "Referenced in Josh Hammer / Gabriel reporting thread (transcript name).",
@@ -847,8 +847,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-171",
-      "ref": "N-171",
+      "@id": "N-170",
+      "ref": "N-170",
       "name": "Yishai (X account)",
       "type": "person",
       "description": "Author of the reply post to Dinesh D'Souza (A-1245.2); preserved exactly as spelled on air.",
@@ -862,7 +862,7 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-170"
+        "N-169"
       ]
     },
     {
@@ -927,8 +927,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-172",
-      "ref": "N-172",
+      "@id": "N-171",
+      "ref": "N-171",
       "name": "Tate Brothers (Andrew and Tristan)",
       "type": "person",
       "description": "Listed by Alex Jones as kill-switch recipients (A-1246.1).",
@@ -947,8 +947,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-173",
-      "ref": "N-173",
+      "@id": "N-172",
+      "ref": "N-172",
       "name": "Ali (JTV host)",
       "type": "person",
       "description": "Interviewer in the Josh Hammer JTV segment (A-1242.1). Host name preserved as it appears in transcript.",
@@ -994,9 +994,9 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14",
+        "N-162",
         "N-163",
-        "N-164",
-        "N-165"
+        "N-164"
       ]
     },
     {
@@ -1041,10 +1041,10 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-93",
-        "N-169",
+        "N-168",
         "N-27",
         "N-39",
-        "N-172"
+        "N-171"
       ]
     },
     {
@@ -1064,7 +1064,7 @@
       "related_nodes": [
         "N-1",
         "N-14",
-        "N-166"
+        "N-165"
       ]
     },
     {
@@ -1086,7 +1086,7 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-14",
-        "N-166",
+        "N-165",
         "N-38"
       ]
     },
@@ -1111,8 +1111,8 @@
       "investigative_pressure": "medium",
       "related_nodes": [
         "N-14",
-        "N-163",
-        "N-164"
+        "N-162",
+        "N-163"
       ]
     },
     {
@@ -1473,8 +1473,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-140",
-      "ref": "N-140",
+      "@id": "N-139",
+      "ref": "N-139",
       "name": "Konstantin Kisin",
       "type": "person",
       "description": "Konstantin Kisin (transcribed Konstantin Kisin); the host says he told Megyn Kelly to make a statement against Candace and Tucker.",
@@ -1490,8 +1490,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-156",
-      "ref": "N-156",
+      "@id": "N-155",
+      "ref": "N-155",
       "name": "John Mappin",
       "type": "person",
       "description": "John Mappin (transcribed Mappin); co-author of a letter the host references.",
@@ -1509,8 +1509,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-157",
-      "ref": "N-157",
+      "@id": "N-156",
+      "ref": "N-156",
       "name": "Irina Mappin",
       "type": "person",
       "description": "Irina Mappin (transcribed Mappin); co-author of a letter the host references.",
@@ -1528,8 +1528,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-183",
-      "ref": "N-183",
+      "@id": "N-182",
+      "ref": "N-182",
       "name": "Sam Parker",
       "type": "person",
       "description": "Sam Parker; the account Ali says the host quote tweeted.",
@@ -1931,8 +1931,8 @@
       "investigative_direction": "Verify Yashar Ali's exact post text and timing against X archives; verify whether the \"day prior\" framing matches the post dates of alleged \"many conservatives.\"",
       "mentions_person_refs": [
         "N-55",
-        "N-163",
-        "N-164"
+        "N-162",
+        "N-163"
       ]
     },
     {
@@ -1949,7 +1949,7 @@
       "claim_timestamp": "00:08:44",
       "investigative_direction": "Verify dates against Charlotte-Mecklenburg Police Department records, news archives, and X trend timelines.",
       "mentions_person_refs": [
-        "N-164"
+        "N-163"
       ]
     },
     {
@@ -1985,8 +1985,8 @@
       "investigative_direction": "Verify the full segment transcript and any accompanying written material Hammer posted in that window.",
       "mentions_person_refs": [
         "N-55",
-        "N-164",
-        "N-175"
+        "N-163",
+        "N-174"
       ]
     },
     {
@@ -2003,8 +2003,8 @@
       "claim_timestamp": "00:13:45",
       "investigative_direction": "Verify post date and content via X archives.",
       "mentions_person_refs": [
-        "N-164",
-        "N-165"
+        "N-163",
+        "N-164"
       ]
     },
     {
@@ -2064,7 +2064,7 @@
       "investigative_direction": "Verify full JTV segment; corroborate against any Hamptons-meeting or post-call text-chain documentation.",
       "mentions_person_refs": [
         "N-55",
-        "N-173",
+        "N-172",
         "N-1"
       ]
     },
@@ -2084,7 +2084,7 @@
       "claim_timestamp": "00:29:05",
       "investigative_direction": "Verify full Wolicki interview; obtain unedited transcript.",
       "mentions_person_refs": [
-        "N-166",
+        "N-165",
         "N-1"
       ]
     },
@@ -2104,7 +2104,7 @@
       "claim_timestamp": "00:30:17",
       "investigative_direction": "Verify full Wolicki interview; cross-check with documented calendar entries and Zoom records.",
       "mentions_person_refs": [
-        "N-166",
+        "N-165",
         "N-1"
       ]
     },
@@ -2123,7 +2123,7 @@
       "claim_timestamp": "00:47:42",
       "investigative_direction": "Verify post timestamp and any subsequent deletion; verify Yishai reply and any subsequent post changes.",
       "mentions_person_refs": [
-        "N-170",
+        "N-169",
         "N-3"
       ]
     },
@@ -2147,7 +2147,7 @@
         "N-3",
         "N-49",
         "N-22",
-        "N-172",
+        "N-171",
         "N-39"
       ]
     },
@@ -2168,7 +2168,7 @@
       "investigative_direction": "Verify O'Keefe's actual mechanism; obtain O'Keefe's primary disclosure.",
       "mentions_person_refs": [
         "N-93",
-        "N-169",
+        "N-168",
         "N-3"
       ]
     },
@@ -2493,7 +2493,7 @@
       "investigative_direction": "Ask the host for the basis of the claim and check Ali's disclosed clients and any public contracts or filings.",
       "transcript_snippet": "quite literally paid to do PR for Zionists. I know this personally.",
       "mentions_person_refs": [
-        "N-163",
+        "N-162",
         "N-3"
       ]
     },
@@ -2518,7 +2518,7 @@
         "C-1406"
       ],
       "mentions_person_refs": [
-        "N-164",
+        "N-163",
         "N-55"
       ]
     },
@@ -2541,8 +2541,8 @@
       "investigative_direction": "Retrieve the host's quote tweet, the Sam Parker post it quoted and Ali's reply to confirm order and wording.",
       "transcript_snippet": "Candace Owens quote tweeted notorious neo-Nazi Sam Parker, who pointed out that Josh Hammer, who is Jewish and was a friend of Charlie Kirk's, elevated",
       "mentions_person_refs": [
-        "N-163",
-        "N-183",
+        "N-162",
+        "N-182",
         "N-3",
         "N-55"
       ]
@@ -2569,7 +2569,7 @@
       ],
       "mentions_person_refs": [
         "N-55",
-        "N-164",
+        "N-163",
         "N-3"
       ]
     },
@@ -2592,7 +2592,7 @@
       "transcript_snippet": "Josh himself sent multiple tweets regarding the homicide, as everyone did, because, like I said, it was trending. Um",
       "mentions_person_refs": [
         "N-55",
-        "N-164"
+        "N-163"
       ]
     },
     {
@@ -2645,8 +2645,8 @@
         "C-1409"
       ],
       "mentions_person_refs": [
-        "N-165",
-        "N-164"
+        "N-164",
+        "N-163"
       ]
     },
     {
@@ -2721,7 +2721,7 @@
       ],
       "mentions_person_refs": [
         "N-55",
-        "N-166",
+        "N-165",
         "N-1"
       ]
     },
@@ -2746,7 +2746,7 @@
       "mentions_person_refs": [
         "N-55",
         "N-1",
-        "N-173"
+        "N-172"
       ]
     },
     {
@@ -2771,7 +2771,7 @@
         "N-55",
         "N-3",
         "N-130",
-        "N-173"
+        "N-172"
       ]
     },
     {
@@ -2861,7 +2861,7 @@
       ],
       "mentions_person_refs": [
         "N-55",
-        "N-166",
+        "N-165",
         "N-1",
         "N-3"
       ]
@@ -2889,7 +2889,7 @@
         "C-1377"
       ],
       "mentions_person_refs": [
-        "N-166",
+        "N-165",
         "N-55",
         "N-1",
         "N-3"
@@ -2962,7 +2962,7 @@
       "investigative_direction": "Ask Wolicki for the form and volume of that contact (calls, messages) and corroborate with Kirk-side records.",
       "transcript_snippet": "I was in touch with Charlie on an almost daily basis for months. And he certainly had uh some disagreements with Israeli policy and he criticized Israel where",
       "mentions_person_refs": [
-        "N-166",
+        "N-165",
         "N-1"
       ]
     },
@@ -2983,7 +2983,7 @@
       "investigative_direction": "Compare against Q&A transcripts from earlier Kirk campus events to estimate the share of Israel questions.",
       "transcript_snippet": "between 40 and 50% of all of the questions and and challenges that he would get on these campus tours were usually about Israel. Cuz the campuses, of course, have a lot of anti-Israel sentiment, and Charlie was known as",
       "mentions_person_refs": [
-        "N-166",
+        "N-165",
         "N-1"
       ]
     },
@@ -3009,7 +3009,7 @@
         "C-1414"
       ],
       "mentions_person_refs": [
-        "N-166",
+        "N-165",
         "N-3",
         "N-22",
         "N-1"
@@ -3137,7 +3137,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-55",
-        "N-166",
+        "N-165",
         "N-3"
       ]
     },
@@ -3364,7 +3364,7 @@
         "C-1415"
       ],
       "mentions_person_refs": [
-        "N-170",
+        "N-169",
         "N-3"
       ]
     },
@@ -3383,7 +3383,7 @@
       "investigative_direction": "Ask the host for any basis for the insinuation; none is presented on air.",
       "transcript_snippet": "you want to know your opinion on me, not what's on your laptop and how they maybe blackmailed you, okay? That's not what we're interested",
       "mentions_person_refs": [
-        "N-170",
+        "N-169",
         "N-3"
       ]
     },
@@ -3855,8 +3855,8 @@
       "investigative_direction": "Locate the Mappins' published letter and compare it with the letter described in earlier episodes.",
       "transcript_snippet": "I think John and Irina Mappin in that beautiful letter they wrote yesterday said it way more eloquently than I ever could. Which is if you if you actually continue",
       "mentions_person_refs": [
+        "N-155",
         "N-156",
-        "N-157",
         "N-1",
         "N-3"
       ]
@@ -4021,7 +4021,7 @@
       "investigative_direction": "Find Kissin's public statements and any reporting of his exchange with Kelly.",
       "transcript_snippet": "Konstantin Kisin, when he was like, \"You need to make a statement against Candace and Tucker.\" Um somebody else was saying to her, \"Candace doesn't",
       "mentions_person_refs": [
-        "N-140",
+        "N-139",
         "N-46",
         "N-3",
         "N-22"

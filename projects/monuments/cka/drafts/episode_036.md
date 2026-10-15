@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 270e4d6bd7c7e45e5b54085cd242a98cd8703f80aa479f990d94ccfcff20d864
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-712, N-11008, N-11012
-  - Hole-minted Nodes (reintro-ep036): N-285, N-10284, N-10294
+  - Tip-minted Nodes (supplement_2026-10): N-711, N-11008, N-11012
+  - Hole-minted Nodes (reintro-ep036): N-284, N-10284, N-10294
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-4975–C-5061
-  - New Nodes Introduced: N-272, N-10271, N-10272
-  - Reused Nodes Appearing: N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-331, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10045, N-10051, N-10116, N-10134, N-10145, N-10175, N-10197, N-10224, N-10243, N-10246, N-10253, N-10261, N-10265, N-10266, N-10268, N-10269, N-10355, N-273, N-714, N-379, N-10270, N-11009, N-10316, N-10862, N-11011, N-713, N-10336, N-10337, N-10345, N-10853, N-11010, N-10342, N-274
+  - New Nodes Introduced: N-271, N-10271, N-10272
+  - Reused Nodes Appearing: N-5, N-9, N-14, N-16, N-36, N-37, N-38, N-42, N-69, N-82, N-330, N-10000, N-10001, N-10012, N-10020, N-10028, N-10029, N-10045, N-10051, N-10116, N-10134, N-10145, N-10175, N-10197, N-10224, N-10243, N-10246, N-10253, N-10261, N-10265, N-10266, N-10268, N-10269, N-10355, N-272, N-713, N-378, N-10270, N-11009, N-10316, N-10862, N-11011, N-712, N-10336, N-10337, N-10345, N-10853, N-11010, N-10342, N-273
   - (see registers)
 
 ## 6. Meme Register
@@ -155,7 +155,7 @@ Video Timestamp: 00:34:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1762, N-268, N-272, N-273, N-226, N-10272*
+*Related: C-1762, N-267, N-271, N-272, N-225, N-10272*
 
 ---
 
@@ -169,7 +169,7 @@ Video Timestamp: 00:34:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1762, C-1763, N-268, N-272, N-273, N-10272*
+*Related: C-1762, C-1763, N-267, N-271, N-272, N-10272*
 
 ---
 
@@ -183,7 +183,7 @@ Video Timestamp: 00:41:28
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1764, C-1765, C-1766, N-274, N-10271*
+*Related: C-1764, C-1765, C-1766, N-273, N-10271*
 
 ---
 
@@ -225,7 +225,7 @@ Video Timestamp: 00:08:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-4988, N-3, N-82, N-379, N-11011*
+*Related: C-4988, N-3, N-82, N-378, N-11011*
 
 ---
 
@@ -268,7 +268,7 @@ Video Timestamp: 00:51:14
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-5053, C-5054, N-714, N-1, N-3*
+*Related: C-5053, C-5054, N-713, N-1, N-3*
 
 ---
 
@@ -302,7 +302,7 @@ Confidence Level: High
 
 ## 4. Node Register
 
-**N-268** Brian Harpole
+**N-267** Brian Harpole
 
 Turning Point USA head of security; appeared on Shawn Ryan show and is alleged by host to have misrepresented the provenance of text messages read during that interview.
 
@@ -315,7 +315,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-272** Dan Flood
+**N-271** Dan Flood
 
 Turning Point USA security figure identified as the author of the text exchange to Chief Jeff Long about Sorenson Center rooftop access.
 
@@ -328,7 +328,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-273** Jeff Long
+**N-272** Jeff Long
 
 UVU Police Chief identified as correspondent in the Flood text exchange; subject of host's allegation that Harpole misrepresented the communication channel.
 
@@ -341,7 +341,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-226** Shawn Ryan
+**N-225** Shawn Ryan
 
 Host of the interview platform on which Brian Harpole appeared; identified by host as having "got played" by the Harpole appearance.
 
@@ -350,11 +350,11 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1447.1, N-268*
+*Related: A-1447.1, N-267*
 
 ---
 
-**N-274** Nate Brooksby
+**N-273** Nate Brooksby
 
 Washington County Sheriff who held the September 17, 2025 press conference at which he stated "Our job was not to interview. Our job was just to get him here" and that "my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives."
 
@@ -402,7 +402,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1449.1, C-1764, C-1765, C-1766, N-274*
+*Related: A-1449.1, C-1764, C-1765, C-1766, N-273*
 
 ---
 
@@ -415,7 +415,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1447.1, A-1448.1, C-1762, C-1763, N-268, N-272, N-273*
+*Related: A-1447.1, A-1448.1, C-1762, C-1763, N-267, N-271, N-272*
 
 ---
 
@@ -531,7 +531,7 @@ Subject of the host's investigation, the cease and desist letters and the Paris 
 
 ---
 
-**N-285** Xavier Poussard
+**N-284** Xavier Poussard
 
 Author of the Becoming Brigitte book whom the host interviewed in London on December 21, 2024.
 
@@ -539,7 +539,7 @@ Author of the Becoming Brigitte book whom the host interviewed in London on Dece
 
 ---
 
-**N-331** Tulsi Gabbard
+**N-330** Tulsi Gabbard
 
 Named in the host's comment about Kash Patel blocking her office.
 
@@ -547,7 +547,7 @@ Named in the host's comment about Kash Patel blocking her office.
 
 ---
 
-**N-379** Emmanuel Macron
+**N-378** Emmanuel Macron
 
 Named in the cease and desist, the July legal threat and the Delaware suit.
 
@@ -811,7 +811,7 @@ Existing topic on Harpole's Shawn Ryan statements.
 
 ---
 
-**N-712** Tom Clare
+**N-711** Tom Clare
 
 First named by the host at 00:09:25 in episode 36. Described as having sent a December 18, 2024 follow-up email about the cease and desist; his role is not stated in the episode.
 
@@ -819,7 +819,7 @@ First named by the host at 00:09:25 in episode 36. Described as having sent a De
 
 ---
 
-**N-713** Volodymyr Zelensky
+**N-712** Volodymyr Zelensky
 
 First named by the host at 00:20:40 in episode 36, transcribed as "Zilinski" and "Zalinski". Identification as Volodymyr Zelensky is inferred from "President" and the Ukraine leaders' meeting.
 
@@ -827,7 +827,7 @@ First named by the host at 00:20:40 in episode 36, transcribed as "Zilinski" and
 
 ---
 
-**N-714** Ron Paul
+**N-713** Ron Paul
 
 First named in a viewer comment read by the host at 00:51:14 in episode 36.
 
@@ -920,7 +920,7 @@ Claim Timestamp: 00:18:38
 Claim: Displayed legal-team communication says they will likely move to dismiss or stay the Macron lawsuit as inconvenient to litigate in Delaware, citing that the host is in Tennessee, her Delaware companies did not defame anyone, the witnesses are in Tennessee, and the Macrons are not citizens of Delaware.
 
 Anchored Artifacts: A-1446.1
-Mentions: N-3, N-82, N-379
+Mentions: N-3, N-82, N-378
 Related Nodes: N-10270
 Investigative Direction: Obtain the underlying court filings and motion-to-dismiss documents; verify jurisdictional analysis against Macron Delaware corporate registrations; check final ruling on motion.
 
@@ -933,7 +933,7 @@ Claim Timestamp: 00:34:36
 Claim: Host asserts Brian Harpole described the Dan Flood–Jeff Long text exchange using phrasing consistent with presenting it as his own correspondence, rather than identifying it as a Flood–Long exchange.
 
 Anchored Artifacts: A-1447.1, A-1448.1
-Mentions: N-268, N-272, N-273
+Mentions: N-267, N-271, N-272
 Related Nodes: N-10272
 Investigative Direction: Compare full Shawn Ryan interview transcript with authenticated text-message records; verify who authored and received the communications.
 
@@ -946,7 +946,7 @@ Claim Timestamp: 00:34:36
 Claim: In a clip the host plays, Brian Harpole presents what the host says is a text exchange between Dan Flood and Chief Long about student roof access (Sorenson Center staircases to walkways/roofs near the CK setup), asking for either controlled access or one of his guys to be there, with Chief Long's last reply "I got you covered."
 
 Anchored Artifacts: A-1448.1
-Mentions: N-268, N-272, N-273
+Mentions: N-267, N-271, N-272
 Related Nodes: N-10272
 Investigative Direction: Authenticate text records via UVU and Turning Point; cross-reference with UVU Police event-day access logs and rooftop control measures.
 
@@ -985,7 +985,7 @@ Claim Timestamp: 00:41:28
 Claim: Washington County Sheriff Nate Brooksby, in his September 17, 2025 press conference as reported by KUTV, stated: "Within the hour, my friend drove Tyler and his parents to my office where he was greeted by plain clothes detectives."
 
 Anchored Artifacts: A-1449.1
-Mentions: N-274, N-40
+Mentions: N-273, N-40
 Related Nodes: N-10271
 Investigative Direction: Cross-reference Brooksby's account with charging documents, defense filings, witness statements, and any subsequent corrections.
 
@@ -1225,7 +1225,7 @@ Claim: The host says she received the first cease and desist letter from Brigitt
 Transcript Snippet: Suddenly on December 3rd before I interview him, I receive the first ever cease and desist letter from Brigitte Macron and her lawyers.
 
 Anchored Artifacts: A-2724.1
-Mentions: N-3, N-82, N-379, N-285
+Mentions: N-3, N-82, N-378, N-284
 Related Nodes: N-11011
 Investigative Direction: Obtain the December 3, 2024 letter with email headers and the inbox log showing the address used.
 
@@ -1240,7 +1240,7 @@ Claim: The host says Xavier Poussard wrote the Becoming Brigitte book, has never
 Transcript Snippet: Xavier Bousard is a person who wrote the becoming Brigitte book. Uh he has never been sued for defamation
 
 Anchored Artifacts: 
-Mentions: N-285, N-3
+Mentions: N-284, N-3
 Related Nodes: 
 Investigative Direction: Check French and US court records for any defamation suit naming Poussard.
 
@@ -1271,7 +1271,7 @@ Claim: The host says she has confirmed that the CEO of the French company knows 
 Transcript Snippet: the CEO who knows Emmanuel Macron, we've confirmed that, decides they're going to sign a two-year lease for an airport hanger to do what?
 
 Anchored Artifacts: 
-Mentions: N-379
+Mentions: N-378
 Related Nodes: N-11008, N-10269
 Investigative Direction: Identify the Satis CEO by name and document the claimed acquaintance with Macron; obtain the lease terms.
 
@@ -1301,7 +1301,7 @@ Claim: The host says that on December 18, 2024, Tom Clare sent a follow-up email
 Transcript Snippet: on December 18th, Tom Clare sends another follow-up email regarding the cease and desist. And again, I don't receive it because he's sending it to this random box.
 
 Anchored Artifacts: A-2723.1
-Mentions: N-712, N-3
+Mentions: N-711, N-3
 Related Nodes: N-11011
 Investigative Direction: Obtain the December 18, 2024 email and its delivery headers; confirm the sender's identity and role.
 
@@ -1316,7 +1316,7 @@ Claim: The host says her suspicion is that the Macron side knew she was moving t
 Transcript Snippet: I think my suspicion is they knew that I was moving to interview Xavier Bousard which I then did as you can see on the timeline on December 21st.
 
 Anchored Artifacts: A-2723.1
-Mentions: N-3, N-285
+Mentions: N-3, N-284
 Related Nodes: N-11011
 Investigative Direction: Establish who knew of the interview plan before December 3, 2024 and how; obtain communications between the host's team and Poussard.
 
@@ -1346,7 +1346,7 @@ Claim: The host says her sit-down interview with Xavier Poussard premiered on Fe
 Transcript Snippet: on February 17th, we premiere my sitdown with Xavier Busousard.
 
 Anchored Artifacts: A-2723.1
-Mentions: N-285, N-3
+Mentions: N-284, N-3
 Related Nodes: N-11011
 Investigative Direction: Confirm the premiere date from the upload record.
 
@@ -1377,7 +1377,7 @@ Claim: The host says February 24, 2025, the day Charlie Kirk relayed the White H
 Transcript Snippet: This is the day that Donald Trump meets with Emmanuel Macron.
 
 Anchored Artifacts: A-1445.1
-Mentions: N-5, N-379, N-1
+Mentions: N-5, N-378, N-1
 Related Nodes: N-10270
 Investigative Direction: Check the White House schedule and press pool reports for February 24, 2025.
 
@@ -1438,7 +1438,7 @@ Claim: The host says the Macron side sent another legal threat on July 1, 2025.
 Transcript Snippet: on July 1st, Macron sends another legal threat
 
 Anchored Artifacts: 
-Mentions: N-379, N-3
+Mentions: N-378, N-3
 Related Nodes: N-10270
 Investigative Direction: Obtain the July 1, 2025 legal letter and its addressee.
 
@@ -1513,7 +1513,7 @@ Claim: The host says the period of the plane's stay is when Emmanuel and Brigitt
 Transcript Snippet: the period that Bregie and Emmanuel Macron released to the Financial Times that they are suing me in a Delaware court.
 
 Anchored Artifacts: 
-Mentions: N-379, N-82, N-3
+Mentions: N-378, N-82, N-3
 Related Nodes: N-10270, N-10266
 Investigative Direction: Compare the Financial Times article's publication time with the plane's July 20 to 26 stay.
 
@@ -1635,7 +1635,7 @@ Claim: The host says Brigitte Macron greeted President Zelensky (spelled Zilinsk
 Transcript Snippet: Brigitte Macron welcomes President Zalinski into Paris on September 3rd because there is this remarkable and I would assume rare, I don't know, but 35 state leaders meet to discuss Ukraine
 
 Anchored Artifacts: 
-Mentions: N-82, N-713
+Mentions: N-82, N-712
 Related Nodes: N-10294
 Investigative Direction: Check Elysee schedules and press coverage for the September 3, 2025 Ukraine leaders' meeting and Brigitte Macron's attendance.
 
@@ -1696,7 +1696,7 @@ Claim: The host says her Becoming Brigitte season 2 started on September 8, 2025
 Transcript Snippet: Emanuel mentioning MK Ultra in the lawsuit to us 18 times struck us as odd
 
 Anchored Artifacts: 
-Mentions: N-379, N-3
+Mentions: N-378, N-3
 Related Nodes: N-10001, N-10116, N-10270
 Investigative Direction: Count the MK Ultra references in the Delaware complaint.
 
@@ -1726,7 +1726,7 @@ Claim: The host says that if her inclination is right that Xavier Poussard's mes
 Transcript Snippet: Xavier Busousar's messages have been being read and tracked for longer than I even realized
 
 Anchored Artifacts: 
-Mentions: N-285, N-3
+Mentions: N-284, N-3
 Related Nodes: N-11011
 Investigative Direction: Ask Poussard for evidence of account compromise or forensic review of his devices.
 
@@ -1756,7 +1756,7 @@ Claim: The host says she and Poussard thought they had perhaps identified Brigit
 Transcript Snippet: we thought that we had perhaps identified Brigitte Macron at Stanford University. A possibility is what I would say. We were maybe at a 50-50%
 
 Anchored Artifacts: 
-Mentions: N-82, N-285, N-3
+Mentions: N-82, N-284, N-3
 Related Nodes: N-10045, N-10116
 Investigative Direction: Obtain the identification material and the basis for the 50-50 estimate; release it for outside review.
 
@@ -1876,7 +1876,7 @@ Claim: The host says Brian Harpole sat down with Shawn Ryan and tried to explain
 Transcript Snippet: But this is actually the fault of UVU police, right? It's it's actually the fault of this chief long
 
 Anchored Artifacts: 
-Mentions: N-268, N-226, N-273
+Mentions: N-267, N-225, N-272
 Related Nodes: N-10862, N-10272
 Supports: C-1762
 Investigative Direction: Review the full Shawn Ryan interview and compare Harpole's statements about UVU police with the text exchange.
@@ -1938,7 +1938,7 @@ Claim: The host says she was told that the only thing Dan Flood apparently cared
 Transcript Snippet: the only thing that Dan Flood apparently cared about was making sure that their SUVs had clear access behind Charlie, in-n-out access.
 
 Anchored Artifacts: 
-Mentions: N-272, N-1, N-3
+Mentions: N-271, N-1, N-3
 Related Nodes: N-10000, N-10261
 Investigative Direction: Obtain the security plan and vehicle staging diagram; interview staff who attended the advance meetings.
 
@@ -2059,7 +2059,7 @@ Claim: In the clip, Washington County Sheriff Nate Brooksby says at a September 
 Transcript Snippet: Our job was not to interview. Our job was just to get him here
 
 Anchored Artifacts: A-1449.1
-Mentions: N-274, N-40
+Mentions: N-273, N-40
 Related Nodes: N-10029, N-10271
 Investigative Direction: Obtain the full press-conference recording and transcript to confirm context and to whom 'him' refers.
 
@@ -2209,7 +2209,7 @@ Claim: A viewer comment read on air says Ron Paul used his platform to question 
 Transcript Snippet: Just know that Ron Paul has used his platform to speak about it. His friend Charlie Kirk questioning the official narrative
 
 Anchored Artifacts: A-2727.1
-Mentions: N-714, N-1, N-3
+Mentions: N-713, N-1, N-3
 Related Nodes: 
 Investigative Direction: Find the Ron Paul statement or broadcast and its date.
 
@@ -2224,7 +2224,7 @@ Claim: The host says Ron Paul is another person she should send an 'insurance pa
 Transcript Snippet: he's another person that I should probably get some stuff out to send him another insurance package as I'm now terming it
 
 Anchored Artifacts: A-2727.1
-Mentions: N-714, N-3
+Mentions: N-713, N-3
 Related Nodes: 
 Investigative Direction: Ask the host whether the package was sent and what it contained.
 
@@ -2254,7 +2254,7 @@ Claim: The host says that after she saw an article that Kash Patel was blocking 
 Transcript Snippet: I once I saw the article that he was blocking Tulsi's office, I lost all faith in Cash and I think he's a part of the corruption, plain and simple.
 
 Anchored Artifacts: 
-Mentions: N-69, N-331, N-3
+Mentions: N-69, N-330, N-3
 Related Nodes: N-10355
 Investigative Direction: Locate the article about Patel blocking Gabbard's office and check its sourcing.
 

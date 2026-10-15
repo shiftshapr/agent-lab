@@ -12,13 +12,13 @@
 - **Transcript SHA-256**: 8e12049f89e89a3afb605eb38161af512cd6a84eb73ff7723fadfa63f47de64d
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10g): N-936, N-11378
-  - Hole-minted Nodes (reintro-ep019): N-192, N-270, N-10198, N-10218, N-10226, N-10338, N-10346, N-10561, N-10635, N-10806
+  - Tip-minted Nodes (supplement_2026-10g): N-935, N-11378
+  - Hole-minted Nodes (reintro-ep019): N-191, N-269, N-10198, N-10218, N-10226, N-10338, N-10346, N-10561, N-10635, N-10806
   - Tip-minted Nodes (reintro-ep019): N-11093
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10g): C-13936–C-14002
-  - New Nodes Introduced: N-181, N-184, N-185, N-186, N-187, N-188, N-189, N-190, N-10191, N-10193, N-10194, N-10195
-  - Reused Nodes Appearing: N-182, N-183, N-10192, N-2, N-10003, N-10004, N-10056, N-10076, N-10112, N-10148, N-10167, N-10187, N-10389, N-10799
+  - New Nodes Introduced: N-180, N-183, N-184, N-185, N-186, N-187, N-188, N-189, N-10191, N-10193, N-10194, N-10195
+  - Reused Nodes Appearing: N-181, N-182, N-10192, N-2, N-10003, N-10004, N-10056, N-10076, N-10112, N-10148, N-10167, N-10187, N-10389, N-10799
 - **Monument Episode:** 19, N-11
 - **Batch:** 9
 - **Channel / creator:** Candace Owens (@RealCandaceO)
@@ -34,7 +34,7 @@
 
 - **Artifact Families Introduced:** A-1260, A-1261, A-1262, A-1263, A-1264, A-1265, A-1266, A-1267, A-1268, A-1269
 - **Claim Range:** C-1461–C-1481
-- **New People Nodes Introduced:** N-181, N-182, N-7, N-130, N-183, N-184, N-185, N-186, N-187, N-188, N-14, N-189, N-190
+- **New People Nodes Introduced:** N-180, N-181, N-7, N-130, N-182, N-183, N-184, N-185, N-186, N-187, N-14, N-188, N-189
 - **New Investigation Targets Introduced:** N-10191, N-10192, N-10193, N-10194, N-10195
 - **Existing Nodes Reused (referenced):** Charlie Kirk, Candace Owens, Erika Kirk, Tyler Robinson, Mikey McCoy, Pastor Rob McCoy, Tyler Bowyer, Kanye West, Joe Rogan, Donald Trump Jr.
 
@@ -108,7 +108,7 @@ Video Timestamp: 00:24:44–00:25:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (audio content preserved in transcript)
 
-*Related: C-1464, C-1465, N-182*
+*Related: C-1464, C-1465, N-181*
 
 **A-1262.2** Footage of camera operator's actions in the four minutes preceding camera takedown, sent by the operator to Candace Owens via phone.
 
@@ -118,7 +118,7 @@ Video Timestamp: 00:23:05
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1466, N-182*
+*Related: C-1466, N-181*
 
 ---
 
@@ -192,7 +192,7 @@ Video Timestamp: 00:35:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (read-aloud content preserved; original post URL not displayed)
 
-*Related: C-1475, N-186, N-Josh Hammer (existing if inscribed in prior episodes)*
+*Related: C-1475, N-185, N-Josh Hammer (existing if inscribed in prior episodes)*
 
 ---
 
@@ -238,7 +238,7 @@ Discovery Timestamp: 00:00:00–00:00:01
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:53:26
 
-*Related: C-1483, N-187, N-Tyler Robinson (existing)*
+*Related: C-1483, N-186, N-Tyler Robinson (existing)*
 
 **A-1269.6** Ivana Milano comment: "Keep up the great work…"
 
@@ -256,7 +256,7 @@ Video Timestamp: 00:53:26
 
 Video Timestamp: 00:56:09
 
-*Related: C-1484, N-182*
+*Related: C-1484, N-181*
 
 **A-1269.10** Bayern comment: "Come back, Candace. Everyone needs…"
 
@@ -275,7 +275,7 @@ Video Timestamp: 00:08:30
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-13949, C-13950, C-13951, C-13952, C-13954, N-17, N-192, N-181*
+*Related: C-13949, C-13950, C-13951, C-13952, C-13954, N-17, N-191, N-180*
 
 ---
 
@@ -288,7 +288,7 @@ Video Timestamp: 00:17:08
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13963, C-13964, C-13965, C-13966, C-13968, C-13969, C-13970, C-13971, C-13972, C-13973, C-13974, N-3, N-182, N-10192*
+*Related: C-13963, C-13964, C-13965, C-13966, C-13968, C-13969, C-13970, C-13971, C-13972, C-13973, C-13974, N-3, N-181, N-10192*
 
 ---
 
@@ -301,7 +301,7 @@ Video Timestamp: 00:18:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13967, N-3, N-182, N-1, N-10799*
+*Related: C-13967, N-3, N-181, N-1, N-10799*
 
 ---
 
@@ -314,13 +314,13 @@ Video Timestamp: 00:21:27
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-13975, N-11, N-182, N-10346*
+*Related: C-13975, N-11, N-181, N-10346*
 
 ---
 
 ## IV. Node Register
 
-**N-181** Justin McCoy
+**N-180** Justin McCoy
 
 Son of Pastor Rob McCoy. Identified in episode as TPUSA Chief Financial Officer ("chief CFO, chief financial officer"). Referenced in Pastor McCoy's A-1260.1 sermon regarding succession.
 
@@ -333,7 +333,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-182** Camera Operator (UVU Event, 2025-09-10)
+**N-181** Camera Operator (UVU Event, 2025-09-10)
 
 Unnamed AV company operator at the UVU Charlie Kirk event. Operated TPUSA event cameras; recorded selfie video immediately post-shooting; sent a video to Candace Owens covering four minutes of activity before camera takedown. Identified by host as having been brought into TPUSA by Tyler Bowyer.
 
@@ -372,7 +372,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-183** Sam Parker
+**N-182** Sam Parker
 
 Internet investigator cited by host as among those who helped circulate the Mikey McCoy September 10 footage.
 
@@ -385,7 +385,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-184** James Lee
+**N-183** James Lee
 
 Internet investigator cited by host as among those helping circulate post-event footage.
 
@@ -398,7 +398,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-185** Zeb Boykin
+**N-184** Zeb Boykin
 
 Internet investigator cited by host as conducting ballistics work on the case.
 
@@ -411,7 +411,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-186** John Miller
+**N-185** John Miller
 
 X (Twitter) user whose post about Josh Hammer is read aloud (A-1267.1).
 
@@ -424,7 +424,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-187** Joshua Steves
+**N-186** Joshua Steves
 
 Viewer-comment author referencing Tyler Robinson's Zoom court appearance.
 
@@ -437,7 +437,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-188** Stacy Sheridan
+**N-187** Stacy Sheridan
 
 Identified by host as TPUSA's "chief money person," holding camera during casket escort off Air Force 2. Brought into TPUSA by Tyler Bowyer per host.
 
@@ -463,7 +463,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-189** Scott Adams
+**N-188** Scott Adams
 
 Referenced by host as having produced a video characterizing Kanye West's tweet about Candace Owens as having "ripped a hole through the universe."
 
@@ -476,7 +476,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-190** Ryan Matta
+**N-189** Ryan Matta
 
 Online researcher on X. Listed in this episode by the original extraction, but not named in it; first named in ep34 (2026-10-15 correction).
 
@@ -524,7 +524,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1484, N-182*
+*Related: A-1262.1, A-1262.2, A-1269.9, C-1464, C-1465, C-1466, C-1484, N-181*
 
 ---
 
@@ -550,7 +550,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1260.1, C-1467, N-Pastor Rob McCoy (existing), N-181*
+*Related: A-1260.1, C-1467, N-Pastor Rob McCoy (existing), N-180*
 
 ---
 
@@ -563,7 +563,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1265.1, A-1267.1, C-1476, N-186*
+*Related: A-1265.1, A-1267.1, C-1476, N-185*
 
 ---
 
@@ -744,7 +744,7 @@ Pastor whose sermon clip the host plays about Kirk's succession plan and his son
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Rob McCoy's son and TPUSA chief of staff; the host analyzes his phone use at the shooting.
 
@@ -768,7 +768,7 @@ Kanye West; his album party in Wyoming and his 2018 tweet about the host are dis
 
 ---
 
-**N-270** Joe Rogan
+**N-269** Joe Rogan
 
 Podcaster; the host recalls flying to Wyoming after doing his show.
 
@@ -800,7 +800,7 @@ Commentator the host says lied about Kirk's Israel position and then doubled dow
 
 ---
 
-**N-936** Foster Friess
+**N-935** Foster Friess
 
 First named by the host at 00:01:39 in episode 19. Described by the host as a big-time donor to Turning Point USA whose funeral in Wyoming was the last trip she took with Charlie Kirk.
 
@@ -826,7 +826,7 @@ Claim Timestamp: 00:10:34–00:11:27
 Claim: The host says that in a slowed-down clip it is exactly 834 milliseconds from when the shot is heard until Mikey McCoy puts his phone to his ear.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-192
+Mentions: N-191
 
 Related Nodes: N-10191, N-10193
 
@@ -841,7 +841,7 @@ Claim Timestamp: 00:13:17
 Claim: The host says she and her team found what they think could be the moment, approximately 1 minute 45 seconds before the gunshot, when Mikey McCoy is on his phone.
 
 Anchored Artifacts: A-1261.3
-Mentions: N-192
+Mentions: N-191
 
 Related Nodes: N-10191, N-10193
 
@@ -856,7 +856,7 @@ Claim Timestamp: 00:12:22
 Claim: The host says event-day footage shows Mikey McCoy in the background at Charlie Kirk's waiting car, still holding his phone.
 
 Anchored Artifacts: A-1261.2
-Mentions: N-1, N-192
+Mentions: N-1, N-191
 
 Related Nodes: N-10191, N-10193
 
@@ -871,7 +871,7 @@ Claim Timestamp: 00:24:44–00:25:51
 Claim: The host says the unnamed camera operator recorded a selfie video within the first minute after the shooting.
 
 Anchored Artifacts: A-1262.1
-Mentions: N-182
+Mentions: N-181
 
 Related Nodes: N-10192
 
@@ -886,7 +886,7 @@ Claim Timestamp: 00:24:44–00:25:51
 Claim: In the selfie video, the camera operator states "He's dead."
 
 Anchored Artifacts: A-1262.1
-Mentions: N-182, N-1
+Mentions: N-181, N-1
 
 Related Nodes: N-10192
 
@@ -901,7 +901,7 @@ Claim Timestamp: 00:23:05
 Claim: The camera operator sent Candace Owens a video showing his actions during the four minutes preceding camera takedown.
 
 Anchored Artifacts: A-1262.2
-Mentions: N-182, N-3
+Mentions: N-181, N-3
 
 Related Nodes: N-10192
 
@@ -1034,7 +1034,7 @@ Claim Timestamp: 00:35:33
 Claim: John Miller posted: "They really trying to make us believe this is the good guy. LMAO"
 
 Anchored Artifacts: A-1267.1
-Mentions: N-186, N-55
+Mentions: N-185, N-55
 
 
 Investigative Direction: Locate original post URL and timestamp on X.
@@ -1063,7 +1063,7 @@ Claim Timestamp: 00:23:56
 Claim: Host states the camera operator was brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion)
-Mentions: N-11, N-182
+Mentions: N-11, N-181
 
 
 Investigative Direction: Obtain TPUSA hiring/contract records for the unnamed AV company operator.
@@ -1077,7 +1077,7 @@ Claim Timestamp: 00:04:39
 Claim: Host states that the people she listed for the group chat, including Andrew Kolvet and Stacy Sheridan, were brought into TPUSA by Tyler Bowyer.
 
 Anchored Artifacts: None (host assertion; full discussion deferred)
-Mentions: N-11, N-14, N-188
+Mentions: N-11, N-14, N-187
 
 
 Investigative Direction: Verify via TPUSA organizational records.
@@ -1091,7 +1091,7 @@ Claim Timestamp: 00:04:39
 Claim: Host states Stacy Sheridan was brought into TPUSA by Tyler Bowyer to handle big-donor relations.
 
 Anchored Artifacts: None (host assertion)
-Mentions: N-11, N-188
+Mentions: N-11, N-187
 
 
 Investigative Direction: Verify via TPUSA organizational records.
@@ -1148,7 +1148,7 @@ Claim Timestamp: 00:53:26
 Claim: Joshua Steves commenter states Tyler Robinson appeared in court via Zoom "without having to show his face."
 
 Anchored Artifacts: A-1269.5
-Mentions: N-187, N-40
+Mentions: N-186, N-40
 
 
 Investigative Direction: Obtain court appearance records and any media coverage of the Zoom appearance.
@@ -1162,7 +1162,7 @@ Claim Timestamp: 00:56:09
 Claim: A viewer comment the host reads, from David Foster, says he was "more shook up seeing the footage than the camera guy seemed in a selfie video" and that the camera operator "wasn't even shaking."
 
 Anchored Artifacts: A-1269.9
-Mentions: N-182
+Mentions: N-181
 
 Related Nodes: N-10192
 
@@ -1177,7 +1177,7 @@ Claim Timestamp: 00:13:46–00:14:46
 Claim: Host states she contacted both Mikey McCoy and Andrew Kolvet for statement/comment and received no response.
 
 Anchored Artifacts: None (host assertion)
-Mentions: N-14, N-192
+Mentions: N-14, N-191
 
 
 Investigative Direction: Obtain any written correspondence or call records from the outreach attempts.
@@ -1191,7 +1191,7 @@ Claim Timestamp: 00:12:22
 Claim: Host states she told someone to play devil's advocate for Mikey McCoy and explain how he did it so quickly; "no one could win this game."
 
 Anchored Artifacts: A-1261.1 (the underlying footage that prompted the exercise)
-Mentions: N-192
+Mentions: N-191
 
 Related Nodes: N-10193
 
@@ -1206,7 +1206,7 @@ Claim Timestamp: 00:07:45
 Claim: The host says it is thanks to people on the internet like Sam Parker, James Lee, Ian Carroll and Zeb Boykin, among others, that a video from September 10th has gone pretty viral.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-183, N-184, N-130, N-185
+Mentions: N-182, N-183, N-130, N-184
 
 
 Investigative Direction: Cross-reference name spelling against prior episodes and public records.
@@ -1220,7 +1220,7 @@ Claim Timestamp: 00:52:47
 Claim: Host states she will dig up a Scott Adams video about Kanye West's tweet ripping a hole through the universe.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-189, N-27
+Mentions: N-188, N-27
 
 
 Investigative Direction: Locate the referenced Scott Adams video and timestamp the host mention.
@@ -1268,7 +1268,7 @@ Claim: The host says Charlie Kirk paid for her flight to Wyoming, which she had 
 Transcript Snippet: Charlie I was thinking out there and remembering paid for my flight to Wyoming. I had to get there very quickly because I was doing um Joe Rogan's podcast.
 
 Anchored Artifacts: 
-Mentions: N-1, N-3, N-270
+Mentions: N-1, N-3, N-269
 Related Nodes: N-10003
 Tags: relevance:tangential
 Investigative Direction: Check the date of the Rogan recording and any travel or payment records the host holds.
@@ -1300,7 +1300,7 @@ Claim: The host says the last time she went to Wyoming she was with Charlie Kirk
 Transcript Snippet: the last time I went to Wyoming I was with Charlie Kirk who was the last person I visited with and it was for um ironically Foster Friess funeral
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-936
+Mentions: N-3, N-1, N-935
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Locate Foster Friess's funeral notice and attendee reports to date the host's trip with Kirk.
@@ -1316,7 +1316,7 @@ Claim: The host describes Foster Friess as a big-time donor to Turning Point USA
 Transcript Snippet: Foster Friess funeral who was a big- time donor to Turning Point USA still is I believe
 
 Anchored Artifacts: 
-Mentions: N-936
+Mentions: N-935
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check TPUSA donor disclosures and press coverage for Friess family giving to Turning Point.
@@ -1332,7 +1332,7 @@ Claim: The host says the Wyoming venue where Kanye West held his album release p
 Transcript Snippet: where he held that album release party would be where years later Foster Friess would have his funeral.
 
 Anchored Artifacts: 
-Mentions: N-27, N-936
+Mentions: N-27, N-935
 Related Nodes: 
 Tags: relevance:tangential
 Investigative Direction: Verify the venue of the album event and of the funeral service.
@@ -1364,7 +1364,7 @@ Claim: The host says she had assumed Kirk's inner circle (Tyler Bowyer, Andrew K
 Transcript Snippet: We were all going to maybe be on a group chat. Me, Tyler Bowyer, Andrew Kolvet, Stacy Sheridan.
 
 Anchored Artifacts: 
-Mentions: N-3, N-11, N-14, N-188
+Mentions: N-3, N-11, N-14, N-187
 Related Nodes: N-10198
 Tags: relevance:context
 Investigative Direction: Ask the named individuals whether any such group chat existed after 2025-09-10; compare with the nine-member group chat described in episode 15.
@@ -1380,7 +1380,7 @@ Claim: The host says Stacy Sheridan is the person holding the camera while Charl
 Transcript Snippet: she's the one who's holding the camera when Charlie's casket is being escorted off of Air Force 2.
 
 Anchored Artifacts: 
-Mentions: N-188, N-1
+Mentions: N-187, N-1
 Related Nodes: N-10561
 Tags: relevance:core
 Investigative Direction: Identify the casket-arrival footage and confirm who was holding the camera; check Sheridan's own account.
@@ -1396,7 +1396,7 @@ Claim: The host says Stacy Sheridan is essentially the chief money person at Tur
 Transcript Snippet: She's like the chief money person essentially at Turning Point USA.
 
 Anchored Artifacts: 
-Mentions: N-188
+Mentions: N-187
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check Sheridan's TPUSA title and hire date in TPUSA staff pages and filings.
@@ -1412,7 +1412,7 @@ Claim: The host says she is told the people around Kirk believe the official nar
 Transcript Snippet: I am told that these people believe the official narrative. Lone shooter. No one else involved.
 
 Anchored Artifacts: 
-Mentions: N-3, N-11, N-14, N-188
+Mentions: N-3, N-11, N-14, N-187
 Related Nodes: N-10112
 Tags: relevance:core
 Investigative Direction: Seek on-record statements from Bowyer, Kolvet and Sheridan on whether they accept the lone-shooter account.
@@ -1444,7 +1444,7 @@ Claim: In the sermon clip played, Pastor Rob McCoy says that when he told his so
 Transcript Snippet: And I thought, I I got a plan for you, son. He said, "Dad, that's not Charlie's plan."
 
 Anchored Artifacts: A-3287.1
-Mentions: N-17, N-192
+Mentions: N-17, N-191
 Related Nodes: N-10218
 Tags: relevance:core
 Investigative Direction: Obtain the full recording of the sermon and confirm which son is quoted and what plan is meant.
@@ -1460,7 +1460,7 @@ Claim: In the sermon clip, Rob McCoy says he is looking at his son who is 24 yea
 Transcript Snippet: Justin's the chief CFO, chief financial officer, and Mikey's the chief of staff.
 
 Anchored Artifacts: A-3287.1
-Mentions: N-17, N-181, N-192
+Mentions: N-17, N-180, N-191
 Related Nodes: N-10218
 Tags: relevance:context
 Investigative Direction: Compare against TPUSA leadership listings and filings for the McCoy sons' titles and start dates.
@@ -1476,7 +1476,7 @@ Claim: In the sermon clip, Rob McCoy says that the minute Charlie was shot his s
 Transcript Snippet: the minute Charlie was shot, he called me, says, "Dad, Charlie's been shot in the neck. Please call every pastor and pray.
 
 Anchored Artifacts: A-3287.1
-Mentions: N-17, N-192, N-1
+Mentions: N-17, N-191, N-1
 Related Nodes: N-10338, N-10198
 Tags: relevance:core
 Investigative Direction: Obtain McCoy's phone records for the call time and compare them with the host's phone-timing analysis (C-1461).
@@ -1492,7 +1492,7 @@ Claim: The host says Pastor McCoy's account has Mikey with blood all over him, a
 Transcript Snippet: But the bigger thing is that he says Mikey had blood all over him. Except Mikey did not have blood anywhere near him.
 
 Anchored Artifacts: A-3287.1
-Mentions: N-17, N-192
+Mentions: N-17, N-191
 Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Re-listen to the sermon to settle whether McCoy meant Mikey or Charlie; compare to event footage of Mikey's clothing.
@@ -1508,7 +1508,7 @@ Claim: The host says Mikey McCoy was behind the tent when Charlie got shot.
 Transcript Snippet: Because Mikey was behind the tent when Charlie got shot
 
 Anchored Artifacts: 
-Mentions: N-192, N-1
+Mentions: N-191, N-1
 Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Map Mikey McCoy's position from stage and crowd footage and the UVU site plan.
@@ -1524,7 +1524,7 @@ Claim: The host says McCoy's account stops with "I was watching," and asks what 
 Transcript Snippet: But he stops himself. He says, "I was watching." Watching what exactly. What were you watching?
 
 Anchored Artifacts: A-3287.1
-Mentions: N-17, N-192
+Mentions: N-17, N-191
 Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Check the sermon audio wording (the clip reads "I'm watching" in the transcript) and ask McCoy what he was watching.
@@ -1540,7 +1540,7 @@ Claim: The host says that because Mikey McCoy's phone reaches his ear 834 millis
 Transcript Snippet: there's no dialing. Mikey didn't have time to dial.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-192
+Mentions: N-191
 Related Nodes: N-10226, N-10338
 Supports: C-1461
 Tags: relevance:core
@@ -1557,7 +1557,7 @@ Claim: The host says that Mikey McCoy is next seen in just under two and a half 
 Transcript Snippet: The next time that you're going to see Mikey McCoy, as we just showed you, is in just under two and a half seconds on the other side of the tent. He's on a phone call.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-192
+Mentions: N-191
 Related Nodes: N-10226, N-10338
 Tags: relevance:core
 Investigative Direction: Locate the camera angle showing both positions and confirm the elapsed time between the two sightings.
@@ -1573,7 +1573,7 @@ Claim: The host says she has a large folder of every angle and tracked Mikey McC
 Transcript Snippet: maybe we missed it because that seems that seems automatic, right? 0834. That seems pretty quick. And no, no, he doesn't do that.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-192
+Mentions: N-191
 Related Nodes: N-10226, N-10635
 Tags: relevance:core
 Investigative Direction: Request the host's angle folder and verify the claim against independent footage compilations.
@@ -1589,7 +1589,7 @@ Claim: The host says the only logical conclusion she and others reach is that Mi
 Transcript Snippet: Mikey was already on a phone call at 12:23 p. m. By 12:23 p. m. He was already on a phone call.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-192
+Mentions: N-191
 Related Nodes: N-10193
 Supports: C-1462
 Tags: relevance:core
@@ -1606,7 +1606,7 @@ Claim: The host says that, unlike what she would have done, neither Mikey McCoy 
 Transcript Snippet: I would have issued a statement um to dispel any rumors, but they have not.
 
 Anchored Artifacts: 
-Mentions: N-192, N-14
+Mentions: N-191, N-14
 Related Nodes: N-10193
 Tags: relevance:core
 Investigative Direction: Search McCoy's and TPUSA's channels for any statement on the call; ask them directly.
@@ -1654,7 +1654,7 @@ Claim: The host says that in six years of college events she never had the AV ca
 Transcript Snippet: I've never at any college event ever in six years had that man standing next to me at an event.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-182
+Mentions: N-3, N-1, N-181
 Related Nodes: N-10192, N-10076
 Tags: relevance:core
 Investigative Direction: Ask other TPUSA speakers and stage crews whether an AV operator normally stood beside the speaker at tour stops.
@@ -1670,7 +1670,7 @@ Claim: The host says the camera man acknowledged that a lot of new stuff was hap
 Transcript Snippet: He acknowledged that a lot of new stuff was happening on that day
 
 Anchored Artifacts: A-3288.1
-Mentions: N-3, N-182
+Mentions: N-3, N-181
 Related Nodes: N-10192, N-10076
 Supports: C-9302
 Tags: relevance:core
@@ -1687,7 +1687,7 @@ Claim: The host says she recorded her phone call with the camera man.
 Transcript Snippet: because obviously I recorded the phone call.
 
 Anchored Artifacts: A-3288.1
-Mentions: N-3, N-182
+Mentions: N-3, N-181
 Related Nodes: N-10192
 Tags: relevance:core
 Investigative Direction: Obtain the recording, its date and the host's call notes; ask the camera man to confirm the call.
@@ -1703,7 +1703,7 @@ Claim: The host says the camera man told her he had spoken only to Erika and the
 Transcript Snippet: he told me that a he had spoken only to uh Erika and the feds that he had regarding the footage.
 
 Anchored Artifacts: A-3288.1
-Mentions: N-182, N-2
+Mentions: N-181, N-2
 Related Nodes: N-10192, N-10076
 Tags: relevance:core
 Investigative Direction: Compare with Erika Kirk's and the FBI's statements about who took custody of the camera footage.
@@ -1719,7 +1719,7 @@ Claim: The host says the camera man told her he secured the footage because he w
 Transcript Snippet: he had secured that foot footage because he wanted to prevent Erika as I told you from having to relive that moment
 
 Anchored Artifacts: A-3288.1
-Mentions: N-182, N-2
+Mentions: N-181, N-2
 Related Nodes: N-10192, N-10076
 Tags: relevance:core
 Investigative Direction: Ask the camera man and Erika Kirk's office whether the footage was withheld for that reason.
@@ -1735,7 +1735,7 @@ Claim: The host says that when she saw the footage on FaceTime she realized ther
 Transcript Snippet: once I saw the footage on FaceTime when I realized that there was no blood on Charlie.
 
 Anchored Artifacts: A-3289.1
-Mentions: N-3, N-1, N-182
+Mentions: N-3, N-1, N-181
 Related Nodes: N-10799, N-10192
 Tags: relevance:core
 Investigative Direction: Obtain the camera man's rear-camera footage and review what it shows of Charlie's neck and clothing.
@@ -1751,7 +1751,7 @@ Claim: The host says the camera man told her he needed to speak with Turning Poi
 Transcript Snippet: He then told me that he needed to speak with Turning Point lawyers first to see about releasing the footage.
 
 Anchored Artifacts: A-3288.1
-Mentions: N-182
+Mentions: N-181
 Related Nodes: N-10192, N-10076
 Tags: relevance:core
 Investigative Direction: Ask TPUSA's counsel and the camera man whether lawyers advised on release.
@@ -1767,7 +1767,7 @@ Claim: The host says that, after she pointed out his company owns the footage, t
 Transcript Snippet: He then said, "Okay, yeah, I do own the footage. I just wanted, you know, just coordinate, check, whatever."
 
 Anchored Artifacts: A-3288.1
-Mentions: N-182
+Mentions: N-181
 Related Nodes: N-10192, N-10076
 Tags: relevance:core
 Investigative Direction: Check the camera man's contract with TPUSA on footage ownership and who he coordinated with.
@@ -1783,7 +1783,7 @@ Claim: The host says the camera man told her he did not know how to send the foo
 Transcript Snippet: He said, "I don't know how to send the footage." Like the file was too large.
 
 Anchored Artifacts: A-3288.1
-Mentions: N-182
+Mentions: N-181
 Related Nodes: N-10192, N-10076
 Tags: relevance:core
 Investigative Direction: Play the recording and ask the camera man to explain the file-size reason.
@@ -1799,7 +1799,7 @@ Claim: The host says the camera man told her he did not want to send the footage
 Transcript Snippet: I don't want to just send the footage over the internet uh that's behind Charlie's head because I'm worried that Google might hack me.
 
 Anchored Artifacts: A-3288.1
-Mentions: N-182
+Mentions: N-181
 Related Nodes: N-10192, N-10076
 Tags: relevance:core
 Investigative Direction: Play the recording and confirm the exact wording.
@@ -1815,7 +1815,7 @@ Claim: The host says she asked the camera man who he was on the phone with after
 Transcript Snippet: he was on the phone with the ops that were back in Arizona watching.
 
 Anchored Artifacts: A-3288.1
-Mentions: N-182
+Mentions: N-181
 Related Nodes: N-10192, N-10226
 Supports: C-9302
 Tags: relevance:core
@@ -1832,7 +1832,7 @@ Claim: The host says the camera man told her it was the first time TPUSA did thi
 Transcript Snippet: In fact, this was the first time we were doing it. He said there were two people, two ops that were watching it back in Arizona.
 
 Anchored Artifacts: A-3288.1
-Mentions: N-182
+Mentions: N-181
 Related Nodes: N-10192, N-11093
 Supports: C-9302
 Tags: relevance:core
@@ -1849,7 +1849,7 @@ Claim: The host says the camera man's explanation was that Charlie, being ambiti
 Transcript Snippet: wanted people to live cut the clips so that they could be the first people to get it on the internet.
 
 Anchored Artifacts: A-3288.1
-Mentions: N-182, N-1
+Mentions: N-181, N-1
 Related Nodes: N-10192
 Tags: relevance:context
 Investigative Direction: Ask TPUSA social staff whether a live-clip desk operated from Arizona on 2025-09-10.
@@ -1865,7 +1865,7 @@ Claim: The host says she knew Tyler Bowyer was lying when he tweeted that the ca
 Transcript Snippet: It's also the reason that I knew that Tyler Bowyer was lying when he tweeted that in this guy was commanded by the police to take down the cameras.
 
 Anchored Artifacts: A-3290.1
-Mentions: N-3, N-11, N-182
+Mentions: N-3, N-11, N-181
 Related Nodes: N-10346, N-10167
 Contradicts: C-1366
 Tags: relevance:core
@@ -1882,7 +1882,7 @@ Claim: The host says the camera man was next to and in front of Mikey McCoy when
 Transcript Snippet: So, he's next to and he is in front of Mikey McCoy when Charlie gets shot.
 
 Anchored Artifacts: A-1262.2
-Mentions: N-182, N-192, N-1
+Mentions: N-181, N-191, N-1
 Related Nodes: N-10192, N-10198
 Tags: relevance:core
 Investigative Direction: Cross-check both men's positions across angles of the tent area.
@@ -1898,7 +1898,7 @@ Claim: The host says the camera man did see Charlie get shot, saw him bleeding i
 Transcript Snippet: he saw in like a split second sees Charlie bleeding and runs and doesn't run very far. He just runs a couple of yards away.
 
 Anchored Artifacts: A-1262.2
-Mentions: N-182, N-1
+Mentions: N-181, N-1
 Related Nodes: N-10192
 Tags: relevance:core
 Investigative Direction: Review the rear-camera and selfie footage for his path and distance.
@@ -1914,7 +1914,7 @@ Claim: The host says the camera man chose to run just a few yards up to a grassy
 Transcript Snippet: chose to run just a few yards away up to a grassy knoll to take out his phone.
 
 Anchored Artifacts: A-1262.1
-Mentions: N-182
+Mentions: N-181
 Related Nodes: N-10192
 Tags: relevance:core
 Investigative Direction: Locate the spot on the UVU site plan and compare with the selfie background.
@@ -1930,7 +1930,7 @@ Claim: The host says the camera man's selfie video was the first time it was ann
 Transcript Snippet: That's the first time it was announced actually that Charlie Kirk was dead.
 
 Anchored Artifacts: A-1262.1
-Mentions: N-182, N-1
+Mentions: N-181, N-1
 Related Nodes: N-10192
 Tags: relevance:core
 Investigative Direction: Compare the selfie timestamp with the first public or medical declarations of death.
@@ -1946,7 +1946,7 @@ Claim: The host says that a minute after the selfie ends the camera man goes and
 Transcript Snippet: A minute after this ends is when he goes and gets the cameras.
 
 Anchored Artifacts: A-1262.1
-Mentions: N-182
+Mentions: N-181
 Related Nodes: N-10076, N-10346
 Tags: relevance:core
 Investigative Direction: Time the selfie file's end against footage of the camera takedown.
@@ -2061,7 +2061,7 @@ Claim: The host says Mikey McCoy has access to all of Charlie Kirk's messages an
 Transcript Snippet: Mikey McCoy has access to all of Charlie Kirk's messages. They can tell you that these ones are real.
 
 Anchored Artifacts: A-1266.1
-Mentions: N-192, N-1
+Mentions: N-191, N-1
 Related Nodes: N-10806, N-10389
 Tags: relevance:core
 Investigative Direction: Ask McCoy and TPUSA whether they hold Kirk's phone data and will confirm the thread.
@@ -2301,7 +2301,7 @@ Claim: The host says Mikey McCoy stayed standing and walking when the first norm
 Transcript Snippet: How was Mikey McCoy confident enough to stay standing and walking? Nobody knows.
 
 Anchored Artifacts: A-1261.1
-Mentions: N-192
+Mentions: N-191
 Related Nodes: N-10198
 Tags: relevance:core
 Investigative Direction: Review stage-side footage of the crowd, Mikey McCoy and Frank Turek in the seconds after the shot.
@@ -2474,7 +2474,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- **Name uncertainty – Camera Operator (N-182):** Individual referenced throughout episode as "the camera guy" and "AV company operator"; not formally identified by name in this episode. Flag for cross-reference with any subsequent identification in later episodes.
+- **Name uncertainty – Camera Operator (N-181):** Individual referenced throughout episode as "the camera guy" and "AV company operator"; not formally identified by name in this episode. Flag for cross-reference with any subsequent identification in later episodes.
 - **Artifact verbally referenced but not directly viewable in transcript – Mikey McCoy Event-Day Footage (A-1261 family):** Host describes analyzing the footage frame-by-frame and tracking Mikey McCoy across angles; transcript captures the host's narration and verbal time markers but the underlying video is not embedded in the transcript medium.
 - **Artifact verbally referenced but not directly shown – Scott Adams video:** Host references a Scott Adams video about Kanye West's tweet "ripping a hole through the universe" and states she will "dig that up"; video not displayed in this episode.
 - **Timestamp uncertainty – A-1263.1 (British Columbia fishing photo):** Date and exact photographer identity (Donald Trump Jr. vs. Corey Lewandowski) not definitively confirmed.
@@ -2494,7 +2494,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-181 series onward for new entries)
+- [x] People nodes use the global people ledger (N-180 series onward for new entries)
 - [x] Non-person investigation targets use the 1000 series (N-10191 series onward)
 - [x] No speculative claims inscribed as evidence-backed claims without artifact anchor
 - [x] Names preserved exactly as appearing in transcript; uncertainties flagged

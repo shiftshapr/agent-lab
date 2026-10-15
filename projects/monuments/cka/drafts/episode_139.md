@@ -11,8 +11,8 @@
 - **Transcript SHA-256**: 8478e4fc7004488cce084c823d9f80149d81fd59cf33314345ba5d116e3a955e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-929, N-930, N-931, N-11361, N-11362
-  - Hole-minted Nodes (reintro-ep139): N-204, N-10791, N-10793
+  - Tip-minted Nodes (supplement_2026-10f): N-928, N-929, N-930, N-11361, N-11362
+  - Hole-minted Nodes (reintro-ep139): N-203, N-10791, N-10793
   - Tip-minted Nodes (reintro-ep139): N-11262
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-13193–C-13279
@@ -35,7 +35,7 @@
   - Artifact Families Introduced: A-2254, A-2255, A-2256, A-2257, A-2258, A-2259, A-2260, A-2261, A-2262, A-2263, A-2264, A-2265
   - Claim Range: C-3236–C-3258
   - New Nodes Introduced: N-10786, N-10787, N-10788, N-10789
-  - Reused Nodes Appearing: N-40, N-18, N-10790, N-7, N-14, N-82, N-97, N-243, N-272, N-779, N-10000, N-10011, N-10013, N-10014, N-10022, N-10034, N-10041, N-10043, N-10044, N-10063, N-10085, N-10112, N-10143, N-10168, N-10183, N-10253, N-10294, N-10369, N-10537, N-10598, N-10634, N-10660, N-10670, N-10679, N-10692, N-10711, N-10729, N-10740, N-10750, N-10780, N-10899, N-11053, N-11065, N-11149, N-11308
+  - Reused Nodes Appearing: N-40, N-18, N-10790, N-7, N-14, N-82, N-97, N-242, N-271, N-778, N-10000, N-10011, N-10013, N-10014, N-10022, N-10034, N-10041, N-10043, N-10044, N-10063, N-10085, N-10112, N-10143, N-10168, N-10183, N-10253, N-10294, N-10369, N-10537, N-10598, N-10634, N-10660, N-10670, N-10679, N-10692, N-10711, N-10729, N-10740, N-10750, N-10780, N-10899, N-11053, N-11065, N-11149, N-11308
   - Existing Nodes Reused: N-1, N-2
 
 ---
@@ -550,7 +550,7 @@ Ben Shapiro; his post about the Daily Wire film is read.
 
 ---
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 Blake Neff; named by the host as a TPUSA affiliate and as sharing the food chart.
 
@@ -558,7 +558,7 @@ Blake Neff; named by the host as a TPUSA affiliate and as sharing the food chart
 
 ---
 
-**N-165** Matt Walsh
+**N-164** Matt Walsh
 
 Matt Walsh; his grocery-price posts are read.
 
@@ -566,7 +566,7 @@ Matt Walsh; his grocery-price posts are read.
 
 ---
 
-**N-204** Lindsay Clancy
+**N-203** Lindsay Clancy
 
 Lindsay Clancy; subject of a viewer question the host answers.
 
@@ -574,7 +574,7 @@ Lindsay Clancy; subject of a viewer question the host answers.
 
 ---
 
-**N-243** Joel Berry
+**N-242** Joel Berry
 
 Joel Barry (listed as Joel Berry in the node list); his burrito posts are read.
 
@@ -582,7 +582,7 @@ Joel Barry (listed as Joel Berry in the node list); his burrito posts are read.
 
 ---
 
-**N-270** Joe Rogan
+**N-269** Joe Rogan
 
 Joe Rogan; host of the interview in which Wilson spoke.
 
@@ -590,7 +590,7 @@ Joe Rogan; host of the interview in which Wilson spoke.
 
 ---
 
-**N-272** Dan Flood
+**N-271** Dan Flood
 
 Dan Flood; the host says he pushed Kirk over to the side.
 
@@ -598,7 +598,7 @@ Dan Flood; the host says he pushed Kirk over to the side.
 
 ---
 
-**N-779** Matt Robinson
+**N-778** Matt Robinson
 
 Matt Robinson; the host recounts the dog bed discovery and disputes that he believed his son guilty.
 
@@ -910,7 +910,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-929** Brian Atlas
+**N-928** Brian Atlas
 
 First named by the host at 00:02:12 in episode 139.
 Host of the Whatever podcast who, per the host, relayed the first debate offers.
@@ -919,7 +919,7 @@ Host of the Whatever podcast who, per the host, relayed the first debate offers.
 
 ---
 
-**N-930** Dan Crenshaw
+**N-929** Dan Crenshaw
 
 First named by the host at 00:41:20 in episode 139.
 Former Texas congressman whose post about the burrito debate the host reads.
@@ -928,7 +928,7 @@ Former Texas congressman whose post about the burrito debate the host reads.
 
 ---
 
-**N-931** Rabbi Shmuley Boteach
+**N-930** Rabbi Shmuley Boteach
 
 First named by the host at 00:48:31 in episode 139.
 Rabbi shown in a street confrontation video in Iceland; the host criticizes him.
@@ -994,7 +994,7 @@ Claim Timestamp: 00:03:25–00:04:12
 Claim: On the Joe Rogan Experience, Andrew Wilson stated he offered Candace Owens $300,000 to debate him regarding the Charlie Kirk case.
 
 Anchored Artifacts: A-2255.1
-Mentions: N-18, N-3, N-1, N-270
+Mentions: N-18, N-3, N-1, N-269
 
 Related Nodes:
 
@@ -1009,7 +1009,7 @@ Claim Timestamp: 00:04:12–00:05:52
 Claim: On the Joe Rogan Experience, Andrew Wilson stated that during a visit to TPUSA HQ he spoke briefly with Erica Kirk and hugged her, expressing sympathy for her loss.
 
 Anchored Artifacts: A-2255.2
-Mentions: N-2, N-18, N-270
+Mentions: N-2, N-18, N-269
 
 Related Nodes:
 
@@ -1024,7 +1024,7 @@ Claim Timestamp: 00:03:25–00:04:59
 Claim: On the Joe Rogan Experience, Andrew Wilson stated that Candace Owens has never presented a single shred of evidence for her theory that Israel/TPUSA/Erica Kirk conspired in Charlie Kirk's death, and that the position evolved after Erica Kirk publicly called for the conspiracy talk to stop.
 
 Anchored Artifacts: A-2255.3
-Mentions: N-1, N-2, N-18, N-3, N-270
+Mentions: N-1, N-2, N-18, N-3, N-269
 
 Related Nodes:
 
@@ -1054,7 +1054,7 @@ Claim Timestamp: 00:13:00
 Claim: Blake Neff posted on X recommending Andrew Wilson's Joe Rogan appearance, stating Wilson "does a great job" dissecting conspiracy theories and answering Rogan's questions.
 
 Anchored Artifacts: A-2257.1
-Mentions: N-18, N-161, N-270
+Mentions: N-18, N-160, N-269
 
 Related Nodes:
 
@@ -1159,7 +1159,7 @@ Claim Timestamp: 00:36:34
 Claim: Matt Walsh posted on X that grocery prices are insane and still rising, calling it the number one priority for elected leaders.
 
 Anchored Artifacts: A-2262.1
-Mentions: N-165
+Mentions: N-164
 
 Related Nodes: N-10789
 
@@ -1202,7 +1202,7 @@ Claim Timestamp: 00:38:00–00:39:30
 Claim: Per a post the host reads, Matt Walsh replied to Joel Barry noting that virtually no Republican was making "the affordability crisis is fake" arguments during the Biden years, and that grocery prices have risen 30%+ this decade.
 
 Anchored Artifacts: A-2262.4
-Mentions: N-165
+Mentions: N-164
 
 Related Nodes: N-10789
 
@@ -1231,7 +1231,7 @@ Claim Timestamp: 00:42:30–00:43:30
 Claim: Per a post on X the host reads, Blake Neff shared a World Economic Forum chart claiming Americans spend less of their income on food than any other country on the planet.
 
 Anchored Artifacts: A-2262.6
-Mentions: N-161
+Mentions: N-160
 
 Related Nodes: N-10789
 
@@ -1383,7 +1383,7 @@ Claim: The host says Brian Atlas, host of the Whatever podcast, contacted her PR
 Transcript Snippet: a guy named Brian Atlas, reached out to my PR guy, Mitchell, with an offer of 50K for me to debate this person. And then he upped the amount, I think, to 150K initially.
 
 Anchored Artifacts: 
-Mentions: N-929, N-18, N-3
+Mentions: N-928, N-18, N-3
 Related Nodes: N-11361, N-11262
 Tags: relevance:context
 Investigative Direction: Obtain the offer messages between Atlas and the host's PR representative and ask Atlas who proposed and who funded the amounts.
@@ -1415,7 +1415,7 @@ Claim: The host says her side has not asked for money, only for a public discuss
 Transcript Snippet: We have not been asking for money, just a public discussion with Turning Point USA, one of their affiliates regarding the case
 
 Anchored Artifacts: 
-Mentions: N-161, N-14, N-2, N-7, N-3
+Mentions: N-160, N-14, N-2, N-7, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Collect the host's earlier public invitations to TPUSA figures and any replies.
@@ -1463,7 +1463,7 @@ Claim: In the Rogan clip, Joe Rogan says that given the reaction it probably wou
 Transcript Snippet: I think it probably would have been better for her to like lay low for a little while.
 
 Anchored Artifacts: A-2255.2
-Mentions: N-270, N-2, N-18
+Mentions: N-269, N-2, N-18
 Tags: relevance:context
 Investigative Direction: Locate the Rogan episode and confirm the exchange, and identify the sparkler event Rogan means.
 
@@ -1509,7 +1509,7 @@ Claim: The host says Andrew Wilson was trending on X for having lied to Joe Roga
 Transcript Snippet: Andrew Wilson currently trending on X, by the way, uh for having lied to Joe Rogan throughout this entire interview.
 
 Anchored Artifacts: A-2255.3
-Mentions: N-18, N-270, N-3
+Mentions: N-18, N-269, N-3
 Tags: relevance:context
 Investigative Direction: Capture the X trending data and the specific statements critics called false.
 
@@ -1524,7 +1524,7 @@ Claim: The host says Wilson tried to portray her as tangential to a leftist tour
 Transcript Snippet: I've never so much as spoken to them, but then he also lied about them.
 
 Anchored Artifacts: A-2255.3
-Mentions: N-18, N-270, N-3
+Mentions: N-18, N-269, N-3
 Tags: relevance:context
 Investigative Direction: Find Wilson's exact words on the Rogan show about the tour and identify the tour by name.
 
@@ -1539,7 +1539,7 @@ Claim: The host says Wilson accused the tour's organizers of laundering money on
 Transcript Snippet: He's accusing them of like laundering money and doing this on Joe Rogan's platform absent any fact check.
 
 Anchored Artifacts: A-2255.3
-Mentions: N-18, N-270
+Mentions: N-18, N-269
 Tags: relevance:context
 Investigative Direction: Locate the Rogan segment and check whether any evidence was offered for the money-laundering accusation.
 
@@ -1650,7 +1650,7 @@ Claim: The host says her key condition is that Blake Neff, Andrew Kolvet or Erik
 Transcript Snippet: Either Blake Neff or Andrew Kolvet or Erika Kirk must publicly claim you first.
 
 Anchored Artifacts: 
-Mentions: N-161, N-14, N-2, N-18, N-3
+Mentions: N-160, N-14, N-2, N-18, N-3
 Related Nodes: N-11361, N-11262
 Tags: relevance:context
 Investigative Direction: Watch for public statements from Neff, Kolvet or Erika Kirk claiming or disavowing Wilson.
@@ -1763,7 +1763,7 @@ Claim: The host says Dan Flood continues Kirk's movement and pushes him over to 
 Transcript Snippet: And then Dan Flood continues him, pushes him over to the side in that same motion.
 
 Anchored Artifacts: 
-Mentions: N-272, N-1, N-3
+Mentions: N-271, N-1, N-3
 Tags: relevance:core
 Investigative Direction: Review the footage of Flood's movements at the moment of impact and ask Flood or TPUSA security for an account.
 
@@ -2087,7 +2087,7 @@ Claim: The host says Matt Robinson, on returning to the apartment Tyler shared w
 Transcript Snippet: Matt Robinson uh when he went back to the apartment that Tyler Robinson shared with Lance discovered that a bed that was not in his son's room, a dog bed was put into his son's room.
 
 Anchored Artifacts: 
-Mentions: N-779, N-40, N-54, N-3
+Mentions: N-778, N-40, N-54, N-3
 Related Nodes: N-10143
 Tags: relevance:core
 Investigative Direction: Identify the source of the dog bed account and check search-warrant photographs of Tyler's room.
@@ -2103,7 +2103,7 @@ Claim: The host says that if Lance has a hellhound persona it would make more se
 Transcript Snippet: it would make more sense that this would be Lance's bed, Lance's big dog bed, that Lance was embodying this persona.
 
 Anchored Artifacts: 
-Mentions: N-54, N-779, N-3
+Mentions: N-54, N-778, N-3
 Related Nodes: N-10143, N-10790
 Tags: relevance:context
 Investigative Direction: Compare the dog bed's location and any room photographs with the apartment layout; interview Matt Robinson.
@@ -2119,7 +2119,7 @@ Claim: The host says that, among things she learned in October, the idea that Ma
 Transcript Snippet: this whole lie that Matt Robinson believed his son was guilty.
 
 Anchored Artifacts: 
-Mentions: N-779, N-40, N-3
+Mentions: N-778, N-40, N-3
 Related Nodes: N-10022
 Tags: relevance:core
 Investigative Direction: Compare the host's source with public accounts of what Matt Robinson told investigators.
@@ -2410,7 +2410,7 @@ Claim: The host reads Matt Walsh's post saying elected leaders should end the st
 Transcript Snippet: end the stupid foreign wars and focus on this issue. It's one of the main reasons socialists are gaining power.
 
 Anchored Artifacts: A-2262.1
-Mentions: N-165
+Mentions: N-164
 Related Nodes: N-10789
 Tags: relevance:tangential
 Investigative Direction: Verify the post text and date on X.
@@ -2426,7 +2426,7 @@ Claim: The host reads a post from Joel Barry saying that after his wife made bur
 Transcript Snippet: I'm beginning to think the affordability crisis is really an I don't know how to cook crisis.
 
 Anchored Artifacts: A-2262.2
-Mentions: N-243
+Mentions: N-242
 Related Nodes: N-10789
 Tags: relevance:tangential
 Investigative Direction: Verify the post text and date on X.
@@ -2442,7 +2442,7 @@ Claim: The host reads a post by Dan Crenshaw saying that the market does not car
 Transcript Snippet: The market doesn't care what you think. Something should cost. Only communists care.
 
 Anchored Artifacts: A-2262.5
-Mentions: N-930
+Mentions: N-929
 Related Nodes: N-10789
 Tags: relevance:tangential
 Investigative Direction: Verify the post text and date on X.
@@ -2458,7 +2458,7 @@ Claim: The host says Blake Neff's World Economic Forum chart drew a community no
 Transcript Snippet: A linked article uses pre20 data showing the US the lowest food expenditure shares.
 
 Anchored Artifacts: A-2262.6
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 Related Nodes: N-10789
 Tags: relevance:tangential
 Investigative Direction: Capture the community note and the chart's underlying data and date.
@@ -2505,7 +2505,7 @@ Claim: The host describes Rabbi Shmuley Boteach (rendered "Shmuley" in the trans
 Transcript Snippet: Constantly harassing people, threatening lawsuits.
 
 Anchored Artifacts: A-2264.1
-Mentions: N-931, N-3
+Mentions: N-930, N-3
 Tags: relevance:tangential
 Investigative Direction: Identify the lawsuit threats the host refers to, if any, from court dockets or press reports.
 
@@ -2567,7 +2567,7 @@ Claim: The host says Lindsay Clancy is obviously not guilty and that a fleet of 
 Transcript Snippet: Lindsay Clancy is obviously not guilty. There are a fleet of doctors who should be imprisoned for what they put her on.
 
 Anchored Artifacts: 
-Mentions: N-204, N-3
+Mentions: N-203, N-3
 Tags: relevance:tangential
 Investigative Direction: Review the court record, expert testimony and medication history in the Clancy case.
 
@@ -2582,7 +2582,7 @@ Claim: The host says the cocktail of 10 pharmaceuticals Lindsay Clancy was on is
 Transcript Snippet: And the cocktail of 10 pharmaceuticals that she was on is absolute madness.
 
 Anchored Artifacts: 
-Mentions: N-204, N-3
+Mentions: N-203, N-3
 Tags: relevance:tangential
 Investigative Direction: Obtain the medication list from trial or medical records.
 

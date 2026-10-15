@@ -16,7 +16,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10): N-11002, N-11003, N-11004, N-11005
-  - Hole-minted Nodes (reintro-ep004): N-182, N-10062, N-10076, N-10139, N-10201
+  - Hole-minted Nodes (reintro-ep004): N-181, N-10062, N-10076, N-10139, N-10201
   - Tip-minted Nodes (reintro-ep004): N-10898, N-10934
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-4838–C-4915
@@ -662,7 +662,7 @@ Billionaire investor; the host says his cronies asked her for comment.
 
 ---
 
-**N-182** Camera Operator (UVU Event, 2025-09-10)
+**N-181** Camera Operator (UVU Event, 2025-09-10)
 
 The man the host says took the camera down minutes after the shooting; she says she identified him.
 
@@ -2003,7 +2003,7 @@ Claim: The host says that, because she recognized one of the individuals, she wa
 Transcript Snippet: I was able to figure out who that person was because I recognized one of the individuals and I reached out to that individual and I said,
 
 Anchored Artifacts: 
-Mentions: N-3, N-182
+Mentions: N-3, N-181
 Related Nodes: N-10076
 Investigative Direction: Ask the host to name the person or other witnesses; compare with footage of the camera removal.
 

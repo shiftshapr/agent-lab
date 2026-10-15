@@ -31,8 +31,8 @@
             "C-3703"
           ],
           "related_nodes": [
-            "N-343",
-            "N-345",
+            "N-342",
+            "N-344",
             "N-10622"
           ],
           "tags": [],
@@ -60,8 +60,8 @@
             "C-3709"
           ],
           "related_nodes": [
-            "N-343",
-            "N-351"
+            "N-342",
+            "N-350"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -87,8 +87,8 @@
             "C-3705"
           ],
           "related_nodes": [
-            "N-347",
-            "N-343"
+            "N-346",
+            "N-342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -114,9 +114,9 @@
             "C-3706"
           ],
           "related_nodes": [
-            "N-349",
             "N-348",
-            "N-343"
+            "N-347",
+            "N-342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -142,7 +142,7 @@
             "C-3707"
           ],
           "related_nodes": [
-            "N-343"
+            "N-342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -161,7 +161,7 @@
             "C-3716"
           ],
           "related_nodes": [
-            "N-343",
+            "N-342",
             "N-10893"
           ],
           "tags": [],
@@ -195,7 +195,7 @@
             "C-3716"
           ],
           "related_nodes": [
-            "N-343"
+            "N-342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -221,7 +221,7 @@
             "C-3709"
           ],
           "related_nodes": [
-            "N-343"
+            "N-342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -247,7 +247,7 @@
             "C-3710"
           ],
           "related_nodes": [
-            "N-343"
+            "N-342"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -544,8 +544,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-343",
-      "ref": "N-343",
+      "@id": "N-342",
+      "ref": "N-342",
       "name": "Victor Marx",
       "type": "person",
       "description": "Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.",
@@ -584,8 +584,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-345",
-      "ref": "N-345",
+      "@id": "N-344",
+      "ref": "N-344",
       "name": "Eileen Marx",
       "type": "person",
       "description": "Victor's wife; described as second-mother figure to Erika Kirk.",
@@ -603,8 +603,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-344",
-      "ref": "N-344",
+      "@id": "N-343",
+      "ref": "N-343",
       "name": "Corby Hall",
       "type": "person",
       "description": "Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.",
@@ -620,8 +620,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-346",
-      "ref": "N-346",
+      "@id": "N-345",
+      "ref": "N-345",
       "name": "Melody Hall",
       "type": "person",
       "description": "Corby Hall's wife; named by Victor Marx as someone he prayed for.",
@@ -637,8 +637,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-347",
-      "ref": "N-347",
+      "@id": "N-346",
+      "ref": "N-346",
       "name": "Holly Chalmers",
       "type": "person",
       "description": "Accuser of Victor Marx; alleges kidnapping across state lines and exploitation.",
@@ -656,8 +656,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-348",
-      "ref": "N-348",
+      "@id": "N-347",
+      "ref": "N-347",
       "name": "Victor Marx's son",
       "type": "person",
       "description": "Wrote a letter to the board accusing his father of abusing him and his sister.",
@@ -675,8 +675,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-349",
-      "ref": "N-349",
+      "@id": "N-348",
+      "ref": "N-348",
       "name": "Victor Marx's daughter",
       "type": "person",
       "description": "Posted on social media about abuse; later recanted; friends allege pressure.",
@@ -694,9 +694,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-350",
-      "ref": "N-350",
-      "name": "Amir Safari",
+      "@id": "N-349",
+      "ref": "N-349",
+      "name": "Amir Tsarfati",
       "type": "person",
       "description": "Pastor named by the host as also posting early about Charlie Kirk's death.",
       "related_artifacts": [],
@@ -711,8 +711,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-351",
-      "ref": "N-351",
+      "@id": "N-350",
+      "ref": "N-350",
       "name": "Gloyce Dean Kennedy",
       "type": "person",
       "description": "Victor Marx's stepfather, named by the host; subject of Victor's childhood abuse narrative.",
@@ -866,8 +866,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-210",
-      "ref": "N-210",
+      "@id": "N-209",
+      "ref": "N-209",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Named by the host as an early poster who took down a video saying an Israel channel reported Charlie's death first.",
@@ -883,8 +883,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-225",
+      "ref": "N-225",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Named when the host asks whether Marx said 45,000 on the Shawn Ryan show.",
@@ -1193,8 +1193,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-728",
-      "ref": "N-728",
+      "@id": "N-727",
+      "ref": "N-727",
       "name": "Mike Kennedy",
       "type": "person",
       "description": "First named by the host at 00:03:25 in episode 107. Described as Victor Marx's brother who pled guilty as a co-conspirator and took a plea deal for testifying against the stepfather.",
@@ -1210,8 +1210,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-729",
-      "ref": "N-729",
+      "@id": "N-728",
+      "ref": "N-728",
       "name": "Karl Marx (Victor Marx's father)",
       "type": "person",
       "description": "First named by the host at 00:03:25 in episode 107. Described as Victor Marx's biological father, a pimp, drug dealer and martial arts expert who spent time in a mental hospital.",
@@ -1228,8 +1228,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-730",
-      "ref": "N-730",
+      "@id": "N-729",
+      "ref": "N-729",
       "name": "Kenneth Brining",
       "type": "person",
       "description": "First named by the host at 00:05:19 in episode 107. Described as Eileen Marx's brother who tried to shoot Victor Marx in 2023 and later killed his girlfriend.",
@@ -1246,8 +1246,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-731",
-      "ref": "N-731",
+      "@id": "N-730",
+      "ref": "N-730",
       "name": "James Dobson",
       "type": "person",
       "description": "First named by Victor Marx at 00:51:20 in episode 107. Marx says he worked for Dr. James Dobson as an assistant.",
@@ -1263,8 +1263,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-732",
-      "ref": "N-732",
+      "@id": "N-731",
+      "ref": "N-731",
       "name": "Dave Eubank",
       "type": "person",
       "description": "First named by Victor Marx at 00:51:20 in episode 107. Marx says Eubank invited him to Burma.",
@@ -1441,7 +1441,7 @@
       "transcript_snippet": "first that we could find to publicly announce that Charlie Kirk had passed away on September 10th",
       "mentions_person_refs": [
         "N-1",
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1459,8 +1459,8 @@
       "investigative_direction": "Verify via photographic evidence and corroboration from family/close associates.",
       "mentions_person_refs": [
         "N-2",
-        "N-343",
-        "N-345"
+        "N-342",
+        "N-344"
       ]
     },
     {
@@ -1477,8 +1477,8 @@
       "claim_timestamp": "00:06:15",
       "investigative_direction": "Cross-reference with documentary content, family corroboration, and Mississippi cold-case records.",
       "mentions_person_refs": [
-        "N-343",
-        "N-351"
+        "N-342",
+        "N-350"
       ]
     },
     {
@@ -1496,8 +1496,8 @@
       "investigative_direction": "Obtain HSI/human trafficking specialist records referenced by Victor; verify Holly's allegations via law enforcement.",
       "transcript_snippet": "I believe that he's a trafficker himself",
       "mentions_person_refs": [
-        "N-343",
-        "N-347"
+        "N-342",
+        "N-346"
       ]
     },
     {
@@ -1514,9 +1514,9 @@
       "claim_timestamp": "00:11:03",
       "investigative_direction": "Obtain original social media posts via archived captures; verify timeline of board letter and retraction.",
       "mentions_person_refs": [
-        "N-343",
-        "N-349",
-        "N-348"
+        "N-342",
+        "N-348",
+        "N-347"
       ]
     },
     {
@@ -1533,7 +1533,7 @@
       "claim_timestamp": "00:10:09",
       "investigative_direction": "Retrieve archived versions of Victor Marx's website via Wayback Machine.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1553,7 +1553,7 @@
       "investigative_direction": "Verify archived website content; cross-check against organization's audited reports.",
       "transcript_snippet": "a high-risk humanitarian who has rescued more than 45,000 women and children",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1573,9 +1573,9 @@
       "investigative_direction": "Cross-reference with statements from family members and law enforcement records.",
       "transcript_snippet": "Of course I do",
       "mentions_person_refs": [
-        "N-343",
-        "N-351",
-        "N-344"
+        "N-342",
+        "N-350",
+        "N-343"
       ]
     },
     {
@@ -1594,7 +1594,7 @@
       "investigative_direction": "Obtain certified DD-214 to verify service length and dates.",
       "transcript_snippet": "it was three years and it was on the DD-214",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1612,8 +1612,8 @@
       "investigative_direction": "Verify with Turning Point USA personnel and any session records or correspondence.",
       "mentions_person_refs": [
         "N-1",
-        "N-343",
-        "N-346"
+        "N-342",
+        "N-345"
       ]
     },
     {
@@ -1632,7 +1632,7 @@
       "claim_timestamp": "01:09:11",
       "investigative_direction": "Cross-reference with IDF/nonprofit invitation records and travel documentation.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1653,10 +1653,10 @@
       "transcript_snippet": "Charlie wouldn't live from that…there's no way he could have survived that",
       "mentions_person_refs": [
         "N-1",
-        "N-343",
+        "N-342",
         "N-7",
-        "N-350",
-        "N-210"
+        "N-349",
+        "N-209"
       ]
     },
     {
@@ -1673,7 +1673,7 @@
       "claim_timestamp": "01:09:11",
       "investigative_direction": "Verify against official Israeli inquiry findings and IDF operational records.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1690,7 +1690,7 @@
       "claim_timestamp": "01:09:11",
       "investigative_direction": "Verify against partner nonprofit documentation and beneficiary records.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1711,7 +1711,7 @@
       "investigative_direction": "Compare original website text against archived snapshots; reconcile with prior show clip.",
       "transcript_snippet": "Nowhere…have I ever declared…that I ever rescued 45,000 women or children",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1770,7 +1770,7 @@
       "investigative_direction": "Ask Marx and Erika Kirk's team whether a vehicle was provided; check the Instagram post's wording and any vehicle records.",
       "transcript_snippet": "I am also informed that he presented her with a bulletproof car, transportation.",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-2"
       ]
     },
@@ -1790,7 +1790,7 @@
         "C-4013"
       ],
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -1809,8 +1809,8 @@
       "investigative_direction": "Obtain birth or name-change records and compare with Marx's own account.",
       "transcript_snippet": "I've already told you his real name is Von Victor Kennedy. That's his birth name, at least.",
       "mentions_person_refs": [
-        "N-343",
-        "N-351"
+        "N-342",
+        "N-350"
       ]
     },
     {
@@ -1828,7 +1828,7 @@
       "investigative_direction": "Pull federal court records for the Kennedy marijuana conspiracy plea and Army service records.",
       "transcript_snippet": "Gloyce did serve in the army doing counterintelligence. He then pled guilty to a conspiracy to running an an international drug smuggling ring, marijuana out of Jamaica.",
       "mentions_person_refs": [
-        "N-351"
+        "N-350"
       ]
     },
     {
@@ -1846,9 +1846,9 @@
       "investigative_direction": "Locate the case docket and plea agreement naming Mike Kennedy and any trial testimony.",
       "transcript_snippet": "Victor's brother, Mike Kennedy, also pled guilty as a co-conspirator, but he took a plea deal in exchange for testifying against his his stepfather.",
       "mentions_person_refs": [
-        "N-728",
-        "N-351",
-        "N-343"
+        "N-727",
+        "N-350",
+        "N-342"
       ]
     },
     {
@@ -1866,8 +1866,8 @@
       "investigative_direction": "Find public records, martial arts directories or interviews identifying Karl Marx and his criminal history.",
       "transcript_snippet": "Victor Marx's biological dad was Karl Marx. What a name. He was a pimp, a drug dealer, and a world-famous martial arts expert.",
       "mentions_person_refs": [
-        "N-729",
-        "N-343"
+        "N-728",
+        "N-342"
       ]
     },
     {
@@ -1885,8 +1885,8 @@
       "investigative_direction": "Look for commitment or hospital records, or Marx's own statements about his father's confinement.",
       "transcript_snippet": "his biological father spent time in a mental hospital for homicidal tendencies",
       "mentions_person_refs": [
-        "N-729",
-        "N-343"
+        "N-728",
+        "N-342"
       ]
     },
     {
@@ -1904,7 +1904,7 @@
       "investigative_direction": "Search local news archives and death records for the incident.",
       "transcript_snippet": "So, his grandfather killed his grandmother in a public murder-suicide.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1922,7 +1922,7 @@
       "investigative_direction": "Compare with Marx's book and documentary accounts and school records.",
       "transcript_snippet": "By the time he was 17, he had lived in 17 homes and attended 14 schools",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1940,7 +1940,7 @@
       "investigative_direction": "Obtain Marx's DD-214 for enlistment and separation dates.",
       "transcript_snippet": "At 18, Victor joined the Marine Corps, served for 2 years before he was discharged.",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-3"
       ]
     },
@@ -1959,8 +1959,8 @@
       "investigative_direction": "Check marriage records and Marx's published biography.",
       "transcript_snippet": "At 23, Victor married his wife Eileen, Eileen Brining Marx, and they went on to have five kids and grandkids.",
       "mentions_person_refs": [
-        "N-343",
-        "N-345"
+        "N-342",
+        "N-344"
       ]
     },
     {
@@ -1978,7 +1978,7 @@
       "investigative_direction": "Check IRS Form 990 and state incorporation filings for All Things Possible Ministries.",
       "transcript_snippet": "In 2003, um he and his brother began All Things Possible Ministries.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1994,9 +1994,9 @@
       "investigative_direction": "Obtain the sheriff's incident report and court file for the 2023 shooting.",
       "transcript_snippet": "In 2023, Eileen's brother, Kenneth Brining, tried to shoot Victor Marx on Victor's property.",
       "mentions_person_refs": [
-        "N-730",
-        "N-345",
-        "N-343"
+        "N-729",
+        "N-344",
+        "N-342"
       ]
     },
     {
@@ -2012,8 +2012,8 @@
       "investigative_direction": "Obtain the homicide case record naming Kenneth Brining and the victim.",
       "transcript_snippet": "but Eileen's brother would go on to kill his own girlfriend.",
       "mentions_person_refs": [
-        "N-730",
-        "N-345"
+        "N-729",
+        "N-344"
       ]
     },
     {
@@ -2032,7 +2032,7 @@
         "C-4013"
       ],
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -2053,8 +2053,8 @@
       "investigative_direction": "Identify the source interview and test the account against any morgue or coroner records.",
       "transcript_snippet": "But I remember being at a morgue again wrapped to a chair and watching them dismember a corpse.",
       "mentions_person_refs": [
-        "N-343",
-        "N-351"
+        "N-342",
+        "N-350"
       ]
     },
     {
@@ -2074,7 +2074,7 @@
       "investigative_direction": "Identify the source of the audio and any recordings of the sessions he describes.",
       "transcript_snippet": "And I've dealt with thousands of demons now, thousands. Easily.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2094,7 +2094,7 @@
       "investigative_direction": "Identify the source recording of the clip and compare its wording ('help' versus 'rescue') with Marx's later explanation.",
       "transcript_snippet": "Over 100 missions complete. Uh with trauma care help over 45,000 women children.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2117,7 +2117,7 @@
         "C-4011"
       ],
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2137,7 +2137,7 @@
       "investigative_direction": "Confirm the speaker and source of the clip; medical records are private, so look for Marx's own published statements.",
       "transcript_snippet": "They diagnosed me with bipolar 2 ultra-rapid cycler and put me on a lot of meds.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2157,7 +2157,7 @@
       "investigative_direction": "Identify the original recording and its date.",
       "transcript_snippet": "On the medications I was I was suicidal and probably more homicidal.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2178,8 +2178,8 @@
         "C-2708"
       ],
       "mentions_person_refs": [
-        "N-344",
-        "N-343"
+        "N-343",
+        "N-342"
       ]
     },
     {
@@ -2200,9 +2200,9 @@
         "C-2700"
       ],
       "mentions_person_refs": [
+        "N-342",
         "N-343",
-        "N-344",
-        "N-346"
+        "N-345"
       ]
     },
     {
@@ -2221,7 +2221,7 @@
       "investigative_direction": "Identify TPUSA staff who attended the sessions and any building or scheduling records.",
       "transcript_snippet": "In fact, I am told that he was once conducting such prayers at the Turning Point USA headquarter office.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2239,8 +2239,8 @@
       "investigative_direction": "List the accusers and the dates and venues of each allegation; compare Marx's responses.",
       "transcript_snippet": "Victor Marx always rebuts them with the same line, that the person making the allegations is troubled.",
       "mentions_person_refs": [
-        "N-343",
-        "N-344"
+        "N-342",
+        "N-343"
       ]
     },
     {
@@ -2258,8 +2258,8 @@
       "investigative_direction": "Obtain any police or court filings by Holly Chalmers and the border records for her crossing.",
       "transcript_snippet": "a young woman named Holly Chalmers or Chalmers accused him of kidnapping her across state lines and of exploiting her.",
       "mentions_person_refs": [
-        "N-347",
-        "N-343"
+        "N-346",
+        "N-342"
       ]
     },
     {
@@ -2277,8 +2277,8 @@
       "investigative_direction": "Compare Marx's account with Canadian police records on the boyfriend and Holly's own statements.",
       "transcript_snippet": "Victor Marx claims that he was actually rescuing her from her pedophile boyfriend.",
       "mentions_person_refs": [
-        "N-347",
-        "N-343"
+        "N-346",
+        "N-342"
       ]
     },
     {
@@ -2296,9 +2296,9 @@
       "investigative_direction": "Identify the board and obtain the letter; ask the board whether it received one.",
       "transcript_snippet": "Victor Marx's own son wrote a letter to the board on a company that Victor was a part of accusing his father of abusing both him and his sister.",
       "mentions_person_refs": [
-        "N-348",
-        "N-343",
-        "N-349"
+        "N-347",
+        "N-342",
+        "N-348"
       ]
     },
     {
@@ -2318,8 +2318,8 @@
       "investigative_direction": "Obtain the original post and ask the organization whether any payment was offered.",
       "transcript_snippet": "offering me $55,000 as essentially be quiet money. I declined the offer",
       "mentions_person_refs": [
-        "N-349",
-        "N-343"
+        "N-348",
+        "N-342"
       ]
     },
     {
@@ -2339,8 +2339,8 @@
       "investigative_direction": "Obtain the daughter's original social media post and the letter's date.",
       "transcript_snippet": "My parents did not handle this letter well and immediately requested the requests in the letter to be retracted or there would be {quote} consequences.",
       "mentions_person_refs": [
-        "N-349",
-        "N-343"
+        "N-348",
+        "N-342"
       ]
     },
     {
@@ -2361,8 +2361,8 @@
       "investigative_direction": "Identify and interview the family members and obtain any written statements.",
       "transcript_snippet": "He was not forced to kill anybody, that there are no bodies in the backyards of their farms",
       "mentions_person_refs": [
-        "N-351",
-        "N-343"
+        "N-350",
+        "N-342"
       ]
     },
     {
@@ -2386,8 +2386,8 @@
         "C-3883"
       ],
       "mentions_person_refs": [
+        "N-342",
         "N-343",
-        "N-344",
         "N-3"
       ]
     },
@@ -2408,8 +2408,8 @@
       "investigative_direction": "Compare Marx's claimed communications with the show's message logs and the DM thread referenced in earlier episodes.",
       "transcript_snippet": "I clearly communicated to you and your staff, do not have him on, do your research because he's unstable.",
       "mentions_person_refs": [
-        "N-343",
-        "N-344"
+        "N-342",
+        "N-343"
       ]
     },
     {
@@ -2429,8 +2429,8 @@
       "investigative_direction": "Locate the statement Marx cites and any corresponding El Paso County Sheriff or FBI report.",
       "transcript_snippet": "has filled out a statement both with local authorities and FBI that he is homicidal, and he told her and her husband that he had plans to kill me.",
       "mentions_person_refs": [
-        "N-343",
-        "N-344"
+        "N-342",
+        "N-343"
       ]
     },
     {
@@ -2453,7 +2453,7 @@
         "C-5687"
       ],
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2473,8 +2473,8 @@
       "investigative_direction": "Ask the FBI and El Paso County Sheriff's Office to confirm whether any inquiry or warrant exists for Hall.",
       "transcript_snippet": "this gentleman is being sought by the FBI and El Paso County Sheriff Department",
       "mentions_person_refs": [
-        "N-343",
-        "N-344"
+        "N-342",
+        "N-343"
       ]
     },
     {
@@ -2495,7 +2495,7 @@
       "investigative_direction": "Obtain the message from Corey and ask the FBI whether it made such a call.",
       "transcript_snippet": "We received only a message from Corey that she got a phone call from the FBI and that they were investigating you for gun running.",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-3"
       ]
     },
@@ -2518,7 +2518,7 @@
       "transcript_snippet": "I've spoken with your family in Martinsville and they claim that your stories are fantastical.",
       "mentions_person_refs": [
         "N-3",
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2538,7 +2538,7 @@
       "investigative_direction": "Request the agent's name from Marx and verify with the FBI field office.",
       "transcript_snippet": "But we're happy to give you the FBI's agent's name who is in charge of the investigation to move to here.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2565,7 +2565,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2585,7 +2585,7 @@
       "investigative_direction": "Search local newspapers and missing-persons databases for the relevant county and period.",
       "transcript_snippet": "They also noted that there are no news stories that would even back up that a man was missing.",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-3"
       ]
     },
@@ -2606,7 +2606,7 @@
       "investigative_direction": "Ask Marx where he lived at ages 3 to 7 and compare with school and census records.",
       "transcript_snippet": "Where did you you didn't grow up in Martinville, Mississippi? No, I did not.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2626,7 +2626,7 @@
       "investigative_direction": "Check the sheriff's department for any record of the call and what it describes.",
       "transcript_snippet": "I didn't know who he was.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2649,7 +2649,7 @@
         "C-2718"
       ],
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2669,7 +2669,7 @@
       "investigative_direction": "Compare with Marx's book and documentary descriptions of the abuse he suffered.",
       "transcript_snippet": "No, I have not suffered any [clears throat] sexual abuse.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2689,7 +2689,7 @@
       "investigative_direction": "Compare the 3-to-7 timeline with his book, documentary and sheriff's call.",
       "transcript_snippet": "I've shared my story as an adult regarding my childhood and the abuse that I suffered from 3 to 7 years old.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2709,7 +2709,7 @@
       "investigative_direction": "Watch the documentary and identify the sister and her statements.",
       "transcript_snippet": "my sister was on my documentary film, The Victor Marc Story, which folks can watch.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2729,8 +2729,8 @@
       "investigative_direction": "Identify Charmaine and ask whether she has spoken publicly.",
       "transcript_snippet": "she is my half sister who is the daughter of the abuser",
       "mentions_person_refs": [
-        "N-351",
-        "N-343"
+        "N-350",
+        "N-342"
       ]
     },
     {
@@ -2750,7 +2750,7 @@
       "investigative_direction": "Request the MOUs and ask the agencies named to confirm.",
       "transcript_snippet": "we've got analysts and detectives that come here to our training center for a retreat.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2773,8 +2773,8 @@
         "C-2718"
       ],
       "mentions_person_refs": [
-        "N-343",
-        "N-351"
+        "N-342",
+        "N-350"
       ]
     },
     {
@@ -2794,7 +2794,7 @@
       "investigative_direction": "Contact the Simpson County Sheriff's Department about any call or report from Marx and any missing-person cases.",
       "transcript_snippet": "Uh there were two towns or sister towns, Mendenhall and McGee. It was in one of those. Yeah, in Simpson County, Mississippi.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2814,7 +2814,7 @@
       "investigative_direction": "Compare with older website text and ordination or church records.",
       "transcript_snippet": "I was in ministry and I tried being a pastor, but I wasn't called to it.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2834,7 +2834,7 @@
       "investigative_direction": "Obtain Marx's films and teaching materials describing the practice.",
       "transcript_snippet": "He said, \"I give you authority to trample serpents, to cast out demons.\" And I actually believe it.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2854,7 +2854,7 @@
       "investigative_direction": "Identify the facilities, dates and chaplaincy approvals for his youth prison ministry.",
       "transcript_snippet": "they would often manifest demonic influence or oppression. And the Lord taught me how to pray with authority.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2875,7 +2875,7 @@
       "investigative_direction": "Ask to inspect the letters and the ministry's donation records.",
       "transcript_snippet": "we don't charge people to set them free. We do this out of love.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2895,8 +2895,8 @@
       "investigative_direction": "Compare with Melody Hall's own description of the prayer.",
       "transcript_snippet": "We're talking 10, 15 minutes is the average time of prayer. It's not dramatic.",
       "mentions_person_refs": [
-        "N-343",
-        "N-346"
+        "N-342",
+        "N-345"
       ]
     },
     {
@@ -2916,7 +2916,7 @@
       "investigative_direction": "Watch the film and compare its claims with Marx's on-air account.",
       "transcript_snippet": "It's the Unseen War. And churches use that.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2936,7 +2936,7 @@
       "investigative_direction": "Ask for the recordings of the sessions with Corby and Melody Hall and with TPUSA staff.",
       "transcript_snippet": "We record every session on audio or video so that they can have it, so there's no miscommunication.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2960,7 +2960,7 @@
         "C-3711"
       ],
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1",
         "N-2"
       ]
@@ -2982,7 +2982,7 @@
       "investigative_direction": "Identify the church and event date through event listings or social media.",
       "transcript_snippet": "I was speaking at an event at a small Hispanic church in California.",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -3003,7 +3003,7 @@
       "investigative_direction": "Date the meeting against the Kirks' wedding date.",
       "transcript_snippet": "Yes, he he he was already married to Erika.",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1",
         "N-2"
       ]
@@ -3028,7 +3028,7 @@
         "C-4009"
       ],
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -3052,7 +3052,7 @@
         "C-4009"
       ],
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -3077,7 +3077,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -3098,7 +3098,7 @@
       "investigative_direction": "Identify the texter and obtain the message and its timestamp.",
       "transcript_snippet": "My son is at Charlie's event and Charlie was just shot",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -3122,7 +3122,7 @@
         "C-3713"
       ],
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -3146,7 +3146,7 @@
         "C-3702"
       ],
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1",
         "N-7"
       ]
@@ -3168,7 +3168,7 @@
       "investigative_direction": "Obtain the text with its timestamp from Marx or Erika Kirk and compare against the post timing.",
       "transcript_snippet": "I just told her, it nobody's going to kill you. You're safe, you and the kids. No one's coming after you. They just wanted Charlie.",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-2",
         "N-1"
       ]
@@ -3194,7 +3194,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-343",
+        "N-342",
         "N-1",
         "N-2"
       ]
@@ -3221,9 +3221,9 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-210",
-        "N-350",
-        "N-343"
+        "N-209",
+        "N-349",
+        "N-342"
       ]
     },
     {
@@ -3243,7 +3243,7 @@
       "investigative_direction": "Compare with his earlier statement that he posted Charlie had passed and with the archived posts.",
       "transcript_snippet": "Well, the first post I made was asked for prayer and I I knew I just my gut level from watching it, he's not going to make it.",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -3264,8 +3264,8 @@
       "investigative_direction": "Identify the security team members and Marx's team members present and the dates.",
       "transcript_snippet": "We brought our team immediately to help give relief for the first security team who I knew when I was in contact with and they were suffering trauma and exhaustion.",
       "mentions_person_refs": [
-        "N-343",
-        "N-345"
+        "N-342",
+        "N-344"
       ]
     },
     {
@@ -3285,8 +3285,8 @@
       "investigative_direction": "Ask Erika Kirk's office to confirm the relationship and dates.",
       "transcript_snippet": "And Eileen's like a I don't know perhaps a second mom to Erika.",
       "mentions_person_refs": [
-        "N-343",
-        "N-345",
+        "N-342",
+        "N-344",
         "N-2"
       ]
     },
@@ -3307,7 +3307,7 @@
       "investigative_direction": "Compare with his travel disclosures and ministry reports.",
       "transcript_snippet": "Yeah, no, not uh physically. We didn't do physical operations there.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3327,8 +3327,8 @@
       "investigative_direction": "Ask Focus on the Family or Dobson's organization to confirm employment and dates.",
       "transcript_snippet": "I worked for Dr. James Dobson as an assistant.",
       "mentions_person_refs": [
-        "N-343",
-        "N-731"
+        "N-342",
+        "N-730"
       ]
     },
     {
@@ -3348,7 +3348,7 @@
       "investigative_direction": "Check Marx's DD-214 for his unit and assignment; the transcript is unclear what 'the President Reagan' refers to.",
       "transcript_snippet": "my time in the Marine Corps was I served on the President Reagan.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3368,8 +3368,8 @@
       "investigative_direction": "Ask Eubank's organization to confirm the invitation and dates.",
       "transcript_snippet": "I was invited to go to Burma by Dave Eubank, who I consider kind of the the godfather of high-risk missions work.",
       "mentions_person_refs": [
-        "N-343",
-        "N-732"
+        "N-342",
+        "N-731"
       ]
     },
     {
@@ -3389,7 +3389,7 @@
       "investigative_direction": "Request the invitation documentation from Marx's ministry or the Kurdistan Regional Government.",
       "transcript_snippet": "we had an invitation by the Kurdistan government.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3409,7 +3409,7 @@
       "investigative_direction": "Compare with travel records, photos and ministry reports from 2015.",
       "transcript_snippet": "We went there the first time in 2015, the early part, and it was a very hot zone.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3429,8 +3429,8 @@
       "investigative_direction": "Ask Marx where the phone went and to whom it was turned over.",
       "transcript_snippet": "This is from ISIS Emir in the house I was held captive. And I hope it helps y'all find more.",
       "mentions_person_refs": [
-        "N-343",
-        "N-345"
+        "N-342",
+        "N-344"
       ]
     },
     {
@@ -3450,7 +3450,7 @@
       "investigative_direction": "Review the ministry's Form 990s and grant disclosures.",
       "transcript_snippet": "and never did we take any governmental funding.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3471,7 +3471,7 @@
       "investigative_direction": "Compare with the 45,000 'rescued' figure on the campaign website and the played clip.",
       "transcript_snippet": "It wasn't our focus to rescue women and children at at all.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3495,8 +3495,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-343",
-        "N-226"
+        "N-342",
+        "N-225"
       ]
     },
     {
@@ -3520,7 +3520,7 @@
         "C-3716"
       ],
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3540,7 +3540,7 @@
       "investigative_direction": "Ask for any anonymized or audited count.",
       "transcript_snippet": "we would never declare the total number of people we've rescued for both security and safety reasons",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3560,8 +3560,8 @@
       "investigative_direction": "Ask Marx for the documentation and the safe-house photos and videos he says exist.",
       "transcript_snippet": "that was a rescue of a mom who had been held captive 9 years.",
       "mentions_person_refs": [
-        "N-343",
-        "N-345"
+        "N-342",
+        "N-344"
       ]
     },
     {
@@ -3581,7 +3581,7 @@
       "investigative_direction": "Ask Marx which organizations he means.",
       "transcript_snippet": "there's no doubt in my mind that there are organizations that are actually traffickers that pose as counter trafficking.",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-9"
       ]
     },
@@ -3603,7 +3603,7 @@
       "investigative_direction": "Ask Marx to name the operators and verify through them.",
       "transcript_snippet": "who either still have or did have the highest level of clearance in the US that worked for the CIA or Joint Task Force or Delta.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3623,7 +3623,7 @@
       "investigative_direction": "Review the ministry's financial filings for government grants or contracts.",
       "transcript_snippet": "I work around the governments, but I've never been paid by any of them.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3643,7 +3643,7 @@
       "investigative_direction": "Obtain the video from Marx's social media and check its metadata.",
       "transcript_snippet": "we just got a video from Southeast Asia I didn't ask for, but one of our safe houses there they were so hurt and disgusted by the false allegations against me",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3663,7 +3663,7 @@
       "investigative_direction": "Ask whether the host accepts the invitation and the terms.",
       "transcript_snippet": "if you'll accept the risk, I'll give you my word that you can be on a team, we'll take you there",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-3"
       ]
     },
@@ -3684,8 +3684,8 @@
       "investigative_direction": "Ask HSI and CBP for records of the crossing and any parole documentation.",
       "transcript_snippet": "we met with an HSI human trafficking specialist at the border who approved us to get through from Canada to the US and gave her temporary status.",
       "mentions_person_refs": [
-        "N-343",
-        "N-347"
+        "N-342",
+        "N-346"
       ]
     },
     {
@@ -3705,8 +3705,8 @@
       "investigative_direction": "Locate the couple's video and check its post date.",
       "transcript_snippet": "have video that they just posted yesterday of Holly telling the truth about what we did to help her.",
       "mentions_person_refs": [
-        "N-343",
-        "N-347"
+        "N-342",
+        "N-346"
       ]
     },
     {
@@ -3726,8 +3726,8 @@
       "investigative_direction": "Check Canadian court and police records on the boyfriend; no named allegation should be treated as established here.",
       "transcript_snippet": "it was Holly's pedophile who groomed this girl since she was 13, had sex with her at 15.",
       "mentions_person_refs": [
-        "N-343",
-        "N-347"
+        "N-342",
+        "N-346"
       ]
     },
     {
@@ -3747,8 +3747,8 @@
       "investigative_direction": "Ask Marx for the source of this report and any documents of such a suit.",
       "transcript_snippet": "you'll be able to make millions.",
       "mentions_person_refs": [
-        "N-343",
-        "N-347"
+        "N-342",
+        "N-346"
       ]
     },
     {
@@ -3768,7 +3768,7 @@
       "investigative_direction": "Compare with his book and talks where he gives the figure.",
       "transcript_snippet": "I told people I was under psychiatric care, 123 visits to a trauma specialist.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3793,7 +3793,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -3817,7 +3817,7 @@
         "C-3712"
       ],
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3840,7 +3840,7 @@
         "C-3714"
       ],
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3860,7 +3860,7 @@
       "investigative_direction": "Compare with rocket-fire logs for the dates and areas of his visit.",
       "transcript_snippet": "we had over 2,000 rockets launched at us.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3880,7 +3880,7 @@
       "investigative_direction": "Compare with Marx's prior public statements on Gaza.",
       "transcript_snippet": "I would say this, it has turned into a genocide",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3901,7 +3901,7 @@
       "investigative_direction": "Find the Fox News appearance and Marx's online posts.",
       "transcript_snippet": "I put it online. I was on Fox.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -3927,8 +3927,8 @@
         "C-2749"
       ],
       "mentions_person_refs": [
-        "N-343",
-        "N-344"
+        "N-342",
+        "N-343"
       ]
     },
     {
@@ -3948,8 +3948,8 @@
       "investigative_direction": "Ask the agencies named to confirm contacting Marx and Hall.",
       "transcript_snippet": "Do you know where he is? Do you know where he would be?\" And I'm like, \"I do not.\"",
       "mentions_person_refs": [
-        "N-343",
-        "N-344"
+        "N-342",
+        "N-343"
       ]
     },
     {
@@ -3969,8 +3969,8 @@
       "investigative_direction": "Ask the FBI and El Paso County Sheriff's Office to confirm an open investigation and its subject.",
       "transcript_snippet": "The FBI has contacted us. It's an open investigation.",
       "mentions_person_refs": [
-        "N-343",
-        "N-344"
+        "N-342",
+        "N-343"
       ]
     },
     {
@@ -3990,7 +3990,7 @@
       "investigative_direction": "Ask Marx whether the abuse he describes involved ritual practices and where.",
       "transcript_snippet": "do a short study on voodoo and understand voodoo voodoo rituals against boys.",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-3"
       ]
     },
@@ -4010,7 +4010,7 @@
       "transcript_snippet": "I actually removed myself from politics all altogether after Charlie got killed. I'm not working for anybody.",
       "mentions_person_refs": [
         "N-3",
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -4074,7 +4074,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-345"
+        "N-344"
       ]
     },
     {
@@ -4096,7 +4096,7 @@
         "N-3",
         "N-2",
         "N-1",
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -4149,7 +4149,7 @@
         {
           "episode": 107,
           "video_timestamp": "00:25:47",
-          "speaker_node_ref": "N-343",
+          "speaker_node_ref": "N-342",
           "quote": "it's not another Teemu TMZ approach.",
           "context": "Marx uses the jab against the show; the host notes he has said it twice.",
           "confidence": "high",

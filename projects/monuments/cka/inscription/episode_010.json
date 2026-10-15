@@ -1475,8 +1475,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-172",
-      "ref": "N-172",
+      "@id": "N-171",
+      "ref": "N-171",
       "name": "Tate Brothers (Andrew and Tristan)",
       "type": "person",
       "description": "Andrew Tate is named by the host among claimed funders; no claim is made about his actual conduct.",
@@ -4004,7 +4004,7 @@
       "transcript_snippet": "I'm funded by Andrew Tate because Andrew Tate is also from the UK and my husband knew him before he met me,",
       "mentions_person_refs": [
         "N-3",
-        "N-172"
+        "N-171"
       ]
     },
     {

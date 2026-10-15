@@ -1,0 +1,500 @@
+[
+ {
+  "claim": "C-2679",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "claim": "Candace Owens said that in her view the most brutal and recurring response across social media was a tweet saying Charlie Kirk would be on Trump's list in A-1939.1 if they hadn't killed him.",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-5"
+   ]
+  },
+  "note": "Matches 20:14 wording; Trump's list refers to N-5."
+ },
+ {
+  "claim": "C-2680",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5"
+   ]
+  },
+  "note": "Claim is about Trump's post."
+ },
+ {
+  "claim": "C-2681",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-5",
+    "N-82"
+   ]
+  },
+  "note": "Trump's post named."
+ },
+ {
+  "claim": "C-8682",
+  "episode": 89,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-22",
+    "N-46",
+    "N-93"
+   ]
+  },
+  "note": "Trump's post named Tucker, Megyn Kelly, Candace and Alex Jones; Jones is one of the four."
+ },
+ {
+  "claim": "C-2682",
+  "episode": 90,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:32:25"
+  },
+  "note": "6:25 p.m. and 3h36m mark spoken in 32:27 block."
+ },
+ {
+  "claim": "C-2687",
+  "episode": 90,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says an internal Alliance Defending Freedom video of its CEO shows him discussing the fact that they were working with Erika regarding her; in the clip the CEO describes a call with a large organization amid tension that \"has to do with Candace Owens\" and says he shared how they had thought about decisions such as whether to sue someone.",
+   "label": "Host Says ADF CEO Video Shows Discussion of Working With Erika Kirk Regarding Candace Owens"
+  },
+  "note": "Fix right in substance; CEO's words are 'has to do with Candace Owens', not 'around Candace Owens'."
+ },
+ {
+  "claim": "C-2691",
+  "episode": 90,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5"
+   ],
+   "timestamp": "01:01:05"
+  },
+  "note": "Claim is Trump's clip; 'me as a doctor' spoken ~1:01:08."
+ },
+ {
+  "claim": "C-2696",
+  "episode": 90,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Trump attacked Pope Leo XIV in a post, saying 'Pope Leo is weak on crime, terrible for foreign policy,' after the Pope's criticism of the Iran war, which she calls unjust.",
+   "label": "Trump Attacks Pope Leo XIV Over Iran War Criticism",
+   "mentions": [
+    "N-5",
+    "N-422"
+   ]
+  },
+  "note": "Easter not tied to the attack; rewrite right, but Trump is named so N-5 added."
+ },
+ {
+  "claim": "C-3766",
+  "episode": 90,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her source told her that around 7:00 p.m. people locally began receiving texts that police had Tyler Robinson and would pick him up in Warner Valley, 12 miles from St. George; she says this makes it strange that at 8:00 p.m. Governor Spencer Cox led a press conference with Kash Patel and Robert Bohls describing the suspect as on the run and releasing new stills.",
+   "names": [
+    {
+     "wrong": "Robert Bowles",
+     "right": "Robert Bohls",
+     "source": "https://www.fbi.gov/contact-us/field-offices/saltlakecity/news/remarks-delivered-by-special-agent-in-charge-robert-bohls-at-the-september-11-2025-press-conference-regarding-the-shooting-at-utah-valley-university"
+    }
+   ]
+  },
+  "note": "Verified: FBI SLC SAC Robert Bohls (FBI Salt Lake City X post, PBS/CNBC coverage)."
+ },
+ {
+  "claim": "C-8694",
+  "episode": 90,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names only Turning Point; Blake Neff not referred to."
+ },
+ {
+  "claim": "C-8714",
+  "episode": 90,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Caleb Robinson not in claim."
+ },
+ {
+  "claim": "C-2698",
+  "episode": 91,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:33:10",
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  },
+  "note": "Marx personally wanting 51% is spoken ~33:15; 32:50 is the Sig Sauer acquisition line."
+ },
+ {
+  "claim": "C-2699",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-346"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2700",
+  "episode": 91,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-346"
+   ],
+   "timestamp": "00:23:40"
+  },
+  "note": "Mentions right; retooling prayer spoken ~23:45, 75s after 22:29."
+ },
+ {
+  "claim": "C-2701",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-346"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2702",
+  "episode": 91,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-344"
+   ],
+   "timestamp": "00:25:28"
+  },
+  "note": "Mentions right; Lindale purchase spoken ~25:33, ~50s after 24:43."
+ },
+ {
+  "claim": "C-2703",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2704",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2705",
+  "episode": 91,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-424"
+   ],
+   "timestamp": "00:27:50"
+  },
+  "note": "Mentions right; Jimmy Barbecue line spoken ~27:54, ~40s after 27:14."
+ },
+ {
+  "claim": "C-2706",
+  "episode": 91,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-425"
+   ],
+   "timestamp": "00:32:50"
+  },
+  "note": "Mentions right; Sig Sauer/Horner line ends the 32:24 block, before the 33:10 timestamp."
+ },
+ {
+  "claim": "C-2707",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2708",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2709",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2710",
+  "episode": 91,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-346"
+   ],
+   "timestamp": "00:35:55"
+  },
+  "note": "Mentions right; group message line ends the 35:15 block, before 36:14."
+ },
+ {
+  "claim": "C-2711",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-344"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2712",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that on July 4, 2024, the Texas deputy contacted Corby Hall and told him that Fold AR SN 02735 was stolen from his car at a gas station in Midland, Texas after he accidentally left the doors and windows down, and that the deputy claimed he reported it to local Midland police.",
+   "mentions": [
+    "N-344"
+   ]
+  },
+  "note": "Host narrates this, not Hall's statement."
+ },
+ {
+  "claim": "C-2713",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-344"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2714",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-343",
+    "N-345"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2715",
+  "episode": 91,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host shows a photo that she says shows Erika Kirk being comforted by Victor Marx in the building she lives in, approximately 72 hours after Charlie Kirk's assassination.",
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-343"
+   ],
+   "timestamp": "00:09:40"
+  },
+  "note": "Fix right; photo introduced ~09:45 in the 09:06 block, before 10:03."
+ },
+ {
+  "claim": "C-2716",
+  "episode": 91,
+  "decision": "amend",
+  "fix": {
+   "claim": "CBN News aired a report stating that after a visit from American missionary Victor Marx, Haitian gang leader Jimmy Barbecue (Cherizier) pledged to protect orphanages and Christian workers; in the report Marx says he prayed with him, and the report says the FAA banned US flights to Haiti after three planes were hit by gunfire.",
+   "mentions": [
+    "N-343",
+    "N-424"
+   ]
+  },
+  "note": "Praying is in the report at 30:14 ('We got to pray with him'); keep it."
+ },
+ {
+  "claim": "C-2718",
+  "episode": 91,
+  "decision": "amend",
+  "fix": {
+   "claim": "In an audio clip the host plays, Victor Marx recounts that his stepfather placed a pistol in his hand, put his finger over Victor's trigger finger, and forced him to shoot a man in the head; the host says Marx was 7 at the time and that Marx says the body was later buried and he reported it to police 40 years later.",
+   "mentions": [
+    "N-343",
+    "N-351"
+   ]
+  },
+  "note": "Age 7 is the host's own statement; burial and police report are what she says Marx says."
+ },
+ {
+  "claim": "C-2721",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-344"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-12884",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she has said from the beginning that her sense is Charlie was betrayed, that she has been looking at this for 7 months, and that it is very obvious to her that the pastors who claim to be evangelizing and the people who work at Turning Point USA are people saying \"I used to be an arms trafficker dealer and then I found God.\""
+  },
+  "note": "She does not say they were involved."
+ },
+ {
+  "claim": "C-12892",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a person she names as Cori Kennedy has been looking into Victor Marx for months and has done a deep dive on X and Facebook, and she does not know his background.",
+   "label": "Host Says Cori Kennedy Has Studied Marx for Months and Posted a Deep Dive on X and Facebook",
+   "names": [
+    {
+     "wrong": "Corey Kennedy",
+     "right": "Cori Kennedy",
+     "source": "https://podcasts.apple.com/nz/podcast/victor-marx-the-man-who-weaponized-faith-candace-ep-329/id1750591415?i=1000763145510"
+    }
+   ]
+  },
+  "note": "Verified: Apple episode description credits 'Cori Kennedy's write up'; host spells C O R I."
+ },
+ {
+  "claim": "C-12893",
+  "episode": 91,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2722",
+  "episode": 92,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:01:30",
+   "claim": "The host says Erika Kirk was scheduled to appear alongside Vice President JD Vance at the University of Georgia event the night before.",
+   "mentions": [
+    "N-2",
+    "N-4"
+   ]
+  },
+  "note": "Fix right; Kolvet (N-14) is not referred to in the claim."
+ },
+ {
+  "claim": "C-2723",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says TPUSA staff at the UGA event, including field representative Grant Tyler and chapter president Caroline in a video she plays, were still promoting Erika Kirk's appearance about 50 minutes before doors opened, which she says shows they had not been told she would not attend.",
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Grant Tyler spelling unresolved; kept as spoken."
+ },
+ {
+  "claim": "C-2727",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2730",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a parent-alert text the host shows, TPUSA cancelled an optional high school event 'scheduled for tomorrow, September 14th' (as the host reads it), citing \"scheduling complications\" rather than security threats, according to the host.",
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2732",
+  "episode": 92,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the parent-alert text the host shows, the cancelled Georgia high school event was described as 'scheduled for tomorrow, September 14th', as the host reads it.",
+   "mentions": []
+  },
+  "note": "Host never calls the date inconsistent."
+ }
+]

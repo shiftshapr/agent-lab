@@ -13,7 +13,7 @@
 
 - **Episode Ledger Summary**:
   - Tip-minted Nodes (supplement_2026-10e): N-11269, N-11270, N-11271, N-11272, N-11273, N-11274
-  - Hole-minted Nodes (reintro-ep013): N-195, N-10158, N-10159, N-10160, N-10209, N-10406
+  - Hole-minted Nodes (reintro-ep013): N-194, N-10158, N-10159, N-10160, N-10209, N-10406
   - Tip-minted Nodes (reintro-ep013): N-11153, N-11170
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10e): C-10771–C-10836
@@ -38,8 +38,8 @@
 ### Episode X Ledger Summary
 - Artifact Families Introduced: A-1196, A-1197, A-1198, A-1199, A-1200, A-1201, A-1202, A-1203, A-1204, A-1205, A-1206, A-1207, A-1208
 - Claim Range: C-1337–C-1353, C-3754
-  - New Nodes Introduced: N-135, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-144, N-10152, N-10153, N-10154, N-10155, N-10157
-  - Reused Nodes Appearing: N-3, N-40, N-125, N-136, N-10156, N-5, N-32, N-49, N-57, N-93, N-97, N-117, N-129, N-10000, N-10003, N-10006, N-10011, N-10012, N-10014, N-10017, N-10026, N-10052, N-10056, N-10078, N-10082, N-10115, N-10131, N-10135, N-10139, N-10144, N-10146, N-10147, N-10148, N-10898, N-10900, N-11217, N-11096, N-11103
+  - New Nodes Introduced: N-136, N-137, N-138, N-139, N-140, N-141, N-142, N-143, N-10152, N-10153, N-10154, N-10155, N-10157
+  - Reused Nodes Appearing: N-3, N-40, N-125, N-135, N-10156, N-5, N-32, N-49, N-57, N-93, N-97, N-117, N-129, N-10000, N-10003, N-10006, N-10011, N-10012, N-10014, N-10017, N-10026, N-10052, N-10056, N-10078, N-10082, N-10115, N-10131, N-10135, N-10139, N-10144, N-10146, N-10147, N-10148, N-10898, N-10900, N-11217, N-11096, N-11103
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
 
@@ -61,7 +61,7 @@ Video Timestamp: 00:10:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (artifact clearly stated, video played)
 
-*Related: C-1337, C-1340, N-40, N-132, N-144, N-10152*
+*Related: C-1337, C-1340, N-40, N-132, N-143, N-10152*
 
 ---
 
@@ -113,7 +113,7 @@ Video Timestamp: 00:04:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-135, N-10154*
+*Related: C-1341, N-134, N-10154*
 
 **A-1199.2** Host-source reporting: Andrew Zenger named as new CEO and lead surgeon at the regional hospital receiving Charlie Kirk
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:04:53
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-136, N-10154*
+*Related: C-1341, N-135, N-10154*
 
 **A-1199.3** Host-source reporting: Judge Tony F. Graf Jr. appointed May 2025 by Governor Spencer Cox to the fourth district court; presides over Tyler Robinson case
 
@@ -133,7 +133,7 @@ Video Timestamp: 00:06:17
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (host source)
 
-*Related: C-1341, N-137, N-10154*
+*Related: C-1341, N-136, N-10154*
 
 **A-1199.4** Host-source reporting: new (unnamed) coroner on the case
 
@@ -157,7 +157,7 @@ Video Timestamp: 00:27:00
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High (clip played on air)
 
-*Related: C-1344, C-1345, C-1346, N-141, N-142*
+*Related: C-1344, C-1345, C-1346, N-140, N-141*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:35:01
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1347, N-139, N-46 (Megyn Kelly)*
+*Related: C-1347, N-138, N-46 (Megyn Kelly)*
 
 ---
 
@@ -185,7 +185,7 @@ Video Timestamp: 00:35:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1348, N-46 (Megyn Kelly), N-139*
+*Related: C-1348, N-46 (Megyn Kelly), N-138*
 
 ---
 
@@ -199,7 +199,7 @@ Video Timestamp: 00:35:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1349, N-140, N-46 (Megyn Kelly)*
+*Related: C-1349, N-139, N-46 (Megyn Kelly)*
 
 **A-1203.2** X reply by Megyn Kelly to Konstantin Kisin: "The more one insists that I say what one demands me to, the more committed I get in my refusal." (and follow-up: "Your response proves the opposite of what it purports to.")
 
@@ -209,7 +209,7 @@ Video Timestamp: 00:38:30
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1348, N-46 (Megyn Kelly), N-140*
+*Related: C-1348, N-46 (Megyn Kelly), N-139*
 
 ---
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:43:16
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (third-party producer report)
 
-*Related: C-1350, N-138, N-142 (Larry Ellison), N-10157*
+*Related: C-1350, N-137, N-141 (Larry Ellison), N-10157*
 
 ---
 
@@ -251,7 +251,7 @@ Video Timestamp: 00:46:36
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (comment-supplied)
 
-*Related: C-1352, N-143 (Michael Burt), N-? (Richard Ramirez)*
+*Related: C-1352, N-142 (Michael Burt), N-? (Richard Ramirez)*
 
 ---
 
@@ -452,7 +452,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1196.1, C-1340, N-40, N-144*
+*Related: A-1196.1, C-1340, N-40, N-143*
 
 ---
 
@@ -468,7 +468,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-135** Robert Bohls
+**N-134** Robert Bohls
 FBI Special Agent in Charge recently installed over the Utah bureau by Kash Patel; previously held a long tenure in DC. First major case: Charlie Kirk assassination.
 
 Evidence Count: 1
@@ -480,7 +480,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-136** Andrew Zenger
+**N-135** Andrew Zenger
 Recently appointed CEO and lead surgeon at the regional hospital where Charlie Kirk was taken; flagged by host because the hospital was not the nearest and did not rank highly for trauma/neck-wound capability.
 
 Evidence Count: 1
@@ -492,7 +492,7 @@ Investigative Pressure: Medium-High (involves routing question)
 
 ---
 
-**N-137** Judge Tony F. Graf Jr.
+**N-136** Judge Tony F. Graf Jr.
 Recently appointed to the fourth district court in May 2025 by Governor Spencer Cox; presides over Tyler Robinson case.
 
 Evidence Count: 1
@@ -504,7 +504,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-138** Erika "Erikica" Mindle
+**N-137** Erika "Erikica" Mindle
 Self-described in host's producer note as American Israeli Jewish former IDF soldier; named as TikTok Public Policy Manager of Hate Speech since July 2025.
 
 Evidence Count: 1
@@ -516,7 +516,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-139** Florida Dab (X handle)
+**N-138** Florida Dab (X handle)
 X account characterized by host as "Ziobot"/pro-Israel; initiated the social-media pressure exchange with Megyn Kelly over separation from Candace Owens.
 
 Evidence Count: 1
@@ -528,7 +528,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-140** Konstantin Kisin
+**N-139** Konstantin Kisin
 X account / commenter who joined the Florida Dab → Megyn Kelly thread; described by host as an "agent of Israel."
 
 Evidence Count: 2
@@ -540,7 +540,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-141** Deborah Lee
+**N-140** Deborah Lee
 Host of the influencer meeting with Netanyahu; raised the question about evangelical support post-Kirk assassination.
 
 Evidence Count: 1
@@ -552,7 +552,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-142** Larry Ellison
+**N-141** Larry Ellison
 Named by host as a party in the TikTok deal and as openly identifying as "an agent of Israel."
 
 Evidence Count: 0
@@ -564,7 +564,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-143** Michael Burt
+**N-142** Michael Burt
 Defense attorney named in on-air comment as previously representing Richard Ramirez ("the Nightstalker"); said to be one of Tyler Robinson's lawyers.
 
 Evidence Count: 1
@@ -576,7 +576,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-144** Unidentified Lyman-Family Woman (Shaner's aunt)
+**N-143** Unidentified Lyman-Family Woman (Shaner's aunt)
 Speaker in A-1196.1 footage; produced the statement "I wondered if the girl had given him stuff…if there is an accomplice." Identity not publicly established in the episode.
 
 Evidence Count: 1
@@ -598,7 +598,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1196.1, A-1207.1, C-1337, C-1340, N-144, N-132*
+*Related: A-1196.1, A-1207.1, C-1337, C-1340, N-143, N-132*
 
 ---
 
@@ -622,7 +622,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium-High
 
-*Related: A-1198.1, A-1199.1–A-1199.4, C-1341, N-135, N-136, N-137*
+*Related: A-1198.1, A-1199.1–A-1199.4, C-1341, N-134, N-135, N-136*
 
 ---
 
@@ -646,7 +646,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1199.2, C-1341, N-136*
+*Related: A-1199.2, C-1341, N-135*
 
 ---
 
@@ -781,7 +781,7 @@ Fox News host the host names (transcribed Kayleigh McEnany, likely Kayleigh McEn
 
 ---
 
-**N-195** David Horowitz
+**N-194** David Horowitz
 
 Named by the host as the father of a Horowitz linked to the TikTok deal.
 
@@ -1159,7 +1159,7 @@ Claim Timestamp: 00:10:44
 Claim: In footage recorded by Shaner Broadick, his aunt (identified as a Lyman family member) states on camera that she wondered if "the girl" had given the shooter items and that there might have been an accomplice.
 
 Anchored Artifacts: A-1196.1
-Mentions: N-40, N-132, N-144
+Mentions: N-40, N-132, N-143
 
 Related Nodes: N-10152
 
@@ -1174,7 +1174,7 @@ Claim Timestamp: 00:04:53
 Claim: The host says multiple senior officials involved in the case were recent appointments at the time of the event: FBI SAC Robert Bohls (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zenger, Judge Tony F. Graf Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner.
 
 Anchored Artifacts: A-1199.1, A-1199.2, A-1199.3, A-1199.4
-Mentions: N-135, N-136, N-137, N-41, N-69
+Mentions: N-134, N-135, N-136, N-41, N-69
 
 Related Nodes: N-10154, N-10156
 
@@ -1219,7 +1219,7 @@ Claim Timestamp: 00:27:00
 Claim: The host says Benjamin Netanyahu conducted an on-camera meeting with US influencers including Deborah Lee to discuss shaping US opinion, and plays a clip in which Lee asks him about Charlie Kirk's assassination and the potential loss of evangelical support for Israel.
 
 Anchored Artifacts: A-1200.1
-Mentions: N-141, N-36, N-1
+Mentions: N-140, N-36, N-1
 
 
 Investigative Direction: Obtain the original full footage and timestamp metadata; identify any co-attendees not named in the clip.
@@ -1261,7 +1261,7 @@ Claim Timestamp: 00:35:01
 Claim: An X account identifying as "Florida Dab" publicly told Megyn Kelly she must separate from Candace Owens, or "many of us" would separate from Kelly.
 
 Anchored Artifacts: A-1201.1
-Mentions: N-139, N-3, N-46
+Mentions: N-138, N-3, N-46
 
 
 Investigative Direction: Archive the original post; identify the account's operator; map its network of similar accounts.
@@ -1275,7 +1275,7 @@ Claim Timestamp: 00:35:51
 Claim: The host shows a post in which Megyn Kelly replies to Florida Dab that she has no obligation to separate herself from anyone and that if he needs her to condemn Candace or Tucker for their opinions in order to listen to her, she may not be for him.
 
 Anchored Artifacts: A-1202.1, A-1203.2
-Mentions: N-139, N-46, N-22, N-3
+Mentions: N-138, N-46, N-22, N-3
 
 
 Investigative Direction: Capture full thread context including replies not quoted on air.
@@ -1289,7 +1289,7 @@ Claim Timestamp: 00:35:51
 Claim: Konstantin Kisin posted on X to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as "extreme and so deranged" and questioning why Kelly was not confronting them.
 
 Anchored Artifacts: A-1203.1, A-1203.2
-Mentions: N-140, N-22, N-3, N-46
+Mentions: N-139, N-22, N-3, N-46
 
 
 Investigative Direction: Verify the post is from the same handle the host means; identify its operator and pattern of activity.
@@ -1303,7 +1303,7 @@ Claim Timestamp: 00:43:16
 Claim: A note from the host's producer, which she reads on air, says that "Erika/Erikica Mindle" is a former IDF soldier and TikTok's Public Policy Manager of Hate Speech since July 2025.
 
 Anchored Artifacts: A-1204.1
-Mentions: N-138
+Mentions: N-137
 
 
 Investigative Direction: Verify the named individual's employment, role title, and dates through LinkedIn, TikTok corporate disclosures, or press releases.
@@ -1331,7 +1331,7 @@ Claim Timestamp: 00:46:36
 Claim: A viewer comment the host reads says that one of Tyler Robinson's defense lawyers, Michael Burt, previously represented Richard Ramirez ("the Nightstalker").
 
 Anchored Artifacts: A-1206.1
-Mentions: N-143, N-40
+Mentions: N-142, N-40
 
 
 Investigative Direction: Verify against state bar records and published case dockets for both Ramirez and Robinson.
@@ -1423,7 +1423,7 @@ Claim: The host says she would like to learn whether the new hospital CEO and su
 Transcript Snippet: I think it would be interesting to learn whether or not that new CEO and surgeon worked on Charlie.
 
 Anchored Artifacts: A-3100.1
-Mentions: N-3, N-1, N-136
+Mentions: N-3, N-1, N-135
 Related Nodes: N-10156
 Tags: relevance:core,dia
 Investigative Direction: Obtain the surgical team roster from the hospital or the death certificate and records through the family.
@@ -1519,7 +1519,7 @@ Claim: The host says the woman heard on Shaner's clip is the person who handed h
 Transcript Snippet: now we have actually the woman who handed over her footage to the FBI saying, "I wondered if that woman was an accomplice, ladies and gentlemen.
 
 Anchored Artifacts: A-1196.1
-Mentions: N-3, N-144, N-132
+Mentions: N-3, N-143, N-132
 Related Nodes: N-10152, N-10014
 Tags: relevance:core
 Investigative Direction: Confirm the aunt's identity and whether she gave footage to the FBI and, if so, which files.
@@ -1790,7 +1790,7 @@ Claim: In the played clip Deborah Lee describes Charlie Kirk as a big mentor of 
 Transcript Snippet: who was a big mentor of mine, he's my first mentor in the space.
 
 Anchored Artifacts: A-1200.1
-Mentions: N-141, N-1
+Mentions: N-140, N-1
 Tags: relevance:context
 Investigative Direction: Obtain the full clip and Lee's background and past public statements about Kirk.
 
@@ -1805,7 +1805,7 @@ Claim: In the played clip Deborah Lee says evangelicals are the reason Israel ha
 Transcript Snippet: evangelicals are the reason that Israel has been supported in public sphere outside of just Jews.
 
 Anchored Artifacts: A-1200.1
-Mentions: N-141, N-36, N-22, N-3
+Mentions: N-140, N-36, N-22, N-3
 Related Nodes: N-10026
 Tags: relevance:context
 Investigative Direction: Obtain the full clip and the event details.
@@ -1868,7 +1868,7 @@ Claim: The host says Larry Ellison is part of the TikTok deal and is clear that 
 Transcript Snippet: it's Larry Ellison who has made he's very clear about the fact that he's a agent of Israel.
 
 Anchored Artifacts: 
-Mentions: N-142
+Mentions: N-141
 Related Nodes: N-11103
 Tags: relevance:context
 Investigative Direction: Find Ellison's exact public statement and the TikTok deal terms.
@@ -1884,7 +1884,7 @@ Claim: The host says the deal includes a Horowitz, the son of David Horowitz, wh
 Transcript Snippet: Horowitz, the son of David Harowitz, David Harowitz from which all of uh the connections Prageru
 
 Anchored Artifacts: 
-Mentions: N-195, N-97
+Mentions: N-194, N-97
 Related Nodes: N-10131, N-11103
 Tags: relevance:context
 Investigative Direction: Identify which Horowitz is meant and check the TikTok deal investor list.
@@ -1948,7 +1948,7 @@ Claim: The host says Megyn Kelly tweeted her episode saying to listen to Charlie
 Transcript Snippet: Megyn Kelly tweeted her episode and said, "Listen to Charlie in his own words about what he was going through."
 
 Anchored Artifacts: A-1201.1
-Mentions: N-46, N-1, N-139, N-3
+Mentions: N-46, N-1, N-138, N-3
 Related Nodes: N-10406
 Tags: relevance:context
 Investigative Direction: Locate Kelly's original post and the reply chain.
@@ -1996,7 +1996,7 @@ Claim: The host says Konstantin Kisin's tweet is almost verbatim a text message 
 Transcript Snippet: almost verbatim a text message that I received from Marissa Stright when I like retweeted Max Blumenthal
 
 Anchored Artifacts: A-1203.1
-Mentions: N-140, N-117, N-49, N-3
+Mentions: N-139, N-117, N-49, N-3
 Tags: relevance:context
 Investigative Direction: Obtain the text message and compare it with the Kisin post.
 
@@ -2042,7 +2042,7 @@ Claim: The host reads a reply from Kissen saying he demands nothing of Kelly and
 Transcript Snippet: I demand nothing of you. And in coming from a position of great respect
 
 Anchored Artifacts: A-1203.2
-Mentions: N-140, N-46
+Mentions: N-139, N-46
 Tags: relevance:context
 Investigative Direction: Capture the full thread.
 

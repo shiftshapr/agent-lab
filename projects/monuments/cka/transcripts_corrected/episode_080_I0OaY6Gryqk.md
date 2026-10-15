@@ -175,7 +175,7 @@ The Turning Point USA University of Arkansas chapter announced that it was actua
 
 [31:39]
 
-So, this is fantastic news. It's great news. But beyond that, you should know that this was a unanimous decision. Everyone on the board agreed that they wanted to move away from Turning Point USA and the chapter president, his name is Dino Fonte Grassi, he published a letter onto Instagram, which you should read in its entirety. I want you to know that he's been with Turning Point USA for more than 5 years. So, this matters. Okay, so like let's park aside all the neocons who are trying to tell you how amazing and how this is definitely what Turning Point's These are people working at Turning Point. These are people like the person who's working at Andrew Kolvet's office who's telling you something has changed here and something is not right. Stop gaslighting these kids, okay?
+So, this is fantastic news. It's great news. But beyond that, you should know that this was a unanimous decision. Everyone on the board agreed that they wanted to move away from Turning Point USA and the chapter president, his name is Dino Fantegrossi, he published a letter onto Instagram, which you should read in its entirety. I want you to know that he's been with Turning Point USA for more than 5 years. So, this matters. Okay, so like let's park aside all the neocons who are trying to tell you how amazing and how this is definitely what Turning Point's These are people working at Turning Point. These are people like the person who's working at Andrew Kolvet's office who's telling you something has changed here and something is not right. Stop gaslighting these kids, okay?
 
 [32:20]
 

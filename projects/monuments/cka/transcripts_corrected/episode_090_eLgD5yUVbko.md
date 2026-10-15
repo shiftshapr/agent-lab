@@ -192,7 +192,7 @@ On the 11th because in order for that interview to start, we should assume he ar
 
 [36:57]
 
-Um at 7:00 p. m., this is what we had initially. Our source informed us that it was around this time that everyone locally began receiving text messages that they had Tyler Robinson, that they were going to pick him up in Warner Valley, which was 12 miles away from St. George. And uh then we have Governor Cox at 8:00 p. m., which makes this very strange because if that's true, and I believe that my source was on the money when they said that they knew it was Tyler Robinson at 7:00. So, whether they had him in custody or they were just texting about it, they knew that they had their guy. It makes it very strange that 8:00 p. m. Governor Cox then leads a press conference with Kash Patel and Robert Bowles, you know, the new FBI guy they had just put in place.
+Um at 7:00 p. m., this is what we had initially. Our source informed us that it was around this time that everyone locally began receiving text messages that they had Tyler Robinson, that they were going to pick him up in Warner Valley, which was 12 miles away from St. George. And uh then we have Governor Cox at 8:00 p. m., which makes this very strange because if that's true, and I believe that my source was on the money when they said that they knew it was Tyler Robinson at 7:00. So, whether they had him in custody or they were just texting about it, they knew that they had their guy. It makes it very strange that 8:00 p. m. Governor Cox then leads a press conference with Kash Patel and Robert Bohls, you know, the new FBI guy they had just put in place.
 
 [37:41]
 

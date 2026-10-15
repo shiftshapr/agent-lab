@@ -92,3 +92,16 @@ records Minas separately.
 - Name rules: Aubrey Laitsch (Lech/Lich/Leach/Leitch; N-553 renamed), Megyn Kelly ("Meghan Kelly"), Jörg Fassbinder
   ("Fastbinder"), Barclay (ep66), Falcone (ep70).
 - Held for Daveed: three more Marina Minas changes (C-10121, C-2320, C-2322). See "For Daveed: Marina (N-495)".
+
+## Part 3d (chunks 111–138: episodes ~75–93, 1,680 claims)
+- Confirmations: chunks 111–126 had 141 findings (119 accepted, 21 amended, 1 rejected); chunks 127–138 had 91 (68
+  accepted, 22 amended, 1 rejected).
+- Applied: 226 confirmed fixes and 174 minor fixes.
+- Name rules added, for example:
+  - Andrew Kolvet ("Colebat"), Dennis Frantzve, Dino Fantegrossi, James Blair (ep76), Otto Busher
+  - Father Chad Ripperger, Mikey McCoy ("McQuaid", ep75), Amir Tsarfati, Andrew Piskadlo, Cori Kennedy, Jake Traylor
+  - Zachariah Qureshi ("Karashy", which closes the Karashi/Qureshi review item)
+  - Robert Bohls ("Bowles", now archive-wide)
+- Merged (`audits/person_merge_2026-10-15d/id_map.csv`): N-135 Robert Bohls into N-134 ("Robert Bowles", introduced
+  ep12), the same FBI Salt Lake City head. The ep12 named-before-intro exception is no longer needed.
+- Held for Daveed: further Marina Minas changes (C-3795, C-2535, C-2536, C-11339).

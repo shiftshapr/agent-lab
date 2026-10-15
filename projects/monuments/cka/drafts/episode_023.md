@@ -11,13 +11,13 @@
 - **Transcript SHA-256**: 2b7c0b497c1a605724c2efacfbda06d8e0b999ac43a4736bf08dfb6b27a1a9f1
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-911, N-912, N-11327, N-11328, N-11329, N-11330
+  - Tip-minted Nodes (supplement_2026-10f): N-910, N-911, N-11327, N-11328, N-11329, N-11330
   - Hole-minted Nodes (reintro-ep023): N-10242, N-10253, N-10266, N-10436
-  - Tip-minted Nodes (reintro-ep023): N-713, N-11094, N-11129, N-11171
+  - Tip-minted Nodes (reintro-ep023): N-712, N-11094, N-11129, N-11171
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10f): C-12262–C-12349
-  - New Nodes Introduced: N-207, N-209, N-210, N-10208, N-10211, N-10212, N-10213, N-10214, N-10215
-  - Reused Nodes Appearing: N-211, N-10207, N-10209, N-2, N-38, N-39, N-40, N-55, N-69, N-98, N-169, N-195, N-201, N-203, N-230, N-327, N-331, N-10000, N-10012, N-10018, N-10026, N-10031, N-10033, N-10056, N-10063, N-10074, N-10094, N-10115, N-10125, N-10131, N-10202, N-10342, N-10345, N-10355, N-10398, N-10673, N-11059, N-10210, N-10218
+  - New Nodes Introduced: N-206, N-208, N-209, N-10208, N-10211, N-10212, N-10213, N-10214, N-10215
+  - Reused Nodes Appearing: N-210, N-10207, N-10209, N-2, N-38, N-39, N-40, N-55, N-69, N-98, N-168, N-194, N-200, N-202, N-229, N-326, N-330, N-10000, N-10012, N-10018, N-10026, N-10031, N-10033, N-10056, N-10063, N-10074, N-10094, N-10115, N-10125, N-10131, N-10202, N-10342, N-10345, N-10355, N-10398, N-10673, N-11059, N-10210, N-10218
   N-1, N-41, N-11
 
 ## 6. Meme Register
@@ -188,7 +188,7 @@ Confidence: high
 
 - **Artifact Families Introduced:** A-1301, A-1302, A-1303, A-1304, A-1305, A-1306, A-1307, A-1308, A-1309, A-1310, A-1311, A-1312
 - **Claim Range:** C-1545 – C-1567, C-3748
-- **New Nodes Introduced:**N-207, N-209, N-210, N-211, N-10207, N-10208, N-10209, N-10210, N-10211, N-10212, N-10213, N-10214
+- **New Nodes Introduced:**N-206, N-208, N-209, N-210, N-10207, N-10208, N-10209, N-10210, N-10211, N-10212, N-10213, N-10214
 - **Existing Nodes Reused:** N-1 (Charlie Kirk), N-41 (Governor Cox)
 
 ---
@@ -213,7 +213,7 @@ Video Timestamp: 00:09:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, N-1, N-17, N-207, N-10207*
+*Related: C-1545, N-1, N-17, N-206, N-10207*
 
 **A-1301.2** SUBTT arrival April 1, 2023, St. Louis, MO (via Paris from Cairo)
 
@@ -223,7 +223,7 @@ Video Timestamp: 00:17:56
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, N-17, N-207, N-10207*
+*Related: C-1545, N-17, N-206, N-10207*
 
 **A-1301.3** SUBTT arrival April 13, 2023, Kansas (Cairo → Wichita)
 
@@ -233,7 +233,7 @@ Video Timestamp: 00:18:48
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, N-17, N-207, N-10207*
+*Related: C-1545, N-17, N-206, N-10207*
 
 **A-1301.4** SUBTT arrival February 9, 2024, Omaha/Lincoln, NE (via Paris from Cairo)
 
@@ -243,7 +243,7 @@ Video Timestamp: 00:20:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1545, C-1548, N-1, N-192, N-10207, N-10211*
+*Related: C-1545, C-1548, N-1, N-191, N-10207, N-10211*
 
 **A-1301.5** SUBTT arrival March 29, 2024, Wichita, KS (2:19 PM local)
 
@@ -307,7 +307,7 @@ Video Timestamp: 00:09:38
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1546, N-17, N-207, N-10208*
+*Related: C-1546, N-17, N-206, N-10208*
 
 **A-1302.2** SUBND arrival April 19, 2024, Provo, UT (via Salt Lake City)
 
@@ -351,7 +351,7 @@ Video Timestamp: 00:20:57
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1548, N-1, N-192, N-10211*
+*Related: C-1548, N-1, N-191, N-10211*
 
 ---
 
@@ -365,7 +365,7 @@ Video Timestamp: 00:20:27
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1547, N-192, N-10212*
+*Related: C-1547, N-191, N-10212*
 
 *Flag: Artifact verbally referenced but not shown*
 
@@ -381,7 +381,7 @@ Video Timestamp: 00:26:47
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1549, N-207, N-10209, N-10214*
+*Related: C-1549, N-206, N-10209, N-10214*
 
 ---
 
@@ -405,7 +405,7 @@ Video Timestamp: 00:59:11
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1564, N-210, N-10209*
+*Related: C-1564, N-209, N-10209*
 
 **A-1306.3** "Alpaca Renee" comment expressing support and citing Jeremiah 29:11
 
@@ -435,7 +435,7 @@ Video Timestamp: 01:01:33
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-1549, C-1565, N-17, N-207, N-10209*
+*Related: C-1549, C-1565, N-17, N-206, N-10209*
 
 **A-1306.6** Unattributed live-chat comment reporting that Charlie Kirk did fly into Salt Lake City for a "Restaurantology Summit" interview
 
@@ -461,7 +461,7 @@ Video Timestamp: 00:13:18
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1549, C-1566, N-17, N-207, N-66, N-10209, N-10210*
+*Related: C-1549, C-1566, N-17, N-206, N-66, N-10209, N-10210*
 
 ---
 
@@ -475,7 +475,7 @@ Video Timestamp: 00:29:46
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-1558, N-209, N-10214*
+*Related: C-1558, N-208, N-10214*
 
 ---
 
@@ -626,11 +626,11 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1301.1, A-1301.2, A-1302.1, A-1306.5, A-1310.1, C-1549, C-1556, C-1565, N-207, N-10209, N-10213*
+*Related: A-1301.1, A-1301.2, A-1302.1, A-1306.5, A-1310.1, C-1549, C-1556, C-1565, N-206, N-10209, N-10213*
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Promoted to Chief of Staff of TPUSA on January 3, 2024 per host's referenced internal email; host reports TPUSA insiders describe him as positioned to take over from Charlie Kirk.
 
@@ -643,7 +643,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-207** Sean Feucht
+**N-206** Sean Feucht
 
 TPUSA Faith contributor and Kingdom to the Capital Tour leader; subject of June 2025 article detailing fraud, embezzlement, and financial mismanagement allegations; reported to be planning a "Courageous Christianity Tour" with Rob McCoy honoring Charlie.
 
@@ -693,7 +693,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1307.1, C-1566, N-207, N-10210*
+*Related: A-1307.1, C-1566, N-206, N-10210*
 
 ---
 
@@ -710,7 +710,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-209** Joel Osteen
+**N-208** Joel Osteen
 
 Pastor of referenced megachurch; used as comparative context in the host's broader cash / mega-church money-flow argument.
 
@@ -723,7 +723,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-210** Jack Hibbs
+**N-209** Jack Hibbs
 
 Pastor identified by host as having been previously pushed to her by PragerU; subject of a live-chat comment criticizing his silence on Charlie Kirk.
 
@@ -736,7 +736,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-211** Joe Kent
+**N-210** Joe Kent
 
 Named by host as a potential recipient of the public call to pull flight manifests.
 
@@ -771,7 +771,7 @@ Claim Count: 4
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1301.1, A-1301.2, A-1301.3, A-1301.4, A-1301.5, A-1301.6, A-1301.7, A-1301.8, A-1301.9, C-1545, C-1548, C-1551, C-1561, N-1, N-17, N-207, N-211*
+*Related: A-1301.1, A-1301.2, A-1301.3, A-1301.4, A-1301.5, A-1301.6, A-1301.7, A-1301.8, A-1301.9, C-1545, C-1548, C-1551, C-1561, N-1, N-17, N-206, N-210*
 
 ---
 
@@ -784,7 +784,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1302.1, A-1302.2, A-1302.3, A-1302.4, C-1546, C-1550, C-1552, N-1, N-211*
+*Related: A-1302.1, A-1302.2, A-1302.3, A-1302.4, C-1546, C-1550, C-1552, N-1, N-210*
 
 ---
 
@@ -797,7 +797,7 @@ Claim Count: 9
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1305.1, A-1306.2, A-1306.5, A-1307.1, A-1311.1, A-1312.1, C-1549, C-1557, C-1559, C-1560, C-1562, C-1564, C-1565, C-1566, N-1, N-17, N-207, N-41, N-22, N-14, N-36, N-210, N-10210, N-10212*
+*Related: A-1305.1, A-1306.2, A-1306.5, A-1307.1, A-1311.1, A-1312.1, C-1549, C-1557, C-1559, C-1560, C-1562, C-1564, C-1565, C-1566, N-1, N-17, N-206, N-41, N-22, N-14, N-36, N-209, N-10210, N-10212*
 
 ---
 
@@ -810,7 +810,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1307.1, C-1566, N-207, N-66, N-10209*
+*Related: A-1307.1, C-1566, N-206, N-66, N-10209*
 
 ---
 
@@ -823,7 +823,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1301.4, A-1301.7, A-1301.8, A-1303.1, C-1548, N-1, N-192*
+*Related: A-1301.4, A-1301.7, A-1301.8, A-1303.1, C-1548, N-1, N-191*
 
 ---
 
@@ -836,7 +836,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1304.1, C-1547, C-1563, N-192, N-10209, N-10214*
+*Related: A-1304.1, C-1547, C-1563, N-191, N-10209, N-10214*
 
 ---
 
@@ -862,7 +862,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-1305.1, A-1308.1, C-1549, C-1558, N-207, N-209, N-10212*
+*Related: A-1305.1, A-1308.1, C-1549, C-1558, N-206, N-208, N-10212*
 
 ---
 
@@ -946,7 +946,7 @@ Donor named by the host as Bob Shillman, angry after Carlson's speech.
 
 ---
 
-**N-169** James O'Keefe
+**N-168** James O'Keefe
 
 Project Veritas founder the host says was ousted in a takeover Kirk backed.
 
@@ -954,7 +954,7 @@ Project Veritas founder the host says was ousted in a takeover Kirk backed.
 
 ---
 
-**N-195** David Horowitz
+**N-194** David Horowitz
 
 Founder of the Freedom Center where the host, Kirk and O'Keefe met.
 
@@ -962,7 +962,7 @@ Founder of the Freedom Center where the host, Kirk and O'Keefe met.
 
 ---
 
-**N-201** Norman Finkelstein
+**N-200** Norman Finkelstein
 
 Interview guest announced for release after this episode.
 
@@ -970,7 +970,7 @@ Interview guest announced for release after this episode.
 
 ---
 
-**N-203** Nick Fuentes
+**N-202** Nick Fuentes
 
 Named in the host's 2024 backstage exchange with Bowyer about a debate.
 
@@ -978,7 +978,7 @@ Named in the host's 2024 backstage exchange with Bowyer about a debate.
 
 ---
 
-**N-230** Lila Rose
+**N-229** Lila Rose
 
 One of the guests the host says PragerU wanted her to platform.
 
@@ -986,7 +986,7 @@ One of the guests the host says PragerU wanted her to platform.
 
 ---
 
-**N-327** Tim Ballard
+**N-326** Tim Ballard
 
 One of the guests the host says PragerU wanted her to platform.
 
@@ -994,7 +994,7 @@ One of the guests the host says PragerU wanted her to platform.
 
 ---
 
-**N-331** Tulsi Gabbard
+**N-330** Tulsi Gabbard
 
 Named by the host as able to pull the plane manifests.
 
@@ -1002,7 +1002,7 @@ Named by the host as able to pull the plane manifests.
 
 ---
 
-**N-713** Volodymyr Zelensky
+**N-712** Volodymyr Zelensky
 
 Subject of Kirk's 2023 corruption accusations per the host.
 
@@ -1234,7 +1234,7 @@ Existing topic reused for the funding opacity claims.
 
 ---
 
-**N-911** Che Ahn
+**N-910** Che Ahn
 
 First named by the host at 00:11:43 in episode 23. NAR apostle whose prayer rallies the host reads that Sean Feucht took part in.
 
@@ -1242,7 +1242,7 @@ First named by the host at 00:11:43 in episode 23. NAR apostle whose prayer rall
 
 ---
 
-**N-912** Dan Gertler
+**N-911** Dan Gertler
 
 First named by the host at 00:52:25 in episode 23. Named by the host as the Israeli link in Congo and the diamond trade.
 
@@ -1315,7 +1315,7 @@ Investigative Direction: Verify Flightradar archive for SUBND on each cited date
 Claim Timestamp: 00:19:50
 Claim: The episode states that Mikey McCoy was promoted to Chief of Staff of Turning Point USA on January 3, 2024, citing an internal TPUSA email referenced but not displayed on screen.
 Anchored Artifacts: A-1304.1
-Mentions: N-192
+Mentions: N-191
 Related Nodes: N-10212
 Investigative Direction: Obtain the referenced internal TPUSA email through open-source verification or insider corroboration; cross-check TPUSA organizational filings and HR records.
 
@@ -1337,7 +1337,7 @@ Investigative Direction: Re-examine the original Instagram post metadata (post d
 Claim Timestamp: 00:26:47
 Claim: The episode references a June 2025 article documenting multiple organizational allegations against Sean Feucht, including use of business credit cards for personal expenses, diversion of donations to personal accounts, inflated vendor payments, ministry funds used to rent his personal Montana cabin for board meetings, and ownership of multiple high-value properties.
 Anchored Artifacts: A-1305.1, A-1306.5
-Mentions: N-207
+Mentions: N-206
 Related Nodes: N-10209, N-10214
 Investigative Direction: Retrieve the cited article directly; confirm each enumerated allegation against underlying source documents and any subsequent legal filings.
 
@@ -1436,7 +1436,7 @@ Investigative Direction: Locate the cited Netanyahu public statement (interview,
 Claim Timestamp: 00:28:45
 Claim: The host says a news story she brings up reports that a plumber repairing a toilet at Joel Osteen's megachurch found about 500 envelopes of cash in a wall (she first recalls almost a million dollars), and she characterizes Osteen's excuse as saying the church had money missing.
 Anchored Artifacts: A-1308.1
-Mentions: N-209
+Mentions: N-208
 Related Nodes: N-10214
 Investigative Direction: Retrieve the underlying news article; verify the exact amount, date, and Osteen's official response.
 
@@ -1514,7 +1514,7 @@ Investigative Direction: Locate any direct statement from Charlie Kirk regarding
 Claim Timestamp: 00:59:11
 Claim: The episode reads aloud multiple live-chat comments criticizing Pastor Jack Hibbs's silence, condemning Christian Zionist loyalty replacing loyalty to "God, the church, and the truth," and explicitly defending the host's investigation against Zionist criticism.
 Anchored Artifacts: A-1306.1, A-1306.2, A-1306.3
-Mentions: N-210, N-1
+Mentions: N-209, N-1
 Related Nodes: N-10209
 Investigative Direction: Verify each named pastor / figure's public silence or statements in the period following September 10, 2025.
 
@@ -1525,7 +1525,7 @@ Investigative Direction: Verify each named pastor / figure's public silence or s
 Claim Timestamp: 01:01:33
 Claim: Live-chat comment "Tim Morgan" states that Sean Feucht and Pastor McCoy are planning a "Courageous Christianity Tour" to honor Charlie Kirk.
 Anchored Artifacts: A-1306.5
-Mentions: N-17, N-207, N-1
+Mentions: N-17, N-206, N-1
 Related Nodes: N-10209
 Investigative Direction: Verify the existence and details of any announced "Courageous Christianity Tour" through TPUSA Faith announcements, ticketing sites, or insider confirmations.
 
@@ -1536,7 +1536,7 @@ Investigative Direction: Verify the existence and details of any announced "Cour
 Claim Timestamp: 00:11:38
 Claim: The host says Sean Feucht's biography says he grew up in a New Apostolic Reformation (NAR) church, and that X user Village Crazy Lady told her to look into NAR, saying something is going on if you start talking about Rob McCoy; the host says NAR is somehow going to be relevant, noting it is an early phase of the investigation.
 Anchored Artifacts: A-1307.1
-Mentions: N-66, N-207, N-17
+Mentions: N-66, N-206, N-17
 Related Nodes: N-10209, N-10210
 Investigative Direction: Pull and analyze Village Crazy Lady's pinned NAR research thread; cross-check Sean Feucht's biographical and ministry affiliations against NAR church networks and apostle affiliations.
 
@@ -1744,7 +1744,7 @@ Claim: The host says that in 2023 Charlie Kirk's X feed hit hard on Ukraine, dem
 Transcript Snippet: He's accusing Ukraine and Zelenskyy of corruption, of financial fraud, of money laundering.
 
 Anchored Artifacts: A-3198.1
-Mentions: N-1, N-713, N-3
+Mentions: N-1, N-712, N-3
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Retrieve Kirk's 2023 X posts about Ukraine and Zelensky and check wording and dates against the host's description.
@@ -1776,7 +1776,7 @@ Claim: The host says the same people who infiltrated or hostilely took over Jame
 Transcript Snippet: because the same people that infiltrated or hostilely took over James O'Keefe were involved with Turning Point USA.
 
 Anchored Artifacts: A-3198.1
-Mentions: N-169, N-3
+Mentions: N-168, N-3
 Related Nodes: N-11327, N-10000
 Tags: relevance:context
 Investigative Direction: Compare Project Veritas board and donor changes in early 2023 with TPUSA donor and board records to test for overlapping individuals.
@@ -1792,7 +1792,7 @@ Claim: The host says that she, Charlie Kirk and James O'Keefe all met at the sam
 Transcript Snippet: he and Charlie and myself all met at the same time in November, that David Horowitz Freedom Center event that I was telling you about.
 
 Anchored Artifacts: 
-Mentions: N-169, N-1, N-3, N-195
+Mentions: N-168, N-1, N-3, N-194
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Locate the Horowitz Freedom Center event and its date through event programs or the host's earlier episode on it.
@@ -1808,7 +1808,7 @@ Claim: The host says James O'Keefe was ousted from the board of his own company 
 Transcript Snippet: James O'Keefe gets pushed out. He's ousted from the board of his own company and Charlie publicly announces his support
 
 Anchored Artifacts: A-3198.1
-Mentions: N-169, N-1, N-3
+Mentions: N-168, N-1, N-3
 Related Nodes: N-11327
 Tags: relevance:context
 Investigative Direction: Find Kirk's public statement on the Project Veritas leadership change and its date.
@@ -1824,7 +1824,7 @@ Claim: The host says that on February 27, a person she had not heard of before, 
 Transcript Snippet: named Sean Feucht, I believe I'm saying that correctly, Sean Feucht, is announced as the Turning Point USA Faith Contributor.
 
 Anchored Artifacts: A-3198.1
-Mentions: N-207, N-3
+Mentions: N-206, N-3
 Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Retrieve the TPUSA Faith announcement of Feucht's role and its date.
@@ -1840,7 +1840,7 @@ Claim: The host says many people emailed after the assassination believing Sean 
 Transcript Snippet: many people emailed us after Charlie's um assassination and they thought Sean Feucht was the guy that was standing and cheering
 
 Anchored Artifacts: 
-Mentions: N-207, N-3
+Mentions: N-206, N-3
 Related Nodes: N-10209
 Tags: relevance:context
 Investigative Direction: Find Feucht's denial video and compare the cheering man in crowd footage against Feucht's whereabouts on September 10, 2025.
@@ -1856,7 +1856,7 @@ Claim: The host reads from Sean Feucht's biography that he was born in Montana a
 Transcript Snippet: So, look him up on his biography and it tells us that he was born in Montana. He's a son of a dermatologist.
 
 Anchored Artifacts: A-3199.1
-Mentions: N-207
+Mentions: N-206
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check Feucht's Wikipedia entry and published biographies for the birthplace and parent details.
@@ -1872,7 +1872,7 @@ Claim: The host reads that Sean Feucht grew up playing music in a New Apostolic 
 Transcript Snippet: He was a part of the NAR Apostle Che Ahn's prayer rallies, it tells us, okay?
 
 Anchored Artifacts: A-3199.1
-Mentions: N-207, N-911
+Mentions: N-206, N-910
 Related Nodes: N-10210, N-10242
 Supports: C-1566
 Tags: relevance:context
@@ -1889,7 +1889,7 @@ Claim: The host says that on February 28 it was announced Sean Feucht would head
 Transcript Snippet: February 28th, Sean Feucht announce it's announced that he's going to be heading up the Kingdom of the Capital Tour.
 
 Anchored Artifacts: A-3198.1
-Mentions: N-207
+Mentions: N-206
 Related Nodes: N-11330, N-10398
 Tags: relevance:context
 Investigative Direction: Retrieve the tour announcement and event calendar; the tour is commonly styled 'Kingdom to the Capitol'.
@@ -1905,7 +1905,7 @@ Claim: The host says that when the plane reached St. Louis, Missouri, the first 
 Transcript Snippet: that plane gets to St. Louis Missouri and sure enough, Sean Feucht is there. TPUSA Faith is there.
 
 Anchored Artifacts: A-1301.1, A-1302.1
-Mentions: N-207
+Mentions: N-206
 Related Nodes: N-11330, N-10207, N-10208
 Tags: relevance:core
 Investigative Direction: Confirm the date, city and venue of the first Kingdom tour stop and compare with the SUBND and SUBTT St. Louis arrivals.
@@ -2033,7 +2033,7 @@ Claim: The host says that on April 2, the day after the yellow plane landed in M
 Transcript Snippet: April 2nd, TPUSA Faith, co-chaired by Rob McCoy, kicks off their tour with an event headed by Sean Feucht in Jefferson City, Missouri.
 
 Anchored Artifacts: A-1301.2
-Mentions: N-17, N-207
+Mentions: N-17, N-206
 Related Nodes: N-11330, N-10207
 Tags: relevance:core
 Investigative Direction: Confirm the Jefferson City event date and venue and compare with SUBTT's April 1 St. Louis arrival.
@@ -2066,7 +2066,7 @@ Claim: The host says the yellow plane flew Cairo to Kansas, and on April 23 Sean
 Transcript Snippet: And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capital Tour event, which happens to be in Topeka, Kansas.
 
 Anchored Artifacts: A-1301.3
-Mentions: N-207
+Mentions: N-206
 Related Nodes: N-11330, N-10207
 Tags: relevance:core
 Investigative Direction: Confirm the Topeka event date and compare with SUBTT's Kansas landing and stay.
@@ -2099,7 +2099,7 @@ Claim: The host says that she is going to give her last speech for Turning Point
 Transcript Snippet: I did not know that, so this has to be the year that they got super involved because I'm going to do my last speech for them in June of 2024.
 
 Anchored Artifacts: 
-Mentions: N-3, N-192
+Mentions: N-3, N-191
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Check TPUSA event programs for the host's June 2024 appearance.
@@ -2228,7 +2228,7 @@ Claim: The host says that Tulsi Gabbard or Joe Kent, who she says have been bloc
 Transcript Snippet: as the public figured out being blocked from Kash Patel, you should be able to look into these flights and see who is on these manifests
 
 Anchored Artifacts: 
-Mentions: N-331, N-211, N-69
+Mentions: N-330, N-210, N-69
 Related Nodes: N-10355, N-10253
 Tags: relevance:context
 Investigative Direction: Ask ODNI and the FBI whether manifest requests for SU-BTT and SU-BND were made and what was provided.
@@ -2244,7 +2244,7 @@ Claim: The host says that even people who formerly worked at Turning Point USA s
 Transcript Snippet: by the way, even people who formally worked at Turning Point USA say the same thing.
 
 Anchored Artifacts: A-1305.1
-Mentions: N-207
+Mentions: N-206
 Related Nodes: N-10000
 Supports: C-1549
 Tags: relevance:context
@@ -2341,7 +2341,7 @@ Claim: The host says that at TPUSA's 2024 conference she suggested to Tyler Bowy
 Transcript Snippet: And I said to him, why don't you just have Charlie debate Nick?
 
 Anchored Artifacts: 
-Mentions: N-11, N-3, N-203, N-1
+Mentions: N-11, N-3, N-202, N-1
 Related Nodes: N-10000
 Tags: relevance:context
 Investigative Direction: Identify others present at the 2024 backstage exchange and any Kirk or TPUSA statements on a Fuentes debate.
@@ -2605,7 +2605,7 @@ Claim: The host says Mikey McCoy was there and that she thinks his wife said she
 Transcript Snippet: I don't know what Mikey McCoy's wife's name I think she said she was there. Mikey McCoy was there.
 
 Anchored Artifacts: A-1309.1
-Mentions: N-192
+Mentions: N-191
 Related Nodes: N-11329
 Tags: relevance:core
 Investigative Direction: Compare with Mikey McCoy's own accounts of where he and his wife were on September 10.
@@ -2621,7 +2621,7 @@ Claim: The host says many of the people who work for TPUSA and are not at the to
 Transcript Snippet: and they felt that Mikey McCoy was kind of being positioned to take over for Charlie Kirk.
 
 Anchored Artifacts: 
-Mentions: N-192, N-1
+Mentions: N-191, N-1
 Related Nodes: N-10218, N-10000
 Tags: relevance:core
 Investigative Direction: Find TPUSA staff willing to describe succession planning for Mikey McCoy and compare with internal org charts.
@@ -2782,7 +2782,7 @@ Claim: The host says that when people point to Christians being slaughtered in C
 Transcript Snippet: They'll be like, "Well, look at what the Christians are being slaughtered in Congo." Oopsies, Dan Gertler.
 
 Anchored Artifacts: 
-Mentions: N-3, N-912
+Mentions: N-3, N-911
 Related Nodes: N-10026
 Tags: relevance:tangential
 Investigative Direction: Check public sanctions and Congo mining records on Gertler and Israel's position in the diamond trade.
@@ -2896,7 +2896,7 @@ Claim: The host says Pastor Jack Hibbs was another person PragerU was pushing to
 Transcript Snippet: He was another person that PragerU was pushing to me. Uh wanted me to interview him.
 
 Anchored Artifacts: 
-Mentions: N-210, N-3
+Mentions: N-209, N-3
 Related Nodes: N-10131
 Tags: relevance:context
 Investigative Direction: Find PragerU's outreach to the host and any interview of Hibbs.
@@ -2912,7 +2912,7 @@ Claim: The host says Jack Hibbs was also part of Turning Point USA Faith events 
 Transcript Snippet: So, Jack Hibbs was also a part of like a Turning Point USA Faith events, and I am looking at Turning Point USA Faith sideways.
 
 Anchored Artifacts: 
-Mentions: N-210
+Mentions: N-209
 Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Check TPUSA Faith event rosters for Hibbs appearances.
@@ -2928,7 +2928,7 @@ Claim: The host says that PragerU wanted her to platform Lila Rose, Jack Hibbs a
 Transcript Snippet: I look back on that stuff, and I'm reflecting, and I realize that, like I said, I had handlers, and they were directing me to do things
 
 Anchored Artifacts: 
-Mentions: N-3, N-230, N-210, N-327
+Mentions: N-3, N-229, N-209, N-326
 Related Nodes: N-10131
 Tags: relevance:context
 Investigative Direction: Ask the host to identify the handlers and show the communications through which guests were pushed to her.
@@ -2944,7 +2944,7 @@ Claim: The host, discussing Jack Hibbs and TPUSA Faith, says "he doesn't even ca
 Transcript Snippet: It doesn't matter. We're just going to keep on continuing working with him. Rob McCoy.
 
 Anchored Artifacts: 
-Mentions: N-207, N-17, N-210
+Mentions: N-206, N-17, N-209
 Related Nodes: N-10398
 Supports: C-1549
 Tags: relevance:context
@@ -2977,7 +2977,7 @@ Claim: The host says her interview with Norman Finkelstein was bumped for this e
 Transcript Snippet: That interview is going to release at 7:00 p. m. Eastern, so in about 30 minutes if you stick around.
 
 Anchored Artifacts: 
-Mentions: N-201, N-3
+Mentions: N-200, N-3
 Related Nodes: 
 Supports: C-9446
 Tags: relevance:context
@@ -2994,7 +2994,7 @@ Claim: The host says what has happened in Gaza has been going on since 1948 and 
 Transcript Snippet: It has been an effective holocaust since 1948 uh by the legal definition of a holocaust, which Norman Finkelstein will explain better than I do.
 
 Anchored Artifacts: 
-Mentions: N-201, N-3
+Mentions: N-200, N-3
 Related Nodes: N-10063
 Tags: relevance:tangential
 Investigative Direction: Not testable from this episode; it is the host's characterization of Gaza.
@@ -3033,7 +3033,7 @@ Investigative Direction: Not testable from this episode; it is the host's charac
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle exists
-- [x] People nodes use the global people ledger (N-1, N-17–N-211)
+- [x] People nodes use the global people ledger (N-1, N-17–N-210)
 - [x] Non-person investigation targets use the 1000 series (N-10207–N-10214)
 - [x] No speculative claims inscribed as evidence-backed claims
 - [x] Names preserved exactly or uncertainty noted

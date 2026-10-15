@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: d8e6f28a51d5ce3dd1d87baacd78a256a41af58e5088968e02eb7b3dd5527107
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10b): N-773, N-775, N-776, N-11128, N-11131, N-11132, N-11133
+  - Tip-minted Nodes (supplement_2026-10b): N-772, N-774, N-775, N-11128, N-11131, N-11132, N-11133
   - Tip-minted Nodes (reintro-ep075): N-11072
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-118, N-201, N-213, N-272, N-300, N-556, N-676, N-10000, N-10063, N-10113, N-10209, N-10324, N-10403, N-10406, N-10414, N-10415, N-10436, N-10447, N-10451, N-10505, N-10694, N-10905, N-10962, N-10968, N-11130, N-774, N-11129, N-10539
+  - Reused Nodes Appearing: N-4, N-6, N-9, N-37, N-40, N-46, N-50, N-69, N-118, N-200, N-212, N-271, N-299, N-555, N-675, N-10000, N-10063, N-10113, N-10209, N-10324, N-10403, N-10406, N-10414, N-10415, N-10436, N-10447, N-10451, N-10505, N-10694, N-10905, N-10962, N-10968, N-11130, N-773, N-11129, N-10539
   - Claim Range (supplement_2026-10b): C-7053–C-7142
-  - Hole-minted Nodes (wave1): N-326
+  - Hole-minted Nodes (wave1): N-325
   - Hole-minted Nodes (w2_1-ep75): N-10856, N-10857, N-10858
   - (see registers)
 
@@ -31,7 +31,7 @@
 - Transcript Completeness Status: Complete (sections after [55:16] are comment reads; transcript ends at [01:09:02])
 - Analyst: Investigation Agent (Episode Analysis Protocol)
 - Analysis Date: 2026-03-11
-- Ledger Continuation: Beginning at A-2436 / C-3568 / N-326 (people) / N-10856 (targets)
+- Ledger Continuation: Beginning at A-2436 / C-3568 / N-325 (people) / N-10856 (targets)
 
 ---
 
@@ -39,7 +39,7 @@
 
 This episode is a pause from the Bride of Charlie primary investigation, used by the host to advance two interlinked theses: (1) that the death of Charlie Kirk was part of a coordinated occultic operation tied to U.S. policy in Iran, and (2) that Donald Trump's continuation of Middle East military action constitutes betrayal of the America First platform and of Kirk's legacy.
 
-The episode presents an array of evidentiary material. Most consequential are read-aloud audio/video artifacts: a Tucker Carlson X post about "the spell," a Wikipedia entry on the Seal of Solomon, an audio clip of Father Ripperger discussing "revealing of the method," an audio clip of three pro-Kirk media figures (Tyler Bowyer, Frank Turek, Mikey McQuaid) discussing Erika Kirk's presidential viability in the weeks following the assassination, and a clip of President Trump publicly questioning Miriam Adelson's loyalty between the U.S. and Israel. The host also displays a physical document she characterizes as a "33rd degree Freemason Bible" mailed to her by an anonymous viewer, which contains illustrations and text she reads aloud.
+The episode presents an array of evidentiary material. Most consequential are read-aloud audio/video artifacts: a Tucker Carlson X post about "the spell," a Wikipedia entry on the Seal of Solomon, an audio clip of Father Ripperger discussing "revealing of the method," an audio clip of three pro-Kirk media figures (Tyler Bowyer, Frank Turek, Mikey McCoy) discussing Erika Kirk's presidential viability in the weeks following the assassination, and a clip of President Trump publicly questioning Miriam Adelson's loyalty between the U.S. and Israel. The host also displays a physical document she characterizes as a "33rd degree Freemason Bible" mailed to her by an anonymous viewer, which contains illustrations and text she reads aloud.
 
 Secondary artifact material includes headlines and report excerpts: a Venezuela-to-Israel oil shipment headline following the U.S. operation against Maduro, a Washington Post passage regarding glyphosate/white phosphorus production under a Defense Production Act invocation, and a headline on Israeli use of white phosphorus. Three on-camera interview clips – Marco Rubio (justifying the Iran bombing as preemptive of an Israeli strike), Benny Gantz (not excluding boots on the ground), and Karoline Leavitt (saying Trump keeps "options on the table") – anchor the policy-betrayal argument.
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:15:10
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (clip excerpted; full source not identified in episode)
 
-*Related: C-3570, N-326 (Father Ripperger)*
+*Related: C-3570, N-325 (Father Ripperger)*
 
 ---
 
@@ -136,16 +136,16 @@ Confidence Level: High (dated)
 
 ---
 
-**A-2442** Mikey McQuaid Interview Bundle
+**A-2442** Mikey McCoy Interview Bundle
 
-**A-2442.1** Audio clip of Mikey McQuaid stating Charlie "left behind these blueprints for her" (Erika) and "for you" (McQuaid); reiterating the possibility of a Vance-Kirk ticket.
+**A-2442.1** Audio clip of Mikey McCoy stating Charlie "left behind these blueprints for her" (Erika) and "for you" (McQuaid); reiterating the possibility of a Vance-Kirk ticket.
 
 Event Timestamp: undated within episode
 Video Timestamp: 00:21:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (date not given in episode)
 
-*Related: C-3575, N-2 (Erica Kirk), N-192 (Mikey McQuaid – reuse if exists)*
+*Related: C-3575, N-2 (Erica Kirk), N-191 (Mikey McCoy – reuse if exists)*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:26:00
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (comedy segment; clearly framed by host as supporting analysis)
 
-*Related: C-3583, N-2 (Erica Kirk), N-279 (Tim Dillon – reuse if exists)*
+*Related: C-3583, N-2 (Erica Kirk), N-278 (Tim Dillon – reuse if exists)*
 
 ---
 
@@ -248,7 +248,7 @@ Video Timestamp: 00:48:30
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed)
 
-*Related: C-3582, N-5 (Donald Trump), N-282 (Karoline Leavitt – reuse if exists)*
+*Related: C-3582, N-5 (Donald Trump), N-281 (Karoline Leavitt – reuse if exists)*
 
 ---
 
@@ -321,7 +321,7 @@ Confidence Level: High
 
 ## IV. Node Register
 
-**N-326** Father Ripperger
+**N-325** Father Ripperger
 
 Catholic priest whose audio clip on "the revealing of the method" is presented by the host as documentary support for an occult-influence thesis applied to Charlie Kirk's assassination and subsequent TPUSA behavior.
 
@@ -334,7 +334,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-279** Tim Dillon
+**N-278** Tim Dillon
 
 Comedian whose on-camera segment speculating that Erika Kirk functioned as a "Mossad handler" for Charlie Kirk is presented by the host as confirming public intuition.
 
@@ -515,7 +515,7 @@ Elon Musk; the host says he donated to the family.
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Mikey McCoy, also called McQuaid in the clip; speaker on blueprints and a Vance Kirk ticket.
 
@@ -523,7 +523,7 @@ Mikey McCoy, also called McQuaid in the clip; speaker on blueprints and a Vance 
 
 ---
 
-**N-201** Norman Finkelstein
+**N-200** Norman Finkelstein
 
 Norman Finkelstein; the host cites his account of mowing the lawn.
 
@@ -531,7 +531,7 @@ Norman Finkelstein; the host cites his account of mowing the lawn.
 
 ---
 
-**N-272** Dan Flood
+**N-271** Dan Flood
 
 Dan Flood; the host says Erika offered him a raise.
 
@@ -539,7 +539,7 @@ Dan Flood; the host says Erika offered him a raise.
 
 ---
 
-**N-282** Karoline Leavitt
+**N-281** Karoline Leavitt
 
 Karoline Leavitt; White House press secretary in the played briefing.
 
@@ -547,7 +547,7 @@ Karoline Leavitt; White House press secretary in the played briefing.
 
 ---
 
-**N-300** Miriam Adelson
+**N-299** Miriam Adelson
 
 Miriam Adelson; subject of Trump's remark and the host's donation claim.
 
@@ -555,7 +555,7 @@ Miriam Adelson; subject of Trump's remark and the host's donation claim.
 
 ---
 
-**N-556** Carrie Prejean Bowler
+**N-555** Carrie Prejean Bowler
 
 Carrie Prejean Bowler; the host says Trump removed her from the religious committee.
 
@@ -563,7 +563,7 @@ Carrie Prejean Bowler; the host says Trump removed her from the religious commit
 
 ---
 
-**N-676** Nicolás Maduro
+**N-675** Nicolás Maduro
 
 Nicolas Maduro; removed by the US operation the host cites.
 
@@ -715,7 +715,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-773** Marina Abramovic
+**N-772** Marina Abramovic
 
 First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performance artist the host cites for spirit cooking and a 1974 pentagram performance.
 
@@ -723,7 +723,7 @@ First named by the host at 00:04:00 in episode 75 (spelled Abramović). Performa
 
 ---
 
-**N-774** Aleister Crowley
+**N-773** Aleister Crowley
 
 First named by the host at 00:13:52 in episode 75. Occultist the host says wrote books of pentacles meant to summon spirits.
 
@@ -731,7 +731,7 @@ First named by the host at 00:13:52 in episode 75. Occultist the host says wrote
 
 ---
 
-**N-213** Jesse Watters
+**N-212** Jesse Watters
 
 First named by the host at 00:23:52 in episode 75 (spelled Jesse Watters). Fox News host to whom the host says Erika Kirk said she had zero fear.
 
@@ -739,7 +739,7 @@ First named by the host at 00:23:52 in episode 75 (spelled Jesse Watters). Fox N
 
 ---
 
-**N-775** Benny Gantz
+**N-774** Benny Gantz
 
 First named by the host at 00:46:20 in episode 75. Israeli politician whose interview clip the host plays on boots on the ground in Iran.
 
@@ -747,7 +747,7 @@ First named by the host at 00:46:20 in episode 75. Israeli politician whose inte
 
 ---
 
-**N-776** Paula White
+**N-775** Paula White
 
 First named by the host at 01:01:46 in episode 75. Pastor the host groups with Christian Zionists surrounding Trump.
 
@@ -827,7 +827,7 @@ Claim Timestamp: 00:01:25
 Claim: The episode displays a Tucker Carlson X post reading, in full, "Pray that the spell breaks and the world is saved."
 
 Anchored Artifacts: A-2436.1
-Mentions: N-1, N-2, N-22
+Mentions: N-22
 Investigative Direction: Confirm post text and timestamp directly on X; capture any replies or follow-ups from Carlson clarifying intent.
 
 ---
@@ -839,7 +839,7 @@ Claim Timestamp: 00:12:25
 Claim: The Wikipedia article on the Seal of Solomon, as read on camera, describes the symbol as depicted "in the shape of either a hexagon or a pentagram" and ties it to King Solomon's ring, "medieval magic and Renaissance magic, occultism, alchemy."
 
 Anchored Artifacts: A-2437.1
-Mentions: N-2
+Mentions: 
 Related Nodes: N-10001
 Investigative Direction: Pull the live Wikipedia article and capture revision history; confirm whether the language is stable.
 
@@ -852,7 +852,7 @@ Claim Timestamp: 00:15:10
 Claim: Father Ripperger, in an audio clip played by the host, stated that Satanists and Freemasons tend to "reveal the method" of their operations even while remaining hidden, and that this has a sadistic dimension in which "they still want to show themselves in some way."
 
 Anchored Artifacts: A-2438.1
-Mentions: N-326
+Mentions: N-325
 Investigative Direction: Identify the full source interview (date, program, outlet) and review for context outside the excerpt.
 
 ---
@@ -888,7 +888,7 @@ Claim Timestamp: 00:19:40
 Claim: Tyler Bowyer stated on camera that he had previously had conversations with Charlie in which Charlie said "Erika could be so much bigger and better than me at almost everything" and "believed firmly that Erika was going to be president someday."
 
 Anchored Artifacts: A-2440.1
-Mentions: N-11
+Mentions: N-11, N-1, N-2
 Related Nodes: N-10858
 Investigative Direction: Obtain full clip with date; cross-check whether Charlie ever made comparable public statements on the record about Erika's political future.
 
@@ -901,20 +901,20 @@ Claim Timestamp: 00:20:50
 Claim: Frank Turek stated on camera on October 7 that he "used to say to him the ticket in 2028 is going to be Vance Kirk" and that "between you and me and our listeners, I'm not giving up on the Vance Kirk ticket," and that "Erika would be an amazing president someday."
 
 Anchored Artifacts: A-2441.1
-Mentions: N-7
+Mentions: N-7, N-2, N-4, N-1
 Related Nodes: N-10858
 Investigative Direction: Identify the full program (radio/podcast); determine whether the comments were on-air or pre-produced.
 
 ---
 
-**C-3575** Mikey McQuaid stated Charlie left "blueprints" for Erika (and himself)
+**C-3575** Clip Says Charlie Left Blueprints For Erika
 
 Claim Timestamp: 00:21:50
 
-Claim: Mikey McQuaid stated on camera that Charlie "left behind these blueprints for her" (Erika) and "for you" (McQuaid).
+Claim: In a clip the host plays, a speaker says Charlie left behind these blueprints for Erika, and another speaker adds "And for you, Mikey."
 
 Anchored Artifacts: A-2442.1
-Mentions: N-192
+Mentions: N-191, N-1, N-2
 Related Nodes: N-10858
 Investigative Direction: Identify source program and date; determine what McQuaid claims the "blueprints" to be.
 
@@ -927,7 +927,7 @@ Claim Timestamp: 00:36:50
 Claim: Donald Trump stated on camera, "I actually asked her once, I said, 'So, Miriam, I know you love Israel. What do you love more? The United States or Israel?' She refused to answer. That means… That might mean Israel."
 
 Anchored Artifacts: A-2443.1
-Mentions: N-2, N-5
+Mentions: N-5, N-299
 Investigative Direction: Identify the original event and capture full context of Trump's remarks.
 
 ---
@@ -936,10 +936,10 @@ Investigative Direction: Identify the original event and capture full context of
 
 Claim Timestamp: 00:38:50
 
-Claim: The episode presents the claim (via headline) that "Venezuela sends first oil shipment to Israel in years in signs of relations improving," implying a linkage to the U.S. military operation against Maduro.
+Claim: The host reads a headline, "Venezuela sends first oil shipment to Israel in years in signs of relations improving," and says that after the U.S. took out Maduro, Israel benefited.
 
 Anchored Artifacts: A-2445.1
-Mentions: N-5
+Mentions: N-675
 Investigative Direction: Identify the specific publication, date, and shipment details; determine whether shipment preceded or followed U.S. action.
 
 ---
@@ -948,7 +948,7 @@ Investigative Direction: Identify the specific publication, date, and shipment d
 
 Claim Timestamp: 00:39:30
 
-Claim: The Washington Post, as read on camera, reported that Trump's February 26 executive order invoking the Defense Production Act boosted glyphosate production and, in a lesser-noted clause, also covered elemental (white) phosphorus manufactured domestically only by Bayer and used in munitions.
+Claim: The host says Trump signed a February 26 executive order invoking the Defense Production Act to boost glyphosate production, then reads from the Washington Post that the order's largely overshadowed part concerned munitions manufacture and that Bayer is the only U.S. company that makes elemental (white) phosphorus.
 
 Anchored Artifacts: A-2446.1
 Mentions: N-5
@@ -963,7 +963,7 @@ Claim Timestamp: 00:40:50
 Claim: A headline displayed/read on camera asserts "Israel unlawfully using white phosphorus."
 
 Anchored Artifacts: A-2447.1
-Mentions: N-5
+Mentions: 
 Investigative Direction: Identify the article source, date, geographic location of alleged use, and any corroborating documentation from NGOs or UN bodies.
 
 ---
@@ -975,7 +975,7 @@ Claim Timestamp: 00:41:40
 Claim: Marco Rubio stated on camera that "we knew that there was going to be an Israeli action. We knew that that would precipitate an attack against American forces, and we knew that if we didn't preemptively go after them before they launched those attacks, we would suffer higher casualties."
 
 Anchored Artifacts: A-2448.1
-Mentions: N-2, N-5
+Mentions: 
 Investigative Direction: Identify full statement source (interview name, date); capture any contradictory or corroborating administration statements.
 
 ---
@@ -984,9 +984,10 @@ Investigative Direction: Identify full statement source (interview name, date); 
 
 Claim Timestamp: 00:46:50
 
-Claim: Benny Gantz stated on camera that he "would not exclude" the need for boots on the ground and that "we exclude nothing. We've been waiting for 47 years and we came to a point with every necessary means should be taken in order to achieve our goals."
+Claim: In a clip the host plays, Benny Gantz says he "would not exclude" a need for boots on the ground and "I exclude nothing. Uh we've been waiting for 47 years and we came to a point with every necessary means should be taken in order to achieve our goals."
 
 Anchored Artifacts: A-2449.1
+Mentions: N-774
 Related Nodes:
 Investigative Direction: Identify full interview source (outlet, date, interviewer); confirm translation accuracy if interview was conducted in Hebrew.
 
@@ -996,10 +997,10 @@ Investigative Direction: Identify full interview source (outlet, date, interview
 
 Claim Timestamp: 00:48:30
 
-Claim: White House Press Secretary Karoline Leavitt stated on camera that "President Trump wisely does not remove options off of the table" with respect to troops on the ground, characterizing the campaign as "largely an air campaign" but noting a draft is not off the table.
+Claim: In a clip the host plays, asked about troops on the ground after the interviewer calls it "largely an air campaign," White House Press Secretary Karoline Leavitt says "It has been and it will continue to be. And President Trump wisely does not remove options off of the table," adding ground troops are "not part of the current plan right now."
 
 Anchored Artifacts: A-2450.1
-Mentions: N-5, N-282
+Mentions: N-5, N-281
 Investigative Direction: Identify press briefing date and full transcript; review whether Levitt explicitly addressed a draft or only troops on the ground.
 
 ---
@@ -1011,7 +1012,7 @@ Claim Timestamp: 00:26:00
 Claim: Comedian Tim Dillon stated on camera that "there's a very good chance that this woman was his handler" and that "she may have loved him… even though she was his Mossad handler and probably had him killed."
 
 Anchored Artifacts: A-2444.1
-Mentions: N-2, N-279, N-1
+Mentions: N-2, N-278, N-1
 Investigative Direction: Identify the original podcast episode (Tim Dillon Show) and date; confirm language is unedited.
 
 ---
@@ -1093,7 +1094,7 @@ Transcript Snippet: She does spirit cooking, literally. That was what was in tho
 
 Anchored Artifacts: 
 
-Mentions: N-773, N-3
+Mentions: N-772, N-3
 Tags: relevance:tangential
 Investigative Direction: Check the leaked email set the host refers to for the spirit cooking references and who attended the events named.
 
@@ -1109,7 +1110,7 @@ Transcript Snippet: Performances like in 1974 when she sought to, quote, re-evok
 
 Anchored Artifacts: 
 
-Mentions: N-773
+Mentions: N-772
 Tags: relevance:tangential
 Investigative Direction: Check the performance record for the date, title and wording of Abramovic's 1974 petroleum-soaked star piece against the host's description.
 
@@ -1241,7 +1242,7 @@ Investigative Direction: Check Freud biographies for the Philippson or Jakob Fre
 
 Claim Timestamp: 00:08:40
 
-Claim: The host says the book arrived with a handwritten letter saying a 33rd degree Freemason in Oklahoma died, his belongings were left in a home that was later auctioned, and the buyer's relative acquired the home.
+Claim: The host says the book arrived with a handwritten letter saying a 33rd degree Freemason in Oklahoma died, his belongings were left in a home that was later auctioned, and the sender's relative acquired the home.
 
 Transcript Snippet: a 33rd degree Freemason out in Oklahoma died, and all of his belongings were left in a home that was eventually auctioned off
 
@@ -1254,11 +1255,11 @@ Investigative Direction: Obtain the handwritten letter and envelope, identify th
 
 ---
 
-**C-7067** Host Says the Relative Burned the Home's Contents but Kept the Book in His Truck for Over a Decade
+**C-7067** Host Says the Home's Contents Were Burned but the Sender Kept the Book in His Truck for Over a Decade
 
 Claim Timestamp: 00:09:26
 
-Claim: The host says the person burned everything in the house, thinking it carried bad spirits, but kept this one item in the back of his truck for over a decade and sent it to her after seeing her coverage of Freemasonry.
+Claim: The host says they went in and burned everything in the house, thinking it carried bad spirits, but the sender kept this one item in the back of his truck for over a decade and sent it to her after seeing her coverage of Freemasonry.
 
 Transcript Snippet: they went in and they burnt everything in it effectively, uh thinking uh that it was obviously just carrying bad spirits.
 
@@ -1309,13 +1310,13 @@ Investigative Direction: Obtain a to-scale layout of the Utah Valley University 
 
 Claim Timestamp: 00:11:14
 
-Claim: The host says B'nai B'rith, which she calls the Jewish Freemason group, has been running the United States since at least the Civil War.
+Claim: The host says she believes B'nai B'rith, which she calls the Jewish Freemason group, has been running the United States since at least the Civil War.
 
 Transcript Snippet: B'nai B'rith, the Jewish Freemason group, who I believe have been running our country since at least the Civil War.
 
 Anchored Artifacts: 
 
-Mentions: N-50, N-3
+Mentions: N-3
 Related Nodes: N-11130
 Tags: relevance:tangential
 Investigative Direction: No evidence is offered on air; check the organization's published history and membership against the claim of control.
@@ -1397,7 +1398,7 @@ Transcript Snippet: Aleister Crowley was master cultist created an entire religi
 
 Anchored Artifacts: 
 
-Mentions: N-774, N-3
+Mentions: N-773, N-3
 Tags: relevance:tangential
 Investigative Direction: Check Crowley's published works and the history of Thelema; the host does not link him to any named current official.
 
@@ -1413,7 +1414,7 @@ Transcript Snippet: First book he wrote was called the book of evil spirits. Wow
 
 Anchored Artifacts: A-2854.1
 
-Mentions: N-774, N-3
+Mentions: N-773, N-3
 Tags: relevance:tangential
 Investigative Direction: Identify the book and edition shown; Crowley's earliest books are not known by this title, so check bibliographic records.
 
@@ -1446,7 +1447,7 @@ Transcript Snippet: he's not saying this to be clear in the context of Charlie K
 
 Anchored Artifacts: A-2438.1
 
-Mentions: N-326, N-1, N-3
+Mentions: N-325, N-1, N-3
 Qualifies: C-3570
 Tags: relevance:context
 Investigative Direction: Identify the full Ripperger interview and confirm the date and subject discussed before the excerpt and after it.
@@ -1463,7 +1464,7 @@ Transcript Snippet: it can be connected to a curse. They could like they could c
 
 Anchored Artifacts: A-2438.1
 
-Mentions: N-326
+Mentions: N-325
 Tags: relevance:context
 Investigative Direction: Obtain the original recording and check what 'the thing' refers to in Ripperger's own answer.
 
@@ -1588,17 +1589,17 @@ Investigative Direction: Identify the full October 7 program and check the conte
 
 ---
 
-**C-7087** McQuaid Says He Thought There Might Still Be a Vance Kirk Ticket
+**C-7087** McCoy Says He Thought There Might Still Be a Vance Kirk Ticket
 
 Claim Timestamp: 00:21:43
 
-Claim: In the played clip, Mikey McQuaid says he definitely thought there might be a Vance Kirk ticket and that there may still be one.
+Claim: In the played clip, Mikey McCoy says he definitely thought there might be a Vance Kirk ticket and that there may still be one.
 
 Transcript Snippet: I definitely thought maybe there would be a Vance Kirk ticket. Maybe there will still will be a Vance Kirk ticket.
 
 Anchored Artifacts: A-2442.1
 
-Mentions: N-192, N-4
+Mentions: N-191, N-4
 Related Nodes: N-10858
 Tags: relevance:core
 Investigative Direction: Identify the program and date of the McQuaid clip and the speaker who prompted him.
@@ -1609,7 +1610,7 @@ Investigative Direction: Identify the program and date of the McQuaid clip and t
 
 Claim Timestamp: 00:22:31
 
-Claim: The host says Elizabeth Lane read Erika Kirk correctly when she posited that Erika may be a psychopath.
+Claim: The host says she thinks Elizabeth Lane read Erika Kirk correctly when she posited that Erika may be a psychopath.
 
 Transcript Snippet: I think Elizabeth Lane read Erika correctly when she posited that she may be a psychopath
 
@@ -1632,7 +1633,7 @@ Transcript Snippet: offer a raise to Dan Flood, the security guard who failed Ch
 
 Anchored Artifacts: 
 
-Mentions: N-2, N-272, N-1, N-3
+Mentions: N-2, N-271, N-1, N-3
 Related Nodes: N-10694, N-10505
 Tags: relevance:core
 Investigative Direction: Obtain TPUSA payroll or personnel records or a TPUSA statement on Flood's pay and title after September 10, 2025.
@@ -1719,7 +1720,7 @@ Transcript Snippet: she told Jesse Watters that she had zero fear. None at all.
 
 Anchored Artifacts: 
 
-Mentions: N-2, N-213, N-3
+Mentions: N-2, N-212, N-3
 Related Nodes: N-10505
 Tags: relevance:core
 Investigative Direction: Pull the Fox News interview and check the exact words and date.
@@ -1788,7 +1789,7 @@ Transcript Snippet: 3 weeks after the guy's dead, she's out there with sparklers
 
 Anchored Artifacts: A-2444.1
 
-Mentions: N-279, N-2
+Mentions: N-278, N-2
 Related Nodes: N-10403
 Tags: relevance:context
 Investigative Direction: Identify the event Dillon means and compare its date with the Charlie Kirk memorial and AmFest dates.
@@ -1805,7 +1806,7 @@ Transcript Snippet: This guy found all the laundered money and now he knows I'm 
 
 Anchored Artifacts: A-2444.1
 
-Mentions: N-279, N-2, N-1
+Mentions: N-278, N-2, N-1
 Related Nodes: N-10403
 Qualifies: C-3583
 Tags: relevance:context
@@ -1823,7 +1824,7 @@ Transcript Snippet: And I'm not saying any of that happened. I'm saying that's m
 
 Anchored Artifacts: A-2444.1
 
-Mentions: N-279
+Mentions: N-278
 Related Nodes: N-10403
 Qualifies: C-3583
 Tags: relevance:context
@@ -1942,7 +1943,7 @@ Transcript Snippet: the person that he took a hundred million, two hundred milli
 
 Anchored Artifacts: A-2443.1
 
-Mentions: N-5, N-300, N-3
+Mentions: N-5, N-299, N-3
 Tags: relevance:context
 Investigative Direction: Check FEC filings for Adelson contributions to Trump committees and super PACs.
 
@@ -1958,7 +1959,7 @@ Transcript Snippet: She served in the IDF. That's what he's saying to you.
 
 Anchored Artifacts: A-2443.1
 
-Mentions: N-300, N-5, N-3
+Mentions: N-299, N-5, N-3
 Tags: relevance:context
 Investigative Direction: Check Adelson's biography for her Israeli military service; the played clip does not contain this statement.
 
@@ -2025,7 +2026,7 @@ Transcript Snippet: until Bibi Netanyahu said, "Venezuela's anti-Semitic." Then 
 
 Anchored Artifacts: A-2445.1
 
-Mentions: N-36, N-676, N-3
+Mentions: N-36, N-675, N-3
 Related Nodes: N-10962
 Tags: relevance:context
 Investigative Direction: Find any Netanyahu statement about Venezuela before January 2026 and the dates of the operation against Maduro.
@@ -2075,7 +2076,7 @@ Transcript Snippet: That is the cancer-causing agents that is in the weed killer
 
 Anchored Artifacts: A-2446.1
 
-Mentions: N-5, N-3
+Mentions: N-3
 Related Nodes: N-11133
 Tags: relevance:context
 Investigative Direction: Check IARC, EPA and court findings on glyphosate and cancer risk; this is a contested scientific claim.
@@ -2195,7 +2196,7 @@ Transcript Snippet: Norm Finkelstein informing me that Israel had a literal and 
 
 Anchored Artifacts: 
 
-Mentions: N-201, N-3
+Mentions: N-200, N-3
 Related Nodes: N-10063
 Tags: relevance:context
 Investigative Direction: Check Finkelstein's published statements on the doctrine; the term is commonly used for periodic military operations, not random killings to limit population.
@@ -2229,7 +2230,7 @@ Transcript Snippet: Here is Israel's defense minister, Benny Gantz, discussing t
 
 Anchored Artifacts: A-2449.1
 
-Mentions: N-775, N-3
+Mentions: N-774, N-3
 Qualifies: C-3581
 Tags: relevance:context
 Investigative Direction: Check Gantz's office at the date of the interview and the interview's actual date; the host does not date the clip.
@@ -2246,7 +2247,7 @@ Transcript Snippet: Currently, we are neutralizing Iran's uh command and control
 
 Anchored Artifacts: A-2449.1
 
-Mentions: N-775
+Mentions: N-774
 Related Nodes: N-11128
 Tags: relevance:context
 Investigative Direction: Identify the interviewer, outlet and date of the full interview.
@@ -2263,7 +2264,7 @@ Transcript Snippet: we have Karoline Leavitt signaling that a a draft is not off
 
 Anchored Artifacts: A-2450.1
 
-Mentions: N-282, N-5, N-3
+Mentions: N-281, N-5, N-3
 Related Nodes: N-11128
 Qualifies: C-3582
 Tags: relevance:context
@@ -2281,7 +2282,7 @@ Transcript Snippet: It's not part of the current plan right now, but the preside
 
 Anchored Artifacts: A-2450.1
 
-Mentions: N-282, N-5
+Mentions: N-281, N-5
 Related Nodes: N-11128
 Tags: relevance:context
 Investigative Direction: Pull the White House briefing transcript and date.
@@ -2298,7 +2299,7 @@ Transcript Snippet: that's why he took this historic action by launching Operati
 
 Anchored Artifacts: A-2450.1
 
-Mentions: N-282, N-5
+Mentions: N-281, N-5
 Related Nodes: N-11128
 Tags: relevance:context
 Investigative Direction: Check the Department of War or White House announcement naming Operation Epic Fury and its start date.
@@ -2315,7 +2316,7 @@ Transcript Snippet: They have killed and maimed thousands of American soldiers.
 
 Anchored Artifacts: A-2450.1
 
-Mentions: N-282
+Mentions: N-281
 Related Nodes: N-11128
 Tags: relevance:context
 Investigative Direction: Compare with Department of Defense casualty figures attributed to Iran-backed attacks.
@@ -2383,7 +2384,7 @@ Transcript Snippet: Trump recently firing Carrie Prejean Boller from the religio
 
 Anchored Artifacts: 
 
-Mentions: N-556, N-5, N-3
+Mentions: N-555, N-5, N-3
 Supports: C-2370
 Tags: relevance:context
 Investigative Direction: Check the removal notice from the Religious Liberty Commission and any stated reason.
@@ -2447,7 +2448,7 @@ Investigative Direction: Locate the GiveSendGo campaign, its organizer, total ra
 
 Claim Timestamp: 01:00:36
 
-Claim: The host says someone pointed out that she had missed that Elon Musk donated money to Erika Kirk's family.
+Claim: The host says she thinks someone pointed out that she had even missed that Elon Musk donated money to Erika Kirk's family.
 
 Transcript Snippet: I think someone pointed out that I even missed that Elon Musk donated money to them.
 
@@ -2470,7 +2471,7 @@ Transcript Snippet: similarly you had this movement of people similar to the Chr
 
 Anchored Artifacts: 
 
-Mentions: N-776, N-3
+Mentions: N-775, N-3
 Related Nodes: N-10209
 Tags: relevance:tangential
 Investigative Direction: No source is cited; compare historians' accounts of Frankism with the host's analogy.
@@ -2539,7 +2540,7 @@ Anchored Artifacts:
 
 Mentions: N-46, N-3
 Related Nodes: N-10406
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compile recent attacks on Kelly by named outlets or figures and their dates.
 
 ---
@@ -2665,7 +2666,7 @@ Confidence: high
 - A-2439 ("Freemason Bible" Document)
 - A-2440 (Tyler Bowyer Interview)
 - A-2441 (Frank Turek Interview)
-- A-2442 (Mikey McQuaid Interview)
+- A-2442 (Mikey McCoy Interview)
 - A-2443 (Trump on Miriam Adelson)
 - A-2444 (Tim Dillon Comedy Clip)
 - A-2445 (Venezuela–Israel Oil Headline)
@@ -2678,8 +2679,8 @@ Confidence: high
 **Claim Range:** C-3568–C-3583
 
 **New Nodes Introduced:**
-- N-326 Father Ripperger
-- N-279 Tim Dillon
+- N-325 Father Ripperger
+- N-278 Tim Dillon
 - N-10856 Pentagon Seating Geometry Claim (investigation target)
 - N-10857 "Freemason Bible" Document Authentication (investigation target)
 - N-10858 Erika Kirk Presidential Viability Narrative (investigation target)
@@ -2687,4 +2688,4 @@ Confidence: high
 **Existing Nodes Reused (illustrative):**
 - N-1 Charlie Kirk
 - N-2 Erica Kirk
-- (And any existing nodes for: Tucker Carlson, Donald Trump, Tyler Bowyer, Frank Turek, Mikey McQuaid, Miriam Adelson, Marco Rubio, Bibi Netanyahu, Benny Gantz, Karoline Leavitt, Aleister Crowley, Marina Abramović, Elizabeth Lane, Dan Flood, Jesse Watters, Tyler Robinson, Bill Ackman, Randy Fine, Paula White, Norm Finkelstein, Kash Patel, etc. – exact IDs not visible in this analysis window and should be reconciled against the global ledger.)
+- (And any existing nodes for: Tucker Carlson, Donald Trump, Tyler Bowyer, Frank Turek, Mikey McCoy, Miriam Adelson, Marco Rubio, Bibi Netanyahu, Benny Gantz, Karoline Leavitt, Aleister Crowley, Marina Abramović, Elizabeth Lane, Dan Flood, Jesse Watters, Tyler Robinson, Bill Ackman, Randy Fine, Paula White, Norm Finkelstein, Kash Patel, etc. – exact IDs not visible in this analysis window and should be reconciled against the global ledger.)

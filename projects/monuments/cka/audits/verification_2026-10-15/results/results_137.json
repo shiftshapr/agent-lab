@@ -1,0 +1,764 @@
+[
+ {
+  "claim": "C-2729",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2730",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Text read: 'scheduled for tomorrow, September 14th'; date 2026-04-14 is inferred. Kolvet (N-14) not named or involved in the text.",
+  "fix": {
+   "claim": "Per a parent-alert text the host shows, TPUSA cancelled an optional high school event 'scheduled for tomorrow, September 14th' (as the host reads it), citing \"scheduling complications\" rather than security threats, according to the host.",
+   "mentions": [
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2731",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2732",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says 'the text that went out' (also 'emailed and texted'); she never calls the date inconsistent. N-2/N-14 not named in claim.",
+  "fix": {
+   "claim": "Per the parent-alert text the host shows, the cancelled Georgia high school event was described as 'scheduled for tomorrow, September 14th', as the host reads it.",
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2733",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Reporter is Jake Traylor (MS NOW); transcript 'Trailer' is a transcription error. Tweet confirmed on X.",
+  "fix": {
+   "claim": "MS Now reporter Jake Traylor reported that Akins Ford Arena was less than 25% filled for the Vice President's appearance.",
+   "names": [
+    {
+     "wrong": "Jake Trailer",
+     "right": "Jake Traylor",
+     "source": "https://x.com/jake__traylor/status/2044176275359838346"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2734",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Well, all righty then. Love you, Candace' is spoken in the video clip, not a caption.",
+  "fix": {
+   "claim": "Victor Marx posted a short video response on Instagram and X to Candace Owens' prior episode, in which he says \"Well, all righty then. Love you, Candace. Let me know when you want me to come on the show. Praying for you.\""
+  }
+ },
+ {
+  "claim": "C-2735",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2736",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2737",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2738",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2739",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host hedges: 'I'm assuming it must be a half brother because he has a different last name'; claim states brother as fact.",
+  "fix": {
+   "claim": "The host says the consulting firm run by the man she presumes is Marcus Wada's half brother, which she shows on its website, lists industry areas including human trafficking, sex trafficking, firearms and ammunition, money laundering, and controlled substances."
+  }
+ },
+ {
+  "claim": "C-2740",
+  "episode": 92,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Security-team recommendation is Andrew Kolvet on Fox News ('security team... recommend that you don't do this'), not Erika. Kolvet missing from mentions.",
+  "fix": {
+   "claim": "The host says Erika Kirk told Jesse Watters she was not afraid, and that Andrew Kolvet later said on Fox News that the security team had recommended against the UGA appearance.",
+   "mentions": [
+    "N-2",
+    "N-213",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-2741",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2742",
+  "episode": 92,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Inconsistency is the host's view, stated as fact; in window Kolvet says on Charlie Kirk Show a high school event was cancelled over chatter. N-1 is the show name only.",
+  "fix": {
+   "claim": "The host says TPUSA's explanation for Erika Kirk's UGA no-show kept changing, noting Andrew Kolvet said on The Charlie Kirk Show that a high school event was cancelled over online chatter, while the parent text cited scheduling complications.",
+   "mentions": [
+    "N-2",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-2743",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11375",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11376",
+  "episode": 92,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'Tell us what you think about that' is Kolvet asking Vance; 'Some of the people that have made... part-time jobs out of attacking Erika' is Vance's answer (host: 'Come on, Vep').",
+  "fix": {
+   "claim": "In a clip the host plays, JD Vance, responding to Andrew Kolvet on the UGA stage, ties the threats against Erika Kirk to attacks from 'some of the people that have made... part-time jobs out of attacking Erika'."
+  }
+ },
+ {
+  "claim": "C-11377",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11378",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11379",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11380",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11381",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11382",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11383",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11384",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11385",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11386",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11387",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11388",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11389",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11390",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11391",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11392",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11393",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11394",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Vance: 'if your instinct is to go after not the left-wing radicals... or the people who shot Charlie Kirk, but... a young mother', then 'stay in your lane'; claim flips emphasis.",
+  "fix": {
+   "claim": "In the clip the host plays, JD Vance says that if someone's instinct is to go after a grieving young mother rather than 'the left-wing radicals who are assaulting Savannah' or 'the people who shot Charlie Kirk' (plural), they should stay in their lane."
+  }
+ },
+ {
+  "claim": "C-11395",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11396",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11397",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11398",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11399",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11400",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11401",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11402",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11403",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11404",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11405",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host voices TPUSA's line sarcastically: 'when Charlie multiple times texted me on the security team day before... we don't like to talk about that'; wording garbled.",
+  "fix": {
+   "claim": "The host, voicing TPUSA's messaging, says Charlie Kirk 'multiple times texted me on the security team day before' saying he thought he was going to be killed, and that TPUSA does not talk about that threat."
+  }
+ },
+ {
+  "claim": "C-11406",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11407",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11408",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11409",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11410",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11411",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11412",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11413",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11414",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11415",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11416",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript spells 'Shirlene' (node N-202 Shirlene Maxfield); title says 'Shailene'.",
+  "fix": {
+   "label": "Host Lists Derek and Shirlene Maxfield in Her Connecting-Themes Spreadsheet"
+  }
+ },
+ {
+  "claim": "C-11417",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11418",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11419",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -1,0 +1,478 @@
+[
+ {
+  "claim": "C-10181",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  },
+  "note": "Sheridan is named only in the next sentence, not in the claim."
+ },
+ {
+  "claim": "C-10196",
+  "episode": 74,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  },
+  "note": "Claim does not refer to Mikey McCoy."
+ },
+ {
+  "claim": "C-3568",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22"
+   ]
+  },
+  "note": "Only Carlson is referred to."
+ },
+ {
+  "claim": "C-3569",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "No person referred to."
+ },
+ {
+  "claim": "C-3573",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-11",
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "Claim quotes Bowyer on Charlie and Erika."
+ },
+ {
+  "claim": "C-3574",
+  "episode": 75,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-2",
+    "N-4",
+    "N-1"
+   ]
+  },
+  "note": "'Said to him' and 'Vance Kirk ticket' refer to Charlie Kirk; add N-1 alongside N-2, N-4."
+ },
+ {
+  "claim": "C-3575",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, a speaker says Charlie left behind these blueprints for Erika, and another speaker adds \"And for you, Mikey.\"",
+   "label": "Clip Says Charlie Left Blueprints For Erika",
+   "mentions": [
+    "N-192",
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "Clip has two speakers; 'and for you' is said to Mikey by another speaker."
+ },
+ {
+  "claim": "C-3576",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-300"
+   ]
+  },
+  "note": "Erika not referred to; Adelson is."
+ },
+ {
+  "claim": "C-3577",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a headline, \"Venezuela sends first oil shipment to Israel in years in signs of relations improving,\" and says that after the U.S. took out Maduro, Israel benefited.",
+   "mentions": [
+    "N-676"
+   ]
+  },
+  "note": "Matches 38:28 block."
+ },
+ {
+  "claim": "C-3579",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Headline names no person."
+ },
+ {
+  "claim": "C-3580",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Quoted text names no node person."
+ },
+ {
+  "claim": "C-3581",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Benny Gantz says he \"would not exclude\" a need for boots on the ground and \"I exclude nothing. Uh we've been waiting for 47 years and we came to a point with every necessary means should be taken in order to achieve our goals.\"",
+   "mentions": [
+    "N-775"
+   ]
+  },
+  "note": "Transcript says 'I exclude nothing'."
+ },
+ {
+  "claim": "C-3582",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, asked about troops on the ground after the interviewer calls it \"largely an air campaign,\" White House Press Secretary Karoline Leavitt says \"It has been and it will continue to be. And President Trump wisely does not remove options off of the table,\" adding ground troops are \"not part of the current plan right now.\""
+  },
+  "note": "Draft was raised by interviewer, not Leavitt."
+ },
+ {
+  "claim": "C-7070",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she believes B'nai B'rith, which she calls the Jewish Freemason group, has been running the United States since at least the Civil War.",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Restores 'I believe' hedge; Freud not in claim."
+ },
+ {
+  "claim": "C-7087",
+  "episode": 75,
+  "decision": "amend",
+  "fix": {
+   "claim": "In the played clip, Mikey McCoy says he definitely thought there might be a Vance Kirk ticket and that there may still be one.",
+   "label": "McCoy Says He Thought There Might Still Be a Vance Kirk Ticket",
+   "names": [
+    {
+     "wrong": "Mikey McQuaid",
+     "right": "Mikey McCoy",
+     "source": "https://crossexamined.org/whats-next-for-turning-point-usa-continuing-the-legacy-of-charlie-kirk-with-mikey-rob-mccoy/"
+    }
+   ]
+  },
+  "note": "McCoy confirmed as Kirk's TPUSA chief of staff; swapped source for one I checked."
+ },
+ {
+  "claim": "C-7115",
+  "episode": 75,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim refers only to host."
+ },
+ {
+  "claim": "C-2420",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "claim": "According to a tweet the host says she published, sourced to White House personnel, Andrew Kolvet was in the West Wing on January 29, 2026 while the Charlie Kirk Show presented a pre-recorded interview with Kash Patel as live; the tweet says it is unconfirmed but believed that Mikey McCoy and his wife Elizabeth accompanied him."
+  },
+  "note": "Tweet hedges McCoy's presence as unconfirmed."
+ },
+ {
+  "claim": "C-2421",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Charlie Kirk Show episode with Kash Patel was pre-recorded and Andrew Kolvet presented it as though it were live, rather than Patel phoning in live."
+  },
+  "note": "No recording date given in transcript."
+ },
+ {
+  "claim": "C-2422",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Epstein files were released on January 30, 2026, the day after the January 29 West Wing meeting she says Andrew Kolvet attended.",
+   "mentions": [
+    "N-9",
+    "N-14"
+   ]
+  },
+  "note": "Matches 15:10 block."
+ },
+ {
+  "claim": "C-2423",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a tipster told her Faith Kates is in Jeffrey Epstein's emails \"like 4,000 times\"."
+  },
+  "note": "Figure is from a tip, hedged."
+ },
+ {
+  "claim": "C-2425",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-9"
+   ]
+  },
+  "note": "Claim names only Epstein and Corcoran."
+ },
+ {
+  "claim": "C-2427",
+  "episode": 76,
+  "decision": "amend",
+  "fix": {
+   "claim": "Candace Owens sent an email to Erika Kirk, cc'ing TPUSA spokesperson Andrew Kolvet, asking specifically about the nature of Erika's meetings at Next Model Management NYC; no response was received within 48 hours as of broadcast.",
+   "label": "No Response from Erika Kirk (or Kolvet) to Next Model Management Inquiry Within 48 Hours",
+   "names": [
+    {
+     "wrong": "Andrew Colebat",
+     "right": "Andrew Kolvet",
+     "source": "https://en.wikipedia.org/wiki/Andrew_Kolvet"
+    }
+   ]
+  },
+  "note": "Kolvet confirmed as TPUSA spokesperson; swapped source for one I checked."
+ },
+ {
+  "claim": "C-2434",
+  "episode": 76,
+  "decision": "amend",
+  "fix": {
+   "claim": "Father Chad Ripperger, in a clip from the Shawn Ryan podcast, stated that some occult families have lineage extending to the 1500s–1600s and train their children into occult practice from a young age.",
+   "label": "Father Ripperger Describes Occult Pedigree Families from 1500s–1600s",
+   "names": [
+    {
+     "wrong": "Ripberger",
+     "right": "Ripperger",
+     "source": "https://singjupost.com/shawn-ryan-show-srs-285-with-father-chad-ripperger-transcript/"
+    }
+   ]
+  },
+  "note": "Ripperger confirmed; SRS #285 transcript has the same pedigree quote. Swapped source."
+ },
+ {
+  "claim": "C-2436",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:39:30"
+  },
+  "note": "Ingraham line spoken ~39:35."
+ },
+ {
+  "claim": "C-10229",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Erika not referred to in claim."
+ },
+ {
+  "claim": "C-10240",
+  "episode": 76,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host quotes her White House sources as saying the offices in that area belong to senior staff such as Susie Wiles, Stephen Miller and James Blair, and that the Vice President's hallway and the Situation Room connect to that lobby.",
+   "names": [
+    {
+     "wrong": "James Braid",
+     "right": "James Blair",
+     "source": "https://dailycaller.com/2026/05/19/who-is-james-blair-republican-donald-trump-midterms-fixer-susie-wiles-political-genius-operative/"
+    }
+   ]
+  },
+  "note": "Blair confirmed as WH deputy chief of staff, Wiles's right hand; swapped source for one I checked."
+ },
+ {
+  "claim": "C-10254",
+  "episode": 76,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that in 2010 the Black Sea Rotational Force in Constanta, Romania, was being led by Erika's cousin, Lieutenant Colonel Dennis Frantzve, and that it was the first time America operated a base in Romania.",
+   "names": [
+    {
+     "wrong": "Dennis Fronkvey",
+     "right": "Dennis Frantzve",
+     "source": "https://candaceowensfan.substack.com/p/candace-explores-erika-and-her-familys"
+    }
+   ]
+  },
+  "note": "Recap of this episode spells 'Erika's cousin, Dennis Frantzve'; Charlie Kirk Wikipedia does not name him."
+ },
+ {
+  "claim": "C-10255",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says the Romania Base Was Later Accused of Prostituting Children Under Col Otto Busher",
+   "claim": "The host says the base would later be accused of prostituting underage Romanian children and links Colonel Otto Busher to it.",
+   "names": [
+    {
+     "wrong": "Otto Boucher",
+     "right": "Otto Busher",
+     "source": "https://factually.co/fact-checks/military/colonel-otto-busher-iii-romania-0ab9ea"
+    }
+   ]
+  },
+  "note": "Busher confirmed; host says 'Busher' at 19:25."
+ },
+ {
+  "claim": "C-10277",
+  "episode": 76,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-9",
+    "N-522"
+   ]
+  },
+  "note": "'The Rothschilds' is the family node."
+ },
+ {
+  "claim": "C-2437",
+  "episode": 77,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-9",
+    "N-523",
+    "N-522"
+   ],
+   "timestamp": "00:03:20"
+  },
+  "note": "Mentions fix right; Thiel email introduced ~03:25 and read ~03:40, so 04:13 is late."
+ },
+ {
+  "claim": "C-2438",
+  "episode": 77,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a 2017 Instagram post the host reads, Erika Kirk addresses \"Uncle Allan\" as someone filled with spirit who has shown courage through adversity; the host identifies him as Alan Rothstein, whom she says chaired Win Haven Real Estates.",
+   "label": "Erika Kirk 2017 Instagram Post Thanks \"Uncle Allan\" Rothstein"
+  },
+  "note": "Post has no real-estate or mentor wording."
+ },
+ {
+  "claim": "C-2444",
+  "episode": 77,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:30:50",
+   "mentions": [
+    "N-1"
+   ],
+   "claim": "Per Arizona SB 1439 as the host presents it, the bill proposed a \"Charlie Kirk Memorial Plate\" specialty license plate featuring Charlie Kirk's photo and the Turning Point USA logo on an American flag background, with $17 of the fee deposited annually into a \"conservative grassroots network special plate fund.\""
+  },
+  "note": "$25 not in transcript; plate described ~30:55."
+ },
+ {
+  "claim": "C-2445",
+  "episode": 77,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-580"
+   ],
+   "timestamp": "00:33:10"
+  },
+  "note": "Mentions fix right; veto letter is read ~33:15-33:58, before the 34:00 timestamp."
+ },
+ {
+  "claim": "C-2446",
+  "episode": 77,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:35:05",
+   "claim": "On Fox News, Arizona State Senator Jake Hoffman stated that the SB 1439 veto reflects Katie Hobbs's \"nakedly partisan\" record, that Hobbs vetoed about nine of his bills the previous year, and that the Charlie Kirk plate would honor a \"civil rights leader of our time.\""
+  },
+  "note": "'About nine', 'last year'."
+ },
+ {
+  "claim": "C-2447",
+  "episode": 77,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-11",
+    "N-580",
+    "N-1"
+   ]
+  },
+  "note": "Post refers to Charlie."
+ },
+ {
+  "claim": "C-2452",
+  "episode": 77,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "No person named."
+ },
+ {
+  "claim": "C-11183",
+  "episode": 77,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-9"
+   ]
+  },
+  "note": "Kates not referred to in claim."
+ },
+ {
+  "claim": "C-11212",
+  "episode": 77,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Bowyer not in claim."
+ },
+ {
+  "claim": "C-2459",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "label": "Erika Says Base Staff Did Not Trust United Hands Head",
+   "claim": "In a clip the host plays, Erika Kirk says the people at the base in Constanța do not trust the woman who heads United Hands Romania Association in Ohio because they have no connection to her; the host characterizes this as the Romanian orphans not trusting her."
+  },
+  "note": "Clip says base staff, not orphans."
+ },
+ {
+  "claim": "C-2460",
+  "episode": 78,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:19:25"
+  },
+  "note": "Article reading starts ~19:30 (Faithy line ~19:40); 19:50 is after it."
+ }
+]

@@ -12,12 +12,12 @@
 - **Transcript SHA-256**: 9c5eaae09f60b1222748149513f2956bb4921fb32cb85837a09931b9ec7b9bff
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-795, N-796, N-797, N-798, N-11154, N-11155, N-11156, N-11157
-  - Hole-minted Nodes (reintro-ep014): N-312, N-10315, N-10662
-  - Tip-minted Nodes (reintro-ep014): N-711, N-11011, N-11059, N-11130
+  - Tip-minted Nodes (supplement_2026-10c): N-794, N-795, N-796, N-797, N-11154, N-11155, N-11156, N-11157
+  - Hole-minted Nodes (reintro-ep014): N-311, N-10315, N-10662
+  - Tip-minted Nodes (reintro-ep014): N-710, N-11011, N-11059, N-11130
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-7836–C-7910
-  - New Nodes Introduced: N-145, N-146, N-147, N-148, N-149, N-150, N-151, N-10161
+  - New Nodes Introduced: N-144, N-145, N-146, N-147, N-148, N-149, N-150, N-10161
   - Reused Nodes Appearing: N-6, N-9, N-42, N-46, N-50, N-61, N-75, N-82, N-93, N-118, N-132, N-133, N-10000, N-10012, N-10014, N-10025, N-10026, N-10056, N-10060, N-10095, N-10110, N-10129, N-10144, N-10148, N-10153, N-10158, N-10159, N-10160, N-10406, N-11153, N-10270, N-10324
 - Channel / creator: @RealCandaceO · Candace Owens
 - Episode date: 2025-10-02
@@ -30,7 +30,7 @@
 
 Artifact Families Introduced: A-1209, A-1210, A-1211, A-1212, A-1213, A-1214, A-1215, A-1216, A-1217, A-1218, A-1219
 Claim Range: C-1354–C-1365
-New Nodes Introduced (people):  N-145, N-146, N-147, N-148, N-149, N-150, N-151
+New Nodes Introduced (people):  N-144, N-145, N-146, N-147, N-148, N-149, N-150
 New Nodes Introduced (targets): N-10158, N-10159, N-10160, N-10161
 Existing Nodes Reused: N-1 (Charlie Kirk), N-3 (Candace Owens), N-6 (Elizabeth Lane)
 
@@ -129,7 +129,7 @@ Confidence Level: High (read aloud verbatim)
 
 Verbatim quote captured by host: "James Comey wrote love letters to the ADL and embedded FBI agents with them. A group that ran disgraceful ops spying on Americans. That era is over. The FBI won't partner with political fronts masquerading as watchd[ogs]."
 
-*Related: C-1354, N-69, N-149, N-10158*
+*Related: C-1354, N-69, N-148, N-10158*
 
 ---
 
@@ -161,7 +161,7 @@ Confidence Level: Medium (read aloud; original thread not independently verified
 
 Verbatim quotes captured by host: "I gathered property records for the 19 different states that the ADL has a regional office established. The report reveals that in the state of Connecticut, the ADL shares an office space with the FBI." Also: "After reviewing the 19 ADL offices, we can see an alarming trend. 63% of the ADL's regional offices are located within various banking institutions. 42% are located within various law firms, ranging from immigration to criminal law… 10% are located in Jewish institutions."
 
-*Related: C-1357, C-1358, N-145, N-10158, N-10159*
+*Related: C-1357, C-1358, N-144, N-10158, N-10159*
 
 ---
 
@@ -177,7 +177,7 @@ Confidence Level: High (audio clip played in episode)
 
 Captured content includes Lane's description of approaching Utah firms for pro bono representation, the firms' reported initial willingness, the need for death-penalty-certified counsel, the inability to contact Robinson's family, the reported warning from a local attorney not to engage "the most powerful" Utah firms, the reported "rude response" from a large Utah firm asserting that "only Skordas is allowed to find a representation for Tyler Robinson," and Lane's characterization of the conduct as "highly unethical."
 
-*Related: C-1359, C-1360, N-6, N-150, N-151, N-10160*
+*Related: C-1359, C-1360, N-6, N-149, N-150, N-10160*
 
 ---
 
@@ -193,7 +193,7 @@ Confidence Level: High (clip played; Bishop's name given on-air)
 
 Captured content includes Bishop's description of a more-secluded street, the suspect's limp, his long-sleeve black shirt on a hot day, his expressionless demeanor, and her retrospective reflection after seeing Robinson's walking video. Clip is described as the "only eyewitness testimony of having seen the shooter up close limping."
 
-*Related: C-1361, N-146*
+*Related: C-1361, N-145*
 
 ---
 
@@ -241,7 +241,7 @@ Confidence Level: High (read aloud verbatim)
 
 Verbatim quote: "I am not suicidal and I'm one of the happiest and healthiest people that you will meet. I have full faith in God and Jesus Christ is my Lord and Savior. As a sinner, I am only saved through his grace and mercy. With that said, if something happens to me, I ask you all to find out which foreign government or powerful people would take heinous actions to stop the information from coming out."
 
-*Related: C-1364, N-147, N-10161*
+*Related: C-1364, N-146, N-10161*
 
 ---
 
@@ -257,7 +257,7 @@ Confidence Level: High (clip played)
 
 Captured content includes Von stating: "I would never take my own life. I would never take my own life. Okay, you hear that? Israel, I would never take my own life." Additional content includes references to his faith, family, friends, and a stated desire to have a wife and children.
 
-*Related: C-1365, N-148, N-10161*
+*Related: C-1365, N-147, N-10161*
 
 ---
 
@@ -440,7 +440,7 @@ Likely the witness the host calls Gauer, an Austrian software engineer (uncertai
 
 ---
 
-**N-312** Emmanuel Beerer
+**N-311** Emmanuel Beerer
 
 Likely the witness the host calls Emmanuel who works at Domo (uncertain match).
 
@@ -456,7 +456,7 @@ Host says he discussed arbitration courts on her show.
 
 ---
 
-**N-711** John F. Kennedy
+**N-710** John F. Kennedy
 
 JFK; the host compares his assassination to the Kirk case.
 
@@ -640,7 +640,7 @@ Organization the host says gave rise to the ADL.
 
 ---
 
-**N-795** Leo Frank
+**N-794** Leo Frank
 
 First named by the host at 00:03:10 in episode 14. Atlanta factory owner convicted in 1913 whom the host says the ADL was formed to defend.
 
@@ -648,7 +648,7 @@ First named by the host at 00:03:10 in episode 14. Atlanta factory owner convict
 
 ---
 
-**N-796** Mary Phagan
+**N-795** Mary Phagan
 
 First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical record). Victim the host says was a 13-year-old pencil factory worker.
 
@@ -656,7 +656,7 @@ First named by the host at 00:03:10 in episode 14 (Mary Phagan in the historical
 
 ---
 
-**N-797** Scott Robbins
+**N-796** Scott Robbins
 
 First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip whom the host says ran for Utah governor in 2024.
 
@@ -664,7 +664,7 @@ First named by the host at 00:22:48 in episode 14. Witness in the USA Today clip
 
 ---
 
-**N-798** Greta Thunberg
+**N-797** Greta Thunberg
 
 First named by the host at 00:46:04 in episode 14, via a viewer comment. Activist the host says Israel's influence made out to be Hamas.
 
@@ -732,7 +732,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-145** Kyle Undercover
+**N-144** Kyle Undercover
 
 Investigator whose 2023 X thread on ADL property records is cited (A-1211.1) as the prior source for ADL/FBI Connecticut office sharing.
 
@@ -745,7 +745,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-146** Olivia Robertson Cobb Bishop
+**N-145** Olivia Robertson Cobb Bishop
 
 Eyewitness interviewed in news segment (A-1213.1); described by host as a records specialist at the Orem Police Department (host assertion only – no displayed source for employment claim).
 
@@ -760,7 +760,7 @@ Optional Flag: Name preserved exactly as read in artifact; employment claim lack
 
 ---
 
-**N-147** Marjorie Taylor Greene
+**N-146** Marjorie Taylor Greene
 
 U.S. Representative; subject of artifact A-1216.1 (public statement denying suicidal ideation and warning of potential foreign-state action).
 
@@ -773,7 +773,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-148** Theo Von
+**N-147** Theo Von
 
 Podcaster; subject of artifact A-1217.1 (public statement denying suicidal intent, addressed to "Israel").
 
@@ -786,7 +786,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-149** James Comey
+**N-148** James Comey
 
 Former FBI Director referenced in Patel X post (A-1209.1) as having "written love letters to the ADL and embedded FBI agents with them."
 
@@ -799,7 +799,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-150** Skordas
+**N-149** Skordas
 
 Utah state prosecutor named in Elizabeth Lane's Redacted podcast account (A-1212.1) as the official asserting exclusive authority to identify defense counsel for Tyler Robinson.
 
@@ -814,7 +814,7 @@ Optional Flag: Spelling preserved as transcribed ("Skordas"/"Squortis"/"Scordies
 
 ---
 
-**N-151** Clayton
+**N-150** Clayton
 
 Host of Redacted podcast; introduces Elizabeth Lane segment (A-1212.1).
 
@@ -836,7 +836,7 @@ Claim Count: 2 (this episode: C-1359, C-1360)
 Episode Count: 2
 Investigative Pressure: Medium
 
-*Related: A-1212.1, C-1359, C-1360, N-150, N-10160*
+*Related: A-1212.1, C-1359, C-1360, N-149, N-10160*
 
 ---
 
@@ -851,7 +851,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1209.1, A-1210.1, A-1211.1, C-1354, C-1355, C-1357, N-69, N-145, N-149*
+*Related: A-1209.1, A-1210.1, A-1211.1, C-1354, C-1355, C-1357, N-69, N-144, N-148*
 
 ---
 
@@ -866,7 +866,7 @@ Investigative Pressure: Medium
 
 Optional Flag: A-1218.1 is a verbally referenced tip without on-screen source; corroboration status unclear.
 
-*Related: A-1211.1, A-1218.1, C-1356, C-1357, N-145*
+*Related: A-1211.1, A-1218.1, C-1356, C-1357, N-144*
 
 ---
 
@@ -879,7 +879,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1212.1, C-1359, C-1360, N-6, N-150*
+*Related: A-1212.1, C-1359, C-1360, N-6, N-149*
 
 ---
 
@@ -894,7 +894,7 @@ Investigative Pressure: Medium
 
 Optional Flag: The grouping of on-scene witness anomalies with public-figure suicide-denial statements is a host-asserted pattern, not itself artifact-anchored as a unified phenomenon.
 
-*Related: A-1213.1, A-1214.1, A-1215.1, A-1216.1, A-1217.1, C-1361, C-1362, C-1363, C-1364, C-1365, N-146, N-147, N-148*
+*Related: A-1213.1, A-1214.1, A-1215.1, A-1216.1, A-1217.1, C-1361, C-1362, C-1363, C-1364, C-1365, N-145, N-146, N-147*
 
 ---
 
@@ -907,7 +907,7 @@ Claim Timestamp: 00:08:45–00:09:33
 Claim: FBI Director Kash Patel posted a public statement asserting that the FBI will no longer partner with the ADL and characterizing prior FBI-ADL cooperation (including under Comey) as disgraceful surveillance operations.
 
 Anchored Artifacts: A-1209.1
-Mentions: N-69, N-149
+Mentions: N-69, N-148
 
 Related Nodes: N-10158
 
@@ -953,7 +953,7 @@ Claim Timestamp: 00:11:32–00:13:03
 Claim: Per a 2023 X thread by investigator Kyle Undercover, the ADL shares Connecticut office space with the FBI, with ADL offices also reportedly co-located with the United Nations in New York.
 
 Anchored Artifacts: A-1211.1
-Mentions: N-145
+Mentions: N-144
 
 Related Nodes: N-10159
 
@@ -968,7 +968,7 @@ Claim Timestamp: 00:11:32–00:13:03
 Claim: Per the Kyle Undercover 2023 review, 63% of ADL regional offices are located within banking institutions, 42% within law firms, and 10% within Jewish institutions.
 
 Anchored Artifacts: A-1211.1
-Mentions: N-145
+Mentions: N-144
 
 Related Nodes:
 
@@ -998,7 +998,7 @@ Claim Timestamp: 00:32:15
 Claim: In a clip of the Redacted podcast the host plays, Elizabeth Lane says a large Utah law firm she called told her rudely that only Skordas is allowed to find representation for Tyler Robinson, and that Skordas is running as a state prosecutor.
 
 Anchored Artifacts: A-1212.1
-Mentions: N-6, N-150, N-40
+Mentions: N-6, N-149, N-40
 
 Related Nodes: N-10160
 
@@ -1015,7 +1015,7 @@ Claim Timestamp: 00:17:21–00:18:53
 Claim: In a news clip the host plays, Olivia Robertson Cobb Bishop describes a close encounter with the alleged shooter in which she saw him limping and wearing a long black shirt on a hot day, and says his face was not smiling; the reporter calls his demeanor expressionless.
 
 Anchored Artifacts: A-1213.1
-Mentions: N-146
+Mentions: N-145
 
 Related Nodes: N-10161
 
@@ -1058,7 +1058,7 @@ Claim Timestamp: 00:36:30–00:37:30
 Claim: Per a public statement the host reads, U.S. Representative Marjorie Taylor Greene denied suicidal ideation, affirmed her religious faith, and warned that any future harm to her should be investigated as foreign-state or powerful-elite action.
 
 Anchored Artifacts: A-1216.1
-Mentions: N-147
+Mentions: N-146
 
 Related Nodes:
 
@@ -1073,7 +1073,7 @@ Claim Timestamp: 00:46:40–00:47:20
 Claim: Podcaster Theo Von publicly stated he would never take his own life and addressed the statement to "Israel" in his on-air remarks.
 
 Anchored Artifacts: A-1217.1
-Mentions: N-148
+Mentions: N-147
 
 Related Nodes:
 
@@ -1183,7 +1183,7 @@ Claim: The host says the ADL was put together by B'nai B'rith to defend Leo Fran
 Transcript Snippet: Well, because they put the organization together to defend a pedophile and a murderer. His name is Leo Frank.
 
 Anchored Artifacts: 
-Mentions: N-795, N-3
+Mentions: N-794, N-3
 Related Nodes: N-11153, N-11130, N-11156
 Tags: relevance:tangential
 Investigative Direction: Compare ADL and B'nai B'rith founding records (1913) with the Frank case history; note the host's characterization is hers alone.
@@ -1199,7 +1199,7 @@ Claim: The host says Mary Fagan (Mary Phagan in the record) was a 13-year-old Ca
 Transcript Snippet: And Mary Fagan was a 13-year-old girl who worked at his pencil factory. She was found brutally raped.
 
 Anchored Artifacts: 
-Mentions: N-796, N-795
+Mentions: N-795, N-794
 Related Nodes: N-11156
 Tags: relevance:tangential
 Investigative Direction: Check 1913 Georgia court and newspaper records of the Phagan case.
@@ -1215,7 +1215,7 @@ Claim: The host says Frank, despite wealth, top lawyers and connections to the S
 Transcript Snippet: he was so guilty of what happened that despite the fact that he tried to pin it on a poor black janitor.
 
 Anchored Artifacts: 
-Mentions: N-795
+Mentions: N-794
 Related Nodes: N-11156
 Tags: relevance:tangential
 Investigative Direction: Review the 1913 trial record and appeals to the US Supreme Court.
@@ -1231,7 +1231,7 @@ Claim: The host says Frank's associates in the B'nai B'rith lodge assembled the 
 Transcript Snippet: What happened then is that his buddies over at the Freemasonic Lodge, Benber, assembled the ADL to gaslight the public.
 
 Anchored Artifacts: 
-Mentions: N-795, N-3
+Mentions: N-794, N-3
 Related Nodes: N-11153, N-11130, N-11156
 Supports: C-7841
 Tags: relevance:tangential
@@ -1248,7 +1248,7 @@ Claim: The host says the book The Murder of Little Mary Fagan was written by a r
 Transcript Snippet: there's a book called The Murder of Little Mary Fagan, and it is written by a relative of hers.
 
 Anchored Artifacts: A-2906.1
-Mentions: N-796, N-3
+Mentions: N-795, N-3
 Related Nodes: N-11156
 Tags: relevance:tangential
 Investigative Direction: Confirm the book, its author and relationship to the victim.
@@ -1441,7 +1441,7 @@ Claim: The host says the name received for the woman via Orem rumors turned out 
 Transcript Snippet: Anyways, the name uh that we had received was it turned out somebody that actually provided the only eyewitness testimony of having seen the shooter up close limping.
 
 Anchored Artifacts: 
-Mentions: N-146, N-3
+Mentions: N-145, N-3
 Related Nodes: N-10161
 Tags: relevance:core
 Investigative Direction: Confirm the tip's origin and whether other eyewitnesses reported seeing the limp.
@@ -1457,7 +1457,7 @@ Claim: The host says it is possible the woman captured both men walking back to 
 Transcript Snippet: it's possible just to run the other side of things that this woman captured both of them walking back to back and she just was walking near him
 
 Anchored Artifacts: 
-Mentions: N-146, N-3
+Mentions: N-145, N-3
 Related Nodes: N-10161
 Qualifies: C-7857
 Tags: relevance:core
@@ -1474,7 +1474,7 @@ Claim: The host says Olivia Bishop does not attend UVU and works for the Orem Po
 Transcript Snippet: It turns out that she works for the Oram Police Department. She's a record specialist.
 
 Anchored Artifacts: 
-Mentions: N-146, N-3
+Mentions: N-145, N-3
 Related Nodes: N-10129, N-11155
 Tags: relevance:core
 Investigative Direction: Confirm Bishop's employment with the Orem Police Department through department staffing records.
@@ -1490,7 +1490,7 @@ Claim: The host says the Orem Police Department lost many staff in August, point
 Transcript Snippet: in August, you're going to believe this, they kind of lost a lot of people that were working at the department.
 
 Anchored Artifacts: A-2907.1
-Mentions: N-146
+Mentions: N-145
 Related Nodes: N-10129, N-11155
 Tags: relevance:core
 Investigative Direction: Locate the department's Facebook post and its staffing change roster for August 2025.
@@ -1522,7 +1522,7 @@ Claim: The host says Bishop said she was meeting up with friends and that her te
 Transcript Snippet: Another thing that we were able to learn is that she met up with her husband.
 
 Anchored Artifacts: 
-Mentions: N-146, N-3
+Mentions: N-145, N-3
 Related Nodes: N-10129, N-11155
 Tags: relevance:core
 Investigative Direction: Check Bishop's work schedule and leave records for September 10, 2025.
@@ -1538,7 +1538,7 @@ Claim: The host says she called the records office and texted Bishop, who does n
 Transcript Snippet: She says that was it. She just wanted to speak right there. Give her testimony and that she gave the appropriate information to the appropriate authorities.
 
 Anchored Artifacts: 
-Mentions: N-146, N-3
+Mentions: N-145, N-3
 Related Nodes: N-10129, N-11155
 Tags: relevance:core
 Investigative Direction: Obtain the text exchange and any statement Bishop gave to investigators.
@@ -1635,7 +1635,7 @@ Claim: The host says the witness named Emmanuel works for Domo Incorporated as a
 Transcript Snippet: he works for Domo Incorporated. History is that he is a software engineer, a technic advis technical adviser.
 
 Anchored Artifacts: A-1215.1
-Mentions: N-312
+Mentions: N-311
 Related Nodes: N-10161
 Tags: relevance:core
 Investigative Direction: Confirm the witness's identity and employment at Domo through LinkedIn and company records.
@@ -1667,7 +1667,7 @@ Claim: The host says Scott Robbins, who appears in the USA Today clip looking li
 Transcript Snippet: well, he was also a gubernatorial candidate. He ran for governor of Utah in 2024.
 
 Anchored Artifacts: A-1215.1
-Mentions: N-797
+Mentions: N-796
 Related Nodes: N-10161
 Tags: relevance:core
 Investigative Direction: Check Utah 2024 gubernatorial filings for Scott Robbins.
@@ -1731,7 +1731,7 @@ Claim: The host says she thinks JFK was surrounded and infiltrated by his own pe
 Transcript Snippet: I think he was surrounded. I think he was infiltrated and then they got rid of him because of wrong think.
 
 Anchored Artifacts: 
-Mentions: N-711, N-3
+Mentions: N-710, N-3
 Related Nodes: N-10662
 Tags: relevance:tangential
 Investigative Direction: Compare with documented JFK-era records; note the FARA link is the host's characterization.
@@ -1844,7 +1844,7 @@ Claim: Lane says Scordies (Skordas) is running as a state prosecutor, that it is
 Transcript Snippet: So, what I know is that Scordies is running as a state prosecutor. He's running. Everyone can look it up. It's on his website.
 
 Anchored Artifacts: A-1212.1
-Mentions: N-6, N-150
+Mentions: N-6, N-149
 Related Nodes: N-10160
 Supports: C-1360
 Tags: relevance:core
@@ -1955,7 +1955,7 @@ Claim: The host says Greene has been very loud against the Epstein files non-rel
 Transcript Snippet: Taylor Green has been very loud about how she is against that as she has grown increasingly vocal
 
 Anchored Artifacts: A-1216.1
-Mentions: N-147, N-9
+Mentions: N-146, N-9
 Related Nodes: N-10324
 Supports: C-1364
 Tags: relevance:context
@@ -2115,7 +2115,7 @@ Claim: The host says Israel's power is shown by Greta Thunberg being put on the 
 Transcript Snippet: they like put her on the cover of Time and then suddenly they were like she had an octopus in a picture and they basically said she's Hamas
 
 Anchored Artifacts: A-1219.4
-Mentions: N-798
+Mentions: N-797
 Related Nodes: N-10026
 Tags: relevance:tangential
 Investigative Direction: Find the Time cover and the octopus image controversy.

@@ -781,8 +781,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -799,8 +799,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-211",
-      "ref": "N-211",
+      "@id": "N-210",
+      "ref": "N-210",
       "name": "Joe Kent",
       "type": "person",
       "description": "Allegedly engaged in internal dispute with Kash Patel over terrorist-angle investigation.",
@@ -833,8 +833,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-246",
-      "ref": "N-246",
+      "@id": "N-245",
+      "ref": "N-245",
       "name": "Mark Levin",
       "type": "person",
       "description": "Conservative commentator; named as defender of Alan Dershowitz.",
@@ -849,8 +849,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Host of The Joe Rogan Experience; clip (A-1443.1) discussing conspiracies.",
@@ -869,8 +869,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
+      "@id": "N-494",
+      "ref": "N-494",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "Marina (TPUSA CMO) (wave3 orphan mint).",
@@ -1002,8 +1002,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-166",
-      "ref": "N-166",
+      "@id": "N-165",
+      "ref": "N-165",
       "name": "Rabbi Pesach Wolicki",
       "type": "person",
       "description": "Rabbi the host says had a September 5 call with Streiff and Kolvet.",
@@ -1021,8 +1021,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-188",
-      "ref": "N-188",
+      "@id": "N-187",
+      "ref": "N-187",
       "name": "Stacy Sheridan",
       "type": "person",
       "description": "Transcribed 'CeCe Sheridan'; named among reported passengers (identification is a doubt).",
@@ -1038,8 +1038,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Subject of Blake Neff's clip describing calls after the shot.",
@@ -1055,8 +1055,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-219",
-      "ref": "N-219",
+      "@id": "N-218",
+      "ref": "N-218",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Transcribed Elizabeth McCoy; named among reported passengers.",
@@ -1072,8 +1072,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Duncan Aviation",
       "type": "person",
       "description": "FBO the host calls unusual and military-leaning.",
@@ -1089,8 +1089,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-380",
-      "ref": "N-380",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Named in a viewer comment as trying to link the host and Kent.",
@@ -1106,8 +1106,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-553",
-      "ref": "N-553",
+      "@id": "N-552",
+      "ref": "N-552",
       "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Staffer who drafted the death statement and was later fired (host says over an Uber driver conversation).",
@@ -1130,8 +1130,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-594",
-      "ref": "N-594",
+      "@id": "N-593",
+      "ref": "N-593",
       "name": "Bret Weinstein",
       "type": "person",
       "description": "The host says he released messages about Iran.",
@@ -1580,7 +1580,7 @@
       "mentions_person_refs": [
         "N-22",
         "N-1",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -1588,7 +1588,7 @@
       "@id": "C-2526",
       "ref": "C-2526",
       "label": "Joe Kent described Charlie Kirk West Wing statement on Iran war",
-      "claim": "Joe Kent recounted that, in June in the West Wing stairway, Charlie Kirk said loudly that he had \"stopped us from getting into a war with Iran.\"",
+      "claim": "Joe Kent recounted that, in June in the West Wing stairway, Charlie Kirk said loudly, 'Joe stopped us from getting into a war with Iran.'",
       "anchored_artifacts": [
         "A-1877.2"
       ],
@@ -1598,7 +1598,7 @@
       "investigative_direction": "Verify via West Wing access logs and any corroborating witnesses to the June encounter.",
       "mentions_person_refs": [
         "N-1",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -1606,7 +1606,7 @@
       "@id": "C-2527",
       "ref": "C-2527",
       "label": "Andrew Kolvet retweeted calls for Joe Kent's arrest",
-      "claim": "Andrew Kolvet retweeted a post suggesting Joe Kent should be arrested for leaking classified documents.",
+      "claim": "The host says Andrew Kolvet retweeted someone who suggested Joe Kent should be arrested for leaking classified documents.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10551"
@@ -1616,7 +1616,7 @@
       "investigative_direction": "Confirm via archived Kolvet X timeline.",
       "mentions_person_refs": [
         "N-14",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -1637,7 +1637,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-99",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -1655,15 +1655,15 @@
       "investigative_direction": "Cross-check against DoD / military service records.",
       "mentions_person_refs": [
         "N-95",
-        "N-211"
+        "N-210"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2530",
       "ref": "C-2530",
-      "label": "Laura Loomer accused Kent of leaking to Candace to harm Erika",
-      "claim": "Laura Loomer replied to Posobiec accusing Joe Kent of leaking information to Candace Owens for the purpose of attacking Erika Kirk.",
+      "label": "Laura Loomer Said Kent May Have Leaked to Candace to Attack Erika",
+      "claim": "Laura Loomer replied to Posobiec, as the host reads it, calling Joe Kent a known leaker and saying there is speculation that he may have been leaking information to Candace Owens to attack Erika Kirk.",
       "anchored_artifacts": [
         "A-1880.2"
       ],
@@ -1677,7 +1677,7 @@
         "N-3",
         "N-60",
         "N-2",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -1698,7 +1698,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-1",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -1718,7 +1718,7 @@
       "investigative_direction": "Verify against any direct messaging logs or third-party corroboration.",
       "mentions_person_refs": [
         "N-14",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -1726,7 +1726,7 @@
       "@id": "C-2533",
       "ref": "C-2533",
       "label": "Kolvet unavailable 1:30pm–3:25pm Utah time in PR chat",
-      "claim": "In the Sept 10 PR text chain, Andrew Kolvet had no outgoing message from 1:30 p.m. until 3:25 p.m. Utah time, despite being the principal PR contact during the active crisis.",
+      "claim": "Per the Sept 10 PR text chain the host shows, Andrew Kolvet sent no message from 1:30 p.m. until 3:25 p.m. Utah time, a period the host says he should have been available because communications is his job.",
       "anchored_artifacts": [
         "A-1881.1"
       ],
@@ -1776,7 +1776,7 @@
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Confirm via call detail records and corroborate with Aubrey directly if possible.",
       "mentions_person_refs": [
-        "N-495"
+        "N-494"
       ]
     },
     {
@@ -1793,7 +1793,7 @@
       "claim_timestamp": "00:25:31",
       "investigative_direction": "Verify with Aubrey or HR/witness records.",
       "mentions_person_refs": [
-        "N-495"
+        "N-494"
       ]
     },
     {
@@ -1801,7 +1801,7 @@
       "@id": "C-2537",
       "ref": "C-2537",
       "label": "Host's Calendar Graphic Shows Egyptian-Plane Transponding Overlapping Sept 10 Events",
-      "claim": "Per an on-screen calendar graphic the host shows, Egyptian-plane transponding windows (10:05-11:34 a.m.; second block) overlap with Charlie's flight and Kolvet's unavailability window on Sept 10.",
+      "claim": "Per an on-screen calendar graphic the host shows, an Egyptian plane transponds 10:05-11:34 a.m. on Sept 10, and a second Egyptian-plane transponding block overlaps Kolvet's second unavailability window and Charlie's Scottsdale-to-Provo flight.",
       "anchored_artifacts": [
         "A-1881.2"
       ],
@@ -1848,7 +1848,7 @@
       "claim_timestamp": "00:33:30",
       "investigative_direction": "Direct verification only possible via Blake Neff or device forensics.",
       "mentions_person_refs": [
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -1866,7 +1866,7 @@
       "investigative_direction": "Verify CIA documentary provenance and Erika's pageant participation against public records.",
       "mentions_person_refs": [
         "N-2",
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -1874,7 +1874,7 @@
       "@id": "C-2541",
       "ref": "C-2541",
       "label": "Mark Levin questioned Erika's video as AI production",
-      "claim": "Mark Levin tweeted asking whether Erika's video was \"some AI production\" and, if not, called it \"a total disgrace.\"",
+      "claim": "Per a tweet the host reads, Mark Levin asked whether Erika's video was 'some AI production' and, if not, called it 'a total disgrace'.",
       "anchored_artifacts": [
         "A-1884.1"
       ],
@@ -1883,7 +1883,8 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Retrieve full tweet and any subsequent clarification.",
       "mentions_person_refs": [
-        "N-246"
+        "N-245",
+        "N-2"
       ]
     },
     {
@@ -1891,7 +1892,7 @@
       "@id": "C-2542",
       "ref": "C-2542",
       "label": "Eton Fishberger called Joe Rogan segment \"sick stuff\"",
-      "claim": "Eton Fishberger tweeted that Joe Rogan's segment was \"some sick stuff\" given what Erika \"hasn't been through already.\"",
+      "claim": "Per a tweet the host reads, Eton Fishberger said, 'This is some sick stuff from Joe Rogan, as if Erika hasn't been through enough already.'",
       "anchored_artifacts": [
         "A-1884.2"
       ],
@@ -1900,7 +1901,8 @@
       "claim_timestamp": "00:43:46",
       "investigative_direction": "Retrieve original tweet.",
       "mentions_person_refs": [
-        "N-270"
+        "N-2",
+        "N-269"
       ]
     },
     {
@@ -1919,7 +1921,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -1941,7 +1943,7 @@
       "transcript_snippet": "it would certainly appear that Turning Point wants to exact revenge because you guessed it, Joe Kent told the truth about something and that something made Erika Kirk, Charlie's wife, look very foolish.",
       "mentions_person_refs": [
         "N-3",
-        "N-211",
+        "N-210",
         "N-2"
       ]
     },
@@ -1964,7 +1966,7 @@
       "investigative_direction": "Obtain FBI statements or inter-agency correspondence on the transfer of the investigation to Utah authorities and the NCTC's stand-down.",
       "transcript_snippet": "the FBI will say that that they stopped that because they wanted to have tr- every turn everything over to the Utah state authorities and everything's going to trial",
       "mentions_person_refs": [
-        "N-211",
+        "N-210",
         "N-1"
       ]
     },
@@ -1988,7 +1990,7 @@
       "investigative_direction": "Ask Kent, or review any NCTC tasking records he is free to release, for what leads were left open when the stand-down occurred.",
       "transcript_snippet": "but there was still linkage for us to investigate that we needed to run down.",
       "mentions_person_refs": [
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -2011,7 +2013,7 @@
       "investigative_direction": "Compare Kent's characterization with the full authenticated text of the leaked group-chat messages and the donors involved.",
       "transcript_snippet": "We know the pressure because of the text messages and text messages that have been made public that Charlie was under a lot of pressure from a lot of pro-Israel donors.",
       "mentions_person_refs": [
-        "N-211",
+        "N-210",
         "N-1"
       ]
     },
@@ -2035,7 +2037,7 @@
       "investigative_direction": "Check public reporting and administration records on Israeli requests for further US military action after June 2025, and Kirk's documented lobbying against it.",
       "transcript_snippet": "we knew at the end of the 12-day war, at the end of Midnight Hammer, that the Israelis were going to come back and ask us to go back to war again.",
       "mentions_person_refs": [
-        "N-211",
+        "N-210",
         "N-1"
       ]
     },
@@ -2059,7 +2061,7 @@
       "investigative_direction": "Obtain the full Carlson interview transcript and any FBI or Patel response specifying which leads were not pursued.",
       "transcript_snippet": "we had things that we would have investigated had it not been for Kash Patel.",
       "mentions_person_refs": [
-        "N-211",
+        "N-210",
         "N-69",
         "N-3"
       ]
@@ -2081,7 +2083,7 @@
       "investigative_direction": "Locate the Daily Mail article on the Kent-Patel dispute and the earlier episode where the host covered it.",
       "transcript_snippet": "that something was brewing between him and Kash Patel, right? That made it into the Daily Mail at some point.",
       "mentions_person_refs": [
-        "N-211",
+        "N-210",
         "N-69",
         "N-3"
       ]
@@ -2104,7 +2106,7 @@
       "investigative_direction": "Collect the posts from Kolvet, Clark, Loomer and others calling for Kent's arrest or prosecution and note whether any cites specific documents.",
       "transcript_snippet": "The Israel first crowd, like I said, immediately began demanding that he spend time in prison for leaking what they claimed are classified documents.",
       "mentions_person_refs": [
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -2148,7 +2150,7 @@
       "investigative_direction": "Ask Clark or TPUSA for the specific statements or messages by Kent that they say degraded Erika; search Kent's public record for any such remark.",
       "transcript_snippet": "Joe Kent, I have never heard uh utter a bad word about Erika Kirk.",
       "mentions_person_refs": [
-        "N-211",
+        "N-210",
         "N-2",
         "N-99",
         "N-3"
@@ -2194,10 +2196,9 @@
       "investigative_direction": "The host's source records and Kent's own account are the only checks; ask Kent and Loomer for any evidence of the alleged leak.",
       "transcript_snippet": "Joe Kent did not leak me anything for the purpose of attacking Erika Kirk.",
       "mentions_person_refs": [
-        "N-211",
+        "N-210",
         "N-2",
-        "N-3",
-        "N-60"
+        "N-3"
       ]
     },
     {
@@ -2249,7 +2250,7 @@
       "@type": "Claim",
       "@id": "C-11309",
       "ref": "C-11309",
-      "label": "Clip Speaker Says TPUSA Kind of Verified Kolvet to Kent to Candace Chain",
+      "label": "Clip Speaker Says Messages Were Kind of Verified as Passed From Kolvet to Kent to Candace",
       "claim": "In the played clip, the speaker says TPUSA kind of verified that the messages had been given by Andrew Kolvet to Joe Kent and that Kent passed them on to Candace Owens.",
       "anchored_artifacts": [
         "A-3129.1"
@@ -2265,7 +2266,7 @@
       "transcript_snippet": "We kind of verified that the messages had been given by Andrew to Joe Kent and that Joe Kent had been the one to pass them on to Candace.",
       "mentions_person_refs": [
         "N-14",
-        "N-211",
+        "N-210",
         "N-3"
       ]
     },
@@ -2289,7 +2290,7 @@
       "transcript_snippet": "I was told I could trust Joe Kent. I provided the screen grabs to Joe Kent. And that I don't know what happened to them at that point.",
       "mentions_person_refs": [
         "N-14",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -2356,7 +2357,7 @@
       "transcript_snippet": "But then, fast forward another week or two, and they were made public.",
       "mentions_person_refs": [
         "N-14",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -2379,7 +2380,7 @@
       "transcript_snippet": "Can I 100% categorically say that he leaked them? No. But those are the facts. Maybe somebody on his team, maybe they got passed around, maybe somebody else leaked them.",
       "mentions_person_refs": [
         "N-14",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -2467,7 +2468,7 @@
       "investigative_direction": "Locate Weinstein's release of messages and check what they say about Charlie Kirk and Iran.",
       "transcript_snippet": "Bret Weinstein has released his messages about Iran.",
       "mentions_person_refs": [
-        "N-594"
+        "N-593"
       ]
     },
     {
@@ -2558,7 +2559,7 @@
       "investigative_direction": "Identify the rabbi (the host names Rabbi Wolicki a minute later in the show), find the original statement and compare it with the pre-assassination texts.",
       "transcript_snippet": "The rabbi is not ashamed that he lied and said, \"Charlie never blinked on Israel.\"",
       "mentions_person_refs": [
-        "N-166",
+        "N-165",
         "N-1"
       ]
     },
@@ -2579,7 +2580,7 @@
       "investigative_direction": "Obtain call logs or calendar entries for September 5 and ask Wolicki, Streiff and Kolvet what the call covered.",
       "transcript_snippet": "On September 5th, while Charlie was away in Asia, that Rabbi Wolicki um and with Rabbi Pesach Wolicki, who was the one who Charlie to be out, he had a a call with Justin Streiff and Andrew Kolvet.",
       "mentions_person_refs": [
-        "N-166",
+        "N-165",
         "N-15",
         "N-14",
         "N-1"
@@ -2600,7 +2601,7 @@
       "investigative_direction": "Check TPUSA's staff, board and advisory lists for Wolicki and collect his own descriptions of his relationship with Charlie.",
       "transcript_snippet": "Rabbi Wolicki does not have any role within Turning Point USA. He claims to be one of Charlie's personal advisers.",
       "mentions_person_refs": [
-        "N-166",
+        "N-165",
         "N-1"
       ]
     },
@@ -2948,8 +2949,8 @@
       "mentions_person_refs": [
         "N-15",
         "N-14",
-        "N-495",
-        "N-553"
+        "N-494",
+        "N-552"
       ]
     },
     {
@@ -3065,8 +3066,8 @@
       "mentions_person_refs": [
         "N-2",
         "N-11",
-        "N-219",
-        "N-188"
+        "N-218",
+        "N-187"
       ]
     },
     {
@@ -3089,8 +3090,8 @@
       "investigative_direction": "Ask Aubrey or Marina for the call content; the wording is the host's paraphrase.",
       "transcript_snippet": "because Andrew's currently on a plane and I don't have it within me to draft the statement.",
       "mentions_person_refs": [
-        "N-495",
-        "N-553",
+        "N-494",
+        "N-552",
         "N-14"
       ]
     },
@@ -3113,7 +3114,7 @@
       "investigative_direction": "Confirm Aubrey's age and role with her or with employment records.",
       "transcript_snippet": "Essentially, Aubrey, the what 26-year-old, is now responsible for the unbelievably emotionally heavy statement",
       "mentions_person_refs": [
-        "N-553"
+        "N-552"
       ]
     },
     {
@@ -3127,7 +3128,7 @@
         "N-10552"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:25:31",
       "investigative_direction": "Ask Aubrey for her termination paperwork and for the driver's account of the conversation.",
@@ -3136,7 +3137,7 @@
         "C-9967"
       ],
       "mentions_person_refs": [
-        "N-553",
+        "N-552",
         "N-2"
       ]
     },
@@ -3157,7 +3158,7 @@
       "investigative_direction": "Request payroll or severance records through Aubrey and compare with TPUSA's reported post-assassination revenue.",
       "transcript_snippet": "only to then fire them and not even give them a bonus after they took in that much money.",
       "mentions_person_refs": [
-        "N-553"
+        "N-552"
       ]
     },
     {
@@ -3203,7 +3204,7 @@
       "investigative_direction": "Check the full chat export for the 3:49 message and its recipient.",
       "transcript_snippet": "At 3:49 Utah time, she's going to ask her boss, who's been unavailable, \"Should I confirm or deny?\"",
       "mentions_person_refs": [
-        "N-553",
+        "N-552",
         "N-14"
       ]
     },
@@ -3312,8 +3313,8 @@
       "investigative_direction": "Obtain Mikey McCoy's call log for the minutes after the shot and the full Neff interview.",
       "transcript_snippet": "I remember he calls Erika. I around the same time, I pull out my phone and I call my mom just to say, \"Hey, Mom, there's been a shooting.",
       "mentions_person_refs": [
-        "N-161",
-        "N-192",
+        "N-160",
+        "N-191",
         "N-2",
         "N-17"
       ]
@@ -3323,7 +3324,7 @@
       "@id": "C-11356",
       "ref": "C-11356",
       "label": "Host Says Streiff Wrote That They May Need to Wait Until AK Is on the Ground",
-      "claim": "The host says that in the second part of the chat Justin Streiff wrote that they may need to wait until AK is on the ground, followed by Kolvet saying his internet just came back on.",
+      "claim": "The host says that in the second part of the chat Andrew Kolvet wrote that his internet just came back on, followed by Justin Streiff writing that they may need to wait until AK is on the ground.",
       "anchored_artifacts": [
         "A-3127.1"
       ],
@@ -3346,7 +3347,7 @@
       "@id": "C-11357",
       "ref": "C-11357",
       "label": "Host Says Erika Told Her the Wyre Plane Was the Plane in Question and Wyre Sponsored the Event",
-      "claim": "The host says that Erika told her the plane in question was the Wyre plane and that Wyre was sponsoring the event.",
+      "claim": "The host says she calls it the Wyre plane because Wyre is who Erika told her was on the plane, and that Wyre was sponsoring the event.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10093",
@@ -3371,7 +3372,7 @@
       "claim": "The host says Duncan Aviation is not where people usually fly in, that they usually use Signature or Atlantic, and that Duncan has a bent toward military and is for fixing planes.",
       "anchored_artifacts": [],
       "related_nodes": [
-        "N-262",
+        "N-261",
         "N-10549"
       ],
       "tags": [
@@ -3381,7 +3382,7 @@
       "investigative_direction": "Check Duncan Aviation's Provo services and who arrived there on September 10.",
       "transcript_snippet": "Duncan Aviation is not where you fly into. Usually you you fly into Signature, you fly into Atlantic. Duncan Aviation is particularly has a bent towards military and it is for fixing planes.",
       "mentions_person_refs": [
-        "N-10549"
+        "N-261"
       ]
     },
     {
@@ -3441,14 +3442,14 @@
         "N-10552"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:37:21",
       "investigative_direction": "Obtain Aubrey's pay and schedule records and the account of what Marina said to the driver.",
       "transcript_snippet": "then work like 7-hour days, not sleep, only to then not get a raise and to be fired because Marina Mina's spoke to an Uber driver.",
       "mentions_person_refs": [
-        "N-553",
-        "N-495"
+        "N-552",
+        "N-494"
       ]
     },
     {
@@ -3462,13 +3463,13 @@
         "N-10552"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:40:02",
       "investigative_direction": "Locate the Uber driver and any statement from him; ask Aubrey for her account.",
       "transcript_snippet": "and she said she never did vent to the Uber driver. Uber driver says they vent.",
       "mentions_person_refs": [
-        "N-553"
+        "N-552"
       ]
     },
     {
@@ -3492,7 +3493,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -3513,7 +3514,7 @@
       "transcript_snippet": "There's a video of her making demon eyes, and every time she makes the eyes, the music",
       "mentions_person_refs": [
         "N-2",
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -3521,7 +3522,7 @@
       "@id": "C-11365",
       "ref": "C-11365",
       "label": "Host Says the Head of the CIA Appears in the Documentary Rogan Mentioned",
-      "claim": "The host says that although the CIA denied producing the documentary, the head of the CIA is in it, and that one has to get approval from the CIA to appear in a CIA documentary.",
+      "claim": "The host says that although critics said the CIA did not produce the documentary, the head of the CIA is in it, and that one has to get approval from the CIA to appear in a CIA documentary.",
       "anchored_artifacts": [
         "A-1883.1"
       ],
@@ -3537,7 +3538,7 @@
       "transcript_snippet": "Okay, yes, but the head of the CIA is in it. Okay, you got to get approval from the CIA to be in a CIA documentary.",
       "mentions_person_refs": [
         "N-2",
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -3586,7 +3587,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -3699,7 +3700,7 @@
       "transcript_snippet": "I never got classified information from Joe Kent. Like I said, the person who told me about the text chain originally was Andrew Kolvet.",
       "mentions_person_refs": [
         "N-3",
-        "N-211",
+        "N-210",
         "N-14"
       ]
     },
@@ -3720,9 +3721,9 @@
       "investigative_direction": "Find Bongino's on-air or posted remarks tying the host to Kent.",
       "transcript_snippet": "It is sad to see Bongino become a little man trying to link Candace and Joe.",
       "mentions_person_refs": [
-        "N-380",
+        "N-379",
         "N-3",
-        "N-211"
+        "N-210"
       ]
     },
     {

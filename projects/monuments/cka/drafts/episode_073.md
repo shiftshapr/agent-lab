@@ -11,7 +11,7 @@
 - **Transcript SHA-256**: 8f80e2001a9824772c29ee4b15829f4b6f2f155a2e3a272ffadb38688bd0e842
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-806, N-11187
+  - Tip-minted Nodes (supplement_2026-10c): N-805, N-11187
   - Hole-minted Nodes (reintro-ep073): N-10512
   - Tip-minted Nodes (reintro-ep073): N-11086
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
@@ -39,8 +39,8 @@
 - Ledger Continuation Summary:
   - Artifact Families Introduced: A-1772, A-1773, A-1774, A-1775, A-1776, A-1777, A-1778, A-1779
   - Claim Range: C-2364–C-2377
-  - New Nodes Introduced: N-564, N-565, N-10506, N-10507, N-10508, N-10509
-  - Reused Nodes Appearing: N-7, N-9, N-36, N-40, N-48, N-69, N-161, N-188, N-192, N-222, N-272, N-332, N-10000, N-10006, N-10011, N-10012, N-10110, N-10268, N-10320, N-10340, N-10396, N-10417, N-10465, N-10470, N-10499, N-10905, N-10968, N-10510, N-10554, N-11188, N-807, N-808
+  - New Nodes Introduced: N-563, N-564, N-10506, N-10507, N-10508, N-10509
+  - Reused Nodes Appearing: N-7, N-9, N-36, N-40, N-48, N-69, N-160, N-187, N-191, N-221, N-271, N-331, N-10000, N-10006, N-10011, N-10012, N-10110, N-10268, N-10320, N-10340, N-10396, N-10417, N-10465, N-10470, N-10499, N-10905, N-10968, N-10510, N-10554, N-11188, N-806, N-807
   - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-3 (Candace Owens)
 
 ---
@@ -190,7 +190,7 @@ Video Timestamp: 00:04:44
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2365, C-2367, N-2, N-239, N-10506*
+*Related: C-2365, C-2367, N-2, N-238, N-10506*
 
 **A-1774.2** Segment: Erika Kirk denying Charlie sent messages that "they're going to get me"; asserting she possesses his cell phone
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:21:54
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2369, C-2377, N-2, N-239, N-10507*
+*Related: C-2369, C-2377, N-2, N-238, N-10507*
 
 ---
 
@@ -214,7 +214,7 @@ Video Timestamp: 00:10:40
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2368, N-2, N-213, N-10509*
+*Related: C-2368, N-2, N-212, N-10509*
 
 **A-1775.2** Segment: Jesse Watters asking "Tell me about the day before the shooting"; Erika's edited response mentioning priest/dinner, death threats, Erika's mother in Phoenix, Charlie saying "Home needs you"
 
@@ -224,7 +224,7 @@ Video Timestamp: 00:16:51
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2368, N-2, N-213, N-10509*
+*Related: C-2368, N-2, N-212, N-10509*
 
 ---
 
@@ -238,7 +238,7 @@ Video Timestamp: 00:29:02
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2371, N-556*
+*Related: C-2371, N-555*
 
 **A-1776.2** Segment: Carrie Prejean Bowler stating "I'm a Catholic and Catholics do not embrace Zionism"
 
@@ -248,7 +248,7 @@ Video Timestamp: 00:30:14
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-*Related: C-2371, N-556*
+*Related: C-2371, N-555*
 
 ---
 
@@ -264,7 +264,7 @@ Confidence Level: High
 
 Text excerpt: "Carrie Preaching Baller has been removed from President Trump's religious liberty commission… No member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue."
 
-*Related: C-2370, N-556, N-564*
+*Related: C-2370, N-555, N-563*
 
 ---
 
@@ -278,7 +278,7 @@ Video Timestamp: 00:37:45
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium
 
-*Related: C-2372, C-2373, C-2374, C-2376, N-2, N-565, N-10510*
+*Related: C-2372, C-2373, C-2374, C-2376, N-2, N-564, N-10510*
 
 ---
 
@@ -312,7 +312,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-556** Carrie Prejean Bowler
+**N-555** Carrie Prejean Bowler
 
 Catholic activist and former Miss California; removed from the White House Religious Liberty Commission following a hearing where she challenged the IHRA definition of anti-Semitism.
 
@@ -325,7 +325,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-564** Dan Patrick
+**N-563** Dan Patrick
 
 Texas Lieutenant Governor; announced Carrie Prejean Bowler's removal from the Religious Liberty Commission on X.
 
@@ -338,7 +338,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-213** Jesse Watters
+**N-212** Jesse Watters
 
 Fox News host; interviewer in the Fox News interview clip of Erika Kirk discussed in this episode.
 
@@ -351,7 +351,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-239** Glenn Beck
+**N-238** Glenn Beck
 
 Host of the December 12, 2025 interview in which Erika Kirk appeared in Charlie Kirk's home office.
 
@@ -364,7 +364,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-565** "Matt" (TPUSA Halftime Show Producer)
+**N-564** "Matt" (TPUSA Halftime Show Producer)
 
 First-name-only reference by an informant to the producer of the TPUSA All-American Halftime Show, who reportedly hyped the crowd and promised Trump viewership.
 
@@ -522,7 +522,7 @@ FBI director; mentioned in the host's remarks on the Guthrie case.
 
 ---
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 Named by the host as largely writing Erika Kirk's first speech.
 
@@ -530,7 +530,7 @@ Named by the host as largely writing Erika Kirk's first speech.
 
 ---
 
-**N-188** Stacy Sheridan
+**N-187** Stacy Sheridan
 
 Named by the host as a likelier stager of the background photo.
 
@@ -538,7 +538,7 @@ Named by the host as a likelier stager of the background photo.
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Named among those whose phone logs the host lacks.
 
@@ -546,7 +546,7 @@ Named among those whose phone logs the host lacks.
 
 ---
 
-**N-222** Milo Yiannopoulos
+**N-221** Milo Yiannopoulos
 
 Commentator the host says she recently had on her show.
 
@@ -554,7 +554,7 @@ Commentator the host says she recently had on her show.
 
 ---
 
-**N-272** Dan Flood
+**N-271** Dan Flood
 
 Named in claims about iMessage and phone access.
 
@@ -562,7 +562,7 @@ Named in claims about iMessage and phone access.
 
 ---
 
-**N-332** Baron Coleman
+**N-331** Baron Coleman
 
 Whose episode the host says she watched about a viewer allegation.
 
@@ -714,7 +714,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-806** Savannah Guthrie
+**N-805** Savannah Guthrie
 
 First named by the host at 00:46:33 in episode 73 (transcript: 'Savannah Guthri'). Television host whose mother's reported abduction the host discusses.
 
@@ -724,7 +724,7 @@ Aliases: Savannah Guthri
 
 ---
 
-**N-807** Kid Rock
+**N-806** Kid Rock
 
 First named by the host at 00:00:01 in episode 73. Performer named in the halftime informant account, who the informants say they waited on longest.
 
@@ -732,7 +732,7 @@ First named by the host at 00:00:01 in episode 73. Performer named in the halfti
 
 ---
 
-**N-808** Bad Bunny
+**N-807** Bad Bunny
 
 First named by the host at 00:39:40 in episode 73. Performer of the official Super Bowl halftime show to which the TPUSA show was compared.
 
@@ -782,7 +782,7 @@ Claim Timestamp: 00:04:44
 Claim: The wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office – the same space where it was visible on September 8, 2025.
 
 Anchored Artifacts: A-1774.1, A-1773.1
-Mentions: N-2, N-239, N-1
+Mentions: N-2, N-238, N-1
 
 Related Nodes: N-10506
 
@@ -811,7 +811,7 @@ Claim Timestamp: 00:04:44
 Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk stated she had not been in Charlie's home office "for a very long time."
 
 Anchored Artifacts: A-1774.1
-Mentions: N-2, N-239
+Mentions: N-2, N-238
 
 Related Nodes: N-10506
 
@@ -841,7 +841,7 @@ Claim Timestamp: 00:21:54
 Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk denied that Charlie Kirk had messaged people the day before saying "I'm going to be murdered" or "they're coming after me."
 
 Anchored Artifacts: A-1774.2
-Mentions: N-2, N-239, N-1
+Mentions: N-2, N-238, N-1
 
 Related Nodes: N-10507
 
@@ -856,7 +856,7 @@ Claim Timestamp: 00:34:48
 Claim: Per a post by Dan Patrick on X that the host reads, Carrie Prejean Bowler was removed from the White House Religious Liberty Commission.
 
 Anchored Artifacts: A-1777.1
-Mentions: N-556, N-564
+Mentions: N-555, N-563
 
 
 Investigative Direction: Verify the official announcement and date; document the stated cause and any subsequent statement from Carrie Prejean Bowler.
@@ -870,7 +870,7 @@ Claim Timestamp: 00:30:14
 Claim: During the Religious Liberty Commission hearing, Carrie Prejean Bowler stated "I'm a Catholic and Catholics do not embrace Zionism."
 
 Anchored Artifacts: A-1776.2
-Mentions: N-556
+Mentions: N-555
 
 
 Investigative Direction: Obtain the full hearing transcript and video; cross-reference against official Catholic teaching documents on Zionism.
@@ -956,7 +956,7 @@ Claim Timestamp: 00:21:54
 Claim: During the December 12, 2025 Glenn Beck interview, Erika Kirk stated "And I have his cell phone" in the context of denying that Charlie sent pre-death messages.
 
 Anchored Artifacts: A-1774.2
-Mentions: N-2, N-239, N-1
+Mentions: N-2, N-238, N-1
 
 Related Nodes: N-10507
 
@@ -989,7 +989,7 @@ Claim: The host says her investigation has been delayed because she and her team
 Transcript Snippet: we don't have access to Charlie's phone, Erika's phone, Dan Flood's phone, Mikey McCoy's phone logs, Frank Turek's phone.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1, N-2, N-272, N-192, N-7
+Mentions: N-3, N-1, N-2, N-271, N-191, N-7
 Related Nodes: N-10320
 Tags: relevance:core
 Investigative Direction: Identify which of these phones or phone logs were seized, imaged or returned, through search warrants, court dockets or law enforcement statements.
@@ -1069,7 +1069,7 @@ Claim: The host says that on December 12, as part of what she calls Erika's Shab
 Transcript Snippet: she conducted her very first interview from Charlie's home office. She gave an interview to Glenn Beck.
 
 Anchored Artifacts: A-1774.1
-Mentions: N-3, N-2, N-239
+Mentions: N-3, N-2, N-238
 Related Nodes: N-10506
 Tags: relevance:core
 Investigative Direction: Confirm whether any earlier interview or video by Erika Kirk was recorded in the home office before December 12, 2025.
@@ -1085,7 +1085,7 @@ Claim: The host plays Erika Kirk telling Glenn Beck she keeps looking down becau
 Transcript Snippet: Sorry, I'm looking down. I'm just looking at you all of these things that Charlie left over on his desk.
 
 Anchored Artifacts: A-1774.1
-Mentions: N-3, N-2, N-239
+Mentions: N-3, N-2, N-238
 Related Nodes: N-10506
 Tags: relevance:core
 Investigative Direction: Review the full Beck interview to see which items on the desk Erika handles and whether she describes sorting them.
@@ -1101,7 +1101,7 @@ Claim: In the Beck clip, Erika Kirk reads a piece of paper in Charlie's writing 
 Transcript Snippet: This says it's the priorities. It says family, children, legacy, kids number one.
 
 Anchored Artifacts: A-1774.1
-Mentions: N-2, N-239, N-1
+Mentions: N-2, N-238, N-1
 Tags: relevance:context
 Investigative Direction: Obtain a clear image of the handwritten note and have its handwriting verified against known Charlie Kirk samples.
 
@@ -1116,7 +1116,7 @@ Claim: In the Beck clip, Erika Kirk says Charlie would sit at the desk on Sunday
 Transcript Snippet: he would sit here on Sundays writing, using his journal, like going through all these drawers, and he was preparing for the week ahead.
 
 Anchored Artifacts: A-1774.1
-Mentions: N-2, N-239, N-1
+Mentions: N-2, N-238, N-1
 Related Nodes: N-10506
 Tags: relevance:context
 Investigative Direction: Ask whether the journals and notepad left on the desk have been preserved and whether any were examined by investigators.
@@ -1148,7 +1148,7 @@ Claim: The host says she is told that Erika Kirk's initial speech, in which she 
 Transcript Snippet: which was written in large part by Blake Neff, by the way, I'm told.
 
 Anchored Artifacts: A-2936.1
-Mentions: N-3, N-2, N-161
+Mentions: N-3, N-2, N-160
 Related Nodes: N-10000
 Tags: relevance:core
 Investigative Direction: Identify the host's source for Neff's authorship and compare the speech text with Neff's known writing and any drafts shared with TPUSA staff.
@@ -1196,7 +1196,7 @@ Claim: The host says it would be much more likely that Stacy Sheridan, rather th
 Transcript Snippet: it would be much more likely that Stacy Sheridan would have added that picture to the background.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-188
+Mentions: N-3, N-2, N-187
 Related Nodes: N-10506
 Tags: relevance:context
 Investigative Direction: Ask the production staff for the Beck interview who set up the home office and whether any items were added or removed.
@@ -1324,7 +1324,7 @@ Claim: The host says Fox News used a lot of cuts in the interview in which Jesse
 Transcript Snippet: Fox News had to use a lot of cuts.
 
 Anchored Artifacts: A-1775.2
-Mentions: N-3, N-2, N-213
+Mentions: N-3, N-2, N-212
 Related Nodes: N-10006
 Tags: relevance:core
 Investigative Direction: Obtain the uncut Fox News interview footage or ask Fox for the unedited transcript of the answer.
@@ -1482,7 +1482,7 @@ Claim: In the clip, Glenn Beck says to Erika Kirk that he knows she and Charlie 
 Transcript Snippet: I know you two had met with your priest uh the night before
 
 Anchored Artifacts: A-1774.2
-Mentions: N-239, N-2, N-1
+Mentions: N-238, N-2, N-1
 Related Nodes: N-10509
 Tags: relevance:core
 Investigative Direction: Ask Beck's team where the priest meeting detail came from and whether Erika's staff briefed it.
@@ -1498,7 +1498,7 @@ Claim: In the Beck clip, Erika Kirk says she has unbelievable amounts of death t
 Transcript Snippet: unbelievable amounts of death threats. My kids have kidnapping threats, death threats. Our whole team has death threats.
 
 Anchored Artifacts: A-1774.2
-Mentions: N-2, N-239
+Mentions: N-2, N-238
 Tags: relevance:context
 Investigative Direction: Request threat assessment records and law enforcement reports on threats against the Kirk family and TPUSA staff.
 
@@ -1513,7 +1513,7 @@ Claim: In the Beck clip, Erika Kirk says that the night before they did what the
 Transcript Snippet: that night before we did what we usually did before tours, we said our prayer and we asked the Lord to protect us
 
 Anchored Artifacts: A-1774.2
-Mentions: N-2, N-239, N-1
+Mentions: N-2, N-238, N-1
 Related Nodes: N-10509
 Tags: relevance:context
 Investigative Direction: Compare with the priest's account of whether the prayer was a standard pre-tour practice.
@@ -1529,7 +1529,7 @@ Claim: The host says that although she has been told the missing messages are ex
 Transcript Snippet: Not true. Dan Flood messaged on iMessage. So who deleted it?
 
 Anchored Artifacts: A-1774.2
-Mentions: N-3, N-272, N-2
+Mentions: N-3, N-271, N-2
 Related Nodes: N-10470, N-10320
 Tags: relevance:core
 Investigative Direction: Obtain the carrier and iCloud records for Dan Flood's iMessage thread with Charlie Kirk.
@@ -1576,7 +1576,7 @@ Claim: The host says Carrie Prejean Bowler stood up at the Religious Liberty Com
 Transcript Snippet: This is unacceptable. This hearing is unacceptable.
 
 Anchored Artifacts: A-1776.1
-Mentions: N-3, N-556
+Mentions: N-3, N-555
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Obtain the full hearing recording and transcript to see how the exchange began.
@@ -1608,7 +1608,7 @@ Claim: In the hearing clip, Carrie Prejean Bowler asks the rabbi whether all Cat
 Transcript Snippet: So, is are all Catholics anti-semites according to you?
 
 Anchored Artifacts: A-1776.2
-Mentions: N-556
+Mentions: N-555
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Obtain the full hearing recording to confirm the question and the answer given.
@@ -1654,7 +1654,7 @@ Claim: The host says Carrie Prejean Bowler's removal was announced on X after Zi
 Transcript Snippet: it was announced on X after Zionists demanded she be removed.
 
 Anchored Artifacts: A-1777.1
-Mentions: N-3, N-556
+Mentions: N-3, N-555
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Identify who, if anyone, publicly called for her removal before Dan Patrick's announcement.
@@ -1686,7 +1686,7 @@ Claim: In Dan Patrick's X post, as read by the host, no member of the commission
 Transcript Snippet: No member of the commission has the right to hijack a hearing for their own personal and political agenda on any issue.
 
 Anchored Artifacts: A-1777.1
-Mentions: N-564
+Mentions: N-563
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Capture the original post and compare the full text with the host's reading.
@@ -1702,7 +1702,7 @@ Claim: Dan Patrick's post, as read by the host, says the hijacking happened on M
 Transcript Snippet: This is clearly without question what happened on Monday in our hearing on anti-semitism in America. This was my decision.
 
 Anchored Artifacts: A-1777.1
-Mentions: N-564, N-556
+Mentions: N-563, N-555
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Identify the hearing date and confirm whether the White House or Patrick formally made the removal.
@@ -1718,7 +1718,7 @@ Claim: The host alleges that Dan Patrick is taking a ton of money from Zionists 
 Transcript Snippet: Yeah. I know you're taking a ton of money from Zionist.
 
 Anchored Artifacts: A-1777.1
-Mentions: N-3, N-564
+Mentions: N-3, N-563
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Review Texas Ethics Commission and FEC contribution records for Dan Patrick; the host cites no source on air.
@@ -1734,7 +1734,7 @@ Claim: Dan Patrick's post, as read by the host, says the commission has done out
 Transcript Snippet: The commission has done outstanding work through five hearings. Two more are scheduled.
 
 Anchored Artifacts: A-1777.1
-Mentions: N-564
+Mentions: N-563
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Check the commission's published hearing schedule for the five held and two scheduled sessions.
@@ -1799,7 +1799,7 @@ Claim: Per the informants, a lot of the attendees were fans of Bad Bunny and wer
 Transcript Snippet: a lot of them were fans of Bad Bunny and they were certain it was not going to rival that performance.
 
 Anchored Artifacts: A-1778.1
-Mentions: N-3, N-808
+Mentions: N-3, N-807
 Related Nodes: N-10510, N-10499
 Tags: relevance:context
 Investigative Direction: Compare the TPUSA broadcast viewership figures with the Bad Bunny halftime show audience.
@@ -1863,7 +1863,7 @@ Claim: Per the informants, they waited the longest for Kid Rock, while Gabby Bar
 Transcript Snippet: They waited the longest for Kid Rock.
 
 Anchored Artifacts: A-1778.1
-Mentions: N-3, N-807
+Mentions: N-3, N-806
 Related Nodes: N-10510
 Tags: relevance:context
 Investigative Direction: Request artist call times from the production.
@@ -1879,8 +1879,8 @@ Claim: Per the informants, a producer named Matt tried to get the crowd hyped by
 Transcript Snippet: There's a little birdie that told us that Trump is going to be watching our halftime show.
 
 Anchored Artifacts: A-1778.1
-Mentions: N-3, N-5, N-565
-Related Nodes: N-565, N-10510
+Mentions: N-3, N-5, N-564
+Related Nodes: N-564, N-10510
 Tags: relevance:context
 Investigative Direction: Identify the producer Matt and ask TPUSA what basis there was for the statement about Trump watching.
 
@@ -1895,8 +1895,8 @@ Claim: Per the informants, the producer also told them the TPUSA show was going 
 Transcript Snippet: he also said to them that this is going to get more views than the Bad Bunny halftime show.
 
 Anchored Artifacts: A-1778.1, A-1779.1
-Mentions: N-3, N-565, N-808
-Related Nodes: N-565, N-10499, N-10510
+Mentions: N-3, N-564, N-807
+Related Nodes: N-564, N-10499, N-10510
 Tags: relevance:context
 Investigative Direction: Compare official viewership numbers for both programs when they are published.
 
@@ -1911,7 +1911,7 @@ Claim: Per the informants, Turning Point USA covered their hotel rooms but place
 Transcript Snippet: Turning Point did cover their hotel rooms, but they were placed with a random person.
 
 Anchored Artifacts: A-1778.1
-Mentions: N-3, N-807
+Mentions: N-3, N-806
 Related Nodes: N-10000, N-10510
 Tags: relevance:context
 Investigative Direction: Request hotel block records for the event from TPUSA or the hotel.
@@ -1958,7 +1958,7 @@ Claim: Responding to a viewer comment, the host says she had Milo Yiannopoulos o
 Transcript Snippet: I had him on the show recently.
 
 Anchored Artifacts: A-2934.1
-Mentions: N-3, N-222, N-9
+Mentions: N-3, N-221, N-9
 Tags: relevance:tangential
 Investigative Direction: Locate the episode featuring Milo Yiannopoulos and check what was said about the Epstein files.
 
@@ -1973,7 +1973,7 @@ Claim: Discussing a viewer comment about the abduction of Savannah Guthrie's mot
 Transcript Snippet: I'm referring to that same uh, storyline of TMZ somehow gets the tape.
 
 Anchored Artifacts: A-2934.1
-Mentions: N-3, N-806, N-69
+Mentions: N-3, N-805, N-69
 Related Nodes: N-11187, N-10011
 Tags: relevance:context
 Investigative Direction: Establish how the tape reached TMZ and what the FBI director's travel to Arizona was for.
@@ -1989,7 +1989,7 @@ Claim: Discussing the abduction of Savannah Guthrie's mother, the host says that
 Transcript Snippet: I would check out those Native American reservations because the feds do deals with them and nothing good goes on.
 
 Anchored Artifacts: A-2934.1
-Mentions: N-3, N-806, N-9
+Mentions: N-3, N-805, N-9
 Related Nodes: N-11187
 Tags: relevance:tangential
 Investigative Direction: No source is cited on air; the host says 'don't quote me on that' about the reservation boundary.
@@ -2005,7 +2005,7 @@ Claim: The host says that something about the Guthrie case does not feel right a
 Transcript Snippet: And I do think that part of it was to distract us.
 
 Anchored Artifacts: A-2934.1
-Mentions: N-3, N-806
+Mentions: N-3, N-805
 Related Nodes: N-11187
 Tags: relevance:tangential
 Investigative Direction: Compare coverage volume of the Guthrie case with coverage of the Kirk case during the same period.
@@ -2021,7 +2021,7 @@ Claim: After reading a viewer comment alleging Erika Kirk had an inappropriate r
 Transcript Snippet: I did look into that. I I watched Baron Coleman's episode and made some contact.
 
 Anchored Artifacts: A-2934.2
-Mentions: N-3, N-2, N-332
+Mentions: N-3, N-2, N-331
 Tags: relevance:core
 Investigative Direction: The allegation is a viewer comment read on air and is unverified; seek documentary evidence before treating it as established.
 
@@ -2051,7 +2051,7 @@ Claim: Reading a viewer comment, the host agrees that the hearing audience booed
 Transcript Snippet: Yeah, they literally did. And then she got fired, but they're the victims.
 
 Anchored Artifacts: A-2934.4, A-1776.2
-Mentions: N-3, N-556
+Mentions: N-3, N-555
 Related Nodes: N-11188
 Tags: relevance:context
 Investigative Direction: Review the hearing video to confirm the booing and its timing.

@@ -149,7 +149,7 @@ You can find it at nimiskincare. com. And if you want to try it, you can use my 
 
 [28:57]
 
-Again, that's puretalk. com/owens. Someone in the comments just noted, and I don't know if this is right, but if it is, please do send us an email to more tips@candaceowens. com. They said actually they heard first from Amir Safadi, um, or Amir Sarfati, I think is his name. And I know that he's very much involved in the churches and pastors and all with all of these people. So, if that is true, um, and you have evidence of that, please send it over to us. We'd like to plot it on our timeline. That would be interesting cuz I think he is in the IDF.
+Again, that's puretalk. com/owens. Someone in the comments just noted, and I don't know if this is right, but if it is, please do send us an email to more tips@candaceowens. com. They said actually they heard first from Amir Tsarfati, um, or Amir Tsarfati, I think is his name. And I know that he's very much involved in the churches and pastors and all with all of these people. So, if that is true, um, and you have evidence of that, please send it over to us. We'd like to plot it on our timeline. That would be interesting cuz I think he is in the IDF.
 
 ## Victor Marx response and the IDF allegations.
 

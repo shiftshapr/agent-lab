@@ -355,7 +355,7 @@
           "related_nodes": [
             "N-2",
             "N-3",
-            "N-508"
+            "N-507"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -460,7 +460,7 @@
           "related_nodes": [
             "N-3",
             "N-18",
-            "N-270"
+            "N-269"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -482,7 +482,7 @@
           "related_nodes": [
             "N-3",
             "N-18",
-            "N-751"
+            "N-750"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -810,8 +810,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-261",
-      "ref": "N-261",
+      "@id": "N-260",
+      "ref": "N-260",
       "name": "Steven Crowder",
       "type": "person",
       "description": "Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives; producer sneak-in for Wilson debate recalled.",
@@ -832,8 +832,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-563",
-      "ref": "N-563",
+      "@id": "N-562",
+      "ref": "N-562",
       "name": "Rachel Wilson",
       "type": "person",
       "description": "First named by the host at 00:39:29 in episode 140.",
@@ -945,8 +945,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Named (transcript spelling Blake Neff) as retweeting Wilson.",
@@ -962,8 +962,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-206",
-      "ref": "N-206",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Named in the host's account of her unpaid annual debates.",
@@ -979,8 +979,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-239",
-      "ref": "N-239",
+      "@id": "N-238",
+      "ref": "N-238",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Named as the host of Erika Kirk's December interview in which she said she had Charlie's phone.",
@@ -997,8 +997,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-270",
-      "ref": "N-270",
+      "@id": "N-269",
+      "ref": "N-269",
       "name": "Joe Rogan",
       "type": "person",
       "description": "Named in the account of the Texas hosting offer.",
@@ -1014,8 +1014,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Dan Flood",
       "type": "person",
       "description": "Named as the source the host believes sent the message and who allegedly did not tell Erika.",
@@ -1031,8 +1031,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Named as the office to which the host says she handed the Foreign Legion threat information.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-508",
-      "ref": "N-508",
+      "@id": "N-507",
+      "ref": "N-507",
       "name": "Christopher Bagley",
       "type": "person",
       "description": "Officer named in the played Q&A about the body cam and the screwdriver.",
@@ -1287,8 +1287,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-751",
-      "ref": "N-751",
+      "@id": "N-750",
+      "ref": "N-750",
       "name": "Gerald Morgan",
       "type": "person",
       "description": "First named by the host at 00:13:18 in episode 141. Named as the person from Steven Crowder's team whom Wilson brought and who did a live call-in from the host's children's playroom.",
@@ -1497,7 +1497,7 @@
       "investigative_direction": "Identify any further post-debate coordination between Crowder's organization and Wilson; verify whether the hair/makeup assertion contradicts the published terms of the debate.",
       "mentions_person_refs": [
         "N-18",
-        "N-261"
+        "N-260"
       ]
     },
     {
@@ -1533,7 +1533,7 @@
       "mentions_person_refs": [
         "N-18",
         "N-3",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -1551,7 +1551,7 @@
       "investigative_direction": "Retrieve the full text of Rachel Wilson's X post; verify against published debate technical setup, including Candace Owens's claim that the earpieces had a 15-foot operational range and could not extend outside the control room.",
       "mentions_person_refs": [
         "N-3",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -1781,7 +1781,7 @@
       "transcript_snippet": "Joe Rogan has now made an offer to host this discussion down in Texas.",
       "mentions_person_refs": [
         "N-3",
-        "N-270"
+        "N-269"
       ]
     },
     {
@@ -1984,8 +1984,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-18",
-        "N-261",
-        "N-751"
+        "N-260",
+        "N-750"
       ]
     },
     {
@@ -2023,7 +2023,7 @@
       "transcript_snippet": "Gerald decided to do a live callin from my kids' playroom just outside the studio.",
       "mentions_person_refs": [
         "N-3",
-        "N-751"
+        "N-750"
       ]
     },
     {
@@ -2040,7 +2040,7 @@
       "transcript_snippet": "when he was caught on a doorbell cam berating his eight-month pregnant now ex-wife when she was pregnant with twins.",
       "mentions_person_refs": [
         "N-3",
-        "N-261"
+        "N-260"
       ]
     },
     {
@@ -2061,7 +2061,7 @@
       "transcript_snippet": "one thing the contract did stipulate was no filming outside of this studio.",
       "mentions_person_refs": [
         "N-3",
-        "N-751"
+        "N-750"
       ]
     },
     {
@@ -2193,7 +2193,7 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-239",
+        "N-238",
         "N-18"
       ]
     },
@@ -2212,7 +2212,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-239"
+        "N-238"
       ]
     },
     {
@@ -2232,7 +2232,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-272",
+        "N-271",
         "N-14"
       ]
     },
@@ -2374,7 +2374,7 @@
       "transcript_snippet": "I handed over that information to Tulsi Gabbard's office.",
       "mentions_person_refs": [
         "N-3",
-        "N-331"
+        "N-330"
       ]
     },
     {
@@ -2498,7 +2498,7 @@
       "transcript_snippet": "It's at least plausible that the the uh screwdriver was planted.",
       "mentions_person_refs": [
         "N-3",
-        "N-508"
+        "N-507"
       ]
     },
     {
@@ -2522,7 +2522,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-508"
+        "N-507"
       ]
     },
     {
@@ -2932,7 +2932,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-18",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -2954,7 +2954,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-18",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -2972,7 +2972,7 @@
       "investigative_direction": "Identify the speaker and confirm the recording's date and provenance.",
       "transcript_snippet": "Cuz she has a full stylist and makeup crew.",
       "mentions_person_refs": [
-        "N-261",
+        "N-260",
         "N-18",
         "N-3"
       ]
@@ -2997,7 +2997,7 @@
         "N-3",
         "N-18",
         "N-57",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -3019,7 +3019,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-261"
+        "N-260"
       ]
     },
     {
@@ -3081,7 +3081,7 @@
       "transcript_snippet": "Blake Neff and Andrew Kvette were retweeting him as he was going after me and offering more and more money.",
       "mentions_person_refs": [
         "N-3",
-        "N-161",
+        "N-160",
         "N-14",
         "N-18"
       ]
@@ -3100,7 +3100,7 @@
       "transcript_snippet": "Always do my annual debates with Piers Morgan.",
       "mentions_person_refs": [
         "N-3",
-        "N-206"
+        "N-205"
       ]
     },
     {
@@ -3171,7 +3171,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-18",
-        "N-563"
+        "N-562"
       ]
     },
     {
@@ -3233,7 +3233,7 @@
       "transcript_snippet": "I literally have never met Steven Crowder.",
       "mentions_person_refs": [
         "N-3",
-        "N-261"
+        "N-260"
       ]
     },
     {

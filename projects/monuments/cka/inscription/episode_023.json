@@ -32,7 +32,7 @@
           "related_nodes": [
             "N-1",
             "N-17",
-            "N-207",
+            "N-206",
             "N-10207"
           ],
           "tags": [],
@@ -52,7 +52,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-207",
+            "N-206",
             "N-10207"
           ],
           "tags": [],
@@ -72,7 +72,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-207",
+            "N-206",
             "N-10207"
           ],
           "tags": [],
@@ -93,7 +93,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-192",
+            "N-191",
             "N-10207",
             "N-10211"
           ],
@@ -220,7 +220,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-207",
+            "N-206",
             "N-10208"
           ],
           "tags": [],
@@ -306,7 +306,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-192",
+            "N-191",
             "N-10211"
           ],
           "tags": [],
@@ -333,7 +333,7 @@
             "C-1547"
           ],
           "related_nodes": [
-            "N-192",
+            "N-191",
             "N-10212"
           ],
           "tags": [],
@@ -360,7 +360,7 @@
             "C-1549"
           ],
           "related_nodes": [
-            "N-207",
+            "N-206",
             "N-10209",
             "N-10214"
           ],
@@ -406,7 +406,7 @@
             "C-1564"
           ],
           "related_nodes": [
-            "N-210",
+            "N-209",
             "N-10209"
           ],
           "tags": [],
@@ -460,7 +460,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-207",
+            "N-206",
             "N-10209"
           ],
           "tags": [],
@@ -508,7 +508,7 @@
           ],
           "related_nodes": [
             "N-17",
-            "N-207",
+            "N-206",
             "N-66",
             "N-10209",
             "N-10210"
@@ -537,7 +537,7 @@
             "C-1558"
           ],
           "related_nodes": [
-            "N-209",
+            "N-208",
             "N-10214"
           ],
           "tags": [],
@@ -908,15 +908,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-207",
+        "N-206",
         "N-10209",
         "N-10213"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Promoted to Chief of Staff of TPUSA on January 3, 2024 per host's referenced internal email; host reports TPUSA insiders describe him as positioned to take over from Charlie Kirk.",
@@ -939,8 +939,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-207",
-      "ref": "N-207",
+      "@id": "N-206",
+      "ref": "N-206",
       "name": "Sean Feucht",
       "type": "person",
       "description": "TPUSA Faith contributor and Kingdom to the Capital Tour leader; subject of June 2025 article detailing fraud, embezzlement, and financial mismanagement allegations; reported to be planning a \"Courageous Christianity Tour\" with Rob McCoy honoring Charlie.",
@@ -1033,7 +1033,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-207",
+        "N-206",
         "N-10210"
       ]
     },
@@ -1064,8 +1064,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-209",
-      "ref": "N-209",
+      "@id": "N-208",
+      "ref": "N-208",
       "name": "Joel Osteen",
       "type": "person",
       "description": "Pastor of referenced megachurch; used as comparative context in the host's broader cash / mega-church money-flow argument.",
@@ -1086,8 +1086,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-210",
-      "ref": "N-210",
+      "@id": "N-209",
+      "ref": "N-209",
       "name": "Jack Hibbs",
       "type": "person",
       "description": "Pastor identified by host as having been previously pushed to her by PragerU; subject of a live-chat comment criticizing his silence on Charlie Kirk.",
@@ -1108,8 +1108,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-211",
-      "ref": "N-211",
+      "@id": "N-210",
+      "ref": "N-210",
       "name": "Joe Kent",
       "type": "person",
       "description": "Named by host as a potential recipient of the public call to pull flight manifests.",
@@ -1160,8 +1160,8 @@
       "related_nodes": [
         "N-1",
         "N-17",
-        "N-207",
-        "N-211"
+        "N-206",
+        "N-210"
       ]
     },
     {
@@ -1189,7 +1189,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -1225,12 +1225,12 @@
       "related_nodes": [
         "N-1",
         "N-17",
-        "N-207",
+        "N-206",
         "N-41",
         "N-22",
         "N-14",
         "N-36",
-        "N-210",
+        "N-209",
         "N-10210",
         "N-10212"
       ]
@@ -1254,7 +1254,7 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-207",
+        "N-206",
         "N-66",
         "N-10209"
       ]
@@ -1282,7 +1282,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-1",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -1305,7 +1305,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-192",
+        "N-191",
         "N-10209",
         "N-10214"
       ]
@@ -1354,8 +1354,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-207",
-        "N-209",
+        "N-206",
+        "N-208",
         "N-10212"
       ]
     },
@@ -1624,8 +1624,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-169",
-      "ref": "N-169",
+      "@id": "N-168",
+      "ref": "N-168",
       "name": "James O'Keefe",
       "type": "person",
       "description": "Project Veritas founder the host says was ousted in a takeover Kirk backed.",
@@ -1643,8 +1643,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-195",
-      "ref": "N-195",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "David Horowitz",
       "type": "person",
       "description": "Founder of the Freedom Center where the host, Kirk and O'Keefe met.",
@@ -1660,8 +1660,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-201",
-      "ref": "N-201",
+      "@id": "N-200",
+      "ref": "N-200",
       "name": "Norman Finkelstein",
       "type": "person",
       "description": "Interview guest announced for release after this episode.",
@@ -1678,8 +1678,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-203",
-      "ref": "N-203",
+      "@id": "N-202",
+      "ref": "N-202",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Named in the host's 2024 backstage exchange with Bowyer about a debate.",
@@ -1695,8 +1695,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-230",
-      "ref": "N-230",
+      "@id": "N-229",
+      "ref": "N-229",
       "name": "Lila Rose",
       "type": "person",
       "description": "One of the guests the host says PragerU wanted her to platform.",
@@ -1712,8 +1712,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-327",
-      "ref": "N-327",
+      "@id": "N-326",
+      "ref": "N-326",
       "name": "Tim Ballard",
       "type": "person",
       "description": "One of the guests the host says PragerU wanted her to platform.",
@@ -1729,8 +1729,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-331",
-      "ref": "N-331",
+      "@id": "N-330",
+      "ref": "N-330",
       "name": "Tulsi Gabbard",
       "type": "person",
       "description": "Named by the host as able to pull the plane manifests.",
@@ -1746,8 +1746,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-713",
-      "ref": "N-713",
+      "@id": "N-712",
+      "ref": "N-712",
       "name": "Volodymyr Zelensky",
       "type": "person",
       "description": "Subject of Kirk's 2023 corruption accusations per the host.",
@@ -2283,8 +2283,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-911",
-      "ref": "N-911",
+      "@id": "N-910",
+      "ref": "N-910",
       "name": "Che Ahn",
       "type": "person",
       "description": "First named by the host at 00:11:43 in episode 23. NAR apostle whose prayer rallies the host reads that Sean Feucht took part in.",
@@ -2300,8 +2300,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-912",
-      "ref": "N-912",
+      "@id": "N-911",
+      "ref": "N-911",
       "name": "Dan Gertler",
       "type": "person",
       "description": "First named by the host at 00:52:25 in episode 23. Named by the host as the Israeli link in Congo and the diamond trade.",
@@ -2457,7 +2457,7 @@
       "claim_timestamp": "00:19:50",
       "investigative_direction": "Obtain the referenced internal TPUSA email through open-source verification or insider corroboration; cross-check TPUSA organizational filings and HR records.",
       "mentions_person_refs": [
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -2497,7 +2497,7 @@
       "claim_timestamp": "00:26:47",
       "investigative_direction": "Retrieve the cited article directly; confirm each enumerated allegation against underlying source documents and any subsequent legal filings.",
       "mentions_person_refs": [
-        "N-207"
+        "N-206"
       ]
     },
     {
@@ -2658,7 +2658,7 @@
       "claim_timestamp": "00:28:45",
       "investigative_direction": "Retrieve the underlying news article; verify the exact amount, date, and Osteen's official response.",
       "mentions_person_refs": [
-        "N-209"
+        "N-208"
       ]
     },
     {
@@ -2780,7 +2780,7 @@
       "claim_timestamp": "00:59:11",
       "investigative_direction": "Verify each named pastor / figure's public silence or statements in the period following September 10, 2025.",
       "mentions_person_refs": [
-        "N-210",
+        "N-209",
         "N-1"
       ]
     },
@@ -2801,7 +2801,7 @@
       "investigative_direction": "Verify the existence and details of any announced \"Courageous Christianity Tour\" through TPUSA Faith announcements, ticketing sites, or insider confirmations.",
       "mentions_person_refs": [
         "N-17",
-        "N-207",
+        "N-206",
         "N-1"
       ]
     },
@@ -2823,7 +2823,7 @@
       "investigative_direction": "Pull and analyze Village Crazy Lady's pinned NAR research thread; cross-check Sean Feucht's biographical and ministry affiliations against NAR church networks and apostle affiliations.",
       "mentions_person_refs": [
         "N-66",
-        "N-207",
+        "N-206",
         "N-17"
       ]
     },
@@ -3137,7 +3137,7 @@
       "transcript_snippet": "He's accusing Ukraine and Zelenskyy of corruption, of financial fraud, of money laundering.",
       "mentions_person_refs": [
         "N-1",
-        "N-713",
+        "N-712",
         "N-3"
       ]
     },
@@ -3184,7 +3184,7 @@
       "investigative_direction": "Compare Project Veritas board and donor changes in early 2023 with TPUSA donor and board records to test for overlapping individuals.",
       "transcript_snippet": "because the same people that infiltrated or hostilely took over James O'Keefe were involved with Turning Point USA.",
       "mentions_person_refs": [
-        "N-169",
+        "N-168",
         "N-3"
       ]
     },
@@ -3203,10 +3203,10 @@
       "investigative_direction": "Locate the Horowitz Freedom Center event and its date through event programs or the host's earlier episode on it.",
       "transcript_snippet": "he and Charlie and myself all met at the same time in November, that David Horowitz Freedom Center event that I was telling you about.",
       "mentions_person_refs": [
-        "N-169",
+        "N-168",
         "N-1",
         "N-3",
-        "N-195"
+        "N-194"
       ]
     },
     {
@@ -3228,7 +3228,7 @@
       "investigative_direction": "Find Kirk's public statement on the Project Veritas leadership change and its date.",
       "transcript_snippet": "James O'Keefe gets pushed out. He's ousted from the board of his own company and Charlie publicly announces his support",
       "mentions_person_refs": [
-        "N-169",
+        "N-168",
         "N-1",
         "N-3"
       ]
@@ -3252,7 +3252,7 @@
       "investigative_direction": "Retrieve the TPUSA Faith announcement of Feucht's role and its date.",
       "transcript_snippet": "named Sean Feucht, I believe I'm saying that correctly, Sean Feucht, is announced as the Turning Point USA Faith Contributor.",
       "mentions_person_refs": [
-        "N-207",
+        "N-206",
         "N-3"
       ]
     },
@@ -3273,7 +3273,7 @@
       "investigative_direction": "Find Feucht's denial video and compare the cheering man in crowd footage against Feucht's whereabouts on September 10, 2025.",
       "transcript_snippet": "many people emailed us after Charlie's um assassination and they thought Sean Feucht was the guy that was standing and cheering",
       "mentions_person_refs": [
-        "N-207",
+        "N-206",
         "N-3"
       ]
     },
@@ -3294,7 +3294,7 @@
       "investigative_direction": "Check Feucht's Wikipedia entry and published biographies for the birthplace and parent details.",
       "transcript_snippet": "So, look him up on his biography and it tells us that he was born in Montana. He's a son of a dermatologist.",
       "mentions_person_refs": [
-        "N-207"
+        "N-206"
       ]
     },
     {
@@ -3320,8 +3320,8 @@
         "C-1566"
       ],
       "mentions_person_refs": [
-        "N-207",
-        "N-911"
+        "N-206",
+        "N-910"
       ]
     },
     {
@@ -3344,7 +3344,7 @@
       "investigative_direction": "Retrieve the tour announcement and event calendar; the tour is commonly styled 'Kingdom to the Capitol'.",
       "transcript_snippet": "February 28th, Sean Feucht announce it's announced that he's going to be heading up the Kingdom of the Capital Tour.",
       "mentions_person_refs": [
-        "N-207"
+        "N-206"
       ]
     },
     {
@@ -3369,7 +3369,7 @@
       "investigative_direction": "Confirm the date, city and venue of the first Kingdom tour stop and compare with the SUBND and SUBTT St. Louis arrivals.",
       "transcript_snippet": "that plane gets to St. Louis Missouri and sure enough, Sean Feucht is there. TPUSA Faith is there.",
       "mentions_person_refs": [
-        "N-207"
+        "N-206"
       ]
     },
     {
@@ -3543,7 +3543,7 @@
       "transcript_snippet": "April 2nd, TPUSA Faith, co-chaired by Rob McCoy, kicks off their tour with an event headed by Sean Feucht in Jefferson City, Missouri.",
       "mentions_person_refs": [
         "N-17",
-        "N-207"
+        "N-206"
       ]
     },
     {
@@ -3592,7 +3592,7 @@
       "investigative_direction": "Confirm the Topeka event date and compare with SUBTT's Kansas landing and stay.",
       "transcript_snippet": "And on April 23rd, Sean Feucht heads up the TPUSA Faith Kingdom to the Capital Tour event, which happens to be in Topeka, Kansas.",
       "mentions_person_refs": [
-        "N-207"
+        "N-206"
       ]
     },
     {
@@ -3640,7 +3640,7 @@
       "transcript_snippet": "I did not know that, so this has to be the year that they got super involved because I'm going to do my last speech for them in June of 2024.",
       "mentions_person_refs": [
         "N-3",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -3819,8 +3819,8 @@
       "investigative_direction": "Ask ODNI and the FBI whether manifest requests for SU-BTT and SU-BND were made and what was provided.",
       "transcript_snippet": "as the public figured out being blocked from Kash Patel, you should be able to look into these flights and see who is on these manifests",
       "mentions_person_refs": [
-        "N-331",
-        "N-211",
+        "N-330",
+        "N-210",
         "N-69"
       ]
     },
@@ -3846,7 +3846,7 @@
         "C-1549"
       ],
       "mentions_person_refs": [
-        "N-207"
+        "N-206"
       ]
     },
     {
@@ -3973,7 +3973,7 @@
       "mentions_person_refs": [
         "N-11",
         "N-3",
-        "N-203",
+        "N-202",
         "N-1"
       ]
     },
@@ -4357,7 +4357,7 @@
       "investigative_direction": "Compare with Mikey McCoy's own accounts of where he and his wife were on September 10.",
       "transcript_snippet": "I don't know what Mikey McCoy's wife's name I think she said she was there. Mikey McCoy was there.",
       "mentions_person_refs": [
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -4378,7 +4378,7 @@
       "investigative_direction": "Find TPUSA staff willing to describe succession planning for Mikey McCoy and compare with internal org charts.",
       "transcript_snippet": "and they felt that Mikey McCoy was kind of being positioned to take over for Charlie Kirk.",
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-1"
       ]
     },
@@ -4593,7 +4593,7 @@
       "transcript_snippet": "They'll be like, \"Well, look at what the Christians are being slaughtered in Congo.\" Oopsies, Dan Gertler.",
       "mentions_person_refs": [
         "N-3",
-        "N-912"
+        "N-911"
       ]
     },
     {
@@ -4738,7 +4738,7 @@
       "investigative_direction": "Find PragerU's outreach to the host and any interview of Hibbs.",
       "transcript_snippet": "He was another person that PragerU was pushing to me. Uh wanted me to interview him.",
       "mentions_person_refs": [
-        "N-210",
+        "N-209",
         "N-3"
       ]
     },
@@ -4759,7 +4759,7 @@
       "investigative_direction": "Check TPUSA Faith event rosters for Hibbs appearances.",
       "transcript_snippet": "So, Jack Hibbs was also a part of like a Turning Point USA Faith events, and I am looking at Turning Point USA Faith sideways.",
       "mentions_person_refs": [
-        "N-210"
+        "N-209"
       ]
     },
     {
@@ -4780,9 +4780,9 @@
       "transcript_snippet": "I look back on that stuff, and I'm reflecting, and I realize that, like I said, I had handlers, and they were directing me to do things",
       "mentions_person_refs": [
         "N-3",
-        "N-230",
-        "N-210",
-        "N-327"
+        "N-229",
+        "N-209",
+        "N-326"
       ]
     },
     {
@@ -4805,9 +4805,9 @@
         "C-1549"
       ],
       "mentions_person_refs": [
-        "N-207",
+        "N-206",
         "N-17",
-        "N-210"
+        "N-209"
       ]
     },
     {
@@ -4848,7 +4848,7 @@
         "C-9446"
       ],
       "mentions_person_refs": [
-        "N-201",
+        "N-200",
         "N-3"
       ]
     },
@@ -4869,7 +4869,7 @@
       "investigative_direction": "Not testable from this episode; it is the host's characterization of Gaza.",
       "transcript_snippet": "It has been an effective holocaust since 1948 uh by the legal definition of a holocaust, which Norman Finkelstein will explain better than I do.",
       "mentions_person_refs": [
-        "N-201",
+        "N-200",
         "N-3"
       ]
     }

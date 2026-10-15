@@ -11,19 +11,19 @@
 - **Transcript SHA-256**: 0fb4e3ded28d3185653763304cd5207553aba7096b0c1f6c7d7d26295daa5ee4
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10): N-715, N-716, N-11015
-  - Hole-minted Nodes (reintro-ep040): N-377, N-500, N-10387, N-10683
+  - Tip-minted Nodes (supplement_2026-10): N-714, N-715, N-11015
+  - Hole-minted Nodes (reintro-ep040): N-376, N-499, N-10387, N-10683
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10): C-5062–C-5146
-  - New Nodes Introduced: N-304, N-305, N-306, N-10307, N-10308
-  - Reused Nodes Appearing: N-7, N-14, N-17, N-27, N-39, N-55, N-60, N-68, N-71, N-82, N-169, N-192, N-226, N-268, N-379, N-10000, N-10012, N-10064, N-10078, N-10087, N-10100, N-10132, N-10162, N-10198, N-10213, N-10232, N-10248, N-10253, N-10270, N-10290, N-10294, N-10316, N-10482, N-10862, N-717, N-10434, N-10465, N-10311, N-10451, N-10628, N-11014, N-486, N-11013
+  - New Nodes Introduced: N-303, N-304, N-305, N-10307, N-10308
+  - Reused Nodes Appearing: N-7, N-14, N-17, N-27, N-39, N-55, N-60, N-68, N-71, N-82, N-168, N-191, N-225, N-267, N-378, N-10000, N-10012, N-10064, N-10078, N-10087, N-10100, N-10132, N-10162, N-10198, N-10213, N-10232, N-10248, N-10253, N-10270, N-10290, N-10294, N-10316, N-10482, N-10862, N-716, N-10434, N-10465, N-10311, N-10451, N-10628, N-11014, N-485, N-11013
   - (see registers), N-11
 
 # Episode 40 – Ledger Summary
 
 Artifact Families Introduced: A-1489, A-1490, A-1491, A-1492, A-1493
 Claim Range: C-1820–C-1830
-New Nodes Introduced:  N-304, N-305, N-306, N-10307, N-10308
+New Nodes Introduced:  N-303, N-304, N-305, N-10307, N-10308
 Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
 
 ---
@@ -68,7 +68,7 @@ Confidence Level: High
 
 Statement enumerates allegations (Mikey McCoy, foreign aircraft, security first aid, SD card removal, Tyler Bowyer, financial impropriety, "stranger allegations"); asserts Charlie personally reviewed and signed off on every bill; asserts TPUSA has never missed a 990 deadline; frames host's questions as "beneath contempt"; concludes with announcement of an upcoming Phoenix livestream and public invitation to the host.
 
-*Related: C-1820, C-1821, C-1822, C-1823, N-161, N-10307, N-11*
+*Related: C-1820, C-1821, C-1822, C-1823, N-160, N-10307, N-11*
 
 ---
 
@@ -84,7 +84,7 @@ Confidence Level: High
 
 Clip shows Cam Higby asking Pentagon press secretary Kingsley Wilson whether the Department of Defense has any evidence of a French military plot to assassinate Candace Owens; Wilson responds "not that I'm aware of" and suggests it may be more of a law enforcement matter. Self-introduction by Wilson confirms setting as Pentagon briefing room.
 
-*Related: C-1824, C-1825, N-304, N-305*
+*Related: C-1824, C-1825, N-303, N-304*
 
 ---
 
@@ -100,7 +100,7 @@ Confidence Level: High
 
 Interviewer questions The Game about a track titled "The Assassination of Candace Owens"; The Game states the song is not about Candace personally, that she "self-admitted" feeling people were conspiring against her, and that the title uses her as a metaphor about "assassination of the character."
 
-*Related: C-1826, C-1827, N-306*
+*Related: C-1826, C-1827, N-305*
 
 ---
 
@@ -190,7 +190,7 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 TPUSA-affiliated producer of the Charlie Kirk Show; delivered TPUSA's formal public response in this episode by video statement.
 
@@ -203,7 +203,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-304** Cam Higby
+**N-303** Cam Higby
 
 Pentagon-credentialed journalist who asked the press secretary about a French military plot to assassinate Candace Owens at the December 3 briefing.
 
@@ -216,7 +216,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-305** Kingsley Wilson
+**N-304** Kingsley Wilson
 
 Pentagon press secretary who answered Cam Higby's question at the December 3 briefing.
 
@@ -229,7 +229,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-306** The Game
+**N-305** The Game
 
 Rapper with an upcoming mixtape containing "The Assassination of Candace Owens" track.
 
@@ -264,7 +264,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-1489.1, C-1820, N-161*
+*Related: A-1489.1, C-1820, N-160*
 
 ---
 
@@ -522,7 +522,7 @@ Rob McCoy, pastor whose remarks and background the host discusses.
 
 ---
 
-**N-169** James O'Keefe
+**N-168** James O'Keefe
 
 James O'Keefe, named by the host among trusted Pentagon press corps additions.
 
@@ -530,7 +530,7 @@ James O'Keefe, named by the host among trusted Pentagon press corps additions.
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Mikey McCoy, subject of Neff's and the host's exchange about birth certificate, wife, and phone call.
 
@@ -546,7 +546,7 @@ Erika Kirk, discussed as a subject of aircraft movements and Charlie's alleged w
 
 ---
 
-**N-226** Shawn Ryan
+**N-225** Shawn Ryan
 
 Shawn Ryan, host of the interview in which Harpole discussed first aid.
 
@@ -562,7 +562,7 @@ Kanye West (Ye), described by the host as a friend.
 
 ---
 
-**N-268** Brian Harpole
+**N-267** Brian Harpole
 
 Brian Harpole, security figure whose Shawn Ryan statement is cited.
 
@@ -578,7 +578,7 @@ Host; speaks for herself throughout.
 
 ---
 
-**N-377** Ryan Reynolds
+**N-376** Ryan Reynolds
 
 Ryan Reynolds, named by the host with Blake Lively.
 
@@ -586,7 +586,7 @@ Ryan Reynolds, named by the host with Blake Lively.
 
 ---
 
-**N-379** Emmanuel Macron
+**N-378** Emmanuel Macron
 
 Emmanuel Macron, party to the September 10 call with Trump.
 
@@ -602,7 +602,7 @@ Dave Smith, whose debate invitation by Charlie the host says Loomer attacked.
 
 ---
 
-**N-486** Blake Lively
+**N-485** Blake Lively
 
 Blake Lively, named by the host among her prior investigations.
 
@@ -618,7 +618,7 @@ Donald Trump, party to the September 10 phone call with Macron per the host.
 
 ---
 
-**N-500** Phil Tourney
+**N-499** Phil Tourney
 
 Phil Tourney, USS Liberty interview guest the host praises.
 
@@ -674,7 +674,7 @@ Brigitte Macron, subject of the host's lawsuit and schedule-gap questions.
 
 ---
 
-**N-715** Kamala Harris
+**N-714** Kamala Harris
 
 First named by the host (as 'Camala') at 00:26:31 in episode 40.
 Aliases: Camala
@@ -683,7 +683,7 @@ Aliases: Camala
 
 ---
 
-**N-716** Russell Brand
+**N-715** Russell Brand
 
 First named by the host (as 'Russell Brandon') at 00:57:05 in episode 40.
 Aliases: Russell Brandon
@@ -692,7 +692,7 @@ Aliases: Russell Brandon
 
 ---
 
-**N-717** Chuck Smith
+**N-716** Chuck Smith
 
 First named by the host at 00:11:15 in episode 40, as the Calvary Chapel founder whose history she cites.
 
@@ -736,7 +736,7 @@ Claim Timestamp: 00:28:38–00:29:32
 Claim: TPUSA, via Blake Neff's video statement, announced a planned Phoenix livestream and extended a public invitation to the host to participate.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161
+Mentions: N-160
 Related Nodes: N-10307
 Investigative Direction: Confirm whether the livestream occurred, who attended, and which questions were answered; obtain recording or transcript.
 
@@ -749,7 +749,7 @@ Claim Timestamp: 00:14:49
 Claim: In the video statement, TPUSA asserted that Charlie personally reviewed and signed off on every expense report and every bill paid by the organization down to a single United States dollar.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161
+Mentions: N-160
 Investigative Direction: Cross-check against internal expense approval records and witness testimony; investigate Charlie's DOGE-related audit request as a separate counter-signal.
 
 ---
@@ -761,7 +761,7 @@ Claim Timestamp: 00:14:49
 Claim: In the video statement, TPUSA asserted that the organization has never missed a 990 filing deadline.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161
+Mentions: N-160
 Investigative Direction: Verify filing history against IRS Form 990 public records.
 
 ---
@@ -773,7 +773,7 @@ Claim Timestamp: 00:21:20–00:22:24
 Claim: In the video statement, TPUSA cited Charlie's "do not feed the trolls" rule and characterized the host's allegations as beneath contempt as justification for prior non-response.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161
+Mentions: N-160
 Investigative Direction: Obtain Charlie's documented communications on troll-handling policy; assess whether the rule was invoked consistently across other allegations.
 
 ---
@@ -785,7 +785,7 @@ Claim Timestamp: 00:41:49
 Claim: At the Pentagon briefing on December 3, newly-credentialed journalist Cam Higby asked Pentagon press secretary Kingsley Wilson whether the DoD has any evidence of a French military plot to assassinate Candace Owens.
 
 Anchored Artifacts: A-1490.1
-Mentions: N-304, N-305, N-3
+Mentions: N-303, N-304, N-3
 Investigative Direction: Confirm the briefing date and credentialing record; obtain full transcript of the briefing exchange.
 
 ---
@@ -797,7 +797,7 @@ Claim Timestamp: 00:43:00
 Claim: Pentagon press secretary Kingsley Wilson responded "not that I'm aware of" to the question of whether DoD had evidence of a French military plot to assassinate Candace Owens, and suggested it might be more of a law enforcement matter.
 
 Anchored Artifacts: A-1490.1
-Mentions: N-305, N-3
+Mentions: N-304, N-3
 Investigative Direction: Track any follow-up statement from DoD or law enforcement regarding the underlying allegation.
 
 ---
@@ -809,7 +809,7 @@ Claim Timestamp: 00:50:53–00:51:42
 Claim: The Game is releasing a mixtape that contains a track titled "The Assassination of Candace Owens."
 
 Anchored Artifacts: A-1491.1
-Mentions: N-306, N-3
+Mentions: N-305, N-3
 Investigative Direction: Verify the track listing against the released mixtape; obtain the song lyrics and release date.
 
 ---
@@ -821,7 +821,7 @@ Claim Timestamp: 00:51:42–00:52:23
 Claim: The Game stated in the interview that the song is not about Candace personally and that he used the title because she "self-admitted" feeling targeted, framing it as a metaphor about "assassination of the character."
 
 Anchored Artifacts: A-1491.1
-Mentions: N-306, N-3
+Mentions: N-305, N-3
 Investigative Direction: Confirm the artist's stated intent against the released song lyrics.
 
 ---
@@ -857,7 +857,7 @@ Claim Timestamp: 00:49:59
 Claim: Per host reference, Emmanuel Macron's public calendar records a phone call with Donald Trump at 6:45 PM French time (10:45 AM Utah time) on September 10, 2025.
 
 Anchored Artifacts: A-1493.1
-Mentions: N-5, N-379
+Mentions: N-5, N-378
 Related Nodes: N-10308
 Investigative Direction: Locate Macron's released public calendar; confirm the timestamp and any documented subject of the call.
 
@@ -903,7 +903,7 @@ Claim: The host says Blake Neff is the producer and a rotating on-air talent of 
 Transcript Snippet: Blake Neff, by the way, is the producer of the Charlie Kirk show.
 
 Anchored Artifacts: 
-Mentions: N-161, N-14, N-3
+Mentions: N-160, N-14, N-3
 Related Nodes: N-10000
 Investigative Direction: Check Blake Neff's and Andrew Kolvet's published TPUSA titles and roles on the Charlie Kirk Show.
 
@@ -918,7 +918,7 @@ Claim: The host says Blake Neff has been defending the actions of Mikey McCoy on
 Transcript Snippet: He's been the only person that has been responding in a way that feels even remotely authentic when he defends the actions of Mikey McCoy on that day.
 
 Anchored Artifacts: 
-Mentions: N-161, N-192, N-3
+Mentions: N-160, N-191, N-3
 Related Nodes: N-10198
 Investigative Direction: Collect Neff's prior public statements about McCoy's conduct on September 10 and compare them with this statement.
 
@@ -933,7 +933,7 @@ Claim: In the statement the host plays, Blake Neff says that Candace Owens sugge
 Transcript Snippet: She has suggested Michael is not his real name. It is I have seen his birth certificate myself.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161, N-192, N-3
+Mentions: N-160, N-191, N-3
 Investigative Direction: Ask TPUSA whether the birth certificate can be shown; trace where the name allegation first aired.
 
 ---
@@ -947,7 +947,7 @@ Claim: In the statement the host plays, Blake Neff says Mikey McCoy's wife works
 Transcript Snippet: She doesn't work on campus events.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161, N-192
+Mentions: N-160, N-191
 Related Nodes: N-10012
 Investigative Direction: Obtain TPUSA's staff role description for McCoy's wife and the event-planning roster for the UVU event.
 
@@ -962,7 +962,7 @@ Claim: The host says she never said Mikey McCoy's wife helped plan the event; sh
 Transcript Snippet: I said it was suspicious that Mikey McCoy's wife um that we never found out who did plan the event.
 
 Anchored Artifacts: 
-Mentions: N-3, N-192
+Mentions: N-3, N-191
 Related Nodes: N-10012
 Investigative Direction: Compare with the original episode where the host raised McCoy's wife and event planning, and find who TPUSA says planned the UVU event.
 
@@ -977,7 +977,7 @@ Claim: The host says she believes Mikey McCoy should have to answer for who he h
 Transcript Snippet: I do believe that Mikey McCoy should have to answer for who he had on the phone right when the shot went off.
 
 Anchored Artifacts: 
-Mentions: N-3, N-192
+Mentions: N-3, N-191
 Related Nodes: N-10482
 Investigative Direction: Obtain McCoy's call log or his account of the call he was on at the moment of the shot.
 
@@ -992,7 +992,7 @@ Claim: The host says Rob McCoy spoke about Charlie's notebooks and about how Mik
 Transcript Snippet: his own father is the one that spoke about Charlie's notebooks and spoke about how Mikey McCoy was talented.
 
 Anchored Artifacts: 
-Mentions: N-17, N-192, N-1
+Mentions: N-17, N-191, N-1
 Investigative Direction: Find the recording of Rob McCoy's remarks about the notebooks and confirm the Liberty University event date and who spoke.
 
 ---
@@ -1112,7 +1112,7 @@ Claim: The host says that in a sitdown with Shawn Ryan, Brian Harpole said no fi
 Transcript Snippet: In a sitdown with Shawn Ryan, Brian Harpole said it was because of the severity of the injury.
 
 Anchored Artifacts: 
-Mentions: N-268, N-226
+Mentions: N-267, N-225
 Related Nodes: N-10862
 Investigative Direction: Check the Shawn Ryan interview for the exact Harpole statement on first aid.
 
@@ -1203,7 +1203,7 @@ Claim: In the statement the host plays, Blake Neff says Candace Owens suggested 
 Transcript Snippet: She has suggested that TPUSA faith affiliated pastors like theologian Frank Turek, who we'll have on in a moment, and pastor Rob McCoy, are part of a military quote infiltration of Turning Point
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161, N-7, N-17, N-3
+Mentions: N-160, N-7, N-17, N-3
 Related Nodes: N-10248
 Investigative Direction: Compare against the host's earlier statements about military ties of Turek and McCoy.
 
@@ -1218,7 +1218,7 @@ Claim: The host says she believes the evidence shows Calvary Chapel's history un
 Transcript Snippet: I do believe the Calvary Chapel uh their history with Chuck Smith, the evidence that it was a militant CIA effort to infiltrate the Christian faith
 
 Anchored Artifacts: 
-Mentions: N-3, N-717
+Mentions: N-3, N-716
 Related Nodes: N-10465, N-10248
 Investigative Direction: Identify the documents or historical sources for a CIA role in Calvary Chapel's founding.
 
@@ -1277,7 +1277,7 @@ Claim: The host says Neff's quoted line that Charlie's friends 'had to know' he 
 Transcript Snippet: I never said that obviously in the context that he put it in uh that Charlie's friends quote had to know he was going to be murdered.
 
 Anchored Artifacts: 
-Mentions: N-3, N-161, N-1
+Mentions: N-3, N-160, N-1
 Investigative Direction: Retrieve the full original sentence and compare with TPUSA's paraphrase.
 
 ---
@@ -1291,7 +1291,7 @@ Claim: In the statement the host plays, Blake Neff says Charlie made sure TPUSA 
 Transcript Snippet: Charlie made sure the organization was audited by a third party every year.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161, N-1
+Mentions: N-160, N-1
 Related Nodes: N-10078
 Investigative Direction: Obtain TPUSA's annual audited financial statements and auditor name.
 
@@ -1353,7 +1353,7 @@ Claim: In the statement the host plays, Blake Neff lists allegations he says the
 Transcript Snippet: Candace has made other stranger allegations involving French paratroopers in maroon shirts.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 Related Nodes: N-10253, N-10087, N-10311
 Investigative Direction: Compare each listed item with the host's original statements.
 
@@ -1443,7 +1443,7 @@ Claim: In the statement the host plays, Blake Neff says his friends have suffere
 Transcript Snippet: we have suffered more harassment from these people than we have from Antifa supporters who overtly celebrate Charlie's murder.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 Related Nodes: N-10000
 Investigative Direction: Request examples and counts of the harassment TPUSA staff say they received.
 
@@ -1458,7 +1458,7 @@ Claim: In the statement the host plays, Blake Neff says that for months TPUSA re
 Transcript Snippet: For months, we have received hundreds, thousands, I suspect, emails and calls asking us to respond.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161
+Mentions: N-160
 Related Nodes: N-10000
 Investigative Direction: Not independently verifiable; ask TPUSA for volume or examples.
 
@@ -1473,7 +1473,7 @@ Claim: In the statement the host plays, Blake Neff says TPUSA thought the host's
 Transcript Snippet: we shouldn't have to answer questions about secret tunnels or Egyptian Air Force planes.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 Related Nodes: N-10087, N-10253
 Investigative Direction: Check whether TPUSA ever answered the Egyptian-plane questions in later statements.
 
@@ -1488,7 +1488,7 @@ Claim: In the statement the host plays, Blake Neff says TPUSA also did not respo
 Transcript Snippet: Lastly, we didn't respond because Charlie always viewed Candace as a friend and we were holding out hope that she would return that friendship and stop what she was doing.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161, N-1, N-3
+Mentions: N-160, N-1, N-3
 Investigative Direction: Compare with Charlie's own public remarks about Candace.
 
 ---
@@ -1502,7 +1502,7 @@ Claim: In the statement the host plays, Blake Neff says the host is using falseh
 Transcript Snippet: She's using these falsehoods to enrich herself while dividing the conservative movement at an absolutely critical time for this country.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161, N-3
+Mentions: N-160, N-3
 Investigative Direction: Review the host's revenue sources and any figures tied to this investigation.
 
 ---
@@ -1560,7 +1560,7 @@ Claim: The host lists prior investigations: Kamala Harris's genealogy, Blake Liv
 Transcript Snippet: Sometimes it's Blake Lively and Ryan Reynolds when they try to destroy a man's life who's not even on my quote unquote political team.
 
 Anchored Artifacts: 
-Mentions: N-3, N-486, N-377, N-715, N-82
+Mentions: N-3, N-485, N-376, N-714, N-82
 Investigative Direction: Cross-check the host's earlier episodes on Harris, Lively and Reynolds.
 
 ---
@@ -1589,7 +1589,7 @@ Claim: In the statement the host plays, Blake Neff says TPUSA's silence has neve
 Transcript Snippet: Our silence has never been and it will never be equal to complacency or approval.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-161
+Mentions: N-160
 Related Nodes: N-10000
 Investigative Direction: Compare TPUSA's actual public statements on the allegations across the prior months.
 
@@ -1710,7 +1710,7 @@ Claim: The host says the Pentagon undertook a press corps makeover ostensibly to
 Transcript Snippet: they decided to undergo a quote unquote press corps makeover ostensibly to let in new independent, more trusted journalists.
 
 Anchored Artifacts: 
-Mentions: N-3, N-169, N-71
+Mentions: N-3, N-168, N-71
 Related Nodes: N-10064, N-11015
 Investigative Direction: Obtain the Pentagon's press credential policy and list of newly credentialed outlets.
 
@@ -1799,7 +1799,7 @@ Claim: The host says Laura Loomer shared, with glee, the news that Cam Higby, al
 Transcript Snippet: she was beside herself with Glee this morning sharing news that another Zionist influencer named Cam Higgby, who has also now been credentialed by the Pentagon
 
 Anchored Artifacts: A-1490.1
-Mentions: N-3, N-60, N-304
+Mentions: N-3, N-60, N-303
 Related Nodes: N-10064
 Investigative Direction: Locate Loomer's post sharing the Higby clip and its time.
 
@@ -1829,7 +1829,7 @@ Claim: In the Pentagon clip, Kingsley Wilson says she can try to find out and ma
 Transcript Snippet: I can try to find out and maybe let you know.
 
 Anchored Artifacts: A-1490.1
-Mentions: N-305, N-304
+Mentions: N-304, N-303
 Investigative Direction: Track whether the Pentagon later sent a follow-up answer.
 
 ---
@@ -1858,7 +1858,7 @@ Claim: The host says that, imagining a call to the government, she would tell th
 Transcript Snippet: because the president played of France allegedly paid $1.5 million for my assassination.
 
 Anchored Artifacts: 
-Mentions: N-3, N-379
+Mentions: N-3, N-378
 Related Nodes: N-10316
 Investigative Direction: The host must identify the source and the accounts; no evidence is shown. Treat as an unverified allegation.
 
@@ -1888,7 +1888,7 @@ Claim: The host says that in the Macron lawsuit she has paid over a quarter of a
 Transcript Snippet: Thus far in the Brigitte Macron lawsuit, we have paid over a quarter of a million dollars and we haven't even had our first day in court.
 
 Anchored Artifacts: 
-Mentions: N-3, N-82, N-379
+Mentions: N-3, N-82, N-378
 Related Nodes: N-10270
 Investigative Direction: Review the Delaware docket and the host's disclosures on legal costs.
 
@@ -1918,7 +1918,7 @@ Claim: The host says a Trump-Macron phone call, recorded in Macron's released pu
 Transcript Snippet: an hour and a half before Charlie Kirk was assassinated in Utah, Donald Trump and Emmanuel Macron had a phone call that has been recorded in Emmanuel Macron's public calendar which has been released.
 
 Anchored Artifacts: A-1493.1
-Mentions: N-3, N-5, N-379, N-1
+Mentions: N-3, N-5, N-378, N-1
 Related Nodes: N-10308
 Supports: C-1830
 Investigative Direction: Locate Macron's released calendar entry for September 10 and compare against the time of the shooting.
@@ -1934,7 +1934,7 @@ Claim: The host says the call could be nothing and that there are many reasons, 
 Transcript Snippet: we also know that there's been a lot of discussion about Ukraine, and there's a million reasons that Emmanuel Macron and him could have had that poorly timed phone call.
 
 Anchored Artifacts: A-1493.1
-Mentions: N-3, N-5, N-379
+Mentions: N-3, N-5, N-378
 Related Nodes: N-10308
 Qualifies: C-1830
 Investigative Direction: Ask the Elysee and the White House for the call readout.
@@ -1950,7 +1950,7 @@ Claim: The host says The Assassination of Candace Owens is song number 13 on The
 Transcript Snippet: Why is it got to be song number 13?
 
 Anchored Artifacts: 
-Mentions: N-3, N-306
+Mentions: N-3, N-305
 Supports: C-1826
 Investigative Direction: Check the album's published track listing.
 
@@ -1965,7 +1965,7 @@ Claim: In the interview clip, The Game says Candace Owens said people were tryin
 Transcript Snippet: she said that people were trying to assassinate her. So, all I did was say it too.
 
 Anchored Artifacts: A-1491.1
-Mentions: N-306, N-3
+Mentions: N-305, N-3
 Supports: C-1827
 Investigative Direction: Verify the quote against the full interview.
 
@@ -2008,7 +2008,7 @@ Claim: The host says she spoke at length with Russell Brand on his show, which s
 Transcript Snippet: I spoke about it more at length with Russell Brandon uh on his show. So that should be coming out soon.
 
 Anchored Artifacts: 
-Mentions: N-3, N-716
+Mentions: N-3, N-715
 Investigative Direction: Find the Russell Brand episode featuring the host and its air date.
 
 ---
@@ -2065,7 +2065,7 @@ Claim: The host says Neff was speaking from a script, and that the genuine momen
 Transcript Snippet: the thing that felt genuine was at the very end when he said, "I owe everything to I owe everything to Charlie." That's when he went off script.
 
 Anchored Artifacts: A-1489.1
-Mentions: N-3, N-161, N-1
+Mentions: N-3, N-160, N-1
 Investigative Direction: Compare with the statement's closing lines.
 
 ---
@@ -2094,7 +2094,7 @@ Claim: The host says the interview with Phil Tourney of the USS Liberty was the 
 Transcript Snippet: you could feel a spiritual movement in this room when we interviewed Phil Tourney of the USS Liberty.
 
 Anchored Artifacts: 
-Mentions: N-3, N-500
+Mentions: N-3, N-499
 Related Nodes: N-10451
 Investigative Direction: Find the Phil Tourney interview episode and its view count.
 

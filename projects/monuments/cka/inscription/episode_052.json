@@ -136,9 +136,9 @@
             "C-2010"
           ],
           "related_nodes": [
+            "N-381",
             "N-382",
-            "N-383",
-            "N-389",
+            "N-388",
             "N-10383"
           ],
           "tags": [],
@@ -163,7 +163,7 @@
             "C-2011"
           ],
           "related_nodes": [
-            "N-386"
+            "N-385"
           ],
           "tags": [],
           "video_timestamp": "00:37:11"
@@ -210,7 +210,7 @@
             "C-2013"
           ],
           "related_nodes": [
-            "N-388"
+            "N-387"
           ],
           "tags": [],
           "video_timestamp": "00:46:38"
@@ -299,7 +299,7 @@
             "C-6902"
           ],
           "related_nodes": [
-            "N-491",
+            "N-490",
             "N-2",
             "N-3"
           ],
@@ -345,8 +345,8 @@
   "nodes": [
     {
       "@type": "Person",
-      "@id": "N-382",
-      "ref": "N-382",
+      "@id": "N-381",
+      "ref": "N-381",
       "name": "Eddie Farnsworth",
       "type": "person",
       "description": "Former Arizona House Judiciary Committee chair; brother of Senator David Farnsworth; first cousin of Dwayne Farnsworth; appears in 2014 Arizona House record on EMP legislation vote; father of Albert Farnsworth.",
@@ -362,16 +362,16 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
+        "N-382",
         "N-383",
         "N-384",
-        "N-385",
         "N-10383"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-383",
-      "ref": "N-383",
+      "@id": "N-382",
+      "ref": "N-382",
       "name": "David Farnsworth",
       "type": "person",
       "description": "Arizona state senator; sponsored 2014 EMP legislation under which Lori Frantzve was introduced to the House floor; brother of Eddie Farnsworth; first cousin of Dwayne Farnsworth.",
@@ -387,15 +387,15 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-382",
-        "N-384",
+        "N-381",
+        "N-383",
         "N-10383"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-384",
-      "ref": "N-384",
+      "@id": "N-383",
+      "ref": "N-383",
       "name": "Dwayne Farnsworth",
       "type": "person",
       "description": "Terryl Farnsworth's father; first cousin of David and Eddie Farnsworth; host-asserted to have attended high school with Tyler Bowyer's parents (family network claim only).",
@@ -407,15 +407,15 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
+        "N-381",
         "N-382",
-        "N-383",
         "N-10383"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-385",
-      "ref": "N-385",
+      "@id": "N-384",
+      "ref": "N-384",
       "name": "Albert Farnsworth",
       "type": "person",
       "description": "Eddie Farnsworth's nephew; host-asserted prior rape conviction of a 13-year-old (no artifact displayed in this episode).",
@@ -427,13 +427,13 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-382"
+        "N-381"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-386",
-      "ref": "N-386",
+      "@id": "N-385",
+      "ref": "N-385",
       "name": "David Frodsham",
       "type": "person",
       "description": "Top civilian leader at a US air base in Afghanistan; subject of CBS News report on a child pornography ring; per the same report, returned to Fort Huachuca after leaving his post.",
@@ -451,8 +451,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-387",
-      "ref": "N-387",
+      "@id": "N-386",
+      "ref": "N-386",
       "name": "Thomas Burt",
       "type": "person",
       "description": "Father-in-law of Terryl Farnsworth; former Executive Vice President and COO of Duncan Aviation (the FBO that rented vehicles for federal authorities); retired 2019 per host.",
@@ -469,8 +469,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-388",
-      "ref": "N-388",
+      "@id": "N-387",
+      "ref": "N-387",
       "name": "Maddie (Daily Wire host)",
       "type": "person",
       "description": "Host of Daily Wire's \"Maddie in the No\" show; per Candace, the show is designed to mock her and Tucker Carlson; first identified publicly in this episode.",
@@ -488,8 +488,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-389",
-      "ref": "N-389",
+      "@id": "N-388",
+      "ref": "N-388",
       "name": "Larry Guinta",
       "type": "person",
       "description": "Erika Kirk's stepfather; named in the 2014 Arizona House EMP legislation record alongside Lori Frantzve (host uncertain of spelling/pronunciation).",
@@ -565,11 +565,11 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
+        "N-381",
         "N-382",
         "N-383",
-        "N-384",
-        "N-387",
-        "N-389"
+        "N-386",
+        "N-388"
       ]
     },
     {
@@ -794,8 +794,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-219",
-      "ref": "N-219",
+      "@id": "N-218",
+      "ref": "N-218",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Joined Maine vacation; final-footage context.",
@@ -836,8 +836,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-365",
-      "ref": "N-365",
+      "@id": "N-364",
+      "ref": "N-364",
       "name": "Mark Amodei",
       "type": "person",
       "description": "U.S. Representative (NV); subject of contradictory public-record claims regarding his whereabouts on September 9, 2025.",
@@ -1077,8 +1077,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-165",
-      "ref": "N-165",
+      "@id": "N-164",
+      "ref": "N-164",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Matt Walsh; host of Judged, whose bailiff was reportedly considered for the Daily Wire show.",
@@ -1094,8 +1094,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-197",
-      "ref": "N-197",
+      "@id": "N-196",
+      "ref": "N-196",
       "name": "Lee Trotter",
       "type": "person",
       "description": "Dr. Lee Trotter (rendered 'Troder' in the transcript); surgeon in the host's hospital claims.",
@@ -1112,8 +1112,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-239",
-      "ref": "N-239",
+      "@id": "N-238",
+      "ref": "N-238",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Glenn Beck; reportedly gave support to Operation Underground.",
@@ -1129,8 +1129,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-262",
-      "ref": "N-262",
+      "@id": "N-261",
+      "ref": "N-261",
       "name": "Duncan Aviation",
       "type": "person",
       "description": "Duncan Aviation; the FBO the host says rented cars to the feds.",
@@ -1147,8 +1147,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-263",
-      "ref": "N-263",
+      "@id": "N-262",
+      "ref": "N-262",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Terryl Farnsworth; AV company head who removed cameras, per the host.",
@@ -1172,8 +1172,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole; the host reports no response from him.",
@@ -1191,8 +1191,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; recipient of the night-before text and Harpole's contact.",
@@ -1209,8 +1209,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-290",
-      "ref": "N-290",
+      "@id": "N-289",
+      "ref": "N-289",
       "name": "Pierre S. du Pont",
       "type": "person",
       "description": "Pierre Dupont; the donor name earlier TPUSA sources gave, which the host now doubts.",
@@ -1226,8 +1226,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-314",
-      "ref": "N-314",
+      "@id": "N-313",
+      "ref": "N-313",
       "name": "Pierre Falcone",
       "type": "person",
       "description": "Pierre Falcone; the donor the host now believes sent the large check.",
@@ -1243,8 +1243,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-327",
-      "ref": "N-327",
+      "@id": "N-326",
+      "ref": "N-326",
       "name": "Tim Ballard",
       "type": "person",
       "description": "Tim Ballard; former head of Operation Underground.",
@@ -1261,8 +1261,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Baron Coleman; the host says she reached out to him for a conversation.",
@@ -1278,8 +1278,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Mitch Snow, the Fort Huachuca witness; the host relays his descriptions and photo reactions.",
@@ -1301,8 +1301,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-491",
-      "ref": "N-491",
+      "@id": "N-490",
+      "ref": "N-490",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Lori Frantzve; Erika Kirk's mother, in the 2014 EMP record and the 2015 rally background.",
@@ -2019,8 +2019,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-768",
-      "ref": "N-768",
+      "@id": "N-767",
+      "ref": "N-767",
       "name": "Trent Franks",
       "type": "person",
       "description": "First named by the host at 00:33:30 in episode 052 as the congressman who supported David Farnsworth's EMP bill.",
@@ -2205,7 +2205,7 @@
       "claim_timestamp": "00:17:20",
       "investigative_direction": "Obtain direct TPUSA statement or correspondence clarifying the tent decision-making process.",
       "mentions_person_refs": [
-        "N-219"
+        "N-218"
       ]
     },
     {
@@ -2259,7 +2259,7 @@
       "investigative_direction": "Obtain official House attendance record; verify timestamped committee video metadata; corroborate with eyewitness accounts.",
       "mentions_person_refs": [
         "N-3",
-        "N-365"
+        "N-364"
       ]
     },
     {
@@ -2297,10 +2297,10 @@
       "claim_timestamp": "00:33:00",
       "investigative_direction": "Verify the Arizona House record directly; check whether any DoD contracts to GTech Industries followed; trace GTech Industries' successor entities (AZ Tech / E3 Tech mentioned in comments at 01:04:30).",
       "mentions_person_refs": [
+        "N-381",
         "N-382",
-        "N-383",
-        "N-389",
-        "N-491"
+        "N-388",
+        "N-490"
       ]
     },
     {
@@ -2317,7 +2317,7 @@
       "claim_timestamp": "00:37:11",
       "investigative_direction": "Obtain the full CBS News article and any follow-up reporting; verify Rodsham's Fort Huachuca tenure dates; check overlap with relevant September 10 events.",
       "mentions_person_refs": [
-        "N-386"
+        "N-385"
       ]
     },
     {
@@ -2351,7 +2351,7 @@
       "claim_timestamp": "00:46:38",
       "investigative_direction": "Confirm show title, launch date, host identity, and episode count directly via Daily Wire's official channels.",
       "mentions_person_refs": [
-        "N-388",
+        "N-387",
         "N-22",
         "N-3"
       ]
@@ -2838,7 +2838,7 @@
       "transcript_snippet": "I also broke the story regarding Terara Farnsworth's strange behavior moments after the assassination.",
       "mentions_person_refs": [
         "N-3",
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -2932,7 +2932,7 @@
       "transcript_snippet": "the feds blocked Dr. Troder from returning to his operating room, and that a phone call was then placed to DC.",
       "mentions_person_refs": [
         "N-3",
-        "N-197"
+        "N-196"
       ]
     },
     {
@@ -2957,7 +2957,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-197",
+        "N-196",
         "N-2"
       ]
     },
@@ -2983,7 +2983,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-272",
+        "N-271",
         "N-14"
       ]
     },
@@ -3085,7 +3085,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -3157,8 +3157,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-314",
-        "N-290"
+        "N-313",
+        "N-289"
       ]
     },
     {
@@ -3265,7 +3265,7 @@
       "transcript_snippet": "No response at all from Brian Harpole. I've told you that several times.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3286,8 +3286,8 @@
       "transcript_snippet": "Now, Dan Flood was not seen at Fort Huachuca, but he does have communication with Brian Harpole.",
       "mentions_person_refs": [
         "N-3",
-        "N-272",
-        "N-268"
+        "N-271",
+        "N-267"
       ]
     },
     {
@@ -3311,8 +3311,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-363",
-        "N-365"
+        "N-362",
+        "N-364"
       ]
     },
     {
@@ -3336,8 +3336,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-363",
-        "N-365"
+        "N-362",
+        "N-364"
       ]
     },
     {
@@ -3364,7 +3364,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-365"
+        "N-364"
       ]
     },
     {
@@ -3386,9 +3386,9 @@
       "transcript_snippet": "Mitch initially contacted me about just Erika Kirk um, and Brian Harpole.",
       "mentions_person_refs": [
         "N-3",
-        "N-363",
+        "N-362",
         "N-2",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3413,7 +3413,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -3435,7 +3435,7 @@
       "transcript_snippet": "Told you guys he just started lying to me repeatedly. Weird. His energy was weird.",
       "mentions_person_refs": [
         "N-3",
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -3456,7 +3456,7 @@
       "transcript_snippet": "I don't know how to send a file. What do you mean? You run an entire AV company. You know how to send a file over the internet? Well, I'm scared Google might hack me.",
       "mentions_person_refs": [
         "N-3",
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -3479,7 +3479,7 @@
         "N-3",
         "N-2",
         "N-15",
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -3498,7 +3498,7 @@
       "transcript_snippet": "that was told to me that he's receiving death threats because people want answers.",
       "mentions_person_refs": [
         "N-3",
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -3682,7 +3682,7 @@
         "N-3",
         "N-2",
         "N-11",
-        "N-491",
+        "N-490",
         "N-5"
       ]
     },
@@ -3799,7 +3799,7 @@
       "transcript_snippet": "Terrell Farnsworth par Farnsworth's parents went to high school with Tyler Bowyer's parents. They're all from Chandler, Arizona.",
       "mentions_person_refs": [
         "N-3",
-        "N-263",
+        "N-262",
         "N-11"
       ]
     },
@@ -3821,7 +3821,7 @@
       "transcript_snippet": "They graduated um it looks like two years apart uh from Gilbert High School.",
       "mentions_person_refs": [
         "N-3",
-        "N-263",
+        "N-262",
         "N-11"
       ]
     },
@@ -3909,10 +3909,10 @@
       "transcript_snippet": "Terrell's father is a man named Dwayne Farnsworth and his first cousins are longtime Arizona Congressman Eddie Farnsworth.",
       "mentions_person_refs": [
         "N-3",
-        "N-263",
-        "N-384",
-        "N-382",
-        "N-383"
+        "N-262",
+        "N-383",
+        "N-381",
+        "N-382"
       ]
     },
     {
@@ -3933,7 +3933,7 @@
       "transcript_snippet": "In fact, Eddie has actually been sued in the past with Tyler. Like they're on the same side.",
       "mentions_person_refs": [
         "N-3",
-        "N-382",
+        "N-381",
         "N-11"
       ]
     },
@@ -3960,8 +3960,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-383",
-        "N-491"
+        "N-382",
+        "N-490"
       ]
     },
     {
@@ -3987,8 +3987,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-383",
-        "N-768"
+        "N-382",
+        "N-767"
       ]
     },
     {
@@ -4014,7 +4014,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-389",
+        "N-388",
         "N-2"
       ]
     },
@@ -4041,10 +4041,10 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-491",
+        "N-490",
         "N-11",
-        "N-383",
-        "N-382"
+        "N-382",
+        "N-381"
       ]
     },
     {
@@ -4089,7 +4089,7 @@
       "transcript_snippet": "he blocked a hearing on a bill to prevent child sex trafficking.",
       "mentions_person_refs": [
         "N-3",
-        "N-382"
+        "N-381"
       ]
     },
     {
@@ -4110,8 +4110,8 @@
       "transcript_snippet": "his nephew, Albert Farnsworth, um had raped a 13-year-old.",
       "mentions_person_refs": [
         "N-3",
-        "N-382",
-        "N-385"
+        "N-381",
+        "N-384"
       ]
     },
     {
@@ -4154,7 +4154,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-61",
-        "N-327"
+        "N-326"
       ]
     },
     {
@@ -4175,8 +4175,8 @@
       "transcript_snippet": "he had gotten u donation and support from Glenn Beck for Operation Underground.",
       "mentions_person_refs": [
         "N-3",
-        "N-327",
-        "N-239"
+        "N-326",
+        "N-238"
       ]
     },
     {
@@ -4244,9 +4244,9 @@
       "transcript_snippet": "I am wondering regarding Eddie Farnsworth if it is possible that Mitch saw him because he's a dead ringer.",
       "mentions_person_refs": [
         "N-3",
-        "N-382",
-        "N-365",
-        "N-363"
+        "N-381",
+        "N-364",
+        "N-362"
       ]
     },
     {
@@ -4268,8 +4268,8 @@
       "transcript_snippet": "I sent it to Mitch and he said, \"Yes, this man looks very familiar.",
       "mentions_person_refs": [
         "N-3",
-        "N-363",
-        "N-382"
+        "N-362",
+        "N-381"
       ]
     },
     {
@@ -4362,9 +4362,9 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-263",
-        "N-387",
-        "N-262"
+        "N-262",
+        "N-386",
+        "N-261"
       ]
     },
     {
@@ -4385,8 +4385,8 @@
       "transcript_snippet": "He actually ran Duncan Aviation as the executive vice president and COO for 22 years now. He did retire. He retired in in 2019.",
       "mentions_person_refs": [
         "N-3",
-        "N-387",
-        "N-262"
+        "N-386",
+        "N-261"
       ]
     },
     {
@@ -4430,8 +4430,8 @@
       "transcript_snippet": "They tossed around three other people. They even considered doing a combination show with a person who had played the baiff on Matt Walsh's Judged",
       "mentions_person_refs": [
         "N-3",
-        "N-388",
-        "N-165"
+        "N-387",
+        "N-164"
       ]
     },
     {
@@ -4697,7 +4697,7 @@
       "transcript_snippet": "Yeah, I reached out to him and we are going to make that happen. When? I don't know.",
       "mentions_person_refs": [
         "N-3",
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -4740,7 +4740,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-491"
+        "N-490"
       ]
     },
     {
@@ -4765,7 +4765,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-491"
+        "N-490"
       ]
     }
   ],

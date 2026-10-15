@@ -11,12 +11,12 @@
 - **Transcript SHA-256**: 0c6891ad36263abc11507dbd0ee8c311c57724a7637f1dad75f8f5da6bc40c1e
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-824, N-825, N-11205, N-11206
+  - Tip-minted Nodes (supplement_2026-10c): N-823, N-824, N-11205, N-11206
   - Claim Range (supplement_2026-10c): C-9007–C-9086
-  - Reused Nodes Appearing: N-10751, N-5, N-7, N-27, N-36, N-40, N-82, N-178, N-192, N-268, N-454, N-495, N-496, N-639, N-713, N-741, N-802, N-10000, N-10003, N-10004, N-10006, N-10012, N-10021, N-10022, N-10070, N-10075, N-10094, N-10139, N-10369, N-10385, N-10398, N-10483, N-10537, N-10641, N-10692, N-10705, N-10729, N-10740, N-10743, N-10944, N-11053, N-11149, N-11202, N-11203, N-11204
+  - Reused Nodes Appearing: N-10751, N-5, N-7, N-27, N-36, N-40, N-82, N-177, N-191, N-267, N-453, N-494, N-495, N-638, N-712, N-740, N-801, N-10000, N-10003, N-10004, N-10006, N-10012, N-10021, N-10022, N-10070, N-10075, N-10094, N-10139, N-10369, N-10385, N-10398, N-10483, N-10537, N-10641, N-10692, N-10705, N-10729, N-10740, N-10743, N-10944, N-11053, N-11149, N-11202, N-11203, N-11204
  - New Nodes Introduced: N-10749, N-10750, N-10751, N-10752, N-10753
- - Hole-minted Nodes (wave3): N-528
- - Reused Nodes Appearing: none (Wave 2: local ids removed), N-489, N-494
+ - Hole-minted Nodes (wave3): N-527
+ - Reused Nodes Appearing: none (Wave 2: local ids removed), N-488, N-493
  - (see registers)
 
 ## I. Meta-Data
@@ -300,7 +300,7 @@ Confidence Level: Low
 
 Excerpt: "The call did in fact take place… it lasted anywhere from 3 to 5 minutes… someone phones 911 and then did not engage with the 911 operator… The phone sounds as though it's dropped… what was captured rather on this call is quote, 'We got him. Uh we are taking him to the hospital.'… 'Get that off of him.'… 'Get out of the way.'…"
 
-*Related: C-3149, N-10750, Brian Harpole (existing node), Charlie Kirk (existing node), N-489, N-494*
+*Related: C-3149, N-10750, Brian Harpole (existing node), Charlie Kirk (existing node), N-488, N-493*
 
 ---
 
@@ -315,7 +315,7 @@ Video Timestamp: 00:02:05
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High
 
-*Related: C-9010, N-3, N-178, N-10749*
+*Related: C-9010, N-3, N-177, N-10749*
 
 ---
 
@@ -425,13 +425,13 @@ Video Timestamp: 00:32:11
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-9059, C-9060, C-9063, C-9064, C-9066, C-9067, N-14, N-495, N-3, N-10752, N-10075, N-36*
+*Related: C-9059, C-9060, C-9063, C-9064, C-9066, C-9067, N-14, N-494, N-3, N-10752, N-10075, N-36*
 
 ---
 
 ## IV. Node Register
 
-**N-528** Pastor Russell
+**N-527** Pastor Russell
 
 First named by the host at 00:23:26 in episode 132. Aliases: Pastor Russ.
 
@@ -464,7 +464,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: High
 
-*Related: A-2197.1, C-3149, Charlie Kirk (existing node), Brian Harpole (existing node), N-489, N-494*
+*Related: A-2197.1, C-3149, Charlie Kirk (existing node), Brian Harpole (existing node), N-488, N-493*
 
 **N-10751** Charlie Kirk Cremation/Burial Status Verification
 
@@ -578,7 +578,7 @@ Brigitte Macron; subject of the Trump call the host disclosed in July 2025.
 
 ---
 
-**N-178** Deirdre Amaro
+**N-177** Deirdre Amaro
 
 Dr. Deidra Amaro; Utah chief medical examiner whose resignation the host reports.
 
@@ -586,7 +586,7 @@ Dr. Deidra Amaro; Utah chief medical examiner whose resignation the host reports
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Mikey McCoy; named in TPUSA's hospital-ride narrative as calling the vice president.
 
@@ -594,7 +594,7 @@ Mikey McCoy; named in TPUSA's hospital-ride narrative as calling the vice presid
 
 ---
 
-**N-268** Brian Harpole
+**N-267** Brian Harpole
 
 Brian Harpole; says in the host's lawsuit that a 911 call was made.
 
@@ -602,7 +602,7 @@ Brian Harpole; says in the host's lawsuit that a 911 call was made.
 
 ---
 
-**N-454** Lindsey Graham
+**N-453** Lindsey Graham
 
 Lindsey Graham; the host says Netanyahu is coming under the guise of his state funeral.
 
@@ -610,7 +610,7 @@ Lindsey Graham; the host says Netanyahu is coming under the guise of his state f
 
 ---
 
-**N-489** Rick Cutler
+**N-488** Rick Cutler
 
 Rick Cutler; named among TPUSA team members reluctant to say who dialed 911.
 
@@ -618,7 +618,7 @@ Rick Cutler; named among TPUSA team members reluctant to say who dialed 911.
 
 ---
 
-**N-494** Justin Davis
+**N-493** Justin Davis
 
 Justin Davis; named among TPUSA team members reluctant to say who dialed 911.
 
@@ -626,7 +626,7 @@ Justin Davis; named among TPUSA team members reluctant to say who dialed 911.
 
 ---
 
-**N-495** Marina (TPUSA CMO)
+**N-494** Marina (TPUSA CMO)
 
 Marina Medvin, TPUSA CMO; named in the host's White House tip.
 
@@ -634,7 +634,7 @@ Marina Medvin, TPUSA CMO; named in the host's White House tip.
 
 ---
 
-**N-496** "Frank" (TPUSA General Counsel)
+**N-495** "Frank" (TPUSA General Counsel)
 
 Frank, TPUSA in-house lawyer; named in the host's White House tip.
 
@@ -642,7 +642,7 @@ Frank, TPUSA in-house lawyer; named in the host's White House tip.
 
 ---
 
-**N-639** Kouri Richins
+**N-638** Kouri Richins
 
 Kouri Richins; mentioned in the host's remark about Utah wives.
 
@@ -650,7 +650,7 @@ Kouri Richins; mentioned in the host's remark about Utah wives.
 
 ---
 
-**N-713** Volodymyr Zelensky
+**N-712** Volodymyr Zelensky
 
 Volodymyr Zelensky; mentioned alongside Netanyahu's trip.
 
@@ -658,7 +658,7 @@ Volodymyr Zelensky; mentioned alongside Netanyahu's trip.
 
 ---
 
-**N-741** Michael Jackson
+**N-740** Michael Jackson
 
 Michael Jackson; named in the host's remark about psychological pressure.
 
@@ -866,7 +866,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-802** Harris Faulkner
+**N-801** Harris Faulkner
 
 Fox News host who interviewed Erika Kirk about the burial location; first named by the host at 00:12:01 in episode 132.
 
@@ -874,7 +874,7 @@ Fox News host who interviewed Erika Kirk about the burial location; first named 
 
 ---
 
-**N-824** Vivian Kubrick
+**N-823** Vivian Kubrick
 
 Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowded event on X; first named by the host at 00:26:09 in episode 132.
 
@@ -882,7 +882,7 @@ Daughter of Stanley Kubrick whom the host says criticised the Make Heaven Crowde
 
 ---
 
-**N-825** Devante West
+**N-824** Devante West
 
 Instagram account holder whose clip mocking Christian speak the host plays; first named by the host at 00:30:12 in episode 132 (spelled Devonte West once).
 
@@ -966,7 +966,7 @@ Claim Timestamp: 00:09:42
 Claim: Blake Neff, in a public X post, used the phrase "vile witch" directed at Candace Owens in response to her question about whether Charlie Kirk was cremated.
 
 Anchored Artifacts: A-2190.1
-Mentions: N-3, N-1, N-161
+Mentions: N-3, N-1, N-160
 Related Nodes: N-10751
 Investigative Direction: Confirm the original post remains accessible and document its publication time and any subsequent edits or deletions.
 
@@ -988,7 +988,7 @@ Claim Timestamp: 00:24:17
 Claim: In a sermon clip the host plays, Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounces "vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities" and frames himself as finishing Charlie Kirk's foundation.
 
 Anchored Artifacts: A-2192.2
-Mentions: N-1, N-2, N-528
+Mentions: N-1, N-2, N-527
 Related Nodes:
 Investigative Direction: Verify the sermon date, obtain the full recording, and confirm the institutional affiliation between Pursuit Church and Turning Point Faith.
 
@@ -1080,7 +1080,7 @@ Claim: The host says Dr. Deidra Amaro became Utah's chief medical examiner on Ju
 Transcript Snippet: a woman by the name of Dr. Deidra Amaro. Uh her tenure began July 1st of 2024. And now we can exclusively report that Dr. Deidra Amaro has resigned from her position.
 
 Anchored Artifacts: 
-Mentions: N-178, N-1
+Mentions: N-177, N-1
 Related Nodes: N-10749
 Supports: C-1440
 Tags: relevance:context
@@ -1097,7 +1097,7 @@ Claim: The host says Dr. Deidra Amaro claims to be a direct descendant of Leif E
 Transcript Snippet: claims to be a direct descendant of Leif Erikson, which actually may be true based on our research
 
 Anchored Artifacts: 
-Mentions: N-178, N-3
+Mentions: N-177, N-3
 Tags: relevance:tangential
 Investigative Direction: Locate Amaro's own statement of the descent and the genealogical or military-family records the host's team relied on.
 
@@ -1128,7 +1128,7 @@ Claim: The host asks viewers who know more about Dr. Deidra Amaro's sudden resig
 Transcript Snippet: If you perhaps know more, please do send us an email to tips@candaceowens. com.
 
 Anchored Artifacts: A-2978.1
-Mentions: N-3, N-178
+Mentions: N-3, N-177
 Related Nodes: N-10749
 Tags: relevance:context
 Investigative Direction: Track whether tips about the Amaro resignation are later cited by the host; a tip line is not itself evidence.
@@ -1517,7 +1517,7 @@ Claim: The host says that on her book tour Erika Kirk was set up by Harris Faulk
 Transcript Snippet: a book tour where Harris Faulkner on Fox News set her up with a question about how dark it would be.
 
 Anchored Artifacts: A-2191.1
-Mentions: N-802, N-2, N-1
+Mentions: N-801, N-2, N-1
 Related Nodes: N-10006, N-10751
 Tags: relevance:core
 Investigative Direction: Obtain the full Fox News segment and any pre-interview arrangements.
@@ -1581,7 +1581,7 @@ Claim: The host says Brian Harpole was very clear in her lawsuit that a 911 call
 Transcript Snippet: And Brian Harpole was very clear in my lawsuit, he he lies in the lawsuit, so I I wasn't sure if we could believe this, that a a 911 call did take place.
 
 Anchored Artifacts: 
-Mentions: N-268, N-3
+Mentions: N-267, N-3
 Related Nodes: N-10692
 Supports: C-4717
 Tags: relevance:core
@@ -1632,7 +1632,7 @@ Claim: The host says TPUSA's accounts cast everyone as a hero: Frank Turek doing
 Transcript Snippet: Frank maybe is or is not doing CPR while no one's looking. Uh Mikey has jumped into action and he is amazing and he's dialing up the vice president, making arrangements.
 
 Anchored Artifacts: 
-Mentions: N-7, N-192, N-3
+Mentions: N-7, N-191, N-3
 Related Nodes: N-10692
 Tags: relevance:core
 Investigative Direction: Compare each occupant's account with call detail records and the vice president's office log.
@@ -1714,7 +1714,7 @@ Claim: The host says that some of the "36 ft of packaging" would not make sense 
 Transcript Snippet: That doesn't really make sense because Brian's pretty clear that that went into him.
 
 Anchored Artifacts: A-2197.1
-Mentions: N-268, N-1
+Mentions: N-267, N-1
 Related Nodes: N-10750
 Tags: relevance:context
 Investigative Direction: Clarify which packaging the host means (the transcript says "36 ft of packaging") and compare with Harpole's statements.
@@ -1747,7 +1747,7 @@ Claim: The host says the TPUSA team members who narrate everyone's actions (Harp
 Transcript Snippet: yet they're reluctant to share who specifically dialed 911. Brian Harpole says, "We dialed 911."
 
 Anchored Artifacts: 
-Mentions: N-268, N-489, N-494, N-3
+Mentions: N-267, N-488, N-493, N-3
 Related Nodes: N-10729
 Supports: C-4717
 Tags: relevance:core
@@ -1780,7 +1780,7 @@ Claim: The host says the sermon clip she plays is from Pastor Russell at Pursuit
 Transcript Snippet: We are about to go to Pursuit Church in Washington state. I'm ready. We've got Pastor Russell.
 
 Anchored Artifacts: A-2192.1
-Mentions: N-528, N-2, N-3
+Mentions: N-527, N-2, N-3
 Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Confirm the church, sermon date and pastor's full name and denomination.
@@ -1796,7 +1796,7 @@ Claim: In the clip, Pastor Russell says to beware of talking-head personalities 
 Transcript Snippet: Beware of talking head personalities who pedal conspiracy theories to their room temperature IQ audiences in hopes of generating a few more clicks
 
 Anchored Artifacts: A-2192.1
-Mentions: N-528
+Mentions: N-527
 Related Nodes: N-10139
 Tags: relevance:context
 Investigative Direction: Obtain the full sermon recording to see whether any person is named.
@@ -1812,7 +1812,7 @@ Claim: In the clip, Pastor Russell says to beware of modern-day Ahabs and Jezebe
 Transcript Snippet: Beware of modern-day Ahabs and Jezebels who sit behind microphones in air-conditioned studios running their podcasts, monetizing tragedy
 
 Anchored Artifacts: A-2192.2
-Mentions: N-528
+Mentions: N-527
 Related Nodes: N-10139
 Tags: relevance:context
 Investigative Direction: Obtain the full sermon recording and any coordinated messaging with other TPUSA Faith pastors.
@@ -1828,7 +1828,7 @@ Claim: The host says Pastor Russell is one of Erika Kirk's favorite pastors.
 Transcript Snippet: Look at this. This is one of Erika's favorite pastors. Look at that.
 
 Anchored Artifacts: A-2192.1
-Mentions: N-528, N-2
+Mentions: N-527, N-2
 Tags: relevance:context
 Investigative Direction: Find Erika's public statements about Pastor Russell or joint appearances.
 
@@ -1843,7 +1843,7 @@ Claim: The host says the Pursuit Church event with Pastor Russell was a Turning 
 Transcript Snippet: Of course, it's a Turning Point Faith event. I'm sorry, guys. I tricked you. Close your Bibles.
 
 Anchored Artifacts: A-2192.1
-Mentions: N-528
+Mentions: N-527
 Related Nodes: N-10398
 Tags: relevance:context
 Investigative Direction: Check the event listing and organizer for the Make Heaven Crowded tour stop.
@@ -1859,7 +1859,7 @@ Claim: The host says Erika Kirk spoke at the Pursuit Church event because it was
 Transcript Snippet: Anyway, Erika spoke at this event because this is the Make Kevin Crowded tour.
 
 Anchored Artifacts: A-2193.1
-Mentions: N-2, N-528
+Mentions: N-2, N-527
 Related Nodes: N-11203
 Tags: relevance:context
 Investigative Direction: Obtain the tour schedule and the event recording.
@@ -1875,7 +1875,7 @@ Claim: The host says Vivian Kubrick, Stanley Kubrick's daughter, posted on X tha
 Transcript Snippet: I was very happy to see Stanley Kubrick's daughter Vivian Kubrick actually. She's been amazing on X and she just took this event and was like no one knows what these people are saying.
 
 Anchored Artifacts: 
-Mentions: N-824, N-3
+Mentions: N-823, N-3
 Related Nodes: N-11203
 Tags: relevance:tangential
 Investigative Direction: Retrieve Vivian Kubrick's X post.
@@ -1907,7 +1907,7 @@ Claim: The host says the Instagram account holder Devante West mocks the new cul
 Transcript Snippet: The account holder on Instagram is Devante West and he just mocks broadly speaking. So this is not about Erika.
 
 Anchored Artifacts: A-2195.1
-Mentions: N-825, N-2
+Mentions: N-824, N-2
 Tags: relevance:tangential
 Investigative Direction: Retrieve the Instagram post and confirm the account holder's name.
 
@@ -1922,7 +1922,7 @@ Claim: The host says she tweeted that a tip from someone in Andrew Kolvet's inne
 Transcript Snippet: I said I received a tip from someone in Andrew's inner circle that he along with Turning Point in-house lawyer plus the CMO Marina Medvin are headed to the White House today.
 
 Anchored Artifacts: A-2986.1
-Mentions: N-14, N-495, N-3
+Mentions: N-14, N-494, N-3
 Related Nodes: N-10752, N-10075
 Tags: relevance:core
 Investigative Direction: White House visitor logs and the host's tweet timestamp; identify the tipster.
@@ -2051,7 +2051,7 @@ Claim: The host says she asked Kolvet openly whether he, Marina Medvin and Frank
 Transcript Snippet: meeting schedule at the White House you and and Marina Medias and Frank the in-house lawyer and I'm actually hearing there could be some more people.
 
 Anchored Artifacts: A-2986.1
-Mentions: N-14, N-495, N-496, N-3
+Mentions: N-14, N-494, N-495, N-3
 Related Nodes: N-10752, N-10075
 Tags: relevance:core
 Investigative Direction: Obtain White House visitor and appointment logs for the named TPUSA executives for the week.
@@ -2067,7 +2067,7 @@ Claim: The host says Benjamin Netanyahu is coming to Washington under the guise 
 Transcript Snippet: it's particular that this he's coming under the guise of Lindsey Graham's funeral. A state funeral.
 
 Anchored Artifacts: 
-Mentions: N-36, N-454, N-3
+Mentions: N-36, N-453, N-3
 Related Nodes: N-10752
 Tags: relevance:context
 Investigative Direction: Check official announcements of the funeral and Netanyahu's stated reason for travel.
@@ -2083,7 +2083,7 @@ Claim: The host says Netanyahu is flying in for the same reason Zelensky is, whi
 Transcript Snippet: Bibi Netanyahu is saying that he is flying in for the same reason Zelensky is flying in.
 
 Anchored Artifacts: 
-Mentions: N-36, N-713, N-3
+Mentions: N-36, N-712, N-3
 Related Nodes: N-10752
 Tags: relevance:tangential
 Investigative Direction: Check each leader's announced purpose and meetings.
@@ -2099,7 +2099,7 @@ Claim: The host says Andrew Kolvet (spelled Kobach in the transcript) is on reco
 Transcript Snippet: we know Andrew Kobach is on record. He does not like Lindsey Graham.
 
 Anchored Artifacts: 
-Mentions: N-14, N-454, N-3
+Mentions: N-14, N-453, N-3
 Related Nodes: N-10752
 Tags: relevance:context
 Investigative Direction: Find Kolvet's on-record remarks about Lindsey Graham.
@@ -2148,7 +2148,7 @@ Claim: The host says "they" try to psychologically break people to drive them cr
 Transcript Snippet: They they try to psychologically break you. That's what they did to Michael Jackson. It's what they did to Kanye West.
 
 Anchored Artifacts: 
-Mentions: N-741, N-27, N-3
+Mentions: N-740, N-27, N-3
 Tags: relevance:tangential
 Investigative Direction: No checkable record; recorded as stated.
 
@@ -2196,7 +2196,7 @@ Claim: The host refers to "that Kouri Richins girl who killed her husband" as an
 Transcript Snippet: You know, we had that Kouri Richins girl who killed her husband. And people have questions.
 
 Anchored Artifacts: 
-Mentions: N-639, N-3
+Mentions: N-638, N-3
 Related Nodes: N-10944
 Tags: relevance:tangential
 Investigative Direction: Consult the court record in the Kouri Richins case for the current legal status.
@@ -2212,7 +2212,7 @@ Claim: The host says Pastor Russell obviously works for pro-Israel Christians Un
 Transcript Snippet: he's obviously works for every pro-Israel Christians United for Israel. Like, this is actually him. Like, all he cares about is Israel and that's why Erika's partnered with him
 
 Anchored Artifacts: A-2192.2
-Mentions: N-528, N-2
+Mentions: N-527, N-2
 Related Nodes: N-11205
 Tags: relevance:context
 Investigative Direction: Check CUFI staff and affiliate listings for Pastor Russell and Pursuit Church.

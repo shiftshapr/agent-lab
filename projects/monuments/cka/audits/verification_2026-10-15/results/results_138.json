@@ -1,0 +1,793 @@
+[
+ {
+  "claim": "C-11420",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript \"Andrew Pascadlo\"; web confirms the person is Andrew Piskadlo (X @AndrewPiskadlo, attended the event). \"Piscatello\" is wrong.",
+  "fix": {
+   "claim": "The host says Andrew Piskadlo, who was detained that day, works to raise the alarm on military Ukrainian sex trafficking in the United States.",
+   "label": "Host Says Andrew Piskadlo Raises Alarms on Military Ukrainian Sex Trafficking",
+   "names": [
+    {
+     "wrong": "Andrew Piscatello",
+     "right": "Andrew Piskadlo",
+     "source": "https://x.com/AndrewPiskadlo/status/1967852781181735173"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-11421",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"That's an aside, Rob McCoy aside\"; claim reads it as removing McCoy from the list, which is an interpretation.",
+  "fix": {
+   "claim": "The host says Calvary Chapel Church is riddled with pastor abuse stories, adding \"that's an aside, Rob McCoy aside.\""
+  }
+ },
+ {
+  "claim": "C-11422",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11423",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"No one seems to be able to find on the internet\"; claim drops the hedge \"seems\".",
+  "fix": {
+   "claim": "The host says Erika Kirk has said she lived in China and worked with child sex trafficking victims, but is silent on it now and no one seems to be able to find which charity it was."
+  }
+ },
+ {
+  "claim": "C-11424",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11425",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11426",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"his pills\" (what are the pills he is doing with David J. Harris); claim says \"supplements\", an added detail.",
+  "fix": {
+   "claim": "The host says Victor Marx runs a charity for child sex abuse, and that she wants to add his pills to her spreadsheet."
+  }
+ },
+ {
+  "claim": "C-11427",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11428",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11429",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11430",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11431",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11432",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11433",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11434",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11435",
+  "episode": 92,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2744",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2745",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2746",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2747",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names \"Andrew\" (Kolvet) and Erika but Mentions lists only N-4.",
+  "fix": {
+   "mentions": [
+    "N-4",
+    "N-14",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-2748",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host presents a tipster-supplied screenshot and says it shows the 1:13 p.m. post; claim states it as fact with no host/screenshot framing.",
+  "fix": {
+   "claim": "The host says, per screenshots a tipster sent, that Victor Marx posted that Charlie was \"in heaven\" at 1:13 PM Mountain Time, before the public confirmation."
+  }
+ },
+ {
+  "claim": "C-2749",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2750",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2751",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2752",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Corby (Hall) as supplier and replier of the texts but Mentions lists only N-343.",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-2753",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"he I believe said that this conversation took place sometime in April. Skyler, is that right? I want to say it was April, but don't quote me\" -- the hedge is likely Skyler's, not the host's.",
+  "fix": {
+   "claim": "The host says Corby Hall believed the text conversation took place sometime in April, and states that it took place in April of 2025.",
+   "mentions": [
+    "N-344",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2754",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"Apparently, the Los Angeles Times did a piece\"; claim drops \"apparently\" and states it as reported fact.",
+  "fix": {
+   "claim": "The host says that, apparently, a 2012 Los Angeles Times piece reported that Robert Maxwell contributed $2 million of the initial $37 million Bain Capital sought to raise, alongside other foreign investors."
+  }
+ },
+ {
+  "claim": "C-2755",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2756",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2757",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2758",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2759",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2760",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"Someone in the comments... they heard first from Amir Safadi, or Amir Sarfati\". It is a comment, not an email tip, and Amir (N-350) is named but not in Mentions. Real name Amir Tsarfati.",
+  "fix": {
+   "claim": "A viewer comment the host reads says they heard first from Amir Safadi (or Sarfati) about Charlie Kirk's shooting; the host says she does not know if this is right and asks for evidence by email.",
+   "mentions": [
+    "N-1",
+    "N-350"
+   ],
+   "names": [
+    {
+     "wrong": "Amir Sarfati",
+     "right": "Amir Tsarfati",
+     "source": "https://x.com/beholdisrael/status/1966156041646698869"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2761",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Elizabeth Lane but Mentions lists only N-2; host: \"what Elizabeth Lane, the reporter, stated in her post\".",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-6"
+   ]
+  }
+ },
+ {
+  "claim": "C-2762",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"Credible threat\" is the host's paraphrase (\"saying that there was this very credible threat\"); CBS says \"unspecified security concerns\". Claim is the host's argument, not stated as such.",
+  "fix": {
+   "claim": "The host says Erika Kirk's stated reason for canceling, a very credible threat against her life, is contradicted by CBS News reporting that the Secret Service determined there were no credible threats."
+  }
+ },
+ {
+  "claim": "C-2763",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"They can, I believe, smell it... up to 7 days\"; claim drops \"I believe\" and the host's conclusion that it was not recently fired.",
+  "fix": {
+   "claim": "The host says bomb dogs were brought in and neither they nor the canines were able to determine that the recovered weapon had been recently fired, and she believes dogs can smell gun residue up to 7 days after a weapon is fired."
+  }
+ },
+ {
+  "claim": "C-11436",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11437",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Bari Weiss (N-280) is mentioned in the transcript but not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11438",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11439",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11440",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11441",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11442",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11443",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11444",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11445",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Andrew Kolvet (N-14); he is only addressed in the quote.",
+  "fix": {
+   "mentions": [
+    "N-4",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-11446",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11447",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11448",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11449",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11450",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11451",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11452",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11453",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Insider: \"She says that she was putting on a face... I agree that it was a bad look\"; the agreement is the insider's, claim reads it as Erika's.",
+  "fix": {
+   "claim": "The host reads the Daily Mail insider saying Erika told them she was putting on a brave face after Charlie's death, and that the insider agrees it was a bad look, that everyone told her it was a bad look, but she did it anyway."
+  }
+ },
+ {
+  "claim": "C-11454",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11455",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11456",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11457",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11458",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11459",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

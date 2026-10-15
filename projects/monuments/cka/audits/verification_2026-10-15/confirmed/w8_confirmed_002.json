@@ -1,0 +1,478 @@
+[
+ {
+  "claim": "C-2473",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Harpole SUV Story Did Not Match Circumstances",
+   "claim": "The host says Baron Coleman is working on examining why \"they\" told the story that Brian Harpole was hanging out of the SUV, which she says was not the circumstance when they pulled out."
+  },
+  "note": "Host does not say the photos show this; fix matches 30:45 block."
+ },
+ {
+  "claim": "C-2475",
+  "episode": 78,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:22:59",
+   "claim": "The host says Renee Crossman defends the cult, which, according to the investigative piece, was subsequently instructed to disperse and hide themselves in the world of nonprofit.",
+   "mentions": []
+  },
+  "note": "Statement exists but at 23:04 as host's summary of the piece, not in the 19:11 reading. Berg not referred to."
+ },
+ {
+  "claim": "C-12689",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14"
+   ]
+  },
+  "note": "Patel not named in this sentence."
+ },
+ {
+  "claim": "C-12698",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-587",
+    "N-46"
+   ]
+  },
+  "note": "Claim does not refer to Christina Babin."
+ },
+ {
+  "claim": "C-12739",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to the Charlie Kirk assassination."
+ },
+ {
+  "claim": "C-12740",
+  "episode": 78,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-685"
+   ]
+  },
+  "note": "Baron Coleman not in claim."
+ },
+ {
+  "claim": "C-2480",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the June 18 text exchange the host reads, Bret Weinstein wrote \"We have to shut these maniacs down\" regarding neocons advocating war with Iran, and Charlie Kirk replied \"thank you. I totally agree.\"",
+   "label": "Bret Weinstein Wrote Neocons Must Be Shut Down and Charlie Kirk Agreed"
+  },
+  "note": "Transcript: Bret wrote the line; Charlie replied 'thank you. I totally agree.'"
+ },
+ {
+  "claim": "C-2482",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-593"
+   ]
+  },
+  "note": "Host not referred to in claim."
+ },
+ {
+  "claim": "C-2484",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-97",
+    "N-101",
+    "N-2"
+   ],
+   "names": [
+    {
+     "wrong": "Erika Curren",
+     "right": "Erika Kirk",
+     "source": "https://www.ibtimes.co.uk/michael-knowles-candace-owens-erika-kirk-feud-1797272"
+    }
+   ]
+  },
+  "note": "Checked source: Knowles-Shapiro 'dance like a puppet' exchange in Erika Kirk feud; clip says 'widow of Charlie'."
+ },
+ {
+  "claim": "C-2485",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-595"
+   ]
+  },
+  "note": "Trump not referred to."
+ },
+ {
+  "claim": "C-2486",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Donald Trump says: \"We don't need oil... It's almost you could say we did it out of habit, which is not a good thing to do. But we did it because we have some good allies there. We have some great Middle Eastern countries there, Israel there. So, we did it for a lot of reasons.\"",
+   "mentions": [
+    "N-5"
+   ]
+  },
+  "note": "Restores hedge verbatim; Netanyahu not named."
+ },
+ {
+  "claim": "C-2488",
+  "episode": 79,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host reads statements attributed to governments including Germany, the EU, Britain, Australia, Japan, China, Spain and South Korea that decline or hedge on participating in Strait of Hormuz escort operations. She says Italy's Meloni described the war as part of a trend of interventions outside the scope of international law, and that France's Emmanuel Macron said he would be willing to use the French navy to escort ships only if the conflict stabilized.",
+   "mentions": [
+    "N-379",
+    "N-596"
+   ]
+  },
+  "note": "At 28:13 host names Macron as the French speaker; claim now names him so N-379 is justified."
+ },
+ {
+  "claim": "C-2490",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-60"
+   ]
+  },
+  "note": "Claim does not name Tucker Carlson."
+ },
+ {
+  "claim": "C-2492",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Headline claim names no person."
+ },
+ {
+  "claim": "C-11240",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-97",
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Megyn Kelly not in claim."
+ },
+ {
+  "claim": "C-11242",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Shapiro not in claim."
+ },
+ {
+  "claim": "C-11248",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-36",
+    "N-5"
+   ]
+  },
+  "note": "Weinstein not in claim."
+ },
+ {
+  "claim": "C-11260",
+  "episode": 79,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-101",
+    "N-3"
+   ]
+  },
+  "note": "Shapiro removal right; relevance change not supported - host gives it as context for the Shapiro-Knowles clip."
+ },
+ {
+  "claim": "C-11265",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-36"
+   ]
+  },
+  "note": "Trump not in claim."
+ },
+ {
+  "claim": "C-11274",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Knowles not in claim."
+ },
+ {
+  "claim": "C-11276",
+  "episode": 79,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Peterson not in claim."
+ },
+ {
+  "claim": "C-2495",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-211"
+   ]
+  },
+  "note": "Claim names Kent."
+ },
+ {
+  "claim": "C-2496",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-211"
+   ]
+  },
+  "note": "Claim names Kent."
+ },
+ {
+  "claim": "C-2497",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-211",
+    "N-945"
+   ],
+   "timestamp": "00:06:10"
+  },
+  "note": "Line read ~06:15; names Kent and Shannon."
+ },
+ {
+  "claim": "C-2498",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-211"
+   ]
+  },
+  "note": "Claim names Trump."
+ },
+ {
+  "claim": "C-2499",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5"
+   ]
+  },
+  "note": "Claim names Trump."
+ },
+ {
+  "claim": "C-2500",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-211",
+    "N-454"
+   ]
+  },
+  "note": "Claim refers to Kent."
+ },
+ {
+  "claim": "C-2501",
+  "episode": 80,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-211",
+    "N-246"
+   ],
+   "timestamp": "00:14:40"
+  },
+  "note": "Levin post is read in the 14:29 block (~14:45), not at 15:07."
+ },
+ {
+  "claim": "C-2502",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:16:10",
+   "mentions": [
+    "N-211",
+    "N-246"
+   ]
+  },
+  "note": "Levin DOJ line ~16:15."
+ },
+ {
+  "claim": "C-2503",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-49",
+    "N-60",
+    "N-211"
+   ]
+  },
+  "note": "Claim refers to Kent and Trump."
+ },
+ {
+  "claim": "C-2504",
+  "episode": 80,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-211",
+    "N-536"
+   ],
+   "timestamp": "00:15:40"
+  },
+  "note": "Dershowitz post read at end of 15:07 block (~15:45), before 15:58."
+ },
+ {
+  "claim": "C-2505",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:16:00",
+   "mentions": [
+    "N-152",
+    "N-211"
+   ]
+  },
+  "note": "Budowich tweet ~16:05."
+ },
+ {
+  "claim": "C-2507",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:30:50",
+   "mentions": []
+  },
+  "note": "Announcement and clip begin ~30:50-31:00; no person named in claim."
+ },
+ {
+  "claim": "C-2509",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:31:40",
+   "mentions": [
+    "N-944"
+   ]
+  },
+  "note": "Unanimous/letter said ~31:45."
+ },
+ {
+  "claim": "C-2510",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-944"
+   ]
+  },
+  "note": "Letter is Fonte Grassi's."
+ },
+ {
+  "claim": "C-2511",
+  "episode": 80,
+  "decision": "amend",
+  "fix": {
+   "label": "Host Says Fonte Grassi Participated in Kirk's July Israel/Gaza Discussion",
+   "claim": "The host says Dino Fonte Grassi was part of a Charlie Kirk sit-down in July discussing Israel and Gaza with students.",
+   "mentions": [
+    "N-1",
+    "N-944"
+   ],
+   "timestamp": "00:33:20"
+  },
+  "note": "Fix right; also the statement is near end of 32:20 block (~33:25), so 33:39 is late."
+ },
+ {
+  "claim": "C-2512",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-602"
+   ]
+  },
+  "note": "Claim names Bessent."
+ },
+ {
+  "claim": "C-2513",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-602"
+   ]
+  },
+  "note": "Claim names Bessent."
+ },
+ {
+  "claim": "C-2516",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:49:10",
+   "claim": "The host says that, after a rumor that Netanyahu was hit by an Iranian missile, the Prime Minister's official account posted a video on the 14th that she says feels AI and shows him with a smoothed-out face."
+  },
+  "note": "'Finger gate... on the 14th' ~49:15; AI/smoothed view is the host's."
+ },
+ {
+  "claim": "C-2517",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-36"
+   ]
+  },
+  "note": "Claim names Netanyahu."
+ }
+]

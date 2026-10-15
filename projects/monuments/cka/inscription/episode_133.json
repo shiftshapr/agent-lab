@@ -1197,8 +1197,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-355",
-      "ref": "N-355",
+      "@id": "N-354",
+      "ref": "N-354",
       "name": "Steve Wynn",
       "type": "person",
       "description": "Named by the host as a billionaire guest at the Aspen fundraiser.",
@@ -1248,9 +1248,9 @@
     },
     {
       "@type": "Person",
-      "@id": "N-412",
-      "ref": "N-412",
-      "name": "Zachariah Karashy",
+      "@id": "N-411",
+      "ref": "N-411",
+      "name": "Zachariah Qureshi",
       "type": "person",
       "description": "Man the host says was detained and released after the shooting; she raises his father's military app.",
       "related_artifacts": [],
@@ -1267,8 +1267,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-432",
-      "ref": "N-432",
+      "@id": "N-431",
+      "ref": "N-431",
       "name": "Brad Parscale",
       "type": "person",
       "description": "Host recalls meeting him years ago.",
@@ -1304,8 +1304,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-495",
-      "ref": "N-495",
+      "@id": "N-494",
+      "ref": "N-494",
       "name": "Marina (TPUSA CMO)",
       "type": "person",
       "description": "TPUSA chief marketing officer named by the host as scheduled for the White House meeting.",
@@ -1321,8 +1321,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-496",
-      "ref": "N-496",
+      "@id": "N-495",
+      "ref": "N-495",
       "name": "\"Frank\" (TPUSA General Counsel)",
       "type": "person",
       "description": "In-house legal counsel named by the host as scheduled for the White House meeting.",
@@ -1338,8 +1338,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-531",
-      "ref": "N-531",
+      "@id": "N-530",
+      "ref": "N-530",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Epstein associate whom the host describes in her Phelan manifest discussion.",
@@ -1357,8 +1357,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-572",
-      "ref": "N-572",
+      "@id": "N-571",
+      "ref": "N-571",
       "name": "Faith Kates",
       "type": "person",
       "description": "Head of the modeling firm the host ties to Brunel and Erika Kirk.",
@@ -1409,8 +1409,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-783",
-      "ref": "N-783",
+      "@id": "N-782",
+      "ref": "N-782",
       "name": "Mitchell Curtis",
       "type": "person",
       "description": "First named by the host at 00:21:00 in episode 133; she says he is a Pleasant Grove officer and 2025 UVU graduate who found the gun.",
@@ -1428,8 +1428,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-784",
-      "ref": "N-784",
+      "@id": "N-783",
+      "ref": "N-783",
       "name": "Foster Curtis",
       "type": "person",
       "description": "First named by the host at 00:21:00 in episode 133; she says he is Mitchell Curtis's father, a 21-year NCIS veteran.",
@@ -1448,8 +1448,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-785",
-      "ref": "N-785",
+      "@id": "N-784",
+      "ref": "N-784",
       "name": "James Osuna",
       "type": "person",
       "description": "First named by the host at 00:22:40 in episode 133; she says he was Richmond's inspector general for six years before being fired.",
@@ -1465,8 +1465,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-786",
-      "ref": "N-786",
+      "@id": "N-785",
+      "ref": "N-785",
       "name": "John C. Phelan",
       "type": "person",
       "description": "First named by the host at 00:27:47 in episode 133 (transcript spelling 'felon failen'); Secretary of the Navy.",
@@ -1542,9 +1542,9 @@
       "@type": "Topic",
       "@id": "N-11142",
       "ref": "N-11142",
-      "name": "Zachariah Karashy Detention and Release Question",
+      "name": "Zachariah Qureshi Detention and Release Question",
       "type": "topic",
-      "description": "The host's questions about why Zachariah Karashy was arrested and interrogated and then released, and about his father's military app.",
+      "description": "The host's questions about why Zachariah Qureshi was arrested and interrogated and then released, and about his father's military app.",
       "related_artifacts": [],
       "related_claims": [
         "C-7356",
@@ -1682,7 +1682,7 @@
       "claim_timestamp": "00:30:41–00:31:35",
       "investigative_direction": "Verify against released October 2025 House Committee manifest documents and cross-reference Brunel's known 2006 travel.",
       "mentions_person_refs": [
-        "N-531"
+        "N-530"
       ]
     },
     {
@@ -1792,9 +1792,9 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-495",
+        "N-494",
         "N-15",
-        "N-496",
+        "N-495",
         "N-36"
       ]
     },
@@ -1867,8 +1867,8 @@
       "@type": "Claim",
       "@id": "C-7356",
       "ref": "C-7356",
-      "label": "Host Says Zachariah Karashy Was Arrested, Interrogated and Released",
-      "claim": "The host says local police went to Zachariah Karashy's apartment in Provo, he was brought in and interrogated by the feds, and then released, and she asks what evidence led to his arrest and why he was let go.",
+      "label": "Host Says Zachariah Qureshi Was Arrested, Interrogated and Released",
+      "claim": "The host says local police went to Zachariah Qureshi's apartment in Provo, he was brought in and interrogated by the feds, and then released, and she asks what evidence led to his arrest and why he was let go.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11142",
@@ -1885,7 +1885,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-412"
+        "N-411"
       ]
     },
     {
@@ -1893,7 +1893,7 @@
       "@id": "C-7357",
       "ref": "C-7357",
       "label": "Host Says Only Two People Were Detained, Zinn and Karashy",
-      "claim": "The host says only two people were detained after the shooting, George Zinn, whom she says was detained because he said he did it, and Zachariah Karashy, who was released without explanation.",
+      "claim": "The host says only two people were detained after the shooting, George Zinn, whom she says was detained because he said he did it, and Zachariah Qureshi, who was released without explanation.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11142"
@@ -1907,7 +1907,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-42",
-        "N-412"
+        "N-411"
       ]
     },
     {
@@ -1915,7 +1915,7 @@
       "@id": "C-7358",
       "ref": "C-7358",
       "label": "Host Says Karashy's Father Owns a Military App Tied to Fort Huachuca",
-      "claim": "The host says Zachariah Karashy's father is a career military man who owns and operates a military app tied to operations and Fort Huachuca and received a lot of money from the Department of Defense.",
+      "claim": "The host says Zachariah Qureshi's father is a career military man who owns and operates a military app tied to operations and Fort Huachuca and received a lot of money from the Department of Defense.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11142"
@@ -1931,7 +1931,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-412"
+        "N-411"
       ]
     },
     {
@@ -2285,7 +2285,7 @@
       "transcript_snippet": "I'm told Mitchell Curtis of Pleasant Grove Police, 2025 graduate, very young buck.",
       "mentions_person_refs": [
         "N-3",
-        "N-783"
+        "N-782"
       ]
     },
     {
@@ -2309,8 +2309,8 @@
       "transcript_snippet": "His father's name is Foster Curtis. Foster lives in Virginia. Foster spent 21 years with NCIS, starting as a special agent",
       "mentions_person_refs": [
         "N-3",
-        "N-783",
-        "N-784"
+        "N-782",
+        "N-783"
       ]
     },
     {
@@ -2354,7 +2354,7 @@
       "transcript_snippet": "Foster Curtis after 21 years decided to leave his position as a division chief and to be Richmond, Virginia's interim inspector general.",
       "mentions_person_refs": [
         "N-3",
-        "N-784"
+        "N-783"
       ]
     },
     {
@@ -2377,8 +2377,8 @@
       "transcript_snippet": "No comments will be made on personnel matters and NDAs were signed.",
       "mentions_person_refs": [
         "N-3",
-        "N-785",
-        "N-784"
+        "N-784",
+        "N-783"
       ]
     },
     {
@@ -2400,8 +2400,8 @@
       "transcript_snippet": "We can now add Mitch and Foster.",
       "mentions_person_refs": [
         "N-3",
-        "N-783",
-        "N-784"
+        "N-782",
+        "N-783"
       ]
     },
     {
@@ -2423,7 +2423,7 @@
       "transcript_snippet": "Trump appointed a guy with literally zero military experience into that position.",
       "mentions_person_refs": [
         "N-3",
-        "N-786",
+        "N-785",
         "N-5"
       ]
     },
@@ -2445,9 +2445,9 @@
       "transcript_snippet": "by hosting this private fundraiser for Trump in Aspen, which featured billionaire guests like Steve Win in attendance.",
       "mentions_person_refs": [
         "N-3",
-        "N-786",
+        "N-785",
         "N-5",
-        "N-355"
+        "N-354"
       ]
     },
     {
@@ -2473,7 +2473,7 @@
         "N-3",
         "N-9",
         "N-5",
-        "N-786"
+        "N-785"
       ]
     },
     {
@@ -2494,7 +2494,7 @@
       "transcript_snippet": "he's the second one who probably didn't kill himself, but did end up hung in a prison.",
       "mentions_person_refs": [
         "N-3",
-        "N-531",
+        "N-530",
         "N-9"
       ]
     },
@@ -2516,7 +2516,7 @@
       "transcript_snippet": "sent Jeffrey Epstein, I think is it 8-year-old triplets for his birthday?",
       "mentions_person_refs": [
         "N-3",
-        "N-531",
+        "N-530",
         "N-9"
       ]
     },
@@ -2538,8 +2538,8 @@
       "transcript_snippet": "also happened to start um be one of the founders of that firm that was run by Faith Kates",
       "mentions_person_refs": [
         "N-3",
-        "N-531",
-        "N-572"
+        "N-530",
+        "N-571"
       ]
     },
     {
@@ -2564,7 +2564,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-572"
+        "N-571"
       ]
     },
     {
@@ -2760,7 +2760,7 @@
       "transcript_snippet": "Brad and I had a friendly relationship.",
       "mentions_person_refs": [
         "N-3",
-        "N-432"
+        "N-431"
       ]
     },
     {

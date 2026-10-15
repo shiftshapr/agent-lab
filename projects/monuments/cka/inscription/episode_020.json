@@ -97,7 +97,7 @@
             "C-1495"
           ],
           "related_nodes": [
-            "N-191"
+            "N-190"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -149,7 +149,7 @@
             "C-1497"
           ],
           "related_nodes": [
-            "N-189"
+            "N-188"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -203,7 +203,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-192",
+            "N-191",
             "N-1",
             "N-2"
           ],
@@ -231,8 +231,8 @@
             "C-1501"
           ],
           "related_nodes": [
-            "N-193",
-            "N-192"
+            "N-192",
+            "N-191"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -259,7 +259,7 @@
           ],
           "related_nodes": [
             "N-7",
-            "N-192"
+            "N-191"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -367,7 +367,7 @@
             "C-1509"
           ],
           "related_nodes": [
-            "N-194"
+            "N-193"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -395,7 +395,7 @@
           ],
           "related_nodes": [
             "N-14",
-            "N-192",
+            "N-191",
             "N-7",
             "N-17",
             "N-41",
@@ -426,7 +426,7 @@
           ],
           "related_nodes": [
             "N-1",
-            "N-191",
+            "N-190",
             "N-3"
           ],
           "tags": [],
@@ -506,7 +506,7 @@
             "C-12172"
           ],
           "related_nodes": [
-            "N-191",
+            "N-190",
             "N-27",
             "N-3"
           ],
@@ -640,7 +640,7 @@
           "related_nodes": [
             "N-1",
             "N-14",
-            "N-192",
+            "N-191",
             "N-3"
           ],
           "tags": [],
@@ -681,8 +681,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-191",
-      "ref": "N-191",
+      "@id": "N-190",
+      "ref": "N-190",
       "name": "Mike Cernovich",
       "type": "person",
       "description": "Commentator; author of an April 2018 tweet thread on cosmic \"energy shift\" referenced by the host as corroborating her and Charlie's premonitions.",
@@ -701,8 +701,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-189",
-      "ref": "N-189",
+      "@id": "N-188",
+      "ref": "N-188",
       "name": "Scott Adams",
       "type": "person",
       "description": "Commentator; subject of audio clip characterizing Kanye's April 2018 tweet as having \"ripped a hole in reality.\"",
@@ -739,15 +739,15 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-192",
+        "N-191",
         "N-1",
         "N-2"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Charlie Kirk's chief of staff (per on-air references); subject of behavioral questions on September 10, 2025 and the focus of TPUSA's on-air defense.",
@@ -778,8 +778,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-193",
-      "ref": "N-193",
+      "@id": "N-192",
+      "ref": "N-192",
       "name": "Alex Marlow",
       "type": "person",
       "description": "Breitbart News; subject of on-air clip dismissing conspiracy allegations against Mikey McCoy and characterizing online speculation as addictive.",
@@ -861,8 +861,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-194",
-      "ref": "N-194",
+      "@id": "N-193",
+      "ref": "N-193",
       "name": "Nathan Livingstone",
       "type": "person",
       "description": "Operator of \"Milk Bar TV\" account; subject of host's account of book-club content reuse and copyright strike.",
@@ -880,8 +880,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-195",
-      "ref": "N-195",
+      "@id": "N-194",
+      "ref": "N-194",
       "name": "David Horowitz",
       "type": "person",
       "description": "Activist; referenced on air as initial conduit between Candace and Kanye post-April 2018 tweet.",
@@ -897,8 +897,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-156",
-      "ref": "N-156",
+      "@id": "N-155",
+      "ref": "N-155",
       "name": "John Mappin",
       "type": "person",
       "description": "UK-based donors (spelling uncertain per transcript); identified on air as facilitators of the December 2018 UK event where Candace first met her husband. Name uncertainty flagged.",
@@ -914,8 +914,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-197",
-      "ref": "N-197",
+      "@id": "N-196",
+      "ref": "N-196",
       "name": "Lee Trotter",
       "type": "person",
       "description": "Surgeon referenced on air as having worked on Charlie Kirk; host alleges Air Force residency at Keesler Air Force Medical Center and possible active Air Force service.",
@@ -931,8 +931,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-178",
-      "ref": "N-178",
+      "@id": "N-177",
+      "ref": "N-177",
       "name": "Deirdre Amaro",
       "type": "person",
       "description": "Medical examiner referenced on air; host alleges Army rank of major and Ericsson family lineage tied to Boyd Corporation.",
@@ -948,8 +948,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-198",
-      "ref": "N-198",
+      "@id": "N-197",
+      "ref": "N-197",
       "name": "Roy Edgar McCoy",
       "type": "person",
       "description": "Naval captain (deceased, per context); father of Rob McCoy; host alleges service as assistant chief of staff for psychological warfare in the Navy.",
@@ -969,8 +969,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-199",
-      "ref": "N-199",
+      "@id": "N-198",
+      "ref": "N-198",
       "name": "Jacob Blank",
       "type": "person",
       "description": "Signatory of the UVU Hospital internal message restricting access to the Charlie Kirk trauma file.",
@@ -986,8 +986,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-200",
-      "ref": "N-200",
+      "@id": "N-199",
+      "ref": "N-199",
       "name": "George Webb",
       "type": "person",
       "description": "Investigative journalist; subject of on-air audio clip providing commentary on Rob McCoy's military background and NAR/Ziklag connections.",
@@ -1024,7 +1024,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-199"
+        "N-198"
       ]
     },
     {
@@ -1049,7 +1049,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-14",
-        "N-192",
+        "N-191",
         "N-7",
         "N-17",
         "N-41"
@@ -1079,7 +1079,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -1492,8 +1492,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-157",
-      "ref": "N-157",
+      "@id": "N-156",
+      "ref": "N-156",
       "name": "Irina Mappin",
       "type": "person",
       "description": "Irina Mappin; with John Mappin arranged the host's UK event.",
@@ -1509,8 +1509,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-172",
-      "ref": "N-172",
+      "@id": "N-171",
+      "ref": "N-171",
       "name": "Tate Brothers (Andrew and Tristan)",
       "type": "person",
       "description": "Tate Brothers; the host mentions a lawyer for one of Andrew Tate's accusers.",
@@ -1527,8 +1527,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-183",
-      "ref": "N-183",
+      "@id": "N-182",
+      "ref": "N-182",
       "name": "Sam Parker",
       "type": "person",
       "description": "Sam Parker; named as one of those who surfaced the Mikey McCoy video.",
@@ -1544,8 +1544,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-184",
-      "ref": "N-184",
+      "@id": "N-183",
+      "ref": "N-183",
       "name": "James Lee",
       "type": "person",
       "description": "James Lee; named as one of those who surfaced the Mikey McCoy video.",
@@ -1561,8 +1561,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-230",
-      "ref": "N-230",
+      "@id": "N-229",
+      "ref": "N-229",
       "name": "Lila Rose",
       "type": "person",
       "description": "Lila Rose; the host links her to Marissa Streit's donors, the Christ is King jibe and a Tate-related guest.",
@@ -1581,8 +1581,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-280",
-      "ref": "N-280",
+      "@id": "N-279",
+      "ref": "N-279",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Bari Weiss; the host mentions a story about her grandfather.",
@@ -1598,8 +1598,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-300",
-      "ref": "N-300",
+      "@id": "N-299",
+      "ref": "N-299",
       "name": "Miriam Adelson",
       "type": "person",
       "description": "Miriam Adelson; the host says she gave Trump $100 million tied to annexation.",
@@ -1615,8 +1615,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-361",
-      "ref": "N-361",
+      "@id": "N-360",
+      "ref": "N-360",
       "name": "Kim Kardashian",
       "type": "person",
       "description": "Kim Kardashian; the host says she wanted nothing to do with Kanye's politics.",
@@ -1632,8 +1632,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-379",
-      "ref": "N-379",
+      "@id": "N-378",
+      "ref": "N-378",
       "name": "Emmanuel Macron",
       "type": "person",
       "description": "Emmanuel Macron; subject of two tangential host claims.",
@@ -1650,8 +1650,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-486",
-      "ref": "N-486",
+      "@id": "N-485",
+      "ref": "N-485",
       "name": "Blake Lively",
       "type": "person",
       "description": "Blake Lively; the lawsuit in which the host says she was drafted.",
@@ -1667,8 +1667,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-487",
-      "ref": "N-487",
+      "@id": "N-486",
+      "ref": "N-486",
       "name": "Justin Baldoni",
       "type": "person",
       "description": "Justin Baldoni; the other party in that lawsuit.",
@@ -1684,8 +1684,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-522",
-      "ref": "N-522",
+      "@id": "N-521",
+      "ref": "N-521",
       "name": "Rothschild Family",
       "type": "person",
       "description": "Rothschild family; named in the host's claim about Macron.",
@@ -1701,8 +1701,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-711",
-      "ref": "N-711",
+      "@id": "N-710",
+      "ref": "N-710",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; named in two historical assertions by the host.",
@@ -2115,8 +2115,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-907",
-      "ref": "N-907",
+      "@id": "N-906",
+      "ref": "N-906",
       "name": "Eric Weinstein",
       "type": "person",
       "description": "Named by the host in episode 20 as someone who reached out after the 2018 Kanye tweet.",
@@ -2132,8 +2132,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-908",
-      "ref": "N-908",
+      "@id": "N-907",
+      "ref": "N-907",
       "name": "Rick Rubin",
       "type": "person",
       "description": "Music producer named by the host in episode 20 as getting involved after the 2018 Kanye tweet.",
@@ -2149,8 +2149,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-909",
-      "ref": "N-909",
+      "@id": "N-908",
+      "ref": "N-908",
       "name": "John Lewis",
       "type": "person",
       "description": "Named by the host in episode 20 as a former Daily Wire president who was a naval intelligence officer turned pastor (identity as stated on air, unverified).",
@@ -2166,8 +2166,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-910",
-      "ref": "N-910",
+      "@id": "N-909",
+      "ref": "N-909",
       "name": "MrBeast",
       "type": "person",
       "description": "YouTuber (transcribed \"Mr. Beast\") whose parents the host says are high up in the military.",
@@ -2402,7 +2402,7 @@
       "claim_timestamp": "00:04:50",
       "investigative_direction": "Obtain archived copies of Cernovich's tweet thread (Wayback Machine, third-party archives) to verify wording and dating.",
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -2419,7 +2419,7 @@
       "claim_timestamp": "00:04:50",
       "investigative_direction": "Identify and timestamp any other contemporaneous public statements or private messages corroborating the \"energy shift\" framing.",
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -2454,7 +2454,7 @@
       "claim_timestamp": "00:07:00–00:09:05",
       "investigative_direction": "Locate and timestamp original Scott Adams video; verify exact wording against played clip.",
       "mentions_person_refs": [
-        "N-189"
+        "N-188"
       ]
     },
     {
@@ -2491,7 +2491,7 @@
         "N-1",
         "N-2",
         "N-14",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -2509,7 +2509,7 @@
       "investigative_direction": "Obtain the full video clip from which Kolvet's narration derives, and time-stamp Mikey's actions frame-by-frame.",
       "mentions_person_refs": [
         "N-14",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -2526,8 +2526,8 @@
       "claim_timestamp": "00:46:30–00:48:30",
       "investigative_direction": "Identify date and outlet of Marlo's full segment; obtain full unedited clip.",
       "mentions_person_refs": [
-        "N-192",
-        "N-193"
+        "N-191",
+        "N-192"
       ]
     },
     {
@@ -2545,7 +2545,7 @@
       "investigative_direction": "Identify date and outlet of Turk's full segment; confirm Mikey McCoy's age at the time of the September 10 event.",
       "mentions_person_refs": [
         "N-7",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -2565,7 +2565,7 @@
       "investigative_direction": "Obtain independent verification of the message (forensic metadata, screenshots from multiple UVU staff); identify the two named individuals and their institutional roles.",
       "mentions_person_refs": [
         "N-1",
-        "N-199"
+        "N-198"
       ]
     },
     {
@@ -2605,8 +2605,8 @@
       "investigative_direction": "Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources.",
       "mentions_person_refs": [
         "N-17",
-        "N-198",
-        "N-200"
+        "N-197",
+        "N-199"
       ]
     },
     {
@@ -2626,7 +2626,7 @@
       "investigative_direction": "Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events.",
       "mentions_person_refs": [
         "N-17",
-        "N-200"
+        "N-199"
       ]
     },
     {
@@ -2677,7 +2677,7 @@
       "claim_timestamp": "00:53:15",
       "investigative_direction": "Obtain archived copies of Livingstone's tweet and the original watermarked re-upload; verify the platform's copyright-strike record.",
       "mentions_person_refs": [
-        "N-194"
+        "N-193"
       ]
     },
     {
@@ -2694,7 +2694,7 @@
       "claim_timestamp": "00:10:55",
       "investigative_direction": "Tie to primary on-screen artifact in a follow-up pass if needed.",
       "mentions_person_refs": [
-        "N-195"
+        "N-194"
       ]
     },
     {
@@ -2711,8 +2711,8 @@
       "claim_timestamp": "00:16:10",
       "investigative_direction": "Obtain on-screen citations from the Macron segment.",
       "mentions_person_refs": [
+        "N-155",
         "N-156",
-        "N-157",
         "N-1"
       ]
     },
@@ -2730,7 +2730,7 @@
       "claim_timestamp": "00:29:00",
       "investigative_direction": "Cross-reference hospital message artifacts.",
       "mentions_person_refs": [
-        "N-197",
+        "N-196",
         "N-1"
       ]
     },
@@ -2748,7 +2748,7 @@
       "claim_timestamp": "00:29:35",
       "investigative_direction": "Verify spelling against hospital records if released.",
       "mentions_person_refs": [
-        "N-178",
+        "N-177",
         "N-1"
       ]
     },
@@ -2899,7 +2899,7 @@
       "investigative_direction": "Check web archives for the April 2018 Cernovich thread and ask Cernovich whether he deleted it.",
       "transcript_snippet": "He has since deleted&nbsp; these tweets, but you can ask him",
       "mentions_person_refs": [
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -2923,7 +2923,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -3004,7 +3004,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-27",
-        "N-195"
+        "N-194"
       ]
     },
     {
@@ -3023,7 +3023,7 @@
       "transcript_snippet": "He's&nbsp;&nbsp; the one that first invited me when I was going&nbsp; viral on YouTube to speak at his conference.",
       "mentions_person_refs": [
         "N-3",
-        "N-195"
+        "N-194"
       ]
     },
     {
@@ -3047,7 +3047,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-195",
+        "N-194",
         "N-36"
       ]
     },
@@ -3067,7 +3067,7 @@
       "transcript_snippet": "my son knows Kanye and I would like to facilitate&nbsp; that meeting.",
       "mentions_person_refs": [
         "N-3",
-        "N-195",
+        "N-194",
         "N-27"
       ]
     },
@@ -3087,7 +3087,7 @@
       "transcript_snippet": "Suddenly, they get Eric Weinstein&nbsp;&nbsp; involved and he reaches out and he pretends that&nbsp; he wants to be a friend to me.",
       "mentions_person_refs": [
         "N-3",
-        "N-907"
+        "N-906"
       ]
     },
     {
@@ -3106,7 +3106,7 @@
       "transcript_snippet": "Another player in this was Rick Rubin.&nbsp; Yeah, the big music industry. Rick Rubin also&nbsp;&nbsp; got into the mix and wanted to facilitate certain&nbsp; meetings.",
       "mentions_person_refs": [
         "N-3",
-        "N-908"
+        "N-907"
       ]
     },
     {
@@ -3187,7 +3187,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-27",
-        "N-361"
+        "N-360"
       ]
     },
     {
@@ -3321,7 +3321,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-27",
-        "N-191"
+        "N-190"
       ]
     },
     {
@@ -3344,8 +3344,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-156",
-        "N-157"
+        "N-155",
+        "N-156"
       ]
     },
     {
@@ -3712,7 +3712,7 @@
       "transcript_snippet": "the&nbsp; president at the time of the Daily Wire was also&nbsp;&nbsp; a naval intelligence officer who decided to become&nbsp; a pastor that was John Lewis",
       "mentions_person_refs": [
         "N-3",
-        "N-909"
+        "N-908"
       ]
     },
     {
@@ -3733,7 +3733,7 @@
       "transcript_snippet": "Mr. Beast, both of his parents high&nbsp;&nbsp; up in the military.",
       "mentions_person_refs": [
         "N-3",
-        "N-910"
+        "N-909"
       ]
     },
     {
@@ -3752,7 +3752,7 @@
       "transcript_snippet": "I met her through Marissa uh kind&nbsp;&nbsp; of the same people funding both",
       "mentions_person_refs": [
         "N-3",
-        "N-230",
+        "N-229",
         "N-117"
       ]
     },
@@ -3772,7 +3772,7 @@
       "transcript_snippet": "jump on the attacking the Christ is king or&nbsp; trying to rationalize why we shouldn't say Christ&nbsp;&nbsp; is king all the time and she was like the lone&nbsp; Catholic that was doing that",
       "mentions_person_refs": [
         "N-3",
-        "N-230"
+        "N-229"
       ]
     },
     {
@@ -3791,8 +3791,8 @@
       "transcript_snippet": "she had someone on her show that&nbsp;&nbsp; was Andrew Tate's one of the accusers lawyers and&nbsp; I was like this is nothing to do with the pro-life&nbsp;&nbsp; movement.",
       "mentions_person_refs": [
         "N-3",
-        "N-230",
-        "N-172"
+        "N-229",
+        "N-171"
       ]
     },
     {
@@ -3811,9 +3811,9 @@
       "transcript_snippet": "that woman then attacked&nbsp;&nbsp; me and Tucker Carlson.",
       "mentions_person_refs": [
         "N-3",
-        "N-230",
+        "N-229",
         "N-22",
-        "N-172"
+        "N-171"
       ]
     },
     {
@@ -3832,7 +3832,7 @@
       "transcript_snippet": "A bomb thrown on uh at his house&nbsp; in I think it's in Philly or somewhere. Maybe it's&nbsp;&nbsp; Pittsburgh and that's related to the casinos.",
       "mentions_person_refs": [
         "N-3",
-        "N-280"
+        "N-279"
       ]
     },
     {
@@ -3853,7 +3853,7 @@
       "transcript_snippet": "everyone's somehow attached to&nbsp; Raytheon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Raytheon in one way or the other.",
       "mentions_person_refs": [
         "N-3",
-        "N-910"
+        "N-909"
       ]
     },
     {
@@ -3939,7 +3939,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-197"
+        "N-196"
       ]
     },
     {
@@ -3960,7 +3960,7 @@
       "transcript_snippet": "He completed a residency at the&nbsp; Keesler Air Force Medical Center in Mississippi",
       "mentions_person_refs": [
         "N-3",
-        "N-197"
+        "N-196"
       ]
     },
     {
@@ -3981,7 +3981,7 @@
       "transcript_snippet": "there's a&nbsp; person who matches his name age description&nbsp;&nbsp; living where he's living uh who is actually in the&nbsp; air force and he also for a fact is a pilot",
       "mentions_person_refs": [
         "N-3",
-        "N-197"
+        "N-196"
       ]
     },
     {
@@ -4003,7 +4003,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-178"
+        "N-177"
       ]
     },
     {
@@ -4025,7 +4025,7 @@
       "transcript_snippet": "She's a major in the army. She's also&nbsp;&nbsp; from a major corporation.",
       "mentions_person_refs": [
         "N-3",
-        "N-178"
+        "N-177"
       ]
     },
     {
@@ -4044,7 +4044,7 @@
       "transcript_snippet": "The Ericson Boyd Corporation&nbsp;&nbsp; is her family. She tells people that she is a&nbsp; direct descendant of Leif Erikson.",
       "mentions_person_refs": [
         "N-3",
-        "N-178"
+        "N-177"
       ]
     },
     {
@@ -4065,7 +4065,7 @@
       "transcript_snippet": "the military-industrial complex&nbsp;&nbsp; that shot JFK to maintain power has created a&nbsp; veneer um of reality for us",
       "mentions_person_refs": [
         "N-3",
-        "N-711"
+        "N-710"
       ]
     },
     {
@@ -4305,7 +4305,7 @@
       "transcript_snippet": "Lee Trotter, which I have heard works at both&nbsp; limited surgeons going back and forth.",
       "mentions_person_refs": [
         "N-3",
-        "N-197"
+        "N-196"
       ]
     },
     {
@@ -4397,7 +4397,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -4418,10 +4418,10 @@
       "transcript_snippet": "who had discovered this&nbsp;&nbsp; over the weekend. So, like James Lee, Ian Carroll,&nbsp; Sam Parker.",
       "mentions_person_refs": [
         "N-3",
-        "N-192",
-        "N-184",
+        "N-191",
+        "N-183",
         "N-130",
-        "N-183"
+        "N-182"
       ]
     },
     {
@@ -4442,7 +4442,7 @@
       "transcript_snippet": "it tracks that Mikey would be&nbsp;&nbsp; taking videos behind like you know when Charlie&nbsp; first comes out of the event he's throwing hats.",
       "mentions_person_refs": [
         "N-3",
-        "N-192",
+        "N-191",
         "N-1"
       ]
     },
@@ -4462,7 +4462,7 @@
       "transcript_snippet": "Before Mikey McCoy did this, it was Sarah&nbsp;&nbsp; Schmackenberger.",
       "mentions_person_refs": [
         "N-3",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -4488,7 +4488,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-192",
+        "N-191",
         "N-14"
       ]
     },
@@ -4512,7 +4512,7 @@
       "transcript_snippet": "Mikey is not&nbsp; standing to the side of Charlie. He is behind.",
       "mentions_person_refs": [
         "N-3",
-        "N-192",
+        "N-191",
         "N-1"
       ]
     },
@@ -4539,7 +4539,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -4562,7 +4562,7 @@
       "transcript_snippet": "it would&nbsp;&nbsp; be unlikely that you would keep holding your&nbsp; ears until you get all the way out and that you&nbsp;&nbsp; wouldn't duck down.",
       "mentions_person_refs": [
         "N-3",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -4613,7 +4613,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-192"
+        "N-191"
       ]
     },
     {
@@ -4634,8 +4634,8 @@
       "transcript_snippet": "live subpoenaed myself, held up my&nbsp;&nbsp; phone, I typed in Blake Lively, and I showed you&nbsp; the only two times that I had ever texted about&nbsp;&nbsp; her in my phone at all",
       "mentions_person_refs": [
         "N-3",
-        "N-486",
-        "N-487"
+        "N-485",
+        "N-486"
       ]
     },
     {
@@ -4658,7 +4658,7 @@
       "transcript_snippet": "Alex Marlow, who&nbsp; runs Breitbart News, was their guest for the day&nbsp;&nbsp; on the show",
       "mentions_person_refs": [
         "N-3",
-        "N-193"
+        "N-192"
       ]
     },
     {
@@ -4801,7 +4801,7 @@
       "transcript_snippet": "it's a typical federal maneuver,&nbsp;&nbsp; by the way, to kill someone like Martin Luther&nbsp; King or JFK and then they get a holiday.",
       "mentions_person_refs": [
         "N-3",
-        "N-711"
+        "N-710"
       ]
     },
     {
@@ -4858,8 +4858,8 @@
       "transcript_snippet": "Emmanuel Macron is in fact just&nbsp;&nbsp; like the state of Israel, a Rothschild's creation",
       "mentions_person_refs": [
         "N-3",
-        "N-379",
-        "N-522"
+        "N-378",
+        "N-521"
       ]
     },
     {
@@ -4967,7 +4967,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-82",
-        "N-379"
+        "N-378"
       ]
     },
     {
@@ -5167,7 +5167,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-300"
+        "N-299"
       ]
     },
     {

@@ -1463,13 +1463,6 @@
       "Robert Bohls"
     ],
     [
-      "\\bRobert Bowles\\b",
-      "Robert Bohls",
-      [
-        12
-      ]
-    ],
-    [
       "\\bRobin McCoy\\b",
       "Rob McCoy"
     ],
@@ -1817,6 +1810,99 @@
     [
       "\\bAubrey Leitch\\b",
       "Aubrey Laitsch"
+    ],
+    [
+      "\\bAndrew Colebat\\b",
+      "Andrew Kolvet"
+    ],
+    [
+      "\\bColebat\\b",
+      "Kolvet",
+      [
+        76
+      ]
+    ],
+    [
+      "\\bDennis Fronkvey\\b",
+      "Dennis Frantzve"
+    ],
+    [
+      "\\bFronkvey\\b",
+      "Frantzve",
+      [
+        76
+      ]
+    ],
+    [
+      "\\bDino Fonte Grassi\\b",
+      "Dino Fantegrossi"
+    ],
+    [
+      "\\bErika Curren\\b",
+      "Erika Kirk",
+      [
+        79
+      ]
+    ],
+    [
+      "\\bJames Braid\\b",
+      "James Blair",
+      [
+        76
+      ]
+    ],
+    [
+      "\\bMikey McQuaid\\b",
+      "Mikey McCoy",
+      [
+        75
+      ]
+    ],
+    [
+      "\\bOtto Boucher\\b",
+      "Otto Busher"
+    ],
+    [
+      "\\bRipberger\\b",
+      "Ripperger"
+    ],
+    [
+      "\\bAmir (?:Safadi|Sarfati)\\b",
+      "Amir Tsarfati",
+      [
+        93
+      ]
+    ],
+    [
+      "\\bAndrew Piscatello\\b",
+      "Andrew Piskadlo"
+    ],
+    [
+      "\\bCorey Kennedy\\b",
+      "Cori Kennedy",
+      [
+        91
+      ]
+    ],
+    [
+      "\\bJake Trailer\\b",
+      "Jake Traylor"
+    ],
+    [
+      "\\bZachariah Karashy\\b",
+      "Zachariah Qureshi"
+    ],
+    [
+      "\\bKarash[iy]\\b",
+      "Qureshi",
+      [
+        87,
+        88
+      ]
+    ],
+    [
+      "\\bRobert Bowles\\b",
+      "Robert Bohls"
     ]
   ]
 }

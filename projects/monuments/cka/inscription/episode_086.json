@@ -698,8 +698,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-601",
-      "ref": "N-601",
+      "@id": "N-600",
+      "ref": "N-600",
       "name": "Katherine Locastro",
       "type": "person",
       "description": "Katherine Locastro (transcribed Katherine Low Castro); named as a passenger on Erika's July 14 flight.",
@@ -752,8 +752,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-420",
-      "ref": "N-420",
+      "@id": "N-419",
+      "ref": "N-419",
       "name": "Derek Niekerk",
       "type": "person",
       "description": "Derek Niekerk; named as a passenger on Erika's July 14 flight.",
@@ -769,8 +769,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Baron Coleman; cited for his explanation that the people involved are tied to each other.",
@@ -803,8 +803,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-263",
-      "ref": "N-263",
+      "@id": "N-262",
+      "ref": "N-262",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Terrell Farnsworth (transcribed Tarro); AV contractor who removed the SD card and later showed the host the back footage.",
@@ -829,8 +829,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Brian Harpole; cited for his later account of where the bullet fragmented.",
@@ -846,8 +846,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-678",
-      "ref": "N-678",
+      "@id": "N-677",
+      "ref": "N-677",
       "name": "Jonathan Barcelo",
       "type": "person",
       "description": "Jonathan Barcelo (transcribed Barcello); named as a passenger on Erika's July 14 flight.",
@@ -863,8 +863,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-779",
-      "ref": "N-779",
+      "@id": "N-778",
+      "ref": "N-778",
       "name": "Matt Robinson",
       "type": "person",
       "description": "Matt Robinson; Tyler Robinson's father, expected to testify about the gun.",
@@ -880,8 +880,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-197",
-      "ref": "N-197",
+      "@id": "N-196",
+      "ref": "N-196",
       "name": "Lee Trotter",
       "type": "person",
       "description": "Dr. Lee Trotter; the surgeon whose call with Erika and Kolvet is disputed.",
@@ -1279,8 +1279,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-863",
-      "ref": "N-863",
+      "@id": "N-862",
+      "ref": "N-862",
       "name": "Frank Carney",
       "type": "person",
       "description": "First named by the host at 00:08:17 in episode 86. Named as a TPUSA figure who, with Justin Streiff, was on the phone with the FBI about the back footage, per the host.",
@@ -1352,7 +1352,7 @@
       "@id": "C-2610",
       "ref": "C-2610",
       "label": "ATF Unable to Identify Bullet to Rifle",
-      "claim": "The ATF was unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Tyler Robinson, according to an ATF summary report provided to the defense.",
+      "claim": "Per the defense filing the host reads, the ATF was unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Tyler Robinson, according to an ATF summary report provided to the defense.",
       "anchored_artifacts": [
         "A-1912.1"
       ],
@@ -1403,7 +1403,7 @@
       "@id": "C-2613",
       "ref": "C-2613",
       "label": "Autopsy Report Delayed to Defense",
-      "claim": "The autopsy report, completed September 16, 2025, was not provided to the defense until November 13, 2025.",
+      "claim": "Per the defense filing the host reads, the autopsy report, completed September 16, 2025, was not provided to the defense until November 13, 2025.",
       "anchored_artifacts": [
         "A-1912.1"
       ],
@@ -1466,8 +1466,8 @@
       "@type": "Claim",
       "@id": "C-2617",
       "ref": "C-2617",
-      "label": "Three Witness Categories at Preliminary Hearing",
-      "claim": "The state indicated it intends to present at the preliminary hearing three categories of evidence: conclusory forensic DNA and ballistics reports authored by the FBI and ATF; phone and social media data testimony; and testimony by Tyler Robinson's parents and roommate.",
+      "label": "State's Preliminary Hearing Evidence Through Three Law Enforcement Witnesses",
+      "claim": "Per the defense filing the host reads, the state intends to present at the preliminary hearing, through three identified law enforcement witnesses, conclusory forensic DNA and ballistics reports authored by the FBI and the ATF, phone and social media data, testimony by law enforcement officials about the crime scene and search locations, and testimony by Mr. Robinson's parents and roommate.",
       "anchored_artifacts": [
         "A-1912.1"
       ],
@@ -1560,7 +1560,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:59:52",
+      "claim_timestamp": "00:58:50",
       "investigative_direction": "Identify and locate Frank Turek's original statement; reconcile with hospital staff logs.",
       "mentions_person_refs": [
         "N-7"
@@ -1571,7 +1571,7 @@
       "@id": "C-2623",
       "ref": "C-2623",
       "label": "Host Concurs With Kim Haven's Assessment",
-      "claim": "The host concurs with Kim Haven's assessment that Frank Turek's account of announcing \"He's dead. He's dead\" within ~30 minutes of hospital arrival is implausible.",
+      "claim": "The host says Frank Turek's account of announcing \"He's dead. He's dead. I need to speak to Erika\" did not ring true, citing her producer Ashley's questions about how he knew Erika's name within 30 minutes and saying it feels like someone writing a script.",
       "anchored_artifacts": [
         "A-1916.1"
       ],
@@ -1587,7 +1587,7 @@
       "@type": "Claim",
       "@id": "C-2624",
       "ref": "C-2624",
-      "label": "Host Concurs That FBI CBLA Revival Is Suspicious",
+      "label": "Host Says FBI CBLA Revival Is Corrupt",
       "claim": "The host concurs that the FBI's planned revival of comparative bullet lead analysis – a technique discontinued in 2005 – in the Tyler Robinson case is indicative of federal corruption.",
       "anchored_artifacts": [
         "A-1912.1",
@@ -1662,7 +1662,7 @@
       "@id": "C-10300",
       "ref": "C-10300",
       "label": "Farnsworth grabbed Kirk's chair and removed the SD card minutes after the shot",
-      "claim": "The host says that about four minutes after Charlie Kirk was carried to the SUV, Tarro Farnsworth came down from his recording position, took the chair Kirk had been sitting in, stood on it and removed the SD card from the camera behind Kirk's head.",
+      "claim": "The host says that, a mere four minutes she thinks, after Charlie Kirk was carried to the SUV, Tarro Farnsworth came down from his recording position, took the chair Kirk had been sitting in, stood on it and removed the SD card from the camera behind Kirk's head.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10100",
@@ -1678,7 +1678,7 @@
         "C-6475"
       ],
       "mentions_person_refs": [
-        "N-263",
+        "N-262",
         "N-1"
       ]
     },
@@ -1687,7 +1687,7 @@
       "@id": "C-10301",
       "ref": "C-10301",
       "label": "Farnsworth's AV company has worked TPUSA events for over a decade",
-      "claim": "The host says Farnsworth runs the audio-visual company Turning Point employs for its big events, has used it for over a decade, and that he normally does not attend college events, but that the company was trying something different that day.",
+      "claim": "The host says Farnsworth runs the audio-visual company Turning Point employs, which she says it may have used for over a decade for its big events, and that he never goes to these college events but, he says, they were trying something different that day.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -1699,7 +1699,7 @@
       "investigative_direction": "Obtain TPUSA vendor contracts and prior event staffing records for the AV company.",
       "transcript_snippet": "the man who runs the audio-visual company that Turning Point employs, maybe you've used them for over a decade for their big events, and he's never goes to these college events",
       "mentions_person_refs": [
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -1724,7 +1724,7 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -1742,7 +1742,7 @@
       "investigative_direction": "Obtain the host's call log and any recording or notes of the September 17 call.",
       "transcript_snippet": "I decided on September 17th, exactly 1 week after Charlie's assassination, to reach to reach out to him. I called him.",
       "mentions_person_refs": [
-        "N-263",
+        "N-262",
         "N-3"
       ]
     },
@@ -1763,7 +1763,7 @@
       "investigative_direction": "Ask Farnsworth to state under oath why he chose that camera and what instruction he acted on.",
       "transcript_snippet": "I wanted to secure the footage for Erika so that uh she wouldn't have to see the footage of Charlie being shot in 4K",
       "mentions_person_refs": [
-        "N-263",
+        "N-262",
         "N-2",
         "N-1"
       ]
@@ -1786,7 +1786,7 @@
       "transcript_snippet": "once I actually saw the footage, it had no blood.",
       "mentions_person_refs": [
         "N-1",
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -1808,7 +1808,7 @@
       "transcript_snippet": "they were hiding was the fact that the bullet did not go through. Did not pierce through Charlie.",
       "mentions_person_refs": [
         "N-1",
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -1830,7 +1830,7 @@
       "investigative_direction": "Obtain the host's screen recording of the September 19 FaceTime and any call metadata.",
       "transcript_snippet": "Tarro showed me the back footage 2 days later on September 19th cuz I kept pressing him.",
       "mentions_person_refs": [
-        "N-263",
+        "N-262",
         "N-3"
       ]
     },
@@ -1853,7 +1853,7 @@
       "investigative_direction": "Compare the host's September 19 episode with the recorded FaceTime.",
       "transcript_snippet": "On September 19th, he did that and gratefully I moved to record that FaceTime call because his energy made me uncomfortable.",
       "mentions_person_refs": [
-        "N-263",
+        "N-262",
         "N-3"
       ]
     },
@@ -1879,7 +1879,7 @@
       "mentions_person_refs": [
         "N-15",
         "N-30",
-        "N-263"
+        "N-262"
       ]
     },
     {
@@ -1923,7 +1923,7 @@
       "transcript_snippet": "The FBI was on the phone with Justin Streiff, Frank Carney, and they were apparently speaking to the feds that day about whether or not I had recorded the footage.",
       "mentions_person_refs": [
         "N-15",
-        "N-863"
+        "N-862"
       ]
     },
     {
@@ -1966,7 +1966,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-197"
+        "N-196"
       ]
     },
     {
@@ -1988,7 +1988,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-197"
+        "N-196"
       ]
     },
     {
@@ -2008,7 +2008,7 @@
       "investigative_direction": "Ask Dr. Trotter or his counsel whether he authorized the call and whether any HIPAA complaint was filed.",
       "transcript_snippet": "Dr. Lee Trotter did not violate HIPAA. In fact, he could sue her for defamation, in my personal opinion.",
       "mentions_person_refs": [
-        "N-197",
+        "N-196",
         "N-2"
       ]
     },
@@ -2031,7 +2031,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-14",
-        "N-197",
+        "N-196",
         "N-1"
       ]
     },
@@ -2063,7 +2063,7 @@
       "@type": "Claim",
       "@id": "C-10318",
       "ref": "C-10318",
-      "label": "Host says the official bullet account changed three times",
+      "label": "Host Says the Official Bullet Account Kept Changing",
       "claim": "The host says the account moved from the bullet found beneath the skin, to a bullet fragmented in the thorax, to Brian Harpole saying it fragmented in the stomach or thorax, and she reads these as adjustments because the original story was failing.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2076,7 +2076,7 @@
       "investigative_direction": "Compare Kolvet's September 20 post, his September 23 account and Harpole's statement against the autopsy report.",
       "transcript_snippet": "first they found the bullet uh beneath his skin. Now, suddenly, the bullet is fragmented in his thorax.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-14"
       ]
     },
@@ -2271,7 +2271,7 @@
       "investigative_direction": "Check the witness list and any proffer on what Matt Robinson is expected to testify to.",
       "transcript_snippet": "They are naming him as a witness and he is going to be forced to answer questions under oath, likely, I would assume about the gun.",
       "mentions_person_refs": [
-        "N-779",
+        "N-778",
         "N-40"
       ]
     },
@@ -2495,7 +2495,7 @@
         "N-10569"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:39:30",
       "investigative_direction": "Cross-check with the 2004 National Academy of Sciences report on bullet lead analysis and the FBI's 2005 announcement.",
@@ -2678,7 +2678,7 @@
       "@type": "Claim",
       "@id": "C-10346",
       "ref": "C-10346",
-      "label": "Host says Erika flew to Long Beach on July 14 with Locastro, Niekerk and Barcello",
+      "label": "Host Says Erika Flew to Long Beach on July 14 with Locastro, Niekerk and Barcelo",
       "claim": "The host says Erika's July 14 flight was taken with Katherine Low Castro, Derek Niekerk and Jonathan Barcelo, and that it goes to Long Beach.",
       "anchored_artifacts": [
         "A-1915.1"
@@ -2694,9 +2694,9 @@
       "transcript_snippet": "And that flight is she took with Katherine Low Castro and Derek Niekerk and Jonathan Barcelo.",
       "mentions_person_refs": [
         "N-2",
-        "N-601",
-        "N-420",
-        "N-678"
+        "N-600",
+        "N-419",
+        "N-677"
       ]
     },
     {
@@ -2790,7 +2790,7 @@
       "@id": "C-10351",
       "ref": "C-10351",
       "label": "Host relays that Turek said Kirk was dead within 30 minutes and asked to talk to Erika",
-      "claim": "The host relays her producer's point that Frank Turek's next sentence was that Charlie was dead and he needed to talk to Erika, about 30 minutes after Charlie was rushed to the hospital, and asks how he knew Erika's first name.",
+      "claim": "The host relays her producer Ashley's point that Frank Turek's next sentence was that Charlie was dead and he needed to talk to Erika, about 30 minutes after Charlie was rushed to the hospital, and Ashley's question of how he knew Erika was his wife's name.",
       "anchored_artifacts": [
         "A-1916.1"
       ],
@@ -2828,7 +2828,7 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-197",
+        "N-196",
         "N-3"
       ]
     },
@@ -2843,14 +2843,14 @@
         "N-10000"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:core"
       ],
       "claim_timestamp": "01:02:28",
       "investigative_direction": "Seek documents or witnesses showing coordinated messaging among TPUSA leaders.",
       "transcript_snippet": "Make him Andrew the dunce and say, \"Oh, he doesn't know what he was doing.\"",
       "mentions_person_refs": [
         "N-14",
-        "N-332"
+        "N-331"
       ]
     }
   ],

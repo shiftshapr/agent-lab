@@ -11,11 +11,11 @@
 - **Transcript SHA-256**: 11b9571e5a76ba6e7d757602ee3753595b7175b02db0aab97660730731ff688c
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10c): N-809, N-810, N-811, N-11189, N-11190
-  - Hole-minted Nodes (reintro-ep082): N-215, N-10621, N-10649, N-10866
+  - Tip-minted Nodes (supplement_2026-10c): N-808, N-809, N-810, N-11189, N-11190
+  - Hole-minted Nodes (reintro-ep082): N-214, N-10621, N-10649, N-10866
   - Tip-minted Nodes (reintro-ep082): N-11149
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-219, N-498, N-553, N-10094, N-10149, N-10324, N-10337, N-10355, N-10360, N-10386, N-10387, N-10546, N-10548, N-10551, N-11012, N-10554, N-693, N-10701
+  - Reused Nodes Appearing: N-5, N-11, N-15, N-39, N-40, N-69, N-97, N-218, N-497, N-552, N-10094, N-10149, N-10324, N-10337, N-10355, N-10360, N-10386, N-10387, N-10546, N-10548, N-10551, N-11012, N-10554, N-692, N-10701
   - Claim Range (supplement_2026-10c): C-8505–C-8562
  - (see registers)
 
@@ -516,7 +516,7 @@ Daily Wire host; the host says Charlie Kirk could not stand him.
 
 ---
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 TPUSA figure in the clip about Joe Kent and the evidence against Tyler Robinson.
 
@@ -524,7 +524,7 @@ TPUSA figure in the clip about Joe Kent and the evidence against Tyler Robinson.
 
 ---
 
-**N-211** Joe Kent
+**N-210** Joe Kent
 
 Former counterterrorism official whose Shellenberger interview is discussed.
 
@@ -532,7 +532,7 @@ Former counterterrorism official whose Shellenberger interview is discussed.
 
 ---
 
-**N-215** Nick Shirley
+**N-214** Nick Shirley
 
 Independent YouTuber interviewed by Kolvet on 9/10.
 
@@ -540,7 +540,7 @@ Independent YouTuber interviewed by Kolvet on 9/10.
 
 ---
 
-**N-219** Eliza McCoy
+**N-218** Eliza McCoy
 
 Wrote a post the host says confirms Erika learned of Charlie's death before the Provo flight (transcribed Elizabeth McCoy).
 
@@ -548,7 +548,7 @@ Wrote a post the host says confirms Erika learned of Charlie's death before the 
 
 ---
 
-**N-332** Baron Coleman
+**N-331** Baron Coleman
 
 Co-investigator and podcaster whose clip the host plays.
 
@@ -556,7 +556,7 @@ Co-investigator and podcaster whose clip the host plays.
 
 ---
 
-**N-498** Doug DeGroote
+**N-497** Doug DeGroote
 
 TPUSA board member the host guesses was the donor (transcribed Doug De Root).
 
@@ -564,7 +564,7 @@ TPUSA board member the host guesses was the donor (transcribed Doug De Root).
 
 ---
 
-**N-553** Aubrey Laitsch
+**N-552** Aubrey Laitsch
 
 Former TPUSA PR manager in the text thread with Justin and Andrew.
 
@@ -572,7 +572,7 @@ Former TPUSA PR manager in the text thread with Justin and Andrew.
 
 ---
 
-**N-693** Laura Ingraham
+**N-692** Laura Ingraham
 
 Fox host whose show Andrew Kolvet is said to have discussed with Aubrey.
 
@@ -716,7 +716,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-809** Ross Douthat
+**N-808** Ross Douthat
 
 First named by the host at 00:30:36 in episode 82. New York Times reporter who interviewed Andrew Kolvet about the 9/10 show.
 
@@ -724,7 +724,7 @@ First named by the host at 00:30:36 in episode 82. New York Times reporter who i
 
 ---
 
-**N-810** Michael Shellenberger
+**N-809** Michael Shellenberger
 
 First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.
 
@@ -732,7 +732,7 @@ First named by the host at 00:43:38 in episode 82. Interviewer of Joe Kent.
 
 ---
 
-**N-811** Pat Buchanan
+**N-810** Pat Buchanan
 
 First named by the host at 00:58:49 in episode 82 (from a viewer comment). Commentator the host says coined Israel's amen corner.
 
@@ -760,7 +760,7 @@ First named at 00:35:50 in episode 82 by Nick Shirley. Rio de Janeiro gang he sa
 
 ## V. Claim Register
 
-**C-2544** Erica Kirk was inside Hopkinson Aircrafts office when notified of Charlie Kirk's death
+**C-2544** Erika Kirk Was Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death
 
 Claim Timestamp: 00:09:34
 
@@ -837,7 +837,7 @@ Investigative Direction: Obtain the original text record with carrier timestamp 
 
 Claim Timestamp: 00:20:35
 
-Claim: Per a text thread with Justin and Aubrey, Andrew Kolvet could not respond to messages because he was on a plane without Wi-Fi; Justin told Aubrey at 4:18 PM MST that she must wait until Andrew is "on the ground."
+Claim: The host says a text thread with Justin and Aubrey shows Andrew Kolvet could not respond to messages because he was on a plane without Wi-Fi, and that Justin told Aubrey at 4:18 PM MST that she must wait until Andrew is "on the ground."
 
 Anchored Artifacts: A-1889.1, A-1889.2
 Mentions: N-14
@@ -855,7 +855,7 @@ Claim Timestamp: 00:39:16
 Claim: Per the host, the N40JD plane, registered to Jason Knupp (identified by host as chief commander of naval surface force in Atlanta), departed Scottsdale about one hour after the shooting and landed at Provo at 2:29 PM MST.
 
 Anchored Artifacts: A-1894.1
-Mentions: N-2, N-1
+Mentions: N-1
 
 Related Nodes: N-10558
 
@@ -870,7 +870,7 @@ Claim Timestamp: 00:31:34
 Claim: Andrew Kolvet stated in an interview with Ross Douthat (New York Times) that he guest-hosted the first hour of Charlie Kirk Live Show on September 10, 2025, because Charlie was focusing on the tour.
 
 Anchored Artifacts: A-1890.1
-Mentions: N-14, N-1
+Mentions: N-14, N-1, N-808
 
 Related Nodes: N-10556
 
@@ -885,7 +885,7 @@ Claim Timestamp: 00:36:47
 Claim: Nick Shirley stated on the September 10, 2025 Charlie Kirk Live Show that within 48 hours he gained access to Comando Vermelho, one of Rio de Janeiro's largest gangs, and befriended soldiers who could not leave the favela.
 
 Anchored Artifacts: A-1891.2
-Mentions: N-1
+Mentions: N-214, N-1
 
 Related Nodes: N-10559
 
@@ -897,10 +897,10 @@ Investigative Direction: Verify the Comando Vermelho footage, dates, and circums
 
 Claim Timestamp: 00:43:38
 
-Claim: Joe Kent stated in an interview with Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case.
+Claim: The host says Joe Kent stated in an interview with Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case.
 
 Anchored Artifacts: A-1892.1
-Mentions: N-1, N-211
+Mentions: N-1, N-210, N-809
 
 Related Nodes:
 
@@ -908,14 +908,14 @@ Investigative Direction: Obtain the full Shellenberger-Kent interview; cross-ref
 
 ---
 
-**C-2554** Blake Neff characterized Joe Kent's potential truthful defense testimony as a "betrayal"
+**C-2554** Andrew Kolvet Says Officials Offering Defense Testimony Produces a Dramatic Level of Betrayal
 
-Claim Timestamp: 00:45:31
+Claim Timestamp: 00:47:20
 
-Claim: Blake Neff stated on air that if Joe Kent testifies truthfully for the defense that federal investigation was not thorough, it would be a "level of betrayal" against Charlie Kirk.
+Claim: In a clip the host plays, Andrew Kolvet says government officials are saying on the record they are willing to testify on behalf of the defense to get Tyler Robinson off the hook, and that the level of betrayal he currently feels is dramatic.
 
 Anchored Artifacts: A-1893.1
-Mentions: N-1, N-161, N-211
+Mentions: N-14, N-40
 
 Related Nodes:
 
@@ -937,14 +937,14 @@ Investigative Direction: Obtain current charter operator records to verify wheth
 
 ---
 
-**C-2556** Andrew Kolvet admitted Charlie Kirk was displeased about a booking Kolvet had made the day before September 10
+**C-2556** Andrew Kolvet Says Charlie Kirk Was Not Super Pleased About a Booking the Day Before September 10
 
 Claim Timestamp: 00:31:34
 
-Claim: Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was "not super pleased" about an interview booking Kolvet had made the day before September 10, prompting Charlie to hand guest-host duties to Kolvet.
+Claim: Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was "not super pleased" about an interview booking Kolvet had made the day before September 10, and that Charlie then said he was tired and wanted to focus on the tour, so Kolvet would guest host.
 
 Anchored Artifacts: A-1890.1
-Mentions: N-14, N-1
+Mentions: N-14, N-1, N-808
 
 Related Nodes: N-10556
 
@@ -973,10 +973,10 @@ Investigative Direction: Verify whether "Wi-Refi" is a transcript rendering of a
 
 Claim Timestamp: 00:03:02
 
-Claim: Baron Coleman (in a clip played on the show) characterized TPUSA's pattern of ignoring major inconsistencies while responding only to minor debunkable details as Gish gallop and bad-faith debating.
+Claim: In a clip the host plays, Baron Coleman describes a tactic of fixating on one minor point and declaring victory as bad-faith debating, saying it resembles quibbling and cherry-picking and is like Gish gallop but different because the gotcha victory is surgical; the host applies this to TPUSA's responses.
 
 Anchored Artifacts: A-1889.1 (host's read-aloud transcript); however no on-screen clip artifact is registered – flagged.
-Mentions: N-332
+Mentions: N-331
 
 Related Nodes:
 
@@ -986,14 +986,14 @@ Investigative Direction: Verify the Baron Coleman clip is preserved as a discret
 
 ---
 
-**C-2559** TPUSA released a statement that Marina reported as needing Andrew Kolvet's input
+**C-2559** Host Says Marina Told Aubrey Andrew Was Unavailable and to Write the Statement
 
-Claim Timestamp: 00:23:03
+Claim Timestamp: 00:22:50
 
-Claim: Per a text thread, after Charlie Kirk's death, TPUSA staff member Marina was told by another staffer that the statement about Charlie's death required Andrew Kolvet's input before release.
+Claim: The host says that, per a text thread, Marina told Aubrey that Andrew Kolvet was not available and that Aubrey had to write the statement about Charlie's death, and that Andrew was unavailable when it went out.
 
 Anchored Artifacts: A-1889.2 (text thread)
-Mentions: N-14, N-1
+Mentions: N-14, N-1, N-552
 
 Related Nodes: N-10554
 
@@ -1010,7 +1010,7 @@ Claim: The host says someone unrelated to her investigation or to Baron Coleman 
 Transcript Snippet: somebody released it, claimed it was Erika Kirk. And was it Erika Kirk? No. Was the person who released that wrong? Yes, extraordinarily so.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-332
+Mentions: N-3, N-2, N-331
 Tags: relevance:core
 Investigative Direction: Identify the released audio clip, who first posted it and the evidence that the voice was or was not Erika Kirk.
 
@@ -1025,7 +1025,7 @@ Claim: In a clip the host plays, Baron Coleman says that when real questions are
 Transcript Snippet: That's when you choose to come in and answer the accusations? Are you serious?
 
 Anchored Artifacts: A-2938.1
-Mentions: N-332, N-2
+Mentions: N-331, N-2
 Related Nodes: N-10866
 Tags: relevance:core
 Investigative Direction: Locate the Alo jumpsuit exchange and any TPUSA or Erika Kirk response to it; compare with responses to the Santa Barbara departure allegation.
@@ -1041,7 +1041,7 @@ Claim: In the clip, Baron Coleman says he did three shows accusing the other sid
 Transcript Snippet: But I do three shows accusing you of leaving Santa Barbara before Charlie got shot or banged or whatever happened to him? And you're just dead silent?
 
 Anchored Artifacts: A-2938.1
-Mentions: N-332
+Mentions: N-331
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Review Coleman's three shows and check whether TPUSA, Andrew Kolvet or Erika Kirk publicly addressed the Santa Barbara departure allegation.
@@ -1084,7 +1084,7 @@ Investigative Direction: Canvass for witnesses, CCTV and phone records at each l
 
 Claim Timestamp: 00:07:56
 
-Claim: The host says Erika Kirk has said she collapsed in a parking lot while with her mother getting treatment, that nurses escorted her, and that there are no witnesses, no ambulance record known to the host, and no details from Erika.
+Claim: The host says Erika Kirk has said she collapsed in a parking lot while with her mother getting treatment, that there were curiously no witnesses, that the host does not know whether an ambulance was called, and that Erika does not like to speak about it and gives no details.
 
 Transcript Snippet: she collapsed in a parking lot after her mother uh help she was with her mother getting treatment and she collapsed in a parking lot. Curiously, no witnesses.
 
@@ -1121,7 +1121,7 @@ Claim: The host says Erika Kirk told her to her face, and Elizabeth McCoy wrote 
 Transcript Snippet: Erika told me to my face, also Elizabeth McCoy wrote a long post and she confirmed this um that Erika got the news right before they flew to Provo.
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-219
+Mentions: N-3, N-2, N-218
 Related Nodes: N-10553
 Tags: relevance:core
 Investigative Direction: Locate Elizabeth McCoy's post and the date and wording of Erika Kirk's own account of where she took the doctor's call.
@@ -1185,7 +1185,7 @@ Claim: The host says she and Baron Coleman believe Andrew Kolvet first flew from
 Transcript Snippet: we believe that neither of those flights are the alleged much later 3:19 p. m. Mountain Standard Time flight that Erika told me that he was aboard
 
 Anchored Artifacts: 
-Mentions: N-3, N-14, N-2, N-332
+Mentions: N-3, N-14, N-2, N-331
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Obtain FAA/ADSB records for Santa Barbara and Scottsdale departures on September 10, 2025 and manifests or charter invoices for each leg.
@@ -1212,7 +1212,7 @@ Investigative Direction: Compare Erika Kirk's account to the host with any on-re
 
 Claim Timestamp: 00:18:07
 
-Claim: The host says Andrew Kolvet described the plane he flew as a "massive plane" to her multiple times and, she thinks, publicly on a show, and that a Hawker Beechcraft would not be called massive.
+Claim: The host says Andrew Kolvet described a plane as a "massive plane" to her multiple times and, she thinks, said publicly on a show that he had this massive plane to himself, and that a Hawker Beechcraft would not be called massive.
 
 Transcript Snippet: Andrew described a plane as a massive plane to me multiple times. He also, I think, said it publicly on a show he had this massive plane to himself
 
@@ -1233,7 +1233,7 @@ Claim: The host says that in a text chain Aubrey asked whether she should confir
 Transcript Snippet: And Justin jumps in on the text it and he says that uh, "It's up to Andrew." And Andrew doesn't answer
 
 Anchored Artifacts: A-1889.2
-Mentions: N-3, N-553, N-15, N-14, N-1
+Mentions: N-3, N-552, N-15, N-14, N-1
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Obtain the full Aubrey/Justin thread with carrier timestamps and the company-wide email it refers to.
@@ -1265,7 +1265,7 @@ Claim: The host says Andrew Kolvet answered Aubrey on a separate Telegram channe
 Transcript Snippet: we learned that he did answer Aubrey um, on a separate Telegram channel uh, before he went dark. He answered her about the press, about Laura Ingraham's show. He called her, too.
 
 Anchored Artifacts: A-2939.1
-Mentions: N-3, N-14, N-553, N-693
+Mentions: N-3, N-14, N-552, N-692
 Related Nodes: N-10554
 Revises: C-2533
 Tags: relevance:core
@@ -1298,7 +1298,7 @@ Claim: The host says that, relying on the text thread, Andrew Kolvet took two fl
 Transcript Snippet: Andrew Kolvet that took two flights that day. And neither of those flights were equipped with Wi-Fi. And that's why he was out of pocket.
 
 Anchored Artifacts: A-1888.1
-Mentions: N-3, N-14, N-332
+Mentions: N-3, N-14
 Related Nodes: N-10554, N-10557
 Tags: relevance:core
 Investigative Direction: Establish the tail numbers and Wi-Fi equipment of each plane Kolvet flew on September 10, 2025.
@@ -1362,7 +1362,7 @@ Claim: The host says Andrew Kolvet's clip effectively admits that Charlie Kirk c
 Transcript Snippet: He's going to effectively admit that Charlie couldn't stand Ben Shapiro uh and was annoyed that he had to interview him the day before because Andrew's the one that booked him
 
 Anchored Artifacts: A-1890.1
-Mentions: N-3, N-1, N-14, N-97, N-809
+Mentions: N-3, N-1, N-14, N-97
 Related Nodes: N-10556
 Supports: C-2556
 Tags: relevance:core
@@ -1379,7 +1379,7 @@ Claim: In the clip, Andrew Kolvet says the show had a pre-record for hour two an
 Transcript Snippet: we had a pre-record for hour two, actually. So, it it's probably too in the weeds, but he's texting me on his way and he's going over talking points about polygamy
 
 Anchored Artifacts: A-1890.1
-Mentions: N-14, N-1, N-809
+Mentions: N-14, N-1
 Related Nodes: N-10556
 Tags: relevance:core
 Investigative Direction: Obtain Kolvet's text thread with Charlie Kirk for the morning of September 10, 2025 and the hour-two pre-record.
@@ -1427,7 +1427,7 @@ Claim: The host says Nick Shirley was 23 and not yet viral when Andrew Kolvet in
 Transcript Snippet: In the weeks afterward, he goes really viral for discovering fraud in Somalian day care.
 
 Anchored Artifacts: A-1891.1
-Mentions: N-3, N-215, N-14
+Mentions: N-3, N-214, N-14
 Related Nodes: N-10559
 Tags: relevance:context
 Investigative Direction: Confirm Shirley's age and the date of the day care video relative to September 10, 2025.
@@ -1443,9 +1443,9 @@ Claim: The host says she does not believe Nick Shirley infiltrated Comando Verme
 Transcript Snippet: I just I don't like stupid. That did not happen, okay? That did not just happen.
 
 Anchored Artifacts: A-1891.2
-Mentions: N-3, N-215
+Mentions: N-3, N-214
 Related Nodes: N-10559, N-11190
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review the Brazil favela footage, dates and any local reporting about Shirley's access.
 
 ---
@@ -1459,7 +1459,7 @@ Claim: The host says Nick Shirley is a member of the LDS Church and is from Utah
 Transcript Snippet: the LDS Church. And he also happens to be from Utah.
 
 Anchored Artifacts: 
-Mentions: N-3, N-215
+Mentions: N-3, N-214
 Related Nodes: N-10094, N-10559
 Tags: relevance:context
 Investigative Direction: Confirm Shirley's home state and religious affiliation from his own statements.
@@ -1475,7 +1475,7 @@ Claim: The host says she messaged Nick Shirley on X that morning asking him to c
 Transcript Snippet: I have not yet heard back from him. I sent it this morning, so it might take him some time to see my message on X.
 
 Anchored Artifacts: A-2941.1
-Mentions: N-3, N-215
+Mentions: N-3, N-214
 Related Nodes: N-10556
 Tags: relevance:core
 Investigative Direction: Check whether Shirley responded publicly or privately and compare with the show's upload and live-stream records.
@@ -1523,7 +1523,7 @@ Claim: The host says she does not buy the alleged passenger list and that there 
 Transcript Snippet: enough evidence to at least suggest um suggest that Andrew Kolvet flew on that plane alone
 
 Anchored Artifacts: A-2943.1
-Mentions: N-3, N-14, N-1, N-2
+Mentions: N-3, N-14, N-1
 Related Nodes: N-10554
 Tags: relevance:core
 Investigative Direction: Obtain the manifest for Charlie Kirk's plane for September 10, 2025.
@@ -1539,7 +1539,7 @@ Claim: The host says the Santa Barbara plane lands in Provo at 4:36 p.m., which 
 Transcript Snippet: this one is going to land into Provo at 4:36 p. m. Way too late.
 
 Anchored Artifacts: A-2943.1
-Mentions: N-3, N-14, N-2
+Mentions: N-3, N-14
 Related Nodes: N-10557, N-10554
 Tags: relevance:core
 Investigative Direction: Pull ADSB arrival data for the Santa Barbara-to-Provo flight and compare with Erika Kirk's account of when Andrew arrived.
@@ -1571,7 +1571,7 @@ Claim: The host says Donald Trump mocked Joe Kent's remarriage by saying he marr
 Transcript Snippet: by saying, "Oh, he he married pretty quickly pretty quickly." He married 5 years later.
 
 Anchored Artifacts: 
-Mentions: N-3, N-5, N-211
+Mentions: N-3, N-5, N-210
 Related Nodes: N-10546
 Tags: relevance:context
 Investigative Direction: Locate the Trump remark and the date of Kent's remarriage.
@@ -1582,12 +1582,12 @@ Investigative Direction: Locate the Trump remark and the date of Kent's remarria
 
 Claim Timestamp: 00:43:38
 
-Claim: The host says Joe Kent, asked by Michael Shellenberger whether his statements could lead to a defense subpoena, answered that it was not his goal and that his goal was just to tell the truth.
+Claim: The host says Joe Kent was interviewed by Michael Shellenberger (she is not sure she has the name right) and, asked whether his statements could result in his being called to testify by Tyler Robinson's defense team, answered that it was not his goal and that his goal was just to tell the truth.
 
 Transcript Snippet: And of course Joe Kent says, "That wasn't my goal. My goal was just to tell the truth."
 
 Anchored Artifacts: A-1892.1
-Mentions: N-3, N-211, N-810, N-40
+Mentions: N-3, N-210, N-809, N-40
 Related Nodes: N-10546
 Tags: relevance:context
 Investigative Direction: Obtain the full Shellenberger interview and compare Kent's wording.
@@ -1603,7 +1603,7 @@ Claim: In the clip, Blake Neff and Andrew Kolvet say a murder weapon was found n
 Transcript Snippet: There is a murder weapon that was found near the site of the shooting. It was owned by Tyler Robinson's family.
 
 Anchored Artifacts: A-1893.1
-Mentions: N-161, N-14, N-40, N-1
+Mentions: N-160, N-14, N-40, N-1
 Related Nodes: N-10337
 Tags: relevance:core
 Investigative Direction: Obtain the lab reports on DNA, caliber and casings from the case file.
@@ -1614,12 +1614,12 @@ Investigative Direction: Obtain the lab reports on DNA, caliber and casings from
 
 Claim Timestamp: 00:45:31
 
-Claim: In the clip, the speakers say Tyler Robinson's parents recognized the released photo, a family friend sat with him, he admitted it and was driven to Orem to turn himself in.
+Claim: In the clip, the speakers say Tyler Robinson's parents recognized the released photo, a family friend sat with him, he admitted it and they got him to drive up to Orem to turn himself in.
 
 Transcript Snippet: Tyler Robinson's parents see that photo and think, "That looks like Tyler."
 
 Anchored Artifacts: A-1893.1
-Mentions: N-161, N-14, N-40
+Mentions: N-160, N-14, N-40
 Related Nodes: N-11012
 Contradicts: C-6697
 Supports: C-1766
@@ -1637,7 +1637,7 @@ Claim: In the clip, a speaker says there are digital confessions and that Robins
 Transcript Snippet: There's digital confessions, but also his parents are out there. They have never stepped forward and said this is a lie.
 
 Anchored Artifacts: A-1893.1
-Mentions: N-161, N-14, N-40
+Mentions: N-160, N-14, N-40
 Related Nodes: N-11012
 Tags: relevance:core
 Investigative Direction: Obtain the charging documents describing the digital messages and any parental statements.
@@ -1648,12 +1648,12 @@ Investigative Direction: Obtain the charging documents describing the digital me
 
 Claim Timestamp: 00:46:55
 
-Claim: In the clip, Blake Neff says even more evidence will be presented in May at the evidentiary hearing, that it is a mountain, and that he is told prosecutors have Robinson dead to rights.
+Claim: In the clip, Andrew Kolvet says even more evidence will be presented in May at the evidentiary hearing, that it is a mountain, and that he is told prosecutors have Robinson dead to rights.
 
 Transcript Snippet: there is going to be even more evidence that is presented to the public in May at the evidentiary hearing, okay?
 
 Anchored Artifacts: A-1893.1
-Mentions: N-161, N-40
+Mentions: N-14, N-40
 Related Nodes: N-11149
 Tags: relevance:core
 Investigative Direction: Compare the May hearing exhibits with what Neff described.
@@ -1664,12 +1664,12 @@ Investigative Direction: Compare the May hearing exhibits with what Neff describ
 
 Claim Timestamp: 00:46:55
 
-Claim: In the clip, Blake Neff says government officials are now saying on the record to journalists that they are willing to testify on behalf of the defense.
+Claim: In the clip, Andrew Kolvet says government officials are now saying on the record to journalists that they are willing to testify on behalf of the defense.
 
 Transcript Snippet: you have government officials that are now saying on the record to journalists they are willing to testify on behalf of the defense
 
 Anchored Artifacts: A-1893.1
-Mentions: N-161, N-40, N-211
+Mentions: N-14, N-40, N-210
 Related Nodes: N-10546
 Tags: relevance:core
 Investigative Direction: Identify which officials have said this on the record and to which journalists.
@@ -1702,7 +1702,7 @@ Claim: The host says the part Neff and Kolvet leave out is that they cannot prov
 Transcript Snippet: The part they're not telling you is that they cannot prove that weapon was fired. They can't prove it was fired. The bomb dogs could not find the weapon.
 
 Anchored Artifacts: A-1893.1
-Mentions: N-3, N-40
+Mentions: N-3, N-160, N-14, N-40
 Related Nodes: N-10621
 Supports: C-5280
 Tags: relevance:core
@@ -1768,7 +1768,7 @@ Claim: The host reads a viewer comment from Elaine saying Joe Kent was deployed 
 Transcript Snippet: She writes, "Imagine being called a coward after you've been deployed 11 times, lost your wife to an IED explosion,
 
 Anchored Artifacts: A-2944.1
-Mentions: N-3, N-211
+Mentions: N-3, N-210
 Related Nodes: N-10546
 Supports: C-2497
 Tags: relevance:context
@@ -1785,7 +1785,7 @@ Claim: The host invites Blake Neff to come on her show to present his evidence, 
 Transcript Snippet: Come do that, Blake. Take me up on my offer, Blake.
 
 Anchored Artifacts: 
-Mentions: N-3, N-161
+Mentions: N-3, N-160
 Tags: relevance:context
 Investigative Direction: Track whether Neff responds or appears.
 
@@ -1800,7 +1800,7 @@ Claim: The host says Kash Patel stopped Joe Kent and that TPUSA figures are angr
 Transcript Snippet: at the very least that Kash Patel stopped Joe Kent.
 
 Anchored Artifacts: 
-Mentions: N-3, N-69, N-211
+Mentions: N-3, N-69, N-210
 Related Nodes: N-10355
 Supports: C-2525
 Tags: relevance:core
@@ -1817,7 +1817,7 @@ Claim: The host says she met with Erika on December 15th and does not believe TP
 Transcript Snippet: I don't believe that they have suddenly, since I met with Erika on December 15th, found all of this evidence
 
 Anchored Artifacts: 
-Mentions: N-3, N-2, N-161
+Mentions: N-3, N-2
 Related Nodes: N-10649
 Tags: relevance:core
 Investigative Direction: Document the date of the meeting and any evidence TPUSA later publishes.
@@ -1865,7 +1865,7 @@ Claim: The host says Pat Buchanan coined the phrase Israel's amen corner in the 
 Transcript Snippet: He coined the phrase Israel's amen corner in the early 90s.
 
 Anchored Artifacts: A-2944.2
-Mentions: N-3, N-811, N-39
+Mentions: N-3, N-810
 Tags: relevance:tangential
 Investigative Direction: Check the first appearance of the phrase in print.
 
@@ -1875,7 +1875,7 @@ Investigative Direction: Check the first appearance of the phrase in print.
 
 Claim Timestamp: 00:59:32
 
-Claim: The host reads a comment from Anna that days after Charlie was killed a TPUSA spokesperson said a large donor called Erika right after the shooting, asked if she knew everything about TPUSA, and chose her to replace Charlie.
+Claim: The host reads a comment from Anna that days after Charlie was killed one of the TPUSA guys, which she names as an unclear name or Andrew Kolvet, said a large donor called Erika right after the shooting, asked if she knew everything about TPUSA, and chose her to replace Charlie.
 
 Transcript Snippet: a large donor called Erika right after Charlie Kirk was shot and asked if she knew everything about Turning Point USA and she said yes and he decided that she would replace him.
 
@@ -1895,7 +1895,7 @@ Claim: The host guesses the donor was Doug DeGroote, whom she says sits on the T
 Transcript Snippet: My guess would be off the bat Doug De Root on the um he's on the board and I think he's a donor.
 
 Anchored Artifacts: 
-Mentions: N-3, N-498
+Mentions: N-3, N-497
 Tags: relevance:core
 Investigative Direction: Check board and donor records and the call log for Erika Kirk.
 
@@ -1910,7 +1910,7 @@ Claim: The host says TPUSA-aligned critics suggest that Joe Kent was trying to s
 Transcript Snippet: Which by the way makes me laugh even more when they suggest that Joe Kent was trying to set up Erika.
 
 Anchored Artifacts: 
-Mentions: N-3, N-211, N-2
+Mentions: N-3, N-210, N-2
 Related Nodes: N-10551
 Supports: C-2530
 Tags: relevance:context

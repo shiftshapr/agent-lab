@@ -853,8 +853,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-380",
-      "ref": "N-380",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Dan Bongino",
       "type": "person",
       "description": "First named by the host at 00:38:08 in episode 15. Aliases: Dan Bonino.",
@@ -1014,8 +1014,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-155",
-      "ref": "N-155",
+      "@id": "N-154",
+      "ref": "N-154",
       "name": "Robert J. O'Neill",
       "type": "person",
       "description": "Named in a moderator comment as questioning the Kirk story.",
@@ -1031,8 +1031,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-203",
-      "ref": "N-203",
+      "@id": "N-202",
+      "ref": "N-202",
       "name": "Nick Fuentes",
       "type": "person",
       "description": "Named with the host in the sermon.",
@@ -1048,8 +1048,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-206",
-      "ref": "N-206",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Host of the show named in a moderator comment.",
@@ -1586,7 +1586,7 @@
       "mentions_person_refs": [
         "N-99",
         "N-69",
-        "N-380"
+        "N-379"
       ]
     },
     {
@@ -1684,7 +1684,7 @@
       "investigative_direction": "Obtain full sermon recording; identify delivering church for archival purposes.",
       "mentions_person_refs": [
         "N-3",
-        "N-203"
+        "N-202"
       ]
     },
     {
@@ -2962,7 +2962,7 @@
       "investigative_direction": "Obtain the full sermon recording and identify the church.",
       "transcript_snippet": "you're going to block them because they're anti what scripture says.",
       "mentions_person_refs": [
-        "N-203",
+        "N-202",
         "N-3"
       ]
     },
@@ -3067,8 +3067,8 @@
       "investigative_direction": "Retrieve the Piers Morgan episode with O'Neill and his exact remarks.",
       "transcript_snippet": "Rob O'Neill, the guy who shot Bin Laden, questions the story of Charlie on Piers Morgan's show.",
       "mentions_person_refs": [
-        "N-155",
-        "N-206"
+        "N-154",
+        "N-205"
       ]
     },
     {

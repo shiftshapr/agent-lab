@@ -1,0 +1,531 @@
+[
+ {
+  "claim": "C-2519",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:52:15",
+   "claim": "The host says Netanyahu posted another hyper-produced video of himself and Mike Huckabee joking about him being alive, on the day of the show."
+  },
+  "note": "Host says 'today', ~52:20."
+ },
+ {
+  "claim": "C-2520",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:51:55",
+   "mentions": [
+    "N-36"
+   ]
+  },
+  "note": "No-show remark ~52:00; Netanyahu named."
+ },
+ {
+  "claim": "C-2521",
+  "episode": 80,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:30:20",
+   "claim": "The host says Erika Kirk visited Arkansas shortly before the disaffiliation announcement and appeared with Governor Sarah Huckabee Sanders."
+  },
+  "note": "Erika/Sanders remark starts ~30:25 in the 29:49 block; 30:30 is slightly late."
+ },
+ {
+  "claim": "C-2522",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-584"
+   ]
+  },
+  "note": "Claim names only Sanders."
+ },
+ {
+  "claim": "C-14412",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Arkansas chapter president, Dino Fantegrossi, has been with Turning Point USA for more than five years.",
+   "names": [
+    {
+     "wrong": "Dino Fonte Grassi",
+     "right": "Dino Fantegrossi",
+     "source": "https://arktimes.com/tag/dino-fantegrossi"
+    }
+   ]
+  },
+  "note": "Fantegrossi confirmed (Arkansas Times, The Hill, 5NEWS)."
+ },
+ {
+  "claim": "C-14418",
+  "episode": 80,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she believes Dino Fantegrossi appeared on The Charlie Kirk Show after Kirk was assassinated.",
+   "names": [
+    {
+     "wrong": "Dino Fonte Grassi",
+     "right": "Dino Fantegrossi",
+     "source": "https://arktimes.com/tag/dino-fantegrossi"
+    }
+   ]
+  },
+  "note": "Fantegrossi confirmed (Arkansas Times, The Hill, 5NEWS)."
+ },
+ {
+  "claim": "C-2526",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "Joe Kent recounted that, in June in the West Wing stairway, Charlie Kirk said loudly, 'Joe stopped us from getting into a war with Iran.'"
+  },
+  "note": "Kent quotes Kirk crediting Joe."
+ },
+ {
+  "claim": "C-2535",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Marina Minas, the chief marketing officer, called Aubrey at about 2:05 p.m. Utah time on Sept 10 and asked her to draft the staff death statement because Andrew was on a plane.",
+   "mentions": [
+    "N-495",
+    "N-553",
+    "N-14"
+   ],
+   "names": [
+    {
+     "wrong": "Marina Medvin",
+     "right": "Marina Minas",
+     "source": "http://tpusa.com/team/"
+    }
+   ]
+  },
+  "note": "tpusa.com/team lists Marina Minas, CMO (checked)."
+ },
+ {
+  "claim": "C-2536",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Aubrey, who drafted the Sept 10 death statement, was later terminated in connection with a conversation with an Uber driver that Marina Minas reportedly overheard.",
+   "mentions": [
+    "N-495",
+    "N-553"
+   ],
+   "names": [
+    {
+     "wrong": "Marina Medvin",
+     "right": "Marina Minas",
+     "source": "http://tpusa.com/team/"
+    }
+   ]
+  },
+  "note": "Minas verified; 'overhears' said at 21:46."
+ },
+ {
+  "claim": "C-2537",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per an on-screen calendar graphic the host shows, an Egyptian plane transponds 10:05-11:34 a.m. on Sept 10, and a second Egyptian-plane transponding block overlaps Kolvet's second unavailability window and Charlie's Scottsdale-to-Provo flight."
+  },
+  "note": "Matches 30:21 block."
+ },
+ {
+  "claim": "C-2541",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a tweet the host reads, Mark Levin asked whether Erika's video was 'some AI production' and, if not, called it 'a total disgrace'.",
+   "mentions": [
+    "N-246",
+    "N-2"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2542",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a tweet the host reads, Eton Fishberger said, 'This is some sick stuff from Joe Rogan, as if Erika hasn't been through enough already.'",
+   "mentions": [
+    "N-2",
+    "N-270"
+   ]
+  },
+  "note": "Quote matches; Fishberger spelling unresolved."
+ },
+ {
+  "claim": "C-11306",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-211",
+    "N-2",
+    "N-3"
+   ]
+  },
+  "note": "Loomer not in claim."
+ },
+ {
+  "claim": "C-11339",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Marina Minnez",
+     "right": "Marina Minas",
+     "source": "http://tpusa.com/team/"
+    }
+   ]
+  },
+  "note": "tpusa.com/team lists Marina Minas, CMO (checked)."
+ },
+ {
+  "claim": "C-11358",
+  "episode": 81,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-262"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2550",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Erika not in claim."
+ },
+ {
+  "claim": "C-2551",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-809"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2552",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-215",
+    "N-1"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2553",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Joe Kent stated in an interview with Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case.",
+   "mentions": [
+    "N-1",
+    "N-211",
+    "N-810"
+   ]
+  },
+  "note": "Host's paraphrase at 43:38."
+ },
+ {
+  "claim": "C-2554",
+  "episode": 82,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Andrew Kolvet says government officials are saying on the record they are willing to testify on behalf of the defense to get Tyler Robinson off the hook, and that the level of betrayal he currently feels is dramatic.",
+   "label": "Andrew Kolvet Says Officials Offering Defense Testimony Produces a Dramatic Level of Betrayal",
+   "timestamp": "00:47:20",
+   "mentions": [
+    "N-14",
+    "N-40"
+   ]
+  },
+  "note": "Speaker is Kolvet (host at 52:41; Mediaite quotes Kolvet 'level of betrayal'), not Neff."
+ },
+ {
+  "claim": "C-2556",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was \"not super pleased\" about an interview booking Kolvet had made the day before September 10, and that Charlie then said he was tired and wanted to focus on the tour, so Kolvet would guest host.",
+   "label": "Andrew Kolvet Says Charlie Kirk Was Not Super Pleased About a Booking the Day Before September 10",
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-809"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2558",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Baron Coleman describes a tactic of fixating on one minor point and declaring victory as bad-faith debating, saying it resembles quibbling and cherry-picking and is like Gish gallop but different because the gotcha victory is surgical; the host applies this to TPUSA's responses."
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2559",
+  "episode": 82,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that, per a text thread, Marina told Aubrey that Andrew Kolvet was not available and that Aubrey had to write the statement about Charlie's death, and that Andrew was unavailable when it went out.",
+   "label": "Host Says Marina Told Aubrey Andrew Was Unavailable and to Write the Statement",
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-553"
+   ],
+   "timestamp": "00:22:50"
+  },
+  "note": "Fix right, but the Marina line is at the end of the 22:10 block (~22:55), before 23:03."
+ },
+ {
+  "claim": "C-8523",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-14"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-8527",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-14",
+    "N-97"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-8528",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-8537",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-14",
+    "N-1"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-8538",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-14"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-8545",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the clip, Andrew Kolvet says even more evidence will be presented in May at the evidentiary hearing, that it is a mountain, and that he is told prosecutors have Robinson dead to rights.",
+   "mentions": [
+    "N-14",
+    "N-40"
+   ]
+  },
+  "note": "Host credits 'whopper' to Andrew (52:41); Mediaite confirms Kolvet."
+ },
+ {
+  "claim": "C-8546",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the clip, Andrew Kolvet says government officials are now saying on the record to journalists that they are willing to testify on behalf of the defense.",
+   "mentions": [
+    "N-14",
+    "N-40",
+    "N-211"
+   ]
+  },
+  "note": "Kolvet confirmed by Mediaite and host at 52:41."
+ },
+ {
+  "claim": "C-8548",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-161",
+    "N-14",
+    "N-40"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-8555",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-8558",
+  "episode": 82,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-811"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2563",
+  "episode": 83,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:12:45",
+   "mentions": [
+    "N-219",
+    "N-192",
+    "N-2"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2565",
+  "episode": 83,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-188"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2566",
+  "episode": 83,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that, per Elizabeth McCoy's alleged narrative (and Andrew Kolvet's account, if he is to be believed), Mikey McCoy met them outside the hospital, and Elizabeth went in with Erika to see Charlie's body for the first time.",
+   "mentions": [
+    "N-219",
+    "N-192",
+    "N-2",
+    "N-14"
+   ]
+  },
+  "note": "Fix right; spelling Erica corrected to Erika."
+ },
+ {
+  "claim": "C-2568",
+  "episode": 83,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:31:30",
+   "mentions": [
+    "N-3",
+    "N-22",
+    "N-214",
+    "N-211",
+    "N-915"
+   ]
+  },
+  "note": "Host at 30:42 says thread names her, Tucker Carlson, Kent and Flynn; keep Tucker, add Flynn."
+ },
+ {
+  "claim": "C-2570",
+  "episode": 83,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-214",
+    "N-915"
+   ]
+  },
+  "note": ""
+ },
+ {
+  "claim": "C-2579",
+  "episode": 83,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Allie Stuckey replied to her tweet about Catholic Church growth with \"respectfully, no, that's not true,\" and later wrote a longer post claiming the popular narrative of Catholic growth is not true.",
+   "mentions": [
+    "N-229",
+    "N-3"
+   ],
+   "timestamp": "00:42:00"
+  },
+  "note": "Fix right; Allie remark begins ~42:05, not 41:40."
+ },
+ {
+  "claim": "C-12800",
+  "episode": 83,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-214",
+    "N-3",
+    "N-22",
+    "N-211",
+    "N-915"
+   ]
+  },
+  "note": "Claim names Russia, not Putin."
+ }
+]

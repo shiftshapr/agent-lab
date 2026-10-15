@@ -1,0 +1,795 @@
+[
+ {
+  "claim": "C-11343",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11344",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Elizabeth McCoy / CeCe Sheridan (graph has Eliza McCoy, Stacy Sheridan)",
+  "fix": {}
+ },
+ {
+  "claim": "C-11345",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11346",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11347",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Firing over Uber conversation is a personnel matter; context not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-11348",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11349",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11350",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11351",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11352",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11353",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11354",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11355",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11356",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Order reversed: host says Andrew jumps in \"My internet just came back on,\" then Justin says \"You may need to wait until AK is on the ground.\"",
+  "fix": {
+   "claim": "The host says that in the second part of the chat Andrew Kolvet wrote that his internet just came back on, followed by Justin Streiff writing that they may need to wait until AK is on the ground."
+  }
+ },
+ {
+  "claim": "C-11357",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"Called the Wyre plane cuz that's who Erika told me was on the plane... Wyre was sponsoring the event.\" Erika said Wyre was on the plane, not that it was the Wyre plane. unresolved name: Wyre/Wirefy",
+  "fix": {
+   "claim": "The host says she calls it the Wyre plane because Wyre is who Erika told her was on the plane, and that Wyre was sponsoring the event."
+  }
+ },
+ {
+  "claim": "C-11358",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Duncan Aviation (N-262) is named in the claim but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-262"
+   ]
+  }
+ },
+ {
+  "claim": "C-11359",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11360",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11361",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Aubrey firing: context, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-11362",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Aubrey/Uber driver dispute: context, not core.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-11363",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11364",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11365",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"they came out... well, the CIA didn't produce the documentary\" - unnamed \"they\", not stated to be the CIA.",
+  "fix": {
+   "claim": "The host says that although critics said the CIA did not produce the documentary, the head of the CIA is in it, and that one has to get approval from the CIA to appear in a CIA documentary."
+  }
+ },
+ {
+  "claim": "C-11366",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11367",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11368",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11369",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11370",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11371",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11372",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11373",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11374",
+  "episode": 81,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2544",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says \"allegedly... I happened upon some information\"; claim misspells Erika as Erica.",
+  "fix": {
+   "claim": "Per an unverified source tip received by the host, Erika Kirk was at Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the call informing her that Charlie Kirk had died.",
+   "label": "Erika Kirk Was Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death"
+  }
+ },
+ {
+  "claim": "C-2545",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2546",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Quote at ~20:50; date March 24, 2026 not in snippet (episode date).",
+  "fix": {}
+ },
+ {
+  "claim": "C-2547",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says Provo then \"touching down in Scottsdale\" (slip); claim uses Provo, consistent with \"coming in to land at Provo\".",
+  "fix": {}
+ },
+ {
+  "claim": "C-2548",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2549",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"The implication is obvious here. Andrew is on a plane that does not have Wi-Fi\" - inference presented as fact.",
+  "fix": {
+   "claim": "The host says a text thread with Justin and Aubrey shows Andrew Kolvet could not respond to messages because he was on a plane without Wi-Fi, and that Justin told Aubrey at 4:18 PM MST that she must wait until Andrew is \"on the ground.\""
+  }
+ },
+ {
+  "claim": "C-2550",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name or refer to Erika; N-2 not warranted. Jason Knupp confirmed as Navy official (Naval Surface Force Atlantic).",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-2551",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Ross Douthat (N-809) is named but missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-809"
+   ]
+  }
+ },
+ {
+  "claim": "C-2552",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Nick Shirley (N-215) is named but missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-215",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-2553",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host paraphrases Kent (\"He is saying the feds did not thoroughly investigate other leads\"); Shellenberger (N-810) named but not in Mentions.",
+  "fix": {
+   "claim": "The host says Joe Kent stated in an interview with Michael Shellenberger that federal investigators did not thoroughly pursue other leads in the Charlie Kirk case.",
+   "mentions": [
+    "N-1",
+    "N-211",
+    "N-810"
+   ]
+  }
+ },
+ {
+  "claim": "C-2554",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Neff says officials willing to testify for the defense; \"level of betrayal I currently feel is dramatic\" (~47:25). Kent/\"truthfully\" are the host's framing. Timestamp ~100s early.",
+  "fix": {
+   "claim": "In a clip the host plays, Blake Neff says government officials are saying on the record they are willing to testify on behalf of the defense to get Tyler Robinson off the hook, and that the level of betrayal he currently feels is dramatic.",
+   "label": "Blake Neff Says Officials Offering Defense Testimony Produces a Dramatic Level of Betrayal",
+   "timestamp": "00:47:25",
+   "mentions": [
+    "N-161",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-2555",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2556",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Kolvet: \"not super pleased\"; Charlie then said he was tired and wanted to focus on the tour. Douthat (N-809) missing from Mentions.",
+  "fix": {
+   "claim": "Andrew Kolvet stated in his Ross Douthat interview that Charlie Kirk was \"not super pleased\" about an interview booking Kolvet had made the day before September 10, and that Charlie then said he was tired and wanted to focus on the tour, so Kolvet would guest host.",
+   "label": "Andrew Kolvet Says Charlie Kirk Was Not Super Pleased About a Booking the Day Before September 10",
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-809"
+   ]
+  }
+ },
+ {
+  "claim": "C-2557",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"RY Reef air plane. That's what Erika said... wife Reef air CEO\"; names are spoken variants of the same operator (unresolved name: Wi-Refi/RY Reef/Wirefy); misspells Erika.",
+  "fix": {
+   "claim": "The host identifies \"RY Reef air\" and \"Wi-Refi\" as the same plane - the aircraft Erika Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara to Scottsdale leg."
+  }
+ },
+ {
+  "claim": "C-2558",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Coleman says gotcha tactic is bad faith, resembles quibbling/cherry-picking, and Gish gallop but \"different\"; he does not name TPUSA in the clip. Host applies it.",
+  "fix": {
+   "claim": "In a clip the host plays, Baron Coleman describes a tactic of fixating on one minor point and declaring victory as bad-faith debating, saying it resembles quibbling and cherry-picking and is like Gish gallop but different because the gotcha victory is surgical; the host applies this to TPUSA's responses."
+  }
+ },
+ {
+  "claim": "C-2559",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"Marina tells her right around that time that he's not available. Okay, you got to write the statement.\" Claim (Marina told Andrew's input needed) is not said.",
+  "fix": {
+   "claim": "The host says that, per a text thread, Marina told Aubrey that Andrew Kolvet was not available and that Aubrey had to write the statement about Charlie's death, and that Andrew was unavailable when it went out.",
+   "label": "Host Says Marina Told Aubrey Andrew Was Unavailable and to Write the Statement",
+   "mentions": [
+    "N-14",
+    "N-1",
+    "N-553"
+   ]
+  }
+ },
+ {
+  "claim": "C-8505",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8506",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8507",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8508",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8509",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8510",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Nurses escorting is the host's hypothetical witness account, not Erika's claim; host says \"was an ambulance called? ... we don't know\".",
+  "fix": {
+   "claim": "The host says Erika Kirk has said she collapsed in a parking lot while with her mother getting treatment, that there were curiously no witnesses, that the host does not know whether an ambulance was called, and that Erika does not like to speak about it and gives no details."
+  }
+ },
+ {
+  "claim": "C-8511",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8512",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Elizabeth McCoy (graph has Eliza McCoy)",
+  "fix": {}
+ },
+ {
+  "claim": "C-8513",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8514",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8515",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8516",
+  "episode": 82,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

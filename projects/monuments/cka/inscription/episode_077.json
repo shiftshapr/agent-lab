@@ -58,7 +58,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-578"
+            "N-577"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -185,7 +185,7 @@
             "C-2442"
           ],
           "related_nodes": [
-            "N-576",
+            "N-575",
             "N-10525"
           ],
           "tags": [],
@@ -237,8 +237,8 @@
             "C-2452"
           ],
           "related_nodes": [
-            "N-579",
-            "N-581",
+            "N-578",
+            "N-580",
             "N-10529"
           ],
           "tags": [],
@@ -265,7 +265,7 @@
             "C-2445"
           ],
           "related_nodes": [
-            "N-580",
+            "N-579",
             "N-10529"
           ],
           "tags": [],
@@ -292,8 +292,8 @@
             "C-2446"
           ],
           "related_nodes": [
-            "N-579",
-            "N-580"
+            "N-578",
+            "N-579"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -494,8 +494,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-576",
-      "ref": "N-576",
+      "@id": "N-575",
+      "ref": "N-575",
       "name": "Larissa",
       "type": "person",
       "description": "Author of email (A-1827.1) recounting personal placement at Antonio Placement Center in Constanta, Romania; presents as formerly adopted child with direct knowledge of institutional practices.",
@@ -516,8 +516,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-577",
-      "ref": "N-577",
+      "@id": "N-576",
+      "ref": "N-576",
       "name": "Nicole Rothstein",
       "type": "person",
       "description": "Real-estate professional referenced as Erika's New York roommate during the Next Model Management period; daughter of Alan Rothstein.",
@@ -529,14 +529,14 @@
       "episode_count": 1,
       "investigative_pressure": "low",
       "related_nodes": [
-        "N-578",
+        "N-577",
         "N-2"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-578",
-      "ref": "N-578",
+      "@id": "N-577",
+      "ref": "N-577",
       "name": "Alan Rothstein",
       "type": "person",
       "description": "Chairman (or former chairman) of Win Haven Real Estate; subject of Erika's 2017 Instagram tribute referring to him as \"Uncle Allan.\"",
@@ -552,13 +552,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-577"
+        "N-576"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-579",
-      "ref": "N-579",
+      "@id": "N-578",
+      "ref": "N-578",
       "name": "Jake Hoffman",
       "type": "person",
       "description": "Arizona State Senator; introduced SB 1439 supporter; defended the bill on Fox News after veto.",
@@ -576,14 +576,14 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-580",
+        "N-579",
         "N-10529"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-580",
-      "ref": "N-580",
+      "@id": "N-579",
+      "ref": "N-579",
       "name": "Katie Hobbs",
       "type": "person",
       "description": "Governor of Arizona; vetoed SB 1439; subject of Hoffman's Fox News criticism.",
@@ -600,13 +600,13 @@
       "episode_count": 1,
       "investigative_pressure": "medium",
       "related_nodes": [
-        "N-579"
+        "N-578"
       ]
     },
     {
       "@type": "Person",
-      "@id": "N-581",
-      "ref": "N-581",
+      "@id": "N-580",
+      "ref": "N-580",
       "name": "AJ Copp",
       "type": "person",
       "description": "Introduced SB 1439 in the Arizona House on January 28 (year implied 2026).",
@@ -644,7 +644,7 @@
       "investigative_pressure": "high",
       "related_nodes": [
         "N-2",
-        "N-576"
+        "N-575"
       ]
     },
     {
@@ -737,9 +737,9 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
+        "N-578",
         "N-579",
-        "N-580",
-        "N-581"
+        "N-580"
       ]
     },
     {
@@ -802,8 +802,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-523",
-      "ref": "N-523",
+      "@id": "N-522",
+      "ref": "N-522",
       "name": "Peter Thiel",
       "type": "person",
       "description": "Tech billionaire and JD Vance political patron; identified in Epstein emails and discussed on Rogan regarding his Epstein relationship.",
@@ -839,8 +839,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-891",
-      "ref": "N-891",
+      "@id": "N-890",
+      "ref": "N-890",
       "name": "Fran Rothschild",
       "type": "person",
       "description": "First named by the host at 00:03:16 in episode 77 (also 'Francis Rothschild'). Described by the host as co-founder of Wilhelmina Models.",
@@ -982,8 +982,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-280",
-      "ref": "N-280",
+      "@id": "N-279",
+      "ref": "N-279",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Host says Erika set up interviews with her.",
@@ -999,8 +999,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-491",
-      "ref": "N-491",
+      "@id": "N-490",
+      "ref": "N-490",
       "name": "Lori Frantzve",
       "type": "person",
       "description": "Erika's mother; the host says she sits on the Super Feed board.",
@@ -1016,8 +1016,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-522",
-      "ref": "N-522",
+      "@id": "N-521",
+      "ref": "N-521",
       "name": "Rothschild Family",
       "type": "person",
       "description": "Host speculates on a Rothstein-Rothschild link.",
@@ -1033,8 +1033,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-572",
-      "ref": "N-572",
+      "@id": "N-571",
+      "ref": "N-571",
       "name": "Faith Kates",
       "type": "person",
       "description": "Next Model Management co-founder and former Wilhelmina vice president, per the host.",
@@ -1052,8 +1052,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-603",
-      "ref": "N-603",
+      "@id": "N-602",
+      "ref": "N-602",
       "name": "Melania Trump",
       "type": "person",
       "description": "Host relays what Next-circle sources said about her.",
@@ -1070,8 +1070,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-739",
-      "ref": "N-739",
+      "@id": "N-738",
+      "ref": "N-738",
       "name": "Dennis Frantzve",
       "type": "person",
       "description": "Named by the host at 00:23:16 as 'Dennis Brantsbay' in Romania when the military base was set up.",
@@ -1429,20 +1429,20 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:04:13",
+      "claim_timestamp": "00:03:20",
       "investigative_direction": "Obtain full Epstein-to-Thiel email metadata and surrounding thread to verify context, date, and any operational substance.",
       "mentions_person_refs": [
-        "N-2",
         "N-9",
-        "N-523"
+        "N-522",
+        "N-521"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2438",
       "ref": "C-2438",
-      "label": "Erika Kirk 2017 Instagram Post Identifies \"Uncle Allan\" Rothstein as Spiritual Mentor",
-      "claim": "A 2017 Instagram post by Erika Kirk refers to Alan Rothstein as \"Uncle Allan,\" describing him as spiritually inspirational and noting his real-estate career.",
+      "label": "Erika Kirk 2017 Instagram Post Thanks \"Uncle Allan\" Rothstein",
+      "claim": "In a 2017 Instagram post the host reads, Erika Kirk addresses \"Uncle Allan\" as someone filled with spirit who has shown courage through adversity; the host identifies him as Alan Rothstein, whom she says chaired Win Haven Real Estates.",
       "anchored_artifacts": [
         "A-1823.1"
       ],
@@ -1452,7 +1452,7 @@
       "investigative_direction": "Confirm the post via Instagram archives or third-party captures; verify Alan Rothstein's role at Win Haven Real Estate through corporate filings.",
       "mentions_person_refs": [
         "N-2",
-        "N-578"
+        "N-577"
       ]
     },
     {
@@ -1550,7 +1550,7 @@
       "investigative_direction": "Verify Larissa's identity and adoption record; locate Erika Kirk's 2012–2014 promotional materials referencing Antonio Placement Center; obtain Romanian government or NGO documentation of center's operational history.",
       "mentions_person_refs": [
         "N-2",
-        "N-576"
+        "N-575"
       ]
     },
     {
@@ -1577,7 +1577,7 @@
       "@id": "C-2444",
       "ref": "C-2444",
       "label": "Per Host, SB 1439 Proposes Charlie Kirk Memorial Specialty License Plate with Grassroots-Network Fund",
-      "claim": "Per Arizona SB 1439 as the host presents it, the bill proposed a \"Charlie Kirk Memorial Plate\" specialty license plate featuring Charlie Kirk's photo and the Turning Point USA logo on an American flag background, with $17 of a $25 annual fee directed to a \"conservative grassroots network special plate fund.\"",
+      "claim": "Per Arizona SB 1439 as the host presents it, the bill proposed a \"Charlie Kirk Memorial Plate\" specialty license plate featuring Charlie Kirk's photo and the Turning Point USA logo on an American flag background, with $17 of the fee deposited annually into a \"conservative grassroots network special plate fund.\"",
       "anchored_artifacts": [
         "A-1829.1"
       ],
@@ -1585,12 +1585,10 @@
         "N-10529"
       ],
       "tags": [],
-      "claim_timestamp": "00:29:37",
+      "claim_timestamp": "00:30:50",
       "investigative_direction": "Retrieve full SB 1439 text from Arizona Legislature archives; identify statutory fund recipient and allocation mechanism.",
       "mentions_person_refs": [
-        "N-1",
-        "N-579",
-        "N-581"
+        "N-1"
       ]
     },
     {
@@ -1606,12 +1604,11 @@
         "N-10529"
       ],
       "tags": [],
-      "claim_timestamp": "00:34:00",
+      "claim_timestamp": "00:33:10",
       "investigative_direction": "Retrieve full veto letter and accompanying Arizona legislative record; identify any subsequent legislation reintroducing the plate.",
       "mentions_person_refs": [
         "N-1",
-        "N-579",
-        "N-580"
+        "N-579"
       ]
     },
     {
@@ -1619,7 +1616,7 @@
       "@id": "C-2446",
       "ref": "C-2446",
       "label": "Jake Hoffman Fox News Appearance Denounces Veto as Partisan",
-      "claim": "On Fox News, Arizona State Senator Jake Hoffman stated that the SB 1439 veto reflects Katie Hobbs's \"nakedly partisan\" record, that Hobbs vetoed nine of his bills previously, and that the Charlie Kirk plate would honor a \"civil rights leader of our time.\"",
+      "claim": "On Fox News, Arizona State Senator Jake Hoffman stated that the SB 1439 veto reflects Katie Hobbs's \"nakedly partisan\" record, that Hobbs vetoed about nine of his bills the previous year, and that the Charlie Kirk plate would honor a \"civil rights leader of our time.\"",
       "anchored_artifacts": [
         "A-1831.1"
       ],
@@ -1627,11 +1624,11 @@
         "N-10529"
       ],
       "tags": [],
-      "claim_timestamp": "00:34:21",
+      "claim_timestamp": "00:35:05",
       "investigative_direction": "Obtain full Fox News clip with date; verify Hoffman's claimed chairmanship of the Arizona Nominations Committee and prior vetoes cited.",
       "mentions_person_refs": [
+        "N-578",
         "N-579",
-        "N-580",
         "N-1"
       ]
     },
@@ -1652,7 +1649,8 @@
       "investigative_direction": "Capture original X post URL and timestamp; verify whether post remains live or has been edited/deleted.",
       "mentions_person_refs": [
         "N-11",
-        "N-580"
+        "N-579",
+        "N-1"
       ]
     },
     {
@@ -1660,7 +1658,7 @@
       "@id": "C-2448",
       "ref": "C-2448",
       "label": "Host Says Super Feed Inc. Is Copyright Holder of Turning Point USA App",
-      "claim": "The host says the fine print on the Turning Point USA mobile application lists Super Feed Inc. as the copyright holder, and raises the question of whether user data flows to Super Feed.",
+      "claim": "The host says the fine print on the Turning Point USA mobile application lists Super Feed Inc. as the copyright holder, which she says means that is where users' data is going.",
       "anchored_artifacts": [
         "A-1833.1"
       ],
@@ -1712,7 +1710,7 @@
       "@id": "C-2451",
       "ref": "C-2451",
       "label": "Host Reports Inability to Verify NY Real-Estate License Through State Records",
-      "claim": "The host asserts she was unable to independently verify Erika Kirk's NY real-estate license on the New York State Division of Licenses website, finding only a relic on a third-party site, and notes that NY State records should be retained for at least six years from license activity.",
+      "claim": "The host asserts she was unable to independently verify Erika Kirk's NY real-estate license on the New York State Division of Licenses website, finding only a relic on a third-party site, and says that from what she sees at first glance the state is supposed to hold this information for at least six years.",
       "anchored_artifacts": [
         "A-1825.1"
       ],
@@ -1740,11 +1738,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:31:36",
-      "investigative_direction": "Retrieve full bill text; cross-reference fund descriptors against Turning Point USA's founding date, mission, and Arizona activities.",
-      "mentions_person_refs": [
-        "N-579",
-        "N-581"
-      ]
+      "investigative_direction": "Retrieve full bill text; cross-reference fund descriptors against Turning Point USA's founding date, mission, and Arizona activities."
     },
     {
       "@type": "Claim",
@@ -1785,8 +1779,7 @@
       "investigative_direction": "Obtain named eyewitnesses or visitor and email records placing Epstein at Next's offices and on what dates.",
       "transcript_snippet": "Jeffrey Epstein was around this office a lot. He frequented the office as you would if it was your friends. All of this is a fact.",
       "mentions_person_refs": [
-        "N-9",
-        "N-572"
+        "N-9"
       ]
     },
     {
@@ -1809,7 +1802,7 @@
         "C-10269"
       ],
       "mentions_person_refs": [
-        "N-572"
+        "N-571"
       ]
     },
     {
@@ -1817,7 +1810,7 @@
       "@id": "C-11185",
       "ref": "C-11185",
       "label": "Faith Kates was Wilhelmina VP before co-founding Next",
-      "claim": "The host says Faith Kates knew Epstein before she co-founded Next because she was first vice president of the women's division at Wilhelmina Models, which the host says Fran (Francis) Rothschild co-founded.",
+      "claim": "The host says Faith Kates knew Epstein before she co-founded Next because she was previously vice president of the women's division at Wilhelmina Models, which the host says Fran (Francis) Rothschild co-founded.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11291"
@@ -1829,9 +1822,9 @@
       "investigative_direction": "Verify Kates's Wilhelmina title and dates and the Wilhelmina founding record; test the host's claim that she knew Epstein in that period.",
       "transcript_snippet": "she was actually the vice president of the women's division over at Wilhelmina Models first.",
       "mentions_person_refs": [
-        "N-572",
+        "N-571",
         "N-9",
-        "N-891"
+        "N-890"
       ]
     },
     {
@@ -1949,7 +1942,7 @@
       "transcript_snippet": "She was setting up interviews with the likes of Bari Weiss, uh pushing Charlie's final book, Shabbat Shalom, Shabbat Shalom.",
       "mentions_person_refs": [
         "N-2",
-        "N-280",
+        "N-279",
         "N-1"
       ]
     },
@@ -2080,8 +2073,8 @@
       "transcript_snippet": "Erika told people specifically during that time that she was doing real estate deals with her family.",
       "mentions_person_refs": [
         "N-2",
-        "N-577",
-        "N-578"
+        "N-576",
+        "N-577"
       ]
     },
     {
@@ -2102,7 +2095,7 @@
       "transcript_snippet": "Erika at this time was living with Nicole Rothstein and it is a fact that Nicole Rothstein did work in real estate",
       "mentions_person_refs": [
         "N-2",
-        "N-577"
+        "N-576"
       ]
     },
     {
@@ -2124,7 +2117,7 @@
       "investigative_direction": "Check New York corporate filings and Win Haven's own materials for Rothstein's chairmanship and dates.",
       "transcript_snippet": "Alan Rothstein, Erika is extremely close with him. She calls him uncle. He was the chairman, uh might still be the chairman of Win Haven Real Estates",
       "mentions_person_refs": [
-        "N-578",
+        "N-577",
         "N-2"
       ]
     },
@@ -2143,9 +2136,9 @@
       "investigative_direction": "Genealogical records of the Rothstein family would confirm or refute any relationship; none has been shown.",
       "transcript_snippet": "if they are at all related to Allan uh to the Rothstein that was involved with fixing the White Sox game, that's a Roth child That's a Rothschild family member.",
       "mentions_person_refs": [
-        "N-578",
         "N-577",
-        "N-522"
+        "N-576",
+        "N-521"
       ]
     },
     {
@@ -2316,7 +2309,7 @@
       "investigative_direction": "Identify which fact-checks the writer means and what they actually examined.",
       "transcript_snippet": "While independent fact-checkers have found no evidence linking Ms. Kirk's work to illicit activities, I believe the history of the Antonio Placement Center warrants further investigation.",
       "mentions_person_refs": [
-        "N-576",
+        "N-575",
         "N-2"
       ]
     },
@@ -2347,7 +2340,7 @@
       "@id": "C-11210",
       "ref": "C-11210",
       "label": "Host links Bowyer's 2010 Romania trip to the base setup and Dennis Frantzve",
-      "claim": "The host says she does not think it is ironic that Tyler Bowyer went to Romania in 2010 right when the military base was set up and when Dennis Frantzve (transcribed 'Dennis Brantsbay') was there.",
+      "claim": "The host says she does not think it is just an ironic coincidence that Tyler Bowyer went to Romania in 2010 right when the military base was set up and when Dennis Frantzve (transcribed 'Dennis Brantsbay') was there.",
       "anchored_artifacts": [
         "A-1828.1"
       ],
@@ -2363,7 +2356,7 @@
       "transcript_snippet": "I don't think it is just ironic that you happen to go right when the military base got set up and when Dennis Brantsbay was there.",
       "mentions_person_refs": [
         "N-11",
-        "N-739"
+        "N-738"
       ]
     },
     {
@@ -2403,10 +2396,7 @@
       ],
       "claim_timestamp": "00:23:16",
       "investigative_direction": "Verify the consulate's founding date and location and the lectorate through ASU and Romanian foreign ministry announcements.",
-      "transcript_snippet": "Arizona State University became the site of an honorary consulate general of Romania in Arizona.",
-      "mentions_person_refs": [
-        "N-11"
-      ]
+      "transcript_snippet": "Arizona State University became the site of an honorary consulate general of Romania in Arizona."
     },
     {
       "@type": "Claim",
@@ -2491,7 +2481,7 @@
       "investigative_direction": "Pull Super Feed's Arizona Corporation Commission filings for directors and officers.",
       "transcript_snippet": "Super Feed Incorporated where Erika's mother is serving as a board member with Tyler Bowyer",
       "mentions_person_refs": [
-        "N-491",
+        "N-490",
         "N-11",
         "N-2"
       ]
@@ -2561,7 +2551,7 @@
       "investigative_direction": "Check business filings showing shared entities between Hoffman and Bowyer and Hoffman's TPUSA employment dates.",
       "transcript_snippet": "Jake Hoffman is a dear friend of Tyler Bowyer, a partner of Tyler Bowyer. He formerly used to work at Turning Point USA.",
       "mentions_person_refs": [
-        "N-579",
+        "N-578",
         "N-11"
       ]
     },
@@ -2584,7 +2574,7 @@
       "investigative_direction": "Confirm the introduction date and sponsors on the Arizona Legislature bill history for SB 1439.",
       "transcript_snippet": "AJ Copp back on January 28th introduced a bill for a state license plate to honor Charlie Kirk.",
       "mentions_person_refs": [
-        "N-581",
+        "N-580",
         "N-1"
       ]
     },
@@ -2648,7 +2638,7 @@
       "investigative_direction": "Check attendance reports for State Farm Stadium and the second venue on the memorial date.",
       "transcript_snippet": "the only time in Arizona history that we filled two professional sports stadiums to honor and run tribute to the life of an Arizona citizen.",
       "mentions_person_refs": [
-        "N-579",
+        "N-578",
         "N-1"
       ]
     },
@@ -2694,8 +2684,8 @@
       "investigative_direction": "Check Hobbs's veto letters from 2025 for the cited bill and wording.",
       "transcript_snippet": "she used the acronym of the committee as her reason for the veto.",
       "mentions_person_refs": [
-        "N-579",
-        "N-580"
+        "N-578",
+        "N-579"
       ]
     },
     {
@@ -2868,7 +2858,7 @@
       "investigative_direction": "Identify the sources and their relationship to Melania Trump's modeling years.",
       "transcript_snippet": "they actually quite liked Melania and said that people who thought that she actually wanted to be the first lady probably had it very wrong",
       "mentions_person_refs": [
-        "N-603"
+        "N-602"
       ]
     },
     {
@@ -2888,7 +2878,7 @@
       "investigative_direction": "Review Melania Trump's modeling agency records for any Next Model Management association.",
       "transcript_snippet": "Melania's name came up with this next modeling thing they were they were speaking about cuz you know Melania came from Serbia and she was a model and she was in circles in their orbit.",
       "mentions_person_refs": [
-        "N-603"
+        "N-602"
       ]
     }
   ],

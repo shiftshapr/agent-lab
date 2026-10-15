@@ -370,7 +370,7 @@
             "N-3",
             "N-40",
             "N-69",
-            "N-380"
+            "N-379"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -452,7 +452,7 @@
           ],
           "related_nodes": [
             "N-5",
-            "N-422"
+            "N-421"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -868,8 +868,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-422",
-      "ref": "N-422",
+      "@id": "N-421",
+      "ref": "N-421",
       "name": "Pope Leo XIV",
       "type": "person",
       "description": "First named by the host at 00:00:01 in episode 90. Aliases: Pope Leo, Pope Leo the 14th, His Holiness Pope Leo, Leo XIV.",
@@ -888,8 +888,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-423",
-      "ref": "N-423",
+      "@id": "N-422",
+      "ref": "N-422",
       "name": "Doug Terry",
       "type": "person",
       "description": "First named by the host at 00:33:31 in episode 90.",
@@ -946,7 +946,7 @@
       "@type": "Person",
       "@id": "N-134",
       "ref": "N-134",
-      "name": "Robert Bowles",
+      "name": "Robert Bohls",
       "type": "person",
       "description": "Reported as the individual installed to lead the Utah FBI field office in August 2025 following Kash Patel's purge of prior leadership; described as based in DC for decades and in his first week on the job at the time of the shooting.",
       "related_artifacts": [],
@@ -960,8 +960,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-607",
-      "ref": "N-607",
+      "@id": "N-606",
+      "ref": "N-606",
       "name": "Caleb Robinson",
       "type": "person",
       "description": "Daily Wire chief executive; first named by the host at 00:23:21 in episode 90 (ADF board seat).",
@@ -1094,8 +1094,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "TPUSA communications figure; the host recounts his refusal to show the video.",
@@ -1114,8 +1114,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-165",
-      "ref": "N-165",
+      "@id": "N-164",
+      "ref": "N-164",
       "name": "Matt Walsh",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1131,8 +1131,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-206",
-      "ref": "N-206",
+      "@id": "N-205",
+      "ref": "N-205",
       "name": "Piers Morgan",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1148,8 +1148,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-246",
-      "ref": "N-246",
+      "@id": "N-245",
+      "ref": "N-245",
       "name": "Mark Levin",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1165,8 +1165,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-274",
-      "ref": "N-274",
+      "@id": "N-273",
+      "ref": "N-273",
       "name": "Nate Brooksby",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1184,8 +1184,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1201,8 +1201,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-366",
-      "ref": "N-366",
+      "@id": "N-365",
+      "ref": "N-365",
       "name": "Cabot Phillips",
       "type": "person",
       "description": "Daily Wire employee the host describes as Erika's ex-boyfriend and the subject of the playground encounter.",
@@ -1221,8 +1221,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-368",
-      "ref": "N-368",
+      "@id": "N-367",
+      "ref": "N-367",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1238,8 +1238,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-380",
-      "ref": "N-380",
+      "@id": "N-379",
+      "ref": "N-379",
       "name": "Dan Bongino",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1255,8 +1255,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-776",
-      "ref": "N-776",
+      "@id": "N-775",
+      "ref": "N-775",
       "name": "Paula White",
       "type": "person",
       "description": "Named in the episode; cited by new claims.",
@@ -1673,8 +1673,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-814",
-      "ref": "N-814",
+      "@id": "N-813",
+      "ref": "N-813",
       "name": "Mike Smith",
       "type": "person",
       "description": "Utah County Sheriff; first named by the host at 00:38:30 in episode 90 (Brooksby's call about Mike Mitchell).",
@@ -1690,8 +1690,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-815",
-      "ref": "N-815",
+      "@id": "N-814",
+      "ref": "N-814",
       "name": "Bishop Barron",
       "type": "person",
       "description": "Bishop; first named by the host at 00:55:46 in episode 90 (stood beside Paula White during the prayer). Transcript spelling: Bishop Barron.",
@@ -1720,11 +1720,11 @@
         "N-10593"
       ],
       "tags": [],
-      "claim_timestamp": "00:33:31",
+      "claim_timestamp": "00:32:25",
       "investigative_direction": "Obtain certified copy of motion and underlying video exhibit; cross-reference timestamp with booking and arrest records.",
       "mentions_person_refs": [
         "N-40",
-        "N-423"
+        "N-422"
       ]
     },
     {
@@ -1732,7 +1732,7 @@
       "@id": "C-2683",
       "ref": "C-2683",
       "label": "Tyler Robinson requested attorney Doug Terry during Mirandization",
-      "claim": "During the recorded Mirandization referenced in A-1948.1, Robinson asked to speak with attorney Doug Terry and noted Terry's office was closed.",
+      "claim": "During the recorded Mirandization referenced in A-1948.1, Robinson asked to speak with legal counsel, a fellow in Utah named Doug Terry, and said he thinks Terry's office is closed for the night.",
       "anchored_artifacts": [
         "A-1948.1"
       ],
@@ -1742,7 +1742,7 @@
       "investigative_direction": "Verify attorney representation records and the authenticity of the cited interview timestamp.",
       "mentions_person_refs": [
         "N-40",
-        "N-423"
+        "N-422"
       ]
     },
     {
@@ -1750,7 +1750,7 @@
       "@id": "C-2684",
       "ref": "C-2684",
       "label": "State does not intend to offer forensic-extraction evidence at preliminary hearing",
-      "claim": "In a state filing on preliminary-hearing evidence, the prosecution states it does not intend to offer evidence obtained through forensic extractions of electronics seized in the case, while reserving the right to show photographs of text-message contents captured from a device.",
+      "claim": "In a state filing on preliminary-hearing evidence the host reads, the prosecution states it does not intend to offer evidence obtained through forensic extractions of electronics seized in the case, but does intend to offer two exhibits which used cameras to record the contents of text messages.",
       "anchored_artifacts": [
         "A-1948.2"
       ],
@@ -1807,8 +1807,8 @@
       "@type": "Claim",
       "@id": "C-2687",
       "ref": "C-2687",
-      "label": "ADF CEO acknowledged in internal video coordination with Erika Kirk regarding Candace Owens litigation",
-      "claim": "An internal Alliance Defending Freedom CEO video played in the episode references working with Erika Kirk's team on litigation strategy concerning Candace Owens.",
+      "label": "Host Says ADF CEO Video Shows Discussion of Working With Erika Kirk Regarding Candace Owens",
+      "claim": "The host says an internal Alliance Defending Freedom video of its CEO shows him discussing the fact that they were working with Erika regarding her; in the clip the CEO describes a call with a large organization amid tension that \"has to do with Candace Owens\" and says he shared how they had thought about decisions such as whether to sue someone.",
       "anchored_artifacts": [
         "A-1951.1"
       ],
@@ -1839,7 +1839,7 @@
       "claim_timestamp": "00:23:21",
       "investigative_direction": "Cross-check ADF public filings (Form 990, board roster) for Caleb Robinson's name and tenure.",
       "mentions_person_refs": [
-        "N-607"
+        "N-606"
       ]
     },
     {
@@ -1856,7 +1856,7 @@
       "claim_timestamp": "00:52:54",
       "investigative_direction": "Retrieve the original Truth Social post and engagement metrics.",
       "mentions_person_refs": [
-        "N-422"
+        "N-421"
       ]
     },
     {
@@ -1873,7 +1873,7 @@
       "claim_timestamp": "00:57:23",
       "investigative_direction": "Obtain the original Vatican source video and transcript.",
       "mentions_person_refs": [
-        "N-422"
+        "N-421"
       ]
     },
     {
@@ -1887,10 +1887,10 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:59:24",
+      "claim_timestamp": "01:01:05",
       "investigative_direction": "Verify clip against White House press transcript.",
       "mentions_person_refs": [
-        "N-422"
+        "N-5"
       ]
     },
     {
@@ -1976,8 +1976,8 @@
       "@type": "Claim",
       "@id": "C-2696",
       "ref": "C-2696",
-      "label": "Trump-Pope confrontation occurred during Easter 2026",
-      "claim": "Host places the Trump Truth Social attack on Pope Leo XIV and the papal response during the Easter period.",
+      "label": "Trump Attacks Pope Leo XIV Over Iran War Criticism",
+      "claim": "The host says Trump attacked Pope Leo XIV in a post, saying 'Pope Leo is weak on crime, terrible for foreign policy,' after the Pope's criticism of the Iran war, which she calls unjust.",
       "anchored_artifacts": [
         "A-1952.1",
         "A-1953.1"
@@ -1987,14 +1987,15 @@
       "claim_timestamp": "00:51:46–00:58:29",
       "investigative_direction": "Cross-reference dates with Vatican liturgical calendar and Truth Social post timestamps.",
       "mentions_person_refs": [
-        "N-422"
+        "N-5",
+        "N-421"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2697",
       "ref": "C-2697",
-      "label": "Host contends federal investigation shows pattern of altered public statements",
+      "label": "Host Contends Feds Revised Messaging Platform From Discord to iMessage",
       "claim": "Host asserts (based on the Discord statement and subsequent federal characterization) that the federal government initially described the messages as Discord and later revised the description to iMessage.",
       "anchored_artifacts": [
         "A-1955.1"
@@ -2014,7 +2015,7 @@
       "@id": "C-3766",
       "ref": "C-3766",
       "label": "Host says her source reported local texts at about 7 p.m. that police had Tyler Robinson, an hour before the Cox press conference",
-      "claim": "The host says her source told her that around 7:00 p.m. people locally began receiving texts that police had Tyler Robinson and would pick him up in Warner Valley, 12 miles from St. George; she says this makes it strange that at 8:00 p.m. Governor Spencer Cox led a press conference with Kash Patel and Robert Bowles describing the suspect as on the run and releasing new stills.",
+      "claim": "The host says her source told her that around 7:00 p.m. people locally began receiving texts that police had Tyler Robinson and would pick him up in Warner Valley, 12 miles from St. George; she says this makes it strange that at 8:00 p.m. Governor Spencer Cox led a press conference with Kash Patel and Robert Bohls describing the suspect as on the run and releasing new stills.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2034,7 +2035,7 @@
       "@id": "C-8689",
       "ref": "C-8689",
       "label": "Host Describes Cabot Phillips as Erika's Ex-Boyfriend and Daily Wire Employee Tied to the Fort Huachuca Description",
-      "claim": "The host says Cabot Phillips is Erika Kirk's ex-boyfriend and a current Daily Wire employee, and is the man Mitch described as someone he believed he saw with Erika at Fort Huachuca in September.",
+      "claim": "The host says Cabot Phillips is Erika Kirk's ex-boyfriend (\"one of the many\") and a current Daily Wire employee, who was featured on her podcast when Mitch described a man he believed he saw with Erika at Fort Huachuca in September.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10900",
@@ -2048,9 +2049,9 @@
       "transcript_snippet": "Erika's ex-boyfriend, one of the many, uh current Daily Wire employee, who was featured on my podcast when Mitch gave a description of the guy that he believed that he saw with Erika at Fort Huachuca",
       "mentions_person_refs": [
         "N-3",
-        "N-366",
+        "N-365",
         "N-2",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2071,7 +2072,7 @@
       "transcript_snippet": "You will recall that I texted Cabot Phillips before we mentioned him on the podcast, looking for a simple yes or no response.",
       "mentions_person_refs": [
         "N-3",
-        "N-366"
+        "N-365"
       ]
     },
     {
@@ -2090,7 +2091,7 @@
       "transcript_snippet": "he goes, oh, really? Because of you, people don't believe that he is my son. Okay.",
       "mentions_person_refs": [
         "N-3",
-        "N-366"
+        "N-365"
       ]
     },
     {
@@ -2109,7 +2110,7 @@
       "transcript_snippet": "I want to also state that I believe that that is Cabot Phillips' child. I never made the claim otherwise",
       "mentions_person_refs": [
         "N-3",
-        "N-366"
+        "N-365"
       ]
     },
     {
@@ -2162,8 +2163,7 @@
         "C-2685"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-161"
+        "N-3"
       ]
     },
     {
@@ -2185,7 +2185,7 @@
       "transcript_snippet": "He said that I was a psychopathic subway killer that was wielding a knife.",
       "mentions_person_refs": [
         "N-3",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2271,7 +2271,7 @@
       "@id": "C-8699",
       "ref": "C-8699",
       "label": "Host Says She Has Been Pitched on an AI or Hologram Version of Herself",
-      "claim": "The host says she has been pitched on creating an AI Candace or hologram Candace so she would not have to attend so many places, and says she finds the hologram pitch more plausible than a voice product.",
+      "claim": "The host says she has been pitched on creating an AI Candace or hologram Candace so she would not have to attend so many places, and says the hologram idea probably sounds more right to her.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10597"
@@ -2386,7 +2386,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2472,8 +2472,8 @@
       "transcript_snippet": "even Jeremy Boreing when he went on his like Candace tour, uh kind of caged his response and tried to make it sound good that the two of them did not get along when he was on Piers Morgan.",
       "mentions_person_refs": [
         "N-3",
-        "N-368",
-        "N-206",
+        "N-367",
+        "N-205",
         "N-1",
         "N-97"
       ]
@@ -2545,8 +2545,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-607",
-        "N-165",
+        "N-606",
+        "N-164",
         "N-14",
         "N-1"
       ]
@@ -2647,8 +2647,7 @@
         "C-2688"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-607"
+        "N-3"
       ]
     },
     {
@@ -2676,7 +2675,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-607"
+        "N-606"
       ]
     },
     {
@@ -2705,7 +2704,7 @@
       "@id": "C-8717",
       "ref": "C-8717",
       "label": "Host Compares Her View of Ben Shapiro to Megyn Kelly's Remark About Mark Levin",
-      "claim": "The host says Megyn Kelly said of Mark Levin that part of her feels he genuinely wants to hurt her and would be happy if someone killed her, and says that is exactly how she feels about Ben Shapiro.",
+      "claim": "The host says Megyn Kelly said of Mark Levin that there is a piece of her that feels he genuinely wants to hurt her, adds that it is as if he would be happy if someone killed Kelly, and says that is exactly how she feels about Ben Shapiro.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2717,7 +2716,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-46",
-        "N-246",
+        "N-245",
         "N-97"
       ]
     },
@@ -2904,7 +2903,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-69",
-        "N-380",
+        "N-379",
         "N-40"
       ]
     },
@@ -2980,7 +2979,7 @@
       "transcript_snippet": "then we have uh Sheriff Broxby, which we will get from a a later press conference. He will say that that's when he received the phone call from Mike Mitchell",
       "mentions_person_refs": [
         "N-3",
-        "N-274",
+        "N-273",
         "N-125",
         "N-40"
       ]
@@ -3003,8 +3002,8 @@
       "transcript_snippet": "And um then Sheriff Broxby calls the Utah County Sheriff Mike Smith to tell him about the call that he just got from Mike Mitchell.",
       "mentions_person_refs": [
         "N-3",
-        "N-274",
-        "N-814",
+        "N-273",
+        "N-813",
         "N-125"
       ]
     },
@@ -3013,7 +3012,7 @@
       "@id": "C-8730",
       "ref": "C-8730",
       "label": "Host Says Brooksby's Press Conference Put Robinson's Arrival at the Police Station at 9:00 PM",
-      "claim": "The host says that according to Sheriff Nate Brooksby's press conference Tyler arrived at the police station at 9:00 p.m., which she says does not track with the other times, and that Kash Patel later said the arrest came in the 33rd hour.",
+      "claim": "The host says that according to Sheriff Nate Brooksby's press conference Tyler arrived at the police station at 9:00, which she says does not track with the other times, and that Kash Patel later said Robinson was booked in the 33rd hour.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10029",
@@ -3028,7 +3027,7 @@
       "transcript_snippet": "They tell us that 9:00 that Tyler arrives at the police station. That's according to the press conference that is given by Sheriff Nate Broxby.",
       "mentions_person_refs": [
         "N-3",
-        "N-274",
+        "N-273",
         "N-40",
         "N-69"
       ]
@@ -3037,7 +3036,7 @@
       "@type": "Claim",
       "@id": "C-8731",
       "ref": "C-8731",
-      "label": "Host Says Kash Patel Later Said the Arrest Came in the 33rd Hour",
+      "label": "Host Says Kash Patel Later Said Robinson Was Booked in the 33rd Hour",
       "claim": "The host says Kash Patel, and others, said that Tyler Robinson was booked in the 33rd hour, and the host says she thinks officials wanted to say 33 hours as a signal to one another.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3079,7 +3078,7 @@
       "transcript_snippet": "France, assassin squads tied to Freemasonry. So, we can stop pretending that that's a figment of anyone's imagination, least of all mine.",
       "mentions_person_refs": [
         "N-3",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -3263,7 +3262,7 @@
       "@id": "C-8740",
       "ref": "C-8740",
       "label": "Host Says Lance's Family Described a Bent Toward Violence and Said They Eventually Kicked Him Out",
-      "claim": "The host says Lance's family told her he has real issues and a bend toward violence, and that they eventually had to kick him out of the house, which they own, and that they say the relationship between Lance and the feds is unnatural.",
+      "claim": "The host says Lance's family told her he has real issues and a bend toward violence, that they eventually had to kick him out of the house as he was raised, that they own the house Tyler Robinson and Lance live in, and that they say the relationship between Lance and the feds is unnatural.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10598"
@@ -3373,7 +3372,7 @@
         "N-3",
         "N-60",
         "N-5",
-        "N-776"
+        "N-775"
       ]
     },
     {
@@ -3398,7 +3397,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-422"
+        "N-421"
       ]
     },
     {
@@ -3423,7 +3422,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-422"
+        "N-421"
       ]
     },
     {
@@ -3442,8 +3441,8 @@
       "transcript_snippet": "Bishop Barron standing beside Paula White during that prayer, and his excuse is why he was there.",
       "mentions_person_refs": [
         "N-3",
-        "N-815",
-        "N-776",
+        "N-814",
+        "N-775",
         "N-5"
       ]
     },
@@ -3466,7 +3465,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-422"
+        "N-421"
       ]
     },
     {
@@ -3488,7 +3487,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-5",
-        "N-422"
+        "N-421"
       ]
     },
     {
@@ -3520,7 +3519,7 @@
       "@id": "C-8751",
       "ref": "C-8751",
       "label": "Host Says Her Team Could Not Find Any Record of Trump Ever Being a Doctor",
-      "claim": "The host says that when her producer checked, nothing came up showing Trump was ever a doctor, which she contrasts with his explanation that he thought the image showed him as a Red Cross doctor.",
+      "claim": "The host says that after a producer note and asking 'Charlie GPT', nothing came up showing Trump was ever a doctor, which she contrasts with his explanation that he thought the image showed him as a Red Cross doctor.",
       "anchored_artifacts": [
         "A-1954.1"
       ],

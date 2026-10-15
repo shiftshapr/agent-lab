@@ -11,14 +11,14 @@
 - **Transcript SHA-256**: 1df74cccac475e4c487a7870fcec07e5418c1bc8bbaa2b6db88833fb27d1cace
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10f): N-917, N-918, N-11346, N-11347, N-11348
-  - Hole-minted Nodes (reintro-ep091): N-343, N-344, N-345, N-346, N-351, N-10613
-  - Tip-minted Nodes (reintro-ep091): N-644, N-728, N-729, N-730
+  - Tip-minted Nodes (supplement_2026-10f): N-916, N-917, N-11346, N-11347, N-11348
+  - Hole-minted Nodes (reintro-ep091): N-342, N-343, N-344, N-345, N-350, N-10613
+  - Tip-minted Nodes (reintro-ep091): N-643, N-727, N-728, N-729
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
-  - Reused Nodes Appearing: N-9, N-15, N-36, N-40, N-161, N-192, N-211, N-223, N-452, N-10000, N-10026, N-10246, N-10253, N-10276, N-10299, N-10325, N-10398, N-10401, N-10411, N-10572, N-10975, N-11186, N-11244, N-10606
+  - Reused Nodes Appearing: N-9, N-15, N-36, N-40, N-160, N-191, N-210, N-222, N-451, N-10000, N-10026, N-10246, N-10253, N-10276, N-10299, N-10325, N-10398, N-10401, N-10411, N-10572, N-10975, N-11186, N-11244, N-10606
   - Claim Range (supplement_2026-10f): C-12818–C-12895
  - New Nodes Introduced: N-10599, N-10600, N-10601, N-10602, N-10603, N-10604, N-10605
- - Hole-minted Nodes (wave3): N-424, N-425
+ - Hole-minted Nodes (wave3): N-423, N-424
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
  - (see registers)
 
@@ -200,7 +200,7 @@ Video Timestamp: 00:39:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12877, C-12878, N-10599, N-10603, N-344*
+*Related: C-12877, C-12878, N-10599, N-10603, N-343*
 
 ---
 
@@ -213,7 +213,7 @@ Video Timestamp: 00:39:25
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12879, N-10599, N-3, N-344*
+*Related: C-12879, N-10599, N-3, N-343*
 
 ---
 
@@ -226,32 +226,32 @@ Video Timestamp: 00:05:35
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12831, N-1, N-10613, N-344*
+*Related: C-12831, N-1, N-10613, N-343*
 
 ---
 
-**A-3231** Corey Kennedy Research Bundle
+**A-3231** Cori Kennedy Research Bundle
 
-**A-3231.1** Host verbal reference to Corey Kennedy's deep dive on Victor Marx posted on X and Facebook (not shown)
+**A-3231.1** Host verbal reference to Cori Kennedy's deep dive on Victor Marx posted on X and Facebook (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:56:23
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-12892, C-12893, N-10604, N-343, N-918*
+*Related: C-12892, C-12893, N-10604, N-342, N-917*
 
 ---
 
 ## IV. Node Register
 
-**N-424** Jimmy Cherizier
+**N-423** Jimmy Cherizier
 
 First named by the host at 00:27:14 in episode 91.
 
 *Related: C-2705, C-2716*
 
-**N-425** Daniel Horner
+**N-424** Daniel Horner
 
 First named by the host at 00:32:24 in episode 91.
 
@@ -428,7 +428,7 @@ Defendant in the Kirk case; the host says the ATF trace on his gun came back inc
 
 ---
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 TPUSA staffer; the host says he wrote Erika's September 12 address and heavily assisted her memorial speech.
 
@@ -436,7 +436,7 @@ TPUSA staffer; the host says he wrote Erika's September 12 address and heavily a
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 TPUSA chief of staff from January 2024 per the host; the transcript spells him Mikey McCoy.
 
@@ -444,7 +444,7 @@ TPUSA chief of staff from January 2024 per the host; the transcript spells him M
 
 ---
 
-**N-211** Joe Kent
+**N-210** Joe Kent
 
 Named in a hypothetical about whom Erika should have called about the planes.
 
@@ -452,7 +452,7 @@ Named in a hypothetical about whom Erika should have called about the planes.
 
 ---
 
-**N-223** Brett Cooper
+**N-222** Brett Cooper
 
 Former Daily Wire host; the host cites what Daily Wire tried to do to her.
 
@@ -460,7 +460,7 @@ Former Daily Wire host; the host cites what Daily Wire tried to do to her.
 
 ---
 
-**N-343** Victor Marx
+**N-342** Victor Marx
 
 Pastor and Colorado gubernatorial candidate; the host and Corby Hall's statement describe his background, Fold AR dealings and Haiti activity.
 
@@ -468,7 +468,7 @@ Pastor and Colorado gubernatorial candidate; the host and Corby Hall's statement
 
 ---
 
-**N-344** Corby Hall
+**N-343** Corby Hall
 
 Fold AR maker whose written statement the host reads and whom she says she believes.
 
@@ -476,7 +476,7 @@ Fold AR maker whose written statement the host reads and whom she says she belie
 
 ---
 
-**N-345** Eileen Marx
+**N-344** Eileen Marx
 
 Victor Marx's wife; appears in the hug video and in Hall's account of the dream and vision.
 
@@ -484,7 +484,7 @@ Victor Marx's wife; appears in the hug video and in Hall's account of the dream 
 
 ---
 
-**N-346** Melody Hall
+**N-345** Melody Hall
 
 Hall's then girlfriend and later wife, described in his statement as COO of Fold AR.
 
@@ -492,7 +492,7 @@ Hall's then girlfriend and later wife, described in his statement as COO of Fold
 
 ---
 
-**N-351** Gloyce Dean Kennedy
+**N-350** Gloyce Dean Kennedy
 
 Victor Marx's stepfather per the host; subject of the army, smuggling and conviction claims.
 
@@ -500,7 +500,7 @@ Victor Marx's stepfather per the host; subject of the army, smuggling and convic
 
 ---
 
-**N-452** Greg Laurie
+**N-451** Greg Laurie
 
 Pastor the host names as accused of trafficking.
 
@@ -508,7 +508,7 @@ Pastor the host names as accused of trafficking.
 
 ---
 
-**N-644** Sebastian Gorka
+**N-643** Sebastian Gorka
 
 Host of the America First show on which Marx and Melody appeared per Hall's statement.
 
@@ -516,7 +516,7 @@ Host of the America First show on which Marx and Melody appeared per Hall's stat
 
 ---
 
-**N-728** Mike Kennedy
+**N-727** Mike Kennedy
 
 Victor Marx's brother per the host; attorney who took a plea deal in the same smuggling case and co-founded the ministry.
 
@@ -524,7 +524,7 @@ Victor Marx's brother per the host; attorney who took a plea deal in the same sm
 
 ---
 
-**N-729** Karl Marx (Victor Marx's father)
+**N-728** Karl Marx (Victor Marx's father)
 
 Marx's biological father per the host; the transcript spells the first name Carl.
 
@@ -532,7 +532,7 @@ Marx's biological father per the host; the transcript spells the first name Carl
 
 ---
 
-**N-730** Kenneth Brining
+**N-729** Kenneth Brining
 
 Eileen Marx's brother per the host; subject of the shooting attempt and trial claims.
 
@@ -540,7 +540,7 @@ Eileen Marx's brother per the host; subject of the shooting attempt and trial cl
 
 ---
 
-**N-917** Chaz Yandle
+**N-916** Chaz Yandle
 
 First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met Hall at the hotel and goes with Marx to Haiti. Spelling as transcribed.
 
@@ -548,7 +548,7 @@ First named by the host at 00:31:39 in episode 91 as Victor Marx's COO who met H
 
 ---
 
-**N-918** Corey Kennedy
+**N-917** Cori Kennedy
 
 First named by the host at 00:56:23 in episode 91 as a researcher who has done a deep dive on Victor Marx on X and Facebook. The host is unsure of the surname and spells the first name C O R I.
 
@@ -707,11 +707,12 @@ The host's stated suspicion that the 2018 timeline matches Jeffrey Epstein's arr
 
 **C-2698** Per Corby Hall Statement Host Reads, Victor Marx Expressed Interest in Owning Fold AR
 
-Claim Timestamp: 00:21:21
+Claim Timestamp: 00:33:10
 
 Claim: Per a written statement by Corby Hall that the host reads, Victor Marx expressed interest in acquiring ownership of Fold AR.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-342, N-343
 
 Related Nodes: N-10600
 
@@ -726,6 +727,7 @@ Claim Timestamp: 00:21:21
 Claim: Per a written statement by Corby Hall that the host reads, on or about December 1, 2023, at Victor Marx's request, Hall and Melody drove from Texas to Colorado Springs to provide a demo of the Fold AR at Marx's home range; Marx subsequently requested a signature series rifle.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-342, N-343, N-345
 
 Related Nodes:
 
@@ -735,11 +737,12 @@ Investigative Direction: Verify travel records, communications, and Fold AR demo
 
 **C-2700** Per Corby Hall Statement Host Reads, Victor Marx Performed "Retooling Prayer" on Hall and Melody
 
-Claim Timestamp: 00:22:29
+Claim Timestamp: 00:23:40
 
 Claim: Per a written statement by Corby Hall that the host reads, Victor Marx performed a ritual he described as a "retooling prayer" on both Melody and Corby Hall during the initial home visit; the host characterizes the practice as confronting demons.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-342, N-343, N-345
 
 Related Nodes:
 
@@ -754,6 +757,7 @@ Claim Timestamp: 00:24:43
 Claim: Per a written statement by Corby Hall that the host reads, on January 24, 2024, Victor Marx married Corby Hall and Melody in his hotel room with several industry friends present.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-342, N-343, N-345
 
 Related Nodes:
 
@@ -763,11 +767,12 @@ Investigative Direction: Verify the marriage through official marriage records.
 
 **C-2702** Per Corby Hall Statement Host Reads, All Things Possible Ministries Purchased 5 Fold AR Rifles for Lindale High School
 
-Claim Timestamp: 00:24:43
+Claim Timestamp: 00:25:28
 
 Claim: Per a written statement by Corby Hall that the host reads, All Things Possible Ministries purchased five Fold AR weapon systems for Lindale High School in Texas; no further ministry participation was made or offered.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-343
 
 Related Nodes:
 
@@ -782,6 +787,7 @@ Claim Timestamp: 00:25:43
 Claim: Corby Hall's written statement documents that in late fall 2024, Victor Marx stated he needed 50 rifles for a mission to Haiti where he would drop off and leave the firearms; Hall advised that this would constitute illegal exporting.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-342, N-343
 
 Related Nodes: N-10602
 
@@ -796,6 +802,7 @@ Claim Timestamp: 00:26:32
 Claim: Per a written statement by Corby Hall that the host reads, in October 2024 Victor Marx requested a 1,000-yard capable rifle with scope camera, stating it would be used to "blow the head off" of anyone attempting to scale the fence of a Haiti orphanage, with video used as propaganda.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-342, N-343
 
 Related Nodes: N-10602
 
@@ -805,12 +812,12 @@ Investigative Direction: Verify the build of the rifle, related communications, 
 
 **C-2705** Marx Stated Intent to Capture or Execute Jimmy Barbecue
 
-Claim Timestamp: 00:27:14
+Claim Timestamp: 00:27:50
 
 Claim: Corby Hall's written statement documents that Victor Marx stated his team was going to capture or execute Jimmy Barbecue, then the top gang leader of Haiti.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-424
+Mentions: N-342, N-343, N-423
 
 Related Nodes: N-10602
 
@@ -820,12 +827,12 @@ Investigative Direction: Cross-reference with subsequent Haiti mission records a
 
 **C-2706** Marx Discussed Fold AR Acquisition with Sig Sauer / Daniel Horner
 
-Claim Timestamp: 00:33:10
+Claim Timestamp: 00:32:50
 
 Claim: Corby Hall's written statement documents that Victor Marx stated he was discussing the acquisition of Fold AR with Sig Sauer, and that Sig Sauer's top shooter Daniel Horner had tested the Fold AR and given a "thumbs up."
 
 Anchored Artifacts: A-1958.1
-Mentions: N-425
+Mentions: N-342, N-343, N-424
 
 Related Nodes: N-10600
 
@@ -840,6 +847,7 @@ Claim Timestamp: 00:33:10
 Claim: Per a written statement by Corby Hall that the host reads, Victor Marx stated that his accountants valued Fold AR at $2 million (including the patent) and that he personally wanted to purchase 51% of the company.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-342, N-343
 
 Related Nodes: N-10600
 
@@ -854,6 +862,7 @@ Claim Timestamp: 00:33:10
 Claim: Corby Hall's written statement documents that during a walk on his property, Victor Marx stated that the IDF needed 50,000 guns for operations in Gaza, Lebanon, and Syria.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-342, N-343
 
 Related Nodes: N-10601
 
@@ -868,6 +877,7 @@ Claim Timestamp: 00:34:23
 Claim: Per a written statement by Corby Hall that the host reads, Victor Marx showed Hall a structure behind his house that included a large underground bunker, a front-facing firearm port, and an indoor shooting range, which Marx described as intended for "spiritual retooling" of officers working child sex trafficking cases.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-342, N-343
 
 Related Nodes:
 
@@ -877,11 +887,12 @@ Investigative Direction: Verify the existence and current status of the structur
 
 **C-2710** Marx Sent Group Message Calling Hall "Demonically Influenced"
 
-Claim Timestamp: 00:36:14
+Claim Timestamp: 00:35:55
 
 Claim: Corby Hall's written statement documents that after the deal fell through, Victor Marx sent a group message to Hall and Melody stating Hall was "demonically influenced" because he refused a retooling prayer.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-342, N-343, N-345
 
 Related Nodes:
 
@@ -896,6 +907,7 @@ Claim Timestamp: 00:36:44
 Claim: The host says, based on Corby Hall's account, that on June 6, 2024 Hall sold a Fold AR with serial number 02735 to a Texas deputy.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-343
 
 Related Nodes: N-10603
 
@@ -907,9 +919,10 @@ Investigative Direction: Verify the sale via Fold AR's bound book / ATF Form 447
 
 Claim Timestamp: 00:36:44
 
-Claim: Corby Hall's written statement documents that on July 4, 2024, the Texas deputy reported that Fold AR SN 02735 was stolen from his vehicle at a gas station in Midland, Texas, with windows left down; the deputy stated he reported it to local Midland police.
+Claim: The host says that on July 4, 2024, the Texas deputy contacted Corby Hall and told him that Fold AR SN 02735 was stolen from his car at a gas station in Midland, Texas after he accidentally left the doors and windows down, and that the deputy claimed he reported it to local Midland police.
 
 Anchored Artifacts: A-1958.1
+Mentions: N-343
 
 Related Nodes: N-10603
 
@@ -924,6 +937,7 @@ Claim Timestamp: 00:37:42
 Claim: Per host account of forwarded ATF email, on September 10, 2025, at 9:33 a.m. Central, Corby Hall received an email from the ATF initiating a trace on Fold AR SN 02735 with a 24-hour response window; the email is described as real and confirmed by the host.
 
 Anchored Artifacts: A-1963.1
+Mentions: N-343
 
 Related Nodes: N-10599, N-10603
 
@@ -938,7 +952,7 @@ Claim Timestamp: 00:09:06
 Claim: An Instagram video shows Erika Kirk and Eileen Marx embracing shortly after Charlie Kirk's assassination, with impassioned music ("Held" by Natalie Grant) added, posted by Victor Marx.
 
 Anchored Artifacts: A-1959.1
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-342, N-344
 
 Related Nodes: N-10605
 
@@ -948,12 +962,12 @@ Investigative Direction: Obtain original Instagram post metadata; verify posting
 
 **C-2715** Host Shows Photo of Erika Kirk Being Comforted by Victor Marx at Residence
 
-Claim Timestamp: 00:10:03
+Claim Timestamp: 00:09:40
 
-Claim: The host shows a photo that she says shows Erika Kirk being comforted by Victor Marx at her residence, approximately 72 hours after Charlie Kirk's assassination; the host notes Erika is holding her phone.
+Claim: The host shows a photo that she says shows Erika Kirk being comforted by Victor Marx in the building she lives in, approximately 72 hours after Charlie Kirk's assassination.
 
 Anchored Artifacts: A-1959.2
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-342
 
 Related Nodes: N-10605
 
@@ -965,10 +979,10 @@ Investigative Direction: Obtain original image metadata; verify posting context.
 
 Claim Timestamp: 00:28:28
 
-Claim: CBN News aired a report stating that Victor Marx met with Haitian gang leader Jimmy Barbecue (Cherizier), who subsequently pledged to protect orphanages and Christian workers; Marx is shown praying with him and the FAA is reported to have banned US flights to Haiti after three planes were hit by gunfire.
+Claim: CBN News aired a report stating that after a visit from American missionary Victor Marx, Haitian gang leader Jimmy Barbecue (Cherizier) pledged to protect orphanages and Christian workers; in the report Marx says he prayed with him, and the report says the FAA banned US flights to Haiti after three planes were hit by gunfire.
 
 Anchored Artifacts: A-1960.1
-Mentions: N-424
+Mentions: N-342, N-423
 
 Related Nodes: N-10602
 
@@ -995,9 +1009,10 @@ Investigative Direction: Obtain full transcript of the remarks; verify the opera
 
 Claim Timestamp: 00:13:04
 
-Claim: An audio clip of Victor Marx recounts that at age 7, his stepfather placed a pistol in his hand, put his finger over Victor's trigger finger, and forced him to shoot a man in the head; Marx further states the body was later buried and that he eventually reported it to police.
+Claim: In an audio clip the host plays, Victor Marx recounts that his stepfather placed a pistol in his hand, put his finger over Victor's trigger finger, and forced him to shoot a man in the head; the host says Marx was 7 at the time and that Marx says the body was later buried and he reported it to police 40 years later.
 
 Anchored Artifacts: A-1962.1
+Mentions: N-342, N-350
 
 Related Nodes: N-10604
 
@@ -1040,6 +1055,7 @@ Claim Timestamp: 00:39:25
 Claim: The host explicitly states she believes Corby Hall's account, has confirmed the ATF email is real, and considers the timing of the ATF trace to be "odd" and "precise."
 
 Anchored Artifacts: A-1958.1, A-1963.1
+Mentions: N-343
 
 Related Nodes: N-10599, N-10603
 
@@ -1072,7 +1088,7 @@ Claim: The host says Erika Kirk's first public address on September 12 was not w
 Transcript Snippet: which was not written by her, I was told it was written by Blake Neff
 
 Anchored Artifacts: 
-Mentions: N-2, N-161
+Mentions: N-2, N-160
 Related Nodes: N-11346
 Tags: relevance:core
 Investigative Direction: Obtain drafts, document metadata or staff testimony on who wrote the September 12 address; ask Neff and TPUSA to confirm or deny.
@@ -1083,7 +1099,7 @@ Investigative Direction: Obtain drafts, document metadata or staff testimony on 
 
 Claim Timestamp: 00:01:16
 
-Claim: The host quotes Erika Kirk's September 12 address as saying Charlie "witnessed for his Lord and savior Jesus Christ," offered as evidence that Erika rarely uses the name Jesus Christ otherwise.
+Claim: The host quotes Erika Kirk's September 12 address as saying Charlie "witnessed for his Lord and savior Jesus Christ," noting that the speech was reportedly not written by Erika and that people have observed she rarely says Jesus Christ.
 
 Transcript Snippet: Charlie witnesses for his Lord uh witnessed for his Lord and savior Jesus Christ.
 
@@ -1120,7 +1136,7 @@ Claim: The host says that, as she is told, Erika did not write her own memorial 
 Transcript Snippet: Uh Blake Neff came in with a heavy assist.
 
 Anchored Artifacts: 
-Mentions: N-2, N-161
+Mentions: N-2, N-160
 Related Nodes: N-11346
 Tags: relevance:core
 Investigative Direction: Identify the host's sources and obtain drafts or staff accounts of who wrote the memorial remarks.
@@ -1200,7 +1216,7 @@ Claim: The host says that after Mikey McCoy became chief of staff in January 202
 Transcript Snippet: after Mikey McCoy becomes the chief of staff in January of 2024, uh Ch- Charlie suddenly his schedule is beginning to mirror these Egyptian planes.
 
 Anchored Artifacts: 
-Mentions: N-192, N-1
+Mentions: N-191, N-1
 Related Nodes: N-10253, N-10000, N-10398
 Supports: C-1545
 Tags: relevance:core
@@ -1217,7 +1233,7 @@ Claim: The host says that once McCoy was announced as chief of staff, Charlie wa
 Transcript Snippet: Charlie is just doing a lot in Kansas and in Nebraska and in Missouri crossing with these planes.
 
 Anchored Artifacts: 
-Mentions: N-1, N-192
+Mentions: N-1, N-191
 Related Nodes: N-10253, N-10276
 Tags: relevance:core
 Investigative Direction: List Charlie's Kansas, Nebraska and Missouri appearances in 2024 and match them to plane arrival dates.
@@ -1249,7 +1265,7 @@ Claim: The host says Erika, instead of calling Joe Kent to ask who was on the pl
 Transcript Snippet: She wanted to make jokes about the Egyptian planes. She doesn't want the public looking at the Egyptian planes.
 
 Anchored Artifacts: 
-Mentions: N-2, N-211
+Mentions: N-2, N-210
 Related Nodes: N-10253, N-10299
 Tags: relevance:core
 Investigative Direction: Locate the specific Erika remarks the host calls jokes and check them for context.
@@ -1265,7 +1281,7 @@ Claim: The host says her team was contacted by a man who said he was afraid for 
 Transcript Snippet: we were contacted by someone who said that he was afraid for his life, but that he felt that he had to speak out and tell the truth um for Charlie.
 
 Anchored Artifacts: A-3230.1
-Mentions: N-344, N-1
+Mentions: N-343, N-1
 Related Nodes: N-10613
 Tags: relevance:core
 Investigative Direction: Obtain the original email and call record from the host's team, and Hall's own account of what he fears.
@@ -1281,7 +1297,7 @@ Claim: The host says Victor Marx, a Marine veteran, announced his run for govern
 Transcript Snippet: he chose to make to announce his intention to run for governor of Colorado at a Charlie Kirk memorial event in Denver on September 14th, just a couple of days after Charlie was assassinated.
 
 Anchored Artifacts: 
-Mentions: N-343, N-1
+Mentions: N-342, N-1
 Related Nodes: N-11347
 Tags: relevance:context
 Investigative Direction: Check Colorado candidate filings and the event's video for the date and wording of the announcement.
@@ -1297,9 +1313,9 @@ Claim: The host says Victor Marx teaches an online educational course for Turnin
 Transcript Snippet: he teaches an online educational course for Turning Point Faith entitled Freedom from Pornography.
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10398
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check the Turning Point Faith course catalog and instructor list for the course and its dates.
 
 ---
@@ -1313,7 +1329,7 @@ Claim: The host says Victor Marx claims his 20-year-old son was at one point Cha
 Transcript Snippet: He also claims his 20-year-old son was at one point Charlie Kirk's assistant
 
 Anchored Artifacts: 
-Mentions: N-343, N-1, N-2
+Mentions: N-342, N-1, N-2
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Locate Marx's original statement and ask TPUSA whether any such assistant was employed.
@@ -1329,7 +1345,7 @@ Claim: The host says her team has been unable to confirm that Marx's son was Cha
 Transcript Snippet: we've been able unable to confirm that he was Charlie's assistant. I certainly don't remember him being Charlie's assistant
 
 Anchored Artifacts: 
-Mentions: N-343, N-1
+Mentions: N-342, N-1
 Related Nodes: N-10604
 Supports: C-12834
 Tags: relevance:context
@@ -1346,7 +1362,7 @@ Claim: The host says Victor Marx and his wife Eileen were among the very first p
 Transcript Snippet: Pastor Victor Marx and his wife Eileen Marx were one of the very first people to go see and greet Erika in the days following Charlie's assassination.
 
 Anchored Artifacts: A-1959.1
-Mentions: N-343, N-345, N-2, N-1
+Mentions: N-342, N-344, N-2, N-1
 Related Nodes: N-10605
 Tags: relevance:core
 Investigative Direction: Establish the date and location of the first Marx visit from the Instagram post metadata and the people who accompanied them.
@@ -1379,7 +1395,7 @@ Claim: The host says Victor Marx, like his stepfather, was allegedly interested 
 Transcript Snippet: Victor, like his stepdaddy, was allegedly interested in trafficking, particularly arms over to Haiti, and he contacted a man named Corby Hall to get this done.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-343, N-344
+Mentions: N-342, N-343
 Related Nodes: N-10602, N-10325
 Supports: C-2703
 Tags: relevance:core
@@ -1396,7 +1412,7 @@ Claim: The host says Victor Marx's real name is Vaughn Victor Kennedy, that he s
 Transcript Snippet: his real name is Vaughn Victor Kennedy. Well, he says it's Vaughn.
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Obtain Marx's military service record (DD-214) and any name-change filing.
@@ -1412,7 +1428,7 @@ Claim: The host says that by age 17 Marx had lived in 17 homes and attended 14 s
 Transcript Snippet: by the time he was 17, he had lived in 17 homes and attended 14 schools.
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Check Marx's own published memoir or interviews for these figures.
@@ -1428,7 +1444,7 @@ Claim: The host says Marx's stepfather, Gloyce Dean Kennedy, whom Marx calls Mr.
 Transcript Snippet: his stepfather served in the army and did counterintelligence. And thereafter, he ran an international drug smuggling ring out of Jamaica
 
 Anchored Artifacts: 
-Mentions: N-351, N-343
+Mentions: N-350, N-342
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Obtain the army service record and the federal case file for Gloyce Dean Kennedy.
@@ -1444,7 +1460,7 @@ Claim: The host says Gloyce Dean Kennedy pled guilty and was convicted of conspi
 Transcript Snippet: convicted of conspiracy in 1987 for attempting to import 1,400 lb of marijuana from Jamaica.
 
 Anchored Artifacts: 
-Mentions: N-351
+Mentions: N-350
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Pull the 1987 federal docket and sentencing record by name.
@@ -1460,7 +1476,7 @@ Claim: The host says Marx's brother Mike Kennedy, later an attorney, pled guilty
 Transcript Snippet: He took a plea deal, so he only served a year and a day in exchange for testifying against his stepfather Gloyce.
 
 Anchored Artifacts: 
-Mentions: N-728, N-351
+Mentions: N-727, N-350
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Check the same federal docket for Mike Kennedy's plea agreement and sentence.
@@ -1476,7 +1492,7 @@ Claim: The host says Marx's biological father, Carl Marx, was apparently a pimp,
 Transcript Snippet: His name was Carl Marx. Okay? And he was a pimp, a drug dealer, and also a world-famous martial arts expert who spent time in a mental hospital for his homicidal tendencies.
 
 Anchored Artifacts: 
-Mentions: N-729, N-343
+Mentions: N-728, N-342
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Ask for the host's sources; check Marx's own books and interviews about his father.
@@ -1492,7 +1508,7 @@ Claim: The host says Marx's grandfather on his dad's side killed his grandmother
 Transcript Snippet: his grandfather, on his dad's side, killed his grandmother before he turned the gun on himself and committed suicide in public.
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Look for contemporaneous newspaper reports or death records matching the host's account.
@@ -1508,7 +1524,7 @@ Claim: The host says Marx joined the Marine Corps at 18 and served only 2 years 
 Transcript Snippet: he only served for 2 years during peacetime, stateside, no deployments, before he was discharged.
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10604
 Supports: C-2720
 Tags: relevance:context
@@ -1525,7 +1541,7 @@ Claim: The host says Marx was stationed at Camp Pendleton in California, began a
 Transcript Snippet: he was stationed at Camp Pendleton in California and began attending the nearby Calvary Chapel.
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10604, N-10246
 Tags: relevance:context
 Investigative Direction: Check Marx's testimony and the Calvary Chapel congregation near Pendleton for dates.
@@ -1541,7 +1557,7 @@ Claim: The host says Marx married Eileen (Brining) Marx in 1988 and that they we
 Transcript Snippet: 2 years later, in 1988, he married his wife, Eileen
 
 Anchored Artifacts: 
-Mentions: N-343, N-345
+Mentions: N-342, N-344
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Check marriage records for the 1988 date.
@@ -1557,7 +1573,7 @@ Claim: The host says that in 2003 Marx and his brother, who had received a light
 Transcript Snippet: In 2003, he and his brother, who got that light sentence, um who was out of prison now, began All Things Possible Ministries.
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Check nonprofit registration and IRS filings for All Things Possible Ministries and its founders.
@@ -1573,7 +1589,7 @@ Claim: The host says Calvary Chapel, as she has shown in the past, has a long hi
 Transcript Snippet: Calvary Chapel, as we have shown you in the past, has a long history of these sorts of characters going on to become pastors, getting involved.
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10246
 Supports: C-6619
 Tags: relevance:context
@@ -1590,7 +1606,7 @@ Claim: The host says Eileen Marx's brother Kenneth tried to shoot Marx on his ow
 Transcript Snippet: Eileen, his wife's brother, Kenneth, um for some reason, his his brother-in-law tried to shoot him on his own property.
 
 Anchored Artifacts: 
-Mentions: N-730, N-345, N-343
+Mentions: N-729, N-344, N-342
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Search local police and court records for the incident and its date.
@@ -1606,7 +1622,7 @@ Claim: The host says Eileen's brother would go on to kill his own girlfriend and
 Transcript Snippet: Eileen's brother would go on to kill his own girlfriend, for which I believe he is currently awaiting trial.
 
 Anchored Artifacts: 
-Mentions: N-730, N-345
+Mentions: N-729, N-344
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Check court dockets for any pending case against the named individual; the host states it as a belief.
@@ -1622,7 +1638,7 @@ Claim: The host says Marx openly admits he punches holes in the walls of his hou
 Transcript Snippet: he openly admits that he punches holes in the walls of his house about uh once a year
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Find the interview or talk in which Marx says this.
@@ -1638,7 +1654,7 @@ Claim: The host says Marx openly states that he himself struggles with suicidal 
 Transcript Snippet: He also openly states that he himself struggles with suicidal and homicidal tendencies.
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Find the primary Marx interview or book passage and check its wording.
@@ -1654,7 +1670,7 @@ Claim: In the statement the host reads, Corby Hall says Melody, his then girlfri
 Transcript Snippet: Melody, my then girlfriend, who earned her place as COO of Fold AR
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-346
+Mentions: N-343, N-345
 Related Nodes: N-10603
 Tags: relevance:context
 Investigative Direction: Check Fold AR corporate filings for Melody's title.
@@ -1670,7 +1686,7 @@ Claim: In the statement the host reads, Hall says Marx told him he was exploring
 Transcript Snippet: he was exploring this as well with other much larger manufacturers
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343
+Mentions: N-343, N-342
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Ask other manufacturers whether Marx approached them about a signature series.
@@ -1686,7 +1702,7 @@ Claim: In the statement the host reads, Hall says that at 16 he was briefly fals
 Transcript Snippet: at 16 years old I was briefly falsely identified as a person of interest in the Columbine massacre in 1999 by certain investigative agents.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343, N-345
+Mentions: N-343, N-342, N-344
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Ask Hall for documentation of any 1999 contact; no record is cited on air.
@@ -1702,7 +1718,7 @@ Claim: In the statement the host reads, Hall says that after he told the Columbi
 Transcript Snippet: Mr. Marx stated and Mrs. Marx affirmed that she had had a dream and a vision the night before that they would be a part of a greater mission to protect children.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343, N-345
+Mentions: N-343, N-342, N-344
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Ask Hall for dated messages that describe the vision.
@@ -1718,7 +1734,7 @@ Claim: In the statement the host reads, Hall says the mission that followed was 
 Transcript Snippet: the mission would be to help us to get the Fold AR on the backs of school resource officers around the country.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343
+Mentions: N-343, N-342
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Check Fold AR and ministry marketing materials for the school resource officer program.
@@ -1729,12 +1745,12 @@ Investigative Direction: Check Fold AR and ministry marketing materials for the 
 
 Claim Timestamp: 00:23:12
 
-Claim: The host says Victor Marx's retooling prayer involves summoning demons inside a person and extracting information from them, with the person kneeling in a circle, and that she says it parallels practices in occult ritual frameworks.
+Claim: The host says Victor Marx effectively pretends in the retooling prayer that he will summon and then extract information from demons inside a person, with the person kneeling in a circle, and that she says it parallels practices in occult ritual frameworks.
 
 Transcript Snippet: Victor Marx is effectively what he does is he pretends that he is going to summon and then extract information from demons that are inside of you.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10604
 Tags: relevance:tangential
 Investigative Direction: Review Marx's published teaching materials and videos on retooling prayer and have a qualified third party characterize the practice.
@@ -1750,7 +1766,7 @@ Claim: In the statement the host reads, Hall says the Victor Marx signature seri
 Transcript Snippet: we released the Victor Marx signature series rifle at the SHOT Show in 2024. The Marxes participated in the release, attending our show booth for several hours each of the four days of the show.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343, N-345
+Mentions: N-343, N-342, N-344
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Find SHOT Show 2024 exhibitor materials, photos or press releases for the Fold AR booth.
@@ -1766,7 +1782,7 @@ Claim: In the statement the host reads, Hall says Marx went on Sebastian Gorka's
 Transcript Snippet: Mr. Marx went on Sebastian Gorka's America First show with Melody to discuss the Fold AR
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343, N-346, N-644
+Mentions: N-343, N-342, N-345, N-643
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Find the America First episode and check its date and what was said about Fold AR.
@@ -1782,10 +1798,10 @@ Claim: In the statement the host reads, Hall says he told Marx he would not leav
 Transcript Snippet: I then departed and left the long-range configured Fold AR rifle with him.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343
+Mentions: N-343, N-342
 Related Nodes: N-10602
 Supports: C-2704
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Seek the sales or transfer paperwork for that rifle, including its serial number and recipient.
 
 ---
@@ -1799,7 +1815,7 @@ Claim: In the statement the host reads, Hall says that in the first quarter of 2
 Transcript Snippet: in the first quarter of 2025, Mr. Marx had offered to help find an investor for Fold AR.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343
+Mentions: N-343, N-342
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Ask Hall for dated messages and for names of any investors Marx proposed.
@@ -1815,7 +1831,7 @@ Claim: The host says Hall and his wife would sell on two conditions, the first b
 Transcript Snippet: The first is that the guns are going to be used for school resource officers. They wanted school security to be the primary and permanent mission.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344
+Mentions: N-343
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Check any term sheet or messages that record the conditions.
@@ -1831,7 +1847,7 @@ Claim: The host says the second condition was that any sale be enough money that
 Transcript Snippet: The second um is that they wanted to have enough money, if they agreed to sell the company, that it would be enough money that they would no longer have to work.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344
+Mentions: N-343
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Compare with the $2 million valuation Marx reportedly offered (C-2707).
@@ -1847,9 +1863,9 @@ Claim: In the statement the host reads, Hall says Marx and his COO Chaz Yandle, 
 Transcript Snippet: Mr. Marx and his COO, Chaz Yandle, he goes with them with hate to Haiti, by the way, met me at the hotel. They were both wearing bulletproof vests.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343, N-917
+Mentions: N-343, N-342, N-916
 Related Nodes: N-10602
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify Marx's COO and ask him about the hotel meeting and the trip to Haiti.
 
 ---
@@ -1863,7 +1879,7 @@ Claim: In the statement the host reads, Hall says Marx had a bodyguard near him,
 Transcript Snippet: Mr. Marx had a bodyguard near me, and all were wearing bulletproof vests at all times.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343
+Mentions: N-343, N-342
 Related Nodes: N-10602
 Tags: relevance:context
 Investigative Direction: Ask Hall for photos or messages from the three-day visit.
@@ -1879,7 +1895,7 @@ Claim: In the statement the host reads, Hall says he trained Marx's bodyguard on
 Transcript Snippet: I proceeded to train his bodyguard on how to deploy uh the Fold AR.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343
+Mentions: N-343, N-342
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Ask Hall to identify the bodyguard and any training records.
@@ -1895,10 +1911,10 @@ Claim: In the statement the host reads, Hall says that after Marx said the IDF n
 Transcript Snippet: Do you know that I could whoop your ass right here, and there's nothing that you could do about it?
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343
+Mentions: N-343, N-342
 Related Nodes: N-10601
 Supports: C-2708
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Ask Hall for any witness, including the bodyguard, and for any contemporaneous note of the exchange.
 
 ---
@@ -1912,7 +1928,7 @@ Claim: In the statement the host reads, Hall says that after about 15 seconds of
 Transcript Snippet: That's why I'm never going to engage in scripture with you.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343
+Mentions: N-343, N-342
 Related Nodes: N-10601
 Tags: relevance:context
 Investigative Direction: Ask Hall for a contemporaneous note of the walk and exchange.
@@ -1928,7 +1944,7 @@ Claim: In the statement the host reads, Hall says the planned complex for spirit
 Transcript Snippet: And it was going to be exclusively funded by donors.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343
+Mentions: N-343, N-342
 Related Nodes: N-10604
 Supports: C-2709
 Tags: relevance:context
@@ -1945,7 +1961,7 @@ Claim: In the statement the host reads, Hall says that in the days after his vis
 Transcript Snippet: He continued on telling me that there is no longer a need for Fold AR in schools.
 
 Anchored Artifacts: A-1958.1
-Mentions: N-344, N-343
+Mentions: N-343, N-342
 Related Nodes: N-10600
 Tags: relevance:context
 Investigative Direction: Ask Hall for the messages in which Marx made this argument.
@@ -1977,7 +1993,7 @@ Claim: The host says that when the ATF emails to say it is conducting a trace it
 Transcript Snippet: what it means is that they are seeking to identify the first retail purchase of a firearm that they have determined is involved in a crime.
 
 Anchored Artifacts: A-1963.1
-Mentions: N-344
+Mentions: N-343
 Related Nodes: N-10975, N-10599
 Tags: relevance:core
 Investigative Direction: Obtain ATF's published description of the trace process and whether a trace request is issued only after a crime link is established.
@@ -1993,7 +2009,7 @@ Claim: The host says the ATF email gave a manufacturer or seller 24 hours to res
 Transcript Snippet: Corby did, and mysteriously he heard nothing back. There was no follow-up.
 
 Anchored Artifacts: A-1963.1
-Mentions: N-344
+Mentions: N-343
 Related Nodes: N-10599, N-10975
 Tags: relevance:core
 Investigative Direction: Obtain Hall's reply email and the ATF trace case number; file a FOIA request for the trace record.
@@ -2009,7 +2025,7 @@ Claim: The host says Hall called the Texas deputy he sold the gun to and the dep
 Transcript Snippet: And he picked up the phone, and he said, "No, no, ATF never never contacted me."
 
 Anchored Artifacts: A-3228.1
-Mentions: N-344
+Mentions: N-343
 Related Nodes: N-10599, N-10603
 Tags: relevance:core
 Investigative Direction: Identify the deputy and agency; ask the ATF whether it contacted the registered purchaser.
@@ -2025,7 +2041,7 @@ Claim: The host says the deputy told Hall he had checked a system he has access 
 Transcript Snippet: he had checked some system that he has available and he has access to and that gun is is somehow not even reported as missing.
 
 Anchored Artifacts: A-3228.1
-Mentions: N-344
+Mentions: N-343
 Related Nodes: N-10603, N-10599
 Tags: relevance:core
 Investigative Direction: Check NCIC and Midland police records for a stolen-firearm report on the serial number, via the deputy's agency or a records request.
@@ -2041,7 +2057,7 @@ Claim: The host says Hall forwarded her the ATF email and all of the evidence an
 Transcript Snippet: He forwarded me all of the evidence for everything that he is saying.
 
 Anchored Artifacts: A-3229.1
-Mentions: N-344, N-3
+Mentions: N-343, N-3
 Related Nodes: N-10599
 Supports: C-2721
 Tags: relevance:core
@@ -2107,7 +2123,7 @@ Claim: The host says Victor Marx says he dealt with the Taliban and with ISIS.
 Transcript Snippet: Victor Marx says he dealt with the Taliban. He dealt with ISIS.
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10604, N-10325
 Tags: relevance:core
 Investigative Direction: Find Marx's own statements about these contacts and the context of his hostage-rescue work.
@@ -2118,7 +2134,7 @@ Investigative Direction: Find Marx's own statements about these contacts and the
 
 Claim Timestamp: 00:45:36
 
-Claim: The host says she has said from the beginning that her sense is Charlie was betrayed and that after seven months of looking it is very obvious to her that pastors and TPUSA staff were involved.
+Claim: The host says she has said from the beginning that her sense is Charlie was betrayed, that she has been looking at this for 7 months, and that it is very obvious to her that the pastors who claim to be evangelizing and the people who work at Turning Point USA are people saying "I used to be an arms trafficker dealer and then I found God."
 
 Transcript Snippet: I have said from the beginning, my sense is that Charlie was betrayed.
 
@@ -2131,11 +2147,11 @@ Investigative Direction: This is the host's stated theory; assess it against the
 
 ---
 
-**C-12885** Host Says the 2018 Timeline Lines Up With Epstein's Arrest and a Non-Profit Implosion
+**C-12885** Host Suspects the 2018 Timeline Lines Up With When Epstein Went Down and a Non-Profit Implosion
 
 Claim Timestamp: 00:46:23
 
-Claim: The host says the 2018 timeline lines up perfectly with when Epstein went down and that there was an implosion all across the not-for-profit world, after which people suddenly got into churches.
+Claim: The host says her deep-down suspicion is that the 2018 timeline lines up perfectly with when Epstein went down, and that it seems there was an implosion all across the not-for-profit world, after which people suddenly got into churches.
 
 Transcript Snippet: my deep down suspicion, when I think of the timeline, 2018, is it just way It's way too perfectly just perfectly lines up with when Epstein went down
 
@@ -2172,7 +2188,7 @@ Claim: The host says Marx has a very checkered background, admits to being brain
 Transcript Snippet: He's got a very checkered background and admits to being brain-damaged and has been caught lying extensively.
 
 Anchored Artifacts: 
-Mentions: N-343
+Mentions: N-342
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Find Marx's brain-damage statement and the instances of alleged lying the host relies on.
@@ -2188,7 +2204,7 @@ Claim: The host says Greg Laurie is accused of trafficking and that Harvest Chur
 Transcript Snippet: Oh, Greg Laurie, yes, accused of trafficking. Church Harvest Church is being accused of trafficking people from Romania.
 
 Anchored Artifacts: 
-Mentions: N-452
+Mentions: N-451
 Related Nodes: N-10411, N-10401
 Tags: relevance:context
 Investigative Direction: Check the lawsuits and filings against Harvest Christian Fellowship; the host's wording is brief and the entity should be confirmed.
@@ -2204,9 +2220,9 @@ Claim: The host says people are not allowed to leave the Daily Wire with their l
 Transcript Snippet: even what they tried to do to Brett Cooper. Like you just can't You're not allowed to leave. You just can't leave with your life intact. They're going to have to destroy you.
 
 Anchored Artifacts: 
-Mentions: N-3, N-223
+Mentions: N-3, N-222
 Related Nodes: N-11244
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Review Cooper's public account of her departure and any legal filings or statements from either side.
 
 ---
@@ -2243,16 +2259,16 @@ Investigative Direction: This is a sweeping characterization; ask for named past
 
 ---
 
-**C-12892** Host Says Corey Kennedy Has Studied Marx for Months and Posted a Deep Dive on X and Facebook
+**C-12892** Host Says Cori Kennedy Has Studied Marx for Months and Posted a Deep Dive on X and Facebook
 
 Claim Timestamp: 00:56:23
 
-Claim: The host says a person she names as Corey Kennedy has been looking into Victor Marx for months and has done a deep dive on X and Facebook, and she does not know his background.
+Claim: The host says a person she names as Cori Kennedy has been looking into Victor Marx for months and has done a deep dive on X and Facebook, and she does not know his background.
 
-Transcript Snippet: has done a very good job on both X and on Facebook. Corey Kennedy has done a deep dive into Victor Marx.
+Transcript Snippet: has done a very good job on both X and on Facebook. Cori Kennedy has done a deep dive into Victor Marx.
 
 Anchored Artifacts: A-3231.1
-Mentions: N-918, N-343
+Mentions: N-917, N-342
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the account and read the posts; confirm the researcher's name and background.
@@ -2268,7 +2284,7 @@ Claim: The host says there have been interviews in which people have heavily sug
 Transcript Snippet: there have been interviews where people have very heavily suggested that Victor Marx is just in fact a compulsive liar.
 
 Anchored Artifacts: A-3231.1
-Mentions: N-343, N-918
+Mentions: N-342
 Related Nodes: N-10604
 Tags: relevance:context
 Investigative Direction: Identify the interviews and test the specific factual contradictions against records.
@@ -2284,7 +2300,7 @@ Claim: The host says she is planning to have Corby Hall on the show to discuss t
 Transcript Snippet: I am planning on having Corby Hall on the show to further discuss the gun that mysteriously disappeared.
 
 Anchored Artifacts: 
-Mentions: N-344, N-3
+Mentions: N-343, N-3
 Related Nodes: N-10613, N-10975
 Tags: relevance:core
 Investigative Direction: Watch for a later Hall interview and any ATF reply to the host's inquiry.
@@ -2376,7 +2392,7 @@ Confidence: high
 - **Name uncertainty**: "Vaughn Victor Kennedy" vs "Vo" – host notes the military record may show "Vo" without "n." Flag retained on and N-10604.
 - **Artifact verbally referenced but not shown**: A-1963.1 (ATF email) – host describes it as forwarded and confirmed but does not directly display it in the episode.
 - **Possible transcription error**: A-1960.1 – gang name "Moise 400" appears in CBN transcript; verification of gang name recommended against primary reporting.
-- **Name transcription oddity**: Host spells "Corey Kennedy" as "C O R I Kennedy" then reverts to "Corey"; transcription oddity flagged on N-10151.
+- **Name transcription oddity**: Host spells "Cori Kennedy" as "C O R I Kennedy" then reverts to "Corey"; transcription oddity flagged on N-10151.
 - **Claim failed admission test**: Host's biographical claims about the Kennedy/Marx family (Gloyce Dean Kennedy's 1987 conviction, Mike Kennedy's plea, Carl Marx's occupations, grandfather's murder-suicide, Marx's 2-year Marine service, Calvary Chapel attendance, marriage year, All Things Possible Ministries founding, brother-in-law shooting, etc.) are stated without shown artifacts and are NOT inscribed as claims. They are referenced only in node descriptions,,,, N-10604).
 - **Timestamp uncertainty**: A-1960.1 – exact event date for the CBN News segment is not stated; only inferable from clip context.
 - **Requires human verification**: All N-10600, N-10601, N-10602, N-10603 nodes require independent verification beyond Corby Hall's written statement.

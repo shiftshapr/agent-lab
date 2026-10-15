@@ -369,7 +369,7 @@
       "@id": "A-1992",
       "family_ref": "A-1992",
       "bundle_name": "Email Tip Bundle (Verbal Reference)",
-      "description": "Viewer email tip suggesting \"Amir Safadi\" (or \"Amir Sarfati\") may have been the first to learn of Charlie Kirk's shooting. Host states she does not know if this is correct and requests verification.",
+      "description": "Viewer email tip suggesting \"Amir Tsarfati\" (or \"Amir Tsarfati\") may have been the first to learn of Charlie Kirk's shooting. Host states she does not know if this is correct and requests verification.",
       "related_claims": [
         "C-2760"
       ],
@@ -395,13 +395,13 @@
           "@type": "Artifact",
           "@id": "A-3134.1",
           "ref": "A-3134.1",
-          "description": "Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for tips on Amir Safadi)",
+          "description": "Host verbal reference to the tip email address moretips@candaceowens.com (verbal call for tips on Amir Tsarfati)",
           "related_claims": [
             "C-11460"
           ],
           "related_nodes": [
             "N-3",
-            "N-350"
+            "N-349"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -427,7 +427,7 @@
           ],
           "related_nodes": [
             "N-2",
-            "N-893"
+            "N-892"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -482,7 +482,7 @@
             "C-11486"
           ],
           "related_nodes": [
-            "N-272",
+            "N-271",
             "N-1"
           ],
           "tags": [],
@@ -645,7 +645,7 @@
       "ref": "N-10622",
       "name": "Early-Death-Announcement Timeline Verification",
       "type": "investigation_target",
-      "description": "Persistent target: plotting who first publicly announced Charlie Kirk's death and from what source – including Victor Marx (1:13 PM MT) and the unverified Amir Sarfati tip.",
+      "description": "Persistent target: plotting who first publicly announced Charlie Kirk's death and from what source – including Victor Marx (1:13 PM MT) and the unverified Amir Tsarfati tip.",
       "related_artifacts": [
         "A-1984.1",
         "A-1992"
@@ -851,8 +851,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -871,8 +871,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-343",
-      "ref": "N-343",
+      "@id": "N-342",
+      "ref": "N-342",
       "name": "Victor Marx",
       "type": "person",
       "description": "Subject of episode; Colorado gubernatorial candidate; Turning Point Faith figure.",
@@ -903,8 +903,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-344",
-      "ref": "N-344",
+      "@id": "N-343",
+      "ref": "N-343",
       "name": "Corby Hall",
       "type": "person",
       "description": "Accuser of Victor Marx (prior guest); alleges gun-running and an IDF arms deal.",
@@ -1235,8 +1235,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-239",
-      "ref": "N-239",
+      "@id": "N-238",
+      "ref": "N-238",
       "name": "Glenn Beck",
       "type": "person",
       "description": "Glenn Beck; commenters cited his post that Charlie was stable.",
@@ -1252,8 +1252,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Dan Flood",
       "type": "person",
       "description": "Dan Flood; the host and a viewer comment criticize his security conduct and reported raise.",
@@ -1278,8 +1278,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-280",
-      "ref": "N-280",
+      "@id": "N-279",
+      "ref": "N-279",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Bari Weiss; CBS News run under her carried the Secret Service report.",
@@ -1295,8 +1295,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-345",
-      "ref": "N-345",
+      "@id": "N-344",
+      "ref": "N-344",
       "name": "Eileen Marx",
       "type": "person",
       "description": "Eileen Marx; wife Marx wants to bring to an interview.",
@@ -1312,11 +1312,11 @@
     },
     {
       "@type": "Person",
-      "@id": "N-350",
-      "ref": "N-350",
-      "name": "Amir Safari",
+      "@id": "N-349",
+      "ref": "N-349",
+      "name": "Amir Tsarfati",
       "type": "person",
-      "description": "Amir Safadi (also Sarfati); viewer tip that he heard of the shooting first.",
+      "description": "Amir Tsarfati (also Sarfati); viewer tip that he heard of the shooting first.",
       "related_artifacts": [
         "A-3134",
         "A-3134.1"
@@ -1333,8 +1333,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-502",
-      "ref": "N-502",
+      "@id": "N-501",
+      "ref": "N-501",
       "name": "Victor Ostrovsky",
       "type": "person",
       "description": "Victor Ostrovsky; former Mossad officer whose claims about Epstein the host relays.",
@@ -1351,8 +1351,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-598",
-      "ref": "N-598",
+      "@id": "N-597",
+      "ref": "N-597",
       "name": "Druski",
       "type": "person",
       "description": "Druski; comedian whose video mocking Erika is cited as a factor in the cancellation.",
@@ -1369,8 +1369,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-652",
-      "ref": "N-652",
+      "@id": "N-651",
+      "ref": "N-651",
       "name": "Marco Rubio",
       "type": "person",
       "description": "Marco Rubio; a commenter says donors have chosen him for 2028.",
@@ -1386,8 +1386,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-663",
-      "ref": "N-663",
+      "@id": "N-662",
+      "ref": "N-662",
       "name": "Ivanka Trump",
       "type": "person",
       "description": "Ivanka Trump; the host says she attended the bridal shower.",
@@ -1405,8 +1405,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-711",
-      "ref": "N-711",
+      "@id": "N-710",
+      "ref": "N-710",
       "name": "John F. Kennedy",
       "type": "person",
       "description": "John F. Kennedy; the host compares prosecution tactics to those after his killing.",
@@ -1819,8 +1819,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-893",
-      "ref": "N-893",
+      "@id": "N-892",
+      "ref": "N-892",
       "name": "Bettina Anderson",
       "type": "person",
       "description": "First named by the host at 00:07:27 in episode 93 as Bettina, soon-to-be Trump, whose bridal shower Erika attended.",
@@ -1839,8 +1839,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-895",
-      "ref": "N-895",
+      "@id": "N-894",
+      "ref": "N-894",
       "name": "Adnan Khashoggi",
       "type": "person",
       "description": "First named by the host at 00:39:19 in episode 93 as the arms dealer Epstein was initially brought in to deal with, per Ostrovsky.",
@@ -1932,7 +1932,9 @@
       "claim_timestamp": "00:11:54–00:12:49",
       "investigative_direction": "Obtain full unedited UGA rally footage and any subsequent Vance press gaggle transcripts for corroboration.",
       "mentions_person_refs": [
-        "N-4"
+        "N-4",
+        "N-14",
+        "N-2"
       ]
     },
     {
@@ -1940,7 +1942,7 @@
       "@id": "C-2748",
       "ref": "C-2748",
       "label": "Victor Marx publicly announced Charlie Kirk's death at 1:13 PM Mountain Time on September 10, 2025",
-      "claim": "Victor Marx posted on social media, prior to the public confirmation, that Charlie was \"in heaven\" at 1:13 PM Mountain Time.",
+      "claim": "The host says, per screenshots a tipster sent, that Victor Marx posted that Charlie was \"in heaven\" at 1:13 PM Mountain Time, before the public confirmation.",
       "anchored_artifacts": [
         "A-1984.1"
       ],
@@ -1952,7 +1954,7 @@
       "investigative_direction": "Archive the post screenshots (cited as having been received with timestamps); identify Marx's claimed source.",
       "mentions_person_refs": [
         "N-1",
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -1970,8 +1972,8 @@
       "claim_timestamp": "00:29:30–00:30:28",
       "investigative_direction": "Pull the ATF FFL eZ Check record directly and verify the licensee's name, address, and license type.",
       "mentions_person_refs": [
-        "N-332",
-        "N-343"
+        "N-331",
+        "N-342"
       ]
     },
     {
@@ -1988,8 +1990,8 @@
       "claim_timestamp": "00:31:20–00:32:44",
       "investigative_direction": "Identify the full original interview source, date, and outlet; cross-reference with Corby Hall's first-person account.",
       "mentions_person_refs": [
-        "N-343",
-        "N-344"
+        "N-342",
+        "N-343"
       ]
     },
     {
@@ -2006,7 +2008,7 @@
       "claim_timestamp": "00:33:46–00:34:57",
       "investigative_direction": "Locate the full interview; corroborate with any on-record statements from federal authorities regarding investigations of Marx.",
       "mentions_person_refs": [
-        "N-343"
+        "N-342"
       ]
     },
     {
@@ -2027,6 +2029,7 @@
       "claim_timestamp": "00:35:00–00:38:02",
       "investigative_direction": "Authenticate the text-message screenshots (metadata, device extraction); await on-record response from Marx.",
       "mentions_person_refs": [
+        "N-342",
         "N-343"
       ]
     },
@@ -2054,7 +2057,7 @@
       "@id": "C-2754",
       "ref": "C-2754",
       "label": "Robert Maxwell provided $2 million toward Bain Capital's initial $37 million fund",
-      "claim": "A 2012 Los Angeles Times piece reported that Robert Maxwell contributed $2 million of the initial $37 million Bain Capital sought to raise, alongside other foreign investors.",
+      "claim": "The host says that, apparently, a 2012 Los Angeles Times piece reported that Robert Maxwell contributed $2 million of the initial $37 million Bain Capital sought to raise, alongside other foreign investors.",
       "anchored_artifacts": [
         "A-1989"
       ],
@@ -2157,8 +2160,8 @@
       "@type": "Claim",
       "@id": "C-2760",
       "ref": "C-2760",
-      "label": "Viewer claims Amir Sarfati was first to learn of the shooting",
-      "claim": "A viewer email tip suggests Amir Sarfati (or \"Safadi\") may have been the first to know of Charlie Kirk's shooting; host requests verification.",
+      "label": "Viewer claims Amir Tsarfati was first to learn of the shooting",
+      "claim": "The host reads a viewer comment saying they actually heard first from Amir Tsarfati; the host says she does not know if this is right and asks anyone with evidence to email it so it can be plotted on the timeline.",
       "anchored_artifacts": [
         "A-1992"
       ],
@@ -2169,7 +2172,7 @@
       "claim_timestamp": "00:28:57–00:29:30",
       "investigative_direction": "Obtain request for verbatim or original-source documentation for the claim; verify spelling of name and role.",
       "mentions_person_refs": [
-        "N-1"
+        "N-349"
       ]
     },
     {
@@ -2186,7 +2189,8 @@
       "claim_timestamp": "00:15:01–00:17:09",
       "investigative_direction": "Cross-reference the prior episode's Elizabeth Lane artifact and verify host endorsement scope.",
       "mentions_person_refs": [
-        "N-2"
+        "N-2",
+        "N-6"
       ]
     },
     {
@@ -2194,7 +2198,7 @@
       "@id": "C-2762",
       "ref": "C-2762",
       "label": "Contradiction – Erika Kirk claimed credible threat vs Secret Service finding of none",
-      "claim": "Erika Kirk's public cancellation reason (a \"credible threat\" to her safety) is contradicted by the Secret Service's reported determination that no credible threats existed.",
+      "claim": "The host says Erika Kirk's stated reason for canceling, a very credible threat against her life, is contradicted by CBS News reporting that the Secret Service determined there were no credible threats.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10616",
@@ -2215,7 +2219,7 @@
       "@id": "C-2763",
       "ref": "C-2763",
       "label": "Contradiction – Bomb dogs reportedly did not detect recent firing on recovered rifle",
-      "claim": "Host states bomb dogs and canines brought to the scene did not detect that the recovered weapon had been recently fired, which would be expected if fired within approximately seven days.",
+      "claim": "The host says bomb dogs were brought in and neither they nor the canines were able to determine that the recovered weapon had been recently fired, and she believes dogs can smell gun residue up to 7 days after a weapon is fired.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10621"
@@ -2242,7 +2246,7 @@
       "investigative_direction": "Archive captures (Wayback, screenshots with timestamps) of the post and its deletion time; ask Marx when and why it was removed.",
       "transcript_snippet": "In a post that he subsequently deleted, he left it up actually for quite a long time",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-3"
       ]
     },
@@ -2270,7 +2274,6 @@
       ],
       "mentions_person_refs": [
         "N-2",
-        "N-280",
         "N-3"
       ]
     },
@@ -2296,7 +2299,7 @@
         "C-2745"
       ],
       "mentions_person_refs": [
-        "N-332",
+        "N-331",
         "N-2",
         "N-3"
       ]
@@ -2342,9 +2345,9 @@
       "transcript_snippet": "Erika Kirk flew into Palm Beach because she was attending Bettina's bridal shower which took place on Sunday.",
       "mentions_person_refs": [
         "N-2",
-        "N-893",
+        "N-892",
         "N-33",
-        "N-663"
+        "N-662"
       ]
     },
     {
@@ -2443,7 +2446,7 @@
         "C-2745"
       ],
       "mentions_person_refs": [
-        "N-332",
+        "N-331",
         "N-14",
         "N-2",
         "N-4"
@@ -2470,8 +2473,7 @@
       "transcript_snippet": "Well, first of all, I love Erika and I know that she did get some threats and, you know, about 2 hours ago, as you know, Andrew,",
       "mentions_person_refs": [
         "N-4",
-        "N-2",
-        "N-14"
+        "N-2"
       ]
     },
     {
@@ -2618,7 +2620,7 @@
       "investigative_direction": "Obtain the Daily Mail article and identify the confidant; confirm the date and content of the Druski video.",
       "transcript_snippet": "The Druski video showed her what people thought of her. She's really hurt that people are feeling this way about her, that they're mocking her.",
       "mentions_person_refs": [
-        "N-598",
+        "N-597",
         "N-2",
         "N-3"
       ]
@@ -2655,7 +2657,7 @@
       "@id": "C-11453",
       "ref": "C-11453",
       "label": "Daily Mail Insider Says Erika Was Putting on a Brave Face and Was Told It Looked Bad",
-      "claim": "The host reads the Daily Mail insider saying Erika was putting on a brave face after Charlie's death, that she agrees it was a bad look, and that everyone told her so but she did it anyway.",
+      "claim": "The host reads the Daily Mail insider saying Erika told them she was putting on a brave face after Charlie's death, and that the insider agrees it was a bad look, that everyone told her it was a bad look, but she did it anyway.",
       "anchored_artifacts": [
         "A-1991.2"
       ],
@@ -2695,8 +2697,8 @@
         "C-2748"
       ],
       "mentions_person_refs": [
-        "N-343",
-        "N-239",
+        "N-342",
+        "N-238",
         "N-1"
       ]
     },
@@ -2719,7 +2721,7 @@
       "investigative_direction": "Obtain the original screenshots with metadata and confirm the timezone conversion to 1:13 p.m. Mountain.",
       "transcript_snippet": "the person who sent this to us, they sent it to us in Eastern Standard Time. Fortunately, they had it screenshots, their buddy sent it to them",
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-3"
       ]
     },
@@ -2745,7 +2747,7 @@
         "C-2748"
       ],
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-1"
       ]
     },
@@ -2771,7 +2773,7 @@
         "C-2748"
       ],
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-5",
         "N-1"
       ]
@@ -2817,15 +2819,15 @@
       "transcript_snippet": "That should be when Erika found out, when she got off the phone with the doctor about.",
       "mentions_person_refs": [
         "N-2",
-        "N-343"
+        "N-342"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-11460",
       "ref": "C-11460",
-      "label": "Host Asks Viewers to Email Tips on Amir Safadi to More Tips Address",
-      "claim": "The host asks viewers who have evidence that Amir Safadi or Sarfati heard of the shooting first to email it to moretips@candaceowens.com so it can be plotted on the timeline.",
+      "label": "Host Asks Viewers to Email Tips on Amir Tsarfati to More Tips Address",
+      "claim": "The host asks viewers who have evidence that Amir Tsarfati or Sarfati heard of the shooting first to email it to moretips@candaceowens.com so it can be plotted on the timeline.",
       "anchored_artifacts": [
         "A-3134.1"
       ],
@@ -2842,7 +2844,7 @@
         "C-2760"
       ],
       "mentions_person_refs": [
-        "N-350",
+        "N-349",
         "N-3"
       ]
     },
@@ -2850,8 +2852,8 @@
       "@type": "Claim",
       "@id": "C-11461",
       "ref": "C-11461",
-      "label": "Host Says Amir Safadi Is Involved With Churches and Pastors and She Thinks Is in the IDF",
-      "claim": "The host says Amir Safadi (or Sarfati) is very involved with churches and pastors alongside these figures, and that she thinks he is in the IDF.",
+      "label": "Host Says Amir Tsarfati Is Involved With Churches and Pastors and She Thinks Is in the IDF",
+      "claim": "The host says Amir Tsarfati (or Sarfati) is very involved with churches and pastors alongside these figures, and that she thinks he is in the IDF.",
       "anchored_artifacts": [
         "A-1992"
       ],
@@ -2862,13 +2864,13 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:28:57",
-      "investigative_direction": "Verify who Amir Safadi or Sarfati is, his church roles and any IDF service, from public records and the tipster.",
+      "investigative_direction": "Verify who Amir Tsarfati or Sarfati is, his church roles and any IDF service, from public records and the tipster.",
       "transcript_snippet": "That would be interesting cuz I think he is in the IDF.",
       "supports_claim_refs": [
         "C-2760"
       ],
       "mentions_person_refs": [
-        "N-350",
+        "N-349",
         "N-3"
       ]
     },
@@ -2892,7 +2894,7 @@
         "C-2736"
       ],
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-3"
       ]
     },
@@ -2916,9 +2918,9 @@
         "C-2735"
       ],
       "mentions_person_refs": [
-        "N-343",
-        "N-345",
+        "N-342",
         "N-344",
+        "N-343",
         "N-3"
       ]
     },
@@ -2944,8 +2946,8 @@
         "C-2750"
       ],
       "mentions_person_refs": [
-        "N-343",
-        "N-344"
+        "N-342",
+        "N-343"
       ]
     },
     {
@@ -2965,8 +2967,8 @@
       "investigative_direction": "Obtain Corby Hall's full account and any documents showing the Israel sale request.",
       "transcript_snippet": "Corby asserted that Victor Marx wanted guns sold in Israel.",
       "mentions_person_refs": [
-        "N-344",
-        "N-343"
+        "N-343",
+        "N-342"
       ]
     },
     {
@@ -2986,8 +2988,8 @@
       "investigative_direction": "Obtain Corby Hall's account and any written exchange about Haiti; ask federal export-control authorities whether any inquiry exists.",
       "transcript_snippet": "He asserted that the Haitian arms deal would have been illegal since you are not allowed to do those sorts of transactions with Haiti.",
       "mentions_person_refs": [
-        "N-344",
-        "N-343"
+        "N-343",
+        "N-342"
       ]
     },
     {
@@ -3012,8 +3014,8 @@
         "C-2752"
       ],
       "mentions_person_refs": [
-        "N-343",
-        "N-344"
+        "N-342",
+        "N-343"
       ]
     },
     {
@@ -3039,8 +3041,8 @@
         "C-2752"
       ],
       "mentions_person_refs": [
-        "N-343",
-        "N-344"
+        "N-342",
+        "N-343"
       ]
     },
     {
@@ -3065,7 +3067,7 @@
         "C-2748"
       ],
       "mentions_person_refs": [
-        "N-343",
+        "N-342",
         "N-2",
         "N-1"
       ]
@@ -3090,8 +3092,8 @@
         "C-2735"
       ],
       "mentions_person_refs": [
+        "N-342",
         "N-343",
-        "N-344",
         "N-3"
       ]
     },
@@ -3115,7 +3117,7 @@
         "N-48",
         "N-9",
         "N-47",
-        "N-502"
+        "N-501"
       ]
     },
     {
@@ -3138,9 +3140,9 @@
         "C-8207"
       ],
       "mentions_person_refs": [
-        "N-502",
+        "N-501",
         "N-9",
-        "N-895"
+        "N-894"
       ]
     },
     {
@@ -3337,7 +3339,7 @@
       "investigative_direction": "Identify which comparison techniques the host means and any published validation or challenges to them.",
       "transcript_snippet": "They want to bring back old FBI tactics that were first put in place after JFK was shot because they lied about that as well.",
       "mentions_person_refs": [
-        "N-711",
+        "N-710",
         "N-3"
       ]
     },
@@ -3385,7 +3387,7 @@
         "C-5034"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-271",
         "N-1"
       ]
     },
@@ -3411,7 +3413,7 @@
         "C-5035"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-271",
         "N-1"
       ]
     },
@@ -3460,7 +3462,7 @@
         "C-5550"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-271",
         "N-1"
       ]
     },
@@ -3486,7 +3488,7 @@
         "C-5494"
       ],
       "mentions_person_refs": [
-        "N-272",
+        "N-271",
         "N-2"
       ]
     },
@@ -3507,8 +3509,8 @@
       "investigative_direction": "Review Coleman's broadcast and the Druski video timeline against the cancellation.",
       "transcript_snippet": "It's actually funny cuz Baron clocked that on his show last night. He was like, I think she canceled the appearance because of Drewski.",
       "mentions_person_refs": [
-        "N-332",
-        "N-598",
+        "N-331",
+        "N-597",
         "N-2"
       ]
     },
@@ -3556,7 +3558,7 @@
         "N-66",
         "N-4",
         "N-2",
-        "N-652"
+        "N-651"
       ]
     },
     {
@@ -3643,7 +3645,7 @@
           "video_timestamp": "00:28:57",
           "speaker_node_ref": "N-3",
           "quote": "please do send us an email to more tips@candaceowens. com.",
-          "context": "Host asks viewers with evidence about Amir Safadi to email the tip line so it can be plotted on the timeline.",
+          "context": "Host asks viewers with evidence about Amir Tsarfati to email the tip line so it can be plotted on the timeline.",
           "confidence": "high",
           "tags": [
             "tips",

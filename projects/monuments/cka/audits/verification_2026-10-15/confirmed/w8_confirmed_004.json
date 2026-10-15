@@ -1,0 +1,250 @@
+[
+ {
+  "claim": "C-12815",
+  "episode": 83,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-214",
+    "N-3"
+   ]
+  },
+  "note": "Flynn appears in the surrounding comment, not in the claim."
+ },
+ {
+  "claim": "C-3795",
+  "episode": 84,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Marina Minas asked Aubrey to draft the death statement and said Andrew Kolvet was on a plane.",
+   "label": "Marina Minas Asked Aubrey to Draft the Death Statement Because Kolvet Was on a Plane",
+   "names": [
+    {
+     "wrong": "Marina Medvin",
+     "right": "Marina Minas",
+     "source": "https://tpusa-stg.herokuapp.com/staff"
+    },
+    {
+     "wrong": "Aubrey Lech",
+     "right": "Aubrey Laitsch",
+     "source": "https://www.primetimer.com/news/who-is-aubrey-laitsch-erika-kirk-leadership-slammed-by-fired-tpusa-employee-in-candace-owens-shared-video"
+    }
+   ]
+  },
+  "note": "Web-checked: Marina Minas is TPUSA CMO; Aubrey Laitsch was TPUSA PR manager under Kolvet."
+ },
+ {
+  "claim": "C-3814",
+  "episode": 84,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-3"
+   ]
+  },
+  "note": "Harpool is named only in the host's hypothetical, not in the claim."
+ },
+ {
+  "claim": "C-3825",
+  "episode": 84,
+  "decision": "reject",
+  "fix": {},
+  "note": "The label says Turek changed his schedule to be in Scottsdale 'with Charlie Kirk', and the host asks 'Why traveling with Charlie?'. Keep N-1."
+ },
+ {
+  "claim": "C-3826",
+  "episode": 84,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "note": "Loomer is not in the claim."
+ },
+ {
+  "claim": "C-2584",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:07:55"
+  },
+  "note": "The quote is read about 8:00."
+ },
+ {
+  "claim": "C-2585",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:08:53"
+  },
+  "note": "The quote is read about 8:58."
+ },
+ {
+  "claim": "C-2586",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:08:55"
+  },
+  "note": "Spoken about 9:00."
+ },
+ {
+  "claim": "C-2588",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-411"
+   ],
+   "claim": "The host says Daniel Balou, a retired intelligence officer, had an apparent suicide attempt while in prison, and that he is now impaired and will not be able to testify."
+  },
+  "note": "'A parent suicide attempt' means 'apparent'. Only Balou is named."
+ },
+ {
+  "claim": "C-2592",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-188",
+    "N-601",
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Locastro is named in the claim."
+ },
+ {
+  "claim": "C-2593",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-192",
+    "N-2"
+   ]
+  },
+  "note": "Mikey and Erika are named."
+ },
+ {
+  "claim": "C-2596",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-41",
+    "N-40"
+   ]
+  },
+  "note": "Robinson is named."
+ },
+ {
+  "claim": "C-2597",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-41",
+    "N-40"
+   ]
+  },
+  "note": "Robinson is named."
+ },
+ {
+  "claim": "C-2598",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-274"
+   ]
+  },
+  "note": "Brooksby is named."
+ },
+ {
+  "claim": "C-2599",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-274"
+   ]
+  },
+  "note": "Brooksby is named."
+ },
+ {
+  "claim": "C-2600",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-274",
+    "N-40"
+   ]
+  },
+  "note": "Brooksby and Robinson are named."
+ },
+ {
+  "claim": "C-2601",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-274"
+   ]
+  },
+  "note": "Brooksby is named."
+ },
+ {
+  "claim": "C-2602",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-274"
+   ]
+  },
+  "note": "Brooksby is named."
+ },
+ {
+  "claim": "C-2603",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "'Mr. Kirk' is Charlie Kirk."
+ },
+ {
+  "claim": "C-2606",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-274"
+   ]
+  },
+  "note": "Brooksby is named."
+ },
+ {
+  "claim": "C-2608",
+  "episode": 85,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-274"
+   ]
+  },
+  "note": "Brooksby is named."
+ }
+]

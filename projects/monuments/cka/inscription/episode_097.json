@@ -438,7 +438,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-788"
+            "N-787"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -614,7 +614,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-363"
+            "N-362"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -641,7 +641,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-268"
+            "N-267"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -979,8 +979,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.",
@@ -1021,8 +1021,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Dan Flood",
       "type": "person",
       "description": "Security teammate; Turek says Flood showed the \"I got you covered\" roofs text (timing corrected mid-story).",
@@ -1042,8 +1042,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Announced guest host during Candace maternity leave; subject of pre-appearance X attacks and old-interview digs.",
@@ -1060,8 +1060,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Subject and source of Fort Huachuca sightings testimony; his son's interview (A-1574) provides partial corroboration.",
@@ -1117,8 +1117,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-430",
-      "ref": "N-430",
+      "@id": "N-429",
+      "ref": "N-429",
       "name": "Josh Gottheimer",
       "type": "person",
       "description": "First named by the host at 00:50:06 in episode 97.",
@@ -1138,8 +1138,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-429",
-      "ref": "N-429",
+      "@id": "N-428",
+      "ref": "N-428",
       "name": "Mike Lawler",
       "type": "person",
       "description": "First named by the host at 00:50:06 in episode 97.",
@@ -1159,8 +1159,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-381",
-      "ref": "N-381",
+      "@id": "N-380",
+      "ref": "N-380",
       "name": "Josef Mengele",
       "type": "person",
       "description": "Named by the host at 00:53:42 in episode 97; first introduced in episode 65.",
@@ -1180,8 +1180,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-788",
-      "ref": "N-788",
+      "@id": "N-787",
+      "ref": "N-787",
       "name": "Hasan Piker",
       "type": "person",
       "description": "Streamer; first named in A-2023.1.",
@@ -1323,8 +1323,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Mikey McCoy; the host says he sent her a message about Kolvet and announced the death by video.",
@@ -1341,8 +1341,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-197",
-      "ref": "N-197",
+      "@id": "N-196",
+      "ref": "N-196",
       "name": "Lee Trotter",
       "type": "person",
       "description": "Dr. Lee Trotter; the host says Erika lied about his words.",
@@ -1358,8 +1358,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-211",
-      "ref": "N-211",
+      "@id": "N-210",
+      "ref": "N-210",
       "name": "Joe Kent",
       "type": "person",
       "description": "Joe Kent; the host says Erika's team attacked him for asking about foreign influence.",
@@ -1375,8 +1375,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-225",
+      "ref": "N-225",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Shawn Ryan, host of the podcast on which Harpole appeared on November 17.",
@@ -1394,8 +1394,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-263",
-      "ref": "N-263",
+      "@id": "N-262",
+      "ref": "N-262",
       "name": "Terrell Farnsworth",
       "type": "person",
       "description": "Terrell Farnsworth, head of the AV team; the host says he announced the death by selfie video and holds unseen footage.",
@@ -1414,8 +1414,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-273",
-      "ref": "N-273",
+      "@id": "N-272",
+      "ref": "N-272",
       "name": "Jeff Long",
       "type": "person",
       "description": "UVU police chief; correspondent in the Flood text chain the host discusses.",
@@ -1431,8 +1431,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-280",
-      "ref": "N-280",
+      "@id": "N-279",
+      "ref": "N-279",
       "name": "Bari Weiss",
       "type": "person",
       "description": "Bari Weiss; the host says a private chat mocked her insinuations.",
@@ -1448,8 +1448,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-282",
-      "ref": "N-282",
+      "@id": "N-281",
+      "ref": "N-281",
       "name": "Karoline Leavitt",
       "type": "person",
       "description": "White House press secretary; speaker in the briefing clip.",
@@ -1465,8 +1465,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-321",
-      "ref": "N-321",
+      "@id": "N-320",
+      "ref": "N-320",
       "name": "Captain Adam Nef",
       "type": "person",
       "description": "Captain Neff; named in the host's December 23 post as questioning Mitch.",
@@ -1482,8 +1482,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-434",
-      "ref": "N-434",
+      "@id": "N-433",
+      "ref": "N-433",
       "name": "Kimberly Klacik",
       "type": "person",
       "description": "Kim Klacik; the host recounts her earlier lawsuit against the host.",
@@ -1499,8 +1499,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-553",
-      "ref": "N-553",
+      "@id": "N-552",
+      "ref": "N-552",
       "name": "Aubrey Laitsch",
       "type": "person",
       "description": "Aubrey Laitsch; the host says Kolvet cannot show what Lech gave her.",
@@ -1517,8 +1517,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-603",
-      "ref": "N-603",
+      "@id": "N-602",
+      "ref": "N-602",
       "name": "Melania Trump",
       "type": "person",
       "description": "Melania Trump; author of the post criticizing Kimmel.",
@@ -1945,8 +1945,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-864",
-      "ref": "N-864",
+      "@id": "N-863",
+      "ref": "N-863",
       "name": "Matt Slauson",
       "type": "person",
       "description": "First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.",
@@ -1996,7 +1996,7 @@
       "investigative_direction": "Obtain the filed complaint and PACER docket to verify the exact count and nature of causes of action.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2066,7 +2066,7 @@
       "investigative_direction": "Review \"The Great Exodus from Utah\" episode transcript; compare Candace's exact statements to the lawsuit's quoted passages.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2143,7 +2143,7 @@
       "investigative_direction": "Cross-reference the embedded text messages against phone records; verify Harpole's receipt.",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2178,7 +2178,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-272"
+        "N-271"
       ]
     },
     {
@@ -2198,7 +2198,7 @@
       "claim_timestamp": "00:28:30",
       "investigative_direction": "Compare the original Shawn Ryan audio against the lawsuit's admission to identify the precise point of misrepresentation.",
       "mentions_person_refs": [
-        "N-272"
+        "N-271"
       ]
     },
     {
@@ -2318,7 +2318,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-3",
-        "N-332"
+        "N-331"
       ]
     },
     {
@@ -2339,9 +2339,9 @@
       "investigative_direction": "Obtain the full resolution text from Congress.gov and verify resolution number, co-sponsors, and referral.",
       "mentions_person_refs": [
         "N-3",
-        "N-430",
         "N-429",
-        "N-381"
+        "N-428",
+        "N-380"
       ]
     },
     {
@@ -2361,9 +2361,9 @@
       "investigative_direction": "Audit Candace's prior commentary for any statement matching the resolution's characterization.",
       "mentions_person_refs": [
         "N-3",
-        "N-430",
         "N-429",
-        "N-381"
+        "N-428",
+        "N-380"
       ]
     },
     {
@@ -2383,9 +2383,9 @@
       "investigative_direction": "Review Candace's commentary on Epstein, Israeli intelligence, and pedophilia rings for the exact phrasing.",
       "mentions_person_refs": [
         "N-3",
-        "N-430",
         "N-429",
-        "N-381"
+        "N-428",
+        "N-380"
       ]
     },
     {
@@ -2405,9 +2405,9 @@
       "investigative_direction": "Locate Candace's July 2024 statements about Mengele and verify exact wording.",
       "mentions_person_refs": [
         "N-3",
-        "N-430",
         "N-429",
-        "N-381"
+        "N-428",
+        "N-380"
       ]
     },
     {
@@ -2427,9 +2427,9 @@
       "investigative_direction": "Obtain original Auschwitz Memorial podcast episode for full context.",
       "mentions_person_refs": [
         "N-3",
-        "N-430",
         "N-429",
-        "N-381"
+        "N-428",
+        "N-380"
       ]
     },
     {
@@ -2497,7 +2497,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2519,7 +2519,7 @@
       "transcript_snippet": "Brian Harpole is using the same lawyer the Daily Wire used to sue me in arbitration for 2 years straight.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2543,7 +2543,7 @@
       "transcript_snippet": "at each and every one of my many events that I have done with Turning Point USA during a time period when Brian Harpole was always a member of the security team, we had an ambulance on standby.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2571,7 +2571,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2592,7 +2592,7 @@
       "transcript_snippet": "Um I most certainly did not accuse you of criminal negligence. That term did not come from this podcast.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -2613,8 +2613,8 @@
       "transcript_snippet": "In that particular episode, we never mentioned Brian Harpole or referred to him even once.",
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-263"
+        "N-267",
+        "N-262"
       ]
     },
     {
@@ -2636,7 +2636,7 @@
       "investigative_direction": "Obtain Farnsworth's selfie video with its original upload time and compare it to the shot time and first official confirmation.",
       "transcript_snippet": "it was Terrell Farmsworth who notoriously announced in a selfie video that Charlie Kirk was dead like 2 minutes after Charlie went down",
       "mentions_person_refs": [
-        "N-263",
+        "N-262",
         "N-1"
       ]
     },
@@ -2657,8 +2657,8 @@
       "investigative_direction": "Identify any video in which Mikey McCoy announces the death and compare timing to first confirmation.",
       "transcript_snippet": "They were already filming themselves prematurely announcing Charlie is dead, when not a single person could have known that Charlie Kirk was dead.",
       "mentions_person_refs": [
-        "N-192",
-        "N-263",
+        "N-191",
+        "N-262",
         "N-1"
       ]
     },
@@ -2682,7 +2682,7 @@
       "transcript_snippet": "Brian is the one who then runs over to Charlie and again you recognize him because he kind of has that uh small supposed to be medical bag over him.",
       "mentions_person_refs": [
         "N-3",
-        "N-268",
+        "N-267",
         "N-1"
       ]
     },
@@ -2755,7 +2755,7 @@
       "transcript_snippet": "he begins the lawsuit and I'm talking like the first few pages with strong support for Israel.",
       "mentions_person_refs": [
         "N-3",
-        "N-268",
+        "N-267",
         "N-36"
       ]
     },
@@ -2802,8 +2802,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-226"
+        "N-267",
+        "N-225"
       ]
     },
     {
@@ -2851,8 +2851,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-272"
+        "N-267",
+        "N-271"
       ]
     },
     {
@@ -2874,8 +2874,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-7",
-        "N-272",
-        "N-268"
+        "N-271",
+        "N-267"
       ]
     },
     {
@@ -2897,8 +2897,8 @@
       "transcript_snippet": "it was because of his behavior and what he said on Shawn Ryan's show, which I found to be unconvincing",
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-226"
+        "N-267",
+        "N-225"
       ]
     },
     {
@@ -2919,8 +2919,8 @@
       "transcript_snippet": "on November 8th, I had first mentioned that there was someone who thought that they saw Brian Harpole at Fort Huachuca that I, you know, examined the person's documents, whatever.",
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-363"
+        "N-267",
+        "N-362"
       ]
     },
     {
@@ -2941,7 +2941,7 @@
       "transcript_snippet": "It was a solo episode on December 9th and if you recall, it caused mass panic.",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -2964,8 +2964,8 @@
       "transcript_snippet": "this was coming through Paramount Tactical and the Valhalla guy and they were saying, \"If you do this if if you interview Mitch, Mitch wasn't even in the military.",
       "mentions_person_refs": [
         "N-3",
-        "N-363",
-        "N-268"
+        "N-362",
+        "N-267"
       ]
     },
     {
@@ -2986,8 +2986,8 @@
       "transcript_snippet": "So, before I even got to do the interview, Brian Harpole was telling people to say that if I interview this guy, I'm going to sue you.",
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-363"
+        "N-267",
+        "N-362"
       ]
     },
     {
@@ -3011,9 +3011,9 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-272",
-        "N-363"
+        "N-267",
+        "N-271",
+        "N-362"
       ]
     },
     {
@@ -3037,7 +3037,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3058,8 +3058,8 @@
       "transcript_snippet": "It would have put an end to me covering the story beyond. So, actually by not responding before I hosted Mitch, it didn't allow me didn't stop me from hosting Mitch.",
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-363"
+        "N-267",
+        "N-362"
       ]
     },
     {
@@ -3085,10 +3085,10 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-226",
-        "N-273",
-        "N-272"
+        "N-267",
+        "N-225",
+        "N-272",
+        "N-271"
       ]
     },
     {
@@ -3114,8 +3114,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-268",
-        "N-363"
+        "N-267",
+        "N-362"
       ]
     },
     {
@@ -3141,7 +3141,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -3164,7 +3164,7 @@
       "transcript_snippet": "I confirmed the location with other people that are that are on uh Fort Huachuca currently. I can confirm everything with metadata.",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -3190,8 +3190,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-363",
-        "N-321"
+        "N-362",
+        "N-320"
       ]
     },
     {
@@ -3229,7 +3229,7 @@
       "transcript_snippet": "she took it to discovery and then she folded. Right? She folded and wanted to sign an agreement and say, let's let's walk away and not talk about it",
       "mentions_person_refs": [
         "N-3",
-        "N-434"
+        "N-433"
       ]
     },
     {
@@ -3294,8 +3294,8 @@
       "transcript_snippet": "Terrell Farnsworth actually has footage the public has never seen from every angle.",
       "mentions_person_refs": [
         "N-3",
-        "N-263",
-        "N-268"
+        "N-262",
+        "N-267"
       ]
     },
     {
@@ -3318,7 +3318,7 @@
       "investigative_direction": "Obtain the full text exchange and its recipient, and Erika Kirk's statement referencing it.",
       "transcript_snippet": "I saw a text message where she was joking around with a friend and she even put a laughing face on it.",
       "mentions_person_refs": [
-        "N-332",
+        "N-331",
         "N-3",
         "N-2"
       ]
@@ -3342,7 +3342,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-211"
+        "N-210"
       ]
     },
     {
@@ -3367,7 +3367,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-197"
+        "N-196"
       ]
     },
     {
@@ -3460,7 +3460,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-280"
+        "N-279"
       ]
     },
     {
@@ -3546,9 +3546,9 @@
       "transcript_snippet": "It was Mikey McCoy. Mikey McCoy got a message out to me uh via a third-party person that I should look more into Andrew Kolvet.",
       "mentions_person_refs": [
         "N-3",
-        "N-192",
+        "N-191",
         "N-14",
-        "N-553"
+        "N-552"
       ]
     },
     {
@@ -3570,7 +3570,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-553"
+        "N-552"
       ]
     },
     {
@@ -3594,8 +3594,8 @@
       "transcript_snippet": "these two people I I both of them brought this forward take more than a million dollars from AIPAC.",
       "mentions_person_refs": [
         "N-3",
-        "N-429",
-        "N-430"
+        "N-428",
+        "N-429"
       ]
     },
     {
@@ -3618,8 +3618,8 @@
       "transcript_snippet": "Government promoting false claims that that Jews are taught by ancient religious texts to hate non-Jews and casting doubt on the truth of Holocaust survivors.",
       "mentions_person_refs": [
         "N-3",
-        "N-429",
-        "N-430"
+        "N-428",
+        "N-429"
       ]
     },
     {
@@ -3706,8 +3706,8 @@
       "transcript_snippet": "It then goes on and says um that I repeated false claims that Jews are chil- killing Christian children.",
       "mentions_person_refs": [
         "N-3",
-        "N-429",
-        "N-430"
+        "N-428",
+        "N-429"
       ]
     },
     {
@@ -3745,7 +3745,7 @@
       "investigative_direction": "Obtain the White House briefing transcript with date.",
       "transcript_snippet": "This political violence stems from a systemic demonization of him and his supporters by commentators, yes, by elected members of the Democrat Party, and even some in the media.",
       "mentions_person_refs": [
-        "N-282"
+        "N-281"
       ]
     },
     {
@@ -3765,7 +3765,7 @@
       "investigative_direction": "Retrieve the original Melania Trump post and its date.",
       "transcript_snippet": "Melania Trump she tweeted and said this about Jimmy Kimmel. Jimmy Kimmel's vote of joke that happened before the shooting. That it was hateful and violent rhetoric intended to divide our country.",
       "mentions_person_refs": [
-        "N-603",
+        "N-602",
         "N-87"
       ]
     },
@@ -3851,7 +3851,7 @@
       "transcript_snippet": "this lawyer, Matt Slauson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.",
       "mentions_person_refs": [
         "N-3",
-        "N-864",
+        "N-863",
         "N-60"
       ]
     },
@@ -3918,7 +3918,7 @@
       "investigative_direction": "Request the UVU drone authorization form records for the event under GRAMA.",
       "transcript_snippet": "UVU just requires you to fill out a form which is titled request for authorization to operate a drone with the office of risk management.",
       "mentions_person_refs": [
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3940,7 +3940,7 @@
       "transcript_snippet": "But I have thus far not been given an alibi for the morning of September 9th despite you asserting that in the lawsuit.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3964,7 +3964,7 @@
       "transcript_snippet": "The flights were for what? 2:19, 1:19, 1:39 in the afternoon from Dallas.",
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {
@@ -3988,7 +3988,7 @@
       "transcript_snippet": "Mitch says the meeting concluded at 7:30 a. m. There were flights that left Fort Huachuca and got back into Dallas by 10:00 a. m.",
       "mentions_person_refs": [
         "N-3",
-        "N-363"
+        "N-362"
       ]
     },
     {
@@ -4012,7 +4012,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-268"
+        "N-267"
       ]
     },
     {

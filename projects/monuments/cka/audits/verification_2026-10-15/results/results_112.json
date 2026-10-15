@@ -1,0 +1,769 @@
+[
+ {
+  "claim": "C-3576",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika Kirk is not named in the claim; Miriam Adelson is, and has node N-300.",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-300"
+   ]
+  }
+ },
+ {
+  "claim": "C-3577",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Maduro (N-676) but not Trump; host reads the headline and says 'Then we took out Maduro, and guess who benefited'.",
+  "fix": {
+   "claim": "The host reads a headline, \"Venezuela sends first oil shipment to Israel in years in signs of relations improving,\" and says that after the U.S. took out Maduro, Israel benefited.",
+   "mentions": [
+    "N-676"
+   ]
+  }
+ },
+ {
+  "claim": "C-3578",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Glyphosate/DPA order is the host's own statement; the WaPo passage read is about munitions and Bayer's sole US white phosphorus production.",
+  "fix": {
+   "claim": "The host says Trump signed a February 26 executive order invoking the Defense Production Act to boost glyphosate production, then reads from the Washington Post that the order's largely overshadowed part concerned munitions manufacture and that Bayer is the only U.S. company that makes elemental (white) phosphorus."
+  }
+ },
+ {
+  "claim": "C-3579",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Trump is not named in the claim; the headline concerns Israel in Lebanon.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-3580",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika Kirk not named; Trump not named (quote says 'the president'); Rubio has no person node.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-3581",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Gantz (N-775) is named but not in Mentions. Transcript: 'I I exclude nothing', not 'we exclude nothing'.",
+  "fix": {
+   "claim": "In a clip the host plays, Benny Gantz says he \"would not exclude\" a need for boots on the ground and \"I exclude nothing. Uh we've been waiting for 47 years and we came to a point with every necessary means should be taken in order to achieve our goals.\"",
+   "mentions": [
+    "N-775"
+   ]
+  }
+ },
+ {
+  "claim": "C-3582",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Leavitt does not mention a draft; interviewer did. She says ground troops are 'not part of the current plan right now'; 'largely an air campaign' is the interviewer's phrase.",
+  "fix": {
+   "claim": "In a clip the host plays, asked about troops on the ground after the interviewer calls it \"largely an air campaign,\" White House Press Secretary Karoline Leavitt says \"It has been and it will continue to be. And President Trump wisely does not remove options off of the table,\" adding ground troops are \"not part of the current plan right now.\""
+  }
+ },
+ {
+  "claim": "C-3583",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Dillon's line ends '...no marriage is perfect'; host introduces it as comedians 'making jokes'.",
+  "fix": {
+   "claim": "In a clip the host plays as an example of comedians making jokes, Tim Dillon says \"there's a very good chance that this woman was his handler\" and that \"she may have loved him\" even though \"she was his Mossad handler and probably had him killed, no marriage is perfect.\""
+  }
+ },
+ {
+  "claim": "C-7053",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7054",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7055",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7056",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7057",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7058",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7059",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7060",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7061",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7062",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7063",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7064",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7065",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7066",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: the sender's relative acquired the home; claim says 'the buyer's relative'.",
+  "fix": {
+   "claim": "The host says the book arrived with a handwritten letter saying a 33rd degree Freemason in Oklahoma died, his belongings were left in a home that was later auctioned, and the sender's relative acquired the home."
+  }
+ },
+ {
+  "claim": "C-7067",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'They' burnt everything; 'he' (the sender) kept the book; not stated the relative burned it.",
+  "fix": {
+   "claim": "The host says they went in and burned everything in the house, thinking it carried bad spirits, but the sender kept this one item in the back of his truck for over a decade and sent it to her after seeing her coverage of Freemasonry.",
+   "label": "Host Says the Home's Contents Were Burned but the Sender Kept the Book in His Truck for Over a Decade"
+  }
+ },
+ {
+  "claim": "C-7068",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7069",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7070",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Freud (N-50) is not named in the claim. Host says 'who I believe have been running our country'; hedge dropped.",
+  "fix": {
+   "claim": "The host says she believes B'nai B'rith, which she calls the Jewish Freemason group, has been running the United States since at least the Civil War.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-7071",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7072",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7073",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7074",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7075",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7076",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7077",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7078",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7079",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7080",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7081",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7082",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7083",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7084",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7085",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7086",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7087",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript 'McQuaid' is a mis-transcription of Mikey McCoy (N-192), Kirk's chief of staff.",
+  "fix": {
+   "claim": "In the played clip, Mikey McCoy says he definitely thought there might be a Vance Kirk ticket and that there may still be one.",
+   "label": "McCoy Says He Thought There Might Still Be a Vance Kirk Ticket",
+   "names": [
+    {
+     "wrong": "Mikey McQuaid",
+     "right": "Mikey McCoy",
+     "source": "https://www.foxnews.com/sports/charlie-kirks-former-chief-staff-fires-back-mets-announcer-over-remarks-about-player-attending-memorial"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-7088",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'I think Elizabeth Lane read Erika correctly'; hedge dropped.",
+  "fix": {
+   "claim": "The host says she thinks Elizabeth Lane read Erika Kirk correctly when she posited that Erika may be a psychopath."
+  }
+ },
+ {
+  "claim": "C-7089",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7090",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7091",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7092",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7093",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7094",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7095",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7096",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7097",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7098",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7099",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7100",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7101",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7102",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7103",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7104",
+  "episode": 75,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

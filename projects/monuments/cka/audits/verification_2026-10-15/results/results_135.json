@@ -1,0 +1,842 @@
+[
+ {
+  "claim": "C-8744",
+  "episode": 90,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8745",
+  "episode": 90,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8746",
+  "episode": 90,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8747",
+  "episode": 90,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8748",
+  "episode": 90,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8749",
+  "episode": 90,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8750",
+  "episode": 90,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8751",
+  "episode": 90,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'Can we ask Charlie GPT? ... it's not coming up for us that Trump was ever a doctor.' Claim says producer checked.",
+  "fix": {
+   "claim": "The host says that after a producer note and asking 'Charlie GPT', nothing came up showing Trump was ever a doctor, which she contrasts with his explanation that he thought the image showed him as a Red Cross doctor."
+  }
+ },
+ {
+  "claim": "C-8752",
+  "episode": 90,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8753",
+  "episode": 90,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8754",
+  "episode": 90,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2698",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim timestamp 21:21 is the demo/signature rifle request; Marx wanting to acquire/purchase 51% is stated ~32:50-33:25. Mentions omit people named in the claim (Marx, Hall).",
+  "fix": {
+   "timestamp": "00:32:50",
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-2699",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Marx, Hall, Melody).",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-346"
+   ]
+  }
+ },
+ {
+  "claim": "C-2700",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Marx, Hall, Melody). Prayer at ~23:50, ~80s after ts, borderline ok.",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-346"
+   ]
+  }
+ },
+ {
+  "claim": "C-2701",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Marx, Hall, Melody).",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-346"
+   ]
+  }
+ },
+ {
+  "claim": "C-2702",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Hall).",
+  "fix": {
+   "mentions": [
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-2703",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Marx, Hall).",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-2704",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Marx, Hall).",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-2705",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions has only N-424; claim also names Marx and Hall.",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-424"
+   ]
+  }
+ },
+ {
+  "claim": "C-2706",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions has only N-425; claim also names Marx and Hall.",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-425"
+   ]
+  }
+ },
+ {
+  "claim": "C-2707",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Marx, Hall).",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-2708",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Marx, Hall).",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-2709",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Marx, Hall).",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-2710",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Marx, Hall, Melody).",
+  "fix": {
+   "mentions": [
+    "N-343",
+    "N-344",
+    "N-346"
+   ]
+  }
+ },
+ {
+  "claim": "C-2711",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Hall).",
+  "fix": {
+   "mentions": [
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-2712",
+  "episode": 91,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host narrates ('that Texas deputy contacted Corby, and he told him ... stolen at a gas station in Midland'); not presented as Hall's written statement. Hall unlisted in Mentions.",
+  "fix": {
+   "claim": "The host says that on July 4, 2024, the Texas deputy contacted Corby Hall and told him that Fold AR SN 02735 was stolen from his car at a gas station in Midland, Texas after he accidentally left the doors and windows down, and that the deputy claimed he reported it to local Midland police.",
+   "mentions": [
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-2713",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Forwarded email and 'real, confirmed' stated at 39:25. Mentions omit people named in the claim (Hall).",
+  "fix": {
+   "mentions": [
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-2714",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie, Eileen Marx and Victor Marx; Mentions only N-1, N-2.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-343",
+    "N-345"
+   ]
+  }
+ },
+ {
+  "claim": "C-2715",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Phone remark was about the earlier hug video, not this second photo. Victor Marx unlisted in Mentions.",
+  "fix": {
+   "claim": "The host shows a photo that she says shows Erika Kirk being comforted by Victor Marx in the building she lives in, approximately 72 hours after Charlie Kirk's assassination.",
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-343"
+   ]
+  }
+ },
+ {
+  "claim": "C-2716",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Praying with him' not in transcript; report says 'a visit from an American missionary' (Marx named at 29:21). Marx unlisted in Mentions.",
+  "fix": {
+   "claim": "CBN News aired a report stating that American missionary Victor Marx visited Haitian gang leader Jimmy Barbecue (Cherizier), who subsequently pledged to protect orphanages and Christian workers; the report also says the FAA banned US flights to Haiti after three planes were hit by gunfire.",
+   "mentions": [
+    "N-343",
+    "N-424"
+   ]
+  }
+ },
+ {
+  "claim": "C-2717",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2718",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Age 7, burial and police report are the host's gloss ('Victor killed a man at the age of 7'; 'Victor says they dug up...'), not the clip. Marx and stepfather unlisted.",
+  "fix": {
+   "claim": "In an audio clip the host plays, Victor Marx recounts that his stepfather placed a pistol in his hand, put his finger over Victor's trigger finger, and forced him to shoot a man in the head; the host adds that Marx says this happened at age 7, that the body was later buried, and that he eventually reported it to police.",
+   "mentions": [
+    "N-343",
+    "N-351"
+   ]
+  }
+ },
+ {
+  "claim": "C-2719",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2720",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2721",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mentions omit people named in the claim (Hall).",
+  "fix": {
+   "mentions": [
+    "N-344"
+   ]
+  }
+ },
+ {
+  "claim": "C-12818",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12819",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12820",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host quotes it as an instance in a speech she says Erika did not write; people note Erika rarely says Jesus Christ. Claim's 'evidence' framing is a stretch.",
+  "fix": {
+   "claim": "The host quotes Erika Kirk's September 12 address as saying Charlie \"witnessed for his Lord and savior Jesus Christ,\" noting that the speech was reportedly not written by Erika and that people have observed she rarely says Jesus Christ."
+  }
+ },
+ {
+  "claim": "C-12821",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12822",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12823",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12824",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12825",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12826",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12827",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12828",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12829",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12830",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12831",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12832",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12833",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Marx's online course is background on a pastor; context at most (cf. C-12832 tagged context).",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-12834",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12835",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12836",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12837",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12838",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12839",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12840",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12841",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12842",
+  "episode": 91,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -31,7 +31,7 @@
             "C-3885"
           ],
           "related_nodes": [
-            "N-268",
+            "N-267",
             "N-130",
             "N-3",
             "N-10651"
@@ -51,7 +51,7 @@
             "C-3895"
           ],
           "related_nodes": [
-            "N-604",
+            "N-603",
             "N-10909",
             "N-10910"
           ],
@@ -79,9 +79,9 @@
             "C-3892"
           ],
           "related_nodes": [
-            "N-332",
-            "N-604",
-            "N-268",
+            "N-331",
+            "N-603",
+            "N-267",
             "N-10909"
           ],
           "tags": [],
@@ -108,8 +108,8 @@
             "C-3894"
           ],
           "related_nodes": [
-            "N-604",
-            "N-268",
+            "N-603",
+            "N-267",
             "N-1",
             "N-10768"
           ],
@@ -128,8 +128,8 @@
             "C-3894"
           ],
           "related_nodes": [
-            "N-604",
-            "N-268"
+            "N-603",
+            "N-267"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -179,9 +179,9 @@
             "C-3900"
           ],
           "related_nodes": [
-            "N-268",
+            "N-267",
             "N-2",
-            "N-363",
+            "N-362",
             "N-10000",
             "N-10899"
           ],
@@ -200,7 +200,7 @@
             "C-3901"
           ],
           "related_nodes": [
-            "N-363",
+            "N-362",
             "N-10899"
           ],
           "tags": [],
@@ -226,8 +226,8 @@
             "C-3902"
           ],
           "related_nodes": [
-            "N-268",
-            "N-363",
+            "N-267",
+            "N-362",
             "N-3",
             "N-10643"
           ],
@@ -252,8 +252,8 @@
           "related_nodes": [
             "N-15",
             "N-14",
-            "N-363",
-            "N-268",
+            "N-362",
+            "N-267",
             "N-2",
             "N-10373",
             "N-10450"
@@ -273,8 +273,8 @@
             "C-3913"
           ],
           "related_nodes": [
-            "N-272",
-            "N-268",
+            "N-271",
+            "N-267",
             "N-10651"
           ],
           "tags": [],
@@ -330,7 +330,7 @@
             "C-3921"
           ],
           "related_nodes": [
-            "N-368",
+            "N-367",
             "N-30",
             "N-10631",
             "N-10689"
@@ -358,8 +358,8 @@
             "C-3933"
           ],
           "related_nodes": [
-            "N-608",
-            "N-368"
+            "N-607",
+            "N-367"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -384,7 +384,7 @@
             "C-3942"
           ],
           "related_nodes": [
-            "N-368"
+            "N-367"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -401,7 +401,7 @@
             "C-3943"
           ],
           "related_nodes": [
-            "N-368",
+            "N-367",
             "N-60"
           ],
           "tags": [],
@@ -419,8 +419,8 @@
             "C-3944"
           ],
           "related_nodes": [
-            "N-368",
-            "N-609",
+            "N-367",
+            "N-608",
             "N-10912"
           ],
           "tags": [],
@@ -438,7 +438,7 @@
             "C-3945"
           ],
           "related_nodes": [
-            "N-368"
+            "N-367"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -464,7 +464,7 @@
             "C-3939"
           ],
           "related_nodes": [
-            "N-609",
+            "N-608",
             "N-10912"
           ],
           "tags": [],
@@ -718,8 +718,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "The host repeats the allegation that he wrote Erika Kirk's speeches, and asks him to release the Aspen video.",
@@ -736,8 +736,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-165",
-      "ref": "N-165",
+      "@id": "N-164",
+      "ref": "N-164",
       "name": "Matt Walsh",
       "type": "person",
       "description": "His documentaries' success is credited by the host for the Daily Wire's peak year before Pendragon.",
@@ -753,8 +753,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-213",
-      "ref": "N-213",
+      "@id": "N-212",
+      "ref": "N-212",
       "name": "Jesse Watters",
       "type": "person",
       "description": "Transcript spelling \"Jesse Watters\". Erika Kirk's account to him of September 9 is contrasted with Kolvet's message.",
@@ -770,8 +770,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-223",
-      "ref": "N-223",
+      "@id": "N-222",
+      "ref": "N-222",
       "name": "Brett Cooper",
       "type": "person",
       "description": "The host alleges Boreing targeted her for wanting to marry and wrote a Lady Ballers role for her that she declined.",
@@ -788,8 +788,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-226",
-      "ref": "N-226",
+      "@id": "N-225",
+      "ref": "N-225",
       "name": "Shawn Ryan",
       "type": "person",
       "description": "Transcript spelling \"Shawn Ryan\". Harpole's interview with him preceded Bednarz's theories.",
@@ -805,8 +805,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-231",
-      "ref": "N-231",
+      "@id": "N-230",
+      "ref": "N-230",
       "name": "Alyssa Cordova",
       "type": "person",
       "description": "The host alleges Boreing used her to pass material to Ian Miles Cheong.",
@@ -822,8 +822,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-268",
-      "ref": "N-268",
+      "@id": "N-267",
+      "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
       "description": "Transcript spellings \"Bryan Harsin\", \"Brian Hopple\", \"Bryant Harpole\", \"Brett Harrelson\", \"Brian Hurlbut\", \"Brian Harpool\" and \"Brian Harp\". Plaintiff in the defamation suit against the host; his lawyers' preservation orders, his non-response to her messages and Bednarz's accusations against him are discussed.",
@@ -862,8 +862,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-272",
-      "ref": "N-272",
+      "@id": "N-271",
+      "ref": "N-271",
       "name": "Dan Flood",
       "type": "person",
       "description": "Harpole's business partner; the host's January 4 message to him went unanswered.",
@@ -881,8 +881,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Transcript spellings \"Barron\" and \"Baron Cohen\". His podcast clip points out that Bednarz was not sued; the host agrees with his view that the filing reads like PR.",
@@ -902,8 +902,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-363",
-      "ref": "N-363",
+      "@id": "N-362",
+      "ref": "N-362",
       "name": "Mitch Snow",
       "type": "person",
       "description": "Fort Huachuca eyewitness; the military YouTubers' attacks on him and his sightings of Harpole and Erika Kirk are revisited.",
@@ -930,8 +930,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-368",
-      "ref": "N-368",
+      "@id": "N-367",
+      "ref": "N-367",
       "name": "Jeremy Boreing",
       "type": "person",
       "description": "Transcript spelling \"Jeremy Boreing\". Former Daily Wire CEO whose video amplifies the George Farmer allegations; his X reply, Pendragon, his podcast and his conduct toward the host and Brett Cooper are discussed.",
@@ -995,8 +995,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-604",
-      "ref": "N-604",
+      "@id": "N-603",
+      "ref": "N-603",
       "name": "Douglas Blake Bednarz",
       "type": "person",
       "description": "First named by the host at 00:06:29 in episode 100 (in a Baron Coleman clip). He publicly accuses Brian Harpole of detonating a charge that killed Charlie Kirk; per the host he was served a preservation order rather than sued, and earlier offered her UVU footage. Aliases: Blake Bednarz; Blake Bendaris.",
@@ -1025,8 +1025,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-605",
-      "ref": "N-605",
+      "@id": "N-604",
+      "ref": "N-604",
       "name": "Father Klein",
       "type": "person",
       "description": "First named by the host at 00:21:38 in episode 100. The host says the Kirks' September 9 dinner was with him.",
@@ -1042,8 +1042,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-606",
-      "ref": "N-606",
+      "@id": "N-605",
+      "ref": "N-605",
       "name": "Ian Miles Cheong",
       "type": "person",
       "description": "First named by the host at 00:28:52 in episode 100. The host alleges he received material from Alyssa Cordova to attack Boreing's enemies.",
@@ -1059,8 +1059,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-607",
-      "ref": "N-607",
+      "@id": "N-606",
+      "ref": "N-606",
       "name": "Caleb Robinson",
       "type": "person",
       "description": "First named by the host at 00:37:43 in episode 100. Named as the Daily Wire's interim CEO who traveled to London with George Farmer to meet investors (transcript spelling; see Optional Flags).",
@@ -1076,8 +1076,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-608",
-      "ref": "N-608",
+      "@id": "N-607",
+      "ref": "N-607",
       "name": "Shane Cashman",
       "type": "person",
       "description": "First named by the host at 00:43:02 in episode 100. Posted on X that Boreing is \"Ted Bundy doing a Mr. Rogers impression.\"",
@@ -1095,8 +1095,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-609",
-      "ref": "N-609",
+      "@id": "N-608",
+      "ref": "N-608",
       "name": "Zachary Lewis",
       "type": "person",
       "description": "First named by the host at 00:46:20 in episode 100. Former Daily Wire camera operator in the kids department; arrested and accused (not convicted) of child sexual abuse material offenses, with six felony counts pending per the host. Aliases: Zach Lewis.",
@@ -1541,8 +1541,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-618",
-      "ref": "N-618",
+      "@id": "N-617",
+      "ref": "N-617",
       "name": "Gary Melton",
       "type": "person",
       "description": "Runs the Paramount Tactical YouTube channel (N-10899); named by first name in episode 100 (\"Andrew messaged Gary, that's Paramount Tactical\").",
@@ -1645,8 +1645,8 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-604",
-        "N-268"
+        "N-603",
+        "N-267"
       ]
     },
     {
@@ -1712,7 +1712,7 @@
       "episode_count": 1,
       "investigative_pressure": "high",
       "related_nodes": [
-        "N-609"
+        "N-608"
       ]
     }
   ],
@@ -1734,7 +1734,7 @@
       "investigative_direction": "Obtain the docket in Harpole v. Owens and any litigation-hold or preservation letters issued by plaintiff's counsel, with their recipients and dates.",
       "transcript_snippet": "they are beginning to send out what are known as preservation orders, okay?",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -1756,7 +1756,7 @@
       "transcript_snippet": "their lawyers emailed my team wanting me to give them Ian Carroll's address.",
       "mentions_person_refs": [
         "N-130",
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -1794,7 +1794,7 @@
       "investigative_direction": "Archive the Paramount Tactical / Valhalla streams and posts from that period, and compare them with Mitch Snow's military service records (DD-214) and Fort Huachuca base-access logs.",
       "transcript_snippet": "First and foremost, that Mitch was never at Fort Huachuca, that he was a com- a complete fraud. He could not even get onto the base because he never even served in the military.",
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-130"
       ]
     },
@@ -1817,7 +1817,7 @@
         "C-1987"
       ],
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-3"
       ]
     },
@@ -1857,7 +1857,7 @@
       "investigative_direction": "Search federal and state court dockets for defamation suits filed by Brian Harpole against anyone other than the host.",
       "transcript_snippet": "And yet mysteriously I've been sort of watching and paying attention and those people are not being sued for defamation.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-1"
       ]
     },
@@ -1878,9 +1878,9 @@
       "investigative_direction": "Archive Blake Bednarz's X, YouTube and X Spaces output, including the \"Judas Harpole\" video, with dates.",
       "transcript_snippet": "Blake Bednarz basically accuses by name Brian Harpole every single day of murdering Charlie Kirk. Like frame by frame. He has a whole video called Judas Harpole.",
       "mentions_person_refs": [
-        "N-332",
-        "N-604",
-        "N-268",
+        "N-331",
+        "N-603",
+        "N-267",
         "N-1"
       ]
     },
@@ -1902,9 +1902,9 @@
       "investigative_direction": "Review the full Harpole complaint and its exhibits for any reference to Blake Bednarz or his posts, and check the list of named defendants.",
       "transcript_snippet": "And yet, no, this Blake Bednarz's character is not listed in this lawsuit.",
       "mentions_person_refs": [
-        "N-332",
-        "N-604",
-        "N-268"
+        "N-331",
+        "N-603",
+        "N-267"
       ]
     },
     {
@@ -1924,9 +1924,9 @@
       "investigative_direction": "Compare the publication date of Harpole's Shawn Ryan Show episode with the timestamps of Bednarz's first posts naming Harpole.",
       "transcript_snippet": "The person he's referring to, a full name Douglas Blake Bednarz, and he certainly did not mince words when he began positing theories about Brian Harpole after Brian's disastrous interview with Shawn Ryan.",
       "mentions_person_refs": [
-        "N-604",
-        "N-268",
-        "N-226"
+        "N-603",
+        "N-267",
+        "N-225"
       ]
     },
     {
@@ -1948,8 +1948,8 @@
       "investigative_direction": "Archive the original Bednarz posts with URLs and timestamps, and compare the allegation with the autopsy and ballistics evidence in the Tyler Robinson case.",
       "transcript_snippet": "This is who squeezed the trigger to initiate the detonation under Charlie's shirt. Brian Judas Harpole was wearing the controls under his clothes. I am 1 trillion percent certain.",
       "mentions_person_refs": [
-        "N-604",
-        "N-268",
+        "N-603",
+        "N-267",
         "N-1"
       ]
     },
@@ -1972,7 +1972,7 @@
       "investigative_direction": "Obtain the preservation letter served on Douglas Blake Bednarz, its date and signatory, and any later subpoena issued to him.",
       "transcript_snippet": "I learned that Blake Bendaris had been served by Dhillon Law Group. But not with the lawsuit, but with a simple preservation order because they think he might have something that might help to prosecute me in a defamation suit.",
       "mentions_person_refs": [
-        "N-604",
+        "N-603",
         "N-3"
       ]
     },
@@ -2009,7 +2009,7 @@
       "investigative_direction": "Obtain the host's message history with Bednarz and any footage or links he sent, and identify the UVU contact he cited.",
       "transcript_snippet": "there's this guy who is purporting to have never before seen footage from the UVU event.",
       "mentions_person_refs": [
-        "N-604",
+        "N-603",
         "N-3"
       ]
     },
@@ -2028,8 +2028,8 @@
       "investigative_direction": "Review the dated message thread between the host and Bednarz for November–December 2025.",
       "transcript_snippet": "My spidey senses went up in December. Right around the time that we began discussing Fort Huachuca when he suddenly shifted gears and began sending me stuff about Brian Harpole.",
       "mentions_person_refs": [
-        "N-604",
-        "N-268",
+        "N-603",
+        "N-267",
         "N-3"
       ]
     },
@@ -2048,7 +2048,7 @@
       "investigative_direction": "Confirm from the message thread the date of the host's last reply to Bednarz.",
       "transcript_snippet": "I'm just not going to reply to you beginning in mid-December.",
       "mentions_person_refs": [
-        "N-604",
+        "N-603",
         "N-3"
       ]
     },
@@ -2071,9 +2071,9 @@
       "investigative_direction": "Identify the sender and recipient of the message and the TPUSA source cited, and seek in discovery any TPUSA communications about the host before the Mitch Snow interview.",
       "transcript_snippet": "My my source at Turning Point USA literally said they have all the documents and proof proof both Brian and Erika weren't there and they're purposefully giving Candace rope to hang herself with this.",
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-2",
-        "N-363",
+        "N-362",
         "N-3"
       ]
     },
@@ -2094,7 +2094,7 @@
       "investigative_direction": "Authenticate the message and its sender, and check court records before relying on any allegation about Mitch Snow's past.",
       "transcript_snippet": "We can do it the hard way and tie her to a con artist with a horrible history of abuse against women and children and raising uh 130,000 dollars for him.",
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-3"
       ]
     },
@@ -2118,8 +2118,8 @@
         "C-2818"
       ],
       "mentions_person_refs": [
-        "N-268",
-        "N-363",
+        "N-267",
+        "N-362",
         "N-3"
       ]
     },
@@ -2141,7 +2141,7 @@
         "C-2819"
       ],
       "mentions_person_refs": [
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -2230,8 +2230,8 @@
       "mentions_person_refs": [
         "N-15",
         "N-14",
-        "N-363",
-        "N-268",
+        "N-362",
+        "N-267",
         "N-3"
       ]
     },
@@ -2255,7 +2255,7 @@
         "C-1973"
       ],
       "mentions_person_refs": [
-        "N-363",
+        "N-362",
         "N-2"
       ]
     },
@@ -2280,7 +2280,7 @@
         "N-14",
         "N-2",
         "N-1",
-        "N-618"
+        "N-617"
       ]
     },
     {
@@ -2299,7 +2299,7 @@
       "transcript_snippet": "But Erika herself told Jesse Watters that Charlie was at the office all day and never said that she was with him.",
       "mentions_person_refs": [
         "N-2",
-        "N-213",
+        "N-212",
         "N-1"
       ]
     },
@@ -2318,7 +2318,7 @@
       "investigative_direction": "Confirm the September 9, 2025 dinner and its location with Father Klein.",
       "transcript_snippet": "Dinner that night together, which I am aware of because it was with Father Klein.",
       "mentions_person_refs": [
-        "N-605",
+        "N-604",
         "N-2",
         "N-1",
         "N-3"
@@ -2344,7 +2344,7 @@
       "mentions_person_refs": [
         "N-14",
         "N-2",
-        "N-618"
+        "N-617"
       ]
     },
     {
@@ -2364,8 +2364,8 @@
       "investigative_direction": "Obtain the January 4, 2026 message and its delivery or read receipts, and check the Harpole complaint's exhibits for its omission.",
       "transcript_snippet": "On January 4th, I messaged him. And this is what I wrote him. I said, this was not included in the filing.",
       "mentions_person_refs": [
-        "N-272",
-        "N-268",
+        "N-271",
+        "N-267",
         "N-3"
       ]
     },
@@ -2384,8 +2384,8 @@
       "investigative_direction": "Review the first pages of the Harpole complaint for references to antisemitism.",
       "transcript_snippet": "You spent the first three pages calling her an anti-Semite.",
       "mentions_person_refs": [
-        "N-268",
-        "N-332",
+        "N-267",
+        "N-331",
         "N-3"
       ]
     },
@@ -2406,7 +2406,7 @@
       "investigative_direction": "Obtain Daily Wire travel and expense records for interns who attended the host's 2024 public events.",
       "transcript_snippet": "sending interns on secret trips on onto planes uh to follow me to my public events.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-3"
       ]
     },
@@ -2425,9 +2425,9 @@
       "investigative_direction": "Seek communications between Alyssa Cordova and Ian Miles Cheong, and compare the timing with Cheong's posts about Daily Wire critics.",
       "transcript_snippet": "he used Alyssa Cordova, uh who would send things to Ian Miles Cheong, who's generally speaking very gross, uh to go after his enemies.",
       "mentions_person_refs": [
-        "N-368",
-        "N-231",
-        "N-606"
+        "N-367",
+        "N-230",
+        "N-605"
       ]
     },
     {
@@ -2447,9 +2447,9 @@
       "investigative_direction": "Compare counsel of record in Harpole v. Owens with counsel in the Daily Wire v. Owens arbitration.",
       "transcript_snippet": "This is the lawyer that Jeremy Boreing and Ben and The Daily Wire worked with to pursue me for 2 years in court, uh just with the explicit goal of bankrupting me.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-97",
-        "N-268",
+        "N-267",
         "N-3"
       ]
     },
@@ -2471,7 +2471,7 @@
       "investigative_direction": "Archive the Jeremy Boreing episode aired the day before this episode, with its run time and description.",
       "transcript_snippet": "when Jeremy took to his show yesterday to essentially platform Laura Loomer Laura Loomer's attacks against my husband.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-60",
         "N-30"
       ]
@@ -2494,7 +2494,7 @@
       "investigative_direction": "Obtain Daily Wire revenue and profit figures by year, from investor materials or reporting such as Semafor's.",
       "transcript_snippet": "Every single year that I led The Daily Wire, we grew revenue. Every year, year over year, for 10 straight years.",
       "mentions_person_refs": [
-        "N-368"
+        "N-367"
       ]
     },
     {
@@ -2514,7 +2514,7 @@
       "investigative_direction": "Search Davidson County (Nashville) arrest and court records for August 2023 and confirm the identity of any George Farmer named.",
       "transcript_snippet": "public records and documents have surfaced alleging that Candace's husband, George Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of an accident.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-30",
         "N-3"
       ]
@@ -2537,7 +2537,7 @@
       "investigative_direction": "Establish the date of any incident report and compare it with the host's Daily Wire employment dates and Boreing's CEO tenure.",
       "transcript_snippet": "shortly after it happened, back when Candace still worked for me at The Daily Wire. People who had access to the court documents approached me with them quite early",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-30",
         "N-3"
       ]
@@ -2559,7 +2559,7 @@
       "transcript_snippet": "There was never an incident that happened while I was at the Daily Wire. I was never contacted.",
       "mentions_person_refs": [
         "N-3",
-        "N-368",
+        "N-367",
         "N-30"
       ]
     },
@@ -2580,8 +2580,8 @@
       "investigative_direction": "Obtain Pendragon Cycle production budgets and Daily Wire profit-and-loss statements for 2022–2025.",
       "transcript_snippet": "Pendragon, Jeremy's high school dream, drove the company into the ground financially",
       "mentions_person_refs": [
-        "N-368",
-        "N-165"
+        "N-367",
+        "N-164"
       ]
     },
     {
@@ -2600,7 +2600,7 @@
       "investigative_direction": "Confirm the dates of Boreing's leave as CEO and of the Pendragon Cycle shoot in Hungary from Daily Wire announcements.",
       "transcript_snippet": "He had to temporarily put a hold on being the CEO because he went to Hungary to shoot Pendragon.",
       "mentions_person_refs": [
-        "N-368"
+        "N-367"
       ]
     },
     {
@@ -2620,7 +2620,7 @@
       "transcript_snippet": "They went to London, him and the co-CEO or the just the CEO at that time, the interim full CEO. Kayla Robinson, George introduced them to all of his circle of investor friends",
       "mentions_person_refs": [
         "N-30",
-        "N-607"
+        "N-606"
       ]
     },
     {
@@ -2660,7 +2660,7 @@
       "investigative_direction": "Seek confirmation from the New York Post of any 2024 pitch about George Farmer and its source.",
       "transcript_snippet": "It is The Daily Wire and Jeremy Boreing and their affiliates that stumbled upon an instant report an instant report with George Farmer in the late summer of 2024.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-30"
       ]
     },
@@ -2774,8 +2774,8 @@
       "investigative_direction": "Archive the Shane Cashman X post with its URL and timestamp.",
       "transcript_snippet": "Shane Cashman said it best on X when he wrote this. He wrote, \"Jeremy Boreing is Ted Bundy doing a Mr. Rogers impression.\"",
       "mentions_person_refs": [
-        "N-608",
-        "N-368"
+        "N-607",
+        "N-367"
       ]
     },
     {
@@ -2793,8 +2793,8 @@
       "investigative_direction": "Seek Brett Cooper's account and any Daily Wire legal correspondence with her about her departure.",
       "transcript_snippet": "please note what he attempted to do to Brett Cooper, who was she 21, 22 at the time, for the crime of her wanting to get married.",
       "mentions_person_refs": [
-        "N-368",
-        "N-223"
+        "N-367",
+        "N-222"
       ]
     },
     {
@@ -2812,7 +2812,7 @@
       "investigative_direction": "Catalogue the titles and topics of every episode of Jeremy Boreing's podcast to date.",
       "transcript_snippet": "Since launching his new podcast, Jeremy Boreing has done 19 shows that nobody has watched. You should know that 17 of them have been about me and Tucker Carlson.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-3",
         "N-22"
       ]
@@ -2835,7 +2835,7 @@
       "investigative_direction": "Obtain the arrest record, charging documents and docket for Zachary Lewis.",
       "transcript_snippet": "he's been accused of distributing pornography of pre-pubescent kids in the process of soliciting other minors.",
       "mentions_person_refs": [
-        "N-609"
+        "N-608"
       ]
     },
     {
@@ -2854,7 +2854,7 @@
       "investigative_direction": "Check Bentkey production credits and Daily Wire employment records for Zachary Lewis's role.",
       "transcript_snippet": "this now former employee, Zachary Lewis, happens to have worked in The Daily Wire Kids department, where they filmed kids' shows with kids.",
       "mentions_person_refs": [
-        "N-609"
+        "N-608"
       ]
     },
     {
@@ -2873,8 +2873,8 @@
       "investigative_direction": "Establish Lewis's termination date from Daily Wire records or statements and compare it with his arrest date.",
       "transcript_snippet": "I am told that he was not immediately dismissed from The Daily Wire, allegedly.",
       "mentions_person_refs": [
-        "N-609",
-        "N-368"
+        "N-608",
+        "N-367"
       ]
     },
     {
@@ -2894,7 +2894,7 @@
       "investigative_direction": "Confirm the number and nature of the counts on the court docket.",
       "transcript_snippet": "There are currently six felony counts pending before the judge. I dropped the details of the case against him on my X feed.",
       "mentions_person_refs": [
-        "N-609"
+        "N-608"
       ]
     },
     {
@@ -2913,7 +2913,7 @@
       "investigative_direction": "Seek accounts from Daily Wire employees on how Lewis's departure was announced internally.",
       "transcript_snippet": "I have been informed that they did not build a stage to gloriously fire Zach Lewis and to publicly hang him before the employees like they did with me.",
       "mentions_person_refs": [
-        "N-609",
+        "N-608",
         "N-3"
       ]
     },
@@ -2932,8 +2932,8 @@
       "investigative_direction": "Review Lady Ballers casting records and the original script drafts, and seek Brett Cooper's account.",
       "transcript_snippet": "Writing a movie script like Lady Ballers and inserting Brett Cooper into a role to lick your face which she declined to do.",
       "mentions_person_refs": [
-        "N-368",
-        "N-223"
+        "N-367",
+        "N-222"
       ]
     },
     {
@@ -2951,7 +2951,7 @@
       "investigative_direction": "Archive Boreing's X response with its URL and timestamp.",
       "transcript_snippet": "we publicly invited him to come on to the show, discuss George and what he did and when you knew",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-30",
         "N-3"
       ]
@@ -2971,7 +2971,7 @@
       "investigative_direction": "Seek communications between Boreing's associates or counsel and Laura Loomer in 2025–2026.",
       "transcript_snippet": "I might respond that I haven't spoken privately to Laura Loomer in years.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-60"
       ]
     },
@@ -2992,8 +2992,8 @@
       "investigative_direction": "Establish what Daily Wire leadership knew about the Lewis case and when, and Boreing's role over the kids department at the time.",
       "transcript_snippet": "But while that accusation is terrible, it has nothing to do with me.",
       "mentions_person_refs": [
-        "N-368",
-        "N-609"
+        "N-367",
+        "N-608"
       ]
     },
     {
@@ -3011,7 +3011,7 @@
       "investigative_direction": "Archive the full X post and any later reply to the host's offer of a virtual appearance.",
       "transcript_snippet": "My audience is rightly concerned for my safety if I go to Candace's studio.",
       "mentions_person_refs": [
-        "N-368",
+        "N-367",
         "N-3"
       ]
     },
@@ -3030,7 +3030,7 @@
       "investigative_direction": "Seek drafts and metadata of Erika Kirk's speeches, and accounts from former TPUSA staff.",
       "transcript_snippet": "like I told you Blake Neff was writing her speech allegedly. I'm told by people with direct knowledge who have since been fired from The Daily I've been fired from Turning Point USA.",
       "mentions_person_refs": [
-        "N-161",
+        "N-160",
         "N-2"
       ]
     },
@@ -3052,7 +3052,7 @@
         "C-2694"
       ],
       "mentions_person_refs": [
-        "N-161",
+        "N-160",
         "N-1",
         "N-2"
       ]
@@ -3072,7 +3072,7 @@
       "investigative_direction": "Track any follow-up the host publishes on the Bednarz lead.",
       "transcript_snippet": "Actually, we had an interesting lead today about Blake Bednarz. So we'll follow that.",
       "mentions_person_refs": [
-        "N-604",
+        "N-603",
         "N-3"
       ]
     }

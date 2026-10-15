@@ -12,12 +12,12 @@
 
 - **Episode Ledger Summary**:
   - Hole-minted Nodes (reintro-ep089): N-10741
-  - Tip-minted Nodes (reintro-ep089): N-682
+  - Tip-minted Nodes (reintro-ep089): N-681
   - Intro moved earlier (supplement): these nodes first appear here; ids unchanged, later ledger line now Reused
   - Claim Range (supplement_2026-10c): C-8635–C-8688
   - New Nodes Introduced: N-10590, N-10591, N-10592
-  - Hole-minted Nodes (wave3): N-421
-  - Reused Nodes Appearing: N-5, N-10587, N-9, N-97, N-147, N-180, N-246, N-300, N-10006, N-10026, N-10063, N-10282, N-10324, N-10541, N-10628, N-10962, N-11128, N-11133, N-167, N-708, N-10630, N-11191, N-11192, N-11145, N-10589, N-10588
+  - Hole-minted Nodes (wave3): N-420
+  - Reused Nodes Appearing: N-5, N-10587, N-9, N-97, N-146, N-179, N-245, N-299, N-10006, N-10026, N-10063, N-10282, N-10324, N-10541, N-10628, N-10962, N-11128, N-11133, N-166, N-707, N-10630, N-11191, N-11192, N-11145, N-10589, N-10588
   - (see registers)
 
 ## 2. Executive Summary
@@ -210,7 +210,7 @@ Confidence Level: Medium
 
 ## 4. Node Register
 
-**N-421** Monica Lewinsky
+**N-420** Monica Lewinsky
 
 First named by the host at 00:26:31 in episode 89.
 
@@ -391,7 +391,7 @@ Ben Shapiro, named in a played voter clip.
 
 ---
 
-**N-147** Marjorie Taylor Greene
+**N-146** Marjorie Taylor Greene
 
 Marjorie Taylor Greene, named in the post as Marjorie Traitor Brown.
 
@@ -399,7 +399,7 @@ Marjorie Taylor Greene, named in the post as Marjorie Traitor Brown.
 
 ---
 
-**N-167** Howard Lutnick
+**N-166** Howard Lutnick
 
 Howard Lutnick, named in a played voter clip.
 
@@ -407,7 +407,7 @@ Howard Lutnick, named in a played voter clip.
 
 ---
 
-**N-180** Jared Kushner
+**N-179** Jared Kushner
 
 Jared Kushner, named by the host in connection with boardroom deals.
 
@@ -415,7 +415,7 @@ Jared Kushner, named by the host in connection with boardroom deals.
 
 ---
 
-**N-246** Mark Levin
+**N-245** Mark Levin
 
 Mark Levin, named in a played voter clip.
 
@@ -423,7 +423,7 @@ Mark Levin, named in a played voter clip.
 
 ---
 
-**N-300** Miriam Adelson
+**N-299** Miriam Adelson
 
 Miriam Adelson, the donor in the host's account of the alleged meeting.
 
@@ -431,7 +431,7 @@ Miriam Adelson, the donor in the host's account of the alleged meeting.
 
 ---
 
-**N-682** Joe Biden
+**N-681** Joe Biden
 
 Joe Biden, discussed in the host's comment on dementia.
 
@@ -439,7 +439,7 @@ Joe Biden, discussed in the host's comment on dementia.
 
 ---
 
-**N-708** Sheldon Adelson
+**N-707** Sheldon Adelson
 
 Sheldon Adelson, whose gambling fortune the host references.
 
@@ -578,7 +578,7 @@ Claim Timestamp: 00:04:12–00:12:28
 Claim: Trump's Truth Social post, read in full on air, named Tucker Carlson, Megyn Kelly, Candace Owens, and Alex Jones and described them as "low IQ," "stupid people," "nutjobs," "troublemakers," and "losers."
 
 Anchored Artifacts: A-1939.1
-Mentions: N-3, N-22, N-46, N-93
+Mentions: N-3, N-5, N-22, N-46, N-93
 Related Nodes: N-10587
 Investigative Direction: Obtain the original Truth Social post via archived screenshots and confirm the verbatim text against the on-air reading.
 
@@ -601,10 +601,10 @@ Investigative Direction: Verify the exact wording against the archived Truth Soc
 
 Claim Timestamp: 00:23:45–00:24:40
 
-Claim: CNN assembled and aired a montage of past Trump appearances in which he praised Candace Owens, Megyn Kelly, and others as "stars" with "amazing reputations," contradicting his current posture in A-1939.1.
+Claim: CNN assembled a montage of past Trump appearances, which the host plays, in which he praised Megyn Kelly and Candace Owens (saying "that's a star" and "your reputation is amazing"), contradicting his current posture in A-1939.1.
 
 Anchored Artifacts: A-1940.1
-Mentions: N-3, N-46
+Mentions: N-3, N-5, N-46
 Investigative Direction: Identify and verify the source clips used in the CNN compilation and their original air dates.
 
 ---
@@ -616,7 +616,7 @@ Claim Timestamp: 00:25:38–00:26:31
 Claim: In an on-air audio clip from her Piers Morgan interview, Megyn Kelly stated that Trump sat at the side of the situation-room table while Benjamin Netanyahu sat across from him as an equal, and that senior U.S. advisers subsequently informed Trump the stated Iran objectives were unattainable.
 
 Anchored Artifacts: A-1941.1
-Mentions: N-36, N-206, N-46, N-421
+Mentions: N-5, N-36, N-46, N-205
 Related Nodes: N-10592
 Investigative Direction: Locate the full Piers Morgan interview segment and verify the quoted claims; cross-reference with official White House situation-room imagery if available.
 
@@ -629,7 +629,7 @@ Claim Timestamp: 00:26:31–00:28:46
 Claim: A letter/newsletter from Tucker Carlson, read in full on air, alleged that Israel has a "storied history of blackmailing US presidents," including the claim that recordings of Bill Clinton–Monica Lewinsky phone-sex sessions were used as leverage to obtain Jonathan Pollard's release.
 
 Anchored Artifacts: A-1942.1
-Mentions: N-276, N-22, N-421
+Mentions: N-275, N-22, N-420
 Related Nodes:
 Investigative Direction: Retrieve the original Carlson newsletter post and verify the exact wording; assess sourcing and historical basis for the Clinton-Lewinsky blackmail claim independently.
 
@@ -639,10 +639,10 @@ Investigative Direction: Retrieve the original Carlson newsletter post and verif
 
 Claim Timestamp: 00:33:58–00:35:23
 
-Claim: In an audio clip played on air, Laura Loomer stated that she sent Tucker Carlson clips to President Trump and that she is the person who "knifed him from the front" via the resulting Truth Social post.
+Claim: In an audio clip played on air, Laura Loomer stated that she sent Tucker Carlson clips to President Trump and that she is the one who "knifed him from the front"; the host presents this as Loomer taking credit for Trump's Truth Social post.
 
 Anchored Artifacts: A-1943.1
-Mentions: N-22, N-60
+Mentions: N-5, N-22, N-60
 Related Nodes: N-10590
 Investigative Direction: Obtain the original Loomer audio/video (e.g., X post, Rumble clip) and confirm the exact wording; assess whether other corroboration exists for her influence claim.
 
@@ -652,10 +652,10 @@ Investigative Direction: Obtain the original Loomer audio/video (e.g., X post, R
 
 Claim Timestamp: 00:29:16–00:31:16
 
-Claim: Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolvet named as in-room corroborator) that he and Kolb were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, prior to the public announcement of the donation in approximately July 2024.
+Claim: Candace Owens recounted on air that Charlie Kirk told her (with Andrew Kolvet named as in-room corroborator) that he and Kolvet were present at a meeting in which Miriam Adelson offered President Trump $100 million in exchange for annexation of the West Bank, before the donation was announced, which she thinks was in or just before July 2024.
 
 Anchored Artifacts: A-1944.1
-Mentions: N-3, N-1, N-14
+Mentions: N-1, N-3, N-5, N-14, N-299
 Related Nodes: N-10589
 Investigative Direction: Identify and interview Andrew Kolvet directly; cross-reference publicly reported Adelson-Trump meetings in spring/summer 2024; review contemporaneous meeting attendee records if obtainable.
 
@@ -678,10 +678,10 @@ Investigative Direction: Obtain corroborating testimony from Andrew Kolvet; revi
 
 Claim Timestamp: 00:31:16–00:32:11
 
-Claim: Donald Trump Jr. stated on stage that he was not satisfied with the conclusion of the Butler, Pennsylvania investigation but that his father was satisfied and the matter was closed.
+Claim: The host says she remembers Donald Trump Jr. on stage, when asked whether he was satisfied with the conclusion in Butler, kind of saying he was not but his father was and that was that.
 
 Anchored Artifacts: A-1947.1
-Mentions: N-33
+Mentions: N-5, N-33
 Related Nodes: N-10588
 Investigative Direction: Locate the original on-stage footage or transcript; cross-reference with any subsequent Trump Jr. statements on the same topic.
 
@@ -689,11 +689,12 @@ Investigative Direction: Locate the original on-stage footage or transcript; cro
 
 **C-2678** Social-Media Responses Host Reads Show MAGA Supporters Turning Against Trump
 
-Claim Timestamp: 00:00:00–00:00:01
+Claim Timestamp: 00:19:20
 
-Claim: Per Truth Social and other social-media responses the host reads on air, supplemented by viewer comments the host reads, a measurable volume of previously pro-Trump MAGA supporters publicly criticized or repudiated Trump following his Truth Social post.
+Claim: Per Truth Social and other social-media responses the host reads on air, previously pro-Trump supporters publicly criticized Trump following his Truth Social post.
 
 Anchored Artifacts: A-1945.1, A-1946.1
+Mentions: N-5
 Related Nodes: N-10591
 Investigative Direction: Quantify sentiment shift using archived social-media datasets and date-range filters; separate organic supporter sentiment from bot/inauthenticator activity.
 
@@ -703,10 +704,10 @@ Investigative Direction: Quantify sentiment shift using archived social-media da
 
 Claim Timestamp: 00:20:14–00:21:03
 
-Claim: Candace Owens highlighted as the most "brutal" recurring response a claim, posted by multiple users, that Charlie Kirk would have been on Trump's target list in A-1939.1 had he not been killed.
+Claim: Candace Owens said that in her view the most brutal and recurring response across social media was a tweet saying Charlie Kirk would be on Trump's list in A-1939.1 if they hadn't killed him.
 
 Anchored Artifacts: A-1946.1
-Mentions: N-3, N-1
+Mentions: N-1, N-3, N-5
 Related Nodes: N-10587
 Investigative Direction: Locate the originating posts and timestamps; assess spread velocity and authorship clustering.
 
@@ -719,6 +720,7 @@ Claim Timestamp: 00:11:20–00:12:28
 Claim: Trump's Truth Social post cited CNN polling data ("100% approval rating") while concurrently describing CNN as "fake news."
 
 Anchored Artifacts: A-1939.1
+Mentions: N-5
 Related Nodes: N-10587
 Investigative Direction: Verify exact wording in the archived post and identify the specific CNN poll Trump cited.
 
@@ -731,7 +733,7 @@ Claim Timestamp: 00:09:01–00:09:34
 Claim: Trump's Truth Social post stated, verbatim, that the first lady of France is "a far more beautiful woman than Candace" and "it's not even close."
 
 Anchored Artifacts: A-1939.1
-Mentions: N-3, N-82
+Mentions: N-3, N-5, N-82
 Related Nodes:
 Investigative Direction: Verify exact wording against the archived post.
 
@@ -802,7 +804,7 @@ Investigative Direction: Obtain the archived Truth Social post and compare the w
 
 Claim Timestamp: 00:07:19
 
-Claim: The post, as read by the host, says Tucker Carlson could not finish college, was a broken man when fired from Fox, and should see a psychiatrist.
+Claim: The post, as read by the host, says Tucker Carlson could not finish college, was a broken man when fired from Fox, and perhaps should see a good psychiatrist.
 
 Transcript Snippet: He was a broken man when he got fired from Fox and he's never been the same. Perhaps he should see a good psychiatrist.
 
@@ -886,7 +888,7 @@ Claim: The post, as read by the host, says that when the critics call Trump does
 Transcript Snippet: As president President, I could get them on my side anytime I want, but when they call, I don't return their calls because I'm too busy on world and country affairs.
 
 Anchored Artifacts: A-1939.1
-Mentions: N-5, N-147
+Mentions: N-5, N-146
 Tags: relevance:context
 Investigative Direction: Obtain the archived Truth Social post and compare the wording with the on-air reading. Ask the four named critics whether and when they called.
 
@@ -948,7 +950,7 @@ Claim: The host refers to what was agreed in boardrooms with Jared Kushner and a
 Transcript Snippet: whatever was agreed upon in those boardrooms with Jared Kushner, uh Trump Gaza hotel, whatever you tweeted so crass.
 
 Anchored Artifacts: 
-Mentions: N-180, N-5, N-3
+Mentions: N-179, N-5, N-3
 Related Nodes: N-10063
 Tags: relevance:context
 Investigative Direction: Identify any public reporting on a Kushner-linked Gaza development plan and compare it with the host's allusion.
@@ -981,7 +983,7 @@ Claim: The host says Netanyahu is Trump's master and that Miriam Adelson may be 
 Transcript Snippet: Bibi is your master. Maybe it's Miriam Adelson that lights the fire and Bibi that makes the shadows on the wall
 
 Anchored Artifacts: 
-Mentions: N-36, N-300, N-5, N-3
+Mentions: N-36, N-299, N-5, N-3
 Related Nodes: N-11128
 Tags: relevance:context
 Investigative Direction: This is the host's characterization; look for documented policy requests by either figure to Trump.
@@ -997,7 +999,7 @@ Claim: In a clip played by the host, an unnamed MAGA voter says half the people 
 Transcript Snippet: Half of the people that I grew up with in this movement are not on Ben Shapiro and Mark Levin's team, okay?
 
 Anchored Artifacts: A-2953.1
-Mentions: N-97, N-246, N-3
+Mentions: N-97, N-245, N-3
 Tags: relevance:context
 Investigative Direction: Identify the clip's speaker and source video.
 
@@ -1012,7 +1014,7 @@ Claim: In the same clip, the voter says Trump has become corrupt, cites insider 
 Transcript Snippet: I don't want to be at your cool, corrupt kid, Howard Lutnick, Jeffrey Epstein class table.
 
 Anchored Artifacts: A-2953.1
-Mentions: N-167, N-9, N-5
+Mentions: N-166, N-9, N-5
 Tags: relevance:context
 Investigative Direction: Identify the speaker; check the insider-trading reporting the clip alludes to.
 
@@ -1196,12 +1198,12 @@ Investigative Direction: Ask Kolvet to confirm or deny that he told the host thi
 
 Claim Timestamp: 00:29:16
 
-Claim: The host says it was announced in or just before July 2024 that Miriam Adelson gave Trump $100 million.
+Claim: The host says she thinks it was announced in July, or just before July, of 2024 that Miriam Adelson gave Trump $100 million.
 
 Transcript Snippet: before where was announced that Miriam Adelson gave Trump $100 million. This was I think it was announced in July or just before July of 2024.
 
 Anchored Artifacts: A-1944.1
-Mentions: N-300, N-5, N-3
+Mentions: N-299, N-5, N-3
 Related Nodes: N-10589
 Supports: C-7107
 Tags: relevance:context
@@ -1213,7 +1215,7 @@ Investigative Direction: Check FEC filings and press reports for the date and am
 
 Claim Timestamp: 00:30:06
 
-Claim: The host says she thinks Charlie told her the story around May, before the money went through, and she would have to check the exact date of the discussion.
+Claim: The host says she wants to say Charlie told her the story in May, and that she could go back and try to work out when exactly the discussion happened.
 
 Transcript Snippet: And the reason that Charlie told me the story and again I could go back and try to figure out when exactly the discussion happened. I want to say it was May.
 
@@ -1284,7 +1286,7 @@ Claim: The host wonders whether it got back to the Adelsons that Trump said he w
 Transcript Snippet: If it maybe got back to the Adelsons that Trump said that. You don't take $100 million from a uh a family of I would say gangsters, right?
 
 Anchored Artifacts: A-1944.1
-Mentions: N-708, N-300, N-5, N-3
+Mentions: N-707, N-299, N-5, N-3
 Related Nodes: N-10588
 Tags: relevance:core
 Investigative Direction: This is the host's speculation and characterization; no evidence is offered that the remark reached the Adelsons.
@@ -1318,7 +1320,7 @@ Transcript Snippet: she has been committed multiple times uh by her own family.
 Anchored Artifacts: 
 Mentions: N-60, N-3
 Related Nodes: N-10628
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Look for court or medical records; none was shown.
 
 ---
@@ -1334,7 +1336,7 @@ Transcript Snippet: she once chained herself to X to to Twitter headquarters. It
 Anchored Artifacts: 
 Mentions: N-60, N-3
 Supports: C-5120
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find contemporaneous news coverage of the protest.
 
 ---
@@ -1350,7 +1352,7 @@ Transcript Snippet: If you ask her to produce a photo of her bat mitzvah she can
 Anchored Artifacts: 
 Mentions: N-60, N-3
 Related Nodes: N-10630
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Ask Loomer about her religion; the host offers no record.
 
 ---
@@ -1389,7 +1391,7 @@ Investigative Direction: Compare to the post text read earlier, which says the f
 
 Claim Timestamp: 00:36:11
 
-Claim: A speaker in this segment, apparently the host, says Trump went back on phosphorus and Monsanto because Israel needed it to poison people in Lebanon.
+Claim: The host says Trump went back on phosphorus and Monsanto, and that this was because Israel needed it to poison people in Lebanon.
 
 Transcript Snippet: Oh, Trump went back on phosphorus and Monsanto. Well, that was because Israel needed it uh to poison people in Lebanon.
 
@@ -1488,7 +1490,7 @@ Claim: The host calls herself and the other three named critics the four horseme
 Transcript Snippet: We are the the four horsemen of MAGA. That should be the app.
 
 Anchored Artifacts: A-2955.1
-Mentions: N-3, N-22, N-46
+Mentions: N-3, N-22, N-46, N-93
 Tags: relevance:tangential
 Investigative Direction: Check the merch listing for the corrected spelling.
 
@@ -1535,7 +1537,7 @@ Claim: The host says she genuinely believes Joe Biden had dementia, that Trump d
 Transcript Snippet: I genuinely believe that Joe Biden had dementia, and at least he can say that.
 
 Anchored Artifacts: 
-Mentions: N-682, N-5, N-3
+Mentions: N-681, N-5, N-3
 Tags: relevance:tangential
 Investigative Direction: Opinion about two public figures; no medical record is cited.
 

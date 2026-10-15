@@ -293,7 +293,7 @@
           "related_nodes": [
             "N-132",
             "N-61",
-            "N-787"
+            "N-786"
           ],
           "tags": [],
           "event_timestamp": "00:00:00–00:00:01",
@@ -870,8 +870,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-787",
-      "ref": "N-787",
+      "@id": "N-786",
+      "ref": "N-786",
       "name": "Mike Lee",
       "type": "person",
       "description": "US Senator from Utah; first named in A-1192.2.",
@@ -1049,8 +1049,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-136",
-      "ref": "N-136",
+      "@id": "N-135",
+      "ref": "N-135",
       "name": "Andrew Zenger",
       "type": "person",
       "description": "Hospital CEO and surgeon whose appointment the host says was announced just before the tour (transcribed Zenger).",
@@ -1067,8 +1067,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-327",
-      "ref": "N-327",
+      "@id": "N-326",
+      "ref": "N-326",
       "name": "Tim Ballard",
       "type": "person",
       "description": "Former Operation Underground Railroad head; the host's source says Lyman met him in town, and she recalls interviewing him.",
@@ -2012,7 +2012,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-61",
-        "N-327"
+        "N-326"
       ]
     },
     {
@@ -2081,7 +2081,7 @@
       "transcript_snippet": "chosen for an internship with Senator Mike Lee of Utah.",
       "mentions_person_refs": [
         "N-132",
-        "N-787",
+        "N-786",
         "N-61"
       ]
     },
@@ -2722,7 +2722,7 @@
       "investigative_direction": "Confirm the date and press release of the CEO announcement and his appointment dates.",
       "transcript_snippet": "that hospital had just announced that they had a a brand new CEO and had surgeon named Andrew Zenger.",
       "mentions_person_refs": [
-        "N-136",
+        "N-135",
         "N-3"
       ]
     },
@@ -2764,7 +2764,7 @@
       "investigative_direction": "Compare the hospital's press release date with the tour announcement date.",
       "transcript_snippet": "that was also the day that they announced Charlie's tour. They announced five dates and two of them were in Utah",
       "mentions_person_refs": [
-        "N-136",
+        "N-135",
         "N-1",
         "N-3"
       ]

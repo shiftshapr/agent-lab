@@ -1,0 +1,754 @@
+[
+ {
+  "claim": "C-14537",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Comment ends \"They know something and maybe they can't lie anymore\"; host does not say she agrees there.",
+  "fix": {
+   "claim": "A viewer comment the host reads says people at the top are resigning, naming Joe Kent and the police at Orem, and says they know something."
+  }
+ },
+ {
+  "claim": "C-14538",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"About I think seven sets of prints on it\" - hedge dropped.",
+  "fix": {
+   "claim": "The host says the evidence cited is that the gun had multiple sets of prints on it, about seven she thinks, and that it would not be hard to take somebody's gun."
+  }
+ },
+ {
+  "claim": "C-14539",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"They cannot prove...\" about the feds/\"they\", not \"prosecutors\".",
+  "fix": {
+   "claim": "The host says the feds cannot prove the gun was fired and killed Charlie Kirk and cannot connect it to Charlie Kirk, and adds that it was not fired because the bomb dogs went over there and did not find the gun."
+  }
+ },
+ {
+  "claim": "C-14540",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14541",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14542",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14543",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14544",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript gives no date; \"September 10\" is added.",
+  "fix": {
+   "claim": "The host recounts that she was at her table working on her show when someone came downstairs and said Charlie had been shot, and that she then called Tucker Carlson and Andrew Kolvet and texted with both."
+  }
+ },
+ {
+  "claim": "C-14545",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Sold-out claim is the commenter Jen Travis's; host says \"I really didn't know\" and asks \"Should we do a soft drop of a hundred more\", will ask her husband.",
+  "fix": {
+   "claim": "A viewer comment the host reads says the Stand With Candace cup is sold out; the host says she did not know and asks whether to do a soft drop of a hundred more, saying she will talk to her husband."
+  }
+ },
+ {
+  "claim": "C-14546",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "The Googled-in-Israel line is the commenter's; host answers \"the answer is yes\", not that it \"matches\".",
+  "fix": {
+   "claim": "The host says Israel runs X and that X is like a little Israel, answering yes to a commenter who asks about Israel spying on X users."
+  }
+ },
+ {
+  "claim": "C-14547",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14548",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14549",
+  "episode": 85,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2609",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2610",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Statement is the defense filing's, read by host; claim lacks \"Per the filing\".",
+  "fix": {
+   "claim": "Per the defense filing the host reads, the ATF was unable to identify the bullet recovered at autopsy to the rifle allegedly tied to Tyler Robinson, according to an ATF summary report provided to the defense."
+  }
+ },
+ {
+  "claim": "C-2611",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2612",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2613",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Dates come from the filing the host reads; claim states them without attribution.",
+  "fix": {
+   "claim": "Per the defense filing the host reads, the autopsy report, completed September 16, 2025, was not provided to the defense until November 13, 2025."
+  }
+ },
+ {
+  "claim": "C-2614",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2615",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2616",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2617",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Filing: \"three identified law enforcement witnesses\" and buckets incl. \"testimony by law enforcement officials about the crime scene and search locations\"; claim drops that and says three categories.",
+  "fix": {
+   "claim": "Per the defense filing the host reads, the state intends to present through three identified law enforcement witnesses conclusory forensic DNA and ballistics reports authored by the FBI and ATF, phone and social media data, testimony by law enforcement officials about the crime scene and search locations, and testimony by Tyler Robinson's parents and roommate.",
+   "label": "Four Evidence Buckets Through Three Witnesses at Preliminary Hearing"
+  }
+ },
+ {
+  "claim": "C-2618",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2619",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2620",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2621",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2622",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Frank Turek is absolutely a liar\" is spoken about 15s into the 58:46 block (~58:59); claim timestamp 59:52 is ~50s late.",
+  "fix": {
+   "timestamp": "00:58:50"
+  }
+ },
+ {
+  "claim": "C-2623",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The \"within 30 minutes / how did he know Erika\" argument is the producer Ashley's, not Kim Haven's; host then says \"you're right. It did not ring true.\"",
+  "fix": {
+   "claim": "The host says Frank Turek's account of announcing \"He's dead. He's dead. I need to speak to Erika\" did not ring true, citing her producer Ashley's questions about how he knew Erika's name within 30 minutes and saying it feels like someone writing a script."
+  }
+ },
+ {
+  "claim": "C-2624",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host asserts this herself (\"The feds will do it. If ATF isn't going to be corrupt, we'll be corrupt\"); she is not concurring with anyone.",
+  "fix": {
+   "claim": "The host says the FBI's planned bullet lead analysis in the Tyler Robinson case is the feds telling the defense they will make the bullet fit no matter what, and that if ATF is not going to be corrupt, they will be corrupt.",
+   "label": "Host Says FBI CBLA Revival Is Corrupt"
+  }
+ },
+ {
+  "claim": "C-2625",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3750",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10299",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10300",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"a mere what was it? 4 minutes\" - host unsure of the figure.",
+  "fix": {
+   "claim": "The host says that, a mere four minutes she thinks, after Charlie Kirk was carried to the SUV, Tarro Farnsworth came down from his recording position, took the chair Kirk had been sitting in, stood on it and removed the SD card from the camera behind Kirk's head."
+  }
+ },
+ {
+  "claim": "C-10301",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"maybe you've used them for over a decade\" refers to Turning Point, hedged; \"trying something different that day, he says\" is Farnsworth's account.",
+  "fix": {
+   "claim": "The host says Farnsworth runs the audio-visual company Turning Point employs, which she says it may have used for over a decade for its big events, and that he never goes to these college events but, he says, they were trying something different that day."
+  }
+ },
+ {
+  "claim": "C-10302",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10303",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10304",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10305",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10306",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10307",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10308",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10309",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10310",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10311",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10312",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10313",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10314",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10315",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10316",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10317",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10318",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host describes two changes (skin, thorax, then Harpole); \"three times\" in title is not said.",
+  "fix": {
+   "label": "Host Says the Official Bullet Account Kept Changing"
+  }
+ },
+ {
+  "claim": "C-10319",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10320",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10321",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10322",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10323",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10324",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10325",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10326",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10327",
+  "episode": 86,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

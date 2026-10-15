@@ -12,14 +12,14 @@
 - **Model Version**: grok-manual-extract-seq161
 
 - **Episode Ledger Summary**:
-  - Tip-minted Nodes (supplement_2026-10d): N-873, N-11266, N-11267, N-11268
+  - Tip-minted Nodes (supplement_2026-10d): N-872, N-11266, N-11267, N-11268
   - Claim Range (supplement_2026-10d): C-10590–C-10642
   - New Nodes Introduced: N-10880, N-10881, N-10882, N-10884, N-10886, N-10889, N-10890, N-10891, N-10892
-  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-102, N-118, N-119, N-148, N-161, N-172, N-192, N-203, N-261, N-268, N-279, N-37, N-331, N-556, N-595, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-300, N-10887, N-10888, N-354, N-355, N-283, N-10885, N-745, N-10566, N-10728, N-10923, N-874, N-10883
-  - Hole-minted Nodes (seq161): N-303
-  - Hole-minted Nodes (wave1): N-353, N-356, N-357, N-358, N-359, N-360
+  - Reused Nodes Appearing: N-1, N-2, N-3, N-4, N-5, N-7, N-14, N-18, N-24, N-30, N-40, N-46, N-69, N-97, N-102, N-118, N-119, N-147, N-160, N-171, N-191, N-202, N-260, N-267, N-278, N-37, N-330, N-555, N-594, N-10000, N-10013, N-10026, N-10249, N-10744, N-10815, N-10874, N-10875, N-299, N-10887, N-10888, N-353, N-354, N-282, N-10885, N-744, N-10566, N-10728, N-10923, N-873, N-10883
+  - Hole-minted Nodes (seq161): N-302
+  - Hole-minted Nodes (wave1): N-352, N-355, N-356, N-357, N-358, N-359
   - (see registers)
-  - Person band: new persons were minted into free holes N-283, N-300 and N-303 (Hole-minted line, batch seq161); the other eight were re-minted in Wave 1 at N-353..N-360 (Hole-minted line, batch wave1). New Nodes Introduced lists the topic band only. No person id in the topic band. Mark Herman (N-67) is not named; on-air "Chris" reused as N-102. Sponsor reads (PreBorn, Wellness Company, Cozy Earth, Tax Network USA, American Financing) treated as non-claim.
+  - Person band: new persons were minted into free holes N-282, N-299 and N-302 (Hole-minted line, batch seq161); the other eight were re-minted in Wave 1 at N-352..N-359 (Hole-minted line, batch wave1). New Nodes Introduced lists the topic band only. No person id in the topic band. Mark Herman (N-67) is not named; on-air "Chris" reused as N-102. Sponsor reads (PreBorn, Wellness Company, Cozy Earth, Tax Network USA, American Financing) treated as non-claim.
   - Claim/artifact ids start at C-3680 / A-2497 to sit after open PR #56 tip (C-3679 / A-2496) and avoid fork collisions.
   - Memes dense from tip M-60: new M-61..M-73 (Conspiracy Girly is M-21 occurrence, not a new id). Near-DIA tip-line / merch beats get own claims+artifacts; no exact M-12/M-14 brand line in this transcript.
 
@@ -45,7 +45,7 @@ Video Timestamp: 00:01:42
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (as read/shown on air); Medium (undisclosed-hire framing)
 
-*Related: C-3680, C-3681, N-283, N-10885, N-10888, N-10815, N-3*
+*Related: C-3680, C-3681, N-282, N-10885, N-10888, N-10815, N-3*
 
 ---
 
@@ -58,7 +58,7 @@ Video Timestamp: 00:09:15
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (campaign text as shown); Medium (leak provenance)
 
-*Related: C-3682, C-3683, C-3684, N-10880, N-10881, N-10883, N-10013, N-10000, N-18, N-303, N-3*
+*Related: C-3682, C-3683, C-3684, N-10880, N-10881, N-10883, N-10013, N-10000, N-18, N-302, N-3*
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:14:10
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (article as read); Medium (budget figures as reported)
 
-*Related: C-3685, C-3686, C-3687, N-10889, N-356, N-353, N-10886, N-14, N-10000*
+*Related: C-3685, C-3686, C-3687, N-10889, N-355, N-352, N-10886, N-14, N-10000*
 
 ---
 
@@ -84,7 +84,7 @@ Video Timestamp: 00:21:21
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (as attributed to Atlantic); Medium (Enclave role unspecified in article)
 
-*Related: C-3688, C-3689, N-10891, N-10882, N-354, N-357, N-358, N-359, N-2, N-10887*
+*Related: C-3688, C-3689, N-10891, N-10882, N-353, N-356, N-357, N-358, N-2, N-10887*
 
 ---
 
@@ -110,7 +110,7 @@ Video Timestamp: 00:27:17
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (clip as aired)
 
-*Related: C-3692, N-354, N-355, N-2, M-67*
+*Related: C-3692, N-353, N-354, N-2, M-67*
 
 ---
 
@@ -123,7 +123,7 @@ Video Timestamp: 00:49:58
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: High (clip as aired); Medium (origin claim)
 
-*Related: C-3693, N-10890, N-172, N-203*
+*Related: C-3693, N-10890, N-171, N-202*
 
 ---
 
@@ -149,7 +149,7 @@ Video Timestamp: 00:44:24
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Medium
 
-*Related: C-10622, C-10623, N-3, N-353, N-10880, N-10881, N-102*
+*Related: C-10622, C-10623, N-3, N-352, N-10880, N-10881, N-102*
 
 ---
 
@@ -162,7 +162,7 @@ Video Timestamp: 00:26:16
 Discovery Timestamp: 00:00:00-00:00:01
 Confidence Level: Low
 
-*Related: C-10608, C-10609, N-354, N-2, N-69, N-11266*
+*Related: C-10608, C-10609, N-353, N-2, N-69, N-11266*
 
 ---
 
@@ -218,7 +218,7 @@ Evidence Count: 4
 Claim Count: 5
 Episode Count: 1
 
-*Related: C-3682, C-3685, C-3690, A-2498.1, A-2499.1, A-2501.1, N-353, N-10881*
+*Related: C-3682, C-3685, C-3690, A-2498.1, A-2499.1, A-2501.1, N-352, N-10881*
 
 ---
 
@@ -231,7 +231,7 @@ Evidence Count: 3
 Claim Count: 4
 Episode Count: 1
 
-*Related: C-3682, C-3683, C-3685, A-2498.1, N-10880, N-353*
+*Related: C-3682, C-3683, C-3685, A-2498.1, N-10880, N-352*
 
 ---
 
@@ -244,7 +244,7 @@ Evidence Count: 2
 Claim Count: 3
 Episode Count: 1
 
-*Related: C-3688, C-3689, A-2500.1, N-354, N-10887*
+*Related: C-3688, C-3689, A-2500.1, N-353, N-10887*
 
 ---
 
@@ -283,7 +283,7 @@ Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 
-*Related: C-3680, C-3681, A-2497.1, N-283, N-10888*
+*Related: C-3680, C-3681, A-2497.1, N-282, N-10888*
 
 ---
 
@@ -296,7 +296,7 @@ Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 
-*Related: C-3685, A-2499.1, N-353*
+*Related: C-3685, A-2499.1, N-352*
 
 ---
 
@@ -322,7 +322,7 @@ Evidence Count: 1
 Claim Count: 2
 Episode Count: 1
 
-*Related: C-3680, C-3681, N-283, N-595*
+*Related: C-3680, C-3681, N-282, N-594*
 
 ---
 
@@ -335,7 +335,7 @@ Evidence Count: 1
 Claim Count: 3
 Episode Count: 1
 
-*Related: C-3685, C-3686, C-3687, A-2499.1, N-356*
+*Related: C-3685, C-3686, C-3687, A-2499.1, N-355*
 
 ---
 
@@ -348,7 +348,7 @@ Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 
-*Related: C-3693, A-2503.1, N-172*
+*Related: C-3693, A-2503.1, N-171*
 
 ---
 
@@ -378,7 +378,7 @@ Episode Count: 1
 
 ---
 
-**N-283** Jennica Pounds
+**N-282** Jennica Pounds
 
 Node Type: Person
 X personality "data republican"; host says she was a DoD special government employee who posted an anti-Candace thread without disclosure, then resigned.
@@ -387,7 +387,7 @@ X personality "data republican"; host says she was a DoD special government empl
 
 ---
 
-**N-353** Matt Servius
+**N-352** Matt Servius
 
 Node Type: Person
 Latvian operator promoting Elephant Clipping under Monster Lab / Clippet trade names; LinkedIn framed as running not owning.
@@ -396,25 +396,25 @@ Latvian operator promoting Elephant Clipping under Monster Lab / Clippet trade n
 
 ---
 
-**N-354** Blake Wynn
+**N-353** Blake Wynn
 
 Node Type: Person
 Enclave and Key CEO; Steve Wynn's nephew; framed as Erika Kirk close friend supplying/adjacent to early Erika clip drives and public appearances.
 
-*Related: C-3688, C-3689, C-3692, A-2500.1, A-2502.1, N-10882, N-2, N-355*
+*Related: C-3688, C-3689, C-3692, A-2500.1, A-2502.1, N-10882, N-2, N-354*
 
 ---
 
-**N-355** Steve Wynn
+**N-354** Steve Wynn
 
 Node Type: Person
 Billionaire conservative mega-donor; uncle of Blake Wynn; non-response to Atlantic comment request noted.
 
-*Related: C-3689, C-3692, N-354, N-10887*
+*Related: C-3689, C-3692, N-353, N-10887*
 
 ---
 
-**N-356** Ali Breland
+**N-355** Ali Breland
 
 Node Type: Person
 Atlantic journalist credited for the elephant-clipping investigation the host walks through.
@@ -423,7 +423,7 @@ Atlantic journalist credited for the elephant-clipping investigation the host wa
 
 ---
 
-**N-357** Jules Katz
+**N-356** Jules Katz
 
 Node Type: Person
 Enclave and Key chief of staff; Atlantic says company-email uploads to campaign Google Drives.
@@ -432,7 +432,7 @@ Enclave and Key chief of staff; Atlantic says company-email uploads to campaign 
 
 ---
 
-**N-358** Benjamin Goodman
+**N-357** Benjamin Goodman
 
 Node Type: Person
 Enclave VP of operations; Atlantic says he reposted drive files after deletions using a non-Enclave email.
@@ -441,7 +441,7 @@ Enclave VP of operations; Atlantic says he reposted drive files after deletions 
 
 ---
 
-**N-359** Jack O'Hara
+**N-358** Jack O'Hara
 
 Node Type: Person
 Head of media production at an Enclave subsidiary; Atlantic says company and personal emails appear on drive uploads.
@@ -450,7 +450,7 @@ Head of media production at an Enclave subsidiary; Atlantic says company and per
 
 ---
 
-**N-300** Miriam Adelson
+**N-299** Miriam Adelson
 
 Node Type: Person
 Host "Miriam Medson" ASR jab about purchasing the presidency for $300M; Vegas/Adelson thread.
@@ -459,7 +459,7 @@ Host "Miriam Medson" ASR jab about purchasing the presidency for $300M; Vegas/Ad
 
 ---
 
-**N-360** Robert F. Kennedy Jr.
+**N-359** Robert F. Kennedy Jr.
 
 Node Type: Person
 Named among Elephant Clipping banned subjects (with Megyn Kelly, Nick Fuentes, Tucker Carlson, Riley Gaines); host also jokes big-pharma wealth may explain the RFK ban.
@@ -468,7 +468,7 @@ Named among Elephant Clipping banned subjects (with Megyn Kelly, Nick Fuentes, T
 
 ---
 
-**N-303** Dean Withers
+**N-302** Dean Withers
 
 Node Type: Person
 Listed with Candace as a non-approved figure in the August TPUSA clipping instructions.
@@ -489,7 +489,7 @@ Assassination and TPUSA succession remain the backdrop; host ties elephant-clipp
 
 Central: early clip seeding, Blake Wynn friendship, CEO optics, emotional-asset framing, gaslight thesis.
 
-*Related: C-3688, C-3692, C-3697, N-10891, N-354*
+*Related: C-3688, C-3692, C-3697, N-10891, N-353*
 
 ---
 
@@ -513,7 +513,7 @@ Listed among figures appearing in Elephant Clipping campaign charts the host dis
 
 Named in Blake Wynn Mar-a-Lago election-night recount and in campaign orbit; prior low-IQ attack recalled in March/April harassment montage.
 
-*Related: C-3686, N-354*
+*Related: C-3686, N-353*
 
 ---
 
@@ -529,7 +529,7 @@ Comments revisit CPR narratives vs unnamed fire captain.
 
 Atlantic quotes him denying TPUSA Latvian contractors; host says talk to friend Blake.
 
-*Related: C-3687, N-10000, N-354*
+*Related: C-3687, N-10000, N-353*
 
 ---
 
@@ -577,7 +577,7 @@ Banned subject on Elephant Clipping instructions per Atlantic.
 
 Blake Wynn says he regularly speaks with Patel; host ties Patel to archive-site hostility and Vegas thread.
 
-*Related: C-3696, N-354*
+*Related: C-3696, N-353*
 
 ---
 
@@ -601,7 +601,7 @@ On-air ask to pull Elephant Clipping flow chart.
 
 Named in Blake Wynn Mar-a-Lago election-night seating recount.
 
-*Related: prose, N-354*
+*Related: prose, N-353*
 
 ---
 
@@ -613,7 +613,7 @@ Atlantic: sub-campaigns offer extra money for favorable Vivek clips (Ohio govern
 
 ---
 
-**N-148** Theo Von
+**N-147** Theo Von
 
 Host notes Theo Von episode released / >1M views; kids call him Uncle Theo.
 
@@ -621,7 +621,7 @@ Host notes Theo Von episode released / >1M views; kids call him Uncle Theo.
 
 ---
 
-**N-161** Blake Neff
+**N-160** Blake Neff
 
 Commenter analogy "Blake Neff thing" for high-place gaslighting; host agrees pattern.
 
@@ -629,7 +629,7 @@ Commenter analogy "Blake Neff thing" for high-place gaslighting; host agrees pat
 
 ---
 
-**N-172** Tate Brothers (Andrew and Tristan)
+**N-171** Tate Brothers (Andrew and Tristan)
 
 Andrew Tate credited as clipping-economy pioneer via Hustlers University; Romania/UK filings teased for later.
 
@@ -637,7 +637,7 @@ Andrew Tate credited as clipping-economy pioneer via Hustlers University; Romani
 
 ---
 
-**N-192** Mikey McCoy
+**N-191** Mikey McCoy
 
 Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the September 15 drive.
 
@@ -645,7 +645,7 @@ Host guesses early Erika vacation clips shot by Mikey McCoy and wife fed the Sep
 
 ---
 
-**N-203** Nick Fuentes
+**N-202** Nick Fuentes
 
 Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among Elephant Clipping banned subjects.
 
@@ -653,7 +653,7 @@ Banned on Instagram/YouTube yet clipped widely; Atlantic also lists him among El
 
 ---
 
-**N-261** Steven Crowder
+**N-260** Steven Crowder
 
 Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives; producer sneak-in for Wilson debate recalled.
 
@@ -661,7 +661,7 @@ Atlantic: Crowder campaign on Monster Lab (~$30k) also linked to Enclave drives;
 
 ---
 
-**N-268** Brian Harpole
+**N-267** Brian Harpole
 
 Comments: hospital supposedly did not know they were coming vs redirect audio to Timpanogos.
 
@@ -669,7 +669,7 @@ Comments: hospital supposedly did not know they were coming vs redirect audio to
 
 ---
 
-**N-279** Tim Dillon
+**N-278** Tim Dillon
 
 Host joke about booking Theo Von and Tim Dillon when super pregnant.
 
@@ -685,15 +685,15 @@ Named as boosting Pounds thread and as on Howard Hughes Inc board today.
 
 ---
 
-**N-331** Tulsi Gabbard
+**N-330** Tulsi Gabbard
 
 Extra-money sub-campaigns and Instagram photos with Kirks/Wynn noted.
 
-*Related: C-3685, N-354*
+*Related: C-3685, N-353*
 
 ---
 
-**N-556** Carrie Prejean Bowler
+**N-555** Carrie Prejean Bowler
 
 Traveling with Candace in Spain when coordinated smear wave hit.
 
@@ -701,7 +701,7 @@ Traveling with Candace in Spain when coordinated smear wave hit.
 
 ---
 
-**N-595** Pete Hegseth
+**N-594** Pete Hegseth
 
 Pounds resignation praises Hegseth leadership; DoW framing.
 
@@ -753,7 +753,7 @@ Prior Hughes topic reused for Las Vegas company takeover narrative.
 
 Pounds thread reinforced NCRI step-by-step blaming Candace for Erika dehumanization.
 
-*Related: C-3680, N-283*
+*Related: C-3680, N-282*
 
 ---
 
@@ -761,7 +761,7 @@ Pounds thread reinforced NCRI step-by-step blaming Candace for Erika dehumanizat
 
 Comments continue: fire captain CPR on a body dead ~15 minutes as dog not barking; still seeking identity.
 
-*Related: C-3698, N-268, N-7*
+*Related: C-3698, N-267, N-7*
 
 ---
 
@@ -773,7 +773,7 @@ Opening satire of commenters volunteering as nannies after yesterday's Candyland
 
 ---
 
-**N-873** Dana White
+**N-872** Dana White
 
 First named by the host at 00:30:50 in episode 161 (reading the Atlantic article). UFC CEO listed among those Blake Wynn says sat near Trump at Mar-a-Lago on election night 2024.
 
@@ -781,7 +781,7 @@ First named by the host at 00:30:50 in episode 161 (reading the Atlantic article
 
 ---
 
-**N-874** Steve Witkoff
+**N-873** Steve Witkoff
 
 First named by the host at 00:30:50 in episode 161 (transcribed "Steve Witco"). Trump's friend and special envoy, listed in the same Mar-a-Lago election-night account.
 
@@ -818,7 +818,7 @@ The host's statement that the domain vancekirk.com was purchased on September 12
 
 ---
 
-**N-745** Howard Hughes
+**N-744** Howard Hughes
 
 Las Vegas billionaire whose company the host says was chopped up.
 
@@ -857,7 +857,7 @@ Existing topic reused for the "go home" exit video.
 Claim Timestamp: 00:01:42
 Claim: The host says Jennica Pounds (data republican), hired by the Department of War as a special government employee around the Tyler Robinson preliminary-hearing week in July, posted a long X thread attacking Candace and her audience's treatment of Erika, reinforcing the NCRI report and a 30-06 deer analogy, without disclosing she was working for DoD; the thread was boosted by Andrew Kolvet and Bill Ackman as if organic.
 Anchored Artifacts: A-2497.1
-Mentions: N-283, N-3, N-2, N-14, N-37, N-40
+Mentions: N-282, N-3, N-2, N-14, N-37, N-40
 Related Nodes: N-10885, N-10888, N-10815
 Investigative Direction: Archive the thread + employment paperwork dates; compare boost graph to paid clipping windows.
 
@@ -872,7 +872,7 @@ Claim: C-3680 spells the name 'Bill Ackman' (auto-caption form). The person is B
 Transcript Snippet: her thread was instantly boosted by the likes of Andrew Kolvet and Bill Ackman pretending to have casually stumbled upon it.
 
 Anchored Artifacts: A-2497.1
-Mentions: N-37, N-14, N-283
+Mentions: N-37, N-14, N-282
 Related Nodes: N-10885
 Revises: C-3680
 Confidence: medium
@@ -885,7 +885,7 @@ Investigative Direction: Read with C-3680; archive the boosting posts under the 
 Claim Timestamp: 00:04:02
 Claim: The host reads Pounds's X resignation from the Department of War (honoring Hegseth leadership; stepping back for book tour and midterms) and calls her a fraud for not revealing the DoD role, adding a joking "where were you on 9/10" jab.
 Anchored Artifacts: A-2497.1
-Mentions: N-283, N-595
+Mentions: N-282, N-594
 Related Nodes: N-10885, N-10888
 Investigative Direction: Preserve resignation post; confirm SGE appointment dates vs thread timestamps.
 
@@ -908,7 +908,7 @@ Supports: C-3617
 Claim Timestamp: 00:10:03
 Claim: On a leaked Monster Lab / Elephant Clipping campaign card, the host shows a $120,000 August 3-31 pool at $300 per 1M views for Charlie Kirk / TPUSA clips with explicit instructions: only approved Turning Point affiliates; Candace Owens, Dean Withers, and others are not approved figures.
 Anchored Artifacts: A-2498.1
-Mentions: N-3, N-303, N-1
+Mentions: N-3, N-302, N-1
 Related Nodes: N-10881, N-10000, N-10880
 Investigative Direction: Hash-preserve campaign screenshots and Discord message IDs.
 
@@ -931,7 +931,7 @@ Investigative Direction: Align Discord timestamps with TPUSA public denial state
 Claim Timestamp: 00:14:10
 Claim: Per Ali Breland's Atlantic investigation as read on air, Matt Servius in Latvia runs Elephant Clipping / Clippet paying Eastern Europe and Global South subcontractors to post bite-sized conservative clips designed to look like organic American GOP support, with Discord as the staffing channel and budgets sometimes listed near $900,000; the piece also lists banned subjects including RFK Jr., Megyn Kelly, Nick Fuentes, Tucker Carlson, and Riley Gaines, plus paid sub-campaigns for Vivek Ramaswamy and Tulsi Gabbard and $30k Shapiro/Crowder campaigns.
 Anchored Artifacts: A-2499.1
-Mentions: N-356, N-353, N-360, N-46, N-203, N-24, N-119, N-331, N-97, N-261, N-22
+Mentions: N-355, N-352, N-359, N-46, N-202, N-24, N-119, N-330, N-97, N-260, N-22
 Related Nodes: N-10889, N-10886, N-10881, N-10880, N-10013
 Investigative Direction: Preserve Atlantic article + Servius promo videos; map budget months to Candace harassment windows.
 
@@ -965,7 +965,7 @@ Investigative Direction: Compare Kolvet statement to Discord TPUSA campaign lang
 Claim Timestamp: 00:21:21
 Claim: Per the Atlantic account the host highlights, Google Drive folders for the TPUSA-linked campaign contained mostly Erika Kirk videos uploaded September 15, 2025 (five days after Charlie's assassination) by Enclave and Key employees Jules Katz, Benjamin Goodman, and Jack O'Hara, with Blake Wynn as Enclave CEO.
 Anchored Artifacts: A-2500.1
-Mentions: N-2, N-1, N-354, N-357, N-358, N-359
+Mentions: N-2, N-1, N-353, N-356, N-357, N-358
 Related Nodes: N-10891, N-10882, N-10887
 Investigative Direction: Subpoena/archive drive file lists and uploader emails; identify which widow clips were seeded.
 
@@ -976,7 +976,7 @@ Investigative Direction: Subpoena/archive drive file lists and uploader emails; 
 Claim Timestamp: 00:28:58
 Claim: The host reads that after Breland contacted the Wynns and Enclave, campaign video folders uploaded by Katz and O'Hara disappeared, Goodman reposted files from a non-Enclave email, Elephant Clipping / US politics channels were delisted from public Clippet Discords, Monster Lab campaign descriptions were stripped, and Enclave drives were taken down.
 Anchored Artifacts: A-2500.1
-Mentions: N-354, N-355, N-357, N-358, N-359, N-356
+Mentions: N-353, N-354, N-356, N-357, N-358, N-355
 Related Nodes: N-10882, N-10880, N-10013
 Investigative Direction: Timeline deletions vs reporter emails; recover drive revisions from recipients.
 
@@ -1009,7 +1009,7 @@ Investigative Direction: Recover pre-wipe September 12-14 HTML; list first campa
 Claim Timestamp: 00:27:17
 Claim: On the Fargo Talks clip, Blake Wynn says he was at breakfast with the host when Charlie was shot and places Erika Kirk in a rare bucket of people he looks up to as human beings (alongside uncle Steve and a few others); Candace rejects romance rumors and frames a business relationship.
 Anchored Artifacts: A-2502.1
-Mentions: N-354, N-2, N-355
+Mentions: N-353, N-2, N-354
 Related Nodes: N-10882
 Investigative Direction: Preserve full Fargo Talks episode; map Blake-Erika public appearances list.
 
@@ -1020,7 +1020,7 @@ Investigative Direction: Preserve full Fargo Talks episode; map Blake-Erika publ
 Claim Timestamp: 00:49:58
 Claim: Via the Edson interview clip, the show presents Andrew Tate's 2021 Hustlers University as the pioneering clip-army model (affiliate accounts, livestream clipping, commission links) later imitated by political clipping ops including the Erika/TPUSA-adjacent machine.
 Anchored Artifacts: A-2503.1
-Mentions: N-172, N-203
+Mentions: N-171, N-202
 Related Nodes: N-10890
 Investigative Direction: Document Hustlers University affiliate mechanics vs Monster Lab Discord payout rules.
 
@@ -1055,7 +1055,7 @@ Notes: Conspiracy Girly is existing M-21 (first_episode 55); this episode is an 
 Claim Timestamp: 00:45:09
 Claim: Overlaying prior Mormon Mafia / Howard Hughes coverage, the host ties Blake Wynn's Erika Google Drive, Bill Ackman's Hughes Inc board seat, Kash Patel's Las Vegas roots, and Miriam Adelson ("Medson") presidency-purchase jab into a Vegas syndicate with money for million-dollar anti-Candace / pro-Erika campaigns.
 Anchored Artifacts: A-2500.1
-Mentions: N-354, N-37, N-69, N-300, N-355
+Mentions: N-353, N-37, N-69, N-299, N-354
 Related Nodes: N-10887, N-10249, N-10744, N-10882
 Investigative Direction: Map corporate ownership links among Enclave, Hughes remnants, and Adelson/Wynn entities.
 
@@ -1151,7 +1151,7 @@ Claim: The host says she was in Spain with the show off air for two weeks during
 Transcript Snippet: You remember um I was away in Spain. That's why it was even more odd. The show was off air two weeks and despite this I was being inundated from every direction with these sorts of attacks.
 
 Anchored Artifacts:
-Mentions: N-3, N-556
+Mentions: N-3, N-555
 Related Nodes: N-10883
 Tags: relevance:context
 Investigative Direction: Compare the dates of the show hiatus with the Discord campaign windows and the volume of anti-Candace posts that week.
@@ -1167,7 +1167,7 @@ Claim: The host says groups who deny paying attackers often pay through a PR fir
 Transcript Snippet: in the case of Genica, the Department of War is paying Genica. Um, in many other circumstances, it's a PR firm that's in the middle.
 
 Anchored Artifacts: A-2497.1
-Mentions: N-283
+Mentions: N-282
 Related Nodes: N-10888, N-10883
 Supports: C-3336
 Tags: relevance:core
@@ -1216,7 +1216,7 @@ Claim: The host says the Latvian man who runs Monster Lab and Clipit, Matt Servi
 Transcript Snippet: He is also the number one person that is creating these campaigns on the website.
 
 Anchored Artifacts: A-2498.1
-Mentions: N-353
+Mentions: N-352
 Related Nodes: N-10880, N-10881
 Tags: relevance:context
 Investigative Direction: Count campaign creators on the Monster Lab site and confirm Servius's account in Discord.
@@ -1264,7 +1264,7 @@ Claim: The host says an Atlantic journalist (Ali Breland) received a tip about t
 Transcript Snippet: a journalist over at the Atlantic did a deep dive after they also received a tip. In addition, they received access because this group is closed on Discord by someone who wanted to expose what was happening.
 
 Anchored Artifacts: A-2499.1
-Mentions: N-356
+Mentions: N-355
 Related Nodes: N-10889, N-10013
 Tags: relevance:core
 Investigative Direction: Read the published Atlantic article and its sourcing note.
@@ -1296,7 +1296,7 @@ Claim: The host reads the Atlantic's account that Servius, in a video, says peop
 Transcript Snippet: If you're not from the USA, like what the f is even Republicans like me, then simply go to Gemini or chat GPT.
 
 Anchored Artifacts: A-2499.1
-Mentions: N-353, N-356
+Mentions: N-352, N-355
 Related Nodes: N-10889
 Tags: relevance:context
 Investigative Direction: View Servius's recruitment video and quote it in full.
@@ -1312,7 +1312,7 @@ Claim: The host says she cannot confirm Clippet is Servius's company, that the w
 Transcript Snippet: we cannot confirm that this is his company. And the website itself makes it clear that Clippet is not the true company name, but rather the trade name
 
 Anchored Artifacts: A-2499.1
-Mentions: N-353
+Mentions: N-352
 Related Nodes: N-10880
 Tags: relevance:context
 Investigative Direction: Search for LLC or DBA filings behind Monster Lab and Clipit.
@@ -1328,7 +1328,7 @@ Claim: The host reads that the Atlantic reporter accessed the Elephant Clipping 
 Transcript Snippet: I was able to access its Discord server and other related political clipping campaign chats chats just by clicking join
 
 Anchored Artifacts: A-2499.1
-Mentions: N-356
+Mentions: N-355
 Related Nodes: N-10889, N-10013
 Tags: relevance:core
 Investigative Direction: Confirm with the reporter how access was granted and what was visible.
@@ -1344,7 +1344,7 @@ Claim: The host reads that Discord budget records go back only to April but Serv
 Transcript Snippet: Discord records for Elephant Clipping's budget go back only to April, but the campaign has been going on for about a year now, Cervius said in a video posted that month.
 
 Anchored Artifacts: A-2499.1
-Mentions: N-353, N-356, N-1
+Mentions: N-352, N-355, N-1
 Related Nodes: N-10881, N-10889
 Tags: relevance:core
 Investigative Direction: Locate the Servius video and its upload date.
@@ -1377,7 +1377,7 @@ Claim: The host guesses that the seeded clips were the early images of Charlie a
 Transcript Snippet: I think it's the one of Charlie and her walking with the kids. I think it's her in the casket. Everything we saw in those early days was by design.
 
 Anchored Artifacts: A-2500.1
-Mentions: N-2, N-1, N-192
+Mentions: N-2, N-1, N-191
 Related Nodes: N-10891
 Tags: relevance:core
 Investigative Direction: Obtain the Google Drive file list and compare with the clips in circulation Sept 10-20.
@@ -1393,7 +1393,7 @@ Claim: The host reads that Enclave and Key's CEO and founder is Blake Wynn, a 26
 Transcript Snippet: Enclave Keys CEO and founder is Blake Wyn, the 26-year-old nephew of the billionaire and conservative mega donor Steve Wyn.
 
 Anchored Artifacts: A-2500.1
-Mentions: N-354, N-355
+Mentions: N-353, N-354
 Related Nodes: N-10882
 Tags: relevance:core
 Investigative Direction: Check Nevada corporate filings for Enclave and Key officers.
@@ -1409,7 +1409,7 @@ Claim: The host reads that Blake Wynn answered the Atlantic's questions with "Th
 Transcript Snippet: he responded, quote, "There are a number of inaccuracies," end quote, but declined to offer further clarification
 
 Anchored Artifacts: A-2500.1
-Mentions: N-354
+Mentions: N-353
 Related Nodes: N-10882
 Tags: relevance:core
 Investigative Direction: Request the specific inaccuracies and the full Enclave and Key statement.
@@ -1425,7 +1425,7 @@ Claim: The host says Blake Wynn has been by Erika Kirk's side at events since Ch
 Transcript Snippet: uh Turning Point USA's annual winter gala. Uh she was he was there as well also for the opening of Club America in Little Rock, Arkansas March 11th, 2026.
 
 Anchored Artifacts: A-3088.1
-Mentions: N-354, N-2
+Mentions: N-353, N-2
 Related Nodes: N-11266, N-10000
 Tags: relevance:core
 Investigative Direction: Collect photos and guest lists for each event.
@@ -1441,7 +1441,7 @@ Claim: The host says Blake Wynn was at Erika Kirk's side walking out holding her
 Transcript Snippet: He was there by her side walking out with her holding her bag next to Kash Patel and they were outside by the cars.
 
 Anchored Artifacts: A-3088.1
-Mentions: N-354, N-2, N-69
+Mentions: N-353, N-2, N-69
 Related Nodes: N-11266, N-10923
 Tags: relevance:core
 Investigative Direction: Identify everyone visible in the exit video and who recorded it.
@@ -1457,7 +1457,7 @@ Claim: The host reads that on a November 2025 podcast, Bring the Juice, Blake Wy
 Transcript Snippet: he said that he and Enclave and Key do a lot of work in politics. Wyn also said that he regularly speaks with FBI director Kash Patel and that he was good friends with Kirk.
 
 Anchored Artifacts: A-2500.1
-Mentions: N-354, N-69, N-1
+Mentions: N-353, N-69, N-1
 Related Nodes: N-10882
 Tags: relevance:core
 Investigative Direction: Watch the Bring the Juice interview and request any Patel contact logs.
@@ -1473,7 +1473,7 @@ Claim: The host reads that Blake Wynn recounted sitting next to Trump at Mar-a-L
 Transcript Snippet: recounted sitting next to Trump at Mara Lago on election night in 2024 alongside Elon Musk, UFC CEO Dana White, and Steve Witco, Trump's friend and special envoy.
 
 Anchored Artifacts: A-2500.1
-Mentions: N-354, N-5, N-118, N-873, N-874
+Mentions: N-353, N-5, N-118, N-872, N-873
 Related Nodes: N-10882
 Tags: relevance:context
 Investigative Direction: Verify seating accounts in the Bring the Juice interview.
@@ -1489,7 +1489,7 @@ Claim: The host reads that Blake Wynn has posted Instagram photos at small gathe
 Transcript Snippet: he's posted pictures of himself on Instagram at small gatherings, the White House, and at Mara Lago alongside the Kirks and Tulsi Gabbard, the former director of national intelligence.
 
 Anchored Artifacts: A-2500.1
-Mentions: N-354, N-1, N-2, N-331
+Mentions: N-353, N-1, N-2, N-330
 Related Nodes: N-10882
 Tags: relevance:context
 Investigative Direction: Archive the Instagram posts with dates.
@@ -1521,7 +1521,7 @@ Claim: The host reads that Servius manages Ben Shapiro and Steven Crowder campai
 Transcript Snippet: And Crowder's campaign also links to Enclave and Key connected to the Google Drive.
 
 Anchored Artifacts: A-2499.1
-Mentions: N-261, N-97
+Mentions: N-260, N-97
 Related Nodes: N-10882
 Tags: relevance:context
 Investigative Direction: Ask Crowder and Shapiro representatives about the campaigns.
@@ -1537,7 +1537,7 @@ Claim: The host tells Andrew Kolvet to ask his friend Blake Wynn about the Latvi
 Transcript Snippet: You guys have been on a private plane before together. Feel like you guys know each other.
 
 Anchored Artifacts:
-Mentions: N-14, N-354
+Mentions: N-14, N-353
 Related Nodes:
 Tags: relevance:core
 Investigative Direction: Identify the flight and passenger manifest she refers to.
@@ -1553,7 +1553,7 @@ Claim: The host says Enclave and Key has a corporate footprint in Romania.
 Transcript Snippet: Romania. Romania. I kid you not. I kid you not.
 
 Anchored Artifacts:
-Mentions: N-354
+Mentions: N-353
 Related Nodes: N-10882
 Tags: relevance:core
 Investigative Direction: Check Romanian company registries for Enclave and Key entities.
@@ -1585,7 +1585,7 @@ Claim: The host says Steven Crowder effectively snuck in his producer, would not
 Transcript Snippet: Steven Crowder, we told you he uh effectively snuck in his producer, wouldn't tell us who was coming into my house to back up Andrew Wilson.
 
 Anchored Artifacts:
-Mentions: N-261, N-18
+Mentions: N-260, N-18
 Related Nodes:
 Tags: relevance:context
 Investigative Direction: Identify the producer and the debate-day arrival list.
@@ -1667,7 +1667,7 @@ Claim: The host says the people in the campaigns, as learned from the article an
 Transcript Snippet: People in the campaign we learned the article Tulsi Gabbard, Ben Shapiro, Steven Crowder, Vik Ramoswami, President Trump, JD Vance.
 
 Anchored Artifacts: A-3087.1
-Mentions: N-331, N-97, N-261, N-119, N-5, N-4
+Mentions: N-330, N-97, N-260, N-119, N-5, N-4
 Related Nodes: N-10881
 Tags: relevance:context
 Investigative Direction: Check whether Trump and Vance appear in the Atlantic article or only in the host's chart.
@@ -1683,7 +1683,7 @@ Claim: The host says that after Howard Hughes' company was chopped up, an Adelso
 Transcript Snippet: after his company got chopped up. Adelson got a piece. The Wind family got a piece.
 
 Anchored Artifacts:
-Mentions: N-745
+Mentions: N-744
 Related Nodes: N-10249
 Tags: relevance:tangential
 Investigative Direction: Verify the post-Hughes ownership history of Hughes Summa assets in Las Vegas.
@@ -1699,7 +1699,7 @@ Claim: The host speculates RFK Jr. is banned from clipping because big-pharma we
 Transcript Snippet: I guess that's why they can't clip RFK because, you know, big pharma is a big piece of that wealth.
 
 Anchored Artifacts:
-Mentions: N-360
+Mentions: N-359
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: None beyond the banned-subject list.
@@ -1731,7 +1731,7 @@ Claim: In the aired interview segment, it is said that Nick Fuentes is banned fr
 Transcript Snippet: Nick Fuentes is banned from Instagram. He's banned from YouTube.
 
 Anchored Artifacts: A-2503.1
-Mentions: N-203
+Mentions: N-202
 Related Nodes: N-10890
 Tags: relevance:context
 Investigative Direction: Confirm the platform ban status of Fuentes' accounts.
@@ -1829,7 +1829,7 @@ Claim: The host says Brian Harpole said the hospital did not know they were comi
 Transcript Snippet: Now, Brian did say that the hospital didn't know they were coming, but it certainly sounds like the hospital knew someone was coming because we're listening now to the audio and the chats and they're redirecting to Teenogos.
 
 Anchored Artifacts:
-Mentions: N-268
+Mentions: N-267
 Related Nodes: N-10728, N-10874
 Contradicts: C-3056
 Tags: relevance:core
@@ -1895,7 +1895,7 @@ Claim: The host says her episode with Theo Von was released the previous day on 
 Transcript Snippet: Anyway, uh that was released yesterday on Theon's channel and people have really loved it. I think it I saw that it passed a million views
 
 Anchored Artifacts:
-Mentions: N-148
+Mentions: N-147
 Related Nodes:
 Tags: relevance:tangential
 Investigative Direction: Check view counts on Theo Von's channel.
@@ -2076,7 +2076,7 @@ Confidence: high
 ### Occurrence 1
 
 Video Timestamp: 00:28:06
-Speaker: N-354
+Speaker: N-353
 Quote: but then there's this much more rare bucket Erika Kirk fits into it you fit into it and a couple other people fit into it which is that I look up to you guys as human beings.
 Context: Blake Wynn Fargo Talks clip; host echoes "rare bucket" description of Erika.
 Tags: blake_wynn, erika, first_seen
@@ -2239,7 +2239,7 @@ Confidence: high
 - Sponsor reads (PreBorn, Wellness Company / spike detox, Cozy Earth, Tax Network USA, American Financing) left as non-claim content.
 - Jeff Fargo, Dana White, Steve Witkoff ("Witco"), Edson (clipping-economy interviewer), Jessica Reed Kraus / House Inhabit, and assorted commenters appear in prose only (not minted as Person nodes).
 - Mark Herman (N-67) is not named; on-air "Chris" mapped to existing N-102 Chris.
-- Miriam Adelson minted at N-300 (ASR "Miriam Medson"); distinct from existing Miriam Deed N-289.
+- Miriam Adelson minted at N-299 (ASR "Miriam Medson"); distinct from existing Miriam Deed N-288.
 - Title omits "| Ep N"; Candace Ep 398 inferred from sequence after Ep 397.
 - Claim/artifact IDs begin at C-3680 / A-2497 after open PR #56 ranges to avoid claim_fork on merge.
 - Soft ASR spellings normalized in nodes (Servius, Breland, Wynn) with aliases for transcript variants.
@@ -2249,7 +2249,7 @@ Confidence: high
 - [x] Every artifact has a Related line
 - [x] Every node has a Related line
 - [x] No episode-wide artifact bundle
-- [x] New persons use person-band free holes (N-283+); zero Person nodes in topic band
+- [x] New persons use person-band free holes (N-282+); zero Person nodes in topic band
 - [x] Topics/orgs/places use N-10880..N-10892
 - [x] En dashes in prose, no em dashes outside quotes
 - [x] Claims grounded in corrected transcript timestamps

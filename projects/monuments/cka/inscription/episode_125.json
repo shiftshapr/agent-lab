@@ -400,7 +400,7 @@
           ],
           "related_nodes": [
             "N-3",
-            "N-504",
+            "N-503",
             "N-1"
           ],
           "tags": [],
@@ -420,7 +420,7 @@
           "related_nodes": [
             "N-3",
             "N-1",
-            "N-504"
+            "N-503"
           ],
           "tags": [],
           "event_timestamp": "00:00:00-00:00:01",
@@ -738,8 +738,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-369",
-      "ref": "N-369",
+      "@id": "N-368",
+      "ref": "N-368",
       "name": "Danny Philip",
       "type": "person",
       "description": "Turning Point USA employee (transcript spelling Danny Phillip). During an X Space Blake Neff indicated Danny may have been in the second SUV with him; the host traces his family ties to Merrill Lynch and Bank of America.",
@@ -789,8 +789,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-161",
-      "ref": "N-161",
+      "@id": "N-160",
+      "ref": "N-160",
       "name": "Blake Neff",
       "type": "person",
       "description": "Commenter analogy \"Blake Neff thing\" for high-place gaslighting; host agrees pattern.",
@@ -817,8 +817,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-505",
-      "ref": "N-505",
+      "@id": "N-504",
+      "ref": "N-504",
       "name": "Eliot Spitzer",
       "type": "person",
       "description": "First named by the host at 00:21:23 in episode 125.",
@@ -834,8 +834,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-504",
-      "ref": "N-504",
+      "@id": "N-503",
+      "ref": "N-503",
       "name": "Thomas Patrick",
       "type": "person",
       "description": "First named by the host at 00:19:38 in episode 125.",
@@ -1039,8 +1039,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-156",
-      "ref": "N-156",
+      "@id": "N-155",
+      "ref": "N-155",
       "name": "John Mappin",
       "type": "person",
       "description": "John Mappin; husband of Irina Mappin.",
@@ -1056,8 +1056,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-157",
-      "ref": "N-157",
+      "@id": "N-156",
+      "ref": "N-156",
       "name": "Irina Mappin",
       "type": "person",
       "description": "Irina Mappin (transcript Irina; node alias Arina Mappin); told the host about Russian speakers at the memorial.",
@@ -1073,8 +1073,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-192",
-      "ref": "N-192",
+      "@id": "N-191",
+      "ref": "N-191",
       "name": "Mikey McCoy",
       "type": "person",
       "description": "Mikey McCoy; rented the SUVs and appears in the call logs.",
@@ -1092,8 +1092,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-219",
-      "ref": "N-219",
+      "@id": "N-218",
+      "ref": "N-218",
       "name": "Eliza McCoy",
       "type": "person",
       "description": "Elizabeth McCoy; named with her Ukrainian family.",
@@ -1109,8 +1109,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-266",
-      "ref": "N-266",
+      "@id": "N-265",
+      "ref": "N-265",
       "name": "Andrew K. Smith",
       "type": "person",
       "description": "Andrew K. Smith; interviewer of Kirk's last interview before UVU.",
@@ -1126,8 +1126,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-332",
-      "ref": "N-332",
+      "@id": "N-331",
+      "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
       "description": "Baron Coleman; told the host the shirt was 100% polyester.",
@@ -1143,8 +1143,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-439",
-      "ref": "N-439",
+      "@id": "N-438",
+      "ref": "N-438",
       "name": "Johnny Moore",
       "type": "person",
       "description": "Johnny Moore; Kolvet's former partner and NCRI board member per the host.",
@@ -1160,8 +1160,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-531",
-      "ref": "N-531",
+      "@id": "N-530",
+      "ref": "N-530",
       "name": "Jean-Luc Brunel",
       "type": "person",
       "description": "Jean-Luc Brunel; founder of the modeling firm the host mentions.",
@@ -1535,8 +1535,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-735",
-      "ref": "N-735",
+      "@id": "N-734",
+      "ref": "N-734",
       "name": "Stu Peters",
       "type": "person",
       "description": "First named by the host at 00:09:26 in episode 125. Employer of Blake Neff before Turning Point per the host.",
@@ -1552,8 +1552,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-736",
-      "ref": "N-736",
+      "@id": "N-735",
+      "ref": "N-735",
       "name": "John McGovern",
       "type": "person",
       "description": "First named by the host at 00:11:42 in episode 125 (also Johnny McGovern, McGovern). Works in gifts and fundraising at Turning Point USA per the host.",
@@ -1570,8 +1570,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-737",
-      "ref": "N-737",
+      "@id": "N-736",
+      "ref": "N-736",
       "name": "Ike Perlmutter",
       "type": "person",
       "description": "First named by the host at 00:19:38 in episode 125. Subject of the 2019 check dispute.",
@@ -1587,8 +1587,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-738",
-      "ref": "N-738",
+      "@id": "N-737",
+      "ref": "N-737",
       "name": "Stephen Phillip",
       "type": "person",
       "description": "First named by the host at 00:22:09 in episode 125 (Steven Phillip, Stephen Phillip). Father of Danny Philip.",
@@ -1604,8 +1604,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-739",
-      "ref": "N-739",
+      "@id": "N-738",
+      "ref": "N-738",
       "name": "Dennis Frantzve",
       "type": "person",
       "description": "First named by the host at 00:24:41 in episode 125. Erika Kirk's cousin per the host.",
@@ -1621,8 +1621,8 @@
     },
     {
       "@type": "Person",
-      "@id": "N-740",
-      "ref": "N-740",
+      "@id": "N-739",
+      "ref": "N-739",
       "name": "Leon Black",
       "type": "person",
       "description": "First named by the host at 00:25:34 in episode 125. Epstein associate whose wealth Bank of America Merrill Lynch managed per the host.",
@@ -1771,7 +1771,7 @@
       "investigative_direction": "Flight manifests, airport records, and witness corroboration would verify the passenger list.",
       "mentions_person_refs": [
         "N-1",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -1790,7 +1790,7 @@
       "claim_timestamp": "00:14:07",
       "investigative_direction": "Rental car records, phone location data, and witness statements would verify Blake Neff's stated movement and reconstruct the SUV's route.",
       "mentions_person_refs": [
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -1809,8 +1809,8 @@
       "claim_timestamp": "00:15:25",
       "investigative_direction": "Direct confirmation from Danny Phillip or other witnesses; phone location data for September 10th would verify or falsify the identification.",
       "mentions_person_refs": [
-        "N-369",
-        "N-161"
+        "N-368",
+        "N-160"
       ]
     },
     {
@@ -1829,9 +1829,9 @@
       "claim_timestamp": "00:24:41",
       "investigative_direction": "Genealogical records, family-tree confirmation, public obituaries, or corporate filings would verify the claimed relationship.",
       "mentions_person_refs": [
-        "N-369",
-        "N-505",
-        "N-504"
+        "N-368",
+        "N-504",
+        "N-503"
       ]
     },
     {
@@ -1850,7 +1850,7 @@
       "claim_timestamp": "00:24:41",
       "investigative_direction": "Employment records, corporate directories, or archived LinkedIn data (host notes LinkedIn was cleaned) would verify the employment claim.",
       "mentions_person_refs": [
-        "N-369"
+        "N-368"
       ]
     },
     {
@@ -1989,7 +1989,7 @@
       "investigative_direction": "Obtain the shirt's brand and fabric composition from evidence logs, purchase records or photographs of Kirk wearing it that morning.",
       "transcript_snippet": "Baron Coleman um was here the other day and he told me that he thinks that that particular shirt that Charlie was wearing was 100% polyester",
       "mentions_person_refs": [
-        "N-332",
+        "N-331",
         "N-1",
         "N-3"
       ]
@@ -2009,7 +2009,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
-        "N-161",
+        "N-160",
         "N-1"
       ]
     },
@@ -2029,7 +2029,7 @@
       "investigative_direction": "Neff's employment history (Fox News departure, hiring date at Turning Point or the Charlie Kirk Show) from his own statements, press coverage and payroll or contract records.",
       "transcript_snippet": "He didn't even get hired to work with Charlie at all in any capacity until 2022 after um he was fired from Fox News or had to move on from Fox News because of some racist comments.",
       "mentions_person_refs": [
-        "N-161",
+        "N-160",
         "N-1"
       ]
     },
@@ -2048,8 +2048,8 @@
       "investigative_direction": "Neff's own account of how he was hired; statements by Carlson or Peters on the recommendation.",
       "transcript_snippet": "He then work went to work for Stu Peters um and then he moved on to start working with Charlie after Tucker Carlson recommended him because he's loyal.",
       "mentions_person_refs": [
-        "N-161",
-        "N-735",
+        "N-160",
+        "N-734",
         "N-22",
         "N-1"
       ]
@@ -2069,7 +2069,7 @@
       "investigative_direction": "Retrieve Neff's original post from X with its timestamp and compare with the text read on air.",
       "transcript_snippet": "I decided against my better judgment to briefly turn on Candace.\" Okay, Blakey. You watch every episode.",
       "mentions_person_refs": [
-        "N-161",
+        "N-160",
         "N-3",
         "N-1"
       ]
@@ -2105,7 +2105,7 @@
       "investigative_direction": "Neff's biography, Marine Corps or contractor records of his role, and reporting on the racist-commentary incident.",
       "transcript_snippet": "Blake's truer background is in military strategy. He supported war gaming exercises for the Marine Corps before he was removed from that position following racist commentary.",
       "mentions_person_refs": [
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2123,10 +2123,10 @@
       "investigative_direction": "Salt Lake City rental agreement(s) in McCoy's name and statements from Turek and McGovern about who rode in which vehicle.",
       "transcript_snippet": "We know that one was carrying Charlie and Mikey McCoy and Frank Turrek and John McGovern who works in gifts at Turning Point USA, raises money for them.",
       "mentions_person_refs": [
-        "N-192",
+        "N-191",
         "N-1",
         "N-7",
-        "N-736"
+        "N-735"
       ]
     },
     {
@@ -2148,7 +2148,7 @@
       ],
       "mentions_person_refs": [
         "N-1",
-        "N-266"
+        "N-265"
       ]
     },
     {
@@ -2168,7 +2168,7 @@
       "investigative_direction": "Whether investigators or the Utah prosecutors interviewed Neff, and any statement on file.",
       "transcript_snippet": "I'm a key witness to Charlie's life. I'm not a particularly important witness to the murder.",
       "mentions_person_refs": [
-        "N-161",
+        "N-160",
         "N-1"
       ]
     },
@@ -2189,7 +2189,7 @@
       "investigative_direction": "Phone location data, SUV telematics and rental records for the second vehicle between landing and the UVU event.",
       "transcript_snippet": "We drove somewhere, and because I wasn't going to that event, we just like parked, and we marked time until the actual Utah Valley event.",
       "mentions_person_refs": [
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2208,8 +2208,8 @@
       "investigative_direction": "Mikey McCoy's carrier call detail records for September 10, 2025, and statements from McCoy and Philip about the calls.",
       "transcript_snippet": "Before Charlie got shot at 12:02, Mikey McCoy was on the phone with Danny Philip. I thought they were just both at the event.",
       "mentions_person_refs": [
-        "N-192",
-        "N-369",
+        "N-191",
+        "N-368",
         "N-1"
       ]
     },
@@ -2226,7 +2226,7 @@
       "investigative_direction": "Turning Point USA hiring and payroll records for Philip, and his university graduation date.",
       "transcript_snippet": "Danny Philip is is very young. He just graduated college in May of 2025. He gets hired right out of college, um to work for Charlie.",
       "mentions_person_refs": [
-        "N-369",
+        "N-368",
         "N-1"
       ]
     },
@@ -2248,7 +2248,7 @@
         "C-3020"
       ],
       "mentions_person_refs": [
-        "N-369",
+        "N-368",
         "N-1"
       ]
     },
@@ -2265,7 +2265,7 @@
       "investigative_direction": "Philip's LinkedIn profile as archived, Ohio State registrar confirmation, and Ohio State Turning Point chapter rosters.",
       "transcript_snippet": "According to his LinkedIn, he graduated from Ohio State University.",
       "mentions_person_refs": [
-        "N-369"
+        "N-368"
       ]
     },
     {
@@ -2281,7 +2281,7 @@
       "investigative_direction": "Identify the Turning Point staff who said so and ask what they know of the Philip family relationship to Kirk.",
       "transcript_snippet": "We're kind of told he was a family friend and he got this like big job working for Charlie.",
       "mentions_person_refs": [
-        "N-369",
+        "N-368",
         "N-1",
         "N-11"
       ]
@@ -2301,7 +2301,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-737"
+        "N-736"
       ]
     },
     {
@@ -2320,7 +2320,7 @@
       "transcript_snippet": "Suddenly, there's this smear campaign calling me anti-Semitic. Um and at virtually the exact same time, Turning Point had this major donor.",
       "mentions_person_refs": [
         "N-3",
-        "N-504"
+        "N-503"
       ]
     },
     {
@@ -2343,10 +2343,10 @@
         "C-3021"
       ],
       "mentions_person_refs": [
-        "N-504",
+        "N-503",
         "N-1",
         "N-3",
-        "N-369"
+        "N-368"
       ]
     },
     {
@@ -2368,7 +2368,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-1",
-        "N-504"
+        "N-503"
       ]
     },
     {
@@ -2387,8 +2387,8 @@
         "C-3021"
       ],
       "mentions_person_refs": [
-        "N-504",
-        "N-505"
+        "N-503",
+        "N-504"
       ]
     },
     {
@@ -2406,7 +2406,7 @@
       "investigative_direction": "Patrick's communications with the host and with Kirk or Turning Point about the Perlmutter dispute.",
       "transcript_snippet": "And he was so powerful at it's stunning for me to process that he played a big role in convincing me that Charlie was moving behind my back.",
       "mentions_person_refs": [
-        "N-504",
+        "N-503",
         "N-3",
         "N-1"
       ]
@@ -2466,7 +2466,7 @@
       ],
       "mentions_person_refs": [
         "N-11",
-        "N-369"
+        "N-368"
       ]
     },
     {
@@ -2484,8 +2484,8 @@
       "investigative_direction": "Direct confirmation from Irina Mappin and a VIP guest list for the memorial event.",
       "transcript_snippet": "she remarked to me in a private phone call that the thing that struck her as very odd about the memorial event was that everyone was speaking Russian.",
       "mentions_person_refs": [
-        "N-157",
         "N-156",
+        "N-155",
         "N-3"
       ]
     },
@@ -2505,7 +2505,7 @@
       "investigative_direction": "Family statements, church or adoption announcements by the McCoys, and Elizabeth McCoy's family background.",
       "transcript_snippet": "you've got Elizabeth McCoy and her entire Ukrainian family, you've got Rob McCoy who adopted a girl from Russia, remember?",
       "mentions_person_refs": [
-        "N-219",
+        "N-218",
         "N-17",
         "N-11"
       ]
@@ -2530,8 +2530,8 @@
         "C-3022"
       ],
       "mentions_person_refs": [
-        "N-738",
-        "N-369"
+        "N-737",
+        "N-368"
       ]
     },
     {
@@ -2555,7 +2555,7 @@
         "C-3024"
       ],
       "mentions_person_refs": [
-        "N-739",
+        "N-738",
         "N-2"
       ]
     },
@@ -2574,7 +2574,7 @@
       "investigative_direction": "Court filings in the Epstein victims' suit against Bank of America and the settlement announcement.",
       "transcript_snippet": "they were sued because they were managing wealth, Bank of America Merrill Lynch, of the major Epstein associate Leon Black.",
       "mentions_person_refs": [
-        "N-740",
+        "N-739",
         "N-9"
       ]
     },
@@ -2633,7 +2633,7 @@
       "transcript_snippet": "maybe see if there were any cars checked out uh Dodge Challengers that may have been rented.",
       "mentions_person_refs": [
         "N-3",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2654,7 +2654,7 @@
       "transcript_snippet": "More tips at CandaceOwens. com cuz we've got a confused bald man who doesn't remember what he was doing on a very a day",
       "mentions_person_refs": [
         "N-3",
-        "N-161"
+        "N-160"
       ]
     },
     {
@@ -2673,8 +2673,8 @@
       "transcript_snippet": "it was confirmed that Charlie was in the green room and he had three people with him. We know for a fact Johnny McGovern was with him. We know Mikey McCoy was with him",
       "mentions_person_refs": [
         "N-1",
-        "N-736",
-        "N-192",
+        "N-735",
+        "N-191",
         "N-7"
       ]
     },
@@ -2715,7 +2715,7 @@
       "transcript_snippet": "Was he in the car with Blake and Neff? Like I said, everybody's memory is hazy. We're here to help. More tips at CandaceOwens. com.",
       "mentions_person_refs": [
         "N-7",
-        "N-161",
+        "N-160",
         "N-3"
       ]
     },
@@ -2772,7 +2772,7 @@
       "investigative_direction": "NCRI board listings from the report date and Moore's business history with Kolvet (the Kairos Company).",
       "transcript_snippet": "Charlie didn't care that the NCRI had Johnny Moore on their board, Andrew Kolvet's old partner Johnny Moore on the board of NCRI when the Crisis King report was published.",
       "mentions_person_refs": [
-        "N-439",
+        "N-438",
         "N-14",
         "N-1"
       ]
@@ -2857,7 +2857,7 @@
       "investigative_direction": "Neff's original post or broadcast containing the phrase.",
       "transcript_snippet": "I mean, Blake Nath referred to me as a knife-wielding psychopath on the subway.",
       "mentions_person_refs": [
-        "N-161",
+        "N-160",
         "N-3"
       ]
     },
@@ -3231,7 +3231,7 @@
       "mentions_person_refs": [
         "N-2",
         "N-9",
-        "N-531"
+        "N-530"
       ]
     },
     {
