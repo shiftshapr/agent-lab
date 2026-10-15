@@ -1028,7 +1028,7 @@ Investigative Direction: Confirm the closing lines directly in the op-ed; identi
 
 **C-3403** Candace Owens Encountered Kim Kardashian in Hotel Lobby at Ye's Chicago Concert
 
-Claim Timestamp: 00:08:28
+Claim Timestamp: 00:07:21
 
 Claim: The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert and staring at her across the lobby with a half smile.
 
@@ -1467,7 +1467,7 @@ Transcript Snippet: Too many great moments. Um a lot that I'm bringing up from t
 
 Anchored Artifacts: A-2898.1
 Mentions: N-1, N-3
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check what is published on September 10 against this stated plan.
 
 ---
@@ -1740,7 +1740,7 @@ Transcript Snippet: someone climbed on a rooftop who had never committed any eve
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10024
-Tags: relevance:context
+Tags: relevance:core
 Investigative Direction: Compare with charging documents on Robinson's record and the number of shots and casings recovered.
 
 ---
@@ -1764,7 +1764,7 @@ Investigative Direction: Inference only; the unnamed waiting-room speaker would 
 
 Claim Timestamp: 00:40:40
 
-Claim: The host says Erika Kirk's one-year look-back is in the New York Times and is behind a paywall, which she calls a poor choice for a piece about grief.
+Claim: The host says Erika Kirk's one-year look-back is in the New York Times and is behind a paywall, which she calls another installment in a never-ending book of PR blunders.
 
 Transcript Snippet: Let's start with the fact that she's even doing this in the New York Times. Like and it's behind a paywall.
 
@@ -1826,7 +1826,7 @@ Investigative Direction: Identify the original show episode and date of the clip
 
 ---
 
-**C-7741** Host Says TPUSA Now Works With the Department of War and Treats Erika as an Emotional Asset
+**C-7741** Host Tells Erika She Works With the Department of War and Is Its Emotional Asset
 
 Claim Timestamp: 00:42:52
 
@@ -2129,16 +2129,16 @@ Investigative Direction: Compare Erika's earlier and later accounts of where she
 
 ---
 
-**C-7760** Host Says Andrew Cooper Gave the Conversation to Tulsi Gabbard's Office
+**C-7760** Host Says Andrew Kolvet Gave the Conversation to Tulsi Gabbard's Office
 
 Claim Timestamp: 00:53:42
 
-Claim: The host says that it was not tongue in cheek because Andrew Cooper gave that conversation to Tulsi Gabbard's office, which she reads as showing he thought it should be explored.
+Claim: The host says that it was not tongue in cheek because Andrew Kolvet gave that conversation to Tulsi Gabbard's office, which she reads as showing he thought it should be explored.
 
 Transcript Snippet: We know it wasn't tongue-in-cheek because Andrew Cooper gave that conversation to Tulsi Gabbard's office.
 
 Anchored Artifacts: 
-Mentions: N-330
+Mentions: N-14, N-330
 Tags: relevance:core
 Investigative Direction: Identify Andrew Cooper, whom the host names only by this spelling, and confirm what he provided to the DNI's office.
 
@@ -2271,7 +2271,7 @@ Investigative Direction: Check the announcement made the following week.
 
 ---
 
-**C-7769** Host Says the Can You Hear Me Now Documentary Is Slated for September 10
+**C-7769** Viewer Comment Says the Can You Hear Me Now Documentary Is Slated for September 10
 
 Claim Timestamp: 00:56:42
 

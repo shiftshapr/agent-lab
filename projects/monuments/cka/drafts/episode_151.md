@@ -883,7 +883,7 @@ The host's remark that rumors circulate that Erika Kirk is stepping down from TP
 
 ## V. Claim Register
 
-**C-3426** Erika Kirk tweet on building two statues
+**C-3426** Erika Kirk Tweet on Building Two Statues
 
 Claim Timestamp: 00:41:43
 
@@ -936,9 +936,9 @@ Investigative Direction: Pull original bookmark record; await release of Vanity 
 
 **C-3430** Alex Clark cited 2 Timothy 3:6-7 on women and false teachers
 
-Claim Timestamp: 00:30:55
+Claim Timestamp: 00:30:36
 
-Claim: Alex Clark, in her 9/10 trailer, invoked 2 Timothy 3:6-7 ("false teachers who are creeping into households capturing weak women") and applied it to the "Candace phenomenon."
+Claim: In the 9/10 trailer for Alex Clark's episode that the host plays, a speaker invokes 2 Timothy 3:6-7 ("false teachers who are creeping into households capturing weak women"), and a speaker applies the theme of secret knowledge to the "Candace phenomenon."
 
 Anchored Artifacts: A-2362.1
 Mentions: N-99
@@ -949,9 +949,9 @@ Investigative Direction: Pull full Alex Clark episode and verify transcript agai
 
 **C-3431** Alex Clark asserted Christ does not forgive those who do not repent
 
-Claim Timestamp: 00:30:55
+Claim Timestamp: 00:30:24
 
-Claim: Alex Clark stated "Christ doesn't forgive everyone. He forgives those who repent and turn and trust in him by faith. But forgiveness is something that you can't actually offer somebody if they haven't repented."
+Claim: In the trailer for Alex Clark's episode that the host plays, a speaker says "Christ doesn't forgive everyone. He forgives those who repent and turn and trust in him by faith. But forgiveness is something that you can't actually offer somebody if they haven't repented."
 
 Anchored Artifacts: A-2362.1
 Mentions: N-99
@@ -977,7 +977,7 @@ Investigative Direction: Pull the full Boreing/Turek episode and reconcile with 
 
 Claim Timestamp: 00:11:54
 
-Claim: Frank Turek conceded "Brian's generally right. No, we weren't doing CPR. I just tried it in the last few seconds, the last 20 to 30 seconds" – shifting his account in the same interview segment.
+Claim: Frank Turek conceded "Brian's generally right. No, we weren't doing CPR. I just tried it in the last few seconds, the last 20 to 30 seconds."
 
 Anchored Artifacts: A-2369.1
 Mentions: N-7
@@ -988,11 +988,12 @@ Investigative Direction: Pull the full Boreing/Turek episode; compare to prior T
 
 **C-3434** Bobby Sausalito: "You can't both be telling the truth"
 
-Claim Timestamp: 00:11:11
+Claim Timestamp: 00:10:55
 
-Claim: Bobby Sausalito, in the Instagram clip displayed by host, explicitly stated "you can't both be telling the truth" regarding Turek and Harpole, and critiqued Turek's "irrelevant detail" framing as a false binary.
+Claim: Bobby Sausalito, in the Instagram clip displayed by host, explicitly stated "you can't both be telling the truth" regarding Turek and Harpole, and called Turek's argument that a lie about CPR would not affect who killed Charlie Kirk a "false binary."
 
 Anchored Artifacts: A-2368.1
+Mentions: N-901, N-7, N-267
 Related Nodes:
 Investigative Direction: Pull original Sausalito clip; verify quotation.
 
@@ -1005,7 +1006,7 @@ Claim Timestamp: 00:40:10
 Claim: Andrew Kolvet stated that "friends of Charlie and Erika" have posted a $10,000 reward for tips leading to the arrest of the vandals, to be sent to law enforcement.
 
 Anchored Artifacts: A-2363.1
-Mentions: N-2, N-14
+Mentions: N-1, N-2, N-14
 Related Nodes: N-10827
 Investigative Direction: Identify which "friends" funded the reward; verify any law enforcement bulletin.
 
@@ -1464,7 +1465,7 @@ Investigative Direction: Read the warrant affidavits for the stated time of the 
 
 Claim Timestamp: 00:17:56
 
-Claim: The host says it is obvious to her that the figure has no gun in his waist and that a gun of that size could not sit in a back pocket either, given the bent right foot.
+Claim: The host says it is obvious to her that the figure has no gun in his waist, that the bent right foot makes it hard to believe there is a full gun anywhere in his jeans, and that a gun of that size could not sit in a back pocket either.
 
 Transcript Snippet: it's so obvious to me at this moment that he does not have a gun in his waist at all.
 
@@ -1529,7 +1530,7 @@ Investigative Direction: Check preliminary-hearing testimony and Google Drive sh
 
 Claim Timestamp: 00:23:08
 
-Claim: The host says officials are now suggesting the gun could have been in his waistband rather than by his ankle, which she argues would not explain a limp.
+Claim: The host says "they" are now suggesting the gun could have been in his waistband rather than by his ankle, which she argues would not explain a limp.
 
 Transcript Snippet: They're now kind of trying to make it seem as though, oh, we actually were saying it could potentially be in his waistband and not um by his ankle.
 

@@ -705,7 +705,7 @@ Investigative Direction: Compare the host's subsequent public statements to the 
 
 Claim Timestamp: 00:13:27
 
-Claim: The host encountered Justin Baldoni, his wife, and two children at an Iceland airport during a layover from Sweden; the encounter is documented by an on-screen photograph.
+Claim: The host says she encountered Justin Baldoni, his wife, and two children at an Iceland airport while he was on a layover from Sweden; she shows an on-screen photograph of the encounter.
 
 Anchored Artifacts: A-2310.1
 Mentions: N-486
@@ -740,11 +740,11 @@ Investigative Direction: Obtain the full NCRI report; verify authorship, publica
 
 ---
 
-**C-3331** NCRI Report Authored by Kairos Company, Andrew Kolvet's Former PR Firm
+**C-3331** Host Says NCRI Is Led by Andrew Kolvet's Former PR-Firm Partner
 
 Claim Timestamp: 00:28:26
 
-Claim: The NCRI report was led by Kairos company, which the host identifies as the former PR firm of Andrew Kolvet (TPUSA).
+Claim: The host says NCRI, which issued the report, is led by Andrew Kolvet's former partner in a PR firm, Kairos company.
 
 Anchored Artifacts: A-2312.1
 Mentions: N-14
@@ -783,7 +783,7 @@ Investigative Direction: Retrieve the full X thread directly from the platform; 
 
 Claim Timestamp: 00:31:33
 
-Claim: Andrew Kolvet publicly thanked Data Republican and stated her thread "exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika."
+Claim: Per Andrew Kolvet's post the host shows, Kolvet thanked Data Republican and wrote that her thread "exposes how Candace and her ilk have created the requisite permission structure for some lunatic to try and kill Erika."
 
 Anchored Artifacts: A-2317.1
 Mentions: N-14, N-282, N-3, N-2
@@ -809,7 +809,7 @@ Investigative Direction: Retrieve the specific Bill Ackman post; verify date and
 
 Claim Timestamp: 00:34:07
 
-Claim: Jennica Pounds publicly stated "I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way."
+Claim: Per Jennica Pounds's post the host reads, Pounds wrote, "I began working as a special government employee for the Department of War in July to serve the country in a more hands-on way."
 
 Anchored Artifacts: A-2314.1
 Mentions: N-282
@@ -835,7 +835,7 @@ Investigative Direction: Retrieve the full quoted X post; verify against Pentago
 
 Claim Timestamp: 00:33:25
 
-Claim: Blake Neff posted on X that "My friend Sarah Rogers is one of Charlie's favorite Trump nominees" and confirmed her swearing in as Under Secretary for Public Diplomacy.
+Claim: Per Blake Neff's post the host shows, Neff wrote "My friend Sarah Rogers is one of Charlie's favorite Trump nominees" and that she had been sworn in as Under Secretary for Public Diplomacy.
 
 Anchored Artifacts: A-2315.1
 Mentions: N-160, N-932, N-1
@@ -1943,7 +1943,7 @@ Investigative Direction: Speaker contracts and fees for the tour; none are shown
 
 ---
 
-**C-13345** Host Says She Won a Fishing Weekend With a 38 lb Salmon and Shows a Photo With Charlie
+**C-13345** Host Says She Won a Fishing Weekend With a 38 lb Salmon and Recalls a Photo With Charlie
 
 Claim Timestamp: 00:49:28
 

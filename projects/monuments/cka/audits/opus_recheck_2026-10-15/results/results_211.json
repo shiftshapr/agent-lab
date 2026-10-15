@@ -1,0 +1,759 @@
+[
+ {
+  "claim": "C-3370",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3371",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host attributes it to sources: 'I learned from some sources with direct knowledge that they did not take these cars to the hospital'; claim's lead clause states it as fact.",
+  "fix": {
+   "claim": "The host says, citing \"sources with direct knowledge,\" that the three security vehicles (the lead Jeep Wagoneer, the Lincoln Navigator, and the second Yukon Denali) were not driven to the hospital.",
+   "label": "Host Says Sources Told Her Three Security Vehicles Were Not Driven to the Hospital"
+  }
+ },
+ {
+  "claim": "C-3372",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3373",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3374",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Date 'September 1, 2026' is not in the window (host says only 'Yesterday, I see a bunch of people all tweeting'); the tweet is a post the host shows. Quote matches.",
+  "fix": {
+   "claim": "Per the X post the host shows, Matt Walsh wrote: \"We have a lawyer justifying political assassination in one court case, and another lawyer justifying the mass murder of children in another. Very dark times in America.\""
+  }
+ },
+ {
+  "claim": "C-3375",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label 'concurs' is wrong: host rejects the framing ('delude the public', 'on its face, it's so stupid'); 'disingenuous narratives' was said at 00:00:40, not here.",
+  "fix": {
+   "label": "Host Rejects Walsh's Framing of the Defense Argument"
+  }
+ },
+ {
+  "claim": "C-3376",
+  "episode": 147,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host's report stated as fact: 'Viva Frei echoes this. He sent a tweet. Obviously, I blocked him.' No tweet text shown.",
+  "fix": {
+   "claim": "The host says Viva Frei sent a tweet echoing the \"lawyer justifying political assassination\" framing, and that she has blocked him."
+  }
+ },
+ {
+  "claim": "C-3377",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3378",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3379",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3380",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3381",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host is voicing the defense: 'So, Tyler's lawyer here is saying... you haven't even spelled out which statements' (~47:16-47:36), ~80-100s after 45:58.",
+  "fix": {
+   "claim": "The host says Tyler Robinson's lawyer is arguing that the state's filings do not identify which specific statements by Charlie Kirk they contend are \"hateful\" toward the LGBTQ community, and that the state is inferring upon an inference.",
+   "timestamp": "00:47:11"
+  }
+ },
+ {
+  "claim": "C-3382",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3383",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3384",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Neff's '15 or 20 seconds' line is at ~29:46; clip begins ~28:33, host previews it at 28:14.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3385",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3386",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'his father' refers to Rob McCoy (N-17), missing from Mentions. Lead clause states host's conclusion as fact ('It never came from Mikey').",
+  "fix": {
+   "claim": "The host says the \"so much blood\" claim attributed to Mikey McCoy did not originate with McCoy himself; she says it came from his father, from Jack Hibbs and, she thinks, Frank Turek, i.e. \"the pastor orbit,\" and that McCoy never described seeing a lot of blood in his press.",
+   "mentions": [
+    "N-191",
+    "N-17",
+    "N-209",
+    "N-7"
+   ]
+  }
+ },
+ {
+  "claim": "C-3387",
+  "episode": 147,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host's report stated as fact: 'Well, Brian Harpole said there were no threats the night before. He was sitting down with Shawn Ryan.'",
+  "fix": {
+   "claim": "The host says Brian Harpole, sitting down with Shawn Ryan, said there were no threats the night before September 10, which she presents as in tension with Kirk's prior-night communication of fear."
+  }
+ },
+ {
+  "claim": "C-3388",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Foundational lie' is said of the father/confession narratives generally; of Mike Mitchell she says 'They then told us... He confessed it to Mike Mitchell... I've been telling you none of that is true.'",
+  "fix": {
+   "claim": "The host says Pentagon influencers claimed Tyler Robinson \"confessed it to Mike Mitchell,\" that none of that is true, and calls the confession narrative a \"foundational lie.\""
+  }
+ },
+ {
+  "claim": "C-3389",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'magically dropped' refers to the father story; of Ackman: 'They just sort of dropped that narrative entirely'. 'him' is Tyler's father, so N-40 is not referred to.",
+  "fix": {
+   "claim": "The host asserts that a narrative that Bill Ackman was \"going to give him a million dollars\" (Tyler Robinson's father) was dropped entirely because \"there was no truth and no substance.\"",
+   "mentions": [
+    "N-37"
+   ]
+  }
+ },
+ {
+  "claim": "C-3390",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3391",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The 'none of you can say anything' instruction came later: 'when we learned he was dead... he says, Now none of you can say anything... Erika's not going to hear about this from anyone except me.'",
+  "fix": {
+   "claim": "Blake Neff testified that Mikey McCoy, after the phone calls, \"got total mastery of himself\" and was \"like a general directing a battle,\" and that after they learned Charlie was dead, McCoy told them \"none of you can say anything\" because Erika would hear it from no one except him."
+  }
+ },
+ {
+  "claim": "C-3392",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript cuts off: 'that's a really stupid thing to >> arrive with Mikey'; 'do' is added inside the quote.",
+  "fix": {
+   "claim": "Blake Neff testified that he considered getting into the SUV he had arrived in (\"the SUV that we came in on\") but decided against it (\"that's a really stupid thing to\") and kept running."
+  }
+ },
+ {
+  "claim": "C-3667",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3668",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3669",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14797",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14798",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14799",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14800",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14801",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14802",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14803",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14804",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14805",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14806",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14807",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14808",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14809",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14810",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14811",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14812",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14813",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14814",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14815",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14816",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14817",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Garbled: transcript 'Charlie's main security person who he shows up with is this person, Christopher'; claim says Christopher is the person the main security person arrived with.",
+  "fix": {
+   "claim": "The host says Charlie Kirk's main security person, whom Kirk arrived with that day, was Christopher, the driver of Kirk's Denali."
+  }
+ },
+ {
+  "claim": "C-14818",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14819",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14820",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14821",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14822",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14823",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14824",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says only 'as we were told'; 'by Blake Neff's account' is an added source.",
+  "fix": {
+   "claim": "The host says that, as \"we were told,\" Mikey McCoy as Kirk's chief of staff was tasked with providing updates to Kirk's wife."
+  }
+ },
+ {
+  "claim": "C-14825",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14826",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14827",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14828",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14829",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14830",
+  "episode": 147,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -1352,11 +1352,11 @@ First named by the host at 01:11:03 in episode 157 as the Canyon County prosecut
 
 ---
 
-**N-756** Claire Ginan
+**N-756** Claire Guinan
 
 Node Type: Person
 First named by the host at 01:27:40 in episode 157 as the writer of a June 26 Jezebel article with no prior writing profile.
-Aliases (transcript spelling): Claire Ginan.
+Aliases (transcript spelling): Claire Guinan.
 
 *Related: C-6285*
 
@@ -3344,13 +3344,13 @@ Investigative Direction: Confirm the Operation Midnight Hammer date against publ
 
 ---
 
-**C-6285** Host says Claire Ginan wrote her first Jezebel article on June 26 with no prior writing profile
+**C-6285** Host says Claire Guinan wrote her first Jezebel article on June 26 with no prior writing profile
 
 Claim Timestamp: 01:27:40
 
-Claim: The host says that on June 26 Claire Ginan wrote her first article for Jezebel, that she would be the one to write the witch's curse article, and that she had no writing profile before that.
+Claim: The host says that on June 26 Claire Guinan wrote her first article for Jezebel, that she would be the one to write the witch's curse article, and that she had no writing profile before that.
 
-Transcript Snippet: on June 26th is when suddenly Claire Ginan writes her first article for Jezebel.
+Transcript Snippet: on June 26th is when suddenly Claire Guinan writes her first article for Jezebel.
 
 Anchored Artifacts: A-2456.1
 Mentions: N-756

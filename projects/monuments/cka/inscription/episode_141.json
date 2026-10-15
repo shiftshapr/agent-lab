@@ -1414,7 +1414,7 @@
       "@id": "C-3278",
       "ref": "C-3278",
       "label": "Wilson Stated 75–85% Likelihood That Tyler Robinson Killed Charlie Kirk",
-      "claim": "When asked by the moderator for a 0–100 estimate of the likelihood that Tyler Robinson shot and killed Charlie Kirk, Andrew Wilson answered 75–85%.",
+      "claim": "In a clip the host plays, when asked by the moderator for a 0–100 estimate of the likelihood that Tyler Robinson shot and killed Charlie Kirk, Andrew Wilson answered, \"Based on the evidence right now, um I don't know. I'd say 75 85%.\"",
       "anchored_artifacts": [
         "A-2277.2"
       ],
@@ -1548,7 +1548,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "01:03:35",
+      "claim_timestamp": "01:05:37",
       "investigative_direction": "Retrieve the full text of Rachel Wilson's X post; verify against published debate technical setup, including Candace Owens's claim that the earpieces had a 15-foot operational range and could not extend outside the control room.",
       "mentions_person_refs": [
         "N-3",
@@ -1614,7 +1614,7 @@
       "@type": "Claim",
       "@id": "C-3289",
       "ref": "C-3289",
-      "label": "In Clip Host Plays, Wilson's Opening Statement Included \"I Have His Cell Phone\"",
+      "label": "In Clip Host Plays, Erika Kirk Says \"I Have His Cell Phone\"",
       "claim": "In a clip the host plays, Erika Kirk says she and Charlie Kirk promised each other never to live in fear, that he was not messaging people the day before saying he would be murdered, and \"And I have his cell phone.\"",
       "anchored_artifacts": [
         "A-2277.1"
@@ -1810,7 +1810,7 @@
       "@id": "C-6017",
       "ref": "C-6017",
       "label": "Host says Michael Knowles declined to moderate, so Wilson asked PBD",
-      "claim": "The host says Michael Knowles told Wilson he would not moderate, and Wilson then called Patrick Bet-David and asked him to moderate.",
+      "claim": "The host says Michael Knowles said he would not moderate, and Wilson then called Patrick Bet-David and asked him to moderate.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2282,7 +2282,7 @@
       "@id": "C-6040",
       "ref": "C-6040",
       "label": "Host says Wilson promised to release the message on his show",
-      "claim": "The host says Wilson has promised to release the message on his show as evidence, and that she knows it was sent by iMessage although he describes it as Signal.",
+      "claim": "The host says Wilson has promised to release the message on his show as evidence, and that although it is supposed to be on Signal, she knows for a fact it was sent by iMessage.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10795",
@@ -2678,7 +2678,6 @@
       "transcript_snippet": "the filing for dismissal, which dropped 2 days before our debate.",
       "mentions_person_refs": [
         "N-3",
-        "N-18",
         "N-40"
       ]
     },
@@ -3043,7 +3042,7 @@
       "@id": "C-6077",
       "ref": "C-6077",
       "label": "Host says critics demanded she donate the winnings or set up a trust for Charlie Kirk's children",
-      "claim": "The host says many people, including Michael Knowles, demanded she establish a trust for Charlie Kirk's children with the money, and others said she should give it to Tyler Robinson's defense.",
+      "claim": "The host says many people, including Michael Knowles, demanded she establish a trust for Charlie Kirk's children with the money, and she reads one post saying she should give it to Tyler Robinson's defense.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11069"
@@ -3236,7 +3235,7 @@
       "@id": "C-6087",
       "ref": "C-6087",
       "label": "Host reads a comment quoting Wilson: 'You could just not do what you're doing and be okay'",
-      "claim": "The host reads a viewer comment and confirms Wilson said, 'You could just not do what you're doing and be okay', which she calls creepy and suggests might show he thought she was close to the truth.",
+      "claim": "The host reads a viewer comment from Jay Beam saying it freaks the writer out that Wilson said, 'You could just not do what you're doing and be okay', calling it totally creepy and suggesting he realized on air that she was close to the truth.",
       "anchored_artifacts": [
         "A-2794.1"
       ],
@@ -3295,7 +3294,7 @@
       "@id": "C-6090",
       "ref": "C-6090",
       "label": "Host says the next day's episode will bring more truth about TPUSA",
-      "claim": "The host says that the next day's episode will deliver more truth about Turning Point USA, including what she says was a Wilson plan to violate the no-filming rule.",
+      "claim": "The host says that the next day's episode will sentence Turning Point USA to more truth, because it sent Wilson to her home without being forthright about whom he wanted to bring in violation of her no-filming rule.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"

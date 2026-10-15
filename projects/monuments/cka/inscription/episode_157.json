@@ -2370,7 +2370,7 @@
       "@type": "Person",
       "@id": "N-756",
       "ref": "N-756",
-      "name": "Claire Ginan",
+      "name": "Claire Guinan",
       "type": "person",
       "description": "First named by the host at 01:27:40 in episode 157 as the writer of a June 26 Jezebel article with no prior writing profile.",
       "related_artifacts": [],
@@ -5186,8 +5186,8 @@
       "@type": "Claim",
       "@id": "C-6285",
       "ref": "C-6285",
-      "label": "Host says Claire Ginan wrote her first Jezebel article on June 26 with no prior writing profile",
-      "claim": "The host says that on June 26 Claire Ginan wrote her first article for Jezebel, that she would be the one to write the witch's curse article, and that she had no writing profile before that.",
+      "label": "Host says Claire Guinan wrote her first Jezebel article on June 26 with no prior writing profile",
+      "claim": "The host says that on June 26 Claire Guinan wrote her first article for Jezebel, that she would be the one to write the witch's curse article, and that she had no writing profile before that.",
       "anchored_artifacts": [
         "A-2456.1"
       ],
@@ -5198,7 +5198,7 @@
       "tags": [],
       "claim_timestamp": "01:27:40",
       "investigative_direction": "Check Ginan's byline history and the publication date of the Jezebel article.",
-      "transcript_snippet": "on June 26th is when suddenly Claire Ginan writes her first article for Jezebel.",
+      "transcript_snippet": "on June 26th is when suddenly Claire Guinan writes her first article for Jezebel.",
       "mentions_person_refs": [
         "N-756"
       ]

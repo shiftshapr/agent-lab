@@ -1207,7 +1207,7 @@
       "@type": "Person",
       "@id": "N-756",
       "ref": "N-756",
-      "name": "Claire Ginan",
+      "name": "Claire Guinan",
       "type": "person",
       "description": "Jezebel writer the host links to the Etsy curse.",
       "related_artifacts": [],
@@ -2954,8 +2954,8 @@
       "@type": "Claim",
       "@id": "C-14665",
       "ref": "C-14665",
-      "label": "Host Says Claire Ginan Wrote Her First Ever Article for Jezebel in June After Charlie's Debate",
-      "claim": "The host says writer Claire Ginan, who had never published and has no writing profile, wrote her first article for Jezebel in June 2025, after Charlie Kirk won the debate against Netanyahu's lobbyists.",
+      "label": "Host Says Claire Guinan Wrote Her First Ever Article for Jezebel in June After Charlie's Debate",
+      "claim": "The host says writer Claire Guinan, who had never published and has no writing profile, wrote her first article for Jezebel in June 2025, after Charlie Kirk won the debate against Netanyahu's lobbyists.",
       "anchored_artifacts": [
         "A-2076.2"
       ],
@@ -2968,7 +2968,7 @@
       ],
       "claim_timestamp": "00:29:30",
       "investigative_direction": "Check Ginan's byline history at Jezebel and elsewhere; ask Jezebel for her hire date.",
-      "transcript_snippet": "This writer, Claire Ginan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.",
+      "transcript_snippet": "This writer, Claire Guinan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.",
       "supports_claim_refs": [
         "C-1274"
       ],
@@ -2981,7 +2981,7 @@
       "@id": "C-14666",
       "ref": "C-14666",
       "label": "Host Says Ginan Bought an Etsy Curse on Charlie Kirk Less Than Ten Days After the White House Debate",
-      "claim": "The host says Claire Ginan went on Etsy, found a new witch profile and bought a spell to curse Charlie Kirk, and that this was less than 10 days after Charlie won the debate against Netanyahu's lobbyists.",
+      "claim": "The host says Claire Guinan went on Etsy, found a new witch profile and bought a spell to curse Charlie Kirk, and that this was less than 10 days after Charlie won the debate against Netanyahu's lobbyists.",
       "anchored_artifacts": [
         "A-2076.2"
       ],

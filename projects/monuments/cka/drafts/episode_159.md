@@ -1204,7 +1204,7 @@ Former US senator. Host recalls his BCG advisory tie to Benjamin Netanyahu in th
 
 ---
 
-**N-11092** Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)
+**N-11092** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
 
 Node Type: Topic
 Conflict between board member Doug DeGroote's account that journalist pressure forced a rapid CEO naming and the host's TPUSA PR source who told her otherwise.
@@ -1801,15 +1801,15 @@ Transcript Snippet: according to Doug Degroot, the journalists were just pressur
 Anchored Artifacts: A-2809.1
 Mentions: N-497, N-2
 Related Nodes: N-11092, N-10194
-Investigative Direction: Obtain DeGroot's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.
+Investigative Direction: Obtain DeGroote's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.
 
 ---
 
-**C-6354** Host says the TPUSA staffer who fielded press requests told her something different from DeGroot
+**C-6354** Host says the TPUSA staffer who fielded press requests told her something different from DeGroote
 
 Claim Timestamp: 00:02:39
 
-Claim: The host says she fact-checked DeGroot's account with the person directly responsible for fielding the PR requests and writing the death statement, and says it is not what she was told.
+Claim: The host says she fact-checked DeGroote's account with the person directly responsible for fielding the PR requests and writing the death statement, and says it is not what she was told.
 
 Transcript Snippet: I fact checked that with the person who was directly responsible for fielding the PR request, the same person who had to write the death statement uh to hand over to the media.
 
@@ -1817,7 +1817,7 @@ Anchored Artifacts: A-2809.1
 Mentions: N-497, N-3
 Related Nodes: N-11092
 Contradicts: C-6353
-Investigative Direction: Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroot's account.
+Investigative Direction: Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroote's account.
 
 ---
 

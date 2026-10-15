@@ -2329,7 +2329,7 @@
       "@id": "C-7612",
       "ref": "C-7612",
       "label": "Host Says Marissa Streit Was in Unit 8200 and Has Not Hidden It",
-      "claim": "The host says Marissa Streit served in Unit 8200 and has never hidden that fact, and calls her an Mossad agent (the transcript's spelling of Mossad).",
+      "claim": "The host says Marissa Streit served in Unit 8200 and has never hidden that fact, and calls her the Mossad agent turned CEO of PragerU.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10131",
@@ -3091,7 +3091,7 @@
       "@type": "Claim",
       "@id": "C-7644",
       "ref": "C-7644",
-      "label": "Host Says Butch Hibbs Stood to the Right of Charlie in the Tent When the Explosive Went Off",
+      "label": "Host Says Butch Hibbs Stood Just to the Right of Charlie and the Tent When the Explosive Went Off",
       "claim": "The host says Butch Hibbs walked in with Charlie Kirk and was standing just to the right of Charlie and the tent when the explosive went off.",
       "anchored_artifacts": [
         "A-2324.1"
@@ -3230,7 +3230,7 @@
       "@id": "C-7650",
       "ref": "C-7650",
       "label": "Host Says the Pink Hat Blue Shirt Person Appears Often and May Have Seen Something",
-      "claim": "The host says the person in the pink hat and blue shirt, who appears to be holding a slurpee drink, is around a lot in the photos and may have seen something.",
+      "claim": "The host says the person in the pink hat and blue shirt, who appears to be holding a slurpee drink, is also around a lot and may have seen something.",
       "anchored_artifacts": [
         "A-2325.2"
       ],
@@ -3433,7 +3433,7 @@
       "@id": "C-7659",
       "ref": "C-7659",
       "label": "Host Says Officers Baggley and Hull Could Relay What They Were Told About Robinson's Vehicle and Plates",
-      "claim": "The host says officers can testify at this stage to what they were told, such as an account that Tyler Robinson's vehicle pulled to the side of the road and a witness remembered the plates.",
+      "claim": "The host says that at this stage officers such as Bagley or Hull can get up and say they were told by someone that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11149"
@@ -3478,7 +3478,7 @@
       "@id": "C-7661",
       "ref": "C-7661",
       "label": "Host Says No One Has Ever Been Convicted of Aggravated Murder in Utah With a Single Victim",
-      "claim": "The host says never in Utah's history has anyone been found guilty of aggravated murder where there was just one victim, in this case one bullet.",
+      "claim": "The host says never in Utah's history has anyone been found guilty of aggravated murder where there was just one victim, someone who fired just one bullet and had one victim.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11149",
@@ -4053,8 +4053,8 @@
       "@type": "Claim",
       "@id": "C-7688",
       "ref": "C-7688",
-      "label": "Viewer Comment Says Shapiro Announced a Tour and Everyone Knows He and Charlie Were Enemies",
-      "claim": "A viewer comment the host reads says Ben Shapiro has announced that he is on tour and that everyone knows he and Charlie Kirk were enemies; the host adds that she guesses Andrew Kolvet thinks he can wipe history and make everybody forget.",
+      "label": "Host Says Shapiro Announced a Tour and Everyone Knows He and Charlie Were Enemies",
+      "claim": "After reading a viewer comment comparing Ben Shapiro to Plankton on SpongeBob, the host says Shapiro has now announced that he is on tour and that everyone knows he and Charlie Kirk were enemies, adding that she guesses Andrew Kolvet thinks he can wipe history and make everybody forget.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -4077,7 +4077,7 @@
       "@id": "C-7689",
       "ref": "C-7689",
       "label": "Host Says Justin Told Her He Does Not Drink Kombucha All That Much",
-      "claim": "The host says Justin told her he does not actually drink kombucha all that much, which she rejects as unacceptable and a now-folkloric detail.",
+      "claim": "The host says Justin Baldoni told her he does not actually drink kombucha all that much, which she rejects as unacceptable and a now-folkloric detail.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -4087,7 +4087,8 @@
       "investigative_direction": "Context only; no record would bear on the case.",
       "transcript_snippet": "Justin telling me, bruising me, telling me that he doesn't actually drink kombucha all that much.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-486"
       ]
     },
     {
@@ -4103,7 +4104,7 @@
         "N-10897"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:48:14",
       "investigative_direction": "Compare concurrent viewer counts on the named streams during the hearing.",

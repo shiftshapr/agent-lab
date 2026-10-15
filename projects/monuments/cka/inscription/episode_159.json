@@ -1644,7 +1644,7 @@
       "@type": "Topic",
       "@id": "N-11092",
       "ref": "N-11092",
-      "name": "Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)",
+      "name": "Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)",
       "type": "topic",
       "description": "Conflict between board member Doug DeGroote's account that journalist pressure forced a rapid CEO naming and the host's TPUSA PR source who told her otherwise.",
       "related_artifacts": [],
@@ -2858,7 +2858,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:01:36",
-      "investigative_direction": "Obtain DeGroot's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.",
+      "investigative_direction": "Obtain DeGroote's original statement in the Vanity Fair piece and any TPUSA press-inquiry logs from September 10-12, 2025.",
       "transcript_snippet": "according to Doug Degroot, the journalists were just pressuring them to know within that crucial time frame who's going to replace Charlie.",
       "mentions_person_refs": [
         "N-497",
@@ -2869,8 +2869,8 @@
       "@type": "Claim",
       "@id": "C-6354",
       "ref": "C-6354",
-      "label": "Host says the TPUSA staffer who fielded press requests told her something different from DeGroot",
-      "claim": "The host says she fact-checked DeGroot's account with the person directly responsible for fielding the PR requests and writing the death statement, and says it is not what she was told.",
+      "label": "Host says the TPUSA staffer who fielded press requests told her something different from DeGroote",
+      "claim": "The host says she fact-checked DeGroote's account with the person directly responsible for fielding the PR requests and writing the death statement, and says it is not what she was told.",
       "anchored_artifacts": [
         "A-2809.1"
       ],
@@ -2879,7 +2879,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:39",
-      "investigative_direction": "Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroot's account.",
+      "investigative_direction": "Identify the TPUSA communications staffer and obtain the press inquiries received in the first 48 hours; compare with DeGroote's account.",
       "transcript_snippet": "I fact checked that with the person who was directly responsible for fielding the PR request, the same person who had to write the death statement uh to hand over to the media.",
       "contradicts_claim_refs": [
         "C-6353"

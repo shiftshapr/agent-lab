@@ -67,7 +67,7 @@ Confidence Level: Medium
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
-Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnnie Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansell confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Ginan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Kaddis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dhillon Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
+Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnnie Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansell confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Guinan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Kaddis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dhillon Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -622,7 +622,7 @@ Calvary Chapel pastor and head of the TPUSA faith department per the host.
 
 ---
 
-**N-756** Claire Ginan
+**N-756** Claire Guinan
 
 Jezebel writer the host links to the Etsy curse.
 
@@ -1810,13 +1810,13 @@ Investigative Direction: Public record: US strikes on Iranian nuclear sites, Jun
 
 ---
 
-**C-14665** Host Says Claire Ginan Wrote Her First Ever Article for Jezebel in June After Charlie's Debate
+**C-14665** Host Says Claire Guinan Wrote Her First Ever Article for Jezebel in June After Charlie's Debate
 
 Claim Timestamp: 00:29:30
 
-Claim: The host says writer Claire Ginan, who had never published and has no writing profile, wrote her first article for Jezebel in June 2025, after Charlie Kirk won the debate against Netanyahu's lobbyists.
+Claim: The host says writer Claire Guinan, who had never published and has no writing profile, wrote her first article for Jezebel in June 2025, after Charlie Kirk won the debate against Netanyahu's lobbyists.
 
-Transcript Snippet: This writer, Claire Ginan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.
+Transcript Snippet: This writer, Claire Guinan, who had never published before, she has no writing profile at all, writes her first article for Jezebel.
 
 Anchored Artifacts: A-2076.2
 Mentions: N-756
@@ -1831,7 +1831,7 @@ Investigative Direction: Check Ginan's byline history at Jezebel and elsewhere; 
 
 Claim Timestamp: 00:29:50
 
-Claim: The host says Claire Ginan went on Etsy, found a new witch profile and bought a spell to curse Charlie Kirk, and that this was less than 10 days after Charlie won the debate against Netanyahu's lobbyists.
+Claim: The host says Claire Guinan went on Etsy, found a new witch profile and bought a spell to curse Charlie Kirk, and that this was less than 10 days after Charlie won the debate against Netanyahu's lobbyists.
 
 Transcript Snippet: buy a spell about harming Charlie Kirk, putting a curse onto Charlie Kirk. It's very unusual. We paid some Etsy witches to curse Charlie Kirk. That was just um less than 10 days after Charlie won this debate
 

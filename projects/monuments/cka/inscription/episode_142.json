@@ -1693,7 +1693,7 @@
       "@id": "C-3291",
       "ref": "C-3291",
       "label": "Terryl Farnsworth's Google-Hacking Fear Is Contradicted by His Same-Day Google Drive Usage",
-      "claim": "Farnsworth told the host on or about September 18 that he feared Google would hack him, despite having transmitted footage via Google Drive eight days earlier.",
+      "claim": "The host says Farnsworth told her on September 18 that he feared Google would hack him, though per SBI agent David Hull's testimony he had sent footage via a Google link eight days earlier.",
       "anchored_artifacts": [
         "A-2284.1"
       ],
@@ -1704,7 +1704,9 @@
       "claim_timestamp": "00:04:56",
       "investigative_direction": "Obtain the September 18 phone-call recording or contemporaneous notes; compare with the September 10 Google Drive transmission timestamp.",
       "mentions_person_refs": [
-        "N-262"
+        "N-3",
+        "N-262",
+        "N-570"
       ]
     },
     {
@@ -1723,7 +1725,8 @@
       "claim_timestamp": "00:12:35",
       "investigative_direction": "Obtain certified preliminary-hearing transcript; confirm whether SD cards were ever handed over directly and to whom.",
       "mentions_person_refs": [
-        "N-570"
+        "N-570",
+        "N-262"
       ]
     },
     {
@@ -1767,7 +1770,7 @@
       "@type": "Claim",
       "@id": "C-3743",
       "ref": "C-3743",
-      "label": "Andrew Kolvet is the 'Kolvet' of C-3294 (revises C-3294)",
+      "label": "Speaker in C-3294 Is Andrew Kolvet",
       "claim": "C-3294 spells the speaker 'Andrew Kolvet' (auto-caption form). The speaker is Andrew Kolvet (N-14). He stated on Tucker Carlson that Farnsworth (N-262) told him he took the SD cards \"because I know people can be evil,\" and said there were videos of people stealing hats off the table after the incident.",
       "anchored_artifacts": [
         "A-2287.1"
@@ -1803,7 +1806,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:17:08",
-      "investigative_direction": "Obtain the original four-video files referenced in the 1102; compare lengths and metadata against the 80704 clip to determine clip origin."
+      "investigative_direction": "Obtain the original four-video files referenced in the 1102; compare lengths and metadata against the 80704 clip to determine clip origin.",
+      "mentions_person_refs": [
+        "N-262"
+      ]
     },
     {
       "@type": "Claim",
@@ -1819,7 +1825,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:22:25",
-      "investigative_direction": "Obtain chain-of-custody for the newly released footage itself; identify the text-message recipient via phone records or subpoena."
+      "investigative_direction": "Obtain chain-of-custody for the newly released footage itself; identify the text-message recipient via phone records or subpoena.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-262"
+      ]
     },
     {
       "@type": "Claim",
@@ -1892,14 +1902,18 @@
       ],
       "tags": [],
       "claim_timestamp": "00:21:20",
-      "investigative_direction": "Identify the source from whom the host obtained the footage in October; verify timing of receipt."
+      "investigative_direction": "Identify the source from whom the host obtained the footage in October; verify timing of receipt.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-262"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3301",
       "ref": "C-3301",
-      "label": "Host Concurs with Zamut and Golf/Cadence Comments Praising Her Work",
-      "claim": "The host expresses agreement with comments framing her investigation as a \"blessing\" and complimenting her music taste.",
+      "label": "Host Reads Zamut Comment Calling Her Burden a Blessing",
+      "claim": "The host reads a comment from Zamut saying, \"A burden bestowed on Candace Owens is a blessing to us all,\" and says, \"It's very funny.\"",
       "anchored_artifacts": [
         "A-2293.6",
         "A-2293.9"
@@ -2212,7 +2226,8 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-262"
+        "N-262",
+        "N-1"
       ]
     },
     {
@@ -2393,7 +2408,8 @@
         "C-3295"
       ],
       "mentions_person_refs": [
-        "N-262"
+        "N-262",
+        "N-1"
       ]
     },
     {
@@ -2421,7 +2437,7 @@
       "@id": "C-9175",
       "ref": "C-9175",
       "label": "Host Speculates the 80704 Clip Exists Because the Footage Was Zoomed",
-      "claim": "The host says it is plausible that the only reason to cut a separate clip from the rear camera is that the footage was zoomed in, since zooming would require creating a new clip. She says she is speculating.",
+      "claim": "The host says it is plausible that the only reason to cut a separate clip from the rear camera is that the footage was zoomed in, since zooming would require creating a new clip.",
       "anchored_artifacts": [
         "A-2284.2"
       ],
@@ -2439,7 +2455,7 @@
         "C-3295"
       ],
       "mentions_person_refs": [
-        "N-262"
+        "N-3"
       ]
     },
     {
@@ -2465,7 +2481,8 @@
         "C-6475"
       ],
       "mentions_person_refs": [
-        "N-262"
+        "N-262",
+        "N-1"
       ]
     },
     {
@@ -2613,7 +2630,6 @@
       "investigative_direction": "Obtain the preliminary-hearing transcript for Nester's questions about editing of the Visual Impulse footage.",
       "transcript_snippet": "The questions that Kathy Netor asked thereafter um things that she asserted about they don't know whether or not that footage was edited.",
       "mentions_person_refs": [
-        "N-262",
         "N-830"
       ]
     },
@@ -2683,15 +2699,15 @@
         "C-3297"
       ],
       "mentions_person_refs": [
-        "N-262"
+        "N-3"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-9186",
       "ref": "C-9186",
-      "label": "Host Says TPUSA Partners Have Published Details of Her Children's Cars",
-      "claim": "The host says people partnering with TPUSA have been publishing things about her children's cars and the vehicles they travel in, and asks TPUSA to stop.",
+      "label": "Host Says Kolvet and Erika Kirk Are Partnering With People Publishing Her Children's Cars",
+      "claim": "The host says Andrew and Erika in particular are starting to partner with people who are publishing things about her children's cars and the vehicles they travel in, and asks them to stop.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2704,7 +2720,8 @@
       "transcript_snippet": "torment us, publishing things about my children's cars and the vehicles that they travel in.",
       "mentions_person_refs": [
         "N-3",
-        "N-2"
+        "N-2",
+        "N-14"
       ]
     },
     {
@@ -2824,8 +2841,7 @@
       "investigative_direction": "Review the debate agreement, the questions put to her and any legal communications around the debate for evidence of an intent to provoke a suit.",
       "transcript_snippet": "Uh but as I said as um they were intentionally trying to trip me into a lawsuit. You can see they're all salivating for me to be sued.",
       "mentions_person_refs": [
-        "N-3",
-        "N-18"
+        "N-3"
       ]
     },
     {
@@ -3056,8 +3072,7 @@
       "transcript_snippet": "you pick Andrew Wilson and you give him a text message. Never before seen, by the way.",
       "mentions_person_refs": [
         "N-3",
-        "N-18",
-        "N-14"
+        "N-18"
       ]
     },
     {
@@ -3261,8 +3276,7 @@
         "C-1927"
       ],
       "mentions_person_refs": [
-        "N-2",
-        "N-14"
+        "N-3"
       ]
     }
   ],

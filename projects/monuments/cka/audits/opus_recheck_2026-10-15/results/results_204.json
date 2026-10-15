@@ -1,0 +1,786 @@
+[
+ {
+  "claim": "C-9164",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Blue camera operated by Jordan Wilson: 'That's the one that was being operated by uh Jordan Wilson.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-9165",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9166",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie ('behind Charlie's head') but Mentions lacks N-1.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-262",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-9167",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9168",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9169",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Kolvet line at ~15:09 ('Well, first of all, they're in the possession of the FBI'); 14:25 within window.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9170",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9171",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9172",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9173",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie ('footage behind Charlie') but Mentions lacks N-1.",
+  "fix": {
+   "mentions": [
+    "N-262",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-9174",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9175",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'She says she is speculating' is not in the window here ('It's plausible...'); her 'I'm speculating' comes later at 23:34. Claim names no person; N-262 not referred to.",
+  "fix": {
+   "claim": "The host says it is plausible that the only reason to cut a separate clip from the rear camera is that the footage was zoomed in, since zooming would require creating a new clip.",
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9176",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie ('camera behind Charlie') but Mentions lacks N-1.",
+  "fix": {
+   "mentions": [
+    "N-262",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-9177",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9178",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9179",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9180",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9181",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "The Bowyer sentence is not in the transcript (no 'Bowyer' anywhere in the episode); host only says 'Maybe there was some police officer who told him... I'm told that didn't happen.'",
+  "fix": {
+   "claim": "The host says she is told that no police officer instructed Farnsworth to take that footage in particular."
+  }
+ },
+ {
+  "claim": "C-9182",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only Kathy Nester ('the footage'); Farnsworth (N-262) not named or referred to.",
+  "fix": {
+   "mentions": [
+    "N-830"
+   ]
+  }
+ },
+ {
+  "claim": "C-9183",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9184",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9185",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names no person besides the host; N-262 not referred to. Transcript garbles agency ('the FBI should have been handed the SD card... handed it off to the FBI'); SBI reading is a fair inference.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9186",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host addresses Andrew and Erika directly: 'Andrew, Erika in particular, um you guys are really starting to partner with people who...' Claim makes it generic TPUSA partners; Erika in Mentions but not in claim, Kolvet missing.",
+  "fix": {
+   "claim": "The host says Andrew and Erika in particular are starting to partner with people who are publishing things about her children's cars and the vehicles they travel in, and asks them to stop.",
+   "label": "Host Says Kolvet and Erika Kirk Are Partnering With People Publishing Her Children's Cars",
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-14"
+   ]
+  }
+ },
+ {
+  "claim": "C-9187",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Patel line ~32:36, within window.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9188",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9189",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9190",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Content ~33:51, 62s after timestamp; within 75s.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9191",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim refers to 'they'/'people on the other side'; Andrew Wilson (N-18) not named or referred to.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-9192",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9193",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9194",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9195",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9196",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9197",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9198",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Coach Colin' has no node in the episode list.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9199",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9200",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9201",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names TPUSA and Wilson; Andrew Kolvet (N-14) is named nearby ('Andrew Kolvet, Blake Neff, here's my phone') but not in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-18"
+   ]
+  }
+ },
+ {
+  "claim": "C-9202",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9203",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host answers a viewer comment; 'Steven Creeper uh and crew' read as Steven Crowder (her mocking nickname).",
+  "fix": {}
+ },
+ {
+  "claim": "C-9204",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "N-18 kept: 'the Crucible account' is Wilson's; host says 'explain to him' and names Andrew Wilson.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9205",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9206",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9207",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9208",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Joe Kent named in the label and in the viewer comment ('why wouldn't Joe Kent need that message').",
+  "fix": {}
+ },
+ {
+  "claim": "C-9209",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9210",
+  "episode": 142,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only TPUSA and the host; Erika (N-2) and Kolvet (N-14) not named or referred to.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-3302",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3303",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Ten-minute/government-source part is at ~11:10 ('This is all happening within 10 minutes... according to my source in government'); laptop footage at 09:43.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3304",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Charlie named in label ('Camera Behind Charlie's Head').",
+  "fix": {}
+ },
+ {
+  "claim": "C-3305",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3306",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Charlie Kirk (N-1) not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-125",
+    "N-5"
+   ]
+  }
+ },
+ {
+  "claim": "C-3307",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Trump 'person of faith, a minister' ~33:01; host's mapping to Mitchell to ~33:21.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3308",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3309",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3310",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3311",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3312",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7535",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7536",
+  "episode": 143,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie ('Charlie died so the left could be blamed') but Mentions lacks N-1.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-787",
+    "N-1"
+   ]
+  }
+ }
+]

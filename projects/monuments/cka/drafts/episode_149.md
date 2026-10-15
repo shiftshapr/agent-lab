@@ -1030,10 +1030,10 @@ Investigative Direction: Compare the Paramount statement with the Shawn Ryan "ca
 
 ---
 
-**C-3548** Frank Turek states in FaceTime with Jack Hibbs that he had blood on him at the hospital
+**C-3548** Frank Turek Tells Jack Hibbs in Interview That Hibbs Saw Him With Blood on Him at the Hospital
 
-Claim Timestamp: 00:14:55
-Claim: During a FaceTime call with Pastor Jack Hibbs after arriving at the hospital, Frank Turek references "blood on me" in a manner the host characterizes as leading the conversation.
+Claim Timestamp: 00:15:44
+Claim: In a clip of an interview with Pastor Jack Hibbs that the host plays, Frank Turek, recalling that he FaceTimed Hibbs after arriving at the hospital, says "You saw I had blood on me," which the host characterizes as leading the conversation.
 Anchored Artifacts: A-2430.1
 Mentions: N-7, N-209
 Related Nodes:
@@ -1073,7 +1073,7 @@ Investigative Direction: Cross-reference with security team testimony and hospit
 
 ---
 
-**C-3552** Host Says Blake Harreff Wore Timpanogos Surgical Scrubs at the UVU Return at About 8:30 PM
+**C-3552** Host Says Blake Harreff Wore Timpanogos Surgical Scrubs at the UVU Return After 8:30 PM
 
 Claim Timestamp: 00:20:42
 Claim: The host says footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Harreff wearing a Timpanogos surgical scrub top.
@@ -1127,10 +1127,10 @@ Investigative Direction: Higher-resolution frame analysis; cross-reference with 
 
 ---
 
-**C-3557** The Panguitch Cowboy Smokehouse receipt has been verified as real
+**C-3557** Host Says the Panguitch Cowboy Smokehouse Receipt Has Been Verified as Real
 
 Claim Timestamp: 00:33:02
-Claim: The Cowboy Smokehouse receipt has been verified and is presented by the host as a real document.
+Claim: The host says the Cowboy Smokehouse receipt has been verified and is real, and shows it.
 Anchored Artifacts: A-2433.1, A-2433.4
 Mentions:
 Related Nodes:
@@ -1138,7 +1138,7 @@ Investigative Direction: Obtain the original receipt, forensic authentication (p
 
 ---
 
-**C-3558** Receipt timestamp indicates the card could not have been swiped before ~9:47 PM
+**C-3558** Host Says Receipt Would Mean Tyler Robinson Did Not Leave the Steakhouse Before About 9:47 PM
 
 Claim Timestamp: 00:35:50
 Claim: Per the host, if the steakhouse receipt is verified, Tyler Robinson did not leave the steakhouse until about 9:47 PM at the earliest.
@@ -1204,7 +1204,7 @@ Investigative Direction: Confirm with FBI 302 forms or other official records; i
 
 ---
 
-**C-3564** YouTube commenter attributes hospital-lobby quote to "Blakey"
+**C-3564** Viewer Comment Says What "Blakey" Meant in the Hospital Lobby
 
 Claim Timestamp: 00:44:20
 Claim: A YouTube top comment by user "Matt Callaway" attributes to "Blakey" the statement "Candace is going to figure this out," reportedly said in the hospital lobby on September 10.
@@ -1421,11 +1421,11 @@ Investigative Direction: Pull the Tennessee court docket and any fee award order
 
 ---
 
-**C-14863** Host Says Turek Was the Only Person Who Reacted Normally to the Shot
+**C-14863** Host Says Turek Was the Only Person Who Reacted Normally After the Explosive Went Off
 
 Claim Timestamp: 00:04:51
 
-Claim: The host says Frank Turek was not on her radar early on and that she repeatedly said he appeared to be the only person who reacted normally in the moments after the shot, ducking down and appearing fearful and surprised.
+Claim: The host says Frank Turek was not on her radar early on and that she repeatedly said he appeared to be the only person who reacted normally in the moments after the explosive went off, ducking down and appearing fearful and surprised.
 
 Transcript Snippet: he appeared to be the only person that reacted normally in those immediate moments following the explosive going off. He ducked down. He appeared fearful.
 
@@ -1597,7 +1597,7 @@ Claim: The host says Brian Harpole has said multiple times that no CPR was perfo
 Transcript Snippet: Brian Harpole, who has said multiple times they did not perform CPR during that extremely short ride over to the hospital
 
 Anchored Artifacts: 
-Mentions: N-267, N-7
+Mentions: N-267
 Related Nodes: 
 Supports: C-8876, C-5788
 Tags: relevance:core
@@ -2004,11 +2004,11 @@ Investigative Direction: Request Timpanogos policies on scrub issue to non-staff
 
 ---
 
-**C-14898** Host Says Staff Let Harpole Cut Shirts, Order Medications and a Man Guarded the Door
+**C-14898** Host Says Staff Let Harpole Cut Shirts, Order Medications and Guard the Door
 
 Claim Timestamp: 00:22:59
 
-Claim: The host says hospital staff were allowing Brian Harpole to jump on patients and cut their shirts, to shout medications to give, and that she asks why a man was guarding the door.
+Claim: The host says hospital staff were allowing Brian Harpole to jump on patients and cut their shirts, to shout medications to give, and she asks why he was guarding the door.
 
 Transcript Snippet: They're also allowing Brian Harpole to jump on patients and cut their shirts. That doesn't seem to follow protocol.
 
@@ -2029,14 +2029,14 @@ Claim: The host identifies the man Brian Harpole just hugged in the UVU return f
 Transcript Snippet: That's Alex Fria who he just hugged. That there in the corner in the white hat is Rick Cutler.
 
 Anchored Artifacts: A-2432.3
-Mentions: N-267, N-488
+Mentions: N-267
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Confirm the correct spelling and identity of the man hugged from the original footage and tips.
 
 ---
 
-**C-14900** Host Names Blake Gibson of the Security Detail as the Man in Surgical Scrubs at the Top of the Frame
+**C-14900** Host Names Blake Gibson as the Man in Surgical Scrubs at the Top of the Frame
 
 Claim Timestamp: 00:25:29
 
@@ -2072,7 +2072,7 @@ Investigative Direction: Obtain hospital records and statements from Mikey McCoy
 
 Claim Timestamp: 00:25:38
 
-Claim: The host again offers Frank Turek to come on her show or to appear on his own to talk through the events of September 10.
+Claim: The host again offers Frank Turek to come on her show or for her to join him on his, to talk through the events of September 10.
 
 Transcript Snippet: I can just toss out another offer for you to come join me on my show or I can join you on yours.
 
@@ -2300,7 +2300,7 @@ Investigative Direction: Obtain the receipt image Wilson used and exemplars of R
 
 Claim Timestamp: 00:33:40
 
-Claim: The host says the signature is the standard scribble people make on electronic signature pads such as at CVS.
+Claim: The host says, as people have pointed out, the signature Andrew Wilson posted is the standard scribble people make on electronic signature pads such as at CVS, and it just looks like scribble to her.
 
 Transcript Snippet: this is your standard when you get those like CVS electronic signature things
 
@@ -2542,7 +2542,7 @@ Investigative Direction: Check the cited research on C15 and cellular aging; spo
 
 Claim Timestamp: 00:44:10
 
-Claim: The host says that if Blake said in the hospital lobby that Candace would figure this out, it means they had full confidence it was not a conspiracy right after learning Charlie had died, which she finds strange.
+Claim: Responding to a viewer comment saying Blake said in the hospital lobby that Candace would figure this out, the host says that means they had full confidence it was not a conspiracy right after learning Charlie had died, which she finds strange.
 
 Transcript Snippet: they had full confidence that it wasn't a conspiracy and they had just found out that Charlie had died.
 
@@ -2664,7 +2664,7 @@ Anchored Artifacts: A-2435.7
 Mentions: N-849, N-3
 Related Nodes: 
 Supports: C-7714, C-13108, C-10045
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the Australian Home Affairs decision and any lobbying correspondence.
 
 ---

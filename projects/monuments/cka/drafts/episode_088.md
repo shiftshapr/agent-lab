@@ -821,7 +821,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-11092** Erika CEO Appointment Timing Explanation (DeGroot versus TPUSA PR Source)
+**N-11092** Erika CEO Appointment Timing Explanation (DeGroote versus TPUSA PR Source)
 
 Existing topic reused for new claims in this episode.
 

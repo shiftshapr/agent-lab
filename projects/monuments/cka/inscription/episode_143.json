@@ -1521,7 +1521,6 @@
       "claim_timestamp": "00:32:32",
       "investigative_direction": "Cross-reference Trump's account against official law-enforcement timeline documents (probable-cause affidavit, charging document signed by Brian Davis) and Mitchell's own statements.",
       "mentions_person_refs": [
-        "N-1",
         "N-40",
         "N-125",
         "N-5"
@@ -1677,7 +1676,8 @@
       "transcript_snippet": "They're also now pushing the same talking point that I'm now somehow working in coordination or support of I guess the aims of Hasan",
       "mentions_person_refs": [
         "N-3",
-        "N-787"
+        "N-787",
+        "N-1"
       ]
     },
     {
@@ -2646,6 +2646,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-4",
+        "N-5",
         "N-69",
         "N-9"
       ]
@@ -2838,7 +2839,7 @@
       "@id": "C-7588",
       "ref": "C-7588",
       "label": "Host Says the Back-Camera Footage Matters Because It Would Show What Happened to Charlie",
-      "claim": "Agreeing with a comment, the host says the camera pointed down would show the men handling Charlie and what might be under his shirt, and that this is why the footage was really important.",
+      "claim": "Agreeing with a viewer comment the host reads, which says the camera pointed down would show the men handling Charlie and what might be under his shirt, the host says that is why the footage was really important.",
       "anchored_artifacts": [
         "A-2892.2"
       ],

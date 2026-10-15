@@ -6,10 +6,10 @@
 |-------|-------|
 | vocabulary | 2.0.0 (2026-10-07) |
 | vocab source | https://brc222.org/vocabulary.json |
-| generated_at (UTC) | 2026-10-15T17:48:44Z |
+| generated_at (UTC) | 2026-10-15T17:55:52Z |
 | bridges | 30372 |
 | revises candidate rows | 4862 (both terms per edge) |
-| revises heuristic primary | {'isQualifiedBy': 2412, 'extends': 19} |
+| revises heuristic primary | {'isQualifiedBy': 2413, 'extends': 18} |
 
 ## Edge counts (emitted relationship names from vocab)
 

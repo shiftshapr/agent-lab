@@ -724,7 +724,7 @@ Claim Timestamp: 00:02:00–00:04:10
 Claim: The host says the episode footage shows Terryl Farnsworth displaying content on his laptop screen to Philip Goldsberry approximately 10 minutes after Charlie Kirk was hit.
 
 Anchored Artifacts: A-2301.2
-Mentions: N-262, N-1
+Mentions: N-262, N-1, N-688
 
 Related Nodes: N-10812
 
@@ -736,10 +736,10 @@ Investigative Direction: Identify and interview Philip Goldsberry regarding the 
 
 Claim Timestamp: 00:04:20–00:04:50
 
-Claim: In a clip the host plays, Ana Kasparian says, based on David Hull's preliminary-hearing testimony, that Terryl Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.
+Claim: In a clip the host plays, Ana Kasparian says, based on preliminary-hearing testimony, that Terryl Farnsworth did not provide the original SD card to investigators, only Google links and a flash drive.
 
 Anchored Artifacts: A-2302.1, A-2304.1
-Mentions: N-262, N-204, N-570
+Mentions: N-262, N-204
 
 Related Nodes: N-10810
 
@@ -762,14 +762,14 @@ Investigative Direction: Obtain the preliminary-hearing transcript and confirm t
 
 ---
 
-**C-3317** Mark Bricker testified the Utah County Attorney's Office created the 20-minute sizzle reel
+**C-3317** Host Says Hearing Testimony Named the Utah County Attorney's Office as Maker of the Sizzle Reel
 
 Claim Timestamp: 00:18:30–00:19:30
 
-Claim: SBI Sergeant Mark Bricker testified at the preliminary hearing that the Utah County Attorney's Office, not he, created the 20-minute sizzle reel shown in court.
+Claim: The host says a witness at the preliminary hearing testified that the Utah County Attorney's Office created the 20-minute sizzle reel, and in a clip she plays the witness says he did not prepare the video compilation and that the Utah County Attorney's Office did.
 
 Anchored Artifacts: A-2304.2
-Mentions: N-581
+Mentions: N-3
 
 Related Nodes: N-10810, N-10811
 
@@ -854,7 +854,7 @@ Investigative Direction: Locate the original Candace clip being referenced; tran
 
 Claim Timestamp: 00:39:50–00:41:00
 
-Claim: A November 2023 clip of Charlie Kirk shows him saying Candace is "on our team" and telling a critic asking about her AmFest appearance to "lose my number."
+Claim: In a clip the host plays and dates to November 2023, Charlie Kirk says Candace is "on our team" and that he told a critic asking about her AmFest appearance to "lose my number."
 
 Anchored Artifacts: A-2307.1
 Mentions: N-1
@@ -867,9 +867,9 @@ Investigative Direction: Obtain the full unedited segment; note any surrounding 
 
 **C-3324** Andrew Kolvet briefed Candace on Bill Ackman summit, BB Netanyahu letter, and Charlie's texts to Dan Flood
 
-Claim Timestamp: 00:51:00–00:54:00
+Claim Timestamp: 00:50:35
 
-Claim: Text messages and calls between Candace and Andrew Kolvet from September 11–14, 2025 show Kolvet briefing Candace on the Bill Ackman summit, the BB Netanyahu letter, and Charlie Kirk's text messages to Dan Flood the night before.
+Claim: The host says that in phone conversations around September 12-14, 2025, Andrew Kolvet told her about the Bill Ackman summit, Benjamin Netanyahu's letter, and Charlie Kirk's text messages to Dan Flood and Kolvet the night before; she shows a call log and text messages.
 
 Anchored Artifacts: A-2308.1, A-2308.2
 Mentions: N-14, N-1, N-36, N-271, N-37
@@ -897,9 +897,9 @@ Investigative Direction: Read with C-3324; match the text-message exports under 
 
 ---
 
-**C-3325** Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erika Kirk
+**C-3325** Host Says Kolvet Told Her on September 14, 2025 That the TPUSA Board Had Voted In Erika Kirk
 
-Claim Timestamp: 00:51:00–00:54:00
+Claim Timestamp: 00:53:15
 
 Claim: The host says that on September 14, 2025 Andrew Kolvet told her the TPUSA board had already voted in Erika Kirk, said not to say it yet, and that it was not being announced publicly.
 
@@ -980,7 +980,7 @@ Claim: The host says the Utah code defines tampering with evidence as altering, 
 Transcript Snippet: altering, destroying, concealing, or removing a thing or item with the purpose of impairing its veracity or availability of the thing or item in the proceeding or investigation.
 
 Anchored Artifacts: 
-Mentions: N-262, N-3
+Mentions: N-3
 Related Nodes: N-10810
 Investigative Direction: Check the quoted wording against the current Utah evidence-tampering statute and its felony grading.
 
@@ -1555,7 +1555,7 @@ Investigative Direction: Obtain wedding photos or guest records showing the Kirk
 
 Claim Timestamp: 00:38:50
 
-Claim: The host says the clip Neff refers to is Charlie Kirk discussing their friendship in November 2023.
+Claim: The host says the clip of Blake Neff mentioned on the Kolvet/Neff show is Charlie Kirk discussing their friendship in November 2023.
 
 Transcript Snippet: that clip that he's referring to is Charlie discussing our friendship in November of 2023.
 
@@ -1645,7 +1645,7 @@ Investigative Direction: Date the first meeting and job offer from messages or c
 
 Claim Timestamp: 00:45:14
 
-Claim: Andrew Kolvet says the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in like France with Kanye or something the next day.
+Claim: Andrew Kolvet says he thinks the host canceled a TPUSA event the day before, that the event team had to scramble to replace her, and that she ended up in like France with Kanye or something the next day.
 
 Transcript Snippet: she canled an event with us and our event team still tells this story you know like the day before and we had to scramble to get it replaced
 
@@ -1681,7 +1681,7 @@ Claim: The host says she went to France and wore the White Lives Matter shirt on
 Transcript Snippet: Everyone remembers the moment that I went to France and I wore the White Lives Matter t-shirt.
 
 Anchored Artifacts: 
-Mentions: N-3, N-27
+Mentions: N-3
 Related Nodes: N-11072
 Investigative Direction: Match photos of the trip with the date of the TPUSA event she cancelled.
 
@@ -1779,7 +1779,7 @@ Investigative Direction: Ask Kolvet to specify whom he meant and what she said.
 
 Claim Timestamp: 00:49:26
 
-Claim: The host says she said early on that the idea that Ben Shapiro wants to take over Turning Point USA because he said to pick up the mic is wrong, and that this is on record.
+Claim: The host says she said early on that the idea that Ben Shapiro wants to take over Turning Point USA because he said to pick up the mic is wrong, that this is on record, and that she now has a different opinion.
 
 Transcript Snippet: I said I think people that all think that Ben Shapiro because he said pick up the bloody mic wants to take over Turning Point USA. I said I think that that's just wrong.
 

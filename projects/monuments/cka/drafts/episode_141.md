@@ -687,7 +687,7 @@ Investigative Direction: Verify whether Wilson subsequently publishes the underl
 
 Claim Timestamp: 00:22:37
 
-Claim: When asked by the moderator for a 0–100 estimate of the likelihood that Tyler Robinson shot and killed Charlie Kirk, Andrew Wilson answered 75–85%.
+Claim: In a clip the host plays, when asked by the moderator for a 0–100 estimate of the likelihood that Tyler Robinson shot and killed Charlie Kirk, Andrew Wilson answered, "Based on the evidence right now, um I don't know. I'd say 75 85%."
 
 Anchored Artifacts: A-2277.2
 Mentions: N-18, N-40, N-1
@@ -771,7 +771,7 @@ Investigative Direction: Retrieve the full text of Rachel Wilson's X post to con
 
 **C-3285** Rachel Wilson Publicly Suggested the In-Ear Monitors May Have Been Used to Feed Owens Answers
 
-Claim Timestamp: 01:03:35
+Claim Timestamp: 01:05:37
 
 Claim: The host says Rachel Wilson, replying to a post asking whether the host was being fed answers through her in-ear monitor, wrote that she knew they had headpieces but was not sure why they had them, and believed the contract allowed each to wear an earpiece.
 
@@ -821,7 +821,7 @@ Related Nodes:
 
 Investigative Direction: Identify original posting timestamp; verify whether @alpha_approved's content has prior documented activity in the series.
 
-**C-3289** In Clip Host Plays, Wilson's Opening Statement Included "I Have His Cell Phone"
+**C-3289** In Clip Host Plays, Erika Kirk Says "I Have His Cell Phone"
 
 Claim Timestamp: 00:19:49
 
@@ -973,7 +973,7 @@ Investigative Direction: Obtain the email containing the car offer and the host'
 
 Claim Timestamp: 00:06:30
 
-Claim: The host says Michael Knowles told Wilson he would not moderate, and Wilson then called Patrick Bet-David and asked him to moderate.
+Claim: The host says Michael Knowles said he would not moderate, and Wilson then called Patrick Bet-David and asked him to moderate.
 
 Transcript Snippet: Andrew then calls PBD and asks him to moderate because Michael Knowles said that he wasn't going to moderate.
 
@@ -1316,7 +1316,7 @@ Investigative Direction: Identify who told the host in September and when Erika 
 
 Claim Timestamp: 00:21:53
 
-Claim: The host says Wilson has promised to release the message on his show as evidence, and that she knows it was sent by iMessage although he describes it as Signal.
+Claim: The host says Wilson has promised to release the message on his show as evidence, and that although it is supposed to be on Signal, she knows for a fact it was sent by iMessage.
 
 Transcript Snippet: Andrew, who has promised that he's going to release this on his show cuz he's got evidence, actually does release that message
 
@@ -1599,7 +1599,7 @@ Claim: The host says the most recent filing, the filing for dismissal, was relea
 Transcript Snippet: the filing for dismissal, which dropped 2 days before our debate.
 
 Anchored Artifacts: 
-Mentions: N-3, N-18, N-40
+Mentions: N-3, N-40
 Related Nodes: N-10593
 Investigative Direction: Identify the filing and its docket date.
 
@@ -1863,7 +1863,7 @@ Investigative Direction: Obtain the signed contract and payment records for the 
 
 Claim Timestamp: 01:10:30
 
-Claim: The host says many people, including Michael Knowles, demanded she establish a trust for Charlie Kirk's children with the money, and others said she should give it to Tyler Robinson's defense.
+Claim: The host says many people, including Michael Knowles, demanded she establish a trust for Charlie Kirk's children with the money, and she reads one post saying she should give it to Tyler Robinson's defense.
 
 Transcript Snippet: I need to donate this money and establish a trust for Charlie's children.
 
@@ -2011,7 +2011,7 @@ Investigative Direction: Check for any past joint appearance or meeting.
 
 Claim Timestamp: 01:23:10
 
-Claim: The host reads a viewer comment and confirms Wilson said, 'You could just not do what you're doing and be okay', which she calls creepy and suggests might show he thought she was close to the truth.
+Claim: The host reads a viewer comment from Jay Beam saying it freaks the writer out that Wilson said, 'You could just not do what you're doing and be okay', calling it totally creepy and suggesting he realized on air that she was close to the truth.
 
 Transcript Snippet: You could just not do what you're doing and be okay.
 
@@ -2055,7 +2055,7 @@ Investigative Direction: Find the statement in the debate video and ask ballisti
 
 Claim Timestamp: 01:26:22
 
-Claim: The host says that the next day's episode will deliver more truth about Turning Point USA, including what she says was a Wilson plan to violate the no-filming rule.
+Claim: The host says that the next day's episode will sentence Turning Point USA to more truth, because it sent Wilson to her home without being forthright about whom he wanted to bring in violation of her no-filming rule.
 
 Transcript Snippet: tomorrow we will be sentencing Turning Point USA to more truth
 

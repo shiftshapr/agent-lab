@@ -1640,7 +1640,7 @@ Transcript Snippet: he got arrested, he pled guilty, his name is Haim Braverman,
 
 Anchored Artifacts: 
 Mentions: N-866, N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Search federal court dockets and DOJ press releases for a plea by Haim Braverman and the sentence.
 
 ---
@@ -2195,7 +2195,7 @@ Transcript Snippet: Blake Neff instantly said, "If you want to I would love to t
 Anchored Artifacts: A-3083.1
 Mentions: N-160, N-18, N-3
 Related Nodes: N-10000
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Find Neff's original post or message offering money and the date.
 
 ---

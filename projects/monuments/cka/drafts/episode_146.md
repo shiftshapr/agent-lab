@@ -1229,7 +1229,7 @@ Investigative Direction: Check the host's own correspondence or booking records 
 
 Claim Timestamp: 00:06:01
 
-Claim: The host says Marissa Streit served in Unit 8200 and has never hidden that fact, and calls her an Mossad agent (the transcript's spelling of Mossad).
+Claim: The host says Marissa Streit served in Unit 8200 and has never hidden that fact, and calls her the Mossad agent turned CEO of PragerU.
 
 Transcript Snippet: She was in unit 8200. She's never hidden that fact, so we're not exactly revealing or bringing any news there
 
@@ -1752,7 +1752,7 @@ Investigative Direction: Collect Charlie Kirk's own statements about Shapiro and
 
 ---
 
-**C-7644** Host Says Butch Hibbs Stood to the Right of Charlie in the Tent When the Explosive Went Off
+**C-7644** Host Says Butch Hibbs Stood Just to the Right of Charlie and the Tent When the Explosive Went Off
 
 Claim Timestamp: 00:21:04
 
@@ -1852,7 +1852,7 @@ Investigative Direction: Receive and vet tips on the attendee's identity; confir
 
 Claim Timestamp: 00:25:35
 
-Claim: The host says the person in the pink hat and blue shirt, who appears to be holding a slurpee drink, is around a lot in the photos and may have seen something.
+Claim: The host says the person in the pink hat and blue shirt, who appears to be holding a slurpee drink, is also around a lot and may have seen something.
 
 Transcript Snippet: Pink hat, blue shirt, um, and looks like a slurpee drink there. That person is also around a lot and may have seen something.
 
@@ -1998,7 +1998,7 @@ Investigative Direction: Review the video testimony to see whether the questioni
 
 Claim Timestamp: 00:32:38
 
-Claim: The host says officers can testify at this stage to what they were told, such as an account that Tyler Robinson's vehicle pulled to the side of the road and a witness remembered the plates.
+Claim: The host says that at this stage officers such as Bagley or Hull can get up and say they were told by someone that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates.
 
 Transcript Snippet: when officer Baggley gets up there or officer Hull gets up there and says he was told by someone that this happened, that Tyler Robinson's vehicle pulled to the side of the road and he remembered the plates.
 
@@ -2031,7 +2031,7 @@ Investigative Direction: Check the charging information for the seven counts and
 
 Claim Timestamp: 00:32:55
 
-Claim: The host says never in Utah's history has anyone been found guilty of aggravated murder where there was just one victim, in this case one bullet.
+Claim: The host says never in Utah's history has anyone been found guilty of aggravated murder where there was just one victim, someone who fired just one bullet and had one victim.
 
 Transcript Snippet: it is worth noting that never in the history of Utah has there ever been an individual found guilty of aggravated murder where there was just one victim.
 
@@ -2461,11 +2461,11 @@ Investigative Direction: Compare production dates, volumes and the defense's com
 
 ---
 
-**C-7688** Viewer Comment Says Shapiro Announced a Tour and Everyone Knows He and Charlie Were Enemies
+**C-7688** Host Says Shapiro Announced a Tour and Everyone Knows He and Charlie Were Enemies
 
 Claim Timestamp: 00:46:56
 
-Claim: A viewer comment the host reads says Ben Shapiro has announced that he is on tour and that everyone knows he and Charlie Kirk were enemies; the host adds that she guesses Andrew Kolvet thinks he can wipe history and make everybody forget.
+Claim: After reading a viewer comment comparing Ben Shapiro to Plankton on SpongeBob, the host says Shapiro has now announced that he is on tour and that everyone knows he and Charlie Kirk were enemies, adding that she guesses Andrew Kolvet thinks he can wipe history and make everybody forget.
 
 Transcript Snippet: And now he's announced that he's on tour and everyone knows they were enemies.
 
@@ -2481,12 +2481,12 @@ Investigative Direction: Collect public statements and incidents between Kirk an
 
 Claim Timestamp: 00:47:48
 
-Claim: The host says Justin told her he does not actually drink kombucha all that much, which she rejects as unacceptable and a now-folkloric detail.
+Claim: The host says Justin Baldoni told her he does not actually drink kombucha all that much, which she rejects as unacceptable and a now-folkloric detail.
 
 Transcript Snippet: Justin telling me, bruising me, telling me that he doesn't actually drink kombucha all that much.
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-486
 Tags: relevance:tangential
 Investigative Direction: Context only; no record would bear on the case.
 
@@ -2503,7 +2503,7 @@ Transcript Snippet: Our live is bigger than Andrew and Blakes's and the official
 Anchored Artifacts: A-2897.1
 Mentions: N-14, N-160, N-1
 Related Nodes: N-10897
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare concurrent viewer counts on the named streams during the hearing.
 
 ---

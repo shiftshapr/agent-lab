@@ -119,7 +119,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2462",
       "family_ref": "A-2462",
-      "bundle_name": "Will Appointment / DeGroot Confirmation Bundle",
+      "bundle_name": "Will Appointment / DeGroote Confirmation Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -540,7 +540,7 @@
       "ref": "N-238",
       "name": "Glenn Beck",
       "type": "person",
-      "description": "Referenced regarding Erika’s December interview claim that Charlie was unconcerned about death threats the night before (contrast with DeGroot framing).",
+      "description": "Referenced regarding Erika’s December interview claim that Charlie was unconcerned about death threats the night before (contrast with DeGroote framing).",
       "related_artifacts": [],
       "related_claims": [
         "C-3601"
@@ -1236,7 +1236,7 @@
       "ref": "N-11085",
       "name": "Night-Before Security Recommendations Discussion",
       "type": "topic",
-      "description": "DeGroot's account, read from the profile, that on the night before the assassination Charlie discussed security recommendations including bulletproof glass shields and vests with Erika and their pastor.",
+      "description": "DeGroote's account, read from the profile, that on the night before the assassination Charlie discussed security recommendations including bulletproof glass shields and vests with Erika and their pastor.",
       "related_artifacts": [],
       "related_claims": [
         "C-6307"
@@ -1468,7 +1468,7 @@
       "@id": "C-3601",
       "ref": "C-3601",
       "label": "Charlie and Erika had a will-signing appointment set for the Monday after the murder",
-      "claim": "Doug DeGroote confirms they planned to sign will paperwork that Monday; host alleges Mikey McCoy gatekept/canceled prior attempts and rejects DeGroot’s death-threat framing as the sole motive.",
+      "claim": "Doug DeGroote confirms they planned to sign will paperwork that Monday; host alleges Mikey McCoy gatekept/canceled prior attempts and rejects DeGroote’s death-threat framing as the sole motive.",
       "anchored_artifacts": [
         "A-2462.1"
       ],
@@ -1478,7 +1478,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:26:24",
-      "investigative_direction": "Seek calendar/email primary for the appointment; separate DeGroot on-record facts from host allegations about McCoy.",
+      "investigative_direction": "Seek calendar/email primary for the appointment; separate DeGroote on-record facts from host allegations about McCoy.",
       "mentions_person_refs": [
         "N-1",
         "N-2",
@@ -1594,8 +1594,8 @@
       "@type": "Claim",
       "@id": "C-3607",
       "ref": "C-3607",
-      "label": "Board voted Erika CEO within ~48 hours; DeGroot’s “media pressure” explanation is disputed",
-      "claim": "Profile/DeGroot state the board voted two days after Charlie’s death to install Erika, delaying public announce toward memorial because of media questions; host rejects the claim that reporters flooded them for a replacement within 24 hours as the real driver.",
+      "label": "Board voted Erika CEO within ~48 hours; DeGroote’s “media pressure” explanation is disputed",
+      "claim": "Profile/DeGroote state the board voted two days after Charlie’s death to install Erika, delaying public announce toward memorial because of media questions; host rejects the claim that reporters flooded them for a replacement within 24 hours as the real driver.",
       "anchored_artifacts": [
         "A-2459.1",
         "A-2462.1"
@@ -2207,7 +2207,7 @@
       "@type": "Claim",
       "@id": "C-6313",
       "ref": "C-6313",
-      "label": "DeGroot Says Erika Saved TPUSA Two or Three Years of Searching for a New CEO",
+      "label": "DeGroote Says Erika Saved TPUSA Two or Three Years of Searching for a New CEO",
       "claim": "The host reads the profile as quoting Doug DeGroote that Erika saved Turning Point two or three years of searching for and training a new CEO from outside the organization.",
       "anchored_artifacts": [
         "A-2462.1"
@@ -2228,13 +2228,13 @@
       "@type": "Claim",
       "@id": "C-6314",
       "ref": "C-6314",
-      "label": "Host Alleges DeGroot Was Behind the Scenes Wanting Her Crushed in the Media",
+      "label": "Host Alleges DeGroote Was Behind the Scenes Wanting Her Crushed in the Media",
       "claim": "The host alleges that Doug DeGroote, whom she says does a lot of PR for Turning Point, was early on one of the people behind the scenes wanting her crushed in the media.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:31:18",
-      "investigative_direction": "Identify the earlier episode where the host first said this and any messages from DeGroot to media contacts.",
+      "investigative_direction": "Identify the earlier episode where the host first said this and any messages from DeGroote to media contacts.",
       "transcript_snippet": "he was, I told you early on, one of the people that was like crazy behind the scenes and wanting me to be crushed in the media.",
       "mentions_person_refs": [
         "N-497",

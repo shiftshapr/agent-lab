@@ -2107,7 +2107,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:12:41",
+      "claim_timestamp": "00:12:07",
       "investigative_direction": "Obtain New York Post article referenced and court records for George Zinn's case.*",
       "mentions_person_refs": [
         "N-42"
@@ -2140,7 +2140,7 @@
       "@id": "C-3451",
       "ref": "C-3451",
       "label": "Clip Has Baron Coleman Saying Michael George Carl's Primary Assignment Is Cyber Crimes Against Youth / SVU",
-      "claim": "In a clip the host plays, Baron Coleman says that Michael George Carl's documented assignment, per the training listed on his affidavit, is the Special Victims Unit / ICAC, focused on online crimes against children.",
+      "claim": "In a clip the host plays, Baron Coleman says that, per the training listed on his affidavit, Michael George Carl is assigned to the Special Victims Unit at the Utah County Sheriff's Office, primarily working cyber crimes involving the exploitation of youth, and that he completed training at the ICAC Bootstrap Academy.",
       "anchored_artifacts": [
         "A-2378.1"
       ],
@@ -2226,7 +2226,7 @@
       "@id": "C-3456",
       "ref": "C-3456",
       "label": "Host Says David Leavitt Was Named in a 151-Page Victim Statement Related to a 1990-2010 Ritual Child Abuse / Cannibalism Investigation in Utah",
-      "claim": "The host says Utah AG David Leavitt was named in a 151-page victim statement regarding ritualistic child abuse / cannibalism allegations spanning 1990-2010, which she says he characterized as politically manufactured; she notes no criminal finding.",
+      "claim": "The host says Utah AG David Leavitt was named in a 151-page victim statement regarding ritualistic child abuse / cannibalism allegations spanning 1990-2010, which she says he characterized as politically manufactured.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2294,7 +2294,7 @@
       "@id": "C-3460",
       "ref": "C-3460",
       "label": "Multiple TPUSA-adjacent individuals and entities share documented connections to trafficking / child sex abuse cases",
-      "claim": "The episode displays a spreadsheet and host narration enumerating over fifteen individuals / entities linked to TPUSA or Erika Kirk's circle who have documented connections to trafficking, child sex abuse investigations, or related operations.",
+      "claim": "The episode displays a spreadsheet and host narration enumerating over fifteen individuals / entities linked to TPUSA or Erika Kirk's circle whom the host connects to trafficking, child sex abuse investigations, or related operations.",
       "anchored_artifacts": [
         "A-2382.1"
       ],
@@ -2344,7 +2344,7 @@
       "@type": "Claim",
       "@id": "C-3463",
       "ref": "C-3463",
-      "label": "Host Says George Zinn Was Sentenced for Child Sex Crimes After His Arrest on September 10",
+      "label": "Host Says George Zinn Was Sentenced for Child Sex Crimes After His Arrest",
       "claim": "The host says George Zinn was sentenced for child sex crimes following his arrest in the immediate aftermath of the September 10 event.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2472,7 +2472,7 @@
       "@id": "C-10504",
       "ref": "C-10504",
       "label": "Host Says Harvest Church Is in Court Over Accusations of Trafficking Children From Romania and Denies the Charges",
-      "claim": "The host says the church linked to that tour is currently going through the court system accused of trafficking children from Romania, that it denies the charges, and that it does not deny people may have been trafficked.",
+      "claim": "The host says Harvest Church, linked to that tour, is currently going through the court system accused of trafficking children from Romania, and that Greg Laurie denies the charges but does not deny people may have been trafficked.",
       "anchored_artifacts": [
         "A-2382.1"
       ],
@@ -2582,7 +2582,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:06:14",
       "investigative_direction": "Ask Erika Kirk to name the organization in China; search charity registries and her own prior statements about it.",
@@ -2703,8 +2703,8 @@
       "@type": "Claim",
       "@id": "C-10515",
       "ref": "C-10515",
-      "label": "Host Says Marcus Wada Runs Trafficking-Rescue Arms in Poland and Rick Cutler Rescued Kids From Trafficking in South America",
-      "claim": "The host says Marcus Wada is tied to more trafficking-related work in Poland, and that Rick Cutler rescued kids from sex trafficking in South America through Operation Underground, which she says Glenn Beck funded.",
+      "label": "Host Says Marcus Wada Is Linked to Trafficking Arms in Poland and Rick Cutler Rescued Kids From Trafficking in South America",
+      "claim": "The host says of Marcus Wada, \"that's more trafficking arms in Poland,\" and that Rick Cutler rescued kids from sex trafficking in South America through Operation Underground, which she says Glenn Beck funded.",
       "anchored_artifacts": [
         "A-2382.1"
       ],
@@ -2729,7 +2729,7 @@
       "@id": "C-10516",
       "ref": "C-10516",
       "label": "Host Says Philip Goldsberry Jr. Co-Founded Soter Global Ministries Serving Orphans in Romania, Albania and Ukraine",
-      "claim": "The host says Philip Goldsberry Jr. co-founded Soter Global Ministries (transcribed Sofur), a 501(c)(3) that provides medical care and training to orphans in Romania, Albania and Ukraine.",
+      "claim": "The host says Philip Goldsberry Jr. co-founded Soter Global Ministries, a 501(c)(3) that provides medical care and training to orphans in Romania, Albania and Ukraine.",
       "anchored_artifacts": [
         "A-2382.1"
       ],
@@ -2743,8 +2743,7 @@
       "investigative_direction": "Pull the IRS filing for Sofer Global Ministries and its officers.",
       "transcript_snippet": "co-founding Soter Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.",
       "mentions_person_refs": [
-        "N-688",
-        "N-689"
+        "N-688"
       ]
     },
     {

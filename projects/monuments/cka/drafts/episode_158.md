@@ -80,14 +80,14 @@ Confidence Level: High (quote as read); Medium (wardrobe catalog as host compila
 
 ---
 
-**A-2462** Will Appointment / DeGroot Confirmation Bundle
+**A-2462** Will Appointment / DeGroote Confirmation Bundle
 
 **A-2462.1** Doug DeGroote on-record that Charlie and Erika planned to sign will paperwork the Monday after the murder; host overlays alleged Mikey McCoy gatekeeping and prior cancellations.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:26:24
 Discovery Timestamp: 00:00:00–00:00:01
-Confidence Level: High (DeGroot quote as read); Low–Medium (McCoy gatekeeping as host allegation)
+Confidence Level: High (DeGroote quote as read); Low–Medium (McCoy gatekeeping as host allegation)
 
 *Related: C-3601, N-10218, N-497, N-191, N-1, N-2*
 
@@ -302,7 +302,7 @@ Episode Count: (series-level)
 
 **N-238** Glenn Beck
 
-Referenced regarding Erika’s December interview claim that Charlie was unconcerned about death threats the night before (contrast with DeGroot framing).
+Referenced regarding Erika’s December interview claim that Charlie was unconcerned about death threats the night before (contrast with DeGroote framing).
 
 Evidence Count: (series-level)
 Claim Count: (series-level)
@@ -687,7 +687,7 @@ The profile's and the host's account that TPUSA chased leaks to the host, fired 
 **N-11085** Night-Before Security Recommendations Discussion
 
 Node Type: Topic
-DeGroot's account, read from the profile, that on the night before the assassination Charlie discussed security recommendations including bulletproof glass shields and vests with Erika and their pastor.
+DeGroote's account, read from the profile, that on the night before the assassination Charlie discussed security recommendations including bulletproof glass shields and vests with Erika and their pastor.
 
 *Related: C-6307*
 
@@ -828,14 +828,14 @@ Investigative Direction: Build dated outfit plate from primary video stills; kee
 
 Claim Timestamp: 00:26:24
 
-Claim: Doug DeGroote confirms they planned to sign will paperwork that Monday; host alleges Mikey McCoy gatekept/canceled prior attempts and rejects DeGroot’s death-threat framing as the sole motive.
+Claim: Doug DeGroote confirms they planned to sign will paperwork that Monday; host alleges Mikey McCoy gatekept/canceled prior attempts and rejects DeGroote’s death-threat framing as the sole motive.
 
 Anchored Artifacts: A-2462.1
 Mentions: N-1, N-2, N-191, N-497
 
 Related Nodes: N-10198, N-10218
 
-Investigative Direction: Seek calendar/email primary for the appointment; separate DeGroot on-record facts from host allegations about McCoy.
+Investigative Direction: Seek calendar/email primary for the appointment; separate DeGroote on-record facts from host allegations about McCoy.
 
 ---
 
@@ -914,11 +914,11 @@ Investigative Direction: Preserve deleted-tweet captures; confirm handles/dates;
 
 ---
 
-**C-3607** Board voted Erika CEO within ~48 hours; DeGroot’s “media pressure” explanation is disputed
+**C-3607** Board voted Erika CEO within ~48 hours; DeGroote’s “media pressure” explanation is disputed
 
 Claim Timestamp: 00:30:00
 
-Claim: Profile/DeGroot state the board voted two days after Charlie’s death to install Erika, delaying public announce toward memorial because of media questions; host rejects the claim that reporters flooded them for a replacement within 24 hours as the real driver.
+Claim: Profile/DeGroote state the board voted two days after Charlie’s death to install Erika, delaying public announce toward memorial because of media questions; host rejects the claim that reporters flooded them for a replacement within 24 hours as the real driver.
 
 Anchored Artifacts: A-2459.1, A-2462.1
 Mentions: N-2, N-497
@@ -1343,7 +1343,7 @@ Investigative Direction: Obtain the host's dated message or call record with Kol
 
 ---
 
-**C-6313** DeGroot Says Erika Saved TPUSA Two or Three Years of Searching for a New CEO
+**C-6313** DeGroote Says Erika Saved TPUSA Two or Three Years of Searching for a New CEO
 
 Claim Timestamp: 00:31:32
 
@@ -1358,7 +1358,7 @@ Investigative Direction: Confirm the quote in the published profile and request 
 
 ---
 
-**C-6314** Host Alleges DeGroot Was Behind the Scenes Wanting Her Crushed in the Media
+**C-6314** Host Alleges DeGroote Was Behind the Scenes Wanting Her Crushed in the Media
 
 Claim Timestamp: 00:31:18
 
@@ -1368,7 +1368,7 @@ Transcript Snippet: he was, I told you early on, one of the people that was like
 
 Anchored Artifacts: 
 Mentions: N-497, N-3
-Investigative Direction: Identify the earlier episode where the host first said this and any messages from DeGroot to media contacts.
+Investigative Direction: Identify the earlier episode where the host first said this and any messages from DeGroote to media contacts.
 
 ---
 
