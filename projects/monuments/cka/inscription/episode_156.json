@@ -830,7 +830,7 @@
       "ref": "N-190",
       "name": "Ryan Matta",
       "type": "person",
-      "description": "Person the host says she phoned about the shopping center sighting (spelled Ryan Mata in the transcript).",
+      "description": "Person the host says she phoned about the shopping center sighting (spelled Ryan Matta in the transcript).",
       "related_artifacts": [],
       "related_claims": [
         "C-7795",
@@ -1918,8 +1918,8 @@
       "@type": "Claim",
       "@id": "C-7795",
       "ref": "C-7795",
-      "label": "Host Says She Phoned Ryan Mata About How the Shopping Center Sighting Surfaced",
-      "claim": "The host says she called Ryan Mata that day to ask how he came by the Mountain Shadows information, wondering whether it was fed to the public.",
+      "label": "Host Says She Phoned Ryan Matta About How the Shopping Center Sighting Surfaced",
+      "claim": "The host says she called Ryan Matta that day to ask how he came by the Mountain Shadows information, wondering whether it was fed to the public.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11151"
@@ -1928,8 +1928,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:16:09",
-      "investigative_direction": "Ask Ryan Mata for the original source and date of the shopping-center sighting report.",
-      "transcript_snippet": "I actually called Ryan Mata today.",
+      "investigative_direction": "Ask Ryan Matta for the original source and date of the shopping-center sighting report.",
+      "transcript_snippet": "I actually called Ryan Matta today.",
       "mentions_person_refs": [
         "N-3",
         "N-190"
@@ -2207,8 +2207,8 @@
       "@type": "Claim",
       "@id": "C-7808",
       "ref": "C-7808",
-      "label": "Host Says the Shopping Center Tip Reached Ryan Mata Through a Chain of Contacts",
-      "claim": "The host says Ryan Mata was reached by someone who was reached by someone else, and that she is making phone calls to trace the information.",
+      "label": "Host Says the Shopping Center Tip Reached Ryan Matta Through a Chain of Contacts",
+      "claim": "The host says Ryan Matta was reached by someone who was reached by someone else, and that she is making phone calls to trace the information.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11151"
@@ -2217,7 +2217,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:25:37",
-      "investigative_direction": "Reconstruct the chain of contacts from the original shopping center witness to Ryan Mata.",
+      "investigative_direction": "Reconstruct the chain of contacts from the original shopping center witness to Ryan Matta.",
       "transcript_snippet": "I was talking to Ryan, you know, he got reached out to somebody who got reached out to somebody got reached out to by somebody else.",
       "mentions_person_refs": [
         "N-3",

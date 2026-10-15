@@ -475,7 +475,7 @@
           "@type": "Artifact",
           "@id": "A-2718.1",
           "ref": "A-2718.1",
-          "description": "Four pieces of footage of the alleged shooter reviewed by the host: Phil Lyman house footage, TMZ neighborhood footage, Ryan Mata's parking lot footage and the rooftop jump footage (apparently on screen)",
+          "description": "Four pieces of footage of the alleged shooter reviewed by the host: Phil Lyman house footage, TMZ neighborhood footage, Ryan Matta's parking lot footage and the rooftop jump footage (apparently on screen)",
           "related_claims": [
             "C-4938",
             "C-4939"
@@ -1383,7 +1383,7 @@
       "ref": "N-190",
       "name": "Ryan Matta",
       "type": "person",
-      "description": "Ryan Mata; supplied the parking lot footage of the alleged shooter.",
+      "description": "Ryan Matta; supplied the parking lot footage of the alleged shooter.",
       "related_artifacts": [],
       "related_claims": [
         "C-4938",
@@ -2577,7 +2577,7 @@
       "@id": "C-4938",
       "ref": "C-4938",
       "label": "Host Says Viewer Emails Note a Possible RAV 4 in Each Piece of Shooter Footage",
-      "claim": "The host says viewer emails noted what might be a RAV 4 in every available footage of the alleged shooter, including the Phil Lyman house footage, the TMZ footage, Ryan Mata's parking lot footage and the rooftop jump footage, while allowing it may be coincidence.",
+      "claim": "The host says viewer emails noted what might be a RAV 4 in every available footage of the alleged shooter, including the Phil Lyman house footage, the TMZ footage, Ryan Matta's parking lot footage and the rooftop jump footage, while allowing it may be coincidence.",
       "anchored_artifacts": [
         "A-2718.1"
       ],
@@ -2601,7 +2601,7 @@
       "@id": "C-4939",
       "ref": "C-4939",
       "label": "Host Says Only Four Pieces of Footage of the Alleged Shooter Have Been Seen",
-      "claim": "The host says only four pieces of footage of the alleged shooter have been seen: one in front of a house she thinks is the Phil Lyman house, the TMZ footage, the parking lot footage provided by Ryan Mata, and the rooftop jump footage.",
+      "claim": "The host says only four pieces of footage of the alleged shooter have been seen: one in front of a house she thinks is the Phil Lyman house, the TMZ footage, the parking lot footage provided by Ryan Matta, and the rooftop jump footage.",
       "anchored_artifacts": [
         "A-2718.1"
       ],
