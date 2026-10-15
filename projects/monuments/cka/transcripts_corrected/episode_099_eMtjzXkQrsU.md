@@ -59,11 +59,11 @@ I felt that way regarding the betrayal of it all, the instantaneous recognition 
 
 [06:41]
 
-Baron Coleman had done a show and concluded something that I think we're all feeling. And I just wanted to share it with you guys. Take a listen to what he had to say. We think about people like J E of the files fame. We think about the prime minister of our greatest ally. Think about the president of the United States and what he's become. Think about Johnny Moore. Think about Andrew Klavan. Think about Glenn Beck. Think about all these people that this is like their life's mission is to support the greatest ally. And and it raises an inevitable question of who is pulling the strings. Who is the one pulling the strings? Who is the marionette? Who's the one We like to think the prime minister of our greatest ally is pulling the strings here in the United States. I don't think so.
+Baron Coleman had done a show and concluded something that I think we're all feeling. And I just wanted to share it with you guys. Take a listen to what he had to say. We think about people like J E of the files fame. We think about the prime minister of our greatest ally. Think about the president of the United States and what he's become. Think about Johnnie Moore. Think about Andrew Klavan. Think about Glenn Beck. Think about all these people that this is like their life's mission is to support the greatest ally. And and it raises an inevitable question of who is pulling the strings. Who is the one pulling the strings? Who is the marionette? Who's the one We like to think the prime minister of our greatest ally is pulling the strings here in the United States. I don't think so.
 
 [07:33]
 
-Oh, is Johnny Moore and Andrew Klavan are they pulling the strings of Erika and and Tyler and and Charlie? I don't think so. I want to say something dark here. I don't think a human is pulling the strings.
+Oh, is Johnnie Moore and Andrew Klavan are they pulling the strings of Erika and and Tyler and and Charlie? I don't think so. I want to say something dark here. I don't think a human is pulling the strings.
 
 [07:55]
 

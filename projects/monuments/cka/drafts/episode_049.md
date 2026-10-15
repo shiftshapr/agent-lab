@@ -579,7 +579,7 @@ Reused for the weapon recovery and eyewitness description.
 
 Claim Timestamp: 00:12:00
 
-Claim: Emails received by host state that Fort Huachuca is where U.S. Army soldiers attend advanced Military Intelligence training courses lasting 4–6 months following basic training.
+Claim: An email the host reads states that Fort Huachuca is where soldiers go for their Army Military Intelligence (MIT) courses, the advanced job training they take after basic training.
 
 Anchored Artifacts: A-1557.1
 

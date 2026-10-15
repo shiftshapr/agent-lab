@@ -359,7 +359,7 @@
           "@type": "Artifact",
           "@id": "A-1820.1",
           "ref": "A-1820.1",
-          "description": "Blake Neff clip from the Todd Chris podcast stating that Erika said Charlie, if given the choice, would not undo what happened because of the \"faith revolution\" unleashed.",
+          "description": "Blake Neff clip from the Charlie Kirk podcast stating that Erika said Charlie, if given the choice, would not undo what happened because of the \"faith revolution\" unleashed.",
           "related_claims": [
             "C-2432"
           ],
@@ -387,7 +387,7 @@
           "@type": "Artifact",
           "@id": "A-1821.1",
           "ref": "A-1821.1",
-          "description": "Note relayed via producer that Blake Neff confirmed the full Todd Chris podcast episode (including Neff's comments about Erika) was not cut – only the Twitter stream version was trimmed; the Rumble version remains intact.",
+          "description": "Note relayed via producer that Blake Neff confirmed the full Charlie Kirk podcast episode (including Neff's comments about Erika) was not cut – only the Twitter stream version was trimmed; the Rumble version remains intact.",
           "related_claims": [
             "C-2433"
           ],
@@ -2215,17 +2215,18 @@
       "@type": "Claim",
       "@id": "C-2432",
       "ref": "C-2432",
-      "label": "Blake Neff on Todd Chris Podcast: Erika Said Charlie Wouldn't Undo His Death",
-      "claim": "On the Todd Chris podcast, Blake Neff stated that Erika said Charlie would not undo what happened because of the \"faith revolution\" it unleashed.",
+      "label": "Blake Neff on The Charlie Kirk Show: Erika Said Charlie Wouldn't Undo His Death",
+      "claim": "On The Charlie Kirk Show, Blake Neff said Erika had said that, given the choice to undo what happened, Charlie would not, she thought, \"because of what was unleashed by it.\"",
       "anchored_artifacts": [
         "A-1820.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:33:37–00:34:25",
-      "investigative_direction": "Obtain the full Rumble-hosted Todd Chris episode; verify Neff's quoted statement in context.",
+      "investigative_direction": "Obtain the full Rumble-hosted Charlie Kirk episode; verify Neff's quoted statement in context.",
       "mentions_person_refs": [
         "N-1",
+        "N-2",
         "N-160"
       ]
     },
@@ -2233,8 +2234,8 @@
       "@type": "Claim",
       "@id": "C-2433",
       "ref": "C-2433",
-      "label": "Blake Neff Confirms Rumble Version of Todd Chris Episode Uncut",
-      "claim": "A message relayed via producer indicates that Blake Neff confirmed the full Todd Chris podcast episode (including his comments about Erika) remains intact on Rumble; only the Twitter stream version was trimmed.",
+      "label": "Blake Neff Confirms Rumble Version of Charlie Kirk Episode Uncut",
+      "claim": "A message relayed via producer indicates that Blake Neff confirmed the full Charlie Kirk podcast episode (including his comments about Erika) remains intact on Rumble; only the Twitter stream version was trimmed.",
       "anchored_artifacts": [
         "A-1821.1",
         "A-1820.1"
@@ -3131,8 +3132,8 @@
       "@type": "Claim",
       "@id": "C-10265",
       "ref": "C-10265",
-      "label": "Host Says Kairos Company Works With Burnett Through Johnny Moore",
-      "claim": "The host says the Kairos company is working with Mark Burnett via Johnny Moore.",
+      "label": "Host Says Kairos Company Works With Burnett Through Johnnie Moore",
+      "claim": "The host says the Kairos company is working with Mark Burnett via Johnnie Moore.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11164"
@@ -3142,7 +3143,7 @@
       ],
       "claim_timestamp": "00:21:19",
       "investigative_direction": "Check Kairos and Burnett business filings and Moore's roles.",
-      "transcript_snippet": "Kairos company is working with Mark Burnett's via Johnny Moore.",
+      "transcript_snippet": "Kairos company is working with Mark Burnett's via Johnnie Moore.",
       "supports_claim_refs": [
         "C-2071"
       ],

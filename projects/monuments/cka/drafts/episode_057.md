@@ -799,7 +799,7 @@ Investigative Direction: Locate the specific text messages in the earlier episod
 
 **C-2105** Charlie Kirk asserted his death would relate to Turning Point USA
 
-Claim Timestamp: 00:20:33
+Claim Timestamp: 00:20:15
 
 Claim: The host presents Charlie Kirk's assertion (via referenced text messages) that from the moment he signed onto Turning Point USA, he knew he would die young and that his death would be related to Turning Point USA.
 

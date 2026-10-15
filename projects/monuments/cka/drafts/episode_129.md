@@ -639,7 +639,7 @@ Viva Frei (spelled Viva Frei in the register); his Charlie Kirk Show remarks on 
 
 **N-438** Johnnie Moore
 
-Johnny Moore; the host says he is dropping digital assassin articles at her.
+Johnnie Moore; the host says he is dropping digital assassin articles at her.
 
 *Related: C-11584*
 
@@ -1628,13 +1628,13 @@ Investigative Direction: Obtain the unedited newsroom feed and review the men's 
 
 ---
 
-**C-11584** Host Says Johnny Moore Is Dropping Digital Assassin Articles Aimed at Her
+**C-11584** Host Says Johnnie Moore Is Dropping Digital Assassin Articles Aimed at Her
 
 Claim Timestamp: 00:21:05
 
-Claim: The host says Reverend Johnny Moore is working corporate and dropping digital assassin articles aimed at her that blame his competitors.
+Claim: The host says Reverend Johnnie Moore is working corporate and dropping digital assassin articles aimed at her that blame his competitors.
 
-Transcript Snippet: Reverend Johnny Moore is working corporate dropping digital assassin articles aimed at me blaming his competitors.
+Transcript Snippet: Reverend Johnnie Moore is working corporate dropping digital assassin articles aimed at me blaming his competitors.
 
 Anchored Artifacts: 
 Mentions: N-438, N-3

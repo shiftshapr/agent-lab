@@ -795,8 +795,8 @@ Investigative Direction: Corroborate via marriage records, flight manifests, and
 
 **C-1269** Bee-code school danger premonition texts (Aug 30–Sep 2)
 
-Claim Timestamp: 00:14:15
-Claim: Candace exchanged text messages Aug 30–Sep 2 with her husband and sister describing 'imminent danger' and a 'communist underground' at schools using 'bees' as coded language.
+Claim Timestamp: 00:14:06
+Claim: The host says she texted her husband and sister (Aug 30–Sep 2) that imminent danger was coming, relating to a school and a 'communist underground' that had 'something to do with bees', after seeing people online talk about bees in a way that seemed coded.
 Transcript Snippet: Imminent danger is coming…communist underground…has something to do with bees.
 Anchored Artifacts: A-1155.2
 Mentions: N-3, N-30, N-113

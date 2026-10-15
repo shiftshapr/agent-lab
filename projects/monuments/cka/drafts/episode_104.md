@@ -21,7 +21,7 @@
 
 ## 2. Executive Summary
 
-The host says the White House Military Office sent a communications email at about 9:49 p.m. Eastern on the night of the White House Correspondents' Dinner shooting, and that the White House then tried to rescind it. She dates the shooting to 8:36 p.m. and says Sarah Sidner of CNN was the first to post Erika Kirk's "I just want to go home" clip, at 9:25 p.m., citing Instagram metadata (A-2575.1). She reads the part of the email that calls the clip the incident's "strongest emotional response" asset and recommends that all channels and "approved surrogates" amplify it overnight (A-2574.1). The host does not show the email. She says the Department of Defense uses a "canary" watermarking tactic to trace leakers, and she names three people she says were copied: Steven Cheung, Ryan Rippeon and Gustav Anderly of the White House Communications Agency. She adds that, according to her sources, the recall failed and recipients were ordered to delete the email (A-2574.2).
+The host says the White House Military Office sent a communications email at about 9:49 p.m. Eastern on the night of the White House Correspondents' Dinner shooting, and that the White House then tried to rescind it. She dates the shooting to 8:36 p.m. and says Sara Sidner of CNN was the first to post Erika Kirk's "I just want to go home" clip, at 9:25 p.m., citing Instagram metadata (A-2575.1). She reads the part of the email that calls the clip the incident's "strongest emotional response" asset and recommends that all channels and "approved surrogates" amplify it overnight (A-2574.1). The host does not show the email. She says the Department of Defense uses a "canary" watermarking tactic to trace leakers, and she names three people she says were copied: Steven Cheung, Ryan Rippeon and Gustav Anderly of the White House Communications Agency. She adds that, according to her sources, the recall failed and recipients were ordered to delete the email (A-2574.2).
 
 The host then relays a tips-line story she says was verified with receipts (A-2576.1). According to the host, Justin Streiff, who had been promoted to TPUSA chief operating officer seven days before the assassination, allegedly called a book printer on September 10 to at least double the order for Charlie Kirk's book "Stop in the Name of God", after getting Erika Kirk's approval. She repeats an outside source's and an insider's accounts that about $10 million was missing from Turning Point Action. She also says Streiff runs Winning Team Publishing, which Sergio Gor and Donald Trump Jr. founded. She relays a rumor that Gor left his White House deputy chief of staff role after clashing with Elon Musk, including over Jared Isaacman's appointment, and over an alleged relationship. She plays Erika Kirk's remarks at Gor's ambassador-to-India ceremony (A-2577.1).
 
@@ -53,9 +53,9 @@ Confidence Level: Low
 
 ---
 
-**A-2575** Sarah Sidner Instagram Metadata Bundle
+**A-2575** Sara Sidner Instagram Metadata Bundle
 
-**A-2575.1** Instagram metadata tool screen showing Sarah Sidner's "I want to go home" post at 1:25 a.m. UTC (shown on screen)
+**A-2575.1** Instagram metadata tool screen showing Sara Sidner's "I want to go home" post at 1:25 a.m. UTC (shown on screen)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:02:50
@@ -273,9 +273,9 @@ His Fort Huachuca account is said to have checked out through Captain Adam Nef.
 
 *Related: C-4102*
 
-**N-371** Sarah Sidner
+**N-371** Sara Sidner
 
-Transcript spellings "Sarah Sidner" / "Sarah Seidner". CNN anchor the host says first posted the "I want to go home" clip, at 9:25 p.m. Eastern.
+Transcript spellings "Sara Sidner" / "Sarah Seidner". CNN anchor the host says first posted the "I want to go home" clip, at 9:25 p.m. Eastern.
 
 *Related: C-4065, C-4073, A-2575.1*
 
@@ -339,7 +339,7 @@ Shooting timed at 8:36 p.m. Eastern, followed by the clip and the email.
 
 *Related: C-4064, C-4065, C-4066, C-4076*
 
-**N-10638** Sarah Sidner Original Video Source Verification
+**N-10638** Sara Sidner Original Video Source Verification
 
 Host says the clip was distributed to Sidner and recorded by operatives.
 
@@ -494,13 +494,13 @@ Investigative Direction: Obtain the Secret Service and MPD incident timeline for
 
 ---
 
-**C-4065** Sarah Sidner first posted the "I want to go home" clip at 9:25 p.m. Eastern
+**C-4065** Sara Sidner first posted the "I want to go home" clip at 9:25 p.m. Eastern
 
 Claim Timestamp: 00:02:50
 
-Claim: The host says CNN's Sarah Sidner was the first person on social media to upload Erika Kirk's "I want to go home" video, at 9:25 p.m. Eastern (1:25 a.m. UTC), according to an Instagram metadata tool.
+Claim: The host says CNN's Sara Sidner was the first person on social media to upload Erika Kirk's "I want to go home" video, at 9:25 p.m. Eastern (1:25 a.m. UTC), according to an Instagram metadata tool.
 
-Transcript Snippet: Sarah Sidner, you will recall, of CNN, uh she became the first person on social media to upload the now infamous I I want to go home video, Erika Kirk.
+Transcript Snippet: Sara Sidner, you will recall, of CNN, uh she became the first person on social media to upload the now infamous I I want to go home video, Erika Kirk.
 
 Anchored Artifacts: A-2575.1
 Mentions: N-371, N-2
@@ -619,7 +619,7 @@ Investigative Direction: Identify the "approved surrogates" and digital partners
 
 Claim Timestamp: 00:09:31
 
-Claim: The host says she is told the "I want to go home" video was not recorded by Sarah Sidner but was distributed to her, and that operatives recorded the moment.
+Claim: The host says she is told the "I want to go home" video was not recorded by Sara Sidner but was distributed to her, and that operatives recorded the moment.
 
 Transcript Snippet: I am told um that this was not a video recorded by Sarah Seidner and that instead it was distributed to Sarah Seidner and that they had operatives record that moment.
 
@@ -1390,7 +1390,7 @@ Confidence: high
 
 - **Artifacts verbally referenced but not shown**: A-2574.1 (the White House Military Office email is read aloud but deliberately not shown, which the host attributes to canary watermarking), A-2574.2 (deletion-order emails), A-2576.1 (tips-line receipts) and A-2580.1 (Blake Neff's X posts).
 - **Skeleton handling**: The existing N-16 and N-161 rows and the M-42 occurrence are kept with their ids and text; only their placeholder *Related:* lines were filled in. The N-161 description mentions an "Epstein situation-room attendee read", which does not appear in this transcript; it is kept verbatim from the skeleton. The skeleton's ledger line "Hole-minted Nodes (remap-ep104): N-161" was replaced by "(see registers)" per the spec. Its Video Timestamp Range (00:56:29) was corrected to the transcript duration, 49:46.
-- **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Nef" is N-160 Blake Neff. "Captain Adam Nef" / "Commander Nef" is N-320. "Sarah Seidner" is N-371 Sarah Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
+- **Name matching**: "Justin Streiff" (chapter title "Justin Streiff") is mapped to N-15. "Blakey Nef" is N-160 Blake Neff. "Captain Adam Nef" / "Commander Nef" is N-320. "Sarah Seidner" is N-371 Sara Sidner. "Don Trump Jr." is N-33. The "mysterious Pierre" is linked only to topic N-10493; he is not matched to the existing Pierre S. du Pont person node, because the transcript gives no surname.
 - **New-person spellings**: "Ryan Rippeon" and "Gustav Anderly" are kept as spoken; real spellings are unverified. N-613 is named Jessica Reed Kraus (transcript "Jessica Reed Krauss", handle rendered "House and Drinking Habit"). For N-626, the host says she is "definitely not saying this name right" ("Gosh Farani", "Gosh Fani", "Farhani", "Verahani", "Verhani"). The node is named Golshifteh Farahani, the exiled Iranian actress whose name these spellings appear to render; the integrator should verify this. "Ike Cromoter" (21:13), named as someone whose "guy" Gor is, could not be matched and was not minted.
 - **Transcription ambiguities**: "rescend" / "resend" for rescind, and "plat platforms", are kept as written. "Brigitte / Brigitte / Brigitte Macron" (Brigitte Macron), "Emmanuel Macron", "capta" (CAPTCHA) and "Vavlla" (favela) are kept as written. The host says Streiff "he's not just the CEO" (20:14) but elsewhere calls him COO; COO is used.
 - **Possible cross-episode links left out**: C-4064 was not linked to C-2791 (Washington Post: Secret Service fired at the WHCD suspect), because the host says the agents fired "at one another", a different proposition. C-4097–C-4099 were not linked to C-2901/C-2552 (Nick Shirley's own infiltration claims), because they concern teacher praise, not the infiltration. C-4081–C-4083 were not linked to C-2114 (Buckmans' $10 million gift), which is a different proposition.

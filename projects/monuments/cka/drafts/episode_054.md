@@ -1161,7 +1161,7 @@ Liberty University and TPUSA joint venture the host says Falwell Jr. and Kirk es
 **N-11164** Kairos Company
 
 Node Type: Organization
-PR firm led by Johnny Moore where the host says Andrew Kolvet worked.
+PR firm led by Johnnie Moore where the host says Andrew Kolvet worked.
 
 *Related: C-8136, C-8138*
 
@@ -1968,27 +1968,27 @@ Investigative Direction: Find interviews or biographies in which Rob McCoy or Ki
 
 ---
 
-**C-8136** Host Says Kolvet Did PR for the Kairos Company Under Johnny Moore
+**C-8136** Host Says Kolvet Did PR for the Kairos Company Under Johnnie Moore
 
 Claim Timestamp: 00:06:39
 
-Claim: The host says Andrew Kolvet worked in PR for the Kairos Company under Johnny Moore, who she says had been lead pastor at Liberty University before leaving to start the PR firm.
+Claim: The host says Andrew Kolvet worked in PR for the Kairos Company under Johnnie Moore, who she says had been lead pastor at Liberty University before leaving to start the PR firm.
 
-Transcript Snippet: Andrew Kolvet was working PR for the Kairos Company under Johnny Moore.
+Transcript Snippet: Andrew Kolvet was working PR for the Kairos Company under Johnnie Moore.
 
 Anchored Artifacts: A-2920.1
 Mentions: N-14, N-438
 Related Nodes: N-11164, N-11104, N-11172
 Tags: relevance:context
-Investigative Direction: Check Kolvet's and Johnny Moore's public biographies and Kairos Company staff listings for dates of employment.
+Investigative Direction: Check Kolvet's and Johnnie Moore's public biographies and Kairos Company staff listings for dates of employment.
 
 ---
 
-**C-8137** Host Says Johnny Moore Was Put in Charge of Gaza Humanitarian Fund Food Distribution
+**C-8137** Host Says Johnnie Moore Was Put in Charge of Gaza Humanitarian Fund Food Distribution
 
 Claim Timestamp: 00:07:47
 
-Claim: The host says Johnny Moore was made head of the Gaza Humanitarian Fund and given the job of distributing food to Palestinian children and families, and that she has no idea why he got the position.
+Claim: The host says Johnnie Moore was made head of the Gaza Humanitarian Fund and given the job of distributing food to Palestinian children and families, and that she has no idea why he got the position.
 
 Transcript Snippet: He was somehow equipped to lead the Gaza Humanitarian Fund and he gets this role essentially
 
@@ -1996,7 +1996,7 @@ Anchored Artifacts:
 Mentions: N-438, N-3
 Related Nodes: N-10670
 Tags: relevance:tangential
-Investigative Direction: Confirm Johnny Moore's role with the Gaza Humanitarian Foundation through GHF announcements and press reports.
+Investigative Direction: Confirm Johnnie Moore's role with the Gaza Humanitarian Foundation through GHF announcements and press reports.
 
 ---
 

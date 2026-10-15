@@ -1871,19 +1871,19 @@ Investigative Direction: Locate the Israeli statement the commenter refers to; t
 
 ---
 
-**C-12579** Host Says Aguilar Went on Tucker's Show and Spoke About Johnny Moore and Fake Gaza Aid
+**C-12579** Host Says Aguilar Went on Tucker's Show and Spoke About Johnnie Moore and Fake Gaza Aid
 
 Claim Timestamp: 00:43:18
 
-Claim: The host says Anthony Aguilar went on Tucker Carlson's show, was attacked, and spoke about Johnny Moore and fake Gaza humanitarian aid that she says let Palestinian children and women be murdered.
+Claim: The host says Anthony Aguilar went on Tucker Carlson's show, was attacked, and spoke about Johnnie Moore and fake Gaza humanitarian aid that she says let Palestinian children and women be murdered.
 
-Transcript Snippet: He went on Tucker Carlson's show and then he was attacked and he spoke about Johnny Moore and the fake Gazin humanitarian aid that was really just kind of letting Palestinian children and uh women be murdered
+Transcript Snippet: He went on Tucker Carlson's show and then he was attacked and he spoke about Johnnie Moore and the fake Gazin humanitarian aid that was really just kind of letting Palestinian children and uh women be murdered
 
 Anchored Artifacts: 
 Mentions: N-3, N-454, N-22, N-438
 Related Nodes: N-10670
 Tags: relevance:context
-Investigative Direction: Review Aguilar's Tucker Carlson interview for his exact statements about Johnny Moore and the aid sites.
+Investigative Direction: Review Aguilar's Tucker Carlson interview for his exact statements about Johnnie Moore and the aid sites.
 
 ---
 

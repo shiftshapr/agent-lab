@@ -1258,7 +1258,7 @@
       "ref": "N-438",
       "name": "Johnnie Moore",
       "type": "person",
-      "description": "Johnny Moore; the host says he is dropping digital assassin articles at her.",
+      "description": "Johnnie Moore; the host says he is dropping digital assassin articles at her.",
       "related_artifacts": [],
       "related_claims": [
         "C-11584"
@@ -2830,8 +2830,8 @@
       "@type": "Claim",
       "@id": "C-11584",
       "ref": "C-11584",
-      "label": "Host Says Johnny Moore Is Dropping Digital Assassin Articles Aimed at Her",
-      "claim": "The host says Reverend Johnny Moore is working corporate and dropping digital assassin articles aimed at her that blame his competitors.",
+      "label": "Host Says Johnnie Moore Is Dropping Digital Assassin Articles Aimed at Her",
+      "claim": "The host says Reverend Johnnie Moore is working corporate and dropping digital assassin articles aimed at her that blame his competitors.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2841,7 +2841,7 @@
       ],
       "claim_timestamp": "00:21:05",
       "investigative_direction": "Identify the specific digital assassin articles the host refers to and their authors and publication dates.",
-      "transcript_snippet": "Reverend Johnny Moore is working corporate dropping digital assassin articles aimed at me blaming his competitors.",
+      "transcript_snippet": "Reverend Johnnie Moore is working corporate dropping digital assassin articles aimed at me blaming his competitors.",
       "mentions_person_refs": [
         "N-438",
         "N-3"

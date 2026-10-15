@@ -13,7 +13,7 @@
     "transcript_sha256": "8fa969dba43042db5893cc29c3f2e01cf24703d976572f4015d20142f83e6dab",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode centers on the September 10, 2025 evidence-handling behavior of Terryl Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kolvet's Tucker Carlson appearance explaining the SD-card removal as protection against \"evil people.\" The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.\n\nThe episode advances several investigative questions: (1) whether Farnsworth's claimed Google-hacking fear was a lie, given his same-day Google Drive transmission; (2) whether footage from behind Charlie Kirk's head was specifically clipped and zoomed in; (3) whether FBI involvement in a state-level Utah homicide is procedurally anomalous, supported by a clip of former CIA officer John Kirraou. The episode also presents a Joe Rogan Experience clip in which panelists discuss apparent perspective distortion in a published Tyler Robinson identification photo, and a WearForbidden parody video.\n\nStructurally, this episode functions as evidence-chain and chain-of-custody consolidation prior to the next development in the series.\n\n---",
+  "executive_summary": "This episode centers on the September 10, 2025 evidence-handling behavior of Terryl Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kolvet's Tucker Carlson appearance explaining the SD-card removal as protection against \"evil people.\" The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.\n\nThe episode advances several investigative questions: (1) whether Farnsworth's claimed Google-hacking fear was a lie, given his same-day Google Drive transmission; (2) whether footage from behind Charlie Kirk's head was specifically clipped and zoomed in; (3) whether FBI involvement in a state-level Utah homicide is procedurally anomalous, supported by a clip of former CIA officer John Kiriakou. The episode also presents a Joe Rogan Experience clip in which panelists discuss apparent perspective distortion in a published Tyler Robinson identification photo, and a WearForbidden parody video.\n\nStructurally, this episode functions as evidence-chain and chain-of-custody consolidation prior to the next development in the series.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -167,13 +167,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2289",
       "family_ref": "A-2289",
-      "bundle_name": "John Kirraou Danny Jones Podcast Bundle",
+      "bundle_name": "John Kiriakou Danny Jones Podcast Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2289.1",
           "ref": "A-2289.1",
-          "description": "Kirraou Audio Clip – FBI Involvement in State-Case Question",
+          "description": "Kiriakou Audio Clip – FBI Involvement in State-Case Question",
           "related_claims": [
             "C-3297"
           ],
@@ -1551,7 +1551,7 @@
       "ref": "N-831",
       "name": "John Kiriakou",
       "type": "person",
-      "description": "First named by the host at 00:31:29 in episode 142 (transcribed Kirao, Kuraku). Former CIA officer and whistleblower shown on the Danny Jones podcast.",
+      "description": "First named by the host at 00:31:29 in episode 142. Former CIA officer and whistleblower shown on the Danny Jones podcast.",
       "related_artifacts": [],
       "related_claims": [
         "C-9187",
@@ -1569,7 +1569,7 @@
       "ref": "N-832",
       "name": "Danny Jones",
       "type": "person",
-      "description": "First named by the host at 00:31:29 in episode 142. Podcast host on whose show Kirraou questions the FBI role.",
+      "description": "First named by the host at 00:31:29 in episode 142. Podcast host on whose show Kiriakou questions the FBI role.",
       "related_artifacts": [],
       "related_claims": [
         "C-9187"
@@ -2711,8 +2711,8 @@
       "@type": "Claim",
       "@id": "C-9187",
       "ref": "C-9187",
-      "label": "Kirraou Says Patel Described the FBI Role as Offering Expertise to Utah State Police",
-      "claim": "In the Danny Jones podcast clip, John Kirraou (transcribed Kirao, Kuraku) says Kash Patel was asked early on and said the FBI was just offering its expertise to the Utah State Police.",
+      "label": "Kiriakou Says Patel Described the FBI Role as Offering Expertise to Utah State Police",
+      "claim": "In the Danny Jones podcast clip, John Kiriakou says Kash Patel was asked early on and said the FBI was just offering its expertise to the Utah State Police.",
       "anchored_artifacts": [
         "A-2289.1"
       ],
@@ -2739,8 +2739,8 @@
       "@type": "Claim",
       "@id": "C-9188",
       "ref": "C-9188",
-      "label": "Kirraou Says the FBI Director Should Not Fly Out With a Planeload of Agents for a State Case",
-      "claim": "In the clip, Kirraou says offering expertise would mean sending items by FedEx or lending a lab person, and that an FBI director flying out with a planeload of agents is not what you do for a state case that is not federal.",
+      "label": "Kiriakou Says the FBI Director Should Not Fly Out With a Planeload of Agents for a State Case",
+      "claim": "In the clip, Kiriakou says offering expertise would mean sending items by FedEx or lending a lab person, and that an FBI director flying out with a planeload of agents is not what you do for a state case that is not federal.",
       "anchored_artifacts": [
         "A-2289.1"
       ],

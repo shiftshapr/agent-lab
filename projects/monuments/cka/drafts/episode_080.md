@@ -54,7 +54,7 @@ Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-3 (Candace Owens)
 
 The episode is structured around four primary documentary streams. The first is the formal resignation letter of Joe Kent (A-1861), Director of the National Counterterrorism Center, read in full on air, and the subsequent on-camera audio of President Donald Trump (A-1862) dismissing Kent as "weak on security," followed by hostile reactions from sitting and former Trump-adjacent figures Lindsey Graham, Mark Levin, Laura Loomer, Alan Dershowitz, and Taylor Budowich (A-1863 through A-1867).
 
-The second stream concerns the announced disaffiliation of the Turning Point USA University of Arkansas chapter from the national organization. The episode presents a local news segment (A-1869) and an open letter from chapter president Dino Fantegrossi (A-1870), paired with archival audio of Charlie Kirk in a July 2025 student discussion on Israel/Gaza (A-1871) in which Fonte Grassi participated.
+The second stream concerns the announced disaffiliation of the Turning Point USA University of Arkansas chapter from the national organization. The episode presents a local news segment (A-1869) and an open letter from chapter president Dino Fantegrossi (A-1870), paired with archival audio of Charlie Kirk in a July 2025 student discussion on Israel/Gaza (A-1871) in which Fantegrossi participated.
 
 The third stream is a viral podcast clip from Theo Von (A-1868) articulating skepticism of the U.S.–Israeli government relationship.
 
@@ -963,7 +963,7 @@ Investigative Direction: Track the new organization's filings and any subsequent
 
 ---
 
-**C-2509** Host Says Fonte Grassi Authored Chapter Statement
+**C-2509** Host Says Fantegrossi Authored Chapter Statement
 
 Claim Timestamp: 00:31:40
 
@@ -974,15 +974,15 @@ Mentions: N-943
 
 Related Nodes: N-10545
 
-Investigative Direction: Verify against Fonte Grassi's verified Instagram account; confirm "unanimous" via any other executive board members' public statements.
+Investigative Direction: Verify against Fantegrossi's verified Instagram account; confirm "unanimous" via any other executive board members' public statements.
 
 ---
 
-**C-2510** Fonte Grassi Letter Characterizes "Charlie Would Have" Statements as Disingenuous
+**C-2510** Fantegrossi Letter Characterizes "Charlie Would Have" Statements as Disingenuous
 
 Claim Timestamp: 00:32:20
 
-Claim: The Fonte Grassi letter states that since Charlie Kirk's assassination, "Statements like 'Charlie would have said.' and 'Charlie would have wanted.' have felt in many instances disingenuous and manipulative."
+Claim: The Dino Fantegrossi letter states that since Charlie Kirk's assassination, "Statements like 'Charlie would have said.' and 'Charlie would have wanted.' have felt in many instances disingenuous and manipulative."
 
 Anchored Artifacts: A-1870.1
 Mentions: N-1, N-943
@@ -993,7 +993,7 @@ Investigative Direction: Cross-reference specific TPUSA statements attributed to
 
 ---
 
-**C-2511** Host Says Fonte Grassi Participated in Kirk's July Israel/Gaza Discussion
+**C-2511** Host Says Fantegrossi Participated in Kirk's July Israel/Gaza Discussion
 
 Claim Timestamp: 00:33:20
 
@@ -1004,7 +1004,7 @@ Mentions: N-1, N-943
 
 Related Nodes: N-10545
 
-Investigative Direction: Verify the date, venue, and Fonte Grassi's participation against the original video; identify other participants.
+Investigative Direction: Verify the date, venue, and Fantegrossi's participation against the original video; identify other participants.
 
 ---
 
@@ -1629,7 +1629,7 @@ Anchored Artifacts:
 Mentions: N-943
 Related Nodes: N-10545
 Tags: relevance:context
-Investigative Direction: Check chapter records and Fonte Grassi's public history with TPUSA.
+Investigative Direction: Check chapter records and Fantegrossi's public history with TPUSA.
 
 ---
 
@@ -1649,7 +1649,7 @@ Investigative Direction: Identify the staffer through the host's source network;
 
 ---
 
-**C-14414** Fonte Grassi Letter Says Grievances Will Be Raised Privately With TPUSA
+**C-14414** Fantegrossi Letter Says Grievances Will Be Raised Privately With TPUSA
 
 Claim Timestamp: 00:32:20
 
@@ -1661,11 +1661,11 @@ Anchored Artifacts: A-1870.1
 Mentions: N-943
 Related Nodes: N-10545
 Tags: relevance:context
-Investigative Direction: Verify the text against Fonte Grassi's Instagram post and ask TPUSA whether it received the private grievances.
+Investigative Direction: Verify the text against Fantegrossi's Instagram post and ask TPUSA whether it received the private grievances.
 
 ---
 
-**C-14415** Fonte Grassi Letter Says Others Are Speaking for Charlie Who Cannot
+**C-14415** Fantegrossi Letter Says Others Are Speaking for Charlie Who Cannot
 
 Claim Timestamp: 00:32:20
 
@@ -1678,7 +1678,7 @@ Mentions: N-943, N-1
 Related Nodes: N-10545
 Supports: C-2510
 Tags: relevance:context
-Investigative Direction: Verify the text against Fonte Grassi's Instagram post.
+Investigative Direction: Verify the text against Fantegrossi's Instagram post.
 
 ---
 
@@ -1715,7 +1715,7 @@ Investigative Direction: Verify the quote and the dollar figures exchanged in th
 
 ---
 
-**C-14418** Host Says Fonte Grassi Appeared on the Charlie Kirk Show After the Assassination
+**C-14418** Host Says Fantegrossi Appeared on the Charlie Kirk Show After the Assassination
 
 Claim Timestamp: 00:34:22
 
@@ -1727,7 +1727,7 @@ Anchored Artifacts:
 Mentions: N-943, N-1
 Related Nodes: N-10545
 Tags: relevance:context
-Investigative Direction: Check Charlie Kirk Show episode listings for Fonte Grassi after September 10, 2025.
+Investigative Direction: Check Charlie Kirk Show episode listings for Fantegrossi after September 10, 2025.
 
 ---
 

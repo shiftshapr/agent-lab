@@ -170,7 +170,7 @@ Confidence: high
 
 This episode centers on the September 10, 2025 evidence-handling behavior of Terryl Farnsworth, Turning Point USA's audio-visual lead. The host presents read-aloud excerpts from Farnsworth's 1102 sworn statement, an audio clip of SBI Agent David Hull's preliminary-hearing testimony, a clip from YouTuber Nissi's back-camera comparison video, and an audio excerpt of Andrew Kolvet's Tucker Carlson appearance explaining the SD-card removal as protection against "evil people." The episode's evidentiary centerpiece is newly released footage allegedly showing Farnsworth pocketing the SD card, looking around, and immediately texting on his phone after the camera removal.
 
-The episode advances several investigative questions: (1) whether Farnsworth's claimed Google-hacking fear was a lie, given his same-day Google Drive transmission; (2) whether footage from behind Charlie Kirk's head was specifically clipped and zoomed in; (3) whether FBI involvement in a state-level Utah homicide is procedurally anomalous, supported by a clip of former CIA officer John Kirraou. The episode also presents a Joe Rogan Experience clip in which panelists discuss apparent perspective distortion in a published Tyler Robinson identification photo, and a WearForbidden parody video.
+The episode advances several investigative questions: (1) whether Farnsworth's claimed Google-hacking fear was a lie, given his same-day Google Drive transmission; (2) whether footage from behind Charlie Kirk's head was specifically clipped and zoomed in; (3) whether FBI involvement in a state-level Utah homicide is procedurally anomalous, supported by a clip of former CIA officer John Kiriakou. The episode also presents a Joe Rogan Experience clip in which panelists discuss apparent perspective distortion in a published Tyler Robinson identification photo, and a WearForbidden parody video.
 
 Structurally, this episode functions as evidence-chain and chain-of-custody consolidation prior to the next development in the series.
 
@@ -258,9 +258,9 @@ Confidence Level: High (video shown by host)
 
 ---
 
-**A-2289** John Kirraou Danny Jones Podcast Bundle
+**A-2289** John Kiriakou Danny Jones Podcast Bundle
 
-**A-2289.1** Kirraou Audio Clip – FBI Involvement in State-Case Question
+**A-2289.1** Kiriakou Audio Clip – FBI Involvement in State-Case Question
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -938,8 +938,8 @@ Aliases: Kathy Netor
 
 **N-831** John Kiriakou
 
-First named by the host at 00:31:29 in episode 142 (transcribed Kirao, Kuraku). Former CIA officer and whistleblower shown on the Danny Jones podcast.
-Aliases: Kirao; Kuraku
+First named by the host at 00:31:29 in episode 142. Former CIA officer and whistleblower shown on the Danny Jones podcast.
+Aliases: Kiriakou; Kiriakou
 
 *Related: C-9187, C-9188*
 
@@ -947,7 +947,7 @@ Aliases: Kirao; Kuraku
 
 **N-832** Danny Jones
 
-First named by the host at 00:31:29 in episode 142. Podcast host on whose show Kirraou questions the FBI role.
+First named by the host at 00:31:29 in episode 142. Podcast host on whose show Kiriakou questions the FBI role.
 
 *Related: C-9187*
 
@@ -1733,11 +1733,11 @@ Investigative Direction: Identify the posts publishing the vehicle details and a
 
 ---
 
-**C-9187** Kirraou Says Patel Described the FBI Role as Offering Expertise to Utah State Police
+**C-9187** Kiriakou Says Patel Described the FBI Role as Offering Expertise to Utah State Police
 
 Claim Timestamp: 00:31:29
 
-Claim: In the Danny Jones podcast clip, John Kirraou (transcribed Kirao, Kuraku) says Kash Patel was asked early on and said the FBI was just offering its expertise to the Utah State Police.
+Claim: In the Danny Jones podcast clip, John Kiriakou says Kash Patel was asked early on and said the FBI was just offering its expertise to the Utah State Police.
 
 Transcript Snippet: So, Kash Patel was asked this early on and he said, "We're just offering the FBI's expertise to the Utah State Police."
 
@@ -1750,11 +1750,11 @@ Investigative Direction: Locate Patel's original statement on the FBI's role and
 
 ---
 
-**C-9188** Kirraou Says the FBI Director Should Not Fly Out With a Planeload of Agents for a State Case
+**C-9188** Kiriakou Says the FBI Director Should Not Fly Out With a Planeload of Agents for a State Case
 
 Claim Timestamp: 00:32:49
 
-Claim: In the clip, Kirraou says offering expertise would mean sending items by FedEx or lending a lab person, and that an FBI director flying out with a planeload of agents is not what you do for a state case that is not federal.
+Claim: In the clip, Kiriakou says offering expertise would mean sending items by FedEx or lending a lab person, and that an FBI director flying out with a planeload of agents is not what you do for a state case that is not federal.
 
 Transcript Snippet: You don't have the FBI director fly out there with a with a plane load of FBI agents. It's not a federal case.
 

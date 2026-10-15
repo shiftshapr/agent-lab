@@ -48,9 +48,9 @@
 
 ## II. Executive Summary
 
-This episode advances the series' investigation of the post-assassination public relations apparatus surrounding Turning Point USA, the Falwell Center, and the formation of Turning Point Faith. The host presents several artifact-anchored evidentiary items: a text message exchange with Andrew Kolvet concerning a dream involving Charlie Kirk; a Christianity Today article read aloud on Johnny Moore's origins at Liberty University; a New York Times article on Japanese LDP–Unification Church ties in connection with the assassination of Shinzō Abe; an audio clip of Johnny Moore describing his ADL and Aspen Institute involvement; a Likud Knesset speech declaring Tucker Carlson and the host as enemies of Israel; and an interview clip of Megyn Kelly discussing pressure to denounce the host.
+This episode advances the series' investigation of the post-assassination public relations apparatus surrounding Turning Point USA, the Falwell Center, and the formation of Turning Point Faith. The host presents several artifact-anchored evidentiary items: a text message exchange with Andrew Kolvet concerning a dream involving Charlie Kirk; a Christianity Today article read aloud on Johnnie Moore's origins at Liberty University; a New York Times article on Japanese LDP–Unification Church ties in connection with the assassination of Shinzō Abe; an audio clip of Johnnie Moore describing his ADL and Aspen Institute involvement; a Likud Knesset speech declaring Tucker Carlson and the host as enemies of Israel; and an interview clip of Megyn Kelly discussing pressure to denounce the host.
 
-The episode's structural importance lies in the formal articulation of a "Mooney 2.0" thesis: a claimed lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolvet, anchored to a Sun Myung Moon audio quotation about three disciples and to Christianity Today reporting on Moore's early years at Liberty University. Several previously unexplored entities (Ron Godwin, Johnny Moore, the Kairos Company, Mark Burnett) are introduced as candidate members of the investigative graph. Read-aloud fan comments advance an unverified thesis that Erica Kirk acted as Charlie Kirk's handler in establishing the Falwell Center.
+The episode's structural importance lies in the formal articulation of a "Mooney 2.0" thesis: a claimed lineage Sun Myung Moon → Ron Godwin → Johnnie Moore / Andrew Kolvet, anchored to a Sun Myung Moon audio quotation about three disciples and to Christianity Today reporting on Moore's early years at Liberty University. Several previously unexplored entities (Ron Godwin, Johnnie Moore, the Kairos Company, Mark Burnett) are introduced as candidate members of the investigative graph. Read-aloud fan comments advance an unverified thesis that Erica Kirk acted as Charlie Kirk's handler in establishing the Falwell Center.
 
 ---
 
@@ -72,7 +72,7 @@ Confidence Level: Medium (transcript-only verification)
 
 **A-1608** Christianity Today Article Bundle
 
-**A-1608.1** Christianity Today article: "Johnny Moore was only 14 when he first stayed in the dorms at Liberty University. And since then, he's pretty much remained at the school that Jerry Falwell Senior founded 41 years ago in Lynchburg, Virginia. Moore and his single mom family briefly lived in the dorms after his parents' divorce and a temporary stretch of homelessness."
+**A-1608.1** Christianity Today article: "Johnnie Moore was only 14 when he first stayed in the dorms at Liberty University. And since then, he's pretty much remained at the school that Jerry Falwell Senior founded 41 years ago in Lynchburg, Virginia. Moore and his single mom family briefly lived in the dorms after his parents' divorce and a temporary stretch of homelessness."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -98,9 +98,9 @@ Confidence Level: Medium
 
 ---
 
-**A-1610** Johnny Moore ADL / Christian Zionism Audio Bundle
+**A-1610** Johnnie Moore ADL / Christian Zionism Audio Bundle
 
-**A-1610.1** Johnny Moore audio clip discussing ADL and Aspen Institute civil society fellowship involvement
+**A-1610.1** Johnnie Moore audio clip discussing ADL and Aspen Institute civil society fellowship involvement
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -110,7 +110,7 @@ Confidence Level: Medium
 
 *Related: C-2052, C-2053, N-438, N-10402*
 
-**A-1610.2** Johnny Moore audio clip: "I know the state of Israel is strong… we are committed to building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism"
+**A-1610.2** Johnnie Moore audio clip: "I know the state of Israel is strong… we are committed to building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -291,7 +291,7 @@ Confidence Level: Low
 
 **A-3300** Moore Classmate Source Bundle
 
-**A-3300.1** Host verbal reference to a person who went to school with Johnny Moore and described his upbringing (not shown)
+**A-3300.1** Host verbal reference to a person who went to school with Johnnie Moore and described his upbringing (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:23:45
@@ -304,7 +304,7 @@ Confidence Level: Low
 
 **A-3301** Godwin Disciples Organization Chart Bundle
 
-**A-3301.1** Organization chart shown or described on air placing Johnny Moore among Ron Godwin's three disciples (content not legible from the transcript)
+**A-3301.1** Organization chart shown or described on air placing Johnnie Moore among Ron Godwin's three disciples (content not legible from the transcript)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:25:34
@@ -359,7 +359,7 @@ Investigative Pressure: Medium
 
 **N-439** Ron Godwin
 
-Identified in this episode as Johnny Moore's mentor and as a declared disciple of Sun Myung Moon; retired from Liberty University in October 2014.
+Identified in this episode as Johnnie Moore's mentor and as a declared disciple of Sun Myung Moon; retired from Liberty University in October 2014.
 
 Evidence Count: 1
 Claim Count: 1
@@ -398,7 +398,7 @@ Investigative Pressure: Medium
 
 **N-441** Mark Burnett
 
-Reality TV producer named in this episode as Johnny Moore's employer in Hollywood (post-2015) and chairperson of MGM (acquired Summerhouse).
+Reality TV producer named in this episode as Johnnie Moore's employer in Hollywood (post-2015) and chairperson of MGM (acquired Summerhouse).
 
 Evidence Count: 0
 Claim Count: 2
@@ -424,7 +424,7 @@ Investigative Pressure: Medium
 
 **N-443** Jerry Prevo
 
-Identified in this episode as named successor to Jerry Falwell Jr. at Liberty University; first act allegedly was firing Charlie Kirk and reinstating Johnny Moore on a monthly retainer.
+Identified in this episode as named successor to Jerry Falwell Jr. at Liberty University; first act allegedly was firing Charlie Kirk and reinstating Johnnie Moore on a monthly retainer.
 
 Evidence Count: 0
 Claim Count: 0 (host-stated, no artifact)
@@ -463,7 +463,7 @@ Investigative Pressure: Low
 
 **N-10402** Unification Church → Liberty University Lineage (Mooney 2.0 Thesis)
 
-Persistent investigative target tracking the alleged lineage Sun Myung Moon → Ron Godwin → Johnny Moore / Andrew Kolvet as it relates to Turning Point Faith / Falwell Center.
+Persistent investigative target tracking the alleged lineage Sun Myung Moon → Ron Godwin → Johnnie Moore / Andrew Kolvet as it relates to Turning Point Faith / Falwell Center.
 
 Evidence Count: 3
 Claim Count: 4
@@ -650,7 +650,7 @@ Jerry Falwell Sr.; Liberty's founder, linked by the host to Moon and to Ron Godw
 
 **N-596** Jordan Peterson
 
-Jordan Peterson; the host says he co-created the report on Christ Is King with Johnny Moore and was cited by Kolvet.
+Jordan Peterson; the host says he co-created the report on Christ Is King with Johnnie Moore and was cited by Kolvet.
 
 *Related: C-14104, C-14128*
 
@@ -836,7 +836,7 @@ The host's catalog of named narrative campaigns she says were run against her af
 **N-11384** Falwell Jr. Ouster and Liberty Succession Account
 
 Node Type: Topic
-The host's account, from sources she says work at Liberty University, of how Jerry Falwell Jr. was removed, how Jerry Prevo's succession followed, and how that affected Charlie Kirk, the Falkirk Center and Johnny Moore.
+The host's account, from sources she says work at Liberty University, of how Jerry Falwell Jr. was removed, how Jerry Prevo's succession followed, and how that affected Charlie Kirk, the Falkirk Center and Johnnie Moore.
 
 *Related: C-14115, C-14116, C-14142, C-14143*
 
@@ -892,11 +892,11 @@ Investigative Direction: Verify non-reply independently; cross-check any subsequ
 
 ---
 
-**C-2049** Christianity Today reported Johnny Moore arrived at Liberty University dorms at age 14
+**C-2049** Christianity Today reported Johnnie Moore arrived at Liberty University dorms at age 14
 
 Claim Timestamp: 00:23:45–00:24:10
 
-Claim: The host reads from Christianity Today that "Johnny Moore was only 14 when he first stayed in the dorms at Liberty University" and that he had remained at the school founded by Jerry Falwell Senior.
+Claim: The host reads from Christianity Today that "Johnnie Moore was only 14 when he first stayed in the dorms at Liberty University" and that he had remained at the school founded by Jerry Falwell Senior.
 
 Anchored Artifacts: A-1608.1
 Mentions: N-438, N-399
@@ -907,7 +907,7 @@ Investigative Direction: Retrieve the original Christianity Today article; ident
 
 ---
 
-**C-2050** Johnny Moore and his single mother family briefly lived in Liberty University dorms following parental divorce and temporary homelessness
+**C-2050** Johnnie Moore and his single mother family briefly lived in Liberty University dorms following parental divorce and temporary homelessness
 
 Claim Timestamp: 00:23:45–00:24:10
 
@@ -936,11 +936,11 @@ Investigative Direction: Locate the cited New York Times article; verify exact f
 
 ---
 
-**C-2052** Johnny Moore stated he is involved with ADL and Aspen Institute civil society fellowship
+**C-2052** Johnnie Moore stated he is involved with ADL and Aspen Institute civil society fellowship
 
 Claim Timestamp: 00:21:30–00:22:43
 
-Claim: In audio played on the episode, Johnny Moore stated he is "a part of the ADL and Aspen Institute civil society… in fellowship."
+Claim: In audio played on the episode, Johnnie Moore stated he is "a part of the ADL and Aspen Institute civil society… in fellowship."
 
 Anchored Artifacts: A-1610.1
 Mentions: N-438
@@ -951,11 +951,11 @@ Investigative Direction: Verify Moore's listed fellowships directly through ADL 
 
 ---
 
-**C-2053** Johnny Moore stated he serves on the ADL and Aspen Institute advisory board
+**C-2053** Johnnie Moore stated he serves on the ADL and Aspen Institute advisory board
 
 Claim Timestamp: 00:21:30–00:22:43
 
-Claim: Johnny Moore stated in the audio clip that he is on the advisory board for the Aspen Institute and ADL civil society fellowship.
+Claim: Johnnie Moore stated in the audio clip that he is on the advisory board for the Aspen Institute and ADL civil society fellowship.
 
 Anchored Artifacts: A-1610.1
 Mentions: N-438
@@ -966,11 +966,11 @@ Investigative Direction: Verify advisory board membership through both organizat
 
 ---
 
-**C-2054** Johnny Moore stated commitment to building a "great wall of Christian Zionism"
+**C-2054** Johnnie Moore stated commitment to building a "great wall of Christian Zionism"
 
 Claim Timestamp: 00:22:43–00:23:15
 
-Claim: Johnny Moore stated in audio that he is committed to "building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism."
+Claim: Johnnie Moore stated in audio that he is committed to "building a great wall of Christian Zionism all over the world to push back the forces of anti-semitism."
 
 Anchored Artifacts: A-1610.2
 Mentions: N-438
@@ -1158,7 +1158,7 @@ Investigative Direction: No investigative direction.
 
 **C-2067** Top comment from "world" advised voters to reject congressional Zionism supporters
 
-Claim Timestamp: 00:52:14
+Claim Timestamp: 00:51:58
 
 Claim: A viewer comment the host reads, from "world," urges people not to vote for the current members of Congress who support the Zionists.
 
@@ -1199,11 +1199,11 @@ Investigative Direction: Verify the cited statistic against peer-reviewed studie
 ---
 
 
-**C-2071** Mark Burnett named as Johnny Moore's Hollywood employer
+**C-2071** Mark Burnett named as Johnnie Moore's Hollywood employer
 
 Claim Timestamp: 00:19:23–00:20:09
 
-Claim: The host stated that Johnny Moore went to Hollywood in 2015 to work with Mark Burnett.
+Claim: The host stated that Johnnie Moore went to Hollywood in 2015 to work with Mark Burnett.
 
 Anchored Artifacts: (none – host statement)
 Mentions: N-438, N-441
@@ -1772,13 +1772,13 @@ Investigative Direction: Ask the source what 'what they did to Charlie' refers t
 
 ---
 
-**C-14121** Host Says Johnny Moore Pulled Up a Chair at the Kirk and Falwell Planning Meeting in 2021
+**C-14121** Host Says Johnnie Moore Pulled Up a Chair at the Kirk and Falwell Planning Meeting in 2021
 
 Claim Timestamp: 00:18:08
 
-Claim: The host says that when Charlie Kirk was meeting at Liberty University in 2021 about establishing the Falkirk Center, Johnny Moore inserted himself into the planning session and just pulled up a chair.
+Claim: The host says that when Charlie Kirk was meeting at Liberty University in 2021 about establishing the Falkirk Center, Johnnie Moore inserted himself into the planning session and just pulled up a chair.
 
-Transcript Snippet: a certain Johnny Moore inserted himself into the meeting, the planning sesh, so to speak. He just pulled up a chair.
+Transcript Snippet: a certain Johnnie Moore inserted himself into the meeting, the planning sesh, so to speak. He just pulled up a chair.
 
 Anchored Artifacts: 
 Mentions: N-438, N-1
@@ -1792,7 +1792,7 @@ Investigative Direction: Find attendee lists, calendars or minutes for the Falki
 
 Claim Timestamp: 00:18:34
 
-Claim: The host says Johnny Moore had quit his job as lead pastor of Liberty University in 2014 and had no reason to be at the 2021 meeting, yet came up with one.
+Claim: The host says Johnnie Moore had quit his job as lead pastor of Liberty University in 2014 and had no reason to be at the 2021 meeting, yet came up with one.
 
 Transcript Snippet: he had quit his job as the lead pastor of Liberty University back in 2014.
 
@@ -1808,7 +1808,7 @@ Investigative Direction: Check Moore's biography and Liberty staff records for h
 
 Claim Timestamp: 00:18:46
 
-Claim: The host says that when Johnny Moore left Liberty University in 2014 he went to Hollywood to start the PR company, the Kairos Company.
+Claim: The host says that when Johnnie Moore left Liberty University in 2014 he went to Hollywood to start the PR company, the Kairos Company.
 
 Transcript Snippet: when Johnny left Liberty University in 2014, he went to Hollywood to start the PR company, the Kairos Company.
 
@@ -1859,9 +1859,9 @@ Investigative Direction: Verify Erika Kirk's reality-TV appearance and its produ
 
 Claim Timestamp: 00:20:09
 
-Claim: The host says Johnny Moore, despite establishing the Kairos Company, immediately and consistently wanted his job back at Liberty University, and asks why a PR company was so keen to keep a leg inside growing evangelical organizations.
+Claim: The host says Johnnie Moore, despite establishing the Kairos Company, immediately and consistently wanted his job back at Liberty University, and asks why a PR company was so keen to keep a leg inside growing evangelical organizations.
 
-Transcript Snippet: Johnny Moore immediately and consistently despite establishing the Kairos Company wanted his job back at Liberty University
+Transcript Snippet: Johnnie Moore immediately and consistently despite establishing the Kairos Company wanted his job back at Liberty University
 
 Anchored Artifacts: 
 Mentions: N-438
@@ -1892,9 +1892,9 @@ Investigative Direction: Retrieve the ADL listing and its date and the stated re
 
 Claim Timestamp: 00:20:09
 
-Claim: The host says that a year after the ADL listing Jordan Peterson and Reverend Johnny Moore created a report and a video graphic explaining that 'Christ is king' is anti-Semitic and portraying her as a radical.
+Claim: The host says that a year after the ADL listing Jordan Peterson and Reverend Johnnie Moore created a report and a video graphic explaining that 'Christ is king' is anti-Semitic and portraying her as a radical.
 
-Transcript Snippet: Jordan Peterson, Dr. Jordan Peterson and a certain Reverend Johnny Moore created a report and doubled down explaining that uh Christ is king is in fact actually anti-Semitic.
+Transcript Snippet: Jordan Peterson, Dr. Jordan Peterson and a certain Reverend Johnnie Moore created a report and doubled down explaining that uh Christ is king is in fact actually anti-Semitic.
 
 Anchored Artifacts: 
 Mentions: N-596, N-438, N-3
@@ -1908,7 +1908,7 @@ Investigative Direction: Locate the report and video graphic, their authors, dat
 
 Claim Timestamp: 00:21:04
 
-Claim: The host says Johnny Moore serves on the ADL task force and received the Medal of Valor from the Simon Wiesenthal Center.
+Claim: The host says Johnnie Moore serves on the ADL task force and received the Medal of Valor from the Simon Wiesenthal Center.
 
 Transcript Snippet: He serves on the ADL task force. He received the Medal of Valor uh from the Simon Wiesenthal Center.
 
@@ -1958,7 +1958,7 @@ Investigative Direction: Obtain donor communications and the dated sequence of t
 
 Claim Timestamp: 00:21:30
 
-Claim: In the audio clip played, Johnny Moore says he is not Jewish but Christian and has always felt at home in the ADL community.
+Claim: In the audio clip played, Johnnie Moore says he is not Jewish but Christian and has always felt at home in the ADL community.
 
 Transcript Snippet: I can tell you again, I'm not I'm not Jewish. I'm I'm Christian. Uh and yet I've just always felt felt at home, you know, in the ADL community.
 
@@ -1974,7 +1974,7 @@ Investigative Direction: Identify the source and date of the clip and the event 
 
 Claim Timestamp: 00:22:43
 
-Claim: In the audio clip, Johnny Moore says the commitment to build a great wall of Christian Zionism also includes educating well-meaning Christians on their own history of Christian anti-semitism.
+Claim: In the audio clip, Johnnie Moore says the commitment to build a great wall of Christian Zionism also includes educating well-meaning Christians on their own history of Christian anti-semitism.
 
 Transcript Snippet: But that also includes educating well-meaning Christians on our own history of Christian anti-semitism.
 
@@ -1991,7 +1991,7 @@ Investigative Direction: Locate the original venue and date of the speech and co
 
 Claim Timestamp: 00:23:45
 
-Claim: The host says someone who went to school with Johnny Moore verified the Christianity Today account, saying he grew up outside Lynchburg and was very poor.
+Claim: The host says someone who went to school with Johnnie Moore verified the Christianity Today account, saying he grew up outside Lynchburg and was very poor.
 
 Transcript Snippet: Now, somebody that went to school with him verified exactly that. They said he was a kid who grew up outside of Lynchburg in high school.
 
@@ -2023,7 +2023,7 @@ Investigative Direction: School-age personal anecdote from an unnamed classmate;
 
 Claim Timestamp: 00:24:29
 
-Claim: The host says, with 'allegedly', that Johnny Moore had a male mentor who bought him and everyone in his family brand-new cars.
+Claim: The host says, with 'allegedly', that Johnnie Moore had a male mentor who bought him and everyone in his family brand-new cars.
 
 Transcript Snippet: He had a male mentor who bought him and everyone in his family allegedly brand new cars.
 
@@ -2038,7 +2038,7 @@ Investigative Direction: Vehicle purchase records are unlikely to be public; the
 
 Claim Timestamp: 00:24:29
 
-Claim: The host says Johnny Moore's mentor, Ron Godwin, was the one who pushed for Jerry Falwell Sr. to give Moore a position at Liberty University.
+Claim: The host says Johnnie Moore's mentor, Ron Godwin, was the one who pushed for Jerry Falwell Sr. to give Moore a position at Liberty University.
 
 Transcript Snippet: And this daddy mentor of his is the one that pushed for Jerry Falwell senior to give Johnny a position with Liberty University. That man's name is Ron Godwin.
 
@@ -2071,9 +2071,9 @@ Investigative Direction: Check Godwin's tenure as Washington Times president in 
 
 Claim Timestamp: 00:25:34
 
-Claim: The host says that on her organization chart Johnny Moore appears to be one of Ron Godwin's three disciples, who minted the Kairos Company with Andrew Kolvet, and that she is unsure whether Kolvet is Moore's disciple or one of Godwin's three.
+Claim: The host says that on her organization chart Johnnie Moore appears to be one of Ron Godwin's three disciples, who minted the Kairos Company with Andrew Kolvet, and that she is unsure whether Kolvet is Moore's disciple or one of Godwin's three.
 
-Transcript Snippet: we can confirm that looks like one of Godwin's three disciples, so to speak, was Johnny Moore
+Transcript Snippet: we can confirm that looks like one of Godwin's three disciples, so to speak, was Johnnie Moore
 
 Anchored Artifacts: A-3301.1
 Mentions: N-438, N-439, N-14, N-400
@@ -2088,7 +2088,7 @@ Investigative Direction: Obtain the host's chart and its sources; the 'three dis
 
 Claim Timestamp: 00:25:34
 
-Claim: The host says Ron Godwin retired from Liberty University in October 2014 and his protege Johnny Moore left too, going to Hollywood.
+Claim: The host says Ron Godwin retired from Liberty University in October 2014 and his protege Johnnie Moore left too, going to Hollywood.
 
 Transcript Snippet: when Ron Godwin retired from Liberty University in October of 2014, uh of course his Johnny boy left too, right?
 
@@ -2104,7 +2104,7 @@ Investigative Direction: Check Godwin's retirement date in Liberty announcements
 
 Claim Timestamp: 00:25:34
 
-Claim: The host says that without Godwin to push his paperwork, Johnny Moore was repeatedly told no when he wanted back in at Liberty, and had no pathway to return until 2021.
+Claim: The host says that without Godwin to push his paperwork, Johnnie Moore was repeatedly told no when he wanted back in at Liberty, and had no pathway to return until 2021.
 
 Transcript Snippet: he wanted back in at Liberty University and he was told no repeatedly
 
@@ -2136,9 +2136,9 @@ Investigative Direction: Check the dates: public reporting should be compared wi
 
 Claim Timestamp: 00:26:54
 
-Claim: The host says, with 'allegedly', that Prevo moved immediately to reinstate Johnny Moore and pay him an absurd monthly retainer, information she says comes directly from inside Liberty, and that Moore is back at the school influential and making money.
+Claim: The host says, with 'allegedly', that Prevo moved immediately to reinstate Johnnie Moore and pay him an absurd monthly retainer, information she says comes directly from inside Liberty, and that Moore is back at the school influential and making money.
 
-Transcript Snippet: he also moves rather immediately to reinstate none other than the sometimes lurking Johnny Moore, paying him, I am told, an absurd amount monthly retainer.
+Transcript Snippet: he also moves rather immediately to reinstate none other than the sometimes lurking Johnnie Moore, paying him, I am told, an absurd amount monthly retainer.
 
 Anchored Artifacts: A-3299.1
 Mentions: N-443, N-438
@@ -2441,7 +2441,7 @@ Investigative Direction: Track later episodes for the promised episode and for a
 
 Claim Timestamp: 00:48:56
 
-Claim: The host says that after doing the Moonies episode she saw the pattern run through Johnny Moore to Andrew Kolvet, concluding that the Moonies are back under a different name.
+Claim: The host says that after doing the Moonies episode she saw the pattern run through Johnnie Moore to Andrew Kolvet, concluding that the Moonies are back under a different name.
 
 Transcript Snippet: Here's Johnny. The Moonies are back and it's by it's a different name. That's what's happening here.
 
@@ -2725,7 +2725,7 @@ Confidence: high
 Video Timestamp: 00:48:56
 Speaker: N-3
 Quote: Here's Johnny.
-Context: Host puns on The Shining (the episode title) while tying Johnny Moore to Kolvet and the Moonies.
+Context: Host puns on The Shining (the episode title) while tying Johnnie Moore to Kolvet and the Moonies.
 Tags: shining, johnny moore, pun
 Confidence: high
 

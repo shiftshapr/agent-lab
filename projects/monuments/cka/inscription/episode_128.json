@@ -3936,8 +3936,8 @@
       "@type": "Claim",
       "@id": "C-14762",
       "ref": "C-14762",
-      "label": "Host Says Turek Spoke for Three Hours on the Shawn Ryan Show",
-      "claim": "The host says Frank Turek spoke for three hours on the Shawn Ryan Show.",
+      "label": "Host Says Harpole Spoke for Three Hours on the Shawn Ryan Show",
+      "claim": "The host tells Frank Turek the lawsuit cannot stop Brian Harpole from speaking, since he spoke for three hours on the Shawn Ryan Show.",
       "anchored_artifacts": [
         "A-2161.1"
       ],
@@ -3952,7 +3952,8 @@
       "transcript_snippet": "You just spoke for 3 hours on the Shawn Ryan show.",
       "mentions_person_refs": [
         "N-7",
-        "N-225"
+        "N-225",
+        "N-267"
       ]
     },
     {

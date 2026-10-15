@@ -43,7 +43,7 @@
 
 This episode presents the host's announcement that Bradley Hansell, the Under Secretary of War for Intelligence and Security, has been identified as a VIP aboard the Air Force designation SAM702 on the morning of September 9, 2025, departing Fort Huachuca (transcribed as "Fort Huachuca") for El Paso, Texas. Hansell's prior career at the Boston Consulting Group (BCG) is positioned alongside the host's prior assertions that Mitt Romney and Benjamin Netanyahu both worked at BCG, and Bain Capital was seeded by Robert Maxwell.
 
-The host reads at length from a website summarizing Financial Times reporting on BCG's "Project Aurora" – a consultancy for the Gaza Humanitarian Foundation that produced relocation models for Palestinians (totaling $2.5–5 billion) – and references a Times of Israel article on Johnny Moore's appointment to chair the foundation after Jake Wood's resignation and BCG's withdrawal. A displayed connection graphic and an internal working timeline (June–September 2025) accompany the discussion, the latter anchoring dates such as Erika Kirk's June 19 Instagram purge of 126 posts and Palantir's July 30 announcement of a $10B military software deal with Fort Huachuca stationing. Mitt Romney's June 16, 1968 France car crash is presented via a NYT article, and a viewer comment referencing Romney's "Pierre Delecto" burner X account is read.
+The host reads at length from a website summarizing Financial Times reporting on BCG's "Project Aurora" – a consultancy for the Gaza Humanitarian Foundation that produced relocation models for Palestinians (totaling $2.5–5 billion) – and references a Times of Israel article on Johnnie Moore's appointment to chair the foundation after Jake Wood's resignation and BCG's withdrawal. A displayed connection graphic and an internal working timeline (June–September 2025) accompany the discussion, the latter anchoring dates such as Erika Kirk's June 19 Instagram purge of 126 posts and Palantir's July 30 announcement of a $10B military software deal with Fort Huachuca stationing. Mitt Romney's June 16, 1968 France car crash is presented via a NYT article, and a viewer comment referencing Romney's "Pierre Delecto" burner X account is read.
 
 The episode's central investigative advance is the SAM702/Hansell identification. Its central investigative weakness is the absence of any on-air primary artifact (manifest, flight record image, or third-party confirmation) supporting that identification, which is flagged below.
 
@@ -67,7 +67,7 @@ Confidence Level: Medium
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
-Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnny Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansell confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Ginan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Kaddis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dhillon Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
+Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnnie Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansell confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Ginan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Kaddis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dhillon Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -97,7 +97,7 @@ Confidence Level: Medium (summarized on a third-party site by host; FT primary n
 
 **A-2078** Times of Israel GHF Leadership Article
 
-**A-2078.1** Times of Israel article (referenced/headline read): "Gaza Humanitarian Foundation taps US Evangelical Leader Johnny Moore as the new chairman"
+**A-2078.1** Times of Israel article (referenced/headline read): "Gaza Humanitarian Foundation taps US Evangelical Leader Johnnie Moore as the new chairman"
 
 Host states the article indicates "he was appointed as the new executive chairman of the Gaza Humanitarian Foundation, which is the US and Israel-backed organization providing aid to Gazans. Its previous CEO, Jake Wood, quit last week and the Boston Consulting Group abandoned the project today."
 
@@ -353,7 +353,7 @@ Investigative Pressure: High
 
 **N-10670** Gaza Humanitarian Foundation Leadership/Operational Pipeline
 
-Persistent investigation target: BCG built the foundation's logistics; Johnny Moore replaced Jake Wood as chairman after BCG withdrawal; foundation operates US/Israel-backed food distribution sites characterized by host as "killing fields"; Phil Reilly / Orbis / Tachlith Institute connection.
+Persistent investigation target: BCG built the foundation's logistics; Johnnie Moore replaced Jake Wood as chairman after BCG withdrawal; foundation operates US/Israel-backed food distribution sites characterized by host as "killing fields"; Phil Reilly / Orbis / Tachlith Institute connection.
 
 Evidence Count: 3
 Claim Count: 2
@@ -472,7 +472,7 @@ Named in the host's account of Tucker Carlson's July 11 speech.
 
 **N-14** Andrew Kolvet
 
-TPUSA spokesperson; the host links him to Johnny Moore and to her own communications.
+TPUSA spokesperson; the host links him to Johnnie Moore and to her own communications.
 
 *Related: C-14654, C-14710*
 
@@ -1050,11 +1050,11 @@ Investigative Direction: Locate Schweizer's original statement in Financial Time
 
 ---
 
-**C-2921** Johnny Moore was appointed executive chairman of the Gaza Humanitarian Foundation
+**C-2921** Johnnie Moore was appointed executive chairman of the Gaza Humanitarian Foundation
 
 Claim Timestamp: 00:20:30
 
-Claim: Per Times of Israel article referenced by host, Johnny Moore was appointed executive chairman of the Gaza Humanitarian Foundation after Jake Wood's resignation and BCG's withdrawal.
+Claim: Per Times of Israel article referenced by host, Johnnie Moore was appointed executive chairman of the Gaza Humanitarian Foundation after Jake Wood's resignation and BCG's withdrawal.
 
 Anchored Artifacts: A-2076.2, A-2078.1
 Mentions: N-438
@@ -1639,13 +1639,13 @@ Investigative Direction: Review UN, medical and press records on shootings at GH
 
 ---
 
-**C-14654** Host Says Johnny Moore Is Andrew Kolvet's Partner in the Kairos Company
+**C-14654** Host Says Johnnie Moore Is Andrew Kolvet's Partner in the Kairos Company
 
 Claim Timestamp: 00:20:10
 
-Claim: The host says Reverend Johnny Moore is one half of the duo behind the Kairos Company with Andrew Kolvet, that Kolvet comes from there, and that Moore became chairman of the Gaza Humanitarian Foundation.
+Claim: The host says Reverend Johnnie Moore is one half of the duo behind the Kairos Company with Andrew Kolvet, that Kolvet comes from there, and that Moore became chairman of the Gaza Humanitarian Foundation.
 
-Transcript Snippet: Reverend Johnny Moore, one half of the Kairos Company duo with Andrew Kolvet. Once upon a time, that's where Andrew Kolvet's from.
+Transcript Snippet: Reverend Johnnie Moore, one half of the Kairos Company duo with Andrew Kolvet. Once upon a time, that's where Andrew Kolvet's from.
 
 Anchored Artifacts: A-2078.1
 Mentions: N-438, N-14
@@ -1655,11 +1655,11 @@ Investigative Direction: Check corporate records and bios for the Kairos Company
 
 ---
 
-**C-14655** Host Says Johnny Moore Abandoned the Gaza Humanitarian Foundation in November
+**C-14655** Host Says Johnnie Moore Abandoned the Gaza Humanitarian Foundation in November
 
 Claim Timestamp: 00:21:00
 
-Claim: The host says Johnny Moore eventually abandoned the Gaza Humanitarian Foundation project in November (2025).
+Claim: The host says Johnnie Moore eventually abandoned the Gaza Humanitarian Foundation project in November (2025).
 
 Transcript Snippet: He would eventually abandon the project November. There was no fixing it.
 
@@ -1718,13 +1718,13 @@ Investigative Direction: Obtain passenger and handling records for the Egyptian 
 
 ---
 
-**C-14659** Host Says Johnny Moore Was Announced as GHF Chairman on June 3
+**C-14659** Host Says Johnnie Moore Was Announced as GHF Chairman on June 3
 
 Claim Timestamp: 00:26:50
 
-Claim: The host says her timeline has Reverend Johnny Moore announced on June 3, 2025 as chairman of the Gaza Humanitarian Aid Project.
+Claim: The host says her timeline has Reverend Johnnie Moore announced on June 3, 2025 as chairman of the Gaza Humanitarian Aid Project.
 
-Transcript Snippet: On June 3rd, Reverend Johnny Moore is announced to take over as chairman of the Gaza Humanitarian Aid Project
+Transcript Snippet: On June 3rd, Reverend Johnnie Moore is announced to take over as chairman of the Gaza Humanitarian Aid Project
 
 Anchored Artifacts: A-2076.2
 Mentions: N-438

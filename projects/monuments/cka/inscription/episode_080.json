@@ -1857,7 +1857,7 @@
       "@type": "Claim",
       "@id": "C-2509",
       "ref": "C-2509",
-      "label": "Host Says Fonte Grassi Authored Chapter Statement",
+      "label": "Host Says Fantegrossi Authored Chapter Statement",
       "claim": "The host says the chapter president, Dino Fantegrossi, published a letter on Instagram, and that the executive board's decision to disaffiliate was unanimous.",
       "anchored_artifacts": [
         "A-1870.1"
@@ -1867,7 +1867,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:31:40",
-      "investigative_direction": "Verify against Fonte Grassi's verified Instagram account; confirm \"unanimous\" via any other executive board members' public statements.",
+      "investigative_direction": "Verify against Fantegrossi's verified Instagram account; confirm \"unanimous\" via any other executive board members' public statements.",
       "mentions_person_refs": [
         "N-943"
       ]
@@ -1876,8 +1876,8 @@
       "@type": "Claim",
       "@id": "C-2510",
       "ref": "C-2510",
-      "label": "Fonte Grassi Letter Characterizes \"Charlie Would Have\" Statements as Disingenuous",
-      "claim": "The Fonte Grassi letter states that since Charlie Kirk's assassination, \"Statements like 'Charlie would have said.' and 'Charlie would have wanted.' have felt in many instances disingenuous and manipulative.\"",
+      "label": "Fantegrossi Letter Characterizes \"Charlie Would Have\" Statements as Disingenuous",
+      "claim": "The Dino Fantegrossi letter states that since Charlie Kirk's assassination, \"Statements like 'Charlie would have said.' and 'Charlie would have wanted.' have felt in many instances disingenuous and manipulative.\"",
       "anchored_artifacts": [
         "A-1870.1"
       ],
@@ -1896,7 +1896,7 @@
       "@type": "Claim",
       "@id": "C-2511",
       "ref": "C-2511",
-      "label": "Host Says Fonte Grassi Participated in Kirk's July Israel/Gaza Discussion",
+      "label": "Host Says Fantegrossi Participated in Kirk's July Israel/Gaza Discussion",
       "claim": "The host says Dino Fantegrossi was part of a Charlie Kirk sit-down in July discussing Israel and Gaza with students.",
       "anchored_artifacts": [
         "A-1871.1"
@@ -1906,7 +1906,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:33:20",
-      "investigative_direction": "Verify the date, venue, and Fonte Grassi's participation against the original video; identify other participants.",
+      "investigative_direction": "Verify the date, venue, and Fantegrossi's participation against the original video; identify other participants.",
       "mentions_person_refs": [
         "N-1",
         "N-943"
@@ -2750,7 +2750,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:31:39",
-      "investigative_direction": "Check chapter records and Fonte Grassi's public history with TPUSA.",
+      "investigative_direction": "Check chapter records and Fantegrossi's public history with TPUSA.",
       "transcript_snippet": "he's been with Turning Point USA for more than 5 years.",
       "mentions_person_refs": [
         "N-943"
@@ -2782,7 +2782,7 @@
       "@type": "Claim",
       "@id": "C-14414",
       "ref": "C-14414",
-      "label": "Fonte Grassi Letter Says Grievances Will Be Raised Privately With TPUSA",
+      "label": "Fantegrossi Letter Says Grievances Will Be Raised Privately With TPUSA",
       "claim": "The letter as read says the chapter has many grievances with Turning Point USA that it will make known to them in private, and shares only one.",
       "anchored_artifacts": [
         "A-1870.1"
@@ -2794,7 +2794,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:32:20",
-      "investigative_direction": "Verify the text against Fonte Grassi's Instagram post and ask TPUSA whether it received the private grievances.",
+      "investigative_direction": "Verify the text against Fantegrossi's Instagram post and ask TPUSA whether it received the private grievances.",
       "transcript_snippet": "we have many grievances with Turning Point USA, which we will shortly make known to them in private, but I will share only one.",
       "mentions_person_refs": [
         "N-943"
@@ -2804,7 +2804,7 @@
       "@type": "Claim",
       "@id": "C-14415",
       "ref": "C-14415",
-      "label": "Fonte Grassi Letter Says Others Are Speaking for Charlie Who Cannot",
+      "label": "Fantegrossi Letter Says Others Are Speaking for Charlie Who Cannot",
       "claim": "The letter as read says Charlie Kirk cannot speak for himself anymore and the chapter does not recognize the way others have tried to speak for him.",
       "anchored_artifacts": [
         "A-1870.1"
@@ -2816,7 +2816,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:32:20",
-      "investigative_direction": "Verify the text against Fonte Grassi's Instagram post.",
+      "investigative_direction": "Verify the text against Fantegrossi's Instagram post.",
       "transcript_snippet": "Charlie Kirk cannot speak for himself anymore and we do not recognize the way others have attempted to speak for him.",
       "supports_claim_refs": [
         "C-2510"
@@ -2879,7 +2879,7 @@
       "@type": "Claim",
       "@id": "C-14418",
       "ref": "C-14418",
-      "label": "Host Says Fonte Grassi Appeared on the Charlie Kirk Show After the Assassination",
+      "label": "Host Says Fantegrossi Appeared on the Charlie Kirk Show After the Assassination",
       "claim": "The host says she believes Dino Fantegrossi appeared on The Charlie Kirk Show after Kirk was assassinated.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2889,7 +2889,7 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:34:22",
-      "investigative_direction": "Check Charlie Kirk Show episode listings for Fonte Grassi after September 10, 2025.",
+      "investigative_direction": "Check Charlie Kirk Show episode listings for Fantegrossi after September 10, 2025.",
       "transcript_snippet": "He was also on the Charlie Kirk show. I believe he was on it actually after Charlie Kirk assassinated.",
       "mentions_person_refs": [
         "N-943",

@@ -1116,7 +1116,7 @@ Investigative Direction: Identify the specific officer via Utah ICAC roster; obt
 
 **C-3453** Host Says ICAC Unit Is Administratively Controlled by the Utah Attorney General's Office
 
-Claim Timestamp: 00:22:24
+Claim Timestamp: 00:21:50
 
 Claim: The host says she is certain that the Utah ICAC works under, and is run by, the Utah Attorney General's Office.
 

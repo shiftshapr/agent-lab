@@ -47,7 +47,7 @@
 
 This episode advances two parallel investigative tracks: (1) alleged intersections between Erika Kirk's biography and Jeffrey Epstein's documented network (pageant world, Romania/ASU, Next Model Management, Corcoran Group, the Rothschilds), and (2) tightening of the September 8, 2025 timeline to argue that Erika was not present in the Kirk home on the day of Charlie Kirk's assassination. The host frames these as cumulative "coincidences" surrounding a subject she accuses of "dancing around" Epstein.
 
-Evidentiary material presented in-episode includes a quoted 2012 Epstein–Märtha Louise of Norway email about designing humans in labs, a host-authored January 29, 2026 tweet about Andrew Kolvet and Mikey McCoy's West Wing presence, a Father Ripperger clip discussing occult family pedigrees, references to specific Epstein emails (Faith Kates correspondence; Corcoran Group references; Linda Rothschild background), the host's unanswered email to Erika Kirk and TPUSA spokesperson Andrew Kolvet, a Jezebel article timestamped at 9:49 AM Arizona time on September 8, Erika Kirk's Ephesians 4:5 tweet timestamped at 10:49 AM Arizona time that same day, multiple Charlie Kirk Show segments from September 8 (including a Bears game discussion), a Frank Turek interview describing a Monday night walk, and a Blake Neff clip from the Todd Chris podcast.
+Evidentiary material presented in-episode includes a quoted 2012 Epstein–Märtha Louise of Norway email about designing humans in labs, a host-authored January 29, 2026 tweet about Andrew Kolvet and Mikey McCoy's West Wing presence, a Father Ripperger clip discussing occult family pedigrees, references to specific Epstein emails (Faith Kates correspondence; Corcoran Group references; Linda Rothschild background), the host's unanswered email to Erika Kirk and TPUSA spokesperson Andrew Kolvet, a Jezebel article timestamped at 9:49 AM Arizona time on September 8, Erika Kirk's Ephesians 4:5 tweet timestamped at 10:49 AM Arizona time that same day, multiple Charlie Kirk Show segments from September 8 (including a Bears game discussion), a Frank Turek interview describing a Monday night walk, and a Blake Neff clip from the Charlie Kirk podcast.
 
 Structurally, this episode pivots the Bride of Charlie investigation toward a specific named-figure linkage hypothesis (Erika ↔ Epstein) and develops the September 8 alibi-skeptic narrative introduced in prior episodes.
 
@@ -215,9 +215,9 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 
 ---
 
-### **A-1820** Blake Neff – Todd Chris Podcast Clip Bundle
+### **A-1820** Blake Neff – Charlie Kirk Podcast Clip Bundle
 
-**A-1820.1** Blake Neff clip from the Todd Chris podcast stating that Erika said Charlie, if given the choice, would not undo what happened because of the "faith revolution" unleashed.
+**A-1820.1** Blake Neff clip from the Charlie Kirk podcast stating that Erika said Charlie, if given the choice, would not undo what happened because of the "faith revolution" unleashed.
 
 - Event Timestamp: Prior to 2026-03-10
 - Source Timestamp: Prior to 2026-03-10
@@ -231,7 +231,7 @@ Structurally, this episode pivots the Bride of Charlie investigation toward a sp
 
 ### **A-1821** Blake Neff Producer Correction Bundle
 
-**A-1821.1** Note relayed via producer that Blake Neff confirmed the full Todd Chris podcast episode (including Neff's comments about Erika) was not cut – only the Twitter stream version was trimmed; the Rumble version remains intact.
+**A-1821.1** Note relayed via producer that Blake Neff confirmed the full Charlie Kirk podcast episode (including Neff's comments about Erika) was not cut – only the Twitter stream version was trimmed; the Rumble version remains intact.
 
 - Event Timestamp: 2026-03-10
 - Source Timestamp: 2026-03-10
@@ -1139,23 +1139,23 @@ Investigative Direction: Obtain full Turek interview; verify the date and conten
 
 ---
 
-**C-2432** Blake Neff on Todd Chris Podcast: Erika Said Charlie Wouldn't Undo His Death
+**C-2432** Blake Neff on The Charlie Kirk Show: Erika Said Charlie Wouldn't Undo His Death
 
 Claim Timestamp: 00:33:37–00:34:25
 
-Claim: On the Todd Chris podcast, Blake Neff stated that Erika said Charlie would not undo what happened because of the "faith revolution" it unleashed.
+Claim: On The Charlie Kirk Show, Blake Neff said Erika had said that, given the choice to undo what happened, Charlie would not, she thought, "because of what was unleashed by it."
 
 Anchored Artifacts: A-1820.1
-Mentions: N-1, N-160
-Investigative Direction: Obtain the full Rumble-hosted Todd Chris episode; verify Neff's quoted statement in context.
+Mentions: N-1, N-2, N-160
+Investigative Direction: Obtain the full Rumble-hosted Charlie Kirk episode; verify Neff's quoted statement in context.
 
 ---
 
-**C-2433** Blake Neff Confirms Rumble Version of Todd Chris Episode Uncut
+**C-2433** Blake Neff Confirms Rumble Version of Charlie Kirk Episode Uncut
 
 Claim Timestamp: 00:55:30–00:56:41
 
-Claim: A message relayed via producer indicates that Blake Neff confirmed the full Todd Chris podcast episode (including his comments about Erika) remains intact on Rumble; only the Twitter stream version was trimmed.
+Claim: A message relayed via producer indicates that Blake Neff confirmed the full Charlie Kirk podcast episode (including his comments about Erika) remains intact on Rumble; only the Twitter stream version was trimmed.
 
 Anchored Artifacts: A-1821.1, A-1820.1
 Mentions: N-160
@@ -1806,13 +1806,13 @@ Investigative Direction: Seek any record of an Erika and Trump meeting before 20
 
 ---
 
-**C-10265** Host Says Kairos Company Works With Burnett Through Johnny Moore
+**C-10265** Host Says Kairos Company Works With Burnett Through Johnnie Moore
 
 Claim Timestamp: 00:21:19
 
-Claim: The host says the Kairos company is working with Mark Burnett via Johnny Moore.
+Claim: The host says the Kairos company is working with Mark Burnett via Johnnie Moore.
 
-Transcript Snippet: Kairos company is working with Mark Burnett's via Johnny Moore.
+Transcript Snippet: Kairos company is working with Mark Burnett's via Johnnie Moore.
 
 Anchored Artifacts: 
 Mentions: N-438, N-441

@@ -543,7 +543,7 @@ Baron Coleman; told the host the shirt was 100% polyester.
 
 **N-438** Johnnie Moore
 
-Johnny Moore; Kolvet's former partner and NCRI board member per the host.
+Johnnie Moore; Kolvet's former partner and NCRI board member per the host.
 
 *Related: C-5894*
 
@@ -1557,13 +1557,13 @@ Investigative Direction: The original NCRI report with its date, and any Kirk pu
 
 ---
 
-**C-5894** Johnny Moore, Kolvet's Old Partner, Sat on NCRI's Board
+**C-5894** Johnnie Moore, Kolvet's Old Partner, Sat on NCRI's Board
 
 Claim Timestamp: 00:32:32
 
-Claim: The host says Johnny Moore, Andrew Kolvet's old partner, was on NCRI's board when the Christ is King report was published and Charlie Kirk did not care.
+Claim: The host says Johnnie Moore, Andrew Kolvet's old partner, was on NCRI's board when the Christ is King report was published and Charlie Kirk did not care.
 
-Transcript Snippet: Charlie didn't care that the NCRI had Johnny Moore on their board, Andrew Kolvet's old partner Johnny Moore on the board of NCRI when the Crisis King report was published.
+Transcript Snippet: Charlie didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner Johnnie Moore on the board of NCRI when the Crisis King report was published.
 
 Anchored Artifacts: 
 Mentions: N-438, N-14, N-1

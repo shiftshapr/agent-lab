@@ -219,10 +219,10 @@ Video Timestamp: 01:00:23–01:00:56
 Transcript Snippet: I think her name was Sarah Stockton.
 Confidence: medium
 
-**A-2516.4** Viewer comment from Maple Leaf Girl naming Phil Lyman and Eric Mutosos, read on air (verbal reference; no displayed artifact)
+**A-2516.4** Viewer comment from Maple Leaf Girl naming Phil Lyman and Eric Moutsos, read on air (verbal reference; no displayed artifact)
 Video Timestamp: 01:12:13–01:12:37
 *Related: C-3724, N-41, N-42, N-61, N-62*
-Transcript Snippet: Eric Mutosos was the LEO and has dealt with Zinn in the past.
+Transcript Snippet: Eric Moutsos was the LEO and has dealt with Zinn in the past.
 Confidence: medium
 
 **A-2516.5** Host reference to Jamie Lee Curtis crying over the assassination (verbal reference; no displayed artifact)
@@ -502,7 +502,7 @@ Republican candidate chosen by delegates who ran against Cox.
 
 ---
 
-**N-62** Eric Mutosos
+**N-62** Eric Moutsos
 
 Node Type: Person
 LEO commenter noted to have dealt with Zinn in the past.
@@ -1320,15 +1320,15 @@ Investigative Direction: Identify the attendee's posts from the Hamptons weekend
 
 ---
 
-**C-3724** Viewer comment: Eric Mutosos was the LEO who dealt with Zinn
+**C-3724** Viewer comment: Eric Moutsos was the LEO who dealt with Zinn
 
 Claim Timestamp: 01:12:24
-Claim: A viewer comment from Maple Leaf Girl, read on air, urges the host to look into Governor Cox and contact Phil Lyman, who ran against Cox, and says Eric Mutosos was the LEO and has dealt with Zinn in the past.
-Transcript Snippet: Eric Mutosos was the LEO and has dealt with Zinn in the past.
+Claim: A viewer comment from Maple Leaf Girl, read on air, urges the host to look into Governor Cox and contact Phil Lyman, who ran against Cox, and says Eric Moutsos was the LEO and has dealt with Zinn in the past.
+Transcript Snippet: Eric Moutsos was the LEO and has dealt with Zinn in the past.
 Anchored Artifacts: A-2516.4
 Mentions: N-41, N-42, N-61, N-62
 Confidence: medium
-Investigative Direction: Verify any law enforcement record linking Eric Mutosos to George Zinn.
+Investigative Direction: Verify any law enforcement record linking Eric Moutsos to George Zinn.
 
 ---
 

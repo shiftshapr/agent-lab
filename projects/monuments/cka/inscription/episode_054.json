@@ -2723,7 +2723,7 @@
       "ref": "N-11164",
       "name": "Kairos Company",
       "type": "organization",
-      "description": "PR firm led by Johnny Moore where the host says Andrew Kolvet worked.",
+      "description": "PR firm led by Johnnie Moore where the host says Andrew Kolvet worked.",
       "related_artifacts": [],
       "related_claims": [
         "C-8136",
@@ -3583,8 +3583,8 @@
       "@type": "Claim",
       "@id": "C-8136",
       "ref": "C-8136",
-      "label": "Host Says Kolvet Did PR for the Kairos Company Under Johnny Moore",
-      "claim": "The host says Andrew Kolvet worked in PR for the Kairos Company under Johnny Moore, who she says had been lead pastor at Liberty University before leaving to start the PR firm.",
+      "label": "Host Says Kolvet Did PR for the Kairos Company Under Johnnie Moore",
+      "claim": "The host says Andrew Kolvet worked in PR for the Kairos Company under Johnnie Moore, who she says had been lead pastor at Liberty University before leaving to start the PR firm.",
       "anchored_artifacts": [
         "A-2920.1"
       ],
@@ -3597,8 +3597,8 @@
         "relevance:context"
       ],
       "claim_timestamp": "00:06:39",
-      "investigative_direction": "Check Kolvet's and Johnny Moore's public biographies and Kairos Company staff listings for dates of employment.",
-      "transcript_snippet": "Andrew Kolvet was working PR for the Kairos Company under Johnny Moore.",
+      "investigative_direction": "Check Kolvet's and Johnnie Moore's public biographies and Kairos Company staff listings for dates of employment.",
+      "transcript_snippet": "Andrew Kolvet was working PR for the Kairos Company under Johnnie Moore.",
       "mentions_person_refs": [
         "N-14",
         "N-438"
@@ -3608,8 +3608,8 @@
       "@type": "Claim",
       "@id": "C-8137",
       "ref": "C-8137",
-      "label": "Host Says Johnny Moore Was Put in Charge of Gaza Humanitarian Fund Food Distribution",
-      "claim": "The host says Johnny Moore was made head of the Gaza Humanitarian Fund and given the job of distributing food to Palestinian children and families, and that she has no idea why he got the position.",
+      "label": "Host Says Johnnie Moore Was Put in Charge of Gaza Humanitarian Fund Food Distribution",
+      "claim": "The host says Johnnie Moore was made head of the Gaza Humanitarian Fund and given the job of distributing food to Palestinian children and families, and that she has no idea why he got the position.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10670"
@@ -3618,7 +3618,7 @@
         "relevance:tangential"
       ],
       "claim_timestamp": "00:07:47",
-      "investigative_direction": "Confirm Johnny Moore's role with the Gaza Humanitarian Foundation through GHF announcements and press reports.",
+      "investigative_direction": "Confirm Johnnie Moore's role with the Gaza Humanitarian Foundation through GHF announcements and press reports.",
       "transcript_snippet": "He was somehow equipped to lead the Gaza Humanitarian Fund and he gets this role essentially",
       "mentions_person_refs": [
         "N-438",

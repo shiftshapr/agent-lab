@@ -1223,10 +1223,7 @@
     ],
     [
       "\\bDana Lash\\b",
-      "Dana Loesch",
-      [
-        128
-      ]
+      "Dana Loesch"
     ],
     [
       "\\bBlake Herrif\\b",
@@ -2123,10 +2120,7 @@
     ],
     [
       "\\bJohnny Moore\\b",
-      "Johnnie Moore",
-      [
-        138
-      ]
+      "Johnnie Moore"
     ],
     [
       "\\bMatt Nuclear\\b",
@@ -2218,6 +2212,55 @@
     [
       "\\bMSAD\\b",
       "Mossad"
+    ],
+    [
+      "\\bMutosos\\b",
+      "Moutsos"
+    ],
+    [
+      "\\bTodd Chris\\b",
+      "Charlie Kirk",
+      [
+        76
+      ]
+    ],
+    [
+      "\\bFonte Grassi\\b",
+      "Fantegrossi"
+    ],
+    [
+      "\\bJohn Kirraou\\b",
+      "John Kiriakou"
+    ],
+    [
+      "\\bJohn Kuraku\\b",
+      "John Kiriakou"
+    ],
+    [
+      "\\bKirraou\\b",
+      "Kiriakou"
+    ],
+    [
+      "\\bKuraku\\b",
+      "Kiriakou",
+      [
+        142
+      ]
+    ],
+    [
+      "\\bKirao\\b",
+      "Kiriakou",
+      [
+        142
+      ]
+    ],
+    [
+      "\\bSarah Sidner\\b",
+      "Sara Sidner"
+    ],
+    [
+      "\\bDana Lashes\\b",
+      "Dana Loesches"
     ]
   ]
 }

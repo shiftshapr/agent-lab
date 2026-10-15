@@ -202,7 +202,7 @@ Uh we're trying to figure out did Frank Turek not go to the green room with him?
 
 [32:32]
 
-NCRI. They do focused reports on I think really just me, things that I say. And they were really pushing and peddling a couple years ago that Crisis King is anti-Semitic. They released this port report during Lent. It backfired, obviously. Chief among people who were very critical of this report was Charlie Kirk himself. And Charlie didn't care that the NCRI had Johnny Moore on their board, Andrew Kolvet's old partner Johnny Moore on the board of NCRI when the Crisis King report was published. This twerp, look at him. And then he also was a part, of course, of this report that was published about me accusing me on the day, the first day of a Taylor Robinson trial of being a digital assassin. I'm sure, even though Andrew Kolvet was pushing this report, that he had no idea it was coming up.
+NCRI. They do focused reports on I think really just me, things that I say. And they were really pushing and peddling a couple years ago that Crisis King is anti-Semitic. They released this port report during Lent. It backfired, obviously. Chief among people who were very critical of this report was Charlie Kirk himself. And Charlie didn't care that the NCRI had Johnnie Moore on their board, Andrew Kolvet's old partner Johnnie Moore on the board of NCRI when the Crisis King report was published. This twerp, look at him. And then he also was a part, of course, of this report that was published about me accusing me on the day, the first day of a Taylor Robinson trial of being a digital assassin. I'm sure, even though Andrew Kolvet was pushing this report, that he had no idea it was coming up.
 
 [33:25]
 
@@ -214,7 +214,7 @@ So, why aren't you guys doing a report on like Andrew Kolvet and Blake Nath? I m
 
 [35:20]
 
-Why would I want somebody who is dissociated to be hurt? Why can't we discuss clinical terms um without you accusing me of murder? Why are you accusing me of of setting the groundwork for someone to be harmed? I've never done that. I've never ever done that. I've never said go out and I've never even said don't go to Erika's events. Erika's done that. Erika made personal phone calls to priests telling them not to attend an event that I was at cuz that's how she behaves behind the scenes while she in the front pretends she's a victim. Behind the scenes she's quite nasty, actually. That's a fact. She's been leading these attacks against me. I'm sure she was on the phone with Johnny Moore cooking this one up.
+Why would I want somebody who is dissociated to be hurt? Why can't we discuss clinical terms um without you accusing me of murder? Why are you accusing me of of setting the groundwork for someone to be harmed? I've never done that. I've never ever done that. I've never said go out and I've never even said don't go to Erika's events. Erika's done that. Erika made personal phone calls to priests telling them not to attend an event that I was at cuz that's how she behaves behind the scenes while she in the front pretends she's a victim. Behind the scenes she's quite nasty, actually. That's a fact. She's been leading these attacks against me. I'm sure she was on the phone with Johnnie Moore cooking this one up.
 
 [35:55]
 
@@ -240,7 +240,7 @@ Huh? Charlie was emphatically against that. And the fact that Andrew Kolvet is s
 
 [39:37]
 
-Speaking of Andrew and the Kairos Company and Johnny Moore Andrew Kolvet during his crash out, um, was still trying to protect BB, but in the process admitted that I was telling the truth. I have maintained, I think since September, it might be October. I haven't changed my story once. That Andrew Kolvet called me and he told me about the happenings. I My source was Andrew Kolvet. It was. I told Erika that when we met face to face. And, uh, she conceded that yes, BB Netanyahu did call at Bill Ackman's house. She now her reason for Bill Ackman calling was that he was following up on the letter that Charlie wrote him in May, but that's not what Andrew Kolvet told me. He He me that BB offered to take Turning Point to the next level.
+Speaking of Andrew and the Kairos Company and Johnnie Moore Andrew Kolvet during his crash out, um, was still trying to protect BB, but in the process admitted that I was telling the truth. I have maintained, I think since September, it might be October. I haven't changed my story once. That Andrew Kolvet called me and he told me about the happenings. I My source was Andrew Kolvet. It was. I told Erika that when we met face to face. And, uh, she conceded that yes, BB Netanyahu did call at Bill Ackman's house. She now her reason for Bill Ackman calling was that he was following up on the letter that Charlie wrote him in May, but that's not what Andrew Kolvet told me. He He me that BB offered to take Turning Point to the next level.
 
 [40:20]
 

@@ -1772,16 +1772,16 @@ Investigative Direction: Compare with Pew, Gallup and denominational membership 
 
 ---
 
-**C-5533** Host Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker
+**C-5533** Coleman Says Pastors Like Rob McCoy Rehabilitate Pedophiles While Telling Followers to Unfollow Tucker
 
 Claim Timestamp: 00:46:48
 
-Claim: The host says pastors like Rob McCoy are constantly trying to rehabilitate pedophiles and then tell people that to be saved they just have to unfollow Tucker Carlson on Twitter.
+Claim: Baron Coleman says pastors like Rob McCoy are constantly trying to rehabilitate pedophiles and then tell people that to be saved they just have to unfollow Tucker Carlson on Twitter.
 
 Transcript Snippet: We've got these pastors like Rob McCoy constantly trying to rehabilitate pedophiles and then they'll look at you dead in the face and be like hey if you want to be saved just got to unfollow Tucker Carlson on Twitter.
 
 Anchored Artifacts: 
-Mentions: N-3, N-17, N-22
+Mentions: N-331, N-17, N-22
 Related Nodes: N-10139
 Investigative Direction: Ask for the specific cases and sermons; the host's framing is hyperbolic, so look for documented McCoy statements on offenders and Tucker Carlson.
 
