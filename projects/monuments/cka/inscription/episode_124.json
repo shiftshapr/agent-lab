@@ -560,13 +560,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2864",
       "family_ref": "A-2864",
-      "bundle_name": "Penguitch Steak Receipt Bundle",
+      "bundle_name": "Panguitch Steak Receipt Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2864.1",
           "ref": "A-2864.1",
-          "description": "Host verbal reference to a receipt for Tyler Robinson's steak payment at 9:47 p.m. in Penguitch (receipt not shown)",
+          "description": "Host verbal reference to a receipt for Tyler Robinson's steak payment at 9:47 p.m. in Panguitch (receipt not shown)",
           "related_claims": [
             "C-7223"
           ],
@@ -1252,7 +1252,7 @@
       "ref": "N-10381",
       "name": "Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification",
       "type": "investigation_target",
-      "description": "Existing topic reused for the Penguitch steak claim.",
+      "description": "Existing topic reused for the Panguitch steak claim.",
       "related_artifacts": [],
       "related_claims": [
         "C-7223",
@@ -1696,7 +1696,7 @@
       "ref": "N-366",
       "name": "Diligent Dennison",
       "type": "person",
-      "description": "Researcher the host credits with speaking to the waiter in Penguitch.",
+      "description": "Researcher the host credits with speaking to the waiter in Panguitch.",
       "related_artifacts": [],
       "related_claims": [
         "C-7271"
@@ -2668,8 +2668,8 @@
       "@type": "Claim",
       "@id": "C-7223",
       "ref": "C-7223",
-      "label": "Host Says Robinson Paid for a Steak in Penguitch at 9:47 p.m. by Debit Card",
-      "claim": "The host says her team broke the story that Tyler Robinson was eating a steak in Penguitch and paid at 9:47 p.m. with his debit card, and says there is a literal receipt, which timestamps him three hours from campus.",
+      "label": "Host Says Robinson Paid for a Steak in Panguitch at 9:47 p.m. by Debit Card",
+      "claim": "The host says her team broke the story that Tyler Robinson was eating a steak in Panguitch and paid at 9:47 p.m. with his debit card, and says there is a literal receipt, which timestamps him three hours from campus.",
       "anchored_artifacts": [
         "A-2864.1"
       ],
@@ -2680,8 +2680,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:21:42",
-      "investigative_direction": "Obtain the Penguitch restaurant receipt and card transaction record and the establishment's own timestamps.",
-      "transcript_snippet": "because we broke the story that Tyler was eating a steak down in Penguitch. He concluded and and paid at 9:47 p. m.",
+      "investigative_direction": "Obtain the Panguitch restaurant receipt and card transaction record and the establishment's own timestamps.",
+      "transcript_snippet": "because we broke the story that Tyler was eating a steak down in Panguitch. He concluded and and paid at 9:47 p. m.",
       "supports_claim_refs": [
         "C-2004"
       ],
@@ -2694,8 +2694,8 @@
       "@type": "Claim",
       "@id": "C-7224",
       "ref": "C-7224",
-      "label": "Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Penguitch Timeline",
-      "claim": "The host says that if Tyler Robinson left Penguitch nearly at 10 p.m., he could not have been babysitting the campus and texting Lance after 11 p.m., unless he failed to mention being pulled over by a police officer around 12:30.",
+      "label": "Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Panguitch Timeline",
+      "claim": "The host says that if Tyler Robinson left Panguitch nearly at 10 p.m., he could not have been babysitting the campus and texting Lance after 11 p.m., unless he failed to mention being pulled over by a police officer around 12:30.",
       "anchored_artifacts": [
         "A-2123.1"
       ],
@@ -3818,7 +3818,7 @@
       "@id": "C-7271",
       "ref": "C-7271",
       "label": "Host Says Diligent Dennison Spoke to the Waiter in Panguitch",
-      "claim": "The host says Diligent Dennison went and spoke to the waiter in Penguitch and that more was going to come out about it.",
+      "claim": "The host says Diligent Dennison went and spoke to the waiter in Panguitch and that more was going to come out about it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10381"

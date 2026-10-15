@@ -1055,7 +1055,7 @@ Investigative Direction: Identify the distribution list in the original email he
 
 ---
 
-**C-4199** Host's follow-up asked about an April 25 email copied to Cheung, Smalley and Rippeon
+**C-4199** Host's Follow-Up Asked About an April 25 Email Copied to Cheung, Smale and Rippeon
 
 Claim Timestamp: 00:35:13
 
@@ -1100,7 +1100,7 @@ Investigative Direction: Obtain the original email from a recipient and verify i
 
 ---
 
-**C-4202** Host copied Smalley, Rippey and the White House Press Office on her follow-up
+**C-4202** Host Copied Smale, Rippeon and the White House Press Office on Her Follow-Up
 
 Claim Timestamp: 00:36:27
 
@@ -1195,7 +1195,7 @@ Investigative Direction: Review Paramount Tactical's product catalog and the con
 
 Claim Timestamp: 00:39:34
 
-Claim: The host says the father of the person she calls "decoy boy number two" received a massive Department of Defense contract through the Built app shortly before Charlie Kirk's death.
+Claim: The host says the father of the person she calls "decoy boy number two" received a massive Department of Defense contract shortly before Charlie Kirk's death, mentioning the Built app.
 
 Transcript Snippet: Remember our decoy boy number two, his dad, too, got a massive contract with the Department of Defense.
 

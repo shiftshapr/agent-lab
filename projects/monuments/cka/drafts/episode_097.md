@@ -771,7 +771,7 @@ Kim Klacik; the host recounts her earlier lawsuit against the host.
 
 **N-552** Aubrey Laitsch
 
-Aubrey Laitsch; the host says Kolvet cannot show what Lech gave her.
+Aubrey Laitsch; the host says Kolvet cannot show what Laitsch gave her.
 
 *Related: C-10400, C-10401*
 
@@ -1021,7 +1021,7 @@ Investigative Direction: Obtain the pre-filing email; verify whether it containe
 
 Claim Timestamp: 00:03:20
 
-Claim: The lawsuit alleges Candace accused Harpole and his team of criminal negligence by failing to have an ambulance on standby and failing to render aid after Kirk was shot.
+Claim: Per the pre-filing demand letter the host reads, which she says summarizes the lawsuit, Candace accused Harpole and his team of criminal negligence by failing to have an ambulance on standby and failing to render aid after Kirk was shot.
 
 Anchored Artifacts: A-2015.2
 Mentions: N-1, N-3, N-267
@@ -1036,7 +1036,7 @@ Investigative Direction: Compare the quoted podcast passage against the actual t
 
 Claim Timestamp: 00:07:04
 
-Claim: The lawsuit alleges Candace's episode implied Harpole's security team had foreknowledge of and complicity in Kirk's assassination.
+Claim: Per the pre-filing demand letter the host reads, Candace's episode implied Harpole's security team had foreknowledge of and complicity in Kirk's assassination.
 
 Anchored Artifacts: A-2015.3
 Mentions: N-1, N-3, N-267
@@ -1051,7 +1051,7 @@ Investigative Direction: Locate and review the "Charlie's Angels or Demons" epis
 
 Claim Timestamp: 00:09:16
 
-Claim: The lawsuit alleges Candace accused Harpole of failing to render effective aid with his medical bag and of lying about drone availability.
+Claim: Per the pre-filing demand letter the host reads, Candace accused Harpole of failing to render effective aid with his medical bag and of lying about drone availability.
 
 Anchored Artifacts: A-2015.4
 Mentions: N-3, N-267
@@ -1094,7 +1094,7 @@ Investigative Direction: Confirm the air date of Harpole's Shawn Ryan appearance
 
 **C-2817** Candace First Mentioned Harpole by Name on November 19, Two Days After His Shawn Ryan Appearance
 
-Claim Timestamp: 00:17:25
+Claim Timestamp: 00:16:46
 
 Claim: Candace states she never once mentioned Harpole on her podcast prior to his November 17 Shawn Ryan appearance; her first mention was November 19.
 
@@ -1154,7 +1154,7 @@ Investigative Direction: Locate the September 2025 episode in which Candace defe
 
 **C-2821** Host Says Lawsuit Admits the Rooftop Text Chain Was Between Dan Flood and Chief Long, Not Harpole
 
-Claim Timestamp: 00:28:30
+Claim Timestamp: 00:27:53
 
 Claim: The host says that although Harpole presented the Sorensen Center rooftop text chain on Shawn Ryan as his own, the lawsuit admits the messages were between Dan Flood and UVU Police Chief Long.
 
@@ -1201,7 +1201,7 @@ Investigative Direction: Identify the specific X post passages cited by the laws
 
 Claim Timestamp: 00:10:08
 
-Claim: The host says Harpole's statement that drones could not be flown in Provo airspace conflicts with Frank Turek's separate account of flying drones at UVU events.
+Claim: The host says Harpole's statement that drones could not be flown in Provo airspace conflicts with Frank Turek's separate account of drones being flown at the UVU event.
 
 Anchored Artifacts: A-2015.4, A-2028.1
 Mentions: N-3, N-7, N-267
@@ -1216,10 +1216,10 @@ Investigative Direction: Obtain full audio of Turek's drone statements and cross
 
 Claim Timestamp: 00:42:15
 
-Claim: The host says Erika Kirk publicly claimed that Candace accused her of murdering Charlie Kirk, which the host calls obviously untrue; the host says everyone had the same reaction to it.
+Claim: The host says Erika Kirk publicly claimed that Candace accused her of murdering Charlie Kirk, which the host calls obviously untrue; in a clip the host plays, Baron Coleman says everyone had the same reaction to it.
 
 Anchored Artifacts: A-2021.1
-Mentions: N-2, N-3, N-1
+Mentions: N-1, N-2, N-3, N-331
 
 Related Nodes: N-10647
 
@@ -2408,7 +2408,7 @@ Investigative Direction: Ask Harpole's counsel for dated receipts, location data
 
 Claim Timestamp: 01:11:50
 
-Claim: The host says she has Harpole's flights and they were afternoon departures from Dallas at 2:19, 1:19 and 1:39.
+Claim: The host says "she had his flights" and that Harpole's flights were afternoon departures from Dallas at 2:19, 1:19 and 1:39.
 
 Transcript Snippet: The flights were for what? 2:19, 1:19, 1:39 in the afternoon from Dallas.
 

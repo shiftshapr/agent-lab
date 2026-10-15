@@ -1,0 +1,784 @@
+[
+ {
+  "claim": "C-8758",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8759",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8760",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8761",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8762",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8763",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8764",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8765",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Transcript hedges the sales figure: \"I think we moved 800,000 copies of my first book.\" Claim drops the 'I think'.",
+  "fix": {
+   "claim": "The host says she had no debts and a million-dollar book deal when she met her husband, and that she thinks about 800,000 copies of her first book were moved."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-8766",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8767",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8768",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8769",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8770",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Loomer (N-60) is not named in the claim; the claim refers to 'the Trump tweet', so Trump (N-5) belongs in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-131",
+    "N-3",
+    "N-5"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-8771",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8772",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8773",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8774",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8775",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8776",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8777",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8778",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8779",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim names only Charlie Kirk and Trump; Erika Kirk (N-2) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-5"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-8780",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8781",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8782",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8783",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8784",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim concerns only Charlie Kirk's view of the WHCD; Erika Kirk (N-2) is not named in the claim.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-8785",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8786",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8787",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8788",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8789",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim refers to the allegation that Candace Owens says Erika 'murdered her husband' (Charlie Kirk); N-1 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-8790",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim refers to Erika having 'murdered her husband' (Charlie Kirk); N-1 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-1"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-8791",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim refers to Erika having 'murdered her husband' (Charlie Kirk); N-1 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-3",
+    "N-2",
+    "N-1"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-8792",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8793",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8794",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8795",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8796",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim misspells her as 'Lech' (transcript: 'Aubrey Laitsch'). Kolvet (N-14) is not named or referred to in the claim.",
+  "fix": {
+   "claim": "The host says she has had many conversations with Aubrey Laitsch after Laitsch's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.",
+   "mentions": [
+    "N-552",
+    "N-3"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-8797",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8798",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8799",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8800",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Claim refers to 'shooting her husband' (Charlie Kirk); N-1 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-1"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-8801",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8802",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8803",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8804",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8805",
+  "episode": 96,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Coleman clip ends at 'None.' The next lines are the host's ('when I arrived, did I say...'; 'Blake Neff already gave a different excuse'), continuing into 'please hire a new PR team'.",
+  "fix": {
+   "claim": "The host says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.",
+   "label": "Host Says Neff and Kolvet Gave Different Excuses",
+   "mentions": [
+    "N-3",
+    "N-160",
+    "N-14"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-8806",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8807",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Host hedges the source: \"I think it was according to Laura Loomer we were living separate...\"; claim drops 'I think'.",
+  "fix": {
+   "claim": "The host says she thinks it was Laura Loomer who claimed the host and her husband live separately in two houses and that she has dual citizenship, and says none of it is true."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-8808",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8809",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8810",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8811",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Tweet says \"Her other lawyers firm specializes in bankruptcies\"; claim garbles this as the trust being 'with another firm'.",
+  "fix": {
+   "claim": "The host reads a Loomer tweet alleging the host hides nearly 12 million dollars in real estate and other assets in a secret trust, and saying her other lawyer's firm specializes in bankruptcies."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-8812",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8813",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8814",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8815",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "Transcript: \"I told my priest I would chill and he was there when that happened\" - 'that' refers to the Trump post, not the confirmation.",
+  "fix": {
+   "claim": "The host says part of the reason she had no response to Trump was that she told her priest she would stay calm, and that he was there when the Trump post happened."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-8816",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-8817",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "note": "",
+  "fix": {},
+  "material": false
+ }
+]

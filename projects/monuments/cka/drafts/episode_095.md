@@ -594,7 +594,7 @@ Claim: The host says the YouTuber Nicci discovered that the back-camera footage 
 Transcript Snippet: Nicci discovered that the camera footage which was shown to me on FaceTime was likely edited.
 
 Anchored Artifacts: A-2537.1
-Mentions: N-565, N-262, N-3, N-1
+Mentions: N-565, N-262, N-3
 Related Nodes: N-10799
 Investigative Direction: Obtain the original, unedited SD-card file and compare its frame dimensions and metadata with the version shown on FaceTime.
 
@@ -624,7 +624,7 @@ Claim: Nicci's video says the back camera was always used as a wide-angle camera
 Transcript Snippet: The camera is a wide-angle camera and was always used as such. However, in the footage that Terryl has selectively shared with Candace, you cannot see the ground.
 
 Anchored Artifacts: A-2537.1
-Mentions: N-262
+Mentions: N-565, N-262
 Related Nodes: N-10799, N-10012
 Investigative Direction: Obtain the camera's recorded settings and the native file from September 10, 2025 to determine whether the zoom was optical at capture or applied in editing.
 
@@ -903,7 +903,7 @@ Investigative Direction: Interview the patent holders and identify the restauran
 
 Claim Timestamp: 00:18:04
 
-Claim: According to the tip, what Lori Frantzve and Larry Guinta offered in exchange for a stake in the patent was access to government contracts.
+Claim: According to the tip, what Lori Frantzve and Larry Guinta offered in exchange for the patent was access to government contracts.
 
 Transcript Snippet: So they were there to discuss only the patent, a potential deal for it, um and what they could offer in exchange for it. The answer being, we have access to government contracts.
 
@@ -923,7 +923,7 @@ Claim: According to the tip, Erika Frantzve arrived unannounced and late at the 
 Transcript Snippet: My favorite part of the story is who strolls in unannounced at this dinner to sweeten up the potential deal. None other than Erika Frantzve.
 
 Anchored Artifacts: A-2540.1
-Mentions: N-2, N-490
+Mentions: N-2
 Related Nodes: N-10907
 Investigative Direction: Corroborate the tipster's account with the second patent holder or other diners.
 
@@ -1074,7 +1074,7 @@ Claim: The host says Erika Kirk told Megyn Kelly that TPUSA has the Aspen video,
 Transcript Snippet: And you accused me of being a psychopath with with a with a gun or a knife rather on a subway and that's why you couldn't share it.
 
 Anchored Artifacts: 
-Mentions: N-160, N-2, N-46, N-3, N-1
+Mentions: N-160, N-2, N-46, N-3
 Related Nodes: N-10664, N-10000
 Supports: C-2661
 Investigative Direction: Archive Neff's statement and Erika Kirk's Megyn Kelly interview remark on the video.
@@ -1130,7 +1130,7 @@ Investigative Direction: Locate Loomer's public statements on call frequency and
 
 Claim Timestamp: 00:35:40
 
-Claim: The host quotes a 2019 Spectator article, "The Tale of Laura Loomer," in which Loomer said she dealt with depression by using cocaine at 23. She also said she once drove to a cliff in February and tried to kill herself.
+Claim: The host quotes a 2019 Spectator article, "The Tale of Laura Loomer," in which Loomer said she dealt with depression by using cocaine; the host adds that Loomer was 23. Loomer also said she once drove to a cliff in February and tried to kill herself.
 
 Transcript Snippet: I had really bad anxiety and depression and then I started to basically deal with depression by doing cocaine.
 
@@ -1265,7 +1265,7 @@ Claim: The host says the defense asked not to set a date until discovery was in 
 Transcript Snippet: Remember, the the the defense said, "Let's not put a day on the calendar until we have our discovery stuff and we we'll have a better idea."
 
 Anchored Artifacts: 
-Mentions: N-2, N-40
+Mentions: N-2
 Related Nodes: N-10626, N-10570
 Investigative Direction: Obtain the hearing transcript in which the date was set.
 

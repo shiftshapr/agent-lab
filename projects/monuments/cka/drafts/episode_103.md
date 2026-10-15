@@ -631,7 +631,7 @@ Investigative Direction: Check archived follower lists for Charlie Kirk's and Vi
 
 Claim Timestamp: 00:03:34
 
-Claim: The host says the last time Victor Marx appeared publicly with Charlie Kirk was in October 2023, when he reported on the Charlie Kirk Show from Israel shortly after October 7.
+Claim: The host says it appears the last time Victor Marx appeared publicly with Charlie Kirk was in October 2023, when he reported on the Charlie Kirk Show from Israel shortly after October 7.
 
 Transcript Snippet: it appears that the last time Victor Marx had done anything publicly with Charlie, appeared on Charlie's show, it was in October of 2023.
 
@@ -860,7 +860,7 @@ Claim: The host says N582MM stayed in South Dakota about 50 minutes, flew to Chi
 Transcript Snippet: stayed in South Dakota for about 50 minutes before heading onward to Chicago, Illinois for what looks like a pickup, and then they went straight to Provo, Utah landing at 6:57 p. m.
 
 Anchored Artifacts: A-2568.1
-Mentions: N-1
+Mentions: 
 Related Nodes: N-10903, N-10074
 Investigative Direction: Obtain ADS-B and FBO records for N582MM's Chicago stop and Provo arrival, and the passengers boarded in Chicago.
 
@@ -875,7 +875,7 @@ Claim: The host says that after staying overnight in Provo on September 10, N582
 Transcript Snippet: After it stayed overnight in Provo on September 10th, it then went back to Pierre, South Dakota.
 
 Anchored Artifacts: A-2568.1
-Mentions: N-1
+Mentions: 
 Related Nodes: N-10903, N-10074
 Investigative Direction: Pull N582MM's September 11, 2025 flight history.
 
@@ -959,7 +959,7 @@ Investigative Direction: Request the Jefferson County 911 call log and recording
 
 Claim Timestamp: 00:17:11
 
-Claim: The host says the Jefferson County Sheriff's Office acknowledged in its October 10 update that officers from mutual-aid agencies, not its own deputies, knocked on classroom doors asking people to open up, without naming the agency.
+Claim: Per an email the host reads, the Jefferson County Sheriff's Office acknowledged in its October 10 update that officers from mutual-aid agencies, not its own deputies, knocked on classroom doors asking people to open up, without naming the agency.
 
 Transcript Snippet: The Jefferson County Sheriff's Office actually acknowledged this in their October 10th update and said that Jefferson County's deputies followed the protocol correctly
 
@@ -1309,7 +1309,7 @@ Claim: The host relays a rumor from people inside the organization that Turning 
 Transcript Snippet: the rumor is that Turning Point Action was missing $10 million, dollars Point Action actually built a back door. It has connections to Erika's mother.
 
 Anchored Artifacts: A-2572.2
-Mentions: N-2, N-490, N-1
+Mentions: N-2, N-490
 Related Nodes: N-10388
 Investigative Direction: Review Turning Point Action's IRS filings and audits for a $10 million shortfall.
 
@@ -1324,7 +1324,7 @@ Claim: The host says Lori Frantzve sits on the board of a company with Tyler Bow
 Transcript Snippet: the company that she is on the board of with Tyler Bowyer. Uh they act Superfeed. Superfeed actually powers the Turning Point USA website.
 
 Anchored Artifacts:
-Mentions: N-490, N-11, N-2
+Mentions: N-490, N-11
 Related Nodes: N-10922, N-10000, N-10388
 Investigative Direction: Check Superfeed's corporate filings for board members and the TPUSA app's terms of service and privacy policy.
 
@@ -1334,7 +1334,7 @@ Investigative Direction: Check Superfeed's corporate filings for board members a
 
 Claim Timestamp: 00:51:04
 
-Claim: The host says Erika Kirk told Glenn Beck she has Charlie Kirk's phone and that he never texted people the night before saying he would be killed. The host says that claim was wrong because Andrew Kolvet was one of the people he texted.
+Claim: A viewer comment the host reads says Erika Kirk told Glenn Beck that Charlie Kirk wasn't texting people the day before that he was going to be killed; the host agrees, recalling Erika Kirk saying she has his phone and he never said that, and says the claim was wrong because Andrew Kolvet was one of the people he texted.
 
 Transcript Snippet: She said it with such attitude, right? She's like, "I have his phone. Uh he never said that."
 

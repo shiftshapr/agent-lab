@@ -1,0 +1,461 @@
+[
+ {
+  "claim": "C-13429",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-30"
+   ]
+  },
+  "note": "Claim refers to the husband's fender bender; Loomer not named or referred to."
+ },
+ {
+  "claim": "C-13435",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names nobody; Tyler Robinson not referred to."
+ },
+ {
+  "claim": "C-13436",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names no person; Charlie Kirk not referred to."
+ },
+ {
+  "claim": "C-13443",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says it is important to get the data from the phones to make sure Lance Twiggs wasn't just texting from his phone and to see what time the messages went out, and asks why they never want to send the timestamps.",
+   "label": "Host Asks Why They Never Send the Timestamps for the Text Messages",
+   "mentions": [
+    "N-54"
+   ]
+  },
+  "note": "Transcript supports rewrite; 'implies released without timestamps' was added inference; Tyler not referred to."
+ },
+ {
+  "claim": "C-3830",
+  "episode": 95,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-565",
+    "N-262",
+    "N-3"
+   ]
+  },
+  "note": "Charlie Kirk not named or referred to."
+ },
+ {
+  "claim": "C-3832",
+  "episode": 95,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-565",
+    "N-262"
+   ]
+  },
+  "note": "Claim names Nicci; N-565 added."
+ },
+ {
+  "claim": "C-3852",
+  "episode": 95,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Lori Frantzve not named or referred to."
+ },
+ {
+  "claim": "C-3862",
+  "episode": 95,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-2",
+    "N-46",
+    "N-3"
+   ]
+  },
+  "note": "Charlie Kirk not named; 'the Aspen video' does not clearly refer to him."
+ },
+ {
+  "claim": "C-3875",
+  "episode": 95,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "'The defense' is not a reference to Tyler Robinson himself."
+ },
+ {
+  "claim": "C-2803",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3",
+    "N-279",
+    "N-97"
+   ]
+  },
+  "note": "Text recipient is 'the person'; Kolvet only released the screenshot and is not referred to in the claim."
+ },
+ {
+  "claim": "C-8770",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-131",
+    "N-3",
+    "N-5"
+   ]
+  },
+  "note": "'The Trump tweet' refers to Trump; Loomer not named in claim."
+ },
+ {
+  "claim": "C-8779",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-5"
+   ]
+  },
+  "note": "Erika not referred to in claim."
+ },
+ {
+  "claim": "C-8784",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Erika not referred to in claim."
+ },
+ {
+  "claim": "C-8789",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "'Her husband' clearly refers to Charlie Kirk."
+ },
+ {
+  "claim": "C-8790",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "'Her husband' clearly refers to Charlie Kirk."
+ },
+ {
+  "claim": "C-8791",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-3",
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "'Her husband' clearly refers to Charlie Kirk."
+ },
+ {
+  "claim": "C-8796",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she has had many conversations with Aubrey Laitsch after Laitsch's firing, and that nothing she presented on the show about TPUSA's inner workings was leaked by her.",
+   "mentions": [
+    "N-552",
+    "N-3"
+   ]
+  },
+  "note": "Firing is Aubrey's ('Post getting fired... she spoke out'); 'Lech' misspelling (ep-70-only rule); Kolvet not in claim."
+ },
+ {
+  "claim": "C-8800",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "'Her husband' clearly refers to Charlie Kirk."
+ },
+ {
+  "claim": "C-8805",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.",
+   "label": "Host Says Neff and Kolvet Gave Different Excuses",
+   "mentions": [
+    "N-3",
+    "N-160",
+    "N-14"
+   ]
+  },
+  "note": "Passage after 'None.' runs continuously into host's own lines (01:00-01:01, 'Get Barron Coleman'); host attribution supported."
+ },
+ {
+  "claim": "C-2817",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:16:46"
+  },
+  "note": "Content at ~16:50 by word position; 16:46 is ~5s before."
+ },
+ {
+  "claim": "C-2821",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:27:53"
+  },
+  "note": "'those aren't even his messages... Dan Flood's' at ~28:00; 27:53 fits."
+ },
+ {
+  "claim": "C-2825",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika Kirk publicly claimed that Candace accused her of murdering Charlie Kirk, which the host calls obviously untrue; in a clip the host plays, Baron Coleman says everyone had the same reaction to it.",
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-3",
+    "N-331"
+   ]
+  },
+  "note": "'everybody had the exact same reaction' is in the Baron Coleman clip that starts 'So, we have a series of questions'."
+ },
+ {
+  "claim": "C-2837",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-97"
+   ]
+  },
+  "note": "Claim names Shapiro."
+ },
+ {
+  "claim": "C-2843",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Schnitker not named in claim."
+ },
+ {
+  "claim": "C-2851",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the Brian Harpole lawsuit's final page lists Jacob William Roth as a partner of the firm, and says she thinks Roth has been married to Ben Shapiro's sister since 2018."
+  },
+  "note": "Host credits 'the internet' for the lawsuit listing; rewrite is attribution only."
+ },
+ {
+  "claim": "C-11507",
+  "episode": 98,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Marissa Streit not named in claim."
+ },
+ {
+  "claim": "C-2862",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:14:08"
+  },
+  "note": "Show Faith by Works/geofence content at ~14:16; 14:08 is close."
+ },
+ {
+  "claim": "C-2863",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that on September 18th Havas Media, on behalf of the Israeli Ministry of Foreign Affairs, also contracted Clock Tower X LLC, a company she says was properly registered under FARA and tasked with developing a strategic plan to combat antisemitism in the United States through the media.",
+   "label": "Host Says Havas Media Contracted FARA-Registered Clock Tower X LLC on September 18"
+  },
+  "note": "Host says Havas contracted Clock Tower X on Sept 18 and it is FARA-registered; not that FARA filing was Sept 18."
+ },
+ {
+  "claim": "C-2869",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:31:50"
+  },
+  "note": "'Pursuant to the deal' read at ~31:54; 31:50 fits."
+ },
+ {
+  "claim": "C-2870",
+  "episode": 99,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:32:50"
+  },
+  "note": "Host's Bondi statement begins ~32:55 ('the first thing that Pam Bondi did'); 32:50 is 5s before, not 33:12."
+ },
+ {
+  "claim": "C-2874",
+  "episode": 99,
+  "decision": "reject",
+  "fix": {},
+  "note": "Josh Hammer was a recipient of the quoted group text ('Josh Hammer... were part of'); keep him."
+ },
+ {
+  "claim": "C-2880",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-485",
+    "N-486"
+   ]
+  },
+  "note": "Reynolds and Jackman not named in claim."
+ },
+ {
+  "claim": "C-2882",
+  "episode": 99,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-485",
+    "N-486"
+   ]
+  },
+  "note": "'The A-listers' is not a clear reference to Jackman."
+ },
+ {
+  "claim": "C-3932",
+  "episode": 100,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Laura Loomer is tagging DHS, including Secretary of Homeland Security Markwayne Mullin, to urge an investigation of George for violating federal law.",
+   "names": [
+    {
+     "wrong": "Mark Meadows",
+     "right": "Markwayne Mullin",
+     "source": "https://en.wikipedia.org/wiki/Markwayne_Mullin"
+    }
+   ]
+  },
+  "note": "Checked: Mullin confirmed DHS Secretary Mar 24 2026 (dhs.gov, NPR, Wikipedia); Loomer feuding with him; Meadows never DHS."
+ },
+ {
+  "claim": "C-3962",
+  "episode": 101,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-22"
+   ]
+  },
+  "note": "Trump not named or referred to in claim."
+ },
+ {
+  "claim": "C-3964",
+  "episode": 101,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Erika not named or clearly referred to."
+ },
+ {
+  "claim": "C-3967",
+  "episode": 101,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "No person named."
+ },
+ {
+  "claim": "C-3968",
+  "episode": 101,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "No person named."
+ },
+ {
+  "claim": "C-3998",
+  "episode": 101,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-14"
+   ]
+  },
+  "note": "Claim names Charlie Kirk."
+ },
+ {
+  "claim": "C-2884",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads an X post in which Andrew Kolvet publicly denied divorce rumors, telling Project Constitution \"LOL, you wish, fat boy\" and instructing them to keep his wife's name out of their mouth."
+  },
+  "note": "Host reads Kolvet's post ('He wrote this'); attribution fix supported."
+ }
+]

@@ -766,12 +766,12 @@ Investigative Direction: Archive the TPUSA X post sharing the email and the orig
 
 Claim Timestamp: 00:15:15
 
-Claim: The host says she wrote to TPUSA twice more, on June 9 and the morning of June 10, asking for a written response from an identifiable executive on whether the video is authentic and in context. She says neither email has received a response.
+Claim: The host says she wrote to TPUSA twice more, the previous day and that morning, asking for a written response from an identifiable executive on whether the video is authentic and in context. She says neither email has received a response.
 
 Transcript Snippet: So, I have since written them twice by email, politely insisting upon a written response from an identifiable Turning Point USA executive.
 
 Anchored Artifacts: A-2630.1, A-2630.2
-Mentions: N-3, N-14
+Mentions: N-3
 Related Nodes: N-10957, N-10000
 Investigative Direction: Obtain the emails with headers and timestamps and any TPUSA reply.
 
@@ -786,7 +786,7 @@ Claim: The host says Blake Neff and Graham Allen do not work for Turning Point U
 Transcript Snippet: And to be clear, Blake Neff does not work for Turning Point USA. Graham Allen does not work for Turning Point USA.
 
 Anchored Artifacts:
-Mentions: N-160, N-609
+Mentions: N-160, N-609, N-2, N-14, N-15
 Related Nodes: N-10000
 Investigative Direction: Check TPUSA staff listings, Form 990 compensation schedules and the two men's stated affiliations.
 
@@ -816,7 +816,7 @@ Claim: According to the host, a donor who was present says the appointment video
 Transcript Snippet: Um in fact, the donor who told me that it's doctorred and is willing to go very far on this claim that that that is doctorred uh said that they similarly thought the same thing.
 
 Anchored Artifacts:
-Mentions: N-1, N-2
+Mentions: N-1
 Related Nodes: N-10957
 Supports: C-2888
 Investigative Direction: Obtain a sworn statement from the donor source and forensic analysis of the original video file.
@@ -922,7 +922,7 @@ Claim: The host says her office's follow-up to the Department of War gave dates 
 Transcript Snippet: we named specific Department of War recipients uh who could be included in that. Bradley Hansell, Richard Smale, Gustav Anderly, Michaela Mott Marzuka.
 
 Anchored Artifacts: A-2631.3
-Mentions: N-434, N-628, N-624, N-629
+Mentions: N-434, N-628, N-624, N-629, N-2
 Related Nodes: N-10888, N-10700, N-10923
 Investigative Direction: Track the Department of War's response to the narrowed request and verify each named recipient's position.
 
@@ -1012,7 +1012,7 @@ Claim: Ivanka Trump says the project includes, besides the island, five miles of
 Transcript Snippet: We not only the island, but we have five miles of beachfront directly across from the island.
 
 Anchored Artifacts: A-2632.1
-Mentions: N-662, N-179
+Mentions: N-662
 Related Nodes: N-10955
 Investigative Direction: Review the Albanian government agreement for the land parcels included in the project.
 
@@ -1177,7 +1177,7 @@ Claim: The host says the story quotes Erika Kirk's friends Tracy Martin and Jame
 Transcript Snippet: Tracy Martin, James Kaddis, who runs the faith department, the most despicable department at Turning Point USA.
 
 Anchored Artifacts: A-2635.1
-Mentions: N-546, N-668
+Mentions: N-546, N-668, N-2
 Related Nodes: N-10960
 Investigative Direction: Check the published US Weekly article for the named sources and confirm James Kaddis's TPUSA role.
 

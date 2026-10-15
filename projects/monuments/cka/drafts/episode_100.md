@@ -1169,7 +1169,7 @@ Investigative Direction: Obtain Daily Wire revenue and profit figures by year, f
 
 Claim Timestamp: 00:31:58
 
-Claim: In the clip, Jeremy Boreing says public records have surfaced alleging that the host's husband, George Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of an accident. The host denies this.
+Claim: In the clip, Jeremy Boreing says public records have surfaced alleging that the host's husband, George Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of an accident, and says the host insists it is a different George Farmer.
 
 Transcript Snippet: public records and documents have surfaced alleging that Candace's husband, George Farmer, was arrested in Nashville in August 2023 for DUI and leaving the scene of an accident.
 
@@ -1214,7 +1214,7 @@ Investigative Direction: Compare the date of the incident report Laura Loomer pu
 
 Claim Timestamp: 00:35:24
 
-Claim: The host says revenue growth is not profit. She says Jeremy Boreing's Pendragon project, a multi-tens-of-millions risk, drove the Daily Wire into the ground financially after the success of Matt Walsh's documentaries.
+Claim: The host says revenue growth is not profit. She says Jeremy Boreing's Pendragon project, which she calls a tremendous financial risk that not even Disney Studios would have invested tens of millions of dollars in, drove the Daily Wire into the ground financially after the success of Matt Walsh's documentaries.
 
 Transcript Snippet: Pendragon, Jeremy's high school dream, drove the company into the ground financially
 
@@ -1349,7 +1349,7 @@ Investigative Direction: Through lawful channels only, compare George Farmer's n
 
 Claim Timestamp: 00:42:09
 
-Claim: The host says Laura Loomer is tagging DHS, including someone the transcript renders as "Mark Meadows, the Secretary of Homeland Security," to urge an investigation of George for violating federal law.
+Claim: The host says Laura Loomer is tagging DHS, including Secretary of Homeland Security Markwayne Mullin, to urge an investigation of George for violating federal law.
 
 Transcript Snippet: She is tagging Mark Meadows, the Secretary of Homeland Security, to tell them to look into George for violating federal laws, okay?
 

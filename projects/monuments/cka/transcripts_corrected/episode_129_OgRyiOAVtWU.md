@@ -73,7 +73,7 @@ I'm not sure how gloves, nitro gloves, would fit into the story. We were not goi
 
 [08:11]
 
-He cut He said he cut the shirt. Whose scissors did he use? Were they hospital scissors? That's a question I guess I could ask in court. Where are those scissors? Did Brian Harpole cut the shirt? Did somebody else cut the shirt in the car? Cuz that was a That was one of a People thought that could have been a a shirt in that backseat on the side, which right, you know, that would have been Rick Cutler's side in the backseat. Did somebody else cut his shirt? I don't know. Everything remains plausible when people are telling I'm sorry, how did Frank Church term it? Not contradicting stories. They're just having different memories of the same event, which is normal. When people are having different memories of the same event, everything remains plausible.
+He cut He said he cut the shirt. Whose scissors did he use? Were they hospital scissors? That's a question I guess I could ask in court. Where are those scissors? Did Brian Harpole cut the shirt? Did somebody else cut the shirt in the car? Cuz that was a That was one of a People thought that could have been a a shirt in that backseat on the side, which right, you know, that would have been Rick Cutler's side in the backseat. Did somebody else cut his shirt? I don't know. Everything remains plausible when people are telling I'm sorry, how did Frank Turek term it? Not contradicting stories. They're just having different memories of the same event, which is normal. When people are having different memories of the same event, everything remains plausible.
 
 [09:02]
 

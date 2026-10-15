@@ -1738,7 +1738,7 @@
       "@id": "C-4400",
       "ref": "C-4400",
       "label": "Host sent two further emails seeking an on-record yes or no",
-      "claim": "The host says she wrote to TPUSA twice more, on June 9 and the morning of June 10, asking for a written response from an identifiable executive on whether the video is authentic and in context. She says neither email has received a response.",
+      "claim": "The host says she wrote to TPUSA twice more, the previous day and that morning, asking for a written response from an identifiable executive on whether the video is authentic and in context. She says neither email has received a response.",
       "anchored_artifacts": [
         "A-2630.1",
         "A-2630.2"
@@ -1752,8 +1752,7 @@
       "investigative_direction": "Obtain the emails with headers and timestamps and any TPUSA reply.",
       "transcript_snippet": "So, I have since written them twice by email, politely insisting upon a written response from an identifiable Turning Point USA executive.",
       "mentions_person_refs": [
-        "N-3",
-        "N-14"
+        "N-3"
       ]
     },
     {
@@ -1772,7 +1771,10 @@
       "transcript_snippet": "And to be clear, Blake Neff does not work for Turning Point USA. Graham Allen does not work for Turning Point USA.",
       "mentions_person_refs": [
         "N-160",
-        "N-609"
+        "N-609",
+        "N-2",
+        "N-14",
+        "N-15"
       ]
     },
     {
@@ -1814,8 +1816,7 @@
         "C-2888"
       ],
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -1966,7 +1967,8 @@
         "N-434",
         "N-628",
         "N-624",
-        "N-629"
+        "N-629",
+        "N-2"
       ]
     },
     {
@@ -2087,8 +2089,7 @@
       "investigative_direction": "Review the Albanian government agreement for the land parcels included in the project.",
       "transcript_snippet": "We not only the island, but we have five miles of beachfront directly across from the island.",
       "mentions_person_refs": [
-        "N-662",
-        "N-179"
+        "N-662"
       ]
     },
     {
@@ -2303,7 +2304,8 @@
       "transcript_snippet": "Tracy Martin, James Kaddis, who runs the faith department, the most despicable department at Turning Point USA.",
       "mentions_person_refs": [
         "N-546",
-        "N-668"
+        "N-668",
+        "N-2"
       ]
     },
     {

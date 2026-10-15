@@ -1210,7 +1210,7 @@ Investigative Direction: Obtain attendee lists and Charlie Kirk's own descriptio
 
 Claim Timestamp: 00:33:05
 
-Claim: The host says BB Netanyahu called Charlie Kirk offering to take Turning Point to the next level, that Kirk declined, and that she believes Trump said yes to the same people.
+Claim: The host says BB Netanyahu called Charlie Kirk offering to take Turning Point to the next level, that Kirk declined, and that she believes Trump said yes.
 
 Transcript Snippet: BB calls him, offers to take Turning Point to the next level in exchange for what? We still don't know. But Charlie declines.
 

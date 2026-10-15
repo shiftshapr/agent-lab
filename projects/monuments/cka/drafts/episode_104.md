@@ -634,7 +634,7 @@ Investigative Direction: Ask CNN and Sidner for the original file's metadata and
 
 Claim Timestamp: 00:10:36
 
-Claim: The host speculates that the White House Military Office panicked because too many people were on the email and attempted to recall it, but the recall did not work or worked too late.
+Claim: The host says the White House Military Office panicked because too many people were on the email and attempted to recall it, but the recall did not work or worked too late.
 
 Transcript Snippet: the White House military office uh uh panicked and they attempted to resend the email.
 
@@ -681,7 +681,7 @@ Claim: The host says her tips line supplied a story about Justin Streiff's Septe
 Transcript Snippet: we learned another totally wacky story um from our tips line that we were able to verify because they provided receipts.
 
 Anchored Artifacts: A-2576.1
-Mentions: N-15, N-3, N-1
+Mentions: N-15, N-3
 Related Nodes: N-10924
 Investigative Direction: Identify the receipts (invoices, messages or call logs) and confirm them with the printer.
 
@@ -772,7 +772,7 @@ Claim: The host says Turning Point Action is headed by Tyler Bowyer and that the
 Transcript Snippet: Turning Point Action is headed up by Tyler Bowyer and we have already explained to you that they have built that super feed back door which pays Lori Frantzve, Erika Kirk's mom.
 
 Anchored Artifacts:
-Mentions: N-11, N-490
+Mentions: N-11, N-490, N-2
 Related Nodes: N-10925, N-10530, N-10388
 Investigative Direction: Obtain Super Feed Inc. ownership and payment records and Turning Point Action vendor disbursements.
 
@@ -813,18 +813,18 @@ Investigative Direction: Identify the printer and obtain its call and order reco
 
 Claim Timestamp: 00:18:19
 
-Claim: The host says that hours after Charlie Kirk died, Streiff allegedly told the printer they would need to at least double a previously planned order of roughly 25,000–50,000 copies of Charlie's upcoming book "Stop in the Name of God."
+Claim: The host says that hours after Charlie Kirk died, Streiff allegedly told the printer they would need to at least double a previously planned order of, she thinks, roughly 25,000–50,000 copies of Charlie's upcoming book "Stop in the Name of God."
 
 Transcript Snippet: Justin Streiff allegedly apparently reached out to the printer and said that uh let's order some more books. I'm going to ask Erika and I'm and I'll call you back but we're going to need to at least double that order.
 
 Anchored Artifacts: A-2576.1
-Mentions: N-15, N-2, N-1
+Mentions: N-15, N-1
 Related Nodes: N-10924
 Investigative Direction: Obtain the printer's purchase orders and change orders for the book dated September 2025.
 
 ---
 
-**C-4087** Erika Kirk approved the larger order on the day of the assassination
+**C-4087** Streiff Allegedly Got Erika Kirk's Approval for the Larger Order
 
 Claim Timestamp: 00:18:19
 
@@ -953,7 +953,7 @@ Claim: The host says Erika Kirk flew to Washington, D.C., to attend Sergio Gor b
 Transcript Snippet: she flew to Washington DC so to the other side of the country.
 
 Anchored Artifacts: A-2577.1
-Mentions: N-2, N-16, N-1
+Mentions: N-2, N-16
 Related Nodes: N-10927
 Supports: C-1900
 Investigative Direction: Confirm the date and venue of the ceremony and Erika Kirk's travel.

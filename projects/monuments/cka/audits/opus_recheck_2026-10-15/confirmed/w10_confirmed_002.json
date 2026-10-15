@@ -1,0 +1,403 @@
+[
+ {
+  "claim": "C-2885",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says it looks like an X account identifying as Project Constitution reported that Andrew Kolvet was getting a divorce, which she says was not true."
+  },
+  "note": "Transcript: 'it looks like Project Constitution reported... it was just not true.'"
+ },
+ {
+  "claim": "C-2886",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a post in which Tyler Bowyer says he has had \"numerous things like this said about us\" and characterizes such reporting as \"reckless disregard for truth from people who call themselves investigators.\""
+  },
+  "note": "Host relays Bowyer's post."
+ },
+ {
+  "claim": "C-2887",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per posts by Blake Neff that the host reads, he responded to a question about why Andrew Kolvet's wife was not at the White House Correspondents Dinner, arguing that the dinners are held by press outlets and everyone else attends by invitation, asking how anyone knew Kolvet was offered a plus one, noting that Kolvet lives in Phoenix, and questioning how anyone would know his wife's travel preferences."
+  },
+  "note": "Neff answered a question; did not dispute absence. Matches 03:41 text."
+ },
+ {
+  "claim": "C-2892",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says John Mappin shared on X that an Aspen donor told him the moment depicted in the audio never happened.",
+   "mentions": [
+    "N-155"
+   ]
+  },
+  "note": "Host's report; claim does not name or refer to Charlie as a person."
+ },
+ {
+  "claim": "C-2893",
+  "episode": 102,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a post in which Kimberly Klacik publicly asked on X, if the TPUSA board elected Erika Kirk as CEO and none of the donors had come forward questioning the decision, why the authenticity of the audio matters."
+  },
+  "note": "Host reads Klacik's reply."
+ },
+ {
+  "claim": "C-2905",
+  "episode": 102,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says the alibi for Erika Kirk that Paramount Tactical read live on his show, marked \"please don't share,\" came from Andrew Kolvet, who explicitly states she was with her kids as he sends the photo; the host says those are not her kids.",
+   "label": "Host Says Andrew Kolvet Sent Erika Kirk's Alibi Photo Marked Don't Share"
+  },
+  "note": "Paramount read the alibi (not the photo) live; recipient of Kolvet's message not stated as Paramount, so wording tightened."
+ },
+ {
+  "claim": "C-13007",
+  "episode": 102,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim and label already say Druski; fix only re-applies existing Drewski->Druski rule."
+ },
+ {
+  "claim": "C-13008",
+  "episode": 102,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim already says Druski; fix only re-applies existing rule."
+ },
+ {
+  "claim": "C-13009",
+  "episode": 102,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim and label already say Druski; fix only re-applies existing rule."
+ },
+ {
+  "claim": "C-13010",
+  "episode": 102,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim and label already say Druski; fix only re-applies existing rule."
+ },
+ {
+  "claim": "C-4025",
+  "episode": 103,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim is about the plane's route; no person named or referred to."
+ },
+ {
+  "claim": "C-4026",
+  "episode": 103,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim is about the plane's route; no person named or referred to."
+ },
+ {
+  "claim": "C-4032",
+  "episode": 103,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per an email the host reads, the Jefferson County Sheriff's Office acknowledged in its October 10 update that officers from mutual-aid agencies, not its own deputies, knocked on classroom doors asking people to open up, without naming the agency."
+  },
+  "note": "Passage sits inside the email quote opened at 16:26 with no close."
+ },
+ {
+  "claim": "C-4055",
+  "episode": 103,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-490"
+   ]
+  },
+  "note": "Charlie not referred to; Erika's mother covers N-2, N-490."
+ },
+ {
+  "claim": "C-4056",
+  "episode": 103,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-490",
+    "N-11"
+   ]
+  },
+  "note": "Claim names only Frantzve and Bowyer."
+ },
+ {
+  "claim": "C-4077",
+  "episode": 104,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-15",
+    "N-3"
+   ]
+  },
+  "note": "Charlie not named or referred to in claim."
+ },
+ {
+  "claim": "C-4083",
+  "episode": 104,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-11",
+    "N-490",
+    "N-2"
+   ]
+  },
+  "note": "'Erika Kirk's mother' names Erika."
+ },
+ {
+  "claim": "C-4086",
+  "episode": 104,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that hours after Charlie Kirk died, Streiff allegedly told the printer they would need to at least double a previously planned order of, she thinks, roughly 25,000–50,000 copies of Charlie's upcoming book \"Stop in the Name of God.\"",
+   "mentions": [
+    "N-15",
+    "N-1"
+   ]
+  },
+  "note": "Hedge 'I think' restored; Erika not in claim text."
+ },
+ {
+  "claim": "C-4095",
+  "episode": 104,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-16"
+   ]
+  },
+  "note": "Charlie not referred to in claim."
+ },
+ {
+  "claim": "C-4110",
+  "episode": 105,
+  "decision": "reject",
+  "fix": {},
+  "note": "'Comparable pattern of shooting attempts' refers to Trump's three attempts; Trump is clearly referred to, keep N-5."
+ },
+ {
+  "claim": "C-4199",
+  "episode": 106,
+  "decision": "amend",
+  "fix": {
+   "label": "Host's Follow-Up Asked About an April 25 Email Copied to Cheung, Smale and Rippeon"
+  },
+  "note": "Label 'Smalley' fix is real; names entry dropped, Rippien->Rippeon rule already exists and claim is correct."
+ },
+ {
+  "claim": "C-4202",
+  "episode": 106,
+  "decision": "amend",
+  "fix": {
+   "label": "Host Copied Smale, Rippeon and the White House Press Office on Her Follow-Up"
+  },
+  "note": "Label fix is real; claim already correct and Rippey->Rippeon rule already exists, so claim/names dropped."
+ },
+ {
+  "claim": "C-4266",
+  "episode": 108,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Ed Gallrein had no crowd at his victory party and had the camera zoomed in on his face to hide it."
+  },
+  "note": "Drop 'the candidate she calls' alias wording; Ed Galvin->Ed Gallrein rule already exists, names entry dropped."
+ },
+ {
+  "claim": "C-4317",
+  "episode": 109,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says Erika Kirk and Victor Marx are close; the host says a person's character can be assessed by the company they keep and that she does not find Erika believable."
+  },
+  "note": "'Regarding the first comment' is the host returning to the first comment she read."
+ },
+ {
+  "claim": "C-2914",
+  "episode": 110,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:16:03"
+  },
+  "note": "'It says launched in late 2024' is spoken ~16:06 in the 15:24 block."
+ },
+ {
+  "claim": "C-2920",
+  "episode": 110,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim and label already say Christoph Schweizer; fix only re-applies existing rule (label change is capitalization)."
+ },
+ {
+  "claim": "C-14687",
+  "episode": 110,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim already says H. Duane Anderson; fix only re-applies existing rule."
+ },
+ {
+  "claim": "C-4330",
+  "episode": 111,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Husband not named or referred to in claim."
+ },
+ {
+  "claim": "C-4360",
+  "episode": 111,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Alex Clark went after Aubrey, who used to work for Andrew Kolvet, by calling her husband weird and sharing a private correspondence with Charlie Kirk, and that Clark then wrote, \"I'm so sorry to the boyfriend now fiance for catching strays here.\""
+  },
+  "note": "Whose fiancé is ambiguous in transcript; quote Clark's line without assigning it. Unresolved by web search."
+ },
+ {
+  "claim": "C-4400",
+  "episode": 112,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she wrote to TPUSA twice more, the previous day and that morning, asking for a written response from an identifiable executive on whether the video is authentic and in context. She says neither email has received a response.",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Transcript says 'yesterday and this morning'; Kolvet not in claim."
+ },
+ {
+  "claim": "C-4401",
+  "episode": 112,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-609",
+    "N-2",
+    "N-14",
+    "N-15"
+   ]
+  },
+  "note": "Claim names Erika Kirk, Kolvet and Streiff."
+ },
+ {
+  "claim": "C-4403",
+  "episode": 112,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Erika not named in claim."
+ },
+ {
+  "claim": "C-4410",
+  "episode": 112,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-434",
+    "N-628",
+    "N-624",
+    "N-629",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika Kirk, add N-2. Claim already says Smale; Smallley rule exists, so claim/names dropped."
+ },
+ {
+  "claim": "C-4416",
+  "episode": 112,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-662"
+   ]
+  },
+  "note": "Claim names only Ivanka Trump."
+ },
+ {
+  "claim": "C-4427",
+  "episode": 112,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-546",
+    "N-668",
+    "N-2"
+   ]
+  },
+  "note": "'Erika Kirk's friends' names Erika."
+ },
+ {
+  "claim": "C-4439",
+  "episode": 113,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-4440",
+  "episode": 113,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ },
+ {
+  "claim": "C-4444",
+  "episode": 113,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-667",
+    "N-666"
+   ]
+  },
+  "note": "Kushner not referred to; 'the Rothschild boat' refers to its owner Nat Rothschild (N-666)."
+ },
+ {
+  "claim": "C-4576",
+  "episode": 115,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the FBI replied that \"unusual circumstances\" apply to her request, which will delay a determination beyond 20 days; she says the circumstance that probably applies is the need to consult another agency or DOJ components.",
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Host guesses which circumstance applies; Patel not in claim."
+ },
+ {
+  "claim": "C-4600",
+  "episode": 116,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names no person."
+ }
+]

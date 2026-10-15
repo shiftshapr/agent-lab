@@ -1564,8 +1564,7 @@
       "mentions_person_refs": [
         "N-565",
         "N-262",
-        "N-3",
-        "N-1"
+        "N-3"
       ]
     },
     {
@@ -1607,6 +1606,7 @@
       "investigative_direction": "Obtain the camera's recorded settings and the native file from September 10, 2025 to determine whether the zoom was optical at capture or applied in editing.",
       "transcript_snippet": "The camera is a wide-angle camera and was always used as such. However, in the footage that Terryl has selectively shared with Candace, you cannot see the ground.",
       "mentions_person_refs": [
+        "N-565",
         "N-262"
       ]
     },
@@ -1980,7 +1980,7 @@
       "@id": "C-3851",
       "ref": "C-3851",
       "label": "Lori and Larry offered access to government contracts",
-      "claim": "According to the tip, what Lori Frantzve and Larry Guinta offered in exchange for a stake in the patent was access to government contracts.",
+      "claim": "According to the tip, what Lori Frantzve and Larry Guinta offered in exchange for the patent was access to government contracts.",
       "anchored_artifacts": [
         "A-2540.1"
       ],
@@ -2013,8 +2013,7 @@
       "investigative_direction": "Corroborate the tipster's account with the second patent holder or other diners.",
       "transcript_snippet": "My favorite part of the story is who strolls in unannounced at this dinner to sweeten up the potential deal. None other than Erika Frantzve.",
       "mentions_person_refs": [
-        "N-2",
-        "N-490"
+        "N-2"
       ]
     },
     {
@@ -2225,8 +2224,7 @@
         "N-160",
         "N-2",
         "N-46",
-        "N-3",
-        "N-1"
+        "N-3"
       ]
     },
     {
@@ -2296,7 +2294,7 @@
       "@id": "C-3866",
       "ref": "C-3866",
       "label": "2019 Spectator profile: Loomer described cocaine use and a suicide attempt",
-      "claim": "The host quotes a 2019 Spectator article, \"The Tale of Laura Loomer,\" in which Loomer said she dealt with depression by using cocaine at 23. She also said she once drove to a cliff in February and tried to kill herself.",
+      "claim": "The host quotes a 2019 Spectator article, \"The Tale of Laura Loomer,\" in which Loomer said she dealt with depression by using cocaine; the host adds that Loomer was 23. Loomer also said she once drove to a cliff in February and tried to kill herself.",
       "anchored_artifacts": [
         "A-2542.2"
       ],
@@ -2475,8 +2473,7 @@
       "investigative_direction": "Obtain the hearing transcript in which the date was set.",
       "transcript_snippet": "Remember, the the the defense said, \"Let's not put a day on the calendar until we have our discovery stuff and we we'll have a better idea.\"",
       "mentions_person_refs": [
-        "N-2",
-        "N-40"
+        "N-2"
       ]
     },
     {

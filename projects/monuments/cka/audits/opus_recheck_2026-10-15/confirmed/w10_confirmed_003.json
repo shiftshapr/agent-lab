@@ -1,0 +1,45 @@
+[
+ {
+  "claim": "C-4601",
+  "episode": 116,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40"
+   ]
+  },
+  "note": "Claim does not name or refer to Charlie Kirk; the recovered rifle is Tyler Robinson's gun, so N-40 stays."
+ },
+ {
+  "claim": "C-4603",
+  "episode": 116,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-70"
+   ]
+  },
+  "note": "Charlie Kirk is not referred to, but 'the governor' (Utah, Provo context) clearly refers to Spencer Cox (N-70)."
+ },
+ {
+  "claim": "C-4609",
+  "episode": 116,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "The YouTuber's PETN glass test claim does not name or refer to Charlie Kirk."
+ },
+ {
+  "claim": "C-4614",
+  "episode": 116,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk ('the SUV that carried Charlie Kirk'); N-1 belongs in Mentions."
+ }
+]

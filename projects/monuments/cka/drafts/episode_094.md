@@ -2711,7 +2711,7 @@ Transcript Snippet: Accusing us of being separated, like she did this weekend.
 
 Anchored Artifacts: 
 Mentions: N-3, N-60, N-30
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Archive Loomer's weekend posts making the separation claim.
 
 ---
@@ -2790,7 +2790,7 @@ Claim: The host says there was no drinking involved, no DUI involved and no poli
 Transcript Snippet: There was no drinking involved, there was no DUI involved, there were no police called.
 
 Anchored Artifacts: 
-Mentions: N-30, N-60
+Mentions: N-3, N-30
 Related Nodes: N-10631
 Tags: relevance:context
 Investigative Direction: Check for any police report, citation or charge in Davidson County records for the date in question.
@@ -2886,7 +2886,7 @@ Claim: The host says she heard a rumor that footage from the days and weeks lead
 Transcript Snippet: And that footage apparently doesn't exist either because they had speculated that someone would have had to do some recon, maybe be on this roof.
 
 Anchored Artifacts: A-2005.5
-Mentions: N-40
+Mentions: N-3
 Related Nodes: N-10635, N-10271
 Tags: relevance:core
 Investigative Direction: File records requests for UVU and city camera retention policies and any investigative request for pre-September 10 footage.
@@ -2902,7 +2902,7 @@ Claim: The host says she is trying to understand whether the missing footage was
 Transcript Snippet: I'm trying to understand if that means that it was taken by the feds as they took the inside of Timpanogos Hospital's footage for some reason.
 
 Anchored Artifacts: 
-Mentions: N-1
+Mentions: N-3
 Related Nodes: N-10239, N-11218
 Supports: C-1666
 Tags: relevance:core
@@ -3008,16 +3008,16 @@ Investigative Direction: Find the interview records of Lance Twiggs and the date
 
 ---
 
-**C-13443** Host Asks Why the State Never Sends the Timestamps for the Text Messages
+**C-13443** Host Asks Why They Never Send the Timestamps for the Text Messages
 
 Claim Timestamp: 01:01:45
 
-Claim: The host, asking why the state never wants to send the timestamps, implies that the text messages have been released without timestamps and says getting the phone data is important to see what time the messages went out.
+Claim: The host says it is important to get the data from the phones to make sure Lance Twiggs wasn't just texting from his phone and to see what time the messages went out, and asks why they never want to send the timestamps.
 
 Transcript Snippet: Why do they never want to send the timestamps?
 
 Anchored Artifacts: 
-Mentions: N-54, N-40
+Mentions: N-54
 Related Nodes: N-10077, N-10713
 Supports: C-6696
 Tags: relevance:core

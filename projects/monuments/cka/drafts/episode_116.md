@@ -808,7 +808,7 @@ Claim: The host says bomb dogs can smell trace amounts of explosives, fired-weap
 Transcript Snippet: They are They are so effective that that they can still smell trace amounts of explosives um of a fired weapon, a bomb residue for up to 10 days.
 
 Anchored Artifacts:
-Mentions: N-1
+Mentions: 
 Related Nodes: N-10756
 Investigative Direction: Check published K9 detection research for residue persistence windows.
 
@@ -823,7 +823,7 @@ Claim: The host says there is no evidence that the recovered rifle was fired on 
 Transcript Snippet: It's also my belief that the reason why they didn't locate the gun is because that gun was not fired on September 10th. There was no evidence that gun was fired on September 10th.
 
 Anchored Artifacts:
-Mentions: N-40, N-1
+Mentions: N-40
 Related Nodes: N-10756, N-10110
 Supports: C-2763
 Investigative Direction: Obtain the forensic report on the rifle's firing status and any K9 alert records.
@@ -855,7 +855,7 @@ Claim: The contractor in the clip says two men were in charge, one of a state-ow
 Transcript Snippet: Uh the FBI and the state the governor and the FBI, that's what they told me. The governor and the FBI said they want this done by Monday.
 
 Anchored Artifacts: A-2669.1
-Mentions: N-1
+Mentions: N-41
 Related Nodes: N-10107, N-10014, N-10074
 Investigative Direction: Request communications between the governor's office, the FBI and UVU or state facilities staff about the paving.
 
@@ -926,7 +926,7 @@ Investigative Direction: Review the full September 16 TPUSA Zoom recording to id
 
 Claim Timestamp: 00:21:49
 
-Claim: The host says she has confirmed that, apart from the front-facing wound and the artery it hit, Charlie Kirk was in very good condition and the projectile did not cause blood to spatter backwards.
+Claim: The host says the back footage shows the projectile did not cause blood to spatter backwards, and that she has confirmed that, apart from the front-facing wound and the artery it hit, Charlie Kirk was in very good condition.
 
 Transcript Snippet: I I have confirmed that Charlie, outside of that front-facing wound, was in very good condition
 
@@ -946,7 +946,7 @@ Claim: In the YouTuber's test video, the tester says a 20 g PETN booster charge 
 Transcript Snippet: This is NIJ 4 rated glass Yeah, from a.30-06 and it's about the same foot diameter.
 
 Anchored Artifacts: A-2670.1
-Mentions: N-1
+Mentions: 
 Related Nodes: N-10768, N-10319
 Investigative Direction: Identify the test video's source and verify the glass rating and charge weight.
 
@@ -1021,7 +1021,7 @@ Claim: The host says the feds had the SUV that carried Charlie Kirk towed, clean
 Transcript Snippet: They had it towed, cleaned, towed again, and resold or put up to be resold That is unimaginable.
 
 Anchored Artifacts:
-Mentions: N-7
+Mentions: N-7, N-1
 Related Nodes: N-10362, N-10014
 Investigative Direction: Trace the vehicle's VIN through tow, detailing and auction records.
 

@@ -3052,7 +3052,7 @@ Confidence: high
 
 Video Timestamp: 00:47:19
 Speaker: N-3
-Quote: How mad Frank Church can get at Frank Church.
+Quote: How mad Frank Turek can get at Frank Turek.
 Context: Host calls the Turek-versus-Turek anger a beat on the show after a viewer comment.
 Tags: frank turek, running bit
 Confidence: high

@@ -824,7 +824,7 @@ Claim: The host reads a post by the account "Bible in Context". It says the shoo
 Transcript Snippet: This is what happens when propaganda and lies are spread online by people like Candace Owens and Tucker Carlson.
 
 Anchored Artifacts: A-2559.4
-Mentions: N-3, N-22, N-5
+Mentions: N-3, N-22
 Related Nodes: N-10637
 Investigative Direction: Archive the "Bible in Context" post and identify the account's operator.
 
@@ -853,7 +853,7 @@ Claim: The host says the 10K bounty, which sought proof of who recorded the vide
 Transcript Snippet: So, we put out that 10K bounty. We just wanted proof of who recorded it. And lo and behold, we got a couple of very interesting direct tips, people keen to collect the 10K.
 
 Anchored Artifacts: A-2556.3
-Mentions: N-3, N-2
+Mentions: N-3
 Related Nodes: N-10913
 Investigative Direction: Document the tip intake (dates, channels) and any vetting records for the submitted tips.
 
@@ -897,7 +897,7 @@ Claim: According to the host's tipster, a freelancing political operative, whose
 Transcript Snippet: Apparently, this freelancing operative was positioned in advance with the specific instruction to take that exact video at that exact place at that exact time.
 
 Anchored Artifacts: A-2560.1, A-2558.2
-Mentions: N-2
+Mentions: 
 Related Nodes: N-10913
 Investigative Direction: Obtain venue credential lists and hotel security footage for the exit corridor, and the recorder's device metadata.
 
@@ -912,7 +912,7 @@ Claim: According to the host's tipster, the operative was allegedly in contact w
 Transcript Snippet: The operative was allegedly in communication with digital media teams, and the entire moment was staged, captured, and then intentionally shared amongst those digital media teams and their operatives
 
 Anchored Artifacts: A-2560.1, A-2558.2
-Mentions: N-2
+Mentions: 
 Related Nodes: N-10913
 Investigative Direction: Trace the earliest shares of the clip across accounts and identify coordinated posting times among digital media teams.
 
@@ -1102,7 +1102,7 @@ Investigative Direction: Total Adelson's FEC-reported contributions to Trump-ali
 
 Claim Timestamp: 00:26:58
 
-Claim: The host alleges that Andrew Kolvet works with YouTubers and influencers, including Jessica Reed Kraus (House Inhabit). She says this was revealed a few weeks earlier.
+Claim: The host alleges that Andrew Kolvet works with YouTubers and "really nasty people", including Jessica Reed Kraus (House Inhabit). She says this was revealed a few weeks earlier.
 
 Transcript Snippet: One of these people being House In Habit, Jessica Reed Kraus, right? Uh she's been working with her.
 
@@ -1202,7 +1202,7 @@ Investigative Direction: Seek statements from Milo Yiannopoulos and George Farme
 
 Claim Timestamp: 00:29:01
 
-Claim: The host says the Daily Mail published a large article headlined to the effect that House Inhabit's "marriage secrets" were revealed. She says it covered escort claims, insiders calling her behavior insane, and her husband's texts about her.
+Claim: The host says the Daily Mail published a large article headlined to the effect that House Inhabit's "marriage secrets" were revealed. She says it covered escort claims, socialites calling her behavior insane, and her husband's texts about her.
 
 Transcript Snippet: they wrote MAGA influencer house and habits marriage secrets revealed insiders blow the lid on explosive escort claims
 
@@ -1217,7 +1217,7 @@ Investigative Direction: Archive the Daily Mail article with its publication dat
 
 Claim Timestamp: 00:29:01
 
-Claim: The host says the Daily Mail story arose after Jessica Reed Kraus attacked Ashley St. Clair, her former friend, online at about 3:00 a.m.
+Claim: The host says she guesses the Daily Mail story arose after Jessica Reed Kraus attacked Ashley St. Clair, her former friend, online at about 3:00 a.m.
 
 Transcript Snippet: It's 3:00 a. m. and she just randomly decides to attack someone. And that someone, her name is that she attacked was Ashley St. Clair.
 
@@ -1354,7 +1354,7 @@ Claim: The host says the biggest lie was the claim that the surgeon said Charlie
 Transcript Snippet: the biggest lie being that uh the surgeon said that he had a steel neck.
 
 Anchored Artifacts:
-Mentions: N-2, N-14
+Mentions: N-1, N-2, N-14
 Related Nodes: N-10341, N-10447
 Investigative Direction: Obtain a statement from the treating surgeon on what, if anything, was said about the wound.
 

@@ -1880,7 +1880,9 @@
       "tags": [],
       "claim_timestamp": "00:11:40",
       "investigative_direction": "Verify via third-party YouTube analytics services (e.g., Social Blade).",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-97"
+      ]
     },
     {
       "@type": "Claim",
@@ -1935,7 +1937,7 @@
       "@type": "Claim",
       "@id": "C-2841",
       "ref": "C-2841",
-      "label": "X post enumerated Candace Owens branding (shirts, cups, computer stickers) as evidence of branding/marketing",
+      "label": "X Post Mocked Candace Owens for Shirts, Cups and Stickers Bearing Her Name and Face",
       "claim": "An X post described the host's name/face merchandise and stickers, framed mockingly.",
       "anchored_artifacts": [
         "A-2033.1"
@@ -1951,7 +1953,7 @@
       "@type": "Claim",
       "@id": "C-2842",
       "ref": "C-2842",
-      "label": "Laura Loomer posted on X that Candace Owens \"having a bad week\" appeared coordinated",
+      "label": "Laura Loomer Posted That Candace Owens Was Having a Bad Week, Almost Like She Got Ambushed",
       "claim": "Laura Loomer tweeted the host was \"having a bad week almost like she got ambushed.\"",
       "anchored_artifacts": [
         "A-2034.1"
@@ -1982,10 +1984,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:37:02",
-      "investigative_direction": "Cross-check against the original FARA filing in DOJ FARA database.",
-      "mentions_person_refs": [
-        "N-430"
-      ]
+      "investigative_direction": "Cross-check against the original FARA filing in DOJ FARA database."
     },
     {
       "@type": "Claim",
@@ -2086,8 +2085,8 @@
       "@type": "Claim",
       "@id": "C-2849",
       "ref": "C-2849",
-      "label": "Baron Coleman read aloud a comment alleging Laura Loomer attempted to pay for airport photographs simultaneous with the Harpole lawsuit",
-      "claim": "On his show, Baron Coleman read a viewer comment stating that a friend of the commenter's husband was contacted by \"Larry L\" to photograph the host at the Charlotte airport at the moment the lawsuit email arrived.",
+      "label": "Baron Coleman Read a Comment Alleging \"Larry L\" Tried to Pay for Airport Photos of Candace as the Harpole Lawsuit News Dropped",
+      "claim": "On his show, Baron Coleman read a viewer comment stating that a friend of the commenter's husband was called by \"Larry L\" trying to pay him to photograph the host at the Charlotte airport at the same time the news of the lawsuit dropped.",
       "anchored_artifacts": [
         "A-2039.1"
       ],
@@ -2127,7 +2126,7 @@
       "@id": "C-2851",
       "ref": "C-2851",
       "label": "Jacob William Roth is listed as a partner on the Brian Harpole lawsuit and is Ben Shapiro's brother-in-law",
-      "claim": "The Brian Harpole lawsuit's final page lists Jacob William Roth as partner of the firm; the host says she thinks Roth has been married to Ben Shapiro's sister since 2018.",
+      "claim": "The host says the Brian Harpole lawsuit's final page lists Jacob William Roth as a partner of the firm, and says she thinks Roth has been married to Ben Shapiro's sister since 2018.",
       "anchored_artifacts": [
         "A-2042.1"
       ],
@@ -2187,7 +2186,7 @@
       "@id": "C-2854",
       "ref": "C-2854",
       "label": "Donation from Jen comments asserts the Harpole case could enable discovery of underlying materials",
-      "claim": "A live-chat donation comment the host reads hopes the donation will help pay for attorneys to pursue discovery in the Brian Harpole case, calling it the only chance to get to the truth.",
+      "claim": "A live-chat donation comment the host reads hopes the donation will help pay for attorneys to pursue discovery in the Brian Harpole case, calling it the only chance \"we might have\" to get to the truth.",
       "anchored_artifacts": [
         "A-2040.3"
       ],
@@ -2555,8 +2554,7 @@
       "investigative_direction": "Obtain the host's contract with Turning Point and its end date.",
       "transcript_snippet": "I went on to work with Turning Point all the way through until this year, actually, uh contractually.",
       "mentions_person_refs": [
-        "N-3",
-        "N-117"
+        "N-3"
       ]
     },
     {

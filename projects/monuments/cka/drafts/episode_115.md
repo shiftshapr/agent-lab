@@ -1128,22 +1128,22 @@ Investigative Direction: Check FBI and DOJ records and reporting on security det
 
 Claim Timestamp: 00:30:05
 
-Claim: The host says the FBI replied that "unusual circumstances" apply to her request, citing the need to consult another agency or DOJ components, which will delay a determination beyond 20 days.
+Claim: The host says the FBI replied that "unusual circumstances" apply to her request, which will delay a determination beyond 20 days; she says the circumstance that probably applies is the need to consult another agency or DOJ components.
 
 Transcript Snippet: Unfortunately, here's what we received back. Please be advised that unusual circumstances apply to the processing of your request.
 
 Anchored Artifacts: A-2662.3
-Mentions: N-69
+Mentions: N-3
 Related Nodes: N-10971, N-10700, N-10014
 Investigative Direction: Track the request's status and any later determination or appeal.
 
 ---
 
-**C-4577** Blake Neff posted on X mocking the FOIA request
+**C-4577** Blake Neff Wrote a Post Mocking the FOIA Request
 
 Claim Timestamp: 00:32:03
 
-Claim: The host says Blake Neff, now representing The Charlie Kirk Show, posted on X that the request was the latest thing she would fixate on for two weeks as an excuse to harass people.
+Claim: The host says Blake Neff, now representing The Charlie Kirk Show, wrote that the request was the latest thing she would fixate on for two weeks as an excuse to harass people.
 
 Transcript Snippet: Here we can see the latest thing that Candace will fixate on for the next two weeks as all important.
 
@@ -1258,11 +1258,11 @@ Investigative Direction: Seek Carlson's confirmation and identify the pastors in
 
 ---
 
-**C-4585** Erika Kirk sat across from Bill Ackman at the Hamptons dinner when Netanyahu called
+**C-4585** Erika Kirk Sat Across From Bill Ackman at the Hamptons Dinner When Netanyahu Was Called
 
 Claim Timestamp: 00:41:09
 
-Claim: The host says that after the dinner with Tucker Carlson, Erika Kirk went with Charlie to the Hamptons and sat across from Bill Ackman at a dinner when Benjamin Netanyahu called.
+Claim: The host says that after the dinner with Tucker Carlson, Erika Kirk went with Charlie to the Hamptons and sat across from Bill Ackman at a dinner when Benjamin Netanyahu was called.
 
 Transcript Snippet: She goes with him to the Hamptons and sits across uh from Bill Ackman at a dinner when BB Netanyahu is called.
 

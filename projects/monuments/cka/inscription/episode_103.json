@@ -1585,7 +1585,7 @@
       "@id": "C-4010",
       "ref": "C-4010",
       "label": "Marx's last public appearance with Charlie Kirk was an October 2023 report from Israel",
-      "claim": "The host says the last time Victor Marx appeared publicly with Charlie Kirk was in October 2023, when he reported on the Charlie Kirk Show from Israel shortly after October 7.",
+      "claim": "The host says it appears the last time Victor Marx appeared publicly with Charlie Kirk was in October 2023, when he reported on the Charlie Kirk Show from Israel shortly after October 7.",
       "anchored_artifacts": [
         "A-2566.1"
       ],
@@ -1902,10 +1902,7 @@
       "tags": [],
       "claim_timestamp": "00:11:05",
       "investigative_direction": "Obtain ADS-B and FBO records for N582MM's Chicago stop and Provo arrival, and the passengers boarded in Chicago.",
-      "transcript_snippet": "stayed in South Dakota for about 50 minutes before heading onward to Chicago, Illinois for what looks like a pickup, and then they went straight to Provo, Utah landing at 6:57 p. m.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "transcript_snippet": "stayed in South Dakota for about 50 minutes before heading onward to Chicago, Illinois for what looks like a pickup, and then they went straight to Provo, Utah landing at 6:57 p. m."
     },
     {
       "@type": "Claim",
@@ -1923,10 +1920,7 @@
       "tags": [],
       "claim_timestamp": "00:12:07",
       "investigative_direction": "Pull N582MM's September 11, 2025 flight history.",
-      "transcript_snippet": "After it stayed overnight in Provo on September 10th, it then went back to Pierre, South Dakota.",
-      "mentions_person_refs": [
-        "N-1"
-      ]
+      "transcript_snippet": "After it stayed overnight in Provo on September 10th, it then went back to Pierre, South Dakota."
     },
     {
       "@type": "Claim",
@@ -2026,7 +2020,7 @@
       "@id": "C-4032",
       "ref": "C-4032",
       "label": "Jefferson County Sheriff's Office said mutual-aid officers, not its deputies, went door to door",
-      "claim": "The host says the Jefferson County Sheriff's Office acknowledged in its October 10 update that officers from mutual-aid agencies, not its own deputies, knocked on classroom doors asking people to open up, without naming the agency.",
+      "claim": "Per an email the host reads, the Jefferson County Sheriff's Office acknowledged in its October 10 update that officers from mutual-aid agencies, not its own deputies, knocked on classroom doors asking people to open up, without naming the agency.",
       "anchored_artifacts": [
         "A-2569.2"
       ],
@@ -2506,8 +2500,7 @@
       "transcript_snippet": "the rumor is that Turning Point Action was missing $10 million, dollars Point Action actually built a back door. It has connections to Erika's mother.",
       "mentions_person_refs": [
         "N-2",
-        "N-490",
-        "N-1"
+        "N-490"
       ]
     },
     {
@@ -2528,8 +2521,7 @@
       "transcript_snippet": "the company that she is on the board of with Tyler Bowyer. Uh they act Superfeed. Superfeed actually powers the Turning Point USA website.",
       "mentions_person_refs": [
         "N-490",
-        "N-11",
-        "N-2"
+        "N-11"
       ]
     },
     {
@@ -2537,7 +2529,7 @@
       "@id": "C-4057",
       "ref": "C-4057",
       "label": "Erika Kirk told Glenn Beck she has Charlie Kirk's phone and he sent no warning texts",
-      "claim": "The host says Erika Kirk told Glenn Beck she has Charlie Kirk's phone and that he never texted people the night before saying he would be killed. The host says that claim was wrong because Andrew Kolvet was one of the people he texted.",
+      "claim": "A viewer comment the host reads says Erika Kirk told Glenn Beck that Charlie Kirk wasn't texting people the day before that he was going to be killed; the host agrees, recalling Erika Kirk saying she has his phone and he never said that, and says the claim was wrong because Andrew Kolvet was one of the people he texted.",
       "anchored_artifacts": [
         "A-2572.3"
       ],

@@ -832,7 +832,7 @@ Investigative Direction: Identify who asked Marx's team to provide security and 
 
 Claim Timestamp: 00:14:49
 
-Claim: Victor Marx says he texted Erika Kirk while she was at the hospital that nobody was going to kill her or the children and that "They just wanted Charlie." The host asks who "they" are.
+Claim: Victor Marx says he texted Erika Kirk that nobody was going to kill her or the children and that "They just wanted Charlie." The host, who says the text was sent while Erika was at the hospital, asks who "they" are.
 
 Transcript Snippet: I was just telling her nobody's going to kill you. You're safe, you and the kids. No one's coming after you. They just wanted Charlie.
 
@@ -1101,7 +1101,7 @@ Investigative Direction: Track the FOIA request number and statutory response de
 
 Claim Timestamp: 00:32:07
 
-Claim: The host says White House Correspondents' Dinner communications wrote Erika Kirk in as an "emotional asset" just over an hour after shots were fired, focused on making her video number one in the morning.
+Claim: The host says White House Correspondents' Dinner communications wrote Erika Kirk in as an "emotional asset" just over an hour after shots were fired, focused on making sure that video was number one in the morning.
 
 Transcript Snippet: Erika Kirk written in as an emotional asset just over an hour after shots are fired
 
@@ -1235,7 +1235,7 @@ Investigative Direction: Obtain the filing's exhibit list and the FBI laboratory
 
 Claim Timestamp: 00:37:12
 
-Claim: The host says the defense has not been able to see the gun and that item 32 on the sealing list is the ATF ballistics report.
+Claim: The host says the defense said it has not been able to see the gun and that item 32 on the sealing list is the ATF ballistics report.
 
 Transcript Snippet: They said they weren't even able to see the gun. Listed 32, the ATF ballistics report.
 
@@ -1306,7 +1306,7 @@ Investigative Direction: Retrieve Theo Von's post and its timestamp.
 
 Claim Timestamp: 00:41:33
 
-Claim: The host says Joe Rogan did something he had never done in his show's history by recording an apology about Theo Von. In the clip Rogan says he had already apologized to Theo privately.
+Claim: The host says Joe Rogan did something he had never done in his show's history by recording an apology about Theo Von. In the clip Rogan says he had already apologized to Theo.
 
 Transcript Snippet: Joe Rogan did something that he's never done in the history of his show where he just recorded him apologizing.
 
@@ -1364,7 +1364,7 @@ Investigative Direction: Timestamp Jack Hibbs's earliest public statements and i
 
 Claim Timestamp: 00:55:09
 
-Claim: The host says the candidate she calls Ed Gallrein had no crowd at his victory party and had the camera zoomed in on his face to hide it.
+Claim: The host says Ed Gallrein had no crowd at his victory party and had the camera zoomed in on his face to hide it.
 
 Transcript Snippet: You had to have uh the camera zoomed in real close to your face so people couldn't see the the no crowd that showed up even to your victory party.
 

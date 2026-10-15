@@ -1859,7 +1859,7 @@
         "N-10670"
       ],
       "tags": [],
-      "claim_timestamp": "00:16:40",
+      "claim_timestamp": "00:16:03",
       "investigative_direction": "Retrieve original Financial Times article and Project Aurora documents.",
       "mentions_person_refs": []
     },
@@ -2189,7 +2189,7 @@
       "@type": "Claim",
       "@id": "C-2933",
       "ref": "C-2933",
-      "label": "Orbis prepared the Project Aurora study on behalf of the Tacit/Tachlith Institute (Israeli think tank)",
+      "label": "Orbis Prepared the Project Aurora Study on Behalf of the Tachlith Institute (Israeli Think Tank)",
       "claim": "Per the displayed on-screen graphic and host description, Orbis was prepping the study on behalf of the Tacit/Tachlith Institute, an Israeli think tank.",
       "anchored_artifacts": [
         "A-2076.1"
@@ -2581,7 +2581,7 @@
       "@id": "C-14647",
       "ref": "C-14647",
       "label": "Host Says an Influencer Campaign With Special Forces Figures Threatened to Take Her Down",
-      "claim": "The host says that after the Fort Huachuca sighting, an influencer campaign with many special forces figures suddenly appeared, with screaming threats that they would take her down and would platform Mitch's baby mamas.",
+      "claim": "The host says that after the Fort Huachuca sighting, an influencer campaign with many special forces figures suddenly appeared, with screaming threats that \"they're going to take you down\" and would platform Mitch's baby mamas.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10378"
@@ -3737,7 +3737,7 @@
       "@id": "C-14701",
       "ref": "C-14701",
       "label": "Viewer Comment Says Tom Artiom Alexandrovich Left the US After a Nevada Child-Luring Arrest",
-      "claim": "A viewer comment read by the host says Tom Artiom Alexandrovich was allowed to leave the United States and return to Israel after being arrested in Nevada on felony child-luring charges, and the host agrees it happened because he is Israeli.",
+      "claim": "A viewer comment read by the host asks why Tom Artiom Alexandrovich was allowed to leave the United States and return to Israel after being arrested in Nevada on felony child-luring charges, answering that it is because he is Israeli and that is the way the system works.",
       "anchored_artifacts": [
         "A-3335.1"
       ],

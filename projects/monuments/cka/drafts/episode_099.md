@@ -1083,7 +1083,7 @@ Investigative Direction: Obtain full unedited Coleman segment; verify no other n
 
 Claim Timestamp: 00:12:44
 
-Claim: Two days after Charlie Kirk's assassination, Benjamin Netanyahu stated on Greta Van Susteren's show that Israel did not kill Charlie Kirk, calling the rumor "insane" and "stupid."
+Claim: The host says that two days after Charlie Kirk's assassination, on September 12, Benjamin Netanyahu appeared on Greta Van Susteren's show; in the clip she plays, he calls the rumor that Israel was behind Kirk's murder "insane," "absurd" and "stupid."
 
 Anchored Artifacts: A-2047.1
 Mentions: N-36, N-44, N-1
@@ -1125,7 +1125,7 @@ Investigative Direction: Pull the FARA filing directly from DOJ FARA public regi
 
 **C-2862** Show Faith by Works LLC plans geofencing and church-targeted propaganda
 
-Claim Timestamp: 00:14:54
+Claim Timestamp: 00:14:08
 
 Claim: The host says Show Faith by Works LLC is going to geofence phones on behalf of Israel and send pro-Israel and anti-Palestinian messages, plus an October 7th experience in church parking lots, and that it is filed with FARA.
 
@@ -1137,11 +1137,11 @@ Investigative Direction: Compare filing scope to actual deployed activities via 
 
 ---
 
-**C-2863** Host Says Clock Tower X LLC Registered with FARA on September 18, 2025
+**C-2863** Host Says Havas Media Contracted FARA-Registered Clock Tower X LLC on September 18
 
 Claim Timestamp: 00:15:34
 
-Claim: The host says Clock Tower X LLC filed a FARA registration on September 18, 2025, contracted via Havas Media on behalf of the Israeli Ministry of Foreign Affairs, for a strategic propaganda plan targeting the U.S. antisemitism narrative.
+Claim: The host says that on September 18th Havas Media, on behalf of the Israeli Ministry of Foreign Affairs, also contracted Clock Tower X LLC, a company she says was properly registered under FARA and tasked with developing a strategic plan to combat antisemitism in the United States through the media.
 
 Anchored Artifacts: A-2049.1, A-2054.1
 
@@ -1170,7 +1170,7 @@ Investigative Direction: Verify corporate registration records for Clock Tower X
 
 Claim Timestamp: 00:16:57
 
-Claim: The FARA filing for Clock Tower X LLC lists Salem Radio Media Network as the integration platform for narrative messaging across broadcast, podcast, TikTok, Instagram, and YouTube.
+Claim: Per the Clock Tower X LLC FARA filing the host shows, Salem Radio Media Network is listed as the platform for "the integration of narrative messaging into Salem Media Network properties and aligned distribution channels"; the host says the campaign targets Gen Z audiences across TikTok, Instagram, YouTube, podcasts and other outlets.
 
 Anchored Artifacts: A-2049.2
 
@@ -1227,7 +1227,7 @@ Investigative Direction: Obtain Salem's official press release and SEC / corpora
 
 **C-2869** Salem Media acquired 30% stake in M-News app co-owned by Donald Trump Jr.
 
-Claim Timestamp: 00:32:23
+Claim Timestamp: 00:31:50
 
 Claim: Per the Salem announcement article the host reads, pursuant to the April 2025 deal Salem acquired a 30% stake in M-News, a mobile news aggregation app co-owned by Donald Trump Jr.
 
@@ -1242,7 +1242,7 @@ Investigative Direction: Verify M-News corporate filings; confirm 30% acquisitio
 
 **C-2870** Host Says Pam Bondi Disbanded the DOJ Foreign Influence Task Force on February 5, 2025
 
-Claim Timestamp: 00:34:17
+Claim Timestamp: 00:32:50
 
 Claim: The host says Pam Bondi, on her first day as Attorney General, disbanded the DOJ Foreign Influence Task Force; in a clip she plays, Ian Carroll reads the policy language and says the same.
 
@@ -1259,7 +1259,7 @@ Investigative Direction: Obtain DOJ memorandum directly; confirm effective date 
 
 Claim Timestamp: 00:34:17
 
-Claim: Per the DOJ statement, recourse to criminal charges under FARA and 18 U.S. Code § 951 is limited to conduct similar to traditional espionage by foreign government actors.
+Claim: Per the DOJ memo language Ian Carroll reads in a clip the host plays, recourse to criminal charges under FARA and 18 U.S. Code § 951 is limited to conduct similar to traditional espionage by foreign government actors.
 
 Anchored Artifacts: A-2053.1
 Mentions: N-85
@@ -1346,7 +1346,7 @@ Investigative Direction: Locate primary source for Project 545 budget figure; cr
 
 Claim Timestamp: 00:47:29
 
-Claim: On April 2, a judge dismissed 10 of 13 claims Blake Lively had asserted against Justin Baldoni, leaving only breach of contract, retaliation, and aiding-and-abetting retaliation.
+Claim: The host says that on April 2, a judge dismissed 10 of 13 claims Blake Lively had asserted against Justin Baldoni, leaving only breach of contract, retaliation, and aiding-and-abetting retaliation.
 
 Anchored Artifacts: A-2056.1
 Mentions: N-485, N-486
@@ -1394,7 +1394,7 @@ Claim Timestamp: 00:50:04
 Claim: The host says Deadpool & Wolverine included a "Nice Pool" character and scene mocking Justin Baldoni, with Blake Lively playing "Mrs. Pool"; she plays a clip.
 
 Anchored Artifacts: A-2058.1
-Mentions: N-485, N-486, N-376, N-377
+Mentions: N-485, N-486
 
 Related Nodes:
 
@@ -1424,7 +1424,7 @@ Claim Timestamp: 00:51:57
 Claim: The host says Justin Baldoni was put in the basement of the It Ends With Us premiere and had to watch from there while the A-listers were upstairs, and that Blake Lively said she could not be in the same room as him.
 
 Anchored Artifacts: A-2059.1
-Mentions: N-485, N-486, N-377
+Mentions: N-485, N-486
 
 Related Nodes:
 
@@ -1432,7 +1432,7 @@ Investigative Direction: Obtain independent eyewitness corroboration and any pre
 
 ---
 
-**C-2883** Mikey McCoy sent the host a message directing investigation toward Andrew Kolvet
+**C-2883** Host Says Some Credit Mikey McCoy With Message Urging Her to Look Into Andrew Kolvet
 
 Claim Timestamp: 00:58:45
 
@@ -1489,7 +1489,7 @@ Transcript Snippet: the terrifying overwhelming feeling I had in the week leadin
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10415
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Look for a contemporaneous message, post or witness from the week of September 3 to 10, 2025 that records the host acting on the feeling; this is self-reported.
 
 ---
@@ -1498,7 +1498,7 @@ Investigative Direction: Look for a contemporaneous message, post or witness fro
 
 Claim Timestamp: 00:04:15
 
-Claim: The host says that the night before his death Charlie Kirk texted Andrew Kolvet and Dan Flood, the security people she says were meant to protect him, and wrote 'They are going to kill me.'
+Claim: The host says that the night before his death Charlie Kirk texted Andrew Kolvet and Dan Flood, whom she says he thought were his friends and the security people meant to protect him, and wrote 'They are going to kill me.'
 
 Transcript Snippet: He texted Andrew Kolvet, he texted Dan Flood, and he said, "They are going to kill me."
 
@@ -1932,7 +1932,7 @@ Investigative Direction: Ask TPUSA when Erika first used an office in the buildi
 
 Claim Timestamp: 00:28:36
 
-Claim: The host says that according to a source in Andrew Kolvet's family, Kolvet told his family orbit that Charlie Kirk said no to Benjamin Netanyahu in the Hamptons shortly before he died; the host was unsure of the date and asked her producer to check the timeline.
+Claim: The host says that according to a source in Andrew Kolvet's family, Kolvet told his family orbit that Charlie Kirk said no to Benjamin Netanyahu in the Hamptons shortly before he died; the host was unsure of the date and asked Ashley to check the timeline.
 
 Transcript Snippet: Andrew Kolvet, according to a family source of his, so this was a source that came to me, uh told people in his family and his family orbit that when Charlie said no to Bibi Netanyahu in the Hamptons
 
@@ -2046,7 +2046,7 @@ Investigative Direction: Obtain message timestamps from the recipients' phones t
 
 Claim Timestamp: 00:37:55
 
-Claim: The host's timeline says that on October 23rd the Josh Hammer Show joined the Salem Podcast Network through a new distribution partnership with Newsweek, in contrast with the October 15 announcement date she gave earlier.
+Claim: The host's timeline says that on October 23rd the Josh Hammer Show joined the Salem Podcast Network through a new distribution partnership with Newsweek, in contrast with the October 15 date she gave earlier for when Hammer was given a show on the network.
 
 Transcript Snippet: And on October 23rd, the Josh Hammer Show joins the Salem Podcast Network through a new distribution partnership with Newspeak with Newsweek.
 
@@ -2069,7 +2069,7 @@ Transcript Snippet: the Dhillon Law Group firm, uh which has been privately suin
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10910
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Search federal and state dockets for matters against the host where Dhillon Law Group appears as counsel, and compare with the firm's FARA filings.
 
 ---
@@ -2254,7 +2254,7 @@ Investigative Direction: Check premiere reporting and the lawsuit record for sea
 
 Claim Timestamp: 00:51:57
 
-Claim: The host says she thinks Justin Baldoni did end up in the hospital from all the stress of the case.
+Claim: The host says she thinks Justin Baldoni did end up in the hospital from all the stress of it.
 
 Transcript Snippet: I think he did it he did actually end up in the hospital from all the stress of it.
 
@@ -2417,7 +2417,7 @@ Investigative Direction: Find the transcript of Erika Kirk's first public speech
 
 Claim Timestamp: 00:59:24
 
-Claim: The host says, in what she calls her opinion and allegedly, that TPUSA lied when it said Mikey McCoy flew into action and directed everything at the hospital, and that he did not suddenly see, call and direct things.
+Claim: The host says, in what she calls her opinion and allegedly, that TPUSA lied when it said Mikey McCoy flew into action and did it all, and that he did not suddenly see, call and direct things.
 
 Transcript Snippet: They lied when they said Mikey flew into action and did all That's not true.
 

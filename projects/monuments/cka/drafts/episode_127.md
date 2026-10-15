@@ -1557,7 +1557,7 @@ Investigative Direction: Ask the hospital and county EMS for the pre-arrival not
 
 Claim Timestamp: 00:25:23
 
-Claim: The host says that although Brian Harpole and Frank Church (Turek) loved telling the story over and over, nobody wants to take credit for calling 911.
+Claim: The host says that although Brian Harpole and Frank Turek (Turek) loved telling the story over and over, nobody wants to take credit for calling 911.
 
 Transcript Snippet: nobody wants to take credits for calling 911.
 

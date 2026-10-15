@@ -337,7 +337,10 @@
       "\\bFrank Church\\b",
       "Frank Turek",
       [
-        121
+        121,
+        127,
+        128,
+        129
       ]
     ],
     [
@@ -2393,7 +2396,9 @@
       "\\bLech\\b",
       "Laitsch",
       [
-        70
+        70,
+        96,
+        97
       ]
     ],
     [
@@ -2484,6 +2489,10 @@
     [
       "\\bH\\. Dwayne Anderson\\b",
       "H. Duane Anderson"
+    ],
+    [
+      "\\bPenguitch\\b",
+      "Panguitch"
     ]
   ]
 }

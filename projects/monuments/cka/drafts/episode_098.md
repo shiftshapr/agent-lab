@@ -1051,7 +1051,7 @@ Claim Timestamp: 00:11:40
 Claim: Per an X post by Akash Gupta that the host reads, Shapiro's YouTube monthly viewership collapsed from approximately 170 million to approximately 22 million over roughly 18 months.
 
 Anchored Artifacts: A-2031.1
-Mentions:
+Mentions: N-97
 
 Related Nodes:
 
@@ -1103,7 +1103,7 @@ Investigative Direction: Confirm sponsors listed match actual podcast ad-read sp
 
 ---
 
-**C-2841** X post enumerated Candace Owens branding (shirts, cups, computer stickers) as evidence of branding/marketing
+**C-2841** X Post Mocked Candace Owens for Shirts, Cups and Stickers Bearing Her Name and Face
 
 Claim Timestamp: 00:24:13
 
@@ -1115,7 +1115,7 @@ Mentions: N-3
 
 ---
 
-**C-2842** Laura Loomer posted on X that Candace Owens "having a bad week" appeared coordinated
+**C-2842** Laura Loomer Posted That Candace Owens Was Having a Bad Week, Almost Like She Got Ambushed
 
 Claim Timestamp: 00:32:50
 
@@ -1135,7 +1135,7 @@ Claim Timestamp: 00:37:02
 Claim: A Times of Israel article reported Israel's Foreign Ministry plans to spend up to $4.1 million on a Christian-targeted marketing campaign via Show Faith by Works LLC, using geofencing technology.
 
 Anchored Artifacts: A-2035.1
-Mentions: N-430
+Mentions: 
 
 Related Nodes: N-10652, N-10653
 
@@ -1210,11 +1210,11 @@ Related Nodes: N-10651
 
 ---
 
-**C-2849** Baron Coleman read aloud a comment alleging Laura Loomer attempted to pay for airport photographs simultaneous with the Harpole lawsuit
+**C-2849** Baron Coleman Read a Comment Alleging "Larry L" Tried to Pay for Airport Photos of Candace as the Harpole Lawsuit News Dropped
 
 Claim Timestamp: 00:31:50
 
-Claim: On his show, Baron Coleman read a viewer comment stating that a friend of the commenter's husband was contacted by "Larry L" to photograph the host at the Charlotte airport at the moment the lawsuit email arrived.
+Claim: On his show, Baron Coleman read a viewer comment stating that a friend of the commenter's husband was called by "Larry L" trying to pay him to photograph the host at the Charlotte airport at the same time the news of the lawsuit dropped.
 
 Anchored Artifacts: A-2039.1
 Mentions: N-331, N-60
@@ -1242,7 +1242,7 @@ Investigative Direction: Pull archived Sarelson X timeline via Wayback Machine t
 
 Claim Timestamp: 00:01:15
 
-Claim: The Brian Harpole lawsuit's final page lists Jacob William Roth as partner of the firm; the host says she thinks Roth has been married to Ben Shapiro's sister since 2018.
+Claim: The host says the Brian Harpole lawsuit's final page lists Jacob William Roth as a partner of the firm, and says she thinks Roth has been married to Ben Shapiro's sister since 2018.
 
 Anchored Artifacts: A-2042.1
 Mentions: N-267, N-97
@@ -1285,7 +1285,7 @@ Related Nodes: N-10653
 
 Claim Timestamp: 00:49:25
 
-Claim: A live-chat donation comment the host reads hopes the donation will help pay for attorneys to pursue discovery in the Brian Harpole case, calling it the only chance to get to the truth.
+Claim: A live-chat donation comment the host reads hopes the donation will help pay for attorneys to pursue discovery in the Brian Harpole case, calling it the only chance "we might have" to get to the truth.
 
 Anchored Artifacts: A-2040.3
 Mentions: N-267
@@ -1554,7 +1554,7 @@ Claim: The host says that neither PragerU nor Turning Point USA was destroyed by
 Transcript Snippet: I went on to work with Turning Point all the way through until this year, actually, uh contractually.
 
 Anchored Artifacts: 
-Mentions: N-3, N-117
+Mentions: N-3
 Related Nodes: N-10000, N-10131
 Tags: relevance:context
 Investigative Direction: Obtain the host's contract with Turning Point and its end date.

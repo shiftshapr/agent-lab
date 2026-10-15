@@ -579,9 +579,9 @@ Confidence Level: Low
 
 ---
 
-**A-2864** Penguitch Steak Receipt Bundle
+**A-2864** Panguitch Steak Receipt Bundle
 
-**A-2864.1** Host verbal reference to a receipt for Tyler Robinson's steak payment at 9:47 p.m. in Penguitch (receipt not shown)
+**A-2864.1** Host verbal reference to a receipt for Tyler Robinson's steak payment at 9:47 p.m. in Panguitch (receipt not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:21:42
@@ -752,7 +752,7 @@ Existing topic reused for the Tyler-Lance texts.
 
 **N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
-Existing topic reused for the Penguitch steak claim.
+Existing topic reused for the Panguitch steak claim.
 
 *Related: C-7223, C-7224, C-7271*
 
@@ -968,7 +968,7 @@ Bill Ackman (captioned Bill Ackman); the host says he put Netanyahu on the phone
 
 **N-366** Diligent Dennison
 
-Researcher the host credits with speaking to the waiter in Penguitch.
+Researcher the host credits with speaking to the waiter in Panguitch.
 
 *Related: C-7271*
 
@@ -1704,28 +1704,28 @@ Investigative Direction: Review the Blake Neff X live and compare his account of
 
 ---
 
-**C-7223** Host Says Robinson Paid for a Steak in Penguitch at 9:47 p.m. by Debit Card
+**C-7223** Host Says Robinson Paid for a Steak in Panguitch at 9:47 p.m. by Debit Card
 
 Claim Timestamp: 00:21:42
 
-Claim: The host says her team broke the story that Tyler Robinson was eating a steak in Penguitch and paid at 9:47 p.m. with his debit card, and says there is a literal receipt, which timestamps him three hours from campus.
+Claim: The host says her team broke the story that Tyler Robinson was eating a steak in Panguitch and paid at 9:47 p.m. with his debit card, and says there is a literal receipt, which timestamps him three hours from campus.
 
-Transcript Snippet: because we broke the story that Tyler was eating a steak down in Penguitch. He concluded and and paid at 9:47 p. m.
+Transcript Snippet: because we broke the story that Tyler was eating a steak down in Panguitch. He concluded and and paid at 9:47 p. m.
 
 Anchored Artifacts: A-2864.1
 Mentions: N-3, N-40
 Related Nodes: N-10381
 Supports: C-2004
 Tags: relevance:core
-Investigative Direction: Obtain the Penguitch restaurant receipt and card transaction record and the establishment's own timestamps.
+Investigative Direction: Obtain the Panguitch restaurant receipt and card transaction record and the establishment's own timestamps.
 
 ---
 
-**C-7224** Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Penguitch Timeline
+**C-7224** Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Panguitch Timeline
 
 Claim Timestamp: 00:22:55
 
-Claim: The host says that if Tyler Robinson left Penguitch nearly at 10 p.m., he could not have been babysitting the campus and texting Lance after 11 p.m., unless he failed to mention being pulled over by a police officer around 12:30.
+Claim: The host says that if Tyler Robinson left Panguitch nearly at 10 p.m., he could not have been babysitting the campus and texting Lance after 11 p.m., unless he failed to mention being pulled over by a police officer around 12:30.
 
 Transcript Snippet: He could not have been doing what he said he was doing, texting Lance after 11 p. m.
 
@@ -2491,7 +2491,7 @@ Investigative Direction: Find the Kolvet statements about Lance Twiggs the comme
 
 Claim Timestamp: 01:16:57
 
-Claim: The host says Diligent Dennison went and spoke to the waiter in Penguitch and that more was going to come out about it.
+Claim: The host says Diligent Dennison went and spoke to the waiter in Panguitch and that more was going to come out about it.
 
 Transcript Snippet: Diligent Dennison went and spoke to the waiter uh down at in Panguitch. More was going to be coming out about that.
 
@@ -2636,7 +2636,7 @@ Investigative Direction: This is host speculation; no document or source is cite
 # VI. Optional Flags
 
 - **Tel Aviv extraction source:** Host reference only; not visually confirmed in the displayed text messages. See N-10713.
-- **Penguitch steak receipt:** Referenced by host as documentary proof Tyler was at 9:47 PM in Penguitch (3 hours from UVU); receipt not displayed in this episode.
+- **Panguitch steak receipt:** Referenced by host as documentary proof Tyler was at 9:47 PM in Panguitch (3 hours from UVU); receipt not displayed in this episode.
 - **Bill Ackman $1 million pledge:** Referenced as fact; no artifact (clip, screenshot, press release) displayed in this episode.
 - **Erika Kirk / Bari Weiss interview:** Referenced as showing Erika "made up her mind" pre-hearing; no clip displayed in this episode.
 - **Benny Johnson "Erika asked me to be here" statement:** Recounted by host; no specific clip of this utterance displayed.

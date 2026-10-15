@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T17:29:28Z",
+  "generated_at": "2026-10-15T17:36:04Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -26873,7 +26873,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13443",
-      "label": "Host Asks Why the State Never Sends the Timestamps for the Text Messages",
+      "label": "Host Asks Why They Never Send the Timestamps for the Text Messages",
       "node_kind": "claim",
       "episode": 94
     },
@@ -48482,14 +48482,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2841",
-      "label": "X post enumerated Candace Owens branding (shirts, cups, computer stickers) as evidence of branding/marketing",
+      "label": "X Post Mocked Candace Owens for Shirts, Cups and Stickers Bearing Her Name and Face",
       "node_kind": "claim",
       "episode": 98
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2842",
-      "label": "Laura Loomer posted on X that Candace Owens \"having a bad week\" appeared coordinated",
+      "label": "Laura Loomer Posted That Candace Owens Was Having a Bad Week, Almost Like She Got Ambushed",
       "node_kind": "claim",
       "episode": 98
     },
@@ -48538,7 +48538,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2849",
-      "label": "Baron Coleman read aloud a comment alleging Laura Loomer attempted to pay for airport photographs simultaneous with the Harpole lawsuit",
+      "label": "Baron Coleman Read a Comment Alleging \"Larry L\" Tried to Pay for Airport Photos of Candace as the Harpole Lawsuit News Dropped",
       "node_kind": "claim",
       "episode": 98
     },
@@ -48636,7 +48636,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2863",
-      "label": "Host Says Clock Tower X LLC Registered with FARA on September 18, 2025",
+      "label": "Host Says Havas Media Contracted FARA-Registered Clock Tower X LLC on September 18",
       "node_kind": "claim",
       "episode": 99
     },
@@ -48776,7 +48776,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2883",
-      "label": "Mikey McCoy sent the host a message directing investigation toward Andrew Kolvet",
+      "label": "Host Says Some Credit Mikey McCoy With Message Urging Her to Look Into Andrew Kolvet",
       "node_kind": "claim",
       "episode": 99
     },
@@ -48867,7 +48867,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2896",
-      "label": "Erika Kirk's old LinkedIn claimed ASU magna cum laude graduation",
+      "label": "Host Says Erika Kirk Claimed ASU Magna Cum Laude, Later Summa Cum Laude on LinkedIn",
       "node_kind": "claim",
       "episode": 102
     },
@@ -48916,14 +48916,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2904",
-      "label": "Brian Harpole's alibi flights were 1:49 PM Dallas to Salt Lake City on the 9th",
+      "label": "Host Says Brian Harpole's Alibi Flights Were 1:49 PM on the 9th to Utah",
       "node_kind": "claim",
       "episode": 102
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2905",
-      "label": "Fort Huachuca alibi photograph was provided by Andrew Kolvet",
+      "label": "Host Says Andrew Kolvet Sent Erika Kirk's Alibi Photo Marked Don't Share",
       "node_kind": "claim",
       "episode": 102
     },
@@ -49119,7 +49119,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2933",
-      "label": "Orbis prepared the Project Aurora study on behalf of the Tacit/Tachlith Institute (Israeli think tank)",
+      "label": "Orbis Prepared the Project Aurora Study on Behalf of the Tachlith Institute (Israeli Think Tank)",
       "node_kind": "claim",
       "episode": 110
     },
@@ -57183,7 +57183,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4087",
-      "label": "Erika Kirk approved the larger order on the day of the assassination",
+      "label": "Streiff Allegedly Got Erika Kirk's Approval for the Larger Order",
       "node_kind": "claim",
       "episode": 104
     },
@@ -57967,7 +57967,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4199",
-      "label": "Host's follow-up asked about an April 25 email copied to Cheung, Smalley and Rippeon",
+      "label": "Host's Follow-Up Asked About an April 25 Email Copied to Cheung, Smale and Rippeon",
       "node_kind": "claim",
       "episode": 106
     },
@@ -57988,7 +57988,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4202",
-      "label": "Host copied Smalley, Rippey and the White House Press Office on her follow-up",
+      "label": "Host Copied Smale, Rippeon and the White House Press Office on Her Follow-Up",
       "node_kind": "claim",
       "episode": 106
     },
@@ -59206,7 +59206,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4376",
-      "label": "Host messaged Kolvet, Streif and TPUSA's lawyer; the reply came from the TPUSA X account",
+      "label": "Host Messaged Kolvet, Streiff and TPUSA's Lawyer; the Reply Came From the TPUSA X Account",
       "node_kind": "claim",
       "episode": 111
     },
@@ -60613,7 +60613,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4577",
-      "label": "Blake Neff posted on X mocking the FOIA request",
+      "label": "Blake Neff Wrote a Post Mocking the FOIA Request",
       "node_kind": "claim",
       "episode": 115
     },
@@ -60669,7 +60669,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4585",
-      "label": "Erika Kirk sat across from Bill Ackman at the Hamptons dinner when Netanyahu called",
+      "label": "Erika Kirk Sat Across From Bill Ackman at the Hamptons Dinner When Netanyahu Was Called",
       "node_kind": "claim",
       "episode": 115
     },
@@ -68894,7 +68894,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5760",
-      "label": "Marx alleges Holly's boyfriend groomed her from 13 and had sex with her at 15",
+      "label": "Marx Alleges Holly's Pedophile Groomed Her From 13 and Had Sex With Her at 15",
       "node_kind": "claim",
       "episode": 107
     },
@@ -79135,14 +79135,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7223",
-      "label": "Host Says Robinson Paid for a Steak in Penguitch at 9:47 p.m. by Debit Card",
+      "label": "Host Says Robinson Paid for a Steak in Panguitch at 9:47 p.m. by Debit Card",
       "node_kind": "claim",
       "episode": 124
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7224",
-      "label": "Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Penguitch Timeline",
+      "label": "Host Says Texting Lance After 11 p.m. About Babysitting the Campus Does Not Fit the Panguitch Timeline",
       "node_kind": "claim",
       "episode": 124
     },
@@ -90209,7 +90209,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8805",
-      "label": "Baron Coleman Says Neff and Kolvet Gave Different Excuses",
+      "label": "Host Says Neff and Kolvet Gave Different Excuses",
       "node_kind": "claim",
       "episode": 96
     },
@@ -130116,14 +130116,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2864",
-      "label": "Penguitch Steak Receipt Bundle",
+      "label": "Panguitch Steak Receipt Bundle",
       "node_kind": "artifact",
       "episode": 124
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2864.1",
-      "label": "Host verbal reference to a receipt for Tyler Robinson's steak payment at 9:47 p.m. in Penguitch (receipt not shown)",
+      "label": "Host verbal reference to a receipt for Tyler Robinson's steak payment at 9:47 p.m. in Panguitch (receipt not shown)",
       "node_kind": "artifact",
       "episode": 124
     },

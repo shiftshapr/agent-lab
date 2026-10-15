@@ -15,6 +15,11 @@
     ],
     "reviewed": [
       {
+        "claim": "C-4603",
+        "node": "N-41",
+        "reason": "claim text: 'the governor' (Utah governor Spencer Cox); Opus re-check 2026-10-15"
+      },
+      {
         "claim": "C-12849",
         "node": "N-727",
         "reason": "claim text: 'his brother' (Victor Marx's brother Mike Kennedy); Opus re-check 2026-10-15"

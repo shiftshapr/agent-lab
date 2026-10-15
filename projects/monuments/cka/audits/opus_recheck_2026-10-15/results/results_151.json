@@ -1,0 +1,781 @@
+[
+ {
+  "claim": "C-2894",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2895",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host reads it: \"I'm just going to read one of these tweets. This is written by someone named Brian Allen.\" Claim states the post as fact without saying the host reads it.",
+  "fix": {
+   "claim": "The host reads a tweet by Brian Allen arguing that Hillsdale College awarding Erika Kirk an honorary doctorate and commencement platform contradicts Hillsdale's stated anti-DEI position, characterizing the decision as \"Diversity, equity and inclusion for me and not for thee.\""
+  }
+ },
+ {
+  "claim": "C-2896",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label says the LinkedIn claimed magna cum laude; transcript: magna was in the audition video, \"upgraded it on her LinkedIn page when she wrote that she graduated summa laude.\" Claim text itself is fine.",
+  "fix": {
+   "label": "Host Says Erika Kirk Claimed ASU Magna Cum Laude, Later Summa Cum Laude on LinkedIn"
+  }
+ },
+ {
+  "claim": "C-2897",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2898",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says \"ASU did not even offer the international relations degree at all in 2012. Baron Coleman, some other people online, dug up...\" She does not say Erika claims a 2012 graduation; claim should be the host's statement citing Coleman.",
+  "fix": {
+   "claim": "The host says Arizona State University did not offer an international relations degree at all in 2012, citing Baron Coleman and other people online who checked the catalog.",
+   "timestamp": "00:18:39"
+  }
+ },
+ {
+  "claim": "C-2899",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2901",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2902",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip the host plays (\"I want you to listen to this conversation that they have\"); quotes correctly attributed but claim not framed as a clip the host plays.",
+  "fix": {
+   "claim": "In a clip the host plays from Patrick Bet-David's show, Nick Shirley says Candace Owens \"came after me uh a while back\" and didn't believe his Brazilian favela video; Bet-David asks \"Why would Candace Owens come after you?\""
+  }
+ },
+ {
+  "claim": "C-2903",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host reads it: \"But she wrote this, 'Nick Shirley is a real journalist. Candace Owens is not.'\" No platform (X) is named.",
+  "fix": {
+   "claim": "The host reads a post in which Alex Clark wrote: \"Nick Shirley is a real journalist. Candace Owens is not.\""
+  }
+ },
+ {
+  "claim": "C-2904",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label adds \"Dallas to Salt Lake City\"; transcript only says \"flights, which were for 1:49 p.m. on the 9th going to Utah.\" No Dallas or Salt Lake City in the episode.",
+  "fix": {
+   "label": "Host Says Brian Harpole's Alibi Flights Were 1:49 PM on the 9th to Utah"
+  }
+ },
+ {
+  "claim": "C-2905",
+  "episode": 102,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stated as fact, not as the host's account. Photo was Erika's alibi (showing she was not at Fort Huachuca), not her \"at Fort Huachuca\": \"Andrew explicitly states she was with her kids as he sends the photo don't share.\"",
+  "fix": {
+   "claim": "The host says the Erika Kirk alibi photo that Paramount Tactical read live on his show was sent by Andrew Kolvet, who explicitly states she was with her kids as he sends it with the words \"don't share\"; the host says those are not her kids.",
+   "label": "Host Says Andrew Kolvet Sent Erika Kirk's Alibi Photo Marked Don't Share"
+  }
+ },
+ {
+  "claim": "C-2906",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2907",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2908",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host's own account (answering a viewer question): \"she gave me the... \" / \"handed me Brian Harpole's flights\"; claim states it as fact rather than as the host says.",
+  "fix": {
+   "claim": "The host says that during her private interview with Erika Kirk, Erika volunteered Brian Harpole's flight records as his alibi, which the host says did not actually cover the timeframe of Mitch's sighting."
+  }
+ },
+ {
+  "claim": "C-12970",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12971",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12972",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12973",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12974",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12975",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12976",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12977",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12978",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12979",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12980",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12981",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12982",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12983",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12984",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12985",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12986",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12987",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12988",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12989",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12990",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12991",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12992",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12993",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12994",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12995",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12996",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12997",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12998",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Remark is from the host's earlier show, shown inside the PBD clip (\"they show the clip of what I said\"): \"whoever is your contact that has you infiltrating antifa and infiltrating El Salvador at the age of 23\".",
+  "fix": {
+   "claim": "In a clip of her earlier remarks shown on Patrick Bet-David's show, the host says Nick Shirley has presented infiltrating antifa and infiltrating El Salvador at the age of 23, which she suggests implies a contact behind him."
+  }
+ },
+ {
+  "claim": "C-12999",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13000",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13001",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13002",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13003",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13004",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13005",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13006",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13007",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript has \"Druski\" (\"we see that Erika has taken the Druski skit\", \"If you know Druski's skits\"); node N-597 Druski. Claim spells it \"Drewski\".",
+  "fix": {
+   "claim": "The host says Charlie would have laughed at the Druski skit mocking Erika, but Erika took it deadly seriously.",
+   "names": [
+    {
+     "wrong": "Drewski",
+     "right": "Druski",
+     "source": "https://en.wikipedia.org/wiki/Druski"
+    }
+   ],
+   "label": "Host Says Charlie Would Have Laughed at the Druski Skit but Erika Took It Seriously"
+  }
+ },
+ {
+  "claim": "C-13008",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript has \"Druski\" (\"we see that Erika has taken the Druski skit\", \"If you know Druski's skits\"); node N-597 Druski. Claim spells it \"Drewski\".",
+  "fix": {
+   "claim": "The host says people including Andrew Kolvet tried to turn the Druski skit about Erika into a racial issue.",
+   "names": [
+    {
+     "wrong": "Drewski",
+     "right": "Druski",
+     "source": "https://en.wikipedia.org/wiki/Druski"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-13009",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript has \"Druski\" (\"we see that Erika has taken the Druski skit\", \"If you know Druski's skits\"); node N-597 Druski. Claim spells it \"Drewski\".",
+  "fix": {
+   "claim": "The host says Druski's skits mock many groups, including a skit in which he dressed as a Vietnamese person in a nail salon.",
+   "names": [
+    {
+     "wrong": "Drewski",
+     "right": "Druski",
+     "source": "https://en.wikipedia.org/wiki/Druski"
+    }
+   ],
+   "label": "Host Says Druski Also Mocks Vietnamese People in a Nail Salon Skit"
+  }
+ },
+ {
+  "claim": "C-13010",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript has \"Druski\" (\"we see that Erika has taken the Druski skit\", \"If you know Druski's skits\"); node N-597 Druski. Claim spells it \"Drewski\".",
+  "fix": {
+   "claim": "The host says Druski posted a massive video the previous week that targeted black British actors.",
+   "names": [
+    {
+     "wrong": "Drewski",
+     "right": "Druski",
+     "source": "https://en.wikipedia.org/wiki/Druski"
+    }
+   ],
+   "label": "Host Says Druski Posted a Video Last Week Targeting Black British Actors"
+  }
+ },
+ {
+  "claim": "C-13011",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13012",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13013",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13014",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13015",
+  "episode": 102,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -951,7 +951,7 @@ Investigative Direction: Verify BCG alumni records and LinkedIn-style biographie
 
 **C-2914** Project Aurora launched in late 2024 as a pro bono feasibility study for the Gaza Humanitarian Foundation
 
-Claim Timestamp: 00:16:40
+Claim Timestamp: 00:16:03
 
 Claim: Per the Financial Times reporting summarized on a website read by the host, Project Aurora was launched in late 2024 and was originally framed as a pro bono feasibility study for the Geneva-registered Gaza Humanitarian Foundation.
 
@@ -1229,7 +1229,7 @@ Investigative Direction: Verify Orbis involvement via FT reporting or leaked BCG
 
 ---
 
-**C-2933** Orbis prepared the Project Aurora study on behalf of the Tacit/Tachlith Institute (Israeli think tank)
+**C-2933** Orbis Prepared the Project Aurora Study on Behalf of the Tachlith Institute (Israeli Think Tank)
 
 Claim Timestamp: 00:22:00
 
@@ -1534,7 +1534,7 @@ Investigative Direction: Obtain Harpole's direct answer or contracting records f
 
 Claim Timestamp: 00:12:30
 
-Claim: The host says that after the Fort Huachuca sighting, an influencer campaign with many special forces figures suddenly appeared, with screaming threats that they would take her down and would platform Mitch's baby mamas.
+Claim: The host says that after the Fort Huachuca sighting, an influencer campaign with many special forces figures suddenly appeared, with screaming threats that "they're going to take you down" and would platform Mitch's baby mamas.
 
 Transcript Snippet: Uh, we got an influence an influencer campaign with a lot of special forces guys suddenly in the mix. Very strange screaming threats. They're going to take you down. We're going to platform Mitch's baby mamas.
 
@@ -2378,7 +2378,7 @@ Investigative Direction: Compare Charlie Kirk Show episodes since September 2025
 
 Claim Timestamp: 00:48:22
 
-Claim: A viewer comment read by the host says Tom Artiom Alexandrovich was allowed to leave the United States and return to Israel after being arrested in Nevada on felony child-luring charges, and the host agrees it happened because he is Israeli.
+Claim: A viewer comment read by the host asks why Tom Artiom Alexandrovich was allowed to leave the United States and return to Israel after being arrested in Nevada on felony child-luring charges, answering that it is because he is Israeli and that is the way the system works.
 
 Transcript Snippet: Why was Tom Artiom Alexandrovich allowed to leave the United States and return to Israel after being arrested in in Nevada on felony childuring charges
 

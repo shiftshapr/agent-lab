@@ -260,7 +260,7 @@ Cover-up. Is it Is that what it's called? A wide widely debated conspiracy theor
 
 [47:19]
 
-I know more than anybody else that Ben is extremely litigious. Anyway, uh top comment from yester from uh last week's episode, Mike says, "I love when Frank Church gets mad at Frank Church for lying about what Frank Church said." I think you're quoting me on that. It's our It's a favorite. It's a It's a beat on this show now. How mad Frank Church can get at Frank Church. Next up, in article it wrote, "Blake Neff acts like he lost his Squishmallow." He does. Uh He does, and I am not going to be the one to get up and return it for him. So, Blake Neff, maybe you got to do a phone phone your daddy. Like you got to Andrew Kolvet bringing in his brother big brother, you got to bring in your dad, I think, to come up and regulate these streets, these mean streets of X.
+I know more than anybody else that Ben is extremely litigious. Anyway, uh top comment from yester from uh last week's episode, Mike says, "I love when Frank Turek gets mad at Frank Turek for lying about what Frank Turek said." I think you're quoting me on that. It's our It's a favorite. It's a It's a beat on this show now. How mad Frank Turek can get at Frank Turek. Next up, in article it wrote, "Blake Neff acts like he lost his Squishmallow." He does. Uh He does, and I am not going to be the one to get up and return it for him. So, Blake Neff, maybe you got to do a phone phone your daddy. Like you got to Andrew Kolvet bringing in his brother big brother, you got to bring in your dad, I think, to come up and regulate these streets, these mean streets of X.
 
 [48:01]
 
