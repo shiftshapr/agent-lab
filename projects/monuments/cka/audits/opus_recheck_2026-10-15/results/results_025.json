@@ -1,0 +1,783 @@
+[
+ {
+  "claim": "C-12127",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12128",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12129",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12130",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12131",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12132",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Where the host first saw her husband is her personal life, not background bearing on the assassination.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-12133",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12134",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12135",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12136",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Spoken ~48:16 (block 46:38-49:00).",
+  "fix": {}
+ },
+ {
+  "claim": "C-12137",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12138",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12139",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12140",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12141",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12142",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12143",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12144",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12145",
+  "episode": 16,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1404",
+  "episode": 17,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stated as fact. The host says Hammer 'hit send on 16 hours before Charlie Kirk was assassinated' and shows the retweet ('Trump wrote on April 19th, 2013... Josh Hammer just replies and says, \"Based.\"').",
+  "fix": {
+   "claim": "The host says that approximately 16 hours before Charlie Kirk's assassination, Josh Hammer retweeted an April 19, 2013 Donald Trump post advocating public executions and, per the retweet she shows, added the one-word reply \"Based.\"",
+   "label": "Host Says Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025"
+  }
+ },
+ {
+  "claim": "C-1405",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names 'the 2013 Trump post' but Mentions omits Donald Trump (N-5).",
+  "fix": {
+   "mentions": [
+    "N-55",
+    "N-162",
+    "N-163",
+    "N-5"
+   ]
+  }
+ },
+ {
+  "claim": "C-1406",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says 'murdered on August 22nd' and 'trended on X on September 5th'; she gives no year.",
+  "fix": {
+   "claim": "The host says Iryna Zhuravska was murdered on August 22, her perpetrator was arrested the same day, and the footage was released and trended on X on September 5."
+  }
+ },
+ {
+  "claim": "C-1407",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1408",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'at no point that I could determine... did he speak about the death penalty' is said ~9:04, ~31s before 09:35; 'double standards... safety' is the host's description, not the clip's content (clip is about criminal justice reform).",
+  "fix": {
+   "claim": "The host says that at no point she could determine, on the news, on his own show or anywhere else, did Josh Hammer speak about the death penalty or a public execution regarding the Iryna Zhuravska case, and that he instead spoke about media double standards, criminality and safety; she then plays a clip of Hammer with host Gabriel.",
+   "label": "Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zhuravska Commentary",
+   "timestamp": "00:08:59"
+  }
+ },
+ {
+  "claim": "C-1409",
+  "episode": 17,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stated as fact. The tweet text is shown/read; the Sept 5 date ('when that footage got dropped, which was on September 5th') and 'visceral response' are the host's framing.",
+  "fix": {
+   "claim": "Per the Matt Walsh X post the host shows, Walsh wrote that the only solution is ruthless punishment, public execution for violent criminals, long prison sentences and hard labor; the host says he posted it when the Iryna footage was released on September 5, as a visceral response.",
+   "label": "Host Shows Matt Walsh Post Calling for \"Public Execution\" After the Iryna Footage"
+  }
+ },
+ {
+  "claim": "C-1410",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1411",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label states as fact the host's characterization ('his literal first tweet... Josh manages to bring up his book').",
+  "fix": {
+   "label": "Host Reads What She Says Was Hammer's First Post After Kirk's Death, Mentioning His Book"
+  }
+ },
+ {
+  "claim": "C-1412",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Hedge dropped: 'What the last words I think Charlie spoke to me were'. Also a clip the host plays.",
+  "fix": {
+   "claim": "In a JTV clip the host plays (interview with host Ali), Josh Hammer says that what he thinks were Charlie Kirk's last words to him referenced his intent to plug Hammer's book \"Israel and Civilization\" when the Israel question came up on the campus tour."
+  }
+ },
+ {
+  "claim": "C-1413",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1414",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1415",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'this morning'; episode uploaded 2025-10-08.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1416",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label 'Confirmed' adds certainty; Jones says 'She has sent out it to the Tate brothers, Dave Smith, Max Blumenthal, Tucker Carlson and others.'",
+  "fix": {
+   "label": "Alex Jones Says Candace Sent a \"Dead Man Switch\" to Multiple Named Recipients"
+  }
+ },
+ {
+  "claim": "C-1417",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1418",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label wrong: the words are from a Hammer post the host reads, not a letter read aloud.",
+  "fix": {
+   "label": "Hammer Post the Host Reads Says Tucker and Candace Are \"Lying Through Their Teeth\""
+  }
+ },
+ {
+  "claim": "C-1419",
+  "episode": 17,
+  "attribution": "error",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stated as fact; host shows the tweet ('Can you read that tweet again?'). '2019' and 'deleted' appear nowhere in the transcript (15:37 block is empty).",
+  "fix": {
+   "claim": "Per the Josh Hammer post the host shows, Hammer wrote, \"Jew hatred is inherent in the European DNA\"; the host says that in response people were told he meant it metaphorically.",
+   "label": "Host Shows Josh Hammer Post Saying \"Jew Hatred Is Inherent in the European DNA\""
+  }
+ },
+ {
+  "claim": "C-1420",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Tucker Carlson and Trump but Mentions has only N-55. Host gives 'September 9th' with no year; label states it as fact.",
+  "fix": {
+   "claim": "The host says Josh Hammer tweeted nine times on September 9: a Phillies story, a link to his Iryna media appearance, two tweets against Tucker Carlson, a pro-Israel tweet throwing shade at Trump and Qatar, one against Saudi Arabia, the Hebrew Bible and Western civilization, a Supreme Court media appearance, and finally at 9:09 p.m. ET the public-execution retweet.",
+   "label": "Host Says Josh Hammer Tweeted Nine Times on September 9 Before the 9:09 p.m. ET Public-Execution Retweet",
+   "mentions": [
+    "N-55",
+    "N-22",
+    "N-5"
+   ]
+  }
+ },
+ {
+  "claim": "C-1421",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label states as fact and adds 'against Candace Owens's coverage'; host says 'I think it was very sloppy what Tyler Bowyer did on X. He was accusatory. He called people names.'",
+  "fix": {
+   "label": "Host Says Tyler Bowyer's X Posts Were Sloppy and Accusatory"
+  }
+ },
+ {
+  "claim": "C-1422",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie ('Charlie's left side') but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1423",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1424",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label not Title Case.",
+  "fix": {
+   "label": "Host Says Join Us in Prison When Laura Loomer Sends Us for Writing CIA in Parody"
+  }
+ },
+ {
+  "claim": "C-3644",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label 'Decentralized Intelligence Agency brand' is not said here and label is not Title Case.",
+  "fix": {
+   "label": "Host Plugs CIA Parody Merchandise and Asks for the Green CIA Hat"
+  }
+ },
+ {
+  "claim": "C-9324",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9325",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9326",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9327",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie ('about Charlie and Israel') but Mentions omits N-1.",
+  "fix": {
+   "mentions": [
+    "N-55",
+    "N-22",
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-9328",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9329",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9330",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9331",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9332",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9333",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9334",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9335",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9336",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9337",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9338",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9339",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9340",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9341",
+  "episode": 17,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9342",
+  "episode": 17,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host says 'he's going to be asked'; 'Precisely, as you mentioned... Candace Owens... she's chosen to hijack his death... What do you think is going on there with them?' is interviewer Ali's question. Hammer answers 'Yeah, look.'",
+  "fix": {
+   "claim": "In a JTV clip the host plays, interviewer Ali tells Hammer that, as Hammer mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'",
+   "label": "JTV Interviewer Ali Says Candace Chose to Hijack Charlie's Death to Blame Israel"
+  }
+ }
+]

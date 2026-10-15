@@ -462,7 +462,7 @@
       "ref": "N-10367",
       "name": "Fort Huachuca September 8–9, 2025 Eyewitness Encounter",
       "type": "investigation_target",
-      "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erica Kirk), Brian Harpole (see N-10367 related), and Captain Neff (N-320).",
+      "description": "Persistent investigation target: claimed physical encounter by \"Mitch\" at Candlewood Inn & Suites (Fort Huachuca) on the evening of September 8, 2025 and at a JTF command building on the morning of September 9, 2025, including claimed identifications by resemblance of N-2 (Erika Kirk), Brian Harpole (see N-10367 related), and Captain Neff (N-320).",
       "related_artifacts": [
         "A-1558.1",
         "A-1558.3",
@@ -1319,7 +1319,7 @@
       "@id": "C-1976",
       "ref": "C-1976",
       "label": "Fort Huachuca Class Taught by Bruce Bevins on Infiltrating Christian Organizations via Covert Psychological Operations",
-      "claim": "A former gym owner in Sierra Vista states in a viewer email (read verbatim on air) that a distressed female soldier described a class at Fort Huachuca, taught by Bruce Bevins, whose stated objective was to train military personnel to infiltrate Christian groups and organizations through covert psychological operations focused specifically on deceiving Christians.",
+      "claim": "A gym owner in Sierra Vista states in a viewer email (read verbatim on air) that a distressed female soldier described a class at Fort Huachuca, taught by Bruce Bevins, whose stated objective was to train military personnel to infiltrate Christian groups and organizations through covert psychological operations focused specifically on deceiving Christians.",
       "anchored_artifacts": [
         "A-1557.2"
       ],
@@ -1347,10 +1347,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:16:38–00:17:14",
-      "investigative_direction": "Identify the two named students (currently redacted) and obtain independent testimony regarding Fort Huachuca field training practices.",
-      "mentions_person_refs": [
-        "N-363"
-      ]
+      "investigative_direction": "Identify the two named students (currently redacted) and obtain independent testimony regarding Fort Huachuca field training practices."
     },
     {
       "@type": "Claim",
@@ -1377,7 +1374,7 @@
       "@id": "C-1979",
       "ref": "C-1979",
       "label": "\"Mitch\" Says Multiple Federal and Local Law Enforcement Officers Surrounded Him Outside JTF Building on September 9, 2025",
-      "claim": "Guest witness \"Mitch\" says that after his identification of personnel exiting the JTF building, he was escorted to park benches outside by Captain Neff, where multiple cruisers arrived and officers from different agencies surrounded him, and that a plainclothes woman (described as possibly Secret Service) directed questioning.",
+      "claim": "Guest witness \"Mitch\" says that after personnel exited the JTF building, he was escorted to park benches outside, where he sat with Captain Neff, multiple cruisers arrived and officers from different agencies surrounded him, and that a plainclothes woman (described as possibly Secret Service) directed questioning.",
       "anchored_artifacts": [
         "A-1558.3"
       ],
@@ -1765,7 +1762,7 @@
       "@id": "C-5291",
       "ref": "C-5291",
       "label": "Host says the parents-turned-him-in story is false",
-      "claim": "The host says her investigation found that the story that Tyler Robinson's parents turned him in and did the right thing is false.",
+      "claim": "The host says, flagging it as her own reading, that her investigation found that the story that Tyler Robinson's parents turned him in and did the right thing is false.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10271"
@@ -1784,7 +1781,7 @@
       "@id": "C-5292",
       "ref": "C-5292",
       "label": "Host says Robinson was told to come in peacefully or doors would be broken down",
-      "claim": "The host says that, according to her investigation, Tyler Robinson and his parents were told either the doors would be broken down or he would come in peacefully, and he chose the latter.",
+      "claim": "The host says that, according to her investigation, which she flags as her own reading, Tyler Robinson and his parents were told either the doors would be broken down or he would come in peacefully, and he chose the latter.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10271"

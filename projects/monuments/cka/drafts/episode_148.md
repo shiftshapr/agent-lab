@@ -2384,7 +2384,7 @@ Investigative Direction: Identify what offers are meant and any evidence of thei
 
 ## VI. Optional Flags
 
-- **Name uncertainty (Erika Kirk vs. Erica Kirk):** The transcript consistently spells "Erika Kirk." Prior ledger entry may use "Erica Kirk" – preserved here exactly as the transcript presents it. Cross-episode ledger IDs are presumed stable.
+- **Name uncertainty (Erika Kirk vs. Erika Kirk):** The transcript consistently spells "Erika Kirk." Prior ledger entry may use "Erika Kirk" – preserved here exactly as the transcript presents it. Cross-episode ledger IDs are presumed stable.
 - **Possible transcription error (Frank Turek / Frank Turak):** The host says "as Frank Turak termed them" when referring to Israeli officials. The likely correct name is Frank Turek. Flagged for human verification.
 - **Name uncertainty ("Salem Media Waterstone" / "Waterstone"):** The viewer's comment reads "Salem Media Waterstone." The host interprets this as Water<|>stone (or a similarly named entity) acquiring Salem Media. Entity identification requires verification.
 - **Entity ambiguity (Andrew Kolvet vs. Andrew Cooper):** These are treated as distinct persons in the transcript – Andrew Kolvet is referenced via viewer comment regarding funeral fireworks, while Andrew Cooper is named by host as the party who delivered the September 9 Zoom-call conversation to Tulsi Gabbard's office. Flagged for confirmation against prior ledger entries.

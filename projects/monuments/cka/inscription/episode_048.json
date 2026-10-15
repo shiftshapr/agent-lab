@@ -13,7 +13,7 @@
     "transcript_sha256": "885939e5060d01cec89ba6e17fe5ab38343e86673762e177efb309ef1b930d63",
     "analysis_date": "2026-09-27"
   },
-  "executive_summary": "This episode advances multiple investigative threads already in motion in the Bride of Charlie series. The host presents artifact-anchored material in four primary areas: (1) the contested quotation about Charlie Kirk's neck that was attributed to \"the surgeon\" on Andrew Kolvet's X feed, (2) the disposition of the vehicle in which Charlie was transported to Timpanogos Regional Hospital, supported by a Frank Turek interview clip played on air, (3) the procedural circumstances around the recovery of the firearm, including alleged bomb-dog searches and federal redirection of inexperienced officers, and (4) a Baron Coleman video segment that displays August 25–26, 2025 flight logs under the SAM000 and RCH658/SAM658 call signs in connection with a Fort Huachuca meeting allegedly observed on September 9. The episode also references a forthcoming interview with an unnamed eyewitness (\"Elvis guy\") who claims to have seen Brian Harpole at a high-level meeting.\n\nStructurally, the episode functions as a hinge point in the series, consolidating prior threads (Colberg tweet, SAM/Reach flight analysis, Operation Valhalla Strike timeline, Fort Huachuca) and setting up the next-day testimony from the eyewitness. The artifact register captures three on-air interview clips, one read-aloud X post, and one set of vehicle interior photographs held but not fully displayed by the host.\n\n---",
+  "executive_summary": "This episode advances multiple investigative threads already in motion in the Bride of Charlie series. The host presents artifact-anchored material in four primary areas: (1) the contested quotation about Charlie Kirk's neck that was attributed to \"the surgeon\" on Andrew Kolvet's X feed, (2) the disposition of the vehicle in which Charlie was transported to Timpanogos Regional Hospital, supported by a Frank Turek interview clip played on air, (3) the procedural circumstances around the recovery of the firearm, including alleged bomb-dog searches and federal redirection of inexperienced officers, and (4) a Baron Coleman video segment that displays August 25–26, 2025 flight logs under the SAM000 and RCH658/SAM658 call signs in connection with a Fort Huachuca meeting allegedly observed on September 9. The episode also references a forthcoming interview with an unnamed eyewitness (\"Elvis guy\") who claims to have seen Brian Harpole at a high-level meeting.\n\nStructurally, the episode functions as a hinge point in the series, consolidating prior threads (Kolvet tweet, SAM/Reach flight analysis, Operation Valhalla Strike timeline, Fort Huachuca) and setting up the next-day testimony from the eyewitness. The artifact register captures three on-air interview clips, one read-aloud X post, and one set of vehicle interior photographs held but not fully displayed by the host.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -465,7 +465,7 @@
       "ref": "N-10358",
       "name": "Surgeon Quotation Authenticity Question",
       "type": "investigation_target",
-      "description": "Discrepancy between the quotation attributed to \"the surgeon\" on Colberg's X post (A-1552.1) and host sources' claim that no such statement was made by Dr. Lee Trotter.",
+      "description": "Discrepancy between the quotation attributed to \"the surgeon\" on Kolvet's X post (A-1552.1) and host sources' claim that no such statement was made by Dr. Lee Trotter.",
       "related_artifacts": [
         "A-1552.1"
       ],
@@ -1472,7 +1472,7 @@
       "@type": "Claim",
       "@id": "C-1960",
       "ref": "C-1960",
-      "label": "Colberg X Post Attributes \"Man of Steel\" Quotation to Surgeon",
+      "label": "Kolvet X Post Attributes \"Man of Steel\" Quotation to Surgeon",
       "claim": "Andrew Kolvet's X post contains a quotation attributed to \"the surgeon\" describing Charlie Kirk's neck bone as \"so healthy and the density was so, so impressive that he's like the man of steel,\" and stating the bullet \"should have just gone through and through.\"",
       "anchored_artifacts": [
         "A-1552.1"
@@ -1482,7 +1482,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:03:52",
-      "investigative_direction": "Obtain original Colberg post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.",
+      "investigative_direction": "Obtain original Kolvet post via direct retrieval or archive, and compare against any direct surgeon statements or hospital records.",
       "mentions_person_refs": [
         "N-196",
         "N-14",
@@ -1571,7 +1571,7 @@
       "@id": "C-1965",
       "ref": "C-1965",
       "label": "Host Shows RCH658 Flight Las Vegas to Colorado Springs with Missing Transponder Data",
-      "claim": "The host, showing a flight log with guest Baron Coleman, says it shows an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.",
+      "claim": "The host, showing a flight log after playing a Baron Coleman clip, says it shows an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs.",
       "anchored_artifacts": [
         "A-1554.1"
       ],
@@ -1591,7 +1591,7 @@
       "@id": "C-1966",
       "ref": "C-1966",
       "label": "Host Shows Return Flight Colorado Springs to Andrews as SAM658",
-      "claim": "The host, showing a flight log with guest Baron Coleman, says it shows the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.",
+      "claim": "The host, showing a flight log after playing a Baron Coleman clip, says it shows the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign.",
       "anchored_artifacts": [
         "A-1554.1"
       ],
@@ -1687,7 +1687,7 @@
       "@type": "Claim",
       "@id": "C-5185",
       "ref": "C-5185",
-      "label": "Host Says Colberg Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation",
+      "label": "Host Says Kolvet Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation",
       "claim": "The host says she was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation he had with the surgeon.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1695,7 +1695,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:37",
-      "investigative_direction": "Identify the host's source and obtain Colberg's own account of how and when he spoke with the surgeon.",
+      "investigative_direction": "Identify the host's source and obtain Kolvet's own account of how and when he spoke with the surgeon.",
       "transcript_snippet": "I was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation that he had with the surgeon.",
       "mentions_person_refs": [
         "N-3",
@@ -1706,7 +1706,7 @@
       "@type": "Claim",
       "@id": "C-5186",
       "ref": "C-5186",
-      "label": "Host Says Colberg's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage",
+      "label": "Host Says Kolvet's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage",
       "claim": "The host says the Kolvet tweet about Superman neck came very quickly after she said on her show that she had seen the back footage and there was no blood.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1714,7 +1714,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:02:37",
-      "investigative_direction": "Compare the broadcast timestamp of the host's remark with the posting time of Colberg's tweet.",
+      "investigative_direction": "Compare the broadcast timestamp of the host's remark with the posting time of Kolvet's tweet.",
       "transcript_snippet": "me doing the the show and saying, \"Oh, I saw the back footage and there was no blood.\"",
       "mentions_person_refs": [
         "N-3",
@@ -1733,7 +1733,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:37",
-      "investigative_direction": "Obtain a direct statement from Dr. Trotter or his representatives, and any hospital communications record of what he told Colberg.",
+      "investigative_direction": "Obtain a direct statement from Dr. Trotter or his representatives, and any hospital communications record of what he told Kolvet.",
       "transcript_snippet": "never once did Dr. Lee Trotter say that Charlie's neck was stopped uh Charlie's neck stopped a.30-06 bullet.",
       "qualifies_claim_refs": [
         "C-1960"
@@ -1786,7 +1786,7 @@
       "@type": "Claim",
       "@id": "C-5190",
       "ref": "C-5190",
-      "label": "Host Says Trotter Hunts and Told Colberg It Was Likely a Frangible Bullet",
+      "label": "Host Says Trotter Hunts and Told Kolvet It Was Likely a Frangible Bullet",
       "claim": "The host says she was told that Dr. Lee Trotter, who hunts, communicated to Andrew Kolvet that a frangible bullet was likely used, and describes a frangible bullet as ammunition designed to disintegrate on a hard surface.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1794,7 +1794,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:06:20",
-      "investigative_direction": "Ask Colberg and the surgeon's circle what exactly was said about bullet type, and compare with the autopsy and ballistics record.",
+      "investigative_direction": "Ask Kolvet and the surgeon's circle what exactly was said about bullet type, and compare with the autopsy and ballistics record.",
       "transcript_snippet": "What he communicated is that it was likely a frangible bullet that was used.",
       "qualifies_claim_refs": [
         "C-1960"
@@ -1809,15 +1809,15 @@
       "@type": "Claim",
       "@id": "C-5191",
       "ref": "C-5191",
-      "label": "Host Says Colberg Also Said the Bullet Ricocheted, Conflicting with the Frangible Account",
-      "claim": "The host says Colberg also told the audience that the bullet ricocheted, which she says conflicts with the frangible-bullet account from people close to the surgeon, since a frangible round eliminates the risk of ricochet.",
+      "label": "Host Says Kolvet Also Said the Bullet Ricocheted, Conflicting with the Frangible Account",
+      "claim": "The host says Kolvet also told the audience that the bullet ricocheted, which she says conflicts with the frangible-bullet account from people close to the surgeon, since a frangible round eliminates the risk of ricochet.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10358"
       ],
       "tags": [],
       "claim_timestamp": "00:06:20",
-      "investigative_direction": "Quote Colberg's exact wording on ricochet from his X thread and compare with the wound description in any official report.",
+      "investigative_direction": "Quote Kolvet's exact wording on ricochet from his X thread and compare with the wound description in any official report.",
       "transcript_snippet": "Well, Andrew also told us that the bullet did ricochet. So, what we have here is a conflict of statements.",
       "qualifies_claim_refs": [
         "C-1960"
@@ -1965,7 +1965,7 @@
       "@id": "C-5199",
       "ref": "C-5199",
       "label": "Host Says the Gun Site Was Already Searched by Veteran Officers Before the Gun Was Found",
-      "claim": "The host says the area where the gun was later found had already been searched by veteran police officers, who told her they sort of lock arms to search and that 'maybe that's what they did', and that they found nothing.",
+      "claim": "The host says the area where the gun was later found had already been searched by veteran police officers, who told her they sort of lock arms to search, adding herself 'maybe that's what they did', and that they found nothing.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10360"
@@ -2659,8 +2659,8 @@
       "@type": "Claim",
       "@id": "C-5235",
       "ref": "C-5235",
-      "label": "Respondent in Clip Says Venus Is a Designator for an Empty Flight Except the Pilots",
-      "claim": "In the clip, a respondent apparently Coleman says another call sign they have seen is Venus, which designates an empty flight except for the pilots.",
+      "label": "Respondent Says Venus Is a Designator for an Empty Flight Except the Pilots",
+      "claim": "A speaker the transcript does not identify, answering the host's question about SAM and Reach call signs, says another call sign they have seen is Venus, which is a designator for an empty flight except for the pilots.",
       "anchored_artifacts": [
         "A-1554.1"
       ],
@@ -2670,10 +2670,7 @@
       "tags": [],
       "claim_timestamp": "00:40:40",
       "investigative_direction": "Check military airlift call-sign documentation for Venus.",
-      "transcript_snippet": "the other call sign we've seen is Venus, which is a designator for an empty flight except for the pilots.",
-      "mentions_person_refs": [
-        "N-331"
-      ]
+      "transcript_snippet": "the other call sign we've seen is Venus, which is a designator for an empty flight except for the pilots."
     },
     {
       "@type": "Claim",
@@ -3211,8 +3208,8 @@
       "@type": "Claim",
       "@id": "C-5263",
       "ref": "C-5263",
-      "label": "Host Says She Told Patel She Has Evidence the French Legion Was on the Ground That Day",
-      "claim": "The host says she told Kash Patel she has evidence that the French Foreign Legion was on the ground on the day of the shooting.",
+      "label": "Host Says She Has Evidence the French Legion Was on the Ground That Day and Reached Out to the FBI",
+      "claim": "The host says she called out to Kash Patel that she has evidence the French Legion was on the ground that day, adding that she means she reached out to the FBI, not to Patel specifically.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10290"
@@ -3354,7 +3351,7 @@
       "@id": "C-5270",
       "ref": "C-5270",
       "label": "Host Says the Person Harry Believes He Saw Leaving the Meeting Was a Las Vegas Congressman",
-      "claim": "The host says the person that Harry believes he saw coming out of the Fort Huachuca meeting happened to be a Las Vegas congressman, whom she says will be named in the near future.",
+      "claim": "The host says that, as viewers will learn in the near future, one of the congressmen Harry believes he saw coming out of the Fort Huachuca meeting happened to be a Las Vegas congressman.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11021",
@@ -3448,7 +3445,7 @@
           "video_timestamp": "00:02:37",
           "speaker_node_ref": "N-3",
           "quote": "Now, just to jog your memory",
-          "context": "Host recaps the Colberg tweet for viewers.",
+          "context": "Host recaps the Kolvet tweet for viewers.",
           "confidence": "high",
           "tags": [
             "recap"
@@ -3468,7 +3465,7 @@
           "video_timestamp": "00:04:37",
           "speaker_node_ref": "N-3",
           "quote": "It feels like they have been feeding us slop ever since.",
-          "context": "Host says the Colberg tweet began a stream of federal slop.",
+          "context": "Host says the Kolvet tweet began a stream of federal slop.",
           "confidence": "high",
           "tags": [
             "fed slop"

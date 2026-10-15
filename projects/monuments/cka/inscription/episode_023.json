@@ -2446,7 +2446,7 @@
       "@id": "C-1547",
       "ref": "C-1547",
       "label": "Mikey McCoy promoted to TPUSA Chief of Staff on January 3, 2024",
-      "claim": "The episode states that Mikey McCoy was promoted to Chief of Staff of Turning Point USA on January 3, 2024, citing an internal TPUSA email referenced but not displayed on screen.",
+      "claim": "The host says Mikey McCoy was promoted to Chief of Staff of Turning Point USA on January 3, 2024, saying she has the internal TPUSA email and so it is a fact.",
       "anchored_artifacts": [
         "A-1304.1"
       ],
@@ -2557,7 +2557,7 @@
       "@id": "C-1553",
       "ref": "C-1553",
       "label": "Tail Number of One Egyptian Plane Was Googled from Israel on September 8, 2025",
-      "claim": "The host states that the blue plane's tail number was Googled from Israel on September 8, 2025, two days before the assassination, in response to a live-chat comment suggesting Google Trends correlation.",
+      "claim": "The host states that the tail number of one of the planes, which she believes is the blue plane, was Googled from Israel on September 8, 2025, two days before the assassination, in response to a live-chat comment suggesting Google Trends correlation.",
       "anchored_artifacts": [
         "A-1306.4"
       ],
@@ -2646,7 +2646,7 @@
       "@type": "Claim",
       "@id": "C-1558",
       "ref": "C-1558",
-      "label": "Host Says News Story Reports Plumber Discovered About $500,000 in Cash at Joel Osteen's Megachurch",
+      "label": "Host Says News Story Reports Plumber Found 500 Envelopes of Cash at Joel Osteen's Megachurch",
       "claim": "The host says a news story she brings up reports that a plumber repairing a toilet at Joel Osteen's megachurch found about 500 envelopes of cash in a wall (she first recalls almost a million dollars), and she characterizes Osteen's excuse as saying the church had money missing.",
       "anchored_artifacts": [
         "A-1308.1"
@@ -2707,7 +2707,7 @@
       "@id": "C-1561",
       "ref": "C-1561",
       "label": "Live-Chat Comment Reports Charlie Kirk Did Fly into Salt Lake City for a \"Restaurantology Summit\" Interview",
-      "claim": "An unattributed live-chat comment, read aloud by the host, reports that Charlie Kirk did in fact fly into Salt Lake City on September 10, 2025 for an interview with \"Restaurantology Summit,\" and the host accepts the comment as resolving the N102DZ SLC mystery.",
+      "claim": "The host paraphrases an unattributed live-chat comment reporting that Charlie Kirk did in fact fly into Salt Lake City on September 10, 2025 for an interview with \"Restaurantology Summit,\" and accepts the comment as resolving the N102DZ SLC mystery.",
       "anchored_artifacts": [
         "A-1306.6",
         "A-1309.1"
@@ -2727,7 +2727,7 @@
       "@id": "C-1562",
       "ref": "C-1562",
       "label": "Host Asserts Netanyahu Offered to Fund TPUSA and Andrew Kolvet Can Confirm",
-      "claim": "The host states that Netanyahu offered to \"fund Turning Point to the next level,\" that Charlie declined, and that Andrew Kolvet should be able to confirm the offer.",
+      "claim": "The host states that Netanyahu invited Charlie to Israel and Charlie declined, that Netanyahu offered to \"fund Turning Point to the next level,\" and that Andrew Kolvet should be able to confirm the offer.",
       "anchored_artifacts": [
         "A-1311.1"
       ],
@@ -2767,7 +2767,7 @@
       "@id": "C-1564",
       "ref": "C-1564",
       "label": "Live-Chat Critics Condemn TPUSA-Affiliated Pastors and Christian Zionist Silence After Charlie Kirk Assassination",
-      "claim": "The episode reads aloud multiple live-chat comments criticizing Pastor Jack Hibbs's silence, condemning Christian Zionist loyalty replacing loyalty to \"God, the church, and the truth,\" and explicitly defending the host's investigation against Zionist criticism.",
+      "claim": "The episode reads aloud live-chat comments, one voicing support for the host because 'the Zionists want to call you vermin', and one criticizing Pastor Jack Hibbs's silence and condemning Christian Zionist loyalty replacing loyalty to \"God, the church, and the truth.\"",
       "anchored_artifacts": [
         "A-1306.1",
         "A-1306.2",
@@ -2884,7 +2884,7 @@
       "@id": "C-12262",
       "ref": "C-12262",
       "label": "Host Says Irrefutable Proof of Foreign Actors Is Coming in This Episode",
-      "claim": "The host says that after this episode viewers will recognize there is irrefutable proof that foreign actors were involved in the assassination, which she says implies the government knows.",
+      "claim": "The host says she thinks that after this episode viewers will recognize there is irrefutable proof that foreign actors were involved in the assassination, which she says implies the government knows.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10253"
@@ -3806,7 +3806,7 @@
       "@id": "C-12302",
       "ref": "C-12302",
       "label": "Host Says Gabbard and Kent Are Reportedly Blocked by Patel and Could Pull the Manifests",
-      "claim": "The host says that Tulsi Gabbard or Joe Kent, who she says have been blocked by Kash Patel, should be able to look into these flights and see who is on the manifests.",
+      "claim": "The host says that Tulsi Gabbard or Joe Kent, if they are being blocked by Kash Patel as they have stated or as the public figured out, should be able to look into these flights and see who is on the manifests.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10355",
@@ -4387,7 +4387,7 @@
       "@id": "C-12327",
       "ref": "C-12327",
       "label": "Host Says Kirk Was Veering From a Predetermined Course for TPUSA",
-      "claim": "The host says that, given what she now knows about the McCoys, Charlie Kirk was veering from what she thinks was a predetermined course for Turning Point USA.",
+      "claim": "The host says Charlie Kirk was kind of veering from what she thinks was a predetermined course for Turning Point USA, and that given this and what is now known about Mikey McCoy's father, she has a lot of questions.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -4399,7 +4399,9 @@
       "investigative_direction": "Compare Kirk's late-2025 stated positions and plans with TPUSA's documented strategy.",
       "transcript_snippet": "the fact that Charlie was kind of veering from what I think was a predetermined course for Turning Point USA",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-17",
+        "N-191"
       ]
     },
     {
@@ -4538,7 +4540,7 @@
       "@type": "Claim",
       "@id": "C-12334",
       "ref": "C-12334",
-      "label": "Host Mocks the 33 Numerology Claims and Says Those Behind the Killing Communicate With Numerology",
+      "label": "Host Says 33 Numerology Signals Show a High-Level Assassination",
       "claim": "The host recounts claims that Tyler Robinson's file adds up to 33 and the Utah Freemason Lodge is number 33, and says this was an assassination at a very high level and they do communicate with numerology.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -4546,7 +4548,7 @@
         "N-11129"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:core"
       ],
       "claim_timestamp": "00:50:17",
       "investigative_direction": "Check the factual basis of the 33 pairings (file number, lodge number); the numerology inference is not testable.",

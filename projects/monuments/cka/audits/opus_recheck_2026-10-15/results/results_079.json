@@ -1,0 +1,763 @@
+[
+ {
+  "claim": "C-2034",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only the Unification Church ('the movement controls more than 300 million'); Sun Myung Moon is not named or referred to in the claim, so N-400 should not be in Mentions.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2035",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Unification Church International, Zillioux and FEER; Moon (N-400) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2036",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript: 'In addition to about $5 million, Unificationists provided the personnel'. Claim names Unificationists and Oliver North, not Moon; N-400 should be removed.",
+  "fix": {
+   "mentions": [
+    "N-436"
+   ]
+  }
+ },
+ {
+  "claim": "C-2037",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript: 'It is Japan, not Korea, that provides the bulk of the church's wealth, as much as 70%'. Moon is not named or referred to in the claim; N-400 should be removed.",
+  "fix": {
+   "mentions": []
+  }
+ },
+ {
+  "claim": "C-2038",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2039",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2040",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Headline shown: 'pro-union pastor was arrested for breaking election law' (~01:08:42). Sept 9 is the host's own statement; the statutes come later (~01:11:16) from the article; year 2025 not spoken.",
+  "fix": {
+   "claim": "Per a Korean Herald headline the host shows, Pastor Yoon Bo-seon was arrested for breaking election law; the host says he was arrested on September 9 and, citing the article, that he was accused of violating the public official election act and the local education autonomy act.",
+   "timestamp": "01:08:37"
+  }
+ },
+ {
+  "claim": "C-2041",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Chan: 'my father got arrested two days after he met Charlie.' 'In Seoul at a conference' is the CBN narrator; 'Build Up Korea' is the host's own earlier remark, not said in the clip.",
+  "fix": {
+   "claim": "Per CBN News clip, Chan Yoon (son of Pastor Yoon Bo-seon) stated that his father was arrested two days after meeting Charlie Kirk; the CBN report says Kirk met the pastor at a conference in Seoul."
+  }
+ },
+ {
+  "claim": "C-2042",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2043",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'they co- coerced us to give up the baby because they got money for the adoption' is spoken ~00:29:02, about 45s before the 00:29:47 timestamp.",
+  "fix": {
+   "timestamp": "00:28:57"
+  }
+ },
+ {
+  "claim": "C-2044",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2045",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Carey Hezekiah ('he also once threw a man into a bear cage'); Jerry Falwell Sr. (N-399) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-402"
+   ]
+  }
+ },
+ {
+  "claim": "C-2046",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8126",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only Brian Harpole and 'the clip the host plays'; Shawn Ryan (N-225) is not named or referred to. Content 'decentralized command model' ~00:02:57, within 75s.",
+  "fix": {
+   "mentions": [
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-8127",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Harpole and the host; Shawn Ryan (N-225) is not named or referred to ('elsewhere in the interview').",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-8128",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8129",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8130",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8131",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8132",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8133",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8134",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8135",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8136",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8137",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8138",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8139",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8140",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8141",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8142",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8143",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8144",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8145",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8146",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8147",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim: 'Romanian Angels worked with Colonel Otto Busher'; Erika Kirk (N-2) is not named or referred to in the claim. Name Otto Busher (III) confirmed: https://factually.co/fact-checks/military/colonel-otto-busher-iii-romania-0ab9ea",
+  "fix": {
+   "mentions": [
+    "N-690"
+   ]
+  }
+ },
+ {
+  "claim": "C-8148",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Busher brothel allegation in Romania (2011-2015) is background in the host's 'recurring themes' list, not the assassination or its central figures.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-8149",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8150",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8151",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8152",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8153",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8154",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8155",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8156",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8157",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Transcript spells it 'David Frodsham', so '(spelled Frodshem in the transcript)' is wrong. A Fort Huachuca abuse case is background, not core.",
+  "fix": {
+   "claim": "The host says a civilian commander stationed at Fort Huachuca, David Frodsham, was charged with running a child sex abuse ring, and calls it true.",
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-8158",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8159",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8160",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8161",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Label spells the name 'Piscatello'; the transcript and node say Piskadlo, confirmed as Andrew Piskadlo at the UVU event: https://x.com/MarioNawfal/status/1965851530025676910",
+  "fix": {
+   "label": "Host Says Piskadlo Has Raised Alarms About Military Ukrainian Sex Trafficking"
+  }
+ },
+ {
+  "claim": "C-8162",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8163",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8164",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8165",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8166",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8167",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host earlier (~00:13:56): 'Curtis is currently stationed in Romania as a lieutenant colonel'; the 'differs from' clause is accurate. 'Kolwitz' is the transcript's spelling of Kolvet.",
+  "fix": {}
+ },
+ {
+  "claim": "C-8168",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8169",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8170",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8171",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8172",
+  "episode": 54,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -740,7 +740,7 @@ TPUSA spokesperson; the host recounts his Fort Huachuca response and his call ab
 
 ---
 
-**N-10380** Erica Kirk September 8 Alibi
+**N-10380** Erika Kirk September 8 Alibi
 
 Erika's September 8 alibi topic.
 
@@ -891,7 +891,7 @@ Everyday Heroes Foundation, which Erika says she founded.
 
 ---
 
-**N-10428** Erica Kirk China Timeline Discrepancy
+**N-10428** Erika Kirk China Timeline Discrepancy
 
 Erika's China timeline discrepancy topic.
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Obtain independent verification of military service rec
 
 **C-2109** Per Kickstarter Text the Host Reads, November Renaissance Plot Describes Nanotechnology, Mind-as-Hard-Drive, and Corporate Proxy Operations
 
-Claim Timestamp: 00:08:16–00:10:12
+Claim Timestamp: 00:07:34
 
 Claim: Per the Kickstarter description the host reads and a clip of director Clayton Haugen she plays, *November Renaissance* involves nanotechnology, a mind-as-hard-drive concept, and corporate black operations carried out by hired 'proxies' for financial institutions; the host adds that it was about corporate espionage and technology used to help the government and corporate financial institutions maintain power.
 
@@ -1155,7 +1155,7 @@ Investigative Direction: Obtain and archive the full Kickstarter campaign text a
 
 **C-2110** Host Says Erika Was Cast as "Evelyn Mathis" in the November Renaissance Kickstarter Campaign
 
-Claim Timestamp: 00:05:24
+Claim Timestamp: 00:07:10
 
 Claim: The host says a remnant of the *November Renaissance* Kickstarter campaign publicly identifies Erika as having been cast in the role of "Evelyn Mathis."
 
@@ -1172,7 +1172,7 @@ Investigative Direction: Archive the Kickstarter remnant directly and verify the
 
 Claim Timestamp: 00:11:15–00:14:14
 
-Claim: Three individuals with Fort Huachuca affiliation – including one currently stationed there who publicly posted and then deleted a claim, a former service member who confirmed the post, and a third who reported a chat-room assertion that an order was given to lower drones on September 9 – report having seen Erika at Fort Huachuca.
+Claim: The host says that, by her count, three people now say Erika was at Fort Huachuca: after Charlie's assassination a woman currently stationed there posted, then deleted, that she saw Erika there the day before (September 9); a friend formerly stationed there confirmed the post was real; and, per that friend, someone in a chat among personnel stationed there said they too had seen Erika at the base and that there was an order to lower drones that day. The host says she confirmed the friend and the two individuals are real.
 
 Anchored Artifacts: A-1635.1 (poster corroborates familiarity), A-1642.1 (related commenter testimony pattern)
 Mentions: N-2
@@ -1202,9 +1202,9 @@ Investigative Direction: Identify and archive the original podcast episode; obta
 
 **C-2113** Turning Point Executive Justin Streiff Stated Erika Never Lived in China
 
-Claim Timestamp: 00:18:47
+Claim Timestamp: 00:18:15
 
-Claim: Turning Point USA executive Justin Streiff replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.
+Claim: The host says Turning Point USA executive Justin Streiff replied to her that Erika never lived in China, and that Erika said she only went there on a trip for a couple of weeks to see the Great Wall of China.
 
 Anchored Artifacts: A-1637.1
 Mentions: N-15, N-2, N-3
@@ -1213,11 +1213,11 @@ Related Nodes: N-10419
 
 Investigative Direction: Obtain the direct message or email text from Justin Streiff; if Stripe confirms on-record, request documentation of Erika's travel records during the disputed period.
 
-**C-3742** Justin Streiff is the Turning Point executive C-2113 spells 'Justin Streiff' (revises C-2113)
+**C-3742** Host Says Justin Streiff Told Her Erika Never Lived in China
 
 Claim Timestamp: 00:18:18
 
-Claim: C-2113 spells the executive's name 'Justin Streiff' (auto-caption form). The executive is Justin Streiff (N-15). He replied to Candace Owens that Erika never lived in China and that she only went on a trip for a couple of weeks to see the Great Wall of China.
+Claim: The host says Turning Point USA executive Justin Streiff (N-15) replied to her that Erika never lived in China, and that Erika said she only went there on a trip for a couple of weeks to see the Great Wall of China.
 
 Transcript Snippet: And he replied that she never lived in China.
 
@@ -1305,11 +1305,11 @@ Investigative Direction: Obtain the unedited source clip with timestamp and chan
 
 ---
 
-**C-2119** Nick Fuentes Reframed the Epstein Issue as "Political Blackmail" Rather Than Pedophilia
+**C-2119** Nick Fuentes Reframed the Epstein Issue as Blackmail for Israel Rather Than Pedophilia
 
 Claim Timestamp: 00:42:23–00:44:18
 
-Claim: In a follow-up clip aired on the episode, Nick Fuentes stated the Epstein story is "not satanic pedophilia cult stuff" but "run-of-the-mill prostitution and sex trafficking but for an international political purpose" and dismissed it as "Dateline" rather than a "human interest story."
+Claim: In a follow-up clip aired on the episode, Nick Fuentes stated the Epstein story is "not satanic pedophilia cult stuff" but "run-of-the-mill prostitution and sex trafficking but for an international political purpose" and said "this is not Dateline. This is not a human interest story" but "a layered crime."
 
 Anchored Artifacts: A-1641.2
 Mentions: N-202
@@ -1521,7 +1521,7 @@ Investigative Direction: Check Erika's pageant and acting credits in public biog
 
 Claim Timestamp: 00:05:00
 
-Claim: The host says her sources told her that the person Erika was really close to on the film was Clayton Haugen, unsure of the spelling of the surname.
+Claim: The host says her sources told her that the person Erika was really close to on the film was Clayton Haugen, unsure of the pronunciation of the surname.
 
 Transcript Snippet: The person they said she was really close to was Clayton Haugen.
 
@@ -1599,7 +1599,7 @@ Investigative Direction: Check Miss Teen USA 2006 titleholder records; the trans
 
 **C-9843** Host Says Chantel Thuy's Father Worked on AI at IBM
 
-Claim Timestamp: 00:06:35
+Claim Timestamp: 00:06:00
 
 Claim: The host says she did not have much time to go through cast member Chantel Thuy's background, but that her dad worked in artificial intelligence for IBM, which she speculates might connect to Fort Huachuca.
 
@@ -1793,7 +1793,7 @@ Investigative Direction: Publish the chart nodes with sources so each strand can
 
 Claim Timestamp: 00:14:50
 
-Claim: The host says Turning Point Faith works with Pastor Greg Laurie, whose church is accused of trafficking children from Romania, and that pastor Paul Havsgaard is accused of having helped facilitate it in a case still moving through court.
+Claim: The host says Turning Point Faith works with Pastor Greg Laurie, whose church is accused of trafficking children from Romania, and, naming one of the pastors, Paul Havsgaard, that people are saying the church helped facilitate it, in a case still moving through court.
 
 Transcript Snippet: Turning Point Faith working with this Pastor Greg Laurie, whose church is being accused of trafficking children from Romania.
 
@@ -2469,7 +2469,7 @@ Investigative Direction: Parsons is documented as a JPL co-founder and Thelema f
 
 Claim Timestamp: 00:47:20
 
-Claim: The host says a clip of Nick Fuentes shouting was his reply to her asking whether he wanted to get married one day, and plays him yelling that a real man tells you to sit down and shut up.
+Claim: The host says a clip of Nick Fuentes shouting was his reply to her asking whether he wanted to get married one day, and plays him yelling to sit down and shut up, that's what a man has to say.
 
 Transcript Snippet: This is this is actually was was his reply to me for asking him about whether he wanted to get married one day.
 
@@ -2542,7 +2542,7 @@ Anchored Artifacts:
 Mentions: N-1, N-3
 Related Nodes: N-10422
 Supports: C-2104
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Re-read the text messages the host has cited and any record of Charlie's schooling.
 
 ---
@@ -2653,7 +2653,7 @@ Transcript Snippet: I do think that Charlie was DARPA tested I think he was obvi
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: N-10000
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Ask the host to produce the proof of military tracking she says exists; no DARPA testing record has been shown.
 
 ---

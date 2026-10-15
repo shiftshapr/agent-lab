@@ -948,11 +948,11 @@ The host's statement that Charlie Kirk owned, and purchased outright, the securi
 
 ## V. Claim Register
 
-**C-1404** Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025
+**C-1404** Host Says Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025
 
 Claim Timestamp: 00:06:41
 
-Claim: Approximately 16 hours before Charlie Kirk's assassination, Josh Hammer retweeted an April 19, 2013 Donald Trump post advocating public executions and added the one-word reply "Based."
+Claim: The host says that approximately 16 hours before Charlie Kirk's assassination, Josh Hammer retweeted an April 19, 2013 Donald Trump post advocating public executions and, per the retweet she shows, added the one-word reply "Based."
 
 Anchored Artifacts: A-1236.1, A-1248.1
 Mentions: N-55, N-1, N-5
@@ -969,7 +969,7 @@ Claim Timestamp: 00:07:48
 Claim: The host reads a post she says Yashar Ali wrote, asserting that Josh Hammer's retweet of the 2013 Trump post was tied to the murder of Iryna Zhuravska and that many conservatives were sharing and saying similar things the day before.
 
 Anchored Artifacts: A-1237.1
-Mentions: N-55, N-162, N-163
+Mentions: N-55, N-162, N-163, N-5
 Related Nodes: N-10179
 
 Investigative Direction: Verify Yashar Ali's exact post text and timing against X archives; verify whether the "day prior" framing matches the post dates of alleged "many conservatives."
@@ -1003,11 +1003,11 @@ Investigative Direction: Verify the full memorial transcript and locate the segm
 
 ---
 
-**C-1408** Josh Hammer Did Not, in His Media Discussion of Iryna Zhuravska, Advocate the Death Penalty
+**C-1408** Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zhuravska Commentary
 
-Claim Timestamp: 00:09:35
+Claim Timestamp: 00:08:59
 
-Claim: The host says that, in a clip of Hammer's appearance with host Gabriel about the Iryna Zhuravska case, Hammer discussed criminal justice, media double standards and safety, and that at no point that she could determine did he speak about the death penalty or a public execution.
+Claim: The host says that at no point she could determine, on the news, on his own show or anywhere else, did Josh Hammer speak about the death penalty or a public execution regarding the Iryna Zhuravska case, and that he instead spoke about media double standards, criminality and safety; she then plays a clip of Hammer with host Gabriel.
 
 Anchored Artifacts: A-1250.1
 Mentions: N-55, N-163, N-174
@@ -1016,11 +1016,11 @@ Investigative Direction: Verify the full segment transcript and any accompanying
 
 ---
 
-**C-1409** Matt Walsh Posted an X Post Calling for "Public Execution" on September 5, 2025
+**C-1409** Host Shows Matt Walsh Post Calling for "Public Execution" After the Iryna Footage
 
 Claim Timestamp: 00:13:45
 
-Claim: Matt Walsh posted on X on September 5, 2025, calling for public execution, hard labor, and long prison terms in a visceral response to the Iryna footage.
+Claim: Per the Matt Walsh X post the host shows, Walsh wrote that the only solution is ruthless punishment, public execution for violent criminals, long prison sentences and hard labor; the host says he posted it when the Iryna footage was released on September 5, as a visceral response.
 
 Anchored Artifacts: A-1238.1
 Mentions: N-163, N-164
@@ -1043,7 +1043,7 @@ Investigative Direction: Query X archive for "public execution" within Hammer's 
 
 ---
 
-**C-1411** Hammer's First X Post After Charlie Kirk's Death Promoted His Book
+**C-1411** Host Reads What She Says Was Hammer's First Post After Kirk's Death, Mentioning His Book
 
 Claim Timestamp: 00:20:50
 
@@ -1112,7 +1112,7 @@ Investigative Direction: Verify post timestamp and any subsequent deletion; veri
 
 ---
 
-**C-1416** Alex Jones Confirmed Candace Activated a "Kill Switch" Distributed to Multiple Named Recipients
+**C-1416** Alex Jones Says Candace Sent a "Dead Man Switch" to Multiple Named Recipients
 
 Claim Timestamp: 00:54:31
 
@@ -1140,7 +1140,7 @@ Investigative Direction: Verify O'Keefe's actual mechanism; obtain O'Keefe's pri
 
 ---
 
-**C-1418** A Letter Read Aloud on Air Asserted Critics Were "Lying Through Their Teeth"
+**C-1418** Hammer Post the Host Reads Says Tucker and Candace Are "Lying Through Their Teeth"
 
 Claim Timestamp: 00:02:50
 
@@ -1153,11 +1153,11 @@ Investigative Direction: Identify the letter and author; verify authenticity.
 
 ---
 
-**C-1419** Josh Hammer Posted "Jew hatred is inherent in the European DNA" in 2019 and Later Deleted It
+**C-1419** Host Shows Josh Hammer Post Saying "Jew Hatred Is Inherent in the European DNA"
 
 Claim Timestamp: 00:16:55
 
-Claim: Josh Hammer posted on X in 2019 the statement "Jew hatred is inherent in the European DNA," and subsequently deleted the post.
+Claim: Per the Josh Hammer post the host shows, Hammer wrote, "Jew hatred is inherent in the European DNA"; the host says that in response people were told he meant it metaphorically.
 
 Anchored Artifacts: A-1239.1
 Mentions: N-55
@@ -1166,21 +1166,21 @@ Investigative Direction: Verify via web archives / Wayback Machine or third-part
 
 ---
 
-**C-1420** Josh Hammer Tweeted Nine Times on September 9, 2025 Before the 9:09 p.m. ET Public-Execution Retweet
+**C-1420** Host Says Josh Hammer Tweeted Nine Times on September 9 Before the 9:09 p.m. ET Public-Execution Retweet
 
 Claim Timestamp: 00:11:02
 
-Claim: The host says Josh Hammer tweeted nine times on September 9, 2025: a Phillies story, a link to his Iryna media appearance, two tweets against Tucker Carlson, a pro-Israel tweet throwing shade at Trump and Qatar, one against Saudi Arabia, the Hebrew Bible and Western civilization, a Supreme Court media appearance, and finally at 9:09 p.m. ET the public-execution retweet.
+Claim: The host says Josh Hammer tweeted nine times on September 9: a Phillies story, a link to his Iryna media appearance, two tweets against Tucker Carlson, a pro-Israel tweet throwing shade at Trump and Qatar, one against Saudi Arabia, the Hebrew Bible and Western civilization, a Supreme Court media appearance, and finally at 9:09 p.m. ET the public-execution retweet.
 
 Anchored Artifacts: A-1240.1
-Mentions: N-55
+Mentions: N-55, N-22, N-5
 Related Nodes: N-10174
 
 Investigative Direction: Verify each timestamp and content against X archive.
 
 ---
 
-**C-1421** Tyler Bowyer Has Made Accusatory X Posts Against Candace Owens's Coverage
+**C-1421** Host Says Tyler Bowyer's X Posts Were Sloppy and Accusatory
 
 Claim Timestamp: 01:07:43
 
@@ -1202,6 +1202,7 @@ Claim Timestamp: 00:43:02
 Claim: The host says there is an almost incomprehensible lack of footage from Charlie's left side (audience right) of the UVU event, and that Turning Point has not released high-resolution footage of that angle.
 
 Anchored Artifacts: None (host-issued bulletin, not artifact-anchored)
+Mentions: N-3, N-1
 Related Nodes: N-10175
 
 Investigative Direction: Submit evidence requests to UVU, Turning Point USA, and individual attendee videographers; FOIA/records requests where applicable.
@@ -1225,7 +1226,7 @@ Investigative Direction: Tip-line intake processing and review of footage submit
 
 ---
 
-**C-1424** Host referenced Laura Loomer in closing segment
+**C-1424** Host Says Join Us in Prison When Laura Loomer Sends Us for Writing CIA in Parody
 
 Claim Timestamp: 01:14:58
 
@@ -1239,7 +1240,7 @@ Investigative Direction: Locate exact closing-segment timestamp and any on-scree
 
 ---
 
-**C-3644** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-3644** Host Plugs CIA Parody Merchandise and Asks for the Green CIA Hat
 
 Claim Timestamp: 01:14:50
 Claim: The host plugs her merchandise and says people can join her in prison when Laura Loomer sends them for writing CIA in parody, because they do not want to be in the CIA; she asks someone to get her the green CIA hat people are tagging her in.
@@ -1310,7 +1311,7 @@ Claim: In the Hammer posts the host reads, Hammer says he was given access to "t
 Transcript Snippet: I was given access to this letter a few months ago, and I read it at that time. Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel. [03:10] Candace
 
 Anchored Artifacts: A-1248.1
-Mentions: N-55, N-22, N-3
+Mentions: N-55, N-22, N-3, N-1
 Related Nodes: N-10056
 Tags: relevance:core
 Investigative Direction: Find the Hammer post, identify which letter he meant (compare the May letter attributed to Kirk), and establish who gave him access and when.
@@ -1547,11 +1548,11 @@ Investigative Direction: Identify the producers and the friend on the call and a
 
 ---
 
-**C-9342** Hammer Says on JTV Candace Chose to Hijack Charlie's Death to Blame Israel
+**C-9342** JTV Interviewer Ali Says Candace Chose to Hijack Charlie's Death to Blame Israel
 
 Claim Timestamp: 00:22:58
 
-Claim: In a JTV clip the host plays, Hammer says that, as the interviewer Ali mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'
+Claim: In a JTV clip the host plays, interviewer Ali tells Hammer that, as Hammer mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'
 
 Transcript Snippet: she's chosen to hijack his death right now to blame it on Israel. I mean, it's just so disturbing. But then you have the people
 
@@ -1794,7 +1795,7 @@ Investigative Direction: Obtain the chat export and verify the exact date and ti
 
 Claim Timestamp: 00:34:07
 
-Claim: The host says Charlie then held the smaller call with two Jewish individuals who were on the chat and knew he was angry, and says the call was not a follow-up to what he had expressed to them hours earlier.
+Claim: The host says Charlie then held the smaller call with two Jewish individuals who were on the chat and knew he was angry, and mocks Hammer's account that the call was not a follow-up to what he had expressed to them hours earlier but a fan's call about Hammer's book, saying "That's what Josh wants us to believe."
 
 Transcript Snippet: he decided to have that smaller audience with two Jewish individuals who were on that chat and were aware that he was angry, but this
 
@@ -1881,7 +1882,7 @@ Claim: The host says that almost the only compelling argument that Israel had an
 Transcript Snippet: That has been almost the only compelling argument that Israel had anything to do with it is the way they're acting right now. Like Bibi Netanyahu, the propaganda, the lies,
 
 Anchored Artifacts: 
-Mentions: N-3, N-36
+Mentions: N-3, N-36, N-1
 Related Nodes: N-10056
 Tags: relevance:core
 Investigative Direction: Catalogue the specific statements by Netanyahu and allies that the host regards as lies.
@@ -2112,11 +2113,11 @@ Investigative Direction: Ask the host whether and when the messages will be publ
 
 ---
 
-**C-9377** Host Says She Shared Information With Max Blumenthal and Others in a Release-It-All Package
+**C-9377** Host Says Her Kill Switch Means Sharing Information With Max Blumenthal and Others in a Release-It-All Package
 
 Claim Timestamp: 00:52:50
 
-Claim: The host says she shared information with Max Blumenthal and people elsewhere and sent a package with the instruction that if anything happens to her and it looks suspicious, they should release it all.
+Claim: The host says the kill switch she wanted to create means sharing information with Max Blumenthal and people elsewhere and sending a package with the instruction that if anything happens to her and it looks suspicious, they should release it all.
 
 Transcript Snippet: To information share uh with Max Blumenthal, with people Village I mean people all over the place. To send a package and say, "If anything happens to me and it looks suspicious, release it all." You know? It's not even
 
@@ -2226,7 +2227,7 @@ Investigative Direction: Locate the Jones show broadcast with the break audio an
 
 ---
 
-**C-9384** Alex Jones Says Charlie's TPUSA Got Over 2.5 Million Young People to Vote for Trump
+**C-9384** Alex Jones Says Charlie's TPUSA Got Over 2.5 Million People to Vote for Trump
 
 Claim Timestamp: 00:57:12
 

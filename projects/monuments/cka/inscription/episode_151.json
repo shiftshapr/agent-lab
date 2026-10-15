@@ -79,7 +79,7 @@
           "@type": "Artifact",
           "@id": "A-2364.1",
           "ref": "A-2364.1",
-          "description": "Erica Kirk tweet asserting that Charlie said \"we should be building two statues for every statue that they tear down,\" that \"they think spray paint can obscure his legacy,\" invoking Jesus Christ / \"God will not be mocked,\" and calling to \"clean up the mess and restore Charlie's statue and keep building.\"",
+          "description": "Erika Kirk tweet asserting that Charlie said \"we should be building two statues for every statue that they tear down,\" that \"they think spray paint can obscure his legacy,\" invoking Jesus Christ / \"God will not be mocked,\" and calling to \"clean up the mess and restore Charlie's statue and keep building.\"",
           "related_claims": [
             "C-3426",
             "C-3442"
@@ -160,7 +160,7 @@
           "@type": "Artifact",
           "@id": "A-2367.1",
           "ref": "A-2367.1",
-          "description": "Blake Neff bookmark of Candace Owens' tweet predicting Erica Kirk Vanity Fair spread with children, after Candace had written \"Save this tweet. It will age well.\"",
+          "description": "Blake Neff bookmark of Candace Owens' tweet predicting Erika Kirk Vanity Fair spread with children, after Candace had written \"Save this tweet. It will age well.\"",
           "related_claims": [
             "C-3429"
           ],
@@ -1499,8 +1499,8 @@
       "@type": "Claim",
       "@id": "C-3426",
       "ref": "C-3426",
-      "label": "Erica Kirk tweet on building two statues",
-      "claim": "Erica Kirk posted a tweet invoking Charlie's purported \"build two statues\" line, framing the alleged statue vandalism as spiritual persecution and calling for restoration of the statue.",
+      "label": "Erika Kirk tweet on building two statues",
+      "claim": "Erika Kirk posted a tweet invoking Charlie's purported \"build two statues\" line, framing the alleged statue vandalism as spiritual persecution and calling for restoration of the statue.",
       "anchored_artifacts": [
         "A-2364.1"
       ],
@@ -1558,7 +1558,7 @@
       "@id": "C-3429",
       "ref": "C-3429",
       "label": "Blake Neff bookmarked Candace's Vanity Fair prediction tweet",
-      "claim": "Blake Neff bookmarked Candace Owens's tweet predicting an Erica Kirk Vanity Fair spread with the children (\"Save this tweet. It will age well\"), and Candace states she has since been contacted by Vanity Fair for comment.",
+      "claim": "Blake Neff bookmarked Candace Owens's tweet predicting an Erika Kirk Vanity Fair spread with the children (\"Save this tweet. It will age well\"), and Candace states she has since been contacted by Vanity Fair for comment.",
       "anchored_artifacts": [
         "A-2367.1"
       ],
@@ -1776,7 +1776,7 @@
       "@id": "C-3442",
       "ref": "C-3442",
       "label": "Host Says TPUSA / Affiliates Claimed Statue Vandalized with Red Paint on September 13",
-      "claim": "The host says TPUSA and affiliated accounts (Andrew Kolvet, Erica Kirk, Tyler Bowyer) characterized the statue as having been vandalized with red paint, in some accounts crossing out the name of Jesus Christ, on or about the early morning of September 13, 2026; she plays a clip in which Andrew Kolvet discusses the act of vandalism.",
+      "claim": "The host says TPUSA and affiliated accounts (Andrew Kolvet, Erika Kirk, Tyler Bowyer) characterized the statue as having been vandalized with red paint, in some accounts crossing out the name of Jesus Christ, on or about the early morning of September 13, 2026; she plays a clip in which Andrew Kolvet discusses the act of vandalism.",
       "anchored_artifacts": [
         "A-2363.1",
         "A-2364.1",

@@ -6,7 +6,9 @@ episode's person nodes (id and canonical name), so reviewers can correct Mention
 docs/qa/VERIFY_PROMPT.md and write results_NNN.json beside the items.
 
 Usage (from agent-lab root):
-  python3 projects/monuments/cka/scripts/qa/verify_pack.py OUT_DIR [--chunk 60] [--episodes 1 2 ...]
+  python3 projects/monuments/cka/scripts/qa/verify_pack.py OUT_DIR [--chunk 60] [--episodes 1 2 ...] [--claims FILE]
+
+--claims FILE limits the pack to the claim ids listed in FILE (one per line, or a JSON list), for a targeted re-check.
 """
 
 from __future__ import annotations
@@ -53,7 +55,9 @@ def main() -> int:
     ap.add_argument("out", type=Path)
     ap.add_argument("--chunk", type=int, default=60)
     ap.add_argument("--episodes", type=int, nargs="*")
+    ap.add_argument("--claims", type=Path)
     args = ap.parse_args()
+    only = set(re.findall(r"C-\d+", args.claims.read_text(encoding="utf-8"))) if args.claims else None
 
     nodes = json.loads((CKA / "canonical" / "nodes.json").read_text(encoding="utf-8"))["nodes"]
     args.out.mkdir(parents=True, exist_ok=True)
@@ -79,6 +83,8 @@ def main() -> int:
         header = f"# Episode {ep}\n\nPerson nodes in this episode: {roster}\n"
         first = True
         for cid, blk in qa_pack.claims_of(text).items():
+            if only is not None and cid not in only:
+                continue
             if len(parts) >= args.chunk:
                 flush()
                 first = True

@@ -1318,7 +1318,7 @@ Investigative Direction: Obtain independent verification of the text exchange an
 
 Claim Timestamp: 00:07:00
 
-Claim: Charlie's April 20, 2018 evening text states he is running while blasting Kanye West and that "we're on the brink of something big and like this is our time."
+Claim: The host says Charlie's April 20, 2018 evening message said he was on a run blasting Kanye West and that "we're on the brink of something big and like this is our time."
 
 Anchored Artifacts: A-1270.2
 Mentions: N-1, N-27
@@ -1360,7 +1360,7 @@ Claim Timestamp: 00:04:50
 Claim: Host asserts that Cernovich's tweets confirmed her and Charlie's contemporaneous experience of the same shift.
 
 Anchored Artifacts: A-1271.1
-Mentions: N-190
+Mentions: N-3, N-1, N-190
 
 Investigative Direction: Identify and timestamp any other contemporaneous public statements or private messages corroborating the "energy shift" framing.
 
@@ -1381,7 +1381,7 @@ Investigative Direction: Obtain archived copy of original Kanye tweet from indep
 
 **C-1497** Scott Adams characterized Kanye's tweet as reality-altering
 
-Claim Timestamp: 00:07:00–00:09:05
+Claim Timestamp: 00:08:40
 
 Claim: Scott Adams, in commentary played on air, stated Kanye "ripped a hole in reality with seven words" and "freed a lot of people from a mental prison."
 
@@ -1394,7 +1394,7 @@ Investigative Direction: Locate and timestamp original Scott Adams video; verify
 
 **C-1498** Candace stated in the December 2018 UK Q&A that Hitler was not a nationalist
 
-Claim Timestamp: 00:14:35–00:17:00
+Claim Timestamp: 00:18:00
 
 Claim: In audio played on air, Candace states Hitler "was a national socialist" but argues he was not a nationalist because "he wanted to globalize."
 
@@ -1420,7 +1420,7 @@ Investigative Direction: Verify whether Mikey McCoy himself has publicly corrobo
 
 **C-1500** Andrew Kolvet states Mikey McCoy was capturing social video, not on the phone, at the moment of the shot
 
-Claim Timestamp: 00:39:46–00:44:30
+Claim Timestamp: 00:41:12
 
 Claim: Kolvet states Mikey was taking social-video clips for the TPUSA group chat at the time of the shot, with the phone in his hand only as he covered his ears due to the loud blast.
 
@@ -1435,7 +1435,7 @@ Investigative Direction: Obtain the full video clip from which Kolvet's narratio
 
 Claim Timestamp: 00:46:30–00:48:30
 
-Claim: In Breitbart audio played on air, Alex Marlow characterizes suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as "vile" and likens the mindset fueling such claims to drug or pornography addiction.
+Claim: In a clip the host plays from the Charlie Kirk show, Breitbart News head Alex Marlow characterizes the suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as "vile" and likens the mindset fueling such claims to social-media or pornography addiction, saying they get a high off it.
 
 Anchored Artifacts: A-1276.1
 Mentions: N-191, N-192
@@ -1459,9 +1459,9 @@ Investigative Direction: Identify date and outlet of Turk's full segment; confir
 
 **C-1503** A UVU Hospital internal message restricted access to a Charlie Kirk trauma file to two named individuals
 
-Claim Timestamp: 00:32:30–00:35:00
+Claim Timestamp: 00:34:15
 
-Claim: Host displays a UVU Hospital internal message dated September 10, 2025 (received per host at 20:08) instructing staff that only "Deborah" and "Jacob Blank" are allowed to access the trauma-patient chart.
+Claim: Host displays a hospital internal message (received per host at 20:08; she later says she meant Utah Valley Hospital, not UVU) stating that, due to a media event that led to a trauma patient, only "Deborah" and the sender, "Jacob Blank," are allowed in the chart.
 
 Anchored Artifacts: A-1278.1
 Mentions: N-1, N-198
@@ -1475,7 +1475,7 @@ Investigative Direction: Obtain independent verification of the message (forensi
 
 Claim Timestamp: 00:32:30–00:35:00
 
-Claim: Host asserts that tipsters from UVU medical staff have confirmed that Charlie was admitted/entered into UVU's system, and that the internal memo at A-1278.1 corroborates the file's existence there.
+Claim: The host says she received tips that Charlie was at UVU and an email from someone on the UVU medical staff saying they were certain he was there, with his entry in the UVU system and an internal message restricting access to the file (A-1278.1), while saying there could be a logical explanation she has not found; she later corrects UVU to Utah Valley Hospital.
 
 Anchored Artifacts: A-1278.1
 Mentions: N-1
@@ -1492,7 +1492,7 @@ Claim Timestamp: 00:23:30–00:24:30
 Claim: George Webb states on air that Rob McCoy has a "strange military background" and was guiding Charlie toward a NAR-aligned apostolic movement; host asserts Rob McCoy's father Roy Edgar McCoy was a naval captain and assistant chief of staff for psychological warfare in the Navy.
 
 Anchored Artifacts: A-1279.1, A-1282.1
-Mentions: N-17, N-197, N-199
+Mentions: N-1, N-17, N-197, N-199
 Related Nodes: N-10197
 
 Investigative Direction: Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources.
@@ -1501,12 +1501,12 @@ Investigative Direction: Obtain Roy Edgar McCoy's official Navy service record; 
 
 **C-1506** The McCoy orbit is tied to the NAR-aligned Ziklag donor network
 
-Claim Timestamp: 00:23:30–00:24:30
+Claim Timestamp: 00:24:50
 
-Claim: George Webb states on air that Rob McCoy was connected to the New Apostolic Reformation (NAR) donor network Ziklag, described as "$25 million and above" Christian-right donors.
+Claim: In a clip the host plays, George Webb says Rob McCoy is "kind of the NAR push for Charlie," that Charlie was meeting with NAR, and that NAR were the "$25 million and above" Christian-right donors, the organization being Ziklag.
 
 Anchored Artifacts: A-1279.1
-Mentions: N-17, N-199
+Mentions: N-1, N-17, N-199
 Related Nodes: N-10197
 
 Investigative Direction: Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events.
@@ -1515,7 +1515,7 @@ Investigative Direction: Obtain independent verification of Ziklag's donor list 
 
 **C-1507** Brigitte Macron is registered on French tax forms as "Jean Michelle" male
 
-Claim Timestamp: 00:57:30–00:59:30
+Claim Timestamp: 00:57:00
 
 Claim: The host says Brigitte Macron is listed on French tax forms as Jean Michelle and as male, and cites a government official, Mr. Bromet, who recounted that she was stunned to learn her legal name had been changed when she logged into her personal tax account.
 
@@ -1584,7 +1584,7 @@ Investigative Direction: Obtain on-screen citations from the Macron segment.
 
 Claim Timestamp: 00:29:00
 
-Claim: The host says the doctor who worked on Charlie was Dr. Lee Trotter, who did his residency at Keesler Air Force Base's medical center in Mississippi, and that she thinks he might be in the Air Force and is a pilot, though she cannot confirm it.
+Claim: The host says the doctor who worked on Charlie was Dr. Lee Trotter, who did his residency at Keesler Air Force Base's medical center in Mississippi, that she thinks he might be in the Air Force though she cannot confirm it entirely, and that a person matching him is for a fact a pilot.
 
 Anchored Artifacts: A-1278.1
 Mentions: N-196, N-1
@@ -2229,7 +2229,7 @@ Transcript Snippet: I remember&nbsp; speaking at their conferences and saying th
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10000
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Find video of those conference appearances for the exact phrasing.
 
 ---
@@ -2261,7 +2261,7 @@ Transcript Snippet: He has two sons that&nbsp; are in the military fly planes as
 Anchored Artifacts: A-1282.1
 Mentions: N-3, N-7
 Related Nodes: N-10197
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Check Turek's public statements about his family's service.
 
 ---
@@ -2375,11 +2375,11 @@ Investigative Direction: Identify the episode of Rose's show and guest.
 
 ---
 
-**C-12195** Host Says the Accuser Then Attacked Her and Tucker Carlson
+**C-12195** Host Says the Accuser's Lawyer Then Attacked Her and Tucker Carlson
 
 Claim Timestamp: 00:27:02
 
-Claim: The host says the woman who was one of Andrew Tate's accusers then attacked her and Tucker Carlson.
+Claim: The host says the woman Lila Rose had on her show, a lawyer for one of Andrew Tate's accusers, then attacked her and Tucker Carlson.
 
 Transcript Snippet: that woman then attacked&nbsp;&nbsp; me and Tucker Carlson.
 
@@ -2409,7 +2409,7 @@ Investigative Direction: Search newspaper archives for the incident and the fami
 
 Claim Timestamp: 00:27:52
 
-Claim: The host says that when you look, everyone is somehow attached to what the transcript renders "Raytheon", presumably Raytheon, naming MrBeast among them.
+Claim: The host says that when you look, everyone is somehow attached to Raytheon, naming MrBeast among them.
 
 Transcript Snippet: everyone's somehow attached to&nbsp; Raytheon, right? Mr. Beast, they're all attached to&nbsp;&nbsp; Raytheon in one way or the other.
 
@@ -2425,7 +2425,7 @@ Investigative Direction: Ask the host which Raytheon connections she means and v
 
 Claim Timestamp: 00:28:12
 
-Claim: The host says that everyone can acknowledge the public was lied to about the .30-06 (the "306") account of the shooting.
+Claim: The host says she thinks we can all acknowledge that the public was lied to about the .30-06 (the "306").
 
 Transcript Snippet: we were lied to about the 306, right?
 
@@ -2516,7 +2516,7 @@ Investigative Direction: Check Air Force or Reserve records and FAA airman regis
 
 ---
 
-**C-12204** Host Says Charlie Told Her in a Dream to Look Into the Medical Examiner
+**C-12204** Host Says Charlie Told Her in a Dream to Look Into the Medical Examiner, Dr. Deirdre Amaro
 
 Claim Timestamp: 00:29:48
 
@@ -2532,7 +2532,7 @@ Investigative Direction: This is a reported dream and cannot be checked; look fo
 
 ---
 
-**C-12205** Host Says Medical Examiner Weiss Amaro Is a Major in the Army
+**C-12205** Host Says Medical Examiner Deirdre Amaro Is a Major in the Army
 
 Claim Timestamp: 00:29:51
 
@@ -2548,7 +2548,7 @@ Investigative Direction: Check Army Reserve or Medical Corps listings for the me
 
 ---
 
-**C-12206** Host Says Weiss Amaro Is From the Ericson Family and Claims Descent From Leif Erikson
+**C-12206** Host Says Deirdre Amaro Is From the Ericson Family and Claims Descent From Leif Erikson
 
 Claim Timestamp: 00:29:57
 
@@ -2567,7 +2567,7 @@ Investigative Direction: Check the examiner's public biography and genealogical 
 
 Claim Timestamp: 00:30:38
 
-Claim: The host says that the military-industrial complex that Eisenhower warned of shot JFK to maintain power and has created a veneer of reality for the public.
+Claim: The host says she thinks the military-industrial complex that Eisenhower warned of shot JFK to maintain power and has created a veneer of reality for the public.
 
 Transcript Snippet: the military-industrial complex&nbsp;&nbsp; that shot JFK to maintain power has created a&nbsp; veneer um of reality for us
 
@@ -2853,13 +2853,13 @@ Investigative Direction: Look at TPUSA social media from earlier events for behi
 
 ---
 
-**C-12225** Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sarah Schmackenberger
+**C-12225** Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sara Schmachtenberger
 
 Claim Timestamp: 00:42:56
 
-Claim: The host says that before Mikey McCoy did the behind-the-scenes video role, it was done by a person she names Sarah Schmackenberger (spelling as transcribed).
+Claim: The host says that before Mikey McCoy did the behind-the-scenes video role, it was done by Sara Schmachtenberger.
 
-Transcript Snippet: Before Mikey McCoy did this, it was Sarah&nbsp;&nbsp; Schmackenberger.
+Transcript Snippet: Before Mikey McCoy did this, it was Sarah&nbsp;&nbsp; Schmachtenberger.
 
 Anchored Artifacts: 
 Mentions: N-3, N-191

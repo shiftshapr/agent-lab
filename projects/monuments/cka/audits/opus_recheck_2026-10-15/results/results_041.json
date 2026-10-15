@@ -1,0 +1,756 @@
+[
+ {
+  "claim": "C-9608",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'they' refers to the TPUSA individuals discussed from 21:44 (McCoy, Bowyer).",
+  "fix": {}
+ },
+ {
+  "claim": "C-9609",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9610",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only Matt Walsh; Allie Beth Stuckey (N-228) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-164"
+   ]
+  }
+ },
+ {
+  "claim": "C-9611",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9612",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9613",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9614",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9615",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9616",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9617",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9618",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9619",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9620",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9621",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9622",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9623",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9624",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9625",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9626",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Earlier at 23:54 the host says 'Alex Clark wanted to do the Wall Street Journal thing', confirming the 'she' is Clark.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9627",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9628",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9629",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9630",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9631",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9632",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9633",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9634",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: 'the reason why Charlie wanted a Dodge as she did. Oh, we do this every No, you don't do a Dodge every year.' The 'every year' is Clark's framing of a recurring practice, not that Charlie wanted one every year.",
+  "fix": {
+   "claim": "The host says Alex Clark's account of why Charlie wanted a DOGE, that they do one every year, cannot be right because DOGE did not exist before Elon Musk."
+  }
+ },
+ {
+  "claim": "C-9635",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9636",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9637",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9638",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9639",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9640",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9641",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9642",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9643",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9644",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name or refer to Erika Kirk (N-2); she appears only in the snippet ('It wasn't just Erika').",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-9645",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9646",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1636",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'In Florida' supported by host at 02:12: 'she had a tour stop in Florida.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-1637",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1638",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1639",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1640",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'hosted by Lauren Chen' is the host's own statement, not in the HuffPost text ('joined Fuentes on X for a live audio chat room'). Article is read in the 12:33 block (~12:50-14:00), before 14:04. Label misspells Boreing.",
+  "fix": {
+   "claim": "According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on X for a live audio chat room, praised Fuentes as \"very funny\" and \"one of the most talented political influencers,\" and offered only mild criticism; the host says the X Space was hosted by Lauren Chen.",
+   "label": "HuffPost Report: Boreing Praised Fuentes on X Space",
+   "timestamp": "00:12:50"
+  }
+ },
+ {
+  "claim": "C-1641",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Label misspells Jeremy Boreing as 'Boring' (transcription spelling).",
+  "fix": {
+   "label": "Boreing Invited Fuentes Onto Daily Wire Shows"
+  }
+ },
+ {
+  "claim": "C-1642",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript: 'he's using a Game of Thrones reference... he is sending his incestuous brother to go try and kill us.' Claim drops that it was a Game of Thrones reference.",
+  "fix": {
+   "claim": "In text messages the host reads between herself and Charlie Kirk, Kirk tells her she is bigger than Ben Shapiro now, says they have to treat him like noise, that, in a Game of Thrones reference, Shapiro is sending his \"incestuous brother\" to go try and kill them, and that he views Owens as Kirk's \"slave 100%\"; the host separately says Shapiro was going on people's shows talking down about her and Kirk and sent his YAF boys and National Review peeps after them."
+  }
+ },
+ {
+  "claim": "C-1643",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Ariana's surname not given in window; N-236 consistent.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1644",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1645",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1646",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1647",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim names 'President Trump' but no Donald Trump id is in the episode person list; Mentions left empty.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1648",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The Israel-first tweet is read at ~01:46 in the 01:13 block; 02:12 is ~26s after.",
+  "fix": {
+   "timestamp": "00:01:41"
+  }
+ },
+ {
+  "claim": "C-1649",
+  "episode": 28,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host presents these as tweets she shows ('this was a real tweet directed at Ron Paul... And this is another tweet'); claim states the posting as fact rather than per the tweets shown.",
+  "fix": {
+   "claim": "Per tweets the host shows, Ben Shapiro previously posted tweets containing imagery of Ron Paul \"leaning forward from the grave and strangling the Jews\" and \"gripping the pen as he would the neck of a Jew.\""
+  }
+ },
+ {
+  "claim": "C-1650",
+  "episode": 28,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The exchange comes from a Shapiro clip the host plays ('So, I texted him and I said...'); claim states it as fact. Charlie Kirk (N-1) is not named in the claim.",
+  "fix": {
+   "claim": "In a clip the host plays, Ben Shapiro says he texted Tucker Carlson proposing a joint show on the \"DSA threat,\" that Carlson replied he would spend \"the next week or two\" thinking about how to be most effective, and that his repeated outreach afterward went unanswered.",
+   "mentions": [
+    "N-22",
+    "N-97"
+   ]
+  }
+ },
+ {
+  "claim": "C-1651",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'a couple of days after Charlie was killed. First interview I was giving' is spoken ~33:13 in the 32:51 block, before the 33:44 start.",
+  "fix": {
+   "timestamp": "00:33:08"
+  }
+ },
+ {
+  "claim": "C-9647",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Shapiro pressuring Kelly to disavow Owens and Carlson is background, not the assassination or its central figures.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-9648",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9649",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9650",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9651",
+  "episode": 28,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

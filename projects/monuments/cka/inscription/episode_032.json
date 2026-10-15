@@ -1755,7 +1755,7 @@
       "@id": "C-1697",
       "ref": "C-1697",
       "label": "Brett Cooper Says Jamie Spears Tithed Approximately 10% of Conservatorship Income to Calvary Chapel Brentwood",
-      "claim": "In a clip the host plays, Brett Cooper says, citing a 2010 financial document, that Mr. Spears at times gave 10% of his conservatorship income to Calvary Chapel Brentwood, and \"tens of thousands of dollars\" in one year.",
+      "claim": "In a clip the host plays, Brett Cooper reads that Mr. Spears at times gave 10% of his conservatorship income to Calvary Chapel Brentwood, and that according to a 2010 financial document he gave \"tens of thousands of dollars\" in one year.",
       "anchored_artifacts": [
         "A-1399.2",
         "A-1403.1"
@@ -1874,7 +1874,7 @@
       "@id": "C-1703",
       "ref": "C-1703",
       "label": "Courtney Love Claims She Was Experimented on at Haight-Ashbury Clinic as a Toddler",
-      "claim": "Per Courtney Love text messages to host (Jan 2025), she was given LSD as a toddler at the Haight-Ashbury Clinic during the era of CIA mass experimentation on hippies.",
+      "claim": "The host says Courtney Love told her in messages (Jan 2025) that she was experimented on as a toddler at the Haight-Ashbury Clinic and was given LSD; the host describes this as the era when the CIA was dosing hippies in mass experimentation.",
       "anchored_artifacts": [
         "A-1406.1"
       ],
@@ -1893,7 +1893,7 @@
       "@id": "C-1704",
       "ref": "C-1704",
       "label": "Courtney Love Claims She Did Not Kill Kurt Cobain",
-      "claim": "Per Courtney Love text messages (Jan 2025), she states she did not kill Kurt Cobain and that his death was a \"psychological operation\" intended to redirect public attention away from CIA activity.",
+      "claim": "The host says Courtney Love told her in messages (Jan 2025): \"I did not kill Kurt Cobain. That was a part of a psychological operation to make the masses look away from what the CIA was guilty of.\"",
       "anchored_artifacts": [
         "A-1406.1"
       ],
@@ -2043,7 +2043,7 @@
       "@id": "C-1712",
       "ref": "C-1712",
       "label": "Butch Hibbs Lingered in Background During Post-Shooting Media Interview",
-      "claim": "Per video clip played on air, Butch Hibbs remained in the background during another individual's media interview at the scene after the Kirk shooting.",
+      "claim": "The host says that in a clip she plays, recorded at the scene after the Kirk shooting, Butch Hibbs lingers in the background while another individual is interviewed by the media, \"almost as if he wants to know what that person is telling the media.\"",
       "anchored_artifacts": [
         "A-1411.1"
       ],
@@ -2079,7 +2079,7 @@
       "@id": "C-1714",
       "ref": "C-1714",
       "label": "Wall Street Journal Repeated \"Heir Ali\" / \"Heir Apparent\" Framing for TPUSA",
-      "claim": "Per host reference, Wall Street Journal repeated the \"heir apparent\" framing of TPUSA succession.",
+      "claim": "The host says the Wall Street Journal repeated the \"heir apparent\" framing of Allie Beth Stuckey for TPUSA.",
       "anchored_artifacts": [
         "A-1413.1"
       ],
@@ -2314,6 +2314,7 @@
       "mentions_person_refs": [
         "N-222",
         "N-251",
+        "N-253",
         "N-874"
       ]
     },
@@ -2368,7 +2369,7 @@
       "@id": "C-10848",
       "ref": "C-10848",
       "label": "Host Says Two More Former Lou Taylor Associates Described a Mandatory Tithing System",
-      "claim": "The host says two other people who worked with Lou Taylor contacted her and described a system where clients had to give 10 percent to the church to be blessed and were directed to invest in companies without Taylor disclosing her involvement.",
+      "claim": "The host says two other people who worked with Lou Taylor contacted her and described a system where clients had to give 10 percent to the church to be blessed and were directed to invest in other companies without necessarily being told that they were involved in those companies.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11276",
@@ -2556,7 +2557,7 @@
       "@id": "C-10856",
       "ref": "C-10856",
       "label": "Host Says Britney and Kanye Were Put on 5150 Holds and Kim Kardashian Was Fine With It",
-      "claim": "The host says Britney Spears was put on a psych 5150 hold and that Kanye West, after reading a Bible, was put in a hospital on a psych 5150 hold with his then-wife Kim Kardashian apparently fine with it.",
+      "claim": "The host says Britney Spears was put on a psych 5150 hold and that Kanye West, who she says said he was just reading a Bible, was put in a hospital on a psych 5150 hold, with his then-wife Kim Kardashian, she guesses, fine with it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11275",
@@ -2851,7 +2852,7 @@
       "@id": "C-10869",
       "ref": "C-10869",
       "label": "Host Says Spencer Pratt Showed the Malibu Fires Were a Government Conspiracy",
-      "claim": "The host says she has not looked into cloud seeding or the Malibu home fires but thinks Spencer Pratt did fantastic work showing it was a government conspiracy, followed by buying property cheaply.",
+      "claim": "The host says she has not looked into cloud seeding or the Malibu home fires but thinks Spencer Pratt did fantastic work showing it was a government conspiracy, which she says feels right to her, like natural disasters followed by buying property dirt cheap.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3211,7 +3212,7 @@
       "@id": "C-10886",
       "ref": "C-10886",
       "label": "Host Says Many TPUSA Lies Centered on Faith, Including That Kirk Could Not Be Catholic",
-      "claim": "The host says many Turning Point USA lies she debunked concern faith, such as that he was not allowed to be Catholic or interested in Catholicism.",
+      "claim": "The host says many Turning Point USA lies she debunked concern faith, such as that Charlie Kirk was not allowed to be Catholic or interested in Catholicism.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10251",
@@ -3225,7 +3226,8 @@
       "investigative_direction": "List the specific TPUSA statements about Kirk's Catholic interest and compare with evidence.",
       "transcript_snippet": "so many of them surround the topic of faith, which is very strange. Like he wasn't allowed to be Catholic. he wasn't allowed to be interested in Catholicism.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -3275,8 +3277,8 @@
       "@type": "Claim",
       "@id": "C-10889",
       "ref": "C-10889",
-      "label": "Host Agrees the Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers",
-      "claim": "Reading a viewer comment, the host says US troops guarded the poppy fields in Afghanistan, then an opioid crisis came, and the Sackler family seems to be the only ones who benefited.",
+      "label": "Viewer Comment Says Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers",
+      "claim": "A viewer comment the host reads says the fentanyl crisis is by design, allegedly, that US troops guarded the poppy fields in Afghanistan, then an opioid crisis came, and the Sackler family seems to be the only ones who benefited.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11223"

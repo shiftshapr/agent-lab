@@ -742,7 +742,7 @@ Existing node reused in this episode.
 
 ---
 
-**N-10378** Andrew Kolbet Coordination with Attackers of Mitch Snow
+**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Existing node reused in this episode.
 

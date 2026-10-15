@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T11:43:26Z",
+  "generated_at": "2026-10-15T16:48:16Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -1358,7 +1358,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10027",
-      "label": "Host says Charlie allegedly trained McCoy what to do",
+      "label": "Host Mocks McCoy Call Order Against Charlie's Alleged Training",
       "node_kind": "claim",
       "episode": 68
     },
@@ -2023,14 +2023,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10122",
-      "label": "Host Says Lich's Husband or Fiance Was Also Fired From TPUSA",
+      "label": "Host Says Laitsch's Husband or Fiance Was Also Fired From TPUSA",
       "node_kind": "claim",
       "episode": 72
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10123",
-      "label": "Host Says the Man Photographing Lich's Home Delivered No Documents",
+      "label": "Host Says the Man Photographing Laitsch's Home Delivered No Documents",
       "node_kind": "claim",
       "episode": 72
     },
@@ -6748,14 +6748,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10797",
-      "label": "Host plays Deborah Lee saying Charlie Kirk was her first mentor in the space",
+      "label": "Host plays Debra Lea saying Charlie Kirk was her first mentor in the space",
       "node_kind": "claim",
       "episode": 13
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10798",
-      "label": "Host plays Deborah Lee asking Netanyahu about losing evangelical support",
+      "label": "Host plays Debra Lea asking Netanyahu about losing evangelical support",
       "node_kind": "claim",
       "episode": 13
     },
@@ -7392,7 +7392,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10889",
-      "label": "Host Agrees the Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers",
+      "label": "Viewer Comment Says Opioid Crisis Followed Guarding Afghan Poppy Fields and Benefited the Sacklers",
       "node_kind": "claim",
       "episode": 32
     },
@@ -12992,7 +12992,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1164",
-      "label": "Charlie Kirk wrote letter to Netanyahu in May",
+      "label": "Host Mocks Portrayal of Kirk's May Letter to Netanyahu as Glowing",
       "node_kind": "claim",
       "episode": 3
     },
@@ -13531,7 +13531,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1171",
-      "label": "Unusual traffic observed at residence pre-shooting",
+      "label": "Host Relays Rumor of Unusual Traffic at Residence Before Shooting",
       "node_kind": "claim",
       "episode": 3
     },
@@ -14686,7 +14686,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1186",
-      "label": "Photo of Robinson at Dairy Queen at 6:38 p.m.",
+      "label": "Host Shows Photo Allegedly of Robinson at Dairy Queen at 6:38 p.m.",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15561,7 +15561,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11973",
-      "label": "Host Says Zionists Began Circling Kirk to Control Things Around the Previous September",
+      "label": "Host Says Zionists Began Circling Kirk to Control Things Around September",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15687,7 +15687,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1199",
-      "label": "Sherry Steel cannot be verified in building databases",
+      "label": "Host Says She Cannot Find Sherry Steel in the Building Complex",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15918,7 +15918,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1202",
-      "label": "Feds pressured locals not to release footage",
+      "label": "Host Says Locals Told Her Feds Pressured Them Not to Release Footage",
       "node_kind": "claim",
       "episode": 5
     },
@@ -16198,7 +16198,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12056",
-      "label": "Host Says Authorities Have Clear Footage of the Roof Figure They Did Not Release",
+      "label": "Host Says Authorities Have Clear Footage of the Person They Did Not Release",
       "node_kind": "claim",
       "episode": 8
     },
@@ -16457,7 +16457,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1209",
-      "label": "Behind-shot footage shown to host contained no blood",
+      "label": "Host Says Behind-Shot Footage Shown to Her Contained No Blood",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17227,7 +17227,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1219",
-      "label": "Host Says Victoria Churchill Has APAC Connection",
+      "label": "Host Says Victoria Churchill Has AIPAC Connection",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17269,7 +17269,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12195",
-      "label": "Host Says the Accuser Then Attacked Her and Tucker Carlson",
+      "label": "Host Says the Accuser's Lawyer Then Attacked Her and Tucker Carlson",
       "node_kind": "claim",
       "episode": 20
     },
@@ -17339,21 +17339,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12204",
-      "label": "Host Says Charlie Told Her in a Dream to Look Into the Medical Examiner",
+      "label": "Host Says Charlie Told Her in a Dream to Look Into the Medical Examiner, Dr. Deirdre Amaro",
       "node_kind": "claim",
       "episode": 20
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12205",
-      "label": "Host Says Medical Examiner Weiss Amaro Is a Major in the Army",
+      "label": "Host Says Medical Examiner Deirdre Amaro Is a Major in the Army",
       "node_kind": "claim",
       "episode": 20
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12206",
-      "label": "Host Says Weiss Amaro Is From the Ericson Family and Claims Descent From Leif Erikson",
+      "label": "Host Says Deirdre Amaro Is From the Ericson Family and Claims Descent From Leif Erikson",
       "node_kind": "claim",
       "episode": 20
     },
@@ -17381,7 +17381,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1221",
-      "label": "Host Says Kirk Tweet Called Milgram and Lischinsky Beautiful People",
+      "label": "Host Says Kirk Tweet Called Milgrim and Lischinsky Beautiful People",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17500,7 +17500,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12225",
-      "label": "Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sarah Schmackenberger",
+      "label": "Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sara Schmachtenberger",
       "node_kind": "claim",
       "episode": 20
     },
@@ -17535,7 +17535,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1223",
-      "label": "Candace spoke at TPUSA conferences last year",
+      "label": "Host Says She Spoke at TPUSA Conferences Last Year",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17612,7 +17612,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1224",
-      "label": "FBI released text chain between Robinson and Lance",
+      "label": "Host Calls Robinson-Lance Text Chain Made Up",
       "node_kind": "claim",
       "episode": 6
     },
@@ -18340,7 +18340,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12334",
-      "label": "Host Mocks the 33 Numerology Claims and Says Those Behind the Killing Communicate With Numerology",
+      "label": "Host Says 33 Numerology Signals Show a High-Level Assassination",
       "node_kind": "claim",
       "episode": 23
     },
@@ -19131,7 +19131,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12437",
-      "label": "Host Says Three Men Sat Alone in Maroon After the Shot",
+      "label": "Host Says Three Men Shown Alone in Maroon After the Shot",
       "node_kind": "claim",
       "episode": 42
     },
@@ -19845,7 +19845,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1253",
-      "label": "Eyewitness tells FBI shooter was in tactical gear, not jeans",
+      "label": "Eyewitness Says Shooter Wore Tactical Gear, Not Jeans",
       "node_kind": "claim",
       "episode": 8
     },
@@ -20181,14 +20181,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12573",
-      "label": "Host Says Her Military Sources Describe a Deal That Leaves People on Bases Immune to Prosecution",
+      "label": "Host Says a Deal Between Governments Leaves Military People on Bases Immune to Prosecution",
       "node_kind": "claim",
       "episode": 56
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12574",
-      "label": "Host Says Her Sources Describe Bases Sending a Woman Recruiter Posing as a Casting Director",
+      "label": "Host Says People She Asked Describe Bases Sending a Woman Recruiter Posing as a Casting Director",
       "node_kind": "claim",
       "episode": 56
     },
@@ -20503,7 +20503,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12615",
-      "label": "Host Cites Radio Speaker Saying Nephilim Could Be Reconstituted in a Body and Nimrod Equals Gilgamesh",
+      "label": "In a Played Radio Clip, Tom Horn Says Nephilim Could Be Reconstituted in a Body and Some Identify Nimrod as Gilgamesh",
       "node_kind": "claim",
       "episode": 69
     },
@@ -20657,7 +20657,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12635",
-      "label": "Host Says Erika Told Her Mikey Called Within Seconds",
+      "label": "Host Says Erika Said Mikey Called Within Seconds",
       "node_kind": "claim",
       "episode": 69
     },
@@ -20671,7 +20671,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12637",
-      "label": "Host Says Erika Could Not Say Whether Kolvet's Wife Was Aboard and TPUSA Later Said She Was",
+      "label": "Host Says Erika Could Not Say Whether Kolvet's Wife Was Aboard and She Was Later Told the Wife Was",
       "node_kind": "claim",
       "episode": 69
     },
@@ -22771,7 +22771,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1291",
-      "label": "Second rooftop witness gave footage to Orem Police Department on day one; feds did not contact him until September 15",
+      "label": "Second Rooftop Witness Gave Footage to Orem Police Department; Feds Did Not Contact Him Until September 15",
       "node_kind": "claim",
       "episode": 10
     },
@@ -22848,7 +22848,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1292",
-      "label": "Charlie Kirk characterized weekend retreat pressure as 'moral blackmail'",
+      "label": "DuRousseau Says Charlie Kirk Used the Phrase 'Moral Blackmail' in a Workshop Setting",
       "node_kind": "claim",
       "episode": 10
     },
@@ -22925,7 +22925,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1293",
-      "label": "Emily's August 6 Hamptons Instagram post contradicts Xavier Deruso's safety-based secrecy claim",
+      "label": "Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim",
       "node_kind": "claim",
       "episode": 10
     },
@@ -23387,7 +23387,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1299",
-      "label": "Brooksby received a phone call about the shooter at 8:02 p.m. on the 11th from a retired detective friend",
+      "label": "Brooksby Says a Retired Friend Called at 8:02 p.m. Saying He Knew Who the Shooter Was",
       "node_kind": "claim",
       "episode": 11
     },
@@ -23926,7 +23926,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1306",
-      "label": "The suicidal-ideation and fear-of-being-shot accounts are mutually exclusive",
+      "label": "Host Says Brooksby's Suicidal-Ideation Account Confusingly Conflicts With Her Source",
       "node_kind": "claim",
       "episode": 11
     },
@@ -24542,7 +24542,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1314",
-      "label": "Phil Lyman showed up at \"Nick's\" home uninvited and asked questions about the host's investigation",
+      "label": "Phil Lyman Asked for Nick's Address, Came to His Home and Asked About the Host's Investigation",
       "node_kind": "claim",
       "episode": 11
     },
@@ -26306,7 +26306,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1337",
-      "label": "Host Says Woman Was Seen With Shooter on Nearby Houses' Doorbell-Camera Footage",
+      "label": "Host Says Woman Was Seen With Shooter in Footage From Nearby Houses",
       "node_kind": "claim",
       "episode": 13
     },
@@ -26845,7 +26845,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1344",
-      "label": "Host Says Netanyahu Met on Camera With US Social-Media Influencer Deborah Lee",
+      "label": "Host Says Netanyahu Met on Camera With US Social-Media Influencer Debra Lea",
       "node_kind": "claim",
       "episode": 13
     },
@@ -26999,7 +26999,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1346",
-      "label": "Netanyahu described social media as the \"weapons of the battlefield\" of the influence fight",
+      "label": "Netanyahu Calls Social Media the Most Important Battlefield in Clip Host Plays",
       "node_kind": "claim",
       "episode": 13
     },
@@ -27384,7 +27384,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1351",
-      "label": "The FBI recently cut ties with the ADL after Turning Point USA criticism, and the FBI and ADL share a building",
+      "label": "Viewer Comment Says FBI Cut Ties With ADL and the Two Share a Building",
       "node_kind": "claim",
       "episode": 13
     },
@@ -27762,7 +27762,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13559",
-      "label": "Host Says a File Was Presented With a Do-This-or-Else Message",
+      "label": "Host Says She Never Alleged a File Was Presented With a Do-This-or-Else Message",
       "node_kind": "claim",
       "episode": 3
     },
@@ -27867,7 +27867,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13572",
-      "label": "Kirk Says on the Clip There Was Another Article About Him in the Times of Israel That Day",
+      "label": "Kirk Says on the Clip There Was Another Article in the Times of Israel That Day",
       "node_kind": "claim",
       "episode": 3
     },
@@ -28672,7 +28672,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13677",
-      "label": "Host Says She Hired More Security the Week of Aug 30",
+      "label": "Host Says She Hired More Security That Very Week",
       "node_kind": "claim",
       "episode": 9
     },
@@ -29365,7 +29365,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13767",
-      "label": "Host Says Not Contacting Both Witnesses Until September 15 Looks Like a Cover-Up",
+      "label": "Host Says Not Contacting the Two Rooftop Witnesses Looks Like a Cover-Up",
       "node_kind": "claim",
       "episode": 10
     },
@@ -30016,7 +30016,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13851",
-      "label": "Host Says McEnany Put Lyman's Parking at 11:30 and the Footage at 11:49, 19 Minutes Apart, While Lyman Says About 10 Minutes",
+      "label": "McEnany Clip Puts Lyman's Parking at 11:30 and the Footage at 11:49, While Lyman Says About 10 Minutes",
       "node_kind": "claim",
       "episode": 11
     },
@@ -30772,7 +30772,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1395",
-      "label": "Mappin letter: Mappins helped facilitate Turning Point UK",
+      "label": "Host Says Mappin Was the Donor Behind the First Turning Point UK Event",
       "node_kind": "claim",
       "episode": 16
     },
@@ -30842,7 +30842,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13959",
-      "label": "Host Says TPUSA and McCoy Have Issued No Statement or Call Log",
+      "label": "Host Says McCoy and Kolvet Have Issued No Statement",
       "node_kind": "claim",
       "episode": 19
     },
@@ -31290,7 +31290,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14017",
-      "label": "Host Says Terryl Farnsworth Lied to Her Several Times About the Cameras",
+      "label": "Host Says Terryl Farnsworth Lied to Her Several Times",
       "node_kind": "claim",
       "episode": 47
     },
@@ -31465,14 +31465,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1404",
-      "label": "Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025",
+      "label": "Host Says Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025",
       "node_kind": "claim",
       "episode": 17
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14040",
-      "label": "Host Says the Third Person Mikey Added Was Danny McCoy, His Brother in the Military",
+      "label": "Host Mentions Danny McCoy, Mikey's Brother in the Military, in the Call Log",
       "node_kind": "claim",
       "episode": 47
     },
@@ -31563,7 +31563,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14052",
-      "label": "Host Says TPUSA-Side Attacks Read Like Candace Owens Fan Fiction and Mean She Is Close",
+      "label": "Host Says Attacks on Her Read Like Candace Owens Fan Fiction and Mean She Is Close",
       "node_kind": "claim",
       "episode": 47
     },
@@ -31710,14 +31710,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14071",
-      "label": "Clip Speaker Theorizes George Zin Was a Decoy Who Knew of the Plan",
+      "label": "Clip Speaker Theorizes George Zinn Was a Decoy Who Knew of the Plan",
       "node_kind": "claim",
       "episode": 47
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14072",
-      "label": "Host Says She Broke the Story That Zin Told Utah Valley Nurses He Was Paid",
+      "label": "Host Says She Broke the Story That Zinn Told Utah Valley Nurses He Was Paid",
       "node_kind": "claim",
       "episode": 47
     },
@@ -31773,7 +31773,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1408",
-      "label": "Josh Hammer Did Not, in His Media Discussion of Iryna Zhuravska, Advocate the Death Penalty",
+      "label": "Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zhuravska Commentary",
       "node_kind": "claim",
       "episode": 17
     },
@@ -31850,7 +31850,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1409",
-      "label": "Matt Walsh Posted an X Post Calling for \"Public Execution\" on September 5, 2025",
+      "label": "Host Shows Matt Walsh Post Calling for \"Public Execution\" After the Iryna Footage",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32004,7 +32004,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1411",
-      "label": "Hammer's First X Post After Charlie Kirk's Death Promoted His Book",
+      "label": "Host Reads What She Says Was Hammer's First Post After Kirk's Death, Mentioning His Book",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32137,7 +32137,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14127",
-      "label": "Host Says the ADL Put Her on Its List for the Christ Is King Episode",
+      "label": "Host Says the ADL Put Her on Its List Over the Christ Is King Controversy",
       "node_kind": "claim",
       "episode": 55
     },
@@ -32389,7 +32389,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1416",
-      "label": "Alex Jones Confirmed Candace Activated a \"Kill Switch\" Distributed to Multiple Named Recipients",
+      "label": "Alex Jones Says Candace Sent a \"Dead Man Switch\" to Multiple Named Recipients",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32529,7 +32529,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14178",
-      "label": "Host Says Emailer Said Dan Flood Is Connected to Both Fort Huachuca and the Cattleman's Ball",
+      "label": "Host Says Emailer Said Dan Flood Is \"Connected to Both\" and Pointed to Flood's Father",
       "node_kind": "claim",
       "episode": 59
     },
@@ -32543,7 +32543,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1418",
-      "label": "A Letter Read Aloud on Air Asserted Critics Were \"Lying Through Their Teeth\"",
+      "label": "Hammer Post the Host Reads Says Tucker and Candace Are \"Lying Through Their Teeth\"",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32620,7 +32620,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1419",
-      "label": "Josh Hammer Posted \"Jew hatred is inherent in the European DNA\" in 2019 and Later Deleted It",
+      "label": "Host Shows Josh Hammer Post Saying \"Jew Hatred Is Inherent in the European DNA\"",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32697,7 +32697,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1420",
-      "label": "Josh Hammer Tweeted Nine Times on September 9, 2025 Before the 9:09 p.m. ET Public-Execution Retweet",
+      "label": "Host Says Josh Hammer Tweeted Nine Times on September 9 Before the 9:09 p.m. ET Public-Execution Retweet",
       "node_kind": "claim",
       "episode": 17
     },
@@ -32746,7 +32746,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14206",
-      "label": "Host Indicates the Letter Said TPUSA Does Not Intend to Sue",
+      "label": "Host Says a Cease and Desist Should Not Open With We Don't Intend to Sue",
       "node_kind": "claim",
       "episode": 59
     },
@@ -32767,35 +32767,35 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14209",
-      "label": "Kolvet Says His Drone Pilot Had Completed the FAA Steps",
+      "label": "Paramount Tactical's Gary Says His Drone Pilot Had Completed the FAA Steps",
       "node_kind": "claim",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1421",
-      "label": "Tyler Bowyer Has Made Accusatory X Posts Against Candace Owens's Coverage",
+      "label": "Host Says Tyler Bowyer's X Posts Were Sloppy and Accusatory",
       "node_kind": "claim",
       "episode": 17
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14210",
-      "label": "Kolvet Says Law Enforcement Made Him Ground the Drone at UVU",
+      "label": "Paramount Tactical's Gary Says Law Enforcement Made Him Ground the Drone at UVU",
       "node_kind": "claim",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14211",
-      "label": "Kolvet Says the Team Left Campus, Flew the Drone and Got the Survey",
+      "label": "Paramount Tactical's Gary Says the Team Left Campus, Flew the Drone and Got the Survey",
       "node_kind": "claim",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14212",
-      "label": "Kolvet Says the Circulated Picture Is a Wide-Angle Shot From a Second-Floor Walkway",
+      "label": "Paramount Tactical's Gary and Kolvet Say the Circulated Picture Is a Wide-Angle Shot From a Walkway",
       "node_kind": "claim",
       "episode": 59
     },
@@ -33005,7 +33005,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1424",
-      "label": "Host referenced Laura Loomer in closing segment",
+      "label": "Host Says Join Us in Prison When Laura Loomer Sends Us for Writing CIA in Parody",
       "node_kind": "claim",
       "episode": 17
     },
@@ -33068,7 +33068,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14248",
-      "label": "Compilation says Epstein asked Peggy Siegal whether an event would be 100% Jewish",
+      "label": "Compilation says Peggy Siegal asked Epstein whether an event would be 100% Jewish",
       "node_kind": "claim",
       "episode": 67
     },
@@ -33117,7 +33117,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14254",
-      "label": "Host says Tucker Carlson asserted that Mossad ran Epstein",
+      "label": "Clip has Ben Shapiro saying Tucker Carlson asserted that Mossad ran Epstein",
       "node_kind": "claim",
       "episode": 67
     },
@@ -33740,7 +33740,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14335",
-      "label": "Host Says Records Place This Thomas Martin With Southern Command Until at Least 2011",
+      "label": "Host Says This Thomas Martin Lived in Tucson Until at Least 2011 and Worked With Southern Command",
       "node_kind": "claim",
       "episode": 71
     },
@@ -35518,7 +35518,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14566",
-      "label": "Host Calls Zachariah Qureshi Decoy Boy Number Two After George Zin",
+      "label": "Host Calls Zachariah Qureshi Decoy Boy Number Two After George Zinn",
       "node_kind": "claim",
       "episode": 87
     },
@@ -36701,7 +36701,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1472",
-      "label": "Charlie Kirk UVU Event Clip – Friendship Exchange",
+      "label": "UVU Event Clip Shows Charlie Kirk and the Host Joking About a Sign Saying He Is Not Her Friend",
       "node_kind": "claim",
       "episode": 19
     },
@@ -37856,7 +37856,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1487",
-      "label": "Host discussed Zeb Boykin in witness / outreach context",
+      "label": "Host Credits Online Researchers for Viral September 10 Video",
       "node_kind": "claim",
       "episode": 19
     },
@@ -39697,7 +39697,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1558",
-      "label": "Host Says News Story Reports Plumber Discovered About $500,000 in Cash at Joel Osteen's Megachurch",
+      "label": "Host Says News Story Reports Plumber Found 500 Envelopes of Cash at Joel Osteen's Megachurch",
       "node_kind": "claim",
       "episode": 23
     },
@@ -39809,7 +39809,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1574",
-      "label": "Photo of Candace and Charlie Kirk Puffing Chests at Ben Shapiro's Studio",
+      "label": "Host Shows Photo of Charlie Kirk Puffing His Chest Beside Ben Shapiro",
       "node_kind": "claim",
       "episode": 24
     },
@@ -39893,7 +39893,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1586",
-      "label": "Mikey McCoy First Mic'd Charlie on the Final Asia Trip, Four Days Before 9/10",
+      "label": "Mikey McCoy Says the Final Asia Trip Was His First Time Traveling With a Camera",
       "node_kind": "claim",
       "episode": 25
     },
@@ -39956,7 +39956,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1595",
-      "label": "Grock (xAI) Characterizes Israel-Egypt Intelligence Cooperation as Unprecedented Since the 1979 Peace Treaty",
+      "label": "Viewer Comment Says Grok Calls Israel-Egypt Intelligence Cooperation Unprecedented",
       "node_kind": "claim",
       "episode": 25
     },
@@ -40012,7 +40012,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1605",
-      "label": "Host Concurs with Brett Cooper on Ted Cruz",
+      "label": "Host Says Brett Cooper Is a Voice of Gen Z Who Should Be Heard",
       "node_kind": "claim",
       "episode": 26
     },
@@ -40117,7 +40117,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1620",
-      "label": "Erika Kirk Does Not Give Direct Yes/No on Whether Caught Individual Is Sole Killer",
+      "label": "Erika Kirk Does Not Give Direct Yes/No on Whether Husband's Killer Was Caught",
       "node_kind": "claim",
       "episode": 27
     },
@@ -40257,14 +40257,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1640",
-      "label": "HuffPost Report: Boring Praised Fuentes on X Space",
+      "label": "HuffPost Report: Boreing Praised Fuentes on X Space",
       "node_kind": "claim",
       "episode": 28
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1641",
-      "label": "Boring Invited Fuentes Onto Daily Wire Shows",
+      "label": "Boreing Invited Fuentes Onto Daily Wire Shows",
       "node_kind": "claim",
       "episode": 28
     },
@@ -40348,14 +40348,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1653",
-      "label": "Lance Wallnau Defined the Seven Mountain Mandate as a Cultural Infiltration Doctrine",
+      "label": "Clip: Lance Wallnau Describes the Seven Mountain Mandate",
       "node_kind": "claim",
       "episode": 29
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1654",
-      "label": "Frank Turek Described NAR Theology as Aberrant and Occult-Like",
+      "label": "Clip Presented as Turek Calls Word of Faith Hermeneutic Aberrant and Occult-Like",
       "node_kind": "claim",
       "episode": 29
     },
@@ -40390,7 +40390,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1659",
-      "label": "Seth Dillon Tweeted Matthew 16:26 About Losing One's Soul",
+      "label": "Seth Dillon Tweeted Verse About Losing One's Soul",
       "node_kind": "claim",
       "episode": 29
     },
@@ -40446,14 +40446,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1667",
-      "label": "Ben Shapiro told Megyn Kelly's tour audience Candace accused Erica Kirk of being behind Charlie's murder",
+      "label": "Host Says Ben Shapiro Told Megyn Kelly's Tour Audience Candace Accused Erika Kirk of Being Behind Charlie's Murder",
       "node_kind": "claim",
       "episode": 30
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1668",
-      "label": "Megyn Kelly publicly stated on her tour that Candace has been defending Erica Kirk",
+      "label": "Megyn Kelly Publicly Stated on Her Tour That Candace Has Been Defending Erika Kirk",
       "node_kind": "claim",
       "episode": 30
     },
@@ -40502,7 +40502,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1675",
-      "label": "UVU Turning Point chapter formally requested Charlie Kirk as speaker on July 18",
+      "label": "UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18",
       "node_kind": "claim",
       "episode": 30
     },
@@ -40544,7 +40544,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1681",
-      "label": "Kanye West tweet asserted he was going \"defcon 3 on some Jewish people\"",
+      "label": "Host Says Kanye West's 'Death Con 3' Tweet Meant Defcon 3",
       "node_kind": "claim",
       "episode": 30
     },
@@ -40586,7 +40586,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1687",
-      "label": "Rob McCoy Placed Thomas Camino in Home Fellowship Program with Access to Children",
+      "label": "Host Says Rob McCoy Placed Thomas Camino in Home Fellowship Program With Access to Children",
       "node_kind": "claim",
       "episode": 31
     },
@@ -40628,7 +40628,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1693",
-      "label": "Owens and Kirk Co-Hosted a PragerU Segment Discussing Foxhole Allies",
+      "label": "Throwback PragerU Clip of Owens and Kirk Discussing Foxhole Allies",
       "node_kind": "claim",
       "episode": 31
     },
@@ -40936,14 +40936,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1737",
-      "label": "Host Says Charlie Kirk's Security Lead Texted the UVU Police Chief About Rooftop Access and Accepted \"I Got You Covered\" as Resolution",
+      "label": "Harpole Says He Texted UVU Police Chief About Rooftop Access and Got \"I Got You Covered\"; Host Says He Did Not Follow Up",
       "node_kind": "claim",
       "episode": 34
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1738",
-      "label": "Blake Neff was standing next to Mikey McCoy at the moment of the shooting.",
+      "label": "Blake Neff Says He Was Next to Mikey McCoy When the Shot Was Fired",
       "node_kind": "claim",
       "episode": 34
     },
@@ -40957,7 +40957,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1740",
-      "label": "Audience Questioner at Rob McCoy's Jerusalem Event Says Carlson and Owens Are Hijacking the Christian Message",
+      "label": "Audience Questioner at Jerusalem Event With Rob McCoy Says Carlson and Owens Are Hijacking the Christian Message",
       "node_kind": "claim",
       "episode": 34
     },
@@ -40971,14 +40971,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1742",
-      "label": "Aayol Yakobe posted on X that the rental-plate disclosure constitutes \"doxing.\"",
+      "label": "Host Reads Eyal Yakoby Post Calling the Rental-Plate Disclosure \"Doxing\"",
       "node_kind": "claim",
       "episode": 34
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1743",
-      "label": "Arynne Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.",
+      "label": "Host Reads Arynne Wexler Post Saying Candace Started Her Career by Doxing Teenagers",
       "node_kind": "claim",
       "episode": 34
     },
@@ -41020,14 +41020,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1749",
-      "label": "Host Says 920 North King Street Currently Houses DEA, FBI, and Secret Service",
+      "label": "Email Host Reads Says DEA and Secret Service Are Listed at 920 North King Street",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1750",
-      "label": "Host Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar",
+      "label": "Email Host Reads Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar",
       "node_kind": "claim",
       "episode": 35
     },
@@ -41188,14 +41188,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1773",
-      "label": "BTT Aircraft Stopped at Minot, ND for Approximately One Hour on September 4, 2025",
+      "label": "Host Says BTT Aircraft Stopped at Minot, ND for About One Hour on September 4, 2025",
       "node_kind": "claim",
       "episode": 37
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1774",
-      "label": "Minot Has an Active Air Force Base and FBI Office",
+      "label": "Tipster Email Says Minot Has an Air Force Base and FBI Office",
       "node_kind": "claim",
       "episode": 37
     },
@@ -41230,14 +41230,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1779",
-      "label": "White House Said It Was \"Not Aware\" of Huckabee–Pollard Meeting but Stands by Ambassador",
+      "label": "Host Quotes Leavitt Saying White House Was Not Aware of Huckabee–Pollard Meeting",
       "node_kind": "claim",
       "episode": 37
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1780",
-      "label": "Free Press Writer Emailed Host Requesting Comment on Multiple Shows",
+      "label": "Host Reads Free Press Writer's Email Requesting Comment",
       "node_kind": "claim",
       "episode": 37
     },
@@ -41300,7 +41300,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1789",
-      "label": "North French Street originated from 1790s refugee settlement",
+      "label": "French Street Name Dates From 1790s Refugee Settlement",
       "node_kind": "claim",
       "episode": 38
     },
@@ -41405,7 +41405,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1804",
-      "label": "Per Vanity Fair Article Host Reads, Judge Jan Jordan Ruled Treatment in Lieu of Prison for Richards IV",
+      "label": "Per Vanity Fair Article Host Reads, Judge Jan Jurden Ruled Treatment in Lieu of Prison for Richards IV",
       "node_kind": "claim",
       "episode": 39
     },
@@ -42154,7 +42154,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1911",
-      "label": "Host concurs with critiques that Erika's moral outrage is manufactured for elite audiences and that criticism of Jews is not inherently antisemitic",
+      "label": "Host Agrees With Viewer Comments on Criticizing Corrupt Jews and Erika's Elite-Audience Outrage",
       "node_kind": "claim",
       "episode": 45
     },
@@ -42182,7 +42182,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1915",
-      "label": "Erika Kirk characterized online skepticism as \"mental illness\"",
+      "label": "Glenn Beck Tells Erika Kirk Some Online Content Is Mental Illness",
       "node_kind": "claim",
       "episode": 46
     },
@@ -42203,7 +42203,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1918",
-      "label": "Host Says Tyler Robinson Made First In-Person Court Appearance on December 11, 2025",
+      "label": "Host Says Tyler Robinson Made His First In-Person Court Appearance",
       "node_kind": "claim",
       "episode": 46
     },
@@ -42371,7 +42371,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1942",
-      "label": "Andrew Kolvet admitted surgeon did not know he would post",
+      "label": "Host Says They Did Not Know Kolvet Would Write the Surgeon Tweet",
       "node_kind": "claim",
       "episode": 47
     },
@@ -42420,21 +42420,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1949",
-      "label": "Candace's husband has no Qatari passport/citizenship",
+      "label": "Host Says Husband's Wikipedia Falsely Listed Qatari Citizenship",
       "node_kind": "claim",
       "episode": 47
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1950",
-      "label": "Turkey Tom authenticated Robinson Discord chat messaging style",
+      "label": "Clip Cites Turkey Tom Video on Robinson Discord Messaging Style",
       "node_kind": "claim",
       "episode": 47
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1951",
-      "label": "George Zin allegedly told nurses he was paid to pose as shooter",
+      "label": "George Zinn allegedly told nurses he was paid to pose as shooter",
       "node_kind": "claim",
       "episode": 47
     },
@@ -42497,7 +42497,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1960",
-      "label": "Colberg X Post Attributes \"Man of Steel\" Quotation to Surgeon",
+      "label": "Kolvet X Post Attributes \"Man of Steel\" Quotation to Surgeon",
       "node_kind": "claim",
       "episode": 48
     },
@@ -42658,7 +42658,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1983",
-      "label": "Mark Amodei Publicly Claimed a 12-House-Floor Alibi for September 9",
+      "label": "Mark Amodei Publicly Claimed a 12-Hour Committee Alibi for September 9",
       "node_kind": "claim",
       "episode": 50
     },
@@ -42700,14 +42700,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1989",
-      "label": "Tim Dillon comedy clip characterizes Turning Point USA's AmFest as a \"right wing abomination\" and \"bad reality show\"",
+      "label": "Tim Dillon Comedy Clip Calls Turning Point USA's AmFest an \"Abomination\" and Says the Right Has Become a \"Bad Reality Show\"",
       "node_kind": "claim",
       "episode": 51
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1990",
-      "label": "Tim Dillon clip notes Erica Kirk walking to pyrotechnic display in glittering pantsuit three months after husband's death",
+      "label": "Tim Dillon Clip Notes Erika Kirk Walking to Pyrotechnic Display in Glittering Pantsuit Three Months After Husband's Death",
       "node_kind": "claim",
       "episode": 51
     },
@@ -42756,7 +42756,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1997",
-      "label": "Paramount Tactical Valhalla stream clip shows host reading Andrew Kolvet's instructions providing Erica Kirk's September 9 alibi",
+      "label": "Paramount Tactical Valhalla Stream Clip Shows Host Reading Andrew Kolvet's Instructions Providing Erika Kirk's September 9 Alibi",
       "node_kind": "claim",
       "episode": 51
     },
@@ -42798,7 +42798,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2003",
-      "label": "Host Says Tyler Robinson Visited Pangitch",
+      "label": "Host Says Tyler Robinson Visited Panguitch",
       "node_kind": "claim",
       "episode": 52
     },
@@ -42959,7 +42959,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2026",
-      "label": "Harpole Stated Pre-Planning for Charlie Kirk Events Began on the 24th of the Month Prior to the Event",
+      "label": "Harpole Says Pre-Planning for the Event Began on the 24th of the Month Prior",
       "node_kind": "claim",
       "episode": 54
     },
@@ -43106,7 +43106,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2047",
-      "label": "Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Andrew Knew More Than Publicly Stated",
+      "label": "Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Said She Believed Andrew Knew More Than Publicly Stated",
       "node_kind": "claim",
       "episode": 55
     },
@@ -43428,7 +43428,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2094",
-      "label": "Plane SUBTU Traveled to Provo May 23 with Follow-Up May 27, Hosting Wed Mahmoud",
+      "label": "Anchor Plane Arrived in Provo May 23; SUBTU Followed May 27 With Wed Mahmoud Aboard",
       "node_kind": "claim",
       "episode": 56
     },
@@ -43491,7 +43491,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2104",
-      "label": "Charlie Kirk told Candace Owens via text message he was a time traveler",
+      "label": "Host Says Charlie Kirk Told Her by Text That He Was a Time Traveler",
       "node_kind": "claim",
       "episode": 57
     },
@@ -43596,7 +43596,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2119",
-      "label": "Nick Fuentes Reframed the Epstein Issue as \"Political Blackmail\" Rather Than Pedophilia",
+      "label": "Nick Fuentes Reframed the Epstein Issue as Blackmail for Israel Rather Than Pedophilia",
       "node_kind": "claim",
       "episode": 58
     },
@@ -43792,7 +43792,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2147",
-      "label": "Per a viewer comment, Dan Flood provided security at a Charlie Kirk Day event where Kash Patel was present",
+      "label": "Host Says Dan Flood Was Still Providing Security at Charlie Kirk Day Event Where Kash Patel Was Invited",
       "node_kind": "claim",
       "episode": 59
     },
@@ -43834,7 +43834,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2153",
-      "label": "Host Concurs With Griggs Assessment of Top-Level Military Corruption",
+      "label": "Host Says Griggs's Account of the Military Makes Sense to Her",
       "node_kind": "claim",
       "episode": 60
     },
@@ -43946,7 +43946,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2169",
-      "label": "Owens states her TPUSA speaking contract was terminated December 2, 2025",
+      "label": "TPUSA Letter States Owens's Agreements Were Terminated December 2, 2025",
       "node_kind": "claim",
       "episode": 61
     },
@@ -44044,7 +44044,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2183",
-      "label": "Jaco Booyens and Erica Kirk confirmed the authenticity of the text message",
+      "label": "Host Says Jaco Booyens and Erika Kirk Can Confirm the Text Message Is Real",
       "node_kind": "claim",
       "episode": 62
     },
@@ -44184,14 +44184,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2203",
-      "label": "Christian Zionist threat message identified as authored by Laurie Cardoza-Moore via audio matching",
+      "label": "Host Says Christian Zionist Threat Message Echoes Laurie Cardoza-Moore's Online Rant",
       "node_kind": "claim",
       "episode": 63
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2204",
-      "label": "Host Says Voice Matching Identifies Laurie Cardoza-Moore on a 1-900 Romance Hotline Recording",
+      "label": "Host Says Internet Sleuths Found Laurie Cardoza-Moore's Background in Acting and Romance Hotlines",
       "node_kind": "claim",
       "episode": 63
     },
@@ -44254,7 +44254,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2213",
-      "label": "TPUSA Board Announcement Letter (Sept 17) Was Authored by Doug DeGroote",
+      "label": "TPUSA Board Announcement Letter (Sept 17) Was Signed Off by Doug DeGroote",
       "node_kind": "claim",
       "episode": 64
     },
@@ -44310,14 +44310,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2221",
-      "label": "Host Characterizes Boreing's \"Nuclear Energy\" / BLM-Critique Hiring Rationale as Objectively Racially Motivated",
+      "label": "Host Calls Boreing's BLM-Era Hiring Remarks \"Objectively Racist\"",
       "node_kind": "claim",
       "episode": 64
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2222",
-      "label": "Host Characterizes Boreing's \"Rhetorical Pornography\" Comparison as Deflection From Documented Sexual Violence",
+      "label": "Host Rejects Boreing's \"Rhetorical Pornography\" Comparison",
       "node_kind": "claim",
       "episode": 64
     },
@@ -44380,7 +44380,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2231",
-      "label": "Ostrovsky Bandaged October 7th Photo Shows No Blood on Bandages Despite Bloody Face",
+      "label": "Ostrovsky Bandaged Bondi Attack Photo Shows No Blood on Bandages Despite Bloody Face",
       "node_kind": "claim",
       "episode": 65
     },
@@ -44443,14 +44443,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2241",
-      "label": "Erica Kirk memorial speech directs audience to TPUSA-affiliated sign-ups",
+      "label": "Erika Kirk's Speech Beside Charlie's Chair Directs Audience to TPUSA-Affiliated Sign-Ups",
       "node_kind": "claim",
       "episode": 66
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2242",
-      "label": "Host contrasts Vanessa Bryant's eulogy with Erica Kirk's memorial speech",
+      "label": "Host contrasts Vanessa Bryant's eulogy with Erika Kirk's memorial speech",
       "node_kind": "claim",
       "episode": 66
     },
@@ -44464,14 +44464,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2244",
-      "label": "Father Blank texted the donor about attending Monday morning mass with Erica possibly present",
+      "label": "Per Text the Host Shows, Father Blank Told the Donor Erika May Be at Monday Morning Mass",
       "node_kind": "claim",
       "episode": 66
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2245",
-      "label": "Donor Tells Host She Gave Erica Kirk a Relic of St. Paul II",
+      "label": "Donor Tells Host She Gave Erika Kirk a Relic of St. Paul II",
       "node_kind": "claim",
       "episode": 66
     },
@@ -44485,7 +44485,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2247",
-      "label": "TPUSA staffer text cites $6M memorial cost tied to displaced RV show at Cardinal Stadium",
+      "label": "Text Introducing Donor to TPUSA Staffer Cites $6M Memorial Cost Tied to Displaced RV Show at Cardinal Stadium",
       "node_kind": "claim",
       "episode": 66
     },
@@ -44653,7 +44653,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2271",
-      "label": "Frank Turek States GG (Child) Got Up During the Sept 8 Walk",
+      "label": "Frank Turek States GG (Child) Got Up Before the Sept 8 Walk",
       "node_kind": "claim",
       "episode": 67
     },
@@ -44674,7 +44674,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2274",
-      "label": "Source States Andrew Kolvet and Dan Flood Were Recipients of the \"Kill Me\" Text",
+      "label": "Host Says Andrew Kolvet and Dan Flood Received the \"Kill Me\" Text; Source Says It Was an iMessage",
       "node_kind": "claim",
       "episode": 67
     },
@@ -44828,7 +44828,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2296",
-      "label": "Viewer Comment Says William Stevenson Was Indicted for First-Degree Murder of His Ex-Wife",
+      "label": "Viewer Comment Says Jill Biden's Ex-Husband Was Indicted for Murder; Host Corrects Name to William Stevenson",
       "node_kind": "claim",
       "episode": 68
     },
@@ -44870,7 +44870,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2302",
-      "label": "Tom Horn asserts a special operations general confirmed Gilgamesh remains in \"remarkable preservation\"",
+      "label": "Steve Quayle Says a Special Operations General Confirmed Gilgamesh Remains in Remarkable Preservation",
       "node_kind": "claim",
       "episode": 69
     },
@@ -45087,7 +45087,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2333",
-      "label": "Erica Kirk Widow Address View Counts",
+      "label": "Erika Kirk Widow Address View Counts",
       "node_kind": "claim",
       "episode": 71
     },
@@ -45402,7 +45402,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2378",
-      "label": "Per Nicey Clip, Erika Kirk (Then Frandsen) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15",
+      "label": "Per Nicey Clip, Erika Kirk (Then Frantzve) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15",
       "node_kind": "claim",
       "episode": 74
     },
@@ -45521,7 +45521,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2395",
-      "label": "Pam Bondi asserted at a House Oversight hearing that the Trump administration released over 3 million pages of Epstein documents and signed the law releasing them",
+      "label": "Pam Bondi Asserts at a House Hearing That the Trump Administration Released Over 3 Million Pages of Epstein Documents and Trump Signed the Law Releasing Them",
       "node_kind": "claim",
       "episode": 74
     },
@@ -45794,14 +45794,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2457",
-      "label": "Sarah Huckabee Sanders signed proclamation supporting Club America in Arkansas high schools alongside Erica Kirk",
+      "label": "Sarah Huckabee Sanders signed proclamation supporting Club America in Arkansas high schools alongside Erika Kirk",
       "node_kind": "claim",
       "episode": 78
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2458",
-      "label": "2017 article records Erica Kirk stating she partnered with Renee Crossman of United Hands Romania",
+      "label": "2017 article records Erika Kirk stating she partnered with Renee Crossman of United Hands Romania",
       "node_kind": "claim",
       "episode": 78
     },
@@ -45892,7 +45892,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2471",
-      "label": "2017 article identifies Antonio Placement Center in Constanta as Erica Kirk's partnership site",
+      "label": "2017 article identifies Antonio Placement Center in Constanta as Erika Kirk's partnership site",
       "node_kind": "claim",
       "episode": 78
     },
@@ -46515,7 +46515,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-2560",
-      "label": "Frank Turek Estimated Erica Kirk Arrived at Hospital Around 4:00 p.m.",
+      "label": "Frank Turek Estimated Erika Kirk Arrived at Hospital Around 4:00 p.m.",
       "node_kind": "claim",
       "episode": 83
     },
@@ -51030,7 +51030,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3206",
-      "label": "Erica Kirk stated she does not know what Charlie Kirk would think about war with Iran",
+      "label": "Erika Kirk stated she does not know what Charlie Kirk would think about war with Iran",
       "node_kind": "claim",
       "episode": 136
     },
@@ -51261,7 +51261,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3239",
-      "label": "Andrew Wilson claims he hugged Erica Kirk at TPUSA HQ",
+      "label": "Andrew Wilson claims he hugged Erika Kirk at TPUSA HQ",
       "node_kind": "claim",
       "episode": 139
     },
@@ -51863,7 +51863,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3325",
-      "label": "Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erica Kirk",
+      "label": "Kolvet told Candace on September 14, 2025 that the TPUSA board had voted in Erika Kirk",
       "node_kind": "claim",
       "episode": 144
     },
@@ -52570,7 +52570,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3426",
-      "label": "Erica Kirk tweet on building two statues",
+      "label": "Erika Kirk tweet on building two statues",
       "node_kind": "claim",
       "episode": 151
     },
@@ -53998,7 +53998,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3632",
-      "label": "Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing Organization-Wide DOGE Efficiency Audit",
+      "label": "Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing an Organization-Wide DOGE Effort",
       "node_kind": "claim",
       "episode": 10
     },
@@ -54082,7 +54082,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3644",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host Plugs CIA Parody Merchandise and Asks for the Green CIA Hat",
       "node_kind": "claim",
       "episode": 17
     },
@@ -54138,7 +54138,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3652",
-      "label": "Host elevates mommy sleuth crowd investigators",
+      "label": "Host Says She Messaged Mommy Sleuths and TPUSA Sources About the Donor",
       "node_kind": "claim",
       "episode": 39
     },
@@ -54740,7 +54740,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3738",
-      "label": "Emily's August 6 Hamptons Instagram post contradicts Xaviaer DuRousseau's safety-based secrecy claim (revises C-1293)",
+      "label": "Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim (revises C-1293)",
       "node_kind": "claim",
       "episode": 10
     },
@@ -54768,7 +54768,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3742",
-      "label": "Justin Streiff is the Turning Point executive C-2113 spells 'Justin Streiff' (revises C-2113)",
+      "label": "Host Says Justin Streiff Told Her Erika Never Lived in China",
       "node_kind": "claim",
       "episode": 58
     },
@@ -62951,7 +62951,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4911",
-      "label": "Host Says Donors Are Trying to Buy Their Way Into Funeral Remarks",
+      "label": "Host Says She Has Heard People Are Trying to Buy Their Way Into Funeral Remarks",
       "node_kind": "claim",
       "episode": 4
     },
@@ -63805,7 +63805,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5033",
-      "label": "Host Says the Sorenson Center Is the Building in Front of the Lucy Center",
+      "label": "Harpole Says the Sorenson Center Is the Building in Front of the Lucy Center",
       "node_kind": "claim",
       "episode": 36
     },
@@ -64848,7 +64848,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5182",
-      "label": "Project Constitution Chat Comment Says the BTU and BTT Mix-Up Still Connects the Two Planes",
+      "label": "Host Tells Project Constitution the BTU and BTT Mix-Up Still Connects the Two Planes",
       "node_kind": "claim",
       "episode": 41
     },
@@ -64869,14 +64869,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5185",
-      "label": "Host Says Colberg Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation",
+      "label": "Host Says Kolvet Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation",
       "node_kind": "claim",
       "episode": 48
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5186",
-      "label": "Host Says Colberg's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage",
+      "label": "Host Says Kolvet's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage",
       "node_kind": "claim",
       "episode": 48
     },
@@ -64904,14 +64904,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5190",
-      "label": "Host Says Trotter Hunts and Told Colberg It Was Likely a Frangible Bullet",
+      "label": "Host Says Trotter Hunts and Told Kolvet It Was Likely a Frangible Bullet",
       "node_kind": "claim",
       "episode": 48
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5191",
-      "label": "Host Says Colberg Also Said the Bullet Ricocheted, Conflicting with the Frangible Account",
+      "label": "Host Says Kolvet Also Said the Bullet Ricocheted, Conflicting with the Frangible Account",
       "node_kind": "claim",
       "episode": 48
     },
@@ -65219,7 +65219,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5235",
-      "label": "Respondent in Clip Says Venus Is a Designator for an Empty Flight Except the Pilots",
+      "label": "Respondent Says Venus Is a Designator for an Empty Flight Except the Pilots",
       "node_kind": "claim",
       "episode": 48
     },
@@ -65415,7 +65415,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5263",
-      "label": "Host Says She Told Patel She Has Evidence the French Legion Was on the Ground That Day",
+      "label": "Host Says She Has Evidence the French Legion Was on the Ground That Day and Reached Out to the FBI",
       "node_kind": "claim",
       "episode": 48
     },
@@ -66213,7 +66213,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5377",
-      "label": "Host alleges Shapiro's AmFest audience was staffed with YAF employees told to cheer",
+      "label": "Host Alleges Shapiro Staffs Audiences With YAF Employees Told to Cheer",
       "node_kind": "claim",
       "episode": 50
     },
@@ -66556,7 +66556,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5426",
-      "label": "Host says Charlie's mother refused to let schools drug him and he was sent to a gifted school",
+      "label": "Host Says Charlie's Mother Refused to Let Them Drug Him and He Was Sent to a Gifted School",
       "node_kind": "claim",
       "episode": 57
     },
@@ -66976,14 +66976,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5486",
-      "label": "Host Says Staffer Fired After Kolvet Saw Her Timeline Screenshots",
+      "label": "Host Says Kolvet Saw Timeline Screenshots on a Staffer's Laptop",
       "node_kind": "claim",
       "episode": 60
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5487",
-      "label": "Host Says Fired Employee Was Not Her Leaker and Leaks Continue",
+      "label": "Host Says the Staffer Was Not Her Leaker and Leaks Continue",
       "node_kind": "claim",
       "episode": 60
     },
@@ -67004,28 +67004,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5490",
-      "label": "Coleman Says TPUSA Lawyer Now Concedes Drones Existed but for Media Only",
+      "label": "Host Says TPUSA Lawyer Now Concedes Drones Existed but for Media Only",
       "node_kind": "claim",
       "episode": 60
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5491",
-      "label": "Coleman Says Everyone in the Unreleased Film Is Tied to Fort Huachuca",
+      "label": "Host Says Everyone in the Unreleased Film Is Tied to Fort Huachuca",
       "node_kind": "claim",
       "episode": 60
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5492",
-      "label": "Coleman Says Erika Kirk Has Said Her Mother Held DOD Contracts",
+      "label": "Host Says Erika Kirk Has Said Her Mother Held DOD Contracts",
       "node_kind": "claim",
       "episode": 60
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5493",
-      "label": "Coleman Says Dan Flood's Father Ran Intel at Fort Huachuca",
+      "label": "Host Says Dan Flood's Father Ran Intel at Fort Huachuca",
       "node_kind": "claim",
       "episode": 60
     },
@@ -67039,7 +67039,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5495",
-      "label": "Coleman Says Flood's Protectee Warned Him Someone Would Kill Him",
+      "label": "Host Says Flood's Protectee Warned Him Someone Would Kill Him",
       "node_kind": "claim",
       "episode": 60
     },
@@ -67067,7 +67067,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5499",
-      "label": "Tipster Says Miss Arizona USA Titleholder Controls the Official Account",
+      "label": "Coleman Says Miss Arizona USA Titleholder Controls the Official Account",
       "node_kind": "claim",
       "episode": 60
     },
@@ -67123,28 +67123,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5507",
-      "label": "Coleman Says Officers Carried Ghawi to a Police Car Instead of Leaving Her",
+      "label": "Host Says Officers Carried Ghawi to a Police Car Instead of Leaving Her",
       "node_kind": "claim",
       "episode": 60
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5508",
-      "label": "Coleman Says Buckley Air Force Base Operated Near Aurora From 2000 to 2021",
+      "label": "Host Says Buckley Air Force Base Operated Near Aurora From 2000 to 2021",
       "node_kind": "claim",
       "episode": 60
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5509",
-      "label": "Coleman Says Many Aurora Victims Were Military Guys",
+      "label": "Host Says Many Aurora Victims Were Military Guys",
       "node_kind": "claim",
       "episode": 60
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5510",
-      "label": "Coleman Says Ghawi Was Not in Her Father's Obituary",
+      "label": "Host Says Ghawi Was Not in Her Father's Obituary",
       "node_kind": "claim",
       "episode": 60
     },
@@ -67298,7 +67298,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5532",
-      "label": "Coleman Says Evangelical Churches Are Seeing a Mass Exodus",
+      "label": "Host Says Evangelical Churches Are Seeing a Mass Exodus",
       "node_kind": "claim",
       "episode": 60
     },
@@ -67522,7 +67522,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5564",
-      "label": "Host Says a Person Close to the Surgeon Said TPUSA Called Him After Her Episode",
+      "label": "Host Says a Person Close to the Surgeon Said They Called Him After Her Episode",
       "node_kind": "claim",
       "episode": 60
     },
@@ -67655,14 +67655,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5583",
-      "label": "Host says Turney named Charlie Kirk and Ben Shapiro as people calling the USS Liberty a hoax",
+      "label": "Host Says Tourney Named Charlie Kirk and Ben Shapiro as People Calling the USS Liberty a Hoax",
       "node_kind": "claim",
       "episode": 65
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5584",
-      "label": "Host says she asked Turney to testify that she did not put him up to naming Kirk and Shapiro",
+      "label": "Host Says She Asked Tourney to Testify That She Did Not Put Him Up to Naming Kirk and Shapiro",
       "node_kind": "claim",
       "episode": 65
     },
@@ -67795,7 +67795,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5603",
-      "label": "Youssef says Andrew Kolvet, not Charlie Kirk, ran Kirk's Twitter feed",
+      "label": "Host Says Andrew Kolvet, Not Charlie Kirk, Ran Kirk's Twitter Feed",
       "node_kind": "claim",
       "episode": 65
     },
@@ -68117,14 +68117,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5649",
-      "label": "Host relays Turney's account that Israeli flags were aboard the USS Liberty",
+      "label": "Host Relays Tourney's Account That Israeli Flags Were Aboard the USS Liberty",
       "node_kind": "claim",
       "episode": 65
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-5650",
-      "label": "Host relays Turney's account that an Israeli soldier on a boat gave him the middle finger after the torpedo warning",
+      "label": "Host Relays Tourney's Account That an Israeli Soldier on a Boat Gave Him the Middle Finger After the Torpedo Warning",
       "node_kind": "claim",
       "episode": 65
     },
@@ -73997,7 +73997,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6489",
-      "label": "Host Says She Shared Charlie's Email on the New DOJ Department",
+      "label": "Host Says She Shared Charlie's Email on the New DOGE Department",
       "node_kind": "claim",
       "episode": 15
     },
@@ -74886,7 +74886,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6616",
-      "label": "Camino Says His Lawyer Cited Footprints and a Palm Print and Urged a Plea Deal",
+      "label": "Camino Says His Lawyer Relayed Footprint and Palm Print Evidence and a Plea Offer",
       "node_kind": "claim",
       "episode": 31
     },
@@ -75369,7 +75369,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6685",
-      "label": "Host Says She Already Had Her Business, Book and Merch Before the Assassination",
+      "label": "Host Says She Already Had Her Business and Was at the Top of the Charts",
       "node_kind": "claim",
       "episode": 46
     },
@@ -75712,7 +75712,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6734",
-      "label": "Host Quotes Her 2018 Text Read by Alicia Yancey and Says She Does Not Remember Saying It",
+      "label": "Host Reads Alicia Yancey Comment Quoting Her 2018 Words and Says She Does Not Know Where She Said It",
       "node_kind": "claim",
       "episode": 46
     },
@@ -75964,7 +75964,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6770",
-      "label": "Son in Clip Says Mitch Could Be Detained With Canines Called If He Entered JTF Staff Duty, per the Report",
+      "label": "Speaker in Son Clip Says Mitch Could Be Detained With Canines Called If He Entered JTF Staff Duty, per the Report",
       "node_kind": "claim",
       "episode": 51
     },
@@ -76272,7 +76272,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6814",
-      "label": "Host Says Robinson Arrived in Pangitch About 8:45 p.m. and Left About 9:30 p.m.",
+      "label": "Host Says Robinson Arrived in Panguitch About 8:45 p.m. and Left About 9:30 p.m.",
       "node_kind": "claim",
       "episode": 52
     },
@@ -76531,7 +76531,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6851",
-      "label": "Host Says Bowyer Was in Debt With Wages Garnished Before Becoming a Millionaire",
+      "label": "Host Says Bowyer Was in Debt With Payments Garnished Before Becoming a Millionaire",
       "node_kind": "claim",
       "episode": 52
     },
@@ -77483,7 +77483,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6987",
-      "label": "Host Says TPUSA Has Sent a Bunch of Cease and Desist Letters",
+      "label": "Host Says TPUSA Is Accountable to the Public Despite Cease and Desist Letters",
       "node_kind": "claim",
       "episode": 63
     },
@@ -84287,7 +84287,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7959",
-      "label": "Host Says Wednesday's Episode Will Reveal Findings on Egyptian Military Planes",
+      "label": "Host Says Wednesday's Episode Will Reveal Findings on the Egyptian Military",
       "node_kind": "claim",
       "episode": 29
     },
@@ -84532,28 +84532,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7994",
-      "label": "Host Says the 1990s DOJ Suites Evolved Into a Multi-Agency Space",
+      "label": "Email Says the 1990s DOJ Suites Evolved Into a Multi-Agency Space",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7995",
-      "label": "Host Compares 920 North King Street to 33 Thomas Street",
+      "label": "Email Compares 920 North King Street to 33 Thomas Street",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7996",
-      "label": "Host Says X Users Cited a Falcon Maintenance Arrangement Dating to 1999",
+      "label": "Email Says X Users Cited a Falcon Maintenance Arrangement Dating to 1999",
       "node_kind": "claim",
       "episode": 35
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7997",
-      "label": "Host Says the Wilmington Dassault Falcon Center Shut Down Around 2021",
+      "label": "Email Says the Wilmington Dassault Falcon Center Shut Down Around 2021",
       "node_kind": "claim",
       "episode": 35
     },
@@ -84938,7 +84938,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8052",
-      "label": "Host Says Sleeper Cells Operate Across the Nation and Targets Children in Schools",
+      "label": "Host Says Children Are at Risk in Government Schools and Feels There Are Sleeper Cells Across the Nation",
       "node_kind": "claim",
       "episode": 35
     },
@@ -84994,7 +84994,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8060",
-      "label": "Host Says YouTube Issued a Copyright Claim Over Music in the Tim Dillon Clip",
+      "label": "Host Says Kash Patel's Girlfriend Filed a Copyright Claim Over Music in the Tim Dillon Clip",
       "node_kind": "claim",
       "episode": 35
     },
@@ -85701,7 +85701,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8161",
-      "label": "Host Says Piscatello Has Raised Alarms About Military Ukrainian Sex Trafficking",
+      "label": "Host Says Piskadlo Has Raised Alarms About Military Ukrainian Sex Trafficking",
       "node_kind": "claim",
       "episode": 54
     },
@@ -86170,7 +86170,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8228",
-      "label": "Host Says Kirk Established DOGE to Find Where the Money Was Coming From",
+      "label": "Host Says Kirk Asked Where the Money Was Coming From",
       "node_kind": "claim",
       "episode": 54
     },
@@ -86534,7 +86534,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8280",
-      "label": "Host says Arizona law requires an LLC to publish a notice describing its intended business",
+      "label": "Host Says LLCs Must Publish a Notice Describing Their Intended Business",
       "node_kind": "claim",
       "episode": 62
     },
@@ -87332,7 +87332,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8394",
-      "label": "Host Says Erika and Justin Streiff Personally Met Pierre After Charlie's Death",
+      "label": "Host Says Streiff Personally Met Pierre and Erika Met Him After Charlie's Death",
       "node_kind": "claim",
       "episode": 70
     },
@@ -87472,7 +87472,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8414",
-      "label": "Lech Says She Worked Nonstop on September 10 and Slept Under 48 Hours During the Memorial",
+      "label": "Laitsch Says She Worked Nonstop on September 10 and Went Over 48 Hours Without Sleep During the Memorial",
       "node_kind": "claim",
       "episode": 70
     },
@@ -87563,7 +87563,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8427",
-      "label": "Host Says Lech's Fiance Was Fired Too",
+      "label": "Host Says Laitsch's Fiance Was Fired Too",
       "node_kind": "claim",
       "episode": 70
     },
@@ -87892,7 +87892,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-8474",
-      "label": "Host Says Jews Originate in Turkey and Deleted Their Books",
+      "label": "Host Says Those She Addresses Are 'From Turkey Somewhere' and Deleted Their Books",
       "node_kind": "claim",
       "episode": 73
     },
@@ -93968,7 +93968,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9342",
-      "label": "Hammer Says on JTV Candace Chose to Hijack Charlie's Death to Blame Israel",
+      "label": "JTV Interviewer Ali Says Candace Chose to Hijack Charlie's Death to Blame Israel",
       "node_kind": "claim",
       "episode": 17
     },
@@ -94213,7 +94213,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9377",
-      "label": "Host Says She Shared Information With Max Blumenthal and Others in a Release-It-All Package",
+      "label": "Host Says Her Kill Switch Means Sharing Information With Max Blumenthal and Others in a Release-It-All Package",
       "node_kind": "claim",
       "episode": 17
     },
@@ -94262,7 +94262,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9384",
-      "label": "Alex Jones Says Charlie's TPUSA Got Over 2.5 Million Young People to Vote for Trump",
+      "label": "Alex Jones Says Charlie's TPUSA Got Over 2.5 Million People to Vote for Trump",
       "node_kind": "claim",
       "episode": 17
     },
@@ -94976,7 +94976,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9486",
-      "label": "Host Says She Told Erika She Would Be Quiet if Asked and Was Not Asked",
+      "label": "Host Says She Would Be Quiet if Erika Asked and Was Not Asked",
       "node_kind": "claim",
       "episode": 24
     },
@@ -95067,7 +95067,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9499",
-      "label": "Host Says Case Messages Were Written by 20-Year-Old Gay Men and Do Not Sound Gen Z",
+      "label": "Host Says Case Messages Attributed to 20-Year-Old Gay Men Do Not Sound Gen Z",
       "node_kind": "claim",
       "episode": 24
     },
@@ -95781,7 +95781,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9601",
-      "label": "Host Says Officials Told Obvious Lies Including a .30-06 Stopped by the Neck",
+      "label": "Host Says Officials Told Obvious Lies Including a .30-06 Bullet Being Stopped",
       "node_kind": "claim",
       "episode": 27
     },
@@ -96355,7 +96355,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9683",
-      "label": "Clip: Reeve Asks Whether 'They' Means Jews",
+      "label": "Clip: Reeve Says 'They' Sounds Like Jews",
       "node_kind": "claim",
       "episode": 28
     },
@@ -96593,7 +96593,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9717",
-      "label": "Host Says the Claim That Kirk Established DOGE and TPUSA Audits Yearly Is a Lie",
+      "label": "Host Says the Claim That DOGE Was Just Like TPUSA's Yearly Audits Is a Lie",
       "node_kind": "claim",
       "episode": 30
     },
@@ -96866,7 +96866,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9756",
-      "label": "Host Says Turning Point Is Gaslighting by Treating Its Behavior as Normal",
+      "label": "Host Says Rob McCoy and Mikey McCoy Are Gaslighting by Treating Their Behavior as Normal",
       "node_kind": "claim",
       "episode": 30
     },
@@ -97342,7 +97342,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9824",
-      "label": "Host Says Debunkers Falsely Claimed Kittis's Lawyer Is in the 920 North King Office",
+      "label": "Host Says Debunkers Falsely Claimed Her Own Lawyer Is in the 920 North King Office",
       "node_kind": "claim",
       "episode": 37
     },
@@ -97363,7 +97363,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9827",
-      "label": "Host Says Noah Is Never Listed on Her Paperwork and She Learned of the Local-Firm Point From the Letter",
+      "label": "Host Says Noah Is Never Listed on Her Paperwork and She Was Unaware of Something Before the Letter",
       "node_kind": "claim",
       "episode": 37
     },
@@ -98644,7 +98644,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1079.3",
-      "label": "Text chain joking about convincing Erika Frantzey to take the Kirk last name as a 'practical decision'.",
+      "label": "Text chain joking about convincing Erika Frantzve to take the Kirk last name as a 'practical decision'.",
       "node_kind": "artifact",
       "episode": 1
     },
@@ -99596,7 +99596,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1129.1",
-      "label": "Charlie Kirk's tweet defending Milgram and Lachinsky and pushing back against speech restrictions",
+      "label": "Charlie Kirk's tweet defending Milgrim and Lischinsky and pushing back against speech restrictions",
       "node_kind": "artifact",
       "episode": 6
     },
@@ -100870,7 +100870,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1200.1",
-      "label": "Video clip: Benjamin Netanyahu meets on camera with US social-media influencer Deborah Lee to discuss shaping US opinion",
+      "label": "Video clip: Benjamin Netanyahu meets on camera with US social-media influencer Debra Lea to discuss shaping US opinion",
       "node_kind": "artifact",
       "episode": 13
     },
@@ -100933,7 +100933,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1204.1",
-      "label": "Producer note read on air identifying \"Erika Mindle\" / \"Erikica Mindle\" as American Israeli Jewish former IDF soldier, serving as Public Policy Manager of Hate Speech at TikTok since July 2025",
+      "label": "Producer note read on air identifying \"Erica Mindel\" / \"Erica Mindel\" as American Israeli Jewish former IDF soldier, serving as Public Policy Manager of Hate Speech at TikTok since July 2025",
       "node_kind": "artifact",
       "episode": 13
     },
@@ -103180,7 +103180,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1326.1",
-      "label": "Fox 13 News report (investigative reporter Nate Carile) describing UVU's release of the mid-July event application submitted by UVU's Turning Point USA chapter, and noting that the application form di",
+      "label": "Fox 13 News report (investigative reporter Nate Carlisle) describing UVU's release of the mid-July event application submitted by UVU's Turning Point USA chapter, and noting that the application form ",
       "node_kind": "artifact",
       "episode": 25
     },
@@ -104986,7 +104986,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1432.1",
-      "label": "Aayol Yakobe X post: \"This is what doxing looks like. These are unparalleled levels of insanity. This is truly dangerous.\"",
+      "label": "Eyal Yakoby X post: \"This is what doxing looks like. These are unparalleled levels of insanity. This is truly dangerous.\"",
       "node_kind": "artifact",
       "episode": 34
     },
@@ -107422,7 +107422,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1570.1",
-      "label": "Bari Weiss introduces Hunter Kozak to ask Erica Kirk a question on the CBS stage, noting he was \"the last person that Charlie ever spoke to\"",
+      "label": "Bari Weiss introduces Hunter Kozak to ask Erika Kirk a question on the CBS stage, noting he was \"the last person that Charlie ever spoke to\"",
       "node_kind": "artifact",
       "episode": 51
     },
@@ -107464,7 +107464,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1573.1",
-      "label": "Livestream clip in which Paramount Tactical Valhalla host reads written notes from Andrew Kolvet attempting to provide an alibi for Erica Kirk on September 9 and apologizes (\"Sorry Andrew, I screwed t",
+      "label": "Livestream clip in which Paramount Tactical Valhalla host reads written notes from Andrew Kolvet attempting to provide an alibi for Erika Kirk on September 9 and apologizes (\"Sorry Andrew, I screwed t",
       "node_kind": "artifact",
       "episode": 51
     },
@@ -107520,7 +107520,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1577",
-      "label": "Pangitch Cowboys Smokehouse Evidence Bundle",
+      "label": "Panguitch Cowboys Smokehouse Evidence Bundle",
       "node_kind": "artifact",
       "episode": 52
     },
@@ -107534,7 +107534,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1577.2",
-      "label": "Map showing ~3-hour drive distance from Orem, Utah to Pangitch, Utah (host's on-screen display)",
+      "label": "Map showing ~3-hour drive distance from Orem, Utah to Panguitch, Utah (host's on-screen display)",
       "node_kind": "artifact",
       "episode": 52
     },
@@ -108353,7 +108353,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1626.1",
-      "label": "Reference (host-cited) to Social Blade data showing Erica Kirk deleted 126 Instagram posts on June 19, framed in context of the master timeline.",
+      "label": "Reference (host-cited) to Social Blade data showing Erika Kirk deleted 126 Instagram posts on June 19, framed in context of the master timeline.",
       "node_kind": "artifact",
       "episode": 56
     },
@@ -108780,21 +108780,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1650",
-      "label": "Erica Kirk China Statement Bundle",
+      "label": "Erika Kirk China Statement Bundle",
       "node_kind": "artifact",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1650.1",
-      "label": "Erica Kirk interview clip played on air in which she states she was \"living in China and doing a lot of work with victims from sex trafficking\" through her Everyday Heroes Like You charity",
+      "label": "Erika Kirk interview clip played on air in which she states she was \"living in China and doing a lot of work with victims from sex trafficking\" through her Everyday Heroes Like You charity",
       "node_kind": "artifact",
       "episode": 59
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1650.2",
-      "label": "Paraphrased TPUSA official response (received via email by host), stating that Erica Kirk \"never lived\" in China and \"simply visited for 2 weeks\"",
+      "label": "Paraphrased TPUSA official response (received via email by host), stating that Erika Kirk \"never lived\" in China and \"simply visited for 2 weeks\"",
       "node_kind": "artifact",
       "episode": 59
     },
@@ -108885,7 +108885,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1653.7",
-      "label": "\"KJO\" comment read aloud, praising \"Will the real Erica Kirk please stand up\" segment",
+      "label": "\"KJO\" comment read aloud, praising \"Will the real Erika Kirk please stand up\" segment",
       "node_kind": "artifact",
       "episode": 59
     },
@@ -109102,7 +109102,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1668.1",
-      "label": "Host's verbal account of a donor present at the Aspen event who recalls Charlie Kirk saying, in effect, that if something happened, Erica Kirk would \"know what to do\"",
+      "label": "Host's verbal account of a donor present at the Aspen event who recalls Charlie Kirk saying, in effect, that if something happened, Erika Kirk would \"know what to do\"",
       "node_kind": "artifact",
       "episode": 61
     },
@@ -109781,14 +109781,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1705",
-      "label": "Erica Kirk Memorial Speech Audio Bundle",
+      "label": "Erika Kirk Memorial Speech Audio Bundle",
       "node_kind": "artifact",
       "episode": 66
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1705.1",
-      "label": "Audio excerpt of Erica Kirk's memorial speech directing audience to TPUSA.com, TPUSA Faith, and America Fest",
+      "label": "Audio excerpt of Erika Kirk's memorial speech directing audience to TPUSA.com, TPUSA Faith, and America Fest",
       "node_kind": "artifact",
       "episode": 66
     },
@@ -110117,7 +110117,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1726.1",
-      "label": "Host-testimony claim that her source confirmed the Dan Flood text message was sent as an iMessage, not Telegram (contradicting Erica Kirk's stated account)",
+      "label": "Host-testimony claim that her source confirmed the Dan Flood text message was sent as an iMessage, not Telegram (contradicting Erika Kirk's stated account)",
       "node_kind": "artifact",
       "episode": 67
     },
@@ -110600,14 +110600,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1754",
-      "label": "Erica Kirk Widow Address Video Bundle",
+      "label": "Erika Kirk Widow Address Video Bundle",
       "node_kind": "artifact",
       "episode": 71
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1754.1",
-      "label": "Erica Kirk Widow Address on Charlie Kirk YouTube Channel",
+      "label": "Erika Kirk Widow Address on Charlie Kirk YouTube Channel",
       "node_kind": "artifact",
       "episode": 71
     },
@@ -111041,14 +111041,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1781.2",
-      "label": "Jillian Falcon reply, 2014-02-13: \"@EricaFrandsen, gorgeous as always\"",
+      "label": "Jillian Falcon reply, 2014-02-13: \"@ErikaFrantzve, gorgeous as always\"",
       "node_kind": "artifact",
       "episode": 74
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1781.3",
-      "label": "Jillian Falcon tweet, 2014-03-06: \"Why did @EricaFrandsen just send me this?\" with attached Valentine-themed photo captioned \"This Valentine's Day I am going to touch your butt.\"",
+      "label": "Jillian Falcon tweet, 2014-03-06: \"Why did @ErikaFrantzve just send me this?\" with attached Valentine-themed photo captioned \"This Valentine's Day I am going to touch your butt.\"",
       "node_kind": "artifact",
       "episode": 74
     },
@@ -111069,7 +111069,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1781.6",
-      "label": "Jillian Falcon tweet, 2014-03-26 evening: \"Thank you, @EricaFrandsen, for making my whole week\" with attached gnome-image reading \"I want to be inside your lady garden. Know what I'm saying?\"",
+      "label": "Jillian Falcon tweet, 2014-03-26 evening: \"Thank you, @ErikaFrantzve, for making my whole week\" with attached gnome-image reading \"I want to be inside your lady garden. Know what I'm saying?\"",
       "node_kind": "artifact",
       "episode": 74
     },
@@ -111083,7 +111083,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1781.8",
-      "label": "Jillian Falcon tweet, 2014-04-05: \"Getting this in the mail from @EricaFrandsen\" with photo of red box of chocolate-covered strawberries and other chocolate desserts",
+      "label": "Jillian Falcon tweet, 2014-04-05: \"Getting this in the mail from @ErikaFrantzve\" with photo of red box of chocolate-covered strawberries and other chocolate desserts",
       "node_kind": "artifact",
       "episode": 74
     },
@@ -111734,7 +111734,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1837.1",
-      "label": "Sarah Huckabee Sanders proclamation clip with Erica Kirk at her side, supporting Club America in every Arkansas high school",
+      "label": "Sarah Huckabee Sanders proclamation clip with Erika Kirk at her side, supporting Club America in every Arkansas high school",
       "node_kind": "artifact",
       "episode": 78
     },
@@ -111748,14 +111748,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1838.1",
-      "label": "2017 article quoting Erica Kirk on partnership with Renee Crossman and Antonio Placement Center in Constanta",
+      "label": "2017 article quoting Erika Kirk on partnership with Renee Crossman and Antonio Placement Center in Constanta",
       "node_kind": "artifact",
       "episode": 78
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1838.2",
-      "label": "Erica Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman",
+      "label": "Erika Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman",
       "node_kind": "artifact",
       "episode": 78
     },
@@ -112770,7 +112770,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1895.1",
-      "label": "Frank Turek's podcast stating Erica Kirk \"probably got there, I don't know, somewhere around 4:00 p.m. maybe\" to Timpanogos Hospital",
+      "label": "Frank Turek's podcast stating Erika Kirk \"probably got there, I don't know, somewhere around 4:00 p.m. maybe\" to Timpanogos Hospital",
       "node_kind": "artifact",
       "episode": 83
     },
@@ -112833,7 +112833,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1899.1",
-      "label": "Host's phone call with a Hopkinson Aircraft employee who \"neither confirmed nor denied\" seeing Erica Kirk at their offices on September 10, 2025",
+      "label": "Host's phone call with a Hopkinson Aircraft employee who \"neither confirmed nor denied\" seeing Erika Kirk at their offices on September 10, 2025",
       "node_kind": "artifact",
       "episode": 83
     },
@@ -118846,14 +118846,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2231",
-      "label": "Erica Kirk Media Appearance Bundle",
+      "label": "Erika Kirk Media Appearance Bundle",
       "node_kind": "artifact",
       "episode": 136
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2231.1",
-      "label": "Erica Kirk clip stating her husband is not here to say whether or not to go to war with Iran, and that she personally does not want US boots on the ground",
+      "label": "Erika Kirk clip stating her husband is not here to say whether or not to go to war with Iran, and that she personally does not want US boots on the ground",
       "node_kind": "artifact",
       "episode": 136
     },
@@ -121261,7 +121261,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2364.1",
-      "label": "Erica Kirk tweet asserting that Charlie said \"we should be building two statues for every statue that they tear down,\" that \"they think spray paint can obscure his legacy,\" invoking Jesus Christ / \"Go",
+      "label": "Erika Kirk tweet asserting that Charlie said \"we should be building two statues for every statue that they tear down,\" that \"they think spray paint can obscure his legacy,\" invoking Jesus Christ / \"Go",
       "node_kind": "artifact",
       "episode": 151
     },
@@ -121303,7 +121303,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2367.1",
-      "label": "Blake Neff bookmark of Candace Owens' tweet predicting Erica Kirk Vanity Fair spread with children, after Candace had written \"Save this tweet. It will age well.\"",
+      "label": "Blake Neff bookmark of Candace Owens' tweet predicting Erika Kirk Vanity Fair spread with children, after Candace had written \"Save this tweet. It will age well.\"",
       "node_kind": "artifact",
       "episode": 151
     },
@@ -121534,7 +121534,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2382.1",
-      "label": "Spreadsheet displayed on-screen listing individuals/entities associated with both TPUSA/Erica Kirk's circle and trafficking or child sex abuse cases",
+      "label": "Spreadsheet displayed on-screen listing individuals/entities associated with both TPUSA/Erika Kirk's circle and trafficking or child sex abuse cases",
       "node_kind": "artifact",
       "episode": 152
     },
@@ -128338,7 +128338,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2763.1",
-      "label": "Host verbal reference to the Daily Wire lawsuit filed after her Phil Tourney interview and to her call asking Turney to testify (not shown)",
+      "label": "Host verbal reference to the Daily Wire lawsuit filed after her Phil Tourney interview and to her call asking Tourney to testify (not shown)",
       "node_kind": "artifact",
       "episode": 65
     },
@@ -132860,7 +132860,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3033.1",
-      "label": "Host verbal reference to a letter behind the debunking claim that Kittis's lawyer is in the 920 North King office (not shown)",
+      "label": "Host verbal reference to a letter behind the debunking claim that Candace'ss lawyer is in the 920 North King office (not shown)",
       "node_kind": "artifact",
       "episode": 37
     },
@@ -136997,7 +136997,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3296.1",
-      "label": "Clip of the Charlie Kirk Show in which a speaker cites Turkey Tom's video and a speaker addressed as Viva sets out a theory about the Robinson text messages, radicalization timing and George Zin",
+      "label": "Clip of the Charlie Kirk Show in which a speaker cites Turkey Tom's video and a speaker addressed as Viva sets out a theory about the Robinson text messages, radicalization timing and George Zinn",
       "node_kind": "artifact",
       "episode": 47
     },

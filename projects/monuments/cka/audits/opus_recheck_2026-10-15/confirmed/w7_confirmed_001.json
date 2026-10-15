@@ -1,0 +1,432 @@
+[
+ {
+  "claim": "C-2216",
+  "episode": 64,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:39:57"
+  },
+  "note": "Quote est. ~39:59-40:00 in 38:38-40:30 block; 39:57 fits."
+ },
+ {
+  "claim": "C-5580",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-97",
+    "N-498"
+   ]
+  },
+  "note": "Claim names Youssef as speaker; N-498 belongs in Mentions."
+ },
+ {
+  "claim": "C-5586",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "Youssef says Mike Pompeo said at an event that the way October 7th is remembered will not be how it is remembered today and that people should remember Israel as the victim.",
+   "mentions": [
+    "N-456",
+    "N-498"
+   ]
+  },
+  "note": "Speaker change at '>> Yeah. Like Mike Pompeo' is the guest Youssef; hedge unneeded, N-498 added."
+ },
+ {
+  "claim": "C-5587",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "claim": "Youssef says a friend who attended the Cannes film festival last year reported that pledges of over $200 million had been made to produce TV shows and movies retelling October 7th from the Israeli point of view.",
+   "mentions": [
+    "N-498"
+   ]
+  },
+  "note": "Same Youssef turn as the Pompeo remark; speaker named and N-498 added."
+ },
+ {
+  "claim": "C-5603",
+  "episode": 65,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Andrew Kolvet, Not Charlie Kirk, Ran Kirk's Twitter Feed"
+  },
+  "note": "Transcript gives the Kolvet line to the host interjecting; label now matches claim."
+ },
+ {
+  "claim": "C-2240",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the Daily Mail article the host reads, Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting a \"mourning avoidant, emotion phobic culture\"; Bidwell Smith states \"widows are uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\""
+  },
+  "note": "Quotes are read from the Daily Mail article; attribution fixed."
+ },
+ {
+  "claim": "C-2242",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erika Kirk's memorial speech, and her first speech beside Charlie's chair ~36–48 hours after his death, centered on Turning Point USA."
+  },
+  "note": "Transcript: memorial vs. 'first speech... next to his chair' 36-48 hours after; fix matches."
+ },
+ {
+  "claim": "C-2244",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "label": "Per Text the Host Shows, Father Blank Told the Donor Erika May Be at Monday Morning Mass",
+   "claim": "Per the donor's email and a text message the host shows, Father Blank texted the donor at 6:30am saying \"Hope to see you at mass\" and \"Erika may be there too.\""
+  },
+  "note": "Donor email has 'text from him at 6:30 a.m. saying, Hope to see you at mass'; host shows 'Erika may be there, too'."
+ },
+ {
+  "claim": "C-2247",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "label": "Text Introducing Donor to TPUSA Staffer Cites $6M Memorial Cost Tied to Displaced RV Show at Cardinal Stadium",
+   "claim": "Per a text message the host shows, a contact introducing the donor to TPUSA's \"Blank\" says Blank told them the memorial will cost approximately $6 million, that Trump apparently had to get personally involved to secure Cardinal Stadium, and that the high cost was driven by making up lost revenue from a \"large and lucrative RV show\" planned that weekend."
+  },
+  "note": "Text is from the contact introducing donor to Blank and relays Blank's figures."
+ },
+ {
+  "claim": "C-2248",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the message the host reads, Father Blank responded to the donor's thank-you message with: \"God's fingerprints are all over what is happening. There is no doubt that your presence to Erika was a God moment for both of you.\""
+  },
+  "note": "Reply is a message the host reads aloud."
+ },
+ {
+  "claim": "C-2249",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:25:29"
+  },
+  "note": "Wayback line est. ~25:34; 25:29 is ~5s before."
+ },
+ {
+  "claim": "C-2250",
+  "episode": 66,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:31:32",
+   "claim": "The host says another top TPUSA fundraiser, who delivered the relic, offered to visit the donor in the Chicago area, met her and her father, and invited her to the Mar-a-Lago gala where, she says, they were going to raise about $42 million; per a text the host reads, he then asked to call her about the gala."
+  },
+  "note": "Chicago visit and $42M are host narration (~31:37); text only asks to call about the gala."
+ },
+ {
+  "claim": "C-2265",
+  "episode": 67,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-523"
+   ]
+  },
+  "note": "Post says only 'Your favorite artist'; claim does not name or clearly refer to Jay-Z."
+ },
+ {
+  "claim": "C-2274",
+  "episode": 67,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Andrew Kolvet and Dan Flood Received the \"Kill Me\" Text; Source Says It Was an iMessage",
+   "timestamp": "00:43:53"
+  },
+  "note": "Host, not source, names recipients (~43:57); timestamp and label fixed."
+ },
+ {
+  "claim": "C-2278",
+  "episode": 67,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:57:51"
+  },
+  "note": "Shyla comment est. ~57:53; 57:51 fits."
+ },
+ {
+  "claim": "C-14254",
+  "episode": 67,
+  "decision": "accept",
+  "fix": {
+   "label": "Clip has Ben Shapiro saying Tucker Carlson asserted that Mossad ran Epstein",
+   "claim": "In a clip of Ben Shapiro the host plays, Shapiro says Tucker Carlson asserted that it was Mossad running Jeffrey Epstein, which Shapiro says Carlson did without evidence.",
+   "mentions": [
+    "N-3",
+    "N-97",
+    "N-22",
+    "N-9"
+   ]
+  },
+  "note": "Line is Ben Shapiro in the clip begun at 18:35; N-97 added."
+ },
+ {
+  "claim": "C-14258",
+  "episode": 67,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:23:28"
+  },
+  "note": "CERN remark est. ~23:33 in 22:23-24:02 block; 23:40 is after it, so 5s before is 23:28."
+ },
+ {
+  "claim": "C-2295",
+  "episode": 68,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Justin Streiff told her in text messages that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.",
+   "mentions": [
+    "N-3",
+    "N-15",
+    "N-490",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika (N-2); host relays Streiff's messages."
+ },
+ {
+  "claim": "C-10027",
+  "episode": 68,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Mikey McCoy called his wife first and Erika three-plus minutes later, mocking this as 'so much for that training that Charlie allegedly gave him', and says she does not buy that account.",
+   "label": "Host Mocks McCoy Call Order Against Charlie's Alleged Training"
+  },
+  "note": "Host mocks McCoy calling his wife first; fix matches transcript."
+ },
+ {
+  "claim": "C-2299",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "claim": "An Epstein email the host shows, addressed 'Hi, Sultan', asks who 'James Miller' is, says 'He is who you have built to', and asks whether the shipping address is Jeffrey's home at 9E71st Street."
+  },
+  "note": "Shipping-address line is read as part of the email text."
+ },
+ {
+  "claim": "C-12655",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-546"
+   ]
+  },
+  "note": "Claim names Tracy Martin; N-546 added."
+ },
+ {
+  "claim": "C-12666",
+  "episode": 69,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or refer to Tyler Robinson."
+ },
+ {
+  "claim": "C-2316",
+  "episode": 70,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika Kirk told the New York Times that the night before Charlie Kirk's murder \"Charlie's adrenal glands were just going off\" and that he couldn't sleep."
+  },
+  "note": "Night before refers to the glands, not when Erika spoke to NYT; host quotes it."
+ },
+ {
+  "claim": "C-2320",
+  "episode": 70,
+  "decision": "reject",
+  "fix": {
+   "claim": "Aubrey Laitsch's video states she was brought into a meeting with Andrew Kolvet and Marina Minas and questioned about an Uber ride in which a Turning Point executive's driver allegedly relayed statements attributed to \"Aubrey.\"",
+   "timestamp": "00:26:00",
+   "names": [
+    {
+     "wrong": "Marina Munz",
+     "right": "Marina Minas",
+     "source": "https://people.equilar.com/bio/person/marina-minas-turning-point-usa/70724078"
+    }
+   ]
+  },
+  "note": "HELD for Daveed. Marina Minas confirmed as TPUSA CMO in Laitsch coverage (Newsweek, Daily Dot); meeting account ~25:52-26:06."
+ },
+ {
+  "claim": "C-2321",
+  "episode": 70,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:27:35"
+  },
+  "note": "'gut feeling... terminated' est. ~27:42; 27:35 fits."
+ },
+ {
+  "claim": "C-2322",
+  "episode": 70,
+  "decision": "reject",
+  "fix": {
+   "claim": "In a video the host plays, Aubrey Laitsch names Andrew Kolvet (described as her employer via ATK) and Marina Minas (CMO of Turning Point USA) as the two people present at her termination meeting.",
+   "label": "Aubrey Laitsch video names Andrew Kolvet and Marina Minas at termination meeting",
+   "timestamp": "00:26:00",
+   "names": [
+    {
+     "wrong": "Marina Munz",
+     "right": "Marina Minas",
+     "source": "https://people.equilar.com/bio/person/marina-minas-turning-point-usa/70724078"
+    }
+   ]
+  },
+  "note": "HELD for Daveed. Marina Minas confirmed as TPUSA CMO (Newsweek, Daily Dot); 'It was myself, Andrew' est. ~26:06."
+ },
+ {
+  "claim": "C-2324",
+  "episode": 70,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:34:39"
+  },
+  "note": "Line est. ~34:42; 34:39 fits."
+ },
+ {
+  "claim": "C-8390",
+  "episode": 70,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she and Charlie Kirk talked about his third eye, strange things in their childhood, the testing they endured, astral projection and sleep paralysis, and notes Erika Kirk spoke in the article about streetlamps that went off when he ran and the special school he attended."
+  },
+  "note": "Streetlamps and special school are what Erika said in the article, per transcript."
+ },
+ {
+  "claim": "C-8401",
+  "episode": 70,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host alleges Erika Kirk was lying to cover BB Netanyahu's tracks, linking this to what she portrays as Erika's dismissive \"little joke\" about the Egyptian planes."
+  },
+  "note": "Host is mocking Erika's dismissive 'little joke' about Egyptian planes."
+ },
+ {
+  "claim": "C-2337",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:21:27"
+  },
+  "note": "ZoomInfo passage est. ~21:31; 21:27 fits."
+ },
+ {
+  "claim": "C-2343",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-38",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk; N-1 added."
+ },
+ {
+  "claim": "C-14311",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-807"
+   ]
+  },
+  "note": "Claim names Bad Bunny; N-807 added."
+ },
+ {
+  "claim": "C-14320",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-11",
+    "N-807"
+   ]
+  },
+  "note": "Claim names Bad Bunny; N-807 added."
+ },
+ {
+  "claim": "C-14362",
+  "episode": 71,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:37:15"
+  },
+  "note": "Line est. ~37:21; 37:15 fits."
+ },
+ {
+  "claim": "C-2353",
+  "episode": 72,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:31:08"
+  },
+  "note": "License line est. ~31:14; 31:08 fits."
+ },
+ {
+  "claim": "C-10082",
+  "episode": 72,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she then confirmed with her person that the message on Dan Flood's phone was sent by iMessage and not Telegram, so that Erika lied to her twice."
+  },
+  "note": "Message was received on Flood's phone, not sent from it."
+ },
+ {
+  "claim": "C-10102",
+  "episode": 72,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-561"
+   ]
+  },
+  "note": "Claim does not name or refer to Erika Kirk."
+ },
+ {
+  "claim": "C-10121",
+  "episode": 72,
+  "decision": "reject",
+  "fix": {
+   "claim": "The host says Aubrey Laitsch, who was fired from Turning Point USA and spoke out, had been questioned over an Uber ride by TPUSA CMO Marina Minas.",
+   "names": [
+    {
+     "wrong": "Marina Meanes",
+     "right": "Marina Minas",
+     "source": "https://www.newsweek.com/tpusa-staffer-says-she-was-fired-over-erika-kirk-claim-11476884"
+    }
+   ]
+  },
+  "note": "HELD for Daveed. Marina Minas confirmed as TPUSA CMO (Newsweek, Daily Dot); 'Meanes' is a mis-transcription."
+ },
+ {
+  "claim": "C-2365",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the wedding photo was absent from the background during Erika Kirk's December 12, 2025 Glenn Beck interview filmed from Charlie Kirk's home office – the same space where it was visible on September 8, 2025."
+  },
+  "note": "Host's observation ('that wedding photo is missing'), not established fact."
+ },
+ {
+  "claim": "C-2366",
+  "episode": 73,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a post in which Laura Loomer wrote on X, \"It is time for Mrs. Erika Kirk to sue Candace Owens. She has gone too far.\""
+  },
+  "note": "Host reads the Loomer post aloud."
+ }
+]

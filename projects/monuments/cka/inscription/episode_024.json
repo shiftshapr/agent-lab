@@ -579,7 +579,7 @@
       "ref": "N-212",
       "name": "Jesse Watters",
       "type": "person",
-      "description": "Host of the Fox News interview with Erica Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)",
+      "description": "Host of the Fox News interview with Erika Kirk that is teased as upcoming at episode time. (Name preserved as transcript renders it.)",
       "related_artifacts": [
         "A-1318.1"
       ],
@@ -726,7 +726,7 @@
       "ref": "N-10216",
       "name": "TPUSA Posthumous Israel Award Reporting Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erica Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolvet's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.",
+      "description": "Persistent discrepancy between Jerusalem Post / Israeli War Room reporting that Erika Kirk would accept a Pillars of Jerusalem Award on Charlie Kirk's behalf and Andrew Kolvet's on-record statement that TPUSA had not heard of the award and that the CEO was not scheduled to participate.",
       "related_artifacts": [
         "A-1317.1",
         "A-1317.2",
@@ -756,7 +756,7 @@
       "ref": "N-10217",
       "name": "TPUSA Leadership Transparency Pressure (Post-Charlie)",
       "type": "investigation_target",
-      "description": "Persistent pressure articulated in this episode on TPUSA leadership (CEO/chairman Erica Kirk; Tyler Bowyer; etc.) to publicly disclose what they can about Rob McCoy, Mikey McCoy/McColgan, Taryl, and the timeline of phone calls/texts surrounding Charlie Kirk's death.",
+      "description": "Persistent pressure articulated in this episode on TPUSA leadership (CEO/chairman Erika Kirk; Tyler Bowyer; etc.) to publicly disclose what they can about Rob McCoy, Mikey McCoy/McColgan, Taryl, and the timeline of phone calls/texts surrounding Charlie Kirk's death.",
       "related_artifacts": [],
       "related_claims": [
         "C-1578"
@@ -835,7 +835,7 @@
       "ref": "N-10894",
       "name": "Jerusalem Post",
       "type": "organization",
-      "description": "News outlet whose reporting (by Michael Starr) was cited in the Israeli War Room X post asserting that Erica Kirk would accept the posthumous award.",
+      "description": "News outlet whose reporting (by Michael Starr) was cited in the Israeli War Room X post asserting that Erika Kirk would accept the posthumous award.",
       "related_artifacts": [
         "A-1317.1"
       ],
@@ -2002,8 +2002,8 @@
       "@type": "Claim",
       "@id": "C-1574",
       "ref": "C-1574",
-      "label": "Photo of Candace and Charlie Kirk Puffing Chests at Ben Shapiro's Studio",
-      "claim": "A photo displayed in the episode depicts Candace Owens and Charlie Kirk in Ben Shapiro's Sherman Oaks studio, standing with puffed chests and standing extra tall, taken in or around June 2018 after they were booked on his show despite prior tension.",
+      "label": "Host Shows Photo of Charlie Kirk Puffing His Chest Beside Ben Shapiro",
+      "claim": "The host shows a photo she says was taken with Ben Shapiro when she and Charlie Kirk went on his show after a producer booked them in June 2018, at a location she thinks was in Sherman Oaks, California, and says Charlie puffed his chest out and stood extra tall in it so they would never forget triumphing over Ben Shapiro.",
       "anchored_artifacts": [
         "A-1316.1"
       ],
@@ -2035,6 +2035,7 @@
       "claim_timestamp": "00:21:26",
       "investigative_direction": "Verify by independently locating the original Jerusalem Post article by Michael Starr, the Israeli War Room X post, and the Christian Media Summit program to confirm whether the award and presenters are real and whether Erika Kirk is listed.",
       "mentions_person_refs": [
+        "N-1",
         "N-2",
         "N-211",
         "N-215",
@@ -2058,7 +2059,6 @@
       "claim_timestamp": "00:22:13",
       "investigative_direction": "Verify by locating Kolbenschlag's original X post and any subsequent follow-up from TPUSA.",
       "mentions_person_refs": [
-        "N-2",
         "N-14",
         "N-211"
       ]
@@ -2179,13 +2179,13 @@
       "@id": "C-1583",
       "ref": "C-1583",
       "label": "Host Characterizes Ben Shapiro Segment as Scripted Stab",
-      "claim": "Host characterizes Ben Shapiro's segment attacking Tucker Carlson as \"a very, dare I say, scripted stab\" that \"took\" the same talking points as other Zionists.",
+      "claim": "The host characterizes Ben Shapiro's segment attacking Tucker Carlson as \"a very, dare I say, scripted stab\" with the \"same talking points\" as other Zionists.",
       "anchored_artifacts": [
         "A-1314.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:10:00",
+      "claim_timestamp": "00:09:25",
       "investigative_direction": "This is a host interpretive stance; verification is anchored to A-1314.1.",
       "confidence": "medium",
       "mentions_person_refs": [
@@ -3042,7 +3042,7 @@
       "@type": "Claim",
       "@id": "C-9486",
       "ref": "C-9486",
-      "label": "Host Says She Told Erika She Would Be Quiet if Asked and Was Not Asked",
+      "label": "Host Says She Would Be Quiet if Erika Asked and Was Not Asked",
       "claim": "The host says she said early on that if Erika Kirk asks her to be quiet she will be quiet, and that Erika did not ask her to be quiet.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -3324,8 +3324,8 @@
       "@type": "Claim",
       "@id": "C-9499",
       "ref": "C-9499",
-      "label": "Host Says Case Messages Were Written by 20-Year-Old Gay Men and Do Not Sound Gen Z",
-      "claim": "The host says the impassioned messages in the case were written by 20-year-old gay men and do not exactly sound Gen Z.",
+      "label": "Host Says Case Messages Attributed to 20-Year-Old Gay Men Do Not Sound Gen Z",
+      "claim": "The host says the case makes no sense, citing the impassioned messages attributed to 20-year-old gay men, which she says don't exactly sound Gen Z.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10077"

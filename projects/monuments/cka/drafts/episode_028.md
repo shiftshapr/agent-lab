@@ -770,11 +770,11 @@ Investigative Direction: Identify the specific Owens episodes in which she discu
 
 ---
 
-**C-1640** HuffPost Report: Boring Praised Fuentes on X Space
+**C-1640** HuffPost Report: Boreing Praised Fuentes on X Space
 
-Claim Timestamp: 00:14:04
+Claim Timestamp: 00:12:50
 
-Claim: According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism.
+Claim: According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on X for a live audio chat room, praised Fuentes as "very funny" and "one of the most talented political influencers," and offered only mild criticism; the host says the X Space was hosted by Lauren Chen.
 
 Anchored Artifacts: A-1358.1, A-1359.1
 Mentions: N-202, N-367, N-851
@@ -785,7 +785,7 @@ Investigative Direction: Verify the original X Space audio against the HuffPost 
 
 ---
 
-**C-1641** Boring Invited Fuentes Onto Daily Wire Shows
+**C-1641** Boreing Invited Fuentes Onto Daily Wire Shows
 
 Claim Timestamp: 00:14:04–00:15:45
 
@@ -804,7 +804,7 @@ Investigative Direction: Confirm via the original X Space audio that this invita
 
 Claim Timestamp: 00:16:27–00:17:50
 
-Claim: In text messages the host reads between herself and Charlie Kirk, Kirk tells her she is bigger than Ben Shapiro now, says they have to treat him like noise, that Shapiro is sending his "incestuous brother" to go try and kill them, and that he views Owens as Kirk's "slave 100%"; the host separately says Shapiro was going on people's shows talking down about her and Kirk and sent his YAF boys and National Review peeps after them.
+Claim: In text messages the host reads between herself and Charlie Kirk, Kirk tells her she is bigger than Ben Shapiro now, says they have to treat him like noise, that, in a Game of Thrones reference, Shapiro is sending his "incestuous brother" to go try and kill them, and that he views Owens as Kirk's "slave 100%"; the host separately says Shapiro was going on people's shows talking down about her and Kirk and sent his YAF boys and National Review peeps after them.
 
 Anchored Artifacts: A-1360.1, A-1360.2
 Mentions: N-3, N-1, N-97
@@ -889,7 +889,7 @@ Investigative Direction: Trace the $230M figure to its underlying donor records,
 
 **C-1648** Shapiro Has Tweeted That "Israel First" Critique Is Antisemitism
 
-Claim Timestamp: 00:02:12
+Claim Timestamp: 00:01:41
 
 Claim: Per a tweet the host shows, Ben Shapiro wrote that accusing any American Jew who is pro-Israel of being "Israel first" is a "pure form of anti-semitism"; the host says it was directed at Nick Fuentes.
 
@@ -906,7 +906,7 @@ Investigative Direction: Locate the original tweet via X/Twitter search or web a
 
 Claim Timestamp: 00:02:12
 
-Claim: Ben Shapiro previously posted tweets containing imagery of Ron Paul "leaning forward from the grave and strangling the Jews" and "gripping the pen as he would the neck of a Jew."
+Claim: Per tweets the host shows, Ben Shapiro previously posted tweets containing imagery of Ron Paul "leaning forward from the grave and strangling the Jews" and "gripping the pen as he would the neck of a Jew."
 
 Anchored Artifacts: A-1355.3
 Mentions: N-97, N-713
@@ -921,10 +921,10 @@ Investigative Direction: Locate the original tweets via web archives to verify w
 
 Claim Timestamp: 00:04:34–00:05:23
 
-Claim: Ben Shapiro and Tucker Carlson exchanged text messages in which Shapiro proposed a joint show on the "DSA threat" and Carlson replied that he needed "a week or two" to think; Shapiro states subsequent outreach went unanswered.
+Claim: In a clip the host plays, Ben Shapiro says he texted Tucker Carlson proposing a joint show on the "DSA threat," that Carlson replied he would spend "the next week or two" thinking about how to be most effective, and that his repeated outreach afterward went unanswered.
 
 Anchored Artifacts: A-1357.1
-Mentions: N-1, N-22, N-97
+Mentions: N-22, N-97
 
 
 Investigative Direction: Verify the exchange via Carlson or Shapiro public statements, and confirm whether the outreach was conducted on both sides after the cited date.
@@ -933,7 +933,7 @@ Investigative Direction: Verify the exchange via Carlson or Shapiro public state
 
 **C-1651** Owens Describes CNN Interview as Occurring Days After Kirk's Death
 
-Claim Timestamp: 00:33:44–00:33:57
+Claim Timestamp: 00:33:08
 
 Claim: Candace Owens states that the aired CNN interview with Elle Reeve occurred "a couple of days after Charlie was killed" and was her first interview after his death.
 
@@ -956,7 +956,7 @@ Transcript Snippet: I'm going to peer pressure Megyn Kelly myself. I'm going to 
 Anchored Artifacts: A-1356.1
 Mentions: N-97, N-46, N-3, N-22
 Related Nodes: N-10406
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain full video of the Kelly tour stop and compare Shapiro's questions to Kelly with what the host and Carlson actually said.
 
 ---
@@ -1044,12 +1044,12 @@ Investigative Direction: Confirm the date of the Carlson and Greene episode agai
 
 Claim Timestamp: 00:08:20
 
-Claim: In the played clip, a speaker says that in the New York City mayoral debate all the candidates were asked which foreign country they would visit and most said Israel, while Mamdani said he would stay in New York.
+Claim: In the played clip, a speaker says that in the New York City mayoral debate all the candidates were asked which foreign country they would visit and, the speaker thinks, most said Israel, while Mamdani said he would stay in New York.
 
 Transcript Snippet: They were all the candidates were asked, "If you could visit a foreign country, what would it be?" And they of course all had an answer. I think most said Israel.
 
 Anchored Artifacts: A-1356.2
-Mentions: N-146, N-224, N-22
+Mentions: N-224
 Related Nodes: N-10026
 Tags: relevance:tangential
 Investigative Direction: Check the debate transcript for the foreign-country question and each candidate's answer.
@@ -1143,7 +1143,7 @@ Investigative Direction: Check the date of the X Space (HuffPost cites March 25)
 
 Claim Timestamp: 00:14:04
 
-Claim: The host refers to the Daily Wire's position 'in 2024' that its CEO could talk to and praise Nick Fuentes and invite him on the platform; the article read aloud gives only 'March 25th', so this dates the conversation to 2024.
+Claim: The host refers to the Daily Wire's position 'in 2024' that its CEO could talk to and praise Nick Fuentes and invite him on the platform; the article read aloud gives only 'March 25th'.
 
 Transcript Snippet: when the Daily Wire position in 2024 was that their CEO could talk to Nick Fuentes publicly, praise Nick Fuentes publicly
 
@@ -1165,7 +1165,7 @@ Claim: In the played X Space audio, Nick Fuentes says he dislikes that guys like
 Transcript Snippet: I don't like that guys like Shapiro cannot will not say Christ is king. America first. I think they forfeit their ability to lead.
 
 Anchored Artifacts: A-1359.1
-Mentions: N-202, N-97, N-367
+Mentions: N-202, N-97
 Tags: relevance:context
 Investigative Direction: Obtain the full X Space recording and confirm the speaker and wording.
 
@@ -1306,7 +1306,7 @@ Claim: The host says Nick Fuentes was an 18-year-old who started asking question
 Transcript Snippet: He started asking questions about Israel and he got artificially pushed out of the market when he had his whole life ahead of him.
 
 Anchored Artifacts: A-1359.1
-Mentions: N-202, N-367, N-97
+Mentions: N-202, N-367
 Tags: relevance:context
 Investigative Direction: Review the Boring and Fuentes X Space and Fuentes's own account of his dismissal to see what Boring and Shapiro actually conceded.
 
@@ -1384,7 +1384,7 @@ Claim: The host says that after being fired she learned of a covert Daily Wire p
 Transcript Snippet: they were going to pass around a clip, but they were going to make it look like she was just a a random student.
 
 Anchored Artifacts: A-1361.1
-Mentions: N-3
+Mentions: N-3, N-236
 Related Nodes: N-10238
 Supports: C-1643
 Tags: relevance:context
@@ -1499,7 +1499,7 @@ Claim: The host says the CNN interview took place a couple of days after Charlie
 Transcript Snippet: it was a couple of days after Charlie was killed. First interview I was giving. Just worked out that it was CNN. It wasn't about Charlie Kirk that we were we had set this up before.
 
 Anchored Artifacts: A-1362.1
-Mentions: N-3, N-1, N-235
+Mentions: N-3, N-1
 Related Nodes: N-11159
 Supports: C-1651
 Tags: relevance:context
@@ -1523,11 +1523,11 @@ Investigative Direction: Check Reeve's and CNN's social accounts for who first p
 
 ---
 
-**C-9683** Clip: Reeve Asks Whether 'They' Means Jews
+**C-9683** Clip: Reeve Says 'They' Sounds Like Jews
 
 Claim Timestamp: 00:36:43
 
-Claim: In the played CNN clip, Elle Reeve asks the host whether her use of the word 'they' means Jews, and the host replies that if she is not talking about Jews then 'they' does not mean Jews.
+Claim: In the played CNN clip, Elle Reeve tells the host that her use of the word 'they' sounds like she is saying Jews, and the host replies that if she is not talking about Jews then 'they' does not mean Jews.
 
 Transcript Snippet: Who is they? And it's like >> because it sounds like you're saying Jews.
 
@@ -1548,7 +1548,7 @@ Claim: In the played CNN clip, the host says that when she says Zionists run the
 Transcript Snippet: When I say Zionists run the media, I mean Zionists run the media. People that support the political ideology of Israel run the media.
 
 Anchored Artifacts: A-3025.1
-Mentions: N-3, N-235
+Mentions: N-3
 Related Nodes: N-11159
 Tags: relevance:context
 Investigative Direction: Compare with the host's other statements on media ownership and the full CNN transcript.
@@ -1579,7 +1579,7 @@ Claim: In the played Auburn clip, the student says Trump's frustrations with Net
 Transcript Snippet: Your father's frustrations with the Netanyahu have been made clear when he cursed on national TV over the situation.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-375, N-36
+Mentions: N-5, N-36
 Tags: relevance:context
 Investigative Direction: Identify the televised remark the student refers to and its date.
 
@@ -1594,7 +1594,7 @@ Claim: In the played Auburn clip, the student says Israel has not been a great a
 Transcript Snippet: Israel has not been a great ally to the US all the way since 1960 when they bombed the USS Liberty.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-375
+Mentions: 
 Related Nodes: N-10451
 Tags: relevance:tangential
 Investigative Direction: The attack on the USS Liberty is generally dated to 1967; record the student's date as said and verify against the historical record.
@@ -1610,7 +1610,7 @@ Claim: In the played Auburn clip, Eric Trump responds that there is no question 
 Transcript Snippet: There's no question my my father's had frustration. In fact, I think he says frustration throughout the whole conflict with with both sides.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-34, N-375
+Mentions: N-34, N-5
 Tags: relevance:context
 Investigative Direction: Cross-check against public statements by Donald Trump about frustration with Netanyahu and with Iran.
 
@@ -1625,7 +1625,7 @@ Claim: In the played Auburn clip, a speaker answering the student cites a 40-yea
 Transcript Snippet: whether we're talking about a 40-year war like Armenia and Azeraijan, as Eric just pointed out, a five-day war in Thailand and Cambodia.
 
 Anchored Artifacts: A-1363.1
-Mentions: N-375, N-34
+Mentions: N-375, N-5
 Tags: relevance:tangential
 Investigative Direction: Verify the durations and outcomes of the cited conflicts and the speaker's identity in the full clip.
 
@@ -1656,7 +1656,7 @@ Claim: The host says America's upside is that 'we' get lectured and told we are 
 Transcript Snippet: we get to get lectured and told that we're not even allowed to bring up Israel on college campuses or risk being like um arrested getting stricter on anti-semitism laws.
 
 Anchored Artifacts: 
-Mentions: N-34, N-375
+Mentions: N-3
 Related Nodes: N-10081
 Tags: relevance:context
 Investigative Direction: Identify specific campus arrests or state anti-semitism laws the host may be referring to.
@@ -1704,7 +1704,7 @@ Claim: The host says that right from the beginning Israel did not act right, tha
 Transcript Snippet: We didn't do it immediately. It wasn't us. Oh, that's kind of weird. That's kind of weird that you're just jumping up and saying that it wasn't you.
 
 Anchored Artifacts: 
-Mentions: N-1, N-3
+Mentions: N-3
 Related Nodes: N-10026, N-10056
 Tags: relevance:core
 Investigative Direction: Find the dated Israeli official statements after September 10, 2025 denying involvement and compare timing with other governments' statements.

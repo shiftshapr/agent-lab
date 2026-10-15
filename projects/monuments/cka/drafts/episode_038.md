@@ -1252,7 +1252,7 @@ Investigative Direction: Locate original article; obtain official command-change
 
 ---
 
-**C-1789** North French Street originated from 1790s refugee settlement
+**C-1789** French Street Name Dates From 1790s Refugee Settlement
 
 Claim Timestamp: 00:25:55
 
@@ -1318,7 +1318,7 @@ Investigative Direction: Identify the specific Delaware legislation; obtain bill
 
 Claim Timestamp: 00:33:11
 
-Claim: The host says Hervé Hoppenot, a French national, was the long-time CEO of Incyte and seems to have just exited as CEO but is still running the company as advisor to the CEO.
+Claim: Per the source email the host reads, Hervé Hoppenot, a French national, was the long-time CEO of Incyte and seems to have just exited as CEO but is still running the company as advisor to the CEO.
 
 Anchored Artifacts: A-1469.4
 Mentions: N-287
@@ -1342,9 +1342,9 @@ Investigative Direction: Verify Wilmington Trust founding date and founder via c
 
 **C-1796** FBI presence at 500 North Delaware Avenue
 
-Claim Timestamp: 00:30:58
+Claim Timestamp: 00:32:37
 
-Claim: Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the MGM Delaware Avenue law firm has Suite 200, which the host believes is directly below the FBI.
+Claim: Per the source email, the FBI apparently has Suite 300 at 500 North Delaware Avenue and the MGM Delaware Avenue law firm has Suite 200, which the writer believes is directly below the FBI.
 
 Anchored Artifacts: A-1469.6
 Related Nodes: N-10289
@@ -1496,7 +1496,7 @@ Investigative Direction: Ask Poussard whether he received threats or any warning
 
 Claim Timestamp: 00:04:20
 
-Claim: The host says she told the public there was a paper trail showing Macron allegedly paid $1.5 million for her assassination, and stresses that the amount is alleged until she can see the transfer in the accounts herself.
+Claim: The host says she told the public there was a paper trail showing Macron allegedly paid $1.5 million, and stresses that the amount is alleged until she can see the transfer in the accounts herself.
 
 Transcript Snippet: I said there was a paper trail that Macron allegedly paid $1.5 million
 
@@ -1852,7 +1852,7 @@ Investigative Direction: Review GSA lease and federal tenant records for 920 Nor
 
 Claim Timestamp: 00:25:00
 
-Claim: The host says 920 North King Street houses the attorneys filing her paperwork in the Brigitte lawsuit, and that Delaware requires a locally admitted firm to file even if a party has its own lawyers.
+Claim: The host says 920 North King Street houses the attorneys filing her paperwork in the Brigitte lawsuit, and that Delaware requires a party to find lawyers to file the paperwork even if it has its own lawyers.
 
 Transcript Snippet: it is also a place which houses the attorneys that are filing my paperwork in the Brigitte lawsuit.
 
@@ -1904,7 +1904,7 @@ Claim: The host reads a source email saying the du Pont family has extreme ties 
 Transcript Snippet: they are the original manufacturers of Kevlar
 
 Anchored Artifacts: A-1469.3
-Mentions: N-289
+Mentions: 
 Related Nodes: N-10287
 Tags: relevance:tangential
 Investigative Direction: Check DuPont corporate history for Kevlar's development; the military-tie assertion is general and would need specific contracts.
@@ -2044,7 +2044,7 @@ Investigative Direction: Ask the host for the tip's origin and any corroboration
 
 Claim Timestamp: 00:36:30
 
-Claim: The host says she feels she was set up by the federal government in the lawsuit, with federal agencies possibly colluding to end her research into who Brigitte Macron was, and that France, the United States and Israel are all implicated.
+Claim: The host says she feels she was set up by the federal government in the lawsuit, with federal agencies possibly colluding to end her research into who Brigitte Macron was, and that France, the United States and Israel are all implicated in whatever Jean-Michel Trogneux was up to during the missing years of his life.
 
 Transcript Snippet: I feel like I was set up by the federal government in terms of this lawsuit.
 
@@ -2075,7 +2075,7 @@ Investigative Direction: Find the original statement by Brigitte Macron about be
 
 Claim Timestamp: 00:37:20
 
-Claim: The host says MK Ultra is mentioned 18 times in the lawsuit although her filing only noted that Brigitte's alleged fake birthday is the same day as the MK Ultra program, and she suspects Brigitte's involvement in psychological operations.
+Claim: The host says MK Ultra is mentioned 18 times in the lawsuit although all she had said was that Brigitte's alleged fake birthday is the same day as the MK Ultra program, and she suspects Brigitte's involvement in psychological operations.
 
 Transcript Snippet: the mentioning of MK Ultra 18 times absurdly in my lawsuit
 

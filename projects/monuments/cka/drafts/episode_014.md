@@ -993,7 +993,7 @@ Investigative Direction: Independently confirm Lane's account with the firms she
 
 **C-1360** Elizabeth Lane Says Utah State Prosecutor Asserted Authority Over Robinson Defense Selection
 
-Claim Timestamp: 00:32:15
+Claim Timestamp: 00:31:15
 
 Claim: In a clip of the Redacted podcast the host plays, Elizabeth Lane says a large Utah law firm she called told her rudely that only Skordas is allowed to find representation for Tyler Robinson, and that Skordas is running as a state prosecutor.
 
@@ -1275,7 +1275,7 @@ Investigative Direction: Identify the specific press pieces and federal statemen
 
 Claim Timestamp: 00:06:40
 
-Claim: The host says the ADL has been directing the FBI for years, labels people who tell the truth as extremists, and that its list effectively works as a hit list used with the FBI.
+Claim: The host says the ADL has been directing the FBI for years, labels people who tell the truth as extremists, and that she thinks its list effectively works as a hit list used with the FBI.
 
 Transcript Snippet: They label people who tell the truth extremists. They put them on a list. I think it effectively works as a hit list.
 
@@ -1726,7 +1726,7 @@ Investigative Direction: Verify Hild's reported Cayman Islands and Spain ties th
 
 Claim Timestamp: 00:27:37
 
-Claim: The host says she thinks JFK was surrounded and infiltrated by his own people and removed for wrong ideas, perhaps that every foreign nation should register under FARA, and that the Warren Commission was a farce.
+Claim: The host says she thinks JFK's associates may have covered up his assassination, that he was surrounded and infiltrated and removed for wrong ideas, perhaps that every foreign nation should register under FARA, and that the Warren Commission was a farce.
 
 Transcript Snippet: I think he was surrounded. I think he was infiltrated and then they got rid of him because of wrong think.
 
@@ -1863,7 +1863,7 @@ Transcript Snippet: this gang that's running everything, okay, they also are con
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10160
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Not independently testable; look for specific rulings or appointments.
 
 ---

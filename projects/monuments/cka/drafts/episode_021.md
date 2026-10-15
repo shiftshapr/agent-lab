@@ -97,7 +97,7 @@ Confidence: high
   - Claim Range: C-1514–C-1526
   - New Nodes Introduced: N-200, N-10200
   - Reused Nodes Appearing: N-10201, N-9, N-14, N-22, N-40, N-47, N-48, N-98, N-99, N-179, N-191, N-10025, N-10047, N-10081, N-10139, N-10166, N-10350, N-10202, N-10319
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk), N-131
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk), N-131
 
 ---
 
@@ -331,7 +331,7 @@ Claim Count: 0 (inscribed; host claim failed admission test – see Optional Fla
 Episode Count: 1
 Investigative Pressure: Low (pending verification)
 
-*Related: N-1, N-2 (Erica Kirk, existing)*
+*Related: N-1, N-2 (Erika Kirk, existing)*
 
 **N-10202** FBI Charlie Kirk Investigation Handling (Kash Patel)
 
@@ -715,7 +715,7 @@ Investigative Direction: Confirm via the NYT article whether these named officia
 
 Claim Timestamp: 00:13:10
 
-Claim: The host says President Trump signed into law or otherwise established October 14 - Charlie Kirk's birthday - as a national day of remembrance for Charlie Kirk.
+Claim: The host says that for Charlie's birthday President Trump established a holiday, deciding that October 14 - Charlie Kirk's birthday - would be a national day of remembrance for Charlie Kirk.
 
 Anchored Artifacts: A-1289.1
 Mentions: N-1, N-5
@@ -729,7 +729,7 @@ Investigative Direction: Locate the relevant proclamation in the Federal Registe
 
 Claim Timestamp: 00:34:10
 
-Claim: In a Megyn Kelly interview, Donald Trump Jr. stated that he had confidence in the FBI's investigation into Charlie Kirk's death.
+Claim: In a clip of a Megyn Kelly interview the host plays, Donald Trump Jr., asked whether he has confidence in the FBI investigation into Charlie Kirk's death, says after some hesitation ('I mean, I don't know') that he does have confidence.
 
 Anchored Artifacts: A-1287.1
 Mentions: N-46, N-33, N-1
@@ -744,7 +744,7 @@ Investigative Direction: Obtain the full Megyn Kelly interview clip and surround
 
 Claim Timestamp: 00:33:50
 
-Claim: In the same Megyn Kelly interview, Don Trump Jr. did not directly answer the first question about confidence in the FBI investigation, pivoting to remarks about continuing Kirk's work; only after Kelly re-asked the question did he state that he had confidence.
+Claim: In a clip of the Megyn Kelly interview the host plays, Don Trump Jr., asked how he feels about the investigation into Charlie's death, says "so far so good" and turns to continuing Kirk's work; when Kelly asks again whether he has confidence in the FBI investigation, he says "I I do, you know, and I I I mean, I don't know," then that he does have confidence. The host says he did his best not to answer the question.
 
 Anchored Artifacts: A-1287.1
 Mentions: N-33, N-46, N-1
@@ -959,7 +959,7 @@ Investigative Direction: Check TPUSA's Form 990 filings for total annual revenue
 
 Claim Timestamp: 00:14:41
 
-Claim: The host says that when the feds line up to give someone a holiday it is never good, and that she thinks the feds definitely killed Martin Luther King Jr.
+Claim: The host says that when the feds line up to give someone a holiday it is never good, and that she thinks maybe the feds definitely killed Martin Luther King Jr.
 
 Transcript Snippet: I think maybe the feds definitely killed Martin Luther King Jr.
 
@@ -1180,7 +1180,7 @@ Investigative Direction: Check TPUSA campus event schedules and photos from 2016
 
 Claim Timestamp: 00:33:50
 
-Claim: In the Megyn Kelly clip Don Jr. says he has spoken to everyone around, including Erika, and that he does have confidence in the FBI investigation.
+Claim: In the Megyn Kelly clip Don Jr. says, after 'I mean, I don't know', that he has spoken to everyone around, including Erika, and that he does have confidence in the FBI investigation.
 
 Transcript Snippet: but I've spoken to everyone, you know, around and, you know, Erika and like like I I I do have confidence
 

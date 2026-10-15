@@ -169,7 +169,7 @@
           "@type": "Artifact",
           "@id": "A-1326.1",
           "ref": "A-1326.1",
-          "description": "Fox 13 News report (investigative reporter Nate Carile) describing UVU's release of the mid-July event application submitted by UVU's Turning Point USA chapter, and noting that the application form did not contain a standard question about police protection; UVU denied the security plan citing state records law",
+          "description": "Fox 13 News report (investigative reporter Nate Carlisle) describing UVU's release of the mid-July event application submitted by UVU's Turning Point USA chapter, and noting that the application form did not contain a standard question about police protection; UVU denied the security plan citing state records law",
           "related_claims": [
             "C-1589"
           ],
@@ -625,7 +625,7 @@
       "@type": "Person",
       "@id": "N-220",
       "ref": "N-220",
-      "name": "Nate Carile",
+      "name": "Nate Carlisle",
       "type": "person",
       "description": "Fox 13 Salt Lake City investigative reporter who broke the story on UVU's release of the mid-July event application and the absence of a standard police-protection question on the form.",
       "related_artifacts": [
@@ -1403,7 +1403,6 @@
       "claim_timestamp": "00:02:42–00:05:23",
       "investigative_direction": "Obtain full memorial service audio/video; verify whether speaking slots and language were coordinated with TPUSA communications or Rob McCoy directly.",
       "mentions_person_refs": [
-        "N-17",
         "N-191",
         "N-1"
       ]
@@ -1421,7 +1420,7 @@
         "N-10218"
       ],
       "tags": [],
-      "claim_timestamp": "00:05:23–00:07:16",
+      "claim_timestamp": "00:06:38",
       "investigative_direction": "Obtain the original Faith Forward Show episode; obtain copies or transcripts of Charlie Kirk's journals referenced by Rob McCoy; determine whether Rob McCoy had direct access to those journals.",
       "mentions_person_refs": [
         "N-2",
@@ -1434,7 +1433,7 @@
       "@type": "Claim",
       "@id": "C-1586",
       "ref": "C-1586",
-      "label": "Mikey McCoy First Mic'd Charlie on the Final Asia Trip, Four Days Before 9/10",
+      "label": "Mikey McCoy Says the Final Asia Trip Was His First Time Traveling With a Camera",
       "claim": "Mikey McCoy stated on camera that the Asia/Korea trip – which he described as occurring \"three, four days before Utah\" – was the first time he had traveled with the camera and the first time he mic'd Charlie Kirk up.",
       "anchored_artifacts": [
         "A-1323.1"
@@ -1497,7 +1496,7 @@
       "@id": "C-1589",
       "ref": "C-1589",
       "label": "Fox 13 Report Says UVU's TPUSA Chapter Submitted the 9/10 Event Application in Mid-July Without a Standard Police-Protection Question",
-      "claim": "Per a Fox 13 News report by Nate Carile that the host plays, UVU's Turning Point USA chapter submitted the September 10 event application in mid-July; the application form did not contain a standard question about police protection; UVU subsequently denied release of the security plan citing state records law.",
+      "claim": "Per a Fox 13 News report by Nate Carlisle that the host plays, UVU's Turning Point USA chapter submitted the September 10 event application in mid-July; the application form did not contain a standard question about police protection; UVU subsequently denied release of the security plan citing state records law.",
       "anchored_artifacts": [
         "A-1326.1"
       ],
@@ -1535,7 +1534,7 @@
       "@id": "C-1591",
       "ref": "C-1591",
       "label": "Tucker Carlson Stated Collective Punishment Is Antithetical to Christianity and Western Civilization",
-      "claim": "In a clip from Dave Smith's show that the host plays, Tucker Carlson asserts that collective punishment (blood guilt) is antithetical to Christianity and to the Western tradition, and characterizes Israel's position as outside that tradition.",
+      "claim": "In a clip from Dave Smith's show that the host plays, Tucker Carlson asserts that collective punishment (blood guilt) is antithetical to Christianity and to the West, and says the Israeli government's position (not that of all Israelis or Jews) is not a Western one, adding that most countries do this.",
       "anchored_artifacts": [
         "A-1328.1"
       ],
@@ -1545,8 +1544,7 @@
       "investigative_direction": "Obtain the full Dave Smith episode audio; verify the precise wording and context of Tucker's framing.",
       "mentions_person_refs": [
         "N-22",
-        "N-39",
-        "N-202"
+        "N-39"
       ]
     },
     {
@@ -1598,10 +1596,9 @@
         "N-10222"
       ],
       "tags": [],
-      "claim_timestamp": "00:20:12–00:23:48",
+      "claim_timestamp": "00:21:59",
       "investigative_direction": "Identify and obtain the underlying verification source the host references (cited but not displayed in this episode); cross-reference against any declassified intelligence reporting; determine ownership of the 12 accounts through subpoena or administrative disclosure.",
       "mentions_person_refs": [
-        "N-221",
         "N-69"
       ]
     },
@@ -1609,7 +1606,7 @@
       "@type": "Claim",
       "@id": "C-1595",
       "ref": "C-1595",
-      "label": "Grock (xAI) Characterizes Israel-Egypt Intelligence Cooperation as Unprecedented Since the 1979 Peace Treaty",
+      "label": "Viewer Comment Says Grok Calls Israel-Egypt Intelligence Cooperation Unprecedented",
       "claim": "A viewer comment the host reads says that Grok (xAI), when asked, said Israel and Egypt coordinate on intelligence operations, calling the cooperation unprecedented since the 1979 peace treaty, with intel chiefs meeting often and sharing real-time data.",
       "anchored_artifacts": [
         "A-1332.1"
@@ -1755,7 +1752,7 @@
       "tags": [
         "relevance:core"
       ],
-      "claim_timestamp": "00:07:16",
+      "claim_timestamp": "00:08:08",
       "investigative_direction": "This is the host's inference; test it against Turning Point USA succession communications and statements by those who spoke to Mikey McCoy.",
       "transcript_snippet": "I think Mikey was promised or told or encouraged that he would become the new Charlie.",
       "supports_claim_refs": [
@@ -2251,7 +2248,7 @@
       "@id": "C-6578",
       "ref": "C-6578",
       "label": "Host Says Village Crazy Lady Reported the Israeli Phones Early",
-      "claim": "The host says the account she follows, Village Crazy Lady, was very early with the reporting on the Israeli cell phones and that the host had heard rumors and rumblings but waited for verifiable proof.",
+      "claim": "The host says the account she has been telling viewers to follow, Village Crazy Lady, was very early with the reporting on the Israeli cell phones and that the host had heard rumors and rumblings but waited for verifiable proof.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10222"

@@ -474,7 +474,7 @@ The YouTubers' claims that Mitch Snow was never there, and the host's rebuttal.
 
 *Related: C-3887, C-3888*
 
-**N-10378** Andrew Kolbet Coordination with Attackers of Mitch Snow
+**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Kolvet's alibi texts read on Paramount Tactical.
 

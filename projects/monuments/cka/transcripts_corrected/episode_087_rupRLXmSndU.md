@@ -60,7 +60,7 @@ And as we I reflect 6 months later, it's almost as if the emergency room had bee
 
 [06:41]
 
-The excuse that was given to the public was because the shooter was going from hospital to hospital looking for Charlie Kirk. But you know what? That's That's never actually been clarified who exactly were they referring to. What we do know is that shortly after came over the police scanner or might be going from hospital to hospital, they moved to detain a young man named Zachariah Qureshi. We almost forget, but it was after Zachariah was detained that Kash Patel rather gloriously issued a tweet which effectively ended the manhunt prematurely. In many ways, we should start to think of Zachariah Qureshi as decoy boy number two, okay? First, it was George Zin. Jumped up and down immediately and said, I did it, I did it.
+The excuse that was given to the public was because the shooter was going from hospital to hospital looking for Charlie Kirk. But you know what? That's That's never actually been clarified who exactly were they referring to. What we do know is that shortly after came over the police scanner or might be going from hospital to hospital, they moved to detain a young man named Zachariah Qureshi. We almost forget, but it was after Zachariah was detained that Kash Patel rather gloriously issued a tweet which effectively ended the manhunt prematurely. In many ways, we should start to think of Zachariah Qureshi as decoy boy number two, okay? First, it was George Zinn. Jumped up and down immediately and said, I did it, I did it.
 
 [07:33]
 

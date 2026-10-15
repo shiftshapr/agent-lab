@@ -673,7 +673,7 @@ Existing topic reused for the McCoy call-sequence claims.
 
 ---
 
-**N-10381** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Existing topic reused for the Panguitch steak house claim.
 

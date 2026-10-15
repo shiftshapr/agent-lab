@@ -41,13 +41,13 @@
 - Claim Range: C-1803–C-1819, C-3718
 - New Person Nodes Introduced: N-292, N-293, N-294, N-295, N-296, N-297, N-191, N-187, N-298, N-41, N-218, N-300, N-301, N-15
 - New Investigation Target Nodes Introduced: N-10298, N-10299, N-10300, N-10301, N-10302, N-10303, N-10304, N-10305, N-10306
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
 ## II. Executive Summary
 
-This episode centers on a Vanity Fair article about DuPont chemical heir Robert Richards IV, who was convicted in 2009 of raping his three-year-old daughter yet received no prison time under Judge Jan Jordan's sentencing order for "treatment." The article is read aloud in detail, with the host drawing a connection between the Richards Layton & Finger law firm (founded by a DuPont family partner) and the firm filing paperwork in her own pending lawsuit. The episode also surfaces several Turning Point USA insider tips, the most prominent being a rumor that COO Justin Streiff placed an immediate call to a French-American donor prospect named "Pierre" on the day of Charlie Kirk's assassination, which two TPUSA sources subsequently identified as Pierre Dupont.
+This episode centers on a Vanity Fair article about DuPont chemical heir Robert Richards IV, who was convicted in 2009 of raping his three-year-old daughter yet received no prison time under Judge Jan Jurden's sentencing order for "treatment." The article is read aloud in detail, with the host drawing a connection between the Richards Layton & Finger law firm (founded by a DuPont family partner) and the firm filing paperwork in her own pending lawsuit. The episode also surfaces several Turning Point USA insider tips, the most prominent being a rumor that COO Justin Streiff placed an immediate call to a French-American donor prospect named "Pierre" on the day of Charlie Kirk's assassination, which two TPUSA sources subsequently identified as Pierre Dupont.
 
 Additional artifact-anchored material includes Charlie Kirk's April 13, 2018 text predicting war, a text exchange about a date outfit, a federal-source claim that TPUSA attempted to suppress the Egyptian plane story, a written tip from an Andrew Kolvet family friend asserting Charlie "lost millions" by declining "BB's" offer, and viewer comments read aloud. The episode structurally links the DuPont family pattern of crimes to the broader French/American institutional narrative and raises investigative questions about Pierre Dupont's identity, the Streiff post-assassination call, TPUSA's reported real-estate pivot, and the Richards Layton & Finger connection.
 
@@ -295,7 +295,7 @@ Investigative Pressure: Medium
 
 **N-293** Robert Richards IV
 
-DuPont chemical heir; convicted in 2009 of raping three-year-old daughter; admitted to assaulting infant son; received treatment in lieu of prison per Judge Jan Jordan ruling.
+DuPont chemical heir; convicted in 2009 of raping three-year-old daughter; admitted to assaulting infant son; received treatment in lieu of prison per Judge Jan Jurden ruling.
 
 Evidence Count: 1
 Claim Count: 4
@@ -304,7 +304,7 @@ Investigative Pressure: Medium
 
 *Related: A-1480.1, C-1803, C-1804, C-1805, C-1806, N-294, N-301, N-10306*
 
-**N-301** Judge Jan Jordan
+**N-301** Judge Jan Jurden
 
 Sentenced Robert Richards IV to treatment in lieu of prison for 2009 rape conviction.
 
@@ -920,11 +920,11 @@ Investigative Direction: Obtain certified court records of the 2009 Delaware con
 
 ---
 
-**C-1804** Per Vanity Fair Article Host Reads, Judge Jan Jordan Ruled Treatment in Lieu of Prison for Richards IV
+**C-1804** Per Vanity Fair Article Host Reads, Judge Jan Jurden Ruled Treatment in Lieu of Prison for Richards IV
 
 Claim Timestamp: 00:07:45
 
-Claim: Per a Vanity Fair article the host reads, Judge Jan Jordan ruled that Robert Richards IV would benefit from treatment instead of prison time, after the article says the judge let him off arguing the 6'4 Richards would not fare well in prison.
+Claim: Per a Vanity Fair article the host reads, Judge Jan Jurden ruled that Robert Richards IV would benefit from treatment instead of prison time, after the article says the judge let him off arguing the 6'4 Richards would not fare well in prison.
 
 Anchored Artifacts: A-1480.1
 Mentions: N-293, N-301
@@ -984,10 +984,10 @@ Investigative Direction: Confirm against public court records of the John DuPont
 
 Claim Timestamp: 00:10:39
 
-Claim: Per Dominic Dunne's Vanity Fair reporting as the host relays it, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both DuPont and Mosley died in prison.
+Claim: Per Dominic Dunne's Vanity Fair reporting as the host relays it, Lisa Dean DuPont and her husband Christopher Mosley ordered the killing of a Las Vegas prostitute whose body was found in a motel air conditioner, with the money tracing to the DuPont family; the host says both John DuPont and Mosley died in prison.
 
 Anchored Artifacts: A-1480.1
-Mentions: N-296, N-297
+Mentions: N-296, N-297, N-295
 
 Related Nodes: N-10306
 
@@ -1011,7 +1011,7 @@ Investigative Direction: Obtain the original text record or phone screenshot for
 
 **C-1810** Charlie Kirk texted about whether to change shirt before a date
 
-Claim Timestamp: 00:40:29
+Claim Timestamp: 00:39:42
 
 Claim: Charlie Kirk texted Candace Owens asking whether he had to change his shirt before a date; Owens replied "Yes, and throw it away if you can, Charlie"; Kirk replied "Ah, okay."
 
@@ -1025,11 +1025,12 @@ Investigative Direction: Obtain screenshot of original exchange if preserved.
 
 **C-1811** Viewer Theory That Macron Lawsuit Was Intended to Pre-empt Candace's Assassination
 
-Claim Timestamp: 00:02:41
+Claim Timestamp: 00:02:02
 
-Claim: A viewer commented that the McRonone lawsuit was designed to go nowhere because Candace was supposed to have been assassinated before the case reached court, allowing plaintiffs to permanently claim she was lying.
+Claim: A viewer commented that the Macron lawsuit was designed to go nowhere because Candace was supposed to have been assassinated before the case reached court, allowing plaintiffs to permanently claim she was lying.
 
 Anchored Artifacts: A-1483.1
+Mentions: N-3, N-82, N-378
 
 Related Nodes:
 
@@ -1147,7 +1148,7 @@ Claim Timestamp: 00:33:15
 Claim: A close family friend of Andrew Kolvet, in a written tip to host, said that Andrew Kolvet told them that when Charlie said no to "BB," he lost out on millions.
 
 Anchored Artifacts: A-1488.1
-Mentions: N-14
+Mentions: N-14, N-1, N-36
 
 Related Nodes: N-10302, N-10305
 
@@ -1155,7 +1156,7 @@ Investigative Direction: Preserve the written tip; verify Andrew Kolvet's contem
 
 ---
 
-**C-3652** Host elevates mommy sleuth crowd investigators
+**C-3652** Host Says She Messaged Mommy Sleuths and TPUSA Sources About the Donor
 
 Claim Timestamp: 00:29:22
 Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
@@ -1264,7 +1265,7 @@ Investigative Direction: Check the Becoming Brigitte season 2 episode where Dupo
 
 Claim Timestamp: 00:07:45
 
-Claim: The host reads from the Vanity Fair article that critics have noted the treatment Judge Jan Jordan ordered for Robert Richards IV is usually offered only to drug addicts or those in possession of child pornography, not to convicted rapists.
+Claim: The host reads from the Vanity Fair article that critics have noted the treatment Judge Jan Jurden ordered for Robert Richards IV is usually offered only to drug addicts or those in possession of child pornography, not to convicted rapists.
 
 Transcript Snippet: Critics have since noted that such treatment is usually offered only to drug addicts or those in possession of child pornography, not convicted rapists.
 
@@ -1778,7 +1779,7 @@ Anchored Artifacts: A-3114.1
 Mentions: 
 Related Nodes: N-10290
 Supports: C-1786
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check French Army and US Army statements on the August 2025 Foreign Legion exercise in California.
 
 ---
@@ -1859,7 +1860,7 @@ Claim: The host says that about ten days after Charlie said no, the planes came 
 Transcript Snippet: planes come back out and they're flying to Lincoln again. They're going to Omaha. They're going to Wilmington. They stay for one night.
 
 Anchored Artifacts: A-3114.1
-Mentions: 
+Mentions: N-1
 Related Nodes: N-10266, N-10276
 Supports: C-5013
 Tags: relevance:core
@@ -1894,7 +1895,7 @@ Transcript Snippet: operation Valhalla takes place between civilians and militar
 Anchored Artifacts: A-3114.1
 Mentions: 
 Related Nodes: N-10273, N-10279
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Check the exercise dates and participants against organizer and Minnesota National Guard statements; the host's stated date range differs from earlier reporting.
 
 ---
@@ -2217,7 +2218,7 @@ Claim: The host says that in the week of Charlie's April 13, 2018 text the Unite
 Transcript Snippet: the United States and France were carrying out a series of military strikes involving an aircraft and these ship-based missiles against multimate multiple government sites in Syria.
 
 Anchored Artifacts: A-1481.1
-Mentions: 
+Mentions: N-1
 Related Nodes: N-11281
 Tags: relevance:context
 Investigative Direction: Check the April 13 and 14, 2018 US, UK and French strike announcements and the official chemical attack rationale.
@@ -2283,7 +2284,7 @@ Transcript Snippet: I felt it leading up to Charlie's assassination. I pulled my
 Anchored Artifacts: 
 Mentions: N-1, N-3
 Related Nodes: 
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Ask the host for the date she removed her children and the reason given.
 
 ---

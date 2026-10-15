@@ -2943,8 +2943,8 @@
       "@type": "Claim",
       "@id": "C-2026",
       "ref": "C-2026",
-      "label": "Harpole Stated Pre-Planning for Charlie Kirk Events Began on the 24th of the Month Prior to the Event",
-      "claim": "Brian Harpole stated that the first hard-conversations/intelligence-sharing for Charlie Kirk events begins on the 24th of the month prior to the event.",
+      "label": "Harpole Says Pre-Planning for the Event Began on the 24th of the Month Prior",
+      "claim": "In a clip of the Shawn Ryan interview the host plays, Brian Harpole says that for that Charlie Kirk event the hard conversations and information sharing started on the 24th of the month prior, with intelligence gathering beginning before that.",
       "anchored_artifacts": [
         "A-1596.1"
       ],
@@ -2954,7 +2954,8 @@
       "investigative_direction": "Obtain the full Shawn Ryan interview transcript and any internal TPUSA security planning documents to verify the 24th-of-month timeline claim against documented practice.",
       "mentions_person_refs": [
         "N-267",
-        "N-1"
+        "N-1",
+        "N-225"
       ]
     },
     {
@@ -2962,7 +2963,7 @@
       "@id": "C-2027",
       "ref": "C-2027",
       "label": "Bowyer family post described Ukrainian orphan Natalia staying with friends, with Tyler communicating in Russian",
-      "claim": "Tyler Bowyer's wife posted on social media about a 12-year-old Ukrainian orphan named Natalia staying with friends through an adoption agency program; Tyler spoke with her in Russian for over an hour.",
+      "claim": "Per the social media post by Tyler Bowyer's wife that the host shows, a 12-year-old Ukrainian orphan named Natalia was staying with friends through an adoption agency program, and Tyler talked with her in Russian for over an hour.",
       "anchored_artifacts": [
         "A-1597.1"
       ],
@@ -3104,10 +3105,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:52:37",
-      "investigative_direction": "Cross-reference the $300M estimate against corporate property and court records cited in the article, and identify the specific entities holding the properties.",
-      "mentions_person_refs": [
-        "N-400"
-      ]
+      "investigative_direction": "Cross-reference the $300M estimate against corporate property and court records cited in the article, and identify the specific entities holding the properties."
     },
     {
       "@type": "Claim",
@@ -3123,10 +3121,7 @@
       ],
       "tags": [],
       "claim_timestamp": "01:04:00",
-      "investigative_direction": "Obtain the Zillioux analysis and the 1990 Far Eastern Economic Review article to verify the valuation methodology and figures.",
-      "mentions_person_refs": [
-        "N-400"
-      ]
+      "investigative_direction": "Obtain the Zillioux analysis and the 1990 Far Eastern Economic Review article to verify the valuation methodology and figures."
     },
     {
       "@type": "Claim",
@@ -3162,10 +3157,7 @@
       ],
       "tags": [],
       "claim_timestamp": "01:04:49",
-      "investigative_direction": "Identify the named \"church observers\" and the methodology used for the 70% estimate; cross-reference against Japanese corporate filings of Moon-affiliated entities.",
-      "mentions_person_refs": [
-        "N-400"
-      ]
+      "investigative_direction": "Identify the named \"church observers\" and the methodology used for the 70% estimate; cross-reference against Japanese corporate filings of Moon-affiliated entities."
     },
     {
       "@type": "Claim",
@@ -3279,7 +3271,7 @@
         "N-10392"
       ],
       "tags": [],
-      "claim_timestamp": "00:29:47",
+      "claim_timestamp": "00:28:57",
       "investigative_direction": "Cross-reference against the ABC News report (A-1598.1), the *Liberty Lost* podcast, and adoption records from Family Life Services for the relevant period.",
       "mentions_person_refs": [
         "N-408"
@@ -3321,7 +3313,6 @@
       "claim_timestamp": "00:46:39",
       "investigative_direction": "Locate the cited Forbes article and any contemporaneous Virginia court records or news coverage.",
       "mentions_person_refs": [
-        "N-399",
         "N-402"
       ]
     },
@@ -3364,8 +3355,7 @@
       "investigative_direction": "Obtain the full Shawn Ryan interview and the security company's operating procedures to confirm the app-based, decentralized command description.",
       "transcript_snippet": "It's a decentralized command model for the company.",
       "mentions_person_refs": [
-        "N-267",
-        "N-225"
+        "N-267"
       ]
     },
     {
@@ -3388,7 +3378,6 @@
       "transcript_snippet": "he describes this conversation that he had with the chief of police. He's upset about the chief of police not covering the rooftops because he feels that his team was on it.",
       "mentions_person_refs": [
         "N-267",
-        "N-225",
         "N-3"
       ]
     },
@@ -3836,8 +3825,7 @@
       "investigative_direction": "Locate Romanian Angels thank-you posts or news coverage naming Colonel Busher and the dates of cooperation.",
       "transcript_snippet": "Now, it is a fact that they worked with at that time Colonel Otto Busher.",
       "mentions_person_refs": [
-        "N-690",
-        "N-2"
+        "N-690"
       ]
     },
     {
@@ -3851,7 +3839,7 @@
         "N-10401"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:11:09",
       "investigative_direction": "Find the Romanian complaint, any prosecutor's file and press coverage of the allegation against Busher and its outcome.",
@@ -4051,7 +4039,7 @@
         "N-10739"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:14:53",
       "investigative_direction": "Pull the federal or Arizona charging documents against David Frodsham and the associated news coverage.",
@@ -4130,7 +4118,7 @@
       "@type": "Claim",
       "@id": "C-8161",
       "ref": "C-8161",
-      "label": "Host Says Piscatello Has Raised Alarms About Military Ukrainian Sex Trafficking",
+      "label": "Host Says Piskadlo Has Raised Alarms About Military Ukrainian Sex Trafficking",
       "claim": "The host says Andrew Piskadlo has publicly raised the alarm on military-linked Ukrainian sex trafficking in the United States and that his Instagram says children are being trafficked from Ukraine.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -4504,7 +4492,7 @@
       "@id": "C-8179",
       "ref": "C-8179",
       "label": "Caller Says Jerry Falwell Sr. Took Pictures of the Residents",
-      "claim": "In the recorded call, the former resident says Jerry Falwell Sr. took weird pictures of the girls at the Godparent Home, which the host presses by asking whether Falwell Sr. himself took the photos.",
+      "claim": "In the recorded call, the former resident says Jerry Falwell Sr. took weird pictures of the girls at the Godparent Home; when the host presses whether Falwell Sr. himself took the photos, she says 'Yeah' and that she remembers him as being there.",
       "anchored_artifacts": [
         "A-1604.1"
       ],
@@ -4756,7 +4744,7 @@
       "@id": "C-8190",
       "ref": "C-8190",
       "label": "Host Says the Caller Received a Trump Pageant World Invitation Two Years Later",
-      "claim": "The host says the caller went home, and two years later received an invitation to join Trump Pageant World without knowing how they got her picture, which the host links to the pictures taken at the Godparent Home.",
+      "claim": "The host says the caller went home, and two years later received an invitation to join Trump Pageant World without knowing how they got her picture, which the caller, as the host relays, connected to the pictures taken at the Godparent Home.",
       "anchored_artifacts": [
         "A-1604.1"
       ],
@@ -5323,7 +5311,7 @@
       "@id": "C-8215",
       "ref": "C-8215",
       "label": "Washington Post Quotes Richard Rubenstein That Ideas Without Money Are Dreams",
-      "claim": "Reading the 1997 Washington Post article, the host quotes University of Bridgeport president Richard Rubenstein as saying, 'Ideas without the money to back them up are just dreams,' and that the corporate side is the engine that funds the church's mission.",
+      "claim": "Reading the 1997 Washington Post article, the host quotes University of Bridgeport president Richard Rubenstein as saying, 'Ideas without the money to back them up are just dreams,' and the article says the corporate section is understood to be the engine that funds the church's mission.",
       "anchored_artifacts": [
         "A-2922.4"
       ],
@@ -5613,7 +5601,7 @@
       "@type": "Claim",
       "@id": "C-8228",
       "ref": "C-8228",
-      "label": "Host Says Kirk Established DOGE to Find Where the Money Was Coming From",
+      "label": "Host Says Kirk Asked Where the Money Was Coming From",
       "claim": "The host says that where the money is coming from and where it is going was one of Charlie Kirk's last questions before his death, and that he established DOGE (transcribed \"DOVE\") to determine the answer.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -5717,7 +5705,9 @@
       "transcript_snippet": "But again, I don't think that's why the McCoys were pushing for Charlie to go to Korea because you know, they just got a Holocaust Museum.",
       "mentions_person_refs": [
         "N-1",
-        "N-3"
+        "N-3",
+        "N-17",
+        "N-191"
       ]
     },
     {
@@ -5995,7 +5985,7 @@
       "@id": "C-8245",
       "ref": "C-8245",
       "label": "Host Says Paul Vallely Is on the Turning Point USA Advisory Board",
-      "claim": "Responding to a viewer comment, the host says Paul Vallely is on the advisory board of Turning Point USA and that she has looked into it and it is true.",
+      "claim": "Responding to a viewer comment that says Paul Vallely is on the advisory board of Turning Point USA, the host says that is true and that she has looked into it.",
       "anchored_artifacts": [
         "A-2923.3"
       ],

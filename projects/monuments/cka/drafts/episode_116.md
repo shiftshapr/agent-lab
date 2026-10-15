@@ -504,7 +504,7 @@ The towing, cleaning and resale of the transport SUV.
 
 *Related: C-4614*
 
-**N-10381** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Host refers to Robinson buying a steak in Panguitch.
 

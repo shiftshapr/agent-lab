@@ -1892,7 +1892,7 @@
       "@id": "C-1232",
       "ref": "C-1232",
       "label": "Kash Patel committed FBI to exhaustive investigation",
-      "claim": "FBI Director Kash Patel publicly committed the FBI to investigating every facet of Charlie Kirk's assassination including alleged accomplices.",
+      "claim": "FBI Director Kash Patel publicly committed the FBI to investigating every facet of Charlie Kirk's assassination including the possibility of accomplices.",
       "anchored_artifacts": [
         "A-1137.1"
       ],
@@ -1926,7 +1926,7 @@
         "N-10086"
       ],
       "tags": [],
-      "claim_timestamp": "00:17:35",
+      "claim_timestamp": "00:17:00",
       "investigative_direction": "Obtain FAA radar logs and ATC recordings for the relevant flight.",
       "transcript_snippet": "It can't be both. Can't be.",
       "confidence": "medium",
@@ -1963,7 +1963,7 @@
       "@id": "C-1235",
       "ref": "C-1235",
       "label": "Host Says the Feds Repaved the Area Within About 48 Hours of the Shooting",
-      "claim": "The host says that within approximately 48 hours of the shooting 'they', the feds she had just referred to, decided to pave the area where Charlie Kirk was shot, asking producer Skyler to confirm the timing.",
+      "claim": "The host says that within approximately 48 hours of the shooting 'they', the feds she had just referred to, decided to pave the area where Charlie Kirk was shot, asking Skyler to confirm the timing.",
       "anchored_artifacts": [
         "A-1139.3"
       ],
@@ -2056,14 +2056,14 @@
       "@id": "C-1239",
       "ref": "C-1239",
       "label": "Candace Says She Was Pressured to Retract Genocide Tweet",
-      "claim": "After Candace tweeted 'genocide is always wrong' she was inundated with demands to retract/apologize, including from Dave Rubin, while at the Daily Wire.",
+      "claim": "After Candace tweeted 'genocide is always wrong' while at the Daily Wire, she says she was peer pressured to correct or apologize for the tweet, Dave Rubin instantly replied with something about Israel, and she and Charlie were inundated.",
       "anchored_artifacts": [
         "A-1142.1",
         "A-1142.2"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:32:32",
+      "claim_timestamp": "00:32:05",
       "investigative_direction": "Archive original tweet and Rubin reply; identify any coordinated pressure campaign participants.",
       "transcript_snippet": "I was being inundated. Charlie was being inundated.",
       "mentions_person_refs": [
@@ -2076,7 +2076,7 @@
       "@id": "C-1240",
       "ref": "C-1240",
       "label": "Charlie Kirk said calling all critics antisemitic was destructive",
-      "claim": "In a clip the host plays, Charlie Kirk says that calling everyone an antisemite if they do not take a puritanical view of the Netanyahu government is bad for everybody.",
+      "claim": "In a clip the host plays, Charlie Kirk says that if you call everyone an antisemite if they do not take a puritanical view of the Netanyahu government, he thinks that is bad for everybody.",
       "anchored_artifacts": [
         "A-1143.1"
       ],
@@ -2153,7 +2153,7 @@
       "@id": "C-1244",
       "ref": "C-1244",
       "label": "Dr. Frank Turek raised viewer suspicion after memorial speech",
-      "claim": "A viewer reports persistent unease about Dr. Frank Turek following his memorial speech, citing possible guilt over inaction.",
+      "claim": "A viewer comment the host reads says something about Dr. Frank Turek isn't sitting right with the viewer, who is unsure whether he is having some unfounded guilt about not doing more; the host says many people had that feeling after his memorial speech.",
       "anchored_artifacts": [
         "A-1145.2"
       ],
@@ -2921,7 +2921,7 @@
       "@id": "C-10747",
       "ref": "C-10747",
       "label": "Clip exchange says cancelling Tucker Carlson would increase antisemitism",
-      "claim": "In the July town hall clip, an exchange asks whether cancelling Tucker Carlson would increase or decrease antisemitism and the answer, which appears to be Charlie's, is that it would increase it.",
+      "claim": "In the July town hall clip, Charlie asks whether cancelling Tucker Carlson would increase or decrease antisemitism, and a participant answers that it would increase it.",
       "anchored_artifacts": [
         "A-1143.1"
       ],
@@ -3006,8 +3006,7 @@
         "C-1241"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-1"
+        "N-3"
       ]
     },
     {
@@ -3206,7 +3205,7 @@
       "@id": "C-10760",
       "ref": "C-10760",
       "label": "Host says the Daily Mail reported she raged about not being invited to speak",
-      "claim": "The host says she was not invited to speak at the memorial and that, as the Daily Mail pointed out, she raged about it.",
+      "claim": "The host says she was not invited to speak at the memorial and mocks the Daily Mail's account, sarcastically saying that, as the Daily Mail pointed out, she raged about it and threw her toys out of the pram.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10070"
@@ -3358,7 +3357,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-36",
-        "N-22"
+        "N-22",
+        "N-1"
       ]
     },
     {

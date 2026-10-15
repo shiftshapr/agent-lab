@@ -24,7 +24,7 @@
 
 Episode 70 is structurally a three-clip episode plus an extended host monologue ("open letter") directed at Erika Kirk. Three on-air clips constitute the evidentiary backbone: (1) a Trace Gallagher Fox News interview in which Erika publicly pleads for courtroom "full transparency"; (2) a public video from former TPUSA PR manager Aubrey Laitsch describing her recent termination via an Uber-driver loyalty-test meeting; and (3) a Tim Dillon podcast clip in which Dillon sardonically names Erika Kirk the only person he trusts while describing political performance as "fake." The host's open-letter monologue surrounding those clips advances five investigative targets – a French donor named Pierre, Erika's September 10 whereabouts, a purported Hamptons dinner with BB Netanyahu, "Egyptian planes," and a TPUSA loyalty-test termination pattern – but those target-advances are host rhetoric rather than artifact-supported claims, so they are inscribed as investigation-target nodes only, not as evidence-backed claims.
 
-The episode's structural importance is twofold: it converts three separate third-party artifacts (Gallagher interview, Lech video, Dillon clip) into the series' record, and it consolidates a set of open investigative targets that prior episodes had only flagged in passing.
+The episode's structural importance is twofold: it converts three separate third-party artifacts (Gallagher interview, Laitsch video, Dillon clip) into the series' record, and it consolidates a set of open investigative targets that prior episodes had only flagged in passing.
 
 ## 6. Meme Register
 
@@ -822,7 +822,7 @@ Investigative Direction: Compare TPUSA public statements over time against the f
 
 Claim Timestamp: 00:09:50–00:10:21
 
-Claim: A New York Times article quoted by the host on air contains Erika Kirk stating, the night before Charlie Kirk's death, that "Charlie's adrenal glands were just going off" and that he could not sleep.
+Claim: The host says Erika Kirk told the New York Times that the night before Charlie Kirk's murder "Charlie's adrenal glands were just going off" and that he couldn't sleep.
 
 Anchored Artifacts: A-1745.1
 Mentions: N-1, N-2
@@ -857,7 +857,7 @@ Claim: In a video the host plays, Aubrey Laitsch identifies herself as the forme
 
 Anchored Artifacts: A-1747.1
 Mentions: N-552
-Investigative Direction: Verify Lech's employment dates and termination date via TPUSA / ATK records.
+Investigative Direction: Verify Laitsch's employment dates and termination date via TPUSA / ATK records.
 
 **C-2320** Aubrey Laitsch stated termination meeting involved Uber-driver conversation
 
@@ -872,14 +872,14 @@ Investigative Direction: Identify the Turning Point executive referenced in the 
 
 **C-2321** Aubrey Laitsch expressed belief termination was retaliation for narrative-dissent
 
-Claim Timestamp: 00:24:02–00:28:28
+Claim Timestamp: 00:27:35
 
 Claim: Aubrey Laitsch's video states her personal belief that she was terminated because she was questioning the official narrative regarding Charlie Kirk's death, and that questioning the narrative is incompatible with continued TPUSA employment.
 
 Anchored Artifacts: A-1747.1
 Mentions: N-552, N-1
 Related Nodes: N-10492
-Investigative Direction: Compare the stated termination rationale (Uber-driver hearsay) against Lech's stated belief; seek additional former-employee testimony.
+Investigative Direction: Compare the stated termination rationale (Uber-driver hearsay) against Laitsch's stated belief; seek additional former-employee testimony.
 
 **C-2322** Aubrey Laitsch video names Andrew Kolvet and Marina Munz at termination meeting
 
@@ -903,7 +903,7 @@ Investigative Direction: Identify the source episode of the Dillon clip and capt
 
 **C-2324** Tim Dillon clip names Erika Kirk as "the only person I trust"
 
-Claim Timestamp: 00:33:22–00:35:00
+Claim Timestamp: 00:34:39
 
 Claim: The Tim Dillon clip played on air contains the line, delivered sarcastically per host framing, naming Erika Kirk as "the only person I trust" in the current moment.
 
@@ -915,7 +915,7 @@ Investigative Direction: Locate the unedited Dillon segment to determine whether
 
 Claim Timestamp: 00:35:13–00:36:03
 
-Claim: The host describes an active GoFundMe campaign titled "Purge Fallout Fund" supporting approximately eight former Turning Point USA employees who were terminated without explanation after working through America Fest.
+Claim: The host describes an active GoFundMe campaign titled "Purge Fallout Fund" which she believes supports eight former Turning Point USA employees who were terminated without explanation after working through America Fest.
 
 Anchored Artifacts: A-1749.1
 Related Nodes: N-10492
@@ -1163,7 +1163,7 @@ Investigative Direction: Identify the priest and the dates of any call, and obta
 
 Claim Timestamp: 00:10:21
 
-Claim: The host says she and Charlie Kirk talked about his third eye, the streetlamps that went off when he ran, a special school, testing in childhood, astral projection and sleep paralysis.
+Claim: The host says she and Charlie Kirk talked about his third eye, strange things in their childhood, the testing they endured, astral projection and sleep paralysis, and notes Erika Kirk spoke in the article about streetlamps that went off when he ran and the special school he attended.
 
 Transcript Snippet: We spoke about the fact that we could both astral project.
 
@@ -1222,11 +1222,11 @@ Investigative Direction: Obtain the written exchange in which Streiff denied kno
 
 ---
 
-**C-8394** Host Says Erika and Justin Streiff Personally Met Pierre After Charlie's Death
+**C-8394** Host Says Streiff Personally Met Pierre and Erika Met Him After Charlie's Death
 
 Claim Timestamp: 00:12:18
 
-Claim: The host says Justin Streiff has met Pierre and that Erika Kirk personally met with Pierre in the wake of Charlie Kirk's death, and says she has verifiable proof.
+Claim: The host says Justin Streiff has personally met Pierre and that Erika Kirk met with Pierre in the wake of Charlie Kirk's death, and says she has verifiable proof.
 
 Transcript Snippet: You've personally met with Pierre. Um, Erika, you've met with him in the wake of Charlie's death.
 
@@ -1341,7 +1341,7 @@ Investigative Direction: Verify whether Pierre Falcone had any contact with TPUS
 
 Claim Timestamp: 00:16:03
 
-Claim: The host alleges Erika Kirk was lying to cover BB Netanyahu's tracks, linking this to the host's Egyptian planes joke.
+Claim: The host alleges Erika Kirk was lying to cover BB Netanyahu's tracks, linking this to what she portrays as Erika's dismissive "little joke" about the Egyptian planes.
 
 Transcript Snippet: you were lying to cover BB Netanyahu's tracks.
 
@@ -1437,7 +1437,7 @@ Investigative Direction: Ask Kolvet or show staff to confirm whether a Netanyahu
 
 Claim Timestamp: 00:17:49
 
-Claim: The host says Turning Point USA was already worth a hundred million dollars and pulls in $100 million annually, so billions would be needed for a 'next level'.
+Claim: The host says Turning Point USA was already worth a hundred million dollars and pulls in $100 million annually, so it sounds like billions would be needed for a 'next level'.
 
 Transcript Snippet: Turning Point was all already worth a hundred million dollars. Pulls in $100 million annually.
 
@@ -1546,7 +1546,7 @@ Investigative Direction: Examine ADS-B and transponder logs for the Egyptian air
 
 ---
 
-**C-8414** Lech Says She Worked Nonstop on September 10 and Slept Under 48 Hours During the Memorial
+**C-8414** Laitsch Says She Worked Nonstop on September 10 and Went Over 48 Hours Without Sleep During the Memorial
 
 Claim Timestamp: 00:25:10
 
@@ -1558,7 +1558,7 @@ Anchored Artifacts: A-1747.1
 Mentions: N-552
 Related Nodes: N-10000
 Tags: relevance:context
-Investigative Direction: Corroborate Lech's workload with TPUSA staff and press-office call logs, which she could produce.
+Investigative Direction: Corroborate Laitsch's workload with TPUSA staff and press-office call logs, which she could produce.
 
 ---
 
@@ -1754,7 +1754,7 @@ Investigative Direction: Tally legal letters or demands TPUSA has sent to the ho
 
 ---
 
-**C-8427** Host Says Lech's Fiance Was Fired Too
+**C-8427** Host Says Laitsch's Fiance Was Fired Too
 
 Claim Timestamp: 00:43:34
 
@@ -1766,7 +1766,7 @@ Anchored Artifacts: A-1747.1
 Mentions: N-3, N-552
 Related Nodes: N-10492
 Tags: relevance:core
-Investigative Direction: Confirm the fiance's employment and dismissal with Lech or TPUSA records.
+Investigative Direction: Confirm the fiance's employment and dismissal with Laitsch or TPUSA records.
 
 ---
 

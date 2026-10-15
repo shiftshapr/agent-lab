@@ -1884,7 +1884,7 @@
         "N-10160"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:15",
+      "claim_timestamp": "00:31:15",
       "investigative_direction": "Confirm canonical spelling of the prosecutor's name; obtain any court filings or correspondence evidencing the prosecutor's role in identifying counsel; verify Lane's account via Utah State Bar records.",
       "mentions_person_refs": [
         "N-6",
@@ -2243,7 +2243,7 @@
       "@id": "C-7847",
       "ref": "C-7847",
       "label": "Host Says the ADL Labels Truth-Tellers Extremists and Works With the FBI to Target Them",
-      "claim": "The host says the ADL has been directing the FBI for years, labels people who tell the truth as extremists, and that its list effectively works as a hit list used with the FBI.",
+      "claim": "The host says the ADL has been directing the FBI for years, labels people who tell the truth as extremists, and that she thinks its list effectively works as a hit list used with the FBI.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11153",
@@ -2850,7 +2850,7 @@
       "@id": "C-7875",
       "ref": "C-7875",
       "label": "Host Says JFK Was Infiltrated and Removed for Wrong Ideas",
-      "claim": "The host says she thinks JFK was surrounded and infiltrated by his own people and removed for wrong ideas, perhaps that every foreign nation should register under FARA, and that the Warren Commission was a farce.",
+      "claim": "The host says she thinks JFK's associates may have covered up his assassination, that he was surrounded and infiltrated and removed for wrong ideas, perhaps that every foreign nation should register under FARA, and that the Warren Commission was a farce.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10662"
@@ -3039,7 +3039,7 @@
         "N-10160"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:32:15",
       "investigative_direction": "Not independently testable; look for specific rulings or appointments.",

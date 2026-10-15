@@ -307,7 +307,7 @@
           "@type": "Artifact",
           "@id": "A-1432.1",
           "ref": "A-1432.1",
-          "description": "Aayol Yakobe X post: \"This is what doxing looks like. These are unparalleled levels of insanity. This is truly dangerous.\"",
+          "description": "Eyal Yakoby X post: \"This is what doxing looks like. These are unparalleled levels of insanity. This is truly dangerous.\"",
           "related_claims": [
             "C-1742"
           ],
@@ -1960,7 +1960,7 @@
       "@type": "Claim",
       "@id": "C-1737",
       "ref": "C-1737",
-      "label": "Host Says Charlie Kirk's Security Lead Texted the UVU Police Chief About Rooftop Access and Accepted \"I Got You Covered\" as Resolution",
+      "label": "Harpole Says He Texted UVU Police Chief About Rooftop Access and Got \"I Got You Covered\"; Host Says He Did Not Follow Up",
       "claim": "In a clip the host plays, Brian Harpole, Charlie Kirk's security lead, reads his texts to UVU Police Chief Jeff Long about student roof access near where Kirk would be set up, ending with the reply \"I got you covered,\" and the host says Harpole did not follow up further.",
       "anchored_artifacts": [
         "A-1428.1",
@@ -1968,7 +1968,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:26:12",
+      "claim_timestamp": "00:25:02",
       "investigative_direction": "Obtain the full text thread and timestamp metadata; confirm whether UVU PD logged any rooftop security assignment; check TPUSA advance-team documentation.",
       "mentions_person_refs": [
         "N-1",
@@ -1980,8 +1980,8 @@
       "@type": "Claim",
       "@id": "C-1738",
       "ref": "C-1738",
-      "label": "Blake Neff was standing next to Mikey McCoy at the moment of the shooting.",
-      "claim": "Blake Neff states that he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.",
+      "label": "Blake Neff Says He Was Next to Mikey McCoy When the Shot Was Fired",
+      "claim": "In a clip the host plays, Blake Neff says he and Mikey McCoy were side-by-side when the shot occurred, both turned, and both saw Kirk had been shot.",
       "anchored_artifacts": [
         "A-1429.1"
       ],
@@ -2001,7 +2001,7 @@
       "@id": "C-1739",
       "ref": "C-1739",
       "label": "Per Blake Neff's Screenshot the Host Shows, His Call to His Mother Began at 11:24 Arizona Time and Lasted 45 Seconds",
-      "claim": "Per a screenshot of Blake Neff's phone that the host shows, his call to his mother was initiated at 11:24 Arizona time (12:24 Utah time) and lasted 45 seconds.",
+      "claim": "Per a screenshot of Blake Neff's phone that the host shows, his call to his mother began at 11:24 and lasted 45 seconds; the host says that because Neff is now in Arizona this means 12:24 Utah time, and Mark says the time shown is when the call was initiated.",
       "anchored_artifacts": [
         "A-1429.2"
       ],
@@ -2019,7 +2019,7 @@
       "@type": "Claim",
       "@id": "C-1740",
       "ref": "C-1740",
-      "label": "Audience Questioner at Rob McCoy's Jerusalem Event Says Carlson and Owens Are Hijacking the Christian Message",
+      "label": "Audience Questioner at Jerusalem Event With Rob McCoy Says Carlson and Owens Are Hijacking the Christian Message",
       "claim": "In a clip the host plays from a Jerusalem event she says was billed as a celebration of Charlie Kirk's life, an audience questioner says Tucker Carlson and Candace Owens are 'essentially trying to hijack the Christian message and spread an anti-Israel message in the name of Christianity'; Rob McCoy answers that it is a great question.",
       "anchored_artifacts": [
         "A-1430.1"
@@ -2050,15 +2050,15 @@
         "N-10264"
       ],
       "tags": [],
-      "claim_timestamp": "00:42:02",
+      "claim_timestamp": "00:41:07",
       "investigative_direction": "Obtain the issue independently; verify article authors and the magazine's institutional affiliation and distribution chain."
     },
     {
       "@type": "Claim",
       "@id": "C-1742",
       "ref": "C-1742",
-      "label": "Aayol Yakobe posted on X that the rental-plate disclosure constitutes \"doxing.\"",
-      "claim": "Aayol Yakobe posted on X characterizing the rental-plate disclosure as \"doxing\" and describing it as \"unparalleled levels of insanity\" and \"truly dangerous.\"",
+      "label": "Host Reads Eyal Yakoby Post Calling the Rental-Plate Disclosure \"Doxing\"",
+      "claim": "The host reads a post on X she attributes to Eyal Yakoby characterizing the rental-plate disclosure as \"doxing\" and describing it as \"unparalleled levels of insanity\" and \"truly dangerous.\"",
       "anchored_artifacts": [
         "A-1432.1"
       ],
@@ -2067,13 +2067,13 @@
       ],
       "tags": [],
       "claim_timestamp": "00:01:55",
-      "investigative_direction": "Verify the post URL; document whether the post remains public; identify Aayol Yakobe's institutional affiliations."
+      "investigative_direction": "Verify the post URL; document whether the post remains public; identify Eyal Yakoby's institutional affiliations."
     },
     {
       "@type": "Claim",
       "@id": "C-1743",
       "ref": "C-1743",
-      "label": "Arynne Wexler posted on X asserting that Candace Owens began her career by doxing teenagers.",
+      "label": "Host Reads Arynne Wexler Post Saying Candace Started Her Career by Doxing Teenagers",
       "claim": "The host reads a post she attributes to Arynne Wexler, whom she describes as the woman at the Hamptons retreat, saying 'Candace started her career by doxing teenagers. Old habits die hard.'",
       "anchored_artifacts": [
         "A-1433.1"
@@ -2129,7 +2129,7 @@
       "@id": "C-4917",
       "ref": "C-4917",
       "label": "Host Says SU-BTT Landed in Utah Six Days Before the Assassination With 12 to 14 Egyptians",
-      "claim": "The host says she has confirmed a full flight, SU-BTT, landed in Utah six days before Charlie Kirk's assassination and that 12 to 14 Egyptians deplaned on September 4th.",
+      "claim": "The host says she has confirmed a full flight, SU-BTT, landed in Utah six days before Charlie Kirk's assassination and that 12 to 14 \"quote unquote\" Egyptians deplaned on September 4th.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10207",
@@ -2577,7 +2577,7 @@
       "@id": "C-4938",
       "ref": "C-4938",
       "label": "Host Says Viewer Emails Note a Possible RAV 4 in Each Piece of Shooter Footage",
-      "claim": "The host says viewer emails noted what might be a RAV 4 in every available footage of the alleged shooter, including the Phil Lyman house footage, the TMZ footage, Ryan Matta's parking lot footage and the rooftop jump footage, while allowing it may be coincidence.",
+      "claim": "The host says viewer emails noted what might be a RAV 4 in every available footage of the alleged shooter, including footage in front of a house she thinks Phil Lyman was at, the TMZ footage, Ryan Matta's parking lot footage and the rooftop jump footage, while allowing it may be coincidence.",
       "anchored_artifacts": [
         "A-2718.1"
       ],

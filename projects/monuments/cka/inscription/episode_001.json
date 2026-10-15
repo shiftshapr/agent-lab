@@ -170,7 +170,7 @@
           "@type": "Artifact",
           "@id": "A-1079.3",
           "ref": "A-1079.3",
-          "description": "Text chain joking about convincing Erika Frantzey to take the Kirk last name as a 'practical decision'.",
+          "description": "Text chain joking about convincing Erika Frantzve to take the Kirk last name as a 'practical decision'.",
           "related_claims": [
             "C-1120"
           ],
@@ -436,7 +436,7 @@
       "ref": "N-2",
       "name": "Erika Kirk",
       "type": "person",
-      "description": "Charlie Kirk's wife; subject of the 'Kirk vs Frantzey' name plan text chain.",
+      "description": "Charlie Kirk's wife; subject of the 'Kirk vs Frantzve' name plan text chain.",
       "related_artifacts": [
         "A-1079.3"
       ],
@@ -1024,7 +1024,7 @@
       "@id": "C-1124",
       "ref": "C-1124",
       "label": "Charlie's 'never say no to Fox News' media rule",
-      "claim": "Charlie Kirk enforced a team rule to never decline Fox News bookings, averaging about four Fox appearances per day including early-morning 'Fox and Friends First,' per host recollection.",
+      "claim": "The host says Charlie Kirk's rule was never to say no to Fox News, and that they did as many as four Fox hits a day, up at 4:00 a.m. for 'Fox and Friends First.'",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10006"
@@ -1068,7 +1068,7 @@
       "@id": "C-1119",
       "ref": "C-1119",
       "label": "Charlie approved of George after one evening in the UK",
-      "claim": "After a single evening with Candace's then-boyfriend George in the UK, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.",
+      "claim": "After a single evening with Candace's then-boyfriend George, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.",
       "anchored_artifacts": [
         "A-1079.2"
       ],
@@ -1076,7 +1076,7 @@
         "N-10003"
       ],
       "tags": [],
-      "claim_timestamp": "00:18:09",
+      "claim_timestamp": "00:17:28",
       "investigative_direction": "Verify the UK trip date and the text chain contents against any saved screenshots.",
       "transcript_snippet": "His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.",
       "confidence": "high",
@@ -1091,7 +1091,7 @@
       "@id": "C-1120",
       "ref": "C-1120",
       "label": "Candace joked Erika should marry Charlie for the last name upgrade",
-      "claim": "A text chain between Charlie and Candace jokes that Erika Frantzey should marry Charlie Kirk because 'Kirk' sounds better than 'Frantzey,' per a shown text exchange.",
+      "claim": "The host says she joked that Erika Frantzve should marry Charlie Kirk because 'Mrs. Erika Kirk' sounds better than 'Frantzve,' and a shown text exchange between Charlie and Candace says her last name is 'dumb' and 'Marry me. It's a logistics thing.'",
       "anchored_artifacts": [
         "A-1079.3"
       ],
@@ -1100,7 +1100,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:18:31",
-      "investigative_direction": "Confirm the text chain timing predates the Kirk/Frantzey marriage announcement.",
+      "investigative_direction": "Confirm the text chain timing predates the Kirk/Frantzve marriage announcement.",
       "transcript_snippet": "Mrs. Erika Kirk sounds so much better than Mrs. Eric. ... \"Marry me. It's a logistics thing.\"",
       "confidence": "high",
       "mentions_person_refs": [
@@ -1312,7 +1312,7 @@
       "@id": "C-13452",
       "ref": "C-13452",
       "label": "Host Says Charlie Adored Rush Limbaugh and Wanted a Show Like His",
-      "claim": "The host says the person Charlie adored most was Rush Limbaugh, that Charlie was raised on Limbaugh's show, and that his ultimate goal was to have a show like it, which she says happened.",
+      "claim": "The host says the person Charlie adored most was Rush Limbaugh, that Charlie was raised on Limbaugh's show, and that she thinks his ultimate goal was to have a show like it, which she says happened.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

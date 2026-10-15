@@ -38,13 +38,13 @@
 - Claim Range: C-2239–C-2252
   - New Nodes Introduced: N-513, N-514, N-515, N-516, N-517, N-518, N-519, N-10466, N-10468, N-10469
   - Reused Nodes Appearing: N-9, N-36, N-40, N-57, N-93, N-99, N-724, N-10000, N-10002, N-10015, N-10026, N-10059, N-10070, N-10209, N-10324, N-10439, N-10492, N-10869, N-10899, N-11014, N-11035, N-10467, N-11182, N-11183
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
 ## II. Executive Summary
 
-This episode advances the investigation along three evidentiary tracks. First, the host reads a Daily Mail article defending Erica Kirk against "grief policing" and quotes its two cited experts (Dr. Alan Wolfelt and Bidwell Smith), using the published text as an artifact anchor for the public defense framing around Erica's behavior.
+This episode advances the investigation along three evidentiary tracks. First, the host reads a Daily Mail article defending Erika Kirk against "grief policing" and quotes its two cited experts (Dr. Alan Wolfelt and Bidwell Smith), using the published text as an artifact anchor for the public defense framing around Erica's behavior.
 
 Second, the host introduces a new donor-targeting narrative supported by a first-person email from a Catholic attendee of the memorial and mass. The email, read aloud, supplies artifact-anchored details about Father Blank (the priest who flew with Erica to Utah, prayed at the hospital, and delivered the homily at the private funeral), including a 6:30am text mentioning "Erika may be there too" and a follow-up reply stating "God's fingerprints are all over" the donor's connection to Erica. A separately introduced TPUSA text references a $6 million memorial cost tied to a displaced "lucrative RV show" at Cardinal Stadium; the host claims she checked the Wayback Machine and found no such RV show on the calendar.
 
@@ -68,9 +68,9 @@ Confidence Level: High
 
 ---
 
-**A-1705** Erica Kirk Memorial Speech Audio Bundle
+**A-1705** Erika Kirk Memorial Speech Audio Bundle
 
-**A-1705.1** Audio excerpt of Erica Kirk's memorial speech directing audience to TPUSA.com, TPUSA Faith, and America Fest
+**A-1705.1** Audio excerpt of Erika Kirk's memorial speech directing audience to TPUSA.com, TPUSA Faith, and America Fest
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -140,7 +140,7 @@ Confidence Level: Medium
 
 **A-1710** Frank Turek Audio Clip Bundle
 
-**A-1710.1** Frank Turek sermon/podcast clip: dismisses Candace's dream-based claims, asserts "Satan is a murderer, a slanderer, an accuser, a liar, and somebody that brings confusion," applies this pattern to criticism of Erica Kirk
+**A-1710.1** Frank Turek sermon/podcast clip: dismisses Candace's dream-based claims, asserts "Satan is a murderer, a slanderer, an accuser, a liar, and somebody that brings confusion," applies this pattern to criticism of Erika Kirk
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -229,7 +229,7 @@ Confidence Level: High
 
 **N-513** Dr. Alan Wolfelt
 
-Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erica Kirk to "mourning avoidant, emotion phobic culture."
+Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erika Kirk to "mourning avoidant, emotion phobic culture."
 
 Evidence Count: 1
 Claim Count: 1
@@ -255,7 +255,7 @@ Investigative Pressure: Low
 
 **N-7** Frank Turek
 
-Cross-apologetics speaker referenced as a TPUSA-affiliated figure; the on-air clip shows him characterizing criticism of Erica Kirk as satanic pattern behavior.
+Cross-apologetics speaker referenced as a TPUSA-affiliated figure; the on-air clip shows him characterizing criticism of Erika Kirk as satanic pattern behavior.
 
 Evidence Count: 1
 Claim Count: 1
@@ -333,7 +333,7 @@ Investigative Pressure: Low
 
 **N-518** Kobe Bryant
 
-Referenced solely as a behavioral-comparison anchor for Erica Kirk (widow grief conduct at memorial); no artifact introduced.
+Referenced solely as a behavioral-comparison anchor for Erika Kirk (widow grief conduct at memorial); no artifact introduced.
 
 Evidence Count: 0
 Claim Count: 0
@@ -646,7 +646,7 @@ The dispute over Kolvet's interview with Alex Clark: the donor and the host call
 
 Claim Timestamp: 00:02:51
 
-Claim: The Daily Mail article presents grief experts who attribute criticism of Erica Kirk to "grief policing," a "mourning avoidant, emotion phobic culture," and sexism.
+Claim: The Daily Mail article presents grief experts who attribute criticism of Erika Kirk to "grief policing," a "mourning avoidant, emotion phobic culture," and sexism.
 
 Anchored Artifacts: A-1704.1
 Mentions: N-2, N-513, N-514
@@ -658,7 +658,7 @@ Investigative Direction: Retrieve full Daily Mail article text and verify quotes
 
 Claim Timestamp: 00:04:11
 
-Claim: Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting "mourning avoidant, emotion phobic culture"; Bidwell Smith states "widows are uniquely grief policed" and that "grief is not a performance and survival is not a moral failure."
+Claim: Per the Daily Mail article the host reads, Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting a "mourning avoidant, emotion phobic culture"; Bidwell Smith states "widows are uniquely grief policed" and that "grief is not a performance and survival is not a moral failure."
 
 Anchored Artifacts: A-1704.1
 Mentions: N-2, N-513, N-514
@@ -666,11 +666,11 @@ Investigative Direction: Confirm expert credentials, prior publication record, a
 
 ---
 
-**C-2241** Erica Kirk memorial speech directs audience to TPUSA-affiliated sign-ups
+**C-2241** Erika Kirk's Speech Beside Charlie's Chair Directs Audience to TPUSA-Affiliated Sign-Ups
 
 Claim Timestamp: 00:10:38
 
-Claim: In a clip the host plays, within ~36–48 hours of Charlie Kirk's assassination (the host's estimate), Erica Kirk's speech directs attendees to TPUSA.com, TPUSA Faith, and America Fest sign-up.
+Claim: In a clip the host plays, within ~36–48 hours of Charlie Kirk's assassination (the host's estimate), Erika Kirk's speech directs listeners to TPUSA.com, TPUSA Faith, and America Fest sign-up.
 
 Anchored Artifacts: A-1705.1
 Mentions: N-1, N-2
@@ -678,11 +678,11 @@ Investigative Direction: Obtain full memorial transcript and compare against TPU
 
 ---
 
-**C-2242** Host contrasts Vanessa Bryant's eulogy with Erica Kirk's memorial speech
+**C-2242** Host contrasts Vanessa Bryant's eulogy with Erika Kirk's memorial speech
 
 Claim Timestamp: 00:06:32
 
-Claim: The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erica Kirk's memorial speech within ~48 hours centered on Turning Point USA organizational calls to action.
+Claim: The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erika Kirk's memorial speech, and her first speech beside Charlie's chair ~36–48 hours after his death, centered on Turning Point USA.
 
 Anchored Artifacts: A-1705.1
 Mentions: N-2, N-518, N-519
@@ -703,11 +703,11 @@ Investigative Direction: Verify the email's metadata, the donor's identity, the 
 
 ---
 
-**C-2244** Father Blank texted the donor about attending Monday morning mass with Erica possibly present
+**C-2244** Per Text the Host Shows, Father Blank Told the Donor Erika May Be at Monday Morning Mass
 
 Claim Timestamp: 00:26:40
 
-Claim: Father Blank texted the donor at 6:30am saying "Hope to see you at mass" and indicating "Erika may be there too."
+Claim: Per the donor's email and a text message the host shows, Father Blank texted the donor at 6:30am saying "Hope to see you at mass" and "Erika may be there too."
 
 Anchored Artifacts: A-1707.1, A-1706.1
 Mentions: N-2, N-515
@@ -715,7 +715,7 @@ Investigative Direction: Obtain phone records or screenshots of the actual text 
 
 ---
 
-**C-2245** Donor Tells Host She Gave Erica Kirk a Relic of St. Paul II
+**C-2245** Donor Tells Host She Gave Erika Kirk a Relic of St. Paul II
 
 Claim Timestamp: 00:18:53
 
@@ -723,7 +723,7 @@ Claim: In an email from a Catholic donor that the host reads, the donor says she
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2
-Investigative Direction: Cross-check donor's account with Erica Kirk's public acknowledgment of receiving relics.
+Investigative Direction: Cross-check donor's account with Erika Kirk's public acknowledgment of receiving relics.
 
 ---
 
@@ -739,11 +739,11 @@ Investigative Direction: Obtain forensic verification of text message origin, ti
 
 ---
 
-**C-2247** TPUSA staffer text cites $6M memorial cost tied to displaced RV show at Cardinal Stadium
+**C-2247** Text Introducing Donor to TPUSA Staffer Cites $6M Memorial Cost Tied to Displaced RV Show at Cardinal Stadium
 
 Claim Timestamp: 00:24:55
 
-Claim: A text from TPUSA "Blank" introducing the donor states the memorial will cost approximately $6 million, that Trump was personally involved in securing Cardinal Stadium, and that the high cost was driven by displaced revenue from a "large and lucrative RV show" originally scheduled that weekend.
+Claim: Per a text message the host shows, a contact introducing the donor to TPUSA's "Blank" says Blank told them the memorial will cost approximately $6 million, that Trump apparently had to get personally involved to secure Cardinal Stadium, and that the high cost was driven by making up lost revenue from a "large and lucrative RV show" planned that weekend.
 
 Anchored Artifacts: A-1709.1
 Mentions: N-516
@@ -756,7 +756,7 @@ Investigative Direction: Verify Cardinal Stadium event calendar for that weekend
 
 Claim Timestamp: 00:31:07
 
-Claim: Father Blank responded to the donor's thank-you message with: "God's fingerprints are all over what is happening. There is no doubt that your presence to Erika was a God moment for both of you."
+Claim: Per the message the host reads, Father Blank responded to the donor's thank-you message with: "God's fingerprints are all over what is happening. There is no doubt that your presence to Erika was a God moment for both of you."
 
 Anchored Artifacts: A-1706.1
 Mentions: N-2, N-515
@@ -766,7 +766,7 @@ Investigative Direction: Verify text message metadata and check whether the prie
 
 **C-2249** Host claims Wayback Machine review found no RV show at Cardinal Stadium
 
-Claim Timestamp: 00:26:12
+Claim Timestamp: 00:25:29
 
 Claim: The host states she checked the Wayback Machine and saved screenshots showing no RV show was on the Cardinal Stadium calendar for the memorial weekend.
 
@@ -778,9 +778,9 @@ Investigative Direction: Host must release or publish the Wayback Machine screen
 
 **C-2250** TPUSA top fundraiser pitched donor on Mar-a-Lago gala with ~$42M target
 
-Claim Timestamp: 00:32:17
+Claim Timestamp: 00:31:32
 
-Claim: A TPUSA top fundraiser texted the donor offering a Chicago visit and pitching involvement in a Mar-a-Lago gala reported to be raising approximately $42 million.
+Claim: The host says another top TPUSA fundraiser, who delivered the relic, offered to visit the donor in the Chicago area, met her and her father, and invited her to the Mar-a-Lago gala where, she says, they were going to raise about $42 million; per a text the host reads, he then asked to call her about the gala.
 
 Anchored Artifacts: A-1713.1, A-1706.1
 Related Nodes: N-10467
@@ -792,7 +792,7 @@ Investigative Direction: Identify the fundraiser; obtain the full text thread; c
 
 Claim Timestamp: 00:39:28
 
-Claim: Frank Turek states in an on-air clip that criticism of Erica Kirk (described as slander, accusation, lies, confusion, without evidence) is what "Satan does," and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation.
+Claim: Frank Turek states in an on-air clip that criticism of Erika Kirk (described as slander, accusation, lies, confusion, without evidence) is what "Satan does," and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation.
 
 Anchored Artifacts: A-1710.1
 Mentions: N-2, N-7, N-3
@@ -804,7 +804,7 @@ Investigative Direction: Identify the original Frank Turek episode/podcast the c
 
 Claim Timestamp: 00:47:00
 
-Claim: The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning a pastor whose church works with ICE.
+Claim: The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning a pastor who works with ICE.
 
 Anchored Artifacts: A-1711.1
 Mentions: N-517
@@ -1072,7 +1072,7 @@ Investigative Direction: Check Charlie Kirk's mass attendance with the parish; t
 
 Claim Timestamp: 00:18:53
 
-Claim: The host says she knew from who tapped the donor that Stacy Sheridan would only have done so if the woman writing had a boatload of money, and that she did not look up the donor.
+Claim: The host says she knew from who tapped the donor that Stacy Sheridan would only have done so if the woman writing had a boatload of money, and that she did not even need to look up the donor.
 
 Transcript Snippet: I knew that Stacy would have only done that if the girl who was writing me this email had a boatload of money.
 
@@ -1215,7 +1215,7 @@ Investigative Direction: Identify the marketing conference and the attendees; as
 
 Claim Timestamp: 00:23:14
 
-Claim: The host says a person at the conference hooked the donor up directly with somebody who could help get her into the memorial venue, after people had waited in the rain for tickets.
+Claim: The host says a person at the conference hooked the donor up directly with somebody who could help get her into the memorial venue, which she asked about because people were waiting in the rain for tickets.
 
 Transcript Snippet: And that person then hooked her up directly with somebody that they said could help get her into the venue.
 
@@ -1746,7 +1746,7 @@ Investigative Direction: Check later episodes for the promised profile episodes.
 
 Claim Timestamp: 00:58:17
 
-Claim: The host says that watching the Rabbi Barclay interview probably was part of the beginning of the end of her support for Zionism and that she now believes it is an objectively racist philosophy.
+Claim: The host says that the Rabbi Barclay interview probably was part of the beginning of the end of her support for Zionism and that she now believes it is an objectively racist philosophy.
 
 Transcript Snippet: And that probably was part of the beginning of the end of my support for Zionism because I now believe that it is a objectively racist philosophy.
 

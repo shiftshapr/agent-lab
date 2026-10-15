@@ -1534,7 +1534,6 @@
       "claim_timestamp": "00:18:29 – 00:20:44",
       "investigative_direction": "Obtain the full unedited AmFest video and timestamp; verify whether Shapiro named specific TPUSA staff (Mikey McCormick, Andrew Kolvet, Blake Neff, Tyler Bowyer, Erika Kirk) and the precise wording.",
       "mentions_person_refs": [
-        "N-1",
         "N-2",
         "N-3",
         "N-97"
@@ -1569,7 +1568,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:12:45 – 00:15:40",
+      "claim_timestamp": "00:11:35",
       "investigative_direction": "Obtain the full leaked town hall video; verify the exact date, attendance count, and the specific X posts cited as grounds.",
       "mentions_person_refs": [
         "N-3",
@@ -1581,7 +1580,7 @@
       "@type": "Claim",
       "@id": "C-1983",
       "ref": "C-1983",
-      "label": "Mark Amodei Publicly Claimed a 12-House-Floor Alibi for September 9",
+      "label": "Mark Amodei Publicly Claimed a 12-Hour Committee Alibi for September 9",
       "claim": "Per a post on X by Mark Amodei that the host reads, on September 9 he was in a 12-hour House Appropriations Committee meeting and voting on the House floor, citing the public record.",
       "anchored_artifacts": [
         "A-1564.1"
@@ -1601,7 +1600,7 @@
       "@id": "C-1984",
       "ref": "C-1984",
       "label": "Mark Amodei Missed Two Morning Roll Calls on September 9",
-      "claim": "Per Diligent Dennison's X post analysis, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C., having missed two morning roll calls.",
+      "claim": "Per Diligent Dennison's X post that the host reads, Mark Amodei was not present for roll call until the third meeting in mid-afternoon on September 9 in D.C.; the host says the record shows he missed two morning roll calls, while adding that she is still working to verify that.",
       "anchored_artifacts": [
         "A-1565.1"
       ],
@@ -1641,7 +1640,7 @@
       "@id": "C-1986",
       "ref": "C-1986",
       "label": "Brian Harpole's Travel Logs Permit Attendance at the Fort Huachuca Morning Meeting",
-      "claim": "Travel logs provided to the host indicate that Brian Harpole's flight routing would have allowed him to attend the early-morning Fort Huachuca meeting on September 9.",
+      "claim": "The host says she was given the travel logs for Brian Harpole and that, per those logs, he definitively could have made it to the base for the early-morning Fort Huachuca meeting on September 9.",
       "anchored_artifacts": [
         "A-1567.2"
       ],
@@ -2188,7 +2187,7 @@
       "@id": "C-5374",
       "ref": "C-5374",
       "label": "Host says Shapiro's side contacted advertisers and sent undercover interns",
-      "claim": "The host says people working for Ben Shapiro have called her advertisers to try to bankrupt her in court and have sent undercover interns to stalk her.",
+      "claim": "The host says people working for Ben Shapiro have called advertisers, attempted to bankrupt her in the courts, and sent undercover interns to stalk her.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10416",
@@ -2250,7 +2249,7 @@
       "@type": "Claim",
       "@id": "C-5377",
       "ref": "C-5377",
-      "label": "Host alleges Shapiro's AmFest audience was staffed with YAF employees told to cheer",
+      "label": "Host Alleges Shapiro Staffs Audiences With YAF Employees Told to Cheer",
       "claim": "The host alleges that audiences for Shapiro are staffed with people who work for Young America's Foundation, told to explode into cheers when he hits the stage.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2340,7 +2339,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:22:15",
       "investigative_direction": "Find Shapiro's own statements using that phrase and their dates.",

@@ -40,7 +40,7 @@ Episode 42 Ledger Summary
 - Claim Range: C-1839–C-1861
   - New Nodes Introduced: N-309, N-310, N-312, N-10312, N-10313
   - Reused Nodes Appearing: N-2, N-10311, N-311, N-10315, N-308, N-10314, N-11, N-22, N-30, N-61, N-69, N-75, N-279, N-283, N-10000, N-10275, N-10307
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
@@ -676,7 +676,7 @@ Investigative Direction: Compare this stated rationale against any prior TPUSA l
 
 Claim Timestamp: 00:11:14
 
-Claim: In his earlier invitation statement (read aloud in this episode), Blake Neff said TPUSA would "sincerely welcome" Candace Owens's participation in a Phoenix live stream without explicit in-person requirement.
+Claim: In his earlier invitation statement, which the host reads aloud, Blake Neff said that if Candace is available TPUSA "would sincerely welcome her participation in that live stream at our studio in Phoenix"; the host says this was not a demand to be there in person.
 
 Anchored Artifacts: A-1502.1
 Mentions: N-160, N-3
@@ -764,7 +764,7 @@ Investigative Direction: Cross-reference third-party Apple Podcasts tracking ser
 
 Claim Timestamp: 00:32:42–00:33:55
 
-Claim: PBS (and other networks, per host) featured Emmanuel Beerer as an eyewitness, with the interview conducted in Salt Lake City rather than at UVU.
+Claim: The host says PBS and other networks featured Emmanuel Beerer as an eyewitness and that he was filmed in Salt Lake City rather than at UVU; she plays a PBS clip of him.
 
 Anchored Artifacts: A-1508.1
 Mentions: N-311
@@ -839,7 +839,7 @@ Investigative Direction: Obtain the full Adam Bartholomew livestream VOD and met
 
 Claim Timestamp: 00:27:30–00:28:00
 
-Claim: Carrie Bartholomew posted a tweet and accompanying photo confirming she was in the courtyard near the bush when the shot occurred.
+Claim: The host says Carrie Bartholomew posted a photo and a tweet confirming where she was when the shot went off; the tweet the host reads says "When we thought laying in the courtyard that we were about to get shot in the back or in the head". The host separately says Carrie was standing by the bush.
 
 Anchored Artifacts: A-1511.1, A-1505.5
 Mentions: N-310
@@ -884,7 +884,7 @@ Investigative Direction: Cross-reference court filings and law enforcement exhib
 
 Claim Timestamp: 00:22:10–00:23:45
 
-Claim: Viewers identifying as current or former military personnel wrote in to state that maroon is associated with airborne forces across the UK, US, France, and other militaries, and that maroon can serve as an operational "color of the day" identifier.
+Claim: In emails the host reads from people she says are past or present military, one writer says airborne forces wear maroon in the UK, the USA, France and dozens of other militaries, and another says undercover police and FBI units often use a "color of the day" or unit color as a signal to others on the same mission.
 
 Anchored Artifacts: A-1510.1
 
@@ -912,7 +912,7 @@ Investigative Direction: Catalog all publicly known September 10 roof footage an
 
 Claim Timestamp: 00:44:21–00:45:00
 
-Claim: The individual who shot one of the two roof videos told the host in a follow-up call that he did not see the subject take the shot and observed no recoil.
+Claim: The host says the individual who shot one of the two roof videos told her in a follow-up call that he did not see the subject take the shot and saw no recoil.
 
 Anchored Artifacts: A-1509.1
 
@@ -926,7 +926,7 @@ Investigative Direction: Obtain a sworn statement from the roof video caller and
 
 Claim Timestamp: 00:45:11
 
-Claim: The roof video caller stated that Tyler Robinson's defense lawyer had not reached out, and that federal authorities had not reached out since the host's prior contact.
+Claim: The host says the roof video caller told her that Tyler Robinson's defense lawyer had not reached out to him, and that federal authorities had not reached out since she called him.
 
 Anchored Artifacts: A-1509.1
 Mentions: N-40
@@ -1302,11 +1302,11 @@ Investigative Direction: Treat as the host's belief; the analogy itself is not e
 
 ---
 
-**C-12437** Host Says Three Men Sat Alone in Maroon After the Shot
+**C-12437** Host Says Three Men Shown Alone in Maroon After the Shot
 
 Claim Timestamp: 00:20:45
 
-Claim: The host says footage shows a young man and another sitting under a tree after the shot, and others including one in the bush, all alone and wearing maroon.
+Claim: The host says footage shows a young man after the shot, another sitting under a tree after the shot and a third, all alone and wearing maroon, and other men in maroon including one in the bush.
 
 Transcript Snippet: Show you another person here sitting there under the tree after the shot and he's wearing maroon.
 
@@ -1444,7 +1444,7 @@ Anchored Artifacts:
 Mentions: N-308, N-1, N-3
 Related Nodes: N-10311
 Supports: C-9800
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Social media audit; absence of posts is weak evidence about a private family.
 
 ---
@@ -1526,7 +1526,7 @@ Transcript Snippet: if you recognize these individuals in particular, more tips 
 Anchored Artifacts: A-3207.1
 Mentions: N-3
 Related Nodes: N-10311, N-10275
-Tags: relevance:core,dia
+Tags: dia, relevance:core
 Investigative Direction: Reconcile tips received with the host's later identifications.
 
 ---
@@ -1568,7 +1568,7 @@ Investigative Direction: Request footage from attendees who recognize Beerer.
 
 Claim Timestamp: 00:32:42
 
-Claim: The host says Tiffany Barker told her that being friends with a political figure the transcript renders as Phil Lyman was the reason she got the news hit that morning.
+Claim: The host says Tiffany Barker said that being friends with a political figure the transcript renders as Phil Lyman was the reason she got the news hit that morning.
 
 Transcript Snippet: Oh, I was friends with uh, you know, Phil Lyman and that's the reason that I was able to get the news hit in the morning.
 
@@ -1632,7 +1632,7 @@ Investigative Direction: Verify the lyric against the released track.
 
 Claim Timestamp: 00:42:13
 
-Claim: The host says her book Make Him a Sandwich is on Amazon, that buying through her own site gives 20 percent off, and that signed copies are sold only there.
+Claim: The host says her book Make Him a Sandwich is on Amazon, that buying direct at makehimasandwich.com gives 20 percent off, and that signed copies are available only at candaceowens.com.
 
 Transcript Snippet: if you want to get 20% off, you should head to make him a sandwichand. com. And you can buy it directly from us with no middleman.
 
@@ -1869,7 +1869,7 @@ Investigative Direction: Time the Wednesday segment to test the ten-minute claim
 
 Claim Timestamp: 00:49:14
 
-Claim: The host says Neff heavily implies that Erika Kirk sanctioned the statement, that he did not write it himself, and that she as CEO would have read it.
+Claim: The host says Neff heavily implies that Erika Kirk sanctioned the statement; she says he obviously did not write it himself and that, as CEO, it would follow that Erika would have read it.
 
 Transcript Snippet: I don't love the fact that he heavily implies that Erika sanctioned that he obviously didn't write it himself
 
@@ -2072,7 +2072,7 @@ Confidence: high
 
 ## VI. Optional Flags
 
-- Name uncertainty: "Erika Kirk" is used throughout this episode transcript; existing node is "Erica Kirk." Spelling variance preserved as presented in this episode. Verify prior episodes for canonical spelling.
+- Name uncertainty: "Erika Kirk" is used throughout this episode transcript; existing node is "Erika Kirk." Spelling variance preserved as presented in this episode. Verify prior episodes for canonical spelling.
 - Name uncertainty: "Andrew Kolvet," "Andrew Kolvet," "Andrew Kolvet" appear in this transcript for what appears to be the same individual. Spelling not normalized.
 - Transcript ambiguity / possible transcription error: "Jacob Kasparian" appears consistently in this episode, but one reference reads "Jacob Kasparian" (at approximately 27:51, in context of Carrie Bartholomew's location). Treat as transcription error pending verification.
 - Artifact verbally referenced but not shown: Some UVU footage stills (A-1505.3, A-1505.4, A-1505.6) were verbally described and superimposed rather than shown as clean still frames. Requires human verification.

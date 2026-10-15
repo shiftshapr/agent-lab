@@ -1292,7 +1292,8 @@
       "\\bTaylor (?:Lorent|Ren|Loren)\\b",
       "Taylor Lorenz",
       [
-        10
+        10,
+        30
       ]
     ],
     [
@@ -2261,6 +2262,153 @@
     [
       "\\bDana Lashes\\b",
       "Dana Loesches"
+    ],
+    [
+      "\\bFrantzey\\b",
+      "Frantzve"
+    ],
+    [
+      "\\bSarah Mgram\\b",
+      "Sarah Milgrim"
+    ],
+    [
+      "\\bMilgram\\b",
+      "Milgrim",
+      [
+        6
+      ]
+    ],
+    [
+      "\\bLachinsky\\b",
+      "Lischinsky",
+      [
+        6
+      ]
+    ],
+    [
+      "\\bSarah Milgram\\b",
+      "Sarah Milgrim"
+    ],
+    [
+      "\\bErikica Mindle\\b",
+      "Erica Mindel"
+    ],
+    [
+      "\\bErika Mindle\\b",
+      "Erica Mindel"
+    ],
+    [
+      "\\bMindle\\b",
+      "Mindel"
+    ],
+    [
+      "\\bDeborah Lee\\b",
+      "Debra Lea",
+      [
+        13
+      ]
+    ],
+    [
+      "\\bSarah Schmackenberger\\b",
+      "Sara Schmachtenberger"
+    ],
+    [
+      "\\bSchmackenberger\\b",
+      "Schmachtenberger"
+    ],
+    [
+      "\\bNate Carile\\b",
+      "Nate Carlisle"
+    ],
+    [
+      "\\bCarile\\b",
+      "Carlisle",
+      [
+        25
+      ]
+    ],
+    [
+      "\\bKen Kenzie Kenny\\b",
+      "Kenzie Kinney"
+    ],
+    [
+      "\\bKenzie Kenny\\b",
+      "Kenzie Kinney"
+    ],
+    [
+      "\\bJeffrey (?:Mason|Mone)\\b",
+      "Jeffrey Masson",
+      [
+        26
+      ]
+    ],
+    [
+      "\\bL Reeves\\b",
+      "Elle Reeve"
+    ],
+    [
+      "\\bColberg\\b",
+      "Kolvet",
+      [
+        48,
+        130
+      ]
+    ],
+    [
+      "\\bGeorge Zin\\b",
+      "George Zinn"
+    ],
+    [
+      "\\bPangitch\\b",
+      "Panguitch"
+    ],
+    [
+      "\\bJudge Jan Jordan\\b",
+      "Judge Jan Jurden"
+    ],
+    [
+      "\\bAayol Yakobe\\b",
+      "Eyal Yakoby"
+    ],
+    [
+      "\\bErica Kirk\\b",
+      "Erika Kirk"
+    ],
+    [
+      "\\bKolbet\\b",
+      "Kolvet"
+    ],
+    [
+      "\\bKittis'",
+      "Candace's",
+      [
+        37
+      ]
+    ],
+    [
+      "\\bTurney\\b",
+      "Tourney",
+      [
+        65
+      ]
+    ],
+    [
+      "\\bLech\\b",
+      "Laitsch",
+      [
+        70
+      ]
+    ],
+    [
+      "\\bFrandsen\\b",
+      "Frantzve",
+      [
+        74
+      ]
+    ],
+    [
+      "\\bEricaFrandsen\\b",
+      "ErikaFrantzve"
     ]
   ]
 }

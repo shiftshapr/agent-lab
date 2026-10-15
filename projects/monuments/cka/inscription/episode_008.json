@@ -1767,7 +1767,8 @@
       "mentions_person_refs": [
         "N-75",
         "N-76",
-        "N-77"
+        "N-77",
+        "N-1"
       ]
     },
     {
@@ -1821,7 +1822,7 @@
       "@id": "C-1250",
       "ref": "C-1250",
       "label": "Handcuffs photo shared by Utah TPUSA advertiser",
-      "claim": "Host says the viral handcuffs photo was first circulated by a Utah-based individual who advertises with Turning Point USA.",
+      "claim": "Host says the viral handcuffs photo was shared by a Utah-based individual who advertises with Turning Point USA.",
       "anchored_artifacts": [
         "A-1148.4"
       ],
@@ -1887,7 +1888,7 @@
       "@type": "Claim",
       "@id": "C-1253",
       "ref": "C-1253",
-      "label": "Eyewitness tells FBI shooter was in tactical gear, not jeans",
+      "label": "Eyewitness Says Shooter Wore Tactical Gear, Not Jeans",
       "claim": "Per the rooftop videographer as relayed by the host, he told authorities the shooter was in tactical gear and a face mask, not the jeans in the description the public received less than 24 hours later.",
       "anchored_artifacts": [
         "A-1154.1"
@@ -2005,7 +2006,7 @@
       "@id": "C-1258",
       "ref": "C-1258",
       "label": "Charlie Kirk said he was being morally blackmailed by donors",
-      "claim": "Kolvet recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' when pressured to disavow Candace/Tucker.",
+      "claim": "Kolvet recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' after an audience member asked whether he would debate Candace or disavow Tucker.",
       "anchored_artifacts": [
         "A-1151.4",
         "A-1152.1"
@@ -2632,7 +2633,7 @@
       "@id": "C-12017",
       "ref": "C-12017",
       "label": "Witness Says the Roof Figure Looked Like a Highly Trained Foreign Agent",
-      "claim": "The host relays that the eyewitness said the roof figure looked to him like a foreign agent, highly trained and certain in his movements, and the host says she does not know how he could tell this if the person was dressed all in black.",
+      "claim": "The host relays that the eyewitness said the roof figure looked to him like a foreign agent and that he was very certain the person was skilled and highly trained, and the host says she does not know how he could tell this if the person was dressed all in black.",
       "anchored_artifacts": [
         "A-1154.1"
       ],
@@ -2838,7 +2839,7 @@
       "@id": "C-12025",
       "ref": "C-12025",
       "label": "Kolvet Says Erika Is a Cradle Catholic Who Ended Up Like Him",
-      "claim": "In the clip, Kolvet says Erika is a cradle Catholic who ended up kind of like him, having moved to a Protestant, non-denominational church.",
+      "claim": "In the clip, Kolvet says Erika is a cradle Catholic who ended up kind of like him, and that he thinks she followed the same path he did to a Protestant, non-denominational church.",
       "anchored_artifacts": [
         "A-1151.1"
       ],
@@ -3088,7 +3089,7 @@
         "N-11319"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:38:26",
       "investigative_direction": "Review TPUSA donor filings and the donors' registered foreign-agent relationships.",
@@ -3111,7 +3112,7 @@
         "N-10105"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:38:51",
       "investigative_direction": "Obtain the host's text messages or sources that describe the offer, its date and its source.",
@@ -3565,7 +3566,7 @@
       "@type": "Claim",
       "@id": "C-12056",
       "ref": "C-12056",
-      "label": "Host Says Authorities Have Clear Footage of the Roof Figure They Did Not Release",
+      "label": "Host Says Authorities Have Clear Footage of the Person They Did Not Release",
       "claim": "The host says that authorities have tons of clear footage of the person, asks why it was not released, and suggests it might show someone in tactical gear who looked foreign or who was not Tyler Robinson.",
       "anchored_artifacts": [],
       "related_nodes": [

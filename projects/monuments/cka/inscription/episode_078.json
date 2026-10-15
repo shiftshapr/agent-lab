@@ -85,7 +85,7 @@
           "@type": "Artifact",
           "@id": "A-1837.1",
           "ref": "A-1837.1",
-          "description": "Sarah Huckabee Sanders proclamation clip with Erica Kirk at her side, supporting Club America in every Arkansas high school",
+          "description": "Sarah Huckabee Sanders proclamation clip with Erika Kirk at her side, supporting Club America in every Arkansas high school",
           "related_claims": [
             "C-2457"
           ],
@@ -114,7 +114,7 @@
           "@type": "Artifact",
           "@id": "A-1838.1",
           "ref": "A-1838.1",
-          "description": "2017 article quoting Erica Kirk on partnership with Renee Crossman and Antonio Placement Center in Constanta",
+          "description": "2017 article quoting Erika Kirk on partnership with Renee Crossman and Antonio Placement Center in Constanta",
           "related_claims": [
             "C-2458",
             "C-2471"
@@ -135,7 +135,7 @@
           "@type": "Artifact",
           "@id": "A-1838.2",
           "ref": "A-1838.2",
-          "description": "Erica Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman",
+          "description": "Erika Kirk interview clip in which she states Romanian orphans did not trust Renee Crossman",
           "related_claims": [
             "C-2459"
           ],
@@ -690,7 +690,7 @@
       "ref": "N-583",
       "name": "Sarah Huckabee Sanders",
       "type": "person",
-      "description": "Governor of Arkansas; displayed signing proclamation with Erica Kirk for Club America in Arkansas high schools.",
+      "description": "Governor of Arkansas; displayed signing proclamation with Erika Kirk for Club America in Arkansas high schools.",
       "related_artifacts": [
         "A-1837.1"
       ],
@@ -734,7 +734,7 @@
       "ref": "N-585",
       "name": "Renee Crossman",
       "type": "person",
-      "description": "President of United Hands Romania Association; partner of Erica Kirk on the Remnant/Romanian Angels project; per displayed Romanian investigative article, originated from the Children of God / The Family religious sect.",
+      "description": "President of United Hands Romania Association; partner of Erika Kirk on the Remnant/Romanian Angels project; per displayed Romanian investigative article, originated from the Children of God / The Family religious sect.",
       "related_artifacts": [
         "A-1838.1",
         "A-1838.2",
@@ -890,7 +890,7 @@
       "ref": "N-571",
       "name": "Faith Kates",
       "type": "person",
-      "description": "Founder of Next Model Management, the Rothschild spin-out modeling agency with which Erica Kirk is alleged to have dealt.",
+      "description": "Founder of Next Model Management, the Rothschild spin-out modeling agency with which Erika Kirk is alleged to have dealt.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -931,7 +931,7 @@
       "ref": "N-10531",
       "name": "301 East 66th Street NYC Building Investigation",
       "type": "investigation_target",
-      "description": "Building identified in displayed NY Post article as Epstein site used to keep underage victims; apartments labeled in Epstein's address book as \"apartments for models.\" Per host, viewers identified building matching description of the \"white building\" associated with Erica Kirk's Next Model Management real-estate role.",
+      "description": "Building identified in displayed NY Post article as Epstein site used to keep underage victims; apartments labeled in Epstein's address book as \"apartments for models.\" Per host, viewers identified building matching description of the \"white building\" associated with Erika Kirk's Next Model Management real-estate role.",
       "related_artifacts": [
         "A-1835.1"
       ],
@@ -955,7 +955,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10532",
       "ref": "N-10532",
-      "name": "Next Model Management / Erica Kirk Connection",
+      "name": "Next Model Management / Erika Kirk Connection",
       "type": "investigation_target",
       "description": "Persistent investigation target: alleged point-person role for Next Model Management housing of young models, including at a \"white building\" near 68th Street between Second and Third Avenue.",
       "related_artifacts": [
@@ -1003,7 +1003,7 @@
       "ref": "N-10534",
       "name": "Renee Crossman / United Hands Romania Cult Affiliation",
       "type": "investigation_target",
-      "description": "Investigation target: Crossman's affiliation with Children of God / The Family per displayed Romanian investigative article, and the implications of her decade-plus work with Romanian orphanages accessed by Erica Kirk.",
+      "description": "Investigation target: Crossman's affiliation with Children of God / The Family per displayed Romanian investigative article, and the implications of her decade-plus work with Romanian orphanages accessed by Erika Kirk.",
       "related_artifacts": [
         "A-1838.1",
         "A-1838.2",
@@ -2253,8 +2253,8 @@
       "@type": "Claim",
       "@id": "C-2457",
       "ref": "C-2457",
-      "label": "Sarah Huckabee Sanders signed proclamation supporting Club America in Arkansas high schools alongside Erica Kirk",
-      "claim": "Per the displayed clip, Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erica Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program).",
+      "label": "Sarah Huckabee Sanders signed proclamation supporting Club America in Arkansas high schools alongside Erika Kirk",
+      "claim": "Per the displayed clip, Arkansas Governor Sarah Huckabee Sanders signed a proclamation with Erika Kirk at her side announcing support for every high school in Arkansas to adopt Club America (TPUSA high-school chapter program).",
       "anchored_artifacts": [
         "A-1837.1"
       ],
@@ -2273,8 +2273,8 @@
       "@type": "Claim",
       "@id": "C-2458",
       "ref": "C-2458",
-      "label": "2017 article records Erica Kirk stating she partnered with Renee Crossman of United Hands Romania",
-      "claim": "Per the displayed 2017 article, Erica Kirk stated: \"I am happy to collaborate with United Hands Romania Association and Renee Crossman, the president of this organization, but also with the representatives of the Antonio Placement Center.\"",
+      "label": "2017 article records Erika Kirk stating she partnered with Renee Crossman of United Hands Romania",
+      "claim": "Per the displayed 2017 article, Erika Kirk stated: \"I am happy to collaborate with United Hands Romania Association and Renee Crossman, the president of this organization, but also with the representatives of the Antonio Placement Center.\"",
       "anchored_artifacts": [
         "A-1838.1"
       ],
@@ -2383,7 +2383,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:34:11",
-      "investigative_direction": "Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erica Kirk, Frank, and Brian Harpole (as referenced by host).",
+      "investigative_direction": "Compare video frame-by-frame to the multiple conflicting necklace-recovery stories told by Erika Kirk, Frank, and Brian Harpole (as referenced by host).",
       "mentions_person_refs": [
         "N-1"
       ]
@@ -2529,8 +2529,8 @@
       "@type": "Claim",
       "@id": "C-2471",
       "ref": "C-2471",
-      "label": "2017 article identifies Antonio Placement Center in Constanta as Erica Kirk's partnership site",
-      "claim": "Per the displayed 2017 article, Erica Kirk's partnership for the benefit of Romanian children was conducted with both the Antonio Placement Center in Constanta and Renee Crossman's United Hands Romania Association.",
+      "label": "2017 article identifies Antonio Placement Center in Constanta as Erika Kirk's partnership site",
+      "claim": "Per the displayed 2017 article, Erika Kirk's partnership for the benefit of Romanian children was conducted with both the Antonio Placement Center in Constanta and Renee Crossman's United Hands Romania Association.",
       "anchored_artifacts": [
         "A-1838.1"
       ],

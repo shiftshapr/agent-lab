@@ -265,7 +265,7 @@ Confidence Level: High
 
 *Related: C-2378, C-2379, N-566, N-567*
 
-**A-1781.2** Jillian Falcon reply, 2014-02-13: "@EricaFrandsen, gorgeous as always"
+**A-1781.2** Jillian Falcon reply, 2014-02-13: "@ErikaFrantzve, gorgeous as always"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -275,7 +275,7 @@ Confidence Level: High
 
 *Related: C-2378, N-566*
 
-**A-1781.3** Jillian Falcon tweet, 2014-03-06: "Why did @EricaFrandsen just send me this?" with attached Valentine-themed photo captioned "This Valentine's Day I am going to touch your butt."
+**A-1781.3** Jillian Falcon tweet, 2014-03-06: "Why did @ErikaFrantzve just send me this?" with attached Valentine-themed photo captioned "This Valentine's Day I am going to touch your butt."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -305,7 +305,7 @@ Confidence Level: High
 
 *Related: N-566*
 
-**A-1781.6** Jillian Falcon tweet, 2014-03-26 evening: "Thank you, @EricaFrandsen, for making my whole week" with attached gnome-image reading "I want to be inside your lady garden. Know what I'm saying?"
+**A-1781.6** Jillian Falcon tweet, 2014-03-26 evening: "Thank you, @ErikaFrantzve, for making my whole week" with attached gnome-image reading "I want to be inside your lady garden. Know what I'm saying?"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -325,7 +325,7 @@ Confidence Level: High
 
 *Related: N-566*
 
-**A-1781.8** Jillian Falcon tweet, 2014-04-05: "Getting this in the mail from @EricaFrandsen" with photo of red box of chocolate-covered strawberries and other chocolate desserts
+**A-1781.8** Jillian Falcon tweet, 2014-04-05: "Getting this in the mail from @ErikaFrantzve" with photo of red box of chocolate-covered strawberries and other chocolate desserts
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -1166,7 +1166,7 @@ Topic reused for the China charity reference.
 
 ---
 
-**N-10428** Erica Kirk China Timeline Discrepancy
+**N-10428** Erika Kirk China Timeline Discrepancy
 
 Topic reused for the China charity reference.
 
@@ -1317,7 +1317,7 @@ The host's allegation, sourced to people fired from TPUSA, that Alex Clark deman
 
 ## 5. Claim Register
 
-**C-2378** Per Nicey Clip, Erika Kirk (Then Frandsen) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15
+**C-2378** Per Nicey Clip, Erika Kirk (Then Frantzve) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15
 
 Claim Timestamp: 00:02:07
 Claim: In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frantzve), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.
@@ -1371,7 +1371,7 @@ Investigative Direction: Identify the photographer (name begins with "R") and ob
 **C-2383** Nicey Clip Shows Jillian Sharing Gnome Image After Thanking Erika
 
 Claim Timestamp: 00:06:37
-Claim: In a video by YouTuber Nicey that the host plays, Nicey says Jillian Falcon tweeted on or about 2014-03-26 "Thank you, @EricaFrandsen, for making my whole week" and shared a photo of a gnome reading "I want to be inside your lady garden. Know what I'm saying?"
+Claim: In a video by YouTuber Nicey that the host plays, Nicey says Jillian Falcon tweeted on or about 2014-03-26 "Thank you, @EricaFrantzve, for making my whole week" and shared a photo of a gnome reading "I want to be inside your lady garden. Know what I'm saying?"
 Anchored Artifacts: A-1781.6
 Mentions: N-565, N-566, N-2
 Investigative Direction: Locate the original image file and verify its posting date and source account.
@@ -1401,7 +1401,7 @@ Investigative Direction: Obtain the original screenshot and verify against Jilli
 **C-2386** Host Says Erika Publicly Commented on Jillian's Instagram Photo Calling Her "a dime piece beside the car"
 
 Claim Timestamp: 00:14:26
-Claim: The host says, relaying what Jillian Falcon told her, that Erika Kirk commented on an Instagram photo of Jillian standing beside a car, writing "That dime piece beside the car though."
+Claim: The host shows an Instagram comment in which Erika Kirk, referring to Jillian Falcon beside a car, wrote "That dime piece beside the car though."
 Anchored Artifacts: A-1784.4
 Mentions: N-566, N-2
 Investigative Direction: Pull the original Instagram comment from Jillian's account (now possibly deleted) via archived snapshots or Jillian's own records.
@@ -1488,7 +1488,7 @@ Investigative Direction: Pull the original Real America's Voice and Fox News/Mar
 **C-2394** The wedding photo was visible in the background of Mikey McCoy's 2025-09-22 Fox News interview but absent from his 2025-11-08 Real America's Voice interview
 
 Claim Timestamp: 00:38:26
-Claim: Episode presents that the wedding photo appeared in the background of Mikey McCoy's 2025-09-22 Fox News/Martha MacCallum interview but was absent from the corner of his 2025-11-08 Real America's Voice interview, per a "mommy sleuth" discovery cited by the host.
+Claim: Episode presents that the wedding photo appeared in the background of Mikey McCoy's 2025-09-22 Fox News/Martha MacCallum interview but was absent from the corner of his 2025-11-08 Real America's Voice interview, per finds the host credits to a "mommy sleuth" (Nov 8) and "another sleuth" (Sept 22).
 Anchored Artifacts: A-1788.1, A-1789.1
 Mentions: N-191
 Related Nodes: N-10512
@@ -1496,7 +1496,7 @@ Investigative Direction: Pull the two interview segments and visually verify the
 
 ---
 
-**C-2395** Pam Bondi asserted at a House Oversight hearing that the Trump administration released over 3 million pages of Epstein documents and signed the law releasing them
+**C-2395** Pam Bondi Asserts at a House Hearing That the Trump Administration Released Over 3 Million Pages of Epstein Documents and Trump Signed the Law Releasing Them
 
 Claim Timestamp: 00:46:09
 Claim: Episode presents that Attorney General Pam Bondi, in a hearing clip, asserted that the Trump administration released over 3 million pages of Epstein documents and that President Trump signed the law releasing them, characterizing him as "the most transparent president in the nation's history."
@@ -1605,7 +1605,7 @@ Claim: Nicey says that on September 15, 2013 at 3:53 p.m. Jillian Falcon tweeted
 Transcript Snippet: At 3:53 p. m., Jillian tweeted that she was out for sushi with her friend and 2 hours later she tweeted
 
 Anchored Artifacts: A-1780.1, A-1781.1
-Mentions: N-565, N-566, N-567
+Mentions: N-565, N-566, N-567, N-2
 Supports: C-2378
 Tags: relevance:core
 Investigative Direction: Retrieve Jillian's original tweets with their timestamps and the sushi venue to confirm the sequence.
@@ -1616,7 +1616,7 @@ Investigative Direction: Retrieve Jillian's original tweets with their timestamp
 
 Claim Timestamp: 00:02:07
 
-Claim: Nicey says Jillian had a friend whose grandparents were renting a home to Erika in Michigan, and that he is unsure whether the meeting at a sushi restaurant was a coincidence or a formal introduction; this differs from the rent-payment door encounter the host later relays from Jillian.
+Claim: Nicey says Jillian had a friend whose grandparents were renting a home to Erika in Michigan, and that she is unsure whether the meeting at a sushi restaurant was a coincidence or a formal introduction.
 
 Transcript Snippet: Jillian had a friend and the friend's grandparents were renting a home to Erika in Michigan.
 
@@ -1648,9 +1648,9 @@ Investigative Direction: Identify the named charities and dates in Erika's offic
 
 Claim Timestamp: 00:04:50
 
-Claim: Nicey says that on February 13, 2014 Jillian replied to one of Erika's tweets with the words '@EricaFrandsen, gorgeous as always.'
+Claim: Nicey says that on February 13, 2014 Jillian replied to one of Erika's tweets with the words '@EricaFrantzve, gorgeous as always.'
 
-Transcript Snippet: On February 13th, 2014, Jillian replied to one of Erika's tweets by saying, "@EricaFrandsen, gorgeous as always."
+Transcript Snippet: On February 13th, 2014, Jillian replied to one of Erika's tweets by saying, "@ErikaFrantzve, gorgeous as always."
 
 Anchored Artifacts: A-1781.2
 Mentions: N-565, N-566, N-2
@@ -1835,7 +1835,7 @@ Claim: The host says Jillian told her Erika sent her to a photographer who was a
 Transcript Snippet: She's helping her cuz she's just so beautiful get into maybe some modeling. That's at least how she presented it to her.
 
 Anchored Artifacts: A-1781.4, A-1782.4
-Mentions: N-3, N-2, N-566
+Mentions: N-3, N-2, N-566, N-569
 Related Nodes: N-10513
 Supports: C-2382
 Tags: relevance:core
@@ -2038,7 +2038,7 @@ Investigative Direction: Check tribal, federal or state data on trafficking inci
 
 Claim Timestamp: 00:20:53
 
-Claim: The host says somebody reported that the address given for the Desert Spirit Tech office on the reservation does not exist.
+Claim: The host says somebody reported that the Desert Spirit Tech office address does not exist, and that the office is not located on the reservation.
 
 Transcript Snippet: Because somebody went and said this this address does not exist.
 
@@ -2361,7 +2361,7 @@ Investigative Direction: Compare dated screenshots of Charlie's last show with t
 
 Claim Timestamp: 00:33:02
 
-Claim: The host says that on Glenn Beck Erika said she had not been in the studio in forever and apologized for looking down at a note Charlie wrote; the host asks how long forever is.
+Claim: The host says that on Glenn Beck Erika said, in what the host thinks was her exact sentence, that she had not been here in forever and apologized for looking down at a note Charlie wrote; the host asks how long forever is.
 
 Transcript Snippet: The exact sentence I think she says is um I haven't been here in forever. Sorry if I keep looking down.
 
@@ -2571,7 +2571,7 @@ Investigative Direction: Check the vote tallies for the Epstein Files Transparen
 
 Claim Timestamp: 00:43:01
 
-Claim: Moskowitz says Kash Patel, under oath and in a letter to Senator Kennedy, said the FBI had no credible evidence that Epstein trafficked girls to anyone but himself, which Moskowitz says is now shown to be untrue.
+Claim: Moskowitz says Kash Patel, under oath and in something sent to Senator Kennedy, said the FBI was not in possession of any credible evidence that Epstein trafficked girls to anyone but himself, which Moskowitz says is now known to be untrue.
 
 Transcript Snippet: Kash Patel under oath said sent to Senator Kennedy, "The FBI is not in possession of any credible evidence that Epstein trafficked girls to anyone but himself."
 
@@ -2770,7 +2770,7 @@ Transcript Snippet: The Dow is over 50,000 right now. The S&P at almost 7,000.
 
 Anchored Artifacts: A-1791.1
 Mentions: N-85
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check index closing values on the hearing date.
 
 ---
@@ -2786,7 +2786,7 @@ Transcript Snippet: apparently Alex Clark demanded demanded that Dylan call my s
 Anchored Artifacts: 
 Mentions: N-3, N-99
 Related Nodes: N-10953, N-11254
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Ask Paleo Valley whether it received such a call and identify the TPUSA sources and Dylan.
 
 ---
@@ -2795,7 +2795,7 @@ Investigative Direction: Ask Paleo Valley whether it received such a call and id
 
 Claim Timestamp: 00:50:28
 
-Claim: The host says she had gone after Alex Clark for dressing up in boots and standing over the memorial site of Charlie to pose for a photo for what she says was the Washington Post.
+Claim: The host says she had gone after Alex Clark for dressing up in boots and standing over the memorial site of Charlie to pose for a photo for what she called 'The Washington Post, whatever it was.'
 
 Transcript Snippet: because I had gone after her for dressing up in boots and standing over the memorial site of Charlie to pose for what was it? The Washington Post, whatever it was.
 
@@ -2849,7 +2849,7 @@ Transcript Snippet: Reminder, we will be dark next week so we will not see you u
 
 Anchored Artifacts: 
 Mentions: N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the channel's upload log for the next episode date.
 
 ---

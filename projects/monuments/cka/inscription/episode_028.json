@@ -1294,15 +1294,15 @@
       "@type": "Claim",
       "@id": "C-1640",
       "ref": "C-1640",
-      "label": "HuffPost Report: Boring Praised Fuentes on X Space",
-      "claim": "According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on an X Space hosted by Lauren Chen, praised Fuentes as \"very funny\" and \"one of the most talented political influencers,\" and offered only mild criticism.",
+      "label": "HuffPost Report: Boreing Praised Fuentes on X Space",
+      "claim": "According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on X for a live audio chat room, praised Fuentes as \"very funny\" and \"one of the most talented political influencers,\" and offered only mild criticism; the host says the X Space was hosted by Lauren Chen.",
       "anchored_artifacts": [
         "A-1358.1",
         "A-1359.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:14:04",
+      "claim_timestamp": "00:12:50",
       "investigative_direction": "Verify the original X Space audio against the HuffPost excerpts and check whether Boring's characterization of Fuentes was later retracted.",
       "mentions_person_refs": [
         "N-202",
@@ -1314,7 +1314,7 @@
       "@type": "Claim",
       "@id": "C-1641",
       "ref": "C-1641",
-      "label": "Boring Invited Fuentes Onto Daily Wire Shows",
+      "label": "Boreing Invited Fuentes Onto Daily Wire Shows",
       "claim": "According to the read-aloud HuffPost article, Jeremy Boreing said on the X Space that he would be thrilled to have Nick Fuentes on a Daily Wire show.",
       "anchored_artifacts": [
         "A-1358.1",
@@ -1334,7 +1334,7 @@
       "@id": "C-1642",
       "ref": "C-1642",
       "label": "Candace–Charlie Text Exchange Documents Shapiro's Behavior",
-      "claim": "In text messages the host reads between herself and Charlie Kirk, Kirk tells her she is bigger than Ben Shapiro now, says they have to treat him like noise, that Shapiro is sending his \"incestuous brother\" to go try and kill them, and that he views Owens as Kirk's \"slave 100%\"; the host separately says Shapiro was going on people's shows talking down about her and Kirk and sent his YAF boys and National Review peeps after them.",
+      "claim": "In text messages the host reads between herself and Charlie Kirk, Kirk tells her she is bigger than Ben Shapiro now, says they have to treat him like noise, that, in a Game of Thrones reference, Shapiro is sending his \"incestuous brother\" to go try and kill them, and that he views Owens as Kirk's \"slave 100%\"; the host separately says Shapiro was going on people's shows talking down about her and Kirk and sent his YAF boys and National Review peeps after them.",
       "anchored_artifacts": [
         "A-1360.1",
         "A-1360.2"
@@ -1451,7 +1451,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:02:12",
+      "claim_timestamp": "00:01:41",
       "investigative_direction": "Locate the original tweet via X/Twitter search or web archives to verify the exact wording, the date, and whether the tweet was later deleted or amended.",
       "mentions_person_refs": [
         "N-202",
@@ -1463,7 +1463,7 @@
       "@id": "C-1649",
       "ref": "C-1649",
       "label": "Shapiro Tweeted Imagery of Ron Paul \"Strangling the Jews\"",
-      "claim": "Ben Shapiro previously posted tweets containing imagery of Ron Paul \"leaning forward from the grave and strangling the Jews\" and \"gripping the pen as he would the neck of a Jew.\"",
+      "claim": "Per tweets the host shows, Ben Shapiro previously posted tweets containing imagery of Ron Paul \"leaning forward from the grave and strangling the Jews\" and \"gripping the pen as he would the neck of a Jew.\"",
       "anchored_artifacts": [
         "A-1355.3"
       ],
@@ -1481,7 +1481,7 @@
       "@id": "C-1650",
       "ref": "C-1650",
       "label": "Shapiro–Carlson Private Text Exchange After Kirk's Death",
-      "claim": "Ben Shapiro and Tucker Carlson exchanged text messages in which Shapiro proposed a joint show on the \"DSA threat\" and Carlson replied that he needed \"a week or two\" to think; Shapiro states subsequent outreach went unanswered.",
+      "claim": "In a clip the host plays, Ben Shapiro says he texted Tucker Carlson proposing a joint show on the \"DSA threat,\" that Carlson replied he would spend \"the next week or two\" thinking about how to be most effective, and that his repeated outreach afterward went unanswered.",
       "anchored_artifacts": [
         "A-1357.1"
       ],
@@ -1490,7 +1490,6 @@
       "claim_timestamp": "00:04:34–00:05:23",
       "investigative_direction": "Verify the exchange via Carlson or Shapiro public statements, and confirm whether the outreach was conducted on both sides after the cited date.",
       "mentions_person_refs": [
-        "N-1",
         "N-22",
         "N-97"
       ]
@@ -1506,7 +1505,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:33:44–00:33:57",
+      "claim_timestamp": "00:33:08",
       "investigative_direction": "Confirm the interview date against CNN's published interview records or the original broadcast timestamp.",
       "mentions_person_refs": [
         "N-1",
@@ -1527,7 +1526,7 @@
         "N-10406"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:02:12",
       "investigative_direction": "Obtain full video of the Kelly tour stop and compare Shapiro's questions to Kelly with what the host and Carlson actually said.",
@@ -1659,7 +1658,7 @@
       "@id": "C-9653",
       "ref": "C-9653",
       "label": "Clip: Mamdani Was the Only Debate Candidate to Say He Would Not Visit a Foreign Country",
-      "claim": "In the played clip, a speaker says that in the New York City mayoral debate all the candidates were asked which foreign country they would visit and most said Israel, while Mamdani said he would stay in New York.",
+      "claim": "In the played clip, a speaker says that in the New York City mayoral debate all the candidates were asked which foreign country they would visit and, the speaker thinks, most said Israel, while Mamdani said he would stay in New York.",
       "anchored_artifacts": [
         "A-1356.2"
       ],
@@ -1673,9 +1672,7 @@
       "investigative_direction": "Check the debate transcript for the foreign-country question and each candidate's answer.",
       "transcript_snippet": "They were all the candidates were asked, \"If you could visit a foreign country, what would it be?\" And they of course all had an answer. I think most said Israel.",
       "mentions_person_refs": [
-        "N-146",
-        "N-224",
-        "N-22"
+        "N-224"
       ]
     },
     {
@@ -1808,7 +1805,7 @@
       "@id": "C-9659",
       "ref": "C-9659",
       "label": "Host Dates the Boring-Fuentes Conversation to 2024",
-      "claim": "The host refers to the Daily Wire's position 'in 2024' that its CEO could talk to and praise Nick Fuentes and invite him on the platform; the article read aloud gives only 'March 25th', so this dates the conversation to 2024.",
+      "claim": "The host refers to the Daily Wire's position 'in 2024' that its CEO could talk to and praise Nick Fuentes and invite him on the platform; the article read aloud gives only 'March 25th'.",
       "anchored_artifacts": [
         "A-1358.1",
         "A-1359.1"
@@ -1848,8 +1845,7 @@
       "transcript_snippet": "I don't like that guys like Shapiro cannot will not say Christ is king. America first. I think they forfeit their ability to lead.",
       "mentions_person_refs": [
         "N-202",
-        "N-97",
-        "N-367"
+        "N-97"
       ]
     },
     {
@@ -2050,8 +2046,7 @@
       "transcript_snippet": "He started asking questions about Israel and he got artificially pushed out of the market when he had his whole life ahead of him.",
       "mentions_person_refs": [
         "N-202",
-        "N-367",
-        "N-97"
+        "N-367"
       ]
     },
     {
@@ -2165,7 +2160,8 @@
         "C-1643"
       ],
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-236"
       ]
     },
     {
@@ -2332,8 +2328,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-1",
-        "N-235"
+        "N-1"
       ]
     },
     {
@@ -2363,8 +2358,8 @@
       "@type": "Claim",
       "@id": "C-9683",
       "ref": "C-9683",
-      "label": "Clip: Reeve Asks Whether 'They' Means Jews",
-      "claim": "In the played CNN clip, Elle Reeve asks the host whether her use of the word 'they' means Jews, and the host replies that if she is not talking about Jews then 'they' does not mean Jews.",
+      "label": "Clip: Reeve Says 'They' Sounds Like Jews",
+      "claim": "In the played CNN clip, Elle Reeve tells the host that her use of the word 'they' sounds like she is saying Jews, and the host replies that if she is not talking about Jews then 'they' does not mean Jews.",
       "anchored_artifacts": [
         "A-3025.1"
       ],
@@ -2401,8 +2396,7 @@
       "investigative_direction": "Compare with the host's other statements on media ownership and the full CNN transcript.",
       "transcript_snippet": "When I say Zionists run the media, I mean Zionists run the media. People that support the political ideology of Israel run the media.",
       "mentions_person_refs": [
-        "N-3",
-        "N-235"
+        "N-3"
       ]
     },
     {
@@ -2443,8 +2437,7 @@
       "investigative_direction": "Identify the televised remark the student refers to and its date.",
       "transcript_snippet": "Your father's frustrations with the Netanyahu have been made clear when he cursed on national TV over the situation.",
       "mentions_person_refs": [
-        "N-34",
-        "N-375",
+        "N-5",
         "N-36"
       ]
     },
@@ -2465,11 +2458,7 @@
       ],
       "claim_timestamp": "00:40:03",
       "investigative_direction": "The attack on the USS Liberty is generally dated to 1967; record the student's date as said and verify against the historical record.",
-      "transcript_snippet": "Israel has not been a great ally to the US all the way since 1960 when they bombed the USS Liberty.",
-      "mentions_person_refs": [
-        "N-34",
-        "N-375"
-      ]
+      "transcript_snippet": "Israel has not been a great ally to the US all the way since 1960 when they bombed the USS Liberty."
     },
     {
       "@type": "Claim",
@@ -2489,7 +2478,7 @@
       "transcript_snippet": "There's no question my my father's had frustration. In fact, I think he says frustration throughout the whole conflict with with both sides.",
       "mentions_person_refs": [
         "N-34",
-        "N-375"
+        "N-5"
       ]
     },
     {
@@ -2510,7 +2499,7 @@
       "transcript_snippet": "whether we're talking about a 40-year war like Armenia and Azeraijan, as Eric just pointed out, a five-day war in Thailand and Cambodia.",
       "mentions_person_refs": [
         "N-375",
-        "N-34"
+        "N-5"
       ]
     },
     {
@@ -2551,8 +2540,7 @@
       "investigative_direction": "Identify specific campus arrests or state anti-semitism laws the host may be referring to.",
       "transcript_snippet": "we get to get lectured and told that we're not even allowed to bring up Israel on college campuses or risk being like um arrested getting stricter on anti-semitism laws.",
       "mentions_person_refs": [
-        "N-34",
-        "N-375"
+        "N-3"
       ]
     },
     {
@@ -2617,7 +2605,6 @@
       "investigative_direction": "Find the dated Israeli official statements after September 10, 2025 denying involvement and compare timing with other governments' statements.",
       "transcript_snippet": "We didn't do it immediately. It wasn't us. Oh, that's kind of weird. That's kind of weird that you're just jumping up and saying that it wasn't you.",
       "mentions_person_refs": [
-        "N-1",
         "N-3"
       ]
     },

@@ -1225,7 +1225,7 @@ Claim: The host says she received the first cease and desist letter from Brigitt
 Transcript Snippet: Suddenly on December 3rd before I interview him, I receive the first ever cease and desist letter from Brigitte Macron and her lawyers.
 
 Anchored Artifacts: A-2724.1
-Mentions: N-3, N-82, N-378, N-284
+Mentions: N-3, N-82
 Related Nodes: N-11011
 Investigative Direction: Obtain the December 3, 2024 letter with email headers and the inbox log showing the address used.
 
@@ -1691,7 +1691,7 @@ Investigative Direction: Check the court record on the Epstein passport found in
 
 Claim Timestamp: 00:23:28
 
-Claim: The host says her Becoming Brigitte season 2 started on September 8, 2025, and that Emmanuel Macron mentioned MK Ultra to her 18 times in the lawsuit, which struck her as odd.
+Claim: The host says her Becoming Brigitte season 2 started on September 8, 2025, and that Brigitte and Emmanuel Macron mentioned MK Ultra to her 18 times in the lawsuit, which struck her as odd.
 
 Transcript Snippet: Emanuel mentioning MK Ultra in the lawsuit to us 18 times struck us as odd
 
@@ -1898,16 +1898,16 @@ Investigative Direction: Identify the affected security staff and obtain employm
 
 ---
 
-**C-5033** Host Says the Sorenson Center Is the Building in Front of the Lucy Center
+**C-5033** Harpole Says the Sorenson Center Is the Building in Front of the Lucy Center
 
-Claim Timestamp: 00:34:36
+Claim Timestamp: 00:34:54
 
-Claim: The host says the Sorenson Center was the building in front of the Lucy Center.
+Claim: In a clip the host plays, Brian Harpole says the Sorenson Center was the building in front of the Lucy Center.
 
 Transcript Snippet: the Sorenson Center was the building in front of the Lucy Center.
 
 Anchored Artifacts: A-1448.1
-Mentions: 
+Mentions: N-267
 Related Nodes: N-10028
 Supports: C-1763
 Investigative Direction: Check a UVU campus map for the position of the Sorenson Center relative to the Losee Center; the transcript spells the second building Lucy.
@@ -2159,7 +2159,7 @@ Investigative Direction: Check whether Robinson visited the campus before Septem
 
 Claim Timestamp: 00:44:21
 
-Claim: The host summarizes the official account as Robinson retreating to a Dairy Queen where he texted every minute of what he did to his partner, and texting more the next day about his dad even though he was home with her.
+Claim: The host summarizes the official account as Robinson retreating to a Dairy Queen where he texted every minute of what he did to his partner, and texting more the next day about his dad even though he was home with that partner.
 
 Transcript Snippet: He then makes a hasty retreat into a Dairy Queen where he texts every minute of what he did to his lover.
 

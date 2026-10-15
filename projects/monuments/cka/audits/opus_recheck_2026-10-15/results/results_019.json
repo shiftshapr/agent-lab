@@ -1,0 +1,768 @@
+[
+ {
+  "claim": "C-9303",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9304",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9305",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9306",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9307",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9308",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9309",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9310",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9311",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9312",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9313",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9314",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9315",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9316",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9317",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9318",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9319",
+  "episode": 12,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "The keyholing/pinball explanation follows Marzi's comment and the host ends 'Very interesting', so it reads as the viewer's correction being read (as the label says), not the host's own explanation.",
+  "fix": {
+   "claim": "A viewer comment the host reads, from Marzi, says the viewer had confused keyholing and internal bullet bouncing, and that keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage; the host calls this very interesting."
+  }
+ },
+ {
+  "claim": "C-9320",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9321",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9322",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9323",
+  "episode": 12,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1337",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript says 'footage that was captured by the houses nearby the area'; 'doorbell-camera' in the title is not said here.",
+  "fix": {
+   "label": "Host Says Woman Was Seen With Shooter in Footage From Nearby Houses"
+  }
+ },
+ {
+  "claim": "C-1338",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1339",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1340",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim spells the name 'Shaner Broadick' (caption error); canonical N-132 is Shaner Broderick.",
+  "fix": {
+   "claim": "In footage recorded by Shaner Broderick, his aunt (identified as a Lyman family member) states on camera that she wondered if \"the girl\" had given the shooter items and that there might have been an accomplice."
+  }
+ },
+ {
+  "claim": "C-1341",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says Patel 'installs a person that has a long tenure in DC, Robert Bohls'; the title 'FBI SAC' is not said in the window.",
+  "fix": {
+   "claim": "The host says multiple senior officials involved in the case were recent appointments at the time of the event: Robert Bohls (installed by Kash Patel after a long DC tenure), hospital CEO and lead surgeon Andrew Zenger, Judge Tony F. Graf Jr. (fourth district court, appointed May 2025 by Governor Cox), and a new (unnamed) coroner."
+  }
+ },
+ {
+  "claim": "C-1342",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1343",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1344",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Captions say 'Deborah Lee'; the influencer who asked Netanyahu about Kirk (her 'first mentor') at the NY consulate meeting is Debra Lea (JPost).",
+  "fix": {
+   "claim": "The host says Benjamin Netanyahu conducted an on-camera meeting with US influencers including Debra Lea to discuss shaping US opinion, and plays a clip in which Lea asks him about Charlie Kirk's assassination and the potential loss of evangelical support for Israel.",
+   "label": "Host Says Netanyahu Met on Camera With US Social-Media Influencer Debra Lea",
+   "names": [
+    {
+     "wrong": "Deborah Lee",
+     "right": "Debra Lea",
+     "source": "https://www.jpost.com/israel-news/article-868763"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1345",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1346",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "It is a clip the host plays; Netanyahu says 'we have to fight with the weapons that apply to the battlefields... the most important ones are the social media' - title quote is not verbatim.",
+  "fix": {
+   "claim": "In a clip of the influencer meeting the host plays, Netanyahu says, in essence, that the means of fighting must match the battlefield and identifies social media as the most important battlefield of the present moment.",
+   "label": "Netanyahu Calls Social Media the Most Important Battlefield in Clip Host Plays"
+  }
+ },
+ {
+  "claim": "C-1347",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The post is shown and read by the host ('We can pull this up. He writes...'); claim should be framed as the post the host shows.",
+  "fix": {
+   "claim": "Per the X post the host shows, an account identifying as \"Florida Dab\" told Megyn Kelly she must separate from Candace Owens, or \"many of us\" would separate from Kelly."
+  }
+ },
+ {
+  "claim": "C-1348",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Kelly's reply ('She replies... I have no obligation') is read at about 35:22 in the 35:01 block, ~29s before the 35:51 timestamp.",
+  "fix": {
+   "timestamp": "00:35:17"
+  }
+ },
+ {
+  "claim": "C-1349",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The host reads Kisin's post on air ('Konstantin Kisin then jumps in and says...'); claim should be framed as the post the host shows.",
+  "fix": {
+   "claim": "Per the X post the host reads, Konstantin Kisin wrote to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as \"extreme and so deranged\" and questioning why Kelly was not confronting them."
+  }
+ },
+ {
+  "claim": "C-1350",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Captions give 'Erika/Erikica Mindle'; TikTok's Public Policy Manager of Hate Speech since July 2025, a former IDF soldier, is Erica Mindel (Wikipedia; 5Pillars).",
+  "fix": {
+   "claim": "A note from the host's producer, which she reads on air, says that Erica Mindel is a former IDF soldier and TikTok's Public Policy Manager of Hate Speech since July 2025.",
+   "names": [
+    {
+     "wrong": "Erika Mindle",
+     "right": "Erica Mindel",
+     "source": "https://en.wikipedia.org/wiki/Erica_Mindel"
+    },
+    {
+     "wrong": "Erikica Mindle",
+     "right": "Erica Mindel",
+     "source": "https://5pillarsuk.com/2025/08/02/tiktok-hires-former-idf-soldier-to-clamp-down-on-antisemitic-hate-speech/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1351",
+  "episode": 13,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Marzy writes this just in. The FBI just cut ties with the ADL...' is the comment; 'I hope you guys know that they share a building, I think, in Connecticut' is the host's own addition, not the commenter's.",
+  "fix": {
+   "claim": "A viewer comment the host reads, from Marzy, says the FBI just cut ties with the ADL after Turning Point USA criticism; the host adds that the FBI and ADL share a building, she thinks in Connecticut.",
+   "label": "Viewer Comment Says FBI Cut Ties With ADL; Host Says the Two Share a Building"
+  }
+ },
+ {
+  "claim": "C-1352",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1353",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3754",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10771",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10772",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10773",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10774",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10775",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10776",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10777",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10778",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10779",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10780",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10781",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10782",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10783",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Name is Kayleigh McEnany (N-129), misspelled 'Kaylee'. Host hedges: 'Maybe maybe the feds gave it... That's the only two options.'",
+  "fix": {
+   "claim": "The host says Phil Lyman said on a Fox News segment with Kayleigh McEnany that he was at a cousin's house watching live and seeing the footage for the first time, while the cousin had already given footage to TMZ, though she adds that maybe the feds gave it."
+  }
+ },
+ {
+  "claim": "C-10784",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10785",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10786",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10787",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10788",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10789",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Robbie Hild",
+  "fix": {}
+ },
+ {
+  "claim": "C-10790",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10791",
+  "episode": 13,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

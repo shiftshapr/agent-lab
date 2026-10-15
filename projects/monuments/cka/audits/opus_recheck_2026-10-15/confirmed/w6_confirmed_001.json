@@ -1,0 +1,431 @@
+[
+ {
+  "claim": "C-2034",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names only the Unification Church; Moon not named or referred to."
+ },
+ {
+  "claim": "C-2035",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim names UCI, Zillioux, FEER; Moon not referred to."
+ },
+ {
+  "claim": "C-2036",
+  "episode": 54,
+  "decision": "reject",
+  "fix": {},
+  "note": "Label calls the coalition \"Moon-affiliated\", so Moon is named in the claim record; keep N-400."
+ },
+ {
+  "claim": "C-2037",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim concerns church wealth from Japan; Moon not referred to."
+ },
+ {
+  "claim": "C-2043",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:28:57"
+  },
+  "note": "Coercion line spoken ~29:00 in 28:45 block."
+ },
+ {
+  "claim": "C-2045",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-402"
+   ]
+  },
+  "note": "Claim names only Carey Hezekiah; Falwell Sr. not referred to."
+ },
+ {
+  "claim": "C-8126",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267"
+   ]
+  },
+  "note": "Claim names Harpole and the clip only; Shawn Ryan not referred to."
+ },
+ {
+  "claim": "C-8127",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-3"
+   ]
+  },
+  "note": "\"Elsewhere in the interview\" refers to the interview, not Shawn Ryan; removing N-225 is right."
+ },
+ {
+  "claim": "C-8147",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-690"
+   ]
+  },
+  "note": "Claim names Romanian Angels and Busher; Erika not referred to."
+ },
+ {
+  "claim": "C-8232",
+  "episode": 54,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-17",
+    "N-191"
+   ]
+  },
+  "note": "\"The McCoys\" pushing Charlie = Rob and Mikey McCoy, the McCoys in this episode."
+ },
+ {
+  "claim": "C-2047",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "label": "Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Said She Believed Andrew Knew More Than Publicly Stated",
+   "claim": "The host presented a text message she sent to Andrew Kolvet describing a vivid dream in which Charlie Kirk told her he was betrayed and that \"they\" were hiding what happened \"to my left,\" and in which she wrote that she believed Kolvet \"know[s] much more than you've said publicly or privately.\""
+  },
+  "note": "\"I believe that you know much more\" is the host's own line to Kolvet, not Charlie's in the dream."
+ },
+ {
+  "claim": "C-2062",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:48:51"
+  },
+  "note": "Natty Nicole comment starts at 48:56; 47:35 block is a different comment."
+ },
+ {
+  "claim": "C-2073",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host stated that someone was plotting her murder on September 10, \"a year from the date that Charlie was murdered,\" that the plot was discovered, and that the matter is still making its way through the courts."
+  },
+  "note": "Host says \"a year from the date that Charlie was murdered on September 10th\"; fix quotes it rather than inferring."
+ },
+ {
+  "claim": "C-14108",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim concerns Kirk and TPUSA Faith; Moon not referred to."
+ },
+ {
+  "claim": "C-14139",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-438",
+    "N-439",
+    "N-14"
+   ]
+  },
+  "note": "Claim names Moore, Godwin, Kolvet; Moon not referred to."
+ },
+ {
+  "claim": "C-14144",
+  "episode": 55,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim refers to TPUSA Faith only; Charlie not referred to."
+ },
+ {
+  "claim": "C-2082",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:21:13"
+  },
+  "note": "Mind War line ~21:18 by char position in 20:42 block."
+ },
+ {
+  "claim": "C-2087",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:33:27"
+  },
+  "note": "Article and 12 lawsuits read near end of 32:12-34:03 block (~33:32)."
+ },
+ {
+  "claim": "C-2089",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:34:28"
+  },
+  "note": "23 residents line mid 34:03 block (~34:33)."
+ },
+ {
+  "claim": "C-2091",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that on June 19 Erika Kirk deleted 126 Instagram posts, according to Social Blade."
+  },
+  "note": "Host reports Social Blade data; claim stated it as fact."
+ },
+ {
+  "claim": "C-2092",
+  "episode": 56,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:08:23"
+  },
+  "note": "DUI/drunk girlfriend line at start of 08:20 block."
+ },
+ {
+  "claim": "C-2109",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:07:34"
+  },
+  "note": "\"corporate espionage\" est. 07:34 by char position in 05:24 block."
+ },
+ {
+  "claim": "C-2110",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:07:10"
+  },
+  "note": "\"Evelyn Mathis\" est. 07:12 in 05:24 block."
+ },
+ {
+  "claim": "C-2111",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that, by her count, three people now say Erika was at Fort Huachuca: after Charlie's assassination a woman currently stationed there posted, then deleted, that she saw Erika there the day before (September 9); a friend formerly stationed there confirmed the post was real; and, per that friend, someone in a chat among personnel stationed there said they too had seen Erika at the base and that there was an order to lower drones that day. The host says she confirmed the friend and the two individuals are real."
+  },
+  "note": "Fix matches the chain of custody the host describes (poster, friend formerly stationed, chat claim)."
+ },
+ {
+  "claim": "C-2113",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Turning Point USA executive Justin Streiff replied to her that Erika never lived in China, and that Erika said she only went there on a trip for a couple of weeks to see the Great Wall of China.",
+   "timestamp": "00:18:15"
+  },
+  "note": "\"And he replied\" est. 18:23 in 16:13 block; host relays Streiff's reply."
+ },
+ {
+  "claim": "C-3742",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Justin Streiff Told Her Erika Never Lived in China",
+   "claim": "The host says Turning Point USA executive Justin Streiff (N-15) replied to her that Erika never lived in China, and that Erika said she only went there on a trip for a couple of weeks to see the Great Wall of China."
+  },
+  "note": "Self-comparison after name fix is meaningless; reply is host's report."
+ },
+ {
+  "claim": "C-2119",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a follow-up clip aired on the episode, Nick Fuentes stated the Epstein story is \"not satanic pedophilia cult stuff\" but \"run-of-the-mill prostitution and sex trafficking but for an international political purpose\" and said \"this is not Dateline. This is not a human interest story\" but \"a layered crime.\"",
+   "label": "Nick Fuentes Reframed the Epstein Issue as Blackmail for Israel Rather Than Pedophilia"
+  },
+  "note": "Fuentes says \"this is not Dateline\"; original inverted it. Label matches \"blackmail to sell to Israel\"."
+ },
+ {
+  "claim": "C-9843",
+  "episode": 58,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:06:00"
+  },
+  "note": "Chantel Thuy line est. 06:06."
+ },
+ {
+  "claim": "C-2140",
+  "episode": 59,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:20:50",
+   "claim": "In a clip the host plays, Zack Gregorio of Wolves and Finance says he received a letter from Turning Point USA titled \"Demand to cease and desist defamatory comments\" and reads from it."
+  },
+  "note": "Gregorio reads letter title in clip ~20:55; letter described in clip."
+ },
+ {
+  "claim": "C-2147",
+  "episode": 59,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that at the Charlie Kirk Day event they invited Kash Patel, and that Dan Flood was there too, still providing security, which she thought was weird.",
+   "label": "Host Says Dan Flood Was Still Providing Security at Charlie Kirk Day Event Where Kash Patel Was Invited"
+  },
+  "note": "Comment ends at \"harassed Charlie\"; the Kash Patel/Dan Flood lines are the host's."
+ },
+ {
+  "claim": "C-14178",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host, paraphrasing the emailer, says he told her she was obsessed with Fort Huachuca and thought Charlie had been tracked for a while, that she had not figured out who Dan Flood is, that \"Dan Flood is connected to both,\" and that nobody had worked out who Flood's father is.",
+   "label": "Host Says Emailer Said Dan Flood Is \"Connected to Both\" and Pointed to Flood's Father"
+  },
+  "note": "\"Both\" is ambiguous (Fort Huachuca/tracking vs Cattleman's Ball); quote it rather than resolve it either way."
+ },
+ {
+  "claim": "C-14209",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Paramount Tactical's Gary says his drone pilot had already made all the necessary steps with the FAA to be able to fly the drone for the survey.",
+   "label": "Paramount Tactical's Gary Says His Drone Pilot Had Completed the FAA Steps",
+   "mentions": [
+    "N-617"
+   ]
+  },
+  "note": "Speaker is Paramount Tactical's Gary (Kolvet says \"our events team\" after >>); add Gary Melton N-617."
+ },
+ {
+  "claim": "C-14210",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Paramount Tactical's Gary says that at UVU law enforcement came up and demanded he take the drone down, that he told the officer they did not control the airspace, and that they ended up grounding it.",
+   "label": "Paramount Tactical's Gary Says Law Enforcement Made Him Ground the Drone at UVU",
+   "mentions": [
+    "N-617"
+   ]
+  },
+  "note": "Speaker is Paramount Tactical's Gary, not Kolvet; add Gary Melton N-617 to Mentions."
+ },
+ {
+  "claim": "C-14211",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Paramount Tactical's Gary says that after being grounded they left campus, flew the drone off campus and got the survey, and that this reinforced Harpole's statement that they could not get permission to get a drone up.",
+   "label": "Paramount Tactical's Gary Says the Team Left Campus, Flew the Drone and Got the Survey",
+   "mentions": [
+    "N-617",
+    "N-267"
+   ]
+  },
+  "note": "Speaker is Paramount Tactical's Gary; add Gary Melton N-617 alongside Harpole."
+ },
+ {
+  "claim": "C-14212",
+  "episode": 59,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays, Paramount Tactical's Gary says the picture circulated as proof of drone footage is a wide-angle shot of the crowd from the second floor, and Andrew Kolvet adds it was taken from an elevated walkway or bridge.",
+   "label": "Paramount Tactical's Gary and Kolvet Say the Circulated Picture Is a Wide-Angle Shot From a Walkway",
+   "mentions": [
+    "N-617",
+    "N-14"
+   ]
+  },
+  "note": "Gary and Kolvet both speak; Mentions should list Gary Melton N-617 and Kolvet N-14."
+ },
+ {
+  "claim": "C-2156",
+  "episode": 60,
+  "decision": "amend",
+  "fix": {
+   "claim": "Baron Coleman says, and the host agrees, that Trump's Greenland push is not consistent with America-first policy and appears driven by a donor or supporter's financial interest rather than national interest.",
+   "mentions": [
+    "N-3",
+    "N-331",
+    "N-480",
+    "N-5"
+   ]
+  },
+  "note": "Donor line is Coleman's, host agrees; claim names Trump, so add N-5."
+ },
+ {
+  "claim": "C-5495",
+  "episode": 60,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Flood's Protectee Warned Him Someone Would Kill Him",
+   "claim": "The host says that Dan Flood's protectee told him within a few days that someone was probably going to kill him and then died, which she calls, in her opinion, prime evidence Flood failed at his job.",
+   "mentions": [
+    "N-3",
+    "N-271",
+    "N-1"
+   ]
+  },
+  "note": "Host turn continues from her Flood tip; Coleman only asks about Harpole; host reveals parents in Ep 62."
+ },
+ {
+  "claim": "C-5496",
+  "episode": 60,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her Turning Point insider told her that before Charlie Kirk died there was a back and forth between Kirk and Dan Flood in which Kirk was going to demote Flood.",
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-271"
+   ]
+  },
+  "note": "Host's Turning Point insider; same turn."
+ },
+ {
+  "claim": "C-5497",
+  "episode": 60,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Dan Flood was protecting Erika Kirk at the White House when the Charlie Kirk Day was held, after Erika became CEO without removing him from the security team.",
+   "mentions": [
+    "N-3",
+    "N-271",
+    "N-2"
+   ]
+  },
+  "note": "Host's turn ending \"What's that about?\"; Coleman then asks about Harpole."
+ },
+ {
+  "claim": "C-5498",
+  "episode": 60,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she will reveal the next day that Erika Kirk's parents worked with somebody who was accused of something to do with children.",
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  },
+  "note": "Host answers Coleman at 07:14; Ep 62 confirms host made the parents reveal."
+ }
+]

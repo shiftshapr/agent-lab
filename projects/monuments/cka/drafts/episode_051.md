@@ -29,9 +29,9 @@
 
 Episode 51, the 2026 season opener of the Bride of Charlie series (Candace Ep 284, uploaded 2026-01-05), functions as a status update and escalation. The host recaps three off-air developments: (1) the public reaction to AmFest including a tent recreation of the site where Charlie Kirk was killed; (2) the Daily Wire's re-release of her old 2021 joining trailer on her social channels; and (3) the Fort Huachuca/Mitch Snow saga, where coordinated efforts to discredit the witness are alleged.
 
-The evidentiary material consists of nine distinct clip families: three Tim Dillon comedy segments, a CBS reporter description of the AmFest tent recreation, the Bari Weiss / Hunter Kozak CBS moment, an October 2024 Charlie Kirk interview with Justice Smith on MK Ultra, an Alex Jones InfoWars declaration of war against Candace, a Paramount Tactical Valhalla livestream that accidentally exposes instructions from Andrew Kolbet, an interview with Mitch Snow's son that inadvertently confirms Fort Huachuca access protocols, and a 2021 Daily Wire trailer re-released on Candace's social channels. Two top fan comments from the prior episode are read aloud as supporting artifacts.
+The evidentiary material consists of nine distinct clip families: three Tim Dillon comedy segments, a CBS reporter description of the AmFest tent recreation, the Bari Weiss / Hunter Kozak CBS moment, an October 2024 Charlie Kirk interview with Justice Smith on MK Ultra, an Alex Jones InfoWars declaration of war against Candace, a Paramount Tactical Valhalla livestream that accidentally exposes instructions from Andrew Kolvet, an interview with Mitch Snow's son that inadvertently confirms Fort Huachuca access protocols, and a 2021 Daily Wire trailer re-released on Candace's social channels. Two top fan comments from the prior episode are read aloud as supporting artifacts.
 
-Structurally, the episode advances several investigative threads: the approval chain for the AmFest tent recreation; the alleged coordination by Andrew Kolbet with attackers of Mitch Snow; Erica Kirk's alleged presence at Fort Huachuca on September 8; and the host's declaration that she will "sentence" Andrew Kolbet "to truth." Future episodes are teased to address Cabot Phillips, Mark Amodei, and Brian Harpole.
+Structurally, the episode advances several investigative threads: the approval chain for the AmFest tent recreation; the alleged coordination by Andrew Kolvet with attackers of Mitch Snow; Erika Kirk's alleged presence at Fort Huachuca on September 8; and the host's declaration that she will "sentence" Andrew Kolvet "to truth." Future episodes are teased to address Cabot Phillips, Mark Amodei, and Brian Harpole.
 
 ---
 
@@ -83,7 +83,7 @@ Confidence Level: High
 
 **A-1570** Bari Weiss CBS Hunter Kozak Clip
 
-**A-1570.1** Bari Weiss introduces Hunter Kozak to ask Erica Kirk a question on the CBS stage, noting he was "the last person that Charlie ever spoke to"
+**A-1570.1** Bari Weiss introduces Hunter Kozak to ask Erika Kirk a question on the CBS stage, noting he was "the last person that Charlie ever spoke to"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -119,7 +119,7 @@ Confidence Level: High
 
 **A-1573** Paramount Tactical Valhalla Stream Clip
 
-**A-1573.1** Livestream clip in which Paramount Tactical Valhalla host reads written notes from Andrew Kolvet attempting to provide an alibi for Erica Kirk on September 9 and apologizes ("Sorry Andrew, I screwed that up") for sharing content he was instructed not to share
+**A-1573.1** Livestream clip in which Paramount Tactical Valhalla host reads written notes from Andrew Kolvet attempting to provide an alibi for Erika Kirk on September 9 and apologizes ("Sorry Andrew, I screwed that up") for sharing content he was instructed not to share
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -272,7 +272,7 @@ Investigative Pressure: Low
 
 **N-279** Bari Weiss
 
-On-camera CBS interviewer who introduced Hunter Kozak to Erica Kirk at the AmFest / CBS stage event.
+On-camera CBS interviewer who introduced Hunter Kozak to Erika Kirk at the AmFest / CBS stage event.
 
 Evidence Count: 1
 Claim Count: 1
@@ -328,7 +328,7 @@ Military-commentary YouTube channel ("the Valhalla guy"), distinct from Gary Mel
 Node Type: Organization
 Organization Kind: media_outlet
 
-Source of the stream clip in which Andrew Kolbet's instructions were read aloud.
+Source of the stream clip in which Andrew Kolvet's instructions were read aloud.
 
 Evidence Count: 2
 Claim Count: 2
@@ -406,9 +406,9 @@ Investigative Pressure: Medium
 
 *Related: C-1994, A-1570.1, N-327*
 
-**N-10378** Andrew Kolbet Coordination with Attackers of Mitch Snow
+**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
-Persistent target verifying whether Andrew Kolbet coordinated with Alex Jones, Paramount Tactical Valhalla, Ian Carroll, and others to discredit Mitch Snow.
+Persistent target verifying whether Andrew Kolvet coordinated with Alex Jones, Paramount Tactical Valhalla, Ian Carroll, and others to discredit Mitch Snow.
 
 Evidence Count: 1
 Claim Count: 1
@@ -428,9 +428,9 @@ Investigative Pressure: Medium
 
 *Related: C-1999, A-1575.1, N-10900*
 
-**N-10380** Erica Kirk September 8 Alibi
+**N-10380** Erika Kirk September 8 Alibi
 
-Persistent target verifying whether Erica Kirk was at the Fort Huachuca Candlewood Inn on September 8, in light of Andrew Kolbet's written alibi instructions and the phone-call/dinner exchange referenced by host.
+Persistent target verifying whether Erika Kirk was at the Fort Huachuca Candlewood Inn on September 8, in light of Andrew Kolvet's written alibi instructions and the phone-call/dinner exchange referenced by host.
 
 Evidence Count: 1
 Claim Count: 1
@@ -803,7 +803,7 @@ TPUSA's explanation, as the host reports Erika Kirk told her, that Andrew Kolvet
 
 ## 5. Claim Register
 
-**C-1989** Tim Dillon comedy clip characterizes Turning Point USA's AmFest as a "right wing abomination" and "bad reality show"
+**C-1989** Tim Dillon Comedy Clip Calls Turning Point USA's AmFest an "Abomination" and Says the Right Has Become a "Bad Reality Show"
 
 Claim Timestamp: 00:04:47
 
@@ -816,17 +816,17 @@ Related Nodes: N-10376
 
 Investigative Direction: Verify Tim Dillon's segment against the original recording and timestamp the exact quoted phrases.
 
-**C-1990** Tim Dillon clip notes Erica Kirk walking to pyrotechnic display in glittering pantsuit three months after husband's death
+**C-1990** Tim Dillon Clip Notes Erika Kirk Walking to Pyrotechnic Display in Glittering Pantsuit Three Months After Husband's Death
 
 Claim Timestamp: 00:04:47
 
-Claim: In a clip the host plays, comedian Tim Dillon observes that Erica Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and immediately pivoted to discussing the election of J. D. Vance.
+Claim: In a clip the host plays, comedian Tim Dillon observes that Erika Kirk walked out to a pyrotechnic display in a glittering pantsuit three months after Charlie Kirk's killing and immediately pivoted to discussing the election of J. D. Vance.
 
 Anchored Artifacts: A-1568.1
 Mentions: N-2, N-278, N-1
 
 
-Investigative Direction: Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erica Kirk's stage appearance.
+Investigative Direction: Verify the quoted observations against video footage of the AmFest opening and identify the precise sequence of Erika Kirk's stage appearance.
 
 **C-1991** Reporter clip from AmFest describes a recreation of the tent where Charlie Kirk was killed with attendees taking selfies
 
@@ -902,11 +902,11 @@ Mentions: N-93, N-3, N-362
 
 Investigative Direction: Identify the original InfoWars episode date and timestamp; verify the exact wording and the broader context of Jones's statement.
 
-**C-1997** Paramount Tactical Valhalla stream clip shows host reading Andrew Kolvet's instructions providing Erica Kirk's September 9 alibi
+**C-1997** Paramount Tactical Valhalla Stream Clip Shows Host Reading Andrew Kolvet's Instructions Providing Erika Kirk's September 9 Alibi
 
 Claim Timestamp: 00:48:18
 
-Claim: A Paramount Tactical Valhalla livestream segment played on air shows the host reading written instructions from Andrew Kolvet providing an alibi for Erica Kirk on the morning of September 9, then saying "Sorry Andrew, I screwed that up" after sharing content he was told not to share.
+Claim: A Paramount Tactical Valhalla livestream segment played on air shows the host reading written instructions from Andrew Kolvet providing an alibi for Erika Kirk on the morning of September 9, then saying "Sorry Andrew, I screwed that up" after sharing content he was told not to share.
 
 Anchored Artifacts: A-1573.1
 Mentions: N-2, N-14
@@ -932,7 +932,7 @@ Investigative Direction: Identify the interviewer and platform; obtain the unedi
 
 Claim Timestamp: 00:30:51
 
-Claim: The Daily Wire reactivated Candace Owens' previously privatized YouTube channel and her old Instagram account, and premiered her 2021 joining trailer (with a front card noting the footage was shot in 2021) on those channels.
+Claim: The host says people messaged her that The Daily Wire had brought back her old YouTube channel, which she says it had apparently privatized, and her old Instagram account, and premiered her trailer from when she joined The Daily Wire (with a front card saying it was shot in 2021) on those channels.
 
 Anchored Artifacts: A-1575.1
 Mentions: N-3
@@ -943,7 +943,7 @@ Investigative Direction: Confirm via YouTube and Instagram audit logs that the r
 
 **C-2000** Edison comment characterizes AmFest as "fake and gay" celebration of Charlie Kirk's death
 
-Claim Timestamp: 01:07:04
+Claim Timestamp: 01:06:25
 
 Claim: A top fan comment from the prior episode, read aloud on air, characterizes AmFest as a "fake and gay" event featuring a tent recreation and fireworks that read as "a celebration of his death" that "skipped the grieving part."
 
@@ -971,14 +971,14 @@ Investigative Direction: Verify the comment against the original thread and cons
 
 Claim Timestamp: 00:49:10
 
-Claim: The host asserts on air that the Paramount Tactical Valhalla stream's accidental exposure of Andrew Kolvet's written instructions confirms coordination between Andrew Kolbet and the parties attacking Mitch Snow, undermining the prior "Andrew went rogue" narrative.
+Claim: The host asserts on air that the Paramount Tactical Valhalla stream's accidental exposure of Andrew Kolvet's written instructions confirms coordination between Andrew Kolvet and the parties attacking Mitch Snow, undermining the prior "Andrew went rogue" narrative.
 
 Anchored Artifacts: A-1573.1
 Mentions: N-14, N-362
 
 Related Nodes: N-10378, N-10899
 
-Investigative Direction: Obtain additional communication between Andrew Kolbet and the involved accounts; verify whether the "rogue" narrative was authorized at higher TPUSA levels.
+Investigative Direction: Obtain additional communication between Andrew Kolvet and the involved accounts; verify whether the "rogue" narrative was authorized at higher TPUSA levels.
 
 ---
 
@@ -1439,11 +1439,11 @@ Investigative Direction: Identify the stream and the son and obtain the unedited
 
 ---
 
-**C-6770** Son in Clip Says Mitch Could Be Detained With Canines Called If He Entered JTF Staff Duty, per the Report
+**C-6770** Speaker in Son Clip Says Mitch Could Be Detained With Canines Called If He Entered JTF Staff Duty, per the Report
 
 Claim Timestamp: 00:46:25
 
-Claim: In the clip, the speaker says Mitch lacks a secret clearance and that if he walked into the joint task force staff duty he might end up detained with canines called on him as per the report, adding he does not know whether the report is real.
+Claim: In the clip, the son says Mitch lacks a secret security clearance, and another speaker then says that if Mitch walked into the joint task force staff duty he might end up detained with canines called on him as per the report, adding he does not know whether the report is real.
 
 Transcript Snippet: Or if he does walk into the joint task force staff duty, he might end up detained and outside getting the canines called on him as per this report, which again, I don't even know if this report is real or not.
 
@@ -1497,7 +1497,7 @@ Claim: In the stream clip, the host of the stream reads notes saying the interne
 Transcript Snippet: The internet's gone saying she woke up next to Charlie on the ninth. Went to the office with Charlie all day. Woke him up from a nap before Fox hit. Went to dinner with Charlie.
 
 Anchored Artifacts: A-1573.1
-Mentions: N-2, N-1, N-14
+Mentions: N-2, N-1
 Related Nodes: N-10380
 Supports: C-1997
 Tags: relevance:core
@@ -1514,7 +1514,7 @@ Claim: In the stream clip, the stream's host reads that there is proof she was w
 Transcript Snippet: the next one, proof she was with her kids at 8:33 a. m. Pacific time, which again and September Arizona's on specific time Pacific time.
 
 Anchored Artifacts: A-1573.1
-Mentions: N-2, N-14
+Mentions: N-2
 Related Nodes: N-10380
 Supports: C-1997
 Tags: relevance:core

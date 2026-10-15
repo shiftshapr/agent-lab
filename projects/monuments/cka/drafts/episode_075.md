@@ -58,7 +58,7 @@ Video Timestamp: 00:01:25
 Discovery Timestamp: 2026-03-09
 Confidence Level: High
 
-*Related: C-3568, N-1 (Charlie Kirk), N-2 (Erica Kirk), N-22 (Tucker Carlson – reuse if exists, else new)*
+*Related: C-3568, N-1 (Charlie Kirk), N-2 (Erika Kirk), N-22 (Tucker Carlson – reuse if exists, else new)*
 
 ---
 
@@ -71,7 +71,7 @@ Video Timestamp: 00:12:25
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (Wikipedia, paraphrased on-screen)
 
-*Related: C-3569, N-2 (Erica Kirk), N-10001 (host-curated occult reading node – reuse if exists)*
+*Related: C-3569, N-2 (Erika Kirk), N-10001 (host-curated occult reading node – reuse if exists)*
 
 ---
 
@@ -119,7 +119,7 @@ Video Timestamp: 00:19:40
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (clearly attributed; close in time to event)
 
-*Related: C-3573, N-2 (Erica Kirk), N-11 (Tyler Bowyer – reuse if exists)*
+*Related: C-3573, N-2 (Erika Kirk), N-11 (Tyler Bowyer – reuse if exists)*
 
 ---
 
@@ -132,7 +132,7 @@ Video Timestamp: 00:20:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: High (dated)
 
-*Related: C-3574, N-2 (Erica Kirk), N-7 (Frank Turek – reuse if exists)*
+*Related: C-3574, N-2 (Erika Kirk), N-7 (Frank Turek – reuse if exists)*
 
 ---
 
@@ -145,7 +145,7 @@ Video Timestamp: 00:21:50
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (date not given in episode)
 
-*Related: C-3575, N-2 (Erica Kirk), N-191 (Mikey McCoy – reuse if exists)*
+*Related: C-3575, N-2 (Erika Kirk), N-191 (Mikey McCoy – reuse if exists)*
 
 ---
 
@@ -171,7 +171,7 @@ Video Timestamp: 00:26:00
 Discovery Timestamp: 2026-03-09
 Confidence Level: Medium (comedy segment; clearly framed by host as supporting analysis)
 
-*Related: C-3583, N-2 (Erica Kirk), N-278 (Tim Dillon – reuse if exists)*
+*Related: C-3583, N-2 (Erika Kirk), N-278 (Tim Dillon – reuse if exists)*
 
 ---
 
@@ -343,7 +343,7 @@ Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-2444.1, C-3583, N-2 (Erica Kirk)*
+*Related: A-2444.1, C-3583, N-2 (Erika Kirk)*
 
 ---
 
@@ -382,7 +382,7 @@ Claim Count: 3
 Episode Count: 1
 Investigative Pressure: Medium
 
-*Related: A-2440.1, A-2441.1, A-2442.1, C-3573, C-3574, C-3575, N-2 (Erica Kirk)*
+*Related: A-2440.1, A-2441.1, A-2442.1, C-3573, C-3574, C-3575, N-2 (Erika Kirk)*
 
 ---
 
@@ -1582,7 +1582,7 @@ Transcript Snippet: I don't know if you want to take it cuz I don't think you're
 
 Anchored Artifacts: A-2441.1
 
-Mentions: N-7, N-1
+Mentions: N-7, N-1, N-4
 Related Nodes: N-10858
 Tags: relevance:context
 Investigative Direction: Identify the full October 7 program and check the context of Turek's remark about the 2028 ticket.
@@ -2687,5 +2687,5 @@ Confidence: high
 
 **Existing Nodes Reused (illustrative):**
 - N-1 Charlie Kirk
-- N-2 Erica Kirk
+- N-2 Erika Kirk
 - (And any existing nodes for: Tucker Carlson, Donald Trump, Tyler Bowyer, Frank Turek, Mikey McCoy, Miriam Adelson, Marco Rubio, Bibi Netanyahu, Benny Gantz, Karoline Leavitt, Aleister Crowley, Marina Abramović, Elizabeth Lane, Dan Flood, Jesse Watters, Tyler Robinson, Bill Ackman, Randy Fine, Paula White, Norm Finkelstein, Kash Patel, etc. – exact IDs not visible in this analysis window and should be reconciled against the global ledger.)

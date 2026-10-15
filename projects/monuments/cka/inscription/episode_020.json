@@ -2357,7 +2357,7 @@
       "@id": "C-1492",
       "ref": "C-1492",
       "label": "On the evening of April 20, 2018 Charlie framed the moment as \"on the brink of something big\"",
-      "claim": "Charlie's April 20, 2018 evening text states he is running while blasting Kanye West and that \"we're on the brink of something big and like this is our time.\"",
+      "claim": "The host says Charlie's April 20, 2018 evening message said he was on a run blasting Kanye West and that \"we're on the brink of something big and like this is our time.\"",
       "anchored_artifacts": [
         "A-1270.2"
       ],
@@ -2419,6 +2419,8 @@
       "claim_timestamp": "00:04:50",
       "investigative_direction": "Identify and timestamp any other contemporaneous public statements or private messages corroborating the \"energy shift\" framing.",
       "mentions_person_refs": [
+        "N-3",
+        "N-1",
         "N-190"
       ]
     },
@@ -2451,7 +2453,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:07:00–00:09:05",
+      "claim_timestamp": "00:08:40",
       "investigative_direction": "Locate and timestamp original Scott Adams video; verify exact wording against played clip.",
       "mentions_person_refs": [
         "N-188"
@@ -2468,7 +2470,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:14:35–00:17:00",
+      "claim_timestamp": "00:18:00",
       "investigative_direction": "Obtain original full Q&A video, confirm context of the audience question and any prior question framing.",
       "mentions_person_refs": [
         "N-3"
@@ -2505,7 +2507,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:39:46–00:44:30",
+      "claim_timestamp": "00:41:12",
       "investigative_direction": "Obtain the full video clip from which Kolvet's narration derives, and time-stamp Mikey's actions frame-by-frame.",
       "mentions_person_refs": [
         "N-14",
@@ -2517,7 +2519,7 @@
       "@id": "C-1501",
       "ref": "C-1501",
       "label": "Alex Marlow Compares Online Conspiracy Mindset to Addiction",
-      "claim": "In Breitbart audio played on air, Alex Marlow characterizes suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as \"vile\" and likens the mindset fueling such claims to drug or pornography addiction.",
+      "claim": "In a clip the host plays from the Charlie Kirk show, Breitbart News head Alex Marlow characterizes the suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as \"vile\" and likens the mindset fueling such claims to social-media or pornography addiction, saying they get a high off it.",
       "anchored_artifacts": [
         "A-1276.1"
       ],
@@ -2553,7 +2555,7 @@
       "@id": "C-1503",
       "ref": "C-1503",
       "label": "A UVU Hospital internal message restricted access to a Charlie Kirk trauma file to two named individuals",
-      "claim": "Host displays a UVU Hospital internal message dated September 10, 2025 (received per host at 20:08) instructing staff that only \"Deborah\" and \"Jacob Blank\" are allowed to access the trauma-patient chart.",
+      "claim": "Host displays a hospital internal message (received per host at 20:08; she later says she meant Utah Valley Hospital, not UVU) stating that, due to a media event that led to a trauma patient, only \"Deborah\" and the sender, \"Jacob Blank,\" are allowed in the chart.",
       "anchored_artifacts": [
         "A-1278.1"
       ],
@@ -2561,7 +2563,7 @@
         "N-10196"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:30–00:35:00",
+      "claim_timestamp": "00:34:15",
       "investigative_direction": "Obtain independent verification of the message (forensic metadata, screenshots from multiple UVU staff); identify the two named individuals and their institutional roles.",
       "mentions_person_refs": [
         "N-1",
@@ -2573,7 +2575,7 @@
       "@id": "C-1504",
       "ref": "C-1504",
       "label": "A Charlie Kirk medical file existed at Utah Valley Hospital on September 10, 2025",
-      "claim": "Host asserts that tipsters from UVU medical staff have confirmed that Charlie was admitted/entered into UVU's system, and that the internal memo at A-1278.1 corroborates the file's existence there.",
+      "claim": "The host says she received tips that Charlie was at UVU and an email from someone on the UVU medical staff saying they were certain he was there, with his entry in the UVU system and an internal message restricting access to the file (A-1278.1), while saying there could be a logical explanation she has not found; she later corrects UVU to Utah Valley Hospital.",
       "anchored_artifacts": [
         "A-1278.1"
       ],
@@ -2604,6 +2606,7 @@
       "claim_timestamp": "00:23:30–00:24:30",
       "investigative_direction": "Obtain Roy Edgar McCoy's official Navy service record; confirm Webb's claim against public biographical sources.",
       "mentions_person_refs": [
+        "N-1",
         "N-17",
         "N-197",
         "N-199"
@@ -2614,7 +2617,7 @@
       "@id": "C-1506",
       "ref": "C-1506",
       "label": "The McCoy orbit is tied to the NAR-aligned Ziklag donor network",
-      "claim": "George Webb states on air that Rob McCoy was connected to the New Apostolic Reformation (NAR) donor network Ziklag, described as \"$25 million and above\" Christian-right donors.",
+      "claim": "In a clip the host plays, George Webb says Rob McCoy is \"kind of the NAR push for Charlie,\" that Charlie was meeting with NAR, and that NAR were the \"$25 million and above\" Christian-right donors, the organization being Ziklag.",
       "anchored_artifacts": [
         "A-1279.1"
       ],
@@ -2622,9 +2625,10 @@
         "N-10197"
       ],
       "tags": [],
-      "claim_timestamp": "00:23:30–00:24:30",
+      "claim_timestamp": "00:24:50",
       "investigative_direction": "Obtain independent verification of Ziklag's donor list and any documented overlap with TPUSA personnel or events.",
       "mentions_person_refs": [
+        "N-1",
         "N-17",
         "N-199"
       ]
@@ -2640,7 +2644,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:57:30–00:59:30",
+      "claim_timestamp": "00:57:00",
       "investigative_direction": "Obtain the original French reporting, the Bromet statement, and any tax-form documentation referenced; verify the dating of the records.",
       "mentions_person_refs": [
         "N-82"
@@ -2721,7 +2725,7 @@
       "@id": "C-1512",
       "ref": "C-1512",
       "label": "Host Says Dr. Lee Trotter Did Residency at an Air Force Medical Center",
-      "claim": "The host says the doctor who worked on Charlie was Dr. Lee Trotter, who did his residency at Keesler Air Force Base's medical center in Mississippi, and that she thinks he might be in the Air Force and is a pilot, though she cannot confirm it.",
+      "claim": "The host says the doctor who worked on Charlie was Dr. Lee Trotter, who did his residency at Keesler Air Force Base's medical center in Mississippi, that she thinks he might be in the Air Force though she cannot confirm it entirely, and that a person matching him is for a fact a pilot.",
       "anchored_artifacts": [
         "A-1278.1"
       ],
@@ -3592,7 +3596,7 @@
         "N-10000"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:22:14",
       "investigative_direction": "Find video of those conference appearances for the exact phrasing.",
@@ -3637,7 +3641,7 @@
         "N-10197"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:context"
       ],
       "claim_timestamp": "00:23:26",
       "investigative_direction": "Check Turek's public statements about his family's service.",
@@ -3799,8 +3803,8 @@
       "@type": "Claim",
       "@id": "C-12195",
       "ref": "C-12195",
-      "label": "Host Says the Accuser Then Attacked Her and Tucker Carlson",
-      "claim": "The host says the woman who was one of Andrew Tate's accusers then attacked her and Tucker Carlson.",
+      "label": "Host Says the Accuser's Lawyer Then Attacked Her and Tucker Carlson",
+      "claim": "The host says the woman Lila Rose had on her show, a lawyer for one of Andrew Tate's accusers, then attacked her and Tucker Carlson.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3840,7 +3844,7 @@
       "@id": "C-12197",
       "ref": "C-12197",
       "label": "Host Says Everyone, Including MrBeast, Is Attached to \"Raytheon\"",
-      "claim": "The host says that when you look, everyone is somehow attached to what the transcript renders \"Raytheon\", presumably Raytheon, naming MrBeast among them.",
+      "claim": "The host says that when you look, everyone is somehow attached to Raytheon, naming MrBeast among them.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11324"
@@ -3861,7 +3865,7 @@
       "@id": "C-12198",
       "ref": "C-12198",
       "label": "Host Says the Public Was Lied to About the 306",
-      "claim": "The host says that everyone can acknowledge the public was lied to about the .30-06 (the \"306\") account of the shooting.",
+      "claim": "The host says she thinks we can all acknowledge that the public was lied to about the .30-06 (the \"306\").",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10660"
@@ -3988,7 +3992,7 @@
       "@type": "Claim",
       "@id": "C-12204",
       "ref": "C-12204",
-      "label": "Host Says Charlie Told Her in a Dream to Look Into the Medical Examiner",
+      "label": "Host Says Charlie Told Her in a Dream to Look Into the Medical Examiner, Dr. Deirdre Amaro",
       "claim": "The host says that in a dream Charlie told her she should look into the medical examiner, Dr. Weiss Amaro.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -4010,7 +4014,7 @@
       "@type": "Claim",
       "@id": "C-12205",
       "ref": "C-12205",
-      "label": "Host Says Medical Examiner Weiss Amaro Is a Major in the Army",
+      "label": "Host Says Medical Examiner Deirdre Amaro Is a Major in the Army",
       "claim": "The host says the medical examiner, Dr. Deirdre Amaro, is a major in the Army and is also from a major corporation.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -4032,7 +4036,7 @@
       "@type": "Claim",
       "@id": "C-12206",
       "ref": "C-12206",
-      "label": "Host Says Weiss Amaro Is From the Ericson Family and Claims Descent From Leif Erikson",
+      "label": "Host Says Deirdre Amaro Is From the Ericson Family and Claims Descent From Leif Erikson",
       "claim": "The host says the medical examiner is from the Ericson family, the Ericson Boyd Corporation is her family, and she tells people she is a direct descendant of Leif Erikson.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -4052,7 +4056,7 @@
       "@id": "C-12207",
       "ref": "C-12207",
       "label": "Host Says the Military-Industrial Complex Shot JFK to Maintain Power",
-      "claim": "The host says that the military-industrial complex that Eisenhower warned of shot JFK to maintain power and has created a veneer of reality for the public.",
+      "claim": "The host says she thinks the military-industrial complex that Eisenhower warned of shot JFK to maintain power and has created a veneer of reality for the public.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10197"
@@ -4450,8 +4454,8 @@
       "@type": "Claim",
       "@id": "C-12225",
       "ref": "C-12225",
-      "label": "Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sarah Schmackenberger",
-      "claim": "The host says that before Mikey McCoy did the behind-the-scenes video role, it was done by a person she names Sarah Schmackenberger (spelling as transcribed).",
+      "label": "Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sara Schmachtenberger",
+      "claim": "The host says that before Mikey McCoy did the behind-the-scenes video role, it was done by Sara Schmachtenberger.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -4459,7 +4463,7 @@
       ],
       "claim_timestamp": "00:42:56",
       "investigative_direction": "Confirm the person's name and role with TPUSA staff listings.",
-      "transcript_snippet": "Before Mikey McCoy did this, it was Sarah&nbsp;&nbsp; Schmackenberger.",
+      "transcript_snippet": "Before Mikey McCoy did this, it was Sarah&nbsp;&nbsp; Schmachtenberger.",
       "mentions_person_refs": [
         "N-3",
         "N-191"

@@ -922,7 +922,7 @@ Existing topic reused for new claims in this episode.
 
 Claim Timestamp: 00:30:50
 
-Claim: Dave Rubin posted on X that Candace Owens, during a dinner at his home, said she hated Charlie Kirk and ranted about Jared and Ivanka.
+Claim: The host says Dave Rubin posted on X that Candace Owens, during a dinner at his home, said she hated Charlie Kirk and ranted about Jared and Ivanka.
 
 Anchored Artifacts: A-1654.1
 Mentions: N-1, N-32, N-3
@@ -974,7 +974,7 @@ Investigative Direction: Locate the full unedited interview; verify the date and
 
 ---
 
-**C-2153** Host Concurs With Griggs Assessment of Top-Level Military Corruption
+**C-2153** Host Says Griggs's Account of the Military Makes Sense to Her
 
 Claim Timestamp: 00:22:03
 
@@ -1021,10 +1021,10 @@ Investigative Direction: Retrieve the full Jerusalem Post article; identify the 
 
 Claim Timestamp: 00:41:54
 
-Claim: Host and guest concur that Trump's Greenland push is not consistent with America-first policy and is being driven by a donor or supporter's financial interest rather than national interest.
+Claim: Baron Coleman says, and the host agrees, that Trump's Greenland push is not consistent with America-first policy and appears driven by a donor or supporter's financial interest rather than national interest.
 
 Anchored Artifacts: A-1660.1
-Mentions: N-480
+Mentions: N-3, N-331, N-480, N-5
 
 
 Investigative Direction: Document host stance claim against A-1660.1; investigate reported financial interests of Lauder or associated parties in Greenland.
@@ -1074,7 +1074,7 @@ Investigative Direction: Obtain TPUSA headcount and separation records or named 
 
 ---
 
-**C-5486** Host Says Staffer Fired After Kolvet Saw Her Timeline Screenshots
+**C-5486** Host Says Kolvet Saw Timeline Screenshots on a Staffer's Laptop
 
 Claim Timestamp: 00:01:39
 
@@ -1089,7 +1089,7 @@ Investigative Direction: Identify the employee through the host's source and obt
 
 ---
 
-**C-5487** Host Says Fired Employee Was Not Her Leaker and Leaks Continue
+**C-5487** Host Says the Staffer Was Not Her Leaker and Leaks Continue
 
 Claim Timestamp: 00:01:39
 
@@ -1134,7 +1134,7 @@ Investigative Direction: Identify the YouTuber and obtain the cease and desist l
 
 ---
 
-**C-5490** Coleman Says TPUSA Lawyer Now Concedes Drones Existed but for Media Only
+**C-5490** Host Says TPUSA Lawyer Now Concedes Drones Existed but for Media Only
 
 Claim Timestamp: 00:03:55
 
@@ -1150,7 +1150,7 @@ Investigative Direction: Compare TPUSA's cease and desist letter and public stat
 
 ---
 
-**C-5491** Coleman Says Everyone in the Unreleased Film Is Tied to Fort Huachuca
+**C-5491** Host Says Everyone in the Unreleased Film Is Tied to Fort Huachuca
 
 Claim Timestamp: 00:04:42
 
@@ -1165,7 +1165,7 @@ Investigative Direction: Identify the film and its cast and crew and check each 
 
 ---
 
-**C-5492** Coleman Says Erika Kirk Has Said Her Mother Held DOD Contracts
+**C-5492** Host Says Erika Kirk Has Said Her Mother Held DOD Contracts
 
 Claim Timestamp: 00:04:42
 
@@ -1180,7 +1180,7 @@ Investigative Direction: Find Erika Kirk's own public statements about her mothe
 
 ---
 
-**C-5493** Coleman Says Dan Flood's Father Ran Intel at Fort Huachuca
+**C-5493** Host Says Dan Flood's Father Ran Intel at Fort Huachuca
 
 Claim Timestamp: 00:04:42
 
@@ -1210,16 +1210,16 @@ Investigative Direction: Ask TPUSA for Dan Flood's current title and start date 
 
 ---
 
-**C-5495** Coleman Says Flood's Protectee Warned Him Someone Would Kill Him
+**C-5495** Host Says Flood's Protectee Warned Him Someone Would Kill Him
 
 Claim Timestamp: 00:05:43
 
-Claim: Baron Coleman says that, in his opinion, Dan Flood's protectee told him within a few days that someone was probably going to kill him and then died, which Coleman calls prime evidence Flood failed at his job.
+Claim: The host says that Dan Flood's protectee told him within a few days that someone was probably going to kill him and then died, which she calls, in her opinion, prime evidence Flood failed at his job.
 
 Transcript Snippet: you had a protectee of yours tell you within a few days that that someone was probably going to kill him. And then he died.
 
 Anchored Artifacts: 
-Mentions: N-331, N-271, N-1
+Mentions: N-3, N-271, N-1
 Related Nodes: N-10340, N-10694
 Investigative Direction: Obtain the night-before text messages and any security briefings showing what Charlie Kirk told Flood and when.
 
@@ -1229,12 +1229,12 @@ Investigative Direction: Obtain the night-before text messages and any security 
 
 Claim Timestamp: 00:05:43
 
-Claim: Baron Coleman says his Turning Point insider told him that before Charlie Kirk died there was a back and forth between Kirk and Dan Flood in which Kirk was going to demote Flood.
+Claim: The host says her Turning Point insider told her that before Charlie Kirk died there was a back and forth between Kirk and Dan Flood in which Kirk was going to demote Flood.
 
 Transcript Snippet: my Turning Point insider told me that before Charlie died, there was some sort of back and forth between him and Dan Flood where he was going to demote Dan Flood.
 
 Anchored Artifacts: 
-Mentions: N-331, N-1, N-271
+Mentions: N-3, N-1, N-271
 Related Nodes: N-10694, N-10000
 Investigative Direction: Seek internal TPUSA messages or a second source on any planned change to Flood's role in August or September 2025.
 
@@ -1244,12 +1244,12 @@ Investigative Direction: Seek internal TPUSA messages or a second source on any 
 
 Claim Timestamp: 00:06:35
 
-Claim: Baron Coleman says Dan Flood was protecting Erika Kirk at the White House when the Charlie Kirk Day was held, after Erika became CEO without removing him from the security team.
+Claim: The host says Dan Flood was protecting Erika Kirk at the White House when the Charlie Kirk Day was held, after Erika became CEO without removing him from the security team.
 
 Transcript Snippet: he was protecting her at the White House when they did the Charlie Kirk Day
 
 Anchored Artifacts: 
-Mentions: N-331, N-271, N-2
+Mentions: N-3, N-271, N-2
 Related Nodes: N-10694
 Supports: C-2147
 Investigative Direction: Review photos and press pool footage of the White House event for Flood and the rest of Erika Kirk's detail.
@@ -1260,21 +1260,21 @@ Investigative Direction: Review photos and press pool footage of the White House
 
 Claim Timestamp: 00:07:14
 
-Claim: Baron Coleman says he will reveal the next day that Erika Kirk's parents worked with somebody who was accused of something to do with children.
+Claim: The host says she will reveal the next day that Erika Kirk's parents worked with somebody who was accused of something to do with children.
 
 Transcript Snippet: I've even got something that I'm I'm going to reveal tomorrow about her parents having worked with somebody that was accused something to do with children.
 
 Anchored Artifacts: 
-Mentions: N-331, N-2
+Mentions: N-3, N-2
 Investigative Direction: Check the following episode for the named individual and test the allegation against court or investigative records; treat as unverified until then.
 
 ---
 
-**C-5499** Tipster Says Miss Arizona USA Titleholder Controls the Official Account
+**C-5499** Coleman Says Miss Arizona USA Titleholder Controls the Official Account
 
 Claim Timestamp: 00:08:02
 
-Claim: The host and Coleman read a tip that the reigning Miss Arizona USA controls the pageant's social media account and that old tweets from each reign stay online.
+Claim: Baron Coleman, teeing up an emailed tip, says the reigning Miss Arizona USA controls the pageant's social media account, that old tweets from each reign stay online, and that Erika Kirk's tweets from her reign can still be read.
 
 Transcript Snippet: Miss Arizona USA has the same thing. That the Miss Arizona USA, whoever's the reigning Miss Arizona USA, gets control of that account.
 
@@ -1288,12 +1288,12 @@ Investigative Direction: Confirm with the Miss Arizona USA organization how the 
 
 Claim Timestamp: 00:08:44
 
-Claim: Baron Coleman says the 2012 Aurora theater shooter walked in wearing tactical gear and throwing smoke grenades, which he says looks pretty military in retrospect.
+Claim: The host says the 2012 Aurora theater shooter walked in wearing tactical gear and throwing smoke grenades, which she says looks pretty military in retrospect.
 
 Transcript Snippet: some guy walks in in tactical gear, but this was like he was like throwing smoke grenades. I mean, looks in retrospect pretty military.
 
 Anchored Artifacts: 
-Mentions: N-331
+Mentions: N-3
 Related Nodes: N-11036
 Investigative Direction: Compare the host's description with trial testimony and the official report on the gunman's equipment.
 
@@ -1389,7 +1389,7 @@ Investigative Direction: Identify the companion from the victim list and confirm
 
 ---
 
-**C-5507** Coleman Says Officers Carried Ghawi to a Police Car Instead of Leaving Her
+**C-5507** Host Says Officers Carried Ghawi to a Police Car Instead of Leaving Her
 
 Claim Timestamp: 00:13:48
 
@@ -1404,7 +1404,7 @@ Investigative Direction: Compare with the Aurora police report, 911 logs and the
 
 ---
 
-**C-5508** Coleman Says Buckley Air Force Base Operated Near Aurora From 2000 to 2021
+**C-5508** Host Says Buckley Air Force Base Operated Near Aurora From 2000 to 2021
 
 Claim Timestamp: 00:14:32
 
@@ -1419,7 +1419,7 @@ Investigative Direction: Check Buckley's service history and the date it was red
 
 ---
 
-**C-5509** Coleman Says Many Aurora Victims Were Military Guys
+**C-5509** Host Says Many Aurora Victims Were Military Guys
 
 Claim Timestamp: 00:14:50
 
@@ -1434,7 +1434,7 @@ Investigative Direction: Tabulate the military service of the 12 killed and 70 w
 
 ---
 
-**C-5510** Coleman Says Ghawi Was Not in Her Father's Obituary
+**C-5510** Host Says Ghawi Was Not in Her Father's Obituary
 
 Claim Timestamp: 00:14:50
 
@@ -1758,7 +1758,7 @@ Investigative Direction: Obtain messages from Kirk to donors, staff or the host 
 
 ---
 
-**C-5532** Coleman Says Evangelical Churches Are Seeing a Mass Exodus
+**C-5532** Host Says Evangelical Churches Are Seeing a Mass Exodus
 
 Claim Timestamp: 00:46:48
 
@@ -1806,7 +1806,7 @@ Investigative Direction: Obtain the group chat export with dates; ask Bowyer and
 
 Claim Timestamp: 00:49:40
 
-Claim: The host says she called the school Charlie Kirk attended, which is now called Quest Academy and had a different name when he went there.
+Claim: The host says the school Charlie Kirk attended, which she has called his 'X-Men school', is now called Quest Academy and had a different name when he went there.
 
 Transcript Snippet: I called his ex-men school which is now called Quest Academy and now I it it was previously called something else when Charlie went there
 
@@ -2245,7 +2245,7 @@ Investigative Direction: Identify the source and obtain a second confirmation of
 
 ---
 
-**C-5564** Host Says a Person Close to the Surgeon Said TPUSA Called Him After Her Episode
+**C-5564** Host Says a Person Close to the Surgeon Said They Called Him After Her Episode
 
 Claim Timestamp: 01:11:53
 

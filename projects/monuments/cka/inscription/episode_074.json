@@ -74,7 +74,7 @@
           "@type": "Artifact",
           "@id": "A-1781.2",
           "ref": "A-1781.2",
-          "description": "Jillian Falcon reply, 2014-02-13: \"@EricaFrandsen, gorgeous as always\"",
+          "description": "Jillian Falcon reply, 2014-02-13: \"@ErikaFrantzve, gorgeous as always\"",
           "related_claims": [
             "C-2378"
           ],
@@ -92,7 +92,7 @@
           "@type": "Artifact",
           "@id": "A-1781.3",
           "ref": "A-1781.3",
-          "description": "Jillian Falcon tweet, 2014-03-06: \"Why did @EricaFrandsen just send me this?\" with attached Valentine-themed photo captioned \"This Valentine's Day I am going to touch your butt.\"",
+          "description": "Jillian Falcon tweet, 2014-03-06: \"Why did @ErikaFrantzve just send me this?\" with attached Valentine-themed photo captioned \"This Valentine's Day I am going to touch your butt.\"",
           "related_claims": [
             "C-2380"
           ],
@@ -145,7 +145,7 @@
           "@type": "Artifact",
           "@id": "A-1781.6",
           "ref": "A-1781.6",
-          "description": "Jillian Falcon tweet, 2014-03-26 evening: \"Thank you, @EricaFrandsen, for making my whole week\" with attached gnome-image reading \"I want to be inside your lady garden. Know what I'm saying?\"",
+          "description": "Jillian Falcon tweet, 2014-03-26 evening: \"Thank you, @ErikaFrantzve, for making my whole week\" with attached gnome-image reading \"I want to be inside your lady garden. Know what I'm saying?\"",
           "related_claims": [
             "C-2383"
           ],
@@ -179,7 +179,7 @@
           "@type": "Artifact",
           "@id": "A-1781.8",
           "ref": "A-1781.8",
-          "description": "Jillian Falcon tweet, 2014-04-05: \"Getting this in the mail from @EricaFrandsen\" with photo of red box of chocolate-covered strawberries and other chocolate desserts",
+          "description": "Jillian Falcon tweet, 2014-04-05: \"Getting this in the mail from @ErikaFrantzve\" with photo of red box of chocolate-covered strawberries and other chocolate desserts",
           "related_claims": [
             "C-2384"
           ],
@@ -1792,7 +1792,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10428",
       "ref": "N-10428",
-      "name": "Erica Kirk China Timeline Discrepancy",
+      "name": "Erika Kirk China Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Topic reused for the China charity reference.",
       "related_artifacts": [],
@@ -2135,7 +2135,7 @@
       "@type": "Claim",
       "@id": "C-2378",
       "ref": "C-2378",
-      "label": "Per Nicey Clip, Erika Kirk (Then Frandsen) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15",
+      "label": "Per Nicey Clip, Erika Kirk (Then Frantzve) Met Jillian Falcon in Michigan on September 15, 2013 When Erika Was 25 and Jillian Was 15",
       "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Erika Kirk (then Erika Frantzve), Joshua Harrelson, and Jillian Falcon met on September 15, 2013 in Michigan, when Erika was 25 and Jillian was 15.",
       "anchored_artifacts": [
         "A-1780.1",
@@ -2239,7 +2239,7 @@
       "@id": "C-2383",
       "ref": "C-2383",
       "label": "Nicey Clip Shows Jillian Sharing Gnome Image After Thanking Erika",
-      "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Jillian Falcon tweeted on or about 2014-03-26 \"Thank you, @EricaFrandsen, for making my whole week\" and shared a photo of a gnome reading \"I want to be inside your lady garden. Know what I'm saying?\"",
+      "claim": "In a video by YouTuber Nicey that the host plays, Nicey says Jillian Falcon tweeted on or about 2014-03-26 \"Thank you, @EricaFrantzve, for making my whole week\" and shared a photo of a gnome reading \"I want to be inside your lady garden. Know what I'm saying?\"",
       "anchored_artifacts": [
         "A-1781.6"
       ],
@@ -2298,7 +2298,7 @@
       "@id": "C-2386",
       "ref": "C-2386",
       "label": "Host Says Erika Publicly Commented on Jillian's Instagram Photo Calling Her \"a dime piece beside the car\"",
-      "claim": "The host says, relaying what Jillian Falcon told her, that Erika Kirk commented on an Instagram photo of Jillian standing beside a car, writing \"That dime piece beside the car though.\"",
+      "claim": "The host shows an Instagram comment in which Erika Kirk, referring to Jillian Falcon beside a car, wrote \"That dime piece beside the car though.\"",
       "anchored_artifacts": [
         "A-1784.4"
       ],
@@ -2456,7 +2456,7 @@
       "@id": "C-2394",
       "ref": "C-2394",
       "label": "The wedding photo was visible in the background of Mikey McCoy's 2025-09-22 Fox News interview but absent from his 2025-11-08 Real America's Voice interview",
-      "claim": "Episode presents that the wedding photo appeared in the background of Mikey McCoy's 2025-09-22 Fox News/Martha MacCallum interview but was absent from the corner of his 2025-11-08 Real America's Voice interview, per a \"mommy sleuth\" discovery cited by the host.",
+      "claim": "Episode presents that the wedding photo appeared in the background of Mikey McCoy's 2025-09-22 Fox News/Martha MacCallum interview but was absent from the corner of his 2025-11-08 Real America's Voice interview, per finds the host credits to a \"mommy sleuth\" (Nov 8) and \"another sleuth\" (Sept 22).",
       "anchored_artifacts": [
         "A-1788.1",
         "A-1789.1"
@@ -2475,7 +2475,7 @@
       "@type": "Claim",
       "@id": "C-2395",
       "ref": "C-2395",
-      "label": "Pam Bondi asserted at a House Oversight hearing that the Trump administration released over 3 million pages of Epstein documents and signed the law releasing them",
+      "label": "Pam Bondi Asserts at a House Hearing That the Trump Administration Released Over 3 Million Pages of Epstein Documents and Trump Signed the Law Releasing Them",
       "claim": "Episode presents that Attorney General Pam Bondi, in a hearing clip, asserted that the Trump administration released over 3 million pages of Epstein documents and that President Trump signed the law releasing them, characterizing him as \"the most transparent president in the nation's history.\"",
       "anchored_artifacts": [
         "A-1791.1"
@@ -2636,7 +2636,8 @@
       "mentions_person_refs": [
         "N-565",
         "N-566",
-        "N-567"
+        "N-567",
+        "N-2"
       ]
     },
     {
@@ -2644,7 +2645,7 @@
       "@id": "C-10144",
       "ref": "C-10144",
       "label": "Nicey says the friend's grandparents were renting a home to Erika in Michigan",
-      "claim": "Nicey says Jillian had a friend whose grandparents were renting a home to Erika in Michigan, and that he is unsure whether the meeting at a sushi restaurant was a coincidence or a formal introduction; this differs from the rent-payment door encounter the host later relays from Jillian.",
+      "claim": "Nicey says Jillian had a friend whose grandparents were renting a home to Erika in Michigan, and that she is unsure whether the meeting at a sushi restaurant was a coincidence or a formal introduction.",
       "anchored_artifacts": [
         "A-1780.1"
       ],
@@ -2691,7 +2692,7 @@
       "@id": "C-10146",
       "ref": "C-10146",
       "label": "Nicey says Jillian replied to Erika on Feb 13, 2014 'gorgeous as always'",
-      "claim": "Nicey says that on February 13, 2014 Jillian replied to one of Erika's tweets with the words '@EricaFrandsen, gorgeous as always.'",
+      "claim": "Nicey says that on February 13, 2014 Jillian replied to one of Erika's tweets with the words '@EricaFrantzve, gorgeous as always.'",
       "anchored_artifacts": [
         "A-1781.2"
       ],
@@ -2701,7 +2702,7 @@
       ],
       "claim_timestamp": "00:04:50",
       "investigative_direction": "Pull the archived tweet from Jillian's account and confirm the date and the handle used.",
-      "transcript_snippet": "On February 13th, 2014, Jillian replied to one of Erika's tweets by saying, \"@EricaFrandsen, gorgeous as always.\"",
+      "transcript_snippet": "On February 13th, 2014, Jillian replied to one of Erika's tweets by saying, \"@ErikaFrantzve, gorgeous as always.\"",
       "mentions_person_refs": [
         "N-565",
         "N-566",
@@ -2968,7 +2969,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-566"
+        "N-566",
+        "N-569"
       ]
     },
     {
@@ -3243,7 +3245,7 @@
       "@id": "C-10171",
       "ref": "C-10171",
       "label": "Host says someone reported that the Desert Spirit Tech reservation office address does not exist",
-      "claim": "The host says somebody reported that the address given for the Desert Spirit Tech office on the reservation does not exist.",
+      "claim": "The host says somebody reported that the Desert Spirit Tech office address does not exist, and that the office is not located on the reservation.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10440"
@@ -3690,7 +3692,7 @@
       "@id": "C-10191",
       "ref": "C-10191",
       "label": "Host quotes Erika telling Beck she had not been in the studio in forever",
-      "claim": "The host says that on Glenn Beck Erika said she had not been in the studio in forever and apologized for looking down at a note Charlie wrote; the host asks how long forever is.",
+      "claim": "The host says that on Glenn Beck Erika said, in what the host thinks was her exact sentence, that she had not been here in forever and apologized for looking down at a note Charlie wrote; the host asks how long forever is.",
       "anchored_artifacts": [
         "A-3056.1"
       ],
@@ -3998,7 +4000,7 @@
       "@id": "C-10204",
       "ref": "C-10204",
       "label": "Moskowitz says Patel told Senator Kennedy under oath that the FBI had no credible evidence Epstein trafficked girls to anyone but himself",
-      "claim": "Moskowitz says Kash Patel, under oath and in a letter to Senator Kennedy, said the FBI had no credible evidence that Epstein trafficked girls to anyone but himself, which Moskowitz says is now shown to be untrue.",
+      "claim": "Moskowitz says Kash Patel, under oath and in something sent to Senator Kennedy, said the FBI was not in possession of any credible evidence that Epstein trafficked girls to anyone but himself, which Moskowitz says is now known to be untrue.",
       "anchored_artifacts": [
         "A-1790.1"
       ],
@@ -4288,7 +4290,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:47:17",
       "investigative_direction": "Check index closing values on the hearing date.",
@@ -4309,7 +4311,7 @@
         "N-11254"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:50:28",
       "investigative_direction": "Ask Paleo Valley whether it received such a call and identify the TPUSA sources and Dylan.",
@@ -4324,7 +4326,7 @@
       "@id": "C-10218",
       "ref": "C-10218",
       "label": "Host says she criticized Alex Clark for posing in boots over the Charlie memorial site for a newspaper photo",
-      "claim": "The host says she had gone after Alex Clark for dressing up in boots and standing over the memorial site of Charlie to pose for a photo for what she says was the Washington Post.",
+      "claim": "The host says she had gone after Alex Clark for dressing up in boots and standing over the memorial site of Charlie to pose for a photo for what she called 'The Washington Post, whatever it was.'",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11098"
@@ -4394,7 +4396,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:55:02",
       "investigative_direction": "Check the channel's upload log for the next episode date.",

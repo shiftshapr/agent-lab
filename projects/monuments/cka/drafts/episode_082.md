@@ -39,13 +39,13 @@
  - Claim Range: C-2544 – C-2559
  - New Nodes Introduced: N-10553, N-10555, N-10556, N-10557, N-10558, N-10559
  - Reused Nodes Appearing: none (Wave 2: local ids removed)
- - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+ - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
 ## II. Executive Summary
 
-This episode presents a new artifact-anchored data point regarding Erica Kirk's whereabouts on September 10, 2025: an unverified source claim that she was inside the offices of Hopkinson Aircrafts – a luxury aircraft brokerage in Scottsdale – when she received the call informing her of Charlie Kirk's death. The host and her team describe Hopkinson as occupying a separate unmarked building that shares Atlantic Aviation's address (14600 North Aircraft Drive) but accepts mail at Atlantic's office. The episode develops two investigative threads: (1) Wi-Fi analysis of the alleged "Barbara" plane (N8724A), which the host claims she confirmed by phone call has Wi-Fi, thereby complicating Andrew Kolvet's claimed plane blackout; and (2) the timing of Andrew Kolvet's 3:26 PM MST text message ("Sorry, on the plane. This just loaded") against ADSB Exchange data showing Charlie's plane descending below 7,500 ft near Provo at the same minute. The episode also introduces Andrew Kolvet's admitted hosting of the first hour of Charlie Kirk Live Show on September 10 as a potential alibi, and presents a critical reading of Nick Shirley's background and his booking on that episode. The latter half addresses Joe Kent's Shellenberger interview and Blake Neff / Andrew Kolvet's on-air reaction characterizing truthful testimony as "betrayal." The episode's evidentiary contribution is primarily the Hopkinson location claim, the Wi-Fi phone confirmation, and the ADSB-time correlation to Andrew Kolvet's 3:26 PM message.
+This episode presents a new artifact-anchored data point regarding Erika Kirk's whereabouts on September 10, 2025: an unverified source claim that she was inside the offices of Hopkinson Aircrafts – a luxury aircraft brokerage in Scottsdale – when she received the call informing her of Charlie Kirk's death. The host and her team describe Hopkinson as occupying a separate unmarked building that shares Atlantic Aviation's address (14600 North Aircraft Drive) but accepts mail at Atlantic's office. The episode develops two investigative threads: (1) Wi-Fi analysis of the alleged "Barbara" plane (N8724A), which the host claims she confirmed by phone call has Wi-Fi, thereby complicating Andrew Kolvet's claimed plane blackout; and (2) the timing of Andrew Kolvet's 3:26 PM MST text message ("Sorry, on the plane. This just loaded") against ADSB Exchange data showing Charlie's plane descending below 7,500 ft near Provo at the same minute. The episode also introduces Andrew Kolvet's admitted hosting of the first hour of Charlie Kirk Live Show on September 10 as a potential alibi, and presents a critical reading of Nick Shirley's background and his booking on that episode. The latter half addresses Joe Kent's Shellenberger interview and Blake Neff / Andrew Kolvet's on-air reaction characterizing truthful testimony as "betrayal." The episode's evidentiary contribution is primarily the Hopkinson location claim, the Wi-Fi phone confirmation, and the ADSB-time correlation to Andrew Kolvet's 3:26 PM message.
 
 ---
 
@@ -350,9 +350,9 @@ Confidence Level: Medium
 
 ## IV. Node Register
 
-**N-10553** Erica Kirk 9/10 Location Investigation
+**N-10553** Erika Kirk 9/10 Location Investigation
 
-Persistent investigative question of where Erica Kirk physically was on September 10, 2025 between the shooting and her arrival in Utah. This episode introduces Hopkinson Aircrafts as the claimed location.
+Persistent investigative question of where Erika Kirk physically was on September 10, 2025 between the shooting and her arrival in Utah. This episode introduces Hopkinson Aircrafts as the claimed location.
 
 Evidence Count: 1
 Claim Count: 1
@@ -396,7 +396,7 @@ Investigative Pressure: High
 
 **N-10557** Barbara Plane (N8724A) Operations
 
-The Hawker Beechcraft alleged by Erica Kirk as the plane Andrew Kolvet took at 3:19 PM MST Santa Barbara → Provo. Episode anchors Wi-Fi availability via charter company phone call.
+The Hawker Beechcraft alleged by Erika Kirk as the plane Andrew Kolvet took at 3:19 PM MST Santa Barbara → Provo. Episode anchors Wi-Fi availability via charter company phone call.
 
 Evidence Count: 2
 Claim Count: 2
@@ -764,14 +764,14 @@ First named at 00:35:50 in episode 82 by Nick Shirley. Rio de Janeiro gang he sa
 
 Claim Timestamp: 00:09:34
 
-Claim: Per an unverified source tip received by the host, Erica Kirk was at Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the call informing her that Charlie Kirk had died.
+Claim: Per an unverified source tip received by the host, Erika Kirk was at Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the call informing her that Charlie Kirk had died.
 
 Anchored Artifacts: A-1886.1, A-1886.2, A-1886.3
 Mentions: N-2, N-1
 
 Related Nodes: N-10553, N-10555
 
-Investigative Direction: Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erica Kirk's presence at Hopkinson Aircrafts on 9/10.
+Investigative Direction: Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erika Kirk's presence at Hopkinson Aircrafts on 9/10.
 
 ---
 
@@ -956,14 +956,14 @@ Investigative Direction: Verify the specific guest booked for September 9 interv
 
 Claim Timestamp: 00:38:35
 
-Claim: The host identifies "RY Reef air" and "Wi-Refi" as the same plane – the aircraft Erica Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.
+Claim: The host identifies "RY Reef air" and "Wi-Refi" as the same plane – the aircraft Erika Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.
 
 Anchored Artifacts: A-1887.3
 Mentions: N-14, N-2
 
 Related Nodes: N-10554
 
-Investigative Direction: Verify whether "Wi-Refi" is a transcript rendering of a specific aircraft name (e.g., "WiRefi Air") or a phonetic rendering by Erica Kirk.
+Investigative Direction: Verify whether "Wi-Refi" is a transcript rendering of a specific aircraft name (e.g., "WiRefi Air") or a phonetic rendering by Erika Kirk.
 
 *Optional Flag: Transcript ambiguity – possible transcription error of aircraft operator name.*
 
@@ -2024,7 +2024,7 @@ Confidence: medium
 
 ## VI. Optional Flags
 
-- **Name uncertainty**: Andrew Kolvet's surname is rendered inconsistently throughout the transcript – "Kolbet," "Kolvert," "Colvin," "Colvert," "Kolvet." Most stable form from chapter title: "Kolvet." Flag preserved across all references.
+- **Name uncertainty**: Andrew Kolvet's surname is rendered inconsistently throughout the transcript – "Kolvet," "Kolvert," "Colvin," "Colvert," "Kolvet." Most stable form from chapter title: "Kolvet." Flag preserved across all references.
 
 - **Possible transcription error**: "Wi-Refi" / "RY Reef air" / "wife Reef air" appear to refer to the same entity; transcript rendering is ambiguous. Inscribed as a claim but flagged.
 
@@ -2060,7 +2060,7 @@ N-10553, N-10554, N-10555, N-10556, N-10557, N-10558, N-10559
 
 Existing Nodes Reused:
 N-1 (Charlie Kirk), (Mike Mitchell Public Record Anomaly), (Brooksby Suicide Narrative Discrepancy), (Robinson Apartment Staging Allegation), (Phil Lyman Proximity and Behavior Investigation), (UVU Campus Familiarity Question), (Phil Lyman Location Discrepancy)
-- N-2 (Erica Kirk)
+- N-2 (Erika Kirk)
 
 Cross-Episode Reconciliation Required:
 - Person node for Baron Coleman should be created in a future update

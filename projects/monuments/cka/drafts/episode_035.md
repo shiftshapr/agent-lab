@@ -966,11 +966,11 @@ Investigative Direction: Obtain the cited DOJ directory and confirm page 675 dir
 
 ---
 
-**C-1749** Host Says 920 North King Street Currently Houses DEA, FBI, and Secret Service
+**C-1749** Email Host Reads Says DEA and Secret Service Are Listed at 920 North King Street
 
 Claim Timestamp: 00:10:45–00:12:23
 
-Claim: The host says current public directories show DEA, FBI, and U.S. Secret Service all listed at 920 North King Street, Suite 404, Wilmington, Delaware, with phone numbers published.
+Claim: Per the anonymous email the host reads, current public directories show the DEA and the U.S. Secret Service listed at 920 North King Street, Suite 404, Wilmington, Delaware, both with published phone numbers.
 
 Anchored Artifacts: A-1435.1, A-1437.1
 
@@ -980,11 +980,11 @@ Investigative Direction: Verify via direct lookups of each agency's published Wi
 
 ---
 
-**C-1750** Host Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar
+**C-1750** Email Host Reads Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar
 
 Claim Timestamp: 00:12:23–00:13:22
 
-Claim: The host says a French aircraft finishing company, SATYS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+, and says her team confirmed this.
+Claim: Per the anonymous email the host reads, a French aircraft finishing company, SATYS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+; the host says her team confirmed this.
 
 Anchored Artifacts: A-1438.1
 
@@ -1010,7 +1010,7 @@ Investigative Direction: Obtain the DRBA resolution document directly from DRBA 
 
 **C-1752** Per FBI Press Release Host Reads, Wray Cited Partnerships in Wilmington December 2024
 
-Claim Timestamp: 00:17:46–00:18:30
+Claim Timestamp: 00:16:58
 
 Claim: Per an FBI press release dated December 5, 2024 that the host reads, Director Christopher Wray emphasized "key partners" and described partnerships as closer than 5 or 10 years prior.
 
@@ -1030,7 +1030,7 @@ Claim Timestamp: 00:31:42–00:32:39
 Claim: Frank Turek, on the Megyn Kelly Show, stated that on the day of the event, Charlie's team had drones up looking at the crowd from above and texted him video footage during the drive-in.
 
 Anchored Artifacts: A-1441.1
-Mentions: N-7
+Mentions: N-7, N-46, N-1
 
 Related Nodes: N-10267
 
@@ -1042,7 +1042,7 @@ Investigative Direction: Obtain the full Megyn Kelly / Frank Turek interview cli
 
 Claim Timestamp: 00:30:52–00:31:42
 
-Claim: Brian Harpole, on the Shawn Ryan interview, stated TPUSA did not have drones at the event because he "wasn't allowed to have drones."
+Claim: The host says Brian Harpole, in his Shawn Ryan interview, basically said TPUSA did not have drones at the event because he "wasn't allowed to have drones."
 
 Anchored Artifacts: A-1442.1
 Mentions: N-267, N-225
@@ -1276,7 +1276,7 @@ Investigative Direction: Obtain Wilmington airport security and tenant rules on 
 
 Claim Timestamp: 00:07:20
 
-Claim: The host reads the email saying the writer can guarantee that vehicles affiliated with the 920 North King Street workspace arrived and left inside the same window as SUBTT.
+Claim: The host reads the email saying the writer can guarantee that vehicles affiliated with the redacted entity's workspace arrived and left inside the same window as SUBTT, and that the plane and those vehicles are connected to 920 North King Street.
 
 Transcript Snippet: I can guarantee you that the vehicles affiliated with this workspace arrived and left inside the same window as SUBTT.
 
@@ -1369,11 +1369,11 @@ Investigative Direction: Retrieve the Secret Service 2025 field office list and 
 
 ---
 
-**C-7994** Host Says the 1990s DOJ Suites Evolved Into a Multi-Agency Space
+**C-7994** Email Says the 1990s DOJ Suites Evolved Into a Multi-Agency Space
 
 Claim Timestamp: 00:10:45
 
-Claim: The host says the suites the Department of Justice held in the 1990s never went away and eventually evolved into a multi-agency space in a commercial building.
+Claim: The host reads the email saying the suites the Department of Justice held in the 1990s never went away and eventually evolved into a multi-agency space in a commercial building.
 
 Transcript Snippet: That means the suites that the Department of Justice owned in the '90s never actually went away. This eventually evolved into a multi- agency space in a commercial building.
 
@@ -1386,11 +1386,11 @@ Investigative Direction: Review GSA lease and building tenant records for 920 No
 
 ---
 
-**C-7995** Host Compares 920 North King Street to 33 Thomas Street
+**C-7995** Email Compares 920 North King Street to 33 Thomas Street
 
 Claim Timestamp: 00:11:57
 
-Claim: The host says 920 North King Street looks like a mini version of the 33 Thomas Street building in New York, the building she says is associated with the Snowden leak, with glass windows as the only difference.
+Claim: The host reads the email saying 920 North King Street looks like a mini version of the 33 Thomas Street building in New York, the building the email associates with the Snowden leak, with glass windows as the only difference.
 
 Transcript Snippet: It looks exactly like a mini version of the thing. The only difference is that 920 North King has glass windows.
 
@@ -1402,11 +1402,11 @@ Investigative Direction: Compare photographs of both buildings; the resemblance 
 
 ---
 
-**C-7996** Host Says X Users Cited a Falcon Maintenance Arrangement Dating to 1999
+**C-7996** Email Says X Users Cited a Falcon Maintenance Arrangement Dating to 1999
 
 Claim Timestamp: 00:12:08
 
-Claim: The host says people on X argued SUBTT has an alibi because it aligns with a longstanding Falcon maintenance arrangement out of Wilmington dating back to 1999.
+Claim: The host reads the email saying people on X argued SUBTT has an alibi because it aligns with a longstanding Falcon maintenance arrangement out of Wilmington dating back to 1999.
 
 Transcript Snippet: SUBTT has an alibi because it quote unquote aligns with a longstanding Falcon maintenance arrangement out of Wilmington that dates back to 1999.
 
@@ -1418,11 +1418,11 @@ Investigative Direction: Locate the original X posts and any documentation of a 
 
 ---
 
-**C-7997** Host Says the Wilmington Dassault Falcon Center Shut Down Around 2021
+**C-7997** Email Says the Wilmington Dassault Falcon Center Shut Down Around 2021
 
 Claim Timestamp: 00:12:23
 
-Claim: The host says Wilmington used to have a Dassault Falcon authorized service center but it shut down around 2021, before the 2024 SATYS announcement.
+Claim: The host reads the email saying Wilmington used to have a Dassault Falcon authorized service center but it shut down around 2021, before the 2024 SATYS announcement.
 
 Transcript Snippet: Wilmington used to have a Dissult Falcon authorized center but it shut down around 2021.
 
@@ -1439,7 +1439,7 @@ Investigative Direction: Confirm the closure date through Dassault Falcon servic
 
 Claim Timestamp: 00:13:22
 
-Claim: The host reads the email saying the Delaware River and Bay Authority operates on federally regulated waterways and that its chain of authority runs through the Army Corps of Engineers, the Secretary of the Army and the Secretary of Defense to the President.
+Claim: The host reads the email saying the Delaware River and Bay Authority operates on federally regulated waterways and that the chain reporting from those who control the rivers would run through the Army Corps of Engineers, the Secretary of the Army and the Secretary of Defense to the President, while saying it is not claiming a direct line of authority.
 
 Transcript Snippet: The chain here that would report from the people who control the rivers would be DRBA to the Army Corps of Engineers, the Secretary of the Army and the Secretary of Defense to the President.
 
@@ -2149,7 +2149,7 @@ Claim: In the Rogan and Von clip, one speaker asks whether the Macrons are suing
 Transcript Snippet: I think they're at least threatening a lawsuit. It's like for like 50 million bucks.
 
 Anchored Artifacts: A-1443.1
-Mentions: N-269, N-147, N-3, N-82
+Mentions: N-269, N-147, N-3, N-82, N-378
 Related Nodes: N-11011, N-10270
 Tags: relevance:context
 Investigative Direction: Compare with the Macron complaint filed in Delaware and its claimed damages.
@@ -2318,7 +2318,7 @@ Investigative Direction: Locate the episode where the host first described the v
 
 ---
 
-**C-8052** Host Says Sleeper Cells Operate Across the Nation and Targets Children in Schools
+**C-8052** Host Says Children Are at Risk in Government Schools and Feels There Are Sleeper Cells Across the Nation
 
 Claim Timestamp: 00:48:56
 
@@ -2442,11 +2442,11 @@ Investigative Direction: None required; a stated personal position.
 
 ---
 
-**C-8060** Host Says YouTube Issued a Copyright Claim Over Music in the Tim Dillon Clip
+**C-8060** Host Says Kash Patel's Girlfriend Filed a Copyright Claim Over Music in the Tim Dillon Clip
 
 Claim Timestamp: 00:52:47
 
-Claim: The host says YouTube gave her team a copyright claim, not a strike, over a song by Kash Patel's girlfriend, so the team may trim that song from the Tim Dillon clip they showed.
+Claim: The host says Kash Patel's girlfriend hit her team with a copyright claim on YouTube, not a strike, over her music, so the team may trim that song from the Tim Dillon clip they showed.
 
 Transcript Snippet: A copyright claim for her sensational music. And so, we might have to trim out that sensational song from the Tim Dillon clip that we showed of him listening to it.
 

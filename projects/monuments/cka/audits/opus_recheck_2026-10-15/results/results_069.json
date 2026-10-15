@@ -1,0 +1,781 @@
+[
+ {
+  "claim": "C-14044",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14045",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14046",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14047",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14048",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14049",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14050",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14051",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14052",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Label adds 'TPUSA-Side'; host says only 'they seem to be almost writing like Candace Owens fan fiction' and later blames 'Zionists', not TPUSA.",
+  "fix": {
+   "label": "Host Says Attacks on Her Read Like Candace Owens Fan Fiction and Mean She Is Close"
+  }
+ },
+ {
+  "claim": "C-14053",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14054",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14055",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14056",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'That I demanded a huge studio attempted to use their PR firm to get the cover of People magazine' - 'attempted to use their PR firm', not 'used a PR firm'.",
+  "fix": {
+   "claim": "The host says the Post's claim that she demanded a huge studio and attempted to use their PR firm to get a People magazine cover is fan fiction, and that she does not think they ever had a conversation about People magazine."
+  }
+ },
+ {
+  "claim": "C-14057",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14058",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14059",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14060",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14061",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14062",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14063",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14064",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says only 'Uh Huachuca, which we're going to have a lot on tomorrow'; she does not spell it. 'which she spells Huachuca' is not in the transcript.",
+  "fix": {
+   "claim": "The host says there is something at Fort Huachuca that she thinks caused a panic, and that she will cover it the next day along with the Egyptian planes."
+  }
+ },
+ {
+  "claim": "C-14065",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14066",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14067",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14068",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14069",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Kirk Show speaker: 'we can attest, we, you know, Andrew Sypher, who's our head of field... Charlie sometimes throw the events out, 7, 10 days in advance'; spoken ~50:50, about 60s after timestamp.",
+  "fix": {}
+ },
+ {
+  "claim": "C-14070",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Kolvet addresses 'Viva' at 53:11; Viva Frei's 'Tyler Robinson is getting radicalized right about the same time as Thomas Crooks' spoken ~55:00, within 75s.",
+  "fix": {}
+ },
+ {
+  "claim": "C-14071",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript 'George Zin' is a transcription error for George Zinn (N-42), the man arrested at UVU who falsely claimed to be the shooter (SL Tribune).",
+  "fix": {
+   "claim": "A speaker in the Kirk Show clip, addressed as Viva, offers a theory that George Zinn knew what was going to happen, showed up thinking he would be a useful decoy or distraction for Tyler Robinson, and may have been on the Discord chat.",
+   "label": "Clip Speaker Theorizes George Zinn Was a Decoy Who Knew of the Plan",
+   "names": [
+    {
+     "wrong": "George Zin",
+     "right": "George Zinn",
+     "source": "https://www.sltrib.com/news/2025/09/19/george-zinn-charged-with-child-sex/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14072",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "'George Zin' is a transcription error for George Zinn (N-42). Host: 'I broke the story that the nurses were told at Utah Valley, which treated George Zin... he told the nurses that he was paid to do that.'",
+  "fix": {
+   "claim": "The host says she broke the story that the nurses at Utah Valley, which treated George Zinn, were told by him that he was paid to do it, and that everyone is ignoring the things she broke.",
+   "label": "Host Says She Broke the Story That Zinn Told Utah Valley Nurses He Was Paid",
+   "names": [
+    {
+     "wrong": "George Zin",
+     "right": "George Zinn",
+     "source": "https://www.sltrib.com/news/2025/09/19/george-zinn-charged-with-child-sex/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14073",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14074",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Megyn Kelly line falls late in the 56:50-58:29 block (~58:05); within tolerance.",
+  "fix": {}
+ },
+ {
+  "claim": "C-14075",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14076",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14077",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14078",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14079",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14080",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14081",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14082",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14083",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14084",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14085",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14086",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14087",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14088",
+  "episode": 47,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1960",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Label 'Colberg' is a transcription error for Andrew Kolvet (N-14); config maps 'Andrew Colberg' to 'Andrew Kolvet'. Claim text already says Kolvet.",
+  "fix": {
+   "label": "Kolvet X Post Attributes \"Man of Steel\" Quotation to Surgeon",
+   "names": [
+    {
+     "wrong": "Colberg",
+     "right": "Kolvet",
+     "source": "https://x.com/AndrewKolvet"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-1961",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1962",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1963",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "In the Baron Coleman clip the host plays: 'a rare call sign, very rare call sign. It's SAM000... highly sensitive... deliberately vague about the exact passenger manifest.'",
+  "fix": {}
+ },
+ {
+  "claim": "C-1964",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1965",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Coleman is not a guest: the host plays 'this longer clip of Baron Coleman' and later refers to it ('which Brian Coleman just explained') while talking with her director ('Marksplaining').",
+  "fix": {
+   "claim": "The host, showing a flight log after playing a Baron Coleman clip, says it shows an aircraft departing Las Vegas on August 26, 2025 at 3:14 p.m. under the call sign RCH658, with transponder data missing before landing at Colorado Springs."
+  }
+ },
+ {
+  "claim": "C-1966",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Coleman appears only in a played clip, not as a guest; host references it ('which Brian Coleman just explained') while showing the log.",
+  "fix": {
+   "claim": "The host, showing a flight log after playing a Baron Coleman clip, says it shows the same aircraft returning from Colorado Springs to Joint Base Andrews under the SAM658 call sign."
+  }
+ },
+ {
+  "claim": "C-1967",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Harpole: 'we started our first before that one the 24th of the month prior' (the month before the Sept 10 event); host frames it as August 24th.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1968",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Window: 'I have six photos of the inside of that vehicle... we'll show one of them'. Hospital is named earlier in the episode (~08:15, 'Timpanogos Hospital').",
+  "fix": {}
+ },
+ {
+  "claim": "C-3654",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'emailing tips' is not in the window; host: 'mommy sleuths and investigators on the ground who have been looking into this story and not accepting the feds flop. I think it's a good thing.'",
+  "fix": {
+   "claim": "The host praises \"mommy sleuths\" and investigators on the ground who have been looking into the story and not accepting the feds' account, and says she intends to partner with people doing that work."
+  }
+ },
+ {
+  "claim": "C-3758",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5185",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Label 'Colberg' is a transcription error for Andrew Kolvet (N-14). Host: 'I was told that Andrew Kolvet was allegedly flying blind when he tweeted out the conversation'.",
+  "fix": {
+   "label": "Host Says Kolvet Was Allegedly Flying Blind When He Tweeted the Surgeon Conversation",
+   "names": [
+    {
+     "wrong": "Colberg",
+     "right": "Kolvet",
+     "source": "https://x.com/AndrewKolvet"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-5186",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Label 'Colberg' is a transcription error for Andrew Kolvet (N-14). Claim text otherwise matches: 'very quickly... he tweeted out that long tweet about Superman neck'.",
+  "fix": {
+   "label": "Host Says Kolvet's Superman Neck Tweet Followed Her Remark About No Blood in Back Footage",
+   "names": [
+    {
+     "wrong": "Colberg",
+     "right": "Kolvet",
+     "source": "https://x.com/AndrewKolvet"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-5187",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5188",
+  "episode": 48,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -1851,8 +1851,8 @@
       "@type": "Claim",
       "@id": "C-1186",
       "ref": "C-1186",
-      "label": "Photo of Robinson at Dairy Queen at 6:38 p.m.",
-      "claim": "A photograph allegedly showing Tyler Robinson at a Dairy Queen roughly 15–17 minutes from UVU was circulated by locals and depicts him wearing jeans and a maroon shirt.",
+      "label": "Host Shows Photo Allegedly of Robinson at Dairy Queen at 6:38 p.m.",
+      "claim": "The host says a photo that made its way around Orem and repeatedly into her tips line is a very clear image allegedly of Tyler Robinson, allegedly taken at 6:38 p.m. at a nearby Dairy Queen about a 15–17 minute drive from UVU, and that in it he is wearing jeans and the maroon shirt.",
       "anchored_artifacts": [
         "A-1111.1"
       ],
@@ -1875,7 +1875,7 @@
       "@id": "C-1187",
       "ref": "C-1187",
       "label": "Robinson texts use word 'outfit'",
-      "claim": "The text exchange between Tyler Robinson and 'Lance' contains the word 'outfits', which the host argues is gender-marked language atypical of a male shooter.",
+      "claim": "The alleged text exchange between Tyler Robinson and 'Lance' contains the word 'outfits', which the host, following a viewer comment, argues is language a woman, not a man, would use.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10049"
@@ -2137,7 +2137,7 @@
       "@id": "C-1197",
       "ref": "C-1197",
       "label": "Local claim: gun found near chicken coop, not 'woods'",
-      "claim": "A local source told the host that the rifle was found in the backyard of someone she knows, by a chicken coop, and that although you could describe it as a wooded area, it is pretty suburban, whereas federal accounts say 'in the woods'.",
+      "claim": "A local source told the host that the rifle was found in the backyard of someone she knows, by a chicken coop, and that although you could describe it as a wooded area, it is pretty suburban, whereas the public has just been told 'in the woods'.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
@@ -2158,7 +2158,7 @@
       "@id": "C-1198",
       "ref": "C-1198",
       "label": "Host Says Locals Theorize Vacant UVU-Owned House Was Real Shooter's Refuge",
-      "claim": "The host says locals tell her, as an unproven theory, that a mysteriously vacant house next to where the gun was found is owned by Utah Valley University and is where the true shooter ran after the assassination, with Tyler Robinson instructed merely to drop off his gun as a decoy.",
+      "claim": "The host says locals tell her, as an unproven theory, that a mysteriously vacant house next to where the gun was found is owned by Utah Valley University and is where the true shooter ran after the assassination, with Tyler Robinson instructed merely to drop off his gun.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012",
@@ -2178,8 +2178,8 @@
       "@type": "Claim",
       "@id": "C-1199",
       "ref": "C-1199",
-      "label": "Sherry Steel cannot be verified in building databases",
-      "claim": "The host's team searched local databases for a 'Sherry Steel' at the apartment complex and contacted Robinson's family; no matching resident was located.",
+      "label": "Host Says She Cannot Find Sherry Steel in the Building Complex",
+      "claim": "The host says her team looked through databases for a 'Sherry Steel' at the building complex and contacted a family to see if they knew the name, and that she cannot find such a woman living there or the footage the BBC mentions.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10050"
@@ -2241,7 +2241,7 @@
       "@type": "Claim",
       "@id": "C-1202",
       "ref": "C-1202",
-      "label": "Feds pressured locals not to release footage",
+      "label": "Host Says Locals Told Her Feds Pressured Them Not to Release Footage",
       "claim": "Locals emailed the host stating that any footage they possessed was sent to federal authorities who then pressured them not to release it publicly.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2527,7 +2527,7 @@
       "@id": "C-11923",
       "ref": "C-11923",
       "label": "Host Says Congress Had to Fight to Get Pentagon 9/11 Footage Released",
-      "claim": "The host says it took a long time before the public saw any footage of the plane that hit the Pentagon on 9/11, and that she thinks someone in Congress had to fight to get footage released.",
+      "claim": "The host says it took a long time before the public saw any footage of the alleged plane that hit the Pentagon on 9/11, and that she thinks someone in Congress had to fight to get footage released.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10064",
@@ -2548,7 +2548,7 @@
       "@id": "C-11924",
       "ref": "C-11924",
       "label": "Host Says the Dairy Queen Photo Reached Her Tips Line Repeatedly",
-      "claim": "The host says the Dairy Queen photo of Tyler Robinson spread around the whole town and reached her tips line repeatedly.",
+      "claim": "The host says the Dairy Queen photo allegedly of Tyler Robinson spread around the whole town and reached her tips line repeatedly.",
       "anchored_artifacts": [
         "A-1111.1",
         "A-3174.1"
@@ -2774,8 +2774,7 @@
       "investigative_direction": "Check county voter and property records for the occupants of the parcel.",
       "transcript_snippet": "But Irwin is saying that he lives in that house, but actually we found some other steels that live in that house.",
       "mentions_person_refs": [
-        "N-73",
-        "N-78"
+        "N-73"
       ]
     },
     {
@@ -2927,7 +2926,7 @@
         "N-10050"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:core"
       ],
       "claim_timestamp": "00:19:19",
       "investigative_direction": "Check the charging document for any reference to children present at the event.",
@@ -3161,7 +3160,7 @@
       "@id": "C-11951",
       "ref": "C-11951",
       "label": "Host Says She Is Disputing Netanyahu's Narrative of Great Terms With Kirk",
-      "claim": "The host says what she and others are doing is disputing Netanyahu's narrative that he and Kirk were on great terms and that Kirk was friendly toward his invitation.",
+      "claim": "The host says what she and others are doing is disputing Netanyahu's narrative that he and Kirk were on great terms and really friendly and that he had just invited Kirk out.",
       "anchored_artifacts": [
         "A-1115.1"
       ],
@@ -3435,7 +3434,7 @@
       "@id": "C-11962",
       "ref": "C-11962",
       "label": "Host Says Netanyahu Omits That Kirk Declined the Invitation to Israel",
-      "claim": "The host says Netanyahu invited Kirk to Israel about two weeks before the assassination without mentioning that Kirk declined to go.",
+      "claim": "The host says Netanyahu keeps mentioning that he invited Kirk to Israel 'just two weeks ago' without mentioning that Kirk declined to go.",
       "anchored_artifacts": [
         "A-1115.1"
       ],
@@ -3585,7 +3584,7 @@
       "@id": "C-11968",
       "ref": "C-11968",
       "label": "PBD Clip: Speaker Says Andrew Kolvet Was There in the Room",
-      "claim": "In the PBD clip, a speaker says Bill Ackman brought receipts and that Andrew Kolvet (transcribed Kovit) was there in the room, without the clip making clear which meeting is meant.",
+      "claim": "In the PBD clip, speakers say Bill Ackman brought receipts and that Andrew Kolvet (transcribed Kovit) was there in the room, without the clip making clear which meeting is meant.",
       "anchored_artifacts": [
         "A-1116.1"
       ],
@@ -3708,7 +3707,7 @@
       "@type": "Claim",
       "@id": "C-11973",
       "ref": "C-11973",
-      "label": "Host Says Zionists Began Circling Kirk to Control Things Around the Previous September",
+      "label": "Host Says Zionists Began Circling Kirk to Control Things Around September",
       "claim": "The host says that the Zionists started circling Charlie Kirk and trying to control things around September.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3868,7 +3867,7 @@
       "@id": "C-11980",
       "ref": "C-11980",
       "label": "Host Says a Donor Demanded His Name Come Off a Turning Point Building",
-      "claim": "The host says a donor she names as a Schulman guy (transcribed) said he wanted his name off the building at Turning Point.",
+      "claim": "The host says a man she names as a Schulman guy (transcribed) said he wanted his name off the building at Turning Point.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10036",
@@ -3882,9 +3881,6 @@
       "transcript_snippet": "\"I want my name off of the building at Turning Point.\" In the 48 hours leading up to his assassination,",
       "supports_claim_refs": [
         "C-1174"
-      ],
-      "mentions_person_refs": [
-        "N-1"
       ]
     },
     {
@@ -4142,7 +4138,7 @@
       "@id": "C-11992",
       "ref": "C-11992",
       "label": "Host Relays a Commenter's Point That Robinson's Father Is More MAGA Than Ever",
-      "claim": "The host relays a commenter's point that the Robinson father has been more MAGA than ever and asks what changed to cause it.",
+      "claim": "The host mocks the narrative that the Robinson father has been more MAGA than ever and relays a commenter's question about why the dad would suddenly be more MAGA than ever and what changed to cause it.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

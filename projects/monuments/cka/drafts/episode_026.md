@@ -929,9 +929,9 @@ Aliases: Joseph Gbia
 
 **N-847** Jeffrey Moussaieff Masson
 
-First named by the host at 00:56:15 in episode 26 (transcribed "Jeffrey Mason" and "Jeffrey Mone"). Author of The Assault on Truth, whom the host cites on Freud and the Freud archives.
+First named by the host at 00:56:15 in episode 26 (transcribed "Jeffrey Masson" and "Jeffrey Masson"). Author of The Assault on Truth, whom the host cites on Freud and the Freud archives.
 
-Aliases: Jeffrey Mason; Jeffrey Mone
+Aliases: Jeffrey Masson; Jeffrey Masson
 
 *Related: C-9575, C-9576*
 
@@ -971,7 +971,7 @@ The host's statement, prompted by a viewer comment, that APAC has already taken 
 
 Claim Timestamp: 00:03:45–00:04:20
 
-Claim: A Turning Point USA email dated October 2023 shows that planning for an April 2024 campus tour was already underway approximately five to six months in advance.
+Claim: Per the October 2023 Turning Point USA email the host shows, planning for her end-of-March and early-April 2024 campus events was already in its beginning stages in October 2023.
 
 Anchored Artifacts: A-1333.1
 
@@ -1069,14 +1069,14 @@ Investigative Direction: Verify the cited Ted Cruz tweets in their original form
 
 ---
 
-**C-1605** Host Concurs with Brett Cooper on Ted Cruz
+**C-1605** Host Says Brett Cooper Is a Voice of Gen Z Who Should Be Heard
 
 Claim Timestamp: 00:20:14–00:20:30
 
-Claim: The host endorses Brett Cooper's criticism of Ted Cruz's tweet behavior.
+Claim: The host says Brett Cooper is a voice of Gen Z and that the good thing to do would be to listen to her and invite her onto a show, as Charlie Kirk did when he told them they were pushing a generation away.
 
 Anchored Artifacts: A-1336.2
-Mentions: N-106, N-222
+Mentions: N-3, N-222, N-1
 
 
 Investigative Direction: N/A – host-stance claim linked to source artifact.
@@ -1113,7 +1113,7 @@ Investigative Direction: Identify the original poster accounts and verify the or
 
 **C-1608** Brett Cooper Shawn Ryan Appearance
 
-Claim Timestamp: 00:24:28–00:25:20
+Claim Timestamp: 00:23:55
 
 Claim: The host plays a clip of Brett Cooper on the Shawn Ryan Show discussing her mother's visits to mediums, and says the visits followed the death of her twin brother.
 
@@ -1218,7 +1218,7 @@ Claim Timestamp: 00:45:19–00:46:08
 Claim: The host says that when scheduled posts resumed on Charlie Kirk's YouTube channel after the memorial event, the first post scheduled was Mikey McCoy's speech (a picture of him and his wife), with Erika Kirk's speech second.
 
 Anchored Artifacts: A-1343.1
-Mentions: N-191, N-2, N-1
+Mentions: N-191, N-2, N-1, N-218
 
 Related Nodes: N-10227
 
@@ -1430,7 +1430,7 @@ Transcript Snippet: He won pretty handily against Andrew Cuomo, which like 5 min
 Anchored Artifacts: 
 Mentions: N-224, N-844, N-3
 Related Nodes: N-11226
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check certified NYC mayoral results and the dated Republican statements about Cuomo.
 
 ---
@@ -1446,7 +1446,7 @@ Transcript Snippet: Bill gave 1.75 million and Mom Donnie won irrespective of th
 Anchored Artifacts: 
 Mentions: N-37, N-224
 Related Nodes: N-11226
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check super PAC and campaign finance filings for Ackman's contributions in the 2025 NYC mayoral race.
 
 ---
@@ -1462,7 +1462,7 @@ Transcript Snippet: He gave $8.3 million to Stop Mand Donnie and it didn't matte
 Anchored Artifacts: 
 Mentions: N-845, N-846, N-224
 Related Nodes: N-11226
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check NYC Campaign Finance Board and super PAC filings for each donor's contribution.
 
 ---
@@ -1478,7 +1478,7 @@ Transcript Snippet: given the hostility and the anti-semitism that has been uh s
 Anchored Artifacts: A-1334.1
 Mentions: N-844
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the unedited mayoral debate video and confirm which candidate gave each answer.
 
 ---
@@ -1494,7 +1494,7 @@ Transcript Snippet: I'd make my fourth trip to Israel, followed by my fifth trip
 Anchored Artifacts: A-1334.1
 Mentions: 
 Related Nodes:
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the unedited debate video to identify the candidate the transcript renders as "Mr. Tilson".
 
 ---
@@ -1510,7 +1510,7 @@ Transcript Snippet: Do you believe in a Jewish state of Israel? >> I believe Isr
 Anchored Artifacts: A-3017.1
 Mentions: N-224
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the unedited debate video and compare the exact exchange with the host's characterization.
 
 ---
@@ -1542,7 +1542,7 @@ Transcript Snippet: New York has the largest population of Jewish people of any 
 Anchored Artifacts: A-1342.1
 Mentions: N-224, N-3
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check city Jewish population estimates and the exit-poll breakdown by religion.
 
 ---
@@ -1558,7 +1558,7 @@ Transcript Snippet: you can see that Israel was a factor in a lot of these peopl
 Anchored Artifacts: A-1342.1
 Mentions: N-67
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the CNN exit poll crosstabs for the Israel-related question.
 
 ---
@@ -1638,7 +1638,7 @@ Transcript Snippet: she watched the totally deranged Tucker is not MAGA Republic
 Anchored Artifacts: 
 Mentions: N-222, N-22
 Related Nodes: N-10917
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the Republican Jewish Coalition event recording and Cooper's reaction video.
 
 ---
@@ -1654,7 +1654,7 @@ Transcript Snippet: considering you had to go through anger management classes a
 Anchored Artifacts: A-1336.1
 Mentions: N-222, N-223, N-36
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Verify Fine's handshake remark and anger-management reporting in primary sources.
 
 ---
@@ -1702,7 +1702,7 @@ Transcript Snippet: I don't know who this angry lady is, but she's missing a key
 Anchored Artifacts: A-3018.1
 Mentions: N-106, N-222, N-202
 Related Nodes: 
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Locate the Ted Cruz tweet on X and confirm its wording and date.
 
 ---
@@ -2104,7 +2104,7 @@ Claim: The host says the channel's list, read bottom to top, shows videos with C
 Transcript Snippet: So you see you've got Charlie and Ben, you've got Charlie, Charlie and Jack Posobiec, you've got Charlie, you got Charlie, and then it stops.
 
 Anchored Artifacts: A-1343.1
-Mentions: N-1, N-97, N-95, N-191
+Mentions: N-1, N-97, N-95, N-191, N-218
 Related Nodes: N-10227
 Tags: relevance:core
 Investigative Direction: Capture the channel's upload list as of the date the screenshot was taken.
@@ -2245,7 +2245,7 @@ Claim Timestamp: 00:56:15
 
 Claim: The host recommends starting with Jeffrey Masson's The Assault on Truth and a book titled Sigmund Freud in the Jewish Mystical Tradition to understand the Zionist narrative, and says to also study the early Zionist movement and Theodor Herzl's connection to Freud.
 
-Transcript Snippet: I would start with the assault on truth from by Jeffrey Mason and then move on to this most critical book uh which is Sigmund Freud in the Jewish Mystical Tradition.
+Transcript Snippet: I would start with the assault on truth from by Jeffrey Masson and then move on to this most critical book uh which is Sigmund Freud in the Jewish Mystical Tradition.
 
 Anchored Artifacts: 
 Mentions: N-847, N-50, N-848, N-3
@@ -2312,7 +2312,7 @@ Claim: The host says that because those behind the killing planned it perfectly,
 Transcript Snippet: They planned it perfectly. So this phone call and walking away is actually not what a natural person would do.
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-1
 Related Nodes: N-10226, N-10198
 Tags: relevance:core
 Investigative Direction: Obtain footage and call records for a behavioral comparison against the witness accounts.

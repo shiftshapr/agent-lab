@@ -119,7 +119,7 @@ That they uh blackmail certain people and they run drugs. Something that Kanye a
 
 [25:17]
 
-But apparently, it wasn't actually going there. Okay? They thought their money was going to train students that were going to become missionaries worldwide, but no one really exactly knew where the money was going. And this is interesting because they specifically ran a student program called Ignite. And one of those students wound up blowing the whistle on what she alleges was intentional financial fraud. That students then student's name was Ken Kenzie Kenny. Okay? She handled Potter's Fields finances. And here is what she said verbatim about how this not for profofit would pretend that they were feeding tons of kids worldwide, but actually they were having her engage in fraudulent activity. Allegedly.
+But apparently, it wasn't actually going there. Okay? They thought their money was going to train students that were going to become missionaries worldwide, but no one really exactly knew where the money was going. And this is interesting because they specifically ran a student program called Ignite. And one of those students wound up blowing the whistle on what she alleges was intentional financial fraud. That students then student's name was Kenzie Kinney. Okay? She handled Potter's Fields finances. And here is what she said verbatim about how this not for profofit would pretend that they were feeding tons of kids worldwide, but actually they were having her engage in fraudulent activity. Allegedly.
 
 [25:58]
 

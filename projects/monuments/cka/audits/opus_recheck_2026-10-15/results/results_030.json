@@ -1,0 +1,762 @@
+[
+ {
+  "claim": "C-13990",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13991",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13992",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13993",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13994",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13995",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13996",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13997",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13998",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13999",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14000",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14001",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14002",
+  "episode": 19,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1490",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1491",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1492",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'on the brink of something big and like this is our time' is the host's paraphrase ('Charlie messages me and he says'); the text she then shows reads 'I'm listening to Kanye and just running my streets. Are you ready for the war that's coming?'",
+  "fix": {
+   "claim": "The host says Charlie's April 20, 2018 evening message said he was on a run blasting Kanye West and that \"we're on the brink of something big and like this is our time.\""
+  }
+ },
+ {
+  "claim": "C-1493",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Please pick up because I was shaking' / 'I am freaking the f out' fall about 07:35-07:41 by word position; 06:20 is at the edge of the 75s window.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1494",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1495",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie ('her and Charlie's contemporaneous experience') but Mentions lacks N-1; transcript: 'Charlie said, \"Yep, we felt it, too.\"'",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-190"
+   ]
+  }
+ },
+ {
+  "claim": "C-1496",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Tweet quoted ~07:38-07:57 ('Kanye sent this now infamous tweet. I love the way Candace Owens thinks'); date follows from 'the evening before' = April 20.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1497",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Scott Adams clip ('Let's take a listen to what Scott Adams said') starts ~08:41; 'ripped a hole in reality' ~08:50, 'mental prison' ~10:11. 07:00 is ~100s early.",
+  "fix": {
+   "timestamp": "00:08:40"
+  }
+ },
+ {
+  "claim": "C-1498",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Q&A audio ('Yeah, I agree. I I actually don't have any problems') starts ~18:04; 'national socialist' ~18:26, 'He wanted to globalize' ~18:37. 14:35 is ~3.5 min early.",
+  "fix": {
+   "timestamp": "00:18:00"
+  }
+ },
+ {
+  "claim": "C-1499",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Kolvet clip starts ~40:50 ('Here's the last thing'); 'If anything ever happens to me, you call Erika' ~40:58, within 75s of 39:46.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1500",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'He was taking social videos which he would send to our group chat' ~41:20 by word position, ~94s after 39:46.",
+  "fix": {
+   "timestamp": "00:41:12"
+  }
+ },
+ {
+  "claim": "C-1501",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'Alex Marlow, who runs Breitbart News, was their guest for the day on the show' (the TPUSA/Charlie Kirk show), not Breitbart audio. Marlow says 'social media stuff is addictive or ... pornography'; 'drug addicts' is the host's gloss.",
+  "fix": {
+   "claim": "In a clip the host plays from the Charlie Kirk show, Breitbart News head Alex Marlow characterizes the suggestion that Mikey McCoy was part of a conspiracy to murder Charlie as \"vile\" and likens the mindset fueling such claims to social-media or pornography addiction, saying they get a high off it."
+  }
+ },
+ {
+  "claim": "C-1502",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1503",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Message ('Hi all. There was a media event that took place today...') read ~34:33; 32:30 is ~2 min early. No date stated; host says 'text that we received at 2008 p.m.'; Jacob Blank is the sender ('Deborah and myself'). Host later corrects UVU to Utah Valley Hospital.",
+  "fix": {
+   "claim": "Host displays a hospital internal message (received per host at 20:08; she later says she meant Utah Valley Hospital, not UVU) stating that, due to a media event that led to a trauma patient, only \"Deborah\" and the sender, \"Jacob Blank,\" are allowed in the chart.",
+   "timestamp": "00:34:15"
+  }
+ },
+ {
+  "claim": "C-1504",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "One staff email, not 'tipsters ... confirmed': 'we received an email from somebody in the medical staff at UVU saying I'm certain that he was here'. Hedge dropped: 'There could be a logical answer. I have not stumbled upon it yet.'",
+  "fix": {
+   "claim": "The host says she received tips that Charlie was at UVU and an email from someone on the UVU medical staff saying they were certain he was there, with his entry in the UVU system and an internal message restricting access to the file (A-1278.1), while saying there could be a logical explanation she has not found; she later corrects UVU to Utah Valley Hospital."
+  }
+ },
+ {
+  "claim": "C-1505",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie ('guiding Charlie toward...'); Mentions lacks N-1. Webb clip: 'He is kind of the NAR push for Charlie.'",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-17",
+    "N-197",
+    "N-199"
+   ]
+  }
+ },
+ {
+  "claim": "C-1506",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Webb ties Charlie, not Rob McCoy, to Ziklag: 'He is kind of the NAR push for Charlie. Charlie was meeting with NAR... The Ziklag was the name of the organization.' Ziklag ~25:08, ~98s after 23:30. N-1 missing.",
+  "fix": {
+   "claim": "In a clip the host plays, George Webb says Rob McCoy is \"kind of the NAR push for Charlie,\" that Charlie was meeting with NAR, and that NAR were the \"$25 million and above\" Christian-right donors, the organization being Ziklag.",
+   "timestamp": "00:24:50",
+   "mentions": [
+    "N-1",
+    "N-17",
+    "N-199"
+   ]
+  }
+ },
+ {
+  "claim": "C-1507",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'on the tax forms, the French tax forms um Brigitte is listed as Jean Michelle' ~57:05, about 25s before the 57:30 timestamp (content precedes timestamp by more than 20s).",
+  "fix": {
+   "timestamp": "00:57:00"
+  }
+ },
+ {
+  "claim": "C-1508",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1509",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1510",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1511",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1512",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host hedges only the Air Force: 'can't confirm that entirely' but says 'he also for a fact is a pilot'. Claim puts pilot under the hedge.",
+  "fix": {
+   "claim": "The host says the doctor who worked on Charlie was Dr. Lee Trotter, who did his residency at Keesler Air Force Base's medical center in Mississippi, that she thinks he might be in the Air Force though she cannot confirm it entirely, and that a person matching him is for a fact a pilot."
+  }
+ },
+ {
+  "claim": "C-1513",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12146",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12147",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12148",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12149",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12150",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12151",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12152",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12153",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12154",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12155",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12156",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12157",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12158",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12159",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12160",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12161",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12162",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12163",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12164",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12165",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12166",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12167",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-12168",
+  "episode": 20,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -821,7 +821,7 @@ Investigative Direction: Pull Candlewood Suites Fort Huachuca guest log for Sept
 
 Claim Timestamp: 00:18:57–00:20:14
 
-Claim: Harry states he entered a temporary JTF-Southern Border headquarters at approximately 7:37 AM on September 9, 2025, immediately following the conclusion of a high-level meeting.
+Claim: The host says Harry told her he entered a temporary JTF-Southern Border headquarters at approximately 7:37 AM on September 9, 2025, immediately following the conclusion of a high-level meeting.
 
 Anchored Artifacts: A-1519.2
 Mentions: N-319
@@ -836,7 +836,7 @@ Investigative Direction: Cross-reference base access logs and incident report 86
 
 Claim Timestamp: 00:20:14–00:34:46
 
-Claim: Harry states approximately 12–13 E5/E6-grade officers (lieutenant colonels and colonels) were present in the meeting he walked into; host later confirms correction that the ranks are E5/E6 colonels and lieutenant colonels.
+Claim: The host says Harry told her he saw about 12 lieutenant colonels as the meeting he walked in on was concluding; later, after viewers in the chat corrected her that the ranks should be E5s and E6s, she says Harry described lieutenant colonels and colonels and estimates 12 to 13 were in the meeting.
 
 Anchored Artifacts: A-1519.2
 Mentions: N-319
@@ -851,7 +851,7 @@ Investigative Direction: Verify through FOIA of incident report 861-1-2025-MPC44
 
 Claim Timestamp: 00:20:14–00:22:18
 
-Claim: Harry states he identified Brian Harpole as one of the men exiting the JTF-SB meeting on September 9, 2025; Harry did not recognize him at the time and only identified him after Charlie Kirk's assassination made him publicly visible.
+Claim: The host, saying 'allegedly' because she was not there, says Harry told her he is certain that Brian Harpole was one of the men exiting the JTF-SB meeting on September 9, 2025; Harry did not recognize him at the time and remembers him because of Charlie Kirk's assassination.
 
 Anchored Artifacts: A-1519.2
 Mentions: N-267, N-319, N-1
@@ -864,9 +864,9 @@ Investigative Direction: FOIA incident report 861-1-2025-MPC446 for visitor/atte
 
 **C-1888** Host Says Harry Reports a "Captain Nef" Conducted a 7-Hour Interrogation of Him at Fort Huachuca on September 9, 2025
 
-Claim Timestamp: 00:22:18–00:24:56
+Claim Timestamp: 00:21:39
 
-Claim: The host says Harry told her that, after he entered the temporary JTF headquarters and saw men come out of the meeting, two captains escorted him out of the building and began a 7-hour interrogation accusing him of being a bomb threat and a spy and trying to cast him as a threat to others or himself, and that the interrogator Harry identifies as "Captain Nef" was approximately 36 years old with brown hair and was commander of force protection.
+Claim: The host says Harry told her that, after he entered the temporary JTF headquarters and saw men come out of the meeting, two captains escorted him out of the building and began a 7-hour interrogation accusing him of being a bomb threat and a spy and trying to cast him as a threat to others or himself, and that the interrogator Harry identifies as "Captain Nef" was approximately 36 years old with brown hair and was, best Harry could tell, commander of force protection.
 
 Anchored Artifacts: A-1519.2
 Mentions: N-319, N-320
@@ -993,8 +993,8 @@ Investigative Direction: Check police reports or public statements for the shoot
 
 **C-3653** Host urges viewers to become DCIA units in their own communities
 
-Claim Timestamp: 00:53:18
-Claim: The host urges viewers to "become our own little CIA units or DCIA units in our own communities and share information," framing the audience as local Decentralized Intelligence Agency cells because the government cannot be trusted to protect them.
+Claim Timestamp: 00:54:37
+Claim: The host urges viewers to "become our own little CIA units or DCIA units in our own communities and share information," because the government cannot be trusted to take care of them.
 Transcript Snippet: ...ow, we need to become our own little CIA units or DCIA units in our own communities and share information. And yeah, I I hope that's what we are pioneerin...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1175,7 +1175,7 @@ Transcript Snippet: In just 6 days, I planted sensors, translated data, and uh s
 Anchored Artifacts: A-1519.1
 Mentions: N-319
 Related Nodes: N-10328, N-11283
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain JTF-6 operation records and Border Patrol Douglas Station files for the 1990 tunnel to check the six-day timeline and who supplied the warrant information.
 
 ---
@@ -1191,7 +1191,7 @@ Transcript Snippet: which avoided tipping off any compromised commanders um that
 Anchored Artifacts: A-1519.1
 Mentions: N-319
 Related Nodes: N-10328, N-11283
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Search court records for the warrant application, the issuing magistrate and affiant, and any later prosecution or discipline of JTF-6 or Border Patrol commanders.
 
 ---
@@ -1504,7 +1504,7 @@ Investigative Direction: Ask Harry for a photo lineup of the central figure; com
 
 Claim Timestamp: 00:21:30
 
-Claim: The host says Harry told her the check-in officers were friendly and offered help, and that only after the man he believes was Brian Harpole left did someone hit the panic button and two captains escort him out.
+Claim: The host says Harry told her the check-in officers were friendly and offered help, and that only after the man he believes was Brian Harpole came out did someone hit the panic button and two captains escort him out.
 
 Transcript Snippet: Suddenly somebody hits the panic button and two captains come out and they escort him out of the building
 
@@ -1980,7 +1980,7 @@ Transcript Snippet: for the love of God, please send us an email more tips@cando
 Anchored Artifacts: A-3116.2
 Mentions: N-3, N-321
 Related Nodes: N-10330
-Tags: relevance:core, dia_beat
+Tags: dia_beat, relevance:context
 Investigative Direction: Track tips received at the address and what was verified from them.
 
 ---
@@ -2028,7 +2028,7 @@ Transcript Snippet: So again, if you know something, please email us more tips a
 Anchored Artifacts: A-3116.3
 Mentions: N-3, N-321
 Related Nodes: N-10330
-Tags: relevance:core, dia_beat
+Tags: dia_beat, relevance:context
 Investigative Direction: Track tips received at the address and what was verified from them.
 
 ---

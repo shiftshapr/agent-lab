@@ -1274,7 +1274,7 @@
       "@id": "C-1521",
       "ref": "C-1521",
       "label": "Host Says Trump Established October 14 as a National Day of Remembrance for Charlie Kirk",
-      "claim": "The host says President Trump signed into law or otherwise established October 14 - Charlie Kirk's birthday - as a national day of remembrance for Charlie Kirk.",
+      "claim": "The host says that for Charlie's birthday President Trump established a holiday, deciding that October 14 - Charlie Kirk's birthday - would be a national day of remembrance for Charlie Kirk.",
       "anchored_artifacts": [
         "A-1289.1"
       ],
@@ -1292,7 +1292,7 @@
       "@id": "C-1522",
       "ref": "C-1522",
       "label": "Don Trump Jr. Expressed Confidence in the FBI Kirk Investigation in a Megyn Kelly Interview",
-      "claim": "In a Megyn Kelly interview, Donald Trump Jr. stated that he had confidence in the FBI's investigation into Charlie Kirk's death.",
+      "claim": "In a clip of a Megyn Kelly interview the host plays, Donald Trump Jr., asked whether he has confidence in the FBI investigation into Charlie Kirk's death, says after some hesitation ('I mean, I don't know') that he does have confidence.",
       "anchored_artifacts": [
         "A-1287.1"
       ],
@@ -1311,7 +1311,7 @@
       "@id": "C-1523",
       "ref": "C-1523",
       "label": "Don Trump Jr. Initially Deflected Before Being Pressed and Expressing Confidence",
-      "claim": "In the same Megyn Kelly interview, Don Trump Jr. did not directly answer the first question about confidence in the FBI investigation, pivoting to remarks about continuing Kirk's work; only after Kelly re-asked the question did he state that he had confidence.",
+      "claim": "In a clip of the Megyn Kelly interview the host plays, Don Trump Jr., asked how he feels about the investigation into Charlie's death, says \"so far so good\" and turns to continuing Kirk's work; when Kelly asks again whether he has confidence in the FBI investigation, he says \"I I do, you know, and I I I mean, I don't know,\" then that he does have confidence. The host says he did his best not to answer the question.",
       "anchored_artifacts": [
         "A-1287.1"
       ],
@@ -1597,7 +1597,7 @@
       "@id": "C-6522",
       "ref": "C-6522",
       "label": "Host Says the Feds Probably Killed Martin Luther King Jr.",
-      "claim": "The host says that when the feds line up to give someone a holiday it is never good, and that she thinks the feds definitely killed Martin Luther King Jr.",
+      "claim": "The host says that when the feds line up to give someone a holiday it is never good, and that she thinks maybe the feds definitely killed Martin Luther King Jr.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1900,7 +1900,7 @@
       "@id": "C-6536",
       "ref": "C-6536",
       "label": "Don Jr. Says He Has Spoken to Erika and Others and Does Have Confidence",
-      "claim": "In the Megyn Kelly clip Don Jr. says he has spoken to everyone around, including Erika, and that he does have confidence in the FBI investigation.",
+      "claim": "In the Megyn Kelly clip Don Jr. says, after 'I mean, I don't know', that he has spoken to everyone around, including Erika, and that he does have confidence in the FBI investigation.",
       "anchored_artifacts": [
         "A-1287.1"
       ],

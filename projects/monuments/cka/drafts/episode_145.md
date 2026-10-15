@@ -335,7 +335,7 @@ Investigative Pressure: Medium
 ### Existing Nodes Reused
 
 - N-1 Charlie Kirk
-- N-2 Erica Kirk (host uses "Erika" spelling in this episode)
+- N-2 Erika Kirk (host uses "Erika" spelling in this episode)
 - N-3 Candace Owens
 
 **N-1** Charlie Kirk
@@ -2168,7 +2168,7 @@ Confidence: high
 
 - **Name uncertainty:** Host uses the name "Mat Nuclear" for a Daily Wire personality; legal name not provided. May be a stage name, nickname, or transcription artifact.
 - **Artifact verbally referenced but not shown (A-2312.1, A-2316.1, A-2318.1):** The NCRI report, the Bill Ackman promotion, and the TPUSA tour announcement are described by the host but not visibly displayed in the available source.
-- **Possible transcription error:** Host uses both "Erica" and "Erika" when referring to Erika Kirk; preserved as "Erika" per this episode's transcript; existing node is N-2 Erica Kirk.
+- **Possible transcription error:** Host uses both "Erica" and "Erika" when referring to Erika Kirk; preserved as "Erika" per this episode's transcript; existing node is N-2 Erika Kirk.
 - **Claim failed admission test:** Host assertion that "he had texted multiple people on September 9th saying that he wanted me back" is recorded as investigation target N-10816 but not as an artifact-anchored claim in this episode.
 
 ---

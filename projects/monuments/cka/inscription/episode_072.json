@@ -1022,7 +1022,7 @@
       "ref": "N-546",
       "name": "Tracy Martin",
       "type": "person",
-      "description": "Erica Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
+      "description": "Erika Kirk's stated best friend for over 15 years; subject of investigative threads regarding her husband Thomas Martin and her daughter.",
       "related_artifacts": [],
       "related_claims": [
         "C-10059",
@@ -1044,7 +1044,7 @@
       "ref": "N-554",
       "name": "Tracy Martin's Daughter (Unnamed)",
       "type": "person",
-      "description": "Allegedly Erica Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
+      "description": "Allegedly Erika Kirk's assistant; reportedly scheduled to attend UVU on September 10, 2025.",
       "related_artifacts": [],
       "related_claims": [
         "C-10062",
@@ -1836,7 +1836,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10428",
       "ref": "N-10428",
-      "name": "Erica Kirk China Timeline Discrepancy",
+      "name": "Erika Kirk China Timeline Discrepancy",
       "type": "investigation_target",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -2254,7 +2254,7 @@
         "N-10501"
       ],
       "tags": [],
-      "claim_timestamp": "00:31:35",
+      "claim_timestamp": "00:31:08",
       "investigative_direction": "Verify license issuance and expiration dates against New York Department of State records.",
       "mentions_person_refs": [
         "N-2"
@@ -2265,7 +2265,7 @@
       "@id": "C-2354",
       "ref": "C-2354",
       "label": "Tyler Bowyer Recounted Erika Kirk's Introduction to TPUSA at Memorial",
-      "claim": "Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Arizona 2012) called him offering to help, leading to a TPUSA role, and that Charlie Kirk wanted to date her.",
+      "claim": "Tyler Bowyer stated at Charlie Kirk's memorial that Erika Kirk (Miss Arizona 2012) called him offering to help, that he wanted to hire her for a TPUSA job, and that Charlie Kirk wanted to date her.",
       "anchored_artifacts": [
         "A-1766.1"
       ],
@@ -3055,7 +3055,7 @@
       "@id": "C-10082",
       "ref": "C-10082",
       "label": "Host Says Her Person Confirmed the Text Was Sent by iMessage From Flood's Phone",
-      "claim": "The host says she then confirmed with her person that the message was sent from Dan Flood's phone, by iMessage and not Telegram, so that Erika lied to her twice.",
+      "claim": "The host says she then confirmed with her person that the message on Dan Flood's phone was sent by iMessage and not Telegram, so that Erika lied to her twice.",
       "anchored_artifacts": [
         "A-3050.3"
       ],
@@ -3510,8 +3510,7 @@
       "investigative_direction": "Identify the TikToker and obtain the messages from the investigators.",
       "transcript_snippet": "it was private investigators asking how I found this information, asking me to send them links.",
       "mentions_person_refs": [
-        "N-561",
-        "N-2"
+        "N-561"
       ]
     },
     {
@@ -3956,7 +3955,7 @@
       "@type": "Claim",
       "@id": "C-10122",
       "ref": "C-10122",
-      "label": "Host Says Lich's Husband or Fiance Was Also Fired From TPUSA",
+      "label": "Host Says Laitsch's Husband or Fiance Was Also Fired From TPUSA",
       "claim": "The host says Laitsch's husband or fiance was also fired from Turning Point USA, apparently because he is going to marry her.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3977,7 +3976,7 @@
       "@type": "Claim",
       "@id": "C-10123",
       "ref": "C-10123",
-      "label": "Host Says the Man Photographing Lich's Home Delivered No Documents",
+      "label": "Host Says the Man Photographing Laitsch's Home Delivered No Documents",
       "claim": "The host says the man photographing the Laitsch home and car, who gave his name as Mike and said a legal firm asked him, had no documents in his hand and delivered nothing, which she says is not what happens when documents are served.",
       "anchored_artifacts": [
         "A-1771.1"

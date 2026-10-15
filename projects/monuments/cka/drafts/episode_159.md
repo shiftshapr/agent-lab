@@ -1489,7 +1489,7 @@ Topic for the August 24 strike exercise named by the host.
 
 ---
 
-**N-10412** Erica Kirk June 19 Instagram Purge
+**N-10412** Erika Kirk June 19 Instagram Purge
 
 Topic for the 126 deleted posts.
 

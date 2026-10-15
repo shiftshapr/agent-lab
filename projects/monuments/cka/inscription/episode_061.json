@@ -237,7 +237,7 @@
           "@type": "Artifact",
           "@id": "A-1668.1",
           "ref": "A-1668.1",
-          "description": "Host's verbal account of a donor present at the Aspen event who recalls Charlie Kirk saying, in effect, that if something happened, Erica Kirk would \"know what to do\"",
+          "description": "Host's verbal account of a donor present at the Aspen event who recalls Charlie Kirk saying, in effect, that if something happened, Erika Kirk would \"know what to do\"",
           "related_claims": [
             "C-2181"
           ],
@@ -550,7 +550,7 @@
       "ref": "N-15",
       "name": "Justin Streiff",
       "type": "person",
-      "description": "TPUSA executive reported by host as participating in a sit-down with Owens and Erica Kirk to discuss Owens's allegations. First-name spelling uncertain.",
+      "description": "TPUSA executive reported by host as participating in a sit-down with Owens and Erika Kirk to discuss Owens's allegations. First-name spelling uncertain.",
       "related_artifacts": [
         "A-1661.1"
       ],
@@ -718,7 +718,7 @@
       "ref": "N-10437",
       "name": "Aspen Donor Recall Verification",
       "type": "investigation_target",
-      "description": "Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erica Kirk as someone who would \"know what to do\" if something happened.",
+      "description": "Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erika Kirk as someone who would \"know what to do\" if something happened.",
       "related_artifacts": [
         "A-1668.1"
       ],
@@ -1476,7 +1476,7 @@
       "@id": "C-2160",
       "ref": "C-2160",
       "label": "TPUSA alleges Owens accused employee of evasiveness re Erika Kirk at \"Fort Huachuca\"",
-      "claim": "The TPUSA letter alleges that Owens accused a TPUSA employee of being \"intentionally evasive\" about whether Erica Kirk was at \"Fort Huachuca\" in or around an alleged secret meeting Owens has linked to the assassination.",
+      "claim": "The TPUSA letter alleges that Owens accused a TPUSA employee of being \"intentionally evasive\" about whether Erika Kirk was at \"Fort Huachuca\" in or around an alleged secret meeting Owens has linked to the assassination.",
       "anchored_artifacts": [
         "A-1661.1"
       ],
@@ -1653,7 +1653,7 @@
       "@type": "Claim",
       "@id": "C-2169",
       "ref": "C-2169",
-      "label": "Owens states her TPUSA speaking contract was terminated December 2, 2025",
+      "label": "TPUSA Letter States Owens's Agreements Were Terminated December 2, 2025",
       "claim": "The host reads the TPUSA letter, which states that Owens's agreements with TPUSA were terminated on December 2, 2025.",
       "anchored_artifacts": [
         "A-1661.1"
@@ -1860,7 +1860,7 @@
       "@id": "C-2180",
       "ref": "C-2180",
       "label": "TPUSA reportedly fired approximately 40 (or 15) employees for leaking information",
-      "claim": "The top viewer comment from the prior episode states TPUSA \"fired 40 people for leaking info but kept the head of security after the biggest possible failure\"; Owens partially corroborates and revises the figure to approximately 15.",
+      "claim": "A viewer comment the host reads says TPUSA \"fired 40 people for leaking info but kept the head of security after the biggest possible failure\"; the host says she did not hear it was 40 but heard it was a lot of people, and that it sounded like 15.",
       "anchored_artifacts": [
         "A-1667.1"
       ],
@@ -1871,7 +1871,7 @@
       "claim_timestamp": "00:58:55",
       "investigative_direction": "Verify the firings count through internal TPUSA communications or reporting; identify which positions were terminated.",
       "mentions_person_refs": [
-        "N-1"
+        "N-3"
       ]
     },
     {
@@ -1879,7 +1879,7 @@
       "@id": "C-2181",
       "ref": "C-2181",
       "label": "Aspen Donor Recalls Charlie Kirk Referencing Erika Kirk as Someone Who Would \"Know What to Do\"",
-      "claim": "An unnamed donor present at the Aspen event reportedly recalls Kirk referencing Erica Kirk by saying that if something happened, she would know what to do.",
+      "claim": "The host says an unnamed donor present at the Aspen event recalls Charlie Kirk mentioning Erika Kirk, saying that if something happened, Erika would know what to do.",
       "anchored_artifacts": [
         "A-1668.1"
       ],
@@ -2390,7 +2390,7 @@
       "@id": "C-11134",
       "ref": "C-11134",
       "label": "Host says she has barely covered TPUSA's finances",
-      "claim": "The host says she is not saying TPUSA's charitable spending is improper, that 'we've barely covered their finances,' and that she thinks what TPUSA wants is people's money.",
+      "claim": "The host says she is not saying TPUSA spends only one cent of each dollar on its stated purpose, that 'we've barely covered their finances,' and that she thinks what TPUSA wants is people's money.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10433",

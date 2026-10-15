@@ -1197,11 +1197,11 @@ Investigative Direction: Watch for Project Constitution's promised release and v
 
 ---
 
-**C-5182** Project Constitution Chat Comment Says the BTU and BTT Mix-Up Still Connects the Two Planes
+**C-5182** Host Tells Project Constitution the BTU and BTT Mix-Up Still Connects the Two Planes
 
 Claim Timestamp: 00:42:35
 
-Claim: In the chat comment the host reads, Project Constitution says he thought the host had taken BTU for BTT and that this is fine since it connects the two planes at the very least.
+Claim: The host tells Project Constitution, who is in the chat, that she hopes he was okay with her editing his post on air, that she thinks he took BTU for BTT, and that this is fine since now they can connect the two planes at the very least.
 
 Transcript Snippet: I think you thought BTU uh was BTT, but that's actually okay because now we can connect those two planes at the very least.
 

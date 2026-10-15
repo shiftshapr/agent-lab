@@ -35,7 +35,7 @@
   - Claim Range: C-3426–C-3444, C-3746
   - New Nodes Introduced: N-10827, N-10829, N-10830
   - Reused Nodes Appearing: N-11, N-507, N-247, N-3, N-60, N-367, N-607, N-613, N-10000, N-10014, N-10040, N-10043, N-10100, N-10104, N-10107, N-10164, N-10172, N-10398, N-10416, N-10447, N-10537, N-10573, N-10651, N-10699, N-10737, N-10797, N-10810, N-10900, N-10925, N-10974, N-11053, N-900, N-10828, N-11310
-  - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harreff, Tyler Robinson, Terryl Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
+  - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erika Kirk, Frank Turek, Brian Harpole, Blake Harreff, Tyler Robinson, Terryl Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
 ---
 
@@ -184,7 +184,7 @@ Confidence: high
 
 Episode 151 is a multi-segment episode anchored on the one-year anniversary of the September 10, 2025 event. The episode presents several new artifact families: enhanced footage of a figure (alleged to be Tyler Robinson) walking, texting, and bending the right foot; enhanced footage of Terryl Farnsworth in a Mercedes Sprinter van working on a laptop at approximately 1:00 PM; the Frank Turek / Jeremy Boreing interview segment (with overlaid Bobby Sausalito commentary) addressing the Frank Turek–Brian Harpole CPR discrepancy; and Alex Clark's trailer dropped on 9/10 invoking 2 Timothy 3:6-7 against Candace Owens.
 
-The episode also registers a cluster of Turning Point USA and adjacent social-media artifacts posted in response to the alleged September 13, 2026 vandalism of a Charlie Kirk statue at TPUSA headquarters, including statements from Andrew Kolvet, Tyler Bowyer, and Erica Kirk that pivot toward fundraising via TP Action's Commit 100 / ballot-chasing program. Candace rejects the partisan attribution and the fundraising pivot, and demands the release of on-campus surveillance footage.
+The episode also registers a cluster of Turning Point USA and adjacent social-media artifacts posted in response to the alleged September 13, 2026 vandalism of a Charlie Kirk statue at TPUSA headquarters, including statements from Andrew Kolvet, Tyler Bowyer, and Erika Kirk that pivot toward fundraising via TP Action's Commit 100 / ballot-chasing program. Candace rejects the partisan attribution and the fundraising pivot, and demands the release of on-campus surveillance footage.
 
 Investigatively, the episode advances three open threads: (1) the Farnsworth timeline and alleged post-event digital activity; (2) the CPR discrepancy and Frank Turek's shifting characterization of his own account; (3) emerging Timpanogos Hospital allegations, including a still-unnamed doctor said to have recused himself and a nurse-claim that a chest saw was requested. None of the Timpanogos medical claims is anchored to a displayed artifact in this episode; they are flagged for verification.
 
@@ -220,9 +220,9 @@ Confidence Level: High
 
 ---
 
-### A-2364 Erica Kirk Statue Tweet (read aloud)
+### A-2364 Erika Kirk Statue Tweet (read aloud)
 
-**A-2364.1** Erica Kirk tweet asserting that Charlie said "we should be building two statues for every statue that they tear down," that "they think spray paint can obscure his legacy," invoking Jesus Christ / "God will not be mocked," and calling to "clean up the mess and restore Charlie's statue and keep building."
+**A-2364.1** Erika Kirk tweet asserting that Charlie said "we should be building two statues for every statue that they tear down," that "they think spray paint can obscure his legacy," invoking Jesus Christ / "God will not be mocked," and calling to "clean up the mess and restore Charlie's statue and keep building."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -264,7 +264,7 @@ Confidence Level: High
 
 ### A-2367 Blake Neff Vanity Fair Bookmark (referenced X interaction)
 
-**A-2367.1** Blake Neff bookmark of Candace Owens' tweet predicting Erica Kirk Vanity Fair spread with children, after Candace had written "Save this tweet. It will age well."
+**A-2367.1** Blake Neff bookmark of Candace Owens' tweet predicting Erika Kirk Vanity Fair spread with children, after Candace had written "Save this tweet. It will age well."
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -883,11 +883,11 @@ The host's remark that rumors circulate that Erika Kirk is stepping down from TP
 
 ## V. Claim Register
 
-**C-3426** Erica Kirk tweet on building two statues
+**C-3426** Erika Kirk tweet on building two statues
 
 Claim Timestamp: 00:41:43
 
-Claim: Erica Kirk posted a tweet invoking Charlie's purported "build two statues" line, framing the alleged statue vandalism as spiritual persecution and calling for restoration of the statue.
+Claim: Erika Kirk posted a tweet invoking Charlie's purported "build two statues" line, framing the alleged statue vandalism as spiritual persecution and calling for restoration of the statue.
 
 Anchored Artifacts: A-2364.1
 Mentions: N-2
@@ -926,7 +926,7 @@ Investigative Direction: Pull original tweet; verify which "neighboring building
 
 Claim Timestamp: 00:45:08
 
-Claim: Blake Neff bookmarked Candace Owens's tweet predicting an Erica Kirk Vanity Fair spread with the children ("Save this tweet. It will age well"), and Candace states she has since been contacted by Vanity Fair for comment.
+Claim: Blake Neff bookmarked Candace Owens's tweet predicting an Erika Kirk Vanity Fair spread with the children ("Save this tweet. It will age well"), and Candace states she has since been contacted by Vanity Fair for comment.
 
 Anchored Artifacts: A-2367.1
 Mentions: N-2, N-3, N-160
@@ -1090,7 +1090,7 @@ Investigative Direction: Obtain original footage timestamps; review phone extrac
 
 Claim Timestamp: 00:37:35–00:43:46
 
-Claim: The host says TPUSA and affiliated accounts (Andrew Kolvet, Erica Kirk, Tyler Bowyer) characterized the statue as having been vandalized with red paint, in some accounts crossing out the name of Jesus Christ, on or about the early morning of September 13, 2026; she plays a clip in which Andrew Kolvet discusses the act of vandalism.
+Claim: The host says TPUSA and affiliated accounts (Andrew Kolvet, Erika Kirk, Tyler Bowyer) characterized the statue as having been vandalized with red paint, in some accounts crossing out the name of Jesus Christ, on or about the early morning of September 13, 2026; she plays a clip in which Andrew Kolvet discusses the act of vandalism.
 
 Anchored Artifacts: A-2363.1, A-2364.1, A-2365.1, A-2366.1, A-2373.1
 Mentions: N-11, N-14, N-2
@@ -1893,7 +1893,7 @@ Investigative Direction: Find witnesses or messages in which Kirk questioned TPU
 
 ## VI. Optional Flags
 
-- Name uncertainty: "Blake Harreff" vs "Blake Harreff" used inconsistently within the same segment; "Temponogus Hospital" / "Timpanogos" / "Tempenogo PD" appear interchangeably; "Erica Kirk" vs "Erika Kirk" used interchangeably by host.
+- Name uncertainty: "Blake Harreff" vs "Blake Harreff" used inconsistently within the same segment; "Temponogus Hospital" / "Timpanogos" / "Tempenogo PD" appear interchangeably; "Erika Kirk" vs "Erika Kirk" used interchangeably by host.
 - Artifact verbally referenced but not shown: the Timpanogos nurse's email regarding a chest saw request; the viewer emails identifying the matching security-detail shoes as electrical-hazard models; the unnamed doctor's recusal referenced as carry-over from prior episode; the original SD-card / thumb-drive chain-of-custody record.
 - Transcript ambiguity: host repeatedly references "agencies" and "the feds" without specifying FBI vs ATF vs other; "SBI" referenced in prior episodes – not re-identified in this episode.
 - Requires human verification: timestamps on displayed footage (e.g., ~11:53 AM, ~1:00 PM) are host characterizations; provenance and metadata of the "enhanced" footage was not disclosed in this episode.

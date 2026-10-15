@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-Episode 30 centers on three documentary threads tied to artifact presentations. First, the host plays Megyn Kelly's tour Q&A clip in which Megyn publicly corrects Ben Shapiro's claim that Candace had accused Erica Kirk of murder, and presents Megyn's backstage video in which Charlie Kirk is heard saying "Go Max" to Tucker Carlson prior to his Student Action Summit speech. Second, the host plays a Frank Turek interview segment identifying the previously anonymous "old man talking to a bush" pre-event as Butch Hibbs, brother of Pastor Jack Hibbs, and presents a photograph of Hibbs with Kirk taken approximately twenty minutes before the shooting. Third, the host reads directly from the Alexis Wilkins lawsuit against Elijah Schaefer, citing a September 14, 2025 Hen Mazig X post and a Schaefer response photograph as the underlying basis of the $5 million action.
+Episode 30 centers on three documentary threads tied to artifact presentations. First, the host plays Megyn Kelly's tour Q&A clip in which Megyn publicly corrects Ben Shapiro's claim that Candace had accused Erika Kirk of murder, and presents Megyn's backstage video in which Charlie Kirk is heard saying "Go Max" to Tucker Carlson prior to his Student Action Summit speech. Second, the host plays a Frank Turek interview segment identifying the previously anonymous "old man talking to a bush" pre-event as Butch Hibbs, brother of Pastor Jack Hibbs, and presents a photograph of Hibbs with Kirk taken approximately twenty minutes before the shooting. Third, the host reads directly from the Alexis Wilkins lawsuit against Elijah Schaefer, citing a September 14, 2025 Hen Mazig X post and a Schaefer response photograph as the underlying basis of the $5 million action.
 
 The episode also introduces several unanchored investigative threads (UVU outdoor venue selection timeline, Mikey McCoy first name, TPUSA Faith / Calvary Chapel military pipeline pattern, Timpanogos vs. Utah Valley Hospital record-sharing systems, TPUSA email-tracking software claim) which are recorded as investigation target nodes rather than claims because no in-episode artifact anchors them. A Kanye West "Defcon 3" tweet is read aloud and is recorded as a standalone artifact per the read/display rule.
 
@@ -32,7 +32,7 @@ The episode also introduces several unanchored investigative threads (UVU outdoo
 
 **A-1379** Megyn Kelly Tour Q&A Bundle
 
-**A-1379.1** Megyn Kelly Tour Q&A clip in which audience member "Joshua" asks why she looked uncomfortable during Ben Shapiro's appearance and Megyn Kelly responds that she has since learned Candace has not accused Erica Kirk of murder and has been defending her.
+**A-1379.1** Megyn Kelly Tour Q&A clip in which audience member "Joshua" asks why she looked uncomfortable during Ben Shapiro's appearance and Megyn Kelly responds that she has since learned Candace has not accused Erika Kirk of murder and has been defending her.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -302,7 +302,7 @@ Investigative Pressure: Medium
 
 **N-97** Ben Shapiro
 
-Subject of Megyn Kelly's on-stage correction and Dave Rubin's "bravery" characterization; alleged to have falsely told Kelly's audience that Candace accused Erica Kirk of murder.
+Subject of Megyn Kelly's on-stage correction and Dave Rubin's "bravery" characterization; alleged to have falsely told Kelly's audience that Candace accused Erika Kirk of murder.
 
 Evidence Count: 2
 Claim Count: 2
@@ -907,11 +907,11 @@ Persistent target: the host's unnamed female donor who allegedly yelled at Charl
 
 ## 5. Claim Register
 
-**C-1667** Ben Shapiro told Megyn Kelly's tour audience Candace accused Erica Kirk of being behind Charlie's murder
+**C-1667** Host Says Ben Shapiro Told Megyn Kelly's Tour Audience Candace Accused Erika Kirk of Being Behind Charlie's Murder
 
 Claim Timestamp: 00:04:04
 
-Claim: The host says that, during an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Candace Owens had accused Erica Kirk of being behind the murder of Charlie Kirk.
+Claim: The host says that, during an appearance on Megyn Kelly's tour, Ben Shapiro asserted that Candace Owens had accused Erika Kirk of being behind the murder of Charlie Kirk.
 
 Anchored Artifacts: A-1379.1
 Mentions: N-2, N-46, N-97, N-3, N-1
@@ -921,11 +921,11 @@ Investigative Direction: Obtain an unedited copy of the Kelly tour Q&A or tour r
 
 ---
 
-**C-1668** Megyn Kelly publicly stated on her tour that Candace has been defending Erica Kirk
+**C-1668** Megyn Kelly Publicly Stated on Her Tour That Candace Has Been Defending Erika Kirk
 
 Claim Timestamp: 00:04:55
 
-Claim: During a Q&A on her tour, Megyn Kelly stated that she had since learned Candace Owens had not accused Erica Kirk of murder and that Candace has been specifically defending Erica Kirk.
+Claim: During a Q&A on her tour, Megyn Kelly stated that she had since learned Candace Owens had not accused Erika Kirk of murder and that Candace has been specifically defending Erika Kirk.
 
 Anchored Artifacts: A-1379.1
 Mentions: N-2, N-46, N-3
@@ -1020,11 +1020,11 @@ Investigative Direction: Obtain the original photograph with EXIF metadata and a
 
 ---
 
-**C-1675** UVU Turning Point chapter formally requested Charlie Kirk as speaker on July 18
+**C-1675** UVU Turning Point Chapter Requested Charlie Kirk as Speaker on July 18
 
 Claim Timestamp: 00:19:14
 
-Claim: According to local Utah news cited by the host, the UVU Turning Point chapter formally requested Charlie Kirk as a speaker on July 18.
+Claim: According to local Utah news cited by the host, the UVU Turning Point chapter requested Charlie Kirk as a speaker on July 18.
 
 Anchored Artifacts: A-1387.1
 Mentions: N-1
@@ -1106,11 +1106,11 @@ Investigative Direction: Obtain the original Patel posts and timestamps; verify 
 
 ---
 
-**C-1681** Kanye West tweet asserted he was going "defcon 3 on some Jewish people"
+**C-1681** Host Says Kanye West's 'Death Con 3' Tweet Meant Defcon 3
 
 Claim Timestamp: 00:49:13
 
-Claim: Kanye West tweeted that he was going "defcon 3 on some Jewish people," which the host interprets as a defensive posture reference rather than a violent threat.
+Claim: Per the Kanye West tweet the host shows, West wrote that he was going "death con 3 on some Jewish people"; the host says he meant Defcon 3, a defensive position, and was referring to Zionists in Hollywood rather than threatening violence.
 
 Anchored Artifacts: A-1389.1
 Mentions: N-27
@@ -1444,11 +1444,11 @@ Investigative Direction: Review the Alex Clark episode featuring Shapiro and doc
 
 ---
 
-**C-9717** Host Says the Claim That Kirk Established DOGE and TPUSA Audits Yearly Is a Lie
+**C-9717** Host Says the Claim That DOGE Was Just Like TPUSA's Yearly Audits Is a Lie
 
 Claim Timestamp: 00:16:32
 
-Claim: The host says it is a lie that Charlie Kirk established DOGE as an ordinary audit function and that Turning Point financially audits itself every year, saying DOGE was entirely different from a financial audit that a 501(c)(3) of that size is recommended or in some states required to have.
+Claim: The host says it is a lie that Charlie Kirk's establishing DOGE was not unusual because Turning Point financially audits itself every year, saying DOGE was entirely different from a financial self-audit, which a 501(c)(3) of that size is recommended or in some states required to have.
 
 Transcript Snippet: Charlie established Doge and that wasn't unusual. Turning Point financially audits the company every year since its inception. Lie.
 
@@ -1548,7 +1548,7 @@ Investigative Direction: Obtain UVU event-services emails and site-visit notes l
 
 Claim Timestamp: 00:21:38
 
-Claim: The host says she wants to know which specific Turning Point employees picked the outdoor venue and asks viewers who know to email more tips at candacewowens.com.
+Claim: The host says she wants to know which specific Turning Point employees picked the outdoor venue and asks viewers who know to email more tips at candaceowens.com.
 
 Transcript Snippet: please send us an email to more tips at candacewowens. com.
 
@@ -1612,7 +1612,7 @@ Investigative Direction: Check birth, school and licensing records for the legal
 
 Claim Timestamp: 00:22:40
 
-Claim: The host asks viewers who know Mikey McCoy's real name to email more tips at candacewowens.com.
+Claim: The host asks viewers who know Mikey McCoy's real name to email more tips at candaceowens.com.
 
 Transcript Snippet: So, if you have that information, please email more tips@canniswowens. com.
 
@@ -2077,7 +2077,7 @@ Investigative Direction: Search federal docket records for the teachers' case ag
 
 ---
 
-**C-9756** Host Says Turning Point Is Gaslighting by Treating Its Behavior as Normal
+**C-9756** Host Says Rob McCoy and Mikey McCoy Are Gaslighting by Treating Their Behavior as Normal
 
 Claim Timestamp: 00:46:30
 

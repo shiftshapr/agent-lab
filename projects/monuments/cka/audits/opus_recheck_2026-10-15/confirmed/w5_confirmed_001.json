@@ -1,0 +1,440 @@
+[
+ {
+  "claim": "C-1899",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:05:53"
+  },
+  "note": "'had somebody record her over Charlie Kirk's casket' falls ~05:58; 05:53 is ~5s before."
+ },
+ {
+  "claim": "C-1904",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:25:30"
+  },
+  "note": "'don't have a ton of confidence in the FBI' ends the 24:32 block (~25:38); 25:30 fits."
+ },
+ {
+  "claim": "C-1911",
+  "episode": 45,
+  "decision": "amend",
+  "fix": {
+   "label": "Host Agrees With Viewer Comments on Criticizing Corrupt Jews and Erika's Elite-Audience Outrage",
+   "claim": "The host agrees with a viewer comment from Laughing Cats Music World that corrupt Jews can be criticized without blanket antisemitism, saying \"you are absolutely on the money\"; later she agrees with a comment from Merryill Gerston Meyer that Erika Kirk's moral outrage seems manufactured for an elite target audience rather than normal folks who want to solve the murder, saying \"I would say it feels elite.\"",
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  },
+  "note": "Reviewer missed it: the Merryill Gerston Meyer comment is read at 58:27 and the host agrees ('it feels elite'). Keep both and N-2."
+ },
+ {
+  "claim": "C-8121",
+  "episode": 45,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Erika not referred to in claim; 'the day of the assassination' is Charlie's."
+ },
+ {
+  "claim": "C-1915",
+  "episode": 46,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the Glenn Beck interview clip the host plays, Glenn Beck appears to tell Erika Kirk: \"I don't need you to comment on this, but I think mental illness is involved in some of this stuff that is online. I think it's really honestly I feel bad it's mental illness.\"",
+   "label": "Glenn Beck Tells Erika Kirk Some Online Content Is Mental Illness"
+  },
+  "note": "Line opens with interviewer's 'I don't need you to comment'; web transcripts attribute it to Glenn Beck."
+ },
+ {
+  "claim": "C-1920",
+  "episode": 46,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a show clip the host plays, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be \"implicated in this way\"; the host then mockingly adds that they do not deserve \"to be called out when they're lying.\""
+  },
+  "note": "'called out when they're lying' is the host mocking Stuckey, not Stuckey."
+ },
+ {
+  "claim": "C-1922",
+  "episode": 46,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-recorded from about 11:00 a.m. to 4:00 p.m., citing sources at CBS News; that audience members were emailing her; that there were multiple takes because Bari Weiss wanted to read a prompter; and that the questions were pre-submitted.",
+   "timestamp": "00:08:10"
+  },
+  "note": "Transcript says 11:00-4:00, multiple takes for prompter, pre-submitted questions; no 'day prior'."
+ },
+ {
+  "claim": "C-6727",
+  "episode": 46,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-99",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie, not Stuckey."
+ },
+ {
+  "claim": "C-6728",
+  "episode": 46,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-97",
+    "N-228",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie; Stuckey referred to."
+ },
+ {
+  "claim": "C-1924",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her private meeting with Erika Kirk and Justin Streiff, with George present for the beginning and her cousin Mia sitting a little away, lasted 4 hours and 30 minutes.",
+   "timestamp": "00:01:58"
+  },
+  "note": "Duration line at ~02:08 in 01:51 block; host's account."
+ },
+ {
+  "claim": "C-1925",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a viral clip from Erika Kirk's Glenn Beck interview had Erika saying she had Charlie Kirk's phone and that Charlie never texted anybody the night before saying he thought they were going to kill him, and that in the meeting Erika said she is looking at his iMessages and that he, like everybody else, communicates on Signal and Telegram."
+  },
+  "note": "Restores the 'saying he thought they were going to kill him' qualifier; matches transcript."
+ },
+ {
+  "claim": "C-1927",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that in their meeting Erika Kirk and Justin Streiff clarified that the message Dan Flood received from Charlie Kirk the night before said \"the left is going to kill me,\" which she says she cannot confirm because she did not see the message.",
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-15",
+    "N-271",
+    "N-1"
+   ]
+  },
+  "note": "Host relays what 'they' (Erika and Streiff) clarified, with her hedge."
+ },
+ {
+  "claim": "C-1932",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the call logs Turning Point USA showed her indicate that Mikey McCoy's first post-shooting call was to his wife, Elizabeth McCoy, and that he stayed on the phone with her for 10 minutes."
+  },
+  "note": "Host reports logs TPUSA showed her; '10 minutes' stated, no 'approximately'."
+ },
+ {
+  "claim": "C-1935",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-160",
+    "N-191",
+    "N-2",
+    "N-17"
+   ]
+  },
+  "note": "Claim refers to Mikey's father, Rob McCoy (N-17)."
+ },
+ {
+  "claim": "C-1936",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Elizabeth McCoy was left out of what was said publicly about Mikey McCoy's call log, although she was \"main stage\" at the memorial, is close with Erika Kirk and went on vacation with her, and says she does not understand this disappearing act.",
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-218",
+    "N-191"
+   ]
+  },
+  "note": "Host's opinion; claim refers to Mikey McCoy's call log."
+ },
+ {
+  "claim": "C-1937",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says three different sources who would have knowledge of it confirmed to her that Bibi Netanyahu did make an offer to fund Turning Point USA to the next level."
+  },
+  "note": "Host reports what three sources told her."
+ },
+ {
+  "claim": "C-1938",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Andrew Kolvet told her verbatim that Bibi Netanyahu offered to take Turning Point USA to the next level and that Charlie turned that money down.",
+   "timestamp": "00:31:40",
+   "mentions": [
+    "N-3",
+    "N-14",
+    "N-36",
+    "N-1"
+   ]
+  },
+  "note": "Line ~31:46; host relays Kolvet; Charlie named."
+ },
+ {
+  "claim": "C-1939",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she was surprised to learn that Rob McCoy does not work with Turning Point USA in any capacity, and that she had assumed he did because he called himself \"America's pastor\" at the memorial and his Wikipedia entry said he started Turning Point USA Faith."
+  },
+  "note": "Host says she was surprised to learn it; 'contrary to' was editorial."
+ },
+ {
+  "claim": "C-1940",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Turning Point USA echoed and defended Terryl Farnsworth's account that they were trying something new that day: they normally livestream tour-stop events but not outdoor \"prove me wrong\" events, and the new livestream required Terryl.",
+   "mentions": [
+    "N-3",
+    "N-262"
+   ]
+  },
+  "note": "'They' (TPUSA) echoed Terryl; Erika not named in claim."
+ },
+ {
+  "claim": "C-1942",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Andrew Kolvet said he spoke to the surgeon, and that they confirmed Kolvet spoke to the surgeon but that they did not know he was going to write the tweet or that he had called up the surgeon.",
+   "label": "Host Says They Did Not Know Kolvet Would Write the Surgeon Tweet"
+  },
+  "note": "Transcript: 'they did not know' he would tweet, not the surgeon."
+ },
+ {
+  "claim": "C-1950",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, a speaker addressing Viva Frei points to a video by Turkey Tom in which, he says, someone authenticated as having been in the Discord chats with Tyler Robinson and his partner, and who apparently spent time with them at the apartment, said \"100%\" this is how they talked.",
+   "label": "Clip Cites Turkey Tom Video on Robinson Discord Messaging Style"
+  },
+  "note": "The person in Turkey Tom's video, not Turkey Tom, is described as in the chats."
+ },
+ {
+  "claim": "C-1951",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per Candace, George Zinn, who was treated at Utah Valley, said he told the nurses that he was paid to do that.",
+   "label": "George Zinn allegedly told nurses he was paid to pose as shooter",
+   "names": [
+    {
+     "wrong": "George Zin",
+     "right": "George Zinn",
+     "source": "https://www.deseret.com/politics/2026/01/29/george-zinn-pleads-guilty-three-counts-charlie-kirk/"
+    }
+   ]
+  },
+  "note": "George Zinn confirmed (Deseret News, SL Tribune, KSL: arrested at UVU, falsely claimed to be shooter)."
+ },
+ {
+  "claim": "C-1957",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk."
+ },
+ {
+  "claim": "C-14014",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika Kirk told her the reason she did not ask the host to stop in the beginning was that she was actually learning things from the show, and that the host thinks Erika similarly felt Weiss was trying to create a moment."
+  },
+  "note": "'at the start of the Bari Weiss event' not said; 'I think' hedge restored."
+ },
+ {
+  "claim": "C-14019",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-262",
+    "N-3"
+   ]
+  },
+  "note": "Tyler Bowyer not referred to in the claim."
+ },
+ {
+  "claim": "C-14071",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "A speaker in the Kirk Show clip, addressed as Viva, offers a theory that George Zinn knew what was going to happen, showed up thinking he would be a useful decoy or distraction for Tyler Robinson, and may have been on the Discord chat.",
+   "label": "Clip Speaker Theorizes George Zinn Was a Decoy Who Knew of the Plan",
+   "names": [
+    {
+     "wrong": "George Zin",
+     "right": "George Zinn",
+     "source": "https://www.sltrib.com/news/2025/09/19/george-zinn-charged-with-child-sex/"
+    }
+   ]
+  },
+  "note": "George Zinn confirmed (SL Tribune, Deseret News)."
+ },
+ {
+  "claim": "C-14072",
+  "episode": 47,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she broke the story that the nurses at Utah Valley, which treated George Zinn, were told by him that he was paid to do it, and that everyone is ignoring the things she broke.",
+   "label": "Host Says She Broke the Story That Zinn Told Utah Valley Nurses He Was Paid",
+   "names": [
+    {
+     "wrong": "George Zin",
+     "right": "George Zinn",
+     "source": "https://www.sltrib.com/news/2025/09/19/george-zinn-charged-with-child-sex/"
+    }
+   ]
+  },
+  "note": "George Zinn confirmed (SL Tribune, Deseret News)."
+ },
+ {
+  "claim": "C-1960",
+  "episode": 48,
+  "decision": "reject",
+  "fix": {},
+  "note": "No-op: label already reads Kolvet and Colberg->Kolvet is already in transcript_name_corrections.json."
+ },
+ {
+  "claim": "C-5185",
+  "episode": 48,
+  "decision": "reject",
+  "fix": {},
+  "note": "No-op: label already reads Kolvet and Colberg->Kolvet is already in transcript_name_corrections.json."
+ },
+ {
+  "claim": "C-5186",
+  "episode": 48,
+  "decision": "reject",
+  "fix": {},
+  "note": "No-op: label already reads Kolvet and Colberg->Kolvet is already in transcript_name_corrections.json."
+ },
+ {
+  "claim": "C-5190",
+  "episode": 48,
+  "decision": "reject",
+  "fix": {},
+  "note": "No-op: proposed label is identical to the current label (already Kolvet)."
+ },
+ {
+  "claim": "C-5191",
+  "episode": 48,
+  "decision": "reject",
+  "fix": {},
+  "note": "Original already right: label and claim say Kolvet, no Colberg; fix only adds 'Andrew'."
+ },
+ {
+  "claim": "C-5235",
+  "episode": 48,
+  "decision": "amend",
+  "fix": {
+   "label": "Respondent Says Venus Is a Designator for an Empty Flight Except the Pilots",
+   "claim": "A speaker the transcript does not identify, answering the host's question about SAM and Reach call signs, says another call sign they have seen is Venus, which is a designator for an empty flight except for the pilots.",
+   "mentions": []
+  },
+  "note": "Not the Coleman clip (ended 38:14; Coleman referred to in third person); 'the same respondent' cross-reference replaced with standalone wording."
+ },
+ {
+  "claim": "C-5263",
+  "episode": 48,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she called out to Kash Patel that she has evidence the French Legion was on the ground that day, adding that she means she reached out to the FBI, not to Patel specifically.",
+   "label": "Host Says She Has Evidence the French Legion Was on the Ground That Day and Reached Out to the FBI"
+  },
+  "note": "Host clarifies she reached out to the FBI, not Patel specifically; says 'French Legion'."
+ },
+ {
+  "claim": "C-1977",
+  "episode": 49,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Bevins not referred to in the claim about the two students."
+ },
+ {
+  "claim": "C-1980",
+  "episode": 50,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-3",
+    "N-97"
+   ]
+  },
+  "note": "Claim does not name or refer to Charlie Kirk."
+ },
+ {
+  "claim": "C-1982",
+  "episode": 50,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:11:35"
+  },
+  "note": "Studio stage/town hall line ~11:40 at end of 10:24 block; 11:35 fits."
+ },
+ {
+  "claim": "C-1986",
+  "episode": 50,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she was given the travel logs for Brian Harpole and that, per those logs, he definitively could have made it to the base for the early-morning Fort Huachuca meeting on September 9."
+  },
+  "note": "Host reports logs she was given; 'flight routing' not said."
+ },
+ {
+  "claim": "C-1999",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says people messaged her that The Daily Wire had brought back her old YouTube channel, which she says it had apparently privatized, and her old Instagram account, and premiered her trailer from when she joined The Daily Wire (with a front card saying it was shot in 2021) on those channels."
+  },
+  "note": "Host reports what people messaged her."
+ },
+ {
+  "claim": "C-2000",
+  "episode": 51,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "01:06:25"
+  },
+  "note": "Edison comment opens the 01:06:25 block."
+ }
+]

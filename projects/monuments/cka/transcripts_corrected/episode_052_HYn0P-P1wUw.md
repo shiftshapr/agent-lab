@@ -42,7 +42,7 @@ All right, you guys. Before we get into this craziness, I want to tell you that 
 
 [02:43]
 
-Which is why I was very surprised to learn of what Tyler Robinson did thereafter. Ready? Tyler Robinson, we can exclusively confirm to you all, drove 3 hours away um from Oram, Utah down to Pangitch, Utah. I hope I'm saying that right. A lot of the cities sound weird. I think it's Pangitch, Utah. I'm showing you a map of that distance. It is just under uh 3 hours to get there. And what was he doing there? You're probably wondering, did he meet up with somebody? No, he was alone. And what we can tell you that he did when he got there was that he pulled into the Cowboys Smokehouse on North Main Street. He grabbed himself a seat at the bar at this steakhouse and he ordered himself some more food.
+Which is why I was very surprised to learn of what Tyler Robinson did thereafter. Ready? Tyler Robinson, we can exclusively confirm to you all, drove 3 hours away um from Oram, Utah down to Panguitch, Utah. I hope I'm saying that right. A lot of the cities sound weird. I think it's Panguitch, Utah. I'm showing you a map of that distance. It is just under uh 3 hours to get there. And what was he doing there? You're probably wondering, did he meet up with somebody? No, he was alone. And what we can tell you that he did when he got there was that he pulled into the Cowboys Smokehouse on North Main Street. He grabbed himself a seat at the bar at this steakhouse and he ordered himself some more food.
 
 [03:34]
 

@@ -781,7 +781,7 @@ Claim Timestamp: 00:07:36
 Claim: Per an email from Maggie Wagner that the host reads, the audition script and AI video were entirely about making fun of Candace Owens, and the producer said, "So when Candace or Tucker says something crazy, we would want you to make fun of it."
 
 Anchored Artifacts: A-1587.1, A-1589.1
-Mentions: N-389, N-3
+Mentions: N-389, N-3, N-22
 
 Related Nodes: N-10385
 
@@ -793,7 +793,7 @@ Investigative Direction: Obtain and verify the full audition script and AI video
 
 Claim Timestamp: 00:11:04
 
-Claim: Maggie Wagner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.
+Claim: Per a text message the host shows, Maggie Wagner declined the Daily Wire audition role, texting the producer that making fun of Candace did not feel true to her beliefs.
 
 Anchored Artifacts: A-1588.1
 Mentions: N-389
@@ -808,10 +808,10 @@ Investigative Direction: Verify the text message thread against phone records an
 
 Claim Timestamp: 00:24:45
 
-Claim: Per the statement the host reads, Ben Shapiro publicly resigned from Breitbart News as of 9:00 PM Pacific on March 13, 2016, citing the company's handling of Michelle Fields' allegations that Corey Lewandowski assaulted her.
+Claim: Per the statement the host reads, Ben Shapiro publicly resigned from Breitbart News as of 9:00 PM Pacific, citing the company's handling of Michelle Fields' allegations that Corey Lewandowski assaulted her; the host dates the resignation to March 13, 2016.
 
 Anchored Artifacts: A-1590.1
-Mentions: N-391, N-393, N-394, N-97
+Mentions: N-393, N-394, N-97
 
 Related Nodes: N-10386, N-10391
 
@@ -826,7 +826,7 @@ Claim Timestamp: 00:18:09
 Claim: Steve Bannon stated at Amfest that Ben Shapiro "tried to take over Breitbart," "tried to take over David Horowitz's [organization]," and predicted he "will make a move on Turning Point."
 
 Anchored Artifacts: A-1591.1
-Mentions: N-390, N-391, N-194, N-97
+Mentions: N-390, N-194, N-97
 
 Related Nodes: N-10386
 
@@ -896,9 +896,9 @@ Investigative Direction: Verify the timeline of the show's conception against in
 
 **C-2025** Per Shapiro's Own Statement the Host Reads, He Joined Breitbart News Two Weeks Before Andrew Breitbart's Death
 
-Claim Timestamp: 00:25:28
+Claim Timestamp: 00:24:58
 
-Claim: Per Ben Shapiro's own resignation statement that the host reads, he signed on with Breitbart News as editor-at-large approximately two weeks before Andrew Breitbart's death on March 1, 2012.
+Claim: Per Ben Shapiro's own resignation statement that the host reads, he signed on with Breitbart News two weeks before Andrew Breitbart's death, which the host elsewhere dates to March 1, 2012.
 
 Anchored Artifacts: A-1590.1
 Mentions: N-391, N-97
@@ -925,7 +925,7 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 **C-3656** Host elevates mommy sleuth crowd investigators
 
 Claim Timestamp: 00:58:32
-Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators emailing tips, framed as part of the crowd intelligence effort.
+Claim: The host praises "mommy sleuth(s)" as amateur / parent investigators sending tips, framed as part of the crowd intelligence effort.
 Transcript Snippet: ...this. Here's a text message chain. Um, here I'm a mommy sleuth and I have access to this. Oh, I work for this department and I can see this. All of us decentraliz...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1117,7 +1117,7 @@ Investigative Direction: Obtain the Amfest speaker schedule and any sponsorship 
 
 Claim Timestamp: 00:08:14
 
-Claim: The host reads Maggie Wagner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by a friend and a second person not to send the audition tape.
+Claim: The host reads Maggie Wagner's email saying she tried to rewrite the audition script in a way true to her, could not, and was advised by a friend to contact a second person, who told her not to send the audition tape.
 
 Transcript Snippet: I even tried to rewrite it in a way that was true to me, but I couldn't do it. It just felt like high school bullies.
 
@@ -1704,7 +1704,7 @@ Anchored Artifacts:
 Mentions: N-97, N-1, N-3
 Related Nodes: N-10386
 Supports: C-5384
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify donors who contacted Kirk or TPUSA about the host, and obtain any messages the host holds.
 
 ---
@@ -1848,7 +1848,7 @@ Claim: The host says she refused to condemn Kanye West because she was not there
 Transcript Snippet: I said I'm not going to come out and condemn Kanye because I wasn't there.
 
 Anchored Artifacts: 
-Mentions: N-3, N-27, N-367
+Mentions: N-3, N-27
 Related Nodes: N-11117, N-10900
 Tags: relevance:context
 Investigative Direction: Obtain contemporaneous accounts or notes from the meeting from Daily Wire staff.
@@ -1864,7 +1864,7 @@ Claim: The host says that after she refused to condemn Kanye the Daily Wire said
 Transcript Snippet: we're going to change the contract and instead of being paid x amount of years, you are going to only get this.
 
 Anchored Artifacts: 
-Mentions: N-3, N-367, N-27
+Mentions: N-3, N-27
 Related Nodes: N-11117, N-10900
 Tags: relevance:context
 Investigative Direction: Obtain the original and amended contract terms; the host has not shown them.

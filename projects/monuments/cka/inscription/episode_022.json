@@ -2083,7 +2083,7 @@
       "@id": "C-1543",
       "ref": "C-1543",
       "label": "Josh Hammer audio clip on Tucker as \"cancerous force\"",
-      "claim": "An audio clip attributed to Josh Hammer was played on air, stating: \"It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right.\"",
+      "claim": "In a clip the host plays, a speaker not named on air (attributed in the archive to Josh Hammer) says: \"It brings me no pleasure to criticize Tucker Carlson as much as I have been doing. But he has become the leading tip of the spear of what can only be described as a cancerous force running to engulf the entire American right.\"",
       "anchored_artifacts": [
         "A-1300.1"
       ],
@@ -2101,7 +2101,7 @@
       "@id": "C-1544",
       "ref": "C-1544",
       "label": "Viewer comment: SUBND/SUBTT at PEACE 2025; N1098L drone concerns",
-      "claim": "A viewer comment from \"Obsessed with sports\" notes that Egyptian tail numbers SUBND and SUBTT were present at PEACE 2025, and that tail number N1098L is allegedly connected to Israeli defense companies that manufacture air-launched drones for use as recon and loitering munitions.",
+      "claim": "A viewer comment from \"Obsessed with sports\" the host reads says Egyptian tail numbers SUBND and SUBTT were at PEACE 2025 and that tail number N1098L is concerning since Israeli defense companies are now making air-launched drones for recon and as loitering munitions; the host says the commenter is claiming the plane is being used by Israeli defense companies, which she has not checked.",
       "anchored_artifacts": [
         "A-1299.1"
       ],
@@ -2794,7 +2794,7 @@
       "@id": "C-9426",
       "ref": "C-9426",
       "label": "Dave Smith says Candace and Fuentes grew because of opposition to Gaza",
-      "claim": "In the clip, Dave Smith says that those upset about Candace and Nick Fuentes growing have only themselves to blame because their support came from opposing the destruction of Gaza, and that he is not part of cancel culture.",
+      "claim": "In the clip, Dave Smith tells Seth Dillon that people upset about Candace and Nick Fuentes becoming so huge have no one but themselves to blame, because the support behind them came from opposing the destruction of Gaza.",
       "anchored_artifacts": [
         "A-1295.1"
       ],
@@ -2809,6 +2809,7 @@
       "transcript_snippet": "And the reason why they got so much support behind them is cuz they were against this destruction of Gaza",
       "mentions_person_refs": [
         "N-39",
+        "N-38",
         "N-3",
         "N-202"
       ]
@@ -2988,7 +2989,7 @@
       "@id": "C-9434",
       "ref": "C-9434",
       "label": "Host says Dillon and Hammer harassed Charlie and now claim his legacy",
-      "claim": "The host says the people now claiming charge of Charlie's legacy, naming Seth Dillon and Josh Hammer, are the same people who pressed him at the Hamptons and on the text chain and were making him ill with threats and money.",
+      "claim": "The host says the people now claiming charge of Charlie's legacy, naming Seth Dillon and Josh Hammer, are the same people who were harassing him and making him ill with threats and money, with Dillon pressing him at the Hamptons and Hammer on the text chain hearing what he was going through.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10345",

@@ -25,7 +25,7 @@
 
 ## 2. Executive Summary
 
-This episode centers on Candace's exclusive report that Tyler Robinson drove approximately three hours from Orem, Utah to Pangitch, Utah on the night of September 10, dined alone at the Cowboys Smokehouse bar on North Main Street, and was later verified via server identification and credit card receipt several days after his arrest. Candace argues this timeline undercuts the FBI's narrative of a tight post-shooting investigation and demands follow-up interviews at the restaurant.
+This episode centers on Candace's exclusive report that Tyler Robinson drove approximately three hours from Orem, Utah to Panguitch, Utah on the night of September 10, dined alone at the Cowboys Smokehouse bar on North Main Street, and was later verified via server identification and credit card receipt several days after his arrest. Candace argues this timeline undercuts the FBI's narrative of a tight post-shooting investigation and demands follow-up interviews at the restaurant.
 
 The episode also revisits the Fort Huachuca storyline: Candace reports that she personally reviewed a 12-hour House committee video and now concludes Rep. Mark Amodei's alibi "checks out." New artifact-anchored evidence is presented on the Farnsworth political network – a 2014 Arizona House record linking Senator David Farnsworth and Eddie Farnsworth to Lori Frantzve on EMP legislation – along with a CBS News article on Fort Huachuca civilian leader David Frodsham and a Davis-Monthan AFB website announcement of a September 9 Commanders Summit.
 
@@ -33,7 +33,7 @@ Secondary segments include Candace's claims about Tyler Bowyer's deep family tie
 
 ## 3. Artifact Register
 
-**A-1577** Pangitch Cowboys Smokehouse Evidence Bundle
+**A-1577** Panguitch Cowboys Smokehouse Evidence Bundle
 
 **A-1577.1** Cowboys Smokehouse credit card receipt for Tyler Robinson meal (steak medium rare, mashed potatoes, vegetables)
 Event Timestamp: 00:00:00–00:00:01
@@ -44,7 +44,7 @@ Confidence Level: Medium
 
 *Related: C-2003, C-2004, N-10381, Tyler Robinson node*
 
-**A-1577.2** Map showing ~3-hour drive distance from Orem, Utah to Pangitch, Utah (host's on-screen display)
+**A-1577.2** Map showing ~3-hour drive distance from Orem, Utah to Panguitch, Utah (host's on-screen display)
 Video Timestamp: 00:02:43
 
 *Related: C-2003, N-10381*
@@ -56,7 +56,7 @@ Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:19:30
 
-*Related: C-2006, C-2007, N-2 (Erica Kirk, as "Erika")*
+*Related: C-2006, C-2007, N-2 (Erika Kirk, as "Erika")*
 
 **A-1579** Mark Amodei House Committee Video Bundle
 
@@ -70,7 +70,7 @@ Video Timestamp: 00:21:13
 **A-1580.1** Video excerpt of Tyler Bowyer speaking at Charlie Kirk's memorial about the 2015 Trump rally and Erika Kirk's involvement
 Video Timestamp: 00:28:55
 
-*Related: C-2009, Tyler Bowyer node, N-2 (Erica Kirk, as "Erika"), N-11*
+*Related: C-2009, Tyler Bowyer node, N-2 (Erika Kirk, as "Erika"), N-11*
 
 **A-1581** 2014 Arizona House Floor Record Bundle
 
@@ -250,7 +250,7 @@ Claim Count: 0
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1581.1, N-2 (Erica Kirk, as "Erika"), Lori Frantzve node, N-10383*
+*Related: A-1581.1, N-2 (Erika Kirk, as "Erika"), Lori Frantzve node, N-10383*
 
 **N-67** Mark Herman (director, Candace show)
 
@@ -263,7 +263,7 @@ Investigative Pressure: Low
 
 *Related: C-2012*
 
-**N-10381** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Verification of credit card receipt, transaction timestamp, server identification, and federal follow-up (or absence thereof) at Cowboys Smokehouse on the night of 9/10.
 
@@ -373,7 +373,7 @@ Benjamin Netanyahu; the host's account of his reported offer to Charlie Kirk.
 
 **N-40** Tyler Robinson
 
-Tyler Robinson, the accused; the host's Pangitch restaurant and Dairy Queen timeline.
+Tyler Robinson, the accused; the host's Panguitch restaurant and Dairy Queen timeline.
 
 *Related: C-6801, C-6802, C-6803, C-6804, C-6805, C-6806, C-6807, C-6809, C-6810, C-6812, C-6813, C-6814, C-6815, C-6816, C-6833*
 
@@ -915,7 +915,7 @@ Claims that Lori Frantzve's companies AZ Tech and E3 Tech held Department of Def
 **N-11115** Robinson Grandmother Whereabouts Hypothesis
 
 Node Type: Topic
-The tipster hypothesis, offered by the host as unconfirmed, that Tyler Robinson went to his grandmother's house near Pangitch after the Cowboys Smokehouse meal, together with the grandmother's early public statement.
+The tipster hypothesis, offered by the host as unconfirmed, that Tyler Robinson went to his grandmother's house near Panguitch after the Cowboys Smokehouse meal, together with the grandmother's early public statement.
 
 *Related: C-6815, C-6816*
 
@@ -923,11 +923,11 @@ The tipster hypothesis, offered by the host as unconfirmed, that Tyler Robinson 
 
 ## 5. Claim Register
 
-**C-2003** Host Says Tyler Robinson Visited Pangitch
+**C-2003** Host Says Tyler Robinson Visited Panguitch
 
 Claim Timestamp: 00:02:43
 
-Claim: The host says Tyler Robinson drove approximately three hours from Orem, Utah to Pangitch, Utah on the night of September 10 and dined alone at the Cowboys Smokehouse bar on North Main Street.
+Claim: The host says Tyler Robinson drove approximately three hours from Orem, Utah to Panguitch, Utah on the night of September 10 and dined alone at the Cowboys Smokehouse bar on North Main Street.
 
 Anchored Artifacts: A-1577.1, A-1577.2
 Mentions: N-40
@@ -940,7 +940,7 @@ Investigative Direction: Obtain Cowboys Smokehouse receipt and credit card state
 
 Claim Timestamp: 00:04:45
 
-Claim: Cowboys Smokehouse staff identified Tyler Robinson from the suspect photo after the press conference, verified his prior presence via credit card receipt, and contacted federal authorities days later; per host, no federal follow-up investigation was conducted at the restaurant.
+Claim: The host says Cowboys Smokehouse staff identified Tyler Robinson from the suspect photo shared after his capture, verified his prior presence via credit card receipt, and contacted federal authorities days later, and that the feds only called them back and conducted no follow-up investigation at the restaurant.
 
 Anchored Artifacts: A-1577.1
 Mentions: N-40
@@ -953,7 +953,7 @@ Investigative Direction: Confirm whether FBI / Utah officials interviewed Cowboy
 
 Claim Timestamp: 00:17:20
 
-Claim: Turning Point USA clarified to host that the tent at AmeriFest was initially proposed by Elizabeth McCoy but was ultimately a group decision between the events team and exhibitor hall team.
+Claim: The host says Turning Point USA asked her to clarify that the tent at AmeriFest was initially proposed by Elizabeth McCoy but was ultimately a group decision between the events team and exhibitor hall team.
 
 Anchored Artifacts: None displayed (host verbal reference to TPUSA communication)
 Mentions: N-218
@@ -966,7 +966,7 @@ Investigative Direction: Obtain direct TPUSA statement or correspondence clarify
 
 Claim Timestamp: 00:18:17
 
-Claim: Erika's first text purportedly showing a conversation with Charlie Kirk about dinner on September 8 had the contact name blocked/redacted in the screenshot (sent to host December 28).
+Claim: The host says Erika's first text purportedly showing a conversation with Charlie Kirk about dinner on September 8 had the contact name blocked/redacted in the screenshot (sent to host December 28).
 
 Anchored Artifacts: A-1578.1 (follow-up contact card only; original redacted text referenced but not displayed in this episode)
 Mentions: N-2, N-1
@@ -976,9 +976,9 @@ Investigative Direction: Obtain the original redacted screenshot from Erika; pre
 
 **C-2007** Erika's Follow-Up Text Was a Charlie Kirk Contact Card
 
-Claim Timestamp: 00:19:30
+Claim Timestamp: 00:18:58
 
-Claim: After host's repeated requests to unblock the contact name, Erika's follow-up text provided a Charlie Kirk contact card image rather than the unredacted conversation screenshot.
+Claim: The host says that after her repeated requests to unblock the contact name, Erika's follow-up text provided a Charlie Kirk contact card image rather than the unredacted conversation screenshot.
 
 Anchored Artifacts: A-1578.1
 Mentions: N-2, N-1
@@ -990,7 +990,7 @@ Investigative Direction: Verify whether Erika retains the original unredacted te
 
 Claim Timestamp: 00:21:13
 
-Claim: After personally reviewing a 12-hour House committee video, host concludes that Rep. Mark Amodei likely appears on screen early in the hearing, before the recorded roll calls, supporting his alibi for September 10.
+Claim: After personally reviewing a 12-hour House committee video, host concludes that Rep. Mark Amodei likely appears on screen early in the hearing, before the recorded roll calls, and that she thinks his story checks out.
 
 Anchored Artifacts: A-1579.1
 Mentions: N-3, N-364
@@ -1026,7 +1026,7 @@ Investigative Direction: Verify the Arizona House record directly; check whether
 
 **C-2011** CBS News Reported David Frodsham Returned to Fort Huachuca
 
-Claim Timestamp: 00:37:11
+Claim Timestamp: 00:36:07
 
 Claim: A CBS News article reports that David Frodsham, a top civilian leader at a US air base in Afghanistan who led a child pornography ring, returned to Fort Huachuca after leaving his post.
 
@@ -1053,7 +1053,7 @@ Investigative Direction: Obtain attendee list for the summit; cross-check agains
 
 Claim Timestamp: 00:46:38
 
-Claim: Daily Wire has launched a show hosted by "Maddie" designed to mock Candace Owens and Tucker Carlson; the show includes dramatized takes on Candace's commentary, including her Utah state flag remarks.
+Claim: The host says Daily Wire has launched a show hosted by "Maddie" designed to mock her and Tucker Carlson, and plays a clip in which the show dramatizes her Utah state flag remarks.
 
 Anchored Artifacts: A-1584.1
 Mentions: N-387, N-22, N-3
@@ -1153,7 +1153,7 @@ Investigative Direction: Interview the three servers and obtain the itemised rec
 
 Claim Timestamp: 00:03:34
 
-Claim: The host says the Pangitch restaurant has no cameras, so staff could not check footage and instead looked through credit card charges to verify that Robinson had been in the building.
+Claim: The host says the Panguitch restaurant has no cameras, so staff could not check footage and instead looked through credit card charges to verify that Robinson had been in the building.
 
 Transcript Snippet: they don't have any cameras at this restaurant. So, what they decided to do was to verify that he was in the building
 
@@ -1194,7 +1194,7 @@ Mentions: N-40
 Related Nodes: N-10381, N-10014
 Supports: C-2004
 Tags: relevance:core
-Investigative Direction: Request the FBI's tip log and any record of when and how it learned of the Pangitch purchase.
+Investigative Direction: Request the FBI's tip log and any record of when and how it learned of the Panguitch purchase.
 
 ---
 
@@ -1218,7 +1218,7 @@ Investigative Direction: Interview the servers directly about Robinson's demeano
 
 Claim Timestamp: 00:06:20
 
-Claim: The host says she previously spoke with a lawyer whom she takes to be Erika Kirk's lawyer because Erika is listed as the victim, and that the lawyer described investigators separate from Erika gathering information to prove Robinson acted alone.
+Claim: The host says she previously spoke with a lawyer whom she takes to be Erika Kirk's lawyer because Erika is listed as the victim, and that the lawyer said investigators separate from Erika are supposed to gather information to prove Robinson is the shooter and acted alone.
 
 Transcript Snippet: Now, remember I told you guys that I spoke with the lawyer. Um, this would obviously be Erika's lawyer because she's listed as the victim.
 
@@ -1233,7 +1233,7 @@ Investigative Direction: Identify the lawyer and the date of the call; ask Erika
 
 Claim Timestamp: 00:08:15
 
-Claim: The host says the Dairy Queen stop had to occur earlier than her earlier timeline documented because a three-hour drive to Pangitch with an evening arrival leaves no room for the old timing.
+Claim: The host says the Dairy Queen stop had to occur earlier than her earlier timeline documented because a three-hour drive to Panguitch with an evening arrival leaves no room for the old timing.
 
 Transcript Snippet: the Dairy Queen stop because it had to have occurred earlier than we had initially documented.
 
@@ -1250,7 +1250,7 @@ Investigative Direction: Obtain the Dairy Queen transaction time, any camera tim
 
 Claim Timestamp: 00:08:20
 
-Claim: The host says there is a literal receipt from the Pangitch restaurant and that the FBI knows about it and has it in its possession.
+Claim: The host says there is a literal receipt from the Panguitch restaurant and that the FBI knows about it and has it in its possession.
 
 Transcript Snippet: there was a literal receipt and the FBI knows about it um and has that in their possession.
 
@@ -1313,11 +1313,11 @@ Investigative Direction: Obtain the original photo's metadata and the Dairy Quee
 
 ---
 
-**C-6814** Host Says Robinson Arrived in Pangitch About 8:45 p.m. and Left About 9:30 p.m.
+**C-6814** Host Says Robinson Arrived in Panguitch About 8:45 p.m. and Left About 9:30 p.m.
 
 Claim Timestamp: 00:09:58
 
-Claim: The host says Robinson turned up in Pangitch at approximately 8:45 p.m., ate at the bar counter and left around 9:30 p.m.
+Claim: The host says Robinson turned up in Panguitch at approximately 8:45 p.m., ate at the bar counter and left around 9:30 p.m.
 
 Transcript Snippet: That's the time approximately that Tyler turned up in Panguitch, Utah. Again, that is 3 hours away from Orum. He has a meal at the bar counter and then he leaves around 9:30 p. m.
 
@@ -1921,7 +1921,7 @@ Investigative Direction: Check Arizona court dockets and the pardon record for B
 
 ---
 
-**C-6851** Host Says Bowyer Was in Debt With Wages Garnished Before Becoming a Millionaire
+**C-6851** Host Says Bowyer Was in Debt With Payments Garnished Before Becoming a Millionaire
 
 Claim Timestamp: 00:26:10
 
@@ -2290,7 +2290,7 @@ Transcript Snippet: his nephew, Albert Farnsworth, um had raped a 13-year-old.
 Anchored Artifacts: 
 Mentions: N-3, N-381, N-384
 Related Nodes: N-11112
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check Arizona court records and news archives for the case against Albert Farnsworth.
 
 ---
@@ -2338,7 +2338,7 @@ Transcript Snippet: he had gotten u donation and support from Glenn Beck for Ope
 Anchored Artifacts: 
 Mentions: N-3, N-326, N-238
 Related Nodes: N-10832
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check Operation Underground's and Beck's public statements on the support.
 
 ---
@@ -2354,7 +2354,7 @@ Transcript Snippet: literally across the way there's a place known as Arizona Mi
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10832, N-10000
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Verify the location of TPUSA's campus relative to Arizona Mills and any law enforcement data on trafficking there.
 
 ---
@@ -2494,7 +2494,7 @@ Investigative Direction: Check Duncan Aviation press releases and filings for Be
 
 Claim Timestamp: 00:43:30
 
-Claim: The host says that the day before Daily Wire appeared to be teasing something on channels it brought back, and released content on her old Instagram channels.
+Claim: The host says that the day before Daily Wire appeared to be teasing something on her channels, which it brought back, and released content on her old Instagram channels.
 
 Transcript Snippet: it looked like a Daily Wire was teasing something on my channels, which they brought back, and then they released stuff on my old Instagram channels.
 
@@ -2527,7 +2527,7 @@ Investigative Direction: Ask the host for the tipsters' basis, and confirm casti
 
 Claim Timestamp: 00:47:30
 
-Claim: In Daily Wire footage the host plays, a speaker says that in terms of making honey or bee-related products Utah ranks number 24, so the nickname is not due to honey.
+Claim: In Daily Wire footage the host plays, a clip of the host's own earlier show says that in terms of making honey or bee-related products Utah ranks number 24, so the nickname is not due to honey.
 
 Transcript Snippet: In fact, in terms of making honey or bee related products, they rank number 24.
 
@@ -2543,7 +2543,7 @@ Investigative Direction: Check USDA honey production rankings for Utah.
 
 Claim Timestamp: 00:47:35
 
-Claim: In Daily Wire footage the host plays, a speaker says the beehive state name relates to the Church of Latter-day Saints and that early Mormon pioneers liked the idea of a beehive working toward a common good.
+Claim: In Daily Wire footage the host plays, a clip of the host's own earlier show says the beehive state name relates to the Church of Latter-day Saints and that early Mormon pioneers liked the idea of a beehive working toward a common good.
 
 Transcript Snippet: It's actually the beehive state. It's relates to the uh Mormon church, the Church of Latter-day Saints.
 
@@ -2833,7 +2833,7 @@ Confidence: high
 Video Timestamp: 00:07:00
 Speaker: N-3
 Quote: This is case closed. Giddy up.
-Context: Host mocks the lack of any federal follow-up at the Pangitch restaurant.
+Context: Host mocks the lack of any federal follow-up at the Panguitch restaurant.
 Tags: giddy up, case closed, sarcasm
 Confidence: high
 

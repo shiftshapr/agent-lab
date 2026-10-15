@@ -893,7 +893,7 @@ Investigative Direction: Archive the original X Live broadcast.
 **C-1232** Kash Patel committed FBI to exhaustive investigation
 
 Claim Timestamp: 00:15:24
-Claim: FBI Director Kash Patel publicly committed the FBI to investigating every facet of Charlie Kirk's assassination including alleged accomplices.
+Claim: FBI Director Kash Patel publicly committed the FBI to investigating every facet of Charlie Kirk's assassination including the possibility of accomplices.
 Transcript Snippet: The full weight of America's law enforcement agencies are actively following the evidence.
 Anchored Artifacts: A-1137.1
 Mentions: N-69, N-1
@@ -905,7 +905,7 @@ Tags: open_source_investigation
 
 **C-1233** FBI and plane owner contradict each other on transponder
 
-Claim Timestamp: 00:17:35
+Claim Timestamp: 00:17:00
 Claim: Kash Patel/FBI claim the plane's transponder was not turned off but lost signal; plane owner Derek Maxfield states ATC permission was granted to disable services.
 Transcript Snippet: It can't be both. Can't be.
 Anchored Artifacts: A-1137.1, A-1138.1
@@ -932,7 +932,7 @@ Investigative Direction: Obtain UVU facilities maps, irrigation system records, 
 **C-1235** Host Says the Feds Repaved the Area Within About 48 Hours of the Shooting
 
 Claim Timestamp: 00:23:03
-Claim: The host says that within approximately 48 hours of the shooting 'they', the feds she had just referred to, decided to pave the area where Charlie Kirk was shot, asking producer Skyler to confirm the timing.
+Claim: The host says that within approximately 48 hours of the shooting 'they', the feds she had just referred to, decided to pave the area where Charlie Kirk was shot, asking Skyler to confirm the timing.
 Transcript Snippet: They decided to instead pave that area, repave it.
 Anchored Artifacts: A-1139.3
 Mentions: N-1, N-68
@@ -981,8 +981,8 @@ Tags: open_source_investigation
 
 **C-1239** Candace Says She Was Pressured to Retract Genocide Tweet
 
-Claim Timestamp: 00:32:32
-Claim: After Candace tweeted 'genocide is always wrong' she was inundated with demands to retract/apologize, including from Dave Rubin, while at the Daily Wire.
+Claim Timestamp: 00:32:05
+Claim: After Candace tweeted 'genocide is always wrong' while at the Daily Wire, she says she was peer pressured to correct or apologize for the tweet, Dave Rubin instantly replied with something about Israel, and she and Charlie were inundated.
 Transcript Snippet: I was being inundated. Charlie was being inundated.
 Anchored Artifacts: A-1142.1, A-1142.2
 Mentions: N-3, N-32
@@ -993,7 +993,7 @@ Investigative Direction: Archive original tweet and Rubin reply; identify any co
 **C-1240** Charlie Kirk said calling all critics antisemitic was destructive
 
 Claim Timestamp: 00:37:37
-Claim: In a clip the host plays, Charlie Kirk says that calling everyone an antisemite if they do not take a puritanical view of the Netanyahu government is bad for everybody.
+Claim: In a clip the host plays, Charlie Kirk says that if you call everyone an antisemite if they do not take a puritanical view of the Netanyahu government, he thinks that is bad for everybody.
 Transcript Snippet: If you call everyone an anti-semite if they don't take a puritanical view of the Netanyahu government...
 Anchored Artifacts: A-1143.1
 Mentions: N-36, N-1
@@ -1040,7 +1040,7 @@ Investigative Direction: Identify the rifle model and required disassembly tools
 **C-1244** Dr. Frank Turek raised viewer suspicion after memorial speech
 
 Claim Timestamp: 00:54:58
-Claim: A viewer reports persistent unease about Dr. Frank Turek following his memorial speech, citing possible guilt over inaction.
+Claim: A viewer comment the host reads says something about Dr. Frank Turek isn't sitting right with the viewer, who is unsure whether he is having some unfounded guilt about not doing more; the host says many people had that feeling after his memorial speech.
 Transcript Snippet: Something about Dr. Frank Turek isn't sitting right with me.
 Anchored Artifacts: A-1145.2
 Mentions: N-7
@@ -1698,7 +1698,7 @@ Investigative Direction: Compare with the host's other accounts of her Daily Wir
 
 Claim Timestamp: 00:36:58
 
-Claim: In the July town hall clip, an exchange asks whether cancelling Tucker Carlson would increase or decrease antisemitism and the answer, which appears to be Charlie's, is that it would increase it.
+Claim: In the July town hall clip, Charlie asks whether cancelling Tucker Carlson would increase or decrease antisemitism, and a participant answers that it would increase it.
 
 Transcript Snippet: I think increase because that means any supporter of Tucker Carlson's statement therefore makes them anti-semit and association 100%.
 
@@ -1764,7 +1764,7 @@ Transcript Snippet: suggesting that the precursor to AIPAC, which became AIPAC, 
 
 Anchored Artifacts:
 
-Mentions: N-3, N-1
+Mentions: N-3
 
 Related Nodes: N-10083
 
@@ -1956,7 +1956,7 @@ Investigative Direction: Compare with later claims the host makes about Turek.
 
 Claim Timestamp: 00:55:42
 
-Claim: The host says she was not invited to speak at the memorial and that, as the Daily Mail pointed out, she raged about it.
+Claim: The host says she was not invited to speak at the memorial and mocks the Daily Mail's account, sarcastically saying that, as the Daily Mail pointed out, she raged about it and threw her toys out of the pram.
 
 Transcript Snippet: and as the Daily Mail pointed out I raged and raged about that.
 
@@ -2078,7 +2078,7 @@ Transcript Snippet: I said $150 million I was told BB gave for Operation Mocking
 
 Anchored Artifacts:
 
-Mentions: N-3, N-36, N-22
+Mentions: N-3, N-36, N-22, N-1
 
 Related Nodes: N-10139, N-11004
 

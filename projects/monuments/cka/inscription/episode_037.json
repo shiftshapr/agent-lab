@@ -429,7 +429,7 @@
           "@type": "Artifact",
           "@id": "A-3033.1",
           "ref": "A-3033.1",
-          "description": "Host verbal reference to a letter behind the debunking claim that Kittis's lawyer is in the 920 North King office (not shown)",
+          "description": "Host verbal reference to a letter behind the debunking claim that Candace'ss lawyer is in the 920 North King office (not shown)",
           "related_claims": [
             "C-9824",
             "C-9825",
@@ -1883,8 +1883,8 @@
       "@type": "Claim",
       "@id": "C-1773",
       "ref": "C-1773",
-      "label": "BTT Aircraft Stopped at Minot, ND for Approximately One Hour on September 4, 2025",
-      "claim": "Per a military tipster email, the Egyptian military BTT aircraft stopped for approximately one hour at Minot, North Dakota on September 4, 2025 before continuing to Provo.",
+      "label": "Host Says BTT Aircraft Stopped at Minot, ND for About One Hour on September 4, 2025",
+      "claim": "The host says the BTT aircraft stopped for just one hour in Minot, North Dakota, when it came into the United States on September 4, before continuing to Provo; a military tipster email she then reads calls the Minot stopover a key not to overlook.",
       "anchored_artifacts": [
         "A-1454.1"
       ],
@@ -1900,7 +1900,7 @@
       "@type": "Claim",
       "@id": "C-1774",
       "ref": "C-1774",
-      "label": "Minot Has an Active Air Force Base and FBI Office",
+      "label": "Tipster Email Says Minot Has an Air Force Base and FBI Office",
       "claim": "Per the military tipster email, Minot, North Dakota hosts both an Air Force base and an FBI office.",
       "anchored_artifacts": [
         "A-1454.1"
@@ -1990,14 +1990,14 @@
       "@type": "Claim",
       "@id": "C-1779",
       "ref": "C-1779",
-      "label": "White House Said It Was \"Not Aware\" of Huckabee–Pollard Meeting but Stands by Ambassador",
-      "claim": "White House Press Secretary Karoline Leavitt stated at a briefing that the White House was not aware of the Huckabee–Pollard meeting in advance, but that the President stands by the ambassador.",
+      "label": "Host Quotes Leavitt Saying White House Was Not Aware of Huckabee–Pollard Meeting",
+      "claim": "The host says that when White House Press Secretary Karoline Leavitt was asked at the White House about the Huckabee–Pollard meeting, she said, quote, the White House was not aware of that meeting but the president stands by the ambassador.",
       "anchored_artifacts": [
         "A-1458.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:28:14",
+      "claim_timestamp": "00:27:39",
       "investigative_direction": "Locate full White House briefing transcript or video.",
       "mentions_person_refs": [
         "N-274",
@@ -2009,8 +2009,8 @@
       "@type": "Claim",
       "@id": "C-1780",
       "ref": "C-1780",
-      "label": "Free Press Writer Emailed Host Requesting Comment on Multiple Shows",
-      "claim": "Ashley Rindsberg, writing for The Free Press, emailed Candace Owens requesting comment on a piece about the \"economics of high engagement political content on YouTube and podcast platforms,\" specifically referencing claims about Israel, the death of Charlie Kirk, and the Becoming Brigitte series, along with five business-metric questions.",
+      "label": "Host Reads Free Press Writer's Email Requesting Comment",
+      "claim": "Per the email from Free Press writer Ashley Rindsberg that the host reads, he is reporting a piece on the \"economics of high engagement political content on YouTube and podcast platforms\" and asks for comment on her claims about Israel, the death of Charlie Kirk and the Becoming Brigitte series, with five questions about her content and its business performance.",
       "anchored_artifacts": [
         "A-1459.1"
       ],
@@ -2036,7 +2036,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:39:33",
+      "claim_timestamp": "00:41:04",
       "investigative_direction": "Preserve as brand / network framing claim; cross-link M-12 meme occurrence when present.",
       "transcript_snippet": "...reative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes, \"We needed a hoodie that says go Max.\" The get me out of here write...",
       "confidence": "high",
@@ -2150,7 +2150,7 @@
       "@id": "C-9770",
       "ref": "C-9770",
       "label": "Host Says She Will Identify the Foreign Dignitary Who Went to 920 North King and Flew From Provo to Wilmington",
-      "claim": "The host says she is confident the case will be solved and that they will figure out who the foreign dignitary was who went to 920 North King on the morning of the assassination and who flew from Provo into Wilmington, Delaware that morning.",
+      "claim": "The host says she has been confident from the beginning that this would not be a JFK assassination story, and that they will figure out who the foreign dignitary was who went to 920 North King on the morning of the assassination and who flew from Provo into Wilmington, Delaware that morning.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10284",
@@ -2222,7 +2222,7 @@
         "N-10277"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:07:50",
       "investigative_direction": "Verify the Air Force Global Strike Command footprint at Minot and any foreign participation in joint exercises in August 2025.",
@@ -3269,8 +3269,8 @@
       "@type": "Claim",
       "@id": "C-9824",
       "ref": "C-9824",
-      "label": "Host Says Debunkers Falsely Claimed Kittis's Lawyer Is in the 920 North King Office",
-      "claim": "The host says the false debunking claimed that Kittis's lawyer is in the office at 920 North King, and that she wants to clarify.",
+      "label": "Host Says Debunkers Falsely Claimed Her Own Lawyer Is in the 920 North King Office",
+      "claim": "The host says the false debunking claimed that her own lawyer (\"Candace's lawyer\") is in the office at 920 North King, and that she wants to clarify.",
       "anchored_artifacts": [
         "A-3033.1"
       ],
@@ -3283,7 +3283,7 @@
       ],
       "claim_timestamp": "00:43:40",
       "investigative_direction": "Identify who Kittis is and which law firm occupies the office; compare with the Richards Layton & Finger connection.",
-      "transcript_snippet": "to their like false debunking where they said, \"Kittis' lawyer is in this office.\""
+      "transcript_snippet": "to their like false debunking where they said, \"Candace's lawyer is in this office.\""
     },
     {
       "@type": "Claim",
@@ -3331,8 +3331,8 @@
       "@type": "Claim",
       "@id": "C-9827",
       "ref": "C-9827",
-      "label": "Host Says Noah Is Never Listed on Her Paperwork and She Learned of the Local-Firm Point From the Letter",
-      "claim": "The host says in every lawsuit she has been involved in, Noah is never the one filing or listed on the paperwork, and that she was not aware of that before this letter.",
+      "label": "Host Says Noah Is Never Listed on Her Paperwork and She Was Unaware of Something Before the Letter",
+      "claim": "The host says in every lawsuit she has been involved in, Noah is never the one filing or listed on the paperwork, which she has always seen to be the case, and, without saying what, that she \"was not aware of that before this letter.\"",
       "anchored_artifacts": [
         "A-3033.1"
       ],

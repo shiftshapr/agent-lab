@@ -47,13 +47,13 @@ New Nodes Introduced (people):  N-471, N-472, N-473, N-474, N-475, N-476
 
 New Nodes Introduced (investigation targets): N-10425, N-10426, N-10427, N-10428, N-10429
 
-Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
 ## II. Executive Summary
 
-This episode presents three principal evidentiary threads: (1) biographical material on Robert Eugene Flood, father of TPUSA security chief Dan Flood, displayed via on-screen profile image and a live-scroll of his LinkedIn page; (2) a cease-and-desist letter sent by Turning Point USA to small YouTuber Zack Gregorio ("Wolves and Finance"), read aloud and shown in full; and (3) competing public statements about whether Erica Kirk "lived in China" or only visited, anchored by an Erica interview clip, a Charlie Kirk debate clip, and a paraphrased TPUSA official response.
+This episode presents three principal evidentiary threads: (1) biographical material on Robert Eugene Flood, father of TPUSA security chief Dan Flood, displayed via on-screen profile image and a live-scroll of his LinkedIn page; (2) a cease-and-desist letter sent by Turning Point USA to small YouTuber Zack Gregorio ("Wolves and Finance"), read aloud and shown in full; and (3) competing public statements about whether Erika Kirk "lived in China" or only visited, anchored by an Erica interview clip, a Charlie Kirk debate clip, and a paraphrased TPUSA official response.
 
 A social media post from a self-identified childhood friend of Dan Flood is read aloud and provides artifact support for several biographical claims about Dan Flood's Texas origins, current New Braunfels residence, and prior security work at the Cattleman's Ball. A 2018 interview by Bobby Harpole is quoted directly to establish his law enforcement history.
 
@@ -193,9 +193,9 @@ Confidence Level: High
 
 ---
 
-**A-1650** Erica Kirk China Statement Bundle
+**A-1650** Erika Kirk China Statement Bundle
 
-**A-1650.1** Erica Kirk interview clip played on air in which she states she was "living in China and doing a lot of work with victims from sex trafficking" through her Everyday Heroes Like You charity
+**A-1650.1** Erika Kirk interview clip played on air in which she states she was "living in China and doing a lot of work with victims from sex trafficking" through her Everyday Heroes Like You charity
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -205,7 +205,7 @@ Confidence Level: High
 
 *Related: C-2144, N-2, N-10428*
 
-**A-1650.2** Paraphrased TPUSA official response (received via email by host), stating that Erica Kirk "never lived" in China and "simply visited for 2 weeks"
+**A-1650.2** Paraphrased TPUSA official response (received via email by host), stating that Erika Kirk "never lived" in China and "simply visited for 2 weeks"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -317,7 +317,7 @@ Confidence Level: Low
 
 *Related: N-1 (context only)*
 
-**A-1653.7** "KJO" comment read aloud, praising "Will the real Erica Kirk please stand up" segment
+**A-1653.7** "KJO" comment read aloud, praising "Will the real Erika Kirk please stand up" segment
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -632,9 +632,9 @@ Investigative Pressure: High
 
 *Related: A-1648.1, A-1649.1, A-1649.2, C-2141, N-14, N-7*
 
-**N-10428** Erica Kirk China Timeline Discrepancy
+**N-10428** Erika Kirk China Timeline Discrepancy
 
-Persistent target reconciling three artifact-anchored statements about Erica Kirk's China residence: her own "living in China" claim (A-1650.1), Charlie's "6 months" claim (A-1650.3), and TPUSA's "2 weeks" official response (A-1650.2).
+Persistent target reconciling three artifact-anchored statements about Erika Kirk's China residence: her own "living in China" claim (A-1650.1), Charlie's "6 months" claim (A-1650.3), and TPUSA's "2 weeks" official response (A-1650.2).
 
 Evidence Count: 3
 Claim Count: 3
@@ -1102,9 +1102,9 @@ Investigative Direction: Verify through Erath County Sheriff's Office records.
 
 **C-2140** Turning Point USA sent a cease-and-desist letter to Zack Gregorio at the Wolves and Finance YouTube channel
 
-Claim Timestamp: 00:21:21
+Claim Timestamp: 00:20:50
 
-Claim: TPUSA sent a "Demand to cease and desist defamatory comments" letter to Zack Gregorio of Wolves and Finance; the letter is displayed and read aloud in the episode.
+Claim: In a clip the host plays, Zack Gregorio of Wolves and Finance says he received a letter from Turning Point USA titled "Demand to cease and desist defamatory comments" and reads from it.
 
 Anchored Artifacts: A-1648.1, A-1648.2
 Mentions: N-473
@@ -1134,7 +1134,7 @@ NOTE: This claim artifact-anchored by A-1648.1 directly contradicts A-1649.1 (An
 
 Claim Timestamp: 00:32:01
 
-Claim: Per host's paraphrase of an emailed TPUSA official response, Erica Kirk never lived in China and simply visited for 2 weeks.
+Claim: Per host's paraphrase of an emailed TPUSA official response, Erika Kirk never lived in China and simply visited for 2 weeks.
 
 Anchored Artifacts: A-1650.2
 Mentions: N-2
@@ -1164,7 +1164,7 @@ Investigative Direction: Verify against the full debate transcript/recording.
 
 Claim Timestamp: 00:31:02
 
-Claim: In the on-air clip, Erica Kirk states she was "living in China and doing a lot of work with victims from sex trafficking" via Everyday Heroes Like You.
+Claim: In the on-air clip, Erika Kirk states she was "living in China and doing a lot of work with victims from sex trafficking" via Everyday Heroes Like You.
 
 Anchored Artifacts: A-1650.1
 Mentions: N-2
@@ -1204,11 +1204,11 @@ Investigative Direction: Verify through Israeli government or embassy announceme
 
 ---
 
-**C-2147** Per a viewer comment, Dan Flood provided security at a Charlie Kirk Day event where Kash Patel was present
+**C-2147** Host Says Dan Flood Was Still Providing Security at Charlie Kirk Day Event Where Kash Patel Was Invited
 
 Claim Timestamp: 00:42:39
 
-Claim: Viewer "Moderator Marzy" comment states Dan Flood "was still providing security" at a Charlie Kirk Day event and that Kash Patel was invited.
+Claim: The host says that at the Charlie Kirk Day event they invited Kash Patel, and that Dan Flood was there too, still providing security, which she thought was weird.
 
 Anchored Artifacts: A-1653.1
 Mentions: N-1, N-271, N-69
@@ -1235,7 +1235,7 @@ Investigative Direction: Verify through FBIA official publications, IRS Form 990
 **C-3658** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:46:47
-Claim: The host says she would recommend the decentralized intelligence agency, since the public is more reliable than her sources, because they do not go after kids but defend and protect them.
+Claim: The host says she would recommend the decentralized intelligence agency, since the public is way more reliable than the answers she gets about Erika Kirk, because they do not go after kids but defend and protect them.
 Transcript Snippet: ...y more reliable. 10 out of 10 would recommend the decentralized intelligence agency because we don't go after kids, right? We actually defend kids um and protect kids, which should be...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1324,11 +1324,11 @@ Investigative Direction: Look up the Cattleman's Ball nonprofit's registration a
 
 ---
 
-**C-14178** Host Says Emailer Said Dan Flood Is Connected to Both Fort Huachuca and the Cattleman's Ball
+**C-14178** Host Says Emailer Said Dan Flood Is "Connected to Both" and Pointed to Flood's Father
 
 Claim Timestamp: 00:05:20
 
-Claim: The host says the emailer told her that Dan Flood is connected to both the Fort Huachuca matter and the Cattleman's Ball, and that nobody had worked out who Flood's father is.
+Claim: The host, paraphrasing the emailer, says he told her she was obsessed with Fort Huachuca and thought Charlie had been tracked for a while, that she had not figured out who Dan Flood is, that "Dan Flood is connected to both," and that nobody had worked out who Flood's father is.
 
 Transcript Snippet: Dan Flood is connected to both. You think it was an inside job from the feds and none of you guys have even worked out who Dan Flood's father is.
 
@@ -1771,11 +1771,11 @@ Investigative Direction: Obtain the full text of the letter and Gregorio's video
 
 ---
 
-**C-14206** Host Indicates the Letter Said TPUSA Does Not Intend to Sue
+**C-14206** Host Says a Cease and Desist Should Not Open With We Don't Intend to Sue
 
 Claim Timestamp: 00:23:00
 
-Claim: The host says a cease and desist should not open with we don't intend to sue you, and says Gregorio is correct that it is the first step toward suing, which implies the letter contained that disclaimer.
+Claim: The host says a cease and desist should not open with we don't intend to sue you, and says Gregorio is correct that it is the first step toward suing.
 
 Transcript Snippet: If you feel that someone is putting out wrong information about you, don't start a cease and assist letter with we don't intend to sue you.
 
@@ -1821,59 +1821,59 @@ Investigative Direction: Compare Harpole's Shawn Ryan interview with UVU's drone
 
 ---
 
-**C-14209** Kolvet Says His Drone Pilot Had Completed the FAA Steps
+**C-14209** Paramount Tactical's Gary Says His Drone Pilot Had Completed the FAA Steps
 
 Claim Timestamp: 00:25:20
 
-Claim: Andrew Kolvet says in the clip that his drone pilot had already made all the necessary steps with the FAA to be able to fly the drone for the survey.
+Claim: In a clip the host plays, Paramount Tactical's Gary says his drone pilot had already made all the necessary steps with the FAA to be able to fly the drone for the survey.
 
 Transcript Snippet: my drone pilot had already made all the necessary steps with the FAA to make sure that we could do that.
 
 Anchored Artifacts: A-1649.1
-Mentions: N-14
+Mentions: 
 Related Nodes: N-10427
 Tags: relevance:core
 Investigative Direction: Request the FAA authorization or waiver and flight log for the survey drone.
 
 ---
 
-**C-14210** Kolvet Says Law Enforcement Made Him Ground the Drone at UVU
+**C-14210** Paramount Tactical's Gary Says Law Enforcement Made Him Ground the Drone at UVU
 
 Claim Timestamp: 00:25:30
 
-Claim: Andrew Kolvet says that at UVU law enforcement came up and demanded he take the drone down, that he told the officer they did not control the airspace, and that they ended up grounding it.
+Claim: In a clip the host plays, Paramount Tactical's Gary says that at UVU law enforcement came up and demanded he take the drone down, that he told the officer they did not control the airspace, and that they ended up grounding it.
 
 Transcript Snippet: Immediately we were um law enforcement came up and said,
 
 Anchored Artifacts: A-1649.1
-Mentions: N-14
+Mentions: 
 Related Nodes: N-10427, N-10012
 Tags: relevance:core
 Investigative Direction: Identify the officer and agency; request body camera footage and incident logs from UVU police.
 
 ---
 
-**C-14211** Kolvet Says the Team Left Campus, Flew the Drone and Got the Survey
+**C-14211** Paramount Tactical's Gary Says the Team Left Campus, Flew the Drone and Got the Survey
 
 Claim Timestamp: 00:25:50
 
-Claim: Andrew Kolvet says that after being grounded they left campus, flew the drone off campus and got the survey, and that this reinforced Harpole's statement that they could not get permission to get a drone up.
+Claim: In a clip the host plays, Paramount Tactical's Gary says that after being grounded they left campus, flew the drone off campus and got the survey, and that this reinforced Harpole's statement that they could not get permission to get a drone up.
 
 Transcript Snippet: what we ended up having to do was leave campus. We flew the drone.
 
 Anchored Artifacts: A-1649.1
-Mentions: N-14, N-267
+Mentions: N-267
 Related Nodes: N-10427
 Tags: relevance:core
 Investigative Direction: Obtain the drone pilot's flight log, locations and timestamps for the survey.
 
 ---
 
-**C-14212** Kolvet Says the Circulated Picture Is a Wide-Angle Shot From a Second-Floor Walkway
+**C-14212** Paramount Tactical's Gary and Kolvet Say the Circulated Picture Is a Wide-Angle Shot From a Walkway
 
 Claim Timestamp: 00:26:10
 
-Claim: Andrew Kolvet says the picture circulated as proof of drone footage is a wide-angle shot of the crowd from the second floor, taken from an elevated walkway or bridge.
+Claim: In a clip the host plays, Paramount Tactical's Gary says the picture circulated as proof of drone footage is a wide-angle shot of the crowd from the second floor, and Andrew Kolvet adds it was taken from an elevated walkway or bridge.
 
 Transcript Snippet: It is a wide angle shot of the crowd from second floor.
 
@@ -2382,10 +2382,10 @@ Confidence: high
 - **Name uncertainty**: "NDA Buckman" preserved as spoken (first name not provided); "Elizabeth McCoy" mentioned in passing but no artifact backing (omitted from nodes).
 - **Artifact verbally referenced but not shown**: TPUSA's official email response about China (A-1650.2) is paraphrased only; the real-estate profile tying "Everyday Heroes Like You" to the China work is mentioned but not displayed; the unverified emailer's narrative about the Cattleman's Ball money-laundering scheme is host narrative only (Cattleman's Ball website artifact A-1646.1 supports the organization's existence and scope, not the corruption allegations).
 - **Transcript ambiguity**: The exact date of the cease-and-desist letter and Andrew Kolvet interview clip are not specified.
-- **Claim failed admission test**: Host's framing premises that "the feds are doing nothing," "you're all lying," "the TPUSA drone story is a cover-up," and "Elizabeth McCoy is sabotaging Erica Kirk" do not pass the artifact anchor test in this episode and are not inscribed as claims. The unverified emailer's allegations about JFK, Golda Meir, and the Cattleman's Ball money-laundering operation are explicitly noted by the host as unconfirmed and are not inscribed.
+- **Claim failed admission test**: Host's framing premises that "the feds are doing nothing," "you're all lying," "the TPUSA drone story is a cover-up," and "Elizabeth McCoy is sabotaging Erika Kirk" do not pass the artifact anchor test in this episode and are not inscribed as claims. The unverified emailer's allegations about JFK, Golda Meir, and the Cattleman's Ball money-laundering operation are explicitly noted by the host as unconfirmed and are not inscribed.
 - **Contradictions (artifact-anchored both sides)**:
   1. TPUSA drone story: A-1648.1 (cease-and-desist letter admits media drone) vs. A-1649.1 (Andrew Kolvet frames the image as wide-angle walkway shot, not a drone).
-  2. Erica Kirk China timeline: A-1650.1 (Erica: "living in China") and A-1650.3 (Charlie: "6 months") vs. A-1650.2 (TPUSA: "2 weeks visit only").
+  2. Erika Kirk China timeline: A-1650.1 (Erica: "living in China") and A-1650.3 (Charlie: "6 months") vs. A-1650.2 (TPUSA: "2 weeks visit only").
 - **Requires human verification**: All Bobby Harpole and Robert Flood employment claims require verification against official records. The Dan Flood New Braunfels residency claim requires address-record verification. The Frank Turek original drone statement is referenced but the underlying artifact was not replayed this episode.
 
 ---

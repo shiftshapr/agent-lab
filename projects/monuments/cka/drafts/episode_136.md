@@ -39,7 +39,7 @@ Episode 136 Ledger Summary
 - Artifact Families Introduced: A-2223, A-2224, A-2225, A-2226, A-2227, A-2228, A-2229, A-2230, A-2231, A-2232, A-2233, A-2234, A-2235
 - Claim Range: C-3193–C-3210
 - New Nodes Introduced (people): 
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 - New Nodes Introduced (investigation targets): N-10771, N-10772, N-10773, N-10774, N-10775
 
 ---
@@ -48,7 +48,7 @@ Episode 136 Ledger Summary
 
 Episode 136 advances two principal evidentiary threads. First, host Candace Owens introduces Mikey McCoy's arrival footage showing the SUV glove pocket as empty at the moment Charlie Kirk exited the vehicle, framing this against later testimony describing gloves being recovered from the same door pocket and against Brian Harpole's account of medical intervention in the car. Second, Owens presents what she characterizes as exclusive bystander footage timestamped 12:47 PM, allegedly identifying the "plainclothes man" Officer Bagley claimed not to recognize during preliminary-hearing testimony; she credits X user Muppet Masher with identifying the red-hat figure as Allan Robertson (USU Police, formerly USMC and San Bernardino PD) and the blue-shirt figure as Christopher Hawk, and surfaces a Brady List entry for Robertson.
 
-Secondary threads include an Iran-war segment anchored to a CNN report on US Central Command crowdsourcing ideas against Iran, paired with archival Charlie Kirk clips calling such a war "pathologically insane" and characterizing it as "Israel's war," plus an Erica Kirk clip declining to state Charlie's position. The episode also contains an extended personal update on Candace's security guard who suffered a stroke in Russia, and a comments section. The episode functions structurally as a continuation of the "other man on the rooftop" / screwdriver-DNA sub-thread, adding a positively identified companion to the investigation ledger.
+Secondary threads include an Iran-war segment anchored to a CNN report on US Central Command crowdsourcing ideas against Iran, paired with archival Charlie Kirk clips calling such a war "pathologically insane" and characterizing it as "Israel's war," plus an Erika Kirk clip declining to state Charlie's position. The episode also contains an extended personal update on Candace's security guard who suffered a stroke in Russia, and a comments section. The episode functions structurally as a continuation of the "other man on the rooftop" / screwdriver-DNA sub-thread, adding a positively identified companion to the investigation ledger.
 
 ---
 
@@ -176,9 +176,9 @@ Confidence Level: High
 
 ---
 
-**A-2231** Erica Kirk Media Appearance Bundle
+**A-2231** Erika Kirk Media Appearance Bundle
 
-**A-2231.1** Erica Kirk clip stating her husband is not here to say whether or not to go to war with Iran, and that she personally does not want US boots on the ground
+**A-2231.1** Erika Kirk clip stating her husband is not here to say whether or not to go to war with Iran, and that she personally does not want US boots on the ground
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -915,7 +915,7 @@ Investigative Direction: Obtain the original CNN article and any underlying Pent
 
 ---
 
-**C-3206** Erica Kirk stated she does not know what Charlie Kirk would think about war with Iran
+**C-3206** Erika Kirk stated she does not know what Charlie Kirk would think about war with Iran
 
 Claim Timestamp: 00:37:43
 
@@ -2038,7 +2038,7 @@ Confidence: high
 
 - **Artifact verbally referenced but not shown**: A-2230.1 (CNN article – host paraphrases the headline and email content rather than displaying the article); A-2235.1 (Allan Robertson's LinkedIn – host paraphrases content rather than displaying the profile).
 - **Name uncertainty**: "Losi" / "Loy" / "Lozi" rooftop appears repeatedly; transcript is inconsistent but host uses "Loy" most often. Preserved as "Losi/Loy" pending verification against UVU building records (commonly the Losee Center).
-- **Name inconsistency**: Host alternates between "Erica Kirk" and "Erika Kirk"; preserved as "Erica Kirk" (standard convention).
+- **Name inconsistency**: Host alternates between "Erika Kirk" and "Erika Kirk"; preserved as "Erika Kirk" (standard convention).
 - **Name inconsistency**: Host alternates between "Allan Robertson" and "Alan Robertson"; preserved as "Allan Robertson" per the more frequent transcript usage.
 - **Name inconsistency**: Host uses both "Brian Harpole" and "Brian Harpool"; preserved as "Harpole."
 - **Requires human verification**: Several testimony audio clips (A-2224.1, A-2224.2) require human re-listening to confirm exact wording.

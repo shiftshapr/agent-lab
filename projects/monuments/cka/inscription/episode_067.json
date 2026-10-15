@@ -447,7 +447,7 @@
           "@type": "Artifact",
           "@id": "A-1726.1",
           "ref": "A-1726.1",
-          "description": "Host-testimony claim that her source confirmed the Dan Flood text message was sent as an iMessage, not Telegram (contradicting Erica Kirk's stated account)",
+          "description": "Host-testimony claim that her source confirmed the Dan Flood text message was sent as an iMessage, not Telegram (contradicting Erika Kirk's stated account)",
           "related_claims": [
             "C-2273",
             "C-2274"
@@ -1326,7 +1326,7 @@
       "ref": "N-10470",
       "name": "Dan Flood Message Format Discrepancy",
       "type": "investigation_target",
-      "description": "Persistent inconsistency between Erica Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 \"they're going to kill me\" text.",
+      "description": "Persistent inconsistency between Erika Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 \"they're going to kill me\" text.",
       "related_artifacts": [
         "A-1726.1"
       ],
@@ -1348,9 +1348,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10471",
       "ref": "N-10471",
-      "name": "Erica Kirk Sept 10 Alibi Verification",
+      "name": "Erika Kirk Sept 10 Alibi Verification",
       "type": "investigation_target",
-      "description": "Host's claim that no one in Erica Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.",
+      "description": "Host's claim that no one in Erika Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.",
       "related_artifacts": [
         "A-1726.2"
       ],
@@ -1373,7 +1373,7 @@
       "ref": "N-10472",
       "name": "Fort Huachuca Alibi Investigation",
       "type": "investigation_target",
-      "description": "Persistent target: host reports \"major problems\" verifying Erica Kirk's Fort Huachuca alibi; details pending.",
+      "description": "Persistent target: host reports \"major problems\" verifying Erika Kirk's Fort Huachuca alibi; details pending.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -2672,8 +2672,7 @@
       "claim_timestamp": "00:22:23",
       "investigative_direction": "Locate Minaj's original post on X; identify which artist she is referencing (context suggests Jay-Z).",
       "mentions_person_refs": [
-        "N-523",
-        "N-524"
+        "N-523"
       ]
     },
     {
@@ -2780,7 +2779,7 @@
       "@type": "Claim",
       "@id": "C-2271",
       "ref": "C-2271",
-      "label": "Frank Turek States GG (Child) Got Up During the Sept 8 Walk",
+      "label": "Frank Turek States GG (Child) Got Up Before the Sept 8 Walk",
       "claim": "In a clip of the Megyn Kelly Show that the host plays, Frank Turek says Charlie Kirk texted that he would be \"shortly\" out because \"GG just got up,\" and that Charlie had to attend to the child before the walk.",
       "anchored_artifacts": [
         "A-1722.2"
@@ -2790,7 +2789,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:47:26",
-      "investigative_direction": "Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims.",
+      "investigative_direction": "Verify against Charlie Kirk's text message timestamp; cross-reference with Erika Kirk's location claims.",
       "mentions_person_refs": [
         "N-7",
         "N-1"
@@ -2819,7 +2818,7 @@
       "@id": "C-2273",
       "ref": "C-2273",
       "label": "Source States Dan Flood Text Was Sent as iMessage, Not Telegram",
-      "claim": "Per Candace Owens's source (described as having had access to Dan Flood's messages), the \"they're going to kill me\" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erica Kirk later claimed.",
+      "claim": "Per Candace Owens's source (described as having had access to Dan Flood's messages), the \"they're going to kill me\" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erika Kirk later claimed.",
       "anchored_artifacts": [
         "A-1726.1"
       ],
@@ -2839,7 +2838,7 @@
       "@type": "Claim",
       "@id": "C-2274",
       "ref": "C-2274",
-      "label": "Source States Andrew Kolvet and Dan Flood Were Recipients of the \"Kill Me\" Text",
+      "label": "Host Says Andrew Kolvet and Dan Flood Received the \"Kill Me\" Text; Source Says It Was an iMessage",
       "claim": "Per Candace Owens's source, the \"they're going to kill me\" text Charlie Kirk sent on Sept 9 to Dan Flood was an iMessage; the host says it went to Andrew Kolvet and Dan Flood.",
       "anchored_artifacts": [
         "A-1726.1"
@@ -2848,7 +2847,7 @@
         "N-10473"
       ],
       "tags": [],
-      "claim_timestamp": "00:44:45",
+      "claim_timestamp": "00:43:53",
       "investigative_direction": "Obtain corroborating testimony from Andrew Kolvet; cross-reference with Dan Flood's device records.",
       "mentions_person_refs": [
         "N-14",
@@ -2925,7 +2924,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:58:27",
+      "claim_timestamp": "00:57:51",
       "investigative_direction": "Not applicable (commentary only).",
       "mentions_person_refs": [
         "N-3"
@@ -3234,7 +3233,7 @@
       "@type": "Claim",
       "@id": "C-14248",
       "ref": "C-14248",
-      "label": "Compilation says Epstein asked Peggy Siegal whether an event would be 100% Jewish",
+      "label": "Compilation says Peggy Siegal asked Epstein whether an event would be 100% Jewish",
       "claim": "According to the compilation, on August 7, 2010 Peggy Siegal asked Epstein if an event was going to be 100% Jewish and he replied that there would be 'in abundance' of them but 'brilliant wasps from J. P. Morgan' too.",
       "anchored_artifacts": [
         "A-1715.1"
@@ -3366,8 +3365,8 @@
       "@type": "Claim",
       "@id": "C-14254",
       "ref": "C-14254",
-      "label": "Host says Tucker Carlson asserted that Mossad ran Epstein",
-      "claim": "The host says Tucker Carlson asserted that it was Mossad running Jeffrey Epstein, which she says he did without evidence.",
+      "label": "Clip has Ben Shapiro saying Tucker Carlson asserted that Mossad ran Epstein",
+      "claim": "In a clip of Ben Shapiro the host plays, Shapiro says Tucker Carlson asserted that it was Mossad running Jeffrey Epstein, which Shapiro says Carlson did without evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10023",
@@ -3384,6 +3383,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
+        "N-97",
         "N-22",
         "N-9"
       ]
@@ -3472,7 +3472,7 @@
       "tags": [
         "relevance:tangential"
       ],
-      "claim_timestamp": "00:22:23",
+      "claim_timestamp": "00:23:28",
       "investigative_direction": "Find CERN's 2016 statement about the staged 'sacrifice' video (a spoof by CERN staff) and compare with the host's description.",
       "transcript_snippet": "even when we showed you the CERN activity that was happening, which somebody caught on tape, they just came out and were like, \"Oh, we were just faking.\"",
       "mentions_person_refs": [
@@ -3503,7 +3503,7 @@
       "@id": "C-14260",
       "ref": "C-14260",
       "label": "Host says Peter Thiel was thrown under the bus while others are protected",
-      "claim": "The host says the released files are protecting people who are still in power, which is why she found it 'super interesting' that Peter Thiel was thrown 'under the bus'.",
+      "claim": "The host says not all of the files are being released and people still in power are being protected, which is why she found it 'super interesting' that Peter Thiel was thrown 'under the bus'.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10474",
@@ -4488,7 +4488,7 @@
       "@id": "C-14302",
       "ref": "C-14302",
       "label": "Host says Erika gave a straightforward Fort Huachuca alibi but pretended not to understand its instructions",
-      "claim": "The host says Erika Kirk gave her 'a very straightforward alibi' and then pretended not to understand the instructions of the alibi for Fort Huachuca.",
+      "claim": "The host says that no one can confirm seeing Erika Kirk on September 10, describing her as 'just giving me a very straightforward alibi and pretending like they didn't understand the instructions of this alibi for Fort Huachuca'.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10472",

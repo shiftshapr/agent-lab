@@ -43,7 +43,7 @@
 
 Third, a Phil Lyman campaign endorsement by George Zinn is documented via Wayback Machine dating back to at least June 6, 2024; this is presented to address earlier speculation rather than to advance new claims.
 
-Fourth, a video clip of Benjamin Netanyahu meeting influencer Deborah Lee is read/played, with Netanyahu naming TikTok and X – and Elon Musk – as the principal platforms in a described influence "battle." Fifth, host-read/displayed tweets between Megyn Kelly, "Florida Dab," and Konstantin Kisin are used as artifacts to frame pressure on Kelly. Sixth, a producer-supplied note identifying a former IDF soldier as TikTok's new Public Policy Manager of Hate Speech is read aloud.
+Fourth, a video clip of Benjamin Netanyahu meeting influencer Debra Lea is read/played, with Netanyahu naming TikTok and X – and Elon Musk – as the principal platforms in a described influence "battle." Fifth, host-read/displayed tweets between Megyn Kelly, "Florida Dab," and Konstantin Kisin are used as artifacts to frame pressure on Kelly. Sixth, a producer-supplied note identifying a former IDF soldier as TikTok's new Public Policy Manager of Hate Speech is read aloud.
 
 The episode also contains extensive speculation about overseas "military operation" framing, "Robbie Hild" identity skepticism, and a rumored Tyler Robinson / Mike Mitchell connection; these are recorded here only under Optional Flags for failure to meet the Claim Admission Test.
 
@@ -147,9 +147,9 @@ Confidence Level: Medium (host source)
 
 ---
 
-### A-1200 Netanyahu–Deborah Lee Influencer Meeting Clip
+### A-1200 Netanyahu–Debra Lea Influencer Meeting Clip
 
-**A-1200.1** Video clip: Benjamin Netanyahu meets on camera with US social-media influencer Deborah Lee to discuss shaping US opinion
+**A-1200.1** Video clip: Benjamin Netanyahu meets on camera with US social-media influencer Debra Lea to discuss shaping US opinion
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -215,7 +215,7 @@ Confidence Level: High
 
 ### A-1204 Producer Note – TikTok IDF Personnel Report
 
-**A-1204.1** Producer note read on air identifying "Erika Mindle" / "Erikica Mindle" as American Israeli Jewish former IDF soldier, serving as Public Policy Manager of Hate Speech at TikTok since July 2025
+**A-1204.1** Producer note read on air identifying "Erica Mindel" / "Erica Mindel" as American Israeli Jewish former IDF soldier, serving as Public Policy Manager of Hate Speech at TikTok since July 2025
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -504,7 +504,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-137** Erika "Erikica" Mindle
+**N-137** Erika "Erikica" Mindel
 Self-described in host's producer note as American Israeli Jewish former IDF soldier; named as TikTok Public Policy Manager of Hate Speech since July 2025.
 
 Evidence Count: 1
@@ -540,7 +540,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-140** Deborah Lee
+**N-140** Debra Lea
 Host of the influencer meeting with Netanyahu; raised the question about evangelical support post-Kirk assassination.
 
 Evidence Count: 1
@@ -1109,7 +1109,7 @@ The deletion of Shaner Broderick's Facebook, LinkedIn and Instagram content afte
 
 ## V. Claim Register
 
-**C-1337** Host Says Woman Was Seen With Shooter on Nearby Houses' Doorbell-Camera Footage
+**C-1337** Host Says Woman Was Seen With Shooter in Footage From Nearby Houses
 
 Claim Timestamp: 00:00:49
 
@@ -1212,11 +1212,11 @@ Investigative Direction: Confirm against the current Utah Code provision on medi
 
 ---
 
-**C-1344** Host Says Netanyahu Met on Camera With US Social-Media Influencer Deborah Lee
+**C-1344** Host Says Netanyahu Met on Camera With US Social-Media Influencer Debra Lea
 
 Claim Timestamp: 00:27:00
 
-Claim: The host says Benjamin Netanyahu conducted an on-camera meeting with US influencers including Deborah Lee to discuss shaping US opinion, and plays a clip in which Lee asks him about Charlie Kirk's assassination and the potential loss of evangelical support for Israel.
+Claim: The host says Benjamin Netanyahu conducted an on-camera meeting with US influencers including Debra Lea to discuss shaping US opinion, and plays a clip in which Lea asks him about Charlie Kirk's assassination and the potential loss of evangelical support for Israel.
 
 Anchored Artifacts: A-1200.1
 Mentions: N-140, N-36, N-1
@@ -1240,11 +1240,11 @@ Investigative Direction: Locate the full exchange; verify the exact statements a
 
 ---
 
-**C-1346** Netanyahu described social media as the "weapons of the battlefield" of the influence fight
+**C-1346** Netanyahu Calls Social Media the Most Important Battlefield in Clip Host Plays
 
 Claim Timestamp: 00:28:34
 
-Claim: In the meeting, Netanyahu stated, in essence, that the means of fighting must match the battlefield and identified social media as the most important battlefield of the present moment.
+Claim: In a clip of the influencer meeting the host plays, Netanyahu says, in essence, that the means of fighting must match the battlefield and identifies social media as the most important battlefield of the present moment.
 
 Anchored Artifacts: A-1200.1
 Mentions: N-36
@@ -1258,7 +1258,7 @@ Investigative Direction: Verify the full quote in its original-language form; id
 
 Claim Timestamp: 00:35:01
 
-Claim: An X account identifying as "Florida Dab" publicly told Megyn Kelly she must separate from Candace Owens, or "many of us" would separate from Kelly.
+Claim: Per the X post the host shows, an account identifying as "Florida Dab" told Megyn Kelly she must separate from Candace Owens, or "many of us" would separate from Kelly.
 
 Anchored Artifacts: A-1201.1
 Mentions: N-138, N-3, N-46
@@ -1270,7 +1270,7 @@ Investigative Direction: Archive the original post; identify the account's opera
 
 **C-1348** Megyn Kelly publicly refused to condemn Candace Owens or Tucker Carlson in the thread
 
-Claim Timestamp: 00:35:51
+Claim Timestamp: 00:35:17
 
 Claim: The host shows a post in which Megyn Kelly replies to Florida Dab that she has no obligation to separate herself from anyone and that if he needs her to condemn Candace or Tucker for their opinions in order to listen to her, she may not be for him.
 
@@ -1286,7 +1286,7 @@ Investigative Direction: Capture full thread context including replies not quote
 
 Claim Timestamp: 00:35:51
 
-Claim: Konstantin Kisin posted on X to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as "extreme and so deranged" and questioning why Kelly was not confronting them.
+Claim: Per the X post the host reads, Konstantin Kisin wrote to Megyn Kelly characterizing Candace Owens' and Tucker Carlson's behavior as "extreme and so deranged" and questioning why Kelly was not confronting them.
 
 Anchored Artifacts: A-1203.1, A-1203.2
 Mentions: N-139, N-22, N-3, N-46
@@ -1300,7 +1300,7 @@ Investigative Direction: Verify the post is from the same handle the host means;
 
 Claim Timestamp: 00:43:16
 
-Claim: A note from the host's producer, which she reads on air, says that "Erika/Erikica Mindle" is a former IDF soldier and TikTok's Public Policy Manager of Hate Speech since July 2025.
+Claim: A note from the host's producer, which she reads on air, says that Erica Mindel is a former IDF soldier and TikTok's Public Policy Manager of Hate Speech since July 2025.
 
 Anchored Artifacts: A-1204.1
 Mentions: N-137
@@ -1310,11 +1310,11 @@ Investigative Direction: Verify the named individual's employment, role title, a
 
 ---
 
-**C-1351** The FBI recently cut ties with the ADL after Turning Point USA criticism, and the FBI and ADL share a building
+**C-1351** Viewer Comment Says FBI Cut Ties With ADL and the Two Share a Building
 
 Claim Timestamp: 00:47:19
 
-Claim: A commenter states that the FBI has severed ties with the ADL in the wake of Turning Point USA criticism and that the two organizations shared a building.
+Claim: A viewer comment the host reads, from Marzy, says the FBI just cut ties with the ADL after Turning Point USA criticism and that the two share a building and are one and the same; the host adds that she thinks the building is in Connecticut.
 
 Anchored Artifacts: A-1207.1
 
@@ -1712,7 +1712,7 @@ Transcript Snippet: the New York Times has reported on uh Russian Ukrainian spie
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-10898, N-11273
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Locate the New York Times article the host refers to.
 
 ---
@@ -1744,7 +1744,7 @@ Transcript Snippet: it is telling about white lotus sect of all things.
 Anchored Artifacts: A-3104.1
 Mentions: N-3
 Related Nodes: N-11273
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Find the original Russian article and check its claims against declassified material.
 
 ---
@@ -1781,11 +1781,11 @@ Investigative Direction: Identify the Alex Jones employee and the Ukrainian list
 
 ---
 
-**C-10797** Host plays Deborah Lee saying Charlie Kirk was her first mentor in the space
+**C-10797** Host plays Debra Lea saying Charlie Kirk was her first mentor in the space
 
 Claim Timestamp: 00:27:00
 
-Claim: In the played clip Deborah Lee describes Charlie Kirk as a big mentor of hers and her first mentor in the space.
+Claim: In the played clip Debra Lea describes Charlie Kirk as a big mentor of hers and her first mentor in the space.
 
 Transcript Snippet: who was a big mentor of mine, he's my first mentor in the space.
 
@@ -1796,16 +1796,16 @@ Investigative Direction: Obtain the full clip and Lee's background and past publ
 
 ---
 
-**C-10798** Host plays Deborah Lee asking Netanyahu about losing evangelical support
+**C-10798** Host plays Debra Lea asking Netanyahu about losing evangelical support
 
 Claim Timestamp: 00:27:00
 
-Claim: In the played clip Deborah Lee says evangelicals are the reason Israel has been supported in the public sphere beyond Jews and asks Netanyahu what the backup plan is if Israel loses evangelical support.
+Claim: In the played clip Debra Lea says evangelicals are the reason Israel has been supported in the public sphere beyond Jews and asks Netanyahu what the backup plan is if Israel loses evangelical support.
 
 Transcript Snippet: evangelicals are the reason that Israel has been supported in public sphere outside of just Jews.
 
 Anchored Artifacts: A-1200.1
-Mentions: N-140, N-36, N-22, N-3
+Mentions: N-140, N-36, N-3
 Related Nodes: N-10026
 Tags: relevance:context
 Investigative Direction: Obtain the full clip and the event details.
@@ -2006,7 +2006,7 @@ Investigative Direction: Obtain the text message and compare it with the Kisin p
 
 Claim Timestamp: 00:37:04
 
-Claim: The host says that when she retweeted Max Blumenthal, agents such as Dave Rubin told her she did not see what she had done.
+Claim: The host says that when she retweeted Max Blumenthal, agents such as Dave Rubin asked her, "don't you see what you did."
 
 Transcript Snippet: and then like all of the agents like Dave Rubin all them were like don't you see what you did
 
@@ -2230,7 +2230,7 @@ Claim: The host says she has not explored the claim about Tyler Robinson's lawye
 Transcript Snippet: I have not explored that.
 
 Anchored Artifacts: A-1206.1
-Mentions: N-3, N-40
+Mentions: N-3, N-40, N-142
 Related Nodes: N-10160
 Tags: relevance:context
 Investigative Direction: Check later episodes for follow-up.
@@ -2565,7 +2565,7 @@ Confidence: high
 - Speculation / Framing Premise: Skepticism about "Robbie Hild"'s true identity – labeled N-10153 for tracking, but not inscribed as a claim.
 - Artifact verbally referenced but not shown: Russian-language translated article about "White Lotus sect" training fighters (article cited but not displayed in the transcript).
 - Transcript ambiguity: The "FBI" new head is referred to by host as "Robert Bohls" (possibly phonetic / partial nickname); spelling uncertain – preserved exactly.
-- Transcript ambiguity: "Erika Mindle" / "Erikica Mindle" – spelling varies within the host's own narration.
+- Transcript ambiguity: "Erica Mindel" / "Erica Mindel" – spelling varies within the host's own narration.
 - Transcript ambiguity: AI-generated subtitles in A-1196.1 were flagged by host as incorrect ("is" instead of "if"); content captured from corrected play-back.
 - Transcript ambiguity: "Andrew Zenger" spelling not independently verified in this episode.
 - Name uncertainty: The "Lyman family member" speaker in A-1196.1 is not named; flagged for verification.

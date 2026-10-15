@@ -1846,8 +1846,8 @@
       "@type": "Claim",
       "@id": "C-1749",
       "ref": "C-1749",
-      "label": "Host Says 920 North King Street Currently Houses DEA, FBI, and Secret Service",
-      "claim": "The host says current public directories show DEA, FBI, and U.S. Secret Service all listed at 920 North King Street, Suite 404, Wilmington, Delaware, with phone numbers published.",
+      "label": "Email Host Reads Says DEA and Secret Service Are Listed at 920 North King Street",
+      "claim": "Per the anonymous email the host reads, current public directories show the DEA and the U.S. Secret Service listed at 920 North King Street, Suite 404, Wilmington, Delaware, both with published phone numbers.",
       "anchored_artifacts": [
         "A-1435.1",
         "A-1437.1"
@@ -1863,8 +1863,8 @@
       "@type": "Claim",
       "@id": "C-1750",
       "ref": "C-1750",
-      "label": "Host Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar",
-      "claim": "The host says a French aircraft finishing company, SATYS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+, and says her team confirmed this.",
+      "label": "Email Host Reads Says SATYS Announced December 2024 Takeover of Wilmington Airport Hangar",
+      "claim": "Per the anonymous email the host reads, a French aircraft finishing company, SATYS, announced in December 2024 it was taking over the shuttered Wilmington airport hangar (formerly a Dassault Falcon authorized center), investing approximately $1M+; the host says her team confirmed this.",
       "anchored_artifacts": [
         "A-1438.1"
       ],
@@ -1904,7 +1904,7 @@
         "N-10265"
       ],
       "tags": [],
-      "claim_timestamp": "00:17:46–00:18:30",
+      "claim_timestamp": "00:16:58",
       "investigative_direction": "Locate and review the FBI press release directly; verify quoted phrases and date.",
       "mentions_person_refs": [
         "N-266"
@@ -1926,7 +1926,9 @@
       "claim_timestamp": "00:31:42–00:32:39",
       "investigative_direction": "Obtain the full Megyn Kelly / Frank Turek interview clip and timestamp; confirm exact wording.",
       "mentions_person_refs": [
-        "N-7"
+        "N-7",
+        "N-46",
+        "N-1"
       ]
     },
     {
@@ -1934,7 +1936,7 @@
       "@id": "C-1754",
       "ref": "C-1754",
       "label": "Brian Harpole Stated TPUSA Did Not Have Drones at the Event",
-      "claim": "Brian Harpole, on the Shawn Ryan interview, stated TPUSA did not have drones at the event because he \"wasn't allowed to have drones.\"",
+      "claim": "The host says Brian Harpole, in his Shawn Ryan interview, basically said TPUSA did not have drones at the event because he \"wasn't allowed to have drones.\"",
       "anchored_artifacts": [
         "A-1442.1"
       ],
@@ -2263,7 +2265,7 @@
       "@id": "C-7988",
       "ref": "C-7988",
       "label": "Email Says Vehicles Tied to 920 North King Street Arrived and Left in SUBTT's Window",
-      "claim": "The host reads the email saying the writer can guarantee that vehicles affiliated with the 920 North King Street workspace arrived and left inside the same window as SUBTT.",
+      "claim": "The host reads the email saying the writer can guarantee that vehicles affiliated with the redacted entity's workspace arrived and left inside the same window as SUBTT, and that the plane and those vehicles are connected to 920 North King Street.",
       "anchored_artifacts": [
         "A-1435.1"
       ],
@@ -2401,8 +2403,8 @@
       "@type": "Claim",
       "@id": "C-7994",
       "ref": "C-7994",
-      "label": "Host Says the 1990s DOJ Suites Evolved Into a Multi-Agency Space",
-      "claim": "The host says the suites the Department of Justice held in the 1990s never went away and eventually evolved into a multi-agency space in a commercial building.",
+      "label": "Email Says the 1990s DOJ Suites Evolved Into a Multi-Agency Space",
+      "claim": "The host reads the email saying the suites the Department of Justice held in the 1990s never went away and eventually evolved into a multi-agency space in a commercial building.",
       "anchored_artifacts": [
         "A-1437.1"
       ],
@@ -2426,8 +2428,8 @@
       "@type": "Claim",
       "@id": "C-7995",
       "ref": "C-7995",
-      "label": "Host Compares 920 North King Street to 33 Thomas Street",
-      "claim": "The host says 920 North King Street looks like a mini version of the 33 Thomas Street building in New York, the building she says is associated with the Snowden leak, with glass windows as the only difference.",
+      "label": "Email Compares 920 North King Street to 33 Thomas Street",
+      "claim": "The host reads the email saying 920 North King Street looks like a mini version of the 33 Thomas Street building in New York, the building the email associates with the Snowden leak, with glass windows as the only difference.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10265"
@@ -2446,8 +2448,8 @@
       "@type": "Claim",
       "@id": "C-7996",
       "ref": "C-7996",
-      "label": "Host Says X Users Cited a Falcon Maintenance Arrangement Dating to 1999",
-      "claim": "The host says people on X argued SUBTT has an alibi because it aligns with a longstanding Falcon maintenance arrangement out of Wilmington dating back to 1999.",
+      "label": "Email Says X Users Cited a Falcon Maintenance Arrangement Dating to 1999",
+      "claim": "The host reads the email saying people on X argued SUBTT has an alibi because it aligns with a longstanding Falcon maintenance arrangement out of Wilmington dating back to 1999.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11160",
@@ -2467,8 +2469,8 @@
       "@type": "Claim",
       "@id": "C-7997",
       "ref": "C-7997",
-      "label": "Host Says the Wilmington Dassault Falcon Center Shut Down Around 2021",
-      "claim": "The host says Wilmington used to have a Dassault Falcon authorized service center but it shut down around 2021, before the 2024 SATYS announcement.",
+      "label": "Email Says the Wilmington Dassault Falcon Center Shut Down Around 2021",
+      "claim": "The host reads the email saying Wilmington used to have a Dassault Falcon authorized service center but it shut down around 2021, before the 2024 SATYS announcement.",
       "anchored_artifacts": [
         "A-1438.1"
       ],
@@ -2494,7 +2496,7 @@
       "@id": "C-7998",
       "ref": "C-7998",
       "label": "Email Says DRBA Operates on Federally Regulated Waterways With a Chain to the President",
-      "claim": "The host reads the email saying the Delaware River and Bay Authority operates on federally regulated waterways and that its chain of authority runs through the Army Corps of Engineers, the Secretary of the Army and the Secretary of Defense to the President.",
+      "claim": "The host reads the email saying the Delaware River and Bay Authority operates on federally regulated waterways and that the chain reporting from those who control the rivers would run through the Army Corps of Engineers, the Secretary of the Army and the Secretary of Defense to the President, while saying it is not claiming a direct line of authority.",
       "anchored_artifacts": [
         "A-1439.1"
       ],
@@ -3566,7 +3568,8 @@
         "N-269",
         "N-147",
         "N-3",
-        "N-82"
+        "N-82",
+        "N-378"
       ]
     },
     {
@@ -3795,7 +3798,7 @@
       "@type": "Claim",
       "@id": "C-8052",
       "ref": "C-8052",
-      "label": "Host Says Sleeper Cells Operate Across the Nation and Targets Children in Schools",
+      "label": "Host Says Children Are at Risk in Government Schools and Feels There Are Sleeper Cells Across the Nation",
       "claim": "The host says she believes children are at risk in government schools and that she effectively feels there are sleeper cells all across the nation.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -3959,8 +3962,8 @@
       "@type": "Claim",
       "@id": "C-8060",
       "ref": "C-8060",
-      "label": "Host Says YouTube Issued a Copyright Claim Over Music in the Tim Dillon Clip",
-      "claim": "The host says YouTube gave her team a copyright claim, not a strike, over a song by Kash Patel's girlfriend, so the team may trim that song from the Tim Dillon clip they showed.",
+      "label": "Host Says Kash Patel's Girlfriend Filed a Copyright Claim Over Music in the Tim Dillon Clip",
+      "claim": "The host says Kash Patel's girlfriend hit her team with a copyright claim on YouTube, not a strike, over her music, so the team may trim that song from the Tim Dillon clip they showed.",
       "anchored_artifacts": [
         "A-2916.1"
       ],

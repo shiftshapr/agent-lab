@@ -48,13 +48,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-1705",
       "family_ref": "A-1705",
-      "bundle_name": "Erica Kirk Memorial Speech Audio Bundle",
+      "bundle_name": "Erika Kirk Memorial Speech Audio Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-1705.1",
           "ref": "A-1705.1",
-          "description": "Audio excerpt of Erica Kirk's memorial speech directing audience to TPUSA.com, TPUSA Faith, and America Fest",
+          "description": "Audio excerpt of Erika Kirk's memorial speech directing audience to TPUSA.com, TPUSA Faith, and America Fest",
           "related_claims": [
             "C-2241",
             "C-2242"
@@ -196,7 +196,7 @@
           "@type": "Artifact",
           "@id": "A-1710.1",
           "ref": "A-1710.1",
-          "description": "Frank Turek sermon/podcast clip: dismisses Candace's dream-based claims, asserts \"Satan is a murderer, a slanderer, an accuser, a liar, and somebody that brings confusion,\" applies this pattern to criticism of Erica Kirk",
+          "description": "Frank Turek sermon/podcast clip: dismisses Candace's dream-based claims, asserts \"Satan is a murderer, a slanderer, an accuser, a liar, and somebody that brings confusion,\" applies this pattern to criticism of Erika Kirk",
           "related_claims": [
             "C-2251"
           ],
@@ -353,7 +353,7 @@
       "ref": "N-513",
       "name": "Dr. Alan Wolfelt",
       "type": "person",
-      "description": "Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erica Kirk to \"mourning avoidant, emotion phobic culture.\"",
+      "description": "Colorado-based death educator and grief counselor quoted in the Daily Mail article as attributing public criticism of Erika Kirk to \"mourning avoidant, emotion phobic culture.\"",
       "related_artifacts": [
         "A-1704.1"
       ],
@@ -391,7 +391,7 @@
       "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
-      "description": "Cross-apologetics speaker referenced as a TPUSA-affiliated figure; the on-air clip shows him characterizing criticism of Erica Kirk as satanic pattern behavior.",
+      "description": "Cross-apologetics speaker referenced as a TPUSA-affiliated figure; the on-air clip shows him characterizing criticism of Erika Kirk as satanic pattern behavior.",
       "related_artifacts": [
         "A-1710.1"
       ],
@@ -521,7 +521,7 @@
       "ref": "N-518",
       "name": "Kobe Bryant",
       "type": "person",
-      "description": "Referenced solely as a behavioral-comparison anchor for Erica Kirk (widow grief conduct at memorial); no artifact introduced.",
+      "description": "Referenced solely as a behavioral-comparison anchor for Erika Kirk (widow grief conduct at memorial); no artifact introduced.",
       "related_artifacts": [],
       "related_claims": [],
       "tags": [],
@@ -1224,7 +1224,7 @@
       "@id": "C-2239",
       "ref": "C-2239",
       "label": "Daily Mail article cites \"experts\" framing Kirk criticism as grief policing and sexism",
-      "claim": "The Daily Mail article presents grief experts who attribute criticism of Erica Kirk to \"grief policing,\" a \"mourning avoidant, emotion phobic culture,\" and sexism.",
+      "claim": "The Daily Mail article presents grief experts who attribute criticism of Erika Kirk to \"grief policing,\" a \"mourning avoidant, emotion phobic culture,\" and sexism.",
       "anchored_artifacts": [
         "A-1704.1"
       ],
@@ -1243,7 +1243,7 @@
       "@id": "C-2240",
       "ref": "C-2240",
       "label": "Daily Mail Article Quotes Dr. Alan Wolfelt and Bidwell Smith Defending Kirk's Hyperfunctioning",
-      "claim": "Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting \"mourning avoidant, emotion phobic culture\"; Bidwell Smith states \"widows are uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\"",
+      "claim": "Per the Daily Mail article the host reads, Dr. Alan Wolfelt characterizes criticism of Kirk as reflecting a \"mourning avoidant, emotion phobic culture\"; Bidwell Smith states \"widows are uniquely grief policed\" and that \"grief is not a performance and survival is not a moral failure.\"",
       "anchored_artifacts": [
         "A-1704.1"
       ],
@@ -1261,8 +1261,8 @@
       "@type": "Claim",
       "@id": "C-2241",
       "ref": "C-2241",
-      "label": "Erica Kirk memorial speech directs audience to TPUSA-affiliated sign-ups",
-      "claim": "In a clip the host plays, within ~36–48 hours of Charlie Kirk's assassination (the host's estimate), Erica Kirk's speech directs attendees to TPUSA.com, TPUSA Faith, and America Fest sign-up.",
+      "label": "Erika Kirk's Speech Beside Charlie's Chair Directs Audience to TPUSA-Affiliated Sign-Ups",
+      "claim": "In a clip the host plays, within ~36–48 hours of Charlie Kirk's assassination (the host's estimate), Erika Kirk's speech directs listeners to TPUSA.com, TPUSA Faith, and America Fest sign-up.",
       "anchored_artifacts": [
         "A-1705.1"
       ],
@@ -1279,8 +1279,8 @@
       "@type": "Claim",
       "@id": "C-2242",
       "ref": "C-2242",
-      "label": "Host contrasts Vanessa Bryant's eulogy with Erica Kirk's memorial speech",
-      "claim": "The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erica Kirk's memorial speech within ~48 hours centered on Turning Point USA organizational calls to action.",
+      "label": "Host contrasts Vanessa Bryant's eulogy with Erika Kirk's memorial speech",
+      "claim": "The host asserts Vanessa Bryant's Kobe Bryant memorial speech (delivered ~one month after death) focused on personal anecdotes about Kobe and grief, while Erika Kirk's memorial speech, and her first speech beside Charlie's chair ~36–48 hours after his death, centered on Turning Point USA.",
       "anchored_artifacts": [
         "A-1705.1"
       ],
@@ -1319,8 +1319,8 @@
       "@type": "Claim",
       "@id": "C-2244",
       "ref": "C-2244",
-      "label": "Father Blank texted the donor about attending Monday morning mass with Erica possibly present",
-      "claim": "Father Blank texted the donor at 6:30am saying \"Hope to see you at mass\" and indicating \"Erika may be there too.\"",
+      "label": "Per Text the Host Shows, Father Blank Told the Donor Erika May Be at Monday Morning Mass",
+      "claim": "Per the donor's email and a text message the host shows, Father Blank texted the donor at 6:30am saying \"Hope to see you at mass\" and \"Erika may be there too.\"",
       "anchored_artifacts": [
         "A-1707.1",
         "A-1706.1"
@@ -1338,7 +1338,7 @@
       "@type": "Claim",
       "@id": "C-2245",
       "ref": "C-2245",
-      "label": "Donor Tells Host She Gave Erica Kirk a Relic of St. Paul II",
+      "label": "Donor Tells Host She Gave Erika Kirk a Relic of St. Paul II",
       "claim": "In an email from a Catholic donor that the host reads, the donor says she had relics of St. Paul II that her mom wanted to give Erika Kirk, arranged for someone to fly them to her, and then gave them to Erika.",
       "anchored_artifacts": [
         "A-1706.1"
@@ -1346,7 +1346,7 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:18:53",
-      "investigative_direction": "Cross-check donor's account with Erica Kirk's public acknowledgment of receiving relics.",
+      "investigative_direction": "Cross-check donor's account with Erika Kirk's public acknowledgment of receiving relics.",
       "mentions_person_refs": [
         "N-2"
       ]
@@ -1374,8 +1374,8 @@
       "@type": "Claim",
       "@id": "C-2247",
       "ref": "C-2247",
-      "label": "TPUSA staffer text cites $6M memorial cost tied to displaced RV show at Cardinal Stadium",
-      "claim": "A text from TPUSA \"Blank\" introducing the donor states the memorial will cost approximately $6 million, that Trump was personally involved in securing Cardinal Stadium, and that the high cost was driven by displaced revenue from a \"large and lucrative RV show\" originally scheduled that weekend.",
+      "label": "Text Introducing Donor to TPUSA Staffer Cites $6M Memorial Cost Tied to Displaced RV Show at Cardinal Stadium",
+      "claim": "Per a text message the host shows, a contact introducing the donor to TPUSA's \"Blank\" says Blank told them the memorial will cost approximately $6 million, that Trump apparently had to get personally involved to secure Cardinal Stadium, and that the high cost was driven by making up lost revenue from a \"large and lucrative RV show\" planned that weekend.",
       "anchored_artifacts": [
         "A-1709.1"
       ],
@@ -1395,7 +1395,7 @@
       "@id": "C-2248",
       "ref": "C-2248",
       "label": "Father Blank responded to donor's thank-you note attributing connection to God",
-      "claim": "Father Blank responded to the donor's thank-you message with: \"God's fingerprints are all over what is happening. There is no doubt that your presence to Erika was a God moment for both of you.\"",
+      "claim": "Per the message the host reads, Father Blank responded to the donor's thank-you message with: \"God's fingerprints are all over what is happening. There is no doubt that your presence to Erika was a God moment for both of you.\"",
       "anchored_artifacts": [
         "A-1706.1"
       ],
@@ -1421,7 +1421,7 @@
         "N-10466"
       ],
       "tags": [],
-      "claim_timestamp": "00:26:12",
+      "claim_timestamp": "00:25:29",
       "investigative_direction": "Host must release or publish the Wayback Machine screenshots to enable independent verification; alternative venue booking records should be subpoenaed."
     },
     {
@@ -1429,7 +1429,7 @@
       "@id": "C-2250",
       "ref": "C-2250",
       "label": "TPUSA top fundraiser pitched donor on Mar-a-Lago gala with ~$42M target",
-      "claim": "A TPUSA top fundraiser texted the donor offering a Chicago visit and pitching involvement in a Mar-a-Lago gala reported to be raising approximately $42 million.",
+      "claim": "The host says another top TPUSA fundraiser, who delivered the relic, offered to visit the donor in the Chicago area, met her and her father, and invited her to the Mar-a-Lago gala where, she says, they were going to raise about $42 million; per a text the host reads, he then asked to call her about the gala.",
       "anchored_artifacts": [
         "A-1713.1",
         "A-1706.1"
@@ -1438,7 +1438,7 @@
         "N-10467"
       ],
       "tags": [],
-      "claim_timestamp": "00:32:17",
+      "claim_timestamp": "00:31:32",
       "investigative_direction": "Identify the fundraiser; obtain the full text thread; cross-check Mar-a-Lago TPUSA gala fundraising figures against public 990 filings or TPUSA disclosures."
     },
     {
@@ -1446,7 +1446,7 @@
       "@id": "C-2251",
       "ref": "C-2251",
       "label": "Frank Turek on-air clip attributes criticism of Kirk to satanic pattern behavior",
-      "claim": "Frank Turek states in an on-air clip that criticism of Erica Kirk (described as slander, accusation, lies, confusion, without evidence) is what \"Satan does,\" and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation.",
+      "claim": "Frank Turek states in an on-air clip that criticism of Erika Kirk (described as slander, accusation, lies, confusion, without evidence) is what \"Satan does,\" and dismisses Candace Owens' dream-based claims as lacking supernatural confirmation.",
       "anchored_artifacts": [
         "A-1710.1"
       ],
@@ -1465,7 +1465,7 @@
       "@id": "C-2252",
       "ref": "C-2252",
       "label": "Host Says Don Lemon Video Shows Him Questioning ICE-Affiliated Pastor at Minnesota Church Protest",
-      "claim": "The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning a pastor whose church works with ICE.",
+      "claim": "The host plays a clip that she says shows Don Lemon on camera at a Minnesota church protest questioning a pastor who works with ICE.",
       "anchored_artifacts": [
         "A-1711.1"
       ],
@@ -1849,7 +1849,7 @@
       "@id": "C-8333",
       "ref": "C-8333",
       "label": "Host Says Sheridan Would Only Approach Someone With a Boatload of Money",
-      "claim": "The host says she knew from who tapped the donor that Stacy Sheridan would only have done so if the woman writing had a boatload of money, and that she did not look up the donor.",
+      "claim": "The host says she knew from who tapped the donor that Stacy Sheridan would only have done so if the woman writing had a boatload of money, and that she did not even need to look up the donor.",
       "anchored_artifacts": [
         "A-1706.1"
       ],
@@ -2045,7 +2045,7 @@
       "@id": "C-8342",
       "ref": "C-8342",
       "label": "Host Says a Contact Hooked the Donor Up With Someone Who Could Get Her Into the Venue",
-      "claim": "The host says a person at the conference hooked the donor up directly with somebody who could help get her into the memorial venue, after people had waited in the rain for tickets.",
+      "claim": "The host says a person at the conference hooked the donor up directly with somebody who could help get her into the memorial venue, which she asked about because people were waiting in the rain for tickets.",
       "anchored_artifacts": [
         "A-1706.1"
       ],
@@ -2782,7 +2782,7 @@
       "@id": "C-8375",
       "ref": "C-8375",
       "label": "Host Says Watching the Rabbi Barclay Interview Began the End of Her Support for Zionism",
-      "claim": "The host says that watching the Rabbi Barclay interview probably was part of the beginning of the end of her support for Zionism and that she now believes it is an objectively racist philosophy.",
+      "claim": "The host says that the Rabbi Barclay interview probably was part of the beginning of the end of her support for Zionism and that she now believes it is an objectively racist philosophy.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10026"

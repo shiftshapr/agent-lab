@@ -913,7 +913,7 @@ Investigative Direction: Compare indictment description to actual surveillance v
 **C-1147** Per Probable Cause Statement, Suspect Was on Roof by 12:15pm
 
 Claim Timestamp: 00:08:11
-Claim: Per the probable cause statement the host reads, a surveillance camera covering the roof recorded an individual in dark clothing crossing the railing onto the roof at approximately 12:15pm, eight minutes before the 12:23pm shot.
+Claim: Per the probable cause statement the host reads, a surveillance camera covering the roof recorded an individual in dark clothing crossing the railing onto the roof at approximately 12:15pm; the host adds that, by her timeline, this is about eight minutes before the 12:23pm shot.
 Transcript Snippet: crossed the railing from the public walkway and dropped onto the roof at approximately 12:15 p.m.
 Anchored Artifacts: A-1095.2
 Mentions: N-40
@@ -986,7 +986,7 @@ Investigative Direction: Confirm retired deputy's identity and role in surrender
 **C-1153** Robinson shifted politically left over last year
 
 Claim Timestamp: 00:14:26
-Claim: Robinson's mother told police he had become increasingly political over the past year, leaning more left, more pro-gay, and more trans-rights oriented, with difficult discussions with his father.
+Claim: Per the probable cause statement the host reads, Robinson's mother told police he had become increasingly political over the past year, leaning more left, more pro-gay, and more trans-rights oriented, with difficult discussions with his father.
 Transcript Snippet: Robinson had become increasingly more political. He had started to lean more left
 Anchored Artifacts: A-1095.5
 Mentions: N-40
@@ -1011,7 +1011,7 @@ Investigative Direction: Verify text and note timestamps and original device scr
 **C-1155** Indictment omits timestamps on Tyler-Lance texts
 
 Claim Timestamp: 00:19:22
-Claim: The indictment's text-message excerpt provides no time stamps for the September 10, 2025 exchanges, despite references to lockdown and post-shooting events.
+Claim: The host says the indictment's text-message excerpt gives no time for the September 10, 2025 exchanges, and that from their content the messages must have been sent after Charlie Kirk was shot.
 Transcript Snippet: They're not telling us the time. I don't like that
 Anchored Artifacts: A-1095.8
 Mentions: N-40, N-54
@@ -1025,7 +1025,7 @@ Tags: open_source_investigation
 **C-1156** Robinson dated roommate, biological male transitioning
 
 Claim Timestamp: 00:14:33
-Claim: Robinson began dating his roommate, a biological male transitioning genders, according to his mother.
+Claim: Per the probable cause statement the host reads, Robinson's mother told police he began dating his roommate, a biological male transitioning genders.
 Transcript Snippet: Robinson began to date his roommate, which is a biological male who was transitioning
 Anchored Artifacts: A-1095.5, A-1095.9
 Mentions: N-40, N-54
@@ -1037,7 +1037,7 @@ Investigative Direction: Verify roommate's stated identity and timeline.
 **C-1157** George Zinn arrested for obstruction after decoy confession
 
 Claim Timestamp: 00:03:33
-Claim: George Zinn, a 71-year-old, was arrested after allegedly jumping up and claiming credit for the Kirk shooting; he faces obstruction of justice charges.
+Claim: The host says George Zinn, a 71-year-old man, jumped up after the Kirk shooting implying he did it, was arrested, and now faces obstruction of justice charges.
 Transcript Snippet: Man arrested for allegedly faking confession to Charlie Kirk's killing
 Anchored Artifacts: A-1096.1, A-1097.1
 Mentions: N-42
@@ -1063,7 +1063,7 @@ Investigative Direction: Confirm booking details and court filings; verify devic
 **C-1159** Bill Ackman issued 955-word tweet response
 
 Claim Timestamp: 00:45:41
-Claim: Bill Ackman published a 955-word tweet response denying that the Hamptons retreat was an intervention or blackmail attempt on Charlie.
+Claim: The host says Bill Ackman published a 955-word tweet response which, as she reads it, denies that the Hamptons retreat was an intervention to blackmail Charlie.
 Transcript Snippet: Amman's 955word response
 Anchored Artifacts: A-1098.1
 Mentions: N-37
@@ -1076,7 +1076,7 @@ Investigative Direction: Verify tweet length, content, and any deletions or foll
 **C-1160** Hamptons retreat held August 4-5, 2025
 
 Claim Timestamp: 00:50:24
-Claim: Bill Ackman's tweet confirmed he hosted a meeting with Charlie Kirk on August 4th and 5th at the Hamptons.
+Claim: The host says, crediting Village Crazy Lady on X, that Bill Ackman's tweet confirmed he hosted his meeting with Charlie Kirk on August 4th and 5th in the Hamptons.
 Transcript Snippet: Bill Ackman just confirmed that he hosted his meeting with Charlie on August 4th and 5th
 Anchored Artifacts: A-1098.1, A-1101.1, A-1102.1
 Mentions: N-37, N-1
@@ -1107,7 +1107,7 @@ Claim Timestamp: 00:51:10
 Claim: The host says Charlie Kirk appeared on Megyn Kelly on August 6, the day after the Ackman meeting; in a clip she plays, Kirk says he finds it very irritating that some in the pro-Israel camp are so kneejerk about calling people anti-semitic, and says he and Kelly speculated about Jeffrey Epstein possibly being a Mossad agent or asset, which has been turned around on him as anti-semitism.
 Transcript Snippet: some in the pro-Israel camp are so kneejerk about calling you anti-semitic
 Anchored Artifacts: A-1099.1
-Mentions: N-1, N-9, N-46
+Mentions: N-1, N-9, N-46, N-37
 Related Nodes: N-10033
 Confidence: high
 Investigative Direction: Verify full clip and dates against Megyn Kelly show archives.
@@ -1127,10 +1127,10 @@ Investigative Direction: Obtain the cited text messages and verify attribution.
 
 ---
 
-**C-1164** Charlie Kirk wrote letter to Netanyahu in May
+**C-1164** Host Mocks Portrayal of Kirk's May Letter to Netanyahu as Glowing
 
 Claim Timestamp: 00:49:19
-Claim: The host says the letter Charlie Kirk wrote Benjamin Netanyahu in May was glowing, that he was overcome with passion and said he loved Israel, and that she finds it weird no one addresses the substance of the claims.
+Claim: The host sarcastically mimics the portrayal of the letter Charlie Kirk wrote Benjamin Netanyahu in May as glowing and passionate ('Love you BB'), and says she finds it weird no one addresses the substance of the claims.
 Transcript Snippet: the letter Charlie wrote him in May was just like a glowing
 Anchored Artifacts: A-1100.1
 Mentions: N-1, N-36
@@ -1216,10 +1216,10 @@ Investigative Direction: Verify property ownership via county records; obtain le
 
 ---
 
-**C-1171** Unusual traffic observed at residence pre-shooting
+**C-1171** Host Relays Rumor of Unusual Traffic at Residence Before Shooting
 
-Claim Timestamp: 00:34:04
-Claim: Neighbors and Lance's family reported unusual, frequent traffic and unrecognized cars at the Robinson/Twigs residence in the days before the shooting.
+Claim Timestamp: 00:33:24
+Claim: The host says people who live in the neighborhood have been writing to her about unusual traffic, with a lot of unrecognized cars, at the house Tyler Robinson and Lance Twiggs shared in the days or weeks before the shooting, that a Twiggs family member told her they were hearing the same thing, and that she is still pinning down the timeline.
 Transcript Snippet: there were unusual uh unusual traffic in the driveway where Tyler Robinson and Lance lived
 Anchored Artifacts: 
 Mentions: N-40, N-54
@@ -1244,10 +1244,10 @@ Investigative Direction: Compare Cox's earlier press statements to indictment ti
 **C-1173** Seth Dillon and Josh Hammer pressured Charlie at retreat
 
 Claim Timestamp: 00:42:46
-Claim: Attendees report Seth Dillon and Josh Hammer pressured Charlie at the Hamptons retreat regarding Israel views and conference guests.
+Claim: Per attendees the host cites, Charlie faced pressure at the Hamptons retreat from Seth Dillon over his Israel views; the host says she heard Josh Hammer was upset after Charlie left and that she knows for a fact Hammer was part of 'the beehive that was swarming him' over people he had at his conferences.
 Transcript Snippet: Seth Dillon...Josh Hammer was upset. Josh Hammer...was a part of the beehive that was swarming him
 Anchored Artifacts: 
-Mentions: N-38, N-55
+Mentions: N-1, N-38, N-55
 Related Nodes: N-10033
 Confidence: medium
 Uncertainty: Multiple-source attendee statements, none on the record.
@@ -1258,9 +1258,10 @@ Investigative Direction: Interview multiple attendees; obtain any recorded retre
 **C-1174** Top Jewish donors pulled funding and demanded name removal from building
 
 Claim Timestamp: 00:57:19
-Claim: Per Candace's contacts, Charlie's top Jewish donors were pulling funding within 48 hours of his death and demanding their name be removed from a Turning Point building; after his death they asked for it to be restored.
+Claim: The host says people contacting her report that, within 48 hours before Charlie's death, his top Jewish donors were pulling funding and demanding their name be removed from a building they had donated to Turning Point, and that once he was killed they said to put it back on the building.
 Transcript Snippet: his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building
 Anchored Artifacts: 
+Mentions: N-1, N-3
 Related Nodes: N-10000, N-10036
 Confidence: medium
 Uncertainty: Single-source tip relayed by host.
@@ -1401,7 +1402,7 @@ Claim: The host says she has read a lot about blackmail operations and that the 
 Transcript Snippet: I've read a lot about blackmail operations. The people they tend to go after are people who are into children.
 
 Anchored Artifacts: 
-Mentions: N-42, N-9, N-3
+Mentions: N-42, N-3
 Related Nodes: N-10032
 Tags: relevance:context
 Investigative Direction: This is an inference rather than a record; it could only be tested against evidence of any contact between Zinn and an intelligence or blackmail operation, which no cited document shows.
@@ -1482,7 +1483,7 @@ Claim: Reading the indictment, the host says that after the shooting a police of
 Transcript Snippet: a police officer who immediately looked upward and realized that he had heard the sign of a a rifle
 
 Anchored Artifacts: A-1095.1
-Mentions: N-40
+Mentions: 
 Related Nodes: N-10012
 Tags: relevance:core
 Investigative Direction: Identify the officer and obtain the incident report and body camera footage describing what he heard and when.
@@ -1685,12 +1686,12 @@ Investigative Direction: Establish who gave this instruction (the parents or the
 
 Claim Timestamp: 00:16:42
 
-Claim: Reading the indictment, the host says Robinson replied that he had already disposed of clothes in a different area, and notes it does not make sense to her that clothes would be brought to the parents' property when Robinson lived with his boyfriend.
+Claim: Reading the indictment, the host says Robinson replied that he had already disposed of clothes in a different area, and notes that the instruction to bring in his clothes so police would not search his parents' property does not exactly make sense to her because Robinson lived with his boyfriend.
 
 Transcript Snippet: Robinson replies that at that moment that he had disposed of clothes in different area.
 
 Anchored Artifacts: A-1095.7
-Mentions: N-40, N-3
+Mentions: N-40, N-54, N-3
 Related Nodes: N-10019, N-10022
 Tags: relevance:core
 Investigative Direction: Find any search records for the disposal location and compare it with the discarded-clothing allegation in the overview.
@@ -1706,7 +1707,7 @@ Claim: The host says people who knew Tyler Robinson and his boyfriend told her t
 Transcript Snippet: And the conversation that I am having is that Tyler's classmates and the neighborhood are very shocked that Tyler would be first and foremost involved in this at all.
 
 Anchored Artifacts: 
-Mentions: N-40, N-3
+Mentions: N-40, N-54, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Interview classmates and neighbors on the record about Robinson's behavior before September 10.
@@ -1770,7 +1771,7 @@ Claim: Reading the indictment, the host says police found a photograph of the no
 Transcript Snippet: Police found a photograph of this note and the following text a change then took place.
 
 Anchored Artifacts: A-1095.8
-Mentions: N-54
+Mentions: N-40, N-54
 Related Nodes: N-10077
 Tags: relevance:core
 Investigative Direction: Request the photograph, its metadata and the device it was found on in discovery.
@@ -2027,7 +2028,7 @@ Claim: Mark Herman, speaking on the show, says the text excerpts have ellipses a
 Transcript Snippet: Yeah. And it looks like they're cherrypicking certain exchanges.
 
 Anchored Artifacts: A-1095.8
-Mentions: N-67
+Mentions: N-67, N-40
 Related Nodes: N-10077
 Tags: relevance:core
 Investigative Direction: Compare the indictment's excerpts to the full message log in discovery for omitted sections.
@@ -2439,11 +2440,11 @@ Investigative Direction: Retrieve Ackman's tweet and verify the wording and any 
 
 ---
 
-**C-13559** Host Says a File Was Presented With a Do-This-or-Else Message
+**C-13559** Host Says She Never Alleged a File Was Presented With a Do-This-or-Else Message
 
 Claim Timestamp: 00:46:36
 
-Claim: The host says, while distinguishing her account from the word blackmail, that there was a file presented and a do-this-or-else message.
+Claim: The host says, while distinguishing her account from the word blackmail, that she never said there was a file presented with a do-this-or-else message, and that she would not have said that.
 
 Transcript Snippet: There was a file presented. Do this or else. Okay. And I wouldn't have said that.
 
@@ -2650,7 +2651,7 @@ Investigative Direction: Confirm Kirk's published statements about a Shabbat boo
 
 ---
 
-**C-13572** Kirk Says on the Clip There Was Another Article About Him in the Times of Israel That Day
+**C-13572** Kirk Says on the Clip There Was Another Article in the Times of Israel That Day
 
 Claim Timestamp: 00:54:30
 
@@ -2848,7 +2849,7 @@ Investigative Direction: Review TPUSA's event announcements for 2024 and 2025 fo
 
 Claim Timestamp: 01:01:24
 
-Claim: The host says commenters under her posts are telling Bill Ackman to sue her and take her money.
+Claim: The host says commenters are telling Bill Ackman to sue her and take her money.
 
 Transcript Snippet: Bill Ackman, sue her. Take her money. Take just take her money. That's it.
 
@@ -2912,7 +2913,7 @@ Investigative Direction: Find the earliest public mention of the Hamptons weeken
 
 Claim Timestamp: 01:04:41
 
-Claim: The host relays that Bill Ackman says he is offering a million dollars to anyone with any information regarding the person who assassinated Charlie Kirk, as cited in comments that Laura Loomer uses against her.
+Claim: The host relays that Bill Ackman says he is offering a million dollars to anyone with any information regarding the person who assassinated Charlie Kirk, which she says Laura Loomer and others use against her.
 
 Transcript Snippet: Bill Ackman says he's offering a million dollars to whoever information any information he has regarding the person who assassinated Charlie Kirk.
 

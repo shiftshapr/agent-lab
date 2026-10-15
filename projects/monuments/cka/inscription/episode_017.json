@@ -1896,8 +1896,8 @@
       "@type": "Claim",
       "@id": "C-1404",
       "ref": "C-1404",
-      "label": "Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025",
-      "claim": "Approximately 16 hours before Charlie Kirk's assassination, Josh Hammer retweeted an April 19, 2013 Donald Trump post advocating public executions and added the one-word reply \"Based.\"",
+      "label": "Host Says Josh Hammer Retweeted 2013 Trump Public-Execution Tweet on September 9, 2025",
+      "claim": "The host says that approximately 16 hours before Charlie Kirk's assassination, Josh Hammer retweeted an April 19, 2013 Donald Trump post advocating public executions and, per the retweet she shows, added the one-word reply \"Based.\"",
       "anchored_artifacts": [
         "A-1236.1",
         "A-1248.1"
@@ -1932,7 +1932,8 @@
       "mentions_person_refs": [
         "N-55",
         "N-162",
-        "N-163"
+        "N-163",
+        "N-5"
       ]
     },
     {
@@ -1974,14 +1975,14 @@
       "@type": "Claim",
       "@id": "C-1408",
       "ref": "C-1408",
-      "label": "Josh Hammer Did Not, in His Media Discussion of Iryna Zhuravska, Advocate the Death Penalty",
-      "claim": "The host says that, in a clip of Hammer's appearance with host Gabriel about the Iryna Zhuravska case, Hammer discussed criminal justice, media double standards and safety, and that at no point that she could determine did he speak about the death penalty or a public execution.",
+      "label": "Host Says Hammer Did Not Advocate the Death Penalty in His Iryna Zhuravska Commentary",
+      "claim": "The host says that at no point she could determine, on the news, on his own show or anywhere else, did Josh Hammer speak about the death penalty or a public execution regarding the Iryna Zhuravska case, and that he instead spoke about media double standards, criminality and safety; she then plays a clip of Hammer with host Gabriel.",
       "anchored_artifacts": [
         "A-1250.1"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:09:35",
+      "claim_timestamp": "00:08:59",
       "investigative_direction": "Verify the full segment transcript and any accompanying written material Hammer posted in that window.",
       "mentions_person_refs": [
         "N-55",
@@ -1993,8 +1994,8 @@
       "@type": "Claim",
       "@id": "C-1409",
       "ref": "C-1409",
-      "label": "Matt Walsh Posted an X Post Calling for \"Public Execution\" on September 5, 2025",
-      "claim": "Matt Walsh posted on X on September 5, 2025, calling for public execution, hard labor, and long prison terms in a visceral response to the Iryna footage.",
+      "label": "Host Shows Matt Walsh Post Calling for \"Public Execution\" After the Iryna Footage",
+      "claim": "Per the Matt Walsh X post the host shows, Walsh wrote that the only solution is ruthless punishment, public execution for violent criminals, long prison sentences and hard labor; the host says he posted it when the Iryna footage was released on September 5, as a visceral response.",
       "anchored_artifacts": [
         "A-1238.1"
       ],
@@ -2030,7 +2031,7 @@
       "@type": "Claim",
       "@id": "C-1411",
       "ref": "C-1411",
-      "label": "Hammer's First X Post After Charlie Kirk's Death Promoted His Book",
+      "label": "Host Reads What She Says Was Hammer's First Post After Kirk's Death, Mentioning His Book",
       "claim": "The host reads what she says was Josh Hammer's first tweet after news broke of Charlie Kirk's death, in which Hammer writes that they spoke less than 24 hours earlier and that Charlie 'joked how he was going to plug my book on this very tour.'",
       "anchored_artifacts": [
         "A-1241.1"
@@ -2131,7 +2132,7 @@
       "@type": "Claim",
       "@id": "C-1416",
       "ref": "C-1416",
-      "label": "Alex Jones Confirmed Candace Activated a \"Kill Switch\" Distributed to Multiple Named Recipients",
+      "label": "Alex Jones Says Candace Sent a \"Dead Man Switch\" to Multiple Named Recipients",
       "claim": "In a clip the host plays, Alex Jones says Candace Owens sent out a 'dead man switch' to the Tate brothers, Dave Smith, Max Blumenthal, Tucker Carlson and others.",
       "anchored_artifacts": [
         "A-1246.1"
@@ -2176,7 +2177,7 @@
       "@type": "Claim",
       "@id": "C-1418",
       "ref": "C-1418",
-      "label": "A Letter Read Aloud on Air Asserted Critics Were \"Lying Through Their Teeth\"",
+      "label": "Hammer Post the Host Reads Says Tucker and Candace Are \"Lying Through Their Teeth\"",
       "claim": "In a Josh Hammer post the host reads aloud, Hammer says he was given access to a letter a few months earlier and that 'Tucker, Candace, and other bad-faith actors are lying through their teeth about Charlie and Israel.'",
       "anchored_artifacts": [
         "A-1249.1"
@@ -2196,8 +2197,8 @@
       "@type": "Claim",
       "@id": "C-1419",
       "ref": "C-1419",
-      "label": "Josh Hammer Posted \"Jew hatred is inherent in the European DNA\" in 2019 and Later Deleted It",
-      "claim": "Josh Hammer posted on X in 2019 the statement \"Jew hatred is inherent in the European DNA,\" and subsequently deleted the post.",
+      "label": "Host Shows Josh Hammer Post Saying \"Jew Hatred Is Inherent in the European DNA\"",
+      "claim": "Per the Josh Hammer post the host shows, Hammer wrote, \"Jew hatred is inherent in the European DNA\"; the host says that in response people were told he meant it metaphorically.",
       "anchored_artifacts": [
         "A-1239.1"
       ],
@@ -2213,8 +2214,8 @@
       "@type": "Claim",
       "@id": "C-1420",
       "ref": "C-1420",
-      "label": "Josh Hammer Tweeted Nine Times on September 9, 2025 Before the 9:09 p.m. ET Public-Execution Retweet",
-      "claim": "The host says Josh Hammer tweeted nine times on September 9, 2025: a Phillies story, a link to his Iryna media appearance, two tweets against Tucker Carlson, a pro-Israel tweet throwing shade at Trump and Qatar, one against Saudi Arabia, the Hebrew Bible and Western civilization, a Supreme Court media appearance, and finally at 9:09 p.m. ET the public-execution retweet.",
+      "label": "Host Says Josh Hammer Tweeted Nine Times on September 9 Before the 9:09 p.m. ET Public-Execution Retweet",
+      "claim": "The host says Josh Hammer tweeted nine times on September 9: a Phillies story, a link to his Iryna media appearance, two tweets against Tucker Carlson, a pro-Israel tweet throwing shade at Trump and Qatar, one against Saudi Arabia, the Hebrew Bible and Western civilization, a Supreme Court media appearance, and finally at 9:09 p.m. ET the public-execution retweet.",
       "anchored_artifacts": [
         "A-1240.1"
       ],
@@ -2225,14 +2226,16 @@
       "claim_timestamp": "00:11:02",
       "investigative_direction": "Verify each timestamp and content against X archive.",
       "mentions_person_refs": [
-        "N-55"
+        "N-55",
+        "N-22",
+        "N-5"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-1421",
       "ref": "C-1421",
-      "label": "Tyler Bowyer Has Made Accusatory X Posts Against Candace Owens's Coverage",
+      "label": "Host Says Tyler Bowyer's X Posts Were Sloppy and Accusatory",
       "claim": "The host says what Tyler Bowyer did on X was very sloppy: he was accusatory and called people names.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2256,7 +2259,11 @@
       ],
       "tags": [],
       "claim_timestamp": "00:43:02",
-      "investigative_direction": "Submit evidence requests to UVU, Turning Point USA, and individual attendee videographers; FOIA/records requests where applicable."
+      "investigative_direction": "Submit evidence requests to UVU, Turning Point USA, and individual attendee videographers; FOIA/records requests where applicable.",
+      "mentions_person_refs": [
+        "N-3",
+        "N-1"
+      ]
     },
     {
       "@type": "Claim",
@@ -2276,7 +2283,7 @@
       "@type": "Claim",
       "@id": "C-1424",
       "ref": "C-1424",
-      "label": "Host referenced Laura Loomer in closing segment",
+      "label": "Host Says Join Us in Prison When Laura Loomer Sends Us for Writing CIA in Parody",
       "claim": "The host says, while plugging merchandise, 'Join us in prison when Laura Loomer sends us for writing CIA in parody.'",
       "anchored_artifacts": [
         "A-1245.1"
@@ -2294,7 +2301,7 @@
       "@type": "Claim",
       "@id": "C-3644",
       "ref": "C-3644",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host Plugs CIA Parody Merchandise and Asks for the Green CIA Hat",
       "claim": "The host plugs her merchandise and says people can join her in prison when Laura Loomer sends them for writing CIA in parody, because they do not want to be in the CIA; she asks someone to get her the green CIA hat people are tagging her in.",
       "anchored_artifacts": [
         "A-2488.1"
@@ -2401,7 +2408,8 @@
       "mentions_person_refs": [
         "N-55",
         "N-22",
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -2753,8 +2761,8 @@
       "@type": "Claim",
       "@id": "C-9342",
       "ref": "C-9342",
-      "label": "Hammer Says on JTV Candace Chose to Hijack Charlie's Death to Blame Israel",
-      "claim": "In a JTV clip the host plays, Hammer says that, as the interviewer Ali mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'",
+      "label": "JTV Interviewer Ali Says Candace Chose to Hijack Charlie's Death to Blame Israel",
+      "claim": "In a JTV clip the host plays, interviewer Ali tells Hammer that, as Hammer mentioned, there have been people like Ian Carroll and Candace Owens, and that Candace 'has chosen to hijack his death right now to blame it on Israel.'",
       "anchored_artifacts": [
         "A-1242.1"
       ],
@@ -3118,7 +3126,7 @@
       "@id": "C-9357",
       "ref": "C-9357",
       "label": "Host Says the Zoom Was the Following Day With Two Chat Members Who Knew He Was Angry",
-      "claim": "The host says Charlie then held the smaller call with two Jewish individuals who were on the chat and knew he was angry, and says the call was not a follow-up to what he had expressed to them hours earlier.",
+      "claim": "The host says Charlie then held the smaller call with two Jewish individuals who were on the chat and knew he was angry, and mocks Hammer's account that the call was not a follow-up to what he had expressed to them hours earlier but a fan's call about Hammer's book, saying \"That's what Josh wants us to believe.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10163",
@@ -3250,7 +3258,8 @@
       "transcript_snippet": "That has been almost the only compelling argument that Israel had anything to do with it is the way they're acting right now. Like Bibi Netanyahu, the propaganda, the lies,",
       "mentions_person_refs": [
         "N-3",
-        "N-36"
+        "N-36",
+        "N-1"
       ]
     },
     {
@@ -3562,8 +3571,8 @@
       "@type": "Claim",
       "@id": "C-9377",
       "ref": "C-9377",
-      "label": "Host Says She Shared Information With Max Blumenthal and Others in a Release-It-All Package",
-      "claim": "The host says she shared information with Max Blumenthal and people elsewhere and sent a package with the instruction that if anything happens to her and it looks suspicious, they should release it all.",
+      "label": "Host Says Her Kill Switch Means Sharing Information With Max Blumenthal and Others in a Release-It-All Package",
+      "claim": "The host says the kill switch she wanted to create means sharing information with Max Blumenthal and people elsewhere and sending a package with the instruction that if anything happens to her and it looks suspicious, they should release it all.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10176"
@@ -3731,7 +3740,7 @@
       "@type": "Claim",
       "@id": "C-9384",
       "ref": "C-9384",
-      "label": "Alex Jones Says Charlie's TPUSA Got Over 2.5 Million Young People to Vote for Trump",
+      "label": "Alex Jones Says Charlie's TPUSA Got Over 2.5 Million People to Vote for Trump",
       "claim": "In the Alex Jones audio, Jones says Charlie Kirk got over two and a half million people to vote conservatively for Trump with TPUSA, moving the needle more than anyone with young people on colleges.",
       "anchored_artifacts": [
         "A-1246.1"

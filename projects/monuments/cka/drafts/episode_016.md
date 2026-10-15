@@ -1302,11 +1302,11 @@ Investigative Direction: Cross-reference polling or independent survey data on p
 
 ---
 
-**C-1395** Mappin letter: Mappins helped facilitate Turning Point UK
+**C-1395** Host Says Mappin Was the Donor Behind the First Turning Point UK Event
 
 Claim Timestamp: 00:44:38
 
-Claim: Candace says the donor, John Mappin (with his wife), made introductions that unlocked more donations for Kirk, and is the donor Kirk turned to when she said they needed to be in the UK; he could have an event set up to start Turning Point UK, which was where she first laid eyes on George (her husband).
+Claim: Candace says the donor, John Mappin, made introductions that unlocked more donations for Kirk, and is the person Kirk had in mind when she said they needed to be in the UK and he said he knew somebody who could maybe set up an event to start Turning Point UK, which was where she first laid eyes on George (her husband).
 
 Anchored Artifacts: A-1231.1 (context); Candace verbal statement at 00:44:38
 Mentions: N-1, N-3, N-30, N-155, N-156
@@ -1378,7 +1378,7 @@ Investigative Direction: Obtain official arrest / detention logs from Utah autho
 
 Claim Timestamp: 00:40:07
 
-Claim: Per Lance's family (via Candace), the locks on the Tyler Robinson / Lance Twiggs apartment were illegally changed after the raid without the family's knowledge or consent.
+Claim: Per Lance's family (via Candace), the locks on the Tyler Robinson / Lance Twiggs apartment were illegally changed after the raid without the family being informed.
 
 Anchored Artifacts: A-1235.3
 Mentions: N-3, N-40, N-54
@@ -2415,7 +2415,7 @@ Investigative Direction: Compare with episode 11 accounts of a retired detective
 
 Claim Timestamp: 00:39:45
 
-Claim: The host says the feds are staging the entire operation, and that to get a conviction they need to say they found something in his house, such as the note under the keyboard that she says was destroyed after being photographed.
+Claim: The host says the feds are staging the entire operation, and that to get a conviction they need to say they found something in his house, such as the note under the keyboard, which she mocks as conveniently photographed and then destroyed.
 
 Transcript Snippet: Now, the feds are staging this entire operation. So, that would follow that if you're trying to get a conviction, you got to be like, "And we found this in his house."
 
@@ -2551,7 +2551,7 @@ Transcript Snippet: And that event was when I first laid eyes on George. Not whe
 Anchored Artifacts: 
 Mentions: N-30, N-155, N-3
 Related Nodes: N-10118, N-10126
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare with episode 9 claims on the UK trip and husband meeting (C-1267, C-1268). Note that draft claim C-1395 reads George here as Zinn, which the context does not support.
 
 ---

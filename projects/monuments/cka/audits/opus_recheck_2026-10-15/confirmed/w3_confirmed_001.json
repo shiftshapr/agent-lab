@@ -1,0 +1,479 @@
+[
+ {
+  "claim": "C-13954",
+  "episode": 19,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Pastor McCoy stops himself after saying \"I was watching,\" and asks what exactly he was watching.",
+   "mentions": [
+    "N-17"
+   ]
+  },
+  "note": "Transcript: 'he stops himself. He says, \"I was watching.\"' Claim refers only to Rob McCoy; N-191 not referred to."
+ },
+ {
+  "claim": "C-1495",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-190"
+   ]
+  },
+  "note": "Claim refers to Charlie ('her and Charlie's experience'); transcript: 'Charlie said, \"Yep, we felt it, too.\"'"
+ },
+ {
+  "claim": "C-1497",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:08:40"
+  },
+  "note": "Adams clip introduced ~08:43, 'ripped a hole in reality' ~08:51 by word position."
+ },
+ {
+  "claim": "C-1498",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:18:00"
+  },
+  "note": "Q&A audio starts ~18:05; 'national socialist' ~18:29."
+ },
+ {
+  "claim": "C-1500",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:41:12"
+  },
+  "note": "Kolvet clip begins ~40:51; 'He was taking social videos' ~41:20."
+ },
+ {
+  "claim": "C-1503",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "claim": "Host displays a hospital internal message (received per host at 20:08; she later says she meant Utah Valley Hospital, not UVU) stating that, due to a media event that led to a trauma patient, only \"Deborah\" and the sender, \"Jacob Blank,\" are allowed in the chart.",
+   "timestamp": "00:34:15"
+  },
+  "note": "Message read ~34:30; no date given; Jacob Blank signs it ('Deborah and myself'); host later corrects UVU to Utah Valley Hospital."
+ },
+ {
+  "claim": "C-1504",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she received tips that Charlie was at UVU and an email from someone on the UVU medical staff saying they were certain he was there, with his entry in the UVU system and an internal message restricting access to the file (A-1278.1), while saying there could be a logical explanation she has not found; she later corrects UVU to Utah Valley Hospital."
+  },
+  "note": "Transcript: tips plus one staff email 'I'm certain that he was here'; hedge 'There could be a logical answer. I have not stumbled upon it yet.'"
+ },
+ {
+  "claim": "C-1505",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-17",
+    "N-197",
+    "N-199"
+   ]
+  },
+  "note": "Claim says 'guiding Charlie'; N-1 belongs in Mentions."
+ },
+ {
+  "claim": "C-1506",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, George Webb says Rob McCoy is \"kind of the NAR push for Charlie,\" that Charlie was meeting with NAR, and that NAR were the \"$25 million and above\" Christian-right donors, the organization being Ziklag.",
+   "timestamp": "00:24:50",
+   "mentions": [
+    "N-1",
+    "N-17",
+    "N-199"
+   ]
+  },
+  "note": "Webb: 'He is kind of the NAR push for Charlie. Charlie was meeting with NAR... The Ziklag was the name'; ~24:55."
+ },
+ {
+  "claim": "C-1507",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:57:00"
+  },
+  "note": "'on the tax forms... listed as Jean Michelle' ~57:08."
+ },
+ {
+  "claim": "C-12195",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the woman Lila Rose had on her show, a lawyer for one of Andrew Tate's accusers, then attacked her and Tucker Carlson.",
+   "label": "Host Says the Accuser's Lawyer Then Attacked Her and Tucker Carlson"
+  },
+  "note": "'she had someone on her show that was... one of the accusers lawyers... that woman then attacked me and Tucker Carlson... You're talking to her lawyer.'"
+ },
+ {
+  "claim": "C-12225",
+  "episode": 20,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that before Mikey McCoy did the behind-the-scenes video role, it was done by Sara Schmachtenberger.",
+   "label": "Host Says Before Mikey the Behind-the-Scenes Video Role Was Done by Sara Schmachtenberger",
+   "names": [
+    {
+     "wrong": "Sarah Schmackenberger",
+     "right": "Sara Schmachtenberger",
+     "source": "https://theorg.com/org/turning-point-usa/org-chart/sara-schmachtenberger"
+    }
+   ]
+  },
+  "note": "Confirmed: theorg.com lists Sara Schmachtenberger, TPUSA Media Director 2019-21."
+ },
+ {
+  "claim": "C-1523",
+  "episode": 21,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip of the Megyn Kelly interview the host plays, Don Trump Jr., asked how he feels about the investigation into Charlie's death, says \"so far so good\" and turns to continuing Kirk's work; when Kelly asks again whether he has confidence in the FBI investigation, he says \"I I do, you know, and I I I mean, I don't know,\" then that he does have confidence. The host says he did his best not to answer the question."
+  },
+  "note": "Fix is right except 'hesitantly', which is an interpretation; quote his actual words instead."
+ },
+ {
+  "claim": "C-9426",
+  "episode": 22,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the clip, Dave Smith tells Seth Dillon that people upset about Candace and Nick Fuentes becoming so huge have no one but themselves to blame, because the support behind them came from opposing the destruction of Gaza.",
+   "mentions": [
+    "N-39",
+    "N-38",
+    "N-3",
+    "N-202"
+   ]
+  },
+  "note": "Clip ends at 'killing children'; 'cancel culture' lines are the host. Smith addresses Dillon ('guys like you')."
+ },
+ {
+  "claim": "C-12327",
+  "episode": 23,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie Kirk was kind of veering from what she thinks was a predetermined course for Turning Point USA, and that given this and what is now known about Mikey McCoy's father, she has a lot of questions.",
+   "mentions": [
+    "N-1",
+    "N-17",
+    "N-191"
+   ]
+  },
+  "note": "Veering is not conditioned on the McCoys; 'his father' = Mikey McCoy's father Rob, so both are referred to."
+ },
+ {
+  "claim": "C-1574",
+  "episode": 24,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Shows Photo of Charlie Kirk Puffing His Chest Beside Ben Shapiro",
+   "claim": "The host shows a photo she says was taken with Ben Shapiro when she and Charlie Kirk went on his show after a producer booked them in June 2018, at a location she thinks was in Sherman Oaks, California, and says Charlie puffed his chest out and stood extra tall in it so they would never forget triumphing over Ben Shapiro."
+  },
+  "note": "Only Charlie puffs his chest; location hedged ('I think it was in Sherman Oaks'); host's account."
+ },
+ {
+  "claim": "C-1575",
+  "episode": 24,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-211",
+    "N-215",
+    "N-216",
+    "N-217"
+   ]
+  },
+  "note": "Claim refers to Charlie ('her husband's behalf')."
+ },
+ {
+  "claim": "C-1576",
+  "episode": 24,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-211"
+   ]
+  },
+  "note": "Claim does not refer to Erika Kirk."
+ },
+ {
+  "claim": "C-1583",
+  "episode": 24,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host characterizes Ben Shapiro's segment attacking Tucker Carlson as \"a very, dare I say, scripted stab\" with the \"same talking points\" as other Zionists.",
+   "timestamp": "00:09:25"
+  },
+  "note": "'he took a very, dare I say, scripted stab at Tucker Carlson. Same talking points.' ~09:30."
+ },
+ {
+  "claim": "C-9499",
+  "episode": 24,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Case Messages Attributed to 20-Year-Old Gay Men Do Not Sound Gen Z",
+   "claim": "The host says the case makes no sense, citing the impassioned messages attributed to 20-year-old gay men, which she says don't exactly sound Gen Z."
+  },
+  "note": "Host cites the messages as things that 'make entirely no sense', not stating who wrote them."
+ },
+ {
+  "claim": "C-1584",
+  "episode": 25,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-191",
+    "N-1"
+   ]
+  },
+  "note": "Claim does not name or clearly refer to Rob McCoy."
+ },
+ {
+  "claim": "C-1585",
+  "episode": 25,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:06:38"
+  },
+  "note": "Rob McCoy clip ~06:29-06:46 by word position."
+ },
+ {
+  "claim": "C-1589",
+  "episode": 25,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a Fox 13 News report by Nate Carlisle that the host plays, UVU's Turning Point USA chapter submitted the September 10 event application in mid-July; the application form did not contain a standard question about police protection; UVU subsequently denied release of the security plan citing state records law.",
+   "names": [
+    {
+     "wrong": "Nate Carile",
+     "right": "Nate Carlisle",
+     "source": "https://www.fox13now.com/news/shooting-of-charlie-kirk/uvu-provides-first-document-related-to-campus-kirk-shooting-denies-others"
+    }
+   ]
+  },
+  "note": "Confirmed: Fox 13 article on UVU application is by investigative reporter Nate Carlisle."
+ },
+ {
+  "claim": "C-1591",
+  "episode": 25,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-39"
+   ],
+   "claim": "In a clip from Dave Smith's show that the host plays, Tucker Carlson asserts that collective punishment (blood guilt) is antithetical to Christianity and to the West, and says the Israeli government's position (not that of all Israelis or Jews) is not a Western one, adding that most countries do this."
+  },
+  "note": "Tucker: 'not of all Israelis... not of all Jews... of the Israeli government'; 'Most countries do this.' Fuentes not in claim."
+ },
+ {
+  "claim": "C-1594",
+  "episode": 25,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-69"
+   ],
+   "timestamp": "00:21:59"
+  },
+  "note": "Milo not in claim; '12 Israeli cell phones' ~22:04."
+ },
+ {
+  "claim": "C-6557",
+  "episode": 25,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:08:08"
+  },
+  "note": "'I maintain... not intrinsically evil' ~08:13."
+ },
+ {
+  "claim": "C-1605",
+  "episode": 26,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Says Brett Cooper Is a Voice of Gen Z Who Should Be Heard",
+   "claim": "The host says Brett Cooper is a voice of Gen Z and that the good thing to do would be to listen to her and invite her onto a show, as Charlie Kirk did when he told them they were pushing a generation away.",
+   "mentions": [
+    "N-3",
+    "N-222",
+    "N-1"
+   ]
+  },
+  "note": "At 20:14 host says Cooper is a voice of Gen Z who should be heard, citing Charlie; no endorsement of Cruz critique there."
+ },
+ {
+  "claim": "C-1608",
+  "episode": 26,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:23:55"
+  },
+  "note": "'Here is the clip' ~23:56, 'My mom visited mediums' ~24:01."
+ },
+ {
+  "claim": "C-1615",
+  "episode": 26,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-191",
+    "N-2",
+    "N-1",
+    "N-218"
+   ]
+  },
+  "note": "Claim refers to Mikey McCoy's wife (N-218)."
+ },
+ {
+  "claim": "C-9566",
+  "episode": 26,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-97",
+    "N-95",
+    "N-191",
+    "N-218"
+   ]
+  },
+  "note": "Claim refers to Mikey McCoy's wife (N-218)."
+ },
+ {
+  "claim": "C-9579",
+  "episode": 26,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk."
+ },
+ {
+  "claim": "C-1619",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie."
+ },
+ {
+  "claim": "C-1622",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie."
+ },
+ {
+  "claim": "C-1623",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-212",
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Claim names Charlie ('when Charlie was shot')."
+ },
+ {
+  "claim": "C-1624",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie."
+ },
+ {
+  "claim": "C-1625",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-228",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie ('Charlie texted her')."
+ },
+ {
+  "claim": "C-1630",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-99",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Charlie ('Charlie tribute episode')."
+ },
+ {
+  "claim": "C-9610",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-164"
+   ]
+  },
+  "note": "Claim does not refer to Allie Beth Stuckey."
+ },
+ {
+  "claim": "C-9644",
+  "episode": 27,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim does not refer to Erika Kirk."
+ },
+ {
+  "claim": "C-1640",
+  "episode": 28,
+  "decision": "accept",
+  "fix": {
+   "claim": "According to the read-aloud HuffPost article, on March 25th, then-Daily Wire CEO Jeremy Boreing joined Nick Fuentes on X for a live audio chat room, praised Fuentes as \"very funny\" and \"one of the most talented political influencers,\" and offered only mild criticism; the host says the X Space was hosted by Lauren Chen.",
+   "label": "HuffPost Report: Boreing Praised Fuentes on X Space",
+   "timestamp": "00:12:50"
+  },
+  "note": "'hosted by Lauren Chen' is the host's words; HuffPost read from ~12:58."
+ }
+]

@@ -1,0 +1,775 @@
+[
+ {
+  "claim": "C-9569",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9570",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "2018 date is in window at 48:25: 'kicked her off of Twitter back in night in 2018'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9571",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9572",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9573",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Hammer does not name Mamdani ('this guy as the next mayor'); clearly referred to. 'globalize the inifado' at ~50:40.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9574",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'mass down moment' read as mask-down moment.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9575",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Jeffrey Mason' is Jeffrey Moussaieff Masson, author of The Assault on Truth; node N-847 correct.",
+  "fix": {}
+ },
+ {
+  "claim": "C-9576",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Jeffrey Mone' = Masson (N-847).",
+  "fix": {}
+ },
+ {
+  "claim": "C-9577",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9578",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9579",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie Kirk ('Charlie Kirk's murder') but Mentions has only N-3.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-9580",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9581",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9582",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9583",
+  "episode": 26,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1617",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Grok text says 'She credits the organic growth to criticism, legal challenges... and her small team's resilience. Owens attributes the milestone to divine intervention' - the summary reports Owens' attribution; it does not itself attribute.",
+  "fix": {
+   "claim": "A Grok-generated summary the host reads states that the \"Candace\" podcast reached the top global ranking per Podscribe data, following the 2024 Daily Wire departure, and that Owens credits the growth to criticism, the Macron defamation lawsuit and her team's resilience, and attributes the milestone to divine intervention."
+  }
+ },
+ {
+  "claim": "C-1618",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1619",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie ('over Charlie's death') but Mentions has only N-2.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1620",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Watters asks 'Do you think they've caught your husband's killer?'; 'pulled the trigger' is the host's paraphrase. 'Not a straight yes or no' is the host's comment, not Erika declining.",
+  "fix": {
+   "label": "Erika Kirk Does Not Give Direct Yes/No on Whether Husband's Killer Was Caught",
+   "claim": "When Jesse Watters asks whether they have caught her husband's killer, Erika Kirk responds by stating she trusts her team and has seen the autopsy report; the host says it is not a straight yes or no.",
+   "mentions": [
+    "N-2",
+    "N-212",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-1621",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1622",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie but Mentions has only N-2.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1623",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie ('when Charlie was shot') but Mentions omits N-1.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-212",
+    "N-1",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-1624",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie ('the day Charlie was assassinated') but Mentions has only N-2.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1625",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie ('Charlie texted her') but Mentions has only N-228. Tweet read by host from ~35:05.",
+  "fix": {
+   "mentions": [
+    "N-228",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1626",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Current title already reads correctly ('No Venue Yet').",
+  "fix": {}
+ },
+ {
+  "claim": "C-3740",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Revision note says C-1626's title inverts the body, but C-1626's current title ('...No Venue Yet, Two Months Out') already matches; quoted tweet at ~36:40 is accurate.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1627",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1628",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1629",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1630",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie ('every Charlie tribute episode') but Mentions has only N-99. Quote read ~48:25-48:40.",
+  "fix": {
+   "mentions": [
+    "N-99",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-1631",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'I don't have direct knowledge, but I assume there are non-disparagement agreements'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1632",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1633",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Post read at ~25:30, just before the 25:41 timestamp.",
+  "fix": {}
+ },
+ {
+  "claim": "C-1634",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-1635",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3755",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9584",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9585",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9586",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9587",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "'Australian minister' is not said in the window; host says only 'Tony Burke, thank you for banning us from an entire country'.",
+  "fix": {
+   "claim": "The host says Tony Burke banned her from the entire country, and at 01:01:57 says she can reapply in about a year."
+  }
+ },
+ {
+  "claim": "C-9588",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9589",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9590",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9591",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9592",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9593",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9594",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9595",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says 'we have footage in 4K all of the stuff when he was tweeting'; 'he' is not identified as Charlie, so 'Charlie' is an addition.",
+  "fix": {
+   "claim": "The host says Tyler Bowyer said they have footage in 4K of all of the stuff when he was tweeting."
+  }
+ },
+ {
+  "claim": "C-9596",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9597",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9598",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9599",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9600",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9601",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Title adds 'by the Neck'; window says only 'stopped the bullet when in a normal circumstance it would have decapitated him'. Claim body accurate; spoken ~20:40.",
+  "fix": {
+   "label": "Host Says Officials Told Obvious Lies Including a .30-06 Bullet Being Stopped"
+  }
+ },
+ {
+  "claim": "C-9602",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9603",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9604",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9605",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9606",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-9607",
+  "episode": 27,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

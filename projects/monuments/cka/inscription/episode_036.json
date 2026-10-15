@@ -2138,9 +2138,7 @@
       "transcript_snippet": "Suddenly on December 3rd before I interview him, I receive the first ever cease and desist letter from Brigitte Macron and her lawyers.",
       "mentions_person_refs": [
         "N-3",
-        "N-82",
-        "N-378",
-        "N-284"
+        "N-82"
       ]
     },
     {
@@ -2750,7 +2748,7 @@
       "@id": "C-5019",
       "ref": "C-5019",
       "label": "Host Says Becoming Brigitte Season 2 Began September 8 and Macron's Lawsuit Cited MK Ultra 18 Times",
-      "claim": "The host says her Becoming Brigitte season 2 started on September 8, 2025, and that Emmanuel Macron mentioned MK Ultra to her 18 times in the lawsuit, which struck her as odd.",
+      "claim": "The host says her Becoming Brigitte season 2 started on September 8, 2025, and that Brigitte and Emmanuel Macron mentioned MK Ultra to her 18 times in the lawsuit, which struck her as odd.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10001",
@@ -3021,8 +3019,8 @@
       "@type": "Claim",
       "@id": "C-5033",
       "ref": "C-5033",
-      "label": "Host Says the Sorenson Center Is the Building in Front of the Lucy Center",
-      "claim": "The host says the Sorenson Center was the building in front of the Lucy Center.",
+      "label": "Harpole Says the Sorenson Center Is the Building in Front of the Lucy Center",
+      "claim": "In a clip the host plays, Brian Harpole says the Sorenson Center was the building in front of the Lucy Center.",
       "anchored_artifacts": [
         "A-1448.1"
       ],
@@ -3030,11 +3028,14 @@
         "N-10028"
       ],
       "tags": [],
-      "claim_timestamp": "00:34:36",
+      "claim_timestamp": "00:34:54",
       "investigative_direction": "Check a UVU campus map for the position of the Sorenson Center relative to the Losee Center; the transcript spells the second building Lucy.",
       "transcript_snippet": "the Sorenson Center was the building in front of the Lucy Center.",
       "supports_claim_refs": [
         "C-1763"
+      ],
+      "mentions_person_refs": [
+        "N-267"
       ]
     },
     {
@@ -3364,7 +3365,7 @@
       "@id": "C-5050",
       "ref": "C-5050",
       "label": "Host Recounts Official Account of Robinson Texting a Partner From Dairy Queen and Next Day",
-      "claim": "The host summarizes the official account as Robinson retreating to a Dairy Queen where he texted every minute of what he did to his partner, and texting more the next day about his dad even though he was home with her.",
+      "claim": "The host summarizes the official account as Robinson retreating to a Dairy Queen where he texted every minute of what he did to his partner, and texting more the next day about his dad even though he was home with that partner.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10051",

@@ -361,7 +361,7 @@ Confidence Level: High
 
 **A-3033** 920 North King Debunk Letter Bundle
 
-**A-3033.1** Host verbal reference to a letter behind the debunking claim that Kittis's lawyer is in the 920 North King office (not shown)
+**A-3033.1** Host verbal reference to a letter behind the debunking claim that Candace'ss lawyer is in the 920 North King office (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:43:40
@@ -1099,11 +1099,11 @@ Investigative Direction: Compare to full Patel press conference record on FBI.go
 
 ---
 
-**C-1773** BTT Aircraft Stopped at Minot, ND for Approximately One Hour on September 4, 2025
+**C-1773** Host Says BTT Aircraft Stopped at Minot, ND for About One Hour on September 4, 2025
 
 Claim Timestamp: 00:05:34
 
-Claim: Per a military tipster email, the Egyptian military BTT aircraft stopped for approximately one hour at Minot, North Dakota on September 4, 2025 before continuing to Provo.
+Claim: The host says the BTT aircraft stopped for just one hour in Minot, North Dakota, when it came into the United States on September 4, before continuing to Provo; a military tipster email she then reads calls the Minot stopover a key not to overlook.
 
 Anchored Artifacts: A-1454.1
 Mentions: 
@@ -1114,7 +1114,7 @@ Investigative Direction: Cross-reference with ADS-B / Flightradar24 historical d
 
 ---
 
-**C-1774** Minot Has an Active Air Force Base and FBI Office
+**C-1774** Tipster Email Says Minot Has an Air Force Base and FBI Office
 
 Claim Timestamp: 00:05:34
 
@@ -1186,11 +1186,11 @@ Investigative Direction: Identify the headline outlet and obtain the underlying 
 
 ---
 
-**C-1779** White House Said It Was "Not Aware" of Huckabee–Pollard Meeting but Stands by Ambassador
+**C-1779** Host Quotes Leavitt Saying White House Was Not Aware of Huckabee–Pollard Meeting
 
-Claim Timestamp: 00:28:14
+Claim Timestamp: 00:27:39
 
-Claim: White House Press Secretary Karoline Leavitt stated at a briefing that the White House was not aware of the Huckabee–Pollard meeting in advance, but that the President stands by the ambassador.
+Claim: The host says that when White House Press Secretary Karoline Leavitt was asked at the White House about the Huckabee–Pollard meeting, she said, quote, the White House was not aware of that meeting but the president stands by the ambassador.
 
 Anchored Artifacts: A-1458.1
 Mentions: N-274, N-275, N-281
@@ -1200,11 +1200,11 @@ Investigative Direction: Locate full White House briefing transcript or video.
 
 ---
 
-**C-1780** Free Press Writer Emailed Host Requesting Comment on Multiple Shows
+**C-1780** Host Reads Free Press Writer's Email Requesting Comment
 
 Claim Timestamp: 00:29:33
 
-Claim: Ashley Rindsberg, writing for The Free Press, emailed Candace Owens requesting comment on a piece about the "economics of high engagement political content on YouTube and podcast platforms," specifically referencing claims about Israel, the death of Charlie Kirk, and the Becoming Brigitte series, along with five business-metric questions.
+Claim: Per the email from Free Press writer Ashley Rindsberg that the host reads, he is reporting a piece on the "economics of high engagement political content on YouTube and podcast platforms" and asks for comment on her claims about Israel, the death of Charlie Kirk and the Becoming Brigitte series, with five questions about her content and its business performance.
 
 Anchored Artifacts: A-1459.1
 Mentions: N-3, N-277, N-1
@@ -1218,7 +1218,7 @@ Investigative Direction: Confirm whether the article was published and whether R
 
 **C-3651** Host identifies show community as Decentralized Intelligence Agency
 
-Claim Timestamp: 00:39:33
+Claim Timestamp: 00:41:04
 Claim: The host says, after reading a viewer comment, 'This is why I love the decentralized intelligence agency.'
 Transcript Snippet: ...reative perspective there. This is why I love the decentralized intelligence agency. Holly Carlin writes, "We needed a hoodie that says go Max." The get me out of here write...
 Anchored Artifacts: 
@@ -1312,7 +1312,7 @@ Investigative Direction: Lay out what the planes' flights prove or disprove rela
 
 Claim Timestamp: 00:05:10
 
-Claim: The host says she is confident the case will be solved and that they will figure out who the foreign dignitary was who went to 920 North King on the morning of the assassination and who flew from Provo into Wilmington, Delaware that morning.
+Claim: The host says she has been confident from the beginning that this would not be a JFK assassination story, and that they will figure out who the foreign dignitary was who went to 920 North King on the morning of the assassination and who flew from Provo into Wilmington, Delaware that morning.
 
 Transcript Snippet: We are going to figure out who that foreign dignitary was who went to 920 North King on the morning of Charlie's assassination.
 
@@ -1366,7 +1366,7 @@ Transcript Snippet: it is home as he indicated to a global command strike center
 
 Anchored Artifacts: 
 Related Nodes: N-10277
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Verify the Air Force Global Strike Command footprint at Minot and any foreign participation in joint exercises in August 2025.
 
 ---
@@ -2157,13 +2157,13 @@ Investigative Direction: None; recorded for continuity with the Huckabee-Friedma
 
 ---
 
-**C-9824** Host Says Debunkers Falsely Claimed Kittis's Lawyer Is in the 920 North King Office
+**C-9824** Host Says Debunkers Falsely Claimed Her Own Lawyer Is in the 920 North King Office
 
 Claim Timestamp: 00:43:40
 
-Claim: The host says the false debunking claimed that Kittis's lawyer is in the office at 920 North King, and that she wants to clarify.
+Claim: The host says the false debunking claimed that her own lawyer ("Candace's lawyer") is in the office at 920 North King, and that she wants to clarify.
 
-Transcript Snippet: to their like false debunking where they said, "Kittis' lawyer is in this office."
+Transcript Snippet: to their like false debunking where they said, "Candace's lawyer is in this office."
 
 Anchored Artifacts: A-3033.1
 Related Nodes: N-10284, N-10303
@@ -2203,11 +2203,11 @@ Investigative Direction: Review Delaware court filings for counsel of record and
 
 ---
 
-**C-9827** Host Says Noah Is Never Listed on Her Paperwork and She Learned of the Local-Firm Point From the Letter
+**C-9827** Host Says Noah Is Never Listed on Her Paperwork and She Was Unaware of Something Before the Letter
 
 Claim Timestamp: 00:44:45
 
-Claim: The host says in every lawsuit she has been involved in, Noah is never the one filing or listed on the paperwork, and that she was not aware of that before this letter.
+Claim: The host says in every lawsuit she has been involved in, Noah is never the one filing or listed on the paperwork, which she has always seen to be the case, and, without saying what, that she "was not aware of that before this letter."
 
 Transcript Snippet: in every lawsuit that I've been involved in, you will see that it's not it's never Noah that's actually filing or listing on any of the paperwork for that reason.
 

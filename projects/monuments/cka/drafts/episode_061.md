@@ -195,7 +195,7 @@ Confidence Level: High
 
 **A-1668** Aspen Donor Testimonial Bundle
 
-**A-1668.1** Host's verbal account of a donor present at the Aspen event who recalls Charlie Kirk saying, in effect, that if something happened, Erica Kirk would "know what to do"
+**A-1668.1** Host's verbal account of a donor present at the Aspen event who recalls Charlie Kirk saying, in effect, that if something happened, Erika Kirk would "know what to do"
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -366,7 +366,7 @@ Investigative Pressure: Low
 ---
 
 **N-15** Justin Streiff
-TPUSA executive reported by host as participating in a sit-down with Owens and Erica Kirk to discuss Owens's allegations. First-name spelling uncertain.
+TPUSA executive reported by host as participating in a sit-down with Owens and Erika Kirk to discuss Owens's allegations. First-name spelling uncertain.
 
 Evidence Count: 0
 Claim Count: 0
@@ -456,7 +456,7 @@ Investigative Pressure: Medium
 
 **N-10437** Aspen Donor Recall Verification
 
-Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erica Kirk as someone who would "know what to do" if something happened.
+Verification target arising from an unnamed Aspen-event donor's recollection, relayed by host, that Charlie Kirk referenced Erika Kirk as someone who would "know what to do" if something happened.
 
 Evidence Count: 1
 Claim Count: 1
@@ -769,7 +769,7 @@ Investigative Direction: Compare the prohibited scope articulated in the letter 
 
 Claim Timestamp: 00:13:00–00:14:10
 
-Claim: The TPUSA letter alleges that Owens accused a TPUSA employee of being "intentionally evasive" about whether Erica Kirk was at "Fort Huachuca" in or around an alleged secret meeting Owens has linked to the assassination.
+Claim: The TPUSA letter alleges that Owens accused a TPUSA employee of being "intentionally evasive" about whether Erika Kirk was at "Fort Huachuca" in or around an alleged secret meeting Owens has linked to the assassination.
 
 Anchored Artifacts: A-1661.1
 Mentions: N-2, N-3
@@ -900,7 +900,7 @@ Investigative Direction: Obtain the original contract and any amendments to veri
 
 ---
 
-**C-2169** Owens states her TPUSA speaking contract was terminated December 2, 2025
+**C-2169** TPUSA Letter States Owens's Agreements Were Terminated December 2, 2025
 
 Claim Timestamp: 00:10:35
 
@@ -1060,10 +1060,10 @@ Investigative Direction: Obtain the specific Sony executive text-message exhibit
 
 Claim Timestamp: 00:58:55
 
-Claim: The top viewer comment from the prior episode states TPUSA "fired 40 people for leaking info but kept the head of security after the biggest possible failure"; Owens partially corroborates and revises the figure to approximately 15.
+Claim: A viewer comment the host reads says TPUSA "fired 40 people for leaking info but kept the head of security after the biggest possible failure"; the host says she did not hear it was 40 but heard it was a lot of people, and that it sounded like 15.
 
 Anchored Artifacts: A-1667.1
-Mentions: N-1
+Mentions: N-3
 
 Related Nodes: N-10432
 
@@ -1075,7 +1075,7 @@ Investigative Direction: Verify the firings count through internal TPUSA communi
 
 Claim Timestamp: 00:58:55
 
-Claim: An unnamed donor present at the Aspen event reportedly recalls Kirk referencing Erica Kirk by saying that if something happened, she would know what to do.
+Claim: The host says an unnamed donor present at the Aspen event recalls Charlie Kirk mentioning Erika Kirk, saying that if something happened, Erika would know what to do.
 
 Anchored Artifacts: A-1668.1
 Mentions: N-1, N-2
@@ -1417,7 +1417,7 @@ Investigative Direction: Compile the specific statements the host classes as lie
 
 Claim Timestamp: 00:16:11
 
-Claim: The host says she is not saying TPUSA's charitable spending is improper, that 'we've barely covered their finances,' and that she thinks what TPUSA wants is people's money.
+Claim: The host says she is not saying TPUSA spends only one cent of each dollar on its stated purpose, that 'we've barely covered their finances,' and that she thinks what TPUSA wants is people's money.
 
 Transcript Snippet: I'm not saying that's case turning point USA. We've barely covered their finances actually
 

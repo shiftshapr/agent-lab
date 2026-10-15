@@ -38,13 +38,13 @@
   - Claim Range: C-1584–C-1597
   - New People Nodes Introduced: N-191, N-17, N-218, N-22, N-39, N-202, N-219, N-220, N-182, N-42, N-221
   - New Investigation Target Nodes Introduced: N-10218, N-10219, N-10220, N-10221, N-10222, N-10223
-  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk)
+  - Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erika Kirk)
 
 ---
 
 ## II. Executive Summary
 
-This episode advances the McCoy succession thread and introduces two major new allegations: a numerical claim about Israeli cell-phone presence on 9/10 and corroborating documentary material concerning Mikey McCoy's pre-death documentation behavior, Rob McCoy's pastoral resignation timeline, and Rob McCoy's relocation/asset movements. Artifact-backed evidentiary material includes memorial-service audio characterizing Mikey McCoy as Charlie's heir apparent, a Faith Forward Show audio segment in which Rob McCoy references Charlie's journal succession plan, Mikey McCoy's own on-air statement that he mic'd Charlie for the first time on the final Asia trip, Eliza McCoy's Instagram post describing a first-time McCoy-Kirk family vacation, a Ventura County Star article describing Rob McCoy's July transition and Phoenix relocation, a Fox 13 News (Nate Carile) report on the UVU/Turning Point USA mid-July event application, a real-estate listing assertion concerning Rob McCoy's Coronado property, two Tucker Carlson audio clips from his Dave Smith appearance, and a Milo Yiannopoulos tweet. Investigative questions advanced: (1) Was Mikey McCoy being positioned as Charlie's successor, and if so by whom? (2) Why did Mikey McCoy begin capturing intimate Charlie Kirk footage weeks before 9/10? (3) What explains the timing of Rob McCoy's pastoral transition and Arizona relocation relative to 9/10? (4) Did the mid-July UVU event application follow standard protocol regarding security? (5) Were 12 Israeli cell-phone accounts present on the UVU campus on 9/10, and if so to whom did they belong? The episode is structurally pivotal: it consolidates the McCoy documentary timeline and presents the Israeli cell-phone allegation as the host's most explicit on-air verification to date, though the underlying source for that verification is not displayed in the episode itself.
+This episode advances the McCoy succession thread and introduces two major new allegations: a numerical claim about Israeli cell-phone presence on 9/10 and corroborating documentary material concerning Mikey McCoy's pre-death documentation behavior, Rob McCoy's pastoral resignation timeline, and Rob McCoy's relocation/asset movements. Artifact-backed evidentiary material includes memorial-service audio characterizing Mikey McCoy as Charlie's heir apparent, a Faith Forward Show audio segment in which Rob McCoy references Charlie's journal succession plan, Mikey McCoy's own on-air statement that he mic'd Charlie for the first time on the final Asia trip, Eliza McCoy's Instagram post describing a first-time McCoy-Kirk family vacation, a Ventura County Star article describing Rob McCoy's July transition and Phoenix relocation, a Fox 13 News (Nate Carlisle) report on the UVU/Turning Point USA mid-July event application, a real-estate listing assertion concerning Rob McCoy's Coronado property, two Tucker Carlson audio clips from his Dave Smith appearance, and a Milo Yiannopoulos tweet. Investigative questions advanced: (1) Was Mikey McCoy being positioned as Charlie's successor, and if so by whom? (2) Why did Mikey McCoy begin capturing intimate Charlie Kirk footage weeks before 9/10? (3) What explains the timing of Rob McCoy's pastoral transition and Arizona relocation relative to 9/10? (4) Did the mid-July UVU event application follow standard protocol regarding security? (5) Were 12 Israeli cell-phone accounts present on the UVU campus on 9/10, and if so to whom did they belong? The episode is structurally pivotal: it consolidates the McCoy documentary timeline and presents the Israeli cell-phone allegation as the host's most explicit on-air verification to date, though the underlying source for that verification is not displayed in the episode itself.
 
 ---
 
@@ -122,7 +122,7 @@ Confidence Level: High
 
 **A-1326** News Report Bundle: Fox 13 Salt Lake City on UVU Event Application
 
-**A-1326.1** Fox 13 News report (investigative reporter Nate Carile) describing UVU's release of the mid-July event application submitted by UVU's Turning Point USA chapter, and noting that the application form did not contain a standard question about police protection; UVU denied the security plan citing state records law
+**A-1326.1** Fox 13 News report (investigative reporter Nate Carlisle) describing UVU's release of the mid-July event application submitted by UVU's Turning Point USA chapter, and noting that the application form did not contain a standard question about police protection; UVU denied the security plan citing state records law
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -365,7 +365,7 @@ Investigative Pressure: Low
 
 ---
 
-**N-220** Nate Carile
+**N-220** Nate Carlisle
 
 Fox 13 Salt Lake City investigative reporter who broke the story on UVU's release of the mid-July event application and the absence of a standard police-protection question on the form.
 
@@ -724,7 +724,7 @@ Claim Timestamp: 00:02:42–00:05:23
 Claim: The host says, in clips she plays, speakers at the memorial service and elsewhere repeatedly characterized Mikey McCoy with adjectives ("hero," "amazing," "brilliant," "wise beyond his years") and explicitly described him as capable of following in Charlie Kirk's footsteps on campus.
 
 Anchored Artifacts: A-1321.1
-Mentions: N-17, N-191, N-1
+Mentions: N-191, N-1
 
 Related Nodes: N-10218
 
@@ -734,7 +734,7 @@ Investigative Direction: Obtain full memorial service audio/video; verify whethe
 
 **C-1585** Host Says Rob McCoy Connected Mikey's Role to Charlie's Journaled Succession Plan
 
-Claim Timestamp: 00:05:23–00:07:16
+Claim Timestamp: 00:06:38
 
 Claim: In a clip from the Faith Forward Show that the host plays, Rob McCoy references Charlie Kirk's journaled succession plan extending through 2028 and, as the host characterizes it, connects Mikey's institutional future to Erika's "amazing Mikey McCoy" speech at the memorial.
 
@@ -747,7 +747,7 @@ Investigative Direction: Obtain the original Faith Forward Show episode; obtain 
 
 ---
 
-**C-1586** Mikey McCoy First Mic'd Charlie on the Final Asia Trip, Four Days Before 9/10
+**C-1586** Mikey McCoy Says the Final Asia Trip Was His First Time Traveling With a Camera
 
 Claim Timestamp: 00:10:01–00:10:58
 
@@ -796,7 +796,7 @@ Investigative Direction: Obtain the original Ventura County Star article; verify
 
 Claim Timestamp: 00:17:57–00:19:30
 
-Claim: Per a Fox 13 News report by Nate Carile that the host plays, UVU's Turning Point USA chapter submitted the September 10 event application in mid-July; the application form did not contain a standard question about police protection; UVU subsequently denied release of the security plan citing state records law.
+Claim: Per a Fox 13 News report by Nate Carlisle that the host plays, UVU's Turning Point USA chapter submitted the September 10 event application in mid-July; the application form did not contain a standard question about police protection; UVU subsequently denied release of the security plan citing state records law.
 
 Anchored Artifacts: A-1326.1
 Mentions: N-220
@@ -826,10 +826,10 @@ Investigative Direction: Verify via Zillow/Redfin/realtor.com listing records fo
 
 Claim Timestamp: 00:33:25–00:35:17
 
-Claim: In a clip from Dave Smith's show that the host plays, Tucker Carlson asserts that collective punishment (blood guilt) is antithetical to Christianity and to the Western tradition, and characterizes Israel's position as outside that tradition.
+Claim: In a clip from Dave Smith's show that the host plays, Tucker Carlson asserts that collective punishment (blood guilt) is antithetical to Christianity and to the West, and says the Israeli government's position (not that of all Israelis or Jews) is not a Western one, adding that most countries do this.
 
 Anchored Artifacts: A-1328.1
-Mentions: N-22, N-39, N-202
+Mentions: N-22, N-39
 
 
 Investigative Direction: Obtain the full Dave Smith episode audio; verify the precise wording and context of Tucker's framing.
@@ -867,12 +867,12 @@ Investigative Direction: Obtain hospital records, witness statements, and any so
 
 **C-1594** Host Asserts 12 Israeli Cell-Phone Accounts Were Present at UVU on 9/10, with NSA and Administration Awareness
 
-Claim Timestamp: 00:20:12–00:23:48
+Claim Timestamp: 00:21:59
 
 Claim: Per host's on-air assertion (framed as beyond-shadow-of-doubt confirmation), 12 Israeli cell-phone accounts (opened in Israel, not VPNs) were present at Utah Valley University on September 10, and the NSA, Kash Patel, and current-administration officials are aware and suppressing this information.
 
 Anchored Artifacts: A-1330.1 (peripheral – Milo tweet on denial), host on-air confirmation statement
-Mentions: N-221, N-69
+Mentions: N-69
 
 Related Nodes: N-10222
 
@@ -880,7 +880,7 @@ Investigative Direction: Identify and obtain the underlying verification source 
 
 ---
 
-**C-1595** Grock (xAI) Characterizes Israel-Egypt Intelligence Cooperation as Unprecedented Since the 1979 Peace Treaty
+**C-1595** Viewer Comment Says Grok Calls Israel-Egypt Intelligence Cooperation Unprecedented
 
 Claim Timestamp: 00:46:51
 
@@ -978,7 +978,7 @@ Investigative Direction: Check Liberty University convocation and event listings
 
 **C-6557** Host Infers Mikey Was Promised He Would Become the New Charlie
 
-Claim Timestamp: 00:07:16
+Claim Timestamp: 00:08:08
 
 Claim: The host says she thinks Mikey McCoy was promised, told or encouraged that he would become the new Charlie, and that she does not believe he is intrinsically evil.
 
@@ -1324,7 +1324,7 @@ Investigative Direction: Review Patel's posts defending his girlfriend and the c
 
 Claim Timestamp: 00:21:34
 
-Claim: The host says the account she follows, Village Crazy Lady, was very early with the reporting on the Israeli cell phones and that the host had heard rumors and rumblings but waited for verifiable proof.
+Claim: The host says the account she has been telling viewers to follow, Village Crazy Lady, was very early with the reporting on the Israeli cell phones and that the host had heard rumors and rumblings but waited for verifiable proof.
 
 Transcript Snippet: I've been telling you to follow her village crazy lady over on X. She was actually very early with this reporting
 
@@ -1767,4 +1767,4 @@ Confidence: high
 - **Claim Range:** C-1584–C-1595
 - **New People Nodes Introduced:** N-191, N-17, N-218, N-22, N-39, N-202, N-219, N-220, N-182, N-42, N-221
 - **New Investigation Target Nodes Introduced:** N-10218, N-10219, N-10220, N-10221, N-10222, N-10223
-- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erica Kirk)
+- **Existing Nodes Reused:** N-1 (Charlie Kirk), N-2 (Erika Kirk)

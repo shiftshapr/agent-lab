@@ -1,0 +1,463 @@
+[
+ {
+  "claim": "C-1119",
+  "episode": 1,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:17:28",
+   "claim": "After a single evening with Candace's then-boyfriend George, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain."
+  },
+  "note": "Content begins 17:33; 17:28 fits. UK tied to the night they met, not clearly the evening with George."
+ },
+ {
+  "claim": "C-1120",
+  "episode": 1,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she joked that Erika Frantzve should marry Charlie Kirk because 'Mrs. Erika Kirk' sounds better than 'Frantzve,' and a shown text exchange between Charlie and Candace says her last name is 'dumb' and 'Marry me. It's a logistics thing.'",
+   "names": [
+    {
+     "wrong": "Frantzey",
+     "right": "Frantzve",
+     "source": "https://en.wikipedia.org/wiki/Erika_Kirk"
+    }
+   ]
+  },
+  "note": "Frantzve confirmed (Wikipedia, Newsweek: Erika Lane Frantzve); transcript says Frantzve; texts and narration split correctly."
+ },
+ {
+  "claim": "C-1127",
+  "episode": 2,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays of an interview with Megyn Kelly, which the host describes as from a month earlier, Charlie Kirk says he has been treated unfairly by some over Israel, after Kelly notes he was attacked for having Dave Smith at a Turning Point event, saying his moral character is being put into question.",
+   "mentions": [
+    "N-1",
+    "N-46",
+    "N-39"
+   ]
+  },
+  "note": "Kelly raises Dave Smith at 11:34; Kirk speaks of unfair treatment; Dave Smith named, so N-39 added."
+ },
+ {
+  "claim": "C-1129",
+  "episode": 2,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that at the time of the Hamptons meeting Netanyahu was called and Kirk was invited to Israel.",
+   "timestamp": "00:16:23"
+  },
+  "note": "Transcript 16:28: Netanyahu 'was called'; 'she is told' not said here. Timestamp ok."
+ },
+ {
+  "claim": "C-1162",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-9",
+    "N-46",
+    "N-37"
+   ]
+  },
+  "note": "Claim names 'the Ackman meeting'; Bill Ackman is referred to."
+ },
+ {
+  "claim": "C-1164",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "label": "Host Mocks Portrayal of Kirk's May Letter to Netanyahu as Glowing",
+   "claim": "The host sarcastically mimics the portrayal of the letter Charlie Kirk wrote Benjamin Netanyahu in May as glowing and passionate ('Love you BB'), and says she finds it weird no one addresses the substance of the claims."
+  },
+  "note": "49:14-49:34 is sarcastic mimicry of the portrayal, not a sincere description."
+ },
+ {
+  "claim": "C-1171",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says people who live in the neighborhood have been writing to her about unusual traffic, with a lot of unrecognized cars, at the house Tyler Robinson and Lance Twiggs shared in the days or weeks before the shooting, that a Twiggs family member told her they were hearing the same thing, and that she is still pinning down the timeline.",
+   "label": "Host Relays Rumor of Unusual Traffic at Residence Before Shooting",
+   "timestamp": "00:33:24"
+  },
+  "note": "Host relays inbox rumor from neighbors; family member says 'hearing the exact same thing'; content starts 33:26."
+ },
+ {
+  "claim": "C-1173",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per attendees the host cites, Charlie faced pressure at the Hamptons retreat from Seth Dillon over his Israel views; the host says she heard Josh Hammer was upset after Charlie left and that she knows for a fact Hammer was part of 'the beehive that was swarming him' over people he had at his conferences.",
+   "mentions": [
+    "N-1",
+    "N-38",
+    "N-55"
+   ]
+  },
+  "note": "Attendees cited for Seth Dillon; Hammer is the host's own claim ('I know for a fact'); Charlie named."
+ },
+ {
+  "claim": "C-1174",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says people contacting her report that, within 48 hours before Charlie's death, his top Jewish donors were pulling funding and demanding their name be removed from a building they had donated to Turning Point, and that once he was killed they said to put it back on the building.",
+   "mentions": [
+    "N-1",
+    "N-3"
+   ]
+  },
+  "note": "Transcript: 'within 48 hours before Charlie passed away'; reported by people contacting her. Charlie named."
+ },
+ {
+  "claim": "C-13494",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-42",
+    "N-3"
+   ]
+  },
+  "note": "Claim does not name or refer to Epstein."
+ },
+ {
+  "claim": "C-13499",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim refers only to the officer; Robinson not referred to."
+ },
+ {
+  "claim": "C-13512",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "claim": "Reading the indictment, the host says Robinson replied that he had already disposed of clothes in a different area, and notes that the instruction to bring in his clothes so police would not search his parents' property does not exactly make sense to her because Robinson lived with his boyfriend.",
+   "mentions": [
+    "N-40",
+    "N-54",
+    "N-3"
+   ]
+  },
+  "note": "Transcript 16:25-16:42 supports the reframing; 'his boyfriend' is Lance Twiggs."
+ },
+ {
+  "claim": "C-13513",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-54",
+    "N-3"
+   ]
+  },
+  "note": "'his boyfriend' clearly refers to Lance Twiggs."
+ },
+ {
+  "claim": "C-13517",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-54"
+   ]
+  },
+  "note": "Claim names Robinson."
+ },
+ {
+  "claim": "C-13533",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-67",
+    "N-40"
+   ]
+  },
+  "note": "Claim names Robinson."
+ },
+ {
+  "claim": "C-13559",
+  "episode": 3,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says, while distinguishing her account from the word blackmail, that she never said there was a file presented with a do-this-or-else message, and that she would not have said that.",
+   "label": "Host Says She Never Alleged a File Was Presented With a Do-This-or-Else Message"
+  },
+  "note": "Host: 'I never said Bill Ackman blackmailed Charlie. There was a file presented. Do this or else... I wouldn't have said that.'"
+ },
+ {
+  "claim": "C-1181",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she has been told that Lance Twiggs was released to his parents (\"allegedly\") while his apartment was being raided and his electronics seized, and she argues he would normally be detained for at least 24 hours."
+  },
+  "note": "Host reports what she was told ('allegedly'); 24-hour point is her argument."
+ },
+ {
+  "claim": "C-4840",
+  "episode": 4,
+  "decision": "reject",
+  "fix": {},
+  "note": "Rejected: the quoted text was sent to Lance Twiggs; the recipient of a quoted text stays in Mentions."
+ },
+ {
+  "claim": "C-4863",
+  "episode": 4,
+  "decision": "reject",
+  "fix": {},
+  "note": "Rejected: the quoted text was sent to Lance Twiggs; the recipient of a quoted text stays in Mentions."
+ },
+ {
+  "claim": "C-4899",
+  "episode": 4,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host reads a tweet from Matt Gaetz saying he has personal knowledge of many of the claims Tucker is making and that they are 100 percent true, and then adds that they were behaving like demons."
+  },
+  "note": "'Yes, they were behaving like demons' is the host's comment after reading the tweet."
+ },
+ {
+  "claim": "C-1186",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a photo that made its way around Orem and repeatedly into her tips line is a very clear image allegedly of Tyler Robinson, allegedly taken at 6:38 p.m. at a nearby Dairy Queen about a 15–17 minute drive from UVU, and that in it he is wearing jeans and the maroon shirt.",
+   "label": "Host Shows Photo Allegedly of Robinson at Dairy Queen at 6:38 p.m."
+  },
+  "note": "Host's report of a photo from her tips line, 'allegedly'; observations are hers."
+ },
+ {
+  "claim": "C-1199",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says her team looked through databases for a 'Sherry Steel' at the building complex and contacted a family to see if they knew the name, and that she cannot find such a woman living there or the footage the BBC mentions.",
+   "label": "Host Says She Cannot Find Sherry Steel in the Building Complex"
+  },
+  "note": "'Atlanta's family' is not Robinson's; finding is the host's statement."
+ },
+ {
+  "claim": "C-11933",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-73"
+   ]
+  },
+  "note": "Samuel Steele is not named or clearly referred to by 'other Steels'."
+ },
+ {
+  "claim": "C-11980",
+  "episode": 5,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a man she names as a Schulman guy (transcribed) said he wanted his name off the building at Turning Point.",
+   "mentions": []
+  },
+  "note": "Kirk not referred to in claim; 'donor' not said. Schulman name unresolved, left as transcribed."
+ },
+ {
+  "claim": "C-1206",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-83",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie."
+ },
+ {
+  "claim": "C-1209",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the footage shown to her via FaceTime from the rear angle showed no blood or gore.",
+   "label": "Host Says Behind-Shot Footage Shown to Her Contained No Blood"
+  },
+  "note": "Host's account of a FaceTime viewing, not established fact."
+ },
+ {
+  "claim": "C-1221",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Charlie Kirk, in a long tweet he sent her in a message from May, called Sarah Milgrim and Yaron Lischinsky beautiful people and pushed back against using their killings to justify restricting free speech.",
+   "names": [
+    {
+     "wrong": "Sarah Milgram",
+     "right": "Sarah Milgrim",
+     "source": "https://www.axios.com/2025/05/22/dc-israeli-embassy-shooting-victims"
+    }
+   ]
+  },
+  "note": "Milgrim confirmed (Axios, Sen. Marshall resolution); Kirk's own tweet spelled it 'Milgram'."
+ },
+ {
+  "claim": "C-1223",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she spoke at two Turning Point USA conferences last year, plays a clip of her speech, and shows the Live Free Tour page listing Charlie Kirk and Candace Owens.",
+   "label": "Host Says She Spoke at TPUSA Conferences Last Year"
+  },
+  "note": "Host's account with clip and website shown (27:42, 29:14)."
+ },
+ {
+  "claim": "C-1224",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host calls the text chain between accused shooter Tyler Robinson and his lover Lance a 'ridiculous madeup' text chain, mocking how the feds think people speak.",
+   "label": "Host Calls Robinson-Lance Text Chain Made Up"
+  },
+  "note": "'FBI released' not said; host calls the text chain made up."
+ },
+ {
+  "claim": "C-13600",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-83"
+   ]
+  },
+  "note": "'the same man seen taking down the camera' is N-83."
+ },
+ {
+  "claim": "C-13601",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-83"
+   ]
+  },
+  "note": "'the man wearing shades' is N-83."
+ },
+ {
+  "claim": "C-13602",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-83"
+   ]
+  },
+  "note": "'the man' is N-83."
+ },
+ {
+  "claim": "C-13603",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the man is seeing the clips go viral and is fearful for his family, and that he has no security.",
+   "mentions": [
+    "N-3",
+    "N-83"
+   ]
+  },
+  "note": "Host narrates rather than quotes; 'the man' is N-83."
+ },
+ {
+  "claim": "C-13604",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-83"
+   ]
+  },
+  "note": "'the man' is N-83."
+ },
+ {
+  "claim": "C-13605",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-83"
+   ]
+  },
+  "note": "'the man' is N-83."
+ },
+ {
+  "claim": "C-13606",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-83"
+   ]
+  },
+  "note": "'the man' is N-83."
+ },
+ {
+  "claim": "C-13609",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-83"
+   ]
+  },
+  "note": "'the man' is N-83."
+ },
+ {
+  "claim": "C-13610",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2",
+    "N-1",
+    "N-83"
+   ]
+  },
+  "note": "'the man' is N-83."
+ },
+ {
+  "claim": "C-13611",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-83"
+   ]
+  },
+  "note": "'the man' is N-83."
+ },
+ {
+  "claim": "C-13622",
+  "episode": 6,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Victoria Churchill is not named or referred to in the claim."
+ }
+]

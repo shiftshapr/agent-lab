@@ -42,7 +42,7 @@
 - **Claim Range:** C-2047–C-2072
 - **New Nodes Introduced (people):**, N-438, N-439, N-440, N-441, N-442, N-443, N-444, N-445
 - **New Nodes Introduced (investigation targets):** N-10402, N-10403, N-10404, N-10405, N-10406, N-10407, N-10408
-- **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erica Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dillon, Jerry Falwell Jr. (referenced by name without new ID)
+- **Existing Nodes Reused:** Charlie Kirk, Candace Owens, Erika Kirk, Tucker Carlson, Megyn Kelly, Ben Shapiro, Dennis Prager, Netanyahu, Mark Burnett, Jordan Peterson, Nick Fuentes, Seth Dillon, Jerry Falwell Jr. (referenced by name without new ID)
 
 ---
 
@@ -50,7 +50,7 @@
 
 This episode advances the series' investigation of the post-assassination public relations apparatus surrounding Turning Point USA, the Falwell Center, and the formation of Turning Point Faith. The host presents several artifact-anchored evidentiary items: a text message exchange with Andrew Kolvet concerning a dream involving Charlie Kirk; a Christianity Today article read aloud on Johnnie Moore's origins at Liberty University; a New York Times article on Japanese LDP–Unification Church ties in connection with the assassination of Shinzō Abe; an audio clip of Johnnie Moore describing his ADL and Aspen Institute involvement; a Likud Knesset speech declaring Tucker Carlson and the host as enemies of Israel; and an interview clip of Megyn Kelly discussing pressure to denounce the host.
 
-The episode's structural importance lies in the formal articulation of a "Mooney 2.0" thesis: a claimed lineage Sun Myung Moon → Ron Godwin → Johnnie Moore / Andrew Kolvet, anchored to a Sun Myung Moon audio quotation about three disciples and to Christianity Today reporting on Moore's early years at Liberty University. Several previously unexplored entities (Ron Godwin, Johnnie Moore, the Kairos Company, Mark Burnett) are introduced as candidate members of the investigative graph. Read-aloud fan comments advance an unverified thesis that Erica Kirk acted as Charlie Kirk's handler in establishing the Falwell Center.
+The episode's structural importance lies in the formal articulation of a "Mooney 2.0" thesis: a claimed lineage Sun Myung Moon → Ron Godwin → Johnnie Moore / Andrew Kolvet, anchored to a Sun Myung Moon audio quotation about three disciples and to Christianity Today reporting on Moore's early years at Liberty University. Several previously unexplored entities (Ron Godwin, Johnnie Moore, the Kairos Company, Mark Burnett) are introduced as candidate members of the investigative graph. Read-aloud fan comments advance an unverified thesis that Erika Kirk acted as Charlie Kirk's handler in establishing the Falwell Center.
 
 ---
 
@@ -160,7 +160,7 @@ Video Timestamp: 00:46:41–00:47:35
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Low (anonymous social commentary)
 
-*Related: C-2061, Erica Kirk, N-10403*
+*Related: C-2061, Erika Kirk, N-10403*
 
 **A-1613.2** Comment from user "Natty Nicole": expressing being heartbroken and asking how Andrew Kolvet sleeps at night
 
@@ -405,7 +405,7 @@ Claim Count: 2
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: C-2071, C-2072, N-438, Erica Kirk*
+*Related: C-2071, C-2072, N-438, Erika Kirk*
 
 ---
 
@@ -476,14 +476,14 @@ Investigative Pressure: High
 
 **N-10403** Erika Kirk Handler Thesis
 
-Persistent investigative target tracking the claim (originating in fan comment) that Erica Kirk acted as Charlie Kirk's handler and was instrumental in establishing the Falwell Center.
+Persistent investigative target tracking the claim (originating in fan comment) that Erika Kirk acted as Charlie Kirk's handler and was instrumental in establishing the Falwell Center.
 
 Evidence Count: 1
 Claim Count: 1
 Episode Count: 1
 Investigative Pressure: Low
 
-*Related: A-1613.1, C-2061, Erica Kirk*
+*Related: A-1613.1, C-2061, Erika Kirk*
 
 ---
 
@@ -736,7 +736,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10378** Andrew Kolbet Coordination with Attackers of Mitch Snow
+**N-10378** Andrew Kolvet Coordination with Attackers of Mitch Snow
 
 Existing topic reused for new claims in this episode.
 
@@ -862,11 +862,11 @@ The host's stated plan to examine Erika Kirk's charities and her claims of livin
 
 ## V. Claim Register
 
-**C-2047** Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Andrew Knew More Than Publicly Stated
+**C-2047** Text Message From Candace Owens to Andrew Kolvet Described Charlie Kirk Dream Stating He Was Betrayed and Said She Believed Andrew Knew More Than Publicly Stated
 
 Claim Timestamp: 00:07:11–00:08:04
 
-Claim: The host presented a text message she sent to Andrew Kolvet describing a vivid dream in which Charlie Kirk stated he was betrayed, that "they" were hiding what happened "to my left," and that Kolvet "know[s] much more than you've said publicly or privately."
+Claim: The host presented a text message she sent to Andrew Kolvet describing a vivid dream in which Charlie Kirk told her he was betrayed and that "they" were hiding what happened "to my left," and in which she wrote that she believed Kolvet "know[s] much more than you've said publicly or privately."
 
 Anchored Artifacts: A-1607.1
 Mentions: N-14, N-3, N-1
@@ -1082,13 +1082,13 @@ Mentions: N-1, N-2
 
 Related Nodes: N-10403
 
-Investigative Direction: Requires corroboration through independent sources documenting Erica Kirk's professional role in establishing the Falwell Center. Flag as currently unsubstantiated beyond fan commentary.
+Investigative Direction: Requires corroboration through independent sources documenting Erika Kirk's professional role in establishing the Falwell Center. Flag as currently unsubstantiated beyond fan commentary.
 
 ---
 
 **C-2062** Top Comment From Natty Nicole Expresses Being Heartbroken and Questions Andrew Kolvet's Conscience
 
-Claim Timestamp: 00:47:35–00:48:56
+Claim Timestamp: 00:48:51
 
 Claim: A commenter expressed being "heartbroken and filled with rage" and asked "How does Andrew Kolvet sleep at night?"
 
@@ -1146,7 +1146,7 @@ Investigative Direction: No investigative direction.
 
 Claim Timestamp: 00:51:36–00:52:14
 
-Claim: A viewer comment the host reads, from "Cammy Resits," expresses admiration for the host and concern for children.
+Claim: A viewer comment the host reads, from "Cammy Resits," expresses admiration for the host, mentions having two grown kids, and thanks her for being a warrior mama and bringing information.
 
 Anchored Artifacts: A-1613.6
 
@@ -1231,7 +1231,7 @@ Investigative Direction: Verify MGM chairmanship and Summerhouse acquisition thr
 
 Claim Timestamp: 00:35:36
 
-Claim: The host stated that approximately one year after Charlie Kirk's assassination, on September 10, a murder plot against her was discovered and that the matter is still proceeding through courts.
+Claim: The host stated that someone was plotting her murder on September 10, "a year from the date that Charlie was murdered," that the plot was discovered, and that the matter is still making its way through the courts.
 
 Anchored Artifacts: (none presented in this episode)
 Mentions: N-3, N-1
@@ -1469,7 +1469,7 @@ Investigative Direction: Only the host's sources can confirm; ask whether either
 
 Claim Timestamp: 00:08:04
 
-Claim: The host says that before AmFest, while she was in London, Andrew Kolvet phoned and asked her in earnest whether she is a witch, because bad things happen to people who attack her; she says she laughed and answered no.
+Claim: The host says that, ahead of AmFest as she recalls it, while she was in London, Andrew Kolvet phoned and asked her in earnest whether she is a witch, because bad things happen to people who attack her; she says she laughed and answered no.
 
 Transcript Snippet: asked me, "Are you a witch?" But I laughed at him on the phone.
 
@@ -1569,7 +1569,7 @@ Claim: The host concludes that the true aim of Turning Point USA Faith was to tu
 Transcript Snippet: the true aim of Turning Point USA faith was to transform Charlie Kirk into a messiah of sorts whose image that they could control in his death.
 
 Anchored Artifacts: 
-Mentions: N-1, N-400
+Mentions: N-1
 Related Nodes: N-10398, N-10402
 Supports: C-8210
 Tags: relevance:core
@@ -1645,7 +1645,7 @@ Investigative Direction: Check trial reporting on the shooter's family finances 
 
 Claim Timestamp: 00:15:02
 
-Claim: The host says she felt 'a strand of ick' at AmFest, where she says everyone spoke about the Lord but no one meant it, and describes it as a charismatic cult of people trained in tactics of manipulation preying on weak minds, including people who love Charlie Kirk.
+Claim: The host says she felt 'a strand of ick' while watching AmFest, where she says everyone spoke about the Lord but no one meant it, and describes it as a charismatic cult of people trained in tactics of manipulation preying on weak minds, including people who love Charlie Kirk.
 
 Transcript Snippet: It was instead watching a charismatic cult, people who were trained in tactics of manipulation, praying on weak minds of their followers and people who actually love Charlie Kirk.
 
@@ -1871,7 +1871,7 @@ Investigative Direction: Seek Liberty hiring correspondence or Moore's own state
 
 ---
 
-**C-14127** Host Says the ADL Put Her on Its List for the Christ Is King Episode
+**C-14127** Host Says the ADL Put Her on Its List Over the Christ Is King Controversy
 
 Claim Timestamp: 00:20:09
 
@@ -2076,7 +2076,7 @@ Claim: The host says that on her organization chart Johnnie Moore appears to be 
 Transcript Snippet: we can confirm that looks like one of Godwin's three disciples, so to speak, was Johnnie Moore
 
 Anchored Artifacts: A-3301.1
-Mentions: N-438, N-439, N-14, N-400
+Mentions: N-438, N-439, N-14
 Related Nodes: N-11164, N-10402
 Supports: C-2055
 Tags: relevance:context
@@ -2157,7 +2157,7 @@ Claim: The host says Turning Point Faith is problematic and the organization is 
 Transcript Snippet: The organization is intended to be the Mooney 2.0.
 
 Anchored Artifacts: 
-Mentions: N-1
+Mentions: 
 Related Nodes: N-10398, N-10402
 Tags: relevance:context
 Investigative Direction: Interpretive; test through TPUSA Faith's leadership, funding and links to Unification Church-linked people or entities.
@@ -2367,7 +2367,7 @@ Transcript Snippet: created a clear column to speak about how many times sex tra
 
 Anchored Artifacts: 
 Mentions: N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Ask for the sheet and its sources; check the follow-up episode that week.
 
 ---
@@ -2475,7 +2475,7 @@ Investigative Direction: Review declassified material on Moon's Korean and CIA c
 
 Claim Timestamp: 00:49:54
 
-Claim: The host teases that she is not ready to cover whether Pearl Harbor was a false flag, saying the vibes are not vibing in the Pearl Harbor story and that Lyndon Baines Johnson was a devilish man.
+Claim: The host asks whether viewers are ready to talk about Pearl Harbor being a false flag but says she will not cover it today, saying the vibes are not vibing in the Pearl Harbor story and that Lyndon Baines Johnson was a devilish man.
 
 Transcript Snippet: the vibes are not vibing in the Pearl Harbor story is what I will say. And Lyndon Baines Johnson was a uh devilish man throughout
 
@@ -2777,4 +2777,4 @@ Confidence: high
 - **Requires human verification:** C-2071, C-2072 (Mark Burnett Hollywood employment and MGM chairmanship) – host assertions without supporting artifact.
 - **Requires human verification:** C-2074 (Turning Point USA estate solicitation) – host assertion without supporting artifact; comparison to Japan Unification Church pattern is interpretive.
 - **Claim failed admission test – interpretive commentary:** Multiple host framing claims about Moonies lineage (C-2055/C-2056) are anchored to a single read-aloud quote; full lineage interpretation remains interpretive, even with the artifact.
-- **Claim failed admission test – unsupported allegation:** C-2061 (Erica Kirk handler thesis) is anchored only to a fan comment (A-1613.1); no documentary artifact supports the handler claim.
+- **Claim failed admission test – unsupported allegation:** C-2061 (Erika Kirk handler thesis) is anchored only to a fan comment (A-1613.1); no documentary artifact supports the handler claim.

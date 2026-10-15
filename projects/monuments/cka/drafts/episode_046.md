@@ -926,11 +926,11 @@ Investigative Direction: Compare this on-camera denial against any subsequent do
 
 ---
 
-**C-1915** Erika Kirk characterized online skepticism as "mental illness"
+**C-1915** Glenn Beck Tells Erika Kirk Some Online Content Is Mental Illness
 
 Claim Timestamp: 00:23:04
 
-Claim: In the Glenn Beck interview, Erika Kirk stated: "I think mental illness is involved in some of this stuff that is online. I think it's really honestly I feel bad it's mental illness."
+Claim: In the Glenn Beck interview clip the host plays, Glenn Beck appears to tell Erika Kirk: "I don't need you to comment on this, but I think mental illness is involved in some of this stuff that is online. I think it's really honestly I feel bad it's mental illness."
 
 Anchored Artifacts: A-1534.3 (extended context), A-1533.3 (related phrasing)
 Mentions: N-2, N-238
@@ -968,7 +968,7 @@ Investigative Direction: Track whether this "education" framing recurs in subseq
 
 ---
 
-**C-1918** Host Says Tyler Robinson Made First In-Person Court Appearance on December 11, 2025
+**C-1918** Host Says Tyler Robinson Made His First In-Person Court Appearance
 
 Claim Timestamp: 00:35:15
 
@@ -1001,7 +1001,7 @@ Investigative Direction: Verify the post is still publicly available and capture
 
 Claim Timestamp: 00:44:45
 
-Claim: In a show clip, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be "implicated in this way" or "called out when they're lying."
+Claim: In a show clip the host plays, AllieBeth Stuckey defended Alex Clark, Lila Rose, Ben Shapiro, Josh Hammer, and Seth against Candace Owens' accusations, stating she knows them personally and that they do not deserve to be "implicated in this way"; the host then mockingly adds that they do not deserve "to be called out when they're lying."
 
 Anchored Artifacts: A-1537.1
 Mentions: N-55, N-97, N-99, N-228, N-229, N-3
@@ -1027,9 +1027,9 @@ Investigative Direction: Capture the comment thread for permanent record and ide
 
 **C-1922** Bari Weiss CBS town hall was pre-recorded with pre-selected questions (per host insider sources)
 
-Claim Timestamp: 00:08:05
+Claim Timestamp: 00:08:10
 
-Claim: The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-recorded in the 11:00 AM – 4:00 PM window the day prior to airing, that Bari Weiss read from a prompter, that questions were pre-selected by CBS, and that audience members were emailing the host during recording.
+Claim: The host asserts that the Bari Weiss / Erika Kirk CBS town hall was pre-recorded from about 11:00 a.m. to 4:00 p.m., citing sources at CBS News; that audience members were emailing her; that there were multiple takes because Bari Weiss wanted to read a prompter; and that the questions were pre-submitted.
 
 Anchored Artifacts: A-1533.1, A-1533.5 (visual evidence of controlled production), host testimonial confirmation of insider sources
 Mentions: N-279, N-2
@@ -1200,7 +1200,7 @@ Investigative Direction: Compare the question as aired with the unedited CBS bro
 
 ---
 
-**C-6685** Host Says She Already Had Her Business, Book and Merch Before the Assassination
+**C-6685** Host Says She Already Had Her Business and Was at the Top of the Charts
 
 Claim Timestamp: 00:08:55
 
@@ -1283,7 +1283,7 @@ Investigative Direction: Find the original Turning Point USA or Alex Clark state
 
 Claim Timestamp: 00:11:07
 
-Claim: The host says Ben Shapiro said he and Charlie never had any bad blood, that she proved this was not true, and that Alex Clark pulled the same PR move.
+Claim: The host says Ben Shapiro said he and Charlie never had any bad blood, that she proved this was not true, and that this also came from Alex Clark pulling a PR move.
 
 Transcript Snippet: Ben Shapiro said they never had any bad blood between them. I proved that that was not true.
 
@@ -1896,7 +1896,7 @@ Claim: The host says Alex Clark's episode saying Charlie only liked Catholic arc
 Transcript Snippet: Alex Clark, that whole little episode saying Charlie only liked architecture for what it's worth, it wasn't true.
 
 Anchored Artifacts: A-1537.1
-Mentions: N-3, N-99, N-228
+Mentions: N-3, N-99, N-1
 Related Nodes: N-10164, N-10350
 Tags: relevance:core
 Investigative Direction: Obtain the Alex Clark episode and compare with Charlie's documented Catholic contacts.
@@ -1912,7 +1912,7 @@ Claim: The host says Ben Shapiro lied when he said he never had any issues with 
 Transcript Snippet: when Ben Shapiro lied and said that he never had any issues with uh Charlie, and I said that's not true.
 
 Anchored Artifacts: A-1537.1
-Mentions: N-3, N-97, N-228
+Mentions: N-3, N-97, N-228, N-1
 Related Nodes: N-10237
 Supports: C-6690
 Tags: relevance:core
@@ -2000,11 +2000,11 @@ Investigative Direction: Identify the accounts that repeated the "stop" line aft
 
 ---
 
-**C-6734** Host Quotes Her 2018 Text Read by Alicia Yancey and Says She Does Not Remember Saying It
+**C-6734** Host Reads Alicia Yancey Comment Quoting Her 2018 Words and Says She Does Not Know Where She Said It
 
 Claim Timestamp: 00:54:02
 
-Claim: The host reads Alicia Yancey's comment quoting a 2018 message in which she wrote that the story of her and CK will be one for the ages, and says she does not know where she said that.
+Claim: The host reads Alicia Yancey's comment quoting something the host said in 2018, that the story of her and CK will be one for the ages, and says she does not know where she said that.
 
 Transcript Snippet: As you said in 2018, the story of me and CK will be one for the ages.
 
@@ -2050,7 +2050,7 @@ Investigative Direction: Review the prior episode's Pierre segment and the timin
 
 Claim Timestamp: 00:55:47
 
-Claim: The host says nobody in the English-speaking West was talking about Brigitte before her series, and that critics now say she does it for money and clicks.
+Claim: The host says nobody in the English-speaking West was talking about Brigitte before her series, and that Brigitte is saying in court that she is doing it for money and clicks.
 
 Transcript Snippet: Nobody was talking about that in the West in in in the English-speaking world.
 
@@ -2065,7 +2065,7 @@ Investigative Direction: Check English-language coverage of the Brigitte Macron 
 
 Claim Timestamp: 00:56:27
 
-Claim: The host says Erika Kirk's Weiss piece will also mention the maroon boys and call it crazy, while military men tell her the color represents the Air Force and the 10th Mountain Brigade, and that she is still working that angle.
+Claim: The host says that apparently Erika Kirk's Weiss piece will also mention the maroon boys and call it crazy, while military men tell her the color represents the Air Force and the 10th Mountain Brigade, and that she is still working that angle.
 
 Transcript Snippet: And apparently they also mentioned the maroon boys in Erika's uh propagandized piece
 

@@ -743,7 +743,7 @@ Organization. Hospital to which Kirk was taken; the host raises routing, trauma-
 
 Claim Timestamp: 00:12:16–00:14:30
 
-Claim: In a clip the host plays of his Alex Jones appearance, Phil Lyman says he was outside at the east end when he heard a loud boom and encountered two girls, "very goth, very black," who did not flee, one of whom he quotes as saying "Go f yourselves"; the host says this account places him outdoors and characterizes two individuals as goth and unresponsive.
+Claim: In a clip the host plays of his Alex Jones appearance, Phil Lyman says he was outside at the east end when he heard a loud boom and encountered two girls, "very goth, very black," who did not flee, one of whom he quotes as saying "Go f yourselves"; the host says this is consistent with him painting a picture that he was outside when the shot rang out.
 
 Anchored Artifacts: A-1183.1
 Mentions: N-61, N-93
@@ -771,9 +771,9 @@ Investigative Direction: Cross-reference timestamp of "ran out" with the 12:23 v
 
 **C-1323** Video metadata timestamp shows Phil Lyman inside the Sorenson building at 12:23 on the day of the shooting, walking out calmly.
 
-Claim Timestamp: 00:16:43
+Claim Timestamp: 00:15:58
 
-Claim: A mobile-phone video provided by Phil Lyman to the host contains embedded metadata placing him inside the Sorenson Center building at 12:23 on September 10, 2025; the video depicts him walking out calmly rather than running.
+Claim: The host says that, according to the metadata of the footage Phil Lyman sent her, he was inside the Sorenson building at 12:23 and then calmly walked out rather than running.
 
 Anchored Artifacts: A-1185.1
 Mentions: N-61
@@ -788,7 +788,7 @@ Investigative Direction: Obtain original file with full EXIF metadata; forensica
 
 Claim Timestamp: 00:17:21–00:18:35
 
-Claim: Visual review of Phil Lyman's aftermath video shows two individuals in black (one possibly male) behaving normally; the host disputes Phil's Alex Jones characterization of them as "goth" and unfazed.
+Claim: The host says Phil Lyman's aftermath video shows two individuals simply wearing black (one of whom she thinks is a guy) in what seems a normal conversation; she disputes Phil's Alex Jones characterization of them as "goth" and unfazed.
 
 Anchored Artifacts: A-1185.1
 Mentions: N-61, N-93
@@ -803,7 +803,7 @@ Investigative Direction: Compare visible individuals in A-1185.1 with the two co
 
 Claim Timestamp: 00:10:39–00:11:29
 
-Claim: The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Omer, because a face in the photo matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.
+Claim: The host says her team identified one of the two companions in the photo with Shaner Broderick as Gernot Omer, whose face she says also matches an individual shown in a BearingPoint company YouTube video introducing software development teams at the Graz office.
 
 Anchored Artifacts: A-1186.1
 Mentions: N-133, N-132
@@ -832,7 +832,7 @@ Investigative Direction: Capture and archive the LinkedIn profile as displayed; 
 
 Claim Timestamp: 00:19:14–00:19:58
 
-Claim: A viewer in Belfast, Northern Ireland, reported to the host via email that an internet-wide facial search of the unidentified companion returned a single hit on a person in Provo, Utah, depicted on the "Buzzard and Bees" gothic-prom page.
+Claim: A viewer in Belfast, Northern Ireland, emailed the host that an internet-wide search of the unidentified companion's face returned a single hit in Provo, Utah, on a website pertaining to bees; the host says that site, Buzzard and Bees, is a Gothic underground in Provo discussing a Gothic prom.
 
 Anchored Artifacts: A-1194.1, A-1188.1
 
@@ -920,7 +920,7 @@ Investigative Direction: Obtain the underlying email and supplier invoices; veri
 
 Claim Timestamp: 00:09:47–00:10:39
 
-Claim: A German-language blog post on a 10-year hiking anniversary contains photos matching the face of the individual identified as Gernot Omer.
+Claim: The host says her team found that the face of the individual identified as Gernot Omer matched photos in a German-language blog post on a 10-year hiking anniversary.
 
 Anchored Artifacts: A-1187.1
 Mentions: N-133
@@ -1083,7 +1083,7 @@ Transcript Snippet: I am told according to a very strong source that what Phil L
 Anchored Artifacts: 
 Mentions: N-3, N-61, N-326
 Related Nodes: N-11167
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Ask Ballard and Lyman whether they met that Saturday and for what purpose; compare with any public schedule.
 
 ---
@@ -1140,7 +1140,7 @@ Investigative Direction: Confirm the internship dates with Senator Lee's office 
 
 Claim Timestamp: 00:07:30
 
-Claim: The host says that since the previous episode Shaner Broderick wiped his LinkedIn page and his Facebook page, and privatized his Instagram and then removed the photos of his investigation into the killer's route.
+Claim: The host says that since the previous episode Shaner Broderick wiped his LinkedIn page and his Facebook page, and privatized his Instagram and then removed the photos of his investigation into who Charlie Kirk's killer was.
 
 Transcript Snippet: He's also completely wiped his Facebook page entirely. And regarding his Instagram, he's privatized it but he privatized it and then removed all of the photos of his investigation
 
@@ -1237,7 +1237,7 @@ Investigative Direction: Verify Gernot Omer's nationality and Utah residency thr
 
 Claim Timestamp: 00:11:29
 
-Claim: The host says that the previous day Phil Lyman's story suggested that the so-called gothic girls could have been suspicious, or at least aware beforehand that the shooting was going to occur.
+Claim: The host says that the previous day her show poked fun at the narrative Phil Lyman seemed to be trying to spin, suggesting that the so-called gothic girls could have been suspicious, or at least aware that the shooting was going to occur.
 
 Transcript Snippet: suggesting that {quote} {unquote} gothic girls might have been suspicious that they maybe could have been responsible or aware at least that the shooting was going to occur.
 
@@ -1384,7 +1384,7 @@ Investigative Direction: Verify with LDS Church and Scouting records whether the
 
 Claim Timestamp: 00:20:53
 
-Claim: The host says that, if this is the correct Mike Mitchell, he said he was on the force for 25 years and began his career in 1999, which fits the timeline of the undercover work in the article, and she has a strong hunch it is the right person.
+Claim: The host says that, if this is the correct Mike Mitchell, he says he was on the force for 25 years and this individual began his career in 1999, which fits the timeline of the undercover work, and she has a strong hunch it is the right person.
 
 Transcript Snippet: he was on the force for 25 years. This individual began his career in 1999.
 
@@ -1645,7 +1645,7 @@ Investigative Direction: Compare the camera-removal timing with the video timeli
 
 Claim Timestamp: 00:32:40
 
-Claim: The host says it was weird that this man was behind Charlie the entire time, and says she has never had anyone linger behind her at an event.
+Claim: The host says it was weird that this man was behind Charlie the entire time, and says he has never been behind her or lingered around her at an event.
 
 Transcript Snippet: I thought it was weird that he was there in general, actually, that he was behind Charlie the entire time.
 
@@ -1947,7 +1947,7 @@ Investigative Direction: Personal statement; no record needed beyond the host's 
 
 Claim Timestamp: 00:46:31
 
-Claim: The host responds to a viewer comment confusing keyholing and internal bullet bouncing by saying keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage.
+Claim: A viewer comment the host reads, from Marzi, says the viewer had confused keyholing and internal bullet bouncing, and that keyholing is when a slow bullet tumbles and has external impact, while pinball bullets bounce internally and cause internal damage; the host calls this very interesting.
 
 Transcript Snippet: Keyholing is if the bullet is too slow and tumbles and has external impact.
 

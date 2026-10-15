@@ -1974,7 +1974,7 @@ Investigative Direction: Check the episode schedule for the following week.
 
 - **Name uncertainty:** The camera operator is referred to in the transcript as "Taral," "Terryl," and "Terryl." Most likely "Terryl" based on prior series usage, but the episode does not resolve the spelling. (Affects N-262.)
 - **Transcript ambiguity:** A clear mid-segment gap appears at transcript marker [06:40], with the line "And he usually starts the tour seasons to make sure they are well set up." This reads as either a transcription artifact or missing context. Recommend human review.
-- **Artifact verbally referenced but not shown:** The host references an appearance by Erica Kirk on Glenn Beck's show regarding pre-event text messages, but no clip or screenshot is displayed in this episode. Flagged as verbal-reference-only.
+- **Artifact verbally referenced but not shown:** The host references an appearance by Erika Kirk on Glenn Beck's show regarding pre-event text messages, but no clip or screenshot is displayed in this episode. Flagged as verbal-reference-only.
 - **Artifact verbally referenced but not shown:** The host references a Brandi Zadrozny article as the source of the "left-coordination" framing but does not display the article. Flagged as verbal-reference-only.
 - **Transcript truncation:** Ad-read sections [26:27–29:42] and [43:11–45:10] are truncated and contain sponsor copy only; no evidentiary content lost.
 - **Host concurrence:** Where the host concurs with or rejects the theses of read-aloud/displayed sources (A-2294, A-2297, A-2298), host stance is captured as the related C-3308 / C-3309 / C-3310 claims anchored to those same artifacts.

@@ -506,7 +506,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10381** Pangitch Cowboys Smokehouse Tyler Robinson Visit Verification
+**N-10381** Panguitch Cowboys Smokehouse Tyler Robinson Visit Verification
 
 Existing topic reused for new claims in this episode.
 

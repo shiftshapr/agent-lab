@@ -35,7 +35,7 @@
 - Claim Range: C-2560–C-2580
   - New Nodes Introduced: N-10562, N-10563, N-10564, N-10565
   - Reused Nodes Appearing: N-11, N-10560, N-10561, N-5, N-15, N-40, N-69, N-187, N-228, N-269, N-490, N-495, N-582, N-10000, N-10015, N-10074, N-10110, N-10190, N-10193, N-10198, N-10202, N-10245, N-10307, N-10324, N-10355, N-10362, N-10483, N-10546, N-10548, N-10551, N-10554, N-10555, N-10866, N-10925, N-10956, N-11218
-- Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erica Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacey Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
+- Existing Nodes Reused: N-1 Charlie Kirk; N-2 Erika Kirk; N-3 Candace Owens; Andrew Kolvet; Frank Turek; Frank (TPUSA counsel); Nick Searcy; Stacey Sheridan; Joe Rogan; Alexis Wilkins; Kash Patel; Joe Kent; General Michael Flynn; Tucker Carlson; Allie Stuckey; Yair Netanyahu; Tim Dillon; Tyler Bowyer; Pam Bondi; Thomas Massie; Vladimir Putin; Alexander Dugin; Bibi Netanyahu; Turning Point USA (institution)
 
 ## 6. Meme Register
 
@@ -121,7 +121,7 @@ Confidence: high
 
 # Executive Summary
 
-This episode presents evidentiary and testimonial material advancing three parallel lines of inquiry: (1) a reconciliation problem surrounding the timing of the "tarmac hug" between Erica Kirk and Andrew Kolvet, against Frank Turek's estimate of Erica's hospital arrival time; (2) a first-person timeline of September 10 drawn from Elizabeth Kravchuk McCoy, describing TPUSA Arizona office activity, the call chain, and the drive to Scottsdale airport; and (3) the publication of a 13-part Alexis Wilkins X thread alleging a coordinated foreign-influence network. The Frank Turek audio clip and Alexis Wilkins thread are read aloud on air and inscribed as artifacts. A separate phone call to a Hopkinson Aircraft employee who would "neither confirm nor deny" seeing Erica is also captured. The episode also presents a Daily Wire article and supporting news items on Catholic Church growth, with a prior Allie Stuckey tweet denial cited as a discourse artifact. Investigative questions introduced include the September 10 whereabouts of Stacey Sheridan, the precise call chain sequence, and verification of multiple Erica Kirk alibis.
+This episode presents evidentiary and testimonial material advancing three parallel lines of inquiry: (1) a reconciliation problem surrounding the timing of the "tarmac hug" between Erika Kirk and Andrew Kolvet, against Frank Turek's estimate of Erica's hospital arrival time; (2) a first-person timeline of September 10 drawn from Elizabeth Kravchuk McCoy, describing TPUSA Arizona office activity, the call chain, and the drive to Scottsdale airport; and (3) the publication of a 13-part Alexis Wilkins X thread alleging a coordinated foreign-influence network. The Frank Turek audio clip and Alexis Wilkins thread are read aloud on air and inscribed as artifacts. A separate phone call to a Hopkinson Aircraft employee who would "neither confirm nor deny" seeing Erica is also captured. The episode also presents a Daily Wire article and supporting news items on Catholic Church growth, with a prior Allie Stuckey tweet denial cited as a discourse artifact. Investigative questions introduced include the September 10 whereabouts of Stacey Sheridan, the precise call chain sequence, and verification of multiple Erika Kirk alibis.
 
 ---
 
@@ -129,7 +129,7 @@ This episode presents evidentiary and testimonial material advancing three paral
 
 **A-1895** Frank Turek Podcast Audio Clip – Hospital Arrival Estimate
 
-**A-1895.1** Frank Turek's podcast stating Erica Kirk "probably got there, I don't know, somewhere around 4:00 p.m. maybe" to Timpanogos Hospital
+**A-1895.1** Frank Turek's podcast stating Erika Kirk "probably got there, I don't know, somewhere around 4:00 p.m. maybe" to Timpanogos Hospital
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -187,7 +187,7 @@ Confidence Level: High
 
 **A-1899** Hopkinson Aircraft Employee Phone Call
 
-**A-1899.1** Host's phone call with a Hopkinson Aircraft employee who "neither confirmed nor denied" seeing Erica Kirk at their offices on September 10, 2025
+**A-1899.1** Host's phone call with a Hopkinson Aircraft employee who "neither confirmed nor denied" seeing Erika Kirk at their offices on September 10, 2025
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -349,7 +349,7 @@ Investigative Pressure: Medium
 
 **N-10562** Hopkinson Aircraft Erica Sighting Confirmation
 
-Whether Erica Kirk was physically present at Hopkinson Aircraft on September 10, 2025; the only contacted witness declined to confirm or deny.
+Whether Erika Kirk was physically present at Hopkinson Aircraft on September 10, 2025; the only contacted witness declined to confirm or deny.
 
 Evidence Count: 1
 Claim Count: 1
@@ -380,7 +380,7 @@ Investigative Pressure: Low
 
 *Related: A-1897.1, A-1900.1, A-1900.2, A-1900.3, A-1901.1, C-2575, C-2576, C-2577, C-2578, C-2579*
 
-**N-10565** Erica Kirk Arizona Activity Verification Gap
+**N-10565** Erika Kirk Arizona Activity Verification Gap
 
 Persistent target: verification of Erica's whereabouts in the late-morning to early-afternoon window on September 10, 2025 (TPUSA office presence, time with mother, time at Hopkinson Aircraft, time at airport). Multiple alibis are described; cross-witness consistency is incomplete.
 
@@ -814,11 +814,11 @@ Open question why Katherine LoCastro was sent to retrieve something from the blo
 
 # Claim Register
 
-**C-2560** Frank Turek Estimated Erica Kirk Arrived at Hospital Around 4:00 p.m.
+**C-2560** Frank Turek Estimated Erika Kirk Arrived at Hospital Around 4:00 p.m.
 
 Claim Timestamp: 00:05:20
 
-Claim: Frank Turek, on his own podcast, stated Erica Kirk "probably got there, I don't know, somewhere around 4:00 p.m. maybe" to Timpanogos Hospital.
+Claim: Frank Turek, on his own podcast, stated Erika Kirk "probably got there, I don't know, somewhere around 4:00 p.m. maybe" to Timpanogos Hospital.
 
 Anchored Artifacts: A-1895.1
 Mentions: N-2, N-7
@@ -909,7 +909,7 @@ Investigative Direction: Cross-reference with Andrew Kolvet's account and hospit
 
 Claim Timestamp: 00:21:05–00:24:24
 
-Claim: A Hopkinson Aircraft employee contacted by the host would neither confirm nor deny seeing Erica Kirk at their offices on September 10, 2025.
+Claim: A Hopkinson Aircraft employee contacted by the host would neither confirm nor deny seeing Erika Kirk at their offices on September 10, 2025.
 
 Anchored Artifacts: A-1899.1
 Mentions: N-2

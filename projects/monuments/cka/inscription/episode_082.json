@@ -589,9 +589,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10553",
       "ref": "N-10553",
-      "name": "Erica Kirk 9/10 Location Investigation",
+      "name": "Erika Kirk 9/10 Location Investigation",
       "type": "investigation_target",
-      "description": "Persistent investigative question of where Erica Kirk physically was on September 10, 2025 between the shooting and her arrival in Utah. This episode introduces Hopkinson Aircrafts as the claimed location.",
+      "description": "Persistent investigative question of where Erika Kirk physically was on September 10, 2025 between the shooting and her arrival in Utah. This episode introduces Hopkinson Aircrafts as the claimed location.",
       "related_artifacts": [
         "A-1886.1",
         "A-1886.2",
@@ -689,7 +689,7 @@
       "ref": "N-10557",
       "name": "Barbara Plane (N8724A) Operations",
       "type": "investigation_target",
-      "description": "The Hawker Beechcraft alleged by Erica Kirk as the plane Andrew Kolvet took at 3:19 PM MST Santa Barbara → Provo. Episode anchors Wi-Fi availability via charter company phone call.",
+      "description": "The Hawker Beechcraft alleged by Erika Kirk as the plane Andrew Kolvet took at 3:19 PM MST Santa Barbara → Provo. Episode anchors Wi-Fi availability via charter company phone call.",
       "related_artifacts": [
         "A-1887.1",
         "A-1887.2"
@@ -1594,7 +1594,7 @@
       "@id": "C-2544",
       "ref": "C-2544",
       "label": "Erika Kirk Was Inside Hopkinson Aircrafts Office When Notified of Charlie Kirk's Death",
-      "claim": "Per an unverified source tip received by the host, Erica Kirk was at Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the call informing her that Charlie Kirk had died.",
+      "claim": "Per an unverified source tip received by the host, Erika Kirk was at Hopkinson Aircrafts in Scottsdale on September 10, 2025 when she received the call informing her that Charlie Kirk had died.",
       "anchored_artifacts": [
         "A-1886.1",
         "A-1886.2",
@@ -1606,7 +1606,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:09:34",
-      "investigative_direction": "Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erica Kirk's presence at Hopkinson Aircrafts on 9/10.",
+      "investigative_direction": "Obtain direct documentary confirmation (call logs, eyewitnesses, building entry records) corroborating Erika Kirk's presence at Hopkinson Aircrafts on 9/10.",
       "mentions_person_refs": [
         "N-2",
         "N-1"
@@ -1843,7 +1843,7 @@
       "@id": "C-2557",
       "ref": "C-2557",
       "label": "\"Wi-Refi\" / \"RY Reef air\" and the alleged Santa Barbara → Scottsdale plane share identity",
-      "claim": "The host identifies \"RY Reef air\" and \"Wi-Refi\" as the same plane – the aircraft Erica Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.",
+      "claim": "The host identifies \"RY Reef air\" and \"Wi-Refi\" as the same plane – the aircraft Erika Kirk described to the host as being used by Andrew Kolvet for the Santa Barbara → Scottsdale leg.",
       "anchored_artifacts": [
         "A-1887.3"
       ],
@@ -1852,7 +1852,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:38:35",
-      "investigative_direction": "Verify whether \"Wi-Refi\" is a transcript rendering of a specific aircraft name (e.g., \"WiRefi Air\") or a phonetic rendering by Erica Kirk.",
+      "investigative_direction": "Verify whether \"Wi-Refi\" is a transcript rendering of a specific aircraft name (e.g., \"WiRefi Air\") or a phonetic rendering by Erika Kirk.",
       "mentions_person_refs": [
         "N-14",
         "N-2"

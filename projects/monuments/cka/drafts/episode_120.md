@@ -704,7 +704,7 @@ Existing topic reused for the New York real estate license discussion.
 
 ---
 
-**N-10532** Next Model Management / Erica Kirk Connection
+**N-10532** Next Model Management / Erika Kirk Connection
 
 Existing topic reused for the new tips and witness reports on Erika's alleged role.
 

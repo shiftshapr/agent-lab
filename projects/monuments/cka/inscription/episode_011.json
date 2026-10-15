@@ -1565,7 +1565,7 @@
       "@type": "Claim",
       "@id": "C-1299",
       "ref": "C-1299",
-      "label": "Brooksby received a phone call about the shooter at 8:02 p.m. on the 11th from a retired detective friend",
+      "label": "Brooksby Says a Retired Friend Called at 8:02 p.m. Saying He Knew Who the Shooter Was",
       "claim": "In a clip the host plays, Nate Brooksby says that at 8:02 p.m. a friend who has been retired a few years, whom the host describes as a former detective, called to say he knew who the Charlie Kirk shooter was.",
       "anchored_artifacts": [
         "A-1172.1"
@@ -1698,7 +1698,7 @@
       "@type": "Claim",
       "@id": "C-1306",
       "ref": "C-1306",
-      "label": "The suicidal-ideation and fear-of-being-shot accounts are mutually exclusive",
+      "label": "Host Says Brooksby's Suicidal-Ideation Account Confusingly Conflicts With Her Source",
       "claim": "The host says it is confusing that Nate Brooksby tells us Tyler is suicidal, when her source says Tyler is not suicidal and went to the police station so as not to risk being shot.",
       "anchored_artifacts": [
         "A-1172.2",
@@ -1858,7 +1858,7 @@
       "@type": "Claim",
       "@id": "C-1314",
       "ref": "C-1314",
-      "label": "Phil Lyman showed up at \"Nick's\" home uninvited and asked questions about the host's investigation",
+      "label": "Phil Lyman Asked for Nick's Address, Came to His Home and Asked About the Host's Investigation",
       "claim": "Per Nick's account to host, Phil Lyman messaged Nick for his address (something he had not previously had), arrived at Nick's home, looked out the window nervously, sat at the table, and asked questions about the host's investigation.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -1959,7 +1959,7 @@
       "@id": "C-1320",
       "ref": "C-1320",
       "label": "Host Agrees With Viewer Comments on a Staged World and Prayer for Investigators",
-      "claim": "Host concurs with Bitsy's comment about a \"stage\" narrative; concurs with Miranda Allen's prayer request and reports that she also prays for protection over investigators.",
+      "claim": "Host concurs with Bitsy's comment about a \"stage\" narrative; responding to Miranda Allen's comment offering prayers, she says she really believes praying protection over the people trying to discover what happened is significant.",
       "anchored_artifacts": [
         "A-1182.4",
         "A-1182.5"
@@ -2022,7 +2022,7 @@
       "@id": "C-13824",
       "ref": "C-13824",
       "label": "Host Alleges Feds Withheld Dairy Queen Information and Are Watching the Dairy Queen",
-      "claim": "The host says the feds withheld information about the Dairy Queen and, as she puts it, are allegedly stalking the Dairy Queen to see who comes in and out. She presents the source's account as one that could answer both questions.",
+      "claim": "The host asks why the feds withheld information about the Dairy Queen and why they are allegedly stalking the Dairy Queen to see who comes in and out. She presents the source's account as one that could answer both questions.",
       "anchored_artifacts": [
         "A-3280.1"
       ],
@@ -2632,7 +2632,7 @@
       "@type": "Claim",
       "@id": "C-13851",
       "ref": "C-13851",
-      "label": "Host Says McEnany Put Lyman's Parking at 11:30 and the Footage at 11:49, 19 Minutes Apart, While Lyman Says About 10 Minutes",
+      "label": "McEnany Clip Puts Lyman's Parking at 11:30 and the Footage at 11:49, While Lyman Says About 10 Minutes",
       "claim": "In the clip, Kayleigh McEnany says Lyman told her he parked there at 11:30 a.m. and the footage was taken at 11:49 a.m., a gap of 19 minutes; Lyman answers that he parked there 'probably 10 minutes before he walked by.' The host reiterates the 19-minute figure.",
       "anchored_artifacts": [
         "A-1177.1"
@@ -2871,7 +2871,7 @@
       "tags": [
         "relevance:context"
       ],
-      "claim_timestamp": "00:49:16",
+      "claim_timestamp": "00:50:35",
       "investigative_direction": "Check Utah and Washington County Air Force and Hill AFB personnel and obituary records for Mitchell families. Confirm whether any relate to the retired detective.",
       "transcript_snippet": "I could find the Mitchell&nbsp;&nbsp; family. I don't know if it's his family, but the&nbsp; Mitchell name in that area was coming up for like&nbsp;&nbsp; Air Force.",
       "mentions_person_refs": [

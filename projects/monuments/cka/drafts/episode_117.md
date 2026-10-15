@@ -686,7 +686,7 @@ The scrubs account and the clothes worn in the vehicle.
 
 *Related: C-4711*
 
-**N-10698** Next Model Management / MC2 Trafficking Connection to Erica Kirk
+**N-10698** Next Model Management / MC2 Trafficking Connection to Erika Kirk
 
 The host's sourced claim that Erika Kirk used the same modeling office as a woman close to Epstein.
 

@@ -85,7 +85,7 @@ Video Timestamp: 00:18:09–00:18:19
 Transcript Snippet: His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.
 Confidence: high
 
-**A-1079.3** Text chain joking about convincing Erika Frantzey to take the Kirk last name as a 'practical decision'.
+**A-1079.3** Text chain joking about convincing Erika Frantzve to take the Kirk last name as a 'practical decision'.
 Event Timestamp: 2019-2020
 Video Timestamp: 00:18:31–00:18:51
 *Related: C-1120, N-1, N-3, N-2*
@@ -200,7 +200,7 @@ Uncertainty: Surname not stated in transcript.
 **N-2** Erika Kirk
 
 Node Type: Person
-Charlie Kirk's wife; subject of the 'Kirk vs Frantzey' name plan text chain.
+Charlie Kirk's wife; subject of the 'Kirk vs Frantzve' name plan text chain.
 
 *Related: A-1079.3, C-1120*
 
@@ -501,7 +501,7 @@ Tags: open_source_investigation
 **C-1124** Charlie's 'never say no to Fox News' media rule
 
 Claim Timestamp: 00:03:29
-Claim: Charlie Kirk enforced a team rule to never decline Fox News bookings, averaging about four Fox appearances per day including early-morning 'Fox and Friends First,' per host recollection.
+Claim: The host says Charlie Kirk's rule was never to say no to Fox News, and that they did as many as four Fox hits a day, up at 4:00 a.m. for 'Fox and Friends First.'
 Transcript Snippet: Charlie's rule was never say no to Fox News… four hits a day up at 4:00 a.m. for Fox and Friends First.
 Anchored Artifacts: 
 Mentions: N-1, N-3
@@ -527,8 +527,8 @@ Investigative Direction: Identify the restaurant and date via news reports of th
 
 **C-1119** Charlie approved of George after one evening in the UK
 
-Claim Timestamp: 00:18:09
-Claim: After a single evening with Candace's then-boyfriend George in the UK, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.
+Claim Timestamp: 00:17:28
+Claim: After a single evening with Candace's then-boyfriend George, Charlie Kirk texted that George and Candace were 'meant for each other,' per a shown text chain.
 Transcript Snippet: His heart is wonderful. You guys are meant for each other. I see it brilliantly and clearly.
 Anchored Artifacts: A-1079.2
 Mentions: N-1, N-3, N-30
@@ -541,13 +541,13 @@ Investigative Direction: Verify the UK trip date and the text chain contents aga
 **C-1120** Candace joked Erika should marry Charlie for the last name upgrade
 
 Claim Timestamp: 00:18:31
-Claim: A text chain between Charlie and Candace jokes that Erika Frantzey should marry Charlie Kirk because 'Kirk' sounds better than 'Frantzey,' per a shown text exchange.
+Claim: The host says she joked that Erika Frantzve should marry Charlie Kirk because 'Mrs. Erika Kirk' sounds better than 'Frantzve,' and a shown text exchange between Charlie and Candace says her last name is 'dumb' and 'Marry me. It's a logistics thing.'
 Transcript Snippet: Mrs. Erika Kirk sounds so much better than Mrs. Eric. ... "Marry me. It's a logistics thing."
 Anchored Artifacts: A-1079.3
 Mentions: N-1, N-2, N-3
 Related Nodes: N-10003
 Confidence: high
-Investigative Direction: Confirm the text chain timing predates the Kirk/Frantzey marriage announcement.
+Investigative Direction: Confirm the text chain timing predates the Kirk/Frantzve marriage announcement.
 
 ---
 
@@ -691,7 +691,7 @@ Investigative Direction: IRS filings for Turning Point USA would show its tax st
 
 Claim Timestamp: 00:03:13
 
-Claim: The host says the person Charlie adored most was Rush Limbaugh, that Charlie was raised on Limbaugh's show, and that his ultimate goal was to have a show like it, which she says happened.
+Claim: The host says the person Charlie adored most was Rush Limbaugh, that Charlie was raised on Limbaugh's show, and that she thinks his ultimate goal was to have a show like it, which she says happened.
 
 Transcript Snippet: was Rush Limbaugh. He was really raised on Rush Limbaugh,
 

@@ -868,10 +868,10 @@ Sigmund Freud; the host calls his family the real fathers of modern propaganda.
 
 ## 5. Claim Register
 
-**C-1186** Photo of Robinson at Dairy Queen at 6:38 p.m.
+**C-1186** Host Shows Photo Allegedly of Robinson at Dairy Queen at 6:38 p.m.
 
 Claim Timestamp: 00:05:44
-Claim: A photograph allegedly showing Tyler Robinson at a Dairy Queen roughly 15–17 minutes from UVU was circulated by locals and depicts him wearing jeans and a maroon shirt.
+Claim: The host says a photo that made its way around Orem and repeatedly into her tips line is a very clear image allegedly of Tyler Robinson, allegedly taken at 6:38 p.m. at a nearby Dairy Queen about a 15–17 minute drive from UVU, and that in it he is wearing jeans and the maroon shirt.
 Transcript Snippet: a very clear image of Tyler Robinson allegedly taken… allegedly taken at 6:38 p.m. at a nearby Dairy Queen.
 Anchored Artifacts: A-1111.1
 Mentions: N-40
@@ -884,7 +884,7 @@ Investigative Direction: Obtain original file with EXIF; cross-check Dairy Queen
 **C-1187** Robinson texts use word 'outfit'
 
 Claim Timestamp: 00:03:24
-Claim: The text exchange between Tyler Robinson and 'Lance' contains the word 'outfits', which the host argues is gender-marked language atypical of a male shooter.
+Claim: The alleged text exchange between Tyler Robinson and 'Lance' contains the word 'outfits', which the host, following a viewer comment, argues is language a woman, not a man, would use.
 Transcript Snippet: He says to Lance, allegedly, quote, 'I worry about Prince. I had to leave it… changed outfits.'
 Anchored Artifacts: 
 Mentions: N-40, N-54
@@ -1038,7 +1038,7 @@ Investigative Direction: Recover the original upload via Wayback / platform arch
 **C-1197** Local claim: gun found near chicken coop, not 'woods'
 
 Claim Timestamp: 00:24:56
-Claim: A local source told the host that the rifle was found in the backyard of someone she knows, by a chicken coop, and that although you could describe it as a wooded area, it is pretty suburban, whereas federal accounts say 'in the woods'.
+Claim: A local source told the host that the rifle was found in the backyard of someone she knows, by a chicken coop, and that although you could describe it as a wooded area, it is pretty suburban, whereas the public has just been told 'in the woods'.
 Transcript Snippet: the gun was found in the backyard of someone that I know… it was found by a chicken coop.
 Anchored Artifacts: 
 Mentions: N-40
@@ -1052,7 +1052,7 @@ Investigative Direction: Cross-check federal affidavit language re 'woods'; obta
 **C-1198** Host Says Locals Theorize Vacant UVU-Owned House Was Real Shooter's Refuge
 
 Claim Timestamp: 00:25:22
-Claim: The host says locals tell her, as an unproven theory, that a mysteriously vacant house next to where the gun was found is owned by Utah Valley University and is where the true shooter ran after the assassination, with Tyler Robinson instructed merely to drop off his gun as a decoy.
+Claim: The host says locals tell her, as an unproven theory, that a mysteriously vacant house next to where the gun was found is owned by Utah Valley University and is where the true shooter ran after the assassination, with Tyler Robinson instructed merely to drop off his gun.
 Transcript Snippet: the house right next door to where the gun was found is a mysteriously vacant vacant home… owned by the university itself.
 Anchored Artifacts: 
 Mentions: N-40
@@ -1062,10 +1062,10 @@ Investigative Direction: Pull county property records for the parcel; confirm UV
 
 ---
 
-**C-1199** Sherry Steel cannot be verified in building databases
+**C-1199** Host Says She Cannot Find Sherry Steel in the Building Complex
 
 Claim Timestamp: 00:19:02
-Claim: The host's team searched local databases for a 'Sherry Steel' at the apartment complex and contacted Robinson's family; no matching resident was located.
+Claim: The host says her team looked through databases for a 'Sherry Steel' at the building complex and contacted a family to see if they knew the name, and that she cannot find such a woman living there or the footage the BBC mentions.
 Transcript Snippet: I cannot find a woman named Sher Steel that lives in that building complex.
 Anchored Artifacts: 
 Mentions: N-74
@@ -1102,7 +1102,7 @@ Investigative Direction: Verify published speaker list for the Arizona memorial 
 
 ---
 
-**C-1202** Feds pressured locals not to release footage
+**C-1202** Host Says Locals Told Her Feds Pressured Them Not to Release Footage
 
 Claim Timestamp: 00:04:14
 Claim: Locals emailed the host stating that any footage they possessed was sent to federal authorities who then pressured them not to release it publicly.
@@ -1299,7 +1299,7 @@ Investigative Direction: Obtain the original message metadata and device extract
 
 Claim Timestamp: 00:04:52
 
-Claim: The host says it took a long time before the public saw any footage of the plane that hit the Pentagon on 9/11, and that she thinks someone in Congress had to fight to get footage released.
+Claim: The host says it took a long time before the public saw any footage of the alleged plane that hit the Pentagon on 9/11, and that she thinks someone in Congress had to fight to get footage released.
 
 Transcript Snippet: I think someone actually in Congress had to fight to get any footage released.
 
@@ -1315,7 +1315,7 @@ Investigative Direction: Check the 2006 Judicial Watch FOIA release of Pentagon 
 
 Claim Timestamp: 00:05:33
 
-Claim: The host says the Dairy Queen photo of Tyler Robinson spread around the whole town and reached her tips line repeatedly.
+Claim: The host says the Dairy Queen photo allegedly of Tyler Robinson spread around the whole town and reached her tips line repeatedly.
 
 Transcript Snippet: Something made its way around the entire town and into my tips line repeatedly.
 
@@ -1467,7 +1467,7 @@ Claim: The host says Irwin Steel says he lives in the house that gave the footag
 Transcript Snippet: But Irwin is saying that he lives in that house, but actually we found some other steels that live in that house.
 
 Anchored Artifacts: A-1112.2
-Mentions: N-73, N-78
+Mentions: N-73
 Related Nodes: N-10050, N-10062
 Tags: relevance:core
 Investigative Direction: Check county voter and property records for the occupants of the parcel.
@@ -1581,7 +1581,7 @@ Transcript Snippet: We do know according uh to the indictment that there were ch
 Anchored Artifacts: A-1114.1
 Mentions: N-3
 Related Nodes: N-10050
-Tags: relevance:context
+Tags: relevance:core
 Investigative Direction: Check the charging document for any reference to children present at the event.
 
 ---
@@ -1750,7 +1750,7 @@ Investigative Direction: Search the four speakers' broadcasts and posts for any 
 
 Claim Timestamp: 00:32:12
 
-Claim: The host says what she and others are doing is disputing Netanyahu's narrative that he and Kirk were on great terms and that Kirk was friendly toward his invitation.
+Claim: The host says what she and others are doing is disputing Netanyahu's narrative that he and Kirk were on great terms and really friendly and that he had just invited Kirk out.
 
 Transcript Snippet: Instead, what we are doing is we are disputing BB Netanyahu's narrative that him and Charlie were on great terms and really friendly had just invited him out.
 
@@ -1930,7 +1930,7 @@ Investigative Direction: Ask the Prime Minister's office for the full letter and
 
 Claim Timestamp: 00:37:02
 
-Claim: The host says Netanyahu invited Kirk to Israel about two weeks before the assassination without mentioning that Kirk declined to go.
+Claim: The host says Netanyahu keeps mentioning that he invited Kirk to Israel 'just two weeks ago' without mentioning that Kirk declined to go.
 
 Transcript Snippet: to lie by omission and to stop mentioning the fact that you invited him to Israel just two weeks ago without mentioning the fact that he declined to go.
 
@@ -2028,7 +2028,7 @@ Investigative Direction: Retrieve the New York Post article and compare its word
 
 Claim Timestamp: 00:39:14
 
-Claim: In the PBD clip, a speaker says Bill Ackman brought receipts and that Andrew Kolvet (transcribed Kovit) was there in the room, without the clip making clear which meeting is meant.
+Claim: In the PBD clip, speakers say Bill Ackman brought receipts and that Andrew Kolvet (transcribed Kovit) was there in the room, without the clip making clear which meeting is meant.
 
 Transcript Snippet: I think >> he was there in the room. >> Andrew Kolvet was there in the room.
 
@@ -2106,7 +2106,7 @@ Investigative Direction: Retrieve the TPUSA statement and the YWLS program from 
 
 ---
 
-**C-11973** Host Says Zionists Began Circling Kirk to Control Things Around the Previous September
+**C-11973** Host Says Zionists Began Circling Kirk to Control Things Around September
 
 Claim Timestamp: 00:41:05
 
@@ -2224,12 +2224,12 @@ Investigative Direction: Obtain messages or witnesses from Kirk's circle from th
 
 Claim Timestamp: 00:42:28
 
-Claim: The host says a donor she names as a Schulman guy (transcribed) said he wanted his name off the building at Turning Point.
+Claim: The host says a man she names as a Schulman guy (transcribed) said he wanted his name off the building at Turning Point.
 
 Transcript Snippet: "I want my name off of the building at Turning Point." In the 48 hours leading up to his assassination,
 
 Anchored Artifacts: 
-Mentions: N-1
+Mentions: 
 Related Nodes: N-10036, N-10000
 Supports: C-1174
 Tags: relevance:core
@@ -2421,7 +2421,7 @@ Investigative Direction: Read the complaint's causes of action and statements of
 
 Claim Timestamp: 00:47:32
 
-Claim: The host relays a commenter's point that the Robinson father has been more MAGA than ever and asks what changed to cause it.
+Claim: The host mocks the narrative that the Robinson father has been more MAGA than ever and relays a commenter's question about why the dad would suddenly be more MAGA than ever and what changed to cause it.
 
 Transcript Snippet: The dad MAGA. He's been more MAGA than ever. Some one of the commenters pointed out,
 

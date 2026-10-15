@@ -44,7 +44,7 @@
 
 ## II. Executive Summary
 
-Episode 67 ("BAAL SO HARD: The Epstein Files") is a 61-minute monologue in which Candace Owens ties the publicly released Epstein files to her prior readings of Sigmund Freud and Jewish mysticism, while simultaneously advancing the Bride of Charlie investigation on two fronts. First, the episode presents an updated reconstruction of Charlie Kirk's last 48 hours: Josh Hammer's on-camera clarification that the "abandoning pro-Israel cause" text was sent on September 9 (not September 8), a subsequent Zoom call with Hammer and an Israel-based rabbi the same evening, a dinner with family and a priest, and the "they're going to kill me" text to Andrew Kolvet and Dan Flood. Second, the episode presents the host's investigative findings that Erica Kirk allegedly lied twice about the Dan Flood message format (first denying it, then claiming it was on Telegram), and that Candace's source states it was sent as an iMessage. Additional artifacts include the Peter Thiel–Joe Rogan interview discussing Epstein, the Susan Hamblin "kill permission" email surfaced by independent journalist James Lee, Nicki Minaj's X post about Jay-Z, and Naftali Bennett's denial that Mossad ran Epstein.
+Episode 67 ("BAAL SO HARD: The Epstein Files") is a 61-minute monologue in which Candace Owens ties the publicly released Epstein files to her prior readings of Sigmund Freud and Jewish mysticism, while simultaneously advancing the Bride of Charlie investigation on two fronts. First, the episode presents an updated reconstruction of Charlie Kirk's last 48 hours: Josh Hammer's on-camera clarification that the "abandoning pro-Israel cause" text was sent on September 9 (not September 8), a subsequent Zoom call with Hammer and an Israel-based rabbi the same evening, a dinner with family and a priest, and the "they're going to kill me" text to Andrew Kolvet and Dan Flood. Second, the episode presents the host's investigative findings that Erika Kirk allegedly lied twice about the Dan Flood message format (first denying it, then claiming it was on Telegram), and that Candace's source states it was sent as an iMessage. Additional artifacts include the Peter Thiel–Joe Rogan interview discussing Epstein, the Susan Hamblin "kill permission" email surfaced by independent journalist James Lee, Nicki Minaj's X post about Jay-Z, and Naftali Bennett's denial that Mossad ran Epstein.
 
 The episode's structural importance lies in (a) correcting the Charlie Kirk Sept 8/9 chronology via Josh Hammer's own on-record clarification, (b) introducing an alleged iMessage-vs-Telegram discrepancy in the Dan Flood "kill" message that materially affects the Sept 9 timeline, and (c) flagging potential political exposure for J.D. Vance via Peter Thiel's Epstein emails. Host framing about Baal worship, Satanism, Khazars, and B'nai B'rith lodges is preserved as rhetoric and is not inscribed as evidentiary claims.
 
@@ -261,7 +261,7 @@ Confidence Level: Medium (comment read on air)
 
 **A-1726** Candace's Source Testimony Bundle
 
-**A-1726.1** Host-testimony claim that her source confirmed the Dan Flood text message was sent as an iMessage, not Telegram (contradicting Erica Kirk's stated account)
+**A-1726.1** Host-testimony claim that her source confirmed the Dan Flood text message was sent as an iMessage, not Telegram (contradicting Erika Kirk's stated account)
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -691,7 +691,7 @@ Referenced in alibi and Dan Flood message disputes.
 
 **N-10470** Dan Flood Message Format Discrepancy
 
-Persistent inconsistency between Erica Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 "they're going to kill me" text.
+Persistent inconsistency between Erika Kirk's account (denied message; then said Telegram; host source says iMessage). Bears directly on the Sept 9 "they're going to kill me" text.
 
 Evidence Count: 1
 Claim Count: 2
@@ -700,9 +700,9 @@ Investigative Pressure: High
 
 *Related: A-1726.1, C-2273, C-2274, N-2, N-271*
 
-**N-10471** Erica Kirk Sept 10 Alibi Verification
+**N-10471** Erika Kirk Sept 10 Alibi Verification
 
-Host's claim that no one in Erica Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.
+Host's claim that no one in Erika Kirk's building or medical office can confirm her stated alibi of collapsing in parking lot and screaming in doctor's office on Sept 10.
 
 Evidence Count: 1
 Claim Count: 1
@@ -713,7 +713,7 @@ Investigative Pressure: High
 
 **N-10472** Fort Huachuca Alibi Investigation
 
-Persistent target: host reports "major problems" verifying Erica Kirk's Fort Huachuca alibi; details pending.
+Persistent target: host reports "major problems" verifying Erika Kirk's Fort Huachuca alibi; details pending.
 
 Evidence Count: 0
 Claim Count: 0
@@ -1371,7 +1371,7 @@ Claim Timestamp: 00:22:23
 Claim: Nicki Minaj posted on X that "Your favorite artist has been practicing rituals in a satanic cult where they take babies from other countries and mutilate and kill them as a form of blood sacrifice to their God."
 
 Anchored Artifacts: A-1719.1
-Mentions: N-523, N-524
+Mentions: N-523
 
 
 Investigative Direction: Locate Minaj's original post on X; identify which artist she is referencing (context suggests Jay-Z).
@@ -1451,7 +1451,7 @@ Investigative Direction: Cross-reference Turek's account with security/camera re
 
 ---
 
-**C-2271** Frank Turek States GG (Child) Got Up During the Sept 8 Walk
+**C-2271** Frank Turek States GG (Child) Got Up Before the Sept 8 Walk
 
 Claim Timestamp: 00:47:26
 
@@ -1462,7 +1462,7 @@ Mentions: N-7, N-1
 
 Related Nodes: N-10473
 
-Investigative Direction: Verify against Charlie Kirk's text message timestamp; cross-reference with Erica Kirk's location claims.
+Investigative Direction: Verify against Charlie Kirk's text message timestamp; cross-reference with Erika Kirk's location claims.
 
 ---
 
@@ -1484,7 +1484,7 @@ Investigative Direction: Verify the email against the WikiLeaks Podesta archive;
 
 Claim Timestamp: 00:44:45
 
-Claim: Per Candace Owens's source (described as having had access to Dan Flood's messages), the "they're going to kill me" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erica Kirk later claimed.
+Claim: Per Candace Owens's source (described as having had access to Dan Flood's messages), the "they're going to kill me" text was sent as an iMessage, not via a Telegram chat that auto-cleared, as Erika Kirk later claimed.
 
 Anchored Artifacts: A-1726.1
 Mentions: N-271, N-2, N-3
@@ -1495,9 +1495,9 @@ Investigative Direction: Obtain device forensic records for Dan Flood's phone; o
 
 ---
 
-**C-2274** Source States Andrew Kolvet and Dan Flood Were Recipients of the "Kill Me" Text
+**C-2274** Host Says Andrew Kolvet and Dan Flood Received the "Kill Me" Text; Source Says It Was an iMessage
 
-Claim Timestamp: 00:44:45
+Claim Timestamp: 00:43:53
 
 Claim: Per Candace Owens's source, the "they're going to kill me" text Charlie Kirk sent on Sept 9 to Dan Flood was an iMessage; the host says it went to Andrew Kolvet and Dan Flood.
 
@@ -1555,7 +1555,7 @@ Investigative Direction: Verify the underlying WikiLeaks document.
 
 **C-2278** YouTube Comment From "Shyla" Affirms Candace as Truth Seeker
 
-Claim Timestamp: 00:58:27
+Claim Timestamp: 00:57:51
 
 Claim: A YouTube comment from "Shyla" affirms Candace Owens as "the ultimate truth seeker and right fighter" and affirms "Christ is king."
 
@@ -1793,7 +1793,7 @@ Investigative Direction: Locate the underlying email (sender, recipient, date, c
 
 ---
 
-**C-14248** Compilation says Epstein asked Peggy Siegal whether an event would be 100% Jewish
+**C-14248** Compilation says Peggy Siegal asked Epstein whether an event would be 100% Jewish
 
 Claim Timestamp: 00:10:32
 
@@ -1890,16 +1890,16 @@ Investigative Direction: Find Blanche's actual public statement on withheld vide
 
 ---
 
-**C-14254** Host says Tucker Carlson asserted that Mossad ran Epstein
+**C-14254** Clip has Ben Shapiro saying Tucker Carlson asserted that Mossad ran Epstein
 
 Claim Timestamp: 00:19:29
 
-Claim: The host says Tucker Carlson asserted that it was Mossad running Jeffrey Epstein, which she says he did without evidence.
+Claim: In a clip of Ben Shapiro the host plays, Shapiro says Tucker Carlson asserted that it was Mossad running Jeffrey Epstein, which Shapiro says Carlson did without evidence.
 
 Transcript Snippet: Here is Tucker then asserting that it was actually Mossad. Again, without evidence that not not a shock.
 
 Anchored Artifacts: 
-Mentions: N-3, N-22, N-9
+Mentions: N-3, N-97, N-22, N-9
 Related Nodes: N-10023, N-10015
 Contradicts: C-2263
 Tags: relevance:context
@@ -1957,7 +1957,7 @@ Investigative Direction: Locate the email in the DOJ release, check its provenan
 
 **C-14258** Host says CERN responded to the recorded ritual by saying they were faking
 
-Claim Timestamp: 00:22:23
+Claim Timestamp: 00:23:28
 
 Claim: The host says that when the CERN activity somebody caught on tape was shown, CERN 'came out and were like, Oh, we were just faking', which she compares to scientists dressing up and pretending to stab women before a statue of Shiva.
 
@@ -1990,7 +1990,7 @@ Investigative Direction: Check film-history sources on the Vienna-born emigre di
 
 Claim Timestamp: 00:24:42
 
-Claim: The host says the released files are protecting people who are still in power, which is why she found it 'super interesting' that Peter Thiel was thrown 'under the bus'.
+Claim: The host says not all of the files are being released and people still in power are being protected, which is why she found it 'super interesting' that Peter Thiel was thrown 'under the bus'.
 
 Transcript Snippet: which is why it was super interesting to see them sort of throw Peter Thiel under the bus.
 
@@ -2667,7 +2667,7 @@ Investigative Direction: Identify the doctor's office and parking lot Erika name
 
 Claim Timestamp: 00:49:30
 
-Claim: The host says Erika Kirk gave her 'a very straightforward alibi' and then pretended not to understand the instructions of the alibi for Fort Huachuca.
+Claim: The host says that no one can confirm seeing Erika Kirk on September 10, describing her as 'just giving me a very straightforward alibi and pretending like they didn't understand the instructions of this alibi for Fort Huachuca'.
 
 Transcript Snippet: just giving me a very straightforward alibi and pretending like they didn't understand the instructions of this alibi for Fort Huachuca.
 

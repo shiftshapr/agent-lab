@@ -788,7 +788,7 @@ Existing topic reused for the cease-and-desist claim.
 
 **C-2283** Last Erika Kirk Mother-Related Instagram Post Was April 2022 Mother's Day
 Claim Timestamp: 00:23:15
-Claim: Erika Kirk had not posted anything about her mother on Instagram since April 2022 (the host believes that post was for Mother's Day) until the Sept 7, 2025 post.
+Claim: The host says Erika Kirk had not posted anything about her mother on Instagram since April 2022 (a post the host believes was for Mother's Day) until the Sept 7, 2025 post.
 Anchored Artifacts: A-1727.1
 Mentions: N-490, N-2
 Related Nodes: N-10479
@@ -798,7 +798,7 @@ Investigative Direction: Verify against archived Instagram data for Erika Kirk.
 
 **C-2284** Sept 7, 2025 Erika Kirk Post Showed Mother in Vulnerable Position with Countdown
 Claim Timestamp: 00:24:00
-Claim: On Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading "10 days until September 16th."
+Claim: The host says that on Sept 7, 2025, Erika Kirk posted on Instagram showing her mother in what appears to be a sick / vulnerable state, with a countdown reading "10 days until September 16th."
 Anchored Artifacts: A-1727.2
 Mentions: N-490, N-2
 Related Nodes: N-10479
@@ -808,7 +808,7 @@ Investigative Direction: Obtain the original post screenshot/metadata and identi
 
 **C-2285** NYT Reported Erika Was at the Hospital When Mikey McCoy Called
 Claim Timestamp: 00:25:00
-Claim: The New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital with her mother when Mikey McCoy called her, described as having happened "within seconds" of the shooting.
+Claim: The host says the New York Times reported that on Sept 10, 2025, Erika Kirk was at the hospital while her mother received treatment when Mikey McCoy called her "within seconds" of the shooting, and notes the hospital wording was not a direct quotation from Erika.
 Anchored Artifacts: A-1728.1
 Mentions: N-191, N-490, N-2
 Related Nodes: N-10478, N-10482
@@ -818,7 +818,7 @@ Investigative Direction: Locate and quote the exact NYT passage to confirm wordi
 
 **C-2286** Viewer Email Asserted Rob Skiba Documents Gilgamesh Tomb, Tablet Disappearance
 Claim Timestamp: 00:05:54
-Claim: A viewer email read on air asserted that Rob Skiba's research documented: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was "raided"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.
+Claim: A viewer email the host reads, urging her to look up Rob Skiba's research, asserted: (1) the discovery of Gilgamesh/Nimrod's tomb; (2) the first U.S. base in Iraq was set up at the museum holding the relics; (3) the museum was "raided"; (4) everything was retrieved by the military except tablets concerning reincarnation and bringing back the Nephilim.
 Anchored Artifacts: A-1729.1
 Mentions: N-542
 Related Nodes: N-10480, N-10484
@@ -855,7 +855,7 @@ Investigative Direction: Locate the British Museum report and confirm quoted lan
 
 **C-2290** BBC Reported Fassbinder Discovered Gilgamesh's Tomb
 Claim Timestamp: 00:09:00
-Claim: The BBC reported that Jörg Fassbinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.
+Claim: The host says the BBC reported that Jörg Fassbinder had made the discovery of Gilgamesh's tomb, with the report surfacing a couple of weeks after the March 20, 2003 invasion of Iraq.
 Anchored Artifacts: A-1731.1
 Mentions: N-537
 Related Nodes: N-10484
@@ -874,7 +874,7 @@ Investigative Direction: Locate primary publications or institutional releases c
 
 **C-2292** Colin Powell Stated Iraq Possessed WMDs at UN on Feb 5, 2003
 Claim Timestamp: 00:09:03
-Claim: Colin Powell publicly stated at the United Nations Security Council on Feb 5, 2003 that Iraq possessed weapons of mass destruction.
+Claim: The host says Colin Powell publicly stated at the United Nations Security Council on Feb 5, 2003 that Iraq possessed weapons of mass destruction.
 Anchored Artifacts: A-1732.1
 Mentions: N-539
 Investigative Direction: Reference the UN Security Council record / transcript.
@@ -902,15 +902,15 @@ Investigative Direction: Obtain call log records or corroborating witness / phon
 
 **C-2295** Justin Streiff Text Messages Asserted Erika's Mother Was Very Sick
 Claim Timestamp: 00:26:30
-Claim: Justin Streiff sent text messages to the host asserting that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.
+Claim: The host says Justin Streiff told her in text messages that Erika's mother was very, very sick and that Erika was spending her days in the hospital with her mother; the host asserts she has confirmed the mother was receiving treatment at a holistic clinic rather than a hospital.
 Anchored Artifacts: A-1735.1
-Mentions: N-15, N-490
+Mentions: N-3, N-15, N-490, N-2
 Related Nodes: N-10478, N-10483
 Investigative Direction: Obtain copies of the underlying text messages and verify the clinic vs. hospital distinction independently.
 
 ---
 
-**C-2296** Viewer Comment Says William Stevenson Was Indicted for First-Degree Murder of His Ex-Wife
+**C-2296** Viewer Comment Says Jill Biden's Ex-Husband Was Indicted for Murder; Host Corrects Name to William Stevenson
 Claim Timestamp: 00:47:06
 Claim: A viewer comment the host reads says Jill Biden's ex-husband, whom it names as Bill Richardson, was indicted for first-degree murder of his ex-wife; the host, reading an article, corrects the name to William Stevenson, 77, of Wilmington, married to Jill Biden 1970 to 1975, and says the woman was found unresponsive in the living room and life-saving measures were unsuccessful.
 Anchored Artifacts: A-1736.1
@@ -921,7 +921,7 @@ Investigative Direction: Verify via Delaware court records and contemporaneous n
 
 **C-2297** Kevin Sorbo Tweeted He Left Hollywood Because of Pedophilia
 Claim Timestamp: 00:44:50
-Claim: Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles.
+Claim: The host says Kevin Sorbo tweeted that he left Hollywood because the people involved were pedophiles.
 Anchored Artifacts: A-1737.1
 Mentions: N-541
 Investigative Direction: Locate the tweet and verify exact wording and date.
@@ -969,7 +969,7 @@ Anchored Artifacts:
 Mentions: N-537
 Related Nodes: N-10481, N-10480
 Supports: C-2290
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare the coordinates of the Fassbinder survey with the coalition camp at Babylon.
 
 ---
@@ -1177,11 +1177,11 @@ Investigative Direction: Obtain the account of the parking lot collapse and the 
 
 ---
 
-**C-10027** Host says Charlie allegedly trained McCoy what to do
+**C-10027** Host Mocks McCoy Call Order Against Charlie's Alleged Training
 
 Claim Timestamp: 00:25:21
 
-Claim: The host says Charlie allegedly trained Mikey McCoy to walk away and call his wife and then Erika, and she does not buy the call order that was reported.
+Claim: The host says Mikey McCoy called his wife first and Erika three-plus minutes later, mocking this as 'so much for that training that Charlie allegedly gave him', and says she does not buy that account.
 
 Transcript Snippet: So much for that training that Charlie allegedly gave him.
 
@@ -1532,7 +1532,7 @@ Investigative Direction: Ask former Daily Wire staff about All Access practice.
 
 Claim Timestamp: 00:39:16
 
-Claim: In the clip, Shapiro jokes about pronouncing 'blitzkrieg' and Nazi breakfast foods including 'luft waffles', in response to the host's earlier temperature remark.
+Claim: In the clip, Shapiro mocks the host's temperature remark and her pronunciation, and jokes about pronouncing 'blitzkrieg' and Nazi breakfast foods including 'luft waffles'.
 
 Transcript Snippet: other Nazi breakfast foods besides blitzk eggs which may include luft waffles
 
