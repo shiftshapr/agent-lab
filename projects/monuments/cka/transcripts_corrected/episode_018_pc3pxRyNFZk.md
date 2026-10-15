@@ -222,7 +222,7 @@ It's very obvious. The more you peel back the onion, it is very obvious that thi
 
 [39:09]
 
-That's the plane where um Derek Maxfield, his wife Shirlene Maxfield, they sold some beauty company uh for billions, I believe, and they now just run a human sex trafficking organization in Utah. That was that plane. I can't remember. 888 is what I actually remember. Um and it seemed as though that plane left. It went to Page, Arizona, and it appeared that the ADSB transponder turned off. Now, what Kash Patel told us is different from what Derek Maxfield told us. Derek's Derek Maxfield on Instagram clarified that the air traffic control center was in agreement with them that they could stop transponding. Kash Patel says that plane never stopped transponding. So, I don't know what the truth is, and I'm not even pretending that we're ever going to get the truth.
+That's the plane where um Derek Maxfield, his wife Shelaine Maxfield, they sold some beauty company uh for billions, I believe, and they now just run a human sex trafficking organization in Utah. That was that plane. I can't remember. 888 is what I actually remember. Um and it seemed as though that plane left. It went to Page, Arizona, and it appeared that the ADSB transponder turned off. Now, what Kash Patel told us is different from what Derek Maxfield told us. Derek's Derek Maxfield on Instagram clarified that the air traffic control center was in agreement with them that they could stop transponding. Kash Patel says that plane never stopped transponding. So, I don't know what the truth is, and I'm not even pretending that we're ever going to get the truth.
 
 [40:07]
 

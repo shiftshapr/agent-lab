@@ -333,7 +333,7 @@ Investigative Pressure: High
 
 **N-10849** Woodbury Building / Baugh Family / N88 Plane Connection Question
 
-Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Shirlene and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.
+Investigative target concerning the relationships between (a) the Baugh family's $5M UVU donation, (b) the Woodbury Business Building, (c) the Baughs' partial ownership of the N88 plane alongside Shelaine and Derek Maxfield, and (d) the placement of the Baugh entrepreneurship program in the Woodbury building. No displayed source artifact in this episode.
 
 Evidence Count: 0
 Claim Count: 0
@@ -445,9 +445,9 @@ TPUSA figure named in the defamation clips.
 
 ---
 
-**N-202** Shirlene Maxfield
+**N-202** Shelaine Maxfield
 
-Co-owner of the N88 plane ('Shirlene' in the transcript); Saprea figure.
+Co-owner of the N88 plane ('Shelaine' in the transcript); Saprea figure.
 
 *Related: C-11893, C-11894*
 
@@ -1516,7 +1516,7 @@ Investigative Direction: Identify the arrest through UVU police or Orem and Prov
 
 Claim Timestamp: 00:23:33
 
-Claim: The host says that in the early hours people noticed a plane that used to be owned in Romania, the N88 plane owned by Derek Maxfield and Shirlene Maxfield, and that they had to come out and give a statement.
+Claim: The host says that in the early hours people noticed a plane that used to be owned in Romania, the N88 plane owned by Derek Maxfield and Shelaine Maxfield, and that they had to come out and give a statement.
 
 Transcript Snippet: It was their plane. They had to come out and give a statement.
 

@@ -93,7 +93,7 @@ Do you have that? Great. Here we go. Just so you guys know we're not making this
 
 [14:00]
 
-We have Tyler Bowyer who holds a degree in Russian studies and is fluent in Russian which is similar to Astrid Tuminez by the way, the president of UVU. She also holds degree in Russian studies and is fluent in Russian. And I should mention she's an orphaned child. Might be relevant, might not be relevant, who knows? Rob McCoy, I don't know if you know this, but he adopted a 12-year-old girl named Natalia. She now goes by Natasha from Russia around 2006. Okay. So, I don't know. It's these these are just facts. I'm delivering the facts here. Now regarding uh trafficking sex abuse I I N A 8 8 KG which is now currently owned by Derek and Shailene Maxfield, they run Saprea which is a child abuse charity. Uh not not, you know, they're helping children that have been abused.
+We have Tyler Bowyer who holds a degree in Russian studies and is fluent in Russian which is similar to Astrid Tuminez by the way, the president of UVU. She also holds degree in Russian studies and is fluent in Russian. And I should mention she's an orphaned child. Might be relevant, might not be relevant, who knows? Rob McCoy, I don't know if you know this, but he adopted a 12-year-old girl named Natalia. She now goes by Natasha from Russia around 2006. Okay. So, I don't know. It's these these are just facts. I'm delivering the facts here. Now regarding uh trafficking sex abuse I I N A 8 8 KG which is now currently owned by Derek and Shelaine Maxfield, they run Saprea which is a child abuse charity. Uh not not, you know, they're helping children that have been abused.
 
 [14:53]
 
@@ -109,7 +109,7 @@ Obviously I have covered extensively Calvary Chapel Chapel church riddled with p
 
 [17:45]
 
-Obviously we know Glenn Beck has interviewed Erika Kirk. We know that um and Glenn Beck also his children were there um at UVU when Charlie Kirk was assassinated. He was one of the first people to speak out about that on the news on September 10th. And Tim Ballard's name strangely came up when we were looking into Phil Lyman. And we learned that he paid Tim Ballard a visit in the days following the assassination which was just Tim Ballard's name coming up was just interesting to me because I was like oh, he runs also a child trafficking charity. There's a lot of that, just a lot of that happening. And also I should mention Derek and Shailene Maxfield who run this abuse charity, in their profile pictures they were wearing an Operation Underground shirt.
+Obviously we know Glenn Beck has interviewed Erika Kirk. We know that um and Glenn Beck also his children were there um at UVU when Charlie Kirk was assassinated. He was one of the first people to speak out about that on the news on September 10th. And Tim Ballard's name strangely came up when we were looking into Phil Lyman. And we learned that he paid Tim Ballard a visit in the days following the assassination which was just Tim Ballard's name coming up was just interesting to me because I was like oh, he runs also a child trafficking charity. There's a lot of that, just a lot of that happening. And also I should mention Derek and Shelaine Maxfield who run this abuse charity, in their profile pictures they were wearing an Operation Underground shirt.
 
 [18:32]
 

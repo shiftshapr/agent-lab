@@ -749,9 +749,9 @@ Rob McCoy's father, said to have run naval intelligence psychological operations
 
 ---
 
-**N-202** Shirlene Maxfield
+**N-202** Shelaine Maxfield
 
-Said by the host to co-own the 888 plane and run Saprea (spelled Shailene in the transcript).
+Said by the host to co-own the 888 plane and run Saprea (spelled Shelaine in the transcript).
 
 *Related: C-8155, C-8156*
 
@@ -1196,7 +1196,7 @@ Anti-trafficking charity founded by Tim Ballard, linked by the host to Glenn Bec
 **N-11168** Saprea
 
 Node Type: Organization
-Child abuse charity the host says Derek and Shailene Maxfield run.
+Child abuse charity the host says Derek and Shelaine Maxfield run.
 
 *Related: C-8155*
 
@@ -2273,20 +2273,20 @@ Investigative Direction: Find McCoy's own accounts or church bulletins about the
 
 ---
 
-**C-8155** Host Says the 888 Plane Is Now Owned by Derek and Shailene Maxfield of Saprea
+**C-8155** Host Says the 888 Plane Is Now Owned by Derek and Shelaine Maxfield of Saprea
 
 Claim Timestamp: 00:14:00
 
 Claim: The host says the aircraft with the registration she reads as N888KG is currently owned by Derek and Shelaine Maxfield, who run Saprea, a child abuse charity.
 
-Transcript Snippet: which is now currently owned by Derek and Shailene Maxfield, they run Saprea which is a child abuse charity.
+Transcript Snippet: which is now currently owned by Derek and Shelaine Maxfield, they run Saprea which is a child abuse charity.
 
 Anchored Artifacts: 
 Mentions: N-94, N-202
 Related Nodes: N-11168
 Supports: C-6874
 Tags: relevance:core
-Investigative Direction: Check FAA registration for N888KG and Saprea's nonprofit filings naming Derek and Shirlene Maxfield.
+Investigative Direction: Check FAA registration for N888KG and Saprea's nonprofit filings naming Derek and Shelaine Maxfield.
 
 ---
 
