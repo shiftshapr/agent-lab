@@ -804,7 +804,7 @@
       "ref": "N-7",
       "name": "Frank Turek",
       "type": "person",
-      "description": "Rendered \"Frank Cheric\" and \"Frank Turek\" in the transcript; the host describes his hospital clothing change and his role in the necklace chain.",
+      "description": "Rendered \"Frank Turek\" and \"Frank Turek\" in the transcript; the host describes his hospital clothing change and his role in the necklace chain.",
       "related_artifacts": [],
       "related_claims": [
         "C-5782",
@@ -1086,7 +1086,7 @@
       "ref": "N-684",
       "name": "Jon Bray",
       "type": "person",
-      "description": "Analyst the host credits with identifying the mic as a possible shaped-charge source (rendered \"John Bray\" in the transcript).",
+      "description": "Analyst the host credits with identifying the mic as a possible shaped-charge source (rendered \"Jon Bray\" in the transcript).",
       "related_artifacts": [],
       "related_claims": [
         "C-5793"
@@ -1830,7 +1830,8 @@
       "investigative_direction": "Obtain Shawn Ryan show audio/video; cross-reference against hospital records, gurney handling logs, and ER staff testimony to verify or falsify Harpole's account.",
       "mentions_person_refs": [
         "N-267",
-        "N-1"
+        "N-1",
+        "N-225"
       ]
     },
     {
@@ -1849,6 +1850,7 @@
       "claim_timestamp": "00:18:25",
       "investigative_direction": "Obtain original Fox 13 footage; verify timestamp and quoted language against Sarah Tool's subsequent statements.",
       "mentions_person_refs": [
+        "N-732",
         "N-1"
       ]
     },
@@ -1865,9 +1867,10 @@
         "N-10677"
       ],
       "tags": [],
-      "claim_timestamp": "00:20:48",
+      "claim_timestamp": "00:20:28",
       "investigative_direction": "Obtain original local-media footage and timestamp; document any prompts or interviewer framing that may have influenced the revised account.",
       "mentions_person_refs": [
+        "N-732",
         "N-1"
       ]
     },
@@ -1876,7 +1879,7 @@
       "@id": "C-2938",
       "ref": "C-2938",
       "label": "Sarah Tool's ABC Interview Asserted Shooter at ~200 Yards",
-      "claim": "In her ABC News interview, Sarah Tool stated the shooter was approximately 200 yards away and that the shot struck Charlie Kirk in the left side of the neck.",
+      "claim": "In her ABC News interview, Sarah Tool said she thought the shooter was about 200 yards away and that the shot struck Charlie Kirk in the neck, going \"right into his left side.\"",
       "anchored_artifacts": [
         "A-2086.3"
       ],
@@ -1887,6 +1890,7 @@
       "claim_timestamp": "00:21:43",
       "investigative_direction": "Verify the 200-yard figure against the documented distance from the Loews Center to the courtyard; check ABC News raw footage for prior coaching or scripting cues.",
       "mentions_person_refs": [
+        "N-732",
         "N-1"
       ]
     },
@@ -1907,7 +1911,8 @@
       "investigative_direction": "Obtain the underlying court order from Utah state court records to verify the ruling, its date, and its specific findings.",
       "mentions_person_refs": [
         "N-40",
-        "N-54"
+        "N-54",
+        "N-136"
       ]
     },
     {
@@ -1964,7 +1969,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:14:51",
-      "investigative_direction": "Source original high-resolution images from John Bray or other collectors; submit for independent forensic image analysis.",
+      "investigative_direction": "Source original high-resolution images from Jon Bray or other collectors; submit for independent forensic image analysis.",
       "mentions_person_refs": [
         "N-1"
       ]
@@ -2014,7 +2019,7 @@
       "@id": "C-5779",
       "ref": "C-5779",
       "label": "TPUSA moved to sell the \"freedom shirt\" for $59.99 after Charlie's death",
-      "claim": "The host says TPUSA moved to sell the white \"freedom shirt\" that Charlie Kirk was wearing when he died \"like hotcakes right after he passed,\" at $59.99.",
+      "claim": "The host says TPUSA moved to sell the \"freedom shirt\", like the one Charlie Kirk was wearing when he died, \"like hotcakes right after he passed,\" at $59.99, and that she wanted to know what happened to the original.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -2074,7 +2079,7 @@
       "@id": "C-5782",
       "ref": "C-5782",
       "label": "Necklace was sought by the feds and Frank Turek and then given to the widow",
-      "claim": "The host says the feds were looking for Charlie's necklace, as was Frank Cheric (Turek), and that it was then given to the widow, who now wears it.",
+      "claim": "The host says the feds were looking for Charlie's necklace, as was Frank Turek, and that it was then given to the widow, who now wears it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10537"
@@ -2082,7 +2087,7 @@
       "tags": [],
       "claim_timestamp": "00:03:41",
       "investigative_direction": "Identify who recovered the necklace, any evidence log entry for it, and the date it was released to Erika Kirk.",
-      "transcript_snippet": "the feds were looking for it for some unknown reason, as was Frank Cheric, and it was then given to the widow, who now wears it around her neck.",
+      "transcript_snippet": "the feds were looking for it for some unknown reason, as was Frank Turek, and it was then given to the widow, who now wears it around her neck.",
       "mentions_person_refs": [
         "N-7"
       ]
@@ -2283,7 +2288,7 @@
       "@id": "C-5792",
       "ref": "C-5792",
       "label": "The SUV was towed, cleaned and auctioned expeditiously",
-      "claim": "The host says the SUV was sent for a tow, a cleanup and an auction very quickly and was not kept for evidence.",
+      "claim": "The host says, running the scenario that it was an inside job, that the SUV was sent for a tow, a cleanup and an auction very expeditiously and that they did not want to keep it for evidence.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10685"
@@ -2300,8 +2305,8 @@
       "@type": "Claim",
       "@id": "C-5793",
       "ref": "C-5793",
-      "label": "John Bray identified the mic as a possible shaped-charge source and looked for ABS shards",
-      "claim": "The host says John Bray immediately identified the mic as the potential source of a shaped-charge explosion and went looking for shattered ABS from the Rode Wireless Pro.",
+      "label": "Jon Bray identified the mic as a possible shaped-charge source and looked for ABS shards",
+      "claim": "The host says Jon Bray immediately identified the mic as the potential source of a shaped-charge explosion and went looking for shattered ABS from the Rode Wireless Pro.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10705"
@@ -2309,7 +2314,7 @@
       "tags": [],
       "claim_timestamp": "00:12:20",
       "investigative_direction": "Obtain Bray's original posts and the source images he used, with dates.",
-      "transcript_snippet": "John Bray, who immediately identified the mic as the potential source of a shaped charge explosion, was on the pursuit looking for shattered ABS glass from the Rode Wireless Pro.",
+      "transcript_snippet": "Jon Bray, who immediately identified the mic as the potential source of a shaped charge explosion, was on the pursuit looking for shattered ABS glass from the Rode Wireless Pro.",
       "supports_claim_refs": [
         "C-4613"
       ],
@@ -2653,8 +2658,7 @@
       "investigative_direction": "Check the filings for any representation about Twiggs' residence and his availability to testify.",
       "transcript_snippet": "Twigs now lives out of state, but the judge has ruled that the purpose of this hearing",
       "mentions_person_refs": [
-        "N-54",
-        "N-136"
+        "N-54"
       ]
     },
     {
@@ -2714,8 +2718,7 @@
       "investigative_direction": "Obtain the recorded statement and the ruling to confirm who found the notes and what the recording covers.",
       "transcript_snippet": "They are not allowed to question the person who says that he found the notes. They're just going to play a recording of him saying that they found it.",
       "mentions_person_refs": [
-        "N-54",
-        "N-136"
+        "N-54"
       ]
     },
     {
@@ -2999,7 +3002,7 @@
       "@type": "Claim",
       "@id": "C-5829",
       "ref": "C-5829",
-      "label": "Host solicits tips on Erika and Next Model Management at DIA addresses",
+      "label": "Host Solicits Tips on Erika and Next Model Management",
       "claim": "The host asks anyone with information about Erika Frantzve and Next Model Management apartments to email moretips@candaceowens.com or tips@candaceowens.com.",
       "anchored_artifacts": [
         "A-2779.1"
@@ -3268,8 +3271,7 @@
       "investigative_direction": "Confirm the title, publisher and release date of the book.",
       "transcript_snippet": "and then J. D. Vance drops a book about his Catholicism.",
       "mentions_person_refs": [
-        "N-4",
-        "N-278"
+        "N-4"
       ]
     },
     {
@@ -3299,7 +3301,7 @@
       "@id": "C-5844",
       "ref": "C-5844",
       "label": "Host acknowledges the excerpt is not literally in the book",
-      "claim": "The host acknowledges that many will say the excerpt is not technically in Vance's book and says it is the essence of the book.",
+      "claim": "In the clip the host plays, Tim Dillon says many people will say the excerpt is not technically in Vance's book, and that it is the essence of the book.",
       "anchored_artifacts": [
         "A-2090.1"
       ],

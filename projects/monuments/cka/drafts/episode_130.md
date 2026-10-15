@@ -889,7 +889,7 @@ The host's claim that Erika Kirk invited influencers into the courtroom at Tyler
 
 Claim Timestamp: 00:04:35
 
-Claim: A 1947 New York Times article attributes to Margaret Truman Daniel's biography an account that the Stern gang of Zionist terrorists attempted to assassinate President Truman by letter bomb using cream-colored envelopes rigged with powdered gelatin, a pencil battery, and a detonator.
+Claim: Per a New York Times article the host shows, the Stern gang of Zionist terrorists attempted to assassinate President Truman by letter bomb in 1947, according to Margaret Truman Daniel's biography, which describes cream-colored envelopes rigged with powdered gelatin, a pencil battery, and a detonator.
 
 Anchored Artifacts: A-2171.1
 Related Nodes:
@@ -911,9 +911,10 @@ Investigative Direction: Verify against the cited Wikipedia revision history and
 
 Claim Timestamp: 00:14:54
 
-Claim: A 1976 Time magazine article titled "The Keepers of the King" states that six Mormon aides, recruited by the Summa Corporation and led by Bill Gay, attended Howard Hughes in 8-hour shifts, were paid up to $110,000 per year, censored his communications, and controlled his public image.
+Claim: Per a 1976 Time magazine article titled "The Keepers of the King" the host shows, six Mormon aides recruited by the Summa Corporation, with Bill Gay himself attending Howard Hughes day and night in 8-hour shifts, were paid up to $110,000 a year each, decided which messages reached him, censored his reading matter, and controlled him and his public image.
 
 Anchored Artifacts: A-2173.1
+Mentions: N-744, N-745
 Related Nodes: N-10747
 
 Investigative Direction: Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants.
@@ -934,7 +935,7 @@ Investigative Direction: Verify by retrieving the original Kolvet tweet thread v
 
 Claim Timestamp: 00:36:31
 
-Claim: Andrew Kolvet's X post asserts that the Daily Mail did not send the Kirk organization a request for comment before publication.
+Claim: Per Andrew Kolvet's X post as the host reads it, the Kirk organization never received a request for comment from the Daily Mail, and they were told one was attempted but could not find it.
 
 Anchored Artifacts: A-2174.1
 Mentions: N-14
@@ -958,7 +959,7 @@ Investigative Direction: Retrieve current and archived versions of the Daily Mai
 
 Claim Timestamp: 00:36:31
 
-Claim: Andrew Kolvet's X post asserts that Erika has never been heard to swear, privately or publicly.
+Claim: Andrew Kolvet's X post, as the host reads it, says he has personally never heard Erika swear at someone.
 
 Anchored Artifacts: A-2174.1
 Mentions: N-2, N-14
@@ -1037,7 +1038,7 @@ Investigative Direction: Obtain Courtney Love's own account of the conversation 
 
 Claim Timestamp: 00:02:09
 
-Claim: The host says Kanye West alluded to a Zionist mafia after his gym trainer, Harley Pasternak, threatened to drug him and take his children away, and that Michael Jackson alluded to the same before his death.
+Claim: The host says Kanye West alluded to a Zionist mafia after his gym trainer, Harley Pasternak, threatened to drug him and take his children away, and that she thinks Michael Jackson alluded to the same before his death.
 
 Transcript Snippet: Kanye West alluded to that after his gym trainer, Harley Pasternak, threatened to drug him and take his children away.
 
@@ -1626,7 +1627,7 @@ Investigative Direction: Review the host's text messages and Turning Point Actio
 
 Claim Timestamp: 00:25:03
 
-Claim: The host says Tyler Bowyer brought Erika into the organization, that both have admitted it, but that Erika told her she could not recall how she knows him, suggesting maybe through Senator Jon Kyl.
+Claim: The host says Tyler Bowyer brought Erika in, that both have admitted it, and that Erika told her face to face she cannot recall how she knows him, maybe through Senator Jon Kyl.
 
 Transcript Snippet: She told me maybe through Senator Jon Kyl, maybe uh that's what she told me in our face-to-face meeting
 
@@ -1842,7 +1843,7 @@ Claim: The host says Charlie Kirk, like Howard Hughes, lived one way relying on 
 Transcript Snippet: The very people that he trusted the most in his inner circle are doing a 180 on the things that Charlie believed.
 
 Anchored Artifacts: 
-Mentions: N-1
+Mentions: N-1, N-744
 Related Nodes: N-10747
 Investigative Direction: Catalogue specific TPUSA policy positions that changed after September 2025 against Charlie Kirk's earlier statements.
 
@@ -1852,9 +1853,9 @@ Investigative Direction: Catalogue specific TPUSA policy positions that changed 
 
 Claim Timestamp: 00:33:36
 
-Claim: The host says she has too many messages and group chats with Andrew Kolvet and Tyler Bowyer to count (transcript renders the first name as Klavan), and that his Shapiro friendship claim was dishonest.
+Claim: The host says she has way too many messages and group chats with Andrew Kolvet and Tyler Bowyer to count, and that his claim that Charlie and Ben Shapiro were friends took a level of dishonesty.
 
-Transcript Snippet: I just have way too many messages, group chats with Andrew Klavan, with Tyler
+Transcript Snippet: I just have way too many messages, group chats with Andrew Kolvet, with Tyler
 
 Anchored Artifacts: A-2789.2
 Mentions: N-14, N-11, N-3
@@ -1881,7 +1882,7 @@ Investigative Direction: Retrieve Shapiro's tweet and compare with Kolvet's orig
 
 Claim Timestamp: 00:33:36
 
-Claim: The host says Blake Neff said on a podcast that Charlie Kirk had issues with Ben Shapiro but considered him at least an ally in the movement, was constantly texting about him and making fun of him.
+Claim: The host says Blake Neff said on a podcast that Charlie Kirk had issues with Ben Shapiro but considered him at least an ally in the movement.
 
 Transcript Snippet: Blake Neff went on to the podcast and said, yeah, no, Charlie had issues with Ben, but he did consider him at least an ally in the movement.
 
@@ -2202,7 +2203,7 @@ Claim: The host reads a seamstress email saying the item clearly has a seam with
 Transcript Snippet: I also included a photo of what makes sense to me of how that seam could fit onto the shirt. It would be on the lower portion of the sleeve.
 
 Anchored Artifacts: A-2177.1
-Mentions: N-331
+Mentions: N-3
 Related Nodes: N-10714, N-10740
 Supports: C-3017
 
@@ -2267,7 +2268,7 @@ Claim: The host says it was an atrocious idea for the PR team to have Erika Kirk
 Transcript Snippet: What an atrocious idea if you're the PR team to have Erika invite influencers into the courtroom.
 
 Anchored Artifacts: 
-Mentions: N-2, N-609, N-89
+Mentions: N-2
 Related Nodes: N-11065
 Investigative Direction: Identify which influencers attended the preliminary hearing and who invited them.
 

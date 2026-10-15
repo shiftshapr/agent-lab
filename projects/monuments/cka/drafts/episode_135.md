@@ -747,6 +747,7 @@ Claim Timestamp: 00:06:16
 Claim: Per the "Play Like a Fangirl" book listing on Penguin Random House that the host shows, "Ashley" (alongside Christine and Tonya) is one of the book's authors.
 
 Anchored Artifacts: A-2217.1
+Mentions: N-899
 
 Related Nodes:
 
@@ -768,7 +769,7 @@ Investigative Direction: Verify description against Penguin Random House's offic
 
 Claim Timestamp: 00:19:46
 
-Claim: Brian Harpole's preliminary hearing testimony, as played in the episode, states he cut Charlie Kirk's shirt with scissors, then discussed drug administration with the medical staff, then exited the room and guarded the door.
+Claim: Brian Harpole's preliminary hearing testimony, as played in the episode, states he cut Charlie Kirk's shirt off, then discussed drug administration with the medical staff, then exited the room and guarded the door.
 
 Anchored Artifacts: A-2219.1
 Mentions: N-1, N-267
@@ -781,7 +782,7 @@ Investigative Direction: Obtain official preliminary hearing transcript from Uta
 
 Claim Timestamp: 00:31:16
 
-Claim: Per the anesthesiologist's email, the observed wound pattern (blood/tissue eruption from left neck) is more consistent with an exit wound from a rear shot, or with a shaped charge originating from the chest area, than with a frontal bullet hit.
+Claim: Per the anesthesiologist's email the host reads, the eruption of blood or tissue from the left neck is more consistent with an exit wound, though a bullet entering the left neck cannot be ruled out; there is no evidence of a shot from behind, and a frontal hit would have sent his torso backwards, so a shaped charge from the right chest is the best fit.
 
 Anchored Artifacts: A-2220.1
 Mentions: N-1
@@ -807,7 +808,7 @@ Investigative Direction: Obtain the autopsy report and forensic lab analysis of 
 
 Claim Timestamp: 00:33:41
 
-Claim: Per the anesthesiologist's email, no ambulance with resuscitative equipment or trained personnel was immediately available at the scene (no defibrillators, no IV drugs), and Charlie's neck was not stabilized before transport.
+Claim: Per the anesthesiologist's email, no ambulance with resuscitative equipment or trained personnel was immediately available at the scene (no defibrillators, no access to IV drugs), and Charlie's neck should have been stabilized before moving him.
 
 Anchored Artifacts: A-2220.1
 Mentions: N-1
@@ -820,10 +821,10 @@ Investigative Direction: Obtain dispatch logs, ambulance records, and witness st
 
 Claim Timestamp: 00:35:15
 
-Claim: Per the nurse's email, the autopsy timeline only supports approximately 3 hours in the morgue given typical body cooling rate (8 hours to reach 40°F), and the medical examiner's protocol appears rushed.
+Claim: Per the transplant coordinator's email the host reads, it takes at least eight hours for deep core body temperature to reach 40 degrees in a morgue cooler, so the timeline would only support about three hours in the morgue, depending on how much time Erika spent with him; the host then says the autopsy was rushed.
 
 Anchored Artifacts: A-2220.2
-Mentions: N-1
+Mentions: N-1, N-2
 
 Related Nodes: N-10767
 
@@ -862,6 +863,7 @@ Claim Timestamp: 00:10:36
 Claim: Per the played audio attributed to Dr. Ashley Brown Guajardo, erotic role play involves playing a character different from oneself, while cybersex involves engaging as oneself – both use a keyboard for erotic expression but differ in character embodiment.
 
 Anchored Artifacts: A-2218.1
+Mentions: N-899
 
 Related Nodes:
 
@@ -925,7 +927,7 @@ Investigative Direction: Obtain independent verification – shuttle bus booking
 
 Claim Timestamp: 00:23:00
 
-Claim: Per host's verbal source, ER patients were subsequently transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. on September 10, 2025.
+Claim: Per host's verbal source, ER patients were informed at approximately 11:30 a.m. on September 10, 2025 that they would be transferred via shuttle to Intermountain/Utah Valley Hospital, and that is what happened.
 
 Anchored Artifacts: None displayed (verbal source only)
 Mentions: N-1
@@ -1256,7 +1258,7 @@ Investigative Direction: Check her published CV or university profile for degree
 
 Claim Timestamp: 00:07:46
 
-Claim: The host reads from Dr. Ashley Brown Guajardo's bio that she was previously faculty at Brunel University in London and then the University of Utah, where she won awards for innovative and inclusive teaching.
+Claim: The host reads from Dr. Ashley Brown Guajardo's bio that she was previously faculty at Brunel University in London and then the University of Utah, and won awards for innovative and inclusive teaching at both institutions.
 
 Transcript Snippet: previously Dr. Kowhardo was faculty at Brunel University in London and then the University of Utah.
 
@@ -1512,7 +1514,7 @@ Investigative Direction: Defense discovery would show whether the clothing appea
 
 Claim Timestamp: 00:18:23
 
-Claim: The host says it is odd that there were no eyewitnesses to the ER scene Brian Harpole described, and asks where the doctors, nurses and other patients are.
+Claim: The host says it is odd that there were no eyewitnesses to the extremely erratic, chaotic and improbable ER scene Brian Harpole depicted, and asks where the witnesses are.
 
 Transcript Snippet: many of us have noted how odd it is that there were no eyewitnesses to the extremely erratic, chaotic, and utterly improbable ER scene
 
@@ -1820,7 +1822,7 @@ Investigative Direction: Seek rooftop scene evidence, the recovered-rifle chain 
 
 Claim Timestamp: 00:35:15
 
-Claim: The transplant coordinator's email says she has never seen thoracic trauma or hemorrhaging in a gunshot wound to the head or neck, and that it would take blunt force trauma to the chest, which would fit an exploding microphone under the shirt.
+Claim: The transplant coordinator's email says the writer has never seen thoracic trauma or hemorrhaging in a gunshot wound to the head or neck, and that it would take blunt force trauma to the chest, which would fit an exploding microphone under the shirt.
 
 Transcript Snippet: I've never seen thoracic trauma or hemorrhaging for that matter in a gunshot wound to the head or neck.
 
@@ -1869,7 +1871,7 @@ Investigative Direction: Ask forensic pathologists and the Utah OME for its writ
 
 Claim Timestamp: 00:36:50
 
-Claim: The host says her team found that a body begins to decompose after about 12 hours, so immediate autopsy would not be illegal even though it departs from normal practice.
+Claim: The host says she thinks, from her team's research, that a body can wait about 12 hours before decomposition begins, so an immediate autopsy would not be illegal even though it departs from normal practice.
 
 Transcript Snippet: 12 hours before they start to get decomposition. We were looking that up, so the body wouldn't have decomposed, but it's just not what they usually do.
 

@@ -923,7 +923,7 @@
       "ref": "N-267",
       "name": "Brian Harpole",
       "type": "person",
-      "description": "Transcript spellings \"Bryan Harpole\" and \"Bryan Harp\". He is suing the host. Said to have offered Shawn Ryan Charlie Kirk's bloodied bag, and he is referenced in Rob McCoy's sermon.",
+      "description": "Transcript spellings \"Brian Harpole\" and \"Bryan Harp\". He is suing the host. Said to have offered Shawn Ryan Charlie Kirk's bloodied bag, and he is referenced in Rob McCoy's sermon.",
       "related_artifacts": [
         "A-2697.1",
         "A-2703.1",
@@ -2300,8 +2300,7 @@
       "transcript_snippet": "He was brought on, I am told, of course after I stopped touring with Charlie, when they started doing the redundancy of the microphone in 2024. He's actually from Liberia",
       "mentions_person_refs": [
         "N-703",
-        "N-1",
-        "N-262"
+        "N-1"
       ]
     },
     {
@@ -2371,7 +2370,7 @@
       "@id": "C-4794",
       "ref": "C-4794",
       "label": "Eyewitness Tiffany Barker worked on Phil Lyman's campaign",
-      "claim": "The host says many of the witnesses who spoke to news outlets were politically connected, including Tiffany Barker, who she says worked on Phil Lyman's campaign.",
+      "claim": "The host says many of the witnesses who spoke to news outlets were politically connected, including Tiffany Barker, who she thinks worked on Phil Lyman's campaign.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10315"
@@ -2453,7 +2452,7 @@
       "@id": "C-4798",
       "ref": "C-4798",
       "label": "Host: there was never a pooling of blood near Charlie's heart",
-      "claim": "The host says there was never a pooling of blood near Charlie Kirk's heart, that the blood came out sideways from his neck and that his shirt was clean. She says the witnesses provided a description that never happened.",
+      "claim": "The host says there was never a pooling of blood near Charlie Kirk's heart, that the blood came out sideways and that his shirt was clean. She says the witnesses provided a description that never happened.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10095"
@@ -2511,7 +2510,7 @@
       "@id": "C-4801",
       "ref": "C-4801",
       "label": "Farnsworth took only the SD card and left the camera, contrary to the theft explanation",
-      "claim": "The host alleges that Terryl Farnsworth specifically took the camera's SD card and left the more expensive camera, and rejects Andrew Kolvet's explanation that people were stealing equipment.",
+      "claim": "The host alleges that Terryl Farnsworth specifically took the camera's SD card and left the more expensive camera, and rejects the explanation, as relayed to Andrew Kolvet, that people were stealing equipment.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10162",
@@ -2983,7 +2982,7 @@
       "@id": "C-4824",
       "ref": "C-4824",
       "label": "New witnesses at 4 a.m. the next day said Charlie was shot in the neck",
-      "claim": "The host says new witnesses appeared at 4:00 a.m. the next day saying Charlie Kirk was shot in the neck, which she attributes to a scramble after the plan went wrong.",
+      "claim": "The host says that, in her opinion and \"allegedly,\" Erika Kirk and others \"couldn't scramble fast enough\" and new witnesses the next day at 4:00 a.m. said Charlie Kirk \"got shot in the neck.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10095"
@@ -3046,7 +3045,7 @@
       "@id": "C-4827",
       "ref": "C-4827",
       "label": "Kolvet said on air that Tucker and Charlie had a deep friendship",
-      "claim": "In a Charlie Kirk Show clip recorded after the death, with Blake Neff present according to the host, Andrew Kolvet tells Tucker Carlson that he and Charlie had \"a deep friendship.\" Kolvet recalls Charlie leaving to have dinner whenever Tucker was in town.",
+      "claim": "In a Charlie Kirk Show clip recorded after the death, with Blake Neff present according to the host, Andrew Kolvet tells Tucker Carlson that Tucker and Charlie had \"a deep friendship.\" Kolvet recalls Charlie leaving to have dinner whenever Tucker was in town.",
       "anchored_artifacts": [
         "A-2706.1"
       ],
@@ -3223,7 +3222,7 @@
       "@id": "C-4836",
       "ref": "C-4836",
       "label": "Erika Kirk has never attended any of Tyler Robinson's hearings",
-      "claim": "The host says Erika Kirk has never attended any of Tyler Robinson's hearings, and predicts she will attend the next one in response to public criticism.",
+      "claim": "The host says people have been saying it is weird that Erika Kirk has never been to any of Tyler Robinson's hearings, and bets she will go to the next one because she edits her behavior according to what the public says.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10508"

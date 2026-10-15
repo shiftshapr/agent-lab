@@ -1,0 +1,806 @@
+[
+ {
+  "claim": "C-4627",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4628",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4629",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4630",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Kash Patel; Tyler Robinson (N-40) is not named or referred to in the claim.",
+  "fix": {
+   "mentions": [
+    "N-69",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-4631",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4632",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4633",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4634",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4635",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4636",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4637",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4638",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4639",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4640",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4641",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Loomer appears only in an aside ('This is not Laura Loomer'); the claim does not name or refer to her.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-4642",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4643",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4644",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4645",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4646",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4647",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says only 'Ashley'; 'producer' is not stated.",
+  "fix": {
+   "claim": "The host says Ashley has already reduced the burden of the FOIA request and they hope for a response from the Department of Justice."
+  }
+ },
+ {
+  "claim": "C-4648",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4649",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Erika Kirk is not named in the claim (only in a viewer comment nearby); Charlie Kirk is named but not listed.",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-4650",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4651",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "George Zinn is not named in the claim; the claim names Qureshi and Henderson only.",
+  "fix": {
+   "mentions": [
+    "N-415",
+    "N-411"
+   ]
+  }
+ },
+ {
+  "claim": "C-4652",
+  "episode": 116,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says father was 'one half of the Built organization'; label's 'co-founded' is not said.",
+  "fix": {
+   "label": "Qureshi's Father Was One Half of Built With a Henderson, and Their Sons Shared a House"
+  }
+ },
+ {
+  "claim": "C-4653",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4654",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4655",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Laura Ingraham (N-692) but Mentions omits her. Speaker attribution of the clip is not in this window; cannot verify.",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-2",
+    "N-1",
+    "N-692"
+   ]
+  }
+ },
+ {
+  "claim": "C-4656",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Mikey McCoy and Blake Neff appear only in the preceding sentence; the claim does not name them.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-4657",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie Kirk ('Charlie Kirk's microphone') but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-4658",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4659",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4660",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4661",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4662",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4663",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4664",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4665",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4666",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Jurski' is Druski (confirmed). 'comedian' not said in transcript.",
+  "fix": {
+   "claim": "The host says Erika Kirk publicly forgave Tyler Robinson more quickly than she forgave Druski (\"Jurski\"), at whom she later said she was much angrier.",
+   "names": [
+    {
+     "wrong": "Jurski",
+     "right": "Druski",
+     "source": "https://www.soapcentral.com/entertainment/news-it-feels-wrong-candace-owens-reacts-druski-s-skit-allegedly-impersonating-erika-kirk"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-4667",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4668",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4669",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host hedges: 'that is when it seems the team began to introduce the redundancy'; hedge dropped.",
+  "fix": {
+   "claim": "The host says it seems the wireless Rode mic was added as a redundancy starting with the first campus tour on which she was not featured alongside Charlie Kirk. She says that was also admitted to her by Terryl Farnsworth on the phone."
+  }
+ },
+ {
+  "claim": "C-4670",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4671",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4672",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie Kirk ('Charlie Kirk's audio-visual team') but Mentions omits N-1.",
+  "fix": {
+   "mentions": [
+    "N-262",
+    "N-11",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-4673",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4674",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Sam Parker is not named in the claim; he is introduced after the answer.",
+  "fix": {
+   "mentions": [
+    "N-688",
+    "N-262",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-4675",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Farnsworth appears at 15:26 as 'it looks like Turrell Farnsworth'; Goldsberry is 'behind Frank Turek' at 15:55. Hedge dropped, moments merged.",
+  "fix": {
+   "claim": "In a video by X user Sam Parker, Philip Goldsberry is shown holding the transmitter and lapel magnet behind Frank Turek, and earlier holding the mic in front of someone who looks like Terryl Farnsworth. Parker says the dual charging cases or docking stations show the mic is a Rode Wireless Pro."
+  }
+ },
+ {
+  "claim": "C-4676",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4677",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4678",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4679",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4680",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'We verified it. We have pictures' refers to who Goldsberry's dad is; Ukraine/Romania medical care is broadened.",
+  "fix": {
+   "claim": "The host says the organization, Soter Global Ministries, worked in Ukraine and in Romania, helping provide medical care to orphanages, and that her team verified the father's identity and has pictures."
+  }
+ },
+ {
+  "claim": "C-4681",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4682",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'Auto Buscher' = Col. Otto Busher III (confirmed; Romanian Angels video). Host says 'accused of doing this' about the base.",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Auto Buscher",
+     "right": "Otto Busher",
+     "source": "https://sagehana.substack.com/p/romanian-news-reports-on-the-american"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-4683",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4684",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-4685",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript 'Taylor Boyer' = Tyler Bowyer (N-11; transcription error).",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Taylor Boyer",
+     "right": "Tyler Bowyer",
+     "source": "https://www.sltrib.com/religion/2025/11/24/can-lds-evangelicals-coexist/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-4686",
+  "episode": 117,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Spoken: 'same office, model office, as Jeffrey Epstein. A woman that went down who was very close to Epstein...'; claim reassigns the office to the woman.",
+  "fix": {
+   "claim": "The host says she is hearing from people that Erika Kirk was hanging out at the same modeling office as Jeffrey Epstein. She refers to a woman close to Epstein, through whose firm Eastern European models seem to have been trafficked. This is attributed to unnamed sources."
+  }
+ }
+]

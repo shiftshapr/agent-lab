@@ -1869,7 +1869,6 @@
       "claim_timestamp": "00:04:24",
       "investigative_direction": "Cross-reference timestamps and language across influencer posts to determine whether messaging was coordinated.",
       "mentions_person_refs": [
-        "N-2",
         "N-40"
       ]
     },
@@ -1914,7 +1913,7 @@
       "@id": "C-3003",
       "ref": "C-3003",
       "label": "Lance Twiggs identified Tyler Robinson only by generic clothing items",
-      "claim": "Lance Twiggs testified that he could recognize Robinson only by generic clothing features (jeans, similar shoes, sunglasses, hat), stating he could not be 100% certain from camera quality alone.",
+      "claim": "In a hearing clip the host plays, Lance Twiggs testifies that he would not say with 100% certainty because of camera quality, but that the person looks like Robinson in terms of the shoes, the sunglasses, the jeans and, though he had not specifically seen him in that hat, he was usually wearing a hat.",
       "anchored_artifacts": [
         "A-2118.1"
       ],
@@ -1931,8 +1930,8 @@
       "@type": "Claim",
       "@id": "C-3004",
       "ref": "C-3004",
-      "label": "Lance Twiggs testified Tyler Robinson was not political",
-      "claim": "Lance Twiggs testified that Tyler Robinson was not political, had not discussed Charlie Kirk with him, and engaged with politics primarily via radio during carpool.",
+      "label": "Host Says Lance Twiggs Confirmed Tyler Robinson Was Not Political",
+      "claim": "The host says Lance Twiggs confirmed her report that Tyler Robinson was not political; in the hearing clip she plays, Twiggs testifies that Robinson talked about politics more than he did, usually things he heard on the radio on the drive to work, and that he had never heard Robinson talk about Charlie Kirk specifically.",
       "anchored_artifacts": [
         "A-2118.2"
       ],
@@ -2041,7 +2040,8 @@
       "claim_timestamp": "00:31:06",
       "investigative_direction": "Compare Caitlyn Oliver's testimony against ATF report language and media headlines for accuracy of characterization.",
       "mentions_person_refs": [
-        "N-40"
+        "N-40",
+        "N-776"
       ]
     },
     {
@@ -2058,7 +2058,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:32:07",
-      "investigative_direction": "Obtain the full DNA report to verify contributor counts and threshold interpretations."
+      "investigative_direction": "Obtain the full DNA report to verify contributor counts and threshold interpretations.",
+      "mentions_person_refs": [
+        "N-776"
+      ]
     },
     {
       "@type": "Claim",
@@ -2076,7 +2079,8 @@
       "claim_timestamp": "00:35:20",
       "investigative_direction": "Cross-reference degradation findings with handling/timeline assumptions in the prosecution's theory.",
       "mentions_person_refs": [
-        "N-40"
+        "N-40",
+        "N-776"
       ]
     },
     {
@@ -2093,7 +2097,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:40:31",
-      "investigative_direction": "Cross-reference measured diameter with .30-06 SAAMI specifications and the recovered rifle."
+      "investigative_direction": "Cross-reference measured diameter with .30-06 SAAMI specifications and the recovered rifle.",
+      "mentions_person_refs": [
+        "N-777"
+      ]
     },
     {
       "@type": "Claim",
@@ -2119,7 +2126,7 @@
       "@id": "C-3015",
       "ref": "C-3015",
       "label": "Ben Shapiro's security received live updates during Charlie's transport",
-      "claim": "Ben Shapiro stated on his show that during the approximate 7-minute car ride to the hospital, his security was on the phone with Charlie's security, providing updates while Charlie was still alive in the back of the vehicle.",
+      "claim": "In a clip the host plays, Ben Shapiro says his security was on the phone with Charlie's security while Charlie was still in the back of the car, and they were getting updates along the way; the host describes the ride to the hospital as approximately 7 minutes.",
       "anchored_artifacts": [
         "A-2127.1"
       ],
@@ -2131,9 +2138,7 @@
       "investigative_direction": "Identify the person in Charlie's vehicle who provided the updates; verify against witness accounts of Brian Harpole, Rick Cutler, Frank Turek, Dan Flood, and Justin Davis.",
       "mentions_person_refs": [
         "N-1",
-        "N-97",
-        "N-488",
-        "N-493"
+        "N-97"
       ]
     },
     {
@@ -2159,7 +2164,7 @@
       "@id": "C-3761",
       "ref": "C-3761",
       "label": "Host says Tim Pool and Jeremy Boreing lied about who received live updates from the transport car",
-      "claim": "The host says Tim Pool is lying when he says he did not receive updates from someone in the car about Charlie Kirk's status, and that Jeremy Boreing lied when he suggested her own security was getting those updates; she says she confirmed her security was not on the phone with anyone in the car.",
+      "claim": "The host says Tim Pool is lying through his teeth, that he did not receive updates from somebody in that car about Charlie Kirk's status, and that Jeremy Boreing lied when he tried to pretend that her own security was getting those updates; she says she confirmed her security was not on the phone with anybody in that car.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10712"
@@ -2172,7 +2177,6 @@
         "N-3",
         "N-268",
         "N-367",
-        "N-97",
         "N-1"
       ]
     },
@@ -2216,7 +2220,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-37",
-        "N-40"
+        "N-40",
+        "N-778"
       ]
     },
     {
@@ -2399,7 +2404,7 @@
       "@id": "C-7211",
       "ref": "C-7211",
       "label": "Host Says Mike Mitchell Told the Robinsons They Could Do It the Easy Way or the Hard Way",
-      "claim": "The host says Mike Mitchell, a former undercover detective, family friend and Tyler Robinson's boy scout leader, was told Robinson would be brought in and told the parents to do it the easy way or the hard way, so Robinson agreed to come in willfully without confessing.",
+      "claim": "The host says she maintained that Mike Mitchell, a former undercover detective, family friend and Tyler Robinson's boy scout leader, was the one told Robinson would be brought in, and that he told the parents to do it the easy way or the hard way, so Robinson agreed to come in willfully without confessing.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10022"
@@ -2715,7 +2720,7 @@
       "@id": "C-7225",
       "ref": "C-7225",
       "label": "Host Says the Tyler-Lance Messages Were Not Timestamped",
-      "claim": "The host says the Tyler Robinson and Lance Twiggs messages presented at the hearing are not timestamped, which is why they are problematic.",
+      "claim": "The host says the Tyler Robinson and Lance Twiggs messages presented at the hearing are problematic, and that is why they are not timestamped.",
       "anchored_artifacts": [
         "A-2123.1"
       ],
@@ -2790,7 +2795,7 @@
       "@id": "C-7228",
       "ref": "C-7228",
       "label": "Host Says the Messages Read Like Translation by a Non-Native American English Speaker",
-      "claim": "The host says the text phrasing, including 'if I'm able to grab my rifle unseen,' feels like a person who is not native to American English translating, and later repeats that it reads like someone new to a language being too formal.",
+      "claim": "The host says the text phrasing, including 'if I'm able to grab my rifle unseen,' feels to her like a person who is not native to speaking English, American English, is translating.",
       "anchored_artifacts": [
         "A-2123.1"
       ],
@@ -2852,8 +2857,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-40",
-        "N-37"
+        "N-40"
       ]
     },
     {
@@ -3563,7 +3567,8 @@
       "transcript_snippet": "Justin Davis was driving upwards to 100 miles per hour.",
       "mentions_person_refs": [
         "N-3",
-        "N-493"
+        "N-493",
+        "N-97"
       ]
     },
     {
@@ -3584,7 +3589,8 @@
       "transcript_snippet": "Remember his phone. He just didn't even realize while he was praying out loud. His kids were just left on the phone on FaceTime because that's what he was doing.",
       "mentions_person_refs": [
         "N-3",
-        "N-7"
+        "N-7",
+        "N-97"
       ]
     },
     {
@@ -3645,7 +3651,7 @@
       "@id": "C-7264",
       "ref": "C-7264",
       "label": "Host Describes Shapiro's Security as a Former IDF Team",
-      "claim": "The host asks who on Ben Shapiro's security team, which she describes as Israeli, former IDF, was receiving updates about Charlie's condition and why.",
+      "claim": "The host asks who on Ben Shapiro's IDF, Israeli, Mossad security apparatus team, former IDF, was receiving updates about Charlie's condition and why.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10712"
@@ -3789,7 +3795,7 @@
       "@id": "C-7270",
       "ref": "C-7270",
       "label": "Host Echoes a Comment That Kolvet Is Reviving the Lance Twiggs Angle",
-      "claim": "Reading a viewer comment and saying she saw it too, the host says Andrew Kolvet is reviving the Lance angle, throwing Lance Twiggs to the wolves because support for Tyler Robinson is growing.",
+      "claim": "Reading a viewer comment, the host says Andrew Kolvet is reviving the accomplice angle, likely due to growing support for Tyler Robinson, throwing Lance Twiggs to the wolves; she adds that she saw that too.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10598"
@@ -3811,7 +3817,7 @@
       "@type": "Claim",
       "@id": "C-7271",
       "ref": "C-7271",
-      "label": "Host Says Diligent Dennison Spoke to the Waiter in Penguitch",
+      "label": "Host Says Diligent Dennison Spoke to the Waiter in Panguitch",
       "claim": "The host says Diligent Dennison went and spoke to the waiter in Penguitch and that more was going to come out about it.",
       "anchored_artifacts": [],
       "related_nodes": [

@@ -661,7 +661,7 @@ Investigative Direction: Pull the court filings in the Harvest Christian Fellows
 
 Claim Timestamp: 00:08:44
 
-Claim: The host says Erika Kirk was "hanging around Jeffrey Epstein's orbit of people over at Next Model Management in New York City" and has not explained it.
+Claim: The host says Erika Kirk was "hanging around Jeffrey Epstein's orbit of people over at Next Model Management in New York City" and says she would like to hear an explanation.
 
 Transcript Snippet: Maybe there's a reasonable explanation why she was hanging around Jeffrey Epstein's orbit of people over at Next Model Management in New York City.
 
@@ -676,7 +676,7 @@ Investigative Direction: Verify Erika Kirk's modeling-agency history and Next Mo
 
 Claim Timestamp: 00:11:56
 
-Claim: The host alleges that Erika Kirk personally phoned priests, bishops and attendees in March, telling them not to attend the Catholics for Catholics prayer event where the host spoke.
+Claim: The host alleges that Erika Kirk personally phoned priests, bishops and attendees, telling them not to attend the Catholics for Catholics prayer event the host held in March, where the host spoke.
 
 Transcript Snippet: it was her who personally made phone calls to people telling them not to attend the Catholic for Catholics event that I did back in March.
 
@@ -691,7 +691,7 @@ Investigative Direction: Interview clergy and invitees of the March 2026 Catholi
 
 Claim Timestamp: 00:13:20
 
-Claim: The host alleges Erika Kirk directed Andrew Kolvet to misstate Charlie Kirk's attendance at the Catholic Church by saying he "just likes the architecture."
+Claim: The host alleges Erika Kirk directed Andrew Kolvet to lie about Charlie Kirk's attendance at the Catholic Church, saying he "just likes the architecture."
 
 Transcript Snippet: it was her who directed Andrew Kolvet to lie about Charlie's attendance at the Catholic Church. He just likes the architecture.
 
@@ -781,7 +781,7 @@ Investigative Direction: Obtain the emails with headers and timestamps and any T
 
 Claim Timestamp: 00:16:45
 
-Claim: The host says Blake Neff and Graham Allen, who have spoken on the video, do not work for Turning Point USA.
+Claim: The host says Blake Neff and Graham Allen do not work for Turning Point USA, and that TPUSA keeps sending out its "soldiers" instead of Erika Kirk, Andrew Kolvet or Justin Streiff clarifying the video.
 
 Transcript Snippet: And to be clear, Blake Neff does not work for Turning Point USA. Graham Allen does not work for Turning Point USA.
 
@@ -982,7 +982,7 @@ Claim: The host says Ivanka Trump discussed her plans for Sazan Island ("Saison 
 Transcript Snippet: discussing her plans for Saison Island, which is off the coast of Albania. Uh, it's actually Albania's largest island.
 
 Anchored Artifacts: A-2632.1
-Mentions: N-662, N-179
+Mentions: N-662, N-665
 Related Nodes: N-10955
 Investigative Direction: Confirm the island's identity and size from Albanian land records and the Affinity Partners project filings.
 
@@ -1172,9 +1172,9 @@ Investigative Direction: Obtain the full US Weekly email and compare with the pu
 
 Claim Timestamp: 00:43:36
 
-Claim: The host says the story quotes Erika Kirk's friends Tracy Martin and James Kaddis, who she says runs the TPUSA faith department, and calls her demonic.
+Claim: The host says the story quotes Erika Kirk's friends Tracy Martin and James Kaddis, who she says runs the TPUSA faith department, and that it attacks the host and calls her demonic.
 
-Transcript Snippet: Tracy Martin, James Catis, who runs the faith department, the most despicable department at Turning Point USA.
+Transcript Snippet: Tracy Martin, James Kaddis, who runs the faith department, the most despicable department at Turning Point USA.
 
 Anchored Artifacts: A-2635.1
 Mentions: N-546, N-668
@@ -1217,7 +1217,7 @@ Investigative Direction: Review the host's message history with Charlie Kirk aga
 
 Claim Timestamp: 00:44:57
 
-Claim: The host alleges the piece is written under a fake byline, "Paul Leva", and that outlets publish under non-existent journalists when no one wants to put their name to a piece.
+Claim: The host alleges the piece is a hit piece written by a non-existent journalist under a fake name "like Paul Leva", and that outlets publish under such sock-puppet bylines when no one wants to put their name to a piece.
 
 Transcript Snippet: So, it's like a a fake name like Paul Leva. Um, and they're not real people, but they keep publishing under these people as if they are real people.
 

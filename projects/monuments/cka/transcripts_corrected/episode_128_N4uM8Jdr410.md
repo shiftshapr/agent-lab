@@ -180,7 +180,7 @@ But that the assassination took place in Mormon territory makes it curious. Curi
 
 [30:22]
 
-Let's start with Frank Cheric versus Frank Cheric cuz that's my favorite UFC matchup. Like Frank gets so mad at the previous Frank. Later Frank, previous Frank. They are not friends. And when he when the current Frank catches the previous Frank acting up, oh no, he exercises no humility. He gets caught tongue, different story, and then he kind of looks at us and goes, "It's your fault for even noticing this." Well, apparently he did this podcast that I missed responding to all of Candace's conspiracies, but oddly sort of just concedes every point that I told the truth, but it's still my fault anyways. It's really weird. Like, me noticing the discrepancies is the problem. He doesn't deny that there are discrepancies, basically wants you to understand that those discrepancies are not important.
+Let's start with Frank Turek versus Frank Turek cuz that's my favorite UFC matchup. Like Frank gets so mad at the previous Frank. Later Frank, previous Frank. They are not friends. And when he when the current Frank catches the previous Frank acting up, oh no, he exercises no humility. He gets caught tongue, different story, and then he kind of looks at us and goes, "It's your fault for even noticing this." Well, apparently he did this podcast that I missed responding to all of Candace's conspiracies, but oddly sort of just concedes every point that I told the truth, but it's still my fault anyways. It's really weird. Like, me noticing the discrepancies is the problem. He doesn't deny that there are discrepancies, basically wants you to understand that those discrepancies are not important.
 
 [31:07]
 

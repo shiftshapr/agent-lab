@@ -45,9 +45,9 @@
 
 # II. Executive Summary
 
-Episode 126 centers on three evidentiary threads. First, the courtroom testimony of Sergeant Jennifer Filomena (UVU Department of Public Safety) regarding unattended items found near the Folsom/Fulton Library bus stop and her reported instruction to FBI/ATF labs to discontinue testing. Second, an audio-recorded interview (dated September 25) with the anonymous eyewitness who filmed the rooftop person and filed a report with the UVU command center shortly after the shot. Third, a NewsNation interview with Helen Comperatore, widow of Corey Comperatore (the only fatality at the 2024 Butler, PA shooting), who publicly asserts the Butler event was an "inside job."
+Episode 126 centers on three evidentiary threads. First, the courtroom testimony of Sergeant Jennifer Faumuina (UVU Department of Public Safety) regarding unattended items found near the Folsom/Fulton Library bus stop and her reported instruction to FBI/ATF labs to discontinue testing. Second, an audio-recorded interview (dated September 25) with the anonymous eyewitness who filmed the rooftop person and filed a report with the UVU command center shortly after the shot. Third, a NewsNation interview with Helen Comperatore, widow of Corey Comperatore (the only fatality at the 2024 Butler, PA shooting), who publicly asserts the Butler event was an "inside job."
 
-Secondary artifacts include a Megyn Kelly interview segment with Charlie Kirk's assistant Nate Walker regarding the "freedom shirt," a 911 call referencing a person on a building near the library, a 2011 Christian Post article on Dr. Frank Turek's Bank of America consultancy, and a Time magazine article on the Brad Parscale / Clock Tower X Israeli influence campaign. The episode's structural importance lies in introducing new testimonial artifacts (Filomena, Helen Comperatore) and a previously-unreleased witness recording that directly contests elements of the federal narrative.
+Secondary artifacts include a Megyn Kelly interview segment with Charlie Kirk's assistant Nate Walker regarding the "freedom shirt," a 911 call referencing a person on a building near the library, a 2011 Christian Post article on Dr. Frank Turek's Bank of America consultancy, and a Time magazine article on the Brad Parscale / Clock Tower X Israeli influence campaign. The episode's structural importance lies in introducing new testimonial artifacts (Faumuina, Helen Comperatore) and a previously-unreleased witness recording that directly contests elements of the federal narrative.
 
 ---
 
@@ -67,9 +67,9 @@ Confidence Level: High
 
 ---
 
-**A-2139** Tyler Robinson Hearing – Sergeant Jennifer Filomena Testimony
+**A-2139** Tyler Robinson Hearing – Sergeant Jennifer Faumuina Testimony
 
-**A-2139.1** Filomena Testimony on Unattended Items at Folsom Library Bus Stop
+**A-2139.1** Faumuina Testimony on Unattended Items at Folsom Library Bus Stop
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -79,7 +79,7 @@ Confidence Level: High
 
 *Related: C-3027, N-10717, N-10718, N-506*
 
-**A-2139.2** Filomena Testimony on Communication to FBI/ATF Discontinuing Testing
+**A-2139.2** Faumuina Testimony on Communication to FBI/ATF Discontinuing Testing
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -339,7 +339,7 @@ Confidence Level: High
 
 **N-506** Jennifer Faumuina
 
-First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Filomena, Jennifer Felomina, Jennifer Faumuina.
+First named by the host at 00:08:30 in episode 126. Aliases: Jennifer Faumuina, Jennifer Faumuina, Jennifer Faumuina.
 
 *Related: C-3027, C-3028, A-2139.1, A-2139.2*
 
@@ -895,7 +895,7 @@ Company the host says Time reports Brad Parscale owned or part owned, which she 
 
 Claim Timestamp: 00:08:30
 
-Claim: Sergeant Filomena testified that officers canvassing the scene seized unattended items – including a backpack, jacket, and gloves – near the Folsom (Fulton) Library bus stop.
+Claim: Sergeant Faumuina testified that officers canvassing the scene seized unattended items – including a backpack, jacket, and gloves – near the Folsom (Fulton) Library bus stop.
 
 Anchored Artifacts: A-2139.1
 Mentions: N-506
@@ -904,11 +904,11 @@ Investigative Direction: Obtain hearing transcript or video exhibits to verify i
 
 ---
 
-**C-3028** Clip Shows Sergeant Filomena Acknowledging UVU Communicated Discontinuation of Testing to FBI
+**C-3028** Clip Shows Sergeant Faumuina Acknowledging UVU Communicated Discontinuation of Testing to FBI
 
 Claim Timestamp: 00:09:25
 
-Claim: In a hearing clip the host plays, Sergeant Filomena acknowledges that items were sent to the FBI lab and that UVU eventually communicated to the lab that the items were not connected to the case and required no further testing.
+Claim: In a hearing clip the host plays, Sergeant Faumuina agrees that the seized items were sent to the FBI lab, and when asked whether she eventually told the lab the items were not connected to the case and needed no further testing, says she does not remember communicating that.
 
 Anchored Artifacts: A-2139.2
 Mentions: N-506
@@ -919,7 +919,7 @@ Investigative Direction: Obtain FBI/ATF lab correspondence and UVU communication
 
 **C-3029** Anonymous Eyewitness Says Rooftop Person Used Tactical Movement Pattern
 
-Claim Timestamp: 00:16:09
+Claim Timestamp: 00:17:10
 
 Claim: In a September 25 recording the host plays, the anonymous eyewitness says the rooftop person executed a tactical movement pattern (rising and lowering in roughly 6-foot increments) over approximately 30 seconds before assuming the prone shooting position.
 
@@ -945,7 +945,7 @@ Investigative Direction: Cross-reference with police scanner descriptions and th
 
 Claim Timestamp: 00:19:53
 
-Claim: The eyewitness described the rooftop person's rifle as looking smaller than a .30-06 (and specifically as appearing to be a .223), contradicting the recovered Mauser per the witness.
+Claim: In a recording the host plays, the eyewitness says the rooftop person's rifle looked smaller than the recovered Mauser; the host adds that he told her it looked like a .223 and smaller than a .30-06.
 
 Anchored Artifacts: A-2140.2
 Related Nodes:
@@ -957,7 +957,7 @@ Investigative Direction: Cross-reference with recovered weapon evidence and any 
 
 Claim Timestamp: 00:22:01
 
-Claim: A 911 caller reported a person on the building on the far north side, just east of the library, wearing jeans, black shirt, black vest, and a black mask, carrying a long rifle.
+Claim: In a 911 call the host plays, a voice reports a person on top of a building on the far north side, just east of the library, wearing jeans, a black shirt and a black vest; a second voice repeats it, adding a black mask and a long rifle.
 
 Anchored Artifacts: A-2141.1
 Related Nodes: N-10717
@@ -969,7 +969,7 @@ Investigative Direction: Obtain full 911 transcript and dispatch records for the
 
 Claim Timestamp: 00:19:08
 
-Claim: Host states that initial police scanner traffic described a person in a face mask and tactical gear, contrasting with subsequent federal narrative claims of jeans-only attire.
+Claim: The host says that initial police scanner traffic described a person in a face mask and tactical gear, contrasting with the federal narrative that, she says, now has him wearing jeans or something.
 
 Anchored Artifacts: (verbally referenced police scanner; not displayed as audio artifact in episode)
 Related Nodes: N-10717
@@ -983,7 +983,7 @@ Investigative Direction: Obtain police scanner audio archive and CAD logs from S
 
 Claim Timestamp: 00:14:25
 
-Claim: The eyewitness was contacted by federal authorities only once, a few days after the incident, and has never been called as a prosecution witness despite being willing to testify.
+Claim: The host says the eyewitness was contacted by federal authorities only once, a few days after the incident, and has never been called by the prosecution despite being willing to testify.
 
 Anchored Artifacts: A-2140.3
 Related Nodes: N-10719
@@ -995,7 +995,7 @@ Investigative Direction: Obtain prosecution witness list for Tyler Robinson tria
 
 Claim Timestamp: 00:07:20
 
-Claim: Per Christian Post article (2011), Dr. Frank Turek was a consultant to Bank of America for approximately 15 years conducting leadership and team-building programs until being fired in 2011.
+Claim: Per the Christian Post article (2011) the host reads, Dr. Frank Turek did work on and off for Bank of America for about 15 years, mainly conducting leadership and team-building programs, until being dropped in 2011.
 
 Anchored Artifacts: A-2142.1
 Mentions: N-7
@@ -1026,6 +1026,7 @@ Claim Timestamp: 00:29:15
 Claim: Helen Comperatore stated on NewsNation that she believes the Butler shooter Thomas Crooks was working with someone inside the government, describing it as "an inside job."
 
 Anchored Artifacts: A-2143.1
+Mentions: N-821, N-104
 Related Nodes: N-10721, N-10724
 Investigative Direction: Obtain full NewsNation interview; identify any specific evidence references Comperatore cited ("I've been told things").
 
@@ -1033,11 +1034,12 @@ Investigative Direction: Obtain full NewsNation interview; identify any specific
 
 **C-3038** Comperatore: Secret Service Did Not Reach Out for a Year
 
-Claim Timestamp: 00:31:50
+Claim Timestamp: 00:30:55
 
-Claim: Per host reporting on NewsNation interview, Helen Comperatore stated that Secret Service did not contact her until a year after the Butler incident and did not fully answer her questions.
+Claim: In a NewsNation clip the host plays, a reporter says Helen Comperatore says the Secret Service did not reach out to her until a year later and did not fully answer her questions.
 
 Anchored Artifacts: A-2143.2
+Mentions: N-821
 Related Nodes: N-10724
 Investigative Direction: Obtain NewsNation transcript and verify Secret Service contact timeline with the Comperatore family.
 
@@ -1047,7 +1049,7 @@ Investigative Direction: Obtain NewsNation transcript and verify Secret Service 
 
 Claim Timestamp: 00:34:37
 
-Claim: Time magazine reported that the Brad Parscale / Clock Tower X digital influence campaign on behalf of the Israeli foreign ministry backfired and failed to achieve its intended impact.
+Claim: The host says Time published an article about the Israeli foreign ministry's digital campaign run through Brad Parscale's firm Clock Tower X, and says it seems to have backfired.
 
 Anchored Artifacts: A-2144.1
 Mentions: N-431
@@ -1194,11 +1196,11 @@ Investigative Direction: Verify the article text for the hiring month, the divis
 
 ---
 
-**C-8939** Filomena Does Not Recall Whether Nine Items Were Seized and Agrees Items Went to FBI Lab
+**C-8939** Faumuina Does Not Recall Whether Nine Items Were Seized and Agrees Items Went to FBI Lab
 
 Claim Timestamp: 00:10:12
 
-Claim: Asked whether the seized items numbered nine, Sergeant Filomena said she did not remember, and she agreed that whatever was seized was sent to the FBI lab.
+Claim: Asked whether the seized items numbered nine, Sergeant Faumuina said she did not remember, and she agreed that whatever was seized was sent to the FBI lab.
 
 Transcript Snippet: Does that ring a bell? >> I don't remember. >> Uh those whatever was seized was sent to the FBI lab for processing. >> Yes.
 
@@ -1210,11 +1212,11 @@ Investigative Direction: Obtain the hearing transcript and the evidence item log
 
 ---
 
-**C-8940** Filomena Agrees DNA and Other Analysis Was Requested on the Items
+**C-8940** Faumuina Agrees DNA and Other Analysis Was Requested on the Items
 
 Claim Timestamp: 00:10:12
 
-Claim: In a hearing clip the host plays, Sergeant Filomena agrees with the questioner that she was requesting both DNA and other types of analysis on the seized items.
+Claim: In a hearing clip the host plays, Sergeant Faumuina agrees with the questioner that she was requesting both DNA and other types of analysis on the seized items.
 
 Transcript Snippet: Was a decision at some time made and and you were requesting that both DNA and other type of analysis get done? >> Yes.
 
@@ -1226,11 +1228,11 @@ Investigative Direction: Obtain the FBI lab request forms and chain-of-custody s
 
 ---
 
-**C-8941** Filomena Says She Does Not Remember Telling the Lab to Stop but Finds It Consistent With FBI/ATF Notes
+**C-8941** Faumuina Says She Does Not Remember Telling the Lab to Stop but Finds It Consistent With FBI/ATF Notes
 
 Claim Timestamp: 00:10:59
 
-Claim: Sergeant Filomena said 'I don't remember communicating that' when asked whether she told the lab the items were unconnected, then said it would not be inconsistent with what she knows if the FBI or ATF notes recorded it, and agreed it would be fair to say the items were determined unrelated.
+Claim: Sergeant Faumuina said 'I don't remember communicating that' when asked whether she told the lab the items were unconnected, then said it would not be inconsistent with what she knows if the FBI or ATF notes recorded it, and agreed it would be fair to say the items were determined unrelated.
 
 Transcript Snippet: >> I don't remember communicating that. >> Okay. If that's in the notes of the FBI or the ATF, would that be inconsistent with what you know? >> Uh no.
 
@@ -1252,7 +1254,7 @@ Claim: The host says that the questioner had established the person who jumped o
 Transcript Snippet: Just so you guys know, the library is not near Loews Center.
 
 Anchored Artifacts: A-2139.1
-Mentions: N-506
+Mentions: N-3
 Related Nodes: N-10717
 Tags: relevance:core
 Investigative Direction: Measure the walking distance from the Losee Center to the library bus stops and obtain the hearing testimony that set the route.
@@ -1483,7 +1485,7 @@ Investigative Direction: Measure the distance from the witness's vantage locatio
 
 Claim Timestamp: 00:19:08
 
-Claim: The witness says that about an hour after the shot he went back inside the perimeter, ran to the command center, showed his video and told officers they had the wrong guy (George Zenn).
+Claim: The witness says that about an hour after the shot he went back inside the perimeter, ran to the command center, showed his video and told officers they had the wrong guy (George Zinn).
 
 Transcript Snippet: I went back inside the perimeter and I ran to the command center and I showed them my video. I said, "You guys have the wrong guy.
 
@@ -1526,11 +1528,11 @@ Investigative Direction: Compare the video exhibit's running time shown in court
 
 ---
 
-**C-8960** Host Says Filomena Identified the Losee-to-Library Route as the Shooter's Route
+**C-8960** Host Says Faumuina Identified the Losee-to-Library Route as the Shooter's Route
 
 Claim Timestamp: 00:20:43
 
-Claim: The host says that Sergeant Filomena made clear the route from the Losee Center to the library was the route the shooter took and that this is why the items were recovered.
+Claim: The host says that Sergeant Faumuina made clear the route from the Losee Center to the library was the route the shooter took and that this is why the items were recovered.
 
 Transcript Snippet: in terms of that route, going the Losee Center over to the library, which she makes very clear that's the route that the uh the shooter took.
 
@@ -1561,7 +1563,7 @@ Investigative Direction: Request UVU and Utah County 911 and CAD records for the
 
 Claim Timestamp: 00:22:52
 
-Claim: In the played 911 audio, a dispatcher says gunshots were heard near the library at UVU, that they are trying to lock the library down, and that another report of shots fired at the UVU library had just come in.
+Claim: In the played 911 audio, a speaker says gunshots were heard near the library at UVU and that they are trying to lock the library down, and another voice says the dispatcher is saying they just got another report of shots fired at the UVU library.
 
 Transcript Snippet: Gunshots heard near the library at UVU. They're trying to lock the library down now. So, gather >> She's saying they just got another report of shots fired at the UVU library.
 
@@ -1592,7 +1594,7 @@ Investigative Direction: Locate the hearing testimony on the .223 round, its rec
 
 Claim Timestamp: 00:26:40
 
-Claim: The host says that when officers were asked why they did not act on the unfired .223 round, they gave a ridiculous answer, including words to the effect of 'I should have pulled that'.
+Claim: The host says that when officers were asked why they did not act on the unfired .223 round, they gave a ridiculous answer, and she adds 'I should have pulled that'.
 
 Transcript Snippet: And when they were questioned about why they didn't really do anything about that they were they gave a ridiculous answer and that is correct. I should have pulled that.
 
@@ -1613,7 +1615,7 @@ Claim: The host says that when she revisited the Butler assassination she specul
 Transcript Snippet: We revisit the Butler assassination and speculated that Corey Comparetor, the only person who lost his life on that day may have even been targeted.
 
 Anchored Artifacts: 
-Mentions: N-3
+Mentions: N-3, N-105
 Related Nodes: N-10588, N-10724
 Tags: relevance:context
 Investigative Direction: Locate the earlier episode where the host raised this and the evidence she cited, then check against the Butler investigation reports.
@@ -1788,7 +1790,7 @@ Investigative Direction: Read the FARA registration statement and contract for C
 
 Claim Timestamp: 00:34:37
 
-Claim: The host says the Time article names Eyal Yakoby, whom she says she blocked long ago as an obvious paid account, and describes his posting as about 300 posts a day.
+Claim: The host says the Time article names Eyal Yakoby, whom she says she blocked long ago because it was obvious he was a paid stooge, and she says he posted about 300 times a day.
 
 Transcript Snippet: Eyal Yakoby, I blocked him so long ago. It was so obvious that he was a paid stooge. Every single post, like a 300 posts a day.
 
@@ -2095,11 +2097,11 @@ Investigative Direction: Identify the original program and date of the Neff clip
 
 ---
 
-**C-8995** Viewer Comment Says No Carhartt Store Stocked the Freedom Shirt, So It Was Custom
+**C-8995** Viewer Comment Says Freedom Shirt Was Not at Detroit Carhartt Store, Likely Custom
 
 Claim Timestamp: 00:47:13
 
-Claim: A viewer, read on air, says Carhartt is a Michigan company, that they visited the Carhartt store in Detroit around Christmas and did not see the freedom shirt, so it was custom.
+Claim: A viewer, read on air, says Carhartt is a Michigan company, that they visited the Carhartt store in Detroit around Christmas and did not see the freedom shirt, and that it is safe to say it was custom.
 
 Transcript Snippet: Carhartt is a Michigan company. I have plenty of their shirts and was at the Carhartt store in Detroit in around Christmas. I did not see the freedom shirt. Safe to say it was custom.
 
@@ -2176,7 +2178,7 @@ Investigative Direction: Compare Zinn's arrest photos with the described rooftop
 
 Claim Timestamp: 00:51:27
 
-Claim: The host says the Panguitch Steakhouse matter is going to throw the timeline for a loop and that there are receipts.
+Claim: The host says the Panguitch Steakhouse matter is going to throw things for a loop and that there are receipts.
 
 Transcript Snippet: It's going to be that Panguitch Steakhouse thing that's going to throw things for a loop, and there are receipts.
 
@@ -2228,7 +2230,7 @@ Claim: The host says the only other person on the line could be the driver, goin
 Transcript Snippet: the only other person could be the driver. Going 100 miles per an hour. Updating Ben's security on a 7-minute journey.
 
 Anchored Artifacts: A-2976.4
-Mentions: N-3, N-267, N-97
+Mentions: N-3, N-97
 Related Nodes: N-10712
 Tags: relevance:core
 Investigative Direction: Obtain vehicle telematics or driver identification for the 9/10 drive and the security contact log; the 'Ben' referent is unclear in the transcript.
@@ -2255,7 +2257,7 @@ Investigative Direction: Ask Army doctrine experts to review the witness's descr
 
 Claim Timestamp: 00:53:50
 
-Claim: The host says that at the very end of the fifth day of the hearing the influencers were shown the footage, in 4K HD, where everyone could see it.
+Claim: The host says that, in the narrative she is supposed to accept that it was Tyler Robinson, everyone could see it in 4K HD and the influencers were shown it at the very end of the fifth day of the hearing.
 
 Transcript Snippet: and everyone could see it in 4K HD at the very end of the fifth day of the hearing, the influencers were shown it.
 
@@ -2332,8 +2334,8 @@ Confidence: high
 Video Timestamp: 00:08:30
 Speaker: N-3
 Quote: she's going to suffer from a little bit of amnesia
-Context: Host introduces Sergeant Filomena's testimony.
-Tags: amnesia, Filomena
+Context: Host introduces Sergeant Faumuina's testimony.
+Tags: amnesia, Faumuina
 Confidence: high
 
 ### Occurrence 4

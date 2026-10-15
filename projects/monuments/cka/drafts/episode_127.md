@@ -22,7 +22,7 @@
 
 ## 2. Executive Summary
 
-Episode 127 advances the Bride of Charlie series' preliminary-hearing record by presenting six discrete evidentiary exhibits drawn from on-air testimony and recorded interviews. The most structurally significant artifacts are the read-aloud exchanges from Officer Bagley's preliminary hearing (body-cam termination and unidentified rooftop companion), the email from a credentialed Axon Body Cam 4 operator disputing the body-cam battery explanation, the joint testimony of Sergeant Jennifer Felomina (Utah Bureau of Investigations) and FBI agent Amanda Baker concerning the abandoned backpack/jacket/gloves that were located on the suspect's route and then removed from FBI testing, the recorded Frank Turek FaceTime interview in which he visibly shifts his stated endpoint from "hotel" to "hospital," and a played excerpt of Dan Bongino on Megyn Kelly (Sept 15, 2025) describing the screwdriver rooftop footage as grainy.
+Episode 127 advances the Bride of Charlie series' preliminary-hearing record by presenting six discrete evidentiary exhibits drawn from on-air testimony and recorded interviews. The most structurally significant artifacts are the read-aloud exchanges from Officer Bagley's preliminary hearing (body-cam termination and unidentified rooftop companion), the email from a credentialed Axon Body Cam 4 operator disputing the body-cam battery explanation, the joint testimony of Sergeant Jennifer Faumuina (Utah Bureau of Investigations) and FBI agent Amanda Baker concerning the abandoned backpack/jacket/gloves that were located on the suspect's route and then removed from FBI testing, the recorded Frank Turek FaceTime interview in which he visibly shifts his stated endpoint from "hotel" to "hospital," and a played excerpt of Dan Bongino on Megyn Kelly (Sept 15, 2025) describing the screwdriver rooftop footage as grainy.
 
 The episode's investigative contributions are concentrated in three structural questions: (1) who was on the Losee Center rooftop between 12:23 and 12:44 and how that person's badge was verified; (2) the chain of communication by which a backpack found along the shooter route was reclassified as "Kirk's detail" without testing; and (3) the inconsistencies in Frank Turek's account of his FaceTime call during the incident. A separate tip from a verified Timpanogos Regional Hospital source advances the hospital-pre-notification question. No new evidentiary artifacts are introduced in the comments section; that material is non-investigative.
 
@@ -188,7 +188,7 @@ Confidence Level: High (content displayed/read on air)
 
 ---
 
-**A-2148** Sergeant Jennifer Felomina Preliminary Hearing Testimony Bundle
+**A-2148** Sergeant Jennifer Faumuina Preliminary Hearing Testimony Bundle
 
 **A-2148.1** Backpack / jacket / gloves discovery at Fulton Library bus stop
 
@@ -617,7 +617,7 @@ Named by the host in re-examining her PragerU contacts.
 
 **N-331** Baron Coleman
 
-Flagged the Felomina and Baker segment to the host.
+Flagged the Faumuina and Baker segment to the host.
 
 *Related: C-7281*
 
@@ -641,7 +641,7 @@ Named in a viewer comment on Sound of Freedom.
 
 **N-506** Jennifer Faumuina
 
-Sergeant Jennifer Felomina of the Utah Bureau of Investigations.
+Sergeant Jennifer Faumuina of the Utah Bureau of Investigations.
 
 *Related: C-7292, C-7293, C-7294, C-7295, C-7296*
 
@@ -681,7 +681,7 @@ Organization; Blake Neff's employer and subject of the Meckler proposal.
 
 **N-10012** Utah Valley University
 
-Host's correction concerns whether Felomina is UVU police.
+Host's correction concerns whether Faumuina is UVU police.
 
 *Related: C-7292*
 
@@ -914,11 +914,11 @@ The host's claims about the military postings of Frank Turek's sons and family, 
 
 ## 5. Claim Register
 
-**C-3042** Officer Bagley testified body-cam terminated while on rooftop at 12:44 p.m.
+**C-3042** Officer Bagley Testified Body-Cam Footage Ended While on Rooftop
 
 Claim Timestamp: 00:05:36–00:06:28
 
-Claim: Officer Bagley testified that his Axon body-cam footage ended at 12:44 p.m. while he was still on the Losee Center roof, lasting 27 minutes and 35 seconds, and he stated the battery simply "went dead."
+Claim: Officer Bagley testified that his Axon body-cam footage, which the examiner described as 27 minutes and 35 seconds long, ended while he was still on the Losee Center roof, and said "I think his battery went dead."
 
 Anchored Artifacts: A-2146.1
 Mentions: N-507
@@ -933,7 +933,7 @@ Investigative Direction: Obtain full Axon Body Cam 4 battery-log metadata for Ba
 
 Claim Timestamp: 00:09:06–00:10:43
 
-Claim: Officer Bagley testified that he was accompanied on the Losee Center rooftop by an unidentified individual in plain clothes with a badge and a handgun, whose agency he did not know and did not verify.
+Claim: Officer Bagley testified that he was accompanied on the Losee Center rooftop by an unidentified individual in civilian clothing who had a badge and a handgun, and whose agency he did not know.
 
 Anchored Artifacts: A-2146.2
 Mentions: N-507
@@ -948,7 +948,7 @@ Investigative Direction: Identify the badge-holder from rooftop footage, radio t
 
 Claim Timestamp: 00:10:05–00:11:27
 
-Claim: Officer Bagley testified that he did not review the body-cam or surveillance footage between the time the suspect jumped from the roof and his arrival to determine whether anyone else had been on the rooftop in that window.
+Claim: Officer Bagley testified that he did not notice anyone else on the roof, and, as the examiner put it and the host says he answered "No," he did not review the video for anyone on the rooftop between the suspect's jump and his arrival.
 
 Anchored Artifacts: A-2146.2
 Mentions: N-507
@@ -963,7 +963,7 @@ Investigative Direction: Locate the 20-minute footage gap referenced and obtain 
 
 Claim Timestamp: 00:06:28–00:08:12
 
-Claim: An email from a police officer using the same Axon Body Cam 4 model states that battery life is approximately 14 hours, that cameras are docked at end of shift on a shared dock that uploads data to the server, and that a mid-shift battery death while docked is implausible.
+Claim: An email from a police officer using the same Axon Body Cam 4 model states that the camera battery lasts approximately 14 hours, that cameras are docked at the end of every shift on a shared dock that uploads the data and videos to the server, and that it bothered him that the officer claimed his camera died on the rooftop.
 
 Anchored Artifacts: A-2147.1
 
@@ -973,28 +973,29 @@ Investigative Direction: Identify the email author (host has protected identity)
 
 ---
 
-**C-3046** Sergeant Felomina testified backpack, jacket, and gloves were found at Fulton Library bus stop on shooter's route
+**C-3046** Sergeant Faumuina testified backpack, jacket, and gloves were found at Fulton Library bus stop on shooter's route
 
 Claim Timestamp: 00:15:19–00:16:23
 
-Claim: Sergeant Jennifer Felomina of the Utah Bureau of Investigations testified that officers canvassing the scene found unattended items – a backpack, jacket, and gloves – at the Fulton Library bus stop, which was determined to be on the shooter's route.
+Claim: Sergeant Jennifer Faumuina of the Utah Bureau of Investigations testified that officers canvassing the scene, including the shooter's route, found unattended items at the Fulton Library bus stops, and that a backpack, jacket and gloves were seized.
 
 Anchored Artifacts: A-2148.1
 Mentions: N-506
 
 Related Nodes: N-10727
 
-Investigative Direction: Obtain Felomina's September 22, 2025 crime-scene overview report and the seizure item numbers she could not recall.
+Investigative Direction: Obtain Faumuina's September 22, 2025 crime-scene overview report and the seizure item numbers she could not recall.
 
 ---
 
-**C-3047** Sergeant Felomina testified items were sent to FBI lab for DNA processing
+**C-3047** Sergeant Faumuina testified items were sent to FBI lab for DNA processing
 
 Claim Timestamp: 00:16:23–00:17:06
 
-Claim: Sergeant Felomina testified that the seized items were sent to the FBI lab for DNA and other analysis, along with information that the suspect may have shed items as he fled.
+Claim: Sergeant Faumuina testified that the seized items were sent to the FBI lab for DNA and other analysis, along with information that the suspect may have shed items as he fled.
 
 Anchored Artifacts: A-2148.1, A-2148.2
+Mentions: N-506
 
 Related Nodes: N-10727
 
@@ -1002,17 +1003,18 @@ Investigative Direction: Obtain the FBI lab intake documentation for these items
 
 ---
 
-**C-3048** Sergeant Felomina testified that testing was halted without her direct communication of the decision
+**C-3048** Sergeant Faumuina testified that testing was halted without her direct communication of the decision
 
 Claim Timestamp: 00:17:06–00:17:53
 
-Claim: Sergeant Felomina testified that a decision was made to halt further testing of the items on the basis they were not probative, that this determination was reflected in FBI/ATF notes, and that she did not recall personally communicating that conclusion.
+Claim: Sergeant Faumuina testified that when the items were already sent investigators had no more information on whether they were probative, that she did not remember communicating to the lab that no further testing was needed, and that it would not be inconsistent with what she knew if FBI or ATF notes said so.
 
 Anchored Artifacts: A-2148.2
+Mentions: N-506
 
 Related Nodes: N-10727
 
-Investigative Direction: Compare FBI/ATF lab notes to Felomina's communication log and identify the party that actually conveyed the "not probative" determination.
+Investigative Direction: Compare FBI/ATF lab notes to Faumuina's communication log and identify the party that actually conveyed the "not probative" determination.
 
 ---
 
@@ -1023,6 +1025,7 @@ Claim Timestamp: 00:19:25–00:20:30
 Claim: FBI agent Amanda Baker testified that the backpack (exhibit 9) was determined to be "potentially left behind by a bystander" and that no DNA comparisons were needed at that time.
 
 Anchored Artifacts: A-2149.1
+Mentions: N-779
 
 Related Nodes: N-10727
 
@@ -1037,6 +1040,7 @@ Claim Timestamp: 00:20:30–00:21:15
 Claim: FBI agent Amanda Baker testified, when confronted with lab notes stating the backpack "belongs to Kirk's detailees," that this language was not from her communication log and that it was information another individual within the laboratory received.
 
 Anchored Artifacts: A-2149.2
+Mentions: N-779, N-1
 
 Related Nodes: N-10727
 
@@ -1048,9 +1052,10 @@ Investigative Direction: Identify the lab employee who authored/added the "Kirk'
 
 Claim Timestamp: 00:20:30–00:24:14
 
-Claim: Host concurs with the implicit inconsistency between Felomina's lack of memory of conveying the "not probative" decision and Baker's testimony that a lab employee authored the "Kirk's detail" note, characterizing this chain as requiring identification and as a basis on which testing should have proceeded.
+Claim: The host says Sergeant Faumuina does not remember communicating the "not probative" decision and that Baker says someone else in the lab added the "Kirk's detail" note, asks who that person is, and says the items should have been tested.
 
 Anchored Artifacts: A-2148.2, A-2149.2
+Mentions: N-3, N-506, N-779
 
 Related Nodes: N-10727
 
@@ -1073,11 +1078,11 @@ Investigative Direction: Obtain call-detail records (timestamps, duration, devic
 
 ---
 
-**C-3053** Frank Turek gave inconsistent accounts of where the FaceTime call ended
+**C-3053** Frank Turek Corrects Himself From Hotel to Hospital on FaceTime Duration
 
 Claim Timestamp: 00:35:42–00:38:14
 
-Claim: Frank Turek gave two differing on-record accounts of where the FaceTime call ended – first stating "hotel," then correcting to "hospital" – during the same played interview segment, with the host flagging the inconsistency on air.
+Claim: In a played clip, Frank Turek says he never said he was on FaceTime for 9 hours and that someone online said he said he was on FaceTime "till we got to the hotel. No, to the hospital"; the host then says her team tracked down the person who said hotel and plays a clip.
 
 Anchored Artifacts: A-2150.1
 Mentions: N-7
@@ -1180,7 +1185,7 @@ Anchored Artifacts:
 Mentions: N-331, N-3
 Related Nodes: N-10727
 Tags: relevance:core
-Investigative Direction: Review the preliminary hearing transcript for the Felomina and Baker testimony Coleman flagged and compare with the host's reading.
+Investigative Direction: Review the preliminary hearing transcript for the Faumuina and Baker testimony Coleman flagged and compare with the host's reading.
 
 ---
 
@@ -1348,11 +1353,11 @@ Investigative Direction: Obtain the eyewitness video and any enhanced stills of 
 
 ---
 
-**C-7292** Host Corrects Felomina's Agency to the Utah Bureau of Investigations
+**C-7292** Host Corrects Faumuina's Agency to the Utah Bureau of Investigations
 
 Claim Timestamp: 00:14:11
 
-Claim: The host says she earlier called Sergeant Felomina a UVU sergeant but meant to say she is from the Utah Bureau of Investigations, the state bureau.
+Claim: The host says she earlier called Sergeant Faumuina a UVU sergeant but meant to say she is from the Utah Bureau of Investigations, the state bureau.
 
 Transcript Snippet: I think I said she was UVU Sergeant. I meant to say she's from the Utah Bureau of Investigations
 
@@ -1360,15 +1365,15 @@ Anchored Artifacts:
 Mentions: N-506, N-3
 Related Nodes: N-10012
 Tags: relevance:context
-Investigative Direction: Confirm Felomina's employing agency and title from the preliminary hearing record.
+Investigative Direction: Confirm Faumuina's employing agency and title from the preliminary hearing record.
 
 ---
 
-**C-7293** Felomina Testified She Wrote Nine or More Reports Including a September 22 Overview
+**C-7293** Faumuina Testified She Wrote Nine or More Reports Including a September 22 Overview
 
 Claim Timestamp: 00:15:19
 
-Claim: Sergeant Felomina answered yes when asked whether nine of the reports in the larger body were written by her and that there were more, and that one report written September 22 documented the overview of the crime scenes.
+Claim: Sergeant Faumuina answered yes when asked whether nine of the reports in the larger body were written by her and that there were more, and that one report written September 22 documented the overview of the crime scenes.
 
 Transcript Snippet: nine of those reports in that larger body of reports was written by you, correct? >> Yes.
 
@@ -1377,15 +1382,15 @@ Mentions: N-506
 Related Nodes: N-10727
 Supports: C-3046
 Tags: relevance:core
-Investigative Direction: Request all Felomina reports from the hearing exhibit list, especially the September 22 overview and any report naming the library items.
+Investigative Direction: Request all Faumuina reports from the hearing exhibit list, especially the September 22 overview and any report naming the library items.
 
 ---
 
-**C-7294** Felomina Testified Officers Found the Fulton Library Items Suspicious
+**C-7294** Faumuina Testified Officers Found the Fulton Library Items Suspicious
 
 Claim Timestamp: 00:15:19
 
-Claim: Sergeant Felomina testified that while canvassing the shooter's route officers determined the Fulton Library stood out because there were unattended items at the bus stops away from the courtyard area, which they thought suspicious.
+Claim: Sergeant Faumuina testified that while canvassing the shooter's route officers determined the Fulton Library stood out because there were unattended items at the bus stops away from the courtyard area, which they thought suspicious.
 
 Transcript Snippet: they determined that the Fulton Library stood out because there were um unattended items there at the bus stops that were away from the courtyard area.
 
@@ -1398,11 +1403,11 @@ Investigative Direction: Obtain the canvass notes and officer body-cam from the 
 
 ---
 
-**C-7295** Felomina Testified No Further Information Existed When the Items Were Sent
+**C-7295** Faumuina Testified No Further Information Existed When the Items Were Sent
 
 Claim Timestamp: 00:17:06
 
-Claim: Sergeant Felomina testified that when the items had already been sent, investigators had no more information about whether the collected evidence was probative.
+Claim: Sergeant Faumuina testified that when the items had already been sent, investigators had no more information about whether the collected evidence was probative.
 
 Transcript Snippet: Um at the time when it was already sent, we didn't have more information as far as whether or not uh whe- or not the evidence that were collected there were probative.
 
@@ -1415,11 +1420,11 @@ Investigative Direction: Obtain the FBI lab request form and any later communica
 
 ---
 
-**C-7296** Felomina Agreed It Was Fair to Say the Items Were Determined Unrelated
+**C-7296** Faumuina Agreed It Was Fair to Say the Items Were Determined Unrelated
 
 Claim Timestamp: 00:17:53
 
-Claim: Sergeant Felomina agreed it would be fair to say the items were eventually determined not related to the case, and the host says she is nonetheless saying the SLED determination was that they were not relevant.
+Claim: Sergeant Faumuina agreed it would be fair to say the items were eventually determined not related to the case, and the host says she is nonetheless saying the SLED determination was that they were not relevant.
 
 Transcript Snippet: Yeah, that would be fair. >> Okay, so the relevant thing is she doesn't remember communicating that, but she's saying the SLED determination was that it was not relevant to this case.
 
@@ -1635,7 +1640,7 @@ Investigative Direction: Review the released 911 audio and logs for a call from 
 
 Claim Timestamp: 00:30:49
 
-Claim: The host says Frank Turek is the leader of the Christian grift, which is his entire brand and the legacy of his family's involvement in the military.
+Claim: The host says Frank Turek is "kind of the leader of the Christian grift," that it is "kind of his entire brand," and, she would say, "kind of" the legacy of his family's involvement in the military.
 
 Transcript Snippet: He's kind of the leader of the Christian grift. It's kind of his entire brand and really kind of the legacy I would say of his family's involvement in the military.
 
@@ -1706,7 +1711,7 @@ Claim: The host says Frank Turek's grown sons include two who served as captains
 Transcript Snippet: Frank's grown adult male children, two of whom I should mention served as captains in the Air Force, one of whom, I don't know if you know this, um served particularly in intelligence
 
 Anchored Artifacts: 
-Mentions: N-7, N-685, N-3
+Mentions: N-7, N-3
 Related Nodes: N-11138, N-10730
 Tags: relevance:context
 Investigative Direction: Confirm each son's rank, branch and assignment from public military records or professional profiles.
@@ -1815,7 +1820,7 @@ Investigative Direction: Verify Spencer Turek's role, location and duty schedule
 
 Claim Timestamp: 00:39:56
 
-Claim: The host says that at 2:23 p.m. East Coast time on a Wednesday Spencer was with his wife, clearing his military schedule to watch Charlie Kirk answer questions on a college campus in Utah.
+Claim: The host asks why, at 2:23 p.m. in the afternoon on a Wednesday, Spencer, who she says appears to be on the East Coast, is with his wife clearing out his military schedule to watch Charlie Kirk answer questions on a college campus in Utah.
 
 Transcript Snippet: So, why at 2:23 p. m. in the afternoon is he with his wife clearing out his military schedule to make availability to watch Charlie Kirk answer questions
 
@@ -1880,7 +1885,7 @@ Investigative Direction: Request FaceTime and carrier records for Turek, Spencer
 
 Claim Timestamp: 00:45:23
 
-Claim: The host says influencers showed a video of the back of Tyler Robinson in a room and called it him turning himself in, but it is Robinson in an interrogation room and we do not know how he got there.
+Claim: The host says 'they' showed a video of the back of Tyler Robinson in a room and called it him turning himself in, but it is Robinson in an interrogation room and we do not know how he got there.
 
 Transcript Snippet: That's Tyler Robinson in an interrogation room. We've no idea how he got into this interrogation room.
 
@@ -1896,7 +1901,7 @@ Investigative Direction: Identify the video, its source, time and location, and 
 
 Claim Timestamp: 00:45:23
 
-Claim: The host says she would like to see footage of Robinson turning himself in or confessing, which many influencers stated before it was shown.
+Claim: The host says she would like to see footage of Robinson turning himself in and of him confessing to the crime, which she says many influencers stated had happened before this point.
 
 Transcript Snippet: We'd like to see footage of him confessing to the crime, which many influencers stated before we got here.
 
@@ -1993,7 +1998,7 @@ Investigative Direction: Request preservation and forensic imaging of the host's
 
 Claim Timestamp: 00:48:49
 
-Claim: The host says Tyler Bowyer is also in the chats because they would also chat about Mark Meckler.
+Claim: The host says, by the way, Tyler Bowyer, in connection with the chats, because they would also chat about Mark Meckler.
 
 Transcript Snippet: by the way Tyler Bowyer is even that the chats cuz we would also chat about Mark Meckler
 
@@ -2041,7 +2046,7 @@ Investigative Direction: Check reporting on Taybeh settler attacks and arson inc
 
 Claim Timestamp: 00:51:03
 
-Claim: In the played trailer an interviewer asks a man whether a settler tried to choke him and his mother and whether police arrested him and his mother after they called them, and he answers yes.
+Claim: In the played trailer an interviewer asks someone whether a settler tried to choke them and their mother and whether police arrested them and their mother after they called, and the person answers yes.
 
 Transcript Snippet: a settler tried to choke you and your mother, you called the police and the police arrested you and your mother?
 
@@ -2058,7 +2063,7 @@ Investigative Direction: Find the full documentary and corroborating police or p
 
 Claim Timestamp: 00:53:07
 
-Claim: The host says her Shawn Ryan interview is the most successful Shawn Ryan episode ever in raw numbers, at about 6 million views in a week.
+Claim: The host says she believes her Shawn Ryan interview is also the most successful Shawn Ryan episode ever in raw numbers, climbing to something like 6 million views in a week already.
 
 Transcript Snippet: I do believe it's also the most successful Shawn Ryan episode ever in terms of just raw numbers it climbing to like 6 million views in what? A week already?
 
@@ -2081,7 +2086,7 @@ Transcript Snippet: my belief that Charlie was murdered and it was a Freemasonic
 Anchored Artifacts: A-2869.1, A-2869.1
 Mentions: N-1, N-3
 Related Nodes: 
-Tags: relevance:tangential
+Tags: relevance:core
 Investigative Direction: The host cites no document here; ask what evidence she holds for a ritual motive.
 
 ---
@@ -2154,7 +2159,7 @@ Investigative Direction: The host cites no source; this broad group claim is rec
 
 Claim Timestamp: 00:59:17
 
-Claim: The host says Andrew Klavan's Christ is King video made as an obscure point that he was upset she mentioned Sigmund Freud.
+Claim: The host says one of the more obscure points in Andrew Klavan's Christ is King video was that he was upset she mentioned Sigmund Freud.
 
 Transcript Snippet: even Andrew Klavan's Christ is King video because one of the more obscure points was he was upset that I mentioned Sigmund Freud
 
@@ -2288,7 +2293,7 @@ Claim: The host reads a viewer comment saying the first movie pushed by Influent
 Transcript Snippet: First movie pushed by Influential was Sound of Freedom, the same messaging as Frank's book.
 
 Anchored Artifacts: 
-Mentions: N-431, N-7, N-326, N-3
+Mentions: N-431, N-7, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check Influential's and Parscale's roles in promoting Sound of Freedom.
@@ -2299,7 +2304,7 @@ Investigative Direction: Check Influential's and Parscale's roles in promoting S
 
 Claim Timestamp: 01:05:30
 
-Claim: The host says she has a lot to think about regarding Tim Ballard, since she met all these people through PragerU, and she is re-examining that time.
+Claim: The host says she has a lot to think about regarding Tim Ballard, since she met all of these people sort of through PragerU, and she is re-examining that time.
 
 Transcript Snippet: Yeah, I have a lot to think now about Tim Ballard, how I met all of these people sort of through PragerU and I reconsider that.
 

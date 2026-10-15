@@ -120,3 +120,11 @@ records Minas separately.
   Andrew Kolvet ("Colvin"), Amir Tsarfati, and "Pierre Delecto" (Romney's account).
 - The ep102 correction of "Nick Fuentes" to Nick Shirley (NPR) is applied to that claim only, not as a rule, because
   Nick Fuentes is named correctly throughout the archive.
+
+## Part 3g (chunks 161–194: episodes ~110–137, 2,040 claims)
+- Confirmations: chunks 161–178 had 120 findings (103 accepted, 13 amended, 4 rejected); chunks 179–194 had 103 (82
+  accepted, 20 amended, 1 rejected).
+- Applied: 213 confirmed fixes and 174 minor fixes.
+- Name rules: Sergeant Jennifer Faumuina ("Filomena/Felomina"), Jon Bray, James Kaddis, Druski, Tyler Bowyer, Otto
+  Busher, Frank Turek ("Cheric"), Matt Bromberg, George Zinn, Bradley Hansell ("Hantel"), Brian Harpole, and Andrew
+  Kolvet ("Cole", "Colvett"; ep130 "Andrew Klavan", scoped because Andrew Klavan is a real Daily Wire host).

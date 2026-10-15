@@ -1320,8 +1320,8 @@
       "@type": "Claim",
       "@id": "C-3162",
       "ref": "C-3162",
-      "label": "Defense Memo: Bullet Perforated Left Neck Structures and C7 Vertebra",
-      "claim": "The defense memorandum excerpt states the bullet sequentially perforated the anterior left side of Kirk's neck strap muscles, left common carotid artery, and left internal and external jugular veins, obliterated the left side of C7 vertebra, and transected the cervical spinal cord.",
+      "label": "Prosecution Memo: Bullet Perforated Left Neck Structures and C7 Vertebra",
+      "claim": "Per the prosecution's memorandum the host reads, the bullet, or at least parts of it, sequentially perforated the anterior left side of Kirk's neck strap muscles, left common carotid artery, and left internal and external jugular veins, obliterated the left side of the C7 vertebra, and transected the cervical spinal cord.",
       "anchored_artifacts": [
         "A-2207.1"
       ],
@@ -1339,8 +1339,8 @@
       "@type": "Claim",
       "@id": "C-3163",
       "ref": "C-3163",
-      "label": "Defense Memo: Hemorrhaging Around Heart and Both Lungs Observed",
-      "claim": "The defense memorandum states the medical examiner observed hemorrhaging around Kirk's heart and both of his lungs (left and right).",
+      "label": "Prosecution Memo: Hemorrhaging Around Heart and Both Lungs Observed",
+      "claim": "Per the prosecution's memorandum the host reads, the medical examiner observed hemorrhaging around Kirk's heart and both of his lungs (left and right).",
       "anchored_artifacts": [
         "A-2207.1"
       ],
@@ -1395,7 +1395,7 @@
       "@id": "C-3166",
       "ref": "C-3166",
       "label": "Sky News Reports Kirk's Body En Route to Hansen Mortuary",
-      "claim": "In a Sky News clip the host plays, a reporter says that on 2025-09-11 at approximately 5:27 PM Phoenix time Air Force 2 had landed at Sky Harbor Airport carrying Kirk's body and that the motorcade was heading to Hansen Mortuary in Phoenix.",
+      "claim": "In a Sky News clip the host plays, a reporter says that on 2025-09-11 at 5:27 PM Phoenix time Air Force 2 had landed about an hour earlier at Sky Harbor Airport carrying Kirk's body and that the motorcade was heading to Hansen Mortuary in Phoenix.",
       "anchored_artifacts": [
         "A-2205.1"
       ],
@@ -1414,7 +1414,7 @@
       "@id": "C-3167",
       "ref": "C-3167",
       "label": "Andrew Kolvet States Charlie Was Not Becoming Catholic",
-      "claim": "On a pre-recorded appearance on Alex Clark's show prior to the Catholic funeral mass, Andrew Kolvet stated Charlie was not becoming Catholic, described Erika as a cradle Catholic who followed a non-denominational path, and cited a prior social media exchange in which Erika herself denied conversion.",
+      "claim": "In a clip the host plays from Alex Clark's show, Andrew Kolvet says Charlie was not becoming Catholic and describes Erika as a cradle Catholic who, like him, followed a non-denominational path; another speaker in the clip adds that Erika once answered a comment asking if they were converting with \"No, we just like attending sometimes.\"",
       "anchored_artifacts": [
         "A-2206.1"
       ],
@@ -1426,7 +1426,8 @@
       "investigative_direction": "Obtain the full Alex Clark interview recording; verify pre-record date relative to Sept 20 funeral mass; identify Erika's referenced social media exchange.",
       "mentions_person_refs": [
         "N-14",
-        "N-99"
+        "N-99",
+        "N-2"
       ]
     },
     {
@@ -1486,7 +1487,7 @@
       "@id": "C-3171",
       "ref": "C-3171",
       "label": "Podcast Describes Another Angle Showing Weapon Handling",
-      "claim": "On a podcast referred to by the host as the \"Beavis and Butt-Head show,\" a participant identified as Andrew described another rooftop video angle in which the shooter rolls over the railing, appears to assemble or pull a weapon from his pants, there is a brief blind spot, and then the visible Lozi footage shows him running and taking a prone position.",
+      "claim": "On a show the host calls the \"Beavis and Butt-Head show,\" a speaker identified as Andrew says people inside the courtroom told him another angle shows the shooter roll over the railing and assemble the weapon, partly obscured by the railing; a second speaker adds that he appears to pull the rifle from his pant leg, there is a brief blind spot, and the visible Lozi footage then shows him running and taking a prone position.",
       "anchored_artifacts": [
         "A-2213.1"
       ],
@@ -1495,14 +1496,17 @@
       ],
       "tags": [],
       "claim_timestamp": "00:12:19",
-      "investigative_direction": "Identify the actual podcast; obtain the full episode; verify whether any second rooftop footage was formally entered as evidence."
+      "investigative_direction": "Identify the actual podcast; obtain the full episode; verify whether any second rooftop footage was formally entered as evidence.",
+      "mentions_person_refs": [
+        "N-14"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3172",
       "ref": "C-3172",
       "label": "Media Siege Shares Baby Photo to Argue Untrained Reflex",
-      "claim": "A Media Siege host known as \"Paramount Not So Tactical\" shared a photo of a baby crawling, presented as proof that the rooftop figure's behavior was untrained human reflex rather than tactical training.",
+      "claim": "The host says an account she calls \"Paramount Not So Tactical,\" a regular on Media Siege in her telling, shared a photo of a baby learning to crawl, which she says was offered as proof that the rooftop figure was untrained rather than tactical.",
       "anchored_artifacts": [
         "A-2214.1"
       ],
@@ -1680,7 +1684,7 @@
       "@id": "C-7406",
       "ref": "C-7406",
       "label": "Host Says Her Video Shows the Rooftop Person Was a Decoy Who Never Fired",
-      "claim": "The host says her video shows the person on the Lozi roof was a decoy who never fired a shot, and that Tim Pool misread the video as a counter to the exploding mic claims.",
+      "claim": "The host says her video argued the person on the Lozi roof was a decoy who never fired a shot, and that Tim Pool misread the video as a counter to the exploding mic claims.",
       "anchored_artifacts": [
         "A-2211.1"
       ],
@@ -1760,7 +1764,6 @@
       "transcript_snippet": "it is the defense that demanded that it be kept from the public on the grounds that it would prejudice Tyler.",
       "mentions_person_refs": [
         "N-160",
-        "N-93",
         "N-40"
       ]
     },
@@ -2141,7 +2144,7 @@
         "N-10350"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:18:27",
       "investigative_direction": "Look for messages or witnesses to the host's conversations with Charlie about Catholicism.",
@@ -2470,7 +2473,7 @@
       "@id": "C-7441",
       "ref": "C-7441",
       "label": "Host Says Attendees Were Told to Leave and That the Location Would Be Unmarked",
-      "claim": "The host says attendees were told to leave while TPUSA would handle the rest, with Charlie going somewhere unmarked out of fear that the left could desecrate his burial place.",
+      "claim": "The host says attendees at the cemetery were asked to leave and were told \"You leave and we'll handle the rest,\" and that they were told Charlie would be put somewhere unmarked for fear the left could desecrate his burial place.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10759",
@@ -2819,7 +2822,7 @@
       "@id": "C-7457",
       "ref": "C-7457",
       "label": "Host Says She Believes the Microphone Exploded on Charlie",
-      "claim": "The host says she believes the microphone exploded on Charlie, and that hemorrhaging could come from blunt force trauma to the heart.",
+      "claim": "The host says she believes the microphone exploded on Charlie, and that there is a chance hemorrhaging in the heart and lungs could come from blunt force trauma to the heart.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10768",
@@ -2928,7 +2931,7 @@
       "@id": "C-7462",
       "ref": "C-7462",
       "label": "Prosecution Cites Exhibits 12.1 and 12.4 as Proof of a Screwdriver",
-      "claim": "In the hearing clip, the prosecution asserts the defendant used a screwdriver and cites exhibits 12.1 and 12.4 as proof.",
+      "claim": "The host says that in the hearing clip she plays, the prosecution asserts the defendant used a screwdriver and cites exhibits 12.1 and 12.4 as proof.",
       "anchored_artifacts": [
         "A-2882.1"
       ],
@@ -3142,7 +3145,7 @@
       "@id": "C-7472",
       "ref": "C-7472",
       "label": "Host Says Her Book Club Is Reading About the Pale of Settlement",
-      "claim": "The host says her book club is discussing the Pale of Settlement in Russia, and characterizes people who migrated west from there, which she links to Ukraine and Lithuania, as running countries.",
+      "claim": "The host says her book club is discussing the Pale of Settlement in Russia, and describes the evil people who migrated west from there, which she links to Ukraine and Lithuania, as now running our countries and into Baal worship.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

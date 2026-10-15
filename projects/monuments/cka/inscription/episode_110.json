@@ -2852,7 +2852,7 @@
       "@id": "C-14660",
       "ref": "C-14660",
       "label": "Host Says a Tucson to Fort Huachuca Flight on September 8 Was Linked to a Flight School With a New CEO",
-      "claim": "The host says a flight from Tucson to Fort Huachuca on September 8 looked associated with a flight training school that recently got a new CEO, named by her as Matt Bramberg, who is connected to Raytheon and Northrop Grumman, adding that it could be nothing.",
+      "claim": "The host says a flight from Tucson to Fort Huachuca on September 8 looked associated with a flight training school that recently got a new CEO, named by her as Matt Bromberg, who is connected to Raytheon and Northrop Grumman, adding that it could be nothing.",
       "anchored_artifacts": [
         "A-2076.2"
       ],
@@ -2866,7 +2866,7 @@
       ],
       "claim_timestamp": "00:27:32",
       "investigative_direction": "Identify the flight school, its operator on the Tucson-Fort Huachuca leg, and the CEO's correct name.",
-      "transcript_snippet": "it looked like it was a flight uh that was associated with a flight training school. So I just noted that that flight training school did get a new CEO um named Matt Bramberg who is connected to Raytheon and Northrop Grumman."
+      "transcript_snippet": "it looked like it was a flight uh that was associated with a flight training school. So I just noted that that flight training school did get a new CEO um named Matt Bromberg who is connected to Raytheon and Northrop Grumman."
     },
     {
       "@type": "Claim",
@@ -3101,8 +3101,8 @@
       "@type": "Claim",
       "@id": "C-14671",
       "ref": "C-14671",
-      "label": "Host Says Erika Spoke at James Catis' Calvary Chapel in Long Beach on July 14",
-      "claim": "The host says that on July 14, 2025 Erika Kirk traveled to Long Beach, California to speak at James Catis' Calvary Chapel for its Women's Summer of Psalms retreat.",
+      "label": "Host Says Erika Spoke at James Kaddis' Calvary Chapel in Long Beach on July 14",
+      "claim": "The host says that on July 14, 2025 Erika Kirk traveled to Long Beach, California to speak at James Kaddis' Calvary Chapel for its Women's Summer of Psalms retreat.",
       "anchored_artifacts": [
         "A-2076.2"
       ],
@@ -3114,7 +3114,7 @@
       ],
       "claim_timestamp": "00:30:55",
       "investigative_direction": "Find the retreat program or video and flight records for July 14, 2025.",
-      "transcript_snippet": "Erika travels to Long Beach, California to speak at James Catis' Calvary Chapel Church for their Women's Summer of Psalms retreat.",
+      "transcript_snippet": "Erika travels to Long Beach, California to speak at James Kaddis' Calvary Chapel Church for their Women's Summer of Psalms retreat.",
       "mentions_person_refs": [
         "N-2",
         "N-668"
@@ -3124,8 +3124,8 @@
       "@type": "Claim",
       "@id": "C-14672",
       "ref": "C-14672",
-      "label": "Host Says James Catis Heads the Turning Point USA Faith Department",
-      "claim": "The host says James Catis heads up the Turning Point USA faith department.",
+      "label": "Host Says James Kaddis Heads the Turning Point USA Faith Department",
+      "claim": "The host says James Kaddis heads up the Turning Point USA faith department.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3133,7 +3133,7 @@
       ],
       "claim_timestamp": "00:31:00",
       "investigative_direction": "Check TPUSA staff pages for the faith department head and Catis' role.",
-      "transcript_snippet": "That's interesting because James Catis heads up the Turning Point USA faith department.",
+      "transcript_snippet": "That's interesting because James Kaddis heads up the Turning Point USA faith department.",
       "mentions_person_refs": [
         "N-668"
       ]
@@ -3830,7 +3830,7 @@
       "@type": "Claim",
       "@id": "C-14706",
       "ref": "C-14706",
-      "label": "Host Implies the Same Forces Took Out JFK, RFK and Other Catholics",
+      "label": "Host Says \"We Definitely Know Who\" Is Taking Out Catholics",
       "claim": "Responding to a viewer comment noting JFK and Bobby Kennedy were Catholic until their assassination dates, the host says 'we definitely know who' is taking out all these Catholics, without naming anyone.",
       "anchored_artifacts": [
         "A-3335.3"

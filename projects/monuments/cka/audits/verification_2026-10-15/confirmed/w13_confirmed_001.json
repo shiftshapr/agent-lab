@@ -1,0 +1,561 @@
+[
+ {
+  "claim": "C-5900",
+  "episode": 125,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says tens of millions of dollars are being spent against her, and that she and Tucker Carlson are listed in the FARA docs, which she says admit they have to take them down.",
+   "names": [
+    {
+     "wrong": "Faradox",
+     "right": "FARA docs",
+     "source": "https://dailycaller.com/2026/06/24/brad-parscale-error-fara-filing/"
+    }
+   ]
+  },
+  "note": "Daily Caller confirms Clock Tower X FARA filings name Carlson and Owens; ep 126 also says 'Faradox that were filed'."
+ },
+ {
+  "claim": "C-3027",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "claim": "Sergeant Faumuina testified that officers canvassing the scene seized unattended items – including a backpack, jacket, and gloves – near the Folsom (Fulton) Library bus stop.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified by web search (Utah DPS sergeant who testified at Robinson hearing)."
+ },
+ {
+  "claim": "C-3028",
+  "episode": 126,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a hearing clip the host plays, Sergeant Faumuina agrees that the seized items were sent to the FBI lab, and when asked whether she eventually told the lab the items were not connected to the case and needed no further testing, says she does not remember communicating that.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Name fix right, but she did not acknowledge communicating it; she said 'I don't remember communicating that'."
+ },
+ {
+  "claim": "C-3029",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:17:10"
+  },
+  "note": "Bob-up-and-down 6 ft description falls in the 16:53 block after the 12:15 reply, about 17:15."
+ },
+ {
+  "claim": "C-3037",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-821",
+    "N-104"
+   ]
+  },
+  "note": "Claim names Helen Comperatore and Thomas Crooks."
+ },
+ {
+  "claim": "C-3038",
+  "episode": 126,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a NewsNation clip the host plays, a reporter says Helen Comperatore says the Secret Service did not reach out to her until a year later and did not fully answer her questions.",
+   "mentions": [
+    "N-821"
+   ],
+   "timestamp": "00:30:55"
+  },
+  "note": "Attribution fix right; reporter line sits about 30:58-31:15 in the 30:34 block, so 31:25 is late."
+ },
+ {
+  "claim": "C-8939",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "claim": "Asked whether the seized items numbered nine, Sergeant Faumuina said she did not remember, and she agreed that whatever was seized was sent to the FBI lab.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified."
+ },
+ {
+  "claim": "C-8940",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a hearing clip the host plays, Sergeant Faumuina agrees with the questioner that she was requesting both DNA and other types of analysis on the seized items.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified."
+ },
+ {
+  "claim": "C-8941",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "claim": "Sergeant Faumuina said 'I don't remember communicating that' when asked whether she told the lab the items were unconnected, then said it would not be inconsistent with what she knows if the FBI or ATF notes recorded it, and agreed it would be fair to say the items were determined unrelated.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified."
+ },
+ {
+  "claim": "C-8942",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim refers only to the host and the questioner; the sergeant is not named or described."
+ },
+ {
+  "claim": "C-8957",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "claim": "The witness says that about an hour after the shot he went back inside the perimeter, ran to the command center, showed his video and told officers they had the wrong guy (George Zinn).",
+   "names": [
+    {
+     "wrong": "George Zenn",
+     "right": "George Zinn",
+     "source": "https://www.sltrib.com/news/2025/09/10/george-zinn-what-we-know-about-man/"
+    }
+   ]
+  },
+  "note": "George Zinn verified by web search (man detained at UVU)."
+ },
+ {
+  "claim": "C-8960",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that Sergeant Faumuina made clear the route from the Losee Center to the library was the route the shooter took and that this is why the items were recovered.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified."
+ },
+ {
+  "claim": "C-8964",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says that when officers were asked why they did not act on the unfired .223 round, they gave a ridiculous answer, and she adds 'I should have pulled that'."
+  },
+  "note": "'I should have pulled that' is the host's own remark."
+ },
+ {
+  "claim": "C-8965",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-105"
+   ]
+  },
+  "note": "Claim names Corey Comperatore."
+ },
+ {
+  "claim": "C-9003",
+  "episode": 126,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-97"
+   ]
+  },
+  "note": "Claim says 'the driver' without identifying Harpole."
+ },
+ {
+  "claim": "C-3042",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "claim": "Officer Bagley testified that his Axon body-cam footage, which the examiner described as 27 minutes and 35 seconds long, ended while he was still on the Losee Center roof, and said \"I think his battery went dead.\"",
+   "label": "Officer Bagley Testified Body-Cam Footage Ended While on Rooftop"
+  },
+  "note": "12:44 is the host's arrival time, not the footage end; 27:35 is the examiner's figure."
+ },
+ {
+  "claim": "C-3046",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "claim": "Sergeant Jennifer Faumuina of the Utah Bureau of Investigations testified that officers canvassing the scene, including the shooter's route, found unattended items at the Fulton Library bus stops, and that a backpack, jacket and gloves were seized.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified; she did not say the library was determined to be on the route."
+ },
+ {
+  "claim": "C-3047",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "claim": "Sergeant Faumuina testified that the seized items were sent to the FBI lab for DNA and other analysis, along with information that the suspect may have shed items as he fled.",
+   "mentions": [
+    "N-506"
+   ],
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified; N-506 missing."
+ },
+ {
+  "claim": "C-3048",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "claim": "Sergeant Faumuina testified that when the items were already sent investigators had no more information on whether they were probative, that she did not remember communicating to the lab that no further testing was needed, and that it would not be inconsistent with what she knew if FBI or ATF notes said so.",
+   "mentions": [
+    "N-506"
+   ],
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Matches 17:06 testimony; halt was the examiner's assertion."
+ },
+ {
+  "claim": "C-3049",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-779"
+   ]
+  },
+  "note": "Claim names Amanda Baker."
+ },
+ {
+  "claim": "C-3050",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-779",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Baker and 'Kirk's detailees'."
+ },
+ {
+  "claim": "C-3051",
+  "episode": 127,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Sergeant Faumuina does not remember communicating the \"not probative\" decision and that Baker says someone else in the lab added the \"Kirk's detail\" note, asks who that person is, and says the items should have been tested.",
+   "mentions": [
+    "N-3",
+    "N-506",
+    "N-779"
+   ],
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    },
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Fix right; transcript here renders the name 'Filomena' (21:15), so both variants are listed."
+ },
+ {
+  "claim": "C-3053",
+  "episode": 127,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a played clip, Frank Turek says he never said he was on FaceTime for 9 hours and that someone online said he said he was on FaceTime \"till we got to the hotel. No, to the hospital\"; the host then says her team tracked down the person who said hotel and plays a clip.",
+   "label": "Frank Turek Corrects Himself From Hotel to Hospital on FaceTime Duration"
+  },
+  "note": "Reviewer is right that he gives no two accounts; reworded to follow his words in order."
+ },
+ {
+  "claim": "C-7292",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she earlier called Sergeant Faumuina a UVU sergeant but meant to say she is from the Utah Bureau of Investigations, the state bureau.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified."
+ },
+ {
+  "claim": "C-7293",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "claim": "Sergeant Faumuina answered yes when asked whether nine of the reports in the larger body were written by her and that there were more, and that one report written September 22 documented the overview of the crime scenes.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified."
+ },
+ {
+  "claim": "C-7294",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "claim": "Sergeant Faumuina testified that while canvassing the shooter's route officers determined the Fulton Library stood out because there were unattended items at the bus stops away from the courtyard area, which they thought suspicious.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified."
+ },
+ {
+  "claim": "C-7295",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "claim": "Sergeant Faumuina testified that when the items had already been sent, investigators had no more information about whether the collected evidence was probative.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified."
+ },
+ {
+  "claim": "C-7296",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "claim": "Sergeant Faumuina agreed it would be fair to say the items were eventually determined not related to the case, and the host says she is nonetheless saying the SLED determination was that they were not relevant.",
+   "names": [
+    {
+     "wrong": "Felomina",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  },
+  "note": "Faumuina verified."
+ },
+ {
+  "claim": "C-7313",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-3"
+   ]
+  },
+  "note": "Sons are unnamed; Spencer not identified."
+ },
+ {
+  "claim": "C-7349",
+  "episode": 127,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-431",
+    "N-7",
+    "N-3"
+   ]
+  },
+  "note": "Claim does not mention Tim Ballard."
+ },
+ {
+  "claim": "C-3058",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-154",
+    "N-1"
+   ]
+  },
+  "note": "Claim names O'Neill."
+ },
+ {
+  "claim": "C-3059",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-948",
+    "N-154",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Holt and O'Neill."
+ },
+ {
+  "claim": "C-3064",
+  "episode": 128,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-506"
+   ],
+   "timestamp": "00:17:10"
+  },
+  "note": "Mentions fix right; basketball line is near the end of the 16:37 block, so 17:38 is after it."
+ },
+ {
+  "claim": "C-3065",
+  "episode": 128,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-506"
+   ],
+   "timestamp": "00:17:20"
+  },
+  "note": "Mentions fix right; Weber State line ends the 16:37 block, before 17:38."
+ },
+ {
+  "claim": "C-3066",
+  "episode": 128,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-506",
+    "N-508"
+   ],
+   "timestamp": "00:19:40"
+  },
+  "note": "Mentions fix right; May 20, 2013 photo is mid 19:15 block, not 20:19."
+ },
+ {
+  "claim": "C-3067",
+  "episode": 128,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says a 2016 article shows Jennifer Faumuina among the volunteer troopers providing crowd control at the Republican National Convention in Ohio.",
+   "mentions": [
+    "N-506"
+   ],
+   "timestamp": "00:17:45"
+  },
+  "note": "Fix right; RNC article is early in the 17:38 block, not 18:29."
+ },
+ {
+  "claim": "C-3068",
+  "episode": 128,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-506"
+   ],
+   "timestamp": "00:18:15"
+  },
+  "note": "Mentions fix right; salary-records line ends the 17:38 block, before 18:29."
+ },
+ {
+  "claim": "C-3069",
+  "episode": 128,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-506",
+    "N-508"
+   ],
+   "timestamp": "00:19:40"
+  },
+  "note": "Mentions fix right; May 20, 2013 photo is mid 19:15 block, not 20:19."
+ },
+ {
+  "claim": "C-3070",
+  "episode": 128,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-506",
+    "N-508"
+   ],
+   "timestamp": "00:20:05"
+  },
+  "note": "Mentions fix right; 2023 photo line ends the 19:15 block, just before 20:19."
+ },
+ {
+  "claim": "C-3071",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-508",
+    "N-41"
+   ]
+  },
+  "note": "Faumuina is not named in this claim."
+ }
+]

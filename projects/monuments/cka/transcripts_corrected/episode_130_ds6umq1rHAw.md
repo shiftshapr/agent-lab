@@ -184,7 +184,7 @@ Kits are available to US residents only. I have to tell you guys that this episo
 
 [33:36]
 
-Andrew Klavan, I have to tell you that after I saw him trying to spin that Charlie and Ben Shapiro were friends, I was I just said to myself, this is an evil man. This is an evil There's no way you can do that. I just have way too many messages, group chats with Andrew Klavan, with Tyler I was like, that takes a a level of dishonesty and also like a fundamental hatred for the person who passed away. Like, typically people feel pulled to be more loyal to people after a tragic death, to not allow people to come in and to ruin their legacy. And Andrew just told that lie, and it was so crazy. Ben Shapiro swept in and said, I tweeted, okay, I never claimed to be close to Charlie. Blake Neff went on to the podcast and said, yeah, no, Charlie had issues with Ben, but he did consider him at least an ally in the movement.
+Andrew Kolvet, I have to tell you that after I saw him trying to spin that Charlie and Ben Shapiro were friends, I was I just said to myself, this is an evil man. This is an evil There's no way you can do that. I just have way too many messages, group chats with Andrew Kolvet, with Tyler I was like, that takes a a level of dishonesty and also like a fundamental hatred for the person who passed away. Like, typically people feel pulled to be more loyal to people after a tragic death, to not allow people to come in and to ruin their legacy. And Andrew just told that lie, and it was so crazy. Ben Shapiro swept in and said, I tweeted, okay, I never claimed to be close to Charlie. Blake Neff went on to the podcast and said, yeah, no, Charlie had issues with Ben, but he did consider him at least an ally in the movement.
 
 [34:28]
 

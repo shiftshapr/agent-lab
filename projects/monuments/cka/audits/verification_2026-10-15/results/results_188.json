@@ -1,0 +1,770 @@
+[
+ {
+  "claim": "C-3133",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Gayle King (N-512) not named in claim. Clip: \"a lot of things I discovered in our closet that I did not know existed\"; \"substances\"/shoe boxes is host narration, not Holker.",
+  "fix": {
+   "claim": "In an audio clip played in the episode, Allison Holker says that while cleaning out the closet to pick out a funeral outfit, she discovered \"a lot of things\" in the closet \"that I did not know existed\"; the host says she reportedly found substances hidden in his shoe boxes, even though the autopsy found no drugs or alcohol in his system.",
+   "mentions": [
+    "N-926"
+   ]
+  }
+ },
+ {
+  "claim": "C-3134",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3135",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Line \"If you don't sign, you will not be able to see him\" is at about 45:50, roughly 100s after the 44:07 timestamp.",
+  "fix": {
+   "timestamp": "00:45:40"
+  }
+ },
+ {
+  "claim": "C-3136",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Gayle King not named in claim. Host read the comment she saw \"yesterday on YouTube\"; she does not say it was posted on a prior episode, and comment says only \"Twitch's case\".",
+  "fix": {
+   "claim": "A YouTube comment the host reads, which she says she saw the day before, lists similarities with the Twitch / Allison Holker case, including: \"Mormon wife who chased him at dancing events until he marries her,\" \"The family iced out,\" \"Mysterious death,\" \"His family asked to sign an NDA to attend the memorial,\" and \"The wife back at work and in business mode a few days later making deals and publishing books.\"",
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-925",
+    "N-926"
+   ]
+  }
+ },
+ {
+  "claim": "C-3137",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Allison Holker is named in the claim but not in Mentions (N-926). \"Prior day's episode\" not said; host read it as a comment she saw \"yesterday on YouTube\".",
+  "fix": {
+   "claim": "A YouTube comment the host reads, which she says she saw the day before, states that Allison Holker \"grew up in Orem, Utah, and graduated from Timpanogos High School in 2006.\"",
+   "mentions": [
+    "N-926"
+   ]
+  }
+ },
+ {
+  "claim": "C-3664",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host only says \"Of course, the CIA hats, essential.\" No \"Candace Intelligence Agency\" or \"Decentralized Intelligence Agency\" gloss is spoken.",
+  "fix": {
+   "claim": "The host plugs the \"CIA hats\" merch, calling them essential."
+  }
+ },
+ {
+  "claim": "C-3767",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Gary Javitch (N-924) is named but missing from Mentions. Transcript here reads \"Gary Javitch\"; claim's Jabitch/Jabach and \"no person node\" notes are stale.",
+  "fix": {
+   "claim": "The host says the bounty she put out on who Ben Shapiro was with at \"breakfast or lunch\" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary Javitch, says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.",
+   "mentions": [
+    "N-3",
+    "N-97",
+    "N-1",
+    "N-924"
+   ]
+  }
+ },
+ {
+  "claim": "C-3768",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Gary (Javitch, N-924) is the alleged companion and is referred to throughout the claim but is missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-97",
+    "N-924"
+   ]
+  }
+ },
+ {
+  "claim": "C-3769",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Email address stated at about 27:25; bounty at 26:20.",
+  "fix": {}
+ },
+ {
+  "claim": "C-13120",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13121",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13122",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13123",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13124",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13125",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13126",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13127",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13128",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13129",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13130",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13131",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13132",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13133",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13134",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13135",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13136",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13137",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13138",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13139",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13140",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13141",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host hedges: \"I believe Andrew Klavan was actually present... if I recall\". Claim drops hedge and has awkward \"(transcribed Andrew Klavan)\".",
+  "fix": {
+   "claim": "The host says that when she spoke at YWLN, she and Charlie Kirk sat in a room discussing what was happening behind the scenes at Daily Wire and what the company was doing legally, and that she believes Andrew Klavan was present, if she recalls correctly, before she went on stage."
+  }
+ },
+ {
+  "claim": "C-13142",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13143",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13144",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13145",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13146",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13147",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13148",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13149",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13150",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13151",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13152",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13153",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13154",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Claim carries stale meta \"(transcribed Jabitch; spelling unverified)\"; transcript reads Gary Javitch.",
+  "fix": {
+   "claim": "The host says Gary Javitch is in his mid-70s, has lived in Omaha, Nebraska for the last few decades and got one of his degrees there in the 1990s."
+  }
+ },
+ {
+  "claim": "C-13155",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13156",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13157",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13158",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13159",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13160",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13161",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13162",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13163",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"if they will lie about something like that for a half a million dollar check, yeah\" (\"something like that\" unspecified); \"They betrayed Charlie\" comes later at 27:10. Claim names the Ben/Charlie relationship.",
+  "fix": {
+   "claim": "The host says the Turning Point USA team has been despicable in their lies, that there is no bottom to their lies, and that if they will lie about something like that for a half-million-dollar check, they betrayed Charlie."
+  }
+ },
+ {
+  "claim": "C-13164",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host does not call it a DIA tip line; \"as a DIA tip-line call\" is added.",
+  "fix": {
+   "claim": "The host asks anyone with information to send an email to moretips@candaceowens.com."
+  }
+ },
+ {
+  "claim": "C-13165",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13166",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13167",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"exactly who I suspected it was Tracy Martin\" and later \"I'll say allegedly\"; claim states it flatly as her identification.",
+  "fix": {
+   "claim": "The host says she received a flurry of unsolicited emails presenting concrete proof that the Daily Mail story came from a family friend of Erika Kirk, whom she says she suspected was Tracy Martin."
+  }
+ },
+ {
+  "claim": "C-13168",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13169",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "In window, host only says Martin \"had a perfectly friendly phone call with me and pretended that I was shouting and cursing her out\". \"Only told her how she felt about Erika... lies strange\" is not said.",
+  "fix": {
+   "claim": "The host says Tracy Martin had a perfectly friendly phone call with her and then pretended the host was shouting and cursing her out on the phone."
+  }
+ },
+ {
+  "claim": "C-13170",
+  "episode": 131,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

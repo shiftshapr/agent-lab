@@ -262,7 +262,7 @@ The host believes he was an obvious source for the New York Times article.
 
 **N-434** Bradley Hansell
 
-Transcript "Bradley Hantel", "Bradley Hansell" and "Bradley Hansell". Under Secretary of Defense for Intelligence whose office the host says organized SAM 702.
+Transcript "Bradley Hansell", "Bradley Hansell" and "Bradley Hansell". Under Secretary of Defense for Intelligence whose office the host says organized SAM 702.
 
 *Related: C-4735, C-4736, C-4738, C-4740, C-4741, C-4756, C-4758, A-2692.1, A-2693.1*
 
@@ -517,7 +517,7 @@ Claim: Citing the New York Times, the host says Trump met his top officials in t
 Transcript Snippet: So much so that Trump decided to meet with his top officials in the situation room to work through a public plan.
 
 Anchored Artifacts: A-2691.1
-Mentions: N-5, N-85, N-9
+Mentions: N-5, N-9
 Related Nodes: N-10324, N-10871, N-10075
 Investigative Direction: Retrieve the New York Times article and any official account of Situation Room meetings on the Epstein files.
 
@@ -699,7 +699,7 @@ Claim: The host says the SAM 702 plane flew to Tucson on September 8, two days b
 Transcript Snippet: the plane that flew to Tucson, Arizona on September 8th, 2 days before Charlie's assassination, landed and hung out in Tucson for about 4 hours before it carried on to the Intel base in Fort Huachuca, Arizona, where it stayed overnight.
 
 Anchored Artifacts: 
-Mentions: N-362, N-1
+Mentions: N-1
 Related Nodes: N-10671
 Investigative Direction: ADS-B flight data and Air Force mission records for SAM 702 on September 8–9, 2025.
 
@@ -711,7 +711,7 @@ Claim Timestamp: 00:08:29
 
 Claim: The host says the office that organized the SAM 702 flight was that of the Under Secretary of Defense for Intelligence, Bradley Hansell.
 
-Transcript Snippet: Now, the person whose office organized that plane is the Under Secretary of Defense for Intelligence, a man named Bradley Hantel.
+Transcript Snippet: Now, the person whose office organized that plane is the Under Secretary of Defense for Intelligence, a man named Bradley Hansell.
 
 Anchored Artifacts: 
 Mentions: N-434
@@ -756,7 +756,7 @@ Investigative Direction: Fort Huachuca visitor and meeting records for September
 
 Claim Timestamp: 00:09:33
 
-Claim: The host says Mitch Snow believes he saw Erika Kirk in a Fort Huachuca hotel lobby on September 8, leaving and getting into a green pickup truck. She says he recognized her eyes and that Hansel may have stayed at the same hotel.
+Claim: The host says Mitch Snow believes he saw Erika Kirk in a Fort Huachuca hotel lobby on September 8, leaving and jumping into a green pickup truck. She says her eyes reminded him of an ex-girlfriend's and he remembered them when he later saw her on stage at the memorial, and that Hansell may have stayed at the same hotel.
 
 Transcript Snippet: They saw her in that lobby on the 8th leaving, jumping into a green pickup truck, and her eyes reminded him of an ex-girlfriend's eyes, and that's why he clocked her.
 
@@ -792,7 +792,7 @@ Claim: The host says her FOIA request was moved to the back of the queue under a
 Transcript Snippet: They need to coordinate with multiple departments, and we're number 3,500 to hear back.
 
 Anchored Artifacts: A-2692.1
-Mentions: N-434, N-594
+Mentions: 
 Related Nodes: N-10671, N-10700, N-10888
 Investigative Direction: The FOIA acknowledgment letter and tracking number.
 
@@ -987,7 +987,7 @@ Claim: The host says the officers involved had immunity from prosecution in fore
 Transcript Snippet: So, in the end, DynCorp got off scot-free and just continued their relationship with the United States government.
 
 Anchored Artifacts: 
-Mentions: N-697
+Mentions: 
 Related Nodes: N-10993, N-10995
 Investigative Direction: Status of Forces agreements for Bosnia and DynCorp federal contract history after 2002.
 
@@ -1002,7 +1002,7 @@ Claim: The host says that in 2010, when the film about the scandal came out, Dyn
 Transcript Snippet: Now, when her movie about the scandal came out in 2010, DynCorp sold to Stephen Feinberg's Cerberus. It was owned by Cerberus for the next 10 years.
 
 Anchored Artifacts: 
-Mentions: N-694, N-697
+Mentions: N-694
 Related Nodes: N-10993, N-10992
 Investigative Direction: The 2010 Cerberus–DynCorp acquisition filing and the 2020 sale to Amentum.
 
@@ -1017,7 +1017,7 @@ Claim: The host says the New York Times article seemed well sourced and that Dan
 Transcript Snippet: I believe the New York Times article was very well sourced and I believe that one of their obvious sources to me as I read the article seemed like it was Dan Bongino.
 
 Anchored Artifacts: A-2691.1
-Mentions: N-379, N-5
+Mentions: N-379
 Related Nodes: N-10324
 Investigative Direction: The New York Times article's attributions; Bongino's public statements.
 
@@ -1032,7 +1032,7 @@ Claim: The host says Stephen Feinberg has said he divested from Cerberus Capital
 Transcript Snippet: I know since uh Stephen Feinberg has said that he has divested um from Cerberus Capital
 
 Anchored Artifacts: 
-Mentions: N-694, N-434
+Mentions: N-694
 Related Nodes: N-10992
 Investigative Direction: Feinberg's ethics agreement and OGE Form 278 disclosures.
 
@@ -1057,7 +1057,7 @@ Investigative Direction: Recent DOJ/OIP FOIA guidance and executive orders on cl
 
 Claim Timestamp: 00:25:18
 
-Claim: The host repeats that Erika Kirk was listed as an "emotional asset" after the White House Correspondents' Dinner shooting. She says the Department of War, under Hansel, Feinberg and Hegseth, orchestrated messaging to boost her artificially and wanted her to be the number one trend by morning.
+Claim: The host repeats that Erika Kirk was listed as an "emotional asset" after the White House Correspondents' Dinner shooting. She says the Department of War, under Hansell, Feinberg and Hegseth, orchestrated messaging to boost her artificially and wanted her to be the number one trend by morning.
 
 Transcript Snippet: were orchestrating messaging to artificially boost Erika. They wanted her as the number one trend by morning.
 
@@ -1117,7 +1117,7 @@ Investigative Direction: Archived copies of the ministry website and its financi
 
 Claim Timestamp: 00:34:14
 
-Claim: The host says Emily Ratajkowski became known for the "Blurred Lines" video. She says Ratajkowski and her husband separated within about a year of her giving birth.
+Claim: The host says Emily Ratajkowski became known for the "Blurred Lines" video. She says she believes Ratajkowski and her husband separated within a year of her giving birth.
 
 Transcript Snippet: Uh she gave birth, they were separated uh within a year, I believe
 
@@ -1137,7 +1137,7 @@ Claim: The host reads the title of Emily Ratajkowski's article in The Cut, "Moth
 Transcript Snippet: I'm going to show you this moment, how she dresses to go pick up her 5-year-old son from school pick up.
 
 Anchored Artifacts: A-2522.1
-Mentions: N-3
+Mentions: N-3, N-699
 Related Nodes: 
 Investigative Direction: Retrieve the article from The Cut and confirm the excerpt shown on air.
 
@@ -1182,7 +1182,7 @@ Claim: The host says the FBI took 20 days to deny her request and told her it wa
 Transcript Snippet: Why did you deny it my my 20 days and tell me that it's because it's too complicated. We're asking you for 3 days of someone's schedule.
 
 Anchored Artifacts: A-2692.2
-Mentions: N-69
+Mentions: 
 Related Nodes: N-10014, N-10202, N-10700
 Investigative Direction: The FBI FOIA denial letter and request number.
 
@@ -1207,12 +1207,12 @@ Investigative Direction: Autopsy and medical examiner findings; high-resolution 
 
 Claim Timestamp: 00:45:31
 
-Claim: Answering a viewer, the host says Charlie Kirk trusted those around him, saved himself for marriage, and that Erika was his first real relationship.
+Claim: Answering a viewer, the host says Charlie Kirk trusted those around him, saved himself for marriage, and that Erika would have been sort of his first real relationship.
 
 Transcript Snippet: And like I said, you know, Charlie saved himself for for marriage.
 
 Anchored Artifacts: 
-Mentions: N-1, N-2, N-11, N-14
+Mentions: N-1, N-2
 Related Nodes: 
 Investigative Direction: Charlie Kirk's own public statements on dating and marriage.
 
@@ -1222,7 +1222,7 @@ Investigative Direction: Charlie Kirk's own public statements on dating and marr
 
 Claim Timestamp: 00:47:10
 
-Claim: The host says Charlie let Erika take over the faith side of his life and that she brought in many pastors, whom he had no reason to suspect.
+Claim: The host says that if Erika urged Charlie to lean into faith, he would let her get involved in the faith department, as he did, and that she brought in many pastors, whom he had no reason to be suspicious of.
 
 Transcript Snippet: he lets her get involved in the faith department, as he did, and she's bringing in all these pastors
 
@@ -1395,7 +1395,7 @@ Confidence: high
 - **No DIA beats**: The keyword scan found only "tip" at 00:45:31 ("that's a very um kind tip"), which refers to a viewer's monetary tip, not a request for information; the other hits are substrings of "multiple". The host's thanks at 00:49:17 to viewers "that sent me these stories" has none of the DIA keywords and is not treated as a tip-line beat. No M-12 or M-14 occurrence.
 - **Self-corrections without a linkable prior claim**: C-4725 corrects the host's previous-episode statement that Erika entered Charlie's life in the same month as Epstein's death. C-4741 corrects her earlier statement that Hansel reports directly to Hegseth. Neither prior statement is in claims_index.tsv (episode 117 has no indexed claims), so no Revises link was added. The integrator may link them once episode 117 claims are minted.
 - **Cross-episode links**: C-4723 Supports C-2422, C-4724 Supports C-2421, C-4735 Supports C-2909, C-4736 Supports C-2913 and C-2930, and C-4739 Supports C-2906. Possible links left out: C-4723 vs C-2420 (that claim puts Kolvet and McCoy in the West Wing; here it is the executive office building and McCoy is not named), and C-4728/C-4729 vs C-2427 (ep 76, a different proposition about non-response). C-2981 and C-2985 (ep 122) restate C-4729 and C-4723 but are later episodes, so they are not linked.
-- **Name matching**: "Andrew Kolvet" (00:49, 01:42), "Andrew Kolvet" (01:42) and "Andrew Kobach" (10:20) are mapped to N-14 Andrew Kolvet from context (the alibi dispute, see C-2907). "Mikey McCormick's wife, Elizabeth Kravchuk" is mapped to N-191 Mikey McCoy and N-218 Eliza McCoy; skeleton episode 083 refers to "Elizabeth Kravchuk McCoy". "Bradley Hantel / Hansel / Hansell" are mapped to N-434. "Catherine Bolkovac" is the transcript spelling of whistleblower Kathryn Bolkovac (N-697). "Steven Feinberg" (12:59) is the same person as Stephen Feinberg (N-694). "Virginia" at 02:29 is taken as Virginia Giuffre, named in full at 06:38.
+- **Name matching**: "Andrew Kolvet" (00:49, 01:42), "Andrew Kolvet" (01:42) and "Andrew Kobach" (10:20) are mapped to N-14 Andrew Kolvet from context (the alibi dispute, see C-2907). "Mikey McCormick's wife, Elizabeth Kravchuk" is mapped to N-191 Mikey McCoy and N-218 Eliza McCoy; skeleton episode 083 refers to "Elizabeth Kravchuk McCoy". "Bradley Hansell / Hansel / Hansell" are mapped to N-434. "Catherine Bolkovac" is the transcript spelling of whistleblower Kathryn Bolkovac (N-697). "Steven Feinberg" (12:59) is the same person as Stephen Feinberg (N-694). "Virginia" at 02:29 is taken as Virginia Giuffre, named in full at 06:38.
 - **Transcription ambiguities**: "Turning Points USA Club of America" (likely TPUSA Club America) kept as spoken. "our F U SUVs" (26:20) is unclear and kept verbatim. "lorettopubs. org" (43:08) is an ad fragment. The host gives two different Iraq casualty figures (17 killed, then corrected to 14 killed and 20 injured); C-4745 uses the corrected figure. The host says Blackwater contracts ran "between 1997 and 2010" as spoken.
 - **Unminted names**: Nat Rothschild (12:59, joke about his boat), Bill Clinton (20:09), Gaddafi, Robin Thicke and Ben Johnston's employer locations are named in passing with no claim, so no nodes were added. Viewer handles (Gnome 2024, Israel Texas, Little bird, Naby, Sarah Bryant, James the least, Tony Hill, Anna, RN Explorer, El Sassinator) are not person nodes.
 - **Not inscribed as claims (admission test)**: Several statements are opinion, rhetoric or speculation:

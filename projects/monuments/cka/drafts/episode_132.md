@@ -941,7 +941,7 @@ Question of whether Charlie Kirk's wedding ring fell from his finger at the scen
 
 Claim Timestamp: 00:06:57
 
-Claim: Andrew Kolvet, in a public X post, asserted he had no idea whether the text messages shared by Candace Owens were authentic, framing any assumed-real release as an "evil thing" and as Candace "weaponizing" Charlie's private messages.
+Claim: Andrew Kolvet, in a public X post the host reads, asserted he had no idea whether the text messages shared by Candace Owens were authentic, said that for argument's sake, if real, releasing a man's private messages after his death "can be an evil thing", and said Candace was "weaponizing" Charlie's private messages.
 
 Anchored Artifacts: A-2189.1
 Mentions: N-14, N-3
@@ -952,10 +952,10 @@ Investigative Direction: Obtain independent forensic verification of the dispute
 
 Claim Timestamp: 00:07:44
 
-Claim: A Community Note attached to Kolvet's X post stated that the released text messages were from November 2023, falling within 22 months of Charlie Kirk's death on September 10, and observed that Kolvet had moved the goalpost from his prior challenge.
+Claim: Per a Twitter note the host reads, Kolvet previously challenged Owens to show proof of a genuine friendship from the last 12, 18 or 24 months, and the released texts are from November 2023, within 22 months of Charlie Kirk's death on September 10. The host adds that Kolvet cannot keep moving the goalpost.
 
 Anchored Artifacts: A-2189.2
-Mentions: N-1
+Mentions: N-1, N-14
 Related Nodes:
 Investigative Direction: Confirm that the November 2023 date corresponds to the text messages Candace referenced in the prior episode, and confirm the Community Note remains attached to the original Kolvet post.
 
@@ -977,7 +977,7 @@ Claim Timestamp: 00:13:20
 Claim: Erika Kirk, in a Fox News interview with Harris Faulkner, publicly requested that the location where Charlie Kirk is laid to rest remain a single sacred exception to the public disclosure she said applied to everything else.
 
 Anchored Artifacts: A-2191.1
-Mentions: N-1, N-2
+Mentions: N-1, N-2, N-801
 Related Nodes: N-10751
 Investigative Direction: Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial.
 
@@ -985,7 +985,7 @@ Investigative Direction: Confirm the interview air date, obtain the full transcr
 
 Claim Timestamp: 00:24:17
 
-Claim: In a sermon clip the host plays, Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounces "vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities" and frames himself as finishing Charlie Kirk's foundation.
+Claim: In a sermon clip the host plays, Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, says he refuses to allow the conservative movement to be taken over by "vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities" and says of what Charlie started, "we have the responsibility to finish."
 
 Anchored Artifacts: A-2192.2
 Mentions: N-1, N-2, N-527
@@ -1021,7 +1021,7 @@ Claim Timestamp: 00:32:55
 Claim: Andrew Kolvet, in an X post, denied that he, the TPUSA in-house lawyer, or CMO Marina Medvin were in Washington DC, and additionally denied a prior host claim that he had been in DC on January 29 meeting top brass and staging a pre-record with Kash Patel.
 
 Anchored Artifacts: A-2194.1
-Mentions: N-14, N-69
+Mentions: N-14, N-69, N-494, N-495, N-3
 Related Nodes: N-10752
 Investigative Direction: Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration.
 
@@ -1032,7 +1032,7 @@ Claim Timestamp: 00:30:59
 Claim: Devante West, via an Instagram video, posted content mocking contemporary Christian pastoral rhetoric and its repetition patterns, presented in the episode as a parallel commentary on Erika Kirk's tour speech style.
 
 Anchored Artifacts: A-2195.1
-Mentions: N-2
+Mentions: N-824, N-2
 Related Nodes:
 Investigative Direction: Verify the original Instagram post remains accessible and identify the target of the mockery if specified.
 
@@ -1043,11 +1043,11 @@ Claim Timestamp: 00:01:07
 Claim: Candace Owens claims an exclusive report that Dr. Deidra Amaro resigned from her position as Utah Chief Medical Examiner, with no official reason provided.
 
 Anchored Artifacts: None displayed in this episode (host verbal assertion only)
-Mentions: N-3
+Mentions: N-3, N-177
 Related Nodes: N-10749
 Investigative Direction: Obtain primary source confirmation from the Utah Department of Health, official press release, or public records. Flag as "Artifact verbally referenced but not shown" and "Requires human verification."
 
-**C-3148** Host asserts wedding ring observed falling from Charlie Kirk's finger in casket footage
+**C-3148** Host Says Charlie Kirk's Wedding Ring Had an Open Clasp and Was Never Recovered
 
 Claim Timestamp: 00:44:04
 
@@ -1065,7 +1065,7 @@ Claim Timestamp: 00:17:17
 Claim: Candace Owens reports receiving a "solid tip" that a 911 call placed by Charlie's security team during transport to the hospital lasted approximately 3–5 minutes, did not result in operator engagement, and captured the phrases "We got him. We are taking him to the hospital," "Get that off of him," and "Get out of the way."
 
 Anchored Artifacts: A-2197.1
-Mentions: N-3
+Mentions: N-3, N-1
 Related Nodes: N-10750
 Investigative Direction: File records requests for the underlying 911 audio and CAD records; cross-reference against any released call logs; verify the identity of the caller and whether the call was logged as abandoned. Flag as "Artifact verbally referenced but not shown" and "Requires human verification."
 
@@ -1107,7 +1107,7 @@ Investigative Direction: Locate Amaro's own statement of the descent and the gen
 
 Claim Timestamp: 00:01:07
 
-Claim: The host says she is hearing that many people are resigning across the board, particularly at Utah Valley University and at police departments, because of a general sense of corruption they want to leave.
+Claim: The host says she is hearing that there are a lot of resignations happening across the board, particularly at Utah Valley University and at police departments, which she says all seem to be occurring because people have a general sense of corruption they would like to remove themselves from.
 
 Transcript Snippet: Now, I am actually hearing that there are a lot of resignations happening, full stop, across the board, uh particularly at UVU, also at police departments
 
@@ -1427,7 +1427,7 @@ Investigative Direction: Identify who filmed and released the casket footage, wh
 
 ---
 
-**C-9029** Host Says the Camera Was Very Close to Erika as She Said Goodbye in the Casket Clip
+**C-9029** Host Asks Viewers to Consider the Camera Distance to Erika at the Casket
 
 Claim Timestamp: 00:11:03
 
@@ -1627,7 +1627,7 @@ Investigative Direction: Obtain phone records of the vehicle occupants for the t
 
 Claim Timestamp: 00:16:25
 
-Claim: The host says TPUSA's accounts cast everyone as a hero: Frank Turek doing CPR, and Mikey McCoy jumping into action by dialing up the vice president and making arrangements, yet nobody claims the 911 call.
+Claim: The host says TPUSA's accounts cast everyone as a hero: Frank Turek maybe or maybe not doing CPR while no one is looking, and Mikey McCoy jumping into action by dialing up the vice president and making arrangements, yet nobody claims the 911 call.
 
 Transcript Snippet: Frank maybe is or is not doing CPR while no one's looking. Uh Mikey has jumped into action and he is amazing and he's dialing up the vice president, making arrangements.
 
@@ -1893,7 +1893,7 @@ Transcript Snippet: And she's reading off of an iPad. She's not just riffing.
 Anchored Artifacts: A-2193.1
 Mentions: N-2
 Related Nodes: N-11203
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Review the full video of the speech for a visible device or teleprompter.
 
 ---
@@ -2078,7 +2078,7 @@ Investigative Direction: Check official announcements of the funeral and Netanya
 
 Claim Timestamp: 00:35:05
 
-Claim: The host says Netanyahu is flying in for the same reason Zelensky is, which she says is to dictate terms in the situation room.
+Claim: The host says Netanyahu is flying in for the same reason Zelensky is, which she says is that when these killers come to DC it is to dictate their terms, and that Netanyahu will probably be in the situation room telling Trump who else has to die.
 
 Transcript Snippet: Bibi Netanyahu is saying that he is flying in for the same reason Zelensky is flying in.
 
@@ -2207,7 +2207,7 @@ Investigative Direction: Consult the court record in the Kouri Richins case for 
 
 Claim Timestamp: 00:42:44
 
-Claim: The host says Pastor Russell obviously works for pro-Israel Christians United for Israel, that all he cares about is Israel, and that this is why Erika Kirk has partnered with him.
+Claim: The host says Pastor Russell obviously works for pro-Israel Christians United for Israel, that all he cares about is Israel, and that this is why Erika Kirk has partnered with him, because it is apparently all she cares about.
 
 Transcript Snippet: he's obviously works for every pro-Israel Christians United for Israel. Like, this is actually him. Like, all he cares about is Israel and that's why Erika's partnered with him
 
@@ -2236,7 +2236,7 @@ Investigative Direction: Compare with the night-before group text (C-4704) and o
 
 ---
 
-**C-9079** Host Says the Donors Were Not Having Charlie Keeping the Money
+**C-9079** Host Says They Were Not Having Charlie Keep the Money
 
 Claim Timestamp: 00:43:29
 
@@ -2322,7 +2322,7 @@ Investigative Direction: Identify the three rings from family photos and the one
 
 Claim Timestamp: 00:45:01
 
-Claim: The host says the ring was probably never recovered because the scene was paved over in a couple of days, probably leaving the ring with it.
+Claim: The host says she is told the ring was never recovered, and speculates this is probably because the scene was paved over within a couple of days and the ring was probably left with it.
 
 Transcript Snippet: Which is odd probably because they paved over the scene in a couple of days probably just left the ring with it or something.
 

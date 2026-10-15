@@ -67,7 +67,7 @@ Confidence Level: Medium
 
 **A-2076.2** Host's internal working timeline graphic (displayed on-screen, June–September 2025)
 
-Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnny Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansell confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Ginan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Catis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dhillon Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
+Host states this is "my internal working timeline… not everything is necessarily a clue." Displayed dated entries include: June 2 (Wedad Makmoud aboard Egyptian plane to/from Provo; Tucson–Fort Huachuca flight training school); June 3 (Johnny Moore announced as GHF chairman); June 4 (Charlie Kirk at Dream City); June 13 (Iran–Israel 12-day war); June 18 (Charlie Kirk enters White House); June 19 (Erika Kirk Instagram purge, 126 posts deleted); June 22 (Operation Midnight Hammer); June 25 (Hansell confirmation, mis-placed per host); June 26 (Israel–Iran war ends; Claire Ginan first Jezebel article; Etsy witch spell against Charlie Kirk); July 2 (Rob McCoy resignation); July 4 (FT Project Aurora article); July 11 (Tucker Carlson at TPUSA, calls out Epstein); July 14 (Erika Kirk at Calvary Chapel / James Kaddis); July 18 (TPUSA UVU submission); July 20 (Charlie Kirk vacations Maine); July 22 (Nebraska–Egypt trade trip); July 25 (Refi #1 sponsor); July 30 (Palantir $10B at Fort Huachuca); August 5–7 (Hamptons intervention); August 27 (Dhillon Law Group drafts Havas Media / Clock Tower LLC paperwork); September 9 (Charlie's messages and Zoom call with Josh Hammer and a rabbi).
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -1738,9 +1738,9 @@ Investigative Direction: Check the announcement date in the Times of Israel and 
 
 Claim Timestamp: 00:27:32
 
-Claim: The host says a flight from Tucson to Fort Huachuca on September 8 looked associated with a flight training school that recently got a new CEO, named by her as Matt Bramberg, who is connected to Raytheon and Northrop Grumman, adding that it could be nothing.
+Claim: The host says a flight from Tucson to Fort Huachuca on September 8 looked associated with a flight training school that recently got a new CEO, named by her as Matt Bromberg, who is connected to Raytheon and Northrop Grumman, adding that it could be nothing.
 
-Transcript Snippet: it looked like it was a flight uh that was associated with a flight training school. So I just noted that that flight training school did get a new CEO um named Matt Bramberg who is connected to Raytheon and Northrop Grumman.
+Transcript Snippet: it looked like it was a flight uh that was associated with a flight training school. So I just noted that that flight training school did get a new CEO um named Matt Bromberg who is connected to Raytheon and Northrop Grumman.
 
 Anchored Artifacts: A-2076.2
 Related Nodes: N-10671, N-11324, N-11123
@@ -1908,13 +1908,13 @@ Investigative Direction: Check the speech transcript for the foreign-army and Ac
 
 ---
 
-**C-14671** Host Says Erika Spoke at James Catis' Calvary Chapel in Long Beach on July 14
+**C-14671** Host Says Erika Spoke at James Kaddis' Calvary Chapel in Long Beach on July 14
 
 Claim Timestamp: 00:30:55
 
-Claim: The host says that on July 14, 2025 Erika Kirk traveled to Long Beach, California to speak at James Catis' Calvary Chapel for its Women's Summer of Psalms retreat.
+Claim: The host says that on July 14, 2025 Erika Kirk traveled to Long Beach, California to speak at James Kaddis' Calvary Chapel for its Women's Summer of Psalms retreat.
 
-Transcript Snippet: Erika travels to Long Beach, California to speak at James Catis' Calvary Chapel Church for their Women's Summer of Psalms retreat.
+Transcript Snippet: Erika travels to Long Beach, California to speak at James Kaddis' Calvary Chapel Church for their Women's Summer of Psalms retreat.
 
 Anchored Artifacts: A-2076.2
 Mentions: N-2, N-668
@@ -1924,13 +1924,13 @@ Investigative Direction: Find the retreat program or video and flight records fo
 
 ---
 
-**C-14672** Host Says James Catis Heads the Turning Point USA Faith Department
+**C-14672** Host Says James Kaddis Heads the Turning Point USA Faith Department
 
 Claim Timestamp: 00:31:00
 
-Claim: The host says James Catis heads up the Turning Point USA faith department.
+Claim: The host says James Kaddis heads up the Turning Point USA faith department.
 
-Transcript Snippet: That's interesting because James Catis heads up the Turning Point USA faith department.
+Transcript Snippet: That's interesting because James Kaddis heads up the Turning Point USA faith department.
 
 Anchored Artifacts: 
 Mentions: N-668
@@ -2448,7 +2448,7 @@ Investigative Direction: Read the FARA filings she refers to for geofencing and 
 
 ---
 
-**C-14706** Host Implies the Same Forces Took Out JFK, RFK and Other Catholics
+**C-14706** Host Says "We Definitely Know Who" Is Taking Out Catholics
 
 Claim Timestamp: 00:52:00
 
@@ -2649,7 +2649,7 @@ Confidence: high
 
 4. **Name uncertainty – "Kristoff Schweizer":** Likely standard spelling "Kristoff Schweizer" (BCG CEO); preserved per host.
 
-5. **Name uncertainty – "James Catis":** Possibly "James Catis" or "James Kitis" or similar; preserved as host spelling.
+5. **Name uncertainty – "James Kaddis":** Possibly "James Kaddis" or "James Kitis" or similar; preserved as host spelling.
 
 6. **Name uncertainty – "Tachlith Institute" / "Tachlith Institute":** Host uses both; uncertain spelling; preserved as "Tacit/Tachlith Institute."
 

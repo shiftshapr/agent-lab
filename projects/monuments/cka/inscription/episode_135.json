@@ -1527,7 +1527,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:06:16",
-      "investigative_direction": "Confirm authorship via Penguin Random House's official catalog or Library of Congress records; cross-reference Ashley's CV."
+      "investigative_direction": "Confirm authorship via Penguin Random House's official catalog or Library of Congress records; cross-reference Ashley's CV.",
+      "mentions_person_refs": [
+        "N-899"
+      ]
     },
     {
       "@type": "Claim",
@@ -1548,7 +1551,7 @@
       "@id": "C-3177",
       "ref": "C-3177",
       "label": "Harpole preliminary hearing testimony content",
-      "claim": "Brian Harpole's preliminary hearing testimony, as played in the episode, states he cut Charlie Kirk's shirt with scissors, then discussed drug administration with the medical staff, then exited the room and guarded the door.",
+      "claim": "Brian Harpole's preliminary hearing testimony, as played in the episode, states he cut Charlie Kirk's shirt off, then discussed drug administration with the medical staff, then exited the room and guarded the door.",
       "anchored_artifacts": [
         "A-2219.1"
       ],
@@ -1566,7 +1569,7 @@
       "@id": "C-3178",
       "ref": "C-3178",
       "label": "Anesthesiologist wound-pattern assessment",
-      "claim": "Per the anesthesiologist's email, the observed wound pattern (blood/tissue eruption from left neck) is more consistent with an exit wound from a rear shot, or with a shaped charge originating from the chest area, than with a frontal bullet hit.",
+      "claim": "Per the anesthesiologist's email the host reads, the eruption of blood or tissue from the left neck is more consistent with an exit wound, though a bullet entering the left neck cannot be ruled out; there is no evidence of a shot from behind, and a frontal hit would have sent his torso backwards, so a shaped charge from the right chest is the best fit.",
       "anchored_artifacts": [
         "A-2220.1"
       ],
@@ -1604,7 +1607,7 @@
       "@id": "C-3180",
       "ref": "C-3180",
       "label": "Anesthesiologist scene equipment assessment",
-      "claim": "Per the anesthesiologist's email, no ambulance with resuscitative equipment or trained personnel was immediately available at the scene (no defibrillators, no IV drugs), and Charlie's neck was not stabilized before transport.",
+      "claim": "Per the anesthesiologist's email, no ambulance with resuscitative equipment or trained personnel was immediately available at the scene (no defibrillators, no access to IV drugs), and Charlie's neck should have been stabilized before moving him.",
       "anchored_artifacts": [
         "A-2220.1"
       ],
@@ -1623,7 +1626,7 @@
       "@id": "C-3181",
       "ref": "C-3181",
       "label": "Nurse autopsy timeline analysis",
-      "claim": "Per the nurse's email, the autopsy timeline only supports approximately 3 hours in the morgue given typical body cooling rate (8 hours to reach 40°F), and the medical examiner's protocol appears rushed.",
+      "claim": "Per the transplant coordinator's email the host reads, it takes at least eight hours for deep core body temperature to reach 40 degrees in a morgue cooler, so the timeline would only support about three hours in the morgue, depending on how much time Erika spent with him; the host then says the autopsy was rushed.",
       "anchored_artifacts": [
         "A-2220.2"
       ],
@@ -1634,7 +1637,8 @@
       "claim_timestamp": "00:35:15",
       "investigative_direction": "Obtain morgue intake logs, time of arrival, time of autopsy start, and medical examiner office cooling protocols.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-2"
       ]
     },
     {
@@ -1687,7 +1691,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:10:36",
-      "investigative_direction": "Locate the original source recording (lecture, podcast, conference talk) and verify attribution to Ashley Brown Guajardo."
+      "investigative_direction": "Locate the original source recording (lecture, podcast, conference talk) and verify attribution to Ashley Brown Guajardo.",
+      "mentions_person_refs": [
+        "N-899"
+      ]
     },
     {
       "@type": "Claim",
@@ -1770,7 +1777,7 @@
       "@id": "C-3189",
       "ref": "C-3189",
       "label": "Patient transfer via shuttle tip (verbal source)",
-      "claim": "Per host's verbal source, ER patients were subsequently transferred via shuttle to Intermountain/Utah Valley Hospital at approximately 11:30 a.m. on September 10, 2025.",
+      "claim": "Per host's verbal source, ER patients were informed at approximately 11:30 a.m. on September 10, 2025 that they would be transferred via shuttle to Intermountain/Utah Valley Hospital, and that is what happened.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10765",
@@ -2192,7 +2199,7 @@
       "@id": "C-11652",
       "ref": "C-11652",
       "label": "Host Reads Bio Saying Ashley Was Faculty at Brunel and the University of Utah",
-      "claim": "The host reads from Dr. Ashley Brown Guajardo's bio that she was previously faculty at Brunel University in London and then the University of Utah, where she won awards for innovative and inclusive teaching.",
+      "claim": "The host reads from Dr. Ashley Brown Guajardo's bio that she was previously faculty at Brunel University in London and then the University of Utah, and won awards for innovative and inclusive teaching at both institutions.",
       "anchored_artifacts": [
         "A-3147.1"
       ],
@@ -2537,7 +2544,7 @@
       "@id": "C-11668",
       "ref": "C-11668",
       "label": "Host Says No Hospital Eyewitnesses Have Come Forward to Harpole's ER Scene",
-      "claim": "The host says it is odd that there were no eyewitnesses to the ER scene Brian Harpole described, and asks where the doctors, nurses and other patients are.",
+      "claim": "The host says it is odd that there were no eyewitnesses to the extremely erratic, chaotic and improbable ER scene Brian Harpole depicted, and asks where the witnesses are.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10573",
@@ -2955,7 +2962,7 @@
       "@id": "C-11687",
       "ref": "C-11687",
       "label": "Transplant Coordinator Email Says Thoracic Trauma Is Not Seen in Head or Neck Gunshot Wounds",
-      "claim": "The transplant coordinator's email says she has never seen thoracic trauma or hemorrhaging in a gunshot wound to the head or neck, and that it would take blunt force trauma to the chest, which would fit an exploding microphone under the shirt.",
+      "claim": "The transplant coordinator's email says the writer has never seen thoracic trauma or hemorrhaging in a gunshot wound to the head or neck, and that it would take blunt force trauma to the chest, which would fit an exploding microphone under the shirt.",
       "anchored_artifacts": [
         "A-2220.2"
       ],
@@ -3024,7 +3031,7 @@
       "@id": "C-11690",
       "ref": "C-11690",
       "label": "Host Says a Body Can Wait About 12 Hours Before Decomposition",
-      "claim": "The host says her team found that a body begins to decompose after about 12 hours, so immediate autopsy would not be illegal even though it departs from normal practice.",
+      "claim": "The host says she thinks, from her team's research, that a body can wait about 12 hours before decomposition begins, so an immediate autopsy would not be illegal even though it departs from normal practice.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10767"

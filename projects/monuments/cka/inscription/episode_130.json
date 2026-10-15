@@ -2017,7 +2017,7 @@
       "@id": "C-3107",
       "ref": "C-3107",
       "label": "Stern Gang Attempted Letter-Bomb Assassination of Truman in 1947",
-      "claim": "A 1947 New York Times article attributes to Margaret Truman Daniel's biography an account that the Stern gang of Zionist terrorists attempted to assassinate President Truman by letter bomb using cream-colored envelopes rigged with powdered gelatin, a pencil battery, and a detonator.",
+      "claim": "Per a New York Times article the host shows, the Stern gang of Zionist terrorists attempted to assassinate President Truman by letter bomb in 1947, according to Margaret Truman Daniel's biography, which describes cream-colored envelopes rigged with powdered gelatin, a pencil battery, and a detonator.",
       "anchored_artifacts": [
         "A-2171.1"
       ],
@@ -2047,7 +2047,7 @@
       "@id": "C-3109",
       "ref": "C-3109",
       "label": "Six Mormon Aides Recruited by Summa Corporation Controlled Howard Hughes in Final Years",
-      "claim": "A 1976 Time magazine article titled \"The Keepers of the King\" states that six Mormon aides, recruited by the Summa Corporation and led by Bill Gay, attended Howard Hughes in 8-hour shifts, were paid up to $110,000 per year, censored his communications, and controlled his public image.",
+      "claim": "Per a 1976 Time magazine article titled \"The Keepers of the King\" the host shows, six Mormon aides recruited by the Summa Corporation, with Bill Gay himself attending Howard Hughes day and night in 8-hour shifts, were paid up to $110,000 a year each, decided which messages reached him, censored his reading matter, and controlled him and his public image.",
       "anchored_artifacts": [
         "A-2173.1"
       ],
@@ -2057,7 +2057,10 @@
       "tags": [],
       "claim_timestamp": "00:14:54",
       "investigative_direction": "Obtain the full 1976 Time article and corroborating contemporaneous coverage; cross-reference Summa Corporation employment records for Bill Gay and the named assistants.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-744",
+        "N-745"
+      ]
     },
     {
       "@type": "Claim",
@@ -2084,7 +2087,7 @@
       "@id": "C-3111",
       "ref": "C-3111",
       "label": "Kolvet Asserted Daily Mail Did Not Request Comment Before Publication",
-      "claim": "Andrew Kolvet's X post asserts that the Daily Mail did not send the Kirk organization a request for comment before publication.",
+      "claim": "Per Andrew Kolvet's X post as the host reads it, the Kirk organization never received a request for comment from the Daily Mail, and they were told one was attempted but could not find it.",
       "anchored_artifacts": [
         "A-2174.1"
       ],
@@ -2122,7 +2125,7 @@
       "@id": "C-3113",
       "ref": "C-3113",
       "label": "Kolvet Asserted Erika Has Never Been Heard to Swear",
-      "claim": "Andrew Kolvet's X post asserts that Erika has never been heard to swear, privately or publicly.",
+      "claim": "Andrew Kolvet's X post, as the host reads it, says he has personally never heard Erika swear at someone.",
       "anchored_artifacts": [
         "A-2174.1"
       ],
@@ -2233,7 +2236,7 @@
       "@id": "C-5922",
       "ref": "C-5922",
       "label": "Kanye West alluded to a Zionist mafia after trainer Harley Pasternak allegedly threatened to drug him",
-      "claim": "The host says Kanye West alluded to a Zionist mafia after his gym trainer, Harley Pasternak, threatened to drug him and take his children away, and that Michael Jackson alluded to the same before his death.",
+      "claim": "The host says Kanye West alluded to a Zionist mafia after his gym trainer, Harley Pasternak, threatened to drug him and take his children away, and that she thinks Michael Jackson alluded to the same before his death.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2982,7 +2985,7 @@
       "@id": "C-5962",
       "ref": "C-5962",
       "label": "Host says Bowyer brought Erika in, both admitted it, and Erika cannot recall how she knows him",
-      "claim": "The host says Tyler Bowyer brought Erika into the organization, that both have admitted it, but that Erika told her she could not recall how she knows him, suggesting maybe through Senator Jon Kyl.",
+      "claim": "The host says Tyler Bowyer brought Erika in, that both have admitted it, and that Erika told her face to face she cannot recall how she knows him, maybe through Senator Jon Kyl.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -3268,7 +3271,8 @@
       "investigative_direction": "Catalogue specific TPUSA policy positions that changed after September 2025 against Charlie Kirk's earlier statements.",
       "transcript_snippet": "The very people that he trusted the most in his inner circle are doing a 180 on the things that Charlie believed.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-744"
       ]
     },
     {
@@ -3276,7 +3280,7 @@
       "@id": "C-5977",
       "ref": "C-5977",
       "label": "Host says she has many group chats and messages with Kolvet and Bowyer",
-      "claim": "The host says she has too many messages and group chats with Andrew Kolvet and Tyler Bowyer to count (transcript renders the first name as Klavan), and that his Shapiro friendship claim was dishonest.",
+      "claim": "The host says she has way too many messages and group chats with Andrew Kolvet and Tyler Bowyer to count, and that his claim that Charlie and Ben Shapiro were friends took a level of dishonesty.",
       "anchored_artifacts": [
         "A-2789.2"
       ],
@@ -3284,7 +3288,7 @@
       "tags": [],
       "claim_timestamp": "00:33:36",
       "investigative_direction": "Review the group chats to confirm the participants and dates.",
-      "transcript_snippet": "I just have way too many messages, group chats with Andrew Klavan, with Tyler",
+      "transcript_snippet": "I just have way too many messages, group chats with Andrew Kolvet, with Tyler",
       "mentions_person_refs": [
         "N-14",
         "N-11",
@@ -3315,7 +3319,7 @@
       "@id": "C-5979",
       "ref": "C-5979",
       "label": "Host says Neff said Charlie had issues with Shapiro but saw him as an ally",
-      "claim": "The host says Blake Neff said on a podcast that Charlie Kirk had issues with Ben Shapiro but considered him at least an ally in the movement, was constantly texting about him and making fun of him.",
+      "claim": "The host says Blake Neff said on a podcast that Charlie Kirk had issues with Ben Shapiro but considered him at least an ally in the movement.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11064"
@@ -3756,7 +3760,7 @@
         "C-3017"
       ],
       "mentions_person_refs": [
-        "N-331"
+        "N-3"
       ]
     },
     {
@@ -3843,9 +3847,7 @@
       "investigative_direction": "Identify which influencers attended the preliminary hearing and who invited them.",
       "transcript_snippet": "What an atrocious idea if you're the PR team to have Erika invite influencers into the courtroom.",
       "mentions_person_refs": [
-        "N-2",
-        "N-609",
-        "N-89"
+        "N-2"
       ]
     },
     {

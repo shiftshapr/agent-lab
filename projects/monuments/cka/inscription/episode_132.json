@@ -1902,7 +1902,7 @@
       "@id": "C-3138",
       "ref": "C-3138",
       "label": "Kolvet publicly disputed authenticity of text messages shared by Candace Owens",
-      "claim": "Andrew Kolvet, in a public X post, asserted he had no idea whether the text messages shared by Candace Owens were authentic, framing any assumed-real release as an \"evil thing\" and as Candace \"weaponizing\" Charlie's private messages.",
+      "claim": "Andrew Kolvet, in a public X post the host reads, asserted he had no idea whether the text messages shared by Candace Owens were authentic, said that for argument's sake, if real, releasing a man's private messages after his death \"can be an evil thing\", and said Candace was \"weaponizing\" Charlie's private messages.",
       "anchored_artifacts": [
         "A-2189.1"
       ],
@@ -1920,7 +1920,7 @@
       "@id": "C-3139",
       "ref": "C-3139",
       "label": "Twitter Community Note corrected Kolvet's framing about text message timeline",
-      "claim": "A Community Note attached to Kolvet's X post stated that the released text messages were from November 2023, falling within 22 months of Charlie Kirk's death on September 10, and observed that Kolvet had moved the goalpost from his prior challenge.",
+      "claim": "Per a Twitter note the host reads, Kolvet previously challenged Owens to show proof of a genuine friendship from the last 12, 18 or 24 months, and the released texts are from November 2023, within 22 months of Charlie Kirk's death on September 10. The host adds that Kolvet cannot keep moving the goalpost.",
       "anchored_artifacts": [
         "A-2189.2"
       ],
@@ -1929,7 +1929,8 @@
       "claim_timestamp": "00:07:44",
       "investigative_direction": "Confirm that the November 2023 date corresponds to the text messages Candace referenced in the prior episode, and confirm the Community Note remains attached to the original Kolvet post.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-14"
       ]
     },
     {
@@ -1970,7 +1971,8 @@
       "investigative_direction": "Confirm the interview air date, obtain the full transcript, and verify the exact exchange against subsequent statements about a Turning Point USA memorial.",
       "mentions_person_refs": [
         "N-1",
-        "N-2"
+        "N-2",
+        "N-801"
       ]
     },
     {
@@ -1978,7 +1980,7 @@
       "@id": "C-3142",
       "ref": "C-3142",
       "label": "Pastor Russell denounced named political opponents in sermon",
-      "claim": "In a sermon clip the host plays, Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, denounces \"vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities\" and frames himself as finishing Charlie Kirk's foundation.",
+      "claim": "In a sermon clip the host plays, Pastor Russell, preaching at Pursuit Church in a sermon connected to Erika Kirk's Make Heaven Crowded tour, says he refuses to allow the conservative movement to be taken over by \"vitriolic Jew haters, white nationalist, anti-semites, or Muslim-funded ex-Fox News personalities\" and says of what Charlie started, \"we have the responsibility to finish.\"",
       "anchored_artifacts": [
         "A-2192.2"
       ],
@@ -2043,7 +2045,10 @@
       "investigative_direction": "Cross-reference with White House visitor logs (subject to release), publicly verifiable schedules, and the host's claimed source corroboration.",
       "mentions_person_refs": [
         "N-14",
-        "N-69"
+        "N-69",
+        "N-494",
+        "N-495",
+        "N-3"
       ]
     },
     {
@@ -2060,6 +2065,7 @@
       "claim_timestamp": "00:30:59",
       "investigative_direction": "Verify the original Instagram post remains accessible and identify the target of the mockery if specified.",
       "mentions_person_refs": [
+        "N-824",
         "N-2"
       ]
     },
@@ -2077,14 +2083,15 @@
       "claim_timestamp": "00:01:07",
       "investigative_direction": "Obtain primary source confirmation from the Utah Department of Health, official press release, or public records. Flag as \"Artifact verbally referenced but not shown\" and \"Requires human verification.\"",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-177"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-3148",
       "ref": "C-3148",
-      "label": "Host asserts wedding ring observed falling from Charlie Kirk's finger in casket footage",
+      "label": "Host Says Charlie Kirk's Wedding Ring Had an Open Clasp and Was Never Recovered",
       "claim": "Candace Owens states, in response to a YouTube comment, that Charlie Kirk's wedding ring had an open clasp, that the ring can be seen falling off his finger in certain footage, and that she has been told the ring was never recovered.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2112,7 +2119,8 @@
       "claim_timestamp": "00:17:17",
       "investigative_direction": "File records requests for the underlying 911 audio and CAD records; cross-reference against any released call logs; verify the identity of the caller and whether the call was logged as abandoned. Flag as \"Artifact verbally referenced but not shown\" and \"Requires human verification.\"",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-1"
       ]
     },
     {
@@ -2163,7 +2171,7 @@
       "@id": "C-9009",
       "ref": "C-9009",
       "label": "Host Hears of Wider Resignations at UVU and Police Departments",
-      "claim": "The host says she is hearing that many people are resigning across the board, particularly at Utah Valley University and at police departments, because of a general sense of corruption they want to leave.",
+      "claim": "The host says she is hearing that there are a lot of resignations happening across the board, particularly at Utah Valley University and at police departments, which she says all seem to be occurring because people have a general sense of corruption they would like to remove themselves from.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10012"
@@ -2630,7 +2638,7 @@
       "@type": "Claim",
       "@id": "C-9029",
       "ref": "C-9029",
-      "label": "Host Says the Camera Was Very Close to Erika as She Said Goodbye in the Casket Clip",
+      "label": "Host Asks Viewers to Consider the Camera Distance to Erika at the Casket",
       "claim": "The host asks viewers to consider the distance of the camera to Erika Kirk as she says goodbye to her husband in the clip played on air.",
       "anchored_artifacts": [
         "A-2983.1"
@@ -2911,7 +2919,7 @@
       "@id": "C-9041",
       "ref": "C-9041",
       "label": "Host Recounts TPUSA Narrative of Frank Turek Doing CPR and Mikey McCoy Calling the Vice President",
-      "claim": "The host says TPUSA's accounts cast everyone as a hero: Frank Turek doing CPR, and Mikey McCoy jumping into action by dialing up the vice president and making arrangements, yet nobody claims the 911 call.",
+      "claim": "The host says TPUSA's accounts cast everyone as a hero: Frank Turek maybe or maybe not doing CPR while no one is looking, and Mikey McCoy jumping into action by dialing up the vice president and making arrangements, yet nobody claims the 911 call.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10692"
@@ -3286,7 +3294,7 @@
         "N-11203"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:28:37",
       "investigative_direction": "Review the full video of the speech for a visible device or teleprompter.",
@@ -3559,7 +3567,7 @@
       "@id": "C-9069",
       "ref": "C-9069",
       "label": "Host Says Netanyahu and Zelensky Fly In to Dictate Terms",
-      "claim": "The host says Netanyahu is flying in for the same reason Zelensky is, which she says is to dictate terms in the situation room.",
+      "claim": "The host says Netanyahu is flying in for the same reason Zelensky is, which she says is that when these killers come to DC it is to dictate their terms, and that Netanyahu will probably be in the situation room telling Trump who else has to die.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10752"
@@ -3735,7 +3743,7 @@
       "@id": "C-9077",
       "ref": "C-9077",
       "label": "Host Says Pastor Russell Works With Christians United for Israel and Erika Partnered With Him for That Reason",
-      "claim": "The host says Pastor Russell obviously works for pro-Israel Christians United for Israel, that all he cares about is Israel, and that this is why Erika Kirk has partnered with him.",
+      "claim": "The host says Pastor Russell obviously works for pro-Israel Christians United for Israel, that all he cares about is Israel, and that this is why Erika Kirk has partnered with him, because it is apparently all she cares about.",
       "anchored_artifacts": [
         "A-2192.2"
       ],
@@ -3781,7 +3789,7 @@
       "@type": "Claim",
       "@id": "C-9079",
       "ref": "C-9079",
-      "label": "Host Says the Donors Were Not Having Charlie Keeping the Money",
+      "label": "Host Says They Were Not Having Charlie Keep the Money",
       "claim": "The host says that after Charlie told them to keep the money, they were not having that.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3900,7 +3908,7 @@
       "@id": "C-9084",
       "ref": "C-9084",
       "label": "Host Speculates the Ring Was Left Behind When the Scene Was Paved Over in a Couple of Days",
-      "claim": "The host says the ring was probably never recovered because the scene was paved over in a couple of days, probably leaving the ring with it.",
+      "claim": "The host says she is told the ring was never recovered, and speculates this is probably because the scene was paved over within a couple of days and the ring was probably left with it.",
       "anchored_artifacts": [
         "A-2196.5"
       ],

@@ -1,0 +1,772 @@
+[
+ {
+  "claim": "C-3156",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Phelan and Epstein (plane) but Mentions lists only Brunel. Host reads Wikipedia: \"Failen flew with 12 other passengers, including Epstein, modeling agent... Jean Luke Brunell\".",
+  "fix": {
+   "mentions": [
+    "N-785",
+    "N-9",
+    "N-530"
+   ]
+  }
+ },
+ {
+  "claim": "C-3157",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3158",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names \"Epstein\" (lyrics: \"You told Epstein... Epste.\") but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-9"
+   ]
+  }
+ },
+ {
+  "claim": "C-3159",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3160",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3161",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7352",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: meeting for \"Andrew Kolvet, the chief marketing officer, Marina Minez... COO Justin Streiff... counsel Frank\". Claim makes Kolvet the CMO. Unresolved name: Marina Minez. Host: \"allegedly... maybe I got the wrong day\".",
+  "fix": {
+   "claim": "The host says a White House employee confirmed to her that a White House meeting was on the books for Andrew Kolvet, the chief marketing officer (Marina), the chief operating officer Justin Streiff and in-house legal counsel Frank, and that it was allegedly scheduled for the same day or week Benjamin Netanyahu was in town."
+  }
+ },
+ {
+  "claim": "C-7353",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7354",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7355",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7356",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7357",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7358",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7359",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7360",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7361",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7362",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7363",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says she held the material since October to protect sources and see who the liars were; separately \"I was told that at the preliminary hearing they would be forthcoming... by Erika.\" Claim makes it the sole reason.",
+  "fix": {
+   "claim": "The host says she held onto something since October partly because she was told, by Erika Kirk, that at the preliminary hearing they would be forthcoming about anything and everything they had."
+  }
+ },
+ {
+  "claim": "C-7364",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7365",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7366",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"the guy who recorded the footage specifically said, told us that he saw no recoil.\" Claim says he told investigators; she says \"told us\". \"I would argue\" hedge is kept.",
+  "fix": {
+   "claim": "The host says the person who recorded the footage told her audience he saw no recoil, which she argues would be impossible for the alleged model of rifle."
+  }
+ },
+ {
+  "claim": "C-7367",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7368",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7369",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7370",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7371",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7372",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I believe low-key people found online. Loki, who was near the amphitheater, was given the scent... Freya... I am told.\" Loki name came from online, only Freya is \"told\".",
+  "fix": {
+   "claim": "The host says people online found that the dog given the scent near the amphitheater was Loki, and that she is told the bomb dog searching the field was Freya, who she is told had a broken nose that day."
+  }
+ },
+ {
+  "claim": "C-7373",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7374",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7375",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7376",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"let's say hypothetically speaking, you thought there was an assassination which may have been plotted... by our military. This would be the office\". Hypothetical framing dropped.",
+  "fix": {
+   "claim": "The host says NCIS has a presence in more than 41 countries and on US Navy vessels, that half its personnel are civilians, and that it investigates major criminal activity involving the Navy and Marine Corps, which she says hypothetically would include an assassination plotted and executed by the military."
+  }
+ },
+ {
+  "claim": "C-7377",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7378",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names only Osuna and Richmond; Foster Curtis (N-783) is not named in the claim, so should not be in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-784"
+   ]
+  }
+ },
+ {
+  "claim": "C-7379",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7380",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7381",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7382",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7383",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7384",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7385",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7386",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Garbled: \"Erika Frantzve with the suits... they allege managing modeling apartments. We went out to Erika for comment... They are certain it is true.\" \"They\" are those alleging, not \"the sources\".",
+  "fix": {
+   "claim": "The host says her team went to Erika Kirk for comment on an allegation about managing modeling apartments, that she would instantly have denied such an allegation, that those alleging it are certain it is true, and that no comment came back."
+  }
+ },
+ {
+  "claim": "C-7387",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7388",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I do believe Charlie found out something when he looked into his organization...\"; claim fine.",
+  "fix": {}
+ },
+ {
+  "claim": "C-7389",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7390",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Claim adds editorial \"transcript wording is ambiguous\"; title says \"Relayed\" but host says Charlie \"would not have revealed\" it. Same topic as C-7389 (context).",
+  "fix": {
+   "claim": "The host says, responding to Andrew Kolvet's claim that Charlie was unhappy with her, that Charlie Kirk \"would not have revealed the private conversation with Trump asking me to stop speaking about Brigitte. That's a fact, actually.\"",
+   "label": "Host Says Charlie Would Not Have Revealed Trump's Private Request About Brigitte",
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-7391",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7392",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7393",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name Kash Patel (N-69); he appears only in a later aside (\"Kash Patel's DOJ\").",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-7394",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7395",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Excerpt cuts off (\"...or what [...]\") before the \"brash\" detail; cannot verify. Friendly relationship and \"many moons ago\" confirmed.",
+  "fix": {}
+ },
+ {
+  "claim": "C-7396",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7397",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7398",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7399",
+  "episode": 133,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3162",
+  "episode": 134,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"my producer corrected the prosecution that filed the memorandum.\" Memo is the prosecution's, not the defense's. Also \"the bullet or at least parts of it\" hedge dropped.",
+  "fix": {
+   "claim": "Per the prosecution's memorandum the host reads, the bullet, or at least parts of it, sequentially perforated the anterior left side of Kirk's neck strap muscles, left common carotid artery, and left internal and external jugular veins, obliterated the left side of the C7 vertebra, and transected the cervical spinal cord.",
+   "label": "Prosecution Memo: Bullet Perforated Left Neck Structures and C7 Vertebra"
+  }
+ },
+ {
+  "claim": "C-3163",
+  "episode": 134,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"the prosecution that filed the memorandum\"; it is not a defense memo. She reads \"the medical examiner also observed hemorrhaging around Mr. Kirk's heart, both of his lungs\".",
+  "fix": {
+   "claim": "Per the prosecution's memorandum the host reads, the medical examiner observed hemorrhaging around Kirk's heart and both of his lungs (left and right).",
+   "label": "Prosecution Memo: Hemorrhaging Around Heart and Both Lungs Observed"
+  }
+ },
+ {
+  "claim": "C-3164",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3165",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3166",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Reporter: \"it is 5:27 Phoenix time, about an hour ago, Air Force 2 landed\". 5:27 is the report time; landing was about an hour earlier.",
+  "fix": {
+   "claim": "In a Sky News clip the host plays, a reporter says that on 2025-09-11 at 5:27 PM Phoenix time Air Force 2 had landed about an hour earlier at Sky Harbor Airport carrying Kirk's body and that the motorcade was heading to Hansen Mortuary in Phoenix."
+  }
+ },
+ {
+  "claim": "C-3167",
+  "episode": 134,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Erika twice but Mentions omits N-2. \"Pre-recorded\" and \"prior to the Catholic funeral mass\" are not in the transcript; host says Kolvet \"joined Alex Clark's show\" in the aftermath.",
+  "fix": {
+   "claim": "In a clip the host plays from Alex Clark's show, Andrew Kolvet stated Charlie was not becoming Catholic, described Erika as a cradle Catholic who followed a non-denominational path, and cited a prior social media exchange in which Erika herself denied conversion.",
+   "mentions": [
+    "N-14",
+    "N-99",
+    "N-2"
+   ]
+  }
+ }
+]

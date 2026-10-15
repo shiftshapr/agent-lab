@@ -1,0 +1,785 @@
+[
+ {
+  "claim": "C-8937",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8938",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8939",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript \"Filomena\" is a mis-transcription of Sgt. Jennifer Faumuina (confirmed via web search).",
+  "fix": {
+   "claim": "Asked whether the seized items numbered nine, Sergeant Faumuina said she did not remember, and she agreed that whatever was seized was sent to the FBI lab.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8940",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript \"Filomena\" is a mis-transcription of Sgt. Jennifer Faumuina (confirmed via web search).",
+  "fix": {
+   "claim": "In a hearing clip the host plays, Sergeant Faumuina agrees with the questioner that she was requesting both DNA and other types of analysis on the seized items.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8941",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript \"Filomena\" is a mis-transcription of Sgt. Jennifer Faumuina (confirmed via web search).",
+  "fix": {
+   "claim": "Sergeant Faumuina said 'I don't remember communicating that' when asked whether she told the lab the items were unconnected, then said it would not be inconsistent with what she knows if the FBI or ATF notes recorded it, and agreed it would be fair to say the items were determined unrelated.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8942",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim does not name or refer to the sergeant; only the host and the questioner. N-506 is not referred to.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-8943",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8944",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8945",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8946",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8947",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8948",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8949",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8950",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8951",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8952",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8953",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8954",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8955",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8956",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8957",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript \"George Zenn\" is George Zinn, the man arrested at UVU (confirmed).",
+  "fix": {
+   "claim": "The witness says that about an hour after the shot he went back inside the perimeter, ran to the command center, showed his video and told officers they had the wrong guy (George Zinn).",
+   "names": [
+    {
+     "wrong": "George Zenn",
+     "right": "George Zinn",
+     "source": "https://www.sltrib.com/news/2025/09/10/george-zinn-what-we-know-about-man/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8958",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8959",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8960",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript \"Filomena\" is a mis-transcription of Sgt. Jennifer Faumuina (confirmed via web search).",
+  "fix": {
+   "claim": "The host says that Sergeant Faumuina made clear the route from the Losee Center to the library was the route the shooter took and that this is why the items were recovered.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.charliekirk.co.za/video/jennifer-faumuina-testifies-on-evidence-collection-in-tyler-robinson-case-at-utah-valley-university/15268/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-8961",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8962",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"She's saying they just got another report\" is a second voice relaying the dispatcher, not the dispatcher.",
+  "fix": {
+   "claim": "In the played 911 audio, a speaker says gunshots were heard near the library at UVU and that they are trying to lock the library down, and another voice says the dispatcher is saying they just got another report of shots fired at the UVU library."
+  }
+ },
+ {
+  "claim": "C-8963",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8964",
+  "episode": 126,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Transcript: \"they gave a ridiculous answer and that is correct. I should have pulled that.\" The last sentence is the host, not the officers.",
+  "fix": {
+   "claim": "The host says that when officers were asked why they did not act on the unfired .223 round, they gave a ridiculous answer, and she adds 'I should have pulled that'."
+  }
+ },
+ {
+  "claim": "C-8965",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Corey Comperatore but Mentions omits N-105.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-105"
+   ]
+  }
+ },
+ {
+  "claim": "C-8966",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8967",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8968",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8969",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8970",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8971",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8972",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8973",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8974",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8975",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8976",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"like a 300 posts a day\" is the host's own remark about Yakoby, not stated as the article's description.",
+  "fix": {
+   "claim": "The host says the Time article names Eyal Yakoby, whom she says she blocked long ago because it was obvious he was a paid stooge, and she says he posted about 300 times a day."
+  }
+ },
+ {
+  "claim": "C-8977",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8978",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8979",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8980",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8981",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8982",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8983",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8984",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8985",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8986",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8987",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8988",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8989",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8990",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8991",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8992",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8993",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8994",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8995",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Commenter: \"I did not see the freedom shirt. Safe to say it was custom.\" One Detroit store, hedged; title says no Carhartt store stocked it.",
+  "fix": {
+   "claim": "A viewer, read on air, says Carhartt is a Michigan company, that they visited the Carhartt store in Detroit around Christmas and did not see the freedom shirt, and that it is safe to say it was custom.",
+   "label": "Viewer Comment Says Freedom Shirt Was Not at Detroit Carhartt Store, Likely Custom"
+  }
+ },
+ {
+  "claim": "C-8996",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

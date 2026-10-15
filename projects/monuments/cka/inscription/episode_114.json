@@ -1797,9 +1797,7 @@
       "mentions_person_refs": [
         "N-22",
         "N-104",
-        "N-266",
-        "N-69",
-        "N-379"
+        "N-266"
       ]
     },
     {
@@ -1908,14 +1906,15 @@
       "transcript_snippet": "The case that's the crooks case he says was shut down currently sits in a pending inactive status.",
       "mentions_person_refs": [
         "N-379",
-        "N-104"
+        "N-104",
+        "N-22"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-4489",
       "ref": "C-4489",
-      "label": "Bongino texted Carlson to ask the president to release more information",
+      "label": "Bongino Texted Carlson to Ask the President for More Information",
       "claim": "In texts Bongino displays, he told Carlson the president is a victim and that when he is ready for more information about the crime to be released he will say so, suggesting Carlson give him a ring.",
       "anchored_artifacts": [
         "A-2647.3"
@@ -1994,7 +1993,7 @@
       "@type": "Claim",
       "@id": "C-4493",
       "ref": "C-4493",
-      "label": "Host speculates Trump said in front of Kirk and Kolvet he would cross a donor",
+      "label": "Host Speculates Trump Said in Front of Kirk and Kolvet He Would Cross Someone",
       "claim": "The host speculates that Trump may have said in front of Charlie Kirk and Andrew Kolvet that he was going to take somebody's money and then cross them, and that this got back to some people.",
       "anchored_artifacts": [],
       "related_nodes": [],
@@ -2035,7 +2034,7 @@
       "@id": "C-4495",
       "ref": "C-4495",
       "label": "Host says Epstein trafficked weapons and people on behalf of Israel",
-      "claim": "The host says Jeffrey Epstein was involved in a trafficking ring, trafficking weapons and people on behalf of the state of Israel, and links this to Trump and Miriam Adelson.",
+      "claim": "The host says Jeffrey Epstein was involved in a trafficking ring, trafficking weapons and people on behalf of the state of Israel, and calls Trump saying he would screw over Miriam Adelson \"another Israel theme.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10023"
@@ -2268,7 +2267,7 @@
       "@id": "C-4506",
       "ref": "C-4506",
       "label": "Host says James Kaddis is Egyptian and runs Turning Point USA Faith",
-      "claim": "The host says James Kaddis is an Egyptian, radically pro-Israel pastor who runs Turning Point USA Faith.",
+      "claim": "The host says James Kaddis is \"that icky guy who is Egyptian\" and runs Turning Point USA Faith, and that he is radically pro-Israel.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10398",
@@ -2278,7 +2277,7 @@
       "tags": [],
       "claim_timestamp": "00:19:42",
       "investigative_direction": "Check TPUSA Faith leadership listings and Calvary Chapel staff records.",
-      "transcript_snippet": "James Catis is that icky guy who is Egyptian and runs Turning Point USA faith.",
+      "transcript_snippet": "James Kaddis is that icky guy who is Egyptian and runs Turning Point USA faith.",
       "mentions_person_refs": [
         "N-668"
       ]
@@ -2326,7 +2325,7 @@
       "@id": "C-4509",
       "ref": "C-4509",
       "label": "James Kaddis made a PragerU video as an Egyptian pastor who supports Israel",
-      "claim": "The host shows what she says is James Kaddis's PragerU video, titled in effect \"I'm an Egyptian pastor who supports Israel.\"",
+      "claim": "The host shows what she says is James Kaddis's PragerU video, in which he says, \"I'm an Egyptian pastor who supports Israel.\"",
       "anchored_artifacts": [
         "A-2650.2"
       ],
@@ -2445,9 +2444,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-9",
-        "N-22",
-        "N-5",
-        "N-85"
+        "N-22"
       ]
     },
     {
@@ -2640,7 +2637,7 @@
       "@id": "C-4524",
       "ref": "C-4524",
       "label": "Under Erika Kirk TPUSA deepened its partnership with the IFCJ and invited Weiss and Shapiro to AmFest",
-      "claim": "The host says that under Erika Kirk TPUSA invited Bari Weiss and Ben Shapiro to AmFest and entered a deeper partnership with the International Fellowship of Christians and Jews.",
+      "claim": "The host, voicing Erika Kirk's approach, says that under her TPUSA asked Bari Weiss and Ben Shapiro to open at AmFest and went into a deeper partnership with the International Fellowship of Christians and Jews.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2817,10 +2814,7 @@
       "tags": [],
       "claim_timestamp": "00:45:15",
       "investigative_direction": "Ask the FOIA office which agencies are being consulted, and appeal the delay.",
-      "transcript_snippet": "we will not be able to respond within the FOIA's 20-day statutory time period as there are unusual circumstances which impact our ability to quickly process your request.",
-      "mentions_person_refs": [
-        "N-434"
-      ]
+      "transcript_snippet": "we will not be able to respond within the FOIA's 20-day statutory time period as there are unusual circumstances which impact our ability to quickly process your request."
     },
     {
       "@type": "Claim",

@@ -719,7 +719,7 @@ Claim: The host says she and her husband formally requested an interview with Vl
 Transcript Snippet: And so, we put in a formal request, and that request was denied, as it is every year. I've actually been trying to interview Vladimir Putin for like 5 years now.
 
 Anchored Artifacts:
-Mentions: N-3, N-30, N-627, N-22
+Mentions: N-3, N-30, N-627
 Investigative Direction: Obtain the host's interview request correspondence with the Kremlin press office and the denial.
 
 ---
@@ -882,7 +882,7 @@ Claim: The host says the staffer received an immediate CAT scan and surgery in R
 Transcript Snippet: He's He's still in recovery. Uh, he is still in Russia.
 
 Anchored Artifacts:
-Mentions: N-3, N-627, N-650
+Mentions: N-3
 Investigative Direction: Confirm the staffer's current status through his family.
 
 ---
@@ -985,7 +985,7 @@ Claim: The host reads a New York Times article, "The Riddle of Armand Hammer," s
 Transcript Snippet: But since Martens could not get control of the Russian funds immediately, he turned to Julius Hammer for interim financing.
 
 Anchored Artifacts: A-2620.2
-Mentions: N-655, N-656, N-657, N-658, N-659
+Mentions: N-655, N-657, N-658, N-659
 Investigative Direction: Retrieve the New York Times article and the historical record of the Russian Soviet Government Bureau in New York.
 
 ---
@@ -994,7 +994,7 @@ Investigative Direction: Retrieve the New York Times article and the historical 
 
 Claim Timestamp: 00:25:49
 
-Claim: The host reads from the New York Times article that by 1918 the Soviet Union was financing the Soviet Bureau by smuggling diamonds into New York, and that Julius Hammer converted them into cash. The article notes that Armand Hammer denies this.
+Claim: The host reads from the New York Times article that by 1918 the Soviet Union was financing the Soviet Bureau by smuggling diamonds into New York, and that Julius Hammer converted them into cash, according to the autobiography of one of his fellow party members. The article notes that Armand Hammer denies this.
 
 Transcript Snippet: By 1918, the Soviet Union was financing the Soviet Bureau by smuggling diamonds into New York.
 
@@ -1028,7 +1028,7 @@ Claim: The host says Megyn Kelly has said she truly believes that Mark Levin wou
 Transcript Snippet: she truly believes that if Mark Levin could get away with it, he would hurt her.
 
 Anchored Artifacts:
-Mentions: N-46, N-245, N-97
+Mentions: N-46, N-245
 Investigative Direction: Locate the Megyn Kelly episode in which she made the statement.
 
 ---
@@ -1042,7 +1042,7 @@ Claim: While showing her trip photos, the host says Russia is under a level four
 Transcript Snippet: How on Earth is this a country that is at a level four travel advisory?
 
 Anchored Artifacts: A-2621.2
-Mentions: N-3, N-22
+Mentions: N-3
 Investigative Direction: Check the State Department travel advisory level for Russia at the time.
 
 ---
@@ -1070,7 +1070,7 @@ Claim: In a clip played by the host, a heckler shouts "Erika Kirk protects pedop
 Transcript Snippet: But the joy of the Lord withstands all. >> Erika Kirk protects pedophiles.
 
 Anchored Artifacts: A-2622.1
-Mentions: N-2, N-1
+Mentions: N-2
 Related Nodes: N-10008, N-10000
 Investigative Direction: Obtain full event footage and any venue security report on the heckler.
 
@@ -1080,7 +1080,7 @@ Investigative Direction: Obtain full event footage and any venue security report
 
 Claim Timestamp: 00:40:20
 
-Claim: The host says Erika Kirk went on tour with Greg Laurie's Harvest church. According to the host, the church is being sued over alleged trafficking in Romania, the lawsuit is ongoing, and Laurie's position is that Paul Havsgaard acted alone.
+Claim: The host says Erika Kirk went on tour with Greg Laurie's Harvest church. According to the host, the church is being sued over alleged trafficking in Romania, the lawsuit is ongoing, and she believes Laurie's position is that Paul Havsgaard did some things in Romania but it was not a broader church conspiracy.
 
 Transcript Snippet: you would partner with a church that is quite literally being sued for the very same reasons. Now, the lawsuit is not over.
 
@@ -1144,7 +1144,7 @@ Claim: The host says people inside Turning Point USA told her they were unhappy 
 Transcript Snippet: they were not happy with the numbers of young women who did not want to attend what used to be called the Young Women's Leadership Summit.
 
 Anchored Artifacts:
-Mentions: N-99, N-2, N-1
+Mentions: N-3
 Related Nodes: N-10008, N-10000
 Investigative Direction: Obtain registration and attendance figures by age for the 2026 summit against prior years.
 
@@ -1174,7 +1174,7 @@ Claim: The host says many female TPUSA chapter leaders declined to attend the su
 Transcript Snippet: many of their own chapter leaders declined to make the trip, female chapter leaders, cuz they don't like Erika and they don't like the direction that the organization is taking.
 
 Anchored Artifacts:
-Mentions: N-2, N-99
+Mentions: N-2
 Related Nodes: N-10008, N-10000
 Investigative Direction: Compare chapter-leader attendance lists with prior years and date the rebranding decision.
 
@@ -1203,7 +1203,7 @@ Claim: The host alleges that Turning Point USA made secret phone calls telling p
 Transcript Snippet: while making secret phone calls and telling people you you shouldn't uh do ads with Candace, you know, because if you want to work with us, you can't work with Candace.
 
 Anchored Artifacts:
-Mentions: N-3, N-99
+Mentions: N-3
 Related Nodes: N-10000
 Investigative Direction: Interview sponsors and advertisers who dropped or declined the host's show.
 
@@ -1243,7 +1243,7 @@ Investigative Direction: Ask Paleo Valley about any contact from Alex Clark or T
 
 Claim Timestamp: 00:51:07
 
-Claim: The host reads an Alex Clark post saying that she, in the Oval Office, prompted Trump's first rant about the host. The host says this is not true.
+Claim: The host says Alex Clark took personal credit for convincing Trump to tweet insults at the host, and shows a Clark post saying "Guess who prompted Trump's rant on her the first time. Yours truly in the Oval Office."
 
 Transcript Snippet: Guess who prompted Trump's rant on her the first time. Yours truly in the Oval Office.
 
@@ -1350,7 +1350,7 @@ Claim: The host says TPUSA displayed the bloody microphone Charlie Kirk held whe
 Transcript Snippet: they put the actual bloody microphone that he was holding when he died in a glass encasement for donors to ooh and aah at at their annual fundraising event at Mar-a-Lago.
 
 Anchored Artifacts:
-Mentions: N-1, N-2
+Mentions: N-1
 Related Nodes: N-10000, N-10376
 Investigative Direction: Event photos from the Mar-a-Lago fundraiser and AmFest, and the chain of custody of the microphone.
 
@@ -1395,7 +1395,7 @@ Claim: The host says donors and TPUSA employees who were present say the appoint
 Transcript Snippet: But they remember Charlie answering and saying that the board would figure it out.
 
 Anchored Artifacts:
-Mentions: N-1, N-2
+Mentions: N-1
 Related Nodes: N-10584, N-10437
 Supports: C-2694, C-2888
 Investigative Direction: On-record interviews with the Aspen attendees and the full event recording.
@@ -1486,7 +1486,7 @@ Claim: The host reads her email to TPUSA asking it to confirm whether the video 
 Transcript Snippet: Can you confirm that the video shared is entirely authentic and has not been doctored in any way? A simple yes or no will suffice.
 
 Anchored Artifacts: A-2626.1
-Mentions: N-3, N-1, N-2
+Mentions: N-3, N-1
 Related Nodes: N-10000
 Investigative Direction: The email thread and any official TPUSA reply.
 
@@ -1526,7 +1526,7 @@ Investigative Direction: Locate the Massie–TPUSA exchange and Kolvet's stateme
 
 Claim Timestamp: 01:07:26
 
-Claim: The host reads the TPUSA X reply saying the video is real, that the host has known so for seven months, and that "Charlie wasn't kidding."
+Claim: The host reads the TPUSA X reply saying the video is real, that the host has apparently known so for seven months, and that "Charlie wasn't kidding."
 
 Transcript Snippet: Hey, Candace. The video was real as you apparently have known for 7 months.
 
@@ -1547,7 +1547,7 @@ Claim: The host says she is waiting for TPUSA to agree that she can publish the 
 Transcript Snippet: we're waiting for them to respond that it's okay for us to publish the entirety of the Aspen video
 
 Anchored Artifacts:
-Mentions: N-3, N-14
+Mentions: N-3
 Related Nodes: N-10664
 Investigative Direction: Follow whether the full video is released.
 

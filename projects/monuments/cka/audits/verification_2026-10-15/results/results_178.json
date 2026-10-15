@@ -1,0 +1,793 @@
+[
+ {
+  "claim": "C-7257",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7258",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7259",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7260",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names \"Shapiro's security\" but Mentions omits Ben Shapiro (N-97).",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-493",
+    "N-97"
+   ]
+  }
+ },
+ {
+  "claim": "C-7261",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names \"Shapiro's security\" but Mentions omits Ben Shapiro (N-97).",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-7",
+    "N-97"
+   ]
+  }
+ },
+ {
+  "claim": "C-7262",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7263",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7264",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"Ben's IDF Israeli Msad Security apparatus team, former IDF\"; claim drops the Mossad characterization.",
+  "fix": {
+   "claim": "The host asks who on Ben Shapiro's IDF, Israeli, Mossad security apparatus team, former IDF, was receiving updates about Charlie's condition and why."
+  }
+ },
+ {
+  "claim": "C-7265",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7266",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7267",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7268",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7269",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7270",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"Reviving it\" refers to the accomplice angle in a comment being read; \"Lance angle\" and the speaker split are blurred. Host then says \"Yeah, I saw that, too.\"",
+  "fix": {
+   "claim": "Reading a viewer comment, the host says Andrew Kolvet is reviving the accomplice angle, likely due to growing support for Tyler Robinson, throwing Lance Twiggs to the wolves; she adds that she saw that too."
+  }
+ },
+ {
+  "claim": "C-7271",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript says \"Panguitch\"; claim and label say \"Penguitch\".",
+  "fix": {
+   "claim": "The host says Diligent Dennison went and spoke to the waiter in Panguitch and that more was going to be coming out about that.",
+   "label": "Host Says Diligent Dennison Spoke to the Waiter in Panguitch"
+  }
+ },
+ {
+  "claim": "C-7272",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "\"Dreams he was having in 2018 that were vivid\" follows \"I told you... Charlie went out and a light bulb came on\"; context (her own dreams, clip mocking her) shows the 2018 dreams are hers, \"he\" likely mis-transcribed \"I\".",
+  "fix": {
+   "claim": "The host says the dreams she was having in 2018 were vivid, that she started having vivid dreams right after Charlie was taken out, and that she is not ashamed of them."
+  }
+ },
+ {
+  "claim": "C-7273",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7274",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7275",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7276",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7277",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7278",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-7279",
+  "episode": 124,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3017",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host hedges: \"I think there is something here\", \"it's not perfect\"; test used a 50% poly shirt.",
+  "fix": {
+   "claim": "The host says the unidentified burnt object in the backseat of Charlie Kirk's SUV may be melted polyester from a t-shirt, citing viewer emails from people in fashion and medicine and her team's imperfect burn test on a 50% polyester shirt, and says \"I think there is something here.\""
+  }
+ },
+ {
+  "claim": "C-3018",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Blake Neff was on board that private jet\" is spoken about 11:55; claim timestamp 12:33 is over 30s later.",
+  "fix": {
+   "timestamp": "00:11:50"
+  }
+ },
+ {
+  "claim": "C-3019",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Neff says he has no idea where they parked and does not remember the specific people; \"who drove it\" is the host's gloss, not Neff.",
+  "fix": {
+   "claim": "Blake Neff stated during an X Space that he had no idea where the second SUV was parked and did not remember the specific people in his car during the morning gap between landing at Salt Lake City and the UVU event."
+  }
+ },
+ {
+  "claim": "C-3020",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3021",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Grandson/Patrick details are said at 20:25-21:23, not at 24:41; \"citing a visual guide\" is added to this content. Spitzer smear alleged, not \"scandal following\".",
+  "fix": {
+   "timestamp": "00:20:15",
+   "claim": "The host says Danny Phillip is the grandson of Thomas Patrick, a major Turning Point donor and former executive vice chairman and CEO of Merrill Lynch (25 years in Chicago), who in 2003 was escorted out of his office over a scandal in which he was accused of orchestrating a political smear campaign against Eliot Spitzer.",
+   "mentions": [
+    "N-368",
+    "N-503",
+    "N-504"
+   ]
+  }
+ },
+ {
+  "claim": "C-3022",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Stephen Phillip (N-737) is named but not in Mentions. Chicago/Russian studies said at 22:09, not 24:41; \"2008-2022\" is said of Dennis, not Stephen.",
+  "fix": {
+   "timestamp": "00:22:15",
+   "mentions": [
+    "N-368",
+    "N-737"
+   ],
+   "claim": "The host says Danny Phillip's father Stephen Phillip worked for Bank of America Merrill Lynch in Chicago and, like Tyler Bowyer, majored in Russian studies."
+  }
+ },
+ {
+  "claim": "C-3023",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3024",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Dennis Frantzve (N-738), Erika's cousin, is named (\"Franks Bay\") but missing from Mentions. Unresolved name: Dennis Frantzve not confirmed online; node exists.",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-738"
+   ],
+   "claim": "The host says Erika Kirk's cousin Dennis Frantzve worked at Bank of America Merrill Lynch in Chicago during 2008-2022, after his military service."
+  }
+ },
+ {
+  "claim": "C-3025",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Netanyahu named but N-36 not in Mentions. Claim states tweet content without attributing it to the post the host reads.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-14",
+    "N-3",
+    "N-36"
+   ],
+   "claim": "Per the Andrew Kolvet tweet thread the host reads, Kolvet says they politely declined having Netanyahu on the show and that Charlie Kirk took a call from him months later, while disputing the claim that Netanyahu offered to take Turning Point to the next level."
+  }
+ },
+ {
+  "claim": "C-3026",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host only says \"NCRI\"; it is the Network Contagion Research Institute, not \"National Council on Resistance Iran\" (pjmedia report on \"Permission to Kill\"). Also not attributed to the host.",
+  "fix": {
+   "claim": "The host says the Network Contagion Research Institute (NCRI) published a report titled \"Permission to Kill: How Candace Owens built a digital assassination culture targeting Erika Kirk?\", which she criticizes as a focused report on her."
+  }
+ },
+ {
+  "claim": "C-5853",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5854",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5855",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5856",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5857",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5858",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5859",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5860",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5861",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5862",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5863",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5864",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5865",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5866",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5867",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5868",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5869",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5870",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name Tyler Bowyer (N-11); he appears only in a separate question.",
+  "fix": {
+   "mentions": [
+    "N-368",
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-5871",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5872",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: a major donor named Thomas Patrick \"personally informed me via email that Charlie was lying\"; \"intervened\" is not said.",
+  "fix": {
+   "claim": "The host says that in 2019 a smear campaign calling her anti-Semitic started, and at virtually the same time Turning Point had a major donor she thought was good to her, Thomas Patrick."
+  }
+ },
+ {
+  "claim": "C-5873",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5874",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5875",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5876",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5877",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5878",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5879",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Danny Philip's father\" (Stephen Phillip, N-737) is clearly referred to but not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-11",
+    "N-368",
+    "N-737"
+   ]
+  }
+ }
+]

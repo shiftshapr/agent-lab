@@ -967,7 +967,7 @@ Investigative Pressure: High
 
 **N-10697** 19th Special Forces / Utah-Romania Deployment Pattern
 
-Investigative target: convergence of multiple identified individuals (Rawlinson, Curtis Colvett, Tyler Bowyer, Philip Goldsberry Jr.) on Romanian military / charitable operations.
+Investigative target: convergence of multiple identified individuals (Rawlinson, Curtis Kolvet, Tyler Bowyer, Philip Goldsberry Jr.) on Romanian military / charitable operations.
 
 Evidence Count: 1
 Claim Count: 1
@@ -1098,6 +1098,7 @@ Claim Timestamp: 00:06:15
 Claim: A video clip displayed during the episode shows David Sprag (James Norman Rawlinson Jr.) standing and appearing to cheer shortly after the gunshot.
 
 Anchored Artifacts: A-2105.1
+Mentions: N-817
 Related Nodes:
 Investigative Direction: Cross-reference the clip with public statements by Rawlinson and with the FBI interview he claims to have given.
 
@@ -1110,19 +1111,20 @@ Claim Timestamp: 00:07:09
 Claim: A video clip displayed during the episode shows David Sprag and an unidentified companion standing together under umbrellas while Charlie Kirk's event begins.
 
 Anchored Artifacts: A-2105.2
-Mentions: N-1
+Mentions: N-1, N-817
 Related Nodes:
 Investigative Direction: Identify the second individual and confirm umbrellas' purpose and provenance.
 
 ---
 
-**C-2973** James Rawlinson stated on X that he served in the 19th Special Forces and wore a maroon beret
+**C-2973** James Rawlinson Stated on X That He Served in the 19th Special Forces and Wore a Red Beret
 
 Claim Timestamp: 00:09:46
 
-Claim: An audio clip from James Rawlinson's X account, played during the episode, contains his claim that he served in the 19th Special Forces and wore a maroon beret.
+Claim: An audio clip from James Rawlinson's X account, played during the episode, contains his claim that he served in the 19th Special Forces and wore a red beret.
 
 Anchored Artifacts: A-2106.1
+Mentions: N-817
 Related Nodes:
 Investigative Direction: Verify Rawlinson's military service record against official DoD / National Guard records.
 
@@ -1135,6 +1137,7 @@ Claim Timestamp: 00:09:46
 Claim: The same X audio clip contains Rawlinson's statement that he has already talked to the FBI and that he hopes they are "on our side."
 
 Anchored Artifacts: A-2106.1
+Mentions: N-817
 Related Nodes:
 Investigative Direction: Cross-reference with FBI 302 forms, voluntary interview logs, or official acknowledgements.
 
@@ -1147,6 +1150,7 @@ Claim Timestamp: 00:09:46
 Claim: The X audio clip contains Rawlinson's claim that there were no ambulances at an event like that and that the high-power rifle sounded like a .22.
 
 Anchored Artifacts: A-2106.1
+Mentions: N-817
 Related Nodes:
 Investigative Direction: Compare against published video, ballistic evidence, and emergency response records.
 
@@ -1168,9 +1172,10 @@ Investigative Direction: Confirm article source, date, and unit assignment throu
 
 Claim Timestamp: 00:13:17
 
-Claim: A photograph displayed during the episode allegedly shows James Rawlinson in Romania in 2023 wearing a maroon beret, alongside an unidentified individual on the right.
+Claim: A photograph displayed during the episode allegedly shows James Rawlinson in Romania in 2023 wearing a maroon beret, on the right side of the photo.
 
 Anchored Artifacts: A-2107.2
+Mentions: N-817
 Related Nodes:
 Investigative Direction: Confirm identity with Rawlinson himself, military photo archives, and contemporaneous deployment records.
 
@@ -1214,11 +1219,11 @@ Investigative Direction: Cross-reference against Brian Harpole's prior podcast s
 
 ---
 
-**C-2981** Erica Kirk was involved in "modeling apartments" for Next Model Management and MC2
+**C-2981** Host Says People With Direct Knowledge Claim Erika Kirk Ran Modeling Apartments at Next Model Management
 
 Claim Timestamp: 00:20:08–00:21:31
 
-Claim: During the episode, the host asserts that multiple people with direct knowledge claim Erica Kirk was in charge of modeling apartments for underaged models at Next Model Management and MC2 during the period when those agencies are defendants in trafficking litigation.
+Claim: During the episode, the host asserts that people with direct knowledge of Erika Kirk's involvement with Next Model Management claim she was in charge of modeling apartments for underaged models; she adds that a current class action names Next Model Management and MC2 as defendants over such apartments.
 
 Anchored Artifacts: None displayed in this episode (host assertion referencing prior Epstein-series content)
 Mentions: N-2
@@ -1232,10 +1237,10 @@ Investigative Direction: Obtain class action complaint, defendant discovery, and
 
 Claim Timestamp: 00:43:06–00:45:23
 
-Claim: The host states the team has filed FOIA requests to the NSA (Erica emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erica), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.
+Claim: The host states the team has filed FOIA requests to the NSA (Erika emotional asset email), DHS/Secret Service/EOP (WAVES entries for Erika), FBI (Kash Patel schedule), and for FBI plane flight logs and Bradley Hansell's travel schedule September 7-10.
 
 Anchored Artifacts: None displayed
-Mentions: N-69, N-434
+Mentions: N-2, N-69, N-434
 Related Nodes: N-10700
 Investigative Direction: Verify FOIA request submissions via the agencies' tracking portals and any responses.
 *Flag: Claim failed admission test on artifact anchor – host assertion only.*
@@ -1246,7 +1251,7 @@ Investigative Direction: Verify FOIA request submissions via the agencies' track
 
 Claim Timestamp: 01:00:41
 
-Claim: During the episode, the host identifies Lance Twiggs as the individual walking in a maroon shirt in audience footage from the same day.
+Claim: During the episode, the host says she believes Lance Twiggs is the individual walking in a maroon shirt in a video that was allegedly taken the same day.
 
 Anchored Artifacts: None displayed (referenced footage from prior episode)
 Mentions: N-54
@@ -1256,7 +1261,7 @@ Investigative Direction: Obtain higher-resolution frame-by-frame comparison and 
 
 ---
 
-**C-2984** Tyler Robinson was set up by Lance Twiggs and is not the actual shooter
+**C-2984** Host Believes Tyler Robinson Was Set Up by Lance Twiggs
 
 Claim Timestamp: 01:00:41
 
@@ -1270,7 +1275,7 @@ Investigative Direction: Examine public charging documents, defense filings, Rob
 
 ---
 
-**C-2985** Andrew Kolvet was physically in the Executive Office Building in Washington D.C. while appearing "live" in Arizona on the Charlie Kirk Show
+**C-2985** Host Says Andrew Kolvet Appeared Live on the Charlie Kirk Show but Was in Washington D.C.
 
 Claim Timestamp: 00:44:23–00:46:13
 
@@ -1565,7 +1570,7 @@ Investigative Direction: Confirm the unit's headquarters and the distance from C
 
 Claim Timestamp: 00:11:30
 
-Claim: The host says one cannot become a Green Beret in the 19th Special Forces without first receiving the maroon beret (parachutist) certification.
+Claim: The host says she thinks one cannot become a Green Beret in the 19th Special Forces without first receiving the maroon beret (parachutist) certification.
 
 Transcript Snippet: cannot be a green beret without having received the maroon beret certification.
 
@@ -1593,13 +1598,13 @@ Investigative Direction: Check DoD and National Guard releases on 19th SFG rotat
 
 ---
 
-**C-8840** Host Says Curtis Colvett, Kolvet's Brother, Was in Romania the Same Year as Rawlinson
+**C-8840** Host Says Curtis Kolvet, Kolvet's Brother, Was in Romania the Same Year as Rawlinson
 
 Claim Timestamp: 00:12:22
 
-Claim: The host says that at the same time Rawlinson was reportedly in Romania (late 2023 into 2024), Curtis Colvett, Andrew Kolvet's brother and a Nevada National Guard lieutenant colonel running the military police, was also in Romania.
+Claim: The host says that at the same time Rawlinson was reportedly in Romania (late 2023 into 2024), Curtis Kolvet, Andrew Kolvet's brother and, she believes, a Nevada National Guard lieutenant colonel running the military police, was also in Romania that year.
 
-Transcript Snippet: Curtis Colvett, Andrew Kolvet's brother, uh who was, I believe, Nevada National Guard, running the as a lieutenant colonel for the Nevada National Guard
+Transcript Snippet: Curtis Kolvet, Andrew Kolvet's brother, uh who was, I believe, Nevada National Guard, running the as a lieutenant colonel for the Nevada National Guard
 
 Anchored Artifacts: 
 Mentions: N-691, N-14, N-817
@@ -1747,7 +1752,7 @@ Investigative Direction: Run a country-frequency count on the released Epstein e
 
 Claim Timestamp: 00:16:58
 
-Claim: The host says Donald Trump was upset with Charlie Kirk wanting him to stop talking about Jeffrey Epstein.
+Claim: The host says Donald Trump was upset with Charlie Kirk and wanted him to stop talking about Jeffrey Epstein.
 
 Transcript Snippet: Even Trump being upset with Charlie wanting him to stop talking about Jeffrey Epstein.
 
@@ -1768,7 +1773,7 @@ Claim: The host says Jean-Luc Brunel was arrested at Charles de Gaulle Airport i
 Transcript Snippet: in December of 2020, Jean-Luc Brunel was arrested at the Charles de Gaulle Airport in Paris.
 
 Anchored Artifacts: 
-Mentions: N-530, N-9, N-3
+Mentions: N-530, N-3
 Related Nodes: 
 Tags: relevance:context
 Investigative Direction: Check French judicial and press records for the date and charges of Brunel's arrest.
@@ -1832,7 +1837,7 @@ Claim: The host says Jean-Luc Brunel, alongside his brother Arnaud Brunel, found
 Transcript Snippet: He was actually the founder alongside his brother, Arnaud Brunel, of a modeling agency in New York City.
 
 Anchored Artifacts: 
-Mentions: N-530, N-818, N-571, N-3
+Mentions: N-530, N-818, N-9, N-3
 Related Nodes: N-10532
 Tags: relevance:core
 Investigative Direction: Check New York corporate records and press for the founders of Next Model Management; Faith Kates is usually named as its founder.
@@ -1988,7 +1993,7 @@ Investigative Direction: Treat as stated belief; test against the Erika Kirk and
 
 Claim Timestamp: 00:25:08
 
-Claim: In the played clip, a former Mossad speaker says the Taiwanese company Gold Apollo had zero clue it was working with the Mossad, and that Hezbollah likewise had no clue it was buying from the Mossad.
+Claim: In a clip the host plays, a speaker the host describes as a Mossad agent says the Taiwanese company Gold Apollo had zero clue it was working with the Mossad, and that Hezbollah likewise had no clue it was buying from the Mossad.
 
 Transcript Snippet: Gold Apollo had zero clue that they are working with the Mossad.
 
@@ -2082,7 +2087,7 @@ Investigative Direction: Ask TPUSA and Allen to confirm or deny any relocation o
 
 ---
 
-**C-8870** Host Ties the Department of War to the 'Emotional Assets' Email on the WHCD Night
+**C-8870** Host Ties the Department of War to the 'Emotional Assets' Remark on the WHCD Night
 
 Claim Timestamp: 00:26:07
 
@@ -2189,7 +2194,7 @@ Claim: The host says Brian Harpole has twice gone on podcasts and explained that
 Transcript Snippet: Brian has twice gone onto podcasts and explained that they never conducted CPR because they were so focused on the wound.
 
 Anchored Artifacts: A-2109.1
-Mentions: N-267, N-7, N-3
+Mentions: N-267, N-3
 Related Nodes: N-10699
 Supports: C-4709
 Tags: relevance:core
@@ -2218,7 +2223,7 @@ Investigative Direction: List each Turek appearance and the CPR wording used in 
 
 Claim Timestamp: 00:33:32
 
-Claim: The host says she is inclined to believe Turek is lying because of how Charlie lay in the car, arguing that CPR requires a person to be flat and that Charlie's chest was in the air across the two seats.
+Claim: The host says she is inclined to believe Turek is lying because of how Charlie lay in the car, arguing that CPR requires a person to be flat and asking whether Turek denies he could not have done CPR if Charlie's chest was in the air across the two top seats.
 
 Transcript Snippet: I'm inclined to believe that Frank Turek is lying because of the way Charlie was in the car.
 
@@ -2348,7 +2353,7 @@ Investigative Direction: Identify the family, the company and its Utah dispatch 
 
 Claim Timestamp: 00:36:21
 
-Claim: The host says the dispatch-connected company is in partnership with Carbyne, which she says was created by Ehud Barak, and that it has done a deal with Israel.
+Claim: The host says the dispatch-connected company is in partnership with Israel with Carbyne, which she says was created by Ehud Barak, and that they have done a deal with them.
 
 Transcript Snippet: of course in partnership with Israel with Carbyne created by Ehud Barak
 
@@ -2429,7 +2434,7 @@ Investigative Direction: Compare the sources' dates with the New York licensing 
 
 Claim Timestamp: 00:38:01
 
-Claim: The host says she believes Erika was licensed in 2019 in the same month she met Charlie, then, after a viewer correction she credits to Skyler, says August 2018, and that Erika received the license immediately after meeting Charlie.
+Claim: The host says she believes Erika was licensed in 2019 in the same month she met Charlie, then, thanking Skyler, says August 2018, and that Erika received the license immediately after meeting Charlie.
 
 Transcript Snippet: I believe she was licensed in 2019 the same month that she met Charlie.
 
@@ -2574,7 +2579,7 @@ Investigative Direction: Confirm Trump's ownership history of Miss Universe-rela
 
 Claim Timestamp: 00:40:38
 
-Claim: The host says there was a sudden situation-room scramble to figure out how to deal with the Epstein scandal and asks why Trump did not want to look into Epstein.
+Claim: The host asks why Trump did not want to look into Jeffrey Epstein, why there was so much panic, and why they were suddenly in the situation room trying to figure out how to deal with the Epstein scandal.
 
 Transcript Snippet: Why they were suddenly in the situation room trying to figure out how to deal with the Epstein scandal.
 
@@ -2903,7 +2908,7 @@ Investigative Direction: Check defense discovery requests and FBI evidence logs 
 
 Claim Timestamp: 00:53:37
 
-Claim: The host wonders whether Harpole's account of cutting the shirt for defibrillators was meant to prepare the public for bruising or burn marks on Charlie's chest that will later be learned from the autopsy, and not caused by an exploding mic.
+Claim: The host wonders whether Harpole's account of cutting the shirt for defibrillators was meant to prepare the public for bruising or burn marks on Charlie's chest later learned from the autopsy, which people would explain as not caused by an exploding mic.
 
 Transcript Snippet: I wonder also if that part of him saying that was to prepare us for bruising that we're going to learn was on Charlie's chest in the autopsy.
 
@@ -2958,7 +2963,7 @@ Transcript Snippet: You have a president that wants me to be bankrupted by Brigi
 Anchored Artifacts: 
 Mentions: N-82, N-3
 Related Nodes: N-11011
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Clarify which president the host means and any public statement supporting Macron's lawsuit.
 
 ---
@@ -3041,7 +3046,7 @@ Transcript Snippet: I believe everything about what happened to him was occult.
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: 
-Tags: relevance:tangential
+Tags: relevance:context
 Investigative Direction: Recorded as the host's belief; no checkable document is offered in this segment.
 
 ---
@@ -3263,7 +3268,7 @@ Confidence: high
 - **Artifact verbally referenced but not shown:** Class action lawsuit against Next Model Management / MC2 / Jean-Luc Brunel – referenced and host mentions intent to display, but document not shown in the transcribed segment.
 - **Possible transcription error:** "[ __ ]" placeholder appears in the transcript under the "Holly" comment block; final name redacted.
 - **Name uncertainty:** "James Rawlinson" vs "James Norman Rawlinson Jr." vs "David L. Rawlinson" – host uses inconsistent constructions; original birth name stated as "James Norman Rawlinson Jr."
-- **Name uncertainty:** "Andrew Kolvet" vs "Andrew Kolvet" – both spellings appear; "Kolbenschlag" used in reference to the EEOB appearance, "Kolvet" used in reference to Curtis Colvett's brother. Treat as the same person pending confirmation.
+- **Name uncertainty:** "Andrew Kolvet" vs "Andrew Kolvet" – both spellings appear; "Kolbenschlag" used in reference to the EEOB appearance, "Kolvet" used in reference to Curtis Kolvet's brother. Treat as the same person pending confirmation.
 - **Timestamp uncertainty:** Several artifact video timestamps estimated from chapter markers; precise frame times not confirmed.
 - **Claim failed admission test:** C-2981, C-2982, C-2983, C-2984, C-2985 – host assertions, beliefs, or interpretive claims without artifact anchors displayed in this episode.
 

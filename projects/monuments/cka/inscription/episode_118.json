@@ -622,7 +622,7 @@
       "ref": "N-434",
       "name": "Bradley Hansell",
       "type": "person",
-      "description": "Transcript \"Bradley Hantel\", \"Bradley Hansell\" and \"Bradley Hansell\". Under Secretary of Defense for Intelligence whose office the host says organized SAM 702.",
+      "description": "Transcript \"Bradley Hansell\", \"Bradley Hansell\" and \"Bradley Hansell\". Under Secretary of Defense for Intelligence whose office the host says organized SAM 702.",
       "related_artifacts": [
         "A-2692.1",
         "A-2693.1"
@@ -1432,7 +1432,6 @@
       "transcript_snippet": "So much so that Trump decided to meet with his top officials in the situation room to work through a public plan.",
       "mentions_person_refs": [
         "N-5",
-        "N-85",
         "N-9"
       ]
     },
@@ -1674,7 +1673,6 @@
       "investigative_direction": "ADS-B flight data and Air Force mission records for SAM 702 on September 8–9, 2025.",
       "transcript_snippet": "the plane that flew to Tucson, Arizona on September 8th, 2 days before Charlie's assassination, landed and hung out in Tucson for about 4 hours before it carried on to the Intel base in Fort Huachuca, Arizona, where it stayed overnight.",
       "mentions_person_refs": [
-        "N-362",
         "N-1"
       ]
     },
@@ -1692,7 +1690,7 @@
       "tags": [],
       "claim_timestamp": "00:08:29",
       "investigative_direction": "Department of War travel and mission-request records for SAM 702.",
-      "transcript_snippet": "Now, the person whose office organized that plane is the Under Secretary of Defense for Intelligence, a man named Bradley Hantel.",
+      "transcript_snippet": "Now, the person whose office organized that plane is the Under Secretary of Defense for Intelligence, a man named Bradley Hansell.",
       "supports_claim_refs": [
         "C-2909"
       ],
@@ -1749,7 +1747,7 @@
       "@id": "C-4738",
       "ref": "C-4738",
       "label": "Mitch Snow saw Erika Kirk in the Fort Huachuca hotel lobby on September 8",
-      "claim": "The host says Mitch Snow believes he saw Erika Kirk in a Fort Huachuca hotel lobby on September 8, leaving and getting into a green pickup truck. She says he recognized her eyes and that Hansel may have stayed at the same hotel.",
+      "claim": "The host says Mitch Snow believes he saw Erika Kirk in a Fort Huachuca hotel lobby on September 8, leaving and jumping into a green pickup truck. She says her eyes reminded him of an ex-girlfriend's and he remembered them when he later saw her on stage at the memorial, and that Hansell may have stayed at the same hotel.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10417",
@@ -1806,11 +1804,7 @@
       "tags": [],
       "claim_timestamp": "00:11:06",
       "investigative_direction": "The FOIA acknowledgment letter and tracking number.",
-      "transcript_snippet": "They need to coordinate with multiple departments, and we're number 3,500 to hear back.",
-      "mentions_person_refs": [
-        "N-434",
-        "N-594"
-      ]
+      "transcript_snippet": "They need to coordinate with multiple departments, and we're number 3,500 to hear back."
     },
     {
       "@type": "Claim",
@@ -2062,10 +2056,7 @@
       "tags": [],
       "claim_timestamp": "00:21:39",
       "investigative_direction": "Status of Forces agreements for Bosnia and DynCorp federal contract history after 2002.",
-      "transcript_snippet": "So, in the end, DynCorp got off scot-free and just continued their relationship with the United States government.",
-      "mentions_person_refs": [
-        "N-697"
-      ]
+      "transcript_snippet": "So, in the end, DynCorp got off scot-free and just continued their relationship with the United States government."
     },
     {
       "@type": "Claim",
@@ -2083,8 +2074,7 @@
       "investigative_direction": "The 2010 Cerberus–DynCorp acquisition filing and the 2020 sale to Amentum.",
       "transcript_snippet": "Now, when her movie about the scandal came out in 2010, DynCorp sold to Stephen Feinberg's Cerberus. It was owned by Cerberus for the next 10 years.",
       "mentions_person_refs": [
-        "N-694",
-        "N-697"
+        "N-694"
       ]
     },
     {
@@ -2104,8 +2094,7 @@
       "investigative_direction": "The New York Times article's attributions; Bongino's public statements.",
       "transcript_snippet": "I believe the New York Times article was very well sourced and I believe that one of their obvious sources to me as I read the article seemed like it was Dan Bongino.",
       "mentions_person_refs": [
-        "N-379",
-        "N-5"
+        "N-379"
       ]
     },
     {
@@ -2123,8 +2112,7 @@
       "investigative_direction": "Feinberg's ethics agreement and OGE Form 278 disclosures.",
       "transcript_snippet": "I know since uh Stephen Feinberg has said that he has divested um from Cerberus Capital",
       "mentions_person_refs": [
-        "N-694",
-        "N-434"
+        "N-694"
       ]
     },
     {
@@ -2150,7 +2138,7 @@
       "@id": "C-4758",
       "ref": "C-4758",
       "label": "Department of War offices orchestrated messaging to make Erika Kirk the top trend",
-      "claim": "The host repeats that Erika Kirk was listed as an \"emotional asset\" after the White House Correspondents' Dinner shooting. She says the Department of War, under Hansel, Feinberg and Hegseth, orchestrated messaging to boost her artificially and wanted her to be the number one trend by morning.",
+      "claim": "The host repeats that Erika Kirk was listed as an \"emotional asset\" after the White House Correspondents' Dinner shooting. She says the Department of War, under Hansell, Feinberg and Hegseth, orchestrated messaging to boost her artificially and wanted her to be the number one trend by morning.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10888",
@@ -2230,7 +2218,7 @@
       "@id": "C-4762",
       "ref": "C-4762",
       "label": "Ratajkowski separated from her husband within a year of giving birth",
-      "claim": "The host says Emily Ratajkowski became known for the \"Blurred Lines\" video. She says Ratajkowski and her husband separated within about a year of her giving birth.",
+      "claim": "The host says Emily Ratajkowski became known for the \"Blurred Lines\" video. She says she believes Ratajkowski and her husband separated within a year of her giving birth.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2256,7 +2244,8 @@
       "investigative_direction": "Retrieve the article from The Cut and confirm the excerpt shown on air.",
       "transcript_snippet": "I'm going to show you this moment, how she dresses to go pick up her 5-year-old son from school pick up.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-699"
       ]
     },
     {
@@ -2312,10 +2301,7 @@
       "tags": [],
       "claim_timestamp": "00:43:47",
       "investigative_direction": "The FBI FOIA denial letter and request number.",
-      "transcript_snippet": "Why did you deny it my my 20 days and tell me that it's because it's too complicated. We're asking you for 3 days of someone's schedule.",
-      "mentions_person_refs": [
-        "N-69"
-      ]
+      "transcript_snippet": "Why did you deny it my my 20 days and tell me that it's because it's too complicated. We're asking you for 3 days of someone's schedule."
     },
     {
       "@type": "Claim",
@@ -2340,7 +2326,7 @@
       "@id": "C-4767",
       "ref": "C-4767",
       "label": "Charlie Kirk saved himself for marriage and Erika was his first real relationship",
-      "claim": "Answering a viewer, the host says Charlie Kirk trusted those around him, saved himself for marriage, and that Erika was his first real relationship.",
+      "claim": "Answering a viewer, the host says Charlie Kirk trusted those around him, saved himself for marriage, and that Erika would have been sort of his first real relationship.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2349,9 +2335,7 @@
       "transcript_snippet": "And like I said, you know, Charlie saved himself for for marriage.",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
-        "N-11",
-        "N-14"
+        "N-2"
       ]
     },
     {
@@ -2359,7 +2343,7 @@
       "@id": "C-4768",
       "ref": "C-4768",
       "label": "Erika Kirk brought pastors into Charlie Kirk's faith life",
-      "claim": "The host says Charlie let Erika take over the faith side of his life and that she brought in many pastors, whom he had no reason to suspect.",
+      "claim": "The host says that if Erika urged Charlie to lean into faith, he would let her get involved in the faith department, as he did, and that she brought in many pastors, whom he had no reason to be suspicious of.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"

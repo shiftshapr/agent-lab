@@ -1581,8 +1581,8 @@
       "@type": "Claim",
       "@id": "C-3151",
       "ref": "C-3151",
-      "label": "Host Says Rooftop Footage Shows No Clearly Visible Muzzle Flash",
-      "claim": "The host says that in the rooftop footage she displays, no muzzle flash is clearly visible before the shooter rises to flee.",
+      "label": "Host Says She Sees No Recoil in Rooftop Footage and Notes an Unexplained Flash",
+      "claim": "The host plays about 50 seconds of rooftop footage, asks viewers whether they see a recoil before the shooter gets up and sprints, says she did not see one, and notes a quick flash during the crawl that she is not sure about.",
       "anchored_artifacts": [
         "A-2198.1",
         "A-2198.4"
@@ -1598,8 +1598,8 @@
       "@type": "Claim",
       "@id": "C-3152",
       "ref": "C-3152",
-      "label": "Rooftop footage shows no visible recoil/kickback",
-      "claim": "In the displayed footage, the shooter is not shown exhibiting visible recoil or kickback consistent with the alleged weapon (German 98 Mouser family heirloom) at the moment of firing.",
+      "label": "Host Says She Saw No Recoil in Rooftop Footage",
+      "claim": "The host says she saw no visible recoil or kickback in the displayed footage, though the alleged weapon (a German 98 Mouser family heirloom) would be expected to produce a strong one.",
       "anchored_artifacts": [
         "A-2198.1",
         "A-2198.4"
@@ -1682,6 +1682,8 @@
       "claim_timestamp": "00:30:41–00:31:35",
       "investigative_direction": "Verify against released October 2025 House Committee manifest documents and cross-reference Brunel's known 2006 travel.",
       "mentions_person_refs": [
+        "N-785",
+        "N-9",
         "N-530"
       ]
     },
@@ -1716,7 +1718,10 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:35:52–00:38:42",
-      "investigative_direction": "Confirm by independent review of the video file; verify whether the video is officially Iranian-state-affiliated or third-party."
+      "investigative_direction": "Confirm by independent review of the video file; verify whether the video is officially Iranian-state-affiliated or third-party.",
+      "mentions_person_refs": [
+        "N-9"
+      ]
     },
     {
       "@type": "Claim",
@@ -1775,7 +1780,7 @@
       "@id": "C-7352",
       "ref": "C-7352",
       "label": "Host Says White House Employee Confirmed a Kolvet White House Meeting",
-      "claim": "The host says a White House employee confirmed to her that a White House meeting was on the books for Andrew Kolvet, the TPUSA chief marketing officer, the chief operating officer Justin Streiff and in-house counsel Frank, and that it fell on or near the day Benjamin Netanyahu was in town.",
+      "claim": "The host says a White House employee confirmed to her that a White House meeting was on the books for Andrew Kolvet, the chief marketing officer (Marina), the chief operating officer Justin Streiff and in-house legal counsel Frank, and that it was allegedly scheduled for the same day or week Benjamin Netanyahu was in town.",
       "anchored_artifacts": [
         "A-2873.1"
       ],
@@ -2022,7 +2027,7 @@
       "@id": "C-7363",
       "ref": "C-7363",
       "label": "Host Says Erika Told Her the Preliminary Hearing Would Be Forthcoming",
-      "claim": "The host says she held the rooftop footage because she was told, by Erika Kirk, that the preliminary hearing would be forthcoming about anything and everything they had.",
+      "claim": "The host says she held onto something since October partly because she was told, by Erika Kirk, that at the preliminary hearing they would be forthcoming about anything and everything they had.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10754"
@@ -2087,7 +2092,7 @@
       "@id": "C-7366",
       "ref": "C-7366",
       "label": "Host Says the Witness Reported No Recoil",
-      "claim": "The host says the person who recorded the footage told investigators he saw no recoil, which she argues would be impossible for the alleged model of rifle.",
+      "claim": "The host says the person who recorded the footage told her audience he saw no recoil, which she argues would be impossible for the alleged model of rifle.",
       "anchored_artifacts": [
         "A-2198.4"
       ],
@@ -2226,7 +2231,7 @@
       "@id": "C-7372",
       "ref": "C-7372",
       "label": "Host Names the Dogs Loki and Freya and Says Freya Had a Broken Nose",
-      "claim": "The host says she is told the dog given a scent near the amphitheater was Loki and the bomb dog searching the field was Freya, who she is told had a broken nose that day.",
+      "claim": "The host says people online found that the dog given the scent near the amphitheater was Loki, and that she is told the bomb dog searching the field was Freya, who she is told had a broken nose that day.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11019",
@@ -2318,7 +2323,7 @@
       "@id": "C-7376",
       "ref": "C-7376",
       "label": "Host Describes NCIS Reach and Jurisdiction",
-      "claim": "The host says NCIS has a presence in more than 41 countries and on US Navy vessels, that half its personnel are civilians, and that it investigates major criminal activity involving the Navy and Marine Corps, which she says would include an assassination planned by the military.",
+      "claim": "The host says NCIS has a presence in more than 41 countries and on US Navy vessels, that half its personnel are civilians, and that it investigates major criminal activity involving the Navy and Marine Corps, which she says hypothetically would include an assassination plotted and executed by the military.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11140"
@@ -2377,8 +2382,7 @@
       "transcript_snippet": "No comments will be made on personnel matters and NDAs were signed.",
       "mentions_person_refs": [
         "N-3",
-        "N-784",
-        "N-783"
+        "N-784"
       ]
     },
     {
@@ -2547,7 +2551,7 @@
       "@id": "C-7386",
       "ref": "C-7386",
       "label": "Host Says Her Team Sought Comment from Erika Kirk Over a Modeling Apartments Allegation and Got Nothing",
-      "claim": "The host says her team went to Erika Kirk for comment on a claim about managing modeling apartments, that the host would have instantly denied such a claim, and that the sources are certain it is true and no comment came back.",
+      "claim": "The host says her team went to Erika Kirk for comment on an allegation about managing modeling apartments, that she would instantly have denied such an allegation, that those alleging it are certain it is true, and that no comment came back.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10524"
@@ -2640,14 +2644,14 @@
       "@type": "Claim",
       "@id": "C-7390",
       "ref": "C-7390",
-      "label": "Host Says Charlie Relayed Trump's Private Request That She Stop Speaking About Brigitte Macron",
+      "label": "Host Says Charlie Would Not Have Revealed Trump's Private Request About Brigitte",
       "claim": "The host says that Charlie Kirk 'would not have revealed the private conversation with Trump asking me to stop speaking about Brigitte', calling it a fact; the transcript wording is ambiguous but she presents it as evidence in the dispute over their friendship.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10316"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:45:12",
       "investigative_direction": "Ask the host for the dated message or call record in which Charlie conveyed the request, and ask the White House about it.",
@@ -2721,8 +2725,7 @@
         "C-5223"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-69"
+        "N-3"
       ]
     },
     {

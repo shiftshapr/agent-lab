@@ -2315,6 +2315,7 @@
       "claim_timestamp": "00:03:29",
       "investigative_direction": "Obtain the full unedited Newsmax segment and any forensic analysis comparing the published footage to known ballistic wound kinematics.",
       "mentions_person_refs": [
+        "N-154",
         "N-1"
       ]
     },
@@ -2334,6 +2335,8 @@
       "claim_timestamp": "00:05:31",
       "investigative_direction": "Locate the official forensic pathology report and compare it against the spine-impact narrative as relayed by federal officials.",
       "mentions_person_refs": [
+        "N-948",
+        "N-154",
         "N-1"
       ]
     },
@@ -2425,13 +2428,10 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:17:38",
+      "claim_timestamp": "00:17:10",
       "investigative_direction": "Identify the specific school and roster, and cross-reference yearbook or athletics records.",
       "mentions_person_refs": [
-        "N-508",
-        "N-506",
-        "N-510",
-        "N-509"
+        "N-506"
       ]
     },
     {
@@ -2445,13 +2445,10 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:17:38",
+      "claim_timestamp": "00:17:20",
       "investigative_direction": "Confirm against Weber State graduation records or alumni listings.",
       "mentions_person_refs": [
-        "N-508",
-        "N-506",
-        "N-510",
-        "N-509"
+        "N-506"
       ]
     },
     {
@@ -2465,13 +2462,11 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:20:19",
+      "claim_timestamp": "00:19:40",
       "investigative_direction": "Verify through DPS academy records and class photographs.",
       "mentions_person_refs": [
-        "N-508",
         "N-506",
-        "N-510",
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2479,19 +2474,16 @@
       "@id": "C-3067",
       "ref": "C-3067",
       "label": "Jennifer Faumuina volunteered as a Utah trooper for crowd control at the 2016 RNC in Ohio",
-      "claim": "A 2016 article lists Jennifer Faumuina among volunteer Utah troopers who provided crowd control at the Republican National Convention in Ohio.",
+      "claim": "The host says a 2016 article shows Jennifer Faumuina among the volunteer troopers providing crowd control at the Republican National Convention in Ohio.",
       "anchored_artifacts": [
         "A-2157.4"
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:18:29",
+      "claim_timestamp": "00:17:45",
       "investigative_direction": "Confirm the original article, deployment list, and credentialing records.",
       "mentions_person_refs": [
-        "N-508",
-        "N-506",
-        "N-510",
-        "N-509"
+        "N-506"
       ]
     },
     {
@@ -2505,13 +2497,10 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:18:29",
+      "claim_timestamp": "00:18:15",
       "investigative_direction": "Request Utah state salary records to verify employment dates and rank progression.",
       "mentions_person_refs": [
-        "N-508",
-        "N-506",
-        "N-510",
-        "N-509"
+        "N-506"
       ]
     },
     {
@@ -2525,13 +2514,11 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:20:19",
+      "claim_timestamp": "00:19:40",
       "investigative_direction": "Verify the photograph and underlying academy/class record.",
       "mentions_person_refs": [
-        "N-508",
         "N-506",
-        "N-510",
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2545,13 +2532,11 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:20:19",
+      "claim_timestamp": "00:20:05",
       "investigative_direction": "Confirm the date and ceremony through Utah DPS press releases.",
       "mentions_person_refs": [
-        "N-508",
         "N-506",
-        "N-510",
-        "N-509"
+        "N-508"
       ]
     },
     {
@@ -2570,9 +2555,8 @@
       "claim_timestamp": "00:19:15",
       "investigative_direction": "Verify appointment through the official Utah governor's office announcement or Senate confirmation record.",
       "mentions_person_refs": [
-        "N-41",
         "N-508",
-        "N-506"
+        "N-41"
       ]
     },
     {
@@ -2580,7 +2564,7 @@
       "@id": "C-3072",
       "ref": "C-3072",
       "label": "Host Says Andrew Zenger Was Appointed Timpanogos Hospital CEO on August 18, 2025",
-      "claim": "The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on August 18, 2025, approximately three weeks before the assassination.",
+      "claim": "The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on August 18, 2025, just a couple of weeks before the assassination.",
       "anchored_artifacts": [
         "A-2158.2"
       ],
@@ -2588,7 +2572,7 @@
         "N-10733"
       ],
       "tags": [],
-      "claim_timestamp": "00:21:14",
+      "claim_timestamp": "00:20:36",
       "investigative_direction": "Confirm via hospital press releases and board minutes.",
       "mentions_person_refs": [
         "N-135"
@@ -2663,7 +2647,6 @@
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Obtain original Honolulu-area news archives and Hawaii court records for the criminal case.",
       "mentions_person_refs": [
-        "N-508",
         "N-506",
         "N-510",
         "N-509"
@@ -2683,7 +2666,6 @@
       "claim_timestamp": "00:24:14",
       "investigative_direction": "Retrieve original newspaper articles and any LDS Church ward records.",
       "mentions_person_refs": [
-        "N-506",
         "N-510",
         "N-509"
       ]
@@ -2711,7 +2693,7 @@
       "@id": "C-3079",
       "ref": "C-3079",
       "label": "Frank Turek characterizes the CPR/Harpole divergence as emphasis rather than contradiction",
-      "claim": "Frank Turek stated on the Shawn Ryan Show that Brian Harpole's \"no CPR\" account and his own account of attempting CPR for 20–30 seconds at the end of the ride are not contradictory but rather emphasize different details.",
+      "claim": "Frank Turek stated on a podcast that Brian Harpole's 'no CPR' account and his own account of attempting CPR for 20-30 seconds at the end of the ride are not contradictory but rather emphasize different details.",
       "anchored_artifacts": [
         "A-2161.1"
       ],
@@ -2731,7 +2713,7 @@
       "@id": "C-3080",
       "ref": "C-3080",
       "label": "Blake Neff revised his hotel-location statement from Orem to Salt Lake City",
-      "claim": "Blake Neff initially stated the Turning Point USA team stayed overnight in Orem, UT, then revised the statement to Salt Lake City.",
+      "claim": "The host says Blake Neff initially said he spent the night in Orem, UT, then revised the statement to Salt Lake City, where she says the Turning Point USA team stayed.",
       "anchored_artifacts": [
         "A-2162.1",
         "A-2162.2"
@@ -2781,7 +2763,8 @@
       "claim_timestamp": "00:41:03",
       "investigative_direction": "Verify the post's text and timestamps; check Andrew Kolvet's residence and any prior Fort Huachuca references.",
       "mentions_person_refs": [
-        "N-14"
+        "N-14",
+        "N-691"
       ]
     },
     {
@@ -3521,7 +3504,7 @@
       "@type": "Claim",
       "@id": "C-14744",
       "ref": "C-14744",
-      "label": "Host Says Patel Fired the Salt Lake City FBI Head and Installed Bowles From Virginia",
+      "label": "Host Says Patel Fired the Salt Lake City FBI Head and Installed Bohls From Virginia",
       "claim": "The host says Special Agent Robert Bohls had served in an FBI office in Virginia, and that Kash Patel fired the person heading the FBI Salt Lake City office and installed Bowles.",
       "anchored_artifacts": [
         "A-2158.5"
@@ -3548,7 +3531,7 @@
       "@type": "Claim",
       "@id": "C-14745",
       "ref": "C-14745",
-      "label": "Host Says Bowles Had Almost 20 Years in the FBI Across the United States",
+      "label": "Host Says Bohls Had Almost 20 Years in the FBI Across the United States",
       "claim": "The host says Robert Bohls had a very long tenure of almost 20 years with the FBI all over the United States before taking the Salt Lake City post.",
       "anchored_artifacts": [
         "A-2158.5"
@@ -4198,11 +4181,11 @@
       "@id": "C-14773",
       "ref": "C-14773",
       "label": "Host Says Kolvet Claims His Show Is Doing Great While Hers Is Crashing",
-      "claim": "The host says Andrew Kolvet is telling people that his show is doing great while hers is crashing and her metrics are down.",
+      "claim": "The host says Andrew Kolvet is telling her that his show is doing great while hers is crashing and her metrics are down.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:39:40",
       "investigative_direction": "Compare public viewership figures for both shows over the same period.",
@@ -4264,7 +4247,7 @@
       "@id": "C-14776",
       "ref": "C-14776",
       "label": "Host Says Andrew Kolvet Replied That He Cannot Even Say Huachuca",
-      "claim": "The host says Andrew Kolvet chimed in on his brother's post saying he cannot even say the name and that people cannot pronounce it.",
+      "claim": "The host says Andrew Kolvet chimed in on his brother's post with something like \"Yeah, I can't even say it. They can't even like pronounce it,\" in what she presents as his reply.",
       "anchored_artifacts": [
         "A-3343.1"
       ],
@@ -4464,7 +4447,7 @@
       "@id": "C-14785",
       "ref": "C-14785",
       "label": "Host Says She Agrees With O'Neill That It Looks Like an Explosion Under the Shirt",
-      "claim": "The host says she agrees with Robert O'Neill that it looks like an explosion went up under Kirk's shirt, and that O'Neill knows what a shot looks like up close.",
+      "claim": "The host says she agrees with Robert O'Neill that it looks like an explosion went up under Kirk's shirt, and that O'Neill has killed a person or two and might know what a shot looks like up close.",
       "anchored_artifacts": [
         "A-2153.1"
       ],
@@ -4511,8 +4494,8 @@
       "@type": "Claim",
       "@id": "C-14787",
       "ref": "C-14787",
-      "label": "Host Says the Farnsworths Took Down the Cameras and Go Way Back",
-      "claim": "The host says the Farnsworth family, which she calls a big Mormon family, took down the cameras, and that they and others go way back.",
+      "label": "Viewer Comment Says the Farnsworths Took Down the Cameras and Go Way Back",
+      "claim": "A viewer comment the host reads says the Farnsworth family, a big Mormon family, took down the cameras, and that they go way back.",
       "anchored_artifacts": [
         "A-3344.2"
       ],
@@ -4576,8 +4559,8 @@
       "@type": "Claim",
       "@id": "C-14790",
       "ref": "C-14790",
-      "label": "Host Says the Screwdriver Apparently Cannot Unscrew the Weapon Said to Have Been Fired",
-      "claim": "The host says the screwdriver apparently cannot even unscrew the weapon that officials say was fired.",
+      "label": "Viewer Comment Says the Screwdriver Apparently Cannot Unscrew the Weapon Said to Have Been Fired",
+      "claim": "A viewer comment the host reads says the screwdriver apparently cannot even unscrew the weapon that they are saying was fired.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10090",
@@ -5057,7 +5040,7 @@
           "episode": 128,
           "video_timestamp": "00:30:22",
           "speaker_node_ref": "N-3",
-          "quote": "Let's start with Frank Cheric versus Frank Cheric cuz that's my favorite UFC matchup.",
+          "quote": "Let's start with Frank Turek versus Frank Turek cuz that's my favorite UFC matchup.",
           "context": "Host frames Frank Turek's new account against his earlier one as a fight card.",
           "confidence": "high",
           "tags": [

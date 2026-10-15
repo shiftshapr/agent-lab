@@ -842,7 +842,7 @@
       "ref": "N-11",
       "name": "Tyler Bowyer",
       "type": "person",
-      "description": "Transcript spelling \"Taylor Boyer\" at 20:37. On the connecting-themes spreadsheet for his Romania, Russia and Ukraine ties; the host says he hired those around Charlie Kirk.",
+      "description": "Transcript spelling \"Tyler Bowyer\" at 20:37. On the connecting-themes spreadsheet for his Romania, Russia and Ukraine ties; the host says he hired those around Charlie Kirk.",
       "related_artifacts": [
         "A-2685.1",
         "A-2685.2"
@@ -867,7 +867,7 @@
       "ref": "N-14",
       "name": "Andrew Kolvet",
       "type": "person",
-      "description": "Transcript spellings \"Andrew Corbett\" (24:24) and \"Andrew Cole\" (55:47). Speaks about the necklace in the Laura Ingraham clip; his brother Curtis is said to be stationed in Romania.",
+      "description": "Transcript spellings \"Andrew Corbett\" (24:24) and \"Andrew Kolvet\" (55:47). Speaks about the necklace in the Laura Ingraham clip; his brother Curtis is said to be stationed in Romania.",
       "related_artifacts": [
         "A-2677.3",
         "A-2685.1",
@@ -2181,7 +2181,8 @@
       "mentions_person_refs": [
         "N-14",
         "N-2",
-        "N-1"
+        "N-1",
+        "N-692"
       ]
     },
     {
@@ -2203,8 +2204,6 @@
       "transcript_snippet": "the reason the feds were looking for that necklace, the reason um that it was given to Erika is because if our theory is correct, it contained explosive residue.",
       "mentions_person_refs": [
         "N-2",
-        "N-191",
-        "N-160",
         "N-1"
       ]
     },
@@ -2226,7 +2225,7 @@
       "investigative_direction": "Obtain police and federal K-9 deployment records for the UVU scene on September 10 and the work orders for the paving and excavation.",
       "transcript_snippet": "The rigged mic would go a long way in terms of explaining uh why the bomb dogs were kept away from the scene.",
       "mentions_person_refs": [
-        "N-10107"
+        "N-1"
       ]
     },
     {
@@ -2402,13 +2401,13 @@
       "@id": "C-4666",
       "ref": "C-4666",
       "label": "Erika Kirk forgave Tyler Robinson faster than she forgave Druski",
-      "claim": "The host says Erika Kirk publicly forgave Tyler Robinson more quickly than she forgave the comedian Druski (\"Jurski\"), at whom she later said she was much angrier.",
+      "claim": "The host says Erika Kirk publicly forgave Tyler Robinson more quickly than she forgave Druski (\"Druski\"), at whom she later said she was much angrier.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:19",
       "investigative_direction": "Compare the dates and wording of Erika Kirk's public statements on Tyler Robinson and on the Druski skit.",
-      "transcript_snippet": "why Erika was quick to forgive Tyler Robinson before the world, quicker than she was able to forgive Jurski",
+      "transcript_snippet": "why Erika was quick to forgive Tyler Robinson before the world, quicker than she was able to forgive Druski",
       "mentions_person_refs": [
         "N-2",
         "N-40"
@@ -2460,7 +2459,7 @@
       "@id": "C-4669",
       "ref": "C-4669",
       "label": "The wireless mic redundancy began after the host stopped touring with Charlie Kirk, as Farnsworth admitted to her",
-      "claim": "The host says the wireless Rode mic was added as a redundancy starting with the first campus tour on which she was not featured alongside Charlie Kirk. She says Terryl Farnsworth admitted this to her by phone.",
+      "claim": "The host says it seems the wireless Rode mic was added as a redundancy starting with the first campus tour on which she was not featured alongside Charlie Kirk. She says that was also admitted to her by Terryl Farnsworth on the phone.",
       "anchored_artifacts": [
         "A-2681.1"
       ],
@@ -2534,7 +2533,8 @@
       "transcript_snippet": "We know Terryl Farnsworth is running this team. He has for over 10 years.",
       "mentions_person_refs": [
         "N-262",
-        "N-11"
+        "N-11",
+        "N-1"
       ]
     },
     {
@@ -2576,7 +2576,6 @@
       "mentions_person_refs": [
         "N-688",
         "N-262",
-        "N-182",
         "N-1"
       ]
     },
@@ -2585,7 +2584,7 @@
       "@id": "C-4675",
       "ref": "C-4675",
       "label": "Video analysis: the dual charging cases identify the mic as a Rode Wireless Pro",
-      "claim": "In a video by X user Sam Parker, Philip Goldsberry is shown holding the transmitter and lapel magnet near Terryl Farnsworth and Frank Turek. Parker says the dual charging cases or docking stations show the mic is a Rode Wireless Pro.",
+      "claim": "In a video by X user Sam Parker, Philip Goldsberry is shown holding the transmitter and lapel magnet behind Frank Turek, and earlier holding the mic in front of someone who looks like Terryl Farnsworth. Parker says the dual charging cases or docking stations show the mic is a Rode Wireless Pro.",
       "anchored_artifacts": [
         "A-2683.1"
       ],
@@ -2692,7 +2691,7 @@
       "@id": "C-4680",
       "ref": "C-4680",
       "label": "Soter Global Ministries provided medical care to orphanages in Ukraine and Romania",
-      "claim": "The host says the organization, Soter Global Ministries, worked in Ukraine and in Romania providing medical care to orphanages, and that her team has verified the connection with pictures.",
+      "claim": "The host says the organization, Soter Global Ministries, worked in Ukraine and in Romania, helping provide medical care to orphanages, and that her team verified the father's identity and has pictures.",
       "anchored_artifacts": [
         "A-2684.3"
       ],
@@ -2745,7 +2744,7 @@
       "tags": [],
       "claim_timestamp": "00:18:27",
       "investigative_direction": "Identify the officer's correct name and command, find the source of the accusation, and check for any official investigation or finding.",
-      "transcript_snippet": "This is what landed Erika's Romanian Angels in some hot water online when they realized she was partnering with Colonel Auto Buscher",
+      "transcript_snippet": "This is what landed Erika's Romanian Angels in some hot water online when they realized she was partnering with Colonel Otto Busher",
       "mentions_person_refs": [
         "N-2",
         "N-690"
@@ -2806,7 +2805,7 @@
       "tags": [],
       "claim_timestamp": "00:20:37",
       "investigative_direction": "Confirm the dates and location of Bowyer's mission service through church mission records or his own public statements.",
-      "transcript_snippet": "in these years, 2006, 2005, this is also when Taylor Boyer is out doing missionary work in this exact same region.",
+      "transcript_snippet": "in these years, 2006, 2005, this is also when Tyler Bowyer is out doing missionary work in this exact same region.",
       "mentions_person_refs": [
         "N-11"
       ]
@@ -2816,7 +2815,7 @@
       "@id": "C-4686",
       "ref": "C-4686",
       "label": "Host hears Erika Kirk used the same modeling office as a woman close to Epstein",
-      "claim": "The host says she is hearing from people that Erika Kirk was frequenting the same modeling office as a woman who was very close to Jeffrey Epstein and whose firm allegedly trafficked Eastern European models. This is attributed to unnamed sources.",
+      "claim": "The host says she is hearing from people that Erika Kirk was hanging out at the same modeling office as Jeffrey Epstein. She refers to a woman close to Epstein, through whose firm Eastern European models seem to have been trafficked. This is attributed to unnamed sources.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10698"
@@ -2835,7 +2834,7 @@
       "@id": "C-4687",
       "ref": "C-4687",
       "label": "Epstein went down almost to the day of Charlie and Erika Kirk's first date",
-      "claim": "The host says Jeffrey Epstein died (she says August 2019) almost to the day that Charlie Kirk and Erika Kirk went on their first date.",
+      "claim": "The host says Jeffrey Epstein \"goes down\" almost to the day that Charlie Kirk and Erika Kirk went on their first date; she says she thinks that was August 2019, when Epstein killed himself.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -3188,7 +3187,7 @@
       "@id": "C-4704",
       "ref": "C-4704",
       "label": "Night before: Charlie Kirk told a group text \"keep the money\" and texted that he feared a trans person would kill him",
-      "claim": "The host says that on the night before he died, after Charlie Kirk said he was leaving the pro-Israel cause and a rabbi and Josh Hammer called him, he wrote on a group text, \"You guys keep the money. I don't want it.\" She says he then texted his team that he feared a trans person would kill him.",
+      "claim": "The host says that on the night before he died, after Charlie Kirk said he was leaving the pro-Israel cause and a rabbi and Josh Hammer called him, he wrote on a group text, \"You guys keep the money. I don't want it.\" She says he then texted his team, about a \"trans fairy,\" \"That's who's going to kill me.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10816"
@@ -3468,7 +3467,7 @@
       "@id": "C-4718",
       "ref": "C-4718",
       "label": "The TPUSA staff did not try to help Charlie Kirk or call 911",
-      "claim": "The host says the Turning Point staff, naming Mikey McCoy, Blake Neff and Andrew Sypher (\"Andrew Cypher\"), did not try to assist Charlie Kirk or call 911. She says they instead ran under the underpass.",
+      "claim": "The host says the Turning Point team broadly, including staff she gives as examples such as Mikey McCoy, Blake Neff and Andrew Sypher (\"Andrew Cypher\"), did not try to assist Charlie Kirk or call 911. She says they instead ran under the underpass.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10729",

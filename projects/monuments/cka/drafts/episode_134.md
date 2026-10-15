@@ -647,11 +647,11 @@ The dispute over whether a screwdriver was recovered from or used on the Lozi ro
 
 ## V. Claim Register
 
-**C-3162** Defense Memo: Bullet Perforated Left Neck Structures and C7 Vertebra
+**C-3162** Prosecution Memo: Bullet Perforated Left Neck Structures and C7 Vertebra
 
 Claim Timestamp: 00:33:25
 
-Claim: The defense memorandum excerpt states the bullet sequentially perforated the anterior left side of Kirk's neck strap muscles, left common carotid artery, and left internal and external jugular veins, obliterated the left side of C7 vertebra, and transected the cervical spinal cord.
+Claim: Per the prosecution's memorandum the host reads, the bullet, or at least parts of it, sequentially perforated the anterior left side of Kirk's neck strap muscles, left common carotid artery, and left internal and external jugular veins, obliterated the left side of the C7 vertebra, and transected the cervical spinal cord.
 
 Anchored Artifacts: A-2207.1
 Mentions: N-1
@@ -662,11 +662,11 @@ Investigative Direction: Obtain the complete defense memorandum and compare with
 
 ---
 
-**C-3163** Defense Memo: Hemorrhaging Around Heart and Both Lungs Observed
+**C-3163** Prosecution Memo: Hemorrhaging Around Heart and Both Lungs Observed
 
 Claim Timestamp: 00:34:21
 
-Claim: The defense memorandum states the medical examiner observed hemorrhaging around Kirk's heart and both of his lungs (left and right).
+Claim: Per the prosecution's memorandum the host reads, the medical examiner observed hemorrhaging around Kirk's heart and both of his lungs (left and right).
 
 Anchored Artifacts: A-2207.1
 Mentions: N-1
@@ -713,7 +713,7 @@ Investigative Direction: Obtain the original tweet thread; verify timing relativ
 
 Claim Timestamp: 00:15:40
 
-Claim: In a Sky News clip the host plays, a reporter says that on 2025-09-11 at approximately 5:27 PM Phoenix time Air Force 2 had landed at Sky Harbor Airport carrying Kirk's body and that the motorcade was heading to Hansen Mortuary in Phoenix.
+Claim: In a Sky News clip the host plays, a reporter says that on 2025-09-11 at 5:27 PM Phoenix time Air Force 2 had landed about an hour earlier at Sky Harbor Airport carrying Kirk's body and that the motorcade was heading to Hansen Mortuary in Phoenix.
 
 Anchored Artifacts: A-2205.1
 Mentions: N-1
@@ -728,10 +728,10 @@ Investigative Direction: Cross-reference Sky News broadcast archive; confirm mor
 
 Claim Timestamp: 00:18:27
 
-Claim: On a pre-recorded appearance on Alex Clark's show prior to the Catholic funeral mass, Andrew Kolvet stated Charlie was not becoming Catholic, described Erika as a cradle Catholic who followed a non-denominational path, and cited a prior social media exchange in which Erika herself denied conversion.
+Claim: In a clip the host plays from Alex Clark's show, Andrew Kolvet says Charlie was not becoming Catholic and describes Erika as a cradle Catholic who, like him, followed a non-denominational path; another speaker in the clip adds that Erika once answered a comment asking if they were converting with "No, we just like attending sometimes."
 
 Anchored Artifacts: A-2206.1
-Mentions: N-14, N-99
+Mentions: N-14, N-99, N-2
 
 Related Nodes: N-10764
 
@@ -791,9 +791,10 @@ Investigative Direction: Verify original tweet content and timing.
 
 Claim Timestamp: 00:12:19
 
-Claim: On a podcast referred to by the host as the "Beavis and Butt-Head show," a participant identified as Andrew described another rooftop video angle in which the shooter rolls over the railing, appears to assemble or pull a weapon from his pants, there is a brief blind spot, and then the visible Lozi footage shows him running and taking a prone position.
+Claim: On a show the host calls the "Beavis and Butt-Head show," a speaker identified as Andrew says people inside the courtroom told him another angle shows the shooter roll over the railing and assemble the weapon, partly obscured by the railing; a second speaker adds that he appears to pull the rifle from his pant leg, there is a brief blind spot, and the visible Lozi footage then shows him running and taking a prone position.
 
 Anchored Artifacts: A-2213.1
+Mentions: N-14
 
 Related Nodes: N-10762
 
@@ -805,7 +806,7 @@ Investigative Direction: Identify the actual podcast; obtain the full episode; v
 
 Claim Timestamp: 00:07:33
 
-Claim: A Media Siege host known as "Paramount Not So Tactical" shared a photo of a baby crawling, presented as proof that the rooftop figure's behavior was untrained human reflex rather than tactical training.
+Claim: The host says an account she calls "Paramount Not So Tactical," a regular on Media Siege in her telling, shared a photo of a baby learning to crawl, which she says was offered as proof that the rooftop figure was untrained rather than tactical.
 
 Anchored Artifacts: A-2214.1
 
@@ -945,7 +946,7 @@ Investigative Direction: Find who coordinated influencer attendance at the heari
 
 Claim Timestamp: 00:06:39
 
-Claim: The host says her video shows the person on the Lozi roof was a decoy who never fired a shot, and that Tim Pool misread the video as a counter to the exploding mic claims.
+Claim: The host says her video argued the person on the Lozi roof was a decoy who never fired a shot, and that Tim Pool misread the video as a counter to the exploding mic claims.
 
 Transcript Snippet: Effectively, we were saying this person was a decoy and never fired a shot.
 
@@ -998,7 +999,7 @@ Claim: The host reads Blake Neff's post saying it is the defense that demanded t
 Transcript Snippet: it is the defense that demanded that it be kept from the public on the grounds that it would prejudice Tyler.
 
 Anchored Artifacts: A-2212.1
-Mentions: N-160, N-93, N-40
+Mentions: N-160, N-40
 Related Nodes: N-10769
 Tags: relevance:core
 Investigative Direction: Check the docket for the defense motion seeking to limit public release of the rooftop exhibit.
@@ -1276,7 +1277,7 @@ Transcript Snippet: It was a conversation that was happening even between me and
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10164, N-10350
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Look for messages or witnesses to the host's conversations with Charlie about Catholicism.
 
 ---
@@ -1512,7 +1513,7 @@ Investigative Direction: Request cemetery plot, grave opening and interment reco
 
 Claim Timestamp: 00:25:17
 
-Claim: The host says attendees were told to leave while TPUSA would handle the rest, with Charlie going somewhere unmarked out of fear that the left could desecrate his burial place.
+Claim: The host says attendees at the cemetery were asked to leave and were told "You leave and we'll handle the rest," and that they were told Charlie would be put somewhere unmarked for fear the left could desecrate his burial place.
 
 Transcript Snippet: Rather, they were told, "You leave and we'll handle the rest."
 
@@ -1769,7 +1770,7 @@ Investigative Direction: Review the hospital records and treatment timeline.
 
 Claim Timestamp: 00:37:12
 
-Claim: The host says she believes the microphone exploded on Charlie, and that hemorrhaging could come from blunt force trauma to the heart.
+Claim: The host says she believes the microphone exploded on Charlie, and that there is a chance hemorrhaging in the heart and lungs could come from blunt force trauma to the heart.
 
 Transcript Snippet: I am a person who does believe that the microphone exploded on him.
 
@@ -1850,7 +1851,7 @@ Investigative Direction: Ask the prosecution and the witnesses whether any conta
 
 Claim Timestamp: 00:38:01
 
-Claim: In the hearing clip, the prosecution asserts the defendant used a screwdriver and cites exhibits 12.1 and 12.4 as proof.
+Claim: The host says that in the hearing clip she plays, the prosecution asserts the defendant used a screwdriver and cites exhibits 12.1 and 12.4 as proof.
 
 Transcript Snippet: they cite the exhibits 12.1 and 12.4 as proof of that.
 
@@ -2006,7 +2007,7 @@ Investigative Direction: Have a physicist or forensic expert analyze the shot vi
 
 Claim Timestamp: 00:52:26
 
-Claim: The host says her book club is discussing the Pale of Settlement in Russia, and characterizes people who migrated west from there, which she links to Ukraine and Lithuania, as running countries.
+Claim: The host says her book club is discussing the Pale of Settlement in Russia, and describes the evil people who migrated west from there, which she links to Ukraine and Lithuania, as now running our countries and into Baal worship.
 
 Transcript Snippet: We are talking right now um about the Pale of Settlement in Russia.
 

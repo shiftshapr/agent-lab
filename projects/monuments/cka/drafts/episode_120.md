@@ -442,7 +442,7 @@ Subject of the Tim Dillon parody reading and of the host's remark about his book
 
 **N-7** Frank Turek
 
-Rendered "Frank Cheric" and "Frank Turek" in the transcript; the host describes his hospital clothing change and his role in the necklace chain.
+Rendered "Frank Turek" and "Frank Turek" in the transcript; the host describes his hospital clothing change and his role in the necklace chain.
 
 *Related: C-5782, C-5790*
 
@@ -586,7 +586,7 @@ Host of programming on which, per a viewer comment, Larry Johnson appears.
 
 **N-684** Jon Bray
 
-Analyst the host credits with identifying the mic as a possible shaped-charge source (rendered "John Bray" in the transcript).
+Analyst the host credits with identifying the mic as a possible shaped-charge source (rendered "Jon Bray" in the transcript).
 
 *Related: C-5793*
 
@@ -925,7 +925,7 @@ Claim Timestamp: 00:05:20
 Claim: Brian Harpole states in the Shawn Ryan interview that he personally cut Charlie Kirk's white "freedom shirt" off at the hospital.
 
 Anchored Artifacts: A-2085.1
-Mentions: N-267, N-1
+Mentions: N-267, N-1, N-225
 
 Related Nodes: N-10676
 
@@ -940,7 +940,7 @@ Claim Timestamp: 00:18:25
 Claim: In her first Fox 13 interview, Sarah Tool stated that Charlie Kirk was shot directly in the heart from her right side, with a single shot.
 
 Anchored Artifacts: A-2086.1
-Mentions: N-1
+Mentions: N-732, N-1
 
 Related Nodes: N-10677
 
@@ -950,12 +950,12 @@ Investigative Direction: Obtain original Fox 13 footage; verify timestamp and qu
 
 **C-2937** Sarah Tool's Second Interview Asserted Shot to Neck
 
-Claim Timestamp: 00:20:48
+Claim Timestamp: 00:20:28
 
 Claim: Approximately 51 minutes after her first interview, Sarah Tool stated in local media that Charlie Kirk was shot in the neck.
 
 Anchored Artifacts: A-2086.2
-Mentions: N-1
+Mentions: N-732, N-1
 
 Related Nodes: N-10677
 
@@ -967,10 +967,10 @@ Investigative Direction: Obtain original local-media footage and timestamp; docu
 
 Claim Timestamp: 00:21:43
 
-Claim: In her ABC News interview, Sarah Tool stated the shooter was approximately 200 yards away and that the shot struck Charlie Kirk in the left side of the neck.
+Claim: In her ABC News interview, Sarah Tool said she thought the shooter was about 200 yards away and that the shot struck Charlie Kirk in the neck, going "right into his left side."
 
 Anchored Artifacts: A-2086.3
-Mentions: N-1
+Mentions: N-732, N-1
 
 Related Nodes: N-10677
 
@@ -985,7 +985,7 @@ Claim Timestamp: 00:25:38
 Claim: The host says Judge Graff has denied the defense motion to compel Lance Twiggs to appear in person at the preliminary hearing set for the week of July 6.
 
 Anchored Artifacts: A-2092.1
-Mentions: N-40, N-54
+Mentions: N-40, N-54, N-136
 
 Related Nodes: N-10679
 
@@ -1034,7 +1034,7 @@ Mentions: N-1
 
 Related Nodes: N-10678
 
-Investigative Direction: Source original high-resolution images from John Bray or other collectors; submit for independent forensic image analysis.
+Investigative Direction: Source original high-resolution images from Jon Bray or other collectors; submit for independent forensic image analysis.
 
 ---
 
@@ -1072,7 +1072,7 @@ Investigative Direction: Obtain original Miss Arizona-era signed documents from 
 
 Claim Timestamp: 00:01:11
 
-Claim: The host says TPUSA moved to sell the white "freedom shirt" that Charlie Kirk was wearing when he died "like hotcakes right after he passed," at $59.99.
+Claim: The host says TPUSA moved to sell the "freedom shirt", like the one Charlie Kirk was wearing when he died, "like hotcakes right after he passed," at $59.99, and that she wanted to know what happened to the original.
 
 Transcript Snippet: the one that TPUSA moved to sell like hotcakes right after he passed. I don't Don't you want to own the shirt that Charlie Kirk was wearing when he died? $59.99 and it could be yours.
 
@@ -1118,9 +1118,9 @@ Investigative Direction: Obtain UVU facilities work orders and the paving contra
 
 Claim Timestamp: 00:03:41
 
-Claim: The host says the feds were looking for Charlie's necklace, as was Frank Cheric (Turek), and that it was then given to the widow, who now wears it.
+Claim: The host says the feds were looking for Charlie's necklace, as was Frank Turek, and that it was then given to the widow, who now wears it.
 
-Transcript Snippet: the feds were looking for it for some unknown reason, as was Frank Cheric, and it was then given to the widow, who now wears it around her neck.
+Transcript Snippet: the feds were looking for it for some unknown reason, as was Frank Turek, and it was then given to the widow, who now wears it around her neck.
 
 Anchored Artifacts:
 Mentions: N-7
@@ -1271,7 +1271,7 @@ Investigative Direction: Check the State's exhibit and evidence lists in the Rob
 
 Claim Timestamp: 00:12:20
 
-Claim: The host says the SUV was sent for a tow, a cleanup and an auction very quickly and was not kept for evidence.
+Claim: The host says, running the scenario that it was an inside job, that the SUV was sent for a tow, a cleanup and an auction very expeditiously and that they did not want to keep it for evidence.
 
 Transcript Snippet: The car was sent for a tow, a cleanup, and auction all very expeditiously. They didn't want to keep this for evidence.
 
@@ -1283,13 +1283,13 @@ Investigative Direction: Obtain tow, cleaning and auction records for the SUV wi
 
 ---
 
-**C-5793** John Bray identified the mic as a possible shaped-charge source and looked for ABS shards
+**C-5793** Jon Bray identified the mic as a possible shaped-charge source and looked for ABS shards
 
 Claim Timestamp: 00:12:20
 
-Claim: The host says John Bray immediately identified the mic as the potential source of a shaped-charge explosion and went looking for shattered ABS from the Rode Wireless Pro.
+Claim: The host says Jon Bray immediately identified the mic as the potential source of a shaped-charge explosion and went looking for shattered ABS from the Rode Wireless Pro.
 
-Transcript Snippet: John Bray, who immediately identified the mic as the potential source of a shaped charge explosion, was on the pursuit looking for shattered ABS glass from the Rode Wireless Pro.
+Transcript Snippet: Jon Bray, who immediately identified the mic as the potential source of a shaped charge explosion, was on the pursuit looking for shattered ABS glass from the Rode Wireless Pro.
 
 Anchored Artifacts:
 Mentions: N-684
@@ -1564,7 +1564,7 @@ Claim: The host says Twiggs now lives out of state.
 Transcript Snippet: Twigs now lives out of state, but the judge has ruled that the purpose of this hearing
 
 Anchored Artifacts: A-2092.1
-Mentions: N-54, N-136
+Mentions: N-54
 Related Nodes: N-10679
 Investigative Direction: Check the filings for any representation about Twiggs' residence and his availability to testify.
 
@@ -1609,7 +1609,7 @@ Claim: The host says the defense is not allowed to question the person who says 
 Transcript Snippet: They are not allowed to question the person who says that he found the notes. They're just going to play a recording of him saying that they found it.
 
 Anchored Artifacts: A-2092.1
-Mentions: N-54, N-136
+Mentions: N-54
 Related Nodes: N-10679
 Investigative Direction: Obtain the recorded statement and the ruling to confirm who found the notes and what the recording covers.
 
@@ -1829,7 +1829,7 @@ Investigative Direction: Obtain a recorded or written account from the model and
 
 ---
 
-**C-5829** Host solicits tips on Erika and Next Model Management at DIA addresses
+**C-5829** Host Solicits Tips on Erika and Next Model Management
 
 Claim Timestamp: 00:38:03
 
@@ -2038,7 +2038,7 @@ Claim: The host says J.D. Vance dropped a book about his Catholicism.
 Transcript Snippet: and then J. D. Vance drops a book about his Catholicism.
 
 Anchored Artifacts:
-Mentions: N-4, N-278
+Mentions: N-4
 Related Nodes:
 Investigative Direction: Confirm the title, publisher and release date of the book.
 
@@ -2064,7 +2064,7 @@ Investigative Direction: Locate the original Tim Dillon episode and confirm the 
 
 Claim Timestamp: 00:49:17
 
-Claim: The host acknowledges that many will say the excerpt is not technically in Vance's book and says it is the essence of the book.
+Claim: In the clip the host plays, Tim Dillon says many people will say the excerpt is not technically in Vance's book, and that it is the essence of the book.
 
 Transcript Snippet: many people are going to say, "Well, that's not technically in his book." It's the essence of the book.
 
@@ -2367,7 +2367,7 @@ Confidence: high
 
 - **Name uncertainty**: Transcript renders the signature as "Erica Lane" at A-2091.1 reference (39:46). This may be a transcription artifact, a nickname, or an alternative spelling. Host references it as "her new signature, Erica Lane, the one that's scratched out." Preserved verbatim.
 - **Name uncertainty**: Host uses both "Shawn Ryan" and "Shawn Ryan" for the same podcast host. Preserved both spellings as appearing.
-- **Name uncertainty**: Host uses both "Frank Cheric" and "Frank Turek" in reference to the same individual traveling with Charlie. Preserved both as appearing.
+- **Name uncertainty**: Host uses both "Frank Turek" and "Frank Turek" in reference to the same individual traveling with Charlie. Preserved both as appearing.
 - **Artifact verbally referenced but not shown**: A-2092.1 (Judge Graff ruling) – host summarizes the ruling but the underlying court document is not displayed on screen.
 - **Witness not shown in episode**: Host reports that "another person has come forward and confirmed" Erika Frantzve's role as apartment contact at Next Model Management; this witness is not shown speaking on this episode. Not inscribed as artifact-backed claim.
 - **Claim failed admission test**: Host's interpretation of Erika Kirk's behavior as consistent with dissociative identity disorder – fails Rhetoric Removal Test; treated as interpretive commentary.

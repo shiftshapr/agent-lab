@@ -1,0 +1,465 @@
+[
+ {
+  "claim": "C-3072",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on August 18, 2025, just a couple of weeks before the assassination.",
+   "timestamp": "00:20:36"
+  },
+  "note": "Host says 'just a couple of weeks before'; Zenger mentioned ~20:41."
+ },
+ {
+  "claim": "C-3076",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-506",
+    "N-510",
+    "N-509"
+   ]
+  },
+  "note": "Beau Mason not referred to in claim."
+ },
+ {
+  "claim": "C-3077",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-510",
+    "N-509"
+   ]
+  },
+  "note": "Jennifer not named or referred to in claim."
+ },
+ {
+  "claim": "C-3079",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "claim": "Frank Turek stated on a podcast that Brian Harpole's 'no CPR' account and his own account of attempting CPR for 20-30 seconds at the end of the ride are not contradictory but rather emphasize different details."
+  },
+  "note": "Shawn Ryan Show never named in episode; host says only 'this podcast'."
+ },
+ {
+  "claim": "C-3082",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-691"
+   ]
+  },
+  "note": "Lt. Col. Kolvet ('his only brother') is the claim's subject; N-691 is that brother."
+ },
+ {
+  "claim": "C-14787",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says the Farnsworth family, a big Mormon family, took down the cameras, and that they go way back.",
+   "label": "Viewer Comment Says the Farnsworths Took Down the Cameras and Go Way Back"
+  },
+  "note": "Words are inside Intuition Jen's quoted comment."
+ },
+ {
+  "claim": "C-14790",
+  "episode": 128,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says the screwdriver apparently cannot even unscrew the weapon that they are saying was fired.",
+   "label": "Viewer Comment Says the Screwdriver Apparently Cannot Unscrew the Weapon Said to Have Been Fired"
+  },
+  "note": "Sentence closes Zam it's quoted comment."
+ },
+ {
+  "claim": "C-3092",
+  "episode": 129,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:16:48"
+  },
+  "note": "Original content is right: at ~16:53 host says he calls Rob, merges, ends calls with Rob and Elizabeth, then 10-min Danny call. Only timestamp wrong."
+ },
+ {
+  "claim": "C-3093",
+  "episode": 129,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-191",
+    "N-160",
+    "N-2"
+   ]
+  },
+  "note": "Claim names Erika."
+ },
+ {
+  "claim": "C-3101",
+  "episode": 129,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a Twitter Space clip the host plays, Blake Neff says nothing compares to Candace Owens spending 10 months making every episode target Erika and Turning Point, and says he does not think Alex Jones made the Sandy Hook parents the only subject of his show for a 10-month period."
+  },
+  "note": "Neff never says 'exceeds'; fix matches clip."
+ },
+ {
+  "claim": "C-11615",
+  "episode": 129,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika got on a Zoom call and, in the host's rendering of her words, said the sales had been crazy, with 50,000 shirts sold, kicked back into the LLC that 'me and the Charlie Kirk Show people own'.",
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Kolvet not named; 'me' is the host voicing Erika."
+ },
+ {
+  "claim": "C-11630",
+  "episode": 129,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Laura Loomer is retweeted by Ben Shapiro's lawyer, who has been suing the host for three years and is now suing her on behalf of Brian Harpole.",
+   "names": [
+    {
+     "wrong": "Bryan Harpole",
+     "right": "Brian Harpole",
+     "source": "https://www.sltrib.com/news/2026/05/01/charlie-kirks-former-security/"
+    }
+   ]
+  },
+  "note": "Checked: SL Trib, Forbes, court filing all spell Brian Harpole."
+ },
+ {
+  "claim": "C-3109",
+  "episode": 130,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-744",
+    "N-745"
+   ],
+   "claim": "Per a 1976 Time magazine article titled \"The Keepers of the King\" the host shows, six Mormon aides recruited by the Summa Corporation, with Bill Gay himself attending Howard Hughes day and night in 8-hour shifts, were paid up to $110,000 a year each, decided which messages reached him, censored his reading matter, and controlled him and his public image."
+  },
+  "note": "'Led by Bill Gay' not said; Hughes and Gay named."
+ },
+ {
+  "claim": "C-3113",
+  "episode": 130,
+  "decision": "accept",
+  "fix": {
+   "claim": "Andrew Kolvet's X post, as the host reads it, says he has personally never heard Erika swear at someone."
+  },
+  "note": "Post says 'never even heard Erika swear at someone'."
+ },
+ {
+  "claim": "C-5976",
+  "episode": 130,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-744"
+   ]
+  },
+  "note": "Claim names Howard Hughes."
+ },
+ {
+  "claim": "C-5977",
+  "episode": 130,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she has way too many messages and group chats with Andrew Kolvet and Tyler Bowyer to count, and that his claim that Charlie and Ben Shapiro were friends took a level of dishonesty.",
+   "names": [
+    {
+     "wrong": "Andrew Klavan",
+     "right": "Andrew Kolvet",
+     "source": "https://en.wikipedia.org/wiki/Andrew_Kolvet"
+    }
+   ]
+  },
+  "note": "Checked: TPUSA spokesman is Andrew Kolvet; chapter header names Kolvet. Klavan is a real person, keep correction episode-scoped."
+ },
+ {
+  "claim": "C-5999",
+  "episode": 130,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Baron Coleman only CC'd; not in claim."
+ },
+ {
+  "claim": "C-6003",
+  "episode": 130,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "Allen and Johnson not in claim."
+ },
+ {
+  "claim": "C-3117",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a snippet of a November 15, 2023 text thread between Charlie Kirk and Candace Owens that the host shows and reads aloud, the host says there was a coordinated effort from inside the Daily Wire to pressure and smear her during the Christ is King controversy."
+  },
+  "note": "Host says 'snippet'; pressure is her characterization."
+ },
+ {
+  "claim": "C-3122",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:12:20"
+  },
+  "note": "First quote spoken ~12:25."
+ },
+ {
+  "claim": "C-3125",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Ben Shapiro says his security was on the phone with Charlie Kirk's security while Charlie was still in the back of the car; the host describes Shapiro's security as former Israeli IDF members and says this was during the critical 7 minutes while Charlie was fighting for his life."
+  },
+  "note": "'Critical 7 minutes' is the host's phrase."
+ },
+ {
+  "claim": "C-3128",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-546"
+   ]
+  },
+  "note": "Erika not in claim."
+ },
+ {
+  "claim": "C-3129",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-154"
+   ]
+  },
+  "note": "O'Neill named; Charlie not referred to."
+ },
+ {
+  "claim": "C-3130",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-154"
+   ]
+  },
+  "note": "O'Neill named; Charlie not referred to."
+ },
+ {
+  "claim": "C-3131",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-154",
+    "N-1"
+   ]
+  },
+  "note": "Both named."
+ },
+ {
+  "claim": "C-3132",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-154"
+   ]
+  },
+  "note": "O'Neill named; Charlie not referred to."
+ },
+ {
+  "claim": "C-3133",
+  "episode": 131,
+  "decision": "amend",
+  "fix": {
+   "claim": "In an audio clip played in the episode, Allison Holker says that while cleaning out the closet to pick out a funeral outfit, she discovered \"a lot of things\" in the closet \"that I did not know existed\"; the host says she reportedly found substances hidden in his shoe boxes, even though the autopsy found no drugs or alcohol in his system.",
+   "mentions": [
+    "N-926",
+    "N-925"
+   ]
+  },
+  "note": "Claim fix right; 'his' clearly refers to her husband Twitch (N-925), keep him."
+ },
+ {
+  "claim": "C-3135",
+  "episode": 131,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:45:40",
+   "mentions": [
+    "N-512",
+    "N-925"
+   ]
+  },
+  "note": "Timestamp fix right; claim names Twitch (N-925)."
+ },
+ {
+  "claim": "C-3136",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "claim": "A YouTube comment the host reads, which she says she saw the day before, lists similarities with the Twitch / Allison Holker case, including: \"Mormon wife who chased him at dancing events until he marries her,\" \"The family iced out,\" \"Mysterious death,\" \"His family asked to sign an NDA to attend the memorial,\" and \"The wife back at work and in business mode a few days later making deals and publishing books.\"",
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-925",
+    "N-926"
+   ]
+  },
+  "note": "'Prior day's episode' not said; Gayle King not in claim."
+ },
+ {
+  "claim": "C-3137",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "claim": "A YouTube comment the host reads, which she says she saw the day before, states that Allison Holker \"grew up in Orem, Utah, and graduated from Timpanogos High School in 2006.\"",
+   "mentions": [
+    "N-926"
+   ]
+  },
+  "note": "Holker named."
+ },
+ {
+  "claim": "C-3664",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host plugs the \"CIA hats\" merch, calling them essential."
+  },
+  "note": "No Candace/Decentralized Intelligence Agency gloss spoken."
+ },
+ {
+  "claim": "C-3767",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the bounty she put out on who Ben Shapiro was with at \"breakfast or lunch\" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary Javitch, says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.",
+   "mentions": [
+    "N-3",
+    "N-97",
+    "N-1",
+    "N-924"
+   ]
+  },
+  "note": "Transcript reads Gary Javitch at 20:02; N-924 exists."
+ },
+ {
+  "claim": "C-3768",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-97",
+    "N-924"
+   ]
+  },
+  "note": "Companion is Gary Javitch."
+ },
+ {
+  "claim": "C-13169",
+  "episode": 131,
+  "decision": "reject",
+  "fix": {},
+  "note": "Original is supported: at 35:22 host says she just told Martin how she felt about Erika and asked why she didn't find Erika's lies strange."
+ },
+ {
+  "claim": "C-13175",
+  "episode": 131,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim says only 'they'; Kolvet not referred to."
+ },
+ {
+  "claim": "C-3139",
+  "episode": 132,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per a Twitter note the host reads, Kolvet previously challenged Owens to show proof of a genuine friendship from the last 12, 18 or 24 months, and the released texts are from November 2023, within 22 months of Charlie Kirk's death on September 10. The host adds that Kolvet cannot keep moving the goalpost.",
+   "mentions": [
+    "N-1",
+    "N-14"
+   ]
+  },
+  "note": "Goalpost line is the host's."
+ },
+ {
+  "claim": "C-3141",
+  "episode": 132,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-801"
+   ]
+  },
+  "note": "Faulkner named."
+ },
+ {
+  "claim": "C-3145",
+  "episode": 132,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-14",
+    "N-69",
+    "N-494",
+    "N-495",
+    "N-3"
+   ]
+  },
+  "note": "CMO, in-house lawyer and host's prior claim referred to."
+ },
+ {
+  "claim": "C-3146",
+  "episode": 132,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-824",
+    "N-2"
+   ]
+  },
+  "note": "Devante West named."
+ },
+ {
+  "claim": "C-3147",
+  "episode": 132,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-177"
+   ]
+  },
+  "note": "Amaro named."
+ }
+]

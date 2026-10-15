@@ -2518,9 +2518,9 @@ Investigative Direction: The host's own earlier statements on her confidence lev
 
 Claim Timestamp: 00:54:26
 
-Claim: The host says the number of times Bryan Harpole lies in the lawsuit does not make her think he was not at Fort Huachuca.
+Claim: The host says the number of times Brian Harpole lies in the lawsuit does not make her think he was not at Fort Huachuca.
 
-Transcript Snippet: And the amount of times that Bryan Harpole lies in this lawsuit on its face, to me, does not make me think he was not at Fort Huachuca.
+Transcript Snippet: And the amount of times that Brian Harpole lies in this lawsuit on its face, to me, does not make me think he was not at Fort Huachuca.
 
 Anchored Artifacts: A-3241.1
 Mentions: N-267

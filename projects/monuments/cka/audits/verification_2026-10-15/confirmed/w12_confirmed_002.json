@@ -1,0 +1,481 @@
+[
+ {
+  "claim": "C-4666",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Erika Kirk publicly forgave Tyler Robinson more quickly than she forgave Druski (\"Jurski\"), at whom she later said she was much angrier.",
+   "names": [
+    {
+     "wrong": "Jurski",
+     "right": "Druski",
+     "source": "https://www.soapcentral.com/entertainment/news-it-feels-wrong-candace-owens-reacts-druski-s-skit-allegedly-impersonating-erika-kirk"
+    }
+   ]
+  },
+  "note": "Druski confirmed (skit; Erika's later 'whiteface' response). 'comedian' not said, rightly dropped."
+ },
+ {
+  "claim": "C-4672",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-262",
+    "N-11",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie Kirk's AV team; N-1 belongs."
+ },
+ {
+  "claim": "C-4674",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-688",
+    "N-262",
+    "N-1"
+   ]
+  },
+  "note": "Sam Parker not in claim."
+ },
+ {
+  "claim": "C-4682",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Auto Buscher",
+     "right": "Otto Busher",
+     "source": "https://sagehana.substack.com/p/romanian-news-reports-on-the-american"
+    }
+   ]
+  },
+  "note": "Col. Otto Busher III confirmed (Romanian Angels video, Kogalniceanu base allegation)."
+ },
+ {
+  "claim": "C-4685",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Taylor Boyer",
+     "right": "Tyler Bowyer",
+     "source": "https://www.sltrib.com/religion/2025/11/24/can-lds-evangelicals-coexist/"
+    }
+   ]
+  },
+  "note": "'Taylor Boyer' is Tyler Bowyer (N-11, TPUSA COO); claim already says Bowyer."
+ },
+ {
+  "claim": "C-4719",
+  "episode": 117,
+  "decision": "accept",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Andrew Cole",
+     "right": "Andrew Kolvet",
+     "source": "https://podcasts.happyscribe.com/culture-apothecary-with-alex-clark/who-charlie-kirk-really-was-his-best-friend-producer-andrew-kolvet"
+    }
+   ]
+  },
+  "note": "Happyscribe Kolvet interview has 'I know everything'; 'Andrew Cole' = Kolvet."
+ },
+ {
+  "claim": "C-4722",
+  "episode": 118,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-5",
+    "N-9"
+   ]
+  },
+  "note": "Bondi not in claim; 'Epstein files' keeps N-9."
+ },
+ {
+  "claim": "C-4734",
+  "episode": 118,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  },
+  "note": "Mitch Snow not in claim; assassination refers to Charlie."
+ },
+ {
+  "claim": "C-4735",
+  "episode": 118,
+  "decision": "amend",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Bradley Hantel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  },
+  "note": "Claim already says Hansell; transcript here has 'Hantel', not 'Hansel'. Hansell confirmed (Senate record)."
+ },
+ {
+  "claim": "C-4736",
+  "episode": 118,
+  "decision": "amend",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Bradley Hantel",
+     "right": "Bradley Hansell",
+     "source": "https://en.wikipedia.org/wiki/Bradley_Hansell"
+    }
+   ]
+  },
+  "note": "Claim text unchanged by fix; transcript segment has 'Hantel', not 'Hansel'."
+ },
+ {
+  "claim": "C-4738",
+  "episode": 118,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Mitch Snow believes he saw Erika Kirk in a Fort Huachuca hotel lobby on September 8, leaving and jumping into a green pickup truck. She says her eyes reminded him of an ex-girlfriend's and he remembered them when he later saw her on stage at the memorial, and that Hansell may have stayed at the same hotel."
+  },
+  "note": "Claim fix supported (10:20 'remembered her eyes... on stage'). Transcript here already says Hansell; no name rule needed."
+ },
+ {
+  "claim": "C-4740",
+  "episode": 118,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Hansell and Hegseth not in claim."
+ },
+ {
+  "claim": "C-4741",
+  "episode": 118,
+  "decision": "reject",
+  "fix": {},
+  "note": "Proposed claim identical to current; transcript at 11:06 already says Hansell, so no name rule needed."
+ },
+ {
+  "claim": "C-4753",
+  "episode": 118,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Bolkovac not referred to in claim."
+ },
+ {
+  "claim": "C-4754",
+  "episode": 118,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-694"
+   ]
+  },
+  "note": "'the film' does not name or describe Bolkovac."
+ },
+ {
+  "claim": "C-4755",
+  "episode": 118,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-379"
+   ]
+  },
+  "note": "Trump not named in claim."
+ },
+ {
+  "claim": "C-4756",
+  "episode": 118,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-694"
+   ]
+  },
+  "note": "Hansell not in claim."
+ },
+ {
+  "claim": "C-4758",
+  "episode": 118,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host repeats that Erika Kirk was listed as an \"emotional asset\" after the White House Correspondents' Dinner shooting. She says the Department of War, under Hansell, Feinberg and Hegseth, orchestrated messaging to boost her artificially and wanted her to be the number one trend by morning."
+  },
+  "note": "Claim spelling fix right; transcript at 25:18 already says Hansell, so no name rule needed."
+ },
+ {
+  "claim": "C-3753",
+  "episode": 118,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-699"
+   ]
+  },
+  "note": "Ratajkowski named in claim."
+ },
+ {
+  "claim": "C-4765",
+  "episode": 118,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim says only 'the FBI'; schedule owner unnamed."
+ },
+ {
+  "claim": "C-4767",
+  "episode": 118,
+  "decision": "accept",
+  "fix": {
+   "claim": "Answering a viewer, the host says Charlie Kirk trusted those around him, saved himself for marriage, and that Erika would have been sort of his first real relationship.",
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "Hedge 'would have been sort of' restored; Bowyer/Kolvet not in claim."
+ },
+ {
+  "claim": "C-4790",
+  "episode": 119,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-703",
+    "N-1"
+   ]
+  },
+  "note": "Farnsworth not in claim."
+ },
+ {
+  "claim": "C-2935",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267",
+    "N-1",
+    "N-225"
+   ]
+  },
+  "note": "Shawn Ryan named in claim."
+ },
+ {
+  "claim": "C-2936",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-732",
+    "N-1"
+   ]
+  },
+  "note": "Sarah Tool named in claim."
+ },
+ {
+  "claim": "C-2937",
+  "episode": 120,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-732",
+    "N-1"
+   ],
+   "timestamp": "00:20:28"
+  },
+  "note": "Add N-732. 'It was in the neck' is spoken ~20:33 (second clip starts ~20:21), before the 20:48 claim time."
+ },
+ {
+  "claim": "C-2938",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "claim": "In her ABC News interview, Sarah Tool said she thought the shooter was about 200 yards away and that the shot struck Charlie Kirk in the neck, going \"right into his left side.\"",
+   "mentions": [
+    "N-732",
+    "N-1"
+   ]
+  },
+  "note": "Hedge 'I think' and 'right into his left side' match transcript; N-732 added."
+ },
+ {
+  "claim": "C-2939",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-54",
+    "N-136"
+   ]
+  },
+  "note": "Judge Graff named in claim; N-136."
+ },
+ {
+  "claim": "C-5782",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says the feds were looking for Charlie's necklace, as was Frank Turek, and that it was then given to the widow, who now wears it.",
+   "names": [
+    {
+     "wrong": "Frank Cheric",
+     "right": "Frank Turek",
+     "source": "https://hoodyreport.substack.com/p/the-charlie-kirk-pendant-report"
+    }
+   ]
+  },
+  "note": "Turek said he heard authorities were looking for the necklace (Hoody Report); 'Frank Cheric' = Turek."
+ },
+ {
+  "claim": "C-5793",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Jon Bray immediately identified the mic as the potential source of a shaped-charge explosion and went looking for shattered ABS from the Rode Wireless Pro.",
+   "names": [
+    {
+     "wrong": "John Bray",
+     "right": "Jon Bray",
+     "source": "https://x.com/jonaaronbray/status/2019005832852025796"
+    }
+   ]
+  },
+  "note": "Jon Bray (@jonaaronbray) originated exploding-mic theory; N-684."
+ },
+ {
+  "claim": "C-5811",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-54"
+   ]
+  },
+  "note": "Judge not in claim."
+ },
+ {
+  "claim": "C-5814",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-54"
+   ]
+  },
+  "note": "Claim refers to Twiggs only."
+ },
+ {
+  "claim": "C-5842",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-4"
+   ]
+  },
+  "note": "Dillon not in claim."
+ },
+ {
+  "claim": "C-5844",
+  "episode": 120,
+  "decision": "accept",
+  "fix": {
+   "claim": "In the clip the host plays, Tim Dillon says many people will say the excerpt is not technically in Vance's book, and that it is the essence of the book."
+  },
+  "note": "Podscripts Tim Dillon Show 500 transcript: Dillon says 'not technically in his book... essence of the book'."
+ },
+ {
+  "claim": "C-2952",
+  "episode": 121,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Frank Turek says he was in scrubs at the hospital because 'I didn't want her to see any of that' about his clothes; the host adds that this means not wanting Erika to see the blood on them.",
+   "mentions": [
+    "N-7",
+    "N-2"
+   ]
+  },
+  "note": "Turek: 'I didn't want her to see any of that'; host glosses as blood; Erika named."
+ },
+ {
+  "claim": "C-2955",
+  "episode": 121,
+  "decision": "accept",
+  "fix": {
+   "claim": "Photographs of the SUV backseat show what the host says looks like someone wiped their hands with blood on the leather seat; she attributes it to Frank Turek, the only backseat occupant.",
+   "mentions": [
+    "N-7"
+   ]
+  },
+  "note": "Host: 'That's got to be Frank Turek', only backseat occupant."
+ },
+ {
+  "claim": "C-2963",
+  "episode": 121,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-367"
+   ]
+  },
+  "note": "Claim names Jeremy Boreing's project."
+ },
+ {
+  "claim": "C-2965",
+  "episode": 121,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:53:05"
+  },
+  "note": "Gina's second comment begins ~53:10; 5s lead gives 53:05."
+ },
+ {
+  "claim": "C-13074",
+  "episode": 121,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-1"
+   ]
+  },
+  "note": "Farnsworth only in transcript, not claim."
+ },
+ {
+  "claim": "C-13075",
+  "episode": 121,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Turek not named in claim."
+ },
+ {
+  "claim": "C-13092",
+  "episode": 121,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-97"
+   ]
+  },
+  "note": "Rubin not in claim. Relevance change not supported by the finding; keep existing tag."
+ }
+]

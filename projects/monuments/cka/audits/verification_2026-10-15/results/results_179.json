@@ -1,0 +1,780 @@
+[
+ {
+  "claim": "C-5880",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5881",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "unresolved name: transcript 'Elizabeth McCoy' matches node Eliza (Elizabeth) McCoy; fine.",
+  "fix": {}
+ },
+ {
+  "claim": "C-5882",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5883",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5884",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5885",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5886",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5887",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5888",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Passage never names Neff: 'we've got a confused bald man who doesn't remember what he was doing'.",
+  "fix": {
+   "claim": "The host asks viewers who saw a bald man on September 10 who seemed to have amnesia and said he was marking time to send tips, saying they have a confused bald man who does not remember what he was doing that day."
+  }
+ },
+ {
+  "claim": "C-5889",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5890",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5891",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5892",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5893",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5894",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5895",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5896",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5897",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'while I was on' is cut off, no 'away'; Politico is hedged: 'I think we had Politico'.",
+  "fix": {
+   "claim": "The host says she received many emails and that tons of media groups asked her to comment on the NCRI report, and that she thinks Politico asked about the report's point that her calling Erika Kirk a psychopath on the Shawn Ryan show leads people to want to kill Erika."
+  }
+ },
+ {
+  "claim": "C-5898",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5899",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5900",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'the Faradox' is a transcription of 'FARA docs' (ep 126: 'the Faradox that were filed... Clock Tower X'); Daily Caller reports FARA filings target Carlson/Owens.",
+  "fix": {
+   "claim": "The host says tens of millions of dollars are being spent against her, and that she and Tucker Carlson are listed in the FARA docs, which she says admit they have to take them down.",
+   "names": [
+    {
+     "wrong": "Faradox",
+     "right": "FARA docs",
+     "source": "https://dailycaller.com/2026/06/24/brad-parscale-error-fara-filing/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-5901",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5902",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5903",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5904",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5905",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5906",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5907",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5908",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5909",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5910",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5911",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5912",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5913",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5914",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5915",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5916",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5917",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5918",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-5919",
+  "episode": 125,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3027",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Transcript 'Sergeant Jennifer Filomena' is Sgt. Jennifer Faumuina (matches N-506), who testified at the Robinson hearing.",
+  "fix": {
+   "claim": "Sergeant Faumuina testified that officers canvassing the scene seized unattended items \u2013 including a backpack, jacket, and gloves \u2013 near the Folsom (Fulton) Library bus stop.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.youtube.com/watch?v=VYqzMNPIS2k"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3028",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'Sergeant Filomena' is Sgt. Jennifer Faumuina (N-506).",
+  "fix": {
+   "claim": "In a hearing clip the host plays, Sergeant Faumuina acknowledges that items were sent to the FBI lab and that UVU eventually communicated to the lab that the items were not connected to the case and required no further testing.",
+   "names": [
+    {
+     "wrong": "Filomena",
+     "right": "Faumuina",
+     "source": "https://www.youtube.com/watch?v=VYqzMNPIS2k"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-3029",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "The 'bob up and down... 6 ft forward' description comes at about 17:15-17:50; claim at 16:09 is over 75s early.",
+  "fix": {
+   "timestamp": "00:17:10"
+  }
+ },
+ {
+  "claim": "C-3030",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3031",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Witness says 'smaller than the Mauser'; '.223' and '.30-06' are the host relaying ('he tells me').",
+  "fix": {
+   "claim": "In a recording the host plays, the eyewitness says the rooftop person's rifle looked smaller than the recovered Mauser; the host adds that he told her it looked like a .223 and smaller than a .30-06."
+  }
+ },
+ {
+  "claim": "C-3032",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Black vest is from the first voice; 'black mask, long rifle' from a second voice repeating it in the 911 audio.",
+  "fix": {
+   "claim": "In a 911 call the host plays, a voice reports a person on top of a building on the far north side, just east of the library, wearing jeans, a black shirt and a black vest; a second voice repeats it, adding a black mask and a long rifle."
+  }
+ },
+ {
+  "claim": "C-3033",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'now they're saying he just kind of wore jeans or something'; 'only' and hedge dropped.",
+  "fix": {
+   "claim": "The host says that initial police scanner traffic described a person in a face mask and tactical gear, contrasting with the federal narrative that, she says, now has him wearing jeans or something."
+  }
+ },
+ {
+  "claim": "C-3034",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Claim states host's assertions as fact: 'the feds only contacted him once a few days later. He has never been called by the prosecution.'",
+  "fix": {
+   "claim": "The host says the eyewitness was contacted by federal authorities only once, a few days after the incident, and has never been called by the prosecution despite being willing to testify."
+  }
+ },
+ {
+  "claim": "C-3035",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Article: 'doing work on and off for Bank of America for about 15 years'; 'Frank Cherico' is a transcription of Turek.",
+  "fix": {
+   "claim": "Per the Christian Post article (2011) the host reads, Dr. Frank Turek did work on and off for Bank of America for about 15 years, mainly conducting leadership and team-building programs, until being dropped in 2011."
+  }
+ },
+ {
+  "claim": "C-3036",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Walker: \"That's, uh, that's not controversial\"; claim quotes 'wasn't controversial'.",
+  "fix": {
+   "claim": "In a clip the host plays, Nate Walker, Charlie's executive assistant, tells Megyn Kelly that Charlie requested the \"freedom shirt\" from a couple of shirts brought to the campus stop because it was \"not controversial\"; Walker could not recall the other shirt options."
+  }
+ },
+ {
+  "claim": "C-3037",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Helen Comperatore and Thomas Crooks but Mentions is empty.",
+  "fix": {
+   "mentions": [
+    "N-821",
+    "N-104"
+   ]
+  }
+ },
+ {
+  "claim": "C-3038",
+  "episode": 126,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'It was a year before the Secret Service reached out' is the NewsNation reporter's summary in the clip, not the host or Helen's own words; Mentions empty.",
+  "fix": {
+   "claim": "In a NewsNation clip the host plays, a reporter says Helen Comperatore says the Secret Service did not reach out to her until a year later and did not fully answer her questions.",
+   "mentions": [
+    "N-821"
+   ],
+   "timestamp": "00:31:25"
+  }
+ },
+ {
+  "claim": "C-3039",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: 'Time did an article today... it seems to have backfired'; 'failed to achieve impact' and Time's finding are added.",
+  "fix": {
+   "claim": "The host says Time published an article about the Israeli foreign ministry's digital campaign run through Brad Parscale's firm Clock Tower X, and says it seems to have backfired."
+  }
+ },
+ {
+  "claim": "C-3040",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'$1.5 million a day' ~35:15; claim 22s after, borderline. Host hedges 'I believe'.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3041",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8932",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8933",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8934",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8935",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8936",
+  "episode": 126,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

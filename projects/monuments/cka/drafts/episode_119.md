@@ -385,7 +385,7 @@ Transcript spellings "Taral", "Terryl", "Tarrou" and "Taro". Visual Impulse owne
 
 **N-267** Brian Harpole
 
-Transcript spellings "Bryan Harpole" and "Bryan Harp". He is suing the host. Said to have offered Shawn Ryan Charlie Kirk's bloodied bag, and he is referenced in Rob McCoy's sermon.
+Transcript spellings "Brian Harpole" and "Bryan Harp". He is suing the host. Said to have offered Shawn Ryan Charlie Kirk's bloodied bag, and he is referenced in Rob McCoy's sermon.
 
 *Related: C-4775, C-4776, C-4818, C-4833, A-2697.1, A-2703.1, A-2709.1*
 
@@ -982,7 +982,7 @@ Claim: The host says she was told that Robert Golow, originally from Liberia, wa
 Transcript Snippet: He was brought on, I am told, of course after I stopped touring with Charlie, when they started doing the redundancy of the microphone in 2024. He's actually from Liberia
 
 Anchored Artifacts: A-2698.2
-Mentions: N-703, N-1, N-262
+Mentions: N-703, N-1
 Related Nodes: N-10998, N-10991, N-10768
 Investigative Direction: Obtain Visual Impulse hiring records for Golow and the date TPUSA introduced the second microphone.
 
@@ -1037,7 +1037,7 @@ Investigative Direction: Compile all September 10 eyewitness media interviews an
 
 Claim Timestamp: 00:13:48
 
-Claim: The host says many of the witnesses who spoke to news outlets were politically connected, including Tiffany Barker, who she says worked on Phil Lyman's campaign.
+Claim: The host says many of the witnesses who spoke to news outlets were politically connected, including Tiffany Barker, who she thinks worked on Phil Lyman's campaign.
 
 Transcript Snippet: we found out this person Tiffany Barker I think was one of the names actually she was working on Phil Lyman's campaign.
 
@@ -1098,7 +1098,7 @@ Investigative Direction: Identify the witness and the outlet, and compare with t
 
 Claim Timestamp: 00:15:40
 
-Claim: The host says there was never a pooling of blood near Charlie Kirk's heart, that the blood came out sideways from his neck and that his shirt was clean. She says the witnesses provided a description that never happened.
+Claim: The host says there was never a pooling of blood near Charlie Kirk's heart, that the blood came out sideways and that his shirt was clean. She says the witnesses provided a description that never happened.
 
 Transcript Snippet: There was never a pooling of blood near Charlie's heart. Never happened.
 
@@ -1143,7 +1143,7 @@ Investigative Direction: Request NBC News's sourcing for its September 10 eyewit
 
 Claim Timestamp: 00:18:23
 
-Claim: The host alleges that Terryl Farnsworth specifically took the camera's SD card and left the more expensive camera, and rejects Andrew Kolvet's explanation that people were stealing equipment.
+Claim: The host alleges that Terryl Farnsworth specifically took the camera's SD card and left the more expensive camera, and rejects the explanation, as relayed to Andrew Kolvet, that people were stealing equipment.
 
 Transcript Snippet: Why did you jump specifically to grab that camera's SD card and then lie and say, "Uh Andrew Colbeth, people were stealing stuff." Uh buddy, we have eyes. We saw you take specifically the SD card and you left the camera.
 
@@ -1486,7 +1486,7 @@ Investigative Direction: Obtain the recipient, time and full text of the message
 
 Claim Timestamp: 00:44:16
 
-Claim: The host says new witnesses appeared at 4:00 a.m. the next day saying Charlie Kirk was shot in the neck, which she attributes to a scramble after the plan went wrong.
+Claim: The host says that, in her opinion and "allegedly," Erika Kirk and others "couldn't scramble fast enough" and new witnesses the next day at 4:00 a.m. said Charlie Kirk "got shot in the neck."
 
 Transcript Snippet: new witnesses the next day at 4:00 a. m. in the morning saying, "He got shot in the neck."
 
@@ -1531,7 +1531,7 @@ Investigative Direction: Review the promised audio when released and verify the 
 
 Claim Timestamp: 00:46:53
 
-Claim: In a Charlie Kirk Show clip recorded after the death, with Blake Neff present according to the host, Andrew Kolvet tells Tucker Carlson that he and Charlie had "a deep friendship." Kolvet recalls Charlie leaving to have dinner whenever Tucker was in town.
+Claim: In a Charlie Kirk Show clip recorded after the death, with Blake Neff present according to the host, Andrew Kolvet tells Tucker Carlson that Tucker and Charlie had "a deep friendship." Kolvet recalls Charlie leaving to have dinner whenever Tucker was in town.
 
 Transcript Snippet: Really want people to understand, Tucker, you and Charlie had a such a unique and special bond and relationship. It was It was a deep friendship
 
@@ -1663,7 +1663,7 @@ Investigative Direction: Archive Erika Kirk's Father's Day 2026 post and its emb
 
 Claim Timestamp: 00:58:50
 
-Claim: The host says Erika Kirk has never attended any of Tyler Robinson's hearings, and predicts she will attend the next one in response to public criticism.
+Claim: The host says people have been saying it is weird that Erika Kirk has never been to any of Tyler Robinson's hearings, and bets she will go to the next one because she edits her behavior according to what the public says.
 
 Transcript Snippet: people have been saying it's weird that she's never been uh to any of the hearings at all.
 

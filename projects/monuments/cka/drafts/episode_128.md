@@ -1091,7 +1091,7 @@ Claim Timestamp: 00:03:29
 Claim: Robert O'Neill publicly stated that the shirt movement on the published footage of Charlie Kirk did not match the behavior he has observed in shootings he has personally conducted.
 
 Anchored Artifacts: A-2153.1
-Mentions: N-1
+Mentions: N-154, N-1
 
 Related Nodes: N-10734
 
@@ -1106,7 +1106,7 @@ Claim Timestamp: 00:05:31
 Claim: In a clip the host plays, Brigadier General Blaine Holt says he rejects the explanation that the bullet struck Charlie Kirk's spine and agrees with Robert O'Neill's broader critique.
 
 Anchored Artifacts: A-2153.2
-Mentions: N-1
+Mentions: N-948, N-154, N-1
 
 Related Nodes: N-10734
 
@@ -1176,12 +1176,12 @@ Investigative Direction: Confirm the Netflix episode metadata, Faumuina's on-scr
 
 **C-3064** Host Says Jennifer Faumuina Played Basketball at a Hawaii Private School in 2003
 
-Claim Timestamp: 00:17:38
+Claim Timestamp: 00:17:10
 
 Claim: The host says her team found a 2003 image showing Jennifer Faumuina playing basketball at a private school in Hawaii.
 
 Anchored Artifacts: A-2157.1
-Mentions: N-508, N-506, N-510, N-509
+Mentions: N-506
 
 Related Nodes:
 
@@ -1191,12 +1191,12 @@ Investigative Direction: Identify the specific school and roster, and cross-refe
 
 **C-3065** Host Says Jennifer Faumuina Graduated from Weber State University in 2008
 
-Claim Timestamp: 00:17:38
+Claim Timestamp: 00:17:20
 
 Claim: The host says Jennifer Faumuina studied criminal justice at Weber State University and graduated in 2008.
 
 Anchored Artifacts: A-2157.2
-Mentions: N-508, N-506, N-510, N-509
+Mentions: N-506
 
 Related Nodes:
 
@@ -1206,12 +1206,12 @@ Investigative Direction: Confirm against Weber State graduation records or alumn
 
 **C-3066** Jennifer Faumuina completed Utah DPS post-training on May 20, 2013
 
-Claim Timestamp: 00:20:19
+Claim Timestamp: 00:19:40
 
 Claim: Jennifer Faumuina appears in a Utah Department of Public Safety post-training photo dated May 20, 2013, alongside Bo Mason.
 
 Anchored Artifacts: A-2157.3
-Mentions: N-508, N-506, N-510, N-509
+Mentions: N-506, N-508
 
 Related Nodes:
 
@@ -1221,12 +1221,12 @@ Investigative Direction: Verify through DPS academy records and class photograph
 
 **C-3067** Jennifer Faumuina volunteered as a Utah trooper for crowd control at the 2016 RNC in Ohio
 
-Claim Timestamp: 00:18:29
+Claim Timestamp: 00:17:45
 
-Claim: A 2016 article lists Jennifer Faumuina among volunteer Utah troopers who provided crowd control at the Republican National Convention in Ohio.
+Claim: The host says a 2016 article shows Jennifer Faumuina among the volunteer troopers providing crowd control at the Republican National Convention in Ohio.
 
 Anchored Artifacts: A-2157.4
-Mentions: N-508, N-506, N-510, N-509
+Mentions: N-506
 
 Related Nodes:
 
@@ -1236,12 +1236,12 @@ Investigative Direction: Confirm the original article, deployment list, and cred
 
 **C-3068** Host Says Jennifer Faumuina Appears in Utah DPS Paid Records Beginning in 2018
 
-Claim Timestamp: 00:18:29
+Claim Timestamp: 00:18:15
 
 Claim: The host says public salary records show Jennifer Faumuina as a paid officer with the Utah Department of Public Safety from 2018 onward, and none list her as paid before then.
 
 Anchored Artifacts: A-2157.5
-Mentions: N-508, N-506, N-510, N-509
+Mentions: N-506
 
 Related Nodes:
 
@@ -1251,12 +1251,12 @@ Investigative Direction: Request Utah state salary records to verify employment 
 
 **C-3069** Faumuina and Mason photographed together on May 20, 2013
 
-Claim Timestamp: 00:20:19
+Claim Timestamp: 00:19:40
 
 Claim: Jennifer Faumuina and Bo Mason appear together in a May 20, 2013 Utah DPS post-training photo.
 
 Anchored Artifacts: A-2157.3
-Mentions: N-508, N-506, N-510, N-509
+Mentions: N-506, N-508
 
 Related Nodes:
 
@@ -1266,12 +1266,12 @@ Investigative Direction: Verify the photograph and underlying academy/class reco
 
 **C-3070** Host Says Faumuina and Mason Were Photographed Together at Her 2023 Sergeant Swearing-In
 
-Claim Timestamp: 00:20:19
+Claim Timestamp: 00:20:05
 
 Claim: The host says she shows a photograph in which Jennifer Faumuina and Bo Mason appear together in 2023 when Faumuina was sworn in as a sergeant.
 
 Anchored Artifacts: A-2157.5
-Mentions: N-508, N-506, N-510, N-509
+Mentions: N-506, N-508
 
 Related Nodes:
 
@@ -1286,7 +1286,7 @@ Claim Timestamp: 00:19:15
 Claim: The host says Beau "Bo" Mason was appointed Commissioner of the Utah Department of Public Safety on June 19, 2025 by Governor Cox.
 
 Anchored Artifacts: A-2158.1
-Mentions: N-41, N-508, N-506
+Mentions: N-508, N-41
 
 Related Nodes: N-10733
 
@@ -1296,9 +1296,9 @@ Investigative Direction: Verify appointment through the official Utah governor's
 
 **C-3072** Host Says Andrew Zenger Was Appointed Timpanogos Hospital CEO on August 18, 2025
 
-Claim Timestamp: 00:21:14
+Claim Timestamp: 00:20:36
 
-Claim: The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on August 18, 2025, approximately three weeks before the assassination.
+Claim: The host says Andrew Zenger was appointed CEO of Timpanogos Hospital on August 18, 2025, just a couple of weeks before the assassination.
 
 Anchored Artifacts: A-2158.2
 Mentions: N-135
@@ -1361,7 +1361,7 @@ Claim Timestamp: 00:24:14
 Claim: Sgt. Jennifer Faumuina's uncle, Misiona Faumuina, died in 1995 in Hawaii after being beaten as part of a reported gang initiation ritual; his brother Sapena Faumuina was publicly vocal in the press.
 
 Anchored Artifacts: A-2160.1
-Mentions: N-508, N-506, N-510, N-509
+Mentions: N-506, N-510, N-509
 
 Related Nodes:
 
@@ -1376,7 +1376,7 @@ Claim Timestamp: 00:24:14
 Claim: Per 1995 press coverage the host shows, Misiona Faumuina was described as a devout Mormon attending the Maquilo Ward in Waipahu, with his brother Sapena noting he was preparing for a mission.
 
 Anchored Artifacts: A-2160.1
-Mentions: N-506, N-510, N-509
+Mentions: N-510, N-509
 
 Related Nodes:
 
@@ -1403,7 +1403,7 @@ Investigative Direction: Verify the organization and Rosen's role through Hawaii
 
 Claim Timestamp: 00:31:07
 
-Claim: Frank Turek stated on the Shawn Ryan Show that Brian Harpole's "no CPR" account and his own account of attempting CPR for 20–30 seconds at the end of the ride are not contradictory but rather emphasize different details.
+Claim: Frank Turek stated on a podcast that Brian Harpole's 'no CPR' account and his own account of attempting CPR for 20-30 seconds at the end of the ride are not contradictory but rather emphasize different details.
 
 Anchored Artifacts: A-2161.1
 Mentions: N-267, N-7
@@ -1418,7 +1418,7 @@ Investigative Direction: Obtain the unedited podcast audio and any hospital reco
 
 Claim Timestamp: 00:36:56
 
-Claim: Blake Neff initially stated the Turning Point USA team stayed overnight in Orem, UT, then revised the statement to Salt Lake City.
+Claim: The host says Blake Neff initially said he spent the night in Orem, UT, then revised the statement to Salt Lake City, where she says the Turning Point USA team stayed.
 
 Anchored Artifacts: A-2162.1, A-2162.2
 Mentions: N-160
@@ -1451,7 +1451,7 @@ Claim Timestamp: 00:41:03
 Claim: Lt. Col. Kolvet posted on X that he is Andrew Kolvet's only brother, that he never worked at Fort Huachuca, and that he visited the installation once for a 3-day MP unit training event.
 
 Anchored Artifacts: A-2163.1
-Mentions: N-14
+Mentions: N-14, N-691
 
 Related Nodes: N-10739
 
@@ -1977,7 +1977,7 @@ Investigative Direction: Build a table of Utah and federal appointments from 202
 
 ---
 
-**C-14744** Host Says Patel Fired the Salt Lake City FBI Head and Installed Bowles From Virginia
+**C-14744** Host Says Patel Fired the Salt Lake City FBI Head and Installed Bohls From Virginia
 
 Claim Timestamp: 00:21:14
 
@@ -1994,7 +1994,7 @@ Investigative Direction: Confirm the prior Salt Lake City special agent in charg
 
 ---
 
-**C-14745** Host Says Bowles Had Almost 20 Years in the FBI Across the United States
+**C-14745** Host Says Bohls Had Almost 20 Years in the FBI Across the United States
 
 Claim Timestamp: 00:21:14
 
@@ -2451,14 +2451,14 @@ Investigative Direction: Identify the staffer, the date of the firing and the st
 
 Claim Timestamp: 00:39:40
 
-Claim: The host says Andrew Kolvet is telling people that his show is doing great while hers is crashing and her metrics are down.
+Claim: The host says Andrew Kolvet is telling her that his show is doing great while hers is crashing and her metrics are down.
 
 Transcript Snippet: He's telling me that his show's doing great, my show's crashing. My metrics are down.
 
 Anchored Artifacts: 
 Mentions: N-14, N-3
 Related Nodes:
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Compare public viewership figures for both shows over the same period.
 
 ---
@@ -2499,7 +2499,7 @@ Investigative Direction: Verify the unit, dates and orders for the trip through 
 
 Claim Timestamp: 00:41:03
 
-Claim: The host says Andrew Kolvet chimed in on his brother's post saying he cannot even say the name and that people cannot pronounce it.
+Claim: The host says Andrew Kolvet chimed in on his brother's post with something like "Yeah, I can't even say it. They can't even like pronounce it," in what she presents as his reply.
 
 Transcript Snippet: And then Andrew chimes in like, "Yeah, I can't even say it.
 
@@ -2644,7 +2644,7 @@ Investigative Direction: Check whether any recorded video or audio places the ro
 
 Claim Timestamp: 00:48:43
 
-Claim: The host says she agrees with Robert O'Neill that it looks like an explosion went up under Kirk's shirt, and that O'Neill knows what a shot looks like up close.
+Claim: The host says she agrees with Robert O'Neill that it looks like an explosion went up under Kirk's shirt, and that O'Neill has killed a person or two and might know what a shot looks like up close.
 
 Transcript Snippet: And I agree with Robert O'Neill, it looks like an explosion went up a happened under his shirt.
 
@@ -2673,11 +2673,11 @@ Investigative Direction: Monitor trial filings and witness lists for any TPUSA e
 
 ---
 
-**C-14787** Host Says the Farnsworths Took Down the Cameras and Go Way Back
+**C-14787** Viewer Comment Says the Farnsworths Took Down the Cameras and Go Way Back
 
 Claim Timestamp: 00:49:37
 
-Claim: The host says the Farnsworth family, which she calls a big Mormon family, took down the cameras, and that they and others go way back.
+Claim: A viewer comment the host reads says the Farnsworth family, a big Mormon family, took down the cameras, and that they go way back.
 
 Transcript Snippet: Of course, Farnsworth's, big Mormon family, taking down the cameras.
 
@@ -2721,11 +2721,11 @@ Investigative Direction: Watch the witness lists in the Robinson case for any su
 
 ---
 
-**C-14790** Host Says the Screwdriver Apparently Cannot Unscrew the Weapon Said to Have Been Fired
+**C-14790** Viewer Comment Says the Screwdriver Apparently Cannot Unscrew the Weapon Said to Have Been Fired
 
 Claim Timestamp: 00:51:15
 
-Claim: The host says the screwdriver apparently cannot even unscrew the weapon that officials say was fired.
+Claim: A viewer comment the host reads says the screwdriver apparently cannot even unscrew the weapon that they are saying was fired.
 
 Transcript Snippet: The screwdriver that apparently can't even unscrew the weapon that they're saying was fired.
 
@@ -3043,7 +3043,7 @@ Confidence: high
 
 Video Timestamp: 00:30:22
 Speaker: N-3
-Quote: Let's start with Frank Cheric versus Frank Cheric cuz that's my favorite UFC matchup.
+Quote: Let's start with Frank Turek versus Frank Turek cuz that's my favorite UFC matchup.
 Context: Host frames Frank Turek's new account against his earlier one as a fight card.
 Tags: frank turek, running bit
 Confidence: high
@@ -3065,7 +3065,7 @@ Confidence: high
 - **Name uncertainty:** Host uses both "Jennifer Faumuina/Faumuina/Fahlman" interchangeably; spelling preserved with original spelling per protocol – flag noted.
 - **Artifact verbally referenced but not shown:** The 2003 Hawaii basketball photo (A-2157.1), 2008 Weber State graduation record (A-2157.2), 2016 RNC article (A-2157.4), 2004 Provo PD article (A-2159.1), and 1995 Hawaii homicide articles (A-2160.1, A-2160.2) are described by the host and displayed on air but full text/transcription is not provided in the source transcript.
 - **Timestamp uncertainty:** The 2023 swearing-in date (A-2157.5) is given narratively but without precise day/month.
-- **Transcript ambiguity:** Reference to "Frank Turek," "Frank Cheric," and "Frank Turek" in the host's commentary appear to be homophone spellings of "Frank Turek"; treated as the same person.
+- **Transcript ambiguity:** Reference to "Frank Turek," "Frank Turek," and "Frank Turek" in the host's commentary appear to be homophone spellings of "Frank Turek"; treated as the same person.
 - **Claim failed admission test:** Host's framing of the Utah appointments as "getting the old gang back together" and the explicit framing of an "Israeli" or "Mormon mafia" connection – these are interpretive commentary, not artifact-backed claims, and are not inscribed.
 
 ---

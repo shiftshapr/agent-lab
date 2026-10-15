@@ -1615,7 +1615,7 @@
       "@id": "C-3117",
       "ref": "C-3117",
       "label": "November 15, 2023 Charlie Kirk / Candace Owens Text Thread Documents Daily Wire Pressure Campaign",
-      "claim": "A thread of SMS messages dated November 15, 2023, between Charlie Kirk and Candace Owens, read aloud in full, documents contemporaneous pressure from the Daily Wire / Ben Shapiro orbit during the \"Christ is King\" episode.",
+      "claim": "Per a snippet of a November 15, 2023 text thread between Charlie Kirk and Candace Owens that the host shows and reads aloud, the host says there was a coordinated effort from inside the Daily Wire to pressure and smear her during the Christ is King controversy.",
       "anchored_artifacts": [
         "A-2180.1"
       ],
@@ -1714,7 +1714,7 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:10:44",
+      "claim_timestamp": "00:12:20",
       "investigative_direction": "Verify exact wording against device-extracted SMS records.",
       "mentions_person_refs": [
         "N-1",
@@ -1762,7 +1762,7 @@
       "@id": "C-3125",
       "ref": "C-3125",
       "label": "Ben Shapiro States Security Was on Phone with Charlie's Security During Shooting",
-      "claim": "In an audio clip played in the episode, Ben Shapiro states that his security (described by host as former IDF members) was on the phone with Charlie Kirk's security \"during the critical 7 minutes\" while Charlie was fighting for his life.",
+      "claim": "In a clip the host plays, Ben Shapiro says his security was on the phone with Charlie Kirk's security while Charlie was still in the back of the car; the host describes Shapiro's security as former Israeli IDF members and says this was during the critical 7 minutes while Charlie was fighting for his life.",
       "anchored_artifacts": [
         "A-2181.1"
       ],
@@ -1830,7 +1830,6 @@
       "claim_timestamp": "00:33:45",
       "investigative_direction": "Obtain the full Paramount Tactical segment; cross-reference with any Daily Mail editorial correspondence.",
       "mentions_person_refs": [
-        "N-2",
         "N-546"
       ]
     },
@@ -1848,7 +1847,7 @@
       "claim_timestamp": "00:37:41",
       "investigative_direction": "Obtain full Newsmax segment; cross-reference with official forensic reports on the rooftop.",
       "mentions_person_refs": [
-        "N-1"
+        "N-154"
       ]
     },
     {
@@ -1865,7 +1864,7 @@
       "claim_timestamp": "00:37:41",
       "investigative_direction": "Cross-reference with official autopsy report (if released); obtain independent ballistic-gel comparison data.",
       "mentions_person_refs": [
-        "N-1"
+        "N-154"
       ]
     },
     {
@@ -1882,6 +1881,7 @@
       "claim_timestamp": "00:37:41",
       "investigative_direction": "Cross-reference with official autopsy report (if released); obtain independent forensic analysis.",
       "mentions_person_refs": [
+        "N-154",
         "N-1"
       ]
     },
@@ -1899,7 +1899,7 @@
       "claim_timestamp": "00:37:41",
       "investigative_direction": "Obtain full Newsmax segment; cross-reference with publicly released text message excerpts.",
       "mentions_person_refs": [
-        "N-1"
+        "N-154"
       ]
     },
     {
@@ -1907,7 +1907,7 @@
       "@id": "C-3133",
       "ref": "C-3133",
       "label": "Allison Holker Claims Discovery of Hidden Substances After Husband's Death",
-      "claim": "In an audio clip played in the episode, Allison Holker states that while cleaning out the closet to pick out a funeral outfit, she discovered \"a lot of things I did not know existed\" hidden in the home, including substances – even though the autopsy (per host narration from news reports) found no drugs or alcohol in his system.",
+      "claim": "In an audio clip played in the episode, Allison Holker says that while cleaning out the closet to pick out a funeral outfit, she discovered \"a lot of things\" in the closet \"that I did not know existed\"; the host says she reportedly found substances hidden in his shoe boxes, even though the autopsy found no drugs or alcohol in his system.",
       "anchored_artifacts": [
         "A-2185.1"
       ],
@@ -1916,7 +1916,8 @@
       "claim_timestamp": "00:41:38",
       "investigative_direction": "Obtain the full Holker interview segment; cross-reference with official autopsy findings.",
       "mentions_person_refs": [
-        "N-512"
+        "N-926",
+        "N-925"
       ]
     },
     {
@@ -1947,10 +1948,11 @@
       ],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:44:07",
+      "claim_timestamp": "00:45:40",
       "investigative_direction": "Obtain the full CBS / Gayle King segment; cross-reference with any contemporaneous family statements.",
       "mentions_person_refs": [
-        "N-512"
+        "N-512",
+        "N-925"
       ]
     },
     {
@@ -1958,7 +1960,7 @@
       "@id": "C-3136",
       "ref": "C-3136",
       "label": "YouTube Comment Posts Parallels Between Twitch/Allison and Charlie/Erica Cases",
-      "claim": "A YouTube comment posted on the prior day's episode lists parallels between the Twitch / Allison Holker case and the Charlie / Erica Kirk case, including: \"Mormon wife who chased him at dancing events until he marries her,\" \"The family iced out,\" \"Mysterious death,\" \"His family asked to sign an NDA to attend the memorial,\" and \"The wife back at work and in business mode a few days later making deals and publishing books.\"",
+      "claim": "A YouTube comment the host reads, which she says she saw the day before, lists similarities with the Twitch / Allison Holker case, including: \"Mormon wife who chased him at dancing events until he marries her,\" \"The family iced out,\" \"Mysterious death,\" \"His family asked to sign an NDA to attend the memorial,\" and \"The wife back at work and in business mode a few days later making deals and publishing books.\"",
       "anchored_artifacts": [
         "A-2188.1"
       ],
@@ -1969,7 +1971,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-2",
-        "N-512"
+        "N-925",
+        "N-926"
       ]
     },
     {
@@ -1977,7 +1980,7 @@
       "@id": "C-3137",
       "ref": "C-3137",
       "label": "YouTube Comment States Allison Holker Grew Up in Orem, Utah; Graduated Timpanogos High School 2006",
-      "claim": "A YouTube comment posted on the prior day's episode states that Allison Holker \"grew up in Orem, Utah, and graduated from Timpanogos High School in 2006.\"",
+      "claim": "A YouTube comment the host reads, which she says she saw the day before, states that Allison Holker \"grew up in Orem, Utah, and graduated from Timpanogos High School in 2006.\"",
       "anchored_artifacts": [
         "A-2188.1"
       ],
@@ -1985,14 +1988,16 @@
       "tags": [],
       "claim_timestamp": "00:39:35",
       "investigative_direction": "Independent verification against public records or alumni databases.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-926"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3664",
       "ref": "C-3664",
       "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
-      "claim": "The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.",
+      "claim": "The host plugs the \"CIA hats\" merch, calling them essential.",
       "anchored_artifacts": [
         "A-2490.1"
       ],
@@ -2011,7 +2016,7 @@
       "@id": "C-3767",
       "ref": "C-3767",
       "label": "Host says the lunch bounty was answered: the tip names the person Ben Shapiro was allegedly with when Charlie Kirk was shot",
-      "claim": "The host says the bounty she put out on who Ben Shapiro was with at \"breakfast or lunch\" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary (transcript surname \"Jabitch\"/\"Jabach\"; public sources give Gary Javitch; spelling unverified), says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.",
+      "claim": "The host says the bounty she put out on who Ben Shapiro was with at \"breakfast or lunch\" (C-3764) drew an immediate response. After what she describes as fact-checking, she says the person Ben was with has allegedly told other people he was with Ben when Charlie Kirk was shot, names him as Gary Javitch, says an unidentified woman was also present, and says she could not confirm a breakfast or lunch, only that they were together.",
       "anchored_artifacts": [
         "A-2524.1"
       ],
@@ -2033,7 +2038,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-97",
-        "N-1"
+        "N-1",
+        "N-924"
       ]
     },
     {
@@ -2056,7 +2062,8 @@
       "uncertainty_note": "Biography and donation records cited but not shown on air. The companion's surname is not asserted here: the transcript has \"Jabitch\"/\"Jabach\" and public sources give Gary Javitch (Omaha, Nebraska AIPAC); a video spelling check comes before any id.",
       "mentions_person_refs": [
         "N-3",
-        "N-97"
+        "N-97",
+        "N-924"
       ]
     },
     {
@@ -2553,7 +2560,7 @@
       "@id": "C-13141",
       "ref": "C-13141",
       "label": "Host Says She and Charlie Met at YWLN and Discussed Daily Wire's Legal Posture",
-      "claim": "The host says that when she spoke at YWLN, she and Charlie Kirk sat in a room discussing what was happening behind the scenes at Daily Wire and what the company was doing legally, and that an Andrew (transcribed Andrew Klavan) was present before she went on stage.",
+      "claim": "The host says that when she spoke at YWLN, she and Charlie Kirk sat in a room discussing what was happening behind the scenes at Daily Wire and what the company was doing legally, and that she believes Andrew Klavan was present, if she recalls correctly, before she went on stage.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3163,7 +3170,7 @@
       "@id": "C-13167",
       "ref": "C-13167",
       "label": "Host Says Emails Gave Concrete Proof the Story Came From an Erika Family Friend",
-      "claim": "The host says she received a flurry of unsolicited emails presenting concrete proof that the Daily Mail story came from a family friend of Erika Kirk, whom she says is Tracy Martin.",
+      "claim": "The host says she received a flurry of unsolicited emails presenting concrete proof that the Daily Mail story came from a family friend of Erika Kirk, whom she says she suspected was Tracy Martin.",
       "anchored_artifacts": [
         "A-3250.1"
       ],
@@ -3351,8 +3358,7 @@
         "C-3083"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-14"
+        "N-3"
       ]
     },
     {
@@ -3570,7 +3576,7 @@
       "@id": "C-13186",
       "ref": "C-13186",
       "label": "Host Says the Preliminary Hearing Forced No Retraction and Raised More Questions",
-      "claim": "The host says nothing she had to retract was disproved by the preliminary hearing, and that it led to even more questions.",
+      "claim": "The host says nothing at the preliminary hearing forced her to retract anything, and that it led to even more questions.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11149"
@@ -3590,7 +3596,7 @@
       "@id": "C-13187",
       "ref": "C-13187",
       "label": "Host Says About $40 Million Was Raised in One Night",
-      "claim": "The host says roughly $40 million was raised in one night as Erika posed next to the bloody item, a fact she says is forgotten.",
+      "claim": "The host says roughly $40 million was raised in one night as Erika posed next to the bloody (the sentence breaks off), a fact she says is forgotten.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3632,7 +3638,7 @@
       "@id": "C-13189",
       "ref": "C-13189",
       "label": "Host Says Seth Dillon Pressured Charlie in the Hamptons",
-      "claim": "The host says Seth Dillon pressured Charlie Kirk in the Hamptons, as he does.",
+      "claim": "The host says that if Seth Dillon had admitted he pressured Charlie Kirk in the Hamptons, as she says he does, no one would have thought anything was weird.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10027",

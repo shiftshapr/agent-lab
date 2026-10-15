@@ -183,7 +183,7 @@ Um and then you can, of course, expect all of the Israel Firsters who have been 
 
 [31:19]
 
-Jurski, you have my permission if you want to do a skit about me, that works. Andrew, why are you so mad? Why are you so mad? Now do conservative black women. What are you talking about? I've been made fun of by the left since I started my career. Like, are you I've been on Saturday Night Live, they made fun of me. I Dave Chappelle did a skit about me. My response was, "This is funny. It's It's cool. It's legendary that Dave Chappelle knows my name." You want to know why you're mad? Cuz you're guilty. Your conscience is bothering you. You're angry that you have so much money. You guys have so much money, so much influence, so much power, power to the White House. You can get Scott Bessent to issue a letter and say, "Turning Point is in great financial standing." Imagine having that much power, but actually no influence.
+Druski, you have my permission if you want to do a skit about me, that works. Andrew, why are you so mad? Why are you so mad? Now do conservative black women. What are you talking about? I've been made fun of by the left since I started my career. Like, are you I've been on Saturday Night Live, they made fun of me. I Dave Chappelle did a skit about me. My response was, "This is funny. It's It's cool. It's legendary that Dave Chappelle knows my name." You want to know why you're mad? Cuz you're guilty. Your conscience is bothering you. You're angry that you have so much money. You guys have so much money, so much influence, so much power, power to the White House. You can get Scott Bessent to issue a letter and say, "Turning Point is in great financial standing." Imagine having that much power, but actually no influence.
 
 [32:05]
 

@@ -1,0 +1,264 @@
+[
+ {
+  "claim": "C-3149",
+  "episode": 132,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim names Charlie's security team; Charlie Kirk is referred to."
+ },
+ {
+  "claim": "C-3151",
+  "episode": 133,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host plays about 50 seconds of rooftop footage, asks viewers whether they see a recoil before the shooter gets up and sprints, says she did not see one, and notes a quick flash during the crawl that she is not sure about.",
+   "label": "Host Says She Sees No Recoil in Rooftop Footage and Notes an Unexplained Flash"
+  },
+  "note": "No muzzle-flash statement; fix right but drops her key 'I didn't see one' about recoil."
+ },
+ {
+  "claim": "C-3156",
+  "episode": 133,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-785",
+    "N-9",
+    "N-530"
+   ]
+  },
+  "note": "Claim names Phelan, Epstein's plane and Brunel."
+ },
+ {
+  "claim": "C-3158",
+  "episode": 133,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-9"
+   ]
+  },
+  "note": "Lyrics name Epstein."
+ },
+ {
+  "claim": "C-7352",
+  "episode": 133,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a White House employee confirmed to her that a White House meeting was on the books for Andrew Kolvet, the chief marketing officer (Marina), the chief operating officer Justin Streiff and in-house legal counsel Frank, and that it was allegedly scheduled for the same day or week Benjamin Netanyahu was in town."
+  },
+  "note": "Kolvet and the CMO are separate people; host hedges 'allegedly... maybe I got the wrong day'."
+ },
+ {
+  "claim": "C-7378",
+  "episode": 133,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-784"
+   ]
+  },
+  "note": "Foster Curtis is not named or referred to in the claim."
+ },
+ {
+  "claim": "C-7393",
+  "episode": 133,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Kash Patel is not in the claim."
+ },
+ {
+  "claim": "C-3162",
+  "episode": 134,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the prosecution's memorandum the host reads, the bullet, or at least parts of it, sequentially perforated the anterior left side of Kirk's neck strap muscles, left common carotid artery, and left internal and external jugular veins, obliterated the left side of the C7 vertebra, and transected the cervical spinal cord.",
+   "label": "Prosecution Memo: Bullet Perforated Left Neck Structures and C7 Vertebra"
+  },
+  "note": "Host corrects herself: the prosecution filed the memorandum."
+ },
+ {
+  "claim": "C-3163",
+  "episode": 134,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the prosecution's memorandum the host reads, the medical examiner observed hemorrhaging around Kirk's heart and both of his lungs (left and right).",
+   "label": "Prosecution Memo: Hemorrhaging Around Heart and Both Lungs Observed"
+  },
+  "note": "Prosecution memo, not defense."
+ },
+ {
+  "claim": "C-3167",
+  "episode": 134,
+  "decision": "amend",
+  "fix": {
+   "claim": "In a clip the host plays from Alex Clark's show, Andrew Kolvet says Charlie was not becoming Catholic and describes Erika as a cradle Catholic who, like him, followed a non-denominational path; another speaker in the clip adds that Erika once answered a comment asking if they were converting with \"No, we just like attending sometimes.\"",
+   "mentions": [
+    "N-14",
+    "N-99",
+    "N-2"
+   ]
+  },
+  "note": "Social-media point is made by a second speaker (marked >>), not Kolvet; rest of fix right."
+ },
+ {
+  "claim": "C-3171",
+  "episode": 134,
+  "decision": "accept",
+  "fix": {
+   "claim": "On a show the host calls the \"Beavis and Butt-Head show,\" a speaker identified as Andrew says people inside the courtroom told him another angle shows the shooter roll over the railing and assemble the weapon, partly obscured by the railing; a second speaker adds that he appears to pull the rifle from his pant leg, there is a brief blind spot, and the visible Lozi footage then shows him running and taking a prone position.",
+   "mentions": [
+    "N-14"
+   ]
+  },
+  "note": "Transcript splits the description between Andrew and a second speaker."
+ },
+ {
+  "claim": "C-7409",
+  "episode": 134,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-160",
+    "N-40"
+   ]
+  },
+  "note": "Alex Jones is not in the claim."
+ },
+ {
+  "claim": "C-7441",
+  "episode": 134,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says attendees at the cemetery were asked to leave and were told \"You leave and we'll handle the rest,\" and that they were told Charlie would be put somewhere unmarked for fear the left could desecrate his burial place."
+  },
+  "note": "Transcript does not say TPUSA would handle it."
+ },
+ {
+  "claim": "C-3175",
+  "episode": 135,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-899"
+   ]
+  },
+  "note": "Ashley is Dr. Ashley Brown Guajardo."
+ },
+ {
+  "claim": "C-3181",
+  "episode": 135,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the transplant coordinator's email the host reads, it takes at least eight hours for deep core body temperature to reach 40 degrees in a morgue cooler, so the timeline would only support about three hours in the morgue, depending on how much time Erika spent with him; the host then says the autopsy was rushed.",
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "'Rushed' is the host's comment; email names Erika."
+ },
+ {
+  "claim": "C-3184",
+  "episode": 135,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-899"
+   ]
+  },
+  "note": "Claim names Ashley Brown Guajardo."
+ },
+ {
+  "claim": "C-3194",
+  "episode": 136,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-69"
+   ]
+  },
+  "note": "Bongino is not in the claim."
+ },
+ {
+  "claim": "C-3198",
+  "episode": 136,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says bystander footage timestamped 12:47 PM shows a plainclothes man in a red hat with a bag and a backpack on the Losi Center rooftop, and a man lower down who she thinks could be Officer Bagley.",
+   "mentions": [
+    "N-507",
+    "N-751"
+   ]
+  },
+  "note": "Badge is not mentioned in this passage (only in the later clip); Bagley hedged; red-hat man is Robertson."
+ },
+ {
+  "claim": "C-3199",
+  "episode": 136,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-751"
+   ],
+   "timestamp": "00:16:28"
+  },
+  "note": "Hawk not in claim. Muppet Masher credit is spoken ~16:33, before the 16:47 segment."
+ },
+ {
+  "claim": "C-3201",
+  "episode": 136,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Allan Robertson had just joined the USU police force the summer before the September 2025 shooting, and shows a Facebook announcement that he had joined.",
+   "mentions": [
+    "N-751"
+   ]
+  },
+  "note": "The summer-before statement is the host's."
+ },
+ {
+  "claim": "C-3202",
+  "episode": 136,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-751"
+   ]
+  },
+  "note": "Claim names Robertson."
+ },
+ {
+  "claim": "C-3203",
+  "episode": 136,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-751"
+   ]
+  },
+  "note": "Host states flatly at 20:19 that there was an entry made for him on the Brady List; the 'assumption' hedge concerns hidden details. Keep claim."
+ },
+ {
+  "claim": "C-3204",
+  "episode": 136,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:22:10",
+   "mentions": [
+    "N-751"
+   ]
+  },
+  "note": "Non-compliance line spoken ~22:17."
+ }
+]
