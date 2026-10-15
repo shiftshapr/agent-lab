@@ -106,7 +106,7 @@ Uh I don't expect her to be at the office but I'm happy that she's not in full h
 
 [16:46]
 
-I get this this word I've always been struck by this. Describing the employees like a family to drive them to work like horses only to then fire them after a quarter billion is raised is wild. Okay? Like I said, at least she is not dressed in hair and makeup. She is at the office. I would say the bad news is that once again Erika is going to stop herself from using the word happy uh in the context of Charlie and how he must be feeling in ha in heaven. I'm going to let this play out for 5 minutes straight and there is no context needed other than this is 5 and 1/2 days after her husband was publicly assassinated. And yes, in the background that is Teo Farnsworth, the guy who took down the cameras. Uh but we're going to see we are going to see some grief. So I'm going to allow you guys to watch this for 5 minutes.
+I get this this word I've always been struck by this. Describing the employees like a family to drive them to work like horses only to then fire them after a quarter billion is raised is wild. Okay? Like I said, at least she is not dressed in hair and makeup. She is at the office. I would say the bad news is that once again Erika is going to stop herself from using the word happy uh in the context of Charlie and how he must be feeling in ha in heaven. I'm going to let this play out for 5 minutes straight and there is no context needed other than this is 5 and 1/2 days after her husband was publicly assassinated. And yes, in the background that is Terryl Farnsworth, the guy who took down the cameras. Uh but we're going to see we are going to see some grief. So I'm going to allow you guys to watch this for 5 minutes.
 
 [17:35]
 

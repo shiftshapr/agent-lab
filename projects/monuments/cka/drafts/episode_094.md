@@ -1089,7 +1089,7 @@ Investigative Direction: Verify great-grandfather's law enforcement service in t
 
 Claim Timestamp: 00:05:39
 
-Claim: In a clip the host plays, Tyler Robinson's grandfather says that a .30-06 round would not have produced the wound damage publicly described in the case; the host agrees.
+Claim: The host says that, in a clip she plays, Tyler Robinson's grandfather says that is not what a .30-06 would do, and the host agrees, saying the wound did not cause any significant damage.
 
 Anchored Artifacts: A-1993.1
 Mentions: N-40
@@ -1119,9 +1119,10 @@ Investigative Direction: Confirm whether data files have subsequently been produ
 
 Claim Timestamp: 00:11:37
 
-Claim: Novak states the defense has DNA reports from September 2025 that Mr. Gray relied upon, but those reports have not been produced.
+Claim: In a clip the host plays, Novak says the evidence should have been produced up to 6 months ago because the defense has DNA reports from September 2025 that Mr. Gray relied upon.
 
 Anchored Artifacts: A-1994.1
+Mentions: N-426
 
 Related Nodes: N-10623
 
@@ -1136,7 +1137,7 @@ Claim Timestamp: 00:12:20
 Claim: Defense attorney Kathy Nester states she has not been able to look at her client's phone, with the data requiring expert analysis via shipped hard drives.
 
 Anchored Artifacts: A-1994.2
-Mentions: N-40
+Mentions: N-830, N-40
 
 Related Nodes: N-10623
 
@@ -1151,6 +1152,7 @@ Claim Timestamp: 00:15:13
 Claim: Defense attorney Kathy Nester states the defense has never physically seen the firearm.
 
 Anchored Artifacts: A-1994.2
+Mentions: N-830
 
 Related Nodes: N-10624
 
@@ -1165,6 +1167,7 @@ Claim Timestamp: 00:15:13
 Claim: Nester states the firearm is held at Quantico, Virginia.
 
 Anchored Artifacts: A-1994.2
+Mentions: N-830
 
 Related Nodes: N-10624
 
@@ -1190,7 +1193,7 @@ Investigative Direction: Obtain probable cause hearing exhibit list when filed.
 
 Claim Timestamp: 00:35:29
 
-Claim: Donald Trump posted on Truth Social stating that Candace Owens, Megyn Kelly, and Tucker Carlson are "dying fast" and "fake MAGA."
+Claim: Per a Truth Social post under Donald Trump's name that the host reads, he hears Candace Owens, Megyn Kelly, and Tucker Carlson are "dying fast" and "were fake MAGA"; the host says she does not think Trump writes these posts.
 
 Anchored Artifacts: A-1995.1
 Mentions: N-22, N-3, N-5, N-46
@@ -1205,10 +1208,10 @@ Investigative Direction: Verify post directly on Truth Social; note timestamp an
 
 Claim Timestamp: 00:36:29
 
-Claim: A follow-up Trump Truth Social post refers to Candace Owens as mentally ill (per host's read-aloud summary).
+Claim: The host says a follow-up Trump Truth Social post, she thinks, called her mentally ill.
 
 Anchored Artifacts: A-1995.2
-Mentions: N-3
+Mentions: N-3, N-5
 
 Related Nodes:
 
@@ -1280,10 +1283,10 @@ Investigative Direction: Retrieve full Arizona Republic article.
 
 Claim Timestamp: 00:41:44
 
-Claim: Alan Jacoby publicly alleged Laura Loomer groped him at Bedminster while watching a golf tournament with President Trump.
+Claim: Alan Jacoby publicly alleged in a tweet the host reads that he and Laura Loomer spent the day with President Trump at Bedminster watching the golf tournament, and that she groped him in the parking lot.
 
 Anchored Artifacts: A-1998.1
-Mentions: N-60, N-427
+Mentions: N-60, N-427, N-5
 
 Related Nodes: N-10629
 
@@ -1308,7 +1311,7 @@ Investigative Direction: Verify date and source of the video; consider whether t
 
 **C-2781** Milo Yiannopoulos Published Alleged Laura Loomer Diagnoses
 
-Claim Timestamp: 00:40:54
+Claim Timestamp: 00:40:15
 
 Claim: The host reads a piece that she says Milo Yiannopoulos wrote and published, which states that Laura Loomer has been diagnosed at various times with bipolar disorder, histrionic personality disorder, borderline personality disorder, and narcissistic personality disorder.
 
@@ -1358,7 +1361,7 @@ Claim Timestamp: 00:48:26
 Claim: Laura Loomer tweeted alleging George Farmer (Candace Owens' husband) hit Tracy Robinson's car while allegedly drunk with an alleged firearm.
 
 Anchored Artifacts: A-2002.1
-Mentions: N-3, N-60
+Mentions: N-3, N-60, N-30
 
 Related Nodes: N-10631
 
@@ -1373,6 +1376,7 @@ Claim Timestamp: 00:49:11
 Claim: The host says her insurance paid Tracy Robinson $6,987 and shows a court or insurance record on air; she says the payment followed a fender bender with her husband.
 
 Anchored Artifacts: A-2003.1
+Mentions: N-30
 
 Related Nodes: N-10631
 
@@ -1384,7 +1388,7 @@ Investigative Direction: Pull the underlying court filing in Davidson County, Te
 
 Claim Timestamp: 00:42:43
 
-Claim: A video clip shows Laura Loomer making physically suggestive comments and conduct toward a young man who appears uncomfortable.
+Claim: In a clip the host plays, Laura Loomer makes sexually suggestive comments to a young man whom the host describes as clearly uncomfortable.
 
 Anchored Artifacts: A-2004.1
 Mentions: N-60
@@ -1444,7 +1448,7 @@ Investigative Direction: Retrieve the Utah state court filing directly via docke
 
 Claim Timestamp: 00:00:01
 
-Claim: The host says that after the show went off air on Friday, Trump tweeted about her from Air Force One, with two tweets calling her a nobody and four tweets about her in total.
+Claim: The host says that after the show went off air on Friday, Trump tweeted about her from Air Force One, with two tweets about how she is a nobody, and that she thinks that is four tweets in total.
 
 Transcript Snippet: Two tweets from the leader of the free world about how I am a nobody. I think that's four tweets in total.
 
@@ -1508,7 +1512,7 @@ Investigative Direction: Find Lane's own account of the exchange and compare it 
 
 Claim Timestamp: 00:02:02
 
-Claim: The host recounts that many lawyers on the internet have said Tyler Robinson's family does not support him and instead turned him in, and says the parent recognized grandpa's gun on the news.
+Claim: The host recounts that many lawyers on the internet have said Tyler Robinson's family does not support him and instead turned him in, after the parent recognized grandpa's gun on the news, a story she goes on to dispute.
 
 Transcript Snippet: we have been told by many lawyers on the internet that Tyler Robinson's family does not support to the contrary they turned him in, remember?
 
@@ -1525,7 +1529,7 @@ Investigative Direction: Identify the lawyers who made the claim and the origina
 
 Claim Timestamp: 00:02:02
 
-Claim: The host says the news did not actually release a photo of the grandfather's gun and instead released a photo of something similar, which she says undercuts the story that the family recognized it.
+Claim: The host says the news did not actually release a photo of the grandfather's gun and instead released a photo of something similar, which she calls weird given the story that the family recognized it.
 
 Transcript Snippet: the news did not actually release a photo of grandpa's gun. They just release a photo of something similar.
 
@@ -2392,7 +2396,7 @@ Investigative Direction: Compare against Loomer's earlier public statements; not
 
 Claim Timestamp: 00:38:35
 
-Claim: The host says Loomer was not raised in a temple and was not bat mitzvahed, and that because Judaism is matrilineal and Loomer's mother is not Jewish she does not qualify.
+Claim: The host says Loomer was not raised in a temple and was not bat mitzvahed, and, noting that Loomer is Irish and English and that Judaism is matrilineal, says she is not Jewish.
 
 Transcript Snippet: Judaism is matrilineal. She did not She was not raised in temple. She was not bat mitzvah.
 
@@ -2692,7 +2696,7 @@ Transcript Snippet: Making up AI photos and releasing them of my husband, litera
 
 Anchored Artifacts: 
 Mentions: N-3, N-60, N-30
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Archive Loomer's posts with the images and run provenance and AI-detection analysis.
 
 ---
@@ -2797,7 +2801,7 @@ Investigative Direction: Check for any police report, citation or charge in Davi
 
 Claim Timestamp: 00:50:08
 
-Claim: The host says the other driver, Tracy, decided a couple of days later that he had post-whiplash disorder, went to a doctor, and that they paid a total of $6,987.
+Claim: The host says the other driver, Tracy, decided a couple of days later that he had post-whiplash disorder, went to the doctor, and that she and her husband had to pay a grand total of $6,987.
 
 Transcript Snippet: a couple of days later Tracy decided he had post-whiplash disorder, went to the doctor, and we had to pay a grand total of $6,987.
 
@@ -2830,7 +2834,7 @@ Investigative Direction: Ask Stone directly; the host gives no evidence for the 
 
 Claim Timestamp: 00:54:44
 
-Claim: The host says that in the last week of his life Charlie Kirk was starting to put together a lot of pieces, but still trusted some people he obviously should not have.
+Claim: The host says she thinks that in the last week of his life Charlie Kirk was starting to put together a lot of pieces, but still trusted some people he obviously shouldn't have.
 
 Transcript Snippet: I think he uh, in the last week of his life, he was starting to put together a lot of pieces. Uh, but still some trusted some people that he obviously shouldn't have.
 

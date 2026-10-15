@@ -1,0 +1,516 @@
+[
+ {
+  "claim": "C-11460",
+  "episode": 93,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says a viewer comment claims they heard first from Amir Tsarfati, and asks viewers with evidence of that to email moretips@candaceowens.com so it can be plotted on the timeline."
+  },
+  "note": "Inversion is real, but corrected transcript and node N-349 spell it Tsarfati; Safadi is not supported."
+ },
+ {
+  "claim": "C-11470",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-342",
+    "N-343",
+    "N-344",
+    "N-3"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-11471",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-48",
+    "N-9",
+    "N-47"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-11489",
+  "episode": 93,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Village Crazy Lady thinks they were trying to make J.D. Vance look bad, and the host says she thinks Erika will dump him without question.",
+   "mentions": [
+    "N-66",
+    "N-4",
+    "N-2"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2768",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Novak says the evidence should have been produced up to 6 months ago because the defense has DNA reports from September 2025 that Mr. Gray relied upon.",
+   "mentions": [
+    "N-426"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2769",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-830",
+    "N-40"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2770",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-830"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2771",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-830"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2774",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says a follow-up Trump Truth Social post, she thinks, called her mentally ill.",
+   "mentions": [
+    "N-3",
+    "N-5"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2779",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "claim": "Alan Jacoby publicly alleged in a tweet the host reads that he and Laura Loomer spent the day with President Trump at Bedminster watching the golf tournament, and that she groped him in the parking lot.",
+   "mentions": [
+    "N-60",
+    "N-427",
+    "N-5"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2781",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:40:15"
+  },
+  "note": "Quote at about 40:20 by word position; 40:15 is right."
+ },
+ {
+  "claim": "C-2784",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-60",
+    "N-30"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2785",
+  "episode": 94,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-30"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-3859",
+  "episode": 95,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-160"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-3861",
+  "episode": 95,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2791",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:29:10"
+  },
+  "note": "Headline read at about 29:14; 29:10 fits."
+ },
+ {
+  "claim": "C-2800",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Terryl Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds (she also says not even a minute) of the incident; in a clip she plays, he says \"They just shot Charlie.\"",
+   "label": "Host Says Terryl Farnsworth Recorded Video at Charlie Kirk Shooting Scene",
+   "names": [
+    {
+     "wrong": "Taro Farnsworth",
+     "right": "Terryl Farnsworth",
+     "source": "https://mysterylores.com/news/terryl-farnsworth-footage-charlie-kirk-shooting/"
+    }
+   ]
+  },
+  "note": "Terryl Farnsworth confirmed via web search (IBTimes, NewsBreak, mysterylores)."
+ },
+ {
+  "claim": "C-2806",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "claim": "Laura Loomer tweeted a question whether Candace Owens, Nick Fuentes, and Aubrey Laitsch, who all \"suddenly appeared in Rome\", were converging for a \"secret anti-Trump summit\", adding that she suspects it is funded by foreign dark money and citing a source that Aubrey approached conservatives about a paid propaganda trip to Qatar.",
+   "mentions": [
+    "N-3",
+    "N-60",
+    "N-202",
+    "N-552"
+   ],
+   "names": [
+    {
+     "wrong": "Aubrey Lech",
+     "right": "Aubrey Laitsch",
+     "source": "https://dailydot.com/turning-point-usa-aubrey-laitsch-former-employee"
+    }
+   ]
+  },
+  "note": "Aubrey Laitsch confirmed (Daily Dot, KATV); tweet is a question; Axelrod not in claim."
+ },
+ {
+  "claim": "C-8804",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-331",
+    "N-2"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-8805",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "claim": "In a clip the host plays, Baron Coleman says TPUSA figures cannot get on board with the same messaging, noting Blake Neff already gave a different excuse from Andrew Kolvet's.",
+   "mentions": [
+    "N-331",
+    "N-160",
+    "N-14"
+   ],
+   "label": "Baron Coleman Says Neff and Kolvet Gave Different Excuses"
+  },
+  "note": "Clip speaker refers to 'Candace' in third person, consistent with Baron Coleman continuing."
+ },
+ {
+  "claim": "C-8817",
+  "episode": 96,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-343"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2811",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Harpole's counsel sent an email styled as a retraction demand but stated at the outset that the lawsuit would be filed in four days regardless.",
+   "mentions": [
+    "N-267"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2812",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "claim": "The lawsuit alleges Candace accused Harpole and his team of criminal negligence by failing to have an ambulance on standby and failing to render aid after Kirk was shot.",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-267"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2813",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-267"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2815",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-267"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2816",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-225",
+    "N-267"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2817",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-225",
+    "N-267"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2818",
+  "episode": 97,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says she sent Harpole about four text messages, from shortly before her Mitch Snow interview through January, offering an off-record talk or asking him to clarify his whereabouts on September 9, and that he did not reply to any of them.",
+   "label": "Candace Says Harpole Left Her Text Messages Unanswered",
+   "mentions": [
+    "N-3",
+    "N-267",
+    "N-362"
+   ]
+  },
+  "note": "Fix dropped Snow from text but kept N-362; restore Snow reference (transcript: before hosting Mitch Snow, through January). 'Three in lawsuit' is unclear."
+ },
+ {
+  "claim": "C-2819",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per point 59 of the lawsuit the host reads, her repeated texts to Harpole were a cynical attempt to profit by coddling him into giving her exclusive content; the host reads this as the lawsuit's explanation for his not replying.",
+   "mentions": [
+    "N-3",
+    "N-267"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2820",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-14",
+    "N-267",
+    "N-271"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2821",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-225",
+    "N-267",
+    "N-271",
+    "N-272"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2822",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-362"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2823",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "claim": "Point 63 of the lawsuit accuses Candace of asserting proof that Snow was telling the truth about Harpole, even while, the host says, the very next paragraph presents her statement that she could not confirm the identification.",
+   "mentions": [
+    "N-3",
+    "N-267",
+    "N-362"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2824",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-7",
+    "N-267"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2827",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-3",
+    "N-331"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2828",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says, citing a Times of Israel headline, that Reps. Mike Lawler and Josh Gottheimer brought forward a bipartisan House resolution condemning her, among others.",
+   "mentions": [
+    "N-3",
+    "N-428",
+    "N-429"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2829",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2830",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2831",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the resolution the host describes, it references her July 2024 remark about 'bizarre propaganda' following the Holocaust; the host says she did not mention Josef Mengele and that the remark is objectively true.",
+   "mentions": [
+    "N-3",
+    "N-380"
+   ]
+  },
+  "note": "Supported by transcript."
+ },
+ {
+  "claim": "C-2832",
+  "episode": 97,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-380"
+   ]
+  },
+  "note": "Supported by transcript."
+ }
+]

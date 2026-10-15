@@ -721,7 +721,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10808** Terrell SD Card-to-Laptop Transfer Sequence
+**N-10808** Terryl SD Card-to-Laptop Transfer Sequence
 
 Existing node reused for new claims in this episode.
 
@@ -881,7 +881,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 Existing node reused for new claims in this episode.
 
@@ -1641,9 +1641,9 @@ Investigative Direction: Obtain the print comparison results naming each contrib
 
 Claim Timestamp: 00:11:55
 
-Claim: The host says Terrell Farnsworth was watched removing an SD card but that police were given a hard drive or USB file, and asks when the transfer happened.
+Claim: The host says Terryl Farnsworth was watched removing an SD card but that police were given a hard drive or USB file, and asks when the transfer happened.
 
-Transcript Snippet: because Terrell Farnworth took out we watched him take out an SD card. And actually what the police were given was not an SD card.
+Transcript Snippet: because Terryl Farnworth took out we watched him take out an SD card. And actually what the police were given was not an SD card.
 
 Anchored Artifacts: 
 Mentions: N-3, N-262

@@ -46,13 +46,13 @@
       "@type": "ArtifactFamily",
       "@id": "A-2295",
       "family_ref": "A-2295",
-      "bundle_name": "Exclusive Footage – Terrell/Taral SD Card and Laptop Handling",
+      "bundle_name": "Exclusive Footage – Terryl/Taral SD Card and Laptop Handling",
       "sub_items": [
         {
           "@type": "Artifact",
           "@id": "A-2295.1",
           "ref": "A-2295.1",
-          "description": "Video segment showing the camera operator (Taral/Terrell/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and apparently inserting the SD card into it. Lane Schamberger is visible at the side washing his hands.",
+          "description": "Video segment showing the camera operator (Taral/Terryl/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and apparently inserting the SD card into it. Lane Schamberger is visible at the side washing his hands.",
           "related_claims": [
             "C-3302",
             "C-3303"
@@ -92,7 +92,7 @@
           "@type": "Artifact",
           "@id": "A-2295.3",
           "ref": "A-2295.3",
-          "description": "Video segment showing Taral/Terrell stepping over the fallen yellow camera and its encompassed SD card en route to the camera behind Charlie's head.",
+          "description": "Video segment showing Taral/Terryl stepping over the fallen yellow camera and its encompassed SD card en route to the camera behind Charlie's head.",
           "related_claims": [
             "C-3304",
             "C-3305"
@@ -298,7 +298,7 @@
       "@type": "ArtifactFamily",
       "@id": "A-2890",
       "family_ref": "A-2890",
-      "bundle_name": "Terrell Farnsworth 1102 Statement Bundle",
+      "bundle_name": "Terryl Farnsworth 1102 Statement Bundle",
       "sub_items": [
         {
           "@type": "Artifact",
@@ -352,7 +352,7 @@
           "@type": "Artifact",
           "@id": "A-2892.1",
           "ref": "A-2892.1",
-          "description": "Host reads viewer comment saying Terrell Farnsworth could be guilty of evidence tampering and obstruction",
+          "description": "Host reads viewer comment saying Terryl Farnsworth could be guilty of evidence tampering and obstruction",
           "related_claims": [
             "C-7586"
           ],
@@ -475,7 +475,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
       "related_artifacts": [
@@ -499,7 +499,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10808",
       "ref": "N-10808",
-      "name": "Terrell SD Card-to-Laptop Transfer Sequence",
+      "name": "Terryl SD Card-to-Laptop Transfer Sequence",
       "type": "investigation_target",
       "description": "Persistent investigable discrepancy: SD card from camera behind Charlie's head was removed, pocketed, and (per host observation) inserted into a laptop within ~10 minutes of the shooting.",
       "related_artifacts": [
@@ -1430,7 +1430,7 @@
       "@type": "Claim",
       "@id": "C-3302",
       "ref": "C-3302",
-      "label": "Terrell/Taral Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting",
+      "label": "Terryl/Taral Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting",
       "claim": "The host presents footage showing the camera operator removing an SD card from the camera behind Charlie Kirk's head, looking around, and pocketing the card within approximately four to five minutes of Charlie being struck.",
       "anchored_artifacts": [
         "A-2295.1"
@@ -1450,7 +1450,7 @@
       "@type": "Claim",
       "@id": "C-3303",
       "ref": "C-3303",
-      "label": "Terrell/Taral Subsequently Inserted That SD Card Into His Laptop",
+      "label": "Terryl/Taral Subsequently Inserted That SD Card Into His Laptop",
       "claim": "The host describes footage in which the camera operator opens his laptop and appears to insert the previously pocketed SD card into it, all within roughly ten minutes of the shooting.",
       "anchored_artifacts": [
         "A-2295.1"
@@ -1469,8 +1469,8 @@
       "@type": "Claim",
       "@id": "C-3304",
       "ref": "C-3304",
-      "label": "Terrell/Taral Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
-      "claim": "The host presents that, when retrieving SD cards, Terrell stepped over the yellow audience-facing camera – which had fallen to the floor – rather than retrieving its SD card.",
+      "label": "Terryl/Taral Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head",
+      "claim": "The host presents that, when retrieving SD cards, Terryl stepped over the yellow audience-facing camera – which had fallen to the floor – rather than retrieving its SD card.",
       "anchored_artifacts": [
         "A-2295.2",
         "A-2295.3",
@@ -1623,7 +1623,7 @@
       "@id": "C-3312",
       "ref": "C-3312",
       "label": "Host's Government Source Places All SD Card and Laptop Activity Within ~10 Minutes of Charlie Kirk Being Struck",
-      "claim": "The host states, citing a government source she trusts, that the entire sequence – Terrell pocketing the SD card, racing to his laptop, and the apparent SD card insertion – occurred within approximately ten minutes of Charlie Kirk being shot.",
+      "claim": "The host states, citing a government source she trusts, that the entire sequence – Terryl pocketing the SD card, racing to his laptop, and the apparent SD card insertion – occurred within approximately ten minutes of Charlie Kirk being shot.",
       "anchored_artifacts": [
         "A-2295.1"
       ],
@@ -1632,7 +1632,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:11:42",
-      "investigative_direction": "Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terrell's laptop.",
+      "investigative_direction": "Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terryl's laptop.",
       "mentions_person_refs": [
         "N-262",
         "N-1"
@@ -1748,8 +1748,8 @@
       "@type": "Claim",
       "@id": "C-7540",
       "ref": "C-7540",
-      "label": "Host Says Terrell Was the First to Declare Charlie Dead",
-      "claim": "The host says Terrell is the first one who declared Charlie Kirk dead, and that all of the SD card handling followed within about four minutes.",
+      "label": "Host Says Terryl Was the First to Declare Charlie Dead",
+      "claim": "The host says Terryl is the first one who declared Charlie Kirk dead, and that all of the SD card handling followed within about four minutes.",
       "anchored_artifacts": [
         "A-2295.1"
       ],
@@ -1771,8 +1771,8 @@
       "@type": "Claim",
       "@id": "C-7541",
       "ref": "C-7541",
-      "label": "Host Says She Has Held the Footage Since October and Spoke to Terrell in September",
-      "claim": "The host says she calls the footage her October surprise because she has had it since October, and that she has been interested in Terrell since September, when she spoke to him and it felt off.",
+      "label": "Host Says She Has Held the Footage Since October and Spoke to Terryl in September",
+      "claim": "The host says she calls the footage her October surprise because she has had it since October, and that she has been interested in Terryl since September, when she spoke to him and it felt off.",
       "anchored_artifacts": [
         "A-2295.1"
       ],
@@ -1847,8 +1847,8 @@
       "@type": "Claim",
       "@id": "C-7544",
       "ref": "C-7544",
-      "label": "Host Says the Footage Shows Terrell Texting and Then Sitting Facing the Other Way on His Laptop",
-      "claim": "The host says Terrell is shown texting with someone, then picks up the laptop and sits facing the other direction, continuing on the laptop for a purpose she says she does not know.",
+      "label": "Host Says the Footage Shows Terryl Texting and Then Sitting Facing the Other Way on His Laptop",
+      "claim": "The host says Terryl is shown texting with someone, then picks up the laptop and sits facing the other direction, continuing on the laptop for a purpose she says she does not know.",
       "anchored_artifacts": [
         "A-2295.1"
       ],
@@ -1874,7 +1874,7 @@
       "@id": "C-7545",
       "ref": "C-7545",
       "label": "Host Says Kolvet Told Them the Cards Were Taken Because People Can Be Evil",
-      "claim": "The host says Andrew Kolvet told them Terrell was taking the SD cards because people can be evil, and questions why the card then needed to go onto a laptop when it was already secured in his pocket.",
+      "claim": "The host says Andrew Kolvet told them Terryl was taking the SD cards because people can be evil, and questions why the card then needed to go onto a laptop when it was already secured in his pocket.",
       "anchored_artifacts": [
         "A-2295.1"
       ],
@@ -1923,8 +1923,8 @@
       "@type": "Claim",
       "@id": "C-7547",
       "ref": "C-7547",
-      "label": "Host Says Terrell's 1102 Statement Describes the Yellow Camera as Filming the Audience",
-      "claim": "The host says that, according to Terrell's 1102 statement, the yellow camera was filming the audience, in particular the individuals asking questions.",
+      "label": "Host Says Terryl's 1102 Statement Describes the Yellow Camera as Filming the Audience",
+      "claim": "The host says that, according to Terryl's 1102 statement, the yellow camera was filming the audience, in particular the individuals asking questions.",
       "anchored_artifacts": [
         "A-2890.1"
       ],
@@ -1946,8 +1946,8 @@
       "@type": "Claim",
       "@id": "C-7548",
       "ref": "C-7548",
-      "label": "Host Says Terrell Took the Head-Camera Card About Three Minutes After the Yellow Camera Fell",
-      "claim": "The host says Terrell appeared about three minutes after the yellow camera fell to take the SD card from the camera behind Charlie's head, and stepped over the fallen camera and its SD card to do so.",
+      "label": "Host Says Terryl Took the Head-Camera Card About Three Minutes After the Yellow Camera Fell",
+      "claim": "The host says Terryl appeared about three minutes after the yellow camera fell to take the SD card from the camera behind Charlie's head, and stepped over the fallen camera and its SD card to do so.",
       "anchored_artifacts": [
         "A-2295.3"
       ],
@@ -2789,7 +2789,7 @@
       "@type": "Claim",
       "@id": "C-7586",
       "ref": "C-7586",
-      "label": "Host Says She Cannot Assert Evidence Tampering by Terrell",
+      "label": "Host Says She Cannot Assert Evidence Tampering by Terryl",
       "claim": "Responding to a comment, the host says she cannot assert that Farnsworth is guilty of evidence tampering or obstruction, only show what happened, and notes he could argue the card was his property.",
       "anchored_artifacts": [
         "A-2892.1"
@@ -2812,7 +2812,7 @@
       "@type": "Claim",
       "@id": "C-7587",
       "ref": "C-7587",
-      "label": "Host Says Terrell Had Already Sent a Google Link to the SBI Over 8 Days Earlier",
+      "label": "Host Says Terryl Had Already Sent a Google Link to the SBI Over 8 Days Earlier",
       "claim": "The host says Farnsworth had already sent a Google link to the SBI and had already sent that Google link over 8 days earlier, which she says undercuts his claims that he could not send a big file and feared Google would hack him.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3205,7 +3205,7 @@
           "video_timestamp": "00:08:42",
           "speaker_node_ref": "N-3",
           "quote": "today we can share with you my very own October surprise. I call it an October surprise because I've had it since October.",
-          "context": "Host introduces the Terrell laptop footage as her October surprise.",
+          "context": "Host introduces the Terryl laptop footage as her October surprise.",
           "confidence": "high",
           "tags": [
             "october surprise",

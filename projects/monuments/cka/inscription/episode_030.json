@@ -1401,7 +1401,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Reused for the police instruction lie.",
       "related_artifacts": [],
@@ -1718,7 +1718,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "The AV staffer in the camera and SD card items.",
       "related_artifacts": [],
@@ -2564,8 +2564,8 @@
       "@type": "Claim",
       "@id": "C-9714",
       "ref": "C-9714",
-      "label": "Host Says Terrell Was Not Told by Police to Remove Cameras and Blames Bowyer",
-      "claim": "The host says it is not true that Terrell, the AV staffer, was told by police to remove the cameras, says she has every second of his movements, and names Tyler Bowyer as the offender.",
+      "label": "Host Says Terryl Was Not Told by Police to Remove Cameras and Blames Bowyer",
+      "claim": "The host says it is not true that Terryl, the AV staffer, was told by police to remove the cameras, says she has every second of his movements, and names Tyler Bowyer as the offender.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346",
@@ -2576,7 +2576,7 @@
       ],
       "claim_timestamp": "00:16:32",
       "investigative_direction": "Obtain police body-camera or CAD records showing whether any officer gave a camera or SD card instruction.",
-      "transcript_snippet": "Terrell, the AV guy, uh, was told to remove the cameras by police. That's not true. I have every second of his moves.",
+      "transcript_snippet": "Terryl, the AV guy, uh, was told to remove the cameras by police. That's not true. I have every second of his moves.",
       "contradicts_claim_refs": [
         "C-1366"
       ],
@@ -2590,8 +2590,8 @@
       "@type": "Claim",
       "@id": "C-9715",
       "ref": "C-9715",
-      "label": "Host Rebuts Kolvet's Account That Terrell Moved SD Cards Because People Were Stealing Hats",
-      "claim": "The host says Andrew Kolvet's explanation that Terrell moved the SD cards because people were stealing hats does not make sense, because expensive cameras rather than cheap SD cards would be the theft target.",
+      "label": "Host Rebuts Kolvet's Account That Terryl Moved SD Cards Because People Were Stealing Hats",
+      "claim": "The host says Andrew Kolvet's explanation that Terryl moved the SD cards because people were stealing hats does not make sense, because expensive cameras rather than cheap SD cards would be the theft target.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10100",
@@ -2602,7 +2602,7 @@
       ],
       "claim_timestamp": "00:16:32",
       "investigative_direction": "Obtain the original Kolvet statement and any report of hat or equipment theft at the event.",
-      "transcript_snippet": "Terrell moved the SD cards because people were stealing hats. Andrew Kolvet, what if you were scared about people stealing?",
+      "transcript_snippet": "Terryl moved the SD cards because people were stealing hats. Andrew Kolvet, what if you were scared about people stealing?",
       "contradicts_claim_refs": [
         "C-1369"
       ],

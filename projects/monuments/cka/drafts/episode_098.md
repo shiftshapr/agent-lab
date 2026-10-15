@@ -25,7 +25,7 @@
 
 This episode is dominated by host commentary on the Daily Wire's announced mass layoffs and a renewed pattern of alleged coordinated attacks against the host. The episode presents several artifact-anchored documentary exhibits: (1) the Daily Wire's own statement to Breitbart Media about restructuring, read aloud in full; (2) a business-analysis X post by user Akash Gupta quantifying the company's viewership collapse and workforce reduction; (3) multiple read-aloud X/Twitter posts and comments concerning sponsor-list boycotts, branding mockery, Laura Loomer's "bad week" tweet, and a Baron Coleman read-aloud comment about alleged Laura Loomer coordination; (4) a Times of Israel article on Israel's planned $4.1 million Christian geofencing PR campaign via Show Faith by Works LLC; (5) an Andrew Kolvet audio clip announcing the geofencing of 277,000 devices at the State Farm Stadium memorial; (6) a Ben Shapiro audio clip accusing the host's listeners of complicity; and (7) a substantive Live Comments bundle from the YouTube live chat during recording.
 
-The episode advances three principal investigative threads: (a) the alleged coordination between the Dhillon Law Group / Slauson firm, Ben Shapiro, and Laura Loomer in launching the Brian Harpole lawsuit; (b) the alleged overlap between Dhillon Law Group's FARA-registered client Show Faith by Works and the Turning Point USA / Andrew Kolvet geofencing operation at Charlie Kirk's memorial; and (c) the host's framing that the Daily Wire's collapse is materially tied to Ben Shapiro's personal vendetta against her. The episode does not introduce primary documents into the Charlie Kirk assassination timeline, but rather reframes surrounding actors and their relationships.
+The episode advances three principal investigative threads: (a) the alleged coordination between the Dhillon Law Group / Sarelson firm, Ben Shapiro, and Laura Loomer in launching the Brian Harpole lawsuit; (b) the alleged overlap between Dhillon Law Group's FARA-registered client Show Faith by Works and the Turning Point USA / Andrew Kolvet geofencing operation at Charlie Kirk's memorial; and (c) the host's framing that the Daily Wire's collapse is materially tied to Ben Shapiro's personal vendetta against her. The episode does not introduce primary documents into the Charlie Kirk assassination timeline, but rather reframes surrounding actors and their relationships.
 
 ## 6. Meme Register
 
@@ -410,9 +410,9 @@ Confidence Level: High
 
 ---
 
-**A-2041** Matt Slauson X Wall Display Bundle
+**A-2041** Matt Sarelson X Wall Display Bundle
 
-**A-2041.1** Matt Slauson X wall display: prior to acknowledging the Brian Harpole lawsuit, Slauson heavily retweeted Laura Loomer and her attacks against the host's family
+**A-2041.1** Matt Sarelson X wall display: prior to acknowledging the Brian Harpole lawsuit, Sarelson heavily retweeted Laura Loomer and her attacks against the host's family
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -532,7 +532,7 @@ First named by the host at 00:37:02 in episode 98.
 
 **N-10651** Brian Harpole Lawsuit Coordination Question
 
-Investigative target: did the Brian Harpole lawsuit, filed via Slauson/Roth, coordinate with Ben Shapiro, the Daily Wire, and/or Laura Loomer?
+Investigative target: did the Brian Harpole lawsuit, filed via Sarelson/Roth, coordinate with Ben Shapiro, the Daily Wire, and/or Laura Loomer?
 
 Evidence Count: 3
 Claim Count: 3
@@ -597,7 +597,7 @@ Investigative Pressure: High
 
 **N-10656** Charlotte Airport Photo Coordination Question
 
-Investigative target: did Laura Loomer coordinate with Matt Slauson to obtain photographs of the host at the Charlotte airport simultaneous with the Harpole lawsuit email?
+Investigative target: did Laura Loomer coordinate with Matt Sarelson to obtain photographs of the host at the Charlotte airport simultaneous with the Harpole lawsuit email?
 
 Evidence Count: 2
 Claim Count: 2
@@ -690,7 +690,7 @@ Named in Gupta's post and in a clip calling her a coward.
 
 **N-60** Laura Loomer
 
-The host alleges coordination between Loomer and Matt Slauson and describes Loomer's merch call.
+The host alleges coordination between Loomer and Matt Sarelson and describes Loomer's merch call.
 
 *Related: C-11520, C-11521, C-11527, C-11528*
 
@@ -808,7 +808,7 @@ Party to the settled lawsuit the host discusses.
 
 ---
 
-**N-863** Matt Slauson
+**N-863** Matt Sarelson
 
 Lawyer who sent the Harpole lawsuit and the host's long-time arbitration opponent.
 
@@ -1046,7 +1046,7 @@ Investigative Direction: Verify against LinkedIn/public hiring records and any D
 
 **C-2837** Akash Gupta X post asserted Shapiro's monthly YouTube views collapsed from 170M (late 2023) to ~22M (early 2026)
 
-Claim Timestamp: 00:09:45
+Claim Timestamp: 00:11:40
 
 Claim: Per an X post by Akash Gupta that the host reads, Shapiro's YouTube monthly viewership collapsed from approximately 170 million to approximately 22 million over roughly 18 months.
 
@@ -1061,7 +1061,7 @@ Investigative Direction: Verify via third-party YouTube analytics services (e.g.
 
 **C-2838** Akash Gupta X post asserted LayoffHedge.com estimates Daily Wire workforce reduction above 60% over the past year
 
-Claim Timestamp: 00:09:45
+Claim Timestamp: 00:11:55
 
 Claim: Per an X post by Akash Gupta that the host reads, LayoffHedge.com estimates cumulative Daily Wire workforce reduction above 60%.
 
@@ -1076,7 +1076,7 @@ Investigative Direction: Independently query LayoffHedge.com archive and corrobo
 
 **C-2839** Akash Gupta X post stated Candace Owens has 5.5M YouTube subscribers and ~805M views since January 2025
 
-Claim Timestamp: 00:09:45
+Claim Timestamp: 00:11:15
 
 Claim: The X analysis stated the host reached 5.5 million YouTube subscribers and generated roughly 805 million views since January 2025.
 
@@ -1143,11 +1143,11 @@ Investigative Direction: Cross-check against the original FARA filing in DOJ FAR
 
 ---
 
-**C-2844** Host Says Show Faith by Works LLC Is Run by Chad Schnitker per FARA Filings
+**C-2844** Host Reads Times of Israel Saying Show Faith by Works Is Run by Chad Schnitker
 
-Claim Timestamp: 00:36:00
+Claim Timestamp: 00:37:43
 
-Claim: The host says the FARA registration for Show Faith by Works LLC identifies Chad Schnitker, a California Christian conservative activist, as principal.
+Claim: Per a Times of Israel article the host reads, Show Faith by Works LLC, which filed under FARA, is run by Chad Schnitker, a prominent Christian conservative activist in California.
 
 Anchored Artifacts: A-2035.1, A-2036.1
 Mentions: N-430
@@ -1158,12 +1158,12 @@ Related Nodes: N-10652
 
 **C-2845** Host Says Show Faith by Works LLC Registered Under FARA Eight Days After Charlie Kirk's Assassination
 
-Claim Timestamp: 00:36:00
+Claim Timestamp: 00:36:17
 
 Claim: The host says Show Faith by Works LLC began its FARA contracting registration eight days after Charlie Kirk was assassinated.
 
 Anchored Artifacts: A-2036.1
-Mentions: N-1, N-430
+Mentions: N-1
 
 Related Nodes: N-10652
 
@@ -1171,12 +1171,12 @@ Related Nodes: N-10652
 
 **C-2846** Host Says Show Faith by Works LLC Was Contracted by Havoc Media Before Charlie Kirk's Public Funeral
 
-Claim Timestamp: 00:36:00
+Claim Timestamp: 00:39:35
 
 Claim: The host says Show Faith by Works LLC was contracted by Havoc Media on the 8th, followed by the public funeral of Charlie Kirk.
 
 Anchored Artifacts: A-2036.1, A-2044.1
-Mentions: N-1, N-430
+Mentions: N-1
 
 Related Nodes: N-10652, N-10653
 
@@ -1223,26 +1223,26 @@ Related Nodes: N-10656
 
 ---
 
-**C-2850** Matt Slauson's X wall showed he heavily retweeted Laura Loomer attacks before posting the Harpole lawsuit
+**C-2850** Matt Sarelson's X wall showed he heavily retweeted Laura Loomer attacks before posting the Harpole lawsuit
 
 Claim Timestamp: 00:33:10
 
-Claim: The host reported observing on Matt Slauson's X wall that before acknowledging the lawsuit he had heavily retweeted Laura Loomer and her attacks on the host's family.
+Claim: The host reported observing on Matt Sarelson's X wall that before acknowledging the lawsuit he had heavily retweeted Laura Loomer and her attacks on the host's family.
 
 Anchored Artifacts: A-2041.1
-Mentions: N-60
+Mentions: N-863, N-60
 
 Related Nodes: N-10651, N-10656
 
-Investigative Direction: Pull archived Slauson X timeline via Wayback Machine to verify.
+Investigative Direction: Pull archived Sarelson X timeline via Wayback Machine to verify.
 
 ---
 
 **C-2851** Jacob William Roth is listed as a partner on the Brian Harpole lawsuit and is Ben Shapiro's brother-in-law
 
-Claim Timestamp: 00:00:00–00:00:01
+Claim Timestamp: 00:01:15
 
-Claim: The Brian Harpole lawsuit's final page lists Jacob William Roth as partner of the firm; host states Roth has been married to Ben Shapiro's sister since 2018.
+Claim: The Brian Harpole lawsuit's final page lists Jacob William Roth as partner of the firm; the host says she thinks Roth has been married to Ben Shapiro's sister since 2018.
 
 Anchored Artifacts: A-2042.1
 Mentions: N-267, N-97
@@ -1260,7 +1260,7 @@ Claim Timestamp: 00:33:10
 Claim: The host says Jacob William Roth, Ben Shapiro's brother-in-law, retweeted the Brian Harpole lawsuit document.
 
 Anchored Artifacts: A-2043.1
-Mentions: N-267
+Mentions: N-97, N-267
 
 Related Nodes: N-10651
 
@@ -1270,12 +1270,12 @@ Investigative Direction: Pull archived Roth X timeline.
 
 **C-2853** FARA filing's church targeting list overlaps with Turning Point-affiliated churches (Calvary Chapel, Dream City Church)
 
-Claim Timestamp: 00:44:39
+Claim Timestamp: 00:45:07
 
-Claim: The FARA filing names churches targeted for geofencing that overlap with Turning Point USA-affiliated Calvary Chapel churches and Dream City Church in Phoenix (which hosted both Erika Kirk and prior Trump events).
+Claim: The host says the Show Faith by Works FARA filing named churches to be geofenced that include many Calvary Chapel churches where Turning Point USA pastors are involved and Dream City Church in Phoenix, which hosted Erika Kirk and Donald Trump; she says she has not personally confirmed a link.
 
 Anchored Artifacts: A-2044.1, A-2040.1
-Mentions: N-2
+Mentions: N-2, N-5
 
 Related Nodes: N-10653
 
@@ -1283,12 +1283,12 @@ Related Nodes: N-10653
 
 **C-2854** Donation from Jen comments asserts the Harpole case could enable discovery of underlying materials
 
-Claim Timestamp: 00:49:43
+Claim Timestamp: 00:49:25
 
-Claim: A live chat donation stated that pursuing the lawsuit to discovery stage could enable access to underlying evidence in the Charlie Kirk matter.
+Claim: A live-chat donation comment the host reads hopes the donation will help pay for attorneys to pursue discovery in the Brian Harpole case, calling it the only chance to get to the truth.
 
 Anchored Artifacts: A-2040.3
-Mentions: N-1
+Mentions: N-267
 
 Related Nodes: N-10651
 
@@ -1296,7 +1296,7 @@ Related Nodes: N-10651
 
 **C-2855** Host Says FARA Registration Identifies Dhillon Law Group as Legal Representative of Show Faith by Works LLC
 
-Claim Timestamp: 00:36:00
+Claim Timestamp: 00:39:20
 
 Claim: The host says the Show Faith by Works FARA paperwork lists Dhillon Law Group as the legal representative.
 
@@ -1342,7 +1342,7 @@ Investigative Direction: Locate the Truth Social post, its date and time, and th
 
 Claim Timestamp: 00:00:48
 
-Claim: The host says the Brian Harpole lawsuit was sent by Matt Slauson, the same lawyer who had for two years been suing her in arbitration on Ben Shapiro's behalf.
+Claim: The host says the Brian Harpole lawsuit was sent by Matt Sarelson, the same lawyer who had for two years been suing her in arbitration on Ben Shapiro's behalf.
 
 Transcript Snippet: it's been sent from the same lawyer who had already been suing me nonstop in arbitration on Ben Shapiro's behalf for 2 years.
 
@@ -1597,7 +1597,7 @@ Investigative Direction: Identify the show and its dates of release and the date
 
 Claim Timestamp: 00:15:44
 
-Claim: The host says she wanted to leave the Daily Wire quietly and that she wishes Andrew Klavan had never made the Crisis King video, after which they could never speak about each other again.
+Claim: The host says she wanted to leave the Daily Wire quietly and wishes Andrew Klavan had never made the Crisis King video, because otherwise 'you would have never heard from me' and they could never speak about each other again.
 
 Transcript Snippet: I wish Andrew Klavan never made the Crisis King video.
 
@@ -1806,7 +1806,7 @@ Claim: The host says Ben Shapiro (the transcript reads 'Ben Shap- uh uh Bibi Net
 Transcript Snippet: while he unflinchingly hosts Ben Shap- uh uh Bibi Netanyahu on his platform.
 
 Anchored Artifacts: 
-Mentions: N-97, N-36, N-147
+Mentions: N-97, N-36
 Supports: C-9668
 Tags: relevance:context
 Investigative Direction: Identify the Shapiro-Netanyahu interview and its date.
@@ -1829,11 +1829,11 @@ Investigative Direction: Seek audit, advertiser or former-employee records on pa
 
 ---
 
-**C-11525** Host says she was in the Charlotte airport when the Slauson email arrived
+**C-11525** Host says she was in the Charlotte airport when the Sarelson email arrived
 
 Claim Timestamp: 00:31:50
 
-Claim: The host says she was standing in the Charlotte airport when she received the email from Matt Slauson, a detail she says she never publicized.
+Claim: The host says she was standing in the Charlotte airport when she received the email from Matt Sarelson, a detail she says she never publicized.
 
 Transcript Snippet: but I was standing in the Charlotte airport when I received that email.
 
@@ -1846,11 +1846,11 @@ Investigative Direction: Check the email's timestamp and the host's flight recor
 
 ---
 
-**C-11526** Host says Slauson first sent a demand saying a lawsuit would be filed in four days
+**C-11526** Host says Sarelson first sent a demand saying a lawsuit would be filed in four days
 
 Claim Timestamp: 00:32:30
 
-Claim: The host says Matt Slauson's firm first sent a demand saying a lawsuit would be filed in four days, more than a week before the host announced anything publicly.
+Claim: The host says Matt Sarelson's firm first sent a demand saying a lawsuit would be filed in four days, more than a week before the host announced anything publicly.
 
 Transcript Snippet: they had first sent this like I don't know demand thing at first and said we are filing this lawsuit in 4 days
 
@@ -1862,19 +1862,19 @@ Investigative Direction: Obtain the demand letter and its date.
 
 ---
 
-**C-11527** Host alleges coordination between Slauson and Laura Loomer
+**C-11527** Host alleges coordination between Sarelson and Laura Loomer
 
 Claim Timestamp: 00:32:50
 
-Claim: The host alleges that Loomer's apparent knowledge of the email suggests coordination between Matt Slauson, Ben Shapiro's lawyer, and Laura Loomer.
+Claim: The host alleges that Loomer's apparent knowledge of the email suggests coordination between Matt Sarelson, Ben Shapiro's lawyer, and Laura Loomer.
 
-Transcript Snippet: That signals that there's some coordination between Matt Slauson, Ben Shapiro's lawyer, um and Laura Loomer.
+Transcript Snippet: That signals that there's some coordination between Matt Sarelson, Ben Shapiro's lawyer, um and Laura Loomer.
 
 Anchored Artifacts: A-2039.1
 Mentions: N-863, N-97, N-60
 Related Nodes: N-10656, N-10651
 Tags: relevance:core
-Investigative Direction: Look for communications, payments or contacts between Loomer, Slauson and the person who allegedly tried to hire a photographer.
+Investigative Direction: Look for communications, payments or contacts between Loomer, Sarelson and the person who allegedly tried to hire a photographer.
 
 ---
 
@@ -2194,7 +2194,7 @@ Investigative Direction: Compare dates of the earlier filing with Boreing's birt
 
 ---
 
-**C-11548** Host says Boring's focus on himself and neglect of talent led the company into debt
+**C-11548** Host Says Boreing's Focus on Himself and Neglect of Talent Led the Company Into Debt
 
 Claim Timestamp: 00:48:19
 

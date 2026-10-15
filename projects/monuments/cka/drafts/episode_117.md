@@ -23,9 +23,9 @@
 
 The host continues her theory that Charlie Kirk's microphone was rigged. She first addresses the St. Michael necklace, playing clips in which a speaker who appears to be Frank Turek and Andrew Kolvet describe it (A-2677). She rejects the idea that the necklace itself was rigged, but argues that, if her theory is right, it would have carried explosive residue, which she says would explain why police looked for it and why it was handed to Erika Kirk. She recaps the oddities she says the theory explains (A-2678.1), cites an article on PETN's high soil absorption (A-2678.2), and plays paver Dan Merrill telling Jimmy Rex that about 10 inches of soil had already been dug out before he arrived (A-2679.1).
 
-The host then turns to the wireless mic. According to the host, audio professionals emailed her (A-2682.1) to say that placing a Rode Wireless Pro inside a shirt makes no sense. She shows fall 2024 tour footage in which the mic moves from outside to inside Charlie Kirk's shirt from October 8 (A-2680.2). Using X user Sam Parker's video (A-2683.1), she identifies Philip Goldsberry Jr., on Terrell Farnsworth's team, as the technician who fitted the mic under Charlie's shirt next to the necklace. She says Goldsberry's father, Dr. Philip Goldsberry, an Arizona pastor, co-founded Soter Global Ministries in 2006. According to its website (A-2684), the group worked with orphanages in Romania, Ukraine and Albania and visited a shelter for human trafficking victims. She adds Goldsberry to her "connecting themes" spreadsheet of Eastern European links around Turning Point USA (A-2685.1). The spreadsheet covers Erika Kirk's Romanian Angels Project, Tyler Bowyer's time in Romania and Russia, Rob McCoy's adoption from Russia, Greg Laurie's Harvest church lawsuits, a Kolvet brother stationed in Romania, and donor Nelda Buckman.
+The host then turns to the wireless mic. According to the host, audio professionals emailed her (A-2682.1) to say that placing a Rode Wireless Pro inside a shirt makes no sense. She shows fall 2024 tour footage in which the mic moves from outside to inside Charlie Kirk's shirt from October 8 (A-2680.2). Using X user Sam Parker's video (A-2683.1), she identifies Philip Goldsberry Jr., on Terryl Farnsworth's team, as the technician who fitted the mic under Charlie's shirt next to the necklace. She says Goldsberry's father, Dr. Philip Goldsberry, an Arizona pastor, co-founded Soter Global Ministries in 2006. According to its website (A-2684), the group worked with orphanages in Romania, Ukraine and Albania and visited a shelter for human trafficking victims. She adds Goldsberry to her "connecting themes" spreadsheet of Eastern European links around Turning Point USA (A-2685.1). The spreadsheet covers Erika Kirk's Romanian Angels Project, Tyler Bowyer's time in Romania and Russia, Rob McCoy's adoption from Russia, Greg Laurie's Harvest church lawsuits, a Kolvet brother stationed in Romania, and donor Nelda Buckman.
 
-The host recounts her post-assassination call with Terrell Farnsworth (A-2681.1). She says he told her the event was live-streamed to "the ops back in Phoenix," not to TPUSA headquarters. She asks why Charlie Kirk's handheld mic, phone and necklace went to TPUSA or Erika Kirk rather than into evidence, and where his white Freedom shirt is. She sets clips of Frank Turek and Rob McCoy saying CPR was given in the car against Brian Harpole saying it was not (A-2686). She also says she believes the assassination is linked to the Jeffrey Epstein network, stating that this is her opinion.
+The host recounts her post-assassination call with Terryl Farnsworth (A-2681.1). She says he told her the event was live-streamed to "the ops back in Phoenix," not to TPUSA headquarters. She asks why Charlie Kirk's handheld mic, phone and necklace went to TPUSA or Erika Kirk rather than into evidence, and where his white Freedom shirt is. She sets clips of Frank Turek and Rob McCoy saying CPR was given in the car against Brian Harpole saying it was not (A-2686). She also says she believes the assassination is linked to the Jeffrey Epstein network, stating that this is her opinion.
 
 After a light segment on a post about Erika Kirk's signature (A-2687), the comments segment covers the "paver emergency," the White House Correspondents' Dinner "emotional asset" email (A-2689.1), and a Decentralized Intelligence Agency beat. In that beat the host says her $10,000 bounty has still not identified who recorded the Erika Kirk exit video (A-2690.1). She also says Brian Harpole's filing asserts a 911 call she cannot find in the released recordings, and that Trump was the one who called Erika Kirk on September 10.
 
@@ -129,9 +129,9 @@ Confidence Level: High
 
 ---
 
-**A-2681** Terrell Farnsworth Phone Call Bundle
+**A-2681** Terryl Farnsworth Phone Call Bundle
 
-**A-2681.1** Host verbal reference to her phone call with Terrell Farnsworth after the assassination (not played)
+**A-2681.1** Host verbal reference to her phone call with Terryl Farnsworth after the assassination (not played)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:27:01
@@ -382,7 +382,7 @@ Received Charlie Kirk's necklace and phone, and her Romanian Angels Project, pag
 
 **N-3** Candace Owens
 
-Host. She relays her phone call with Terrell Farnsworth, her own TPUSA tour experience with ambulances, her audience numbers and the Harpole filing against her.
+Host. She relays her phone call with Terryl Farnsworth, her own TPUSA tour experience with ambulances, her audience numbers and the Harpole filing against her.
 
 *Related: C-4665, C-4669, C-4698, C-4714, C-4717, A-2681.1*
 
@@ -458,9 +458,9 @@ Named as on the plane with Charlie Kirk and given the necklace for Erika Kirk; s
 
 *Related: C-4656, C-4711, C-4718, A-2677.2*
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Transcript spellings "Terrell Farnsworth", "Taro Farnsworth", "Carol Farnsworth", "Turrell Farnsworth" and "Terrel". CEO of Visual Impulse and head of the AV team; the host relays his phone statements on the live stream and the mic redundancy.
+Transcript spellings "Terryl Farnsworth", "Terryl Farnsworth", "Carol Farnsworth", "Turrell Farnsworth" and "Terrel". CEO of Visual Impulse and head of the AV team; the host relays his phone statements on the live stream and the mic redundancy.
 
 *Related: C-4653, C-4664, C-4669, C-4672, C-4674, C-4675, C-4698, C-4699, C-4700, A-2681.1, A-2683.1*
 
@@ -526,7 +526,7 @@ First named by the host at 00:06:08 in episode 117. Interviewer of paver Dan Mer
 
 **N-688** Philip Goldsberry Jr.
 
-First named by the host at 00:14:08 in episode 117. Member of Terrell Farnsworth's AV team whom the host identifies as the person who mic'd Charlie Kirk on September 10. Aliases: Philip Goldsberry; Phillips Goldsberry.
+First named by the host at 00:14:08 in episode 117. Member of Terryl Farnsworth's AV team whom the host identifies as the person who mic'd Charlie Kirk on September 10. Aliases: Philip Goldsberry; Phillips Goldsberry.
 
 *Related: C-4674, C-4675, C-4676, C-4677, C-4683, A-2683.1, A-2684.1*
 
@@ -596,7 +596,7 @@ The host's opinion linking the assassination to the Epstein network.
 
 *Related: C-4706, C-4707*
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 The camera removal and selfie video right after the shooting.
 
@@ -716,7 +716,7 @@ The host's central rigged-mic theory, recapped and extended.
 
 *Related: C-4656, C-4657, C-4658, C-4662, C-4668, A-2678.1, A-2678.2, A-2688.4*
 
-**N-10797** Terrell Farnsworth Google-Hack Contradiction
+**N-10797** Terryl Farnsworth Google-Hack Contradiction
 
 Farnsworth's stated reasons for not sending the video file.
 
@@ -777,7 +777,7 @@ US Marine rotational force the host says set up a base in Romania in 2010 that w
 **N-10991** Visual Impulse
 
 Node Type: Organization
-Audio-visual company run by Terrell Farnsworth as CEO, long-time AV provider for Charlie Kirk and Turning Point USA; Philip Goldsberry Jr. is on its team.
+Audio-visual company run by Terryl Farnsworth as CEO, long-time AV provider for Charlie Kirk and Turning Point USA; Philip Goldsberry Jr. is on its team.
 
 *Related: C-4698, C-4700, A-2681.1, N-262*
 
@@ -797,13 +797,13 @@ Investigation target: who recorded the viral video of Erika Kirk leaving the Whi
 
 ## 5. Claim Register
 
-**C-4653** Terrell Farnsworth removed the back camera and recorded a selfie video minutes after the shooting
+**C-4653** Terryl Farnsworth removed the back camera and recorded a selfie video minutes after the shooting
 
 Claim Timestamp: 00:00:01
 
-Claim: The host says Terrell Farnsworth raced to take down the camera behind Charlie Kirk's head minutes after he died, and recorded a selfie video of himself declaring that Charlie was dead seconds after he died.
+Claim: The host says Terryl Farnsworth raced to take down the camera behind Charlie Kirk's head minutes after he died, and recorded a selfie video of himself declaring that Charlie was dead seconds after he died.
 
-Transcript Snippet: Terrell Farnsworth racing to take down the camera behind Charlie's head minutes after he died, also that little selfie he recorded of himself declaring that Charlie was dead seconds after he died
+Transcript Snippet: Terryl Farnsworth racing to take down the camera behind Charlie's head minutes after he died, also that little selfie he recorded of himself declaring that Charlie was dead seconds after he died
 
 Anchored Artifacts: 
 Mentions: N-262, N-1
@@ -968,9 +968,9 @@ Investigative Direction: Check the charging documents, discovery and court filin
 
 Claim Timestamp: 00:08:29
 
-Claim: The host says Terrell Farnsworth violated the crime scene immediately after the shooting to remove the SD card from the back camera.
+Claim: The host says Terryl Farnsworth violated the crime scene immediately after the shooting to remove the SD card from the back camera.
 
-Transcript Snippet: it would also explain why Terrell Farnsworth violated the crime scene immediately, quite boldly, to remove the SD card from that back footage
+Transcript Snippet: it would also explain why Terryl Farnsworth violated the crime scene immediately, quite boldly, to remove the SD card from that back footage
 
 Anchored Artifacts: A-2678.1
 Mentions: N-262
@@ -1043,9 +1043,9 @@ Investigative Direction: Analyse high-resolution UVU footage and stills of the m
 
 Claim Timestamp: 00:10:56
 
-Claim: The host says the wireless Rode mic was added as a redundancy starting with the first campus tour on which she was not featured alongside Charlie Kirk. She says Terrell Farnsworth admitted this to her by phone.
+Claim: The host says the wireless Rode mic was added as a redundancy starting with the first campus tour on which she was not featured alongside Charlie Kirk. She says Terryl Farnsworth admitted this to her by phone.
 
-Transcript Snippet: that is when it seems the team began to introduce the redundancy of the wireless road mic. Again, that was also admitted to me by Terrell Farnsworth on the phone.
+Transcript Snippet: that is when it seems the team began to introduce the redundancy of the wireless road mic. Again, that was also admitted to me by Terryl Farnsworth on the phone.
 
 Anchored Artifacts: A-2681.1
 Mentions: N-262, N-3, N-1
@@ -1088,9 +1088,9 @@ Investigative Direction: Determine whether any broadcast or live-stream recordin
 
 Claim Timestamp: 00:14:08
 
-Claim: The host says Terrell Farnsworth has run Charlie Kirk's audio-visual team for over 10 years, and that the Farnsworth and Tyler Bowyer families grew up together and go back generations.
+Claim: The host says Terryl Farnsworth has run Charlie Kirk's audio-visual team for over 10 years, and that the Farnsworth and Tyler Bowyer families grew up together and go back generations.
 
-Transcript Snippet: We know Taro Farnsworth is running this team. He has for over 10 years.
+Transcript Snippet: We know Terryl Farnsworth is running this team. He has for over 10 years.
 
 Anchored Artifacts: 
 Mentions: N-262, N-11
@@ -1118,7 +1118,7 @@ Investigative Direction: Interview current and former TPUSA staff and review hir
 
 Claim Timestamp: 00:14:08
 
-Claim: The host says the member of Terrell Farnsworth's team who mic'd Charlie Kirk on September 10 was a young man named Philip Goldsberry Jr.
+Claim: The host says the member of Terryl Farnsworth's team who mic'd Charlie Kirk on September 10 was a young man named Philip Goldsberry Jr.
 
 Transcript Snippet: And that answer is uh the answer is a young man named Philip Goldsberry Jr., okay?
 
@@ -1133,7 +1133,7 @@ Investigative Direction: Confirm the technician's identity from event crew lists
 
 Claim Timestamp: 00:15:55
 
-Claim: In a video by X user Sam Parker, Philip Goldsberry is shown holding the transmitter and lapel magnet near Terrell Farnsworth and Frank Turek. Parker says the dual charging cases or docking stations show the mic is a Rode Wireless Pro.
+Claim: In a video by X user Sam Parker, Philip Goldsberry is shown holding the transmitter and lapel magnet near Terryl Farnsworth and Frank Turek. Parker says the dual charging cases or docking stations show the mic is a Rode Wireless Pro.
 
 Transcript Snippet: This is how we know it's the Rode Wireless Pro microphone because it comes with the dual charging cases and and docking stations.
 
@@ -1480,7 +1480,7 @@ Investigative Direction: Locate the Victor Marx statement and any public appeara
 
 Claim Timestamp: 00:27:01
 
-Claim: The host says Terrell Farnsworth, CEO of Visual Impulse and long-time AV provider for Charlie Kirk and TPUSA, told her by phone after the assassination that they were trying something new. She says this was why he had started attending events where he oversaw the audio division, and that his presence on September 10 was new.
+Claim: The host says Terryl Farnsworth, CEO of Visual Impulse and long-time AV provider for Charlie Kirk and TPUSA, told her by phone after the assassination that they were trying something new. She says this was why he had started attending events where he oversaw the audio division, and that his presence on September 10 was new.
 
 Transcript Snippet: His assertion to me that they were trying something new, that's why he started going to these sorts of events that required him to oversee the audio division.
 
@@ -1495,7 +1495,7 @@ Investigative Direction: Obtain Visual Impulse's event staffing logs for 2024–
 
 Claim Timestamp: 00:27:01
 
-Claim: The host says Terrell Farnsworth told her he did not know how to send a video file, and that this changed into a stated fear that Google would hack him if he sent it.
+Claim: The host says Terryl Farnsworth told her he did not know how to send a video file, and that this changed into a stated fear that Google would hack him if he sent it.
 
 Transcript Snippet: His absurd claim, patently absurd claim, that he did not know how to send a video file, which then transformed into him expressing a bizarre fear that he didn't want to send it because he thought Google was going to hack him.
 
@@ -1510,7 +1510,7 @@ Investigative Direction: Seek any recording or notes of the call and Farnsworth'
 
 Claim Timestamp: 00:27:50
 
-Claim: The host says Terrell Farnsworth told her the UVU event was being live-streamed to "the ops back in Phoenix" because Charlie Kirk wanted clips cut immediately. When she asked whether those ops were at Turning Point headquarters, he said no.
+Claim: The host says Terryl Farnsworth told her the UVU event was being live-streamed to "the ops back in Phoenix" because Charlie Kirk wanted clips cut immediately. When she asked whether those ops were at Turning Point headquarters, he said no.
 
 Transcript Snippet: they were live-streaming the event to the ops back in Phoenix. That's a direct quote, the ops back in Phoenix.
 
@@ -2007,7 +2007,7 @@ Confidence: high
 ## 7. Optional Flags
 
 - **DIA scan**: one real DIA beat, the $10,000 bounty at 00:54:23 (C-4716, A-2690.1, M-12). The "very nice tip" at 00:52:57 is a viewer's monetary chat tip (Zammit) and was not treated as a DIA beat. The host's account of the flood of emails from audio professionals (09:48, 12:50) contains none of the DIA trigger phrases and is handled as C-4667/C-4671, not as DIA. No Candace Intelligence Agency merch phrase airs, so M-14 is not used.
-- **Artifacts verbally referenced but not shown**: A-2681.1 (host's phone call with Terrell Farnsworth), A-2689.1 (WHCD "emotional asset" email) and A-2690.1 (the $10,000 bounty). The "graphic" (A-2678.1) and the science article (A-2678.2) are described as shown, but their text is only partly read.
+- **Artifacts verbally referenced but not shown**: A-2681.1 (host's phone call with Terryl Farnsworth), A-2689.1 (WHCD "emotional asset" email) and A-2690.1 (the $10,000 bounty). The "graphic" (A-2678.1) and the science article (A-2678.2) are described as shown, but their text is only partly read.
 - **Speaker uncertainty in clips**: the necklace clips at 01:20–03:22 are not labelled in the transcript. A-2677.1 appears to be Erika Kirk. A-2677.2 appears to be Frank Turek (consistent with prior C-1962). A-2677.3 is identified as Andrew Kolvet on Laura Ingraham's show only by the host's later remark at 38:48.
 - **Name matching**: "Taylor Boyer" mapped to N-11 Tyler Bowyer. "Andrew Corbett" (24:24) and "Andrew Cole" (55:47) mapped to N-14 Andrew Kolvet from context. "Andrew Cypher" mapped to N-332 Andrew Sypher. "Blakey Naft" mapped to N-160 Blake Neff. "Ryan Harpole" mapped to N-267 Brian Harpole. "Tara", "Taro", "Carol" and "Turrell" Farnsworth mapped to N-262. "Soder" / "Soteria" Global Ministries treated as Soter Global Ministries (N-10989), the spelling the host also uses. "Colonel Otto Busher" (N-690) is kept in transcript spelling; the true name is unverified. "Curtis" is minted as Curtis Kolvet (N-691) on the brother relationship alone. "Laura Ingram" is minted as Laura Ingraham (N-692); she has no row in nodes.tsv.
 - **Not minted**: "Rick", "Dan" and "Justin" in Harpole's clip (possibly Rick Cutler, Dan Flood and a Justin, who exist in nodes.tsv, but not confirmed from this transcript); Druski ("Jurski", no row in nodes.tsv; staging episode 084 mints him as N-686); Ivanka Trump (joke only, used for meme M-109); Natalia (orphan, no surname); Dana Loesch ("Dana Lash", rhetorical mention only); Tucker Carlson and Baron Coleman (mentions without a claim); Nissy and the Erika Jayne Girardi signature misreading (joke).

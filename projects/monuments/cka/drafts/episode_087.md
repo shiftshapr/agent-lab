@@ -699,9 +699,9 @@ Joe Kent; the host says TPUSA attacked him instead of disclosing Charlie's posit
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth, spelled Teal and Terra in the transcript; camera-takedown figure the host links to the Mormon colony families.
+Terryl Farnsworth, spelled Teal and Terra in the transcript; camera-takedown figure the host links to the Mormon colony families.
 
 *Related: C-14609, C-14617, C-14618, C-14619, A-3331.1*
 
@@ -964,7 +964,7 @@ Existing node reused for new claims in this episode.
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 Node Type: Topic
 Existing node reused for new claims in this episode.
@@ -2709,7 +2709,7 @@ Investigative Direction: Read the defense's discovery motions for requests about
 
 ---
 
-**C-14617** Commenter Says Terrell Farnsworth Took a Chair From the Crime Scene to Mess With the Camera
+**C-14617** Commenter Says Terryl Farnsworth Took a Chair From the Crime Scene to Mess With the Camera
 
 Claim Timestamp: 00:42:19
 
@@ -2730,7 +2730,7 @@ Investigative Direction: Compare the video of the camera removal with Farnsworth
 
 Claim Timestamp: 00:43:05
 
-Claim: Reading viewer comments, the host recalls Terrell Farnsworth being 'all crazy on the phone', quotes him as saying 'I spoke to Erika', and asks why he spoke to Erika about the footage from behind Charlie's head a couple of days after Charlie died, questioning their priorities.
+Claim: Reading viewer comments, the host recalls Terryl Farnsworth being 'all crazy on the phone', quotes him as saying 'I spoke to Erika', and asks why he spoke to Erika about the footage from behind Charlie's head a couple of days after Charlie died, questioning their priorities.
 
 Transcript Snippet: So, I I spoke to Erika. Why'd you speak to Erika about like the behind of his head footage? It's weird. It's like a couple days after Charlie died.
 
@@ -2742,13 +2742,13 @@ Investigative Direction: Clarify who spoke to Erika, when, and what was said (Fa
 
 ---
 
-**C-14619** Host Says Terrell Farnsworth Was All Crazy on the Phone
+**C-14619** Host Says Terryl Farnsworth Was All Crazy on the Phone
 
 Claim Timestamp: 00:43:05
 
-Claim: The host says Terrell Farnsworth was all crazy on the phone.
+Claim: The host says Terryl Farnsworth was all crazy on the phone.
 
-Transcript Snippet: And then Terrell was all crazy on the phone.
+Transcript Snippet: And then Terryl was all crazy on the phone.
 
 Anchored Artifacts: 
 Mentions: N-3, N-262

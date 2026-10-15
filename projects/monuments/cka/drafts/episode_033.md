@@ -247,7 +247,7 @@ Confidence Level: Medium (third-party tip; producer-asserted camera locations)
 
 **A-1424** TPUSA Internal Personnel Reference Bundle
 
-**A-1424.1** Host's verbal account that Terrell Farnsworth attended the UVU campus event on September 10 (described as unusual because he typically handles larger TPUSA events), and that he secured the SD cards afterward
+**A-1424.1** Host's verbal account that Terryl Farnsworth attended the UVU campus event on September 10 (described as unusual because he typically handles larger TPUSA events), and that he secured the SD cards afterward
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -409,7 +409,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 TPUSA personnel described by host as attending the UVU event and securing the SD cards. Matters because his presence is flagged as atypical by host.
 
@@ -1354,13 +1354,13 @@ Investigative Direction: Retrieve the earlier plane document the host refers to 
 
 ---
 
-**C-12362** Host Says Terrell Farnsworth Does Not Normally Work College Campus Events
+**C-12362** Host Says Terryl Farnsworth Does Not Normally Work College Campus Events
 
 Claim Timestamp: 00:12:10
 
-Claim: The host says Terrell Farnsworth, who takes out the SD cards, does not do college campus events, only the big events such as SAS and AmFest, so his presence at the UVU event was one of her earliest alarms.
+Claim: The host says Terryl Farnsworth, who takes out the SD cards, does not do college campus events, only the big events such as SAS and AmFest, so his presence at the UVU event was one of her earliest alarms.
 
-Transcript Snippet: Terrell does not do college campus events. He doesn't do that. He's at the top of the company. He does the big events, the SAS, the Afest.
+Transcript Snippet: Terryl does not do college campus events. He doesn't do that. He's at the top of the company. He does the big events, the SAS, the Afest.
 
 Anchored Artifacts: A-1424.1
 Mentions: N-262, N-3
@@ -2449,7 +2449,7 @@ Confidence: high
 - **Name uncertainty:** "Charlie Kirk Boulevard" reference appears in host's book club clip and is referenced for context only; not artifact-anchored as claim.
 - **Name uncertainty:** "Candace" / "Candice" / "Canowens" – multiple transcription variants of "candaceowens.com" appear in the transcript; flagged as possible transcription error.
 - **Possible transcription error:** UTC offset calculation. Host converts UTC to local time using UTC − 7. A viewer comment in the episode notes that September falls within daylight saving time (MDT), which would be UTC − 6, not UTC − 7. This affects the transponder timing claims (C-1719, C-1734) by one hour. Flagged for verification.
-- **Artifact verbally referenced but not shown:** "Mommy sleuth" email (A-1419.2), N560TW flight (A-1422.1), Andrew Kolvet hospital threat disclosure (C-1724), Terrell Farnsworth presence (A-1424.1), Andrew K. Smith interview (A-1424.2), Ben Shapiro commentary on Erika.
+- **Artifact verbally referenced but not shown:** "Mommy sleuth" email (A-1419.2), N560TW flight (A-1422.1), Andrew Kolvet hospital threat disclosure (C-1724), Terryl Farnsworth presence (A-1424.1), Andrew K. Smith interview (A-1424.2), Ben Shapiro commentary on Erika.
 - **Transcript ambiguity:** "restaurantology" / "restauranttology" – appears twice with different spellings.
 - **Requires human verification:** All four license plate assignments (A-1421.1–4) – host-stated, requires independent rental-records confirmation.
 - **Requires human verification:** Host's claim that "no federal agency has since contacted me directly about those credible threats" (C-1724) is host testimony; cannot be verified absent federal disclosure or testimony from Andrew Kolvet.

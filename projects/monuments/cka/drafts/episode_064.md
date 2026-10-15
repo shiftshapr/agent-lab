@@ -36,7 +36,7 @@
 - Claim Range: C-2206–C-2224
   - New Nodes Introduced: N-497, N-10448, N-10449, N-10450
   - Reused Nodes Appearing: N-10447, N-10446, N-14, N-22, N-36, N-97, N-196, N-202, N-222, N-232, N-362, N-471, N-494, N-10000, N-10027, N-10074, N-10238, N-10341, N-10342, N-10346, N-10416, N-10439, N-10452, N-10492, N-10548, N-10560, N-10899, N-10900, N-11014, N-11084, N-11092, N-11116, N-11180, N-11191, N-10554, N-11182, N-10561
-- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-262 (Terrell Farnsworth)
+- Existing Nodes Reused: N-1 (Charlie Kirk), N-2 (Erica Kirk – preserved as N-2 series entry; note: transcript renders "Erika" – see Optional Flags); N-262 (Terryl Farnsworth)
 
 ## 6. Meme Register
 
@@ -426,7 +426,7 @@ Investigative Pressure: Low
 
 *Related: A-1687.1, C-2213, C-2214*
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 Identified by host during playback of the September 16 Zoom call as audible in the background of the recording.
 
@@ -550,7 +550,7 @@ Existing topic reused for new claims.
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for new claims.
 
@@ -1026,17 +1026,17 @@ Related Nodes: N-10449
 
 Investigative Direction: Identify the Bulwark episode and date; verify whether Daily Wire or Boreing has disputed these production details.
 
-**C-2220** Teo Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call
+**C-2220** Terryl Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call
 
 Claim Timestamp: 00:16:46
 
-Claim: During the September 16 Zoom call playback, host identifies Teo Farnsworth as in the background of the recording.
+Claim: During the September 16 Zoom call playback, host identifies Terryl Farnsworth as in the background of the recording.
 
 Anchored Artifacts: A-1686.1
 Mentions: N-262
 
 
-Investigative Direction: Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.
+Investigative Direction: Confirm Terryl Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.
 
 **C-2221** Host Characterizes Boreing's "Nuclear Energy" / BLM-Critique Hiring Rationale as Objectively Racially Motivated
 
@@ -1714,9 +1714,9 @@ Investigative Direction: Compare TPUSA's post-assassination fundraising totals w
 
 Claim Timestamp: 00:16:46
 
-Claim: The host says that the man in the background of the call, Teo Farnsworth, is the guy who took down the cameras.
+Claim: The host says that the man in the background of the call, Terryl Farnsworth, is the guy who took down the cameras.
 
-Transcript Snippet: that is Teo Farnsworth, the guy who took down the cameras.
+Transcript Snippet: that is Terryl Farnsworth, the guy who took down the cameras.
 
 Anchored Artifacts: A-1686.1
 Mentions: N-262, N-3

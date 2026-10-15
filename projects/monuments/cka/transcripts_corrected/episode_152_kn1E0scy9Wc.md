@@ -41,7 +41,7 @@ Suddenly, powerful sexual deviant type billionaires rise up to try to destroy hi
 
 [01:40]
 
-You know what, guys? I just want to say right at the top here, the more I think about it, like just in the privacy of my own thoughts, the more outrageous it becomes that we continue to be gaslit about Terrell Farnsworth. I'm really angry about this Terrell Farnsworth bit. Just the amount of evidence that we have produced that he is shady. Terrell Farnsworth might just be my hill to die on. It is just reaching a level of of absurdity. He's actually cartoonishly sneaky. we were talking about today a stereotype of trying to get away with it. An episode of Looney Tunes. Here he is. I just want to show you guys this really quick here up the top. And before anyone falsely accuses me of having edited this clip, I will state for the record that the audio captured is in fact real and it has not been edited in any way whatsoever. Take a look.
+You know what, guys? I just want to say right at the top here, the more I think about it, like just in the privacy of my own thoughts, the more outrageous it becomes that we continue to be gaslit about Terryl Farnsworth. I'm really angry about this Terryl Farnsworth bit. Just the amount of evidence that we have produced that he is shady. Terryl Farnsworth might just be my hill to die on. It is just reaching a level of of absurdity. He's actually cartoonishly sneaky. we were talking about today a stereotype of trying to get away with it. An episode of Looney Tunes. Here he is. I just want to show you guys this really quick here up the top. And before anyone falsely accuses me of having edited this clip, I will state for the record that the audio captured is in fact real and it has not been edited in any way whatsoever. Take a look.
 
 [02:33]
 
@@ -57,7 +57,7 @@ And that's all, folks.
 
 [03:11]
 
-How is this legal? How is this legal? Something about that has to be illegal. We all agree, right? I'm just going to say it again for the record. Should that man venture into the state of Tennessee, I will be conducting a citizen's arrest. Terrell Farnsworth, you are not safe here in the state of Tennessee. Okay, I will capture you. That's all, folks. Anyway, now on to some rather curious.
+How is this legal? How is this legal? Something about that has to be illegal. We all agree, right? I'm just going to say it again for the record. Should that man venture into the state of Tennessee, I will be conducting a citizen's arrest. Terryl Farnsworth, you are not safe here in the state of Tennessee. Okay, I will capture you. That's all, folks. Anyway, now on to some rather curious.
 
 ## The trafficking themes and more exclusive footage.
 

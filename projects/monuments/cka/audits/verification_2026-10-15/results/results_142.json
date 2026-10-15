@@ -1,0 +1,777 @@
+[
+ {
+  "claim": "C-3849",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3850",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3851",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3852",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3853",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3854",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3855",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3856",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3857",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"he\" is not resolved in window; read as Epstein. Poussard/\"Boussard\" accepted.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3858",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3859",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Blake Neff (\"replied to Neff\") but Mentions lacks N-160.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-160"
+   ]
+  }
+ },
+ {
+  "claim": "C-3860",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3861",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim does not name or refer to Blake Neff; N-160 is extra in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-3862",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3863",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3864",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3865",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3866",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3867",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Transcript garbled: \"people in as I understand it, Melania is in her circle, have said this\"; unresolved.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3868",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3869",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3870",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3871",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3872",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host frames it conditionally: \"If he makes a conscious decision to tweet out that Tucker... are mentally ill while he invites... Laura Loomer.\"",
+  "fix": {
+   "claim": "The host says the question to ask is whether Donald Trump is mentally fit if he makes a conscious decision to tweet out that Tucker Carlson, Megyn Kelly and Candace Owens are mentally ill while inviting Laura Loomer into his inner circle for advice on Iran."
+  }
+ },
+ {
+  "claim": "C-3873",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3874",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3875",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3876",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3877",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3878",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3879",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3880",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3881",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3882",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host hedges the outlet: \"suing um is it The Atlantic because they said that he's a drunk.\"",
+  "fix": {
+   "claim": "The host says Kash Patel is suing, she thinks The Atlantic (\"is it The Atlantic\"), because it reported that he is a drunk."
+  }
+ },
+ {
+  "claim": "C-3883",
+  "episode": 95,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2790",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Dropped hedge in post: \"I believe in this case, without verification, she's an extremely low IQ individual.\"",
+  "fix": {
+   "claim": "Per the Truth Social post the host reads, Trump wrote that \"I believe in this case, without verification, she's an extremely low IQ individual\" and called her attack on the First Lady of France \"despicable.\""
+  }
+ },
+ {
+  "claim": "C-2791",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Washington Post headline is read about 28:18 + ~57s = ~29:15; claim stamped 29:53 is ~38s after.",
+  "fix": {
+   "timestamp": "00:29:10"
+  }
+ },
+ {
+  "claim": "C-2792",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2793",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3745",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2794",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2795",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2796",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Clip: \"many of the journalists in that room have attempted to dehumanize me and I wanted to meet some of them face-to-face.\" Claim softens to \"had written about her\".",
+  "fix": {
+   "claim": "In her pre-recorded statement, Erika Kirk said she attended the White House Correspondents Dinner because many of the journalists in the room had attempted to dehumanize her and she wanted to meet some of them face-to-face."
+  }
+ },
+ {
+  "claim": "C-2797",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2798",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2799",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2800",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Confirmed spelling is Terryl Farnsworth (N-262), not \"Taro\"; transcript \"Taro\" is a mis-transcription.",
+  "fix": {
+   "claim": "The host says Terryl Farnsworth recorded himself on video at the Charlie Kirk shooting scene within seconds (she also says not even a minute) of the incident; in a clip she plays, he says \"They just shot Charlie.\"",
+   "label": "Host Says Terryl Farnsworth Recorded Video at Charlie Kirk Shooting Scene",
+   "names": [
+    {
+     "wrong": "Taro Farnsworth",
+     "right": "Terryl Farnsworth",
+     "source": "https://mysterylores.com/news/terryl-farnsworth-footage-charlie-kirk-shooting/"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2801",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2802",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2803",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says Erika meeting was \"at the end of December\"; year 2025 and \"sent in December\" are not stated.",
+  "fix": {
+   "claim": "Candace stated the text was sent in response to a question about what she planned to ask Erika Kirk when they met up at the end of December, framed as a joke referencing the Bari Weiss/Ben Shapiro framing that any question to Erika equaled accusing her of murder."
+  }
+ },
+ {
+  "claim": "C-2804",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2805",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"potentially paid half a million dollars... Was the SPLC paying Candace Owens 500K a year to plagiarize David Duke?\" Posed as a question, hedge dropped.",
+  "fix": {
+   "claim": "The host says Laura Loomer reported that Candace Owens was potentially paid half a million dollars by the Southern Poverty Law Center to communicate David Duke talking points, framed as \"Was the SPLC paying Candace Owens 500K a year to plagiarize David Duke?\""
+  }
+ },
+ {
+  "claim": "C-2806",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Fuentes/Aubrey, not Axelrod, so N-373 is extra. Tweet is posed as a question, Qatar funding is host gloss; real name is Aubrey Laitsch (node \"Lech\").",
+  "fix": {
+   "claim": "Laura Loomer tweeted a question whether Candace Owens, Nick Fuentes, and Aubrey Laitsch, who all \"suddenly appeared in Rome\", were converging for a \"secret anti-Trump summit\", adding that she suspects it is funded by foreign dark money and citing a source that Aubrey approached conservatives about a paid propaganda trip to Qatar.",
+   "mentions": [
+    "N-3",
+    "N-60",
+    "N-202",
+    "N-552"
+   ],
+   "names": [
+    {
+     "wrong": "Aubrey Lech",
+     "right": "Aubrey Laitsch",
+     "source": "https://dailydot.com/turning-point-usa-aubrey-laitsch-former-employee"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-2807",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2808",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host says \"back in 2019 I shared that\"; month August 2019 is not stated (August was 2016 photos).",
+  "fix": {
+   "claim": "Candace stated the photo of her that Trump used in his Truth Social post was originally shared by Candace herself on her Twitter account in 2019."
+  }
+ },
+ {
+  "claim": "C-2809",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3752",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8755",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Trump's tweets about the host are not about the assassination or its investigation.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8756",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Trump insulting the host is not about the assassination or its investigation.",
+  "fix": {
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-8757",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

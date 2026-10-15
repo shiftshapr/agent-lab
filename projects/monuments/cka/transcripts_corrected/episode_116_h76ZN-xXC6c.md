@@ -134,7 +134,7 @@ They hate us. I feel like the federal government hates us that they're trying us
 
 [21:11]
 
-But it would have decapitated Charlie effectively. Everybody knows this and it was the news that we brought forward here uh that I saw the back footage which in my opinion the footage behind Charlie's head was never meant to see the light of day. In fact, it is now very compelling to me that Terrell says he spoke to Erika about that footage. That's very strange for her to have cared to speak to Terrell about that footage at all in those early days. And then that's nearly confirmed because in that early Zoom video where uh Erika is laughing at the emojis 6 days after the assassination, if you didn't note, Terrell is standing in the back. So, she's in the Charlie Kirk building at Turning Point USA and Terrell is there.
+But it would have decapitated Charlie effectively. Everybody knows this and it was the news that we brought forward here uh that I saw the back footage which in my opinion the footage behind Charlie's head was never meant to see the light of day. In fact, it is now very compelling to me that Terryl says he spoke to Erika about that footage. That's very strange for her to have cared to speak to Terryl about that footage at all in those early days. And then that's nearly confirmed because in that early Zoom video where uh Erika is laughing at the emojis 6 days after the assassination, if you didn't note, Terryl is standing in the back. So, she's in the Charlie Kirk building at Turning Point USA and Terryl is there.
 
 [21:49]
 
@@ -150,7 +150,7 @@ And what why do they need Why do they need to have an early conversation right a
 
 [24:11]
 
-An explosion uh is also compelling because it would go some way of explaining why Terrell Farnsworth was instructed specifically to take the SD card from the camera that was behind Charlie's head because that was clearly the only video angle that would have revealed that Charlie did not die from a.30-06 bullet wound and that Man of Steel is not going to really cut it as some miraculous explanation. Also, people who believe that he zoomed in on the footage that he showed me, I want to let you know, uh great work. I think you are correct that he zoomed in on that that footage because it would have showed us more. I I think he he would have captured um a lot more in that footage if we're looking at comparing it to the past events where they suddenly started wanting to get that angle.
+An explosion uh is also compelling because it would go some way of explaining why Terryl Farnsworth was instructed specifically to take the SD card from the camera that was behind Charlie's head because that was clearly the only video angle that would have revealed that Charlie did not die from a.30-06 bullet wound and that Man of Steel is not going to really cut it as some miraculous explanation. Also, people who believe that he zoomed in on the footage that he showed me, I want to let you know, uh great work. I think you are correct that he zoomed in on that that footage because it would have showed us more. I I think he he would have captured um a lot more in that footage if we're looking at comparing it to the past events where they suddenly started wanting to get that angle.
 
 [25:01]
 
@@ -234,7 +234,7 @@ His son, his family just stayed on FaceTime the entire time all through the hosp
 
 [39:31]
 
-Nothing they have said or done has been convincing. What I will say is that for those of you know about explosives, you should spend some time and you should start making videos and we should start looking more into the theory that Charlie Kirk's pager, or rather road microphone, may have been inoperable and may have simply been a weapon because Turning Point told a story that they were live streaming that event. Where? Has that been found? I'm asking sincerely. I just don't remember seeing that live stream anywhere. I know Terrell told me that on the phone when I asked him about things that looked weird and he said they started doing something new and they were live streaming back to the office. I've asked people at Turning Point USA, "Do you remember seeing this live stream?" Thus far, no one has confirmed watching this live stream at the office.
+Nothing they have said or done has been convincing. What I will say is that for those of you know about explosives, you should spend some time and you should start making videos and we should start looking more into the theory that Charlie Kirk's pager, or rather road microphone, may have been inoperable and may have simply been a weapon because Turning Point told a story that they were live streaming that event. Where? Has that been found? I'm asking sincerely. I just don't remember seeing that live stream anywhere. I know Terryl told me that on the phone when I asked him about things that looked weird and he said they started doing something new and they were live streaming back to the office. I've asked people at Turning Point USA, "Do you remember seeing this live stream?" Thus far, no one has confirmed watching this live stream at the office.
 
 [40:20]
 

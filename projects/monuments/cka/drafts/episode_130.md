@@ -598,7 +598,7 @@ Named as the firm formerly owned by Robert Graf and linked to the Egyptian plane
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 Named as a Mormon who takes down the cameras.
 
@@ -1590,11 +1590,11 @@ Investigative Direction: Identify which TPUSA tour or field staffer named Andrew
 
 ---
 
-**C-5960** Host says Terrell Farnsworth is Mormon, takes down the cameras, and families knew Erika before Charlie
+**C-5960** Host says Terryl Farnsworth is Mormon, takes down the cameras, and families knew Erika before Charlie
 
 Claim Timestamp: 00:25:03
 
-Claim: The host says that Terrell Farnsworth, who takes down the cameras, and others in the Farnsworth circle are Mormons whose families knew Erika before Erika knew Charlie.
+Claim: The host says that Terryl Farnsworth, who takes down the cameras, and others in the Farnsworth circle are Mormons whose families knew Erika before Erika knew Charlie.
 
 Transcript Snippet: Taryl's the guy who takes down the cameras, the Farnsworth guys, and all of these people knew Erika before Erika knew Charlie.
 
@@ -1718,7 +1718,7 @@ Investigative Direction: Seek Turning Point Action financial filings and employe
 
 Claim Timestamp: 00:27:24
 
-Claim: The host says Tyler Bowyer sits on the board of a company with Erika Kirk's mother, Lori Frantzve, who she says had relationships with Mormons like Terrell Farnsworth before Charlie Kirk knew her.
+Claim: The host says Tyler Bowyer sits on the board of a company with Erika Kirk's mother, Lori Frantzve, who she says had relationships with Mormons like Terryl Farnsworth before Charlie Kirk knew her.
 
 Transcript Snippet: Tyler is sitting on the board of a company with Erika's mother, Laura Lori Fronsway, who had those relationships with the Mormons
 

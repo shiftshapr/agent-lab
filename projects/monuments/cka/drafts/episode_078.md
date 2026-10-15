@@ -832,9 +832,9 @@ Mark Levin; named by the host among people Charlie disliked.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth; AV company owner the host says showed her the footage and made excuses about sending a file.
+Terryl Farnsworth; AV company owner the host says showed her the footage and made excuses about sending a file.
 
 *Related: C-12709, C-12710, C-12711*
 
@@ -952,7 +952,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10346** Terrell Farnsworth Camera Removal Justification
+**N-10346** Terryl Farnsworth Camera Removal Justification
 
 Existing topic reused for new claims in this episode.
 
@@ -1024,7 +1024,7 @@ Existing topic reused for new claims in this episode.
 
 ---
 
-**N-10812** Terrell Farnsworth Evidence-Handling Question
+**N-10812** Terryl Farnsworth Evidence-Handling Question
 
 Existing topic reused for new claims in this episode.
 
@@ -2022,9 +2022,9 @@ Investigative Direction: Obtain all vehicle interior photos and the inventory of
 
 Claim Timestamp: 00:33:10
 
-Claim: The host says that on a phone call Terrell Farnsworth, who runs an audio-visual company, made excuse after excuse and claimed he did not know how to send a file, which she took to be a lie.
+Claim: The host says that on a phone call Terryl Farnsworth, who runs an audio-visual company, made excuse after excuse and claimed he did not know how to send a file, which she took to be a lie.
 
-Transcript Snippet: just excuse after excuse, and I didn't understand why there would be any reason he was lying uh saying he didn't know how to send a file, but you run a audio-visual company, Terrell Farnsworth.
+Transcript Snippet: just excuse after excuse, and I didn't understand why there would be any reason he was lying uh saying he didn't know how to send a file, but you run a audio-visual company, Terryl Farnsworth.
 
 Anchored Artifacts: 
 Mentions: N-262
@@ -2055,9 +2055,9 @@ Investigative Direction: Identify the relationship and any business records link
 
 Claim Timestamp: 00:34:11
 
-Claim: The host says she thinks that at some point Turning Point said it did not have the footage, but that it does have it, and that Terrell Farnsworth showed her the footage at his office.
+Claim: The host says she thinks that at some point Turning Point said it did not have the footage, but that it does have it, and that Terryl Farnsworth showed her the footage at his office.
 
-Transcript Snippet: And by the way, I think at some point they said they didn't have the footage. They have the footage, okay? This is Terrell was at his office when he showed me this.
+Transcript Snippet: And by the way, I think at some point they said they didn't have the footage. They have the footage, okay? This is Terryl was at his office when he showed me this.
 
 Anchored Artifacts: 
 Mentions: N-262
@@ -2667,7 +2667,7 @@ Investigative Direction: Check the pardon record and ambassadorial appointment f
 # Optional Flags
 
 - **Artifact verbally referenced but not shown (video clip fully displayed):** A-1840.1 (Megyn Kelly/Babin) and A-1838.2 (Erica interview about orphans) – both played on air; transcript reflects captions.
-- **Name uncertainty:** "Terrell" (A/V operative referenced by host) – spelling may be "Talal"; preserved as transcribed.
+- **Name uncertainty:** "Terryl" (A/V operative referenced by host) – spelling may be "Talal"; preserved as transcribed.
 - **Name uncertainty:** "Frank" (Erica's father referenced as necklace-witness) – not otherwise identified in transcript.
 - **Name uncertainty:** "Erika Frantzve" – host uses this spelling for a person described as related to real-estate dealings; may be alternative spelling of Erica's maiden name. Preserved exactly as spoken.
 - **Name uncertainty:** "Dan" (individual shown pushing Charlie in video) – host identifies verbally; identity not independently confirmed.

@@ -542,9 +542,9 @@ Shawn Ryan; hosted Harpole's interview.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth; the host's 'Tricky Terrell'.
+Terryl Farnsworth; the host's 'Tricky Terryl'.
 
 *Related: C-15057*
 
@@ -2274,18 +2274,18 @@ Investigative Direction: Find the Kasparian interview.
 
 ---
 
-**C-15057** Host Says Coleman Will Keep Track of Tricky Terrell
+**C-15057** Host Says Coleman Will Keep Track of Tricky Terryl
 
 Claim Timestamp: 01:01:19
 
-Claim: The host says Coleman will keep track of 'Tricky Terrell', whom she says bothers everyone and gets away with a lot.
+Claim: The host says Coleman will keep track of 'Tricky Terryl', whom she says bothers everyone and gets away with a lot.
 
-Transcript Snippet: he will he will keep track of Tricky Terrell because Tricky Terrell bothers us all.
+Transcript Snippet: he will he will keep track of Tricky Terryl because Tricky Terryl bothers us all.
 
 Anchored Artifacts: 
 Mentions: N-3, N-331, N-262
 Tags: relevance:context
-Investigative Direction: Confirm 'Tricky Terrell' means Terrell Farnsworth.
+Investigative Direction: Confirm 'Tricky Terryl' means Terryl Farnsworth.
 
 ---
 
@@ -2505,14 +2505,14 @@ Confidence: high
 
 ---
 
-**M-354** (meme) Tricky Terrell
+**M-354** (meme) Tricky Terryl
 
 ### Occurrence 1
 
 Video Timestamp: 01:01:19
 Speaker: N-3
-Quote: Tricky Terrell bothers us all.
-Context: Host on Terrell.
+Quote: Tricky Terryl bothers us all.
+Context: Host on Terryl.
 Tags: terrell
 Confidence: high
 

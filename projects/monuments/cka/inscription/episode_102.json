@@ -2061,7 +2061,7 @@
       "@id": "C-2889",
       "ref": "C-2889",
       "label": "Released audio clip contains Charlie Kirk saying \"I appoint my wife to run Turning Point USA\"",
-      "claim": "The audio clip released by Turning Point USA contains Charlie Kirk stating three times \"I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job.\"",
+      "claim": "In the audio clip the host plays, which she says Turning Point USA shared, a voice presented as Charlie Kirk's says three times \"I appoint my wife to run Turning Point USA if something happens to me. Erika would do a great job.\"",
       "anchored_artifacts": [
         "A-2066.1"
       ],
@@ -2091,7 +2091,6 @@
       "claim_timestamp": "00:07:32",
       "investigative_direction": "Verify Wada's TPUSA employment and the scope of his AI services; identify any other clients or projects; obtain a sample of his AI-generated voice work.",
       "mentions_person_refs": [
-        "N-432",
         "N-425"
       ]
     },
@@ -2100,7 +2099,7 @@
       "@id": "C-2891",
       "ref": "C-2891",
       "label": "TPUSA typically uses AI-cloned voice of Pastor John Amanchukwu in presentations",
-      "claim": "Per the source, Turning Point USA presentations typically feature AI-generated voice-over using Pastor John Amanchukwu's voice (described as with his permission).",
+      "claim": "Per the source, Turning Point USA presentations typically feature AI-generated voice-over using Pastor John Amanchukwu's voice. The host says she is sure it is done with his permission.",
       "anchored_artifacts": [
         "A-2068.2"
       ],
@@ -2139,7 +2138,7 @@
       "@id": "C-2893",
       "ref": "C-2893",
       "label": "Kimberly Klacik publicly questioned why the audio matters",
-      "claim": "Kimberly Klacik publicly argued on X that since the TPUSA board elected Erika Kirk as CEO and no donors had publicly questioned the decision, the authenticity of the audio does not matter.",
+      "claim": "Kimberly Klacik publicly asked on X, if the TPUSA board elected Erika Kirk as CEO and none of the donors had come forward questioning the decision, why the authenticity of the audio matters.",
       "anchored_artifacts": [
         "A-2067.1"
       ],

@@ -237,7 +237,7 @@
           "@type": "Artifact",
           "@id": "A-2370.1",
           "ref": "A-2370.1",
-          "description": "Enhanced surveillance/security-style footage showing Terrell Farnsworth seated in the back of a Mercedes Sprinter van (described as appearing to belong to the AV team) using a laptop, looking around, and crouching; timestamped by host to approximately 1:00 PM on September 10 – roughly 30 minutes after the event.",
+          "description": "Enhanced surveillance/security-style footage showing Terryl Farnsworth seated in the back of a Mercedes Sprinter van (described as appearing to belong to the AV team) using a laptop, looking around, and crouching; timestamped by host to approximately 1:00 PM on September 10 – roughly 30 minutes after the event.",
           "related_claims": [
             "C-3440"
           ],
@@ -529,7 +529,7 @@
           "@type": "Artifact",
           "@id": "A-3165.1",
           "ref": "A-3165.1",
-          "description": "Host verbal reference to preliminary-hearing testimony about the SBI receiving thumb drives rather than original SD cards and about Terrell Farnsworth sending files to the FBI via Google (not shown)",
+          "description": "Host verbal reference to preliminary-hearing testimony about the SBI receiving thumb drives rather than original SD cards and about Terryl Farnsworth sending files to the FBI via Google (not shown)",
           "related_claims": [
             "C-11778",
             "C-11779",
@@ -831,7 +831,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.",
       "related_artifacts": [],
@@ -1225,7 +1225,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10797",
       "ref": "N-10797",
-      "name": "Terrell Farnsworth Google-Hack Contradiction",
+      "name": "Terryl Farnsworth Google-Hack Contradiction",
       "type": "investigation_target",
       "description": "Existing topic or organization reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1744,8 +1744,8 @@
       "@type": "Claim",
       "@id": "C-3440",
       "ref": "C-3440",
-      "label": "Host Says Terrell Farnsworth Was on a Laptop in a Mercedes Sprinter Van at About 1:00 PM",
-      "claim": "The host says enhanced footage shows Terrell Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around (she says this is her inference), at approximately 1:00 PM on September 10, roughly 30 minutes after the event.",
+      "label": "Host Says Terryl Farnsworth Was on a Laptop in a Mercedes Sprinter Van at About 1:00 PM",
+      "claim": "The host says enhanced footage shows Terryl Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around (she says this is her inference), at approximately 1:00 PM on September 10, roughly 30 minutes after the event.",
       "anchored_artifacts": [
         "A-2370.1"
       ],
@@ -2368,7 +2368,7 @@
       "@id": "C-11780",
       "ref": "C-11780",
       "label": "Host says the preliminary hearing showed Farnsworth sent files to the FBI via Google",
-      "claim": "The host says the preliminary hearing revealed Terrell Farnsworth immediately sent files to the FBI via Google, contradicting what he told her about not knowing how to send a file.",
+      "claim": "The host says the preliminary hearing revealed Terryl Farnsworth immediately sent files to the FBI via Google, contradicting what he told her about not knowing how to send a file.",
       "anchored_artifacts": [
         "A-3165.1"
       ],

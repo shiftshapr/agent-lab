@@ -1567,9 +1567,9 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
-      "description": "Terrell Farnsworth; AV company owner the host says showed her the footage and made excuses about sending a file.",
+      "description": "Terryl Farnsworth; AV company owner the host says showed her the footage and made excuses about sending a file.",
       "related_artifacts": [],
       "related_claims": [
         "C-12709",
@@ -1816,7 +1816,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1974,7 +1974,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10812",
       "ref": "N-10812",
-      "name": "Terrell Farnsworth Evidence-Handling Question",
+      "name": "Terryl Farnsworth Evidence-Handling Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -3462,7 +3462,7 @@
       "@id": "C-12709",
       "ref": "C-12709",
       "label": "Host Says Farnsworth Lied on the Phone About Not Knowing How to Send a File",
-      "claim": "The host says that on a phone call Terrell Farnsworth, who runs an audio-visual company, made excuse after excuse and claimed he did not know how to send a file, which she took to be a lie.",
+      "claim": "The host says that on a phone call Terryl Farnsworth, who runs an audio-visual company, made excuse after excuse and claimed he did not know how to send a file, which she took to be a lie.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346",
@@ -3473,7 +3473,7 @@
       ],
       "claim_timestamp": "00:33:10",
       "investigative_direction": "Obtain the call record or the host's notes of the call and Farnsworth's own account of file handling.",
-      "transcript_snippet": "just excuse after excuse, and I didn't understand why there would be any reason he was lying uh saying he didn't know how to send a file, but you run a audio-visual company, Terrell Farnsworth.",
+      "transcript_snippet": "just excuse after excuse, and I didn't understand why there would be any reason he was lying uh saying he didn't know how to send a file, but you run a audio-visual company, Terryl Farnsworth.",
       "supports_claim_refs": [
         "C-6845"
       ],
@@ -3507,7 +3507,7 @@
       "@id": "C-12711",
       "ref": "C-12711",
       "label": "Host Says TPUSA Said It Did Not Have the Footage but Farnsworth Showed It to Her at His Office",
-      "claim": "The host says she thinks that at some point Turning Point said it did not have the footage, but that it does have it, and that Terrell Farnsworth showed her the footage at his office.",
+      "claim": "The host says she thinks that at some point Turning Point said it did not have the footage, but that it does have it, and that Terryl Farnsworth showed her the footage at his office.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10812",
@@ -3518,7 +3518,7 @@
       ],
       "claim_timestamp": "00:34:11",
       "investigative_direction": "Find the TPUSA statement that it lacked the footage and compare with Farnsworth's account of what he held and shared.",
-      "transcript_snippet": "And by the way, I think at some point they said they didn't have the footage. They have the footage, okay? This is Terrell was at his office when he showed me this.",
+      "transcript_snippet": "And by the way, I think at some point they said they didn't have the footage. They have the footage, okay? This is Terryl was at his office when he showed me this.",
       "mentions_person_refs": [
         "N-262"
       ]

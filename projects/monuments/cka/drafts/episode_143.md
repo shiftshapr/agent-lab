@@ -129,7 +129,7 @@ Confidence: high
 Video Timestamp: 00:08:42
 Speaker: N-3
 Quote: today we can share with you my very own October surprise. I call it an October surprise because I've had it since October.
-Context: Host introduces the Terrell laptop footage as her October surprise.
+Context: Host introduces the Terryl laptop footage as her October surprise.
 Tags: october surprise, footage
 Confidence: high
 
@@ -150,7 +150,7 @@ Confidence: high
 
 ## II. Executive Summary
 
-The episode centers on three artifact-anchored evidentiary threads. First, the host presents newly released exclusive footage (A-2295) of the camera operator variously identified as "Taral," "Terrell," and "Terrence" (N-262) handling SD cards at the event scene, including a sequence in which an SD card from the camera behind Charlie Kirk's head (N-1) is pocketed and then inserted into a laptop. The host pairs this footage with a displayed camera-position diagram (A-2300) to argue that the yellow audience-facing camera fell to the ground and was stepped over rather than retrieved.
+The episode centers on three artifact-anchored evidentiary threads. First, the host presents newly released exclusive footage (A-2295) of the camera operator variously identified as "Taral," "Terryl," and "Terrence" (N-262) handling SD cards at the event scene, including a sequence in which an SD card from the camera behind Charlie Kirk's head (N-1) is pocketed and then inserted into a laptop. The host pairs this footage with a displayed camera-position diagram (A-2300) to argue that the yellow audience-facing camera fell to the ground and was stepped over rather than retrieved.
 
 Second, the host plays an audio clip (A-2296) of Donald Trump on Fox and Friends in which Trump identifies Mike Mitchell (N-125) as the person who recognized Tyler Robinson (N-40) from the stairwell photo and initiated the contact chain. The host uses this artifact to challenge the circulating narrative that Robinson's parents turned him in.
 
@@ -174,9 +174,9 @@ Confidence Level: High
 
 ---
 
-**A-2295** Exclusive Footage – Terrell/Taral SD Card and Laptop Handling
+**A-2295** Exclusive Footage – Terryl/Taral SD Card and Laptop Handling
 
-**A-2295.1** Video segment showing the camera operator (Taral/Terrell/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and apparently inserting the SD card into it. Lane Schamberger is visible at the side washing his hands.
+**A-2295.1** Video segment showing the camera operator (Taral/Terryl/Terrence) bending over the camera behind Charlie Kirk's head, removing the SD card, pocketing it, looking around, then opening his laptop and apparently inserting the SD card into it. Lane Schamberger is visible at the side washing his hands.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -196,7 +196,7 @@ Confidence Level: High
 
 *Related: C-3305, C-3304, N-262, N-1, A-2300*
 
-**A-2295.3** Video segment showing Taral/Terrell stepping over the fallen yellow camera and its encompassed SD card en route to the camera behind Charlie's head.
+**A-2295.3** Video segment showing Taral/Terryl stepping over the fallen yellow camera and its encompassed SD card en route to the camera behind Charlie's head.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -306,7 +306,7 @@ Confidence Level: Medium
 
 ---
 
-**A-2890** Terrell Farnsworth 1102 Statement Bundle
+**A-2890** Terryl Farnsworth 1102 Statement Bundle
 
 **A-2890.1** Host verbal reference to Farnsworth's 1102 statement describing camera coverage and the lengths of the videos he provided (not shown)
 
@@ -334,9 +334,9 @@ Confidence Level: Low
 
 **A-2892** Viewer Comments Bundle
 
-**A-2892.1** Host reads viewer comment saying Terrell Farnsworth could be guilty of evidence tampering and obstruction
+**A-2892.1** Host reads viewer comment saying Terryl Farnsworth could be guilty of evidence tampering and obstruction
 
-Quoted text: "Sounds like Terrell Farnsworth could be guilty of evidence tampering and obstruction of justice."
+Quoted text: "Sounds like Terryl Farnsworth could be guilty of evidence tampering and obstruction of justice."
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:45:12
@@ -410,7 +410,7 @@ Investigative Pressure: Medium
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
 Camera operator handling SD cards and laptop in A-2295; spelling varies across host utterances.
 
@@ -423,7 +423,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10808** Terrell SD Card-to-Laptop Transfer Sequence
+**N-10808** Terryl SD Card-to-Laptop Transfer Sequence
 
 Persistent investigable discrepancy: SD card from camera behind Charlie's head was removed, pocketed, and (per host observation) inserted into a laptop within ~10 minutes of the shooting.
 
@@ -806,7 +806,7 @@ The host's assertion that January 6th was an event allegedly coordinated by fede
 
 ## V. Claim Register
 
-**C-3302** Terrell/Taral Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting
+**C-3302** Terryl/Taral Pocketed SD Card From Camera Behind Charlie's Head Within ~4–5 Minutes of Shooting
 
 Claim Timestamp: 00:08:42
 
@@ -819,7 +819,7 @@ Investigative Direction: Obtain original unedited video and corroborate timestam
 
 ---
 
-**C-3303** Terrell/Taral Subsequently Inserted That SD Card Into His Laptop
+**C-3303** Terryl/Taral Subsequently Inserted That SD Card Into His Laptop
 
 Claim Timestamp: 00:09:43
 
@@ -832,11 +832,11 @@ Investigative Direction: Recover laptop forensic artifacts (connection logs, fil
 
 ---
 
-**C-3304** Terrell/Taral Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head
+**C-3304** Terryl/Taral Stepped Over the Fallen Yellow Camera to Reach the Camera Behind Charlie's Head
 
 Claim Timestamp: 00:14:47
 
-Claim: The host presents that, when retrieving SD cards, Terrell stepped over the yellow audience-facing camera – which had fallen to the floor – rather than retrieving its SD card.
+Claim: The host presents that, when retrieving SD cards, Terryl stepped over the yellow audience-facing camera – which had fallen to the floor – rather than retrieving its SD card.
 
 Anchored Artifacts: A-2295.2, A-2295.3, A-2300.1
 Mentions: N-1, N-262
@@ -934,12 +934,12 @@ Investigative Direction: Confirm the original post URL and capture it before any
 
 Claim Timestamp: 00:11:42
 
-Claim: The host states, citing a government source she trusts, that the entire sequence – Terrell pocketing the SD card, racing to his laptop, and the apparent SD card insertion – occurred within approximately ten minutes of Charlie Kirk being shot.
+Claim: The host states, citing a government source she trusts, that the entire sequence – Terryl pocketing the SD card, racing to his laptop, and the apparent SD card insertion – occurred within approximately ten minutes of Charlie Kirk being shot.
 
 Anchored Artifacts: A-2295.1
 Mentions: N-262, N-1
 Related Nodes: N-10808
-Investigative Direction: Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terrell's laptop.
+Investigative Direction: Cross-reference host's timeline against SBI / UPD / FBI event-time records and any device-timestamp metadata recoverable from Terryl's laptop.
 
 ---
 
@@ -1022,11 +1022,11 @@ Investigative Direction: Check Utah and federal law on compelled production of p
 
 ---
 
-**C-7540** Host Says Terrell Was the First to Declare Charlie Dead
+**C-7540** Host Says Terryl Was the First to Declare Charlie Dead
 
 Claim Timestamp: 00:08:02
 
-Claim: The host says Terrell is the first one who declared Charlie Kirk dead, and that all of the SD card handling followed within about four minutes.
+Claim: The host says Terryl is the first one who declared Charlie Kirk dead, and that all of the SD card handling followed within about four minutes.
 
 Transcript Snippet: Um it's hard to forget that he is the first one who declared Charlie's dead.
 
@@ -1038,11 +1038,11 @@ Investigative Direction: Establish from witness statements and video who first p
 
 ---
 
-**C-7541** Host Says She Has Held the Footage Since October and Spoke to Terrell in September
+**C-7541** Host Says She Has Held the Footage Since October and Spoke to Terryl in September
 
 Claim Timestamp: 00:08:42
 
-Claim: The host says she calls the footage her October surprise because she has had it since October, and that she has been interested in Terrell since September, when she spoke to him and it felt off.
+Claim: The host says she calls the footage her October surprise because she has had it since October, and that she has been interested in Terryl since September, when she spoke to him and it felt off.
 
 Transcript Snippet: Well, today we can share with you my very own October surprise. I call it an October surprise because I've had it since October.
 
@@ -1088,11 +1088,11 @@ Investigative Direction: Confirm Schamberger's role in carrying Charlie to the v
 
 ---
 
-**C-7544** Host Says the Footage Shows Terrell Texting and Then Sitting Facing the Other Way on His Laptop
+**C-7544** Host Says the Footage Shows Terryl Texting and Then Sitting Facing the Other Way on His Laptop
 
 Claim Timestamp: 00:09:43
 
-Claim: The host says Terrell is shown texting with someone, then picks up the laptop and sits facing the other direction, continuing on the laptop for a purpose she says she does not know.
+Claim: The host says Terryl is shown texting with someone, then picks up the laptop and sits facing the other direction, continuing on the laptop for a purpose she says she does not know.
 
 Transcript Snippet: He picks up the laptop and what happens thereafter is he sits facing the other direction and continues on to his laptop doing what I don't know.
 
@@ -1109,7 +1109,7 @@ Investigative Direction: Obtain the full unedited footage and the phone records 
 
 Claim Timestamp: 00:11:42
 
-Claim: The host says Andrew Kolvet told them Terrell was taking the SD cards because people can be evil, and questions why the card then needed to go onto a laptop when it was already secured in his pocket.
+Claim: The host says Andrew Kolvet told them Terryl was taking the SD cards because people can be evil, and questions why the card then needed to go onto a laptop when it was already secured in his pocket.
 
 Transcript Snippet: We were told from Andrew he was doing this because people can be evil.
 
@@ -1138,11 +1138,11 @@ Investigative Direction: Identify who told the host the camera was unremarkable 
 
 ---
 
-**C-7547** Host Says Terrell's 1102 Statement Describes the Yellow Camera as Filming the Audience
+**C-7547** Host Says Terryl's 1102 Statement Describes the Yellow Camera as Filming the Audience
 
 Claim Timestamp: 00:13:38
 
-Claim: The host says that, according to Terrell's 1102 statement, the yellow camera was filming the audience, in particular the individuals asking questions.
+Claim: The host says that, according to Terryl's 1102 statement, the yellow camera was filming the audience, in particular the individuals asking questions.
 
 Transcript Snippet: according to Taral's 1102 statement, we know that that's filming the audience in particular the individuals that are asking questions.
 
@@ -1154,11 +1154,11 @@ Investigative Direction: Obtain Farnsworth's statement and check what it says ab
 
 ---
 
-**C-7548** Host Says Terrell Took the Head-Camera Card About Three Minutes After the Yellow Camera Fell
+**C-7548** Host Says Terryl Took the Head-Camera Card About Three Minutes After the Yellow Camera Fell
 
 Claim Timestamp: 00:14:47
 
-Claim: The host says Terrell appeared about three minutes after the yellow camera fell to take the SD card from the camera behind Charlie's head, and stepped over the fallen camera and its SD card to do so.
+Claim: The host says Terryl appeared about three minutes after the yellow camera fell to take the SD card from the camera behind Charlie's head, and stepped over the fallen camera and its SD card to do so.
 
 Transcript Snippet: So when Taral appears approximately 3 minutes later to take the SD card from behind from the camera behind Charlie's head he steps over it.
 
@@ -1763,7 +1763,7 @@ Investigative Direction: This is a sweeping assertion recorded as said; the host
 
 ---
 
-**C-7586** Host Says She Cannot Assert Evidence Tampering by Terrell
+**C-7586** Host Says She Cannot Assert Evidence Tampering by Terryl
 
 Claim Timestamp: 00:45:12
 
@@ -1779,7 +1779,7 @@ Investigative Direction: Seek the legal standard for evidence tampering and who 
 
 ---
 
-**C-7587** Host Says Terrell Had Already Sent a Google Link to the SBI Over 8 Days Earlier
+**C-7587** Host Says Terryl Had Already Sent a Google Link to the SBI Over 8 Days Earlier
 
 Claim Timestamp: 00:45:12
 
@@ -1972,7 +1972,7 @@ Investigative Direction: Check the episode schedule for the following week.
 
 ## VI. Optional Flags
 
-- **Name uncertainty:** The camera operator is referred to in the transcript as "Taral," "Terrell," and "Terrence." Most likely "Terrell" based on prior series usage, but the episode does not resolve the spelling. (Affects N-262.)
+- **Name uncertainty:** The camera operator is referred to in the transcript as "Taral," "Terryl," and "Terrence." Most likely "Terryl" based on prior series usage, but the episode does not resolve the spelling. (Affects N-262.)
 - **Transcript ambiguity:** A clear mid-segment gap appears at transcript marker [06:40], with the line "And he usually starts the tour seasons to make sure they are well set up." This reads as either a transcription artifact or missing context. Recommend human review.
 - **Artifact verbally referenced but not shown:** The host references an appearance by Erica Kirk on Glenn Beck's show regarding pre-event text messages, but no clip or screenshot is displayed in this episode. Flagged as verbal-reference-only.
 - **Artifact verbally referenced but not shown:** The host references a Brandi Zadrozny article as the source of the "left-coordination" framing but does not display the article. Flagged as verbal-reference-only.
@@ -1990,7 +1990,7 @@ Investigative Direction: Check the episode schedule for the following week.
 - [x] No episode-wide artifact bundle; each family represents one evidentiary source
 - [x] People nodes use sequential people-numbering; investigation targets use 2200 series
 - [x] No speculative claims inscribed as evidence-backed
-- [x] Names preserved exactly as transcript; "Taral/Terrell/Terrence" flagged with uncertainty
+- [x] Names preserved exactly as transcript; "Taral/Terryl/Terrence" flagged with uncertainty
 - [x] Formatting consistent across registers
 
 ---

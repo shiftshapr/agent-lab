@@ -35,7 +35,7 @@
   - Claim Range: C-3426–C-3444, C-3746
   - New Nodes Introduced: N-10827, N-10829, N-10830
   - Reused Nodes Appearing: N-11, N-507, N-247, N-3, N-60, N-367, N-607, N-613, N-10000, N-10014, N-10040, N-10043, N-10100, N-10104, N-10107, N-10164, N-10172, N-10398, N-10416, N-10447, N-10537, N-10573, N-10651, N-10699, N-10737, N-10797, N-10810, N-10900, N-10925, N-10974, N-11053, N-900, N-10828, N-11310
-  - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harreff, Tyler Robinson, Terrell Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
+  - Existing Nodes Reused (by name – IDs require ledger resolution): Charlie Kirk, Erica Kirk, Frank Turek, Brian Harpole, Blake Harreff, Tyler Robinson, Terryl Farnsworth, Jeremy Boreing, Andrew Kolvet, Tyler Bowyer, Blake Neff, Officer Bagley, Candace Owens
 
 ---
 
@@ -182,7 +182,7 @@ Confidence: high
 
 ## II. Executive Summary
 
-Episode 151 is a multi-segment episode anchored on the one-year anniversary of the September 10, 2025 event. The episode presents several new artifact families: enhanced footage of a figure (alleged to be Tyler Robinson) walking, texting, and bending the right foot; enhanced footage of Terrell Farnsworth in a Mercedes Sprinter van working on a laptop at approximately 1:00 PM; the Frank Turek / Jeremy Boreing interview segment (with overlaid Bobby Sausalito commentary) addressing the Frank Turek–Brian Harpole CPR discrepancy; and Alex Clark's trailer dropped on 9/10 invoking 2 Timothy 3:6-7 against Candace Owens.
+Episode 151 is a multi-segment episode anchored on the one-year anniversary of the September 10, 2025 event. The episode presents several new artifact families: enhanced footage of a figure (alleged to be Tyler Robinson) walking, texting, and bending the right foot; enhanced footage of Terryl Farnsworth in a Mercedes Sprinter van working on a laptop at approximately 1:00 PM; the Frank Turek / Jeremy Boreing interview segment (with overlaid Bobby Sausalito commentary) addressing the Frank Turek–Brian Harpole CPR discrepancy; and Alex Clark's trailer dropped on 9/10 invoking 2 Timothy 3:6-7 against Candace Owens.
 
 The episode also registers a cluster of Turning Point USA and adjacent social-media artifacts posted in response to the alleged September 13, 2026 vandalism of a Charlie Kirk statue at TPUSA headquarters, including statements from Andrew Kolvet, Tyler Bowyer, and Erica Kirk that pivot toward fundraising via TP Action's Commit 100 / ballot-chasing program. Candace rejects the partisan attribution and the fundraising pivot, and demands the release of on-campus surveillance footage.
 
@@ -304,9 +304,9 @@ Confidence Level: High
 
 ---
 
-### A-2370 Terrell Farnsworth Sprinter Van Footage (enhanced)
+### A-2370 Terryl Farnsworth Sprinter Van Footage (enhanced)
 
-**A-2370.1** Enhanced surveillance/security-style footage showing Terrell Farnsworth seated in the back of a Mercedes Sprinter van (described as appearing to belong to the AV team) using a laptop, looking around, and crouching; timestamped by host to approximately 1:00 PM on September 10 – roughly 30 minutes after the event.
+**A-2370.1** Enhanced surveillance/security-style footage showing Terryl Farnsworth seated in the back of a Mercedes Sprinter van (described as appearing to belong to the AV team) using a laptop, looking around, and crouching; timestamped by host to approximately 1:00 PM on September 10 – roughly 30 minutes after the event.
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -314,7 +314,7 @@ Video Timestamp: 00:19:51–00:20:41
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: Medium (enhancement applied; footage provenance unverified in episode)
 
-*Related: C-3440, Terrell Farnsworth (existing node – ID resolution required)*
+*Related: C-3440, Terryl Farnsworth (existing node – ID resolution required)*
 
 ---
 
@@ -471,7 +471,7 @@ Confidence Level: Low
 
 **A-3165** Preliminary Hearing Testimony Reference Bundle
 
-**A-3165.1** Host verbal reference to preliminary-hearing testimony about the SBI receiving thumb drives rather than original SD cards and about Terrell Farnsworth sending files to the FBI via Google (not shown)
+**A-3165.1** Host verbal reference to preliminary-hearing testimony about the SBI receiving thumb drives rather than original SD cards and about Terryl Farnsworth sending files to the FBI via Google (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:20:41
@@ -689,7 +689,7 @@ Existing topic or organization reused for new claims in this episode.
 
 ---
 
-**N-10797** Terrell Farnsworth Google-Hack Contradiction
+**N-10797** Terryl Farnsworth Google-Hack Contradiction
 
 Existing topic or organization reused for new claims in this episode.
 
@@ -761,9 +761,9 @@ Erika Kirk; subject of the stepping-down rumor, the Vanity Fair piece and the st
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth; SBI thumb-drive and Google file-send claims.
+Terryl Farnsworth; SBI thumb-drive and Google file-send claims.
 
 *Related: C-11778, C-11779, C-11780*
 
@@ -1061,11 +1061,11 @@ Investigative Direction: Gait analysis of unenhanced source footage; consultatio
 
 ---
 
-**C-3440** Host Says Terrell Farnsworth Was on a Laptop in a Mercedes Sprinter Van at About 1:00 PM
+**C-3440** Host Says Terryl Farnsworth Was on a Laptop in a Mercedes Sprinter Van at About 1:00 PM
 
 Claim Timestamp: 00:19:51–00:20:41
 
-Claim: The host says enhanced footage shows Terrell Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around (she says this is her inference), at approximately 1:00 PM on September 10, roughly 30 minutes after the event.
+Claim: The host says enhanced footage shows Terryl Farnsworth seated in the back of a Mercedes Sprinter van, working on a laptop and looking around (she says this is her inference), at approximately 1:00 PM on September 10, roughly 30 minutes after the event.
 
 Anchored Artifacts: A-2370.1
 Mentions: N-262
@@ -1511,7 +1511,7 @@ Investigative Direction: Request the evidence-seizure record for Farnsworth's la
 
 Claim Timestamp: 00:21:50
 
-Claim: The host says the preliminary hearing revealed Terrell Farnsworth immediately sent files to the FBI via Google, contradicting what he told her about not knowing how to send a file.
+Claim: The host says the preliminary hearing revealed Terryl Farnsworth immediately sent files to the FBI via Google, contradicting what he told her about not knowing how to send a file.
 
 Transcript Snippet: Actually, he immediately sent over files to the FBI and he chose to do that via Google.
 

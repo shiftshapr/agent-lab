@@ -390,7 +390,7 @@ Man, I just a lot there's just a lot that could be said there. Uh and I'm sure y
 
 [01:27:30]
 
-Um I've I've just heard some things and I I know that they are acting in a way that some people might have thought his widow might have acted following his death. All right, let's get into some comments from today's episode. We have Terrell writes, men like this are the reason I started reading the Bible recently. Yeah, I mean, I think in regards to him talking about his faith, he is sort of like the faith is mine. Like I have the Bible, I can make it what I want. It's one of the flaws that I find in Protestantism is that it becomes my truth very quickly. And anybody can interpret every verse as they want and they can make it a bumper sticker. Or you can believe like that you can do exactly what Christ does and you can summon demons and angels into a realm.
+Um I've I've just heard some things and I I know that they are acting in a way that some people might have thought his widow might have acted following his death. All right, let's get into some comments from today's episode. We have Terryl writes, men like this are the reason I started reading the Bible recently. Yeah, I mean, I think in regards to him talking about his faith, he is sort of like the faith is mine. Like I have the Bible, I can make it what I want. It's one of the flaws that I find in Protestantism is that it becomes my truth very quickly. And anybody can interpret every verse as they want and they can make it a bumper sticker. Or you can believe like that you can do exactly what Christ does and you can summon demons and angels into a realm.
 
 [01:28:13]
 

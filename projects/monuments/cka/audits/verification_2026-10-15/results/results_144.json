@@ -1,0 +1,864 @@
+[
+ {
+  "claim": "C-8818",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8819",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-8820",
+  "episode": 96,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host: 'I did some tours around the Vatican... total normal family vacation'; 'only' is added. Pope/confirmation chatter does not bear on the Kirk case.",
+  "fix": {
+   "claim": "The host says she did not meet the Pope; she did some tours around the Vatican with her children on what she calls a normal family vacation.",
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-2810",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "'69 pages' said at 12:40, but filing of the lawsuit is announced at 0:48-1:13; gist fits timestamp.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2811",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host recounts the email: 'his lawyer... asserted at the top... they were already going to file the lawsuit no matter what in 4 days.' Claim states it as fact, unattributed; names Harpole but Mentions empty.",
+  "fix": {
+   "claim": "The host says Harpole's counsel sent an email styled as a retraction demand but stated at the outset that the lawsuit would be filed in four days regardless.",
+   "mentions": [
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-2812",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says 'First up' but also that the Angels point 'was actually the very first point of the letter'. Harpole named but missing from Mentions.",
+  "fix": {
+   "claim": "The lawsuit alleges Candace accused Harpole and his team of criminal negligence by failing to have an ambulance on standby and failing to render aid after Kirk was shot.",
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-2813",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Candace, Harpole and Kirk; Mentions empty.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-2814",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2815",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Harpole and 'the host'; Mentions empty.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-2816",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Harpole, Candace, Shawn Ryan; Mentions empty.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-225",
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-2817",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Names Harpole and Shawn Ryan; missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-225",
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-2818",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'a total of four messages' (later 'three messages to you'); not all sent before the interview ('through to January'); first message offers off-record talk. Harpole missing from Mentions.",
+  "fix": {
+   "claim": "The host says she sent Harpole several text messages (about four in total, three of which appear in the lawsuit) asking him to clarify his whereabouts on September 9 or talk off the record, and that he did not reply to any of them.",
+   "label": "Candace Says Harpole Left Her Text Messages Unanswered",
+   "mentions": [
+    "N-3",
+    "N-267",
+    "N-362"
+   ]
+  }
+ },
+ {
+  "claim": "C-2819",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Lawsuit para 59 calls her texts a cynical attempt to profit; the 'didn't want to give exclusive' reading is the host's. Names Harpole/Candace; Mentions empty.",
+  "fix": {
+   "claim": "Per point 59 of the lawsuit the host reads, her repeated texts to Harpole were a cynical attempt to profit by coddling him into giving her exclusive content; the host reads this as the lawsuit's explanation for his not replying.",
+   "mentions": [
+    "N-3",
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-2820",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Harpole; missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-14",
+    "N-267",
+    "N-271"
+   ]
+  }
+ },
+ {
+  "claim": "C-2821",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host's account; claim says 'The host says' so N-3 and Harpole, Shawn Ryan, Chief Long should be in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-225",
+    "N-267",
+    "N-271",
+    "N-272"
+   ]
+  }
+ },
+ {
+  "claim": "C-2822",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim refers to Snow; Mentions lacks Mitch Snow.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-362"
+   ]
+  }
+ },
+ {
+  "claim": "C-2823",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'in the very next paragraph he presents proof that I didn't confirm'; claim says 'exhibits'. Snow and Harpole named, not in Mentions.",
+  "fix": {
+   "claim": "Point 63 of the lawsuit accuses Candace of asserting proof that Snow was telling the truth about Harpole, even while, the host says, the very next paragraph presents her statement that she could not confirm the identification.",
+   "mentions": [
+    "N-3",
+    "N-267",
+    "N-362"
+   ]
+  }
+ },
+ {
+  "claim": "C-2824",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "'The host says' and Harpole are named; Mentions has only N-7.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-7",
+    "N-267"
+   ]
+  }
+ },
+ {
+  "claim": "C-2825",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host calls Erika's claim 'so obviously untrue'; 'widely discussed' is a paraphrase of 'everybody had the exact same reaction'. Stated without attribution to the host.",
+  "fix": {
+   "claim": "The host says Erika Kirk publicly claimed that Candace accused her of murdering Charlie Kirk, which the host calls obviously untrue; the host says everyone had the same reaction to it."
+  }
+ },
+ {
+  "claim": "C-2826",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2827",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Charlie; N-1 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-3",
+    "N-331"
+   ]
+  }
+ },
+ {
+  "claim": "C-2828",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'US House is considering a resolution'; 'reps Mike Lawler and Josh Gottheimer', 'bipartisan'. Party/state tags not said; Mengele not in claim.",
+  "fix": {
+   "claim": "The host says, citing a Times of Israel headline, that Reps. Mike Lawler and Josh Gottheimer brought forward a bipartisan House resolution condemning her, among others.",
+   "mentions": [
+    "N-3",
+    "N-428",
+    "N-429"
+   ]
+  }
+ },
+ {
+  "claim": "C-2829",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Candace; Mentions adds Lawler, Gottheimer, Mengele.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2830",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Candace; extra ids in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-2831",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: 'in July 2024, I did not mention Josef Mengele' and the resolution cites her remark on 'bizarre propaganda' after the Holocaust; claim omits her denial.",
+  "fix": {
+   "claim": "Per the resolution the host describes, it references her July 2024 remark about 'bizarre propaganda' following the Holocaust; the host says she did not mention Josef Mengele and that the remark is objectively true.",
+   "mentions": [
+    "N-3",
+    "N-380"
+   ]
+  }
+ },
+ {
+  "claim": "C-2832",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names Mengele and 'the host'; Lawler and Gottheimer not named.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-380"
+   ]
+  }
+ },
+ {
+  "claim": "C-2833",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names only Charlie Kirk; N-3 not referred to.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-10354",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Title is garbled ('Erika Wrongly Said She Accused Erika').",
+  "fix": {
+   "label": "Host Says Erika Wrongly Claimed the Host Accused Her of Murder"
+  }
+ },
+ {
+  "claim": "C-10355",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10356",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10357",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: 'I'm fairly certain that almost probably at each and every one'; hedge dropped.",
+  "fix": {
+   "claim": "The host says she is fairly certain that at almost every one of her many Turning Point USA events during the time Harpole was on the security team, an ambulance was on standby."
+  }
+ },
+ {
+  "claim": "C-10358",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10359",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10360",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10361",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10362",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Farnsworth is tied in by the host's following sentence; accepted.",
+  "fix": {}
+ },
+ {
+  "claim": "C-10363",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10364",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10365",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10366",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10367",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10368",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10369",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10370",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10371",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Charlie ('behind Charlie's back'); N-1 missing. Transcript says 'behind his back'.",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-3",
+    "N-7",
+    "N-267",
+    "N-271"
+   ]
+  }
+ },
+ {
+  "claim": "C-10372",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10373",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10374",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10375",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10376",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10377",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10378",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10379",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10380",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10381",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10382",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10383",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-10384",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Captain Neff vs node 'Nef'; sources say Neff but unconfirmed.",
+  "fix": {}
+ },
+ {
+  "claim": "C-10385",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host: 'Brigitte said I was a dual citizen of the UK'; claim adds 'lawsuit filing by Brigitte Macron's side' and ambiguous 'she is not'. Not about the Kirk case.",
+  "fix": {
+   "claim": "The host says Brigitte Macron said the host was a dual citizen of the UK, which the host says is not a fact, as an example of untrue claims put in lawsuit filings.",
+   "relevance": "tangential"
+  }
+ },
+ {
+  "claim": "C-10386",
+  "episode": 97,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "Host says Klacik 'folded and wanted to sign an agreement... walk away'; title says 'Dropped'. Klacik suit is unrelated to the Kirk case.",
+  "fix": {
+   "label": "Host Says Klacik Folded in Discovery",
+   "relevance": "tangential"
+  }
+ }
+]

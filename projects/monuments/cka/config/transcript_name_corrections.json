@@ -1903,6 +1903,45 @@
     [
       "\\bRobert Bowles\\b",
       "Robert Bohls"
+    ],
+    [
+      "\\b(?:Terrell|Taro|Teo) Farnsworth\\b",
+      "Terryl Farnsworth"
+    ],
+    [
+      "\\bMatt Slauson\\b",
+      "Matt Sarelson"
+    ],
+    [
+      "\\bSlauson\\b",
+      "Sarelson",
+      [
+        97,
+        98,
+        100
+      ]
+    ],
+    [
+      "\\bBaron Cohen\\b",
+      "Baron Coleman",
+      [
+        100
+      ]
+    ],
+    [
+      "\\bKayla Robinson\\b",
+      "Caleb Robinson",
+      [
+        100
+      ]
+    ],
+    [
+      "\\bAubrey Lech\\b",
+      "Aubrey Laitsch"
+    ],
+    [
+      "\\bTerrell\\b",
+      "Terryl"
     ]
   ]
 }

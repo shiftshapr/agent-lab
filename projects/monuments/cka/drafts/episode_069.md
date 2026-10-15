@@ -565,9 +565,9 @@ Glenn Beck; interviewed Erika Kirk, per the host.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth; the host says he was to take the cameras down (rendered Terra).
+Terryl Farnsworth; the host says he was to take the cameras down (rendered Terra).
 
 *Related: C-12669*
 
@@ -2293,11 +2293,11 @@ Investigative Direction: Obtain the ballistics and autopsy findings on whether a
 
 ---
 
-**C-12669** Host Says Terrell Farnsworth Was Supposed to Take the Cameras Down So Nothing Would Be Seen
+**C-12669** Host Says Terryl Farnsworth Was Supposed to Take the Cameras Down So Nothing Would Be Seen
 
 Claim Timestamp: 00:38:00
 
-Claim: The host says Terrell Farnsworth was supposed to take the cameras down so the public would never see anything because the round did not go through, and speculates they might have AI-generated footage.
+Claim: The host says Terryl Farnsworth was supposed to take the cameras down so the public would never see anything because the round did not go through, and speculates they might have AI-generated footage.
 
 Transcript Snippet: and that's why Terra was supposed to get those cameras down.
 

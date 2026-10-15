@@ -536,9 +536,9 @@ Mikey McCoy; his arrival footage is the basis of the empty-pocket finding.
 
 ---
 
-**N-262** Terrell Farnsworth
+**N-262** Terryl Farnsworth
 
-Terrell Farnsworth; named by the host in connection with the rooftop command question.
+Terryl Farnsworth; named by the host in connection with the rooftop command question.
 
 *Related: C-11722*
 
@@ -1310,7 +1310,7 @@ Investigative Direction: Obtain the UVU police body-camera model specifications 
 
 Claim Timestamp: 00:19:23
 
-Claim: The host says there seems to be an immediate understanding from Terrell Farnsworth to Officer Bagley that Robertson is calling the shots and is in command of the post-assassination operation.
+Claim: The host says there seems to be an immediate understanding from Terryl Farnsworth to Officer Bagley that Robertson is calling the shots and is in command of the post-assassination operation.
 
 Transcript Snippet: there seems to be an immediate understanding that this Alan Robertson character who shall not be named is calling the shots.
 

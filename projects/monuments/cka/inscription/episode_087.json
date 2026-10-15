@@ -1407,9 +1407,9 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
-      "description": "Terrell Farnsworth, spelled Teal and Terra in the transcript; camera-takedown figure the host links to the Mormon colony families.",
+      "description": "Terryl Farnsworth, spelled Teal and Terra in the transcript; camera-takedown figure the host links to the Mormon colony families.",
       "related_artifacts": [
         "A-3331.1"
       ],
@@ -1942,7 +1942,7 @@
       "@type": "Topic",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "topic",
       "description": "Existing node reused for new claims in this episode.",
       "related_artifacts": [],
@@ -4503,7 +4503,7 @@
       "@type": "Claim",
       "@id": "C-14617",
       "ref": "C-14617",
-      "label": "Commenter Says Terrell Farnsworth Took a Chair From the Crime Scene to Mess With the Camera",
+      "label": "Commenter Says Terryl Farnsworth Took a Chair From the Crime Scene to Mess With the Camera",
       "claim": "The host reads a comment from Mark Wilding saying Farnsworth took a chair from the crime scene to stand on to mess around with the camera, moments after a man was murdered there.",
       "anchored_artifacts": [
         "A-3331.1"
@@ -4531,7 +4531,7 @@
       "@id": "C-14618",
       "ref": "C-14618",
       "label": "Host Says Someone Spoke to Erika Days After Charlie Died About the Behind-the-Head Footage",
-      "claim": "Reading viewer comments, the host recalls Terrell Farnsworth being 'all crazy on the phone', quotes him as saying 'I spoke to Erika', and asks why he spoke to Erika about the footage from behind Charlie's head a couple of days after Charlie died, questioning their priorities.",
+      "claim": "Reading viewer comments, the host recalls Terryl Farnsworth being 'all crazy on the phone', quotes him as saying 'I spoke to Erika', and asks why he spoke to Erika about the footage from behind Charlie's head a couple of days after Charlie died, questioning their priorities.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10535",
@@ -4554,8 +4554,8 @@
       "@type": "Claim",
       "@id": "C-14619",
       "ref": "C-14619",
-      "label": "Host Says Terrell Farnsworth Was All Crazy on the Phone",
-      "claim": "The host says Terrell Farnsworth was all crazy on the phone.",
+      "label": "Host Says Terryl Farnsworth Was All Crazy on the Phone",
+      "claim": "The host says Terryl Farnsworth was all crazy on the phone.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346"
@@ -4565,7 +4565,7 @@
       ],
       "claim_timestamp": "00:43:05",
       "investigative_direction": "Identify the phone call or video the host means, its date and who recorded it.",
-      "transcript_snippet": "And then Terrell was all crazy on the phone.",
+      "transcript_snippet": "And then Terryl was all crazy on the phone.",
       "mentions_person_refs": [
         "N-3",
         "N-262"

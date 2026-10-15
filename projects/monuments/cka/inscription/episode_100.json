@@ -885,7 +885,7 @@
       "ref": "N-331",
       "name": "Baron Coleman",
       "type": "person",
-      "description": "Transcript spellings \"Barron\" and \"Baron Cohen\". His podcast clip points out that Bednarz was not sued; the host agrees with his view that the filing reads like PR.",
+      "description": "Transcript spellings \"Barron\" and \"Baron Coleman\". His podcast clip points out that Bednarz was not sued; the host agrees with his view that the filing reads like PR.",
       "related_artifacts": [
         "A-2545.1"
       ],
@@ -1794,8 +1794,7 @@
       "investigative_direction": "Archive the Paramount Tactical / Valhalla streams and posts from that period, and compare them with Mitch Snow's military service records (DD-214) and Fort Huachuca base-access logs.",
       "transcript_snippet": "First and foremost, that Mitch was never at Fort Huachuca, that he was a com- a complete fraud. He could not even get onto the base because he never even served in the military.",
       "mentions_person_refs": [
-        "N-362",
-        "N-130"
+        "N-362"
       ]
     },
     {
@@ -1889,7 +1888,7 @@
       "@id": "C-3892",
       "ref": "C-3892",
       "label": "Baron Coleman: Bednarz is not named in the Harpole lawsuit",
-      "claim": "Baron Coleman says Blake Bednarz is not listed in Harpole's lawsuit, even though the complaint shows the material naming Harpole.",
+      "claim": "Baron Coleman says Blake Bednarz is not listed in Harpole's lawsuit, even though Bednarz's content names Harpole.",
       "anchored_artifacts": [
         "A-2545.1"
       ],
@@ -2038,7 +2037,7 @@
       "@id": "C-3899",
       "ref": "C-3899",
       "label": "Host stopped replying to Bednarz from mid-December",
-      "claim": "The host says that from mid-December she stopped responding to Bednarz because she suspected a possible trap.",
+      "claim": "The host says that from mid-December she stopped responding to Bednarz because her gut told her something was not right, and that she is grateful she did because it may have been a trap.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10909"
@@ -2073,7 +2072,6 @@
       "mentions_person_refs": [
         "N-267",
         "N-2",
-        "N-362",
         "N-3"
       ]
     },
@@ -2082,7 +2080,7 @@
       "@id": "C-3901",
       "ref": "C-3901",
       "label": "YouTuber message threatened to tie the host to Mitch Snow's alleged history",
-      "claim": "According to a second message read by the host, the YouTuber threatened to \"do it the hard way\" and tie her to Mitch Snow, describing him as a con artist with a history of abuse. The host says these are unverified allegations against Snow.",
+      "claim": "According to a second message read by the host, the YouTuber threatened to \"do it the hard way\" and tie her to Mitch Snow, describing him as a con artist with a history of abuse. The host calls this a threat.",
       "anchored_artifacts": [
         "A-2548.2"
       ],
@@ -2119,7 +2117,6 @@
       ],
       "mentions_person_refs": [
         "N-267",
-        "N-362",
         "N-3"
       ]
     },
@@ -2374,13 +2371,13 @@
       "@id": "C-3914",
       "ref": "C-3914",
       "label": "Harpole's filing spends its first three pages calling the host antisemitic",
-      "claim": "The host agrees with Baron Coleman that the Harpole filing reads like a PR campaign. She says it spends its first three pages calling her an antisemite.",
+      "claim": "The host says the Harpole filing reads to her like a PR campaign, and that she agrees with Baron Coleman's assessment that a federal judge would be upset by a lawsuit written to get on a magazine cover. Speaking as a hypothetical judge, she says, \"You spent the first three pages calling her an anti-Semite.\"",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10651"
       ],
       "tags": [],
-      "claim_timestamp": "00:25:19",
+      "claim_timestamp": "00:24:50",
       "investigative_direction": "Review the first pages of the Harpole complaint for references to antisemitism.",
       "transcript_snippet": "You spent the first three pages calling her an anti-Semite.",
       "mentions_person_refs": [
@@ -2608,7 +2605,7 @@
       "@id": "C-3925",
       "ref": "C-3925",
       "label": "George Farmer introduced the Daily Wire's interim CEO to London investors",
-      "claim": "The host says her husband traveled to London with the Daily Wire's interim CEO, whom the transcript names as \"Caleb Robinson,\" and introduced the company to his and his father's circle of investors.",
+      "claim": "The host says her husband traveled to London with the Daily Wire's interim CEO, Caleb Robinson, and introduced the company to his and his father's circle of investors.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10126",
@@ -2617,7 +2614,7 @@
       "tags": [],
       "claim_timestamp": "00:37:43",
       "investigative_direction": "Obtain Daily Wire travel records and investor-meeting records for the London trip.",
-      "transcript_snippet": "They went to London, him and the co-CEO or the just the CEO at that time, the interim full CEO. Kayla Robinson, George introduced them to all of his circle of investor friends",
+      "transcript_snippet": "They went to London, him and the co-CEO or the just the CEO at that time, the interim full CEO. Caleb Robinson, George introduced them to all of his circle of investor friends",
       "mentions_person_refs": [
         "N-30",
         "N-606"
@@ -2873,8 +2870,7 @@
       "investigative_direction": "Establish Lewis's termination date from Daily Wire records or statements and compare it with his arrest date.",
       "transcript_snippet": "I am told that he was not immediately dismissed from The Daily Wire, allegedly.",
       "mentions_person_refs": [
-        "N-608",
-        "N-367"
+        "N-608"
       ]
     },
     {
@@ -3020,7 +3016,7 @@
       "@id": "C-3946",
       "ref": "C-3946",
       "label": "Blake Neff allegedly wrote Erika Kirk's speeches",
-      "claim": "Responding to a viewer comment, the host repeats that, according to people with direct knowledge who have since been fired from Turning Point USA, Blake Neff wrote Erika Kirk's speech.",
+      "claim": "Responding to a viewer comment, the host repeats that Blake Neff was allegedly writing Erika Kirk's speech, according to people with direct knowledge who she says have since been fired from Turning Point USA.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"

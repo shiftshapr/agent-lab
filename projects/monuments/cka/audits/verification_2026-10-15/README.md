@@ -105,3 +105,11 @@ records Minas separately.
 - Merged (`audits/person_merge_2026-10-15d/id_map.csv`): N-135 Robert Bohls into N-134 ("Robert Bowles", introduced
   ep12), the same FBI Salt Lake City head. The ep12 named-before-intro exception is no longer needed.
 - Held for Daveed: further Marina Minas changes (C-3795, C-2535, C-2536, C-11339).
+
+## Part 3e (chunks 139–150: episodes ~93–101, 720 claims)
+- 80 findings went to confirmation: 64 accepted, 14 amended, 2 rejected. Applied: 78 confirmed fixes and 72 minor fixes.
+- **Terryl Farnsworth**, CEO of Visual Impulse, TPUSA's A/V contractor. The archive had "Terrell" (241 uses).
+  CharlieFiles, IBTimes and other coverage spell it Terryl. N-262 is renamed and the rule covers the whole archive,
+  including bare "Terrell" (all 21 transcripts that use it mean him). C-4824 no longer lists him: the claim does not
+  refer to him.
+- Matt Sarelson ("Slauson"; N-863 renamed), Baron Coleman (ep100's "Baron Cohen"), Caleb Robinson (ep100's "Kayla").

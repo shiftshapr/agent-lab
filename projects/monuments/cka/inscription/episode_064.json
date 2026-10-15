@@ -706,7 +706,7 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
       "description": "Identified by host during playback of the September 16 Zoom call as audible in the background of the recording.",
       "related_artifacts": [
@@ -844,7 +844,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims.",
       "related_artifacts": [],
@@ -1791,15 +1791,15 @@
       "@type": "Claim",
       "@id": "C-2220",
       "ref": "C-2220",
-      "label": "Teo Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call",
-      "claim": "During the September 16 Zoom call playback, host identifies Teo Farnsworth as in the background of the recording.",
+      "label": "Terryl Farnsworth Was Audible in the Background of the Sept 16 TPUSA Call",
+      "claim": "During the September 16 Zoom call playback, host identifies Terryl Farnsworth as in the background of the recording.",
       "anchored_artifacts": [
         "A-1686.1"
       ],
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:16:46",
-      "investigative_direction": "Confirm Teo Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.",
+      "investigative_direction": "Confirm Terryl Farnsworth's identity and role at TPUSA at the time of the call; verify whether he was a scheduled participant.",
       "mentions_person_refs": [
         "N-262"
       ]
@@ -2756,7 +2756,7 @@
       "@id": "C-9951",
       "ref": "C-9951",
       "label": "Host Says Farnsworth Is the Man Who Took Down the Cameras",
-      "claim": "The host says that the man in the background of the call, Teo Farnsworth, is the guy who took down the cameras.",
+      "claim": "The host says that the man in the background of the call, Terryl Farnsworth, is the guy who took down the cameras.",
       "anchored_artifacts": [
         "A-1686.1"
       ],
@@ -2768,7 +2768,7 @@
       ],
       "claim_timestamp": "00:16:46",
       "investigative_direction": "Confirm Farnsworth's role in removing the cameras from earlier reporting and the camera records.",
-      "transcript_snippet": "that is Teo Farnsworth, the guy who took down the cameras.",
+      "transcript_snippet": "that is Terryl Farnsworth, the guy who took down the cameras.",
       "supports_claim_refs": [
         "C-2220"
       ],

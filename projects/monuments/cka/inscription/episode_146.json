@@ -1026,9 +1026,9 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
-      "description": "Terrell Farnsworth; the host restates his selfie video and SD card handling.",
+      "description": "Terryl Farnsworth; the host restates his selfie video and SD card handling.",
       "related_artifacts": [],
       "related_claims": [
         "C-7638",
@@ -1670,7 +1670,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-11070",
       "ref": "N-11070",
-      "name": "Terrell Selfie Video Metadata Timeline",
+      "name": "Terryl Selfie Video Metadata Timeline",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -2943,8 +2943,8 @@
       "@type": "Claim",
       "@id": "C-7638",
       "ref": "C-7638",
-      "label": "Host Says Terrell Recorded a Selfie Video Instead of Calling 911",
-      "claim": "The host says Terrell prematurely announced Charlie's death to himself and chose to record a selfie video rather than call 911.",
+      "label": "Host Says Terryl Recorded a Selfie Video Instead of Calling 911",
+      "claim": "The host says Terryl prematurely announced Charlie's death to himself and chose to record a selfie video rather than call 911.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11070"
@@ -2953,8 +2953,8 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:20:14",
-      "investigative_direction": "Obtain the selfie video with metadata and the 911 call log to confirm Terrell's call history.",
-      "transcript_snippet": "Terrell prematurely announcing Charlie's death to himself. He chose to record himself rather than to call 911. Selfie vid.",
+      "investigative_direction": "Obtain the selfie video with metadata and the 911 call log to confirm Terryl's call history.",
+      "transcript_snippet": "Terryl prematurely announcing Charlie's death to himself. He chose to record himself rather than to call 911. Selfie vid.",
       "supports_claim_refs": [
         "C-3829",
         "C-6100"
@@ -2968,8 +2968,8 @@
       "@type": "Claim",
       "@id": "C-7639",
       "ref": "C-7639",
-      "label": "Host Says Terrell Removed SD Cards and Put One Into His Computer After the Selfie",
-      "claim": "The host says that after the selfie video Terrell jumped down, was not crying, started removing SD cards and put an SD card into his computer.",
+      "label": "Host Says Terryl Removed SD Cards and Put One Into His Computer After the Selfie",
+      "claim": "The host says that after the selfie video Terryl jumped down, was not crying, started removing SD cards and put an SD card into his computer.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11070"
@@ -2978,7 +2978,7 @@
         "relevance:core"
       ],
       "claim_timestamp": "00:20:14",
-      "investigative_direction": "Seek the original SD card and a forensic image of Terrell's laptop to see whether files were accessed.",
+      "investigative_direction": "Seek the original SD card and a forensic image of Terryl's laptop to see whether files were accessed.",
       "transcript_snippet": "starts removing SD cards and seemingly plausibly toying around with the footage, sticking the SD card into his computer, looking around, looking shady, and getting to work.",
       "supports_claim_refs": [
         "C-3303"

@@ -2827,7 +2827,7 @@
       "@id": "C-11460",
       "ref": "C-11460",
       "label": "Host Asks Viewers to Email Tips on Amir Tsarfati to More Tips Address",
-      "claim": "The host asks viewers who have evidence that Amir Tsarfati or Sarfati heard of the shooting first to email it to moretips@candaceowens.com so it can be plotted on the timeline.",
+      "claim": "The host says a viewer comment claims they heard first from Amir Tsarfati, and asks viewers with evidence of that to email moretips@candaceowens.com so it can be plotted on the timeline.",
       "anchored_artifacts": [
         "A-3134.1"
       ],
@@ -3094,6 +3094,7 @@
       "mentions_person_refs": [
         "N-342",
         "N-343",
+        "N-344",
         "N-3"
       ]
     },
@@ -3116,8 +3117,7 @@
       "mentions_person_refs": [
         "N-48",
         "N-9",
-        "N-47",
-        "N-501"
+        "N-47"
       ]
     },
     {
@@ -3299,7 +3299,7 @@
       "@id": "C-11479",
       "ref": "C-11479",
       "label": "Host Says Rifle Had Robinson's Prints and Six Other Sets",
-      "claim": "The host says the rifle had Robinson's prints and also six sets of other prints, and asks whose they are.",
+      "claim": "The host says the rifle had Robinson's prints and also six sets of other prints (later saying five other sets), and asks whose they are.",
       "anchored_artifacts": [
         "A-1990"
       ],
@@ -3333,7 +3333,7 @@
         "N-10620"
       ],
       "tags": [
-        "relevance:tangential"
+        "relevance:core"
       ],
       "claim_timestamp": "00:44:37",
       "investigative_direction": "Identify which comparison techniques the host means and any published validation or challenges to them.",
@@ -3543,7 +3543,7 @@
       "@id": "C-11489",
       "ref": "C-11489",
       "label": "Host Says Village Crazy Lady Thinks They Were Trying to Make Vance Look Bad",
-      "claim": "The host says Village Crazy Lady believes the episode was an attempt to make J.D. Vance look bad, and the host says she thinks Erika would dump him without question.",
+      "claim": "The host says Village Crazy Lady thinks they were trying to make J.D. Vance look bad, and the host says she thinks Erika will dump him without question.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10616"
@@ -3557,8 +3557,7 @@
       "mentions_person_refs": [
         "N-66",
         "N-4",
-        "N-2",
-        "N-651"
+        "N-2"
       ]
     },
     {
@@ -3575,7 +3574,7 @@
         "N-10616"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:55:26",
       "investigative_direction": "Obtain ticketing and attendance data for the Akins Ford Arena event.",

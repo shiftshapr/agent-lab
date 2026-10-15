@@ -1,0 +1,801 @@
+[
+ {
+  "claim": "C-11460",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Commenter said they \"heard first from Amir Safadi\"; claim inverts to Safadi hearing first. Name unresolved: Safadi/Sarfati vs node Amir Safari.",
+  "fix": {
+   "claim": "The host says a viewer comment claims they heard first from Amir Safadi (or Sarfati), and asks viewers with evidence of that to email moretips@candaceowens.com so it can be plotted on the timeline."
+  }
+ },
+ {
+  "claim": "C-11461",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Amir Safadi/Sarfati",
+  "fix": {}
+ },
+ {
+  "claim": "C-11462",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11463",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11464",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11465",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11466",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11467",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11468",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11469",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Said near 39:05; within window.",
+  "fix": {}
+ },
+ {
+  "claim": "C-11470",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: \"have Victor on with his wife\"; Eileen (N-344) clearly referred to but not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-342",
+    "N-343",
+    "N-344",
+    "N-3"
+   ]
+  }
+ },
+ {
+  "claim": "C-11471",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host says \"also Victor Ostrovsky said the same thing\", so the \"former Mossad agent\" is not named here; N-501 not referred to in this claim.",
+  "fix": {
+   "mentions": [
+    "N-48",
+    "N-9",
+    "N-47"
+   ]
+  }
+ },
+ {
+  "claim": "C-11472",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11473",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11474",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11475",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11476",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11477",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11478",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11479",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"six sets of other prints\", then \"five other sets of prints\".",
+  "fix": {
+   "claim": "The host says the rifle had Robinson's prints and also six sets of other prints (later saying five other sets), and asks whose they are."
+  }
+ },
+ {
+  "claim": "C-11480",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "ATF bullet-comparison methodology in the Robinson case bears on the investigation; tangential tag looks wrong.",
+  "fix": {
+   "relevance": "core"
+  }
+ },
+ {
+  "claim": "C-11481",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11482",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11483",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11484",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11485",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11486",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11487",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11488",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-11489",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Rubio (N-651) appears only in the commenter text, not in the claim. \"episode\" should be the event.",
+  "fix": {
+   "claim": "The host says Village Crazy Lady thinks they were trying to make J.D. Vance look bad, and the host says she thinks Erika will dump him without question.",
+   "mentions": [
+    "N-66",
+    "N-4",
+    "N-2"
+   ]
+  }
+ },
+ {
+  "claim": "C-11490",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "disputed",
+  "material": false,
+  "note": "UGA event cancellation/ticket sales is background, not the assassination; sibling claims tagged context.",
+  "fix": {
+   "relevance": "context"
+  }
+ },
+ {
+  "claim": "C-11491",
+  "episode": 93,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2764",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2765",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2766",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "The .30-06 remark is the host's paraphrase (\"he says that is not what a .30-06 would do\"), not clip audio; \"wound damage publicly described\" is unclear.",
+  "fix": {
+   "claim": "The host says that, in a clip she plays, Tyler Robinson's grandfather says that is not what a .30-06 would do, and the host agrees, saying the wound did not cause any significant damage."
+  }
+ },
+ {
+  "claim": "C-2767",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2768",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Novak named but not in Mentions. Transcript: \"we have DNA reports from September of 2025 that Mr. Gray relied upon\", not that they were unproduced.",
+  "fix": {
+   "claim": "In a clip the host plays, Novak says the evidence should have been produced up to 6 months ago because the defense has DNA reports from September 2025 that Mr. Gray relied upon.",
+   "mentions": [
+    "N-426"
+   ]
+  }
+ },
+ {
+  "claim": "C-2769",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Nester (N-830) named but not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-830",
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-2770",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Nester (N-830) named but not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-830"
+   ]
+  }
+ },
+ {
+  "claim": "C-2771",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Nester (N-830) named but not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-830"
+   ]
+  }
+ },
+ {
+  "claim": "C-2772",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2773",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Post reads \"I hear ... dying fast\"; host says \"it's not Trump\" writing it.",
+  "fix": {
+   "claim": "Per a Truth Social post under Donald Trump's name that the host reads, he hears Candace Owens, Megyn Kelly, and Tucker Carlson are \"dying fast\" and \"were fake MAGA\"; the host says she does not think Trump writes these posts."
+  }
+ },
+ {
+  "claim": "C-2774",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host: \"I think he called me mentally ill\" (hedged, not read aloud). Trump (N-5) named but not in Mentions.",
+  "fix": {
+   "claim": "The host says a follow-up Trump Truth Social post, she thinks, called her mentally ill.",
+   "mentions": [
+    "N-3",
+    "N-5"
+   ]
+  }
+ },
+ {
+  "claim": "C-2775",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2776",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2777",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2778",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2779",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Tweet: spent the day with Trump at Bedminster watching golf; \"groped me in the parking lot\". Trump named but not in Mentions.",
+  "fix": {
+   "claim": "Alan Jacoby publicly alleged in a tweet the host reads that he and Laura Loomer spent the day with President Trump at Bedminster watching the golf tournament, and that she groped him in the parking lot.",
+   "mentions": [
+    "N-60",
+    "N-427",
+    "N-5"
+   ]
+  }
+ },
+ {
+  "claim": "C-2780",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2781",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Quote spoken about 00:40:22; claim 00:40:54 is ~30s late.",
+  "fix": {
+   "timestamp": "00:40:15"
+  }
+ },
+ {
+  "claim": "C-2782",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2783",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Spoken ~00:47:20; borderline.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2784",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "George Farmer (N-30) named but not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-60",
+    "N-30"
+   ]
+  }
+ },
+ {
+  "claim": "C-2785",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Husband (George, N-30) clearly referred to but Mentions empty.",
+  "fix": {
+   "mentions": [
+    "N-30"
+   ]
+  }
+ },
+ {
+  "claim": "C-2786",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "\"Clearly uncomfortable\" is the host's characterization; transcript has comments, no conduct.",
+  "fix": {
+   "claim": "In a clip the host plays, Laura Loomer makes sexually suggestive comments to a young man whom the host describes as clearly uncomfortable."
+  }
+ },
+ {
+  "claim": "C-2787",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-2788",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Comment spoken ~01:01:19; borderline.",
+  "fix": {}
+ },
+ {
+  "claim": "C-2789",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-13346",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I think that's four tweets in total\"; hedge dropped.",
+  "fix": {
+   "claim": "The host says that after the show went off air on Friday, Trump tweeted about her from Air Force One, with two tweets about how she is a nobody, and that she thinks that is four tweets in total."
+  }
+ },
+ {
+  "claim": "C-13347",
+  "episode": 94,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

@@ -1396,9 +1396,9 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
-      "description": "Terrell Farnsworth, head of the AV team; the host says he announced the death by selfie video and holds unseen footage.",
+      "description": "Terryl Farnsworth, head of the AV team; the host says he announced the death by selfie video and holds unseen footage.",
       "related_artifacts": [],
       "related_claims": [
         "C-10360",
@@ -1810,7 +1810,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10812",
       "ref": "N-10812",
-      "name": "Terrell Farnsworth Evidence-Handling Question",
+      "name": "Terryl Farnsworth Evidence-Handling Question",
       "type": "investigation_target",
       "description": "Existing topic reused for new claims in this episode.",
       "related_artifacts": [],
@@ -1947,9 +1947,9 @@
       "@type": "Person",
       "@id": "N-863",
       "ref": "N-863",
-      "name": "Matt Slauson",
+      "name": "Matt Sarelson",
       "type": "person",
-      "description": "First named by the host at 01:08:34 in episode 97 (spelled Slauson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.",
+      "description": "First named by the host at 01:08:34 in episode 97 (spelled Sarelson; at 01:13:25 she says 'Matt Christiansen', possibly the same lawyer). Attorney for Brian Harpole.",
       "related_artifacts": [],
       "related_claims": [
         "C-10414"
@@ -1966,7 +1966,7 @@
       "ref": "N-11258",
       "name": "Harpole Lawsuit Subpoena and Discovery Opportunity",
       "type": "topic",
-      "description": "The host's repeated argument that the Harpole lawsuit may give her the power of subpoena and depositions, including for Terrell Farnsworth's footage, text messages and testimony from Erika Kirk.",
+      "description": "The host's repeated argument that the Harpole lawsuit may give her the power of subpoena and depositions, including for Terryl Farnsworth's footage, text messages and testimony from Erika Kirk.",
       "related_artifacts": [],
       "related_claims": [
         "C-10388",
@@ -2004,7 +2004,7 @@
       "@id": "C-2811",
       "ref": "C-2811",
       "label": "Pre-Filing Email Announced Lawsuit Would Proceed Regardless of Retraction",
-      "claim": "Harpole's counsel sent an email styled as a retraction demand but stated at the outset that the lawsuit would be filed in four days regardless.",
+      "claim": "The host says Harpole's counsel sent an email styled as a retraction demand but stated at the outset that the lawsuit would be filed in four days regardless.",
       "anchored_artifacts": [
         "A-2015.1"
       ],
@@ -2012,14 +2012,16 @@
       "tags": [],
       "claim_timestamp": "00:01:23",
       "investigative_direction": "Obtain the pre-filing email; verify whether it contained a formal retraction request.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-267"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-2812",
       "ref": "C-2812",
       "label": "Lawsuit Alleges Candace Accused Harpole of Criminal Negligence Regarding Ambulance",
-      "claim": "The lawsuit's first grievance alleges Candace accused Harpole and his team of criminal negligence by failing to have an ambulance on standby and failing to render aid after Kirk was shot.",
+      "claim": "The lawsuit alleges Candace accused Harpole and his team of criminal negligence by failing to have an ambulance on standby and failing to render aid after Kirk was shot.",
       "anchored_artifacts": [
         "A-2015.2"
       ],
@@ -2031,7 +2033,8 @@
       "investigative_direction": "Compare the quoted podcast passage against the actual transcript to verify Candace's exact words.",
       "mentions_person_refs": [
         "N-1",
-        "N-3"
+        "N-3",
+        "N-267"
       ]
     },
     {
@@ -2047,7 +2050,11 @@
       "tags": [],
       "claim_timestamp": "00:07:04",
       "investigative_direction": "Locate and review the \"Charlie's Angels or Demons\" episode to verify whether Harpole was named and to identify the actual subjects of the commentary.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-1",
+        "N-3",
+        "N-267"
+      ]
     },
     {
       "@type": "Claim",
@@ -2084,7 +2091,10 @@
       "tags": [],
       "claim_timestamp": "00:14:44",
       "investigative_direction": "Review defamation caselaw on limited-purpose public figure doctrine and assess Harpole's voluntary insertion into the controversy.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-3",
+        "N-267"
+      ]
     },
     {
       "@type": "Claim",
@@ -2101,7 +2111,11 @@
       "tags": [],
       "claim_timestamp": "00:16:29",
       "investigative_direction": "Confirm the air date of Harpole's Shawn Ryan appearance and the prior existence (or absence) of Candace's commentary naming Harpole.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-3",
+        "N-225",
+        "N-267"
+      ]
     },
     {
       "@type": "Claim",
@@ -2120,15 +2134,17 @@
       "claim_timestamp": "00:17:25",
       "investigative_direction": "Audit Candace's prior episode transcripts and show notes for any reference to him prior to November 19.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-225",
+        "N-267"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-2818",
       "ref": "C-2818",
-      "label": "Candace Sent Three Unanswered Text Messages to Harpole Before the Mitch Snow Interview",
-      "claim": "Candace sent Harpole three text messages seeking clarification of his whereabouts on September 9; Harpole did not reply to any of them.",
+      "label": "Candace Says Harpole Left Her Text Messages Unanswered",
+      "claim": "The host says she sent Harpole about four text messages, from shortly before her Mitch Snow interview through January, offering an off-record talk or asking him to clarify his whereabouts on September 9, and that he did not reply to any of them.",
       "anchored_artifacts": [
         "A-2015.8",
         "A-2017.1",
@@ -2143,6 +2159,7 @@
       "investigative_direction": "Cross-reference the embedded text messages against phone records; verify Harpole's receipt.",
       "mentions_person_refs": [
         "N-3",
+        "N-267",
         "N-362"
       ]
     },
@@ -2151,7 +2168,7 @@
       "@id": "C-2819",
       "ref": "C-2819",
       "label": "Lawsuit Claims Harpole's Non-Response Was Intended to Avoid Giving Candace Exclusive Content",
-      "claim": "The lawsuit explains Harpole's non-response to Candace's text messages as a refusal to provide her exclusive yes-or-no content for viewership profit.",
+      "claim": "Per point 59 of the lawsuit the host reads, her repeated texts to Harpole were a cynical attempt to profit by coddling him into giving her exclusive content; the host reads this as the lawsuit's explanation for his not replying.",
       "anchored_artifacts": [
         "A-2015.7"
       ],
@@ -2159,7 +2176,10 @@
       "tags": [],
       "claim_timestamp": "00:23:57",
       "investigative_direction": "Assess credibility of this litigation rationale against the timing (December to April delay) and the lawsuit-filing posture.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-3",
+        "N-267"
+      ]
     },
     {
       "@type": "Claim",
@@ -2178,6 +2198,7 @@
       "mentions_person_refs": [
         "N-3",
         "N-14",
+        "N-267",
         "N-271"
       ]
     },
@@ -2198,7 +2219,11 @@
       "claim_timestamp": "00:28:30",
       "investigative_direction": "Compare the original Shawn Ryan audio against the lawsuit's admission to identify the precise point of misrepresentation.",
       "mentions_person_refs": [
-        "N-271"
+        "N-3",
+        "N-225",
+        "N-267",
+        "N-271",
+        "N-272"
       ]
     },
     {
@@ -2217,7 +2242,8 @@
       "claim_timestamp": "00:29:59",
       "investigative_direction": "Obtain original X post screenshot and verify text against the quoted excerpt.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-362"
       ]
     },
     {
@@ -2225,7 +2251,7 @@
       "@id": "C-2823",
       "ref": "C-2823",
       "label": "Lawsuit Simultaneously Accuses Candace of Confirming Snow's Claim While Including Her Explicit Non-Confirmation",
-      "claim": "Point 63 of the lawsuit accuses Candace of asserting proof that Snow was telling the truth about Harpole, even while the lawsuit's own exhibits include Candace's statement that she could not confirm the identification.",
+      "claim": "Point 63 of the lawsuit accuses Candace of asserting proof that Snow was telling the truth about Harpole, even while, the host says, the very next paragraph presents her statement that she could not confirm the identification.",
       "anchored_artifacts": [
         "A-2015.9",
         "A-2020.1"
@@ -2235,7 +2261,9 @@
       "claim_timestamp": "00:29:59",
       "investigative_direction": "Identify the specific X post passages cited by the lawsuit to determine whether the allegation is supported by context.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-267",
+        "N-362"
       ]
     },
     {
@@ -2255,7 +2283,9 @@
       "claim_timestamp": "00:10:08",
       "investigative_direction": "Obtain full audio of Turek's drone statements and cross-reference with FAA Part 107 rules for Provo airspace.",
       "mentions_person_refs": [
-        "N-7"
+        "N-3",
+        "N-7",
+        "N-267"
       ]
     },
     {
@@ -2263,7 +2293,7 @@
       "@id": "C-2825",
       "ref": "C-2825",
       "label": "Erika Kirk Publicly Claimed Candace Accused Her of Killing Charlie",
-      "claim": "Erika Kirk publicly asserted that Candace accused her of murdering Charlie Kirk; the statement was widely discussed.",
+      "claim": "The host says Erika Kirk publicly claimed that Candace accused her of murdering Charlie Kirk, which the host calls obviously untrue; the host says everyone had the same reaction to it.",
       "anchored_artifacts": [
         "A-2021.1"
       ],
@@ -2316,6 +2346,7 @@
       "claim_timestamp": "00:43:04",
       "investigative_direction": "Locate Coleman's full segment for additional context.",
       "mentions_person_refs": [
+        "N-1",
         "N-2",
         "N-3",
         "N-331"
@@ -2326,7 +2357,7 @@
       "@id": "C-2828",
       "ref": "C-2828",
       "label": "Lawler and Gottheimer Introduced Bipartisan House Resolution Condemning Candace Owens",
-      "claim": "Reps. Mike Lawler (R-NY) and Josh Gottheimer (D-NJ) introduced a bipartisan House resolution condemning Candace Owens, among others.",
+      "claim": "The host says, citing a Times of Israel headline, that Reps. Mike Lawler and Josh Gottheimer brought forward a bipartisan House resolution condemning her, among others.",
       "anchored_artifacts": [
         "A-2023.1",
         "A-2024.1"
@@ -2339,9 +2370,8 @@
       "investigative_direction": "Obtain the full resolution text from Congress.gov and verify resolution number, co-sponsors, and referral.",
       "mentions_person_refs": [
         "N-3",
-        "N-429",
         "N-428",
-        "N-380"
+        "N-429"
       ]
     },
     {
@@ -2360,10 +2390,7 @@
       "claim_timestamp": "00:52:10",
       "investigative_direction": "Audit Candace's prior commentary for any statement matching the resolution's characterization.",
       "mentions_person_refs": [
-        "N-3",
-        "N-429",
-        "N-428",
-        "N-380"
+        "N-3"
       ]
     },
     {
@@ -2382,10 +2409,7 @@
       "claim_timestamp": "00:52:50",
       "investigative_direction": "Review Candace's commentary on Epstein, Israeli intelligence, and pedophilia rings for the exact phrasing.",
       "mentions_person_refs": [
-        "N-3",
-        "N-429",
-        "N-428",
-        "N-380"
+        "N-3"
       ]
     },
     {
@@ -2393,7 +2417,7 @@
       "@id": "C-2831",
       "ref": "C-2831",
       "label": "Resolution References Candace's Josef Mengele Commentary",
-      "claim": "The resolution text references Candace's July 2024 commentary regarding Josef Mengele and \"bizarre propaganda\" following the Holocaust.",
+      "claim": "Per the resolution the host describes, it references her July 2024 remark about 'bizarre propaganda' following the Holocaust; the host says she did not mention Josef Mengele and that the remark is objectively true.",
       "anchored_artifacts": [
         "A-2024.1"
       ],
@@ -2405,8 +2429,6 @@
       "investigative_direction": "Locate Candace's July 2024 statements about Mengele and verify exact wording.",
       "mentions_person_refs": [
         "N-3",
-        "N-429",
-        "N-428",
         "N-380"
       ]
     },
@@ -2427,8 +2449,6 @@
       "investigative_direction": "Obtain original Auschwitz Memorial podcast episode for full context.",
       "mentions_person_refs": [
         "N-3",
-        "N-429",
-        "N-428",
         "N-380"
       ]
     },
@@ -2446,15 +2466,14 @@
       "claim_timestamp": "01:01:07",
       "investigative_direction": "Verify the post's date, persistence, and any replies or context.",
       "mentions_person_refs": [
-        "N-1",
-        "N-3"
+        "N-1"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-10354",
       "ref": "C-10354",
-      "label": "Host Says Erika Wrongly Said She Accused Erika of Murder",
+      "label": "Host Says Erika Wrongly Claimed the Host Accused Her of Murder",
       "claim": "The host says Erika Kirk 'put a target on my back' by wrongly asserting that the host accused her of murdering her husband.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2527,7 +2546,7 @@
       "@id": "C-10357",
       "ref": "C-10357",
       "label": "Host Says Ambulances Were Standard at Her TPUSA Events With Harpole's Team",
-      "claim": "The host says that at each of her many Turning Point USA events during the time Harpole was on the security team, an ambulance was on standby.",
+      "claim": "The host says she is fairly certain that at almost every one of her many Turning Point USA events during the time Harpole was on the security team, an ambulance was on standby.",
       "anchored_artifacts": [
         "A-2015.2"
       ],
@@ -2600,7 +2619,7 @@
       "@id": "C-10360",
       "ref": "C-10360",
       "label": "Host Says the Charlie's Angels or Demons Episode Never Named Harpole",
-      "claim": "The host says that in the 'Charlie's Angels or Demons' episode she never mentioned Harpole even once, and that it concerned Charlie's chief of staff and Terrell Farnsworth, the head of the AV team.",
+      "claim": "The host says that in the 'Charlie's Angels or Demons' episode she never mentioned Harpole even once, and that it concerned Charlie's chief of staff and Terryl Farnsworth, the head of the AV team.",
       "anchored_artifacts": [
         "A-2015.3"
       ],
@@ -2622,7 +2641,7 @@
       "@id": "C-10361",
       "ref": "C-10361",
       "label": "Host Says Farnsworth Announced Kirk Dead by Selfie Video Two Minutes After the Shot",
-      "claim": "The host says Terrell Farnsworth notoriously announced in a selfie video that Charlie Kirk was dead about two minutes after Kirk went down, when no one could have known.",
+      "claim": "The host says Terryl Farnsworth notoriously announced in a selfie video that Charlie Kirk was dead about two minutes after Kirk went down, when no one could have known.",
       "anchored_artifacts": [
         "A-2015.3"
       ],
@@ -2634,7 +2653,7 @@
       ],
       "claim_timestamp": "00:07:04",
       "investigative_direction": "Obtain Farnsworth's selfie video with its original upload time and compare it to the shot time and first official confirmation.",
-      "transcript_snippet": "it was Terrell Farmsworth who notoriously announced in a selfie video that Charlie Kirk was dead like 2 minutes after Charlie went down",
+      "transcript_snippet": "it was Terryl Farmsworth who notoriously announced in a selfie video that Charlie Kirk was dead like 2 minutes after Charlie went down",
       "mentions_person_refs": [
         "N-262",
         "N-1"
@@ -2872,10 +2891,11 @@
       "investigative_direction": "Identify the original posts that circulated the hand-signal theories and their dates.",
       "transcript_snippet": "Frank Turek's doing hand signals. It looks like Dan Flood's doing hand signals. It looks like Brian Harpole is doing hand signals behind his back and they're all looped in.",
       "mentions_person_refs": [
+        "N-1",
         "N-3",
         "N-7",
-        "N-271",
-        "N-267"
+        "N-267",
+        "N-271"
       ]
     },
     {
@@ -3199,11 +3219,11 @@
       "@id": "C-10385",
       "ref": "C-10385",
       "label": "Host Says Brigitte Macron Claimed She Was a UK Dual Citizen",
-      "claim": "The host says a lawsuit filing by Brigitte Macron's side asserted that she is a dual citizen of the UK, and that she is not.",
+      "claim": "The host says Brigitte Macron said the host was a dual citizen of the UK, which the host says is not a fact, as an example of untrue claims put in lawsuit filings.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:31:04",
       "investigative_direction": "Locate the Macron filing language on citizenship and the host's citizenship records.",
@@ -3217,12 +3237,12 @@
       "@type": "Claim",
       "@id": "C-10386",
       "ref": "C-10386",
-      "label": "Host Says the Klacik Suit Was Dropped in Discovery",
+      "label": "Host Says Klacik Folded in Discovery",
       "claim": "The host says Kim Klacik sued after the host called her a former stripper, took it to discovery, then folded and wanted to walk away when the host began presenting evidence from strippers who knew her.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:32:15",
       "investigative_direction": "Pull the docket and any settlement or dismissal record from the Klacik case.",
@@ -3280,7 +3300,7 @@
       "@id": "C-10389",
       "ref": "C-10389",
       "label": "Host Says Farnsworth Has Never-Seen Footage She Would Subpoena",
-      "claim": "The host says Terrell Farnsworth has footage from every angle that the public has never seen, and that if Harpole claims he rendered first aid she would seek to subpoena that footage.",
+      "claim": "The host says Terryl Farnsworth has footage from every angle that the public has never seen, and that if Harpole claims he rendered first aid she would seek to subpoena that footage.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11258",
@@ -3291,7 +3311,7 @@
       ],
       "claim_timestamp": "00:34:51",
       "investigative_direction": "Seek the footage through discovery or a subpoena in the Harpole action and identify its custodians.",
-      "transcript_snippet": "Terrell Farnsworth actually has footage the public has never seen from every angle.",
+      "transcript_snippet": "Terryl Farnsworth actually has footage the public has never seen from every angle.",
       "mentions_person_refs": [
         "N-3",
         "N-262",
@@ -3719,7 +3739,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:57:59",
       "investigative_direction": "Identify specific Florida cases of police visits over social media posts.",
@@ -3797,7 +3817,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "01:06:42",
       "investigative_direction": "Check official US and Iranian accounts of the strike and the later statements about it.",
@@ -3819,7 +3839,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "01:08:34",
       "investigative_direction": "Locate Loomer's posts on the trust claim and the host's financial structure records.",
@@ -3837,8 +3857,8 @@
       "@type": "Claim",
       "@id": "C-10414",
       "ref": "C-10414",
-      "label": "Host Says Harpole's Lawyer Matt Slauson Was Retweeting Laura Loomer",
-      "claim": "The host says Harpole's attorney, Matt Slauson, definitively was retweeting Laura Loomer, which she says feels like anticipated coordination before the lawsuit.",
+      "label": "Host Says Harpole's Lawyer Matt Sarelson Was Retweeting Laura Loomer",
+      "claim": "The host says Harpole's attorney, Matt Sarelson, definitively was retweeting Laura Loomer, which she says feels like anticipated coordination before the lawsuit.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10651"
@@ -3848,7 +3868,7 @@
       ],
       "claim_timestamp": "01:08:34",
       "investigative_direction": "Review the lawyer's public posting history for Loomer retweets and their dates relative to the filing.",
-      "transcript_snippet": "this lawyer, Matt Slauson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.",
+      "transcript_snippet": "this lawyer, Matt Sarelson, the one who speaks like he has helium. Like he's just ingested some helium. Uh definitively was retweeting Laura Loomer.",
       "mentions_person_refs": [
         "N-3",
         "N-863",

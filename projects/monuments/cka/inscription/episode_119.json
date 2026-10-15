@@ -13,7 +13,7 @@
     "transcript_sha256": "e6631efb5c1de758a5027b0a338c5879d9a3b405459184882e1a73551571dc34",
     "analysis_date": "2026-10-13"
   },
-  "executive_summary": "The host announces she is pregnant again, says she survived a weekend \"death hoax\" involving a deleted post and a pre-dated obituary website, and says she recorded a long interview at Shawn Ryan's studio. According to the host, members of Ryan's production team told her two things. First, Brian Harpole – who is suing her and claims he went on the Shawn Ryan Show only because of her – offered Ryan his cross-body bag still bearing Charlie Kirk's blood as a gift for the studio museum, and Ryan declined (A-2697.1). Second, a planned Erika Kirk booking with the show was being arranged through Terrell Farnsworth, the audio-visual contractor who announced Charlie's death on camera. The host revisits the Farnsworth family's Chandler, Arizona ties to Tyler Bowyer and Lori Frantzve. She says Charlie had Farnsworth's team removed from his building on July 24, and that Farnsworth stood behind Erika Kirk on the first staff Zoom call (A-2698.1). She then presents a Visual Impulse personnel graphic (A-2698.2) naming Brian Farnsworth, Philip Goldsberry Jr., Parker and Aaron Edwards, and Robert Golow. She says Golow was hired in 2024 when the redundant microphone was introduced and stood next to Farnsworth at the shooting, and she asks for tips on him.\n\nThe host plays three September 10 eyewitness clips in which witnesses describe Charlie Kirk being hit in the chest with blood around his heart (A-2699). She says this never happened and that his shirt was clean. She uses the clips to support her theory that a shaped charge in the second, redundant microphone was meant to hit his chest but went up into his neck. She also repeats her allegation that Farnsworth lied about why he removed the SD card, and says emailers have told her the rigged microphone could have been assembled at Fort Huachuca.\n\nOn Erika Kirk's CEO role, the host plays an Illinois summit clip (A-2700) in which Erika says she knew staff by name and had an \"emergency plan\" with Charlie. She contrasts it with a post-Super Bowl staff call (A-2701.1) in which Erika says she wants to learn employees' names and faces. She reviews a ChatGPT search for widows who succeeded husbands as CEO (A-2702.1), arguing that the cited examples (Ellen Gordon, Katharine Graham, Miriam Adelson) involved family-controlled companies or inherited shares, and asserts that no precedent exists in human history.\n\nIn later segments the host airs a Rob McCoy sermon (A-2703.1) claiming she earns $800,000 a week, which she denies. She plays Tucker Carlson saying Charlie Kirk was most likely murdered for his evolving views on Israel (A-2704.1), Blake Neff's tweet calling Tucker a liar (A-2705.1) and an Andrew Kolvet clip praising the Tucker–Charlie friendship (A-2706.1). She reads an email from a military EOD technician who says she and her colleagues believe the microphone was the cause (A-2707.1). In the comments she alleges that the microphone and Charlie's phone never went into evidence, and that Erika Kirk's Father's Day post answered criticism about sparklers.",
+  "executive_summary": "The host announces she is pregnant again, says she survived a weekend \"death hoax\" involving a deleted post and a pre-dated obituary website, and says she recorded a long interview at Shawn Ryan's studio. According to the host, members of Ryan's production team told her two things. First, Brian Harpole – who is suing her and claims he went on the Shawn Ryan Show only because of her – offered Ryan his cross-body bag still bearing Charlie Kirk's blood as a gift for the studio museum, and Ryan declined (A-2697.1). Second, a planned Erika Kirk booking with the show was being arranged through Terryl Farnsworth, the audio-visual contractor who announced Charlie's death on camera. The host revisits the Farnsworth family's Chandler, Arizona ties to Tyler Bowyer and Lori Frantzve. She says Charlie had Farnsworth's team removed from his building on July 24, and that Farnsworth stood behind Erika Kirk on the first staff Zoom call (A-2698.1). She then presents a Visual Impulse personnel graphic (A-2698.2) naming Brian Farnsworth, Philip Goldsberry Jr., Parker and Aaron Edwards, and Robert Golow. She says Golow was hired in 2024 when the redundant microphone was introduced and stood next to Farnsworth at the shooting, and she asks for tips on him.\n\nThe host plays three September 10 eyewitness clips in which witnesses describe Charlie Kirk being hit in the chest with blood around his heart (A-2699). She says this never happened and that his shirt was clean. She uses the clips to support her theory that a shaped charge in the second, redundant microphone was meant to hit his chest but went up into his neck. She also repeats her allegation that Farnsworth lied about why he removed the SD card, and says emailers have told her the rigged microphone could have been assembled at Fort Huachuca.\n\nOn Erika Kirk's CEO role, the host plays an Illinois summit clip (A-2700) in which Erika says she knew staff by name and had an \"emergency plan\" with Charlie. She contrasts it with a post-Super Bowl staff call (A-2701.1) in which Erika says she wants to learn employees' names and faces. She reviews a ChatGPT search for widows who succeeded husbands as CEO (A-2702.1), arguing that the cited examples (Ellen Gordon, Katharine Graham, Miriam Adelson) involved family-controlled companies or inherited shares, and asserts that no precedent exists in human history.\n\nIn later segments the host airs a Rob McCoy sermon (A-2703.1) claiming she earns $800,000 a week, which she denies. She plays Tucker Carlson saying Charlie Kirk was most likely murdered for his evolving views on Israel (A-2704.1), Blake Neff's tweet calling Tucker a liar (A-2705.1) and an Andrew Kolvet clip praising the Tucker–Charlie friendship (A-2706.1). She reads an email from a military EOD technician who says she and her colleagues believe the microphone was the cause (A-2707.1). In the comments she alleges that the microphone and Charlie's phone never went into evidence, and that Erika Kirk's Father's Day post answered criticism about sparklers.",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -54,7 +54,7 @@
           "@type": "Artifact",
           "@id": "A-2698.1",
           "ref": "A-2698.1",
-          "description": "Still photo of Erika Kirk's first staff Zoom call with Terrell Farnsworth standing behind her",
+          "description": "Still photo of Erika Kirk's first staff Zoom call with Terryl Farnsworth standing behind her",
           "related_claims": [
             "C-4783"
           ],
@@ -72,7 +72,7 @@
           "@type": "Artifact",
           "@id": "A-2698.2",
           "ref": "A-2698.2",
-          "description": "Graphic of the Visual Impulse team present on September 10 (Terrell Farnsworth, Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards, Robert Golow)",
+          "description": "Graphic of the Visual Impulse team present on September 10 (Terryl Farnsworth, Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards, Robert Golow)",
           "related_claims": [
             "C-4786",
             "C-4787",
@@ -546,7 +546,7 @@
       "ref": "N-2",
       "name": "Erika Kirk",
       "type": "person",
-      "description": "Her shifting account of the CEO succession, her familiarity with staff, her ties to Terrell Farnsworth and the handling of evidence are disputed by the host.",
+      "description": "Her shifting account of the CEO succession, her familiarity with staff, her ties to Terryl Farnsworth and the handling of evidence are disputed by the host.",
       "related_artifacts": [
         "A-2697.1",
         "A-2698.1",
@@ -869,7 +869,7 @@
       "ref": "N-225",
       "name": "Shawn Ryan",
       "type": "person",
-      "description": "The host recorded a long interview at his studio. His team says Brian Harpole offered him the bloodied bag and that an Erika Kirk booking went through Terrell Farnsworth.",
+      "description": "The host recorded a long interview at his studio. His team says Brian Harpole offered him the bloodied bag and that an Erika Kirk booking went through Terryl Farnsworth.",
       "related_artifacts": [
         "A-2697.1",
         "A-2709.1"
@@ -890,9 +890,9 @@
       "@type": "Person",
       "@id": "N-262",
       "ref": "N-262",
-      "name": "Terrell Farnsworth",
+      "name": "Terryl Farnsworth",
       "type": "person",
-      "description": "Transcript spellings \"Taral\", \"Terrell\", \"Tarrou\" and \"Taro\". Visual Impulse owner who announced the death on camera and removed the SD card. Said to have arranged an Erika Kirk booking and to have been removed from Charlie's building in July.",
+      "description": "Transcript spellings \"Taral\", \"Terryl\", \"Tarrou\" and \"Taro\". Visual Impulse owner who announced the death on camera and removed the SD card. Said to have arranged an Erika Kirk booking and to have been removed from Charlie's building in July.",
       "related_artifacts": [
         "A-2697.1",
         "A-2698.1",
@@ -1104,7 +1104,7 @@
       "ref": "N-700",
       "name": "Brian Farnsworth",
       "type": "person",
-      "description": "First named by the host at 00:09:55 in episode 119. Terrell Farnsworth's brother, shown on the Visual Impulse team graphic.",
+      "description": "First named by the host at 00:09:55 in episode 119. Terryl Farnsworth's brother, shown on the Visual Impulse team graphic.",
       "related_artifacts": [
         "A-2698.2"
       ],
@@ -1123,7 +1123,7 @@
       "ref": "N-701",
       "name": "Parker Edwards",
       "type": "person",
-      "description": "First named by the host at 00:10:49 in episode 119. Visual Impulse team member who went to the same high school as Terrell Farnsworth.",
+      "description": "First named by the host at 00:10:49 in episode 119. Visual Impulse team member who went to the same high school as Terryl Farnsworth.",
       "related_artifacts": [
         "A-2698.2"
       ],
@@ -1162,7 +1162,7 @@
       "ref": "N-703",
       "name": "Robert Golow",
       "type": "person",
-      "description": "First named by the host at 00:11:31 in episode 119. Visual Impulse camera operator from Liberia, hired in 2024; said to have stood next to Terrell Farnsworth when Charlie Kirk was hit.",
+      "description": "First named by the host at 00:11:31 in episode 119. Visual Impulse camera operator from Liberia, hired in 2024; said to have stood next to Terryl Farnsworth when Charlie Kirk was hit.",
       "related_artifacts": [
         "A-2698.2",
         "A-2708.1"
@@ -1506,7 +1506,7 @@
       "@type": "InvestigationTarget",
       "@id": "N-10346",
       "ref": "N-10346",
-      "name": "Terrell Farnsworth Camera Removal Justification",
+      "name": "Terryl Farnsworth Camera Removal Justification",
       "type": "investigation_target",
       "description": "Farnsworth's explanation that he did not want Erika to relive the death.",
       "related_artifacts": [],
@@ -1785,7 +1785,7 @@
       "ref": "N-10991",
       "name": "Visual Impulse",
       "type": "organization",
-      "description": "The audio-visual company run by Terrell Farnsworth that filmed Charlie Kirk's events. The host says Charlie had its team removed from his building on July 24, 2025, and that it was welcomed back after his death. Its September 10 crew included Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards and Robert Golow.",
+      "description": "The audio-visual company run by Terryl Farnsworth that filmed Charlie Kirk's events. The host says Charlie had its team removed from his building on July 24, 2025, and that it was welcomed back after his death. Its September 10 crew included Brian Farnsworth, Philip Goldsberry Jr., Parker Edwards, Aaron Edwards and Robert Golow.",
       "related_artifacts": [
         "A-2698.2"
       ],
@@ -1818,7 +1818,7 @@
       "ref": "N-10998",
       "name": "Robert Golow Identification",
       "type": "topic",
-      "description": "Investigation target: the background and September 10 role of Robert Golow, a Visual Impulse camera operator from Liberia. He was hired in 2024 when the redundant microphone was introduced, stood next to Terrell Farnsworth at the shooting and then ran off, and has never spoken publicly. The host asks for tips.",
+      "description": "Investigation target: the background and September 10 role of Robert Golow, a Visual Impulse camera operator from Liberia. He was hired in 2024 when the redundant microphone was introduced, stood next to Terryl Farnsworth at the shooting and then ran off, and has never spoken publicly. The host asks for tips.",
       "related_artifacts": [
         "A-2708.1"
       ],
@@ -2009,8 +2009,8 @@
       "@type": "Claim",
       "@id": "C-4777",
       "ref": "C-4777",
-      "label": "An Erika Kirk booking with the Shawn Ryan Show was arranged through Terrell Farnsworth",
-      "claim": "The host says Shawn Ryan's team told her that, some time after Harpole's interview, they were in discussions to interview Erika Kirk and that the booking was being arranged with Terrell Farnsworth.",
+      "label": "An Erika Kirk booking with the Shawn Ryan Show was arranged through Terryl Farnsworth",
+      "claim": "The host says Shawn Ryan's team told her that, some time after Harpole's interview, they were in discussions to interview Erika Kirk and that the booking was being arranged with Terryl Farnsworth.",
       "anchored_artifacts": [
         "A-2697.1"
       ],
@@ -2029,8 +2029,8 @@
       "@type": "Claim",
       "@id": "C-4778",
       "ref": "C-4778",
-      "label": "Terrell Farnsworth announced Charlie's death on camera, took down the camera and runs the AV company",
-      "claim": "The host describes Terrell Farnsworth as the man who announced on camera that Charlie Kirk was dead, took down the camera and runs the audio-visual company.",
+      "label": "Terryl Farnsworth announced Charlie's death on camera, took down the camera and runs the AV company",
+      "claim": "The host describes Terryl Farnsworth as the man who announced on camera that Charlie Kirk was dead, took down the camera and runs the audio-visual company.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10991",
@@ -2116,8 +2116,8 @@
       "@type": "Claim",
       "@id": "C-4782",
       "ref": "C-4782",
-      "label": "Charlie Kirk had Terrell Farnsworth's team removed from his building on July 24",
-      "claim": "The host says Terrell Farnsworth's team, which had worked upstairs in Charlie Kirk's podcast building, was removed at Charlie's request on July 24, shortly before the assassination. She says it was welcomed back after his death.",
+      "label": "Charlie Kirk had Terryl Farnsworth's team removed from his building on July 24",
+      "claim": "The host says Terryl Farnsworth's team, which had worked upstairs in Charlie Kirk's podcast building, was removed at Charlie's request on July 24, shortly before the assassination. She says it was welcomed back after his death.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10991",
@@ -2126,7 +2126,7 @@
       "tags": [],
       "claim_timestamp": "00:08:08",
       "investigative_direction": "Obtain TPUSA facilities and lease records and staff testimony on the July 2025 move.",
-      "transcript_snippet": "On July 24th, Terrell's team, at Charlie's request, was removed from the building.",
+      "transcript_snippet": "On July 24th, Terryl's team, at Charlie's request, was removed from the building.",
       "mentions_person_refs": [
         "N-262",
         "N-1"
@@ -2136,8 +2136,8 @@
       "@type": "Claim",
       "@id": "C-4783",
       "ref": "C-4783",
-      "label": "Terrell Farnsworth stood behind Erika Kirk on her first staff Zoom call",
-      "claim": "The host says Terrell Farnsworth is the person standing behind Erika Kirk, in the Charlie Kirk building, during her first Zoom call to staff six days after the assassination, and shows a still photo.",
+      "label": "Terryl Farnsworth stood behind Erika Kirk on her first staff Zoom call",
+      "claim": "The host says Terryl Farnsworth is the person standing behind Erika Kirk, in the Charlie Kirk building, during her first Zoom call to staff six days after the assassination, and shows a still photo.",
       "anchored_artifacts": [
         "A-2698.1"
       ],
@@ -2147,7 +2147,7 @@
       "tags": [],
       "claim_timestamp": "00:08:08",
       "investigative_direction": "Obtain the full recording of the September 16, 2025 staff call and identify everyone in the room.",
-      "transcript_snippet": "Terrell is the one that is standing behind Erika during her first Zoom call to the team the 6 days after Charlie was assassinated.",
+      "transcript_snippet": "Terryl is the one that is standing behind Erika during her first Zoom call to the team the 6 days after Charlie was assassinated.",
       "supports_claim_refs": [
         "C-2220"
       ],
@@ -2162,7 +2162,7 @@
       "@id": "C-4784",
       "ref": "C-4784",
       "label": "Farnsworth's footage showed nothing gory because the bullet did not exit",
-      "claim": "The host says Terrell Farnsworth explained his SD-card removal by saying he did not want Erika to relive Charlie's death, but that the footage contained nothing gory because the bullet did not go through.",
+      "claim": "The host says Terryl Farnsworth explained his SD-card removal by saying he did not want Erika to relive Charlie's death, but that the footage contained nothing gory because the bullet did not go through.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10346",
@@ -2198,8 +2198,8 @@
       "@type": "Claim",
       "@id": "C-4786",
       "ref": "C-4786",
-      "label": "Brian Farnsworth is Terrell Farnsworth's brother and was on the Visual Impulse team",
-      "claim": "The host's Visual Impulse graphic shows Terrell Farnsworth at the top and identifies Brian Farnsworth as his brother on the September 10 team.",
+      "label": "Brian Farnsworth is Terryl Farnsworth's brother and was on the Visual Impulse team",
+      "claim": "The host's Visual Impulse graphic shows Terryl Farnsworth at the top and identifies Brian Farnsworth as his brother on the September 10 team.",
       "anchored_artifacts": [
         "A-2698.2"
       ],
@@ -2240,8 +2240,8 @@
       "@type": "Claim",
       "@id": "C-4788",
       "ref": "C-4788",
-      "label": "Parker Edwards went to the same high school as Terrell Farnsworth",
-      "claim": "The host says Parker Edwards, on the ground on September 10, went to the same high school as Terrell Farnsworth and grew up with the Farnsworth family.",
+      "label": "Parker Edwards went to the same high school as Terryl Farnsworth",
+      "claim": "The host says Parker Edwards, on the ground on September 10, went to the same high school as Terryl Farnsworth and grew up with the Farnsworth family.",
       "anchored_artifacts": [
         "A-2698.2"
       ],
@@ -2251,7 +2251,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:10:49",
-      "investigative_direction": "Check high school alumni records for Parker Edwards and Terrell Farnsworth.",
+      "investigative_direction": "Check high school alumni records for Parker Edwards and Terryl Farnsworth.",
       "transcript_snippet": "Parker Edwards, we just dug into this guy, and it turns out that he went to the same high school as Tarrou Farnsworth.",
       "mentions_person_refs": [
         "N-701",
@@ -2309,7 +2309,7 @@
       "@id": "C-4791",
       "ref": "C-4791",
       "label": "Golow stood next to Farnsworth when Charlie was hit, then ran off",
-      "claim": "The host says Robert Golow was standing next to Terrell Farnsworth when Charlie Kirk was hit and then ran off. She says he was a new hire in the year before the death, has never spoken publicly, and may still work for TPUSA in some capacity.",
+      "claim": "The host says Robert Golow was standing next to Terryl Farnsworth when Charlie Kirk was hit and then ran off. She says he was a new hire in the year before the death, has never spoken publicly, and may still work for TPUSA in some capacity.",
       "anchored_artifacts": [
         "A-2698.2"
       ],
@@ -2511,7 +2511,7 @@
       "@id": "C-4801",
       "ref": "C-4801",
       "label": "Farnsworth took only the SD card and left the camera, contrary to the theft explanation",
-      "claim": "The host alleges that Terrell Farnsworth specifically took the camera's SD card and left the more expensive camera, and rejects Andrew Kolvet's explanation that people were stealing equipment.",
+      "claim": "The host alleges that Terryl Farnsworth specifically took the camera's SD card and left the more expensive camera, and rejects Andrew Kolvet's explanation that people were stealing equipment.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10162",
@@ -2994,8 +2994,7 @@
       "transcript_snippet": "new witnesses the next day at 4:00 a. m. in the morning saying, \"He got shot in the neck.\"",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
-        "N-262"
+        "N-2"
       ]
     },
     {
