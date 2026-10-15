@@ -13,7 +13,7 @@
     "transcript_sha256": "e59ef23947937abb11240bb4332ca23fd6de863e534d55478de53e8073ce29e1",
     "analysis_date": "2026-10-13"
   },
-  "executive_summary": "The host plays a viral clip from Tucker Carlson's interview with Mario Nawfal (A-2646.1). In it Carlson says Dan Bongino told him that Trump shut down the Butler investigation, and that Bongino became \"hysterical\" when Carlson raised Thomas Matthew Crooks's social media posts, which the public had been told did not exist. The host then plays Bongino's response video (A-2647.1). In it Bongino calls the claim \"100% made up\" and shows a November 21 Fox News article by Brooke Singman saying the FBI concluded Crooks acted alone and the case sits in \"pending inactive\" status (A-2647.2). He also shows his texts to Carlson (A-2647.3). The host argues that the November article predates the December conversation Carlson described. She also argues that Bongino's text telling Carlson to ask the president to release \"more information\" confirms that more information is being withheld. She says she is inclined to believe Butler was a real attempt that served as a \"gangster\" warning to Trump.\n\nThe host next reads a New York Times piece on the White House's handling of the Epstein files (A-2648.1). According to the article, on July 12, 2025 Trump called Charlie Kirk and scolded him after the Turning Point USA Student Action Summit turned into \"an Epstein grievance fest.\" She places this on her timeline (A-2649.1) the day after Tucker Carlson's July 11 summit speech. She then sets Erika Kirk's July 14 Calvary Chapel speech in Long Beach, where Erika spoke after a pro-Israel introduction by James Kaddis (A-2650.1, A-2650.2), against a memory she says she had forgotten. After she taped an interview with Carlson in Maine that July (A-2651.1), the host says, Carlson told her he had just had dinner with Charlie and Erika Kirk and that Erika was \"hardcore on the anti-Israel train.\" The host calls this evidence that Erika Kirk changes her persona by audience, and she revisits the July 18 UVU request, the Why Refi sponsorship, the Hamptons retreat and the Aspen retreat.\n\nThe host then turns to Bradley Hansell's September trip on SAM702 (A-2652.1). She says it ran Joint Base Andrews–Colorado Springs–Tucson–Fort Huachuca (September 8)–El Paso, and that the 19-hour stop at Fort Huachuca was the longest. She reads the Department of War FOIA office's reply to her request for the flight's passenger records (A-2653.1). The reply invokes \"unusual circumstances\", including consultation with other agencies, and places the request in a complex processing queue of about 3,534 open requests. She calls it an \"FOFU.\"\n\nIn the final segments the host mocks an X trend summarising Laura Loomer's confrontation with her show (A-2654.1). She replays Erika Kirk's closing remarks at the Women's Leadership Summit after Erika was heckled (A-2655.1) and reads viewer comments (A-2656). She closes by inviting members of Charlie Kirk's family to reach out to her off the record (A-2657.1).",
+  "executive_summary": "The host plays a viral clip from Tucker Carlson's interview with Mario Nawfal (A-2646.1). In it Carlson says Dan Bongino told him that Trump shut down the Butler investigation, and that Bongino became \"hysterical\" when Carlson raised Thomas Matthew Crooks's social media posts, which the public had been told did not exist. The host then plays Bongino's response video (A-2647.1). In it Bongino calls the claim \"100% made up\" and shows a November 21 Fox News article by Brooke Singman saying the FBI concluded Crooks acted alone and the case sits in \"pending inactive\" status (A-2647.2). He also shows his texts to Carlson (A-2647.3). The host argues that the November article predates the December conversation Carlson described. She also argues that Bongino's text telling Carlson to ask the president to release \"more information\" confirms that more information is being withheld. She says she is inclined to believe Butler was a real attempt that served as a \"gangster\" warning to Trump.\n\nThe host next reads a New York Times piece on the White House's handling of the Epstein files (A-2648.1). According to the article, on July 12, 2025 Trump called Charlie Kirk and scolded him after the Turning Point USA Student Action Summit turned into \"an Epstein grievance fest.\" She places this on her timeline (A-2649.1) the day after Tucker Carlson's July 11 summit speech. She then sets Erika Kirk's July 14 Calvary Chapel speech in Long Beach, where Erika spoke after a pro-Israel introduction by James Kaddis (A-2650.1, A-2650.2), against a memory she says she had forgotten. After she taped an interview with Carlson in Maine that July (A-2651.1), the host says, Carlson told her he had just had dinner with Charlie and Erika Kirk and that Erika was \"hardcore on the anti-Israel train.\" The host calls this evidence that Erika Kirk changes her persona by audience, and she revisits the July 18 UVU request, the Yrefy sponsorship, the Hamptons retreat and the Aspen retreat.\n\nThe host then turns to Bradley Hansell's September trip on SAM702 (A-2652.1). She says it ran Joint Base Andrews–Colorado Springs–Tucson–Fort Huachuca (September 8)–El Paso, and that the 19-hour stop at Fort Huachuca was the longest. She reads the Department of War FOIA office's reply to her request for the flight's passenger records (A-2653.1). The reply invokes \"unusual circumstances\", including consultation with other agencies, and places the request in a complex processing queue of about 3,534 open requests. She calls it an \"FOFU.\"\n\nIn the final segments the host mocks an X trend summarising Laura Loomer's confrontation with her show (A-2654.1). She replays Erika Kirk's closing remarks at the Women's Leadership Summit after Erika was heckled (A-2655.1) and reads viewer comments (A-2656). She closes by inviting members of Charlie Kirk's family to reach out to her off the record (A-2657.1).",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -163,7 +163,7 @@
           "@type": "Artifact",
           "@id": "A-2649.1",
           "ref": "A-2649.1",
-          "description": "Host's July–August 2025 timeline (SAS, the Trump call, the Long Beach flight, UVU, Maine, Why Refi, Hamptons, Aspen), plotted on air",
+          "description": "Host's July–August 2025 timeline (SAS, the Trump call, the Long Beach flight, UVU, Maine, Yrefy, Hamptons, Aspen), plotted on air",
           "related_claims": [
             "C-4503",
             "C-4504",
@@ -1658,9 +1658,9 @@
       "@type": "InvestigationTarget",
       "@id": "N-10870",
       "ref": "N-10870",
-      "name": "Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum",
+      "name": "Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum",
       "type": "investigation_target",
-      "description": "The host says Why Refi became the fall tour's number one sponsor through a contract addendum.",
+      "description": "The host says Yrefy became the fall tour's number one sponsor through a contract addendum.",
       "related_artifacts": [],
       "related_claims": [
         "C-4512"
@@ -2390,8 +2390,8 @@
       "@type": "Claim",
       "@id": "C-4512",
       "ref": "C-4512",
-      "label": "Why Refi became the fall tour's number one sponsor via an addendum",
-      "claim": "The host says that during the same two weeks Why Refi came in as the number one sponsor of Charlie Kirk's fall tour through an addendum, despite an existing January–December contract, with its CEO set to travel to the first stop at UVU.",
+      "label": "Yrefy became the fall tour's number one sponsor via an addendum",
+      "claim": "The host says that during the same two weeks Yrefy came in as the number one sponsor of Charlie Kirk's fall tour through an addendum, despite an existing January–December contract, with its CEO set to travel to the first stop at UVU.",
       "anchored_artifacts": [
         "A-2649.1"
       ],
@@ -2400,7 +2400,7 @@
       ],
       "tags": [],
       "claim_timestamp": "00:23:28",
-      "investigative_direction": "Obtain the Why Refi sponsorship contract and addendum dates.",
+      "investigative_direction": "Obtain the Yrefy sponsorship contract and addendum dates.",
       "transcript_snippet": "why Rei comes in as the number one sponsor for Charlie Kirk's fall tour this is a total Israel coded company",
       "mentions_person_refs": [
         "N-1"

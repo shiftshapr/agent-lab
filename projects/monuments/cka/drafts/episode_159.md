@@ -24,7 +24,7 @@
 
 ## 2. Executive Summary
 
-Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Why Refi (Y Refi) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)–timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Why Refi, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnny Moore–Kolvet Chyros links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam–plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.
+Building on the Vanity Fair critique, this episode presents leaked Telegram traffic from a “Dominate 2.0” group in which Erika Kirk asks staff for “big hitters” / full donor lists ahead of a Mar-a-Lago fundraising event (Taylor Scornovako replies with six-figure donors sorted by MGO). The host then publishes Yrefy (Y Refi) sponsorship contracts with TPUSA: a detailed February 2025 ~$2.25M agreement through early 2026, plus a sparse July 25, 2025 addendum adding ~$1.25M for Charlie’s fall campus tour (branded wall, presenting sponsorship, short mainstage speaking)–timings the host ties to Zionist-donor pullouts after Charlie’s Israel shift and to the UVU booking chain. A long concurrent timeline overlays Yrefy, Macron/Brigitte pressure calls (Feb), BCG/Gaza Humanitarian Foundation / Johnny Moore–Kolvet Kairos links (June), UVU mass-casualty drill, White House Iran debate, Instagram purge, July Netanyahu visit + Candace college-video archive, July 10 UVU courtyard ask, SAS/Tucker Epstein remarks and Bob Shaman pullout, Charlie’s Epstein walk-back, Egyptian-plane movements, Hamptons BB call, and repeated New York Times–reported Epstein “situation room” meetings (JD Vance, Susie Wiles, Kash Patel, Pam Bondi, Todd Blanche, et al., often without Trump). The host floats that Charlie may have been killed over Epstein-network panic. Final third covers Brian Cole Jr., the autistic man federal authorities present as the J6 pipe-bomb suspect: Tucker-hosted parent interview / interrogation transcript describing coerced confession, then the coincidence that the same Scripps Media journalists who aired obscure Tyler Robinson traffic bodycam also aired Cole’s minor 2024 crash bodycam–plus Erika’s childhood daycare in a Cincinnati Scripps building. Closing comments revisit Mikey McCoy office optics, Israel narrative betrayal, Andrew Wilson text-leaks vs heaven-focused branding, and dual Telegram accounts.
 
 ## 6. Meme Register
 
@@ -73,14 +73,14 @@ Confidence: medium
 
 ---
 
-**M-11** (meme) MSAD
+**M-11** (meme) Mossad
 
 ### Occurrence 1
 
 Video Timestamp: 00:34:39
 Speaker: N-3
-Quote: Epstein Files episode entitled Mega Maga and the MSAD
-Context: Host names her August 13 Epstein episode, whose title uses the MSAD shorthand.
+Quote: Epstein Files episode entitled Mega Maga and the Mossad
+Context: Host names her August 13 Epstein episode, whose title uses the Mossad shorthand.
 Tags: msad, epstein, reuse
 Confidence: medium
 
@@ -136,7 +136,7 @@ Confidence: medium
 Video Timestamp: 00:07:32
 Speaker: N-3
 Quote: and I'm going to say allegedly here
-Context: Host hedges the tipster's claim that Why Refi had a say in tour stops.
+Context: Host hedges the tipster's claim that Yrefy had a say in tour stops.
 Tags: allegedly, hedge, reuse
 Confidence: high
 
@@ -158,7 +158,7 @@ Confidence: high
 Video Timestamp: 00:11:10
 Speaker: N-3
 Quote: I'm going to say allegedly, cuz I can't confirm that
-Context: Host hedges on Why Refi's payment record.
+Context: Host hedges on Yrefy's payment record.
 Tags: allegedly, hedge, reuse
 Confidence: high
 
@@ -311,9 +311,9 @@ Confidence Level: High (as shown/read); Medium (leak provenance)
 
 ---
 
-**A-2467** Why Refi February 2025 Master Sponsorship Contract Bundle
+**A-2467** Yrefy February 2025 Master Sponsorship Contract Bundle
 
-**A-2467.1** On-screen February 2025 TPUSA–Why Refi agreement (~$2.25M stated; host notes payment schedule summing nearer ~$2.47M) covering galas, summits, influencer blitz, Riley Gaines appearances, campus tour, and proposed “Why Refi Theater” construction by end-2025.
+**A-2467.1** On-screen February 2025 TPUSA–Yrefy agreement (~$2.25M stated; host notes payment schedule summing nearer ~$2.47M) covering galas, summits, influencer blitz, Riley Gaines appearances, campus tour, and proposed “Yrefy Theater” construction by end-2025.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:15:21
@@ -324,7 +324,7 @@ Confidence Level: High (document as shown); Medium (payment-total discrepancy in
 
 ---
 
-**A-2468** Why Refi July 25 2025 Fall-Tour Addendum Bundle
+**A-2468** Yrefy July 25 2025 Fall-Tour Addendum Bundle
 
 **A-2468.1** One-page July 25, 2025 addendum for additional ~$1.25M tied to Charlie Kirk fall campus tour benefits (branded wall, presenting sponsorship, ~5 minutes mainstage speaking, video, email)–Laine Schoneberger spoke ~5 minutes at UVU pre-show per host.
 
@@ -339,7 +339,7 @@ Confidence Level: High (document as shown)
 
 **A-2469** Expanded Feb–Aug 2025 Concurrent Timeline Bundle
 
-**A-2469.1** Host-constructed chronology linking Why Refi contracts, Macron/Brigitte stop-talking calls, June Iran debate / Instagram purge / UVU drill, July Netanyahu visit + college-video archive + UVU courtyard ask, SAS Epstein blowup / donor pullouts, Charlie Epstein walk-back, Egyptian planes, Hamptons BB call, and NYT Epstein situation-room meetings.
+**A-2469.1** Host-constructed chronology linking Yrefy contracts, Macron/Brigitte stop-talking calls, June Iran debate / Instagram purge / UVU drill, July Netanyahu visit + college-video archive + UVU courtyard ask, SAS Epstein blowup / donor pullouts, Charlie Epstein walk-back, Egyptian planes, Hamptons BB call, and NYT Epstein situation-room meetings.
 
 Event Timestamp: 00:00:00–00:00:01
 Video Timestamp: 00:23:22
@@ -437,7 +437,7 @@ Confidence Level: Medium
 
 ---
 
-**A-2809.4** Host verbal reference to TPUSA employees (past and present) who describe Why Refi as shady, say it rarely pays, and describe Dylan Erickson's dual role (not shown)
+**A-2809.4** Host verbal reference to TPUSA employees (past and present) who describe Yrefy as shady, say it rarely pays, and describe Dylan Erickson's dual role (not shown)
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:10:21
@@ -459,9 +459,9 @@ Confidence Level: Low
 
 ---
 
-**A-2810** Daily Mail Why Refi Article Bundle
+**A-2810** Daily Mail Yrefy Article Bundle
 
-**A-2810.1** On-screen Daily Mail headline and article text read aloud on Why Refi paying Turning Point USA for speaking slots, its $750,000 state sanctions and Massachusetts regulatory issues
+**A-2810.1** On-screen Daily Mail headline and article text read aloud on Yrefy paying Turning Point USA for speaking slots, its $750,000 state sanctions and Massachusetts regulatory issues
 
 Quoted text: "shady student loan refinance company accused of paying Turning Point USA for speaking slots so that it can pitch to college kids."
 
@@ -682,7 +682,7 @@ Episode Count: (series-level)
 
 **N-14** Andrew Kolvet
 
-Chyros partner Johnny Moore link; prior PR path; contrasted with Andrew Wilson as improper leak recipient.
+Kairos partner Johnny Moore link; prior PR path; contrasted with Andrew Wilson as improper leak recipient.
 
 Evidence Count: (series-level)
 Claim Count: (series-level)
@@ -742,7 +742,7 @@ Episode Count: (series-level)
 
 **N-438** Johnnie Moore
 
-Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kolvet/Chyros partnership.
+Takes chair of Gaza Humanitarian Aid Project June 3; host ties to Kolvet/Kairos partnership.
 
 Evidence Count: (series-level)
 Claim Count: (series-level)
@@ -922,7 +922,7 @@ Episode Count: (series-level)
 
 **N-10863** July 2025 Charlie Kirk Pressure Concurrent with UVU Booking
 
-Parent frame extended by Why Refi addendum and Epstein situation-room overlays.
+Parent frame extended by Yrefy addendum and Epstein situation-room overlays.
 
 Evidence Count: (series-level)
 Claim Count: (series-level)
@@ -981,7 +981,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10870** Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-10870** Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum
 
 New topic: February master contract plus July 25 fall-tour addendum; conflicts-of-interest allegations (Dylan Erickson); Daily Mail sanctions coverage; UVU presence of Laine Schoneberger.
 
@@ -994,7 +994,7 @@ Investigative Pressure: High
 
 ---
 
-**N-10871** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)
+**N-10871** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)
 
 New topic: integrated chronology arguing Epstein-file panic, donor warfare, Macron pressure, and UVU booking are non-coincidental.
 
@@ -1063,7 +1063,7 @@ Online debater who offered the host a paid Charlie Kirk debate and claimed a TPU
 **N-19** Laine Schoneberger
 
 Node Type: Person
-Why Refi CEO. Host says he spoke briefly at the UVU pre-show and co-founded the sponsoring company.
+Yrefy CEO. Host says he spoke briefly at the UVU pre-show and co-founded the sponsoring company.
 
 *Related: C-3609, C-3610*
 
@@ -1072,7 +1072,7 @@ Why Refi CEO. Host says he spoke briefly at the UVU pre-show and co-founded the 
 **N-20** Dylan Erickson
 
 Node Type: Person
-TPUSA sponsorship lead, described by the host as a former TPUSA employee with conflicts around the Why Refi deal.
+TPUSA sponsorship lead, described by the host as a former TPUSA employee with conflicts around the Yrefy deal.
 
 *Related: C-3609*
 
@@ -1081,7 +1081,7 @@ TPUSA sponsorship lead, described by the host as a former TPUSA employee with co
 **N-21** Dennis Fenstermaker
 
 Node Type: Person
-Co-founder of Why Refi with Laine Schoneberger, as read from coverage of the sponsorship company (2017).
+Co-founder of Yrefy with Laine Schoneberger, as read from coverage of the sponsorship company (2017).
 
 *Related: C-3609*
 
@@ -1090,7 +1090,7 @@ Co-founder of Why Refi with Laine Schoneberger, as read from coverage of the spo
 **N-23** Alan Collinge
 
 Node Type: Person
-Founder of Student Loan Justice. Host quotes him criticizing TPUSA's Why Refi sponsorship.
+Founder of Student Loan Justice. Host quotes him criticizing TPUSA's Yrefy sponsorship.
 
 *Related: C-3609*
 
@@ -1099,7 +1099,7 @@ Founder of Student Loan Justice. Host quotes him criticizing TPUSA's Why Refi sp
 **N-24** Riley Gaines
 
 Node Type: Person
-Athlete named as a Why Refi contracted appearance in the February 2025 TPUSA sponsorship agreement.
+Athlete named as a Yrefy contracted appearance in the February 2025 TPUSA sponsorship agreement.
 
 *Related: C-3609*
 
@@ -1275,7 +1275,7 @@ Named by the host in the 'House of Maxwell' episode summary about textbook print
 
 **N-89** Benny Johnson
 
-Listed among proposed influencers in the Why Refi social media blitz.
+Listed among proposed influencers in the Yrefy social media blitz.
 
 *Related: C-6380*
 
@@ -1283,7 +1283,7 @@ Listed among proposed influencers in the Why Refi social media blitz.
 
 **N-95** Jack Posobiec
 
-Listed among proposed influencers in the Why Refi social media blitz (transcribed Jack Pobic).
+Listed among proposed influencers in the Yrefy social media blitz (transcribed Jack Pobic).
 
 *Related: C-6380*
 
@@ -1291,7 +1291,7 @@ Listed among proposed influencers in the Why Refi social media blitz (transcribe
 
 **N-99** Alex Clark
 
-Listed among proposed influencers in the Why Refi social media blitz.
+Listed among proposed influencers in the Yrefy social media blitz.
 
 *Related: C-6380*
 
@@ -1411,7 +1411,7 @@ Topic for donor withdrawals after SAS.
 
 **N-10070** Daily Mail
 
-Publisher of the Why Refi article read on air.
+Publisher of the Yrefy article read on air.
 
 *Related: C-6372, C-6373, C-6374*
 
@@ -1637,9 +1637,9 @@ Topic for Gor's move to India.
 
 **C-3608** Erika sought “big hitters” donor lists via Dominate 2.0 Telegram before Mar-a-Lago fundraising
 
-Claim Timestamp: 00:02:39
+Claim Timestamp: 00:05:00
 
-Claim: Leaked Telegram shows Erika asking who the big hitters are and requesting a full donor list to make notes; staff reply with new six-figure donors sorted by MGO–host treats this as ending the pure grieving-widow narrative.
+Claim: The host says leaked Telegram messages show Erika asking who the big hitters are and requesting a full donor list to make notes, with staff replying with new six-figure donors sorted by MGO, and treats this as ending the pure grieving-widow narrative.
 
 Anchored Artifacts: A-2466.1
 Mentions: N-2
@@ -1650,11 +1650,11 @@ Investigative Direction: Preserve message screenshots with metadata if available
 
 ---
 
-**C-3609** Why Refi signed a detailed ~$2.25M TPUSA sponsorship contract in February 2025
+**C-3609** Yrefy signed a detailed ~$2.25M TPUSA sponsorship contract in February 2025
 
 Claim Timestamp: 00:15:21
 
-Claim: Host displays a February 2025 contract under which Why Refi pays TPUSA ~$2.25M (payment schedule possibly ~$2.47M) for extensive event, influencer, and branding benefits through early 2026, including a proposed Why Refi Theater. Host names TPUSA sponsorship lead Dylan Erickson, Why Refi CEO Laine Schoneberger (company founded with Dennis Fenstermaker), contracted appearances by Riley Gaines, and criticism from Student Loan Justice founder Alan Collinge.
+Claim: Host displays a February 2025 contract under which Yrefy pays TPUSA ~$2.25M (payment schedule possibly ~$2.47M) for extensive event, influencer, and branding benefits through early 2026, including a proposed Yrefy Theater. Host names TPUSA sponsorship lead Dylan Erickson, Yrefy CEO Laine Schoneberger (company founded with Dennis Fenstermaker), contracted appearances by Riley Gaines, and criticism from Student Loan Justice founder Alan Collinge.
 
 Anchored Artifacts: A-2467.1
 Mentions: N-19, N-20, N-21, N-23, N-24
@@ -1665,18 +1665,18 @@ Investigative Direction: Hash/store contract PDFs; verify signatories and whethe
 
 ---
 
-**C-3610** July 25 2025 Why Refi addendum paid ~$1.25M more solely for Charlie’s fall campus tour
+**C-3610** July 25 2025 Yrefy addendum paid ~$1.25M more solely for Charlie’s fall campus tour
 
 Claim Timestamp: 00:20:10
 
-Claim: Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot–host ties timing to donor pullouts (e.g., Bob Shaman) and UVU booking pressures; Laine Schoneberger spoke ~5 minutes at UVU.
+Claim: Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot; host ties timing to donor pullouts (e.g., Bob Shillman) and UVU booking pressures; Laine Schoneberger spoke ~5 minutes at UVU.
 
 Anchored Artifacts: A-2468.1, A-2467.1
 Mentions: N-19, N-98
 
 Related Nodes: N-10860, N-10863, N-10870
 
-Investigative Direction: Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Why Refi picked UVU.
+Investigative Direction: Confirm addendum execution date and wire evidence; separate confirmed contract terms from hearsay that Yrefy picked UVU.
 
 ---
 
@@ -1684,10 +1684,10 @@ Investigative Direction: Confirm addendum execution date and wire evidence; sepa
 
 Claim Timestamp: 00:23:22
 
-Claim: Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram purge/UVU drill, July Netanyahu visit + college-video archive + July 10 UVU ask, SAS Epstein blowup/donor exits, Charlie’s Epstein walk-back, Egyptian planes, Hamptons BB call, and Why Refi addendum are non-coincidental when plotted together. Host also recalls Mitt Romney and Benjamin Netanyahu meeting as BCG advisers.
+Claim: Host argues Macron/Brigitte pressure calls, June Iran debate/Instagram purge/UVU drill, July Netanyahu visit + college-video archive + July 10 UVU ask, SAS Epstein blowup/donor exits, Charlie’s Epstein walk-back, Egyptian planes, Hamptons BB call, and Yrefy addendum are non-coincidental when plotted together. Host also recalls Mitt Romney and Benjamin Netanyahu meeting as BCG advisers.
 
 Anchored Artifacts: A-2469.1
-Mentions: N-5, N-7, N-28, N-36, N-82, N-378
+Mentions: N-82, N-378, N-36, N-28, N-1
 
 Related Nodes: N-10033, N-10860, N-10863, N-10868, N-10871
 
@@ -1702,7 +1702,7 @@ Claim Timestamp: 00:29:19
 Claim: Citing New York Times reporting by Maggie Haberman and Jonathan Swan, host lists mid-July and August meetings on Epstein files with JD Vance, Susie Wiles, David Warrington, Todd Blanche, Steven Cheung, Karoline Leavitt, Taylor Budowich, James Blair, Stanley Woodward, Kash Patel, and Pam Bondi; notes Trump’s absence and temporal adjacency to Candace Epstein episodes and Charlie’s walk-back/scolding.
 
 Anchored Artifacts: A-2470.1
-Mentions: N-4, N-9, N-29, N-69, N-85, N-127, N-131, N-151, N-152, N-153, N-159, N-161, N-536, N-281
+Mentions: N-4, N-9, N-29, N-69, N-85, N-127, N-131, N-151, N-152, N-153, N-159, N-161, N-536, N-281, N-5, N-3, N-1
 
 Related Nodes: N-10324, N-10871
 
@@ -1714,10 +1714,10 @@ Investigative Direction: Pull primary NYT passages; verify attendee lists; keep 
 
 Claim Timestamp: 00:47:17
 
-Claim: Host, following published interrogation narrative and Tucker parents interview, asserts agents ignored distress/stimming, treated continued denial as a new crime, and extracted a confession after Cole twice denied recognizing the person in video.
+Claim: Per the account of Brian Cole Jr.'s interrogation that the host reads, agents ignored his distress and stimming, told him lying to federal agents is another crime, and he said yes to being the man in the video after twice denying recognizing him; the host calls the coerced confession positively sickening and cites Tucker Carlson's interview with Cole's parents.
 
 Anchored Artifacts: A-2471.1
-Mentions: N-22, N-25
+Mentions: N-25, N-22
 
 Related Nodes: N-10872
 
@@ -1729,7 +1729,7 @@ Investigative Direction: Obtain full interrogation recordings/transcripts and de
 
 Claim Timestamp: 00:51:47
 
-Claim: Host shows Scripps packages in which the same correspondents present minor prior traffic bodycam for Robinson and later for Cole, arguing a federal narrative-management pattern; adds speculative note that Erika attended daycare in a Cincinnati Scripps building.
+Claim: The host plays Scripps News clips in which the same correspondent, Lori Jane Gliha, presents body-camera footage from minor traffic crashes of Tyler Robinson (2022) and Brian Cole Jr. (2024), argues a federal narrative-management pattern, and adds that Erika attended daycare in the Scripps building in Cincinnati.
 
 Anchored Artifacts: A-2472.1
 Mentions: N-2, N-25, N-26, N-40
@@ -1741,7 +1741,7 @@ Related Nodes: N-10873
 **C-3615** Erika’s Israel posture and partner choices contradict heaven-focused widow branding
 
 Claim Timestamp: 01:00:00
-Claim: Host argues loyalty depends on loyalty to Charlie’s direction: Erika’s silence/glowing Israel partnerships and collaboration with figures like Andrew Wilson (text leaks) after allegedly being more critical than Charlie privately registers as betrayal of Charlie’s late trajectory.
+Claim: A viewer comment the host reads says loyalty to Erika depends on her loyalty to Charlie; the host agrees and argues that Erika's changed stance on Israel, silence and glowing Israel partnerships, and teaming up with Andrew Wilson (text leaks) register as fake after she allegedly pushed Charlie to be more critical of Israel.
 Anchored Artifacts: A-2473.1
 Mentions: N-1, N-2, N-18
 Related Nodes: N-10056, N-10864
@@ -1764,7 +1764,7 @@ Investigative Direction: Forensic Telegram export if ever obtained; until then k
 
 Claim Timestamp: 00:00:01
 
-Claim: The host says that in one batch she received contracts Turning Point USA signed in 2025 and that, in her view, they confirm her suspicion that Charlie's tour came together rather quickly because he was put under financial pressure.
+Claim: The host says that in one batch she received contracts Turning Point USA signed in 2025 and that, in her view, they confirm her suspicion that Charlie's tour came together rather quickly and perhaps because he was put under financial pressure.
 
 Transcript Snippet: we received contracts that Turning Point USA signed as well back in 2025, which in my view confirm uh my general suspicion that Charlie's tour came together rather quickly
 
@@ -1870,7 +1870,7 @@ Investigative Direction: Check TPUSA or Turning Point Action donor disclosures a
 
 Claim Timestamp: 00:04:28
 
-Claim: The host says people at Turning Point USA are disgusted and feel lied to about many things, especially after the UVU independent review, and that this is why leaks are reaching her.
+Claim: The host says people at Turning Point USA are disgusted and feel lied to about many things, especially after the UVU independent review.
 
 Transcript Snippet: people at Turning Point USA are pretty disgusted um and feeling lied to about a lot of things.
 
@@ -1900,7 +1900,7 @@ Investigative Direction: Obtain the Wilson-released messages and determine who s
 
 Claim Timestamp: 00:06:30
 
-Claim: The host says that very early in her investigation, while she was being attacked, she received a tip from someone within the organization who said the fall tour came together quite unusually.
+Claim: The host says that very early in her investigation, while she was being attacked, she received a tip from someone within the organization who said the tour came together quite unusually.
 
 Transcript Snippet: I had received a tip from someone within the organization while I was being attacked and gaslit for just asserting my experience
 
@@ -1972,64 +1972,64 @@ Investigative Direction: Compile TPUSA's public statements on Charlie's Israel p
 
 ---
 
-**C-6365** Tipster says Why Refi came in with extra money to offset lost revenue
+**C-6365** Tipster says Yrefy came in with extra money to offset lost revenue
 
 Claim Timestamp: 00:08:45
 
-Claim: According to the host's tip, the company Why Refi came in with a large amount of extra money in an offer to make up some of the lost donor revenue.
+Claim: According to the host's tip, the company Yrefy came in with a large amount of extra money in an offer to make up some of the lost donor revenue.
 
 Transcript Snippet: the company Y Refi came in with a ton a ton of extra money and they had also, you know, in this nice offer to make up some of the lost revenue.
 
 Anchored Artifacts: A-2809.2, A-2468.1
-Mentions: N-98
+Mentions: 
 Related Nodes: N-10870
 Supports: C-6363
 Investigative Direction: Compare the timing of Bob Shillman's withdrawal with the July 25, 2025 addendum payment schedule and wire records.
 
 ---
 
-**C-6366** Tipster alleges Why Refi had a say in tour stops; host says no evidence beyond hearsay
+**C-6366** Tipster alleges Yrefy had a say in tour stops; host says no evidence beyond hearsay
 
 Claim Timestamp: 00:09:25
 
-Claim: The host says the tipster alleged Why Refi was given a say over where Charlie's tour stops would be, but the host states she cannot demonstrate that Why Refi hand-selected UVU and that there is no evidence beyond hearsay.
+Claim: The host says the tipster alleged Yrefy was given a say over where Charlie's tour stops would be, but the host states she cannot demonstrate that Yrefy hand-selected UVU and that there is no evidence beyond hearsay.
 
 Transcript Snippet: while I still cannot demonstrate that why Rei hand selected Utah Valley University, there is actually no evidence for that outside of hearsay.
 
 Anchored Artifacts: A-2809.2
 Mentions: N-3
 Related Nodes: N-10870, N-10012
-Investigative Direction: Seek the stop-selection correspondence between TPUSA events staff and Why Refi; the host herself classes this as unconfirmed.
+Investigative Direction: Seek the stop-selection correspondence between TPUSA events staff and Yrefy; the host herself classes this as unconfirmed.
 
 ---
 
-**C-6367** Host says Why Refi became a massive TPUSA sponsor in 2024 right after she stopped touring with Charlie
+**C-6367** Host says Yrefy became a massive TPUSA sponsor in 2024 right after she stopped touring with Charlie
 
 Claim Timestamp: 00:10:05
 
-Claim: The host says Why Refi came in as a massive sponsor of Turning Point USA in 2024, right after she stopped touring with Charlie Kirk.
+Claim: The host says Yrefy came in as a massive sponsor of Turning Point USA in 2024, right after she stopped touring with Charlie Kirk.
 
 Transcript Snippet: They came in as a massive sponsor for Turning Point USA in 2024, of course, right after Candace stopped touring with Charlie Kirk
 
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10870
-Investigative Direction: Obtain the 2024 TPUSA sponsor lists and Why Refi's first sponsorship agreement date.
+Investigative Direction: Obtain the 2024 TPUSA sponsor lists and Yrefy's first sponsorship agreement date.
 
 ---
 
-**C-6368** Host alleges Dylan Erickson is a former TPUSA employee, now a contractor, also paid by Why Refi
+**C-6368** Host alleges Dylan Erickson is a former TPUSA employee, now a contractor, also paid by Yrefy
 
 Claim Timestamp: 00:10:21
 
-Claim: The host says TPUSA's sponsorship lead Dylan Erickson was once a TPUSA employee, is allegedly now a contractor, and is also employed or paid by Why Refi, which she says would be a conflict of interest.
+Claim: The host says TPUSA's sponsorship lead Dylan Erickson was once a TPUSA employee, is allegedly now a contractor, and is also employed or paid by Yrefy, which she says would be a conflict of interest.
 
 Transcript Snippet: he was once an employee of Turning Point uh of Turning Point USA. They say now he's a contractor, I'll say allegedly.
 
 Anchored Artifacts: A-2809.4
 Mentions: N-20
 Related Nodes: N-10870
-Investigative Direction: Obtain Erickson's contractor agreement with TPUSA and any Why Refi payroll or consulting records, and review the conflict-of-interest policy.
+Investigative Direction: Obtain Erickson's contractor agreement with TPUSA and any Yrefy payroll or consulting records, and review the conflict-of-interest policy.
 
 ---
 
@@ -2048,11 +2048,11 @@ Investigative Direction: Identify the company, its principals and travel invoice
 
 ---
 
-**C-6370** Host relays claim that Why Refi has many TPUSA contracts but does not pay
+**C-6370** Host relays claim that Yrefy has many TPUSA contracts but does not pay
 
 Claim Timestamp: 00:11:10
 
-Claim: The host says employees told her Why Refi has a lot of contracts with Turning Point USA but never really pays up, which she says she cannot confirm and offers with 'allegedly'.
+Claim: The host says employees told her Yrefy has a lot of contracts with Turning Point USA but never really pays up, which she says she cannot confirm and offers with 'allegedly'.
 
 Transcript Snippet: Apparently, they have a lot of contracts, but they don't ever really pay up.
 
@@ -2078,7 +2078,7 @@ Investigative Direction: Obtain flight and charter manifests for September 9-10,
 
 ---
 
-**C-6372** Daily Mail headline: Why Refi accused of paying TPUSA for speaking slots to pitch to college students
+**C-6372** Daily Mail headline: Yrefy accused of paying TPUSA for speaking slots to pitch to college students
 
 Claim Timestamp: 00:11:10
 
@@ -2093,11 +2093,11 @@ Investigative Direction: Retrieve the Daily Mail article and confirm date, bylin
 
 ---
 
-**C-6373** Daily Mail reports Why Refi faced $750,000 in state sanctions last year
+**C-6373** Daily Mail reports Yrefy faced $750,000 in state sanctions last year
 
 Claim Timestamp: 00:12:40
 
-Claim: Reading the Daily Mail article, the host says Why Refi last year faced $750,000 in state sanctions in a settlement of accusations of deceptive marketing aimed at private funders, and that the company neither admitted nor denied them.
+Claim: Reading the Daily Mail article, the host says Yrefy last year faced $750,000 in state sanctions in a settlement of accusations of deceptive marketing aimed at private funders, and that the company neither admitted nor denied them.
 
 Transcript Snippet: the Daily Mail can reveal Ryi last year faced $750,000 in state sanctions in a settlement of accusations of deceptive marketing and investment materials aimed at private funders
 
@@ -2112,7 +2112,7 @@ Investigative Direction: Obtain the state regulator's consent order or settlemen
 
 Claim Timestamp: 00:13:56
 
-Claim: The host reads that Why Refi co-founder Laine Schoneberger told the Daily Mail his company changed its investment marketing materials and put to bed potentially $2.1 million in regulatory woes in Massachusetts in 2025.
+Claim: The host reads that Yrefy co-founder Laine Schoneberger told the Daily Mail his company changed its investment marketing materials and put to bed potentially $2.1 million in regulatory woes in Massachusetts in 2025.
 
 Transcript Snippet: has put to bed potentially 2.1 million in regulatory woes that it had in Massachusetts in 2025.
 
@@ -2158,12 +2158,12 @@ Investigative Direction: Pull the September 2, 2025 internal memo announcing the
 
 Claim Timestamp: 00:15:21
 
-Claim: The host says the February 2025 Why Refi contract states explicitly that all previous contracts are voided and canceled, so its payment schedule (about $2.47 million by her count) should represent everything.
+Claim: The host says the February 2025 Yrefy contract states explicitly that all previous contracts are voided and canceled, so its payment schedule (about $2.47 million by her count) should represent everything.
 
 Transcript Snippet: the contract says explicitly that all previous contracts are voided and canceled.
 
 Anchored Artifacts: A-2467.1
-Mentions: N-19
+Mentions: 
 Related Nodes: N-10870
 Investigative Direction: Read the contract's entire-agreement clause and total the payment schedule to test the $2.25 million versus $2.47 million difference.
 
@@ -2180,7 +2180,7 @@ Transcript Snippet: You have the believer summit that ended up being cancelled, 
 Anchored Artifacts: A-2467.1
 Mentions: 
 Related Nodes: N-10870
-Investigative Direction: Check TPUSA announcements for the cancelled Believer Summit and whether any Why Refi payment was tied to it.
+Investigative Direction: Check TPUSA announcements for the cancelled Believer Summit and whether any Yrefy payment was tied to it.
 
 ---
 
@@ -2188,7 +2188,7 @@ Investigative Direction: Check TPUSA announcements for the cancelled Believer Su
 
 Claim Timestamp: 00:17:29
 
-Claim: The host reads that the contract gives Why Refi event appearances by Riley Gaines at the Winter Gala, AmFest and the spring investor retreat, a social post and IG story per event, and three video endorsements shot at TPUSA headquarters and events.
+Claim: The host reads that the contract gives Yrefy event appearances by Riley Gaines at the Winter Gala, AmFest and the spring investor retreat, a social post and IG story per event, and three video endorsements shot at TPUSA headquarters and events.
 
 Transcript Snippet: event appearances, they want her for the Winter Gayla, America Fest, the spring investor retreat, the social media post, IG story for each event, three time video endorsements shot at Turning Point USA headquarters and events.
 
@@ -2210,15 +2210,15 @@ Transcript Snippet: These are their proposed influencers. May vary on availabili
 Anchored Artifacts: A-2467.1
 Mentions: N-99, N-24, N-89, N-95
 Related Nodes: N-10870
-Investigative Direction: Check each named influencer's posts for Why Refi promotion and any disclosure of sponsorship.
+Investigative Direction: Check each named influencer's posts for Yrefy promotion and any disclosure of sponsorship.
 
 ---
 
-**C-6381** Contract gives Why Refi hotel rooms, six inauguration seats and 25 Turning Point Ball tickets
+**C-6381** Contract gives Yrefy hotel rooms, six inauguration seats and 25 Turning Point Ball tickets
 
 Claim Timestamp: 00:19:08
 
-Claim: The host reads that the contract gives Why Refi four hotel rooms, six seated tickets to the inauguration and 25 tickets to the Turning Point Ball, plus naming of a Why Refi theater and the entire spring campus tour.
+Claim: The host reads that the contract gives Yrefy four hotel rooms, six seated tickets to the inauguration and 25 tickets to the Turning Point Ball, plus naming of a Yrefy theater and the entire spring campus tour.
 
 Transcript Snippet: They get four hotel rooms, six seated tickets to the inauguration, 25 tickets to the Turning Point Ball
 
@@ -2248,7 +2248,7 @@ Investigative Direction: Obtain the full addendum PDF and confirm signatories, e
 
 Claim Timestamp: 00:21:01
 
-Claim: The host says the addendum gives Why Refi a branded wall, presenting sponsorship title and premier branding for evening campus sessions across 12 events, plus five minutes of mainstage speaking and an email to attendees.
+Claim: The host says the addendum gives Yrefy a branded wall, presenting sponsorship title and premier branding for evening campus sessions across 12 events, plus five minutes of mainstage speaking and an email to attendees.
 
 Transcript Snippet: So, they're looking to do this for 12 events. That makes that clear.
 
@@ -2274,11 +2274,11 @@ Investigative Direction: Compare the addendum deliverables with UVU stage logist
 
 ---
 
-**C-6385** Host says people claim Why Refi never actually pays the money on its contracts
+**C-6385** Host says people claim Yrefy never actually pays the money on its contracts
 
 Claim Timestamp: 00:22:13
 
-Claim: The host says people told her Why Refi never actually gets or pays the money and that the contracts exist only on paper, which she says she cannot confirm.
+Claim: The host says people told her Yrefy never actually gets or pays the money and that the contracts exist only on paper, which she says she cannot confirm.
 
 Transcript Snippet: Also, people saying that they actually never actually get the money.
 
@@ -2379,18 +2379,18 @@ Investigative Direction: Verify the appointment date through GHF announcements a
 
 ---
 
-**C-6392** Host says Andrew Kolvet worked with Chyros, Johnny Moore's company, before starting his own PR firm
+**C-6392** Host says Andrew Kolvet worked with Kairos, Johnny Moore's company, before starting his own PR firm
 
 Claim Timestamp: 00:25:31
 
-Claim: The host says Johnny Moore is Andrew Kolvet's partner at the Kairos Company, that Kolvet worked with Chyros before starting his own PR firm, and that TPUSA was taken on through Chyros, with Kolvet's email then at Chyros.
+Claim: The host says Johnny Moore is Andrew Kolvet's partner at the Kairos Company, that Kolvet worked with Kairos before starting his own PR firm, and that TPUSA was taken on through Kairos, with Kolvet's email then at the Kairos Company.
 
-Transcript Snippet: Before Andrew started his own PR firm, he was working with Chyros.
+Transcript Snippet: Before Andrew started his own PR firm, he was working with Kairos.
 
 Anchored Artifacts: A-2469.1
 Mentions: N-14, N-438
 Related Nodes: 
-Investigative Direction: Obtain Kolvet's and TPUSA's vendor records with Chyros and the dates of his transition to his own firm.
+Investigative Direction: Obtain Kolvet's and TPUSA's vendor records with Kairos and the dates of his transition to his own firm.
 
 ---
 
@@ -2736,7 +2736,7 @@ Claim: The host says it has since been confirmed that Netanyahu called during th
 Transcript Snippet: BB Netanyahu did in fact call Erika was present for this phone call and I was told that he offered to take turning point to the next level in exchange for what was never made
 
 Anchored Artifacts: A-2469.1
-Mentions: N-36, N-2, N-1
+Mentions: N-36, N-2
 Related Nodes: N-10018, N-10446
 Supports: C-1129
 Investigative Direction: Identify who confirmed the call and obtain the call time and participants.
@@ -2776,7 +2776,7 @@ Investigative Direction: Compare attendee lists and day-by-day schedules for the
 
 **C-6418** Host says a fake MySpace account for her was archived on August 4
 
-Claim Timestamp: 00:33:08
+Claim Timestamp: 00:34:20
 
 Claim: The host says that on August 4 a fake MySpace account was archived for her.
 
@@ -2823,7 +2823,7 @@ Investigative Direction: Check Wayback Machine capture history for the Flickr ac
 
 Claim Timestamp: 00:34:39
 
-Claim: The host says her August 13 Epstein episode, 'Mega Maga and the MSAD', recounted that Bill Clinton stopped searching for a White House mole nicknamed Mega after Netanyahu allegedly blackmailed him with Monica Lewinsky tapes.
+Claim: The host says her August 13 Epstein episode, 'Mega Maga and the Mossad', recounted that Bill Clinton stopped searching for a White House mole nicknamed Mega after Netanyahu allegedly blackmailed him with Monica Lewinsky tapes.
 
 Transcript Snippet: Bill Clinton set out to find until he got blackmailed by BB Netanyahu who said we've got Monica Lewinsky um and you on tape
 
@@ -2940,7 +2940,7 @@ Investigative Direction: Compare Harpole's account with the independent review's
 
 ---
 
-**C-6429** Host says an Operation Valhalla strike began on August 24 between civilians and military training in Minnesota
+**C-6429** Host Says an Operation Valhalla Strike Began Between Civilians and Military Training in Minnesota
 
 Claim Timestamp: 00:38:16
 
@@ -3024,7 +3024,7 @@ Claim: The host says her team asked Turning Point USA why people who worked ther
 Transcript Snippet: we asked Turning Point USA explicitly why we have people that worked there saying that Erika was in control of the modeling apartments company that John Luke Brunell started
 
 Anchored Artifacts: 
-Mentions: N-2, N-530, N-571
+Mentions: N-2, N-530
 Related Nodes: N-10519, N-10524
 Investigative Direction: Establish the company's corporate records and any role of Erika Kirk; identify the former staff and request TPUSA's response.
 
@@ -3114,7 +3114,7 @@ Claim: The host plays a Scripps News segment on 2024 Virginia crash bodycam in w
 Transcript Snippet: Cole was driving the blue Nissan Sentra when he rearended the truck in front of him.
 
 Anchored Artifacts: A-2811.1, A-2472.1
-Mentions: N-25, N-26
+Mentions: N-25
 Related Nodes: N-10873
 Investigative Direction: Obtain the Virginia police record of the 2024 crash and Scripps's records request showing how it was obtained.
 
@@ -3139,7 +3139,7 @@ Investigative Direction: Obtain the Scripps records request and the department's
 
 Claim Timestamp: 00:55:15
 
-Claim: The host says her team's earlier series found Erika attended daycare in 1991 at a corporate building built in 1990 that was the Scripps building in Cincinnati, Ohio, at 312 Walnut Street.
+Claim: The host says her team's earlier series found Erika attended daycare in 1991 at a corporate building she thinks was built in 1990, which was the Scripps building in Cincinnati, Ohio, at 312 Walnut Street.
 
 Transcript Snippet: the building was built in 1990 and Erika was attending daycare there in 1991 and um it was actually the Scripps building in Cincinnati, Ohio.
 

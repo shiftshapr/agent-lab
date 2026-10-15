@@ -453,7 +453,7 @@ Investigative Pressure: Medium
 
 **N-156** Irina Mappin
 
-TPUSA donor; co-author of the public letter supporting Candace's investigation. Name appears in the transcript under multiple spellings: "Arena," "Reena," "Aarina."
+TPUSA donor; co-author of the public letter supporting Candace's investigation. Name appears in the transcript under multiple spellings: "Irina," "Reena," "Aarina."
 
 Evidence Count: 1
 Claim Count: 3
@@ -2903,11 +2903,11 @@ Confidence: medium
 
 ## VI. Optional Flags
 
-- **Name uncertainty – N-156 (Irina Mappin):** The transcript renders the Mappin wife's name under multiple spellings/pronunciations – "Arena" (introduction and letter attribution),"Reena" (Candace post-reading),"Aarina" (one letter-attribution variant). Most likely transcription ambiguity for a single individual; preserved as "Irina Mappin" pending verification. The surname "Mappin" is given only by Candace, not in the letter itself, which signs off as "John and Arena."
+- **Name uncertainty – N-156 (Irina Mappin):** The transcript renders the Mappin wife's name under multiple spellings/pronunciations – "Irina" (introduction and letter attribution),"Reena" (Candace post-reading),"Aarina" (one letter-attribution variant). Most likely transcription ambiguity for a single individual; preserved as "Irina Mappin" pending verification. The surname "Mappin" is given only by Candace, not in the letter itself, which signs off as "John and Irina."
 - **Artifact verbally referenced but not shown – A-1233.1 / N-7 (Frank Turek podcast):** The Frank Turek podcast containing Charlie Kirk's "they want him dead" statement is referenced via a YouTube comment (Luna) and not directly played or displayed. Verification requires locating the original podcast episode.
 - **Artifact read-aloud but audio playback unverified – A-1234.1 (Josh Hammer show appearance):** The Josh Hammer Zoom-call statement is rendered by Candace in quotes but no audio playback markers (>>) appear; cannot confirm whether the original show audio was played.
 - **Claim failed admission test – none formally:** All inscribed claims passed the artifact-anchor, falsifiability, and rhetoric-removal tests. Several host framing statements (e.g., "this is a military hit that involved foreign actors," "they are protecting themselves and their bosses") were excluded as failing the rhetoric-removal test.
 - **Contradiction noted but not dual-inscribed:** Charlie Kirk's Israel-position framing now has artifact-anchored opposing sides – (a) Hammer/Loomer/Fuentes public posture of unwavering pro-Israel commitment to death (A-1227.4, A-1227.6, A-1234.1) versus (b) Kolvet "complicated/wrestle" + text chain (A-1228.4, A-1232.1). Both sides artifact-anchored; not split into a separate "Contradiction" register per protocol but cross-referenced through C-1382 / C-1397.
-- **Transcript ambiguity – "Jed Arena":** Candace later jokes "you can be angry at Jed Arena for writing that"; appears to be wordplay on "Arena." Flagged for potential transcription or rhetorical confusion.
+- **Transcript ambiguity – "Jed Irina":** Candace later jokes "you can be angry at Jed Irina for writing that"; appears to be wordplay on "Irina." Flagged for potential transcription or rhetorical confusion.
 
 ---

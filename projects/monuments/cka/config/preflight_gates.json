@@ -15,6 +15,21 @@
     ],
     "reviewed": [
       {
+        "claim": "C-3413",
+        "node": "N-27",
+        "reason": "claim text: 'Ye's Chicago concert' (Kanye West); verification pass 2026-10-15"
+      },
+      {
+        "claim": "C-3422",
+        "node": "N-27",
+        "reason": "claim text: 'Ye returned to Chicago' (Kanye West); verification pass 2026-10-15"
+      },
+      {
+        "claim": "C-3592",
+        "node": "N-36",
+        "reason": "claim text: 'White House/BB confrontation' (Benjamin Netanyahu); verification pass 2026-10-15"
+      },
+      {
         "claim": "C-6081",
         "node": "N-113",
         "reason": "claim text: 'such as her sister' (Candace Owens' sister); verification pass 2026-10-15"

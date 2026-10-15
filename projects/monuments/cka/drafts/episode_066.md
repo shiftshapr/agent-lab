@@ -1557,7 +1557,7 @@ Claim Timestamp: 00:51:02
 
 Claim: The host says that we now know the CIA and the Mossad trained radicals, citing Osama bin Laden and others as former CIA agents.
 
-Transcript Snippet: Obviously, um now we know the CIA and the MSAD trains, all of these radicals.
+Transcript Snippet: Obviously, um now we know the CIA and the Mossad trains, all of these radicals.
 
 Anchored Artifacts: 
 Mentions: N-3

@@ -784,7 +784,7 @@ Investigative Direction: Obtain UVU planning documents directly; verify timing o
 
 Claim Timestamp: 00:04:04
 
-Claim: Per a Turning Point USA official's statement to ABC News that the host reads, the UVU event was styled as open-to-public and unticketed, comparable to prior "Prove Me Wrong" campus events, with no crowd control.
+Claim: Per a Turning Point USA official's statement to ABC News that the host reads, the UVU event was styled as open-to-public and unticketed, comparable to prior "Prove Me Wrong" campus events; the host adds that such events have no crowd control.
 
 Anchored Artifacts: A-2393.1
 Mentions: N-2
@@ -817,7 +817,7 @@ Claim Timestamp: 00:17:00
 Claim: The 4plebs post allegedly found by "E" and cited via the Vox article referenced the same Charlie/Candace feud-seeding narrative – ask "gripers" to put Charlie against Candace; "fluff" Candace's ego; frame Candace as driven out of TPUSA by Kirk fearing her.
 
 Anchored Artifacts: A-2395.1, A-2396.1
-Mentions: N-3, N-14
+Mentions: N-1, N-2, N-3
 
 Related Nodes: N-10842
 
@@ -859,7 +859,7 @@ Investigative Direction: Obtain the school newsletter referenced by parents; ver
 
 Claim Timestamp: 00:20:36
 
-Claim: TPUSA's X post claimed 500+ "outstanding high school student attendees" attended the Nampa Christian School event voluntarily as part of the Club America tour.
+Claim: TPUSA's X post claimed 500+ "outstanding high school student attendees" at the Nampa Christian School event as part of the Club America tour.
 
 Anchored Artifacts: A-2398.1
 Mentions: N-2
@@ -904,7 +904,7 @@ Investigative Direction: Cross-check against TPUSA's prior statements on event s
 
 Claim Timestamp: 00:46:28
 
-Claim: Per a Politico profile of Blake Neff by Ian Ward that the host shows, the article is titled "Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed."
+Claim: Per a Politico profile of Blake Neff by Ian Ward that the host shows, the article's subtitle is "Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed." and its headline is "Charlie Kirk's lieutenant has second thoughts."
 
 Anchored Artifacts: A-2400.1
 Mentions: N-1, N-160, N-22
@@ -919,10 +919,10 @@ Investigative Direction: Obtain full Politico article and publication date.
 
 Claim Timestamp: 00:47:48
 
-Claim: The Politico profile (author Ian Ward) framed Blake Neff's position as a "maximalist position on free speech" – host notes this is the author's framing, not Neff's verbatim.
+Claim: In a clip the host plays, Tucker Carlson says the Politico profile (author Ian Ward) framed Blake Neff's position as a "maximalist position on free speech" and notes this is the author's framing, not a Neff quote.
 
 Anchored Artifacts: A-2400.2
-Mentions: N-160
+Mentions: N-160, N-22
 
 Related Nodes:
 
@@ -932,7 +932,7 @@ Investigative Direction: Verify direct attribution of the "maximalist" phrase to
 
 **C-3506** Clip Has Tucker Carlson Criticizing Blake Neff's "Make Our Peace With Censorship" Framing
 
-Claim Timestamp: 00:45:02
+Claim Timestamp: 00:49:47
 
 Claim: In a clip the host plays, Tucker Carlson criticizes Blake Neff's framing that "we may have to make our peace with censorship," reading from and rejecting the premise of the Politico profile.
 
@@ -947,12 +947,12 @@ Investigative Direction: Identify the original Tucker Carlson platform/episode w
 
 **C-3507** Blake Neff Verbatim Censorship Quote
 
-Claim Timestamp: 00:50:04
+Claim Timestamp: 00:49:42
 
-Claim: Blake Neff stated verbatim per Politico: "Either we have to make our peace with censorship and explain how we're going to do that or we have to explain how we're going to combat this without censorship. Period. But we've got to confront it."
+Claim: In a clip the host plays, Tucker Carlson reads what he calls a verbatim quote from Blake Neff: "Either we have to make our peace with censorship and explain how we're going to do that or we have to explain how we're going to combat this without censorship. Period. But we've got to confront it."
 
 Anchored Artifacts: A-2400.1
-Mentions: N-160
+Mentions: N-160, N-22
 
 Related Nodes: N-10845
 
@@ -991,7 +991,7 @@ Investigative Direction: Verify each production's distribution platform, release
 
 **C-3510** Host Says Erika Kirk and Andrew Kolvet Had an August 28, 2025 Call with Empress Films Executives
 
-Claim Timestamp: 00:34:54
+Claim Timestamp: 00:37:12
 
 Claim: The host says she learned that on August 28, 2025, Erika Kirk and Andrew Kolvet participated in a call with Empress Films executives, including executive producer Eben Davidson (LA office; ex-Paramount) and founder Emma Cooper, plus two unnamed producers.
 
@@ -1038,7 +1038,7 @@ Investigative Direction: Obtain Utah news reporting on precinct footage handling
 **C-3673** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 01:04:04
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: While promoting merchandise, the host says the "CIA" hats should actually say "decentralized intelligence agency" because "we got nothing to hide."
 Transcript Snippet: ...you can buy a CIA hats. It actually should be the decentralized intelligence agency. We got nothing to hide. I love the conspiracy girly muggy. That's actually kind of my favorite mug...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1072,7 +1072,7 @@ Transcript Snippet: First and foremost, I'm I'm very pregnant, so I'm just feeli
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11313
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Host's own statement; the planned leave is covered by the later comment claim.
 
 ---
@@ -1445,7 +1445,7 @@ Claim: The host says the parents who contacted her said in the Newsweek letter t
 Transcript Snippet: they called it secret because the the high school told them
 
 Anchored Artifacts: A-3168.1
-Mentions: N-2, N-3
+Mentions: N-3
 Related Nodes: N-11221, N-10533, N-10841
 Tags: relevance:context
 Investigative Direction: Locate the Newsweek letter and the school newsletter wording.
@@ -1461,7 +1461,7 @@ Claim: The host says, in her reply to Kolvet, that students were forced to atten
 Transcript Snippet: so that you could lie to donors about attendance numbers.
 
 Anchored Artifacts: A-2403.1
-Mentions: N-14, N-1, N-3
+Mentions: N-14, N-3
 Related Nodes: N-10533, N-10841
 Tags: relevance:context
 Investigative Direction: Compare TPUSA's donor-facing attendance figures with school attendance records for school assemblies.
@@ -1488,7 +1488,7 @@ Investigative Direction: Obtain the weekly newsletter and any TPUSA or school st
 
 Claim Timestamp: 00:29:09
 
-Claim: The host says, in describing the new TPUSA 2.0 leadership, that they know Kash Patel and Pete Hegseth, have the executive office on speed dial and have Air Force Two and Air Force One.
+Claim: The host, sarcastically voicing the new TPUSA 2.0 ("We got power"), says they know Kash Patel and Pete Hegseth, have the executive office on speed dial and have Air Force Two and Air Force One.
 
 Transcript Snippet: We know Kash Patel. We know Pete Hegsmith. We got We got the Exec office on speed dial.
 
@@ -1634,7 +1634,7 @@ Investigative Direction: Check Empress Films' Dando documentary credits and the 
 
 Claim Timestamp: 00:43:39
 
-Claim: The host says the Empress Films staff are proud feminists and pro-LGBTQ and that one employee wore a shirt she reads as "slay the patriarchy," which she says makes the company an odd match for Erika Kirk and Kolvet.
+Claim: The host says the Empress Films staff are proud feminists and pro-LGBTQ and that one employee wore a shirt she describes as "slay the patriarchy" but then reads as "Never gender" while saying she cannot see it well, which she says makes the company an odd match for Erika Kirk and Kolvet.
 
 Transcript Snippet: proud feminists at the Empress films.
 
@@ -1671,7 +1671,7 @@ Claim: The host says Blake Neff was working for Stu Peters before he got the Cha
 Transcript Snippet: He was actually working for Stu Peters and he calls in effectively a favor to get him this job with Charlie Kirk.
 
 Anchored Artifacts: 
-Mentions: N-160, N-734, N-22, N-1
+Mentions: N-160, N-734, N-1
 Related Nodes: N-11057
 Tags: relevance:context
 Investigative Direction: Check Neff's employment history between leaving Fox and joining TPUSA.
@@ -1687,7 +1687,7 @@ Claim: The host says Blake Neff was involved in a racism scandal for being a tot
 Transcript Snippet: Blake Knap was involved in this racism scandal for being a total creep online
 
 Anchored Artifacts: 
-Mentions: N-160, N-22
+Mentions: N-160
 Related Nodes: N-11057
 Tags: relevance:context
 Investigative Direction: Check contemporaneous reporting on the Neff scandal.
@@ -1735,7 +1735,7 @@ Claim: In the clip, Carlson says there is no maximalist position on free speech 
 Transcript Snippet: there's no maximalist position on free speech anymore than there is on pregnancy.
 
 Anchored Artifacts: A-2401.1
-Mentions: N-22, N-1
+Mentions: N-22
 Related Nodes: N-10845
 Tags: relevance:context
 Investigative Direction: Verify the clip against the original Tucker Carlson broadcast.
@@ -1828,7 +1828,7 @@ Investigative Direction: Identify specific hit pieces or lawsuits and whether TP
 
 Claim Timestamp: 00:55:56
 
-Claim: The host says, joking about how TPUSA would react to her leave, that she is gone for about eight weeks and that Baron Coleman will take over the show.
+Claim: Reading a viewer comment that says TPUSA probably cancelled its party on learning Baron Coleman would take over the show, the host jokes that TPUSA was excited because "she's gone for like eight weeks."
 
 Transcript Snippet: They were probably so excited. Like she's gone for like eight weeks.
 
@@ -1851,7 +1851,7 @@ Transcript Snippet: And actually now Brian Cole's parents are speaking out. They
 Anchored Artifacts: 
 Mentions: N-25, N-22
 Related Nodes: N-10872
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find the Tucker Carlson interview with the Cole family and check what exactly they say.
 
 ---
@@ -1860,7 +1860,7 @@ Investigative Direction: Find the Tucker Carlson interview with the Cole family 
 
 Claim Timestamp: 00:56:57
 
-Claim: The host says that after the Cole family spoke out, authorities immediately released old footage of Brian Cole being pulled over, and that the same two Scripps News reporters released the Robinson footage.
+Claim: The host says that after the Cole family spoke out, "they" immediately released old footage of Brian Cole being pulled over, and that the same two Scripps News reporters released the Robinson footage.
 
 Transcript Snippet: And what did they do? They immediately released old footage of Brian Cole being pulled over.
 
@@ -1882,7 +1882,7 @@ Claim: The host asserts that January 6 was a fed operation.
 Transcript Snippet: January 6th was a fed operation.
 
 Anchored Artifacts: 
-Mentions: N-25, N-3
+Mentions: N-3
 Related Nodes: N-11147, N-10872
 Tags: relevance:tangential
 Investigative Direction: The host offers no evidence here; see January 6 federal coordination records.
@@ -1898,7 +1898,7 @@ Claim: The host speculates that authorities identify people who are slightly aut
 Transcript Snippet: they're keeping them in a file in case the feds need to commit a crime and pin it on them.
 
 Anchored Artifacts: 
-Mentions: N-25, N-40
+Mentions: 
 Related Nodes: N-10872, N-10873
 Tags: relevance:tangential
 Investigative Direction: The host offers no documents; compare the retention practice for the Cole and Robinson footage with ordinary retention rules.
@@ -1909,7 +1909,7 @@ Investigative Direction: The host offers no documents; compare the retention pra
 
 Claim Timestamp: 00:58:57
 
-Claim: The host says TPUSA has Matt Tardio on its show and lets him on as long as he says something bad about her, even though he was chasing young women down alleys in front of ICE facilities.
+Claim: The host, voicing TPUSA mockingly, says "we don't care what you did" to Matt Tardio and "we'll have you on the show as long as you say something bad about Candace," while Erika has access to high schools and he was chasing young women down alleys in front of ICE facilities.
 
 Transcript Snippet: while you are chasing young women down alleys in front of ICE facilities.
 

@@ -1,0 +1,317 @@
+[
+ {
+  "claim": "C-11909",
+  "episode": 155,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3"
+   ]
+  },
+  "note": "Claim names only Candace; Erika/Mikey are named later in the clip, outside the claim."
+ },
+ {
+  "claim": "C-3531",
+  "episode": 156,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says that, after someone told her otherwise, the person she previously identified as UVU club president Caleb Chilcutt standing near the van by Angel Castro was not him.",
+   "mentions": [
+    "N-10",
+    "N-793"
+   ]
+  },
+  "note": "Correction came from someone's tip, not the footage. Claim also names Angel Castro (N-793), so he is added."
+ },
+ {
+  "claim": "C-3534",
+  "episode": 156,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the search warrant as read, Agent Draney (USBI) obtained records and video footage from the Quick Quack Car Wash showing Tyler Robinson's vehicle arriving at approximately 12:57 PM; the footage has not been released to the public.",
+   "names": [
+    {
+     "wrong": "Drainy",
+     "right": "Draney",
+     "source": "https://thepostmillennial.com/tyler-robinson-mapped-route-from-utah-valley-university-back-to-his-st-george-home-after-charlie-kirk-killing-search-warrant"
+    }
+   ]
+  },
+  "note": "Checked the cited source: it gives 'Agent Draney' of the Utah SBI as the one who obtained the Quick Quack footage."
+ },
+ {
+  "claim": "C-3536",
+  "episode": 156,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says, replying to a viewer comment about license plates, that in Officer Goforth's testimony they kept saying a partial plate was run and matched, which she finds unusual.",
+   "mentions": [
+    "N-865"
+   ],
+   "timestamp": "00:53:00",
+   "names": [
+    {
+     "wrong": "Go Forth",
+     "right": "Goforth",
+     "source": "https://www.rev.com/transcripts/ut-v-tyler-robinson-final-preliminary-hearing"
+    }
+   ]
+  },
+  "note": "Host's reply is right. Goforth confirmed by prelim-hearing coverage. Face's comment is about 130 words into the 52:24 block (~53:02)."
+ },
+ {
+  "claim": "C-3537",
+  "episode": 156,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-36"
+   ],
+   "timestamp": "00:32:40"
+  },
+  "note": "Kirk not referred to, but the claim names Netanyahu (N-36). The walkout line is ~32:45, so 32:40 is right."
+ },
+ {
+  "claim": "C-7778",
+  "episode": 156,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says someone told her the person standing by the van near Angel Castro was not UVU club president Caleb Chilcutt, who she says was wearing red that day; the person by the van was just standing."
+  },
+  "note": "'He was wearing red' follows 'not the UVU club president', so the red refers to the president."
+ },
+ {
+  "claim": "C-7793",
+  "episode": 156,
+  "decision": "reject",
+  "fix": {},
+  "note": "Spread over the 13:31-16:38 block by word count, the tip request falls at ~14:52-15:00, so 14:59 fits; 14:10 is too early."
+ },
+ {
+  "claim": "C-7794",
+  "episode": 156,
+  "decision": "reject",
+  "fix": {},
+  "note": "By word count the 12:44/Mountain Shadows line falls at ~16:02, so the original 15:59 is right."
+ },
+ {
+  "claim": "C-7795",
+  "episode": 156,
+  "decision": "reject",
+  "fix": {},
+  "note": "By word count 'I actually called Ryan Matta' falls at ~16:14, so the original 16:09 is right."
+ },
+ {
+  "claim": "C-7806",
+  "episode": 156,
+  "decision": "reject",
+  "fix": {},
+  "note": "By word count the warrant remark falls at ~25:05 in the 23:06-26:05 block, so the original 25:08 is about right."
+ },
+ {
+  "claim": "C-7807",
+  "episode": 156,
+  "decision": "reject",
+  "fix": {},
+  "note": "By word count the towel story falls at ~24:46 in the 23:06-26:05 block, so the original 24:47 is about right."
+ },
+ {
+  "claim": "C-7823",
+  "episode": 156,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Blake Neff's sit-down interview said what everyone says about the Kirk investigation, and that Wear Forbidden made an AI video covering what took place in that interview.",
+   "label": "Host Says Wear Forbidden Made an AI Video on the Blake Neff Interview",
+   "names": [
+    {
+     "wrong": "Where Forbidden",
+     "right": "Wear Forbidden",
+     "source": "https://www.tiktok.com/@wearforbidden"
+    }
+   ]
+  },
+  "note": "'Wear Forbidden' is right (episode heading, TikTok @wearforbidden); source swapped to that account page in place of the generic HappyScribe index."
+ },
+ {
+  "claim": "C-7833",
+  "episode": 156,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says, answering a viewer comment about license plates, that her team has noticed officials repeatedly say they confirmed the first part of the plate, got a partial plate and ran it, including in Officer Goforth's testimony.",
+   "names": [
+    {
+     "wrong": "Go Forth",
+     "right": "Goforth",
+     "source": "https://www.rev.com/transcripts/ut-v-tyler-robinson-final-preliminary-hearing"
+    }
+   ],
+   "mentions": [
+    "N-3",
+    "N-865"
+   ],
+   "timestamp": "00:53:00"
+  },
+  "note": "Face's comment ends at the question; 'something that we have noticed...' is the host. Goforth confirmed. Tyler not in claim. Content at ~53:05."
+ },
+ {
+  "claim": "C-3584",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-8",
+    "N-267",
+    "N-271",
+    "N-10"
+   ]
+  },
+  "note": "Claim refers to the UVU club president, whom the host identifies as Caleb Chilcutt."
+ },
+ {
+  "claim": "C-3586",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-8",
+    "N-1",
+    "N-10"
+   ]
+  },
+  "note": "Claim refers to the club president; the host names Caleb Chilcutt in the same passage."
+ },
+ {
+  "claim": "C-3592",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-1",
+    "N-2",
+    "N-36"
+   ]
+  },
+  "note": "Claim refers to BB (Netanyahu) and to Erika's travel."
+ },
+ {
+  "claim": "C-6176",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim does not name or refer to Erika."
+ },
+ {
+  "claim": "C-6186",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim refers to TPUSA, not to Caleb Chilcutt."
+ },
+ {
+  "claim": "C-6203",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-490"
+   ]
+  },
+  "note": "Only Lori Frantzve is named; Erika is not referred to."
+ },
+ {
+  "claim": "C-6251",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says Yrefy came in as number one sponsor for a Charlie Kirk fall tour on July 25 even though it had already signed a contract in January covering events through the end of the year.",
+   "label": "Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End",
+   "names": [
+    {
+     "wrong": "Why Rei",
+     "right": "Yrefy",
+     "source": "https://yrefy.com/about/team"
+    }
+   ]
+  },
+  "note": "Web check: Yrefy (Schoneberger's firm) sponsored TPUSA tours (abc4, investyrefy.com)."
+ },
+ {
+  "claim": "C-6256",
+  "episode": 157,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says TPUSA has privately rebutted this to her, with Erika saying Netanyahu's call was just a follow-up to a letter Charlie had written in May, that there was no offer, and that she does not know why Kolvet said that."
+  },
+  "note": "In the transcript Erika ('she') says she does not know why Andrew said it."
+ },
+ {
+  "claim": "C-6264",
+  "episode": 157,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-267"
+   ],
+   "timestamp": "01:08:47"
+  },
+  "note": "Turek is not in the claim. The 'could have moved inside' passage is ~01:08:52, late in the 01:08:14 block."
+ },
+ {
+  "claim": "C-6278",
+  "episode": 157,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Brian Harpole's lawyer, who filed a lawsuit against her, came multiple times asking 'you got like an alibi for this time,' saying he did not know if Mitch Snow's account seemed credible and had no horse in the race.",
+   "label": "Host Says Harpole's Lawyer Repeatedly Asked About an Alibi"
+  },
+  "note": "Lawyer asked, did not offer. Host says 'came to you' and 'thought it was you' (Harpole?), so 'came to her' is not supported."
+ },
+ {
+  "claim": "C-6279",
+  "episode": 157,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says she and her team had wondered at the beginning of the week about a random push regarding Fort Huachuca when they were not discussing it, and that now they know it was a preemptive strike ahead of the Independent Review.",
+   "timestamp": "01:25:33"
+  },
+  "note": "Pam's comment ends before this; these are the host's words. Spoken ~01:25:38, before the 01:25:48 marker."
+ },
+ {
+  "claim": "C-3596",
+  "episode": 158,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-13",
+    "N-2"
+   ],
+   "claim": "Host asserts Clara Molot's Vanity Fair profile–enabled by months of TPUSA/Erika access including family–reads as a frustrated reporter's portrait of an obvious grift, while TPUSA refused Lake Forest Group review cooperation."
+  },
+  "note": "Transcript says 'Lake Forest Group'; Neff is not in the claim."
+ },
+ {
+  "claim": "C-3597",
+  "episode": 158,
+  "decision": "accept",
+  "fix": {
+   "claim": "Per the profile as read, Erika described decisions via a heaven/reunion heuristic and seemed uneasy articulating political views; the host says this is what made the reporter know she was dealing with a fraud."
+  },
+  "note": "'Disingenuous or incoherent' does not appear in the transcript; the fraud remark is the host's."
+ },
+ {
+  "claim": "C-3600",
+  "episode": 158,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:22:20",
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "note": "The outfit list starts at 22:21. Bari Weiss is named only inside that list, not in the claim."
+ }
+]

@@ -137,3 +137,15 @@ records Minas separately.
   ("McQuaid", ep140), Terryl ("Terrence", ep143).
 - Nodes renamed: N-438 Johnnie Moore (archive-wide, including register rows), N-11091 Wear Forbidden.
 - C-6081 lists N-113 (Candace Owens' sister) for "such as her sister"; added as a reviewed grounding exception.
+
+## Part 3i (chunks 212–232: episodes ~147–161, 1,255 claims; the end of the pass)
+- Chunks 212–227: 107 findings went to confirmation (82 accepted, 20 amended, 5 rejected). Chunks 228–232: 31
+  (23 accepted, 6 amended, 2 rejected, counting one hold). Applied: 131 confirmed fixes and 128 minor fixes
+  (`applied_chunks212-232.json`).
+- Name rules (global): Richard Novak (Tyler Robinson's defense attorney), Diligent Denizen, Andrew Piskadlo, Soter
+  Global, Agent Draney, Yrefy ("Why Rei", "Why Refi"), Lori Jane Gliha, Laine Schoneberger, Kairos ("Chyros", Johnnie
+  Moore's firm), Mossad ("MSAD"). Scoped: bare "Novac" (ep147), "Goforth" extended to ep155–156, "where forbidden"
+  (ep143, ep156), and "Arena" → Irina (Mappin) in ep16, 145, 150 and 153 only. Ep17's "Arena Zhuravskaya" and ep92's
+  "Jed Arena" are left for review.
+- Reviewed grounding exceptions: C-3413 and C-3422 ("Ye", Kanye West), C-3592 ("BB", Netanyahu).
+- Held for Daveed: C-6409 (Eliza vs. Elizabeth McCoy, N-218) and the Marina Minas fixes.

@@ -371,7 +371,7 @@ Confidence Level: Low
 
 **A-3103.1** Viewer comment from Basel Paras read on air asking the host to debate Ben Shapiro, Brandon Tatum and PBD
 
-Quoted text: "would you want to debate the more prominent commentators like Ben Shapiro, Brandon Tatum, and PBD on the topics of Israel, MSAD, and Palestine?"
+Quoted text: "would you want to debate the more prominent commentators like Ben Shapiro, Brandon Tatum, and PBD on the topics of Israel, Mossad, and Palestine?"
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:44:10

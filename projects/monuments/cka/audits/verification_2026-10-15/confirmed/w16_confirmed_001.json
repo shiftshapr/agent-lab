@@ -1,0 +1,388 @@
+[
+ {
+  "claim": "C-6305",
+  "episode": 158,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-22",
+    "N-3"
+   ]
+  },
+  "note": "Kolvet is in the adjacent sentence only, not in this claim."
+ },
+ {
+  "claim": "C-3608",
+  "episode": 159,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:05:00",
+   "claim": "The host says leaked Telegram messages show Erika asking who the big hitters are and requesting a full donor list to make notes, with staff replying with new six-figure donors sorted by MGO, and treats this as ending the pure grieving-widow narrative."
+  },
+  "note": "Big-hitters quote is ~word 417/660 of the 02:39-06:30 block, so it is spoken ~05:05, not 04:05. Wording fix is OK."
+ },
+ {
+  "claim": "C-3610",
+  "episode": 159,
+  "decision": "accept",
+  "fix": {
+   "claim": "Despite the February master deal already covering the year, a July 25 addendum adds ~$1.25M for fall-tour presenting sponsorship / short speaking slot; host ties timing to donor pullouts (e.g., Bob Shillman) and UVU booking pressures; Laine Schoneberger spoke ~5 minutes at UVU.",
+   "names": [
+    {
+     "wrong": "Lane Shamberger",
+     "right": "Laine Schoneberger",
+     "source": "https://www.oudaily.com/news/ou-turning-point-usa-tour-event-lloyd-noble-center/article_9a54a648-00ad-481f-bf2c-9f05cf36b1a9.html"
+    }
+   ]
+  },
+  "note": "Host says Bob Shillman; OU Daily source checked: Laine Schoneberger of Yrefy."
+ },
+ {
+  "claim": "C-3611",
+  "episode": 159,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-82",
+    "N-378",
+    "N-36",
+    "N-28",
+    "N-1"
+   ]
+  },
+  "note": "Trump and Turek not named in claim; Charlie's walk-back refers to N-1."
+ },
+ {
+  "claim": "C-3612",
+  "episode": 159,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-4",
+    "N-9",
+    "N-29",
+    "N-69",
+    "N-85",
+    "N-127",
+    "N-131",
+    "N-151",
+    "N-152",
+    "N-153",
+    "N-159",
+    "N-161",
+    "N-536",
+    "N-281",
+    "N-5",
+    "N-3",
+    "N-1"
+   ]
+  },
+  "note": "Claim refers to Trump's absence, Candace's episodes, Charlie's walk-back."
+ },
+ {
+  "claim": "C-3613",
+  "episode": 159,
+  "decision": "amend",
+  "fix": {
+   "claim": "Per the account of Brian Cole Jr.'s interrogation that the host reads, agents ignored his distress and stimming, told him lying to federal agents is another crime, and he said yes to being the man in the video after twice denying recognizing him; the host calls the coerced confession positively sickening and cites Tucker Carlson's interview with Cole's parents.",
+   "mentions": [
+    "N-25",
+    "N-22"
+   ]
+  },
+  "note": "Attribution fix right, but the Tucker parents interview is mentioned at ~49:42, so Carlson (N-22) stays."
+ },
+ {
+  "claim": "C-3614",
+  "episode": 159,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host plays Scripps News clips in which the same correspondent, Lori Jane Gliha, presents body-camera footage from minor traffic crashes of Tyler Robinson (2022) and Brian Cole Jr. (2024), argues a federal narrative-management pattern, and adds that Erika attended daycare in the Scripps building in Cincinnati.",
+   "names": [
+    {
+     "wrong": "Lori Jenha",
+     "right": "Lori Jane Gliha",
+     "source": "https://www.scrippsnews.com/investigations/scripps-news-obtains-body-camera-footage-of-dc-pipe-bomb-suspect"
+    }
+   ]
+  },
+  "note": "Robinson clip is also played (~54:40, names Lori Jane Gliha); daycare remark at ~55:00. Scripps byline checked."
+ },
+ {
+  "claim": "C-3615",
+  "episode": 159,
+  "decision": "accept",
+  "fix": {
+   "claim": "A viewer comment the host reads says loyalty to Erika depends on her loyalty to Charlie; the host agrees and argues that Erika's changed stance on Israel, silence and glowing Israel partnerships, and teaming up with Andrew Wilson (text leaks) register as fake after she allegedly pushed Charlie to be more critical of Israel."
+  },
+  "note": "Line is viewer Ali's comment, which the host reads."
+ },
+ {
+  "claim": "C-6365",
+  "episode": 159,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim speaks of lost donor revenue generally; Shillman not named or clearly referred to."
+ },
+ {
+  "claim": "C-6377",
+  "episode": 159,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Claim refers only to the contract; Schoneberger not referred to."
+ },
+ {
+  "claim": "C-6392",
+  "episode": 159,
+  "decision": "amend",
+  "fix": {
+   "claim": "The host says Johnny Moore is Andrew Kolvet's partner at the Kairos Company, that Kolvet worked with Kairos before starting his own PR firm, and that TPUSA was taken on through Kairos, with Kolvet's email then at the Kairos Company.",
+   "names": [
+    {
+     "wrong": "Chyros",
+     "right": "Kairos",
+     "source": "https://en.wikipedia.org/wiki/Johnnie_Moore_Jr."
+    }
+   ]
+  },
+  "note": "Fix right (host also says 'Kairos Company'); source swapped to one I checked: Moore founded the Kairos Company PR firm."
+ },
+ {
+  "claim": "C-6409",
+  "episode": 159,
+  "decision": "reject",
+  "fix": {
+   "names": [
+    {
+     "wrong": "Eliza McCoy",
+     "right": "Elizabeth McCoy",
+     "source": "https://www.instagram.com/elizakmccoy/"
+    }
+   ]
+  },
+  "note": "HELD for Daveed. Host says Elizabeth; her profile reads Elizabeth McCoy, wife of Mikey McCoy. The cited tpusa.com page does not name her."
+ },
+ {
+  "claim": "C-6415",
+  "episode": 159,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-36",
+    "N-2"
+   ]
+  },
+  "note": "Claim does not refer to Charlie."
+ },
+ {
+  "claim": "C-6418",
+  "episode": 159,
+  "decision": "amend",
+  "fix": {
+   "timestamp": "00:34:20"
+  },
+  "note": "MySpace line is ~word 236/279 of the 33:08-34:39 block, so ~34:25 spoken; 5 s earlier is 34:20."
+ },
+ {
+  "claim": "C-6434",
+  "episode": 159,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-530"
+   ]
+  },
+  "note": "Faith Kates not in claim."
+ },
+ {
+  "claim": "C-6440",
+  "episode": 159,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-25"
+   ]
+  },
+  "note": "Gliha not named or referred to in the claim."
+ },
+ {
+  "claim": "C-3621",
+  "episode": 160,
+  "decision": "accept",
+  "fix": {
+   "mentions": []
+  },
+  "note": "Neither Clancy nor Mace is referred to."
+ },
+ {
+  "claim": "C-3623",
+  "episode": 160,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-267"
+   ]
+  },
+  "note": "Hibbs and Charlie not named in claim."
+ },
+ {
+  "claim": "C-3624",
+  "episode": 160,
+  "decision": "reject",
+  "fix": {},
+  "note": "Claim's 'person hanging out' of the black SUV is Charlie (host: 'Charlie's vehicle and his feet hanging out'); keep N-1."
+ },
+ {
+  "claim": "C-3628",
+  "episode": 160,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-178",
+    "N-195",
+    "N-836",
+    "N-837"
+   ],
+   "claim": "The host says after Robert Kraft canceled Macklemore for saying Free Palestine at Kraft's Gillette Stadium, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; the drummer's shirt referenced a horrific story about a 5-year-old Palestinian girl) and broke the stadium attendance record previously held by Ed Sheeran."
+  },
+  "note": "Matches 45:57 text; Macklemore and Sheeran named."
+ },
+ {
+  "claim": "C-9222",
+  "episode": 160,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host calls the New York Post the \"Mossad's rag\" and says it had everything to do with Ghislaine Maxwell and with the report that Jeffrey Epstein had been suicided in his cell, covering for Maxwell.",
+   "names": [
+    {
+     "wrong": "MSAD",
+     "right": "Mossad",
+     "source": "https://en.wikipedia.org/wiki/Mossad"
+    }
+   ]
+  },
+  "note": "MSAD is a mis-transcription of Mossad."
+ },
+ {
+  "claim": "C-9231",
+  "episode": 160,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-267"
+   ]
+  },
+  "note": "Turek not named in claim."
+ },
+ {
+  "claim": "C-9250",
+  "episode": 160,
+  "decision": "accept",
+  "fix": {
+   "claim": "The host says she thinks the files would reveal fake wives and an entire Mossad network of women pretending to love men who are going through MK Ultra programming from a young age.",
+   "names": [
+    {
+     "wrong": "MSAD",
+     "right": "Mossad",
+     "source": "https://en.wikipedia.org/wiki/Mossad"
+    }
+   ]
+  },
+  "note": "MSAD is a mis-transcription of Mossad."
+ },
+ {
+  "claim": "C-3692",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "claim": "On the Fargo Talks clip, Blake Wynn tells interviewer Jeff Fargo he was with him at breakfast when he found out Charlie was shot, and places Erika Kirk and Fargo in a rare bucket of people he looks up to as human beings, apart from business heroes such as his uncle Steve; the host rejects romance rumors and frames a business relationship."
+  },
+  "note": "Clip addresses Fargo; Uncle Steve is among business heroes."
+ },
+ {
+  "claim": "C-3776",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-37"
+   ]
+  },
+  "note": "Kash Patel not in claim."
+ },
+ {
+  "claim": "C-3698",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "timestamp": "00:57:20"
+  },
+  "note": "Fire-captain comment opens the 57:23 block."
+ },
+ {
+  "claim": "C-10605",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-2",
+    "N-1"
+   ]
+  },
+  "note": "Mikey McCoy not in claim."
+ },
+ {
+  "claim": "C-10613",
+  "episode": 161,
+  "decision": "amend",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-2"
+   ]
+  },
+  "note": "Add Erika (named). Relevance change is not a transcript matter; the clip ban on Candace is core, so keep the tag."
+ },
+ {
+  "claim": "C-10614",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-352",
+    "N-97",
+    "N-260"
+   ]
+  },
+  "note": "Claim names Servius."
+ },
+ {
+  "claim": "C-10616",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "mentions": [],
+   "claim": "The host says Enclave and Key has a footprint in Romania."
+  },
+  "note": "Host says 'footprint' only; Wynn not referred to."
+ },
+ {
+  "claim": "C-10636",
+  "episode": 161,
+  "decision": "accept",
+  "fix": {
+   "mentions": [
+    "N-3",
+    "N-1",
+    "N-30"
+   ]
+  },
+  "note": "Claim refers to Charlie and her husband George."
+ }
+]

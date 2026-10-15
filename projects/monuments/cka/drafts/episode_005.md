@@ -2274,9 +2274,9 @@ Investigative Direction: Date the first donor messages to Kirk and compare with 
 
 Claim Timestamp: 00:43:00
 
-Claim: The host says it was almost like they wanted to take over the company Kirk built and turn it into just another outfit of the Mossad (transcribed MSAD), and that they were "spiking the ball" where they were spending the money.
+Claim: The host says it was almost like they wanted to take over the company Kirk built and turn it into just another outfit of the Mossad (transcribed Mossad), and that they were "spiking the ball" where they were spending the money.
 
-Transcript Snippet: It was almost like they just wanted to take over the company that he had built and turn it into just another outfit of the MSAD.
+Transcript Snippet: It was almost like they just wanted to take over the company that he had built and turn it into just another outfit of the Mossad.
 
 Anchored Artifacts: 
 Mentions: N-1
@@ -2696,7 +2696,7 @@ Confidence: high
 
 Video Timestamp: 00:38:47
 Speaker: N-3
-Quote: Outfit of the MSAD uh outfit of the deep deep state ran with it.
+Quote: Outfit of the Mossad uh outfit of the deep deep state ran with it.
 Context: Host ties New York Post framing to deep-state / intel outfits.
 Tags: intel, media, host_refrain
 Confidence: high
@@ -2751,14 +2751,14 @@ Confidence: high
 
 ---
 
-**M-11** (meme) MSAD
+**M-11** (meme) Mossad
 
 ### Occurrence 1
 
 Video Timestamp: 00:38:47
 Speaker: N-3
-Quote: Outfit of the MSAD uh outfit of the deep deep state ran with it.
-Context: Host calls the New York Post an outfit of the MSAD while criticizing its coverage of the Bolling claim.
+Quote: Outfit of the Mossad uh outfit of the deep deep state ran with it.
+Context: Host calls the New York Post an outfit of the Mossad while criticizing its coverage of the Bolling claim.
 Tags: intel, media
 Confidence: high
 
@@ -2766,8 +2766,8 @@ Confidence: high
 
 Video Timestamp: 00:43:00
 Speaker: N-3
-Quote: It was almost like they just wanted to take over the company that he had built and turn it into just another outfit of the MSAD.
-Context: Host says Turning Point's takeover would make it just another MSAD outfit.
+Quote: It was almost like they just wanted to take over the company that he had built and turn it into just another outfit of the Mossad.
+Context: Host says Turning Point's takeover would make it just another Mossad outfit.
 Tags: intel, turning_point
 Confidence: high
 

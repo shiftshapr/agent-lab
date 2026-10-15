@@ -1496,7 +1496,6 @@
       "investigative_direction": "Confirm the quoted sentence in the op-ed directly; cross-check against Vance-family public statements.",
       "mentions_person_refs": [
         "N-2",
-        "N-4",
         "N-351",
         "N-1"
       ]
@@ -1516,7 +1515,6 @@
       "investigative_direction": "Confirm the quoted analogy in the op-ed directly.",
       "mentions_person_refs": [
         "N-2",
-        "N-4",
         "N-351"
       ]
     },
@@ -1560,7 +1558,7 @@
       "@id": "C-3403",
       "ref": "C-3403",
       "label": "Candace Owens Encountered Kim Kardashian in Hotel Lobby at Ye's Chicago Concert",
-      "claim": "The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert and exchanging a half-smile across the lobby.",
+      "claim": "The host describes, with video footage, encountering Kim Kardashian in the hotel lobby at Ye's Chicago homecoming concert and staring at her across the lobby with a half smile.",
       "anchored_artifacts": [
         "A-2349.1"
       ],
@@ -1680,7 +1678,7 @@
         "N-10201"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:03:07",
       "investigative_direction": "Find the TPUSA statements explaining the memorial fireworks and who authorized the pyrotechnic display.",
@@ -1754,8 +1752,8 @@
       "@type": "Claim",
       "@id": "C-7700",
       "ref": "C-7700",
-      "label": "Host Says She Went Down to Crowd Surf at 8 Months Pregnant",
-      "claim": "The host says she went down to the floor of the arena and crowd surfed at 8 months pregnant.",
+      "label": "Host Says She Was Down to Crowd Surf at 8 Months Pregnant",
+      "claim": "The host says that at the Ye concert she told her husband and security she had to be down on the floor with the crowd, and that she was down to crowd surf at 8 months pregnant.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -1887,8 +1885,7 @@
       ],
       "mentions_person_refs": [
         "N-3",
-        "N-27",
-        "N-97"
+        "N-27"
       ]
     },
     {
@@ -1975,8 +1972,7 @@
       ],
       "mentions_person_refs": [
         "N-14",
-        "N-36",
-        "N-1"
+        "N-36"
       ]
     },
     {
@@ -2614,8 +2610,7 @@
       "investigative_direction": "Search New York Times opinion archives for any byline by Kirk.",
       "transcript_snippet": "Charlie never wrote an op-ed for the New York Times. His opinion of them is long documented all throughout his career.",
       "mentions_person_refs": [
-        "N-1",
-        "N-2"
+        "N-1"
       ]
     },
     {
@@ -2648,7 +2643,7 @@
       "@id": "C-7741",
       "ref": "C-7741",
       "label": "Host Says TPUSA Now Works With the Department of War and Treats Erika as an Emotional Asset",
-      "claim": "The host says that Turning Point 2.0 works with the Department of War and the deep state apparatus and that Erika is their emotional asset.",
+      "claim": "The host, addressing Erika, says Turning Point 2.0 is a totally different organization and that Erika works with the Department of War and the deep state apparatus and is their emotional asset.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10888",
@@ -2714,7 +2709,7 @@
       "@id": "C-7744",
       "ref": "C-7744",
       "label": "Host Says the 15 Minutes Line Was Already in Erika's First Speech and a TPUSA Conference Call",
-      "claim": "The host says the Usha Vance 15 minutes advice is already seared into the first speech Erika gave and into the conference call she held at Turning Point USA, so the op-ed repeats it a third time.",
+      "claim": "The host says the Usha Vance 15 minutes advice is already seared into the first speech Erika gave and into the conference call she held at Turning Point USA, and that they keep hearing it over and over again.",
       "anchored_artifacts": [
         "A-2348.1"
       ],
@@ -2835,8 +2830,7 @@
       "investigative_direction": "Identify the Zoom call and obtain the recording or attendee accounts.",
       "transcript_snippet": "You were living within 6 days laughing at emojis. You're laughing at emojis on a Zoom call.",
       "mentions_person_refs": [
-        "N-2",
-        "N-212"
+        "N-2"
       ]
     },
     {
@@ -2879,8 +2873,7 @@
       "investigative_direction": "Cite the Church Committee findings on press relationships; the host gives no source on air.",
       "transcript_snippet": "Operation Mockingbird. The New York Times was involved in that. After they committed another a different state assassination. Assassination of JFK.",
       "mentions_person_refs": [
-        "N-710",
-        "N-2"
+        "N-710"
       ]
     },
     {
@@ -3260,7 +3253,7 @@
       "@id": "C-7769",
       "ref": "C-7769",
       "label": "Host Says the Can You Hear Me Now Documentary Is Slated for September 10",
-      "claim": "The host repeats that the Salem Media and Waterstone Charlie Kirk documentary is coming out on September 10 of this year.",
+      "claim": "A viewer comment the host reads says Salem Media and Waterstone are releasing a Charlie Kirk documentary called Can You Hear Me Now?, with an alleged unreleased interview, on September 10th of this year; the host replies 'Yes'.",
       "anchored_artifacts": [
         "A-2350.5"
       ],
@@ -3348,7 +3341,7 @@
       "@id": "C-7773",
       "ref": "C-7773",
       "label": "Host Says Brad Parscale Was an Executive at Salem Media Who Brought This Forward",
-      "claim": "The host says she believes Brad Parscale was on the board of Salem Media or at least an executive there, and that he brought the filings forward.",
+      "claim": "The host says she believes Brad Parscale was on the [unclear] of Salem Media, or at least an executive there, who brought this forward.",
       "anchored_artifacts": [
         "A-2900.1"
       ],

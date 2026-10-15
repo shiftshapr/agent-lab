@@ -1,0 +1,772 @@
+[
+ {
+  "claim": "C-3544",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3545",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3546",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Turek says \"I tried that for like 20 or 30 seconds\"; \"seated\" is the host's later gloss (\"30 seconds to seated CPR\"), not Turek's word.",
+  "fix": {
+   "claim": "Frank Turek stated that, although most of the ride involved only bleeding control, in the last ~30 seconds of the ride as the SUV was pulling into the hospital parking lot, he attempted CPR for 20-30 seconds."
+  }
+ },
+ {
+  "claim": "C-3547",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3548",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3549",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host hedges: \"I think it was way back in September, actually\"; claim states September 2025 flatly.",
+  "fix": {
+   "claim": "A witness who, the host says, posted his account in September describes seeing a man in a white hat exit the rear hatch (not the back seat) of the SUV upon hospital arrival, with a bald driver exiting the front."
+  }
+ },
+ {
+  "claim": "C-3550",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim is about Blake Harreff (\"Here comes Blake Harreff running ... without any blood on it\") but Mentions is empty; N-900 missing.",
+  "fix": {
+   "mentions": [
+    "N-900"
+   ]
+  }
+ },
+ {
+  "claim": "C-3551",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Subject is Blake Harreff (N-900), who is not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-900",
+    "N-493"
+   ]
+  }
+ },
+ {
+  "claim": "C-3552",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Subject is Blake Harreff (\"I'm going to point to Blake Harreff, who will now be wearing a Timpanogos surgical scrub for a top\"); N-900 missing from Mentions.",
+  "fix": {
+   "mentions": [
+    "N-900"
+   ]
+  }
+ },
+ {
+  "claim": "C-3553",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3554",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Content at 21:51, timestamp about 70s early; within tolerance.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3555",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Dan Flood is never named in the window (20:42-~22:10); host names Blake Harreff, Brian Harpole, Rick Cutler, Justin Davis. \"Consistent with his having carried Charlie\" is not in the window. Needs full-transcript check.",
+  "fix": {}
+ },
+ {
+  "claim": "C-3556",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3557",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3558",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "9:47 PM is said at ~35:55 (\"he didn't leave the steakhouse until about 9:47 p.m. earliest\"), over 2 min after 33:40. Host says \"left the steakhouse\" and \"if it's verified\", not \"swiped\".",
+  "fix": {
+   "timestamp": "00:35:50",
+   "claim": "Per the host, if the steakhouse receipt is verified, Tyler Robinson did not leave the steakhouse until about 9:47 PM at the earliest.",
+   "mentions": [
+    "N-40"
+   ]
+  }
+ },
+ {
+  "claim": "C-3559",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Claim names \"Lance\" (Tyler's texts to Lance; host: \"texts Lance that he was at UVU around 9:00\") but N-54 Lance Twiggs is not in Mentions.",
+  "fix": {
+   "mentions": [
+    "N-40",
+    "N-54"
+   ]
+  }
+ },
+ {
+  "claim": "C-3560",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3561",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "1:47 AM said ~36:08, over 60s before 37:12. \"Mrs. Noble's house\" names N-903, missing from Mentions. Events at 12:36-1:33 are earlier than 1:47, not \"subsequent\".",
+  "fix": {
+   "timestamp": "00:36:05",
+   "mentions": [
+    "N-40",
+    "N-903"
+   ],
+   "claim": "Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM - which would make multiple earlier events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver."
+  }
+ },
+ {
+  "claim": "C-3562",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host hedges: \"Apparently, since July, they have been severely harassed\"; hedge dropped.",
+  "fix": {
+   "claim": "The host states that, apparently, since July the restaurant has been \"severely harassed\" with bad reviews, characterizing the activity as \"completely psychotic.\""
+  }
+ },
+ {
+  "claim": "C-3563",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3564",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Matt Callaway comment read at ~44:25 (\"Matt Callaway writes, What Blakey meant...\"); 45:10 is ~45s later. Unresolved name: Blakey (host says \"Blake\"), likely Blake Harreff, not added.",
+  "fix": {
+   "timestamp": "00:44:20"
+  }
+ },
+ {
+  "claim": "C-3565",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Headline as read: \"Utah restaurant tour uh claims...\" is a transcription slip; almost certainly \"owner\" (host: \"spoke to the owner\"). Unconfirmed by source.",
+  "fix": {
+   "claim": "The New York Post published an article titled along the lines of \"Utah restaurant owner claims that Tyler Robinson stopped in after Charlie Kirk killing reveals what the alleged assassin ordered.\""
+  }
+ },
+ {
+  "claim": "C-3566",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-3670",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: \"we are actually really the decentralized intelligence agency ... no nucleus that can be hit. Everyone's contributing.\" \"Opposing centralized intel\" is added.",
+  "fix": {
+   "claim": "The host states that the show and its audience are \"actually really the decentralized intelligence agency,\" a crowd-sourced network of contributors and tips with no central nucleus that can be hit."
+  }
+ },
+ {
+  "claim": "C-3671",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "Host says only \"our CIA cap. We are actually really the decentralized intelligence agency.\" She never says \"Candace Intelligence Agency\" nor \"twin brand\".",
+  "fix": {
+   "claim": "The host plugs the CIA cap as one of the best-selling pieces of merch and says \"we are actually really the decentralized intelligence agency.\"",
+   "label": "Host Plugs CIA Cap and Calls Show the Decentralized Intelligence Agency"
+  }
+ },
+ {
+  "claim": "C-3672",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14854",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14855",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14856",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14857",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14858",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14859",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14860",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14861",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14862",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14863",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14864",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14865",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14866",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14867",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14868",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Host: \"two Israeli officials at 4:00 a.m. their time, a Rabbi Wolicki who was stateside\" - Wolicki is explicitly not on Israel time; claim does not name him or Charlie.",
+  "fix": {
+   "mentions": [
+    "N-1"
+   ]
+  }
+ },
+ {
+  "claim": "C-14869",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14870",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14871",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14872",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14873",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14874",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14875",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14876",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14877",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14878",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14879",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14880",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14881",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14882",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14883",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14884",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14885",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14886",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14887",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ }
+]

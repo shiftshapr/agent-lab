@@ -2829,7 +2829,7 @@
       "@id": "C-11747",
       "ref": "C-11747",
       "label": "Host Says Israel Finances Migration Campaigns Into Europe While Blaming Arabs",
-      "claim": "The host asserts that Israel's agency (spelled 'MSAD') finances campaigns for people to run over borders into territories Israel is bombing, to eradicate Europeans through deception while blaming Arabs.",
+      "claim": "The host asserts that Israel's agency (spelled 'Mossad') finances campaigns for people to run over borders into territories Israel is bombing, to eradicate Europeans through deception while blaming Arabs.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -2837,7 +2837,7 @@
       ],
       "claim_timestamp": "00:40:33",
       "investigative_direction": "No evidence offered; would need documentary funding records.",
-      "transcript_snippet": "as is the MSAD motto, blaming the Arabs as they finance campaigns for them to run over borders in territories that Israel is bombing for Israel's expansion.",
+      "transcript_snippet": "as is the Mossad motto, blaming the Arabs as they finance campaigns for them to run over borders in territories that Israel is bombing for Israel's expansion.",
       "mentions_person_refs": [
         "N-3"
       ]
@@ -3204,14 +3204,14 @@
       "@type": "MemeAnalysis",
       "@id": "M-11",
       "ref": "M-11",
-      "canonical_term": "MSAD",
+      "canonical_term": "Mossad",
       "type": "meme",
       "occurrences": [
         {
           "episode": 136,
           "video_timestamp": "00:40:33",
           "speaker_node_ref": "N-3",
-          "quote": "as is the MSAD motto",
+          "quote": "as is the Mossad motto",
           "context": "Host's spelling of Mossad in the migration claim.",
           "confidence": "high",
           "tags": [

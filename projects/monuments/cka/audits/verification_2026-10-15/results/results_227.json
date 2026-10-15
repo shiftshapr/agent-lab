@@ -1,0 +1,758 @@
+[
+ {
+  "claim": "C-6253",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6254",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6255",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6256",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Transcript: Erika says there was no offer and \"doesn't know why Andrew [Kolvet] said that\"; claim gives that ignorance to Kolvet.",
+  "fix": {
+   "claim": "The host says TPUSA has privately rebutted this to her, with Erika saying Netanyahu's call was just a follow-up to a letter Charlie had written in May, that there was no offer, and that she does not know why Kolvet said that."
+  },
+  "material": true
+ },
+ {
+  "claim": "C-6257",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6258",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6259",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6260",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6261",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6262",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "\"Chief Long\" not said; host says \"Jeff Long\".",
+  "fix": {
+   "claim": "The host says UVU police asked Maycee Crofts for a TPUSA security contact after the August 25 meeting and none was provided, so Jeff Long went back to Caleb and asked again on September 2."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-6263",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6264",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Claim does not name Frank Turek (N-7) though Mentions lists him; claim names only Harpole.",
+  "fix": {
+   "mentions": [
+    "N-267"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-6265",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6266",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6267",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6268",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6269",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6270",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6271",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6272",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6273",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6274",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host heard missing-money rumblings from TPUSA people; the outside person is the source for the plan to fire Bowyer, not stated for the money.",
+  "fix": {
+   "claim": "The host says there were early rumblings, which she heard from people at TPUSA, that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-6275",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6276",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6277",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6278",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host: lawyer said \"you got like an alibi for this time?\" (asking), not offering one; \"before filing suit\" in label not said.",
+  "fix": {
+   "claim": "The host says Brian Harpole's lawyer, who filed a lawsuit against her, came to her multiple times asking whether she had an alibi for a time period, saying he did not know if Mitch Snow's account seemed credible and had no horse in the race.",
+   "label": "Host Says Harpole's Lawyer Repeatedly Asked Her About an Alibi"
+  },
+  "material": true
+ },
+ {
+  "claim": "C-6279",
+  "episode": 157,
+  "attribution": "error",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "After Pam's comment ends (\"Keep pushing. It's paying off.\"), \"It's funny because we had wondered...\" is the host's own words, not the comment.",
+  "fix": {
+   "claim": "The host says she and her team had wondered at the beginning of the week about a random push regarding Fort Huachuca when they were not discussing it, and that now they know it was a preemptive strike ahead of the Independent Review."
+  },
+  "material": true
+ },
+ {
+  "claim": "C-6280",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6281",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6282",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6283",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6284",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6285",
+  "episode": 157,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host says Ginan wrote her first Jezebel article June 26 and \"is going to be the one that writes\" the witch's curse article; claim merges them.",
+  "fix": {
+   "claim": "The host says that on June 26 Claire Ginan wrote her first article for Jezebel, that she would be the one to write the witch's curse article, and that she had no writing profile before that."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-3596",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Blake Neff (N-160) not named in claim; \"Lake Force\" is Lake Forest Group in transcript.",
+  "fix": {
+   "mentions": [
+    "N-13",
+    "N-2"
+   ],
+   "claim": "Host asserts Clara Molot's Vanity Fair profile\u2013enabled by months of TPUSA/Erika access including family\u2013reads as a frustrated reporter's portrait of an obvious grift, while TPUSA refused Lake Forest Group review cooperation."
+  },
+  "material": true
+ },
+ {
+  "claim": "C-3597",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "material",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Writer says only she \"seemed uneasy articulating her own political views\"; \"disingenuous or incoherent\" is the host's view (\"made the reporter know she was dealing with a fraud\").",
+  "fix": {
+   "claim": "Per the profile as read, Erika described decisions via a heaven/reunion heuristic and seemed uneasy articulating political views; the host says this is what made the reporter know she was dealing with a fraud."
+  },
+  "material": true
+ },
+ {
+  "claim": "C-3598",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-3599",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-3600",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "error",
+  "relevance": "untagged",
+  "note": "Host's list of other outfits begins ~22:25, over 100s after 20:37; Bari Weiss (N-279) not named in claim.",
+  "fix": {
+   "timestamp": "00:22:20",
+   "mentions": [
+    "N-2"
+   ]
+  },
+  "material": true
+ },
+ {
+  "claim": "C-3601",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-3602",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-3603",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-3604",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "\"2008\" and \"final\" not said; host says video project from sophomore year of college, \"two decades old\".",
+  "fix": {
+   "claim": "Host asserts attackers shifted from \"jealous of Erika / antisemitic\" frames to a deranged \"cheating lesbian funded by a Zionist\" package seeded by a real college video project and fake adjacent accounts."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-3605",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "\"Wayback\" not said; host says \"somebody archived\" the page.",
+  "fix": {
+   "claim": "Host claims the first archive of the college project is July 9, 2025\u2013the Netanyahu-in-Washington window\u2013and the next day is the July 10 HQ-driven UVU courtyard request; later August archives feed the smear package."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-3606",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-3607",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "Host's rejection and \"within 24 hours\" fall after the window; unverified.",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6286",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6287",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6288",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6289",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6290",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6291",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "\"Erika knows she doesn't make sense to most people\" is the writer; Erika's quote is \"I'm built different... world will not break me\".",
+  "fix": {
+   "claim": "The host reads the profile as saying Erika knows she does not make sense to most people, and quotes Erika as saying she is built different and that this world will not break her."
+  },
+  "material": false
+ },
+ {
+  "claim": "C-6292",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6293",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6294",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6295",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6296",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6297",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6298",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6299",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ },
+ {
+  "claim": "C-6300",
+  "episode": 158,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "note": "",
+  "fix": {},
+  "material": false
+ }
+]

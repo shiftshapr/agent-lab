@@ -118,7 +118,7 @@
           "@type": "Artifact",
           "@id": "A-2352.1",
           "ref": "A-2352.1",
-          "description": "Open letter from Arena, John Mappin, and Irina, addressed to \"the world,\" read aloud by host",
+          "description": "Open letter from Irina, John Mappin, and Irina, addressed to \"the world,\" read aloud by host",
           "related_claims": [
             "C-3407",
             "C-3408",
@@ -915,7 +915,7 @@
       "@id": "C-3406",
       "ref": "C-3406",
       "label": "Candace Owens journaled to Charlie Kirk throughout the year following his death",
-      "claim": "The host presents four dated journal entries written to Charlie Kirk across the year after his death, read aloud in full.",
+      "claim": "The host reads aloud journal entries she wrote to Charlie Kirk across the year after his death, saying she is sharing only some of her journaling.",
       "anchored_artifacts": [
         "A-2351.1",
         "A-2351.2",
@@ -936,7 +936,7 @@
       "@id": "C-3407",
       "ref": "C-3407",
       "label": "Mappin family open letter calls Charlie's death an \"execution\" with \"far-reaching international consequences\"",
-      "claim": "Arena, John Mappin, and Irina co-authored an open letter stating that Charlie's death was \"an assassination with potentially far-reaching political consequences\" and asserting that \"the truth, when known… will have far-reaching international consequences.\"",
+      "claim": "Irina and John Mappin co-authored an open letter, which the host reads, stating that Charlie's death was \"an assassination with potentially far-reaching political consequences\" and asserting that \"the truth, when known… will have far-reaching international consequences.\"",
       "anchored_artifacts": [
         "A-2352.1"
       ],
@@ -946,7 +946,8 @@
       "investigative_direction": "Locate original publication of the open letter and verify signatures.",
       "mentions_person_refs": [
         "N-1",
-        "N-155"
+        "N-155",
+        "N-156"
       ]
     },
     {
@@ -1052,7 +1053,8 @@
       "claim_timestamp": "00:25:15–00:26:04",
       "investigative_direction": "Confirm concert date and Kid Cudi's set via tour documentation.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-27"
       ]
     },
     {
@@ -1070,7 +1072,6 @@
       "investigative_direction": "Obtain probate records and any will amendments filed in relevant jurisdiction.",
       "mentions_person_refs": [
         "N-1",
-        "N-2",
         "N-3"
       ]
     },
@@ -1078,7 +1079,7 @@
       "@type": "Claim",
       "@id": "C-3415",
       "ref": "C-3415",
-      "label": "Host reports Charlie Kirk purchased a house in the suburbs that Erica Kirk avoided moving into",
+      "label": "Host Reports Charlie Kirk Purchased a House in the Suburbs that Erika Kirk Avoided Moving Into",
       "claim": "Host asserts in journal that Charlie \"purchased and dreamed about moving into\" a suburban house and that Erica \"came up with a million excuses not to.\"",
       "anchored_artifacts": [
         "A-2351.2"
@@ -1214,7 +1215,8 @@
       "claim_timestamp": "00:25:15",
       "investigative_direction": "Confirm via Ye tour itinerary and prior concert dates.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-27"
       ]
     },
     {
@@ -1448,8 +1450,8 @@
       "@type": "Claim",
       "@id": "C-14954",
       "ref": "C-14954",
-      "label": "Host Says Arena and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers",
-      "claim": "The host says Arena and John Mappin attended Charlie Kirk's memorial and that Irina told her she had never seen so many people speaking her native Russian in Arizona.",
+      "label": "Host Says Irina and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers",
+      "claim": "The host says Irina and John Mappin attended Charlie Kirk's memorial and that Irina told her she had never seen so many people speaking her native Russian in Arizona.",
       "anchored_artifacts": [
         "A-2351.1"
       ],
@@ -1465,7 +1467,8 @@
       "transcript_snippet": "she told me that she had never seen so many people speaking her native language, Russian, in Arizona.",
       "mentions_person_refs": [
         "N-155",
-        "N-156"
+        "N-156",
+        "N-1"
       ]
     },
     {
@@ -1652,7 +1655,7 @@
       "@id": "C-14963",
       "ref": "C-14963",
       "label": "Host Says Erika Kirk Has Chased Power Her Whole Life",
-      "claim": "The host says Erika Kirk has been chasing power her entire life and that this is why she will never have the real kind.",
+      "claim": "The host says Erika Kirk has been chasing power her entire life and that she thinks this is why she will never have the real kind.",
       "anchored_artifacts": [
         "A-2351.2"
       ],
@@ -1672,7 +1675,7 @@
       "@type": "Claim",
       "@id": "C-14964",
       "ref": "C-14964",
-      "label": "Host Says Charlie Told Her They Would Not Kill Him but Would Make Stuff Up and Attack Family",
+      "label": "Host Says Charlie Told Her They Would Not Kill Her but Would Make Stuff Up and Attack Family",
       "claim": "The host says that in spring 2018 Charlie Kirk told her not to fear death, that she was sent to fix things, that they would not kill her, and that they would make things up and then try to attack family, which would not work either.",
       "anchored_artifacts": [
         "A-2351.3"
@@ -1749,7 +1752,7 @@
       "@id": "C-14967",
       "ref": "C-14967",
       "label": "Host Says Meeting George on an Unplanned London Trip Saved Her Life",
-      "claim": "The host says she felt a spiritual pull to be in London in 2018, that Charlie arranged a reason to go, and that meeting George on that unplanned trip saved her life.",
+      "claim": "The host says she felt a spiritual pull to be in London in 2018, told Charlie they needed to be there and that he had to find a reason to get them there, and that meeting George on that unplanned trip saved her life.",
       "anchored_artifacts": [
         "A-2351.3"
       ],

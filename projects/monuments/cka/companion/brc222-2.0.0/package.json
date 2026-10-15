@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T11:23:27Z",
+  "generated_at": "2026-10-15T11:28:18Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -4704,7 +4704,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10505",
-      "label": "Host Says Andrew Pascado Was Questioned by the Feds on September 10 and Warns of Ukrainian Military Sex Trafficking",
+      "label": "Host Says Andrew Piskadlo Was Questioned by the Feds on September 10 and Warns of Ukrainian Military Sex Trafficking",
       "node_kind": "claim",
       "episode": 152
     },
@@ -4781,7 +4781,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10516",
-      "label": "Host Says Philip Goldsberry Jr. Co-Founded Sofer Global Ministries Serving Orphans in Romania, Albania and Ukraine",
+      "label": "Host Says Philip Goldsberry Jr. Co-Founded Soter Global Ministries Serving Orphans in Romania, Albania and Ukraine",
       "node_kind": "claim",
       "episode": 152
     },
@@ -4935,7 +4935,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10538",
-      "label": "Host Lists FBI, SBI, UVU Police, SWAT, US Marshals and Utah State Police Already on the Ground When ICAC Took McCoy's Statement",
+      "label": "Host Lists FBI, SBI, UVU Police, SWAT, US Marshals and Utah State University Police Already on the Ground When ICAC Took McCoy's Statement",
       "node_kind": "claim",
       "episode": 152
     },
@@ -5229,7 +5229,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10580",
-      "label": "Commenter Says Tyler Limps Only as He Nears Where He Was Told the Camera Is, and the Host Noticed It Too",
+      "label": "Commenter Says Tyler Limps Only as He Nears Where He Was Told the Camera Is",
       "node_kind": "claim",
       "episode": 152
     },
@@ -5292,7 +5292,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10589",
-      "label": "Host Says Alex Clark and Others Call Seeking the Epstein Files Gnosticism",
+      "label": "Host Mocks the Argument That Seeking the Epstein Files Is Gnosticism",
       "node_kind": "claim",
       "episode": 152
     },
@@ -8036,7 +8036,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-10981",
-      "label": "Host Says Why Rei Became the Number One Sponsor of the Charlie Kirk Fall Tour at the End of July",
+      "label": "Host Says Yrefy Became the Number One Sponsor of the Charlie Kirk Fall Tour at the End of July",
       "node_kind": "claim",
       "episode": 39
     },
@@ -14098,7 +14098,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11783",
-      "label": "Host lists Turek among those she says wore scrubs on returning from the hospital",
+      "label": "Host Says Her Hospital and Scrubs Questions Include Turek",
       "node_kind": "claim",
       "episode": 151
     },
@@ -14924,7 +14924,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11890",
-      "label": "Host Says Kirk Was Likely Not Shot by a 300 and an Explosive Is More Likely",
+      "label": "Host Says Kirk Was Likely Not Shot by a .30-06 and an Explosive Is More Likely",
       "node_kind": "claim",
       "episode": 155
     },
@@ -37583,21 +37583,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14834",
-      "label": "Novac Tells the Court It Is True Kirk Spoke Hatefully of Certain Groups",
+      "label": "Novak Tells the Court It Is True Kirk Spoke Hatefully of Certain Groups",
       "node_kind": "claim",
       "episode": 147
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14835",
-      "label": "Novac Says the Evidence From Twiggs Is That He Identified as Non-Gender-Conforming and Was in a Relationship With Robinson",
+      "label": "Novak Says the Evidence From Twiggs Is That He Identified as Non-Gender-Conforming and Was in a Relationship With Robinson",
       "node_kind": "claim",
       "episode": 147
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14836",
-      "label": "Novac Argues There Is a Gap Between Kirk's Expression and Robinson's Feelings That Lets the State Make It Up",
+      "label": "Novak Argues There Is a Gap Between Kirk's Expression and Robinson's Feelings That Lets the State Make It Up",
       "node_kind": "claim",
       "episode": 147
     },
@@ -37674,7 +37674,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14846",
-      "label": "Host Says the People Kirk Argued With About Israel the Day Before Were the First to Know He Was Dead",
+      "label": "Host Says the People Kirk Argued With the Day Before Were the First to Know He Was Dead",
       "node_kind": "claim",
       "episode": 147
     },
@@ -38500,7 +38500,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14954",
-      "label": "Host Says Arena and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers",
+      "label": "Host Says Irina and John Mappin Attended the Memorial and Irina Heard Many Russian Speakers",
       "node_kind": "claim",
       "episode": 150
     },
@@ -38577,7 +38577,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-14964",
-      "label": "Host Says Charlie Told Her They Would Not Kill Him but Would Make Stuff Up and Attack Family",
+      "label": "Host Says Charlie Told Her They Would Not Kill Her but Would Make Stuff Up and Attack Family",
       "node_kind": "claim",
       "episode": 150
     },
@@ -52234,7 +52234,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3378",
-      "label": "Blake Neff and Brandon Tatum sent an identical X post about Novac",
+      "label": "Blake Neff and Brandon Tatum sent an identical X post about Novak",
       "node_kind": "claim",
       "episode": 147
     },
@@ -52493,7 +52493,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3415",
-      "label": "Host reports Charlie Kirk purchased a house in the suburbs that Erica Kirk avoided moving into",
+      "label": "Host Reports Charlie Kirk Purchased a House in the Suburbs that Erika Kirk Avoided Moving Into",
       "node_kind": "claim",
       "episode": 150
     },
@@ -52773,7 +52773,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3455",
-      "label": "David Leavitt was the subject of an HSI whistleblower allegation regarding trafficking / Indian child welfare violations in 2020",
+      "label": "Host Says an HSI Whistleblower Alleged Video Evidence Potentially Implicating David Leavitt Was Received in 2020",
       "node_kind": "claim",
       "episode": 152
     },
@@ -52822,7 +52822,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3462",
-      "label": "Host Says Officer Bagley's Body Cam Footage Went Off Approximately 25 Minutes After Activation",
+      "label": "Host Says Officer Bagley's Body Cam Footage Notoriously Went Off After About 25 Minutes",
       "node_kind": "claim",
       "episode": 152
     },
@@ -53837,14 +53837,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3609",
-      "label": "Why Refi signed a detailed ~$2.25M TPUSA sponsorship contract in February 2025",
+      "label": "Yrefy signed a detailed ~$2.25M TPUSA sponsorship contract in February 2025",
       "node_kind": "claim",
       "episode": 159
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3610",
-      "label": "July 25 2025 Why Refi addendum paid ~$1.25M more solely for Charlie’s fall campus tour",
+      "label": "July 25 2025 Yrefy addendum paid ~$1.25M more solely for Charlie’s fall campus tour",
       "node_kind": "claim",
       "episode": 159
     },
@@ -54271,7 +54271,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3671",
-      "label": "CIA hat merch framed as Candace / Decentralized Intelligence Agency brand",
+      "label": "Host Plugs CIA Cap and Calls Show the Decentralized Intelligence Agency",
       "node_kind": "claim",
       "episode": 149
     },
@@ -55496,7 +55496,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3846",
-      "label": "The new camera arrived with the Why Refi sponsorship deal",
+      "label": "The new camera arrived with the Yrefy sponsorship deal",
       "node_kind": "claim",
       "episode": 95
     },
@@ -60158,7 +60158,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4512",
-      "label": "Why Refi became the fall tour's number one sponsor via an addendum",
+      "label": "Yrefy became the fall tour's number one sponsor via an addendum",
       "node_kind": "claim",
       "episode": 114
     },
@@ -72331,7 +72331,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6251",
-      "label": "Host says Why Rei re-upped as top sponsor on July 25 despite a contract through year end",
+      "label": "Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End",
       "node_kind": "claim",
       "episode": 157
     },
@@ -72520,7 +72520,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6278",
-      "label": "Host says Harpole's lawyer repeatedly approached her about an alibi before filing suit",
+      "label": "Host Says Harpole's Lawyer Repeatedly Asked About an Alibi",
       "node_kind": "claim",
       "episode": 157
     },
@@ -73129,28 +73129,28 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6365",
-      "label": "Tipster says Why Refi came in with extra money to offset lost revenue",
+      "label": "Tipster says Yrefy came in with extra money to offset lost revenue",
       "node_kind": "claim",
       "episode": 159
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6366",
-      "label": "Tipster alleges Why Refi had a say in tour stops; host says no evidence beyond hearsay",
+      "label": "Tipster alleges Yrefy had a say in tour stops; host says no evidence beyond hearsay",
       "node_kind": "claim",
       "episode": 159
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6367",
-      "label": "Host says Why Refi became a massive TPUSA sponsor in 2024 right after she stopped touring with Charlie",
+      "label": "Host says Yrefy became a massive TPUSA sponsor in 2024 right after she stopped touring with Charlie",
       "node_kind": "claim",
       "episode": 159
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6368",
-      "label": "Host alleges Dylan Erickson is a former TPUSA employee, now a contractor, also paid by Why Refi",
+      "label": "Host alleges Dylan Erickson is a former TPUSA employee, now a contractor, also paid by Yrefy",
       "node_kind": "claim",
       "episode": 159
     },
@@ -73164,7 +73164,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6370",
-      "label": "Host relays claim that Why Refi has many TPUSA contracts but does not pay",
+      "label": "Host relays claim that Yrefy has many TPUSA contracts but does not pay",
       "node_kind": "claim",
       "episode": 159
     },
@@ -73178,14 +73178,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6372",
-      "label": "Daily Mail headline: Why Refi accused of paying TPUSA for speaking slots to pitch to college students",
+      "label": "Daily Mail headline: Yrefy accused of paying TPUSA for speaking slots to pitch to college students",
       "node_kind": "claim",
       "episode": 159
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6373",
-      "label": "Daily Mail reports Why Refi faced $750,000 in state sanctions last year",
+      "label": "Daily Mail reports Yrefy faced $750,000 in state sanctions last year",
       "node_kind": "claim",
       "episode": 159
     },
@@ -73241,7 +73241,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6381",
-      "label": "Contract gives Why Refi hotel rooms, six inauguration seats and 25 Turning Point Ball tickets",
+      "label": "Contract gives Yrefy hotel rooms, six inauguration seats and 25 Turning Point Ball tickets",
       "node_kind": "claim",
       "episode": 159
     },
@@ -73269,7 +73269,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6385",
-      "label": "Host says people claim Why Refi never actually pays the money on its contracts",
+      "label": "Host says people claim Yrefy never actually pays the money on its contracts",
       "node_kind": "claim",
       "episode": 159
     },
@@ -73318,7 +73318,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6392",
-      "label": "Host says Andrew Kolvet worked with Chyros, Johnny Moore's company, before starting his own PR firm",
+      "label": "Host says Andrew Kolvet worked with Kairos, Johnny Moore's company, before starting his own PR firm",
       "node_kind": "claim",
       "episode": 159
     },
@@ -73577,7 +73577,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-6429",
-      "label": "Host says an Operation Valhalla strike began on August 24 between civilians and military training in Minnesota",
+      "label": "Host Says an Operation Valhalla Strike Began Between Civilians and Military Training in Minnesota",
       "node_kind": "claim",
       "episode": 159
     },
@@ -81914,7 +81914,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7620",
-      "label": "Clip Speaker Says Some People Would Call Butch Hibbs a Covert Operative for the CIA and MSAD",
+      "label": "Clip Speaker Says Some People Would Call Butch Hibbs a Covert Operative for the CIA and Mossad",
       "node_kind": "claim",
       "episode": 146
     },
@@ -82474,7 +82474,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7700",
-      "label": "Host Says She Went Down to Crowd Surf at 8 Months Pregnant",
+      "label": "Host Says She Was Down to Crowd Surf at 8 Months Pregnant",
       "node_kind": "claim",
       "episode": 148
     },
@@ -83363,7 +83363,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-7827",
-      "label": "Host Says the Video Release Was Meant to Show Erika Was Not at Fort Huachuca",
+      "label": "Host Says Erika Should Have Shown the Footage in a Sit-Down If She Needed to Prove Fort Huachuca",
       "node_kind": "claim",
       "episode": 156
     },
@@ -93128,7 +93128,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9222",
-      "label": "Host calls the New York Post the MSAD's rag tied to Ghislaine Maxwell coverage",
+      "label": "Host calls the New York Post the Mossad's rag tied to Ghislaine Maxwell coverage",
       "node_kind": "claim",
       "episode": 160
     },
@@ -93324,7 +93324,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-9250",
-      "label": "Host speculates the files would show an MSAD network of women under MK Ultra programming",
+      "label": "Host speculates the files would show an Mossad network of women under MK Ultra programming",
       "node_kind": "claim",
       "episode": 160
     },
@@ -120799,7 +120799,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2336",
-      "label": "Court Audio – Defense Counsel Richard Novac Argument",
+      "label": "Court Audio – Defense Counsel Richard Novak Argument",
       "node_kind": "artifact",
       "episode": 147
     },
@@ -121079,7 +121079,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2352.1",
-      "label": "Open letter from Arena, John Mappin, and Irina, addressed to \"the world,\" read aloud by host",
+      "label": "Open letter from Irina, John Mappin, and Irina, addressed to \"the world,\" read aloud by host",
       "node_kind": "artifact",
       "episode": 150
     },
@@ -122171,7 +122171,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2421.2",
-      "label": "Continuation of read-aloud warrant excerpt stating Agent Drainy (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick",
+      "label": "Continuation of read-aloud warrant excerpt stating Agent Draney (Utah State Bureau of Investigations) obtained records and video footage of Tyler Robinson's 2013 Dodge Challenger arriving at the Quick",
       "node_kind": "artifact",
       "episode": 156
     },
@@ -122409,7 +122409,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2433.4",
-      "label": "Diligent Denisen interview with one of the waiters working at Cowboy Smokehouse the night of September 10, released alongside the receipt",
+      "label": "Diligent Denizen interview with one of the waiters working at Cowboy Smokehouse the night of September 10, released alongside the receipt",
       "node_kind": "artifact",
       "episode": 149
     },
@@ -122962,21 +122962,21 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2467",
-      "label": "Why Refi February 2025 Master Sponsorship Contract Bundle",
+      "label": "Yrefy February 2025 Master Sponsorship Contract Bundle",
       "node_kind": "artifact",
       "episode": 159
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2467.1",
-      "label": "On-screen February 2025 TPUSA–Why Refi agreement (~$2.25M stated; host notes payment schedule summing nearer ~$2.47M) covering galas, summits, influencer blitz, Riley Gaines appearances, campus tour, ",
+      "label": "On-screen February 2025 TPUSA–Yrefy agreement (~$2.25M stated; host notes payment schedule summing nearer ~$2.47M) covering galas, summits, influencer blitz, Riley Gaines appearances, campus tour, and",
       "node_kind": "artifact",
       "episode": 159
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2468",
-      "label": "Why Refi July 25 2025 Fall-Tour Addendum Bundle",
+      "label": "Yrefy July 25 2025 Fall-Tour Addendum Bundle",
       "node_kind": "artifact",
       "episode": 159
     },
@@ -122997,7 +122997,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2469.1",
-      "label": "Host-constructed chronology linking Why Refi contracts, Macron/Brigitte stop-talking calls, June Iran debate / Instagram purge / UVU drill, July Netanyahu visit + college-video archive + UVU courtyard",
+      "label": "Host-constructed chronology linking Yrefy contracts, Macron/Brigitte stop-talking calls, June Iran debate / Instagram purge / UVU drill, July Netanyahu visit + college-video archive + UVU courtyard as",
       "node_kind": "artifact",
       "episode": 159
     },
@@ -126357,7 +126357,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2649.1",
-      "label": "Host's July–August 2025 timeline (SAS, the Trump call, the Long Beach flight, UVU, Maine, Why Refi, Hamptons, Aspen), plotted on air",
+      "label": "Host's July–August 2025 timeline (SAS, the Trump call, the Long Beach flight, UVU, Maine, Yrefy, Hamptons, Aspen), plotted on air",
       "node_kind": "artifact",
       "episode": 114
     },
@@ -129269,7 +129269,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2809.4",
-      "label": "Host verbal reference to TPUSA employees (past and present) who describe Why Refi as shady, say it rarely pays, and describe Dylan Erickson's dual role (not shown)",
+      "label": "Host verbal reference to TPUSA employees (past and present) who describe Yrefy as shady, say it rarely pays, and describe Dylan Erickson's dual role (not shown)",
       "node_kind": "artifact",
       "episode": 159
     },
@@ -129283,14 +129283,14 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2810",
-      "label": "Daily Mail Why Refi Article Bundle",
+      "label": "Daily Mail Yrefy Article Bundle",
       "node_kind": "artifact",
       "episode": 159
     },
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-2810.1",
-      "label": "On-screen Daily Mail headline and article text read aloud on Why Refi paying Turning Point USA for speaking slots, its $750,000 state sanctions and Massachusetts regulatory issues",
+      "label": "On-screen Daily Mail headline and article text read aloud on Yrefy paying Turning Point USA for speaking slots, its $750,000 state sanctions and Massachusetts regulatory issues",
       "node_kind": "artifact",
       "episode": 159
     },
@@ -134120,7 +134120,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-3114.1",
-      "label": "Host's timeline of July to September 2025 events (Tucker speech, Egyptian plane stops, Maine vacation, Why Rei sponsorship, Hamptons retreat, Netanyahu offer, Valhalla, Bright Star, DOGE email, Septem",
+      "label": "Host's timeline of July to September 2025 events (Tucker speech, Egyptian plane stops, Maine vacation, Yrefy sponsorship, Hamptons retreat, Netanyahu offer, Valhalla, Bright Star, DOGE email, Septembe",
       "node_kind": "artifact",
       "episode": 39
     },

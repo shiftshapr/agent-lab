@@ -1291,15 +1291,15 @@ Prior topic on Nampa, Idaho context linked by the host to Kip Crofts's arrest by
 
 ---
 
-**N-10870** Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-10870** Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum
 
-Prior topic on the Why Refi sponsorship and the July 25 addendum.
+Prior topic on the Yrefy sponsorship and the July 25 addendum.
 
 *Related: C-6251*
 
 ---
 
-**N-10871** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Why Refi)
+**N-10871** Expanded Feb–Aug 2025 Concurrent Timeline (Epstein Situation Room + UVU + Yrefy)
 
 Prior topic on the expanded concurrent timeline for 2025.
 
@@ -1443,7 +1443,7 @@ Claim Timestamp: 00:05:20
 Claim: The Lake Force independent review documents that despite repeated outreach (phone, voicemail, certified letter, and Phoenix senior-staff contact), Brian Harpole, Dan Flood, Maycee Crofts, and the UVU TPUSA club president did not participate, while UVU and public agencies did cooperate.
 
 Anchored Artifacts: A-2452.1, A-2451.1
-Mentions: N-8, N-267, N-271
+Mentions: N-8, N-267, N-271, N-10
 
 Related Nodes: N-10694, N-10839, N-10859
 
@@ -1473,7 +1473,7 @@ Claim Timestamp: 00:14:22
 Claim: The independent-review timeline states that on July 10, 2025, at the request of TPUSA field representative Maycee Crofts, the UVU club/president was told to request Charlie Kirk speak in the courtyard–characterized by the host as a reversal of normal TPUSA chapter event-request practice.
 
 Anchored Artifacts: A-2451.2
-Mentions: N-8, N-1
+Mentions: N-8, N-1, N-10
 
 Related Nodes: N-10221, N-10675, N-10860
 
@@ -1485,7 +1485,7 @@ Investigative Direction: Publish/obtain the underlying email quoted in the revie
 
 Claim Timestamp: 00:35:31
 
-Claim: Meeting participants told the review team that at the August 25 major-events meeting Maycee Crofts insisted on Fountain Courtyard because Charlie Kirk had previously spoken in that campus setting, even though UVU staff had raised outdoor-location concerns.
+Claim: Meeting participants told the review team that at the August 25 major-events meeting Maycee Crofts insisted on Fountain Courtyard because Charlie Kirk had previously spoken on campus and TPUSA was familiar with that location, even though UVU staff had raised outdoor-location concerns.
 
 Anchored Artifacts: A-2451.3
 Mentions: N-8, N-1
@@ -1563,7 +1563,7 @@ Claim Timestamp: 00:56:42
 Claim: Host claims Charlie Kirk’s July 2025 pressures (post–White House/BB confrontation and Instagram purge in June; Epstein-coverage walk-back ~July 14; Erika travel; formal UVU request July 18; sponsorship addendum July 25; Egyptian-plane movements; Hamptons retreat) form a suspicious concurrent backdrop to the July 10 HQ-driven UVU courtyard request.
 
 Anchored Artifacts: A-2456.1
-Mentions: N-1
+Mentions: N-1, N-2, N-36
 
 Related Nodes: N-10675, N-10860, N-10863
 
@@ -1700,7 +1700,7 @@ Claim: The host reads the review's stated opinion that at no time before or afte
 Transcript Snippet: It is the opinion of the project team based on our review of all available information that at no time during the events leading up to the assassination of Charlie Kirk
 
 Anchored Artifacts: A-2802.1
-Mentions: N-2
+Mentions: 
 Related Nodes: N-10839, N-10012
 Investigative Direction: Compare the page 10 executive summary wording with the Kirk-family statement blaming UVU security.
 
@@ -1851,7 +1851,7 @@ Claim: The host reads that in response to UVU's questionnaire TPUSA said it expe
 Transcript Snippet: at that time in response to UVU's questionnaire, TPUSA told them it was going to be 600 attendees.
 
 Anchored Artifacts: A-2802.4
-Mentions: N-10
+Mentions: 
 Related Nodes: N-10675, N-10694
 Investigative Direction: Compare the 600-attendee figure and registration counts held by TPUSA National before the event.
 
@@ -2109,7 +2109,7 @@ Claim: The host says that, on learning of the EMP threat, she recalls that Lori 
 Transcript Snippet: whose family was super involved with EMPs? Lorie Frantzve EMPs.
 
 Anchored Artifacts: A-2802.5
-Mentions: N-490, N-2
+Mentions: N-490
 Related Nodes: N-10861
 Investigative Direction: Document Frantzve family patents, companies or filings concerning EMP technology.
 
@@ -2515,7 +2515,7 @@ Investigative Direction: Obtain the evidence log and photographs of the screwdri
 
 Claim Timestamp: 00:49:15
 
-Claim: The host says Officer Bagley's body camera footage went off because of a lost battery and that he testified he had no body cam, even though he was the one who suggested going up.
+Claim: The host says Officer Bagley's body camera footage went off, saying he lost the battery or it just was not working ('I don't know'), and that, whatever he testified, he had no body cam, even though he was the one who suggested going up.
 
 Transcript Snippet: Officer Bagley, whose body cam footage went off, um lost the battery.
 
@@ -2827,11 +2827,11 @@ Investigative Direction: Obtain dated posts and metadata of the Maine vacation f
 
 ---
 
-**C-6251** Host says Why Rei re-upped as top sponsor on July 25 despite a contract through year end
+**C-6251** Yrefy Re-Upped as Top Sponsor on July 25 Despite Contract Through Year End
 
 Claim Timestamp: 01:03:03
 
-Claim: The host says Why Rei came in as number one sponsor for a Charlie Kirk fall tour on July 25 even though it had already signed a contract in January covering events through the end of the year.
+Claim: The host says Yrefy came in as number one sponsor for a Charlie Kirk fall tour on July 25 even though it had already signed a contract in January covering events through the end of the year.
 
 Transcript Snippet: he had already Wyi had already signed a contract in January which covered events through the end of the year.
 
@@ -2908,7 +2908,7 @@ Investigative Direction: Obtain Kolvet's contemporaneous account and call record
 
 Claim Timestamp: 01:05:11
 
-Claim: The host says TPUSA has privately rebutted her, saying Netanyahu's call was just a follow-up to a letter Charlie had written in May, that there was no offer, and that Kolvet did not know why he said that.
+Claim: The host says TPUSA has privately rebutted this to her, with Erika saying Netanyahu's call was just a follow-up to a letter Charlie had written in May, that there was no offer, and that she does not know why Kolvet said that.
 
 Transcript Snippet: it was just a followup to a letter that Charlie had written him in May.
 
@@ -3029,14 +3029,14 @@ Investigative Direction: Verify Cipher's role and September 10 presence through 
 
 **C-6264** Host says the documents note the event could have been moved inside if TPUSA had raised concerns
 
-Claim Timestamp: 01:08:14
+Claim Timestamp: 01:08:47
 
 Claim: The host says the review notes that if Harpole had said on the ground he did not like the feel, TPUSA could potentially have moved the event inside, but they never communicated this to UVU police.
 
 Transcript Snippet: They never communicated this to the police at UVU.
 
 Anchored Artifacts: A-2802.13
-Mentions: N-267, N-7
+Mentions: N-267
 Related Nodes: N-10243
 Investigative Direction: Identify the review passage on indoor alternatives and whether UVU would have accommodated a late move.
 
@@ -3182,7 +3182,7 @@ Investigative Direction: Document Cipher's reporting line and ties to Bowyer thr
 
 Claim Timestamp: 01:20:39
 
-Claim: The host says there were early rumblings, which she heard from people at TPUSA and from a person outside TPUSA, that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.
+Claim: The host says there were early rumblings, which she heard from people at TPUSA, that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.
 
 Transcript Snippet: there were rumblings early on that money was missing, particularly from Turning Point Action, which Tyler Bowyer controls.
 
@@ -3238,11 +3238,11 @@ Investigative Direction: Document the dates and nature of the Bowyer and Erika a
 
 ---
 
-**C-6278** Host says Harpole's lawyer repeatedly approached her about an alibi before filing suit
+**C-6278** Host Says Harpole's Lawyer Repeatedly Asked About an Alibi
 
 Claim Timestamp: 01:25:48
 
-Claim: The host says Brian Harpole's lawyer, who filed a lawsuit against her, came to her multiple times offering an alibi for a time period and said he had no horse in the race on whether Mitch Snow's account was credible.
+Claim: The host says Brian Harpole's lawyer, who filed a lawsuit against her, came multiple times asking 'you got like an alibi for this time,' saying he did not know if Mitch Snow's account seemed credible and had no horse in the race.
 
 Transcript Snippet: we should totally trust his lawyer filing a lawsuit against me who came to you multiple times
 
@@ -3255,9 +3255,9 @@ Investigative Direction: Obtain the lawyer's communications with the host and th
 
 **C-6279** Host says the earlier-week Fort Huachuca push was a preemptive strike before the review
 
-Claim Timestamp: 01:25:48
+Claim Timestamp: 01:25:33
 
-Claim: The host, reading a viewer comment, says the team wondered earlier in the week about a random push regarding Fort Huachuca and now knows it was a preemptive strike ahead of the review.
+Claim: The host says she and her team had wondered at the beginning of the week about a random push regarding Fort Huachuca when they were not discussing it, and that now they know it was a preemptive strike ahead of the Independent Review.
 
 Transcript Snippet: what was with this random push about Fort Huachuca when we weren't discussing Fort Huachuca and now we know.
 
@@ -3348,7 +3348,7 @@ Investigative Direction: Confirm the Operation Midnight Hammer date against publ
 
 Claim Timestamp: 01:27:40
 
-Claim: The host says that on June 26 Claire Ginan wrote her first article for Jezebel, the witch's curse article, and had no writing profile before that.
+Claim: The host says that on June 26 Claire Ginan wrote her first article for Jezebel, that she would be the one to write the witch's curse article, and that she had no writing profile before that.
 
 Transcript Snippet: on June 26th is when suddenly Claire Ginan writes her first article for Jezebel.
 

@@ -1567,7 +1567,7 @@
       "@id": "C-3496",
       "ref": "C-3496",
       "label": "TPUSA Statement to ABC News Framed UVU Event as Open-to-Public / Unticketed Prove Me Wrong Format",
-      "claim": "Per a Turning Point USA official's statement to ABC News that the host reads, the UVU event was styled as open-to-public and unticketed, comparable to prior \"Prove Me Wrong\" campus events, with no crowd control.",
+      "claim": "Per a Turning Point USA official's statement to ABC News that the host reads, the UVU event was styled as open-to-public and unticketed, comparable to prior \"Prove Me Wrong\" campus events; the host adds that such events have no crowd control.",
       "anchored_artifacts": [
         "A-2393.1"
       ],
@@ -1621,8 +1621,9 @@
       "claim_timestamp": "00:17:00",
       "investigative_direction": "Obtain the 4plebs post URL and archived timestamp; verify content alignment; verify whether the Vox article actually linked to this post or only to the broader 4plebs forum.",
       "mentions_person_refs": [
-        "N-3",
-        "N-14"
+        "N-1",
+        "N-2",
+        "N-3"
       ]
     },
     {
@@ -1670,7 +1671,7 @@
       "@id": "C-3501",
       "ref": "C-3501",
       "label": "TPUSA Claimed 500+ Voluntary Nampa Christian School Attendees",
-      "claim": "TPUSA's X post claimed 500+ \"outstanding high school student attendees\" attended the Nampa Christian School event voluntarily as part of the Club America tour.",
+      "claim": "TPUSA's X post claimed 500+ \"outstanding high school student attendees\" at the Nampa Christian School event as part of the Club America tour.",
       "anchored_artifacts": [
         "A-2398.1"
       ],
@@ -1727,7 +1728,7 @@
       "@id": "C-3504",
       "ref": "C-3504",
       "label": "Politico Published Profile Of Blake Neff",
-      "claim": "Per a Politico profile of Blake Neff by Ian Ward that the host shows, the article is titled \"Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed.\"",
+      "claim": "Per a Politico profile of Blake Neff by Ian Ward that the host shows, the article's subtitle is \"Blake Neff helped make stars of Charlie Kirk and Tucker Carlson. He's now trying to rein in what he unleashed.\" and its headline is \"Charlie Kirk's lieutenant has second thoughts.\"",
       "anchored_artifacts": [
         "A-2400.1"
       ],
@@ -1746,7 +1747,7 @@
       "@id": "C-3505",
       "ref": "C-3505",
       "label": "Politico Profile Framed Blake Neff's Free Speech Position As \"Maximalist\"",
-      "claim": "The Politico profile (author Ian Ward) framed Blake Neff's position as a \"maximalist position on free speech\" – host notes this is the author's framing, not Neff's verbatim.",
+      "claim": "In a clip the host plays, Tucker Carlson says the Politico profile (author Ian Ward) framed Blake Neff's position as a \"maximalist position on free speech\" and notes this is the author's framing, not a Neff quote.",
       "anchored_artifacts": [
         "A-2400.2"
       ],
@@ -1755,7 +1756,8 @@
       "claim_timestamp": "00:47:48",
       "investigative_direction": "Verify direct attribution of the \"maximalist\" phrase to Ward vs Neff.",
       "mentions_person_refs": [
-        "N-160"
+        "N-160",
+        "N-22"
       ]
     },
     {
@@ -1771,7 +1773,7 @@
         "N-10845"
       ],
       "tags": [],
-      "claim_timestamp": "00:45:02",
+      "claim_timestamp": "00:49:47",
       "investigative_direction": "Identify the original Tucker Carlson platform/episode where this criticism aired; verify whether Carlson explicitly named Neff.",
       "mentions_person_refs": [
         "N-1",
@@ -1784,7 +1786,7 @@
       "@id": "C-3507",
       "ref": "C-3507",
       "label": "Blake Neff Verbatim Censorship Quote",
-      "claim": "Blake Neff stated verbatim per Politico: \"Either we have to make our peace with censorship and explain how we're going to do that or we have to explain how we're going to combat this without censorship. Period. But we've got to confront it.\"",
+      "claim": "In a clip the host plays, Tucker Carlson reads what he calls a verbatim quote from Blake Neff: \"Either we have to make our peace with censorship and explain how we're going to do that or we have to explain how we're going to combat this without censorship. Period. But we've got to confront it.\"",
       "anchored_artifacts": [
         "A-2400.1"
       ],
@@ -1792,10 +1794,11 @@
         "N-10845"
       ],
       "tags": [],
-      "claim_timestamp": "00:50:04",
+      "claim_timestamp": "00:49:42",
       "investigative_direction": "Confirm full quote and attribution context in Politico article.",
       "mentions_person_refs": [
-        "N-160"
+        "N-160",
+        "N-22"
       ]
     },
     {
@@ -1848,7 +1851,7 @@
         "N-10844"
       ],
       "tags": [],
-      "claim_timestamp": "00:34:54",
+      "claim_timestamp": "00:37:12",
       "investigative_direction": "Identify and obtain direct confirmation from call participants or schedules; cross-check Empress Films project pipeline for Aug–Sep 2025.",
       "mentions_person_refs": [
         "N-2",
@@ -1898,7 +1901,7 @@
       "@id": "C-3673",
       "ref": "C-3673",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "While promoting merchandise, the host says the \"CIA\" hats should actually say \"decentralized intelligence agency\" because \"we got nothing to hide.\"",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -1940,7 +1943,7 @@
         "N-11313"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:00:01",
       "investigative_direction": "Host's own statement; the planned leave is covered by the later comment claim.",
@@ -2500,7 +2503,6 @@
       "investigative_direction": "Locate the Newsweek letter and the school newsletter wording.",
       "transcript_snippet": "they called it secret because the the high school told them",
       "mentions_person_refs": [
-        "N-2",
         "N-3"
       ]
     },
@@ -2525,7 +2527,6 @@
       "transcript_snippet": "so that you could lie to donors about attendance numbers.",
       "mentions_person_refs": [
         "N-14",
-        "N-1",
         "N-3"
       ]
     },
@@ -2556,7 +2557,7 @@
       "@id": "C-11830",
       "ref": "C-11830",
       "label": "Host Lists TPUSA 2.0 Connections to Patel, Hegseth and the Executive Office",
-      "claim": "The host says, in describing the new TPUSA 2.0 leadership, that they know Kash Patel and Pete Hegseth, have the executive office on speed dial and have Air Force Two and Air Force One.",
+      "claim": "The host, sarcastically voicing the new TPUSA 2.0 (\"We got power\"), says they know Kash Patel and Pete Hegseth, have the executive office on speed dial and have Air Force Two and Air Force One.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"
@@ -2761,7 +2762,7 @@
       "@id": "C-11839",
       "ref": "C-11839",
       "label": "Host Says Empress Films Staff Are Openly Left-Leaning",
-      "claim": "The host says the Empress Films staff are proud feminists and pro-LGBTQ and that one employee wore a shirt she reads as \"slay the patriarchy,\" which she says makes the company an odd match for Erika Kirk and Kolvet.",
+      "claim": "The host says the Empress Films staff are proud feminists and pro-LGBTQ and that one employee wore a shirt she describes as \"slay the patriarchy\" but then reads as \"Never gender\" while saying she cannot see it well, which she says makes the company an odd match for Erika Kirk and Kolvet.",
       "anchored_artifacts": [
         "A-3166.1"
       ],
@@ -2823,7 +2824,6 @@
       "mentions_person_refs": [
         "N-160",
         "N-734",
-        "N-22",
         "N-1"
       ]
     },
@@ -2844,8 +2844,7 @@
       "investigative_direction": "Check contemporaneous reporting on the Neff scandal.",
       "transcript_snippet": "Blake Knap was involved in this racism scandal for being a total creep online",
       "mentions_person_refs": [
-        "N-160",
-        "N-22"
+        "N-160"
       ]
     },
     {
@@ -2914,8 +2913,7 @@
       "investigative_direction": "Verify the clip against the original Tucker Carlson broadcast.",
       "transcript_snippet": "there's no maximalist position on free speech anymore than there is on pregnancy.",
       "mentions_person_refs": [
-        "N-22",
-        "N-1"
+        "N-22"
       ]
     },
     {
@@ -3040,7 +3038,7 @@
       "@id": "C-11851",
       "ref": "C-11851",
       "label": "Host Says She Will Be Away About Eight Weeks With Baron Coleman Taking Over",
-      "claim": "The host says, joking about how TPUSA would react to her leave, that she is gone for about eight weeks and that Baron Coleman will take over the show.",
+      "claim": "Reading a viewer comment that says TPUSA probably cancelled its party on learning Baron Coleman would take over the show, the host jokes that TPUSA was excited because \"she's gone for like eight weeks.\"",
       "anchored_artifacts": [
         "A-3169.1"
       ],
@@ -3069,7 +3067,7 @@
         "N-10872"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:56:57",
       "investigative_direction": "Find the Tucker Carlson interview with the Cole family and check what exactly they say.",
@@ -3084,7 +3082,7 @@
       "@id": "C-11853",
       "ref": "C-11853",
       "label": "Host Says Old Footage of Cole Being Pulled Over Was Released Immediately",
-      "claim": "The host says that after the Cole family spoke out, authorities immediately released old footage of Brian Cole being pulled over, and that the same two Scripps News reporters released the Robinson footage.",
+      "claim": "The host says that after the Cole family spoke out, \"they\" immediately released old footage of Brian Cole being pulled over, and that the same two Scripps News reporters released the Robinson footage.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10872",
@@ -3122,7 +3120,6 @@
       "investigative_direction": "The host offers no evidence here; see January 6 federal coordination records.",
       "transcript_snippet": "January 6th was a fed operation.",
       "mentions_person_refs": [
-        "N-25",
         "N-3"
       ]
     },
@@ -3142,18 +3139,14 @@
       ],
       "claim_timestamp": "00:57:59",
       "investigative_direction": "The host offers no documents; compare the retention practice for the Cole and Robinson footage with ordinary retention rules.",
-      "transcript_snippet": "they're keeping them in a file in case the feds need to commit a crime and pin it on them.",
-      "mentions_person_refs": [
-        "N-25",
-        "N-40"
-      ]
+      "transcript_snippet": "they're keeping them in a file in case the feds need to commit a crime and pin it on them."
     },
     {
       "@type": "Claim",
       "@id": "C-11856",
       "ref": "C-11856",
       "label": "Host Says TPUSA Welcomes Matt Tardio Despite Him Chasing Women Near ICE Facilities",
-      "claim": "The host says TPUSA has Matt Tardio on its show and lets him on as long as he says something bad about her, even though he was chasing young women down alleys in front of ICE facilities.",
+      "claim": "The host, voicing TPUSA mockingly, says \"we don't care what you did\" to Matt Tardio and \"we'll have you on the show as long as you say something bad about Candace,\" while Erika has access to high schools and he was chasing young women down alleys in front of ICE facilities.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000"

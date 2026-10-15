@@ -2058,14 +2058,17 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:09:25–00:10:50",
-      "investigative_direction": "Locate the full source clip and verify date / context; cross-check with court biographical records.*"
+      "investigative_direction": "Locate the full source clip and verify date / context; cross-check with court biographical records.*",
+      "mentions_person_refs": [
+        "N-136"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3447",
       "ref": "C-3447",
       "label": "Host Says Mike Mitchell Was an Undercover Detective Specializing in Internet Sex Crimes Against Children",
-      "claim": "The host says Mike Mitchell's career was as an undercover detective in internet sex crimes against children, and that he was the linchpin in the Tyler Robinson surrender process.",
+      "claim": "The host says Mike Mitchell was an undercover detective in internet sex crimes against children, and that in her opinion he is the linchpin to the entire case against Tyler Robinson because he persuaded the Robinson family to have Tyler surrender.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10831"
@@ -2127,7 +2130,9 @@
       "investigative_direction": "Pull the search warrant records from Utah court filings to verify signatory.*",
       "mentions_person_refs": [
         "N-1",
-        "N-42"
+        "N-42",
+        "N-331",
+        "N-868"
       ]
     },
     {
@@ -2144,14 +2149,18 @@
       ],
       "tags": [],
       "claim_timestamp": "00:12:41–00:15:26",
-      "investigative_direction": "Verify Carl's Utah County Sheriff's Office / ICAC assignment records.*"
+      "investigative_direction": "Verify Carl's Utah County Sheriff's Office / ICAC assignment records.*",
+      "mentions_person_refs": [
+        "N-331",
+        "N-868"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3452",
       "ref": "C-3452",
       "label": "Host Says a Utah ICAC Officer Took Mikey McCoy's Statement on September 10",
-      "claim": "The host says the never-before-seen footage and still photographs she shows depict Mikey McCoy's statement on September 10, 2025 being taken by a female officer wearing a vest reading \"Police\" and \"Utah ICAC.\"",
+      "claim": "The host says the never-before-seen footage and still photographs she shows depict what she infers is Mikey McCoy's statement on September 10, 2025 being taken by a female officer wearing a vest reading \"Police\" and \"Utah ICAC.\"",
       "anchored_artifacts": [
         "A-2376.1",
         "A-2376.2",
@@ -2201,13 +2210,16 @@
       "@type": "Claim",
       "@id": "C-3455",
       "ref": "C-3455",
-      "label": "David Leavitt was the subject of an HSI whistleblower allegation regarding trafficking / Indian child welfare violations in 2020",
-      "claim": "The episode presents that in 2020, an HSI whistleblower alleged that video evidence potentially implicating then-Utah AG David Leavitt in federal trafficking and Indian child welfare violations was received but no investigation was opened.",
+      "label": "Host Says an HSI Whistleblower Alleged Video Evidence Potentially Implicating David Leavitt Was Received in 2020",
+      "claim": "The host says that in 2020 an HSI analyst alleged that personnel received video evidence in April 2020 potentially implicating David Leavitt, whom she calls the Utah attorney general, in violations of federal trafficking and Indian child welfare laws, but failed to open an investigation; she says there was no criminal finding against him.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:23:47–00:25:47",
-      "investigative_direction": "Obtain HSI whistleblower complaint / DOJ records pertaining to Leavitt.*"
+      "claim_timestamp": "00:27:05",
+      "investigative_direction": "Obtain HSI whistleblower complaint / DOJ records pertaining to Leavitt.*",
+      "mentions_person_refs": [
+        "N-869"
+      ]
     },
     {
       "@type": "Claim",
@@ -2219,14 +2231,17 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:27:01–00:28:24",
-      "investigative_direction": "Obtain the May–June 2022 Utah County Sheriff's Office press materials and any related filings.*"
+      "investigative_direction": "Obtain the May–June 2022 Utah County Sheriff's Office press materials and any related filings.*",
+      "mentions_person_refs": [
+        "N-869"
+      ]
     },
     {
       "@type": "Claim",
       "@id": "C-3457",
       "ref": "C-3457",
       "label": "Matt Tardio pled no contest October 2025 to felony coercion and misdemeanor harassment in an incident captured by surveillance at an ICE facility",
-      "claim": "The episode presents that Matt Tardio pled no contest in Portland in October 2025 to felony coercion and misdemeanor harassment following an incident at an ICE facility, with surveillance cameras capturing the alleged conduct.",
+      "claim": "The host says, citing a Bulwark report, that Matt Tardio pleaded no contest in Portland to felony coercion and misdemeanor harassment over an incident she dates to last October, October 2025, and that the alleged conduct was captured by surveillance cameras at the ICE facility.",
       "anchored_artifacts": [
         "A-2379.1",
         "A-2380.1"
@@ -2236,7 +2251,6 @@
       "claim_timestamp": "00:38:56–00:41:02",
       "investigative_direction": "Pull Portland court records for Matt Tardio's October 2025 plea and related news reports.*",
       "mentions_person_refs": [
-        "N-2",
         "N-590"
       ]
     },
@@ -2252,7 +2266,11 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:43:58–00:45:32",
-      "investigative_direction": "Identify the specific tour stop date and verify the full unedited speech.*"
+      "investigative_direction": "Identify the specific tour stop date and verify the full unedited speech.*",
+      "mentions_person_refs": [
+        "N-836",
+        "N-837"
+      ]
     },
     {
       "@type": "Claim",
@@ -2264,7 +2282,12 @@
       "related_nodes": [],
       "tags": [],
       "claim_timestamp": "00:47:38–00:48:56",
-      "investigative_direction": "Locate primary reporting on the lobbying / cancellation; verify Kraft's role.*"
+      "investigative_direction": "Locate primary reporting on the lobbying / cancellation; verify Kraft's role.*",
+      "mentions_person_refs": [
+        "N-195",
+        "N-836",
+        "N-837"
+      ]
     },
     {
       "@type": "Claim",
@@ -2298,19 +2321,20 @@
       "investigative_direction": "Verify Mitchell's role via investigative reporting and Robinson family statements.*",
       "mentions_person_refs": [
         "N-40",
-        "N-125"
+        "N-125",
+        "N-778"
       ]
     },
     {
       "@type": "Claim",
       "@id": "C-3462",
       "ref": "C-3462",
-      "label": "Host Says Officer Bagley's Body Cam Footage Went Off Approximately 25 Minutes After Activation",
+      "label": "Host Says Officer Bagley's Body Cam Footage Notoriously Went Off After About 25 Minutes",
       "claim": "The host says Bagley's body cam footage notoriously went off after about 25 minutes.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
-      "claim_timestamp": "00:11:56",
+      "claim_timestamp": "00:11:10",
       "investigative_direction": "Verify via Bagley's body cam records disclosed in preliminary hearing exhibits.*",
       "mentions_person_refs": [
         "N-507"
@@ -2433,7 +2457,7 @@
         "N-11203"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:04:52",
       "investigative_direction": "Obtain the Make Heaven Crowded tour lineup and event paperwork and confirm Laurie's billing.",
@@ -2469,8 +2493,8 @@
       "@type": "Claim",
       "@id": "C-10505",
       "ref": "C-10505",
-      "label": "Host Says Andrew Pascado Was Questioned by the Feds on September 10 and Warns of Ukrainian Military Sex Trafficking",
-      "claim": "The host says Andrew Pascado was one of the people the feds questioned on September 10 and that in his own capacity he works to ring the alarm on military Ukrainian sex trafficking into the United States.",
+      "label": "Host Says Andrew Piskadlo Was Questioned by the Feds on September 10 and Warns of Ukrainian Military Sex Trafficking",
+      "claim": "The host says Andrew Piskadlo was one of the people the feds questioned on September 10 and that in his own capacity he works to ring the alarm on military Ukrainian sex trafficking into the United States.",
       "anchored_artifacts": [
         "A-2382.1"
       ],
@@ -2480,7 +2504,7 @@
       ],
       "claim_timestamp": "00:05:40",
       "investigative_direction": "Identify Pascado under his correct spelling and find the record or earlier episode that places him among those questioned on September 10.",
-      "transcript_snippet": "Andrew Pascado, you'll remember, he was one of the uh people that the feds questioned on September 10th. He also in his own capacity works to ring the alarm on military Ukrainian sex trafficking into the United States.",
+      "transcript_snippet": "Andrew Piskadlo, you'll remember, he was one of the uh people that the feds questioned on September 10th. He also in his own capacity works to ring the alarm on military Ukrainian sex trafficking into the United States.",
       "mentions_person_refs": [
         "N-803"
       ]
@@ -2704,8 +2728,8 @@
       "@type": "Claim",
       "@id": "C-10516",
       "ref": "C-10516",
-      "label": "Host Says Philip Goldsberry Jr. Co-Founded Sofer Global Ministries Serving Orphans in Romania, Albania and Ukraine",
-      "claim": "The host says Philip Goldsberry Jr. co-founded Sofer Global Ministries (transcribed Sofur), a 501(c)(3) that provides medical care and training to orphans in Romania, Albania and Ukraine.",
+      "label": "Host Says Philip Goldsberry Jr. Co-Founded Soter Global Ministries Serving Orphans in Romania, Albania and Ukraine",
+      "claim": "The host says Philip Goldsberry Jr. co-founded Soter Global Ministries (transcribed Sofur), a 501(c)(3) that provides medical care and training to orphans in Romania, Albania and Ukraine.",
       "anchored_artifacts": [
         "A-2382.1"
       ],
@@ -2717,7 +2741,7 @@
       ],
       "claim_timestamp": "00:07:01",
       "investigative_direction": "Pull the IRS filing for Sofer Global Ministries and its officers.",
-      "transcript_snippet": "co-founding Sofur Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.",
+      "transcript_snippet": "co-founding Soter Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.",
       "mentions_person_refs": [
         "N-688",
         "N-689"
@@ -3194,7 +3218,7 @@
       "@type": "Claim",
       "@id": "C-10538",
       "ref": "C-10538",
-      "label": "Host Lists FBI, SBI, UVU Police, SWAT, US Marshals and Utah State Police Already on the Ground When ICAC Took McCoy's Statement",
+      "label": "Host Lists FBI, SBI, UVU Police, SWAT, US Marshals and Utah State University Police Already on the Ground When ICAC Took McCoy's Statement",
       "claim": "The host says that at the time the FBI, eventually the SBI, UVU police, SWAT, US Marshals and undercover Utah State University police were already present, so it is odd an ICAC officer took McCoy's statement.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -3268,7 +3292,7 @@
       "@id": "C-10541",
       "ref": "C-10541",
       "label": "Host Calls It Her Strong Opinion That Feds Are Directing the ICAC Presence as a Control Mechanism",
-      "claim": "The host says, as her strong opinion, that the pattern looks like a control mechanism being directed by the feds, as one big group wanted to have its hands everywhere in the case.",
+      "claim": "The host says, as her strong opinion, that this looks like a control mechanism being directed by the feds, that it is one big group, and that for some reason the feds wanted them to have their hands everywhere in the case.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10831"
@@ -3741,7 +3765,7 @@
       "@id": "C-10565",
       "ref": "C-10565",
       "label": "Tardio Says the Host's Video Was Compressed or Screen Recorded and That There Is No Such Thing as a Lateral Crawl",
-      "claim": "In the clip, Tardio says there are very clear signs the video was compressed or a screen recording before it reached the host, and says there is no such thing as a lateral crawl.",
+      "claim": "In the clip, Tardio says there are very clear signs the video was compressed or a screen recording before it reached the host, and says that as far as he knows there is no such thing as a lateral crawl.",
       "anchored_artifacts": [
         "A-2380.1"
       ],
@@ -3830,7 +3854,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:46:20",
       "investigative_direction": "Confirm stadium ownership and any communication from Kraft about the tour.",
@@ -3854,7 +3878,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:44:05",
       "investigative_direction": "Obtain the full concert recording.",
@@ -3877,7 +3901,7 @@
       ],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:45:20",
       "investigative_direction": "Obtain the full concert recording and note the stop and date.",
@@ -3898,7 +3922,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:48:56",
       "investigative_direction": "Obtain Ed Sheeran's public statement on the decision.",
@@ -3917,7 +3941,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:48:56",
       "investigative_direction": "Identify the three openers and the dates and wording of their withdrawal.",
@@ -3932,11 +3956,11 @@
       "@id": "C-10574",
       "ref": "C-10574",
       "label": "Host Says Ed Sheeran's Tour Has Only Three Stops Left",
-      "claim": "The host says there are only three tour stops left on Ed Sheeran's tour and calls on listeners to skip them if he goes ahead.",
+      "claim": "The host says she thinks there are only three tour stops left on Ed Sheeran's tour and calls on listeners to skip them if he goes ahead.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:48:56",
       "investigative_direction": "Check the official tour schedule.",
@@ -3956,7 +3980,7 @@
         "N-11099"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:48:56",
       "investigative_direction": "Obtain the Australian Home Affairs decision and any documented lobbying.",
@@ -4026,7 +4050,7 @@
       "@id": "C-10579",
       "ref": "C-10579",
       "label": "Commenter Says Erika Forgave the Young Man Immediately, and the Host Says Alex Clark Now Pushes Repentance First",
-      "claim": "The host reads a comment saying Erika immediately forgave the young man without anyone confessing or repenting, agrees, and says Alex Clark now carries a different message that someone must repent before forgiveness.",
+      "claim": "The host reads a comment saying Erika immediately forgave the young man without anyone confessing or repenting, agrees, and says that Alex Clark now has a different message where, she guesses, whoever Clark is sitting down with is saying someone must repent first and then you can forgive them.",
       "anchored_artifacts": [
         "A-3086.1"
       ],
@@ -4046,8 +4070,8 @@
       "@type": "Claim",
       "@id": "C-10580",
       "ref": "C-10580",
-      "label": "Commenter Says Tyler Limps Only as He Nears Where He Was Told the Camera Is, and the Host Noticed It Too",
-      "claim": "The host reads a comment that Tyler only limps in the video revealed the day before as he gets closer to where he was told there is a camera, and the host says she noticed that as well.",
+      "label": "Commenter Says Tyler Limps Only as He Nears Where He Was Told the Camera Is",
+      "claim": "A viewer comment the host reads says Tyler only limps in the video revealed the day before as he gets closer to where he was told there is a camera; the host adds that when he thinks he is too far off he is not limping, and as he gets closer the limp starts.",
       "anchored_artifacts": [
         "A-3086.2"
       ],
@@ -4089,7 +4113,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:56:43",
       "investigative_direction": "Find the Stephen A. Smith episode and its release date.",
@@ -4134,7 +4158,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:58:28",
       "investigative_direction": "Identify the meeting, attendees and date; obtain any minutes.",
@@ -4231,7 +4255,7 @@
       "@type": "Claim",
       "@id": "C-10589",
       "ref": "C-10589",
-      "label": "Host Says Alex Clark and Others Call Seeking the Epstein Files Gnosticism",
+      "label": "Host Mocks the Argument That Seeking the Epstein Files Is Gnosticism",
       "claim": "The host characterizes the argument (she names Alex Clark just before) as saying that not believing the CIA and seeking the Epstein files is a form of gnosticism and hidden knowledge.",
       "anchored_artifacts": [],
       "related_nodes": [],

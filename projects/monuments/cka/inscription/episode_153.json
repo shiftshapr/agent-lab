@@ -1531,7 +1531,9 @@
       "claim_timestamp": "00:01:29",
       "investigative_direction": "Obtain the filed notice of claim from the Utah Attorney General's office and confirm the precise list of named respondents.",
       "mentions_person_refs": [
-        "N-1"
+        "N-1",
+        "N-272",
+        "N-754"
       ]
     },
     {
@@ -1567,7 +1569,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:04:55",
-      "investigative_direction": "Retrieve Tuminez's original emailed statement to confirm exact wording."
+      "investigative_direction": "Retrieve Tuminez's original emailed statement to confirm exact wording.",
+      "mentions_person_refs": [
+        "N-754"
+      ]
     },
     {
       "@type": "Claim",
@@ -1610,7 +1615,7 @@
       "@id": "C-3471",
       "ref": "C-3471",
       "label": "Text Message Identified Sorenson Staircase Roof Access",
-      "claim": "The displayed text message exchange between Dan Flood and Chief Jeffrey Long specifically referenced the Sorenson Student Center staircases providing access to walkways on the roof above where CK would be set up.",
+      "claim": "Per the text message the host shows, Dan Flood told Chief Jeffrey Long that a student group said there is student roof access pretty close to where CK will be set up and that the Sorenson Student Center has a couple of staircases that go up to the walkways on the roof.",
       "anchored_artifacts": [
         "A-2387.1",
         "A-2388.1"
@@ -1622,7 +1627,8 @@
       "claim_timestamp": "00:27:11",
       "investigative_direction": "Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list.",
       "mentions_person_refs": [
-        "N-271"
+        "N-271",
+        "N-272"
       ]
     },
     {
@@ -1641,7 +1647,8 @@
       "claim_timestamp": "00:30:35",
       "investigative_direction": "Verify against UVU PD records and text-message metadata.",
       "mentions_person_refs": [
-        "N-271"
+        "N-271",
+        "N-272"
       ]
     },
     {
@@ -1649,7 +1656,7 @@
       "@id": "C-3473",
       "ref": "C-3473",
       "label": "Notice of Claim Omits \"I was told students have access above us\" Line",
-      "claim": "The notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the original line \"I was told students have access above us,\" which materially narrows the rooftop reference to the specific walkway above Charlie's head.",
+      "claim": "The host says the notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the original line \"I was told students have access above us,\" which she says narrows the rooftop reference to the specific walkway above Charlie's head.",
       "anchored_artifacts": [
         "A-2384.1",
         "A-2387.1"
@@ -1661,7 +1668,9 @@
       "claim_timestamp": "00:29:56",
       "investigative_direction": "Obtain the filed notice of claim text and the underlying original text records to formally document the omission and contextual difference.",
       "mentions_person_refs": [
-        "N-271"
+        "N-271",
+        "N-272",
+        "N-1"
       ]
     },
     {
@@ -1712,7 +1721,8 @@
       "claim_timestamp": "00:19:44",
       "investigative_direction": "Obtain UVU PD internal communications and presidential approval logs from September 2025.",
       "mentions_person_refs": [
-        "N-272"
+        "N-272",
+        "N-754"
       ]
     },
     {
@@ -1745,7 +1755,7 @@
         "N-10834"
       ],
       "tags": [],
-      "claim_timestamp": "00:40:52",
+      "claim_timestamp": "00:42:50",
       "investigative_direction": "Confirm Scripps News publication date and Tyler Robinson's public identification date.",
       "mentions_person_refs": [
         "N-40"
@@ -1765,7 +1775,7 @@
         "N-10837"
       ],
       "tags": [],
-      "claim_timestamp": "00:43:44",
+      "claim_timestamp": "00:42:58",
       "investigative_direction": "Verify the timestamp metadata on the released footage.",
       "mentions_person_refs": [
         "N-40"
@@ -1796,7 +1806,7 @@
       "@id": "C-3481",
       "ref": "C-3481",
       "label": "Host Says Scripps News Was Founded in 2022 by Jim Spencer",
-      "claim": "The host says Scripps News became operational in 2022, the same year as the incident, and was founded by Jim Spencer, who was formerly with Newsy.",
+      "claim": "The host says Scripps News, formerly Newsy, became a thing in 2022, the same year as the incident, and that its founder is a man named Jim Spencer.",
       "anchored_artifacts": [
         "A-2391.1"
       ],
@@ -1805,7 +1815,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
-      "investigative_direction": "Confirm corporate registration records for Scripps News and Newsy's corporate history."
+      "investigative_direction": "Confirm corporate registration records for Scripps News and Newsy's corporate history.",
+      "mentions_person_refs": [
+        "N-950"
+      ]
     },
     {
       "@type": "Claim",
@@ -1821,7 +1834,10 @@
       ],
       "tags": [],
       "claim_timestamp": "00:48:11",
-      "investigative_direction": "Verify Spencer's UT Austin faculty page and Nelda Buckman / Buckman Center affiliation."
+      "investigative_direction": "Verify Spencer's UT Austin faculty page and Nelda Buckman / Buckman Center affiliation.",
+      "mentions_person_refs": [
+        "N-950"
+      ]
     },
     {
       "@type": "Claim",
@@ -2690,7 +2706,7 @@
       "@id": "C-15008",
       "ref": "C-15008",
       "label": "Host Says TPUSA Was Given the Address and Security Protocols and Told an Ambulance Was on Standby",
-      "claim": "The host says, in what appears to be speaking for UVU, that TPUSA was given the address, the security protocols and told an ambulance was on standby, and TPUSA now disclaims it.",
+      "claim": "The host says TPUSA was given the address and the security protocols and told an ambulance was on standby (\"They made us aware of that\"), and that TPUSA is now saying UVU did not do it.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10840",
@@ -2900,7 +2916,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-507",
-        "N-272"
+        "N-272",
+        "N-271"
       ]
     },
     {
@@ -3487,7 +3504,7 @@
       "@id": "C-15041",
       "ref": "C-15041",
       "label": "Host Says Media Showed Robinson in Maroon Though He Normally Wore Blue",
-      "claim": "The host says news organizations showed Robinson in a maroon shirt as if he always wore maroon, though he normally wore blue shirts, and that decoys wore maroon.",
+      "claim": "The host says news organizations showed Robinson in a maroon shirt as if he always wore maroon, though he normally wore blue shirts, and that it seems some decoys were going to wear the maroon shirt.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10311",
@@ -3661,7 +3678,7 @@
       "@id": "C-15049",
       "ref": "C-15049",
       "label": "Host Says John and Irina Mappin Have Been Fantastic Friends",
-      "claim": "The host says John Mappin is a quintessential Englishman and that he and Arena have been fantastic friends to her, especially during this time.",
+      "claim": "The host says John Mappin is a quintessential Englishman and that he and Irina have been fantastic friends to her, especially during this time.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
@@ -3669,7 +3686,7 @@
       ],
       "claim_timestamp": "00:56:05",
       "investigative_direction": "Context only.",
-      "transcript_snippet": "him and Arena have just been fantastic friends to us especially throughout this time.",
+      "transcript_snippet": "him and Irina have just been fantastic friends to us especially throughout this time.",
       "supports_claim_refs": [
         "C-1392"
       ],
@@ -3740,7 +3757,7 @@
         "N-11313"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:58:44",
       "investigative_direction": "Check the show schedule for Coleman's episodes.",
@@ -3761,7 +3778,7 @@
         "N-11313"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:59:32",
       "investigative_direction": "Check the show schedule.",
@@ -3776,7 +3793,7 @@
       "@id": "C-15054",
       "ref": "C-15054",
       "label": "Host Plans a Joint Episode With Coleman Reviewing the State's Evidence",
-      "claim": "The host says before leaving she and Coleman will do a joint episode going back through the case, including the state's evidence which she says Andrew Wilson insincerely missed.",
+      "claim": "The host says before leaving she and Coleman will do a joint episode going back through the case, including the state's evidence, an opportunity she says was sorely missed by the incredibly insincere and disingenuous Andrew Wilson.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11313"
@@ -3804,7 +3821,7 @@
         "N-11313"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "01:00:12",
       "investigative_direction": "Context only.",
@@ -3950,7 +3967,7 @@
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "01:04:14",
       "investigative_direction": "Context only.",

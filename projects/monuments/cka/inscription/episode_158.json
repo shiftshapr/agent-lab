@@ -13,7 +13,7 @@
     "transcript_sha256": "022d4f12740713037a1e34d8c7a3f460558cfd3ae1badcd1d4c1565a058eb7cf",
     "analysis_date": "2026-10-02"
   },
-  "executive_summary": "This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kolvet not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroote), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Why Refi / contract material for the next show.\n\n---",
+  "executive_summary": "This episode centers on the newly published Vanity Fair profile of Erika Kirk (CEO/chair of Turning Point USA) by writer Clara Molot, which the host reads as an unintentionally devastating portrait of a “widow narrative” and “heaven-focused” CEO who grants months of intimate access while refusing basic political questions–contrasted with TPUSA’s non-participation in the UVU Lake Force independent review. The host walks headline photography, faith-hybrid language, Israel/BB bandwidth refusals, preserved-office shrine claims versus Mikey McCoy’s early use of Charlie’s spaces, and the night-of-assassination Aloe Yoga clothing directive (Erika ordering plain black clothes after rejecting a “heaven is my home” shirt for Air Force 2 optics). The piece is framed as vindicating prior host claims: TPUSA leak-paranoia / Candace-obsession (Tucker Carlson quoted advising Andrew Kolvet not to focus on Candace), the Monday-after will-signing appointment (Doug DeGroote), Erika’s privately more anti-Israel posture than Charlie’s (per Carlson) versus public silence, and board vote elevating Erika within ~48 hours. After a break, the host overlays post–UVU-review smear escalation: Daily Mail “Candace in crisis” copy, then a narrative flip from “jealous of Erika / antisemitic” to a fabricated “cheating lesbian / secret Zionist (husband George / Hebrew study)” package built from a real 2008 college Adderall-epidemic journalism final whose YouTube page was first archived July 9, 2025 (same window as Netanyahu-in-DC and the July 10 UVU courtyard ask), with Bill Ackman amplifying the smear. Closing comments restate UVU-review vindication themes and tease Yrefy / contract material for the next show.\n\n---",
   "artifacts": [
     {
       "@type": "ArtifactFamily",
@@ -1367,7 +1367,7 @@
       "@id": "C-3596",
       "ref": "C-3596",
       "label": "Vanity Fair published an access-heavy Erika Kirk profile that the host reads as exposure, not celebration",
-      "claim": "Host asserts Clara Molot’s Vanity Fair profile–enabled by months of TPUSA/Erika access including family–reads as a frustrated reporter’s portrait of an obvious grift, while TPUSA refused Lake Force review cooperation.",
+      "claim": "Host asserts Clara Molot's Vanity Fair profile–enabled by months of TPUSA/Erika access including family–reads as a frustrated reporter's portrait of an obvious grift, while TPUSA refused Lake Forest Group review cooperation.",
       "anchored_artifacts": [
         "A-2459.1",
         "A-2459.2"
@@ -1381,7 +1381,6 @@
       "investigative_direction": "Archive the full Vanity Fair piece; list access dates; compare cooperation posture to Lake Force outreach log.",
       "mentions_person_refs": [
         "N-13",
-        "N-160",
         "N-2"
       ]
     },
@@ -1390,7 +1389,7 @@
       "@id": "C-3597",
       "ref": "C-3597",
       "label": "Erika avoided basic political questions via heaven-focused / bandwidth framing",
-      "claim": "Per the profile as read, Erika described decisions via a heaven/reunion heuristic and seemed uneasy articulating political views; writer later states she deflected political conversation in a way that felt disingenuous or incoherent.",
+      "claim": "Per the profile as read, Erika described decisions via a heaven/reunion heuristic and seemed uneasy articulating political views; the host says this is what made the reporter know she was dealing with a fraud.",
       "anchored_artifacts": [
         "A-2459.1"
       ],
@@ -1458,11 +1457,10 @@
         "N-10864"
       ],
       "tags": [],
-      "claim_timestamp": "00:20:37",
+      "claim_timestamp": "00:22:20",
       "investigative_direction": "Build dated outfit plate from primary video stills; keep claim scoped to contradiction vs “only thing that fit.”",
       "mentions_person_refs": [
-        "N-2",
-        "N-279"
+        "N-2"
       ]
     },
     {
@@ -1729,7 +1727,7 @@
       "@id": "C-6291",
       "ref": "C-6291",
       "label": "Erika Tells Writer She Is Built Different and the World Will Not Break Her",
-      "claim": "The host reads the profile as quoting Erika that she knows she does not make sense to most people, is built different, and that this world will not break her.",
+      "claim": "The host reads the profile as saying Erika knows she does not make sense to most people, and quotes Erika as saying she is built different and that this world will not break her.",
       "anchored_artifacts": [
         "A-2459.1"
       ],
@@ -2050,8 +2048,7 @@
       ],
       "mentions_person_refs": [
         "N-22",
-        "N-3",
-        "N-14"
+        "N-3"
       ]
     },
     {
@@ -2766,7 +2763,7 @@
       "@id": "C-6340",
       "ref": "C-6340",
       "label": "Host Says Tucker Carlson Thinks Bill Ackman's Money Is Very Mysterious",
-      "claim": "The host says Tucker Carlson thinks Bill Ackman's money is very mysterious and has told her he is not that intelligent or impressive.",
+      "claim": "The host says Tucker Carlson thinks Bill Ackman's money is very mysterious and says Carlson considers Ackman not that intelligent or impressive and has met him.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2822,7 +2819,7 @@
       "@id": "C-6343",
       "ref": "C-6343",
       "label": "Host Says Department of War Attacks on Her Double When Erika Is in DC",
-      "claim": "The host says her source says Erika is in DC now and that when Erika is in DC the Department of War attacks on the host start doubling.",
+      "claim": "The host says, citing a source, that Erika is in DC right now, or at least was yesterday or the day before, and that it seems that when Erika is in DC the Department of War attacks on the host start doubling.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10888"
@@ -2958,7 +2955,7 @@
       "@id": "C-6350",
       "ref": "C-6350",
       "label": "Host Says the Smear's Author Is an Andrew Wilson-Affiliated Old-School Person",
-      "claim": "The host says that the person, apparently the smear's author, is an old school figure affiliated with Andrew Wilson; the transcript here is garbled.",
+      "claim": "The host says, apparently and with \"who knows\", that this is a person like an old school \"graer\" (garbled in the transcript) affiliated with Andrew Wilson.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10867",

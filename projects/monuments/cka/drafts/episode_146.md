@@ -1213,7 +1213,7 @@ Investigative Direction: Check Utah and California records for Burton Hibbs Jr. 
 
 Claim Timestamp: 00:06:01
 
-Claim: The host says she first heard of Pastor Jack Hibbs from Marissa Streit, whom she calls the MSAD agent turned PragerU CEO, who suggested she have him on her podcast; the host does not think it ever happened.
+Claim: The host says she first heard of Pastor Jack Hibbs from Marissa Streit, whom she calls the Mossad agent turned PragerU CEO, who suggested she have him on her podcast; the host does not think it ever happened.
 
 Transcript Snippet: she had suggested to me that I have him on my podcast. I don't believe it ever happened
 
@@ -1229,7 +1229,7 @@ Investigative Direction: Check the host's own correspondence or booking records 
 
 Claim Timestamp: 00:06:01
 
-Claim: The host says Marissa Streit served in Unit 8200 and has never hidden that fact, and calls her an MSAD agent (the transcript's spelling of Mossad).
+Claim: The host says Marissa Streit served in Unit 8200 and has never hidden that fact, and calls her an Mossad agent (the transcript's spelling of Mossad).
 
 Transcript Snippet: She was in unit 8200. She's never hidden that fact, so we're not exactly revealing or bringing any news there
 
@@ -1354,13 +1354,13 @@ Investigative Direction: Ask UVU or TPUSA security staff whether Butch Hibbs was
 
 ---
 
-**C-7620** Clip Speaker Says Some People Would Call Butch Hibbs a Covert Operative for the CIA and MSAD
+**C-7620** Clip Speaker Says Some People Would Call Butch Hibbs a Covert Operative for the CIA and Mossad
 
 Claim Timestamp: 00:10:34
 
-Claim: In the interview clip, a speaker (the transcript does not label which man) says some people would say Butch Hibbs is a covert military operative for the CIA in conjunction with the MSAD, and that he simply loves the mountains.
+Claim: In the interview clip, a speaker (the transcript does not label which man) says some people would say Butch Hibbs is a covert military operative for the CIA in conjunction with the Mossad, and that he simply loves the mountains.
 
-Transcript Snippet: some people would say that he is a covert military operative for the CIA >> and in conjunction with the MSAD.
+Transcript Snippet: some people would say that he is a covert military operative for the CIA >> and in conjunction with the Mossad.
 
 Anchored Artifacts: A-2322.1
 Mentions: N-209, N-247
@@ -2645,7 +2645,7 @@ Confidence: high
 
 Video Timestamp: 00:11:51
 Speaker: N-3
-Quote: CIA MSAD, but they really just like the mountains.
+Quote: CIA Mossad, but they really just like the mountains.
 Context: Host mocks the explanation that Butch Hibbs is only a mountain man.
 Tags: mountains, butch hibbs
 Confidence: high
@@ -2654,7 +2654,7 @@ Confidence: high
 
 Video Timestamp: 00:22:23
 Speaker: N-3
-Quote: who loves the mountains, not the MSAD and the CIA, he loves the mountains.
+Quote: who loves the mountains, not the Mossad and the CIA, he loves the mountains.
 Context: Host repeats the bit before asking what Butch did.
 Tags: mountains, butch hibbs
 Confidence: high

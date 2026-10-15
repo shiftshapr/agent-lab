@@ -240,7 +240,7 @@ Confidence Level: Medium
 
 **A-3114** Host Timeline Graphic Bundle
 
-**A-3114.1** Host's timeline of July to September 2025 events (Tucker speech, Egyptian plane stops, Maine vacation, Why Rei sponsorship, Hamptons retreat, Netanyahu offer, Valhalla, Bright Star, DOGE email, September 10), walked through on air
+**A-3114.1** Host's timeline of July to September 2025 events (Tucker speech, Egyptian plane stops, Maine vacation, Yrefy sponsorship, Hamptons retreat, Netanyahu offer, Valhalla, Bright Star, DOGE email, September 10), walked through on air
 
 Event Timestamp: 00:00:00-00:00:01
 Video Timestamp: 00:16:06
@@ -837,9 +837,9 @@ Kirk Netanyahu show refusal; reused for the declined-offer claim.
 
 ---
 
-**N-10870** Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-10870** Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum
 
-Why Rei sponsorship contracts; reused for the fall-tour sponsor claim.
+Yrefy sponsorship contracts; reused for the fall-tour sponsor claim.
 
 *Related: C-10981, C-10982*
 
@@ -1702,13 +1702,13 @@ Investigative Direction: Obtain the McCoys' and Kirk family's posts and travel d
 
 ---
 
-**C-10981** Host Says Why Rei Became the Number One Sponsor of the Charlie Kirk Fall Tour at the End of July
+**C-10981** Host Says Yrefy Became the Number One Sponsor of the Charlie Kirk Fall Tour at the End of July
 
 Claim Timestamp: 00:18:49
 
-Claim: The host says that around the end of July Why Rei came in as the number one sponsor of the Charlie Kirk fall tour, which she regards as late in the day.
+Claim: The host says that around the end of July Yrefy came in as the number one sponsor of the Charlie Kirk fall tour, which she regards as late in the day.
 
-Transcript Snippet: Why Rei comes in as the number one sponsor of the Charlie Kirk fall tour.
+Transcript Snippet: Yrefy comes in as the number one sponsor of the Charlie Kirk fall tour.
 
 Anchored Artifacts: A-3114.1
 Mentions: N-1

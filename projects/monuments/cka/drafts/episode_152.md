@@ -1010,6 +1010,7 @@ Claim Timestamp: 00:09:25–00:10:50
 Claim: In a clip the host plays, Judge Graf says approximately 95% of his prosecutorial work has involved sex crimes against children and adults.
 
 Anchored Artifacts: A-2375.1
+Mentions: N-136
 
 Related Nodes:
 
@@ -1021,7 +1022,7 @@ Investigative Direction: Locate the full source clip and verify date / context; 
 
 Claim Timestamp: 00:11:09
 
-Claim: The host says Mike Mitchell's career was as an undercover detective in internet sex crimes against children, and that he was the linchpin in the Tyler Robinson surrender process.
+Claim: The host says Mike Mitchell was an undercover detective in internet sex crimes against children, and that in her opinion he is the linchpin to the entire case against Tyler Robinson because he persuaded the Robinson family to have Tyler surrender.
 
 Anchored Artifacts: None in this episode (host assertion only)
 Mentions: N-40, N-125
@@ -1075,7 +1076,7 @@ Claim Timestamp: 00:12:41–00:15:26
 Claim: The host says Baron Coleman discovered that the first six search warrants in the Charlie Kirk case, including the one on George Zinn, were signed off by Michael George Carl on September 10, 2025, and in a clip she plays Coleman says the same.
 
 Anchored Artifacts: A-2378.1
-Mentions: N-1, N-42
+Mentions: N-1, N-42, N-331, N-868
 
 Related Nodes: N-10831
 
@@ -1090,6 +1091,7 @@ Claim Timestamp: 00:12:41–00:15:26
 Claim: In a clip the host plays, Baron Coleman says that Michael George Carl's documented assignment, per the training listed on his affidavit, is the Special Victims Unit / ICAC, focused on online crimes against children.
 
 Anchored Artifacts: A-2378.1
+Mentions: N-331, N-868
 
 Related Nodes: N-10831
 
@@ -1101,7 +1103,7 @@ Investigative Direction: Verify Carl's Utah County Sheriff's Office / ICAC assig
 
 Claim Timestamp: 00:18:24–00:20:34
 
-Claim: The host says the never-before-seen footage and still photographs she shows depict Mikey McCoy's statement on September 10, 2025 being taken by a female officer wearing a vest reading "Police" and "Utah ICAC."
+Claim: The host says the never-before-seen footage and still photographs she shows depict what she infers is Mikey McCoy's statement on September 10, 2025 being taken by a female officer wearing a vest reading "Police" and "Utah ICAC."
 
 Anchored Artifacts: A-2376.1, A-2376.2, A-2377.1, A-2377.2, A-2377.3
 Mentions: N-191
@@ -1144,13 +1146,14 @@ Investigative Direction: Verify DOJ / OJJDP documentation of the 1998 ICAC progr
 
 ---
 
-**C-3455** David Leavitt was the subject of an HSI whistleblower allegation regarding trafficking / Indian child welfare violations in 2020
+**C-3455** Host Says an HSI Whistleblower Alleged Video Evidence Potentially Implicating David Leavitt Was Received in 2020
 
-Claim Timestamp: 00:23:47–00:25:47
+Claim Timestamp: 00:27:05
 
-Claim: The episode presents that in 2020, an HSI whistleblower alleged that video evidence potentially implicating then-Utah AG David Leavitt in federal trafficking and Indian child welfare violations was received but no investigation was opened.
+Claim: The host says that in 2020 an HSI analyst alleged that personnel received video evidence in April 2020 potentially implicating David Leavitt, whom she calls the Utah attorney general, in violations of federal trafficking and Indian child welfare laws, but failed to open an investigation; she says there was no criminal finding against him.
 
 Anchored Artifacts: None visible in this episode
+Mentions: N-869
 
 Related Nodes:
 
@@ -1167,6 +1170,7 @@ Claim Timestamp: 00:27:01–00:28:24
 Claim: The host says Utah AG David Leavitt was named in a 151-page victim statement regarding ritualistic child abuse / cannibalism allegations spanning 1990-2010, which she says he characterized as politically manufactured; she notes no criminal finding.
 
 Anchored Artifacts: None visible in this episode
+Mentions: N-869
 
 Related Nodes:
 
@@ -1180,10 +1184,10 @@ Investigative Direction: Obtain the May–June 2022 Utah County Sheriff's Office
 
 Claim Timestamp: 00:38:56–00:41:02
 
-Claim: The episode presents that Matt Tardio pled no contest in Portland in October 2025 to felony coercion and misdemeanor harassment following an incident at an ICE facility, with surveillance cameras capturing the alleged conduct.
+Claim: The host says, citing a Bulwark report, that Matt Tardio pleaded no contest in Portland to felony coercion and misdemeanor harassment over an incident she dates to last October, October 2025, and that the alleged conduct was captured by surveillance cameras at the ICE facility.
 
 Anchored Artifacts: A-2379.1, A-2380.1
-Mentions: N-2, N-590
+Mentions: N-590
 
 Related Nodes:
 
@@ -1198,6 +1202,7 @@ Claim Timestamp: 00:43:58–00:45:32
 Claim: The episode plays a clip of Macklemore stating "Free Palestine" and other political statements during an opening-act performance on Ed Sheeran's tour.
 
 Anchored Artifacts: A-2381.1
+Mentions: N-836, N-837
 
 Related Nodes:
 
@@ -1212,6 +1217,7 @@ Claim Timestamp: 00:47:38–00:48:56
 Claim: The host alleges that Robert Kraft led a pressure and lobbying campaign that resulted in Macklemore being dropped as an opening act from Ed Sheeran's tour.
 
 Anchored Artifacts: A-2381.1 (corroborating that Macklemore was dropped, per host framing)
+Mentions: N-195, N-836, N-837
 
 Related Nodes:
 
@@ -1243,7 +1249,7 @@ Claim Timestamp: 00:10:50–00:11:09
 Claim: The host says Mike Mitchell convinced Matt Robinson's household to call Tyler and persuade him to peacefully surrender, despite Tyler's denial of involvement.
 
 Anchored Artifacts: None in this episode
-Mentions: N-40, N-125
+Mentions: N-40, N-125, N-778
 
 Related Nodes:
 
@@ -1253,9 +1259,9 @@ Investigative Direction: Verify Mitchell's role via investigative reporting and 
 
 ---
 
-**C-3462** Host Says Officer Bagley's Body Cam Footage Went Off Approximately 25 Minutes After Activation
+**C-3462** Host Says Officer Bagley's Body Cam Footage Notoriously Went Off After About 25 Minutes
 
-Claim Timestamp: 00:11:56
+Claim Timestamp: 00:11:10
 
 Claim: The host says Bagley's body cam footage notoriously went off after about 25 minutes.
 
@@ -1364,7 +1370,7 @@ Transcript Snippet: Pastor Greg Laurie immediately after Charlie passed, the fir
 Anchored Artifacts: A-2382.1
 Mentions: N-451, N-2
 Related Nodes: N-11203
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the Make Heaven Crowded tour lineup and event paperwork and confirm Laurie's billing.
 
 ---
@@ -1385,13 +1391,13 @@ Investigative Direction: Pull the docket and complaints in the Harvest Christian
 
 ---
 
-**C-10505** Host Says Andrew Pascado Was Questioned by the Feds on September 10 and Warns of Ukrainian Military Sex Trafficking
+**C-10505** Host Says Andrew Piskadlo Was Questioned by the Feds on September 10 and Warns of Ukrainian Military Sex Trafficking
 
 Claim Timestamp: 00:05:40
 
-Claim: The host says Andrew Pascado was one of the people the feds questioned on September 10 and that in his own capacity he works to ring the alarm on military Ukrainian sex trafficking into the United States.
+Claim: The host says Andrew Piskadlo was one of the people the feds questioned on September 10 and that in his own capacity he works to ring the alarm on military Ukrainian sex trafficking into the United States.
 
-Transcript Snippet: Andrew Pascado, you'll remember, he was one of the uh people that the feds questioned on September 10th. He also in his own capacity works to ring the alarm on military Ukrainian sex trafficking into the United States.
+Transcript Snippet: Andrew Piskadlo, you'll remember, he was one of the uh people that the feds questioned on September 10th. He also in his own capacity works to ring the alarm on military Ukrainian sex trafficking into the United States.
 
 Anchored Artifacts: A-2382.1
 Mentions: N-803
@@ -1555,13 +1561,13 @@ Investigative Direction: Check Wada's Polish organizations and Cutler's Operatio
 
 ---
 
-**C-10516** Host Says Philip Goldsberry Jr. Co-Founded Sofer Global Ministries Serving Orphans in Romania, Albania and Ukraine
+**C-10516** Host Says Philip Goldsberry Jr. Co-Founded Soter Global Ministries Serving Orphans in Romania, Albania and Ukraine
 
 Claim Timestamp: 00:07:01
 
-Claim: The host says Philip Goldsberry Jr. co-founded Sofer Global Ministries (transcribed Sofur), a 501(c)(3) that provides medical care and training to orphans in Romania, Albania and Ukraine.
+Claim: The host says Philip Goldsberry Jr. co-founded Soter Global Ministries (transcribed Sofur), a 501(c)(3) that provides medical care and training to orphans in Romania, Albania and Ukraine.
 
-Transcript Snippet: co-founding Sofur Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.
+Transcript Snippet: co-founding Soter Global Ministries a 501c3 that provides medical care and training to orphans in Romania, Albania and Ukraine.
 
 Anchored Artifacts: A-2382.1
 Mentions: N-688, N-689
@@ -1906,7 +1912,7 @@ Investigative Direction: Reconstruct vehicle positions and movements from footag
 
 ---
 
-**C-10538** Host Lists FBI, SBI, UVU Police, SWAT, US Marshals and Utah State Police Already on the Ground When ICAC Took McCoy's Statement
+**C-10538** Host Lists FBI, SBI, UVU Police, SWAT, US Marshals and Utah State University Police Already on the Ground When ICAC Took McCoy's Statement
 
 Claim Timestamp: 00:20:34
 
@@ -1961,7 +1967,7 @@ Investigative Direction: Obtain the April interview record and identify who in t
 
 Claim Timestamp: 00:22:24
 
-Claim: The host says, as her strong opinion, that the pattern looks like a control mechanism being directed by the feds, as one big group wanted to have its hands everywhere in the case.
+Claim: The host says, as her strong opinion, that this looks like a control mechanism being directed by the feds, that it is one big group, and that for some reason the feds wanted them to have their hands everywhere in the case.
 
 Transcript Snippet: this feels like a control mechanism that's being directed by the feds. Like this is one big group. And for some reason, the feds wanted them in particular to have their hands everywhere in this case.
 
@@ -2331,7 +2337,7 @@ Investigative Direction: Review the preliminary hearing record on exhibit 11 and
 
 Claim Timestamp: 00:38:56
 
-Claim: In the clip, Tardio says there are very clear signs the video was compressed or a screen recording before it reached the host, and says there is no such thing as a lateral crawl.
+Claim: In the clip, Tardio says there are very clear signs the video was compressed or a screen recording before it reached the host, and says that as far as he knows there is no such thing as a lateral crawl.
 
 Transcript Snippet: there's very clear signs the video was compressed or it was a screen recording or a combination of both before it ended up getting sent to her.
 
@@ -2401,7 +2407,7 @@ Transcript Snippet: He's a billionaire. He owns the New England Patriots, right?
 Anchored Artifacts: 
 Mentions: N-195, N-836
 Supports: C-3459
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Confirm stadium ownership and any communication from Kraft about the tour.
 
 ---
@@ -2417,7 +2423,7 @@ Transcript Snippet: this next song was inspired by the bravery of Columbia Unive
 Anchored Artifacts: A-2381.1
 Mentions: N-836
 Supports: C-3458
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the full concert recording.
 
 ---
@@ -2433,7 +2439,7 @@ Transcript Snippet: Free all people in America living in fear over this terroris
 Anchored Artifacts: A-2381.1
 Mentions: N-836
 Supports: C-3458
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the full concert recording and note the stop and date.
 
 ---
@@ -2448,7 +2454,7 @@ Transcript Snippet: I had no control over it. It was the stadiums that did this.
 
 Anchored Artifacts: 
 Mentions: N-837, N-836
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain Ed Sheeran's public statement on the decision.
 
 ---
@@ -2463,7 +2469,7 @@ Transcript Snippet: thus far, three other people associated with this tour have 
 
 Anchored Artifacts: 
 Mentions: N-837, N-836
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the three openers and the dates and wording of their withdrawal.
 
 ---
@@ -2472,13 +2478,13 @@ Investigative Direction: Identify the three openers and the dates and wording of
 
 Claim Timestamp: 00:48:56
 
-Claim: The host says there are only three tour stops left on Ed Sheeran's tour and calls on listeners to skip them if he goes ahead.
+Claim: The host says she thinks there are only three tour stops left on Ed Sheeran's tour and calls on listeners to skip them if he goes ahead.
 
 Transcript Snippet: I think there's only three um tour stops left.
 
 Anchored Artifacts: 
 Mentions: N-837
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the official tour schedule.
 
 ---
@@ -2494,7 +2500,7 @@ Transcript Snippet: They had the ability to get me banned from a country. I've n
 Anchored Artifacts: 
 Mentions: N-3, N-27
 Related Nodes: N-11099
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Obtain the Australian Home Affairs decision and any documented lobbying.
 
 ---
@@ -2548,7 +2554,7 @@ Investigative Direction: Check the lawsuit record over the cancelled Bieber tour
 
 Claim Timestamp: 00:56:00
 
-Claim: The host reads a comment saying Erika immediately forgave the young man without anyone confessing or repenting, agrees, and says Alex Clark now carries a different message that someone must repent before forgiveness.
+Claim: The host reads a comment saying Erika immediately forgave the young man without anyone confessing or repenting, agrees, and says that Alex Clark now has a different message where, she guesses, whoever Clark is sitting down with is saying someone must repent first and then you can forgive them.
 
 Transcript Snippet: Didn't Erika immediately forgive that young man without anyone even confessing, let alone repenting?
 
@@ -2559,11 +2565,11 @@ Investigative Direction: Compare Erika's memorial forgiveness statement with lat
 
 ---
 
-**C-10580** Commenter Says Tyler Limps Only as He Nears Where He Was Told the Camera Is, and the Host Noticed It Too
+**C-10580** Commenter Says Tyler Limps Only as He Nears Where He Was Told the Camera Is
 
 Claim Timestamp: 00:56:00
 
-Claim: The host reads a comment that Tyler only limps in the video revealed the day before as he gets closer to where he was told there is a camera, and the host says she noticed that as well.
+Claim: A viewer comment the host reads says Tyler only limps in the video revealed the day before as he gets closer to where he was told there is a camera; the host adds that when he thinks he is too far off he is not limping, and as he gets closer the limp starts.
 
 Transcript Snippet: Tyler only limps in the video that we revealed yesterday. As he gets closer to where he's been told there is a camera, I noticed that as well.
 
@@ -2599,7 +2605,7 @@ Transcript Snippet: I got a lot of your comments about the Stephen A. Smith podc
 
 Anchored Artifacts: 
 Mentions: N-871, N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Find the Stephen A. Smith episode and its release date.
 
 ---
@@ -2630,7 +2636,7 @@ Transcript Snippet: being brought into an office and like questioned about that 
 
 Anchored Artifacts: 
 Mentions: N-3
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Identify the meeting, attendees and date; obtain any minutes.
 
 ---
@@ -2696,7 +2702,7 @@ Investigative Direction: Identify the people Charlie spoke to in those days and 
 
 ---
 
-**C-10589** Host Says Alex Clark and Others Call Seeking the Epstein Files Gnosticism
+**C-10589** Host Mocks the Argument That Seeking the Epstein Files Is Gnosticism
 
 Claim Timestamp: 01:04:37
 

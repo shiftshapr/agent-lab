@@ -2108,7 +2108,7 @@
       "tags": [],
       "claim_timestamp": "00:21:38",
       "investigative_direction": "Check White House and Israeli Prime Minister's Office records of the February 4, 2025 gift exchange.",
-      "transcript_snippet": "BB Netanyahu enters the White House and presents President Trump with a gift, a golden pager, a nod to the MSAD's pager operation.",
+      "transcript_snippet": "BB Netanyahu enters the White House and presents President Trump with a gift, a golden pager, a nod to the Mossad's pager operation.",
       "mentions_person_refs": [
         "N-36",
         "N-5"
@@ -2729,14 +2729,14 @@
       "@type": "MemeAnalysis",
       "@id": "M-11",
       "ref": "M-11",
-      "canonical_term": "MSAD",
+      "canonical_term": "Mossad",
       "type": "meme",
       "occurrences": [
         {
           "episode": 115,
           "video_timestamp": "00:15:34",
           "speaker_node_ref": "N-3",
-          "quote": "What is known is how proud the MSAD was and is of their ability to infiltrate specifically companies and organizations.",
+          "quote": "What is known is how proud the Mossad was and is of their ability to infiltrate specifically companies and organizations.",
           "context": "Host introduces the 60 Minutes clip of Mossad agents.",
           "confidence": "high",
           "tags": [
@@ -2749,7 +2749,7 @@
           "episode": 115,
           "video_timestamp": "00:21:38",
           "speaker_node_ref": "N-3",
-          "quote": "a golden pager, a nod to the MSAD's pager operation.",
+          "quote": "a golden pager, a nod to the Mossad's pager operation.",
           "context": "Host describes Netanyahu's gift to Trump.",
           "confidence": "high",
           "tags": [

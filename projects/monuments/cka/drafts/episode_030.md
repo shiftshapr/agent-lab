@@ -669,7 +669,7 @@ Reused for his arrival with Kirk.
 
 ---
 
-**N-10870** Why Refi / Y Refi Sponsorship Contracts and July 25 Addendum
+**N-10870** Yrefy / Y Refi Sponsorship Contracts and July 25 Addendum
 
 Possible match for the sponsor transcribed 'Rei'.
 
@@ -1652,7 +1652,7 @@ Anchored Artifacts:
 Mentions: N-20, N-852, N-1
 Related Nodes: N-10870, N-10000
 Tags: relevance:core
-Investigative Direction: Obtain the sponsorship contracts and identify who introduced the sponsor; transcript spelling 'Rei' is possibly Why Refi.
+Investigative Direction: Obtain the sponsorship contracts and identify who introduced the sponsor; transcript spelling 'Rei' is possibly Yrefy.
 
 ---
 
@@ -1937,7 +1937,7 @@ Claim Timestamp: 00:37:38
 
 Claim: As read by the host, the Wilkins complaint says that since Kash Patel became FBI director in February 2025 the conspiratorial corners of the internet have been spreading a false narrative that Alexis Wilkins is an Israeli Mossad agent, a spy or a honeypot.
 
-Transcript Snippet: Ever since Kash Patel was appointed as director of the FBI in February of 2025, the conspiratorial corners of the internet and social media have been spreading a false narrative that Ms. Wilkins is an Israeli MSAD agent
+Transcript Snippet: Ever since Kash Patel was appointed as director of the FBI in February of 2025, the conspiratorial corners of the internet and social media have been spreading a false narrative that Ms. Wilkins is an Israeli Mossad agent
 
 Anchored Artifacts: A-1385.1
 Mentions: N-213, N-69

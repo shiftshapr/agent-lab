@@ -1871,7 +1871,7 @@
       "@id": "C-3617",
       "ref": "C-3617",
       "label": "Lisa Nose tweet alleges Candace houses illegal nannies under NDA",
-      "claim": "On air the host reads a Lisa Nose X post claiming Candace Owens keeps eight nannies (two per child) living in a second mansion, hires nannies who are in the country illegally via an elite Jewish nanny agency, underpays them, and binds them with NDAs so they cannot speak; Nose says Jessica Reed Kraus originally reported it and that Nose confirmed via three people who know Candace.",
+      "claim": "On air the host reads a Lisa Nose X post saying Candace Owens is rumored to have two nannies per child (eight in total) living in a second mansion, that it has been reported she hires nannies who are in the country illegally via an elite Jewish nanny agency and underpays them, and that they have all signed NDAs so cannot speak; Nose says Jessica Reed Kraus originally reported it and that Nose independently confirmed via three people who know Candace.",
       "anchored_artifacts": [
         "A-2474.1"
       ],
@@ -1964,18 +1964,14 @@
       ],
       "tags": [],
       "claim_timestamp": "00:15:48",
-      "investigative_direction": "Pull the NIH / official filicide statistics she paraphrases; confirm rates and sex split against primary tables.",
-      "mentions_person_refs": [
-        "N-203",
-        "N-207"
-      ]
+      "investigative_direction": "Pull the NIH / official filicide statistics she paraphrases; confirm rates and sex split against primary tables."
     },
     {
       "@type": "Claim",
       "@id": "C-3622",
       "ref": "C-3622",
       "label": "UVU review: Station 2 fire captain assisted CPR at hospital but is unnamed",
-      "claim": "The host reads the UVU independent review stating Station 3 radioed the TPUSA SUV, Station 2 rerouted to Timpanogos Hospital, and the fire captain from Station 2 assisted in providing CPR to Charlie Kirk at the hospital; she flags that this public-figure captain is unnamed while the review named Caleb Chilcutt and Maycee Crofts.",
+      "claim": "The host reads the UVU independent review stating that Station 3 personnel radioed that their truck had passed near the TPUSA security team's SUV, Station 2 rerouted to Timpanogos Hospital, and the fire captain from Station 2 assisted in providing CPR to Charlie Kirk at the hospital; she flags that this public-figure captain is unnamed while the review named Caleb Chilcutt and Maycee Crofts.",
       "anchored_artifacts": [
         "A-2476.1"
       ],
@@ -2012,9 +2008,7 @@
       "claim_timestamp": "00:22:00",
       "investigative_direction": "Align Turek, Harpole, and review timelines minute-by-minute; seek hospital/EMS records naming the captain.",
       "mentions_person_refs": [
-        "N-1",
         "N-7",
-        "N-209",
         "N-267"
       ]
     },
@@ -2110,7 +2104,7 @@
       "@id": "C-3628",
       "ref": "C-3628",
       "label": "Zach Bryan Free Palestine shirts and Gillette attendance record",
-      "claim": "The host says after Robert Kraft canceled Macklemore for saying Free Palestine at Kraft's Gillette Stadium, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; drummer shirt referenced a killed Palestinian child) and broke the stadium attendance record previously held by Ed Sheeran.",
+      "claim": "The host says after Robert Kraft canceled Macklemore for saying Free Palestine at Kraft's Gillette Stadium, weather canceled the scheduled shows, then Zach Bryan played two nights wearing Free Palestine shirts (band included; the drummer's shirt referenced a horrific story about a 5-year-old Palestinian girl) and broke the stadium attendance record previously held by Ed Sheeran.",
       "anchored_artifacts": [
         "A-2479.1"
       ],
@@ -2122,7 +2116,9 @@
       "investigative_direction": "Verify Kraft/Macklemore cancellation, Bryan set dates, shirt imagery, and official attendance figures vs Sheeran's prior mark.",
       "mentions_person_refs": [
         "N-178",
-        "N-195"
+        "N-195",
+        "N-836",
+        "N-837"
       ]
     },
     {
@@ -2150,7 +2146,7 @@
       "@id": "C-3678",
       "ref": "C-3678",
       "label": "Host identifies show community as Decentralized Intelligence Agency",
-      "claim": "The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.",
+      "claim": "The host says the decentralized intelligence agency is the people behind her tip lines who have allowed the investigation to stay alive.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [],
@@ -2218,7 +2214,7 @@
         "N-10875"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:01:13",
       "investigative_direction": "Locate any Loomer post or report about a second Owens property and the original Nose and Kraus posts.",
@@ -2240,7 +2236,7 @@
         "N-10867"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:02:25",
       "investigative_direction": "Find the original posts making the DUI payoff allegation and any police or court record of such an accident.",
@@ -2272,7 +2268,7 @@
       "@id": "C-9215",
       "ref": "C-9215",
       "label": "Host says the Las Vegas shooting appeared to be a CIA Mossad operation",
-      "claim": "The host says that within five days of the Weinstein story nobody was speaking about the Las Vegas shooting, \"which appeared to be a CIA MSAD operation\".",
+      "claim": "The host says that within five days of the Weinstein story nobody was speaking about the Las Vegas shooting, \"which appeared to be a CIA Mossad operation\".",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10887",
@@ -2284,7 +2280,7 @@
       ],
       "claim_timestamp": "00:07:18",
       "investigative_direction": "Identify what evidence, if any, the host relies on for CIA or Mossad involvement in the 2017 Las Vegas shooting.",
-      "transcript_snippet": "within five days nobody was speaking about the Las Vegas shooting which appeared to be a CIA MSAD operation.",
+      "transcript_snippet": "within five days nobody was speaking about the Las Vegas shooting which appeared to be a CIA Mossad operation.",
       "supports_claim_refs": [
         "C-3619"
       ],
@@ -2305,7 +2301,7 @@
         "N-10026"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:11:25",
       "investigative_direction": "Check FEC and OpenSecrets records for AIPAC-linked contributions to Mace.",
@@ -2327,7 +2323,7 @@
         "N-10876"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:12:36",
       "investigative_direction": "Locate the original Mace interview and confirm the exact wording and date of the clip.",
@@ -2353,7 +2349,7 @@
         "N-10898"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:13:54",
       "investigative_direction": "Pull the Mace posts and the New York Post stories to confirm text and dates.",
@@ -2438,8 +2434,8 @@
       "@type": "Claim",
       "@id": "C-9222",
       "ref": "C-9222",
-      "label": "Host calls the New York Post the MSAD's rag tied to Ghislaine Maxwell coverage",
-      "claim": "The host calls the New York Post the \"MSAD's rag\" and says it had everything to do with Ghislaine Maxwell and with the report that Jeffrey Epstein had been suicided in his cell, covering for Maxwell.",
+      "label": "Host calls the New York Post the Mossad's rag tied to Ghislaine Maxwell coverage",
+      "claim": "The host calls the New York Post the \"Mossad's rag\" and says it had everything to do with Ghislaine Maxwell and with the report that Jeffrey Epstein had been suicided in his cell, covering for Maxwell.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10898",
@@ -2450,7 +2446,7 @@
       ],
       "claim_timestamp": "00:14:50",
       "investigative_direction": "Review the New York Post's Epstein and Maxwell coverage and any ownership or sourcing links the host alleges.",
-      "transcript_snippet": "the New York Post in particular, the MSAD's rag, uh the one that had everything to do with Ghislaine Maxwell and Jeffrey Epstein",
+      "transcript_snippet": "the New York Post in particular, the Mossad's rag, uh the one that had everything to do with Ghislaine Maxwell and Jeffrey Epstein",
       "mentions_person_refs": [
         "N-47",
         "N-9"
@@ -2545,7 +2541,7 @@
       "@id": "C-9227",
       "ref": "C-9227",
       "label": "Host says the internet push follows the Pentagon's failure to cover its tracks on the assassination",
-      "claim": "The host gives her opinion that officials will seek to regulate the internet because of the Pentagon's astonishing failure to cover its own tracks regarding the assassination of Charlie Kirk, and that women are blamed because they did not accept Erika Kirk's performance.",
+      "claim": "The host gives her opinion that the people pushing this narrative will seek to regulate the internet because of the Pentagon's astonishing failure to cover its own tracks regarding the assassination of Charlie Kirk, and that women are blamed because they did not accept Erika Kirk's performance.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10064",
@@ -2652,8 +2648,7 @@
         "C-3547"
       ],
       "mentions_person_refs": [
-        "N-267",
-        "N-7"
+        "N-267"
       ]
     },
     {
@@ -2682,7 +2677,7 @@
       "@id": "C-9233",
       "ref": "C-9233",
       "label": "Host says the Turek and Harpole stories assume Turek was FaceTiming Jack Hibbs",
-      "claim": "The host says that on the basis of the stories both men told, Frank Turek is assumed to have been FaceTiming Jack Hibbs during the hospital events.",
+      "claim": "The host says that on the basis of the stories both men told, we are to assume Frank Turek was FaceTiming Jack Hibbs.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10730"
@@ -2707,7 +2702,7 @@
       "@id": "C-9234",
       "ref": "C-9234",
       "label": "Dispatch audio says officers were en route to the hospital with the victim",
-      "claim": "In the dispatch audio the host plays, a voice says to switch to channel 3J and that officers are en route to the hospital to be with the victim, after units were told police were signaling them to follow.",
+      "claim": "In the dispatch audio the host plays, a voice says \"Switching to 3J\" and that officers are en route to the hospital to be with the victim, after units were told police were signaling them to follow.",
       "anchored_artifacts": [
         "A-2476.2"
       ],
@@ -2748,7 +2743,7 @@
       "@id": "C-9236",
       "ref": "C-9236",
       "label": "Host says a different fire captain died in a flash flood and worked with Provo EMS",
-      "claim": "The host says she is aware of conspiracies about a different fire captain who perished with his entire family in a flash flood, that he did work with Provo EMS from which some calls appear to come, and that she has seen no information attaching him to this story.",
+      "claim": "The host says she is aware of conspiracies about a different fire captain who perished with his entire family in a flash flood, that he did work with Provo EMS from which some calls appear to come, and that she has not seen any information attaching him necessarily to this story.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11214",
@@ -2812,7 +2807,7 @@
       "@id": "C-9239",
       "ref": "C-9239",
       "label": "Host says TPUSA headquarters did not share the ticket count",
-      "claim": "The host says headquarters was not sharing the ticket count, so the police could not prepare without knowing the numbers sufficiently.",
+      "claim": "The host says headquarters was not sharing the ticket count, so there was no way they could have prepared without knowing the numbers sufficiently.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-11215",
@@ -3016,7 +3011,7 @@
         "N-10877"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:41:13",
       "investigative_direction": "Locate Andre's whistleblower filings and public statements.",
@@ -3075,8 +3070,8 @@
       "@type": "Claim",
       "@id": "C-9250",
       "ref": "C-9250",
-      "label": "Host speculates the files would show an MSAD network of women under MK Ultra programming",
-      "claim": "The host says she thinks the files would reveal fake wives and an entire MSAD network of women pretending to love men who are going through MK Ultra programming from a young age.",
+      "label": "Host speculates the files would show an Mossad network of women under MK Ultra programming",
+      "claim": "The host says she thinks the files would reveal fake wives and an entire Mossad network of women pretending to love men who are going through MK Ultra programming from a young age.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10324",
@@ -3087,7 +3082,7 @@
       ],
       "claim_timestamp": "00:43:00",
       "investigative_direction": "Ask what documents the host relies on for this speculation.",
-      "transcript_snippet": "an entire MSAD network, I think, of women who are pretending to love men who are going through like MK Ultra programming from the time that they're young.",
+      "transcript_snippet": "an entire Mossad network, I think, of women who are pretending to love men who are going through like MK Ultra programming from the time that they're young.",
       "mentions_person_refs": [
         "N-9"
       ]
@@ -3124,7 +3119,7 @@
         "N-10878"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:45:05",
       "investigative_direction": "Verify the booking announcement and Macklemore's remarks.",
@@ -3148,7 +3143,7 @@
         "N-10878"
       ],
       "tags": [
-        "relevance:context"
+        "relevance:tangential"
       ],
       "claim_timestamp": "00:45:05",
       "investigative_direction": "Check the Florida court record for the dismissed case.",
@@ -3445,15 +3440,15 @@
       "@type": "MemeAnalysis",
       "@id": "M-11",
       "ref": "M-11",
-      "canonical_term": "MSAD",
+      "canonical_term": "Mossad",
       "type": "meme",
       "occurrences": [
         {
           "episode": 160,
           "video_timestamp": "00:14:50",
           "speaker_node_ref": "N-3",
-          "quote": "the MSAD's rag",
-          "context": "Host calls the New York Post the MSAD's rag.",
+          "quote": "the Mossad's rag",
+          "context": "Host calls the New York Post the Mossad's rag.",
           "confidence": "high",
           "tags": [
             "mossad"

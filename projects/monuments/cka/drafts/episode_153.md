@@ -711,7 +711,7 @@ The dispute over who chose the UVU amphitheater, what UVU said about traffic con
 Claim Timestamp: 00:01:29
 Claim: The Kirk family filed a notice of claim against the State of Utah, the UVU Police Department, UVU Police Chief Jeffrey Long, former UVU president Astrid Tuminez, and others presently "unknown" involved in Charlie Kirk's death.
 Anchored Artifacts: A-2384.1
-Mentions: N-1
+Mentions: N-1, N-272, N-754
 Related Nodes: N-10833
 Investigative Direction: Obtain the filed notice of claim from the Utah Attorney General's office and confirm the precise list of named respondents.
 
@@ -733,6 +733,7 @@ Investigative Direction: Cross-reference UVU board minutes and the AP wire story
 Claim Timestamp: 00:04:55
 Claim: Astrid Tuminez stated UVU "will integrate the findings into our efforts to strengthen and improve safety practices for UVU and all of Utah higher education."
 Anchored Artifacts: A-2385.1
+Mentions: N-754
 Related Nodes: N-10839
 Investigative Direction: Retrieve Tuminez's original emailed statement to confirm exact wording.
 
@@ -761,9 +762,9 @@ Investigative Direction: Compare against TPUSA's security manifest and the event
 **C-3471** Text Message Identified Sorenson Staircase Roof Access
 
 Claim Timestamp: 00:27:11
-Claim: The displayed text message exchange between Dan Flood and Chief Jeffrey Long specifically referenced the Sorenson Student Center staircases providing access to walkways on the roof above where CK would be set up.
+Claim: Per the text message the host shows, Dan Flood told Chief Jeffrey Long that a student group said there is student roof access pretty close to where CK will be set up and that the Sorenson Student Center has a couple of staircases that go up to the walkways on the roof.
 Anchored Artifacts: A-2387.1, A-2388.1
-Mentions: N-271
+Mentions: N-271, N-272
 Related Nodes: N-10835
 Investigative Direction: Verify the original text thread metadata (timestamps, sender numbers) and confirm the recipient list.
 
@@ -774,7 +775,7 @@ Investigative Direction: Verify the original text thread metadata (timestamps, s
 Claim Timestamp: 00:30:35
 Claim: Chief Jeffrey Long responded to Dan Flood's rooftop-access request with the message "I got you covered."
 Anchored Artifacts: A-2387.1
-Mentions: N-271
+Mentions: N-271, N-272
 Related Nodes: N-10835
 Investigative Direction: Verify against UVU PD records and text-message metadata.
 
@@ -783,9 +784,9 @@ Investigative Direction: Verify against UVU PD records and text-message metadata
 **C-3473** Notice of Claim Omits "I was told students have access above us" Line
 
 Claim Timestamp: 00:29:56
-Claim: The notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the original line "I was told students have access above us," which materially narrows the rooftop reference to the specific walkway above Charlie's head.
+Claim: The host says the notice of claim's quotation of the Dan Flood / Chief Long text exchange omits the original line "I was told students have access above us," which she says narrows the rooftop reference to the specific walkway above Charlie's head.
 Anchored Artifacts: A-2384.1, A-2387.1
-Mentions: N-271
+Mentions: N-271, N-272, N-1
 Related Nodes: N-10835
 Investigative Direction: Obtain the filed notice of claim text and the underlying original text records to formally document the omission and contextual difference.
 
@@ -816,7 +817,7 @@ Investigative Direction: Compare against UVU venue capacity records, ticketing d
 Claim Timestamp: 00:19:44
 Claim: The notice of claim alleges that UVU Chief Jeff Long requested approval from then-UVU president Astrid Tuminez to allocate more than six officers.
 Anchored Artifacts: A-2384.1
-Mentions: N-272
+Mentions: N-272, N-754
 Related Nodes: N-10836
 Investigative Direction: Obtain UVU PD internal communications and presidential approval logs from September 2025.
 
@@ -834,7 +835,7 @@ Investigative Direction: Retrieve Tuminez's contemporaneous internal communicati
 
 **C-3478** Host Says Bodycam Footage Was Released Seven Days After Suspect Identification
 
-Claim Timestamp: 00:40:52
+Claim Timestamp: 00:42:50
 Claim: The host says the 2022 bodycam footage of Tyler Robinson was released seven days after the public found out Tyler Robinson was the suspect.
 Anchored Artifacts: A-2389.1, A-2389.2
 Mentions: N-40
@@ -845,7 +846,7 @@ Investigative Direction: Confirm Scripps News publication date and Tyler Robinso
 
 **C-3479** Host Says Bodycam Footage Is Dated May 31, 2022
 
-Claim Timestamp: 00:43:44
+Claim Timestamp: 00:42:58
 Claim: The host says the bodycam footage of Tyler Robinson is dated May 31, 2022, approximately three and a half years before it was released.
 Anchored Artifacts: A-2389.1
 Mentions: N-40
@@ -868,8 +869,9 @@ Investigative Direction: Retrieve Scripps News editorial sourcing notes and FOIA
 **C-3481** Host Says Scripps News Was Founded in 2022 by Jim Spencer
 
 Claim Timestamp: 00:48:11
-Claim: The host says Scripps News became operational in 2022, the same year as the incident, and was founded by Jim Spencer, who was formerly with Newsy.
+Claim: The host says Scripps News, formerly Newsy, became a thing in 2022, the same year as the incident, and that its founder is a man named Jim Spencer.
 Anchored Artifacts: A-2391.1
+Mentions: N-950
 Related Nodes: N-10834
 Investigative Direction: Confirm corporate registration records for Scripps News and Newsy's corporate history.
 
@@ -880,6 +882,7 @@ Investigative Direction: Confirm corporate registration records for Scripps News
 Claim Timestamp: 00:48:11
 Claim: The host says Jim Spencer teaches digital media and journalism at UT Austin and has done so since 2018, citing his bio on the site.
 Anchored Artifacts: A-2391.1
+Mentions: N-950
 Related Nodes: N-10834
 Investigative Direction: Verify Spencer's UT Austin faculty page and Nelda Buckman / Buckman Center affiliation.
 
@@ -1483,7 +1486,7 @@ Investigative Direction: Review scene video and EMS reports for contact between 
 
 Claim Timestamp: 00:24:37
 
-Claim: The host says, in what appears to be speaking for UVU, that TPUSA was given the address, the security protocols and told an ambulance was on standby, and TPUSA now disclaims it.
+Claim: The host says TPUSA was given the address and the security protocols and told an ambulance was on standby ("They made us aware of that"), and that TPUSA is now saying UVU did not do it.
 
 Transcript Snippet: Here's the address. Here's the security protocols. Ambulance on standby. They made us aware of that.
 
@@ -1606,7 +1609,7 @@ Claim: The host says Officer Bagley was sent to monitor the rooftop traffic cont
 Transcript Snippet: Officer Bagley was sent to monitor the rooftop traffic control.
 
 Anchored Artifacts: 
-Mentions: N-3, N-507, N-272
+Mentions: N-3, N-507, N-272, N-271
 Related Nodes: N-10646
 Supports: C-3472, C-10521
 Contradicts: C-15019
@@ -2024,7 +2027,7 @@ Investigative Direction: Ask Scripps how it obtained the video; no documented li
 
 Claim Timestamp: 00:49:39
 
-Claim: The host says news organizations showed Robinson in a maroon shirt as if he always wore maroon, though he normally wore blue shirts, and that decoys wore maroon.
+Claim: The host says news organizations showed Robinson in a maroon shirt as if he always wore maroon, though he normally wore blue shirts, and that it seems some decoys were going to wear the maroon shirt.
 
 Transcript Snippet: every news organization was showing us pictures of Tyler in a maroon shirt and you would think that he always wore maroon shirts, but he didn't actually.
 
@@ -2150,9 +2153,9 @@ Investigative Direction: Sweeping group claim; no direct bearing on the case.
 
 Claim Timestamp: 00:56:05
 
-Claim: The host says John Mappin is a quintessential Englishman and that he and Arena have been fantastic friends to her, especially during this time.
+Claim: The host says John Mappin is a quintessential Englishman and that he and Irina have been fantastic friends to her, especially during this time.
 
-Transcript Snippet: him and Arena have just been fantastic friends to us especially throughout this time.
+Transcript Snippet: him and Irina have just been fantastic friends to us especially throughout this time.
 
 Anchored Artifacts: 
 Mentions: N-3, N-155, N-156
@@ -2206,7 +2209,7 @@ Transcript Snippet: But Baron Coleman, yes, will be taking over the principal sh
 Anchored Artifacts: 
 Mentions: N-3, N-331
 Related Nodes: N-11313
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the show schedule for Coleman's episodes.
 
 ---
@@ -2222,7 +2225,7 @@ Transcript Snippet: It will run while I am off air um from Monday through Wednes
 Anchored Artifacts: 
 Mentions: N-3, N-331
 Related Nodes: N-11313
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Check the show schedule.
 
 ---
@@ -2231,7 +2234,7 @@ Investigative Direction: Check the show schedule.
 
 Claim Timestamp: 00:59:36
 
-Claim: The host says before leaving she and Coleman will do a joint episode going back through the case, including the state's evidence which she says Andrew Wilson insincerely missed.
+Claim: The host says before leaving she and Coleman will do a joint episode going back through the case, including the state's evidence, an opportunity she says was sorely missed by the incredibly insincere and disingenuous Andrew Wilson.
 
 Transcript Snippet: Before I leave, we will do a joint episode.
 
@@ -2254,7 +2257,7 @@ Transcript Snippet: We are just got a few more weeks here until this baby comes.
 Anchored Artifacts: 
 Mentions: N-3
 Related Nodes: N-11313
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Context only.
 
 ---
@@ -2363,7 +2366,7 @@ Transcript Snippet: we are reading bearing false witness and that is by Rodney S
 
 Anchored Artifacts: 
 Mentions: N-3, N-951, N-1
-Tags: relevance:context
+Tags: relevance:tangential
 Investigative Direction: Context only.
 
 ---

@@ -1,0 +1,771 @@
+[
+ {
+  "claim": "C-14888",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"I think it was way back in September, actually\"; claim drops \"I think\".",
+  "fix": {
+   "claim": "The host says that after searching the internet she found only one eyewitness who claimed to see the group arriving at the hospital, who posted his testimony, she thinks, back in September, before Harpole gave interviews."
+  }
+ },
+ {
+  "claim": "C-14889",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14890",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14891",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"which we then learned were provided by Mikey\"; \"the team's account\" is not in transcript.",
+  "fix": {
+   "claim": "The host says she then learned the surgical scrubs were provided by Mikey, and finds it strange that hospital staff would not give them out themselves but gave them to Charlie's young assistant who arrived later."
+  }
+ },
+ {
+  "claim": "C-14892",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14893",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14894",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Claim names Justin Davis (\"Harreff and Davis\") but Mentions omits N-493.",
+  "fix": {
+   "mentions": [
+    "N-7",
+    "N-900",
+    "N-493"
+   ]
+  }
+ },
+ {
+  "claim": "C-14895",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"so scrubs on them are less puzzling\" is inference; host says only Flood is in scrubs \"but we know he carried Charlie\".",
+  "fix": {
+   "claim": "The host says Dan Flood is also wearing surgical scrubs but they know he carried Charlie, and Rick Cutler certainly carried Charlie and was in the vehicle."
+  }
+ },
+ {
+  "claim": "C-14896",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14897",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host: \"Honestly, I kind of think they should be investigated\"; hedge dropped.",
+  "fix": {
+   "claim": "The host says it seems a risk and unusual for a hospital to hand out surgical scrubs to everyone for no reason and says she kind of thinks the hospital should be investigated."
+  }
+ },
+ {
+  "claim": "C-14898",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14899",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Alex Fria (no web results)",
+  "fix": {}
+ },
+ {
+  "claim": "C-14900",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"Blake Gibson and surgical scrubs\"; \"a member of the security detail\" is not stated. unresolved name: Blake Gibson.",
+  "fix": {
+   "claim": "The host names the man in surgical scrubs at the top of the frame as Blake Gibson."
+  }
+ },
+ {
+  "claim": "C-14901",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14902",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14903",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14904",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14905",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14906",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14907",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14908",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14909",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14910",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Transcript: \"involved in getting all of these influencers\" (sentence unfinished); \"to act\" added.",
+  "fix": {
+   "claim": "The host says the Department of Defense was somehow involved in getting all of these influencers and that she has figured out how people are getting paid, promising more later."
+  }
+ },
+ {
+  "claim": "C-14911",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": true,
+  "note": "Confirmed \"Diligent Denizen\" (X @DiligentDenizen); transcript \"Denisen\" and node \"Dennison\" are misspellings.",
+  "fix": {
+   "claim": "The host says the citizen journalist Diligent Denizen released an interview with one of the waiters working that night and then the receipt because people were saying he was lying.",
+   "names": [
+    {
+     "wrong": "Denisen",
+     "right": "Denizen",
+     "source": "https://x.com/DiligentDenizen/status/2072422058802172200"
+    }
+   ]
+  }
+ },
+ {
+  "claim": "C-14912",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14913",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14914",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14915",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14916",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "\"is not a meaningful comparison\" not said; host says it looks like scribble.",
+  "fix": {
+   "claim": "The host says the signature is the standard scribble people make on electronic signature pads such as at CVS."
+  }
+ },
+ {
+  "claim": "C-14917",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14918",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14919",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14920",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14921",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14922",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14923",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14924",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14925",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14926",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14927",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14928",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14929",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14930",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14931",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "unresolved name: Blake in hospital lobby (N-160 Blake Neff vs other); attributed to viewer comment then host reaction, acceptable.",
+  "fix": {}
+ },
+ {
+  "claim": "C-14932",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14933",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says \"the A concert\"; claim's \"probably the Ye concert\" and N-27 are inference; Kanye not named here.",
+  "fix": {
+   "claim": "The host says she did not see Charlie's family in Chicago and that the commenter may mean her attending a concert (transcribed as \"the A concert\")."
+  }
+ },
+ {
+  "claim": "C-14934",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14935",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14936",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14937",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14938",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14939",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14940",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14941",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14942",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14943",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14944",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "",
+  "fix": {}
+ },
+ {
+  "claim": "C-14945",
+  "episode": 149,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "ok",
+  "material": false,
+  "note": "Host says only \"special episode tomorrow in memoriam\"; \"the anniversary of his death\" added.",
+  "fix": {
+   "claim": "The host says the next day's episode will be a special one in memoriam of her dear friend Charlie Kirk."
+  }
+ },
+ {
+  "claim": "C-3406",
+  "episode": 150,
+  "attribution": "ok",
+  "accuracy": "minor",
+  "person": "ok",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": false,
+  "note": "Host: journaling \"obviously not all of it\"; \"four dated\" and \"in full\" not supported in window.",
+  "fix": {
+   "claim": "The host reads aloud journal entries she wrote to Charlie Kirk across the year after his death, saying she is sharing only some of her journaling."
+  }
+ },
+ {
+  "claim": "C-3407",
+  "episode": 150,
+  "attribution": "ok",
+  "accuracy": "ok",
+  "person": "error",
+  "timestamp": "ok",
+  "relevance": "untagged",
+  "material": true,
+  "note": "\"Arena\" is Irina (confirmed Irina Mappin, johnmappin.substack.com); claim lists both, Mentions omits N-156.",
+  "fix": {
+   "claim": "Irina and John Mappin co-authored an open letter, which the host reads, stating that Charlie's death was \"an assassination with potentially far-reaching political consequences\" and asserting that \"the truth, when known\u2026 will have far-reaching international consequences.\"",
+   "mentions": [
+    "N-1",
+    "N-155",
+    "N-156"
+   ],
+   "names": [
+    {
+     "wrong": "Arena",
+     "right": "Irina",
+     "source": "https://johnmappin.substack.com/p/candace-owens-charlie-kirk-and-the"
+    }
+   ]
+  }
+ }
+]

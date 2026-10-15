@@ -332,7 +332,7 @@ Video Timestamp: 00:32:09
 Discovery Timestamp: 00:00:00–00:00:01
 Confidence Level: High
 
-**A-2433.4** Diligent Denisen interview with one of the waiters working at Cowboy Smokehouse the night of September 10, released alongside the receipt
+**A-2433.4** Diligent Denizen interview with one of the waiters working at Cowboy Smokehouse the night of September 10, released alongside the receipt
 
 Event Timestamp: 00:00:00–00:00:01
 Source Timestamp: 00:00:00–00:00:01
@@ -1013,7 +1013,7 @@ Investigative Direction: Identify the other three members and verify each family
 **C-3546** Frank Turek claims he performed CPR for ~20–30 seconds in the last portion of the hospital ride
 
 Claim Timestamp: 00:11:50
-Claim: Frank Turek stated that, although most of the ride involved only bleeding control, in the last ~30 seconds of the ride as the SUV was pulling into the hospital parking lot, he attempted seated CPR for 20–30 seconds.
+Claim: Frank Turek stated that, although most of the ride involved only bleeding control, in the last ~30 seconds of the ride as the SUV was pulling into the hospital parking lot, he attempted CPR for 20-30 seconds.
 Anchored Artifacts: A-2429.1
 Mentions: N-7
 Investigative Direction: Obtain the full unedited Turek statement for context; compare with Brian Harpole's statements and any available dashcam/audio.
@@ -1057,7 +1057,7 @@ Investigative Direction: Locate the original witness video/post; cross-reference
 Claim Timestamp: 00:20:42
 Claim: The host says the footage shows Blake Harreff running after the SUV departed with no visible blood on his shirt.
 Anchored Artifacts: A-2432.2
-Mentions:
+Mentions: N-900
 Investigative Direction: Obtain higher-resolution frame stills; cross-check with independent footage sources.
 
 ---
@@ -1067,7 +1067,7 @@ Investigative Direction: Obtain higher-resolution frame stills; cross-check with
 Claim Timestamp: 00:18:51
 Claim: The host says Blake Harreff sprinted ahead with Justin Davis to open the car but did not help carry Charlie to the vehicle, and that he did not travel in the SUV to the hospital.
 Anchored Artifacts: A-2432.1, A-2432.2
-Mentions: N-493
+Mentions: N-900, N-493, N-1
 Related Nodes:
 Investigative Direction: Cross-reference with security team testimony and hospital arrival records; identify when and how Blake reached the hospital.
 
@@ -1078,7 +1078,7 @@ Investigative Direction: Cross-reference with security team testimony and hospit
 Claim Timestamp: 00:20:42
 Claim: The host says footage of the team returning to UVU after 8:30 PM on September 10 shows Blake Harreff wearing a Timpanogos surgical scrub top.
 Anchored Artifacts: A-2432.3
-Mentions:
+Mentions: N-900
 Related Nodes:
 Investigative Direction: Identify when and where Blake obtained the scrubs; obtain hospital visitor logs.
 
@@ -1108,10 +1108,10 @@ Investigative Direction: Identify scrubs source; cross-reference with hospital l
 
 **C-3555** Host Says Dan Flood Wore Surgical Scrubs at the UVU Return
 
-Claim Timestamp: 00:20:42
-Claim: The host says footage shows Dan Flood wearing surgical scrubs at the UVU return, consistent with his having carried Charlie.
+Claim Timestamp: 00:22:25
+Claim: The host says Dan Flood is also wearing surgical scrubs at the UVU return, but that we know he carried Charlie.
 Anchored Artifacts: A-2432.3
-Mentions: N-271
+Mentions: N-271, N-1
 Related Nodes:
 Investigative Direction: Identify scrubs source; cross-reference with hospital logs.
 
@@ -1140,10 +1140,10 @@ Investigative Direction: Obtain the original receipt, forensic authentication (p
 
 **C-3558** Receipt timestamp indicates the card could not have been swiped before ~9:47 PM
 
-Claim Timestamp: 00:33:40
-Claim: Per the host's account, the receipt timestamp indicates the card was not swiped until approximately 9:47 PM at the earliest.
+Claim Timestamp: 00:35:50
+Claim: Per the host, if the steakhouse receipt is verified, Tyler Robinson did not leave the steakhouse until about 9:47 PM at the earliest.
 Anchored Artifacts: A-2433.1
-Mentions:
+Mentions: N-40
 Related Nodes:
 Investigative Direction: Obtain the precise timestamp from the receipt/POS system; verify against Tyler Robinson's movements.
 
@@ -1154,7 +1154,7 @@ Investigative Direction: Obtain the precise timestamp from the receipt/POS syste
 Claim Timestamp: 00:35:39
 Claim: The host says that if the Cowboy Smokehouse receipt is genuine, Tyler Robinson could not have been at UVU at about 9:00 PM, when he texted Lance about K-9s, because Panguitch is a 3-hour drive from UVU.
 Anchored Artifacts: A-2433.1, A-2433.2, A-2433.3
-Mentions: N-40
+Mentions: N-40, N-54
 Related Nodes:
 Investigative Direction: Verify the 3-hour drive time with mapping data; reconcile the text messages' origin with cell tower records.
 
@@ -1173,10 +1173,10 @@ Investigative Direction: Identify the underlying source(s) raising the host's co
 
 **C-3561** If the receipt is confirmed, Tyler Robinson could not have made it back to Orem before ~1:47 AM
 
-Claim Timestamp: 00:37:12
-Claim: Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM – which would make multiple subsequent events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver.
+Claim Timestamp: 00:36:05
+Claim: Per the host's timeline analysis, if the receipt is confirmed, the earliest Tyler Robinson could have arrived in Orem is approximately 1:47 AM - which would make multiple earlier events (12:36 AM vehicle stop, 12:38 AM sighting at Mrs. Noble's house, 12:50 AM campus approach, 1:33 AM Google Maps route) impossible for him as the driver.
 Anchored Artifacts: A-2433.1
-Mentions: N-40
+Mentions: N-40, N-903
 Related Nodes:
 Investigative Direction: Cross-reference cell tower data, surveillance footage, and forensic vehicle evidence with the corrected timeline.
 
@@ -1185,7 +1185,7 @@ Investigative Direction: Cross-reference cell tower data, surveillance footage, 
 **C-3562** The Cowboy Smokehouse has received harassment (bad reviews) since July
 
 Claim Timestamp: 00:33:40
-Claim: The host states the restaurant has been "severely harassed" with bad reviews since July, characterizing the activity as "completely psychotic."
+Claim: The host states that, apparently, since July the restaurant has been "severely harassed" with bad reviews, characterizing the activity as "completely psychotic."
 Anchored Artifacts: A-2433.1
 Mentions:
 Related Nodes:
@@ -1206,7 +1206,7 @@ Investigative Direction: Confirm with FBI 302 forms or other official records; i
 
 **C-3564** YouTube commenter attributes hospital-lobby quote to "Blakey"
 
-Claim Timestamp: 00:45:10
+Claim Timestamp: 00:44:20
 Claim: A YouTube top comment by user "Matt Callaway" attributes to "Blakey" the statement "Candace is going to figure this out," reportedly said in the hospital lobby on September 10.
 Anchored Artifacts: A-2434.1
 Mentions:
@@ -1240,7 +1240,7 @@ Investigative Direction: Retrieve the original article from Fox News archives; v
 **C-3670** Host identifies show community as Decentralized Intelligence Agency
 
 Claim Timestamp: 00:51:15
-Claim: The host states that the show / audience operates as the Decentralized Intelligence Agency (or close variant), a crowd-sourced tip network opposing centralized intel.
+Claim: The host states that the show and its audience are "actually really the decentralized intelligence agency," a crowd-sourced network of contributors and tips with no central nucleus that can be hit.
 Transcript Snippet: ...ellers is our CIA cap. We are actually really the decentralized intelligence agency. There's a lot of comfort in that because there is no nucleus that can be hit. Everyone's working o...
 Anchored Artifacts: 
 Mentions: N-3
@@ -1250,10 +1250,10 @@ Investigative Direction: Preserve as brand / network framing claim; cross-link M
 
 ---
 
-**C-3671** CIA hat merch framed as Candace / Decentralized Intelligence Agency brand
+**C-3671** Host Plugs CIA Cap and Calls Show the Decentralized Intelligence Agency
 
 Claim Timestamp: 00:51:15
-Claim: The host plugs CIA-branded merch (hat/line) and glosses it as Candace Intelligence Agency and/or the Decentralized Intelligence Agency twin brand.
+Claim: The host plugs the CIA cap as one of the best-selling pieces of merch and says "we are actually really the decentralized intelligence agency."
 Transcript Snippet: ...bsite. Of course, one of our bests sellers is our CIA cap. We are actually really the decentralized intelligence agency. There's a lot of comfort in that bec...
 Anchored Artifacts: A-2493.1
 Mentions: N-3
@@ -1509,12 +1509,12 @@ Investigative Direction: Obtain Zoom participant logs or invitations for the Sep
 
 Claim Timestamp: 00:06:53
 
-Claim: The host says the call was at 4:00 a.m. in the morning Israel time for the two Israeli officials on it.
+Claim: The host says two Israeli officials joined Charlie's Zoom call at 4:00 a.m. in the morning their time.
 
 Transcript Snippet: from namely two Israeli officials at 4:00 a. m. in the morning their time
 
 Anchored Artifacts: 
-Mentions: N-1, N-165
+Mentions: N-1
 Related Nodes: N-10169
 Supports: C-10068
 Tags: relevance:core
@@ -1844,7 +1844,7 @@ Investigative Direction: Compare the full FaceTime interview audio with Hibbs's 
 
 Claim Timestamp: 00:15:52
 
-Claim: The host says that after searching the internet she found only one eyewitness who claimed to see the group arriving at the hospital, who posted his testimony in September, before Harpole gave interviews.
+Claim: The host says that after searching the internet she found only one eyewitness who claimed to see the group arriving at the hospital, who posted his testimony, she thinks, back in September, before Harpole gave interviews.
 
 Transcript Snippet: there was just one eyewitness that came forward that we could find who claimed to see them arriving at the hospital.
 
@@ -1893,7 +1893,7 @@ Investigative Direction: Match the witness's description to the hospital's exter
 
 Claim Timestamp: 00:16:39
 
-Claim: The host says the team's account is that the surgical scrubs were provided by Mikey, and she finds it strange that hospital staff would not give them out themselves but gave them to Charlie's young assistant who arrived later.
+Claim: The host says she then learned the surgical scrubs were provided by Mikey, and finds it strange that hospital staff would not give them out themselves but gave them to Charlie's young assistant who arrived later.
 
 Transcript Snippet: which we then learned were provided by Mikey. Another strange development that the hospital staff would just give them out
 
@@ -1948,7 +1948,7 @@ Claim: The host says that after Harreff and Davis opened the car door the footag
 Transcript Snippet: Thereafter, he comes around. He gets into the boot. Frank Turek.
 
 Anchored Artifacts: A-2432.2
-Mentions: N-7, N-900
+Mentions: N-7, N-900, N-493
 Related Nodes: 
 Supports: C-2954
 Tags: relevance:core
@@ -1992,7 +1992,7 @@ Investigative Direction: Confirm Davis's role at the hospital from footage and t
 
 Claim Timestamp: 00:22:59
 
-Claim: The host says it seems a risk and unusual for a hospital to hand out surgical scrubs to everyone for no reason and suggests the hospital should be investigated.
+Claim: The host says it seems a risk and unusual for a hospital to hand out surgical scrubs to everyone for no reason and says she kind of thinks the hospital should be investigated.
 
 Transcript Snippet: It seems like a risk to just be handing out surgical scrubs to everyone apparently uh for no reason.
 
@@ -2040,7 +2040,7 @@ Investigative Direction: Confirm the correct spelling and identity of the man hu
 
 Claim Timestamp: 00:25:29
 
-Claim: The host names the man in surgical scrubs at the top of the frame as Blake Gibson, a member of the security detail.
+Claim: The host names the man in surgical scrubs at the top of the frame as Blake Gibson.
 
 Transcript Snippet: Blake Gibson and surgical scrubs. That's who you see up in the top there.
 
@@ -2202,7 +2202,7 @@ Investigative Direction: Map the dates of influencer posts attempting to debunk 
 
 Claim Timestamp: 00:32:09
 
-Claim: The host says the Department of Defense was somehow involved in getting these influencers to act and that she has figured out how people are getting paid, promising more later.
+Claim: The host says the Department of Defense was somehow involved in getting all of these influencers and that she has figured out how people are getting paid, promising more later.
 
 Transcript Snippet: Now, we learned the Department of Defense was somehow involved in getting all of these influencers. More on that later because we have figured out how people are getting paid.
 
@@ -2219,9 +2219,9 @@ Investigative Direction: Obtain the payment records or contracts the host says s
 
 Claim Timestamp: 00:32:09
 
-Claim: The host says the citizen journalist Diligent Denisen released an interview with one of the waiters working that night and then the receipt because people were saying he was lying.
+Claim: The host says the citizen journalist Diligent Denizen released an interview with one of the waiters working that night and then the receipt because people were saying he was lying.
 
-Transcript Snippet: Diligent Denisen who dropped an interview with one of the waiters that was working that night and he then released a receipt to go along with it because people were saying that he was lying
+Transcript Snippet: Diligent Denizen who dropped an interview with one of the waiters that was working that night and he then released a receipt to go along with it because people were saying that he was lying
 
 Anchored Artifacts: A-2433.4
 Mentions: N-366
@@ -2300,7 +2300,7 @@ Investigative Direction: Obtain the receipt image Wilson used and exemplars of R
 
 Claim Timestamp: 00:33:40
 
-Claim: The host says the signature is the standard scribble people make on electronic signature pads such as at CVS and is not a meaningful comparison.
+Claim: The host says the signature is the standard scribble people make on electronic signature pads such as at CVS.
 
 Transcript Snippet: this is your standard when you get those like CVS electronic signature things
 
@@ -2769,7 +2769,7 @@ Investigative Direction: Check for any response from Harreff or Cutler to the st
 
 Claim Timestamp: 00:52:57
 
-Claim: The host says the next day's episode will be a special one in memoriam of Charlie Kirk, the anniversary of his death.
+Claim: The host says the next day's episode will be a special one in memoriam of her dear friend Charlie Kirk.
 
 Transcript Snippet: we will of course be having a special episode tomorrow um in memoriam of my dear friend Charlie Kirk.
 

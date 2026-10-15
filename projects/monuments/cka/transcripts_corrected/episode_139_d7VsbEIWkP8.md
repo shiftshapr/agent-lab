@@ -210,7 +210,7 @@ Are you paying attention?
 
 [47:40]
 
-I don't know if we're just growing up and the propaganda just isn't slapping the same. Like if we saw this in like 2001, we'd be like, "Oh my gosh, yes." No, that's crazy. Like, do they know? We know like about the CIA and Israel funding al-Qaeda funding alus, the MSAD motto, you know, that they're going to conquer the world through deception. Do they know that we know that Israel is behind all of this radical are I don't know. I just it's it's a little too on the nose. It's a little too on the nose. They are going to conquer you through the wombs of their women. Like who's writing this stuff? It's just leave it as it is. It's a promo for the trailer. Uh reminder just as they are uh chomping at the bit for war with Iran and telling you you know what you should do? you should learn to cook a burrito.
+I don't know if we're just growing up and the propaganda just isn't slapping the same. Like if we saw this in like 2001, we'd be like, "Oh my gosh, yes." No, that's crazy. Like, do they know? We know like about the CIA and Israel funding al-Qaeda funding alus, the Mossad motto, you know, that they're going to conquer the world through deception. Do they know that we know that Israel is behind all of this radical are I don't know. I just it's it's a little too on the nose. It's a little too on the nose. They are going to conquer you through the wombs of their women. Like who's writing this stuff? It's just leave it as it is. It's a promo for the trailer. Uh reminder just as they are uh chomping at the bit for war with Iran and telling you you know what you should do? you should learn to cook a burrito.
 
 [48:31]
 
