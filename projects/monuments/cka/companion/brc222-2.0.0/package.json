@@ -8,7 +8,7 @@
     "source": "https://brc222.org/vocabulary.json",
     "vendored": "projects/monuments/cka/vendor/brc222/vocabulary.json"
   },
-  "generated_at": "2026-10-15T11:43:26Z",
+  "generated_at": "2026-10-15T16:13:33Z",
   "cka_root": "projects/monuments/cka",
   "locks": {
     "deploy": false,
@@ -12992,7 +12992,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1164",
-      "label": "Charlie Kirk wrote letter to Netanyahu in May",
+      "label": "Host Mocks Portrayal of Kirk's May Letter to Netanyahu as Glowing",
       "node_kind": "claim",
       "episode": 3
     },
@@ -13531,7 +13531,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1171",
-      "label": "Unusual traffic observed at residence pre-shooting",
+      "label": "Host Relays Rumor of Unusual Traffic at Residence Before Shooting",
       "node_kind": "claim",
       "episode": 3
     },
@@ -14686,7 +14686,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1186",
-      "label": "Photo of Robinson at Dairy Queen at 6:38 p.m.",
+      "label": "Host Shows Photo Allegedly of Robinson at Dairy Queen at 6:38 p.m.",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15561,7 +15561,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-11973",
-      "label": "Host Says Zionists Began Circling Kirk to Control Things Around the Previous September",
+      "label": "Host Says Zionists Began Circling Kirk to Control Things Around September",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15687,7 +15687,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1199",
-      "label": "Sherry Steel cannot be verified in building databases",
+      "label": "Host Says She Cannot Find Sherry Steel in the Building Complex",
       "node_kind": "claim",
       "episode": 5
     },
@@ -15918,7 +15918,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1202",
-      "label": "Feds pressured locals not to release footage",
+      "label": "Host Says Locals Told Her Feds Pressured Them Not to Release Footage",
       "node_kind": "claim",
       "episode": 5
     },
@@ -16198,7 +16198,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-12056",
-      "label": "Host Says Authorities Have Clear Footage of the Roof Figure They Did Not Release",
+      "label": "Host Says Authorities Have Clear Footage of the Person They Did Not Release",
       "node_kind": "claim",
       "episode": 8
     },
@@ -16457,7 +16457,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1209",
-      "label": "Behind-shot footage shown to host contained no blood",
+      "label": "Host Says Behind-Shot Footage Shown to Her Contained No Blood",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17227,7 +17227,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1219",
-      "label": "Host Says Victoria Churchill Has APAC Connection",
+      "label": "Host Says Victoria Churchill Has AIPAC Connection",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17381,7 +17381,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1221",
-      "label": "Host Says Kirk Tweet Called Milgram and Lischinsky Beautiful People",
+      "label": "Host Says Kirk Tweet Called Milgrim and Lischinsky Beautiful People",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17535,7 +17535,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1223",
-      "label": "Candace spoke at TPUSA conferences last year",
+      "label": "Host Says She Spoke at TPUSA Conferences Last Year",
       "node_kind": "claim",
       "episode": 6
     },
@@ -17612,7 +17612,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1224",
-      "label": "FBI released text chain between Robinson and Lance",
+      "label": "Host Calls Robinson-Lance Text Chain Made Up",
       "node_kind": "claim",
       "episode": 6
     },
@@ -19845,7 +19845,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1253",
-      "label": "Eyewitness tells FBI shooter was in tactical gear, not jeans",
+      "label": "Eyewitness Says Shooter Wore Tactical Gear, Not Jeans",
       "node_kind": "claim",
       "episode": 8
     },
@@ -22771,7 +22771,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1291",
-      "label": "Second rooftop witness gave footage to Orem Police Department on day one; feds did not contact him until September 15",
+      "label": "Second Rooftop Witness Gave Footage to Orem Police Department; Feds Did Not Contact Him Until September 15",
       "node_kind": "claim",
       "episode": 10
     },
@@ -22848,7 +22848,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1292",
-      "label": "Charlie Kirk characterized weekend retreat pressure as 'moral blackmail'",
+      "label": "DuRousseau Says Charlie Kirk Used the Phrase 'Moral Blackmail' in a Workshop Setting",
       "node_kind": "claim",
       "episode": 10
     },
@@ -22925,7 +22925,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-1293",
-      "label": "Emily's August 6 Hamptons Instagram post contradicts Xavier Deruso's safety-based secrecy claim",
+      "label": "Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim",
       "node_kind": "claim",
       "episode": 10
     },
@@ -27762,7 +27762,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13559",
-      "label": "Host Says a File Was Presented With a Do-This-or-Else Message",
+      "label": "Host Says She Never Alleged a File Was Presented With a Do-This-or-Else Message",
       "node_kind": "claim",
       "episode": 3
     },
@@ -27867,7 +27867,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13572",
-      "label": "Kirk Says on the Clip There Was Another Article About Him in the Times of Israel That Day",
+      "label": "Kirk Says on the Clip There Was Another Article in the Times of Israel That Day",
       "node_kind": "claim",
       "episode": 3
     },
@@ -28672,7 +28672,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13677",
-      "label": "Host Says She Hired More Security the Week of Aug 30",
+      "label": "Host Says She Hired More Security That Very Week",
       "node_kind": "claim",
       "episode": 9
     },
@@ -29365,7 +29365,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-13767",
-      "label": "Host Says Not Contacting Both Witnesses Until September 15 Looks Like a Cover-Up",
+      "label": "Host Says Not Contacting the Two Rooftop Witnesses Looks Like a Cover-Up",
       "node_kind": "claim",
       "episode": 10
     },
@@ -53998,7 +53998,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3632",
-      "label": "Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing Organization-Wide DOGE Efficiency Audit",
+      "label": "Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing an Organization-Wide DOGE Effort",
       "node_kind": "claim",
       "episode": 10
     },
@@ -54740,7 +54740,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-3738",
-      "label": "Emily's August 6 Hamptons Instagram post contradicts Xaviaer DuRousseau's safety-based secrecy claim (revises C-1293)",
+      "label": "Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim (revises C-1293)",
       "node_kind": "claim",
       "episode": 10
     },
@@ -62951,7 +62951,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "C-4911",
-      "label": "Host Says Donors Are Trying to Buy Their Way Into Funeral Remarks",
+      "label": "Host Says She Has Heard People Are Trying to Buy Their Way Into Funeral Remarks",
       "node_kind": "claim",
       "episode": 4
     },
@@ -98644,7 +98644,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1079.3",
-      "label": "Text chain joking about convincing Erika Frantzey to take the Kirk last name as a 'practical decision'.",
+      "label": "Text chain joking about convincing Erika Frantzve to take the Kirk last name as a 'practical decision'.",
       "node_kind": "artifact",
       "episode": 1
     },
@@ -99596,7 +99596,7 @@
     {
       "@type": "KnowledgeGraphNode",
       "identifier": "A-1129.1",
-      "label": "Charlie Kirk's tweet defending Milgram and Lachinsky and pushing back against speech restrictions",
+      "label": "Charlie Kirk's tweet defending Milgrim and Lischinsky and pushing back against speech restrictions",
       "node_kind": "artifact",
       "episode": 6
     },

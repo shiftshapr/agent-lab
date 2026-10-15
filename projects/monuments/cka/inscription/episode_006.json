@@ -334,7 +334,7 @@
           "@type": "Artifact",
           "@id": "A-1129.1",
           "ref": "A-1129.1",
-          "description": "Charlie Kirk's tweet defending Milgram and Lachinsky and pushing back against speech restrictions",
+          "description": "Charlie Kirk's tweet defending Milgrim and Lischinsky and pushing back against speech restrictions",
           "related_claims": [
             "C-1221"
           ],
@@ -345,7 +345,7 @@
           ],
           "tags": [],
           "video_timestamp": "00:32:43–00:33:08",
-          "transcript_snippet": "after the assassination of Sarah Mgram and Yaron Lischinsky... these were beautiful people",
+          "transcript_snippet": "after the assassination of Sarah Milgrim and Yaron Lischinsky... these were beautiful people",
           "confidence": "medium"
         },
         {
@@ -862,7 +862,7 @@
       "@type": "Person",
       "@id": "N-90",
       "ref": "N-90",
-      "name": "Sarah Milgram",
+      "name": "Sarah Milgrim",
       "type": "person",
       "description": "Person referenced in Charlie Kirk's May tweet as recently assassinated",
       "related_artifacts": [
@@ -2017,7 +2017,8 @@
       "transcript_snippet": "that person appears to be calmly talking into their phone. It's like a circus around them",
       "confidence": "high",
       "mentions_person_refs": [
-        "N-83"
+        "N-83",
+        "N-1"
       ]
     },
     {
@@ -2067,8 +2068,8 @@
       "@type": "Claim",
       "@id": "C-1209",
       "ref": "C-1209",
-      "label": "Behind-shot footage shown to host contained no blood",
-      "claim": "The footage shown to the host via FaceTime from the rear angle showed no blood or gore.",
+      "label": "Host Says Behind-Shot Footage Shown to Her Contained No Blood",
+      "claim": "The host says the footage shown to her via FaceTime from the rear angle showed no blood or gore.",
       "anchored_artifacts": [
         "A-1122.2"
       ],
@@ -2316,7 +2317,7 @@
       "@type": "Claim",
       "@id": "C-1219",
       "ref": "C-1219",
-      "label": "Host Says Victoria Churchill Has APAC Connection",
+      "label": "Host Says Victoria Churchill Has AIPAC Connection",
       "claim": "The host says Victoria Churchill of the Daily Mail has a connection to AIPAC, and shows a picture of her sitting in the audience at AIPAC, starting off 2018 in DC.",
       "anchored_artifacts": [],
       "related_nodes": [
@@ -2362,8 +2363,8 @@
       "@type": "Claim",
       "@id": "C-1221",
       "ref": "C-1221",
-      "label": "Host Says Kirk Tweet Called Milgram and Lischinsky Beautiful People",
-      "claim": "The host says Charlie Kirk, in a long tweet he sent her in a message from May, called Sarah Milgram and Yaron Lischinsky beautiful people and pushed back against using their killings to justify restricting free speech.",
+      "label": "Host Says Kirk Tweet Called Milgrim and Lischinsky Beautiful People",
+      "claim": "The host says Charlie Kirk, in a long tweet he sent her in a message from May, called Sarah Milgrim and Yaron Lischinsky beautiful people and pushed back against using their killings to justify restricting free speech.",
       "anchored_artifacts": [
         "A-1129.1"
       ],
@@ -2405,8 +2406,8 @@
       "@type": "Claim",
       "@id": "C-1223",
       "ref": "C-1223",
-      "label": "Candace spoke at TPUSA conferences last year",
-      "claim": "Candace Owens spoke at Turning Point USA conferences and toured with Charlie Kirk on the 'Live Free Tour' last year.",
+      "label": "Host Says She Spoke at TPUSA Conferences Last Year",
+      "claim": "The host says she spoke at two Turning Point USA conferences last year, plays a clip of her speech, and shows the Live Free Tour page listing Charlie Kirk and Candace Owens.",
       "anchored_artifacts": [
         "A-1130.1",
         "A-1130.2"
@@ -2433,8 +2434,8 @@
       "@type": "Claim",
       "@id": "C-1224",
       "ref": "C-1224",
-      "label": "FBI released text chain between Robinson and Lance",
-      "claim": "The FBI released a text exchange between accused shooter Tyler Robinson and his partner Lance that the host characterizes as 'ridiculous madeup.'",
+      "label": "Host Calls Robinson-Lance Text Chain Made Up",
+      "claim": "The host calls the text chain between accused shooter Tyler Robinson and his lover Lance a 'ridiculous madeup' text chain, mocking how the feds think people speak.",
       "anchored_artifacts": [
         "A-1131.1"
       ],
@@ -2572,7 +2573,8 @@
       "transcript_snippet": "as many of you pointed out, that was uh, near Charlie or just before the assassination.",
       "mentions_person_refs": [
         "N-3",
-        "N-1"
+        "N-1",
+        "N-83"
       ]
     },
     {
@@ -2599,7 +2601,8 @@
         "C-4902"
       ],
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-83"
       ]
     },
     {
@@ -2622,7 +2625,8 @@
       "investigative_direction": "Obtain the host's text thread and call log with the man to confirm the timing and content of the first contact.",
       "transcript_snippet": "I just sent a text because I still had his number and he was extremely forthcoming.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-83"
       ]
     },
     {
@@ -2630,7 +2634,7 @@
       "@id": "C-13603",
       "ref": "C-13603",
       "label": "Host Says the Camera Man Fears for His Family After the Clips Went Viral",
-      "claim": "The host says the man told her he was seeing the clips go viral and was fearful for his family, and she adds that he has no security.",
+      "claim": "The host says the man is seeing the clips go viral and is fearful for his family, and that he has no security.",
       "anchored_artifacts": [
         "A-1122.1"
       ],
@@ -2645,7 +2649,8 @@
       "investigative_direction": "Confirm through the host or the man whether any threats were received after the clips spread.",
       "transcript_snippet": "obviously he's seeing all these clips going viral and he is fearful for his family.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-83"
       ]
     },
     {
@@ -2669,7 +2674,8 @@
       "transcript_snippet": "I was sitting right to the left or or to the left of Charlie when Charlie got shot and I instantly knew that he was not going to be okay",
       "mentions_person_refs": [
         "N-3",
-        "N-1"
+        "N-1",
+        "N-83"
       ]
     },
     {
@@ -2693,7 +2699,8 @@
       "investigative_direction": "Identify whom he called and obtain phone records or his own statement on the calls placed in the minutes after the shooting.",
       "transcript_snippet": "That's why he's on his phone uh communicating to them what had happened. That's what he told me.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-83"
       ]
     },
     {
@@ -2717,7 +2724,8 @@
       "investigative_direction": "Ask the FBI and TPUSA whether the camera and its card were handed over, when, and to whom, and obtain the chain-of-custody record.",
       "transcript_snippet": "\"Because the first thing that I thought is that I better secure the footage.\" and be helpful and give that footage,",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-83"
       ]
     },
     {
@@ -2784,7 +2792,8 @@
         "C-4905"
       ],
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-83"
       ]
     },
     {
@@ -2809,7 +2818,8 @@
       "mentions_person_refs": [
         "N-3",
         "N-2",
-        "N-1"
+        "N-1",
+        "N-83"
       ]
     },
     {
@@ -2832,7 +2842,8 @@
       "investigative_direction": "Obtain call records for the FaceTime session and ask whether any recording or screenshot of the screen exists.",
       "transcript_snippet": "So, in the short run, he agrees that rather than send the footage, he will get onto a FaceTime call with me and he will show me the footage on his computer.",
       "mentions_person_refs": [
-        "N-3"
+        "N-3",
+        "N-83"
       ]
     },
     {
@@ -3091,8 +3102,7 @@
       "investigative_direction": "Ask the host to publish the sender names and outlets of the memorial emails and compare timing against the Daily Mail story.",
       "transcript_snippet": "All of them were asking specifically for me to confirm that I was going.",
       "mentions_person_refs": [
-        "N-3",
-        "N-84"
+        "N-3"
       ]
     },
     {
@@ -3151,7 +3161,8 @@
       "mentions_person_refs": [
         "N-14",
         "N-3",
-        "N-57"
+        "N-57",
+        "N-72"
       ]
     },
     {
@@ -3159,7 +3170,7 @@
       "@id": "C-13625",
       "ref": "C-13625",
       "label": "PBD Clip: Speaker Says Candace Had a Quiet Breakup Because She Got Too Rabbit Hole",
-      "claim": "In the replayed PBD clip, a speaker says that what he already knew was a very quiet breakup, in which Candace got too rabbit hole for Charlie, would otherwise make her the logical heir to the TPUSA throne.",
+      "claim": "In the replayed PBD clip, a speaker says that in a perfect world, if not for what he already knew was a very quiet breakup in which Candace got too rabbit hole for Charlie, she would be the logical heir to the TPUSA throne.",
       "anchored_artifacts": [
         "A-1125.1"
       ],
@@ -3350,8 +3361,7 @@
         "C-1219"
       ],
       "mentions_person_refs": [
-        "N-3",
-        "N-84"
+        "N-3"
       ]
     },
     {
@@ -3613,7 +3623,7 @@
       "@id": "C-13644",
       "ref": "C-13644",
       "label": "Host Says the Feds Were Involved in Charlie's Death to Push Through Speech Laws",
-      "claim": "The host says the feds are obviously lying and, at some level in a very big way, were involved in the death of Charlie because they wanted a radical way to push through laws.",
+      "claim": "The host says the feds are obviously lying and that she would say they were, at some level in a very big way, involved in the death of Charlie because they wanted a radical way to push through laws.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10079",

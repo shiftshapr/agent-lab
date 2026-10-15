@@ -1750,7 +1750,7 @@
       "@type": "Claim",
       "@id": "C-3632",
       "ref": "C-3632",
-      "label": "Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing Organization-Wide DOGE Efficiency Audit",
+      "label": "Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing an Organization-Wide DOGE Effort",
       "claim": "Per an internal TPUSA memo signed by Charlie Kirk on September 2, 2025 that the host reads, Justin Streiff was elevated to COO and tasked with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.",
       "anchored_artifacts": [
         "A-1162.1"
@@ -1884,8 +1884,8 @@
       "@type": "Claim",
       "@id": "C-1291",
       "ref": "C-1291",
-      "label": "Second rooftop witness gave footage to Orem Police Department on day one; feds did not contact him until September 15",
-      "claim": "A second rooftop witness told the host he personally walked his footage into the Orem Police Department on day one, and that the feds did not reach out to him until September 15, after Governor Cox declared the suspect in custody.",
+      "label": "Second Rooftop Witness Gave Footage to Orem Police Department; Feds Did Not Contact Him Until September 15",
+      "claim": "A second rooftop witness told the host's team he walked in and gave his footage to the Orem Police Department, which said it was overwhelmed on day one, and that the feds did not reach out to him until September 15, after Governor Cox said the investigation was over and they had the guy.",
       "anchored_artifacts": [
         "A-1164.3"
       ],
@@ -1912,8 +1912,8 @@
       "@type": "Claim",
       "@id": "C-1292",
       "ref": "C-1292",
-      "label": "Charlie Kirk characterized weekend retreat pressure as 'moral blackmail'",
-      "claim": "Xavier Deruso states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.",
+      "label": "DuRousseau Says Charlie Kirk Used the Phrase 'Moral Blackmail' in a Workshop Setting",
+      "claim": "The host says Xaviaer DuRousseau made a video addressing the Hamptons weekend in which he says Charlie spoke about feeling morally blackmailed, but in a workshop setting like a debate club; in the clip DuRousseau says Charlie said it is moral blackmail to claim that calling a politician bad empowers a terrorist organization.",
       "anchored_artifacts": [
         "A-1165.1"
       ],
@@ -1922,7 +1922,7 @@
         "N-10027"
       ],
       "tags": [],
-      "claim_timestamp": "00:04:28",
+      "claim_timestamp": "00:03:54",
       "investigative_direction": "Verify with primary recording or transcript of the actual weekend workshop; cross-check Deruso's characterization against other attendees.",
       "transcript_snippet": "Charlie spoke about feeling morally blackmailed.",
       "confidence": "medium",
@@ -1961,7 +1961,7 @@
       "@type": "Claim",
       "@id": "C-1293",
       "ref": "C-1293",
-      "label": "Emily's August 6 Hamptons Instagram post contradicts Xavier Deruso's safety-based secrecy claim",
+      "label": "Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim",
       "claim": "Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining Deruso's claim that real-time posting was avoided for safety reasons.",
       "anchored_artifacts": [
         "A-1165.2",
@@ -1985,7 +1985,7 @@
       "@type": "Claim",
       "@id": "C-3738",
       "ref": "C-3738",
-      "label": "Emily's August 6 Hamptons Instagram post contradicts Xaviaer DuRousseau's safety-based secrecy claim (revises C-1293)",
+      "label": "Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim (revises C-1293)",
       "claim": "C-1293's title spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-115). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.",
       "anchored_artifacts": [
         "A-1165.2",
@@ -2199,7 +2199,7 @@
       "@id": "C-3733",
       "ref": "C-3733",
       "label": "Host credits Taylor Lorenz for noting her isolation",
-      "claim": "The host gives a shout out to Taylor Lorenz, who she says wrote on X asking why she felt Candace was the only one who actually cared about Charlie.",
+      "claim": "The host gives a shout out to Taylor Lorenz, who she says wrote, she thinks on X, asking why she felt Candace was the only one who actually cared about Charlie.",
       "anchored_artifacts": [
         "A-2520.3"
       ],
@@ -2219,7 +2219,7 @@
       "@id": "C-3734",
       "ref": "C-3734",
       "label": "Host likens signed bullets to Nikki Haley signing bombs",
-      "claim": "Answering a viewer comment about messages on bullets, the host likens it to Nikki Haley signing bombs that were dropped and killed children.",
+      "claim": "Answering a viewer comment about messages on bullets, the host likens it to Nikki Haley signing bombs that are going to be dropped and kill children.",
       "anchored_artifacts": [
         "A-2520.4"
       ],
@@ -3055,8 +3055,8 @@
       "@type": "Claim",
       "@id": "C-13767",
       "ref": "C-13767",
-      "label": "Host Says Not Contacting Both Witnesses Until September 15 Looks Like a Cover-Up",
-      "claim": "The host says the failure to reach the two rooftop footage witnesses until September 15 looks to her like a cover-up rather than an effort to get to the bottom of the crime, and that the feds' resources make it implausible they did not reach out.",
+      "label": "Host Says Not Contacting the Two Rooftop Witnesses Looks Like a Cover-Up",
+      "claim": "The host says the failure to reach the two rooftop footage witnesses (one never, the other not until September 15) looks to her like a cover-up rather than an effort to get to the bottom of the crime, and that the feds' resources make it implausible they did not reach out.",
       "anchored_artifacts": [
         "A-1164.2",
         "A-1164.3"

@@ -148,10 +148,10 @@ Confidence: high
 
 **A-1129** Charlie Kirk May Communication Bundle
 
-**A-1129.1** Charlie Kirk's tweet defending Milgram and Lachinsky and pushing back against speech restrictions
+**A-1129.1** Charlie Kirk's tweet defending Milgrim and Lischinsky and pushing back against speech restrictions
 Video Timestamp: 00:32:43–00:33:08
 *Related: C-1221, N-90, N-91*
-Transcript Snippet: after the assassination of Sarah Mgram and Yaron Lischinsky... these were beautiful people
+Transcript Snippet: after the assassination of Sarah Milgrim and Yaron Lischinsky... these were beautiful people
 Confidence: medium
 
 **A-1129.2** Host's text exchange with Charlie Kirk dated May 22 about speech censorship
@@ -370,7 +370,7 @@ Host on whose show Brendan Carr made FCC remarks
 
 ---
 
-**N-90** Sarah Milgram
+**N-90** Sarah Milgrim
 
 Node Type: Person
 Person referenced in Charlie Kirk's May tweet as recently assassinated
@@ -922,7 +922,7 @@ Claim Timestamp: 00:03:35
 Claim: The host says footage she shows has an individual standing near the car where Charlie was taken, appearing to calmly talk into his phone shortly after the shot.
 Transcript Snippet: that person appears to be calmly talking into their phone. It's like a circus around them
 Anchored Artifacts: A-1120.1
-Mentions: N-83
+Mentions: N-83, N-1
 Related Nodes: N-10076
 Confidence: high
 Investigative Direction: Obtain full-resolution copy of wide-angle clip; cross-reference timing against crowd movement logs.
@@ -956,10 +956,10 @@ Investigative Direction: Verify association via TPUSA employee/vendor records an
 
 ---
 
-**C-1209** Behind-shot footage shown to host contained no blood
+**C-1209** Host Says Behind-Shot Footage Shown to Her Contained No Blood
 
 Claim Timestamp: 00:11:36
-Claim: The footage shown to the host via FaceTime from the rear angle showed no blood or gore.
+Claim: The host says the footage shown to her via FaceTime from the rear angle showed no blood or gore.
 Transcript Snippet: there's no blood... there's no blood from the back
 Anchored Artifacts: A-1122.2
 Mentions: N-1, N-83
@@ -1103,7 +1103,7 @@ Investigative Direction: Verify company registration, address, and project portf
 
 ---
 
-**C-1219** Host Says Victoria Churchill Has APAC Connection
+**C-1219** Host Says Victoria Churchill Has AIPAC Connection
 
 Claim Timestamp: 00:29:40
 Claim: The host says Victoria Churchill of the Daily Mail has a connection to AIPAC, and shows a picture of her sitting in the audience at AIPAC, starting off 2018 in DC.
@@ -1130,10 +1130,10 @@ Investigative Direction: Locate full Carr interview on Benny Johnson show and ve
 
 ---
 
-**C-1221** Host Says Kirk Tweet Called Milgram and Lischinsky Beautiful People
+**C-1221** Host Says Kirk Tweet Called Milgrim and Lischinsky Beautiful People
 
 Claim Timestamp: 00:32:52
-Claim: The host says Charlie Kirk, in a long tweet he sent her in a message from May, called Sarah Milgram and Yaron Lischinsky beautiful people and pushed back against using their killings to justify restricting free speech.
+Claim: The host says Charlie Kirk, in a long tweet he sent her in a message from May, called Sarah Milgrim and Yaron Lischinsky beautiful people and pushed back against using their killings to justify restricting free speech.
 Transcript Snippet: these were beautiful people. They had their lives ahead of them
 Anchored Artifacts: A-1129.1
 Mentions: N-90, N-91, N-1
@@ -1155,10 +1155,10 @@ Investigative Direction: Verify the text message screenshot metadata and timesta
 Tags: open_source_investigation
 ---
 
-**C-1223** Candace spoke at TPUSA conferences last year
+**C-1223** Host Says She Spoke at TPUSA Conferences Last Year
 
 Claim Timestamp: 00:27:53
-Claim: Candace Owens spoke at Turning Point USA conferences and toured with Charlie Kirk on the 'Live Free Tour' last year.
+Claim: The host says she spoke at two Turning Point USA conferences last year, plays a clip of her speech, and shows the Live Free Tour page listing Charlie Kirk and Candace Owens.
 Transcript Snippet: Here is me speaking on Turning Point USA's stage last year... Live free tour. Charlie Kirk and Candace Owens
 Anchored Artifacts: A-1130.1, A-1130.2
 Mentions: N-3, N-1
@@ -1170,10 +1170,10 @@ Investigative Direction: Cross-reference TPUSA website archive and event recordi
 Tags: open_source_investigation
 ---
 
-**C-1224** FBI released text chain between Robinson and Lance
+**C-1224** Host Calls Robinson-Lance Text Chain Made Up
 
 Claim Timestamp: 00:44:30
-Claim: The FBI released a text exchange between accused shooter Tyler Robinson and his partner Lance that the host characterizes as 'ridiculous madeup.'
+Claim: The host calls the text chain between accused shooter Tyler Robinson and his lover Lance a 'ridiculous madeup' text chain, mocking how the feds think people speak.
 Transcript Snippet: ridiculous madeup text chain between Tyler Robinson and his lover Lance
 Anchored Artifacts: A-1131.1
 Mentions: N-40, N-54
@@ -1257,7 +1257,7 @@ Claim: The host says viewers pointed out that the same man seen taking down the 
 Transcript Snippet: as many of you pointed out, that was uh, near Charlie or just before the assassination.
 
 Anchored Artifacts: 
-Mentions: N-3, N-1
+Mentions: N-3, N-1, N-83
 Related Nodes: N-10076, N-83
 Tags: relevance:core
 Investigative Direction: Review pre-shooting event footage and staff positions to confirm where the man stood relative to Kirk's seat and the back camera.
@@ -1273,7 +1273,7 @@ Claim: The host says she did not recognize the man wearing shades, asked someone
 Transcript Snippet: who's this person? and they tell me the person's name and I go, "Wait a second." And I look again,
 
 Anchored Artifacts: A-1122.1
-Mentions: N-3
+Mentions: N-3, N-83
 Related Nodes: N-83, N-10000, N-10076
 Supports: C-4902
 Tags: relevance:core
@@ -1290,7 +1290,7 @@ Claim: The host says she reached the man by text because she still had his numbe
 Transcript Snippet: I just sent a text because I still had his number and he was extremely forthcoming.
 
 Anchored Artifacts: A-1122.1
-Mentions: N-3
+Mentions: N-3, N-83
 Related Nodes: N-83, N-10076
 Tags: relevance:core
 Investigative Direction: Obtain the host's text thread and call log with the man to confirm the timing and content of the first contact.
@@ -1301,12 +1301,12 @@ Investigative Direction: Obtain the host's text thread and call log with the man
 
 Claim Timestamp: 00:07:22
 
-Claim: The host says the man told her he was seeing the clips go viral and was fearful for his family, and she adds that he has no security.
+Claim: The host says the man is seeing the clips go viral and is fearful for his family, and that he has no security.
 
 Transcript Snippet: obviously he's seeing all these clips going viral and he is fearful for his family.
 
 Anchored Artifacts: A-1122.1
-Mentions: N-3
+Mentions: N-3, N-83
 Related Nodes: N-83, N-10076
 Tags: relevance:context
 Investigative Direction: Confirm through the host or the man whether any threats were received after the clips spread.
@@ -1322,7 +1322,7 @@ Claim: The host says the man told her he was sitting to the left of Charlie when
 Transcript Snippet: I was sitting right to the left or or to the left of Charlie when Charlie got shot and I instantly knew that he was not going to be okay
 
 Anchored Artifacts: A-1122.1
-Mentions: N-3, N-1
+Mentions: N-3, N-1, N-83
 Related Nodes: N-83, N-10076
 Tags: relevance:core
 Investigative Direction: Compare the claimed seat to the seating chart and event footage from the left side of the tent; ask the man to confirm the account.
@@ -1338,7 +1338,7 @@ Claim: The host says the man told her the reason he was on his phone near the ca
 Transcript Snippet: That's why he's on his phone uh communicating to them what had happened. That's what he told me.
 
 Anchored Artifacts: A-1122.1
-Mentions: N-3
+Mentions: N-3, N-83
 Related Nodes: N-83, N-10000, N-10076
 Tags: relevance:core
 Investigative Direction: Identify whom he called and obtain phone records or his own statement on the calls placed in the minutes after the shooting.
@@ -1354,7 +1354,7 @@ Claim: The host says the man told her he grabbed the cameras because his first t
 Transcript Snippet: "Because the first thing that I thought is that I better secure the footage." and be helpful and give that footage,
 
 Anchored Artifacts: A-1122.1
-Mentions: N-3
+Mentions: N-3, N-83
 Related Nodes: N-83, N-10076, N-10014
 Tags: relevance:core
 Investigative Direction: Ask the FBI and TPUSA whether the camera and its card were handed over, when, and to whom, and obtain the chain-of-custody record.
@@ -1402,7 +1402,7 @@ Claim: The host says the man did not want to send her the footage without first 
 Transcript Snippet: he didn't want to send the footage over to me without checking with Turning Point Lawyers.
 
 Anchored Artifacts: A-1122.1
-Mentions: N-3
+Mentions: N-3, N-83
 Related Nodes: N-83, N-10000, N-10165
 Supports: C-4905
 Tags: relevance:core
@@ -1419,7 +1419,7 @@ Claim: The host says the man, out of loyalty to Erika Kirk, also does not want t
 Transcript Snippet: And so out of a a loyalty to Erika, he also doesn't want to give more footage to the internet.
 
 Anchored Artifacts: A-1122.1
-Mentions: N-3, N-2, N-1
+Mentions: N-3, N-2, N-1, N-83
 Related Nodes: N-83, N-10165
 Tags: relevance:core
 Investigative Direction: Ask Erika Kirk's office whether she requested that the footage stay unreleased.
@@ -1435,7 +1435,7 @@ Claim: The host says the man agreed that rather than send the footage, he would 
 Transcript Snippet: So, in the short run, he agrees that rather than send the footage, he will get onto a FaceTime call with me and he will show me the footage on his computer.
 
 Anchored Artifacts: A-1122.2
-Mentions: N-3
+Mentions: N-3, N-83
 Related Nodes: N-83, N-11256
 Tags: relevance:core
 Investigative Direction: Obtain call records for the FaceTime session and ask whether any recording or screenshot of the screen exists.
@@ -1616,7 +1616,7 @@ Claim: The host says she received way too many emails about Charlie's memorial a
 Transcript Snippet: All of them were asking specifically for me to confirm that I was going.
 
 Anchored Artifacts: 
-Mentions: N-3, N-84
+Mentions: N-3
 Related Nodes: N-10057, N-10002, N-10070
 Tags: relevance:context
 Investigative Direction: Ask the host to publish the sender names and outlets of the memorial emails and compare timing against the Daily Mail story.
@@ -1649,7 +1649,7 @@ Claim: In the replayed PBD clip, the exchange 'You're on the board of Turning Po
 Transcript Snippet: You're on the board of Turning Point. Yeah. Okay. When's the last time you saw Candace Owens in person?
 
 Anchored Artifacts: A-1125.1
-Mentions: N-14, N-3, N-57
+Mentions: N-14, N-3, N-57, N-72
 Related Nodes: N-10000, N-10059
 Supports: C-11969, C-11970
 Contradicts: C-1213
@@ -1662,7 +1662,7 @@ Investigative Direction: Replay the full PBD segment to confirm who answers 'Yea
 
 Claim Timestamp: 00:26:16
 
-Claim: In the replayed PBD clip, a speaker says that what he already knew was a very quiet breakup, in which Candace got too rabbit hole for Charlie, would otherwise make her the logical heir to the TPUSA throne.
+Claim: In the replayed PBD clip, a speaker says that in a perfect world, if not for what he already knew was a very quiet breakup in which Candace got too rabbit hole for Charlie, she would be the logical heir to the TPUSA throne.
 
 Transcript Snippet: She would be in in a perfect world if if they didn't have this what I already know was a is a very quiet breakup where she got too rabbit hole for him.
 
@@ -1784,7 +1784,7 @@ Claim: The host says AIPAC is pushing the headlines about her and that the answe
 Transcript Snippet: So, AIPAC is pushing this, right? The answer is implied by the people who are attacking me.
 
 Anchored Artifacts: 
-Mentions: N-3, N-84
+Mentions: N-3
 Related Nodes: N-10083, N-10073, N-11227
 Supports: C-1219
 Tags: relevance:context
@@ -1978,7 +1978,7 @@ Investigative Direction: Find recorded Kirk statements and the debate on speech 
 
 Claim Timestamp: 00:37:23
 
-Claim: The host says the feds are obviously lying and, at some level in a very big way, were involved in the death of Charlie because they wanted a radical way to push through laws.
+Claim: The host says the feds are obviously lying and that she would say they were, at some level in a very big way, involved in the death of Charlie because they wanted a radical way to push through laws.
 
 Transcript Snippet: Yeah. The feds are obviously lying and I would say at some level in a very big way were involved in the death of Charlie because they wanted this sort of radical way to push through laws.
 

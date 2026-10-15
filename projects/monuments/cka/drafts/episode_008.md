@@ -821,7 +821,7 @@ Claim Timestamp: 00:07:43
 Claim: In a follow-up video the host plays, Tiffany Barker says the children saw how much Charlie bled and asked why, and she told them during a roughly hour-and-a-half car wait after the shooting, "There's an artery here. Maybe they hit an artery," adding "I didn't know."
 Transcript Snippet: I said, 'There's an artery here. Maybe they hit an artery.' I didn't know. We didn't know anything.
 Anchored Artifacts: A-1147.1
-Mentions: N-75, N-76, N-77
+Mentions: N-75, N-76, N-77, N-1
 Related Nodes: N-10096
 Confidence: high
 Investigative Direction: Obtain the original follow-up video and any car-cam footage; verify Tiffany's stated timeline.
@@ -858,7 +858,7 @@ Tags: open_source_investigation
 **C-1250** Handcuffs photo shared by Utah TPUSA advertiser
 
 Claim Timestamp: 00:15:17
-Claim: Host says the viral handcuffs photo was first circulated by a Utah-based individual who advertises with Turning Point USA.
+Claim: Host says the viral handcuffs photo was shared by a Utah-based individual who advertises with Turning Point USA.
 Transcript Snippet: somebody who lived in Utah who advertises with Turning Point USA
 Anchored Artifacts: A-1148.4
 Mentions: N-42
@@ -894,7 +894,7 @@ Investigative Direction: Subpoena the originating accounts; obtain phone records
 
 ---
 
-**C-1253** Eyewitness tells FBI shooter was in tactical gear, not jeans
+**C-1253** Eyewitness Says Shooter Wore Tactical Gear, Not Jeans
 
 Claim Timestamp: 00:23:36
 Claim: Per the rooftop videographer as relayed by the host, he told authorities the shooter was in tactical gear and a face mask, not the jeans in the description the public received less than 24 hours later.
@@ -964,7 +964,7 @@ Investigative Direction: Confirm chain-of-custody; check whether originals were 
 **C-1258** Charlie Kirk said he was being morally blackmailed by donors
 
 Claim Timestamp: 00:43:37
-Claim: Kolvet recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' when pressured to disavow Candace/Tucker.
+Claim: Kolvet recounts Charlie telling him after a Myrtle Beach show, 'I don't appreciate being morally blackmailed,' after an audience member asked whether he would debate Candace or disavow Tucker.
 Transcript Snippet: he basically said, 'I don't appreciate being morally blackmailed.'
 Anchored Artifacts: A-1151.4, A-1152.1
 Mentions: N-1, N-3, N-14, N-22
@@ -1372,7 +1372,7 @@ Investigative Direction: Have a forensic examiner confirm the file's creation an
 
 Claim Timestamp: 00:23:52
 
-Claim: The host relays that the eyewitness said the roof figure looked to him like a foreign agent, highly trained and certain in his movements, and the host says she does not know how he could tell this if the person was dressed all in black.
+Claim: The host relays that the eyewitness said the roof figure looked to him like a foreign agent and that he was very certain the person was skilled and highly trained, and the host says she does not know how he could tell this if the person was dressed all in black.
 
 Transcript Snippet: that this person looked to him like a foreign agent.
 
@@ -1507,7 +1507,7 @@ Investigative Direction: Compare with the host's text exchanges with Charlie abo
 
 Claim Timestamp: 00:32:59
 
-Claim: In the clip, Kolvet says Erika is a cradle Catholic who ended up kind of like him, having moved to a Protestant, non-denominational church.
+Claim: In the clip, Kolvet says Erika is a cradle Catholic who ended up kind of like him, and that he thinks she followed the same path he did to a Protestant, non-denominational church.
 
 Transcript Snippet: Well, Erika's a cradle Catholic. Uh but she ended up kind of like me.
 
@@ -1679,7 +1679,7 @@ Transcript Snippet: Yes, they do. Uh the question is whether it's Bill Ackman, w
 Anchored Artifacts: 
 Mentions: N-3, N-37, N-98
 Related Nodes: N-10000, N-10105, N-11319
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Review TPUSA donor filings and the donors' registered foreign-agent relationships.
 
 ---
@@ -1697,7 +1697,7 @@ Mentions: N-3, N-1
 Related Nodes: N-10342, N-10105
 Supports: C-10767
 Contradicts: C-1256
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the host's text messages or sources that describe the offer, its date and its source.
 
 ---
@@ -2010,7 +2010,7 @@ Investigative Direction: Ask the dispatch center and the scanner-feed platform w
 
 ---
 
-**C-12056** Host Says Authorities Have Clear Footage of the Roof Figure They Did Not Release
+**C-12056** Host Says Authorities Have Clear Footage of the Person They Did Not Release
 
 Claim Timestamp: 00:59:04
 

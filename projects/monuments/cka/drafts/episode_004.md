@@ -900,7 +900,7 @@ Investigative Direction: Recover device timestamps and confirm Cox press transcr
 **C-1179** Per Indictment Texts, Robinson Lingered Near Scene Hours After Shooting
 
 Claim Timestamp: 00:10:04
-Claim: Per the text messages in the indictment that the host reads, Robinson depicts himself remaining near the UVU scene for hours after the shooting, attempting to retrieve his rifle from a drop point.
+Claim: Per the text messages in the indictment that the host reads, Robinson depicts himself remaining near the UVU scene after the shooting, attempting to retrieve his rifle from a drop point; the host infers from her timeline that he was still there hours later, late in the evening.
 Transcript Snippet: I'm lingering around there. I'm trying to get the vehicle… I will have left no evidence.
 Anchored Artifacts: A-1104.2, A-1104.3, A-1104.4, A-1104.5, A-1104.6, A-1105.1, A-1106.1
 Mentions: N-40
@@ -927,7 +927,7 @@ Tags: open_source_investigation
 **C-1181** Lance Twiggs Released Suspiciously Fast After Apartment Raid
 
 Claim Timestamp: 00:26:12
-Claim: Lance Twiggs was released back to his parents the same night his apartment was raided and electronics seized, which Candace argues is procedurally anomalous.
+Claim: The host says she has been told that Lance Twiggs was released to his parents ("allegedly") while his apartment was being raided and his electronics seized, and she argues he would normally be detained for at least 24 hours.
 Transcript Snippet: Why would they release Lance? Wouldn't you think that you would be detained like for at least 24 hours?
 Anchored Artifacts: A-1104.9, A-1104.10, A-1105.3
 Mentions: N-54
@@ -1484,7 +1484,7 @@ Investigative Direction: Obtain the search warrant return and the booking and re
 
 Claim Timestamp: 00:25:21
 
-Claim: The host says Lance Twiggs was brought in for questioning at around 11:00 p.m. and that the apartment was raided overnight into the early hours of the morning.
+Claim: The host says that apparently Lance Twiggs was brought in for questioning at around 11:00 p.m. and that the apartment was raided overnight into the early hours of the morning.
 
 Transcript Snippet: m. ish, we'll tell you around 11:00 p. m. Lance Twiggs is brought in for questioning.
 
@@ -1681,7 +1681,7 @@ Investigative Direction: Interview the family on record or document their statem
 
 Claim Timestamp: 00:40:50
 
-Claim: The host says the FBI released only static images, not video, of the man walking up the stairs, and she finds it weird that the footage is grainy.
+Claim: The host says the FBI released only static images, not video, of the man walking up the stairs, that she finds it weird they will not release the footage, and that the images feel intentionally grainy when clearer footage could be released.
 
 Transcript Snippet: And I'm further uh believing that because I think it's weird that they won't even release the footage uh this grainy footage of the guy walking up the stairs.
 
@@ -1954,7 +1954,7 @@ Investigative Direction: List the public tributes to Charlie by the people named
 
 Claim Timestamp: 00:51:17
 
-Claim: The host reads a tweet from Matt Gaetz saying he has personal knowledge of many of the claims Tucker is making and that they are 100 percent true, adding 'they were behaving like demons'.
+Claim: The host reads a tweet from Matt Gaetz saying he has personal knowledge of many of the claims Tucker is making and that they are 100 percent true, and then adds that they were behaving like demons.
 
 Transcript Snippet: I have personal knowledge as to many of the claims Tucker is making here.
 
@@ -2128,7 +2128,7 @@ Investigative Direction: Treat as the host's hypothesis; test it against specifi
 
 ---
 
-**C-4911** Host Says Donors Are Trying to Buy Their Way Into Funeral Remarks
+**C-4911** Host Says She Has Heard People Are Trying to Buy Their Way Into Funeral Remarks
 
 Claim Timestamp: 00:59:03
 

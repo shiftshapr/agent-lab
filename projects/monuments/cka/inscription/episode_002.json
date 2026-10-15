@@ -1941,7 +1941,7 @@
       "@id": "C-3631",
       "ref": "C-3631",
       "label": "Netanyahu Appeared on Fox News Within 24 Hours of Kirk's Death",
-      "claim": "Netanyahu appeared on Fox News less than 24 hours after Kirk's death to discuss him and present a letter.",
+      "claim": "The host says Netanyahu appeared on Fox News less than 24 hours after Kirk's death, and plays a clip in which he discusses Kirk and quotes a letter Kirk wrote him.",
       "anchored_artifacts": [
         "A-1082.1"
       ],
@@ -2013,7 +2013,7 @@
       "@id": "C-1127",
       "ref": "C-1127",
       "label": "Clip Has Kirk Describing Israel-Lobby Pressure One Month Before Death",
-      "claim": "In a clip the host plays of an interview with Megyn Kelly, which the host describes as from a month earlier, Charlie Kirk says he is being pressured regarding Israel criticism and event guest lists, saying his moral character is being put into question.",
+      "claim": "In a clip the host plays of an interview with Megyn Kelly, which the host describes as from a month earlier, Charlie Kirk says he has been treated unfairly by some over Israel, after Kelly notes he was attacked for having Dave Smith at a Turning Point event, saying his moral character is being put into question.",
       "anchored_artifacts": [
         "A-1084.1"
       ],
@@ -2027,7 +2027,8 @@
       "confidence": "high",
       "mentions_person_refs": [
         "N-1",
-        "N-46"
+        "N-46",
+        "N-39"
       ]
     },
     {
@@ -2061,7 +2062,7 @@
       "@id": "C-1129",
       "ref": "C-1129",
       "label": "Host Says Netanyahu Called Kirk and Invited Him to Israel",
-      "claim": "The host says she is told that Netanyahu called Kirk during the Hamptons meeting period and invited him to Israel.",
+      "claim": "The host says that at the time of the Hamptons meeting Netanyahu was called and Kirk was invited to Israel.",
       "anchored_artifacts": [
         "A-1082.1",
         "A-1092.1"
@@ -2072,7 +2073,7 @@
       "tags": [
         "open_source_investigation"
       ],
-      "claim_timestamp": "00:16:06",
+      "claim_timestamp": "00:16:23",
       "investigative_direction": "Cross-reference Netanyahu's Fox News statement with text messages from that period.",
       "transcript_snippet": "It was at this time that BB Netanyahu was called and Charlie was invited to Israel.",
       "confidence": "high",
@@ -2086,7 +2087,7 @@
       "@id": "C-1130",
       "ref": "C-1130",
       "label": "Kirk Declined Netanyahu's Israel Funding and Invitation",
-      "claim": "Host asserts Kirk declined the Israel trip and funding that Netanyahu and others would have provided.",
+      "claim": "Host asserts Kirk declined the Israel trip and funding that Netanyahu would have provided.",
       "anchored_artifacts": [
         "A-1082.1",
         "A-1092.1"
@@ -2893,7 +2894,7 @@
       "@id": "C-10663",
       "ref": "C-10663",
       "label": "Host Says Kirk Was Offered a Ton of Money",
-      "claim": "The host says she knows that Charlie Kirk was offered a ton of money in that moment, funding she says Netanyahu would have provided to take Turning Point USA to an even higher level.",
+      "claim": "The host says she knows that Charlie Kirk was offered a ton of money in that moment, funding she says Netanyahu would have provided and with which, she guesses, Turning Point USA would have gone to an even higher level.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10342",
@@ -3070,7 +3071,7 @@
         "N-10350"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:21:09",
       "investigative_direction": "Identify witnesses or objects (rosary, Mass attendance records) corroborating Kirk's Catholic practice.",
@@ -3092,7 +3093,7 @@
         "N-10350"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:21:29",
       "investigative_direction": "Ask for the message thread of that conversation; identify the church or priest if Kirk attended Mass.",
@@ -3114,7 +3115,7 @@
         "N-10350"
       ],
       "tags": [
-        "relevance:core"
+        "relevance:context"
       ],
       "claim_timestamp": "00:21:43",
       "investigative_direction": "Obtain the text or voice exchange to confirm the wording and date.",
@@ -3994,7 +3995,7 @@
       "@id": "C-10711",
       "ref": "C-10711",
       "label": "Host Says Freud Covered for Parents Who Raped Their Toddlers",
-      "claim": "The host says that Sigmund Freud's psychoanalytic movement covered for parents who were raping their toddlers, and cites it as evidence of the evil people are confronted with.",
+      "claim": "The host says that Sigmund Freud, who professionalized lies in the form of the psychoanalytic movement, was covering for parents who were raping their toddlers, and cites it as evidence of the evil people are confronted with.",
       "anchored_artifacts": [],
       "related_nodes": [],
       "tags": [

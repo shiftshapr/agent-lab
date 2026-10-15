@@ -924,7 +924,7 @@ Investigative Direction: Obtain full unedited version of Erika Kirk's remarks an
 **C-3631** Netanyahu Appeared on Fox News Within 24 Hours of Kirk's Death
 
 Claim Timestamp: 00:07:05
-Claim: Netanyahu appeared on Fox News less than 24 hours after Kirk's death to discuss him and present a letter.
+Claim: The host says Netanyahu appeared on Fox News less than 24 hours after Kirk's death, and plays a clip in which he discusses Kirk and quotes a letter Kirk wrote him.
 Transcript Snippet: Less than 24 hours after Charlie died, what BB Netanyahu had to say on Fox News.
 Anchored Artifacts: A-1082.1
 Mentions: N-1, N-36
@@ -965,10 +965,10 @@ Investigative Direction: Compare full letter text against Netanyahu's quoted exc
 **C-1127** Clip Has Kirk Describing Israel-Lobby Pressure One Month Before Death
 
 Claim Timestamp: 00:11:53
-Claim: In a clip the host plays of an interview with Megyn Kelly, which the host describes as from a month earlier, Charlie Kirk says he is being pressured regarding Israel criticism and event guest lists, saying his moral character is being put into question.
+Claim: In a clip the host plays of an interview with Megyn Kelly, which the host describes as from a month earlier, Charlie Kirk says he has been treated unfairly by some over Israel, after Kelly notes he was attacked for having Dave Smith at a Turning Point event, saying his moral character is being put into question.
 Transcript Snippet: My moral character is now being put into question… they were threatening to pull out money.
 Anchored Artifacts: A-1084.1
-Mentions: N-1, N-46
+Mentions: N-1, N-46, N-39
 Related Nodes: N-10025
 Confidence: high
 Investigative Direction: Verify exact date of Megyn Kelly interview and guest list complaints.
@@ -991,8 +991,8 @@ Investigative Direction: Identify attendees and obtain statements from Seth Dill
 
 **C-1129** Host Says Netanyahu Called Kirk and Invited Him to Israel
 
-Claim Timestamp: 00:16:06
-Claim: The host says she is told that Netanyahu called Kirk during the Hamptons meeting period and invited him to Israel.
+Claim Timestamp: 00:16:23
+Claim: The host says that at the time of the Hamptons meeting Netanyahu was called and Kirk was invited to Israel.
 Transcript Snippet: It was at this time that BB Netanyahu was called and Charlie was invited to Israel.
 Anchored Artifacts: A-1082.1, A-1092.1
 Mentions: N-1, N-36
@@ -1006,7 +1006,7 @@ Tags: open_source_investigation
 **C-1130** Kirk Declined Netanyahu's Israel Funding and Invitation
 
 Claim Timestamp: 00:17:13
-Claim: Host asserts Kirk declined the Israel trip and funding that Netanyahu and others would have provided.
+Claim: Host asserts Kirk declined the Israel trip and funding that Netanyahu would have provided.
 Transcript Snippet: I know for a fact that Charlie denied that funding… he declined to go to Israel.
 Anchored Artifacts: A-1082.1, A-1092.1
 Mentions: N-1, N-3, N-36
@@ -1538,7 +1538,7 @@ Investigative Direction: Ask the host to say who invited her, to where and when,
 
 Claim Timestamp: 00:17:18
 
-Claim: The host says she knows that Charlie Kirk was offered a ton of money in that moment, funding she says Netanyahu would have provided to take Turning Point USA to an even higher level.
+Claim: The host says she knows that Charlie Kirk was offered a ton of money in that moment, funding she says Netanyahu would have provided and with which, she guesses, Turning Point USA would have gone to an even higher level.
 
 Transcript Snippet: Um, and I know that Charlie was offered a ton of money in this moment.
 
@@ -1660,7 +1660,7 @@ Transcript Snippet: I can tell you factually Charlie was praying the rosary.
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10104, N-10350
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Identify witnesses or objects (rosary, Mass attendance records) corroborating Kirk's Catholic practice.
 
 ---
@@ -1676,7 +1676,7 @@ Transcript Snippet: Charlie was going to mass. One of my last conversations with
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10104, N-10350
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Ask for the message thread of that conversation; identify the church or priest if Kirk attended Mass.
 
 ---
@@ -1692,7 +1692,7 @@ Transcript Snippet: He says, "Haha, you're speaking about uh Mary."
 Anchored Artifacts: 
 Mentions: N-3, N-1
 Related Nodes: N-10104, N-10350
-Tags: relevance:core
+Tags: relevance:context
 Investigative Direction: Obtain the text or voice exchange to confirm the wording and date.
 
 ---
@@ -2310,7 +2310,7 @@ Investigative Direction: Identify the book and edition the host means; no case r
 
 Claim Timestamp: 01:02:17
 
-Claim: The host says that Sigmund Freud's psychoanalytic movement covered for parents who were raping their toddlers, and cites it as evidence of the evil people are confronted with.
+Claim: The host says that Sigmund Freud, who professionalized lies in the form of the psychoanalytic movement, was covering for parents who were raping their toddlers, and cites it as evidence of the evil people are confronted with.
 
 Transcript Snippet: I'm talking about parents that were raping their toddlers he was covering for.
 

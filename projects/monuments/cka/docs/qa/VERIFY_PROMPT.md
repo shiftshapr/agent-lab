@@ -16,6 +16,7 @@ an allegation is true. Edit no file except your results file.
    or `material` (a reader would be misled about what was said).
 3. **person**: are the people named in the claim, and the ids in Mentions, the right people?
    - Mentions lists people who are named or clearly referred to in the claim, and only those people.
+   - The host (N-3) is optional in Mentions: never mark an error only because N-3 is present or absent.
    - A name that looks like a transcription error is **only** an error if you confirm the correct name with a
      source: web-search `"<name>" "Charlie Kirk"` (or with Candace Owens / TPUSA) in "extended" mode, with spelling
      variants. Security staff, staffers and other minor figures are real people, often named only on Instagram,
@@ -30,6 +31,15 @@ an allegation is true. Edit no file except your results file.
    `tangential`: other matters, including private individuals' personal lives. `ok`, `disputed`, or `untagged`.
 
 **material** is true if attribution is `error`, accuracy is `material`, person is `error`, or timestamp is `error`.
+
+## Common misses (from the 2026-10-15 QA sample)
+- `>>` marks a change of speaker. Work out who says each line: a guest's, director's or clip speaker's words must not
+  be given to the host, and the host's must not be given to them. "On my show" or "why are you preaching about
+  Candace Owens" is not the host speaking.
+- Any detail in the claim that the window does not contain (a count, a date, a duration, a name, "emails" for one
+  email) is an addition. Search the transcript file for it before you pass the claim.
+- When the host says "you", check who she is addressing and who actually did the thing she describes.
+- A claim that states as fact what the host reports from a post, a chat or a rumour is an attribution error.
 
 ## Fixes
 For every claim that is material **or** minor, give the fix as fields to set. Include only fields that change:

@@ -1869,7 +1869,7 @@
       "@id": "C-1179",
       "ref": "C-1179",
       "label": "Per Indictment Texts, Robinson Lingered Near Scene Hours After Shooting",
-      "claim": "Per the text messages in the indictment that the host reads, Robinson depicts himself remaining near the UVU scene for hours after the shooting, attempting to retrieve his rifle from a drop point.",
+      "claim": "Per the text messages in the indictment that the host reads, Robinson depicts himself remaining near the UVU scene after the shooting, attempting to retrieve his rifle from a drop point; the host infers from her timeline that he was still there hours later, late in the evening.",
       "anchored_artifacts": [
         "A-1104.2",
         "A-1104.3",
@@ -1919,7 +1919,7 @@
       "@id": "C-1181",
       "ref": "C-1181",
       "label": "Lance Twiggs Released Suspiciously Fast After Apartment Raid",
-      "claim": "Lance Twiggs was released back to his parents the same night his apartment was raided and electronics seized, which Candace argues is procedurally anomalous.",
+      "claim": "The host says she has been told that Lance Twiggs was released to his parents (\"allegedly\") while his apartment was being raided and his electronics seized, and she argues he would normally be detained for at least 24 hours.",
       "anchored_artifacts": [
         "A-1104.9",
         "A-1104.10",
@@ -2710,7 +2710,7 @@
       "@id": "C-4868",
       "ref": "C-4868",
       "label": "Host Says Lance Was Brought In About 11 PM and the Apartment Raided Overnight",
-      "claim": "The host says Lance Twiggs was brought in for questioning at around 11:00 p.m. and that the apartment was raided overnight into the early hours of the morning.",
+      "claim": "The host says that apparently Lance Twiggs was brought in for questioning at around 11:00 p.m. and that the apartment was raided overnight into the early hours of the morning.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10044"
@@ -2974,7 +2974,7 @@
       "@id": "C-4881",
       "ref": "C-4881",
       "label": "Host Says the FBI Released Only Static Grainy Images Not Video of the Stairs Figure",
-      "claim": "The host says the FBI released only static images, not video, of the man walking up the stairs, and she finds it weird that the footage is grainy.",
+      "claim": "The host says the FBI released only static images, not video, of the man walking up the stairs, that she finds it weird they will not release the footage, and that the images feel intentionally grainy when clearer footage could be released.",
       "anchored_artifacts": [
         "A-1105.4"
       ],
@@ -3362,7 +3362,7 @@
       "@id": "C-4899",
       "ref": "C-4899",
       "label": "Gaetz Tweeted That Many of Tucker's Claims Are 100 Percent True",
-      "claim": "The host reads a tweet from Matt Gaetz saying he has personal knowledge of many of the claims Tucker is making and that they are 100 percent true, adding 'they were behaving like demons'.",
+      "claim": "The host reads a tweet from Matt Gaetz saying he has personal knowledge of many of the claims Tucker is making and that they are 100 percent true, and then adds that they were behaving like demons.",
       "anchored_artifacts": [
         "A-1109.1"
       ],
@@ -3600,7 +3600,7 @@
       "@type": "Claim",
       "@id": "C-4911",
       "ref": "C-4911",
-      "label": "Host Says Donors Are Trying to Buy Their Way Into Funeral Remarks",
+      "label": "Host Says She Has Heard People Are Trying to Buy Their Way Into Funeral Remarks",
       "claim": "The host says that she has heard people are trying to buy their way to speak, with the message that they have given this much money and want to say remarks about Charlie Kirk.",
       "anchored_artifacts": [],
       "related_nodes": [

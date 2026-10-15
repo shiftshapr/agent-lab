@@ -873,7 +873,7 @@ The host's report, from unnamed TPUSA sources, that contractors and other people
 
 ## 5. Claim Register
 
-**C-3632** Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing Organization-Wide DOGE Efficiency Audit
+**C-3632** Host Reads TPUSA Memo of September 2, 2025 Elevating Justin Streiff to COO and Announcing an Organization-Wide DOGE Effort
 
 Claim Timestamp: 00:21:37
 Claim: Per an internal TPUSA memo signed by Charlie Kirk on September 2, 2025 that the host reads, Justin Streiff was elevated to COO and tasked with assembling a team to conduct a DOGE-style efficiency, cost, and culture audit across the organization.
@@ -953,10 +953,10 @@ Investigative Direction: Confirm filmer's identity independently, obtain date-st
 
 ---
 
-**C-1291** Second rooftop witness gave footage to Orem Police Department on day one; feds did not contact him until September 15
+**C-1291** Second Rooftop Witness Gave Footage to Orem Police Department; Feds Did Not Contact Him Until September 15
 
 Claim Timestamp: 00:15:24
-Claim: A second rooftop witness told the host he personally walked his footage into the Orem Police Department on day one, and that the feds did not reach out to him until September 15, after Governor Cox declared the suspect in custody.
+Claim: A second rooftop witness told the host's team he walked in and gave his footage to the Orem Police Department, which said it was overwhelmed on day one, and that the feds did not reach out to him until September 15, after Governor Cox said the investigation was over and they had the guy.
 Transcript Snippet: He walked in and gave the footage to the Orem Police Department… the feds never reached out to him until the 15th.
 Anchored Artifacts: A-1164.3
 Mentions: N-41
@@ -968,10 +968,10 @@ Investigative Direction: Cross-reference Orem PD intake records, witness identit
 Tags: open_source_investigation
 ---
 
-**C-1292** Charlie Kirk characterized weekend retreat pressure as 'moral blackmail'
+**C-1292** DuRousseau Says Charlie Kirk Used the Phrase 'Moral Blackmail' in a Workshop Setting
 
-Claim Timestamp: 00:04:28
-Claim: Xavier Deruso states in his video that Charlie Kirk used the phrase 'moral blackmail' to describe the weekend pressure regarding his Israel/Netanyahu positioning.
+Claim Timestamp: 00:03:54
+Claim: The host says Xaviaer DuRousseau made a video addressing the Hamptons weekend in which he says Charlie spoke about feeling morally blackmailed, but in a workshop setting like a debate club; in the clip DuRousseau says Charlie said it is moral blackmail to claim that calling a politician bad empowers a terrorist organization.
 Transcript Snippet: Charlie spoke about feeling morally blackmailed.
 Anchored Artifacts: A-1165.1
 Mentions: N-115, N-1
@@ -995,7 +995,7 @@ Investigative Direction: Read with C-1292; match DuRousseau's video and channel 
 
 ---
 
-**C-1293** Emily's August 6 Hamptons Instagram post contradicts Xavier Deruso's safety-based secrecy claim
+**C-1293** Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim
 
 Claim Timestamp: 00:07:17
 Claim: Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining Deruso's claim that real-time posting was avoided for safety reasons.
@@ -1008,7 +1008,7 @@ Investigative Direction: Verify the Instagram post date, contents, and whether i
 
 ---
 
-**C-3738** Emily's August 6 Hamptons Instagram post contradicts Xaviaer DuRousseau's safety-based secrecy claim (revises C-1293)
+**C-3738** Emily's August 6 Hamptons Post Contradicts Xaviaer DuRousseau's Safety-Based Secrecy Claim (revises C-1293)
 
 Claim Timestamp: 00:07:17
 Claim: C-1293's title spells the name 'Xavier Deruso'; the person is Xaviaer DuRousseau (N-115). Host cites an Emily Saves America Instagram post dated August 6 stating she was in the Hamptons during the weekend, undermining DuRousseau's claim that real-time posting was avoided for safety reasons.
@@ -1137,7 +1137,7 @@ Investigative Direction: Confirm Marissa Streit's role in the PragerU video and 
 **C-3733** Host credits Taylor Lorenz for noting her isolation
 
 Claim Timestamp: 00:39:29
-Claim: The host gives a shout out to Taylor Lorenz, who she says wrote on X asking why she felt Candace was the only one who actually cared about Charlie.
+Claim: The host gives a shout out to Taylor Lorenz, who she says wrote, she thinks on X, asking why she felt Candace was the only one who actually cared about Charlie.
 Transcript Snippet: Actually, a shout out to Taylor Lorenz.
 Anchored Artifacts: A-2520.3
 Mentions: N-3, N-120
@@ -1149,7 +1149,7 @@ Investigative Direction: Locate the Taylor Lorenz post on X.
 **C-3734** Host likens signed bullets to Nikki Haley signing bombs
 
 Claim Timestamp: 00:41:58
-Claim: Answering a viewer comment about messages on bullets, the host likens it to Nikki Haley signing bombs that were dropped and killed children.
+Claim: Answering a viewer comment about messages on bullets, the host likens it to Nikki Haley signing bombs that are going to be dropped and kill children.
 Transcript Snippet: Like Nikki Haley signing bombs.
 Anchored Artifacts: A-2520.4
 Mentions: N-124
@@ -1741,11 +1741,11 @@ Investigative Direction: Obtain the witness's police report and the FBI contact 
 
 ---
 
-**C-13767** Host Says Not Contacting Both Witnesses Until September 15 Looks Like a Cover-Up
+**C-13767** Host Says Not Contacting the Two Rooftop Witnesses Looks Like a Cover-Up
 
 Claim Timestamp: 00:16:12
 
-Claim: The host says the failure to reach the two rooftop footage witnesses until September 15 looks to her like a cover-up rather than an effort to get to the bottom of the crime, and that the feds' resources make it implausible they did not reach out.
+Claim: The host says the failure to reach the two rooftop footage witnesses (one never, the other not until September 15) looks to her like a cover-up rather than an effort to get to the bottom of the crime, and that the feds' resources make it implausible they did not reach out.
 
 Transcript Snippet: that looks to me like a cover up. Not like you're trying to get to the bottom of something.
 

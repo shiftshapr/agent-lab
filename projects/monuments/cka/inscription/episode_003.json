@@ -1935,7 +1935,7 @@
       "@id": "C-1147",
       "ref": "C-1147",
       "label": "Per Probable Cause Statement, Suspect Was on Roof by 12:15pm",
-      "claim": "Per the probable cause statement the host reads, a surveillance camera covering the roof recorded an individual in dark clothing crossing the railing onto the roof at approximately 12:15pm, eight minutes before the 12:23pm shot.",
+      "claim": "Per the probable cause statement the host reads, a surveillance camera covering the roof recorded an individual in dark clothing crossing the railing onto the roof at approximately 12:15pm; the host adds that, by her timeline, this is about eight minutes before the 12:23pm shot.",
       "anchored_artifacts": [
         "A-1095.2"
       ],
@@ -2051,7 +2051,7 @@
       "@id": "C-1153",
       "ref": "C-1153",
       "label": "Robinson shifted politically left over last year",
-      "claim": "Robinson's mother told police he had become increasingly political over the past year, leaning more left, more pro-gay, and more trans-rights oriented, with difficult discussions with his father.",
+      "claim": "Per the probable cause statement the host reads, Robinson's mother told police he had become increasingly political over the past year, leaning more left, more pro-gay, and more trans-rights oriented, with difficult discussions with his father.",
       "anchored_artifacts": [
         "A-1095.5"
       ],
@@ -2094,7 +2094,7 @@
       "@id": "C-1155",
       "ref": "C-1155",
       "label": "Indictment omits timestamps on Tyler-Lance texts",
-      "claim": "The indictment's text-message excerpt provides no time stamps for the September 10, 2025 exchanges, despite references to lockdown and post-shooting events.",
+      "claim": "The host says the indictment's text-message excerpt gives no time for the September 10, 2025 exchanges, and that from their content the messages must have been sent after Charlie Kirk was shot.",
       "anchored_artifacts": [
         "A-1095.8"
       ],
@@ -2118,7 +2118,7 @@
       "@id": "C-1156",
       "ref": "C-1156",
       "label": "Robinson dated roommate, biological male transitioning",
-      "claim": "Robinson began dating his roommate, a biological male transitioning genders, according to his mother.",
+      "claim": "Per the probable cause statement the host reads, Robinson's mother told police he began dating his roommate, a biological male transitioning genders.",
       "anchored_artifacts": [
         "A-1095.5",
         "A-1095.9"
@@ -2139,7 +2139,7 @@
       "@id": "C-1157",
       "ref": "C-1157",
       "label": "George Zinn arrested for obstruction after decoy confession",
-      "claim": "George Zinn, a 71-year-old, was arrested after allegedly jumping up and claiming credit for the Kirk shooting; he faces obstruction of justice charges.",
+      "claim": "The host says George Zinn, a 71-year-old man, jumped up after the Kirk shooting implying he did it, was arrested, and now faces obstruction of justice charges.",
       "anchored_artifacts": [
         "A-1096.1",
         "A-1097.1"
@@ -2182,7 +2182,7 @@
       "@id": "C-1159",
       "ref": "C-1159",
       "label": "Bill Ackman issued 955-word tweet response",
-      "claim": "Bill Ackman published a 955-word tweet response denying that the Hamptons retreat was an intervention or blackmail attempt on Charlie.",
+      "claim": "The host says Bill Ackman published a 955-word tweet response which, as she reads it, denies that the Hamptons retreat was an intervention to blackmail Charlie.",
       "anchored_artifacts": [
         "A-1098.1"
       ],
@@ -2203,7 +2203,7 @@
       "@id": "C-1160",
       "ref": "C-1160",
       "label": "Hamptons retreat held August 4-5, 2025",
-      "claim": "Bill Ackman's tweet confirmed he hosted a meeting with Charlie Kirk on August 4th and 5th at the Hamptons.",
+      "claim": "The host says, crediting Village Crazy Lady on X, that Bill Ackman's tweet confirmed he hosted his meeting with Charlie Kirk on August 4th and 5th in the Hamptons.",
       "anchored_artifacts": [
         "A-1098.1",
         "A-1101.1",
@@ -2264,7 +2264,8 @@
       "mentions_person_refs": [
         "N-1",
         "N-9",
-        "N-46"
+        "N-46",
+        "N-37"
       ]
     },
     {
@@ -2293,8 +2294,8 @@
       "@type": "Claim",
       "@id": "C-1164",
       "ref": "C-1164",
-      "label": "Charlie Kirk wrote letter to Netanyahu in May",
-      "claim": "The host says the letter Charlie Kirk wrote Benjamin Netanyahu in May was glowing, that he was overcome with passion and said he loved Israel, and that she finds it weird no one addresses the substance of the claims.",
+      "label": "Host Mocks Portrayal of Kirk's May Letter to Netanyahu as Glowing",
+      "claim": "The host sarcastically mimics the portrayal of the letter Charlie Kirk wrote Benjamin Netanyahu in May as glowing and passionate ('Love you BB'), and says she finds it weird no one addresses the substance of the claims.",
       "anchored_artifacts": [
         "A-1100.1"
       ],
@@ -2428,14 +2429,14 @@
       "@type": "Claim",
       "@id": "C-1171",
       "ref": "C-1171",
-      "label": "Unusual traffic observed at residence pre-shooting",
-      "claim": "Neighbors and Lance's family reported unusual, frequent traffic and unrecognized cars at the Robinson/Twigs residence in the days before the shooting.",
+      "label": "Host Relays Rumor of Unusual Traffic at Residence Before Shooting",
+      "claim": "The host says people who live in the neighborhood have been writing to her about unusual traffic, with a lot of unrecognized cars, at the house Tyler Robinson and Lance Twiggs shared in the days or weeks before the shooting, that a Twiggs family member told her they were hearing the same thing, and that she is still pinning down the timeline.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10035"
       ],
       "tags": [],
-      "claim_timestamp": "00:34:04",
+      "claim_timestamp": "00:33:24",
       "investigative_direction": "Pull traffic camera footage and license plate reader data; interview more neighbors.",
       "transcript_snippet": "there were unusual uh unusual traffic in the driveway where Tyler Robinson and Lance lived",
       "confidence": "medium",
@@ -2470,7 +2471,7 @@
       "@id": "C-1173",
       "ref": "C-1173",
       "label": "Seth Dillon and Josh Hammer pressured Charlie at retreat",
-      "claim": "Attendees report Seth Dillon and Josh Hammer pressured Charlie at the Hamptons retreat regarding Israel views and conference guests.",
+      "claim": "Per attendees the host cites, Charlie faced pressure at the Hamptons retreat from Seth Dillon over his Israel views; the host says she heard Josh Hammer was upset after Charlie left and that she knows for a fact Hammer was part of 'the beehive that was swarming him' over people he had at his conferences.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10033"
@@ -2482,6 +2483,7 @@
       "confidence": "medium",
       "uncertainty_note": "Multiple-source attendee statements, none on the record.",
       "mentions_person_refs": [
+        "N-1",
         "N-38",
         "N-55"
       ]
@@ -2491,7 +2493,7 @@
       "@id": "C-1174",
       "ref": "C-1174",
       "label": "Top Jewish donors pulled funding and demanded name removal from building",
-      "claim": "Per Candace's contacts, Charlie's top Jewish donors were pulling funding within 48 hours of his death and demanding their name be removed from a Turning Point building; after his death they asked for it to be restored.",
+      "claim": "The host says people contacting her report that, within 48 hours before Charlie's death, his top Jewish donors were pulling funding and demanding their name be removed from a building they had donated to Turning Point, and that once he was killed they said to put it back on the building.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10000",
@@ -2505,7 +2507,10 @@
       "transcript_snippet": "his top Jewish donors were pulling funding from him, demanding that Charlie take their name off of the building",
       "confidence": "medium",
       "uncertainty_note": "Single-source tip relayed by host.",
-      "mentions_person_refs": []
+      "mentions_person_refs": [
+        "N-1",
+        "N-3"
+      ]
     },
     {
       "@type": "Claim",
@@ -2716,7 +2721,6 @@
       "transcript_snippet": "I've read a lot about blackmail operations. The people they tend to go after are people who are into children.",
       "mentions_person_refs": [
         "N-42",
-        "N-9",
         "N-3"
       ]
     },
@@ -2825,10 +2829,7 @@
       ],
       "claim_timestamp": "00:07:42",
       "investigative_direction": "Identify the officer and obtain the incident report and body camera footage describing what he heard and when.",
-      "transcript_snippet": "a police officer who immediately looked upward and realized that he had heard the sign of a a rifle",
-      "mentions_person_refs": [
-        "N-40"
-      ]
+      "transcript_snippet": "a police officer who immediately looked upward and realized that he had heard the sign of a a rifle"
     },
     {
       "@type": "Claim",
@@ -3102,7 +3103,7 @@
       "@id": "C-13512",
       "ref": "C-13512",
       "label": "Indictment Says Robinson Replied He Had Disposed of Clothes in a Different Area",
-      "claim": "Reading the indictment, the host says Robinson replied that he had already disposed of clothes in a different area, and notes it does not make sense to her that clothes would be brought to the parents' property when Robinson lived with his boyfriend.",
+      "claim": "Reading the indictment, the host says Robinson replied that he had already disposed of clothes in a different area, and notes that the instruction to bring in his clothes so police would not search his parents' property does not exactly make sense to her because Robinson lived with his boyfriend.",
       "anchored_artifacts": [
         "A-1095.7"
       ],
@@ -3118,6 +3119,7 @@
       "transcript_snippet": "Robinson replies that at that moment that he had disposed of clothes in different area.",
       "mentions_person_refs": [
         "N-40",
+        "N-54",
         "N-3"
       ]
     },
@@ -3137,6 +3139,7 @@
       "transcript_snippet": "And the conversation that I am having is that Tyler's classmates and the neighborhood are very shocked that Tyler would be first and foremost involved in this at all.",
       "mentions_person_refs": [
         "N-40",
+        "N-54",
         "N-3"
       ]
     },
@@ -3222,6 +3225,7 @@
       "investigative_direction": "Request the photograph, its metadata and the device it was found on in discovery.",
       "transcript_snippet": "Police found a photograph of this note and the following text a change then took place.",
       "mentions_person_refs": [
+        "N-40",
         "N-54"
       ]
     },
@@ -3596,7 +3600,8 @@
       "investigative_direction": "Compare the indictment's excerpts to the full message log in discovery for omitted sections.",
       "transcript_snippet": "Yeah. And it looks like they're cherrypicking certain exchanges.",
       "mentions_person_refs": [
-        "N-67"
+        "N-67",
+        "N-40"
       ]
     },
     {
@@ -4175,8 +4180,8 @@
       "@type": "Claim",
       "@id": "C-13559",
       "ref": "C-13559",
-      "label": "Host Says a File Was Presented With a Do-This-or-Else Message",
-      "claim": "The host says, while distinguishing her account from the word blackmail, that there was a file presented and a do-this-or-else message.",
+      "label": "Host Says She Never Alleged a File Was Presented With a Do-This-or-Else Message",
+      "claim": "The host says, while distinguishing her account from the word blackmail, that she never said there was a file presented with a do-this-or-else message, and that she would not have said that.",
       "anchored_artifacts": [],
       "related_nodes": [
         "N-10033",
@@ -4482,7 +4487,7 @@
       "@type": "Claim",
       "@id": "C-13572",
       "ref": "C-13572",
-      "label": "Kirk Says on the Clip There Was Another Article About Him in the Times of Israel That Day",
+      "label": "Kirk Says on the Clip There Was Another Article in the Times of Israel That Day",
       "claim": "In the clip, Charlie Kirk says there was another article out in the Times of Israel that day, which he could read on air and had been reading before he got on.",
       "anchored_artifacts": [
         "A-1099.1"
@@ -4752,7 +4757,7 @@
       "@id": "C-13584",
       "ref": "C-13584",
       "label": "Host Says Commenters Urge Ackman to Sue Her and Take Her Money",
-      "claim": "The host says commenters under her posts are telling Bill Ackman to sue her and take her money.",
+      "claim": "The host says commenters are telling Bill Ackman to sue her and take her money.",
       "anchored_artifacts": [
         "A-3269.1"
       ],
@@ -4840,7 +4845,7 @@
       "@id": "C-13588",
       "ref": "C-13588",
       "label": "Host Relays That Ackman Offered a Million Dollars for Information on the Assassin",
-      "claim": "The host relays that Bill Ackman says he is offering a million dollars to anyone with any information regarding the person who assassinated Charlie Kirk, as cited in comments that Laura Loomer uses against her.",
+      "claim": "The host relays that Bill Ackman says he is offering a million dollars to anyone with any information regarding the person who assassinated Charlie Kirk, which she says Laura Loomer and others use against her.",
       "anchored_artifacts": [
         "A-3268.1"
       ],

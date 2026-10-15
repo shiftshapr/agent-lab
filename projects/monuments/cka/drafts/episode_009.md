@@ -823,7 +823,7 @@ Tags: open_source_investigation
 **C-1270** Existence of 80-page Crooks online-history document
 
 Claim Timestamp: 00:22:24
-Claim: Host possesses an 80-page document containing scraped Crooks online accounts, statements, and activity predating July 13, 2024.
+Claim: The host says she has an 80-page document, scraped before the feds removed it, of all the accounts Thomas Crooks made and the statements he made, which she may post on her website after handing it to legal.
 Transcript Snippet: I have an 80page document which I'm thinking I'm just going to drop on my website tomorrow.
 Anchored Artifacts: A-1156.1
 Mentions: N-104
@@ -836,7 +836,7 @@ Investigative Direction: Obtain full document; forensically authenticate scrape 
 **C-1271** Crooks posted bedroom firing-practice videos
 
 Claim Timestamp: 00:22:45
-Claim: Thomas Matthew Crooks posted multiple videos of himself practicing firing a weapon in his bedroom.
+Claim: The host says Thomas Matthew Crooks posted multiple videos of himself practicing firing a weapon with no bullets in his bedroom, and shows one that was scraped.
 Transcript Snippet: Videos that he was posting of himself shooting with no bullets in the gun in his bedroom.
 Anchored Artifacts: A-1156.2
 Mentions: N-104
@@ -1006,7 +1006,7 @@ Investigative Direction: Obtain forensic print report from court filings.
 **C-1284** Eyewitness: shooter in tactical gear, gun mismatch
 
 Claim Timestamp: 00:03:46
-Claim: Per host's source, the eyewitness who filmed the rooftop shooter says the figure wore tactical gear and the gun did not match what he observed.
+Claim: The host says the eyewitness who filmed the rooftop shooter told her the figure wore tactical gear and the gun did not match what he observed.
 Transcript Snippet: He was in tactical gear. The person that I saw was in tactical gear.
 Anchored Artifacts: 
 Mentions: N-40
@@ -1346,7 +1346,7 @@ Investigative Direction: Obtain the posts the host says she will show and identi
 
 ---
 
-**C-13677** Host Says She Hired More Security the Week of Aug 30
+**C-13677** Host Says She Hired More Security That Very Week
 
 Claim Timestamp: 00:14:19
 
@@ -1922,7 +1922,7 @@ Investigative Direction: Kelly's own account of her conversation with Erika; com
 
 Claim Timestamp: 00:35:57
 
-Claim: In the segment the Jezebel writer is quoted as saying she is not calling on dark forces to cause harm and just wants him to wake up every morning with an inexplicable zit.
+Claim: The host says the Jezebel writer said she is not calling on dark forces to cause harm and just wants him to wake up every morning with an inexplicable zit.
 
 Transcript Snippet: I'm not calling on dark forces to cause him harm. I just want him to wake up every morning with an inexplicable zit.
 
